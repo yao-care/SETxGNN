@@ -1,0 +1,33 @@
+# Sweden MPA Field Mapping Configuration
+
+country_code: "SE"
+language: "sv"
+regulatory_agency: "MPA"
+
+data_source:
+  name: "Läkemedelsverket - Läkemedelsregister"
+  url: "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv"
+  catalog_url: "https://www.dataportal.se/en/datasets/140_5467"
+  search_url: "https://www.lakemedelsverket.se/sv/sok-lakemedelsfakta"
+  format: CSV
+  encoding: utf-8
+
+field_mapping:
+  license_id: "Godkännandenummer"
+  brand_name_local: "Läkemedelsnamn"
+  brand_name_en: "Aktiv substans"
+  ingredients: "Aktiv substans"
+  indication: ""
+  dosage_form: "Beredningsform"
+  manufacturer: "Innehavare"
+  approval_date: "Godkännandedatum"
+  status: "Status"
+
+withdrawn_statuses:
+  - "Indragen"
+  - "Avregistrerad"
+  - "Tillfälligt indragen"
+
+ingredient_separator: ","
+date_format: "%Y-%m-%d"
+encoding: "utf-8"

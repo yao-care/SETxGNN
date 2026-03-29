@@ -1,0 +1,22 @@
+{
+  "description": "Disease and drug synonyms in Swedish",
+  "generated": "2026-03-29",
+  "indication_synonyms": {
+    "diabetes mellitus": ["diabetes", "sockersjuka", "typ 2 diabetes", "typ 1 diabetes"],
+    "hypertension": ["högt blodtryck", "hypertoni", "förhöjt blodtryck"],
+    "cancer": ["cancer", "tumör", "elakartad tumör", "onkologi"],
+    "heart disease": ["hjärtsjukdom", "hjärtsvikt", "hjärt-kärlsjukdom"],
+    "asthma": ["astma", "bronkialastma"],
+    "depression": ["depression", "depressiv sjukdom", "egentlig depression"],
+    "arthritis": ["artrit", "reumatoid artrit", "artros", "ledgångsreumatism"],
+    "stroke": ["stroke", "slaganfall", "hjärninfarkt"],
+    "obesity": ["fetma", "övervikt", "metabolt syndrom"],
+    "alzheimer disease": ["Alzheimer", "Alzheimers sjukdom", "demens"]
+  },
+  "drug_synonyms": {
+    "metformin": ["metformin", "Glucophage"],
+    "aspirin": ["aspirin", "acetylsalicylsyra", "ASA"],
+    "ibuprofen": ["ibuprofen", "Ipren", "Ibumetin"],
+    "acetaminophen": ["paracetamol", "Alvedon", "Panodil"]
+  }
+}
