@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-29T21:28:21.803149+00:00",
+  "fetched_at": "2026-03-29T22:26:49.676031+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -104,23 +104,13 @@
       }
     },
     {
-      "id": "e95bd4576244",
-      "title": "Diabetesläkemedel kopplas till bättre psykisk hälsa - forskning.se",
+      "id": "dfd373324dce",
+      "title": "Diabetesläkemedel kopplas till bättre psykisk hälsa - Forskning.se",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS0o5V1l6a25kaEt6bHZ5cEQ2SkU4emxLYU5wS0FQQ3FYbW1JSmowcjJBT2lVTmRmNkdZQ3c4OUFjc2tEb2piVUpjcXdPM29GV25Fell2OFg5VmxNbjdhU1BxSmhsbzEtUy1oaUpsYkx3TVZtMmx1YW00M29qd21PNnBYZUdHMG5SRXBtS05GckE3UQ?oc=5",
       "published": "2026-03-20T11:38:05+00:00",
       "source": {
-        "name": "forskning.se",
+        "name": "Forskning.se",
         "url": "https://forskning.se"
-      }
-    },
-    {
-      "id": "703dffd8533a",
-      "title": "Nya läkemedlet kan hjälpa vid fettlever - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNFE2d0lpVUZaMVpnTVpQaERieGFZR1AtRXkxZUxTTGJYdWpMMDJyMUJPc1JnanJ6YzhXMTg5Z1BRRXJQbENmXzhicmNoeW1hZjZBSU5qeDM4QlltejVTbVhRSFF4bk15Vk1SNHN3VVd4cll3RzEtUk03anFVdG9STTJPeXNZUEpRb0FORTlTRmExX1Za?oc=5",
-      "published": "2026-03-23T17:27:21+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -131,6 +121,16 @@
       "source": {
         "name": "ICA Gruppen",
         "url": "https://www.icagruppen.se"
+      }
+    },
+    {
+      "id": "703dffd8533a",
+      "title": "Nya läkemedlet kan hjälpa vid fettlever - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNFE2d0lpVUZaMVpnTVpQaERieGFZR1AtRXkxZUxTTGJYdWpMMDJyMUJPc1JnanJ6YzhXMTg5Z1BRRXJQbENmXzhicmNoeW1hZjZBSU5qeDM4QlltejVTbVhRSFF4bk15Vk1SNHN3VVd4cll3RzEtUk03anFVdG9STTJPeXNZUEpRb0FORTlTRmExX1Za?oc=5",
+      "published": "2026-03-23T17:27:21+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -204,16 +204,6 @@
       }
     },
     {
-      "id": "8b8672f95cf5",
-      "title": "Två spaningar mot horisonten - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xRktCems4S1Z4Ri11Y2J4d2pLSVl1dThockJ5c2VzSWtlSTVSVDNjcUdHeEx0LVJaa1k2TzAyYW53VEM3YXFRdnQ1cVVtQXUtY3NCUVVsUS1NQ0pTMHJzc1NyWmt6YjM5NjNtbGxaeE92WEJ6WDcwekJ3STVXQQ?oc=5",
-      "published": "2026-03-24T22:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "7ac3f86a2eeb",
       "title": "Läkemedel handelsvara i tredje världen. Fasta regler krävs för läkemedelsförsäljning - Läkartidningen",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdkFLOF8zazRzX1dMYzVxTVVzdDZpRWJWNEhXZUwxbF9acXRKVm5MSHo1ZG5VeS00S0tLM2dTbmZ4VVExTDZUeXFVTVJaV1lnMEZZLU1oUGI1ZDAyV0djTmJNZ2tGRG9zMHB5cDNrV255SWlJbmE4ZGFRWnZzQ0JtQkdqUVM0UWJvUHNDUWRDODlxX2NaaHRsMklxYXc2NGVXUFlIbG5iOFZDdXdrT2FwT2RpQ1RlNE82bGhmaGFfNmxfM1NRWS1tWlA4Zmoyc1JxbXRPN1ZGaDRBdmpiSmFR?oc=5",
@@ -221,6 +211,16 @@
       "source": {
         "name": "Läkartidningen",
         "url": "https://lakartidningen.se"
+      }
+    },
+    {
+      "id": "8b8672f95cf5",
+      "title": "Två spaningar mot horisonten - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xRktCems4S1Z4Ri11Y2J4d2pLSVl1dThockJ5c2VzSWtlSTVSVDNjcUdHeEx0LVJaa1k2TzAyYW53VEM3YXFRdnQ1cVVtQXUtY3NCUVVsUS1NQ0pTMHJzc1NyWmt6YjM5NjNtbGxaeE92WEJ6WDcwekJ3STVXQQ?oc=5",
+      "published": "2026-03-24T22:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -304,12 +304,12 @@
       }
     },
     {
-      "id": "e2a6e99a53b1",
-      "title": "PFAS lämnar kroppen snabbare med vissa läkemedel - gu.se",
+      "id": "a8e84d1861a5",
+      "title": "PFAS lämnar kroppen snabbare med vissa läkemedel - Göteborgs universitet",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdzQtVGltZzNOaHRzakxGcktvdDJvdEpFTUVHTFVYbU9VUko4dnprampfVnQ3azhiZHcydmNwV29xd2pPSUNJM0NzUFFBRHFQUzVTUXFHZjFIYWhfbVFSUFJJaW5DckRrdjlVLTU0Qy1XRGZkSnhsS3FnMl95VWc?oc=5",
       "published": "2025-10-30T07:00:00+00:00",
       "source": {
-        "name": "gu.se",
+        "name": "Göteborgs universitet",
         "url": "https://www.gu.se"
       }
     },
@@ -794,16 +794,6 @@
       }
     },
     {
-      "id": "c1bbaee432f7",
-      "title": "Nya ”fetmapillret” har släppts: Väldigt positivt - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY3diZHc4WWo4Uk50RldxMDRqZy1NVGtZbHNxSEloSUVlanlrRE9id3p6OC1tVEVoVEVma1JRci01UTdXT09saDV2c3NfU1JuMTZXY2lMdlNtdWhlV2xlQWZkcWx3ZGNqVlE0OUZEOHZoVTJTVzFrWlpJLTh6MFVJTzNvZVB3ZnNndjNyXzN3RQ?oc=5",
-      "published": "2026-03-19T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "897deb69e08f",
       "title": "Vietnamesiska representanter är pionjärer i att vinna stora priser vid Healthcare Asia Pharma Awards två år i rad. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQmZFdlJjVmI0b2NpWW5KSF85MXIwNkktSDBRQjVjTEpkdUVGeUFmMzY4cFdZYlFQU1Y3cjN6TnN4MkhCZUVtUjVseTQtN2pNVDdjV0dBRHJoaVdMZjVydmU4b21JbGc0TS1CNGZRM0xPODRMaGpLVFJ0XzdaZFlkU2duVHFrTmNvQUNSWjYtN3NVLVo3amV0a0dHYlF2NnZvN0xYUEVLczBHZ0xKSXNxWTIzY0taMWNISVBacE94Vk0tRy1D?oc=5",
@@ -874,6 +864,16 @@
       }
     },
     {
+      "id": "c1bbaee432f7",
+      "title": "Nya ”fetmapillret” har släppts: Väldigt positivt - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY3diZHc4WWo4Uk50RldxMDRqZy1NVGtZbHNxSEloSUVlanlrRE9id3p6OC1tVEVoVEVma1JRci01UTdXT09saDV2c3NfU1JuMTZXY2lMdlNtdWhlV2xlQWZkcWx3ZGNqVlE0OUZEOHZoVTJTVzFrWlpJLTh6MFVJTzNvZVB3ZnNndjNyXzN3RQ?oc=5",
+      "published": "2026-03-19T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
       "id": "a84964059344",
       "title": "Läkemedel för miljarder eldas upp – 1 400 ton om året - News55",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnBocEFpQkQwRmttemhRWVZ5UUFtcGRGLXhPb3JHZkRsb2tJOGNQYUVnLTFCSUp2MW1iU1NpTXAtR1dNVHVrNTliNWU3SDhFX0RuenBHNThfWVZOM1N2SWJKN1E0eTVaMzk5VnFGM1hvbTBwTW5ZdzRaYVdHS2FfTXNaQlVjdzg?oc=5",
@@ -894,16 +894,6 @@
       }
     },
     {
-      "id": "d116755e4b19",
-      "title": "Rapport: 122 sajter säljer läkemedel olagligt – kräver höjda straff - News55",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS1FQTjN6bHdHdVQ4WjdlWnlrWXNEUVVYSjJVYkJkSVRuZTRJUUx0VUNRY0RpUEpKakhIalRjZC13VmlCM3RZVDNrcWt4X2J2emd3d2hJVUlCMnI1Z3hEbW03c0o3SGtOZ2RxRzVMT1Y5em9PWVVGdlJ5SEFySWZHbVdCVWpSdS1GMU1iMkVqamlsWVJiLVRoRw?oc=5",
-      "published": "2026-02-04T08:00:00+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "b6c2d810fd17",
       "title": "Pekar ut problem inom tennisen: ”Klarar inte det” - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT3JQV2J4Y2Joa05acGlXRlV3VkxFNS1XT2ZUNTR5ZHBkdTlyVUE5MnY2T1hpS1RPaDIzb05EQkRJWGFaY25MalhXb2dYbFVEZExRd0Z0LU1lLVRrWmNvMU1aZ18wMEpieEsySkpZWXNNdThRLXFEZjlja1RVbHltTjJGekRSdThEMk9DT3JaR1B4MjBMaExoRFJYTjJiNlE0YS1FVGhVMHpibXpKZXpZSzlQQW5zLU84VlNnRmV4TVUtc1FtYkE?oc=5",
@@ -911,6 +901,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "d116755e4b19",
+      "title": "Rapport: 122 sajter säljer läkemedel olagligt – kräver höjda straff - News55",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS1FQTjN6bHdHdVQ4WjdlWnlrWXNEUVVYSjJVYkJkSVRuZTRJUUx0VUNRY0RpUEpKakhIalRjZC13VmlCM3RZVDNrcWt4X2J2emd3d2hJVUlCMnI1Z3hEbW03c0o3SGtOZ2RxRzVMT1Y5em9PWVVGdlJ5SEFySWZHbVdCVWpSdS1GMU1iMkVqamlsWVJiLVRoRw?oc=5",
+      "published": "2026-02-04T08:00:00+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
