@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Drug Repurposing Predictions
+title: "Prediktioner f\u00f6r L\u00e4kemedelsrepositionering \u2014 Sverige"
 nav_order: 1
 description: "AI-powered drug repurposing predictions for Sweden. Evidence-based analysis of approved medicines for potential new therapeutic indications."
 permalink: /
