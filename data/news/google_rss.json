@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-31T18:56:52.526556+00:00",
+  "fetched_at": "2026-03-31T19:54:47.271263+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "776a8bcdf10a",
-      "title": "Fler har fast läkarkontakt – trots skillnader - dagensmedicin.se",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdzllQnVvc3RDWENreEdJWXZwOC1sVXc0eUtlcS1SNGlvMEtpZ3llazNDUGptRUwwMFBrZlRabHpETVZNUTRBRGhmUmZDV3I0S3BPSU9ORFpVNGh3QXFXcjNjekVrXzdDUE03X1dLQXZqSkJMQ3JtQ1Zta29mR0FvWHllQ0MwaDJyMjdxQ3hVY1FpakNOSFZuNQ?oc=5",
-      "published": "2026-03-30T23:33:00+00:00",
-      "source": {
-        "name": "dagensmedicin.se",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "3d032815dc0d",
       "title": "Ökat statligt ansvar för läkemedel ska ge ett mer jämlikt system - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGpBU0o4RHBvUVFURGhuSV95THJaMmtoaEFDWi1JajVzVmlmSU5nM3kzcGlyRHZoQ1NFZHJJbU9vREI5SXg4emhENXVxUVlQZ1dNX2pRS0VuZVdFRWFTNUFGX3lHS3RwcHFWNXhtX05PWkI5NTk4T2sySXVmdF94anU2MXQtZVQ2VS1vWkt2aU9ldGZKMDBqUjVPLU54eUx6dF9uSTNPZnM?oc=5",
@@ -81,6 +71,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "380a165fb8a7",
+      "title": "Fler har fast läkarkontakt – trots skillnader - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdzllQnVvc3RDWENreEdJWXZwOC1sVXc0eUtlcS1SNGlvMEtpZ3llazNDUGptRUwwMFBrZlRabHpETVZNUTRBRGhmUmZDV3I0S3BPSU9ORFpVNGh3QXFXcjNjekVrXzdDUE03X1dLQXZqSkJMQ3JtQ1Zta29mR0FvWHllQ0MwaDJyMjdxQ3hVY1FpakNOSFZuNQ?oc=5",
+      "published": "2026-03-30T23:33:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -144,12 +144,12 @@
       }
     },
     {
-      "id": "81204f55de96",
-      "title": "Staten föreslås ta kontroll över läkemedel i kris och krig - dagensmedicin.se",
+      "id": "d6e20d6034bb",
+      "title": "Staten föreslås ta kontroll över läkemedel i kris och krig - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWlWNS02SlRYaldmQjcwRXQyQUtrbXNVS0VWTVV4Q1U2QUhMM3RGbFEwSlgtVG5mMG9zazBmZWpmRE16UktRcTBscWV2cThOaVo4alFSY0NEUmZvTTk3TnBIM1hBaXlTdmpaQllacmJaeXM0OW9aQ3FEVDNPQXNHeHMzSUp4TFRzVkFiMVhTSkc4dWlfQjVKWlZoX0piMHdlRXRhcU4wbXpzdEhJZFVfMA?oc=5",
       "published": "2026-03-30T02:56:00+00:00",
       "source": {
-        "name": "dagensmedicin.se",
+        "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
       }
     },
@@ -184,12 +184,12 @@
       }
     },
     {
-      "id": "a2d25bf38552",
-      "title": "Låst läge om kunskapsstöd för obesitas på väg att lösas - dagensmedicin.se",
+      "id": "09a53e3ccea5",
+      "title": "Låst läge om kunskapsstöd för obesitas på väg att lösas - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZHY5VGpFSXpGdTZCSFgtQktJUXprN280dW1PeWFSM2trY2hHYWYzTHZhN1VhcThCcFhOWHZQTGkya19ERmdlMlE4WDZBQlpnRTl6NUx5U2c4N1ZtekZtNVJMSGlaa0VKSWhxejRqX2dFYW5NV19HclFYeUlBOUNtblpvV0NTOXY4OVc1aDVqc1ZXM0gxcTVRaXhINjBxcWRVUUE?oc=5",
       "published": "2026-03-30T19:00:00+00:00",
       "source": {
-        "name": "dagensmedicin.se",
+        "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
       }
     },
@@ -204,23 +204,13 @@
       }
     },
     {
-      "id": "cc195178438d",
-      "title": "Ny utredning ska leda till enhetlig prissättning av läkemedel - dagensmedicin.se",
+      "id": "46a3e21c9a5c",
+      "title": "Ny utredning ska leda till enhetlig prissättning av läkemedel - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQejRheW9CclBidjJLNzFlaEV6Sjhidk5VeW9xVUNwT29pZ1k4aWpVX1dkLTdKamQyOTZVNlJuSy1MT1h2WklmTnVDSUoxblRaT1JFLXVPcF9HYTkxZWZ6aXhjYkVGdUhYNjZVTk1jcHAzcWFmMm5iQlhFeDJiVVoyWTZJVEJTQUh0VERRUWxZYnU5VkhNVjh6X2FPQWx3TXgyekpxMGlnYlR0ZGxkVlhER3RmTjc?oc=5",
       "published": "2026-03-26T07:04:00+00:00",
       "source": {
-        "name": "dagensmedicin.se",
+        "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "fb0b37d90696",
-      "title": "Läkemedelsutredningen är ett viktigt steg i ett nytt globalt läge - Via TT",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPak1BT0U3VW5Uc3Jsd3I4ZkJxX05oWS1HTXRVNThUUHNVcm9IcTRxcDBRakpiOGdSeFgwZkg1NnQyT01Kcy01UG9wc05QM2JOckRzaFA5WFNLTnQzMHl2aVA5Vzdfbjk5MHV5Nzhwam13OTdpZFltZzJhRlRkNjktT0V0ZVROTkNpTmdNR2VCbDdFbDNCZE5YZEJPVGs2NzVFWG1aRm5KWkg3Ti0xb2NPR1lPbVVVUjE5X1c1M01iY05GN0tGdURpQ1B0VWdsTnpS?oc=5",
-      "published": "2026-03-26T12:11:15+00:00",
-      "source": {
-        "name": "Via TT",
-        "url": "https://via.tt.se"
       }
     },
     {
@@ -231,6 +221,16 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "fb0b37d90696",
+      "title": "Läkemedelsutredningen är ett viktigt steg i ett nytt globalt läge - Via TT",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPak1BT0U3VW5Uc3Jsd3I4ZkJxX05oWS1HTXRVNThUUHNVcm9IcTRxcDBRakpiOGdSeFgwZkg1NnQyT01Kcy01UG9wc05QM2JOckRzaFA5WFNLTnQzMHl2aVA5Vzdfbjk5MHV5Nzhwam13OTdpZFltZzJhRlRkNjktT0V0ZVROTkNpTmdNR2VCbDdFbDNCZE5YZEJPVGs2NzVFWG1aRm5KWkg3Ti0xb2NPR1lPbVVVUjE5X1c1M01iY05GN0tGdURpQ1B0VWdsTnpS?oc=5",
+      "published": "2026-03-26T12:11:15+00:00",
+      "source": {
+        "name": "Via TT",
+        "url": "https://via.tt.se"
       }
     },
     {
@@ -264,6 +264,16 @@
       }
     },
     {
+      "id": "85fac7266659",
+      "title": "SSRI-läkemedel lindrade fatigue vid långtidscovid - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZVNhQUhMZWVpblZMVzNfNlNjeEdCNHJrMWxUeU1JUjdOLUpKQ0FGUUx3anpxTWU0SmltTTBGcE1DMzRUU0cyN0tyeWhGZERJWWNwT3o0dHp6LUU4SjBseWtFeHU1b2Mybm9Hd1FnVmROYXdIU2hyVjNXcVJBTVl2Ulk0SGR4dDZxa1lVZmNlUXMtN1JldlVGbzd3SmRMdmMtXzlMSkpoTGhncTQ?oc=5",
+      "published": "2026-03-30T12:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "fe03f2fc960b",
       "title": "Så kan tillskott påverka effekten av din medicin - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWlgydGduSzBfWGM5ZUtRUE9laFhnQ2hOQWZfWHB6VlpxTmE0WTlIbEtpRGp3RHRJNE1MMEtOM1dWUW16RVppVHVjQzJtOTd2Tng5UGc2QnpCcFUxdzhDdTJaejBWWG0zN2p4VEpaSFBFT0ZWTzJHMmg4Y1oyeHE5REVNbkRlajd1alk3THY5ZTJpRnZINVhV?oc=5",
@@ -271,16 +281,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "4b736e1a854a",
-      "title": "SSRI-läkemedel lindrade fatigue vid långtidscovid - dagensmedicin.se",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZVNhQUhMZWVpblZMVzNfNlNjeEdCNHJrMWxUeU1JUjdOLUpKQ0FGUUx3anpxTWU0SmltTTBGcE1DMzRUU0cyN0tyeWhGZERJWWNwT3o0dHp6LUU4SjBseWtFeHU1b2Mybm9Hd1FnVmROYXdIU2hyVjNXcVJBTVl2Ulk0SGR4dDZxa1lVZmNlUXMtN1JldlVGbzd3SmRMdmMtXzlMSkpoTGhncTQ?oc=5",
-      "published": "2026-03-30T12:00:00+00:00",
-      "source": {
-        "name": "dagensmedicin.se",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -314,12 +314,12 @@
       }
     },
     {
-      "id": "5f7b87a098b9",
-      "title": "Larm om tystnadskultur på Läkarförbundets kansli: ”Skapar oro” - dagensmedicin.se",
+      "id": "dbed767a11c1",
+      "title": "Larm om tystnadskultur på Läkarförbundets kansli: ”Skapar oro” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOXBVUkZHRDdNVTFlZDRJZG1jbnljMklEY1hpWkozeWFMbW5BZ3RnRC1SR01QRDhkZnVydTJMS1FQRWtCUlpoVFpJM1NubWgxUkdaR05BYnozMWZ6eDJBRjhEYlpRZTlTajFUQ085S0JHUGF6djMzZF90N04wdTNMdzhUSjNGMHQ3bEpwbzZaT3VDZE1WYWVhQTZxS0l2aFFoRVhjdDRDb05NeFNtanI4WA?oc=5",
       "published": "2026-03-29T20:00:00+00:00",
       "source": {
-        "name": "dagensmedicin.se",
+        "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
       }
     },
@@ -331,16 +331,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "06ee15815bfd",
-      "title": "Så ska SÖS göra kloka kliniska val - dagensmedicin.se",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVUUyLTA5cXhvYmh0UkM4aGhERTZWNVB5dkJIenFMNTA4SlpVZzhQQ2hWcTRkMGNQMWdkZENlZnFTZmkwc3hacDFJdnhLTEQyYVE5dDYyRW9YT3lsRXVUaDlSMjFEdE40S1lOZlZmMWlUMGI4TU1aMzlIQXNSMkNlUF9FVmgxRG5udXhYWWVQUm5ISDA3OTZCN1ZFMGM?oc=5",
-      "published": "2026-03-30T04:29:00+00:00",
-      "source": {
-        "name": "dagensmedicin.se",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -374,16 +364,6 @@
       }
     },
     {
-      "id": "affb330333d9",
-      "title": "Vanlig medicin kan öka risken för hjärtsjukdom - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFVGWEdzcnBlX1hlUmtNcTRKME9xM0ZKNUJsdS14UEMxTS1VSkJHLS1nTEtTb1g1MXBhMHc0MFVzMWl1M0hONTBkLXNHdXhQZFpBNjNWSE9jMXVQVWFHbzVMRkNQYV9jbF9MOUZWRm9lOU4tQmQ3OEhkaEQ4UmpNWUxPdmZHMXN4S0J3Y1Q4d3ZaQQ?oc=5",
-      "published": "2026-03-15T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "d37a14821118",
       "title": "Rätt läkemedel förbättrar hälsa och sänker kostnader - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTTduS3JKQmtCdk9Fa1hrbWx4V2xQRmdyZ01rRzZtZkc3cWt6Z3VBdlo1OUNpcXpOZERaMTctc1ctSzVPSldJQjB2QlhOT2MteFZTTS1uUE9MX3lfcDJ6bUtZYUpDUTFybHZnTE92c0E4eUo5YUQ3U2hsZktxSHJtNEM5QnJXX0VCRFBkMzNBRkFnd3Nnc1prdg?oc=5",
@@ -391,6 +371,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "affb330333d9",
+      "title": "Vanlig medicin kan öka risken för hjärtsjukdom - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFVGWEdzcnBlX1hlUmtNcTRKME9xM0ZKNUJsdS14UEMxTS1VSkJHLS1nTEtTb1g1MXBhMHc0MFVzMWl1M0hONTBkLXNHdXhQZFpBNjNWSE9jMXVQVWFHbzVMRkNQYV9jbF9MOUZWRm9lOU4tQmQ3OEhkaEQ4UmpNWUxPdmZHMXN4S0J3Y1Q4d3ZaQQ?oc=5",
+      "published": "2026-03-15T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -444,12 +434,12 @@
       }
     },
     {
-      "id": "7c949e3034e5",
-      "title": "Läkare tar strid mot mossiga och blöta antibiotikakurer - dagensmedicin.se",
+      "id": "0b0637278292",
+      "title": "Läkare tar strid mot mossiga och blöta antibiotikakurer - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdjhTRWpHUVl0SmhzN3oybzdLdUU5TjlRSDFpa19aZldWT192U0drbUdnRDlnTFNndVNRdHIzWGEwaTFtazJWN1dWMjZPcENPR1lFc0JabHhiWHY1RjlHQzJyRHFsc0tFS0tqdnZlcGliSkdiMWJhaE9mMlEzdzc4aXBXQURIMThZU1lXUThJaVdGTFNCNnpYMmxVeTZZVVRSY3UxV0FITHVZTkZpNk1DbUNvdw?oc=5",
       "published": "2026-03-26T21:00:00+00:00",
       "source": {
-        "name": "dagensmedicin.se",
+        "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
       }
     },
@@ -464,16 +454,6 @@
       }
     },
     {
-      "id": "eb6113eb55f4",
-      "title": "Träning och läkemedel gav inte bättre kognition till äldre - dagensmedicin.se",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVXBIQTRWRXdtNGpwd21rR3dLeHVYeFg1VDMtY3Q1dkg0SU1BT2lBeTIxZmtSZTBGSmRoZWlwY0NHenViMjh5MjJPejFFYnNYcW5KRHJmMnpfQ2VWdF9VTzNTbWFpMTFBNmo3U3JpMW9GTk1OcGJCNGNISEhwOTVONjRZU3RVN1hDOHpqSUpQaWRDalZ2NUVfaG5TeGFWeFFxMWMtMVNQb042Ny1VZHoyRXUydEZ3bm8?oc=5",
-      "published": "2026-03-27T01:55:00+00:00",
-      "source": {
-        "name": "dagensmedicin.se",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "ed3108f75f0e",
       "title": "Vanliga tillskott kan störa mediciner – få känner till riskerna - News55",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORDNoM0xTcFN3eWdhVnhDNVo3TTFRa0hzekUxODRVTkJaNjlkNkFabUlmU1EzcmxuRDNKWERnaXhyOXkyODM2ZTlFOGR3S2JYNkxLQU85MTJLeElBWFJzMGF1Y3htdXZSZW5ZbFN4NXZsNVFZWE1nS2RtTHVEWDlwWDNsU2RTanN4MG9EdWtjUlM1MTlY?oc=5",
@@ -484,52 +464,62 @@
       }
     },
     {
-      "id": "92d4a1a73a10",
-      "title": "Två spaningar mot horisonten - dagensmedicin.se",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xRktCems4S1Z4Ri11Y2J4d2pLSVl1dThockJ5c2VzSWtlSTVSVDNjcUdHeEx0LVJaa1k2TzAyYW53VEM3YXFRdnQ1cVVtQXUtY3NCUVVsUS1NQ0pTMHJzc1NyWmt6YjM5NjNtbGxaeE92WEJ6WDcwekJ3STVXQQ?oc=5",
-      "published": "2026-03-24T22:00:00+00:00",
+      "id": "9e5decf71d5d",
+      "title": "Träning och läkemedel gav inte bättre kognition till äldre - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVXBIQTRWRXdtNGpwd21rR3dLeHVYeFg1VDMtY3Q1dkg0SU1BT2lBeTIxZmtSZTBGSmRoZWlwY0NHenViMjh5MjJPejFFYnNYcW5KRHJmMnpfQ2VWdF9VTzNTbWFpMTFBNmo3U3JpMW9GTk1OcGJCNGNISEhwOTVONjRZU3RVN1hDOHpqSUpQaWRDalZ2NUVfaG5TeGFWeFFxMWMtMVNQb042Ny1VZHoyRXUydEZ3bm8?oc=5",
+      "published": "2026-03-27T01:55:00+00:00",
       "source": {
-        "name": "dagensmedicin.se",
+        "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
       }
     },
     {
-      "id": "8d00a544d6d3",
-      "title": "Kvinnor med postcovid sökte mer vård redan innan diagnosen - fof.se",
+      "id": "387d453f0944",
+      "title": "Kvinnor med postcovid sökte mer vård redan innan diagnosen - Forskning & Framsteg",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUNmUTY0MVpfaXVMRmF0bVA1TlBCQWJsRzFkS3NJMlpQcy1YV19rQ09rOVNYNDMtOHZIMDVNaUw2cEtCUS10V0hHUTViellWYUlaVzg1VUQ4XzJOMjh0ZXpJZkNTSUdCY1F2ZG5sR1F2ZjAydmF0LXc0UjdvZk5pQjdRZl9EbVBVOXc?oc=5",
       "published": "2026-03-13T07:00:00+00:00",
       "source": {
-        "name": "fof.se",
+        "name": "Forskning & Framsteg",
         "url": "https://fof.se"
       }
     },
     {
-      "id": "48651f28cc19",
-      "title": "Så jagar forskarna bättre behandling mot postcovid - fof.se",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sWnRYTXFUZmsxNGtpTXV6UHBZSWIxNTcwQlJyblpkRV9LMDlNMmJOdVN1OHVZWU9JOWhqUWU5ZlRWVWhlYU5FdWxHUVpmQU5uTVRjTWswQjN3QVpVV05oalozNnIycnpkSjJ6dDZHSEw1MHVPVjRiNi1PQWNqQ1U?oc=5",
-      "published": "2026-03-12T07:00:00+00:00",
+      "id": "8b8672f95cf5",
+      "title": "Två spaningar mot horisonten - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xRktCems4S1Z4Ri11Y2J4d2pLSVl1dThockJ5c2VzSWtlSTVSVDNjcUdHeEx0LVJaa1k2TzAyYW53VEM3YXFRdnQ1cVVtQXUtY3NCUVVsUS1NQ0pTMHJzc1NyWmt6YjM5NjNtbGxaeE92WEJ6WDcwekJ3STVXQQ?oc=5",
+      "published": "2026-03-24T22:00:00+00:00",
       "source": {
-        "name": "fof.se",
-        "url": "https://fof.se"
-      }
-    },
-    {
-      "id": "f067a843bff1",
-      "title": "Region Skåne häver avtal med vårdcentral i Malmö - dagensmedicin.se",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHc1TFh1SlVMV19XLTZuc01kclcyWllaMWc1ck1IcE1rSlNUTzIzYS1GNGxXQ2NJdTBfU3lmZHBxaXlJSllTX1VnWUZzLWR4TkVkTUhIRXJHZVlaY2VyeUpsZkVLYlAyQWJpeUpiUDlwYzZ3SXZkTURzZEM4ZmJodTVUd0o5YzR2MUQxcEZYX1NJZ1hyZ3MxemZ5UFB5TE1zY25XZkIwc2dFR25KdWg4?oc=5",
-      "published": "2026-01-28T08:00:00+00:00",
-      "source": {
-        "name": "dagensmedicin.se",
+        "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
       }
     },
     {
-      "id": "c4557c248438",
-      "title": "”Att förbättra hälsa kräver mer än att utesluta sjukdom” - dagensmedicin.se",
+      "id": "63cf29624fee",
+      "title": "Så jagar forskarna bättre behandling mot postcovid - Forskning & Framsteg",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sWnRYTXFUZmsxNGtpTXV6UHBZSWIxNTcwQlJyblpkRV9LMDlNMmJOdVN1OHVZWU9JOWhqUWU5ZlRWVWhlYU5FdWxHUVpmQU5uTVRjTWswQjN3QVpVV05oalozNnIycnpkSjJ6dDZHSEw1MHVPVjRiNi1PQWNqQ1U?oc=5",
+      "published": "2026-03-12T07:00:00+00:00",
+      "source": {
+        "name": "Forskning & Framsteg",
+        "url": "https://fof.se"
+      }
+    },
+    {
+      "id": "6b3995b80c0d",
+      "title": "Region Skåne häver avtal med vårdcentral i Malmö - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHc1TFh1SlVMV19XLTZuc01kclcyWllaMWc1ck1IcE1rSlNUTzIzYS1GNGxXQ2NJdTBfU3lmZHBxaXlJSllTX1VnWUZzLWR4TkVkTUhIRXJHZVlaY2VyeUpsZkVLYlAyQWJpeUpiUDlwYzZ3SXZkTURzZEM4ZmJodTVUd0o5YzR2MUQxcEZYX1NJZ1hyZ3MxemZ5UFB5TE1zY25XZkIwc2dFR25KdWg4?oc=5",
+      "published": "2026-01-28T08:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "8ff709546b78",
+      "title": "”Att förbättra hälsa kräver mer än att utesluta sjukdom” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0pGQ3VOUlV2QUprNGNWZlpxSncwdUF1c2VlRzdRaGRqZkEwWXlLdHFrMkRaNGpzVXZoc1lpREVsR2gwa2RQNGNWUUNBenBzVC1henBYUlpaTjFhanFjNVJIaTlVV29CUnBORnIyeWd0cmd6VnJNZnBMaGtJbjBUd1VHeG13WHJzTGRHcHFiT3JrXzlTMEtvcXBGV3dGZEsx?oc=5",
       "published": "2025-12-29T08:00:00+00:00",
       "source": {
-        "name": "dagensmedicin.se",
+        "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
       }
     },
@@ -584,12 +574,12 @@
       }
     },
     {
-      "id": "9bc8d2f3df86",
-      "title": "Jakob Forssmed: Psykisk hälsa ska in på skolschemat - dagensmedicin.se",
+      "id": "0e00872876fc",
+      "title": "Jakob Forssmed: Psykisk hälsa ska in på skolschemat - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM09wMkZUQUJBWXNBVkI1MHJ0NHZKakJUNlpMQkFUVjJKQUc3SW9URWlUdzUzZl9zd1pWbzFpRkhVRl93aktUVGVHelJUS2dTVXJpVXN3RDhhNE11Zkg1MDZ5ZnRUQnFPWVpHYnlITFhlalhHTVNnamxyRW9TTUdaVWNKckxqR2dzNDRVUm9hdWFZZkN2Z19CWHVrbmlhWlMxYTduWjduNUhnLXZ6?oc=5",
       "published": "2026-01-02T08:00:00+00:00",
       "source": {
-        "name": "dagensmedicin.se",
+        "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
       }
     },
@@ -684,12 +674,12 @@
       }
     },
     {
-      "id": "9731a51a9fb8",
-      "title": "Försäljningsexplosion av östrogenspray – då höjs priset - dagensmedicin.se",
+      "id": "1d94407aa7fe",
+      "title": "Försäljningsexplosion av östrogenspray – då höjs priset - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ1VKd3psaWNvMzRBRHJiaXY4bWo4S0htVnNFblJXVHBUYWNjdnZHY1c1RE9tNDNpcHV1cjNHZVpxLS1yM1B6czl2cDBLT3lLdVNrY1lla1M2SHlfU1F6dy1NYlIyb1hhX1gxUFNOZ1VRNTB0eVhqbmQ5aXVpNmhKejh2dnIwNUhhcmhObzVEQ2FKLWdVRTdqS2VYaE9YUjUxTmdoSS1kbTlUQTFKVXBtR3dpbw?oc=5",
       "published": "2026-03-25T08:06:00+00:00",
       "source": {
-        "name": "dagensmedicin.se",
+        "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
       }
     },
@@ -724,16 +714,6 @@
       }
     },
     {
-      "id": "5d4cae2f1865",
-      "title": "Trumps omskakande prispolitik för läkemedel närmar sig Sverige - dagensmedicin.se",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZzdkWGloSlpzUEtURU1YMmlwUlNQc3gwdTRVSnpkSjVXTVE4MV95Qm9mY2lwWFEyUE95Q3N0VG5ycWZWUjEtTDBZdFJSY3NNcTR4cmFCVU1lRXNGdjFxbUNXTDhPZUlOWEl0R2NEUEliY2xqN2gzQUxOTkZqcFRJOVVFTWMzR19PcmUzdFhIdVlYa0xqV2tnQVJYT1VaZGFRY05HMUFPQ2p4N1lFeFQxQXBYSzFhUQ?oc=5",
-      "published": "2026-03-24T21:00:00+00:00",
-      "source": {
-        "name": "dagensmedicin.se",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "2646dcdcbe9d",
       "title": "Mobbning på arbetsplatsen kopplas till användning av antidepressiva läkemedel - Stockholms universitet",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWHFSMjRkQmpjY1Q2Q0lMdXR4LXRidzBQS2NGb1JQZkZiZ1d4c1ZqZV9fVVFvQjdlcF9MVExQaFZIa19iaF8weFNoTzhFbFFlTG9UNExPM3ZMa0V1STRva2ViNDBrd0dlbDV1cEEtWFNMc0lzUUR0RGV5RFJwc21QcnRiY2phajRqSHpISkFLbXFyXzFkS3FPSXMzVmItcG54c3E3RW5MRzl3TW13c192eW96QmpXVkd5blhHclBSLWppVXBzc0tUOF9fbDRqU3UyQUUtM3Q0eUI4VnRrbUctMVhEYnlieGFicHRPRXhIS2NFajJzM2F3aVd1bUhaUllDRThuaA?oc=5",
@@ -744,12 +724,12 @@
       }
     },
     {
-      "id": "30872a227daf",
-      "title": "Vetenskapsåret 2026 – del 4: Bebisars arvsmassa och hjälp mot gonorré och Huntingtons - fof.se",
+      "id": "3770a4bb7b0d",
+      "title": "Vetenskapsåret 2026 – del 4: Bebisars arvsmassa och hjälp mot gonorré och Huntingtons - Forskning & Framsteg",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLZDZBZDhfQ1ZDRnB6d0NSdk1xTENTU3d5YTR4dElYT3pzUWJaTTM0MVZKMWExTVJvS2h3NnJpdkR0UjVBaDVUal9ycm9hUXo2REF3SmQ1ZUdUUXFsUWc?oc=5",
       "published": "2025-12-27T08:00:00+00:00",
       "source": {
-        "name": "fof.se",
+        "name": "Forskning & Framsteg",
         "url": "https://fof.se"
       }
     },
@@ -764,6 +744,16 @@
       }
     },
     {
+      "id": "1fa3f7081752",
+      "title": "Trumps omskakande prispolitik för läkemedel närmar sig Sverige - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZzdkWGloSlpzUEtURU1YMmlwUlNQc3gwdTRVSnpkSjVXTVE4MV95Qm9mY2lwWFEyUE95Q3N0VG5ycWZWUjEtTDBZdFJSY3NNcTR4cmFCVU1lRXNGdjFxbUNXTDhPZUlOWEl0R2NEUEliY2xqN2gzQUxOTkZqcFRJOVVFTWMzR19PcmUzdFhIdVlYa0xqV2tnQVJYT1VaZGFRY05HMUFPQ2p4N1lFeFQxQXBYSzFhUQ?oc=5",
+      "published": "2026-03-24T21:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "36f6fb757e60",
       "title": "\"Medicin och hälsa ska inte vara en plånboks­fråga\" - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2xldTF6eEJFSGlqSU1tMkJjT0JlbW5uaFpEc1FscC1KQmFvTjNIc3ZEbW5fRGlIZUt2bE1rWTZtTE94aFRUanZ5MkFpN1BIbkRybU1jRlN1NEF5QlVPQ1JjT1BjSVk5UXdRZEhhVFdzWjVMNUhRMl9Gc3hYQ1p3ZDlXeld4N1BydktzcW1LcWczaTQ?oc=5",
@@ -774,16 +764,6 @@
       }
     },
     {
-      "id": "b8552e2b00b5",
-      "title": "Long Chau fortsätter att vara det enda vietnamesiska apoteket som vunnit ett stort pris vid Healthcare Asia Pharma Award. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUNTLVFwdzgzMzVjcElVdThlellPRWotUWNqQVpWZ2Uyc2x4ek9lNWNIWmpyQTJpVEtDZTh4N0FKcEtnNXRIVEFLUnNsdUcwYllqQ2VoY2d3aFdRV3BaelhnUTdfM3RNb245eU5pYm93dnRzOC1LSFYxSGl1NWNLQUswdWRxTXRjWFh6NUlEdkh6QjJvTlJ3VjJrSWY3aVFSOTJEVmdYRlJaZG84VHg3RVRGYS0xdVZNRUppSkRXODcwZkdoYjZ0T1Bn?oc=5",
-      "published": "2026-03-26T07:00:00+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "5b3d7411a8f4",
       "title": "BMS vill modernisera läkemedelssystemet – för snabbare tillgång till nya mediciner - Bristol Myers Squibb",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0xLMkdzYk5VSk16T2JVTG5OVFpqSWpVTFVpcFd5alV1bk9QSHpsWHk1eUg4eWhOcUtSOUdFRjJkbnUwOUdUeDlER3d3U3J4WlpDM3VHQVd2N1ladVhiX21leEpCTWxBd3BOeUtTazJqMmRzVzlFWXZxVjNtcTBlUGNRRHdPaVVmVG92RmdteVgzMDg?oc=5",
@@ -791,6 +771,16 @@
       "source": {
         "name": "Bristol Myers Squibb",
         "url": "https://www.bms.com"
+      }
+    },
+    {
+      "id": "b8552e2b00b5",
+      "title": "Long Chau fortsätter att vara det enda vietnamesiska apoteket som vunnit ett stort pris vid Healthcare Asia Pharma Award. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUNTLVFwdzgzMzVjcElVdThlellPRWotUWNqQVpWZ2Uyc2x4ek9lNWNIWmpyQTJpVEtDZTh4N0FKcEtnNXRIVEFLUnNsdUcwYllqQ2VoY2d3aFdRV3BaelhnUTdfM3RNb245eU5pYm93dnRzOC1LSFYxSGl1NWNLQUswdWRxTXRjWFh6NUlEdkh6QjJvTlJ3VjJrSWY3aVFSOTJEVmdYRlJaZG84VHg3RVRGYS0xdVZNRUppSkRXODcwZkdoYjZ0T1Bn?oc=5",
+      "published": "2026-03-26T07:00:00+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -814,12 +804,12 @@
       }
     },
     {
-      "id": "22b80eebe532",
-      "title": "Studie: Viktigt välja rätt blodtrycksmedel från start - lakemedelsvarlden.se",
+      "id": "0424e4480e72",
+      "title": "Studie: Viktigt välja rätt blodtrycksmedel från start - LäkemedelsVärlden",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CenAyVUFCRkZJWExocWNUUDFBbXJUSWlFa01ZTHBuZXg2U1ZPWXJpc2xwSDFWUTJBRGhXTGlwcTEwYkhReDBpZVVoVWl4TUR1REp2MTFISkdWX0YtR2Vtd0NPN2dzYVd0NDZLYUd2XzIzVUU?oc=5",
       "published": "2025-12-22T08:00:00+00:00",
       "source": {
-        "name": "lakemedelsvarlden.se",
+        "name": "LäkemedelsVärlden",
         "url": "https://www.lakemedelsvarlden.se"
       }
     },
@@ -844,22 +834,12 @@
       }
     },
     {
-      "id": "ce0a48bf7171",
-      "title": "Vietnamesiska representanter vinner stora priser vid Healthcare Asia Pharma Awards för andra året i rad. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOG5VVDdUMDU4cHlyWUZjNTBTclpKNzk0bFBkNnNETHd0UWJMeWRXT3lkTEM0a29BTWVhellEbnBIenJJOUJCMktpRkNzaUxzUXpKX0FKdGRUUWxJUU5oRTBjZHJUOVpYQldrMnJrMjNfd2w4UHI4THBBYXhrUDN0TF90VXYwZlgwYjNWdWNYNTFjLXl1bEpSSWU0UXR5N0xLX1NfWl8zdGZDSDhweEtPSmNIYlRtdw?oc=5",
-      "published": "2026-03-27T04:51:06+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "79ee86983ee5",
-      "title": "”Det känns som att samhället skriker: Gå och dö!” - fof.se",
+      "id": "3d651e1aea61",
+      "title": "”Det känns som att samhället skriker: Gå och dö!” - Forskning & Framsteg",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41aEJMNmFkcGRoQ09aN1RvNkE3RHVsdnh1V0x1cFA4TFE5a3ZYdWplMGJyTzJvME9aOXhKV2VCQ2JYc0hnaUVIQjhSQUp1TE1yempYWlNuUWpHN0dEaHV2T1NpV3d6dHMxTlVVajdQOU1uYWF3Mk5VNw?oc=5",
       "published": "2025-10-16T07:00:00+00:00",
       "source": {
-        "name": "fof.se",
+        "name": "Forskning & Framsteg",
         "url": "https://fof.se"
       }
     },
@@ -871,6 +851,16 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "ce0a48bf7171",
+      "title": "Vietnamesiska representanter vinner stora priser vid Healthcare Asia Pharma Awards för andra året i rad. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOG5VVDdUMDU4cHlyWUZjNTBTclpKNzk0bFBkNnNETHd0UWJMeWRXT3lkTEM0a29BTWVhellEbnBIenJJOUJCMktpRkNzaUxzUXpKX0FKdGRUUWxJUU5oRTBjZHJUOVpYQldrMnJrMjNfd2w4UHI4THBBYXhrUDN0TF90VXYwZlgwYjNWdWNYNTFjLXl1bEpSSWU0UXR5N0xLX1NfWl8zdGZDSDhweEtPSmNIYlRtdw?oc=5",
+      "published": "2026-03-27T04:51:06+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -904,12 +894,12 @@
       }
     },
     {
-      "id": "cf82b15ca9bc",
-      "title": "Läkarförbundet i tvist med facket på egna kansliet: ”Många söker sig bort” - dagensmedicin.se",
+      "id": "22d48bd0786f",
+      "title": "Läkarförbundet i tvist med facket på egna kansliet: ”Många söker sig bort” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTWt2M1JpX2Fnb0owSXdGUVRzU2JYMnJPaGIwdU41d2JkMUFFLVlVMU1FcmcxRDZhTVRqMUpxTnlpUjJxUTh4TC1jQ0pUYjg1Sk0yXzZWYnpiQmpKT2VIcjRBRm1oTmN5cW9IWFZlVjQyQ1RZOXlwdERVU1h3NUZZOGE2YzRqdmVhdEE4VGVkaXVQQi1VclVLN1BIVkQ4QlVCa1hGZFFpYTlnc0RsdW9CWFA2MFIwNG9oeXVkejMteUY?oc=5",
       "published": "2026-03-23T07:00:00+00:00",
       "source": {
-        "name": "dagensmedicin.se",
+        "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
       }
     },
@@ -924,22 +914,22 @@
       }
     },
     {
-      "id": "ce3a0959ba37",
-      "title": "Så vill regeringen främja ungas psykiska hälsa - dagensmedicin.se",
+      "id": "eb8e296b5617",
+      "title": "Så vill regeringen främja ungas psykiska hälsa - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZkFOeWRCOERxbWlVODhEUkFnZmZCSFBFekE1TzlMZmctVWNwaHk5dlVWb19xQXZ3eGJDUFZiZVJsQjRsLV85MnlkNEpoeWpqc3J6ck8tbnAwTU9tQm9UUmNSQm1semIwYmhVaE5NR3l6bUVXdTdfM1NVRE4tSms1MnNRUHRnWlg3dFY3MTVmWUZjOFg0YXZZWnhocVlZUkRIWUFz?oc=5",
       "published": "2025-11-10T08:00:00+00:00",
       "source": {
-        "name": "dagensmedicin.se",
+        "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
       }
     },
     {
-      "id": "732d60297154",
-      "title": "”Sverige måste öka sitt engagemang inom global hälsa” - dagensmedicin.se",
+      "id": "527bbe2ff0e4",
+      "title": "”Sverige måste öka sitt engagemang inom global hälsa” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2Zkb3BEYTdMLXFWd09OcHNCYUtsTTdMd2cxd19CNThnMjd5cURwUDllRFRuVW56dWtmX25HU2tWU1pydDVxbGJ4OFdlWlU4bVlZejBWRnZSdjRTWC1aNll3bFFRNnI5endBVlJPOUZKcE9GYXFPOVJGM0RoSEcza0s4YnJfbUVUYlNDdFExOUZNbWlNTFZLbVFyOVc?oc=5",
       "published": "2025-06-30T07:00:00+00:00",
       "source": {
-        "name": "dagensmedicin.se",
+        "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
       }
     },
@@ -998,6 +988,16 @@
       "title": "Många äldre har inte tillräckligt med läkemedel hemma - News55",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbDNlREhqb0hVa01pQkxYOTFxX0dWc0h6ZGE1Y0kzUXJFME1DU2ZZRnMxRXcwNUFMUGJUVkM2OFRRSkptLVU2SlVxQTdnM041MFlxUFhFdVN5b0tpM3UydkxKSmJXSUtMcjBCWmw1d3MxdXU5NS1QMjl4RGlOR2dVSzFEOGtWeWZnLXc?oc=5",
       "published": "2025-10-28T18:38:04+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "91a659329732",
+      "title": "Restless legs: Nya riktlinjer avråder från gamla läkemedel - News55",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWx0aTJhbTR2R011bWQweTRxQVNybmZ3SWp2S1BGQ3hkbnItMXl2cGYzeVdnOEdxdE9fV2VsNzVQbFE1dkVHOE9TckpBSFpSVXg5dXQ3UGlGbUwzX2YtZ2h5MndfYm93c085bFFxR2tnenVhc3NsclRUc2tybTdxTGRZM3ozQmxNYUJJcU1oSQ?oc=5",
+      "published": "2025-08-13T07:00:00+00:00",
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
