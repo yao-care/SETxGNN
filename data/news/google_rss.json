@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-04T09:33:41.872608+00:00",
+  "fetched_at": "2026-04-04T10:28:46.981688+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -94,6 +94,16 @@
       }
     },
     {
+      "id": "f77ccfa4d4b3",
+      "title": "Här är läkemedlen som ger flest biverkningar – toppar listan - e55.se",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRXdhZHZGemxPUUQ1dlJjZE4xbDRoUmNpQ3I4Y2x2X0JUNng1Rno5M3MwY0RTTU1LaEVCcUFzaXlvcDhzMlBzcFdkWTRRaFl3Sk4wU3lBaG00UnZhR2I0cjg4NDhad1VLWUktejRLOTVFNmVQb3I2MnZkYU1nUEVKeUd4TWJrODB6RjVwcg?oc=5",
+      "published": "2026-04-02T10:11:28+00:00",
+      "source": {
+        "name": "e55.se",
+        "url": "https://www.e55.se"
+      }
+    },
+    {
       "id": "4ce1a9cee5b8",
       "title": "”Kortsiktiga besparingar viktigare än långsiktig hälsa” - Dagens Nyheter",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVHY0WFpJUUs0bkRiZ01PVzQwV2tTN3BMdkNiaG5XYURSU0w2TWVRUlFzZF9VMFgwWk8zQ2FCRmpXQjl3X0ZsQjZMbmV3TDdzN2w4YXhKb1hIVjRDY2tjd0RRd0Y3SlIwR0ZERUVWVDB5bmhDaEMxN3psNWt0UXFibU55TFgxZw?oc=5",
@@ -104,23 +114,13 @@
       }
     },
     {
-      "id": "036fe222c0de",
-      "title": "\"Vi förbereder nu en större prissänkning\" - Svensk Farmaci",
+      "id": "50386479bcf3",
+      "title": "\"Vi förbereder nu en större prissänkning\" - svenskfarmaci.se",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSFVUNDc3XzJTckdmSTBBMUJqLVRQMU9qVWU4U2lRSmtWWmwwdkhzM0NLSTE4WXRWd00ybEdTV2Y2NHRZeDB2NWhMUFZmU3c4WU12cm04d003d1h2eWliNU5qYVlhcUYxeFJ1QlV0am5aOUt2YlBuS1dlRUtIa05TSU1CdTR0SVliWjJQeC12dTFGODYtOWpwaklmdE5ZM3d2V0E?oc=5",
       "published": "2026-04-01T07:03:05+00:00",
       "source": {
-        "name": "Svensk Farmaci",
+        "name": "svenskfarmaci.se",
         "url": "https://www.svenskfarmaci.se"
-      }
-    },
-    {
-      "id": "f37fd2a6f8c7",
-      "title": "Kunskapsnytt - april - Region Blekinge",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcXFIWXF2V3RzdVE2dWNxVVlXTjc3RzBIMllYRDItLVMybFVQZ0N3QVZ5Q0VqVTVBQmIzajhRcUF5S3BjVm1DYjVNTTI2QzhEVTBQOU85WDE1akgxRG5qLUlrenA4b29yeUppVVdKZkhGRG16Z2s1dGg0Ry1IbTFlZHB4TG1QWF9uVUJlT2ozTHVXakRoWG5CMUptdko5b0NUQWQzODlJNTNXYkpVRDBaZGIwNmlFNjRlQlFNSzVHQXdVb1B4RUpPWWR2SVgzMW5MY3JKbjloa1hBeE90cTZrWDQxajh6T3FXT3BwLUMzOWhiVTRkSGtPQQ?oc=5",
-      "published": "2026-04-01T09:54:14+00:00",
-      "source": {
-        "name": "Region Blekinge",
-        "url": "https://regionblekinge.se"
       }
     },
     {
@@ -194,20 +194,20 @@
       }
     },
     {
+      "id": "1a777cb12427",
+      "title": "Anette, 64, la om vanor – kunde sluta med medicin - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZclFjYlpUeUpHbmItNnRvOVZadFNOWEFKaW1uTkhtNEVfbElTVmpidTB1WTJRdXR3MEJMYjhnSEc0NjdTZV9yalY0d2dablRFTFJ1WVdoa3pQMkdqdURTcmZNQVI3Vm9RTy1kVlZfTkhFLWRLaDBxanFQZUdlQQ?oc=5",
+      "published": "2026-04-01T14:23:06+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
       "id": "380a165fb8a7",
       "title": "Fler har fast läkarkontakt – trots skillnader - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdzllQnVvc3RDWENreEdJWXZwOC1sVXc0eUtlcS1SNGlvMEtpZ3llazNDUGptRUwwMFBrZlRabHpETVZNUTRBRGhmUmZDV3I0S3BPSU9ORFpVNGh3QXFXcjNjekVrXzdDUE03X1dLQXZqSkJMQ3JtQ1Zta29mR0FvWHllQ0MwaDJyMjdxQ3hVY1FpakNOSFZuNQ?oc=5",
       "published": "2026-03-30T23:33:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "3c7923d49917",
-      "title": "Regeringen vill ta bort informationsplikt vid hiv - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUtyd21zX2RSaFNGbXJGdmZlUGxUMnJIOEFYVzI2aGU5TzNCNGFrejhSZUFWMEtRM2ZWa0JpSno4OFo4VUlyeDl0SlFnc3JTcHFqaThhcVJpV1p0SFZZYmlqSHh2emZTVHJMWnVJNlB5b0NXTjVTcXM0V05kTDRvNWlfRmJJTTN6Q2tZREFrM0VSUVYxeTAzU0hZZXY0QVpDbGJnVnd4cWI5dkE?oc=5",
-      "published": "2026-04-01T23:15:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -244,12 +244,12 @@
       }
     },
     {
-      "id": "d37a14821118",
-      "title": "Rätt läkemedel förbättrar hälsa och sänker kostnader - Svensk Farmaci",
+      "id": "bc1463033b55",
+      "title": "Rätt läkemedel förbättrar hälsa och sänker kostnader - svenskfarmaci.se",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTTduS3JKQmtCdk9Fa1hrbWx4V2xQRmdyZ01rRzZtZkc3cWt6Z3VBdlo1OUNpcXpOZERaMTctc1ctSzVPSldJQjB2QlhOT2MteFZTTS1uUE9MX3lfcDJ6bUtZYUpDUTFybHZnTE92c0E4eUo5YUQ3U2hsZktxSHJtNEM5QnJXX0VCRFBkMzNBRkFnd3Nnc1prdg?oc=5",
       "published": "2026-01-05T08:00:00+00:00",
       "source": {
-        "name": "Svensk Farmaci",
+        "name": "svenskfarmaci.se",
         "url": "https://www.svenskfarmaci.se"
       }
     },
@@ -284,12 +284,12 @@
       }
     },
     {
-      "id": "0ce53ee3ca91",
-      "title": "”När politiska budskap påverkar hälsa och tillgång till läkemedel” - Svensk Farmaci",
+      "id": "ffe77c13faca",
+      "title": "”När politiska budskap påverkar hälsa och tillgång till läkemedel” - svenskfarmaci.se",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW9FaGZQZmRZbUp2WDFsX3dkRFQ1Q1R0UHlhTGlIREc4LUpDT05Od1h2SUhieFh3aWUxUnFjTXYwNGZBWFJkdENQTTVmbWZTR0tkSEZ4eUZZUlBaa24yVFdvd1dMS2dmZVJLMjlLOWNfUmprNGJvZDVTaGpYZEVETXFPcnhVR3A3LXNVWGlZeDE5dDFMTEdpWHliUHkwSUJuTzhxS1prN2I?oc=5",
       "published": "2026-02-05T08:00:00+00:00",
       "source": {
-        "name": "Svensk Farmaci",
+        "name": "svenskfarmaci.se",
         "url": "https://www.svenskfarmaci.se"
       }
     },
@@ -301,16 +301,6 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "f822af1d145a",
-      "title": "Antibiotikaresistens - ett av de största hoten mot folkhälsan - News55",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONkF3S25LNmtWa3hlQUN2b1UwWjAyM1RldzkzWUNZZEFxbGhVOHFvRkxaMFhVbHlqQ3l0RTBYTkZ6VU5qYVU5TFJSVXNaTW1vYlFFcm5jUTkwYjZmanR6S2xFcU1UZlFtRWFLTnFHeElMMmZQSjR4THBIUTJMR284TkNlRU5OZHBPVHVFa21Jb3pLQQ?oc=5",
-      "published": "2026-04-03T12:13:42+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
       }
     },
     {
@@ -334,13 +324,13 @@
       }
     },
     {
-      "id": "1a777cb12427",
-      "title": "Anette, 64, la om vanor – kunde sluta med medicin - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZclFjYlpUeUpHbmItNnRvOVZadFNOWEFKaW1uTkhtNEVfbElTVmpidTB1WTJRdXR3MEJMYjhnSEc0NjdTZV9yalY0d2dablRFTFJ1WVdoa3pQMkdqdURTcmZNQVI3Vm9RTy1kVlZfTkhFLWRLaDBxanFQZUdlQQ?oc=5",
-      "published": "2026-04-01T14:23:06+00:00",
+      "id": "f822af1d145a",
+      "title": "Antibiotikaresistens - ett av de största hoten mot folkhälsan - News55",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONkF3S25LNmtWa3hlQUN2b1UwWjAyM1RldzkzWUNZZEFxbGhVOHFvRkxaMFhVbHlqQ3l0RTBYTkZ6VU5qYVU5TFJSVXNaTW1vYlFFcm5jUTkwYjZmanR6S2xFcU1UZlFtRWFLTnFHeElMMmZQSjR4THBIUTJMR284TkNlRU5OZHBPVHVFa21Jb3pLQQ?oc=5",
+      "published": "2026-04-03T12:13:42+00:00",
       "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -394,13 +384,23 @@
       }
     },
     {
-      "id": "5997779e2020",
-      "title": "Fetmaläkemedel kopplas till bättre psykisk hälsa - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMFBOQ1BIb1lOMGhJT3VyMVlkWEpFeHliSWl2aFZwRFl0cFRVX1RYSm0zLVY5alpqYXQwcXRFTjY2RTdJRlhXdUVrLVZjWV9qeGNoWG1jT29OMlloVkhXRXVKdlpubEYwbjFOZW1KXzNxMTBmY2czbDlVOTJHbmJMVEdMN19wN1ROQjhRME9qeU45bVlobkhR?oc=5",
-      "published": "2026-03-20T07:00:00+00:00",
+      "id": "95184953c263",
+      "title": "De är tänkbara namn till alla lediga jobb som sjukvårdsdirektörer - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcmFvTFdEUHNCUENQTmYxMUUwWkstMW1MSDVpblhMdGY1Uzh4MVJOLTFIUjVJbkVtT0dRSnJVT05aa1JfQ200V0pyRmdRNzl5S1d1NW5XRTJTQnZpZlo2QUtBT1ByOVY1eWhuMVhTSV9EYjJYN1BaYWxJNWdCTUhObDQ5cjZGQjBJTE1sU2NTb2RiMVJYZ3dZaHZfdXZ5a1liOEMwOThmUFdzd0l4dkc5UWNLekdlcTQ?oc=5",
+      "published": "2026-03-22T07:00:00+00:00",
       "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "1b2b5df8b237",
+      "title": "Ett år för existentiell hälsa - Läkartidningen",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWJUQnhvLWFTVDBEUXh6aV9SYmM1andrd1RydVFLbk1oMlRHNFZyVnFVd0RVRVpwMmplaF9RZFYwTHlScTZ2UUZQRGhJU2ZlUlpyTkg3Vzdkdkk4ODJFbk93cVpqWm02QkVRWlh6dEdLVG5naXAzRk5qMmYxRDgzZ3lWZjlKT3lFM05jUVFlcnU?oc=5",
+      "published": "2026-01-13T13:49:11+00:00",
+      "source": {
+        "name": "Läkartidningen",
+        "url": "https://lakartidningen.se"
       }
     },
     {
@@ -414,10 +414,30 @@
       }
     },
     {
+      "id": "5997779e2020",
+      "title": "Fetmaläkemedel kopplas till bättre psykisk hälsa - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMFBOQ1BIb1lOMGhJT3VyMVlkWEpFeHliSWl2aFZwRFl0cFRVX1RYSm0zLVY5alpqYXQwcXRFTjY2RTdJRlhXdUVrLVZjWV9qeGNoWG1jT29OMlloVkhXRXVKdlpubEYwbjFOZW1KXzNxMTBmY2czbDlVOTJHbmJMVEdMN19wN1ROQjhRME9qeU45bVlobkhR?oc=5",
+      "published": "2026-03-20T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
       "id": "8ff709546b78",
       "title": "”Att förbättra hälsa kräver mer än att utesluta sjukdom” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0pGQ3VOUlV2QUprNGNWZlpxSncwdUF1c2VlRzdRaGRqZkEwWXlLdHFrMkRaNGpzVXZoc1lpREVsR2gwa2RQNGNWUUNBenBzVC1henBYUlpaTjFhanFjNVJIaTlVV29CUnBORnIyeWd0cmd6VnJNZnBMaGtJbjBUd1VHeG13WHJzTGRHcHFiT3JrXzlTMEtvcXBGV3dGZEsx?oc=5",
       "published": "2025-12-29T08:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "99f21b024492",
+      "title": "Regeringen går vidare med förslag om farmaceutsortiment - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1NtZDdhNUhYekJ2cXc3YUVVSkhKZUZLWEVEVEItbWhzenJuVTZTSFdpeDFwbGNqbkN0NTVKbVRvZ0hHZjVTcllMeUhuTHR1TGFWY0VxS0hXVW9hSFRSSkpBM3hCOVMtWmtfSWJUTU9ma2I5T2ozV0o2Y1hfamQ5aEI5SlN4bHRWdjVVRmUwNlN5VXJ1UlYyY05qWGhOMUhrajdpS2F3RFQ?oc=5",
+      "published": "2026-03-11T07:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -441,6 +461,26 @@
       "source": {
         "name": "Expressen",
         "url": "https://www.expressen.se"
+      }
+    },
+    {
+      "id": "7a7a6926973b",
+      "title": "Befintligt läkemedel kan återställa hiv-påverkade immunceller - Mynewsdesk",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNek1UNi1Xb0JkNjNDMDBPbTJzazNYWTFrZGZxRWZsM2tzWFF4VnRMTUZHVEZwUTZES2YtMENQeHRPZDBTa0lRemliTkFpd2t1TTZhd0RZRHZTekZnQWVCMWhTOEYwNEpWRURPQzRoWGVRV1hOQ0FQRnFSMnZybTNqc2tCbGplMmdRSzZ4SFpGRXFrV1lWQlpfbU1aTk04TWs0ZFhSZG4wVnlKMkMxdVh2SEVsY0piaTc0cUQ0X2FfbzdodE5TNGRCV1l3TFZiSnJram44aXl2VQ?oc=5",
+      "published": "2026-03-24T06:54:00+00:00",
+      "source": {
+        "name": "Mynewsdesk",
+        "url": "https://www.mynewsdesk.com"
+      }
+    },
+    {
+      "id": "e8dfef26559c",
+      "title": "Bridging waters – ett samarbete kring samhällsutmaningar och hållbar läkemedelsanvändning - Uppsala universitet",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHpldXZJcGxDbEVuSXJuUGlvN2FIbTdWOVVoUk5zNDVBSngySlhMYkZVUFVnQTZReThzT2FieXluXzVfNHZXdE9HVHRzMmdvWFI3VUx2bHIxSGtZWDhZeHRMeEhsU3dQcXRLRHR3ekxCeDVpZXZxTkcwLUxPVjU0WG44LVJ3THlUSnVrZEVleWREdU5yMlZONE9XQnVqN21NVUtiSg?oc=5",
+      "published": "2025-11-14T08:00:00+00:00",
+      "source": {
+        "name": "Uppsala universitet",
+        "url": "https://www.uu.se"
       }
     },
     {
@@ -474,12 +514,12 @@
       }
     },
     {
-      "id": "387d453f0944",
-      "title": "Kvinnor med postcovid sökte mer vård redan innan diagnosen - Forskning & Framsteg",
+      "id": "8d00a544d6d3",
+      "title": "Kvinnor med postcovid sökte mer vård redan innan diagnosen - fof.se",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUNmUTY0MVpfaXVMRmF0bVA1TlBCQWJsRzFkS3NJMlpQcy1YV19rQ09rOVNYNDMtOHZIMDVNaUw2cEtCUS10V0hHUTViellWYUlaVzg1VUQ4XzJOMjh0ZXpJZkNTSUdCY1F2ZG5sR1F2ZjAydmF0LXc0UjdvZk5pQjdRZl9EbVBVOXc?oc=5",
       "published": "2026-03-13T07:00:00+00:00",
       "source": {
-        "name": "Forskning & Framsteg",
+        "name": "fof.se",
         "url": "https://fof.se"
       }
     },
@@ -514,16 +554,6 @@
       }
     },
     {
-      "id": "4835755753f1",
-      "title": "Löser kritisk utmaning inom transport och lagring av läkemedel - it-halsa.se",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWm03azAwRTIxRkw3aHk0VUxrQ2FyWjl6Z3dnODRvNXZrcURZNHlVTnhrV3UzX3FQODJzZXlydnRQdG5MNTZ6ak1JWW1pZGcxaW9VOVlQLWNTN0FjOVpuY01UUjRkYXdhODlFbVdSdjJSajZOdVRESUxLRE9GLUlyc0NlR1dwSzNma1BB?oc=5",
-      "published": "2026-03-27T07:00:26+00:00",
-      "source": {
-        "name": "it-halsa.se",
-        "url": "https://it-halsa.se"
-      }
-    },
-    {
       "id": "953faa871d9c",
       "title": "Adhd-läkemedel kopplas till lägre risk för självmordsförsök, missbruk och kriminalitet - Karolinska Institutet",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX0ZLRlowbVVYYWt2a2pLWldBZTFyTHZjMnJHbzBkeFoyalRxQUozWVY1X2d3X2Joa0RwUmNDMWxGN1haTm5UU1JDMXMyalB0STBHTFRWSFlMUWMxWXNDTHZka1A5UVNMbTExU2RiZ2ZTQXlPcVpsanA4RjBwUmlWTXpQRzMwYU9UMmhCVW13RmY5NG5RNVkzblZzclZZZ0xFcFpJQUd2c0J4WlU?oc=5",
@@ -531,16 +561,6 @@
       "source": {
         "name": "Karolinska Institutet",
         "url": "https://nyheter.ki.se"
-      }
-    },
-    {
-      "id": "ed84b49cbfa5",
-      "title": "Mat som medicin – så kan hälsosamma matvanor påverka ditt mående - Region Skåne",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNVFBVDRxTkpzaHFDUjgtV3lXUkR4Z2N1QjNEN1A0M0dVUWJ2dDk5c1RGWUF5ZVJxenRqUGFuMzU4SnhqUkxZS3VleHBpOXNUZ2VuTEVBTjNtdE52RzRSakNQT20yLUhfajBYdWlid2lvT3FMRUVsaGpJU3Nhemx4MHN4WnNCLWdoeVZmXzJXOFlpSC11ZTVQaTQ4S3VYemZOOWs2SjdCV1o3VVNPRE42dm12cUg?oc=5",
-      "published": "2026-02-06T08:00:00+00:00",
-      "source": {
-        "name": "Region Skåne",
-        "url": "https://www.skane.se"
       }
     },
     {
@@ -564,12 +584,12 @@
       }
     },
     {
-      "id": "77ff411169c3",
-      "title": "Läkemedelsverket: Så försöker vi minska risken för suicid - Svensk Farmaci",
+      "id": "136df18ac9b5",
+      "title": "Läkemedelsverket: Så försöker vi minska risken för suicid - svenskfarmaci.se",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWjE0aGUwWTZUSmpKOEthZmNJaE1mZ3N3QWFRallfemluTzFxRWxwd1ZNZWtNdXhDRWFkaG5ZcTBaQXB3V3NkeGdXTXR6aTBaMG1EUUVabzBpMTNEcl82TVlqM01pNHEzbTU4eGxENC11MTlpVTBXTFpMNFhIdGdrYllsTEE3aXVBZzIybDBaTHJqaE5oc015VzJTTjQ4UQ?oc=5",
       "published": "2025-12-12T08:00:00+00:00",
       "source": {
-        "name": "Svensk Farmaci",
+        "name": "svenskfarmaci.se",
         "url": "https://www.svenskfarmaci.se"
       }
     },
@@ -581,6 +601,16 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "0e00872876fc",
+      "title": "Jakob Forssmed: Psykisk hälsa ska in på skolschemat - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM09wMkZUQUJBWXNBVkI1MHJ0NHZKakJUNlpMQkFUVjJKQUc3SW9URWlUdzUzZl9zd1pWbzFpRkhVRl93aktUVGVHelJUS2dTVXJpVXN3RDhhNE11Zkg1MDZ5ZnRUQnFPWVpHYnlITFhlalhHTVNnamxyRW9TTUdaVWNKckxqR2dzNDRVUm9hdWFZZkN2Z19CWHVrbmlhWlMxYTduWjduNUhnLXZ6?oc=5",
+      "published": "2026-01-02T08:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -604,22 +634,22 @@
       }
     },
     {
-      "id": "cfacdd7e06f6",
-      "title": "Jeanette Widén Barn sviks när diagnoser blir en affärsidé - nt.se",
+      "id": "d239c391e617",
+      "title": "Jeanette Widén Barn sviks när diagnoser blir en affärsidé - NT",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNDNZeXdwNDZQRTBlNDFvcGVYWVlaWnJFZVhOcFdYUF9fZUZxbDNqV1B2ZmhRNHYxei1LMUw5WHlBN1N6a1JqcDM3V3dzb3ZYUVRuQjBLTUM1M1U0SUx2dkFhZDdoMnNucFZaMkdySzJJaFZsVFB4SE5jQ1pPb3lmZkhtRTNTX1M3MkE?oc=5",
       "published": "2026-03-29T12:01:00+00:00",
       "source": {
-        "name": "nt.se",
+        "name": "NT",
         "url": "https://www.nt.se"
       }
     },
     {
-      "id": "63cf29624fee",
-      "title": "Så jagar forskarna bättre behandling mot postcovid - Forskning & Framsteg",
+      "id": "48651f28cc19",
+      "title": "Så jagar forskarna bättre behandling mot postcovid - fof.se",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sWnRYTXFUZmsxNGtpTXV6UHBZSWIxNTcwQlJyblpkRV9LMDlNMmJOdVN1OHVZWU9JOWhqUWU5ZlRWVWhlYU5FdWxHUVpmQU5uTVRjTWswQjN3QVpVV05oalozNnIycnpkSjJ6dDZHSEw1MHVPVjRiNi1PQWNqQ1U?oc=5",
       "published": "2026-03-12T07:00:00+00:00",
       "source": {
-        "name": "Forskning & Framsteg",
+        "name": "fof.se",
         "url": "https://fof.se"
       }
     },
@@ -664,6 +694,16 @@
       }
     },
     {
+      "id": "0e5befe6566d",
+      "title": "Ny studie: Hur påverkar adhd-läkemedel patienter med beroende? - press.newsmachine.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWhsZzEydkZwWVJoX3NxWHdYZVNZQkJmeVhFbXk0WXV6Ulg2aW5Hc09oak9VR3RKSHc4MXhPMkdhQWdvMjJ3OW1QakZUbEVfczhIMTVhbl8ySEw3YkE1dzZsaDFUd245cm5rNGZiR0ZfQ1ByTHB2TTFxZnJVdTEyVl95cHhPUUc2dGlTanZCRVFjY2F0RHRfalJ2UWhudEExTWs0MXlLZVVBNi1sb2tndndxZnM?oc=5",
+      "published": "2025-12-18T08:00:00+00:00",
+      "source": {
+        "name": "press.newsmachine.com",
+        "url": "https://press.newsmachine.com"
+      }
+    },
+    {
       "id": "b9aae47e9c19",
       "title": "Debatt: Många äldre betalar för mycket för sina mediciner - News55",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEhSWklocV8zcmE3UVNVdloyLTdvcm1HT2kyWUZYVW5jUEkzRGpuRkNNcUZFRU5WY2llakhTc2ZROTk0THVmZkcyOGNXTEYzbTFPQXhmUnhKcTR0ZXlacTc0MlZTZ1cwSVY1cUhpNEhiODBfV1JvX2s5eTlGX3Y5cFFWSDdIdGFTOFB6ZjF3?oc=5",
@@ -681,6 +721,16 @@
       "source": {
         "name": "e55.se",
         "url": "https://www.e55.se"
+      }
+    },
+    {
+      "id": "aa667d94949d",
+      "title": "”Ge folkhälsoarbetet de verktyg som krävs för att göra skillnad” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHA2VmJ5dkYxSzdySFlvMUVoQVZSSDVVdVBlNWJMdWdrWTRtSGo0T0tFTUJKT254VDdMRGt1VlA3TUZEN2ZZZTZtbWFOWXd3d0ZjMkc3enZuLVNrLUpSWE9tMkx6cU16X0FnRXY5SHhnaDRyYS1XS0J4Nk5YS0RqSW5TSXJRRGFlV2UzNGNJaUlWLTlzVHlia1Rlb0pQenJ6T0pNUl9QRlkyRU0?oc=5",
+      "published": "2026-02-02T08:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -704,6 +754,16 @@
       }
     },
     {
+      "id": "da99b1e3cca6",
+      "title": "Forskare varnar: Brist på kunskap gör nätköp av läkemedel riskfyllt - it-halsa.se",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Z2FzTW5Sa3lmRHdoLThmeXlMcFdwV0RnUUM1Wk9sRWtWX2RnVFhuTnJzQkM1aGVIVzRfRUtJZjJkUWszNVpBWFJyUTRibzNtaktxX0dEc0xncGdIVWlaNDFkbHJQWllzcW1xbzY1Q3RaQQ?oc=5",
+      "published": "2025-12-11T08:00:00+00:00",
+      "source": {
+        "name": "it-halsa.se",
+        "url": "https://it-halsa.se"
+      }
+    },
+    {
       "id": "eab7dc1fb1ba",
       "title": "Bristen kan försämra effekten av adhd-medicin - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXRONVk3M0NRU2ZMMHJZS0o2YkhyOWNDMEw2ZjRUSDZQU1RvOXUyRVdadEV3NmxZcVBadUJTRjAyazdzNm8zUDhUdUsxb1lzWWpocFE3SWFIU0Q4Zm5JVWhnOGlvZHA5ZE13RGRlMVNoZU82aHljMXhyNVlhSkhxaHpJbFZFOGFzcHI5eWxn?oc=5",
@@ -714,12 +774,12 @@
       }
     },
     {
-      "id": "3d651e1aea61",
-      "title": "”Det känns som att samhället skriker: Gå och dö!” - Forskning & Framsteg",
+      "id": "79ee86983ee5",
+      "title": "”Det känns som att samhället skriker: Gå och dö!” - fof.se",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41aEJMNmFkcGRoQ09aN1RvNkE3RHVsdnh1V0x1cFA4TFE5a3ZYdWplMGJyTzJvME9aOXhKV2VCQ2JYc0hnaUVIQjhSQUp1TE1yempYWlNuUWpHN0dEaHV2T1NpV3d6dHMxTlVVajdQOU1uYWF3Mk5VNw?oc=5",
       "published": "2025-10-16T07:00:00+00:00",
       "source": {
-        "name": "Forskning & Framsteg",
+        "name": "fof.se",
         "url": "https://fof.se"
       }
     },
@@ -734,12 +794,12 @@
       }
     },
     {
-      "id": "3770a4bb7b0d",
-      "title": "Vetenskapsåret 2026 – del 4: Bebisars arvsmassa och hjälp mot gonorré och Huntingtons - Forskning & Framsteg",
+      "id": "30872a227daf",
+      "title": "Vetenskapsåret 2026 – del 4: Bebisars arvsmassa och hjälp mot gonorré och Huntingtons - fof.se",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLZDZBZDhfQ1ZDRnB6d0NSdk1xTENTU3d5YTR4dElYT3pzUWJaTTM0MVZKMWExTVJvS2h3NnJpdkR0UjVBaDVUal9ycm9hUXo2REF3SmQ1ZUdUUXFsUWc?oc=5",
       "published": "2025-12-27T08:00:00+00:00",
       "source": {
-        "name": "Forskning & Framsteg",
+        "name": "fof.se",
         "url": "https://fof.se"
       }
     },
@@ -764,12 +824,12 @@
       }
     },
     {
-      "id": "36f6fb757e60",
-      "title": "\"Medicin och hälsa ska inte vara en plånboks­fråga\" - Svensk Farmaci",
+      "id": "f0596c6aa769",
+      "title": "\"Medicin och hälsa ska inte vara en plånboks­fråga\" - svenskfarmaci.se",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2xldTF6eEJFSGlqSU1tMkJjT0JlbW5uaFpEc1FscC1KQmFvTjNIc3ZEbW5fRGlIZUt2bE1rWTZtTE94aFRUanZ5MkFpN1BIbkRybU1jRlN1NEF5QlVPQ1JjT1BjSVk5UXdRZEhhVFdzWjVMNUhRMl9Gc3hYQ1p3ZDlXeld4N1BydktzcW1LcWczaTQ?oc=5",
       "published": "2025-05-20T07:00:00+00:00",
       "source": {
-        "name": "Svensk Farmaci",
+        "name": "svenskfarmaci.se",
         "url": "https://www.svenskfarmaci.se"
       }
     },
@@ -804,6 +864,16 @@
       }
     },
     {
+      "id": "c868d7414352",
+      "title": "Framtidens retail inom vården – när kapitalflöden och patientsäkerhet möts - it-halsa.se",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBURjhGeE04cEM3YTNraUN1aTc3aFg2VThWaVZxcUphSGg5NTdsTk9xaXRXN2lEeDBYZldpM3FYQlh3NlVOc3pjc0FQeDUxX001VGFtVnp3LTNscVliY1gw?oc=5",
+      "published": "2025-09-10T07:00:00+00:00",
+      "source": {
+        "name": "it-halsa.se",
+        "url": "https://it-halsa.se"
+      }
+    },
+    {
       "id": "5cbd0bd4f612",
       "title": "Snart tar Sofies adhd medicin slut – ”Kämpade för att få utredning” - SVT Nyheter",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGRtdVlTTlpCLWR1dU9tM2dtREk1cllFVlVLTkRkcHdMYldLc0JuaXg5akJyTWVJcFM3NGZ5aVpkLTJ3RmlFX1VITmU1SjhlajVMT0xGc2hxeTJtSzFZOW5BcjJiSTZuQ2tnb2M0aFFFUEtoR0k4YjNWZnZmbnNhWmloRXVldFB6ai1ucTYtM2pvRjV6cTNJb0UweWdxUkc1VzR2V2ZfUVNWelk?oc=5",
@@ -834,10 +904,30 @@
       }
     },
     {
+      "id": "9ec27eb4bca0",
+      "title": "Beslut: Läkemedel och tandvård - Altinget.se",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zTmdmb0xIcEJyd0FGMFF6MTQzRWsxWW1fbWl6d2NnNTFXbmxUUHA3aHgwaU5zTWhRY0Yyb3FBTXd1QTJaX3F2WVUxX2liWWJtNlhOZGpXUDdVRjJqQnd6bFNJWWxaVDhQcFNGajdvYkVxS1AxV053bWlSbXBsdw?oc=5",
+      "published": "2026-02-17T08:00:00+00:00",
+      "source": {
+        "name": "Altinget.se",
+        "url": "https://www.altinget.se"
+      }
+    },
+    {
       "id": "1fa3f7081752",
       "title": "Trumps omskakande prispolitik för läkemedel närmar sig Sverige - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZzdkWGloSlpzUEtURU1YMmlwUlNQc3gwdTRVSnpkSjVXTVE4MV95Qm9mY2lwWFEyUE95Q3N0VG5ycWZWUjEtTDBZdFJSY3NNcTR4cmFCVU1lRXNGdjFxbUNXTDhPZUlOWEl0R2NEUEliY2xqN2gzQUxOTkZqcFRJOVVFTWMzR19PcmUzdFhIdVlYa0xqV2tnQVJYT1VaZGFRY05HMUFPQ2p4N1lFeFQxQXBYSzFhUQ?oc=5",
       "published": "2026-03-24T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "4db9f9ee9832",
+      "title": "NPÖ ansluten till nationella läkemedelslistan – kan nu visa förskrivna läkemedel - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVTBqVTVEdHRPX1prWlY4M0pPejJnVE5VemtCbkROT24wanBQam1ENDI5QzloSXg5Xzcta0ZFSWtKRk9May1rcDFLVllpaFFxRFVfUlZ4ejZiOVg4Mzd5ekFhaXFxUV9ldWlxcFVES1BPdTliMGx6ay1TS0V5ZUZXWnZ6NXE3c2xVdFA1VkdrWFFCcWN0bExOa1RLV2JTaUM3dzV1dXZITmx1TTdtU0R3ZGg5RXd1WTNDaUswdHVNcVU5SlRUdlY0NmhkY2I2OEdOQ0E?oc=5",
+      "published": "2025-11-25T08:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -864,16 +954,6 @@
       }
     },
     {
-      "id": "dd7cbac436a4",
-      "title": "Nytt läkemedel för diabetes och obesitas visar lovande resultat - Stockholms universitet",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmZxYzJobmZKcmVjR2UtWmNiTEtZMHh0cmRpTmZJQUlNMDZDOC10MXNYS2s2RC1uVFhtTXdZdHdhZ2RXbDJnVDZMVndTYjM1OU5vTnFmR0RFSEJxUlcxRVp2YzZuUDloRWdWaElpY1RkSFdzMnhXVm9xUkZpNFVydnlObVBOWDJqdDBFd0JtZ21OemdXSnFYY2VrZXRvZ3NZeHVoNWp0UUUtakpQRUdzaTlUX1BLZw?oc=5",
-      "published": "2025-06-23T07:00:00+00:00",
-      "source": {
-        "name": "Stockholms universitet",
-        "url": "https://www.su.se"
-      }
-    },
-    {
       "id": "4bf9ef4306d2",
       "title": "Expert: Det är sant och falskt om fetmamedlen - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSUozNmJCRVU5TnZuQl80SXN0U3NOSUlrdXlqQWdPTEo3RnE4TzJrM3BBRmxzQnpDcEF3MHpUUjJ2M3NWLW5CZlhLaENhaXRNbVp3NlRMX3RCNENkaG42YlN1WVJsSHpPUjZ4VTJVdHVpbF9PR09YTTZKV2xYTzdLeDJFeTdFZw?oc=5",
@@ -894,6 +974,16 @@
       }
     },
     {
+      "id": "c049819746c0",
+      "title": "Fetmaläkemedel kan minska risken för beroende och missbruk - News55",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR0c3NGI2OWluTXZwdmVMaUFLLWdVQzlOd2EyWVlMdHdPS1Q5Q05RYjZDMFZ3dnJJcVRJb3daakYzNVJ4UHNvOVMzQmRRc0kxRXlHREMzVWhlclZ6Q0V2eUd5bjRQTkZVNDZDaTRKLWN0dDFlUjNsWUFzcEE4RE16RU5FMHJXd2dtTXFjU0dBWF8?oc=5",
+      "published": "2026-03-07T08:00:00+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
+      }
+    },
+    {
       "id": "527bbe2ff0e4",
       "title": "”Sverige måste öka sitt engagemang inom global hälsa” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2Zkb3BEYTdMLXFWd09OcHNCYUtsTTdMd2cxd19CNThnMjd5cURwUDllRFRuVW56dWtmX25HU2tWU1pydDVxbGJ4OFdlWlU4bVlZejBWRnZSdjRTWC1aNll3bFFRNnI5endBVlJPOUZKcE9GYXFPOVJGM0RoSEcza0s4YnJfbUVUYlNDdFExOUZNbWlNTFZLbVFyOVc?oc=5",
@@ -904,100 +994,10 @@
       }
     },
     {
-      "id": "9369290ee289",
-      "title": "Medicin mot halsbränna kan ge allvarlig biverkan - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYmdXN0RwRnZrS2wyaGNqVUNlSlBqSjVWdW1QSjc0YkZ3WXJGYmxVbXdZaFRILXdJTS1GODN3cFg3ckc4bkE5LV8yUHJabUFINkgxWHNHX0VNWVhsYjkza2piZTZXcGlIcVp6amRzSHlrdGZBUkNPQTJnM1hpWFpObGVFQ2Q5RW02RHNRSmZhSQ?oc=5",
-      "published": "2025-10-29T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "79f439f933d6",
-      "title": "Efterlängtad juridisk vägledning om hälsodata snart här - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGdLSmtublI1aVBFX2dlMXlEQWJuLWxUMTNzNUFXWjRmVi1WWGkxSEJpQ2xXRFBXRldfeGVUbE5sV01aTFRCZDMxMDhTS3d6V0pyMnZ6M1paMkNWaFE1NXBxeWR2Ulg0SEUtMVJHSUlrVVd2QjZpZVZCMm9Cdm9Ed1RqM2R1LXRieFJxd1F4YWxlMnV1NWpUQ3NBZkJSdXlibUUzUURqTzhTa3FnaGs5bTREbmJJVXBp?oc=5",
-      "published": "2026-02-06T08:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "82f42013759f",
-      "title": "Landsbygden tappar apoteken – invånarna tvingas resa för sin medicin - News55",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHJNa1dfRFRPWnVfM25jVlpwTi02WTVTUXpsUFkwOEZyeWRWYW1MdDhrVTZlUzlHMGdTbk04OURrVXA2OTZXck5ZN0hBWXhSN1dzVHMxcDF2ZzYxVmgyeERJejJwanJNWFlBVGJDRS1ES3dsM2FWTDgwcU9DdFlDWl9VajhuQU16a2R5cXVkdHk4cUxsY25rRzhrTQ?oc=5",
-      "published": "2026-02-22T10:44:16+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
-      "id": "507eabb2c6c2",
-      "title": "Ny innovation för individanpassad dosering av läkemedel till bröstcancerpatienter - it-halsa.se",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZFRLZHEyTWF6dlRVR2dpZ0ttV3JQcjd6QncwbGJRQkRyQ3hMalRvQjRINWFZN1FrVFltQzVxa3VNLWRyUmFrRm9hUlU2REdnMVRNYzVEQXFuOXNNVTV0OVRaS2o0THdQaldRcXhSWHZiUW1MT3owSW1aOG5KaS1oR3FfQmt3c2k2dEFweEJQTW9jR3ZKbnNBX3AxM0tZTnFoaWVPTA?oc=5",
-      "published": "2026-01-08T08:00:00+00:00",
-      "source": {
-        "name": "it-halsa.se",
-        "url": "https://it-halsa.se"
-      }
-    },
-    {
-      "id": "8ac391302837",
-      "title": "“Snart är det stopp” – nya regler för hemleverans av läkemedel - News55",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjIya3RNTEdPUENuYUwyakFhNE1qRHNrdHJQTEsyengzLTAzNEU3bEdNRl8zM3ZnM1hkbkttX2libllFMGpLWlNJeHhMMmFKRGxnZUN5NjVqZlp6UzJYMTJ1UE03TV81WFBFSDFUdG1vZWd3bmtaMTJEQkpuZEMwYllIWTUtX0dXbVRCbHUyNVE?oc=5",
-      "published": "2025-10-27T14:52:49+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
-      "id": "7ac21451b1c3",
-      "title": "Allvarliga biverkningar vid vätskebrist av vissa läkemedel - it-halsa.se",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QQmtBU1k4VE5YLUI3YkEtb0p4S3hxMjIycU54SWhDd2djTzZpUDNobEs2ZXhzV2kxcld0U2RaalVZMmhBMlVtM1JhbUkzdlJwbHdEcTZjbGh0eUxDdDUwQm44VUluQXY3dTlKVg?oc=5",
-      "published": "2025-07-10T07:00:00+00:00",
-      "source": {
-        "name": "it-halsa.se",
-        "url": "https://it-halsa.se"
-      }
-    },
-    {
-      "id": "e5e984f4c388",
-      "title": "Nya möjligheter i behandling av barn och ungdomar med obesitas - Läkartidningen",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3NJMUdsMEZoTWVjNDZQUEpEVnBUOFh3ZkNFWVZrbnF4amtSeGV5eGhKbVFDVnR0YjNFX1VkeDVjUmJMVGlnM0Z3M3RsbnY3Q01FbGpvUTBvaDg3NkdrMXh0d3BTcE5POTRKZjJNZllaakM2VnVKZGZVVGNUOGFRbkxFUlZpQ2cya3dfX3M0VzhuS0RBVmtIck8zY3F3dHcx?oc=5",
-      "published": "2025-11-07T08:00:00+00:00",
-      "source": {
-        "name": "Läkartidningen",
-        "url": "https://lakartidningen.se"
-      }
-    },
-    {
-      "id": "eeda35167bc9",
-      "title": "Regeringen chockhöjer medicinpriserna - Dagens Arena",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CZ1pTcllHX0dpRzYzcG9XcXlVeWMtOWw2UnRxSnRlaTA0a0ZGRFdMSl9Zdm1oMkNKY1lYdU9qMXRWQ05UM0k0Q1VnR1IzdWlwU01UOXgwMTdFa0htNS1RRC1qdVlfQXFGUy1OQnpDWnIwT1hwcEZxU2RkemtQZw?oc=5",
-      "published": "2025-05-21T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Arena",
-        "url": "https://www.dagensarena.se"
-      }
-    },
-    {
-      "id": "b65024af5c8b",
-      "title": "Allvarlig sjukdom ökar – kopplas till fetmamedel - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVYzb010T0xtd0liTWNsTThTSE9xSlhSdEExZjRucUJLMHUxeHE4LW5VbFhWcjNfZ2U1OU04YWJVN1NwU0tqTjQyaXVrNkVCNTRibmFRQjZ6XzFqeGllYUNGNVZFZTBoSzQ0ekd3SlRsX0hySm5KdV8zLUhfRUt5dW1JNENYRm5CYmFXeEE2WDF3dw?oc=5",
-      "published": "2026-02-06T08:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "91a659329732",
-      "title": "Restless legs: Nya riktlinjer avråder från gamla läkemedel - News55",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWx0aTJhbTR2R011bWQweTRxQVNybmZ3SWp2S1BGQ3hkbnItMXl2cGYzeVdnOEdxdE9fV2VsNzVQbFE1dkVHOE9TckpBSFpSVXg5dXQ3UGlGbUwzX2YtZ2h5MndfYm93c085bFFxR2tnenVhc3NsclRUc2tybTdxTGRZM3ozQmxNYUJJcU1oSQ?oc=5",
-      "published": "2025-08-13T07:00:00+00:00",
+      "id": "d116755e4b19",
+      "title": "Rapport: 122 sajter säljer läkemedel olagligt – kräver höjda straff - News55",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS1FQTjN6bHdHdVQ4WjdlWnlrWXNEUVVYSjJVYkJkSVRuZTRJUUx0VUNRY0RpUEpKakhIalRjZC13VmlCM3RZVDNrcWt4X2J2emd3d2hJVUlCMnI1Z3hEbW03c0o3SGtOZ2RxRzVMT1Y5em9PWVVGdlJ5SEFySWZHbVdCVWpSdS1GMU1iMkVqamlsWVJiLVRoRw?oc=5",
+      "published": "2026-02-04T08:00:00+00:00",
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
