@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-06T10:52:32.618103+00:00",
+  "fetched_at": "2026-04-06T11:44:51.838411+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -114,12 +114,12 @@
       }
     },
     {
-      "id": "b56012d9d1f9",
-      "title": "Piller kan hjälpa vid sömnapné: ”Kan passa väldigt många” - Expressen",
+      "id": "b758d04cdf75",
+      "title": "Piller kan hjälpa vid sömnapné: ”Kan passa väldigt många” - expressen.se",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOWdwVmZVYVVMTWV3WUdoZTlnZGZuVlRfT2hqbHprcmlRYWx2U1NTUmNwRGJRUDBUU2xZeW5TM1A5WVVOR1RpeUlqak5YVEhSa2dOSHFucjU5bWx1VzVlenJqZ0p1b0ZqcExQTWdDSThRazlta1BrYWlvbVI4VVdxQXBXeWZjYW1NYmpxaEVFdU5YOVZ1c1RvcTY1dw?oc=5",
       "published": "2026-03-27T07:00:00+00:00",
       "source": {
-        "name": "Expressen",
+        "name": "expressen.se",
         "url": "https://www.expressen.se"
       }
     },
@@ -234,16 +234,6 @@
       }
     },
     {
-      "id": "4b736e1a854a",
-      "title": "SSRI-läkemedel lindrade fatigue vid långtidscovid - dagensmedicin.se",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZVNhQUhMZWVpblZMVzNfNlNjeEdCNHJrMWxUeU1JUjdOLUpKQ0FGUUx3anpxTWU0SmltTTBGcE1DMzRUU0cyN0tyeWhGZERJWWNwT3o0dHp6LUU4SjBseWtFeHU1b2Mybm9Hd1FnVmROYXdIU2hyVjNXcVJBTVl2Ulk0SGR4dDZxa1lVZmNlUXMtN1JldlVGbzd3SmRMdmMtXzlMSkpoTGhncTQ?oc=5",
-      "published": "2026-03-30T12:00:00+00:00",
-      "source": {
-        "name": "dagensmedicin.se",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "2688e79d4de8",
       "title": "Potensmedlet lyfts av experter – mot alzheimer - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU1Z6ZEVFbXlaaUV0NkRXWGZfS1ZLcnFIaG9ILUhDUHkwREhmSjJfcThMOXM2MUgxYU9VanFBcDBrQnVMT3A3Z3JOLXJ1SVpKQ2JpbFVWUlZKRUpCeWo0OURjRlpMNlRDWkxxSkItWUsyX3hCUEljWmZMUG9RQ2x5TVQ1aGJsM0djUk9abFJCakpScUItRjVadFJyd2ptOGFSdnp4T213UQ?oc=5",
@@ -251,6 +241,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "4b736e1a854a",
+      "title": "SSRI-läkemedel lindrade fatigue vid långtidscovid - dagensmedicin.se",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZVNhQUhMZWVpblZMVzNfNlNjeEdCNHJrMWxUeU1JUjdOLUpKQ0FGUUx3anpxTWU0SmltTTBGcE1DMzRUU0cyN0tyeWhGZERJWWNwT3o0dHp6LUU4SjBseWtFeHU1b2Mybm9Hd1FnVmROYXdIU2hyVjNXcVJBTVl2Ulk0SGR4dDZxa1lVZmNlUXMtN1JldlVGbzd3SmRMdmMtXzlMSkpoTGhncTQ?oc=5",
+      "published": "2026-03-30T12:00:00+00:00",
+      "source": {
+        "name": "dagensmedicin.se",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -264,16 +264,6 @@
       }
     },
     {
-      "id": "a75ae8d9a49d",
-      "title": "Regeringen vill sätta chefer i äldreomsorgen i skolbänken - dagensmedicin.se",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeEdlQlI0X0oxdnhUSEVjaEJPYjVVcFVod19rNzVQcjcwY2NGZG1MT0JzQWxsUjBWdXFUOGJpaGFUUlJ2cWUyUGZtanltWjQ5MElPYzFoZm5oZjlPQlVNdXJldkozbTJscXFuUjVsZmJiY3UwLUNsTVplcTh0T2Vpc3FJekhvemhOZkxNZW90aVNOT2JIWVE1eFFwUjRDS0M1dkhJTV8yS1ZXVVlaR1RkeDVvMFJUZw?oc=5",
-      "published": "2026-03-31T00:54:00+00:00",
-      "source": {
-        "name": "dagensmedicin.se",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "f822af1d145a",
       "title": "Antibiotikaresistens - ett av de största hoten mot folkhälsan - News55",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONkF3S25LNmtWa3hlQUN2b1UwWjAyM1RldzkzWUNZZEFxbGhVOHFvRkxaMFhVbHlqQ3l0RTBYTkZ6VU5qYVU5TFJSVXNaTW1vYlFFcm5jUTkwYjZmanR6S2xFcU1UZlFtRWFLTnFHeElMMmZQSjR4THBIUTJMR284TkNlRU5OZHBPVHVFa21Jb3pLQQ?oc=5",
@@ -281,6 +271,16 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "a75ae8d9a49d",
+      "title": "Regeringen vill sätta chefer i äldreomsorgen i skolbänken - dagensmedicin.se",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeEdlQlI0X0oxdnhUSEVjaEJPYjVVcFVod19rNzVQcjcwY2NGZG1MT0JzQWxsUjBWdXFUOGJpaGFUUlJ2cWUyUGZtanltWjQ5MElPYzFoZm5oZjlPQlVNdXJldkozbTJscXFuUjVsZmJiY3UwLUNsTVplcTh0T2Vpc3FJekhvemhOZkxNZW90aVNOT2JIWVE1eFFwUjRDS0M1dkhJTV8yS1ZXVVlaR1RkeDVvMFJUZw?oc=5",
+      "published": "2026-03-31T00:54:00+00:00",
+      "source": {
+        "name": "dagensmedicin.se",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -424,6 +424,16 @@
       }
     },
     {
+      "id": "a52ea503139b",
+      "title": "Adhd-medicin är tre gånger vanligare bland finländska pojkar än norska - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9vM1JTenpseWppdVo5VDNMLUs3LWdWd1BRQnFwYXhBWk9FUWpPYlFOSDF3VFcyX3JPZDVKaDdXQUU?oc=5",
+      "published": "2026-03-30T03:00:14+00:00",
+      "source": {
+        "name": "Yle",
+        "url": "https://yle.fi"
+      }
+    },
+    {
       "id": "9731a51a9fb8",
       "title": "Försäljningsexplosion av östrogenspray – då höjs priset - dagensmedicin.se",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ1VKd3psaWNvMzRBRHJiaXY4bWo4S0htVnNFblJXVHBUYWNjdnZHY1c1RE9tNDNpcHV1cjNHZVpxLS1yM1B6czl2cDBLT3lLdVNrY1lla1M2SHlfU1F6dy1NYlIyb1hhX1gxUFNOZ1VRNTB0eVhqbmQ5aXVpNmhKejh2dnIwNUhhcmhObzVEQ2FKLWdVRTdqS2VYaE9YUjUxTmdoSS1kbTlUQTFKVXBtR3dpbw?oc=5",
@@ -441,26 +451,6 @@
       "source": {
         "name": "Läkartidningen",
         "url": "https://lakartidningen.se"
-      }
-    },
-    {
-      "id": "5cbd0bd4f612",
-      "title": "Snart tar Sofies adhd medicin slut – ”Kämpade för att få utredning” - SVT Nyheter",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGRtdVlTTlpCLWR1dU9tM2dtREk1cllFVlVLTkRkcHdMYldLc0JuaXg5akJyTWVJcFM3NGZ5aVpkLTJ3RmlFX1VITmU1SjhlajVMT0xGc2hxeTJtSzFZOW5BcjJiSTZuQ2tnb2M0aFFFUEtoR0k4YjNWZnZmbnNhWmloRXVldFB6ai1ucTYtM2pvRjV6cTNJb0UweWdxUkc1VzR2V2ZfUVNWelk?oc=5",
-      "published": "2026-03-26T04:30:08+00:00",
-      "source": {
-        "name": "SVT Nyheter",
-        "url": "https://www.svt.se"
-      }
-    },
-    {
-      "id": "a52ea503139b",
-      "title": "Adhd-medicin är tre gånger vanligare bland finländska pojkar än norska - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9vM1JTenpseWppdVo5VDNMLUs3LWdWd1BRQnFwYXhBWk9FUWpPYlFOSDF3VFcyX3JPZDVKaDdXQUU?oc=5",
-      "published": "2026-03-30T03:00:14+00:00",
-      "source": {
-        "name": "Yle",
-        "url": "https://yle.fi"
       }
     },
     {
@@ -544,12 +534,12 @@
       }
     },
     {
-      "id": "d3ce0c64f121",
-      "title": "Här är alla 130 vårdanställda som miste legitimationerna 2025 - Expressen",
+      "id": "175ac10170e7",
+      "title": "Här är alla 130 vårdanställda som miste legitimationerna 2025 - expressen.se",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWm50bGJQSHpienFMd2VHRDBZWWhpRTJuUkRTNTExYmxYLUlVQjY4MVZYRTRfRmFGa0xyRDBadDhMcFI5Q2Jhb1NDQ3ZKS3hSMmVnUS0tbG9aOUxjR2lINDF5dXN1QUpVaHJPc2lYTDQ2RG1ZMU5EOUZSeXAyVEMtd1V0ZkFYYVpidXRIc3NuQ2Q?oc=5",
       "published": "2026-03-14T07:00:00+00:00",
       "source": {
-        "name": "Expressen",
+        "name": "expressen.se",
         "url": "https://www.expressen.se"
       }
     },
@@ -998,6 +988,16 @@
       "title": "Läkemedel mot depression fungerar inte som vi trott - News55",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa1BiMWVoOFZXOEUwaEt1c0N1Q0J6UFREVDZMdEFMYVpZN1l3ZTU0c3p2MGZDeDQ5ZXZXNnlmZGd1dkxYWFg1MHJRWnFRZVBBeXBYb3lfR2NwQ2xrQlk5NFFnbUgwc1hwejRKWWVkbkJUOEhlZ2kzaUE1cjhwQk94eF9yZmtGNm9qQ1VIQ0ZR?oc=5",
       "published": "2025-10-27T18:39:01+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "ef3abe0339a2",
+      "title": "Minska i vikt utan läkemedel: Dieter som efterliknar Ozempic - News55",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLVVhTGVOcVNOdWJiVi1JZmt5M2RPZWdSbDBZcEpBVUlycm9rSG1QWDBkT01JZGk3dlVqQXFiZEVnbkJqeU5BMFh2bHNMbGlZaGNnM3I2ZjcteTBOYW42NFlIRE5JRkRJMzRUcTRGMjRWZ19XUnRSNEZkWnBXTjVVcExmaTJhekJrUW96bUFQZTQtUQ?oc=5",
+      "published": "2025-11-02T15:14:08+00:00",
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
