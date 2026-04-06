@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-06T15:41:52.865568+00:00",
+  "fetched_at": "2026-04-06T16:41:24.041094+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -224,16 +224,6 @@
       }
     },
     {
-      "id": "1a777cb12427",
-      "title": "Anette, 64, la om vanor – kunde sluta med medicin - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZclFjYlpUeUpHbmItNnRvOVZadFNOWEFKaW1uTkhtNEVfbElTVmpidTB1WTJRdXR3MEJMYjhnSEc0NjdTZV9yalY0d2dablRFTFJ1WVdoa3pQMkdqdURTcmZNQVI3Vm9RTy1kVlZfTkhFLWRLaDBxanFQZUdlQQ?oc=5",
-      "published": "2026-04-01T14:23:06+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "8ff709546b78",
       "title": "”Att förbättra hälsa kräver mer än att utesluta sjukdom” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0pGQ3VOUlV2QUprNGNWZlpxSncwdUF1c2VlRzdRaGRqZkEwWXlLdHFrMkRaNGpzVXZoc1lpREVsR2gwa2RQNGNWUUNBenBzVC1henBYUlpaTjFhanFjNVJIaTlVV29CUnBORnIyeWd0cmd6VnJNZnBMaGtJbjBUd1VHeG13WHJzTGRHcHFiT3JrXzlTMEtvcXBGV3dGZEsx?oc=5",
@@ -241,6 +231,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "1a777cb12427",
+      "title": "Anette, 64, la om vanor – kunde sluta med medicin - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZclFjYlpUeUpHbmItNnRvOVZadFNOWEFKaW1uTkhtNEVfbElTVmpidTB1WTJRdXR3MEJMYjhnSEc0NjdTZV9yalY0d2dablRFTFJ1WVdoa3pQMkdqdURTcmZNQVI3Vm9RTy1kVlZfTkhFLWRLaDBxanFQZUdlQQ?oc=5",
+      "published": "2026-04-01T14:23:06+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -424,16 +424,6 @@
       }
     },
     {
-      "id": "f822af1d145a",
-      "title": "Antibiotikaresistens - ett av de största hoten mot folkhälsan - News55",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONkF3S25LNmtWa3hlQUN2b1UwWjAyM1RldzkzWUNZZEFxbGhVOHFvRkxaMFhVbHlqQ3l0RTBYTkZ6VU5qYVU5TFJSVXNaTW1vYlFFcm5jUTkwYjZmanR6S2xFcU1UZlFtRWFLTnFHeElMMmZQSjR4THBIUTJMR284TkNlRU5OZHBPVHVFa21Jb3pLQQ?oc=5",
-      "published": "2026-04-03T12:13:42+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "703dffd8533a",
       "title": "Nya läkemedlet kan hjälpa vid fettlever - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNFE2d0lpVUZaMVpnTVpQaERieGFZR1AtRXkxZUxTTGJYdWpMMDJyMUJPc1JnanJ6YzhXMTg5Z1BRRXJQbENmXzhicmNoeW1hZjZBSU5qeDM4QlltejVTbVhRSFF4bk15Vk1SNHN3VVd4cll3RzEtUk03anFVdG9STTJPeXNZUEpRb0FORTlTRmExX1Za?oc=5",
@@ -441,6 +431,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "f822af1d145a",
+      "title": "Antibiotikaresistens - ett av de största hoten mot folkhälsan - News55",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONkF3S25LNmtWa3hlQUN2b1UwWjAyM1RldzkzWUNZZEFxbGhVOHFvRkxaMFhVbHlqQ3l0RTBYTkZ6VU5qYVU5TFJSVXNaTW1vYlFFcm5jUTkwYjZmanR6S2xFcU1UZlFtRWFLTnFHeElMMmZQSjR4THBIUTJMR284TkNlRU5OZHBPVHVFa21Jb3pLQQ?oc=5",
+      "published": "2026-04-03T12:13:42+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -484,16 +484,6 @@
       }
     },
     {
-      "id": "0d326467c904",
-      "title": "Regeringen vill sätta chefer i äldreomsorgen i skolbänken - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeEdlQlI0X0oxdnhUSEVjaEJPYjVVcFVod19rNzVQcjcwY2NGZG1MT0JzQWxsUjBWdXFUOGJpaGFUUlJ2cWUyUGZtanltWjQ5MElPYzFoZm5oZjlPQlVNdXJldkozbTJscXFuUjVsZmJiY3UwLUNsTVplcTh0T2Vpc3FJekhvemhOZkxNZW90aVNOT2JIWVE1eFFwUjRDS0M1dkhJTV8yS1ZXVVlaR1RkeDVvMFJUZw?oc=5",
-      "published": "2026-03-31T00:54:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "63cf29624fee",
       "title": "Så jagar forskarna bättre behandling mot postcovid - Forskning & Framsteg",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sWnRYTXFUZmsxNGtpTXV6UHBZSWIxNTcwQlJyblpkRV9LMDlNMmJOdVN1OHVZWU9JOWhqUWU5ZlRWVWhlYU5FdWxHUVpmQU5uTVRjTWswQjN3QVpVV05oalozNnIycnpkSjJ6dDZHSEw1MHVPVjRiNi1PQWNqQ1U?oc=5",
@@ -504,10 +494,10 @@
       }
     },
     {
-      "id": "09a53e3ccea5",
-      "title": "Låst läge om kunskapsstöd för obesitas på väg att lösas - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZHY5VGpFSXpGdTZCSFgtQktJUXprN280dW1PeWFSM2trY2hHYWYzTHZhN1VhcThCcFhOWHZQTGkya19ERmdlMlE4WDZBQlpnRTl6NUx5U2c4N1ZtekZtNVJMSGlaa0VKSWhxejRqX2dFYW5NV19HclFYeUlBOUNtblpvV0NTOXY4OVc1aDVqc1ZXM0gxcTVRaXhINjBxcWRVUUE?oc=5",
-      "published": "2026-03-30T19:00:00+00:00",
+      "id": "0d326467c904",
+      "title": "Regeringen vill sätta chefer i äldreomsorgen i skolbänken - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeEdlQlI0X0oxdnhUSEVjaEJPYjVVcFVod19rNzVQcjcwY2NGZG1MT0JzQWxsUjBWdXFUOGJpaGFUUlJ2cWUyUGZtanltWjQ5MElPYzFoZm5oZjlPQlVNdXJldkozbTJscXFuUjVsZmJiY3UwLUNsTVplcTh0T2Vpc3FJekhvemhOZkxNZW90aVNOT2JIWVE1eFFwUjRDS0M1dkhJTV8yS1ZXVVlaR1RkeDVvMFJUZw?oc=5",
+      "published": "2026-03-31T00:54:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -531,6 +521,16 @@
       "source": {
         "name": "Region Gotland",
         "url": "https://gotland.se"
+      }
+    },
+    {
+      "id": "09a53e3ccea5",
+      "title": "Låst läge om kunskapsstöd för obesitas på väg att lösas - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZHY5VGpFSXpGdTZCSFgtQktJUXprN280dW1PeWFSM2trY2hHYWYzTHZhN1VhcThCcFhOWHZQTGkya19ERmdlMlE4WDZBQlpnRTl6NUx5U2c4N1ZtekZtNVJMSGlaa0VKSWhxejRqX2dFYW5NV19HclFYeUlBOUNtblpvV0NTOXY4OVc1aDVqc1ZXM0gxcTVRaXhINjBxcWRVUUE?oc=5",
+      "published": "2026-03-30T19:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -704,16 +704,6 @@
       }
     },
     {
-      "id": "a52ea503139b",
-      "title": "Adhd-medicin är tre gånger vanligare bland finländska pojkar än norska - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9vM1JTenpseWppdVo5VDNMLUs3LWdWd1BRQnFwYXhBWk9FUWpPYlFOSDF3VFcyX3JPZDVKaDdXQUU?oc=5",
-      "published": "2026-03-30T03:00:14+00:00",
-      "source": {
-        "name": "Yle",
-        "url": "https://yle.fi"
-      }
-    },
-    {
       "id": "527bbe2ff0e4",
       "title": "”Sverige måste öka sitt engagemang inom global hälsa” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2Zkb3BEYTdMLXFWd09OcHNCYUtsTTdMd2cxd19CNThnMjd5cURwUDllRFRuVW56dWtmX25HU2tWU1pydDVxbGJ4OFdlWlU4bVlZejBWRnZSdjRTWC1aNll3bFFRNnI5endBVlJPOUZKcE9GYXFPOVJGM0RoSEcza0s4YnJfbUVUYlNDdFExOUZNbWlNTFZLbVFyOVc?oc=5",
@@ -761,6 +751,16 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "a52ea503139b",
+      "title": "Adhd-medicin är tre gånger vanligare bland finländska pojkar än norska - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9vM1JTenpseWppdVo5VDNMLUs3LWdWd1BRQnFwYXhBWk9FUWpPYlFOSDF3VFcyX3JPZDVKaDdXQUU?oc=5",
+      "published": "2026-03-29T07:00:00+00:00",
+      "source": {
+        "name": "Yle",
+        "url": "https://yle.fi"
       }
     },
     {
@@ -814,16 +814,6 @@
       }
     },
     {
-      "id": "d3ce0c64f121",
-      "title": "Här är alla 130 vårdanställda som miste legitimationerna 2025 - Expressen",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWm50bGJQSHpienFMd2VHRDBZWWhpRTJuUkRTNTExYmxYLUlVQjY4MVZYRTRfRmFGa0xyRDBadDhMcFI5Q2Jhb1NDQ3ZKS3hSMmVnUS0tbG9aOUxjR2lINDF5dXN1QUpVaHJPc2lYTDQ2RG1ZMU5EOUZSeXAyVEMtd1V0ZkFYYVpidXRIc3NuQ2Q?oc=5",
-      "published": "2026-03-14T07:00:00+00:00",
-      "source": {
-        "name": "Expressen",
-        "url": "https://www.expressen.se"
-      }
-    },
-    {
       "id": "7ac21451b1c3",
       "title": "Allvarliga biverkningar vid vätskebrist av vissa läkemedel - it-halsa.se",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QQmtBU1k4VE5YLUI3YkEtb0p4S3hxMjIycU54SWhDd2djTzZpUDNobEs2ZXhzV2kxcld0U2RaalVZMmhBMlVtM1JhbUkzdlJwbHdEcTZjbGh0eUxDdDUwQm44VUluQXY3dTlKVg?oc=5",
@@ -831,6 +821,16 @@
       "source": {
         "name": "it-halsa.se",
         "url": "https://it-halsa.se"
+      }
+    },
+    {
+      "id": "d3ce0c64f121",
+      "title": "Här är alla 130 vårdanställda som miste legitimationerna 2025 - Expressen",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWm50bGJQSHpienFMd2VHRDBZWWhpRTJuUkRTNTExYmxYLUlVQjY4MVZYRTRfRmFGa0xyRDBadDhMcFI5Q2Jhb1NDQ3ZKS3hSMmVnUS0tbG9aOUxjR2lINDF5dXN1QUpVaHJPc2lYTDQ2RG1ZMU5EOUZSeXAyVEMtd1V0ZkFYYVpidXRIc3NuQ2Q?oc=5",
+      "published": "2026-03-14T07:00:00+00:00",
+      "source": {
+        "name": "Expressen",
+        "url": "https://www.expressen.se"
       }
     },
     {
@@ -854,16 +854,6 @@
       }
     },
     {
-      "id": "b999d9720c48",
-      "title": "Hormonspray försvinner från högkostnadsskydd - Enköpingsposten",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMHdQeUtpMDVWYk1BblE1WW9iMjk4Mk9oX18zTkRqQllQVGtRUmdGejdjYWd3VGYyZG1ES2ZEMFVWcGstU2xkQ2lUUEFpRm5CS1NDNlR6dnkwSUxYWkhXMDBDeVJTeHFnV1BGdno0NF8xWkdzdk1QWjdNYXZvVElrcks5V1BIT2Rnb2J5Nm91djF2QklyUDFNS2ZVWDRMY3F6SVBIQ2xDcmVWQQ?oc=5",
-      "published": "2026-03-30T18:04:00+00:00",
-      "source": {
-        "name": "Enköpingsposten",
-        "url": "https://www.eposten.se"
-      }
-    },
-    {
       "id": "eeda35167bc9",
       "title": "Regeringen chockhöjer medicinpriserna - Dagens Arena",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CZ1pTcllHX0dpRzYzcG9XcXlVeWMtOWw2UnRxSnRlaTA0a0ZGRFdMSl9Zdm1oMkNKY1lYdU9qMXRWQ05UM0k0Q1VnR1IzdWlwU01UOXgwMTdFa0htNS1RRC1qdVlfQXFGUy1OQnpDWnIwT1hwcEZxU2RkemtQZw?oc=5",
@@ -881,6 +871,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "b999d9720c48",
+      "title": "Hormonspray försvinner från högkostnadsskydd - Enköpingsposten",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMHdQeUtpMDVWYk1BblE1WW9iMjk4Mk9oX18zTkRqQllQVGtRUmdGejdjYWd3VGYyZG1ES2ZEMFVWcGstU2xkQ2lUUEFpRm5CS1NDNlR6dnkwSUxYWkhXMDBDeVJTeHFnV1BGdno0NF8xWkdzdk1QWjdNYXZvVElrcks5V1BIT2Rnb2J5Nm91djF2QklyUDFNS2ZVWDRMY3F6SVBIQ2xDcmVWQQ?oc=5",
+      "published": "2026-03-30T18:04:00+00:00",
+      "source": {
+        "name": "Enköpingsposten",
+        "url": "https://www.eposten.se"
       }
     },
     {
