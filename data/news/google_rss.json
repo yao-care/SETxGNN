@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-08T19:56:35.935267+00:00",
+  "fetched_at": "2026-04-08T20:42:15.357359+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "5e76dc391fba",
-      "title": "Nya siffror visar fortsatt ökning av sköldkörtelbehandling, men minskning av liotyronin och NDT - it-halsa.se",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWZlYlJXWkE5YVpfclFNSlR1ajNsUzJYb2NBZ3RPTHZkNm96aW5Ta0h6U3E0UF9wVFZYczU4M0Z3eVQ2VGtnamdhQ0VZMHNENmp1SVBNNDJKMUY0WU1EN3otVk5XaFNjeC10amNhMFZkbjZGb0lJTmdXd1FkNTRBUlRONEMxQktZaFl6UjlSZ3NScnpueHU3RWM4OWYyWDRxcVBhclltX2w5THdnQTZsN3hBU296Zw?oc=5",
-      "published": "2026-04-08T04:00:20+00:00",
-      "source": {
-        "name": "it-halsa.se",
-        "url": "https://it-halsa.se"
-      }
-    },
-    {
       "id": "dfd373324dce",
       "title": "Diabetesläkemedel kopplas till bättre psykisk hälsa - Forskning.se",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS0o5V1l6a25kaEt6bHZ5cEQ2SkU4emxLYU5wS0FQQ3FYbW1JSmowcjJBT2lVTmRmNkdZQ3c4OUFjc2tEb2piVUpjcXdPM29GV25Fell2OFg5VmxNbjdhU1BxSmhsbzEtUy1oaUpsYkx3TVZtMmx1YW00M29qd21PNnBYZUdHMG5SRXBtS05GckE3UQ?oc=5",
@@ -81,6 +71,16 @@
       "source": {
         "name": "Forskning.se",
         "url": "https://forskning.se"
+      }
+    },
+    {
+      "id": "5e76dc391fba",
+      "title": "Nya siffror visar fortsatt ökning av sköldkörtelbehandling, men minskning av liotyronin och NDT - it-halsa.se",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWZlYlJXWkE5YVpfclFNSlR1ajNsUzJYb2NBZ3RPTHZkNm96aW5Ta0h6U3E0UF9wVFZYczU4M0Z3eVQ2VGtnamdhQ0VZMHNENmp1SVBNNDJKMUY0WU1EN3otVk5XaFNjeC10amNhMFZkbjZGb0lJTmdXd1FkNTRBUlRONEMxQktZaFl6UjlSZ3NScnpueHU3RWM4OWYyWDRxcVBhclltX2w5THdnQTZsN3hBU296Zw?oc=5",
+      "published": "2026-04-08T04:00:20+00:00",
+      "source": {
+        "name": "it-halsa.se",
+        "url": "https://it-halsa.se"
       }
     },
     {
@@ -334,16 +334,6 @@
       }
     },
     {
-      "id": "c258a8756b85",
-      "title": "Forskare: Varning för paracetamol till gravida påverkar fortfarande amerikansk sjukvård - Dagens PS",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSE41UWtOY2VqTi1WZGM5SFRGZF9CR1IzTU11N3drUTYweGU2bHJkc1ZpWDhxTWZJSW9qbDJLOEQtRG4zRll0M1U1QlR1UERqMmpjbXZKWnk4YWIyRTB0dEVVYW4xUGk5dnlWQ0Yydm1RbmdGUklIZ1pUV0VIYjl2LTROb3M1R1lNUUVFSzNKbVZFUjJlUmdsZkd2dlg2RVhSZEV1TTJvMU90ZGU0WUp5LTBMTXlkNm1T?oc=5",
-      "published": "2026-04-07T05:27:49+00:00",
-      "source": {
-        "name": "Dagens PS",
-        "url": "https://www.dagensps.se"
-      }
-    },
-    {
       "id": "9e56a4f7dea5",
       "title": "Fetmaläkemedel kopplas till bättre psykisk hälsa - aftonbladet.se",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMFBOQ1BIb1lOMGhJT3VyMVlkWEpFeHliSWl2aFZwRFl0cFRVX1RYSm0zLVY5alpqYXQwcXRFTjY2RTdJRlhXdUVrLVZjWV9qeGNoWG1jT29OMlloVkhXRXVKdlpubEYwbjFOZW1KXzNxMTBmY2czbDlVOTJHbmJMVEdMN19wN1ROQjhRME9qeU45bVlobkhR?oc=5",
@@ -361,6 +351,16 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "c258a8756b85",
+      "title": "Forskare: Varning för paracetamol till gravida påverkar fortfarande amerikansk sjukvård - Dagens PS",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSE41UWtOY2VqTi1WZGM5SFRGZF9CR1IzTU11N3drUTYweGU2bHJkc1ZpWDhxTWZJSW9qbDJLOEQtRG4zRll0M1U1QlR1UERqMmpjbXZKWnk4YWIyRTB0dEVVYW4xUGk5dnlWQ0Yydm1RbmdGUklIZ1pUV0VIYjl2LTROb3M1R1lNUUVFSzNKbVZFUjJlUmdsZkd2dlg2RVhSZEV1TTJvMU90ZGU0WUp5LTBMTXlkNm1T?oc=5",
+      "published": "2026-04-07T05:27:49+00:00",
+      "source": {
+        "name": "Dagens PS",
+        "url": "https://www.dagensps.se"
       }
     },
     {
@@ -524,16 +524,6 @@
       }
     },
     {
-      "id": "ecbef2eb4b46",
-      "title": "Första onkologiska injektionen får hemmadosering - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaFU5X1lVSXJfNWNSbzZ4b1dKMmZra0w3dnJ3bEVJbHRnM1hodGY1aGEzZm0zVlpFVER1cjBzM2xoWk14OFNCQkFtZzBDazdoZG55bzlqa3BGdVRJLWJabVVwOVhIUFdEcHN4SDRTcGdiRUlGemw0NHhybldMWWlQUlRJdjZFMjlkS21COUpDNWdCTVRJYnRXWXBoOWhRLWR4RmI5TnZn?oc=5",
-      "published": "2026-04-02T02:03:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "75c4c1d7c218",
       "title": "Så ska du göra om du får biverkningar av medicin - aftonbladet.se",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbjl3a0lwUllESzZsZjZQeXl1U1h0WVJ5MHRxckgxdWdlVUo4NW0zUndhZUJMdHJwejhMWjNyVU9fUGc3UTQzc3JXLVpPTUdmNXVSc05rRDh4U2xsZjdoMzU3LUJIYkMxYzhqQTJtY0VTY0prSzVVWG9ZWmxWTHJqbVlZQk5yVUhy?oc=5",
@@ -551,6 +541,16 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "ecbef2eb4b46",
+      "title": "Första onkologiska injektionen får hemmadosering - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaFU5X1lVSXJfNWNSbzZ4b1dKMmZra0w3dnJ3bEVJbHRnM1hodGY1aGEzZm0zVlpFVER1cjBzM2xoWk14OFNCQkFtZzBDazdoZG55bzlqa3BGdVRJLWJabVVwOVhIUFdEcHN4SDRTcGdiRUlGemw0NHhybldMWWlQUlRJdjZFMjlkS21COUpDNWdCTVRJYnRXWXBoOWhRLWR4RmI5TnZn?oc=5",
+      "published": "2026-04-02T02:03:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -604,20 +604,20 @@
       }
     },
     {
-      "id": "f159b965c8d3",
-      "title": "Fler fall av antibiotikaresistens 2025 - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdGNXdElIdXlISXVoOXpoWGZ5N2ttRkdab2xzRUQyMVhsZHBKeEEyNFlMaVNGTnZkanVSbTNhczU1MXlEc01xYkRkbUpxZmJRa2poRTIwVzlqdk9wUC1uaVc4TlZUOTNxbl90MVJGMzg5Tl9nYkhKa0d0SzRDSW0wdGwtb3YyVmFMQmVUSTF6akVFcWpZamRMLW96Nzk?oc=5",
-      "published": "2026-04-01T22:38:00+00:00",
+      "id": "cb305993c005",
+      "title": "Region får rätt mot ätstörningsklinik – så många miljoner ska återbetalas - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUzhCXzRtUi1DOTlZSmFaWEZOYmQzN3UyaFI0bE9MWEQyZkRDcGIyczJJZmJIc1pId3ZldUpaRk1zSUVFTUhVNzhwUW5YWU9feDc1OFo2TnIzWnA0WlE0T19INWVmd1VWVlVNZWQ1R1R6TjlMUHMwOWVhWkRaY3ZDamo2aEZTeE9DS2hvdEItQ3ZkcFI1YlJNOTF2Ums3T0hmTUhPVU1KRy1oMmpmdkZxNXhrRnp0eUlma2xPUWo0aTA1VU5E?oc=5",
+      "published": "2026-04-02T01:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
       }
     },
     {
-      "id": "cb305993c005",
-      "title": "Region får rätt mot ätstörningsklinik – så många miljoner ska återbetalas - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUzhCXzRtUi1DOTlZSmFaWEZOYmQzN3UyaFI0bE9MWEQyZkRDcGIyczJJZmJIc1pId3ZldUpaRk1zSUVFTUhVNzhwUW5YWU9feDc1OFo2TnIzWnA0WlE0T19INWVmd1VWVlVNZWQ1R1R6TjlMUHMwOWVhWkRaY3ZDamo2aEZTeE9DS2hvdEItQ3ZkcFI1YlJNOTF2Ums3T0hmTUhPVU1KRy1oMmpmdkZxNXhrRnp0eUlma2xPUWo0aTA1VU5E?oc=5",
-      "published": "2026-04-02T01:00:00+00:00",
+      "id": "f159b965c8d3",
+      "title": "Fler fall av antibiotikaresistens 2025 - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdGNXdElIdXlISXVoOXpoWGZ5N2ttRkdab2xzRUQyMVhsZHBKeEEyNFlMaVNGTnZkanVSbTNhczU1MXlEc01xYkRkbUpxZmJRa2poRTIwVzlqdk9wUC1uaVc4TlZUOTNxbl90MVJGMzg5Tl9nYkhKa0d0SzRDSW0wdGwtb3YyVmFMQmVUSTF6akVFcWpZamRMLW96Nzk?oc=5",
+      "published": "2026-04-01T22:38:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -674,16 +674,6 @@
       }
     },
     {
-      "id": "d7e377235506",
-      "title": "Karolinska får böter för otillåten direktupphandling - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmhtYVBmcVpxQUdWczEzOHVSNWpraTRNN29RLWM5ZC1HTk94RFpGWnJMUGxhZ2NVemNkV192VkVwLWNZSFpKRDhlcFNqODEtUkFkT1JLanM2WS1oNHNHN3RtMGJZZTNyU2dfQmdhM1J4THpjR1pNZHR5eERBMGZaR29sald2SzRBNlRXcmNKX0pQU3RiT1BaWGlUWmpkeHF2UmlDTkxzV0stWkk?oc=5",
-      "published": "2026-04-01T03:47:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "2646dcdcbe9d",
       "title": "Mobbning på arbetsplatsen kopplas till användning av antidepressiva läkemedel - Stockholms universitet",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWHFSMjRkQmpjY1Q2Q0lMdXR4LXRidzBQS2NGb1JQZkZiZ1d4c1ZqZV9fVVFvQjdlcF9MVExQaFZIa19iaF8weFNoTzhFbFFlTG9UNExPM3ZMa0V1STRva2ViNDBrd0dlbDV1cEEtWFNMc0lzUUR0RGV5RFJwc21QcnRiY2phajRqSHpISkFLbXFyXzFkS3FPSXMzVmItcG54c3E3RW5MRzl3TW13c192eW96QmpXVkd5blhHclBSLWppVXBzc0tUOF9fbDRqU3UyQUUtM3Q0eUI4VnRrbUctMVhEYnlieGFicHRPRXhIS2NFajJzM2F3aVd1bUhaUllDRThuaA?oc=5",
@@ -694,13 +684,13 @@
       }
     },
     {
-      "id": "b9aae47e9c19",
-      "title": "Debatt: Många äldre betalar för mycket för sina mediciner - News55",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEhSWklocV8zcmE3UVNVdloyLTdvcm1HT2kyWUZYVW5jUEkzRGpuRkNNcUZFRU5WY2llakhTc2ZROTk0THVmZkcyOGNXTEYzbTFPQXhmUnhKcTR0ZXlacTc0MlZTZ1cwSVY1cUhpNEhiODBfV1JvX2s5eTlGX3Y5cFFWSDdIdGFTOFB6ZjF3?oc=5",
-      "published": "2026-03-11T07:00:00+00:00",
+      "id": "d7e377235506",
+      "title": "Karolinska får böter för otillåten direktupphandling - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmhtYVBmcVpxQUdWczEzOHVSNWpraTRNN29RLWM5ZC1HTk94RFpGWnJMUGxhZ2NVemNkV192VkVwLWNZSFpKRDhlcFNqODEtUkFkT1JLanM2WS1oNHNHN3RtMGJZZTNyU2dfQmdhM1J4THpjR1pNZHR5eERBMGZaR29sald2SzRBNlRXcmNKX0pQU3RiT1BaWGlUWmpkeHF2UmlDTkxzV0stWkk?oc=5",
+      "published": "2026-04-01T03:47:00+00:00",
       "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -711,6 +701,16 @@
       "source": {
         "name": "Forskning & Framsteg",
         "url": "https://fof.se"
+      }
+    },
+    {
+      "id": "b9aae47e9c19",
+      "title": "Debatt: Många äldre betalar för mycket för sina mediciner - News55",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEhSWklocV8zcmE3UVNVdloyLTdvcm1HT2kyWUZYVW5jUEkzRGpuRkNNcUZFRU5WY2llakhTc2ZROTk0THVmZkcyOGNXTEYzbTFPQXhmUnhKcTR0ZXlacTc0MlZTZ1cwSVY1cUhpNEhiODBfV1JvX2s5eTlGX3Y5cFFWSDdIdGFTOFB6ZjF3?oc=5",
+      "published": "2026-03-11T07:00:00+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
