@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-09T20:03:37.712312+00:00",
+  "fetched_at": "2026-04-09T21:42:17.255780+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -74,16 +74,6 @@
       }
     },
     {
-      "id": "ffaf349125b6",
-      "title": "Vanlig morgonvana kan slå fel – fyra mediciner du inte bör ta med kaffe - Dagens.se",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3pGamtNdnVUUWtQdjdrLVBIcHlGZ2wtVTFEbGh4MkpfSVB3TGdmYVZ1OUFEOGxFM1ZpRkZoN0xfR012b3JyWHc4R3NCdVMxLXVhdGhtU0ZlcjBpd2p4ZnlJRnpqbHlwYi1oYndjOGNldndtYTRlajREWS1lV1VWOEI2Mi1vWFNhaXp6bjJUMEx4cGo3NnI1WUNtc2dNcm9r?oc=5",
-      "published": "2026-04-09T07:22:17+00:00",
-      "source": {
-        "name": "Dagens.se",
-        "url": "https://www.dagens.se"
-      }
-    },
-    {
       "id": "5e76dc391fba",
       "title": "Nya siffror visar fortsatt ökning av sköldkörtelbehandling, men minskning av liotyronin och NDT - it-halsa.se",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWZlYlJXWkE5YVpfclFNSlR1ajNsUzJYb2NBZ3RPTHZkNm96aW5Ta0h6U3E0UF9wVFZYczU4M0Z3eVQ2VGtnamdhQ0VZMHNENmp1SVBNNDJKMUY0WU1EN3otVk5XaFNjeC10amNhMFZkbjZGb0lJTmdXd1FkNTRBUlRONEMxQktZaFl6UjlSZ3NScnpueHU3RWM4OWYyWDRxcVBhclltX2w5THdnQTZsN3hBU296Zw?oc=5",
@@ -101,6 +91,16 @@
       "source": {
         "name": "Janusinfo.se",
         "url": "https://janusinfo.se"
+      }
+    },
+    {
+      "id": "ffaf349125b6",
+      "title": "Vanlig morgonvana kan slå fel – fyra mediciner du inte bör ta med kaffe - Dagens.se",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3pGamtNdnVUUWtQdjdrLVBIcHlGZ2wtVTFEbGh4MkpfSVB3TGdmYVZ1OUFEOGxFM1ZpRkZoN0xfR012b3JyWHc4R3NCdVMxLXVhdGhtU0ZlcjBpd2p4ZnlJRnpqbHlwYi1oYndjOGNldndtYTRlajREWS1lV1VWOEI2Mi1vWFNhaXp6bjJUMEx4cGo3NnI1WUNtc2dNcm9r?oc=5",
+      "published": "2026-04-09T07:22:17+00:00",
+      "source": {
+        "name": "Dagens.se",
+        "url": "https://www.dagens.se"
       }
     },
     {
@@ -154,10 +154,10 @@
       }
     },
     {
-      "id": "afa7cf42afe8",
-      "title": "Vården har fått nytt AI-stöd från Läkemedelsverket - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWXRRNVNxcTN2dWJnZnVHMXV2SnZUTWdOZ0x1WDR4ZHhkWE84ZDhwQm1vVjl4Q3JJMkJVcHJKTmZEZ3RkV0dxUk9VblR6dHZoVzZNYk1OVTE5eUowcGZyVDlBM2hVS09aa2ExSmxJc3loV251NlV2aWhrMnVGUWdmclgxNjNDZTlESm83N3RLOURZUXNCcmo2Z2xvVzVSSFpRMGd5LUhKM2o0Z0E5Rm9WZC1B?oc=5",
-      "published": "2026-04-08T02:06:00+00:00",
+      "id": "e9557f05ecfc",
+      "title": "Avtal öppnar för bredare användning av läkemedelsautomater i Jönköping - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbVk3d3JKQnFoYUpXUWotdXlHdHBxMjhRTUlXTUsyZG5QMlp1YkFEcEJOeE1IdVJ4OC1VU0FXbU9QQ1dYcWFvV2dnNmJEbHFnTHNCLWx5U3FncVlDUW1nd3B3VFdqUGFEMXNMWFJGS1JyZldraGJhRDBCTzhRUTdHc1BRNkc4S04xY3FpdjlYYkMtV2NobEdQOGpvczBJeHVsck9yZExqeTJIckpVUXBubVMtcGtxaDhFM1ZWNmhhX1M?oc=5",
+      "published": "2026-04-08T23:07:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -174,10 +174,30 @@
       }
     },
     {
+      "id": "afa7cf42afe8",
+      "title": "Vården har fått nytt AI-stöd från Läkemedelsverket - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWXRRNVNxcTN2dWJnZnVHMXV2SnZUTWdOZ0x1WDR4ZHhkWE84ZDhwQm1vVjl4Q3JJMkJVcHJKTmZEZ3RkV0dxUk9VblR6dHZoVzZNYk1OVTE5eUowcGZyVDlBM2hVS09aa2ExSmxJc3loV251NlV2aWhrMnVGUWdmclgxNjNDZTlESm83N3RLOURZUXNCcmo2Z2xvVzVSSFpRMGd5LUhKM2o0Z0E5Rm9WZC1B?oc=5",
+      "published": "2026-04-08T02:06:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "3d1d64a9f63f",
       "title": "Trumps politik bidrar till att regioner oftare vill förhandla - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQai1UVE1WbG94aWx6WVFWczJvZWh4Z3dkOEVhWVRJZEFQVV8xX0YxZmgwTmNlVmZ5U0NOdVpsMGVscFo5cVJPVE5ab09BNDJFWnB4cF9RMFRsMlNaOVBwUElsQzZ5cEo5R1VzYlg3Nmc0elIzYVhVcUlRRE5Nd1huTWJoTTZDUzFpd0YwVmdDN0lUVmZqSmRYLUJwOTdrdW14ajdMWTBMU2VneXNwOGFKWC1OZTA?oc=5",
       "published": "2026-04-08T02:30:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "385de1dcdecf",
+      "title": "Socialstyrelsen: 80 000 kan ha nytta av allergivaccin - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWRvMi1uUmd3YjVkSjFvekJkZ1BhbzFvLTlpWU9SeGFhaDFnUHBPemYtMF9lOE5pYWRZdlByN3hVYS0xa2ZXb3g5VmZHN0JhR1RGWXZmODVRTHctd1hJMElMRzhTbGJncmZBc2p0Z1hSVDExMjRMek8yVFQwaDRrNy1WdV91WVN3aUprclViUEhTb0tqa1QxblNjM0FrNlA1SEwtVld4N25LT2tKZmk2bHZqZEs?oc=5",
+      "published": "2026-04-07T19:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -554,16 +574,6 @@
       }
     },
     {
-      "id": "63cf29624fee",
-      "title": "Så jagar forskarna bättre behandling mot postcovid - Forskning & Framsteg",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sWnRYTXFUZmsxNGtpTXV6UHBZSWIxNTcwQlJyblpkRV9LMDlNMmJOdVN1OHVZWU9JOWhqUWU5ZlRWVWhlYU5FdWxHUVpmQU5uTVRjTWswQjN3QVpVV05oalozNnIycnpkSjJ6dDZHSEw1MHVPVjRiNi1PQWNqQ1U?oc=5",
-      "published": "2026-03-12T07:00:00+00:00",
-      "source": {
-        "name": "Forskning & Framsteg",
-        "url": "https://fof.se"
-      }
-    },
-    {
       "id": "55157452f385",
       "title": "Kraftig ökning av antidepressiva läkemedel till unga - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQckZ5NGo5Z21lSEc0TE9ZRWhkbDR1blBpb3pUck5TUkQwVmtMNEd6ak1YRjhHNmg4c000aUJydFdjVks4c0lzWFJOMFA0eUJ3U3VBVllSSWtWY1hDYzJOVEhWbkJYeFVPYXB1bmJFdlBxcDd1SFg4LVloUzdEWWZob3g2anpfaS1KRTJvbzBDSDZJOHBSSG1qdEgwM2E?oc=5",
@@ -571,6 +581,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "63cf29624fee",
+      "title": "Så jagar forskarna bättre behandling mot postcovid - Forskning & Framsteg",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sWnRYTXFUZmsxNGtpTXV6UHBZSWIxNTcwQlJyblpkRV9LMDlNMmJOdVN1OHVZWU9JOWhqUWU5ZlRWVWhlYU5FdWxHUVpmQU5uTVRjTWswQjN3QVpVV05oalozNnIycnpkSjJ6dDZHSEw1MHVPVjRiNi1PQWNqQ1U?oc=5",
+      "published": "2026-03-12T07:00:00+00:00",
+      "source": {
+        "name": "Forskning & Framsteg",
+        "url": "https://fof.se"
       }
     },
     {
@@ -904,16 +924,6 @@
       }
     },
     {
-      "id": "2270e7b841c4",
-      "title": "NY STUDIE: Medlen med bäst effekt mot ångest - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnh3a1VhbjVRSkJEeUJ6a0pZeTRkS3A0cmczX18tNXloa2JQXy13WDRuOVFOaXVIOERXdE9COEo0VDRqWC1nSTcxeUNRWlFlcVg4UWtsZ3JySkpwWWZWOF9HX0J4bXZZWk1IaW5sZTZoZWJsZWN4RF9VOF9UX1UwaEdRUV9fTlp1YjFFTVMwMjJfLWs?oc=5",
-      "published": "2026-02-05T08:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "44b56154e031",
       "title": "Ny studie: Dyra läkemedel kan leda till förlorad vård - News55",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDU3d21uU1R4eWMyZmVJSkJiRFZRYklUQWtoRVoyc1FFREJsZHhTcFVlUlcteHFsekttb29QWEwydXRKdEJBaW1FbncwblJQUk5WU2JvZkZWLW9iMXBqZkhmQXY3blRyYjJCRm9INlFKaVRlLUNodER2LUt2a2VNTVhkVm9JdW9W?oc=5",
@@ -921,6 +931,16 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "2270e7b841c4",
+      "title": "NY STUDIE: Medlen med bäst effekt mot ångest - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnh3a1VhbjVRSkJEeUJ6a0pZeTRkS3A0cmczX18tNXloa2JQXy13WDRuOVFOaXVIOERXdE9COEo0VDRqWC1nSTcxeUNRWlFlcVg4UWtsZ3JySkpwWWZWOF9HX0J4bXZZWk1IaW5sZTZoZWJsZWN4RF9VOF9UX1UwaEdRUV9fTlp1YjFFTVMwMjJfLWs?oc=5",
+      "published": "2026-02-05T08:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -974,16 +994,6 @@
       }
     },
     {
-      "id": "bd550d0f8b83",
-      "title": "Mesta möjliga hälsa för skattepengarna – statens subventionering av läkemedel - Riksrevisionen",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaTAzVVFEbDd4TXMxSjBmdm1qVFpqdkN4bUVGX0E3NnA0R1VvU3IyaEJZemVIOTFtRUNFbEVKZ1R0YkRMMFB4T01ncTJjcEVWYU1VdGg3ZlRpTzlZWUw5aF95VmtpZjU2NF82SUdRT3QwcEtNaG0xNkQ1SDhTb2J5MFJydVpVWUlhWFgxMWpBZVdFX1A2dmduQnB3cGVqR2g4TWFNUnhSOWZLcDdhbGk1ekstTC1OYWdFYnVMMmJlNl9QYTFETGl3bGdqRmJJbU9mdndBalNpWlI4dUdGbW9ETFVXZ3cxQQ?oc=5",
-      "published": "2021-05-06T07:00:00+00:00",
-      "source": {
-        "name": "Riksrevisionen",
-        "url": "https://www.riksrevisionen.se"
-      }
-    },
-    {
       "id": "8ba7621f7131",
       "title": "Forskarnas fynd: Lax påverkas av ångestdämpande läkemedel - News55",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOEZFdnkyNGFTbldYRmlBTGxlMFZnbGpNaTgxdmRvbVpZZzNfT3otUkM2bHlBVmdvRU1CbFdxSXpHMHpiZHRwdzJaTDlYWUYzd2RXNjQya2F6WWtkUWg0ZXRtSXQtZzJmYXdmUEZmc3J4bEd2cjc2RXhFV3FyLU04RGh4Z2huUXNjT1pKenRR?oc=5",
@@ -991,16 +1001,6 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
-      }
-    },
-    {
-      "id": "5f6a1ba06b41",
-      "title": "Läkemedel säljs olagligt av kriminella gäng – kan vara farliga - Dagens PS",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUnpOTFo3d3VUZHJ5OTVnZFY2VnR4ODN2R1QxQU0yaHpTRV8wRUJFMGdoa1kwNWhqaWRNTzFPM2twYmRXaVZnUm5mZ1h5dnBRakF2R091dVlDYnZTWXUwSmNJOWk3c0NuLWJTY0U0NDlVT2czdDZtOFNTeXNtTXU4STVTcGJwREQ4ZEFPNTVieC1BMGhhNFE?oc=5",
-      "published": "2026-02-20T08:00:00+00:00",
-      "source": {
-        "name": "Dagens PS",
-        "url": "https://www.dagensps.se"
       }
     }
   ]
