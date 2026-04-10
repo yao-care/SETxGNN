@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-10T09:04:37.281110+00:00",
+  "fetched_at": "2026-04-10T10:50:09.619986+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -144,16 +144,6 @@
       }
     },
     {
-      "id": "201b5967af7e",
-      "title": "Nytt centrum ska främja barns och ungas hälsa - Janusinfo.se",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYjhWdW96YzFhYVFocmE5UE43TUU3RDFiLWIwQVNsaVM3aXExeTJpMm92d2JlZDE3c3hyS1QyYXpMTE1hWGR5M2dyNkszUXczMXNpWmRwYVRyRFB4NG5mYXU2aWtrU2NFVXhaOWZQa2c4MFNxVkY5MXk5bWs2UDRGY2N1N05RRkVPZWQ0cGM1OUNydDZRZzhtb2NuS0YxY1NydE9sQmdDRjdaN1RJSG9PRThIY0E3QXl5VUtZekk3NUNnNnlaSkZGZDdmTlNYdldPQkswYW14eEQ3VWNtYmZv?oc=5",
-      "published": "2025-10-06T07:00:00+00:00",
-      "source": {
-        "name": "Janusinfo.se",
-        "url": "https://janusinfo.se"
-      }
-    },
-    {
       "id": "c696e799407e",
       "title": "Enhertu får utökad rekommendation vid bröstcancer - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmVVWnVuU2NhLS1rVjhuUXhCQ2pXUnBHT05aWVVEUGd1ZnNFazJxN1NwVGdfcnAxd0lwMkhyN3RhVGk1RVJEMUIzWjBYZW1UNGZlTXN0VHFJTVdHU1BwMGpBN29EbmQ0R09JSzdEVS1JeTBtOVJiOTA5enFkU1ZjY3BkbmpKLVRiMVg0TUQ1WFFMSmpXVXJrQnZTZFZUQUcyZzV5cDZTdw?oc=5",
@@ -184,10 +174,10 @@
       }
     },
     {
-      "id": "3d1d64a9f63f",
-      "title": "Trumps politik bidrar till att regioner oftare vill förhandla - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQai1UVE1WbG94aWx6WVFWczJvZWh4Z3dkOEVhWVRJZEFQVV8xX0YxZmgwTmNlVmZ5U0NOdVpsMGVscFo5cVJPVE5ab09BNDJFWnB4cF9RMFRsMlNaOVBwUElsQzZ5cEo5R1VzYlg3Nmc0elIzYVhVcUlRRE5Nd1huTWJoTTZDUzFpd0YwVmdDN0lUVmZqSmRYLUJwOTdrdW14ajdMWTBMU2VneXNwOGFKWC1OZTA?oc=5",
-      "published": "2026-04-08T02:30:00+00:00",
+      "id": "eada705c0289",
+      "title": "APL börjar sälja licensläkemedel för att öka tillgången - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOem1jWFdabmlqcFRFak5yOFRwd010WHlkWmhoY2o1UGxXcndraHEwLTNRTkdnX1JqV0dMekZjNXRGMHM4OTl0b1RmQ09RUm9qOHpfeXdVX20zdGlienowV0FxZDRXOWRJT0JSb1ZHSFA5c1dDV0hyb05uZVl5Y2xFcGVCZnJ1YW9rSWkyTDJn?oc=5",
+      "published": "2026-04-09T00:37:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -201,6 +191,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "201b5967af7e",
+      "title": "Nytt centrum ska främja barns och ungas hälsa - Janusinfo.se",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYjhWdW96YzFhYVFocmE5UE43TUU3RDFiLWIwQVNsaVM3aXExeTJpMm92d2JlZDE3c3hyS1QyYXpMTE1hWGR5M2dyNkszUXczMXNpWmRwYVRyRFB4NG5mYXU2aWtrU2NFVXhaOWZQa2c4MFNxVkY5MXk5bWs2UDRGY2N1N05RRkVPZWQ0cGM1OUNydDZRZzhtb2NuS0YxY1NydE9sQmdDRjdaN1RJSG9PRThIY0E3QXl5VUtZekk3NUNnNnlaSkZGZDdmTlNYdldPQkswYW14eEQ3VWNtYmZv?oc=5",
+      "published": "2025-10-06T07:00:00+00:00",
+      "source": {
+        "name": "Janusinfo.se",
+        "url": "https://janusinfo.se"
       }
     },
     {
@@ -221,16 +221,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "5e76dc391fba",
-      "title": "Nya siffror visar fortsatt ökning av sköldkörtelbehandling, men minskning av liotyronin och NDT - it-halsa.se",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWZlYlJXWkE5YVpfclFNSlR1ajNsUzJYb2NBZ3RPTHZkNm96aW5Ta0h6U3E0UF9wVFZYczU4M0Z3eVQ2VGtnamdhQ0VZMHNENmp1SVBNNDJKMUY0WU1EN3otVk5XaFNjeC10amNhMFZkbjZGb0lJTmdXd1FkNTRBUlRONEMxQktZaFl6UjlSZ3NScnpueHU3RWM4OWYyWDRxcVBhclltX2w5THdnQTZsN3hBU296Zw?oc=5",
-      "published": "2026-04-08T04:00:20+00:00",
-      "source": {
-        "name": "it-halsa.se",
-        "url": "https://it-halsa.se"
       }
     },
     {
@@ -264,16 +254,6 @@
       }
     },
     {
-      "id": "385de1dcdecf",
-      "title": "Socialstyrelsen: 80 000 kan ha nytta av allergivaccin - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWRvMi1uUmd3YjVkSjFvekJkZ1BhbzFvLTlpWU9SeGFhaDFnUHBPemYtMF9lOE5pYWRZdlByN3hVYS0xa2ZXb3g5VmZHN0JhR1RGWXZmODVRTHctd1hJMElMRzhTbGJncmZBc2p0Z1hSVDExMjRMek8yVFQwaDRrNy1WdV91WVN3aUprclViUEhTb0tqa1QxblNjM0FrNlA1SEwtVld4N25LT2tKZmk2bHZqZEs?oc=5",
-      "published": "2026-04-07T19:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "a8e84d1861a5",
       "title": "PFAS lämnar kroppen snabbare med vissa läkemedel - Göteborgs universitet",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdzQtVGltZzNOaHRzakxGcktvdDJvdEpFTUVHTFVYbU9VUko4dnprampfVnQ3azhiZHcydmNwV29xd2pPSUNJM0NzUFFBRHFQUzVTUXFHZjFIYWhfbVFSUFJJaW5DckRrdjlVLTU0Qy1XRGZkSnhsS3FnMl95VWc?oc=5",
@@ -281,6 +261,16 @@
       "source": {
         "name": "Göteborgs universitet",
         "url": "https://www.gu.se"
+      }
+    },
+    {
+      "id": "385de1dcdecf",
+      "title": "Socialstyrelsen: 80 000 kan ha nytta av allergivaccin - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWRvMi1uUmd3YjVkSjFvekJkZ1BhbzFvLTlpWU9SeGFhaDFnUHBPemYtMF9lOE5pYWRZdlByN3hVYS0xa2ZXb3g5VmZHN0JhR1RGWXZmODVRTHctd1hJMElMRzhTbGJncmZBc2p0Z1hSVDExMjRMek8yVFQwaDRrNy1WdV91WVN3aUprclViUEhTb0tqa1QxblNjM0FrNlA1SEwtVld4N25LT2tKZmk2bHZqZEs?oc=5",
+      "published": "2026-04-07T19:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -364,16 +354,6 @@
       }
     },
     {
-      "id": "8959f33dfbfd",
-      "title": "Forskning: Fetmaläkemedel kan minska psykisk ohälsa - News55",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMjBqekZ6dldsUDM1QnJLZDdrUm5NMEU4aDYxSTRpNHFxQ2VQRTViU1phaGNITHBTSTF3V0IwbkZUU1VlYnp3YVh1VEU0VzM2anlFX0kwWmpLWDhlYWx2Z1A2bWp4WFJ5TVhhcHVPYThuazFDVy1fNTFKa3VmbTFpWHM1S2tsZw?oc=5",
-      "published": "2026-03-27T07:00:00+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "bf714d778035",
       "title": "Vanliga läkemedel kan öka risken för hjärtsjukdomar - Forskning.se",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQl90ZkJHNmhWVXdKM052Q0U1d1dNUDVQOXBWVkQ4VWRNT3J4RFVndllrejZpRnMxS3kzT0NmZS1mVVVTN01FNVNMZWxQY0h5TVBGOVl4UEFPNjNrQ1VkVVN4eWlsZHFLMFpCN0dQekdXMl9majRLaEtZclk1VDN4dGN5SHVsQUdDbkZveDhYY1FESVk?oc=5",
@@ -381,6 +361,16 @@
       "source": {
         "name": "Forskning.se",
         "url": "https://forskning.se"
+      }
+    },
+    {
+      "id": "8959f33dfbfd",
+      "title": "Forskning: Fetmaläkemedel kan minska psykisk ohälsa - News55",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMjBqekZ6dldsUDM1QnJLZDdrUm5NMEU4aDYxSTRpNHFxQ2VQRTViU1phaGNITHBTSTF3V0IwbkZUU1VlYnp3YVh1VEU0VzM2anlFX0kwWmpLWDhlYWx2Z1A2bWp4WFJ5TVhhcHVPYThuazFDVy1fNTFKa3VmbTFpWHM1S2tsZw?oc=5",
+      "published": "2026-03-27T07:00:00+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -644,16 +634,6 @@
       }
     },
     {
-      "id": "1a777cb12427",
-      "title": "Anette, 64, la om vanor – kunde sluta med medicin - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZclFjYlpUeUpHbmItNnRvOVZadFNOWEFKaW1uTkhtNEVfbElTVmpidTB1WTJRdXR3MEJMYjhnSEc0NjdTZV9yalY0d2dablRFTFJ1WVdoa3pQMkdqdURTcmZNQVI3Vm9RTy1kVlZfTkhFLWRLaDBxanFQZUdlQQ?oc=5",
-      "published": "2026-04-01T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "ec9f624c176d",
       "title": "Adhd-läkemedel kopplade till ökad risk för hjärtproblem - Forte - Forskningsrådet för hälsa, arbetsliv och välfärd",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObXZ5RUttc2VPUURGMlV5TXpHZmprUVJoaDFSaGZicG53el9pYkRPc1EtYzhEMDh2WjFrbVNFWi1sZDVrWGhoYnJIMFJnS2M2YWQ3Y2E3dHlyQndKNGk4TGY4R1FqN2FWNWpBbnNlbDJTUEx1SlowQlVTSTRGTFItbnBIMlZFSEhRSTVPcFJGWkZCel93eHlkQnpUcWV6aW8y?oc=5",
@@ -704,6 +684,16 @@
       }
     },
     {
+      "id": "1a777cb12427",
+      "title": "Anette, 64, la om vanor – kunde sluta med medicin - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZclFjYlpUeUpHbmItNnRvOVZadFNOWEFKaW1uTkhtNEVfbElTVmpidTB1WTJRdXR3MEJMYjhnSEc0NjdTZV9yalY0d2dablRFTFJ1WVdoa3pQMkdqdURTcmZNQVI3Vm9RTy1kVlZfTkhFLWRLaDBxanFQZUdlQQ?oc=5",
+      "published": "2026-04-01T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
       "id": "b9aae47e9c19",
       "title": "Debatt: Många äldre betalar för mycket för sina mediciner - News55",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEhSWklocV8zcmE3UVNVdloyLTdvcm1HT2kyWUZYVW5jUEkzRGpuRkNNcUZFRU5WY2llakhTc2ZROTk0THVmZkcyOGNXTEYzbTFPQXhmUnhKcTR0ZXlacTc0MlZTZ1cwSVY1cUhpNEhiODBfV1JvX2s5eTlGX3Y5cFFWSDdIdGFTOFB6ZjF3?oc=5",
@@ -711,16 +701,6 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
-      }
-    },
-    {
-      "id": "d43acf7ddbb1",
-      "title": "Fakta i frågan: Mår unga allt sämre? - Dagens Nyheter",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DZjkwQ0k4dXBXdlRDc1hKX2F0ZlpscFdDOHY1TGFUQ1VDN1NBVnB2X3VVek9KZXFoQWw4clNkTjk0Vm5yNUU4c1VWdTVCajY3MnloZlB0ckM4ZmtROEZ5MHYwY0syLU1Geld0SWlB?oc=5",
-      "published": "2026-03-25T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Nyheter",
-        "url": "https://www.dn.se"
       }
     },
     {
@@ -894,16 +874,6 @@
       }
     },
     {
-      "id": "07648f8404d1",
-      "title": "Bältrosvaccin på väg tillbaka – nya leveranser väntas i maj - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVdVb05ld1pxeTJpSjU2a1ROdXkzdXRIaDNDRWd6bVFKZlRlNVNadnZHdHBROGwtcUZVaXp1VUpURmFoeWZTdWNiV3RSWFh0M1RTOWlrZy1aaC1XUFkwSGd1SmZnSklZdVppV0VCLVQtSWNUUF9ETExMOWVHZFM5LUlkLVQ0YmpZdVdxLUxTV2FocmtBcU9iTkRLOC1hVWd6U3k5WXZzYV9SQmYwazlZ?oc=5",
-      "published": "2026-04-02T01:46:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "fd38783de1de",
       "title": "Ny kandidat mot fetma och diabetes skonar muskler - LäkemedelsVärlden",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LcW9UenJnWS1MSGtzWnN5WEhreVRobkZDeFlUSWxQd2JwTFd2d0xtX1RjeWJTNWdxZTlLQXQwTmlQc2FoOE1yeEs4b3pDaml0clVMdGhGbWdKanIxTXplbkx3TW5mRDRNaXZPU090WFQzaXp6a0NpMnJn?oc=5",
@@ -911,6 +881,16 @@
       "source": {
         "name": "LäkemedelsVärlden",
         "url": "https://www.lakemedelsvarlden.se"
+      }
+    },
+    {
+      "id": "07648f8404d1",
+      "title": "Bältrosvaccin på väg tillbaka – nya leveranser väntas i maj - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVdVb05ld1pxeTJpSjU2a1ROdXkzdXRIaDNDRWd6bVFKZlRlNVNadnZHdHBROGwtcUZVaXp1VUpURmFoeWZTdWNiV3RSWFh0M1RTOWlrZy1aaC1XUFkwSGd1SmZnSklZdVppV0VCLVQtSWNUUF9ETExMOWVHZFM5LUlkLVQ0YmpZdVdxLUxTV2FocmtBcU9iTkRLOC1hVWd6U3k5WXZzYV9SQmYwazlZ?oc=5",
+      "published": "2026-04-02T01:46:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -998,6 +978,26 @@
       "title": "Regeringens “torped”: Har fått peka på sånt man inte vill prata om - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZzk3OFNmM1EyQ0kyeFR3andjSlQwY2x1d1FJSU51d2JhZWxCcmVoMEtSX1o2ek41SWx2QTE0aXlqcmFrTlhabUNDeEE1NU1NazdUY053dHhObmpnS3h2dnZ0dFQ4VUt1VmJ2WFpxcUdhek14SzJPdkdkMW5Xb0xHeUluemZ5RFFYVVFCY0tIdHVMb3lMdVpka2tfN2V5Q0tXLTNZZXBFWG00YjhPeklVSFBnd2I4eVVsMGotQ0NRZzdHdEU?oc=5",
       "published": "2025-10-09T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "5591584c9619",
+      "title": "Hon slutar som ordförande i NT-rådet – går till Sös - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZUF0SUVfQ0ZoQk8tMkwwalpuM195N0VKT2ZUckhVeUdDQ2pfVHp3dmpaMnJHdENUU09KMEwwa3hJV2dpMnd0TDh6WEZJWWk2djhKMGhiVV9LNWE3eWZ4azQ1RDVsWjEzdGl0N3liaW1aeGRtc3FuTjhiY1M0ckgweUcwd0FOZW40dWRwRGQ3dDF1SGZlelJ3c0hFckFQQ0ZDTUE?oc=5",
+      "published": "2025-10-13T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "85fe3abf209d",
+      "title": "”Tjänstemän utsätts för påtryckningar om läkemedel” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV0xHYm9HNEpOOUpUREd2Ymp0c3NxRmsta1piMWFVZFFFd1BCNDVsSHRFSGZRNU5mdV9QYkVzYkswZXB3cjEwNkhYVVc0Z0Zka21Fb2xncXBrcTFkREJDdy1DWkpnNlFiUlA5b2U3VldEMEEtaTN1RmtyLUNnekxjcnZ5b3BVLWlqd1hXc3Mya2lIdnZ4RWNtR09n?oc=5",
+      "published": "2025-05-21T07:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
