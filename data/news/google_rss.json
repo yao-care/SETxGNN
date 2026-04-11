@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-11T05:57:48.883439+00:00",
+  "fetched_at": "2026-04-11T07:04:52.295314+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -204,16 +204,6 @@
       }
     },
     {
-      "id": "703dffd8533a",
-      "title": "Nya läkemedlet kan hjälpa vid fettlever - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNFE2d0lpVUZaMVpnTVpQaERieGFZR1AtRXkxZUxTTGJYdWpMMDJyMUJPc1JnanJ6YzhXMTg5Z1BRRXJQbENmXzhicmNoeW1hZjZBSU5qeDM4QlltejVTbVhRSFF4bk15Vk1SNHN3VVd4cll3RzEtUk03anFVdG9STTJPeXNZUEpRb0FORTlTRmExX1Za?oc=5",
-      "published": "2026-03-23T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "87dfef76976e",
       "title": "Ny studie: Förvånande biverkning av Ozempic - e55.se",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50LTg0alViLUNxcTNwb1VmYk95aVY4S3dLbWRqUmdaYjg4VEZtQmc2S2pNOF9GWGhQNFY3RDREMVJ6ejRWMWZfQ1VrZmEzRHhJckVHSzBtc2RnMjA4akk4a2IyZmRaX21PQjJtQ0xxVEg4ZzctWTNF?oc=5",
@@ -221,6 +211,16 @@
       "source": {
         "name": "e55.se",
         "url": "https://www.e55.se"
+      }
+    },
+    {
+      "id": "703dffd8533a",
+      "title": "Nya läkemedlet kan hjälpa vid fettlever - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNFE2d0lpVUZaMVpnTVpQaERieGFZR1AtRXkxZUxTTGJYdWpMMDJyMUJPc1JnanJ6YzhXMTg5Z1BRRXJQbENmXzhicmNoeW1hZjZBSU5qeDM4QlltejVTbVhRSFF4bk15Vk1SNHN3VVd4cll3RzEtUk03anFVdG9STTJPeXNZUEpRb0FORTlTRmExX1Za?oc=5",
+      "published": "2026-03-23T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -744,16 +744,6 @@
       }
     },
     {
-      "id": "919075cd85ac",
-      "title": "Ny studie undersöker hur vanliga läkemedel mot halsbränna påverkar njurar och hjärta över tid - Karolinska Institutet",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVlqQXpWQVlkdHUteTVjR2FWUFdCbFBlQXMxblVtQmVQMTlGQmpQcHQzZ1hDMm9ZTWxoUExhNlpPVlRPZmhwd0pUUzFqVGEyUU1pMGpjNjV6UElZM3NDamhNdUNSUXloMU94aWVXOUkzUlM3am5VMVgybjUwcXVSVmxMaDRZckJsaVVYRlRRel9LU1RZR3lQMGxucUNITmlpSFdBWG5xeUVOTmh4ZEtQZXFvWk5UUQ?oc=5",
-      "published": "2025-10-20T07:00:00+00:00",
-      "source": {
-        "name": "Karolinska Institutet",
-        "url": "https://nyheter.ki.se"
-      }
-    },
-    {
       "id": "be9988730585",
       "title": "Utredningarna att ha koll på 2026 - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlpkbGI1WnlfYTRidlc5SjFtb3RBclB1WTZUQlp2blJCR0owWUlsTFhKcjhMaFRDZjlXb2toVXhSX1RDZGJMMTYweHExMXJSSm5qcHp5UFowME5kbklpOG5jcXRCcHYzUmJYT3RFd19weVpJM1EwX2UwMHJJMUt5Tl9tcGtnekVUTWFsbVlSTHhWdw?oc=5",
@@ -761,6 +751,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "919075cd85ac",
+      "title": "Ny studie undersöker hur vanliga läkemedel mot halsbränna påverkar njurar och hjärta över tid - Karolinska Institutet",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVlqQXpWQVlkdHUteTVjR2FWUFdCbFBlQXMxblVtQmVQMTlGQmpQcHQzZ1hDMm9ZTWxoUExhNlpPVlRPZmhwd0pUUzFqVGEyUU1pMGpjNjV6UElZM3NDamhNdUNSUXloMU94aWVXOUkzUlM3am5VMVgybjUwcXVSVmxMaDRZckJsaVVYRlRRel9LU1RZR3lQMGxucUNITmlpSFdBWG5xeUVOTmh4ZEtQZXFvWk5UUQ?oc=5",
+      "published": "2025-10-20T07:00:00+00:00",
+      "source": {
+        "name": "Karolinska Institutet",
+        "url": "https://nyheter.ki.se"
       }
     },
     {
