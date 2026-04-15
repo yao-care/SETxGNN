@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-15T13:17:03.507484+00:00",
+  "fetched_at": "2026-04-15T15:03:08.375695+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -34,16 +34,6 @@
       }
     },
     {
-      "id": "efa82fb65745",
-      "title": "Här är Anna Nergårdhs nya toppjobb - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNFFzZlh3YmxMMDFBM180c185b0wzYlZnWEw3OTRNdXlXZE9uMGo2QWpISm96MG5TUmhDLXBoVFV4bUxiYk5tRzd0UnJPSFg2SEhZNGNwQ29XVWFyQi16bExWTkRUZ09RZWcxeWpMWW5TZjhETW1JVkRnckJIS0dIb2dtNldhLWdlUUFUQUtR?oc=5",
-      "published": "2026-04-15T02:55:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "fcf04fe5cf58",
       "title": "Diabetesläkemedlet Ozempic kopplas till bättre psykisk hälsa - Karolinska Institutet",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXpIRm0xajlOYmROMGZDSkJ6WWcwck5RdFg3Q1FSMjFsalNYWUpTT3BnZ2dOcWFweTZJa0ZEdkdFaEpYWWhGOW81VnduXzdUd2paMU53dDI1MEE2Y0t2bnF3Snc5LWFkN3ZsZW9hNS03bnh3OTNxMVdJWWJTbGZ0VEtKTFdnckFxN1E?oc=5",
@@ -51,6 +41,16 @@
       "source": {
         "name": "Karolinska Institutet",
         "url": "https://nyheter.ki.se"
+      }
+    },
+    {
+      "id": "efa82fb65745",
+      "title": "Här är Anna Nergårdhs nya toppjobb - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNFFzZlh3YmxMMDFBM180c185b0wzYlZnWEw3OTRNdXlXZE9uMGo2QWpISm96MG5TUmhDLXBoVFV4bUxiYk5tRzd0UnJPSFg2SEhZNGNwQ29XVWFyQi16bExWTkRUZ09RZWcxeWpMWW5TZjhETW1JVkRnckJIS0dIb2dtNldhLWdlUUFUQUtR?oc=5",
+      "published": "2026-04-15T02:55:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -164,10 +164,10 @@
       }
     },
     {
-      "id": "6093e37aff55",
-      "title": "Mångringarprojekt prisas som Årets Brobyggare - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmo4NmdPWGt3Tk5NaHNONklfV0RodEZ0U2lkQVdkaE5iUk5DRmpIc1NsTW5iSGszNERWV0JjcHZIV3BPRDR5RE92NmdSd09yMG9fWjVmazlPd0M3VW4ydm9kZnpjWk50MDF4VjVCVmdsS204RXV6ZkR1Y2M3TDhUWGdySENOczU4Z1pBUXp6Z2c5Y3oxOExkVHlYamIxdzFQVzEyMjJHSjFZb0k?oc=5",
-      "published": "2026-04-14T22:30:00+00:00",
+      "id": "67e6125e9f7d",
+      "title": "Sjukhusvård hemma växer i Skåne – men mycket hindrar innovation - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTF9feGt1NHZJaEROY1VPeEl4RFltZ3pMV0p1TGVZQlpRWUh0OFk0U2RMSHRJWnp1dlJQNzFkZHIxR09YWVNjYkd2VWVsNHJOSC0wUV83LXJLa0RpSVBId0VVazVDc2UwY0VrandYcW5Del9hVWdpbDNOSzh2Tzl6YXgxOHptNUFsYmZrY0h6Yjg4X01pRHFUeVRNLVlQZ3pnSThzQWZBWlZhdTNSMkFzaWFLc1RLbjlLcEp1cmNXSzA?oc=5",
+      "published": "2026-04-15T05:18:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -454,16 +454,6 @@
       }
     },
     {
-      "id": "5997779e2020",
-      "title": "Fetmaläkemedel kopplas till bättre psykisk hälsa - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMFBOQ1BIb1lOMGhJT3VyMVlkWEpFeHliSWl2aFZwRFl0cFRVX1RYSm0zLVY5alpqYXQwcXRFTjY2RTdJRlhXdUVrLVZjWV9qeGNoWG1jT29OMlloVkhXRXVKdlpubEYwbjFOZW1KXzNxMTBmY2czbDlVOTJHbmJMVEdMN19wN1ROQjhRME9qeU45bVlobkhR?oc=5",
-      "published": "2026-03-20T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "387d453f0944",
       "title": "Kvinnor med postcovid sökte mer vård redan innan diagnosen - Forskning & Framsteg",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUNmUTY0MVpfaXVMRmF0bVA1TlBCQWJsRzFkS3NJMlpQcy1YV19rQ09rOVNYNDMtOHZIMDVNaUw2cEtCUS10V0hHUTViellWYUlaVzg1VUQ4XzJOMjh0ZXpJZkNTSUdCY1F2ZG5sR1F2ZjAydmF0LXc0UjdvZk5pQjdRZl9EbVBVOXc?oc=5",
@@ -471,6 +461,16 @@
       "source": {
         "name": "Forskning & Framsteg",
         "url": "https://fof.se"
+      }
+    },
+    {
+      "id": "5997779e2020",
+      "title": "Fetmaläkemedel kopplas till bättre psykisk hälsa - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMFBOQ1BIb1lOMGhJT3VyMVlkWEpFeHliSWl2aFZwRFl0cFRVX1RYSm0zLVY5alpqYXQwcXRFTjY2RTdJRlhXdUVrLVZjWV9qeGNoWG1jT29OMlloVkhXRXVKdlpubEYwbjFOZW1KXzNxMTBmY2czbDlVOTJHbmJMVEdMN19wN1ROQjhRME9qeU45bVlobkhR?oc=5",
+      "published": "2026-03-20T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -494,16 +494,6 @@
       }
     },
     {
-      "id": "e9557f05ecfc",
-      "title": "Avtal öppnar för bredare användning av läkemedelsautomater i Jönköping - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbVk3d3JKQnFoYUpXUWotdXlHdHBxMjhRTUlXTUsyZG5QMlp1YkFEcEJOeE1IdVJ4OC1VU0FXbU9QQ1dYcWFvV2dnNmJEbHFnTHNCLWx5U3FncVlDUW1nd3B3VFdqUGFEMXNMWFJGS1JyZldraGJhRDBCTzhRUTdHc1BRNkc4S04xY3FpdjlYYkMtV2NobEdQOGpvczBJeHVsck9yZExqeTJIckpVUXBubVMtcGtxaDhFM1ZWNmhhX1M?oc=5",
-      "published": "2026-04-08T23:07:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "3770a4bb7b0d",
       "title": "Vetenskapsåret 2026 – del 4: Bebisars arvsmassa och hjälp mot gonorré och Huntingtons - Forskning & Framsteg",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLZDZBZDhfQ1ZDRnB6d0NSdk1xTENTU3d5YTR4dElYT3pzUWJaTTM0MVZKMWExTVJvS2h3NnJpdkR0UjVBaDVUal9ycm9hUXo2REF3SmQ1ZUdUUXFsUWc?oc=5",
@@ -511,6 +501,16 @@
       "source": {
         "name": "Forskning & Framsteg",
         "url": "https://fof.se"
+      }
+    },
+    {
+      "id": "e9557f05ecfc",
+      "title": "Avtal öppnar för bredare användning av läkemedelsautomater i Jönköping - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbVk3d3JKQnFoYUpXUWotdXlHdHBxMjhRTUlXTUsyZG5QMlp1YkFEcEJOeE1IdVJ4OC1VU0FXbU9QQ1dYcWFvV2dnNmJEbHFnTHNCLWx5U3FncVlDUW1nd3B3VFdqUGFEMXNMWFJGS1JyZldraGJhRDBCTzhRUTdHc1BRNkc4S04xY3FpdjlYYkMtV2NobEdQOGpvczBJeHVsck9yZExqeTJIckpVUXBubVMtcGtxaDhFM1ZWNmhhX1M?oc=5",
+      "published": "2026-04-08T23:07:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
