@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-18T16:35:04.930059+00:00",
+  "fetched_at": "2026-04-18T17:33:16.194653+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -124,6 +124,16 @@
       }
     },
     {
+      "id": "92cc125d3261",
+      "title": "Doktor Mikael varnar: Därför bör vissa undvika viktläkemedel - Allas",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oM0VhT0hIbEFycFRPeWlmVVAwMExIak9KZFd2SWNTSlVrNjFRNW9kX2JWZ1AyQkZlbmVGVzdfRGE5ZjE2dm8zVHJWU21KN3VLakFsZy14eVNHN1lvYndtR21fWVBPZXhxdWk0MnNLcDZqdllr?oc=5",
+      "published": "2026-04-13T10:27:00+00:00",
+      "source": {
+        "name": "Allas",
+        "url": "https://www.allas.se"
+      }
+    },
+    {
       "id": "a82c36571b80",
       "title": "”Ta fram nationella riktlinjer för läkemedel mot obesitas” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUhmclNfR3hBdlZndV9OUEJDMVRZZkJxZnhZdzZzRzRlYUZlR0poV0o0VzZVVmkyY3ZkTkNqNjRBcG9OT1UtREo0VURRZ0J1aTRvUGZhUDNmWmZwR1VKN3BlbWJXOE9HVFJIcHFJa2FOblp6RVNDZ051X2F5ZmZrUEJvRUxLdy1DcEJZWVV1YTdfbTd2TS1za001SnRHWUkyalU0?oc=5",
@@ -194,26 +204,6 @@
       }
     },
     {
-      "id": "591682f5938a",
-      "title": "Anneli åt populär viktminskningsmedicin: Blev blind - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWU5CRkZFOHdDRlhqWk5RR3c5aVJQYTA2TVc5VlZSQXdoWmhGME9ubkxnYXppYndxNlpzSTJzWTRtYXMwZHpsMVhfTFhNVWlHNkttcDRFRWU1S25RWDBtdzh1dkRjaUprR2s1R2FkWGlXQlh5LTFRUXdyOGdrVDBGRGNxclJrNVplWTZvU0FQQzFLOWdhNzU0?oc=5",
-      "published": "2026-04-17T08:27:43+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "92cc125d3261",
-      "title": "Doktor Mikael varnar: Därför bör vissa undvika viktläkemedel - Allas",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oM0VhT0hIbEFycFRPeWlmVVAwMExIak9KZFd2SWNTSlVrNjFRNW9kX2JWZ1AyQkZlbmVGVzdfRGE5ZjE2dm8zVHJWU21KN3VLakFsZy14eVNHN1lvYndtR21fWVBPZXhxdWk0MnNLcDZqdllr?oc=5",
-      "published": "2026-04-13T10:27:00+00:00",
-      "source": {
-        "name": "Allas",
-        "url": "https://www.allas.se"
-      }
-    },
-    {
       "id": "c9a24853042b",
       "title": "Diabetesläkemedel kopplas till minskad psykisk ohälsa - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGpaVjZ1MlhUM0Ffc1lfYXpfVUZ2N0FnMjBuckZOQ0ZvX2pMX1d3blBGQUZ4TUltYlJtbTUwUDFicF80ZWtjSDh2UndrYmZaSFJiTWxnVXlGeWdlRXBfLXoyWFFlUkhaR25QbWwtNnF1QTlMX2s1MldyOURVSFBtWDQzd1huZGpYVE11MjdQM3l4VkM5ZG9TUVdB?oc=5",
@@ -221,6 +211,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "591682f5938a",
+      "title": "Anneli åt populär viktminskningsmedicin: Blev blind - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWU5CRkZFOHdDRlhqWk5RR3c5aVJQYTA2TVc5VlZSQXdoWmhGME9ubkxnYXppYndxNlpzSTJzWTRtYXMwZHpsMVhfTFhNVWlHNkttcDRFRWU1S25RWDBtdzh1dkRjaUprR2s1R2FkWGlXQlh5LTFRUXdyOGdrVDBGRGNxclJrNVplWTZvU0FQQzFLOWdhNzU0?oc=5",
+      "published": "2026-04-17T08:27:43+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -364,16 +364,6 @@
       }
     },
     {
-      "id": "94a3ac579985",
-      "title": "Sänkt pris på fetmaläkemedel: ”Har varit alldeles för dyrt” - News55",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOalpZdTlWeEMtLUxCY29OMU00aUZNY0tRZE5nNWlxQWlXYW9hRldtYzJrSjg3LVcwMEpBY1MxNVJ5Z05KRTROTVRxMXRDcm9aMFF3eHIyYTdGOXN4SUpQVkt5WXBMRVh4ZTN3LXZ1Nk5hSGlfbWxkQ0RpMDdSbk94dXdEa1FlbW1wdU5zaGRR?oc=5",
-      "published": "2026-04-15T08:07:32+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "ee3a0e6305ed",
       "title": "Fördelarna med adhd-läkemedel kvarstår – men inte som förut - Forte - Forskningsrådet för hälsa, arbetsliv och välfärd",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU1NTRm5za1FFWmxUQ0hQUmkyOGszRFpzcVMxcVcyZTVTNnB0RDlNcVVZVU8wYUphemNEQ05vRWZyU1hvNXpOOXVxblhPNnd6RTNzS20wZUpsUGtkbzhWTHIzREFhNVJhaU1ZM2FlWk5SclhxZGxVRUpEYURIRW9WODBlSzhXYTRMbTVoTHp3OUYtMGhCOFZnSFBGY0xGTWlnWTRpeFhB?oc=5",
@@ -381,6 +371,16 @@
       "source": {
         "name": "Forte - Forskningsrådet för hälsa, arbetsliv och välfärd",
         "url": "https://forte.se"
+      }
+    },
+    {
+      "id": "94a3ac579985",
+      "title": "Sänkt pris på fetmaläkemedel: ”Har varit alldeles för dyrt” - News55",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOalpZdTlWeEMtLUxCY29OMU00aUZNY0tRZE5nNWlxQWlXYW9hRldtYzJrSjg3LVcwMEpBY1MxNVJ5Z05KRTROTVRxMXRDcm9aMFF3eHIyYTdGOXN4SUpQVkt5WXBMRVh4ZTN3LXZ1Nk5hSGlfbWxkQ0RpMDdSbk94dXdEa1FlbW1wdU5zaGRR?oc=5",
+      "published": "2026-04-15T08:07:32+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -404,16 +404,6 @@
       }
     },
     {
-      "id": "a83d2942c781",
-      "title": "Oroande: Så många tar andras receptbelagda läkemedel - e55.se",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcTBJSzJ4cUJaSkFHMXpUa3B5OGZ5U0hxSkIyQTVXSUx1QURWVmQwQnN0dFY0R1B4UXhVRzJPcXlNTHRTNnJ5VkFtOVRsdGRBS0tyV3JxSmUtdFl3cExwcXpBclVXUFRZcUZBbmhnZWw5UTFuaUJYbFZ2QlN5SlBXaks2aw?oc=5",
-      "published": "2026-03-25T07:00:00+00:00",
-      "source": {
-        "name": "e55.se",
-        "url": "https://www.e55.se"
-      }
-    },
-    {
       "id": "6b3995b80c0d",
       "title": "Region Skåne häver avtal med vårdcentral i Malmö - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHc1TFh1SlVMV19XLTZuc01kclcyWllaMWc1ck1IcE1rSlNUTzIzYS1GNGxXQ2NJdTBfU3lmZHBxaXlJSllTX1VnWUZzLWR4TkVkTUhIRXJHZVlaY2VyeUpsZkVLYlAyQWJpeUpiUDlwYzZ3SXZkTURzZEM4ZmJodTVUd0o5YzR2MUQxcEZYX1NJZ1hyZ3MxemZ5UFB5TE1zY25XZkIwc2dFR25KdWg4?oc=5",
@@ -421,6 +411,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "a83d2942c781",
+      "title": "Oroande: Så många tar andras receptbelagda läkemedel - e55.se",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcTBJSzJ4cUJaSkFHMXpUa3B5OGZ5U0hxSkIyQTVXSUx1QURWVmQwQnN0dFY0R1B4UXhVRzJPcXlNTHRTNnJ5VkFtOVRsdGRBS0tyV3JxSmUtdFl3cExwcXpBclVXUFRZcUZBbmhnZWw5UTFuaUJYbFZ2QlN5SlBXaks2aw?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "source": {
+        "name": "e55.se",
+        "url": "https://www.e55.se"
       }
     },
     {
