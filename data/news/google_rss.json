@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-18T13:59:23.681489+00:00",
+  "fetched_at": "2026-04-18T14:49:34.492595+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -14,13 +14,13 @@
       }
     },
     {
-      "id": "1a14a3a76bc1",
-      "title": "Användning av läkemedel mot obesitas ökade kraftigt - Sveriges Radio",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcHRHUE5lMGV6Z05jMW15WnJpMzYwRWFTd19ZTF9zTDhhY0xRSGx5Szl3aGp1cjE2Zm92RXBwT1VWbkNaTFlYQkYzc1BySERPVzlaeEVuMWZYSlpmZFhpbEZPOHRVNm5XalJhaTZaRlpTVnJsTXE1WGZ4TmZoWURodkJBT3RwS1ZoMUdXZE1YQWpaQQ?oc=5",
-      "published": "2026-04-16T15:15:32+00:00",
+      "id": "8d30c6cb26e5",
+      "title": "Linda, 48, drabbad av parkinson mitt i livet: ”Hade svårt att hålla i en kaffekopp” - Expressen",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa1ozYVZTLTlVZS1LbG1FYlRhTUZYa0pqYjNfZ3dQZUJNel8wT3ZKbVRzLWxkTVU4dWpIVTkzdXI3ckJhRWsyajVZM2pwX2xsNXVRVnFtWHpMSU5SR2FHekdob09CV0h6akRvUVBKdVExTnM0U2Y0MlFsWGVKYkVMbWctWEI1dDJUYy1sQg?oc=5",
+      "published": "2026-04-18T14:36:39+00:00",
       "source": {
-        "name": "Sveriges Radio",
-        "url": "https://www.sverigesradio.se"
+        "name": "Expressen",
+        "url": "https://www.expressen.se"
       }
     },
     {
@@ -41,6 +41,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "1a14a3a76bc1",
+      "title": "Användning av läkemedel mot obesitas ökade kraftigt - Sveriges Radio",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcHRHUE5lMGV6Z05jMW15WnJpMzYwRWFTd19ZTF9zTDhhY0xRSGx5Szl3aGp1cjE2Zm92RXBwT1VWbkNaTFlYQkYzc1BySERPVzlaeEVuMWZYSlpmZFhpbEZPOHRVNm5XalJhaTZaRlpTVnJsTXE1WGZ4TmZoWURodkJBT3RwS1ZoMUdXZE1YQWpaQQ?oc=5",
+      "published": "2026-04-16T15:15:32+00:00",
+      "source": {
+        "name": "Sveriges Radio",
+        "url": "https://www.sverigesradio.se"
       }
     },
     {
@@ -84,16 +94,6 @@
       }
     },
     {
-      "id": "344561b426ac",
-      "title": "Dömer ut hyllade medicinen: Olyckligt - Expressen",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzb2pxMWNmOW10QWpuQUNpTmJONF8wSHBGX1drSl9WNkFEZE5HcThXNDFhNHlreWQzdjJ0dUcwUG5JbjlIMXFvT281c0NVSXRuNGRyaTBQeDRGalp2eGJYaUJldEtUaWlzd2RtWmx2RzJGcXhRQzg4M3dn?oc=5",
-      "published": "2026-04-16T07:50:59+00:00",
-      "source": {
-        "name": "Expressen",
-        "url": "https://www.expressen.se"
-      }
-    },
-    {
       "id": "201b5967af7e",
       "title": "Nytt centrum ska främja barns och ungas hälsa - Janusinfo.se",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYjhWdW96YzFhYVFocmE5UE43TUU3RDFiLWIwQVNsaVM3aXExeTJpMm92d2JlZDE3c3hyS1QyYXpMTE1hWGR5M2dyNkszUXczMXNpWmRwYVRyRFB4NG5mYXU2aWtrU2NFVXhaOWZQa2c4MFNxVkY5MXk5bWs2UDRGY2N1N05RRkVPZWQ0cGM1OUNydDZRZzhtb2NuS0YxY1NydE9sQmdDRjdaN1RJSG9PRThIY0E3QXl5VUtZekk3NUNnNnlaSkZGZDdmTlNYdldPQkswYW14eEQ3VWNtYmZv?oc=5",
@@ -131,6 +131,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "344561b426ac",
+      "title": "Dömer ut hyllade medicinen: Olyckligt - Expressen",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzb2pxMWNmOW10QWpuQUNpTmJONF8wSHBGX1drSl9WNkFEZE5HcThXNDFhNHlreWQzdjJ0dUcwUG5JbjlIMXFvT281c0NVSXRuNGRyaTBQeDRGalp2eGJYaUJldEtUaWlzd2RtWmx2RzJGcXhRQzg4M3dn?oc=5",
+      "published": "2026-04-16T07:50:59+00:00",
+      "source": {
+        "name": "Expressen",
+        "url": "https://www.expressen.se"
       }
     },
     {
@@ -184,16 +194,6 @@
       }
     },
     {
-      "id": "b1429efada41",
-      "title": "Vårdmyndigheterna som svällt mest sedan 2021 - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV3c2bWJMSmUwQVdNZTlhTFJLSTlQNHhQR0t5QndrbmxnMUVLS2lWVmw1OHRydVhRQkttMWU1YTlNQUtQbVlDdFRDMlFySXBkY0hJY2dVWHlqRm0yM2YxOUEzcURCQTJKYVdIVk9aZVZuQ0xGN2Q5V0VfN2ZYWnlNRl91SlZzYlVOSGY3MTQ0M3dhQ2Uzd1UwaFZiQ3dOMTJC?oc=5",
-      "published": "2026-04-15T19:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "591682f5938a",
       "title": "Anneli åt populär viktminskningsmedicin: Blev blind - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWU5CRkZFOHdDRlhqWk5RR3c5aVJQYTA2TVc5VlZSQXdoWmhGME9ubkxnYXppYndxNlpzSTJzWTRtYXMwZHpsMVhfTFhNVWlHNkttcDRFRWU1S25RWDBtdzh1dkRjaUprR2s1R2FkWGlXQlh5LTFRUXdyOGdrVDBGRGNxclJrNVplWTZvU0FQQzFLOWdhNzU0?oc=5",
@@ -201,6 +201,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "b1429efada41",
+      "title": "Vårdmyndigheterna som svällt mest sedan 2021 - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV3c2bWJMSmUwQVdNZTlhTFJLSTlQNHhQR0t5QndrbmxnMUVLS2lWVmw1OHRydVhRQkttMWU1YTlNQUtQbVlDdFRDMlFySXBkY0hJY2dVWHlqRm0yM2YxOUEzcURCQTJKYVdIVk9aZVZuQ0xGN2Q5V0VfN2ZYWnlNRl91SlZzYlVOSGY3MTQ0M3dhQ2Uzd1UwaFZiQ3dOMTJC?oc=5",
+      "published": "2026-04-15T19:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -271,16 +281,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "ad7329229437",
-      "title": "Ont i huvudet? Expertens bästa råd för lindring - Expressen",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYU9acFdCYmhWQURpaWZWTE8xTVRjdk1SaW9mcXQzaDFJcENMTFFsNG9FcnMxMVlmMk1RS2l5Z3MtUnRnRG5RRk5rV0ZaLXFINXBSV3E5cVJoX3dsdVFpWnNqdi0xWnNGZU9YYmVUWEFOb3JHTGtNdVI2c1VQRk9WSWxkajh6Yy1nM1A0ME1FXzA?oc=5",
-      "published": "2026-04-17T09:40:33+00:00",
-      "source": {
-        "name": "Expressen",
-        "url": "https://www.expressen.se"
       }
     },
     {
@@ -684,16 +684,6 @@
       }
     },
     {
-      "id": "ed3108f75f0e",
-      "title": "Vanliga tillskott kan störa mediciner – få känner till riskerna - News55",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORDNoM0xTcFN3eWdhVnhDNVo3TTFRa0hzekUxODRVTkJaNjlkNkFabUlmU1EzcmxuRDNKWERnaXhyOXkyODM2ZTlFOGR3S2JYNkxLQU85MTJLeElBWFJzMGF1Y3htdXZSZW5ZbFN4NXZsNVFZWE1nS2RtTHVEWDlwWDNsU2RTanN4MG9EdWtjUlM1MTlY?oc=5",
-      "published": "2026-03-22T07:00:00+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "b6c2d810fd17",
       "title": "Pekar ut problem inom tennisen: ”Klarar inte det” - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT3JQV2J4Y2Joa05acGlXRlV3VkxFNS1XT2ZUNTR5ZHBkdTlyVUE5MnY2T1hpS1RPaDIzb05EQkRJWGFaY25MalhXb2dYbFVEZExRd0Z0LU1lLVRrWmNvMU1aZ18wMEpieEsySkpZWXNNdThRLXFEZjlja1RVbHltTjJGekRSdThEMk9DT3JaR1B4MjBMaExoRFJYTjJiNlE0YS1FVGhVMHpibXpKZXpZSzlQQW5zLU84VlNnRmV4TVUtc1FtYkE?oc=5",
@@ -701,6 +691,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "ed3108f75f0e",
+      "title": "Vanliga tillskott kan störa mediciner – få känner till riskerna - News55",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORDNoM0xTcFN3eWdhVnhDNVo3TTFRa0hzekUxODRVTkJaNjlkNkFabUlmU1EzcmxuRDNKWERnaXhyOXkyODM2ZTlFOGR3S2JYNkxLQU85MTJLeElBWFJzMGF1Y3htdXZSZW5ZbFN4NXZsNVFZWE1nS2RtTHVEWDlwWDNsU2RTanN4MG9EdWtjUlM1MTlY?oc=5",
+      "published": "2026-03-22T07:00:00+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
