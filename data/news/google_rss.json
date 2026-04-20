@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-20T20:01:31.393978+00:00",
+  "fetched_at": "2026-04-20T21:42:17.948663+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -17,7 +17,7 @@
       "id": "a6f1c82ee3c3",
       "title": "Vanliga värktabletten kopplas till lägre demensrisk - e55.se",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMDBDMTlHUTdnNGltaDJPRjYzOHFhRlBtVnlnc09ndUt2Y1ZjOWR4Z0VZMXFyTVc4UFFTa05NTHJiTVJPRzE5VmtHZE1hLWJ3YU1IaDY1RzhnNkNycHFweFBEdDZoZWxqekl3VDJzZW1tYVU4ZmFSZllsd3FJNDdqeVkycw?oc=5",
-      "published": "2026-04-20T15:11:15+00:00",
+      "published": "2026-04-20T15:17:08+00:00",
       "source": {
         "name": "e55.se",
         "url": "https://www.e55.se"
@@ -51,6 +51,16 @@
       "source": {
         "name": "Expressen",
         "url": "https://www.expressen.se"
+      }
+    },
+    {
+      "id": "afd50e56ace0",
+      "title": "Rekord i antidepressiva bland unga kvinnor - Vasabladet",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ05HMUI5WG5TY3NrLXAyVWRTc1Q2T21KejNWbkZWQVhpeUlaYWdKS191Qm51OGstLVNWeERpUHJ5eU5kbDdUbm45b2hYYlRSVnR4b3NROEhwZTFYMG9uRGdrakU0MGdzQTRhWE43Q2c0OVFORTkxMUxkektWd3hsM2F5VE1lOHg3LWVHMA?oc=5",
+      "published": "2026-04-20T08:30:00+00:00",
+      "source": {
+        "name": "Vasabladet",
+        "url": "https://www.vasabladet.fi"
       }
     },
     {
@@ -134,10 +144,10 @@
       }
     },
     {
-      "id": "a89a6bb55b5c",
-      "title": "Årets diabetolog ”är en stark röst” i utvecklingen av diabetesvård - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNXzdON1V3YWR3RVc5NHREZWlKVUN2WURJVkU3QzZmLTlqWThlZ3BpemZ6OVl1ZHpqbmoyLW1ldGZCR2xZamJ3UUZsd194QUNCdy05MU1JRU9fcUhYQ0NNM1VGUHIxaUMwOUJRcG0tSEVNZWUtamtBaUdRTHFzQ2w1SEhhVHA3REgyN2xUSENHb2hWZjgzVGxKSzNoMVZNaWNaU1hkY3FCOUVlSk5rMUtyVzhZdTRhT3EyV2lnZVhR?oc=5",
-      "published": "2026-04-20T00:30:00+00:00",
+      "id": "b5a72741f2d8",
+      "title": "Nytt fall kopplas till hjärtläkaren – barn dog - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSTBGdzNWaEFhU2NsSlVMUmlmUUV1MlZSUnN2bkg4NzZZanlIYWVXVUJnT2tLWjRsVVI5V2RvR2IzakpCdEhjNmltRXJ2TVByVHhBU0lkV1RnR2pJVWJBOGVwSGZKTm41UmthclNKejd1RTNRQklDYmgtUk1tT01KMVZ2b2p2cE0zd1dwVDY4UlBTMklzeVl4TWxUem1lb283RlYwLXhpNVM?oc=5",
+      "published": "2026-04-19T23:22:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -164,10 +174,10 @@
       }
     },
     {
-      "id": "b5a72741f2d8",
-      "title": "Nytt fall kopplas till hjärtläkaren – barn dog - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSTBGdzNWaEFhU2NsSlVMUmlmUUV1MlZSUnN2bkg4NzZZanlIYWVXVUJnT2tLWjRsVVI5V2RvR2IzakpCdEhjNmltRXJ2TVByVHhBU0lkV1RnR2pJVWJBOGVwSGZKTm41UmthclNKejd1RTNRQklDYmgtUk1tT01KMVZ2b2p2cE0zd1dwVDY4UlBTMklzeVl4TWxUem1lb283RlYwLXhpNVM?oc=5",
-      "published": "2026-04-19T23:22:00+00:00",
+      "id": "9b7f6202e339",
+      "title": "NT-rådet säger nej till Leqembi - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQkJzYnh2MlAyZDBCd2g0NzdFbUNaYm1uNDJDUHZCS0NYWGE4anRlVVhKbXN3VHpLcE5DUVd0Y0VBSldoaXJhNDhBOVR3YjF4cTRkUzk1dlQyZEY5SFBxS2gtT2IwbzAwM3JSUFBBNXhzakVaRU9JSUtJeVh6ODB0NXJnRXJkVG5NWnpaNg?oc=5",
+      "published": "2026-04-17T00:48:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -181,16 +191,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "9b7f6202e339",
-      "title": "NT-rådet säger nej till Leqembi - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQkJzYnh2MlAyZDBCd2g0NzdFbUNaYm1uNDJDUHZCS0NYWGE4anRlVVhKbXN3VHpLcE5DUVd0Y0VBSldoaXJhNDhBOVR3YjF4cTRkUzk1dlQyZEY5SFBxS2gtT2IwbzAwM3JSUFBBNXhzakVaRU9JSUtJeVh6ODB0NXJnRXJkVG5NWnpaNg?oc=5",
-      "published": "2026-04-17T00:48:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -274,6 +274,16 @@
       }
     },
     {
+      "id": "fffe5423cea0",
+      "title": "Vårdmyndigheterna som svällt mest sedan 2021 - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV3c2bWJMSmUwQVdNZTlhTFJLSTlQNHhQR0t5QndrbmxnMUVLS2lWVmw1OHRydVhRQkttMWU1YTlNQUtQbVlDdFRDMlFySXBkY0hJY2dVWHlqRm0yM2YxOUEzcURCQTJKYVdIVk9aZVZuQ0xGN2Q5V0VfN2ZYWnlNRl91SlZzYlVOSGY3MTQ0M3dhQ2Uzd1UwaFZiQ3dOMTJC?oc=5",
+      "published": "2026-04-15T19:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "3464bac26782",
       "title": "Ont i huvudet? Expertens bästa råd för lindring - Expressen",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYU9acFdCYmhWQURpaWZWTE8xTVRjdk1SaW9mcXQzaDFJcENMTFFsNG9FcnMxMVlmMk1RS2l5Z3MtUnRnRG5RRk5rV0ZaLXFINXBSV3E5cVJoX3dsdVFpWnNqdi0xWnNGZU9YYmVUWEFOb3JHTGtNdVI2c1VQRk9WSWxkajh6Yy1nM1A0ME1FXzA?oc=5",
@@ -294,16 +304,6 @@
       }
     },
     {
-      "id": "26ebab2fcc71",
-      "title": "AMINA MANZOOR: Inga läkemedel är helt riskfria - Expressen",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON3p3bnZmOXQzNEJNTWVEUC1FYzg2UHlvemJtX2RyNGZRZjhBblU0UUtaejBicm9GUzNFNlZsOUNPQy1RUWtGQm0xT08wek5BZTBDTHFPaElITV9qT2tERFdnbmR4SEFQZ3BOT2JnaFd2Y0JXR2d3QzBXSG9tdm16TnJsVy1zbEY4SWdxRnhTamVoRG1KTkF6QTFJSUY5akVjRXJrMHBR?oc=5",
-      "published": "2026-04-16T08:19:48+00:00",
-      "source": {
-        "name": "Expressen",
-        "url": "https://www.expressen.se"
-      }
-    },
-    {
       "id": "e786d9728a1e",
       "title": "Diabetesläkemedel kopplas till minskad psykisk ohälsa - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGpaVjZ1MlhUM0Ffc1lfYXpfVUZ2N0FnMjBuckZOQ0ZvX2pMX1d3blBGQUZ4TUltYlJtbTUwUDFicF80ZWtjSDh2UndrYmZaSFJiTWxnVXlGeWdlRXBfLXoyWFFlUkhaR25QbWwtNnF1QTlMX2s1MldyOURVSFBtWDQzd1huZGpYVE11MjdQM3l4VkM5ZG9TUVdB?oc=5",
@@ -311,6 +311,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "26ebab2fcc71",
+      "title": "AMINA MANZOOR: Inga läkemedel är helt riskfria - Expressen",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON3p3bnZmOXQzNEJNTWVEUC1FYzg2UHlvemJtX2RyNGZRZjhBblU0UUtaejBicm9GUzNFNlZsOUNPQy1RUWtGQm0xT08wek5BZTBDTHFPaElITV9qT2tERFdnbmR4SEFQZ3BOT2JnaFd2Y0JXR2d3QzBXSG9tdm16TnJsVy1zbEY4SWdxRnhTamVoRG1KTkF6QTFJSUY5akVjRXJrMHBR?oc=5",
+      "published": "2026-04-16T08:19:48+00:00",
+      "source": {
+        "name": "Expressen",
+        "url": "https://www.expressen.se"
       }
     },
     {
@@ -524,16 +534,6 @@
       }
     },
     {
-      "id": "03c0b8c654ee",
-      "title": "”Illegalt sålda peptider ‒ köp ej” - Västerbottens-Kuriren",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRHF0cUV2cEdoVUh0ckhpVzRxQmdVMllwX1FGWVE1RWk3bjE5aW5JUlpzdHA1Ty0tN0s2OVljczdwT2lsbmQtRzBFUnEtQzh1RGVVbk16Q0hNejg2cFpnNFRIVkdHdnh1M3VPRzJ5R0pOUlptTy1yY1pOR3JlWDRwMg?oc=5",
-      "published": "2026-03-29T07:00:00+00:00",
-      "source": {
-        "name": "Västerbottens-Kuriren",
-        "url": "https://www.vk.se"
-      }
-    },
-    {
       "id": "7c46146075c0",
       "title": "Vanlig mat kan störa dina läkemedel – många missar det - e55.se",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUGhZNWVUTUttYy1iZjB3VXVMdzI5NzdKZVhTR1VOaWtBa3FmQzZSVDVtWXJNTmZIb2Z6UWlGcUkwWThCQmwtSFVmV3N6VXh6dmp4MmNQcC1fU283bUdzTzhIZy1na18wNm5uUnBsZjNjNzB1cE5oMmlkM2hWdG01RjV6bTM?oc=5",
@@ -541,6 +541,16 @@
       "source": {
         "name": "e55.se",
         "url": "https://www.e55.se"
+      }
+    },
+    {
+      "id": "03c0b8c654ee",
+      "title": "”Illegalt sålda peptider ‒ köp ej” - Västerbottens-Kuriren",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRHF0cUV2cEdoVUh0ckhpVzRxQmdVMllwX1FGWVE1RWk3bjE5aW5JUlpzdHA1Ty0tN0s2OVljczdwT2lsbmQtRzBFUnEtQzh1RGVVbk16Q0hNejg2cFpnNFRIVkdHdnh1M3VPRzJ5R0pOUlptTy1yY1pOR3JlWDRwMg?oc=5",
+      "published": "2026-03-29T07:00:00+00:00",
+      "source": {
+        "name": "Västerbottens-Kuriren",
+        "url": "https://www.vk.se"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Janusinfo.se",
         "url": "https://janusinfo.se"
-      }
-    },
-    {
-      "id": "fe837ca87780",
-      "title": "Nytt läkemedel för diabetes och obesitas visar lovande resultat - Karolinska Institutet",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWGdYUUR2cUlQcWFnc1o2RnJ1M2x3UTk1RmUtU3lOWDdyZm84U0hmRzN5Q0xEVGJZeTNqLWFGOUxycEQ1ZW1MbFBqeWNPRGstMTk1NXI5dElsb1ZkeDduU2stZHFxMEl6V3JBMGxqTl9OVUNQT2pxbjBNTnlQWlgtZm95OVhoWGFmUk1YWERn?oc=5",
-      "published": "2025-06-23T07:00:00+00:00",
-      "source": {
-        "name": "Karolinska Institutet",
-        "url": "https://nyheter.ki.se"
       }
     }
   ]
