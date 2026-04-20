@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-20T17:54:01.953316+00:00",
+  "fetched_at": "2026-04-20T18:58:48.785968+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "e5482adb80e7",
-      "title": "Behandling av jordnötsallergi ännu bara i startgroparna - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUlVkSGdZWVhHZExrNDgzTThZbmRlZUhFM0ZLbk9IQ09mOGZpZGpHSHNNbmwxSFJEeDk2V1hDenY5MVVkWjZTR1FZNm1aYVNqXzctT2FEVExJelpMdlZtQmNvbk5jdVhKUXljWVdqUjFhTFdiYjRmTm5WVjB5R09YYmFQbUpRNlFPVTZvTS12YjBWMjVKcXRMQ2VicXJXTHZuREIzN3docENQcTE3SmYyNVJBOGRicW8?oc=5",
-      "published": "2026-04-20T00:54:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "b72e224a4fa4",
       "title": "Användning av läkemedel mot obesitas ökade kraftigt - Sveriges Radio",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcHRHUE5lMGV6Z05jMW15WnJpMzYwRWFTd19ZTF9zTDhhY0xRSGx5Szl3aGp1cjE2Zm92RXBwT1VWbkNaTFlYQkYzc1BySERPVzlaeEVuMWZYSlpmZFhpbEZPOHRVNm5XalJhaTZaRlpTVnJsTXE1WGZ4TmZoWURodkJBT3RwS1ZoMUdXZE1YQWpaQQ?oc=5",
@@ -81,6 +71,16 @@
       "source": {
         "name": "Sveriges Radio",
         "url": "https://www.sverigesradio.se"
+      }
+    },
+    {
+      "id": "e5482adb80e7",
+      "title": "Behandling av jordnötsallergi ännu bara i startgroparna - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUlVkSGdZWVhHZExrNDgzTThZbmRlZUhFM0ZLbk9IQ09mOGZpZGpHSHNNbmwxSFJEeDk2V1hDenY5MVVkWjZTR1FZNm1aYVNqXzctT2FEVExJelpMdlZtQmNvbk5jdVhKUXljWVdqUjFhTFdiYjRmTm5WVjB5R09YYmFQbUpRNlFPVTZvTS12YjBWMjVKcXRMQ2VicXJXTHZuREIzN3docENQcTE3SmYyNVJBOGRicW8?oc=5",
+      "published": "2026-04-20T00:54:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -214,16 +214,6 @@
       }
     },
     {
-      "id": "2101a55b84bf",
-      "title": "Risk för muskeltapp med viktläkemedel - Västerbottens-Kuriren",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zRjRlbTFJcmhrUGEzYTEzcmpnRUlHck51YkgydHd1NUxFS2h0Zl9WN2lQYkxrbmxYMFBfOV90QWtMSFl4cU9RemRldTRfaFMxWjNaNHltY1NZaDB0VldPRkVySV9sY3FlMHVNOXV1WXo0Qy1GTktrdEJJeGs?oc=5",
-      "published": "2026-04-19T05:11:09+00:00",
-      "source": {
-        "name": "Västerbottens-Kuriren",
-        "url": "https://www.vk.se"
-      }
-    },
-    {
       "id": "f7555bf6cd5f",
       "title": "Nytt centrum ska främja barns och ungas hälsa - Janusinfo.se",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYjhWdW96YzFhYVFocmE5UE43TUU3RDFiLWIwQVNsaVM3aXExeTJpMm92d2JlZDE3c3hyS1QyYXpMTE1hWGR5M2dyNkszUXczMXNpWmRwYVRyRFB4NG5mYXU2aWtrU2NFVXhaOWZQa2c4MFNxVkY5MXk5bWs2UDRGY2N1N05RRkVPZWQ0cGM1OUNydDZRZzhtb2NuS0YxY1NydE9sQmdDRjdaN1RJSG9PRThIY0E3QXl5VUtZekk3NUNnNnlaSkZGZDdmTlNYdldPQkswYW14eEQ3VWNtYmZv?oc=5",
@@ -231,6 +221,16 @@
       "source": {
         "name": "Janusinfo.se",
         "url": "https://janusinfo.se"
+      }
+    },
+    {
+      "id": "2101a55b84bf",
+      "title": "Risk för muskeltapp med viktläkemedel - Västerbottens-Kuriren",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zRjRlbTFJcmhrUGEzYTEzcmpnRUlHck51YkgydHd1NUxFS2h0Zl9WN2lQYkxrbmxYMFBfOV90QWtMSFl4cU9RemRldTRfaFMxWjNaNHltY1NZaDB0VldPRkVySV9sY3FlMHVNOXV1WXo0Qy1GTktrdEJJeGs?oc=5",
+      "published": "2026-04-19T05:11:09+00:00",
+      "source": {
+        "name": "Västerbottens-Kuriren",
+        "url": "https://www.vk.se"
       }
     },
     {
@@ -284,16 +284,6 @@
       }
     },
     {
-      "id": "bc49e52685bb",
-      "title": "Tar du dessa mediciner? Då bör du se upp med kaffe - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMnpsVmxlSkQ2Q20wUFdfTmhJOUpCTGhMV3dqUFhuQUFxUkZxZ1htVUItWTVORmh6V1ItZHZHWjg4NXRKTUw0bnpFYUdPZThpWnZYelpYUlFIQ0xWNkVOMC1tWG5zWHZoRlN4OFJtdlVJaktrLVpkMVpZSGp6Mm9zSW5HZ0Z6eWJVdkJQMUhfM3JUMEtQMGo3aVNMMHg5dXpCNzNaMmNYa1FjMUtrM1lsZjk2NGVObHI1eWZpNmhibVJXNF9VTWlhZTk4azE0RGFieEhtNFl1VUtYckhnQXFVZlZoY3VUa1pNOTRpZnpBMUE5QQ?oc=5",
-      "published": "2026-04-20T03:44:13+00:00",
-      "source": {
-        "name": "MSN",
-        "url": "https://www.msn.com"
-      }
-    },
-    {
       "id": "ac294cbc764e",
       "title": "”Ta fram nationella riktlinjer för läkemedel mot obesitas” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUhmclNfR3hBdlZndV9OUEJDMVRZZkJxZnhZdzZzRzRlYUZlR0poV0o0VzZVVmkyY3ZkTkNqNjRBcG9OT1UtREo0VURRZ0J1aTRvUGZhUDNmWmZwR1VKN3BlbWJXOE9HVFJIcHFJa2FOblp6RVNDZ051X2F5ZmZrUEJvRUxLdy1DcEJZWVV1YTdfbTd2TS1za001SnRHWUkyalU0?oc=5",
@@ -301,6 +291,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "bc49e52685bb",
+      "title": "Tar du dessa mediciner? Då bör du se upp med kaffe - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMnpsVmxlSkQ2Q20wUFdfTmhJOUpCTGhMV3dqUFhuQUFxUkZxZ1htVUItWTVORmh6V1ItZHZHWjg4NXRKTUw0bnpFYUdPZThpWnZYelpYUlFIQ0xWNkVOMC1tWG5zWHZoRlN4OFJtdlVJaktrLVpkMVpZSGp6Mm9zSW5HZ0Z6eWJVdkJQMUhfM3JUMEtQMGo3aVNMMHg5dXpCNzNaMmNYa1FjMUtrM1lsZjk2NGVObHI1eWZpNmhibVJXNF9VTWlhZTk4azE0RGFieEhtNFl1VUtYckhnQXFVZlZoY3VUa1pNOTRpZnpBMUE5QQ?oc=5",
+      "published": "2026-04-20T03:44:13+00:00",
+      "source": {
+        "name": "MSN",
+        "url": "https://www.msn.com"
       }
     },
     {
@@ -574,16 +574,6 @@
       }
     },
     {
-      "id": "cd76e6d60b2d",
-      "title": "Bioarctics Leqembi kommer inte erbjudas i Sverige - Omni Ekonomi",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejF4eE5mRnFwY3RiSDNEaGhTR3Zncm5ubWVMY1d4NTdBc0VmZldYNVhGT2o2RGxSTGY2aERVT0kzYzZxekV2dzB2LWRpRlBUUWV4TWk2bFJRaVZ6WDdvOW1XUGNLS3JPZHZsNGlTRXpXeU84S1lvTldzLUtWeWoxckdaVUpaNGJ2?oc=5",
-      "published": "2026-04-17T09:50:24+00:00",
-      "source": {
-        "name": "Omni Ekonomi",
-        "url": "https://omniekonomi.se"
-      }
-    },
-    {
       "id": "b59a89ba6d46",
       "title": "Västra Götalandsregionen häver avtal med vårdgivare, inför nytt läkemedel för blodcancer och höjer ersättning för bassängbehandling – beslut från operativa hälso- och sjukvårdsnämnden - Via TT",
       "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPNk84bE0xVzd6RFZJdHlhR1lUNUc3emNTeC1HNDZtOTc3N2M1bzVVamVmXy02eFF3by1vV3pHdm9MVk5VMERjbmhCanRqZVVZZGFYeUx1Y1NuM3FTTUdQMjBUNHNsNWhLeUdrazhGN1FLUll3b2t3OV9uSS1JNG9DU01DYTVqQkMwYzJ0enc1MktYVk1ZUzMtX1JXZkV0Q3FKR0k1Wmp4dkhLNjVoTl94bWlJWmwtSy1GMnFzcENJRDExOG1IWmY4c1V2emN4d1dObG85MGw4Mkl6aWhzQ1podF9QdU04U3JvMXdnYWh4OWVRTXF1SWZ1QkpOWk1xeU1aN01pYTJZcU9oS1RTa0RWb053UEdXeGljczJUS3IzdW1YMkFjTW9vRHYxMm16cTNqM080cnN3cVNIY0NsSWQ2UVd0UG1SZGoyOFhRNDl6bEttcnZpYUh6dmhIbjBUVWJtNU9odTd4cFY?oc=5",
@@ -591,6 +581,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "cd76e6d60b2d",
+      "title": "Bioarctics Leqembi kommer inte erbjudas i Sverige - Omni Ekonomi",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejF4eE5mRnFwY3RiSDNEaGhTR3Zncm5ubWVMY1d4NTdBc0VmZldYNVhGT2o2RGxSTGY2aERVT0kzYzZxekV2dzB2LWRpRlBUUWV4TWk2bFJRaVZ6WDdvOW1XUGNLS3JPZHZsNGlTRXpXeU84S1lvTldzLUtWeWoxckdaVUpaNGJ2?oc=5",
+      "published": "2026-04-17T09:50:24+00:00",
+      "source": {
+        "name": "Omni Ekonomi",
+        "url": "https://omniekonomi.se"
       }
     },
     {
