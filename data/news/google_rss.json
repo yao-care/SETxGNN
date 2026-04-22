@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-22T16:54:28.054655+00:00",
+  "fetched_at": "2026-04-22T17:57:35.083458+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -44,16 +44,6 @@
       }
     },
     {
-      "id": "35d1e0b205b7",
-      "title": "Medicin mot alzheimer är meningslös enligt granskning - Forskning & Framsteg",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTHQ1VWVlX3h5X1l0a2lDazlHMWltWUxrTnY5a2hKQy1NTl9rRjlaSGVieUl4OFVCN2huUEYxbEZKLWdFemRWWXpDaENxZEYtT0JKUU9abDdwd3psRkpPMnBUWGR6bGtRVGpWek9uWnZUNl9IR2V4VDVvaWlnaGZhcGpvTQ?oc=5",
-      "published": "2026-04-20T13:31:41+00:00",
-      "source": {
-        "name": "Forskning & Framsteg",
-        "url": "https://fof.se"
-      }
-    },
-    {
       "id": "86241c6eb723",
       "title": "Dömer ut hyllade medicinen: Olyckligt - Expressen",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzb2pxMWNmOW10QWpuQUNpTmJONF8wSHBGX1drSl9WNkFEZE5HcThXNDFhNHlreWQzdjJ0dUcwUG5JbjlIMXFvT281c0NVSXRuNGRyaTBQeDRGalp2eGJYaUJldEtUaWlzd2RtWmx2RzJGcXhRQzg4M3dn?oc=5",
@@ -64,13 +54,13 @@
       }
     },
     {
-      "id": "d514c07b6714",
-      "title": "DOZ Apotek slår upp portarna till ett nytt apotek i Kållered - it-halsa.se",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmxVWWNDZ0NaNmd3VEhxTmt2R2VOcmc5cmdJTjY0Nk1LVnBfMnU2emJ0cUN0b1diWnBQYVRMR2t4bGpLVC1vZnNLUDktXzM3d193enBQZFhJX3hWQmd0SE43Vi10UU40S1lzLUtvRjQ0Z2hfYnEwUEZtcXJrOFU1NjdpYUVuYTV2?oc=5",
-      "published": "2026-04-22T05:00:03+00:00",
+      "id": "35d1e0b205b7",
+      "title": "Medicin mot alzheimer är meningslös enligt granskning - Forskning & Framsteg",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTHQ1VWVlX3h5X1l0a2lDazlHMWltWUxrTnY5a2hKQy1NTl9rRjlaSGVieUl4OFVCN2huUEYxbEZKLWdFemRWWXpDaENxZEYtT0JKUU9abDdwd3psRkpPMnBUWGR6bGtRVGpWek9uWnZUNl9IR2V4VDVvaWlnaGZhcGpvTQ?oc=5",
+      "published": "2026-04-20T13:31:41+00:00",
       "source": {
-        "name": "it-halsa.se",
-        "url": "https://it-halsa.se"
+        "name": "Forskning & Framsteg",
+        "url": "https://fof.se"
       }
     },
     {
@@ -81,6 +71,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "d514c07b6714",
+      "title": "DOZ Apotek slår upp portarna till ett nytt apotek i Kållered - it-halsa.se",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmxVWWNDZ0NaNmd3VEhxTmt2R2VOcmc5cmdJTjY0Nk1LVnBfMnU2emJ0cUN0b1diWnBQYVRMR2t4bGpLVC1vZnNLUDktXzM3d193enBQZFhJX3hWQmd0SE43Vi10UU40S1lzLUtvRjQ0Z2hfYnEwUEZtcXJrOFU1NjdpYUVuYTV2?oc=5",
+      "published": "2026-04-22T05:00:03+00:00",
+      "source": {
+        "name": "it-halsa.se",
+        "url": "https://it-halsa.se"
       }
     },
     {
@@ -464,16 +464,6 @@
       }
     },
     {
-      "id": "fe837ca87780",
-      "title": "Nytt läkemedel för diabetes och obesitas visar lovande resultat - Karolinska Institutet",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWGdYUUR2cUlQcWFnc1o2RnJ1M2x3UTk1RmUtU3lOWDdyZm84U0hmRzN5Q0xEVGJZeTNqLWFGOUxycEQ1ZW1MbFBqeWNPRGstMTk1NXI5dElsb1ZkeDduU2stZHFxMEl6V3JBMGxqTl9OVUNQT2pxbjBNTnlQWlgtZm95OVhoWGFmUk1YWERn?oc=5",
-      "published": "2025-06-23T07:00:00+00:00",
-      "source": {
-        "name": "Karolinska Institutet",
-        "url": "https://nyheter.ki.se"
-      }
-    },
-    {
       "id": "4a2fd898bd5f",
       "title": "Fördelarna med adhd-läkemedel kvarstår – men inte som förut - Forte - Forskningsrådet för hälsa, arbetsliv och välfärd",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU1NTRm5za1FFWmxUQ0hQUmkyOGszRFpzcVMxcVcyZTVTNnB0RDlNcVVZVU8wYUphemNEQ05vRWZyU1hvNXpOOXVxblhPNnd6RTNzS20wZUpsUGtkbzhWTHIzREFhNVJhaU1ZM2FlWk5SclhxZGxVRUpEYURIRW9WODBlSzhXYTRMbTVoTHp3OUYtMGhCOFZnSFBGY0xGTWlnWTRpeFhB?oc=5",
@@ -484,13 +474,13 @@
       }
     },
     {
-      "id": "8e762be26560",
-      "title": "Ojämlik tillgång till klimakteriebehandling - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDh6aUF3dDF2RmJ4QUVvWmhiSmJlUXlEejh2T2VuOWViSE5ZSmpLWW13VWlDMmNhQzM4dndYN2cxVkdOeG1QaTdHcWN5RjQwSy15eGVPNmpWeG1nVEVVXzd5ME1vVmh4TzBVVkVIM2dkcHlXMmlPOUFNSnVWaFlWRFVDOHowQWtzYmFJc3BXNEp2NXJmaVVPbVBSRDJUaExpZDZIRVVn?oc=5",
-      "published": "2026-04-16T02:38:00+00:00",
+      "id": "fe837ca87780",
+      "title": "Nytt läkemedel för diabetes och obesitas visar lovande resultat - Karolinska Institutet",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWGdYUUR2cUlQcWFnc1o2RnJ1M2x3UTk1RmUtU3lOWDdyZm84U0hmRzN5Q0xEVGJZeTNqLWFGOUxycEQ1ZW1MbFBqeWNPRGstMTk1NXI5dElsb1ZkeDduU2stZHFxMEl6V3JBMGxqTl9OVUNQT2pxbjBNTnlQWlgtZm95OVhoWGFmUk1YWERn?oc=5",
+      "published": "2025-06-23T07:00:00+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "Karolinska Institutet",
+        "url": "https://nyheter.ki.se"
       }
     },
     {
@@ -498,6 +488,16 @@
       "title": "Region Skåne häver avtal med vårdcentral i Malmö - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHc1TFh1SlVMV19XLTZuc01kclcyWllaMWc1ck1IcE1rSlNUTzIzYS1GNGxXQ2NJdTBfU3lmZHBxaXlJSllTX1VnWUZzLWR4TkVkTUhIRXJHZVlaY2VyeUpsZkVLYlAyQWJpeUpiUDlwYzZ3SXZkTURzZEM4ZmJodTVUd0o5YzR2MUQxcEZYX1NJZ1hyZ3MxemZ5UFB5TE1zY25XZkIwc2dFR25KdWg4?oc=5",
       "published": "2026-01-28T08:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "8e762be26560",
+      "title": "Ojämlik tillgång till klimakteriebehandling - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDh6aUF3dDF2RmJ4QUVvWmhiSmJlUXlEejh2T2VuOWViSE5ZSmpLWW13VWlDMmNhQzM4dndYN2cxVkdOeG1QaTdHcWN5RjQwSy15eGVPNmpWeG1nVEVVXzd5ME1vVmh4TzBVVkVIM2dkcHlXMmlPOUFNSnVWaFlWRFVDOHowQWtzYmFJc3BXNEp2NXJmaVVPbVBSRDJUaExpZDZIRVVn?oc=5",
+      "published": "2026-04-16T02:38:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -574,16 +574,6 @@
       }
     },
     {
-      "id": "161c137524a2",
-      "title": "Tar du dessa mediciner? Då bör du se upp med kaffe - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeXFMRjZHR29rYlNsUnZFU0pIMENqSTR2Y0hheFZheDJZZ0V0R1lXaWxCaHN3cEhSZDBIYlIycjdYOWRMTy00WFNPMTZXaTZqMHhNOGhoS1ZnN3FkSUh0NEpoVHg2TGpuVHdVVDliaGZfWFFUdm5NdWxKVDVlTUpkMmNUVl9xZHN1djR1MlJUdll2VWM2X3FwenRmWnJ1TzhITEZoNHAzYmREUzM2WDZBVGljTmhCV0k3M3BCV0NUbWZlZEd5cGozNE1NR24tVTIwdUktenJLZVF5UXJlS1RYd1hYWXlaZTlNdE1abENPQURoZFZ3?oc=5",
-      "published": "2026-04-21T01:25:36+00:00",
-      "source": {
-        "name": "MSN",
-        "url": "https://www.msn.com"
-      }
-    },
-    {
       "id": "9457c37a32a7",
       "title": "Adhd-läkemedel kopplas till lägre risk för självmordsförsök, missbruk och kriminalitet - Karolinska Institutet",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX0ZLRlowbVVYYWt2a2pLWldBZTFyTHZjMnJHbzBkeFoyalRxQUozWVY1X2d3X2Joa0RwUmNDMWxGN1haTm5UU1JDMXMyalB0STBHTFRWSFlMUWMxWXNDTHZka1A5UVNMbTExU2RiZ2ZTQXlPcVpsanA4RjBwUmlWTXpQRzMwYU9UMmhCVW13RmY5NG5RNVkzblZzclZZZ0xFcFpJQUd2c0J4WlU?oc=5",
@@ -604,13 +594,13 @@
       }
     },
     {
-      "id": "4947f36889d4",
-      "title": "Oroande: Så många tar andras receptbelagda läkemedel - e55.se",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcTBJSzJ4cUJaSkFHMXpUa3B5OGZ5U0hxSkIyQTVXSUx1QURWVmQwQnN0dFY0R1B4UXhVRzJPcXlNTHRTNnJ5VkFtOVRsdGRBS0tyV3JxSmUtdFl3cExwcXpBclVXUFRZcUZBbmhnZWw5UTFuaUJYbFZ2QlN5SlBXaks2aw?oc=5",
-      "published": "2026-03-25T07:00:00+00:00",
+      "id": "161c137524a2",
+      "title": "Tar du dessa mediciner? Då bör du se upp med kaffe - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeXFMRjZHR29rYlNsUnZFU0pIMENqSTR2Y0hheFZheDJZZ0V0R1lXaWxCaHN3cEhSZDBIYlIycjdYOWRMTy00WFNPMTZXaTZqMHhNOGhoS1ZnN3FkSUh0NEpoVHg2TGpuVHdVVDliaGZfWFFUdm5NdWxKVDVlTUpkMmNUVl9xZHN1djR1MlJUdll2VWM2X3FwenRmWnJ1TzhITEZoNHAzYmREUzM2WDZBVGljTmhCV0k3M3BCV0NUbWZlZEd5cGozNE1NR24tVTIwdUktenJLZVF5UXJlS1RYd1hYWXlaZTlNdE1abENPQURoZFZ3?oc=5",
+      "published": "2026-04-21T01:25:36+00:00",
       "source": {
-        "name": "e55.se",
-        "url": "https://www.e55.se"
+        "name": "MSN",
+        "url": "https://www.msn.com"
       }
     },
     {
@@ -621,6 +611,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "4947f36889d4",
+      "title": "Oroande: Så många tar andras receptbelagda läkemedel - e55.se",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcTBJSzJ4cUJaSkFHMXpUa3B5OGZ5U0hxSkIyQTVXSUx1QURWVmQwQnN0dFY0R1B4UXhVRzJPcXlNTHRTNnJ5VkFtOVRsdGRBS0tyV3JxSmUtdFl3cExwcXpBclVXUFRZcUZBbmhnZWw5UTFuaUJYbFZ2QlN5SlBXaks2aw?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "source": {
+        "name": "e55.se",
+        "url": "https://www.e55.se"
       }
     },
     {
@@ -744,16 +744,6 @@
       }
     },
     {
-      "id": "cd76e6d60b2d",
-      "title": "Bioarctics Leqembi kommer inte erbjudas i Sverige - Omni Ekonomi",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejF4eE5mRnFwY3RiSDNEaGhTR3Zncm5ubWVMY1d4NTdBc0VmZldYNVhGT2o2RGxSTGY2aERVT0kzYzZxekV2dzB2LWRpRlBUUWV4TWk2bFJRaVZ6WDdvOW1XUGNLS3JPZHZsNGlTRXpXeU84S1lvTldzLUtWeWoxckdaVUpaNGJ2?oc=5",
-      "published": "2026-04-17T09:50:24+00:00",
-      "source": {
-        "name": "Omni Ekonomi",
-        "url": "https://omniekonomi.se"
-      }
-    },
-    {
       "id": "55ec6f4b6fe9",
       "title": "Tabletter mot fetma snart här, vilka läkemedel kommer sen? - Expressen",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYmE0SHlFOFZ0NlpWS2haVHNfdGotamJqTDhJcktSM2V5UHhxQV9COGlXMWtiQXFqZFMyNXdzREFWRElhM2pFTnl2NDhkcTk3OXpIZW9JV1l2U1RkT2FNdi1ZbTB6UHpVcHpfMGJNQ2FIa3g5TGpKb3pySmVMNkhrYVgteFlUNnhHYVRz?oc=5",
@@ -761,6 +751,16 @@
       "source": {
         "name": "Expressen",
         "url": "https://www.expressen.se"
+      }
+    },
+    {
+      "id": "cd76e6d60b2d",
+      "title": "Bioarctics Leqembi kommer inte erbjudas i Sverige - Omni Ekonomi",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejF4eE5mRnFwY3RiSDNEaGhTR3Zncm5ubWVMY1d4NTdBc0VmZldYNVhGT2o2RGxSTGY2aERVT0kzYzZxekV2dzB2LWRpRlBUUWV4TWk2bFJRaVZ6WDdvOW1XUGNLS3JPZHZsNGlTRXpXeU84S1lvTldzLUtWeWoxckdaVUpaNGJ2?oc=5",
+      "published": "2026-04-17T09:50:24+00:00",
+      "source": {
+        "name": "Omni Ekonomi",
+        "url": "https://omniekonomi.se"
       }
     },
     {
@@ -794,16 +794,6 @@
       }
     },
     {
-      "id": "26ebab2fcc71",
-      "title": "AMINA MANZOOR: Inga läkemedel är helt riskfria - Expressen",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON3p3bnZmOXQzNEJNTWVEUC1FYzg2UHlvemJtX2RyNGZRZjhBblU0UUtaejBicm9GUzNFNlZsOUNPQy1RUWtGQm0xT08wek5BZTBDTHFPaElITV9qT2tERFdnbmR4SEFQZ3BOT2JnaFd2Y0JXR2d3QzBXSG9tdm16TnJsVy1zbEY4SWdxRnhTamVoRG1KTkF6QTFJSUY5akVjRXJrMHBR?oc=5",
-      "published": "2026-04-16T08:19:48+00:00",
-      "source": {
-        "name": "Expressen",
-        "url": "https://www.expressen.se"
-      }
-    },
-    {
       "id": "b13507c7a9f7",
       "title": "Forskare pekar ut åtta läkemedel som kan bromsa demens - Dagens PS",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFJVMmRPV3c3YTNCZkFJRHZmTlhpRHZ3TEx5VVM5MDNCUGhrUkRDVWVESlplVFY4b2F4RDlnRWtqU0QydHFpY2dDZHNCWHFhOGNYSHBDaHJhemlnLVJMVEpzcDNVZUxFdkxlamFhM05fUVRCbUhMUl9MOG9SeXBGWnBDUmU0YUlSYXpTeHlR?oc=5",
@@ -811,6 +801,16 @@
       "source": {
         "name": "Dagens PS",
         "url": "https://www.dagensps.se"
+      }
+    },
+    {
+      "id": "26ebab2fcc71",
+      "title": "AMINA MANZOOR: Inga läkemedel är helt riskfria - Expressen",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON3p3bnZmOXQzNEJNTWVEUC1FYzg2UHlvemJtX2RyNGZRZjhBblU0UUtaejBicm9GUzNFNlZsOUNPQy1RUWtGQm0xT08wek5BZTBDTHFPaElITV9qT2tERFdnbmR4SEFQZ3BOT2JnaFd2Y0JXR2d3QzBXSG9tdm16TnJsVy1zbEY4SWdxRnhTamVoRG1KTkF6QTFJSUY5akVjRXJrMHBR?oc=5",
+      "published": "2026-04-16T08:19:48+00:00",
+      "source": {
+        "name": "Expressen",
+        "url": "https://www.expressen.se"
       }
     },
     {
@@ -834,16 +834,6 @@
       }
     },
     {
-      "id": "6c3ae1fd39fb",
-      "title": "Träning mot depression och ångest – lika effektivt som medicin - News55",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlMtcTEzdmdCSVZEQnBCcHM5RzVsb3JBMkxxZ1lWS2FrU3o3Mkh0SVpnT1FtMXFJeFI5R2hnRnVvRktqUlVlNkQ5TmwtcU9ZM0VFdF91U3ZXcG9YQXN6OWYwVU9LVlRMVk5VMllVd1duVnBSTHp3VkVCRmduanNPY0dadFJ3b3RvckNWcS1Lem5md1E?oc=5",
-      "published": "2026-03-25T07:00:00+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "d9e6df56707f",
       "title": "Nationella läkemedelslistan - sls.se",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTDR6NXI4MFpXT3dIV1ZNRHRDZzlJcVZlcnBlblAzai1xUW9WR1JkV2VQdlBPaUJsbU9uRVZ6NmE5MlQxQVdPa2hOWHhLTURjZWFYSFNlLVVha25QVTJoSFRKQmgyWGo4ODdwcy11VVFKR1VDeWZ4WDdtYlBBYmJuN0d0ZVpZbjBxQUp2bHpWZm41UnNhaFpv?oc=5",
@@ -851,6 +841,16 @@
       "source": {
         "name": "sls.se",
         "url": "https://www.sls.se"
+      }
+    },
+    {
+      "id": "6c3ae1fd39fb",
+      "title": "Träning mot depression och ångest – lika effektivt som medicin - News55",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlMtcTEzdmdCSVZEQnBCcHM5RzVsb3JBMkxxZ1lWS2FrU3o3Mkh0SVpnT1FtMXFJeFI5R2hnRnVvRktqUlVlNkQ5TmwtcU9ZM0VFdF91U3ZXcG9YQXN6OWYwVU9LVlRMVk5VMllVd1duVnBSTHp3VkVCRmduanNPY0dadFJ3b3RvckNWcS1Lem5md1E?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
