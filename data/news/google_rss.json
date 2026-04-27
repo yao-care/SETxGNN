@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-27T22:47:13.404667+00:00",
+  "fetched_at": "2026-04-27T23:50:20.880049+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -54,16 +54,6 @@
       }
     },
     {
-      "id": "823541e3675e",
-      "title": "Läkemedelsverkets årsstatistik: Ökat antal rapporter för diabetes- och viktläkemedel - Via TT",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRmZ2dG5HQTZzVU9odnhvY29yMExxWFh0cnZhVzJkSGZIaGoybWE3bERDbXZVSmFLT2w1VE1jMWJZY1R0VnRMTW1HTXoxeDFFM2ppZ3RGWC1lNWcwVVQ0c0tMOHF4cTd5MUVONHdYZUM5UHgwbEFRQmhzQVBvcWxmNF9Kb3VIeEl5Rm9wN0prN0NNa3lzQ0tmOUtfWkJpc2NhZEU5ZEVBenRUdjB5b2JKelB0LS14T1Zka09Yd19kRFo2Rkl0NWRkREIzNEdEVWNISkVhM0FZMTJ5cGV4TklrY1FrMEgyU1E?oc=5",
-      "published": "2026-04-27T07:26:48+00:00",
-      "source": {
-        "name": "Via TT",
-        "url": "https://via.tt.se"
-      }
-    },
-    {
       "id": "952d979fc251",
       "title": "Diabetesläkemedlet Ozempic kopplas till bättre psykisk hälsa - Karolinska Institutet",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXpIRm0xajlOYmROMGZDSkJ6WWcwck5RdFg3Q1FSMjFsalNYWUpTT3BnZ2dOcWFweTZJa0ZEdkdFaEpYWWhGOW81VnduXzdUd2paMU53dDI1MEE2Y0t2bnF3Snc5LWFkN3ZsZW9hNS03bnh3OTNxMVdJWWJTbGZ0VEtKTFdnckFxN1E?oc=5",
@@ -71,6 +61,16 @@
       "source": {
         "name": "Karolinska Institutet",
         "url": "https://nyheter.ki.se"
+      }
+    },
+    {
+      "id": "823541e3675e",
+      "title": "Läkemedelsverkets årsstatistik: Ökat antal rapporter för diabetes- och viktläkemedel - Via TT",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRmZ2dG5HQTZzVU9odnhvY29yMExxWFh0cnZhVzJkSGZIaGoybWE3bERDbXZVSmFLT2w1VE1jMWJZY1R0VnRMTW1HTXoxeDFFM2ppZ3RGWC1lNWcwVVQ0c0tMOHF4cTd5MUVONHdYZUM5UHgwbEFRQmhzQVBvcWxmNF9Kb3VIeEl5Rm9wN0prN0NNa3lzQ0tmOUtfWkJpc2NhZEU5ZEVBenRUdjB5b2JKelB0LS14T1Zka09Yd19kRFo2Rkl0NWRkREIzNEdEVWNISkVhM0FZMTJ5cGV4TklrY1FrMEgyU1E?oc=5",
+      "published": "2026-04-27T07:26:48+00:00",
+      "source": {
+        "name": "Via TT",
+        "url": "https://via.tt.se"
       }
     },
     {
@@ -154,6 +154,16 @@
       }
     },
     {
+      "id": "e786d9728a1e",
+      "title": "Diabetesläkemedel kopplas till minskad psykisk ohälsa - Svensk Farmaci",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGpaVjZ1MlhUM0Ffc1lfYXpfVUZ2N0FnMjBuckZOQ0ZvX2pMX1d3blBGQUZ4TUltYlJtbTUwUDFicF80ZWtjSDh2UndrYmZaSFJiTWxnVXlGeWdlRXBfLXoyWFFlUkhaR25QbWwtNnF1QTlMX2s1MldyOURVSFBtWDQzd1huZGpYVE11MjdQM3l4VkM5ZG9TUVdB?oc=5",
+      "published": "2026-03-19T07:00:00+00:00",
+      "source": {
+        "name": "Svensk Farmaci",
+        "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
       "id": "25fb26916e6c",
       "title": "Stabil tillgång till läkemedel – men ökad beredskap i ljuset av omvärldsläget - Via TT",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOGFJSk9EN0ZOZjh4MDhCcmxqdGtaQ1NIbEIyaHhRdXJib0xfTy1EUHdnNTJ1cTQ4dXdqSnI3NzQxTzNuMTBQbzZ0SHpMQjBTZ2Zvc2JWWlF2LUN1VmhnRlMwbXdJSXU2OGdaZ3h0N0lVRFRqVUJ2bThUcWNoVUNMY2NtenM2ZGNqNDZsNlZWY3F6YmpDQzEyTDdpZkQ4VGEzZE44M2RpT2dlVkI3RWVmSjl3SmRRUlFreFptaEF4RTdUS1ZiYWpJRFU4cGFwRjZLcGhKN25FSVQ4YlRLblE?oc=5",
@@ -191,26 +201,6 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "d9309c9c9ee1",
-      "title": "”Prutat och klart” – nytt ansökningssätt testas hos TLV - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGlIZC1yVFBsUW82S09iQW1EMUd6VTZVT1dUaEE0aGFTYmt6ZTlGSUZwdDV5TlBUX2Y1dDBvLTNJQWVpVkRCSXpuTG4tZ0l2M1FDVHIwWm5ldTJQS0FVMHNSSWNOR2ZWM1d0QmtybUh6SHJ1NHF2TUozR1JjWGN2TXdmbzA0cGIwUEhjeTRyam91LU1JWGc3alBvUzBPN3d4RE9aX0hYNA?oc=5",
-      "published": "2026-04-23T19:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "e786d9728a1e",
-      "title": "Diabetesläkemedel kopplas till minskad psykisk ohälsa - Svensk Farmaci",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGpaVjZ1MlhUM0Ffc1lfYXpfVUZ2N0FnMjBuckZOQ0ZvX2pMX1d3blBGQUZ4TUltYlJtbTUwUDFicF80ZWtjSDh2UndrYmZaSFJiTWxnVXlGeWdlRXBfLXoyWFFlUkhaR25QbWwtNnF1QTlMX2s1MldyOURVSFBtWDQzd1huZGpYVE11MjdQM3l4VkM5ZG9TUVdB?oc=5",
-      "published": "2026-03-19T07:00:00+00:00",
-      "source": {
-        "name": "Svensk Farmaci",
-        "url": "https://www.svenskfarmaci.se"
       }
     },
     {
@@ -314,6 +304,16 @@
       }
     },
     {
+      "id": "e9c72164d9b3",
+      "title": "Ny studie undersöker hur vanliga läkemedel mot halsbränna påverkar njurar och hjärta över tid - Karolinska Institutet",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVlqQXpWQVlkdHUteTVjR2FWUFdCbFBlQXMxblVtQmVQMTlGQmpQcHQzZ1hDMm9ZTWxoUExhNlpPVlRPZmhwd0pUUzFqVGEyUU1pMGpjNjV6UElZM3NDamhNdUNSUXloMU94aWVXOUkzUlM3am5VMVgybjUwcXVSVmxMaDRZckJsaVVYRlRRel9LU1RZR3lQMGxucUNITmlpSFdBWG5xeUVOTmh4ZEtQZXFvWk5UUQ?oc=5",
+      "published": "2025-10-20T07:00:00+00:00",
+      "source": {
+        "name": "Karolinska Institutet",
+        "url": "https://nyheter.ki.se"
+      }
+    },
+    {
       "id": "ac294cbc764e",
       "title": "”Ta fram nationella riktlinjer för läkemedel mot obesitas” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUhmclNfR3hBdlZndV9OUEJDMVRZZkJxZnhZdzZzRzRlYUZlR0poV0o0VzZVVmkyY3ZkTkNqNjRBcG9OT1UtREo0VURRZ0J1aTRvUGZhUDNmWmZwR1VKN3BlbWJXOE9HVFJIcHFJa2FOblp6RVNDZ051X2F5ZmZrUEJvRUxLdy1DcEJZWVV1YTdfbTd2TS1za001SnRHWUkyalU0?oc=5",
@@ -331,16 +331,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "e9c72164d9b3",
-      "title": "Ny studie undersöker hur vanliga läkemedel mot halsbränna påverkar njurar och hjärta över tid - Karolinska Institutet",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVlqQXpWQVlkdHUteTVjR2FWUFdCbFBlQXMxblVtQmVQMTlGQmpQcHQzZ1hDMm9ZTWxoUExhNlpPVlRPZmhwd0pUUzFqVGEyUU1pMGpjNjV6UElZM3NDamhNdUNSUXloMU94aWVXOUkzUlM3am5VMVgybjUwcXVSVmxMaDRZckJsaVVYRlRRel9LU1RZR3lQMGxucUNITmlpSFdBWG5xeUVOTmh4ZEtQZXFvWk5UUQ?oc=5",
-      "published": "2025-10-20T07:00:00+00:00",
-      "source": {
-        "name": "Karolinska Institutet",
-        "url": "https://nyheter.ki.se"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "db8bae791248",
+      "title": "Kosttillskott säljs för miljarder utan bevisad effekt – men slipper granskning - Expressen",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1BXc0d5cGdHT3hXSEdIcGZTamUyTW1wR2JWNjlnaEJGaGpNdDRrd3k2SGtqdFF0V0Zpai1OOXJJVDBzVWhTQm9yRXF4cWliSTRPbUZxdFdHcGlYTThLNDdjMWFwcmhvTHZVUENuVjVjbmpNOW4wSml4UXc1UnZIa0drb0xYTF9hdXc?oc=5",
+      "published": "2026-02-13T08:00:00+00:00",
+      "source": {
+        "name": "Expressen",
+        "url": "https://www.expressen.se"
       }
     }
   ]
