@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-02T15:41:50.733604+00:00",
+  "fetched_at": "2026-05-02T16:41:06.215999+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -74,16 +74,6 @@
       }
     },
     {
-      "id": "04dce985824e",
-      "title": "Antalet avsiktliga förgiftningar bland unga tjejer på fortsatt hög nivå - Örebronyheter",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOam1zTU9vNFJEaW5VcUxyVGFZZHhkbGtNMl9CcUk5c2JJOE8wb0ZwekQwVkg1NkRDa2o0MEFmeW9aMkpQcmF2RHpBV29kVGE4bDZOZUNmdkVSZ01wMHE1OENGN0hJekJaTDRDcmpqdm5jY1ZlejNNWUlUYzltT2Uza1FRWGRvRjBabkRSdGQ4d2lVMS01am1XaWk2WldxVFNja0dYVQ?oc=5",
-      "published": "2026-05-01T05:37:06+00:00",
-      "source": {
-        "name": "Örebronyheter",
-        "url": "https://www.orebronyheter.com"
-      }
-    },
-    {
       "id": "86241c6eb723",
       "title": "Dömer ut hyllade medicinen: Olyckligt - Expressen",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzb2pxMWNmOW10QWpuQUNpTmJONF8wSHBGX1drSl9WNkFEZE5HcThXNDFhNHlreWQzdjJ0dUcwUG5JbjlIMXFvT281c0NVSXRuNGRyaTBQeDRGalp2eGJYaUJldEtUaWlzd2RtWmx2RzJGcXhRQzg4M3dn?oc=5",
@@ -97,7 +87,7 @@
       "id": "10268b7b5d7b",
       "title": "Läkaren Marcus har postcovid – tvingas äta medicin dagligen - TV4 Nyheterna",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdFRJdlZQVzdUeENUVm8zOFdRQmRGU21qZm8zRUZsQUN2c3ZSTzRrNGg2ZjNqaWRPQVBmLXZ0TDBmWjNSVGk4aGhzZHI1MDJEZUN1WmxlU3BqaVhBaERhbDM2QTE5cXNOc2ZSS3dPODZLZXdWN2VvVzNNQ0ZiVm1pblptenZCU2NMTmlfMVVPWTFtb09uMXQzRGV3?oc=5",
-      "published": "2026-05-01T15:25:11+00:00",
+      "published": "2026-05-01T16:25:13+00:00",
       "source": {
         "name": "TV4 Nyheterna",
         "url": "https://www.tv4.se"
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "f2426acfdde4",
+      "title": "“Snart är det stopp” – nya regler för hemleverans av läkemedel - News55",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjIya3RNTEdPUENuYUwyakFhNE1qRHNrdHJQTEsyengzLTAzNEU3bEdNRl8zM3ZnM1hkbkttX2libllFMGpLWlNJeHhMMmFKRGxnZUN5NjVqZlp6UzJYMTJ1UE03TV81WFBFSDFUdG1vZWd3bmtaMTJEQkpuZEMwYllIWTUtX0dXbVRCbHUyNVE?oc=5",
+      "published": "2025-10-27T14:52:49+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     }
   ]
