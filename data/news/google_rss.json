@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-02T14:42:15.377484+00:00",
+  "fetched_at": "2026-05-02T15:41:50.733604+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -11,6 +11,16 @@
       "source": {
         "name": "Janusinfo.se",
         "url": "https://janusinfo.se"
+      }
+    },
+    {
+      "id": "a1e63ee66158",
+      "title": "Bråk om adhd-diagnoser blottar psykiatrins urkonflikt - Forskning & Framsteg",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObjh1ZklhLUxfdmxQOGJNMTdHMW12RDhLUERsVGV4RXpYOERtR1F2OWxTcFNYdlFGaGV0M3dlR3ZGS1dWX0Z6WnVTcFhDeGFRREFiV0JhVmtFaUVhMG5UVFEwNlhiQXlET2dmZnJuUjk0dElnMzREZjRUTzFuNUx3d3Nfcw?oc=5",
+      "published": "2026-04-30T12:21:58+00:00",
+      "source": {
+        "name": "Forskning & Framsteg",
+        "url": "https://fof.se"
       }
     },
     {
@@ -54,16 +64,6 @@
       }
     },
     {
-      "id": "55ca37f9cfa5",
-      "title": "Forskare försvarar alzheimer­läkemedel efter hårda kritiken - Forskning & Framsteg",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTHQ1VWVlX3h5X1l0a2lDazlHMWltWUxrTnY5a2hKQy1NTl9rRjlaSGVieUl4OFVCN2huUEYxbEZKLWdFemRWWXpDaENxZEYtT0JKUU9abDdwd3psRkpPMnBUWGR6bGtRVGpWek9uWnZUNl9IR2V4VDVvaWlnaGZhcGpvTQ?oc=5",
-      "published": "2026-04-20T13:31:41+00:00",
-      "source": {
-        "name": "Forskning & Framsteg",
-        "url": "https://fof.se"
-      }
-    },
-    {
       "id": "09d8b4f79343",
       "title": "Forskare kritiserar nej till alzheimerläkemedel: ”Svek mot patienter” - News55",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2JyaUtXTjQyaUJrMmp6YnlVX19ZQVNTazlZNGdVdDY3VU5ROFpGQWtMV2FOSVdaeWZPRHVKS2tFSzNLblVpaGwzZnF1S3A4MExxbExXMDBuZTdMV2RNWkcxbGFoQ28wVjlXRWc0aWtiNG4zX3c2aXBDWkQzbDZSNEw3T0JmVU9fOG5UOXFObG9ack5QZW44bm1hOA?oc=5",
@@ -94,13 +94,23 @@
       }
     },
     {
-      "id": "952d979fc251",
-      "title": "Diabetesläkemedlet Ozempic kopplas till bättre psykisk hälsa - Karolinska Institutet",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXpIRm0xajlOYmROMGZDSkJ6WWcwck5RdFg3Q1FSMjFsalNYWUpTT3BnZ2dOcWFweTZJa0ZEdkdFaEpYWWhGOW81VnduXzdUd2paMU53dDI1MEE2Y0t2bnF3Snc5LWFkN3ZsZW9hNS03bnh3OTNxMVdJWWJTbGZ0VEtKTFdnckFxN1E?oc=5",
-      "published": "2026-03-19T07:00:00+00:00",
+      "id": "10268b7b5d7b",
+      "title": "Läkaren Marcus har postcovid – tvingas äta medicin dagligen - TV4 Nyheterna",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdFRJdlZQVzdUeENUVm8zOFdRQmRGU21qZm8zRUZsQUN2c3ZSTzRrNGg2ZjNqaWRPQVBmLXZ0TDBmWjNSVGk4aGhzZHI1MDJEZUN1WmxlU3BqaVhBaERhbDM2QTE5cXNOc2ZSS3dPODZLZXdWN2VvVzNNQ0ZiVm1pblptenZCU2NMTmlfMVVPWTFtb09uMXQzRGV3?oc=5",
+      "published": "2026-05-01T15:25:11+00:00",
       "source": {
-        "name": "Karolinska Institutet",
-        "url": "https://nyheter.ki.se"
+        "name": "TV4 Nyheterna",
+        "url": "https://www.tv4.se"
+      }
+    },
+    {
+      "id": "55ca37f9cfa5",
+      "title": "Forskare försvarar alzheimer­läkemedel efter hårda kritiken - Forskning & Framsteg",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTHQ1VWVlX3h5X1l0a2lDazlHMWltWUxrTnY5a2hKQy1NTl9rRjlaSGVieUl4OFVCN2huUEYxbEZKLWdFemRWWXpDaENxZEYtT0JKUU9abDdwd3psRkpPMnBUWGR6bGtRVGpWek9uWnZUNl9IR2V4VDVvaWlnaGZhcGpvTQ?oc=5",
+      "published": "2026-04-20T13:31:41+00:00",
+      "source": {
+        "name": "Forskning & Framsteg",
+        "url": "https://fof.se"
       }
     },
     {
@@ -201,6 +211,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "952d979fc251",
+      "title": "Diabetesläkemedlet Ozempic kopplas till bättre psykisk hälsa - Karolinska Institutet",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXpIRm0xajlOYmROMGZDSkJ6WWcwck5RdFg3Q1FSMjFsalNYWUpTT3BnZ2dOcWFweTZJa0ZEdkdFaEpYWWhGOW81VnduXzdUd2paMU53dDI1MEE2Y0t2bnF3Snc5LWFkN3ZsZW9hNS03bnh3OTNxMVdJWWJTbGZ0VEtKTFdnckFxN1E?oc=5",
+      "published": "2026-03-19T07:00:00+00:00",
+      "source": {
+        "name": "Karolinska Institutet",
+        "url": "https://nyheter.ki.se"
       }
     },
     {
@@ -978,26 +998,6 @@
       "title": "”Sverige måste öka sitt engagemang inom global hälsa” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2Zkb3BEYTdMLXFWd09OcHNCYUtsTTdMd2cxd19CNThnMjd5cURwUDllRFRuVW56dWtmX25HU2tWU1pydDVxbGJ4OFdlWlU4bVlZejBWRnZSdjRTWC1aNll3bFFRNnI5endBVlJPOUZKcE9GYXFPOVJGM0RoSEcza0s4YnJfbUVUYlNDdFExOUZNbWlNTFZLbVFyOVc?oc=5",
       "published": "2025-06-30T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "f2426acfdde4",
-      "title": "“Snart är det stopp” – nya regler för hemleverans av läkemedel - News55",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjIya3RNTEdPUENuYUwyakFhNE1qRHNrdHJQTEsyengzLTAzNEU3bEdNRl8zM3ZnM1hkbkttX2libllFMGpLWlNJeHhMMmFKRGxnZUN5NjVqZlp6UzJYMTJ1UE03TV81WFBFSDFUdG1vZWd3bmtaMTJEQkpuZEMwYllIWTUtX0dXbVRCbHUyNVE?oc=5",
-      "published": "2025-10-27T14:52:49+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
-      "id": "d6fca557003c",
-      "title": "”Vi behöver tänka mer på vård som trängs undan” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVZGZHkxNzBYMUhTMzRDVmJ1VHhfLTZSa1p4RXVCN1dGNXBBZ1oyaFFGQWt1VVlMTWtybjF5VlNNMjhQNWNHa3NnQXFiWGZhMlRWX1FybHU1Q2dKSTE2R2tCc3d1X21iZzBMWlE0TFdMbGZCYVRkSUdQam1KQlF6MGl1SmpDc09mMW11WExwUHZfTnMyMHY0ZWdyY0RGRjQ?oc=5",
-      "published": "2025-02-18T08:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
