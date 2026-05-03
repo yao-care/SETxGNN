@@ -54,6 +54,37 @@ def get_parent_by_level(level: str) -> str:
         return "僅模型預測 (L5)"
 
 
+def get_template_strings(base_dir: Path) -> dict:
+    """Get localized template strings based on project name."""
+    proj = base_dir.name
+    templates = {
+        "SETxGNN": {
+            "evidence": "Evidensnivå", "indications": "Förutsagda indikationer",
+            "unit": "st", "toc": "Innehållsförteckning", "report": "Apotekarens bedömningsrapport",
+        },
+        "CHTxGNN": {
+            "evidence": "Evidenzniveau", "indications": "Vorhergesagte Indikationen",
+            "unit": "Stk", "toc": "Inhaltsverzeichnis", "report": "Pharmazeutischer Bewertungsbericht",
+        },
+        "JpTxGNN": {
+            "evidence": "エビデンスレベル", "indications": "予測適応症",
+            "unit": "件", "toc": "目次", "report": "薬剤師評価レポート",
+        },
+        "ARTxGNN": {
+            "evidence": "Nivel de evidencia", "indications": "Indicaciones predichas",
+            "unit": "", "toc": "Índice", "report": "Informe de evaluación farmacéutica",
+        },
+        "BrTxGNN": {
+            "evidence": "Nível de evidência", "indications": "Indicações previstas",
+            "unit": "", "toc": "Índice", "report": "Relatório de avaliação farmacêutica",
+        },
+    }
+    return templates.get(proj, {
+        "evidence": "證據等級", "indications": "預測適應症",
+        "unit": "個", "toc": "目錄", "report": "藥師評估報告",
+    })
+
+
 def get_disclaimer(base_dir: Path) -> str:
     """Get localized disclaimer based on project name."""
     proj = base_dir.name
@@ -73,6 +104,7 @@ def get_disclaimer(base_dir: Path) -> str:
 def sync_notes_to_docs():
     """Main sync function."""
     base_dir = Path(__file__).parent.parent
+    t = get_template_strings(base_dir)
     notes_dir = base_dir / "data" / "notes"
     bundles_dir = base_dir / "data" / "bundles"
     docs_drugs_dir = base_dir / "docs" / "_drugs"
@@ -121,12 +153,12 @@ indication_count: {indication_count}
 # {title}
 {{: .fs-9 }}
 
-證據等級: **{evidence_level}** | 預測適應症: **{indication_count}** 個
+{t['evidence']}: **{evidence_level}** | {t['indications']}: **{indication_count}** {t['unit']}
 {{: .fs-6 .fw-300 }}
 
 ---
 
-## 目錄
+## {t['toc']}
 {{: .no_toc .text-delta }}
 
 1. TOC
@@ -136,7 +168,7 @@ indication_count: {indication_count}
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## {t['report']}
 
 </div>
 

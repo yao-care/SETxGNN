@@ -2,7 +2,7 @@
 layout: default
 title: Fulvestrant
 parent: 僅模型預測 (L5)
-nav_order: 64
+nav_order: 52
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Fulvestrant
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,99 +25,92 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-Using the `txgnn-pipeline` skill to confirm context — this is a TW (Taiwan) deployment report. Now generating the evaluation report from the Evidence Pack.
+Jag har läst in TxGNN-pipeline-skillet och analyserar nu Evidence Pack:et för Fulvestrant. Rapporten genereras nedan.
 
 ---
 
-# Fulvestrant: From ER+ Breast Cancer to HIV Infectious Disease
+# Fulvestrant: Från bröstcancer till HIV-infektion
 
-## One-Sentence Summary
+## Sammanfattning
 
-Fulvestrant (Faslodex) is an internationally established selective estrogen receptor degrader (SERD), widely used for hormone receptor-positive (HR+) advanced breast cancer — though it holds no registered approval in Taiwan.
-The TxGNN model predicts it may have activity against **HIV Infectious Disease**,
-with **0 clinical trials** and **1 indirectly related publication** currently available to support this direction.
+Fulvestrant är en selektiv östrogenreceptordegraderare (SERD) som globalt är godkänd för behandling av hormonreceptorpositiv (HR+) avancerad bröstcancer hos postmenopausala kvinnor, men som ännu inte är godkänd på den svenska marknaden. TxGNN-modellen rankar **HIV-infektion** som den högst förutsagda nya indikationen med en poäng på 99,91%. Evidensunderlaget är dock ytterst svagt – det finns **inga registrerade kliniska prövningar** och den enda identifierade publikationen handlar om HTLV-1 (ett annat retrovirus), inte HIV – vilket tyder på att förutsägelsen med stor sannolikhet är en modellbaserad **falsk positiv** snarare än ett biologiskt underbyggt terapeutiskt samband.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
-|------|---------|
-| Original Indication | ER+ advanced breast cancer (internationally approved; not registered in Taiwan) |
-| Predicted New Indication | HIV Infectious Disease |
-| TxGNN Prediction Score | 99.91% |
-| Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available in this dataset. Based on known information, Fulvestrant is a SERD (Selective Estrogen Receptor Degrader) — it binds to, blocks, and promotes degradation of the estrogen receptor (ER), effectively silencing estrogen signaling. Its efficacy in ER+ advanced breast cancer has been demonstrated across multiple international Phase 3 trials, and it is approved in countries including the United States, EU, and Japan under the brand name Faslodex.
-
-The theoretical rationale connecting Fulvestrant to HIV infectious disease runs through immune modulation: estrogen receptors are expressed on CD4+ T lymphocytes and macrophages — the very cell types that HIV infects and depletes. Modulating ER signaling could, in principle, alter the immune microenvironment in which HIV replicates. Sex-based differences in HIV disease progression and immune response are well documented, suggesting a biological role for sex hormones in HIV pathophysiology.
-
-However, the only available supporting publication (PMID 40343334) investigates **HTLV-1-associated myelopathy (HAM)** — a neuroinflammatory disease caused by a retrovirus from an entirely different family than HIV. The biological extrapolation from HTLV-1 to HIV is scientifically tenuous. No study has directly examined the effect of Fulvestrant or any SERD in HIV infection, whether in vitro, in animal models, or in humans. The TxGNN prediction likely reflects shared graph topology between ER signaling and immune pathways rather than disease-specific mechanistic evidence.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Ej godkänd i Sverige (globalt: HR+/HER2-negativ avancerad bröstcancer) |
+| Förutsagd ny indikation | HIV-infektion |
+| TxGNN-förutsägelsepoäng | 99,91% |
+| Evidensnivå | L4 |
+| Marknadsstatus i Sverige | Ej marknadsförd |
+| Antal godkännanden i Sverige | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Clinical Trial Evidence
+## Varför är denna förutsägelse rimlig?
 
-Currently no related clinical trials registered for Fulvestrant in HIV infectious disease.
+Fulvestrant verkar som en selektiv östrogenreceptordegraderare: det binder till östrogenreceptorn (ERα) med hög affinitet, inducerar en konformationsförändring som markerar receptorn för proteasomal nedbrytning och stänger av ER-beroende gentranskription. Denna mekanism är specifikt designad för att eliminera östrogenreceptorsignalering i hormonberoende cancerceller – vilket förklarar dess etablerade effekt vid HR+ bröstcancer.
 
----
+HIV-infektion drivs av ett helt annat biologiskt program: viruset binder CD4-receptorn och CCR5/CXCR4-koreceptorerna på T-celler, transkriberar sitt RNA-genom med ett eget omvänt transkriptas och integrerar sig i värdcellens DNA via ett viralt integras. Fulvestrants SERD-mekanism saknar alla kända interventionspunkter mot dessa steg i HIV:s replikationscykel.
 
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [40343334](https://pubmed.ncbi.nlm.nih.gov/40343334/) | 2025 | Multi-cohort Cross-omics Analysis | Research Square (Preprint) | Systems biology analysis of HTLV-1-associated myelopathy (HAM) — explores (epi)genomic disease mechanisms and potential therapeutic targets in a neglected retroviral neuroinflammatory disorder affecting predominantly women; Fulvestrant's relevance to HIV is indirect and not directly examined |
+TxGNN:s höga poäng för denna kombination härrör med stor sannolikhet från en **grafpropagationsartefakt**: den enda tillgängliga publikationen (PMID 40343334) studerar HTLV-1-associerad myelopati – ett neurologiskt tillstånd orsakat av ett *annat* retrovirus – och nämner HIV-behandlingsstrategier enbart som inspirationskälla. I TxGNN:s kunskapsgraf ligger HTLV-1- och HIV-noder nära varandra, vilket har spridit signalen till HIV-noden. Förutsägelsen bedöms sakna biologisk plausibilitet och utgör ett falskt positivt fynd.
 
 ---
 
-## Taiwan Market Information
+## Kliniska prövningar
 
-Fulvestrant is not registered in Taiwan. No product authorizations are on file with the TFDA, and no approved indications are available for local reference.
-
----
-
-## Cytotoxicity
-
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — Hormonal/Endocrine (SERD: Selective Estrogen Receptor Degrader) |
-| Myelosuppression Risk | Low (SERDs do not cause significant bone marrow suppression; not a conventional cytotoxic agent) |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Liver function tests (LFTs), injection site reactions (IM injection formulation), bone mineral density (long-term use), signs of hepatotoxicity |
-| Handling Protection | Follow institutional antineoplastic injectable drug handling protocols; standard cytostatic precautions apply |
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Safety Considerations
+## Litteraturbevis
 
-Please refer to the package insert for safety information.
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|----|-----|-----------|--------------|
+| [40343334](https://pubmed.ncbi.nlm.nih.gov/40343334/) | 2025 | Multi-kohort cross-omics | Research Square (preprint) | Systembiologisk analys av HTLV-1-associerad myelopati (HAM) – en neurologisk sjukdom orsakad av HTLV-1, *inte HIV*. Studien identifierar patogenesmekanismer och terapeutiska mål vid HAM, med HIV- och MS-strategier som referenspunkter. Ingen direkt koppling till Fulvestrant eller HIV-behandling. |
 
 ---
 
-## Conclusion and Next Steps
+## Cytotoxicitet
 
-**Decision: Hold**
+Fulvestrant klassificeras som ett antineoplastiskt läkemedel (endokrin behandling) baserat på läkemedelsklass (SERD) och dess globala användning inom cancerbehandling.
 
-**Rationale:**
-There is no direct clinical or preclinical evidence supporting Fulvestrant's efficacy in HIV infectious disease. The sole available publication addresses HTLV-1 — a distinct retrovirus — making the biological extrapolation to HIV unreliable. With L5 evidence (model prediction only), this indication is not ready for further translational investment at this time.
+| Post | Innehåll |
+|------|----------|
+| Cytotoxicitetsklassificering | Målriktad terapi – endokrin behandling (selektiv östrogenreceptordegraderare, SERD); ej konventionellt cytotoxiskt agens |
+| Myelosuppressionsrisk | Se produktresumén för varningar och försiktighetsåtgärder |
+| Emetogenicitetsklassificering | Se produktresumén för varningar och försiktighetsåtgärder |
+| Övervakningspunkter | Se produktresumén för varningar och försiktighetsåtgärder |
+| Hanteringsskydd | Hanteras enligt gällande riktlinjer för antineoplastiska läkemedel |
 
-**To proceed, the following is needed:**
-- In vitro studies assessing ER modulation effects on HIV replication in CD4+ T cells and macrophages (establish proof-of-concept)
-- Preclinical HIV animal model data (e.g., humanized mouse or NHP models)
-- Mechanistic clarification of the ER–HIV replication interaction pathway
-- Detailed MOA and safety data retrieved from DrugBank and the TFDA package insert (both currently absent from this dataset)
-- Assessment of whether IM depot administration (Fulvestrant's only available route) is compatible with HIV treatment settings
+---
+
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- TxGNN:s toppförutsägelse (HIV-infektion, 99,91%) bedöms som ett falskt positivt resultat orsakat av grafnodsnärhet mellan HTLV-1 och HIV i kunskapsgrafen. Det saknas fullständigt biologisk plausibilitet för en SERD-intervention mot HIV:s replikationscykel, och inget direkt kliniskt eller prekliniskt stöd existerar.
+
+**För att gå vidare krävs:**
+- Omvärdering mot alternativa indikationer med starkare biologisk plausibilitet – exempelvis **multipel endokrin neoplasi** (rang 2, 99,85%), där ER-uttryck i pNET och prolaktinom ger en mekanistisk grund och 50 indirekta kliniska prövningar identifierats
+- Komplettering av MOA-data via DrugBank API (åtgärdspost DG002)
+- Inhämtning av säkerhetsinformation från produktresumé / TFDA (åtgärdspost DG001) innan säkerhetsbedömning kan genomföras
+- Litteratursökning med specificerade söktermer kopplade till SERD + respektive ny indikation för att bekräfta eller avfärda biologisk plausibilitet
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

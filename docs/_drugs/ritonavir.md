@@ -2,7 +2,7 @@
 layout: default
 title: Ritonavir
 parent: 僅模型預測 (L5)
-nav_order: 115
+nav_order: 94
 evidence_level: L5
 indication_count: 3
 ---
@@ -10,12 +10,12 @@ indication_count: 3
 # Ritonavir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,89 +25,88 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-以下是根據 Evidence Pack 產生的評估報告：
+Jag använder **txgnn-pipeline**-skickligheten för att hantera TxGNN-relaterat arbete. Nu genererar jag rapporten baserat på Evidence Pack-data.
 
 ---
 
-# Ritonavir: From HIV Infection to Simian Immunodeficiency Virus Infection
+# Ritonavir: Från HIV-1-infektion till SIV-infektion (icke-mänskliga primater)
 
-## One-Sentence Summary
+## Sammanfattning
 
-Ritonavir is a well-established HIV protease inhibitor, globally approved as part of combination antiretroviral therapy (cART) for HIV-1 infection, though it currently holds no registrations in the Taiwan drug database.
-The TxGNN model predicts it may be effective for **Simian Immunodeficiency Virus (SIV) Infection**, with **0 clinical trials** and **12 publications** supporting this direction—all derived from preclinical animal models and in vitro studies.
+Ritonavir är en proteashämmare som ursprungligen godkändes för behandling av HIV-1-infektion hos människor, där det verkar genom att hämma virusets aspartatproteas och blockera mognaden av nya infektiösa viruspartiklar. TxGNN-modellen förutsäger att det kan vara effektivt mot **simian immunodeficiency virus (SIV)-infektion hos icke-mänskliga primater**, med ett förutsägelsepoäng på **99,9%**. Evidensbasen består av **12 vetenskapliga publikationer** – inga registrerade kliniska prövningar finns för denna specifika indikation – och rör uteslutande pre-kliniska djurmodeller, vilket begränsar tillämpbarheten till veterinärmedicinska och experimentella forskningskontexter, inte human klinisk återanvändning.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
+| Post | Innehåll |
 |------|---------|
-| Original Indication | HIV-1 infection (globally established; not registered in current market database) |
-| Predicted New Indication | Simian Immunodeficiency Virus (SIV) Infection |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L4 (Preclinical: Animal & In Vitro Studies) |
-| Sweden Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Ursprunglig indikation | HIV-1-infektion (proteashämmare) |
+| Förutsagd ny indikation | Simian immunodeficiency virus (SIV)-infektion |
+| TxGNN-förutsägelsepoäng | 99,9% |
+| Evidensnivå | L3 – Djurexperimentella studier och in vitro-data |
+| Marknadsstatus i Sverige | Inte registrerat |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Varför är denna förutsägelse rimlig?
 
-Currently, detailed mechanism of action data is not available in the regulatory database. Based on established pharmacological knowledge, Ritonavir is an HIV protease inhibitor originally developed to treat HIV-1 infection. It acts by competitively binding to the viral protease active site, blocking cleavage of the Gag-Pol polyprotein precursor and thereby preventing viral particle maturation into infectious virions.
+Ritonavir hämmar HIV-1:s aspartatproteas – ett enzym som är nödvändigt för att klyva Gag-Pol-polyproteinet till funktionella strukturproteiner och enzymer. Utan denna klyv bildas omogna, icke-infektiösa viruspartiklar och replikationscykeln bryts. Denna verkningsmekanism är välkarakteriserad och utgör grunden för ritonavirs etablerade roll i HIV-behandling, dels som aktiv proteashämmare och dels som farmakokinetisk förstärkare (CYP3A4-hämning) för andra proteashämmare.
 
-The mechanistic link to SIV infection is biologically coherent. SIV and HIV belong to the same genus (*Lentivirus*) of primate retroviruses, and their protease structures are highly conserved. The substrate-binding groove of SIV protease differs only minimally from that of HIV-1, and multiple in vitro studies have directly confirmed that Ritonavir inhibits SIVmac239 at nanomolar concentrations (IC₅₀ ≈ 13 nM) comparable to its activity against HIV-1 (IC₅₀ ≈ 25 nM). This cross-reactivity is a direct consequence of shared protease architecture rather than an indirect inference.
+SIV:s proteas delar hög tredimensionell strukturell homologi med HIV-1-proteaset. Det konserverade aktiva sätets aminosyratriplett (Asp25-Thr26-Gly27) är identisk mellan de båda virusarna. Direkta laboratorieexperiment (PMID 12709355; PMID 15040537) har mätt SIV:s känslighet för ritonavir via biokemiska metoder och bekräftat hämning av SIVmac239 med ett IC₅₀ på cirka 13 nM – en effektivitet jämförbar med, om än något lägre än, den mot HIV-1 (~25 nM i samma assay).
 
-That said, a critical context applies: SIV infection is primarily a disease of non-human primates and a research tool for modeling HIV/AIDS. It does not represent a direct human clinical indication in the conventional sense. The high TxGNN score likely reflects the drug's mechanistic overlap and the abundance of SIV/ART co-occurrence signals in the knowledge graph, rather than an actionable human repurposing opportunity. Occupational exposure risk in primate research facilities represents the only narrow human-facing scenario.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Ritonavir in Simian Immunodeficiency Virus Infection.
+Mekanismen stöds vidare av flera in vivo-studier med rhesus- och cynomolgus-makaker (PMID 16973590; PMID 25033210; PMID 12951220; PMID 22737073), där ritonavir-innehållande kombinationsbehandling effektivt supprimerade SIV-virusnivåerna i blodet och förbättrade immunologiska parametrar. Det är dock av central vikt att understryka att **SIV är en sjukdom hos icke-mänskliga primater** – denna förutsägelse är relevant inom veterinärmedicin och experimentella primata HIV-modeller, men utgör inte ett klassiskt humanmedicinskt återanvändningsscenario.
 
 ---
 
-## Literature Evidence
+## Kliniska prövningar
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [12709355](https://pubmed.ncbi.nlm.nih.gov/12709355/) | 2003 | In Vitro | Antimicrob Agents Chemother | Direct comparison of SIVmac239 and HIV-1 susceptibility to protease inhibitors; Ritonavir inhibited SIV at IC₅₀ of 13 nM vs 25 nM for HIV-1, confirming cross-reactivity |
-| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In Vitro | Antiviral Ther | Evaluated 16 approved antiretrovirals (including Ritonavir) against HIV-2, SIVmac251, SIVb670, and SHIV strains; informed guidance for treatment and post-exposure prophylaxis |
-| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | Animal Study (NHP) | J Virol | Quadruple ART including Ritonavir in SIVmac251-infected cynomolgus macaques; characterized rapid viral decay kinetics analogous to HIV-1 mathematical models |
-| [22737073](https://pubmed.ncbi.nlm.nih.gov/22737073/) | 2012 | Animal Study (NHP) | PLoS Pathog | Highly intensified ART (including Ritonavir-based regimen) in SIVmac251-infected rhesus macaques achieved sustained viremia suppression and measurable reduction of the viral reservoir |
-| [25033210](https://pubmed.ncbi.nlm.nih.gov/25033210/) | 2014 | Animal Study (NHP) | PLoS One | cART + HDAC inhibitor (SAHA) in SIV-infected Chinese-origin rhesus macaques; established a reliable NHP model for studying viral reservoirs on suppressive ART |
-| [17350308](https://pubmed.ncbi.nlm.nih.gov/17350308/) | 2007 | Animal Study | Microbes Infect | Constructed a novel SHIV carrying the HIV-1-derived protease gene to enable in vivo testing of protease inhibitors; viral growth fully blocked by protease inhibitors in vitro and attenuated in rhesus macaques |
-| [12951220](https://pubmed.ncbi.nlm.nih.gov/12951220/) | 2003 | Animal Study (NHP) | J Virol Methods | Oral HAART (AZT + 3TC + Lopinavir/Ritonavir) in SHIV89.6P-infected macaques; assessed CD8 subset kinetics following treatment |
-| [34903055](https://pubmed.ncbi.nlm.nih.gov/34903055/) | 2021 | Animal Study (NHP) | mBio | Demonstrated that lentiviral brain reservoirs persist in microglia despite effective ART across multiple NHP and human models; relevant to CNS sanctuary site understanding |
-| [12186895](https://pubmed.ncbi.nlm.nih.gov/12186895/) | 2002 | Mechanistic | J Virol | HIV-1 Vif protein is cleaved by viral protease; establishes mechanistic role of protease in processing accessory proteins, relevant to understanding PI activity scope |
-| [9875393](https://pubmed.ncbi.nlm.nih.gov/9875393/) | 1998 | In Vitro | Antiviral Chem Chemother | K-12 fluoroquinolone showed activity against ritonavir-resistant HIV strains and SIV; Ritonavir used as resistance benchmark, confirming SIV as a valid test system |
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Safety Considerations
+## Litteraturbevis
 
-Please refer to the package insert for safety information.
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|-----|------|-----------|--------------|
+| [12709355](https://pubmed.ncbi.nlm.nih.gov/12709355/) | 2003 | In vitro (komparativ enzymassay) | Antimicrobial Agents and Chemotherapy | SIVmac239 hämmades av ritonavir med IC₅₀ ~13 nM; direkt biokemisk jämförelse mot HIV-1 bekräftar korsreaktivitet |
+| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In vitro (komparativ) | Antiviral Therapy | 16 godkända antiretroviraler testades mot HIV-2, SIV mac251/B670 och SHIV; SIV-stammer visade variabel men påvisbar känslighet för proteashämmare |
+| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | In vivo (cynomolgus-makak) | Journal of Virology | Fyra SIVmac251-infekterade makaker behandlades med fyra-läkemedels-HAART under 7 dagar; snabb viral nedgång observerades med dynamik liknande HIV-1 hos människa |
+| [22737073](https://pubmed.ncbi.nlm.nih.gov/22737073/) | 2012 | In vivo (rhesus-makak) | PLoS Pathogens | Högintensiv ART (innehållande ritonavir) i SIVmac251-infekterade makaker inducerade långvarig viral suppression och begränsade storleken på virusreservoaren |
+| [25033210](https://pubmed.ncbi.nlm.nih.gov/25033210/) | 2014 | In vivo (kinesisk rhesus-makak) | PLoS ONE | SIV-infekterade makaker fick intensiv cART kombinerat med HDAC-hämmaren SAHA; ritonavir-baserad regim supprimerade virusnivåerna och utvärderades som HIV-reservoarmodell |
+| [12951220](https://pubmed.ncbi.nlm.nih.gov/12951220/) | 2003 | In vivo (SHIV-makak) | Journal of Virological Methods | Oral Lopinavir/Ritonavir-baserad HAART i SHIV 89.6P-infekterade makaker supprimerade virusmängden och förbättrade CD8-subsetprofilen |
+| [17350308](https://pubmed.ncbi.nlm.nih.gov/17350308/) | 2007 | In vivo (SHIV-modell) | Microbes and Infection | Konstruerade en ny SHIV med HIV-1-proteas i SIVmac-genomet; komplett viral hämning med proteashämmare bekräftar targetbarhet av primata virusproteaser |
+| [34903055](https://pubmed.ncbi.nlm.nih.gov/34903055/) | 2021 | In vivo (NHP + human) | mBio | Lentivirusinfektion kvarstår i hjärnan trots effektiv ART i NHP-modeller och HIV-patienter; belyser gränserna för proteashämmarbaserad behandling mot virusreservoarer |
+| [9875393](https://pubmed.ncbi.nlm.nih.gov/9875393/) | 1998 | In vitro | Antiviral Chemistry & Chemotherapy | Fluorokinolonderivat K-12 testades mot HIV-1 (inkl. ritonavir-resistenta stammar), HIV-2 och SIV; ritonavir användes som referenskontroll |
+| [12186895](https://pubmed.ncbi.nlm.nih.gov/12186895/) | 2002 | Grundforskning (biokemisk) | Journal of Virology | HIV-1 Vif-protein genomgår intraviriont proteolytisk bearbetning av viralt proteas; bidrar till förståelse av HIV/SIV-proteasets substratspecificitet och funktion |
 
 ---
 
-## Conclusion and Next Steps
+## Säkerhetsaspekter
 
-**Decision: Hold**
+Se produktresumén för säkerhetsinformation.
 
-**Rationale:**
-SIV infection is primarily a disease of non-human primates and serves as a research surrogate for HIV/AIDS; it does not constitute a conventional human clinical indication. While in vitro evidence confirms Ritonavir inhibits SIV protease at nanomolar concentrations comparable to HIV-1, all 12 supporting publications are preclinical (animal models and in vitro assays), with no registered human clinical trials. The mechanistic basis is sound, but the translational pathway to a human indication is not established.
+---
 
-**To proceed, the following is needed:**
-- Clarify the clinical question: Is the goal (a) validating Ritonavir as a preclinical tool in SIV models, or (b) evaluating occupational post-exposure prophylaxis for primate researchers?
-- If (b), conduct a systematic review of occupational SIV exposure cases and existing PEP protocols
-- Obtain formal mechanism of action documentation (DrugBank API) to complete the regulatory safety profile
-- Retrieve Taiwan package insert (TFDA PDF) to populate key warnings, contraindications, and DDI data before any S1 safety assessment can proceed
-- Consider whether a higher-value repurposing target exists, given Ritonavir's well-known role as a CYP3A4 inhibitor used as a pharmacokinetic booster (e.g., in Paxlovid), which may represent a more clinically actionable direction
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+Förutsägelsen har en välgrundad mekanistisk bas – SIV-proteasets strukturella homologi med HIV-1-proteaset är experimentellt verifierad, och ritonavir demonstrerar påvisbar hämmande aktivitet mot SIV i både in vitro- och in vivo-modeller. Eftersom SIV är en sjukdom exklusivt hos icke-mänskliga primater saknas ett direkt humanmedicinskt återanvändningsscenario; tillämpningen rör istället veterinärmedicinska eller pre-kliniska forskningskontexter, där bedömningsprocessen skiljer sig fundamentalt från human klinisk prövning.
+
+**För att gå vidare krävs:**
+- Klargörande av tillämpningskontext: veterinärmedicin (behandling av SIV-infekterade primater i fångenskap) eller experimentell djurmodell för HIV-kurationsresearch
+- Inhämtning av fullständig MOA-dokumentation från DrugBank (DataGap DG002)
+- Inhämtning av säkerhets- och kontraindikationsdata från produktresumén (DataGap DG001)
+- Om human tillämpning avses (t.ex. HIV-1-behandling i Sverige): komplettera med EMA/FASS-godkännandeunderlag, eftersom läkemedlet saknar registrering i Sverige per tillgängliga data
+- Uteslutning av övriga förutsägda indikationer (felin AIDS-liknande syndrom; neurodevelopmental disorder) som båda bedömts som Avvakta (L4 respektive L5) med svag eller obefintlig mekanistisk grund
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

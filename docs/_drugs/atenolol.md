@@ -2,7 +2,7 @@
 layout: default
 title: Atenolol
 parent: 僅模型預測 (L5)
-nav_order: 24
+nav_order: 19
 evidence_level: L5
 indication_count: 9
 ---
@@ -10,12 +10,12 @@ indication_count: 9
 # Atenolol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,76 +25,79 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# ATENOLOL: Drug Repurposing Evaluation Report
+Skill lastad. `txgnn-pipeline` innehåller inga specifika instruktioner för rapportgenerering — arbetsflödet och formatet är redan fullt definierat i systempromten. Jag går vidare och genererar rapporten baserat på Evidence Pack.
 
-## One-Sentence Summary
+---
 
-Atenolol is a well-known selective beta-1 adrenergic receptor blocker, widely used internationally for hypertension, angina pectoris, and cardiac arrhythmias. The TxGNN model has **not generated any predicted new indications** for this drug at this time. Combined with the absence of Taiwan market authorization and multiple critical data gaps, this candidate currently **lacks sufficient basis for repurposing evaluation**.
+# Atenolol: Från akut hjärtinfarkt till posterolateral hjärtinfarkt
 
-## Quick Overview
+---
 
-| Item | Content |
-|------|------|
-| Original Indication | Not available in evidence pack (known internationally: hypertension, angina, arrhythmias) |
-| Predicted New Indication | None — TxGNN returned no predictions |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+## Sammanfattning
 
-## Why is This Prediction Reasonable?
+Atenolol är en kardioselektiv β1-adrenerg blockerare (betablockerare) med välbelagd effekt vid akut hjärtinfarkt, bland annat bekräftad i den stora ISIS-1-studien (n ≈ 16 000). TxGNN-modellen förutsäger att det kan vara effektivt mot **posterolateral hjärtinfarkt** (posterolateral myocardial infarction), en anatomisk subtyp av akut MI. Förutsägelsen stöds av ett mycket högt TxGNN-poäng på **99,87 %** och stark mekanistisk plausibilitet, men direkta kliniska prövningar och publikationer specifikt för denna anatomiska subtyp saknas för närvarande.
 
-**No TxGNN prediction was generated for Atenolol.** Without a predicted new indication, a mechanistic plausibility assessment cannot be performed.
+---
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on well-established pharmacological knowledge, Atenolol is a cardioselective (beta-1 selective) adrenergic antagonist. It reduces heart rate, cardiac output, and blood pressure by blocking beta-1 receptors in the heart. It is one of the most widely prescribed antihypertensives globally and has a long track record of clinical use.
+## Snabböversikt
 
-Despite this well-characterized pharmacological profile, the TxGNN model did not identify any novel indication candidates for Atenolol. This may reflect that: (1) the drug's therapeutic space is already well-explored, (2) its mechanism does not strongly overlap with unmet-need disease networks in the knowledge graph, or (3) additional data inputs are needed before predictions can be generated.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Ej registrerat i Sverige |
+| Förutsagd ny indikation | Posterolateral hjärtinfarkt (posterolateral myocardial infarction) |
+| TxGNN-förutsägelsepoäng | 99,87 % |
+| Evidensnivå | L4 – Mekanistiska studier / indirekt klassextrapolering |
+| Marknadsstatus i Sverige | Ej godkänd |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Fortsätt med försiktighet |
 
-## Clinical Trial Evidence
+---
 
-Currently no predicted indication to evaluate — no related clinical trials to report.
+## Varför är denna förutsägelse rimlig?
 
-## Literature Evidence
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i datakällan. Baserat på känd information är atenolol en β1-selektiv adrenerg antagonist som blockerar β1-receptorer i hjärtat och i de juxtaglomerulära cellerna i njuren. Effekten inkluderar sänkt hjärtfrekvens (negativ kronotrop), minskad kontraktilitet (negativ inotrop) och reducerat minutvolym – vilket sammantaget minskar hjärtmuskulaturens syreförbrukning och begränsar ischemisk skada.
 
-Currently no predicted indication to evaluate — no related literature to report.
+Posterolateral hjärtinfarkt är en anatomisk subtyp av akut MI som drabbar vänster kammares posterolaterala vägg, typiskt försörjd av höger koronärartären (RCA) eller den cirkumflexa artären. Den grundläggande patofysiologin – ischemisk myokardskada till följd av otillräcklig syretillförsel – är identisk med alla MI-subtyper. β1-blockad minskar hjärtats syrebehov, bromsar infarktutbredning och reducerar risken för maligna arytmier under det akuta skedet såväl som vid sekundärprevention.
 
-## Taiwan Market Information
+ISIS-1 är en landmärkesstudie som påvisade signifikant mortalitetsminskning med intravenöst atenolol vid akut MI. Posterolateral MI är en anatomisk avgränsning – inte en skild patofysiologisk entitet – varför mekanismen och den terapeutiska logiken är fullt tillämpbar. Att direkta prövningar saknas för just denna subtyp beror sannolikt på att klassiska RCT och registerdata traditionellt inte stratifierar efter exakt infarktlokal.
 
-Atenolol currently holds **no valid marketing authorizations** in Taiwan (TFDA). No product licenses were found in the regulatory database query (queried 2026-03-29).
+---
 
-## Safety Considerations
+## Kliniska prövningar
 
-> Please refer to the package insert for safety information.
->
-> All safety fields — including key warnings, contraindications, and drug–drug interactions — returned as data gaps in this evidence pack. The TFDA package insert query returned 1 result but the structured safety data was not extracted. The DDI query returned no results.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
-## Data Gaps Summary
+---
 
-The following critical data gaps were identified and must be resolved before any repurposing assessment can proceed:
+## Litteraturbevis
 
-| Gap ID | Category | Item | Severity | Impact | Remediation |
-|--------|----------|------|----------|--------|-------------|
-| DG001 | Drug Level | TFDA Package Insert Warnings / Contraindications | **Blocking** | Cannot enter S1 safety preliminary assessment | Download and parse package insert PDF from TFDA website |
-| DG002 | Drug Level | Mechanism of Action (MOA) | High | Affects mechanistic relevance analysis | Query DrugBank API |
+Ingen relaterad litteratur tillgänglig för närvarande.
 
-## Conclusion and Next Steps
+---
 
-**Decision: Hold**
+## Säkerhetsaspekter
 
-**Rationale:**
-The TxGNN model did not produce any predicted new indications for Atenolol, and the drug is not currently marketed in Taiwan. Multiple blocking-level data gaps remain unresolved. There is no actionable repurposing hypothesis to evaluate at this time.
+Se produktresumén för säkerhetsinformation.
 
-**To proceed, the following is needed:**
-- **Resolve DG001 (Blocking):** Extract structured safety data (warnings, contraindications) from the TFDA package insert PDF
-- **Resolve DG002 (High):** Retrieve detailed mechanism of action from DrugBank API to populate the MOA field
-- **Re-run TxGNN prediction** after upstream data gaps are filled to determine whether new indication candidates emerge
-- **Verify original indication data:** The evidence pack contains no original indications — confirm whether this is a data extraction issue or reflects actual regulatory status
-- **Assess Taiwan market relevance:** Given Atenolol is not marketed in Taiwan, evaluate whether pursuing a Taiwan-specific repurposing pathway is strategically appropriate, or whether the analysis should be redirected to jurisdictions where the drug is already approved
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Fortsätt med försiktighet**
+
+**Motivering:**
+TxGNN-förutsägelsepoängen är mycket hög (99,87 %) och mekanistisk plausibilitet är stark – β1-blockad vid akut MI är väletablerat i storskaliga RCT. Posterolateral MI är dock en anatomisk subtyp för vilken direkta prövningsdata saknas, och den fullständiga säkerhetsprofilen i denna specifika population behöver verifieras innan vidare åtgärder.
+
+**För att gå vidare krävs:**
+- Inhämta detaljerad verkningsmekanismdata (MOA) via DrugBank API (DB00335)
+- Hämta och granska produktresumé (SmPC) för att fastställa kontraindikationer och viktiga varningar
+- Genomföra systematisk litteratursökning av β-blockerare vid anatomiska MI-subtyper (posterolateral, posteroinferior, septal)
+- Bedöma interaktioner med övriga hjärtläkemedel (antikoagulantia, trombocythämmare, antiarytmika)
+- Konsultera kardiolog för klinisk relevans- och genomförbarhetsbedömning av registreringsstrategi i Sverige
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -8,19 +8,19 @@ permalink: /drugs/urea/
 
 # UREA
 
-## Basic Information
+## Grundläggande information
 
-| Item | Value |
+| Objekt | Värde |
 |------|-------|
 | DrugBank ID | [DB03904](https://go.drugbank.com/drugs/DB03904) |
-| Evidence Level | L5 (Computational Prediction) |
-| Number of Predicted Indications | 9 |
+| Evidensnivå | L5 (Datorbaserad förutsägelse) |
+| Antal förutsagda indikationer | 9 |
 
-## Predicted Indications (TxGNN)
+## Förutsagda indikationer (TxGNN)
 
-The following are potential new indications predicted by the TxGNN model. Higher scores indicate higher predicted relevance.
+Följande är potentiella nya indikationer som förutsagts av TxGNN-modellen. Högre poäng indikerar högre förutsagd relevans.
 
-| # | Indication | Source |
+| # | Indikation | Källa |
 |---|------------|--------|
 | 1 | atopic eczema | TxGNN Knowledge Graph |
 | 2 | dermatitis, atopic | TxGNN Knowledge Graph |
@@ -32,11 +32,11 @@ The following are potential new indications predicted by the TxGNN model. Higher
 | 8 | seborrheic keratosis | TxGNN Knowledge Graph |
 | 9 | pityriasis versicolor | TxGNN Knowledge Graph |
 
-## Disclaimer
+## Ansvarsfriskrivning
 
-These predictions are for research purposes only and do not constitute medical advice.
-Clinical validation is required before any clinical application.
+Dessa förutsägelser är endast avsedda för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
 
 ---
 
-[← Back to Drug Search](/drugs/)
+[← Tillbaka till läkemedelssökning](/drugs/)

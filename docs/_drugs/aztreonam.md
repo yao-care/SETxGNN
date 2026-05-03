@@ -2,7 +2,7 @@
 layout: default
 title: Aztreonam
 parent: 僅模型預測 (L5)
-nav_order: 26
+nav_order: 21
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Aztreonam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,80 +25,94 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# AZTREONAM: Drug Repurposing Evaluation Report
+# Aztreonam: Från gram-negativa bakterieinfektioner till gonokockurethrit
 
-## One-Sentence Summary
+---
 
-Aztreonam is a monobactam-class antibiotic used for treating serious gram-negative bacterial infections. The TxGNN model **has not generated any predicted new indications** for this drug, and the evidence pack contains significant data gaps that prevent a full evaluation.
+## Sammanfattning
 
-## Quick Overview
+Aztreonam är ett monocykliskt betalaktamantibiotikum (monobaktam) som primärt användes för behandling av allvarliga aeroba gram-negativa bakterieinfektioner, bland annat urinvägsinfektioner, nedre luftvägsinfektioner och sepsis.
+TxGNN-modellen förutsäger att det kan vara effektivt mot **gonokockurethrit** (gonococcal urethritis),
+med **1 klinisk prövning** och **8 publikationer** som för närvarande stöder denna riktning. Bland de tio förutsagda indikationerna är gonokockurethrit (rang 5) den enda med faktisk klinisk evidens (L2) och en mekanistiskt välgrundad koppling.
 
-| Item | Content |
+---
+
+## Snabböversikt
+
+| Post | Innehåll |
 |------|------|
-| Original Indication | Not available in current evidence pack (known: gram-negative bacterial infections) |
-| Predicted New Indication | None (no TxGNN predictions available) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — No predictions or supporting studies |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Ursprunglig indikation | Aeroba gram-negativa bakterieinfektioner |
+| Förutsagd ny indikation | Gonokockurethrit (gonococcal urethritis) |
+| TxGNN-förutsägelsepoäng | 99,59% |
+| Evidensnivå | L2 – 1 avslutad fas 2/3-prövning + 8 kliniska studier |
+| Marknadsstatus i Sverige | Ej godkänd – inte på marknaden |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Fortsätt med försiktighet |
 
-## Why is This Prediction Reasonable?
+---
 
-Currently, the TxGNN model has not generated any repurposing predictions for Aztreonam. Without a predicted new indication, mechanism-based reasoning cannot be performed at this time.
+## Varför är denna förutsägelse rimlig?
 
-Aztreonam (DrugBank ID: DB00355) is the only commercially available monobactam antibiotic. It works by inhibiting bacterial cell wall synthesis through binding to penicillin-binding protein 3 (PBP-3), and is uniquely selective for aerobic gram-negative organisms. Detailed mechanism of action data was not available in this evidence pack (flagged as data gap DG002), though the drug's mechanism is well-characterized in the literature.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta Evidence Pack. Baserat på känd klinisk farmakologi är aztreonam ett monocykliskt betalaktamantibiotikum som selektivt binder till penicillinbindande protein 3 (PBP3) i cellväggen hos aeroba gram-negativa bakterier. Bindningen hämmar transpeptidasesteget i peptidoglykansyntesen, vilket leder till celllys och bakteriedöd. Aztreonam saknar i princip aktivitet mot gram-positiva bakterier och anaerober, vilket gör det till ett renodlat gram-negativt spektrumpreparat.
 
-Because the predicted indications array is empty, this candidate cannot proceed to further evaluation stages. The absence of predictions may be due to insufficient knowledge graph connectivity for this drug, or the model may not have identified any high-confidence repurposing opportunities above the scoring threshold.
+Neisseria gonorrhoeae – orsaken till gonokockurethrit – är en aerob gram-negativ diplokock och befinner sig direkt i aztreonams antibakteriella spektrum. Sambandet mellan aztreonams ursprungliga indikation och gonokockurethrit är därmed direkt mekanistiskt: gonokocken tillhör just den patogengrupp som aztreonam är designat för att bekämpa. Penicillinasproducerande N. gonorrhoeae-stammar (PPNG) uppvisar dessutom bibehållen känslighet för aztreonam, vilket skapar en klinisk nisch som alternativbehandling vid penicillin- och cefalosporinresistens.
 
-## Clinical Trial Evidence
+Det kliniska behovet är akut: CDC har klassificerat antibiotikaresistent N. gonorrhoeae som ett av de tre mest brådskande antimikrobiella resistenshot i USA, och parenterala tredje generationens cefalosporiner är nu det enda preparatklassen med konsistent effekt. Den avslutade prövningen NCT03867734 utvärderade specifikt aztreonam mot faryngeal gonorré – en lokalisation där nuvarande standardbehandlingar presterar sämre – vilket stärker den translationella relevansen ytterligare.
 
-Currently no related clinical trials registered — no predicted indication available for evidence mapping.
+---
 
-## Literature Evidence
+## Kliniska prövningar
 
-Currently no related literature available — no predicted indication available for evidence mapping.
+| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
+|---------|------|------|------|---------|
+| [NCT03867734](https://clinicaltrials.gov/study/NCT03867734) | Fas 2/3 | Avslutad | 32 | Demonstrationsstudie av aztreonam (engångsdos i.m.) mot faryngeal gonorré. CDC identifierade AMR N. gonorrhoeae som ett akut resistenshot; studien utvärderade aztreonam som alternativbehandling mot ceftriaxon-resistenta stammar. Öppen, enarmad design; trots begränsat deltagarantal är detta den enda prospektiva prövningen med direkt relevans. |
 
-## Taiwan Market Information
+---
 
-Aztreonam currently holds **no valid marketing authorizations** (藥證) from the TFDA. The drug is classified as **not marketed (未上市)** in Taiwan.
+## Litteraturbevis
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| — | — | — | No authorizations on record |
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|-----|------|------|---------|
+| [33077658](https://pubmed.ncbi.nlm.nih.gov/33077658/) | 2020 | Öppen klinisk prövning | Antimicrobial Agents and Chemotherapy | Engångsdos aztreonam 2 g i.m. mot N. gonorrhoeae; utvärderade eradikeringseffekt vid faryngeal och urogenital lokalisation hos män. Direkt kopplad till NCT03867734. |
+| [3157346](https://pubmed.ncbi.nlm.nih.gov/3157346/) | 1985 | Klinisk studie | Antimicrobial Agents and Chemotherapy | Aztreonam 1 g i.m. jämfört med spektinomycin 2 g i.m. – inga behandlingssvikt med något preparat. Effektivt vid urethral, rektal och cervikal gonorré. |
+| [3095216](https://pubmed.ncbi.nlm.nih.gov/3095216/) | 1986 | Klinisk studie | Genitourinary Medicine | 87 patienter (61 män, 26 kvinnor) behandlade med aztreonam 1 g i.m. engångsdos; N. gonorrhoeae utrotades vid samtliga lokalisationer utom farynx hos en bisexuell man. Effektivt mot penicillinkänsliga och penicillinresistenta stammar. |
+| [6225808](https://pubmed.ncbi.nlm.nih.gov/6225808/) | 1983 | Klinisk studie | Journal of Infectious Diseases | Aztreonam visade effekt mot PPNG-stammar – viktigt alternativ efter tillkomst av spektinomycinresistens och PPNG:s globala spridning sedan 1976. |
+| [6438364](https://pubmed.ncbi.nlm.nih.gov/6438364/) | 1984 | Klinisk studie | Japanese Journal of Antibiotics | 30 manliga patienter med gonokockurethrit behandlade med aztreonam; bakteriologisk och klinisk utvärdering av 61 kliniska stammar inkl. 15% PPNG-stammar. |
+| [3937450](https://pubmed.ncbi.nlm.nih.gov/3937450/) | 1985 | Klinisk kohort | Acta Urologica Japonica | Epidemiologisk och terapeutisk studie med aztreonam engångsdos vid gonokockinfektioner; 244 kliniska stammar analyserade (17,2% PPNG). Demografiskt mönster med högst incidens i åldrarna 20–29. |
+| [11406757](https://pubmed.ncbi.nlm.nih.gov/11406757/) | 2001 | Mikrobiologisk övervakning | Journal of Infection and Chemotherapy | Identifiering av cefalosporin- och aztreonam-högreistenta N. gonorrhoeae utan betalaktamasproduktion; viktig varningssignal om framväxande icke-enzymbaserade resistensmekanismer som kräver övervakning. |
+| [6226596](https://pubmed.ncbi.nlm.nih.gov/6226596/) | 1983 | Klinisk studie | Giornale Italiano di Dermatologia e Venereologia | Tidig klinisk studie av aztreonam vid akut gonokockurethrit; bidrog till det tidiga evidensunderlaget för monobaktamers effekt mot gonokockar. |
 
-## Safety Considerations
+---
 
-> Please refer to the package insert for safety information.
->
-> All safety data fields (key warnings, contraindications, and drug-drug interactions) returned as data gaps in the current evidence pack. The TFDA package insert query returned 1 result but the structured safety data was not extracted (see data gap DG001, severity: **Blocking**).
+## Marknadsinformation Sverige
 
-## Data Gaps Summary
+Aztreonam är inte godkänt av Läkemedelsverket (MPA) i Sverige. Det finns inga registrerade produkter eller godkännandenummer på den svenska marknaden.
 
-The following critical data gaps were identified and must be resolved before re-evaluation:
+---
 
-| Gap ID | Item | Severity | Impact | Remediation |
-|--------|------|----------|--------|-------------|
-| DG001 | TFDA Package Insert Warnings/Contraindications | **Blocking** | Cannot enter S1 safety preliminary assessment | Download and parse package insert PDF from TFDA website |
-| DG002 | Mechanism of Action (MOA) | High | Affects mechanism-indication relevance analysis | Query DrugBank API |
+## Säkerhetsaspekter
 
-## Conclusion and Next Steps
+Se produktresumén för säkerhetsinformation.
 
-**Decision: Hold**
+---
 
-**Rationale:**
-No TxGNN repurposing predictions exist for Aztreonam, and the drug is not marketed in Taiwan (0 authorizations). Combined with blocking-level data gaps in safety information, there is insufficient basis to proceed with any repurposing evaluation.
+## Slutsats och nästa steg
 
-**To proceed, the following is needed:**
-- Resolution of **DG001** (Blocking): Extract TFDA package insert warnings and contraindications
-- Resolution of **DG002** (High): Obtain detailed MOA data from DrugBank API
-- Re-run TxGNN prediction pipeline to confirm whether predictions can be generated for this drug
-- If predictions remain empty, investigate whether the knowledge graph contains sufficient Aztreonam-related edges (targets, pathways, phenotypes) for meaningful prediction
-- Verify whether Aztreonam's absence from the Taiwan market is relevant to the study scope, or if international market data (e.g., FDA, EMA) should be incorporated as supplementary evidence
+**Beslut: Fortsätt med försiktighet**
+
+**Motivering:**
+- Aztreonam har en direkt mekanistisk aktivitet mot N. gonorrhoeae (aerob gram-negativ patogen, PBP3-bindning), stödd av en avslutad fas 2/3-demonstrationsstudie (NCT03867734, n=32) och åtta kliniska studier publicerade 1983–2020. Indikationen är kliniskt angelägen med hänsyn till den globala AMR-problematiken för gonokockinfektioner, men frånvaron av fullskaliga randomiserade kontrollerade studier och komplett säkerhetsdataunderlag i detta pack motiverar en försiktig approach.
+
+**För att gå vidare krävs:**
+- Fullständig säkerhetsinformation och kontraindikationer (SmPC/produktresumé för aztreonam)
+- Registreringsansökan eller licensansökan hos Läkemedelsverket (MPA) för introduktion på den svenska marknaden
+- Aktuell resistensövervakning för N. gonorrhoeae i Sverige (Folkhälsomyndighetens SRGA-data)
+- Randomiserad kontrollerad fas 3-studie (RCT) för att stärka evidensnivån från L2 till L1
+- Fastställande av optimal dos och administreringsväg (i.m.-injektion) specifikt för gonokockindikationen inom svensk sjukvårdskontext
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

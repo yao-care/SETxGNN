@@ -10,12 +10,12 @@ indication_count: 10
 # Ambrisentan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,94 +25,86 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# Ambrisentan: Drug Repurposing Evaluation Report
-
-## One-Sentence Summary
-
-Ambrisentan is an endothelin receptor antagonist (selective ETA antagonist) approved internationally for the treatment of **pulmonary arterial hypertension (PAH)**. The TxGNN model has **not yet generated predicted new indications** for this drug, and the evidence pack currently contains significant data gaps that must be resolved before a meaningful repurposing evaluation can proceed.
+Baserat på Evidence Pack genererar jag nu rapporten enligt promtformatet v5.
 
 ---
 
-## Quick Overview
+# Ambrisentan: Från pulmonell arteriell hypertension till pulmonell arteriovenoös missbildning
 
-| Item | Content |
-|------|------|
-| Drug Name (INN) | Ambrisentan |
-| DrugBank ID | DB06403 |
-| Original Indication | Not recorded in current evidence pack (known internationally: Pulmonary Arterial Hypertension) |
-| Predicted New Indication | — (No predictions available) |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 (No predictions or supporting studies in this pack) |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
-| Number of Licenses (TFDA) | 0 |
-| Recommended Decision | **Hold** |
+## Sammanfattning
+
+Ambrisentan är en selektiv ETA-receptorantagonist som ursprungligen godkändes för behandling av pulmonell arteriell hypertension (PAH). TxGNN-modellen förutsäger att det kan vara effektivt mot **pulmonell arteriovenoös missbildning (PAVM)**, med **0 kliniska prövningar** och **1 publikation** som för närvarande stöder denna riktning. Denna rapport är en flerindikatorbedömning av tio förutsagda indikationer, varav PAH associerad med HIV-infektion uppvisar den starkaste evidensen (L1, en avslutad fas 3-RCT), följt av PAH vid bindvävssjukdom och medfödd hjärtsjukdom (båda L2).
 
 ---
 
-## Why is This Prediction Reasonable?
+## Snabböversikt
 
-Currently, detailed mechanism of action (MOA) data is not available in the evidence pack. Based on publicly known pharmacological information, Ambrisentan is a **selective endothelin type-A (ETA) receptor antagonist**. It blocks the binding of endothelin-1 (ET-1) to ETA receptors on pulmonary artery smooth muscle cells, resulting in vasodilation and reduced pulmonary vascular resistance. It is approved in many countries (e.g., US as Letairis®, EU as Volibris®) for the treatment of pulmonary arterial hypertension (PAH, WHO Group I).
-
-Because the TxGNN model has **not yet produced any predicted indications** for Ambrisentan in this evidence pack, no mechanistic plausibility assessment for a new indication can be performed at this time. Once predictions are generated, the endothelin pathway's involvement in fibrosis, cardiovascular remodelling, and other vascular diseases could provide biologically plausible rationales for repurposing.
-
----
-
-## Clinical Trial Evidence
-
-No predicted indications are available in this evidence pack; therefore, no indication-specific clinical trial search was performed.
-
-> Currently no related clinical trials registered for a new predicted indication.
+| Post | Innehåll |
+|------|---------|
+| Ursprunglig indikation | Pulmonell arteriell hypertension (idiopatisk/ärftlig) |
+| Förutsagd ny indikation | Pulmonell arteriovenoös missbildning (PAVM) |
+| TxGNN-förutsägelsepoäng | 99,41% |
+| Evidensnivå | L4 (mekanistisk koppling; inga kliniska prövningar) |
+| Marknadsstatus i Sverige | Ej godkänd |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Literature Evidence
+## Varför är denna förutsägelse rimlig?
 
-No predicted indications are available in this evidence pack; therefore, no indication-specific literature search was performed.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta evidenspaket. Baserat på känd information är Ambrisentan en selektiv endotelinreceptorantagonist (ETA) som blockerar endotelin-1-medierad (ET-1) vasokonstriktion och kärlremodellering i lungkärlen. Dess effekt vid idiopatisk och ärftlig PAH har bevisats i pivotala kliniska prövningar (bl.a. ARIES-1 och ARIES-2).
 
-> Currently no related literature available for a new predicted indication.
+Pulmonell arteriovenoös missbildning (PAVM) är en strukturell kärlanomalitet i lungorna som i de flesta fall förekommer i samband med hereditär hemorragisk telangiektasi (HHT) – ett autosomalt dominant ärftligt tillstånd med mutationer i ALK1-, ENG- och BMPR2-generna som påverkar TGF-β/BMP-signalvägen. En undergrupp av HHT-patienter utvecklar PAH som en allvarlig komplikation, och det är i detta överlappande kliniska scenario som kopplingen till Ambrisentan uppkommer. ET-1 kan vara uppregulerat hos HHT-patienter, vilket ger ett visst biokemiskt stöd för ETA-antagonism.
 
----
-
-## Taiwan Market Information
-
-Ambrisentan currently holds **no TFDA licenses** and is **not marketed in Taiwan**.
-
-> No authorization records found in the TFDA database.
+Den mekanistiska kopplingen är dock i grunden **indirekt**: PAVM är en anatomisk arteriovenös shuntmissbildning snarare än en primärt vasokonstriktiv sjukdom. Ambrisentans ETA-blockad saknar direkt effekt på de strukturella shuntarna, och modellens höga förutsägelsepoäng reflekterar sannolikt det nätverksmässiga sambandet via PAH-komorbiditet (HHT→PAH→ERA-terapi) snarare än ett primärt terapeutiskt mål mot PAVM.
 
 ---
 
-## Safety Considerations
+## Kliniska prövningar
 
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data were not available in this evidence pack.
->
-> **Note for reference (based on international labelling):** Ambrisentan carries a **boxed warning for embryo-fetal toxicity** (Category X) and is contraindicated in pregnancy. It is also associated with peripheral oedema, decreased haemoglobin/haematocrit, and potential hepatotoxicity. A Risk Evaluation and Mitigation Strategy (REMS) programme applies in some jurisdictions.
+Inga relaterade kliniska prövningar registrerade för närvarande för pulmonell arteriovenoös missbildning.
 
 ---
 
-## Conclusion and Next Steps
+## Litteraturbevis
 
-**Decision: Hold**
-
-**Rationale:**
-The evidence pack for Ambrisentan contains critical data gaps and, most importantly, **no TxGNN-predicted new indications**. Without a target indication, no repurposing evaluation pathway can be initiated. Additionally, Ambrisentan is not marketed in Taiwan, which adds regulatory complexity to any future repurposing effort.
-
-**To proceed, the following is needed:**
-
-1. **TxGNN Prediction Run** — Execute the TxGNN model for Ambrisentan (DB06403) to generate candidate new indications with prediction scores
-2. **MOA Data** — Retrieve detailed mechanism of action from DrugBank API (resolves data gap DG002)
-3. **TFDA Package Insert / Safety Data** — Obtain and parse the package insert for key warnings and contraindications (resolves data gap DG001), or source from international regulatory databases (FDA, EMA) given the drug is not marketed in Taiwan
-4. **Drug-Drug Interaction Data** — Query additional DDI databases (e.g., DrugBank interactions endpoint) to populate the safety profile
-5. **Regulatory Pathway Assessment** — Evaluate whether an import drug license or clinical trial application would be required in Taiwan given the current non-marketed status
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|-----|------|-----------|-------------|
+| [33969094](https://pubmed.ncbi.nlm.nih.gov/33969094/) | 2021 | Fallrapport | World Journal of Clinical Cases | Fallrapport om HHT-patient med komorbid PAH; genetisk familjeanalys identifierar sjukdomsmutationer. Illustrerar den kliniska överlappningen HHT–PAH men utvärderar inte Ambrisentan specifikt vid PAVM |
 
 ---
 
-*Report generated: 2026-04-03 | Evidence Pack version: v4 | Candidate ID: TW-DB06403-multi*
+## Säkerhetsaspekter
 
-*Disclaimer: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- PAVM-indikationen grundar sig på en indirekt mekanistisk koppling via HHT-PAH-komorbiditet, utan stöd från kliniska prövningar (L4-evidens). Ambrisentan saknar dessutom marknadsgodkännande i Sverige och fullständiga säkerhetsdata finns inte tillgängliga för bedömning.
+
+**För att gå vidare krävs:**
+- **Säkerhetsdata:** Hämta och analysera produktresumé (SmPC/TFDA-jäkort) för att koda varningar, kontraindikationer och kliniskt relevanta läkemedelsinteraktioner
+- **Verkningsmekanismdata (MOA):** Bekräfta via DrugBank API (DB06403)
+- **PAVM-specifik utredning:** Kartlägg om pågående HHT- eller PAH-studier inkluderar PAVM-subpopulationer med ET-1-uppregulering
+- **Prioritering av starkare indikationskandidater i detta flerindikatorspaket:**
+
+| Rang | Indikation | Evidensnivå | Beslut |
+|------|-----------|-------------|--------|
+| 5 | PAH vid HIV-infektion | **L1** – fas 3 RCT (NCT00709956, n=64, avslutad) | Gå vidare med försiktighet |
+| 4 | PAH vid bindvävssjukdom | **L2** – fas 4 + fas 2 avslutade (inkl. SSc-PAH) | Gå vidare med försiktighet |
+| 2 | PAH vid medfödd hjärtsjukdom | **L2** – fas 3b öppen studie (NCT01808313, n=134, avslutad) | Gå vidare med försiktighet |
+| 1 | Pulmonell arteriovenoös missbildning | L4 – mekanistisk koppling | **Avvakta** |
+| 3, 6–10 | Övriga (hemolytisk anemi, schistosomiasis, tandrelaterade, hårsyndrom, Dandy-Walker) | L5 – modellförutsägelse | **Avvakta** |
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

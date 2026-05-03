@@ -2,7 +2,7 @@
 layout: default
 title: Irbesartan
 parent: 僅模型預測 (L5)
-nav_order: 70
+nav_order: 58
 evidence_level: L5
 indication_count: 4
 ---
@@ -10,12 +10,12 @@ indication_count: 4
 # Irbesartan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,91 +25,78 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-Using **txgnn-pipeline** context confirmed. Now generating the Irbesartan evaluation report based on the Evidence Pack.
+---
+
+# Irbesartan: Från hypertoni till malign hypertensiv njursjukdom
 
 ---
 
-# Irbesartan: From Diabetic Nephropathy to Malignant Hypertensive Renal Disease
+## Sammanfattning
 
-## One-Sentence Summary
-
-Irbesartan is an angiotensin II receptor blocker (ARB), clinically established for hypertension and diabetic nephropathy in patients with type 2 diabetes and proteinuria.
-The TxGNN model predicts it may be effective for **Malignant Hypertensive Renal Disease**, with a prediction confidence of 99.31%.
-However, **no clinical trials and no publications** directly support this specific repurposing direction at this time; the current evidence is mechanistic in nature only (Level L4).
+Irbesartan är en angiotensin II-receptorblockerare (ARB) som primärt används för behandling av hypertoni och njurskydd vid typ 2-diabetes med hypertoni. TxGNN-modellen förutsäger att det kan vara effektivt mot **malign hypertensiv njursjukdom**, grundat i en stark patofysiologisk koppling via RAAS-systemet och AT1-receptorblockad. Evidensunderlaget är för närvarande begränsat till mekanistisk rationalitet (**L4**) — inga direkta kliniska prövningar eller riktad litteratur för denna specifika indikation har identifierats.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
-|------|---------|
-| Original Indication | Hypertension; Diabetic nephropathy (Type 2 diabetes with proteinuria) |
-| Predicted New Indication | Malignant Hypertensive Renal Disease |
-| TxGNN Prediction Score | 99.31% |
-| Evidence Level | L4 (Mechanistic rationale only; no clinical or preclinical studies retrieved) |
-| Sweden Market Status | Not Marketed (0 authorizations on record) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, formal mechanism of action data from DrugBank is not yet available for this report. Based on established pharmacological knowledge and information within this Evidence Pack, Irbesartan belongs to the angiotensin II type 1 (AT1) receptor antagonist class (ARB). By selectively blocking the AT1 receptor, it prevents angiotensin II from driving vasoconstriction, aldosterone secretion, and pro-fibrotic signalling — directly reducing blood pressure and intraglomerular hypertension, and suppressing TGF-β–mediated renal fibrosis.
-
-Malignant hypertensive renal disease is a severe hypertensive emergency characterised by rapid-onset blood pressure elevation causing fibrinoid necrosis of renal arterioles and thrombotic microangiopathy. The core driver of this process is intense, pathological overactivation of the renin–angiotensin–aldosterone system (RAAS). Since irbesartan directly antagonises the primary RAAS effector — angiotensin II at the AT1 receptor — the mechanistic rationale for benefit in this condition is highly coherent.
-
-The strongest supporting argument is the adjacent-indication principle: irbesartan is already approved for **diabetic nephropathy**, a condition where RAAS-mediated glomerular hyperperfusion, elevated intraglomerular pressure, and fibrosis are the central pathological mechanisms — exactly the same pathways implicated in malignant hypertensive renal injury. The TxGNN model's very high confidence score (99.31%, rank 1 of all predictions) is consistent with this mechanistic overlap, making this a scientifically plausible repurposing hypothesis worthy of structured investigation.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Hypertoni och diabetisk nefropati (välkänd klinisk användning; ej registrerat i Sverige) |
+| Förutsagd ny indikation | Malign hypertensiv njursjukdom |
+| TxGNN-förutsägelsepoäng | 99,3% |
+| Evidensnivå | L4 – Mekanismstudier |
+| Marknadsstatus i Sverige | Ej registrerat |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Clinical Trial Evidence
+## Varför är denna förutsägelse rimlig?
 
-Currently no related clinical trials registered for Irbesartan in malignant hypertensive renal disease.
+Formell verkningsmekanismdata från DrugBank saknas i detta evidence pack. Baserat på välkänd farmakologisk kunskap är irbesartan en selektiv angiotensin II typ 1-receptorblockerare (ARB) vars kliniska effekt vid hypertoni och diabetisk nefropati är väldokumenterad. Läkemedlet blockerar AT1-receptorn, minskar motstånd i glomerulära afferenta arterioler och sänker den intrarenala angiotensin II-koncentrationen. Detta reducerar glomerulär hypertension och proteinuri och ger teoretiskt njurskydd mot de vaskulära skador som malign hypertension orsakar.
 
----
+Kopplingen till malign hypertensiv njursjukdom är patofysiologiskt välmotiverad: RAAS är kontinuerligt och kraftigt aktiverat vid malign hypertensiv nefropati, och ARB-intervention adresserar direkt den drivande mekanismen bakom njurskadan. Sambandet mellan irbesartans etablerade nefroprotektiva effekter vid diabetisk nefropati och den potentiella effekten vid malign hypertensiv njurskada är mekanistiskt logiskt — båda tillstånden involverar glomerulär hypertension och RAAS-medierad njurskada.
 
-## Literature Evidence
-
-Currently no related literature available directly linking Irbesartan to malignant hypertensive renal disease.
+En viktig klinisk begränsning bör dock beaktas: malign hypertension (MAP >150 mmHg med grad 3–4 retinopati) är ett medicinskt akuttillstånd som kräver snabb blodtryckssänkning. Oral ARB-monoterapi har för långsam anslagshastighet för akutfasen — intravenös antihypertensiv behandling är oftast nödvändig initialt. Irbesartans potentiella roll är därför sannolikt störst i stabiliserings- och underhållsfasen för njurskydd, inte vid initial akuthantering.
 
 ---
 
-## Sweden Market Information
+## Kliniska prövningar
 
-Irbesartan is currently not marketed in Sweden. No product authorizations are on record in this dataset.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Note for reviewers:** Safety data (TFDA package insert warnings, contraindications, and drug–drug interactions) could not be retrieved in this pipeline run. Before any clinical decision is made, the following known class-level risks must be evaluated:
-> - ARBs are **contraindicated in bilateral renal artery stenosis** and in pregnancy.
-> - In malignant hypertension specifically, rapid blood pressure reduction carries a risk of acute kidney injury due to sudden loss of pressure-dependent glomerular perfusion — the safety profile in this acute-severe context requires careful assessment.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Conclusion and Next Steps
+## Litteraturbevis
 
-**Decision: Hold**
+Ingen relaterad litteratur tillgänglig för närvarande.
 
-**Rationale:**
-Although the mechanistic rationale linking irbesartan's AT1 antagonism to malignant hypertensive renal disease is compelling and logically coherent, there are currently no clinical trials, published studies, or preclinical data directly supporting this repurposing application. Safety data could not be retrieved, and known class-level risks (acute kidney injury, bilateral RAS contraindication) are clinically significant in this patient population.
+---
 
-**To proceed, the following is needed:**
+## Säkerhetsaspekter
 
-- **MOA data**: Retrieve formal mechanism of action record from DrugBank (DB01029) to complete the mechanistic dossier
-- **Safety review**: Download and parse the full package insert (TFDA/EMA/FDA) to extract warnings, contraindications, and special population restrictions before any clinical evaluation
-- **Class-level evidence review**: Conduct a systematic PubMed search for ARB class drugs (losartan, valsartan, candesartan) in malignant hypertension and hypertensive emergency with renal involvement — class-level evidence may support an informed extrapolation to irbesartan
-- **Regulatory precedent check**: Verify whether irbesartan or any ARB has an approved or guideline-recommended role in hypertensive nephropathy crises (e.g., JNC 8, ESH/ESC hypertension guidelines, KDIGO)
-- **Risk–benefit framing**: Evaluate whether the target population (malignant HTN with acute renal injury) represents a setting where ARBs are likely safe vs. contraindicated, given the acute nature of the disease
-- **If evidence supports proceeding**: Design a prospective observational or pragmatic RCT protocol comparing ARB-based vs. standard regimens in patients presenting with malignant hypertensive renal disease
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- Trots en hög TxGNN-förutsägelsepoäng (99,3%) och en välgrundad patofysiologisk mekanism saknas direkta kliniska prövningar och riktad litteratur för irbesartan specifikt vid malign hypertensiv njursjukdom. En väsentlig klinisk säkerhetsfråga kvarstår gällande ARB-användning i akutfasen av malign hypertension, där snabb blodtryckssänkning är livsviktig och oral ARB-behandling inte är tilläckligt snabbverkande.
+
+**För att gå vidare krävs:**
+- Systematisk litteratursökning om ARB/irbesartan vid malign hypertension och njurskyddseffekter i underhållsfasen
+- Hämtning och granskning av fullständig produktresumé (SmPC) för att kartlägga kontraindikationer, varningar och interaktionsprofil
+- Utredning av om sekundärprevention av njurskada — hos patienter som stabiliserats efter akut malign hypertension — kan utgöra en avgränsad och kliniskt motiverad patientpopulation
+- Identifiering av pågående eller planerade observationsstudier inom malign hypertensiv nefropati med ARB-exponering
+
+> **Notering om angränsande prediktioner:** TxGNN förutsäger även irbesartan som potentiellt relevant vid *malign renovaskulär hypertension* (rank 2, L4) och två former av *pulmonell hypertension* (rank 3–4, L5). För renovaskulär hypertension föreligger ett känt säkerhetsproblem — bilateral njurartärstenos är en klassisk kontraindikation för ARB/ACEi och kräver särskild utredning innan vidare analys. De pulmonella hypertensionsindikationerna bedöms som otillräckligt underbyggda för att prioriteras i nuläget.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

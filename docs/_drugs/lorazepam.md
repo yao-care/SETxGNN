@@ -2,7 +2,7 @@
 layout: default
 title: Lorazepam
 parent: 僅模型預測 (L5)
-nav_order: 83
+nav_order: 67
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Lorazepam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,74 +25,81 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# Lorazepam: Repurposing Assessment — Insufficient Data to Proceed
-
-## One-Sentence Summary
-
-Lorazepam (DB00186) is a well-known benzodiazepine commonly used for anxiety disorders and sedation.
-However, **no TxGNN-predicted new indications** are present in this Evidence Pack, and key data items — including mechanism of action, package insert warnings, and approved indications — are either missing or unresolved.
-This report reflects the current data status and outlines what must be collected before a repurposing evaluation can be completed.
+Jag har granskat Evidence Pack och den tillämpliga TxGNN-pipeline-skickligheten. Lorazepam är inte antineoplastiskt, saknar svenska godkännanden och har L5-evidens för toppindikationen. Jag genererar nu rapporten på svenska enligt rapportformatet v5.
 
 ---
 
-## Quick Overview
+# Lorazepam: Från ångestbehandling till trigeminusnervtumör
 
-| Item | Content |
-|------|---------|
-| Original Indication | Not recorded in this Evidence Pack |
-| Predicted New Indication | None — TxGNN prediction output is absent |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (model prediction only — prediction output not yet available) |
-| Taiwan Market Status | ✗ Not marketed (0 authorizations) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+## Sammanfattning
+
+Lorazepam är ett välkänt benzodiazepinläkemedel som används globalt vid ångeststörningar, sömnstörningar och kramper, men är inte registrerat i Sverige. TxGNN-modellen förutsäger att det kan vara effektivt mot **trigeminusnervtumör (trigeminal nerve neoplasm)** med en poäng på 99,87 %, men denna förutsägelse stöds av **0 kliniska prövningar** och **0 publikationer**. Den höga modellpoängen bedöms sannolikt bero på strukturell likhet i kunskapsgrafen snarare än en reell farmakologisk koppling, och rekommendationen är att avvakta.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Snabböversikt
 
-No predicted indication is present in this Evidence Pack (`predicted_indications` is empty), so a mechanistic rationale for a specific new use cannot be constructed at this stage.
-
-Currently, detailed mechanism of action data is not available. Based on general pharmacological knowledge, lorazepam belongs to the benzodiazepine class, acting at GABA-A receptors to produce anxiolytic, sedative, anticonvulsant, and muscle-relaxant effects. Its established clinical roles include anxiety disorders, acute seizure management, procedural sedation, and alcohol withdrawal — but none of these original indications have been formally recorded in the submitted Evidence Pack.
-
-Once the TxGNN prediction pipeline produces a candidate indication and the MOA data gap (DG002) is resolved via DrugBank, this section should be updated to articulate the mechanistic bridge between lorazepam's known neurological activity and the proposed new indication.
-
----
-
-## Taiwan Market Information
-
-No marketing authorizations for lorazepam are registered in the Taiwan regulatory database queried on 2026-03-29. No product table can be generated.
-
-> Note: The absence of Taiwan registrations is unexpected for a widely used benzodiazepine. It is recommended to verify the query spelling and scope, and to check whether lorazepam is regulated under a controlled substance registry separate from the standard drug license database.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Ej registrerat i Sverige; globalt används lorazepam vid ångest, sömnlöshet och akuta kramper |
+| Förutsagd ny indikation | Trigeminusnervtumör (trigeminal nerve neoplasm) |
+| TxGNN-förutsägelsepoäng | 99,87 % |
+| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
+| Marknadsstatus i Sverige | Inte marknadsförd |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Safety Considerations
+## Varför är denna förutsägelse rimlig?
 
-Please refer to the package insert for safety information.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta underlag. Baserat på känd farmakologi är lorazepam en positiv allosterisk modulator av GABA-A-receptorn: det binder till benzodiazepinbindningsstället och ökar receptorns känslighet för GABA, vilket ökar kloridjonflödet in i neuronen och dämpar neuronal aktivitet i centrala nervsystemet. Effekten är dosberoende och inkluderar ångestlindring, sedation, muskelrelaxation och antikonvulsiv verkan.
 
-> Note: The TFDA package insert query returned a successful result (query log ID 4), but the content has not been parsed into structured fields. Resolving data gap DG001 (TFDA 仿單警語/禁忌) is classified as **Blocking** for safety pre-screening.
+Kopplingen mellan GABA-A-modulering och tumörbiologi vid trigeminusnervtumörer är farmakologiskt svagt underbyggd. Trigeminusnervtumörer – typiskt schwannom eller meningeom – uppstår till följd av genetiska förändringar i Schwann-celler eller meningeala celler och drivs av mekanismer såsom NF2-mutationer eller kromosomala avvikelser. Det finns inga etablerade biologiska mekanismer som kopplar GABAerg aktivering till tillväxthämning av perifera nervsheathtumörer.
+
+Den höga TxGNN-poängen (99,87 %) bedöms sannolikt vara ett resultat av så kallat graph embedding-brus: noden för "nervsystemtumörer" i kunskapsgrafen ligger strukturellt nära noder för etablerade benzodiazepinindikationer (epilepsi, ångest, sömnlöshet), utan att detta återspeglar en direkt biologisk länk. Lorazepam kan visserligen ordineras som symtomlindrande tillägg vid tumörrelaterad ångest eller smärtbehandling, men detta utgör inte läkemedelsåteranvändning i egentlig mening.
 
 ---
 
-## Conclusion and Next Steps
+## Kliniska prövningar
 
-**Decision: Hold**
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
-**Rationale:**
-The TxGNN prediction output is absent, and two critical data gaps — MOA (High severity) and TFDA package insert warnings (Blocking severity) — remain unresolved, making it impossible to conduct even a preliminary repurposing safety screen.
+---
 
-**To proceed, the following is needed:**
+## Litteraturbevis
 
-- **\[Blocking\] Resolve DG001** — Download and parse the TFDA package insert PDF to extract warnings, contraindications, and special population precautions; this unlocks the S1 safety pre-screening step
-- **\[High\] Resolve DG002** — Query DrugBank API for lorazepam's mechanism of action (DB00186) to enable mechanistic bridge analysis
-- **\[Required\] Re-run TxGNN prediction pipeline** — Confirm that lorazepam (DB00186) was included in the prediction run and retrieve the `predicted_indications` output; if the model returned no candidates, document the reason (e.g., below threshold, excluded node)
-- **\[Recommended\] Verify Taiwan market status** — Confirm whether lorazepam is absent from Taiwan drug licenses due to a query issue or whether it is genuinely not marketed domestically, possibly registered under a controlled substance framework
-- **\[Recommended\] Populate original indications** — Record the established clinical uses (anxiety, seizure, sedation) in the `original_indications` field to enable proper indication-to-indication comparability analysis once a prediction target is available
+Ingen relaterad litteratur tillgänglig för närvarande.
+
+---
+
+## Marknadsinformation Sverige
+
+Lorazepam är inte godkänt för försäljning i Sverige. Inga produktgodkännanden finns registrerade hos Läkemedelsverket (MPA).
+
+---
+
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- Evidensnivån är L5 (enbart modellförutsägelse) med noll kliniska prövningar och noll publikationer som direkt stöder lorazepam vid trigeminusnervtumör. Det saknas en biologiskt trovärdig mekanism, och den höga TxGNN-poängen bedöms sannolikt spegla graph embedding-brus snarare än en reell farmakologisk signal.
+
+**För att gå vidare krävs:**
+- Identifiering av en plausibel biologisk mekanism som kopplar GABA-A-modulering till trigeminusnervtumörers tillväxt eller överlevnad
+- Minst en preklinisk studie (in vitro eller djurmodell) som visar antitumöral effekt hos lorazepam eller en strukturellt besläktad GABA-A-modulator
+- Omprövning av alternativa högrankade indikationer med starkare evidens: **insomni (rank 2, L2-evidens, 23 kliniska prövningar och 18 publikationer)** och **mikturationsinducerade kramper (rank 7, L3-evidens, 20 publikationer)** utgör mer lovande kandidater för vidare utredning
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

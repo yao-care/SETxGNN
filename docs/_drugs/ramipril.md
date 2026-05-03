@@ -2,7 +2,7 @@
 layout: default
 title: Ramipril
 parent: 僅模型預測 (L5)
-nav_order: 111
+nav_order: 90
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Ramipril
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,102 +25,98 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-The `txgnn-pipeline` skill confirms this is a TxGNN drug repurposing report task. Now I'll generate the full evaluation report following the v5 prompt specification.
+Jag har läst in `txgnn-pipeline`-skillet. Nu genererar jag rapporten baserat på Evidence Pack JSON och den svenska rapportmallen.
 
 ---
 
-# Ramipril: From Hypertension to Pulmonary Hypertension Owing to Lung Disease and/or Hypoxia
+# RAMIPRIL: Från hypertoni till pulmonell hypertension vid lungsjukdom och/eller hypoxi
 
-## One-Sentence Summary
+## Sammanfattning
 
-Ramipril is a well-established ACE inhibitor (angiotensin-converting enzyme inhibitor) widely used for hypertension, heart failure, and long-term cardiovascular risk reduction.
-The TxGNN model predicts it may be effective for **Pulmonary Hypertension Owing to Lung Disease and/or Hypoxia (Group 3 PH)**,
-with **0 clinical trials** and **20 publications** currently retrieved — though none of the publications directly evaluate ramipril for this specific indication; all are general hypoxia biology reviews.
+RAMIPRIL är en ACE-hämmare (angiotensinkonverteringsenzymhämmare) som globalt används för behandling av hypertoni, hjärtsvikt och kardiovaskulär riskreduktion, men som för närvarande saknar godkännande och marknadsstatus i Sverige. TxGNN-modellen förutsäger att det kan vara effektivt mot **pulmonell hypertension vid lungsjukdom och/eller hypoxi (WHO grupp 3)**, med ett förutsägelsepoäng på 99,93 %. Stödet bygger på **inga registrerade kliniska prövningar** och **20 publikationer** som huvudsakligen behandlar hypoxipatofysiologi generellt – direkta kliniska studier med ramipril för denna specifika indikation saknas helt.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
-|------|---------|
-| Original Indication | Hypertension / cardiovascular risk reduction (no Taiwan registration on file) |
-| Predicted New Indication | Pulmonary Hypertension Owing to Lung Disease and/or Hypoxia |
-| TxGNN Prediction Score | 99.93% |
-| Evidence Level | L4 — Background mechanism studies only; no direct clinical trials |
-| Taiwan Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Detailed mechanism of action data is not currently available in the evidence pack (Data Gap DG002). Based on established pharmacological knowledge, ramipril is an ACE inhibitor that blocks the enzyme responsible for converting angiotensin I into angiotensin II (Ang II). By suppressing Ang II, ramipril reduces systemic vasoconstriction, lowers aldosterone-driven fluid retention, and limits vascular remodeling — effects that form the foundation of its use in hypertension, systolic heart failure, post-myocardial infarction protection, and CKD progression (REIN trial, HOPE trial).
-
-The mechanistic bridge to Group 3 pulmonary hypertension lies in the renin-angiotensin system (RAS). Chronic hypoxia activates the RAS, promoting pulmonary vasoconstriction and vascular smooth muscle remodeling. Theoretically, ACE inhibition could attenuate these pathological changes by reducing Ang II signaling in the pulmonary vasculature — an attractive hypothesis for a class of drugs with a long safety track record.
-
-However, this hypothesis carries important clinical caveats. The role of ACE inhibitors in Group 3 PH has not been established in clinical practice. Unlike pulmonary arterial hypertension (Group 1), Group 3 PH management primarily targets the underlying lung disease. Systemic vasodilation from ramipril could worsen ventilation-perfusion (V/Q) mismatch and impair oxygenation in patients already compromised by lung disease — a safety concern that distinguishes this from standard hypertension use. None of the 20 retrieved publications address ramipril in this context; the evidence base is entirely indirect.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Ej registrerat i Sverige (globalt: hypertoni, hjärtsvikt, kardiovaskulär riskreduktion) |
+| Förutsagd ny indikation | Pulmonell hypertension vid lungsjukdom och/eller hypoxi |
+| TxGNN-förutsägelsepoäng | 99,93 % |
+| Evidensnivå | L5 – Endast modellförutsägelse, inga direkta kliniska studier |
+| Marknadsstatus i Sverige | Ej registrerat |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Clinical Trial Evidence
+## Varför är denna förutsägelse rimlig?
 
-Currently no related clinical trials registered.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta dataset. Baserat på känd farmakologisk information är RAMIPRIL en ACE-hämmare som blockerar enzymet angiotensinkonvertas, vilket omvandlar angiotensin I till angiotensin II (Ang II). Ang II är ett potent vasokonstriktivt ämne som också medierar kärlremodellering och fibros via AT1-receptorn. Genom att minska Ang II-nivåerna uppnås systemisk vasodilatation, minskad aldosteronsekretion och sänkt blodtryck.
 
----
+Kronisk hypoxi – som uppstår vid underliggande lungsjukdomar som KOL eller interstitiell lungfibros – aktiverar renin-angiotensin-aldosteronsystemet (RAAS) och ökar Ang II-produktionen. Detta bidrar till pulmonell vasokonstriktion, hypertrofi av pulmonala arterioler och progressiv kärlremodellering, vilket sammantaget ger pulmonell hypertension av WHO grupp 3-typ. Den teoretiska länken är alltså att ACE-hämning med ramipril skulle kunna dämpa pulmonell vasokonstriktion och hämma fibrotiska processer via Ang II-blockad.
 
-## Literature Evidence
-
-> ⚠️ **Important caveat**: All publications below are general hypoxia biology reviews. None directly evaluate ramipril for pulmonary hypertension owing to lung disease and/or hypoxia. Their relevance to this repurposing hypothesis is indirect background context only.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [11172576](https://pubmed.ncbi.nlm.nih.gov/11172576/) | 2000 | Review | Respiratory Care Clinics of North America | Reviews the four core mechanisms of hypoxemia (hypoventilation, V/Q mismatch, shunt, low inspired O₂) — provides essential pathophysiological framework for Group 3 PH |
-| [9446167](https://pubmed.ncbi.nlm.nih.gov/9446167/) | 1997 | Review | Revue Medicale de Liege | Describes hepatopulmonary syndrome as a model of pulmonary vascular dysregulation driven by systemic disease; relevant to hypoxia-PH linkage |
-| [21328446](https://pubmed.ncbi.nlm.nih.gov/21328446/) | 2011 | Review | Journal of Cellular Biochemistry | Overviews hypoxia-mediated biology including HIF-1α signaling, angiogenesis, and pH homeostasis; background for RAS-hypoxia interaction |
-| [31961750](https://pubmed.ncbi.nlm.nih.gov/31961750/) | 2020 | Review | Annual Review of Immunology | Examines HIF pathway's role in innate immunity and inflammatory hypoxia; contextualizes inflammation in hypoxic vascular disease |
-| [34535359](https://pubmed.ncbi.nlm.nih.gov/34535359/) | 2021 | Review | Clinical Oncology | Discusses strategies to therapeutically modify tumor hypoxia; methodology relevant to hypoxia intervention concepts |
-| [28219680](https://pubmed.ncbi.nlm.nih.gov/28219680/) | 2017 | Review | Experimental Cell Research | Reviews HIF-mediated transcriptional repression under hypoxia; mechanistic context for oxygen-sensing pathways |
-| [33862277](https://pubmed.ncbi.nlm.nih.gov/33862277/) | 2021 | Review | Ageing Research Reviews | Examines hypoxia's dual role in neurodegeneration vs. neuroprotection, including altitude and pulmonary disease contexts |
-| [34618295](https://pubmed.ncbi.nlm.nih.gov/34618295/) | 2022 | Review | Metabolic Brain Disease | Reviews clinical and molecular mechanisms of cognitive impairment under acute and chronic hypoxia |
-| [40815459](https://pubmed.ncbi.nlm.nih.gov/40815459/) | 2025 | Review | Revista Medica del IMSS | Discusses hypobaric hypoxia at altitude and physiological/genetic adaptation; most recent publication in the set |
-| [24557798](https://pubmed.ncbi.nlm.nih.gov/24557798/) | 2014 | Review | Journal of Applied Physiology | Translational overview of hypoxia research priorities; editorial commentary |
+Det saknas dock i dagsläget kliniska studier som direkt undersöker ramipril vid WHO grupp 3 pulmonell hypertension. Dessutom föreligger en etablerad risk för systemisk hypotension vid ACE-hämning, vilket i detta sammanhang kan vara kliniskt problematiskt. Litteraturen som identifierats i detta pack behandlar hypoxibiologi i allmänhet – inte ramipril specifikt i denna indikation – varför förutsägelsen i nuläget bedöms ha låg klinisk verifieringsgrad.
 
 ---
 
-## Taiwan Market Information
+## Kliniska prövningar
 
-Ramipril has no registered products with the Taiwan Food and Drug Administration (TFDA). No authorizations are on file.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Note**: TFDA package insert data (warning labels and contraindications) could not be retrieved (Data Gap DG001, severity: Blocking). This gap must be resolved before any clinical translation work proceeds.
+Inga relaterade kliniska prövningar registrerade för närvarande för RAMIPRIL vid pulmonell hypertension av lungsjukdom och/eller hypoxi.
 
 ---
 
-## Conclusion and Next Steps
+## Litteraturbevis
 
-**Decision: Hold**
+Nedanstående publikationer identifierades i relation till indikationen. Observera att samtliga berör hypoxipatofysiologi i bred bemärkelse och saknar direkt koppling till ramipril som behandling vid denna specifika diagnos.
 
-**Rationale:**
-Despite a high TxGNN prediction score (99.93%), no clinical trials and no direct pharmacological studies support ramipril in Group 3 pulmonary hypertension. The mechanistic hypothesis is biologically plausible but clinically unvalidated, and systemic ACE inhibition carries a real risk of worsening hypoxia in this patient population by aggravating V/Q mismatch.
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|----|-----|-----------|--------------|
+| [33862277](https://pubmed.ncbi.nlm.nih.gov/33862277/) | 2021 | Översikt | Ageing Research Reviews | Genomgår hjärnans akuta sårbarhet för hypoxi vid hög höjd och lungsjukdom samt hypoxins roll i neurodegenerativa sjukdomar. |
+| [34618295](https://pubmed.ncbi.nlm.nih.gov/34618295/) | 2022 | Översikt | Metabolic Brain Disease | Sammanfattar kliniska bevis och molekylära mekanismer bakom kognitiv svikt vid akut och kronisk hypoxi. |
+| [37328448](https://pubmed.ncbi.nlm.nih.gov/37328448/) | 2023 | Laboratoriestudie | Advanced Science | Visar att N4-acetylcytidin via NAT10/SEPT9/HIF-1α-feedbackloop driver glykolyseroende och hypoxitolerans i magsäckscancerceller. |
+| [21328446](https://pubmed.ncbi.nlm.nih.gov/21328446/) | 2011 | Översikt | Journal of Cellular Biochemistry | Beskriver cellulärt syresensorsystem och hur hypoxi påverkar metabolism, angiogenes, vaskulär sjukdom och cancer. |
+| [31706510](https://pubmed.ncbi.nlm.nih.gov/31706510/) | 2019 | Översikt | Trends in Cancer | Granskar hur deubikuitinaser (DUBs) reglerar HIF-stabilitet och kopplingen till tumörhypoxi. |
+| [11172576](https://pubmed.ncbi.nlm.nih.gov/11172576/) | 2000 | Översikt | Respiratory Care Clinics of North America | Genomgår fyra grundläggande mekanismer för hypoxi: lågt omgivningssyre, hypoventilation, V/Q-mismatch och höger-till-vänster-shunt. |
+| [34535359](https://pubmed.ncbi.nlm.nih.gov/34535359/) | 2021 | Översikt | Clinical Oncology | Sammanfattar hur tumörhypoxi orsakar strålresistens och diskuterar strategier för terapeutisk modifiering av hypoxi. |
+| [40815459](https://pubmed.ncbi.nlm.nih.gov/40815459/) | 2025 | Kommentar | Rev Med Inst Mex Seguro Social | Diskuterar hypobar hypoxi vid höjd och fysiologisk acklimatisering hos höghöjdsbor jämfört med havsnivåbefolkning. |
+| [24557798](https://pubmed.ncbi.nlm.nih.gov/24557798/) | 2014 | Kommentar | Journal of Applied Physiology | Introduktionskommentar till temanummer om translationell hypoxiforskning. |
+| [40347693](https://pubmed.ncbi.nlm.nih.gov/40347693/) | 2025 | Översikt | Redox Biology | Granskar hypoxins roll i multipel skleros-patologi och symtom, inklusive vaskulär dysfunktion och inflammation. |
 
-**To proceed, the following is needed:**
+---
 
-- **Resolve Data Gap DG001 (Blocking)**: Retrieve and review the TFDA package insert to screen for contraindications relevant to hypoxic lung disease patients (e.g., bilateral renal artery stenosis, pregnancy, hypotension risk)
-- **Resolve Data Gap DG002 (High)**: Confirm ramipril's full MOA from DrugBank to substantiate or refute the RAS-hypoxia mechanistic link
-- **Targeted literature search**: Search specifically for ACEI class evidence in Group 3 PH (e.g., "ACE inhibitor AND hypoxic pulmonary hypertension" or "ramipril AND pulmonary vascular remodeling")
-- **Preclinical signal check**: Identify whether any animal model data demonstrates ACE inhibition reduces hypoxic pulmonary vasoconstriction without compromising gas exchange
-- **Safety signal review**: Consult pulmonary hypertension clinical guidelines (ESC/ERS 2022) for any existing recommendations or warnings regarding ACEI use in Group 3 PH
-- **Compare with rank-10 indication**: The cerebral artery occlusion prediction (rank 10, Evidence Level L3, decision stage S2) has stronger direct evidence for ramipril and may represent a higher-priority repurposing candidate for near-term evaluation
+## Marknadsinformation Sverige
+
+RAMIPRIL är för närvarande **inte registrerat i Sverige**. Inga godkännanden finns registrerade hos relevanta myndigheter. Produktinformation kan sökas via europeiska eller nationella myndighetsdatabaser för länder där läkemedlet är godkänt (exempelvis EMA eller det tyska BfArM, där ramipril är välkänt under varumärket Delix/Tritace).
+
+---
+
+## Säkerhetsaspekter
+
+Säkerhetsdata för RAMIPRIL saknas i detta Evidence Pack.
+
+> Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+Förutsägelsen vilar på en teoretiskt rimlig mekanistisk hypotes – RAAS-aktivering vid kronisk hypoxi och möjlig ACE-hämning som motåtgärd – men saknar varje form av direkt klinisk verifiering. Identifierad litteratur behandlar hypoxipatofysiologi generellt, inte ramipril som behandlingsalternativ vid WHO grupp 3 pulmonell hypertension, och inga kliniska prövningar finns registrerade. Därtill är säkerhetsprofilen (risk för systemisk hypotension) ett känt hinder för denna patientkategori.
+
+**För att gå vidare krävs:**
+- Genomföra riktad litteratursökning specifikt för *ACE-hämmare + pulmonell hypertension WHO grupp 3* för att fastställa om klassen som helhet har prövats
+- Inhämta fullständig säkerhetsinformation: produktresumé, kontraindikationer och varningar (DG001 i data gaps)
+- Konfirmera verkningsmekanismen via DrugBank API (DG002 i data gaps)
+- Bedöma om systemisk hypotensionsrisk utesluter klinisk tillämpning redan på mekanismnivå (S0-screening)
+- Om mekanistisk screening passeras: utforma en explorativ klinisk frågeställning och söka samarbete med lungmedicinsk specialitet
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -2,7 +2,7 @@
 layout: default
 title: Midazolam
 parent: 僅模型預測 (L5)
-nav_order: 90
+nav_order: 70
 evidence_level: L5
 indication_count: 1
 ---
@@ -10,12 +10,12 @@ indication_count: 1
 # Midazolam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,72 +25,94 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# Midazolam: Repurposing Candidate — Evidence Pack Incomplete, Pending Data Completion
-
-## One-Sentence Summary
-
-Midazolam (DB00683) is a short-acting benzodiazepine sedative widely used for procedural sedation, anxiolysis, and anesthesia induction.
-However, this Evidence Pack contains **no TxGNN-predicted new indications**, no safety records, and no regulatory data for Taiwan — the pipeline has critical data gaps that must be resolved before any repurposing evaluation can proceed.
-This report documents the current state and defines the remediation steps required.
+Jag använder `txgnn-pipeline`-skickligheten som guide. Nu genererar jag rapporten baserat på Evidence Pack.
 
 ---
 
-## Quick Overview
+# Midazolam: Från preoperativ sedering till insomni
 
-| Item | Content |
-|------|---------|
-| Original Indication | No indication data available in this Evidence Pack |
-| Predicted New Indication | None — `predicted_indications` array is empty |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | L5 (model prediction data absent; no supporting studies retrieved) |
-| Taiwan Market Status | ✗ Not marketed (0 licenses on record) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** — critical data gaps block evaluation |
+## Sammanfattning
+
+Midazolam är ett kortverkande bensodiazepinläkemedel som primärt används kliniskt för preoperativ sedering, anestesiinduktion och procedursedation. TxGNN-modellen förutsäger med mycket hög konfidenspoäng (99,74 %) att läkemedlet kan vara effektivt mot **insomni**, ett resultat som stöds av direkta historiska RCT-studier och en pågående prövning som explicit utvärderar midazolam vid sömnstörningar. Evidensbasen är mekanistiskt välmotiverad, men läkemedlets ultrakortverkande farmakokinetik och moderna kliniska riktlinjer begränsar dess roll som förstahandsbehandling vid kronisk insomni.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Snabböversikt
 
-No TxGNN prediction is available in the current Evidence Pack (`predicted_indications: []`), so a mechanism-to-indication reasoning chain cannot be constructed at this time.
-
-Currently, detailed mechanism of action data is not available (DG002: Blocking — High severity). Based on general pharmacological knowledge, Midazolam is a benzodiazepine that acts as a positive allosteric modulator of GABA-A receptors, producing sedation, anxiolysis, anterograde amnesia, and anticonvulsant effects. However, this background information cannot substitute for a formal MOA entry and TxGNN graph-based prediction before a repurposing rationale can be written.
-
-Once TxGNN predictions are retrieved and MOA data is sourced from DrugBank, this section should be completed to explain the mechanistic link between Midazolam's GABA-A modulation and any newly predicted indication.
-
----
-
-## Taiwan Market Information
-
-No license records were found. Midazolam is not currently marketed in Taiwan under any registered product, based on the TFDA query conducted on 2026-03-29 (result count: 0).
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Preoperativ sedering och anestesiinduktion (känd klinisk användning; inga svenska godkännanden registrerade) |
+| Förutsagd ny indikation | Insomni |
+| TxGNN-förutsägelsepoäng | 99,74 % |
+| Evidensnivå | L2 |
+| Marknadsstatus i Sverige | Ej marknadsförd |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Safety Considerations
+## Varför är denna förutsägelse rimlig?
 
-Please refer to the package insert for safety information.
+Midazolam tillhör bensodiazepinklassen och verkar som positiv allosterisk modulator av GABA-A-receptorn. Genom att binda till receptorns bensodiazepinbindningsställe – primärt på α1-subenheten – förstärker midazolam kloridinflödet vid GABA-stimulering. Detta leder till hyperpolarisering av nervcellen och en uttalad CNS-dämpning med sedativa, hypnotiska, anxiolytiska och antikonvulsiva egenskaper. Djurmodelldata (PMID 21396773) ger ytterligare mekanistiskt stöd genom att visa att GABAerg signalering i cingulate cortex är direkt kopplad till sömnreglering.
 
-> **Note:** The TFDA package insert query returned a result (query log ID 4, status: success), but no warnings or contraindications were parsed into the Evidence Pack. Resolving DG001 (TFDA 仿單警語/禁忌, Severity: Blocking) is required before any safety screening can proceed.
+Sambandet mellan den ursprungliga indikationen (sedering) och insomni är direkt mekanistiskt: den hypnotiska effekten av GABA-A-modulering är precis den egenskap som historiskt lagt grunden för bensodiazepiner som sömnmedel. Äldre välkontrollerade studier från 1981–1990 (PMID 6120704, 6138072, 2121802, 2229461) har explicit utvärderat oral midazolam hos patienter med insomni och visat klinisk effekt.
+
+Den viktigaste begränsningen är farmakokinetiken: midazolams eliminationshalveringstid är extremt kort (T½ ≈ 1,5–2,5 timmar). Detta innebär att läkemedlet sannolikt passar bättre vid **insomninssvårigheter** (sleep onset insomnia) än vid **sömnmaintenanceproblem**. Moderna riktlinjer och nyare selektiva sömnmedel (t.ex. orexinantagonister) har i stor utsträckning ersatt bensodiazepiner vid kronisk insomni på grund av beroenderisk och biverkningsprofil.
 
 ---
 
-## Conclusion and Next Steps
+## Kliniska prövningar
 
-**Decision: Hold**
+| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
+|---------|------|--------|-----------|--------------|
+| [NCT06407518](https://clinicaltrials.gov/study/NCT06407518) | N/A | Rekryterar | 280 | Oral midazolam som premedicinering hos kolorektal cancerpatienter med sömnstörningar/ångest inför kirurgi; utvärderar sömnkvalitet och postoperativ smärta; studieprotokoll citerar explicit att midazolam oral lösning är säkert och effektivt för kortvarig hypnos |
+| [NCT02142595](https://clinicaltrials.gov/study/NCT02142595) | Fas 4 | Avslutad | 111 | Randomiserad dubbelblind jämförelse av dexmedetomidin vs. midazolam som sedering vid TURP under spinalanestesi; mäter postoperativ sömnkvalitet; indirekt relevant då sömnkvalitet är primärt utfallsmått |
 
-**Rationale:**
-The Evidence Pack for Midazolam is missing all three foundational data layers — TxGNN predictions, mechanism of action, and safety profile — making it impossible to assess repurposing feasibility or patient risk at this stage.
+---
 
-**To proceed, the following is needed:**
+## Litteraturbevis
 
-1. **Resolve DG001 (Blocking):** Parse the TFDA package insert PDF (already retrieved, query log ID 4) to extract key warnings, contraindications, and black-box alerts — this is a prerequisite for S1 safety screening.
-2. **Resolve DG002 (High):** Query the DrugBank API for DB00683 to populate `original_moa`, pharmacological class, and mechanism details.
-3. **Re-run TxGNN pipeline:** With MOA and target data populated, re-execute the prediction model to generate `predicted_indications` with scores.
-4. **Re-run evidence collection:** Once predicted indications are available, trigger the clinical trials (ClinicalTrials.gov) and literature (PubMed) evidence collection pipeline.
-5. **Re-evaluate market status:** Clarify whether "未上市" reflects a genuine absence or a data retrieval gap — Midazolam is a commonly used drug internationally and its Taiwan status should be confirmed against the full TFDA database.
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|-----|-----|-----------|--------------|
+| [6120704](https://pubmed.ncbi.nlm.nih.gov/6120704/) | 1981 | Fas 2 RCT (dosfinnande) | Arzneimittel-Forschung | Oral midazolam 10–30 mg utvärderat hos 75 inlagda patienter med lindrig–måttlig insomni sekundär till muskuloskeletala sjukdomar; optimal dosintervall fastställt; effektivt och vältolererat sömnmedel |
+| [6138072](https://pubmed.ncbi.nlm.nih.gov/6138072/) | 1983 | RCT | British Journal of Clinical Pharmacology | Dubbelblind parallellgruppsstudie, midazolam 15 mg vs. Vesparax hos 30 kvinnliga insomnipatienter; midazolam visade likvärdig hypnotisk effekt med bättre tolerabilitet och frånvaro av hangover-effekt |
+| [2121802](https://pubmed.ncbi.nlm.nih.gov/2121802/) | 1990 | Kontrollerad klinisk prövning | Journal of Clinical Psychopharmacology | Randomiserad multicenterdesign; flurazepam vs. midazolam hos kroniska insomnipatienter med bensodiazepinhistorik under 14 dagars behandling; utvärderade sömn, prestation och plasmanivåer i stor heterogen population |
+| [2229461](https://pubmed.ncbi.nlm.nih.gov/2229461/) | 1990 | Multicenter kontrollerad prövning | Journal of Clinical Psychopharmacology | Sammanfattande analys av multicenterprövningen flurazepam vs. midazolam vid kronisk insomni; bekräftar korttidseffekt för midazolam |
+| [2883820](https://pubmed.ncbi.nlm.nih.gov/2883820/) | 1986 | Översikt | Acta Psychiatrica Scandinavica | Klinisk genomgång av bensodiazepinhypnotika inklusive midazolam; diskuterar indikationer, farmakokinetisk variation och kliniskt val av sömnmedel |
+| [36615100](https://pubmed.ncbi.nlm.nih.gov/36615100/) | 2022 | RCT | Journal of Clinical Medicine | Pilotprövning av lemborexant vs. bensodiazepin för insomni hos högriskpatienter med pankreatobiliär sjukdom; belyser att bensodiazepiner kan öka deliriumrisken – relevant för säkerhetsperspektivet |
+| [17988972](https://pubmed.ncbi.nlm.nih.gov/17988972/) | 2007 | Översikt | Orvosi Hetilap | Genomgång av insomnipatogenes och cerebral hypoperfusion; diskuterar primär vs. sekundär insomni och hyperarousal-hypotesen |
+
+---
+
+## Marknadsinformation Sverige
+
+Midazolam är för närvarande **inte marknadsförd i Sverige** och saknar registrerade produktgodkännanden. Inga licensposter finns att redovisa.
+
+---
+
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+Midazolams GABA-A-mekanism ger ett välmotiverat och direkt mekanistiskt samband med sömnbehandling, och historiska RCT-studier bekräftar klinisk effekt vid insomni. Däremot begränsar den ultrakortverkande farmakokinetiken (T½ ≈ 1,5–2,5 h) klinisk nytta vid sömnmaintenanceproblem, och moderna behandlingsriktlinjer avråder generellt från bensodiazepiner som förstahandsval vid kronisk insomni på grund av beroenepotential och biverkningsprofil.
+
+**För att gå vidare krävs:**
+- Verifiering av fullständig säkerhets- och kontraindikationsprofil via aktuell produktresumé
+- Identifiering av specifik målpopulation där midazolams snabba anslagstid utgör en klinisk fördel (t.ex. situationell sleep onset insomnia)
+- Jämförande effekt/biverkning-analys mot moderna godkända sömnmedel (zolpidem, eszopiklon, lemborexant, suvorexant)
+- Klargörande av administreringsväg och dosformulering lämplig för insomniindikation (oral lösning alternativt sublingval beredning)
+- Uppdaterad systematisk översikt av bensodiazepiner specifikt vid kortvarig insomni med modern metodologi
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

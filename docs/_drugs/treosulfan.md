@@ -2,7 +2,7 @@
 layout: default
 title: Treosulfan
 parent: 僅模型預測 (L5)
-nav_order: 127
+nav_order: 106
 evidence_level: L5
 indication_count: 1
 ---
@@ -10,12 +10,12 @@ indication_count: 1
 # Treosulfan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,93 +25,94 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-Using `txgnn-pipeline` for context. Now generating the evaluation report based on the Evidence Pack.
+# Treosulfan: Från myeloablativ konditionering till diabetisk katarakt
 
 ---
 
-# Treosulfan: From Myeloablative Conditioning to Diabetic Cataract
+## Sammanfattning
 
-## One-Sentence Summary
-
-Treosulfan is a bifunctional alkylating agent internationally approved as a myeloablative conditioning regimen prior to allogeneic haematopoietic stem cell transplantation (HSCT) in patients with haematological malignancies.
-The TxGNN model predicts it may be effective for **Diabetic Cataract**, with a prediction score of 99.01%; however, **no clinical trials or supporting publications** have been identified for this indication.
-Evidence rests entirely on computational model prediction at this stage.
+Treosulfan är ett alkyleringsmedel som används som del av myeloablativ konditioneringsbehandling inför hematopoetisk stamcellstransplantation. TxGNN-modellen förutsäger med en poäng på 99,01 % att det potentiellt kan vara effektivt mot **diabetisk katarakt**, men varken kliniska prövningar eller vetenskapliga publikationer stöder denna riktning för närvarande. Den mekanistiska kopplingen bedöms som extremt svag, och risk-nyttabalansen är kraftigt negativ för en icke-livshotande ögonsjukdom.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
+| Post | Innehåll |
 |------|---------|
-| Original Indication | Myeloablative conditioning prior to allogeneic HSCT (haematological malignancies; based on international approvals — not registered in this market) |
-| Predicted New Indication | Diabetic Cataract |
-| TxGNN Prediction Score | 99.01% |
-| Evidence Level | L5 |
-| Sweden Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Ursprunglig indikation | Myeloablativ konditioneringsbehandling inför hematopoetisk stamcellstransplantation |
+| Förutsagd ny indikation | Diabetisk katarakt |
+| TxGNN-förutsägelsepoäng | 99,01 % |
+| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
+| Marknadsstatus i Sverige | Inte registrerat |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Varför är denna förutsägelse rimlig?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known information, Treosulfan is a bifunctional alkylating agent whose primary cytotoxic and immunosuppressive effects are achieved through DNA cross-linking. It has been approved internationally (EMA-approved as Trecondi® since 2019) as a conditioning agent that intentionally ablates the recipient's bone marrow, enabling engraftment of donor stem cells. Its established clinical role is in haematological oncology, not ophthalmology.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta Evidence Pack. Baserat på känd information är Treosulfan ett bifunktionellt alkyleringsmedel som verkar genom att bilda DNA-korsningsbindningar (DNA cross-linking), vilket leder till celldöd och djup benmärgssuppression. Läkemedlet är kliniskt positionerat som ett högintensivt cytotoxiskt preparat avsett specifikt för myeloablativ konditionering.
 
-Diabetic cataract develops through a distinct set of pathophysiological pathways: chronic hyperglycaemia drives excess polyol accumulation via the aldose reductase pathway, generates oxidative stress, and promotes non-enzymatic glycation of lens crystallins — all of which progressively cloud the lens. There is no well-characterised direct pharmacological link between alkylating DNA damage and these lens-specific metabolic processes.
+Diabetisk katarakt uppstår genom helt andra mekanismer: förhöjda blodsockernivåer aktiverar polyolvägen, leder till glykering av kristallinproteiner i linsen, ackumulering av oxidativ stress samt avlagring av AGE (advanced glycation end-products). Det finns ingen känd direkt biologisk koppling mellan Treosulfans DNA-alkyleringsmekanism och linspatologin vid diabetes.
 
-The TxGNN model may be capturing indirect biological network connections — for example, shared protein interaction nodes, pathway co-membership, or transcriptomic similarity between alkylating agent responses and lens epithelial cell biology under diabetic stress. However, without mechanistic feasibility data or preclinical evidence, this prediction cannot be corroborated. The large gap between treosulfan's extreme systemic toxicity profile and an ophthalmic indication further complicates any straightforward repurposing path.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Den höga TxGNN-poängen (99,01 %) är sannolikt ett artefakt av avlägsen topologisk likhet i kunskapsgrafen snarare än en verklig biologisk orsakskedja. Mot bakgrund av Treosulfans allvarliga toxicitetsprofil – inklusive myelosuppression och carcinogenicitet – är risk-nyttabalansen kraftigt negativ för en icke-livshotande sjukdom som diabetisk katarakt.
 
 ---
 
-## Literature Evidence
+## Kliniska prövningar
 
-Currently no related literature available.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Cytotoxicity
+## Litteraturbevis
 
-Treosulfan meets the criteria for antineoplastic classification: it is a bifunctional alkylating agent used in haematological cancer treatment and belongs to the same mechanistic family as busulfan.
+Ingen relaterad litteratur tillgänglig för närvarande.
 
-| Item | Content |
+---
+
+## Marknadsinformation Sverige
+
+Treosulfan är inte registrerat i Sverige och saknar godkännanden hos Läkemedelsverket.
+
+---
+
+## Cytotoxicitet
+
+Treosulfan är ett bifunktionellt alkyleringsmedel med cytotoxisk profil och uppfyller kriterierna för antineoplastiska läkemedel.
+
+| Post | Innehåll |
 |------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic — Bifunctional alkylating agent (same class as busulfan) |
-| Myelosuppression Risk | **Very High** — myeloablation is the intended therapeutic endpoint; profound pancytopenia (neutropenia, thrombocytopenia, anaemia) is expected and is managed within the HSCT programme framework |
-| Emetogenicity Classification | Moderate to High |
-| Monitoring Items | CBC with differential (daily during conditioning period), liver function tests (ALT, AST, bilirubin — sinusoidal obstruction syndrome risk), renal function (creatinine, eGFR), pulmonary function assessment |
-| Handling Protection | Full cytotoxic handling measures required — closed-system drug transfer devices (CSTD), appropriate PPE, per institutional chemotherapy handling and disposal protocols |
+| Cytotoxicitetsklassificering | Konventionell cytotoxisk – bifunktionellt alkyleringsmedel (liknar busulfan) |
+| Myelosuppressionsrisk | Hög – läkemedlet är specifikt avsett för myeloablation och orsakar djup och långvarig pancytopeni |
+| Emetogenicitetsklassificering | Medel till Hög |
+| Övervakningspunkter | Fullständigt blodstatus (CBC) med differentialräkning, lever- och njurfunktionsprover, infektionstecken och -parametrar |
+| Hanteringsskydd | Ja – kräver hantering som cytotoxiskt läkemedel; skyddsåtgärder vid beredning, administrering och avfallshantering enligt gällande cytostatikaföreskrifter |
 
 ---
 
-## Safety Considerations
+## Säkerhetsaspekter
 
-Please refer to the package insert for safety information.
+Se produktresumén för säkerhetsinformation.
 
 ---
 
-## Conclusion and Next Steps
+## Slutsats och nästa steg
 
-**Decision: Hold**
+**Beslut: Avvakta**
 
-**Rationale:**
-This prediction is based entirely on TxGNN computational modelling (L5 evidence), with zero supporting clinical trials or publications identified. Beyond the absence of evidence, there is a fundamental mismatch between treosulfan's extreme myelotoxic profile — where the drug's therapeutic action *is* bone marrow destruction — and the requirements of an ophthalmic indication such as diabetic cataract, where patient safety would demand a completely different dosing paradigm and route of administration.
+**Motivering:**
+- Evidensnivån är L5 (enbart modellförutsägelse) utan stöd av kliniska prövningar eller publicerad litteratur. Den mekanistiska kopplingen mellan Treosulfans alkyleringsmekanism och diabetisk katarakt saknar biologisk grund, och läkemedlets extremt höga toxicitetsprofil gör risk-nyttabalansen oacceptabel för en icke-livshotande ögonsjukdom.
 
-**To proceed, the following is needed:**
-- **Mechanistic feasibility analysis**: identify specific biological pathways linking treosulfan's alkylating activity to lens epithelial cell survival, polyol metabolism, or oxidative stress in a diabetic context
-- **Preclinical evidence**: in vitro lens epithelial cell studies or diabetic animal model experiments examining treosulfan's effect on cataractogenesis
-- **TxGNN interpretability audit**: review which knowledge graph features (shared protein targets, pathway nodes, gene expression signatures) are driving this prediction, to assess biological plausibility
-- **Route and dose reformulation assessment**: systemic myeloablative doses are incompatible with ophthalmic use; any repurposing would require a topical or intravitreal route with an entirely different pharmacokinetic profile and safety characterisation
-- **MOA documentation**: retrieve full DrugBank mechanism of action data to enable proper mechanistic-link analysis
+**För att gå vidare krävs:**
+- **Mekanistisk utredning:** Identifiera eventuell biologisk brygga mellan DNA-alkyleringsmekanismen och linspatologi vid diabetes
+- **Prekliniska data:** Djurstudier eller cellstudier som påvisar effekt vid diabetisk katarakt
+- **Säkerhetsomvärdering:** Detaljerad risk-nyttaanalys specifikt för ögonindikation, med hänsyn till att katarakt inte är livshotande
+- **Fullständig säkerhetsdokumentation:** Hämta produktresumé/SmPC för att fylla luckor i varningar och kontraindikationer
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

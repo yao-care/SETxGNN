@@ -2,7 +2,7 @@
 layout: default
 title: Brivaracetam
 parent: 僅模型預測 (L5)
-nav_order: 33
+nav_order: 25
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Brivaracetam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,93 +25,98 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# Brivaracetam: Drug Repurposing Evaluation — Awaiting Prediction Data
-
-## One-Sentence Summary
-
-Brivaracetam (DB05541) is an antiepileptic drug known to selectively bind synaptic vesicle protein 2A (SV2A), used internationally for partial-onset (focal) seizures. The TxGNN model has **not yet generated any predicted new indications** for this drug, and the evidence pack contains significant data gaps in mechanism of action, safety, and regulatory information. **No repurposing candidates can be evaluated at this time.**
+Använder **txgnn-pipeline** för att säkerställa korrekt rapportformat för Sverige-deploymenten.
 
 ---
 
-## Quick Overview
+# Brivaracetam: Från fokal epilepsi till visuell epilepsi
 
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in evidence pack (known internationally: partial-onset seizures) |
-| Predicted New Indication | **None** — TxGNN has not returned predictions |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | **L5** — No prediction or supporting studies available |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+## Sammanfattning
+
+Brivaracetam (BRV) är ett antiepileptikum av tredje generationen som är godkänt internationellt (EMA/FDA) för behandling av fokala anfall, men ännu inte registrerat i Sverige. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **visuell epilepsi** (inklusive ljuskänslig epilepsi), med ett förutsägelsepoäng på **99,5 %**. Stödet baseras på **0 direkta kliniska prövningar** och **19 publikationer** — varav merparten rör BRV:s effekt vid fokal epilepsi i allmänhet snarare än specifikt visuell epilepsi, vilket innebär att kopplingen för närvarande är mekanistiskt motiverad men inte kliniskt verifierad.
 
 ---
 
-## Why Can't This Drug Be Evaluated Yet?
+## Snabböversikt
 
-Brivaracetam is a well-characterized antiepileptic drug approved in the US (Briviact®) and the EU for the adjunctive treatment of partial-onset seizures. It is a high-affinity, selective ligand for synaptic vesicle protein 2A (SV2A), a mechanism related to but distinct from its predecessor levetiracetam. However, the current evidence pack lists the mechanism of action as unavailable, and no original indications are recorded from the Taiwan (TFDA) data source.
-
-The most critical gap is that the `predicted_indications` array is empty — the TxGNN model has not generated any repurposing candidates for Brivaracetam. Without a target indication, no mechanistic plausibility analysis, clinical trial search, or literature review can be performed. This may be due to incomplete mapping of Brivaracetam within the TxGNN knowledge graph, or the drug may not yet have been processed through the prediction pipeline.
-
-Additionally, Brivaracetam is not marketed in Taiwan (0 TFDA licenses), which adds a regulatory barrier to any future repurposing effort in this market. Before re-evaluation, both the prediction pipeline and regulatory data need to be populated.
-
----
-
-## Clinical Trial Evidence
-
-Currently no predicted indication available — clinical trial search not applicable.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Fokal epilepsi — fokala anfall med eller utan sekundär generalisering (godkänt internationellt via EMA/FDA; ej registrerat i Sverige) |
+| Förutsagd ny indikation | Visuell epilepsi (visual epilepsy) |
+| TxGNN-förutsägelsepoäng | 99,5 % |
+| Evidensnivå | L3 — Observationsstudier / systematisk översikt (indirekt stöd) |
+| Marknadsstatus i Sverige | Ej registrerad |
+| Antal godkännanden i Sverige | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Literature Evidence
+## Varför är denna förutsägelse rimlig?
 
-Currently no predicted indication available — literature search not applicable.
+Detaljerad verkningsmekanismdata saknas i den aktuella datakällan. Baserat på den samlade litteraturen är Brivaracetam en selektiv ligand med hög affinitet för **synaptiskt vesikkelprotein 2A (SV2A)** — samma målmolekyl som levetiracetam, men med 15–30 gånger starkare bindningsaffinitet och markant bättre hjärnpenetration tack vare högre lipofili. Bindningen till SV2A hämmar synaptisk vesikkelcirkulering och dämpar därigenom repetitiv neuronal urladdning i epileptiska fokus.
 
----
+Visuell epilepsi — som inkluderar fotokänslig epilepsi och visuellt utlösta anfallssyndrom — involverar hyperexcitabilitet i den visuella cortex. BRV:s breda SV2A-hämning bör teoretiskt sett kunna höja anfallströsklarna i denna region. Fotosensitivitetsmodellen (photoparoxysmal response, PPR) har sedan länge använts som proof-of-principle i BRV:s tidiga kliniska utveckling: en randomiserad crossover-studie (PMID 32949370) visade att BRV undertrycker PPR signifikant snabbare och mer effektivt än levetiracetam, vilket utgör indirekt mekanistiskt stöd för en effekt vid visuellt utlöst epilepsi.
 
-## Taiwan Market Information
-
-Brivaracetam currently holds **no TFDA marketing authorizations** and is not available on the Taiwan market.
+Det direkta kliniska bevismaterialet för *visuell epilepsi* som primär indikation saknas emellertid helt i form av registrerade kliniska prövningar. Den befintliga litteraturen handlar om BRV:s effekt vid fokal epilepsi generellt, och sambandet till visuell epilepsi bygger på mekanistisk extrapolering snarare än riktad klinisk dokumentation.
 
 ---
 
-## Safety Considerations
+## Kliniska prövningar
 
-Safety data (warnings, contraindications, and drug interactions) is not available in the current evidence pack. TFDA package insert data could not be retrieved for this drug.
-
-> Please refer to the international package insert (e.g., US Briviact® PI or EMA SmPC) for complete safety information.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Data Gaps Summary
+## Litteraturbevis
 
-The following critical data gaps were identified and must be resolved before re-evaluation:
-
-| Gap ID | Item | Severity | Impact | Remediation |
-|--------|------|----------|--------|-------------|
-| DG001 | TFDA Package Insert Warnings/Contraindications | **Blocking** | Cannot enter Stage 1 safety screening | Download and parse package insert PDF from TFDA website |
-| DG002 | Mechanism of Action (MOA) | **High** | Prevents mechanistic relevance analysis | Query DrugBank API for MOA data |
-| — | TxGNN Predicted Indications | **Blocking** | No repurposing candidate to evaluate | Run Brivaracetam through TxGNN prediction pipeline |
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|----|-----|-----------|--------------|
+| [38576178](https://pubmed.ncbi.nlm.nih.gov/38576178/) | 2024 | Fas III RCT | *Epilepsia open* | Adjunktiv BRV visade signifikant minskad anfallsfrekvens och god tolerabilitet hos vuxna asiatiska patienter med okontrollerade fokala anfall; dubbelblindat, placebokontrollerat. |
+| [37483441](https://pubmed.ncbi.nlm.nih.gov/37483441/) | 2023 | Systematisk översikt & metaanalys | *Frontiers in neurology* | BRV visade god effekt och säkerhet vid barnepilepsipatienter; stödjer BRV:s tolerabilitetsprofil jämfört med äldre antiepileptika. |
+| [38811492](https://pubmed.ncbi.nlm.nih.gov/38811492/) | 2024 | Narrativ översikt | *Advances in therapy* | Genomgång av BRV:s prekliniska profil och kliniska fördelar; bekräftar SV2A-mekanism med 15–30× högre affinitet än levetiracetam och överlägsen blod–hjärnbarriärpenetration. |
+| [40568060](https://pubmed.ncbi.nlm.nih.gov/40568060/) | 2025 | Översikt | *Journal of epilepsy research* | Sammanfattar BRV:s farmakologi, klinisk effekt och säkerhet i såväl kliniska prövningar som verklig klinisk praxis; bekräftar godkännande som mono- och tilläggsbehandling. |
+| [37684052](https://pubmed.ncbi.nlm.nih.gov/37684052/) | 2023 | Klinisk riktlinje | *BMJ* | Riktlinje för epilepsihandläggning under graviditet och amning; diskuterar BRV:s säkerhetsprofil i förhållande till andra antiepileptika. |
+| [32120063](https://pubmed.ncbi.nlm.nih.gov/32120063/) | 2020 | Mekanismöversikt | *Neuropharmacology* | Genomgång av verkningsmekanismer hos nuvarande antiepileptika; BRV:s SV2A-bindning och inverkan på synaptisk transmission beskrivs ingående. |
+| [31195850](https://pubmed.ncbi.nlm.nih.gov/31195850/) | 2019 | Klinisk effektöversikt | *Expert review of neurotherapeutics* | BRV:s effekt och säkerhet vid fokal epilepsi; jämförelse med levetiracetam och analys av BRV:s förbättrade CNS-penetration. |
+| [31937513](https://pubmed.ncbi.nlm.nih.gov/31937513/) | 2020 | Poolad säkerhetsanalys | *Epilepsy & behavior* | Djupgående säkerhetsanalys av adjunktiv BRV vid fokal epilepsi baserad på poolade kliniska prövningsdata; bekräftar god tolerabilitet. |
+| [26664121](https://pubmed.ncbi.nlm.nih.gov/26664121/) | 2015 | Översikt | *Neuropsychiatric disease and treatment* | Tidig profil av BRV inför FDA/EMA-granskning; beskriver SV2A-mekanism och potentiell klinisk roll vid partiella anfall. |
+| [38117319](https://pubmed.ncbi.nlm.nih.gov/38117319/) | 2024 | Klinisk översikt | *Intensive care medicine* | Genomgång av status epilepticus-hantering på IVA; nämner BRV bland nyare antiepileptika med gynnsam farmakokinetik. |
 
 ---
 
-## Conclusion and Next Steps
+## Marknadsinformation Sverige
 
-**Decision: Hold**
+Brivaracetam är för närvarande **inte registrerat i Sverige**. Inga läkemedelsgodkännanden finns tillgängliga hos Läkemedelsverket. Läkemedlet marknadsförs som **Briviact®** i övriga EU-länder efter EMA-godkännande samt i USA efter FDA-godkännande, men saknar marknadsföringstillstånd på den svenska marknaden.
 
-**Rationale:**
-No TxGNN-predicted indications exist for Brivaracetam, making it impossible to evaluate any repurposing opportunity. Combined with the absence of a Taiwan marketing authorization and multiple blocking data gaps, this candidate cannot proceed at this time.
+---
 
-**To proceed, the following is needed:**
-- **Run Brivaracetam through the TxGNN prediction pipeline** to generate candidate indications (highest priority)
-- Resolve DG002: Retrieve detailed mechanism of action data from DrugBank (SV2A binding, pharmacodynamics)
-- Resolve DG001: Obtain TFDA package insert safety data, or alternatively source from FDA/EMA if Taiwan registration is not planned
-- Assess Taiwan regulatory pathway feasibility, given the drug is currently not marketed (未上市)
-- Once a predicted indication is available, re-generate the evidence pack with clinical trial and literature searches targeting that indication
+## Säkerhetsaspekter
+
+Se produktresumén (SmPC) för Briviact® för fullständig säkerhetsinformation avseende varningar, kontraindikationer och läkemedelsinteraktioner.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+Trots ett högt TxGNN-förutsägelsepoäng (99,5 %) och ett mekanistiskt plausibelt samband via SV2A-hämning i visuell cortex saknas direkta kliniska prövningar för visuell epilepsi som primär indikation. Den befintliga evidensen är indirekt och kan inte ensam motivera en riktad klinisk satsning på denna nischindikation.
+
+**För att gå vidare krävs:**
+- Prospektiv observationsstudie eller fallserie hos patienter med ljuskänslig eller visuellt utlöst epilepsi behandlade med BRV
+- Direkta kliniska prövningar (Fas II) med visuell epilepsi som primärt utfall
+- Registrering av Briviact® i Sverige via Läkemedelsverket
+- Fullständig säkerhetsdokumentation (MPA/EMA produktresumé på svenska)
+
+---
+
+> **ℹ️ Notering om övriga förutsagda indikationer:**
+> Rapporten fokuserar på den högst rankade TxGNN-förutsägelsen (visuell epilepsi, rang 1). Bland övriga indikationer har **status epilepticus** (rang 2, evidensnivå **L2**) ett betydligt starkare direkt evidensunderlag — inklusive 2 avslutade kliniska prövningar (NCT07163572: IV BRV vs. IV levetiracetam, n=152) och en systematisk översikt (PMID 32278203) — och rekommenderas prioriteras i en separat fördjupad utvärdering med beslut **Fortsätt med försiktighet**.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

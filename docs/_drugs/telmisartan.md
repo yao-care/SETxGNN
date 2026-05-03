@@ -2,7 +2,7 @@
 layout: default
 title: Telmisartan
 parent: 僅模型預測 (L5)
-nav_order: 123
+nav_order: 102
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Telmisartan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,83 +25,83 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-Now I have the context I need. Let me generate the evaluation report based on the Evidence Pack.
+Skill content noted — this is a Swedish TxGNN deployment (Se). Generating the pharmacist evaluation report now based on the Evidence Pack.
 
 ---
 
-# Telmisartan: From Hypertension to Prinzmetal Angina
+# Telmisartan: Från hypertoni till Prinzmetal angina
 
-## One-Sentence Summary
+## Sammanfattning
 
-Telmisartan is an angiotensin II type 1 receptor blocker (ARB) with an additional partial PPARγ agonist action, widely used internationally for hypertension and cardiovascular risk reduction — though no Taiwan approval record exists in this dataset.
-The TxGNN model predicts it may be effective for **Prinzmetal Angina** (variant angina caused by coronary artery spasm),
-with **no clinical trials** and **no publications** currently supporting this specific direction.
+Telmisartan är en angiotensin II-receptorblockerare (ARB) med dubbel verkningsmekanism — AT1-receptorblockad och partiell PPARγ-agonism — och används globalt för behandling av hypertoni och kardiovaskulär riskreduktion. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **Prinzmetal angina** (vasospastisk angina) med en förutsägelsepoäng på **99,98%**. För närvarande finns **inga kliniska prövningar** och **inga publikationer** som direkt stöder denna indikation, vilket placerar evidensen på nivå L5 — enbart modellförutsägelse.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
-|------|---------|
-| Original Indication | Not on record in Taiwan (ARB class; known international use: hypertension) |
-| Predicted New Indication | Prinzmetal Angina |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, telmisartan belongs to the ARB (angiotensin II type 1 receptor blocker) class and uniquely acts as a partial PPARγ agonist — earning it the informal label "metabosartan." Its blood pressure-lowering efficacy and cardiovascular event reduction have been established in large Phase 3/4 trials.
-
-Prinzmetal angina (variant angina) is caused by transient coronary artery spasm. Theoretically, AT1 receptor blockade could relieve angiotensin II–induced coronary vasospasm, while PPARγ activation provides antioxidative and endothelial-protective effects on the coronary vasculature. These mechanistic links are pharmacologically coherent.
-
-However, no preclinical study has used a coronary spasm model with telmisartan, and no clinical research has ever enrolled Prinzmetal angina patients. The high TxGNN score (99.98%, rank 73) is most likely driven by graph topology — telmisartan's cardiovascular nodes in the knowledge graph sit close to coronary artery disease nodes — rather than true therapeutic relevance. This prediction should be treated as a hypothesis-generation signal only.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Hypertoni (globalt etablerad; ej godkänd i Sverige) |
+| Förutsagd ny indikation | Prinzmetal angina |
+| TxGNN-förutsägelsepoäng | 99,98% |
+| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
+| Marknadsstatus i Sverige | Ej godkänd |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Clinical Trial Evidence
+## Varför är denna förutsägelse rimlig?
 
-Currently no related clinical trials registered.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta evidenspaket. Baserat på känd farmakologisk information är telmisartan en ARB som tillhör klassen AT1-receptorantagonister med den unika tilläggsegenskapen att vara en partiell PPARγ-agonist — vilket gett läkemedlet epitetet "metabosartan". Dess effekt vid hypertoni och sekundärprevention av kardiovaskulära händelser är väldokumenterad i globala registreringar.
 
----
+Sambandet med Prinzmetal angina är teoretiskt men inte orimligt: vasospastisk angina beror på övergående koronart artärspasm, och angiotensin II kan via AT1-receptorer bidra till vasokonstriktion i koronarkärlen. AT1-blockad skulle teoretiskt kunna motverka detta. Därtill kan PPARγ-aktivering förbättra endotelfunktionen och minska vaskulär reaktivitet — en mekanism som kan vara relevant vid kärlspasm.
 
-## Literature Evidence
-
-Currently no related literature available.
+Kopplingen är dock rent spekulativ och saknar experimentellt stöd. Det finns varken kliniska studier, djurexperimentella data eller mekanistiska rapporter som specifikt undersökt telmisartans effekt vid Prinzmetal angina. TxGNN:s höga förutsägelsepoäng baseras på topologiska relationer i sjukdoms-läkemedels-grafen och bör tolkas som en hypotesgenererande signal snarare än ett kliniskt bevis.
 
 ---
 
-## Safety Considerations
+## Kliniska prövningar
 
-Please refer to the package insert for safety information.
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-There is no preclinical or clinical evidence of any kind supporting telmisartan specifically for Prinzmetal angina. At evidence level L5, this is purely a model-generated hypothesis whose high score is most likely an artifact of knowledge graph proximity rather than biological plausibility.
-
-**To proceed, the following is needed:**
-- Preclinical investigation using a validated coronary artery spasm model (e.g., ergonovine or methacholine challenge in animal models)
-- Confirmation of mechanistic link between AT1R blockade / PPARγ activation and vasospastic angina pathophysiology
-- Retrieval of MOA data from DrugBank (DG002 remediation)
-- Taiwan package insert and safety data (DG001 remediation) to enable S1 safety pre-screening
-- Literature search broadened to ARB class effects on coronary vasomotor tone
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-> **Note on the full prediction landscape:** While Prinzmetal angina is ranked #1 by TxGNN score, the strongest empirical evidence in this Evidence Pack belongs to **intracerebral hemorrhage** (rank #9, Evidence Level L1), supported by the completed TRIDENT Phase 3 trial (NCT02699645, n=1,671) and multiple animal model studies. If prioritizing evidence-based repurposing candidates, **intracerebral hemorrhage** and **cerebral artery occlusion** (rank #4, L3) represent substantially higher-confidence targets for further evaluation.
+## Litteraturbevis
+
+Ingen relaterad litteratur tillgänglig för närvarande.
+
+---
+
+## Marknadsinformation Sverige
+
+Telmisartan är för närvarande **inte godkänt** på den svenska marknaden. Inga produktgodkännanden finns registrerade i detta underlag.
+
+---
+
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- Trots en hög TxGNN-förutsägelsepoäng (99,98%) saknas all faktisk evidens för telmisartan vid Prinzmetal angina — varken kliniska prövningar, djurmodelldata eller publicerad litteratur finns tillgänglig för denna indikation. Förutsägelsen är biologiskt möjlig på teorinivå men har ännu inte testats experimentellt.
+
+**För att gå vidare krävs:**
+- Systematisk sökning efter prekliniska data: påverkar AT1-blockad och/eller PPARγ-aktivering koronart artärspasm i djurmodeller?
+- Litteraturgranskning utvidgad till angränsande ARB-preparat (losartan, valsartan, candesartan) vid vasospastisk angina för att bedöma klasseffekt
+- Mekanistisk bedömning: kartlägg överlappande patofysiologiska vägar mellan angiotensin II-signalering och koronart vasospasm
+- Komplettering av säkerhetsprofil via produktresumé och DrugBank API (MOA, kontraindikationer, DDI)
+- Om preklinisk signal identifieras: proof-of-concept pilotstudie (fas 2) för effekt och säkerhet vid Prinzmetal angina
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

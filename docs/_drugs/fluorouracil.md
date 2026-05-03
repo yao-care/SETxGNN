@@ -2,7 +2,7 @@
 layout: default
 title: Fluorouracil
 parent: 僅模型預測 (L5)
-nav_order: 62
+nav_order: 50
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Fluorouracil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,96 +25,88 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-Using the `txgnn-pipeline` skill as context, I'll now generate the report based on the Evidence Pack. The top predicted indication (rank 1) has L5 evidence only, while rank 7 (liver sarcoma) has the richest evidence — but per the report format instructions, the report focuses on `predicted_indications[0]`.
+Bra. Jag har bekräftat att detta är ett TxGNN-projekt (Se = Sverige). Nu genererar jag rapporten baserat på Evidence Pack JSON.
 
 ---
 
-# Fluorouracil (5-FU): From Antineoplastic Chemotherapy to Botryoid-Type Embryonal Rhabdomyosarcoma of the Vagina
+# Fluorouracil (5-FU): Från cancerbehandling till botryoid embryonal rabdomyosarkom i vagina
 
-## One-Sentence Summary
+## Sammanfattning
 
-Fluorouracil (5-FU) is a classic pyrimidine antimetabolite, widely used in chemotherapy regimens for solid tumors including colorectal, gastric, and head-and-neck cancers.
-The TxGNN model predicts it may be effective for **Botryoid-Type Embryonal Rhabdomyosarcoma of the Vagina** (top-ranked prediction, score 99.75%),
-however **0 clinical trials** and **0 publications** specifically support this direction — the evidence is model prediction only.
+Fluorouracil (5-FU) är ett klassiskt fluoropyrimidin-antimetabolit-cytostatikum med bred klinisk användning inom onkologin – framför allt vid kolorektal-, magsäcks- och pankreascancer – men saknar registrerade godkännanden i Sverige. TxGNN-modellen förutsäger att det kan vara effektivt mot **botryoid embryonal rabdomyosarkom i vagina**, ett extremt sällsynt pediatriskt tumörtillstånd. Förutsägelsen stöds av **0 kliniska prövningar** och **0 publikationer** för denna specifika indikation, vilket innebär att evidensunderlaget är otillräckligt för vidare utredning i nuläget.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
-|------|---------|
-| Original Indication | No Taiwan authorization record available |
-| Predicted New Indication | Botryoid-Type Embryonal Rhabdomyosarcoma of the Vagina |
-| TxGNN Prediction Score | 99.75% |
-| Evidence Level | L5 (model prediction only, no clinical or preclinical studies) |
-| Taiwan Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on well-established pharmacology, Fluorouracil (5-FU) is a fluorinated pyrimidine antimetabolite. It is converted intracellularly to active metabolites — primarily fluorodeoxyuridine monophosphate (FdUMP) — which irreversibly inhibit thymidylate synthase (TS), blocking de novo synthesis of thymidine and thereby disrupting DNA replication in rapidly dividing cells.
-
-Botryoid-type embryonal rhabdomyosarcoma of the vagina is an extremely rare pediatric/adolescent tumor arising from embryonal muscle precursor cells. As a rapidly proliferating malignancy, it is theoretically susceptible to TS inhibitors that target DNA synthesis. The mechanistic reasoning is biologically plausible at a general level.
-
-However, the critical limitation is that rhabdomyosarcoma is a **myogenic (muscle-derived) malignancy**, whereas 5-FU's established clinical activity is almost exclusively in **epithelial cancers (carcinomas)**. The current standard of care for rhabdomyosarcoma is the VAC regimen (vincristine, actinomycin-D, cyclophosphamide), which does not include 5-FU. This TxGNN prediction most likely reflects a graph-based association learned from shared disease network topology, not a direct mechanistic or clinical link.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Ej registrerat i Sverige (5-FU används kliniskt vid kolorektal-, magsäcks- och pankreascancer) |
+| Förutsagd ny indikation | Botryoid embryonal rabdomyosarkom i vagina |
+| TxGNN-förutsägelsepoäng | 99,75% |
+| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
+| Marknadsstatus i Sverige | Ej registrerat |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Clinical Trial Evidence
+## Varför är denna förutsägelse rimlig?
 
-Currently no related clinical trials registered.
+Detaljerad verkningsmekanismdata (MOA) saknas i detta datapaket. Baserat på känd farmakologi är fluorouracil en antimetabolit ur fluoropyrimidingruppen. Dess primära verkningsmekanism bygger på hämning av enzymet tymidylatsyntetas (TS), vilket blockerar omvandlingen av deoxyuridylat (dUMP) till deoxytymidylat (dTMP) – ett nyckelsteg i DNA-syntesen. Därutöver inkorporeras aktiva metaboliter av 5-FU i cellulär RNA och DNA, vilket stör cellernas funktion. Dessa mekanismer leder till hämning av celldelning i snabbväxande celler, vilket är grunden för 5-FU:s brett etablerade cytotoxiska effekt.
 
----
+Botryoid embryonal rabdomyosarkom i vagina är en undertyp av rabdomyosarkom (RMS) som utgår från skelettmuskelprogenitorceller och drabbar huvudsakligen barn under fem år. Den internationella standardbehandlingen är VAC-regimen (vinkristin + aktinomycin D + cyklofosfamid), med tillägg av strålbehandling vid behov. Fluorouracil ingår inte i något etablerat behandlingsprotokoll för RMS, vare sig som förstahandsval eller salvage-terapi, och det saknas känd specifik biologisk motivering för att 5-FU:s TS-hämning skulle ha mekanistiska fördelar gentemot just denna tumörtyp jämfört med VAC:s komponenter.
 
-## Literature Evidence
-
-Currently no related literature available.
+Det höga TxGNN-poänget (99,75%) bör tolkas med stor försiktighet. Alla tio topprankade förutsägelser i detta paket tillhör RMS-klustret eller en besläktad sarkomgrupp, vilket tyder på att poängen speglar spridningseffekter i kunskapsgrafen via delade grannoder snarare än ett äkta biologiskt signal för denna sällsynta undertyp. Det fullständiga avsaknaden av kliniska prövningar och litteratur bekräftar att förutsägelsen inte är handlingskraftig i nuläget.
 
 ---
 
-## Cytotoxicity
+## Kliniska prövningar
 
-Fluorouracil is a conventional cytotoxic antineoplastic agent belonging to the fluoropyrimidine class. The following cytotoxicity profile applies based on the drug class:
-
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic — Fluoropyrimidine class |
-| Myelosuppression Risk | Moderate to High (leukopenia, neutropenia, thrombocytopenia, and anemia are common dose-limiting toxicities) |
-| Emetogenicity Classification | Low to Moderate |
-| Monitoring Items | Complete blood count (CBC) with differential, liver function tests (LFTs), renal function, serum electrolytes |
-| Handling Protection | Must follow cytotoxic drug handling regulations; closed-system drug transfer devices (CSTDs) recommended |
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Safety Considerations
+## Litteraturbevis
 
-Please refer to the package insert for safety information.
-
-> Note: Taiwan TFDA package insert data was not retrievable in this Evidence Pack (Data Gap DG001). Safety review cannot be completed until the package insert is obtained and parsed.
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
-## Conclusion and Next Steps
+## Cytotoxicitet
 
-**Decision: Hold**
+| Post | Innehåll |
+|------|----------|
+| Cytotoxicitetsklassificering | Konventionellt cytotoxiskt läkemedel – antimetabolit (fluoropyrimidin) |
+| Myelosuppressionsrisk | Medel – kan orsaka leukopeni, neutropeni och trombocytopeni, framför allt vid bolusadministration; kontinuerlig IV-infusion ger lägre hematologisk toxicitet men högre risk för hand-fotsyndrom (palmar-plantar erytrodysestesi) |
+| Emetogenicitetsklassificering | Låg till medel – varierar beroende på doseringsregim; IV bolus har högre emetogen potential än kontinuerlig infusion |
+| Övervakningspunkter | Fullständigt blodstatus (CBC) inkl. differentialräkning; lever- och njurfunktionsprover; DPD-enzymstatus (dihydropyrimidindehydrogenas) – patienter med DPD-brist löper kraftigt ökad risk för livshotande toxicitet och bör testas innan behandling |
+| Hanteringsskydd | Ja – klassificeras som cytotoxiskt läkemedel och kräver skyddsåtgärder vid beredning, administrering och avfallshantering enligt cytostatikaföreskrifter (AFS 2005:5) |
 
-**Rationale:**
-This prediction rests entirely on the TxGNN graph neural network model (L5 — no supporting clinical trials or literature). Fluorouracil has no established mechanism of action against myogenic sarcoma lineages, and the botryoid vaginal subtype is an ultra-rare pediatric tumor with essentially no published data on fluoropyrimidine use. Proceeding without preclinical validation would not be justified.
+---
 
-**To proceed, the following is needed:**
-- Preclinical in vitro studies testing 5-FU cytotoxicity against rhabdomyosarcoma cell lines (e.g., RD, Rh30)
-- Mechanistic evidence linking TS inhibition to myogenic tumor biology
-- Review of historical pediatric oncology cooperative group data (COG, IRS) for any prior 5-FU exposure in rhabdomyosarcoma patients
-- Taiwan TFDA package insert retrieval for complete warnings and contraindications (Data Gap DG001)
-- DrugBank MOA data query to formally document mechanism of action (Data Gap DG002)
-- Consider pivoting the report focus to **Liver Sarcoma** (rank 7, Evidence Level L3: 6 clinical trials + 20 publications), which carries substantially more evidence and a stronger mechanistic rationale via hepatic arterial infusion and FOLFIRINOX-based regimens
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- Evidensnivån är L5 (enbart TxGNN-modellförutsägelse) utan stöd från kliniska prövningar eller publicerad litteratur för denna indikation. Den biologiska kopplingen är spekulativ och standardbehandlingen (VAC-regimen) för botryoid embryonal RMS i vagina är väletablerad och involverar inte fluorouracil.
+
+**För att gå vidare krävs:**
+- Prekliniska in vitro-studier av 5-FU mot botryoid RMS-cellinjer för att etablera biologisk motivering
+- Klargörande av varför 5-FU:s TS-hämning skulle erbjuda fördelar utöver etablerad VAC-behandling
+- Komplettering av säkerhetsdata: fullständig produktresumé, kontraindikationer och varningsprofil (DPD-brist är särskilt relevant i pediatrisk population)
+- Granskning av om 5-FU förekommer i något pediatriskt RMS-salvage-protokoll för att utesluta exkludering av faktisk klinisk användning från litteratursökningen
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

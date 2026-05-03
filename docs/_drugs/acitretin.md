@@ -10,12 +10,12 @@ indication_count: 4
 # Acitretin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,96 +25,98 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# Acitretin: Drug Repurposing Evaluation Report
+Analyserar Evidence Pack och genererar rapport för Acitretin...
 
-## One-Sentence Summary
+---
 
-Acitretin is a second-generation systemic retinoid, known internationally for the treatment of severe psoriasis and other keratinization disorders. No TxGNN predicted indications are currently available for this drug, and **no clinical trial or literature evidence** has been compiled in this evidence pack. The evaluation is currently on hold pending additional data.
+# Acitretin: Från psoriasis till akne
 
-## Quick Overview
+## Sammanfattning
 
-| Item | Content |
+Acitretin är ett andra generationens aromatiskt retinoid – en syntetisk analog till vitamin A – primärt känt för sin kliniska användning vid svår psoriasis och keratiniseringsrubbningar. TxGNN-modellen förutsäger med **99,94% konfidenspoäng** att acitretin kan ha terapeutisk effekt vid **akne**, ett fynd som stöds av läkemedlets mekanistiska likhet med isotretinoin (det etablerade retinoida förstahandsvalet vid svår akne). Evidensbasen inkluderar **1 klinisk prövning** (med begränsad direkt relevans) och **18 publikationer**, varav ett fåtal behandlar acitretin specifikt vid acne inversa och nodulocystisk akne.
+
+---
+
+## Snabböversikt
+
+| Post | Innehåll |
 |------|------|
-| Drug Name (INN) | Acitretin |
-| DrugBank ID | [DB00459](https://go.drugbank.com/drugs/DB00459) |
-| Original Indication | Not recorded in this evidence pack (known use: severe psoriasis) |
-| Predicted New Indication | None available — TxGNN predictions not yet generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (No predictions or studies available) |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
-| Number of Licenses | 0 |
-| Recommended Decision | **Hold** |
+| Ursprunglig indikation | Psoriasis och hyperkeratotiska hudsjukdomar (baserat på känd farmakologi; läkemedlet saknar godkännande i Sverige) |
+| Förutsagd ny indikation | Akne (*acne vulgaris* / *acne inversa*) |
+| TxGNN-förutsägelsepoäng | 99,94% |
+| Evidensnivå | L3 – Observationsstudier, fallserier och systematiska översikter |
+| Marknadsstatus i Sverige | Ej godkänt |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
-## Why is This Prediction Reasonable?
+---
 
-Currently, no TxGNN prediction has been generated for Acitretin. Therefore, a mechanistic plausibility assessment cannot be performed at this time.
+## Varför är denna förutsägelse rimlig?
 
-For context, Acitretin is the active metabolite of etretinate and belongs to the retinoid class. Retinoids modulate gene expression by binding to nuclear retinoic acid receptors (RARs and RXRs), influencing cell proliferation, differentiation, and apoptosis. It is primarily used for the treatment of severe psoriasis (including erythrodermic and pustular forms) and other disorders of keratinization. The detailed mechanism of action (MOA) data was not available in the current evidence pack (Data Gap DG002).
+Acitretin aktiverar kärnreceptorerna **RARα och RARγ**, vilket normaliserar keratinocytdifferentiering och follikelkeratinisering, dämpar talgkörtlarnas aktivitet samt utövar antiinflammatoriska effekter – bland annat via hämning av leukotrien LTC4-frisättning från eosinofiler. Dessa tre mekanismer är direkt relevanta för aknepatogenesen, där störd follikelkeratinisering, överdrivet sebum och kronisk follikellokaliserad inflammation utgör kärnpatologin.
 
-Once TxGNN predictions are generated, the known retinoid receptor-mediated mechanism and its broad effects on cell differentiation and immune modulation could provide a basis for evaluating repurposing candidates across dermatological, oncological, or immunological indications.
+Sambandet förstärks av att acitretin och isotretinoin tillhör samma läkemedelsklass. Isotretinoin är idag förstahandsval vid svår nodulocystisk akne vulgaris, och retinoidklassens antiakneeffekt bygger på mekanismer som acitretin delar till stor del. Litteraturen bekräftar att acitretin används vid **acne inversa** (hidradenitis suppurativa) med lovande långtidsresultat i kliniska fallserier, och ett fallrapport beskriver framgångsrik behandling av nodulocystisk akne med acitretin efter misslyckad isotretinoinbehandling.
 
-## Clinical Trial Evidence
+Sammantaget är den biologiska plausibiliteten hög, men evidensbasen förblir indirekt: den grundas på mekanistiska likheter med isotretinoin, ett fåtal fallrapporter och serier, samt studier på akne-relaterade men inte identiska tillstånd. Direkta randomiserade kliniska prövningar av acitretin vid akne vulgaris saknas.
 
-Currently no related clinical trials registered in this evidence pack.
+---
 
-> No predicted indications have been generated, so clinical trial mapping has not been performed.
+## Kliniska prövningar
 
-## Literature Evidence
+| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
+|---------|------|------|------|---------|
+| [NCT04663906](https://clinicaltrials.gov/study/NCT04663906) | N/A | Okänd | 300 | Undersöker om **isotretinoin** (ej acitretin) ökar risken för COVID-19-infektion via nasala slemhinnors torrhet. Tillhör retinoidklassen och rör aknebehandling, men ger inte direkt evidens för acitretin vid akne. Begränsad relevans (grad C). |
 
-Currently no related literature available in this evidence pack.
+---
 
-> Literature evidence collection is pending the generation of TxGNN predicted indications.
+## Litteraturbevis
 
-## Taiwan Market Information
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|-----|------|------|---------|
+| [20874789](https://pubmed.ncbi.nlm.nih.gov/20874789/) | 2011 | Retrospektiv fallserie | *British Journal of Dermatology* | Långtidsresultat av **acitretin** vid hidradenitis suppurativa (acne inversa); stöder acitretin som behandlingsalternativ vid svår akne-relaterad kronisk hudsjukdom. Starkaste direkta evidensen. |
+| [12080949](https://pubmed.ncbi.nlm.nih.gov/12080949/) | 2002 | Fallrapport | *Cutis* | **Acitretin** behandlade framgångsrikt nodulocystisk akne och hidradenitis suppurativa hos patient med otillräckligt svar på isotretinoin. Direkt evidens för acitretin vid svår akne. |
+| [25640693](https://pubmed.ncbi.nlm.nih.gov/25640693/) | 2015 | Klinisk riktlinje (S1) | *JEADV* | Europeisk S1-riktlinje för hidradenitis suppurativa/acne inversa; inkluderar retinoider (inklusive acitretin) bland behandlingsalternativen. Ger guideline-stöd. |
+| [29234829](https://pubmed.ncbi.nlm.nih.gov/29234829/) | 2018 | Narrativ översikt | *Der Hautarzt* | Läkemedelsbehandling av acne inversa; diskuterar kombinationsantibiotika, TNF-α-hämmare och retinoidanvändning vid hidradenitis suppurativa. |
+| [28476075](https://pubmed.ncbi.nlm.nih.gov/28476075/) | 2017 | Cochrane-översikt | *Cochrane Database of Systematic Reviews* | Systematisk genomgång av läkemedel vid diskoid lupus; inkluderar retinoiddata och bekräftar antiinflammatorisk retinoidverkan vid kroniska inflammatoriska hudsjukdomar. |
+| [40888828](https://pubmed.ncbi.nlm.nih.gov/40888828/) | 2025 | Systematisk översikt | *American Journal of Clinical Dermatology* | Etniska skillnader vid palmoplantar pustulos; behandlar retinoiders roll vid immunmedierade dermatoser och ger aktuell kontextuell evidens. |
+| [41692081](https://pubmed.ncbi.nlm.nih.gov/41692081/) | 2026 | Narrativ översikt | *Clinics in Dermatology* | Genomgång av vitamin A och retinoider i dermatologi; bekräftar acitretin som kliniskt etablerat oralt retinoid och jämför indikationsprofil mot isotretinoin vid akne. |
+| [8573927](https://pubmed.ncbi.nlm.nih.gov/8573927/) | 1995 | Mekanistisk översikt | *Dermatology* | Undersöker retinoiders hämning av talgkörtelaktivitet – den centrala mekanismen bakom antiakneverkan. Förklarar biologisk plausibilitet för acitretin vid akne. |
+| [9074840](https://pubmed.ncbi.nlm.nih.gov/9074840/) | 1997 | Narrativ översikt | *Drugs* | Aktuell användning och framtida potential för retinoider i dermatologi; bekräftar acitretin vid psoriasis, hyperkeratoser och akne-relaterade dermatoser. |
+| [1617858](https://pubmed.ncbi.nlm.nih.gov/1617858/) | 1992 | PK/PD-översikt | *Clinical Pharmacokinetics* | Farmakokinetik och terapeutisk effekt för retinoider; etablerar acitretin som andra generationens retinoid och bekräftar psoriasis och akne-relaterade tillstånd som kliniska användningsområden. |
 
-Acitretin is currently **not marketed in Taiwan**. No TFDA licenses were found.
+---
 
-| Item | Content |
-|------|------|
-| Market Status | Not marketed (未上市) |
-| Total Licenses | 0 |
-| Available Dosage Forms | None |
+## Marknadsinformation Sverige
 
-> Note: Acitretin is marketed in many other countries (e.g., under the brand names Soriatane® and Neotigason®) for severe psoriasis.
+Acitretin har **inga aktiva produktgodkännanden i Sverige**. Läkemedlet är inte godkänt av Läkemedelsverket (MPA) och finns inte tillgängligt via den svenska läkemedelsmarknaden i ordinarie form. Eventuell användning kräver licensförfarande eller klinisk prövning.
 
-## Safety Considerations
+---
 
-Safety data (key warnings, contraindications, and drug-drug interactions) was not available in the current evidence pack. The following is based on the well-known safety profile of Acitretin from international labelling:
+## Säkerhetsaspekter
 
-> **Please refer to the package insert for complete safety information.**
->
-> Key internationally recognised safety concerns for Acitretin include:
-> - **Teratogenicity**: Acitretin is highly teratogenic. Women of childbearing potential must use effective contraception and avoid pregnancy during treatment and for **at least 3 years** after discontinuation.
-> - **Hepatotoxicity**: Liver function tests should be monitored regularly.
-> - **Hyperlipidaemia**: May elevate triglycerides and cholesterol levels.
-> - **Mucocutaneous side effects**: Dry skin, cheilitis, and hair loss are common.
->
-> *These are reference notes from international labelling and do not replace the local package insert.*
+Detaljerad säkerhetsinformation (varningar, kontraindikationer, läkemedelsinteraktioner) för acitretin kunde inte hämtas i detta evidenspaket.
 
-## Data Gaps Identified
+> Se produktresumén (SmPC) för fullständig säkerhetsinformation, inklusive teratogenicitetsvarningar som är kända för retinoidklassen.
 
-| Gap ID | Category | Item | Severity | Impact | Remediation |
-|--------|----------|------|----------|--------|-------------|
-| DG001 | Drug Level | TFDA Package Insert Warnings/Contraindications | **Blocking** | Cannot enter S1 safety screening | Download and parse package insert PDF from TFDA website |
-| DG002 | Drug Level | Mechanism of Action (MOA) | High | Affects mechanistic relevance analysis | Query DrugBank API |
+---
 
-## Conclusion and Next Steps
+## Slutsats och nästa steg
 
-**Decision: Hold**
+**Beslut: Avvakta**
 
-**Rationale:**
-No TxGNN predicted indications have been generated for Acitretin, and critical data gaps remain unresolved (MOA data, TFDA safety labelling). Additionally, Acitretin is not currently marketed in Taiwan, which presents additional regulatory barriers to any repurposing initiative. The evaluation cannot proceed until predictions and baseline safety data are available.
+**Motivering:**
+Acitretin har stark biologisk plausibilitet vid akne via delade retinoidmekanismer, och det finns stödjande evidens vid acne inversa/hidradenitis suppurativa, men direkta randomiserade kliniska prövningar av acitretin vid akne saknas. Läkemedlet är dessutom inte godkänt i Sverige, och säkerhetsdata saknas i detta evidenspaket.
 
-**To proceed, the following is needed:**
-- Generate TxGNN predictions for Acitretin (DB00459) to identify candidate new indications
-- Resolve **DG001** (Blocking): Obtain and parse TFDA package insert for warnings and contraindications
-- Resolve **DG002** (High): Retrieve detailed MOA data from DrugBank API
-- Once predictions are available, perform clinical trial and literature evidence searches
-- Assess Taiwan market entry feasibility given the current "not marketed" status
+**För att gå vidare krävs:**
+- Direkta randomiserade kliniska prövningar (fas II/III) av acitretin vid acne vulgaris eller acne inversa
+- Fullständig produktresumé (SmPC) med varningar, kontraindikationer och interaktionsprofil
+- Jämförande effektdata mot isotretinoin som aktivt jämförelsepreparat
+- Utredning av licensförfarande eller off-label-ram för klinisk användning i Sverige
+- Bekräftelse av om indikationen avser acne vulgaris eller specifikt acne inversa/hidradenitis suppurativa, då evidensläget skiljer sig markant
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -2,7 +2,7 @@
 layout: default
 title: Aprepitant
 parent: 僅模型預測 (L5)
-nav_order: 21
+nav_order: 18
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Aprepitant
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,98 +25,86 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# APREPITANT: Drug Repurposing Evaluation — Awaiting Prediction Data
-
-## One-Sentence Summary
-
-Aprepitant (DrugBank: DB00673) is a neurokinin-1 (NK1) receptor antagonist, widely known internationally for prevention of chemotherapy-induced and postoperative nausea and vomiting. Currently, the TxGNN model has **no predicted new indications** on file, and critical data gaps (MOA details, regulatory label information) remain unresolved. **No clinical trial or literature evidence** has been compiled for a repurposing direction at this time.
+Analyserar Evidence Pack för Aprepitant och genererar rapport enligt specifikation.
 
 ---
 
-## Quick Overview
+# Aprepitant: Från kemoterapi-inducerat illamående till nefrogt syndrom av inadekvat antidiures
 
-| Item | Content |
-|------|------|
-| Drug (INN) | Aprepitant |
-| DrugBank ID | DB00673 |
-| Original Indication | Not available in evidence pack (known internationally as anti-emetic for CINV) |
-| Predicted New Indication | **None** — TxGNN prediction not yet available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | **L5** (No model prediction or supporting studies on file) |
-| Taiwan Market Status | ❌ Not marketed |
-| Number of TFDA Licenses | 0 |
-| Recommended Decision | **Hold** |
+## Sammanfattning
+
+Aprepitant är en neurokinin-1-receptorantagonist (NK1-antagonist) som traditionellt används för att förebygga kemoterapi-inducerat illamående och kräkningar (CINV) samt postoperativt illamående. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **nefrogt syndrom av inadekvat antidiures (NSIAD)** – ett sällsynt tillstånd orsakat av aktiverande mutationer i vasopressinreceptorn AVPR2. Det finns för närvarande **inga kliniska prövningar** och **inga publikationer** som stöder denna riktning, och den mekanistiska kopplingen bedöms som mycket svag.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Snabböversikt
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on publicly known information, Aprepitant is a selective neurokinin-1 (NK1) receptor antagonist. It works by blocking the binding of substance P to the NK1 receptor in the central nervous system, thereby inhibiting the emetic reflex. It is marketed internationally (e.g., as Emend® by Merck) for prevention of acute and delayed chemotherapy-induced nausea and vomiting (CINV) as well as postoperative nausea and vomiting (PONV).
-
-Since no TxGNN-predicted new indication is available, a mechanistic plausibility assessment cannot be performed at this stage. The NK1 receptor pathway is implicated in pain signaling, inflammation, and mood regulation beyond emesis, which could theoretically open repurposing avenues — but this remains speculative without a formal model prediction.
-
-To enable a meaningful evaluation, the TxGNN prediction pipeline must first be run for Aprepitant to generate candidate indications with associated scores.
-
----
-
-## Clinical Trial Evidence
-
-Currently no TxGNN-predicted indication is available; therefore, no targeted clinical trial search has been conducted.
+| Post | Innehåll |
+|------|---------|
+| Ursprunglig indikation | Förebyggande av kemoterapi-inducerat illamående och kräkningar (CINV) |
+| Förutsagd ny indikation | Nefrogt syndrom av inadekvat antidiures (NSIAD) |
+| TxGNN-förutsägelsepoäng | 99,97% |
+| Evidensnivå | L5 – enbart modellförutsägelse, inga faktiska studier |
+| Marknadsstatus i Sverige | Ej marknadsförd |
+| Antal godkännanden i Sverige | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Literature Evidence
+## Varför är denna förutsägelse rimlig?
 
-Currently no TxGNN-predicted indication is available; therefore, no targeted literature search has been conducted.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta evidenspaket. Baserat på känd information är Aprepitant en NK1-receptorantagonist som blockerar bindningen av Substance P till neurokinin-1-receptorn. Läkemedlet verkar primärt i centrala nervsystemets kräkningscentrum och mag-tarmkanalen, och dess effekt vid förebyggande av CINV är välbevisad kliniskt.
 
----
+NSIAD (nefrogt syndrom av inadekvat antidiures) är en sällsynt genetisk sjukdom som orsakas av aktiverande (gain-of-function) mutationer i AVPR2-genen, vilken kodar för vasopressinreceptor typ 2 i njurens samlingsgång. Mutationen leder till konstitutiv receptoraktivering – njurarna retinerar vatten oberoende av ADH-nivåer – vilket resulterar i hyponatremi och inappropriat låg serumosmolalitet.
 
-## Taiwan Market Information
-
-Aprepitant currently holds **no TFDA licenses** and is **not marketed in Taiwan**. No authorization records are available.
+Den mekanistiska kopplingen är biologiskt svag. Substance P kan visserligen påverka ADH-frisättning från hypotalamus via NK1-receptorer, men i ett tillstånd där AVPR2 redan är konstitutivt aktiverat av en genetisk mutation är det inte rimligt att förvänta sig att en NK1-antagonist i hypotalamus kan ha klinisk effekt på den perifera receptornivå där sjukdomen manifesterar sig. TxGNN:s höga förutsägelsepoäng för NSIAD bör tolkas med stor försiktighet och beror sannolikt på indirekta nätverkskopplingar i kunskapsgrafen snarare än en direkt biologisk relation.
 
 ---
 
-## Safety Considerations
+## Kliniska prövningar
 
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug–drug interaction data were not available in the current evidence pack.
-
----
-
-## Data Gaps Requiring Resolution
-
-The following critical gaps were identified and must be addressed before this evaluation can proceed:
-
-| Gap ID | Category | Item | Severity | Impact | Remediation |
-|--------|----------|------|----------|--------|-------------|
-| DG001 | Drug Level | TFDA Package Insert Warnings/Contraindications | **Blocking** | Cannot enter S1 safety preliminary assessment | Download and parse package insert PDF from TFDA website |
-| DG002 | Drug Level | Mechanism of Action (MOA) | **High** | Affects mechanism–indication relevance analysis | Query DrugBank API |
-
-Additionally:
-- **Predicted indications** are completely absent — the TxGNN model must be run for DB00673.
-- **Original indication text** is missing from the evidence pack and should be populated from DrugBank or TFDA sources.
-- **Drug–drug interaction (DDI)** query returned no results; consider querying alternative sources (e.g., DrugBank interaction API, Lexicomp).
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Conclusion and Next Steps
+## Litteraturbevis
 
-**Decision: Hold**
+Ingen relaterad litteratur tillgänglig för närvarande.
 
-**Rationale:**
-No TxGNN-predicted indication exists for Aprepitant at this time, and multiple blocking data gaps (TFDA label information, MOA) prevent even a preliminary safety assessment. The evaluation cannot proceed until foundational data is in place.
+---
 
-**To proceed, the following is needed:**
-1. **Run the TxGNN prediction model** for Aprepitant (DB00673) to generate candidate repurposing indications with scores
-2. **Resolve DG001 (Blocking):** Obtain and parse the TFDA package insert for warnings and contraindications
-3. **Resolve DG002 (High):** Query DrugBank API for detailed mechanism of action data
-4. **Populate original indication** from authoritative sources (DrugBank, TFDA, or international labels)
-5. **Re-query DDI sources** using alternative databases if TFDA yields no results
-6. Once predicted indications are available, conduct targeted **clinical trial** (ClinicalTrials.gov) and **literature** (PubMed) searches for the top-ranked candidates
+## Marknadsinformation Sverige
+
+Aprepitant är inte godkänt och saknar registrerade produkter i Sverige. Inga licensuppgifter finns att redovisa.
+
+---
+
+## Säkerhetsaspekter
+
+Detaljerad säkerhetsinformation (varningar, kontraindikationer, läkemedelsinteraktioner) kunde inte hämtas inom ramen för detta evidenspaket.
+
+> Se produktresumén (SmPC) för fullständig säkerhetsinformation.
+
+Noterbart: Aprepitant är en känd hämmare av CYP3A4, vilket kan ge kliniskt relevanta läkemedelsinteraktioner om det används i kombination med CYP3A4-substrat. Detta bör beaktas vid eventuell vidare utredning.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+Evidensunderlaget befinner sig på L5-nivå (enbart modellförutsägelse utan stödjande studier), och den mekanistiska bryggan mellan NK1-antagonism och NSIAD – ett tillstånd drivet av konstitutiv AVPR2-aktivering via genetisk mutation – bedöms som extremt svag. Aprepitant är dessutom ej godkänt i Sverige, vilket ytterligare ökar hinder för klinisk tillämpning.
+
+**För att gå vidare krävs:**
+- **Mekanistisk validering**: in vitro-studier som visar en konkret koppling mellan NK1-signalering och AVPR2-aktivering i njurvävnad
+- **Prekliniska djurmodeller**: NSIAD-modell med NK1-antagonistintervention för proof-of-concept
+- **Fullständig säkerhetsprofil**: MOA-data, kontraindikationer och varningstexter hämtade från EMA/FASS-godkänd produktresumé
+- **Regulatorisk kartläggning**: Aprepitant är godkänt i EU (Emend®) via EMA – befintlig europeisk godkännandestruktur bör kartläggas inför eventuell ansökan om utvidgad indikation
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

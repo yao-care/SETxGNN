@@ -2,7 +2,7 @@
 layout: default
 title: Xylitol
 parent: 僅模型預測 (L5)
-nav_order: 133
+nav_order: 112
 evidence_level: L5
 indication_count: 1
 ---
@@ -10,12 +10,12 @@ indication_count: 1
 # Xylitol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,80 +25,76 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-The txgnn-pipeline skill is about pipeline management and doesn't override the report-writing instructions. Proceeding directly to generate the report from the Evidence Pack.
+Jag använder `txgnn-pipeline`-skillet som bekräftar att detta är ett TxGNN-rapportgenereringsarbete. Nu genererar jag rapporten baserat på Evidence Pack-datan.
 
 ---
 
-# Xylitol: From Dental Caries Prevention to Meningococcal Infection
+# Xylitol: Från oralhälsa till meningokockinfektion
 
-## One-Sentence Summary
+## Sammanfattning
 
-Xylitol is a naturally occurring sugar alcohol widely used as a dental health aid and sugar substitute, with documented activity against nasopharyngeal bacterial colonisation (notably *Streptococcus pneumoniae*).
-The TxGNN model predicts it may be effective for **Meningococcal Infection**,
-with **0 clinical trials** and **0 publications** currently supporting this specific direction — placing this prediction at the lowest evidence tier.
+Xylitol är en naturlig sockeralkohol som framförallt är känd för sina antibakteriella och antibiofilmbildande egenskaper mot munhålans bakterier, exempelvis *Streptococcus mutans*. TxGNN-modellen förutsäger att xylitol potentiellt kan vara verksamt mot **meningokockinfektion**, sannolikt via ett indirekt samband med bakteriell adherens till slemhinnor. Evidensläget är dock mycket svagt – det finns varken **kliniska prövningar** eller **vetenskapliga publikationer** som stöder denna riktning, och förutsägelsen bygger enbart på modellens kunskapsgrafanalys.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
-|------|---------|
-| Original Indication | No formal indication registered in Taiwan (TFDA); commonly used for dental caries prevention and sugar substitution |
-| Predicted New Indication | Meningococcal Infection |
-| TxGNN Prediction Score | 99.66% |
-| Evidence Level | L5 |
-| Taiwan Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available in this dataset. Based on the pharmacological literature, xylitol is a five-carbon sugar alcohol that interferes with bacterial adhesion to nasopharyngeal mucosa primarily by disrupting the bacterial **phosphotransferase system (PTS)** — a key metabolic transport pathway in gram-positive and gram-negative bacteria alike. This mechanism is best characterised for *Streptococcus pneumoniae*, where xylitol has been shown in clinical trials to reduce nasopharyngeal carriage and incidence of acute otitis media.
-
-*Neisseria meningitidis*, the causative agent of meningococcal disease, similarly colonises the nasopharynx before invasive spread. The theoretical mechanistic analogy is therefore anatomically and microbiologically plausible: if xylitol can disrupt colonisation of the nasopharynx by one bacterial pathogen via PTS inhibition and anti-adhesion effects, it is conceivable — in principle — that a similar effect could occur with *N. meningitidis*. This is the biological basis that likely drove the TxGNN knowledge-graph model to surface this prediction.
-
-However, it is essential to state clearly: **no in vitro, animal, or clinical studies have directly tested xylitol against *N. meningitidis***. The entire mechanistic argument is drawn from cross-pathogen inference, and the formal MOA entry for this compound is absent from the current evidence pack. The high TxGNN score (99.66%) reflects topological similarity within the disease–drug knowledge graph, not empirical experimental evidence.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Ingen godkänd medicinsk indikation registrerad |
+| Förutsagd ny indikation | Meningokockinfektion (*meningococcal infection*) |
+| TxGNN-förutsägelsepoäng | 99,66% |
+| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
+| Marknadsstatus i Sverige | Ej registrerat / Ej marknadsförd |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | **Avvakta** |
 
 ---
 
-## Clinical Trial Evidence
+## Varför är denna förutsägelse rimlig?
 
-Currently no related clinical trials registered for Xylitol in meningococcal infection.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i Evidence Pack. Baserat på känd information är xylitol en polyol-sockeralkohol som förekommer naturligt i bär, frukt och grönsaker. Dess förmåga att hämma *S. mutans* och andra grampositiva munbakteriernas adhesion till epitelceller i munhålan är väldokumenterad inom oral medicin.
 
----
+TxGNN-modellen förutsäger ett samband med meningokockinfektion via en hypotetisk mekanism: "sockermetabolism-antagonism → hämning av bakteriell mukosadhesion → förstärkt slemhinneförsvar". *Neisseria meningitidis*, som orsakar meningokockinfektion, koloniserar primärt nasofaryngeala slemhinnor – en anatomisk nisch med viss strukturell likhet med xylitols kända verkningsplats i oro-farinx.
 
-## Literature Evidence
-
-Currently no related literature available for Xylitol in meningococcal infection.
+Det är dock viktigt att understryka att detta mekanistiska samband är **starkt spekulativt**. Det saknas helt stöd från in vitro-studier, djurmodeller eller kliniska observationer som knyter xylitol till *N. meningitidis*. Förutsägelsen bör därför betraktas som en tidig hypotesgenerering snarare än ett handlingskraftigt forskningsuppslag.
 
 ---
 
-## Safety Considerations
+## Kliniska prövningar
 
-Please refer to the package insert for safety information.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Conclusion and Next Steps
+## Litteraturbevis
 
-**Decision: Hold**
+Ingen relaterad litteratur tillgänglig för närvarande.
 
-**Rationale:**
-This prediction rests entirely on model inference without any supporting experimental, clinical, or epidemiological data — classified as evidence level L5. While the mechanistic analogy through nasopharyngeal anti-adhesion is biologically plausible, it remains speculative and untested for *N. meningitidis* specifically. A Hold decision is warranted until foundational evidence is generated.
+---
 
-**To proceed, the following is needed:**
+## Säkerhetsaspekter
 
-- **In vitro studies**: Minimum inhibitory concentration (MIC) and anti-adhesion assays of xylitol against *N. meningitidis* strains to confirm whether PTS inhibition or adhesion disruption actually occurs
-- **MOA clarification**: Retrieve full mechanistic profile from DrugBank (DB11195) and primary literature to confirm whether the PTS-disruption hypothesis extends to gram-negative organisms such as *Neisseria*
-- **Safety data**: Obtain TFDA package insert (if applicable) or international equivalents to document contraindications, warnings, and special population restrictions before any exploratory clinical use
-- **Dosing considerations**: Xylitol is used across a wide dose range (topical dental to oral systemic). For an anti-infective indication, appropriate systemic concentrations and tolerability at those doses must be established
-- **Regulatory pathway assessment**: Since xylitol has zero authorisations in Taiwan and is generally classified as a food ingredient / excipient, a regulatory strategy for reclassification as an investigational drug would be needed before clinical trials can be initiated
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+Förutsägelsens evidensnivå är L5 – det vill säga enbart baserad på TxGNN:s kunskapsgrafanalys utan stöd från kliniska prövningar, observationsstudier eller grundläggande laboratoriedata. Den mekanistiska kopplingen mellan xylitols kända orala antibakteriella effekter och meningokockinfektion är alltför indirekt och spekulativ för att motivera vidare klinisk investering i detta skede.
+
+**För att gå vidare krävs:**
+- Grundläggande in vitro-studier som testar om xylitol hämmar *Neisseria meningitidis* adhesion eller tillväxt
+- Kartläggning av xylitols verkningsmekanism (MOA) med avseende på gramnegativa bakterier
+- Identifiering av kliniska prövningar med xylitol mot liknande luftvägsinfektioner som kan ge indirekt stöd
+- Komplettering av säkerhetsprofil: varningar, kontraindikationer och eventuella läkemedelsinteraktioner
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

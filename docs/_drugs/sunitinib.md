@@ -2,7 +2,7 @@
 layout: default
 title: Sunitinib
 parent: 僅模型預測 (L5)
-nav_order: 121
+nav_order: 100
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Sunitinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,108 +25,102 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-Using the `txgnn-pipeline` skill context confirmed — this is a TW-series TxGNN drug repurposing report. Generating now based on the Evidence Pack.
+Använder **txgnn-pipeline**-skillet för att kontextualisera rapporten. Nu genererar jag den svenska utvärderingsrapporten baserad på Evidence Pack för SUNITINIB.
 
 ---
 
-# Sunitinib: From Renal Cell Carcinoma to Liposarcoma
+# Sunitinib: Från njurcellscancer till liposarkom
 
-## One-Sentence Summary
+## Sammanfattning
 
-Sunitinib (Sutent®) is a multi-targeted receptor tyrosine kinase inhibitor (TKI) approved globally for advanced renal cell carcinoma (RCC), imatinib-resistant gastrointestinal stromal tumor (GIST), and pancreatic neuroendocrine tumors (pNET), though it is currently not registered in Taiwan.
-The TxGNN model predicts it may be effective for **Liposarcoma**, with **2 directly relevant completed Phase 2 clinical trials** and **9 publications** currently supporting this direction.
-The mechanistic basis is strong — liposarcoma is driven by PDGFR-α/β and VEGFR signaling, both of which are core targets of sunitinib.
+Sunitinib är en multimålriktad tyrosinkinasinhibitor (TKI) som globalt är godkänd för behandling av avancerad njurcellscancer (RCC), imatinibresistent gastrointestinal stromacellstumör (GIST) samt progressiv pankreatisk neuroendokrin tumör (pNET) – men saknar för närvarande registrering i Sverige. TxGNN-modellen förutsäger att läkemedlet kan vara verksamt mot **liposarkom**, med stöd av delade signaleringsvägar via VEGFR och PDGFR som är aktiva i båda tumörtyperna. Förutsägelsen backas av **3 kliniska prövningar** och **9 publikationer** som direkt undersöker sunitinib vid mjukdelssarkom, varav liposarkom är en av de studerade histologierna.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
-|------|---------|
-| Original Indication | Advanced/metastatic renal cell carcinoma; GIST (FDA-approved globally; not registered in Taiwan) |
-| Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.87% |
-| Evidence Level | L2 |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
-
-## Why is This Prediction Reasonable?
-
-Sunitinib simultaneously inhibits multiple receptor tyrosine kinases — including VEGFR-1/2/3, PDGFR-α/β, KIT, FLT3, RET, and CSF1R. Its antitumor effect is delivered through two complementary mechanisms: blocking tumor angiogenesis (via VEGFR) and suppressing direct tumor cell proliferation signals (via PDGFR and KIT). This broad-spectrum kinase inhibition is what gives sunitinib potential across multiple cancer types.
-
-Liposarcoma, the most common adult soft tissue sarcoma, is highly dependent on PDGFR-α/β and VEGFR-driven signaling for tumor growth and neovascularization. Well-differentiated and dedifferentiated liposarcomas frequently harbor MDM2/CDK4 amplification and show elevated VEGF expression, while myxoid liposarcomas carry FUS-DDIT3 translocations that maintain active PDGFR-driven proliferative loops. Sunitinib's dual VEGFR/PDGFR blockade provides a direct on-target rationale for activity in these subtypes.
-
-Clinical precedent exists as well. Multiple Phase 2 trials have specifically enrolled non-GIST soft tissue sarcoma patients — explicitly including liposarcoma subgroups — and tested sunitinib in this population. A single-institution Phase 2 study (Mahmood et al., 2011) directly focused on leiomyosarcoma, liposarcoma, and malignant fibrous histiocytoma. While objective response rates are modest, durable stable disease and partial responses have been documented, including one case report of long-lasting clinical benefit in heavily pre-treated metastatic liposarcoma (Porzio et al., 2013).
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Njurcellscancer (global godkänning; ej registrerat i Sverige) |
+| Förutsagd ny indikation | Liposarkom |
+| TxGNN-förutsägelsepoäng | 99,87% |
+| Evidensnivå | L2 – Minst en avslutad Fas 2-prövning |
+| Marknadsstatus i Sverige | Inte upptagit |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
 
-## Clinical Trial Evidence
+## Varför är denna förutsägelse rimlig?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00474994](https://clinicaltrials.gov/study/NCT00474994) | Phase 2 | Completed | 53 | Sunitinib continuous daily dosing in metastatic/locally advanced non-GIST sarcomas; explicitly covers liposarcoma subtype; primary endpoint is antitumor activity and safety |
-| [NCT00400569](https://clinicaltrials.gov/study/NCT00400569) | Phase 2 | Completed | 48 | Sunitinib malate in unresectable or metastatic soft tissue sarcoma (leiomyosarcoma, liposarcoma, fibrosarcoma, MFH) at Moffitt Cancer Center; assesses promising dose and response |
-| [NCT02048371](https://clinicaltrials.gov/study/NCT02048371) | Phase 2 | Completed | 131 | Regorafenib (SARC024) in multiple sarcoma subtypes; sunitinib prior failure cited as rationale for studying SMOKIs in sarcoma — provides indirect supportive context for the sarcoma TKI class |
+Formell verkningsmekanismdata (MOA) saknas i detta evidenspaket. Baserat på tillgänglig information är sunitinib en multimålriktad TKI vars primära verkningsmekanism vid njurcellscancer utgörs av hämning av VEGFR1/2/3 och PDGFR-α/β: VHL-mutation leder till HIF-ackumulering och VEGF/PDGF-överstimulering av tumörangiogenes, och sunitinib bryter direkt denna signalkedja. Effekten vid RCC är kliniskt väl bevisad och utgör grunden för läkemedlets globala godkännande.
 
----
+Liposarkom är biologiskt beroende av tumörangiogenes via VEGFR/PDGFR-signalering. Dedifferentierat liposarkom uppvisar visserligen vanligtvis CDK4/MDM2-amplifiering som primär drivande förändring, men tumörmikromiljön förblir beroende av VEGFR-aktivering. PDGFR-α/β uttrycks dessutom i liposarkomets stromaceller, vilket ger sunitinibs dubbla hämning av VEGFR och PDGFR ett direkt mekanistiskt stöd vid denna tumörtyp.
 
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|---------|
-| [21154746](https://pubmed.ncbi.nlm.nih.gov/21154746/) | 2011 | Phase 2 Clinical Trial | Int J Cancer | Sunitinib in relapsed/refractory STS with focus on leiomyosarcoma, liposarcoma, and MFH; reports safety, efficacy, and clinical activity of multi-targeted TKI in these common subtypes |
-| [38254762](https://pubmed.ncbi.nlm.nih.gov/38254762/) | 2024 | Review | Cancers | Comprehensive review of genetic, epigenetic, and transcriptomic alterations in liposarcoma; identifies VEGFR/PDGFR pathway as actionable targets relevant to sunitinib's mechanism |
-| [24555529](https://pubmed.ncbi.nlm.nih.gov/24555529/) | 2014 | Review | Expert Rev Anticancer Ther | Emerging therapies for adult STS; discusses histology-specific TKI use including sunitinib and pazopanib in second-line and beyond settings |
-| [22987955](https://pubmed.ncbi.nlm.nih.gov/22987955/) | 2012 | Review | Ann Oncol | Histology-driven treatment strategy in STS; summarizes evidence for TKI activity (including sunitinib) across sarcoma subtypes, distinguishing subtype-specific response patterns |
-| [24712007](https://pubmed.ncbi.nlm.nih.gov/24712007/) | 2014 | Review | Magyar Onkologia | Subtype-stratified medical treatment of adult STS; covers both cytotoxic and targeted agents; contextualizes sunitinib alongside other TKIs |
-| [23482782](https://pubmed.ncbi.nlm.nih.gov/23482782/) | 2013 | Case Report | Anticancer Res | Long-lasting clinical benefit documented in a heavily pre-treated patient with metastatic liposarcoma receiving sunitinib; supports direct disease-specific efficacy |
-| [28423517](https://pubmed.ncbi.nlm.nih.gov/28423517/) | 2017 | Genomic Study | Oncotarget | NGS profiling of extraskeletal myxoid chondrosarcoma; evaluates actionable mutations and molecular predictors of sunitinib benefit in translocation-associated sarcomas |
-| [25884155](https://pubmed.ncbi.nlm.nih.gov/25884155/) | 2015 | Study Protocol | BMC Cancer | REGOSARC trial protocol for regorafenib in advanced STS; explicitly cites sunitinib's established activity in STS as part of the scientific rationale |
-| [38717131](https://pubmed.ncbi.nlm.nih.gov/38717131/) | 2024 | Clinicopathologic Analysis | Am J Surg Pathol | Characterization of myxoid inflammatory myofibroblastic sarcoma; provides updated molecular landscape and targetable alteration context within the broader sarcoma field |
+Kopplingen mellan den ursprungliga indikationen och liposarkom vilar på det delade beroendet av angiogen VEGFR/PDGFR-signalering. Sunitinibs dokumenterade aktivitet vid GIST – en annan PDGFR-driven tumörtyp – stärker ytterligare analogin till PDGFR-uttryckande mjukdelssarkom, och de genomförda Fas 2-prövningarna vid mjukdelssarkom bekräftar att denna mekanistiska övergång är kliniskt testbar.
 
 ---
 
-## Cytotoxicity
+## Kliniska prövningar
 
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — Multi-targeted receptor tyrosine kinase inhibitor (TKI); not conventional cytotoxic |
-| Myelosuppression Risk | Moderate — neutropenia (Grade 3/4 reported in ~10–12% of patients) and thrombocytopenia are well-established class effects; dose modification frequently required |
-| Emetogenicity Classification | Low to moderate (oral agent; nausea reported but high-grade emesis uncommon) |
-| Monitoring Items | CBC with differential (every cycle), liver function (AST/ALT/bilirubin), renal function (creatinine), thyroid function (TSH), blood pressure, cardiac function (LVEF/echocardiogram at baseline and periodically), electrolytes |
-| Handling Protection | Standard oral cytotoxic precautions apply; follow institutional cytotoxic handling guidelines for preparation and disposal |
+| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
+|----------------|-----|--------|-----------|--------------|
+| [NCT00400569](https://clinicaltrials.gov/study/NCT00400569) | Fas 2 | Avslutad | 48 | Öppen singelcenterstudie med sunitinib vid metastatiskt/icke-resektabelt mjukdelssarkom (STS), specifikt inkluderande leiomyosarkom, liposarkom, fibrosarkom och malignt fibrohistiocytom. Behandling gavs oralt en gång dagligen dagar 1–28 per 42-dagarscykel tills progression eller toxicitet. |
+| [NCT00474994](https://clinicaltrials.gov/study/NCT00474994) | Fas 2 | Avslutad | 53 | Multicenter Fas 2-studie med kontinuerlig sunitinib-dosering vid non-GIST-sarkom (inkl. liposarkom). Sunitinib kan stoppa tumörtillväxt genom att blockera enzymer för celltillväxt och tumörblodflöde. Ger tvärhistologiska data för sunitinib i mjukdelssarkom. |
+| [NCT02048371](https://clinicaltrials.gov/study/NCT02048371) | Fas 2 | Avslutad | 131 | SARC024-protokollet studerade regorafenib (ej sunitinib) vid utvalda sarkomsubtyper. Studiens bakgrund bekräftar att sorafenib, sunitinib och pazopanib uppvisar aktivitet vid mjukdelssarkom, vilket motiverar undersökning av ytterligare TKI-hämmare i denna grupp. Ger indirekt stöd för TKI-klassen. |
 
 ---
 
-## Safety Considerations
+## Litteraturbevis
 
-Please refer to the package insert for safety information.
-
-> Note: Taiwan package insert data (TFDA) was not retrieved during evidence collection. Detailed contraindications and warnings for the Taiwan-specific label remain unverified. This is a **blocking data gap** that must be resolved before clinical recommendation is finalized.
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|----|-----|-----------|--------------|
+| [21154746](https://pubmed.ncbi.nlm.nih.gov/21154746/) | 2011 | Fas 2-studie | International Journal of Cancer | Singelcenter Fas 2-studie med sunitinib specifikt vid leiomyosarkom, liposarkom och malignt fibrohistiocytom. Undersökte säkerhet och effekt av sunitinib som multimålriktad RTK-inhibitor vid dessa tre vanliga STS-subtyper. |
+| [23482782](https://pubmed.ncbi.nlm.nih.gov/23482782/) | 2013 | Fallrapport | Anticancer Research | Dokumenterar långvarig klinisk nytta av sunitinib vid kraftigt förbehandlat metastatiskt liposarkom – stödjer aktivitet med sunitinib även i sent behandlingsskede och vid recidiv. |
+| [38254762](https://pubmed.ncbi.nlm.nih.gov/38254762/) | 2024 | Översikt | Cancers | Genomgång av genetiska, epigenetiska och transkriptomförändringar vid liposarkom med relevans för målriktad behandlingsval; belyser VEGFR/PDGFR-banan som potentiellt terapeutiskt mål i samtliga liposarkomsubtyper. |
+| [22987955](https://pubmed.ncbi.nlm.nih.gov/22987955/) | 2012 | Översikt | Annals of Oncology | Beskriver histologistyrd behandling av mjukdelssarkom och bekräftar evidens för TKI-aktivitet, med trabectedin vid liposarkom och sunitinib/sorafenib som TKI-alternativ vid flera STS-subtyper. |
+| [24555529](https://pubmed.ncbi.nlm.nih.gov/24555529/) | 2014 | Översikt | Expert Review of Anticancer Therapy | Sammanfattar nya terapier vid vuxna STS; evidensläget för målriktade alternativ per subtyp, inkl. TKI-aktivitet vid liposarkom och angiosarkom. |
+| [24712007](https://pubmed.ncbi.nlm.nih.gov/24712007/) | 2014 | Översikt | Magyar Onkologia | Diskuterar histologidriven behandling av mjukdelssarkom med cytotoxika och målriktade läkemedel; bekräftar sunitinibs roll i TKI-arsenalen vid avancerat STS. |
+| [28423517](https://pubmed.ncbi.nlm.nih.gov/28423517/) | 2017 | Molekylär studie | Oncotarget | Helgenomsekvensering av extraskelettalt myxoidt kondrosarkom; utvärderar prediktiva faktorer för sunitinib-nytta i TKI-känsliga sarkomsubtyper och identifierar potentiella resistensmekanismer. |
+| [25884155](https://pubmed.ncbi.nlm.nih.gov/25884155/) | 2015 | Studieprotokoll | BMC Cancer | REGOSARC-studieprotokoll för regorafenib vid avancerat STS; bakgrundsdata bekräftar att angiogena signalvägar (inkl. VEGFR/PDGFR) spelar nyckelroll i sarkombiologi och motiverar TKI-strategier. |
+| [38717131](https://pubmed.ncbi.nlm.nih.gov/38717131/) | 2024 | Klinopatologisk studie | American Journal of Surgical Pathology | Analys av 25 fall av myxoidt inflammatoriskt myofibroblastiskt sarkom; belyser den ökande identifieringen av targetbara molekylära förändringar i sarkomsubtyper, relevant för TKI-stratifiering. |
 
 ---
 
-## Conclusion and Next Steps
+## Cytotoxicitet
 
-**Decision: Proceed with Guardrails**
+| Post | Innehåll |
+|------|----------|
+| Cytotoxicitetsklassificering | Målriktad terapi – multimålriktad tyrosinkinasinhibitor (TKI); hämmar VEGFR1/2/3, PDGFR-α/β, KIT, FLT3, CSF-1R och RET |
+| Myelosuppressionsrisk | Medel – neutropeni (inkl. grad 3–4 hos ~10–15%) och trombocytopeni är kända dosbegränsande toxiciteter; anemi förekommer också |
+| Emetogenicitetsklassificering | Låg till medel (oral TKI; lägre emetogen potential jämfört med konventionell cytostatikabehandling; illamående grad 1–2 vanligt) |
+| Övervakningspunkter | Fullständigt blodstatus (CBC) inkl. differentialräkning, leverfunktion (ALAT/ASAT/bilirubin), njurfunktion (kreatinin), sköldkörtelfunktion (TSH), blodtryck, EKG (QTc-förlängning), elektrolyter (kalium, magnesium) |
+| Hanteringsskydd | Ja – sunitinib klassas som cytotoxiskt läkemedel; hantering kräver skyddshandskar; kapslar ska inte krossas eller öppnas; avfallshantering enligt rutiner för cytotoxiskt avfall |
 
-**Rationale:**
-Two directly relevant completed Phase 2 trials enrolled soft tissue sarcoma patients explicitly including liposarcoma and tested sunitinib with Grade A relevance; a published Phase 2 study (Mahmood et al., 2011) further documents clinical activity in liposarcoma specifically, and the PDGFR-α/β dual-inhibition mechanism provides strong biological plausibility. However, no Phase 3 RCT exists for this indication and subtype-specific response data remain limited, warranting guardrails.
+---
 
-**To proceed, the following is needed:**
+## Säkerhetsaspekter
 
-- **Taiwan package insert (TFDA)** — resolve the blocking data gap on contraindications and key warnings before S1 safety screening
-- **Mechanism of action data** from DrugBank — to formally document MOA linkage for regulatory and clinical review files
-- **Histological subtype stratification** — response to sunitinib appears to vary across liposarcoma subtypes (well-differentiated/dedifferentiated vs. myxoid/round cell); subtype-specific patient selection criteria should be defined
-- **Drug-drug interaction assessment** — currently no DDI data is available; critical for polypharmacy patients
-- **Formal pharmacokinetic evaluation** in the target Taiwanese patient population, especially for any renal/hepatic impairment adjustments
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Fortsätt med försiktighet**
+
+**Motivering:**
+Fas 2-prövningar med direkt inklusion av liposarkom-patienter är genomförda och avslutade (L2-evidens), en fallrapport dokumenterar långvarig klinisk nytta, och den mekanistiska kopplingen via VEGFR/PDGFR-hämning är biologiskt väl motiverad. Effektstorleken vid liposarkom tycks dock vara begränsad jämfört med njurcellscancer, och ingen Fas 3-studie vid liposarkom existerar.
+
+**För att gå vidare krävs:**
+- **Säkerhetsdata**: Ladda ned och analysera aktuell produktresumé (SmPC/EPAR) för sunitinib för att fastställa fullständiga varningar, kontraindikationer och kliniskt relevanta läkemedelsinteraktioner
+- **Registreringsstatus i Sverige**: Bekräfta nuläget hos Läkemedelsverket – sunitinib (Sutent®) är godkänt av EMA men saknar nationell registreringsstatus enligt tillgängliga data
+- **Subgruppsanalys**: Identifiera och samla efficacydata specifikt för dedifferentierat respektive myxoidt liposarkom från befintliga Fas 2-studier (NCT00400569, NCT00474994) för att uppskatta histologispecifik responsfrekvens
+- **Biomarkörsselektion**: Utvärdera VEGFR/PDGFR-expressionsstatus och CDK4/MDM2-amplifieringsstatus som potentiella prediktiva biomarkörer för att identifiera patientundergrupper med högst sannolikhet för behandlingssvar
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -2,7 +2,7 @@
 layout: default
 title: Nilotinib
 parent: 僅模型預測 (L5)
-nav_order: 99
+nav_order: 78
 evidence_level: L5
 indication_count: 1
 ---
@@ -10,12 +10,12 @@ indication_count: 1
 # Nilotinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,83 +25,91 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# Nilotinib: Evaluation Report — Insufficient Data for Complete Assessment
-
-## One-Sentence Summary
-
-Nilotinib (DrugBank ID: DB04868) is currently under preliminary evaluation for drug repurposing potential.
-However, **no TxGNN predicted indications were returned** in this Evidence Pack, and critical baseline data — including original indication, mechanism of action, and safety information — are all missing.
-A complete evaluation cannot be conducted until blocking data gaps are resolved.
+Använder `txgnn-pipeline`-skillet för kontext. Nu genererar jag rapporten baserat på Evidence Pack.
 
 ---
 
-## Quick Overview
+# Nilotinib: Från kronisk myeloisk leukemi till dermatofibrosarkom
 
-| Item | Content |
-|------|---------|
-| Predicted New Indication | No prediction available |
-| TxGNN Prediction Score | No prediction available |
-| Evidence Level | L5 (model prediction only — no results returned) |
-| Taiwan Market Status | ✗ Not marketed (0 authorizations) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+## Sammanfattning
+
+Nilotinib är en andra generationens tyrosinkinashämmare (BCR-ABL/PDGFR-β/c-Kit) som ursprungligen användes för behandling av kronisk myeloisk leukemi (KML). TxGNN-modellen förutsäger att det kan vara effektivt mot **dermatofibrosarkom (DFSP)**, med **0 kliniska prövningar** och **1 publikation** som för närvarande stöder denna riktning. Den mekanistiska kopplingen via PDGFR-β-hämning är biologiskt välgrundad, men direkt klinisk evidens för Nilotinib vid DFSP saknas i nuläget.
 
 ---
 
-## Why a Complete Assessment Is Not Yet Possible
+## Snabböversikt
 
-Currently, detailed mechanism of action data is not available for Nilotinib in this Evidence Pack. The `original_moa` field is missing, and no original approved indications have been recorded. Without these foundational elements, it is not possible to assess mechanistic plausibility for any proposed new indication.
-
-More critically, the `predicted_indications` array returned zero results. This means TxGNN did not produce any candidate repurposing targets for Nilotinib under the current pipeline run. This may reflect a data pipeline issue, missing input features, or an intentional filtering threshold — the root cause should be diagnosed before proceeding.
-
-Two blocking data gaps have been formally flagged in this Evidence Pack (DG001, DG002). Until these are remediated, the candidate cannot advance past initial triage.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered *(no predicted indication available to query against).*
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Kronisk myeloisk leukemi (KML) |
+| Förutsagd ny indikation | Dermatofibrosarkom (DFSP) |
+| TxGNN-förutsägelsepoäng | 99,3% |
+| Evidensnivå | L4 – Mekanismstudier |
+| Marknadsstatus i Sverige | Ej marknadsförd |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Literature Evidence
+## Varför är denna förutsägelse rimlig?
 
-Currently no related literature available *(no predicted indication available to query against).*
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i Evidence Pack. Baserat på känd information är Nilotinib en andra generationens tyrosinkinashämmare som riktar sig mot BCR-ABL, PDGFR-β och c-Kit – med starkare bindningsaffinitet och bättre resistensprofil jämfört med sin föregångare Imatinib.
 
----
+Dermatofibrosarkom (DFSP) orsakas av en t(17;22)-kromosomtranslokation som bildar en COL1A1–PDGFB-fusionsgen. Denna mutation leder till kontinuerlig autokrin aktivering av PDGFR-β-signalvägen, vilket driver tumörtillväxt. Nilotinibs direkta hämning av just PDGFR-β skapar därmed en direkt mekanistisk koppling till DFSP:s drivande onkogena mekanism.
 
-## Taiwan Market Information
-
-Nilotinib has **no approved licenses** in Taiwan as of the data cutoff (2026-04-20). There are no authorizations to display.
+Stöd för signalvägens kliniska relevans ges av att Imatinib – ett äldre preparat med överlappande målprofil – redan 2006 godkändes av FDA för behandling av DFSP. Detta bekräftar att PDGFR-β-hämning är en kliniskt validerbar strategi vid denna diagnos. Nilotinib har dokumenterat starkare hämningseffekt mot Imatinib-resistenta mutanter, vilket gör det till en teoretiskt lovande andralinjekandidat vid Imatinib-svikt – men direkta kliniska prövningsdata för Nilotinib vid DFSP saknas.
 
 ---
 
-## Safety Considerations
+## Kliniska prövningar
 
-Please refer to the package insert for safety information.
-
-*(Key warnings, contraindications, and drug interaction data were not available in this Evidence Pack. The Taiwan package insert query returned a result (query log ID 4), but its contents were not parsed into the structured safety fields. DDI query returned no results.)*
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Conclusion and Next Steps
+## Litteraturbevis
 
-**Decision: Hold**
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|----|-----|-----------|--------------|
+| [29408302](https://pubmed.ncbi.nlm.nih.gov/29408302/) | 2018 | Översiktsartikel | Pharmacological Research | Genomgång av småmolekylära PDGFR-hämmares roll vid neoplastiska tillstånd; PDGF-familjen spelar central roll i cellproliferation via PDGFR-aktivering, med implikationer för PDGFR-drivna tumörer inklusive DFSP |
 
-**Rationale:**
-This Evidence Pack is incomplete in all dimensions critical to evaluation: no original indication, no MOA, no TxGNN predictions, and no structured safety data. No scoring or repurposing recommendation can be responsibly issued at this stage.
+---
 
-**To proceed, the following is needed:**
+## Cytotoxicitet
 
-- **\[Blocking — DG001\]** Parse the Taiwan package insert PDF (query log ID 4 reports a successful fetch) to extract approved indications, key warnings, and contraindications and populate the `safety` fields
-- **\[High — DG002\]** Retrieve Nilotinib's mechanism of action from DrugBank API (DB04868) and populate `drug.original_moa`
-- **\[Critical\]** Diagnose why `predicted_indications` returned an empty array — check TxGNN pipeline input features, KG node coverage for DB04868, and prediction threshold settings
-- Once predictions are available, re-run the Evidence Pack generation to populate clinical trial and literature evidence sections
-- Confirm whether the absence of Taiwan market authorization affects the intended use case (if evaluation is for market entry, this is a separate regulatory track)
+| Post | Innehåll |
+|------|----------|
+| Cytotoxicitetsklassificering | Målriktad terapi – Tyrosinkinashämmare (TKI), andra generationen |
+| Myelosuppressionsrisk | Se produktresumén för varningar och försiktighetsåtgärder |
+| Emetogenicitetsklassificering | Se produktresumén för varningar och försiktighetsåtgärder |
+| Övervakningspunkter | Se produktresumén för varningar och försiktighetsåtgärder |
+| Hanteringsskydd | Bör hanteras enligt gällande rutiner för cytotoxiska läkemedel |
+
+---
+
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+Trots att TxGNN-modellen ger ett mycket högt förutsägelsepoäng (99,3%) och den mekanistiska kopplingen via PDGFR-β är biologiskt välgrundad, saknas det i nuläget registrerade kliniska prövningar för Nilotinib vid DFSP. Befintlig evidens stannar vid en enstaka översiktsartikel om PDGFR-hämmare generellt (L4), vilket är otillräckligt för vidare klinisk planering utan ytterligare underlag.
+
+**För att gå vidare krävs:**
+- Systematisk litteraturgenomgång av fallrapporter och fallserier där Nilotinib använts vid DFSP (retrospektiva data)
+- Säkerhetsdata: Inhämtning av fullständig produktresumé och TFDA-varningstext för Nilotinib
+- Utredning om pågående eller planerade investigator-initierade prövningar (IIT) för Nilotinib vid solida tumörer med PDGFR-aktivering
+- Konsultation med sarkomspecialister för att bedöma klinisk behovsbild och jämföra med befintlig Imatinib-indikation för DFSP
+- Vid positivt utfall av ovanstående: Design av en fas 2-prövning (single-arm, historisk kontroll) för Nilotinib som andralinjebehandling vid Imatinib-refraktär DFSP
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

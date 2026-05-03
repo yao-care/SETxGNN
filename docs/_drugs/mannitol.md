@@ -2,7 +2,7 @@
 layout: default
 title: Mannitol
 parent: 僅模型預測 (L5)
-nav_order: 86
+nav_order: 69
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Mannitol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,74 +25,79 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-The txgnn-pipeline skill is focused on pipeline operations; the report format is fully defined in my system prompt. I'll now generate the report based on the Evidence Pack. Key data constraints noted:
-
-- `predicted_indications`: empty — no TxGNN prediction available
-- `original_indications`: empty
-- `taiwan_regulatory`: not marketed, zero licenses
-- All safety fields: no data
-- MOA: not available
+Använder **txgnn-pipeline**-skillet för att säkerställa korrekt hantering av TxGNN-rapportgenerering i Se-projektkontexten. Nu genererar jag rapporten baserat på Evidence Pack:
 
 ---
 
-# Mannitol: Evaluation Pending — No TxGNN Repurposing Prediction Generated
+# Mannitol: Från osmotisk diures till nefrogent syndrom av inadekvat antidiures
 
-## One-Sentence Summary
+## Sammanfattning
 
-Mannitol (DB00742) is a well-established osmotic agent used clinically to reduce intracranial pressure, treat cerebral edema, and promote renal excretion — though no original indication is recorded in the current evidence pack.
-The TxGNN pipeline did **not generate any predicted new indications** for this candidate in the current run.
-With zero Taiwan-approved products and no supporting evidence retrieved, this candidate cannot be evaluated for repurposing at this stage.
+Mannitol (DB00742) är ett osmotiskt aktivt diuretikum känt för sin förmåga att öka plasmaosmolatiteten och därigenom inducera vätskeomfördelning och fri vattenutskiljning via njurarna — kliniskt använt bland annat vid förhöjt intrakraniellt tryck och akut oliguri. TxGNN-modellen förutsäger att det kan vara effektivt mot **nefrogent syndrom av inadekvat antidiures (NSIAD)**, med **0 kliniska prövningar** och **1 publikation** som för närvarande stöder denna riktning. Evidensunderlaget är mycket begränsat och baseras i praktiken uteslutande på modellförutsägelse.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
-|------|---------|
-| Original Indication | Not recorded in evidence pack |
-| Predicted New Indication | None — no TxGNN predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (no predictions, no supporting studies) |
-| Taiwan Market Status | Not marketed (未上市) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
-
----
-
-## Why is This Prediction Reasonable?
-
-The TxGNN model did not produce any repurposing candidates for Mannitol in this evidence pack run. Without a predicted target indication, a mechanistic rationale for repurposing cannot be constructed.
-
-From general clinical knowledge, Mannitol is a sugar alcohol that acts as an osmotic diuretic. It draws water from tissues into the vascular compartment via osmotic gradient, lowers intracranial and intraocular pressure, and supports renal excretion of toxic substances. Its primary pharmacological action is physical-osmotic rather than receptor-mediated or enzyme-targeted — a profile that may explain limited TxGNN signal in a graph-based prediction model oriented toward molecular interactions.
-
-Currently, detailed mechanism of action data is not available in this evidence pack. Before repurposing analysis can proceed, TxGNN prediction data must be regenerated with complete DrugBank MOA inputs, and the TFDA package insert PDF must be retrieved and parsed to populate safety fields.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Ingen godkänd indikation registrerad i Sverige |
+| Förutsagd ny indikation | Nefrogent syndrom av inadekvat antidiures (NSIAD) |
+| TxGNN-förutsägelsepoäng | 99,97% |
+| Evidensnivå | L5 – Enbart modellförutsägelse, inga direkta kliniska studier |
+| Marknadsstatus i Sverige | Ej godkänd |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Safety Considerations
+## Varför är denna förutsägelse rimlig?
 
-Please refer to the package insert for safety information.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta datapaket. Baserat på känd information är mannitol ett osmotiskt diuretikum av polyolklassen — det verkar genom att höja plasmaosmolatiteten, vilket drar vätska från vävnaderna till den intravaskulära kompartmenten och ökar njurarnas utskiljning av fri vatten utan att aktivera hormonella mekanismer.
+
+Nefrogent syndrom av inadekvat antidiures (NSIAD) orsakas av gain-of-function-mutationer i AVPR2-genen (V2-receptorn för antidiuretiskt hormon). Dessa mutationer leder till konstitutiv receptoraktivering oberoende av ADH-nivåer, vilket resulterar i kontinuerlig vattenretention och kronisk dilutionshyponatremi. Tillståndet diagnostiseras ofta sent och saknar väletablerade farmakologiska behandlingsalternativ.
+
+Den mekanistiska kopplingen som TxGNN sannolikt identifierat är att mannitols osmotiska verkan teoretiskt kan motverka den patologiska vattenretentionen vid NSIAD: genom att öka den osmotiska belastningen i tubulusvätskan kan mannitol minska relativ fri vattenresorption och bidra till korrektion av hyponatremin. Kunskapsgrafens noder kring natriumbalans, osmolatitet och aquaporin-2-reglering delar sannolikt kanter med mannitols farmakologiska profil. Det saknas dock kliniska data som bekräftar denna hypotetiska koppling direkt, och kausaliteten är ännu inte validerad.
 
 ---
 
-## Conclusion and Next Steps
+## Kliniska prövningar
 
-**Decision: Hold**
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
-**Rationale:**
-No TxGNN predicted indications were generated for Mannitol, and there are zero Taiwan-approved products on record. Without a target indication, a repurposing evaluation cannot be conducted.
+---
 
-**To proceed, the following is needed:**
+## Litteraturbevis
 
-- Re-run the TxGNN prediction pipeline for Mannitol (DB00742) after confirming DrugBank molecular graph data is correctly loaded
-- Retrieve MOA data from DrugBank API (remediation for DG002)
-- Download and parse the TFDA package insert PDF to populate warnings and contraindications (remediation for DG001)
-- Investigate why `original_indications` is empty — confirm whether this reflects a true regulatory gap or a data extraction issue
-- Verify whether Mannitol's osmotic (non-receptor) mechanism reduces its graph-embedding similarity to disease nodes in the TxGNN knowledge graph, and consider supplementing with pathway-based features if appropriate
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|----|-----|-----------|--------------|
+| [26706473](https://pubmed.ncbi.nlm.nih.gov/26706473/) | 2016 | Översiktsartikel | European Journal of Internal Medicine | Beskriver de tio vanligaste fallgroparna vid utredning av hyponatremipatienter; lyfter fram NSIAD som en underdiagnostiserad differentialdiagnos och betonar vikten av korrekt etiologisk klassificering för att undvika behandlingskomplikationer vid felaktig hantering |
+
+---
+
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- Evidensunderlaget för mannitol vid NSIAD baseras uteslutande på TxGNN-modellförutsägelse (L5) med ett enda indirekt litteraturreferens om hyponatremiutredning i allmänhet; det finns inga kliniska prövningar eller mekanistiska studier som direkt undersöker denna indikation.
+
+**För att gå vidare krävs:**
+- **Mekanistisk validering:** Bekräfta om mannitols osmotiska effekter faktiskt kan korrigera NSIAD-orsakad hyponatremi utan att orsaka volymöverbelastning eller förvärra elektrolytobalansen
+- **Säkerhetsgranskning:** Inhämta fullständig produktresumé och SPC för att fastställa kontraindikationer, varningar och interaktionsprofil
+- **Prekliniska studier:** In vitro- eller djurmodellstudier med AVPR2 gain-of-function-modeller för att undersöka potentiell effekt
+- **Riktad litteratursökning:** Systematisk genomgång av mannitol vid hyponatremi och NSIAD i klinisk praxis för att identifiera eventuella fallrapporter eller observationsdata
+- **Regulatorisk kartläggning:** Utred om mannitol kan registreras i Sverige som särläkemedel (orphan drug) för denna sällsynta diagnos
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

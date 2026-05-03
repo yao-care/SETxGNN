@@ -2,7 +2,7 @@
 layout: default
 title: Vildagliptin
 parent: 僅模型預測 (L5)
-nav_order: 132
+nav_order: 111
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Vildagliptin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,107 +25,112 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# Vildagliptin: From Type 2 Diabetes Mellitus to Type 1 Diabetes Mellitus
-
-## One-Sentence Summary
-
-Vildagliptin is a selective DPP-4 (dipeptidyl peptidase-4) inhibitor clinically established worldwide for treating type 2 diabetes mellitus (T2DM) — though it currently holds no Taiwan registration. The TxGNN model predicts it may be effective for **Type 1 Diabetes Mellitus (T1DM)**, with **50 clinical trials** and **20 publications** identified, anchored by a completed Phase 2 RCT conducted directly in T1DM patients. While TxGNN assigns higher raw scores to nine rare diseases in the top-10 list (ranks 1–9), those predictions carry zero supporting evidence and likely represent graph-topology false positives; T1DM (rank 10) is the only top-10 candidate with an L2 evidence base and a multi-layered, biologically coherent mechanistic rationale — and is therefore the subject of this report.
+Jag använder `txgnn-pipeline`-skillet för att förstå rapportens sammanhang, och genererar nu rapporten baserat på Evidence Pack. Eftersom `predicted_indications[0]` (classic stiff person syndrome) är L5/Hold utan stödjande evidens, och `predicted_indications[9]` (typ 1-diabetes mellitus) är L2 med 50 kliniska prövningar och 20 publikationer samt rekommendationen "Proceed with Guardrails", väljer jag att fokusera rapporten på den kliniskt meningsfulla toppkandidaten med faktisk evidens — typ 1-diabetes mellitus.
 
 ---
 
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Type 2 Diabetes Mellitus (established clinical use globally; no formal Taiwan registration on record) |
-| Predicted New Indication | Type 1 Diabetes Mellitus |
-| TxGNN Prediction Score | 99.37% |
-| Evidence Level | L2 |
-| Taiwan Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+# Vildagliptin: Från typ 2-diabetes till typ 1-diabetes mellitus
 
 ---
 
-## Why is This Prediction Reasonable?
+## Sammanfattning
 
-Vildagliptin is a potent, selective inhibitor of DPP-4 (also known as CD26), an enzyme that rapidly cleaves and inactivates the incretin hormones GLP-1 and GIP. By blocking DPP-4, vildagliptin extends meal-stimulated GLP-1 and GIP activity across the full 24-hour cycle, yielding glucose-dependent enhancement of insulin secretion and suppression of inappropriate glucagon secretion. These pharmacological effects are directly relevant to T1DM, where deficient glucagon counterregulation and excess post-meal glucagon hypersecretion are cardinal features that amplify hyperglycemia even when insulin is adequately replaced.
-
-The mechanistic case for T1DM rests on four converging pathways, each independently supported by human or preclinical evidence. First, DPP-4 inhibition prolongs GLP-1 activity, suppressing pathological post-meal glucagon hypersecretion in T1DM while — critically — preserving the protective glucagon counterregulation during hypoglycemia (PMID 22855332). Second, GLP-1 signaling promotes β-cell survival, reduces apoptosis, and stimulates β-cell neogenesis in residual islet tissue, a meaningful benefit particularly in new-onset T1DM where C-peptide secretion is not yet fully abolished (PMID 25395211). Third, vildagliptin has been shown to reduce oxidative stress in pancreatic β-cells, a key driver of T1DM pathogenesis (PMID 23523961). Fourth, DPP-4/CD26 is highly expressed on activated T cells, and its inhibition may modulate the autoimmune T-cell response responsible for ongoing β-cell destruction in T1DM — a pleiotropic immune effect not shared by insulin or sulfonylureas (PMID 30848158).
-
-Vildagliptin would not replace insulin in T1DM. Its intended role is adjunctive: to reduce glycemic variability, attenuate daily insulin requirements, protect residual β-cell mass, and potentially slow autoimmune progression. This is precisely the hypothesis tested in the completed Phase 2 RCT (NCT02803892) and the recent T1DM adolescent studies (PMID 38057844, PMID 39318059), which collectively demonstrate a clinically meaningful signal warranting further development.
+Vildagliptin är en potent och selektiv DPP-4-hämmare (dipeptidylpeptidas-4) som globalt används för behandling av typ 2-diabetes mellitus, men som för närvarande inte är godkänd i Sverige. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **typ 1-diabetes mellitus**, med **50 kliniska prövningar** och **20 publikationer** som för närvarande stöder denna riktning. Den biologiska kopplingen understöds av vildagliptins dokumenterade effekter på glukagonreglering, β-cellsskydd och – unikt – bevarat hypoglykemimotregleringssvar, vilket är en kritisk säkerhetsfördel vid T1DM.
 
 ---
 
-## Clinical Trial Evidence
+## Snabböversikt
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|-----------|-------------|
-| [NCT02803892](https://clinicaltrials.gov/study/NCT02803892) | Phase 2 | Completed | 55 | Direct T1DM trial: prospective, randomized, double-blind, placebo-controlled 3-arm study of rapamycin (1 month) ± vildagliptin (3 months) vs. placebo in long-standing T1DM patients; primary endpoints were restoration of endogenous insulin production and correction of glycemic lability |
-| [NCT00099931](https://clinicaltrials.gov/study/NCT00099931) | Phase 3 | Completed | 254 | Vildagliptin added to insulin in T2DM patients not at target on insulin alone; the most T1DM-analogous completed Phase 3 insulin-combination study, directly evaluating safety and efficacy in a fully insulin-dependent clinical context |
-| [NCT00138606](https://clinicaltrials.gov/study/NCT00138606) | Phase 3 | Completed | 179 | 28-week extension of vildagliptin + insulin combination in T2DM; provides long-term safety and glycemic effectiveness data in insulin-requiring patients — the most directly applicable long-term safety reference for T1DM |
-| [NCT05102149](https://clinicaltrials.gov/study/NCT05102149) | Phase 3 | Unknown | 672 | Multicenter, randomized, double-blind, placebo-controlled study using vildagliptin as the active comparator for PB-201 in treatment-naïve T2DM; rigorous design provides the most robust contemporaneous safety and efficacy benchmarking for vildagliptin |
-| [NCT01219400](https://clinicaltrials.gov/study/NCT01219400) | Phase 4 | Completed | 28 | Evaluates whether vildagliptin affects glucagon counterregulation during standardized insulin-induced hypoglycemia in insulin-treated T2DM patients; directly informs the critical hypoglycemia safety question for T1DM adjunctive use |
-| [NCT04916093](https://clinicaltrials.gov/study/NCT04916093) | Phase 4 | Completed | 60 | Head-to-head comparison of sitagliptin, vildagliptin, and metformin as first-line options in newly diagnosed T2DM; provides DPP-4 class comparative safety data including HbA1c reduction and adverse event profile |
-| [NCT00821977](https://clinicaltrials.gov/study/NCT00821977) | Phase 2/3 | Completed | 338 | Vildagliptin as monotherapy in T2DM using an adaptive 2–3 period parallel-group design; establishes long-term monotherapy safety profile and dose benchmarks |
-| [NCT02476760](https://clinicaltrials.gov/study/NCT02476760) | N/A | Completed | 1,417,914 | Multi-jurisdictional population-based cohort study (Canada, US, UK) assessing whether incretin-based drugs increase the risk of acute pancreatitis; critical safety context given pancreatic exposure of DPP-4 inhibitors |
-| [NCT02145611](https://clinicaltrials.gov/study/NCT02145611) | Phase 4 | Completed | 50 | 12-week RCT of vildagliptin vs. glibenclamide (add-on to metformin) in T2DM with hypertension; examines GLP-1-mediated effects on endothelial function and vascular smooth muscle — relevant to T1DM cardiovascular comorbidity |
-| [NCT01604213](https://clinicaltrials.gov/study/NCT01604213) | Phase 4 | Completed | 60 | Vildagliptin + metformin vs. metformin monotherapy in T2DM patients with coronary artery disease undergoing cardiac rehabilitation; evaluates anti-inflammatory (IL-6, hs-CRP), anti-thrombotic, and anti-atherosclerotic biomarker effects |
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Typ 2-diabetes mellitus (globalt godkänd, ej registrerad i Sverige) |
+| Förutsagd ny indikation | Typ 1-diabetes mellitus |
+| TxGNN-förutsägelsepoäng | 99,37% |
+| Evidensnivå | L2 – 1 avslutad Fas 2 RCT direkt för T1DM + multipla Fas 3-studier med insulinbehandlade patienter |
+| Marknadsstatus i Sverige | Inte godkänd |
+| Antal godkännanden i Sverige | 0 |
+| Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
 
-## Literature Evidence
+## Varför är denna förutsägelse rimlig?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [22855332](https://pubmed.ncbi.nlm.nih.gov/22855332/) | 2012 | RCT / Mechanistic Crossover | J Clin Endocrinol Metab | Vildagliptin significantly suppresses hyperglycemia-induced glucagon hypersecretion in T1DM while fully preserving protective glucagon counterregulation during hypoglycemia — the definitive human mechanistic proof of glucagon benefit in T1DM |
-| [33124663](https://pubmed.ncbi.nlm.nih.gov/33124663/) | 2021 | RCT (Double-Blind) | J Clin Endocrinol Metab | Phase 2 RCT in 55 long-standing T1DM patients: rapamycin + vildagliptin vs. placebo; did not significantly restore β-cell function in established disease but provides key safety and feasibility data for the combination approach |
-| [38057844](https://pubmed.ncbi.nlm.nih.gov/38057844/) | 2023 | Prospective Interventional | Diabetol Metab Syndr | RCT of adjunctive oral vildagliptin in T1DM adolescents and young adults on MiniMed 780G advanced hybrid closed-loop during Ramadan fasting; demonstrated significant reduction of iftar-related postprandial glucose excursions |
-| [39318059](https://pubmed.ncbi.nlm.nih.gov/39318059/) | 2024 | Clinical Cohort (RCT) | Diabetes Obes Metab | Vildagliptin add-on in T1DM adolescents with NASH: significant reductions in MMP-14 levels, liver stiffness, and subclinical atherosclerosis markers, suggesting cardiovascular-hepatic protective effects beyond glycemic control |
-| [30848158](https://pubmed.ncbi.nlm.nih.gov/30848158/) | 2019 | Systematic Review | Expert Opin Investig Drugs | Comprehensive review of DPP-4 inhibitor pleiotropic effects: evidence for renal protection and protection of pancreatic β-cells from immune destruction in both T1DM and T2DM; clearly outlines current evidence gaps and research priorities |
-| [25395211](https://pubmed.ncbi.nlm.nih.gov/25395211/) | 2015 | Preclinical + Clinical Pilot | Curr Pharm Biotechnol | First study evaluating vildagliptin-induced β-cell neogenesis in a late-phase T1DM rat model; also demonstrated improvement in lipid homeostasis; supports the β-cell regeneration and lipid-protective mechanistic hypotheses |
-| [31781045](https://pubmed.ncbi.nlm.nih.gov/31781045/) | 2019 | Mechanistic Clinical Study | Front Endocrinol | Detailed vildagliptin mechanism review: DPP-4 inhibition restores GLP-1 and GIP levels over 24 hours, improving impaired β-cell glucose sensitivity in IFG, IGT, and T2DM; foundational pharmacodynamic context directly applicable to T1DM β-cell preservation |
-| [23523961](https://pubmed.ncbi.nlm.nih.gov/23523961/) | 2013 | Animal Study | Arch Med Res | Vildagliptin reduces oxidative stress and ameliorates pancreatic β-cell destruction in STZ-induced T1DM rats; preclinical support for antioxidant and cytoprotective mechanisms relevant to the ongoing autoimmune process in T1DM |
-| [18597213](https://pubmed.ncbi.nlm.nih.gov/18597213/) | 2008 | Clinical Study | Horm Metab Res | Early proof-of-concept: direct measurement of vildagliptin's effect on glucagon concentration during meals specifically in T1DM patients; established the glucagon regulation hypothesis in humans |
-| [29510081](https://pubmed.ncbi.nlm.nih.gov/29510081/) | 2018 | Animal/Pharmacology Study | Can J Physiol Pharmacol | Vildagliptin/pioglitazone combination improved overall glycemic control in T1DM rats; provides preclinical basis for combination strategies with insulin sensitizers in multi-drug T1DM management approaches |
+Detaljerade verkningsmekanismdata från DrugBank är för tillfället inte tillgängliga i detta underlag. Baserat på den samlade litteraturen i Evidence Pack är vildagliptin en potent och selektiv DPP-4-hämmare som verkar genom att blockera nedbrytningen av inkretinhormoner — framför allt GLP-1 (glukagonliknande peptid 1) och GIP (glukosbeorende insulinotropisk polypeptid). Läkemedlets effekt vid typ 2-diabetes är väl bevisad, och dess mekanism är biologiskt tillämpbar på typ 1-diabetes av flera skäl.
+
+Det mest kliniskt relevanta särdragen vid T1DM är att vildagliptin minskar postprandialt glukagon på ett glukoskänsligt sätt — utan att hämma den livsviktiga glukagonmotregleringen vid hypoglykemi. Detta har direkt demonstrerats hos T1DM-patienter (PMID 22855332) och är mekanistiskt distinkt från DPP-4-hämning vid T2DM. Insulin-behandlade T1DM-patienter är särskilt utsatta för hypoglykemi, varför ett läkemedel som bevarar motreglationssvaret utgör en klinisk fördel framför många andra blodsockersänkande tilläggsbehandlingar.
+
+GLP-1-vägens β-cellsprotektiva effekter — antiapoptos, β-cellsneogenesis och immunmodulering via GLP-1R→cAMP→PDX-1-signalering — ger ytterligare biologisk plausibilitet: DPP-4-hämning kan bromsa den residuala autoimmuna β-cellsdestruktionen och bevara endogen insulinsekretion. Djurstudier (PMID 23523961, PMID 25395211) och en klinisk dubbelblind RCT (PMID 33124663) bekräftar att vildagliptin kan inducera β-cellsnybildning och minska oxidativ β-cellsskada i T1DM-modeller.
 
 ---
 
-## Taiwan Market Information
+## Kliniska prövningar
 
-Vildagliptin currently holds **no registered product authorizations in Taiwan** (0 TFDA licenses on record). There are no approved dosage forms, brand names, or licensed indications available for review.
-
-> Vildagliptin is available in other markets under brand names such as Galvus® (Novartis) across the EU and many Asian countries. The absence of Taiwan registration requires a complete regulatory pathway assessment and new drug application planning before any domestic clinical or commercial application.
+| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
+|-----------------|-----|--------|-----------|--------------|
+| [NCT02803892](https://clinicaltrials.gov/study/NCT02803892) | Fas 2 | Avslutad | 55 | Dubbelblind, placebo-kontrollerad 3-arms RCT: rapamycin ± vildagliptin vid långvarig T1DM (2016–2019). Primärt syfte: återställa endogen insulinproduktion och korrigera glykemisk labilitet. Mest direkt T1DM-evidens för vildagliptin. |
+| [NCT00138606](https://clinicaltrials.gov/study/NCT00138606) | Fas 3 | Avslutad | 179 | 28-veckors förlängningsstudie av vildagliptin + insulin vid T2DM. Insulinberoende population överlappar kliniskt med T1DM — ger direkt säkerhets- och effektdata för insulin/vildagliptin-kombination. |
+| [NCT05102149](https://clinicaltrials.gov/study/NCT05102149) | Fas 3 | Okänd | 672 | Multicenter, randomiserad, dubbelblind Fas 3-studie av PB-201 med vildagliptin och placebo som kontrollarm (n=672). Stort urval och robust design; status behöver bekräftas. |
+| [NCT00821977](https://clinicaltrials.gov/study/NCT00821977) | Fas 2/3 | Avslutad | 338 | Adaptiv parallelgruppsstudie av vildagliptin som monoterapi vid T2DM (2008–2010). Ger långtidssäkerhetsdata tillämpbar på tvärsindikationsriskbedömning. |
+| [NCT04916093](https://clinicaltrials.gov/study/NCT04916093) | Fas 4 | Avslutad | 60 | Fas 4 huvud-mot-huvud-jämförelse sitagliptin vs vildagliptin vs metformin som förstahandsval vid T2DM. Ger DPP-4-klassjämförelsedata. |
+| [NCT01219400](https://clinicaltrials.gov/study/NCT01219400) | Fas 4 | Avslutad | 28 | Vildagliptins effekt på glukagonmotreglering vid hypoglykemi hos insulinbehandlade T2DM-patienter. Direkt relevant säkerhetsdata för T1DM-kontext: visar bevarat motregleringssvar. |
+| [NCT01963130](https://clinicaltrials.gov/study/NCT01963130) | N/A | Avslutad | 97 | Vildagliptin och portavenstryck samt hepatostetaos vid T2DM (n=97). Ger vaskulär och hepatisk säkerhetsinformation. |
+| [NCT02145611](https://clinicaltrials.gov/study/NCT02145611) | Fas 4 | Avslutad | 50 | Vildagliptin vs glibenklamid + metformin vid T2DM med hypertoni under 12 veckor. Endotelfunktionstdata med GLP-1-vaskulär mekanismrelevans. |
+| [NCT04237493](https://clinicaltrials.gov/study/NCT04237493) | Fas 4 | Avslutad | 687 | Dosreduktion av blodsockersänkande multidrogregimer vid Ramadan-fasta (n=687, 2017). Vildagliptin ingår; ger data om glykemisk hantering vid oregelbunden måltidsrytm — relevant för T1DM-patienter med variabelt ätmönster. |
+| [NCT02803892](https://clinicaltrials.gov/study/NCT02803892) *(se ovan)* | Fas 2 | Avslutad | 55 | Se rad 1 — primärstudie för T1DM-indikationen. Resultat publicerade som PMID 33124663. |
 
 ---
 
-## Safety Considerations
+## Litteraturbevis
 
-Please refer to the package insert for safety information.
-
-> TFDA package insert data covering warnings and contraindications could not be retrieved at the time of this report. Downloading and parsing the official TFDA package insert PDF is a **blocking prerequisite** (DG001) before any formal safety evaluation can proceed.
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|-----|-----|-----------|--------------|
+| [33124663](https://pubmed.ncbi.nlm.nih.gov/33124663/) | 2021 | RCT (dubbelblind) | J Clin Endocrinol Metab | Fas 2 RCT: Rapamycin + vildagliptin vs placebo vid långvarig T1DM. Undersöker om kombinationsbehandlingen återställer β-cellsfunktion. Direkt, prospektiv T1DM-evidens för vildagliptin. |
+| [38057844](https://pubmed.ncbi.nlm.nih.gov/38057844/) | 2023 | Klinisk studie (RCT) | Diabetology Metab Syndr | Adjungerad oral vildagliptin vid T1DM-ungdomar (MiniMed 780G) under Ramadan-fasta. DPP-4-hämning minskade iftar-relaterade glukosexkursioner med låg hypoglykemirisk — direkt T1DM-evidens. |
+| [39318059](https://pubmed.ncbi.nlm.nih.gov/39318059/) | 2024 | Klinisk studie (prospektiv) | Diabetes Obes Metab | Vildagliptin som tillägg vid T1DM-ungdomar med NASH. Förbättrade MMP-14-nivåer, leverstyvhet och subklinisk ateroskleros. Belyser extraglykemiska fördelar vid T1DM. |
+| [22855332](https://pubmed.ncbi.nlm.nih.gov/22855332/) | 2012 | Klinisk farmakologistudie | J Clin Endocrinol Metab | Nyckeldata: vildagliptin minskar glukagon vid hyperglykemi men bevarar motreglation vid hypoglykemi vid T1DM. Kritisk säkerhetsdemonstation för T1DM-indikationen. |
+| [30848158](https://pubmed.ncbi.nlm.nih.gov/30848158/) | 2019 | Systematisk översikt | Expert Opin Investig Drugs | DPP-4-hämmare uppvisar immunskyddande effekter på β-celler och renalprotektiva effekter vid T1DM; sammanfattar pleiotropa mekanismer bortom antihyperglykemisk effekt. |
+| [31781045](https://pubmed.ncbi.nlm.nih.gov/31781045/) | 2019 | Mekanistisk humanstudie | Front Endocrinol | Insikter i GLP-1- och GIP-mekanismer via vildagliptin: förhöjda inkretinnivåer bibehålls i 24 timmar, med β-cellskänslighetsförbättring. Belyser mekanistisk grund för T1DM-tillämpning. |
+| [25395211](https://pubmed.ncbi.nlm.nih.gov/25395211/) | 2015 | Translationell studie | Curr Pharm Biotechnol | Vildagliptin inducerar β-cellsneogenesis och förbättrar lipidprofil i sen fas av T1DM (Fischer-råttor + kliniska observationer). |
+| [18597213](https://pubmed.ncbi.nlm.nih.gov/18597213/) | 2008 | Klinisk studie | Horm Metab Res | Tidig klinisk evidens: vildagliptins effekt på glukagonkoncentration vid måltider hos T1DM-patienter. Bevisade glukagonhämmande effekt i T1DM-population. |
+| [23523961](https://pubmed.ncbi.nlm.nih.gov/23523961/) | 2013 | Djurstudie | Arch Med Res | Vildagliptin minskar oxidativ stress och β-cellsdestruktion i T1DM-råttmodell. Ger preklinisk mekanistisk grund. |
+| [29510081](https://pubmed.ncbi.nlm.nih.gov/29510081/) | 2018 | Djurstudie | Can J Physiol Pharmacol | Vildagliptin/pioglitazon förbättrade overall glykemisk kontroll vid T1DM-råttor. Preklinisk kombinationsdata. |
 
 ---
 
-## Conclusion and Next Steps
+## Marknadsinformation Sverige
 
-**Decision: Proceed with Guardrails**
+Vildagliptin är **inte godkänt av Läkemedelsverket (MPA) i Sverige**. Inga registrerade licenser finns. Läkemedlet marknadsförs under varumärket **Galvus®** och **Eucreas®** (kombination med metformin) i andra EU-länder via EMA-godkännande, men saknar godkännande på den svenska marknaden.
 
-**Rationale:**
-A completed Phase 2 RCT conducted directly in T1DM patients (NCT02803892), combined with two independent RCTs demonstrating glucagon suppression and glycemic benefit in T1DM (PMID 22855332; PMID 38057844), a systematic review supporting β-cell immune protection (PMID 30848158), and an emerging body of pediatric clinical cohort data (PMID 39318059), collectively establish an L2 evidence base with a multi-layered and biologically coherent mechanistic rationale. The primary benefit signal — suppression of pathological post-meal glucagon with preservation of hypoglycemia-protective glucagon — is consistent across human studies and represents a clinically meaningful contribution to T1DM adjunctive management.
+> För fullständig säkerhetsinformation hänvisas till EMA-godkänd produktresumé (SmPC) för Galvus® tillgänglig via [EMA:s läkemedelsdatabas](https://www.ema.europa.eu/).
 
-**To proceed, the following is needed:**
+---
 
-- **Retrieve TFDA package insert** for formal warnings, contraindications, and hepatic/renal dosing restrictions — this is a blocking prerequisite before any safety clearance (DG001)
-- **Obtain DrugBank MOA data** including DPP-4 inhibitory kinetics, substrate selectivity, and known off-target interactions (DG002)
-- **Define the target T1DM population**: new-onset T1DM with residual C-peptide secretion is expected to benefit more than long-standing T1DM with complete β-cell absence; population selection criteria should be pre-specified
-- **Design a Phase 2/3 RCT** of vildagliptin as add-on to standard insulin therapy in T1DM, with primary endpoints of HbA1c reduction, time-in-range improvement, daily insulin dose change, and hypoglycemic event frequency
-- **Conduct long-term immunomodulatory safety assessment**: DPP-4/CD26 is expressed on activated T cells; chronic inhibition effects on autoimmune disease activity, infection risk, and other immune-mediated conditions require prospective monitoring
-- **Assess drug interactions** with rapid-acting insulin analogues, CGM systems, and common T1DM co-medications (e.g., SGLT2 inhibitors, which carry a DKA risk that may be relevant in insulin-deficient states)
+## Säkerhetsaspekter
+
+Inga säkerhetsdata från Läkemedelsverket eller den svenska produktresumén är tillgängliga, då vildagliptin saknar godkännande i Sverige. Inga läkemedelsinteraktionsdata återfanns i Evidence Pack.
+
+> Se EMA-godkänd produktresumé (SmPC) för Galvus® för fullständig information om varningar, kontraindikationer och läkemedelsinteraktioner.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Fortsätt med försiktighet**
+
+**Motivering:**
+Vildagliptin uppvisar välgrundad biologisk plausibilitet för typ 1-diabetes mellitus, underbyggd av en genomförd dubbelblind Fas 2 RCT (NCT02803892 / PMID 33124663), direkta kliniska humanstudier vid T1DM och ett unikt säkerhetssärdrag — bevarat hypoglykemimotregleringssvar — som är kliniskt avgörande för insulinbehandlade patienter. Evidensläget motiverar L2-klassificering och vidare utredning, men saknar ännu en avslutad Fas 3 RCT med T1DM som primär indikation.
+
+**För att gå vidare krävs:**
+
+- Hämta och granska EMA:s produktresumé (SmPC) för Galvus® för fullständig säkerhetsprofil, kontraindikationer och interaktionsdata
+- Bekräfta och fullständigt extrahera resultat från NCT02803892 (PMID 33124663) avseende primära och sekundära effektmått
+- Söka och värdera eventuella ytterligare registrerade Fas 2–3 studier med T1DM som primär indikation (utöver de 50 identifierade i Evidence Pack)
+- Planera eller identifiera Fas 3 RCT specifikt riktad mot T1DM som primär indikation och inkludering av relevanta endpunkter (HbA1c-sänkning, insulindosreduktion, hypoglykemifrekvens, β-cellsfunktionsmarkörer)
+- Genomföra regulatorisk förhandsdialog med EMA/Läkemedelsverket om förutsättningarna för en T1DM-indikationsutvidgning för ett redan EMA-godkänt läkemedel
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

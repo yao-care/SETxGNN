@@ -2,7 +2,7 @@
 layout: default
 title: Ibuprofen
 parent: 僅模型預測 (L5)
-nav_order: 69
+nav_order: 57
 evidence_level: L5
 indication_count: 7
 ---
@@ -10,12 +10,12 @@ indication_count: 7
 # Ibuprofen
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,86 +25,77 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-The txgnn-pipeline skill confirms this is a Swedish TxGNN deployment report. Now I'll generate the evaluation report following the v5 format.
+Använder **txgnn-pipeline** för att vägleda rapportgenerering. Analyserar Evidence Pack för Ibuprofen (DB01050) och sammanställer nu den svenska rapporten.
 
 ---
 
-# Ibuprofen: From Pain and Inflammation to Acromesomelic Dysplasia (Hunter-Thompson Type)
+# Ibuprofen: Från smärtlindring och inflammation till akromesomelisk dysplasi (Hunter-Thompson typ)
 
-## One-Sentence Summary
+## Sammanfattning
 
-Ibuprofen is a well-established non-steroidal anti-inflammatory drug (NSAID), widely used for pain relief, fever reduction, and inflammatory conditions globally.
-The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**, a rare inherited skeletal dysplasia caused by CDMP1/GDF5 mutations.
-Currently, **no clinical trials** and **no publications** support this direction — this remains a model-only prediction at the lowest evidence level (L5), with a recommendation to **Hold**.
+Ibuprofen är ett av världens mest välkända icke-steroida antiinflammatoriska läkemedel (NSAID), traditionellt använt för smärtlindring, febernedsättning och behandling av inflammatoriska tillstånd. TxGNN-modellen förutsäger att det kan ha effekt vid **akromesomelisk dysplasi av Hunter-Thompson typ (AMDH)** – en sällsynt genetisk skelettdysplasi orsakad av GDF5-mutation. Förutsägelsen saknar för närvarande stöd från kliniska prövningar eller publicerad litteratur och vilar **enbart på modellberäkning**.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
-|------|---------|
-| Original Indication | No registered indication in this market |
-| Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
-| TxGNN Prediction Score | 99.74% |
-| Evidence Level | L5 |
-| Sweden Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available for this candidate. Based on known pharmacology, Ibuprofen is a non-selective COX-1/COX-2 inhibitor that reduces prostaglandin synthesis, thereby dampening pain, fever, and inflammatory responses. Its safety and efficacy in these established indications are extensively documented over decades of clinical use.
-
-Acromesomelic dysplasia, Hunter-Thompson type is a rare autosomal recessive disorder caused by loss-of-function mutations in CDMP1/GDF5, a bone morphogenetic protein (BMP) family member critical for limb cartilage and joint formation. The disease manifests as disproportionately short forearms and lower legs, with structural skeletal defects determined during embryonic development. This is fundamentally a fixed genetic structural lesion — not an inflammatory or prostaglandin-mediated process.
-
-The mechanistic bridge from COX inhibition to GDF5 pathway rescue is extremely thin. While prostaglandins can theoretically modulate chondrocyte differentiation in vitro, there is no experimental or clinical evidence that Ibuprofen influences CDMP1/GDF5 signaling in a therapeutically meaningful way. The TxGNN prediction at rank 786 most likely reflects network-level co-association patterns between shared gene neighbors rather than a direct pharmacological rationale. This gap is consistent across all seven predicted indications in this pack, all of which involve rare congenital skeletal or developmental disorders.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Smärtlindring, febernedsättning och inflammationsbehandling (NSAID) |
+| Förutsagd ny indikation | Akromesomelisk dysplasi, Hunter-Thompson typ |
+| TxGNN-förutsägelsepoäng | 99,74% |
+| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
+| Marknadsstatus i Sverige | Inte registrerat i datakällan |
+| Antal godkännanden | 0 (enligt datakällan) |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Clinical Trial Evidence
+## Varför är denna förutsägelse rimlig?
 
-Currently no related clinical trials registered.
+Ibuprofen verkar som en icke-selektiv COX-inhibitor (cyklooxygenashämmare) och blockerar syntesen av prostaglandiner – signalmolekyler som driver inflammation, smärta och feber. Läkemedlet hämmar både COX-1 och COX-2, vilket leder till sänkta nivåer av prostaglandin E₂ (PGE₂) i vävnaderna.
 
----
+Akromesomelisk dysplasi av Hunter-Thompson typ orsakas av mutationer i GDF5-genen (Growth Differentiation Factor 5, även känd som CDMP1), vilket nedsätter BMP-signaleringen och leder till abnorm skelettbildning i framför allt extremiteternas distala delar. PGE₂ är känt för att kunna modulera BMP-2-inducerad osteogen differentiering, och COX-hämning kan teoretiskt förändra den parakrina BMP-miljön i benvävnaden – vilket utgör den mekanistiska bryggan i TxGNN:s förutsägelse.
 
-## Literature Evidence
-
-Currently no related literature available.
+Den mekanistiska länken bedöms dock som svag. AMDH är ett genetiskt strukturellt tillstånd där COX-hämning varken kan reparera det muterade GDF5-proteinet eller korrigera den underliggande genetiska defekten. Att hämma COX-enzymet förändrar den parakrina signalmiljön men adresserar inte den primära patofysiologin. Klinisk nytta bedöms som osannolik baserat på nuvarande farmakologisk förståelse.
 
 ---
 
-## Sweden Market Information
+## Kliniska prövningar
 
-Ibuprofen has no registered marketing authorizations in this market. No license data is available for tabulation.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Conclusion and Next Steps
+## Litteraturbevis
 
-**Decision: Hold**
+Ingen relaterad litteratur tillgänglig för närvarande.
 
-**Rationale:**
-All seven TxGNN-predicted indications for Ibuprofen are rare congenital skeletal or multi-system developmental syndromes (acromesomelic dysplasia, brachyolmia, brachydactyly-syndactyly syndrome, myosclerosis, pseudoachondroplasia, and others) with zero supporting clinical trials, zero supporting publications, and no plausible mechanistic link to COX inhibition. These diseases arise from fixed structural genetic defects established before or at birth, where anti-inflammatory intervention has no established therapeutic role. The predictions are network-model artifacts rather than biologically grounded hypotheses.
+---
 
-**To proceed, the following is needed:**
+## Säkerhetsaspekter
 
-- **Mechanistic rationale**: In vitro or in vivo evidence that COX inhibition or prostaglandin reduction modulates the relevant pathways (GDF5/BMP signaling, TRPV4, COMP, TRIP11, FAM20A, COL6A, HOXD/BMP morphogenesis)
-- **Preclinical data**: Animal model studies for at least the top-ranked indication (myosclerosis has relatively the highest mechanistic plausibility among the seven, as NSAIDs have limited anti-inflammatory effects in fibrotic disease)
-- **Safety profile**: Package insert warnings, contraindications, and drug interaction data must be retrieved before any clinical evaluation stage can open
-- **Regulatory status**: Ibuprofen registration data for the Sweden market should be confirmed, as this is a globally marketed OTC/Rx drug and the absence of authorizations in this database may reflect a data gap rather than true non-availability
-- **TxGNN model audit**: Given that all top-7 predictions cluster around rare genetic skeletal dysplasias — an atypical pattern for a broad-spectrum NSAID — a review of whether Ibuprofen's graph representation in the knowledge graph accurately reflects its known indication space is warranted
+> Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- Förutsägelsen baseras uteslutande på TxGNN-modellens beräkningsresultat (evidensnivå L5) utan stöd från kliniska prövningar, observationsstudier eller publicerad litteratur. Den mekanistiska länken mellan COX-hämning och GDF5-relaterad skelettdysplasi bedöms som biologiskt svag – COX-hämning kan inte kompensera för en strukturell genetisk defekt i BMP-signalvägen.
+
+**För att gå vidare krävs:**
+- Systematisk litteratursökning avseende COX-inhibitorer och BMP/GDF5-signalering vid skelettdysplasi
+- Preklinisk in vitro- och in vivo-data för ibuprofen i AMDH-modeller (t.ex. Gdf5-knockout-möss)
+- Bedömning av om inflammationskomponenten vid AMDH kan ge symptomlindrande effekt, även utan kurativt syfte
+- Inhämtning av fullständig säkerhetsdata från produktresumén (varningar, kontraindikationer, interaktioner)
+- Verifiering av marknadsstatus i Sverige via Läkemedelsverkets databas, då datakällan rapporterar 0 godkännanden för ett i övrigt välkänt läkemedel
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
