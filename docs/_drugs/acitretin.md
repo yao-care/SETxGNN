@@ -115,5 +115,10 @@ No TxGNN predicted indications have been generated for Acitretin, and critical d
 - Resolve **DG002** (High): Retrieve detailed MOA data from DrugBank API
 - Once predictions are available, perform clinical trial and literature evidence searches
 - Assess Taiwan market entry feasibility given the current "not marketed" status
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

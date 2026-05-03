@@ -134,5 +134,10 @@ Multiple completed Phase 1/2 clinical trials have directly tested Plerixafor as 
 - **Safety profiling for combination regimens:** Adverse event profiles for Plerixafor when combined with AML-specific regimens (decitabine, MEC, FLAG-Ida, sorafenib) need to be compiled from the completed trial publications
 - **Patient selection biomarkers:** CD25 expression (PMID 28718760) and CXCR4 surface density may predict response; prospective validation is recommended before broad use
 - **Pediatric-specific evaluation:** NCT01319864 tested Plerixafor in pediatric leukemia — a separate safety and dosing assessment is needed if this population is to be included
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

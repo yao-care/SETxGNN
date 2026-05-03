@@ -117,5 +117,10 @@ No TxGNN-predicted indication exists for Aprepitant at this time, and multiple b
 4. **Populate original indication** from authoritative sources (DrugBank, TFDA, or international labels)
 5. **Re-query DDI sources** using alternative databases if TFDA yields no results
 6. Once predicted indications are available, conduct targeted **clinical trial** (ClinicalTrials.gov) and **literature** (PubMed) searches for the top-ranked candidates
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

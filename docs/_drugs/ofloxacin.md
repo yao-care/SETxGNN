@@ -132,5 +132,10 @@ Ofloxacin demonstrates direct in vitro and in vivo efficacy against *Yersinia pe
 | 10 | Punctate Epithelial Keratoconjunctivitis | 99.57% | L4 | Research Question | Ofloxacin 0.3% eye drops already used for bacterial ocular infections; existing literature indirect only |
 | 1–5, 7, 9 | Haematological conditions (polyclonal hyperviscosity, congenital analbuminemia, etc.) | ≥99.72% | L5 | Hold | No mechanistic link; no evidence; likely TxGNN graph diffusion artefacts from adjacent haematological disease nodes |
 | 2 | Hyperamylasemia | 99.91% | L5 | **Contraindication** | Fluoroquinolones are known pancreatitis inducers — ofloxacin may worsen this condition |
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

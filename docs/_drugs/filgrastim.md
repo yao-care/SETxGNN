@@ -119,5 +119,10 @@ The overall evidence level is L4 (mechanistic/preclinical reasoning only). All 1
 - **MOA documentation**: Formal retrieval of filgrastim's mechanism of action from DrugBank or SmPC to confirm or rule out megakaryocyte-specific activity
 - **Safety profile establishment**: Full review of the EMA/MHRA Summary of Product Characteristics (SmPC) for relevant warnings, contraindications, and drug interactions before any clinical hypothesis can be formed
 - **Clarification of therapeutic target**: Determine whether the proposed benefit would come from filgrastim directly modulating platelet secretion, or indirectly via megakaryocyte expansion — as these require different trial designs and endpoints
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

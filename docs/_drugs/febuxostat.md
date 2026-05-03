@@ -121,5 +121,10 @@ Evidence supporting febuxostat for renal hypouricemia is currently limited to a 
 - **Obtain MOA documentation**: Query DrugBank API (DB04854) to formally document the mechanism of action for regulatory and scientific review purposes
 - **Assess indication scope**: Determine whether the target population (RHUC-related EIAKI) constitutes a rare/orphan disease designation opportunity, which may affect the development pathway and regulatory strategy
 - **Consider related predictions**: TxGNN also predicts benefit in HPRT partial deficiency (Kelley-Seegmiller syndrome, score 99.98%) and Lesch-Nyhan syndrome (score 99.68%) — both involve XOR-driven hyperuricemia from impaired purine salvage; these may be bundled into a single purine metabolism disorder program if evidence supports it
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

@@ -115,5 +115,10 @@ Haloperidol's potent D2/D3 dopamine receptor antagonism directly targets the cor
 - Develop a safety monitoring plan that explicitly addresses the elevated extrapyramidal side effect (EPS) and tardive dyskinesia risk associated with haloperidol, particularly for maintenance use in bipolar patients
 - Confirm available formulation routes (oral tablet/liquid, short-acting injectable, long-acting decanoate) and their suitability for acute vs maintenance management of manic bipolar disorder
 - Initiate regulatory pathway review for local indication expansion application
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

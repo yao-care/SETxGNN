@@ -85,5 +85,10 @@ No new indication was predicted by TxGNN for Allopurinol, and critical data gaps
 - **Resolve DG002 (High):** Query the DrugBank API for detailed mechanism of action data
 - **Re-run TxGNN prediction:** Verify whether the absence of predictions is due to model thresholds, missing knowledge graph nodes, or genuine lack of repurposing signal
 - **Confirm Taiwan market status:** Allopurinol is widely available globally; the finding of 0 TFDA licenses may warrant a broader search (e.g., under brand names or combination products)
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

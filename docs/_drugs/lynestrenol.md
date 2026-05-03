@@ -90,5 +90,10 @@ The Evidence Pack contains no TxGNN repurposing predictions, no approved indicat
 - **Re-run TxGNN pipeline** after MOA data is populated — confirm that Lynestrenol nodes are properly linked in the knowledge graph
 - **Check international regulatory status** — confirm approved indications in EMA, FDA, or other jurisdictions to provide an anchor indication for the repurposing title and mechanistic analysis
 - **Validate KG node coverage** for Lynestrenol: if the node is isolated or sparsely connected, manual literature-based edge annotation may be required before a prediction can be generated
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

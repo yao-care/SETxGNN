@@ -118,5 +118,10 @@ Every piece of retrieved evidence confirms that the TxGNN prediction for nitrofu
 - At least one preclinical study (in vitro or in vivo animal model) demonstrating anti-inflammatory or disease-modifying activity in RA-relevant systems
 - MOA data from DrugBank to assess whether any molecular targets overlap with RA disease biology
 - KG graph audit to correct the false positive edge between nitrofurantoin and RA via the shared ILD node, preventing recurrence in future prediction cycles
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

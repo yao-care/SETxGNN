@@ -98,5 +98,10 @@ Despite a high TxGNN model score, the predicted link between felypressin and dru
 - Full safety profile from the package insert — TFDA/EMA/FDA (data gap DG001)
 - Clarification of the clinical question: is felypressin being evaluated as a *treatment* for drug-induced osteoporosis, or is drug-induced osteoporosis a potential *side effect* of felypressin itself that warrants pharmacovigilance?
 - Review of whether the TxGNN score reflects a genuine drug–disease biological signal or is an artefact of vasopressin receptor ubiquity in the knowledge graph
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

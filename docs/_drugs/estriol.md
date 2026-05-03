@@ -116,5 +116,10 @@ PMID 22137494 provides direct clinical evidence that estriol modulates LH secret
 - Drug–drug interaction profile for estriol (DDI query returned no results — requires manual review of reference sources)
 - Verification of Sweden market status against the Swedish Medical Products Agency (MPA) database, as estriol products (e.g., Ovestin) are known to exist in European markets but returned 0 hits in the current query
 - Dose-optimisation data: the optimal estriol dose for hypothalamic feedback modulation in amenorrhea may differ substantially from doses used in menopausal indications
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

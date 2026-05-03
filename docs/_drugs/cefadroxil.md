@@ -86,5 +86,10 @@ No TxGNN-predicted indications exist for cefadroxil at this time, and the drug i
 - Fill Data Gap DG001 (Blocking): Download and parse the TFDA package insert PDF for safety warnings and contraindications
 - Reassess market access feasibility given the drug's current unlicensed status in Taiwan
 - Once predictions are available, collect clinical trial and literature evidence for the top-ranked indication(s)
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

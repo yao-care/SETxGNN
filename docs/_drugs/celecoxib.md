@@ -94,5 +94,10 @@ No TxGNN predicted indications have been generated for Celecoxib, and the eviden
 - **Fill TFDA safety data gap (DG001):** Since the drug is not marketed in Taiwan, consider sourcing safety data from international regulatory agencies (FDA, EMA) as an alternative
 - **Reassess market pathway:** Evaluate whether repurposing candidates would require a new drug application (NDA) or special access pathway in Taiwan given the absence of existing market authorization
 - Re-run the evidence pack pipeline once the above gaps are resolved and regenerate this report
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

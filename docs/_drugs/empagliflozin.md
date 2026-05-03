@@ -98,5 +98,10 @@ There is no clinical trial or published literature supporting the use of empagli
 - Conduct a targeted literature review to determine whether any SGLT2 inhibitor class effect has been observed in CNS autoimmune conditions
 - Commission preclinical feasibility assessment (in vitro GABAergic neuron models or SPS animal models) before any clinical hypothesis can be formulated
 - Reassess TxGNN prediction in the context of alternative disease rankings — classic stiff person syndrome (rank 2) and opsismodysplasia (rank 3) share identical or near-identical scores, suggesting the model may not be discriminating meaningfully between these targets
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

@@ -118,5 +118,10 @@ The TxGNN prediction score is moderate (50%), and the evidence pack currently co
 - Retrieve **Swedish MPA / EMA authorization records** for Bosulif® to clarify regulatory status in Sweden
 - Obtain **package insert warnings and contraindications** (FASS.se or EMA SmPC) to close data gap DG001
 - Re-evaluate the candidate once the evidence pack is supplemented; reclassification to **Proceed with Guardrails** is plausible if published Phase 2/3 data in blast phase CML are confirmed
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

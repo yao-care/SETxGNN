@@ -97,5 +97,10 @@ There is no clinical or preclinical evidence supporting sorbitol's use in exerci
 - Mechanism of action data from DrugBank to enable a pharmacological plausibility assessment
 - Evidence of any osmotic agent effects in hyperthermia or skeletal myopathy models
 - Review of TxGNN model calibration for ultra-rare diseases to quantify and correct sparse node bias before further action
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

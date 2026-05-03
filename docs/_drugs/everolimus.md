@@ -130,5 +130,10 @@ The Akt/mTOR signaling axis is mechanistically active and well-characterized in 
 - **Assess Taiwan regulatory pathway**: Evaluate compassionate use or expedited review eligibility for sarcoma indication, given unmet need in relapsed/refractory DDLPS
 - **Define target patient population**: Clarify whether intended use is specifically DDLPS or broader liposarcoma subtypes, and confirm CDK4 amplification as a biomarker enrichment strategy
 - **Review safety monitoring plan** for the ribociclib + everolimus combination, including QTc prolongation (ribociclib risk) and non-infectious pneumonitis (everolimus class effect) co-management
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

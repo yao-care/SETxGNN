@@ -92,5 +92,10 @@ The Evidence Pack is missing two blocking-to-high severity data inputs (TFDA pac
 - **[High — DG002]** Query DrugBank API to populate the MOA field; Miglustat's substrate reduction mechanism is central to any mechanistic plausibility argument
 - **[Critical]** Investigate why `predicted_indications` is empty — determine whether TxGNN failed to score this drug, returned results that were not captured, or correctly identified no repurposing candidates above threshold
 - **[Follow-up]** Once MOA and indication data are restored, re-run the TxGNN pipeline and regenerate the Evidence Pack with a populated `predicted_indications` array before proceeding to full evaluation
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

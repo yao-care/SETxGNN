@@ -107,5 +107,10 @@ The top TxGNN-predicted indication (Ambras type hypertrichosis universalis conge
 - **Prioritize kyphoscoliotic heart disease (rank 7) for a dedicated evidence search**: Conduct a focused PubMed/ClinicalTrials search combining tadalafil, PAH, and restrictive lung/kyphoscoliosis; this is the only predicted indication with a biologically credible path forward
 - **Do not pursue hair-disorder indications (ranks 1–3, 5–6)** without preclinical evidence: the entire hypertrichosis/trichomegaly/hair-shaft cluster lacks mechanistic grounding and should be deprioritized until cGMP-hair follicle axis studies emerge
 - **Flag rank 8 (migraine with brainstem aura) as a safety exclusion**: Tadalafil should be avoided in patients with migraine with aura history; document this as a prescribing caution in any future clinical planning
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

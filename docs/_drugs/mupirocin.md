@@ -97,5 +97,10 @@ The Evidence Pack for Mupirocin (DB00410) is missing the two inputs required for
 - **[Pipeline]** Investigate why TxGNN returned an empty `predicted_indications` array — verify that DB00410 / Mupirocin is present as a node in the knowledge graph and re-run prediction
 - **[Regulatory]** Confirm whether Taiwan non-registration reflects a regulatory gap (drug exists but not filed) or a data absence — cross-check with MPA/EMA registrations to determine if a bridging registration pathway is relevant
 - Once the above are resolved, re-generate the Evidence Pack and re-run this evaluation
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

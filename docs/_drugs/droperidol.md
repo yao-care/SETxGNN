@@ -107,5 +107,10 @@ The most actionable finding in this Evidence Pack is **Headache Disorder (rank 7
 - DrugBank MOA data retrieval to confirm receptor binding profile (Data Gap DG002)
 - Taiwan TFDA package insert review for warnings and contraindications (Data Gap DG001)
 - Comparative benchmarking against currently approved Tourette treatments (Haloperidol, pimozide, fluphenazine, aripiprazole)
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

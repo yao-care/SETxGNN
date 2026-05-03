@@ -98,5 +98,10 @@ No TxGNN predicted indications exist for Apixaban in this evidence pack, making 
 - **Resolve DG002 (High):** Query DrugBank API for detailed mechanism of action data
 - **Populate original indications** from DrugBank or TFDA approved indication text
 - **Verify Taiwan market status** — Apixaban (Eliquis) is widely available internationally; confirm whether it truly has no TFDA authorization or if the query needs refinement
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

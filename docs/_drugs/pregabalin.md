@@ -105,5 +105,10 @@ Although TxGNN assigns a high prediction score (99.71%), the mechanistic overlap
 - Conduct a targeted literature review specifically on chronic tendinopathy with neuropathic pain features to test the central-sensitization hypothesis
 - If mechanistic rationale is confirmed, design a prospective pilot study in patients with chronic tendinopathy meeting neuropathic pain screening criteria (e.g., PainDETECT ≥ 19)
 - Consider that pregabalin is a controlled substance in many jurisdictions (abuse potential); regulatory implications for any new indication must be assessed upfront
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

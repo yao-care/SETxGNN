@@ -96,5 +96,10 @@ The Evidence Pack for LEVOSIMENDAN is structurally incomplete: the TxGNN model h
 - [ ] **Confirm Sweden regulatory pathway** — if Simdax or a generic is approved elsewhere in the EU, assess mutual-recognition applicability
 
 Once these four items are resolved, re-submit the updated Evidence Pack for a full L1–L5 evaluation.
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

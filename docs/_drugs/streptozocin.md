@@ -132,5 +132,10 @@ The top TxGNN prediction (RRMS, rank 1) is a knowledge-graph false positive — 
 - **MOA data retrieval:** Obtain streptozocin's mechanism of action from DrugBank API (data gap DG002) to enable proper mechanistic filtering
 - **TFDA package insert parsing:** Extract full warnings and contraindications from the retrieved PDF (data gap DG001) before any regulatory pathway assessment
 - **Known-indication recall validation:** Confirm TxGNN correctly identifies pancreatic islet cell carcinoma and carcinoid tumors as positive predictions for streptozocin, as a model quality benchmark
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

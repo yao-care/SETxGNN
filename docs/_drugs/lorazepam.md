@@ -93,5 +93,10 @@ The TxGNN prediction output is absent, and two critical data gaps — MOA (High 
 - **\[Required\] Re-run TxGNN prediction pipeline** — Confirm that lorazepam (DB00186) was included in the prediction run and retrieve the `predicted_indications` output; if the model returned no candidates, document the reason (e.g., below threshold, excluded node)
 - **\[Recommended\] Verify Taiwan market status** — Confirm whether lorazepam is absent from Taiwan drug licenses due to a query issue or whether it is genuinely not marketed domestically, possibly registered under a controlled substance framework
 - **\[Recommended\] Populate original indications** — Record the established clinical uses (anxiety, seizure, sedation) in the `original_indications` field to enable proper indication-to-indication comparability analysis once a prediction target is available
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

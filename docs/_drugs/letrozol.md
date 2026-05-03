@@ -93,5 +93,10 @@ Evidence Pack 缺少全部關鍵輸入：原始適應症、TxGNN 預測結果、
 4. **執行 TxGNN 模型**：為 LETROZOL 生成 `predicted_indications` 輸出
 5. **解析 TFDA 仿單**：從已成功取得的仿單中，提取 `safety.key_warnings` 與 `safety.contraindications`
 6. **澄清台灣市場狀態矛盾**：TFDA 仿單查詢有結果，但 `market_status` 標示「未上市」，需確認是否因藥名拼寫差異（LETROZOL vs. LETROZOLE）導致查詢對象不一致
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

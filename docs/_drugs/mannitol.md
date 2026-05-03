@@ -93,5 +93,10 @@ No TxGNN predicted indications were generated for Mannitol, and there are zero T
 - Download and parse the TFDA package insert PDF to populate warnings and contraindications (remediation for DG001)
 - Investigate why `original_indications` is empty — confirm whether this reflects a true regulatory gap or a data extraction issue
 - Verify whether Mannitol's osmotic (non-receptor) mechanism reduces its graph-embedding similarity to disease nodes in the TxGNN knowledge graph, and consider supplementing with pathway-based features if appropriate
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

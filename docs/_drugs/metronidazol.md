@@ -75,5 +75,10 @@ The Evidence Pack returned zero predicted indications and zero approved authoriz
 - **Retrieve package insert warnings** — TFDA/MPA package insert query succeeded (result_count: 1) but `safety.key_warnings` and `safety.contraindications` remain empty; parse the PDF to fill these fields
 - **Confirm Sweden registration status** — Metronidazole products (e.g., Flagyl) are marketed in many European countries; verify whether any MPA (Swedish Medical Products Agency) authorizations exist under alternative spellings or brand names
 - **Re-run DDI query** using the resolved DrugBank ID to capture known interactions (warfarin, lithium, alcohol, disulfiram, etc.)
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

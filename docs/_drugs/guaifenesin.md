@@ -104,5 +104,10 @@ A completed Phase 2 RCT directly evaluating oral guaifenesin in pediatric chroni
 - **Adult population data**: Existing evidence is exclusively pediatric (ages 7–18); adult applicability needs dedicated investigation
 - **Pharmacovigilance plan**: Define monitoring strategy for relevant special populations (pediatric dosing, elderly, pregnancy)
 - **Dosage form and route review**: Confirm that available oral formulations are appropriate for the target nasal cavity disease indication and patient population
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

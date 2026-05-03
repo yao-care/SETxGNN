@@ -110,5 +110,10 @@ No TxGNN-predicted indication exists for Artemether at this time, and the drug i
 - Obtain TFDA package insert warnings and contraindications (DG001), or source equivalent safety data from WHO/EMA given the drug's international availability
 - If a predicted indication is identified, conduct indication-specific clinical trial and literature searches
 - Evaluate whether Artemether's lack of Taiwan market presence necessitates an import/compassionate use pathway
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

@@ -99,5 +99,10 @@ This prediction rests entirely on model inference without any supporting experim
 - **Safety data**: Obtain TFDA package insert (if applicable) or international equivalents to document contraindications, warnings, and special population restrictions before any exploratory clinical use
 - **Dosing considerations**: Xylitol is used across a wide dose range (topical dental to oral systemic). For an anti-infective indication, appropriate systemic concentrations and tolerability at those doses must be established
 - **Regulatory pathway assessment**: Since xylitol has zero authorisations in Taiwan and is generally classified as a food ingredient / excipient, a regulatory strategy for reclassification as an investigational drug would be needed before clinical trials can be initiated
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

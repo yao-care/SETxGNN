@@ -108,5 +108,10 @@ SIV infection is primarily a disease of non-human primates and serves as a resea
 - Obtain formal mechanism of action documentation (DrugBank API) to complete the regulatory safety profile
 - Retrieve Taiwan package insert (TFDA PDF) to populate key warnings, contraindications, and DDI data before any S1 safety assessment can proceed
 - Consider whether a higher-value repurposing target exists, given Ritonavir's well-known role as a CYP3A4 inhibitor used as a pharmacokinetic booster (e.g., in Paxlovid), which may represent a more clinically actionable direction
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

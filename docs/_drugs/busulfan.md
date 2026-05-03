@@ -109,5 +109,10 @@ The TxGNN model did not generate any predicted new indications for Busulfan. Add
 - Investigation into why TxGNN produced no predictions — verify that Busulfan (DB01008) is adequately represented in the knowledge graph and that input features are correctly mapped
 - If a specific repurposing hypothesis exists from clinical observation or literature, consider manual evidence collection to bypass the model prediction step
 - Reassess after knowledge graph update or model retraining
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

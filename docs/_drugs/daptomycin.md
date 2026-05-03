@@ -118,5 +118,10 @@ The TxGNN model did not produce any predicted new indications for Daptomycin. Co
 - Retrieve and populate the mechanism of action data from DrugBank API (DG002)
 - If Daptomycin enters the Taiwan market in the future, obtain TFDA package insert for local safety assessment (DG001)
 - Consider whether the drug's narrow antibacterial mechanism realistically supports non-infectious disease repurposing; if not, deprioritise this candidate
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

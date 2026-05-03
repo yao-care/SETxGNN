@@ -99,5 +99,10 @@ This evidence pack is at a very early stage — the TxGNN model has not yet gene
 3. **Resolve DG002:** Query DrugBank API to populate mechanism of action data
 4. **Verify Taiwan market status:** Cross-check TFDA database for existing Ciprofloxacin authorizations (the current 0-result may be a query limitation)
 5. **Re-generate evidence pack** once the above gaps are filled, then re-evaluate
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

@@ -101,5 +101,10 @@ This Evidence Pack lacks the minimum required data to support a drug repurposing
 - Download and parse the Taiwan FDA package insert PDF to extract warnings and contraindications (remediation for DG001)
 - Verify whether the absence of Taiwan market authorization is accurate or a query scope issue
 - Resubmit the completed Evidence Pack for a full evaluation
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

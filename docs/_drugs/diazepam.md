@@ -88,5 +88,10 @@ No new indication has been predicted by the TxGNN model for Diazepam, and no sup
 - Retrieve package insert warnings and contraindications from the regulatory authority to resolve data gap DG001
 - Clarify Sweden market status — Diazepam is widely available globally; the absence of Swedish authorizations may reflect a data collection issue rather than true market absence
 - If a predicted indication is generated in a future cycle, collect relevant clinical trial and literature evidence to support evaluation
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

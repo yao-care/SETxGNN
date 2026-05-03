@@ -91,5 +91,10 @@ The prediction pipeline produced no output for Naproxen, and all three required 
 - **[Required]** Re-run the TxGNN prediction pipeline after populating missing drug node features
 - **[Required]** Confirm whether Naproxen is included in the current knowledge graph version; if absent, add drug node with appropriate feature embeddings
 - **[Optional]** Cross-reference with international registrations (FDA, EMA) to obtain original approved indication text as a fallback data source
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

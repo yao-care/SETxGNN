@@ -104,5 +104,10 @@ Despite a high TxGNN computational score (99.01%), there is zero supporting clin
 - **Pre-clinical validation:** Conduct animal model studies in malignant renovascular hypertension to establish proof-of-concept before human study design
 - **Cardiovascular/renal risk assessment:** Formally evaluate isotretinoin-induced hypertriglyceridaemia and any nephrotoxic signals in the intended patient population
 - **Regulatory mapping:** Confirm whether any jurisdiction has approved isotretinoin for any cardiovascular or renal indication, which could reduce the regulatory pathway burden
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

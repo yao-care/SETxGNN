@@ -94,5 +94,10 @@ The Evidence Pack is missing all three critical data categories — TxGNN predic
 - **[High]** Populate `original_indications` field from DrugBank or TFDA source data
 - **[Medium]** Re-run DDI query after original indications are confirmed, to check for clinically relevant interactions
 - Once predictions are available, re-generate this report using the full v4+ Evidence Pack template
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

@@ -99,5 +99,10 @@ No TxGNN-predicted indications exist for Darunavir at this time. Combined with m
 - **Remediate DG001**: Obtain TFDA package insert warnings and contraindications (or equivalent international label data, given Darunavir is not marketed in Taiwan)
 - **Obtain safety data**: Drug-drug interaction profiles are critical given Darunavir's known extensive CYP3A4 interactions and requirement for pharmacokinetic boosting
 - **Clarify regulatory pathway**: Since Darunavir is not marketed in Taiwan, determine whether an international reference (e.g., FDA, EMA) label should be used as the safety reference
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

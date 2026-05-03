@@ -111,5 +111,10 @@ The TxGNN prediction is mechanistically well-grounded — zolmitriptan's documen
 - Full safety data from Sweden and Taiwan package inserts — especially cardiovascular contraindications, vasoconstrictive risk assessment in basilar artery territory, and pregnancy category
 - Drug-drug interaction (DDI) assessment, which returned no data in the current query
 - Regulatory pathway assessment for Sweden market authorization, given zero current licenses
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

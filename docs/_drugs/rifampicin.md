@@ -110,5 +110,10 @@ A 1975 controlled clinical trial directly demonstrates topical rifampicin's effi
 - **Resistance risk assessment:** Given rifampicin's critical and irreplaceable role in anti-tuberculosis regimens globally, an ophthalmic indication must be accompanied by a formal assessment of resistance emergence risk and a restricted use framework
 - **Dedicated clinical trial:** Design a Phase 2 RCT evaluating 0.1–1% topical rifampicin for bacterial conjunctivitis and/or trachoma as the primary endpoint, updating the 1975 controlled evidence with modern methodology and validated outcome measures
 - **Regional regulatory pathway:** Assess Taiwan NDA filing requirements for a novel ophthalmic indication of a non-registered compound
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

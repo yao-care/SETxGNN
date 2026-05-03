@@ -91,5 +91,10 @@ The Evidence Pack for Midazolam is missing all three foundational data layers �
 3. **Re-run TxGNN pipeline:** With MOA and target data populated, re-execute the prediction model to generate `predicted_indications` with scores.
 4. **Re-run evidence collection:** Once predicted indications are available, trigger the clinical trials (ClinicalTrials.gov) and literature (PubMed) evidence collection pipeline.
 5. **Re-evaluate market status:** Clarify whether "未上市" reflects a genuine absence or a data retrieval gap — Midazolam is a commonly used drug internationally and its Taiwan status should be confirmed against the full TFDA database.
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

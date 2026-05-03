@@ -107,5 +107,10 @@ The mechanistic rationale for sumatriptan in migraine with brainstem aura is bio
 - **Prospective case series or observational study:** Collect real-world safety data in MBA patients who have received sumatriptan (some may have been treated off-label)
 - **Phase 2 pilot trial design:** If contraindication review supports feasibility, design a small Phase 2 trial with enhanced safety monitoring (neuroimaging, brainstem perfusion assessment) as the minimum clinical evidence threshold
 - **Drug interaction screening:** Complete DDI assessment before any clinical application
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

@@ -118,5 +118,10 @@ The Evidence Pack for Mitomycin is critically incomplete — no TxGNN repurposin
 - Document original approved indications from DrugBank, TFDA, or international regulatory sources (e.g., FDA, EMA)
 - Retrieve DDI data from an alternative source (current query returned `not_found`)
 - After TxGNN predictions are available, re-generate this report using a complete Evidence Pack
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

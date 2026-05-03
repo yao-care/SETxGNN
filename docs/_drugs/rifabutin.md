@@ -128,5 +128,10 @@ The evidence base for rifabutin in HIV infectious disease management is among th
 - **DDI mapping with modern ART**: Prioritise interaction profiling with current first-line regimens — dolutegravir-based (DTG + 2 NRTIs) and TAF-containing combinations — as these are now standard of care but underrepresented in older rifabutin trial data
 - **Haematological monitoring protocol**: Establish CBC with differential monitoring schedule, especially for patients on concomitant CYP3A4 inhibitors (macrolides, azoles) where elevated rifabutin plasma levels increase myelosuppression risk
 - **Ophthalmologic monitoring plan**: Formalise uveitis surveillance protocol for patients receiving rifabutin with macrolide or azole co-medication
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

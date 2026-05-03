@@ -136,5 +136,10 @@ The TxGNN model did not generate any predicted new indications for Deferasirox. 
 - Resolve **DG001** (Blocking): Acquire TFDA package insert or equivalent regulatory safety data
 - Resolve **DG002** (High): Retrieve detailed MOA from DrugBank API to enable future mechanism–disease linkage analysis
 - Monitor emerging research on iron chelation in oncology, neurodegeneration, and infectious disease for potential manual candidate identification
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

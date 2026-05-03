@@ -113,5 +113,10 @@ No TxGNN-predicted indications have been generated for Cilostazol. Combined with
 - **TFDA safety data** — Obtain and parse package insert warnings and contraindications (DG001, Blocking)
 - **Taiwan regulatory clarification** — Confirm whether Cilostazol has ever been marketed in Taiwan or if it requires a new drug application pathway
 - **Drug-drug interaction profiling** — Current DDI query returned no results; verify against additional databases (e.g., DrugBank interactions endpoint, Micromedex)
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

@@ -98,5 +98,10 @@ This prediction sits at Evidence Level L5 — supported solely by the TxGNN know
 - Taiwan TFDA package insert review to extract warnings and contraindications
 - Drug-drug interaction database query to complete safety screening
 - Consideration of whether any prostaglandin E-series analogues (which have more established peripheral vascular evidence) might be a more plausible class for this hypothesis
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

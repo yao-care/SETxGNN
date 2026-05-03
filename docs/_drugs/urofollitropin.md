@@ -109,5 +109,10 @@ All 10 TxGNN-predicted indications for Urofollitropin are classified at L5 (mode
 - **Preclinical evidence search**: Before any further investment, conduct a targeted search on FSHR expression in trigeminal ganglia and hypothalamic pain circuits — animal model data would be the minimum bar to upgrade from L5
 - **KG node audit**: Flag FSH/FSHR as a high-degree hub node in the TxGNN knowledge graph; predictions for neuroendocrine hormones with broad CNS receptor distribution should receive automatic plausibility filtering before ranking
 - **Consider deprioritization**: With all 10 candidates at L5 and no mechanistic bridging evidence, Urofollitropin should be deprioritized relative to repurposing candidates with at least L3-level evidence in the current pipeline
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

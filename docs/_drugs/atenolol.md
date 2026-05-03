@@ -95,5 +95,10 @@ The TxGNN model did not produce any predicted new indications for Atenolol, and 
 - **Re-run TxGNN prediction** after upstream data gaps are filled to determine whether new indication candidates emerge
 - **Verify original indication data:** The evidence pack contains no original indications — confirm whether this is a data extraction issue or reflects actual regulatory status
 - **Assess Taiwan market relevance:** Given Atenolol is not marketed in Taiwan, evaluate whether pursuing a Taiwan-specific repurposing pathway is strategically appropriate, or whether the analysis should be redirected to jurisdictions where the drug is already approved
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

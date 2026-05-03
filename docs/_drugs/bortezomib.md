@@ -86,5 +86,10 @@ No TxGNN-predicted indication has been generated for bortezomib, so there is no 
 - **Resolve DG002 (High)**: Query DrugBank API for complete MOA, target, and pharmacodynamic data
 - **Taiwan market verification**: Confirm whether bortezomib biosimilars or branded products (e.g., Velcade®) hold any active TFDA licences, as the drug is widely used in Taiwan hospitals despite the evidence pack showing 0 licences
 - **Clinical evidence enrichment**: Once a predicted indication is identified, search ClinicalTrials.gov and PubMed for supporting trials and literature
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

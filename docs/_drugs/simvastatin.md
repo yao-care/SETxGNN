@@ -121,5 +121,10 @@ Multiple completed Phase 3 RCTs — anchored by the ENHANCE trial (n=720) and co
 - **Drug-drug interaction (DDI) assessment**: Re-query DDI database; simvastatin has known clinically significant interactions (e.g., with CYP3A4 inhibitors, fibrates, niacin) that must be documented
 - **Taiwan regulatory pathway review**: Since TFDA registration is absent (0 licenses), confirm whether a formal regulatory filing is required for clinical use in Taiwan, or whether off-label prescribing protocols apply
 - **MOA documentation**: Obtain complete DrugBank mechanism-of-action record for regulatory submission completeness
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

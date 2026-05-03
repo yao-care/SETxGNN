@@ -113,5 +113,10 @@ There is no clinical trial, observational study, or published literature directl
 - Formal MOA documentation retrieved from DrugBank API (to address DG002)
 - TFDA package insert safety data — warnings and contraindications (to address DG001)
 - Review of known EGFR inhibitor dermatological and mucosal toxicity profiles to assess whether gefitinib's known side effects (acneiform rash, mucosal changes) could confound or worsen gingival tissue in this patient population
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

@@ -106,5 +106,10 @@ The TxGNN model's highest-ranked prediction for treprostinil — pulmonary arter
   - **PAH associated with congenital heart disease** (rank #2, L3 evidence): Observational data and a terminated Phase 2 treprostinil trial in neonates; prostacyclin analogues used in CHD-PAH adults. Decision likely: *Proceed with Guardrails* with monitoring for shunt risk.
   - **PAH associated with HIV infection** (rank #3, L3 evidence): Mechanistically plausible (HIV-mediated prostacyclin synthase suppression); a terminated Phase 4 trial exists; DDI risk with antiretrovirals requires evaluation. Decision: *Research Question*.
 - **Regulatory pathway for Sweden:** With zero Swedish authorizations, any advancement requires a formal European/Swedish MPA registration strategy in parallel with clinical evidence generation.
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

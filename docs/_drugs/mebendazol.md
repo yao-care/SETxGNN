@@ -75,5 +75,10 @@ No TxGNN predicted indications were returned, and both blocking and high-severit
 - **Pipeline diagnostic:** Confirm that the DrugBank result (result\_count: 1) and TFDA insert result (result\_count: 1) are being correctly parsed and mapped into `drug.original_moa` and `safety.key_warnings` respectively
 - **Spelling verification:** Confirm that the INN query string `MEBENDAZOL` (without trailing *e*) matches the canonical WHO INN `MEBENDAZOLE` in all upstream database lookups, to rule out a name-mismatch causing the TxGNN pipeline to return zero predictions
 - **Re-run TxGNN:** Once the drug identity and MOA fields are correctly populated, re-run the prediction pipeline to obtain ranked predicted indications
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

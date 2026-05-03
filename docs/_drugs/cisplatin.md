@@ -139,5 +139,10 @@ The TxGNN model did not generate any predicted new indications for cisplatin. Co
 - **Re-run TxGNN prediction:** After data gaps are resolved, re-run the TxGNN model with complete input features to determine if any new indications are predicted
 - **Investigate market status:** Confirm whether cisplatin products are available in Taiwan through alternative channels (e.g., hospital special imports) despite having no active TFDA licenses
 - **Cross-reference other countries:** Consider whether TxGNN predictions from other country sub-projects (if available) identified repurposing candidates for cisplatin that could be evaluated in the Taiwan context
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

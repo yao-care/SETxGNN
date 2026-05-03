@@ -94,5 +94,10 @@ No TxGNN-predicted indication has been generated for Dapagliflozin, and critical
 - **TFDA regulatory verification**: Confirm Taiwan market status against current TFDA database — the drug may have been approved under brand names not captured in this query
 - **Safety data collection**: Obtain TFDA package insert warnings and contraindications (remediation identified as DG001, severity: Blocking)
 - **Differentiation analysis**: Once predictions are available, assess whether they represent genuinely novel indications beyond the already-established heart failure and CKD uses
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

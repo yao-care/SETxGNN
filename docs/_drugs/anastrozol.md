@@ -107,5 +107,10 @@ No TxGNN predicted indications have been generated for Anastrozol, and the evide
 - Obtain TFDA package insert data or, if not marketed in Taiwan, reference international regulatory documents (EMA/FDA) for safety profile (Remediation: as noted in DG001)
 - Once a predicted indication is available, conduct targeted clinical trial and literature searches (ClinicalTrials.gov, PubMed)
 - Reassess market access strategy given the drug is not currently authorized in Taiwan
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

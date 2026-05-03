@@ -77,5 +77,10 @@ The current Evidence Pack provides no TxGNN repurposing predictions, no approved
 ---
 
 > **Note:** This report reflects the state of the Evidence Pack as of 2026-04-20. Melatonin is not classified as antineoplastic; no cytotoxicity section is required. All sections dependent on `predicted_indications` have been omitted per reporting rules, as that array is empty.
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

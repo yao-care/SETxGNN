@@ -118,5 +118,10 @@ There is no direct clinical or preclinical evidence supporting Fulvestrant's eff
 - Mechanistic clarification of the ER–HIV replication interaction pathway
 - Detailed MOA and safety data retrieved from DrugBank and the TFDA package insert (both currently absent from this dataset)
 - Assessment of whether IM depot administration (Fulvestrant's only available route) is compatible with HIV treatment settings
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

@@ -88,5 +88,10 @@ No new indications have been predicted by TxGNN for Bacitracin, and the drug is 
 - TFDA package insert warnings and contraindications (Data Gap DG001)
 - Assessment of whether Bacitracin's limited systemic applicability (due to nephrotoxicity) fundamentally constrains repurposing potential
 - If a topical-only repurposing strategy is considered, identification of dermatological or wound-care indications beyond current antimicrobial use
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

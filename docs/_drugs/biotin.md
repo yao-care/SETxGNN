@@ -114,5 +114,10 @@ The TxGNN model did not generate any predicted indications for Biotin. Combined 
 - Resolve **DG002** (High): Obtain detailed mechanism of action data from DrugBank API
 - Re-run TxGNN prediction pipeline to confirm whether the empty prediction set is due to insufficient graph connectivity or a genuine absence of signal
 - If Biotin is primarily classified as a nutritional supplement rather than a therapeutic drug, consider whether it falls within the scope of this repurposing programme
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

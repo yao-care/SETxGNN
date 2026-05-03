@@ -82,5 +82,10 @@ This Evidence Pack has two blocking or high-severity data gaps — no predicted 
 - **Mechanism of action (DG002 – High)**: Query DrugBank API for DB01235 to retrieve pharmacological class, targets, and MOA description
 - **TFDA package insert safety data (DG001 – Blocking)**: Download and parse the TFDA PDF to extract contraindications, key warnings, and special population restrictions before proceeding to safety screening
 - **Drug interaction data**: DDI query returned no results; a secondary source (e.g., DrugBank interactions endpoint) should be queried once MOA is confirmed
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 
