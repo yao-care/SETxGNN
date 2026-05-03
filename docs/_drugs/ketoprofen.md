@@ -2,7 +2,7 @@
 layout: default
 title: Ketoprofen
 parent: 僅模型預測 (L5)
-nav_order: 73
+nav_order: 61
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Ketoprofen
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,80 +25,78 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-Using **txgnn-pipeline** context confirmed. Now generating the evaluation report based on the Evidence Pack.
+Läser in `txgnn-pipeline`-skillet. Det ger kontext om TxGNN-arbetsflödet, men inga specifika riktlinjer för rapportskrivning – det täcks av systemprompten. Jag fortsätter direkt med rapporten baserat på det tillhandahållna Evidence Pack-datat.
 
 ---
 
-# Ketoprofen: From Pain and Inflammation to Acromesomelic Dysplasia, Hunter-Thompson Type
+# Ketoprofen: Från inflammatorisk smärtbehandling till acromesomelic dysplasia (Hunter-Thompson-typ)
 
-## One-Sentence Summary
+## Sammanfattning
 
-Ketoprofen is a non-steroidal anti-inflammatory drug (NSAID) of the propionic acid class, widely used globally for the relief of pain and inflammation, though it holds no registered authorizations in Sweden.
-The TxGNN model predicts it may be effective for **Acromesomelic Dysplasia, Hunter-Thompson Type** — a rare genetic skeletal disorder — with a score of 99.98%.
-However, this prediction is supported by **no clinical trials and no published literature**, placing it at evidence level L5 (model output only), and the mechanistic rationale is critically weak.
+Ketoprofen är ett välkänt icke-steroidt antiinflammatoriskt läkemedel (NSAID) med beprövad effekt vid smärta och inflammatoriska tillstånd, men det är för närvarande **inte marknadsförd i Sverige** och saknar lokala godkännanden. TxGNN-modellen förutsäger att det kan vara effektivt mot **acromesomelic dysplasia av Hunter-Thompson-typ**, en sällsynt genetisk skelettmissbildning orsakad av *GDF5*-mutation. Evidensstödet för denna specifika förutsägelse är mycket begränsat – **0 kliniska prövningar** och **0 publikationer** stöder riktningen, och den mekanistiska kopplingen bedöms som svag.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
-|------|---------|
-| Original Indication | Not registered in Sweden (NSAID; commonly indicated for pain and inflammation) |
-| Predicted New Indication | Acromesomelic Dysplasia, Hunter-Thompson Type |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 |
-| Sweden Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available for Ketoprofen in this dataset. Based on established pharmacological knowledge, Ketoprofen is a non-selective COX-1 and COX-2 inhibitor. It reduces the synthesis of prostaglandins, thromboxanes, and prostacyclin, producing analgesic, anti-inflammatory, and antipyretic effects. NSAID-class drugs (including Ketoprofen, naproxen, and diclofenac) are recognized as first-line treatments for inflammatory arthropathies such as spondyloarthropathy.
-
-Acromesomelic dysplasia, Hunter-Thompson type, however, is a rare autosomal recessive skeletal dysplasia caused by loss-of-function mutations in the **CDMP1 (GDF5)** gene. This results in impaired BMP/GDF5 signalling during embryonic limb development, producing characteristic severe shortening of the middle and distal limb segments. It is a purely structural, genetically determined morphological disorder — there is no established inflammatory component in its pathophysiology that would serve as a pharmacological target for a COX inhibitor.
-
-**The mechanistic link between Ketoprofen's COX inhibition and this skeletal dysplasia is essentially absent.** No amount of prostaglandin suppression can correct a genetically encoded defect in bone morphogenesis. The TxGNN model's high prediction score most likely reflects non-specific associations between "skeletal disease" nodes in the biomedical knowledge graph rather than a true mechanistic relationship. This prediction should be treated as a probable false positive and should not advance to clinical investigation without compelling new mechanistic evidence.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Ej registrerat i Sverige; ketoprofen är internationellt etablerat som NSAID för smärta, feber och inflammation |
+| Förutsagd ny indikation | Acromesomelic dysplasia, Hunter-Thompson type |
+| TxGNN-förutsägelsepoäng | 99,98% |
+| Evidensnivå | L5 – Endast modellförutsägelse, inga faktiska studier |
+| Marknadsstatus i Sverige | Inte marknadsförd |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Clinical Trial Evidence
+## Varför är denna förutsägelse rimlig?
 
-Currently no related clinical trials registered.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta evidenspaket. Ketoprofen är ett NSAID som klassiskt verkar som COX-1/COX-2-hämmare och reducerar syntesen av prostaglandiner, vilket dämpar smärta, feber och inflammation. Läkemedlet är i Europa etablerat för inflammatorisk ledvärk och muskuloskeletala smärttillstånd, men saknar specifika godkännanden i Sverige.
 
----
+Acromesomelic dysplasia av Hunter-Thompson-typ orsakas av mutationer i *GDF5*-genen och leder till underutveckling av de distala delarna av extremiteterna. Sjukdomen är en rent genetisk strukturell skelettdefekt som uppstår under fosterstadiet och inte är medierad av prostaglandiner. Det finns ingen känd biologisk koppling mellan COX-hämning och korrigering av *GDF5*-relaterade skelettmissbildningar.
 
-## Literature Evidence
-
-Currently no related literature available.
+TxGNN-modellens höga poäng för denna indikation speglar troligen statistiska mönster i kunskapsgrafen snarare än en reell terapeutisk mekanism. Det bör noteras att bland de 10 förutsagda indikationerna är **spondyloartropi (rang 8)** det enda kandidatmålet med faktisk litteraturevidens (L4) och rekommendationen "Research Question". NSAID-klassen är förstahandsbehandling för spondyloartropi enligt ASAS/EULAR-riktlinjer, vilket gör den biologiska kopplingen avsevärt starkare för den indikationen.
 
 ---
 
-## Safety Considerations
+## Kliniska prövningar
 
-Please refer to the package insert for safety information.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Conclusion and Next Steps
+## Litteraturbevis
 
-**Decision: Hold**
+Ingen relaterad litteratur tillgänglig för närvarande.
 
-**Rationale:**
-Acromesomelic dysplasia, Hunter-Thompson type is a genetically determined structural disorder of skeletal development (CDMP1/GDF5 pathway) with no meaningful overlap with the COX-inhibition mechanism of Ketoprofen; the absence of any supporting clinical trials or literature, combined with a mechanistically implausible pathway, makes advancement unjustifiable at this stage.
+> **Notering:** För den lägre rankade indikationen *spondyloartropi (rang 8)* finns en relevant publikation: PMID [20470931](https://pubmed.ncbi.nlm.nih.gov/20470931/) (2010, Review/Case Series, *Annales de dermatologie et de venereologie*) om reaktiv artrit, som sannolikt behandlar NSAID som behandlingsalternativ. Denna indikation bedöms som L4 och "Research Question".
 
-**To proceed, the following is needed:**
+---
 
-- **Mechanistic re-evaluation:** Identify any theoretical link between COX/prostaglandin pathways and CDMP1/GDF5 BMP signalling before any further steps are considered
-- **MOA documentation:** Complete Ketoprofen MOA data should be retrieved from DrugBank API to support a full mechanistic assessment
-- **Safety data:** Package insert review (TFDA/EMA) required to populate key warnings and contraindications before any S1 safety evaluation can begin
-- **Knowledge graph audit:** Investigate why TxGNN assigns rank 68 to this indication — likely a "skeletal disease" cluster artefact that may require graph curation
-- **Alternative indication review:** Rank 8 (Spondyloarthropathy) represents a far more mechanistically plausible repurposing target for Ketoprofen and warrants a separate, prioritised evaluation
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- Evidensnivå L5 innebär att förutsägelsen uteslutande baseras på TxGNN-modellens beräkning utan stöd av kliniska prövningar eller litteratur. Den mekanistiska kopplingen till acromesomelic dysplasia är dessutom saknas helt – sjukdomen är en irreversibel genetisk skelettdefekt som inte kan påverkas av COX-hämning.
+
+**För att gå vidare krävs:**
+- Insamling av fullständig MOA-data och säkerhetsinformation från DrugBank (DG002) och produktresumé (DG001)
+- Utforskning av **spondyloartropi (rang 8)** som det mest lovande kandidatmålet, givet befintlig litteraturevidens och stöd i internationella riktlinjer
+- Kartläggning av ketoprofens befintliga europeiska marknadsföringstillstånd utanför Sverige för att fastställa godkända indikationer och säkerhetsprofil
+- Sökning av fas 2/3-prövningar för ketoprofen vid spondyloartropi eller relaterade inflammatoriska ledsjukdomar
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -2,7 +2,7 @@
 layout: default
 title: Sorbitol
 parent: 僅模型預測 (L5)
-nav_order: 118
+nav_order: 97
 evidence_level: L5
 indication_count: 1
 ---
@@ -10,12 +10,12 @@ indication_count: 1
 # Sorbitol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,78 +25,76 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-The `txgnn-pipeline` skill confirms this is within the TxGNN drug repurposing system. The report generation is governed by the system prompt instructions. Proceeding to generate the evaluation report from the Evidence Pack.
+Skapar utvärderingsrapporten baserat på Evidence Pack JSON för Sorbitol. Data pekar på L5-evidens utan mekanistisk koppling, vilket ger beslutet "Avvakta".
 
 ---
 
-# SORBITOL: From Osmotic Agent to Exercise-Induced Malignant Hyperthermia
+# Sorbitol: Från osmotisk laxans till träningsinducerad malign hypertermi
 
-## One-Sentence Summary
+## Sammanfattning
 
-Sorbitol is an osmotic sugar alcohol widely used as a laxative and pharmaceutical excipient, with no formal original indications registered in this dataset.
-The TxGNN model predicts it may be effective for **Exercise-Induced Malignant Hyperthermia (ExMH)**,
-however **no clinical trials** and **no publications** currently support this direction.
+Sorbitol är en osmotiskt aktiv sockeralkohol som traditionellt används som laxans och hjälpämne i läkemedelsberedningar. TxGNN-modellen förutsäger med en poäng på 99,4 % att det kan vara effektivt mot **träningsinducerad malign hypertermi**, men detta stöds varken av kliniska prövningar eller vetenskaplig litteratur. Förutsägelsen saknar biokemiskt mekanistiskt stöd och bedöms med stor sannolikhet vara en strukturell falsk positiv i kunskapsgrafen.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
-|------|---------|
-| Original Indication | No registered indication data available |
-| Predicted New Indication | Exercise-Induced Malignant Hyperthermia |
-| TxGNN Prediction Score | 99.40% |
-| Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available. Based on known pharmacology, Sorbitol is an osmotic sugar alcohol primarily acting on intestinal water osmosis and extracellular fluid tonicity regulation — it draws water into the intestinal lumen and modulates extracellular osmotic pressure.
-
-Exercise-Induced Malignant Hyperthermia (ExMH) is a rare, life-threatening condition driven by mutations in *RYR1* or *CACNA1S* genes, which cause uncontrolled Ca²⁺ release from the skeletal muscle sarcoplasmic reticulum (SR). This triggers a cascade of severe hypermetabolism, hyperthermia, and rhabdomyolysis. There is no established pharmacological connection between sorbitol's osmotic mechanism and this RYR1/CACNA1S-mediated pathway.
-
-While hyperosmotic solutions can theoretically modulate intracellular calcium signaling, this effect has never been experimentally demonstrated at the skeletal muscle SR Ca²⁺ channel level, and its direction and magnitude remain entirely unknown. The high TxGNN score (0.9940) most likely reflects **sparse node bias** in the knowledge graph: ExMH is an ultra-rare indication with heavily imbalanced positive/negative training samples, making the model prone to over-predicting osmotic agents for such diseases. This prediction should be interpreted with significant caution.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Ej registrerat som läkemedel i Sverige |
+| Förutsagd ny indikation | Träningsinducerad malign hypertermi |
+| TxGNN-förutsägelsepoäng | 99,4 % |
+| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
+| Marknadsstatus i Sverige | Inte marknadsförd |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Clinical Trial Evidence
+## Varför är denna förutsägelse rimlig?
 
-Currently no related clinical trials registered.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i datakällan. Baserat på känd farmakologi är sorbitol en sockeralkohol med osmotisk aktivitet: det drar vatten till tarmens lumen, ökar tarminnehållets volym och stimulerar tarmrörelser. Det används även som hjälpämne i läkemedelsberedningar och som sockerersättning vid diabetes.
 
----
+Träningsinducerad malign hypertermi är ett sällsynt, potentiellt livshotande tillstånd vars patofysiologi är centrerad kring mutationer i ryanodinreceptorn 1 (RyR1). Dessa mutationer leder till okontrollerad frisättning av kalcium (Ca²⁺) från skelettmuskelns sarkoplasmatiska retikulum, vilket utlöser kraftig muskelrigiditet, hypertermi och metabolisk kris. Tillståndet behandlas i dag primärt med dantrolen, som direkt blockerar RyR1-receptorn.
 
-## Literature Evidence
-
-Currently no related literature available.
+Det finns ingen biologiskt plausibel koppling mellan sorbitols osmotiska verkningsmekanism och den kalciumkanalstörning som driver malign hypertermi. TxGNN:s höga poäng (99,4 %) härrör sannolikt från indirekta nodhopp i kunskapsgrafen – en länk via begreppen "hypertermi/cellsvullnad → osmotisk reglering" – snarare än en verklig farmakologisk effekt. Förutsägelsen klassificeras som en strukturell falsk positiv och saknar biokemiskt stöd.
 
 ---
 
-## Safety Considerations
+## Kliniska prövningar
 
-Please refer to the package insert for safety information.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Conclusion and Next Steps
+## Litteraturbevis
 
-**Decision: Hold**
+Ingen relaterad litteratur tillgänglig för närvarande.
 
-**Rationale:**
-There is no clinical or preclinical evidence supporting sorbitol's use in exercise-induced malignant hyperthermia, and the mechanistic rationale is highly speculative. The high TxGNN score is most likely an artifact of sparse node bias in the knowledge graph rather than a genuine repurposing signal.
+---
 
-**To proceed, the following is needed:**
-- Preclinical studies investigating sorbitol's effect on skeletal muscle Ca²⁺ channel activity (RYR1/CACNA1S pathway)
-- Mechanism of action data from DrugBank to enable a pharmacological plausibility assessment
-- Evidence of any osmotic agent effects in hyperthermia or skeletal myopathy models
-- Review of TxGNN model calibration for ultra-rare diseases to quantify and correct sparse node bias before further action
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+Förutsägelsen är klassad som L5 (enbart modellförutsägelse) och saknar stöd från kliniska prövningar, observationsstudier eller litteratur. Den mekanistiska länken mellan sorbitols osmotiska verkan och träningsinducerad malign hypertermi saknar biokemisk grund och bedöms vara ett artefakt från TxGNN:s kunskapsgrafstruktur snarare än en genuint läkemedelsterapi.
+
+**För att gå vidare krävs:**
+- Identifiering av en biologiskt plausibel verkningsmekanism som kopplar sorbitol till RyR1-medierad kalciumdysreglering i skelettmuskel
+- Prekliniska in vitro- eller djurmodellstudier som påvisar effekt vid malign hypertermi
+- Minst en fallrapport eller explorativ klinisk observation som stödjer hypotesen
+- Inhämtning av fullständig produktinformation (SmPC) för säkerhets- och kontraindikationsbedömning
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

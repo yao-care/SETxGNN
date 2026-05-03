@@ -2,7 +2,7 @@
 layout: default
 title: Travoprost
 parent: 僅模型預測 (L5)
-nav_order: 126
+nav_order: 105
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Travoprost
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,79 +25,80 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-The txgnn-pipeline skill is for model training and deployment work — not directly applicable here. The task is to generate an evaluation report per the **Drug Repurposing Evaluation Report Prompt (v5)** system instructions. Proceeding with report generation now.
+---
+
+# Travoprost: Från glaukom till visceral kalcifylax
+
+## Sammanfattning
+
+Travoprost är en selektiv FP-receptoragonist (prostaglandinanalog) som används i ögondroppsform för att sänka det intraokulära trycket vid öppenvinkelglaukom och okulär hypertension. TxGNN-modellen förutsäger med mycket hög modellpoäng (99,9998%) att läkemedlet kan vara verksamt mot **visceral kalcifylax** – ett allvarligt vaskulärt tillstånd med kalkavlagringar i perifera kärl som orsakar vävnadsnekros. Denna förutsägelse saknar stöd av **kliniska prövningar eller publicerad litteratur** och klassificeras som **L5** (enbart modellförutsägelse).
 
 ---
 
-# Travoprost: From Open-Angle Glaucoma to Visceral Calciphylaxis
+## Snabböversikt
 
-## One-Sentence Summary
-
-Travoprost is a synthetic prostaglandin F2α (PGF2α) analogue and FP receptor agonist, internationally established as an ophthalmic solution for open-angle glaucoma and ocular hypertension, though it carries no current Taiwan regulatory registration.
-The TxGNN model predicts it may be effective for **Visceral Calciphylaxis**, with **0 clinical trials** and **0 publications** currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
+| Post | Innehåll |
 |------|---------|
-| Original Indication | Open-angle glaucoma / Ocular hypertension (no Taiwan registration) |
-| Predicted New Indication | Visceral Calciphylaxis |
-| TxGNN Prediction Score | 99.9998% |
-| Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Ursprunglig indikation | Öppenvinkelglaukom och okulär hypertension (ej registrerat i Sverige) |
+| Förutsagd ny indikation | Visceral kalcifylax (visceral calciphylaxis) |
+| TxGNN-förutsägelsepoäng | 99,9998% (rang 3 av samtliga förutsägelser) |
+| Evidensnivå | L5 – enbart modellförutsägelse, inga faktiska studier |
+| Marknadsstatus i Sverige | Inte registrerat |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Varför är denna förutsägelse rimlig?
 
-Currently, detailed mechanism of action data is not available from this Evidence Pack. Based on known pharmacological information, travoprost is a PGF2α analogue that acts as an FP receptor agonist. Its primary clinical use in glaucoma relies on enhanced uveoscleral aqueous outflow to reduce intraocular pressure. As a prostaglandin, travoprost also exerts vasodilatory activity on vascular smooth muscle — an effect clinically observed as conjunctival hyperemia and directly measured in at least one trial (NCT00308945), which quantified its impact on retinal vascular diameter and choroidal blood flow.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i underlaget. Baserat på känd information är Travoprost en prostaglandinanalog som verkar via FP-receptorn (prostaglandin F₂α-receptorn). Dess effekt vid glaukom och okulär hypertension – sänkning av det intraokulära trycket via ökat uveoskleral utflöde och direkt kärlpåverkan i ögat – är väl dokumenterad i ett flertal kliniska fas 3-prövningar. Läkemedlet uppvisar även direkta kärlvidgande effekter på retinala blodkärl och den korioidala cirkulationen, vilket bekräftats i en klinisk prövning (NCT00308945) med kärlparametrar som primärt utfall.
 
-Visceral calciphylaxis is a rare, life-threatening condition defined by calcification and thrombotic occlusion of small blood vessels in visceral organs, leading to progressive tissue ischemia and necrosis. The theoretical mechanistic link proposed by TxGNN rests on the idea that prostaglandin-mediated vasodilation might improve local ischemia resulting from microvascular occlusion. However, calciphylaxis is fundamentally a disease of pathological vascular calcification — a structural and metabolic problem — and there is no established mechanism by which FP receptor agonism dissolves calcium deposits, reduces calcification load, or reverses established thrombotic occlusion.
+Visceral kalcifylax är ett livshotande tillstånd där kalkavlagringar i perifera och viscerala kärl orsakar progressiv ischemi och nekros. Det drabbar primärt patienter med kronisk njursjukdom och rubbad kalcium-fosforbalans. Den hypotetiska kopplingen till travoprost bygger på att FP-receptorstimulering kan inducera kärlvidgning, vilket i teorin skulle kunna motverka ischemi i drabbade mikrokärl.
 
-The TxGNN model's near-perfect prediction score most likely reflects knowledge graph proximity between prostaglandin/vascular biology nodes and calcification/ischemic vascular disease nodes — an indirect, graph-inference-driven association rather than a direct mechanistic pathway. In the absence of any supporting clinical or preclinical evidence, this prediction must be classified as purely hypothesis-generating and does not warrant clinical exploration at this stage.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for visceral calciphylaxis.
+Kopplingen bedöms dock ha ytterst svag biologisk sannolikhet av tre skäl: (1) det finns inga publicerade studier om FP-receptoruttryck eller -funktion i systemiskt kalcifierade kärl; (2) travoprost som ögondroppar ger minimal systemisk absorption (plasmapeak <2 ng/mL) – långt under vad som krävs för systemiska kärleffekter; (3) det saknas helt pre-kliniska eller kliniska studier som undersöker denna koppling. Det höga TxGNN-poänget med noll stödjande evidens tyder på ett typfall av strukturell grannanhet i kunskapsgrafen – kalkifylaxens kärlnoder ligger nära prostaglandinernas kärlnoder i KG-strukturen – snarare än en biologiskt välmotiverad koppling.
 
 ---
 
-## Literature Evidence
+## Kliniska prövningar
 
-Currently no related literature available for visceral calciphylaxis.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Conclusion and Next Steps
+## Litteraturbevis
 
-**Decision: Hold**
+Ingen relaterad litteratur tillgänglig för närvarande.
 
-**Rationale:**
-This prediction sits at Evidence Level L5 — supported solely by the TxGNN knowledge graph model with zero clinical trials, zero publications, and no established mechanistic pathway linking travoprost to visceral calciphylaxis. Travoprost is additionally not registered in Taiwan, and core safety data (warnings, contraindications, DDI) could not be retrieved, precluding even a basic safety screening (Decision Stage S0).
+---
 
-**To proceed, the following is needed:**
-- Detailed mechanism of action data (FP receptor biology in the context of vascular calcification and ischemia)
-- Preclinical studies (in vitro or animal model) evaluating prostaglandin F2α effects on vascular calcification or calciphylaxis pathology
-- Route of administration feasibility assessment (ophthalmic topical → systemic exposure is extremely limited; a new delivery route would be required for visceral disease)
-- Taiwan TFDA package insert review to extract warnings and contraindications
-- Drug-drug interaction database query to complete safety screening
-- Consideration of whether any prostaglandin E-series analogues (which have more established peripheral vascular evidence) might be a more plausible class for this hypothesis
+## Marknadsinformation Sverige
+
+Travoprost är **inte registrerat i Sverige**. Det finns inga godkännanden att redovisa.
+
+---
+
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- Förutsägelsen baseras enbart på TxGNN:s kunskapsgrafsanalys utan vare sig kliniska prövningar eller litteraturstöd för visceral kalcifylax (evidensnivå L5). Den biologiska sannolikheten är låg: travoprost saknar meningsfull systemisk biotillgänglighet i ögondroppsform och det finns ingen etablerad farmakologisk länk via FP-receptorn till systemisk kärlkalkifiering.
+
+**För att gå vidare krävs:**
+- Preklinisk validering: kartläggning av FP-receptoruttryck och -funktion i kalcifierade perifera kärl (in vitro/djurmodeller)
+- Utredning av alternativa administreringsvägar som kan ge systemiska terapeutiska koncentrationer
+- Riktad litteratursökning om prostaglandiners roll i kärlkalkifiering och kalcifylaxpatofysiologi
+- Inhämtning av fullständig produktresumé (SPC) och MOA-dokumentation innan vidare klinisk bedömning kan göras
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

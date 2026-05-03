@@ -2,7 +2,7 @@
 layout: default
 title: Naproxen
 parent: 僅模型預測 (L5)
-nav_order: 98
+nav_order: 77
 evidence_level: L5
 indication_count: 4
 ---
@@ -10,12 +10,12 @@ indication_count: 4
 # Naproxen
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,72 +25,76 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# Naproxen: Drug Repurposing Evaluation — Insufficient Data to Generate Prediction
-
-## One-Sentence Summary
-
-Naproxen (DrugBank: DB00788) is a widely recognized analgesic and anti-inflammatory agent with no current Taiwan regulatory registration.
-No TxGNN drug repurposing predictions were generated for this candidate, and mechanism of action data was not retrieved from the data pipeline.
-A complete repurposing assessment cannot be produced at this time; this report documents the current data status and required remediation steps.
+Texten nedan är den fullständiga utvärderingsrapporten baserad på Evidence Pack-JSON:t.
 
 ---
 
-## Quick Overview
+# Naproxen: Från smärt- och inflammationsbehandling till brachydactyly-syndactyly syndrome
 
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in current dataset |
-| Predicted New Indication | No predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — Prediction pipeline output not available |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+## Sammanfattning
+
+Naproxen är ett välkänt icke-steroidalt antiinflammatoriskt läkemedel (NSAID) som kliniskt används för behandling av smärta, inflammation och feber. TxGNN-modellen förutsäger att det kan vara effektivt mot **brachydactyly-syndactyly syndrome** – ett sällsynt medfött missbildningssyndrom som påverkar finger- och tåutvecklingen. Det saknas dock helt stödjande evidens: **inga kliniska prövningar** och **inga publikationer** identifierades, vilket placerar förutsägelsen på lägsta evidensnivå (L5).
 
 ---
 
-## Why No Prediction Is Available
+## Snabböversikt
 
-The TxGNN prediction pipeline returned an empty result set for Naproxen. This can occur for several reasons:
-
-1. **Knowledge graph coverage**: Naproxen may not be included in the current version of the TxGNN knowledge graph, or its drug node may be missing required feature embeddings.
-2. **Original indication data missing**: The `original_indications` field is empty, which removes the anchor concept used by the model to reason about mechanistic similarity.
-3. **MOA data gap**: Without mechanism of action data, the model cannot generate high-confidence predictions based on target pathway overlap.
-
-Until these upstream data gaps are resolved, no prediction-driven repurposing evaluation can be completed.
-
----
-
-## Taiwan Market Information
-
-Naproxen has no approved drug registrations in Taiwan. No license records were returned from the TFDA query.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Ej specificerad i tillgängliga regulatoriska data |
+| Förutsagd ny indikation | Brachydactyly-syndactyly syndrome |
+| TxGNN-förutsägelsepoäng | 99,35 % |
+| Evidensnivå | L5 – Enbart modellförutsägelse |
+| Marknadsstatus i Sverige | Ej marknadsförd |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Safety Considerations
+## Varför är denna förutsägelse rimlig?
 
-Please refer to the package insert for safety information.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i Evidence Pack. Baserat på känd farmakologisk information är Naproxen ett NSAID som hämmar cyklooxygenas (COX-1 och COX-2), vilket minskar prostaglandinsyntesen och därigenom dämpar smärta och inflammation.
+
+Brachydactyly-syndactyly syndrome är ett sällsynt medfött syndrom som kännetecknas av förkortade fingrar (brachydaktyly) i kombination med sammanvuxna fingrar (syndaktyly). Tillståndet orsakas av mutationer i gener som *HOXD* och *GJA1*, vilka reglerar embryonal extremitetsutveckling. Det handlar alltså om en strukturell embryonal defekt, inte en inflammatorisk sjukdom.
+
+Det saknas kända mekanistiska kopplingar mellan COX-hämning och genetiska utvecklingsdefekter av detta slag. TxGNN:s förutsägelse baseras sannolikt på grafnärhet i kunskapsgrafen – d.v.s. att Naproxen och sjukdomen råkar dela gemensamma grannar i grafen – snarare än en biologiskt förankrad mekanism. Förutsägelsen bedöms som potentiellt falsk positiv.
 
 ---
 
-## Conclusion and Next Steps
+## Kliniska prövningar
 
-**Decision: Hold**
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
-**Rationale:**
-The prediction pipeline produced no output for Naproxen, and all three required data layers — original indications, mechanism of action, and TxGNN predictions — are currently missing. There is no evidence base on which to proceed with a repurposing recommendation.
+---
 
-**To proceed, the following is needed:**
+## Litteraturbevis
 
-- **[Blocking]** Retrieve Taiwan package insert (TFDA 仿單) to obtain approved indications, key warnings, and contraindications — download PDF from TFDA official website and parse
-- **[High]** Query DrugBank API for mechanism of action (MOA), pharmacological class, and target data for DB00788
-- **[Required]** Re-run the TxGNN prediction pipeline after populating missing drug node features
-- **[Required]** Confirm whether Naproxen is included in the current knowledge graph version; if absent, add drug node with appropriate feature embeddings
-- **[Optional]** Cross-reference with international registrations (FDA, EMA) to obtain original approved indication text as a fallback data source
+Ingen relaterad litteratur tillgänglig för närvarande.
+
+---
+
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+Samtliga fyra förutsagda indikationer (brachydactyly-syndactyly syndrome, colobomatous microphthalmia-rhizomelic dysplasia syndrome, acromesomelic dysplasia Hunter-Thompson type och brachyolmia-amelogenesis imperfecta syndrome) klassificeras som L5 – enbart modellförutsägelse utan något som helst kliniskt eller literaturmässigt stöd. Den mekanistiska länken mellan Naproxens COX-hämning och dessa genetiskt betingade skelett- och utvecklingsdefekter bedöms som mycket svag, och förutsägelserna är sannolikt artefakter från kunskapsgrafsstrukturen.
+
+**För att gå vidare krävs:**
+- Komplettering av Naproxens säkerhetsprofil via produktresumé och DrugBank (nuvarande data saknas helt)
+- Litteratursökning i specialiserade databaser för sällsynta sjukdomar (Orphanet, OMIM, GeneReviews) för att utesluta icke-indexerad evidens
+- Mekanistisk analys av om prostaglandinvägen har dokumenterade kopplingar till *HOXD*-, *GJA1*- eller *GDF5*-signalering i embryonal benutveckling
+- Expertgranskning av genetiker och/eller specialist på sällsynta skelettsjukdomar innan eventuell vidare utredning motiveras
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

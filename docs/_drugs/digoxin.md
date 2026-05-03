@@ -2,7 +2,7 @@
 layout: default
 title: Digoxin
 parent: 僅模型預測 (L5)
-nav_order: 49
+nav_order: 37
 evidence_level: L5
 indication_count: 6
 ---
@@ -10,12 +10,12 @@ indication_count: 6
 # Digoxin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,80 +25,86 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# DIGOXIN: Drug Repurposing Candidate — Awaiting Prediction Data
+Utmärkt – txgnn-pipeline-skillet är inläst och bekräftar att detta är ett Se (Sverige) TxGNN-projekt. Systemprompten innehåller den fullständiga rapportmallen (v5). Jag genererar nu rapporten direkt.
 
-## One-Sentence Summary
+---
 
-Digoxin (DrugBank: DB00390) is a well-known cardiac glycoside historically used for heart failure and atrial fibrillation. Currently, the TxGNN model has **no predicted new indications** for this drug, and critical data gaps in mechanism of action and safety information must be resolved before evaluation can proceed.
+# Digoxin: Från hjärtsvikt och förmaksflimmer till Prinzmetal-angina
 
-## Quick Overview
+## Sammanfattning
 
-| Item | Content |
-|------|------|
-| Drug Name (INN) | DIGOXIN |
-| DrugBank ID | [DB00390](https://go.drugbank.com/drugs/DB00390) |
-| Original Indication | Not available in current dataset (no TFDA licenses found) |
-| Predicted New Indication | **None** — No TxGNN predictions available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | **L5** (No model predictions, no supporting studies) |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Digoxin är ett välkänt kardioglykosid som traditionellt används för behandling av hjärtsvikt och förmaksflimmer. TxGNN-modellen förutsäger att det kan vara verksamt mot **Prinzmetal-angina** (variantangina orsakad av koronarkärlsspasm), men de mekanistiska sambanden pekar i motsatt riktning – Digoxins effekt på vaskulär glatt muskulatur kan snarare **förvärra** koronarkärlsspasmer än lindra dem. Evidensbasen är mycket begränsad, med **inga registrerade kliniska prövningar** och **2 publikationer** som för närvarande berör detta område.
 
-## Why is This Prediction Reasonable?
+---
 
-Currently, no TxGNN prediction has been generated for Digoxin. Without a predicted indication, a mechanistic plausibility assessment cannot be performed.
+## Snabböversikt
 
-> Detailed mechanism of action (MOA) data is not available in this Evidence Pack. Digoxin is widely recognized as a cardiac glycoside that inhibits the Na⁺/K⁺-ATPase pump, leading to increased intracellular calcium and enhanced cardiac contractility. Its conventional indications include heart failure with reduced ejection fraction and rate control in atrial fibrillation/flutter. However, this MOA data was not supplied through the current pipeline and represents a **High-severity data gap (DG002)**.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Hjärtsvikt och förmaksflimmer (kardioglykosid) |
+| Förutsagd ny indikation | Prinzmetal-angina (variantangina) |
+| TxGNN-förutsägelsepoäng | 99,81% |
+| Evidensnivå | L4 – Prekliniska/mekanismstudier |
+| Marknadsstatus i Sverige | Ej registrerad |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
-Until the TxGNN model produces candidate indications and the MOA data gap is resolved, no mechanistic bridging analysis can be conducted.
+---
 
-## Clinical Trial Evidence
+## Varför är denna förutsägelse rimlig?
 
-Currently no predicted indication exists, therefore no related clinical trials can be assessed.
+Detaljerad verkningsmekanismdata saknas i detta evidenspaket. Baserat på känd farmakologi är Digoxin ett kardioglykosid vars primära verkningsmekanism är hämning av Na⁺/K⁺-ATPas-pumpen i hjärtmuskeln. Detta höjer den intracellulära kalciumkoncentrationen och förstärker myokardiets kontraktionskraft (positiv inotrop effekt). Läkemedlet har dessutom vagotona egenskaper som bromsar AV-nodal överledning och sänker hjärtfrekvensen, vilket motiverar dess användning vid förmaksflimmer.
 
-## Literature Evidence
+Sambandet mellan Digoxins ursprungliga indikation och Prinzmetal-angina är dock mekanistiskt problematiskt. Prinzmetal-angina orsakas av transitoriska koronarkärlsspasmer i epikardiella kärl, och standardbehandlingen utgörs av kalciumkanalblockerare och nitrater – medel som **relaxerar** vaskulär glatt muskulatur. Digoxins hämning av Na⁺/K⁺-ATPas i kärlväggens glatta muskelceller kan paradoxalt nog **inducera** koronarkärlskontraktion genom depolarisering, vilket direkt motverkar det terapeutiska målet.
 
-Currently no predicted indication exists, therefore no related literature can be assessed.
+TxGNN-förutsägelsen baseras sannolikt på sjukdomsnätverkets biologiska kopplingar (t.ex. delade kardiovaskulära noder) snarare än ett faktiskt terapeutiskt samband. Befintlig litteratur stödjer inte behandlingseffekt vid Prinzmetal-angina och signalerar tvärtom en potentiell riskökning. Förutsägelsen bör tolkas som en **varningssignal** snarare än ett återanvändningstips.
 
-## Taiwan Market Information
+---
 
-No TFDA marketing authorizations were found for Digoxin. The drug is listed as **not marketed (未上市)** in Taiwan based on the TFDA query conducted on 2026-03-29.
+## Kliniska prövningar
 
-> **Note:** Digoxin is widely available in many global markets. The absence from the TFDA database may warrant re-verification or consideration of alternative brand name searches.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
-## Safety Considerations
+---
 
-> Please refer to the package insert for safety information.
->
-> **Note:** The TFDA package insert query (2026-03-29) returned 1 result, but warnings and contraindications were not extracted into this Evidence Pack. This constitutes a **Blocking-severity data gap (DG001)** that must be resolved before safety evaluation can proceed.
+## Litteraturbevis
 
-## Data Gaps Summary
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|----|-----|-----------|--------------|
+| [10736610](https://pubmed.ncbi.nlm.nih.gov/10736610/) | 1999 | Översikt | Acta Physiologica et Pharmacologica Bulgarica | Granskar cirkadiska rytmers påverkan på antihypertensiv behandling; indirekt relevant för dygnsvariation av anginaattacker |
+| [9206110](https://pubmed.ncbi.nlm.nih.gov/9206110/) | 1996 | Översikt/Mekanistisk | Chinese Medical Sciences Journal | Omvärdering av mekanism och behandling vid angina decubitus hos 30 patienter; fann ökad myokardial syreförbrukning och hemodynamiska förändringar innan attackdebut |
 
-The following unresolved data gaps are blocking this evaluation:
+---
 
-| Gap ID | Category | Item | Severity | Impact | Remediation |
-|--------|----------|------|----------|--------|-------------|
-| DG001 | Drug Level | TFDA Package Insert Warnings/Contraindications | **Blocking** | Cannot enter S1 safety preliminary assessment | Download and parse package insert PDF from TFDA website |
-| DG002 | Drug Level | Mechanism of Action (MOA) | **High** | Affects mechanistic relevance analysis | Query DrugBank API |
+## Marknadsinformation Sverige
 
-## Conclusion and Next Steps
+Digoxin är för närvarande **inte registrerat i Sverige**. Det finns inga godkännanden att redovisa.
 
-**Decision: Hold**
+---
 
-**Rationale:**
-No TxGNN predicted indications are available for Digoxin, and two critical data gaps (safety information and MOA) remain unresolved. Without a target indication and baseline safety profile, this candidate cannot advance through the evaluation pipeline.
+## Säkerhetsaspekter
 
-**To proceed, the following is needed:**
-- Run TxGNN prediction pipeline for Digoxin (DB00390) to generate candidate new indications
-- Resolve **DG001**: Extract warnings and contraindications from the TFDA package insert PDF
-- Resolve **DG002**: Query DrugBank API for detailed mechanism of action data
-- Re-verify Taiwan market status — Digoxin is globally well-established; the zero-license finding may indicate a search limitation (e.g., brand name variants not queried)
-- Once predictions and safety data are available, re-generate this Evidence Pack and re-evaluate
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- TxGNN-förutsägelsen för Digoxin vid Prinzmetal-angina är mekanistiskt motsägelsefull: Digoxins hämning av vaskulärt Na⁺/K⁺-ATPas kan förvärra koronarkärlsspasmer snarare än lindra dem, och förutsägelsen bör inte drivas vidare utan grundlig mekanistisk verifiering.
+
+**För att gå vidare krävs:**
+- Komplettering av fullständiga säkerhetsdata: kontraindikationer, varningar och DDI-profil (särskilt relevant given Digoxins smala terapeutiska index)
+- Verifiering av officiell MOA-data via DrugBank API (DG002)
+- Inhämtning av produktresumé/SPC för att bedöma kardiovaskulära kontraindikationer (DG001)
+- Preklinisk kartläggning av Digoxins effekt på koronarkärlstonus *in vitro* eller i djurmodell
+- Kritisk granskning av om TxGNN-sambandet speglar ett biologiskt nätverksartefakt eller ett reellt omvänt riskförhållande (potentiell kontraindikation snarare än ny indikation)
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

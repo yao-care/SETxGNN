@@ -2,7 +2,7 @@
 layout: default
 title: Ciprofloxacin
 parent: 僅模型預測 (L5)
-nav_order: 38
+nav_order: 28
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Ciprofloxacin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,80 +25,82 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# Ciprofloxacin: Drug Repurposing Evaluation Report
+Använder **txgnn-pipeline** för rapportgenerering av läkemedelsåteranvändning. Jag analyserar nu Evidence Pack för Ciprofloxacin och sammanställer rapporten enligt v5-mallen.
 
-## One-Sentence Summary
+---
 
-Ciprofloxacin is a broad-spectrum fluoroquinolone antibiotic widely used to treat bacterial infections including urinary tract infections, respiratory infections, and gastrointestinal infections. The TxGNN model has **not yet generated any predicted new indications** for this drug, and the evidence pack contains significant data gaps that must be resolved before evaluation can proceed.
+# Ciprofloxacin: Från bakterieinfektioner till diffus sklerodermi
 
-## Quick Overview
+## Sammanfattning
 
-| Item | Content |
-|------|------|
-| Drug Name (INN) | Ciprofloxacin |
-| DrugBank ID | DB00537 |
-| Original Indication | Not recorded in this evidence pack (known use: bacterial infections) |
-| Predicted New Indication | — (No TxGNN prediction available) |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 (No prediction or supporting studies available) |
-| Taiwan Market Status | ✗ Not marketed (per TFDA query) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Ciprofloxacin är ett bredspektrumantibiotikum av fluorokinolonklassen som primärt används för behandling av bakterieinfektioner genom hämning av bakteriell DNA-replikation. TxGNN-modellen förutsäger att det kan vara effektivt mot **diffus sklerodermi** – en allvarlig autoimmun bindvävssjukdom med progressiv hudfibros och visceralt organengagemang. Evidensen stöds i nuläget av **inga registrerade kliniska prövningar** och **2 publikationer**, vilket placerar förutsägelsen på L4-nivå.
 
-## Why is This Prediction Reasonable?
+---
 
-Currently, **no TxGNN prediction has been generated** for Ciprofloxacin, so a mechanistic plausibility assessment cannot be performed.
+## Snabböversikt
 
-For context, Ciprofloxacin is a second-generation fluoroquinolone antibiotic. It works by inhibiting bacterial DNA gyrase (topoisomerase II) and topoisomerase IV, which are essential enzymes for bacterial DNA replication, transcription, repair, and recombination. This mechanism of action is well-established in antimicrobial pharmacology, but the detailed MOA data was not included in the current evidence pack.
+| Post | Innehåll |
+|------|---------|
+| Ursprunglig indikation | Bakterieinfektioner (fluorokinolonantibiotikum) |
+| Förutsagd ny indikation | Diffus sklerodermi |
+| TxGNN-förutsägelsepoäng | 99,87% |
+| Evidensnivå | L4 – Begränsad klinisk data / mekanistisk hypotes |
+| Marknadsstatus i Sverige | Ej marknadsförd |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
-Before any repurposing evaluation can proceed, TxGNN predictions must first be generated for this compound, and the mechanism of action data gap must be filled via DrugBank API query.
+---
 
-## Clinical Trial Evidence
+## Varför är denna förutsägelse rimlig?
 
-Currently no predicted indication is available; therefore, no clinical trial search has been conducted for a repurposing direction.
+Ciprofloxacin verkar primärt bakteriedödande genom att hämma enzymen DNA-gyras (GyrA/GyrB) och topoisomeras IV (ParC/ParE) i bakterieceller, vilket stör bakteriell DNA-replikation och -reparation. Läkemedlet har lågt MIC-värde mot gramnegativa patogener, god oral biotillgänglighet (~70%) och bred vävnadspenetration.
 
-## Literature Evidence
+Sambandet med diffus sklerodermi bygger på en **dubbel mekanismhypotes**. Den första är en möjlig **antifibrotisk effekt**: Ciprofloxacin kan potentiellt hämma MMP (matrismetalloproteinaser) samt TGF-β-nedströms signalvägar, vilket i teorin motverkar den karaktäristiska dermala fibrosen som driver sjukdomsförloppet vid sklerodermi. Den andra mekanismen är **tarminfektionskontroll**: patienter med systemisk skleros drabbas frekvent av SIBO (small intestinal bacterial overgrowth) som ett visceralengagemang, och Ciprofloxacin är ett välestablerat förstahandsalternativ vid SIBO – indirekt kan det lindra de gastrointestinala komplikationerna av sjukdomen.
 
-Currently no predicted indication is available; therefore, no literature search has been conducted for a repurposing direction.
+Det är viktigt att understryka att den antifibrotiska mekanismen fortfarande är hypotetisk. Det finns ett enstaka dubbelblint pilot-RCT som specifikt undersökt oral Ciprofloxacin vid sklerodermi (Enríquez-Casillas et al., 2010), men evidensbasen är alltjämt begränsad. Ytterligare mekanistisk konfirmering och storskaliga kliniska studier krävs.
 
-## Taiwan Market Information
+---
 
-Ciprofloxacin has **0 active authorizations** recorded in the TFDA database per the query conducted on 2026-03-29. No license details are available to display.
+## Kliniska prövningar
 
-> **Note:** Ciprofloxacin is a globally well-established antibiotic (WHO Essential Medicines List). The absence of TFDA records in this evidence pack may reflect a query scope limitation rather than true absence from the Taiwan market. This should be verified.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
-## Safety Considerations
+---
 
-No safety data (warnings, contraindications, or drug-drug interactions) was retrieved in the current evidence pack. The DDI query returned no results.
+## Litteraturbevis
 
-> Please refer to the package insert for safety information. Ciprofloxacin is known to carry fluoroquinolone-class warnings including tendon rupture, peripheral neuropathy, CNS effects, and QT prolongation — these should be confirmed via the TFDA package insert.
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|-----|------|-----------|-------------|
+| [20507401](https://pubmed.ncbi.nlm.nih.gov/20507401/) | 2010 | Pilot-RCT | The Journal of Dermatology | Kontrollerad dubbelblind randomiserad pilotstudie som undersökte om oral Ciprofloxacin minskar svårighetsgraden vid sklerodermi – utvärderade antifibrotisk effekt i huden hos patienter med autoimmun bindvävssjukdom |
+| [7728404](https://pubmed.ncbi.nlm.nih.gov/7728404/) | 1995 | Diagnostisk/klinisk studie | British Journal of Rheumatology | Utredning av SIBO hos 24 patienter med systemisk skleros via jejunal aspiration; 20 patienter fick antibiotisk behandling – ger stöd för Ciprofloxacins roll vid tarmkomplikationer hos sklerodermi-patienter |
 
-## Data Gaps Requiring Resolution
+---
 
-| Gap ID | Item | Severity | Impact | Remediation |
-|--------|------|----------|--------|-------------|
-| DG001 | TFDA Package Insert Warnings/Contraindications | **Blocking** | Cannot enter S1 safety preliminary assessment | Download and parse package insert PDF from TFDA website |
-| DG002 | Mechanism of Action (MOA) | High | Affects mechanism-relevance analysis | Query DrugBank API |
-| — | TxGNN Predicted Indications | **Blocking** | No repurposing candidate to evaluate | Run TxGNN prediction pipeline for DB00537 |
-| — | Original Indication Data | Medium | Cannot establish baseline for comparison | Populate from DrugBank or TFDA records |
+## Säkerhetsaspekter
 
-## Conclusion and Next Steps
+Se produktresumén för säkerhetsinformation.
 
-**Decision: Hold**
+> ⚠️ **Kritisk säkerhetssignal från Evidence Pack:** FDA utfärdade 2016 ett obligatoriskt svart-ruta-varning för fluorokinoloner – inklusive Ciprofloxacin – avseende risk för **irreversibel perifer neuropati** (FQAD – Fluoroquinolone-Associated Disability). Eftersom patienter med diffus sklerodermi redan kan ha neuropatiska komplikationer som del av sjukdomsbilden, utgör detta en särskilt viktig säkerhetsaspekt som måste utredas noggrant vid eventuell vidare utvärdering.
 
-**Rationale:**
-This evidence pack is at a very early stage — the TxGNN model has not yet generated any predicted indications for Ciprofloxacin, and critical data fields (MOA, safety warnings, contraindications) remain unfilled. Without a predicted indication, no repurposing evaluation can be meaningfully conducted.
+---
 
-**To proceed, the following is needed:**
-1. **Run TxGNN prediction** for Ciprofloxacin (DB00537) to generate candidate new indications
-2. **Resolve DG001 (Blocking):** Retrieve and parse TFDA package insert for warnings and contraindications
-3. **Resolve DG002:** Query DrugBank API to populate mechanism of action data
-4. **Verify Taiwan market status:** Cross-check TFDA database for existing Ciprofloxacin authorizations (the current 0-result may be a query limitation)
-5. **Re-generate evidence pack** once the above gaps are filled, then re-evaluate
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- Med enbart L4-evidens – ett enstaka pilot-RCT utan efterföljande konfirmering och en klinisk observationsstudie av SIBO-behandling – är evidensgrunden otillräcklig för att gå vidare till regulatorisk prövning. Den antifibrotiska mekanismen är biologiskt plausibel men inte styrkt i kontrollerade studier, och det kritiska säkerhetsproblemet med FQAD kräver särskild hänsyn för sklerodermi-populationen.
+
+**För att gå vidare krävs:**
+- Fullständig genomgång av pilotstudiens (PMID 20507401) primära utfall, effektstorlek och statistisk signifikans
+- Prekliniska studier som direkt konfirmerar Ciprofloxacins MMP- och TGF-β-hämmande effekter i dermalt fibroskontext
+- Inhämtning av fullständig produktresumé (SPC) med fokus på kontraindikationer, varningar och svart-ruta-data för FQAD
+- Riskstratifiering för perifer neuropati specifikt för målpopulationen (sklerodermi-patienter)
+- Registrering och genomförande av en prospektiv fas 2-studie dedikerad till diffus sklerodermi med fördefinierade effektmått
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

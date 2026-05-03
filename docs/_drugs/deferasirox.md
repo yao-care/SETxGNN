@@ -2,7 +2,7 @@
 layout: default
 title: Deferasirox
 parent: 僅模型預測 (L5)
-nav_order: 44
+nav_order: 32
 evidence_level: L5
 indication_count: 5
 ---
@@ -10,12 +10,12 @@ indication_count: 5
 # Deferasirox
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,117 +25,85 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# Deferasirox: Drug Repurposing Evaluation Report
-
-## One-Sentence Summary
-
-Deferasirox is an oral iron chelator primarily used for the treatment of chronic iron overload caused by repeated blood transfusions (transfusional hemosiderosis). The TxGNN model **did not generate any predicted new indications** for this drug, and there are **significant data gaps** in mechanism of action, safety, and regulatory information that prevent further evaluation at this time.
+Analyserar Evidence Pack för Deferasirox och genererar rapport enligt mallen...
 
 ---
 
-## Quick Overview
+# Deferasirox: Från järnöverbelastning till HIV-infektion
 
-| Item | Content |
-|------|------|
-| Drug Name | Deferasirox |
-| DrugBank ID | DB01609 |
-| Original Indication | Chronic iron overload (transfusion-dependent) |
-| Predicted New Indication | — (No TxGNN prediction available) |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 (No prediction, no supporting studies) |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+## Sammanfattning
+
+Deferasirox är ett oralt järnchelatmedel som primärt används för behandling av kronisk järnöverbelastning till följd av blodtransfusioner. TxGNN-modellen förutsäger att det kan vara verksamt mot **HIV-infektion**, med **0 kliniska prövningar** och **2 publikationer** som för närvarande belyser detta samband. Mekanistisk koppling till järnhomeostas och HIV-replikation föreligger, men effektriktningen är tvetydig – vilket motiverar en avvaktande hållning inför vidare klinisk utvärdering.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Snabböversikt
 
-### No Prediction Was Generated
-
-The TxGNN model did not produce any predicted new indications for Deferasirox in this evaluation cycle. This may be due to one or more of the following factors:
-
-1. **Insufficient knowledge graph connectivity** — Deferasirox's primary role as an iron chelator may result in limited edges connecting it to disease nodes beyond its established indications in the TxGNN knowledge graph.
-2. **Narrow pharmacological profile** — Iron chelation is a highly specific mechanism. Unlike multi-target kinase inhibitors or immunomodulators, chelators typically have fewer plausible off-target therapeutic effects, which may limit the model's ability to identify repurposing candidates.
-
-### Background on Deferasirox
-
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological knowledge, Deferasirox is a tridentate iron chelator that selectively binds ferric iron (Fe³⁺) with high affinity, forming a soluble complex that is excreted primarily through the faeces. It is marketed globally under the brand names **Exjade** (dispersible tablet) and **Jadenu** (film-coated tablet) for the treatment of chronic iron overload in patients receiving long-term blood transfusions, such as those with thalassemia major, sickle cell disease, or myelodysplastic syndromes.
-
-Despite the absence of a TxGNN prediction, it is worth noting that iron chelation has been investigated in other contexts (e.g., neuroprotection, antimicrobial activity, anti-proliferative effects in certain cancers). Future iterations of the model with enriched data may yield candidate indications.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Ej registrerad i Sverige; deferasirox är internationellt etablerat som järnchelatmedel vid kronisk transfusionsrelaterad järnöverbelastning |
+| Förutsagd ny indikation | HIV infectious disease |
+| TxGNN-förutsägelsepoäng | 99,40 % |
+| Evidensnivå | L4 – prekliniska studier / mekanismstudier |
+| Marknadsstatus i Sverige | Inte marknadsförd |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Clinical Trial Evidence
+## Varför är denna förutsägelse rimlig?
 
-No TxGNN-predicted indication was generated; therefore, no targeted clinical trial search was performed for a new indication.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta Evidence Pack. Baserat på känd vetenskaplig information är deferasirox en tridentat järnchelatbildare (Fe³⁺-chelator) som bildar stabila komplex med järnjoner och utsöndras via tarmen. Läkemedlets effekt vid kronisk järnöverbelastning är väl dokumenterad i internationell litteratur och klinisk praxis.
 
-> Currently no related clinical trials registered for a repurposed indication.
+Kopplingen till HIV bygger på järnhomeostasens roll i viral replikation. En grundforskningsstudie (PMID 34550543) visade att järn i endolysosomer påverkar HIV-1 Tat-proteinets oligomerisering och därigenom reglerar LTR-transaktivering – ett centralt steg i HIV-replikationscykeln. Hypotesen är att deferasirox, genom att sänka den intracellulära järnhalten, kan störa Tat-proteinets funktion och bromsa virusreplikation. Dessutom kan järnöverbelastning i sig gynna HIV-replikation och försvaga immunförsvaret, vilket i teorin gör järnchelation till en rationell kompletterande strategi.
 
----
-
-## Literature Evidence
-
-No TxGNN-predicted indication was generated; therefore, no targeted literature search was performed for a new indication.
-
-> Currently no related literature available for a repurposed indication.
+Dock föreligger en mekanistisk osäkerhet: om reduktion av endolysosomal järn förhindrar Tat-oligomerisering, kan det paradoxalt *öka* HIV-1-transkription snarare än att hämma den. Dessa motstridiga effektvägar gör att klinisk nettoeffekt ännu inte kan fastslås utan dedikerade prövningar.
 
 ---
 
-## Taiwan Market Information
+## Kliniska prövningar
 
-Deferasirox currently holds **no active marketing authorizations** (藥證) in Taiwan.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|------|------|------|------|
-| — | — | — | — |
-
-> No TFDA licenses found. Deferasirox is not currently marketed in Taiwan (未上市).
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Safety Considerations
+## Litteraturbevis
 
-> Please refer to the package insert for safety information.
-
-Safety data (key warnings, contraindications, and drug–drug interactions) were not available in this Evidence Pack. Key safety considerations known from global labelling include:
-
-- **Renal toxicity**: Deferasirox can cause acute renal failure; serum creatinine monitoring is essential.
-- **Hepatotoxicity**: Hepatic failure, including fatal cases, has been reported.
-- **GI haemorrhage**: Upper GI ulceration and haemorrhage have been observed, particularly in elderly patients.
-- **Cytopenias**: Agranulocytosis, neutropenia, and thrombocytopenia have been reported.
-
-*Note: The above is based on general pharmacological knowledge and global labelling. A formal safety evaluation requires TFDA-approved package insert data, which is identified as a blocking data gap (DG001).*
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|----|-----|-----------|--------------|
+| [34550543](https://pubmed.ncbi.nlm.nih.gov/34550543/) | 2021 | Grundforskning (cell/molekylär) | Journal of Neurovirology | Endolysosomal järn ökar HIV-1 Tat-oligomerisering och hämmar LTR-transaktivering; järnchelation kan modulera detta system, men effektriktningen – hämmande eller stimulerande för HIV-transkription – är ännu oklar |
+| [16529348](https://pubmed.ncbi.nlm.nih.gov/16529348/) | 2006 | Läkemedelsöversikt (ny läkemedelsintroduktion) | Journal of the American Pharmacists Association | Introduktionsöversikt av deferasirox som nytt godkänt läkemedel; ingen specifik HIV-data presenteras |
 
 ---
 
-## Data Gaps
+## Marknadsinformation Sverige
 
-The following critical data gaps were identified and must be resolved before any repurposing evaluation can proceed:
-
-| Gap ID | Category | Item | Severity | Impact | Remediation |
-|--------|----------|------|----------|--------|-------------|
-| DG001 | Drug Level | TFDA Package Insert Warnings / Contraindications | **Blocking** | Cannot enter S1 safety screening | Download and parse package insert PDF from TFDA website |
-| DG002 | Drug Level | Mechanism of Action (MOA) | High | Affects mechanism–indication relevance analysis | Query DrugBank API |
+Deferasirox är inte registrerat eller marknadsförd i Sverige. Det finns inga beviljade godkännanden i det granskade registret.
 
 ---
 
-## Conclusion and Next Steps
+## Säkerhetsaspekter
 
-**Decision: Hold**
+Se produktresumén för säkerhetsinformation.
 
-**Rationale:**
-The TxGNN model did not generate any predicted new indications for Deferasirox. Combined with the absence of Taiwan market authorization and multiple blocking data gaps (safety labelling, MOA), there is currently no actionable repurposing signal to evaluate.
+---
 
-**To proceed, the following is needed:**
-- Obtain TxGNN prediction results — verify whether Deferasirox was included in the prediction input and re-run if necessary with updated knowledge graph data
-- Resolve **DG001** (Blocking): Acquire TFDA package insert or equivalent regulatory safety data
-- Resolve **DG002** (High): Retrieve detailed MOA from DrugBank API to enable future mechanism–disease linkage analysis
-- Monitor emerging research on iron chelation in oncology, neurodegeneration, and infectious disease for potential manual candidate identification
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- Evidensnivån är L4 (enbart prekliniska/mekanismbaserade data) och den mekanistiska kopplingen till HIV-infektion är tvetydig – järnchelation med deferasirox kan antingen hämma eller, paradoxalt nog, stimulera HIV-1-replikation beroende på vilken cellulär järnpool som berörs. Utan kliniska prövningsdata kan en gynnsam nettoeffekt inte fastställas.
+
+**För att gå vidare krävs:**
+- Klarläggning av deferasirox nettopåverkan på HIV-1-replikation i validerade cell- och djurmodeller
+- Mekanistisk avgränsning av om endolysosomal järnchelation ökar eller minskar viral transkription (Tat-oligomerisering vs. intracellulär järnbrist)
+- Säkerhetsprofil och produktresumé inhämtas (kontraindikationer, läkemedelsinteraktioner) inför klinisk planering
+- Pilot-RCT eller prospektiv observationsstudie hos HIV-positiva patienter med dokumenterad järnöverbelastning som primärt underlag för beslut om fullskalig prövning
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

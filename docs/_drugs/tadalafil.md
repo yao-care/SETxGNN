@@ -2,7 +2,7 @@
 layout: default
 title: Tadalafil
 parent: 僅模型預測 (L5)
-nav_order: 122
+nav_order: 101
 evidence_level: L5
 indication_count: 8
 ---
@@ -10,12 +10,12 @@ indication_count: 8
 # Tadalafil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,88 +25,82 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-以下是根據 Evidence Pack 產生的評估報告：
+---
+
+# Tadalafil: Från erektil dysfunktion till Ambras typ hypertrikosis universalis congenita
 
 ---
 
-# Tadalafil: From Erectile Dysfunction to Ambras Syndrome Hypertrichosis
+## Sammanfattning
 
-## One-Sentence Summary
-
-Tadalafil is a selective phosphodiesterase type 5 (PDE5) inhibitor approved globally for erectile dysfunction, pulmonary arterial hypertension, and benign prostatic hyperplasia, though no Taiwan TFDA registration was found in this dataset.
-The TxGNN model ranks **Ambras type hypertrichosis universalis congenita** as its top new indication with a prediction score of **99.98%**,
-however **no clinical trials and no supporting literature** exist for this direction, placing evidence entirely at **Level L5 (model prediction only)**.
+Tadalafil är en selektiv PDE5-hämmare (fosfodiesteras typ 5) som globalt godkänts för erektil dysfunktion, benign prostatahyperplasi och pulmonell arteriell hypertension, men som saknar registrering i Sverige. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **Ambras typ hypertrikosis universalis congenita** med en förutsägelsepoäng på **99,98%**. Det saknas dock helt kliniska prövningar och publicerad litteratur för denna indikation, och den mekanistiska analysen tyder på att modellens förutsägelse troligen grundas på ett omvänt kausalsamband – PDE5-hämmare är kända för att orsaka ökad hårtillväxt som biverkning, inte att behandla hypertrikosis.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
-|------|---------|
-| Original Indication | Erectile Dysfunction / Pulmonary Arterial Hypertension (globally approved; Taiwan TFDA registration not found in dataset) |
-| Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed (0 registrations found) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Detailed mechanism of action data is not available in this Evidence Pack. Based on established pharmacology, tadalafil is a selective inhibitor of phosphodiesterase type 5 (PDE5), the enzyme that degrades cyclic guanosine monophosphate (cGMP). By inhibiting PDE5, tadalafil raises intracellular cGMP levels, inducing smooth muscle relaxation and vasodilation — the basis for its approved efficacy in erectile dysfunction, pulmonary arterial hypertension (PAH), and benign prostatic hyperplasia.
-
-Ambras type hypertrichosis universalis congenita is an extremely rare genetic disorder caused by mutations in the **TRPS1 gene** (chromosome 8q), resulting in dense hair growth across the entire body from birth. This is a structural genetic defect that lies entirely outside the PDE5/cGMP signaling pathway. While PDE5 inhibition can theoretically alter blood flow in hair follicle microenvironments, it cannot correct the underlying gene-level defect driving Ambras syndrome. The mechanistic rationale for this TxGNN prediction is therefore extremely weak, and the model's high confidence score likely reflects graph topology proximity rather than biological plausibility.
-
-It is worth highlighting that among all eight predicted indications in this pack, **kyphoscoliotic heart disease (rank 7)** stands out as the most mechanistically coherent candidate: spinal deformity causes restrictive lung disease, which secondarily drives pulmonary arterial hypertension — a condition directly and mechanistically addressable by tadalafil's approved PAH indication (Adcirca®). This prediction deserves separate evaluation priority even though it ranks lower in the TxGNN output.
+| Post | Innehåll |
+|------|------|
+| Ursprunglig indikation | Erektil dysfunktion, benign prostatahyperplasi, pulmonell arteriell hypertension (ej registrerat i Sverige) |
+| Förutsagd ny indikation | Ambras typ hypertrikosis universalis congenita |
+| TxGNN-förutsägelsepoäng | 99,98% |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Inte registrerat |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Clinical Trial Evidence
+## Varför är denna förutsägelse rimlig?
 
-Currently no related clinical trials registered.
+Tadalafil hämmar selektivt enzymet PDE5, som normalt bryter ned cGMP (cykliskt guanosinmonofosfat). Hämningen ökar cGMP-nivåerna i glatt muskulatur och kärlväggar via NO–cGMP-signalvägen, vilket leder till kärlvidgning. Denna mekanism ligger till grund för tadalafils godkända effekter vid erektil dysfunktion (avslappning av corpus cavernosum), pulmonell arteriell hypertension (sänkt lungkärlsmotstånd) och benign prostatahyperplasi (avslappning av prostata- och blåshalsmuskulatur).
 
----
+PDE5/cGMP-signalering har en potentiell roll i hårfollikelns tillväxtcykel via NO–cGMP-vägen i de dermala papillcellerna – denna koppling är sannolikt grunden för att TxGNN-modellen förutsäger en association med hårtillväxtsjukdomar. Ambras typ hypertrikosis universalis congenita orsakas dock av en mutation i **TRPS1-genen** (tricho-rhino-phalangeal syndrome type 1) och är en genetisk strukturell avvikelse utan känt samband med PDE5-reglering uppströms. Det saknas i dagsläget evidens för att tadalafil påverkar TRPS1-genens expression eller funktion.
 
-## Literature Evidence
-
-Currently no related literature available.
+> **⚠️ Viktig metodologisk varning:** Flera av de högst rankade indikationerna i detta Evidence Pack (rank 1–2: hypertrikosis, rank 6: trichomegaly, rank 8: migrän med hjärnstamsaura) är kända **biverkningar** av PDE5-hämmare – inte potentiella behandlingsindikationer. TxGNN-modellen verkar ha fångat dessa kausalsamband i kunskapsgrafen utan att korrekt skilja på riktningen (läkemedlet *orsakar* tillståndet kontra läkemedlet *behandlar* tillståndet). Den mekanistiskt mest välgrundade förutsägelsen i detta pack är **kyfoskoliotisk hjärtsjukdom (rank 7)**, som ofta kompliceras av sekundär pulmonell arteriell hypertension – en faktisk godkänd indikation för tadalafil.
 
 ---
 
-## Taiwan Market Information
+## Kliniska prövningar
 
-Taiwan FDA records returned **0 approved registrations** for tadalafil at the time of data collection (March 2026). This is an anomalous finding: tadalafil (Cialis®, Adcirca®) holds regulatory approval in the United States, European Union, Japan, and many other jurisdictions. This result likely reflects a query limitation or a registration filed under a brand name rather than the INN. **Direct verification with the Taiwan Food and Drug Administration is strongly recommended before drawing any market access conclusions.**
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> ⚠️ **Safety Signal Identified:** Among all eight predicted indications analyzed in this pack, one piece of retrieved literature — [PMID 17059442](https://pubmed.ncbi.nlm.nih.gov/17059442/) (Dinn & Wall, *Cephalalgia*, 2006) — is an **adverse event case report** describing tadalafil-associated migraine aura, not a therapeutic application. The mechanism is consistent with known pharmacology: PDE5 inhibition elevates cGMP, promotes cerebrovascular dilation, and may trigger cortical spreading depression (CSD) — the established neurophysiological basis of migraine aura. This finding indicates the predicted indication "migraine with brainstem aura" (rank 8) should be treated as a **contraindication signal**, not a repurposing opportunity.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Conclusion and Next Steps
+## Litteraturbevis
 
-**Decision: Hold**
+Ingen relaterad litteratur tillgänglig för närvarande.
 
-**Rationale:**
-The top TxGNN-predicted indication (Ambras type hypertrichosis universalis congenita) is a rare monogenic disorder with no mechanistic link to PDE5 inhibition and zero supporting clinical or preclinical evidence. All eight predicted indications are rated L5 with Hold recommendations, with the single exception of kyphoscoliotic heart disease (rank 7, L4), which has a mechanistically sound but currently unsubstantiated case. Additionally, the only retrieved literature across all indications is an adverse event report, not a treatment signal.
+---
 
-**To proceed, the following is needed:**
+## Marknadsinformation Sverige
 
-- **Resolve Taiwan registration data gap**: Query TFDA by brand name (Cialis®, Adcirca®) and verify market status; the 0-license result is inconsistent with tadalafil's global regulatory standing
-- **Retrieve MOA and safety data** (Data Gaps DG001 & DG002): Download TFDA package insert PDF for contraindications and warnings; query DrugBank API for complete mechanistic profile
-- **Prioritize kyphoscoliotic heart disease (rank 7) for a dedicated evidence search**: Conduct a focused PubMed/ClinicalTrials search combining tadalafil, PAH, and restrictive lung/kyphoscoliosis; this is the only predicted indication with a biologically credible path forward
-- **Do not pursue hair-disorder indications (ranks 1–3, 5–6)** without preclinical evidence: the entire hypertrichosis/trichomegaly/hair-shaft cluster lacks mechanistic grounding and should be deprioritized until cGMP-hair follicle axis studies emerge
-- **Flag rank 8 (migraine with brainstem aura) as a safety exclusion**: Tadalafil should be avoided in patients with migraine with aura history; document this as a prescribing caution in any future clinical planning
+Tadalafil saknar godkännande i Sverige. Inga licensuppgifter finns registrerade (total_licenses = 0).
+
+---
+
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- Evidensnivån är L5 – enbart modellförutsägelse utan stöd av kliniska prövningar eller litteratur. Den mekanistiska analysen pekar dessutom på att förutsägelsen sannolikt är en artefakt av omvänt kausalsamband i kunskapsgrafen: tadalafil *orsakar* hypertrikosis som biverkning via NO–cGMP-driven hårtillväxt, snarare än att vara en kandidat för behandling av tillståndet.
+
+**För att gå vidare krävs:**
+- Omprioritering av utvärderingen mot **rank 7 (kyfoskoliotisk hjärtsjukdom / PAH-koppling)**, som har starkare mekanistisk grund och ett direkt samband med tadalafils godkända indikation vid pulmonell arteriell hypertension
+- Verifiering av om PDE5/cGMP-signalering har någon dokumenterad roll uppströms i TRPS1-genreglering, innan rank 1 kan anses mekanistiskt motiverad
+- Inhämtning av fullständig SMPC-data (produktresumé) och säkerhetsinformation för Sverige
+- Genomförande av en systematisk kausalitetsgranskning av kunskapsgrafens kant-riktningar för samtliga hårtillväxtrelaterade förutsägelser i detta pack
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

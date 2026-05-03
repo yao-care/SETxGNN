@@ -10,12 +10,12 @@ indication_count: 10
 # Alprostadil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,79 +25,95 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# Alprostadil: Drug Repurposing Candidate — Awaiting Prediction Data
+---
 
-## One-Sentence Summary
+# Alprostadil: Från ductusberoende kongenitala hjärtmissbildningar till aortamissbildning
 
-Alprostadil (prostaglandin E1) is a vasodilator and platelet aggregation inhibitor identified in DrugBank (DB00770), but currently has no approved indications in Taiwan. The TxGNN model has **not yet generated predicted indications** for this compound, and critical data gaps in mechanism of action and safety information must be resolved before evaluation can proceed.
+## Sammanfattning
 
-## Quick Overview
+Alprostadil (prostaglandin E1, PGE1) är ett vasodilaterande läkemedel vars primära kliniska roll är att upprätthålla öppnandet av ductus arteriosus (PDA) hos nyfödda med ductusberoende kongenitala hjärtmissbildningar. TxGNN-modellen förutsäger att det kan vara effektivt vid **aortamissbildning** (aortic malformation), med **2 kliniska prövningar** och **20 publikationer** som för närvarande stöder denna riktning. Sambandet är mekanistiskt välgrundat – PGE1:s förmåga att hålla ductus öppet är en etablerad och livräddande bridgingterapi vid ductusberoende aortaanomalier såsom interrruptad aortabåge och allvarlig aortakoarktation.
 
-| Item | Content |
+---
+
+## Snabböversikt
+
+| Post | Innehåll |
 |------|------|
-| Drug Name (INN) | Alprostadil |
-| DrugBank ID | DB00770 |
-| Original Indication | No approved indication in Taiwan (0 licenses) |
-| Predicted New Indication | — (No TxGNN prediction available) |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 (No prediction or evidence available) |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Licenses | 0 |
-| Recommended Decision | **Hold** |
+| Ursprunglig indikation | Ductusberoende kongenitala hjärtdefekter (upprätthållande av PDA-patency) |
+| Förutsagd ny indikation | Aortamissbildning (aortic malformation) |
+| TxGNN-förutsägelsepoäng | 99,98% |
+| Evidensnivå | L3 – Observationsstudier, fallserier och systematiska översikter |
+| Marknadsstatus i Sverige | Ej godkänd / ej på marknaden |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Fortsätt med försiktighet |
 
-## Why is This Prediction Reasonable?
+---
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on known pharmacological information, Alprostadil is a synthetic form of prostaglandin E1 (PGE1), which acts as a potent vasodilator, inhibitor of platelet aggregation, and smooth muscle relaxant. Internationally, it has been used for conditions such as erectile dysfunction, maintenance of patent ductus arteriosus in neonates, and peripheral arterial occlusive disease.
+## Varför är denna förutsägelse rimlig?
 
-However, since the TxGNN model has not yet produced any predicted indications for Alprostadil, it is not possible to assess the mechanistic plausibility of a repurposing hypothesis at this time. The MOA data gap (DG002) must be resolved via DrugBank API query before any mechanism-based reasoning can be conducted.
+Alprostadil är den syntetiska analogin till endogent prostaglandin E1 och verkar via EP2- och EP4-receptorer på vaskulär glatt muskel. Receptoraktiveringen leder till ökat intracellullärt cAMP, relaxation av glatt muskel och – i neonatal kontext – bibehållen dilatation av ductus arteriosus. Denna mekanism är väldokumenterad och utgör grunden för läkemedlets kliniska användning sedan 1970-talet.
 
-Additionally, Alprostadil has no approved licenses in Taiwan, meaning there is no local regulatory precedent or clinical usage data to anchor a repurposing evaluation. This significantly limits the ability to assess feasibility within the Taiwanese healthcare context.
+Aortamissbildningar såsom interrruptad aortabåge (IAA), allvarlig aortakoarktation och hypoplastisk vänsterkammare tillhör kategorin ductusberoende systemcirkulationsdefekter. I dessa tillstånd är den systemiska cirkulationen kritiskt beroende av ett öppet PDA; spontan stängning av ductus leder omedelbart till cirkulatorisk kollaps och hotande organsvikt. Prostaglandin E1-infusion för att hålla ductus öppet är sedan decennier en standardbridgingterapi inför kirurgisk korrektion, och litteraturen (bl.a. Jonas 2015, PMID 26686446) beskriver hur "introduktionen av prostaglandin E1 i slutet av 1970-talet revolutionerade hanteringen av interrruptad aortabåge."
 
-## Clinical Trial Evidence
+Den förutsagda indikationen "aortamissbildning" sammanfaller direkt med denna etablerade kliniska praxis. TxGNN-modellens höga förutsägelsepoäng (99,98%) avspeglar ett robust biologiskt och kliniskt samband, och evidensbasen – bestående av retrospektiva kohorter, fallserier, prospektiva studier och en RCT – ger ett L3-stöd som motiverar klinisk uppföljning.
 
-Currently no related clinical trials registered — no predicted indication has been generated by TxGNN.
+---
 
-## Literature Evidence
+## Kliniska prövningar
 
-Currently no related literature available — no predicted indication has been generated by TxGNN.
+| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
+|---------|------|------|------|---------|
+| [NCT04054115](https://clinicaltrials.gov/study/NCT04054115) | Fas 1 | Avslutad i förtid | 10 | Utvärderade alprostadils akuta effekter på cerebralt och pulmonellt blodflöde efter bidirektionell cavopulmonell anastomos (BCPC) vid enpulmonell palliation. Prövningen avbröts i förtid (enrollment 10 av planerat antal); data är ofullständiga och inga effektslutsatser kan dras. Hög direkt relevans men otillräcklig datakvalitet. |
+| [NCT02042092](https://clinicaltrials.gov/study/NCT02042092) | Ej tillämplig | Genomförd | 39 | Jämförande bilddiagnostisk studie (färg-Doppler-ultraljud vs MR-angiografi) vid systemisk storkarl-vaskulit inkluderande aortapatienter. Ingen direkt testning av alprostadil; låg relevans för återanvändningsfrågan. |
 
-## Taiwan Market Information
+---
 
-Alprostadil currently holds **no licenses** from the Taiwan FDA (TFDA). The drug is classified as **not marketed** in Taiwan. No dosage forms or approved products are available locally.
+## Litteraturbevis
 
-## Safety Considerations
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|-----|------|------|---------|
+| [19080093](https://pubmed.ncbi.nlm.nih.gov/19080093/) | 2008 | Prospektiv RCT | Zhonghua yi xue za zhi | Alprostadil (Lipo-PGE1) minskade signifikant inflammationssvar och lungskada efter hjärt-lungbypass hos barn med kongenitala hjärtdefekter. Direkt evidens för skyddande perioperativa effekter av PGE1. |
+| [26686446](https://pubmed.ncbi.nlm.nih.gov/26686446/) | 2015 | Översiktsartikel | Seminars in Thoracic and Cardiovascular Surgery | PGE1 revolutionerade hanteringen av interrruptad aortabåge sedan 1970-talet. Engångskorrektion med direkt bågeanastomos efter adekvat PGE1-resuscitation är nu etablerad standardmetod. |
+| [25647388](https://pubmed.ncbi.nlm.nih.gov/25647388/) | 2014 | Översiktsartikel | Cardiology in the Young | Kritisk aortaklaffstenos hos nyfödda presenterar med kardiogen chock; preoperativ PGE1-behandling är central för att stabilisera systemisk perfusion och minska myokardiel syreförbrukning inför intervention. |
+| [27358171](https://pubmed.ncbi.nlm.nih.gov/27358171/) | 2016 | Mekanistisk översikt | Cardiovascular Drugs and Therapy | Beskriver prostanoid-cykliskt nukleotid-signalvägar; prostacyklin/PGE1 hämmar trombocytaggregation och medierar kärlvidgning via EP-receptorer – mekanistisk bakgrund för PGE1:s vaskulära effekter. |
+| [32184038](https://pubmed.ncbi.nlm.nih.gov/32184038/) | 2020 | Retrospektiv kohort | Asian Journal of Surgery | Staged kirurgisk reparation av interrruptad aortabåge (IAA); PGE1 användes rutinmässigt som preoperativ bridgingterapi och möjliggjorde stabil hemodynamik inför korrektion. |
+| [16368373](https://pubmed.ncbi.nlm.nih.gov/16368373/) | 2006 | Retrospektiv kohort | The Annals of Thoracic Surgery | Kritisk aortastenos hos nyfödda kräver akut intervention; PGE1-preoperativ stabilisering ingår i patientflödet. Hög mortalitet och morbiditet utan adekvat bridgingterapi. |
+| [6763200](https://pubmed.ncbi.nlm.nih.gov/6763200/) | 1982 | Fallserie / Retrospektiv | Pharmacotherapy | Alprostadil dilaterade ductus, ökade pulmonellt blodflöde och förbättrade oxygenering och systemisk perfusion hos nyfödda med kongenitala aortaanomalier. Grundläggande historisk referens. |
+| [6537955](https://pubmed.ncbi.nlm.nih.gov/6537955/) | 1984 | Fallserie | Journal of the American College of Cardiology | 17 nyfödda fick långvarig IV PGE1-infusion (genomsnitt 39 dagar, max 104); grupper inkluderade aortakoarktation. Demonstrerar genomförbarhet och relativ tolerabilitet av prolongerad PGE1-behandling. |
+| [7201134](https://pubmed.ncbi.nlm.nih.gov/7201134/) | 1982 | Fallserie | Pediatric Cardiology | PGE1-infusion hos 7 nyfödda med hypoplastisk vänsterkammare och aortaatresi; transient cirkulatorisk och metabol förbättring observerades hos 6 av 7. Tidigt stöd för PDA-opening vid allvarliga aortaanomalier. |
+| [31010402](https://pubmed.ncbi.nlm.nih.gov/31010402/) | 2020 | Fallrapport + litteraturöversikt | World Journal for Pediatric & Congenital Heart Surgery | PGE1-infusion stabiliserade en prematur nyfödd med allvarlig aortakoarktation och spontant stängd ductus; mekanismen inkluderar möjliga direkta vaskulära effekter utanför ductus, inte enbart PDA-dilatation. |
 
-> Please refer to the package insert for safety information.
->
-> Key safety data — including warnings, contraindications, and drug-drug interactions — could not be retrieved at data cutoff (2026-04-03). This represents a **Blocking** data gap (DG001) that must be resolved by downloading and parsing the package insert PDF from the TFDA website before any safety assessment can proceed.
+---
 
-## Data Gaps Summary
+## Marknadsinformation Sverige
 
-The following critical data gaps were identified and must be resolved before this candidate can advance:
+Alprostadil är **inte godkänt och inte marknadsfört i Sverige**. Det finns inga registrerade läkemedelsgodkännanden och ingen produktresumé (SmPC) tillgänglig via Läkemedelsverket.
 
-| Gap ID | Item | Severity | Impact | Remediation |
-|--------|------|----------|--------|-------------|
-| DG001 | TFDA Package Insert Warnings/Contraindications | **Blocking** | Cannot enter S1 safety screening | Download and parse package insert PDF from TFDA website |
-| DG002 | Mechanism of Action (MOA) | **High** | Affects mechanism-relevance analysis | Query DrugBank API |
-| — | TxGNN Predicted Indications | **Blocking** | No repurposing hypothesis to evaluate | Run TxGNN prediction pipeline for DB00770 |
+---
 
-## Conclusion and Next Steps
+## Säkerhetsaspekter
 
-**Decision: Hold**
+> Se produktresumén för säkerhetsinformation.
 
-**Rationale:**
-Alprostadil cannot be evaluated as a repurposing candidate at this time because the TxGNN model has not generated any predicted indications, and multiple blocking data gaps remain unresolved. Without a target indication, evidence level, safety profile, or local regulatory foothold, there is insufficient information to support any forward action.
+---
 
-**To proceed, the following is needed:**
-- Run the TxGNN prediction pipeline for Alprostadil (DB00770) to generate candidate indications
-- Resolve DG002: Query DrugBank API for detailed mechanism of action data
-- Resolve DG001: Obtain and parse the TFDA package insert for warnings and contraindications
-- Verify Taiwan market availability — if not marketed, assess feasibility of off-label or compassionate use pathways
-- Once predictions are available, collect clinical trial and literature evidence for the top-ranked indication
+## Slutsats och nästa steg
+
+**Beslut: Fortsätt med försiktighet**
+
+**Motivering:**
+TxGNN-förutsägelsen för alprostadil vid aortamissbildning stöds av ett väletablerat mekanistiskt samband och en publikationsbas på 20 studier inklusive 1 prospektiv RCT, men evidensen är primärt observationell och historisk (Tier 2–3) utan moderna randomiserade kontrollerade prövningar specifikt designade för denna indikation. Den kliniska prövningen NCT04054115 avbröts dessutom i förtid, vilket lämnar ett viktigt evidensgap.
+
+**För att gå vidare krävs:**
+- **Regulatorisk utredning**: Alprostadil saknar godkännande i Sverige; klargöring av möjlig licensierings- eller licensansökningsväg via Läkemedelsverket rekommenderas
+- **SmPC-inhämtning**: Fullständig produktresumé från EMA, FDA eller TFDA för säkerhets- och kontraindikationsdata
+- **MOA-komplettering**: Inhämtning av detaljerad verkningsmekanismdata via DrugBank API (DB00770)
+- **Systematisk review**: Genomförande av en strukturerad systematisk litteraturöversikt specifikt för alprostadil vid aortamissbildning för att konsolidera evidensbasen
+- **Klinisk prövning**: Initiera eller identifiera en prospektiv studie (Fas 2 eller registerstudie) för att generera kontrollerade effekt- och säkerhetsdata i den aktuella patientpopulationen
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

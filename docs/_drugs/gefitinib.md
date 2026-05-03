@@ -2,7 +2,7 @@
 layout: default
 title: Gefitinib
 parent: 僅模型預測 (L5)
-nav_order: 65
+nav_order: 53
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Gefitinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,94 +25,88 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-The txgnn-pipeline skill confirms this is a standard TxGNN repurposing report task. Now generating the full report from the Evidence Pack.
+Skill kontrollerad – `txgnn-pipeline` gäller pipeline-hantering och träning, ej rapportgenerering. Rapportinstruktionerna är fullt specificerade i systempromptens v5. Jag genererar nu rapporten direkt baserat på Evidence Pack.
 
 ---
 
-# Gefitinib: From Non-Small Cell Lung Cancer to Fibromatosis, Gingival
+# Gefitinib: Från icke-småcellig lungcancer till gingival fibromatos
 
-## One-Sentence Summary
+## Sammanfattning
 
-Gefitinib (Iressa®) is a first-generation EGFR tyrosine kinase inhibitor, clinically established for the treatment of EGFR-mutation-positive non-small cell lung cancer (NSCLC).
-The TxGNN model predicts it may be effective for **Fibromatosis, Gingival**,
-with **no clinical trials** and **no published literature** currently supporting this direction.
-At an L5 evidence level, this prediction rests entirely on computational modeling and carries insufficient support for clinical progression at this stage.
+Gefitinib (Iressa®) är en selektiv EGFR-tyrosinkinashämmare som är godkänd på flera marknader globalt för behandling av EGFR-mutationspositiv icke-småcellig lungcancer (NSCLC), men är ej registrerad i Sverige. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **gingival fibromatos**, med en förutsägelsepoäng på **99,89 %** – dock saknas helt stödjande kliniska prövningar och publicerad litteratur för just denna indikation, vilket begränsar denna förutsägelse till evidensnivå L5.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
-|------|---------|
-| Original Indication | Non-small cell lung cancer (EGFR-mutation positive) |
-| Predicted New Indication | Fibromatosis, Gingival |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Detailed mechanism of action data is not available in this Evidence Pack. Based on contextual information within the accompanying literature, Gefitinib is a selective inhibitor of the EGFR (epidermal growth factor receptor) tyrosine kinase domain. It competitively blocks the ATP-binding site of EGFR and suppresses downstream signaling cascades — including RAS/MAPK and PI3K/AKT — that govern cell proliferation, survival, and angiogenesis. It was the first EGFR TKI approved globally for NSCLC patients harboring sensitizing mutations in exons 19 and 21.
-
-Gingival fibromatosis is a rare condition involving diffuse, benign overgrowth of gingival connective tissue driven by excessive fibroblast proliferation and collagen deposition. Because EGFR signaling participates in fibroblast activation in general, there is a theoretical basis for the idea that EGFR inhibition might slow this overgrowth. This is the probable mechanistic pathway the TxGNN knowledge graph is exploiting to generate this prediction.
-
-However, the primary etiological drivers of gingival fibromatosis are either germline mutations (SOS1, RASA1) or drug-induced overgrowth caused by phenytoin, cyclosporin, or nifedipine — none of which involves EGFR as a central or rate-limiting pathway. The mechanistic link is therefore indirect at best. The very high prediction score (99.89%) most likely reflects a network proximity artifact in the knowledge graph rather than a direct biological connection, and should be treated as a hypothesis-generating signal only.
+| Post | Innehåll |
+|------|------|
+| Ursprunglig indikation | EGFR-mutationspositiv icke-småcellig lungcancer (NSCLC) – godkänd på flera internationella marknader, ej registrerad i Sverige |
+| Förutsagd ny indikation | Gingival fibromatos (fibromatosis, gingival) |
+| TxGNN-förutsägelsepoäng | 99,89 % |
+| Evidensnivå | L5 – Endast modellförutsägelse, inga faktiska studier |
+| Marknadsstatus i Sverige | Ej registrerad |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Clinical Trial Evidence
+## Varför är denna förutsägelse rimlig?
 
-Currently no related clinical trials registered.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta evidenspaket. Baserat på känd information är gefitinib en selektiv hämmare av EGFR-tyrosinkinaset (epidermal tillväxtfaktorreceptor), som blockerar nedströms signalkaskader involverade i cellproliferation, apoptos och angiogenes. Läkemedlets kliniska effekt vid EGFR-mutationspositiv NSCLC är väldokumenterad i internationell litteratur och klinisk praxis, där exon 19-deletioner och L858R-punktmutationer utgör de primära prediktiva biomarkörerna.
 
----
+Den teoretiska kopplingen till gingival fibromatos utgår från att EGFR-signalering deltar i regleringen av fibroblastproliferation i bindväv. I teorin skulle EGFR-hämning kunna dämpa den fibroblastöverproliferation som är karaktäristisk för sjukdomen. Emellertid är gingival fibromatos primärt orsakad av mutationer i gener som *SOS1* och *REST* – EGFR utgör inte den huvudsakliga patogena drivkraften i denna sjukdomsmekanism.
 
-## Literature Evidence
-
-Currently no related literature available.
+TxGNN:s höga poäng (0,9989) härrör sannolikt från topologisk grannskap i kunskapsgrafen mellan noder för fibrös vävnadsökning och EGFR-signalering, snarare än en direkt terapeutisk effektförutsägelse. Det saknas helt preklinisk och klinisk validering för denna indikation, varför förutsägelsen i nuläget inte har ett tillräckligt mekanistiskt eller empiriskt stöd för att motivera vidare klinisk utvärdering.
 
 ---
 
-## Cytotoxicity
+## Kliniska prövningar
 
-Gefitinib is an antineoplastic agent (EGFR-targeted therapy for NSCLC).
-
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — First-generation EGFR tyrosine kinase inhibitor (4-anilinoquinazoline class) |
-| Myelosuppression Risk | Low — EGFR TKIs are not associated with significant bone marrow suppression; this is distinct from conventional cytotoxics |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Liver function tests (ALT/AST/bilirubin), pulmonary symptoms (interstitial lung disease/pneumonitis — reported in post-marketing data), QTc interval (hERG channel blockade and QT prolongation documented), skin reactions (acneiform rash, paronychia, xerosis — occurring in >50% of patients) |
-| Handling Protection | Standard cytotoxic drug handling precautions apply per institutional guidelines |
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Safety Considerations
+## Litteraturbevis
 
-Please refer to the package insert for safety information.
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
-## Conclusion and Next Steps
+## Cytotoxicitet
 
-**Decision: Hold**
+| Post | Innehåll |
+|------|------|
+| Cytotoxicitetsklassificering | Målriktad terapi – EGFR-tyrosinkinashämmare (TKI); ej konventionellt cytotoxisk |
+| Myelosuppressionsrisk | Låg – EGFR-TKI:er ger sällan kliniskt signifikant benmärgssuppression jämfört med konventionell kemoterapi |
+| Emetogenicitetsklassificering | Låg – oralt administrerat läkemedel med låg emetogen potential enligt MASCC/ESMO-klassificering |
+| Övervakningspunkter | Leverfunktion (ASAT, ALAT, bilirubin); lungfunktion (risk för interstitiell lungsjukdom/pneumonit); hudtoxicitet (akneiform exantem, paronyki, xeros); EKG-övervakning (QTc-förlängning) |
+| Hanteringsskydd | Se produktresumén för varningar och försiktighetsåtgärder |
 
-**Rationale:**
-There is no clinical trial, observational study, or published literature directly linking gefitinib to gingival fibromatosis, and the mechanistic rationale is weak — EGFR is not a primary driver of this condition. A TxGNN score of 99.89% alone, at L5 evidence, is insufficient to justify further development investment.
+---
 
-**To proceed, the following is needed:**
-- Preclinical experiments (in vitro fibroblast proliferation assays, and ideally an in vivo gingival fibromatosis model) evaluating the effect of EGFR inhibition
-- Mechanistic evidence confirming that EGFR pathway activity is upregulated and functionally relevant in gingival fibromatosis tissue
-- Formal MOA documentation retrieved from DrugBank API (to address DG002)
-- TFDA package insert safety data — warnings and contraindications (to address DG001)
-- Review of known EGFR inhibitor dermatological and mucosal toxicity profiles to assess whether gefitinib's known side effects (acneiform rash, mucosal changes) could confound or worsen gingival tissue in this patient population
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- Evidensnivån är L5 – förutsägelsen baseras uteslutande på TxGNN-modellens topologiska analys av kunskapsgrafen och saknar helt stöd från kliniska prövningar eller publicerad litteratur. EGFR är dessutom inte den primära patogena drivkraften vid gingival fibromatos, vilket allvarligt begränsar den biologiska rimligheten i denna förutsägelse.
+
+**För att gå vidare krävs:**
+- Prekliniska studier (in vitro/in vivo) som kartlägger EGFR-expressionsnivåer och signalvägsinblandning i gingival fibromatos-vävnad
+- Molekylär validering av om EGFR-hämning påverkar de primära patogena drivarna (*SOS1*/*REST*-mutationer)
+- Fullständig säkerhetsdata inklusive varningar, kontraindikationer och läkemedelsinteraktioner (hämta TFDA-produktresumé från TFDA officiella webbplats)
+- Verifiering av detaljerad verkningsmekanismdata via DrugBank API (DB00317)
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

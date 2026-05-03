@@ -2,7 +2,7 @@
 layout: default
 title: Levodopa
 parent: 僅模型預測 (L5)
-nav_order: 78
+nav_order: 65
 evidence_level: L5
 indication_count: 1
 ---
@@ -10,12 +10,12 @@ indication_count: 1
 # Levodopa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,63 +25,85 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# Levodopa: Evaluation Pending – No Predicted Indication Data Available
-
-## One-Sentence Summary
-
-Levodopa (DB01235) is a well-established dopaminergic precursor widely recognized in the management of Parkinson's disease and related movement disorders. However, this Evidence Pack contains no TxGNN prediction output — the `predicted_indications` array is empty — meaning no new indication has been identified for evaluation. A full repurposing assessment cannot be completed until critical data gaps are resolved.
+Jag genererar nu rapporten baserat på Evidence Pack JSON.
 
 ---
 
-## Quick Overview
+# LEVODOPA: Från Parkinsons sjukdom till Rasmussens encefalit
 
-| Item | Content |
-|------|---------|
-| Original Indication | Not specified in current Evidence Pack |
-| Predicted New Indication | Not available |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | L5 – No actual studies; prediction data absent |
-| Taiwan Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+## Sammanfattning
+
+Levodopa är en välkänd dopaminprekursor som sedan decennier används primärt för behandling av Parkinsons sjukdom och relaterade rörelsestörningar. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **Rasmussens subakuta encefalit**, med en förutsägelsepoäng på **99,1%**. Det saknas dock helt **kliniska prövningar** och **publicerad litteratur** som specifikt stödjer denna riktning, vilket innebär att förutsägelsen för närvarande enbart baseras på modellens grafmönster.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Snabböversikt
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack (Data Gap DG002), and no TxGNN-predicted indications have been returned. Without these two inputs, it is not possible to establish a mechanistic bridge between an original indication and any candidate new indication.
-
-Levodopa is broadly understood to act as a dopamine precursor that crosses the blood–brain barrier, addressing dopaminergic deficits in the central nervous system. This profile has historically attracted interest across multiple neurological and movement disorder contexts. However, any claim of mechanistic applicability to a repurposed indication must be grounded in the specific prediction output and its supporting evidence — neither of which is present here.
-
-Before a repurposing rationale can be constructed, the `predicted_indications` array must be populated from the TxGNN model run, and the MOA data gap must be resolved via DrugBank API query.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> Both key warnings (DG001) and contraindications are currently unavailable. DG001 is classified as **Blocking** severity, which prevents entry into the standard safety pre-screening (S1) stage. Remediation requires downloading and parsing the TFDA package insert PDF.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Parkinsons sjukdom och relaterade rörelsestörningar |
+| Förutsagd ny indikation | Rasmussens subakuta encefalit |
+| TxGNN-förutsägelsepoäng | 99,1% |
+| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
+| Marknadsstatus i Sverige | Inte på marknaden (inga registrerade godkännanden i systemet) |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Conclusion and Next Steps
+## Varför är denna förutsägelse rimlig?
 
-**Decision: Hold**
+Levodopa är en aminosyraprekursor till dopamin. Till skillnad från dopamin kan levodopa passera blod-hjärnbarriären, där det omvandlas till dopamin av enzymet DOPA-dekarboxylas. Dopamin utövar sina biologiska effekter via D1- och D2-receptorer som inte bara uttrycks på neuroner, utan även på immunceller – inklusive T-lymfocyter och mikroglia.
 
-**Rationale:**
-This Evidence Pack has two blocking or high-severity data gaps — no predicted indications from TxGNN, no mechanism of action, and no safety warnings — making it impossible to conduct a meaningful repurposing evaluation at this time.
+Den teoretiska mekanistiska länken till Rasmussens encefalit (RE) bygger på att dopamin i CNS-miljö kan modulera immunsystemet: via D1/D2-receptorsignalering kan dopamin i teorin dämpa mikrogliaaktivering och minska inflödet av cytotoxiska T-celler i hjärnvävnaden. Dessa processer är centrala i RE:s patofysiologi, som kännetecknas av CD8⁺ T-cells-medierad neuronal destruktion och autoantikroppar mot glutamatreceptorer (anti-GluR3).
 
-**To proceed, the following is needed:**
+Det finns dock ett kritiskt mekanistiskt glapp som starkt begränsar plausibiliteten: dopaminerga signalvägar är **inte** etablerade terapeutiska mål vid RE, och det saknas helt djurmodellstudier, in vitro-data eller kliniska fallrapporter som kopplar levodopa till RE. Förutsägelsen bör betraktas som en tidig, spekulativ hypotes genererad av modellens grafbaserade mönsterigenkänning.
 
-- **TxGNN prediction run**: The `predicted_indications` array is empty; the model must be executed and output ingested before any indication-level analysis can begin
-- **Mechanism of action (DG002 – High)**: Query DrugBank API for DB01235 to retrieve pharmacological class, targets, and MOA description
-- **TFDA package insert safety data (DG001 – Blocking)**: Download and parse the TFDA PDF to extract contraindications, key warnings, and special population restrictions before proceeding to safety screening
-- **Drug interaction data**: DDI query returned no results; a secondary source (e.g., DrugBank interactions endpoint) should be queried once MOA is confirmed
+---
+
+## Kliniska prövningar
+
+Inga relaterade kliniska prövningar registrerade för närvarande.
+
+---
+
+## Litteraturbevis
+
+Ingen relaterad litteratur tillgänglig för närvarande.
+
+---
+
+## Marknadsinformation Sverige
+
+Inga registrerade läkemedelsgodkännanden återfanns för LEVODOPA i Sverige.
+
+> **Notering:** Levodopa är ett väletablerat läkemedel med lång klinisk historia globalt. Att inga godkännanden hittades kan bero på ofullständig datainsamling. Manuell verifiering rekommenderas via Läkemedelsverkets officiella produktdatabas (MPA).
+
+---
+
+## Säkerhetsaspekter
+
+Se produktresumén (SmPC) för fullständig säkerhetsinformation, inklusive varningar, kontraindikationer och interaktioner.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- Trots en hög TxGNN-poäng (99,1%) stöds förutsägelsen av **noll** kliniska prövningar och **noll** publicerade studier. Evidensnivån är L5, och den mekanistiska plausibiliteten bedöms som **låg** – dopaminerga signalvägar är inte kända terapeutiska mål vid Rasmussens encefalit.
+
+**För att gå vidare krävs:**
+- Litteraturgenomgång av dopaminreceptorers roll vid autoimmun encefalit och neuroinflammation
+- Sökning efter prekliniska data: finns djurmodeller för RE där dopaminerga interventioner testats?
+- Dialog med kliniska experter på RE för bedömning av mekanistisk rimlighet
+- Inhämtning av fullständig produktresumé (SmPC) för levodopa för säkerhetsbedömning
+- Verifiering av marknadsstatus i Sverige via Läkemedelsverkets officiella produktdatabas
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

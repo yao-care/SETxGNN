@@ -2,7 +2,7 @@
 layout: default
 title: Mitomycin
 parent: 僅模型預測 (L5)
-nav_order: 95
+nav_order: 74
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Mitomycin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,99 +25,94 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# Mitomycin: Insufficient Evidence Pack — No Repurposing Predictions Generated
+---
 
-## One-Sentence Summary
+# Mitomycin: Från solida tumörer till osteoclastisk jättecellstumör i pankreas
 
-Mitomycin is a known antineoplastic antibiotic, though its original indications were not captured in this Evidence Pack.
-The TxGNN model **did not generate any repurposing predictions** for this drug in the current pipeline run.
-This report reflects a critically incomplete Evidence Pack with **multiple blocking data gaps** that must be remediated before evaluation can proceed.
+## Sammanfattning
+
+Mitomycin är ett bioreduktivt cytotoxiskt antibiotikum som historiskt använts mot flera solida tumörtyper – bland annat som komponent i FAM- och SMF-kombinationsregimer vid exokrin pankreascancer och gastroesofageala cancrar. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **osteoclastisk jättecellstumör i pankreas**, en extremt sällsynt tumörform med mesenkymalt dominerat stroma och osteoclastliknande jätteceller. Förutsägelsen bygger uteslutande på modellberäkning – det finns för närvarande **inga registrerade kliniska prövningar** och **inga direkta publikationer** som stöder denna specifika indikation.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
+| Post | Innehåll |
 |------|---------|
-| Original Indication | Not documented in this Evidence Pack |
-| Predicted New Indication | No TxGNN predictions available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — No predictions generated; no supporting studies retrieved |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Ursprunglig indikation | Ej registrerad i Sverige (ingen godkänd indikationstext tillgänglig) |
+| Förutsagd ny indikation | Osteoclastisk jättecellstumör i pankreas |
+| TxGNN-förutsägelsepoäng | 99,86% |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Ej registrerad |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Varför är denna förutsägelse rimlig?
 
-Since no TxGNN repurposing predictions were generated for Mitomycin in this Evidence Pack, a mechanistic rationale for any new indication cannot be constructed at this stage.
+Mitomycin C aktiveras bioreduktivt av cellulära enzymer – framför allt under hypoxa förhållanden – till reaktiva kinalmetidintermediärer. Dessa bildar intra- och interstrandiga korsläkningar i DNA som blockerar replikation och transkription och slutligen utlöser apoptos i snabbt delande celler. Pankreas tumörmikromiljö är karakteristiskt syrefattig, vilket teoretiskt förstärker Mitomycins selektiva aktivering i tumörvävnaden jämfört med frisk omgivande vävnad.
 
-Mechanism of action data is listed as a critical data gap (DG002, severity: High). Without MOA information, it is not possible to assess pharmacological plausibility or establish a connection between the original indication and any candidate new indication.
+Osteoclastisk jättecellstumör i pankreas (OGC-pancreas) är emellertid biologiskt distinkt från vanlig pankreasadenocarcinom (PDAC). Tumören domineras av osteoclastliknande reaktiva jätteceller med mesenkymalt ursprung och saknar ofta de typiska PDAC-drivmutationerna KRAS och SMAD4. Det är oklart om Mitomycins DNA-skademekanistik är lika effektiv mot denna mesenkymala komponent som mot klassiska epiteliala cancerceller; den cellulära biologi som styr aktivering och känslighet kan skilja sig avsevärt.
 
-To unlock this analysis, three prerequisites must be met: original indications must be documented from DrugBank or the TFDA package insert; MOA data must be retrieved via the DrugBank API; and the TxGNN prediction pipeline must be re-executed after data remediation.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered in this Evidence Pack.
+TxGNN-modellens höga poäng (99,86%) speglar sannolikt strukturella likheter i sjukdomsnätverksgrafen snarare än en direkt evidensöverföring från PDAC-studier. Utan prekliniska eller kliniska data specifika för OGC-pancreas saknas grund för att bekräfta att förutsägelsen är kliniskt tillämpbar.
 
 ---
 
-## Literature Evidence
+## Kliniska prövningar
 
-Currently no related literature available in this Evidence Pack.
-
----
-
-## Taiwan Market Information
-
-Mitomycin currently holds **no marketing authorizations** in Taiwan. No license records are available.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Cytotoxicity
+## Litteraturbevis
 
-Mitomycin belongs to the antineoplastic antibiotic class and is a well-established cytotoxic chemotherapy agent (DNA cross-linking mechanism). This section is included on the basis that the drug name falls within a known cytotoxic chemotherapy category per evaluation criteria.
+Ingen relaterad litteratur tillgänglig för närvarande.
 
-| Item | Content |
+---
+
+## Marknadsinformation Sverige
+
+Mitomycin är för närvarande inte registrerat hos Läkemedelsverket (MPA) i Sverige. Inga godkännanden finns i tillgänglig databas.
+
+---
+
+## Cytotoxicitet
+
+Mitomycin uppfyller kriterier för antineoplastisk klassificering: det tillhör klassen bioreduktiva alkyleringsmedel och dess ursprungliga användning är riktad mot maligna solida tumörer.
+
+| Post | Innehåll |
 |------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic (Antineoplastic antibiotic / DNA alkylating and cross-linking agent) |
-| Myelosuppression Risk | High — delayed, cumulative bone marrow suppression is a characteristic class effect; nadir typically occurs 4–6 weeks after administration |
-| Emetogenicity Classification | Low to moderate |
-| Monitoring Items | CBC with differential and platelet count (baseline and weekly during therapy), renal function (serum creatinine), pulmonary function if respiratory symptoms develop |
-| Handling Protection | Must follow cytotoxic drug handling regulations; closed-system transfer device and appropriate PPE required |
+| Cytotoxicitetsklassificering | Konventionell cytotoxisk – bioreduktivt alkyleringsmedel (mitomycin-klass) |
+| Myelosuppressionsrisk | Hög – kumulativ och fördröjd myelosuppression är Mitomycin C:s dosbegränsande toxicitet; nadir för trombocyter och neutrofiler inträffar typiskt vecka 4–6 efter administrering och kan förvärras vid upprepad dosering |
+| Emetogenicitetsklassificering | Medel |
+| Övervakningspunkter | Komplett blodstatus (CBC) inför varje kur med särskild uppmärksamhet på trombocytantal och neutrofilräkning; njurfunktion (S-kreatinin, GFR) och leverfunktion (ALAT, ASAT, bilirubin) bör följas regelbundet |
+| Hanteringsskydd | Ja – hanteras som cytotoxiskt läkemedel i enlighet med ASHP/ISOPP-riktlinjer; skyddshandskar, stänkskydd och lämplig skyddsutrustning krävs vid beredning och administrering |
 
 ---
 
-## Safety Considerations
+## Säkerhetsaspekter
 
-Please refer to the package insert for safety information.
-
-> **Note:** Key warnings and contraindications are listed as a Blocking data gap (DG001). The TFDA package insert must be retrieved and parsed before any safety screening can be completed.
+> Se produktresumén (SmPC) för säkerhetsinformation.
 
 ---
 
-## Conclusion and Next Steps
+## Slutsats och nästa steg
 
-**Decision: Hold**
+**Beslut: Avvakta**
 
-**Rationale:**
-The Evidence Pack for Mitomycin is critically incomplete — no TxGNN repurposing predictions were generated, original indications were not captured, MOA data is absent, and all safety fields carry [Data Gap] status. No substantive evaluation can proceed in this state.
+**Motivering:**
+- Förutsägelsen för osteoclastisk jättecellstumör i pankreas saknar all direkt klinisk eller preklinisk evidens (evidensnivå L5). Tumörtypen är biologiskt distinkt från de cancerformer där Mitomycin har historisk användning, och det finns ingen studiemässig grund för extrapolering av effekt till denna sällsynta entitet.
 
-**To proceed, the following is needed:**
-
-- **[Blocking — DG001]** Retrieve and parse the TFDA package insert to extract key warnings and contraindications; this must be resolved before any safety screening (S1 gate)
-- **[High — DG002]** Query DrugBank API for Mitomycin MOA data to enable mechanistic plausibility analysis
-- Re-run the TxGNN prediction pipeline after both data gaps are resolved to generate repurposing candidate indications
-- Document original approved indications from DrugBank, TFDA, or international regulatory sources (e.g., FDA, EMA)
-- Retrieve DDI data from an alternative source (current query returned `not_found`)
-- After TxGNN predictions are available, re-generate this report using a complete Evidence Pack
+**För att gå vidare krävs:**
+- Prekliniska studier (in vitro eller in vivo) specifika för OGC-pancreas cellmodeller eller xenograftmodeller
+- Systematisk sökning efter fallrapporter eller fallserier där Mitomycin använts vid OGC-pancreas
+- Komplettering av säkerhetsdata: verifierad produktresumé (SmPC) med kontraindikationer och interaktionsprofil
+- Hämtning av fullständig MOA-data via DrugBank API för att stärka den mekanistiska analysen
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

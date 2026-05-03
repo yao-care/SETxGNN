@@ -2,7 +2,7 @@
 layout: default
 title: Pregabalin
 parent: 僅模型預測 (L5)
-nav_order: 108
+nav_order: 87
 evidence_level: L5
 indication_count: 6
 ---
@@ -10,12 +10,12 @@ indication_count: 6
 # Pregabalin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,86 +25,83 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-Using the `txgnn-pipeline` skill as context — this is a TxGNN Se (Sweden) project pharmacist report. I'll now generate the evaluation report per the v5 prompt format.
+Using the `txgnn-pipeline` skill as context — this is a Swedish TxGNN deployment report. Generating the Swedish evaluation report from the Evidence Pack now.
 
 ---
 
-# Pregabalin: From Neuropathic Pain to Tendinitis
+# Pregabalin: Från neuropatisk smärta till tendinit
 
-## One-Sentence Summary
+## Sammanfattning
 
-Pregabalin is a gabapentinoid anticonvulsant and analgesic, established in clinical practice for neuropathic pain, partial-onset seizures, and fibromyalgia.
-The TxGNN model predicts it may be effective for **Tendinitis**,
-with **0 clinical trials** and **6 publications** currently supporting this direction — though none directly evaluate pregabalin as a tendinitis treatment.
+Pregabalin är ett gabapentinoid-läkemedel godkänt internationellt för behandling av neuropatisk smärta och partiell epilepsi. TxGNN-modellen förutsäger att det kan vara effektivt mot **tendinit** (seninflammation), men evidensbasen är begränsad – inga kliniska prövningar är registrerade och **6 publikationer** ger endast indirekt stöd via studier på postoperativ smärta vid senkirurgi. Den mekanistiska kopplingen bedöms som svag och nuvarande evidens motiverar inte vidare klinisk prioritering.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
-|------|---------|
-| Original Indication | Neuropathic pain, partial-onset seizures, fibromyalgia (established uses; no Swedish regulatory records retrieved) |
-| Predicted New Indication | Tendinitis |
-| TxGNN Prediction Score | 99.71% |
-| Evidence Level | L4 |
-| Sweden Market Status | No records found |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Pregabalin is a gabapentinoid that binds to the α2-δ subunit of voltage-gated calcium channels in the central nervous system, reducing presynaptic calcium influx and the release of excitatory neurotransmitters (glutamate, substance P, norepinephrine). This mechanism underlies its efficacy in neuropathic pain and epilepsy. However, detailed MOA data was not retrieved from DrugBank in this evidence pack, so the mechanistic analysis below draws on established pharmacological knowledge and contextual literature signals.
-
-Tendinitis is primarily a local inflammatory condition driven by prostaglandins, cytokines, and mechanical tissue stress at the tendon level. Pregabalin's core mechanism — calcium channel modulation reducing central sensitization — has only partial overlap with this pathophysiology. A theoretical neuropathic overlap exists in chronic tendinopathy, where central sensitization contributes to persistent pain even after the acute inflammatory phase resolves. In that narrow subpopulation, pregabalin's analgesic mechanism could be relevant.
-
-The retrieved literature does not support pregabalin as a direct tendinitis treatment. The two highest-tier publications are perioperative RCTs after rotator cuff repair surgery — a different clinical context. The TxGNN prediction likely reflects graph-level proximity through shared "musculoskeletal pain" and "nociception" nodes rather than a direct biological link to tendinitis. Evidence is preclinical or indirect at best, placing this at L4.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Neuropatisk smärta, partiell epilepsi |
+| Förutsagd ny indikation | Tendinit |
+| TxGNN-förutsägelsepoäng | 99,7% |
+| Evidensnivå | L4 – Prekliniska/mekanismstudier |
+| Marknadsstatus i Sverige | Ej godkänd |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Clinical Trial Evidence
+## Varför är denna förutsägelse rimlig?
 
-Currently no related clinical trials registered.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är Pregabalin ett gabapentinoid (GABA-analog) som verkar genom att hämma α2δ-subenheten hos spänningskänsliga kalciumkanaler (VGCC), vilket minskar presynaptisk frisättning av smärtmediatorer som glutamat, noradrenalin och substans P. Dess effekt vid neuropatisk smärta och epilepsi är väl dokumenterad, och mekanistiskt kan den vara tillämpbar på smärtkomponenten vid tendinit.
 
----
+Tendinit är en lokal inflammatorisk och degenerativ sensjukdom. Det finns ett indirekt samband med Pregabalins verkningsområde: läkemedlet kan lindra den kroniska smärta och centrala sensitisering som uppstår vid svår eller långvarig tendinit via α2δ VGCC-hämning. Däremot saknas direkt verkningsmekanism mot tendinitens kärnpatologi – lokal inflammation, kollagennedbrytning och senvävnadsreparation påverkas inte av detta läkemedel.
 
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [34052386](https://pubmed.ncbi.nlm.nih.gov/34052386/) | 2022 | RCT (perioperative) | Arthroscopy | Perioperative oral pregabalin produced postoperative pain scores equivalent to interscalene brachial plexus block after arthroscopic rotator cuff repair; opioid-sparing effect observed |
-| [32839073](https://pubmed.ncbi.nlm.nih.gov/32839073/) | 2021 | RCT (postoperative) | J Orthop Sci | Retrospective cohort evaluating pregabalin's analgesic and opioid-sparing effect after arthroscopic rotator cuff repair; results conflicting with limited evidence for this regimen |
-| [37051935](https://pubmed.ncbi.nlm.nih.gov/37051935/) | 2023 | Case Report | Pain Practice | Posterior femoral cutaneous nerve neuropathy secondary to hamstring tendonitis from long-distance running; neuropathic pain management (including pregabalin-class drugs) discussed |
-| [41017607](https://pubmed.ncbi.nlm.nih.gov/41017607/) | 2025 | Case Series / Review | Praxis | Fluoroquinolone-associated disability including tendinopathy reviewed; neurological and redox-system damage pathway highlighted; pregabalin mentioned in neurological symptom management context |
-| [39703364](https://pubmed.ncbi.nlm.nih.gov/39703364/) | 2024 | Animal Study | Adv Pharmacol Pharm Sci | Cissus quadrangularis assessed for vincristine-induced peripheral neuropathy in rats; plant reported to treat injured tendons; pregabalin used as pharmacological reference |
-| [40818536](https://pubmed.ncbi.nlm.nih.gov/40818536/) | 2025 | Editorial Commentary | Arthroscopy | Piriformis syndrome with sciatic nerve compression at piriformis tendon discussed; multimodal analgesic context, no direct pregabalin-for-tendinitis data |
+Sammantaget bedöms den mekanistiska kopplingen som svag. TxGNN-förutsägelsen drivs sannolikt av grafens nodnärhet inom muskuloskeletala sjukdomsnoder snarare än en stark direkt farmakologisk länk till tendinit.
 
 ---
 
-## Safety Considerations
+## Kliniska prövningar
 
-Please refer to the package insert for safety information.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Conclusion and Next Steps
+## Litteraturbevis
 
-**Decision: Hold**
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|----|-----|-----------|--------------|
+| [34052386](https://pubmed.ncbi.nlm.nih.gov/34052386/) | 2022 | RCT | *Arthroscopy* | Perioperativ oral pregabalin gav likvärdiga smärtpoäng som interscalenusblockad efter artroskopisk rotatorkuffreparation |
+| [32839073](https://pubmed.ncbi.nlm.nih.gov/32839073/) | 2021 | RCT | *J Orthop Sci* | Pregabalin visade opioidbesparande effekt efter artroskopisk rotatorkuffkirurgi; evidensen för multimodalt regim är motstridande och begränsad |
+| [41017607](https://pubmed.ncbi.nlm.nih.gov/41017607/) | 2025 | Fallrapport/Översikt | *Praxis* | Fluorokinolonassocierad funktionsnedsättning med tendinopati efter ciprofloxacin – pregabalin är ej studieobjektet |
+| [37051935](https://pubmed.ncbi.nlm.nih.gov/37051935/) | 2023 | Fallrapport | *Pain Practice* | Posterior femoral kutan nervneuropati orsakad av hamstringstendinit vid maratonlöpning; pregabalin nämns som potentiellt behandlingsalternativ för den neuropatiska smärtkomponenten |
+| [40818536](https://pubmed.ncbi.nlm.nih.gov/40818536/) | 2025 | Ledare | *Arthroscopy* | Piriformissyndrom behandlat med neurolys och piriformissenfriläggning – pregabalin inte primärt utvärderat |
+| [39703364](https://pubmed.ncbi.nlm.nih.gov/39703364/) | 2024 | Djurstudie | *Adv Pharmacol Pharm Sci* | Växtextrakt mot vincristin-inducerad perifer neuropati hos råttor; pregabalin används som aktivt jämförelseläkemedel, inte som primärt studieobjekt |
 
-**Rationale:**
-Although TxGNN assigns a high prediction score (99.71%), the mechanistic overlap between pregabalin's calcium channel modulation and the primary inflammatory pathophysiology of tendinitis is indirect at best. All six retrieved publications address perioperative or neuropathic-overlap pain scenarios — none constitute a therapeutic study in tendinitis. With no registered clinical trials and only indirect preclinical signals (L4), the evidence base does not support moving forward at this stage.
+---
 
-**To proceed, the following is needed:**
-- Retrieve DrugBank MOA data (DG002) to complete mechanistic link analysis
-- Retrieve Swedish MPA / TFDA package insert safety data (DG001) for warnings and contraindications
-- Conduct a targeted literature review specifically on chronic tendinopathy with neuropathic pain features to test the central-sensitization hypothesis
-- If mechanistic rationale is confirmed, design a prospective pilot study in patients with chronic tendinopathy meeting neuropathic pain screening criteria (e.g., PainDETECT ≥ 19)
-- Consider that pregabalin is a controlled substance in many jurisdictions (abuse potential); regulatory implications for any new indication must be assessed upfront
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- Pregabalins α2δ VGCC-hämmande mekanism saknar direkt koppling till tendinitens kärnpatologi. Befintlig litteratur stöder inte pregabalin som specifik behandling mot tendinit – de tillgängliga publikationerna rör postoperativ smärta vid senkirurgi eller är fallrapporter där pregabalin inte är primärt utvärderat. Inga kliniska prövningar är registrerade och evidensnivå L4 motiverar inte vidare klinisk prioritering för denna indikation.
+
+**För att gå vidare krävs:**
+- Riktade prekliniska studier som undersöker pregabalins direkta effekt på seninflammation och senvävnadsreparation
+- Prospektiva kliniska studier för kronisk tendinit med neuropatisk eller central smärtkomponent
+- Fullständig säkerhetsinformation (SmPC) för Pregabalin från Läkemedelsverket
+- Bekräftelse av Pregabalins faktiska marknadsstatus i Sverige (datakvaliteten för 0 godkännanden bör verifieras)
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

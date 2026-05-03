@@ -2,7 +2,7 @@
 layout: default
 title: Hemin
 parent: 僅模型預測 (L5)
-nav_order: 68
+nav_order: 56
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Hemin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,76 +25,77 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-以下是根據 Evidence Pack 產生的完整報告：
+Jag använder `txgnn-pipeline`-skillet och producerar nu rapporten baserat på Evidence Pack JSON.
 
 ---
 
-# HEMIN: From Acute Hepatic Porphyria to Thrombocytopenic Purpura
+# Hemin: Från akut hepatisk porfyri till trombocytopenisk purpura
 
-## One-Sentence Summary
+## Sammanfattning
 
-HEMIN 是一種靜脈注射用鐵-卟啉化合物，於國際上確立用於治療急性肝卟啉症（Acute Hepatic Porphyria, AHP）的急性發作，透過補充外源性血紅素抑制肝臟 ALAS1 過度活化。TxGNN 模型預測其可能對 **Thrombocytopenic Purpura（血小板減少性紫癜）** 有效，然而目前 **0 項臨床試驗** 及 **0 篇文獻** 支持此方向，預測僅基於計算模型推斷（證據等級 L5）。
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Acute Hepatic Porphyria（急性肝卟啉症，國際已核准適應症；Taiwan 無登錄紀錄） |
-| Predicted New Indication | Thrombocytopenic Purpura（血小板減少性紫癜） |
-| TxGNN Prediction Score | 99.79% |
-| Evidence Level | L5 |
-| Taiwan Market Status | 未上市 |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+Hemin (järnprotoporfyrin IX) används etablerat för att behandla akuta attacker vid akut hepatisk porfyri (AHP) genom att hämma ALAS1-enzymet och därigenom minska ackumulationen av neurotoxiska porfyrinprekursorer. TxGNN-modellen förutsäger att hemin kan vara effektivt mot **trombocytopenisk purpura** via induktion av hemoxygenas-1 (HO-1) och antiinflammatorisk immunmodulering. Förutsägelsen saknar för närvarande stöd av kliniska prövningar eller direkt litteratur – evidensnivån är **L5** (enbart modellförutsägelse).
 
 ---
 
-## Why is This Prediction Reasonable?
+## Snabböversikt
 
-目前 Evidence Pack 中缺乏詳細的作用機轉資料。根據已知資訊，HEMIN 為含鐵卟啉化合物，其主要藥理作用為補充外源性血紅素，從而透過負回饋機制抑制肝臟 ALAS1（delta-aminolevulinic acid synthase 1）的過度表現——這正是 AHP 急性發作的病理核心。此外，HEMIN 亦可誘導血紅素加氧酶-1（Heme Oxygenase-1, HO-1）的表現，HO-1 具有強效抗炎及免疫調節活性，為其次要但重要的機轉。
-
-血小板減少性紫癜（ITP）的核心病理為自體免疫介導的血小板破壞。理論上，HO-1 的誘導可能抑制 ITP 中的抗血小板自體免疫反應，為 TxGNN 預測提供了一定的生物學概念基礎。圖神經網路可能透過知識圖譜中「血液疾病 → 免疫調節 → HEMIN/HO-1」的節點關聯推導出此預測。
-
-然而，此預測存在**關鍵機制矛盾**：HEMIN 本身亦已知具有抑制血小板聚集及損害血小板功能的效果。對於本已以血小板數量不足為核心問題的 ITP 患者，HEMIN 的抗血小板特性可能加劇疾病，而非改善。此機制層面的自相矛盾，加上完全缺乏臨床試驗與文獻佐證，使此預測的可行性存疑，不建議立即進入開發流程。
-
----
-
-## Clinical Trial Evidence
-
-目前無相關臨床試驗登錄紀錄。
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Akut hepatisk porfyri (ej godkänd i Sverige) |
+| Förutsagd ny indikation | Trombocytopenisk purpura |
+| TxGNN-förutsägelsepoäng | 99,79 % |
+| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
+| Marknadsstatus i Sverige | Ej godkänd (0 godkännanden) |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Literature Evidence
+## Varför är denna förutsägelse rimlig?
 
-目前無相關文獻可供參考。
+Hemin verkar via två sammankopplade mekanismer. Den primära effekten vid porfyri är återkopplingshämning av ALAS1, det hastighetsbegränsande enzymet i hembiosyntesen, vilket minskar ackumulationen av neurotoxiska porfyrinprekursorer ALA och porfobilinogen. Den sekundära mekanismen – och den som är relevant för trombocytopenisk purpura – är induktion av hemoxygenas-1 (HO-1), ett stressinducerbart enzym med potenta antiinflammatoriska och immunmodulerande egenskaper.
 
----
+Mekanistisk länk till trombocytopenisk purpura: HO-1 katalyserar nedbrytningen av hem till kolmonoxid (CO), biliverdin och fritt järn. CO aktiverar löslig guanylatcyklas och höjer cGMP-nivåerna, vilket hämmar blodplättaktivering och aggregation. Därutöver kan HO-1/biliverdin-axeln teoretiskt dämpa den immunmedierade trombocytförstöringen som är den centrala patofysiologin vid immuntrombocytopenisk purpura (ITP), genom reglering av Th1/Th2-balansen och minskad oxidativ stress.
 
-## Safety Considerations
-
-請參閱仿單之警語與注意事項以取得完整安全性資訊。
+Det mekanistiska sambandet är logiskt uppbyggt men förblir hittills rent teoretiskt. Ingen klinisk prövning eller preklinisk studie med hemin specifikt vid trombocytopenisk purpura har återfunnits. TxGNN-modellens höga poäng (99,79 %) kan delvis förklaras av grafnätverkets topologi – blodsjukdomsnoder och trombocytopeninoder delar grannskapet med hemin-/porfyrin-noder i kunskapsgrafen, vilket kan ge upphov till ett närhetsbetingat högt poängvärde utan ett verkligt terapeutiskt samband. En ITP-musmodell rekommenderas som obligatoriskt nästa steg för mekanistisk validering.
 
 ---
 
-## Conclusion and Next Steps
+## Kliniska prövningar
 
-**Decision: Hold**
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
-**Rationale:**
-此預測完全基於圖神經網路計算推斷（L5 等級），無任何臨床試驗或文獻支持 HEMIN 用於血小板減少性紫癜；且 HEMIN 已知的抗血小板特性在機制層面與 ITP 治療需求形成直接矛盾，存在潛在安全性疑慮。
+---
 
-**To proceed, the following is needed:**
-- 補充 HEMIN 的完整作用機轉資料（MOA，目前為 Data Gap，需查詢 DrugBank API）
-- 取得 Taiwan TFDA 仿單 PDF 以完成安全性初評（目前為 Blocking 等級資料缺口）
-- 進行臨床前研究，釐清 HO-1 誘導對 ITP 動物模型中自體免疫反應及血小板數量的淨效應，以化解機制矛盾
-- 若資源有限，建議優先評估 **Rank #2 適應症（Hemophilia）**：已有動物實驗文獻（PMID 19890094）支持 HO-1 誘導可降低 FVIII 替代療法的免疫反應，機制相對清楚且無同等矛盾，為更具開發潛力的切入點
+## Litteraturbevis
+
+Ingen relaterad litteratur tillgänglig för närvarande.
+
+---
+
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- Förutsägelsen baseras uteslutande på TxGNN-modellens graftraversering (L5, beslutssteg S0) utan stöd av kliniska prövningar, djurstudier eller klinisk litteratur specifikt för trombocytopenisk purpura. Det föreslagna mekanistiska sambandet via HO-1/CO/cGMP-axeln är biologiskt plausibelt men saknar varje form av experimentell bekräftelse.
+
+**För att gå vidare krävs:**
+- Preklinisk validering i ITP-musmodell (t.ex. anti-CD41-antikroppsinducerad trombocytopenimodell) med HO-1-induktionsmätning och trombocyträkning som primärt utfall
+- Fastställande av dosregim som uppnår tillräcklig HO-1-induktion utan toxisk ackumulering av fritt hem
+- Systematisk litteraturöversikt avseende andra HO-1-inducenters effekter vid immunmedierad trombocytopeni som surrogatbevis
+- Insamling av hemins fullständiga säkerhetsprofil (varningar, kontraindikationer och interaktionsdata saknas i nuläget)
+- Notera: Bland de 10 förutsagda indikationerna har **hemofili (rank 2, L4)** starkare mekanistiskt stöd – en direkt djurstudie (PMID [19890094](https://pubmed.ncbi.nlm.nih.gov/19890094/)) visar att HO-1-induktion reducerar anti-FVIII-immunsvar i FVIII-bristfälliga möss. Hemofili-spåret bör prioriteras parallellt som den translationellt mognare hypotesen.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

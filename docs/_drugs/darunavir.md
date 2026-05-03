@@ -2,7 +2,7 @@
 layout: default
 title: Darunavir
 parent: 僅模型預測 (L5)
-nav_order: 42
+nav_order: 30
 evidence_level: L5
 indication_count: 4
 ---
@@ -10,12 +10,12 @@ indication_count: 4
 # Darunavir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,80 +25,93 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# DARUNAVIR: Drug Repurposing Evaluation — Insufficient Prediction Data
+Using the `txgnn-pipeline` skill to guide report generation for this Swedish TxGNN drug repurposing evaluation.
 
-## One-Sentence Summary
+---
 
-Darunavir (DrugBank: DB01264) is a well-known HIV-1 protease inhibitor widely used for the treatment of HIV/AIDS.
-The TxGNN model has **not yet generated any predicted new indications** for this drug,
-and the evidence pack currently contains **significant data gaps** in mechanism of action, safety, and regulatory information for Taiwan.
+# Darunavir: Från HIV-1-behandling till SIV-infektion (apors immunbristvirus)
 
-## Quick Overview
+## Sammanfattning
 
-| Item | Content |
-|------|------|
-| Drug (INN) | Darunavir |
-| DrugBank ID | DB01264 |
-| Original Indication | Not documented in evidence pack (known globally: HIV-1 infection) |
-| Predicted New Indication | — None predicted |
-| TxGNN Prediction Score | — Not available |
-| Evidence Level | N/A — No prediction generated |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Darunavir är en HIV-1-proteashämmare som globalt används i kombinationsbehandling mot HIV-infektion, men som för närvarande inte är registrerat i Sverige. TxGNN-modellen förutsäger att det kan vara verksamt mot **SIV-infektion (simian immunodeficiency virus infection)** – en immunbristsjukdom hos icke-mänskliga primater som är nära besläktad med HIV. Förutsägelsen stöds av **4 vetenskapliga publikationer** från djurmodeller (NHP/SIV-modeller), men inga kliniska prövningar finns registrerade för denna specifika indikation.
 
-## Why is This Prediction Incomplete?
+---
 
-Darunavir is a second-generation HIV-1 protease inhibitor (brand name Prezista®, manufactured by Janssen). It works by selectively inhibiting the cleavage of HIV-encoded Gag-Pol polyproteins in infected cells, thereby preventing the formation of mature virus particles. It is typically co-administered with a pharmacokinetic booster (ritonavir or cobicistat) and is approved in numerous countries for the treatment of HIV-1 infection in adults and paediatric patients.
+## Snabböversikt
 
-However, the current evidence pack has the following critical gaps that prevent a meaningful drug repurposing evaluation:
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | HIV-1-infektion (ej registrerat i Sverige; globalt känd indikation) |
+| Förutsagd ny indikation | SIV-infektion (simian immunodeficiency virus infection) |
+| TxGNN-förutsägelsepoäng | 99,97 % |
+| Evidensnivå | L3 – Djurstudier (icke-mänskliga primater, NHP/SIV-modeller) |
+| Marknadsstatus i Sverige | Ej registrerat |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
-1. **No predicted indications**: The `predicted_indications` array is empty. Without a TxGNN prediction, no target disease can be evaluated.
-2. **Mechanism of action not documented**: The MOA field is marked as a data gap, which impairs any mechanistic plausibility analysis.
-3. **No Taiwan regulatory data**: Darunavir is not marketed in Taiwan per this evidence pack (0 authorizations), meaning there is no local package insert or safety data to draw from.
+---
 
-Until the TxGNN model produces at least one predicted indication and the data gaps are remediated, no repurposing assessment can proceed.
+## Varför är denna förutsägelse rimlig?
 
-## Clinical Trial Evidence
+Darunavir binder till det aktiva sätet på HIV-1:s aspartylproteas och blockerar viruspartikelns mognad – en nödvändig process för att producera infektiösa viruspartiklar. Utan fungerande proteas bildas omogenar, icke-infektiösa viruspartiklar och infektionen bromsas effektivt.
 
-Currently no predicted indication has been generated — clinical trial search not applicable.
+HIV och SIV (simian immunodeficiency virus) tillhör samma biologiska familj av lentivirus. De delar hög strukturell likhet i proteasenzymets aktiva säte, med en sekvenshomologi på uppskattningsvis ~60 %. Det innebär att Darunavirs hämningsmekanism är biokemiskt överförbar mellan arterna, och läkemedlet fungerar faktiskt som proteashämmare (PI) i multidrugregimer (cART) som används i NHP-djurmodeller för HIV/AIDS-forskning.
 
-## Literature Evidence
+Det bör framhållas att detta snarare representerar en **artmässig tillämpning av en redan känd mekanism** än en klassisk läkemedelsåteranvändning mot en ny indikation. Förutsägelsen bekräftar Darunavirs biologiska relevans i primatmodeller men identifierar ingen ny human sjukdomsindikation.
 
-Currently no predicted indication has been generated — literature search not applicable.
+---
 
-## Taiwan Market Information
+## Kliniska prövningar
 
-Darunavir currently holds **no marketing authorizations** in Taiwan. No license records are available.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
-## Safety Considerations
+---
 
-> Please refer to the package insert for safety information. All safety fields (warnings, contraindications, drug-drug interactions) are currently unavailable in this evidence pack.
+## Litteraturbevis
 
-**Identified Data Gaps:**
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|----|-----|-----------|--------------|
+| [26150024](https://pubmed.ncbi.nlm.nih.gov/26150024/) | 2016 | Djurstudie (NHP/SIV) | AIDS Research and Human Retroviruses | Utvärderade två nya cART-regimer (inkl. PI-komponent) i SIVmac239-infekterade rhesus-makaker; båda regimerna supprimerade virusreplikationen till kliniskt relevanta nivåer |
+| [22737073](https://pubmed.ncbi.nlm.nih.gov/22737073/) | 2012 | Djurstudie (NHP/SIV) | PLoS Pathogens | Intensifierad flerdrogbehandling (inkl. NRTI + PI + integrasehämmare) i SIVmac251-infekterade makaker gav långvarig virussuppression och begränsad virusreservoar |
+| [25033210](https://pubmed.ncbi.nlm.nih.gov/25033210/) | 2014 | Djurstudie (NHP/SIV) | PLoS ONE | cART kombinerat med HDAC-hämmaren SAHA i SIV-infekterade kinesiska rhesus-makaker; PI ingick i bakgrundsregimen och bidrog till stabil virussuppression |
+| [21505294](https://pubmed.ncbi.nlm.nih.gov/21505294/) | 2011 | Djurstudie (NHP/SIV) | AIDS (London, England) | Guldföreningen auranofin kombinerat med ART (inkl. PI) minskade lentiviral reservoar i CD4 T-celler in vivo och inducerade viruskontroll efter ART-avbrott i SIV-modell |
 
-| Gap ID | Item | Severity | Impact | Remediation |
-|--------|------|----------|--------|-------------|
-| DG001 | TFDA Package Insert Warnings/Contraindications | Blocking | Cannot proceed to S1 safety screening | Download and parse package insert PDF from TFDA website |
-| DG002 | Mechanism of Action (MOA) | High | Impairs mechanism–indication relevance analysis | Query DrugBank API |
+---
 
-## Conclusion and Next Steps
+## Övriga förutsägda indikationer
 
-**Decision: Hold**
+TxGNN identifierade ytterligare tre kandidatindikationer. Samtliga bedöms som **Avvakta** av följande skäl:
 
-**Rationale:**
-No TxGNN-predicted indications exist for Darunavir at this time. Combined with missing MOA data, absent Taiwan regulatory information, and empty safety profiles, there is insufficient evidence to evaluate any repurposing opportunity. The evaluation cannot advance beyond the data collection phase.
+| Rang | Indikation | Poäng | Evidensnivå | Kommentar |
+|------|-----------|-------|-------------|-----------|
+| 2 | Kattens förvärvade immunbristsyndrom (FIV) | 99,97 % | L4 | FIV-proteas skiljer sig strukturellt tydligt från HIV-proteas; den enda registrerade prövningen (NCT02770508) rör human HIV-behandling och är felanpassad av datapipelinen |
+| 3 | Neurodevelopmentalt störning med ataktisk gång, utebliven tal och minskad kortikal vit substans | 99,97 % | L5 | Ingen känd mekanistisk koppling; inga kliniska prövningar och ingen litteratur |
+| 4 | Familjär kombinerad hyperlipidemi (inaktuell term) | 99,19 % | L5 | ⚠️ Omvänd mekanism: HIV-proteashämmare är kända för att *orsaka* lipidrubbningar som biverkning; dessutom är sjukdomsbeteckningen markerad som inaktuell (obsolete) i ontologin |
 
-**To proceed, the following is needed:**
-- **Run TxGNN prediction** for Darunavir to generate candidate new indications
-- **Remediate DG002**: Retrieve detailed mechanism of action data from DrugBank API
-- **Remediate DG001**: Obtain TFDA package insert warnings and contraindications (or equivalent international label data, given Darunavir is not marketed in Taiwan)
-- **Obtain safety data**: Drug-drug interaction profiles are critical given Darunavir's known extensive CYP3A4 interactions and requirement for pharmacokinetic boosting
-- **Clarify regulatory pathway**: Since Darunavir is not marketed in Taiwan, determine whether an international reference (e.g., FDA, EMA) label should be used as the safety reference
+---
+
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+Darunavirs effekt i NHP/SIV-modeller är mekanistiskt välgrundad och stöds av fyra djurstudier (evidensnivå L3), men inga humana kliniska prövningar finns för SIV-indikationen. Förutsägelsen bekräftar snarast läkemedlets kända verkningsmekanism i en primatkontext än pekar ut en kliniskt exploaterbar ny indikation. Övriga förutsedda indikationer saknar evidens, uppvisar mekanistiska motsägelser eller baseras på inaktuella diagnostermer.
+
+**För att gå vidare krävs:**
+- Klargörande av det kliniska syftet: är NHP/SIV-modellerna avsedda som surrogatmodell för human HIV-forskning, eller finns ett fristående veterinärmedicinskt intresse?
+- Inhämtning av fullständig säkerhetsinformation (varningstext, kontraindikationer och läkemedelsinteraktioner)
+- Mekanistisk valideringsstudie specifikt för FIV-proteashämning om kattmedicinsk tillämpning är av intresse
+- Verifiering mot aktuella ontologibeteckningar innan vidare analys av indikation 4 (inaktuell term)
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

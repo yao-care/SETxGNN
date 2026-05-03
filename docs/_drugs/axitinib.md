@@ -2,7 +2,7 @@
 layout: default
 title: Axitinib
 parent: 僅模型預測 (L5)
-nav_order: 25
+nav_order: 20
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Axitinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,97 +25,103 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# Axitinib: Preliminary Evaluation — Awaiting Predicted Indication Data
-
-## One-Sentence Summary
-
-Axitinib (DB06626) is a selective tyrosine kinase inhibitor known internationally for the treatment of advanced renal cell carcinoma.
-The TxGNN model has **not yet generated predicted new indications** for this drug,
-and the evidence pack currently contains **no clinical trial or literature evidence** for repurposing candidates. This report serves as a baseline assessment pending completion of the prediction pipeline.
+Använder `txgnn-pipeline` för kontexten. Nu genererar jag rapporten baserat på Evidence Pack.
 
 ---
 
-## Quick Overview
+# Axitinib: Från njurcellscancer till RCC med Xp11.2-translokation/TFE3-genfusion
 
-| Item | Content |
+## Sammanfattning
+
+Axitinib är en selektiv tyrosinkinashämmare som riktar sig mot VEGFR-1, -2 och -3, godkänd i flera länder för behandling av avancerat njurcellscancer (mRCC). TxGNN-modellen förutsäger att det kan vara effektivt mot **njurcellscancer associerad med Xp11.2-translokationer/TFE3-genfusioner** – en sällsynt molekylär subtyp som framför allt drabbar barn och unga vuxna. Förutsägelsen stöds för närvarande av **1 pågående klinisk fas 2-prövning** som specifikt inkluderar denna patientgrupp.
+
+---
+
+## Snabböversikt
+
+| Post | Innehåll |
 |------|------|
-| Original Indication | Not recorded in current evidence pack (known internationally: advanced renal cell carcinoma) |
-| Predicted New Indication | — (No TxGNN prediction available) |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 (Model prediction not yet available) |
-| Taiwan Market Status | ❌ Not marketed (未上市) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Ursprunglig indikation | Avancerat/metastaserande njurcellscancer (mRCC) |
+| Förutsagd ny indikation | Njurcellscancer associerad med Xp11.2-translokation/TFE3-genfusion |
+| TxGNN-förutsägelsepoäng | 99,90 % |
+| Evidensnivå | L2 – 1 aktiv fas 2-prövning med direkt koppling till subtypen |
+| Marknadsstatus i Sverige | Ej registrerad |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Varför är denna förutsägelse rimlig?
 
-Currently, detailed mechanism of action (MOA) data has not been populated in the evidence pack. Based on publicly available pharmacological knowledge, Axitinib is a second-generation **selective inhibitor of vascular endothelial growth factor receptors (VEGFR-1, VEGFR-2, and VEGFR-3)**. It is a small-molecule tyrosine kinase inhibitor (TKI) that blocks tumour angiogenesis by inhibiting VEGF-mediated endothelial cell proliferation and survival.
+Axitinib är en andra generationens oral tyrosinkinashämmare med hög selektivitet mot VEGFR-1, -2 och -3. Dess inhibitoriska koncentration (IC₅₀) för VEGFR-familjen är upp till tio gånger lägre än för äldre preparat som sunitinib och sorafenib. Läkemedlets kärnmekanism är att blockera tumörens angiogenessignal – nybildning av blodkärl som tumören behöver för att växa och metastasera.
 
-Axitinib was originally approved by the US FDA (2012) and the EMA for the treatment of **advanced renal cell carcinoma (RCC)** after failure of one prior systemic therapy. Its anti-angiogenic mechanism has broad theoretical applicability to other solid tumours where VEGF-driven neovascularisation plays a key role.
+Vid njurcellscancer med Xp11.2-translokation/TFE3-genfusion bildas fusionsproteiner med transkriptionsfaktorn TFE3 till följd av kromosombrott på Xp11.2. Dessa fusionsproteiner uppregulerar VEGF-A-uttrycket och aktiverar MET/mTOR-signalering, vilket gör VEGFR-hämning till en biologiskt rationell behandlingsstrategi. Subtypen utgör mer än 40 % av njurcellscancer hos barn men förekommer även hos unga vuxna.
 
-However, because the TxGNN prediction pipeline has not yet returned candidate indications for Axitinib, no mechanistic bridging analysis between an original and a new indication can be performed at this time. This section should be revisited once `predicted_indications` data becomes available.
-
----
-
-## Clinical Trial Evidence
-
-Currently no predicted indication has been generated, therefore no indication-specific clinical trial search was performed.
+Den kliniska plausibiliteten stärks ytterligare av att axitinib redan visat robust effekt vid konventionellt RCC i pivotala studier (AXIS, KEYNOTE-426, JAVELIN Renal 101), och att den pågående fas 2-prövningen NCT03595124 explicit rekryterar patienter med TFE/translokations-RCC i alla åldersgrupper, inklusive pediatrisk population. Behandlingsramverket för etablerat RCC kan därigenom utvidgas till denna sällsynta subtyp.
 
 ---
 
-## Literature Evidence
+## Kliniska prövningar
 
-Currently no predicted indication has been generated, therefore no indication-specific literature search was performed.
-
----
-
-## Taiwan Market Information
-
-Axitinib currently holds **no TFDA marketing authorisations** in Taiwan (市場狀態：未上市). No license records are available.
+| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
+|---------|------|------|------|---------|
+| [NCT03595124](https://clinicaltrials.gov/study/NCT03595124) | Fas 2 | Aktiv, ej rekryterande | 15 | Randomiserad prövning som jämför axitinib + nivolumab mot nivolumab monoterapi vid inoperabelt eller metastaserat TFE/translokations-RCC. Inkluderar alla åldersgrupper. Axitinib verkar genom att blockera enzymer nödvändiga för tumörtillväxt. Beräknad avslutning november 2026. |
 
 ---
 
-## Cytotoxicity
+## Litteraturbevis
 
-Axitinib is an antineoplastic agent (tyrosine kinase inhibitor targeting VEGFR). The following cytotoxicity profile is based on known pharmacological properties:
+Ingen relaterad litteratur tillgänglig för närvarande för denna specifika subtyp.
 
-| Item | Content |
+---
+
+## Marknadsinformation Sverige
+
+Axitinib är för närvarande **inte registrerat i Sverige**. Inga godkännanden finns registrerade hos Läkemedelsverket.
+
+> Notera: Axitinib (Inlyta®) är godkänt av FDA (2012) och EMA för behandling av avancerat njurcellscancer efter tidigare behandling. En introduktion på den svenska marknaden kräver separat ansökan till Läkemedelsverket/MPA.
+
+---
+
+## Cytotoxicitet
+
+Axitinib är ett antineoplastiskt läkemedel (VEGFR-tyrosinkinashämmare) avsett för cancerbehandling.
+
+| Post | Innehåll |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (VEGFR tyrosine kinase inhibitor) |
-| Myelosuppression Risk | Low to moderate (anaemia and thrombocytopenia reported; less common than conventional cytotoxics) |
-| Emetogenicity Classification | Low to moderate |
-| Monitoring Items | Blood pressure (hypertension is a class effect), CBC with differential, thyroid function (hypothyroidism risk), liver function tests (ALT/AST), urinalysis (proteinuria), cardiac function |
-| Handling Protection | Oral formulation — standard handling precautions for anticancer agents apply; no special cytotoxic spill procedures typically required for intact oral tablets |
+| Cytotoxicitetsklassificering | Målriktad terapi – selektiv VEGFR-tyrosinkinashämmare (TKI), ej konventionell cytotoxisk kemoterapi |
+| Myelosuppressionsrisk | Låg till medel; TKI-klass orsakar sällan allvarlig benmärgssuppression jämfört med konventionell kemoterapi |
+| Emetogenicitetsklassificering | Låg till medel (oral TKI; illamående förekommer men är sällan av hög grad) |
+| Övervakningspunkter | Blodtryck (hypertension är vanlig biverkan), tyreoideafunktion (hypo- och hypertyreoidism), leverfunktion (ASAT/ALAT), fullständigt blodstatus, njurfunktion |
+| Hanteringsskydd | Oral beredning (tablett); standardrutiner för hantering av orala antineoplastiska läkemedel tillämpas |
 
 ---
 
-## Safety Considerations
+## Säkerhetsaspekter
 
-Safety data (key warnings, contraindications, drug–drug interactions) are currently **not available** in the evidence pack. TFDA package insert data was queried but detailed warnings and contraindications were not extracted.
+Fullständig säkerhetsbedömning kunde inte genomföras på grund av saknad produktinformation för den svenska marknaden (se datagap DG001).
 
-> Please refer to the package insert for complete safety information. Key class-effect concerns for VEGFR-TKIs include: hypertension, arterial/venous thromboembolic events, haemorrhage, cardiac failure, gastrointestinal perforation, wound healing complications, reversible posterior leukoencephalopathy syndrome (RPLS), hepatotoxicity, and proteinuria.
+> Se produktresumén (SmPC) för fullständig information om varningar, kontraindikationer och säkerhetsdata.
 
 ---
 
-## Conclusion and Next Steps
+## Slutsats och nästa steg
 
-**Decision: Hold**
+**Beslut: Fortsätt med försiktighet**
 
-**Rationale:**
-The TxGNN prediction pipeline has not yet generated candidate repurposing indications for Axitinib. Additionally, the drug is not currently marketed in Taiwan (no TFDA authorisations), and critical data fields — including MOA, safety warnings, and contraindications — remain unpopulated. There is insufficient information to proceed with any repurposing evaluation at this time.
+**Motivering:**
+Axitinib har en välgrundad verkningsmekanism för VEGFR-driven njurcancer, och TFE3-fusionsproteinets roll i VEGF-A-uppregulering ger en tydlig biologisk koppling till denna subtyp. En pågående fas 2-prövning (NCT03595124) ger direkt klinisk evidens, men det lilla urvalet (n=15) och frånvaron av publicerade resultat motiverar ett avvaktande förhållningssätt tills fullständiga data föreligger.
 
-**To proceed, the following is needed:**
-- Complete TxGNN prediction run to populate `predicted_indications` with scored candidate diseases
-- Retrieve detailed mechanism of action (MOA) data from DrugBank API (Data Gap DG002)
-- Obtain TFDA package insert warnings and contraindications (Data Gap DG001, Blocking severity)
-- Perform drug–drug interaction query once the target indication and its standard-of-care regimens are known
-- Reassess Taiwan market pathway feasibility (drug is currently not marketed — would require new drug application or special import pathway)
+**För att gå vidare krävs:**
+- Invänta slutresultat från NCT03595124 (beräknad avslutning november 2026)
+- Inhämta och granska fullständig SmPC/produktresumé för formell säkerhetsbedömning (datagap DG001)
+- Komplettera MOA-data via DrugBank för fördjupad mekanismanalys (datagap DG002)
+- Utvärdera pediatrisk dosering och långtidssäkerhet (tillväxt, kardiovaskulär uppföljning) separat för barn och unga vuxna
+- Vid bekräftad klinisk evidens: inleda registreringsprocess hos Läkemedelsverket/MPA
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

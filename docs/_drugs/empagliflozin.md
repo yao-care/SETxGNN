@@ -2,7 +2,7 @@
 layout: default
 title: Empagliflozin
 parent: 僅模型預測 (L5)
-nav_order: 53
+nav_order: 41
 evidence_level: L5
 indication_count: 3
 ---
@@ -10,12 +10,12 @@ indication_count: 3
 # Empagliflozin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,79 +25,76 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-Using the `txgnn-pipeline` skill for context, and applying the Drug Repurposing Evaluation Report v5 format to the provided Evidence Pack. Note: Empagliflozin is not antineoplastic, so the Cytotoxicity section is omitted. Sweden Market Information section is also omitted as there are zero registered products.
+Jag har läst igenom Evidence Pack och identifierat relevanta fält. Nu genererar jag rapporten på svenska.
 
 ---
 
-# Empagliflozin: From Type 2 Diabetes to Focal Stiff Limb Syndrome
+# Empagliflozin: Från typ 2-diabetes till fokal styv lemm-syndrom
 
-## One-Sentence Summary
+## Sammanfattning
 
-Empagliflozin is a sodium-glucose cotransporter-2 (SGLT2) inhibitor, primarily used globally for type 2 diabetes mellitus, heart failure, and chronic kidney disease — however, no registered products were found in this dataset.
-The TxGNN model predicts it may be effective for **Focal Stiff Limb Syndrome**,
-with **0 clinical trials** and **0 publications** currently supporting this direction, making this an entirely model-driven prediction.
+Empagliflozin är en SGLT2-hämmare som primärt används för behandling av typ 2-diabetes, hjärtsvikt och kronisk njursjukdom. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **fokal styv lemm-syndrom (focal stiff limb syndrome)**, med ett prediktionspoäng på **99,1 %**. Det finns dock **inga kliniska prövningar eller publicerad litteratur** som stöder denna riktning, vilket innebär att evidensen uteslutande baseras på modellens förutsägelse.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
-|------|---------|
-| Original Indication | Not available (no registered products found in dataset) |
-| Predicted New Indication | Focal Stiff Limb Syndrome |
-| TxGNN Prediction Score | 99.06% |
-| Evidence Level | L5 |
-| Sweden Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available in this dataset. Based on established pharmacology, empagliflozin is an SGLT2 inhibitor that reduces renal glucose reabsorption, leading to glucosuria, osmotic diuresis, and downstream cardiorenal protective effects. Its proven therapeutic benefits cover metabolic and cardiovascular-renal axes.
-
-Focal stiff limb syndrome is a localized variant of stiff person syndrome (SPS), whose core pathology is the loss of inhibitory GABAergic neurotransmission in the spinal cord and brainstem, driven by autoantibodies against GAD65 (glutamic acid decarboxylase 65). This autoimmune neurological mechanism has no direct intersection with SGLT2 inhibition's known pharmacodynamic pathways.
-
-A highly indirect mechanistic bridge has been proposed: SGLT2 inhibitors are known to suppress NF-κB signaling and NLRP3 inflammasome activation, thereby reducing pro-inflammatory cytokines such as IL-6 and TNF-α. In theory, this could provide a modest supplementary anti-inflammatory effect relevant to autoimmune neuroinflammation. However, no published evidence currently supports that this mechanism influences GAD65 antibody titers or clinical SPS symptoms. Furthermore, SGLT2 is predominantly expressed in renal proximal tubules with negligible central nervous system expression, making direct CNS action pharmacologically implausible. The high TxGNN score (0.99) most likely reflects the topological proximity of "metabolic disease – autoimmunity – nervous system" nodes in the knowledge graph, rather than a direct biological correspondence.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Ej registrerad i Sverige (ingen produktresumé tillgänglig i datakällan) |
+| Förutsagd ny indikation | Fokal styv lemm-syndrom (focal stiff limb syndrome) |
+| TxGNN-förutsägelsepoäng | 99,1 % |
+| Evidensnivå | L5 – Endast modellförutsägelse, inga faktiska studier |
+| Marknadsstatus i Sverige | Ej marknadsförd |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Clinical Trial Evidence
+## Varför är denna förutsägelse rimlig?
 
-Currently no related clinical trials registered.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta Evidence Pack. Baserat på känd information är empagliflozin en SGLT2-hämmare (natriumglukos-kotransportör 2-hämmare) som blockerar glukosreabsorption i njurtubuli och därigenom sänker blodsockret. Utöver denna primära effekt har läkemedlet dokumenterade sekundära egenskaper: det aktiverar AMPK och hämmar NF-κB, vilket ger en viss antiinflammatorisk potential samt möjlig ketogenframkallande och neuroprotektiv verkan via β-hydroxibutyrat.
 
----
+Fokal styv lemm-syndrom (FSLS) är en lokaliserad variant av Stiff Person Syndrome och orsakas av anti-GAD65-autoantikroppar som stör GABAerg neurotransmission, vilket leder till progressiv stelhet och spasmer i en enskild extremitet. Den teoretiska länken till empagliflozin är ytterst indirekt: AMPK-aktivering och NF-κB-hämning kan i teorin påverka det autoimmuna mikromiljön, men det saknas helt direkta bevis för att SGLT2-blockad interfererar med anti-GAD65-medierad autoimmunitet eller GABAerg signalering.
 
-## Literature Evidence
-
-Currently no related literature available.
+Det bör särskilt noteras att TxGNN-förutsägelsepoängen för FSLS och klassisk SPS är exakt identiska (0,9906), vilket starkt tyder på att modellen har extrapolerat från sjukdomsnodlikhet i kunskapsgrafen snarare än identifierat en specifik biologisk mekanism. Den biologiska plausibiliteten för denna indikation bedöms som mycket låg.
 
 ---
 
-## Safety Considerations
+## Kliniska prövningar
 
-Please refer to the package insert for safety information.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Conclusion and Next Steps
+## Litteraturbevis
 
-**Decision: Hold**
+Ingen relaterad litteratur tillgänglig för närvarande.
 
-**Rationale:**
-There is no clinical trial or published literature supporting the use of empagliflozin in focal stiff limb syndrome or any stiff person syndrome spectrum disorder, and the proposed mechanistic link is highly speculative and indirect — the TxGNN prediction is most likely an artifact of knowledge graph topology rather than actionable biological plausibility.
+---
 
-**To proceed, the following is needed:**
-- Retrieve full mechanism of action (MOA) data from DrugBank to formally assess any indirect anti-inflammatory or neuroimmune pathways
-- Obtain safety data (key warnings, contraindications, drug interactions) from the TFDA package insert or MPA/EMA product labeling
-- Conduct a targeted literature review to determine whether any SGLT2 inhibitor class effect has been observed in CNS autoimmune conditions
-- Commission preclinical feasibility assessment (in vitro GABAergic neuron models or SPS animal models) before any clinical hypothesis can be formulated
-- Reassess TxGNN prediction in the context of alternative disease rankings — classic stiff person syndrome (rank 2) and opsismodysplasia (rank 3) share identical or near-identical scores, suggesting the model may not be discriminating meaningfully between these targets
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- Förutsägelsen saknar helt stöd från kliniska prövningar eller publicerad litteratur, och den mekanistiska kopplingen mellan SGLT2-hämning och fokal styv lemm-syndrom är ytterst svag — sannolikt en artefakt av sjukdomsnodlikhet i TxGNN-kunskapsgrafen snarare än en biologiskt meningsfull signal.
+
+**För att gå vidare krävs:**
+- Prekliniska studier som undersöker om SGLT2-hämning eller AMPK-aktivering har mätbar effekt på anti-GAD65-medierad neuroinflammation
+- Kartläggning av om β-hydroxibutyrat-medierad HDAC-hämning kan påverka GABAerg neuronsfunktion i djurmodeller av SPS/FSLS
+- Granskning av empagliflozins fullständiga säkerhetsprofil och produktresumé för att identifiera eventuella relevanta kontraindikationer
+- Bedömning av om de övriga förutsagda indikationerna (klassisk SPS, opsismodysplasi) delar samma svaga evidensbas och bör avfärdas gemensamt
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

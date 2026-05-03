@@ -2,7 +2,7 @@
 layout: default
 title: Tobramycin
 parent: 僅模型預測 (L5)
-nav_order: 124
+nav_order: 103
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Tobramycin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,92 +25,97 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-The txgnn-pipeline skill covers technical pipeline operations and isn't specific to report writing here. The main system prompt provides the complete report format. I'll now generate the evaluation report.
+Nu skriver jag rapporten enligt specifikationen för Evidence Pack v4.
 
 ---
 
-# Tobramycin: From Gram-negative Bacterial Infections to Exposure Keratitis
+# Tobramycin: Från Pseudomonas aeruginosa-infektion till exponeringskeratit
 
-## One-Sentence Summary
+## Sammanfattning
 
-Tobramycin is a broad-spectrum aminoglycoside antibiotic with well-established bactericidal activity against Gram-negative organisms — particularly *Pseudomonas aeruginosa* — used in serious bacterial infections including pulmonary infections in cystic fibrosis and necrotizing otitis externa.
-The TxGNN model predicts it may be effective for **Exposure Keratitis** (score: 99.93%), with **2 clinical trials** and **7 publications** identified in the surrounding evidence — though none directly evaluate tobramycin as a treatment for this specific condition.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Gram-negative bacterial infections (*Pseudomonas aeruginosa* and related organisms) |
-| Predicted New Indication | Exposure Keratitis |
-| TxGNN Prediction Score | 99.93% |
-| Evidence Level | L4 |
-| Sweden Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+Tobramycin är ett aminoglykosidantibiotikum som internationellt är etablerat för behandling av allvarliga infektioner orsakade av gramnegativa bakterier – i synnerhet *Pseudomonas aeruginosa* vid cystisk fibros och bakteriell keratit – men saknar marknadsgodkännande i Sverige. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **exponeringskeratit** (exposure keratitis), en icke-infektiös hornhinnesjukdom orsakad av ofullständig ögonlocksslutning. Förutsägelsen stöds av **2 kliniska prövningar** och **7 publikationer**, men dessa är samtliga indirekta och evidensnivån bedöms som **L4**, vilket innebär att beslutet för denna indikation är **Avvakta**.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Snabböversikt
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacology, tobramycin is an aminoglycoside antibiotic whose bactericidal activity derives from irreversible binding to the bacterial 30S ribosomal subunit, inhibiting protein synthesis. It is particularly effective against aerobic Gram-negative bacteria and demonstrates concentration-dependent killing — properties that underpin its clinical use against *Pseudomonas aeruginosa* across multiple infection sites.
-
-The mechanistic connection to exposure keratitis is indirect but biologically plausible. Exposure keratitis occurs when incomplete eyelid closure leaves the corneal epithelium chronically unprotected; this barrier disruption substantially raises the risk of secondary bacterial superinfection, with Gram-negative pathogens among the chief culprits. In this context, topical tobramycin acts not as a treatment for the underlying exposure itself, but as prophylactic or adjunctive antibacterial coverage — a role well-supported by its ophthalmic formulation's activity spectrum.
-
-One critical caution arises from the literature: PMID 2707046 demonstrates, in a rabbit corneal epithelial cell model, that tobramycin — alongside other aminoglycosides — exhibits direct cytotoxicity to corneal epithelial cells. Since the cornea in exposure keratitis is already compromised, prolonged topical aminoglycoside use could potentially worsen epithelial damage rather than promote healing. This safety signal means the therapeutic window for tobramycin in this setting requires careful evaluation.
-
----
-
-## Clinical Trial Evidence
-
-Neither of the 2 identified trials directly evaluates tobramycin in exposure keratitis (both received Grade C relevance):
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT06200727](https://clinicaltrials.gov/study/NCT06200727) | N/A | Unknown | 170 | Evaluates platelet-rich fibrin (PRF) membrane for four ophthalmic conditions (macular hole, pterygium, corneal ulcer, glaucoma trabeculectomy); no tobramycin component |
-| [NCT05313828](https://clinicaltrials.gov/study/NCT05313828) | N/A | Unknown | 40 | Compares treatment modalities for dendritic herpetic (HSV) keratitis; viral etiology — tobramycin has no antiviral activity |
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Ej registrerad i Sverige – tobramycin används internationellt mot gramnegativa bakterieinfektioner (inkl. *Pseudomonas aeruginosa* vid cystisk fibros och bakteriell keratit) |
+| Förutsagd ny indikation | Exponeringskeratit (exposure keratitis) |
+| TxGNN-förutsägelsepoäng | 99,93% |
+| Evidensnivå | L4 – prekliniska studier och mekanismstudier |
+| Marknadsstatus i Sverige | Ej marknadsgodkänt |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Literature Evidence
+## Varför är denna förutsägelse rimlig?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [34987857](https://pubmed.ncbi.nlm.nih.gov/34987857/) | 2021 | Case Report | Oxford Medical Case Reports | MDR *Shewanella algae* bacterial keratitis in a vegetative patient unable to close his eyes — directly illustrates the secondary bacterial keratitis risk in prolonged corneal exposure |
-| [11581057](https://pubmed.ncbi.nlm.nih.gov/11581057/) | 2001 | Case Report | Ophthalmology | First reported contact lens-related *Bacillus cereus* keratitis and ulcer from contaminated lens case; highlights Gram-positive bacterial pathogen diversity in corneal infections |
-| [12861116](https://pubmed.ncbi.nlm.nih.gov/12861116/) | 2003 | Case Report | Eye & Contact Lens | Bilateral MRSA keratitis following photorefractive keratectomy; illustrates the need for antibacterial prophylaxis after any corneal barrier disruption |
-| [2707046](https://pubmed.ncbi.nlm.nih.gov/2707046/) | 1989 | In Vitro Study | Current Eye Research | **Key safety signal**: tobramycin (alongside neomycin, gentamicin, amikacin) demonstrated cytotoxicity to rabbit corneal epithelial cells in culture; exposure duration and concentration both matter |
-| [17228760](https://pubmed.ncbi.nlm.nih.gov/17228760/) | 2006 | MIC Study | Nippon Ganka Gakkai Zasshi | MIC and post-antibiotic effect of antibiotic eyedrops (including tobramycin) against isolates from the Japanese National Surveillance of Infectious Keratitis — provides in vitro activity benchmarks |
-| [14574976](https://pubmed.ncbi.nlm.nih.gov/14574976/) | 2003 | Case Report | Eye Science | Paracentral corneal dellen in Graves ophthalmopathy — example of corneal exposure from incomplete eyelid closure, illustrating the clinical context tobramycin might address |
-| [33847093](https://pubmed.ncbi.nlm.nih.gov/33847093/) | 2021 | Retrospective Case Series | Polish Journal of Veterinary Sciences | Feline ocular toxoplasmosis treatment outcomes (60 cases); limited direct applicability to human exposure keratitis |
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i Evidence Pack. Baserat på känd farmakologi är tobramycin ett aminoglykosidantibiotikum som hämmar bakteriell proteinsyntes genom att binda till 30S-ribosomala subenheten, vilket orsakar felläsning av mRNA och produktion av dysfunktionella proteiner. Läkemedlet har bevisad klinisk effekt mot *Pseudomonas aeruginosa*, *Staphylococcus aureus* och andra gramnegativa patogener, och tobramycin i ögondroppsform är sedan länge etablerat vid bakteriell keratit.
+
+Exponeringskeratit uppstår när ögonlocket inte kan sluta sig fullständigt – exempelvis vid Graves oftalmopati, facialispares eller vegetativt tillstånd – vilket leder till att hornhinnan torkar ut och utsätts för mekanisk irritation. Sjukdomen är primärt **icke-infektiös** och behandlas i första hand med tårsubstitut, ögonlocksförband och i svårare fall kirurgisk tarsorrafi. Sekundär bakteriell superinfektion är dock en känd komplikation, och det är i detta sammanhang tobramycin hypotetiskt skulle kunna ha en adjuvant roll.
+
+Den mekanistiska kopplingen är alltså svag: tobramycin saknar verkan mot den underliggande hornhinneskadan vid exponeringskeratit och kan som mest fungera som profylax eller behandling av sekundärinfektion. TxGNN-modellens höga poäng förklaras sannolikt av nätverkets statistiska kopplingar mellan korneala sjukdomsentiteter snarare än en direkt biologisk logik – en känd begränsning när "keratit" ingår i sjukdomsnamnet utan att orsaksmekanismen är infektiös.
 
 ---
 
-## Safety Considerations
+## Kliniska prövningar
 
-Please refer to the package insert for complete safety information. Based on evidence identified within this review:
+| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
+|----------------|-----|--------|-----------|--------------|
+| [NCT06200727](https://clinicaltrials.gov/study/NCT06200727) | Ej fas | Okänd | 170 | Utvärderar PRF-membran (Platelet-rich Fibrin) vid fyra ögontillstånd: makulahål, pterygium, hornhinnesår och glaukom efter trabekelektomi. Tobramycin är inte studieläkemedlet och exponeringskeratit ingår inte som målindikation – indirekt koppling via okulär ytsjukdom. |
+| [NCT05313828](https://clinicaltrials.gov/study/NCT05313828) | Ej fas | Okänd | 40 | Jämför behandlingsmodaliteter vid dendritisk (viral) keratit orsakad av herpes simplex-virus (HSV). Varken tobramycin som primärläkemedel eller exponeringskeratit som målsjukdom – sjukdomsmekanismen (viral) skiljer sig fundamentalt från exponeringskeratit. |
 
-- **Corneal epithelial toxicity**: In vitro data (PMID 2707046) confirms aminoglycoside-class toxicity to corneal epithelial cells, including tobramycin. This is a specific and clinically meaningful concern for topical use on an already-compromised corneal surface in exposure keratitis.
+> **Notering:** Båda prövningarna bedöms ha grad C-relevans. Inga kliniska prövningar av tobramycin specifikt vid exponeringskeratit är registrerade.
 
 ---
 
-## Conclusion and Next Steps
+## Litteraturbevis
 
-**Decision: Hold**
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|----|-----|-----------|--------------|
+| [34987857](https://pubmed.ncbi.nlm.nih.gov/34987857/) | 2021 | Fallrapport | Oxford Medical Case Reports | Bakteriell keratit orsakad av multiresistent *Shewanella algae* hos en patient i vegetativt tillstånd som inte kunde sluta ögonen voluntärt – kliniskt scenario direkt analogt med exponeringskeratit med sekundär bakteriell komplikation. |
+| [11581057](https://pubmed.ncbi.nlm.nih.gov/11581057/) | 2001 | Fallrapport | Ophthalmology | *Bacillus cereus*-keratit kopplad till kontaktlinsbärande – illustrerar hur hornhinnesårbarhet kan leda till opportunistisk bakteriell infektion, vilket är relevant för exponeringskeratitens komplikationsbild. |
+| [12861116](https://pubmed.ncbi.nlm.nih.gov/12861116/) | 2003 | Fallrapport | Eye & Contact Lens | Bilateral MRSA-keratit efter PRK – belyser vikten av antibiotikaprofylax vid procedurer som komprometterar hornhinnans barriärfunktion. |
+| [33847093](https://pubmed.ncbi.nlm.nih.gov/33847093/) | 2021 | Retrospektiv fallserie | Polish Journal of Veterinary Sciences | Okulär toxoplasmos hos 105 katter behandlad med kombinationsregim innehållande tobramycin – veterinärkontext med begränsad translationsbarhet till human exponeringskeratit. |
+| [2707046](https://pubmed.ncbi.nlm.nih.gov/2707046/) | 1989 | In vitro-studie | Current Eye Research | Jämförande cytotoxicitetsanalys av fyra aminoglykosider (neomycin, gentamicin, tobramycin, amikacin) på odlade kaninhornhinneepitelceller. Tobramycin uppvisade lägst epitelcytotoxicitet bland de testade aminoglykosiderna – relevant för säkerhetsbedömning vid lokal användning. |
+| [17228760](https://pubmed.ncbi.nlm.nih.gov/17228760/) | 2006 | Laboratoriestudie | Nippon Ganka Gakkai Zasshi | MIC och post-antibiotisk effekt för ögondroppsantibiotika mot isolat från infektiös keratit i Japan – tobramycin ingår i jämförelsen och visar god aktivitet mot vanliga keratitpatogener. |
+| [14574976](https://pubmed.ncbi.nlm.nih.gov/14574976/) | 2003 | Fallrapport | Eye Science | Paracentralt kornealt dell hos patient med Graves oftalmopati – direkt kopplat till exponeringskeratit-mekanismen (exoftalmus och ofullständig ögonlocksslutning), men rapporten fokuserar på diagnos snarare än antibiotikabehandling. |
 
-**Rationale:**
-The mechanistic rationale for tobramycin as adjunctive antibacterial prophylaxis in exposure keratitis is biologically plausible, but the evidence base is entirely indirect (L4: in vitro data and case reports of secondary bacterial keratitis). Critically, tobramycin's own corneal epithelial cytotoxicity — demonstrated in vitro — raises the possibility that the drug could worsen an already-fragile corneal surface, creating a risk-benefit balance that has not been formally evaluated in this indication.
+---
 
-**To proceed, the following is needed:**
-- Prospective clinical data specifically evaluating antibacterial prophylaxis strategies in exposure keratitis, with tobramycin as a study arm
-- Head-to-head safety comparison of topical tobramycin vs. fluoroquinolone alternatives (e.g., ciprofloxacin, moxifloxacin) on compromised corneal epithelium
-- Complete MOA and safety data retrieved from DrugBank and TFDA/MPA package insert (currently flagged as data gaps DG001 and DG002)
-- Ophthalmic formulation regulatory status confirmed for the target market before any clinical pathway is designed
+## Marknadsinformation Sverige
+
+Tobramycin saknar marknadsgodkännande i Sverige. Det finns inga registrerade produkter i det svenska läkemedelsregistret (Läkemedelsverket). Eventuell klinisk användning kräver licensansökan eller import via nationellt undantagsförfarande.
+
+---
+
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+Exponeringskeratit är en icke-infektiös tillstånd där tobramycin saknar primär terapeutisk verkningsmekanism; läkemedlet kan som mest ha en adjuvant roll vid sekundär bakteriell superinfektion, inte som behandling av grundsjukdomen. L4-evidensnivån bygger uteslutande på indirekta fallrapporter och in vitro-studier utan en enda klinisk prövning riktad mot denna indikation, vilket är otillräckligt för att motivera vidare utredning i nuläget.
+
+**För att gå vidare krävs:**
+- Prospektiv klinisk prövning som specifikt utvärderar tobramycin (eller bredspektrum-aminoglykosid) som profylax mot sekundärinfektion vid exponeringskeratit
+- Verkningsmekanism-data (DrugBank MOA, datagap DG002) för att bättre bedöma mekanistisk relevans
+- Säkerhets- och kontraindikationsdata (datagap DG001) innan säkerhetsinitialvärdering (S1) kan genomföras
+- Tydligare definition av indikationsgränsen: är målet primärbehandling, adjuvant antibiotikaprofylax, eller specifik patientsubgrupp med kombinerad bakteriell superinfektion?
+
+> **Not om bredare kontext:** Bland samtliga 10 förutsagda indikationer uppvisar **extern otit** (rank 3, L3) och **post-bacterial disorder/CF-Pseudomonas** (rank 5, L1) väsentligt starkare evidens och bättre mekanistisk koppling till tobramycins kända antibakteriella profil. Dessa indikationer kan lämpa sig bättre för fortsatt utredning om läkemedlet ska prioriteras.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

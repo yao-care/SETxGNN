@@ -2,7 +2,7 @@
 layout: default
 title: Tretinoin
 parent: 僅模型預測 (L5)
-nav_order: 129
+nav_order: 108
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Tretinoin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,100 +25,100 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-Now I have the necessary context. Let me generate the evaluation report based on the Evidence Pack, following the Drug Repurposing Evaluation Report Prompt (v5) format. The top predicted indication is **rheumatoid nodulosis** (rank 1), with no supporting evidence — and osteoarthritis (rank 7) carries the strongest mechanistic literature.
+Med `txgnn-pipeline`-skillet laddat som vägledning, genererar jag nu rapporten baserat på Evidence Pack-data. Tretinoin (ATRA) är ett välkänt retinoid – jag använder etablerad farmakologi för att fylla luckor där `original_indications` och `original_moa` saknas i JSON:en.
 
 ---
 
-# TRETINOIN: From Acute Promyelocytic Leukemia to Rheumatoid Nodulosis
+# Tretinoin: Från akne och akut promyelocytisk leukemi till reumatoid nodulos
 
-## One-Sentence Summary
+## Sammanfattning
 
-Tretinoin (all-trans retinoic acid, ATRA) is a vitamin A derivative with internationally established clinical use in acute promyelocytic leukemia (APL) and acne vulgaris, though it carries no registered indications in Taiwan.
-The TxGNN model predicts it may be effective for **Rheumatoid Nodulosis**, yet **no clinical trials** and **no supporting literature** exist for this specific direction — placing the prediction at the lowest evidence tier (L5).
-Without any experimental validation, this signal is currently insufficient to support clinical development planning.
+Tretinoin (all-trans-retinsyra, ATRA) är ett retinoid som traditionellt används för behandling av akne vulgaris (topikalt) och akut promyelocytisk leukemi (systemiskt). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **reumatoid nodulos**, men det finns för närvarande **inga kliniska prövningar** och **inga relevanta publikationer** som stödjer denna specifika indikation. Förutsägelsen baseras uteslutande på kunskapsgrafens strukturella samband och saknar empirisk evidensgrund.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
-|------|---------|
-| Original Indication | Not registered in Taiwan; internationally used for acute promyelocytic leukemia and acne vulgaris |
-| Predicted New Indication | Rheumatoid Nodulosis |
-| TxGNN Prediction Score | 99.84% |
-| Evidence Level | L5 |
-| Taiwan Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why Is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available from the pipeline (DrugBank API query pending). Based on established pharmacological knowledge, Tretinoin is an endogenous retinoid that binds nuclear retinoic acid receptors (RAR-α, RAR-β, RAR-γ), acting as a transcriptional regulator of genes governing cellular differentiation, proliferation, and immune homeostasis. Its most clinically significant systemic role is inducing terminal differentiation of malignant promyelocytes in APL via degradation of the PML-RARα fusion protein; topically, it normalises follicular keratinocyte turnover in acne.
-
-The immunomodulatory pathway is where TxGNN likely infers a connection to rheumatoid nodulosis. Retinoic acid is known to promote CD4⁺ regulatory T cells (Tregs) while suppressing pro-inflammatory Th17 differentiation, shifting the immune balance away from autoimmune-driven tissue damage. Rheumatoid nodulosis is a rare subtype of rheumatoid arthritis characterised by recurrent subcutaneous rheumatoid nodule formation (macrophage-driven granuloma) in a Th1/Th17-predominant inflammatory milieu, often with surprisingly mild articular disease.
-
-However, this mechanistic inference remains entirely theoretical. The pathophysiology of rheumatoid nodulosis — granuloma formation anchored by activated macrophages and complement deposition — is distinct from classical RA synovitis, and systemic Th17 suppression may not address the local granuloma microenvironment. There are currently no preclinical animal models, in vitro studies, or clinical trial registrations testing this hypothesis. The TxGNN score should be interpreted as a computational signal only, requiring independent experimental validation before any further investment is warranted.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Akne vulgaris (topikalt); akut promyelocytisk leukemi (systemiskt) – inga svenska godkännanden tillgängliga |
+| Förutsagd ny indikation | Reumatoid nodulos (rheumatoid nodulosis) |
+| TxGNN-förutsägelsepoäng | 99,84% |
+| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
+| Marknadsstatus i Sverige | Ej godkänd |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Clinical Trial Evidence
+## Varför är denna förutsägelse rimlig?
 
-Currently no related clinical trials registered.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det inlämnade underlaget. Baserat på känd farmakologi är Tretinoin en potent agonist för retinsyrareceptorerna RARα, RARβ och RARγ, vilka reglerar genuttryck kopplat till celldifferentiering, immunmodulering och inflammation. Tretinoin är en del av retinoidklassen (vitamin A-derivat) vars effekt vid akne (normalisering av follikulär keratinisering och talgproduktion) och vid APL (induktion av leukemisk blastdifferentiering via RARα-PML-fusionsproteinbrytning) är väldokumenterad.
 
----
+Den teoretiska kopplingen till reumatoid nodulos bygger på att RARα/β/γ-aktivering kan dämpa NF-κB-signalering och gynna M2-makrofagpolarisering – mekanismer som i teorin motverkar granulombildning, vilket är det centrala patologiska draget vid reumatoid nodulos. Dessutom har ATRA visat immunsuppressiva egenskaper genom reglering av Th17/Treg-balansen, vilket är relevant vid autoimmuna tillstånd.
 
-## Literature Evidence
-
-Currently no related literature available.
+Det bör dock understrykas att detta samband är rent spekulativt. Det saknas helt preklinisk eller klinisk forskning specifikt inriktad på Tretinoin vid reumatoid nodulos, och avståndet från de etablerade indikationerna till detta reumatologiska tillstånd är mekanistiskt sett betydande.
 
 ---
 
-## Taiwan Market Information
+## Kliniska prövningar
 
-Tretinoin has no registered products in Taiwan. No authorizations on record.
-
----
-
-## Cytotoxicity
-
-Tretinoin (ATRA) is classified as an antineoplastic differentiating agent for APL treatment and meets the criteria for inclusion of this section.
-
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Differentiating agent (Retinoid class) — not a conventional cytotoxic; acts via nuclear receptor transcriptional regulation, not DNA damage |
-| Myelosuppression Risk | Low for tretinoin monotherapy; the primary haematological concern is **ATRA Differentiation Syndrome** (fever, respiratory distress, fluid retention, pleuropericardial effusion) rather than myelosuppression per se |
-| Emetogenicity Classification | Low to moderate |
-| Monitoring Items | CBC with differential, liver function tests (ALT/AST/bilirubin), serum triglycerides and cholesterol, signs of differentiation syndrome (SpO₂, chest X-ray), pregnancy status |
-| Handling Protection | Standard chemotherapy precautions apply; highly teratogenic (Pregnancy Category X) — strict dual contraception and pregnancy avoidance protocols are mandatory for all patients of childbearing potential |
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Safety Considerations
+## Litteraturbevis
 
-Please refer to the package insert for safety information.
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
-## Conclusion and Next Steps
+## Marknadsinformation Sverige
 
-**Decision: Hold**
+Tretinoin är inte godkänt i Sverige. Inga godkännanden är registrerade hos Läkemedelsverket (MPA). Produkten saknar marknadsstatus i det svenska systemet.
 
-**Rationale:**
-Despite a high TxGNN prediction score (99.84%), rheumatoid nodulosis is an evidence-empty indication for tretinoin — no preclinical studies, no clinical trials, and no supporting publications exist. The mechanistic link via Th17/Treg modulation is biologically plausible but unvalidated, and the unique granuloma-driven pathology of rheumatoid nodulosis makes extrapolation from general immunomodulatory data unreliable.
+---
 
-**To proceed, the following is needed:**
+## Cytotoxicitet
 
-- **Preclinical proof-of-concept**: In vitro macrophage polarisation and granuloma formation models, or murine models of rheumatoid nodule development, to test tretinoin's effect on the granuloma microenvironment
-- **MOA data retrieval**: Complete the DrugBank API query (DG002) to formally document tretinoin's immunomodulatory targets and confirm overlap with rheumatoid nodulosis pathways
-- **Safety data**: Obtain and parse the TFDA package insert PDF (DG001) to enable S1 safety pre-assessment; pay particular attention to teratogenicity management and differentiation syndrome risk in non-APL populations
-- **Adjacent indication reassessment**: Consider prioritising **osteoarthritis** (TxGNN rank 7, L4 evidence, 20 publications including GWAS and mechanistic studies on the ALDH1A2/retinoic acid axis) as a stronger near-term research candidate; mechanistic literature there may also illuminate whether local vs. systemic RA concentration determines pro- or anti-inflammatory outcomes
-- **Indication-specific feasibility review**: Given that rheumatoid nodulosis is a rare RA subtype with no disease-modifying treatment registrations, confirm target patient population size and clinical trial feasibility before any programme commitment
+Tretinoin uppfyller kriterierna för antineoplastisk klassificering: läkemedlet används systemiskt vid akut promyelocytisk leukemi (APL), en cancerdiagnos, och ingår i etablerade cytotoxiska behandlingsprotokoll. Bedömningen nedan avser systemisk användning.
+
+| Post | Innehåll |
+|------|----------|
+| Cytotoxicitetsklassificering | Differentieringsmedel (målriktad terapi) – RARα-agonist som inducerar terminal differentiering av leukemiska blastar via nedbrytning av PML-RARα-fusionsproteinet |
+| Myelosuppressionsrisk | Medel – Differentieringssyndrom (tidigare kallat ATRA-syndrom) kan utlösas under APL-behandling med feber, andningspåverkan och organsvikt; direkt benmärgssuppression är lägre än vid konventionell cytostatikabehandling |
+| Emetogenicitetsklassificering | Låg–Medel |
+| Övervakningspunkter | Fullständigt blodstatus med differentialräkning, levervärden (ALAT, ASAT, ALP), kreatinin, koagulationsprover (PK/INR, fibrinogen); klinisk övervakning för tecken på differentieringssyndrom (feber, dyspné, pleuravätska, viktökning) |
+| Hanteringsskydd | Systemisk Tretinoin (mjuka kapslar) hanteras enligt rutiner för antineoplastiska läkemedel vid beredning och administrering; topikal beredning kräver inga speciella cytotoxiska skyddsåtgärder |
+
+---
+
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+> **Notering:** Fullständig säkerhetsdata (varningar, kontraindikationer, läkemedelsinteraktioner) för det svenska godkännandet saknas i detta underlag. Detta är en identifierad dataklass av blockerande karaktär (DG001) som måste åtgärdas innan en formell säkerhetsbedömning kan genomföras.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+Trots ett högt TxGNN-förutsägelsepoäng på 99,84% är evidensnivån för Tretinoin vid reumatoid nodulos klassificerad som L5 – det finns inga kliniska prövningar och inga direkta publikationer som stödjer denna indikation, och den mekanistiska länken är rent spekulativ utan stöd av prekliniska data.
+
+**För att gå vidare krävs:**
+- Systematisk litteratursökning om ATRA:s effekt på granulombildning, makrofagpolarisering och NF-κB-signalering vid reumatoida tillstånd
+- Identifiering av in vitro- eller djurmodellstudier för reumatoid nodulos
+- Farmakologisk bedömning av lämplig administreringsväg (topikalt vs. systemiskt) vid reumatoid nodulos
+- Inhämtande av fullständig produktresumé för säkerhetsbedömning (åtgärda DG001: TFDA/EMA-varningar och kontraindikationer)
+- Komplettering av verkningsmekanismdata via DrugBank API (åtgärda DG002)
+- Kontakt med reumatologisk expertis för klinisk bedömning av hypotesens relevans
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

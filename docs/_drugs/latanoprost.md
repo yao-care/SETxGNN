@@ -2,7 +2,7 @@
 layout: default
 title: Latanoprost
 parent: 僅模型預測 (L5)
-nav_order: 74
+nav_order: 62
 evidence_level: L5
 indication_count: 10
 ---
@@ -10,12 +10,12 @@ indication_count: 10
 # Latanoprost
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,56 +25,81 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# Latanoprost: From Ocular Hypertension / Open-Angle Glaucoma — No Repurposing Prediction Available
-
-## One-Sentence Summary
-
-Latanoprost is a prostaglandin F2α analogue widely used as an ophthalmic solution to reduce intraocular pressure in open-angle glaucoma and ocular hypertension.
-The current Evidence Pack contains **no TxGNN-generated repurposing predictions** for this compound, and critical regulatory and safety data are absent from the Taiwan MPA database, making a full repurposing evaluation impossible at this stage.
-Without predicted indications, clinical trial evidence, or literature linkage to a new disease target, this candidate cannot advance through the standard evaluation pipeline.
+Jag använder **txgnn-pipeline**-skillet för att kontextualisera arbetsflödet. Uppgiften är att generera en fullständig utvärderingsrapport på svenska baserat på det angivna Evidence Pack. Jag går nu vidare och producerar rapporten direkt.
 
 ---
 
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Ocular hypertension; open-angle glaucoma (ophthalmic use) |
-| Predicted New Indication | Not available |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | Not assessable |
-| Sweden Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+# Latanoprost: Från öppenvinkelglaukom till primärt hereditärt glaukom
 
 ---
 
-## Safety Considerations
+## Sammanfattning
 
-Please refer to the package insert for safety information.
-
-> **Note:** Taiwan MPA package insert data was queried (2026-03-29) with one record located, but warning/contraindication fields were not successfully extracted into this Evidence Pack. Drug interaction data returned no results. Both items require manual resolution before any safety assessment can be completed.
+Latanoprost är ett prostaglandinanalogum som primärt används för att behandla öppenvinkelglaukom och okulär hypertension, genom att sänka det intraokulära trycket (IOP) via ökat uveoscleralt avflöde. TxGNN-modellen förutsäger att det kan vara effektivt mot **primärt hereditärt glaukom**, med **1 avslutad klinisk prövning** som ger indirekt stöd för denna riktning. Inga specifika publikationer för denna indikation har påträffats i litteratursökningen.
 
 ---
 
-## Conclusion and Next Steps
+## Snabböversikt
 
-**Decision: Hold**
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Öppenvinkelglaukom och okulär hypertension (ej registrerad i Sverige) |
+| Förutsagd ny indikation | Primärt hereditärt glaukom |
+| TxGNN-förutsägelsepoäng | 99,88% |
+| Evidensnivå | L2 |
+| Marknadsstatus i Sverige | Ej godkänd |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Fortsätt med försiktighet |
 
-**Rationale:**
-The Evidence Pack for Latanoprost (DB00654) is critically incomplete — the TxGNN model returned zero predicted indications, and both Taiwan MPA safety data and mechanism of action data are missing, making it impossible to conduct even a preliminary repurposing feasibility assessment.
+---
 
-**To proceed, the following is needed:**
+## Varför är denna förutsägelse rimlig?
 
-- **Re-run TxGNN prediction pipeline** for DB00654 to generate candidate repurposing indications; verify that the knowledge graph node for Latanoprost is correctly linked and that the prediction run did not silently fail
-- **Extract MOA from DrugBank API** (DG002 — High severity): Latanoprost is a prostaglandin F2α receptor agonist; mechanistic data is essential for evaluating cross-indication plausibility
-- **Parse Taiwan TFDA package insert PDF** (DG001 — Blocking severity): Retrieve warnings, contraindications, and special population guidance to enable S1 safety screening
-- **Verify drug interaction data source**: DDI query returned no results; confirm whether this reflects a true absence of known interactions or a query failure
-- **Confirm Sweden/EU marketing status** via EMA records: Taiwan MPA shows zero authorizations; independent EU-market verification may yield different regulatory standing for Xalatan or generic equivalents
+Latanoprost verkar som en selektiv agonist mot FP-prostaglandinreceptorn i ögat. Genom att aktivera dessa receptorer ökar latanoprost det uveosclerala kammarvattensavflödet, vilket resulterar i en sänkning av det intraokulära trycket (IOP). Denna tryckreducerande effekt är väletablerad kliniskt och utgör grunden för läkemedlets användning vid glaukom.
+
+Primärt hereditärt glaukom delar samma centrala patofysiologi som öppenvinkelglaukom: ett förhöjt IOP som, om det kvarstår obehandlat, leder till progressiv synnervsskada och synnedsättning. Trots att den hereditära formen orsakas av genetiska defekter – vanligtvis i gener som reglerar trabekelmeshverkens funktion – är den underliggande mekanismen för synnervsskada identisk med den vid förvärvat glaukom.
+
+Prostaglandinanaloga preparat, inklusive latanoprost, räknas i dag till förstahandsvalet vid behandling av flera glaukomformer. Att denna mekanism är applicerbar på den hereditära subtypen stöds av att kliniska prövningar med prostaglandinanaloga redan har genomförts vid pediatriskt och genetiskt betingat glaukom (se NCT01527682 nedan). Förutsägelsens rimlighet är hög givet den direkta mekanistiska kopplingen.
+
+---
+
+## Kliniska prövningar
+
+| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
+|-----------------|-----|--------|-----------|--------------|
+| [NCT01527682](https://clinicaltrials.gov/study/NCT01527682) | Fas 2 | Genomförd | 37 | Studien utvärderade den okulära trycksänkande effekten och säkerhetsprofilen hos latanoprost och dorzolamid vid primärt pediatriskt glaukom refraktärt mot kirurgiska ingrepp. Protokollet ändrades under studiens gång; slutligt inklusionsmål sänktes till 68 ögon (34–68 patienter). Resultat ger initialdata om prostaglandinanalogans effektivitet vid denna population. |
+
+---
+
+## Litteraturbevis
+
+Ingen relaterad litteratur tillgänglig för närvarande.
+
+---
+
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Fortsätt med försiktighet**
+
+**Motivering:**
+- Latanoprostets välkända IOP-sänkande verkningsmekanism via FP-prostaglandinreceptorn är direkt relevant för primärt hereditärt glaukom, vars kärn­patofysiologi är identisk med andra glaukomformer. En avslutad fas 2-prövning med prostaglandinanaloga vid pediatriskt glaukom (NCT01527682) ger ett konkret kliniskt stöd, men specifika resultatdata för den hereditära subtypen behöver verifieras innan vidare beslut kan fattas.
+
+**För att gå vidare krävs:**
+- Granskning av publicerade resultat från NCT01527682 (primära effektmått, IOP-sänkning, säkerhetsutfall)
+- Riktad litteratursökning med bredare söktermer (t.ex. "latanoprost hereditary glaucoma", "prostaglandin juvenile glaucoma") för att identifiera eventuella fallrapporter eller observationsstudier
+- Inhämtning av fullständig säkerhetsinformation (varningar, kontraindikationer, biverkningsprofil) från godkänd produktresumé
+- Komplettering av MOA-data via DrugBank API (DG002) för att stärka mekanismsanalysen
+- Utredning av om pediatrisk dosering och administreringsväg kräver anpassning för den hereditärt drabbade populationen
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

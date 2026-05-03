@@ -10,12 +10,12 @@ indication_count: 0
 # Apremilast
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 

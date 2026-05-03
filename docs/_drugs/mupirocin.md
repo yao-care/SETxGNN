@@ -2,7 +2,7 @@
 layout: default
 title: Mupirocin
 parent: 僅模型預測 (L5)
-nav_order: 97
+nav_order: 76
 evidence_level: L5
 indication_count: 2
 ---
@@ -10,12 +10,12 @@ indication_count: 2
 # Mupirocin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,78 +25,76 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-# Mupirocin: Repurposing Evaluation — Insufficient Data for Full Assessment
-
-## One-Sentence Summary
-
-Mupirocin (DB00410) is a drug currently without registered approvals in Taiwan, and the TxGNN model returned **no predicted new indications** for this candidate in the current pipeline run. Due to missing mechanism of action data, absent original indication records, and no TxGNN output, a complete repurposing evaluation cannot be completed at this stage — a **Hold** decision is recommended until data gaps are resolved.
+Använder **txgnn-pipeline** för att skapa läkemedelsåteranvändningsrapporten för Mupirocin.
 
 ---
 
-## Quick Overview
+# Mupirocin: Från bakteriell hudinfektion till pleural empyem
 
-| Item | Content |
+## Sammanfattning
+
+Mupirocin är ett topikalt antibiotikum som primärt används för behandling av bakteriella hudinfektioner – framför allt impetigo och nasal MRSA-dekolonisering. TxGNN-modellen förutsäger att det kan vara effektivt mot **pleural empyem** (var i lungsäcken), med ett prediktionspoäng på 99,5 %. Det saknas dock helt kliniska prövningar och vetenskapliga publikationer som stöder denna riktning – evidensen är uteslutande baserad på modellförutsägelse.
+
+---
+
+## Snabböversikt
+
+| Post | Innehåll |
 |------|---------|
-| Original Indication | Not available in current Evidence Pack |
-| Predicted New Indication | None — TxGNN returned no predictions |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (model prediction stage not reached) |
-| Taiwan Market Status | 未上市 (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Ursprunglig indikation | Bakteriell hudinfektion (impetigo), MRSA-dekolonisering – ej registrerad i Sverige |
+| Förutsagd ny indikation | Pleural empyem |
+| TxGNN-förutsägelsepoäng | 99,5 % |
+| Evidensnivå | L5 – Endast modellförutsägelse, inga faktiska studier |
+| Marknadsstatus i Sverige | Inte marknadsförd |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Varför är denna förutsägelse rimlig?
 
-No prediction is available to evaluate at this time.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta evidenspaket. Baserat på känd farmakologisk information verkar Mupirocin genom att hämma **isoleucyl-tRNA-syntetas (IleRS)** – ett enzym som är nödvändigt för bakteriell proteinsyntesis. Denna mekanism ger stark antibakteriell aktivitet mot *Staphylococcus aureus* (inklusive MRSA) och *Streptococcus pyogenes*.
 
-Currently, detailed mechanism of action data is not available (Data Gap DG002), and the TxGNN pipeline returned an empty `predicted_indications` array for Mupirocin. Without a scored disease target, it is not possible to assess mechanistic plausibility or biological rationale for any new indication.
+Pleural empyem orsakas ofta av just de patogener som Mupirocin är aktivt mot: *S. aureus* (inklusive MRSA) och streptokocker. Det finns alltså en mekanistisk koppling i att samma bakteriestammar förekommer vid både de ursprungliga hudindikationerna och den förutsagda nya indikationen – vilket sannolikt förklarar det höga TxGNN-poänget via gemensam patogenöverläppning i kunskapsgrafen.
 
-Additionally, the original indication field is empty in the current Evidence Pack, which prevents establishing a disease-space relationship between Mupirocin's approved use and any candidate repurposing target.
-
-To proceed to this section, the following must first be resolved: (1) retrieve MOA from DrugBank API, and (2) re-run TxGNN with a valid input graph node for DB00410.
+Den avgörande praktiska barriären är dock **läkemedelsformen**. Mupirocin finns enbart som topikalt preparat (kräm/salva) med en systemisk biotillgänglighet på under 1 %. Preparatet kan inte nå pleuralutrymmet i terapeutiska koncentrationer via befintlig beredningsform. Klinisk behandling av pleural empyem kräver systemiska antibiotika (t.ex. vankomycin vid MRSA) kombinerat med pleuraldränage. Det finns inga studier på intrapleural instillation av Mupirocin, och det höga prediktionspoänget bedöms återspegla patogenöverläppning snarare än ett realistiskt behandlingsalternativ.
 
 ---
 
-## Clinical Trial Evidence
+## Kliniska prövningar
 
-Currently no related clinical trials registered — TxGNN returned no predicted indications, so no disease target is available to query against.
-
----
-
-## Literature Evidence
-
-Currently no related literature available — no predicted indication target is present to anchor a literature search.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Safety Considerations
+## Litteraturbevis
 
-Please refer to the package insert for safety information.
-
-> All safety fields (key warnings, contraindications, and drug-drug interactions) returned no data in the current Evidence Pack. The TFDA package insert query (Query Log ID 4) was recorded as successful with 1 result, but the structured data was not parsed into the Evidence Pack. The raw insert content should be extracted and loaded before safety evaluation proceeds.
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
-## Conclusion and Next Steps
+## Säkerhetsaspekter
 
-**Decision: Hold**
+Se produktresumén för säkerhetsinformation.
 
-**Rationale:**
-The Evidence Pack for Mupirocin (DB00410) is missing the two inputs required for a repurposing evaluation — TxGNN produced no scored indication predictions, and mechanism of action data is absent — making it impossible to assess either biological plausibility or clinical evidence strength.
+---
 
-**To proceed, the following is needed:**
+## Slutsats och nästa steg
 
-- **[DG001 — Blocking]** Extract and parse TFDA package insert (already retrieved, not yet structured) to obtain approved indications, key warnings, and contraindications
-- **[DG002 — High]** Query DrugBank API for Mupirocin's mechanism of action (pharmacodynamics, drug class, targets)
-- **[Pipeline]** Investigate why TxGNN returned an empty `predicted_indications` array — verify that DB00410 / Mupirocin is present as a node in the knowledge graph and re-run prediction
-- **[Regulatory]** Confirm whether Taiwan non-registration reflects a regulatory gap (drug exists but not filed) or a data absence — cross-check with MPA/EMA registrations to determine if a bridging registration pathway is relevant
-- Once the above are resolved, re-generate the Evidence Pack and re-run this evaluation
+**Beslut: Avvakta**
+
+**Motivering:**
+- Trots ett högt TxGNN-prediktionspoäng (99,5 %) är evidensnivån L5 – utan ett enda kliniskt prövning eller stödjande publikation. Den fundamentala barriären är att Mupirocin enbart finns som topikalt preparat med extremt låg systemisk biotillgänglighet, vilket gör det farmakologiskt olämpligt för behandling av djupgående infektioner som pleural empyem i nuvarande beredningsform.
+
+**För att gå vidare krävs:**
+- Preklinisk dokumentation av en systemisk eller intrapleural formulering av Mupirocin
+- Farmakokinetikdata som visar tillräckliga läkemedelskoncentrationer i pleuravätskan
+- Säkerhetsprofil för icke-topikala beredningsformer
+- Jämförande effektstudie mot etablerad standardbehandling (systemiskt vankomycin + pleuraldränage)
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

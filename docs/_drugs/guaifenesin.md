@@ -2,7 +2,7 @@
 layout: default
 title: Guaifenesin
 parent: 僅模型預測 (L5)
-nav_order: 66
+nav_order: 54
 evidence_level: L5
 indication_count: 5
 ---
@@ -10,12 +10,12 @@ indication_count: 5
 # Guaifenesin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Innehållsförteckning
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,85 +25,90 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Apotekarens bedömningsrapport
 
 </div>
 
-Using the `txgnn-pipeline` skill for context — this is a TxGNN report generation task for the Taiwan (TW) pipeline. Proceeding to generate the report from the Evidence Pack.
+Jag har kontrollerat att `txgnn-pipeline`-skillet gäller det övergripande arbetsflödet men inte specifikt rapportgenerering – det är min inbyggda rapportroll som styr här. Jag skriver nu rapporten direkt utifrån Evidence Pack.
 
 ---
 
-# Guaifenesin: From Expectorant Use to Nasal Cavity Disease
+# Guaifenesin: Från slemupplösande medel till behandling av nässjukdom
 
-## One-Sentence Summary
+## Sammanfattning
 
-Guaifenesin is a well-established expectorant and mucolytic agent, widely used to relieve respiratory congestion by reducing mucus viscosity and promoting airway clearance.
-The TxGNN model predicts it may be effective for **Nasal Cavity Disease** (encompassing conditions such as chronic rhinitis and sinusitis),
-with **1 clinical trial** and **2 publications** currently supporting this direction.
+Guaifenesin är ett välkänt slemupplösande medel (expektorant) som traditionellt används för att minska slemviskositet och underlätta avlägsnandet av slem från luftvägarna. TxGNN-modellen förutsäger att det kan vara effektivt mot **nässjukdom (nasal cavity disease)**, med **1 avslutad klinisk fas 2-prövning** och **2 publikationer** som stöder denna riktning. Mekanistisk koppling bedöms som stark och biologiskt plausibel.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
-|------|---------|
-| Original Indication | Expectorant / mucolytic — no Taiwan regulatory authorization on record |
-| Predicted New Indication | Nasal Cavity Disease |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L2 |
-| Taiwan Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available in the Evidence Pack. However, based on established pharmacological knowledge and the supporting repurposing rationale: Guaifenesin acts as a mucolytic agent by increasing the water content of airway mucosal secretions, thereby reducing mucus viscosity and enhancing the efficiency of nasal ciliary clearance — a mechanism long recognized in respiratory therapeutics.
-
-Nasal cavity disease — including chronic rhinitis and sinusitis — shares a core pathological feature: mucus stagnation due to impaired mucociliary clearance. Because Guaifenesin directly addresses this bottleneck by thinning secretions and facilitating drainage, the mechanistic link between the drug's known action and this new indication is biologically plausible and clinically rational.
-
-A completed Phase 2 randomized controlled trial in pediatric chronic rhinitis (NCT01364467) provides the most direct clinical evidence available, with supporting literature documenting guaifenesin use in allergic rhinitis and sinusitis management. Together, these strands of evidence — plus TxGNN's high confidence score of 99.98% — make this among the more grounded predictions in this candidate set.
+| Post | Innehåll |
+|------|----------|
+| Ursprunglig indikation | Slemupplösande medel vid luftvägsbesvär (expektorant) |
+| Förutsagd ny indikation | Nässjukdom (nasal cavity disease) |
+| TxGNN-förutsägelsepoäng | 99,98% |
+| Evidensnivå | L2 |
+| Marknadsstatus i Sverige | Ej godkänd på marknaden |
+| Antal godkännanden | 0 |
+| Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
 
-## Clinical Trial Evidence
+## Varför är denna förutsägelse rimlig?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01364467](https://clinicaltrials.gov/study/NCT01364467) | Phase 2 | Completed | 30 | 14-day randomized, placebo-controlled, parallel-group pilot trial of oral guaifenesin for chronic rhinitis (CRS) in children aged 7–18; assessed nasal symptom relief via the SN-5 survey compared to nasal airway volume and biophysical properties of nasal secretions. Sample size limits statistical power; a confirmatory large-scale RCT is needed. |
+Detaljerad verkningsmekanismdata saknas för närvarande i tillgängliga datakällor. Baserat på känd farmakologi är guaifenesin ett slemupplösande medel som ökar vattenhalten i luftvägssekret, minskar slemviskositeten och förbättrar mukociliär clearance. Denna effekt har dokumenterats vid nedre luftvägstillstånd och utgör grunden för dess klassiska tillämpning som expektorant.
 
----
+Sambandet mellan guaifenesins verkningsmekanism och nässjukdom är mekanistiskt välmotiverat. Kronisk rinit och sinuit präglas av förtjockat, trögflödande slem i näshålan som hämmar den naturliga ciliära rensningsmekanismen – precis det tillstånd som guaifenesiners slemhinnelösande effekt direkt adresserar. Mukociliär dysfunktion är en central patofysiologisk mekanism vid nässjukdom, och ett medel som normaliserar slemkonsistensen ger potentiell symtomlindring och underlättar självläkning.
 
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|---------|
-| [12487405](https://pubmed.ncbi.nlm.nih.gov/12487405/) | 2002 | Review / Clinical Commentary | Logopedics, Phoniatrics, Vocology | Decongestants combined with guaifenesin identified as useful for managing allergic nasal symptoms in voice users; discusses mucosal involvement in chronic laryngitis and rhinitis with specific reference to guaifenesin's role in reducing secretion thickness |
-| [9065342](https://pubmed.ncbi.nlm.nih.gov/9065342/) | 1997 | Review / Expert Opinion | American Journal of Rhinology | Describes management of chronic sinusitis in adult cystic fibrosis patients; contextualizes mucolytic strategies — including guaifenesin-relevant approaches — in the setting of nasal cavity disease with severe secretion impairment |
+Förutsägelsen stärks ytterligare av att guaifenesin redan används i klinisk praxis vid nasala tillstånd i kombination med dekongestiva medel, och att det finns en avslutad randomiserad prövning specifikt för kronisk rinit hos barn.
 
 ---
 
-## Safety Considerations
+## Kliniska prövningar
 
-Please refer to the package insert for safety information.
+| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
+|-----------------|-----|--------|-----------|--------------|
+| [NCT01364467](https://clinicaltrials.gov/study/NCT01364467) | Fas 2 | Avslutad | 30 | 14-dagars randomiserad, placebokontrollerad pilotstudie av oralt guaifenesin för kronisk rinit hos barn (7–18 år). Undersökte effekten på nasala symtom via SN-5-skalan, näsvolym och slemhinnans biofysikaliska egenskaper. Hypotesen var att guaifenesin minskar slemviskositet och förbättrar nässymtom jämfört med placebo. |
 
 ---
 
-## Conclusion and Next Steps
+## Litteraturbevis
 
-**Decision: Proceed with Guardrails**
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|----|-----|-----------|--------------|
+| [9065342](https://pubmed.ncbi.nlm.nih.gov/9065342/) | 1997 | Klinisk översikt | American Journal of Rhinology | Redogör för erfarenheter från 22 vuxna cystisk fibros-patienter med kronisk sinuit. Presenterar rekommendationer för medicinsk och kirurgisk behandling vid svår sinuit i denna patientgrupp, kontextuellt relevant för slemhinnans roll vid nässjukdom. |
+| [12487405](https://pubmed.ncbi.nlm.nih.gov/12487405/) | 2002 | Klinisk översikt | Logopedics, Phoniatrics, Vocology | Behandlingsstrategier för röstanvändare med dolda respiratoriska allergier. Betonar att dekongestiva medel med guaifenesin kan vara användbara vid nasala allergisymtom, medan antihistaminer generellt undviks på grund av deras uttorkande effekt på slemhinnorna. |
 
-**Rationale:**
-A completed Phase 2 RCT directly evaluating oral guaifenesin in pediatric chronic rhinitis provides meaningful clinical support for the nasal cavity disease indication, and the mechanistic rationale — mucolytic action targeting mucus stagnation central to nasal cavity pathology — is well-grounded. This justifies moving forward under close monitoring rather than holding.
+---
 
-**To proceed, the following is needed:**
-- **MOA data from DrugBank**: Formal mechanism of action documentation is currently missing (Data Gap DG002); required for mechanistic analysis
-- **Taiwan package insert safety information**: Warnings and contraindications are unavailable (Data Gap DG001); must be resolved before clinical safety screening (Stage S1)
-- **Larger-scale confirmatory RCT**: The sole supporting trial is a pilot (n=30); a powered Phase 2/3 study in adult and pediatric populations is needed to establish efficacy
-- **Adult population data**: Existing evidence is exclusively pediatric (ages 7–18); adult applicability needs dedicated investigation
-- **Pharmacovigilance plan**: Define monitoring strategy for relevant special populations (pediatric dosing, elderly, pregnancy)
-- **Dosage form and route review**: Confirm that available oral formulations are appropriate for the target nasal cavity disease indication and patient population
+## Marknadsinformation Sverige
+
+Guaifenesin är för närvarande **inte godkänt på den svenska marknaden**. Inga registrerade godkännanden finns hos Läkemedelsverket (MPA).
+
+---
+
+## Säkerhetsaspekter
+
+Ingen säkerhetsdata finns tillgänglig i aktuella datakällor.
+
+> Se produktresumén för säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Fortsätt med försiktighet**
+
+**Motivering:**
+Guaifenesin uppvisar en stark och biologiskt plausibel mekanistisk koppling till nässjukdom, stödd av en avslutad fas 2-pilotstudie med positiv hypotes. Evidensnivån är L2, men begränsas av studiens lilla urvalsstorlek (n=30) och avsaknaden av replikering i en fullskalig prövning. Läkemedlet är dessutom ej godkänt på den svenska marknaden, vilket kräver regulatorisk utredning innan klinisk tillämpning.
+
+**För att gå vidare krävs:**
+- Genomförande av en fas 2/3-studie med adekvat statistisk styrka (≥100 deltagare) i vuxen population
+- Inhämtning av fullständig säkerhetsprofil, varningsinformation och kontraindikationer via produktresumé
+- Kartläggning av lämpliga beredningsformer och administreringsvägar för nässjukdom
+- Utredning av regulatorisk pathway för godkännande på den svenska marknaden (MPA)
+- Validering av mekanistisk koppling specifikt i vuxna – befintlig pilotstudie avsåg uteslutande barn i åldern 7–18 år
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
