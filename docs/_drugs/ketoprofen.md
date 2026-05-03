@@ -99,5 +99,10 @@ Acromesomelic dysplasia, Hunter-Thompson type is a genetically determined struct
 - **Safety data:** Package insert review (TFDA/EMA) required to populate key warnings and contraindications before any S1 safety evaluation can begin
 - **Knowledge graph audit:** Investigate why TxGNN assigns rank 68 to this indication — likely a "skeletal disease" cluster artefact that may require graph curation
 - **Alternative indication review:** Rank 8 (Spondyloarthropathy) represents a far more mechanistically plausible repurposing target for Ketoprofen and warrants a separate, prioritised evaluation
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

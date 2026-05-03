@@ -102,5 +102,10 @@ This Evidence Pack is incomplete in all dimensions critical to evaluation: no or
 - **\[Critical\]** Diagnose why `predicted_indications` returned an empty array — check TxGNN pipeline input features, KG node coverage for DB04868, and prediction threshold settings
 - Once predictions are available, re-run the Evidence Pack generation to populate clinical trial and literature evidence sections
 - Confirm whether the absence of Taiwan market authorization affects the intended use case (if evaluation is for market entry, this is a separate regulatory track)
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

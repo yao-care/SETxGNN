@@ -127,5 +127,10 @@ Two directly relevant completed Phase 2 trials enrolled soft tissue sarcoma pati
 - **Histological subtype stratification** — response to sunitinib appears to vary across liposarcoma subtypes (well-differentiated/dedifferentiated vs. myxoid/round cell); subtype-specific patient selection criteria should be defined
 - **Drug-drug interaction assessment** — currently no DDI data is available; critical for polypharmacy patients
 - **Formal pharmacokinetic evaluation** in the target Taiwanese patient population, especially for any renal/hepatic impairment adjustments
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

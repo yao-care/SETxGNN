@@ -116,5 +116,10 @@ The TxGNN prediction is mechanistically coherent in principle—both HIV-1 and F
 - **Pharmacokinetic/pharmacodynamic profile in cats:** Species-specific metabolism, bioavailability, and tolerability data
 - **Safety characterisation:** Efavirenz's CNS toxicity profile in humans raises a flag; feline CNS tolerability must be evaluated before in vivo studies
 - **Full MOA documentation:** Retrieve efavirenz's complete DrugBank pharmacology entry to support mechanistic linking analysis
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

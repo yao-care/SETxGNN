@@ -99,5 +99,10 @@ No TxGNN predicted indications are available for Digoxin, and two critical data 
 - Resolve **DG002**: Query DrugBank API for detailed mechanism of action data
 - Re-verify Taiwan market status — Digoxin is globally well-established; the zero-license finding may indicate a search limitation (e.g., brand name variants not queried)
 - Once predictions and safety data are available, re-generate this Evidence Pack and re-evaluate
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

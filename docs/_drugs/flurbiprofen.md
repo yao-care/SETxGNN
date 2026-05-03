@@ -122,5 +122,10 @@ Seven randomised controlled trials — including two 26-week Phase 3 studies enr
 - **Contemporary trial search:** Conduct a broader ClinicalTrials.gov and EU CTR search using MeSH terms for the full spondyloarthropathy spectrum (axial SpA, nr-axSpA) to identify any post-2000 flurbiprofen trials that may have been missed
 - **Regulatory pathway assessment:** Evaluate whether a Swedish MPA dossier, compassionate use programme, or academic prescribing pathway is appropriate given the absence of current market authorisation
 - **Long-term safety protocol:** Given that AS is a lifelong condition, a risk management plan addressing chronic NSAID use (GI protection, cardiovascular monitoring, renal function checks) should be defined before initiation
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

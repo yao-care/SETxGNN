@@ -111,5 +111,10 @@ TxGNN did not produce any predicted new indication for Anidulafungin. Combined w
 2. **Resolve TFDA package insert data gap (DG001)** — Download and parse the international package insert (or Eraxis US PI) to populate safety warnings and contraindications, enabling S1 safety screening
 3. **Assess Taiwan market pathway** — Since Anidulafungin has zero Taiwan licenses, any repurposing initiative would require either import via special approval channels or a new drug application, adding significant regulatory complexity
 4. **Re-evaluate after data gaps resolved** — Once MOA and safety data are integrated, re-run the full evidence pipeline (TxGNN prediction → clinical trial search → literature search) before making a Go/No-Go decision
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

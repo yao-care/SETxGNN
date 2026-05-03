@@ -109,5 +109,10 @@ There are no TxGNN-predicted indications for Dienogest at this time, and critica
 - Re-run TxGNN prediction pipeline once MOA and indication data are properly mapped into the knowledge graph
 - If Dienogest remains unmarketable in Taiwan, assess whether international regulatory data (EMA, PMDA) can serve as a proxy for safety evaluation
 - Consider whether the Taiwan-unmarketable status affects the strategic value of pursuing this candidate for drug repurposing in the Taiwan context
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

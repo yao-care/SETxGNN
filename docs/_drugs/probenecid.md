@@ -115,5 +115,10 @@ The TxGNN model correctly identifies that Probenecid and renal hypouricemia shar
 - **Retrieve full MOA data** from DrugBank (currently a data gap) to formally document the URAT1/OAT4 inhibition mechanism.
 - **Retrieve Taiwan package insert warnings and contraindications** (currently a blocking data gap) before any safety assessment can proceed.
 - **Consider alternative repurposing targets**: Rank 2 (Lesch-Nyhan syndrome) and Rank 3 (HPRT partial deficiency / Kelley-Seegmiller syndrome) both involve *excess* uric acid production, where Probenecid's uricosuric action is directionally appropriate — though the evidence base for rank 2–3 is also limited and would require a separate targeted literature review.
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

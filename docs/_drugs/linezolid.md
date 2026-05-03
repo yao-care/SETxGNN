@@ -84,5 +84,10 @@ The TxGNN model returned no predicted indications for Linezolid, making it impos
 - **[High]** Query DrugBank API for Linezolid (DB00601) mechanism of action (MOA)
 - **[Required]** Re-run TxGNN prediction pipeline for DB00601 to generate indication candidates
 - **[Supplementary]** Expand DDI database search or consult an alternative interaction source (e.g., Lexicomp, Micromedex)
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

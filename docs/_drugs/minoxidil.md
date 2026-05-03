@@ -97,5 +97,10 @@ Minoxidil's Evidence Pack is structurally incomplete — a Blocking-severity dat
 - **Resolve DG001:** Download and parse TFDA package insert PDF to retrieve approved indications, warnings, and contraindications
 - **Re-run TxGNN prediction pipeline** after both data gaps are resolved
 - **Verify Taiwan market status independently:** Confirm whether Minoxidil topical/oral products exist under any brand name in the TFDA database, as the drug is widely marketed in other regions
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

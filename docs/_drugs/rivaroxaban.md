@@ -114,5 +114,10 @@ Evidence for Rivaroxaban in rheumatoid arthritis stands at L5 — the prediction
 
 > **Note on Multi-Indication Evaluation (TW-DB06228-multi):**
 > This report covers the top-ranked TxGNN prediction (Rheumatoid Arthritis, rank 1). Among the four predicted indications, the **HIV Infectious Disease** indication (rank 3, score 99.17%) carries materially stronger clinical evidence — evidence level **L3** — with 1 completed Phase 2 PK/safety trial ([NCT00786422](https://clinicaltrials.gov/study/NCT00786422), n=25) and 8 publications covering DOAC safety in HIV patients on antiretroviral therapy. That indication's core repurposing framing is "safe anticoagulation strategy for HIV patients with comorbid thrombosis," not treatment of HIV itself, and warrants a separate dedicated report. The **Gout** (rank 2) and **Brachydactyly-Syndactyly Syndrome** (rank 4) predictions are both L5 with no mechanistic basis and are recommended as Hold without further review.
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

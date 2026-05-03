@@ -75,5 +75,10 @@ The Evidence Pack for Latanoprost (DB00654) is critically incomplete — the TxG
 - **Parse Taiwan TFDA package insert PDF** (DG001 — Blocking severity): Retrieve warnings, contraindications, and special population guidance to enable S1 safety screening
 - **Verify drug interaction data source**: DDI query returned no results; confirm whether this reflects a true absence of known interactions or a query failure
 - **Confirm Sweden/EU marketing status** via EMA records: Taiwan MPA shows zero authorizations; independent EU-market verification may yield different regulatory standing for Xalatan or generic equivalents
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

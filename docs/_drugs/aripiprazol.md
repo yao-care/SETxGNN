@@ -100,5 +100,10 @@ The evidence pack is critically incomplete — there is no TxGNN predicted indic
 ---
 
 *This report was generated on 2026-04-03. Results are for research reference only and do not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

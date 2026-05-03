@@ -113,5 +113,10 @@ Nystatin has a well-established mechanistic and clinical basis for treating *Can
 - Confirm the intended market and identify the appropriate regulatory filing pathway, given zero existing local approvals
 - Define the target patient population — specifically whether to position nystatin as a first-line option or as an alternative reserved for fluconazole-resistant or recurrent VVC cases
 - Identify a suitable vaginal dosage form (pessary, tablet, cream) and assess manufacturing or importation feasibility for market introduction
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

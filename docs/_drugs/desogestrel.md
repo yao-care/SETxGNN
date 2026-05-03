@@ -91,5 +91,10 @@ No TxGNN repurposing predictions have been generated for Desogestrel, and the dr
 - **TFDA package insert warnings/contraindications:** Download and parse available package insert PDFs to enable safety assessment (Data Gap DG001, Blocking)
 - **TxGNN model re-run:** Ensure Desogestrel (DB00304) and its active metabolite etonogestrel (DB00294) are properly represented in the knowledge graph, then re-execute the prediction pipeline
 - **Regulatory pathway exploration:** If a prediction emerges, assess whether an import drug application or clinical trial authorization would be required given the drug's current non-marketed status in Taiwan
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

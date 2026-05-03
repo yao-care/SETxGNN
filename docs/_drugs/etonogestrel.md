@@ -112,5 +112,10 @@ The TxGNN prediction for etonogestrel in amenorrhea is assessed as a **causal di
 - **MOA data:** Obtain etonogestrel pharmacology from DrugBank API to formally document the HPO axis suppression mechanism
 - **Safety review:** Parse TFDA package insert (already located) to extract contraindications and key warnings
 - **Reframe indication scope:** If progesterone-induced amenorrhea has intentional clinical use (e.g., endometriosis, heavy menstrual bleeding, hormone therapy), reframe the repurposing hypothesis under those indications with dedicated evidence collection — the current "amenorrhea (disease)" framing is directionally inappropriate
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

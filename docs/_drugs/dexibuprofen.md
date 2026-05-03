@@ -106,5 +106,10 @@ The TxGNN model has not generated a predicted new indication for dexibuprofen, a
 - **TFDA package insert warnings/contraindications**: Obtain and parse the relevant safety data if and when a Taiwan authorization exists (Data Gap DG001, Blocking severity)
 - **Taiwan market pathway assessment**: Evaluate whether dexibuprofen could be introduced via a new drug application or if an existing racemic ibuprofen authorization could serve as a reference
 - **Knowledge graph enrichment**: Ensure dexibuprofen's drug-target-disease relationships are adequately represented in the TxGNN knowledge graph before re-prediction
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

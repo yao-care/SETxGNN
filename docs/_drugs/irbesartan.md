@@ -110,5 +110,10 @@ Although the mechanistic rationale linking irbesartan's AT1 antagonism to malign
 - **Regulatory precedent check**: Verify whether irbesartan or any ARB has an approved or guideline-recommended role in hypertensive nephropathy crises (e.g., JNC 8, ESH/ESC hypertension guidelines, KDIGO)
 - **Risk–benefit framing**: Evaluate whether the target population (malignant HTN with acute renal injury) represents a setting where ARBs are likely safe vs. contraindicated, given the acute nature of the disease
 - **If evidence supports proceeding**: Design a prospective observational or pragmatic RCT protocol comparing ARB-based vs. standard regimens in patients presenting with malignant hypertensive renal disease
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

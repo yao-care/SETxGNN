@@ -105,5 +105,10 @@ All seven TxGNN-predicted indications for Ibuprofen are rare congenital skeletal
 - **Safety profile**: Package insert warnings, contraindications, and drug interaction data must be retrieved before any clinical evaluation stage can open
 - **Regulatory status**: Ibuprofen registration data for the Sweden market should be confirmed, as this is a globally marketed OTC/Rx drug and the absence of authorizations in this database may reflect a data gap rather than true non-availability
 - **TxGNN model audit**: Given that all top-7 predictions cluster around rare genetic skeletal dysplasias — an atypical pattern for a broad-spectrum NSAID — a review of whether Ibuprofen's graph representation in the knowledge graph accurately reflects its known indication space is warranted
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

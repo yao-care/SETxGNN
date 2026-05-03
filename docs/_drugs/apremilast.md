@@ -91,5 +91,10 @@ No TxGNN-predicted indications are currently available for Apremilast, and criti
 - Resolve DG002: Retrieve detailed mechanism of action data from DrugBank API
 - Investigate international regulatory filings (FDA, EMA) for approved indications to populate the original indication field
 - Assess Taiwan market entry feasibility if a promising repurposing candidate is identified
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

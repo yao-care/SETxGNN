@@ -117,5 +117,10 @@ Despite a high TxGNN prediction score (99.88%), no clinical or preclinical studi
 ---
 
 > **Note on other predicted indications:** Among the 10 TxGNN-predicted indications in this evidence pack, **migraine disorder in patients with patent foramen ovale (PFO)** (Rank 2, evidence level L4) represents the most evidence-supported repurposing direction. A retrospective review directly studying thienopyridines — including prasugrel — in PFO-associated migraine (PMID [30478066](https://pubmed.ncbi.nlm.nih.gov/30478066/)) and a P2Y12 class pilot trial with ticagrelor (PMID [30478067](https://pubmed.ncbi.nlm.nih.gov/30478067/)) together provide a mechanistically coherent, class-level indirect evidence base. This direction is recommended for a dedicated Research Question assessment as a separate report.
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

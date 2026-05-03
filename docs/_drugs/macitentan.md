@@ -101,5 +101,10 @@ The Evidence Pack for Macitentan (DB08932) is structurally incomplete — zero T
 - **[Required]** Re-execute the TxGNN prediction pipeline after upstream data inputs are complete to generate `predicted_indications` candidates
 - **[Recommended]** Cross-check EMA and FDA approval history for Macitentan to populate `original_indications` as reference context
 - **[Recommended]** Assess TFDA registration pathway requirements given the current zero-authorization status in Taiwan, in case a top-ranked repurposing candidate is identified
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

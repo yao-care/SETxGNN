@@ -112,5 +112,10 @@ This prediction is based entirely on TxGNN computational modelling (L5 evidence)
 - **TxGNN interpretability audit**: review which knowledge graph features (shared protein targets, pathway nodes, gene expression signatures) are driving this prediction, to assess biological plausibility
 - **Route and dose reformulation assessment**: systemic myeloablative doses are incompatible with ophthalmic use; any repurposing would require a topical or intravitreal route with an entirely different pharmacokinetic profile and safety characterisation
 - **MOA documentation**: retrieve full DrugBank mechanism of action data to enable proper mechanistic-link analysis
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

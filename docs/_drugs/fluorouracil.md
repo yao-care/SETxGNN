@@ -115,5 +115,10 @@ This prediction rests entirely on the TxGNN graph neural network model (L5 — n
 - Taiwan TFDA package insert retrieval for complete warnings and contraindications (Data Gap DG001)
 - DrugBank MOA data query to formally document mechanism of action (Data Gap DG002)
 - Consider pivoting the report focus to **Liver Sarcoma** (rank 7, Evidence Level L3: 6 clinical trials + 20 publications), which carries substantially more evidence and a stronger mechanistic rationale via hepatic arterial infusion and FOLFIRINOX-based regimens
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

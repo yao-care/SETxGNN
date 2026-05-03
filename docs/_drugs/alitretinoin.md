@@ -112,5 +112,10 @@ Alitretinoin has no TxGNN-predicted indications, is not marketed in Taiwan, and 
 - Obtain TFDA package insert warnings and contraindications, or source equivalent international safety data (e.g., FDA/EMA labelling) (DG001)
 - Re-query drug–drug interaction databases once the drug is contextualized against a specific predicted indication
 - Re-evaluate once all blocking data gaps are resolved and at least one predicted indication is available
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

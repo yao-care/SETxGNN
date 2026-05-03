@@ -116,5 +116,10 @@ The TxGNN prediction pipeline has not yet generated candidate repurposing indica
 - Obtain TFDA package insert warnings and contraindications (Data Gap DG001, Blocking severity)
 - Perform drug–drug interaction query once the target indication and its standard-of-care regimens are known
 - Reassess Taiwan market pathway feasibility (drug is currently not marketed — would require new drug application or special import pathway)
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

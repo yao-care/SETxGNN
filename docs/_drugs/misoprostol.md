@@ -87,5 +87,10 @@ The TxGNN pipeline produced no predicted indications for Misoprostol, and two bl
 - **Re-run TxGNN prediction** after the two data gaps above are resolved and drug–graph edges are updated.
 - **Investigate KG coverage**: confirm that Misoprostol's drug node is correctly linked to gene targets (PTGER1–4) and relevant disease nodes in the TxGNN knowledge graph; add missing edges if needed.
 - If the re-run still returns zero predictions, escalate to manual literature review (PubMed search on Misoprostol + repurposing) and consider whether this drug is a suitable candidate for the current pipeline.
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

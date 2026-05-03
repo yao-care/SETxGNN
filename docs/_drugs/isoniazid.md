@@ -117,5 +117,10 @@ The predicted indication "conjunctivitis" is a clinically broad category; all id
 - **Safety profile**: Obtain full warning and contraindication data from the TFDA package insert (DG001 data gap, currently Blocking severity) before any clinical evaluation proceeds
 - **Systematic review**: Commission or identify a systematic review of anti-TB therapy outcomes specifically in phlyctenular keratoconjunctivitis to upgrade evidence from L4 to L3
 - **Ophthalmology expert consultation**: Confirm clinical relevance and unmet need with ophthalmology specialists, given that this is an exceedingly rare indication in modern TB-low-prevalence settings
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

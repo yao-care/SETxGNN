@@ -113,5 +113,10 @@ The evidence pack for Ambrisentan contains critical data gaps and, most importan
 *Report generated: 2026-04-03 | Evidence Pack version: v4 | Candidate ID: TW-DB06403-multi*
 
 *Disclaimer: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

@@ -112,5 +112,10 @@ No TxGNN repurposing prediction exists for Bimatoprost, and the drug is not mark
 - **Resolution of DG001** — Obtain TFDA package insert data (warnings, contraindications) if/when the drug enters the Taiwan market, or reference international labels
 - **Resolution of DG002** — Query DrugBank API for complete mechanism of action data to support future mechanistic bridging analysis
 - **Regulatory pathway assessment** — If a repurposing indication is later identified, evaluate whether an import drug license or clinical trial application would be required in Taiwan
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

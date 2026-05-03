@@ -105,5 +105,10 @@ The TxGNN prediction pipeline returned no candidate indications for Linagliptin,
 - **Retrieve TFDA package insert warnings and contraindications** (data gap DG001, currently blocking S1 safety screening)
 - **Verify market status** against MPA (Sweden) and TFDA (Taiwan) directly — the current record of 0 authorizations is inconsistent with known global availability
 - **Re-run DDI query** using an alternative source (e.g., DrugBank interactions endpoint or Drugs@FDA) since the current query returned `not_found`
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

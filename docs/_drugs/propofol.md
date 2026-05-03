@@ -131,5 +131,10 @@ A completed Phase 2/3 controlled trial (NCT01604785, n=74) and multiple RCTs in 
 - **Safety monitoring protocol**: A site-specific protocol defining minimum monitoring requirements (vitals, oxygen saturation, IV access, recovery period) for sub-anesthetic propofol migraine treatment must be developed before any clinical implementation.
 - **Dosing standardization**: The optimal sub-anesthetic dose range (typically reported as 10–40 mg IV bolus, repeated as needed) and maximum total dose for migraine should be explicitly defined in any institutional protocol.
 - **TFDA package insert review**: Retrieve and parse the TFDA-registered product monograph (if any) or international reference product SPC to document contraindications formally.
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

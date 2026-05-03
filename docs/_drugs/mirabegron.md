@@ -87,5 +87,10 @@ The Evidence Pack for MIRABEGRON contains no predicted repurposing indications, 
 - **[Required]** Re-run the TxGNN prediction pipeline for MIRABEGRON to populate `predicted_indications`; the current Evidence Pack contains an empty predictions array, making repurposing candidate evaluation impossible
 - **[Required]** Confirm original approved indications from regulatory sources (e.g., EMA, FDA, or TFDA) and populate `original_indications` to establish the repurposing baseline
 - **[Follow-up]** Once predictions are available, re-trigger evidence collection (clinical trials, literature) for the top-ranked predicted indication(s)
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

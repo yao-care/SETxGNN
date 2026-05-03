@@ -100,5 +100,10 @@ This Evidence Pack does not contain the minimum required inputs — predicted in
 - [ ] **Safety data**: Parse TFDA package insert for warnings, contraindications, and special population guidance
 - [ ] **DDI data**: Expand DDI query to include synonyms (e.g., "Granocyte", "G-CSF", "r-HuG-CSF") to confirm no interactions exist or retrieve relevant ones
 - [ ] **Market context**: Confirm whether Lenograstim is approved in EMA/FDA jurisdictions, as this could supplement the Taiwan-absent regulatory context
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

@@ -118,5 +118,10 @@ The Evidence Pack contains no TxGNN-predicted new indications for Bivalirudin, a
 - **Mechanism of Action data** — Query DrugBank API to obtain structured MOA information (DG002)
 - **TFDA package insert** — If Bivalirudin gains Taiwan market entry, download and parse package insert PDF for warnings and contraindications (DG001)
 - **Taiwan regulatory pathway assessment** — Evaluate whether an import drug license or clinical trial application is warranted if a viable indication is predicted
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

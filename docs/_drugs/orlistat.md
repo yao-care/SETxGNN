@@ -100,5 +100,10 @@ This is a pure model prediction (L5) with no clinical trials, no supporting lite
 - Obtain mechanism of action (MOA) documentation from DrugBank to refine pathway analysis
 - Retrieve TFDA package insert warnings and contraindications to complete baseline safety assessment before any further development stage evaluation
 - Consider whether the TxGNN prediction reflects a genuine therapeutic signal or a spurious correlation via the fat-absorption pathway — an expert pharmacological review is recommended before investing further resources
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

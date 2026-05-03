@@ -106,5 +106,10 @@ All six TxGNN-predicted indications for rifaximin are rated L5 (model prediction
 - **Safety data gap**: Download and parse the TFDA package insert PDF to obtain warnings, contraindications, and drug interaction data (currently blocking S1 safety assessment)
 - **Redirect model inquiry**: Re-evaluate TxGNN predictions against biologically plausible indications where rifaximin's antibacterial/microbiome-modulating mechanism is relevant — e.g., spontaneous bacterial peritonitis (SBP) prophylaxis, minimal hepatic encephalopathy, or small intestinal bacterial overgrowth (SIBO)
 - **Do not advance oral candidiasis**: The existing evidence is directionally contrary to a therapeutic benefit; this indication should be deprioritized unless a novel mechanistic hypothesis (e.g., gut-oral microbiome axis) can be articulated with preclinical support
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

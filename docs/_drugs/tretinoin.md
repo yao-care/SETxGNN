@@ -119,5 +119,10 @@ Despite a high TxGNN prediction score (99.84%), rheumatoid nodulosis is an evide
 - **Safety data**: Obtain and parse the TFDA package insert PDF (DG001) to enable S1 safety pre-assessment; pay particular attention to teratogenicity management and differentiation syndrome risk in non-APL populations
 - **Adjacent indication reassessment**: Consider prioritising **osteoarthritis** (TxGNN rank 7, L4 evidence, 20 publications including GWAS and mechanistic studies on the ALDH1A2/retinoic acid axis) as a stronger near-term research candidate; mechanistic literature there may also illuminate whether local vs. systemic RA concentration determines pro- or anti-inflammatory outcomes
 - **Indication-specific feasibility review**: Given that rheumatoid nodulosis is a rare RA subtype with no disease-modifying treatment registrations, confirm target patient population size and clinical trial feasibility before any programme commitment
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

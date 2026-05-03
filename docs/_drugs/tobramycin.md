@@ -111,5 +111,10 @@ The mechanistic rationale for tobramycin as adjunctive antibacterial prophylaxis
 - Head-to-head safety comparison of topical tobramycin vs. fluoroquinolone alternatives (e.g., ciprofloxacin, moxifloxacin) on compromised corneal epithelium
 - Complete MOA and safety data retrieved from DrugBank and TFDA/MPA package insert (currently flagged as data gaps DG001 and DG002)
 - Ophthalmic formulation regulatory status confirmed for the target market before any clinical pathway is designed
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

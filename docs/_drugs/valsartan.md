@@ -107,5 +107,10 @@ The mechanistic case for Valsartan in malignant renovascular hypertension is sci
 - **Safety profile**: Obtain TFDA package insert or reference EMA/FDA SmPC to close Data Gap DG001 before any clinical translation discussion
 - **Market pathway assessment**: Since Valsartan is not marketed in Taiwan, evaluate whether a named-patient or off-label use pathway applies for research purposes
 - **Consideration of Rank 6 indication**: *Chronic pulmonary heart disease* (L3, Proceed with Guardrails) has substantially richer clinical trial and literature evidence via the Sacubitril/Valsartan (LCZ696) data set; this may represent a higher-priority near-term repurposing candidate for parallel evaluation
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

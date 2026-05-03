@@ -103,5 +103,10 @@ This prediction is classified as L5 — model output only, with zero supporting 
 - Independent mechanistic review to determine whether any off-target antibacterial activity of zanamivir has ever been reported in preclinical literature
 - If any indirect biological plausibility is identified (e.g., influenza-associated secondary bacterial pyelonephritis), targeted preclinical studies would be required before considering further development
 - Completion of MOA data gap (DG002) and TFDA package insert retrieval (DG001) to support any future full safety assessment
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

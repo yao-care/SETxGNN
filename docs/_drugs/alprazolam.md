@@ -120,5 +120,10 @@ The TxGNN model has not identified any repurposing candidates for Alprazolam. Ad
 - Verify Taiwan market status: Confirm whether Alprazolam is truly unregistered in Taiwan or if it exists under alternative trade names
 - Re-run TxGNN prediction after data gaps are filled to determine if new indication predictions emerge
 - If no predictions emerge after data enrichment, this candidate should be **deprioritised** in the repurposing pipeline
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

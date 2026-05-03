@@ -109,5 +109,10 @@ The TxGNN prediction for migraine disorder carries strong mechanistic plausibili
 - **Design a proof-of-concept study**: A small Phase 2 pilot or pragmatic observational study comparing Etoricoxib against existing migraine prophylaxis options would be the minimum threshold to advance beyond L5
 - **Cardiovascular and renal risk assessment**: As a COX-2 selective inhibitor, Etoricoxib carries a known cardiovascular thrombotic signal (increased MI/stroke risk) and renal function risks. A migraine population is typically younger, but comorbidity screening is required before any study design
 - **TFDA regulatory pathway review**: Since Etoricoxib has no current Taiwan approval, any clinical repurposing study would require an IND filing and engagement with TFDA
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

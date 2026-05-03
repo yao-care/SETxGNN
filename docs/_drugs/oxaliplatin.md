@@ -139,5 +139,10 @@ Multiple Phase 2 clinical trials have directly evaluated oxaliplatin in MPM — 
 - **Histological subtype stratification**: Epithelioid MPM (~60–70% of cases) shows the best platinum sensitivity; any prospective study should stratify by subtype and exclude pure sarcomatoid cases (evidence level L4, Hold recommendation)
 - **Immunotherapy combination assessment**: Evaluate oxaliplatin as an immunomodulatory backbone in combination with nivolumab/ipilimumab, building on the 2019 translational checkpoint expression data
 - **Taiwan access pathway**: Initiate special import (專案進口) application or expanded access protocol, as oxaliplatin has no current TFDA authorization
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

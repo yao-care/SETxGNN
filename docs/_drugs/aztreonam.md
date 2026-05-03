@@ -99,5 +99,10 @@ No TxGNN repurposing predictions exist for Aztreonam, and the drug is not market
 - Re-run TxGNN prediction pipeline to confirm whether predictions can be generated for this drug
 - If predictions remain empty, investigate whether the knowledge graph contains sufficient Aztreonam-related edges (targets, pathways, phenotypes) for meaningful prediction
 - Verify whether Aztreonam's absence from the Taiwan market is relevant to the study scope, or if international market data (e.g., FDA, EMA) should be incorporated as supplementary evidence
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

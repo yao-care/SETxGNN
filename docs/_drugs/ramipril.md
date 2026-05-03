@@ -121,5 +121,10 @@ Despite a high TxGNN prediction score (99.93%), no clinical trials and no direct
 - **Preclinical signal check**: Identify whether any animal model data demonstrates ACE inhibition reduces hypoxic pulmonary vasoconstriction without compromising gas exchange
 - **Safety signal review**: Consult pulmonary hypertension clinical guidelines (ESC/ERS 2022) for any existing recommendations or warnings regarding ACEI use in Group 3 PH
 - **Compare with rank-10 indication**: The cerebral artery occlusion prediction (rank 10, Evidence Level L3, decision stage S2) has stronger direct evidence for ramipril and may represent a higher-priority repurposing candidate for near-term evaluation
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

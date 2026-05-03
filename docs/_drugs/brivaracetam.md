@@ -112,5 +112,10 @@ No TxGNN-predicted indications exist for Brivaracetam, making it impossible to e
 - Resolve DG001: Obtain TFDA package insert safety data, or alternatively source from FDA/EMA if Taiwan registration is not planned
 - Assess Taiwan regulatory pathway feasibility, given the drug is currently not marketed (未上市)
 - Once a predicted indication is available, re-generate the evidence pack with clinical trial and literature searches targeting that indication
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

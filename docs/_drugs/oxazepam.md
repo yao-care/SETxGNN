@@ -119,5 +119,10 @@ Two RCTs and a body of observational and review literature directly support oxaz
 - Develop a risk management plan specifically addressing **dependence liability, withdrawal risk**, and use in elderly patients (the highest-risk insomnia subgroup)
 - Conduct a systematic review or meta-analysis of existing oxazepam insomnia RCTs to upgrade evidence to L1 before full commercial development
 - Assess whether a bridging pharmacokinetic or comparative effectiveness study is required by MPA
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

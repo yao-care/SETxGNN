@@ -138,5 +138,10 @@ Docetaxel's efficacy in female breast carcinoma is supported by multiple complet
 - Establishment of a local pharmacovigilance and Risk Management Plan (RMP) aligned with EMA requirements
 - Alignment of G-CSF prophylaxis, premedication protocols, and hepatic dose-adjustment criteria with current Swedish oncology guidelines (e.g., SWEDCAN/regional cancer center protocols)
 - Consideration of health technology assessment (HTA) by TLV (Tandvårds- och läkemedelsförmånsverket) for potential reimbursement inclusion in the Swedish benefits scheme
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

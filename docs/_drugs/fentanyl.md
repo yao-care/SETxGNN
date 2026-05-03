@@ -121,5 +121,10 @@ This candidate presents a compounding set of concerns: zero supporting clinical 
 - **Knowledge graph audit**: Review of the TxGNN graph topology around fentanyl and NSIAD nodes to understand the source of the high score and whether it reflects a true biological relationship or a graph artefact
 
 > For reference, the second-ranked TxGNN prediction—**Tourette syndrome** (score: 99.05%)—also carries zero supporting evidence (L5, Hold), and its mechanistic rationale similarly conflicts with established opioid pharmacology. The overall repurposing signal for fentanyl in this evidence pack is considered unreliable without further mechanistic validation.
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

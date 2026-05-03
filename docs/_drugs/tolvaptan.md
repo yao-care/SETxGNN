@@ -123,5 +123,10 @@ Two landmark Phase 3 RCTs (TEMPO 3:4, REPRISE) and multiple independent expert c
 - **Retrospective subgroup analysis:** Request biobank access from existing ADPKD trial datasets (TEMPO, REPRISE) to identify any PKD3 patients enrolled and analyze outcomes retrospectively
 - **Hepatic phenotype evaluation:** Assess whether tolvaptan's known hepatotoxicity risk requires modified monitoring frequency in PKD3 patients, who already carry prominent polycystic liver disease
 - **Sweden regulatory pathway:** Confirm current EMA Jinarc® authorization scope and evaluate whether a label extension to PKD3 is feasible under Article 20 variation or a new indication submission
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

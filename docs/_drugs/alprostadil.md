@@ -98,5 +98,10 @@ Alprostadil cannot be evaluated as a repurposing candidate at this time because 
 - Resolve DG001: Obtain and parse the TFDA package insert for warnings and contraindications
 - Verify Taiwan market availability — if not marketed, assess feasibility of off-label or compassionate use pathways
 - Once predictions are available, collect clinical trial and literature evidence for the top-ranked indication
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

@@ -152,5 +152,10 @@ Dasatinib has a pharmacologically rich multi-kinase inhibition profile that make
 3. **Resolve DG002 (High)**: Retrieve detailed MOA data from DrugBank API to enable mechanism bridging analysis
 4. **Confirm Taiwan regulatory pathway**: Since Dasatinib is not currently marketed in Taiwan, evaluate whether an import drug licence or special access pathway would be required
 5. **Once a predicted indication is available**: Conduct targeted clinical trial (ClinicalTrials.gov) and literature (PubMed) searches to assess evidence level
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

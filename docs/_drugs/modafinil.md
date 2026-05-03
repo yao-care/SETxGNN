@@ -105,5 +105,10 @@ This Evidence Pack is structurally incomplete — it contains no predicted indic
 - **[Standard]** Re-run DDI query once indication context is available to identify relevant drug-drug interactions
 
 > **Note:** All findings from this report are for research reference only and do not constitute medical advice. Any drug repurposing candidate must be validated through clinical trials before application.
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

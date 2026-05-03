@@ -102,5 +102,10 @@ There is no preclinical or clinical evidence of any kind supporting telmisartan 
 ---
 
 > **Note on the full prediction landscape:** While Prinzmetal angina is ranked #1 by TxGNN score, the strongest empirical evidence in this Evidence Pack belongs to **intracerebral hemorrhage** (rank #9, Evidence Level L1), supported by the completed TRIDENT Phase 3 trial (NCT02699645, n=1,671) and multiple animal model studies. If prioritizing evidence-based repurposing candidates, **intracerebral hemorrhage** and **cerebral artery occlusion** (rank #4, L3) represent substantially higher-confidence targets for further evaluation.
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 

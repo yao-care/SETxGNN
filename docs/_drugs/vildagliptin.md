@@ -126,5 +126,10 @@ A completed Phase 2 RCT conducted directly in T1DM patients (NCT02803892), combi
 - **Design a Phase 2/3 RCT** of vildagliptin as add-on to standard insulin therapy in T1DM, with primary endpoints of HbA1c reduction, time-in-range improvement, daily insulin dose change, and hypoglycemic event frequency
 - **Conduct long-term immunomodulatory safety assessment**: DPP-4/CD26 is expressed on activated T cells; chronic inhibition effects on autoimmune disease activity, infection risk, and other immune-mediated conditions require prospective monitoring
 - **Assess drug interactions** with rapid-acting insulin analogues, CGM systems, and common T1DM co-medications (e.g., SGLT2 inhibitors, which carry a DKA risk that may be relevant in insulin-deficient states)
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
 ---
 
