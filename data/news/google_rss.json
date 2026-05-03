@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-03T02:32:19.857575+00:00",
+  "fetched_at": "2026-05-03T05:54:44.483157+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -94,16 +94,6 @@
       }
     },
     {
-      "id": "86241c6eb723",
-      "title": "Dömer ut hyllade medicinen: Olyckligt - Expressen",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzb2pxMWNmOW10QWpuQUNpTmJONF8wSHBGX1drSl9WNkFEZE5HcThXNDFhNHlreWQzdjJ0dUcwUG5JbjlIMXFvT281c0NVSXRuNGRyaTBQeDRGalp2eGJYaUJldEtUaWlzd2RtWmx2RzJGcXhRQzg4M3dn?oc=5",
-      "published": "2026-04-16T07:00:00+00:00",
-      "source": {
-        "name": "Expressen",
-        "url": "https://www.expressen.se"
-      }
-    },
-    {
       "id": "04dce985824e",
       "title": "Antalet avsiktliga förgiftningar bland unga tjejer på fortsatt hög nivå - Örebronyheter",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOam1zTU9vNFJEaW5VcUxyVGFZZHhkbGtNMl9CcUk5c2JJOE8wb0ZwekQwVkg1NkRDa2o0MEFmeW9aMkpQcmF2RHpBV29kVGE4bDZOZUNmdkVSZ01wMHE1OENGN0hJekJaTDRDcmpqdm5jY1ZlejNNWUlUYzltT2Uza1FRWGRvRjBabkRSdGQ4d2lVMS01am1XaWk2WldxVFNja0dYVQ?oc=5",
@@ -111,6 +101,16 @@
       "source": {
         "name": "Örebronyheter",
         "url": "https://www.orebronyheter.com"
+      }
+    },
+    {
+      "id": "86241c6eb723",
+      "title": "Dömer ut hyllade medicinen: Olyckligt - Expressen",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzb2pxMWNmOW10QWpuQUNpTmJONF8wSHBGX1drSl9WNkFEZE5HcThXNDFhNHlreWQzdjJ0dUcwUG5JbjlIMXFvT281c0NVSXRuNGRyaTBQeDRGalp2eGJYaUJldEtUaWlzd2RtWmx2RzJGcXhRQzg4M3dn?oc=5",
+      "published": "2026-04-16T07:00:00+00:00",
+      "source": {
+        "name": "Expressen",
+        "url": "https://www.expressen.se"
       }
     },
     {
@@ -174,10 +174,10 @@
       }
     },
     {
-      "id": "94d4b6434437",
-      "title": "”Det är dags att avskaffa den digitala utomlänsersättningen” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXZncVVoRmlVQTNadDBKYVpzbzZ3OUlHMHFJZHJ6amF5eFU0ZHE4eGNPTzQ1QkQ4Q2U4M0pidVJnd19jQ0FEeC15UDcyMTVxbnFSaU5xeFJPVHdJNmZYdS1BNnJESEhBRTZBV1VCeXRGcHRuOV9KX09vb1BYaXlwMjRyNnlWb0R2bVg2TWhTZnctUVhCYlU0c2tRRmgtdHdvTXY3ZUpB?oc=5",
-      "published": "2026-04-26T18:30:00+00:00",
+      "id": "3ce03c1d566a",
+      "title": "Semaglutid minskade drickande vid alkoholproblem - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLWFIemkzNU1QVlcxOGV4Z0JsMTZ5elVYdmVfZ0ExQVQ5cG1yNmdhLXhvVTRnb0hzbnFlQkkxSmMycjRtcGN1TnU2cUhoU0xsakZyUUJoN1Q3ZS1xZlgxTElvOXNXSTFTdFhJLUhxSHNta3JQXzdNajdYQWs2NDJpUlBGTlFOZmcyZWNxb2ZrU3J2YXN4SGtVSlVUYU84Rmt6amk0?oc=5",
+      "published": "2026-04-30T13:30:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -194,6 +194,16 @@
       }
     },
     {
+      "id": "94d4b6434437",
+      "title": "”Det är dags att avskaffa den digitala utomlänsersättningen” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXZncVVoRmlVQTNadDBKYVpzbzZ3OUlHMHFJZHJ6amF5eFU0ZHE4eGNPTzQ1QkQ4Q2U4M0pidVJnd19jQ0FEeC15UDcyMTVxbnFSaU5xeFJPVHdJNmZYdS1BNnJESEhBRTZBV1VCeXRGcHRuOV9KX09vb1BYaXlwMjRyNnlWb0R2bVg2TWhTZnctUVhCYlU0c2tRRmgtdHdvTXY3ZUpB?oc=5",
+      "published": "2026-04-26T18:30:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "3a8355a8da39",
       "title": "Växjö bryter med omsorgsföretag - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdEotQ0M3c1FlQ00tSjR0QTJuVE9RbjVhZ2dSV0N0d1JTYmtsMFl4TmhoNkw1VklTV1RhTXBpSkRLcXhFbnZPcXlRbk0tUW1kdXloRUREUXl3QTFjTWk0d2FiNGVyb2k0eGZvVFdidDg2VnVWV2ZXVXFnLWFTckl3c0MtZlFKMFZiUDdncHNtY3NIaG8?oc=5",
@@ -204,13 +214,13 @@
       }
     },
     {
-      "id": "29476dadaa9d",
-      "title": "TLV skjuter upp ny metod för prissänkningar vid högt försäljningsvärde - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcE1jdXZIQzBiM0RlZkJTUEJsNlB2bVJDZlJybTRhZHNiVlA0aEswbXQ3Rnp1c3lULXZBWS1BcGZiLVNNX0FBWTktZW83TWdLRmFjWmpIYTNKazdMVWNUUWFVS2hZQndZZkQtMDlSVmVYbS1IOHg2aUxPRWxFUE5uVXdRb2hnYnpFRUdad3NETHZud0VhNzN3YWk3aWtvMGxCYndwYnlicEpvcEoyWC1TdVg1YW1vMU5XaE00dnJtU0k?oc=5",
-      "published": "2026-04-27T03:59:00+00:00",
+      "id": "b72e224a4fa4",
+      "title": "Användning av läkemedel mot obesitas ökade kraftigt - Sveriges Radio",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcHRHUE5lMGV6Z05jMW15WnJpMzYwRWFTd19ZTF9zTDhhY0xRSGx5Szl3aGp1cjE2Zm92RXBwT1VWbkNaTFlYQkYzc1BySERPVzlaeEVuMWZYSlpmZFhpbEZPOHRVNm5XalJhaTZaRlpTVnJsTXE1WGZ4TmZoWURodkJBT3RwS1ZoMUdXZE1YQWpaQQ?oc=5",
+      "published": "2026-04-16T07:00:00+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "Sveriges Radio",
+        "url": "https://www.sverigesradio.se"
       }
     },
     {
@@ -221,6 +231,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "29476dadaa9d",
+      "title": "TLV skjuter upp ny metod för prissänkningar vid högt försäljningsvärde - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcE1jdXZIQzBiM0RlZkJTUEJsNlB2bVJDZlJybTRhZHNiVlA0aEswbXQ3Rnp1c3lULXZBWS1BcGZiLVNNX0FBWTktZW83TWdLRmFjWmpIYTNKazdMVWNUUWFVS2hZQndZZkQtMDlSVmVYbS1IOHg2aUxPRWxFUE5uVXdRb2hnYnpFRUdad3NETHZud0VhNzN3YWk3aWtvMGxCYndwYnlicEpvcEoyWC1TdVg1YW1vMU5XaE00dnJtU0k?oc=5",
+      "published": "2026-04-27T03:59:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -364,16 +384,6 @@
       }
     },
     {
-      "id": "83c20e8b10c1",
-      "title": "Så kan tillskott påverka effekten av din medicin - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWlgydGduSzBfWGM5ZUtRUE9laFhnQ2hOQWZfWHB6VlpxTmE0WTlIbEtpRGp3RHRJNE1MMEtOM1dWUW16RVppVHVjQzJtOTd2Tng5UGc2QnpCcFUxdzhDdTJaejBWWG0zN2p4VEpaSFBFT0ZWTzJHMmg4Y1oyeHE5REVNbkRlajd1alk3THY5ZTJpRnZINVhV?oc=5",
-      "published": "2026-03-19T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "3974a05d98a8",
       "title": "Läkemedelsverket redovisar framsteg inom psykisk hälsa och suicidprevention - Via TT",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRklQXzNKS3BMUUNIdi1wcmh3Z3lzSGZEWjEzX2o3OE5vUXl1WTZ1bkZCTVFzOUEtZkNZLWpZaGRINEJ5YWtvbDJNX0hZR080bENxbWFYNFV6aWJxT0tGSV9yNXpXbG8yRldtdVotRXZrLTBJRlAwXzZuNHF6X1djZ3REYU9TZDVmejZ2MmZKbEpwYVZwOVJkNXhEX0NBUDlXa2pVb2pyUWFqTXE0TkctY0dxTGpwZHFhNVRrYzlTbml6UEN6NG1QTEt1eW1FOXRSbXlpZkVObEF5RWJaR3c?oc=5",
@@ -381,6 +391,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "83c20e8b10c1",
+      "title": "Så kan tillskott påverka effekten av din medicin - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWlgydGduSzBfWGM5ZUtRUE9laFhnQ2hOQWZfWHB6VlpxTmE0WTlIbEtpRGp3RHRJNE1MMEtOM1dWUW16RVppVHVjQzJtOTd2Tng5UGc2QnpCcFUxdzhDdTJaejBWWG0zN2p4VEpaSFBFT0ZWTzJHMmg4Y1oyeHE5REVNbkRlajd1alk3THY5ZTJpRnZINVhV?oc=5",
+      "published": "2026-03-19T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -434,16 +454,6 @@
       }
     },
     {
-      "id": "1206ab3c49df",
-      "title": "Danderyds sjukhus: Danderyds största arbetsgivare ökar samarbetet inom medicinteknik och läkemedel - Mynewsdesk",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSm1PWFFJTE1ZNm1rczZ0Mm1GS3dIVUQySTAzSzlHLWZlblJDM2lsaTBHT015WHBhdUMwRGRBUlNCU3R0ZjdodXVnUEtXa0VVVS1LRThmWkdYbE4yMDg0VjhqRS1VdXZOamJSRWhrWDl6OUp5dXhWeGZMWnZFUXFlQVJlV2t3dG9LTE5sS0l4MHR2V3hkZURJaTZET2pxT19rWlhNNXRpZDRzUGx2Y21Za0pzOWQ4YzN2d0hqRm8zbWpqbC1WVlNJWklYR09QNVIwaUszSHB2a1NoVXVEVHFsZGVmVklwU2VZWlI4S0Y0VFRCNUJzQnJzTWFrNW93c0k?oc=5",
-      "published": "2026-01-27T08:00:00+00:00",
-      "source": {
-        "name": "Mynewsdesk",
-        "url": "https://www.mynewsdesk.com"
-      }
-    },
-    {
       "id": "9457c37a32a7",
       "title": "Adhd-läkemedel kopplas till lägre risk för självmordsförsök, missbruk och kriminalitet - Karolinska Institutet",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX0ZLRlowbVVYYWt2a2pLWldBZTFyTHZjMnJHbzBkeFoyalRxQUozWVY1X2d3X2Joa0RwUmNDMWxGN1haTm5UU1JDMXMyalB0STBHTFRWSFlMUWMxWXNDTHZka1A5UVNMbTExU2RiZ2ZTQXlPcVpsanA4RjBwUmlWTXpQRzMwYU9UMmhCVW13RmY5NG5RNVkzblZzclZZZ0xFcFpJQUd2c0J4WlU?oc=5",
@@ -471,16 +481,6 @@
       "source": {
         "name": "Karolinska Institutet",
         "url": "https://nyheter.ki.se"
-      }
-    },
-    {
-      "id": "e79c6807d736",
-      "title": "Mat som medicin – så kan hälsosamma matvanor påverka ditt mående - Region Skåne",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNVFBVDRxTkpzaHFDUjgtV3lXUkR4Z2N1QjNEN1A0M0dVUWJ2dDk5c1RGWUF5ZVJxenRqUGFuMzU4SnhqUkxZS3VleHBpOXNUZ2VuTEVBTjNtdE52RzRSakNQT20yLUhfajBYdWlid2lvT3FMRUVsaGpJU3Nhemx4MHN4WnNCLWdoeVZmXzJXOFlpSC11ZTVQaTQ4S3VYemZOOWs2SjdCV1o3VVNPRE42dm12cUg?oc=5",
-      "published": "2026-02-06T08:00:00+00:00",
-      "source": {
-        "name": "Region Skåne",
-        "url": "https://www.skane.se"
       }
     },
     {
@@ -554,6 +554,16 @@
       }
     },
     {
+      "id": "a264d86d3b0e",
+      "title": "Ökat intresse för receptbelagda läkemedel utan recept - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUFGMGl2Y3ZWQ0xHc3hEbWsxMWd5enk5UG9aRWdpWVRucnhRQ1plR0JKRUZ4VzB2UzFDZ3JCSUV2S2xYVkc5VHU1aGFZQkVHNmRjeW14Y3JEZnM5NE1ZRTY3b19HemtxVHlZTmh4dWVHaDdVWl8wYWpUejk0NURjSVpkbmx3SE44SGJoTXQyS3ZlM2NRTjlGYTRMOTYya2FoaHhGTEM3dmxCdw?oc=5",
+      "published": "2026-01-21T08:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "b13507c7a9f7",
       "title": "Forskare pekar ut åtta läkemedel som kan bromsa demens - Dagens PS",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFJVMmRPV3c3YTNCZkFJRHZmTlhpRHZ3TEx5VVM5MDNCUGhrUkRDVWVESlplVFY4b2F4RDlnRWtqU0QydHFpY2dDZHNCWHFhOGNYSHBDaHJhemlnLVJMVEpzcDNVZUxFdkxlamFhM05fUVRCbUhMUl9MOG9SeXBGWnBDUmU0YUlSYXpTeHlR?oc=5",
@@ -581,6 +591,26 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "cebf533af2c0",
+      "title": "En av tre har sett falsk marknadsföring av läkemedel - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3BPOThuT0Z3bEJHS3h6ekJfV21HdExHS3dhNVNWTVdfWEhHUlN0WEFzM2VYRGlvOXpjWXBGbUNWczNvMEdwblZKV0cwODBjM2stYlVuM0dtdXFMb2tEM2F4eVhnNHVuY29tS3JDb0VkLWM0ZGszTy1OUFFNdktFN1FaTVpfRXFCX3lPRUU3anRYRVZYYktwYlcxdUxwVmJndmhYN1BFV0E?oc=5",
+      "published": "2026-02-25T08:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "eb585251750e",
+      "title": "Lanserar en ChatGPT som personlig hälsorådgivare - LäkemedelsVärlden",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PcE1UUFFVZFdmWk9KYVdrb19SR25jX2M1djhFNlp6R1otNVkwS1RKbWNuSTFYVk1yeVMyUElfRUFzaG9Jd3hxMXh5UFc0WU52QVVPREZjMHhOZTJPc3ZMMVdlNGtpLUU3bmRLbjI0Wk9wZw?oc=5",
+      "published": "2026-01-13T08:00:00+00:00",
+      "source": {
+        "name": "LäkemedelsVärlden",
+        "url": "https://www.lakemedelsvarlden.se"
       }
     },
     {
@@ -634,13 +664,13 @@
       }
     },
     {
-      "id": "cebf533af2c0",
-      "title": "En av tre har sett falsk marknadsföring av läkemedel - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3BPOThuT0Z3bEJHS3h6ekJfV21HdExHS3dhNVNWTVdfWEhHUlN0WEFzM2VYRGlvOXpjWXBGbUNWczNvMEdwblZKV0cwODBjM2stYlVuM0dtdXFMb2tEM2F4eVhnNHVuY29tS3JDb0VkLWM0ZGszTy1OUFFNdktFN1FaTVpfRXFCX3lPRUU3anRYRVZYYktwYlcxdUxwVmJndmhYN1BFV0E?oc=5",
-      "published": "2026-02-25T08:00:00+00:00",
+      "id": "169b9461794b",
+      "title": "ADHD-mediciner: När de hjälper – och när de kan bli fel - News55",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNDV0V0d2alhBNmxuSklaRE5lXzJ5cjhacVNjbjZlUUk3OGltOTE4UjByUXE5dXd4eWE0cXN3eEk2aEZsSXJyT3NjMnNmZ1pWcEZ5Q0hyYUNGeGRydmF3ZHhJbnZ3NmVoOEhkck5MeW9BWmFWTzVPcy14YmZXRDlCb0NNQlg3ZGhn?oc=5",
+      "published": "2026-02-20T08:00:00+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -651,26 +681,6 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
-      }
-    },
-    {
-      "id": "169b9461794b",
-      "title": "ADHD-mediciner: När de hjälper – och när de kan bli fel - News55",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNDV0V0d2alhBNmxuSklaRE5lXzJ5cjhacVNjbjZlUUk3OGltOTE4UjByUXE5dXd4eWE0cXN3eEk2aEZsSXJyT3NjMnNmZ1pWcEZ5Q0hyYUNGeGRydmF3ZHhJbnZ3NmVoOEhkck5MeW9BWmFWTzVPcy14YmZXRDlCb0NNQlg3ZGhn?oc=5",
-      "published": "2026-02-20T16:14:21+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
-      "id": "1c79d65f1e14",
-      "title": "”Cosmic-läkare” tar över som tf hälso- och sjukvårdsdirektör - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEVXS0ExV3hwbVp3NW9VYWh2QXVFUm9RSHFVbk85VzZLOHRiLVBXZE1CRGRSdW53Y1B6ZzRQUjQ5SUQtZE50LW5WcTF4Q09hOUNfMU1hOXlMT0xUb3UxdHN2UE9CVXVFWkwxR3E3TnVicTF6NFpPU1FReDg4eDJ4dUZ2b1pjRURMT0NVVThFa0dTTUh2NDVWZ0oyVC03b1FLMlY5QjkyZWZFb25E?oc=5",
-      "published": "2026-02-12T08:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -744,13 +754,13 @@
       }
     },
     {
-      "id": "a264d86d3b0e",
-      "title": "Ökat intresse för receptbelagda läkemedel utan recept - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUFGMGl2Y3ZWQ0xHc3hEbWsxMWd5enk5UG9aRWdpWVRucnhRQ1plR0JKRUZ4VzB2UzFDZ3JCSUV2S2xYVkc5VHU1aGFZQkVHNmRjeW14Y3JEZnM5NE1ZRTY3b19HemtxVHlZTmh4dWVHaDdVWl8wYWpUejk0NURjSVpkbmx3SE44SGJoTXQyS3ZlM2NRTjlGYTRMOTYya2FoaHhGTEM3dmxCdw?oc=5",
-      "published": "2026-01-21T08:00:00+00:00",
+      "id": "ed4e3868abf6",
+      "title": "70 läkemedel som är farliga för äldre personer - News55",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNmpySktKZXZlVW1BeDl2NW5TM1gtMVRUbmVfRkp3eHhYOUF0ekktQVlzS1NLVzdINDc4d3djY3FFRS1RX1BnMEpVSHJOLTFUNUhFLUJxN0JRcDV1QWViMm9FUXVxS0s4NEdqSHFZcEM1VVc0ckpuZ1FsWWdDZG1xcg?oc=5",
+      "published": "2025-11-06T17:49:00+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -771,26 +781,6 @@
       "source": {
         "name": "it-halsa.se",
         "url": "https://it-halsa.se"
-      }
-    },
-    {
-      "id": "1eb657ce9b38",
-      "title": "TLV skjuter upp beslut om Wegovy - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzhFT3ZjM2ljTVhNN3lja2tWN2l4WDY2RkpYaVFnQmg0YXJZRUhRNzRQV213SEw4bnJJZTFkSnBSTWZzbk5ENzJuOTR1TDA1endsNERzMTlXN0kxTHdzTjk0OTk5RC1iUG1lV0xGcm5COUZ2NXpBZWRXaXBJTkhJeFNMbGN2dVU0YWpiWVlB?oc=5",
-      "published": "2025-12-05T08:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "ed4e3868abf6",
-      "title": "70 läkemedel som är farliga för äldre personer - News55",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNmpySktKZXZlVW1BeDl2NW5TM1gtMVRUbmVfRkp3eHhYOUF0ekktQVlzS1NLVzdINDc4d3djY3FFRS1RX1BnMEpVSHJOLTFUNUhFLUJxN0JRcDV1QWViMm9FUXVxS0s4NEdqSHFZcEM1VVc0ckpuZ1FsWWdDZG1xcg?oc=5",
-      "published": "2025-11-06T17:49:00+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
       }
     },
     {
@@ -841,16 +831,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "bf03a33659d2",
-      "title": "Vissa läkemedel kan minska PFAS i kroppen - Svensk Farmaci",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUlmRDZNNDBoa1JvOC15Ykc1NVlseUdIWnRmQm9od2F0VERGcFFuam1xd0hNNFdrYTJHZllpVUJzZnFoMlB6WjRuaEZtZXZ0Sl9BY2E1SzdrNmh1LVZrcENoM0w5SGV4eGxqWXdocHFmV2VDY2hwMzluLXB3ZFRUVFB2QklRbk5wQ0E?oc=5",
-      "published": "2025-11-04T08:00:00+00:00",
-      "source": {
-        "name": "Svensk Farmaci",
-        "url": "https://www.svenskfarmaci.se"
       }
     },
     {
@@ -954,10 +934,10 @@
       }
     },
     {
-      "id": "72be96040895",
-      "title": "Orforglipron gav bättre effekt men mer biverkningar än semaglutid - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU0Q2bzc2Tzh0THlvVTBMeGowQXFNMERrNkRRUzFWZ2o1b21nOTJnT0NtR2J4Nk13WTFtb2xmakV1QU5PcC1ubzEzRlhNdHoxRkpLcXBVUV9ydEotVWNpRHFUczU2X3EtQV9yc29UcFRqcGw1UzVwUjBaQnNBSzRaS2xENXF3RjNzc29HdFZabWJOS0Vzc0dZZDF1Si03ajh2SFFFdmc3QVlBZkNYdVpTRnkxOUc2RnJPbUktMVcwZw?oc=5",
-      "published": "2026-03-02T08:00:00+00:00",
+      "id": "cba8eed19514",
+      "title": "Hon blir ny hälso- och sjukvårdsdirektör i Norrbotten - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUHF3UlBQR1JYcGVrOEFsLXJFc2ZkLUR4UGRLMzRPVTRhOERPc3ZxU1dhYjdmY0FrZmFaeEZqOTdrNC1vRXU2SDM5OVowc1QwdFJYcGFUYzJDZTkyZTFHem5KUlowcFE2UVlLQkRoaWQyVmJCbExMY1c4X1RxWXZ6U2Fwa2lURlZKLWJFNkVXWnFXcGJVSHBOSlI3WlVRMGk2WEJyU1JR?oc=5",
+      "published": "2025-11-18T08:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -971,16 +951,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "6629f3b10c2a",
-      "title": "Astra Zeneca-medicin godkänd av EU mot magcancer - E55 – Ekonomi hela livet",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiWEVqRDdrUHNEY0VNNTNoS0xiTldqUXQ4OXNoNFRtekhBcG1abVE0Vl9jdnltUXdyY01iOWQ4eElseUNUU0RiM3dZY2RnQThWdTd0YzRRLWdXbGVZT2JDYXI4bzNrb0FGT1BuR0JmcnlQMDZqWDN2WnlXWEM0eHc?oc=5",
-      "published": "2026-03-16T07:00:00+00:00",
-      "source": {
-        "name": "E55 – Ekonomi hela livet",
-        "url": "https://www.e55.se"
       }
     },
     {
@@ -1001,6 +971,36 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "a87fda798652",
+      "title": "Nya möjligheter i behandling av barn och ungdomar med obesitas - Läkartidningen",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3NJMUdsMEZoTWVjNDZQUEpEVnBUOFh3ZkNFWVZrbnF4amtSeGV5eGhKbVFDVnR0YjNFX1VkeDVjUmJMVGlnM0Z3M3RsbnY3Q01FbGpvUTBvaDg3NkdrMXh0d3BTcE5POTRKZjJNZllaakM2VnVKZGZVVGNUOGFRbkxFUlZpQ2cya3dfX3M0VzhuS0RBVmtIck8zY3F3dHcx?oc=5",
+      "published": "2025-11-07T08:00:00+00:00",
+      "source": {
+        "name": "Läkartidningen",
+        "url": "https://lakartidningen.se"
+      }
+    },
+    {
+      "id": "d869946b85df",
+      "title": "Ny kandidat mot fetma och diabetes skonar muskler - LäkemedelsVärlden",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LcW9UenJnWS1MSGtzWnN5WEhreVRobkZDeFlUSWxQd2JwTFd2d0xtX1RjeWJTNWdxZTlLQXQwTmlQc2FoOE1yeEs4b3pDaml0clVMdGhGbWdKanIxTXplbkx3TW5mRDRNaXZPU090WFQzaXp6a0NpMnJn?oc=5",
+      "published": "2025-06-24T07:00:00+00:00",
+      "source": {
+        "name": "LäkemedelsVärlden",
+        "url": "https://www.lakemedelsvarlden.se"
+      }
+    },
+    {
+      "id": "99aa2a2a1e85",
+      "title": "Nya riktlinjerna: Så ska restless legs behandlas - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjUtRlczRTNHOWlvOGcyd2l2TmFFS0YycXJvTUJFb29OcmhlMkJZX2t4V3VfSU9NRWp3UUN4ZTlXcGFBbXpPOHdHbDNsMjFsa2tEVDJxaXBvbEtuNmU5WWQ1bXY5TU9sQmZPTktwTjZ5QWZvQjVZUjVCMDJNVUlsd3N0U1BueFVxUE1rMnJR?oc=5",
+      "published": "2025-07-21T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     }
   ]
