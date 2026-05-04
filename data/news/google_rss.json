@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-04T13:49:08.470777+00:00",
+  "fetched_at": "2026-05-04T15:58:36.461342+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -74,16 +74,6 @@
       }
     },
     {
-      "id": "80655c55f6b0",
-      "title": "Nytt regeringsuppdrag utreder barnmorskors möjlighet att förskriva abortläkemedel - Via TT",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcTNqd3NPaGYtbllDTTVTUjFNeEdtWUtiTzJGWGMwNThKdlMxdHRnX05ZWGFCeGJGN3Q3YmZGSnE5V1l5dDE3bmpoTkUwV241d0lxdFd3OU9lM2VzYlRDaGZOUGN2S0J5UUNjTGtNR0pfQmEzUkE1TFZ4UU9iVWI1S0V6bFFnQU9TZlVCNi1pYm9FVENMMDhaNzZ1MjNFX0NzLUtwT0RkQ1pBcDNIQjIzczMzOGg0bHNrOXBvUWpkUzFGWVd0c3BsWFRyVWIwVmRTMFFlVFlJSGFPejNCWVRKYldlc2tfUQ?oc=5",
-      "published": "2026-05-04T11:46:09+00:00",
-      "source": {
-        "name": "Via TT",
-        "url": "https://via.tt.se"
-      }
-    },
-    {
       "id": "4c3f5ef6f895",
       "title": "Ny lag för nätapotek 2027 – det här förändras när du köper läkemedel online - Metro Mode",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU0pqOXpRUC12WmdVWGIwRmlNOGdHZGRVUjhZb3oxU2JlVGowUE9GZ1RleFB5VnpqLXEyM1NKWmRIeDJnTG02UHFTbjg0ZHQ3anJRSDMyZENNX2JfaDh2TzV0S2lxaUcxaHRMV29sZE15YlVCUy1DZ2J0V3NQM3lUZ0lRSHZwTmNWSHVaNXhsQ2VMNllFSmY3cVhucllMU1d4a2Jv?oc=5",
@@ -91,6 +81,16 @@
       "source": {
         "name": "Metro Mode",
         "url": "https://metromode.se"
+      }
+    },
+    {
+      "id": "80655c55f6b0",
+      "title": "Nytt regeringsuppdrag utreder barnmorskors möjlighet att förskriva abortläkemedel - Via TT",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcTNqd3NPaGYtbllDTTVTUjFNeEdtWUtiTzJGWGMwNThKdlMxdHRnX05ZWGFCeGJGN3Q3YmZGSnE5V1l5dDE3bmpoTkUwV241d0lxdFd3OU9lM2VzYlRDaGZOUGN2S0J5UUNjTGtNR0pfQmEzUkE1TFZ4UU9iVWI1S0V6bFFnQU9TZlVCNi1pYm9FVENMMDhaNzZ1MjNFX0NzLUtwT0RkQ1pBcDNIQjIzczMzOGg0bHNrOXBvUWpkUzFGWVd0c3BsWFRyVWIwVmRTMFFlVFlJSGFPejNCWVRKYldlc2tfUQ?oc=5",
+      "published": "2026-05-04T11:46:09+00:00",
+      "source": {
+        "name": "Via TT",
+        "url": "https://via.tt.se"
       }
     },
     {
@@ -284,16 +284,6 @@
       }
     },
     {
-      "id": "09d8b4f79343",
-      "title": "Forskare kritiserar nej till alzheimerläkemedel: ”Svek mot patienter” - News55",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2JyaUtXTjQyaUJrMmp6YnlVX19ZQVNTazlZNGdVdDY3VU5ROFpGQWtMV2FOSVdaeWZPRHVKS2tFSzNLblVpaGwzZnF1S3A4MExxbExXMDBuZTdMV2RNWkcxbGFoQ28wVjlXRWc0aWtiNG4zX3c2aXBDWkQzbDZSNEw3T0JmVU9fOG5UOXFObG9ack5QZW44bm1hOA?oc=5",
-      "published": "2026-04-28T08:03:38+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "beaa3bac1006",
       "title": "”Varför kan det vara bra att pausa GLP-1-agonister vid dehydrering?” - Janusinfo.se",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVHNlMGIzR2FFazR5NDJUeWFOTU1NQjhYaHI4UV9PT0E2SVQyUXhYS2FQZ1l6bmRuOVUwX28xQ3E4Ukh3TWdROFdycVJuWEwwQ3BncnBOeGdpUy1zMVcwaXFlSk1fOXd6QWUzV1dRZERwVGthMTQ1YjcyN2VLN1FNY2JPRUdITFV6NzE2NEM4TmltVkV5T0tYMjUzdndxVTZjdW9hcXZaNEJXbjRQTWpmdlRwaVY2LUdaak5NUFlISGoxR0doUGc2NF90WlpIbzNtbWVsVVNlT1k3TVVlQjItT2ZWdzJfZUJVbEdz?oc=5",
@@ -304,13 +294,13 @@
       }
     },
     {
-      "id": "c8b892120d6e",
-      "title": "Ser skäl att gå emot valberedningens förslag: ”Rädd att det kan bli toppstyrt” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcm9zLVczT05kVWdBa29mWFhPUXVTYUxwM2p6VzVnMzFsLVNRQjdfWU5TLWllaEtMZ0ptSTRlYVNpSTR5UmlTaXphMHZqTmFfUEdDLUpuMHJwS1AtemVpUk44M0Q5aGRaaGVIRFpuUTFJWjg0TVE3YlZIbjFwQ2dqNUdXUi1uZF8tUVJ5eDJrWVBWSDJKX1dGWS10a3czcGhOMjBmQ3h4YXhaSFBFTEJOZVlUNDd2c2FLNGVfMUpZdFV6YzNwaFVhYg?oc=5",
-      "published": "2026-04-30T03:14:00+00:00",
+      "id": "09d8b4f79343",
+      "title": "Forskare kritiserar nej till alzheimerläkemedel: ”Svek mot patienter” - News55",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2JyaUtXTjQyaUJrMmp6YnlVX19ZQVNTazlZNGdVdDY3VU5ROFpGQWtMV2FOSVdaeWZPRHVKS2tFSzNLblVpaGwzZnF1S3A4MExxbExXMDBuZTdMV2RNWkcxbGFoQ28wVjlXRWc0aWtiNG4zX3c2aXBDWkQzbDZSNEw3T0JmVU9fOG5UOXFObG9ack5QZW44bm1hOA?oc=5",
+      "published": "2026-04-28T08:03:38+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -331,6 +321,16 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "c8b892120d6e",
+      "title": "Ser skäl att gå emot valberedningens förslag: ”Rädd att det kan bli toppstyrt” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcm9zLVczT05kVWdBa29mWFhPUXVTYUxwM2p6VzVnMzFsLVNRQjdfWU5TLWllaEtMZ0ptSTRlYVNpSTR5UmlTaXphMHZqTmFfUEdDLUpuMHJwS1AtemVpUk44M0Q5aGRaaGVIRFpuUTFJWjg0TVE3YlZIbjFwQ2dqNUdXUi1uZF8tUVJ5eDJrWVBWSDJKX1dGWS10a3czcGhOMjBmQ3h4YXhaSFBFTEJOZVlUNDd2c2FLNGVfMUpZdFV6YzNwaFVhYg?oc=5",
+      "published": "2026-04-30T03:14:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -474,20 +474,20 @@
       }
     },
     {
-      "id": "1018d9ec08a3",
-      "title": "Österåker först ut med gratis vaccin mot bältros - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaHVsekRUU3pILUg1TllSR1dLeFg3MGxuWTd1cFNIZ2NkNWgyZG8wS3FKQ3pXaE1oVTZmZ1RMY08zcDBfN29TdWJMaVljVnVKQmJYTjI0MU1rV2ltSjl2X2lmenp0UDU3T3J1SXlMeGJ5ZC10dnNjUWlFRFZYazZWNktSaHI5TkhyUWhwWktIREVpbEstQmdzMVhsN0xXZkkxOVg1cXZIUFA2QQ?oc=5",
-      "published": "2026-04-29T04:01:00+00:00",
+      "id": "3ce03c1d566a",
+      "title": "Semaglutid minskade drickande vid alkoholproblem - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLWFIemkzNU1QVlcxOGV4Z0JsMTZ5elVYdmVfZ0ExQVQ5cG1yNmdhLXhvVTRnb0hzbnFlQkkxSmMycjRtcGN1TnU2cUhoU0xsakZyUUJoN1Q3ZS1xZlgxTElvOXNXSTFTdFhJLUhxSHNta3JQXzdNajdYQWs2NDJpUlBGTlFOZmcyZWNxb2ZrU3J2YXN4SGtVSlVUYU84Rmt6amk0?oc=5",
+      "published": "2026-04-30T13:30:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
       }
     },
     {
-      "id": "3ce03c1d566a",
-      "title": "Semaglutid minskade drickande vid alkoholproblem - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLWFIemkzNU1QVlcxOGV4Z0JsMTZ5elVYdmVfZ0ExQVQ5cG1yNmdhLXhvVTRnb0hzbnFlQkkxSmMycjRtcGN1TnU2cUhoU0xsakZyUUJoN1Q3ZS1xZlgxTElvOXNXSTFTdFhJLUhxSHNta3JQXzdNajdYQWs2NDJpUlBGTlFOZmcyZWNxb2ZrU3J2YXN4SGtVSlVUYU84Rmt6amk0?oc=5",
-      "published": "2026-04-30T13:30:00+00:00",
+      "id": "1018d9ec08a3",
+      "title": "Österåker först ut med gratis vaccin mot bältros - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaHVsekRUU3pILUg1TllSR1dLeFg3MGxuWTd1cFNIZ2NkNWgyZG8wS3FKQ3pXaE1oVTZmZ1RMY08zcDBfN29TdWJMaVljVnVKQmJYTjI0MU1rV2ltSjl2X2lmenp0UDU3T3J1SXlMeGJ5ZC10dnNjUWlFRFZYazZWNktSaHI5TkhyUWhwWktIREVpbEstQmdzMVhsN0xXZkkxOVg1cXZIUFA2QQ?oc=5",
+      "published": "2026-04-29T04:01:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -924,16 +924,6 @@
       }
     },
     {
-      "id": "74e8e2f8acb1",
-      "title": "Pekar ut problem inom tennisen: ”Klarar inte det” - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT3JQV2J4Y2Joa05acGlXRlV3VkxFNS1XT2ZUNTR5ZHBkdTlyVUE5MnY2T1hpS1RPaDIzb05EQkRJWGFaY25MalhXb2dYbFVEZExRd0Z0LU1lLVRrWmNvMU1aZ18wMEpieEsySkpZWXNNdThRLXFEZjlja1RVbHltTjJGekRSdThEMk9DT3JaR1B4MjBMaExoRFJYTjJiNlE0YS1FVGhVMHpibXpKZXpZSzlQQW5zLU84VlNnRmV4TVUtc1FtYkE?oc=5",
-      "published": "2025-07-07T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "d7b083304f39",
       "title": "Regeringen går vidare med förslag om farmaceutsortiment - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1NtZDdhNUhYekJ2cXc3YUVVSkhKZUZLWEVEVEItbWhzenJuVTZTSFdpeDFwbGNqbkN0NTVKbVRvZ0hHZjVTcllMeUhuTHR1TGFWY0VxS0hXVW9hSFRSSkpBM3hCOVMtWmtfSWJUTU9ma2I5T2ozV0o2Y1hfamQ5aEI5SlN4bHRWdjVVRmUwNlN5VXJ1UlYyY05qWGhOMUhrajdpS2F3RFQ?oc=5",
@@ -941,6 +931,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "74e8e2f8acb1",
+      "title": "Pekar ut problem inom tennisen: ”Klarar inte det” - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT3JQV2J4Y2Joa05acGlXRlV3VkxFNS1XT2ZUNTR5ZHBkdTlyVUE5MnY2T1hpS1RPaDIzb05EQkRJWGFaY25MalhXb2dYbFVEZExRd0Z0LU1lLVRrWmNvMU1aZ18wMEpieEsySkpZWXNNdThRLXFEZjlja1RVbHltTjJGekRSdThEMk9DT3JaR1B4MjBMaExoRFJYTjJiNlE0YS1FVGhVMHpibXpKZXpZSzlQQW5zLU84VlNnRmV4TVUtc1FtYkE?oc=5",
+      "published": "2025-07-07T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
