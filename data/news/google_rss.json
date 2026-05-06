@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-06T18:12:32.142560+00:00",
+  "fetched_at": "2026-05-06T20:18:34.693819+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -34,10 +34,10 @@
       }
     },
     {
-      "id": "543ac7cde28a",
-      "title": "Han är ny statsepidemiolog - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdHo1eTN5OUpCYzNqWlVwYS14VG1FWE13U2lQUEo2aFZweHlWYlNTanJLYzQtTXJUWnVmcGVCQmNpMi16eTE3S2FOV1h3bGNEUmxSZ2lzZkZBU21OcWhPLVAtUDN1QW5pUjJIS2RjdE9JTmotWUE3YWYwZFdwZF9vLVg0Yw?oc=5",
-      "published": "2026-05-06T02:45:00+00:00",
+      "id": "ff0b7e849dbb",
+      "title": "Vitalis 2026: E-hälsa och AI i fokus i Göteborg - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzFKaThhOFhERzJld2tEWVRtQ1NMcExRRmt1YzN0MDFJRnpIajdGTjlwODNVNmFMeUpxQjhOTkxSQ3ptYllReUhXaXdYY0lMeWtUUnlyeE5mWWVTTlFjWnFuTkxQbWRJa1VTMDJrTkJLdDBfTDhkTHdQeGN2Z2h6RWNpZy1iNjRuOTNZVC10VEh1NVV1Q3JR?oc=5",
+      "published": "2026-05-04T18:59:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -134,10 +134,10 @@
       }
     },
     {
-      "id": "ff0b7e849dbb",
-      "title": "Vitalis 2026: E-hälsa och AI i fokus i Göteborg - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzFKaThhOFhERzJld2tEWVRtQ1NMcExRRmt1YzN0MDFJRnpIajdGTjlwODNVNmFMeUpxQjhOTkxSQ3ptYllReUhXaXdYY0lMeWtUUnlyeE5mWWVTTlFjWnFuTkxQbWRJa1VTMDJrTkJLdDBfTDhkTHdQeGN2Z2h6RWNpZy1iNjRuOTNZVC10VEh1NVV1Q3JR?oc=5",
-      "published": "2026-05-04T18:59:00+00:00",
+      "id": "543ac7cde28a",
+      "title": "Han är ny statsepidemiolog - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdHo1eTN5OUpCYzNqWlVwYS14VG1FWE13U2lQUEo2aFZweHlWYlNTanJLYzQtTXJUWnVmcGVCQmNpMi16eTE3S2FOV1h3bGNEUmxSZ2lzZkZBU21OcWhPLVAtUDN1QW5pUjJIS2RjdE9JTmotWUE3YWYwZFdwZF9vLVg0Yw?oc=5",
+      "published": "2026-05-06T02:45:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -794,16 +794,6 @@
       }
     },
     {
-      "id": "fe837ca87780",
-      "title": "Nytt läkemedel för diabetes och obesitas visar lovande resultat - Karolinska Institutet",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWGdYUUR2cUlQcWFnc1o2RnJ1M2x3UTk1RmUtU3lOWDdyZm84U0hmRzN5Q0xEVGJZeTNqLWFGOUxycEQ1ZW1MbFBqeWNPRGstMTk1NXI5dElsb1ZkeDduU2stZHFxMEl6V3JBMGxqTl9OVUNQT2pxbjBNTnlQWlgtZm95OVhoWGFmUk1YWERn?oc=5",
-      "published": "2025-06-23T07:00:00+00:00",
-      "source": {
-        "name": "Karolinska Institutet",
-        "url": "https://nyheter.ki.se"
-      }
-    },
-    {
       "id": "de4881739098",
       "title": "Här är läkemedlen som ger flest biverkningar – toppar listan - E55 – Ekonomi hela livet",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRXdhZHZGemxPUUQ1dlJjZE4xbDRoUmNpQ3I4Y2x2X0JUNng1Rno5M3MwY0RTTU1LaEVCcUFzaXlvcDhzMlBzcFdkWTRRaFl3Sk4wU3lBaG00UnZhR2I0cjg4NDhad1VLWUktejRLOTVFNmVQb3I2MnZkYU1nUEVKeUd4TWJrODB6RjVwcg?oc=5",
@@ -811,6 +801,16 @@
       "source": {
         "name": "E55 – Ekonomi hela livet",
         "url": "https://www.e55.se"
+      }
+    },
+    {
+      "id": "fe837ca87780",
+      "title": "Nytt läkemedel för diabetes och obesitas visar lovande resultat - Karolinska Institutet",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWGdYUUR2cUlQcWFnc1o2RnJ1M2x3UTk1RmUtU3lOWDdyZm84U0hmRzN5Q0xEVGJZeTNqLWFGOUxycEQ1ZW1MbFBqeWNPRGstMTk1NXI5dElsb1ZkeDduU2stZHFxMEl6V3JBMGxqTl9OVUNQT2pxbjBNTnlQWlgtZm95OVhoWGFmUk1YWERn?oc=5",
+      "published": "2025-06-23T07:00:00+00:00",
+      "source": {
+        "name": "Karolinska Institutet",
+        "url": "https://nyheter.ki.se"
       }
     },
     {
