@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-09T14:46:08.397342+00:00",
+  "fetched_at": "2026-05-09T15:46:21.525223+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -454,16 +454,6 @@
       }
     },
     {
-      "id": "a07d689d8f7a",
-      "title": "Medicinen förändrar allt – från matbutiken till resorna - DI",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0duVVdsbVFLRmxncExmcWxGckhsNWlJNGNxWnhNZGNvWExiMVNreWFwMnkzOTB1T245aFJsYTVBN29xYU14bkxReVV4M2w0Y295VFRRY184dk1GX1M5X01WTXVzYjVpSlRadEJpbG8xUTdQQ0dLR3lwRHlWWV9vT2w0ZHY5VlE?oc=5",
-      "published": "2026-05-02T16:47:40+00:00",
-      "source": {
-        "name": "DI",
-        "url": "https://www.di.se"
-      }
-    },
-    {
       "id": "a0e744714707",
       "title": "En felaktig hantering av läkemedel anmäls enligt lex Maria - Region Gotland",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZVpKSFBsZnVvSXJzRkNKOUN2aHBBVHJ4dVkzSWV4ZnNNa3NmZXJrVlhLeXh5WC1pQUtlX0ZHS0c3UGM0MnpfR3hIMmhhZkR1aUpFZ3dIMEQ3WFo5T0Y0RzZRZ2kxZTVjMTZ4MThpME1CRWMzVXQxXzhXeEprYUpKX05rNlAwYUtJa0FzWl9iazE1Z05UMWpNSkpjSFRHUGhtTlZ2MmhPZkZhVUtXQTBZN0JhMFM5MGJY?oc=5",
@@ -471,6 +461,16 @@
       "source": {
         "name": "Region Gotland",
         "url": "https://gotland.se"
+      }
+    },
+    {
+      "id": "a07d689d8f7a",
+      "title": "Medicinen förändrar allt – från matbutiken till resorna - DI",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0duVVdsbVFLRmxncExmcWxGckhsNWlJNGNxWnhNZGNvWExiMVNreWFwMnkzOTB1T245aFJsYTVBN29xYU14bkxReVV4M2w0Y295VFRRY184dk1GX1M5X01WTXVzYjVpSlRadEJpbG8xUTdQQ0dLR3lwRHlWWV9vT2w0ZHY5VlE?oc=5",
+      "published": "2026-05-02T16:47:40+00:00",
+      "source": {
+        "name": "DI",
+        "url": "https://www.di.se"
       }
     },
     {
@@ -654,16 +654,6 @@
       }
     },
     {
-      "id": "c81ae16d478b",
-      "title": "Nytt fetmaläkemedel blir billigare – så funkar det - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZVM1S3N4ZmlDZ3IwMDVZMHp3WjBQWk9PM2ZzNDRidzgwY3NOTF82VG5PdzJZTmk4WElMakVtVWEtaVk4UFh1ZHZwU3VRRzVWc08yRXRCdGdTUlFiSTB6d2FCRGNHMDRaQVpCUnpXTHA2RFpZNm9aQW4zRnk1d1BXUnlxTmd5d1R0cjh5eWd5VjJHR0FB?oc=5",
-      "published": "2026-04-15T04:31:56+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "bf10c90b2d16",
       "title": "Adhd-läkemedel kopplade till ökad risk för hjärtproblem - Forte - Forskningsrådet för hälsa, arbetsliv och välfärd",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObXZ5RUttc2VPUURGMlV5TXpHZmprUVJoaDFSaGZicG53el9pYkRPc1EtYzhEMDh2WjFrbVNFWi1sZDVrWGhoYnJIMFJnS2M2YWQ3Y2E3dHlyQndKNGk4TGY4R1FqN2FWNWpBbnNlbDJTUEx1SlowQlVTSTRGTFItbnBIMlZFSEhRSTVPcFJGWkZCel93eHlkQnpUcWV6aW8y?oc=5",
@@ -671,6 +661,16 @@
       "source": {
         "name": "Forte - Forskningsrådet för hälsa, arbetsliv och välfärd",
         "url": "https://forte.se"
+      }
+    },
+    {
+      "id": "c81ae16d478b",
+      "title": "Nytt fetmaläkemedel blir billigare – så funkar det - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZVM1S3N4ZmlDZ3IwMDVZMHp3WjBQWk9PM2ZzNDRidzgwY3NOTF82VG5PdzJZTmk4WElMakVtVWEtaVk4UFh1ZHZwU3VRRzVWc08yRXRCdGdTUlFiSTB6d2FCRGNHMDRaQVpCUnpXTHA2RFpZNm9aQW4zRnk1d1BXUnlxTmd5d1R0cjh5eWd5VjJHR0FB?oc=5",
+      "published": "2026-04-15T04:31:56+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
