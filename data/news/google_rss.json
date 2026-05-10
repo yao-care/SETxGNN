@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-05-10T21:42:55.203744+00:00",
+  "fetched_at": "2026-05-10T22:41:50.697259+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
-    {
-      "id": "368043542fd8",
-      "title": "Nya regler för förskrivning och utlämning av läkemedel: Behandling av flera \"sjukdomar\" - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONWZ4dUFCTHdRSVVZUElSMDdweUl6T1V4dTYxQ2VQYWNJOGIzc2thSVdpZlAxQnVSaDB6X2c0Sm5ueldKQjIySjJkN3I0MHdqRUtZU19WOVlMbDFDWDI0ZXpwOEV5TTBlb1BXekNnLWdVYUliX3B4RFFFcmRuN01EUzlud01Sal9FWnc?oc=5",
-      "published": "2026-05-10T13:41:58+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
     {
       "id": "ccc18c967bc0",
       "title": "Rädda liv och miljö – lämna överblivna läkemedel till apotek - Region Värmland",
@@ -21,6 +11,16 @@
       "source": {
         "name": "Region Värmland",
         "url": "https://www.regionvarmland.se"
+      }
+    },
+    {
+      "id": "368043542fd8",
+      "title": "Nya regler för förskrivning och utlämning av läkemedel: Behandling av flera \"sjukdomar\" - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONWZ4dUFCTHdRSVVZUElSMDdweUl6T1V4dTYxQ2VQYWNJOGIzc2thSVdpZlAxQnVSaDB6X2c0Sm5ueldKQjIySjJkN3I0MHdqRUtZU19WOVlMbDFDWDI0ZXpwOEV5TTBlb1BXekNnLWdVYUliX3B4RFFFcmRuN01EUzlud01Sal9FWnc?oc=5",
+      "published": "2026-05-10T13:41:58+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -44,16 +44,6 @@
       }
     },
     {
-      "id": "171ad9cbe775",
-      "title": "Sjukvården kan avgöra valet 2026 – väljarnas krav är tydliga - Örebronyheter",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkFIcENHVEY5Q1BGekpzSm1BRUppLUswYlcyRF92ZmJWNlNKT0RPS2Q3YnNfT2VQTElTaFNDeEd4dHF2X29aM1ZWTGt1X3E5ZmRURElQSkZscW1JVGlmRjJvRHptZlNRYWFQMlpDMDRfcW9aZFpzVlM2eXZBRWlxRXZsczljdmM0azhCV1ZkdGxEcGc?oc=5",
-      "published": "2026-05-10T05:31:29+00:00",
-      "source": {
-        "name": "Örebronyheter",
-        "url": "https://www.orebronyheter.com"
-      }
-    },
-    {
       "id": "839f300c9a07",
       "title": "\"Barn och ungdomar ska få bästa möjliga läkemedelsbehandling\" - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXVaal9CUXh5MGVMOUJZbnBSY3dvSFVoMG1nVTBieDNtUkxKOXBpQTh6aWYwem5TRnJ5Q0JTR2thX3hLdUZ2a1RZRmw5N1AtSFpWQmNvN3B2eFRabGZMTk1fb0xscTl3Rk51U1JKdmFyUnpQTUpYcTAyN0VYX3Y3Y2d5QTZ6em1Kb0xIUkRkVnBJYlFhc1QwNUxB?oc=5",
@@ -61,6 +51,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "171ad9cbe775",
+      "title": "Sjukvården kan avgöra valet 2026 – väljarnas krav är tydliga - Örebronyheter",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkFIcENHVEY5Q1BGekpzSm1BRUppLUswYlcyRF92ZmJWNlNKT0RPS2Q3YnNfT2VQTElTaFNDeEd4dHF2X29aM1ZWTGt1X3E5ZmRURElQSkZscW1JVGlmRjJvRHptZlNRYWFQMlpDMDRfcW9aZFpzVlM2eXZBRWlxRXZsczljdmM0azhCV1ZkdGxEcGc?oc=5",
+      "published": "2026-05-10T05:31:29+00:00",
+      "source": {
+        "name": "Örebronyheter",
+        "url": "https://www.orebronyheter.com"
       }
     },
     {
