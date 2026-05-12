@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-12T22:56:21.751926+00:00",
+  "fetched_at": "2026-05-12T23:58:31.189766+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -44,16 +44,6 @@
       }
     },
     {
-      "id": "6d5fcd3dd183",
-      "title": "Sjuka BusMarie: ”Medicin är det jag gör avkall på” - Dagens Arena",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU3ctZFBTZGRlSGdmUVNHR3pNUUEtTkZKUkZGdW5GZ0V1Q0RRb1pvWEJKZUwyWjlTU3ZZck9QTnlyd3ZiTDFIcnZtMXloS0ZjZFJ1Ui1vaHlJWHlYaWlYYWxnUHFkUG1udTdyeDNmVXkwRk1mQWJ2aThESXBSRU9WODM2VmFVM21QWWk0?oc=5",
-      "published": "2026-05-11T23:54:27+00:00",
-      "source": {
-        "name": "Dagens Arena",
-        "url": "https://www.dagensarena.se"
-      }
-    },
-    {
       "id": "5a9b9d262642",
       "title": "Fler får Sativex utskrivet – förskrivningen ökar - TV4 Nyheterna",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORy16dFpUaTJFYndodC13enBNWjhkZ2NobEFpUDhkbThkRGtncUozTnYtQWtmemhfbDNTcHM3aG15cllLNi1EbHMyMk1NUncybl9nMDlMekFmeTNiTjdacVZBUVd0NGpEUU1QRlY0dVo3Yk02aVJqSkVWTnpxOWduUTJ0LTVQcFpqQ3I2Sk43ZnJjcG1NQ1MtWkNXUkV3NlAxRmQtQ2c5VnNHdXZ3SWNpazhCdw?oc=5",
@@ -61,6 +51,16 @@
       "source": {
         "name": "TV4 Nyheterna",
         "url": "https://www.tv4.se"
+      }
+    },
+    {
+      "id": "6d5fcd3dd183",
+      "title": "Sjuka BusMarie: ”Medicin är det jag gör avkall på” - Dagens Arena",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU3ctZFBTZGRlSGdmUVNHR3pNUUEtTkZKUkZGdW5GZ0V1Q0RRb1pvWEJKZUwyWjlTU3ZZck9QTnlyd3ZiTDFIcnZtMXloS0ZjZFJ1Ui1vaHlJWHlYaWlYYWxnUHFkUG1udTdyeDNmVXkwRk1mQWJ2aThESXBSRU9WODM2VmFVM21QWWk0?oc=5",
+      "published": "2026-05-11T23:54:27+00:00",
+      "source": {
+        "name": "Dagens Arena",
+        "url": "https://www.dagensarena.se"
       }
     },
     {
@@ -74,16 +74,6 @@
       }
     },
     {
-      "id": "286a73d0ca74",
-      "title": "Ny studie: Wegovy skyddar även mot migrän - DI",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hSW1FbWtOdnZLc1B3WjJKWnhRLWc5RkRiUzFKM3lGMjdEd3ExZW15VXd0dzBCdEJxbHF3X1dkSlRuREhLOWxsemptVFFkUXNPSGgxckRHYTk2UGZnTkxYS1pEVmNianBxZ3p2RUVQMVQ5UQ?oc=5",
-      "published": "2026-05-12T10:49:23+00:00",
-      "source": {
-        "name": "DI",
-        "url": "https://www.di.se"
-      }
-    },
-    {
       "id": "af0f2d39b273",
       "title": "Om oegentlig förskrivning i årsberättelsen om läkemedel - Janusinfo.se",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWVlRaFM1RWVrejd0SkhPVmJBYVk0UmRDUWZpRTFkX3BWeEFKTjAyc3NUNURnd2MwNWM3Sm1QMGM4dUozVkU1NTVBb2ROYTBIcFZUOWt0ODgyNVkxWmNRVjZnZ0FmMi1hTks4TTRBZEJqZngwQldoRjFVemNScDRZOXBxZnZvTXJnRWhsSzlPaTcyWnN4MVBXNlBOakgzNGRRWjNDQ2dhQUp3c3Y3VW1iOEFDLTJObF9lZU5kaG53?oc=5",
@@ -91,6 +81,16 @@
       "source": {
         "name": "Janusinfo.se",
         "url": "https://janusinfo.se"
+      }
+    },
+    {
+      "id": "286a73d0ca74",
+      "title": "Ny studie: Wegovy skyddar även mot migrän - DI",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hSW1FbWtOdnZLc1B3WjJKWnhRLWc5RkRiUzFKM3lGMjdEd3ExZW15VXd0dzBCdEJxbHF3X1dkSlRuREhLOWxsemptVFFkUXNPSGgxckRHYTk2UGZnTkxYS1pEVmNianBxZ3p2RUVQMVQ5UQ?oc=5",
+      "published": "2026-05-12T10:49:23+00:00",
+      "source": {
+        "name": "DI",
+        "url": "https://www.di.se"
       }
     },
     {
@@ -187,10 +187,20 @@
       "id": "10268b7b5d7b",
       "title": "Läkaren Marcus har postcovid – tvingas äta medicin dagligen - TV4 Nyheterna",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdFRJdlZQVzdUeENUVm8zOFdRQmRGU21qZm8zRUZsQUN2c3ZSTzRrNGg2ZjNqaWRPQVBmLXZ0TDBmWjNSVGk4aGhzZHI1MDJEZUN1WmxlU3BqaVhBaERhbDM2QTE5cXNOc2ZSS3dPODZLZXdWN2VvVzNNQ0ZiVm1pblptenZCU2NMTmlfMVVPWTFtb09uMXQzRGV3?oc=5",
-      "published": "2026-05-11T22:34:13+00:00",
+      "published": "2026-05-11T23:32:53+00:00",
       "source": {
         "name": "TV4 Nyheterna",
         "url": "https://www.tv4.se"
+      }
+    },
+    {
+      "id": "12444e08052f",
+      "title": "Analytiker: Läkare föredrar Novo Nordisks piller - DI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02S01vZ3NkY3B3dDFPcXRSNV9kYTZjMWdWYjlzOVdURkhCWnVuNFp2R0RoNG5pLS1kS3FjckFOS2hjNkJJVDRqczJ1azhCNzA3S0lSUEhneWc1OUtUTlhiUEgzMmlsVkZIelhHSzZtS2hYbU1TNlZwZmVyVQ?oc=5",
+      "published": "2026-05-07T13:17:31+00:00",
+      "source": {
+        "name": "DI",
+        "url": "https://www.di.se"
       }
     },
     {
@@ -624,16 +634,6 @@
       }
     },
     {
-      "id": "004c3df5cb27",
-      "title": "Rekordår för parallellimport av läkemedel – steg 50 procent - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWG56Yl9HVEZkb0lEOUdMNkhjSTAyVl9sSV9oZ25rUGhMTTEyMTZQeThzdlpUUUp1SHhUUzRBdlhGNWpnXzNWMlQ1b2pMbzVVbHRyTkcxb19pTUdVY3ZEcU54V1gtVjFSMlVLdDhPWHExQ2NHb1Y4aXVvZlBibXg1RGl3blFKYmxRb3J6Tm4wMWNqVVBzY2RDRnF3bDlSeGtWeWsxTjRxUXFPWHVpLXNj?oc=5",
-      "published": "2026-04-13T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "3974a05d98a8",
       "title": "Läkemedelsverket redovisar framsteg inom psykisk hälsa och suicidprevention - Via TT",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRklQXzNKS3BMUUNIdi1wcmh3Z3lzSGZEWjEzX2o3OE5vUXl1WTZ1bkZCTVFzOUEtZkNZLWpZaGRINEJ5YWtvbDJNX0hZR080bENxbWFYNFV6aWJxT0tGSV9yNXpXbG8yRldtdVotRXZrLTBJRlAwXzZuNHF6X1djZ3REYU9TZDVmejZ2MmZKbEpwYVZwOVJkNXhEX0NBUDlXa2pVb2pyUWFqTXE0TkctY0dxTGpwZHFhNVRrYzlTbml6UEN6NG1QTEt1eW1FOXRSbXlpZkVObEF5RWJaR3c?oc=5",
@@ -641,6 +641,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "004c3df5cb27",
+      "title": "Rekordår för parallellimport av läkemedel – steg 50 procent - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWG56Yl9HVEZkb0lEOUdMNkhjSTAyVl9sSV9oZ25rUGhMTTEyMTZQeThzdlpUUUp1SHhUUzRBdlhGNWpnXzNWMlQ1b2pMbzVVbHRyTkcxb19pTUdVY3ZEcU54V1gtVjFSMlVLdDhPWHExQ2NHb1Y4aXVvZlBibXg1RGl3blFKYmxRb3J6Tm4wMWNqVVBzY2RDRnF3bDlSeGtWeWsxTjRxUXFPWHVpLXNj?oc=5",
+      "published": "2026-04-13T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Illustrerad Vetenskap",
         "url": "https://illvet.se"
-      }
-    },
-    {
-      "id": "7a8d432fc845",
-      "title": "Restless legs: Nya riktlinjer avråder från gamla läkemedel - News55",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWx0aTJhbTR2R011bWQweTRxQVNybmZ3SWp2S1BGQ3hkbnItMXl2cGYzeVdnOEdxdE9fV2VsNzVQbFE1dkVHOE9TckpBSFpSVXg5dXQ3UGlGbUwzX2YtZ2h5MndfYm93c085bFFxR2tnenVhc3NsclRUc2tybTdxTGRZM3ozQmxNYUJJcU1oSQ?oc=5",
-      "published": "2025-10-28T03:51:19+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
       }
     }
   ]
