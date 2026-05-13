@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-13T09:41:12.611694+00:00",
+  "fetched_at": "2026-05-13T12:00:44.752177+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,16 +24,6 @@
       }
     },
     {
-      "id": "85f111959606",
-      "title": "Ny rapport: Läkemedel avgörande för Sveriges motståndskraft - Lif – de forskande läkemedelsföretagen",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGlEdDRfdUpibFQ2X1pnNTZTemI2SHNUQm1GNl9jSy1MSTNPTzZrVFpNMFA0VDdtWDFqNHNlZEVScGc2MFY1cEZPRk1NXzlKYTIybGxleV93VWwzMjcxZlBUUEpkWmdjMHJXU01HSTlEX3BxaTVsbFVXRVpnLTVyck85QUlCTDVkVkRQOU1JVGdoMlk2anlWMQ?oc=5",
-      "published": "2026-05-12T11:37:49+00:00",
-      "source": {
-        "name": "Lif – de forskande läkemedelsföretagen",
-        "url": "https://www.lif.se"
-      }
-    },
-    {
       "id": "ccc18c967bc0",
       "title": "Rädda liv och miljö – lämna överblivna läkemedel till apotek - Region Värmland",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPcDdBRExreXRaV28ta3hRUGFOT3l6QWdwRVR2ZklYbm1RVDRBZ0gzSVFBdl9hRVlwcHZnbHp2ZldRVzJZM3VRVDFhYUNPdWlNaEhaZGFJTWNJZUdpTW5YY0JEdDF5MXJfSTNHQjJnXzBLN3pYMXdJejQ4WEg0bUdyVzdxamlTV1A2WG9JY084Z1J0RUJVU3BBZHd0c1poSExWZWlxUkQzZERqMEpXU01vNDIyTlN6dklzaWhkT2tTMENROGlSODhQc0RhcEk3WmdJemROMTNWWk9LeEpxWGE3bzY3YkZTZEJzejdGNDMwdWNzcV9kTXNERHctTmszTkhRT0RueEdHdG0?oc=5",
@@ -41,6 +31,16 @@
       "source": {
         "name": "Region Värmland",
         "url": "https://www.regionvarmland.se"
+      }
+    },
+    {
+      "id": "85f111959606",
+      "title": "Ny rapport: Läkemedel avgörande för Sveriges motståndskraft - Lif – de forskande läkemedelsföretagen",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGlEdDRfdUpibFQ2X1pnNTZTemI2SHNUQm1GNl9jSy1MSTNPTzZrVFpNMFA0VDdtWDFqNHNlZEVScGc2MFY1cEZPRk1NXzlKYTIybGxleV93VWwzMjcxZlBUUEpkWmdjMHJXU01HSTlEX3BxaTVsbFVXRVpnLTVyck85QUlCTDVkVkRQOU1JVGdoMlk2anlWMQ?oc=5",
+      "published": "2026-05-12T11:37:49+00:00",
+      "source": {
+        "name": "Lif – de forskande läkemedelsföretagen",
+        "url": "https://www.lif.se"
       }
     },
     {
@@ -164,16 +164,6 @@
       }
     },
     {
-      "id": "286a73d0ca74",
-      "title": "Ny studie: Wegovy skyddar även mot migrän - DI",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hSW1FbWtOdnZLc1B3WjJKWnhRLWc5RkRiUzFKM3lGMjdEd3ExZW15VXd0dzBCdEJxbHF3X1dkSlRuREhLOWxsemptVFFkUXNPSGgxckRHYTk2UGZnTkxYS1pEVmNianBxZ3p2RUVQMVQ5UQ?oc=5",
-      "published": "2026-05-12T10:49:23+00:00",
-      "source": {
-        "name": "DI",
-        "url": "https://www.di.se"
-      }
-    },
-    {
       "id": "f1e4ba8c4b23",
       "title": "Rätt läkemedel förbättrar hälsa och sänker kostnader - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTTduS3JKQmtCdk9Fa1hrbWx4V2xQRmdyZ01rRzZtZkc3cWt6Z3VBdlo1OUNpcXpOZERaMTctc1ctSzVPSldJQjB2QlhOT2MteFZTTS1uUE9MX3lfcDJ6bUtZYUpDUTFybHZnTE92c0E4eUo5YUQ3U2hsZktxSHJtNEM5QnJXX0VCRFBkMzNBRkFnd3Nnc1prdg?oc=5",
@@ -181,6 +171,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "286a73d0ca74",
+      "title": "Ny studie: Wegovy skyddar även mot migrän - DI",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hSW1FbWtOdnZLc1B3WjJKWnhRLWc5RkRiUzFKM3lGMjdEd3ExZW15VXd0dzBCdEJxbHF3X1dkSlRuREhLOWxsemptVFFkUXNPSGgxckRHYTk2UGZnTkxYS1pEVmNianBxZ3p2RUVQMVQ5UQ?oc=5",
+      "published": "2026-05-12T10:49:23+00:00",
+      "source": {
+        "name": "DI",
+        "url": "https://www.di.se"
       }
     },
     {
@@ -204,16 +204,6 @@
       }
     },
     {
-      "id": "8d4d897055b8",
-      "title": "Var tionde äldre man ändrar sin medicinering efter tips på nätet - News55",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS21JWm5VZ1dOWGFWNVloN2JvcUtEeUZMdDJ6U2lxbC1RaDlSODZfaW1ERjhKM0JTQ2JaSWtFbk9sbDNTZG9yZWgtdkJpNXV1Z2wzZGhIQzF4NUk3YjNEM3Rjc3d2YlRNaW9lbk1sNVFZaUhJVkNOX21mOWRwY29mbjdDVHVKQkRJZFphdTczYzlla3lhTVFqaQ?oc=5",
-      "published": "2026-05-04T22:32:08+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "beaa3bac1006",
       "title": "”Varför kan det vara bra att pausa GLP-1-agonister vid dehydrering?” - Janusinfo.se",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVHNlMGIzR2FFazR5NDJUeWFOTU1NQjhYaHI4UV9PT0E2SVQyUXhYS2FQZ1l6bmRuOVUwX28xQ3E4Ukh3TWdROFdycVJuWEwwQ3BncnBOeGdpUy1zMVcwaXFlSk1fOXd6QWUzV1dRZERwVGthMTQ1YjcyN2VLN1FNY2JPRUdITFV6NzE2NEM4TmltVkV5T0tYMjUzdndxVTZjdW9hcXZaNEJXbjRQTWpmdlRwaVY2LUdaak5NUFlISGoxR0doUGc2NF90WlpIbzNtbWVsVVNlT1k3TVVlQjItT2ZWdzJfZUJVbEdz?oc=5",
@@ -221,6 +211,16 @@
       "source": {
         "name": "Janusinfo.se",
         "url": "https://janusinfo.se"
+      }
+    },
+    {
+      "id": "8d4d897055b8",
+      "title": "Var tionde äldre man ändrar sin medicinering efter tips på nätet - News55",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS21JWm5VZ1dOWGFWNVloN2JvcUtEeUZMdDJ6U2lxbC1RaDlSODZfaW1ERjhKM0JTQ2JaSWtFbk9sbDNTZG9yZWgtdkJpNXV1Z2wzZGhIQzF4NUk3YjNEM3Rjc3d2YlRNaW9lbk1sNVFZaUhJVkNOX21mOWRwY29mbjdDVHVKQkRJZFphdTczYzlla3lhTVFqaQ?oc=5",
+      "published": "2026-05-04T22:32:08+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -504,16 +504,6 @@
       }
     },
     {
-      "id": "dc10d41ea2e9",
-      "title": "Lite och långsamt - ”fantastisk”strategi för småttingar med jordnötsallergi - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNEMzdE0xU19Ld1pWbGctV2lVaE4xajBZa3VFZ1BzQzY2Z05ibEg1Q0lVU1BEOUFhZzloLTBmdS1tcWNHNlVILUhkTFc2a1V1RU5oVEY0bVBObDZWQndiQWowX1duZTUwOXhhMDRkVWhZXzVwdnZJT1F2ZTlnWlh3TTlIc2taVnFfMjNUYmZKeFg5RklVVDM4STJTWW5acTdVZEFRdl9HRFJDcnE5X0hwaEFyd1VIZU10QktJa25PYi1SeTF2d0ZYN2I3RGY?oc=5",
-      "published": "2026-05-06T13:30:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "a532c8ae1ab9",
       "title": "Medicinen som kan förändra allt – från matbutiken till världsekonomin - Dagens Nyheter",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcVMzRFQwUXlTUG5NUF9wNHFXY1VNYW5zX1JUZXhIaDJZTlJrOVhIZFZVQ2VhVzYzTEh6TzBQRXdjTzlNd2NRVWJyYUlpMXFnTW01cUhDaWotYVUza2RpT3pjSWtfeVlUZUJSMHh5ZmNWMHJzaEstdl9qR3FybTFPUUVSY2wzR1dfWGRNeXkxenVlWDdLazZWbnpB?oc=5",
@@ -564,20 +554,20 @@
       }
     },
     {
-      "id": "80c643f65227",
-      "title": "Ny studie: Läkemedel minskade svår covidtrötthet - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ1dUZ1lUMGg2aW1BQ1NyM2tuSVVDejJmUXlWME01bzV4NmlObjE1a2U2dEZyS3M2OTRtd0pyaDVTZk5EM2Z3RlpuZk45VkdNOVk4T3g5M3ptUlpPY3NpZVpiMFVWQkhFMFk1RVBBZTVZU0JoMWJPVUc3cU5Nc2hGTk5uTThzOENwNnBEMzU5QmtuSk0?oc=5",
-      "published": "2026-04-15T07:00:00+00:00",
+      "id": "dee2179521b6",
+      "title": "Bristen kan försämra effekten av adhd-medicin - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXRONVk3M0NRU2ZMMHJZS0o2YkhyOWNDMEw2ZjRUSDZQU1RvOXUyRVdadEV3NmxZcVBadUJTRjAyazdzNm8zUDhUdUsxb1lzWWpocFE3SWFIU0Q4Zm5JVWhnOGlvZHA5ZE13RGRlMVNoZU82aHljMXhyNVlhSkhxaHpJbFZFOGFzcHI5eWxn?oc=5",
+      "published": "2026-02-09T08:00:00+00:00",
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
       }
     },
     {
-      "id": "dee2179521b6",
-      "title": "Bristen kan försämra effekten av adhd-medicin - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXRONVk3M0NRU2ZMMHJZS0o2YkhyOWNDMEw2ZjRUSDZQU1RvOXUyRVdadEV3NmxZcVBadUJTRjAyazdzNm8zUDhUdUsxb1lzWWpocFE3SWFIU0Q4Zm5JVWhnOGlvZHA5ZE13RGRlMVNoZU82aHljMXhyNVlhSkhxaHpJbFZFOGFzcHI5eWxn?oc=5",
-      "published": "2026-02-09T08:00:00+00:00",
+      "id": "80c643f65227",
+      "title": "Ny studie: Läkemedel minskade svår covidtrötthet - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ1dUZ1lUMGg2aW1BQ1NyM2tuSVVDejJmUXlWME01bzV4NmlObjE1a2U2dEZyS3M2OTRtd0pyaDVTZk5EM2Z3RlpuZk45VkdNOVk4T3g5M3ptUlpPY3NpZVpiMFVWQkhFMFk1RVBBZTVZU0JoMWJPVUc3cU5Nc2hGTk5uTThzOENwNnBEMzU5QmtuSk0?oc=5",
+      "published": "2026-04-15T07:00:00+00:00",
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
@@ -591,6 +581,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "dc10d41ea2e9",
+      "title": "Lite och långsamt - ”fantastisk”strategi för småttingar med jordnötsallergi - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNEMzdE0xU19Ld1pWbGctV2lVaE4xajBZa3VFZ1BzQzY2Z05ibEg1Q0lVU1BEOUFhZzloLTBmdS1tcWNHNlVILUhkTFc2a1V1RU5oVEY0bVBObDZWQndiQWowX1duZTUwOXhhMDRkVWhZXzVwdnZJT1F2ZTlnWlh3TTlIc2taVnFfMjNUYmZKeFg5RklVVDM4STJTWW5acTdVZEFRdl9HRFJDcnE5X0hwaEFyd1VIZU10QktJa25PYi1SeTF2d0ZYN2I3RGY?oc=5",
+      "published": "2026-05-06T13:30:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -654,16 +654,6 @@
       }
     },
     {
-      "id": "85e7e40396da",
-      "title": "Nya läkemedel mot alzheimers får hård kritik – liten nytta för patienterna - News55",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSC14VEl2S2MzWWNJaHRPeFRVMEhYM1V4dmRtbVpWbVVFSnJJTDhRVHBzVjZOWi1GemZQMFZVMGJPTUFrVzNGVF8zM0c3aHB1NUhUUDNxRm9nSUtjWk9GbGk2LWRHWHFIQW9uX3R1ZlNpY1dqTEJCcTR6eHNRZGlYWGo3NDNsUkE5S2FrTzZMOXNDNDhoNlFpeHVTNW1QZW1scU1n?oc=5",
-      "published": "2026-04-17T07:00:00+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "3974a05d98a8",
       "title": "Läkemedelsverket redovisar framsteg inom psykisk hälsa och suicidprevention - Via TT",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRklQXzNKS3BMUUNIdi1wcmh3Z3lzSGZEWjEzX2o3OE5vUXl1WTZ1bkZCTVFzOUEtZkNZLWpZaGRINEJ5YWtvbDJNX0hZR080bENxbWFYNFV6aWJxT0tGSV9yNXpXbG8yRldtdVotRXZrLTBJRlAwXzZuNHF6X1djZ3REYU9TZDVmejZ2MmZKbEpwYVZwOVJkNXhEX0NBUDlXa2pVb2pyUWFqTXE0TkctY0dxTGpwZHFhNVRrYzlTbml6UEN6NG1QTEt1eW1FOXRSbXlpZkVObEF5RWJaR3c?oc=5",
@@ -671,6 +661,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "85e7e40396da",
+      "title": "Nya läkemedel mot alzheimers får hård kritik – liten nytta för patienterna - News55",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSC14VEl2S2MzWWNJaHRPeFRVMEhYM1V4dmRtbVpWbVVFSnJJTDhRVHBzVjZOWi1GemZQMFZVMGJPTUFrVzNGVF8zM0c3aHB1NUhUUDNxRm9nSUtjWk9GbGk2LWRHWHFIQW9uX3R1ZlNpY1dqTEJCcTR6eHNRZGlYWGo3NDNsUkE5S2FrTzZMOXNDNDhoNlFpeHVTNW1QZW1scU1n?oc=5",
+      "published": "2026-04-17T07:00:00+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -914,16 +914,6 @@
       }
     },
     {
-      "id": "64ee9acc9441",
-      "title": "NY STUDIE: Medlen med bäst effekt mot ångest - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnh3a1VhbjVRSkJEeUJ6a0pZeTRkS3A0cmczX18tNXloa2JQXy13WDRuOVFOaXVIOERXdE9COEo0VDRqWC1nSTcxeUNRWlFlcVg4UWtsZ3JySkpwWWZWOF9HX0J4bXZZWk1IaW5sZTZoZWJsZWN4RF9VOF9UX1UwaEdRUV9fTlp1YjFFTVMwMjJfLWs?oc=5",
-      "published": "2026-02-05T08:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "f8b4a6bc6c05",
       "title": "Många äldre har inte tillräckligt med läkemedel hemma - News55",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbDNlREhqb0hVa01pQkxYOTFxX0dWc0h6ZGE1Y0kzUXJFME1DU2ZZRnMxRXcwNUFMUGJUVkM2OFRRSkptLVU2SlVxQTdnM041MFlxUFhFdVN5b0tpM3UydkxKSmJXSUtMcjBCWmw1d3MxdXU5NS1QMjl4RGlOR2dVSzFEOGtWeWZnLXc?oc=5",
@@ -998,6 +988,16 @@
       "title": "Så ska ångest och depression behandlas - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT0NhQzRyUzFmNmxhd0E4TkdzdmlKaVZLdzVBQ1pyU210T0tTc3NTa2JZRUdzZGpQRld4VFowWnhIdlZFRGNWUmhKbzl1cHhqaTgwQ1pHcE1PbTktaXRoTzFySWtwcFMtZ25xd3R0TFoyYjBraTdjc3E2QjQyUnF3Vzl6dTZaWFE?oc=5",
       "published": "2025-12-07T08:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "64ee9acc9441",
+      "title": "NY STUDIE: Medlen med bäst effekt mot ångest - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnh3a1VhbjVRSkJEeUJ6a0pZeTRkS3A0cmczX18tNXloa2JQXy13WDRuOVFOaXVIOERXdE9COEo0VDRqWC1nSTcxeUNRWlFlcVg4UWtsZ3JySkpwWWZWOF9HX0J4bXZZWk1IaW5sZTZoZWJsZWN4RF9VOF9UX1UwaEdRUV9fTlp1YjFFTVMwMjJfLWs?oc=5",
+      "published": "2026-02-05T08:00:00+00:00",
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
