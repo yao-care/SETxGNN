@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-17T21:51:35.240023+00:00",
+  "fetched_at": "2026-05-17T22:49:17.948421+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -114,16 +114,6 @@
       }
     },
     {
-      "id": "55ca37f9cfa5",
-      "title": "Forskare försvarar alzheimer­läkemedel efter hårda kritiken - Forskning & Framsteg",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTHQ1VWVlX3h5X1l0a2lDazlHMWltWUxrTnY5a2hKQy1NTl9rRjlaSGVieUl4OFVCN2huUEYxbEZKLWdFemRWWXpDaENxZEYtT0JKUU9abDdwd3psRkpPMnBUWGR6bGtRVGpWek9uWnZUNl9IR2V4VDVvaWlnaGZhcGpvTQ?oc=5",
-      "published": "2026-04-20T07:00:00+00:00",
-      "source": {
-        "name": "Forskning & Framsteg",
-        "url": "https://fof.se"
-      }
-    },
-    {
       "id": "d43adad457c4",
       "title": "Allt fler ifrågasätter sina mediciner enligt ny svensk studie - E55 – Ekonomi hela livet",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSjZlS3g4ZVJZenBSWGVhUktsVVlHMS1GaXhBeWtSY2ZwMkVHMEdiaGZVRWM1TUNmV1RjU19Za2hLUFM4dFhZTEEweVh4WmNSZGp1TW1mREs0NGxsVUlGOEI5NEpzdWxpeG8zaVlhdC1FM25lSkVxRmlTTklUN2NIS1NUMWtvSEJZTG9iVXlTSVE?oc=5",
@@ -131,6 +121,16 @@
       "source": {
         "name": "E55 – Ekonomi hela livet",
         "url": "https://www.e55.se"
+      }
+    },
+    {
+      "id": "55ca37f9cfa5",
+      "title": "Forskare försvarar alzheimer­läkemedel efter hårda kritiken - Forskning & Framsteg",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTHQ1VWVlX3h5X1l0a2lDazlHMWltWUxrTnY5a2hKQy1NTl9rRjlaSGVieUl4OFVCN2huUEYxbEZKLWdFemRWWXpDaENxZEYtT0JKUU9abDdwd3psRkpPMnBUWGR6bGtRVGpWek9uWnZUNl9IR2V4VDVvaWlnaGZhcGpvTQ?oc=5",
+      "published": "2026-04-20T07:00:00+00:00",
+      "source": {
+        "name": "Forskning & Framsteg",
+        "url": "https://fof.se"
       }
     },
     {
@@ -224,16 +224,6 @@
       }
     },
     {
-      "id": "7a894510a4b6",
-      "title": "Ny studie: Högre viktnedgång med högdos Wegovy - Dagens industri",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UaEUtMW00dXhobzVDWC1jSGItR2FFaExrX0trWUdFQlR1TlhWeDhORE0xRGFqQXdwYzBsa0tFYVA3dlU2RE11ZEhiRHBsVlE1OXV2SFAxTXBqLXNoSlBhczRQajhaNXUxcndaZWwzZmhiVGgxczN4Vg?oc=5",
-      "published": "2026-05-12T06:28:57+00:00",
-      "source": {
-        "name": "Dagens industri",
-        "url": "https://www.di.se"
-      }
-    },
-    {
       "id": "e786d9728a1e",
       "title": "Diabetesläkemedel kopplas till minskad psykisk ohälsa - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGpaVjZ1MlhUM0Ffc1lfYXpfVUZ2N0FnMjBuckZOQ0ZvX2pMX1d3blBGQUZ4TUltYlJtbTUwUDFicF80ZWtjSDh2UndrYmZaSFJiTWxnVXlGeWdlRXBfLXoyWFFlUkhaR25QbWwtNnF1QTlMX2s1MldyOURVSFBtWDQzd1huZGpYVE11MjdQM3l4VkM5ZG9TUVdB?oc=5",
@@ -241,6 +231,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "7a894510a4b6",
+      "title": "Ny studie: Högre viktnedgång med högdos Wegovy - Dagens industri",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UaEUtMW00dXhobzVDWC1jSGItR2FFaExrX0trWUdFQlR1TlhWeDhORE0xRGFqQXdwYzBsa0tFYVA3dlU2RE11ZEhiRHBsVlE1OXV2SFAxTXBqLXNoSlBhczRQajhaNXUxcndaZWwzZmhiVGgxczN4Vg?oc=5",
+      "published": "2026-05-12T06:28:57+00:00",
+      "source": {
+        "name": "Dagens industri",
+        "url": "https://www.di.se"
       }
     },
     {
@@ -394,26 +394,6 @@
       }
     },
     {
-      "id": "eb16c40b8360",
-      "title": "Annexin får godkänt för klinisk prövning i Tyskland - Dagens industri",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFwams1TklYd1ZicVdjdm90akJpU2lEcHRMOGdXbkQ3TEptakZZREJxX2NuVVpoeGktT2pYc2RQczJ4VkNtQ29wcG9qenQxMTVpNnJ0OUhSMWJTQXB4VC0wUk5WRUYtXzA1YVl5RnZlaGlhNksxWHhmV0pEWWJyNzBwLV8?oc=5",
-      "published": "2026-05-11T06:48:41+00:00",
-      "source": {
-        "name": "Dagens industri",
-        "url": "https://www.di.se"
-      }
-    },
-    {
-      "id": "078f47963f65",
-      "title": "Företag föreslår att man undanröjer hinder för utvecklingen av traditionell medicin. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEFtMzhnOGd1bmhXbFNvT1RMam9HbllNaExKQkhFZW1FeDRvMWEtem1McWI3S3ZfZXZrWEM2aE9WaEVzWHVXNG1IRmVwTnlOb1dxMC10b0VGdTlYdjgtMklKNHR2UjNlUTBHNWVjMm9jTU9lSUpXSm5ITDhMUWhyOHpSN2lyWlpZdkt6d0xUTlNSTFJONi1uOQ?oc=5",
-      "published": "2026-05-15T12:06:48+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "b9f05f98aa99",
       "title": "”Vi ska väga både hälsa och pengar” - Svenska Dagbladet",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjRjR2NzaGRwdUtOQjJvZDlpVDc1SDhJcDZ1dzFYaU9vT1NPM0tRZFoxcHlYaHZLVHJWd1UzLVhHaUFKODVMcnE4cHJYVlNVbWRXRnd3bnkta0czT0NiU3RvVndwTHR4bG8zWGhfQnJMZlJzNDNGVDU0bDRFdVVSejdaYk1VMG9sM1hj?oc=5",
@@ -434,6 +414,16 @@
       }
     },
     {
+      "id": "078f47963f65",
+      "title": "Företag föreslår att man undanröjer hinder för utvecklingen av traditionell medicin. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEFtMzhnOGd1bmhXbFNvT1RMam9HbllNaExKQkhFZW1FeDRvMWEtem1McWI3S3ZfZXZrWEM2aE9WaEVzWHVXNG1IRmVwTnlOb1dxMC10b0VGdTlYdjgtMklKNHR2UjNlUTBHNWVjMm9jTU9lSUpXSm5ITDhMUWhyOHpSN2lyWlpZdkt6d0xUTlNSTFJONi1uOQ?oc=5",
+      "published": "2026-05-15T12:06:48+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
       "id": "014a4d4d4024",
       "title": "Region Skåne häver avtal med vårdcentral i Malmö - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHc1TFh1SlVMV19XLTZuc01kclcyWllaMWc1ck1IcE1rSlNUTzIzYS1GNGxXQ2NJdTBfU3lmZHBxaXlJSllTX1VnWUZzLWR4TkVkTUhIRXJHZVlaY2VyeUpsZkVLYlAyQWJpeUpiUDlwYzZ3SXZkTURzZEM4ZmJodTVUd0o5YzR2MUQxcEZYX1NJZ1hyZ3MxemZ5UFB5TE1zY25XZkIwc2dFR25KdWg4?oc=5",
@@ -451,6 +441,16 @@
       "source": {
         "name": "Forskning & Framsteg",
         "url": "https://fof.se"
+      }
+    },
+    {
+      "id": "eb16c40b8360",
+      "title": "Annexin får godkänt för klinisk prövning i Tyskland - Dagens industri",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFwams1TklYd1ZicVdjdm90akJpU2lEcHRMOGdXbkQ3TEptakZZREJxX2NuVVpoeGktT2pYc2RQczJ4VkNtQ29wcG9qenQxMTVpNnJ0OUhSMWJTQXB4VC0wUk5WRUYtXzA1YVl5RnZlaGlhNksxWHhmV0pEWWJyNzBwLV8?oc=5",
+      "published": "2026-05-11T06:48:41+00:00",
+      "source": {
+        "name": "Dagens industri",
+        "url": "https://www.di.se"
       }
     },
     {
