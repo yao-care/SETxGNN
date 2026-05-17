@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-17T13:10:36.324581+00:00",
+  "fetched_at": "2026-05-17T14:52:34.387888+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "7750d4cdfe56",
-      "title": "Ny rapport: Läkemedel avgörande för Sveriges motståndskraft - Medicinsk Access",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUF90U0xlemY2Q3lTaXhDVTd0eGFKcjljVVVlcnBZTDJ0YkVGcDc2VERaOHVxenVqQnhXZURrQnJIUzV4Vncxc25uQzBsMnlXWm5rZDkxcDBBQzQ3Z1NodkhweDJhb1RubHRyTDViTXVSUHVSNGZ2MDZKYUdkSEZpUS16dXFiWFQzVHRFcVpObThJX0RfYzRvOURHeldrQ2s?oc=5",
-      "published": "2026-05-12T14:41:23+00:00",
-      "source": {
-        "name": "Medicinsk Access",
-        "url": "https://medicinskaccess.se"
-      }
-    },
-    {
       "id": "dd7b78a69ae3",
       "title": "Läkemedel - Ny Rutin för penicillinprovokation hos barn och vuxna i primärvården - Region Blekinge",
       "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNaUtjS1NOSkVzQ2ZxMl9TV3J3VjdPVjFreE9FbFQxRUlRRUhDeUFETkVwYlJkeUg3bXB1OXVlQ01pVUdGY0E4S20taUhQU2tCbUJYMHVZeHcwMzdMNElsOFFGWVYzNXhCcGlrd1ZBT0hEaWdzcTYtTTRLcHUwLWk1UEpUbWprWFJveEV5aGxsME16eFlJVzJPZTV5R0RLb0pPOFFIYnNBMG5rYnFUODJSMUE5S0tHTDVVcjlmUUVnSWpDMzZXMHBPMVZvTnBiaEN1UmkzdXd1TUVRM09TUXZmZVRONUxYaW9aT1VjeXI1TXJLLXVxV0gyT0xCYi03ZklZNkhIRWgyTHVFVF9nRDFyeThTX3FyMWVHekdqc2ZmX095ZzZWWVN1U1M0YjVEa2xTWTFyRDFyRXdBbnBIcWZYMDlyU1R1UUxFUGRxTjR5clIweDhZOTk2enhPNmVsOFluNVRTVlFYajc?oc=5",
@@ -84,13 +74,13 @@
       }
     },
     {
-      "id": "a0e58137309b",
-      "title": "Nya data: Explosionsartat uppsving av obesitasläkemedel inom flera kliniska specialiteter - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWV3dWpnQm9DQUJmNWVHUGs5LVZ5dWl4SUl4cHlhY01TWWZ3RzM1aVpyeHNwQi1yYjhoTE5UZnlYRG9QQ054anNpNU9jWmRlNkxDLUI3MnVZRkJRYmpUUDBzczlxOUYzNm1sSUJaSThwbE9pTThyU2t2LWFtSmEzd1NROW84alZmZ3VXc2VwS3hmTDZDWHhNQUVzdkJzY1pFRUE0RGtta2JVbzgzdlk3dFF3aTdzTk1QemtuRGlGRHZsb1FyTE1meG1raVBHQ3lRZWQtRVV0dHE?oc=5",
-      "published": "2026-05-15T00:45:00+00:00",
+      "id": "7750d4cdfe56",
+      "title": "Ny rapport: Läkemedel avgörande för Sveriges motståndskraft - Medicinsk Access",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUF90U0xlemY2Q3lTaXhDVTd0eGFKcjljVVVlcnBZTDJ0YkVGcDc2VERaOHVxenVqQnhXZURrQnJIUzV4Vncxc25uQzBsMnlXWm5rZDkxcDBBQzQ3Z1NodkhweDJhb1RubHRyTDViTXVSUHVSNGZ2MDZKYUdkSEZpUS16dXFiWFQzVHRFcVpObThJX0RfYzRvOURHeldrQ2s?oc=5",
+      "published": "2026-05-12T14:41:23+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "Medicinsk Access",
+        "url": "https://medicinskaccess.se"
       }
     },
     {
@@ -111,6 +101,16 @@
       "source": {
         "name": "Forskning.se",
         "url": "https://forskning.se"
+      }
+    },
+    {
+      "id": "a0e58137309b",
+      "title": "Nya data: Explosionsartat uppsving av obesitasläkemedel inom flera kliniska specialiteter - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWV3dWpnQm9DQUJmNWVHUGs5LVZ5dWl4SUl4cHlhY01TWWZ3RzM1aVpyeHNwQi1yYjhoTE5UZnlYRG9QQ054anNpNU9jWmRlNkxDLUI3MnVZRkJRYmpUUDBzczlxOUYzNm1sSUJaSThwbE9pTThyU2t2LWFtSmEzd1NROW84alZmZ3VXc2VwS3hmTDZDWHhNQUVzdkJzY1pFRUE0RGtta2JVbzgzdlk3dFF3aTdzTk1QemtuRGlGRHZsb1FyTE1meG1raVBHQ3lRZWQtRVV0dHE?oc=5",
+      "published": "2026-05-15T00:45:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -164,16 +164,6 @@
       }
     },
     {
-      "id": "f7555bf6cd5f",
-      "title": "Nytt centrum ska främja barns och ungas hälsa - Janusinfo.se",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYjhWdW96YzFhYVFocmE5UE43TUU3RDFiLWIwQVNsaVM3aXExeTJpMm92d2JlZDE3c3hyS1QyYXpMTE1hWGR5M2dyNkszUXczMXNpWmRwYVRyRFB4NG5mYXU2aWtrU2NFVXhaOWZQa2c4MFNxVkY5MXk5bWs2UDRGY2N1N05RRkVPZWQ0cGM1OUNydDZRZzhtb2NuS0YxY1NydE9sQmdDRjdaN1RJSG9PRThIY0E3QXl5VUtZekk3NUNnNnlaSkZGZDdmTlNYdldPQkswYW14eEQ3VWNtYmZv?oc=5",
-      "published": "2025-10-06T07:00:00+00:00",
-      "source": {
-        "name": "Janusinfo.se",
-        "url": "https://janusinfo.se"
-      }
-    },
-    {
       "id": "d7f1f52d8940",
       "title": "Nedtrappning av injektioner mot obesitas gav bra resultat - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0ViQUtSRmRMaTh3WlM2WnBRS2tDTGwwSktoZW5IYVM1Yzd3eUZKVlJqZmpCNGxteXZ3QXZCN2tkMGdmTWlId3g2ek9zckRvZ3k4VWJRYzV4dzJXbWxxSFpRNkNaLWE0bmg2ZWI5djR1YVJTRlJGVDJPLXJOdzVSTVpPQTFQdXRsRjhaakpwT3AweW5oa2NtNlZobGw2VkpWYlpVUnA0Q181YmFaRG1v?oc=5",
@@ -181,6 +171,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "f7555bf6cd5f",
+      "title": "Nytt centrum ska främja barns och ungas hälsa - Janusinfo.se",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYjhWdW96YzFhYVFocmE5UE43TUU3RDFiLWIwQVNsaVM3aXExeTJpMm92d2JlZDE3c3hyS1QyYXpMTE1hWGR5M2dyNkszUXczMXNpWmRwYVRyRFB4NG5mYXU2aWtrU2NFVXhaOWZQa2c4MFNxVkY5MXk5bWs2UDRGY2N1N05RRkVPZWQ0cGM1OUNydDZRZzhtb2NuS0YxY1NydE9sQmdDRjdaN1RJSG9PRThIY0E3QXl5VUtZekk3NUNnNnlaSkZGZDdmTlNYdldPQkswYW14eEQ3VWNtYmZv?oc=5",
+      "published": "2025-10-06T07:00:00+00:00",
+      "source": {
+        "name": "Janusinfo.se",
+        "url": "https://janusinfo.se"
       }
     },
     {
@@ -244,16 +244,6 @@
       }
     },
     {
-      "id": "7a894510a4b6",
-      "title": "Ny studie: Högre viktnedgång med högdos Wegovy - Dagens industri",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UaEUtMW00dXhobzVDWC1jSGItR2FFaExrX0trWUdFQlR1TlhWeDhORE0xRGFqQXdwYzBsa0tFYVA3dlU2RE11ZEhiRHBsVlE1OXV2SFAxTXBqLXNoSlBhczRQajhaNXUxcndaZWwzZmhiVGgxczN4Vg?oc=5",
-      "published": "2026-05-12T06:28:57+00:00",
-      "source": {
-        "name": "Dagens industri",
-        "url": "https://www.di.se"
-      }
-    },
-    {
       "id": "661e5e895a59",
       "title": "PFAS lämnar kroppen snabbare med vissa läkemedel - Göteborgs universitet",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdzQtVGltZzNOaHRzakxGcktvdDJvdEpFTUVHTFVYbU9VUko4dnprampfVnQ3azhiZHcydmNwV29xd2pPSUNJM0NzUFFBRHFQUzVTUXFHZjFIYWhfbVFSUFJJaW5DckRrdjlVLTU0Qy1XRGZkSnhsS3FnMl95VWc?oc=5",
@@ -261,6 +251,16 @@
       "source": {
         "name": "Göteborgs universitet",
         "url": "https://www.gu.se"
+      }
+    },
+    {
+      "id": "7a894510a4b6",
+      "title": "Ny studie: Högre viktnedgång med högdos Wegovy - Dagens industri",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UaEUtMW00dXhobzVDWC1jSGItR2FFaExrX0trWUdFQlR1TlhWeDhORE0xRGFqQXdwYzBsa0tFYVA3dlU2RE11ZEhiRHBsVlE1OXV2SFAxTXBqLXNoSlBhczRQajhaNXUxcndaZWwzZmhiVGgxczN4Vg?oc=5",
+      "published": "2026-05-12T06:28:57+00:00",
+      "source": {
+        "name": "Dagens industri",
+        "url": "https://www.di.se"
       }
     },
     {
@@ -304,16 +304,6 @@
       }
     },
     {
-      "id": "5a9b9d262642",
-      "title": "Fler får Sativex utskrivet – förskrivningen ökar - TV4 Nyheterna",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORy16dFpUaTJFYndodC13enBNWjhkZ2NobEFpUDhkbThkRGtncUozTnYtQWtmemhfbDNTcHM3aG15cllLNi1EbHMyMk1NUncybl9nMDlMekFmeTNiTjdacVZBUVd0NGpEUU1QRlY0dVo3Yk02aVJqSkVWTnpxOWduUTJ0LTVQcFpqQ3I2Sk43ZnJjcG1NQ1MtWkNXUkV3NlAxRmQtQ2c5VnNHdXZ3SWNpazhCdw?oc=5",
-      "published": "2026-05-12T18:08:42+00:00",
-      "source": {
-        "name": "TV4 Nyheterna",
-        "url": "https://www.tv4.se"
-      }
-    },
-    {
       "id": "7d420bd903cc",
       "title": "LISTA: Läkemedlen som kan göra dig sjuk - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRFN4eVYwNFY1UU9ucEhRU2dmWGtFSzRUTHZsSUtibzlSanJZRHR1dVdHaGhFdG5yZE1ObDJRUWlXZy1uOXVpNkphMlZ0S21QaFpzTlBCQ1Q1M2J0Y0hqSXNiNW5fbzYtM0lwakJ3dlRQTG5DUWo5c2Y2VG5QU096YlMxTmQxejVyNFlv?oc=5",
@@ -324,6 +314,16 @@
       }
     },
     {
+      "id": "5a9b9d262642",
+      "title": "Fler får Sativex utskrivet – förskrivningen ökar - TV4 Nyheterna",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORy16dFpUaTJFYndodC13enBNWjhkZ2NobEFpUDhkbThkRGtncUozTnYtQWtmemhfbDNTcHM3aG15cllLNi1EbHMyMk1NUncybl9nMDlMekFmeTNiTjdacVZBUVd0NGpEUU1QRlY0dVo3Yk02aVJqSkVWTnpxOWduUTJ0LTVQcFpqQ3I2Sk43ZnJjcG1NQ1MtWkNXUkV3NlAxRmQtQ2c5VnNHdXZ3SWNpazhCdw?oc=5",
+      "published": "2026-05-12T18:08:42+00:00",
+      "source": {
+        "name": "TV4 Nyheterna",
+        "url": "https://www.tv4.se"
+      }
+    },
+    {
       "id": "f2ea459f249a",
       "title": "Fetmamedel kan kopplas till bättre psykisk hälsa - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaDRKZ0k5ZDB0Vko4dkdjRkFuTHNQSHFwaE5DVW9kQnJMVXBqaldTOTJFU211ODNLcXRIdmZOUDFUdkJFbDFmWE9pMVJ3MmR4a0dKY1J1UkgxaERXM2NSVUZaUk1RbWNpa3dYUzhXWVRET3BvSkNpdGJkc0J2R1NGeFJYSnFvQTc5ZW5jckx2OA?oc=5",
@@ -331,16 +331,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "eb16c40b8360",
-      "title": "Annexin får godkänt för klinisk prövning i Tyskland - Dagens industri",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFwams1TklYd1ZicVdjdm90akJpU2lEcHRMOGdXbkQ3TEptakZZREJxX2NuVVpoeGktT2pYc2RQczJ4VkNtQ29wcG9qenQxMTVpNnJ0OUhSMWJTQXB4VC0wUk5WRUYtXzA1YVl5RnZlaGlhNksxWHhmV0pEWWJyNzBwLV8?oc=5",
-      "published": "2026-05-11T06:48:41+00:00",
-      "source": {
-        "name": "Dagens industri",
-        "url": "https://www.di.se"
       }
     },
     {
@@ -391,6 +381,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "eb16c40b8360",
+      "title": "Annexin får godkänt för klinisk prövning i Tyskland - Dagens industri",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFwams1TklYd1ZicVdjdm90akJpU2lEcHRMOGdXbkQ3TEptakZZREJxX2NuVVpoeGktT2pYc2RQczJ4VkNtQ29wcG9qenQxMTVpNnJ0OUhSMWJTQXB4VC0wUk5WRUYtXzA1YVl5RnZlaGlhNksxWHhmV0pEWWJyNzBwLV8?oc=5",
+      "published": "2026-05-11T06:48:41+00:00",
+      "source": {
+        "name": "Dagens industri",
+        "url": "https://www.di.se"
       }
     },
     {
@@ -654,16 +654,6 @@
       }
     },
     {
-      "id": "8ae351c79ba5",
-      "title": "Billig aminosyra väcker hopp om Alzheimers - Dagens PS",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SZDB6U3YtTHFZUmJ5WXZKeWZkQ04tX3FVUE5wV1M1UXdiWGVVVUlZdDNuN2dIMkh6cGhsM1RpWUE1ZE1DMk8tdkxydFN5dDBlc3hRWi1JQXRHWWt6WlM0Z01qR1pPZlM3OU9wRXc3WUlEUnBxQ1pkZXJsQjExQQ?oc=5",
-      "published": "2026-05-14T04:13:59+00:00",
-      "source": {
-        "name": "Dagens PS",
-        "url": "https://www.dagensps.se"
-      }
-    },
-    {
       "id": "790f08545777",
       "title": "Mobbning på arbetsplatsen kopplas till användning av antidepressiva läkemedel - Stockholms universitet",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWHFSMjRkQmpjY1Q2Q0lMdXR4LXRidzBQS2NGb1JQZkZiZ1d4c1ZqZV9fVVFvQjdlcF9MVExQaFZIa19iaF8weFNoTzhFbFFlTG9UNExPM3ZMa0V1STRva2ViNDBrd0dlbDV1cEEtWFNMc0lzUUR0RGV5RFJwc21QcnRiY2phajRqSHpISkFLbXFyXzFkS3FPSXMzVmItcG54c3E3RW5MRzl3TW13c192eW96QmpXVkd5blhHclBSLWppVXBzc0tUOF9fbDRqU3UyQUUtM3Q0eUI4VnRrbUctMVhEYnlieGFicHRPRXhIS2NFajJzM2F3aVd1bUhaUllDRThuaA?oc=5",
@@ -671,6 +661,16 @@
       "source": {
         "name": "Stockholms universitet",
         "url": "https://www.su.se"
+      }
+    },
+    {
+      "id": "8ae351c79ba5",
+      "title": "Billig aminosyra väcker hopp om Alzheimers - Dagens PS",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SZDB6U3YtTHFZUmJ5WXZKeWZkQ04tX3FVUE5wV1M1UXdiWGVVVUlZdDNuN2dIMkh6cGhsM1RpWUE1ZE1DMk8tdkxydFN5dDBlc3hRWi1JQXRHWWt6WlM0Z01qR1pPZlM3OU9wRXc3WUlEUnBxQ1pkZXJsQjExQQ?oc=5",
+      "published": "2026-05-14T04:13:59+00:00",
+      "source": {
+        "name": "Dagens PS",
+        "url": "https://www.dagensps.se"
       }
     },
     {
@@ -864,16 +864,6 @@
       }
     },
     {
-      "id": "64ee9acc9441",
-      "title": "NY STUDIE: Medlen med bäst effekt mot ångest - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnh3a1VhbjVRSkJEeUJ6a0pZeTRkS3A0cmczX18tNXloa2JQXy13WDRuOVFOaXVIOERXdE9COEo0VDRqWC1nSTcxeUNRWlFlcVg4UWtsZ3JySkpwWWZWOF9HX0J4bXZZWk1IaW5sZTZoZWJsZWN4RF9VOF9UX1UwaEdRUV9fTlp1YjFFTVMwMjJfLWs?oc=5",
-      "published": "2026-02-05T08:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "74e8e2f8acb1",
       "title": "Pekar ut problem inom tennisen: ”Klarar inte det” - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT3JQV2J4Y2Joa05acGlXRlV3VkxFNS1XT2ZUNTR5ZHBkdTlyVUE5MnY2T1hpS1RPaDIzb05EQkRJWGFaY25MalhXb2dYbFVEZExRd0Z0LU1lLVRrWmNvMU1aZ18wMEpieEsySkpZWXNNdThRLXFEZjlja1RVbHltTjJGekRSdThEMk9DT3JaR1B4MjBMaExoRFJYTjJiNlE0YS1FVGhVMHpibXpKZXpZSzlQQW5zLU84VlNnRmV4TVUtc1FtYkE?oc=5",
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Riksrevisionen",
         "url": "https://www.riksrevisionen.se"
+      }
+    },
+    {
+      "id": "64ee9acc9441",
+      "title": "NY STUDIE: Medlen med bäst effekt mot ångest - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnh3a1VhbjVRSkJEeUJ6a0pZeTRkS3A0cmczX18tNXloa2JQXy13WDRuOVFOaXVIOERXdE9COEo0VDRqWC1nSTcxeUNRWlFlcVg4UWtsZ3JySkpwWWZWOF9HX0J4bXZZWk1IaW5sZTZoZWJsZWN4RF9VOF9UX1UwaEdRUV9fTlp1YjFFTVMwMjJfLWs?oc=5",
+      "published": "2026-02-05T08:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     }
   ]
