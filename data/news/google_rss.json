@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-21T18:57:09.039560+00:00",
+  "fetched_at": "2026-05-21T20:50:42.561609+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -14,10 +14,10 @@
       }
     },
     {
-      "id": "8afb84eb451a",
-      "title": "SKR: Ändrat högkostnadsskydd sparar över en miljard för regionerna - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONERRaTFCMjNQOVV3NThNWS16OEFHYnNGRGVPSEhsaG1qelByd0VyNG1ESlB4bFRuS2h6UENuRjlLYXdVMGxZSWhjLWRsSGVrODFwV0F1amlCZ0xVbHBVbDBDc01odHlaME5iNDJLSDJKdjhLRDRTWEZvUS1BbzNRXzQwdnhSRDZUVnRkcW5JZDhWU0hFNHR5LW1iQWlqbGdtbS1qcXBtMDlRaXoyakZlUm10dGE1NmhVeFgtdA?oc=5",
-      "published": "2026-05-21T03:54:00+00:00",
+      "id": "3f3573b13f10",
+      "title": "VGR: Otydligt ansvar hotar ny elevhälsoreform - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZElrZDJ1QVhrT3hqc3Z3c2o5dFZXeW53Wm40OWJzSk5mTlc0OHNtZS1FZ0hxWXBueXNfampRRFpUQjFzRENTbjB5eUt4WTY2VkVZSUFwRTZCb1dQV240WnVTT2xwMDE3WXpjWXBHVWExQlRFc3lhTmZCTG9kM2lrNVlpRDBOMFZjOV85bTYxbmk5MUQ1UnJBcFBPRUZ5Ri1fbWpRSQ?oc=5",
+      "published": "2026-05-21T04:05:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -34,16 +34,6 @@
       }
     },
     {
-      "id": "9c601f8c53a3",
-      "title": "Varnar för ätstörningar: ”Har ingen beredskap” - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUzFYOHZTNnRKQ2ZESEU3Z2ZtOTUzSi1jQjBLdnM1dUQzcHNJUlBtLVg1a3FCZGI4N0F1dVF2Umh0TmpPeFVITU1oTUY0Skh2VzNxV1BxMUpac0xhS2ZMWjN0SHFJNGs2Z25lNnh3dTJzckJ0dDdQd3RlMFMwOXhVTVEyVVR6VklmdElOYkk5SFRZMmU0OUE5dXVqcEltN0U?oc=5",
-      "published": "2026-05-19T19:25:20+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "3144b6b903fd",
       "title": "Svenska patienter får tillgång till allt färre nya läkemedel - E55 – Ekonomi hela livet",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjdaMlNOb3ZoZjBTbUU1VU81RDJkQlJGWmdVOERxTmU5Z2EzNl92STdaenVkQTdod190UWNlQ09ReHFtZkJZTUJjcWJZenh5U0NIRWpfWXlPQmlUUEl1MkR1SWxPS2ZEdXkzUkxpMkRMZFYxRlBMc3QzR0tRNzdIM0piN0UySi1OdnhldS15NA?oc=5",
@@ -51,6 +41,16 @@
       "source": {
         "name": "E55 – Ekonomi hela livet",
         "url": "https://www.e55.se"
+      }
+    },
+    {
+      "id": "5926b31e1427",
+      "title": "Så fungerar olika mediciner vid adhd - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMklJY0tISERQTEFQR2JRQkMyN2QwZC10ZmN4TWtTcXVoSmNjNlhoS2pfcWFPYWxKLTBYRGVGTVFnRlEyZXJ0bFdHbzJyUHlkOXp3VkdSbTBqbHFmOVNOX3NiWGszUjFiYzFZSDVObGJ1NHc5SUNOZ1lUblY0YjY2OU96by0?oc=5",
+      "published": "2026-05-19T16:45:41+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -74,16 +74,6 @@
       }
     },
     {
-      "id": "85dbf25b98d7",
-      "title": "Tina Crafoord blir ny direktör på Läkemedelsverket - Via TT",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVuWXJyWUIwYUJzUHhQU09IV054eUVleUNoNWxoYXRQU2JfRk5sYTdHb0liWjRya2gyNGxtZDdQVDJvMjRNd18zLWVCcjBLTW5sZjJKYm1JaGpnOG1FN1U1YU9mejNQNDVrY2lKeWNzZVV2VmVrbHNkbzQwWGhsc2RpTVNYcXZpc3JTdHF6b0lidlJUZlBtNHVRbGlhTmVLTTY5UzRWdVVUVS0wbFFvN29IOXN6b0tlRWJUVg?oc=5",
-      "published": "2026-05-20T09:57:09+00:00",
-      "source": {
-        "name": "Via TT",
-        "url": "https://via.tt.se"
-      }
-    },
-    {
       "id": "dd7b78a69ae3",
       "title": "Läkemedel - Ny Rutin för penicillinprovokation hos barn och vuxna i primärvården - Region Blekinge",
       "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNaUtjS1NOSkVzQ2ZxMl9TV3J3VjdPVjFreE9FbFQxRUlRRUhDeUFETkVwYlJkeUg3bXB1OXVlQ01pVUdGY0E4S20taUhQU2tCbUJYMHVZeHcwMzdMNElsOFFGWVYzNXhCcGlrd1ZBT0hEaWdzcTYtTTRLcHUwLWk1UEpUbWprWFJveEV5aGxsME16eFlJVzJPZTV5R0RLb0pPOFFIYnNBMG5rYnFUODJSMUE5S0tHTDVVcjlmUUVnSWpDMzZXMHBPMVZvTnBiaEN1UmkzdXd1TUVRM09TUXZmZVRONUxYaW9aT1VjeXI1TXJLLXVxV0gyT0xCYi03ZklZNkhIRWgyTHVFVF9nRDFyeThTX3FyMWVHekdqc2ZmX095ZzZWWVN1U1M0YjVEa2xTWTFyRDFyRXdBbnBIcWZYMDlyU1R1UUxFUGRxTjR5clIweDhZOTk2enhPNmVsOFluNVRTVlFYajc?oc=5",
@@ -94,20 +84,30 @@
       }
     },
     {
-      "id": "cc8efce8da8e",
-      "title": "Chefsföreningens Tina Crafoord rekryteras till nytt toppjobb - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNEl1VlVNNkZOZHBadFZFaHo4Q0ctZWlFMmpFY0tSZHBSYzVqRFluQVJKNWtMRjd6ZGNYX0FaMFI4QXZFa0pxeDNmMmxqUjFFYzZVTDhmRHpQWnJGQm1CNm51N3o0WUUyOEJULVV3RV9SWFhJNE9aUTNMa0JtVExKeWpNNXRMQmxfTllJWWg0QzRlZW5jcE9BZWJiRGpENzd2b2ZPQ2FUTHlEeXB3eEswVQ?oc=5",
-      "published": "2026-05-20T01:10:00+00:00",
+      "id": "6d5fcd3dd183",
+      "title": "Sjuka BusMarie: ”Medicin är det jag gör avkall på” - Dagens Arena",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU3ctZFBTZGRlSGdmUVNHR3pNUUEtTkZKUkZGdW5GZ0V1Q0RRb1pvWEJKZUwyWjlTU3ZZck9QTnlyd3ZiTDFIcnZtMXloS0ZjZFJ1Ui1vaHlJWHlYaWlYYWxnUHFkUG1udTdyeDNmVXkwRk1mQWJ2aThESXBSRU9WODM2VmFVM21QWWk0?oc=5",
+      "published": "2026-05-11T23:33:52+00:00",
+      "source": {
+        "name": "Dagens Arena",
+        "url": "https://www.dagensarena.se"
+      }
+    },
+    {
+      "id": "8afb84eb451a",
+      "title": "SKR: Ändrat högkostnadsskydd sparar över en miljard för regionerna - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONERRaTFCMjNQOVV3NThNWS16OEFHYnNGRGVPSEhsaG1qelByd0VyNG1ESlB4bFRuS2h6UENuRjlLYXdVMGxZSWhjLWRsSGVrODFwV0F1amlCZ0xVbHBVbDBDc01odHlaME5iNDJLSDJKdjhLRDRTWEZvUS1BbzNRXzQwdnhSRDZUVnRkcW5JZDhWU0hFNHR5LW1iQWlqbGdtbS1qcXBtMDlRaXoyakZlUm10dGE1NmhVeFgtdA?oc=5",
+      "published": "2026-05-21T03:54:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
       }
     },
     {
-      "id": "5926b31e1427",
-      "title": "Så fungerar olika mediciner vid adhd - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMklJY0tISERQTEFQR2JRQkMyN2QwZC10ZmN4TWtTcXVoSmNjNlhoS2pfcWFPYWxKLTBYRGVGTVFnRlEyZXJ0bFdHbzJyUHlkOXp3VkdSbTBqbHFmOVNOX3NiWGszUjFiYzFZSDVObGJ1NHc5SUNOZ1lUblY0YjY2OU96by0?oc=5",
-      "published": "2026-05-19T16:45:41+00:00",
+      "id": "d688b8d5029a",
+      "title": "”Har ingen beredskap” - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUzFYOHZTNnRKQ2ZESEU3Z2ZtOTUzSi1jQjBLdnM1dUQzcHNJUlBtLVg1a3FCZGI4N0F1dVF2Umh0TmpPeFVITU1oTUY0Skh2VzNxV1BxMUpac0xhS2ZMWjN0SHFJNGs2Z25lNnh3dTJzckJ0dDdQd3RlMFMwOXhVTVEyVVR6VklmdElOYkk5SFRZMmU0OUE5dXVqcEltN0U?oc=5",
+      "published": "2026-05-19T19:25:20+00:00",
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
@@ -124,10 +124,10 @@
       }
     },
     {
-      "id": "3f3573b13f10",
-      "title": "VGR: Otydligt ansvar hotar ny elevhälsoreform - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZElrZDJ1QVhrT3hqc3Z3c2o5dFZXeW53Wm40OWJzSk5mTlc0OHNtZS1FZ0hxWXBueXNfampRRFpUQjFzRENTbjB5eUt4WTY2VkVZSUFwRTZCb1dQV240WnVTT2xwMDE3WXpjWXBHVWExQlRFc3lhTmZCTG9kM2lrNVlpRDBOMFZjOV85bTYxbmk5MUQ1UnJBcFBPRUZ5Ri1fbWpRSQ?oc=5",
-      "published": "2026-05-21T04:05:00+00:00",
+      "id": "cc8efce8da8e",
+      "title": "Chefsföreningens Tina Crafoord rekryteras till nytt toppjobb - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNEl1VlVNNkZOZHBadFZFaHo4Q0ctZWlFMmpFY0tSZHBSYzVqRFluQVJKNWtMRjd6ZGNYX0FaMFI4QXZFa0pxeDNmMmxqUjFFYzZVTDhmRHpQWnJGQm1CNm51N3o0WUUyOEJULVV3RV9SWFhJNE9aUTNMa0JtVExKeWpNNXRMQmxfTllJWWg0QzRlZW5jcE9BZWJiRGpENzd2b2ZPQ2FUTHlEeXB3eEswVQ?oc=5",
+      "published": "2026-05-20T01:10:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -204,16 +204,6 @@
       }
     },
     {
-      "id": "6d5fcd3dd183",
-      "title": "Sjuka BusMarie: ”Medicin är det jag gör avkall på” - Dagens Arena",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU3ctZFBTZGRlSGdmUVNHR3pNUUEtTkZKUkZGdW5GZ0V1Q0RRb1pvWEJKZUwyWjlTU3ZZck9QTnlyd3ZiTDFIcnZtMXloS0ZjZFJ1Ui1vaHlJWHlYaWlYYWxnUHFkUG1udTdyeDNmVXkwRk1mQWJ2aThESXBSRU9WODM2VmFVM21QWWk0?oc=5",
-      "published": "2026-05-11T23:33:52+00:00",
-      "source": {
-        "name": "Dagens Arena",
-        "url": "https://www.dagensarena.se"
-      }
-    },
-    {
       "id": "dc480054563d",
       "title": "”Utan min hormonsprej rasar allt” – kvinnor jagar östrogen - Kuriren",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYkl4b1BybHNrSlZSckNpNXVDRDFtNVhUVHNGMlI5WUFvc24tZWVsaENUd29KYjV5MlhTNDc3TlZfOEdYc3FxZklxWUJGVk5PMWlKbV9GQmZVNWxrdURMYTJVaVBQdVB3Ui1HMG41Nm1yUlJ1TzBzdjYtbDVvSmRMcVFRU3llSVFZRU5SMjdkbFNnZWtSVVgwMGZCSmFQSGdBcGp3alFzRQ?oc=5",
@@ -271,16 +261,6 @@
       "source": {
         "name": "Västerbottens-Kuriren",
         "url": "https://www.vk.se"
-      }
-    },
-    {
-      "id": "c1b756f8ce94",
-      "title": "Hon blir ny direktör på Läkemedelsverket - Altinget.se",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS0hyVTFCVl9uNlpBVHlyTGkyZ3NNcmd4cE42Q0VTWWNwZXk4Mmdzdk5Tc1pNeWdGb011NVJIVXBiUG54Qkk3Qzlkd203OXE2c1otd09URWpmS0NEQmFPN3JMMEcyTk15UVdZTU1WUkIzV1pmME5kMFE5MlJ2bVVDdDVSTnI?oc=5",
-      "published": "2026-05-20T14:27:25+00:00",
-      "source": {
-        "name": "Altinget.se",
-        "url": "https://www.altinget.se"
       }
     },
     {
@@ -361,16 +341,6 @@
       "source": {
         "name": "Forskning & Framsteg",
         "url": "https://fof.se"
-      }
-    },
-    {
-      "id": "a0e58137309b",
-      "title": "Nya data: Explosionsartat uppsving av obesitasläkemedel inom flera kliniska specialiteter - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWV3dWpnQm9DQUJmNWVHUGs5LVZ5dWl4SUl4cHlhY01TWWZ3RzM1aVpyeHNwQi1yYjhoTE5UZnlYRG9QQ054anNpNU9jWmRlNkxDLUI3MnVZRkJRYmpUUDBzczlxOUYzNm1sSUJaSThwbE9pTThyU2t2LWFtSmEzd1NROW84alZmZ3VXc2VwS3hmTDZDWHhNQUVzdkJzY1pFRUE0RGtta2JVbzgzdlk3dFF3aTdzTk1QemtuRGlGRHZsb1FyTE1meG1raVBHQ3lRZWQtRVV0dHE?oc=5",
-      "published": "2026-05-15T00:45:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -534,6 +504,16 @@
       }
     },
     {
+      "id": "d7f1f52d8940",
+      "title": "Nedtrappning av injektioner mot obesitas gav bra resultat - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0ViQUtSRmRMaTh3WlM2WnBRS2tDTGwwSktoZW5IYVM1Yzd3eUZKVlJqZmpCNGxteXZ3QXZCN2tkMGdmTWlId3g2ek9zckRvZ3k4VWJRYzV4dzJXbWxxSFpRNkNaLWE0bmg2ZWI5djR1YVJTRlJGVDJPLXJOdzVSTVpPQTFQdXRsRjhaakpwT3AweW5oa2NtNlZobGw2VkpWYlpVUnA0Q181YmFaRG1v?oc=5",
+      "published": "2026-05-14T22:59:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "6e594930ef8a",
       "title": "Läkemedelsverket: Så försöker vi minska risken för suicid - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWjE0aGUwWTZUSmpKOEthZmNJaE1mZ3N3QWFRallfemluTzFxRWxwd1ZNZWtNdXhDRWFkaG5ZcTBaQXB3V3NkeGdXTXR6aTBaMG1EUUVabzBpMTNEcl82TVlqM01pNHEzbTU4eGxENC11MTlpVTBXTFpMNFhIdGdrYllsTEE3aXVBZzIybDBaTHJqaE5oc015VzJTTjQ4UQ?oc=5",
@@ -571,6 +551,16 @@
       "source": {
         "name": "Expressen",
         "url": "https://www.expressen.se"
+      }
+    },
+    {
+      "id": "a0e58137309b",
+      "title": "Nya data: Explosionsartat uppsving av obesitasläkemedel inom flera kliniska specialiteter - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWV3dWpnQm9DQUJmNWVHUGs5LVZ5dWl4SUl4cHlhY01TWWZ3RzM1aVpyeHNwQi1yYjhoTE5UZnlYRG9QQ054anNpNU9jWmRlNkxDLUI3MnVZRkJRYmpUUDBzczlxOUYzNm1sSUJaSThwbE9pTThyU2t2LWFtSmEzd1NROW84alZmZ3VXc2VwS3hmTDZDWHhNQUVzdkJzY1pFRUE0RGtta2JVbzgzdlk3dFF3aTdzTk1QemtuRGlGRHZsb1FyTE1meG1raVBHQ3lRZWQtRVV0dHE?oc=5",
+      "published": "2026-05-15T00:45:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -618,16 +608,6 @@
       "title": "Två spaningar mot horisonten - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xRktCems4S1Z4Ri11Y2J4d2pLSVl1dThockJ5c2VzSWtlSTVSVDNjcUdHeEx0LVJaa1k2TzAyYW53VEM3YXFRdnQ1cVVtQXUtY3NCUVVsUS1NQ0pTMHJzc1NyWmt6YjM5NjNtbGxaeE92WEJ6WDcwekJ3STVXQQ?oc=5",
       "published": "2026-03-24T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "d7f1f52d8940",
-      "title": "Nedtrappning av injektioner mot obesitas gav bra resultat - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0ViQUtSRmRMaTh3WlM2WnBRS2tDTGwwSktoZW5IYVM1Yzd3eUZKVlJqZmpCNGxteXZ3QXZCN2tkMGdmTWlId3g2ek9zckRvZ3k4VWJRYzV4dzJXbWxxSFpRNkNaLWE0bmg2ZWI5djR1YVJTRlJGVDJPLXJOdzVSTVpPQTFQdXRsRjhaakpwT3AweW5oa2NtNlZobGw2VkpWYlpVUnA0Q181YmFaRG1v?oc=5",
-      "published": "2026-05-14T22:59:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -998,6 +978,26 @@
       "title": "Hon blir ny hälso- och sjukvårdsdirektör i Norrbotten - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUHF3UlBQR1JYcGVrOEFsLXJFc2ZkLUR4UGRLMzRPVTRhOERPc3ZxU1dhYjdmY0FrZmFaeEZqOTdrNC1vRXU2SDM5OVowc1QwdFJYcGFUYzJDZTkyZTFHem5KUlowcFE2UVlLQkRoaWQyVmJCbExMY1c4X1RxWXZ6U2Fwa2lURlZKLWJFNkVXWnFXcGJVSHBOSlI3WlVRMGk2WEJyU1JR?oc=5",
       "published": "2025-11-18T08:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "28c594bcecd5",
+      "title": "Oroande: Så många tar andras receptbelagda läkemedel - E55 – Ekonomi hela livet",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcTBJSzJ4cUJaSkFHMXpUa3B5OGZ5U0hxSkIyQTVXSUx1QURWVmQwQnN0dFY0R1B4UXhVRzJPcXlNTHRTNnJ5VkFtOVRsdGRBS0tyV3JxSmUtdFl3cExwcXpBclVXUFRZcUZBbmhnZWw5UTFuaUJYbFZ2QlN5SlBXaks2aw?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "source": {
+        "name": "E55 – Ekonomi hela livet",
+        "url": "https://www.e55.se"
+      }
+    },
+    {
+      "id": "fb8b80aed078",
+      "title": "”Nej till obesitasmedicin visar på en smal syn på läkemedel” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzc5QzJMY3pUX3hfOUh1bDgyVmlIT1ZwSHgyZFpybkozdGQ0c3pBZ3ZiOHhpdzM2ZzV4Y1lBMFdxVGNZZmxfb0gwNjctWUZLT1JYRThNNEpVdUlkRHhuZ2NjNjhGMEJ6UC1BYTd6Um5YM0pvdzlvTHlfSTNrV0YxYXlNNGtuMFpkSDF5T1g2ZEFTYzVRT1VRUnl6YVg5VFozOUhMb3pR?oc=5",
+      "published": "2026-04-13T07:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
