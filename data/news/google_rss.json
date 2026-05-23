@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-23T22:49:12.152740+00:00",
+  "fetched_at": "2026-05-23T23:53:32.925967+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -204,16 +204,6 @@
       }
     },
     {
-      "id": "4489b7da8031",
-      "title": "Ozempic-kopia får klartecken i Kanada - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlh6WGw0ajF1Z1B3S0VFeEtaanRhZDJkQ1V0bENHeHlJQS1GamZtYWh2UUpWZkJDODVVTGhVeWUwYXBCX0dacUxFZGFNREZlX3h0ZndrN3pMVnRnci1YY19ZaExreXM0UHFPR196eGp3emNUQllsbVpxbjhOb28wbHA5R0xVWnM2cWloYzU3ODhMYnp5?oc=5",
-      "published": "2026-05-18T03:18:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "85f111959606",
       "title": "Ny rapport: Läkemedel avgörande för Sveriges motståndskraft - Lif – de forskande läkemedelsföretagen",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGlEdDRfdUpibFQ2X1pnNTZTemI2SHNUQm1GNl9jSy1MSTNPTzZrVFpNMFA0VDdtWDFqNHNlZEVScGc2MFY1cEZPRk1NXzlKYTIybGxleV93VWwzMjcxZlBUUEpkWmdjMHJXU01HSTlEX3BxaTVsbFVXRVpnLTVyck85QUlCTDVkVkRQOU1JVGdoMlk2anlWMQ?oc=5",
@@ -221,6 +211,16 @@
       "source": {
         "name": "Lif – de forskande läkemedelsföretagen",
         "url": "https://www.lif.se"
+      }
+    },
+    {
+      "id": "4489b7da8031",
+      "title": "Ozempic-kopia får klartecken i Kanada - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlh6WGw0ajF1Z1B3S0VFeEtaanRhZDJkQ1V0bENHeHlJQS1GamZtYWh2UUpWZkJDODVVTGhVeWUwYXBCX0dacUxFZGFNREZlX3h0ZndrN3pMVnRnci1YY19ZaExreXM0UHFPR196eGp3emNUQllsbVpxbjhOb28wbHA5R0xVWnM2cWloYzU3ODhMYnp5?oc=5",
+      "published": "2026-05-18T03:18:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
