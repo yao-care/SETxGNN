@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-22T22:53:56.341734+00:00",
+  "fetched_at": "2026-05-23T00:02:19.416914+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -14,16 +14,6 @@
       }
     },
     {
-      "id": "a2280bdf2d25",
-      "title": "Nya studier: Läkemedel för viktminskning kan bromsa cancer - Dagens PS",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ1Bxbi1KeDNUT1NmLUlHX3ZjcS1NOVd2LVZGQ2FLS1ZiTy13Rm9kRGpaY253VXVyQmNvajZmU0JYTXZreTZXZk9sZDR2ckc2a3VhNEJuUE5jODRRcEVxTGZFMUkxM25zekxoS1otZE1zbXVXWnFMOXp1WEZySHRCaWM5NXRZUzEwOUVJMVo5ckZfZw?oc=5",
-      "published": "2026-05-22T06:21:00+00:00",
-      "source": {
-        "name": "Dagens PS",
-        "url": "https://www.dagensps.se"
-      }
-    },
-    {
       "id": "3144b6b903fd",
       "title": "Svenska patienter får tillgång till allt färre nya läkemedel - E55 – Ekonomi hela livet",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjdaMlNOb3ZoZjBTbUU1VU81RDJkQlJGWmdVOERxTmU5Z2EzNl92STdaenVkQTdod190UWNlQ09ReHFtZkJZTUJjcWJZenh5U0NIRWpfWXlPQmlUUEl1MkR1SWxPS2ZEdXkzUkxpMkRMZFYxRlBMc3QzR0tRNzdIM0piN0UySi1OdnhldS15NA?oc=5",
@@ -31,6 +21,16 @@
       "source": {
         "name": "E55 – Ekonomi hela livet",
         "url": "https://www.e55.se"
+      }
+    },
+    {
+      "id": "a2280bdf2d25",
+      "title": "Nya studier: Läkemedel för viktminskning kan bromsa cancer - Dagens PS",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ1Bxbi1KeDNUT1NmLUlHX3ZjcS1NOVd2LVZGQ2FLS1ZiTy13Rm9kRGpaY253VXVyQmNvajZmU0JYTXZreTZXZk9sZDR2ckc2a3VhNEJuUE5jODRRcEVxTGZFMUkxM25zekxoS1otZE1zbXVXWnFMOXp1WEZySHRCaWM5NXRZUzEwOUVJMVo5ckZfZw?oc=5",
+      "published": "2026-05-22T06:21:00+00:00",
+      "source": {
+        "name": "Dagens PS",
+        "url": "https://www.dagensps.se"
       }
     },
     {
@@ -44,16 +44,6 @@
       }
     },
     {
-      "id": "faacfc02ea62",
-      "title": "Laserteknisk finkänslighet utvecklar behandling mot blodcancer - it-halsa.se",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdHNBVHFMNXMtYTFzbkZqRXRGdHhZZWVWMGVNQVY4c1NYUUpsaU51ekZ2SEpDSVUzTTEyNi1Xb05IbjJXUHVDUkFyRjRJQU0zQ29lanJLc2l3NHI1ejIwT211SDItc0ZCdDVOWmJHQl9rLXVraGxfd1JydzdEbFhKSk9XLW1kekJMbFZB?oc=5",
-      "published": "2026-05-22T04:30:15+00:00",
-      "source": {
-        "name": "it-halsa.se",
-        "url": "https://it-halsa.se"
-      }
-    },
-    {
       "id": "5926b31e1427",
       "title": "Så fungerar olika mediciner vid adhd - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMklJY0tISERQTEFQR2JRQkMyN2QwZC10ZmN4TWtTcXVoSmNjNlhoS2pfcWFPYWxKLTBYRGVGTVFnRlEyZXJ0bFdHbzJyUHlkOXp3VkdSbTBqbHFmOVNOX3NiWGszUjFiYzFZSDVObGJ1NHc5SUNOZ1lUblY0YjY2OU96by0?oc=5",
@@ -61,6 +51,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "faacfc02ea62",
+      "title": "Laserteknisk finkänslighet utvecklar behandling mot blodcancer - it-halsa.se",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdHNBVHFMNXMtYTFzbkZqRXRGdHhZZWVWMGVNQVY4c1NYUUpsaU51ekZ2SEpDSVUzTTEyNi1Xb05IbjJXUHVDUkFyRjRJQU0zQ29lanJLc2l3NHI1ejIwT211SDItc0ZCdDVOWmJHQl9rLXVraGxfd1JydzdEbFhKSk9XLW1kekJMbFZB?oc=5",
+      "published": "2026-05-22T04:30:15+00:00",
+      "source": {
+        "name": "it-halsa.se",
+        "url": "https://it-halsa.se"
       }
     },
     {
@@ -424,16 +424,6 @@
       }
     },
     {
-      "id": "116eaa868188",
-      "title": "LEDARE: Den med tjock plånbok kan få hjälp mot sin fetma - Sydin",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0tvQ2xNUjJ4Smk2c09fdHd3SUNRQVFqSGZGcUxDX0RHX3p1VU4wdUY0b2lSUDdzdk00UVg4VnlFaHdVX3ctYk5IU2x1RUJQZVZycjBVWHFpNzRTd3VmNl9mSk1vcTVKYkhCcWRneHpFbUYwb1FSXzBMbkRvNjhpamFEb2E?oc=5",
-      "published": "2026-05-22T02:00:00+00:00",
-      "source": {
-        "name": "Sydin",
-        "url": "https://www.sydin.fi"
-      }
-    },
-    {
       "id": "8d4d897055b8",
       "title": "Var tionde äldre man ändrar sin medicinering efter tips på nätet - News55",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS21JWm5VZ1dOWGFWNVloN2JvcUtEeUZMdDJ6U2lxbC1RaDlSODZfaW1ERjhKM0JTQ2JaSWtFbk9sbDNTZG9yZWgtdkJpNXV1Z2wzZGhIQzF4NUk3YjNEM3Rjc3d2YlRNaW9lbk1sNVFZaUhJVkNOX21mOWRwY29mbjdDVHVKQkRJZFphdTczYzlla3lhTVFqaQ?oc=5",
@@ -471,6 +461,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "116eaa868188",
+      "title": "LEDARE: Den med tjock plånbok kan få hjälp mot sin fetma - Sydin",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0tvQ2xNUjJ4Smk2c09fdHd3SUNRQVFqSGZGcUxDX0RHX3p1VU4wdUY0b2lSUDdzdk00UVg4VnlFaHdVX3ctYk5IU2x1RUJQZVZycjBVWHFpNzRTd3VmNl9mSk1vcTVKYkhCcWRneHpFbUYwb1FSXzBMbkRvNjhpamFEb2E?oc=5",
+      "published": "2026-05-22T02:00:00+00:00",
+      "source": {
+        "name": "Sydin",
+        "url": "https://www.sydin.fi"
       }
     },
     {
@@ -524,12 +524,12 @@
       }
     },
     {
-      "id": "4c3f5ef6f895",
-      "title": "Ny lag för nätapotek 2027 – det här förändras när du köper läkemedel online - Metro Mode",
+      "id": "83178720a861",
+      "title": "Ny lag för nätapotek 2027 – det här förändras när du köper läkemedel online - metromode.se",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU0pqOXpRUC12WmdVWGIwRmlNOGdHZGRVUjhZb3oxU2JlVGowUE9GZ1RleFB5VnpqLXEyM1NKWmRIeDJnTG02UHFTbjg0ZHQ3anJRSDMyZENNX2JfaDh2TzV0S2lxaUcxaHRMV29sZE15YlVCUy1DZ2J0V3NQM3lUZ0lRSHZwTmNWSHVaNXhsQ2VMNllFSmY3cVhucllMU1d4a2Jv?oc=5",
       "published": "2026-05-03T07:35:31+00:00",
       "source": {
-        "name": "Metro Mode",
+        "name": "metromode.se",
         "url": "https://metromode.se"
       }
     },
@@ -564,16 +564,6 @@
       }
     },
     {
-      "id": "3111d42060c1",
-      "title": "Lif kräver regeringsåtgärder för att kontra USA:s prispress på läkemedel - Altinget.se",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOXQtSy01ZnU0TlpYM0tNd3oybGlCMDZQZDBXenpsUVFPdXU3NGxVeC0telBOSTVjMUpGUW8xSWgyV0hld01nanJUekV5cUlUS0V2c1VDSVcwVzd3N05aZW1zMnh6cFJMdGozelNkVUt1eE16NzIzQlpQbHExa244UFNvbk1DX0ZpMjEyYk52dURaQVE5bDJFelliVzVmdG1EazJMTG1DOVE?oc=5",
-      "published": "2026-04-23T07:00:00+00:00",
-      "source": {
-        "name": "Altinget.se",
-        "url": "https://www.altinget.se"
-      }
-    },
-    {
       "id": "ac294cbc764e",
       "title": "”Ta fram nationella riktlinjer för läkemedel mot obesitas” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUhmclNfR3hBdlZndV9OUEJDMVRZZkJxZnhZdzZzRzRlYUZlR0poV0o0VzZVVmkyY3ZkTkNqNjRBcG9OT1UtREo0VURRZ0J1aTRvUGZhUDNmWmZwR1VKN3BlbWJXOE9HVFJIcHFJa2FOblp6RVNDZ051X2F5ZmZrUEJvRUxLdy1DcEJZWVV1YTdfbTd2TS1za001SnRHWUkyalU0?oc=5",
@@ -581,6 +571,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "3111d42060c1",
+      "title": "Lif kräver regeringsåtgärder för att kontra USA:s prispress på läkemedel - Altinget.se",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOXQtSy01ZnU0TlpYM0tNd3oybGlCMDZQZDBXenpsUVFPdXU3NGxVeC0telBOSTVjMUpGUW8xSWgyV0hld01nanJUekV5cUlUS0V2c1VDSVcwVzd3N05aZW1zMnh6cFJMdGozelNkVUt1eE16NzIzQlpQbHExa244UFNvbk1DX0ZpMjEyYk52dURaQVE5bDJFelliVzVmdG1EazJMTG1DOVE?oc=5",
+      "published": "2026-04-23T07:00:00+00:00",
+      "source": {
+        "name": "Altinget.se",
+        "url": "https://www.altinget.se"
       }
     },
     {
