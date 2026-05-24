@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-24T14:59:20.994676+00:00",
+  "fetched_at": "2026-05-24T16:06:45.051138+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -191,16 +191,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "9f96ebc8bc99",
-      "title": "EHM ska utveckla statlig listningstjänst - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUmFyaUt4ZmRWRE1JTTUxanB6UXVKYWVEeEptY205eFhnZzdiUFlHYXE1ZXl6ckVUZWh0bXoxV2EzTHBmM1FNX21HYmVKN2paN2ZLcnNkclhVYjZKMVVUbTdneVc0YzcwSzVxTHBfZFNmcDFKRHotamdaOGR3Y3o4Z2k1Z0lBUjQ3TEVSUUtQaHJVWmlkazhjSVFjUElEVUQ5V0tvWA?oc=5",
-      "published": "2026-05-20T04:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -634,16 +624,6 @@
       }
     },
     {
-      "id": "5c8ae1132efc",
-      "title": "LEDARE: Den med tjock plånbok kan få hjälp mot sin fetma - Syd-Österbotten",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0tvQ2xNUjJ4Smk2c09fdHd3SUNRQVFqSGZGcUxDX0RHX3p1VU4wdUY0b2lSUDdzdk00UVg4VnlFaHdVX3ctYk5IU2x1RUJQZVZycjBVWHFpNzRTd3VmNl9mSk1vcTVKYkhCcWRneHpFbUYwb1FSXzBMbkRvNjhpamFEb2E?oc=5",
-      "published": "2026-05-22T02:00:00+00:00",
-      "source": {
-        "name": "Syd-Österbotten",
-        "url": "https://www.sydin.fi"
-      }
-    },
-    {
       "id": "3a698db4e53c",
       "title": "SSRI-läkemedel lindrade fatigue vid långtidscovid - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZVNhQUhMZWVpblZMVzNfNlNjeEdCNHJrMWxUeU1JUjdOLUpKQ0FGUUx3anpxTWU0SmltTTBGcE1DMzRUU0cyN0tyeWhGZERJWWNwT3o0dHp6LUU4SjBseWtFeHU1b2Mybm9Hd1FnVmROYXdIU2hyVjNXcVJBTVl2Ulk0SGR4dDZxa1lVZmNlUXMtN1JldlVGbzd3SmRMdmMtXzlMSkpoTGhncTQ?oc=5",
@@ -651,6 +631,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "5c8ae1132efc",
+      "title": "LEDARE: Den med tjock plånbok kan få hjälp mot sin fetma - Syd-Österbotten",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0tvQ2xNUjJ4Smk2c09fdHd3SUNRQVFqSGZGcUxDX0RHX3p1VU4wdUY0b2lSUDdzdk00UVg4VnlFaHdVX3ctYk5IU2x1RUJQZVZycjBVWHFpNzRTd3VmNl9mSk1vcTVKYkhCcWRneHpFbUYwb1FSXzBMbkRvNjhpamFEb2E?oc=5",
+      "published": "2026-05-22T02:00:00+00:00",
+      "source": {
+        "name": "Syd-Österbotten",
+        "url": "https://www.sydin.fi"
       }
     },
     {
@@ -998,6 +988,16 @@
       "title": "“Snart är det stopp” – nya regler för hemleverans av läkemedel - News55",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjIya3RNTEdPUENuYUwyakFhNE1qRHNrdHJQTEsyengzLTAzNEU3bEdNRl8zM3ZnM1hkbkttX2libllFMGpLWlNJeHhMMmFKRGxnZUN5NjVqZlp6UzJYMTJ1UE03TV81WFBFSDFUdG1vZWd3bmtaMTJEQkpuZEMwYllIWTUtX0dXbVRCbHUyNVE?oc=5",
       "published": "2025-10-27T14:52:49+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "6c3ae1fd39fb",
+      "title": "Träning mot depression och ångest – lika effektivt som medicin - News55",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlMtcTEzdmdCSVZEQnBCcHM5RzVsb3JBMkxxZ1lWS2FrU3o3Mkh0SVpnT1FtMXFJeFI5R2hnRnVvRktqUlVlNkQ5TmwtcU9ZM0VFdF91U3ZXcG9YQXN6OWYwVU9LVlRMVk5VMllVd1duVnBSTHp3VkVCRmduanNPY0dadFJ3b3RvckNWcS1Lem5md1E?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
