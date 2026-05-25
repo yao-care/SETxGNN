@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-25T15:47:26.861187+00:00",
+  "fetched_at": "2026-05-25T17:39:34.018676+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "3e7396c81329",
-      "title": "Ny studie visar hur olika SSRI påverkar metabolism i tidig hjärnutveckling - Karolinska Institutet",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDlhcm1ORW1JVHNyWmNaSmtaNEZTRVVWRWJPNl84ZUhBeGFBQ3RGZUdHWllBMm51N2xGcHRsQ2pUTXNYSEpBUFo5VFNZa3h4SjdwblBOblpSb0hFNEd2aUtwRnBCRmNYQTV5OVJPQUFxWTBCVjVaX1dxcHpkSDhhWlJOQ050a3RVVmZnZzd6ekFhU19vLWFCRWVYUHo?oc=5",
-      "published": "2026-05-19T14:17:15+00:00",
-      "source": {
-        "name": "Karolinska Institutet",
-        "url": "https://nyheter.ki.se"
-      }
-    },
-    {
       "id": "6d5fcd3dd183",
       "title": "Sjuka BusMarie: ”Medicin är det jag gör avkall på” - Dagens Arena",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU3ctZFBTZGRlSGdmUVNHR3pNUUEtTkZKUkZGdW5GZ0V1Q0RRb1pvWEJKZUwyWjlTU3ZZck9QTnlyd3ZiTDFIcnZtMXloS0ZjZFJ1Ui1vaHlJWHlYaWlYYWxnUHFkUG1udTdyeDNmVXkwRk1mQWJ2aThESXBSRU9WODM2VmFVM21QWWk0?oc=5",
@@ -84,13 +74,13 @@
       }
     },
     {
-      "id": "a2280bdf2d25",
-      "title": "Nya studier: Läkemedel för viktminskning kan bromsa cancer - Dagens PS",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ1Bxbi1KeDNUT1NmLUlHX3ZjcS1NOVd2LVZGQ2FLS1ZiTy13Rm9kRGpaY253VXVyQmNvajZmU0JYTXZreTZXZk9sZDR2ckc2a3VhNEJuUE5jODRRcEVxTGZFMUkxM25zekxoS1otZE1zbXVXWnFMOXp1WEZySHRCaWM5NXRZUzEwOUVJMVo5ckZfZw?oc=5",
-      "published": "2026-05-22T06:21:00+00:00",
+      "id": "3e7396c81329",
+      "title": "Ny studie visar hur olika SSRI påverkar metabolism i tidig hjärnutveckling - Karolinska Institutet",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDlhcm1ORW1JVHNyWmNaSmtaNEZTRVVWRWJPNl84ZUhBeGFBQ3RGZUdHWllBMm51N2xGcHRsQ2pUTXNYSEpBUFo5VFNZa3h4SjdwblBOblpSb0hFNEd2aUtwRnBCRmNYQTV5OVJPQUFxWTBCVjVaX1dxcHpkSDhhWlJOQ050a3RVVmZnZzd6ekFhU19vLWFCRWVYUHo?oc=5",
+      "published": "2026-05-19T14:17:15+00:00",
       "source": {
-        "name": "Dagens PS",
-        "url": "https://www.dagensps.se"
+        "name": "Karolinska Institutet",
+        "url": "https://nyheter.ki.se"
       }
     },
     {
@@ -101,6 +91,16 @@
       "source": {
         "name": "Forskning.se",
         "url": "https://forskning.se"
+      }
+    },
+    {
+      "id": "a2280bdf2d25",
+      "title": "Nya studier: Läkemedel för viktminskning kan bromsa cancer - Dagens PS",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ1Bxbi1KeDNUT1NmLUlHX3ZjcS1NOVd2LVZGQ2FLS1ZiTy13Rm9kRGpaY253VXVyQmNvajZmU0JYTXZreTZXZk9sZDR2ckc2a3VhNEJuUE5jODRRcEVxTGZFMUkxM25zekxoS1otZE1zbXVXWnFMOXp1WEZySHRCaWM5NXRZUzEwOUVJMVo5ckZfZw?oc=5",
+      "published": "2026-05-22T06:21:00+00:00",
+      "source": {
+        "name": "Dagens PS",
+        "url": "https://www.dagensps.se"
       }
     },
     {
@@ -314,26 +314,6 @@
       }
     },
     {
-      "id": "dc480054563d",
-      "title": "”Utan min hormonsprej rasar allt” – kvinnor jagar östrogen - Kuriren",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYkl4b1BybHNrSlZSckNpNXVDRDFtNVhUVHNGMlI5WUFvc24tZWVsaENUd29KYjV5MlhTNDc3TlZfOEdYc3FxZklxWUJGVk5PMWlKbV9GQmZVNWxrdURMYTJVaVBQdVB3Ui1HMG41Nm1yUlJ1TzBzdjYtbDVvSmRMcVFRU3llSVFZRU5SMjdkbFNnZWtSVVgwMGZCSmFQSGdBcGp3alFzRQ?oc=5",
-      "published": "2026-05-18T23:00:00+00:00",
-      "source": {
-        "name": "Kuriren",
-        "url": "https://www.kuriren.nu"
-      }
-    },
-    {
-      "id": "41e81f624863",
-      "title": "Ny studie: Så kan sömnapné lindras - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2ajU1SnBqNm8xNGxqdnJud3JtZnhOUGlPd1J0aDYxT2VzZkhBYjctQS1qYUZnR0ZHaERTMTlXS2RidmNxdWpqVy0xU2kxTVZ0dXZRakZKMmFrcnFIa3pUeGhqQlhSdG9feS0teFk2V3VCd1BtVml4UQ?oc=5",
-      "published": "2026-05-18T18:19:48+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "661e5e895a59",
       "title": "PFAS lämnar kroppen snabbare med vissa läkemedel - Göteborgs universitet",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdzQtVGltZzNOaHRzakxGcktvdDJvdEpFTUVHTFVYbU9VUko4dnprampfVnQ3azhiZHcydmNwV29xd2pPSUNJM0NzUFFBRHFQUzVTUXFHZjFIYWhfbVFSUFJJaW5DckRrdjlVLTU0Qy1XRGZkSnhsS3FnMl95VWc?oc=5",
@@ -341,6 +321,16 @@
       "source": {
         "name": "Göteborgs universitet",
         "url": "https://www.gu.se"
+      }
+    },
+    {
+      "id": "dc480054563d",
+      "title": "”Utan min hormonsprej rasar allt” – kvinnor jagar östrogen - Kuriren",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYkl4b1BybHNrSlZSckNpNXVDRDFtNVhUVHNGMlI5WUFvc24tZWVsaENUd29KYjV5MlhTNDc3TlZfOEdYc3FxZklxWUJGVk5PMWlKbV9GQmZVNWxrdURMYTJVaVBQdVB3Ui1HMG41Nm1yUlJ1TzBzdjYtbDVvSmRMcVFRU3llSVFZRU5SMjdkbFNnZWtSVVgwMGZCSmFQSGdBcGp3alFzRQ?oc=5",
+      "published": "2026-05-18T23:00:00+00:00",
+      "source": {
+        "name": "Kuriren",
+        "url": "https://www.kuriren.nu"
       }
     },
     {
@@ -361,6 +351,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "41e81f624863",
+      "title": "Ny studie: Så kan sömnapné lindras - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2ajU1SnBqNm8xNGxqdnJud3JtZnhOUGlPd1J0aDYxT2VzZkhBYjctQS1qYUZnR0ZHaERTMTlXS2RidmNxdWpqVy0xU2kxTVZ0dXZRakZKMmFrcnFIa3pUeGhqQlhSdG9feS0teFk2V3VCd1BtVml4UQ?oc=5",
+      "published": "2026-05-18T18:19:48+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -764,12 +764,12 @@
       }
     },
     {
-      "id": "5c8ae1132efc",
-      "title": "LEDARE: Den med tjock plånbok kan få hjälp mot sin fetma - Syd-Österbotten",
+      "id": "116eaa868188",
+      "title": "LEDARE: Den med tjock plånbok kan få hjälp mot sin fetma - Sydin",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0tvQ2xNUjJ4Smk2c09fdHd3SUNRQVFqSGZGcUxDX0RHX3p1VU4wdUY0b2lSUDdzdk00UVg4VnlFaHdVX3ctYk5IU2x1RUJQZVZycjBVWHFpNzRTd3VmNl9mSk1vcTVKYkhCcWRneHpFbUYwb1FSXzBMbkRvNjhpamFEb2E?oc=5",
       "published": "2026-05-22T02:00:00+00:00",
       "source": {
-        "name": "Syd-Österbotten",
+        "name": "Sydin",
         "url": "https://www.sydin.fi"
       }
     },
