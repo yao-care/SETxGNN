@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-04T19:59:25.141290+00:00",
+  "fetched_at": "2026-06-04T21:47:53.847058+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,16 +24,6 @@
       }
     },
     {
-      "id": "61034bf7579f",
-      "title": "Förgiftning på Akademiska undersöks på nytt - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWHUtRWlVcTVYUWEzT19CcHQyUU82ZDdldWRRMWY4dFZScm5hS0ppYWFvVFItaC1UX0pRMFVCWkhkcDdOVXpIamZlRmVwMFdwWlJrOE9kTDVPczlPQ21MLWJtSFg3dFpWMkVBVFdqTTJsRGtVRnZWOWs2UmNPeTlOOWVnckc4bm5yUlpZR0FvM0RTZmo4eVBKWmx1YXZhZ3M?oc=5",
-      "published": "2026-06-03T22:44:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "311d995c02e3",
       "title": "En felaktig läkemedelsdosering anmäls enligt lex Maria - Region Gotland",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWl4cE5adUZ1Vjk5ZTRmcXNyb3hzSmUtV3pCVGdTd2hwbEh0WVRlbzJOR3l0bnR2cmlzRDZieTBDc0l2VWN2Zk5Fa3o5emtidXJkSUZKcUNsd0p3d0ZQSXI3MnB6THZZRkRqWUhoM3VfX0E2cmtEVHZrVmFqTno5dnE3WWM2SkM0S1RZVmhyTkxxSW5jZk9UWmVMSVRwWG1iNjh0bV9paGpZUzRJNm0yQmw0Zw?oc=5",
@@ -41,6 +31,16 @@
       "source": {
         "name": "Region Gotland",
         "url": "https://gotland.se"
+      }
+    },
+    {
+      "id": "61034bf7579f",
+      "title": "Förgiftning på Akademiska undersöks på nytt - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWHUtRWlVcTVYUWEzT19CcHQyUU82ZDdldWRRMWY4dFZScm5hS0ppYWFvVFItaC1UX0pRMFVCWkhkcDdOVXpIamZlRmVwMFdwWlJrOE9kTDVPczlPQ21MLWJtSFg3dFpWMkVBVFdqTTJsRGtVRnZWOWs2UmNPeTlOOWVnckc4bm5yUlpZR0FvM0RTZmo4eVBKWmx1YXZhZ3M?oc=5",
+      "published": "2026-06-03T22:44:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -144,10 +144,10 @@
       }
     },
     {
-      "id": "a683c1e11b5c",
-      "title": "Överlevnaden fördubblades vid spridd pankreascancer - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZEtIdjR4LWNEZlNMa3JIRTdEVjYxOVNBRy1UeVpHOU55OG90MmEwRXM3Q3VtSktpaDRhM2xST0hOeFduQ1pSMExsLUY2TXdvU1Bfamxwc20zck9SYWVmUjVob1pGdzBuUEZ4Y0p5bS1RT2E2eVhNNTBNeDlhVzJCYmhSZ3dEOFFEaFZ1bFVjLUdMVGp0V0k2RWlRem9ZX2RaN0d6cEFpaTg1OGV0a1E?oc=5",
-      "published": "2026-05-31T03:00:00+00:00",
+      "id": "88bdeda6539d",
+      "title": "Astmaläkemedel bakom förgiftningarna på Ackis - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN0FpWVhUeEZqX1hMN3pPeC1ZdDNxOE5lUHNnblByNmpfY0xlZ0tqd2IxOEg5ZnotMU1NYUxCWTJEQlgyQTlKczJkUXNiWnRveG5zNUpqZ0NUV0RDTVBlMEMwN29QZzBLSWQ5TVEteXJNMDhGdmJPOVlKbzkwcVoyQlNQdTVmNmtBUXd2amdod0lHVUxmaTAzOEhkTjZzM1B0ZUE?oc=5",
+      "published": "2026-06-01T00:51:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -164,10 +164,10 @@
       }
     },
     {
-      "id": "88bdeda6539d",
-      "title": "Astmaläkemedel bakom förgiftningarna på Ackis - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN0FpWVhUeEZqX1hMN3pPeC1ZdDNxOE5lUHNnblByNmpfY0xlZ0tqd2IxOEg5ZnotMU1NYUxCWTJEQlgyQTlKczJkUXNiWnRveG5zNUpqZ0NUV0RDTVBlMEMwN29QZzBLSWQ5TVEteXJNMDhGdmJPOVlKbzkwcVoyQlNQdTVmNmtBUXd2amdod0lHVUxmaTAzOEhkTjZzM1B0ZUE?oc=5",
-      "published": "2026-06-01T00:51:00+00:00",
+      "id": "a683c1e11b5c",
+      "title": "Överlevnaden fördubblades vid spridd pankreascancer - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZEtIdjR4LWNEZlNMa3JIRTdEVjYxOVNBRy1UeVpHOU55OG90MmEwRXM3Q3VtSktpaDRhM2xST0hOeFduQ1pSMExsLUY2TXdvU1Bfamxwc20zck9SYWVmUjVob1pGdzBuUEZ4Y0p5bS1RT2E2eVhNNTBNeDlhVzJCYmhSZ3dEOFFEaFZ1bFVjLUdMVGp0V0k2RWlRem9ZX2RaN0d6cEFpaTg1OGV0a1E?oc=5",
+      "published": "2026-05-31T03:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -234,16 +234,6 @@
       }
     },
     {
-      "id": "9a302fa3fe89",
-      "title": "Hopp för cancersjuka – ny tablett bromsar tumörens tillväxt - Dagens PS",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUzZYSEVob1ZFa05BUVloNzk3U0hIUXl5LTlwalNNREZ1UlNvZ203WWs5X01aaUlWcXZMOGNhdlRXUGgwUll2Nmp5TU1kTjQ4OTRPdXpkc19VTkEwMmo1OEhCZ1Zka0xCR2NUWlA1ZEQyNVJURHVMTmtBUDY1VU5Ncjd3NWEwbXJ1bFhNcWlwMHdIQQ?oc=5",
-      "published": "2026-06-01T13:46:33+00:00",
-      "source": {
-        "name": "Dagens PS",
-        "url": "https://www.dagensps.se"
-      }
-    },
-    {
       "id": "839f300c9a07",
       "title": "\"Barn och ungdomar ska få bästa möjliga läkemedelsbehandling\" - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXVaal9CUXh5MGVMOUJZbnBSY3dvSFVoMG1nVTBieDNtUkxKOXBpQTh6aWYwem5TRnJ5Q0JTR2thX3hLdUZ2a1RZRmw5N1AtSFpWQmNvN3B2eFRabGZMTk1fb0xscTl3Rk51U1JKdmFyUnpQTUpYcTAyN0VYX3Y3Y2d5QTZ6em1Kb0xIUkRkVnBJYlFhc1QwNUxB?oc=5",
@@ -261,6 +251,16 @@
       "source": {
         "name": "Janusinfo.se",
         "url": "https://janusinfo.se"
+      }
+    },
+    {
+      "id": "9a302fa3fe89",
+      "title": "Hopp för cancersjuka – ny tablett bromsar tumörens tillväxt - Dagens PS",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUzZYSEVob1ZFa05BUVloNzk3U0hIUXl5LTlwalNNREZ1UlNvZ203WWs5X01aaUlWcXZMOGNhdlRXUGgwUll2Nmp5TU1kTjQ4OTRPdXpkc19VTkEwMmo1OEhCZ1Zka0xCR2NUWlA1ZEQyNVJURHVMTmtBUDY1VU5Ncjd3NWEwbXJ1bFhNcWlwMHdIQQ?oc=5",
+      "published": "2026-06-01T13:46:33+00:00",
+      "source": {
+        "name": "Dagens PS",
+        "url": "https://www.dagensps.se"
       }
     },
     {
@@ -364,16 +364,6 @@
       }
     },
     {
-      "id": "7d565146a947",
-      "title": "Nytt läkemedel värt 230 miljarder om året – om det fungerar - Dagens PS",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc3pWSHVYMktCUUpWa2wwOHQwa3dKY1N3ZXdJQUhXT2ZuZ1dtcl9veVVPZktkaGUybWxZQTNoVXBkOWVPTHEza0pCSHFfMGFpRUNRUi1kc0NteUdBbTFjbkg2dDdNOFNWZkMyazF4dXQyVlRQN19lcDYycVh0bVBtVnVmUUtRbFJWdXRwOEg5QUNHdw?oc=5",
-      "published": "2026-05-28T06:58:21+00:00",
-      "source": {
-        "name": "Dagens PS",
-        "url": "https://www.dagensps.se"
-      }
-    },
-    {
       "id": "01ea746d0652",
       "title": "Traditionell medicin står nu för över 5 % av sjukförsäkringsutgifterna; ett förslag har lagts fram om att utöka listan över läkemedel som täcks. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMkRiYUVGcjdFOFprWkpxell0ZVhsajR0RVNEY19oLXVUY1FuSDJ0STN2VGxzYV82ZXhLdU5VV0dQRlNXa1dXa3pIaGtHTkxEdmdWUzB4Q01aNHh0U3g3UHFnLUZOek9jM3FvZ015b3YtdFJnaEM1YWhqMkhEVWt0clJqNGdJWnRtd1pYSFU3T0VsTVNRa3JSUzF5NnNTcU1BUnhiR19OSEhQNkEx?oc=5",
@@ -381,6 +371,16 @@
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "7d565146a947",
+      "title": "Nytt läkemedel värt 230 miljarder om året – om det fungerar - Dagens PS",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc3pWSHVYMktCUUpWa2wwOHQwa3dKY1N3ZXdJQUhXT2ZuZ1dtcl9veVVPZktkaGUybWxZQTNoVXBkOWVPTHEza0pCSHFfMGFpRUNRUi1kc0NteUdBbTFjbkg2dDdNOFNWZkMyazF4dXQyVlRQN19lcDYycVh0bVBtVnVmUUtRbFJWdXRwOEg5QUNHdw?oc=5",
+      "published": "2026-05-28T06:58:21+00:00",
+      "source": {
+        "name": "Dagens PS",
+        "url": "https://www.dagensps.se"
       }
     },
     {
