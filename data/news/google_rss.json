@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-06T09:22:30.235234+00:00",
+  "fetched_at": "2026-06-06T11:21:47.470848+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -54,16 +54,6 @@
       }
     },
     {
-      "id": "26b3fea4bd0d",
-      "title": "Statsministern: Vi kommer att drastiskt reformera distributionssystemen för läkemedel och bränsle till förmån för arbetstagarna. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzZab3BMM01zS0pMVWQwc045VWt4WVBzR2E0ZVQ5WjQ5RzR6aTJuN0s0ZEs2bW1JemdzOUVVeGNkaUdmVWNhTVNzVHVqRkEtRVdBbGVQZ3dCMUU2TXoyTjdSZE9kXy1SQVZkazUyTEZJR1U5ZEV2VnhFMnBrSTVCNkZaOV9CcWxJYXg1cDRYOWtpQkdPSkljd0FybzU0SExHcV9ta2d4SXZoODZ4QXRHVU9zUTc?oc=5",
-      "published": "2026-06-05T12:33:00+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "ae08e771931a",
       "title": "Fler barn får diabetes-läkemedel mot fetma - Norra Skåne",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KOEJhOUZDcWQzNmF5RDFTR3F1eERraXpyWWRHQkRXY19tQWRGSTNyc2lWSXdaTlRZMVRKNVhrMTRqdEx0Qk1DLWpFYW02LVBTRVZjaE5XQXVoeXdvR1N5ek5EbVlodVh1ZFNneVdxUXE3cjZsT3dEdlJn?oc=5",
@@ -81,6 +71,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "26b3fea4bd0d",
+      "title": "Statsministern: Vi kommer att drastiskt reformera distributionssystemen för läkemedel och bränsle till förmån för arbetstagarna. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzZab3BMM01zS0pMVWQwc045VWt4WVBzR2E0ZVQ5WjQ5RzR6aTJuN0s0ZEs2bW1JemdzOUVVeGNkaUdmVWNhTVNzVHVqRkEtRVdBbGVQZ3dCMUU2TXoyTjdSZE9kXy1SQVZkazUyTEZJR1U5ZEV2VnhFMnBrSTVCNkZaOV9CcWxJYXg1cDRYOWtpQkdPSkljd0FybzU0SExHcV9ta2d4SXZoODZ4QXRHVU9zUTc?oc=5",
+      "published": "2026-06-05T12:33:00+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -154,10 +154,10 @@
       }
     },
     {
-      "id": "dd8929efc4c4",
-      "title": "TLV höjer prognos kraftigt – hemliga sidoavtal allt större del av marknaden - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUkhneXYwTF9zTnJLbXZNZmZGcFZsSXVxUldoX2w2WEliWTJ4dUlSZU1fbHhSQTFwXzhVaE0xekpwdHl3ZG15QW1NZlNEYW51TjhMNXNVdWgyQWpCRVVqVmJYNGpaUGl2bkJjX0tpNm5pMWZsdlN6SDVLc1VQSHlnLUF0NGJsRWczUERCTS1MTVZ4T3Q0bkMyUzBvX3ZPaUJyeU9CaFlhdXRQd3NYbzVkNHNnWXR5QlRERkwtSjJhanFnOFVR?oc=5",
-      "published": "2026-06-02T00:56:00+00:00",
+      "id": "5ec3de0e9f69",
+      "title": "”Konkurrensutsätt läkemedel i regionernas upphandlingar” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNXdBQ3JkZFZWSW1kTzNCY2lOMWRwdUJ4UGZHNEdldUk4bGtEZUU0LWp5bVl5RTktb05RaWVrWWNrVkZiZVZ1MWpCQUFXY2IyZjNyMmF4Ykg0dktKVVB2SkdKeHZiaFNCajZCNm0yQ1hTNXlCbFJRaXY3Y2tXb1ZkYU9Ua2E1QkpURER3TGp3M2dhSk1aQkhIcWJ2M3BPSjR1?oc=5",
+      "published": "2026-05-28T18:30:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -181,16 +181,6 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
-      }
-    },
-    {
-      "id": "5ec3de0e9f69",
-      "title": "”Konkurrensutsätt läkemedel i regionernas upphandlingar” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNXdBQ3JkZFZWSW1kTzNCY2lOMWRwdUJ4UGZHNEdldUk4bGtEZUU0LWp5bVl5RTktb05RaWVrWWNrVkZiZVZ1MWpCQUFXY2IyZjNyMmF4Ykg0dktKVVB2SkdKeHZiaFNCajZCNm0yQ1hTNXlCbFJRaXY3Y2tXb1ZkYU9Ua2E1QkpURER3TGp3M2dhSk1aQkhIcWJ2M3BPSjR1?oc=5",
-      "published": "2026-05-28T18:30:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -294,16 +284,6 @@
       }
     },
     {
-      "id": "a683c1e11b5c",
-      "title": "Överlevnaden fördubblades vid spridd pankreascancer - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZEtIdjR4LWNEZlNMa3JIRTdEVjYxOVNBRy1UeVpHOU55OG90MmEwRXM3Q3VtSktpaDRhM2xST0hOeFduQ1pSMExsLUY2TXdvU1Bfamxwc20zck9SYWVmUjVob1pGdzBuUEZ4Y0p5bS1RT2E2eVhNNTBNeDlhVzJCYmhSZ3dEOFFEaFZ1bFVjLUdMVGp0V0k2RWlRem9ZX2RaN0d6cEFpaTg1OGV0a1E?oc=5",
-      "published": "2026-05-31T03:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "b9f05f98aa99",
       "title": "”Vi ska väga både hälsa och pengar” - Svenska Dagbladet",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjRjR2NzaGRwdUtOQjJvZDlpVDc1SDhJcDZ1dzFYaU9vT1NPM0tRZFoxcHlYaHZLVHJWd1UzLVhHaUFKODVMcnE4cHJYVlNVbWRXRnd3bnkta0czT0NiU3RvVndwTHR4bG8zWGhfQnJMZlJzNDNGVDU0bDRFdVVSejdaYk1VMG9sM1hj?oc=5",
@@ -311,6 +291,16 @@
       "source": {
         "name": "Svenska Dagbladet",
         "url": "https://www.svd.se"
+      }
+    },
+    {
+      "id": "a683c1e11b5c",
+      "title": "Överlevnaden fördubblades vid spridd pankreascancer - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZEtIdjR4LWNEZlNMa3JIRTdEVjYxOVNBRy1UeVpHOU55OG90MmEwRXM3Q3VtSktpaDRhM2xST0hOeFduQ1pSMExsLUY2TXdvU1Bfamxwc20zck9SYWVmUjVob1pGdzBuUEZ4Y0p5bS1RT2E2eVhNNTBNeDlhVzJCYmhSZ3dEOFFEaFZ1bFVjLUdMVGp0V0k2RWlRem9ZX2RaN0d6cEFpaTg1OGV0a1E?oc=5",
+      "published": "2026-05-31T03:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -344,16 +334,6 @@
       }
     },
     {
-      "id": "9a302fa3fe89",
-      "title": "Hopp för cancersjuka – ny tablett bromsar tumörens tillväxt - Dagens PS",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUzZYSEVob1ZFa05BUVloNzk3U0hIUXl5LTlwalNNREZ1UlNvZ203WWs5X01aaUlWcXZMOGNhdlRXUGgwUll2Nmp5TU1kTjQ4OTRPdXpkc19VTkEwMmo1OEhCZ1Zka0xCR2NUWlA1ZEQyNVJURHVMTmtBUDY1VU5Ncjd3NWEwbXJ1bFhNcWlwMHdIQQ?oc=5",
-      "published": "2026-06-01T13:46:33+00:00",
-      "source": {
-        "name": "Dagens PS",
-        "url": "https://www.dagensps.se"
-      }
-    },
-    {
       "id": "661e5e895a59",
       "title": "PFAS lämnar kroppen snabbare med vissa läkemedel - Göteborgs universitet",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdzQtVGltZzNOaHRzakxGcktvdDJvdEpFTUVHTFVYbU9VUko4dnprampfVnQ3azhiZHcydmNwV29xd2pPSUNJM0NzUFFBRHFQUzVTUXFHZjFIYWhfbVFSUFJJaW5DckRrdjlVLTU0Qy1XRGZkSnhsS3FnMl95VWc?oc=5",
@@ -361,6 +341,16 @@
       "source": {
         "name": "Göteborgs universitet",
         "url": "https://www.gu.se"
+      }
+    },
+    {
+      "id": "9a302fa3fe89",
+      "title": "Hopp för cancersjuka – ny tablett bromsar tumörens tillväxt - Dagens PS",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUzZYSEVob1ZFa05BUVloNzk3U0hIUXl5LTlwalNNREZ1UlNvZ203WWs5X01aaUlWcXZMOGNhdlRXUGgwUll2Nmp5TU1kTjQ4OTRPdXpkc19VTkEwMmo1OEhCZ1Zka0xCR2NUWlA1ZEQyNVJURHVMTmtBUDY1VU5Ncjd3NWEwbXJ1bFhNcWlwMHdIQQ?oc=5",
+      "published": "2026-06-01T13:46:33+00:00",
+      "source": {
+        "name": "Dagens PS",
+        "url": "https://www.dagensps.se"
       }
     },
     {
@@ -411,16 +401,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "01ea746d0652",
-      "title": "Traditionell medicin står nu för över 5 % av sjukförsäkringsutgifterna; ett förslag har lagts fram om att utöka listan över läkemedel som täcks. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMkRiYUVGcjdFOFprWkpxell0ZVhsajR0RVNEY19oLXVUY1FuSDJ0STN2VGxzYV82ZXhLdU5VV0dQRlNXa1dXa3pIaGtHTkxEdmdWUzB4Q01aNHh0U3g3UHFnLUZOek9jM3FvZ015b3YtdFJnaEM1YWhqMkhEVWt0clJqNGdJWnRtd1pYSFU3T0VsTVNRa3JSUzF5NnNTcU1BUnhiR19OSEhQNkEx?oc=5",
-      "published": "2026-06-03T02:56:53+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -494,6 +474,16 @@
       }
     },
     {
+      "id": "01ea746d0652",
+      "title": "Traditionell medicin står nu för över 5 % av sjukförsäkringsutgifterna; ett förslag har lagts fram om att utöka listan över läkemedel som täcks. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMkRiYUVGcjdFOFprWkpxell0ZVhsajR0RVNEY19oLXVUY1FuSDJ0STN2VGxzYV82ZXhLdU5VV0dQRlNXa1dXa3pIaGtHTkxEdmdWUzB4Q01aNHh0U3g3UHFnLUZOek9jM3FvZ015b3YtdFJnaEM1YWhqMkhEVWt0clJqNGdJWnRtd1pYSFU3T0VsTVNRa3JSUzF5NnNTcU1BUnhiR19OSEhQNkEx?oc=5",
+      "published": "2026-06-03T02:56:53+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
       "id": "f8c8511614d7",
       "title": "Så ska du göra om du får biverkningar av medicin - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbjl3a0lwUllESzZsZjZQeXl1U1h0WVJ5MHRxckgxdWdlVUo4NW0zUndhZUJMdHJwejhMWjNyVU9fUGc3UTQzc3JXLVpPTUdmNXVSc05rRDh4U2xsZjdoMzU3LUJIYkMxYzhqQTJtY0VTY0prSzVVWG9ZWmxWTHJqbVlZQk5yVUhy?oc=5",
@@ -524,16 +514,6 @@
       }
     },
     {
-      "id": "a2280bdf2d25",
-      "title": "Nya studier: Läkemedel för viktminskning kan bromsa cancer - Dagens PS",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ1Bxbi1KeDNUT1NmLUlHX3ZjcS1NOVd2LVZGQ2FLS1ZiTy13Rm9kRGpaY253VXVyQmNvajZmU0JYTXZreTZXZk9sZDR2ckc2a3VhNEJuUE5jODRRcEVxTGZFMUkxM25zekxoS1otZE1zbXVXWnFMOXp1WEZySHRCaWM5NXRZUzEwOUVJMVo5ckZfZw?oc=5",
-      "published": "2026-05-22T07:00:00+00:00",
-      "source": {
-        "name": "Dagens PS",
-        "url": "https://www.dagensps.se"
-      }
-    },
-    {
       "id": "86241c6eb723",
       "title": "Dömer ut hyllade medicinen: Olyckligt - Expressen",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzb2pxMWNmOW10QWpuQUNpTmJONF8wSHBGX1drSl9WNkFEZE5HcThXNDFhNHlreWQzdjJ0dUcwUG5JbjlIMXFvT281c0NVSXRuNGRyaTBQeDRGalp2eGJYaUJldEtUaWlzd2RtWmx2RzJGcXhRQzg4M3dn?oc=5",
@@ -541,6 +521,16 @@
       "source": {
         "name": "Expressen",
         "url": "https://www.expressen.se"
+      }
+    },
+    {
+      "id": "a2280bdf2d25",
+      "title": "Nya studier: Läkemedel för viktminskning kan bromsa cancer - Dagens PS",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ1Bxbi1KeDNUT1NmLUlHX3ZjcS1NOVd2LVZGQ2FLS1ZiTy13Rm9kRGpaY253VXVyQmNvajZmU0JYTXZreTZXZk9sZDR2ckc2a3VhNEJuUE5jODRRcEVxTGZFMUkxM25zekxoS1otZE1zbXVXWnFMOXp1WEZySHRCaWM5NXRZUzEwOUVJMVo5ckZfZw?oc=5",
+      "published": "2026-05-22T07:00:00+00:00",
+      "source": {
+        "name": "Dagens PS",
+        "url": "https://www.dagensps.se"
       }
     },
     {
@@ -654,16 +644,6 @@
       }
     },
     {
-      "id": "4c8bfa2958f3",
-      "title": "Undersökning och behandling inom traditionell medicin: Låt inte några rötägg förstöra gänget. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOW1sWGFMcEdPaThoMXlYWnNnLV9zSF8yZnRTLUk0M053T0ZXcm14a2dhaGpBYUtZWUdsOGlVV2hzWkNMaXVJdVhFTURQcWhFM28xTm4yTTBlZnB6TXUzb0VpM0lScFV3VmxOQWV0by04Qy1lTUtwd1VrRjRsTDh1dUVzbXZEVjBWak9Bckt1dS13Wmp1X3M3bmVJWDYwNmpyZG5j?oc=5",
-      "published": "2026-06-02T00:18:44+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "8d45ca08bf70",
       "title": "Experten: Det här bör du om de nya fetmaläkemedlen - Expressen",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmg4M3ZMaTY2a1p6bnFqN1o4SkJKV2ktVm55c3JoaERXZ0gzaE1XaFRXLWVwZkNJYkp5d3owNjhKdEYyaDlXTkNuUEN6WXZfWENMbEVwbGZmSVRIYmNkU25YdkNLYkpoRkVKa2hGRm5abnl0RGpCbkc1NW5OeGFHbXhWczdQX0RzRjFEX3RpTThldW5hTVA4Rg?oc=5",
@@ -711,6 +691,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "4c8bfa2958f3",
+      "title": "Undersökning och behandling inom traditionell medicin: Låt inte några rötägg förstöra gänget. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOW1sWGFMcEdPaThoMXlYWnNnLV9zSF8yZnRTLUk0M053T0ZXcm14a2dhaGpBYUtZWUdsOGlVV2hzWkNMaXVJdVhFTURQcWhFM28xTm4yTTBlZnB6TXUzb0VpM0lScFV3VmxOQWV0by04Qy1lTUtwd1VrRjRsTDh1dUVzbXZEVjBWak9Bckt1dS13Wmp1X3M3bmVJWDYwNmpyZG5j?oc=5",
+      "published": "2026-06-02T00:18:44+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "83178720a861",
+      "title": "Ny lag för nätapotek 2027 – det här förändras när du köper läkemedel online - metromode.se",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU0pqOXpRUC12WmdVWGIwRmlNOGdHZGRVUjhZb3oxU2JlVGowUE9GZ1RleFB5VnpqLXEyM1NKWmRIeDJnTG02UHFTbjg0ZHQ3anJRSDMyZENNX2JfaDh2TzV0S2lxaUcxaHRMV29sZE15YlVCUy1DZ2J0V3NQM3lUZ0lRSHZwTmNWSHVaNXhsQ2VMNllFSmY3cVhucllMU1d4a2Jv?oc=5",
+      "published": "2026-05-03T07:00:00+00:00",
+      "source": {
+        "name": "metromode.se",
+        "url": "https://metromode.se"
       }
     }
   ]
