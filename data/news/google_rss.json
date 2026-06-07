@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-07T21:06:50.679652+00:00",
+  "fetched_at": "2026-06-07T23:00:23.844150+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -134,16 +134,6 @@
       }
     },
     {
-      "id": "b061a397e058",
-      "title": "Barns hälsa ska stärkas genom uppdaterat kunskapsstöd - Via TT",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS1AxQ0Z5ekN0MlBzMVpFU2lTVjdhWmVyaTNrTXdPT1hKamZfSjVqMkg3ZUNzQnJBYWpuUGZjYVQxR0lfZEtpSE9XLWN5bmx4Rkh0aGFHZkpRS05veE1iY01NNXZrQ1B3WmNpYmpNcEJQLVc4cVdLWmFOeC1hR3ZfQzdkcURrcDF3WF9RYmxwZVVJZjlwejF5bkhDRzQtU0RZUmF3MVJoRGh4VXRLOFgwWkZ1TWhUVWJPdnI3cTBfVW8?oc=5",
-      "published": "2026-04-21T07:00:00+00:00",
-      "source": {
-        "name": "Via TT",
-        "url": "https://via.tt.se"
-      }
-    },
-    {
       "id": "4c9153063fc6",
       "title": "Nytt läkemedel ger dubbelt så lång överlevnad som cellgifter - e55.se",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTzhLRVotTUJhWGZkZVpUT1RoaGxYM29jajZ3U1RNYUQzTUowQWN2YjFvMmFOM3FGUl9MYlhDNkFqTzFpRldaNWdfWmh1TkR1TWpRSEFHdUFxTmhsZEptYVlXMGtwc3lacXg1OXJCZkYySF85dnNyVDB0SUdWM0ZneExLVW1pTWNlb1kzZHhqVQ?oc=5",
@@ -184,6 +174,16 @@
       }
     },
     {
+      "id": "3568e66ea8b9",
+      "title": "Mot ett kontinuerligt ekosystem för hälso- och sjukvården. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMEQ4ZEl4WkFUcGRJZnpVd1dpVFZTR1RrNC1vbDZfUUgtTUVZX0xYSnBCNFhhUDFjX3JHamFkNXBWMEo4VE5MT3labmVpMVh4ejh6bndQb2tRd2oyWmxCRUhEdWE1V3Z4bEY4ZzBZX1ZjRFFFLUZQbWZJbXk5MVo0Uw?oc=5",
+      "published": "2026-06-06T14:29:21+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
       "id": "e786d9728a1e",
       "title": "Diabetesläkemedel kopplas till minskad psykisk ohälsa - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGpaVjZ1MlhUM0Ffc1lfYXpfVUZ2N0FnMjBuckZOQ0ZvX2pMX1d3blBGQUZ4TUltYlJtbTUwUDFicF80ZWtjSDh2UndrYmZaSFJiTWxnVXlGeWdlRXBfLXoyWFFlUkhaR25QbWwtNnF1QTlMX2s1MldyOURVSFBtWDQzd1huZGpYVE11MjdQM3l4VkM5ZG9TUVdB?oc=5",
@@ -201,6 +201,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "b061a397e058",
+      "title": "Barns hälsa ska stärkas genom uppdaterat kunskapsstöd - Via TT",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS1AxQ0Z5ekN0MlBzMVpFU2lTVjdhWmVyaTNrTXdPT1hKamZfSjVqMkg3ZUNzQnJBYWpuUGZjYVQxR0lfZEtpSE9XLWN5bmx4Rkh0aGFHZkpRS05veE1iY01NNXZrQ1B3WmNpYmpNcEJQLVc4cVdLWmFOeC1hR3ZfQzdkcURrcDF3WF9RYmxwZVVJZjlwejF5bkhDRzQtU0RZUmF3MVJoRGh4VXRLOFgwWkZ1TWhUVWJPdnI3cTBfVW8?oc=5",
+      "published": "2026-04-21T07:00:00+00:00",
+      "source": {
+        "name": "Via TT",
+        "url": "https://via.tt.se"
       }
     },
     {
@@ -314,16 +324,6 @@
       }
     },
     {
-      "id": "88bdeda6539d",
-      "title": "Astmaläkemedel bakom förgiftningarna på Ackis - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN0FpWVhUeEZqX1hMN3pPeC1ZdDNxOE5lUHNnblByNmpfY0xlZ0tqd2IxOEg5ZnotMU1NYUxCWTJEQlgyQTlKczJkUXNiWnRveG5zNUpqZ0NUV0RDTVBlMEMwN29QZzBLSWQ5TVEteXJNMDhGdmJPOVlKbzkwcVoyQlNQdTVmNmtBUXd2amdod0lHVUxmaTAzOEhkTjZzM1B0ZUE?oc=5",
-      "published": "2026-06-01T00:51:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "ff0b7e849dbb",
       "title": "Vitalis 2026: E-hälsa och AI i fokus i Göteborg - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzFKaThhOFhERzJld2tEWVRtQ1NMcExRRmt1YzN0MDFJRnpIajdGTjlwODNVNmFMeUpxQjhOTkxSQ3ptYllReUhXaXdYY0lMeWtUUnlyeE5mWWVTTlFjWnFuTkxQbWRJa1VTMDJrTkJLdDBfTDhkTHdQeGN2Z2h6RWNpZy1iNjRuOTNZVC10VEh1NVV1Q3JR?oc=5",
@@ -351,6 +351,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "88bdeda6539d",
+      "title": "Astmaläkemedel bakom förgiftningarna på Ackis - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN0FpWVhUeEZqX1hMN3pPeC1ZdDNxOE5lUHNnblByNmpfY0xlZ0tqd2IxOEg5ZnotMU1NYUxCWTJEQlgyQTlKczJkUXNiWnRveG5zNUpqZ0NUV0RDTVBlMEMwN29QZzBLSWQ5TVEteXJNMDhGdmJPOVlKbzkwcVoyQlNQdTVmNmtBUXd2amdod0lHVUxmaTAzOEhkTjZzM1B0ZUE?oc=5",
+      "published": "2026-06-01T00:51:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -434,20 +444,20 @@
       }
     },
     {
-      "id": "f8c8511614d7",
-      "title": "Så ska du göra om du får biverkningar av medicin - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbjl3a0lwUllESzZsZjZQeXl1U1h0WVJ5MHRxckgxdWdlVUo4NW0zUndhZUJMdHJwejhMWjNyVU9fUGc3UTQzc3JXLVpPTUdmNXVSc05rRDh4U2xsZjdoMzU3LUJIYkMxYzhqQTJtY0VTY0prSzVVWG9ZWmxWTHJqbVlZQk5yVUhy?oc=5",
-      "published": "2025-10-27T07:00:00+00:00",
+      "id": "fbca71cbb806",
+      "title": "Potensmedlet lyfts av experter – mot alzheimer - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU1Z6ZEVFbXlaaUV0NkRXWGZfS1ZLcnFIaG9ILUhDUHkwREhmSjJfcThMOXM2MUgxYU9VanFBcDBrQnVMT3A3Z3JOLXJ1SVpKQ2JpbFVWUlZKRUpCeWo0OURjRlpMNlRDWkxxSkItWUsyX3hCUEljWmZMUG9RQ2x5TVQ1aGJsM0djUk9abFJCakpScUItRjVadFJyd2ptOGFSdnp4T213UQ?oc=5",
+      "published": "2026-03-13T07:00:00+00:00",
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
       }
     },
     {
-      "id": "fbca71cbb806",
-      "title": "Potensmedlet lyfts av experter – mot alzheimer - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU1Z6ZEVFbXlaaUV0NkRXWGZfS1ZLcnFIaG9ILUhDUHkwREhmSjJfcThMOXM2MUgxYU9VanFBcDBrQnVMT3A3Z3JOLXJ1SVpKQ2JpbFVWUlZKRUpCeWo0OURjRlpMNlRDWkxxSkItWUsyX3hCUEljWmZMUG9RQ2x5TVQ1aGJsM0djUk9abFJCakpScUItRjVadFJyd2ptOGFSdnp4T213UQ?oc=5",
-      "published": "2026-03-13T07:00:00+00:00",
+      "id": "f8c8511614d7",
+      "title": "Så ska du göra om du får biverkningar av medicin - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbjl3a0lwUllESzZsZjZQeXl1U1h0WVJ5MHRxckgxdWdlVUo4NW0zUndhZUJMdHJwejhMWjNyVU9fUGc3UTQzc3JXLVpPTUdmNXVSc05rRDh4U2xsZjdoMzU3LUJIYkMxYzhqQTJtY0VTY0prSzVVWG9ZWmxWTHJqbVlZQk5yVUhy?oc=5",
+      "published": "2025-10-27T07:00:00+00:00",
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
@@ -494,16 +504,6 @@
       }
     },
     {
-      "id": "01ea746d0652",
-      "title": "Traditionell medicin står nu för över 5 % av sjukförsäkringsutgifterna; ett förslag har lagts fram om att utöka listan över läkemedel som täcks. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMkRiYUVGcjdFOFprWkpxell0ZVhsajR0RVNEY19oLXVUY1FuSDJ0STN2VGxzYV82ZXhLdU5VV0dQRlNXa1dXa3pIaGtHTkxEdmdWUzB4Q01aNHh0U3g3UHFnLUZOek9jM3FvZ015b3YtdFJnaEM1YWhqMkhEVWt0clJqNGdJWnRtd1pYSFU3T0VsTVNRa3JSUzF5NnNTcU1BUnhiR19OSEhQNkEx?oc=5",
-      "published": "2026-06-03T02:56:53+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "a2280bdf2d25",
       "title": "Nya studier: Läkemedel för viktminskning kan bromsa cancer - Dagens PS",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ1Bxbi1KeDNUT1NmLUlHX3ZjcS1NOVd2LVZGQ2FLS1ZiTy13Rm9kRGpaY253VXVyQmNvajZmU0JYTXZreTZXZk9sZDR2ckc2a3VhNEJuUE5jODRRcEVxTGZFMUkxM25zekxoS1otZE1zbXVXWnFMOXp1WEZySHRCaWM5NXRZUzEwOUVJMVo5ckZfZw?oc=5",
@@ -524,13 +524,13 @@
       }
     },
     {
-      "id": "9a302fa3fe89",
-      "title": "Hopp för cancersjuka – ny tablett bromsar tumörens tillväxt - Dagens PS",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUzZYSEVob1ZFa05BUVloNzk3U0hIUXl5LTlwalNNREZ1UlNvZ203WWs5X01aaUlWcXZMOGNhdlRXUGgwUll2Nmp5TU1kTjQ4OTRPdXpkc19VTkEwMmo1OEhCZ1Zka0xCR2NUWlA1ZEQyNVJURHVMTmtBUDY1VU5Ncjd3NWEwbXJ1bFhNcWlwMHdIQQ?oc=5",
-      "published": "2026-06-01T13:46:33+00:00",
+      "id": "01ea746d0652",
+      "title": "Traditionell medicin står nu för över 5 % av sjukförsäkringsutgifterna; ett förslag har lagts fram om att utöka listan över läkemedel som täcks. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMkRiYUVGcjdFOFprWkpxell0ZVhsajR0RVNEY19oLXVUY1FuSDJ0STN2VGxzYV82ZXhLdU5VV0dQRlNXa1dXa3pIaGtHTkxEdmdWUzB4Q01aNHh0U3g3UHFnLUZOek9jM3FvZ015b3YtdFJnaEM1YWhqMkhEVWt0clJqNGdJWnRtd1pYSFU3T0VsTVNRa3JSUzF5NnNTcU1BUnhiR19OSEhQNkEx?oc=5",
+      "published": "2026-06-03T02:56:53+00:00",
       "source": {
-        "name": "Dagens PS",
-        "url": "https://www.dagensps.se"
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -541,6 +541,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "9a302fa3fe89",
+      "title": "Hopp för cancersjuka – ny tablett bromsar tumörens tillväxt - Dagens PS",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUzZYSEVob1ZFa05BUVloNzk3U0hIUXl5LTlwalNNREZ1UlNvZ203WWs5X01aaUlWcXZMOGNhdlRXUGgwUll2Nmp5TU1kTjQ4OTRPdXpkc19VTkEwMmo1OEhCZ1Zka0xCR2NUWlA1ZEQyNVJURHVMTmtBUDY1VU5Ncjd3NWEwbXJ1bFhNcWlwMHdIQQ?oc=5",
+      "published": "2026-06-01T13:46:33+00:00",
+      "source": {
+        "name": "Dagens PS",
+        "url": "https://www.dagensps.se"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "4c3f5ef6f895",
-      "title": "Ny lag för nätapotek 2027 – det här förändras när du köper läkemedel online - Metro Mode",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU0pqOXpRUC12WmdVWGIwRmlNOGdHZGRVUjhZb3oxU2JlVGowUE9GZ1RleFB5VnpqLXEyM1NKWmRIeDJnTG02UHFTbjg0ZHQ3anJRSDMyZENNX2JfaDh2TzV0S2lxaUcxaHRMV29sZE15YlVCUy1DZ2J0V3NQM3lUZ0lRSHZwTmNWSHVaNXhsQ2VMNllFSmY3cVhucllMU1d4a2Jv?oc=5",
-      "published": "2026-05-03T07:00:00+00:00",
-      "source": {
-        "name": "Metro Mode",
-        "url": "https://metromode.se"
       }
     }
   ]
