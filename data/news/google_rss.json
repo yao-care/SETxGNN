@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-13T19:18:41.694878+00:00",
+  "fetched_at": "2026-06-13T21:10:49.855106+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -14,16 +14,6 @@
       }
     },
     {
-      "id": "862acd256db1",
-      "title": "Nya kombinationer imponerar mot svåra former av myelom - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0lpNUtzb2VZQ2t5N0Z2Um8tTnFYa0dSd1pZQXkyX01XejFHOEpndGtfX0RHUktHNG5iWjQ5eU1QXzhpdjVjRTlwRG9rZ3ZuR2VhOTJFWVowRHU3T0lmZXRUamdpbVlXRkI1a2xGV2lwYWNndEM5VmJUUlM0T1Q1WkpDcE1Sa3lNUlE4WHY1dEswMW9qVnBOdlR3R1hQbFVxcnhsS2RwLUFzME1fd0E?oc=5",
-      "published": "2026-06-13T08:45:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "3beac257fd90",
       "title": "Lex Maria: Läkemedel förväxlades vid smärta i buken - Mynewsdesk",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUmxlajZSOTJLOHJBMDl1NkRuakRGNUV0N3RXWFF4Tkl4ZVo2M1BGdGU2MFNobURESlE4dnR5UFVuTXMwOVVXdk5UZjQ2MjhjeU9BbEJKa05Rd0U1VEdkTFdBTTFZcnlmVkJmNmN5YmlrYzduempJbDBKc0lKT0N3SkpTblFBdjgxLW5IeVJQb29fRUN5UURxeGtCcUZvMTB4ZWI0UVlxSUg3MTYzaldpN2V6aG54ekRsS1duSW5uX0Z2SzQ?oc=5",
@@ -31,6 +21,16 @@
       "source": {
         "name": "Mynewsdesk",
         "url": "https://www.mynewsdesk.com"
+      }
+    },
+    {
+      "id": "862acd256db1",
+      "title": "Nya kombinationer imponerar mot svåra former av myelom - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0lpNUtzb2VZQ2t5N0Z2Um8tTnFYa0dSd1pZQXkyX01XejFHOEpndGtfX0RHUktHNG5iWjQ5eU1QXzhpdjVjRTlwRG9rZ3ZuR2VhOTJFWVowRHU3T0lmZXRUamdpbVlXRkI1a2xGV2lwYWNndEM5VmJUUlM0T1Q1WkpDcE1Sa3lNUlE4WHY1dEswMW9qVnBOdlR3R1hQbFVxcnhsS2RwLUFzME1fd0E?oc=5",
+      "published": "2026-06-13T08:45:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
