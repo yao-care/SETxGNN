@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-15T22:15:03.946936+00:00",
+  "fetched_at": "2026-06-16T00:27:30.777578+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -44,16 +44,6 @@
       }
     },
     {
-      "id": "2612c7d9d83c",
-      "title": "Omfattande inspektion av läkemedels- och medicintekniska sektorn för perioden 2023–2025. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa01zNVJvVkt1SWlYTWlZZ0huejAzSGhBZkE4UnBId1VLM2tldHM2cW9nNXl6RVpEWDFlRDVwVHl6NTFOZFAyUUdLN2NuNU9pc1E0bE5PV1czcGNadUJQRWN4cHVxSUEwbEZDMEpkbGVhWU1tbUMwakNUN1ZsRlZ4ZmJDc0VjbzZTRHFsYl9MMVU5bE9aV3JtclpLREo?oc=5",
-      "published": "2026-06-15T11:40:04+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "040e73ad2125",
       "title": "Svensk AI-modell kan snabba upp utvecklingen av läkemedel - e55.se",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOHh6ZGpkUGhvbldabzFfV0RobllHMDlheW50djB6U1VmM2JTZDBfRFVyZVgyNUVOS3hKM1J5S0IxWWI0LTA1YkVWRFFBRmxnam1XemFNOWNVWjFGSWl6Q3N4TGIzSmVrV2VQdjZjVWp6bEFTMk5TMkVrY29kOXU4R05ZcFZSX3RIQUp3?oc=5",
@@ -61,6 +51,16 @@
       "source": {
         "name": "e55.se",
         "url": "https://www.e55.se"
+      }
+    },
+    {
+      "id": "2612c7d9d83c",
+      "title": "Omfattande inspektion av läkemedels- och medicintekniska sektorn för perioden 2023–2025. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa01zNVJvVkt1SWlYTWlZZ0huejAzSGhBZkE4UnBId1VLM2tldHM2cW9nNXl6RVpEWDFlRDVwVHl6NTFOZFAyUUdLN2NuNU9pc1E0bE5PV1czcGNadUJQRWN4cHVxSUEwbEZDMEpkbGVhWU1tbUMwakNUN1ZsRlZ4ZmJDc0VjbzZTRHFsYl9MMVU5bE9aV3JtclpLREo?oc=5",
+      "published": "2026-06-15T11:40:04+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -224,16 +224,6 @@
       }
     },
     {
-      "id": "28d4607ca42c",
-      "title": "En trend framträder där folk bär labbrockar för att marknadsföra kosttillskott som om de vore läkemedel på sociala medier. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzZtNW1mQjJnSDJUZS14dTBmbnJ4MnRkaUMzaDBjSlA2ckN0UVpvMWxKT095QjViRXZFcmFMTktlWndEUDUwa2VUamZNUkQ2NnFCWW04Qlh0bTlTSGpVdzhpOEp6Wmw5XzZCd1BPd3pYQzZpcDJXTElLNDI5cDdCV25NUWgwaUthQ2Q0YUVIbkF4bk5qNEIxTTFraUtXNFBsd09VQ00yTTJfYzZNQWZWcGltRk5heGZCOWc?oc=5",
-      "published": "2026-06-13T16:31:18+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "f7555bf6cd5f",
       "title": "Nytt centrum ska främja barns och ungas hälsa - Janusinfo.se",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYjhWdW96YzFhYVFocmE5UE43TUU3RDFiLWIwQVNsaVM3aXExeTJpMm92d2JlZDE3c3hyS1QyYXpMTE1hWGR5M2dyNkszUXczMXNpWmRwYVRyRFB4NG5mYXU2aWtrU2NFVXhaOWZQa2c4MFNxVkY5MXk5bWs2UDRGY2N1N05RRkVPZWQ0cGM1OUNydDZRZzhtb2NuS0YxY1NydE9sQmdDRjdaN1RJSG9PRThIY0E3QXl5VUtZekk3NUNnNnlaSkZGZDdmTlNYdldPQkswYW14eEQ3VWNtYmZv?oc=5",
@@ -254,13 +244,13 @@
       }
     },
     {
-      "id": "c258fd419c54",
-      "title": "Tablett ger nytt hopp vid dödlig cancervariant: ”Unikt” - Expressen",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZOeHh4V3JBb0M3WkR2NmhjbzR5RVlFSXBTVWkxRllUUk5JZmN1QTJLUnItV3Y4Zkx6WG1EcDNlVTVvWjE3cjhPVUVlV2lPUnRsYy1CYWJod21yV1NhRUFmb1RvNW5mQlNoUF9Ia2tSWjVMTVVnQUVpdlZ6ckQ1alg2dE95OW5KUVI1WmUybnk0UQ?oc=5",
-      "published": "2026-06-10T03:00:00+00:00",
+      "id": "28d4607ca42c",
+      "title": "En trend framträder där folk bär labbrockar för att marknadsföra kosttillskott som om de vore läkemedel på sociala medier. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzZtNW1mQjJnSDJUZS14dTBmbnJ4MnRkaUMzaDBjSlA2ckN0UVpvMWxKT095QjViRXZFcmFMTktlWndEUDUwa2VUamZNUkQ2NnFCWW04Qlh0bTlTSGpVdzhpOEp6Wmw5XzZCd1BPd3pYQzZpcDJXTElLNDI5cDdCV25NUWgwaUthQ2Q0YUVIbkF4bk5qNEIxTTFraUtXNFBsd09VQ00yTTJfYzZNQWZWcGltRk5heGZCOWc?oc=5",
+      "published": "2026-06-13T16:31:18+00:00",
       "source": {
-        "name": "Expressen",
-        "url": "https://www.expressen.se"
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -281,6 +271,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "c258fd419c54",
+      "title": "Tablett ger nytt hopp vid dödlig cancervariant: ”Unikt” - Expressen",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZOeHh4V3JBb0M3WkR2NmhjbzR5RVlFSXBTVWkxRllUUk5JZmN1QTJLUnItV3Y4Zkx6WG1EcDNlVTVvWjE3cjhPVUVlV2lPUnRsYy1CYWJod21yV1NhRUFmb1RvNW5mQlNoUF9Ia2tSWjVMTVVnQUVpdlZ6ckQ1alg2dE95OW5KUVI1WmUybnk0UQ?oc=5",
+      "published": "2026-06-10T03:00:00+00:00",
+      "source": {
+        "name": "Expressen",
+        "url": "https://www.expressen.se"
       }
     },
     {
@@ -364,16 +364,6 @@
       }
     },
     {
-      "id": "dd2b4b4f033e",
-      "title": "Inspektionen för förvaltning av läkemedels- och medicinsk utrustningsverksamhet, hälsoministeriet och relaterade enheter. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU1JJbDQyRngtVnBSV2l0STVlcG5ST1otQTM5ZUlyaTRBaTJWdjd0Z1FNUHpjWjJNcmpwbXlBTUYybnJqT3FSYTU5RGZsQ2liSEN4eFdNY04xZDh1RFBNczZDZGpoVW9tSmJVUXpfVUdHSkZYNXFSY3o2el9DTy05em43bVBGdkpYSmd3UE5DVE85YlQyZlpaMHptWThKbzBiRGFMamgtTGNiTzA?oc=5",
-      "published": "2026-06-10T07:19:05+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "515f35913347",
       "title": "\"Immuncellernas funktion blev perfekt återställd\" - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXVfNWtIR2ptdWhORjlSSV9Kem5JUHhibnJCdnJ4Qk1aQUFMTnVFTWlHbkN6bVZqbkJMRlFwa2prX09UZlB5anZPdjdCWWxzSTVLNnVfVWFqTVEyeTJ3MzBnVWFnNlZVZFZpRWVMSnVPQTlyU2tiMnNpZ3JMN3hyNnlGeFVRbzVvRWlPQnRLLUxPS2NsT2pNbnZVMjhrU3Ns?oc=5",
@@ -391,6 +381,16 @@
       "source": {
         "name": "Göteborgs universitet",
         "url": "https://www.gu.se"
+      }
+    },
+    {
+      "id": "dd2b4b4f033e",
+      "title": "Inspektionen för förvaltning av läkemedels- och medicinsk utrustningsverksamhet, hälsoministeriet och relaterade enheter. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU1JJbDQyRngtVnBSV2l0STVlcG5ST1otQTM5ZUlyaTRBaTJWdjd0Z1FNUHpjWjJNcmpwbXlBTUYybnJqT3FSYTU5RGZsQ2liSEN4eFdNY04xZDh1RFBNczZDZGpoVW9tSmJVUXpfVUdHSkZYNXFSY3o2el9DTy05em43bVBGdkpYSmd3UE5DVE85YlQyZlpaMHptWThKbzBiRGFMamgtTGNiTzA?oc=5",
+      "published": "2026-06-10T07:19:05+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -514,16 +514,6 @@
       }
     },
     {
-      "id": "3af3f1c0d0af",
-      "title": "Färre nya läkemedel når svenska patienter - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVTU3dWNMNl93bHQtU2ZwZ1pvSUNnaWZ4V1dfZTJyc0VqWERaMVgtWDY0cnROZ2VnU1NVN3BJa0x4T040TEFoalAxQUVSeWs5U1pOZGFXVENWSm84bjVFUy0tRVZucDFUTVVMRGd0X05yaTc2UDMwZ2RWeFczbks1OGhwaXh5bmVIdHM4MkV0N2ZkSlRoYTFCVWt3?oc=5",
-      "published": "2026-05-18T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "fbca71cbb806",
       "title": "Potensmedlet lyfts av experter – mot alzheimer - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU1Z6ZEVFbXlaaUV0NkRXWGZfS1ZLcnFIaG9ILUhDUHkwREhmSjJfcThMOXM2MUgxYU9VanFBcDBrQnVMT3A3Z3JOLXJ1SVpKQ2JpbFVWUlZKRUpCeWo0OURjRlpMNlRDWkxxSkItWUsyX3hCUEljWmZMUG9RQ2x5TVQ1aGJsM0djUk9abFJCakpScUItRjVadFJyd2ptOGFSdnp4T213UQ?oc=5",
@@ -531,6 +521,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "3af3f1c0d0af",
+      "title": "Färre nya läkemedel når svenska patienter - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVTU3dWNMNl93bHQtU2ZwZ1pvSUNnaWZ4V1dfZTJyc0VqWERaMVgtWDY0cnROZ2VnU1NVN3BJa0x4T040TEFoalAxQUVSeWs5U1pOZGFXVENWSm84bjVFUy0tRVZucDFUTVVMRGd0X05yaTc2UDMwZ2RWeFczbks1OGhwaXh5bmVIdHM4MkV0N2ZkSlRoYTFCVWt3?oc=5",
+      "published": "2026-05-18T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -551,16 +551,6 @@
       "source": {
         "name": "Expressen",
         "url": "https://www.expressen.se"
-      }
-    },
-    {
-      "id": "9e8cf29cedd2",
-      "title": "Jakob Forssmed: Psykisk hälsa ska in på skolschemat - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM09wMkZUQUJBWXNBVkI1MHJ0NHZKakJUNlpMQkFUVjJKQUc3SW9URWlUdzUzZl9zd1pWbzFpRkhVRl93aktUVGVHelJUS2dTVXJpVXN3RDhhNE11Zkg1MDZ5ZnRUQnFPWVpHYnlITFhlalhHTVNnamxyRW9TTUdaVWNKckxqR2dzNDRVUm9hdWFZZkN2Z19CWHVrbmlhWlMxYTduWjduNUhnLXZ6?oc=5",
-      "published": "2026-01-02T08:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -694,16 +684,6 @@
       }
     },
     {
-      "id": "3b042d563459",
-      "title": "1 300 personer fick kostnadsfria läkarundersökningar, behandling och medicinering. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYkIydC1WYmhSS1pKSE5XeEk0WWxCTklxMHB1cHhVcXZLX0tBbW9tMjhnb1Jxem1Ec2szZlliSHZQTFYxS2hxZWthZjZxV29VRE9iSk9nQ0FTYjQxT1lyZUd6VUhDRnVBV21jcHNtbm11Rkdwd3BDR3JJQmtLUl9rdmhmaUxYa095?oc=5",
-      "published": "2026-06-12T10:24:16+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "e347ffa3d2b8",
       "title": "Nya läkemedlet Kayshild kan hjälpa vid fettlever - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNFE2d0lpVUZaMVpnTVpQaERieGFZR1AtRXkxZUxTTGJYdWpMMDJyMUJPc1JnanJ6YzhXMTg5Z1BRRXJQbENmXzhicmNoeW1hZjZBSU5qeDM4QlltejVTbVhRSFF4bk15Vk1SNHN3VVd4cll3RzEtUk03anFVdG9STTJPeXNZUEpRb0FORTlTRmExX1Za?oc=5",
@@ -734,6 +714,26 @@
       }
     },
     {
+      "id": "3b042d563459",
+      "title": "1 300 personer fick kostnadsfria läkarundersökningar, behandling och medicinering. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYkIydC1WYmhSS1pKSE5XeEk0WWxCTklxMHB1cHhVcXZLX0tBbW9tMjhnb1Jxem1Ec2szZlliSHZQTFYxS2hxZWthZjZxV29VRE9iSk9nQ0FTYjQxT1lyZUd6VUhDRnVBV21jcHNtbm11Rkdwd3BDR3JJQmtLUl9rdmhmaUxYa095?oc=5",
+      "published": "2026-06-12T10:24:16+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "cebf533af2c0",
+      "title": "En av tre har sett falsk marknadsföring av läkemedel - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3BPOThuT0Z3bEJHS3h6ekJfV21HdExHS3dhNVNWTVdfWEhHUlN0WEFzM2VYRGlvOXpjWXBGbUNWczNvMEdwblZKV0cwODBjM2stYlVuM0dtdXFMb2tEM2F4eVhnNHVuY29tS3JDb0VkLWM0ZGszTy1OUFFNdktFN1FaTVpfRXFCX3lPRUU3anRYRVZYYktwYlcxdUxwVmJndmhYN1BFV0E?oc=5",
+      "published": "2026-02-25T08:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "b13507c7a9f7",
       "title": "Forskare pekar ut åtta läkemedel som kan bromsa demens - Dagens PS",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFJVMmRPV3c3YTNCZkFJRHZmTlhpRHZ3TEx5VVM5MDNCUGhrUkRDVWVESlplVFY4b2F4RDlnRWtqU0QydHFpY2dDZHNCWHFhOGNYSHBDaHJhemlnLVJMVEpzcDNVZUxFdkxlamFhM05fUVRCbUhMUl9MOG9SeXBGWnBDUmU0YUlSYXpTeHlR?oc=5",
@@ -751,16 +751,6 @@
       "source": {
         "name": "e55.se",
         "url": "https://www.e55.se"
-      }
-    },
-    {
-      "id": "036f44401486",
-      "title": "Att hantera typ 2-diabetes: En väg till bättre psykisk hälsa - Mynewsdesk",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcS0wYmlrOVZtNGhJalRtTkE1LXRsY04zQU1FSDRCWWdvU1FnVGR1dVFfRWxYYm5zdE9pSXA4a3lzQlVVOV9wVU1Dc09UbDRUbzluVjlQOVNzNFcyVHp4Zm5keUp6NTdxWUtkUjNTemhMblZCdUU3eUVJUXpIUnlvdHRfcEVsOTNBUFlfeUVpNGxJVklxcjBkSlpGYzhPSGEyeUEtRE54WnAycEU3cHpRS1VlOXE0UUl5N2dKWmln?oc=5",
-      "published": "2026-05-08T08:33:00+00:00",
-      "source": {
-        "name": "Mynewsdesk",
-        "url": "https://www.mynewsdesk.com"
       }
     },
     {
@@ -821,16 +811,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "1c79d65f1e14",
-      "title": "”Cosmic-läkare” tar över som tf hälso- och sjukvårdsdirektör - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEVXS0ExV3hwbVp3NW9VYWh2QXVFUm9RSHFVbk85VzZLOHRiLVBXZE1CRGRSdW53Y1B6ZzRQUjQ5SUQtZE50LW5WcTF4Q09hOUNfMU1hOXlMT0xUb3UxdHN2UE9CVXVFWkwxR3E3TnVicTF6NFpPU1FReDg4eDJ4dUZ2b1pjRURMT0NVVThFa0dTTUh2NDVWZ0oyVC03b1FLMlY5QjkyZWZFb25E?oc=5",
-      "published": "2026-02-12T08:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -1001,6 +981,26 @@
       "source": {
         "name": "NT",
         "url": "https://www.nt.se"
+      }
+    },
+    {
+      "id": "6c3ae1fd39fb",
+      "title": "Träning mot depression och ångest – lika effektivt som medicin - News55",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlMtcTEzdmdCSVZEQnBCcHM5RzVsb3JBMkxxZ1lWS2FrU3o3Mkh0SVpnT1FtMXFJeFI5R2hnRnVvRktqUlVlNkQ5TmwtcU9ZM0VFdF91U3ZXcG9YQXN6OWYwVU9LVlRMVk5VMllVd1duVnBSTHp3VkVCRmduanNPY0dadFJ3b3RvckNWcS1Lem5md1E?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "85e7e40396da",
+      "title": "Nya läkemedel mot alzheimers får hård kritik – liten nytta för patienterna - News55",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSC14VEl2S2MzWWNJaHRPeFRVMEhYM1V4dmRtbVpWbVVFSnJJTDhRVHBzVjZOWi1GemZQMFZVMGJPTUFrVzNGVF8zM0c3aHB1NUhUUDNxRm9nSUtjWk9GbGk2LWRHWHFIQW9uX3R1ZlNpY1dqTEJCcTR6eHNRZGlYWGo3NDNsUkE5S2FrTzZMOXNDNDhoNlFpeHVTNW1QZW1scU1n?oc=5",
+      "published": "2026-04-17T07:00:00+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     }
   ]
