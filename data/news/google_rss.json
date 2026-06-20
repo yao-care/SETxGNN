@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-20T19:18:25.711623+00:00",
+  "fetched_at": "2026-06-20T21:11:57.012978+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -134,10 +134,10 @@
       }
     },
     {
-      "id": "4c9080d85bf7",
-      "title": "NT-rådet avråder från finansiering av effektivt vaccin mot bältros - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ09NM3czYUZGSDc1MjJSSEk1ZmtMWFVER1dfbDBmdjNjcHhDeW5tODMyNUY5Vm1iS2lGR3RtVTg3aUtLY251UGtsaWdkYzhrLTU0WmlRMHp2MXl0MHd2dHJfVVpIeE95TkgxalA4bjllQTZJZkh0WFVFa0dtSzQyMk5rLThtZHVMRnV4b3VKalg1NG00Y3Ryd3NLLW4xejRXWnpRWmVfUHI2MkE3M2lmV1dsNlRPZkpoWG5hZHpheEVRdw?oc=5",
-      "published": "2026-06-17T21:00:00+00:00",
+      "id": "d4505e515a6d",
+      "title": "NT-rådet ger grönt ljus för ett av världens dyraste läkemedel - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOck55aXZ3MWNXakY3S3JiM3Q1YlVyNE0tVjVlc0txdDBIM1AtQ29DQzRPbUpxTk1CR096aGR0dTlRcXEzN2s4eVI0bDdJVTM3aEFqUzVacS1HYXU5cGJPd2c2YXJBTGFzNDBzd3RMN09IRzhlZG10N3FVdkJHY282S3NLOU01SV9IamJ0V2J0TDZhS0VHdG00LWlwSXdLOHVZX19IcWJvT2thU2poa1pEbURtWVNIQ0dObXFN?oc=5",
+      "published": "2026-06-17T03:25:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -221,6 +221,16 @@
       "source": {
         "name": "Janusinfo.se",
         "url": "https://janusinfo.se"
+      }
+    },
+    {
+      "id": "6b8c1114fb5d",
+      "title": "Röster om Nergårdhs förslag: Skärpt tidsgräns oroar – men digitala förändringar välkomnas - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaUZyM2s3cWJINldkZGpOblVVUFRKWF94LVVwQUlSdWhfbExlZFM5TVZsNFU4WkFVUlhMU01RRGc5OE1VdC1CcmFMSDQxZXZ5VjRQQ3JNdUdwdXZMQzFpbVVuYUxfc0tiOFptODBRNUlaY0NLVTFiYnF6M2oxbVZ3b1daMkVRZ2pRV3V1Y205dUhmQVZmV08zVXFvd00xMFhWUUNDTDV4ajBoR1BLaGRIM0hJR2lSUVg2d3BzSWdZQkI5dWVGOTBEcUNValFxOTFDdjVTOGNMZHM?oc=5",
+      "published": "2026-06-17T04:39:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -364,16 +374,6 @@
       }
     },
     {
-      "id": "5d1f9889f2ab",
-      "title": "Ny forskning om rymdläkemedel. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zSEtxS0FfRUR3ck9HbDVfT0NpZkRKcGRNMFZPaUN3dFU5TDVfX1lqWUZPWEk2WEpHSXcwNmhfUHdBNkpIZ2lJaUxqN29zamZ3empjcmFwYmQ2RHJtWWNDZ3FRWE9iU195Umw4Yg?oc=5",
-      "published": "2026-06-20T07:06:23+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "9d0d172e9682",
       "title": "Vanlig medicin kan öka risken för hjärtsjukdom - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFVGWEdzcnBlX1hlUmtNcTRKME9xM0ZKNUJsdS14UEMxTS1VSkJHLS1nTEtTb1g1MXBhMHc0MFVzMWl1M0hONTBkLXNHdXhQZFpBNjNWSE9jMXVQVWFHbzVMRkNQYV9jbF9MOUZWRm9lOU4tQmQ3OEhkaEQ4UmpNWUxPdmZHMXN4S0J3Y1Q4d3ZaQQ?oc=5",
@@ -441,6 +441,16 @@
       "source": {
         "name": "Forskning.se",
         "url": "https://forskning.se"
+      }
+    },
+    {
+      "id": "5d1f9889f2ab",
+      "title": "Ny forskning om rymdläkemedel. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zSEtxS0FfRUR3ck9HbDVfT0NpZkRKcGRNMFZPaUN3dFU5TDVfX1lqWUZPWEk2WEpHSXcwNmhfUHdBNkpIZ2lJaUxqN29zamZ3empjcmFwYmQ2RHJtWWNDZ3FRWE9iU195Umw4Yg?oc=5",
+      "published": "2026-06-20T07:06:23+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -544,16 +554,6 @@
       }
     },
     {
-      "id": "f9b264b8105c",
-      "title": "Lista: De tävlar om posten som hälso- och sjukvårdsdirektör i Region Jönköping - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTC1sRWRXWHM2YWJ4QWlIRjNxVU41aTN1dXJJWUJFOTk3eVdMOWhVNGlQcHFGUmQ2WXE3NmVVNml5RXdDSzNuanBwSi1FSTJpZVUtSVZmN3lZUEFib0tkVU81ekoydnhEaGxnamhta2MwRDNQMGM4eDhQNXZEZ3JmcGxCVlJ2andMTDB6Ukw3VXJsV3AwNEJCN0psd0xqZHEzNGs1SzBGV0M3NTl0bmxXb0FQMXpsWHEzdjB1R3dkY2dfeFl2R0E?oc=5",
-      "published": "2026-05-24T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "baf42fe8dd35",
       "title": "Så jagar forskarna bättre behandling mot postcovid - Forskning & Framsteg",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sWnRYTXFUZmsxNGtpTXV6UHBZSWIxNTcwQlJyblpkRV9LMDlNMmJOdVN1OHVZWU9JOWhqUWU5ZlRWVWhlYU5FdWxHUVpmQU5uTVRjTWswQjN3QVpVV05oalozNnIycnpkSjJ6dDZHSEw1MHVPVjRiNi1PQWNqQ1U?oc=5",
@@ -561,6 +561,16 @@
       "source": {
         "name": "Forskning & Framsteg",
         "url": "https://fof.se"
+      }
+    },
+    {
+      "id": "f9b264b8105c",
+      "title": "Lista: De tävlar om posten som hälso- och sjukvårdsdirektör i Region Jönköping - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTC1sRWRXWHM2YWJ4QWlIRjNxVU41aTN1dXJJWUJFOTk3eVdMOWhVNGlQcHFGUmQ2WXE3NmVVNml5RXdDSzNuanBwSi1FSTJpZVUtSVZmN3lZUEFib0tkVU81ekoydnhEaGxnamhta2MwRDNQMGM4eDhQNXZEZ3JmcGxCVlJ2andMTDB6Ukw3VXJsV3AwNEJCN0psd0xqZHEzNGs1SzBGV0M3NTl0bmxXb0FQMXpsWHEzdjB1R3dkY2dfeFl2R0E?oc=5",
+      "published": "2026-05-24T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -654,16 +664,6 @@
       }
     },
     {
-      "id": "7d565146a947",
-      "title": "Nytt läkemedel värt 230 miljarder om året – om det fungerar - Dagens PS",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc3pWSHVYMktCUUpWa2wwOHQwa3dKY1N3ZXdJQUhXT2ZuZ1dtcl9veVVPZktkaGUybWxZQTNoVXBkOWVPTHEza0pCSHFfMGFpRUNRUi1kc0NteUdBbTFjbkg2dDdNOFNWZkMyazF4dXQyVlRQN19lcDYycVh0bVBtVnVmUUtRbFJWdXRwOEg5QUNHdw?oc=5",
-      "published": "2026-05-28T07:00:00+00:00",
-      "source": {
-        "name": "Dagens PS",
-        "url": "https://www.dagensps.se"
-      }
-    },
-    {
       "id": "e347ffa3d2b8",
       "title": "Nya läkemedlet Kayshild kan hjälpa vid fettlever - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNFE2d0lpVUZaMVpnTVpQaERieGFZR1AtRXkxZUxTTGJYdWpMMDJyMUJPc1JnanJ6YzhXMTg5Z1BRRXJQbENmXzhicmNoeW1hZjZBSU5qeDM4QlltejVTbVhRSFF4bk15Vk1SNHN3VVd4cll3RzEtUk03anFVdG9STTJPeXNZUEpRb0FORTlTRmExX1Za?oc=5",
@@ -671,6 +671,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "7d565146a947",
+      "title": "Nytt läkemedel värt 230 miljarder om året – om det fungerar - Dagens PS",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc3pWSHVYMktCUUpWa2wwOHQwa3dKY1N3ZXdJQUhXT2ZuZ1dtcl9veVVPZktkaGUybWxZQTNoVXBkOWVPTHEza0pCSHFfMGFpRUNRUi1kc0NteUdBbTFjbkg2dDdNOFNWZkMyazF4dXQyVlRQN19lcDYycVh0bVBtVnVmUUtRbFJWdXRwOEg5QUNHdw?oc=5",
+      "published": "2026-05-28T07:00:00+00:00",
+      "source": {
+        "name": "Dagens PS",
+        "url": "https://www.dagensps.se"
       }
     },
     {
@@ -988,16 +998,6 @@
       "title": "Träning mot depression och ångest – lika effektivt som medicin - News55",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlMtcTEzdmdCSVZEQnBCcHM5RzVsb3JBMkxxZ1lWS2FrU3o3Mkh0SVpnT1FtMXFJeFI5R2hnRnVvRktqUlVlNkQ5TmwtcU9ZM0VFdF91U3ZXcG9YQXN6OWYwVU9LVlRMVk5VMllVd1duVnBSTHp3VkVCRmduanNPY0dadFJ3b3RvckNWcS1Lem5md1E?oc=5",
       "published": "2026-03-25T07:00:00+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
-      "id": "1f29a532b6b3",
-      "title": "Forskning: Fetmaläkemedel kan minska psykisk ohälsa - News55",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMjBqekZ6dldsUDM1QnJLZDdrUm5NMEU4aDYxSTRpNHFxQ2VQRTViU1phaGNITHBTSTF3V0IwbkZUU1VlYnp3YVh1VEU0VzM2anlFX0kwWmpLWDhlYWx2Z1A2bWp4WFJ5TVhhcHVPYThuazFDVy1fNTFKa3VmbTFpWHM1S2tsZw?oc=5",
-      "published": "2026-03-27T07:00:00+00:00",
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
