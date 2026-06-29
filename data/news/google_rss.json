@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-29T19:50:33.343164+00:00",
+  "fetched_at": "2026-06-29T21:21:31.743693+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -11,6 +11,16 @@
       "source": {
         "name": "Region Stockholm",
         "url": "https://www.regionstockholm.se"
+      }
+    },
+    {
+      "id": "98ae69fba7ff",
+      "title": "Nya förslag ska göra det lättare att dela läkemedel mellan civil och militär sjukvård - Medicinsk Access",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOckxUY01paWtjamtHaEduOVJQdVJTRVVzekpKWWRkMFE1bmppVi1fQmc4SHpnVGM4a3RYaE5DZWtIY3M1QzVRdVpRc1RJcXN1QzB2RFhpSjNTbnV2WVc0eWprcFNFaW1SaGNITTNZbXllT250QWNvN3BtWldLbDhaU2RnaUN0WHl6UDlocnRJdFpYam4zdk5XYmY4SWNFVDAzZlhETExFX2RwX25kTThnNjRrSTVTX3Yxbk5VZXBRd3NUU3g5bGc?oc=5",
+      "published": "2026-06-29T14:12:15+00:00",
+      "source": {
+        "name": "Medicinsk Access",
+        "url": "https://medicinskaccess.se"
       }
     },
     {
@@ -34,16 +44,6 @@
       }
     },
     {
-      "id": "275e77dfbe10",
-      "title": "EMA nobbar ny indikation för Mounjaro vid typ 2-diabetes - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdk9HbWp1WkpZQkI0RlpOUERFVjdMbFNxUWFlTW1TQVFmSU9KMzB2TGNZaEsweFhhY2dmcjRwdDdDQ3dXVXBXZmF4SFpEYTRwdFFEbkpTVTVQZnRzNG5RdmhqWnJiTmw2dkFlVGxoRkFKMkVOSXhIVEJTV2pSSGQ3TVFocGhHelZlQjRhcWZVTjNPTTRsYVJpQ2xaZTVoeHNqd3NCdkdkRm04bnFsMEF1NEgyQQ?oc=5",
-      "published": "2026-06-29T02:45:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "74f6f2c1decb",
       "title": "Valproat – ingen fastställd länk mellan pappans medicinering och barnets hälsa - LäkemedelsVärlden",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnhVMEV4S3JTdHBvYnkzTjYzQVdBUlI3UFlBUEFlei1yV0tkSVFVQmRvVkF0WHNnczFZbkpEb1lleWxPOUYzWVprUTRTYmRucTh3UmxlREIwemw1TnRJaXFWN3lHS1EtOVNJbU5PQmdfUGN6WDJ6TEFRaERNOXltQzZfWDN3bmx2RjlXT2VibEU3UURwUzB1QmRReUtwY1drQnYw?oc=5",
@@ -51,6 +51,16 @@
       "source": {
         "name": "LäkemedelsVärlden",
         "url": "https://www.lakemedelsvarlden.se"
+      }
+    },
+    {
+      "id": "275e77dfbe10",
+      "title": "EMA nobbar ny indikation för Mounjaro vid typ 2-diabetes - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdk9HbWp1WkpZQkI0RlpOUERFVjdMbFNxUWFlTW1TQVFmSU9KMzB2TGNZaEsweFhhY2dmcjRwdDdDQ3dXVXBXZmF4SFpEYTRwdFFEbkpTVTVQZnRzNG5RdmhqWnJiTmw2dkFlVGxoRkFKMkVOSXhIVEJTV2pSSGQ3TVFocGhHelZlQjRhcWZVTjNPTTRsYVJpQ2xaZTVoeHNqd3NCdkdkRm04bnFsMEF1NEgyQQ?oc=5",
+      "published": "2026-06-29T02:45:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -114,12 +124,12 @@
       }
     },
     {
-      "id": "952d979fc251",
-      "title": "Diabetesläkemedlet Ozempic kopplas till bättre psykisk hälsa - Karolinska Institutet",
+      "id": "93ec6f462fee",
+      "title": "Diabetesläkemedlet Ozempic kopplas till bättre psykisk hälsa - Karolinska institutet",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXpIRm0xajlOYmROMGZDSkJ6WWcwck5RdFg3Q1FSMjFsalNYWUpTT3BnZ2dOcWFweTZJa0ZEdkdFaEpYWWhGOW81VnduXzdUd2paMU53dDI1MEE2Y0t2bnF3Snc5LWFkN3ZsZW9hNS03bnh3OTNxMVdJWWJTbGZ0VEtKTFdnckFxN1E?oc=5",
       "published": "2026-03-19T07:00:00+00:00",
       "source": {
-        "name": "Karolinska Institutet",
+        "name": "Karolinska institutet",
         "url": "https://nyheter.ki.se"
       }
     },
@@ -214,16 +224,6 @@
       }
     },
     {
-      "id": "b8d206289cac",
-      "title": "”Ingen vill ha diagnosen schizofreni för att få Wegovy” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX1o3NXZ3aHVNMjhMVmpZTnhZb1JVNlRER2tOeTRWSzMzSkhjRTJCYjE4M1JWcVIwZVl0NzNnT1ZoNHEtaU84RWI3V3plTkEyclFEc0dOOEpYNTAxTkZvaW1QcGtQN0MyUUN4T29NSkozczFIOTFSVDFXMlgxVDE0cHVMNmtCb1RLVE01cndya2d6MEpCQTN2bnAxaU1CdjQ?oc=5",
-      "published": "2026-06-23T18:20:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "839f300c9a07",
       "title": "\"Barn och ungdomar ska få bästa möjliga läkemedelsbehandling\" - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXVaal9CUXh5MGVMOUJZbnBSY3dvSFVoMG1nVTBieDNtUkxKOXBpQTh6aWYwem5TRnJ5Q0JTR2thX3hLdUZ2a1RZRmw5N1AtSFpWQmNvN3B2eFRabGZMTk1fb0xscTl3Rk51U1JKdmFyUnpQTUpYcTAyN0VYX3Y3Y2d5QTZ6em1Kb0xIUkRkVnBJYlFhc1QwNUxB?oc=5",
@@ -231,6 +231,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "b8d206289cac",
+      "title": "”Ingen vill ha diagnosen schizofreni för att få Wegovy” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX1o3NXZ3aHVNMjhMVmpZTnhZb1JVNlRER2tOeTRWSzMzSkhjRTJCYjE4M1JWcVIwZVl0NzNnT1ZoNHEtaU84RWI3V3plTkEyclFEc0dOOEpYNTAxTkZvaW1QcGtQN0MyUUN4T29NSkozczFIOTFSVDFXMlgxVDE0cHVMNmtCb1RLVE01cndya2d6MEpCQTN2bnAxaU1CdjQ?oc=5",
+      "published": "2026-06-23T18:20:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -254,16 +264,6 @@
       }
     },
     {
-      "id": "cd377149ce41",
-      "title": "Tre partier vill subventionera obesitasläkemedel i Region Stockholm - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQkNOLW1rYzgxMjdMYUNadTF1b1VQbndnT3JCcTNIX3piR2pRSFRyQW15ZnJsaHc2UzF6VWlvNG9lTkd0cFd1cDVrdjVsWHZqVVcxMHRLRURtaHNHMEY4eUkxa3hDSTB3S1E2MXNRVE9DQ081WEdtbktsV0FFUi1OUGtTMnM1ZUlSNzBzTjJoSVJueXBtS0J3dU5QUTZCZ0JHMXlybEkzTGQwV3M4c3Z1bHNNYzZPaUEwLWNMdXBySQ?oc=5",
-      "published": "2026-06-26T04:30:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "b839bf00c97e",
       "title": "”När politiska budskap påverkar hälsa och tillgång till läkemedel” - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW9FaGZQZmRZbUp2WDFsX3dkRFQ1Q1R0UHlhTGlIREc4LUpDT05Od1h2SUhieFh3aWUxUnFjTXYwNGZBWFJkdENQTTVmbWZTR0tkSEZ4eUZZUlBaa24yVFdvd1dMS2dmZVJLMjlLOWNfUmprNGJvZDVTaGpYZEVETXFPcnhVR3A3LXNVWGlZeDE5dDFMTEdpWHliUHkwSUJuTzhxS1prN2I?oc=5",
@@ -271,6 +271,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "cd377149ce41",
+      "title": "Tre partier vill subventionera obesitasläkemedel i Region Stockholm - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQkNOLW1rYzgxMjdMYUNadTF1b1VQbndnT3JCcTNIX3piR2pRSFRyQW15ZnJsaHc2UzF6VWlvNG9lTkd0cFd1cDVrdjVsWHZqVVcxMHRLRURtaHNHMEY4eUkxa3hDSTB3S1E2MXNRVE9DQ081WEdtbktsV0FFUi1OUGtTMnM1ZUlSNzBzTjJoSVJueXBtS0J3dU5QUTZCZ0JHMXlybEkzTGQwV3M4c3Z1bHNNYzZPaUEwLWNMdXBySQ?oc=5",
+      "published": "2026-06-26T04:30:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -384,6 +394,16 @@
       }
     },
     {
+      "id": "2bfb38de9bd0",
+      "title": "Ny undersökning: Tre av fem saknar kunskap om läkemedelsrisker vid vätskebrist - ICA Gruppen",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbE9HV3VQUE9EVDkwWUJhQ29lN2VYSERkM25nWGx0cFA5bDRDQ29RQmFyRkZYaEdLZG5TNFhueFZFaHFrLUJpVVNoZTdZZEw2ZTRXMEZuR29qZGlFajVoY2JsSDV4c2N6WVdfRzUtcE9JNkF2QlcyYkFKUUszTTFoM0VqNm1FeUpGeDloWkJ3MFY0MnZRMGsyS3lZRzRkMW1acFVOOWxYdFFRS2t1UFBiZVBTYmU1ajNUdGhaWE9NV0hmNlRmdERoSDJGd1VwaG5kVXc?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "source": {
+        "name": "ICA Gruppen",
+        "url": "https://www.icagruppen.se"
+      }
+    },
+    {
       "id": "82137277f7f7",
       "title": "Mötet »Framtidens medicin & hälsa« ställs in - Läkartidningen",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORUxXWE5ZcUwycjNwSDA3dEtCVDBNU1o4Mmhta0YzMC11c050b0JMM1ZLRkVWU2p3WG5ZaGxkUGtfcXFSVHNLZGY4N01GQVlRWFB4YWFfSkRURzM0Zl9nbm95MXNuSklORzZsMkd6UzFsdUR4Q3pwWmFXRWNpTDRCcQ?oc=5",
@@ -424,16 +444,6 @@
       }
     },
     {
-      "id": "48d78dc13c7b",
-      "title": "Dyrare hormonplåster ska öka Sveriges konkurrenskraft - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdVJNTlZoc1gyTWxBUDJtaEMzWDZDVzRUMHZMVzIyRTByUEFuUjN6S2VhZjJOSXpudkJ6bjZ2MURyMERWcm1UZXJ1YXl4eGdqQkJoblROS1dRb2tHSk8wNkFqaHBLczBsdlpPWmNyVnhqQ2RMdWV5eVY0N0V3NXhmRjdEX1dhREM2UGpzSUtnSG1BRXAzRko4ek5YaWZYOS1NOUFiXzE5LUJ3dw?oc=5",
-      "published": "2026-06-23T00:23:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "b59a89ba6d46",
       "title": "Västra Götalandsregionen häver avtal med vårdgivare, inför nytt läkemedel för blodcancer och höjer ersättning för bassängbehandling – beslut från operativa hälso- och sjukvårdsnämnden - Via TT",
       "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPNk84bE0xVzd6RFZJdHlhR1lUNUc3emNTeC1HNDZtOTc3N2M1bzVVamVmXy02eFF3by1vV3pHdm9MVk5VMERjbmhCanRqZVVZZGFYeUx1Y1NuM3FTTUdQMjBUNHNsNWhLeUdrazhGN1FLUll3b2t3OV9uSS1JNG9DU01DYTVqQkMwYzJ0enc1MktYVk1ZUzMtX1JXZkV0Q3FKR0k1Wmp4dkhLNjVoTl94bWlJWmwtSy1GMnFzcENJRDExOG1IWmY4c1V2emN4d1dObG85MGw4Mkl6aWhzQ1podF9QdU04U3JvMXdnYWh4OWVRTXF1SWZ1QkpOWk1xeU1aN01pYTJZcU9oS1RTa0RWb053UEdXeGljczJUS3IzdW1YMkFjTW9vRHYxMm16cTNqM080cnN3cVNIY0NsSWQ2UVd0UG1SZGoyOFhRNDl6bEttcnZpYUh6dmhIbjBUVWJtNU9odTd4cFY?oc=5",
@@ -461,6 +471,16 @@
       "source": {
         "name": "Göteborgs universitet",
         "url": "https://www.gu.se"
+      }
+    },
+    {
+      "id": "48d78dc13c7b",
+      "title": "Dyrare hormonplåster ska öka Sveriges konkurrenskraft - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdVJNTlZoc1gyTWxBUDJtaEMzWDZDVzRUMHZMVzIyRTByUEFuUjN6S2VhZjJOSXpudkJ6bjZ2MURyMERWcm1UZXJ1YXl4eGdqQkJoblROS1dRb2tHSk8wNkFqaHBLczBsdlpPWmNyVnhqQ2RMdWV5eVY0N0V3NXhmRjdEX1dhREM2UGpzSUtnSG1BRXAzRko4ek5YaWZYOS1NOUFiXzE5LUJ3dw?oc=5",
+      "published": "2026-06-23T00:23:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -544,12 +564,12 @@
       }
     },
     {
-      "id": "e9c72164d9b3",
-      "title": "Ny studie undersöker hur vanliga läkemedel mot halsbränna påverkar njurar och hjärta över tid - Karolinska Institutet",
+      "id": "4c1b9934b39d",
+      "title": "Ny studie undersöker hur vanliga läkemedel mot halsbränna påverkar njurar och hjärta över tid - Karolinska institutet",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVlqQXpWQVlkdHUteTVjR2FWUFdCbFBlQXMxblVtQmVQMTlGQmpQcHQzZ1hDMm9ZTWxoUExhNlpPVlRPZmhwd0pUUzFqVGEyUU1pMGpjNjV6UElZM3NDamhNdUNSUXloMU94aWVXOUkzUlM3am5VMVgybjUwcXVSVmxMaDRZckJsaVVYRlRRel9LU1RZR3lQMGxucUNITmlpSFdBWG5xeUVOTmh4ZEtQZXFvWk5UUQ?oc=5",
       "published": "2025-10-20T07:00:00+00:00",
       "source": {
-        "name": "Karolinska Institutet",
+        "name": "Karolinska institutet",
         "url": "https://nyheter.ki.se"
       }
     },
@@ -674,16 +694,6 @@
       }
     },
     {
-      "id": "6d77f4301ad4",
-      "title": "Kostnadsfria läkarundersökningar och medicinering tillhandahölls till över 300 invånare i gränskommunen Vinh Xuong. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFppVWQyUGF2WUdFV2N5RHBzNjZEQ05NQnUtSHFIY3FHbEFIMGVvZkd5UDZXX05oRERxQXowRUtaT2V5Z0Zka3NSZWtaTndfQTU4TVFnSkZBX0JSbWJZRUZ0amlOQm54MmlDT1J1cjJHTGYzbVVOdTNneWl2TjhpSVpMN2ltLVBBdFkyYm95UDBMZ2xCODZEd0owYzRRTmJpekE?oc=5",
-      "published": "2026-06-28T06:00:01+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "38fbec50254c",
       "title": "Ny studie: Hur påverkar adhd-läkemedel patienter med beroende? - NewsMachine AB",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWhsZzEydkZwWVJoX3NxWHdYZVNZQkJmeVhFbXk0WXV6Ulg2aW5Hc09oak9VR3RKSHc4MXhPMkdhQWdvMjJ3OW1QakZUbEVfczhIMTVhbl8ySEw3YkE1dzZsaDFUd245cm5rNGZiR0ZfQ1ByTHB2TTFxZnJVdTEyVl95cHhPUUc2dGlTanZCRVFjY2F0RHRfalJ2UWhudEExTWs0MXlLZVVBNi1sb2tndndxZnM?oc=5",
@@ -691,6 +701,16 @@
       "source": {
         "name": "NewsMachine AB",
         "url": "https://press.newsmachine.com"
+      }
+    },
+    {
+      "id": "6d77f4301ad4",
+      "title": "Kostnadsfria läkarundersökningar och medicinering tillhandahölls till över 300 invånare i gränskommunen Vinh Xuong. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFppVWQyUGF2WUdFV2N5RHBzNjZEQ05NQnUtSHFIY3FHbEFIMGVvZkd5UDZXX05oRERxQXowRUtaT2V5Z0Zka3NSZWtaTndfQTU4TVFnSkZBX0JSbWJZRUZ0amlOQm54MmlDT1J1cjJHTGYzbVVOdTNneWl2TjhpSVpMN2ltLVBBdFkyYm95UDBMZ2xCODZEd0owYzRRTmJpekE?oc=5",
+      "published": "2026-06-28T06:00:01+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -978,26 +998,6 @@
       "title": "Fetmaläkemedel kan minska risken för beroende och missbruk - News55",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR0c3NGI2OWluTXZwdmVMaUFLLWdVQzlOd2EyWVlMdHdPS1Q5Q05RYjZDMFZ3dnJJcVRJb3daakYzNVJ4UHNvOVMzQmRRc0kxRXlHREMzVWhlclZ6Q0V2eUd5bjRQTkZVNDZDaTRKLWN0dDFlUjNsWUFzcEE4RE16RU5FMHJXd2dtTXFjU0dBWF8?oc=5",
       "published": "2026-03-07T08:00:00+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
-      "id": "65c6c085d097",
-      "title": "Störning hos myndighet – går inte att hämta medicin - NT",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRUVNWEpOVENXSWU5MU9wZ3ZONG9fcl95YVM3Zld6WE5kWU5nZFJsSDhJWk9GWU5RcWJHY2xFZmlrUFloYkJ0RmZLb3ZHX0FxczFLUWtVMHZwcHF3LXhSYWJ3Y2tweGpzYklvWC1KVWlhTTJUT0RtNzhKZXFtUERMeWJUTy0wdDN3dTFGQXJGVlhpcTlVLXBNdVB2TjlEeW5zS0U1RHlVQkxzUQ?oc=5",
-      "published": "2026-02-10T08:00:00+00:00",
-      "source": {
-        "name": "NT",
-        "url": "https://www.nt.se"
-      }
-    },
-    {
-      "id": "6c3ae1fd39fb",
-      "title": "Träning mot depression och ångest – lika effektivt som medicin - News55",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlMtcTEzdmdCSVZEQnBCcHM5RzVsb3JBMkxxZ1lWS2FrU3o3Mkh0SVpnT1FtMXFJeFI5R2hnRnVvRktqUlVlNkQ5TmwtcU9ZM0VFdF91U3ZXcG9YQXN6OWYwVU9LVlRMVk5VMllVd1duVnBSTHp3VkVCRmduanNPY0dadFJ3b3RvckNWcS1Lem5md1E?oc=5",
-      "published": "2026-03-25T07:00:00+00:00",
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
