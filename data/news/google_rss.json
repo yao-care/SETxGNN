@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-06-29T14:44:16.217401+00:00",
+  "fetched_at": "2026-06-29T17:31:54.084457+00:00",
   "source": "Google News Health RSS",
-  "count": 45,
+  "count": 47,
   "articles": [
     {
       "id": "37ffb7085892",
@@ -11,16 +11,6 @@
       "source": {
         "name": "Region Stockholm",
         "url": "https://www.regionstockholm.se"
-      }
-    },
-    {
-      "id": "6dba28920c16",
-      "title": "Hälsa Hemma i konkurs – deadline i juli för anbud på tillgångar - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmE0dHZKdklMS2dDeE1QdVctYTkzZGZubHFmMWZMY09LeERGNEJ5Y2s3ZXFkcTJTVXZ3OHU2YlRnU3RrcFpPV2dlcGpsZmFIVFBjeFgwWGtiWHpmODZyVDJLQlU5Zm00TDdYc0h3dXhJYUZua3VPNERSWXg5VnRTX0NZcW5xbUFUMkhkb1FlS1dDelZEaTdpYXc3QzJtbnNXSDA5QVd1TlFaa1JzTjZjQjdPNkFrNVpGU1NaZE5DUVA?oc=5",
-      "published": "2026-06-29T00:44:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -51,6 +41,16 @@
       "source": {
         "name": "LäkemedelsVärlden",
         "url": "https://www.lakemedelsvarlden.se"
+      }
+    },
+    {
+      "id": "0a37e457c688",
+      "title": "Personalen talar ut – risk för barns hälsa: ”Ingen lyssnade” - Borås Tidning",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGpVeFVKT3dBTlFyRE5fSmhGUHpXM0ZJOUQyVzFFSnN4OXE1UzNuaE9neFVGTkNmYjJHYVhURkE1aFNMdFJ4c3lsS2VjbDNEU2k3X0VxeU1DdzM0NWhSRllsa2Fhak1uMHNhSEhYZVB5SkRxUm11aG5ZT2VwYUVYQXpfd1NTc3BwemYyVDZSaEdEVlVjQWpFR2p3?oc=5",
+      "published": "2026-06-24T18:26:29+00:00",
+      "source": {
+        "name": "Borås Tidning",
+        "url": "https://www.bt.se"
       }
     },
     {
@@ -94,13 +94,13 @@
       }
     },
     {
-      "id": "4efd733627e5",
-      "title": "Pappans mardröm: 9-årige sonen ville inte leva längre - Borås Tidning",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZV80RW8tbmFoVmZmWFczOHVLU24zNGJUMFdNTkt0eWhMdnlwNnIxVF9MNEk3M2pMWWotU0hFMEN2MUVhczMyaDNfbEN2Z3B2OENtbWxpdXcySkFtZ0ozTktEQ21ybXFZSGFER09Tc3Qtb05VUzk3ZFM2b2tnUkpDenZ1QUdzdXcybHRBeW5kSGlocTFYQ2dXNllkMElHWXA5VjJR?oc=5",
-      "published": "2026-06-28T03:00:00+00:00",
+      "id": "c6349d512deb",
+      "title": "Stora besparingar på gång för läkemedel mot myelom - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSEdCbHBHVGVaUVM1N2ZaSGYtam85eHVQZ2ZNeE8xcXp3NnhMMkRsWEhXMzJvNHlwTFdKaER2MzBmLW5rbXZZR3VaSjBqZ2V6X2ZETHViSXFpVldEQktsRk0yQU5tZHlmNW83aEJvQXRxT0RrWnNXeXpDWXljLUp1YThKdjdMOW13R0sxQ0JsaXF4Q2czLXA3Z3pkWkVYZERfXzV0aEp3?oc=5",
+      "published": "2026-06-25T19:00:00+00:00",
       "source": {
-        "name": "Borås Tidning",
-        "url": "https://www.bt.se"
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -124,33 +124,33 @@
       }
     },
     {
-      "id": "c6349d512deb",
-      "title": "Stora besparingar på gång för läkemedel mot myelom - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSEdCbHBHVGVaUVM1N2ZaSGYtam85eHVQZ2ZNeE8xcXp3NnhMMkRsWEhXMzJvNHlwTFdKaER2MzBmLW5rbXZZR3VaSjBqZ2V6X2ZETHViSXFpVldEQktsRk0yQU5tZHlmNW83aEJvQXRxT0RrWnNXeXpDWXljLUp1YThKdjdMOW13R0sxQ0JsaXF4Q2czLXA3Z3pkWkVYZERfXzV0aEp3?oc=5",
-      "published": "2026-06-25T19:00:00+00:00",
+      "id": "30d8b3667a44",
+      "title": "VERONICA PALM: Gel? Spray? Plåster? Har ni något? Vad som helst - PT.se",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNFVyRXVTN0c3UWxvRElPNTJFREwxbGVRWllueFdESlJjOFl2bGQ5M2hxYU5UNHBkRkdSTC1GSmVmY0twWWJuQkFnRUhvV0VmNjM0d05QVGhBTGJHdzlQbzhNM0pDaEZQN1ZNSF9OMFBwTjh5cHFRSEREYkZsUEM1RGFEdmE2eVNUc0FPNklpNGJqbGliWDZlNFJOWVNhNTlu?oc=5",
+      "published": "2026-06-25T03:00:00+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "PT.se",
+        "url": "https://www.pt.se"
       }
     },
     {
-      "id": "f1e4ba8c4b23",
-      "title": "Rätt läkemedel förbättrar hälsa och sänker kostnader - Svensk Farmaci",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTTduS3JKQmtCdk9Fa1hrbWx4V2xQRmdyZ01rRzZtZkc3cWt6Z3VBdlo1OUNpcXpOZERaMTctc1ctSzVPSldJQjB2QlhOT2MteFZTTS1uUE9MX3lfcDJ6bUtZYUpDUTFybHZnTE92c0E4eUo5YUQ3U2hsZktxSHJtNEM5QnJXX0VCRFBkMzNBRkFnd3Nnc1prdg?oc=5",
-      "published": "2026-01-05T08:00:00+00:00",
+      "id": "fa18ea263eea",
+      "title": "”Märkligt system där läkemedel finns men personal inte vet det” - Svensk Farmaci",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSnFIWDFfLW12YVZJMjhuQjItQmlwZ19jX1FlbzVXTUFlWWFVbXR2WlM0T1JiUDNpVWRiakV5TmVUT2N6RzFGQ3NCNHhOMTFCelhlbndFbjVxUDd4V05Pdm45aHYxTDV5LTlaQVJFcFcwdzQteUxkNkJ5bGRLWV9tOTk1Uzh3cE03XzFYRkI4RnF3LVU1QmJ5Z3EwTFlYNkhtUzI5eQ?oc=5",
+      "published": "2026-06-25T06:32:45+00:00",
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
       }
     },
     {
-      "id": "8db95874836c",
-      "title": "Vårdgivare kritiska till höjd gräns för obesitasbehandling - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRHZjWDM5QTMzMUMwUlRMS0JuTG53ZkV1U0Rnalk4bjRYRERIYS1NVVFSZHllVnEtNXFOVG96R183aG8xUUJMSDFhUDFtZHhkMmxyblkweEpJZEU0dGJtaWJTSW1FbWllWlVJcDZLOWVhd2xfS0ZuV3FwYVZEWUcxdE8tN1FiZnROZ1V0NWhjamVaR01jR1pUQmlKR1ROT05WUzBVbjd3d1BDeldqUWFXSGcxSUdnX1kxa3YwTg?oc=5",
-      "published": "2026-06-28T19:00:00+00:00",
+      "id": "4efd733627e5",
+      "title": "Pappans mardröm: 9-årige sonen ville inte leva längre - Borås Tidning",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZV80RW8tbmFoVmZmWFczOHVLU24zNGJUMFdNTkt0eWhMdnlwNnIxVF9MNEk3M2pMWWotU0hFMEN2MUVhczMyaDNfbEN2Z3B2OENtbWxpdXcySkFtZ0ozTktEQ21ybXFZSGFER09Tc3Qtb05VUzk3ZFM2b2tnUkpDenZ1QUdzdXcybHRBeW5kSGlocTFYQ2dXNllkMElHWXA5VjJR?oc=5",
+      "published": "2026-06-28T03:00:00+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "Borås Tidning",
+        "url": "https://www.bt.se"
       }
     },
     {
@@ -174,6 +174,16 @@
       }
     },
     {
+      "id": "f1e4ba8c4b23",
+      "title": "Rätt läkemedel förbättrar hälsa och sänker kostnader - Svensk Farmaci",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTTduS3JKQmtCdk9Fa1hrbWx4V2xQRmdyZ01rRzZtZkc3cWt6Z3VBdlo1OUNpcXpOZERaMTctc1ctSzVPSldJQjB2QlhOT2MteFZTTS1uUE9MX3lfcDJ6bUtZYUpDUTFybHZnTE92c0E4eUo5YUQ3U2hsZktxSHJtNEM5QnJXX0VCRFBkMzNBRkFnd3Nnc1prdg?oc=5",
+      "published": "2026-01-05T08:00:00+00:00",
+      "source": {
+        "name": "Svensk Farmaci",
+        "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
       "id": "b839bf00c97e",
       "title": "”När politiska budskap påverkar hälsa och tillgång till läkemedel” - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW9FaGZQZmRZbUp2WDFsX3dkRFQ1Q1R0UHlhTGlIREc4LUpDT05Od1h2SUhieFh3aWUxUnFjTXYwNGZBWFJkdENQTTVmbWZTR0tkSEZ4eUZZUlBaa24yVFdvd1dMS2dmZVJLMjlLOWNfUmprNGJvZDVTaGpYZEVETXFPcnhVR3A3LXNVWGlZeDE5dDFMTEdpWHliUHkwSUJuTzhxS1prN2I?oc=5",
@@ -181,6 +191,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "48d78dc13c7b",
+      "title": "Dyrare hormonplåster ska öka Sveriges konkurrenskraft - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdVJNTlZoc1gyTWxBUDJtaEMzWDZDVzRUMHZMVzIyRTByUEFuUjN6S2VhZjJOSXpudkJ6bjZ2MURyMERWcm1UZXJ1YXl4eGdqQkJoblROS1dRb2tHSk8wNkFqaHBLczBsdlpPWmNyVnhqQ2RMdWV5eVY0N0V3NXhmRjdEX1dhREM2UGpzSUtnSG1BRXAzRko4ek5YaWZYOS1NOUFiXzE5LUJ3dw?oc=5",
+      "published": "2026-06-23T00:23:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -354,16 +374,6 @@
       }
     },
     {
-      "id": "3236a525ce30",
-      "title": "”Läkemedel och hälsa berör oss alla på djupet” - LäkemedelsVärlden",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUGxGMXBtcVpDNGg1Y0gweE5PZkgzTFRUaFF4TkY2b1QyVkhkWFQ0dTV2aHM4Qnd1eFNxbDRmYVRsQ3NrY1phNzBFVXMzV3dUVmVYVDZyNG1RbWNmSnBSenVNV3BpQjhvTVlSSVd6Si1Ma2NNdEd2NjliS0gzTkRrYXlVUWZYQQ?oc=5",
-      "published": "2023-02-14T08:00:00+00:00",
-      "source": {
-        "name": "LäkemedelsVärlden",
-        "url": "https://www.lakemedelsvarlden.se"
-      }
-    },
-    {
       "id": "cc9c9ce1ecf6",
       "title": "Antidepressivt läkemedel utanför listan dyrast för regionen - Janusinfo.se",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZGZ5UnFxaUFhazBZVFprLVpLTGMwdnptRjBoWmNkbjhDRi0xNlBPSVk4TU9POHRsRWhuMG9IcWZtNDZrSVpCeENNZnB0OXFnZ0JjTHd0SS1kRDlzRXFMeHJWdjRKVW5jTG51T2pLRnFBSUJzUTMxQXoyRnh6NW1rbzU0enhtOTVEWDVWYVltbkp6emM5dXhnMUhPTUJqbUJOdmRSMUtjMUR5dVJOeFEtWTY4dHFwanhWT0VsSU90LWROWVJFem9CZG5hTl82NW0wRG9CYjBrM2I?oc=5",
@@ -371,6 +381,16 @@
       "source": {
         "name": "Janusinfo.se",
         "url": "https://janusinfo.se"
+      }
+    },
+    {
+      "id": "3236a525ce30",
+      "title": "”Läkemedel och hälsa berör oss alla på djupet” - LäkemedelsVärlden",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUGxGMXBtcVpDNGg1Y0gweE5PZkgzTFRUaFF4TkY2b1QyVkhkWFQ0dTV2aHM4Qnd1eFNxbDRmYVRsQ3NrY1phNzBFVXMzV3dUVmVYVDZyNG1RbWNmSnBSenVNV3BpQjhvTVlSSVd6Si1Ma2NNdEd2NjliS0gzTkRrYXlVUWZYQQ?oc=5",
+      "published": "2023-02-14T08:00:00+00:00",
+      "source": {
+        "name": "LäkemedelsVärlden",
+        "url": "https://www.lakemedelsvarlden.se"
       }
     },
     {
