@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-01T03:23:03.729347+00:00",
+  "fetched_at": "2026-07-01T08:06:46.932182+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -54,16 +54,6 @@
       }
     },
     {
-      "id": "0a37e457c688",
-      "title": "Personalen talar ut – risk för barns hälsa: ”Ingen lyssnade” - Borås Tidning",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGpVeFVKT3dBTlFyRE5fSmhGUHpXM0ZJOUQyVzFFSnN4OXE1UzNuaE9neFVGTkNmYjJHYVhURkE1aFNMdFJ4c3lsS2VjbDNEU2k3X0VxeU1DdzM0NWhSRllsa2Fhak1uMHNhSEhYZVB5SkRxUm11aG5ZT2VwYUVYQXpfd1NTc3BwemYyVDZSaEdEVlVjQWpFR2p3?oc=5",
-      "published": "2026-06-24T18:26:29+00:00",
-      "source": {
-        "name": "Borås Tidning",
-        "url": "https://www.bt.se"
-      }
-    },
-    {
       "id": "2baa011870e5",
       "title": "Nya förslag ska göra det lättare att dela läkemedel mellan civil och militär sjukvård - Via TT",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeW9XVEJPenJxdTgzMzVsZUxsOUhmbzNBbDZUa29hdi05UG9kcGM1VUJtRHM4X3NOMVpnZ2h1SUtiUlV5OS1XbXFBY3pHei1QdE5PcmlPM0RtYlQ1WkhkWmtFY2hSZjBUdFZxQXc3NTJVem9sY3AwcS1yOFR2OWplQ2tMdERTWUhIOW5aejE4Q0VHUzZVVUc5RFVMSTRISk40c2E2b1lqN0ZIa3gwSGlWaDA0SGRUZllibVZpcmw0MkZkQmhkVzU3a0p3NWliSlJ1MkJaVmFWYkFKeGlvN0JsU2N4bmt5a1dKMzQ4?oc=5",
@@ -71,6 +61,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "0a37e457c688",
+      "title": "Personalen talar ut – risk för barns hälsa: ”Ingen lyssnade” - Borås Tidning",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGpVeFVKT3dBTlFyRE5fSmhGUHpXM0ZJOUQyVzFFSnN4OXE1UzNuaE9neFVGTkNmYjJHYVhURkE1aFNMdFJ4c3lsS2VjbDNEU2k3X0VxeU1DdzM0NWhSRllsa2Fhak1uMHNhSEhYZVB5SkRxUm11aG5ZT2VwYUVYQXpfd1NTc3BwemYyVDZSaEdEVlVjQWpFR2p3?oc=5",
+      "published": "2026-06-24T18:26:29+00:00",
+      "source": {
+        "name": "Borås Tidning",
+        "url": "https://www.bt.se"
       }
     },
     {
@@ -84,6 +84,26 @@
       }
     },
     {
+      "id": "85dde29af538",
+      "title": "Varning: Medicinerna som kan ge allvarliga problem i solen - News55",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ1RGdjFCdHdmRndsMXNIM0trZW9jeUYxRUd0MkRWMjhKc0x4eFBMZUJWdTZVZ2diLWZPMXpLckFWWk8tbHktSVBtbnpUUXR0dk5XT1gtY2JTUVNadXRISm9obGx1RWlmQ19rUkxRN1B6MkExSjNiRDQyd3lidmJYTGlmTE4ySVkyZmNwTHFpWQ?oc=5",
+      "published": "2026-06-25T20:12:33+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "2962ea49218a",
+      "title": "Medicinerna du ska se upp med i värmen: ”Extra viktigt att vara uppmärksam” - Expressen",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2VVOEdhMVVUbm0wTDNLNTB3VUZYQjdrb2FScmU0amhWS1dLRm5POHRPeHVsZUJrTUNZWkNxaERrRWVMV1NhNVFKSDYxbXFjN1FDcDVKVkJLQjk3ck9icTFMNGpPYUtFVzdfQW9HRDB2cWFMcTh1VEpXMXNwdzdObkRvUFVQUHc?oc=5",
+      "published": "2026-06-25T11:10:34+00:00",
+      "source": {
+        "name": "Expressen",
+        "url": "https://www.expressen.se"
+      }
+    },
+    {
       "id": "a08245514b84",
       "title": "Östrogenmarschen - MittSkifte",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QNFFLTzRJQVJsN29HMG5TU0J2cF9BYnlpNWNDcTZpazRHdFR3Yl95MTN0OU9oczF6cGplek1aay1PckdxdkZTYzJPNWZJYmdRQTlsUng2SVZ6enJ6REZaOFo1cw?oc=5",
@@ -94,13 +114,13 @@
       }
     },
     {
-      "id": "85dde29af538",
-      "title": "Varning: Medicinerna som kan ge allvarliga problem i solen - News55",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ1RGdjFCdHdmRndsMXNIM0trZW9jeUYxRUd0MkRWMjhKc0x4eFBMZUJWdTZVZ2diLWZPMXpLckFWWk8tbHktSVBtbnpUUXR0dk5XT1gtY2JTUVNadXRISm9obGx1RWlmQ19rUkxRN1B6MkExSjNiRDQyd3lidmJYTGlmTE4ySVkyZmNwTHFpWQ?oc=5",
-      "published": "2026-06-25T20:12:33+00:00",
+      "id": "749f11e3f6b8",
+      "title": "Protest mot brist på östrogen: ”Kvinnor har rätt att må bra” - Helagotland",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1JKNUhiUVVOTFoxUDlnckxvZUFKWHo2NzJldVVfVGFLcFlnall1Yjl4X0U2OWhrODctNW05WWZWSDdLaVhWWFgzWDdDcF81SVFIUzB4WEMxRHhMTkJyLUdQM3BUZ0theFRCb1I1dEJlVEpHVVNaRXhDLURWX2RLek56UVRjMlRkZHY0cW9ON1lZVUV5NWhDT195RXlURHQxRkNZYjZn?oc=5",
+      "published": "2026-06-25T18:00:00+00:00",
       "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
+        "name": "Helagotland",
+        "url": "https://www.helagotland.se"
       }
     },
     {
@@ -144,16 +164,6 @@
       }
     },
     {
-      "id": "208746449603",
-      "title": "NEJM återkallar studie för läkemedel som EMA vill dra in - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU1N0TW45VU11M0FEOVpPTWhzYXhpaFZJenM4bGhabnhpblYwclZjNkExVm9qcklQNHltSGh0MkFjUldsQVprVTZBbDV5UGFiUUZqSDBoU2hQSlNkZENneVljNmxnNFhrYW1BS0hwb21rMENIUWN6bFZaQXI2S1lJS2dRaXhCakszQkFka19tZnk3STdyVzJTRDRVT0Vjb1BPa0RVbGhETXFEc3dHVGc?oc=5",
-      "published": "2026-06-30T00:55:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "99ffdca9a6c6",
       "title": "Östrogenmarsch i Almedalen kräver trygg tillgång till kvinnors ordinerade läkemedel | Alexandra - för Kvinnor & Hälsa - Via TT",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNa2NLblRIZUxnc201amdIdVJ1TzJUZ0NIUW4wLVdrYVlqc2xLWXl1eHBXMmhwVkJOaW5URm4yWXV2UmdXczZHM2p0bEstM0J3ckFnelJZMXk1Umg3Q3l2Y3hXRXptVXlwZzdoUDk0U3h6eVVhX1FnaUhSVmJuUEdyYmljYmcwVHJjSG9lV25UV19MY0tVVmJ4VW5SWEFHdXptMTdWaFBBZmhZYnNiZGFCU0VjLVh4dEtfOFhiOGoxRGRtbXQ2Z2hOTXNtNHlCOU9GWUY4cGh1YVo5cGVocVdDeURKNFA5X3My?oc=5",
@@ -174,20 +184,20 @@
       }
     },
     {
-      "id": "275e77dfbe10",
-      "title": "EMA nobbar ny indikation för Mounjaro vid typ 2-diabetes - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdk9HbWp1WkpZQkI0RlpOUERFVjdMbFNxUWFlTW1TQVFmSU9KMzB2TGNZaEsweFhhY2dmcjRwdDdDQ3dXVXBXZmF4SFpEYTRwdFFEbkpTVTVQZnRzNG5RdmhqWnJiTmw2dkFlVGxoRkFKMkVOSXhIVEJTV2pSSGQ3TVFocGhHelZlQjRhcWZVTjNPTTRsYVJpQ2xaZTVoeHNqd3NCdkdkRm04bnFsMEF1NEgyQQ?oc=5",
-      "published": "2026-06-29T02:45:00+00:00",
+      "id": "8db95874836c",
+      "title": "Vårdgivare kritiska till höjd gräns för obesitasbehandling - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRHZjWDM5QTMzMUMwUlRMS0JuTG53ZkV1U0Rnalk4bjRYRERIYS1NVVFSZHllVnEtNXFOVG96R183aG8xUUJMSDFhUDFtZHhkMmxyblkweEpJZEU0dGJtaWJTSW1FbWllWlVJcDZLOWVhd2xfS0ZuV3FwYVZEWUcxdE8tN1FiZnROZ1V0NWhjamVaR01jR1pUQmlKR1ROT05WUzBVbjd3d1BDeldqUWFXSGcxSUdnX1kxa3YwTg?oc=5",
+      "published": "2026-06-28T19:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
       }
     },
     {
-      "id": "8db95874836c",
-      "title": "Vårdgivare kritiska till höjd gräns för obesitasbehandling - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRHZjWDM5QTMzMUMwUlRMS0JuTG53ZkV1U0Rnalk4bjRYRERIYS1NVVFSZHllVnEtNXFOVG96R183aG8xUUJMSDFhUDFtZHhkMmxyblkweEpJZEU0dGJtaWJTSW1FbWllWlVJcDZLOWVhd2xfS0ZuV3FwYVZEWUcxdE8tN1FiZnROZ1V0NWhjamVaR01jR1pUQmlKR1ROT05WUzBVbjd3d1BDeldqUWFXSGcxSUdnX1kxa3YwTg?oc=5",
-      "published": "2026-06-28T19:00:00+00:00",
+      "id": "275e77dfbe10",
+      "title": "EMA nobbar ny indikation för Mounjaro vid typ 2-diabetes - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdk9HbWp1WkpZQkI0RlpOUERFVjdMbFNxUWFlTW1TQVFmSU9KMzB2TGNZaEsweFhhY2dmcjRwdDdDQ3dXVXBXZmF4SFpEYTRwdFFEbkpTVTVQZnRzNG5RdmhqWnJiTmw2dkFlVGxoRkFKMkVOSXhIVEJTV2pSSGQ3TVFocGhHelZlQjRhcWZVTjNPTTRsYVJpQ2xaZTVoeHNqd3NCdkdkRm04bnFsMEF1NEgyQQ?oc=5",
+      "published": "2026-06-29T02:45:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -244,16 +254,6 @@
       }
     },
     {
-      "id": "bf262c5c8f90",
-      "title": "Läkemedel vid håravfall ingår i förmånen - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNFJhVWlOUVVOdlR2NU43bjVaU053czR4RXdORVBMSTRwSkNPaFdQc2N5MURtX3pfdHM5UjlsMlg1STVFUW9VRXU4ZnQ3WEI1cXJjRDMzejJSVE1WVlVxWDdmbDVaYjFXbDJFczVId0dBLXJkSzFTb2V5WDdERmJwTjZTbHRoc2txTDZZblAwRll1Sk12NXpkXw?oc=5",
-      "published": "2026-06-18T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "46ea837f5393",
       "title": "Finlands nya FinTrials-modell försnabbar de kliniska prövningarna med läkemedel och medicintekniska produkter - Valtioneuvosto",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzcxS0ZmaFJXMXVBa1RRc3NTclZXZ1U0dEVIZGxON09Wb0hPcnJBeEZZYmZyT0x4eEJwaVQtTHJKdnZPVHczRkhKeElST18zalVpal9WNWlSRE90c3F1M2ZXd255RGxvcjRkaHNpOXJhT2RuVFZ6dGNZcVhaRGJoZ21ITVdIQTZmZzUtQzVBT244bVhGeGhWSkVDdlBRS1pmZjBEb3p1VVlTSURoRnFXVy1wTE1pZXpUeVJSRGZGM293UmNCaXpHcl9ITXc0eWFoYzRfQkNKa0JNV2ZNRjhyYm53?oc=5",
@@ -261,6 +261,16 @@
       "source": {
         "name": "Valtioneuvosto",
         "url": "https://valtioneuvosto.fi"
+      }
+    },
+    {
+      "id": "bf262c5c8f90",
+      "title": "Läkemedel vid håravfall ingår i förmånen - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNFJhVWlOUVVOdlR2NU43bjVaU053czR4RXdORVBMSTRwSkNPaFdQc2N5MURtX3pfdHM5UjlsMlg1STVFUW9VRXU4ZnQ3WEI1cXJjRDMzejJSVE1WVlVxWDdmbDVaYjFXbDJFczVId0dBLXJkSzFTb2V5WDdERmJwTjZTbHRoc2txTDZZblAwRll1Sk12NXpkXw?oc=5",
+      "published": "2026-06-18T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -494,16 +504,6 @@
       }
     },
     {
-      "id": "4c9153063fc6",
-      "title": "Nytt läkemedel ger dubbelt så lång överlevnad som cellgifter - e55.se",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTzhLRVotTUJhWGZkZVpUT1RoaGxYM29jajZ3U1RNYUQzTUowQWN2YjFvMmFOM3FGUl9MYlhDNkFqTzFpRldaNWdfWmh1TkR1TWpRSEFHdUFxTmhsZEptYVlXMGtwc3lacXg1OXJCZkYySF85dnNyVDB0SUdWM0ZneExLVW1pTWNlb1kzZHhqVQ?oc=5",
-      "published": "2026-06-03T07:00:00+00:00",
-      "source": {
-        "name": "e55.se",
-        "url": "https://www.e55.se"
-      }
-    },
-    {
       "id": "60a6be39bdd3",
       "title": "Tre av tio pratar inte om läkemedelsanvändning med sina barn – det vill Läkemedelsverket ändra på - Via TT",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQd19obFkwNjR3RnY2OXV5cUVhcThEdmctOVROZ01JaUZBZkdyNXVJb0lMWWlqSGlCZ0lPTk9PaS1QckRnMlZJQ25KVkZJVl9lTWtILVlGa2gtNWs0b3Z2UUhvMG5TNndJNTFnOVByRU0tRHVhQnF4c0FJVEpOdHg3NEZ3WHNZd1AtampIaE80Tm14RjZHVjVUaXUxbTNsWkJ5WGxnOVVUNzVaS0dRdUdwdFZtWktwNXpWNTFON0lZV1FYYUVLbW5DRk9iYzMtLVc1R3dkT2xkT21FTmxHcnBobnBmQU9vSnpveHNPTjlLR2dPR1FsZm5WNQ?oc=5",
@@ -531,6 +531,16 @@
       "source": {
         "name": "Dagens Arena",
         "url": "https://www.dagensarena.se"
+      }
+    },
+    {
+      "id": "4c9153063fc6",
+      "title": "Nytt läkemedel ger dubbelt så lång överlevnad som cellgifter - e55.se",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTzhLRVotTUJhWGZkZVpUT1RoaGxYM29jajZ3U1RNYUQzTUowQWN2YjFvMmFOM3FGUl9MYlhDNkFqTzFpRldaNWdfWmh1TkR1TWpRSEFHdUFxTmhsZEptYVlXMGtwc3lacXg1OXJCZkYySF85dnNyVDB0SUdWM0ZneExLVW1pTWNlb1kzZHhqVQ?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "source": {
+        "name": "e55.se",
+        "url": "https://www.e55.se"
       }
     },
     {
@@ -574,13 +584,23 @@
       }
     },
     {
-      "id": "112dced3c308",
-      "title": "Ngoc Ha-avdelningen: Tillhandahåller hälso- och sjukvård till över 500 personer med förtjänstfull service. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbTE2aWNzek9OUkhmSkI2ZUxvcE1rOWF3b1g2Znp2dmtEYUxZTkpWWEp4TW8tYlVmUmphU3R2Uy1OQWtDbjZmemxXODFxOXd3MmpSYTUyQjV4ZGp5YUFxbVNTZ2RPMXJsVUVtdFFaTjJMbjlXYklOWURKQ09SR2tSVkFXU1hyY0tTQTVn?oc=5",
-      "published": "2026-06-30T09:09:28+00:00",
+      "id": "f9b264b8105c",
+      "title": "Lista: De tävlar om posten som hälso- och sjukvårdsdirektör i Region Jönköping - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTC1sRWRXWHM2YWJ4QWlIRjNxVU41aTN1dXJJWUJFOTk3eVdMOWhVNGlQcHFGUmQ2WXE3NmVVNml5RXdDSzNuanBwSi1FSTJpZVUtSVZmN3lZUEFib0tkVU81ekoydnhEaGxnamhta2MwRDNQMGM4eDhQNXZEZ3JmcGxCVlJ2andMTDB6Ukw3VXJsV3AwNEJCN0psd0xqZHEzNGs1SzBGV0M3NTl0bmxXb0FQMXpsWHEzdjB1R3dkY2dfeFl2R0E?oc=5",
+      "published": "2026-05-24T07:00:00+00:00",
       "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "4b5ef6eba8b7",
+      "title": "\"Apotekens roll i framtidens nära vård är en strategisk möjlighet\" - Svensk Farmaci",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXprMGRaWFU4YXB0blNqbElYVVBVUnVRVEcxYTdWWXlqVm80c0d0NWczc0hld0R2Sk02OVN4Z0JsbE1rbm9od0g5dk92ano4dVBYMXpxbkJmalA4NHBpamRpWmJXYU9vWGV1cFVaek1yVjJkVU1TN2hZTERWcjN4UDl4UWNRczVBdVNLbVVVSW1VM3hKVVpIczlZYTdINlhwVndtd3BDQVVsVmxUcEZSU3J3V2M?oc=5",
+      "published": "2025-11-10T08:00:00+00:00",
+      "source": {
+        "name": "Svensk Farmaci",
+        "url": "https://www.svenskfarmaci.se"
       }
     },
     {
@@ -601,16 +621,6 @@
       "source": {
         "name": "NewsMachine AB",
         "url": "https://press.newsmachine.com"
-      }
-    },
-    {
-      "id": "4b5ef6eba8b7",
-      "title": "\"Apotekens roll i framtidens nära vård är en strategisk möjlighet\" - Svensk Farmaci",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXprMGRaWFU4YXB0blNqbElYVVBVUnVRVEcxYTdWWXlqVm80c0d0NWczc0hld0R2Sk02OVN4Z0JsbE1rbm9od0g5dk92ano4dVBYMXpxbkJmalA4NHBpamRpWmJXYU9vWGV1cFVaek1yVjJkVU1TN2hZTERWcjN4UDl4UWNRczVBdVNLbVVVSW1VM3hKVVpIczlZYTdINlhwVndtd3BDQVVsVmxUcEZSU3J3V2M?oc=5",
-      "published": "2025-11-10T08:00:00+00:00",
-      "source": {
-        "name": "Svensk Farmaci",
-        "url": "https://www.svenskfarmaci.se"
       }
     },
     {
@@ -674,13 +684,13 @@
       }
     },
     {
-      "id": "f9b264b8105c",
-      "title": "Lista: De tävlar om posten som hälso- och sjukvårdsdirektör i Region Jönköping - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTC1sRWRXWHM2YWJ4QWlIRjNxVU41aTN1dXJJWUJFOTk3eVdMOWhVNGlQcHFGUmQ2WXE3NmVVNml5RXdDSzNuanBwSi1FSTJpZVUtSVZmN3lZUEFib0tkVU81ekoydnhEaGxnamhta2MwRDNQMGM4eDhQNXZEZ3JmcGxCVlJ2andMTDB6Ukw3VXJsV3AwNEJCN0psd0xqZHEzNGs1SzBGV0M3NTl0bmxXb0FQMXpsWHEzdjB1R3dkY2dfeFl2R0E?oc=5",
-      "published": "2026-05-24T07:00:00+00:00",
+      "id": "06076ded6b98",
+      "title": "Nytt läkemedel fördubblar överlevnadschansen i bukspottkörtelcancer - Dagens PS",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWTZUOXY4VWdwUkxiay0yT0VVVzBzSmdNNEFUM0ozRGMxUHN5b2ZGRzllSFBVbWY2MWVUeUdNZFFDamkzZUloVlRtRVRfYVpUaFcxWEt6SVZURTRSS1JTYzR4Sm9RanJ3c3FTV3pfZHc0VlpVQlBZTWZwWnlKaTdVZjM5emttX0x6VWtDck9IcnRQWExoWTRNWDd2ZWVFWHc?oc=5",
+      "published": "2026-06-13T07:00:00+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "Dagens PS",
+        "url": "https://www.dagensps.se"
       }
     },
     {
@@ -691,16 +701,6 @@
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "06076ded6b98",
-      "title": "Nytt läkemedel fördubblar överlevnadschansen i bukspottkörtelcancer - Dagens PS",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWTZUOXY4VWdwUkxiay0yT0VVVzBzSmdNNEFUM0ozRGMxUHN5b2ZGRzllSFBVbWY2MWVUeUdNZFFDamkzZUloVlRtRVRfYVpUaFcxWEt6SVZURTRSS1JTYzR4Sm9RanJ3c3FTV3pfZHc0VlpVQlBZTWZwWnlKaTdVZjM5emttX0x6VWtDck9IcnRQWExoWTRNWDd2ZWVFWHc?oc=5",
-      "published": "2026-06-13T07:00:00+00:00",
-      "source": {
-        "name": "Dagens PS",
-        "url": "https://www.dagensps.se"
       }
     },
     {
@@ -811,6 +811,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "112dced3c308",
+      "title": "Ngoc Ha-avdelningen: Tillhandahåller hälso- och sjukvård till över 500 personer med förtjänstfull service. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbTE2aWNzek9OUkhmSkI2ZUxvcE1rOWF3b1g2Znp2dmtEYUxZTkpWWEp4TW8tYlVmUmphU3R2Uy1OQWtDbjZmemxXODFxOXd3MmpSYTUyQjV4ZGp5YUFxbVNTZ2RPMXJsVUVtdFFaTjJMbjlXYklOWURKQ09SR2tSVkFXU1hyY0tTQTVn?oc=5",
+      "published": "2026-06-30T09:09:28+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
-      }
-    },
-    {
-      "id": "1893d1cf2f10",
-      "title": "Allvarlig sjukdom ökar – kopplas till fetmamedel - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVYzb010T0xtd0liTWNsTThTSE9xSlhSdEExZjRucUJLMHUxeHE4LW5VbFhWcjNfZ2U1OU04YWJVN1NwU0tqTjQyaXVrNkVCNTRibmFRQjZ6XzFqeGllYUNGNVZFZTBoSzQ0ekd3SlRsX0hySm5KdV8zLUhfRUt5dW1JNENYRm5CYmFXeEE2WDF3dw?oc=5",
-      "published": "2026-02-06T08:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
       }
     }
   ]
