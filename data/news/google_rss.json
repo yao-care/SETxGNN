@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-02T21:00:22.899466+00:00",
+  "fetched_at": "2026-07-02T23:00:00.474360+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -54,16 +54,6 @@
       }
     },
     {
-      "id": "18c1c5ab5433",
-      "title": "Psykiska störningar blir allt vanligare, och behandlingen innebär medicinering och stöd. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMlNfc3FFTVlrbXV5QUJXX0Z6UlJOenBtUmpHT29WaFE5OGQ5LWwwRlhnc2lBWG9NMm1EeGR1RGItRUlleG4zdnFGU2F4SXNtWWRLMzRDQm8wdGJmQVA1SEdqVndLT2Z6V25ZYjhaQS0yZ0RMcjYzWTNxdi03SHJwSWoycUlTRFVpQXUybG5JbEVzN0hCQlJYTmFpRzBMb28?oc=5",
-      "published": "2026-07-02T16:29:28+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "74f6f2c1decb",
       "title": "Valproat – ingen fastställd länk mellan pappans medicinering och barnets hälsa - LäkemedelsVärlden",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnhVMEV4S3JTdHBvYnkzTjYzQVdBUlI3UFlBUEFlei1yV0tkSVFVQmRvVkF0WHNnczFZbkpEb1lleWxPOUYzWVprUTRTYmRucTh3UmxlREIwemw1TnRJaXFWN3lHS1EtOVNJbU5PQmdfUGN6WDJ6TEFRaERNOXltQzZfWDN3bmx2RjlXT2VibEU3UURwUzB1QmRReUtwY1drQnYw?oc=5",
@@ -114,6 +104,16 @@
       }
     },
     {
+      "id": "af0f2d39b273",
+      "title": "Om oegentlig förskrivning i årsberättelsen om läkemedel - Janusinfo.se",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWVlRaFM1RWVrejd0SkhPVmJBYVk0UmRDUWZpRTFkX3BWeEFKTjAyc3NUNURnd2MwNWM3Sm1QMGM4dUozVkU1NTVBb2ROYTBIcFZUOWt0ODgyNVkxWmNRVjZnZ0FmMi1hTks4TTRBZEJqZngwQldoRjFVemNScDRZOXBxZnZvTXJnRWhsSzlPaTcyWnN4MVBXNlBOakgzNGRRWjNDQ2dhQUp3c3Y3VW1iOEFDLTJObF9lZU5kaG53?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "source": {
+        "name": "Janusinfo.se",
+        "url": "https://janusinfo.se"
+      }
+    },
+    {
       "id": "63629e03f31d",
       "title": "Så enkelt rasade Fredrik 23 kilo i vikt - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2V2UycFdDOUxKd0NVdVJlcS1KbkoycF9ZQUxRN29qUlRkRXgxNUI5LW5mNV9Ua2dqWHVTbjd1ekI0NHNXX2xOeHAybG1sLWdxZmhfRk5nZEFQN0lKZ1ZTay1pUU9lUXFTdWVRakRBVWVoc3BpUlE2bw?oc=5",
@@ -141,16 +141,6 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
-      }
-    },
-    {
-      "id": "a8ab5889aa7c",
-      "title": "Läkare som gör goda gärningar - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nRWczNnk2QW5pTVJEWjJ1azVLY1ZYei1OWHlDTGVBWERNYjRjRUFoUXpjb1B4Q1F4Sm9qMl9ZTGQ3MElNWl9XdWx5VC1nUXZzWXVUcUxoX3Q2RnpaQ1JTMVREUzg?oc=5",
-      "published": "2026-07-02T03:19:11+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -184,6 +174,16 @@
       }
     },
     {
+      "id": "aa157442b8ca",
+      "title": "Nya läkemedel införs i Västra Götalandsregionen – satsning på cancerbehandling och sällsynta sjukdomar - Via TT",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSXZQbHI2U0hRVXJERkVMbEI3X2NlR0VOTWUtWkZoQk4wdDZHSjBOQndndEdOeXZpUU15UXNNWHU5QUJIeWE1OHphM2pnLW54aEtFaU1nMWJYVmVJTHN4bmRjQ2dGVVR5d3RwU2YtSDEzcmJrQll4Ym1leGRLUFJGeUJhdjJQUDE2WTY0U2J1ZHIxaDNSaWJQMXU2WjlMQjhuaW5YM0tTVEpERTh0SGxwd3hyZkVndzQzZ1o4d0NXYkdJeHFnbjByVTdadDY2U3F6Q0txVERBYTFyc2NsVTQ5dFd4cmtsR29sSnJTeGhQMlhqRDdWb2xseTNmVVpNMkU?oc=5",
+      "published": "2026-06-17T07:00:00+00:00",
+      "source": {
+        "name": "Via TT",
+        "url": "https://via.tt.se"
+      }
+    },
+    {
       "id": "208746449603",
       "title": "NEJM återkallar studie för läkemedel som EMA vill dra in - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU1N0TW45VU11M0FEOVpPTWhzYXhpaFZJenM4bGhabnhpblYwclZjNkExVm9qcklQNHltSGh0MkFjUldsQVprVTZBbDV5UGFiUUZqSDBoU2hQSlNkZENneVljNmxnNFhrYW1BS0hwb21rMENIUWN6bFZaQXI2S1lJS2dRaXhCakszQkFka19tZnk3STdyVzJTRDRVT0Vjb1BPa0RVbGhETXFEc3dHVGc?oc=5",
@@ -201,26 +201,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "aa157442b8ca",
-      "title": "Nya läkemedel införs i Västra Götalandsregionen – satsning på cancerbehandling och sällsynta sjukdomar - Via TT",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSXZQbHI2U0hRVXJERkVMbEI3X2NlR0VOTWUtWkZoQk4wdDZHSjBOQndndEdOeXZpUU15UXNNWHU5QUJIeWE1OHphM2pnLW54aEtFaU1nMWJYVmVJTHN4bmRjQ2dGVVR5d3RwU2YtSDEzcmJrQll4Ym1leGRLUFJGeUJhdjJQUDE2WTY0U2J1ZHIxaDNSaWJQMXU2WjlMQjhuaW5YM0tTVEpERTh0SGxwd3hyZkVndzQzZ1o4d0NXYkdJeHFnbjByVTdadDY2U3F6Q0txVERBYTFyc2NsVTQ5dFd4cmtsR29sSnJTeGhQMlhqRDdWb2xseTNmVVpNMkU?oc=5",
-      "published": "2026-06-17T07:00:00+00:00",
-      "source": {
-        "name": "Via TT",
-        "url": "https://via.tt.se"
-      }
-    },
-    {
-      "id": "af0f2d39b273",
-      "title": "Om oegentlig förskrivning i årsberättelsen om läkemedel - Janusinfo.se",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWVlRaFM1RWVrejd0SkhPVmJBYVk0UmRDUWZpRTFkX3BWeEFKTjAyc3NUNURnd2MwNWM3Sm1QMGM4dUozVkU1NTVBb2ROYTBIcFZUOWt0ODgyNVkxWmNRVjZnZ0FmMi1hTks4TTRBZEJqZngwQldoRjFVemNScDRZOXBxZnZvTXJnRWhsSzlPaTcyWnN4MVBXNlBOakgzNGRRWjNDQ2dhQUp3c3Y3VW1iOEFDLTJObF9lZU5kaG53?oc=5",
-      "published": "2026-04-28T07:00:00+00:00",
-      "source": {
-        "name": "Janusinfo.se",
-        "url": "https://janusinfo.se"
       }
     },
     {
@@ -314,16 +294,6 @@
       }
     },
     {
-      "id": "8db95874836c",
-      "title": "Vårdgivare kritiska till höjd gräns för obesitasbehandling - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRHZjWDM5QTMzMUMwUlRMS0JuTG53ZkV1U0Rnalk4bjRYRERIYS1NVVFSZHllVnEtNXFOVG96R183aG8xUUJMSDFhUDFtZHhkMmxyblkweEpJZEU0dGJtaWJTSW1FbWllWlVJcDZLOWVhd2xfS0ZuV3FwYVZEWUcxdE8tN1FiZnROZ1V0NWhjamVaR01jR1pUQmlKR1ROT05WUzBVbjd3d1BDeldqUWFXSGcxSUdnX1kxa3YwTg?oc=5",
-      "published": "2026-06-28T19:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "bf262c5c8f90",
       "title": "Läkemedel vid håravfall ingår i förmånen - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNFJhVWlOUVVOdlR2NU43bjVaU053czR4RXdORVBMSTRwSkNPaFdQc2N5MURtX3pfdHM5UjlsMlg1STVFUW9VRXU4ZnQ3WEI1cXJjRDMzejJSVE1WVlVxWDdmbDVaYjFXbDJFczVId0dBLXJkSzFTb2V5WDdERmJwTjZTbHRoc2txTDZZblAwRll1Sk12NXpkXw?oc=5",
@@ -341,6 +311,16 @@
       "source": {
         "name": "Valtioneuvosto",
         "url": "https://valtioneuvosto.fi"
+      }
+    },
+    {
+      "id": "8db95874836c",
+      "title": "Vårdgivare kritiska till höjd gräns för obesitasbehandling - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRHZjWDM5QTMzMUMwUlRMS0JuTG53ZkV1U0Rnalk4bjRYRERIYS1NVVFSZHllVnEtNXFOVG96R183aG8xUUJMSDFhUDFtZHhkMmxyblkweEpJZEU0dGJtaWJTSW1FbWllWlVJcDZLOWVhd2xfS0ZuV3FwYVZEWUcxdE8tN1FiZnROZ1V0NWhjamVaR01jR1pUQmlKR1ROT05WUzBVbjd3d1BDeldqUWFXSGcxSUdnX1kxa3YwTg?oc=5",
+      "published": "2026-06-28T19:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -524,16 +504,6 @@
       }
     },
     {
-      "id": "040e73ad2125",
-      "title": "Svensk AI-modell kan snabba upp utvecklingen av läkemedel - e55.se",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOHh6ZGpkUGhvbldabzFfV0RobllHMDlheW50djB6U1VmM2JTZDBfRFVyZVgyNUVOS3hKM1J5S0IxWWI0LTA1YkVWRFFBRmxnam1XemFNOWNVWjFGSWl6Q3N4TGIzSmVrV2VQdjZjVWp6bEFTMk5TMkVrY29kOXU4R05ZcFZSX3RIQUp3?oc=5",
-      "published": "2026-06-11T08:59:45+00:00",
-      "source": {
-        "name": "e55.se",
-        "url": "https://www.e55.se"
-      }
-    },
-    {
       "id": "b7f2f72b7be0",
       "title": "”Att förbättra hälsa kräver mer än att utesluta sjukdom” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0pGQ3VOUlV2QUprNGNWZlpxSncwdUF1c2VlRzdRaGRqZkEwWXlLdHFrMkRaNGpzVXZoc1lpREVsR2gwa2RQNGNWUUNBenBzVC1henBYUlpaTjFhanFjNVJIaTlVV29CUnBORnIyeWd0cmd6VnJNZnBMaGtJbjBUd1VHeG13WHJzTGRHcHFiT3JrXzlTMEtvcXBGV3dGZEsx?oc=5",
@@ -541,6 +511,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "040e73ad2125",
+      "title": "Svensk AI-modell kan snabba upp utvecklingen av läkemedel - e55.se",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOHh6ZGpkUGhvbldabzFfV0RobllHMDlheW50djB6U1VmM2JTZDBfRFVyZVgyNUVOS3hKM1J5S0IxWWI0LTA1YkVWRFFBRmxnam1XemFNOWNVWjFGSWl6Q3N4TGIzSmVrV2VQdjZjVWp6bEFTMk5TMkVrY29kOXU4R05ZcFZSX3RIQUp3?oc=5",
+      "published": "2026-06-11T08:59:45+00:00",
+      "source": {
+        "name": "e55.se",
+        "url": "https://www.e55.se"
       }
     },
     {
@@ -674,16 +654,6 @@
       }
     },
     {
-      "id": "4c9153063fc6",
-      "title": "Nytt läkemedel ger dubbelt så lång överlevnad som cellgifter - e55.se",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTzhLRVotTUJhWGZkZVpUT1RoaGxYM29jajZ3U1RNYUQzTUowQWN2YjFvMmFOM3FGUl9MYlhDNkFqTzFpRldaNWdfWmh1TkR1TWpRSEFHdUFxTmhsZEptYVlXMGtwc3lacXg1OXJCZkYySF85dnNyVDB0SUdWM0ZneExLVW1pTWNlb1kzZHhqVQ?oc=5",
-      "published": "2026-06-03T07:00:00+00:00",
-      "source": {
-        "name": "e55.se",
-        "url": "https://www.e55.se"
-      }
-    },
-    {
       "id": "5926b31e1427",
       "title": "Så fungerar olika mediciner vid adhd - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMklJY0tISERQTEFQR2JRQkMyN2QwZC10ZmN4TWtTcXVoSmNjNlhoS2pfcWFPYWxKLTBYRGVGTVFnRlEyZXJ0bFdHbzJyUHlkOXp3VkdSbTBqbHFmOVNOX3NiWGszUjFiYzFZSDVObGJ1NHc5SUNOZ1lUblY0YjY2OU96by0?oc=5",
@@ -701,6 +671,16 @@
       "source": {
         "name": "Världen idag",
         "url": "https://www.varldenidag.se"
+      }
+    },
+    {
+      "id": "4c9153063fc6",
+      "title": "Nytt läkemedel ger dubbelt så lång överlevnad som cellgifter - e55.se",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTzhLRVotTUJhWGZkZVpUT1RoaGxYM29jajZ3U1RNYUQzTUowQWN2YjFvMmFOM3FGUl9MYlhDNkFqTzFpRldaNWdfWmh1TkR1TWpRSEFHdUFxTmhsZEptYVlXMGtwc3lacXg1OXJCZkYySF85dnNyVDB0SUdWM0ZneExLVW1pTWNlb1kzZHhqVQ?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "source": {
+        "name": "e55.se",
+        "url": "https://www.e55.se"
       }
     },
     {
@@ -834,16 +814,6 @@
       }
     },
     {
-      "id": "6d77f4301ad4",
-      "title": "Kostnadsfria läkarundersökningar och medicinering tillhandahölls till över 300 invånare i gränskommunen Vinh Xuong. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFppVWQyUGF2WUdFV2N5RHBzNjZEQ05NQnUtSHFIY3FHbEFIMGVvZkd5UDZXX05oRERxQXowRUtaT2V5Z0Zka3NSZWtaTndfQTU4TVFnSkZBX0JSbWJZRUZ0amlOQm54MmlDT1J1cjJHTGYzbVVOdTNneWl2TjhpSVpMN2ltLVBBdFkyYm95UDBMZ2xCODZEd0owYzRRTmJpekE?oc=5",
-      "published": "2026-06-28T06:00:01+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "6a5e799f4eaa",
       "title": "Lars Almroth om bytet från Västmanland till toppjobb på Socialstyrelsen - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS3BCR1lUWjRhaDFaVmx3ZWV1NmJBcEliQTltUkNzNEEzX1FReVFETzMzSkU5U1UwWENsckJlY19OYjU5WXFiaXc5SFZadHFxZDlCYmdxaDJ6WHBwZko4cTUxbjYzTGxnczZpY3JmclIxZldDTEVUVHdmTHBVaTVuZllCd1JtMzB4QTE0UEwwbXFka3UyQWtFUGQ5RUpNSFZIRG5vU21hUVN4aXVycGRTakdLcndST0JrMTUtQXF1aw?oc=5",
@@ -851,6 +821,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "6d77f4301ad4",
+      "title": "Kostnadsfria läkarundersökningar och medicinering tillhandahölls till över 300 invånare i gränskommunen Vinh Xuong. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFppVWQyUGF2WUdFV2N5RHBzNjZEQ05NQnUtSHFIY3FHbEFIMGVvZkd5UDZXX05oRERxQXowRUtaT2V5Z0Zka3NSZWtaTndfQTU4TVFnSkZBX0JSbWJZRUZ0amlOQm54MmlDT1J1cjJHTGYzbVVOdTNneWl2TjhpSVpMN2ltLVBBdFkyYm95UDBMZ2xCODZEd0owYzRRTmJpekE?oc=5",
+      "published": "2026-06-28T06:00:01+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -1001,6 +981,26 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "84a3d5df966d",
+      "title": "Rapport: 122 sajter säljer läkemedel olagligt – kräver höjda straff - News55",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS1FQTjN6bHdHdVQ4WjdlWnlrWXNEUVVYSjJVYkJkSVRuZTRJUUx0VUNRY0RpUEpKakhIalRjZC13VmlCM3RZVDNrcWt4X2J2emd3d2hJVUlCMnI1Z3hEbW03c0o3SGtOZ2RxRzVMT1Y5em9PWVVGdlJ5SEFySWZHbVdCVWpSdS1GMU1iMkVqamlsWVJiLVRoRw?oc=5",
+      "published": "2026-02-04T08:00:00+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "9874cb0089b6",
+      "title": "Så kan kvantteknik hjälpa till att förbättra hälsan - e55.se",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVZHYjdGS2NLUVpwLWM3b0hCLUowaFQta1BuUkxBUi1wWWxkcWgwOU9FV2IxWlRsaGZ0YTBNQWY0bUxodTlvNUVMRGMtdGxCcFl0ajJETndpWHVDUDFrX3hUbEx1N0RKU2xZUU04Um1aLXYtSk9lVDBPOG9US3EtakQwRQ?oc=5",
+      "published": "2026-02-03T08:00:00+00:00",
+      "source": {
+        "name": "e55.se",
+        "url": "https://www.e55.se"
       }
     }
   ]
