@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-06T20:49:28.778468+00:00",
+  "fetched_at": "2026-07-06T22:09:56.134732+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -74,16 +74,6 @@
       }
     },
     {
-      "id": "a3bff713452a",
-      "title": "Efter en ihållande hosta gick flickan till läkaren och upptäckte att hon av misstag hade tagit diabetesmedicin. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWtHSC1TMVZjakgwb3V6d19TR1MtYnA0VTJkal9zajlKZUVMeXg1dkJwMjFBeUJsMm5nNUpPV0ZjakoxaF8tTnR3Y0VuWmlBcmJua1ktdWpqcmNsMC1wRTgwTVczd1U4VXdYRmtKQldBRWRnMzBiU2VEbzBTb3A5dlE4LVc0WVdwX0tTUXhWcXNxejVWb0h1bmpBZ2VpMVBDZ1E?oc=5",
-      "published": "2026-07-06T11:19:36+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "0a37e457c688",
       "title": "Personalen talar ut – risk för barns hälsa: ”Ingen lyssnade” - Borås Tidning",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGpVeFVKT3dBTlFyRE5fSmhGUHpXM0ZJOUQyVzFFSnN4OXE1UzNuaE9neFVGTkNmYjJHYVhURkE1aFNMdFJ4c3lsS2VjbDNEU2k3X0VxeU1DdzM0NWhSRllsa2Fhak1uMHNhSEhYZVB5SkRxUm11aG5ZT2VwYUVYQXpfd1NTc3BwemYyVDZSaEdEVlVjQWpFR2p3?oc=5",
@@ -91,6 +81,16 @@
       "source": {
         "name": "Borås Tidning",
         "url": "https://www.bt.se"
+      }
+    },
+    {
+      "id": "a3bff713452a",
+      "title": "Efter en ihållande hosta gick flickan till läkaren och upptäckte att hon av misstag hade tagit diabetesmedicin. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWtHSC1TMVZjakgwb3V6d19TR1MtYnA0VTJkal9zajlKZUVMeXg1dkJwMjFBeUJsMm5nNUpPV0ZjakoxaF8tTnR3Y0VuWmlBcmJua1ktdWpqcmNsMC1wRTgwTVczd1U4VXdYRmtKQldBRWRnMzBiU2VEbzBTb3A5dlE4LVc0WVdwX0tTUXhWcXNxejVWb0h1bmpBZ2VpMVBDZ1E?oc=5",
+      "published": "2026-07-06T11:19:36+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -144,16 +144,6 @@
       }
     },
     {
-      "id": "4ac2381f88ca",
-      "title": "Receptbelagda läkemedel: Strängare regler, slappare tillämpning. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IVzEyN0pTMEhnaTZoVlJmZHd5TFRnRzdvNzJNdXpiTlZoQlplM1A3eFA0TXRBMV9TOWVtNXhVZFVQcXplNkpReWxjU05RZjNQbzB3MjFQcmp6Qk1yU1dmOHEyQXhiZFVSa1JUdFpsNA?oc=5",
-      "published": "2026-07-05T09:25:22+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "11ea3ca29363",
       "title": "Stora prisskillnader på apotek – äldre riskerar att betala mest - News55",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDR2aGJ2UVlpdGIwTFd1QjZkUlFkX0dsYVJRTFNXSERCUWNxX2IzcGpwbGZhaTdvMlF6NWJNSTZrb0NodTR6elNiWnlGa1RMMmZvQ2xBTXltaVBGTGsyZEczNFRldERlMjdZRDBxMkd3bDlwdzVtZDJXbkZJanBnRGVPQ2RxOWhaUmhZYVpFTHJxSll3?oc=5",
@@ -161,6 +151,16 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "4ac2381f88ca",
+      "title": "Receptbelagda läkemedel: Strängare regler, slappare tillämpning. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IVzEyN0pTMEhnaTZoVlJmZHd5TFRnRzdvNzJNdXpiTlZoQlplM1A3eFA0TXRBMV9TOWVtNXhVZFVQcXplNkpReWxjU05RZjNQbzB3MjFQcmp6Qk1yU1dmOHEyQXhiZFVSa1JUdFpsNA?oc=5",
+      "published": "2026-07-05T09:25:22+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
