@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-08T17:25:05.802608+00:00",
+  "fetched_at": "2026-07-08T19:17:51.562082+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "49efe32e3d3c",
-      "title": "INSÄNDARE: Allvarlig brist på livsviktig östrogen i Sverige - NT",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFNJY2hTdjcyNGFnS2NNNlJITTNtNFVTRlB0XzhFUzVmSENpRzJjR0p3NnVEZzF6X0pIZ3dIWXN4dGV4RnhIdjVuN1dIVG5fWVJRcWdLZHRhQm0tQTNjemVrMmU5WjJzVzM3QXlNcDY0bHBLclpVdjBlVlE1Z3J4aFc4dWVGNnd3ZXplU3FkOEZKRUtTMzRTUA?oc=5",
-      "published": "2026-07-07T01:00:00+00:00",
-      "source": {
-        "name": "NT",
-        "url": "https://www.nt.se"
-      }
-    },
-    {
       "id": "86790ccc7766",
       "title": "Wegovy-pillret finns nu på apotek i Storbritannien - e55.se",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZXlhYVVzcDZDdklRRE5SZDVVdVZXWlNxdGFLbkRvVmhValRkTDlZRk9OSUVxTm40M01UdjZnWXhCNXhoc29RRkxyXzVBU1AwVldsbkFkZ2JIQUVQNWRSWXcwdzhHNjN0MEpVWV93WWl6czRCYWdMSjdYN3RoRmEwbnp3?oc=5",
@@ -91,6 +81,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "587ec89661f7",
+      "title": "INSÄNDARE: Sökte hjälp för svår allergi – fick receptfri medicin - NT",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdENFUENLWHA1M1FHWDJpSlR3WVJ1cDhzcDBWMEhUTWJYN0JNbU94X3J6NWpZSWQzb1dtVWhXeUE2TUhVLWxuRTZYRXF5YkhUN2Fld2JYVzV0dmthZlNva1NTaEl2VXRyYU11RFRtSEw5WXVFbGdOU0JienZhZW5zVm92SS05Q192V05HeThwT1lXNFJmYUVKUVJ1Nnk?oc=5",
+      "published": "2026-07-07T13:00:00+00:00",
+      "source": {
+        "name": "NT",
+        "url": "https://www.nt.se"
       }
     },
     {
@@ -124,6 +124,16 @@
       }
     },
     {
+      "id": "c18b0ee2da8d",
+      "title": "Medicintipsen som kan göra dig sjuk - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNmRfNHNJVUVJcEsySG1LRmpsNWZpb3NOVUVMZUNXbGh3N1dyQkVPNGRnS2toUWxteWJXRDh2XzZXV3NabGVsUTNVNVNxd2YyWFVpeVZFejFPenMzMlZRY1Q4dXUtZnZDaFhwd3dUNjdfY18zNm16eVRmTHlsQ21jd2M4Z0tSUXd2RVBURA?oc=5",
+      "published": "2026-06-06T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
       "id": "87ca0c624148",
       "title": "Läkemedel: Oro för biverkningar – expertens råd - News55",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtTXVudmFfaFJld0YtMFRQbTNjSFljeU5GdGlQdTlIYk9iS3RjY1RnVHI1R0xldG9fTjRHa05qbFdxc0xlX3o5U21TRkdCenhiYjl5S09wdUFpVk1Kcm83MnFzb0U0eTZxX0xzSEY4cGs1bFpqMHVzdTVyM1pHdw?oc=5",
@@ -141,16 +151,6 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "587ec89661f7",
-      "title": "INSÄNDARE: Sökte hjälp för svår allergi – fick receptfri medicin - NT",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdENFUENLWHA1M1FHWDJpSlR3WVJ1cDhzcDBWMEhUTWJYN0JNbU94X3J6NWpZSWQzb1dtVWhXeUE2TUhVLWxuRTZYRXF5YkhUN2Fld2JYVzV0dmthZlNva1NTaEl2VXRyYU11RFRtSEw5WXVFbGdOU0JienZhZW5zVm92SS05Q192V05HeThwT1lXNFJmYUVKUVJ1Nnk?oc=5",
-      "published": "2026-07-07T13:00:00+00:00",
-      "source": {
-        "name": "NT",
-        "url": "https://www.nt.se"
       }
     },
     {
@@ -174,16 +174,6 @@
       }
     },
     {
-      "id": "36e9b0bada6c",
-      "title": "Forskningsgenombrott – kan bromsa aggressiv prostatacancer - News55",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb1g0b2JXUmdZeVRRUXBKaFhnQVVEdTN6V0FwaUU5My0xMzMtekJSRDJqakUtQkZCSjBJak81UUFFMnpER2tybzVjVG9ZSDNaSWxEMkJGTWNSR2U3aVp2MEhWVGtFVTNJMWxzM3JZR2FhUzZWWDRvNGFDOE5RSzZXRmI2VmdQLVh1N0pnMVJR?oc=5",
-      "published": "2026-07-07T18:21:15+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "6dba28920c16",
       "title": "Hälsa Hemma i konkurs – deadline i juli för anbud på tillgångar - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmE0dHZKdklMS2dDeE1QdVctYTkzZGZubHFmMWZMY09LeERGNEJ5Y2s3ZXFkcTJTVXZ3OHU2YlRnU3RrcFpPV2dlcGpsZmFIVFBjeFgwWGtiWHpmODZyVDJLQlU5Zm00TDdYc0h3dXhJYUZua3VPNERSWXg5VnRTX0NZcW5xbUFUMkhkb1FlS1dDelZEaTdpYXc3QzJtbnNXSDA5QVd1TlFaa1JzTjZjQjdPNkFrNVpGU1NaZE5DUVA?oc=5",
@@ -194,23 +184,13 @@
       }
     },
     {
-      "id": "c18b0ee2da8d",
-      "title": "Medicintipsen som kan göra dig sjuk - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNmRfNHNJVUVJcEsySG1LRmpsNWZpb3NOVUVMZUNXbGh3N1dyQkVPNGRnS2toUWxteWJXRDh2XzZXV3NabGVsUTNVNVNxd2YyWFVpeVZFejFPenMzMlZRY1Q4dXUtZnZDaFhwd3dUNjdfY18zNm16eVRmTHlsQ21jd2M4Z0tSUXd2RVBURA?oc=5",
-      "published": "2026-06-06T07:00:00+00:00",
+      "id": "36e9b0bada6c",
+      "title": "Forskningsgenombrott – kan bromsa aggressiv prostatacancer - News55",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb1g0b2JXUmdZeVRRUXBKaFhnQVVEdTN6V0FwaUU5My0xMzMtekJSRDJqakUtQkZCSjBJak81UUFFMnpER2tybzVjVG9ZSDNaSWxEMkJGTWNSR2U3aVp2MEhWVGtFVTNJMWxzM3JZR2FhUzZWWDRvNGFDOE5RSzZXRmI2VmdQLVh1N0pnMVJR?oc=5",
+      "published": "2026-07-07T18:21:15+00:00",
       "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "b1bccfdb7822",
-      "title": "Glesbygder överens om att samverka om hälsa - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUp3eW1ReVMyMmx1VmtoVy01Q0VEcHRpc0tUb0otMzY3VVVHSk9GVUMwVDlWeHAyQ2JqRDBnMkxCdzRTVE5RTnpVTEswZUtqT2c2Zk9ENktISTlINWFvaGV2MlVKV1ZzOXAzNFo2N0FGTTVQdkpWc0E4MzVQVWNIS2JqbFBsY2EyblloN0JYd09ZV2tyUGwxZG1aZzM?oc=5",
-      "published": "2026-06-23T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -464,16 +444,6 @@
       }
     },
     {
-      "id": "11ea3ca29363",
-      "title": "Stora prisskillnader på apotek – äldre riskerar att betala mest - News55",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDR2aGJ2UVlpdGIwTFd1QjZkUlFkX0dsYVJRTFNXSERCUWNxX2IzcGpwbGZhaTdvMlF6NWJNSTZrb0NodTR6elNiWnlGa1RMMmZvQ2xBTXltaVBGTGsyZEczNFRldERlMjdZRDBxMkd3bDlwdzVtZDJXbkZJanBnRGVPQ2RxOWhaUmhZYVpFTHJxSll3?oc=5",
-      "published": "2026-07-01T23:01:18+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "6e594930ef8a",
       "title": "Läkemedelsverket: Så försöker vi minska risken för suicid - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWjE0aGUwWTZUSmpKOEthZmNJaE1mZ3N3QWFRallfemluTzFxRWxwd1ZNZWtNdXhDRWFkaG5ZcTBaQXB3V3NkeGdXTXR6aTBaMG1EUUVabzBpMTNEcl82TVlqM01pNHEzbTU4eGxENC11MTlpVTBXTFpMNFhIdGdrYllsTEE3aXVBZzIybDBaTHJqaE5oc015VzJTTjQ4UQ?oc=5",
@@ -491,6 +461,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "11ea3ca29363",
+      "title": "Stora prisskillnader på apotek – äldre riskerar att betala mest - News55",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDR2aGJ2UVlpdGIwTFd1QjZkUlFkX0dsYVJRTFNXSERCUWNxX2IzcGpwbGZhaTdvMlF6NWJNSTZrb0NodTR6elNiWnlGa1RMMmZvQ2xBTXltaVBGTGsyZEczNFRldERlMjdZRDBxMkd3bDlwdzVtZDJXbkZJanBnRGVPQ2RxOWhaUmhZYVpFTHJxSll3?oc=5",
+      "published": "2026-07-01T23:01:18+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -581,6 +561,16 @@
       "source": {
         "name": "Forskning.se",
         "url": "https://forskning.se"
+      }
+    },
+    {
+      "id": "ef18f79fe0a4",
+      "title": "Regeringen tillsätter haveriutredning om journalsystem - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSlBlTDE1N1JVNmZKQ0JJbjk3U1hmSkFWcjJDN25ocVpyWGNFWmR0eEMwSGFJMDVRSjFaR2oxU1JuX1VoUG5Cb1FIRmVLTWR1VGVvcHo4QmYtZHV4Vm11RlAxTmRaaTBXVkRrQjR1NXlWM0M3T2toQkhNN1hZbFBmc2xDcnhZTmhLeDBCMGIzOXhFYUlzNFM2Z1pVVW9xQllaU1pFRnhHS1M5QkRCdUE?oc=5",
+      "published": "2026-05-04T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -734,6 +724,16 @@
       }
     },
     {
+      "id": "9e8cf29cedd2",
+      "title": "Jakob Forssmed: Psykisk hälsa ska in på skolschemat - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM09wMkZUQUJBWXNBVkI1MHJ0NHZKakJUNlpMQkFUVjJKQUc3SW9URWlUdzUzZl9zd1pWbzFpRkhVRl93aktUVGVHelJUS2dTVXJpVXN3RDhhNE11Zkg1MDZ5ZnRUQnFPWVpHYnlITFhlalhHTVNnamxyRW9TTUdaVWNKckxqR2dzNDRVUm9hdWFZZkN2Z19CWHVrbmlhWlMxYTduWjduNUhnLXZ6?oc=5",
+      "published": "2026-01-02T08:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "1beb550a6b48",
       "title": "Sol och läkemedel en underskattad riskkombination - Corren",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX2tfZl8tQzhwV0pOVUIxWTFWYXdrMmVIdUZXcmtXRy1UNnU0M2htX3BTNnVwUGNWS18xSXB2ZkxYTW9ndFpPTUl2VHl6ejdrUjYzRDRURGRxU0pfdWk3RzJaWmg0V0pSN3p0NDhKQlZXRGtuZ1ZhdmloZkJNWnZieHI5M1VjOGZYa2x1ZS1DdFgwM3NIY051elFQdGlweFZSWWlXaEhsdHo4ZmdQLWM4?oc=5",
@@ -814,16 +814,6 @@
       }
     },
     {
-      "id": "ae41c923c727",
-      "title": "Antidepressiva läkemedel ökar kraftigt på hösten – 1,2 miljoner svenskar behandlas - Mynewsdesk",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV3h2MDdDV1dyQ283M2xrYWVIZXJOOUpVdFhIMkRVZmRIZ0YyWFZqa2V3U28xU1I1OTZlZnYtTlFLN2xJc0JMZlI0cmw3bVpTU0xvODIzNVFnc1RUby1VSE5ZSVdjd0REOHNkd1VhUklzallwTWFVbW45c2xpZlF5cjhRRTJtQkQ1RTc4WHBpWEcwWlFLakNscEFOLWFuR0FVV18zT3pJM0U5cjdFMm5mS2hXLXBFeVhRdWdfYzlLRnlaTGtxN2phUHJobUNxTmdQakRrRjFlWWNZdlJPY2lEZ0RwOVlFSmZ5dnc?oc=5",
-      "published": "2025-10-20T07:00:00+00:00",
-      "source": {
-        "name": "Mynewsdesk",
-        "url": "https://www.mynewsdesk.com"
-      }
-    },
-    {
       "id": "21b986e8c63c",
       "title": "LISTA: Läkemedel du inte ska sluta tvärt med - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUE5VOWhCdm80VDJhWGo3bnd3RldDUnFzMjRINzN4bmN5V1c5QkVtc21zTzlNYWxHOGhuSzZEcGNwRVhjR1VuczRRMW1LNzJUbDdVUk9JLUlpVXpjTVhXbnVNTnhSSVgwVnA1T0NKV2JkS0ZsM3RPRDJXZ2tWaWJ6V1dBS2I2RjJUZVlIcQ?oc=5",
@@ -834,13 +824,13 @@
       }
     },
     {
-      "id": "8b3c33c7be9b",
-      "title": "Därför får inte alla med migrän tillgång till ny medicin - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeFFjOVBPQURFRDRhMWpZTDVubTV3UWdNOGotWl9ZNURCRUNvazhsMDdJSE9HbmlLeEJYMzhoSV9QTFBvSXVqTzNrU2ZKVVl0cVN6TFpuNWMzbFRVdFlUNUpSUEJpM2lrV3E1enp1MjNKanZLR2tPMzRlMDdFajU4MmJZaHAzUl81clJ4N1hhMkJ1eS02SUNaSXVESEM0YUE?oc=5",
-      "published": "2026-04-20T07:00:00+00:00",
+      "id": "ae41c923c727",
+      "title": "Antidepressiva läkemedel ökar kraftigt på hösten – 1,2 miljoner svenskar behandlas - Mynewsdesk",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV3h2MDdDV1dyQ283M2xrYWVIZXJOOUpVdFhIMkRVZmRIZ0YyWFZqa2V3U28xU1I1OTZlZnYtTlFLN2xJc0JMZlI0cmw3bVpTU0xvODIzNVFnc1RUby1VSE5ZSVdjd0REOHNkd1VhUklzallwTWFVbW45c2xpZlF5cjhRRTJtQkQ1RTc4WHBpWEcwWlFLakNscEFOLWFuR0FVV18zT3pJM0U5cjdFMm5mS2hXLXBFeVhRdWdfYzlLRnlaTGtxN2phUHJobUNxTmdQakRrRjFlWWNZdlJPY2lEZ0RwOVlFSmZ5dnc?oc=5",
+      "published": "2025-10-20T07:00:00+00:00",
       "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
+        "name": "Mynewsdesk",
+        "url": "https://www.mynewsdesk.com"
       }
     },
     {
@@ -848,6 +838,16 @@
       "title": "Ny studie: Läkemedel minskade svår covidtrötthet - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ1dUZ1lUMGg2aW1BQ1NyM2tuSVVDejJmUXlWME01bzV4NmlObjE1a2U2dEZyS3M2OTRtd0pyaDVTZk5EM2Z3RlpuZk45VkdNOVk4T3g5M3ptUlpPY3NpZVpiMFVWQkhFMFk1RVBBZTVZU0JoMWJPVUc3cU5Nc2hGTk5uTThzOENwNnBEMzU5QmtuSk0?oc=5",
       "published": "2026-04-15T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "8b3c33c7be9b",
+      "title": "Därför får inte alla med migrän tillgång till ny medicin - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeFFjOVBPQURFRDRhMWpZTDVubTV3UWdNOGotWl9ZNURCRUNvazhsMDdJSE9HbmlLeEJYMzhoSV9QTFBvSXVqTzNrU2ZKVVl0cVN6TFpuNWMzbFRVdFlUNUpSUEJpM2lrV3E1enp1MjNKanZLR2tPMzRlMDdFajU4MmJZaHAzUl81clJ4N1hhMkJ1eS02SUNaSXVESEM0YUE?oc=5",
+      "published": "2026-04-20T07:00:00+00:00",
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
