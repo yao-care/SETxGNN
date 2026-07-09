@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-09T13:45:29.606608+00:00",
+  "fetched_at": "2026-07-09T16:24:04.348100+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -134,16 +134,6 @@
       }
     },
     {
-      "id": "587ec89661f7",
-      "title": "INSÄNDARE: Sökte hjälp för svår allergi – fick receptfri medicin - NT",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdENFUENLWHA1M1FHWDJpSlR3WVJ1cDhzcDBWMEhUTWJYN0JNbU94X3J6NWpZSWQzb1dtVWhXeUE2TUhVLWxuRTZYRXF5YkhUN2Fld2JYVzV0dmthZlNva1NTaEl2VXRyYU11RFRtSEw5WXVFbGdOU0JienZhZW5zVm92SS05Q192V05HeThwT1lXNFJmYUVKUVJ1Nnk?oc=5",
-      "published": "2026-07-07T13:00:00+00:00",
-      "source": {
-        "name": "NT",
-        "url": "https://www.nt.se"
-      }
-    },
-    {
       "id": "2baa011870e5",
       "title": "Nya förslag ska göra det lättare att dela läkemedel mellan civil och militär sjukvård - Via TT",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeW9XVEJPenJxdTgzMzVsZUxsOUhmbzNBbDZUa29hdi05UG9kcGM1VUJtRHM4X3NOMVpnZ2h1SUtiUlV5OS1XbXFBY3pHei1QdE5PcmlPM0RtYlQ1WkhkWmtFY2hSZjBUdFZxQXc3NTJVem9sY3AwcS1yOFR2OWplQ2tMdERTWUhIOW5aejE4Q0VHUzZVVUc5RFVMSTRISk40c2E2b1lqN0ZIa3gwSGlWaDA0SGRUZllibVZpcmw0MkZkQmhkVzU3a0p3NWliSlJ1MkJaVmFWYkFKeGlvN0JsU2N4bmt5a1dKMzQ4?oc=5",
@@ -151,6 +141,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "587ec89661f7",
+      "title": "INSÄNDARE: Sökte hjälp för svår allergi – fick receptfri medicin - NT",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdENFUENLWHA1M1FHWDJpSlR3WVJ1cDhzcDBWMEhUTWJYN0JNbU94X3J6NWpZSWQzb1dtVWhXeUE2TUhVLWxuRTZYRXF5YkhUN2Fld2JYVzV0dmthZlNva1NTaEl2VXRyYU11RFRtSEw5WXVFbGdOU0JienZhZW5zVm92SS05Q192V05HeThwT1lXNFJmYUVKUVJ1Nnk?oc=5",
+      "published": "2026-07-07T13:00:00+00:00",
+      "source": {
+        "name": "NT",
+        "url": "https://www.nt.se"
       }
     },
     {
@@ -194,6 +194,16 @@
       }
     },
     {
+      "id": "c18b0ee2da8d",
+      "title": "Medicintipsen som kan göra dig sjuk - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNmRfNHNJVUVJcEsySG1LRmpsNWZpb3NOVUVMZUNXbGh3N1dyQkVPNGRnS2toUWxteWJXRDh2XzZXV3NabGVsUTNVNVNxd2YyWFVpeVZFejFPenMzMlZRY1Q4dXUtZnZDaFhwd3dUNjdfY18zNm16eVRmTHlsQ21jd2M4Z0tSUXd2RVBURA?oc=5",
+      "published": "2026-06-06T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
       "id": "87ca0c624148",
       "title": "Läkemedel: Oro för biverkningar – expertens råd - News55",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtTXVudmFfaFJld0YtMFRQbTNjSFljeU5GdGlQdTlIYk9iS3RjY1RnVHI1R0xldG9fTjRHa05qbFdxc0xlX3o5U21TRkdCenhiYjl5S09wdUFpVk1Kcm83MnFzb0U0eTZxX0xzSEY4cGs1bFpqMHVzdTVyM1pHdw?oc=5",
@@ -204,13 +214,13 @@
       }
     },
     {
-      "id": "c18b0ee2da8d",
-      "title": "Medicintipsen som kan göra dig sjuk - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNmRfNHNJVUVJcEsySG1LRmpsNWZpb3NOVUVMZUNXbGh3N1dyQkVPNGRnS2toUWxteWJXRDh2XzZXV3NabGVsUTNVNVNxd2YyWFVpeVZFejFPenMzMlZRY1Q4dXUtZnZDaFhwd3dUNjdfY18zNm16eVRmTHlsQ21jd2M4Z0tSUXd2RVBURA?oc=5",
-      "published": "2026-06-06T07:00:00+00:00",
+      "id": "36e9b0bada6c",
+      "title": "Forskningsgenombrott – kan bromsa aggressiv prostatacancer - News55",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb1g0b2JXUmdZeVRRUXBKaFhnQVVEdTN6V0FwaUU5My0xMzMtekJSRDJqakUtQkZCSjBJak81UUFFMnpER2tybzVjVG9ZSDNaSWxEMkJGTWNSR2U3aVp2MEhWVGtFVTNJMWxzM3JZR2FhUzZWWDRvNGFDOE5RSzZXRmI2VmdQLVh1N0pnMVJR?oc=5",
+      "published": "2026-07-07T18:21:15+00:00",
       "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -554,16 +564,6 @@
       }
     },
     {
-      "id": "11ea3ca29363",
-      "title": "Stora prisskillnader på apotek – äldre riskerar att betala mest - News55",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDR2aGJ2UVlpdGIwTFd1QjZkUlFkX0dsYVJRTFNXSERCUWNxX2IzcGpwbGZhaTdvMlF6NWJNSTZrb0NodTR6elNiWnlGa1RMMmZvQ2xBTXltaVBGTGsyZEczNFRldERlMjdZRDBxMkd3bDlwdzVtZDJXbkZJanBnRGVPQ2RxOWhaUmhZYVpFTHJxSll3?oc=5",
-      "published": "2026-07-01T23:01:18+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "a957bc2f5361",
       "title": "Befintligt läkemedel kan hjälpa immunförsvaret hos personer med hiv - Forskning.se",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTS1nblQydTI5OXB0ajM5YzhEVk1JSDh2eXBwRFJWNHVweW1nUF9pNHV3dFlnRWp2b3Z1S0tLOHh2VmVDQTF0eWZmajNnaUFINTNfUG9UV2xQVDYxRGZxYWFxZ1NrVGV4bmlsc21OS0Z4ZXI4SDY1dGhLUlFmR3RlWW1kelB1Uk5FZlFJ?oc=5",
@@ -571,6 +571,16 @@
       "source": {
         "name": "Forskning.se",
         "url": "https://forskning.se"
+      }
+    },
+    {
+      "id": "11ea3ca29363",
+      "title": "Stora prisskillnader på apotek – äldre riskerar att betala mest - News55",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDR2aGJ2UVlpdGIwTFd1QjZkUlFkX0dsYVJRTFNXSERCUWNxX2IzcGpwbGZhaTdvMlF6NWJNSTZrb0NodTR6elNiWnlGa1RMMmZvQ2xBTXltaVBGTGsyZEczNFRldERlMjdZRDBxMkd3bDlwdzVtZDJXbkZJanBnRGVPQ2RxOWhaUmhZYVpFTHJxSll3?oc=5",
+      "published": "2026-07-01T23:01:18+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -634,16 +644,6 @@
       }
     },
     {
-      "id": "e9c72164d9b3",
-      "title": "Ny studie undersöker hur vanliga läkemedel mot halsbränna påverkar njurar och hjärta över tid - Karolinska Institutet",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVlqQXpWQVlkdHUteTVjR2FWUFdCbFBlQXMxblVtQmVQMTlGQmpQcHQzZ1hDMm9ZTWxoUExhNlpPVlRPZmhwd0pUUzFqVGEyUU1pMGpjNjV6UElZM3NDamhNdUNSUXloMU94aWVXOUkzUlM3am5VMVgybjUwcXVSVmxMaDRZckJsaVVYRlRRel9LU1RZR3lQMGxucUNITmlpSFdBWG5xeUVOTmh4ZEtQZXFvWk5UUQ?oc=5",
-      "published": "2025-10-20T07:00:00+00:00",
-      "source": {
-        "name": "Karolinska Institutet",
-        "url": "https://nyheter.ki.se"
-      }
-    },
-    {
       "id": "fbca71cbb806",
       "title": "Potensmedlet lyfts av experter – mot alzheimer - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU1Z6ZEVFbXlaaUV0NkRXWGZfS1ZLcnFIaG9ILUhDUHkwREhmSjJfcThMOXM2MUgxYU9VanFBcDBrQnVMT3A3Z3JOLXJ1SVpKQ2JpbFVWUlZKRUpCeWo0OURjRlpMNlRDWkxxSkItWUsyX3hCUEljWmZMUG9RQ2x5TVQ1aGJsM0djUk9abFJCakpScUItRjVadFJyd2ptOGFSdnp4T213UQ?oc=5",
@@ -651,6 +651,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "e9c72164d9b3",
+      "title": "Ny studie undersöker hur vanliga läkemedel mot halsbränna påverkar njurar och hjärta över tid - Karolinska Institutet",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVlqQXpWQVlkdHUteTVjR2FWUFdCbFBlQXMxblVtQmVQMTlGQmpQcHQzZ1hDMm9ZTWxoUExhNlpPVlRPZmhwd0pUUzFqVGEyUU1pMGpjNjV6UElZM3NDamhNdUNSUXloMU94aWVXOUkzUlM3am5VMVgybjUwcXVSVmxMaDRZckJsaVVYRlRRel9LU1RZR3lQMGxucUNITmlpSFdBWG5xeUVOTmh4ZEtQZXFvWk5UUQ?oc=5",
+      "published": "2025-10-20T07:00:00+00:00",
+      "source": {
+        "name": "Karolinska Institutet",
+        "url": "https://nyheter.ki.se"
       }
     },
     {
@@ -671,6 +681,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "b800ad0f242e",
+      "title": "Hjärtmedicin mot ångest har blivit trendigt: ”Förbluffande” - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBiRGF2T2x5bVNfSF9EZlJEcmdfMElld3E0STZUT0lQM091cklWa1M1QWJJS040Wl9aYmxVVTMwSkg?oc=5",
+      "published": "2026-07-02T08:00:14+00:00",
+      "source": {
+        "name": "Yle",
+        "url": "https://yle.fi"
       }
     },
     {
@@ -801,6 +821,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "1912faaf12e6",
+      "title": "Så kan du sänka ditt blodtryck utan medicin - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTDlmTXluZTRnYUpUdXJSaGNxeDJFSFlHTW02S2p1Sk50anlKc1ZLQng5VmJ2Z1lzcFp1aE1oNU1GUE1sdlFnV0lzWW0xMk40Y3p5S214NzIxX3ZURmpqeWxfYXBPUG9CV1ppR2lOb1FLbFA2QUFzY1NmbWxjS19pZXU3U2REX3RlX3A1Q1JWWW5IM3ly?oc=5",
+      "published": "2026-06-08T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -971,36 +1001,6 @@
       "source": {
         "name": "e55.se",
         "url": "https://www.e55.se"
-      }
-    },
-    {
-      "id": "deac6fa5bf13",
-      "title": "Ny studie: Så slutar du enklast med antidepressiva - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU2VFQmR1QWM4RlFKd3RYMENOU0VWcnNiMmJHVThaX0tXUER5RzNEWmdqMHF1SjlDZlJyUzByMWFFaGNkN3dkblg0bUVGVnowZG5meUhHcTlJQ0MtSFVLWVVUWG8xV3FUWHFORS1FalNZcEdsbVlIckp0Nm5Ma2NJNHlEblYzSWZjN0JF?oc=5",
-      "published": "2026-02-17T08:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "84a3d5df966d",
-      "title": "Rapport: 122 sajter säljer läkemedel olagligt – kräver höjda straff - News55",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS1FQTjN6bHdHdVQ4WjdlWnlrWXNEUVVYSjJVYkJkSVRuZTRJUUx0VUNRY0RpUEpKakhIalRjZC13VmlCM3RZVDNrcWt4X2J2emd3d2hJVUlCMnI1Z3hEbW03c0o3SGtOZ2RxRzVMT1Y5em9PWVVGdlJ5SEFySWZHbVdCVWpSdS1GMU1iMkVqamlsWVJiLVRoRw?oc=5",
-      "published": "2026-02-04T08:00:00+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
-      "id": "85bdaf228903",
-      "title": "Fetmaläkemedel kopplas till bättre psykisk hälsa - Sydsvenskan",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSjViZHZPWk9RRHQ0LWFxYWxxOWJGZTExQ2p1RkFwbEhDYzJ6cjBzZTVEQk5qa3d5NklDUEN4WF9JU2dHMnZQbzloRDBtdkhzMEtGRjdNRUc4T21ucHJFd01DNnRuMTlPcWNyN0UyZ3ZUSFFFSWU1SG90NlVVQU5tN19lNXlKS1VqX09jSQ?oc=5",
-      "published": "2026-03-20T07:00:00+00:00",
-      "source": {
-        "name": "Sydsvenskan",
-        "url": "https://www.sydsvenskan.se"
       }
     }
   ]
