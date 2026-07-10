@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-10T18:20:05.308804+00:00",
+  "fetched_at": "2026-07-10T20:18:35.747636+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -34,16 +34,6 @@
       }
     },
     {
-      "id": "a23a056f21f3",
-      "title": "Försäljningen av läkemedel mot obesitas fortsätter att öka - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFpuQXVYbXlCWk9BOXFOeHlJNEFIOFA1eGtSR255ZlYxOTlCNUg2OEdsUS1WX1d2bHUzTm5vSmlZOXBCc3lqZUUwYndBM0tlelpUMEpnOG5UNjZBMUd5S29sSHFIaldhY3FvRldLQkxPY1FxRy1DNXhUNHc2MDB1Ul9MNVpoOXJXNGwzV0c0bk9uRWxXcm9QeUVtbVc5S04xVGtNU2ZpeWJmeDI5RmZoXw?oc=5",
-      "published": "2026-07-09T00:47:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "74f6f2c1decb",
       "title": "Valproat – ingen fastställd länk mellan pappans medicinering och barnets hälsa - LäkemedelsVärlden",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnhVMEV4S3JTdHBvYnkzTjYzQVdBUlI3UFlBUEFlei1yV0tkSVFVQmRvVkF0WHNnczFZbkpEb1lleWxPOUYzWVprUTRTYmRucTh3UmxlREIwemw1TnRJaXFWN3lHS1EtOVNJbU5PQmdfUGN6WDJ6TEFRaERNOXltQzZfWDN3bmx2RjlXT2VibEU3UURwUzB1QmRReUtwY1drQnYw?oc=5",
@@ -51,6 +41,16 @@
       "source": {
         "name": "LäkemedelsVärlden",
         "url": "https://www.lakemedelsvarlden.se"
+      }
+    },
+    {
+      "id": "a23a056f21f3",
+      "title": "Försäljningen av läkemedel mot obesitas fortsätter att öka - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFpuQXVYbXlCWk9BOXFOeHlJNEFIOFA1eGtSR255ZlYxOTlCNUg2OEdsUS1WX1d2bHUzTm5vSmlZOXBCc3lqZUUwYndBM0tlelpUMEpnOG5UNjZBMUd5S29sSHFIaldhY3FvRldLQkxPY1FxRy1DNXhUNHc2MDB1Ul9MNVpoOXJXNGwzV0c0bk9uRWxXcm9QeUVtbVc5S04xVGtNU2ZpeWJmeDI5RmZoXw?oc=5",
+      "published": "2026-07-09T00:47:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -124,10 +124,10 @@
       }
     },
     {
-      "id": "030ccb857d72",
-      "title": "TLV slopar begränsad subvention för 27 läkemedel - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX0ZqX1VqeHZja0hSRjFNZUxiM3lHY3kxalpwUUxRTVg0bU82SlNnZEVBWkFIWmdZc1hWanJ1cHJhQXN6UDExNUVSZl81X05pcVpuRUhueHNUVENndHRZbzdUSXB2TG9wYlpjVVFNSVRBVmtFWHplZ19sTXNBdXNlamhmZVFmWVk1Ulk1b2JPWU9IdUlDb3JRMUZiWjFmcTB5ZzBV?oc=5",
-      "published": "2026-07-09T20:45:00+00:00",
+      "id": "da29fcfa26a8",
+      "title": "Läkemedelsverket varnar för falskt läkemedel vid diabetes - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazFsUEZMbHQ0MWt0ZTFIZnJHNC1YbXBRcEhHazFHSjg1ekgyLVZ4Q2lkRjhERktrWkhVRFFHMm5udHl2OVRYU2FUSmZ4Q1hfamh4QWt4cm9TZ2hXdE1GRnZEbEZEc3FUaEo3ejdtYzZhYW5PcEQ2TGUweGpKSnFDU1FZNGxvY0U1Q01oTFJoeElRYlgydkhrbjR5aXE0WWxERUkxbU9PZmNTaEdldElz?oc=5",
+      "published": "2026-07-06T04:25:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -154,10 +154,10 @@
       }
     },
     {
-      "id": "da29fcfa26a8",
-      "title": "Läkemedelsverket varnar för falskt läkemedel vid diabetes - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazFsUEZMbHQ0MWt0ZTFIZnJHNC1YbXBRcEhHazFHSjg1ekgyLVZ4Q2lkRjhERktrWkhVRFFHMm5udHl2OVRYU2FUSmZ4Q1hfamh4QWt4cm9TZ2hXdE1GRnZEbEZEc3FUaEo3ejdtYzZhYW5PcEQ2TGUweGpKSnFDU1FZNGxvY0U1Q01oTFJoeElRYlgydkhrbjR5aXE0WWxERUkxbU9PZmNTaEdldElz?oc=5",
-      "published": "2026-07-06T04:25:00+00:00",
+      "id": "030ccb857d72",
+      "title": "TLV slopar begränsad subvention för 27 läkemedel - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX0ZqX1VqeHZja0hSRjFNZUxiM3lHY3kxalpwUUxRTVg0bU82SlNnZEVBWkFIWmdZc1hWanJ1cHJhQXN6UDExNUVSZl81X05pcVpuRUhueHNUVENndHRZbzdUSXB2TG9wYlpjVVFNSVRBVmtFWHplZ19sTXNBdXNlamhmZVFmWVk1Ulk1b2JPWU9IdUlDb3JRMUZiWjFmcTB5ZzBV?oc=5",
+      "published": "2026-07-09T20:45:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -221,16 +221,6 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "86790ccc7766",
-      "title": "Wegovy-pillret finns nu på apotek i Storbritannien - e55.se",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZXlhYVVzcDZDdklRRE5SZDVVdVZXWlNxdGFLbkRvVmhValRkTDlZRk9OSUVxTm40M01UdjZnWXhCNXhoc29RRkxyXzVBU1AwVldsbkFkZ2JIQUVQNWRSWXcwdzhHNjN0MEpVWV93WWl6czRCYWdMSjdYN3RoRmEwbnp3?oc=5",
-      "published": "2026-07-08T11:43:56+00:00",
-      "source": {
-        "name": "e55.se",
-        "url": "https://www.e55.se"
       }
     },
     {
@@ -534,16 +524,6 @@
       }
     },
     {
-      "id": "5870d178c3fd",
-      "title": "Bantningspiller och livskvalitets\"gapet\". - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tU1duTTR3el9feVd1RWlISmcyeF9rM1VzVWZyYVp6YzNmUmFFVTdjbi14QmkyMzFxbFlxMU1PSXZDMWtQS01FUlBSMUdSYUlZLUZrLWpCQ1R0MzJmYzVjenpyek43cjh2ZDBCVjB3dlFZV0VNOFRjMU1JSXI?oc=5",
-      "published": "2026-07-09T13:27:36+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "661e5e895a59",
       "title": "PFAS lämnar kroppen snabbare med vissa läkemedel - Göteborgs universitet",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdzQtVGltZzNOaHRzakxGcktvdDJvdEpFTUVHTFVYbU9VUko4dnprampfVnQ3azhiZHcydmNwV29xd2pPSUNJM0NzUFFBRHFQUzVTUXFHZjFIYWhfbVFSUFJJaW5DckRrdjlVLTU0Qy1XRGZkSnhsS3FnMl95VWc?oc=5",
@@ -551,6 +531,16 @@
       "source": {
         "name": "Göteborgs universitet",
         "url": "https://www.gu.se"
+      }
+    },
+    {
+      "id": "5870d178c3fd",
+      "title": "Bantningspiller och livskvalitets\"gapet\". - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tU1duTTR3el9feVd1RWlISmcyeF9rM1VzVWZyYVp6YzNmUmFFVTdjbi14QmkyMzFxbFlxMU1PSXZDMWtQS01FUlBSMUdSYUlZLUZrLWpCQ1R0MzJmYzVjenpyek43cjh2ZDBCVjB3dlFZV0VNOFRjMU1JSXI?oc=5",
+      "published": "2026-07-09T13:27:36+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -584,16 +574,6 @@
       }
     },
     {
-      "id": "f2bf78a7f617",
-      "title": "(+) Nytt fetmaläkemedel blir billigare – så funkar det - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZVM1S3N4ZmlDZ3IwMDVZMHp3WjBQWk9PM2ZzNDRidzgwY3NOTF82VG5PdzJZTmk4WElMakVtVWEtaVk4UFh1ZHZwU3VRRzVWc08yRXRCdGdTUlFiSTB6d2FCRGNHMDRaQVpCUnpXTHA2RFpZNm9aQW4zRnk1d1BXUnlxTmd5d1R0cjh5eWd5VjJHR0FB?oc=5",
-      "published": "2026-06-30T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "e9c72164d9b3",
       "title": "Ny studie undersöker hur vanliga läkemedel mot halsbränna påverkar njurar och hjärta över tid - Karolinska Institutet",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVlqQXpWQVlkdHUteTVjR2FWUFdCbFBlQXMxblVtQmVQMTlGQmpQcHQzZ1hDMm9ZTWxoUExhNlpPVlRPZmhwd0pUUzFqVGEyUU1pMGpjNjV6UElZM3NDamhNdUNSUXloMU94aWVXOUkzUlM3am5VMVgybjUwcXVSVmxMaDRZckJsaVVYRlRRel9LU1RZR3lQMGxucUNITmlpSFdBWG5xeUVOTmh4ZEtQZXFvWk5UUQ?oc=5",
@@ -601,6 +581,16 @@
       "source": {
         "name": "Karolinska Institutet",
         "url": "https://nyheter.ki.se"
+      }
+    },
+    {
+      "id": "f2bf78a7f617",
+      "title": "(+) Nytt fetmaläkemedel blir billigare – så funkar det - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZVM1S3N4ZmlDZ3IwMDVZMHp3WjBQWk9PM2ZzNDRidzgwY3NOTF82VG5PdzJZTmk4WElMakVtVWEtaVk4UFh1ZHZwU3VRRzVWc08yRXRCdGdTUlFiSTB6d2FCRGNHMDRaQVpCUnpXTHA2RFpZNm9aQW4zRnk1d1BXUnlxTmd5d1R0cjh5eWd5VjJHR0FB?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -934,6 +924,16 @@
       }
     },
     {
+      "id": "fd9a73ec4eac",
+      "title": "Hanois hälsodepartement skärper hanteringen av läkemedel, kosmetika och kosttillskott. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWXpqcmNkWjE2a1ZySFFHb0F0bTJ0S01QUVliM2VvbXJpNURNVDJraEpQRGE2NHVrNEROWEdBSVhsQjhRSzZrZGx2aHlIakVxMDIxQnE5bHZwM0lIbHRkbEE4RW5uUEZnMlVYbmZmeFl3UEZEc3A5WkNIX0RYNzVEYm0tUWRfcm53R3Q2OWNxS28zbnNPcklXSUluV3dMVG55ZlE?oc=5",
+      "published": "2026-07-05T09:51:28+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
       "id": "1f29a532b6b3",
       "title": "Forskning: Fetmaläkemedel kan minska psykisk ohälsa - News55",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMjBqekZ6dldsUDM1QnJLZDdrUm5NMEU4aDYxSTRpNHFxQ2VQRTViU1phaGNITHBTSTF3V0IwbkZUU1VlYnp3YVh1VEU0VzM2anlFX0kwWmpLWDhlYWx2Z1A2bWp4WFJ5TVhhcHVPYThuazFDVy1fNTFKa3VmbTFpWHM1S2tsZw?oc=5",
@@ -944,16 +944,6 @@
       }
     },
     {
-      "id": "040e73ad2125",
-      "title": "Svensk AI-modell kan snabba upp utvecklingen av läkemedel - e55.se",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOHh6ZGpkUGhvbldabzFfV0RobllHMDlheW50djB6U1VmM2JTZDBfRFVyZVgyNUVOS3hKM1J5S0IxWWI0LTA1YkVWRFFBRmxnam1XemFNOWNVWjFGSWl6Q3N4TGIzSmVrV2VQdjZjVWp6bEFTMk5TMkVrY29kOXU4R05ZcFZSX3RIQUp3?oc=5",
-      "published": "2026-06-11T07:00:00+00:00",
-      "source": {
-        "name": "e55.se",
-        "url": "https://www.e55.se"
-      }
-    },
-    {
       "id": "94779065e24f",
       "title": "Mer antidepressiva i Sverige än i grannländerna - Corren",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLXVZYnFXWGhtc0JObHBKSzFGZldTR0FvY2FjcTNZZHhPYnVZclNjVXFaMTRSRW9UU1dxdkJRaWNqbUhkelRreGkwOXh2RnRaZnotRWdRTGVXdjJHLUxSZkJPd09zbUtid0dQdTNia3lmbF8zT2VZNnVKQkRGaHdfYjl2MHRNN21sZ0ZZVkJBcEs0a1VIaW9WbXJ0OGoxZktrYmU4cEtZUTZWeU4x?oc=5",
@@ -961,6 +951,16 @@
       "source": {
         "name": "Corren",
         "url": "https://www.corren.se"
+      }
+    },
+    {
+      "id": "040e73ad2125",
+      "title": "Svensk AI-modell kan snabba upp utvecklingen av läkemedel - e55.se",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOHh6ZGpkUGhvbldabzFfV0RobllHMDlheW50djB6U1VmM2JTZDBfRFVyZVgyNUVOS3hKM1J5S0IxWWI0LTA1YkVWRFFBRmxnam1XemFNOWNVWjFGSWl6Q3N4TGIzSmVrV2VQdjZjVWp6bEFTMk5TMkVrY29kOXU4R05ZcFZSX3RIQUp3?oc=5",
+      "published": "2026-06-11T07:00:00+00:00",
+      "source": {
+        "name": "e55.se",
+        "url": "https://www.e55.se"
       }
     },
     {
