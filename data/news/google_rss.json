@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T21:54:12.473385+00:00",
+  "fetched_at": "2026-07-14T22:53:42.621035+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -74,16 +74,6 @@
       }
     },
     {
-      "id": "685fae0d99d8",
-      "title": "”Hälsolitteracitet handlar lika mycket om vår egen förmåga att göra oss begripliga för patienterna.” - Janusinfo.se",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQVXV1VXRUZ1N0cWJIVmdnNHNBb3hpdUQ2dm9YaUkwbkFPS0wtZ1E2YVZjUHh0UFBaWXc3ejlfRkNFTUgtOFJqWHFjc1ZTaXpUZy1tM2pjT2t4S3hZUEthcmlWRzdQS1M2cmFpenZEaFZyRGZ6MTVJeDdVMjVXalNJdUxxam1DR2VYZF9oNVprVVdSZEM5ZjdJYkJWYjZ0M3ZJcXpfU18tdVE3NlR1LXNoazdnVXlvNlBRbUt1TXRIRFpHaG54cG1vSlpwMmpWeWNZaW02eHNiWlU1RFZRV3k1WmtBTjdzWVh3NG5lU1JaSHI2X2c5Wk50M3k0VTlQNjVvR3F0TlNycHhsTmRyQ3J5N0tMNDJ4VWp2?oc=5",
-      "published": "2026-07-02T13:33:38+00:00",
-      "source": {
-        "name": "Janusinfo.se",
-        "url": "https://janusinfo.se"
-      }
-    },
-    {
       "id": "74f6f2c1decb",
       "title": "Valproat – ingen fastställd länk mellan pappans medicinering och barnets hälsa - LäkemedelsVärlden",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnhVMEV4S3JTdHBvYnkzTjYzQVdBUlI3UFlBUEFlei1yV0tkSVFVQmRvVkF0WHNnczFZbkpEb1lleWxPOUYzWVprUTRTYmRucTh3UmxlREIwemw1TnRJaXFWN3lHS1EtOVNJbU5PQmdfUGN6WDJ6TEFRaERNOXltQzZfWDN3bmx2RjlXT2VibEU3UURwUzB1QmRReUtwY1drQnYw?oc=5",
@@ -111,6 +101,16 @@
       "source": {
         "name": "Borås Tidning",
         "url": "https://www.bt.se"
+      }
+    },
+    {
+      "id": "397e78d59438",
+      "title": "Ozempic får oss att glömma hur hälsa ser ut - Timbro",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1ckUtckhnN1M4VjU3REl1U2tETm5NZ1lvN09nYXB6UzhoWjRva3BINHhQOVgxUUtBMWZabXNIUjlsNnZWcVdUUFlFbkdaVDhQOElRUENtWURCd1R4aldjWXFsNHZ3TWZYRXVaV0Rna0pGeGlxaEtzWHhR?oc=5",
+      "published": "2026-06-22T13:08:58+00:00",
+      "source": {
+        "name": "Timbro",
+        "url": "https://timbro.se"
       }
     },
     {
@@ -194,13 +194,13 @@
       }
     },
     {
-      "id": "397e78d59438",
-      "title": "Ozempic får oss att glömma hur hälsa ser ut - Timbro",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1ckUtckhnN1M4VjU3REl1U2tETm5NZ1lvN09nYXB6UzhoWjRva3BINHhQOVgxUUtBMWZabXNIUjlsNnZWcVdUUFlFbkdaVDhQOElRUENtWURCd1R4aldjWXFsNHZ3TWZYRXVaV0Rna0pGeGlxaEtzWHhR?oc=5",
-      "published": "2026-06-22T13:08:58+00:00",
+      "id": "8ad3ab0bcf7d",
+      "title": "Fetmaläkemedel väntas bli världens mest sålda medicin 2032 - News55",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUJBOHFWd2FERXg0dGswelU2RzBHVmRreHU0Y1FUekRuWF9pLXUzb0dYTkFhWVBkSVJRendjT2lmZzZzRGQybkVHUWQ5ZTE1LXZsXy0tWXY5WWwzd2JKNVRMUDJNVzZ6SDByM3V4eHo5WnpOVnR0X2RrU0RBSndQU0lOZVhla3RJYTRRanVGdnM?oc=5",
+      "published": "2026-07-07T16:54:01+00:00",
       "source": {
-        "name": "Timbro",
-        "url": "https://timbro.se"
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -211,16 +211,6 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "8ad3ab0bcf7d",
-      "title": "Fetmaläkemedel väntas bli världens mest sålda medicin 2032 - News55",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUJBOHFWd2FERXg0dGswelU2RzBHVmRreHU0Y1FUekRuWF9pLXUzb0dYTkFhWVBkSVJRendjT2lmZzZzRGQybkVHUWQ5ZTE1LXZsXy0tWXY5WWwzd2JKNVRMUDJNVzZ6SDByM3V4eHo5WnpOVnR0X2RrU0RBSndQU0lOZVhla3RJYTRRanVGdnM?oc=5",
-      "published": "2026-07-07T16:54:01+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
       }
     },
     {
@@ -444,6 +434,16 @@
       }
     },
     {
+      "id": "ff0b7e849dbb",
+      "title": "Vitalis 2026: E-hälsa och AI i fokus i Göteborg - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzFKaThhOFhERzJld2tEWVRtQ1NMcExRRmt1YzN0MDFJRnpIajdGTjlwODNVNmFMeUpxQjhOTkxSQ3ptYllReUhXaXdYY0lMeWtUUnlyeE5mWWVTTlFjWnFuTkxQbWRJa1VTMDJrTkJLdDBfTDhkTHdQeGN2Z2h6RWNpZy1iNjRuOTNZVC10VEh1NVV1Q3JR?oc=5",
+      "published": "2026-05-04T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "3af3f1c0d0af",
       "title": "Färre nya läkemedel når svenska patienter - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVTU3dWNMNl93bHQtU2ZwZ1pvSUNnaWZ4V1dfZTJyc0VqWERaMVgtWDY0cnROZ2VnU1NVN3BJa0x4T040TEFoalAxQUVSeWs5U1pOZGFXVENWSm84bjVFUy0tRVZucDFUTVVMRGd0X05yaTc2UDMwZ2RWeFczbks1OGhwaXh5bmVIdHM4MkV0N2ZkSlRoYTFCVWt3?oc=5",
@@ -454,16 +454,6 @@
       }
     },
     {
-      "id": "2c92b50a0faf",
-      "title": "Fetmaläkemedel kopplas till bättre psykisk hälsa - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMFBOQ1BIb1lOMGhJT3VyMVlkWEpFeHliSWl2aFZwRFl0cFRVX1RYSm0zLVY5alpqYXQwcXRFTjY2RTdJRlhXdUVrLVZjWV9qeGNoWG1jT29OMlloVkhXRXVKdlpubEYwbjFOZW1KXzNxMTBmY2czbDlVOTJHbmJMVEdMN19wN1ROQjhRME9qeU45bVlobkhR?oc=5",
-      "published": "2026-03-20T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "e786d9728a1e",
       "title": "Diabetesläkemedel kopplas till minskad psykisk ohälsa - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGpaVjZ1MlhUM0Ffc1lfYXpfVUZ2N0FnMjBuckZOQ0ZvX2pMX1d3blBGQUZ4TUltYlJtbTUwUDFicF80ZWtjSDh2UndrYmZaSFJiTWxnVXlGeWdlRXBfLXoyWFFlUkhaR25QbWwtNnF1QTlMX2s1MldyOURVSFBtWDQzd1huZGpYVE11MjdQM3l4VkM5ZG9TUVdB?oc=5",
@@ -471,6 +461,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "2c92b50a0faf",
+      "title": "Fetmaläkemedel kopplas till bättre psykisk hälsa - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMFBOQ1BIb1lOMGhJT3VyMVlkWEpFeHliSWl2aFZwRFl0cFRVX1RYSm0zLVY5alpqYXQwcXRFTjY2RTdJRlhXdUVrLVZjWV9qeGNoWG1jT29OMlloVkhXRXVKdlpubEYwbjFOZW1KXzNxMTBmY2czbDlVOTJHbmJMVEdMN19wN1ROQjhRME9qeU45bVlobkhR?oc=5",
+      "published": "2026-03-20T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -634,6 +634,16 @@
       }
     },
     {
+      "id": "09d327657f53",
+      "title": "Fler särläkemedel får subvention enligt ny princip - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdURxbnJLYWZjLUxuRTNFLVdTdXlxOHhWb1BmWmZOcXpFQWFqSVRIQ2hrcEVLUjF5X0YzNDN6b0NydENrdy14ZXB1dXp0R0d2b3h4OFVrT0EteXRfaGNfdGNzcEJSdHJ1SEkyS3BDZnl5bzFRci0wMW1iMWlQYUJGb3RFdnp2VUZqekFjWXlJbi1CaVRNZ2dBalZjdTRzODJ4Um5xWktn?oc=5",
+      "published": "2026-03-16T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "2b622780adbd",
       "title": "”Kortsiktiga besparingar viktigare än långsiktig hälsa” - Dagens Nyheter",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVHY0WFpJUUs0bkRiZ01PVzQwV2tTN3BMdkNiaG5XYURSU0w2TWVRUlFzZF9VMFgwWk8zQ2FCRmpXQjl3X0ZsQjZMbmV3TDdzN2w4YXhKb1hIVjRDY2tjd0RRd0Y3SlIwR0ZERUVWVDB5bmhDaEMxN3psNWt0UXFibU55TFgxZw?oc=5",
@@ -691,16 +701,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "1c1d1cd1909e",
-      "title": "NEURO-forskare får projektbidrag från Vetenskapsrådet inom medicin och hälsa - Karolinska Institutet",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYVZKRF9TR0J5bjlTc1ZYcklXaV9mYVdiMy1uaGJSbVVfblVwbllqYlBJLTRDRGJfSDJqQy1kY0hZdklHVXlOUVIwZUdTalI2ellGV3pEaFdJQ29XZTFOb0hhVnR6WlV0X0FUTXRLT2lhbVJMMGFmRFVPcTBkOGlXNm04eUNNN0JNMWI0eWpYM1RkUF9lNnBEZnZlTHRid0k?oc=5",
-      "published": "2026-01-27T08:00:00+00:00",
-      "source": {
-        "name": "Karolinska Institutet",
-        "url": "https://nyheter.ki.se"
       }
     },
     {
