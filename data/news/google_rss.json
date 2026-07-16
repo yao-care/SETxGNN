@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-16T19:59:03.840421+00:00",
+  "fetched_at": "2026-07-16T21:08:13.440045+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -14,16 +14,6 @@
       }
     },
     {
-      "id": "a33b02458df3",
-      "title": "Läkare åtalas – misstänks ha brutit mot tystnadsplikten - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONmgzUkd1T2phLXhfQ0JEU0ZSbTJiTUxHc0F0elhkMTdZZEVNUzczR0FDa1o1MnRvM2hJeVJYQVlLYkhQdEQ3U2thTVVGMVJoQ3BxSUUxT01OZVFRUDJrdnlPaV9NN1BraW5GdTdFQWxaNlV4NDJIRUlpT09QWGFYOWE5ZERscWVSd3M0VUljd19OT1cxSVdxMUJOcFptbkc3RzF2VjVfaTgyRGVw?oc=5",
-      "published": "2026-07-16T03:54:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "b2a511bda8b9",
       "title": "Wegovy® tablett godkänns av EU-kommissionen som första orala GLP-1 för viktkontroll - Mynewsdesk",
       "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOY3ZWNlFxOE1BYS14bmRJYmloQ1MxZFl4RmN2UTdoNjdIMzE4Y1BlYzYwQzZnd01jVjN3LUxUMWZoYVllVTZ0T21ZX1RraHVlRWJzSjYxdkxNSDJkSXpnX1BZSFJtMzhLaGZRdXdlaUNaNHBUVUo3TzQzV0xEU0lhR00yaVNKRW9vU2h0NERkOHRyRVN2RkdtOTJTczIyR3F4ck1Ha3ZnajZEd1psbEo2RVNWM3RiQzctUzM5aTU5THFyRlNsMkxKQkJMMVBvYUQ4Z29DWXFPTTJybkJWR0JlTXotZUNOMzBoX00yaXJ4X0NmQmRCV2FCR3cwd3RzeHRWaWJIY0puQ3RUX2JPWXJqYVh1d3RCQjFOeGRjOUVYMU1JaE9VdFJVRUJYX09CSWozWE44THFhUUNKYVVCbk1FWFlqTW9aSlBYVkYzWGRkanFrem1Ed1JuMVh3?oc=5",
@@ -34,16 +24,6 @@
       }
     },
     {
-      "id": "6ef8675f6cf2",
-      "title": "Förbättrade blodvärden hos överviktiga - Västerbottens-Kuriren",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzY043dEVXXzVxa0dWcENxME9PTHFIdXYwTG9zOW9fMTA4cV9oSzJWMWc3U1Z1aE00QkRRaGUxWDVaaU1BTmpSUDdJMmo3MzRURnhQTXIwNlczbVlJWE1vRHA0NU1IazdkSDJkWW5ZMEVKTXdaSjRPQnlwanBBUQ?oc=5",
-      "published": "2026-07-16T17:50:19+00:00",
-      "source": {
-        "name": "Västerbottens-Kuriren",
-        "url": "https://www.vk.se"
-      }
-    },
-    {
       "id": "37ffb7085892",
       "title": "Under sommar och semester: Viktiga råd om vård, läkemedel och hälsa - Region Stockholm",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc29wZVpvNUticDZRcDlfcHdNU2NnNmpZSXpyMWZ6Yy0tdTBxWElvRGNLM010cTZha1J4YnRlUTZKX0dWY0VFaFNsN1dxUUZrZmZ2SFNwWi1NR3Y5WndsamlPalFpTFU4WEthbmQzVHNjWU5ISWhyRU5nOHhHVndoMWJfZl9WTGJvQUJJc2xpb1c1OGhHc09LMUF1N1pwckNNZjhVbm02OHlKNjNzR3lmVlAzMA?oc=5",
@@ -51,6 +31,16 @@
       "source": {
         "name": "Region Stockholm",
         "url": "https://www.regionstockholm.se"
+      }
+    },
+    {
+      "id": "6ef8675f6cf2",
+      "title": "Förbättrade blodvärden hos överviktiga - Västerbottens-Kuriren",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzY043dEVXXzVxa0dWcENxME9PTHFIdXYwTG9zOW9fMTA4cV9oSzJWMWc3U1Z1aE00QkRRaGUxWDVaaU1BTmpSUDdJMmo3MzRURnhQTXIwNlczbVlJWE1vRHA0NU1IazdkSDJkWW5ZMEVKTXdaSjRPQnlwanBBUQ?oc=5",
+      "published": "2026-07-16T17:50:19+00:00",
+      "source": {
+        "name": "Västerbottens-Kuriren",
+        "url": "https://www.vk.se"
       }
     },
     {
@@ -71,6 +61,16 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "6c3d561c02ea",
+      "title": "Klart: EU godkänner Wegovy-tabletter - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNkM5dlhMMGg5Q3ByUnlUeGl0ZURLcHRFYndSQ1E4ZjNXWTUtWE5peVhIV1ZkVXNCbjJyclJiZ2h3WEJLeVlfRjh3T2lHb0NCTHpWMDFvTnlFRWVnaGJDTTh2Q1lqbC1HeVdmemcyc3Z1LW5rSDVRN2dmVEVLOGtEWmF1TEMycXRRSllQOWxURWYyQQ?oc=5",
+      "published": "2026-07-16T00:46:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -104,6 +104,16 @@
       }
     },
     {
+      "id": "af0f2d39b273",
+      "title": "Om oegentlig förskrivning i årsberättelsen om läkemedel - Janusinfo.se",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWVlRaFM1RWVrejd0SkhPVmJBYVk0UmRDUWZpRTFkX3BWeEFKTjAyc3NUNURnd2MwNWM3Sm1QMGM4dUozVkU1NTVBb2ROYTBIcFZUOWt0ODgyNVkxWmNRVjZnZ0FmMi1hTks4TTRBZEJqZngwQldoRjFVemNScDRZOXBxZnZvTXJnRWhsSzlPaTcyWnN4MVBXNlBOakgzNGRRWjNDQ2dhQUp3c3Y3VW1iOEFDLTJObF9lZU5kaG53?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "source": {
+        "name": "Janusinfo.se",
+        "url": "https://janusinfo.se"
+      }
+    },
+    {
       "id": "92ddcd4e6550",
       "title": "”Det ska inte kosta skjortan att hämta ut medicin” - Västerbottens-Kuriren",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUWp4enZnTjcxZmRVWVJ4TTZzTm5vWm1pWEoyLWRLNTQySklNanNMaElINHMtQS1qdTlQOXJ4aTNjZEFWSFRtUXZwVVpWNHFLb2VJMDJNcHkyT09qMkwwT2twSzVDT2ViM2szLU55aFZwQ2ZPR2lMUjVfQXRYTTh6LS1pQ0dTTnhUbEZmeFAweUFHcGRFYlY4aA?oc=5",
@@ -124,10 +134,10 @@
       }
     },
     {
-      "id": "6c3d561c02ea",
-      "title": "Klart: EU godkänner Wegovy-tabletter - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNkM5dlhMMGg5Q3ByUnlUeGl0ZURLcHRFYndSQ1E4ZjNXWTUtWE5peVhIV1ZkVXNCbjJyclJiZ2h3WEJLeVlfRjh3T2lHb0NCTHpWMDFvTnlFRWVnaGJDTTh2Q1lqbC1HeVdmemcyc3Z1LW5rSDVRN2dmVEVLOGtEWmF1TEMycXRRSllQOWxURWYyQQ?oc=5",
-      "published": "2026-07-16T00:46:00+00:00",
+      "id": "bb813942a15b",
+      "title": "”Låt oss inte halka efter i forskning om kvinnors hälsa” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhrYWhGNzNiU3NTNWpIUGxhcGVONEExU29xejBuUGJ1TlJIemNId0lOUHA1ZmN1SlNCWk5KT2l0Zl9QXzdFdGxMeGRPbldBb29uY2Y5S1ZyNEo5ampRQW5YVE5aUmtBcDAtc2VOczk3SDZIQ3l1cjlnaEtLU2tYNThEdnVNWXNvN3p5aTJ0TmUzdVo2RzFES1lFYVMzUUNh?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -144,30 +154,10 @@
       }
     },
     {
-      "id": "bb813942a15b",
-      "title": "”Låt oss inte halka efter i forskning om kvinnors hälsa” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhrYWhGNzNiU3NTNWpIUGxhcGVONEExU29xejBuUGJ1TlJIemNId0lOUHA1ZmN1SlNCWk5KT2l0Zl9QXzdFdGxMeGRPbldBb29uY2Y5S1ZyNEo5ampRQW5YVE5aUmtBcDAtc2VOczk3SDZIQ3l1cjlnaEtLU2tYNThEdnVNWXNvN3p5aTJ0TmUzdVo2RzFES1lFYVMzUUNh?oc=5",
-      "published": "2026-07-02T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "79c60ef93a7e",
       "title": "Så mycket höjs prisbasbeloppet 2027 – påverkar regionernas pensionskostnader - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMkd3b0pxMnhwTWF2cmRuNVpSVzZITWdVWk1lRFNIYjFydmpRX1VpbGxsNjEwbEJDUjRkV1JuNVk2VzFURTRvY0d6X2xuN3JMbU1FRXhmUGRBcFZ6bEFjc3dsR0xRdEpqZTNaOVBIVlZtUXBYV01EdXdPVjcyVHBWODJmdUl3VDBTck5xdGxWT1l5T0h4T0dHWXNTX0s5X2djREJXeURSQ0o5TXFnNUpPY3lZU09ZRTJJMlVyTlVHR2lFQkJlOWJpaQ?oc=5",
       "published": "2026-07-14T23:51:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "1221198e8e7a",
-      "title": "Satsning på nära vård i norr avslutas – nådde inte målen - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPalV2MmloMG4zZUZMV2VZVnEzdkxMY2lHZWpUT3c5R1ZscjZjem1kWGNUQlVXdFZjY3VTcHhtUkM1MjRFM0ZxZE5zbU5WME9OUXNsN0FDYlpsc2xUb3k3VVBLaFkyT0Y2NlhlRGZWQ2Q2ZFJjZEVQU25BOHNJbmlLUUVLMkpBR3JwMm5VOVVXQ1MxcXlrOFI1YXdCUGJrUDRVdmNZdm03S1Btc2p0RmF5alV3?oc=5",
-      "published": "2026-07-15T21:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -184,6 +174,16 @@
       }
     },
     {
+      "id": "1221198e8e7a",
+      "title": "Satsning på nära vård i norr avslutas – nådde inte målen - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPalV2MmloMG4zZUZMV2VZVnEzdkxMY2lHZWpUT3c5R1ZscjZjem1kWGNUQlVXdFZjY3VTcHhtUkM1MjRFM0ZxZE5zbU5WME9OUXNsN0FDYlpsc2xUb3k3VVBLaFkyT0Y2NlhlRGZWQ2Q2ZFJjZEVQU25BOHNJbmlLUUVLMkpBR3JwMm5VOVVXQ1MxcXlrOFI1YXdCUGJrUDRVdmNZdm03S1Btc2p0RmF5alV3?oc=5",
+      "published": "2026-07-15T21:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "9a22bcee230a",
       "title": "Dömd sjuksköterska misstänks för nya läkemedelsstölder - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU1hsc0lYQU80WnFvOE5vY1NFMm1GNnZJUDA0ejl6WEZrb0pmNzhQb1VsOENaYTlKX3FKd1J2SXpRUG5xc2JERkNaSlZKNHB5ZldLSzdtSVpRdjdWTXRvT3o5MVFRUUNkMzBNeGlxckFjSzNQRmNFNldhRmxpU2Z3eXM2b2J3NzBuckIyX3puM05tdzRoYVpMdjZ2N2tES3FDVDV2eWl4Y19reUJySGc?oc=5",
@@ -191,16 +191,6 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "af0f2d39b273",
-      "title": "Om oegentlig förskrivning i årsberättelsen om läkemedel - Janusinfo.se",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWVlRaFM1RWVrejd0SkhPVmJBYVk0UmRDUWZpRTFkX3BWeEFKTjAyc3NUNURnd2MwNWM3Sm1QMGM4dUozVkU1NTVBb2ROYTBIcFZUOWt0ODgyNVkxWmNRVjZnZ0FmMi1hTks4TTRBZEJqZngwQldoRjFVemNScDRZOXBxZnZvTXJnRWhsSzlPaTcyWnN4MVBXNlBOakgzNGRRWjNDQ2dhQUp3c3Y3VW1iOEFDLTJObF9lZU5kaG53?oc=5",
-      "published": "2026-04-28T07:00:00+00:00",
-      "source": {
-        "name": "Janusinfo.se",
-        "url": "https://janusinfo.se"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "6a5e799f4eaa",
+      "title": "Lars Almroth om bytet från Västmanland till toppjobb på Socialstyrelsen - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS3BCR1lUWjRhaDFaVmx3ZWV1NmJBcEliQTltUkNzNEEzX1FReVFETzMzSkU5U1UwWENsckJlY19OYjU5WXFiaXc5SFZadHFxZDlCYmdxaDJ6WHBwZko4cTUxbjYzTGxnczZpY3JmclIxZldDTEVUVHdmTHBVaTVuZllCd1JtMzB4QTE0UEwwbXFka3UyQWtFUGQ5RUpNSFZIRG5vU21hUVN4aXVycGRTakdLcndST0JrMTUtQXF1aw?oc=5",
+      "published": "2026-03-20T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     }
   ]
