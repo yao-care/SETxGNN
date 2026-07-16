@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-16T12:17:27.141744+00:00",
+  "fetched_at": "2026-07-16T14:56:28.694898+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,16 +24,6 @@
       }
     },
     {
-      "id": "6c3d561c02ea",
-      "title": "Klart: EU godkänner Wegovy-tabletter - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNkM5dlhMMGg5Q3ByUnlUeGl0ZURLcHRFYndSQ1E4ZjNXWTUtWE5peVhIV1ZkVXNCbjJyclJiZ2h3WEJLeVlfRjh3T2lHb0NCTHpWMDFvTnlFRWVnaGJDTTh2Q1lqbC1HeVdmemcyc3Z1LW5rSDVRN2dmVEVLOGtEWmF1TEMycXRRSllQOWxURWYyQQ?oc=5",
-      "published": "2026-07-16T00:46:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "37ffb7085892",
       "title": "Under sommar och semester: Viktiga råd om vård, läkemedel och hälsa - Region Stockholm",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc29wZVpvNUticDZRcDlfcHdNU2NnNmpZSXpyMWZ6Yy0tdTBxWElvRGNLM010cTZha1J4YnRlUTZKX0dWY0VFaFNsN1dxUUZrZmZ2SFNwWi1NR3Y5WndsamlPalFpTFU4WEthbmQzVHNjWU5ISWhyRU5nOHhHVndoMWJfZl9WTGJvQUJJc2xpb1c1OGhHc09LMUF1N1pwckNNZjhVbm02OHlKNjNzR3lmVlAzMA?oc=5",
@@ -51,6 +41,16 @@
       "source": {
         "name": "Västerbottens-Kuriren",
         "url": "https://www.vk.se"
+      }
+    },
+    {
+      "id": "6c3d561c02ea",
+      "title": "Klart: EU godkänner Wegovy-tabletter - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNkM5dlhMMGg5Q3ByUnlUeGl0ZURLcHRFYndSQ1E4ZjNXWTUtWE5peVhIV1ZkVXNCbjJyclJiZ2h3WEJLeVlfRjh3T2lHb0NCTHpWMDFvTnlFRWVnaGJDTTh2Q1lqbC1HeVdmemcyc3Z1LW5rSDVRN2dmVEVLOGtEWmF1TEMycXRRSllQOWxURWYyQQ?oc=5",
+      "published": "2026-07-16T00:46:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -104,16 +104,6 @@
       }
     },
     {
-      "id": "1221198e8e7a",
-      "title": "Satsning på nära vård i norr avslutas – nådde inte målen - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPalV2MmloMG4zZUZMV2VZVnEzdkxMY2lHZWpUT3c5R1ZscjZjem1kWGNUQlVXdFZjY3VTcHhtUkM1MjRFM0ZxZE5zbU5WME9OUXNsN0FDYlpsc2xUb3k3VVBLaFkyT0Y2NlhlRGZWQ2Q2ZFJjZEVQU25BOHNJbmlLUUVLMkpBR3JwMm5VOVVXQ1MxcXlrOFI1YXdCUGJrUDRVdmNZdm03S1Btc2p0RmF5alV3?oc=5",
-      "published": "2026-07-15T21:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "6b73276ee7b7",
       "title": "Så får du hjälp att minska läkemedelsdosen - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJWkJHLWxXZ0Q5MElfY3NDdXVRd3NId1hkNnNVNV94QzdLUkJWanoxUk1HQmJMUFVkU2RhU0UyWkQyWG9RQjA5bThvdmxXSThfLU9IMUJTRWY4R1BwbmFzOUY2ZC1oSmhEbUlfOXVHaGNKV3JONFFj?oc=5",
@@ -121,6 +111,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "1221198e8e7a",
+      "title": "Satsning på nära vård i norr avslutas – nådde inte målen - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPalV2MmloMG4zZUZMV2VZVnEzdkxMY2lHZWpUT3c5R1ZscjZjem1kWGNUQlVXdFZjY3VTcHhtUkM1MjRFM0ZxZE5zbU5WME9OUXNsN0FDYlpsc2xUb3k3VVBLaFkyT0Y2NlhlRGZWQ2Q2ZFJjZEVQU25BOHNJbmlLUUVLMkpBR3JwMm5VOVVXQ1MxcXlrOFI1YXdCUGJrUDRVdmNZdm03S1Btc2p0RmF5alV3?oc=5",
+      "published": "2026-07-15T21:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -134,16 +134,6 @@
       }
     },
     {
-      "id": "9a22bcee230a",
-      "title": "Dömd sjuksköterska misstänks för nya läkemedelsstölder - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU1hsc0lYQU80WnFvOE5vY1NFMm1GNnZJUDA0ejl6WEZrb0pmNzhQb1VsOENaYTlKX3FKd1J2SXpRUG5xc2JERkNaSlZKNHB5ZldLSzdtSVpRdjdWTXRvT3o5MVFRUUNkMzBNeGlxckFjSzNQRmNFNldhRmxpU2Z3eXM2b2J3NzBuckIyX3puM05tdzRoYVpMdjZ2N2tES3FDVDV2eWl4Y19reUJySGc?oc=5",
-      "published": "2026-07-13T01:29:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "bb813942a15b",
       "title": "”Låt oss inte halka efter i forskning om kvinnors hälsa” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhrYWhGNzNiU3NTNWpIUGxhcGVONEExU29xejBuUGJ1TlJIemNId0lOUHA1ZmN1SlNCWk5KT2l0Zl9QXzdFdGxMeGRPbldBb29uY2Y5S1ZyNEo5ampRQW5YVE5aUmtBcDAtc2VOczk3SDZIQ3l1cjlnaEtLU2tYNThEdnVNWXNvN3p5aTJ0TmUzdVo2RzFES1lFYVMzUUNh?oc=5",
@@ -154,13 +144,23 @@
       }
     },
     {
-      "id": "9d0d172e9682",
-      "title": "Vanlig medicin kan öka risken för hjärtsjukdom - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFVGWEdzcnBlX1hlUmtNcTRKME9xM0ZKNUJsdS14UEMxTS1VSkJHLS1nTEtTb1g1MXBhMHc0MFVzMWl1M0hONTBkLXNHdXhQZFpBNjNWSE9jMXVQVWFHbzVMRkNQYV9jbF9MOUZWRm9lOU4tQmQ3OEhkaEQ4UmpNWUxPdmZHMXN4S0J3Y1Q4d3ZaQQ?oc=5",
-      "published": "2026-06-30T07:00:00+00:00",
+      "id": "9a22bcee230a",
+      "title": "Dömd sjuksköterska misstänks för nya läkemedelsstölder - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU1hsc0lYQU80WnFvOE5vY1NFMm1GNnZJUDA0ejl6WEZrb0pmNzhQb1VsOENaYTlKX3FKd1J2SXpRUG5xc2JERkNaSlZKNHB5ZldLSzdtSVpRdjdWTXRvT3o5MVFRUUNkMzBNeGlxckFjSzNQRmNFNldhRmxpU2Z3eXM2b2J3NzBuckIyX3puM05tdzRoYVpMdjZ2N2tES3FDVDV2eWl4Y19reUJySGc?oc=5",
+      "published": "2026-07-13T01:29:00+00:00",
       "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "cee255112696",
+      "title": "49 kommuner och region eniga om nytt vårdavtal - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT25mMVNQdHZPSURsTkthb2d1QjVKY0VBMHE3MDMycVFSNkJEMmxRZ3VIbE16MEY2UmlOT21oV1BJV1dBYk5EeTY4bER3RVdxUGx6bDhYMUFLOTJCcTZ1d09HZEZ5MVN1ME9IMnhzRl82Uy05aDM4WkZyYy1IaF80S2Rzb0xXc3ZJTFB5X3hUUWZackF5VTBiRXJxV0pRS0JSejN0eWxmRQ?oc=5",
+      "published": "2026-07-12T23:50:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -194,13 +194,13 @@
       }
     },
     {
-      "id": "73cd79ce5d1b",
-      "title": "Nytt läkemedel ska bränna fett – utan att minska aptiten - News55",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTU5pa1dvWXEyRTRIaHZZd20yNlJyalJVNDJYV3h3cEFwTlNJcEFJanY2U0ptREU0REQ4TkhHYmlfVVFteS1aY0Q1X0lxWENINk1WOE82UWtqVnowczJuWXp3S0tMcXFVT3pYM3F2TkowbzJJQlJSdEZFTGlIWEtTaUlhVjFJNjNVR0ow?oc=5",
-      "published": "2026-07-09T15:00:00+00:00",
+      "id": "9d0d172e9682",
+      "title": "Vanlig medicin kan öka risken för hjärtsjukdom - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFVGWEdzcnBlX1hlUmtNcTRKME9xM0ZKNUJsdS14UEMxTS1VSkJHLS1nTEtTb1g1MXBhMHc0MFVzMWl1M0hONTBkLXNHdXhQZFpBNjNWSE9jMXVQVWFHbzVMRkNQYV9jbF9MOUZWRm9lOU4tQmQ3OEhkaEQ4UmpNWUxPdmZHMXN4S0J3Y1Q4d3ZaQQ?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
       "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -214,13 +214,13 @@
       }
     },
     {
-      "id": "a23a056f21f3",
-      "title": "Försäljningen av läkemedel mot obesitas fortsätter att öka - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFpuQXVYbXlCWk9BOXFOeHlJNEFIOFA1eGtSR255ZlYxOTlCNUg2OEdsUS1WX1d2bHUzTm5vSmlZOXBCc3lqZUUwYndBM0tlelpUMEpnOG5UNjZBMUd5S29sSHFIaldhY3FvRldLQkxPY1FxRy1DNXhUNHc2MDB1Ul9MNVpoOXJXNGwzV0c0bk9uRWxXcm9QeUVtbVc5S04xVGtNU2ZpeWJmeDI5RmZoXw?oc=5",
-      "published": "2026-07-09T00:47:00+00:00",
+      "id": "73cd79ce5d1b",
+      "title": "Nytt läkemedel ska bränna fett – utan att minska aptiten - News55",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTU5pa1dvWXEyRTRIaHZZd20yNlJyalJVNDJYV3h3cEFwTlNJcEFJanY2U0ptREU0REQ4TkhHYmlfVVFteS1aY0Q1X0lxWENINk1WOE82UWtqVnowczJuWXp3S0tMcXFVT3pYM3F2TkowbzJJQlJSdEZFTGlIWEtTaUlhVjFJNjNVR0ow?oc=5",
+      "published": "2026-07-09T15:00:00+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -234,10 +234,10 @@
       }
     },
     {
-      "id": "c752533bd90c",
-      "title": "TLV slopar begränsning av subvention för 27 läkemedel - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdk0tUUJiR0p0a0I0bjZkcXFCbHhJeEw5T2JRVU5LU081UnJJdE1LNmwxZHN6NGZiQ3p3VG82ZVhMM3RBLXBZZFhGUTF6Ym1kOGxlQjY1UnpyVl95bnhydmpJVk5oTFJKQWVzYm15Z0M0dDk5ck1UUzBPVC1HbmFqUi1JTXNpWkZXbEVvZzVSX2pNYVZSNmtaazhmVlY4em1iOWRxQ1J4bVIwQQ?oc=5",
-      "published": "2026-07-09T20:45:00+00:00",
+      "id": "a23a056f21f3",
+      "title": "Försäljningen av läkemedel mot obesitas fortsätter att öka - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFpuQXVYbXlCWk9BOXFOeHlJNEFIOFA1eGtSR255ZlYxOTlCNUg2OEdsUS1WX1d2bHUzTm5vSmlZOXBCc3lqZUUwYndBM0tlelpUMEpnOG5UNjZBMUd5S29sSHFIaldhY3FvRldLQkxPY1FxRy1DNXhUNHc2MDB1Ul9MNVpoOXJXNGwzV0c0bk9uRWxXcm9QeUVtbVc5S04xVGtNU2ZpeWJmeDI5RmZoXw?oc=5",
+      "published": "2026-07-09T00:47:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -271,6 +271,16 @@
       "source": {
         "name": "Expressen",
         "url": "https://www.expressen.se"
+      }
+    },
+    {
+      "id": "c752533bd90c",
+      "title": "TLV slopar begränsning av subvention för 27 läkemedel - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdk0tUUJiR0p0a0I0bjZkcXFCbHhJeEw5T2JRVU5LU081UnJJdE1LNmwxZHN6NGZiQ3p3VG82ZVhMM3RBLXBZZFhGUTF6Ym1kOGxlQjY1UnpyVl95bnhydmpJVk5oTFJKQWVzYm15Z0M0dDk5ck1UUzBPVC1HbmFqUi1JTXNpWkZXbEVvZzVSX2pNYVZSNmtaazhmVlY4em1iOWRxQ1J4bVIwQQ?oc=5",
+      "published": "2026-07-09T20:45:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -384,16 +394,6 @@
       }
     },
     {
-      "id": "aa157442b8ca",
-      "title": "Nya läkemedel införs i Västra Götalandsregionen – satsning på cancerbehandling och sällsynta sjukdomar - Via TT",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSXZQbHI2U0hRVXJERkVMbEI3X2NlR0VOTWUtWkZoQk4wdDZHSjBOQndndEdOeXZpUU15UXNNWHU5QUJIeWE1OHphM2pnLW54aEtFaU1nMWJYVmVJTHN4bmRjQ2dGVVR5d3RwU2YtSDEzcmJrQll4Ym1leGRLUFJGeUJhdjJQUDE2WTY0U2J1ZHIxaDNSaWJQMXU2WjlMQjhuaW5YM0tTVEpERTh0SGxwd3hyZkVndzQzZ1o4d0NXYkdJeHFnbjByVTdadDY2U3F6Q0txVERBYTFyc2NsVTQ5dFd4cmtsR29sSnJTeGhQMlhqRDdWb2xseTNmVVpNMkU?oc=5",
-      "published": "2026-06-17T07:00:00+00:00",
-      "source": {
-        "name": "Via TT",
-        "url": "https://via.tt.se"
-      }
-    },
-    {
       "id": "7cbf81602500",
       "title": "Diabetesläkemedel kopplas till bättre psykisk hälsa - Forskning.se",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS0o5V1l6a25kaEt6bHZ5cEQ2SkU4emxLYU5wS0FQQ3FYbW1JSmowcjJBT2lVTmRmNkdZQ3c4OUFjc2tEb2piVUpjcXdPM29GV25Fell2OFg5VmxNbjdhU1BxSmhsbzEtUy1oaUpsYkx3TVZtMmx1YW00M29qd21PNnBYZUdHMG5SRXBtS05GckE3UQ?oc=5",
@@ -404,13 +404,13 @@
       }
     },
     {
-      "id": "23cfcb1e0de3",
-      "title": "Över 400 personer i gränsregionen fick gratis läkarundersökningar och medicinering. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSU4tU0dmN3RKdE44Z2VxdHVKenZ2LVBqRUZSUm1SQVdjdXpjek56dnRwb09SMmwta3N1dGYwcTBaVl9JdFh2VUE0SUZKX09GUU1TNXFKU0xrYjRCNHdyVWFvNHhhY05VOWRaQnhldmZSVE1ZSWhybmVzNWEzNEE1MWlQRVhGdVdDMlVqQUZmQjQ?oc=5",
-      "published": "2026-07-16T05:22:42+00:00",
+      "id": "aa157442b8ca",
+      "title": "Nya läkemedel införs i Västra Götalandsregionen – satsning på cancerbehandling och sällsynta sjukdomar - Via TT",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSXZQbHI2U0hRVXJERkVMbEI3X2NlR0VOTWUtWkZoQk4wdDZHSjBOQndndEdOeXZpUU15UXNNWHU5QUJIeWE1OHphM2pnLW54aEtFaU1nMWJYVmVJTHN4bmRjQ2dGVVR5d3RwU2YtSDEzcmJrQll4Ym1leGRLUFJGeUJhdjJQUDE2WTY0U2J1ZHIxaDNSaWJQMXU2WjlMQjhuaW5YM0tTVEpERTh0SGxwd3hyZkVndzQzZ1o4d0NXYkdJeHFnbjByVTdadDY2U3F6Q0txVERBYTFyc2NsVTQ5dFd4cmtsR29sSnJTeGhQMlhqRDdWb2xseTNmVVpNMkU?oc=5",
+      "published": "2026-06-17T07:00:00+00:00",
       "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "Via TT",
+        "url": "https://via.tt.se"
       }
     },
     {
@@ -451,6 +451,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "23cfcb1e0de3",
+      "title": "Över 400 personer i gränsregionen fick gratis läkarundersökningar och medicinering. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSU4tU0dmN3RKdE44Z2VxdHVKenZ2LVBqRUZSUm1SQVdjdXpjek56dnRwb09SMmwta3N1dGYwcTBaVl9JdFh2VUE0SUZKX09GUU1TNXFKU0xrYjRCNHdyVWFvNHhhY05VOWRaQnhldmZSVE1ZSWhybmVzNWEzNEE1MWlQRVhGdVdDMlVqQUZmQjQ?oc=5",
+      "published": "2026-07-16T05:22:42+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Örebronyheter",
         "url": "https://www.orebronyheter.com"
-      }
-    },
-    {
-      "id": "1206ab3c49df",
-      "title": "Danderyds sjukhus: Danderyds största arbetsgivare ökar samarbetet inom medicinteknik och läkemedel - Mynewsdesk",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSm1PWFFJTE1ZNm1rczZ0Mm1GS3dIVUQySTAzSzlHLWZlblJDM2lsaTBHT015WHBhdUMwRGRBUlNCU3R0ZjdodXVnUEtXa0VVVS1LRThmWkdYbE4yMDg0VjhqRS1VdXZOamJSRWhrWDl6OUp5dXhWeGZMWnZFUXFlQVJlV2t3dG9LTE5sS0l4MHR2V3hkZURJaTZET2pxT19rWlhNNXRpZDRzUGx2Y21Za0pzOWQ4YzN2d0hqRm8zbWpqbC1WVlNJWklYR09QNVIwaUszSHB2a1NoVXVEVHFsZGVmVklwU2VZWlI4S0Y0VFRCNUJzQnJzTWFrNW93c0k?oc=5",
-      "published": "2026-01-27T08:00:00+00:00",
-      "source": {
-        "name": "Mynewsdesk",
-        "url": "https://www.mynewsdesk.com"
       }
     }
   ]
