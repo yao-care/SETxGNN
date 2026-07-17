@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-17T14:29:04.003952+00:00",
+  "fetched_at": "2026-07-17T16:10:43.852452+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -11,16 +11,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "0a2e59baac9e",
-      "title": "Efter demonstrationen - nu ska Region Stockholm utreda vad vårdpersonal får göra i arbetskläder - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa3Zya204enlvRlBrSEFPNWdzRkp1UEF2OFJTUHV0eXRXNm9LRzNKRUJpWUQ1V1ZBd1JhRU9wWmROTE5BNjdaZ0w4TW9yeGVBckRaWExlNU9PVEZFbURwWjJrUFlFM2Eyc09wbmo1eF82TjVPdXR5TWc4OHB5OU9GVkJ6YjhNdnd2VW90eUhndDFEX18yckFDLW80ZlhZMUQ4cGhSR3hBYVZwT3FRNzBWaVhJVjBfTEE2bmF3UW9qS1BjeG52d1Fyd1pOQklHaEVDV0JoU3JrSzU1d2RjemlxaHNn?oc=5",
-      "published": "2026-07-17T03:20:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -44,10 +34,20 @@
       }
     },
     {
+      "id": "0a2e59baac9e",
+      "title": "Efter demonstrationen - nu ska Region Stockholm utreda vad vårdpersonal får göra i arbetskläder - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa3Zya204enlvRlBrSEFPNWdzRkp1UEF2OFJTUHV0eXRXNm9LRzNKRUJpWUQ1V1ZBd1JhRU9wWmROTE5BNjdaZ0w4TW9yeGVBckRaWExlNU9PVEZFbURwWjJrUFlFM2Eyc09wbmo1eF82TjVPdXR5TWc4OHB5OU9GVkJ6YjhNdnd2VW90eUhndDFEX18yckFDLW80ZlhZMUQ4cGhSR3hBYVZwT3FRNzBWaVhJVjBfTEE2bmF3UW9qS1BjeG52d1Fyd1pOQklHaEVDV0JoU3JrSzU1d2RjemlxaHNn?oc=5",
+      "published": "2026-07-17T03:20:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "058d961c74d3",
       "title": "Läkarens checklista: Detta bör finnas i ditt medicinskåp i sommar - News55",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV0FRUGI2Y3VKejVWVktqWlJpNWNRbUg0SUVETmtkakd5d1kwT3AwanBiZ3BrNUNXalNZN3ZqakhkUEZXY0FWMlhqTllLVm12TmxoaVZ0ZTRidTdzMDVhOHNncVEwdkhHQmJSem5ndF83dEhQQXVTZEZNdkRIcHhEb1lBOWhBejhCNW14VHlvS09OVVNiTnRYOQ?oc=5",
-      "published": "2026-07-17T12:08:10+00:00",
+      "published": "2026-07-17T15:12:34+00:00",
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
@@ -84,13 +84,13 @@
       }
     },
     {
-      "id": "a33b02458df3",
-      "title": "Läkare åtalas – misstänks ha brutit mot tystnadsplikten - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONmgzUkd1T2phLXhfQ0JEU0ZSbTJiTUxHc0F0elhkMTdZZEVNUzczR0FDa1o1MnRvM2hJeVJYQVlLYkhQdEQ3U2thTVVGMVJoQ3BxSUUxT01OZVFRUDJrdnlPaV9NN1BraW5GdTdFQWxaNlV4NDJIRUlpT09QWGFYOWE5ZERscWVSd3M0VUljd19OT1cxSVdxMUJOcFptbkc3RzF2VjVfaTgyRGVw?oc=5",
-      "published": "2026-07-16T03:54:00+00:00",
+      "id": "20459255eadd",
+      "title": "Polisen utreder om skönhetsföretag har använt otillåtna läkemedel - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5jZHVJdnZXMFZjUnNsYWMxYko0bG1rVjFZNnF2SFdZX25TS0RiRkNKLXB5OFBFUWpMT29Nd0RmbFc?oc=5",
+      "published": "2026-07-16T10:05:13+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "Yle",
+        "url": "https://yle.fi"
       }
     },
     {
@@ -98,46 +98,6 @@
       "title": "Bolaget som vill förlänga livet – testar redan på människor - News55",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUjdINWptTHAzQTdLQkp0VWJYUXJCbENFS0lFTUpJRW5BNHIybmVlMlkwYUtCNFZ3ZTZJMFdmZlFPUmx5ejZvcThoZVN3ZTNkek5KYVQzY3BQR3U1RU5LNDRscmJvRU55dHZpcndpU1BsT0FINFpFdDRHbUpKV1pQMU5XWDY3a05ycXA5NldKaw?oc=5",
       "published": "2026-07-17T12:12:35+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
-      "id": "6b73276ee7b7",
-      "title": "Så får du hjälp att minska läkemedelsdosen - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJWkJHLWxXZ0Q5MElfY3NDdXVRd3NId1hkNnNVNV94QzdLUkJWanoxUk1HQmJMUFVkU2RhU0UyWkQyWG9RQjA5bThvdmxXSThfLU9IMUJTRWY4R1BwbmFzOUY2ZC1oSmhEbUlfOXVHaGNKV3JONFFj?oc=5",
-      "published": "2026-07-12T15:20:54+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "6c3d561c02ea",
-      "title": "Klart: EU godkänner Wegovy-tabletter - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNkM5dlhMMGg5Q3ByUnlUeGl0ZURLcHRFYndSQ1E4ZjNXWTUtWE5peVhIV1ZkVXNCbjJyclJiZ2h3WEJLeVlfRjh3T2lHb0NCTHpWMDFvTnlFRWVnaGJDTTh2Q1lqbC1HeVdmemcyc3Z1LW5rSDVRN2dmVEVLOGtEWmF1TEMycXRRSllQOWxURWYyQQ?oc=5",
-      "published": "2026-07-16T00:46:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "9b18b1f1c4f6",
-      "title": "Ny studie: Så formas hjärnan om av SSRI - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE01Z0NNSmlZMWx2WVp1SjRqZlYzMzJuYzFjdFlZN3Q3c0ZKaXZPSWxLYm5XeF9FV1Fyd2lYSVhybUxDMzd6Y2k1RUpCX3BZNE8yaGRpd3E3b3pOdjBFX09Gd1BmQ0xkb1ZHQ3FUMUlaMmt3dw?oc=5",
-      "published": "2026-07-13T13:36:50+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "02e7bbabe2c2",
-      "title": "2,4 miljoner tar blodtrycksmedicin – så påverkas den av värmen - News55",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTllMRXZsdGp4VkJxaDJ4T09DdGg5Rk9ZN3VtR0xxZWVMWnlpMU1xcnpuZWNiQldmVkVPQnhQMnNFLXkyY0s2MG9uQVdJNzQwdWQxQV9OaGVaREllcnp4TlczLTR0dzZYekN6S3RTVnlnRDdSdXdWeHoxTTJrLTZXSEVZSXVSbC05VjRETjVIUHpNQQ?oc=5",
-      "published": "2026-07-16T16:44:57+00:00",
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
@@ -154,6 +114,16 @@
       }
     },
     {
+      "id": "6b73276ee7b7",
+      "title": "Så får du hjälp att minska läkemedelsdosen - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJWkJHLWxXZ0Q5MElfY3NDdXVRd3NId1hkNnNVNV94QzdLUkJWanoxUk1HQmJMUFVkU2RhU0UyWkQyWG9RQjA5bThvdmxXSThfLU9IMUJTRWY4R1BwbmFzOUY2ZC1oSmhEbUlfOXVHaGNKV3JONFFj?oc=5",
+      "published": "2026-07-12T15:20:54+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
       "id": "bb813942a15b",
       "title": "”Låt oss inte halka efter i forskning om kvinnors hälsa” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhrYWhGNzNiU3NTNWpIUGxhcGVONEExU29xejBuUGJ1TlJIemNId0lOUHA1ZmN1SlNCWk5KT2l0Zl9QXzdFdGxMeGRPbldBb29uY2Y5S1ZyNEo5ampRQW5YVE5aUmtBcDAtc2VOczk3SDZIQ3l1cjlnaEtLU2tYNThEdnVNWXNvN3p5aTJ0TmUzdVo2RzFES1lFYVMzUUNh?oc=5",
@@ -161,6 +131,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "9b18b1f1c4f6",
+      "title": "Ny studie: Så formas hjärnan om av SSRI - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE01Z0NNSmlZMWx2WVp1SjRqZlYzMzJuYzFjdFlZN3Q3c0ZKaXZPSWxLYm5XeF9FV1Fyd2lYSVhybUxDMzd6Y2k1RUpCX3BZNE8yaGRpd3E3b3pOdjBFX09Gd1BmQ0xkb1ZHQ3FUMUlaMmt3dw?oc=5",
+      "published": "2026-07-13T13:36:50+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -184,10 +164,40 @@
       }
     },
     {
-      "id": "045fc60cdde5",
-      "title": "Vanlig bedövning vid förlossning ingen ökad risk - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2ZIMDlLNmhBejRUMS16dkZXaWFzUHQ1Z2Q2YV9Xb09qVnpjSDhZMkFsLUVQSXUxb0RnRzJxX2trbGFtWWYyNjlnT2k3YlJhN3NRdWtNM2lqR2ZrcE9wRmlrNnRuYlZ6NXRjMkFvWjMwcGVnNm90OWhnMEdKbUthaFF2bXpNbnJubDg3NXhVa3lWTHQ5V3FCX1hudE5wcE50X3U3U1dveVgzNmh3?oc=5",
-      "published": "2026-07-16T23:59:00+00:00",
+      "id": "6c3d561c02ea",
+      "title": "Klart: EU godkänner Wegovy-tabletter - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNkM5dlhMMGg5Q3ByUnlUeGl0ZURLcHRFYndSQ1E4ZjNXWTUtWE5peVhIV1ZkVXNCbjJyclJiZ2h3WEJLeVlfRjh3T2lHb0NCTHpWMDFvTnlFRWVnaGJDTTh2Q1lqbC1HeVdmemcyc3Z1LW5rSDVRN2dmVEVLOGtEWmF1TEMycXRRSllQOWxURWYyQQ?oc=5",
+      "published": "2026-07-16T00:46:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "13f5d2d164a3",
+      "title": "Flera apotek tvingas stänga i sommar - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR0J0ckFMRHZEdzBNd0Z5YmM4c2g2VmViaFNJekMyVVZ3b3V5eW9SVkZNYk12OFJRUUZvMTFZbjVjMGduTVYxM3phQnNiT2dJc29HTktqc1lia0FaSzYweEE1T0w4NC15dGxvMGJZdVZwM0x1dnVTY0tYenF6ak5QNlRzaWEyN2RHZWxMd1VfOA?oc=5",
+      "published": "2026-07-15T00:16:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "0f1f8513a79e",
+      "title": "Turkiet vill ha ”naturliga” födslar – läkare straffas för snitt - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeE96X3hZQXZvWm91RnE4cXYxbkZtRHV6U0x6bFN4VURTZzc4RHpoVlh0SC1Td2RDWE5LbHphcXdaeE1YakM1Z0s1M2U0a2JXd3JCREtMVGpFZlZmSkpjNkxjVWk2YVltbDlseW9MeGtvMUpxY00ybUFZeUlqUjNTZHVLTW84aXgzMzJuRlVmYV9PT3FLZEhLUWNKVE9JMjVzSmUzZmk2b08xYTF1S0djTEFxeWpaWVJVRVJn?oc=5",
+      "published": "2026-07-13T01:26:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "42e7d4fa2bbc",
+      "title": "Läkare har länge manifesterat i arbetskläder - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUjVUbm5pc0NsZjltaVB6RU85X3kycDA1ZGpNUHRwSXhDMnB3d2JMeFVINEJpd0EzNmJvY1hkbnVYTGNVcUNoM25QWWlKaS1Yb3lscjdmbXVUTW5jckxVN3RXZFRtTTdvcHk2RVhMT19oUDZRNXd3ZkhxTDRNaUNSeFpjdk1rX2M4b09yTDBfQ0U5NGRRZEVNb19PYnp1LTQ?oc=5",
+      "published": "2026-07-14T02:33:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -204,33 +214,13 @@
       }
     },
     {
-      "id": "13f5d2d164a3",
-      "title": "Flera apotek tvingas stänga i sommar - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR0J0ckFMRHZEdzBNd0Z5YmM4c2g2VmViaFNJekMyVVZ3b3V5eW9SVkZNYk12OFJRUUZvMTFZbjVjMGduTVYxM3phQnNiT2dJc29HTktqc1lia0FaSzYweEE1T0w4NC15dGxvMGJZdVZwM0x1dnVTY0tYenF6ak5QNlRzaWEyN2RHZWxMd1VfOA?oc=5",
-      "published": "2026-07-15T00:16:00+00:00",
+      "id": "02e7bbabe2c2",
+      "title": "2,4 miljoner tar blodtrycksmedicin – så påverkas den av värmen - News55",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTllMRXZsdGp4VkJxaDJ4T09DdGg5Rk9ZN3VtR0xxZWVMWnlpMU1xcnpuZWNiQldmVkVPQnhQMnNFLXkyY0s2MG9uQVdJNzQwdWQxQV9OaGVaREllcnp4TlczLTR0dzZYekN6S3RTVnlnRDdSdXdWeHoxTTJrLTZXSEVZSXVSbC05VjRETjVIUHpNQQ?oc=5",
+      "published": "2026-07-16T16:44:57+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "20459255eadd",
-      "title": "Polisen utreder om skönhetsföretag har använt otillåtna läkemedel - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5jZHVJdnZXMFZjUnNsYWMxYko0bG1rVjFZNnF2SFdZX25TS0RiRkNKLXB5OFBFUWpMT29Nd0RmbFc?oc=5",
-      "published": "2026-07-16T10:05:13+00:00",
-      "source": {
-        "name": "Yle",
-        "url": "https://yle.fi"
-      }
-    },
-    {
-      "id": "0f1f8513a79e",
-      "title": "Turkiet vill ha ”naturliga” födslar – läkare straffas för snitt - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeE96X3hZQXZvWm91RnE4cXYxbkZtRHV6U0x6bFN4VURTZzc4RHpoVlh0SC1Td2RDWE5LbHphcXdaeE1YakM1Z0s1M2U0a2JXd3JCREtMVGpFZlZmSkpjNkxjVWk2YVltbDlseW9MeGtvMUpxY00ybUFZeUlqUjNTZHVLTW84aXgzMzJuRlVmYV9PT3FLZEhLUWNKVE9JMjVzSmUzZmk2b08xYTF1S0djTEFxeWpaWVJVRVJn?oc=5",
-      "published": "2026-07-13T01:26:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -334,16 +324,6 @@
       }
     },
     {
-      "id": "bd708a4bd5e2",
-      "title": "Åsa Dedering slutar som hälso- och sjukvårdsdirektör - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLTA4Z0NvR0Z2bThpY2dSZHdTZzVyZ1ZiZXE1cHF1bXVXS0o3U01TRkR1RkJERHJVTjYxeERqNmtwNnpweThlNGkwRVZFYldscWQwMUJUYU5qcjEzcE90S1RwTHZoUHAweW54ZlA0OU5Ea0xIaXNIeTZOOXRoTjYtbmwyVWpBZ19hejJ2WHJuVmRVN01mMHh1SngxZElQcnZHRU9rOQ?oc=5",
-      "published": "2026-06-23T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "839f300c9a07",
       "title": "\"Barn och ungdomar ska få bästa möjliga läkemedelsbehandling\" - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXVaal9CUXh5MGVMOUJZbnBSY3dvSFVoMG1nVTBieDNtUkxKOXBpQTh6aWYwem5TRnJ5Q0JTR2thX3hLdUZ2a1RZRmw5N1AtSFpWQmNvN3B2eFRabGZMTk1fb0xscTl3Rk51U1JKdmFyUnpQTUpYcTAyN0VYX3Y3Y2d5QTZ6em1Kb0xIUkRkVnBJYlFhc1QwNUxB?oc=5",
@@ -351,6 +331,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "bd708a4bd5e2",
+      "title": "Åsa Dedering slutar som hälso- och sjukvårdsdirektör - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLTA4Z0NvR0Z2bThpY2dSZHdTZzVyZ1ZiZXE1cHF1bXVXS0o3U01TRkR1RkJERHJVTjYxeERqNmtwNnpweThlNGkwRVZFYldscWQwMUJUYU5qcjEzcE90S1RwTHZoUHAweW54ZlA0OU5Ea0xIaXNIeTZOOXRoTjYtbmwyVWpBZ19hejJ2WHJuVmRVN01mMHh1SngxZElQcnZHRU9rOQ?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -384,16 +374,6 @@
       }
     },
     {
-      "id": "397e78d59438",
-      "title": "Ozempic får oss att glömma hur hälsa ser ut - Timbro",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1ckUtckhnN1M4VjU3REl1U2tETm5NZ1lvN09nYXB6UzhoWjRva3BINHhQOVgxUUtBMWZabXNIUjlsNnZWcVdUUFlFbkdaVDhQOElRUENtWURCd1R4aldjWXFsNHZ3TWZYRXVaV0Rna0pGeGlxaEtzWHhR?oc=5",
-      "published": "2026-06-22T13:08:58+00:00",
-      "source": {
-        "name": "Timbro",
-        "url": "https://timbro.se"
-      }
-    },
-    {
       "id": "b9f05f98aa99",
       "title": "”Vi ska väga både hälsa och pengar” - Svenska Dagbladet",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjRjR2NzaGRwdUtOQjJvZDlpVDc1SDhJcDZ1dzFYaU9vT1NPM0tRZFoxcHlYaHZLVHJWd1UzLVhHaUFKODVMcnE4cHJYVlNVbWRXRnd3bnkta0czT0NiU3RvVndwTHR4bG8zWGhfQnJMZlJzNDNGVDU0bDRFdVVSejdaYk1VMG9sM1hj?oc=5",
@@ -401,6 +381,16 @@
       "source": {
         "name": "Svenska Dagbladet",
         "url": "https://www.svd.se"
+      }
+    },
+    {
+      "id": "397e78d59438",
+      "title": "Ozempic får oss att glömma hur hälsa ser ut - Timbro",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1ckUtckhnN1M4VjU3REl1U2tETm5NZ1lvN09nYXB6UzhoWjRva3BINHhQOVgxUUtBMWZabXNIUjlsNnZWcVdUUFlFbkdaVDhQOElRUENtWURCd1R4aldjWXFsNHZ3TWZYRXVaV0Rna0pGeGlxaEtzWHhR?oc=5",
+      "published": "2026-06-22T13:08:58+00:00",
+      "source": {
+        "name": "Timbro",
+        "url": "https://timbro.se"
       }
     },
     {
@@ -431,16 +421,6 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
-      }
-    },
-    {
-      "id": "a23a056f21f3",
-      "title": "Försäljningen av läkemedel mot obesitas fortsätter att öka - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFpuQXVYbXlCWk9BOXFOeHlJNEFIOFA1eGtSR255ZlYxOTlCNUg2OEdsUS1WX1d2bHUzTm5vSmlZOXBCc3lqZUUwYndBM0tlelpUMEpnOG5UNjZBMUd5S29sSHFIaldhY3FvRldLQkxPY1FxRy1DNXhUNHc2MDB1Ul9MNVpoOXJXNGwzV0c0bk9uRWxXcm9QeUVtbVc5S04xVGtNU2ZpeWJmeDI5RmZoXw?oc=5",
-      "published": "2026-07-09T00:47:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -1001,6 +981,26 @@
       "source": {
         "name": "Mynewsdesk",
         "url": "https://www.mynewsdesk.com"
+      }
+    },
+    {
+      "id": "f8c8511614d7",
+      "title": "Så ska du göra om du får biverkningar av medicin - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbjl3a0lwUllESzZsZjZQeXl1U1h0WVJ5MHRxckgxdWdlVUo4NW0zUndhZUJMdHJwejhMWjNyVU9fUGc3UTQzc3JXLVpPTUdmNXVSc05rRDh4U2xsZjdoMzU3LUJIYkMxYzhqQTJtY0VTY0prSzVVWG9ZWmxWTHJqbVlZQk5yVUhy?oc=5",
+      "published": "2025-10-27T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "f2764fb3b968",
+      "title": "Sol och läke­medel en under­skattad risk­kombination - Världen idag",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQblQ0bWUxOFZJdnNadDJVVjVNSkplQkJBVV9fREZfSS1iQ0hXMVVrMjZWTTl4OHdPWU9nYWpsdDB5ZXRBV0VHaFNXZ3lmanZ3WWdId3F2R1Vlclp6c012UVc2Wi1ocUlNb2dnOTV4Z0RneHVHNGh2dTR0anVSYkl0YlRncFk1SEdYYnhydkg3ZTZsTjkyT3c?oc=5",
+      "published": "2026-05-31T07:00:00+00:00",
+      "source": {
+        "name": "Världen idag",
+        "url": "https://www.varldenidag.se"
       }
     }
   ]
