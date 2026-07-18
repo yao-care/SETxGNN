@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-18T18:56:21.403128+00:00",
+  "fetched_at": "2026-07-18T20:02:29.964295+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -44,6 +44,16 @@
       }
     },
     {
+      "id": "91a43227db12",
+      "title": "Wegovy som tablett godkänd i Europa: \"regulatorisk milstolpe\" - Svensk Farmaci",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb1B5VzhldklvbXFzbWJKUjRQWG5teGJ5VmJELWxHZnlOZWFEN3IzaDFSN3oxTmdtYmVCU2hTYV9GMnBWOUtxMWpCMEpPLVdveDV5bFdFSGRUUzFpX1ZxS1JIYm9iV3JsZHpnYUhwaW9OVS0xYVR6T1pvZ2JXeWVjQVBFR1NaR0VfOHB2ZHhDaC0zeFdjRFY1OEpacmd3RzFp?oc=5",
+      "published": "2026-07-16T07:11:45+00:00",
+      "source": {
+        "name": "Svensk Farmaci",
+        "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
       "id": "f08ccd5b221a",
       "title": "\"När nya behandlingar dröjer förlorar Sverige mer än hälsa\" - Lif – de forskande läkemedelsföretagen",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNE9QcXEtQVRvYThFMlR6MDFzTmNFRmxVUW5ac2J6eHdGaGJwSk9ZNm92VU8ybUNvMFI5ZkpIc0JtODNhR1lDNjJTdURsSFdpRkhqYlAtVDFTSFctNHpPUkxMb09YY0FmcWNUQ2ZzNFN5S19YZTR0Uy1ERkkzS1lhMDlfLUs2RVRUZVJ6TkFlNnVLdzJLZ25F?oc=5",
@@ -64,16 +74,6 @@
       }
     },
     {
-      "id": "91a43227db12",
-      "title": "Wegovy som tablett godkänd i Europa: \"regulatorisk milstolpe\" - Svensk Farmaci",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb1B5VzhldklvbXFzbWJKUjRQWG5teGJ5VmJELWxHZnlOZWFEN3IzaDFSN3oxTmdtYmVCU2hTYV9GMnBWOUtxMWpCMEpPLVdveDV5bFdFSGRUUzFpX1ZxS1JIYm9iV3JsZHpnYUhwaW9OVS0xYVR6T1pvZ2JXeWVjQVBFR1NaR0VfOHB2ZHhDaC0zeFdjRFY1OEpacmd3RzFp?oc=5",
-      "published": "2026-07-16T07:11:45+00:00",
-      "source": {
-        "name": "Svensk Farmaci",
-        "url": "https://www.svenskfarmaci.se"
-      }
-    },
-    {
       "id": "af0f2d39b273",
       "title": "Om oegentlig förskrivning i årsberättelsen om läkemedel - Janusinfo.se",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWVlRaFM1RWVrejd0SkhPVmJBYVk0UmRDUWZpRTFkX3BWeEFKTjAyc3NUNURnd2MwNWM3Sm1QMGM4dUozVkU1NTVBb2ROYTBIcFZUOWt0ODgyNVkxWmNRVjZnZ0FmMi1hTks4TTRBZEJqZngwQldoRjFVemNScDRZOXBxZnZvTXJnRWhsSzlPaTcyWnN4MVBXNlBOakgzNGRRWjNDQ2dhQUp3c3Y3VW1iOEFDLTJObF9lZU5kaG53?oc=5",
@@ -81,16 +81,6 @@
       "source": {
         "name": "Janusinfo.se",
         "url": "https://janusinfo.se"
-      }
-    },
-    {
-      "id": "d7b5694679fe",
-      "title": "Bolaget som vill förlänga livet – testar redan på människor - News55",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUjdINWptTHAzQTdLQkp0VWJYUXJCbENFS0lFTUpJRW5BNHIybmVlMlkwYUtCNFZ3ZTZJMFdmZlFPUmx5ejZvcThoZVN3ZTNkek5KYVQzY3BQR3U1RU5LNDRscmJvRU55dHZpcndpU1BsT0FINFpFdDRHbUpKV1pQMU5XWDY3a05ycXA5NldKaw?oc=5",
-      "published": "2026-07-17T21:00:18+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
       }
     },
     {
@@ -144,20 +134,20 @@
       }
     },
     {
-      "id": "a04d0d139dff",
-      "title": "”Sverige behöver småskalig läkarledd sjukvård” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQnBwaS1NQ1lzSTJsVF9COTkybHByN1JadnQzMnhXOERxci1TLUVIT3RQZTZZa0JHNEUwUVlVVUVxTGthM3Y2UDBQLW5iNXIxbFFCZDVUbjFEd09WTjNhUF84N2lIMXBIenU5OVdqWWNFVk9wd1RmN1NremJLa2tsZ0NJeDN1VnZkZ2F0bnhkNkw0cXc?oc=5",
-      "published": "2026-07-14T18:30:00+00:00",
+      "id": "bb813942a15b",
+      "title": "”Låt oss inte halka efter i forskning om kvinnors hälsa” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhrYWhGNzNiU3NTNWpIUGxhcGVONEExU29xejBuUGJ1TlJIemNId0lOUHA1ZmN1SlNCWk5KT2l0Zl9QXzdFdGxMeGRPbldBb29uY2Y5S1ZyNEo5ampRQW5YVE5aUmtBcDAtc2VOczk3SDZIQ3l1cjlnaEtLU2tYNThEdnVNWXNvN3p5aTJ0TmUzdVo2RzFES1lFYVMzUUNh?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
       }
     },
     {
-      "id": "bb813942a15b",
-      "title": "”Låt oss inte halka efter i forskning om kvinnors hälsa” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhrYWhGNzNiU3NTNWpIUGxhcGVONEExU29xejBuUGJ1TlJIemNId0lOUHA1ZmN1SlNCWk5KT2l0Zl9QXzdFdGxMeGRPbldBb29uY2Y5S1ZyNEo5ampRQW5YVE5aUmtBcDAtc2VOczk3SDZIQ3l1cjlnaEtLU2tYNThEdnVNWXNvN3p5aTJ0TmUzdVo2RzFES1lFYVMzUUNh?oc=5",
-      "published": "2026-07-02T07:00:00+00:00",
+      "id": "a04d0d139dff",
+      "title": "”Sverige behöver småskalig läkarledd sjukvård” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQnBwaS1NQ1lzSTJsVF9COTkybHByN1JadnQzMnhXOERxci1TLUVIT3RQZTZZa0JHNEUwUVlVVUVxTGthM3Y2UDBQLW5iNXIxbFFCZDVUbjFEd09WTjNhUF84N2lIMXBIenU5OVdqWWNFVk9wd1RmN1NremJLa2tsZ0NJeDN1VnZkZ2F0bnhkNkw0cXc?oc=5",
+      "published": "2026-07-14T18:30:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -198,6 +188,16 @@
       "title": "2,4 miljoner tar blodtrycksmedicin – så påverkas den av värmen - News55",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTllMRXZsdGp4VkJxaDJ4T09DdGg5Rk9ZN3VtR0xxZWVMWnlpMU1xcnpuZWNiQldmVkVPQnhQMnNFLXkyY0s2MG9uQVdJNzQwdWQxQV9OaGVaREllcnp4TlczLTR0dzZYekN6S3RTVnlnRDdSdXdWeHoxTTJrLTZXSEVZSXVSbC05VjRETjVIUHpNQQ?oc=5",
       "published": "2026-07-16T16:44:57+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "d7b5694679fe",
+      "title": "Bolaget som vill förlänga livet – testar redan på människor - News55",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUjdINWptTHAzQTdLQkp0VWJYUXJCbENFS0lFTUpJRW5BNHIybmVlMlkwYUtCNFZ3ZTZJMFdmZlFPUmx5ejZvcThoZVN3ZTNkek5KYVQzY3BQR3U1RU5LNDRscmJvRU55dHZpcndpU1BsT0FINFpFdDRHbUpKV1pQMU5XWDY3a05ycXA5NldKaw?oc=5",
+      "published": "2026-07-17T21:00:18+00:00",
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
@@ -284,16 +284,6 @@
       }
     },
     {
-      "id": "f2bf78a7f617",
-      "title": "(+) Nytt fetmaläkemedel blir billigare – så funkar det - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZVM1S3N4ZmlDZ3IwMDVZMHp3WjBQWk9PM2ZzNDRidzgwY3NOTF82VG5PdzJZTmk4WElMakVtVWEtaVk4UFh1ZHZwU3VRRzVWc08yRXRCdGdTUlFiSTB6d2FCRGNHMDRaQVpCUnpXTHA2RFpZNm9aQW4zRnk1d1BXUnlxTmd5d1R0cjh5eWd5VjJHR0FB?oc=5",
-      "published": "2026-07-13T10:18:12+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "04ccb09896d2",
       "title": "WHO: Troligen dubbelt så många ebolafall - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQblhHZDQ1Rkt3TUU5d3M5dWh5SXphM2ZzdEVGNVkzRjFLbWctMElzV1FxOVBBU1hEUW14ZHdDUHdVZ3pKRTYxQXdyWDJoa1E2VDFSRHpsZEczenNRei11Y0lIanp1Z0JGaC1OWGdReVlyV1JKZU1oSERENnRsc1V4OWt6cVpMV0lOS05MUjFMcWFlTmtjZHpjeWd2STA2UQ?oc=5",
@@ -301,6 +291,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "f2bf78a7f617",
+      "title": "(+) Nytt fetmaläkemedel blir billigare – så funkar det - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZVM1S3N4ZmlDZ3IwMDVZMHp3WjBQWk9PM2ZzNDRidzgwY3NOTF82VG5PdzJZTmk4WElMakVtVWEtaVk4UFh1ZHZwU3VRRzVWc08yRXRCdGdTUlFiSTB6d2FCRGNHMDRaQVpCUnpXTHA2RFpZNm9aQW4zRnk1d1BXUnlxTmd5d1R0cjh5eWd5VjJHR0FB?oc=5",
+      "published": "2026-07-13T10:18:12+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -404,16 +404,6 @@
       }
     },
     {
-      "id": "b8d206289cac",
-      "title": "”Ingen vill ha diagnosen schizofreni för att få Wegovy” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX1o3NXZ3aHVNMjhMVmpZTnhZb1JVNlRER2tOeTRWSzMzSkhjRTJCYjE4M1JWcVIwZVl0NzNnT1ZoNHEtaU84RWI3V3plTkEyclFEc0dOOEpYNTAxTkZvaW1QcGtQN0MyUUN4T29NSkozczFIOTFSVDFXMlgxVDE0cHVMNmtCb1RLVE01cndya2d6MEpCQTN2bnAxaU1CdjQ?oc=5",
-      "published": "2026-06-23T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "b061a397e058",
       "title": "Barns hälsa ska stärkas genom uppdaterat kunskapsstöd - Via TT",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS1AxQ0Z5ekN0MlBzMVpFU2lTVjdhWmVyaTNrTXdPT1hKamZfSjVqMkg3ZUNzQnJBYWpuUGZjYVQxR0lfZEtpSE9XLWN5bmx4Rkh0aGFHZkpRS05veE1iY01NNXZrQ1B3WmNpYmpNcEJQLVc4cVdLWmFOeC1hR3ZfQzdkcURrcDF3WF9RYmxwZVVJZjlwejF5bkhDRzQtU0RZUmF3MVJoRGh4VXRLOFgwWkZ1TWhUVWJPdnI3cTBfVW8?oc=5",
@@ -421,6 +411,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "b8d206289cac",
+      "title": "”Ingen vill ha diagnosen schizofreni för att få Wegovy” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX1o3NXZ3aHVNMjhMVmpZTnhZb1JVNlRER2tOeTRWSzMzSkhjRTJCYjE4M1JWcVIwZVl0NzNnT1ZoNHEtaU84RWI3V3plTkEyclFEc0dOOEpYNTAxTkZvaW1QcGtQN0MyUUN4T29NSkozczFIOTFSVDFXMlgxVDE0cHVMNmtCb1RLVE01cndya2d6MEpCQTN2bnAxaU1CdjQ?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -464,16 +464,6 @@
       }
     },
     {
-      "id": "cee255112696",
-      "title": "49 kommuner och region eniga om nytt vårdavtal - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT25mMVNQdHZPSURsTkthb2d1QjVKY0VBMHE3MDMycVFSNkJEMmxRZ3VIbE16MEY2UmlOT21oV1BJV1dBYk5EeTY4bER3RVdxUGx6bDhYMUFLOTJCcTZ1d09HZEZ5MVN1ME9IMnhzRl82Uy05aDM4WkZyYy1IaF80S2Rzb0xXc3ZJTFB5X3hUUWZackF5VTBiRXJxV0pRS0JSejN0eWxmRQ?oc=5",
-      "published": "2026-07-12T23:50:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "2962ea49218a",
       "title": "Medicinerna du ska se upp med i värmen: ”Extra viktigt att vara uppmärksam” - Expressen",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2VVOEdhMVVUbm0wTDNLNTB3VUZYQjdrb2FScmU0amhWS1dLRm5POHRPeHVsZUJrTUNZWkNxaERrRWVMV1NhNVFKSDYxbXFjN1FDcDVKVkJLQjk3ck9icTFMNGpPYUtFVzdfQW9HRDB2cWFMcTh1VEpXMXNwdzdObkRvUFVQUHc?oc=5",
@@ -481,6 +471,16 @@
       "source": {
         "name": "Expressen",
         "url": "https://www.expressen.se"
+      }
+    },
+    {
+      "id": "cee255112696",
+      "title": "49 kommuner och region eniga om nytt vårdavtal - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT25mMVNQdHZPSURsTkthb2d1QjVKY0VBMHE3MDMycVFSNkJEMmxRZ3VIbE16MEY2UmlOT21oV1BJV1dBYk5EeTY4bER3RVdxUGx6bDhYMUFLOTJCcTZ1d09HZEZ5MVN1ME9IMnhzRl82Uy05aDM4WkZyYy1IaF80S2Rzb0xXc3ZJTFB5X3hUUWZackF5VTBiRXJxV0pRS0JSejN0eWxmRQ?oc=5",
+      "published": "2026-07-12T23:50:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
