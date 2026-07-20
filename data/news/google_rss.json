@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-20T17:56:30.099902+00:00",
+  "fetched_at": "2026-07-20T19:41:34.713795+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -94,16 +94,6 @@
       }
     },
     {
-      "id": "2e694c71cd29",
-      "title": "Pris på fetmaläkemedel sänks – \"Tråkigt att priset ska avgöra\" - News55",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRjBkX2otYkZLUWpvSjR4bVNmVnZ3QlltVVdZa2RYUS1OLUtUQlpwNFZWakFaWlJlQlBiQ1c4UG5Tb1hxemg4R3p1MDlScmZfUWtyNEYwV3VDd19WNXJBVGl2NHhBcjJlWjRxb0xTMWVJcmpxaTdJZWFDWndQOHNJRVpibktTdWhfVko2a0dXRHk?oc=5",
-      "published": "2026-07-14T19:29:20+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "2baa011870e5",
       "title": "Nya förslag ska göra det lättare att dela läkemedel mellan civil och militär sjukvård - Via TT",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeW9XVEJPenJxdTgzMzVsZUxsOUhmbzNBbDZUa29hdi05UG9kcGM1VUJtRHM4X3NOMVpnZ2h1SUtiUlV5OS1XbXFBY3pHei1QdE5PcmlPM0RtYlQ1WkhkWmtFY2hSZjBUdFZxQXc3NTJVem9sY3AwcS1yOFR2OWplQ2tMdERTWUhIOW5aejE4Q0VHUzZVVUc5RFVMSTRISk40c2E2b1lqN0ZIa3gwSGlWaDA0SGRUZllibVZpcmw0MkZkQmhkVzU3a0p3NWliSlJ1MkJaVmFWYkFKeGlvN0JsU2N4bmt5a1dKMzQ4?oc=5",
@@ -111,6 +101,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "2e694c71cd29",
+      "title": "Pris på fetmaläkemedel sänks – \"Tråkigt att priset ska avgöra\" - News55",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRjBkX2otYkZLUWpvSjR4bVNmVnZ3QlltVVdZa2RYUS1OLUtUQlpwNFZWakFaWlJlQlBiQ1c4UG5Tb1hxemg4R3p1MDlScmZfUWtyNEYwV3VDd19WNXJBVGl2NHhBcjJlWjRxb0xTMWVJcmpxaTdJZWFDWndQOHNJRVpibktTdWhfVko2a0dXRHk?oc=5",
+      "published": "2026-07-14T19:29:20+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -204,16 +204,6 @@
       }
     },
     {
-      "id": "02e7bbabe2c2",
-      "title": "2,4 miljoner tar blodtrycksmedicin – så påverkas den av värmen - News55",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTllMRXZsdGp4VkJxaDJ4T09DdGg5Rk9ZN3VtR0xxZWVMWnlpMU1xcnpuZWNiQldmVkVPQnhQMnNFLXkyY0s2MG9uQVdJNzQwdWQxQV9OaGVaREllcnp4TlczLTR0dzZYekN6S3RTVnlnRDdSdXdWeHoxTTJrLTZXSEVZSXVSbC05VjRETjVIUHpNQQ?oc=5",
-      "published": "2026-07-16T16:44:57+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "9d0d172e9682",
       "title": "Vanlig medicin kan öka risken för hjärtsjukdom - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFVGWEdzcnBlX1hlUmtNcTRKME9xM0ZKNUJsdS14UEMxTS1VSkJHLS1nTEtTb1g1MXBhMHc0MFVzMWl1M0hONTBkLXNHdXhQZFpBNjNWSE9jMXVQVWFHbzVMRkNQYV9jbF9MOUZWRm9lOU4tQmQ3OEhkaEQ4UmpNWUxPdmZHMXN4S0J3Y1Q4d3ZaQQ?oc=5",
@@ -221,6 +211,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "02e7bbabe2c2",
+      "title": "2,4 miljoner tar blodtrycksmedicin – så påverkas den av värmen - News55",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTllMRXZsdGp4VkJxaDJ4T09DdGg5Rk9ZN3VtR0xxZWVMWnlpMU1xcnpuZWNiQldmVkVPQnhQMnNFLXkyY0s2MG9uQVdJNzQwdWQxQV9OaGVaREllcnp4TlczLTR0dzZYekN6S3RTVnlnRDdSdXdWeHoxTTJrLTZXSEVZSXVSbC05VjRETjVIUHpNQQ?oc=5",
+      "published": "2026-07-16T16:44:57+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -354,16 +354,6 @@
       }
     },
     {
-      "id": "73cd79ce5d1b",
-      "title": "Nytt läkemedel ska bränna fett – utan att minska aptiten - News55",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTU5pa1dvWXEyRTRIaHZZd20yNlJyalJVNDJYV3h3cEFwTlNJcEFJanY2U0ptREU0REQ4TkhHYmlfVVFteS1aY0Q1X0lxWENINk1WOE82UWtqVnowczJuWXp3S0tMcXFVT3pYM3F2TkowbzJJQlJSdEZFTGlIWEtTaUlhVjFJNjNVR0ow?oc=5",
-      "published": "2026-07-09T15:00:00+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "cd1bf393c0ed",
       "title": "102 anslag inom medicin och hälsa från Vetenskapsrådet - Karolinska Institutet",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWVQwWF9ZVHI2UTB2MjBGTi1POEoyTENJMXVFcmNpcV91N09NLWhTRkdYZm9YanhkLTAxYjkxMFJib3liLUV4OWwyN0M4S3Y5X1N6cUljRUlUQzFLNE54MHpFNU9WQ19mWkp1RWFFdjFnR2lPTmVaemJOZWNLYXh4Z0Nn?oc=5",
@@ -371,6 +361,26 @@
       "source": {
         "name": "Karolinska Institutet",
         "url": "https://nyheter.ki.se"
+      }
+    },
+    {
+      "id": "13f5d2d164a3",
+      "title": "Flera apotek tvingas stänga i sommar - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR0J0ckFMRHZEdzBNd0Z5YmM4c2g2VmViaFNJekMyVVZ3b3V5eW9SVkZNYk12OFJRUUZvMTFZbjVjMGduTVYxM3phQnNiT2dJc29HTktqc1lia0FaSzYweEE1T0w4NC15dGxvMGJZdVZwM0x1dnVTY0tYenF6ak5QNlRzaWEyN2RHZWxMd1VfOA?oc=5",
+      "published": "2026-07-15T00:16:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "73cd79ce5d1b",
+      "title": "Nytt läkemedel ska bränna fett – utan att minska aptiten - News55",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTU5pa1dvWXEyRTRIaHZZd20yNlJyalJVNDJYV3h3cEFwTlNJcEFJanY2U0ptREU0REQ4TkhHYmlfVVFteS1aY0Q1X0lxWENINk1WOE82UWtqVnowczJuWXp3S0tMcXFVT3pYM3F2TkowbzJJQlJSdEZFTGlIWEtTaUlhVjFJNjNVR0ow?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -454,16 +464,6 @@
       }
     },
     {
-      "id": "f4ae6ed8dd9b",
-      "title": "Primärvårdspartners - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42M1hnd1QydUE1U1F5ZDlqZjlPb0JJZ2tJampnc0IxMzh0WUpNR09NVk54Si1WN1hTODVObzFqbEN3V3lzSnlWdTBwQUhqSmRxQWJ2WUFGc2VVQQ?oc=5",
-      "published": "2026-07-20T05:49:11+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "b7f2f72b7be0",
       "title": "”Att förbättra hälsa kräver mer än att utesluta sjukdom” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0pGQ3VOUlV2QUprNGNWZlpxSncwdUF1c2VlRzdRaGRqZkEwWXlLdHFrMkRaNGpzVXZoc1lpREVsR2gwa2RQNGNWUUNBenBzVC1henBYUlpaTjFhanFjNVJIaTlVV29CUnBORnIyeWd0cmd6VnJNZnBMaGtJbjBUd1VHeG13WHJzTGRHcHFiT3JrXzlTMEtvcXBGV3dGZEsx?oc=5",
@@ -494,16 +494,6 @@
       }
     },
     {
-      "id": "8ad3ab0bcf7d",
-      "title": "Fetmaläkemedel väntas bli världens mest sålda medicin 2032 - News55",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUJBOHFWd2FERXg0dGswelU2RzBHVmRreHU0Y1FUekRuWF9pLXUzb0dYTkFhWVBkSVJRendjT2lmZzZzRGQybkVHUWQ5ZTE1LXZsXy0tWXY5WWwzd2JKNVRMUDJNVzZ6SDByM3V4eHo5WnpOVnR0X2RrU0RBSndQU0lOZVhla3RJYTRRanVGdnM?oc=5",
-      "published": "2026-07-07T07:00:00+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "7d420bd903cc",
       "title": "LISTA: Läkemedlen som kan göra dig sjuk - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRFN4eVYwNFY1UU9ucEhRU2dmWGtFSzRUTHZsSUtibzlSanJZRHR1dVdHaGhFdG5yZE1ObDJRUWlXZy1uOXVpNkphMlZ0S21QaFpzTlBCQ1Q1M2J0Y0hqSXNiNW5fbzYtM0lwakJ3dlRQTG5DUWo5c2Y2VG5QU096YlMxTmQxejVyNFlv?oc=5",
@@ -514,6 +504,16 @@
       }
     },
     {
+      "id": "8ad3ab0bcf7d",
+      "title": "Fetmaläkemedel väntas bli världens mest sålda medicin 2032 - News55",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUJBOHFWd2FERXg0dGswelU2RzBHVmRreHU0Y1FUekRuWF9pLXUzb0dYTkFhWVBkSVJRendjT2lmZzZzRGQybkVHUWQ5ZTE1LXZsXy0tWXY5WWwzd2JKNVRMUDJNVzZ6SDByM3V4eHo5WnpOVnR0X2RrU0RBSndQU0lOZVhla3RJYTRRanVGdnM?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
+      }
+    },
+    {
       "id": "46ea837f5393",
       "title": "Finlands nya FinTrials-modell försnabbar de kliniska prövningarna med läkemedel och medicintekniska produkter - Valtioneuvosto",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzcxS0ZmaFJXMXVBa1RRc3NTclZXZ1U0dEVIZGxON09Wb0hPcnJBeEZZYmZyT0x4eEJwaVQtTHJKdnZPVHczRkhKeElST18zalVpal9WNWlSRE90c3F1M2ZXd255RGxvcjRkaHNpOXJhT2RuVFZ6dGNZcVhaRGJoZ21ITVdIQTZmZzUtQzVBT244bVhGeGhWSkVDdlBRS1pmZjBEb3p1VVlTSURoRnFXVy1wTE1pZXpUeVJSRGZGM293UmNCaXpHcl9ITXc0eWFoYzRfQkNKa0JNV2ZNRjhyYm53?oc=5",
@@ -521,6 +521,16 @@
       "source": {
         "name": "Valtioneuvosto",
         "url": "https://valtioneuvosto.fi"
+      }
+    },
+    {
+      "id": "f4ae6ed8dd9b",
+      "title": "Primärvårdspartners - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42M1hnd1QydUE1U1F5ZDlqZjlPb0JJZ2tJampnc0IxMzh0WUpNR09NVk54Si1WN1hTODVObzFqbEN3V3lzSnlWdTBwQUhqSmRxQWJ2WUFGc2VVQQ?oc=5",
+      "published": "2026-07-20T05:49:11+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -644,16 +654,6 @@
       }
     },
     {
-      "id": "e7647ec6bc6e",
-      "title": "DEBATT: Replik: Säkra patienternas tillgång till läkemedel - Dagens industri",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMmJqOVVhNWFmNDN0cVdPTWVMczNKVFRMbFpvVnBlVUlnLUdEVXhHVGdkRHN5TWJXQ3J0c29kQXhTdkRIOUVXUC1oLUtpb3pVTFZUMHpobXg5NllYc0JPcmFXMGZORlVQZGxocjc1eWJ0dFFQX08tRUZNNGsyYmotQw?oc=5",
-      "published": "2026-06-24T07:00:00+00:00",
-      "source": {
-        "name": "Dagens industri",
-        "url": "https://www.di.se"
-      }
-    },
-    {
       "id": "2c1e067c2bb8",
       "title": "VGR säger upp avtal med vårdcentral i Kållered - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNjFDUEVwTnN6U2JyR0JoQzNQTi1ENVk0c0dJdm4wbFljeDhnZVRBLWx2anM2SUNCZXIwa2Z5QnpaVUJ1VnhHVlYxMjd0aEdrcXFuSFhaOXRhbXU5Szc2NFBoNUdrTDVzVWpHeVkwUHRyMmFtd3dwaGRXZmlrcjdSTlJjOTBic2Z6WGpXTl9OSmZKWDJFZ2hXemg3cnFRaDdsaUg0?oc=5",
@@ -661,6 +661,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "e7647ec6bc6e",
+      "title": "DEBATT: Replik: Säkra patienternas tillgång till läkemedel - Dagens industri",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMmJqOVVhNWFmNDN0cVdPTWVMczNKVFRMbFpvVnBlVUlnLUdEVXhHVGdkRHN5TWJXQ3J0c29kQXhTdkRIOUVXUC1oLUtpb3pVTFZUMHpobXg5NllYc0JPcmFXMGZORlVQZGxocjc1eWJ0dFFQX08tRUZNNGsyYmotQw?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "source": {
+        "name": "Dagens industri",
+        "url": "https://www.di.se"
       }
     },
     {
@@ -721,16 +731,6 @@
       "source": {
         "name": "ETC.se",
         "url": "https://www.etc.se"
-      }
-    },
-    {
-      "id": "13f5d2d164a3",
-      "title": "Flera apotek tvingas stänga i sommar - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR0J0ckFMRHZEdzBNd0Z5YmM4c2g2VmViaFNJekMyVVZ3b3V5eW9SVkZNYk12OFJRUUZvMTFZbjVjMGduTVYxM3phQnNiT2dJc29HTktqc1lia0FaSzYweEE1T0w4NC15dGxvMGJZdVZwM0x1dnVTY0tYenF6ak5QNlRzaWEyN2RHZWxMd1VfOA?oc=5",
-      "published": "2026-07-15T00:16:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
