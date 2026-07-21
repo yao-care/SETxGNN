@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-21T22:51:02.331017+00:00",
+  "fetched_at": "2026-07-21T23:52:54.903970+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,16 +24,6 @@
       }
     },
     {
-      "id": "52bfc15747da",
-      "title": "Novo Nordisk stämmer konkurrent - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQckdJZ3dweXk3QzNndWFxZWI4NFpOQ2FacE9qc0I2Z19vWjd5ZFdDOFhkbXhrcHFJQS1LRU9xM2hMWC1lNHZfRmdJSExQUlBVay1MLTlONUtJUjd1bk9tejZIYkRLbk85QmFIek92Z1ZYN1hyckZadUFrajhpcUR3OWFidXI4aldTcV9xRg?oc=5",
-      "published": "2026-07-21T04:03:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "5b65b87061a3",
       "title": "(+) Då kan dina läkemedel bli skadliga – i värmen - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNEVUY0Q2RnA3OEs3ektLS1lySTVvQzVCQnp3MFpxM0ZQekFnbzdrU2VYSFY5eXJTcWVxZ0NwUktyRGJxWVoySnYzWW9QQ0NwcW1BUnhpbHV1Zjd5TTNGSWVtRFVRMW5YTHE1VnAtcTh5ektvcV9mQW93ZTFNR3NPWkx4WV9IZ1FmOW9ZOWhR?oc=5",
@@ -41,6 +31,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "52bfc15747da",
+      "title": "Novo Nordisk stämmer konkurrent - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQckdJZ3dweXk3QzNndWFxZWI4NFpOQ2FacE9qc0I2Z19vWjd5ZFdDOFhkbXhrcHFJQS1LRU9xM2hMWC1lNHZfRmdJSExQUlBVay1MLTlONUtJUjd1bk9tejZIYkRLbk85QmFIek92Z1ZYN1hyckZadUFrajhpcUR3OWFidXI4aldTcV9xRg?oc=5",
+      "published": "2026-07-21T04:03:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -264,16 +264,6 @@
       }
     },
     {
-      "id": "0a37e457c688",
-      "title": "Personalen talar ut – risk för barns hälsa: ”Ingen lyssnade” - Borås Tidning",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGpVeFVKT3dBTlFyRE5fSmhGUHpXM0ZJOUQyVzFFSnN4OXE1UzNuaE9neFVGTkNmYjJHYVhURkE1aFNMdFJ4c3lsS2VjbDNEU2k3X0VxeU1DdzM0NWhSRllsa2Fhak1uMHNhSEhYZVB5SkRxUm11aG5ZT2VwYUVYQXpfd1NTc3BwemYyVDZSaEdEVlVjQWpFR2p3?oc=5",
-      "published": "2026-06-24T07:00:00+00:00",
-      "source": {
-        "name": "Borås Tidning",
-        "url": "https://www.bt.se"
-      }
-    },
-    {
       "id": "0cb3d64286da",
       "title": "TLV: Varje skattekrona ska ge mesta möjliga hälsa - Svenska Dagbladet",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjRjR2NzaGRwdUtOQjJvZDlpVDc1SDhJcDZ1dzFYaU9vT1NPM0tRZFoxcHlYaHZLVHJWd1UzLVhHaUFKODVMcnE4cHJYVlNVbWRXRnd3bnkta0czT0NiU3RvVndwTHR4bG8zWGhfQnJMZlJzNDNGVDU0bDRFdVVSejdaYk1VMG9sM1hj?oc=5",
@@ -281,6 +271,16 @@
       "source": {
         "name": "Svenska Dagbladet",
         "url": "https://www.svd.se"
+      }
+    },
+    {
+      "id": "0a37e457c688",
+      "title": "Personalen talar ut – risk för barns hälsa: ”Ingen lyssnade” - Borås Tidning",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGpVeFVKT3dBTlFyRE5fSmhGUHpXM0ZJOUQyVzFFSnN4OXE1UzNuaE9neFVGTkNmYjJHYVhURkE1aFNMdFJ4c3lsS2VjbDNEU2k3X0VxeU1DdzM0NWhSRllsa2Fhak1uMHNhSEhYZVB5SkRxUm11aG5ZT2VwYUVYQXpfd1NTc3BwemYyVDZSaEdEVlVjQWpFR2p3?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "source": {
+        "name": "Borås Tidning",
+        "url": "https://www.bt.se"
       }
     },
     {
@@ -334,16 +334,6 @@
       }
     },
     {
-      "id": "0b773020e0e2",
-      "title": "130 svenska miljoner till global hälsa - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeXk5a1dPUXlVVGxLMmRmM0drcG5SWENXNC1GN180Y3V2UDA2M2VJckp6ck5fT1N2emQ0V2JjS3FFbEFJbG93bnYyT0Q1OGstZTJqalJRT0pGRWRmSi05UVhZbk0zNk5ZdVQzS3pyem5RelhJSDdZakpwS0JQdWpUQk1xeEpvSDFWNjk4cmxXOGVwLUJhZDh1Uw?oc=5",
-      "published": "2026-06-25T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "92331e836812",
       "title": "Hälso- och sjukvård viktigaste frågan – kan avgöra valet 2026 - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYXl0ZlBDV0wzOVRNdER0T3lFMEtCX0lKOEgxN2wycHFTTU1IeFg5X1ltRmRfblUwaTFCcmF3QlVIak9EYWtfbmxvMnZVZGhfVjFCY1dDSklLbmRiMUNLRmRLcEMwVk4xYS1DOWpQLXBzekhtQUgwbEc3cl9NY3liM29vR2VnZUtiTXdSM1JuZldtel9NLVdSaFJtSERsSjkt?oc=5",
@@ -351,6 +341,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "0b773020e0e2",
+      "title": "130 svenska miljoner till global hälsa - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeXk5a1dPUXlVVGxLMmRmM0drcG5SWENXNC1GN180Y3V2UDA2M2VJckp6ck5fT1N2emQ0V2JjS3FFbEFJbG93bnYyT0Q1OGstZTJqalJRT0pGRWRmSi05UVhZbk0zNk5ZdVQzS3pyem5RelhJSDdZakpwS0JQdWpUQk1xeEpvSDFWNjk4cmxXOGVwLUJhZDh1Uw?oc=5",
+      "published": "2026-06-25T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -374,16 +374,6 @@
       }
     },
     {
-      "id": "02e7bbabe2c2",
-      "title": "2,4 miljoner tar blodtrycksmedicin – så påverkas den av värmen - News55",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTllMRXZsdGp4VkJxaDJ4T09DdGg5Rk9ZN3VtR0xxZWVMWnlpMU1xcnpuZWNiQldmVkVPQnhQMnNFLXkyY0s2MG9uQVdJNzQwdWQxQV9OaGVaREllcnp4TlczLTR0dzZYekN6S3RTVnlnRDdSdXdWeHoxTTJrLTZXSEVZSXVSbC05VjRETjVIUHpNQQ?oc=5",
-      "published": "2026-07-16T16:44:57+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "55ca37f9cfa5",
       "title": "Forskare försvarar alzheimer­läkemedel efter hårda kritiken - Forskning & Framsteg",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTHQ1VWVlX3h5X1l0a2lDazlHMWltWUxrTnY5a2hKQy1NTl9rRjlaSGVieUl4OFVCN2huUEYxbEZKLWdFemRWWXpDaENxZEYtT0JKUU9abDdwd3psRkpPMnBUWGR6bGtRVGpWek9uWnZUNl9IR2V4VDVvaWlnaGZhcGpvTQ?oc=5",
@@ -391,6 +381,16 @@
       "source": {
         "name": "Forskning & Framsteg",
         "url": "https://fof.se"
+      }
+    },
+    {
+      "id": "02e7bbabe2c2",
+      "title": "2,4 miljoner tar blodtrycksmedicin – så påverkas den av värmen - News55",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTllMRXZsdGp4VkJxaDJ4T09DdGg5Rk9ZN3VtR0xxZWVMWnlpMU1xcnpuZWNiQldmVkVPQnhQMnNFLXkyY0s2MG9uQVdJNzQwdWQxQV9OaGVaREllcnp4TlczLTR0dzZYekN6S3RTVnlnRDdSdXdWeHoxTTJrLTZXSEVZSXVSbC05VjRETjVIUHpNQQ?oc=5",
+      "published": "2026-07-16T16:44:57+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -744,16 +744,6 @@
       }
     },
     {
-      "id": "13f5d2d164a3",
-      "title": "Flera apotek tvingas stänga i sommar - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR0J0ckFMRHZEdzBNd0Z5YmM4c2g2VmViaFNJekMyVVZ3b3V5eW9SVkZNYk12OFJRUUZvMTFZbjVjMGduTVYxM3phQnNiT2dJc29HTktqc1lia0FaSzYweEE1T0w4NC15dGxvMGJZdVZwM0x1dnVTY0tYenF6ak5QNlRzaWEyN2RHZWxMd1VfOA?oc=5",
-      "published": "2026-07-15T00:16:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "3974a05d98a8",
       "title": "Läkemedelsverket redovisar framsteg inom psykisk hälsa och suicidprevention - Via TT",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRklQXzNKS3BMUUNIdi1wcmh3Z3lzSGZEWjEzX2o3OE5vUXl1WTZ1bkZCTVFzOUEtZkNZLWpZaGRINEJ5YWtvbDJNX0hZR080bENxbWFYNFV6aWJxT0tGSV9yNXpXbG8yRldtdVotRXZrLTBJRlAwXzZuNHF6X1djZ3REYU9TZDVmejZ2MmZKbEpwYVZwOVJkNXhEX0NBUDlXa2pVb2pyUWFqTXE0TkctY0dxTGpwZHFhNVRrYzlTbml6UEN6NG1QTEt1eW1FOXRSbXlpZkVObEF5RWJaR3c?oc=5",
@@ -774,13 +764,13 @@
       }
     },
     {
-      "id": "1beb550a6b48",
-      "title": "Sol och läkemedel en underskattad riskkombination - Corren",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX2tfZl8tQzhwV0pOVUIxWTFWYXdrMmVIdUZXcmtXRy1UNnU0M2htX3BTNnVwUGNWS18xSXB2ZkxYTW9ndFpPTUl2VHl6ejdrUjYzRDRURGRxU0pfdWk3RzJaWmg0V0pSN3p0NDhKQlZXRGtuZ1ZhdmloZkJNWnZieHI5M1VjOGZYa2x1ZS1DdFgwM3NIY051elFQdGlweFZSWWlXaEhsdHo4ZmdQLWM4?oc=5",
-      "published": "2026-05-23T07:00:00+00:00",
+      "id": "13f5d2d164a3",
+      "title": "Flera apotek tvingas stänga i sommar - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR0J0ckFMRHZEdzBNd0Z5YmM4c2g2VmViaFNJekMyVVZ3b3V5eW9SVkZNYk12OFJRUUZvMTFZbjVjMGduTVYxM3phQnNiT2dJc29HTktqc1lia0FaSzYweEE1T0w4NC15dGxvMGJZdVZwM0x1dnVTY0tYenF6ak5QNlRzaWEyN2RHZWxMd1VfOA?oc=5",
+      "published": "2026-07-15T00:16:00+00:00",
       "source": {
-        "name": "Corren",
-        "url": "https://www.corren.se"
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -791,6 +781,16 @@
       "source": {
         "name": "e55.se",
         "url": "https://www.e55.se"
+      }
+    },
+    {
+      "id": "1beb550a6b48",
+      "title": "Sol och läkemedel en underskattad riskkombination - Corren",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX2tfZl8tQzhwV0pOVUIxWTFWYXdrMmVIdUZXcmtXRy1UNnU0M2htX3BTNnVwUGNWS18xSXB2ZkxYTW9ndFpPTUl2VHl6ejdrUjYzRDRURGRxU0pfdWk3RzJaWmg0V0pSN3p0NDhKQlZXRGtuZ1ZhdmloZkJNWnZieHI5M1VjOGZYa2x1ZS1DdFgwM3NIY051elFQdGlweFZSWWlXaEhsdHo4ZmdQLWM4?oc=5",
+      "published": "2026-05-23T07:00:00+00:00",
+      "source": {
+        "name": "Corren",
+        "url": "https://www.corren.se"
       }
     },
     {
@@ -954,16 +954,6 @@
       }
     },
     {
-      "id": "38fbec50254c",
-      "title": "Ny studie: Hur påverkar adhd-läkemedel patienter med beroende? - NewsMachine AB",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWhsZzEydkZwWVJoX3NxWHdYZVNZQkJmeVhFbXk0WXV6Ulg2aW5Hc09oak9VR3RKSHc4MXhPMkdhQWdvMjJ3OW1QakZUbEVfczhIMTVhbl8ySEw3YkE1dzZsaDFUd245cm5rNGZiR0ZfQ1ByTHB2TTFxZnJVdTEyVl95cHhPUUc2dGlTanZCRVFjY2F0RHRfalJ2UWhudEExTWs0MXlLZVVBNi1sb2tndndxZnM?oc=5",
-      "published": "2025-12-18T08:00:00+00:00",
-      "source": {
-        "name": "NewsMachine AB",
-        "url": "https://press.newsmachine.com"
-      }
-    },
-    {
       "id": "f8f278f26a78",
       "title": "Staten föreslås ta kontroll över läkemedel i kris och krig - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWlWNS02SlRYaldmQjcwRXQyQUtrbXNVS0VWTVV4Q1U2QUhMM3RGbFEwSlgtVG5mMG9zazBmZWpmRE16UktRcTBscWV2cThOaVo4alFSY0NEUmZvTTk3TnBIM1hBaXlTdmpaQllacmJaeXM0OW9aQ3FEVDNPQXNHeHMzSUp4TFRzVkFiMVhTSkc4dWlfQjVKWlZoX0piMHdlRXRhcU4wbXpzdEhJZFVfMA?oc=5",
@@ -971,6 +961,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "38fbec50254c",
+      "title": "Ny studie: Hur påverkar adhd-läkemedel patienter med beroende? - NewsMachine AB",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWhsZzEydkZwWVJoX3NxWHdYZVNZQkJmeVhFbXk0WXV6Ulg2aW5Hc09oak9VR3RKSHc4MXhPMkdhQWdvMjJ3OW1QakZUbEVfczhIMTVhbl8ySEw3YkE1dzZsaDFUd245cm5rNGZiR0ZfQ1ByTHB2TTFxZnJVdTEyVl95cHhPUUc2dGlTanZCRVFjY2F0RHRfalJ2UWhudEExTWs0MXlLZVVBNi1sb2tndndxZnM?oc=5",
+      "published": "2025-12-18T08:00:00+00:00",
+      "source": {
+        "name": "NewsMachine AB",
+        "url": "https://press.newsmachine.com"
       }
     },
     {
