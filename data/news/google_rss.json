@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-07-21T02:11:47.882686+00:00",
+  "fetched_at": "2026-07-21T05:45:21.622813+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
-    {
-      "id": "fa45d422bccb",
-      "title": "Nytt hormonfritt läkemedel mot vallningar finns nu i Sverige - e55.se",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUXFURDg4VUs0SGVWN2dmMzlsaTd2RjJwQmJIcmhWaTVyZDRMOGpha29yU2FhMllDbm50QUR3Q1l6dHdkRDVxbXlPaHlGaFBEbVJzdlI4LWhFSHlBdHBRdS1ZemdiR3FCZjhfa20xbDJfVW44NkNWLWk2Y3FnTFg0TVFSUWN1QTVvaGJ6YzI2bw?oc=5",
-      "published": "2026-07-20T07:05:01+00:00",
-      "source": {
-        "name": "e55.se",
-        "url": "https://www.e55.se"
-      }
-    },
     {
       "id": "37ffb7085892",
       "title": "Under sommar och semester: Viktiga råd om vård, läkemedel och hälsa - Region Stockholm",
@@ -21,6 +11,16 @@
       "source": {
         "name": "Region Stockholm",
         "url": "https://www.regionstockholm.se"
+      }
+    },
+    {
+      "id": "fa45d422bccb",
+      "title": "Nytt hormonfritt läkemedel mot vallningar finns nu i Sverige - e55.se",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUXFURDg4VUs0SGVWN2dmMzlsaTd2RjJwQmJIcmhWaTVyZDRMOGpha29yU2FhMllDbm50QUR3Q1l6dHdkRDVxbXlPaHlGaFBEbVJzdlI4LWhFSHlBdHBRdS1ZemdiR3FCZjhfa20xbDJfVW44NkNWLWk2Y3FnTFg0TVFSUWN1QTVvaGJ6YzI2bw?oc=5",
+      "published": "2026-07-20T07:05:01+00:00",
+      "source": {
+        "name": "e55.se",
+        "url": "https://www.e55.se"
       }
     },
     {
@@ -54,16 +54,6 @@
       }
     },
     {
-      "id": "91a43227db12",
-      "title": "Wegovy som tablett godkänd i Europa: \"regulatorisk milstolpe\" - Svensk Farmaci",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb1B5VzhldklvbXFzbWJKUjRQWG5teGJ5VmJELWxHZnlOZWFEN3IzaDFSN3oxTmdtYmVCU2hTYV9GMnBWOUtxMWpCMEpPLVdveDV5bFdFSGRUUzFpX1ZxS1JIYm9iV3JsZHpnYUhwaW9OVS0xYVR6T1pvZ2JXeWVjQVBFR1NaR0VfOHB2ZHhDaC0zeFdjRFY1OEpacmd3RzFp?oc=5",
-      "published": "2026-07-16T07:11:45+00:00",
-      "source": {
-        "name": "Svensk Farmaci",
-        "url": "https://www.svenskfarmaci.se"
-      }
-    },
-    {
       "id": "74f6f2c1decb",
       "title": "Valproat – ingen fastställd länk mellan pappans medicinering och barnets hälsa - LäkemedelsVärlden",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnhVMEV4S3JTdHBvYnkzTjYzQVdBUlI3UFlBUEFlei1yV0tkSVFVQmRvVkF0WHNnczFZbkpEb1lleWxPOUYzWVprUTRTYmRucTh3UmxlREIwemw1TnRJaXFWN3lHS1EtOVNJbU5PQmdfUGN6WDJ6TEFRaERNOXltQzZfWDN3bmx2RjlXT2VibEU3UURwUzB1QmRReUtwY1drQnYw?oc=5",
@@ -71,6 +61,16 @@
       "source": {
         "name": "LäkemedelsVärlden",
         "url": "https://www.lakemedelsvarlden.se"
+      }
+    },
+    {
+      "id": "91a43227db12",
+      "title": "Wegovy som tablett godkänd i Europa: \"regulatorisk milstolpe\" - Svensk Farmaci",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb1B5VzhldklvbXFzbWJKUjRQWG5teGJ5VmJELWxHZnlOZWFEN3IzaDFSN3oxTmdtYmVCU2hTYV9GMnBWOUtxMWpCMEpPLVdveDV5bFdFSGRUUzFpX1ZxS1JIYm9iV3JsZHpnYUhwaW9OVS0xYVR6T1pvZ2JXeWVjQVBFR1NaR0VfOHB2ZHhDaC0zeFdjRFY1OEpacmd3RzFp?oc=5",
+      "published": "2026-07-16T07:11:45+00:00",
+      "source": {
+        "name": "Svensk Farmaci",
+        "url": "https://www.svenskfarmaci.se"
       }
     },
     {
@@ -111,16 +111,6 @@
       "source": {
         "name": "Forskning.se",
         "url": "https://forskning.se"
-      }
-    },
-    {
-      "id": "2e694c71cd29",
-      "title": "Pris på fetmaläkemedel sänks – \"Tråkigt att priset ska avgöra\" - News55",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRjBkX2otYkZLUWpvSjR4bVNmVnZ3QlltVVdZa2RYUS1OLUtUQlpwNFZWakFaWlJlQlBiQ1c4UG5Tb1hxemg4R3p1MDlScmZfUWtyNEYwV3VDd19WNXJBVGl2NHhBcjJlWjRxb0xTMWVJcmpxaTdJZWFDWndQOHNJRVpibktTdWhfVko2a0dXRHk?oc=5",
-      "published": "2026-07-14T19:29:20+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
       }
     },
     {
@@ -184,6 +174,16 @@
       }
     },
     {
+      "id": "839f300c9a07",
+      "title": "\"Barn och ungdomar ska få bästa möjliga läkemedelsbehandling\" - Svensk Farmaci",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXVaal9CUXh5MGVMOUJZbnBSY3dvSFVoMG1nVTBieDNtUkxKOXBpQTh6aWYwem5TRnJ5Q0JTR2thX3hLdUZ2a1RZRmw5N1AtSFpWQmNvN3B2eFRabGZMTk1fb0xscTl3Rk51U1JKdmFyUnpQTUpYcTAyN0VYX3Y3Y2d5QTZ6em1Kb0xIUkRkVnBJYlFhc1QwNUxB?oc=5",
+      "published": "2026-04-21T07:00:00+00:00",
+      "source": {
+        "name": "Svensk Farmaci",
+        "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
       "id": "6dba28920c16",
       "title": "Hälsa Hemma i konkurs – deadline i juli för anbud på tillgångar - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmE0dHZKdklMS2dDeE1QdVctYTkzZGZubHFmMWZMY09LeERGNEJ5Y2s3ZXFkcTJTVXZ3OHU2YlRnU3RrcFpPV2dlcGpsZmFIVFBjeFgwWGtiWHpmODZyVDJLQlU5Zm00TDdYc0h3dXhJYUZua3VPNERSWXg5VnRTX0NZcW5xbUFUMkhkb1FlS1dDelZEaTdpYXc3QzJtbnNXSDA5QVd1TlFaa1JzTjZjQjdPNkFrNVpGU1NaZE5DUVA?oc=5",
@@ -194,13 +194,13 @@
       }
     },
     {
-      "id": "839f300c9a07",
-      "title": "\"Barn och ungdomar ska få bästa möjliga läkemedelsbehandling\" - Svensk Farmaci",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXVaal9CUXh5MGVMOUJZbnBSY3dvSFVoMG1nVTBieDNtUkxKOXBpQTh6aWYwem5TRnJ5Q0JTR2thX3hLdUZ2a1RZRmw5N1AtSFpWQmNvN3B2eFRabGZMTk1fb0xscTl3Rk51U1JKdmFyUnpQTUpYcTAyN0VYX3Y3Y2d5QTZ6em1Kb0xIUkRkVnBJYlFhc1QwNUxB?oc=5",
-      "published": "2026-04-21T07:00:00+00:00",
+      "id": "2e694c71cd29",
+      "title": "Pris på fetmaläkemedel sänks – \"Tråkigt att priset ska avgöra\" - News55",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRjBkX2otYkZLUWpvSjR4bVNmVnZ3QlltVVdZa2RYUS1OLUtUQlpwNFZWakFaWlJlQlBiQ1c4UG5Tb1hxemg4R3p1MDlScmZfUWtyNEYwV3VDd19WNXJBVGl2NHhBcjJlWjRxb0xTMWVJcmpxaTdJZWFDWndQOHNJRVpibktTdWhfVko2a0dXRHk?oc=5",
+      "published": "2026-07-14T19:29:20+00:00",
       "source": {
-        "name": "Svensk Farmaci",
-        "url": "https://www.svenskfarmaci.se"
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -224,16 +224,6 @@
       }
     },
     {
-      "id": "1b298ae0014e",
-      "title": "Bebis dog – sjukhus anmäler ”birth center” till Ivo - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMndCYU9ZQ3hqTjRjcVgwU3BWanVxLVZNbGQ3a0xKOWN6VkZ5RWZrbG5COWdJSHpudmRyRGZxLUUyTWMzaEs5VDVVaXZYQ0tWbVItcTFkNXhaWVRKak9OVG05dEVxbmVKa2xOaExNUV9VT0VsSmpzSHoxbFJxSENHR2VNeEt6YW95M05GYVFXM0d1MWIxbXJvNnhtQi05Qk5GcXZCemRORkp0T1k?oc=5",
-      "published": "2026-07-20T00:40:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "f1e4ba8c4b23",
       "title": "Rätt läkemedel förbättrar hälsa och sänker kostnader - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTTduS3JKQmtCdk9Fa1hrbWx4V2xQRmdyZ01rRzZtZkc3cWt6Z3VBdlo1OUNpcXpOZERaMTctc1ctSzVPSldJQjB2QlhOT2MteFZTTS1uUE9MX3lfcDJ6bUtZYUpDUTFybHZnTE92c0E4eUo5YUQ3U2hsZktxSHJtNEM5QnJXX0VCRFBkMzNBRkFnd3Nnc1prdg?oc=5",
@@ -241,6 +231,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "1b298ae0014e",
+      "title": "Bebis dog – sjukhus anmäler ”birth center” till Ivo - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMndCYU9ZQ3hqTjRjcVgwU3BWanVxLVZNbGQ3a0xKOWN6VkZ5RWZrbG5COWdJSHpudmRyRGZxLUUyTWMzaEs5VDVVaXZYQ0tWbVItcTFkNXhaWVRKak9OVG05dEVxbmVKa2xOaExNUV9VT0VsSmpzSHoxbFJxSENHR2VNeEt6YW95M05GYVFXM0d1MWIxbXJvNnhtQi05Qk5GcXZCemRORkp0T1k?oc=5",
+      "published": "2026-07-20T00:40:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -254,16 +254,6 @@
       }
     },
     {
-      "id": "02e7bbabe2c2",
-      "title": "2,4 miljoner tar blodtrycksmedicin – så påverkas den av värmen - News55",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTllMRXZsdGp4VkJxaDJ4T09DdGg5Rk9ZN3VtR0xxZWVMWnlpMU1xcnpuZWNiQldmVkVPQnhQMnNFLXkyY0s2MG9uQVdJNzQwdWQxQV9OaGVaREllcnp4TlczLTR0dzZYekN6S3RTVnlnRDdSdXdWeHoxTTJrLTZXSEVZSXVSbC05VjRETjVIUHpNQQ?oc=5",
-      "published": "2026-07-16T16:44:57+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "0a37e457c688",
       "title": "Personalen talar ut – risk för barns hälsa: ”Ingen lyssnade” - Borås Tidning",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGpVeFVKT3dBTlFyRE5fSmhGUHpXM0ZJOUQyVzFFSnN4OXE1UzNuaE9neFVGTkNmYjJHYVhURkE1aFNMdFJ4c3lsS2VjbDNEU2k3X0VxeU1DdzM0NWhSRllsa2Fhak1uMHNhSEhYZVB5SkRxUm11aG5ZT2VwYUVYQXpfd1NTc3BwemYyVDZSaEdEVlVjQWpFR2p3?oc=5",
@@ -271,6 +261,16 @@
       "source": {
         "name": "Borås Tidning",
         "url": "https://www.bt.se"
+      }
+    },
+    {
+      "id": "02e7bbabe2c2",
+      "title": "2,4 miljoner tar blodtrycksmedicin – så påverkas den av värmen - News55",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTllMRXZsdGp4VkJxaDJ4T09DdGg5Rk9ZN3VtR0xxZWVMWnlpMU1xcnpuZWNiQldmVkVPQnhQMnNFLXkyY0s2MG9uQVdJNzQwdWQxQV9OaGVaREllcnp4TlczLTR0dzZYekN6S3RTVnlnRDdSdXdWeHoxTTJrLTZXSEVZSXVSbC05VjRETjVIUHpNQQ?oc=5",
+      "published": "2026-07-16T16:44:57+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -334,16 +334,6 @@
       }
     },
     {
-      "id": "87ca0c624148",
-      "title": "Läkemedel: Oro för biverkningar – expertens råd - News55",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtTXVudmFfaFJld0YtMFRQbTNjSFljeU5GdGlQdTlIYk9iS3RjY1RnVHI1R0xldG9fTjRHa05qbFdxc0xlX3o5U21TRkdCenhiYjl5S09wdUFpVk1Kcm83MnFzb0U0eTZxX0xzSEY4cGs1bFpqMHVzdTVyM1pHdw?oc=5",
-      "published": "2026-07-02T07:00:00+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "b061a397e058",
       "title": "Barns hälsa ska stärkas genom uppdaterat kunskapsstöd - Via TT",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS1AxQ0Z5ekN0MlBzMVpFU2lTVjdhWmVyaTNrTXdPT1hKamZfSjVqMkg3ZUNzQnJBYWpuUGZjYVQxR0lfZEtpSE9XLWN5bmx4Rkh0aGFHZkpRS05veE1iY01NNXZrQ1B3WmNpYmpNcEJQLVc4cVdLWmFOeC1hR3ZfQzdkcURrcDF3WF9RYmxwZVVJZjlwejF5bkhDRzQtU0RZUmF3MVJoRGh4VXRLOFgwWkZ1TWhUVWJPdnI3cTBfVW8?oc=5",
@@ -351,6 +341,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "87ca0c624148",
+      "title": "Läkemedel: Oro för biverkningar – expertens råd - News55",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtTXVudmFfaFJld0YtMFRQbTNjSFljeU5GdGlQdTlIYk9iS3RjY1RnVHI1R0xldG9fTjRHa05qbFdxc0xlX3o5U21TRkdCenhiYjl5S09wdUFpVk1Kcm83MnFzb0U0eTZxX0xzSEY4cGs1bFpqMHVzdTVyM1pHdw?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -514,16 +514,6 @@
       }
     },
     {
-      "id": "8ad3ab0bcf7d",
-      "title": "Fetmaläkemedel väntas bli världens mest sålda medicin 2032 - News55",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUJBOHFWd2FERXg0dGswelU2RzBHVmRreHU0Y1FUekRuWF9pLXUzb0dYTkFhWVBkSVJRendjT2lmZzZzRGQybkVHUWQ5ZTE1LXZsXy0tWXY5WWwzd2JKNVRMUDJNVzZ6SDByM3V4eHo5WnpOVnR0X2RrU0RBSndQU0lOZVhla3RJYTRRanVGdnM?oc=5",
-      "published": "2026-07-07T07:00:00+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "46ea837f5393",
       "title": "Finlands nya FinTrials-modell försnabbar de kliniska prövningarna med läkemedel och medicintekniska produkter - Valtioneuvosto",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzcxS0ZmaFJXMXVBa1RRc3NTclZXZ1U0dEVIZGxON09Wb0hPcnJBeEZZYmZyT0x4eEJwaVQtTHJKdnZPVHczRkhKeElST18zalVpal9WNWlSRE90c3F1M2ZXd255RGxvcjRkaHNpOXJhT2RuVFZ6dGNZcVhaRGJoZ21ITVdIQTZmZzUtQzVBT244bVhGeGhWSkVDdlBRS1pmZjBEb3p1VVlTSURoRnFXVy1wTE1pZXpUeVJSRGZGM293UmNCaXpHcl9ITXc0eWFoYzRfQkNKa0JNV2ZNRjhyYm53?oc=5",
@@ -534,6 +524,16 @@
       }
     },
     {
+      "id": "8ad3ab0bcf7d",
+      "title": "Fetmaläkemedel väntas bli världens mest sålda medicin 2032 - News55",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUJBOHFWd2FERXg0dGswelU2RzBHVmRreHU0Y1FUekRuWF9pLXUzb0dYTkFhWVBkSVJRendjT2lmZzZzRGQybkVHUWQ5ZTE1LXZsXy0tWXY5WWwzd2JKNVRMUDJNVzZ6SDByM3V4eHo5WnpOVnR0X2RrU0RBSndQU0lOZVhla3RJYTRRanVGdnM?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
+      }
+    },
+    {
       "id": "99feec2fd948",
       "title": "Lex Maria: Läkemedel förväxlades vid smärta i ryggen - Mynewsdesk",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORkRRVWpXWG5lTGNKOUZkUUpJQ2J6TDBsc0FNRXZvc1ZYZE5uUFVzTXB3RHd6TnNyMERBcGRMOVJvUWxJXzFYR29oN0ZuYVhZVV9FRjFxWXFKNU1OdWg2NTBobHdIVkVUX0xDUUJ1RUFMNmxSSzB3NURyZFZHSzVYaXc4aTFWNktJMGJlU0tfUVVzTktwbEk0TTAzRk0ydlZwRG4yUGhGblQ4eE1vemt2dGhWUlZfTGdOZnM5V0ljUG14SUk1?oc=5",
@@ -541,16 +541,6 @@
       "source": {
         "name": "Mynewsdesk",
         "url": "https://www.mynewsdesk.com"
-      }
-    },
-    {
-      "id": "b8d206289cac",
-      "title": "”Ingen vill ha diagnosen schizofreni för att få Wegovy” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX1o3NXZ3aHVNMjhMVmpZTnhZb1JVNlRER2tOeTRWSzMzSkhjRTJCYjE4M1JWcVIwZVl0NzNnT1ZoNHEtaU84RWI3V3plTkEyclFEc0dOOEpYNTAxTkZvaW1QcGtQN0MyUUN4T29NSkozczFIOTFSVDFXMlgxVDE0cHVMNmtCb1RLVE01cndya2d6MEpCQTN2bnAxaU1CdjQ?oc=5",
-      "published": "2026-06-23T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -764,26 +754,6 @@
       }
     },
     {
-      "id": "13f5d2d164a3",
-      "title": "Flera apotek tvingas stänga i sommar - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR0J0ckFMRHZEdzBNd0Z5YmM4c2g2VmViaFNJekMyVVZ3b3V5eW9SVkZNYk12OFJRUUZvMTFZbjVjMGduTVYxM3phQnNiT2dJc29HTktqc1lia0FaSzYweEE1T0w4NC15dGxvMGJZdVZwM0x1dnVTY0tYenF6ak5QNlRzaWEyN2RHZWxMd1VfOA?oc=5",
-      "published": "2026-07-15T00:16:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "f4ae6ed8dd9b",
-      "title": "Primärvårdspartners - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42M1hnd1QydUE1U1F5ZDlqZjlPb0JJZ2tJampnc0IxMzh0WUpNR09NVk54Si1WN1hTODVObzFqbEN3V3lzSnlWdTBwQUhqSmRxQWJ2WUFGc2VVQQ?oc=5",
-      "published": "2026-07-20T05:49:11+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "014a4d4d4024",
       "title": "Region Skåne häver avtal med vårdcentral i Malmö - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHc1TFh1SlVMV19XLTZuc01kclcyWllaMWc1ck1IcE1rSlNUTzIzYS1GNGxXQ2NJdTBfU3lmZHBxaXlJSllTX1VnWUZzLWR4TkVkTUhIRXJHZVlaY2VyeUpsZkVLYlAyQWJpeUpiUDlwYzZ3SXZkTURzZEM4ZmJodTVUd0o5YzR2MUQxcEZYX1NJZ1hyZ3MxemZ5UFB5TE1zY25XZkIwc2dFR25KdWg4?oc=5",
@@ -824,16 +794,6 @@
       }
     },
     {
-      "id": "7e6ae50aa640",
-      "title": "Så förändras dina mediciner när du får vätskebrist - ETC.se",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNakpqMXR3eVBvdnRDRllHdHgtaDZNM3pNSk1wcnI3N2k5ZHl6djgxanY1MDRSanpCRmdta0V0OEktTU50S1QzZXNZT0JCMmVfVjRnR1hRT1pnVmcxVkdjVXd3X0d5ZVUwako3RmFLbXV5c1paNWpUNVoxWUdIU0NpUVVBcEdrRzBi?oc=5",
-      "published": "2026-06-22T07:00:00+00:00",
-      "source": {
-        "name": "ETC.se",
-        "url": "https://www.etc.se"
-      }
-    },
-    {
       "id": "d6994d70639e",
       "title": "2000 färre ögoninjektioner på ett år med nya läkemedel | St Eriks Ögonsjukhus - Mynewsdesk",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOUc4ckd6Wkc4WXFaa2xZRjRMdzJaYUg5N2RVbGp1R1dSTUs0eVJBWWhFNDNkOGZBWHFQVEhDMFpEemIwVGEyWW1fWk5QMDNIWUI3Nlk4alJRam5WbDgxQWU3NDluZXBLaVJ4ME9VeGhRZ3Y5NWlqVkxaWVBNck9TZE5OOW83UVZReFFadkVHSC1PNXJrS1RjV2xNaHV6SmhOU3JOMXBTWDRrTEkzc0tNMXJZVkVIcjlvSklDM09QaUdiZVdEbm9Ralh6bE9kOWlFdWc?oc=5",
@@ -851,6 +811,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "7e6ae50aa640",
+      "title": "Så förändras dina mediciner när du får vätskebrist - ETC.se",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNakpqMXR3eVBvdnRDRllHdHgtaDZNM3pNSk1wcnI3N2k5ZHl6djgxanY1MDRSanpCRmdta0V0OEktTU50S1QzZXNZT0JCMmVfVjRnR1hRT1pnVmcxVkdjVXd3X0d5ZVUwako3RmFLbXV5c1paNWpUNVoxWUdIU0NpUVVBcEdrRzBi?oc=5",
+      "published": "2026-06-22T07:00:00+00:00",
+      "source": {
+        "name": "ETC.se",
+        "url": "https://www.etc.se"
       }
     },
     {
@@ -881,6 +851,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "13f5d2d164a3",
+      "title": "Flera apotek tvingas stänga i sommar - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR0J0ckFMRHZEdzBNd0Z5YmM4c2g2VmViaFNJekMyVVZ3b3V5eW9SVkZNYk12OFJRUUZvMTFZbjVjMGduTVYxM3phQnNiT2dJc29HTktqc1lia0FaSzYweEE1T0w4NC15dGxvMGJZdVZwM0x1dnVTY0tYenF6ak5QNlRzaWEyN2RHZWxMd1VfOA?oc=5",
+      "published": "2026-07-15T00:16:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -1001,6 +981,26 @@
       "source": {
         "name": "Världen idag",
         "url": "https://www.varldenidag.se"
+      }
+    },
+    {
+      "id": "f8c8511614d7",
+      "title": "Så ska du göra om du får biverkningar av medicin - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbjl3a0lwUllESzZsZjZQeXl1U1h0WVJ5MHRxckgxdWdlVUo4NW0zUndhZUJMdHJwejhMWjNyVU9fUGc3UTQzc3JXLVpPTUdmNXVSc05rRDh4U2xsZjdoMzU3LUJIYkMxYzhqQTJtY0VTY0prSzVVWG9ZWmxWTHJqbVlZQk5yVUhy?oc=5",
+      "published": "2025-10-27T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "cee255112696",
+      "title": "49 kommuner och region eniga om nytt vårdavtal - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT25mMVNQdHZPSURsTkthb2d1QjVKY0VBMHE3MDMycVFSNkJEMmxRZ3VIbE16MEY2UmlOT21oV1BJV1dBYk5EeTY4bER3RVdxUGx6bDhYMUFLOTJCcTZ1d09HZEZ5MVN1ME9IMnhzRl82Uy05aDM4WkZyYy1IaF80S2Rzb0xXc3ZJTFB5X3hUUWZackF5VTBiRXJxV0pRS0JSejN0eWxmRQ?oc=5",
+      "published": "2026-07-12T23:50:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     }
   ]
