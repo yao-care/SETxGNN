@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-07-22T15:28:52.648971+00:00",
+  "fetched_at": "2026-07-22T17:12:08.754980+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
-    {
-      "id": "4f92d690814a",
-      "title": "”Barnmorskemottagningarna är en del av primärvården” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN25Ndkl5ZzdnLUhsZEtpbTlDRWZaREx6U29EdUhrTGRKVWNMUW5RUXhwOV9BaGlfVHZzeE9HS3BiRGt4bU8tQXR1aFhFS3dYMnh4OVF1d0piRkxKWGprSHhzMVZnS2lhbGYzZHo4bVdGTXJHX1ctQ1lyNlFBdHRHN2xlRFBsSUtZb1lLMTVrRjlXQTZKLWZjekpScw?oc=5",
-      "published": "2026-07-21T18:30:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
     {
       "id": "37ffb7085892",
       "title": "Under sommar och semester: Viktiga råd om vård, läkemedel och hälsa - Region Stockholm",
@@ -21,6 +11,16 @@
       "source": {
         "name": "Region Stockholm",
         "url": "https://www.regionstockholm.se"
+      }
+    },
+    {
+      "id": "4f92d690814a",
+      "title": "”Barnmorskemottagningarna är en del av primärvården” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN25Ndkl5ZzdnLUhsZEtpbTlDRWZaREx6U29EdUhrTGRKVWNMUW5RUXhwOV9BaGlfVHZzeE9HS3BiRGt4bU8tQXR1aFhFS3dYMnh4OVF1d0piRkxKWGprSHhzMVZnS2lhbGYzZHo4bVdGTXJHX1ctQ1lyNlFBdHRHN2xlRFBsSUtZb1lLMTVrRjlXQTZKLWZjekpScw?oc=5",
+      "published": "2026-07-21T18:30:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -114,10 +114,10 @@
       }
     },
     {
-      "id": "c34ddae6788d",
-      "title": "Rekordmånga mässlingsfall i USA - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ0VmR3lXbDl0Q2l3XzhSM0wzalVUTmdjcnU3X1JvazJ4RnBEUUpwdmRRRlBjWjdDckNFMzBLTVJtZEdMUTliQjhRdFRTQlhNOFZkcmVaYUloVnl5bjRPeWE5a0pkVWd3bEFrcVM5eUxqQ09yS3pmY2s3bnZvUkRoZU85NS1ScmhWZ0FlNWlZeFVoNXc?oc=5",
-      "published": "2026-07-22T02:03:00+00:00",
+      "id": "0a72982bcca5",
+      "title": "Oväntat starka kvartalssiffror från läkemedelsbjässen - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOHlDNHFmNEw4bmladWpVUWFhckxYcmg3bkxkelVFZGQ5WnZWM0FTd2Z0QlVETkVlU19xWm56RjdaWGVmVEgwdFdramxqcGpuRFBXckdMX0lEbzVXSmR3dzJ4UWpmZTI1ZWQ3Tk9HejNLZTdfWGktN2JXMzNEUUtrbGNha0d1LVRfZ2ZINUxLWEZaWXlCZUtueXhuTS0wdVg1U3pzeHpJNGU1Zw?oc=5",
+      "published": "2026-07-20T22:46:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -144,10 +144,10 @@
       }
     },
     {
-      "id": "0a72982bcca5",
-      "title": "Oväntat starka kvartalssiffror från läkemedelsbjässen - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOHlDNHFmNEw4bmladWpVUWFhckxYcmg3bkxkelVFZGQ5WnZWM0FTd2Z0QlVETkVlU19xWm56RjdaWGVmVEgwdFdramxqcGpuRFBXckdMX0lEbzVXSmR3dzJ4UWpmZTI1ZWQ3Tk9HejNLZTdfWGktN2JXMzNEUUtrbGNha0d1LVRfZ2ZINUxLWEZaWXlCZUtueXhuTS0wdVg1U3pzeHpJNGU1Zw?oc=5",
-      "published": "2026-07-20T22:46:00+00:00",
+      "id": "bb813942a15b",
+      "title": "”Låt oss inte halka efter i forskning om kvinnors hälsa” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhrYWhGNzNiU3NTNWpIUGxhcGVONEExU29xejBuUGJ1TlJIemNId0lOUHA1ZmN1SlNCWk5KT2l0Zl9QXzdFdGxMeGRPbldBb29uY2Y5S1ZyNEo5ampRQW5YVE5aUmtBcDAtc2VOczk3SDZIQ3l1cjlnaEtLU2tYNThEdnVNWXNvN3p5aTJ0TmUzdVo2RzFES1lFYVMzUUNh?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -164,13 +164,13 @@
       }
     },
     {
-      "id": "bb813942a15b",
-      "title": "”Låt oss inte halka efter i forskning om kvinnors hälsa” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhrYWhGNzNiU3NTNWpIUGxhcGVONEExU29xejBuUGJ1TlJIemNId0lOUHA1ZmN1SlNCWk5KT2l0Zl9QXzdFdGxMeGRPbldBb29uY2Y5S1ZyNEo5ampRQW5YVE5aUmtBcDAtc2VOczk3SDZIQ3l1cjlnaEtLU2tYNThEdnVNWXNvN3p5aTJ0TmUzdVo2RzFES1lFYVMzUUNh?oc=5",
-      "published": "2026-07-02T07:00:00+00:00",
+      "id": "c18b0ee2da8d",
+      "title": "Medicintipsen som kan göra dig sjuk - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNmRfNHNJVUVJcEsySG1LRmpsNWZpb3NOVUVMZUNXbGh3N1dyQkVPNGRnS2toUWxteWJXRDh2XzZXV3NabGVsUTNVNVNxd2YyWFVpeVZFejFPenMzMlZRY1Q4dXUtZnZDaFhwd3dUNjdfY18zNm16eVRmTHlsQ21jd2M4Z0tSUXd2RVBURA?oc=5",
+      "published": "2026-06-06T07:00:00+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -191,16 +191,6 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "c18b0ee2da8d",
-      "title": "Medicintipsen som kan göra dig sjuk - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNmRfNHNJVUVJcEsySG1LRmpsNWZpb3NOVUVMZUNXbGh3N1dyQkVPNGRnS2toUWxteWJXRDh2XzZXV3NabGVsUTNVNVNxd2YyWFVpeVZFejFPenMzMlZRY1Q4dXUtZnZDaFhwd3dUNjdfY18zNm16eVRmTHlsQ21jd2M4Z0tSUXd2RVBURA?oc=5",
-      "published": "2026-06-06T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -354,16 +344,6 @@
       }
     },
     {
-      "id": "0a2e59baac9e",
-      "title": "Efter demonstrationen - nu ska Region Stockholm utreda vad vårdpersonal får göra i arbetskläder - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa3Zya204enlvRlBrSEFPNWdzRkp1UEF2OFJTUHV0eXRXNm9LRzNKRUJpWUQ1V1ZBd1JhRU9wWmROTE5BNjdaZ0w4TW9yeGVBckRaWExlNU9PVEZFbURwWjJrUFlFM2Eyc09wbmo1eF82TjVPdXR5TWc4OHB5OU9GVkJ6YjhNdnd2VW90eUhndDFEX18yckFDLW80ZlhZMUQ4cGhSR3hBYVZwT3FRNzBWaVhJVjBfTEE2bmF3UW9qS1BjeG52d1Fyd1pOQklHaEVDV0JoU3JrSzU1d2RjemlxaHNn?oc=5",
-      "published": "2026-07-17T03:20:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "73cd79ce5d1b",
       "title": "Nytt läkemedel ska bränna fett – utan att minska aptiten - News55",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTU5pa1dvWXEyRTRIaHZZd20yNlJyalJVNDJYV3h3cEFwTlNJcEFJanY2U0ptREU0REQ4TkhHYmlfVVFteS1aY0Q1X0lxWENINk1WOE82UWtqVnowczJuWXp3S0tMcXFVT3pYM3F2TkowbzJJQlJSdEZFTGlIWEtTaUlhVjFJNjNVR0ow?oc=5",
@@ -378,6 +358,16 @@
       "title": "”Nej till obesitasmedicin visar på en smal syn på läkemedel” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzc5QzJMY3pUX3hfOUh1bDgyVmlIT1ZwSHgyZFpybkozdGQ0c3pBZ3ZiOHhpdzM2ZzV4Y1lBMFdxVGNZZmxfb0gwNjctWUZLT1JYRThNNEpVdUlkRHhuZ2NjNjhGMEJ6UC1BYTd6Um5YM0pvdzlvTHlfSTNrV0YxYXlNNGtuMFpkSDF5T1g2ZEFTYzVRT1VRUnl6YVg5VFozOUhMb3pR?oc=5",
       "published": "2026-04-13T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "0a2e59baac9e",
+      "title": "Efter demonstrationen - nu ska Region Stockholm utreda vad vårdpersonal får göra i arbetskläder - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa3Zya204enlvRlBrSEFPNWdzRkp1UEF2OFJTUHV0eXRXNm9LRzNKRUJpWUQ1V1ZBd1JhRU9wWmROTE5BNjdaZ0w4TW9yeGVBckRaWExlNU9PVEZFbURwWjJrUFlFM2Eyc09wbmo1eF82TjVPdXR5TWc4OHB5OU9GVkJ6YjhNdnd2VW90eUhndDFEX18yckFDLW80ZlhZMUQ4cGhSR3hBYVZwT3FRNzBWaVhJVjBfTEE2bmF3UW9qS1BjeG52d1Fyd1pOQklHaEVDV0JoU3JrSzU1d2RjemlxaHNn?oc=5",
+      "published": "2026-07-17T03:20:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -494,16 +484,6 @@
       }
     },
     {
-      "id": "02e7bbabe2c2",
-      "title": "2,4 miljoner tar blodtrycksmedicin – så påverkas den av värmen - News55",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTllMRXZsdGp4VkJxaDJ4T09DdGg5Rk9ZN3VtR0xxZWVMWnlpMU1xcnpuZWNiQldmVkVPQnhQMnNFLXkyY0s2MG9uQVdJNzQwdWQxQV9OaGVaREllcnp4TlczLTR0dzZYekN6S3RTVnlnRDdSdXdWeHoxTTJrLTZXSEVZSXVSbC05VjRETjVIUHpNQQ?oc=5",
-      "published": "2026-07-16T16:44:57+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "8ad3ab0bcf7d",
       "title": "Fetmaläkemedel väntas bli världens mest sålda medicin 2032 - News55",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUJBOHFWd2FERXg0dGswelU2RzBHVmRreHU0Y1FUekRuWF9pLXUzb0dYTkFhWVBkSVJRendjT2lmZzZzRGQybkVHUWQ5ZTE1LXZsXy0tWXY5WWwzd2JKNVRMUDJNVzZ6SDByM3V4eHo5WnpOVnR0X2RrU0RBSndQU0lOZVhla3RJYTRRanVGdnM?oc=5",
@@ -514,13 +494,13 @@
       }
     },
     {
-      "id": "6c3d561c02ea",
-      "title": "Klart: EU godkänner Wegovy-tabletter - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNkM5dlhMMGg5Q3ByUnlUeGl0ZURLcHRFYndSQ1E4ZjNXWTUtWE5peVhIV1ZkVXNCbjJyclJiZ2h3WEJLeVlfRjh3T2lHb0NCTHpWMDFvTnlFRWVnaGJDTTh2Q1lqbC1HeVdmemcyc3Z1LW5rSDVRN2dmVEVLOGtEWmF1TEMycXRRSllQOWxURWYyQQ?oc=5",
-      "published": "2026-07-16T00:46:00+00:00",
+      "id": "02e7bbabe2c2",
+      "title": "2,4 miljoner tar blodtrycksmedicin – så påverkas den av värmen - News55",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTllMRXZsdGp4VkJxaDJ4T09DdGg5Rk9ZN3VtR0xxZWVMWnlpMU1xcnpuZWNiQldmVkVPQnhQMnNFLXkyY0s2MG9uQVdJNzQwdWQxQV9OaGVaREllcnp4TlczLTR0dzZYekN6S3RTVnlnRDdSdXdWeHoxTTJrLTZXSEVZSXVSbC05VjRETjVIUHpNQQ?oc=5",
+      "published": "2026-07-16T16:44:57+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -541,6 +521,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "6c3d561c02ea",
+      "title": "Klart: EU godkänner Wegovy-tabletter - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNkM5dlhMMGg5Q3ByUnlUeGl0ZURLcHRFYndSQ1E4ZjNXWTUtWE5peVhIV1ZkVXNCbjJyclJiZ2h3WEJLeVlfRjh3T2lHb0NCTHpWMDFvTnlFRWVnaGJDTTh2Q1lqbC1HeVdmemcyc3Z1LW5rSDVRN2dmVEVLOGtEWmF1TEMycXRRSllQOWxURWYyQQ?oc=5",
+      "published": "2026-07-16T00:46:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -584,16 +574,6 @@
       }
     },
     {
-      "id": "b8d206289cac",
-      "title": "”Ingen vill ha diagnosen schizofreni för att få Wegovy” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX1o3NXZ3aHVNMjhMVmpZTnhZb1JVNlRER2tOeTRWSzMzSkhjRTJCYjE4M1JWcVIwZVl0NzNnT1ZoNHEtaU84RWI3V3plTkEyclFEc0dOOEpYNTAxTkZvaW1QcGtQN0MyUUN4T29NSkozczFIOTFSVDFXMlgxVDE0cHVMNmtCb1RLVE01cndya2d6MEpCQTN2bnAxaU1CdjQ?oc=5",
-      "published": "2026-06-23T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "c2a9ad3156eb",
       "title": "LMV: Så försöker vi minska risken för suicid - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWjE0aGUwWTZUSmpKOEthZmNJaE1mZ3N3QWFRallfemluTzFxRWxwd1ZNZWtNdXhDRWFkaG5ZcTBaQXB3V3NkeGdXTXR6aTBaMG1EUUVabzBpMTNEcl82TVlqM01pNHEzbTU4eGxENC11MTlpVTBXTFpMNFhIdGdrYllsTEE3aXVBZzIybDBaTHJqaE5oc015VzJTTjQ4UQ?oc=5",
@@ -601,6 +581,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "b8d206289cac",
+      "title": "”Ingen vill ha diagnosen schizofreni för att få Wegovy” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX1o3NXZ3aHVNMjhMVmpZTnhZb1JVNlRER2tOeTRWSzMzSkhjRTJCYjE4M1JWcVIwZVl0NzNnT1ZoNHEtaU84RWI3V3plTkEyclFEc0dOOEpYNTAxTkZvaW1QcGtQN0MyUUN4T29NSkozczFIOTFSVDFXMlgxVDE0cHVMNmtCb1RLVE01cndya2d6MEpCQTN2bnAxaU1CdjQ?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -704,16 +694,6 @@
       }
     },
     {
-      "id": "b1bccfdb7822",
-      "title": "Glesbygder överens om att samverka om hälsa - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUp3eW1ReVMyMmx1VmtoVy01Q0VEcHRpc0tUb0otMzY3VVVHSk9GVUMwVDlWeHAyQ2JqRDBnMkxCdzRTVE5RTnpVTEswZUtqT2c2Zk9ENktISTlINWFvaGV2MlVKV1ZzOXAzNFo2N0FGTTVQdkpWc0E4MzVQVWNIS2JqbFBsY2EyblloN0JYd09ZV2tyUGwxZG1aZzM?oc=5",
-      "published": "2026-06-23T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "83c20e8b10c1",
       "title": "Så kan tillskott påverka effekten av din medicin - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWlgydGduSzBfWGM5ZUtRUE9laFhnQ2hOQWZfWHB6VlpxTmE0WTlIbEtpRGp3RHRJNE1MMEtOM1dWUW16RVppVHVjQzJtOTd2Tng5UGc2QnpCcFUxdzhDdTJaejBWWG0zN2p4VEpaSFBFT0ZWTzJHMmg4Y1oyeHE5REVNbkRlajd1alk3THY5ZTJpRnZINVhV?oc=5",
@@ -721,6 +701,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "b1bccfdb7822",
+      "title": "Glesbygder överens om att samverka om hälsa - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUp3eW1ReVMyMmx1VmtoVy01Q0VEcHRpc0tUb0otMzY3VVVHSk9GVUMwVDlWeHAyQ2JqRDBnMkxCdzRTVE5RTnpVTEswZUtqT2c2Zk9ENktISTlINWFvaGV2MlVKV1ZzOXAzNFo2N0FGTTVQdkpWc0E4MzVQVWNIS2JqbFBsY2EyblloN0JYd09ZV2tyUGwxZG1aZzM?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "0ba349dde1bc",
+      "title": "Apotek larmar: Patienter mixtrar med viktläkemedel - Corren",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOVIyWHk4a0dNeDZJd25Iend6VjdhdGVtVGV6MTBrR0JMZGczQWNyYk44R0xMM2Q2WUE0eTJCREtQeExsTUhMVVhmcHNrb2pGME1IMzRlX1RLbHZ1cG85NUpTcnZPeUItZ1BzZTNMaE9EckZmdTVPZEt1ei1NOHJmMGc5LTYtRGxSZFhzX3NONGZ3MzdfRTBHckFWcDY3T3QtQ0VXREFiMjg5TEVLWEI0?oc=5",
+      "published": "2026-01-17T08:00:00+00:00",
+      "source": {
+        "name": "Corren",
+        "url": "https://www.corren.se"
       }
     }
   ]
