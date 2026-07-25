@@ -1,6 +1,6 @@
-title: SETxGNN - Drug Repurposing
+title: SETxGNN - Läkemedelsrepositionering
 lang: "sv"
-description: Sweden MPA-approved Drug Repurposing predictions powered by TxGNN
+description: Prediktioner för repositionering av läkemedel godkända av MPA i Sverige, baserat på TxGNN
 remote_theme: just-the-docs/just-the-docs
 url: https://setxgnn.yao.care
 baseurl: ""
