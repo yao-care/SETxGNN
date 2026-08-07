@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-08-07T17:43:42.693346+00:00",
+  "fetched_at": "2026-08-07T18:48:12.276015+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
-    {
-      "id": "8895ba3045d4",
-      "title": "Gotland smittspårar efter fall av tuberkulos - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSWNUMGpxYUpGYzJQYmgwUGd2LWM3Sk5EdXZlVmM1MEl6d0VRdlZoUDdmMVRERkhMaWc0ZFlmT0RmUWE1b2YzblI2VzBMOXN6MzVRVXhPR0tKTGZGQ2xBSzUyOVZteDljV21ZZlk2a0ZFOTJIZGpMYV94X3VVcnNkdm9mZDNtOUhlRlZVSmotT3RYY0IyZDBobTF0ajN5Vzc1aUxxRA?oc=5",
-      "published": "2026-08-06T23:55:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
     {
       "id": "37ffb7085892",
       "title": "Under sommar och semester: Viktiga råd om vård, läkemedel och hälsa - Region Stockholm",
@@ -21,6 +11,16 @@
       "source": {
         "name": "Region Stockholm",
         "url": "https://www.regionstockholm.se"
+      }
+    },
+    {
+      "id": "8895ba3045d4",
+      "title": "Gotland smittspårar efter fall av tuberkulos - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSWNUMGpxYUpGYzJQYmgwUGd2LWM3Sk5EdXZlVmM1MEl6d0VRdlZoUDdmMVRERkhMaWc0ZFlmT0RmUWE1b2YzblI2VzBMOXN6MzVRVXhPR0tKTGZGQ2xBSzUyOVZteDljV21ZZlk2a0ZFOTJIZGpMYV94X3VVcnNkdm9mZDNtOUhlRlZVSmotT3RYY0IyZDBobTF0ajN5Vzc1aUxxRA?oc=5",
+      "published": "2026-08-06T23:55:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -34,12 +34,12 @@
       }
     },
     {
-      "id": "8601dd1f9352",
-      "title": "Valproat – ingen fastställd länk mellan pappans medicinering och barnets hälsa - lakemedelsvarlden.se",
+      "id": "74f6f2c1decb",
+      "title": "Valproat – ingen fastställd länk mellan pappans medicinering och barnets hälsa - LäkemedelsVärlden",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnhVMEV4S3JTdHBvYnkzTjYzQVdBUlI3UFlBUEFlei1yV0tkSVFVQmRvVkF0WHNnczFZbkpEb1lleWxPOUYzWVprUTRTYmRucTh3UmxlREIwemw1TnRJaXFWN3lHS1EtOVNJbU5PQmdfUGN6WDJ6TEFRaERNOXltQzZfWDN3bmx2RjlXT2VibEU3UURwUzB1QmRReUtwY1drQnYw?oc=5",
       "published": "2026-06-22T07:00:00+00:00",
       "source": {
-        "name": "lakemedelsvarlden.se",
+        "name": "LäkemedelsVärlden",
         "url": "https://www.lakemedelsvarlden.se"
       }
     },
@@ -54,12 +54,12 @@
       }
     },
     {
-      "id": "f1e4ba8c4b23",
-      "title": "Rätt läkemedel förbättrar hälsa och sänker kostnader - Svensk Farmaci",
+      "id": "695c828a716b",
+      "title": "Rätt läkemedel förbättrar hälsa och sänker kostnader - svenskfarmaci.se",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTTduS3JKQmtCdk9Fa1hrbWx4V2xQRmdyZ01rRzZtZkc3cWt6Z3VBdlo1OUNpcXpOZERaMTctc1ctSzVPSldJQjB2QlhOT2MteFZTTS1uUE9MX3lfcDJ6bUtZYUpDUTFybHZnTE92c0E4eUo5YUQ3U2hsZktxSHJtNEM5QnJXX0VCRFBkMzNBRkFnd3Nnc1prdg?oc=5",
       "published": "2026-01-05T08:00:00+00:00",
       "source": {
-        "name": "Svensk Farmaci",
+        "name": "svenskfarmaci.se",
         "url": "https://www.svenskfarmaci.se"
       }
     },
@@ -94,6 +94,16 @@
       }
     },
     {
+      "id": "685fae0d99d8",
+      "title": "”Hälsolitteracitet handlar lika mycket om vår egen förmåga att göra oss begripliga för patienterna.” - Janusinfo.se",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQVXV1VXRUZ1N0cWJIVmdnNHNBb3hpdUQ2dm9YaUkwbkFPS0wtZ1E2YVZjUHh0UFBaWXc3ejlfRkNFTUgtOFJqWHFjc1ZTaXpUZy1tM2pjT2t4S3hZUEthcmlWRzdQS1M2cmFpenZEaFZyRGZ6MTVJeDdVMjVXalNJdUxxam1DR2VYZF9oNVprVVdSZEM5ZjdJYkJWYjZ0M3ZJcXpfU18tdVE3NlR1LXNoazdnVXlvNlBRbUt1TXRIRFpHaG54cG1vSlpwMmpWeWNZaW02eHNiWlU1RFZRV3k1WmtBTjdzWVh3NG5lU1JaSHI2X2c5Wk50M3k0VTlQNjVvR3F0TlNycHhsTmRyQ3J5N0tMNDJ4VWp2?oc=5",
+      "published": "2026-07-02T13:33:38+00:00",
+      "source": {
+        "name": "Janusinfo.se",
+        "url": "https://janusinfo.se"
+      }
+    },
+    {
       "id": "1159162de478",
       "title": "Efter stor efterfrågan på Wegovy: Novo Nordisk höjer prognosen - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQamRoRmJTUXdhcmhmUlEySnlDMUVDOEdBTlM5TjlWWHhpRmRDSlZpY2FlWGFMQWdxX3FFZmVsUnJtVEdJVkRqalNKVy1XNHV0UFhTTHdrQ0FwRFFQTXVmNjBLX2x0T0RGUnlRVlRfV3VmeW1JX1drRGs3TDRCWFc3bUFSa3lZbFNCUTdtMll1aURQZk5BN2tKamtEdUJKMWRRNjFxcS1SQk9jR2xvNHFjNEQ3UmY?oc=5",
@@ -124,26 +134,6 @@
       }
     },
     {
-      "id": "0729499a3400",
-      "title": "Vinstlyft för Novo Nordisks ärkerival - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM0doSzVjclJwX1dhc1hOLWNKMEVlNktDOU41YTdQc3hDSGtZaDFzZV8zTDB3bUNTMksxTWhnWkU2MnVHQ0lRYTE4RnJfYnpGQ1dHQ2hMRUlHWVhmRm82WWNzdm5aVU4xYnlNU1lHdnU5UFRLeXpUVTEtSWJqYzRncC1QbEFhZkVHLUl5WE5NVjZ4bUUx?oc=5",
-      "published": "2026-08-05T03:29:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "dee460377830",
-      "title": "Nytt vallöfte från M: Vårdgaranti på 30 dagar - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObXdVMm9lY1hUdHVIOVBLb0dlYnY1SXpQNVBwTTNXU01JTURmempIbEhyVUdfWWFNdk4wM240ejZKdWJkWDVNNklvNmdZTVhKcGN3SGQtT0Eydkh5b21nMjVkZHZLX2ltcGU4V0hINmdxNmk5WllNUmxJMFh0UWhPMG1yOTlFZEdfRUZRLXB4Nm9IWGdHQlVQQjh5T2l0dGlN?oc=5",
-      "published": "2026-08-05T02:45:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "0d4e296efad8",
       "title": "Nästan 4 000 fall av ebola i Kongo-Kinshasa - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN1pRQ25HbTdwNWZxZ0V4LVVCWUN5dHRfYUQzYldqajhNRi1iSGkwMHpUaWZxYjVOdXc2RzFmUGxaOVEwRnVHNHBoaXJiNEFfV2Q5SEdVMExDLXZOZHpkdmRyODJIMnBCbTVQU0ZQZ185ZjJVQzdGN2lNR1BFVDRjVkRuejhsMW1yd0hLQXNiMkFqaFdiOTRQeW1oWTFRM0JfOGNj?oc=5",
@@ -158,6 +148,16 @@
       "title": "Jämtland i topp när lex Sarah-anmälningarna ökar - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkhlSHlud1FDQWFOUDlhaGVvR2V6R2pOam1tajUxcHpRV0NITHFOaXo4ZU5oQmt3STZSYmFWVVZ6cklFVUtKTTkzaGRWVVJES0hmUnZzSG1Tek13TnpTTEd2QUdjTkZhWlN4YTh4NENSemYyMWVhRUJZREhKamdxR2hOY3JkeWVJU29YbGQ0V0hjS09XZDFMR2xlSnNfTWdvMDk2cTR5NjdHUQ?oc=5",
       "published": "2026-08-03T02:40:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "0729499a3400",
+      "title": "Vinstlyft för Novo Nordisks ärkerival - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM0doSzVjclJwX1dhc1hOLWNKMEVlNktDOU41YTdQc3hDSGtZaDFzZV8zTDB3bUNTMksxTWhnWkU2MnVHQ0lRYTE4RnJfYnpGQ1dHQ2hMRUlHWVhmRm82WWNzdm5aVU4xYnlNU1lHdnU5UFRLeXpUVTEtSWJqYzRncC1QbEFhZkVHLUl5WE5NVjZ4bUUx?oc=5",
+      "published": "2026-08-05T03:29:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -201,16 +201,6 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "685fae0d99d8",
-      "title": "”Hälsolitteracitet handlar lika mycket om vår egen förmåga att göra oss begripliga för patienterna.” - Janusinfo.se",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQVXV1VXRUZ1N0cWJIVmdnNHNBb3hpdUQ2dm9YaUkwbkFPS0wtZ1E2YVZjUHh0UFBaWXc3ejlfRkNFTUgtOFJqWHFjc1ZTaXpUZy1tM2pjT2t4S3hZUEthcmlWRzdQS1M2cmFpenZEaFZyRGZ6MTVJeDdVMjVXalNJdUxxam1DR2VYZF9oNVprVVdSZEM5ZjdJYkJWYjZ0M3ZJcXpfU18tdVE3NlR1LXNoazdnVXlvNlBRbUt1TXRIRFpHaG54cG1vSlpwMmpWeWNZaW02eHNiWlU1RFZRV3k1WmtBTjdzWVh3NG5lU1JaSHI2X2c5Wk50M3k0VTlQNjVvR3F0TlNycHhsTmRyQ3J5N0tMNDJ4VWp2?oc=5",
-      "published": "2026-07-02T13:33:38+00:00",
-      "source": {
-        "name": "Janusinfo.se",
-        "url": "https://janusinfo.se"
       }
     },
     {
@@ -274,12 +264,12 @@
       }
     },
     {
-      "id": "b839bf00c97e",
-      "title": "”När politiska budskap påverkar hälsa och tillgång till läkemedel” - Svensk Farmaci",
+      "id": "4bcb1d77f79a",
+      "title": "”När politiska budskap påverkar hälsa och tillgång till läkemedel” - svenskfarmaci.se",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW9FaGZQZmRZbUp2WDFsX3dkRFQ1Q1R0UHlhTGlIREc4LUpDT05Od1h2SUhieFh3aWUxUnFjTXYwNGZBWFJkdENQTTVmbWZTR0tkSEZ4eUZZUlBaa24yVFdvd1dMS2dmZVJLMjlLOWNfUmprNGJvZDVTaGpYZEVETXFPcnhVR3A3LXNVWGlZeDE5dDFMTEdpWHliUHkwSUJuTzhxS1prN2I?oc=5",
       "published": "2026-02-05T08:00:00+00:00",
       "source": {
-        "name": "Svensk Farmaci",
+        "name": "svenskfarmaci.se",
         "url": "https://www.svenskfarmaci.se"
       }
     },
@@ -294,12 +284,12 @@
       }
     },
     {
-      "id": "839f300c9a07",
-      "title": "\"Barn och ungdomar ska få bästa möjliga läkemedelsbehandling\" - Svensk Farmaci",
+      "id": "c0a7fd7b52bf",
+      "title": "\"Barn och ungdomar ska få bästa möjliga läkemedelsbehandling\" - svenskfarmaci.se",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXVaal9CUXh5MGVMOUJZbnBSY3dvSFVoMG1nVTBieDNtUkxKOXBpQTh6aWYwem5TRnJ5Q0JTR2thX3hLdUZ2a1RZRmw5N1AtSFpWQmNvN3B2eFRabGZMTk1fb0xscTl3Rk51U1JKdmFyUnpQTUpYcTAyN0VYX3Y3Y2d5QTZ6em1Kb0xIUkRkVnBJYlFhc1QwNUxB?oc=5",
       "published": "2026-04-21T07:00:00+00:00",
       "source": {
-        "name": "Svensk Farmaci",
+        "name": "svenskfarmaci.se",
         "url": "https://www.svenskfarmaci.se"
       }
     },
@@ -354,16 +344,6 @@
       }
     },
     {
-      "id": "1c1d1cd1909e",
-      "title": "NEURO-forskare får projektbidrag från Vetenskapsrådet inom medicin och hälsa - Karolinska Institutet",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYVZKRF9TR0J5bjlTc1ZYcklXaV9mYVdiMy1uaGJSbVVfblVwbllqYlBJLTRDRGJfSDJqQy1kY0hZdklHVXlOUVIwZUdTalI2ellGV3pEaFdJQ29XZTFOb0hhVnR6WlV0X0FUTXRLT2lhbVJMMGFmRFVPcTBkOGlXNm04eUNNN0JNMWI0eWpYM1RkUF9lNnBEZnZlTHRid0k?oc=5",
-      "published": "2026-01-27T08:00:00+00:00",
-      "source": {
-        "name": "Karolinska Institutet",
-        "url": "https://nyheter.ki.se"
-      }
-    },
-    {
       "id": "ff0b7e849dbb",
       "title": "Vitalis 2026: E-hälsa och AI i fokus i Göteborg - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzFKaThhOFhERzJld2tEWVRtQ1NMcExRRmt1YzN0MDFJRnpIajdGTjlwODNVNmFMeUpxQjhOTkxSQ3ptYllReUhXaXdYY0lMeWtUUnlyeE5mWWVTTlFjWnFuTkxQbWRJa1VTMDJrTkJLdDBfTDhkTHdQeGN2Z2h6RWNpZy1iNjRuOTNZVC10VEh1NVV1Q3JR?oc=5",
@@ -374,12 +354,22 @@
       }
     },
     {
-      "id": "e786d9728a1e",
-      "title": "Diabetesläkemedel kopplas till minskad psykisk ohälsa - Svensk Farmaci",
+      "id": "1c1d1cd1909e",
+      "title": "NEURO-forskare får projektbidrag från Vetenskapsrådet inom medicin och hälsa - Karolinska Institutet",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYVZKRF9TR0J5bjlTc1ZYcklXaV9mYVdiMy1uaGJSbVVfblVwbllqYlBJLTRDRGJfSDJqQy1kY0hZdklHVXlOUVIwZUdTalI2ellGV3pEaFdJQ29XZTFOb0hhVnR6WlV0X0FUTXRLT2lhbVJMMGFmRFVPcTBkOGlXNm04eUNNN0JNMWI0eWpYM1RkUF9lNnBEZnZlTHRid0k?oc=5",
+      "published": "2026-01-27T08:00:00+00:00",
+      "source": {
+        "name": "Karolinska Institutet",
+        "url": "https://nyheter.ki.se"
+      }
+    },
+    {
+      "id": "0b44d8d40ffc",
+      "title": "Diabetesläkemedel kopplas till minskad psykisk ohälsa - svenskfarmaci.se",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGpaVjZ1MlhUM0Ffc1lfYXpfVUZ2N0FnMjBuckZOQ0ZvX2pMX1d3blBGQUZ4TUltYlJtbTUwUDFicF80ZWtjSDh2UndrYmZaSFJiTWxnVXlGeWdlRXBfLXoyWFFlUkhaR25QbWwtNnF1QTlMX2s1MldyOURVSFBtWDQzd1huZGpYVE11MjdQM3l4VkM5ZG9TUVdB?oc=5",
       "published": "2026-03-19T07:00:00+00:00",
       "source": {
-        "name": "Svensk Farmaci",
+        "name": "svenskfarmaci.se",
         "url": "https://www.svenskfarmaci.se"
       }
     },
@@ -494,12 +484,12 @@
       }
     },
     {
-      "id": "92331e836812",
-      "title": "Hälso- och sjukvård viktigaste frågan – kan avgöra valet 2026 - Svensk Farmaci",
+      "id": "875237edac4b",
+      "title": "Hälso- och sjukvård viktigaste frågan – kan avgöra valet 2026 - svenskfarmaci.se",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYXl0ZlBDV0wzOVRNdER0T3lFMEtCX0lKOEgxN2wycHFTTU1IeFg5X1ltRmRfblUwaTFCcmF3QlVIak9EYWtfbmxvMnZVZGhfVjFCY1dDSklLbmRiMUNLRmRLcEMwVk4xYS1DOWpQLXBzekhtQUgwbEc3cl9NY3liM29vR2VnZUtiTXdSM1JuZldtel9NLVdSaFJtSERsSjkt?oc=5",
       "published": "2026-05-15T07:00:00+00:00",
       "source": {
-        "name": "Svensk Farmaci",
+        "name": "svenskfarmaci.se",
         "url": "https://www.svenskfarmaci.se"
       }
     },
@@ -524,12 +514,12 @@
       }
     },
     {
-      "id": "515f35913347",
-      "title": "\"Immuncellernas funktion blev perfekt återställd\" - Svensk Farmaci",
+      "id": "f20d9e011954",
+      "title": "\"Immuncellernas funktion blev perfekt återställd\" - svenskfarmaci.se",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXVfNWtIR2ptdWhORjlSSV9Kem5JUHhibnJCdnJ4Qk1aQUFMTnVFTWlHbkN6bVZqbkJMRlFwa2prX09UZlB5anZPdjdCWWxzSTVLNnVfVWFqTVEyeTJ3MzBnVWFnNlZVZFZpRWVMSnVPQTlyU2tiMnNpZ3JMN3hyNnlGeFVRbzVvRWlPQnRLLUxPS2NsT2pNbnZVMjhrU3Ns?oc=5",
       "published": "2026-03-24T07:00:00+00:00",
       "source": {
-        "name": "Svensk Farmaci",
+        "name": "svenskfarmaci.se",
         "url": "https://www.svenskfarmaci.se"
       }
     },
@@ -604,12 +594,12 @@
       }
     },
     {
-      "id": "e630a6b2eacd",
-      "title": "Äldre män ändrar medicin efter nät-råd - senioren.se",
+      "id": "2111120747aa",
+      "title": "Äldre män ändrar medicin efter nät-råd - Senioren",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSDVncm80OHdhRnkzeC1wNlRyaTlCRWNUamVZSEpoUHhIMFVNM3dxVWpqNHZDZ1VNUFFYbUE0Ujc4aV9iTU5tZ1Q2OTRvN3JWd2Q0TktvUWRET2Z0Vjdrd19IVkMzUXdKY2NEM0h6SF9TVERlQUxMX0h4QXo5RWF1SEk5RE9EQWt1Q0E?oc=5",
       "published": "2026-05-04T07:00:00+00:00",
       "source": {
-        "name": "senioren.se",
+        "name": "Senioren",
         "url": "https://www.senioren.se"
       }
     },
@@ -714,12 +704,12 @@
       }
     },
     {
-      "id": "ee6a042ebe78",
-      "title": "Sol och läkemedel en underskattad riskkombination - corren.se",
+      "id": "1beb550a6b48",
+      "title": "Sol och läkemedel en underskattad riskkombination - Corren",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX2tfZl8tQzhwV0pOVUIxWTFWYXdrMmVIdUZXcmtXRy1UNnU0M2htX3BTNnVwUGNWS18xSXB2ZkxYTW9ndFpPTUl2VHl6ejdrUjYzRDRURGRxU0pfdWk3RzJaWmg0V0pSN3p0NDhKQlZXRGtuZ1ZhdmloZkJNWnZieHI5M1VjOGZYa2x1ZS1DdFgwM3NIY051elFQdGlweFZSWWlXaEhsdHo4ZmdQLWM4?oc=5",
       "published": "2026-05-23T07:00:00+00:00",
       "source": {
-        "name": "corren.se",
+        "name": "Corren",
         "url": "https://www.corren.se"
       }
     },
@@ -774,12 +764,12 @@
       }
     },
     {
-      "id": "6e594930ef8a",
-      "title": "Läkemedelsverket: Så försöker vi minska risken för suicid - Svensk Farmaci",
+      "id": "8d4e98877a85",
+      "title": "Läkemedelsverket: Så försöker vi minska risken för suicid - svenskfarmaci.se",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWjE0aGUwWTZUSmpKOEthZmNJaE1mZ3N3QWFRallfemluTzFxRWxwd1ZNZWtNdXhDRWFkaG5ZcTBaQXB3V3NkeGdXTXR6aTBaMG1EUUVabzBpMTNEcl82TVlqM01pNHEzbTU4eGxENC11MTlpVTBXTFpMNFhIdGdrYllsTEE3aXVBZzIybDBaTHJqaE5oc015VzJTTjQ4UQ?oc=5",
       "published": "2025-12-12T08:00:00+00:00",
       "source": {
-        "name": "Svensk Farmaci",
+        "name": "svenskfarmaci.se",
         "url": "https://www.svenskfarmaci.se"
       }
     },
@@ -884,12 +874,12 @@
       }
     },
     {
-      "id": "4b5ef6eba8b7",
-      "title": "\"Apotekens roll i framtidens nära vård är en strategisk möjlighet\" - Svensk Farmaci",
+      "id": "ca53b6eb5128",
+      "title": "\"Apotekens roll i framtidens nära vård är en strategisk möjlighet\" - svenskfarmaci.se",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXprMGRaWFU4YXB0blNqbElYVVBVUnVRVEcxYTdWWXlqVm80c0d0NWczc0hld0R2Sk02OVN4Z0JsbE1rbm9od0g5dk92ano4dVBYMXpxbkJmalA4NHBpamRpWmJXYU9vWGV1cFVaek1yVjJkVU1TN2hZTERWcjN4UDl4UWNRczVBdVNLbVVVSW1VM3hKVVpIczlZYTdINlhwVndtd3BDQVVsVmxUcEZSU3J3V2M?oc=5",
       "published": "2025-11-10T08:00:00+00:00",
       "source": {
-        "name": "Svensk Farmaci",
+        "name": "svenskfarmaci.se",
         "url": "https://www.svenskfarmaci.se"
       }
     },
@@ -954,12 +944,12 @@
       }
     },
     {
-      "id": "68505f3fce5c",
-      "title": "Apotek larmar: Patienter mixtrar med viktläkemedel - corren.se",
+      "id": "0ba349dde1bc",
+      "title": "Apotek larmar: Patienter mixtrar med viktläkemedel - Corren",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOVIyWHk4a0dNeDZJd25Iend6VjdhdGVtVGV6MTBrR0JMZGczQWNyYk44R0xMM2Q2WUE0eTJCREtQeExsTUhMVVhmcHNrb2pGME1IMzRlX1RLbHZ1cG85NUpTcnZPeUItZ1BzZTNMaE9EckZmdTVPZEt1ei1NOHJmMGc5LTYtRGxSZFhzX3NONGZ3MzdfRTBHckFWcDY3T3QtQ0VXREFiMjg5TEVLWEI0?oc=5",
       "published": "2026-01-17T08:00:00+00:00",
       "source": {
-        "name": "corren.se",
+        "name": "Corren",
         "url": "https://www.corren.se"
       }
     },
@@ -1001,6 +991,16 @@
       "source": {
         "name": "University of Helsinki",
         "url": "https://www.helsinki.fi"
+      }
+    },
+    {
+      "id": "50fe8661b676",
+      "title": "Vanliga läkemedel kan bli risk vid vätskebrist – många missar faran - e55.se",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYXl3V2Iwb3plV3RUV3E1bzhtZDhTeXRwVlZkbGhGMzFydzhhRGd0Vm4xeGIxNWxMZnBFbkd0MFhZby1YN3NmbTUwcExZdjQ5SzREN2dZcnVwS0UwMTRaSlZpRHRGc19qdFlnaFZ3dmJHQkx6NGJFeUpBb0xVbUNxWmw4Z0JwZlZ3OTVYTDNjd0Z3LVpzQmc?oc=5",
+      "published": "2026-06-20T07:00:00+00:00",
+      "source": {
+        "name": "e55.se",
+        "url": "https://www.e55.se"
       }
     }
   ]
