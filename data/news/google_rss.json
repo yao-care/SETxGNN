@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-09T13:44:42.531192+00:00",
+  "fetched_at": "2026-08-09T14:29:13.699897+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -364,16 +364,6 @@
       }
     },
     {
-      "id": "8aba358cc772",
-      "title": "Så får du hjälp att minska läkemedelsdosen - aftonbladet.se",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJWkJHLWxXZ0Q5MElfY3NDdXVRd3NId1hkNnNVNV94QzdLUkJWanoxUk1HQmJMUFVkU2RhU0UyWkQyWG9RQjA5bThvdmxXSThfLU9IMUJTRWY4R1BwbmFzOUY2ZC1oSmhEbUlfOXVHaGNKV3JONFFj?oc=5",
-      "published": "2026-07-12T07:00:00+00:00",
-      "source": {
-        "name": "aftonbladet.se",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "fb8b80aed078",
       "title": "”Nej till obesitasmedicin visar på en smal syn på läkemedel” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzc5QzJMY3pUX3hfOUh1bDgyVmlIT1ZwSHgyZFpybkozdGQ0c3pBZ3ZiOHhpdzM2ZzV4Y1lBMFdxVGNZZmxfb0gwNjctWUZLT1JYRThNNEpVdUlkRHhuZ2NjNjhGMEJ6UC1BYTd6Um5YM0pvdzlvTHlfSTNrV0YxYXlNNGtuMFpkSDF5T1g2ZEFTYzVRT1VRUnl6YVg5VFozOUhMb3pR?oc=5",
@@ -381,6 +371,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "8aba358cc772",
+      "title": "Så får du hjälp att minska läkemedelsdosen - aftonbladet.se",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJWkJHLWxXZ0Q5MElfY3NDdXVRd3NId1hkNnNVNV94QzdLUkJWanoxUk1HQmJMUFVkU2RhU0UyWkQyWG9RQjA5bThvdmxXSThfLU9IMUJTRWY4R1BwbmFzOUY2ZC1oSmhEbUlfOXVHaGNKV3JONFFj?oc=5",
+      "published": "2026-07-12T07:00:00+00:00",
+      "source": {
+        "name": "aftonbladet.se",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -714,16 +714,6 @@
       }
     },
     {
-      "id": "0718315e6b0a",
-      "title": "Så kan tillskott påverka effekten av din medicin - aftonbladet.se",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWlgydGduSzBfWGM5ZUtRUE9laFhnQ2hOQWZfWHB6VlpxTmE0WTlIbEtpRGp3RHRJNE1MMEtOM1dWUW16RVppVHVjQzJtOTd2Tng5UGc2QnpCcFUxdzhDdTJaejBWWG0zN2p4VEpaSFBFT0ZWTzJHMmg4Y1oyeHE5REVNbkRlajd1alk3THY5ZTJpRnZINVhV?oc=5",
-      "published": "2026-03-19T07:00:00+00:00",
-      "source": {
-        "name": "aftonbladet.se",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "6e594930ef8a",
       "title": "Läkemedelsverket: Så försöker vi minska risken för suicid - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWjE0aGUwWTZUSmpKOEthZmNJaE1mZ3N3QWFRallfemluTzFxRWxwd1ZNZWtNdXhDRWFkaG5ZcTBaQXB3V3NkeGdXTXR6aTBaMG1EUUVabzBpMTNEcl82TVlqM01pNHEzbTU4eGxENC11MTlpVTBXTFpMNFhIdGdrYllsTEE3aXVBZzIybDBaTHJqaE5oc015VzJTTjQ4UQ?oc=5",
@@ -731,6 +721,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "0718315e6b0a",
+      "title": "Så kan tillskott påverka effekten av din medicin - aftonbladet.se",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWlgydGduSzBfWGM5ZUtRUE9laFhnQ2hOQWZfWHB6VlpxTmE0WTlIbEtpRGp3RHRJNE1MMEtOM1dWUW16RVppVHVjQzJtOTd2Tng5UGc2QnpCcFUxdzhDdTJaejBWWG0zN2p4VEpaSFBFT0ZWTzJHMmg4Y1oyeHE5REVNbkRlajd1alk3THY5ZTJpRnZINVhV?oc=5",
+      "published": "2026-03-19T07:00:00+00:00",
+      "source": {
+        "name": "aftonbladet.se",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -784,12 +784,12 @@
       }
     },
     {
-      "id": "e7647ec6bc6e",
-      "title": "DEBATT: Replik: Säkra patienternas tillgång till läkemedel - Dagens industri",
+      "id": "ec31d895e508",
+      "title": "DEBATT: Replik: Säkra patienternas tillgång till läkemedel - di.se",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMmJqOVVhNWFmNDN0cVdPTWVMczNKVFRMbFpvVnBlVUlnLUdEVXhHVGdkRHN5TWJXQ3J0c29kQXhTdkRIOUVXUC1oLUtpb3pVTFZUMHpobXg5NllYc0JPcmFXMGZORlVQZGxocjc1eWJ0dFFQX08tRUZNNGsyYmotQw?oc=5",
       "published": "2026-06-24T07:00:00+00:00",
       "source": {
-        "name": "Dagens industri",
+        "name": "di.se",
         "url": "https://www.di.se"
       }
     },
@@ -904,12 +904,12 @@
       }
     },
     {
-      "id": "8405f88c2fbe",
-      "title": "Kvinnors hälsa är ett underforskat ämne – ny forskning skapar grund för mer jämlika och individuella behandlingar - University of Helsinki",
+      "id": "e9d4db833c10",
+      "title": "Kvinnors hälsa är ett underforskat ämne – ny forskning skapar grund för mer jämlika och individuella behandlingar - helsinki.fi",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQamcySzlldkliMUplVDRjWnUtUFBVZHRpTW1wV0Utc3VORGl1OUZlQXNRTHRVOUh5U2hhcVhoSlJaNE5ydU43SUtRWTFKd0tQcVFfNUZ0REsyZWpyZjRJMmFfenZMNnB1V3JsNjNsbmRSeWxSdnZDM3ZOMHJHMG1EWmJKUDV6VjBCLXBYcm03ckluZkZicUNEUHRCNVkzaEpjb1J3Rll6OUx5NERiZEt4dVNRZlExZU1scUx4OWphZVpuaWdOMkNtRGt5dDA5Y3pEb0dBWk9paTUxTUFKek5nZ1JSaUJ5YUtwTXdpSFBR?oc=5",
       "published": "2026-03-02T08:00:00+00:00",
       "source": {
-        "name": "University of Helsinki",
+        "name": "helsinki.fi",
         "url": "https://www.helsinki.fi"
       }
     },
