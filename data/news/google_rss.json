@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-12T21:39:38.025835+00:00",
+  "fetched_at": "2026-08-12T22:34:40.650189+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,12 +24,12 @@
       }
     },
     {
-      "id": "e9b0612dc741",
-      "title": "Frågorna svenskarna inte vågar ställa på apoteket - experten svarar - metromode.se",
+      "id": "ab2e976c2bdf",
+      "title": "Frågorna svenskarna inte vågar ställa på apoteket - experten svarar - Metro Mode",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVWV0VlEzVGtfTHNnN1hqN1VLQURhTU1ZTE03Uml5dmNiZ3dJMDdpVGtsMGpmZHVEWjQ1RkdYaVpFNnZhRzZSakNxcUl4UjgtV2pIRFJjTWhHVGJTdjJuUjBIVWtvQWxXRzM2a0lkbncxSnlQOHVqdmk1b2lXR25BanRIMEpJWkVHVWptbzRRc3lmWlRKclNjdA?oc=5",
       "published": "2026-08-12T18:45:31+00:00",
       "source": {
-        "name": "metromode.se",
+        "name": "Metro Mode",
         "url": "https://metromode.se"
       }
     },
@@ -54,16 +54,6 @@
       }
     },
     {
-      "id": "5181843398f4",
-      "title": "Mediciner skrivs oftare ut till personer med ätstörning - TV4 Nyheterna",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZExhU1JWdTBIeHpndVQ3Y3pVQ1AzOUVhc193cFh1REhNQW9hT1BjNmRWc2plLWI4ZDBITW9kRmtSbG5xaEQzbFBDNFAxMUp1ZFI3VXJVeWhXU0xRTkRGbzljMGxDY3kteUZVTmN1Y3NiVldiVTg0UlROMzNnRmQzaDJORVRsbnoxVW5EVWZPdm9jVjZMdG94RzcydWVZbTlCZlBLaWp0QzdJLUNuTU56dl9RcUE5amdHOGRFdkVEVzhIeWJGbVE?oc=5",
-      "published": "2026-08-12T08:21:50+00:00",
-      "source": {
-        "name": "TV4 Nyheterna",
-        "url": "https://www.tv4.se"
-      }
-    },
-    {
       "id": "37ffb7085892",
       "title": "Under sommar och semester: Viktiga råd om vård, läkemedel och hälsa - Region Stockholm",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc29wZVpvNUticDZRcDlfcHdNU2NnNmpZSXpyMWZ6Yy0tdTBxWElvRGNLM010cTZha1J4YnRlUTZKX0dWY0VFaFNsN1dxUUZrZmZ2SFNwWi1NR3Y5WndsamlPalFpTFU4WEthbmQzVHNjWU5ISWhyRU5nOHhHVndoMWJfZl9WTGJvQUJJc2xpb1c1OGhHc09LMUF1N1pwckNNZjhVbm02OHlKNjNzR3lmVlAzMA?oc=5",
@@ -71,6 +61,16 @@
       "source": {
         "name": "Region Stockholm",
         "url": "https://www.regionstockholm.se"
+      }
+    },
+    {
+      "id": "5181843398f4",
+      "title": "Mediciner skrivs oftare ut till personer med ätstörning - TV4 Nyheterna",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZExhU1JWdTBIeHpndVQ3Y3pVQ1AzOUVhc193cFh1REhNQW9hT1BjNmRWc2plLWI4ZDBITW9kRmtSbG5xaEQzbFBDNFAxMUp1ZFI3VXJVeWhXU0xRTkRGbzljMGxDY3kteUZVTmN1Y3NiVldiVTg0UlROMzNnRmQzaDJORVRsbnoxVW5EVWZPdm9jVjZMdG94RzcydWVZbTlCZlBLaWp0QzdJLUNuTU56dl9RcUE5amdHOGRFdkVEVzhIeWJGbVE?oc=5",
+      "published": "2026-08-12T08:21:50+00:00",
+      "source": {
+        "name": "TV4 Nyheterna",
+        "url": "https://www.tv4.se"
       }
     },
     {
@@ -134,10 +134,10 @@
       }
     },
     {
-      "id": "3bdd7c4b5107",
-      "title": "EU-länder vill korta prövningstider – men kritiker vill ha mer - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3RVM05RWUVXcGZGUndaR3hRZHVvUW9KLWxHZEQtVTl1MVhLcmt0OXRMcmpZT190YzBMV1h2OExpQzRHSWlkSVdfZjlHY1VRdWtwVnQtVVN4LVMtZ3JZYVROX2p1R0NIVW5SZkJteE5IM1JQV21mc2FmWlc1a1FBOXNHQWlfdjRWU3FrTENFNXRsMDVpdW5hUmhuc29QX1dYRDktZ1ltM1ZEY1VqSUxDMFlYWQ?oc=5",
-      "published": "2026-08-10T02:57:00+00:00",
+      "id": "6ed963e4b9d3",
+      "title": "Finerenon bromsar njursjukdom ej kopplad till diabetes - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVZERXRTNmFFaW81QmI1aHNoWl81UzFtZERTakJUUmJWTXNPWGFUWTM1QzNLNVZBeUtDbmxyYktWeDRyeUJkeWZYU1Rhc3BoeHJ5aEpQWm00ZWF1VEFLcG9jYWFldm85bWE1Uk40T2RBM3BWcmdqY19YNjZGTGwwdzhJRzljRERjVTRYY1dKSDlzWlBnVG5qajRVYTZJMGtfV2dRQXZHUUhzaXM?oc=5",
+      "published": "2026-08-11T04:47:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -164,10 +164,10 @@
       }
     },
     {
-      "id": "6ed963e4b9d3",
-      "title": "Finerenon bromsar njursjukdom ej kopplad till diabetes - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVZERXRTNmFFaW81QmI1aHNoWl81UzFtZERTakJUUmJWTXNPWGFUWTM1QzNLNVZBeUtDbmxyYktWeDRyeUJkeWZYU1Rhc3BoeHJ5aEpQWm00ZWF1VEFLcG9jYWFldm85bWE1Uk40T2RBM3BWcmdqY19YNjZGTGwwdzhJRzljRERjVTRYY1dKSDlzWlBnVG5qajRVYTZJMGtfV2dRQXZHUUhzaXM?oc=5",
-      "published": "2026-08-11T04:47:00+00:00",
+      "id": "3bdd7c4b5107",
+      "title": "EU-länder vill korta prövningstider – men kritiker vill ha mer - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3RVM05RWUVXcGZGUndaR3hRZHVvUW9KLWxHZEQtVTl1MVhLcmt0OXRMcmpZT190YzBMV1h2OExpQzRHSWlkSVdfZjlHY1VRdWtwVnQtVVN4LVMtZ3JZYVROX2p1R0NIVW5SZkJteE5IM1JQV21mc2FmWlc1a1FBOXNHQWlfdjRWU3FrTENFNXRsMDVpdW5hUmhuc29QX1dYRDktZ1ltM1ZEY1VqSUxDMFlYWQ?oc=5",
+      "published": "2026-08-10T02:57:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -244,12 +244,22 @@
       }
     },
     {
-      "id": "cde3751d6545",
-      "title": "Begäran om utlåtande: Lagändringarna förbättrar försörjningsberedskapen för läkemedel och medicintekniska produkter - Statsrådet - valtioneuvosto.fi",
+      "id": "ca38aa08315f",
+      "title": "Det är risken med vanliga värktabletten - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWp2VHJPbnU5bW5iWE02RE9VRWNPbTJnTWs0azlleEVsUGpVdF8tRmM5aUtZR2JUalRxQUt3Z2d5NnV1VzF1czE3dlNmU1VCQXNQOXV2OGZWcjNzVndtd3Atc0VMekwyOS15X3EyWU93ZUNNRHBMSGZQZFBjd2lzb3FDc1lqdw?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "d76593c56aee",
+      "title": "Begäran om utlåtande: Lagändringarna förbättrar försörjningsberedskapen för läkemedel och medicintekniska produkter - Statsrådet - Valtioneuvosto",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaExwbVh5aXFLZWdqM3FJdXd2aFdUX005TlAtTFhtb2NTTXNYMGdodzR0ZlEyS3VPSVdxdmdmemJscXU1OFJoaW85YUh1d3huNVRKRC1RRDVfMXVPNTJlS2FFMVFhQzNmRDA2QkI2ajlRanQyREQycWRWNGJVQ0ktYl80d1M1UXhQLXRiVFN1YXR5QzdSMkUxMnMxYTM1WlFJVW1YdUtZN29iVVh5YUxrRjNMUDdDOXJRSFBmU3hpVkVqczJyRFF0UEl6RTNqbkVWZE4tQWpJc1B4SU9zZzVkZ2dBaXVCSElK?oc=5",
       "published": "2026-06-18T12:24:00+00:00",
       "source": {
-        "name": "valtioneuvosto.fi",
+        "name": "Valtioneuvosto",
         "url": "https://valtioneuvosto.fi"
       }
     },
@@ -258,16 +268,6 @@
       "title": "(+) Då kan dina läkemedel bli skadliga – i värmen - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNEVUY0Q2RnA3OEs3ektLS1lySTVvQzVCQnp3MFpxM0ZQekFnbzdrU2VYSFY5eXJTcWVxZ0NwUktyRGJxWVoySnYzWW9QQ0NwcW1BUnhpbHV1Zjd5TTNGSWVtRFVRMW5YTHE1VnAtcTh5ektvcV9mQW93ZTFNR3NPWkx4WV9IZ1FmOW9ZOWhR?oc=5",
       "published": "2026-07-16T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "ca38aa08315f",
-      "title": "Det är risken med vanliga värktabletten - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWp2VHJPbnU5bW5iWE02RE9VRWNPbTJnTWs0azlleEVsUGpVdF8tRmM5aUtZR2JUalRxQUt3Z2d5NnV1VzF1czE3dlNmU1VCQXNQOXV2OGZWcjNzVndtd3Atc0VMekwyOS15X3EyWU93ZUNNRHBMSGZQZFBjd2lzb3FDc1lqdw?oc=5",
-      "published": "2026-08-03T07:00:00+00:00",
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
@@ -404,16 +404,6 @@
       }
     },
     {
-      "id": "f7a0bd960fbb",
-      "title": "Ny studie: Blodtrycksmedicin med minst biverkningar - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYTdWeUNsdkFpem5sbXJlUEhPaElIRGFFLU1iYnBEUENLelQ2aXJONi05MmVSeHZqU3l6VmZzRTVxQ1hLbFJLcWVQN1VBUEx1MzRaSHRNZ2ExM0g1dkFlTmFMYW9SSERka1FwZ0k2SGxsZ1FoM081TUJtTnZ1N3NMdGtWMFZtLUV5d0dTRUpsV1VTUQ?oc=5",
-      "published": "2026-08-02T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "0cb3d64286da",
       "title": "TLV: Varje skattekrona ska ge mesta möjliga hälsa - Svenska Dagbladet",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjRjR2NzaGRwdUtOQjJvZDlpVDc1SDhJcDZ1dzFYaU9vT1NPM0tRZFoxcHlYaHZLVHJWd1UzLVhHaUFKODVMcnE4cHJYVlNVbWRXRnd3bnkta0czT0NiU3RvVndwTHR4bG8zWGhfQnJMZlJzNDNGVDU0bDRFdVVSejdaYk1VMG9sM1hj?oc=5",
@@ -471,6 +461,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "f7a0bd960fbb",
+      "title": "Ny studie: Blodtrycksmedicin med minst biverkningar - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYTdWeUNsdkFpem5sbXJlUEhPaElIRGFFLU1iYnBEUENLelQ2aXJONi05MmVSeHZqU3l6VmZzRTVxQ1hLbFJLcWVQN1VBUEx1MzRaSHRNZ2ExM0g1dkFlTmFMYW9SSERka1FwZ0k2SGxsZ1FoM081TUJtTnZ1N3NMdGtWMFZtLUV5d0dTRUpsV1VTUQ?oc=5",
+      "published": "2026-08-02T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -574,12 +574,12 @@
       }
     },
     {
-      "id": "6f4f0f55aa56",
-      "title": "Finlands nya FinTrials-modell försnabbar de kliniska prövningarna med läkemedel och medicintekniska produkter - valtioneuvosto.fi",
+      "id": "46ea837f5393",
+      "title": "Finlands nya FinTrials-modell försnabbar de kliniska prövningarna med läkemedel och medicintekniska produkter - Valtioneuvosto",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzcxS0ZmaFJXMXVBa1RRc3NTclZXZ1U0dEVIZGxON09Wb0hPcnJBeEZZYmZyT0x4eEJwaVQtTHJKdnZPVHczRkhKeElST18zalVpal9WNWlSRE90c3F1M2ZXd255RGxvcjRkaHNpOXJhT2RuVFZ6dGNZcVhaRGJoZ21ITVdIQTZmZzUtQzVBT244bVhGeGhWSkVDdlBRS1pmZjBEb3p1VVlTSURoRnFXVy1wTE1pZXpUeVJSRGZGM293UmNCaXpHcl9ITXc0eWFoYzRfQkNKa0JNV2ZNRjhyYm53?oc=5",
       "published": "2026-06-09T07:00:00+00:00",
       "source": {
-        "name": "valtioneuvosto.fi",
+        "name": "Valtioneuvosto",
         "url": "https://valtioneuvosto.fi"
       }
     },
@@ -644,16 +644,6 @@
       }
     },
     {
-      "id": "63b41be3c9d1",
-      "title": "FDA godkänner tablett mot narkolepsi - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbXhOX25VSm9aODVpTXJvM1lhOEFYa18yZGR0MEowTjcxS0tSQmVadVFBemVPc3hfLVB5RUVtUlBQVnFTZFg4Z2h2N2RCLVhtaGk4dmJvN1IwTUNfaTAzek9yNnVlcGJUb0FzeXUtajdUdG55cVdfX05FbWVobEhoS05NZU9qUkRSeTIxaVpWZDJWRWpNSkpWNFN3?oc=5",
-      "published": "2026-08-05T23:10:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "f5e3c446a8fc",
       "title": "Nya lagar och regler införs – så berörs hälso- och sjukvård - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUzNfaWFLd0I3WmJqZ0dxUnVraTJZWVBiaWxNR0FUTUZyemItTmZFb1RKRHZKZmRFR1lEelZtSTVJVE9TRG1WNlBEcEc1YVRGRHo0N1p0ekFOSUFINGU5Rkp1b0pwYnZmVl9DamVEallBVkVYRXpZTWxLcFVtRG01MzJmamxWNHdiSmhpb1NtMDFpMmlsS25qQjY4MDFkeE1pQ2dUM1FKM2ctc0xWQzFDbA?oc=5",
@@ -668,6 +658,16 @@
       "title": "VGR säger upp avtal med vårdcentral i Kållered - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNjFDUEVwTnN6U2JyR0JoQzNQTi1ENVk0c0dJdm4wbFljeDhnZVRBLWx2anM2SUNCZXIwa2Z5QnpaVUJ1VnhHVlYxMjd0aEdrcXFuSFhaOXRhbXU5Szc2NFBoNUdrTDVzVWpHeVkwUHRyMmFtd3dwaGRXZmlrcjdSTlJjOTBic2Z6WGpXTl9OSmZKWDJFZ2hXemg3cnFRaDdsaUg0?oc=5",
       "published": "2026-06-08T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "63b41be3c9d1",
+      "title": "FDA godkänner tablett mot narkolepsi - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbXhOX25VSm9aODVpTXJvM1lhOEFYa18yZGR0MEowTjcxS0tSQmVadVFBemVPc3hfLVB5RUVtUlBQVnFTZFg4Z2h2N2RCLVhtaGk4dmJvN1IwTUNfaTAzek9yNnVlcGJUb0FzeXUtajdUdG55cVdfX05FbWVobEhoS05NZU9qUkRSeTIxaVpWZDJWRWpNSkpWNFN3?oc=5",
+      "published": "2026-08-05T23:10:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
