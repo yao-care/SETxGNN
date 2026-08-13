@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-13T14:22:58.910174+00:00",
+  "fetched_at": "2026-08-13T15:54:34.888451+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -14,6 +14,16 @@
       }
     },
     {
+      "id": "dc8f01c60661",
+      "title": "Läkaren: Så kan risken för stroke minskas – vid blodförtunnande - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2VPZDE2bXRyME41VHAzQUd5RGN1NXRvRklXQWxZdGtiQmtHRFFTX09ydENvRmNXZG5zTzFLXzNOaVF2Mi1oUFZybHc1d2NxWURCeXRoek1QMHdPR01VYkxSSTZnZ0tGU1hXS3Q0S21meWVNbmlxU0F2a0YtUjlTTVdqTGVzZE1qUkVVaFVwWFNLQUF0YU9LdWNzX0UzYVBFSzdKTQ?oc=5",
+      "published": "2026-08-11T08:08:01+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
       "id": "928ae1e815b4",
       "title": "Tillgång till läkemedel mot opioidöverdoser - Örebronyheter",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GQ2ozbk1BcVdlOHFHU0loVV9kaE9fVlJ6QlNDVDRzdC1TZm0xVTRxNk4wMHI4SkNFZUxIWmFfcVg3MUI0OGlfTjltMzBGQ1ItZGswT1dHYTZIZkdEc09neTBiR3BQbXVSWHdCY0lNdGdieTI3WFMxazhSSEcyTWc?oc=5",
@@ -21,16 +31,6 @@
       "source": {
         "name": "Örebronyheter",
         "url": "https://www.orebronyheter.com"
-      }
-    },
-    {
-      "id": "dc8f01c60661",
-      "title": "Läkaren: Så kan risken för stroke minskas – vid blodförtunnande - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2VPZDE2bXRyME41VHAzQUd5RGN1NXRvRklXQWxZdGtiQmtHRFFTX09ydENvRmNXZG5zTzFLXzNOaVF2Mi1oUFZybHc1d2NxWURCeXRoek1QMHdPR01VYkxSSTZnZ0tGU1hXS3Q0S21meWVNbmlxU0F2a0YtUjlTTVdqTGVzZE1qUkVVaFVwWFNLQUF0YU9LdWNzX0UzYVBFSzdKTQ?oc=5",
-      "published": "2026-08-10T16:30:34+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -44,6 +44,16 @@
       }
     },
     {
+      "id": "37ffb7085892",
+      "title": "Under sommar och semester: Viktiga råd om vård, läkemedel och hälsa - Region Stockholm",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc29wZVpvNUticDZRcDlfcHdNU2NnNmpZSXpyMWZ6Yy0tdTBxWElvRGNLM010cTZha1J4YnRlUTZKX0dWY0VFaFNsN1dxUUZrZmZ2SFNwWi1NR3Y5WndsamlPalFpTFU4WEthbmQzVHNjWU5ISWhyRU5nOHhHVndoMWJfZl9WTGJvQUJJc2xpb1c1OGhHc09LMUF1N1pwckNNZjhVbm02OHlKNjNzR3lmVlAzMA?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "source": {
+        "name": "Region Stockholm",
+        "url": "https://www.regionstockholm.se"
+      }
+    },
+    {
       "id": "ab2e976c2bdf",
       "title": "Frågorna svenskarna inte vågar ställa på apoteket - experten svarar - Metro Mode",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVWV0VlEzVGtfTHNnN1hqN1VLQURhTU1ZTE03Uml5dmNiZ3dJMDdpVGtsMGpmZHVEWjQ1RkdYaVpFNnZhRzZSakNxcUl4UjgtV2pIRFJjTWhHVGJTdjJuUjBIVWtvQWxXRzM2a0lkbncxSnlQOHVqdmk1b2lXR25BanRIMEpJWkVHVWptbzRRc3lmWlRKclNjdA?oc=5",
@@ -51,16 +61,6 @@
       "source": {
         "name": "Metro Mode",
         "url": "https://metromode.se"
-      }
-    },
-    {
-      "id": "67ab7249a5f5",
-      "title": "Under sommar och semester: Viktiga råd om vård, läkemedel och hälsa - regionstockholm.se",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc29wZVpvNUticDZRcDlfcHdNU2NnNmpZSXpyMWZ6Yy0tdTBxWElvRGNLM010cTZha1J4YnRlUTZKX0dWY0VFaFNsN1dxUUZrZmZ2SFNwWi1NR3Y5WndsamlPalFpTFU4WEthbmQzVHNjWU5ISWhyRU5nOHhHVndoMWJfZl9WTGJvQUJJc2xpb1c1OGhHc09LMUF1N1pwckNNZjhVbm02OHlKNjNzR3lmVlAzMA?oc=5",
-      "published": "2026-06-29T07:00:00+00:00",
-      "source": {
-        "name": "regionstockholm.se",
-        "url": "https://www.regionstockholm.se"
       }
     },
     {
@@ -84,16 +84,6 @@
       }
     },
     {
-      "id": "4e1059190219",
-      "title": "Frågor många inte vågar ställa på apoteket - TV4 Nyheterna",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYVItTWVuSl9NQ20zR09hRHBZT3JwMmwzczRJYlVWYnJPMk9iQ3Y1djNfNWFPcDQyYUNobnhGUlcwLXNIbzVBdUpuTzJQdzl1Nm9aRTBVdHpUNTNWdHdsRU5IQlB3dm5LQVRlWnQxeERFRVZPTFJUU3ctblJrd1YzSndjMUxOMzVhY2FkWC0wbjdNbWxEemJEV0l6ZnVTMm1nU05PMVNCOUVBcE9nMHFVcXJB?oc=5",
-      "published": "2026-08-10T18:26:35+00:00",
-      "source": {
-        "name": "TV4 Nyheterna",
-        "url": "https://www.tv4.se"
-      }
-    },
-    {
       "id": "af0f2d39b273",
       "title": "Om oegentlig förskrivning i årsberättelsen om läkemedel - Janusinfo.se",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWVlRaFM1RWVrejd0SkhPVmJBYVk0UmRDUWZpRTFkX3BWeEFKTjAyc3NUNURnd2MwNWM3Sm1QMGM4dUozVkU1NTVBb2ROYTBIcFZUOWt0ODgyNVkxWmNRVjZnZ0FmMi1hTks4TTRBZEJqZngwQldoRjFVemNScDRZOXBxZnZvTXJnRWhsSzlPaTcyWnN4MVBXNlBOakgzNGRRWjNDQ2dhQUp3c3Y3VW1iOEFDLTJObF9lZU5kaG53?oc=5",
@@ -101,6 +91,16 @@
       "source": {
         "name": "Janusinfo.se",
         "url": "https://janusinfo.se"
+      }
+    },
+    {
+      "id": "4e1059190219",
+      "title": "Frågor många inte vågar ställa på apoteket - TV4 Nyheterna",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYVItTWVuSl9NQ20zR09hRHBZT3JwMmwzczRJYlVWYnJPMk9iQ3Y1djNfNWFPcDQyYUNobnhGUlcwLXNIbzVBdUpuTzJQdzl1Nm9aRTBVdHpUNTNWdHdsRU5IQlB3dm5LQVRlWnQxeERFRVZPTFJUU3ctblJrd1YzSndjMUxOMzVhY2FkWC0wbjdNbWxEemJEV0l6ZnVTMm1nU05PMVNCOUVBcE9nMHFVcXJB?oc=5",
+      "published": "2026-08-10T18:26:35+00:00",
+      "source": {
+        "name": "TV4 Nyheterna",
+        "url": "https://www.tv4.se"
       }
     },
     {
@@ -144,16 +144,6 @@
       }
     },
     {
-      "id": "8d1a31973b04",
-      "title": "Barnläkare vädjar till regeringen: Stoppa nedläggning av register - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT0ZPa1FZMkJZTW00YnhMNlNfaV9IN3lSX0tYV3JlWUNKcTNtRGJEcFBwWXpCckQwUkNBTHdmZjI5UkNEdjNsalpBcV8xX2otSmMxa3BrSzROMWhZV3BwbFJrQWYxM3JDbU5xazEyWDd4bk5VQTFsa2E4X0FZQThreVo2Z3pqMjluWFlFVllHQUMyajd5TU9kZlBkNmpiTzdWRk4xSGhNZDNZOXViTERJZWlKWGhwTWlwWFlnTzZ3cGJaOEU?oc=5",
-      "published": "2026-08-11T04:51:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "b839bf00c97e",
       "title": "”När politiska budskap påverkar hälsa och tillgång till läkemedel” - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW9FaGZQZmRZbUp2WDFsX3dkRFQ1Q1R0UHlhTGlIREc4LUpDT05Od1h2SUhieFh3aWUxUnFjTXYwNGZBWFJkdENQTTVmbWZTR0tkSEZ4eUZZUlBaa24yVFdvd1dMS2dmZVJLMjlLOWNfUmprNGJvZDVTaGpYZEVETXFPcnhVR3A3LXNVWGlZeDE5dDFMTEdpWHliUHkwSUJuTzhxS1prN2I?oc=5",
@@ -161,6 +151,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "8d1a31973b04",
+      "title": "Barnläkare vädjar till regeringen: Stoppa nedläggning av register - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT0ZPa1FZMkJZTW00YnhMNlNfaV9IN3lSX0tYV3JlWUNKcTNtRGJEcFBwWXpCckQwUkNBTHdmZjI5UkNEdjNsalpBcV8xX2otSmMxa3BrSzROMWhZV3BwbFJrQWYxM3JDbU5xazEyWDd4bk5VQTFsa2E4X0FZQThreVo2Z3pqMjluWFlFVllHQUMyajd5TU9kZlBkNmpiTzdWRk4xSGhNZDNZOXViTERJZWlKWGhwTWlwWFlnTzZ3cGJaOEU?oc=5",
+      "published": "2026-08-11T04:51:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -574,16 +574,6 @@
       }
     },
     {
-      "id": "9d0d172e9682",
-      "title": "Vanlig medicin kan öka risken för hjärtsjukdom - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFVGWEdzcnBlX1hlUmtNcTRKME9xM0ZKNUJsdS14UEMxTS1VSkJHLS1nTEtTb1g1MXBhMHc0MFVzMWl1M0hONTBkLXNHdXhQZFpBNjNWSE9jMXVQVWFHbzVMRkNQYV9jbF9MOUZWRm9lOU4tQmQ3OEhkaEQ4UmpNWUxPdmZHMXN4S0J3Y1Q4d3ZaQQ?oc=5",
-      "published": "2026-06-30T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "f5e3c446a8fc",
       "title": "Nya lagar och regler införs – så berörs hälso- och sjukvård - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUzNfaWFLd0I3WmJqZ0dxUnVraTJZWVBiaWxNR0FUTUZyemItTmZFb1RKRHZKZmRFR1lEelZtSTVJVE9TRG1WNlBEcEc1YVRGRHo0N1p0ekFOSUFINGU5Rkp1b0pwYnZmVl9DamVEallBVkVYRXpZTWxLcFVtRG01MzJmamxWNHdiSmhpb1NtMDFpMmlsS25qQjY4MDFkeE1pQ2dUM1FKM2ctc0xWQzFDbA?oc=5",
@@ -604,12 +594,22 @@
       }
     },
     {
-      "id": "661e5e895a59",
-      "title": "PFAS lämnar kroppen snabbare med vissa läkemedel - Göteborgs universitet",
+      "id": "9d0d172e9682",
+      "title": "Vanlig medicin kan öka risken för hjärtsjukdom - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFVGWEdzcnBlX1hlUmtNcTRKME9xM0ZKNUJsdS14UEMxTS1VSkJHLS1nTEtTb1g1MXBhMHc0MFVzMWl1M0hONTBkLXNHdXhQZFpBNjNWSE9jMXVQVWFHbzVMRkNQYV9jbF9MOUZWRm9lOU4tQmQ3OEhkaEQ4UmpNWUxPdmZHMXN4S0J3Y1Q4d3ZaQQ?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "812298566486",
+      "title": "PFAS lämnar kroppen snabbare med vissa läkemedel - gu.se",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdzQtVGltZzNOaHRzakxGcktvdDJvdEpFTUVHTFVYbU9VUko4dnprampfVnQ3azhiZHcydmNwV29xd2pPSUNJM0NzUFFBRHFQUzVTUXFHZjFIYWhfbVFSUFJJaW5DckRrdjlVLTU0Qy1XRGZkSnhsS3FnMl95VWc?oc=5",
       "published": "2025-10-30T07:00:00+00:00",
       "source": {
-        "name": "Göteborgs universitet",
+        "name": "gu.se",
         "url": "https://www.gu.se"
       }
     },
@@ -934,12 +934,12 @@
       }
     },
     {
-      "id": "c7da56cdfb17",
-      "title": "Läkemedelsverkets varning: Unga äter allt mer medicin - Sveriges Radio",
+      "id": "0bb8761464b1",
+      "title": "Läkemedelsverkets varning: Unga äter allt mer medicin - sverigesradio.se",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORTMxVFlYMnRZVnB3bl9OcEFGX1pDOXpuM2Q1MFRvMVZxbGU4VTIzdmtmRXBhU0U5ZVBqc1B5N0s4c0t1aVJRRm5rVUF4Y3g0MzN5SllRSzY1djlWR3pwbDFySFBMeUZKWUV4cVR4Zm9wZUNUYl9KWkMwUlEtdjBibDRQSWZCYWFNelRDVWk5bkE4ZlE?oc=5",
       "published": "2025-11-16T08:00:00+00:00",
       "source": {
-        "name": "Sveriges Radio",
+        "name": "sverigesradio.se",
         "url": "https://www.sverigesradio.se"
       }
     },
