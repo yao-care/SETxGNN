@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-08-17T06:43:03.403888+00:00",
+  "fetched_at": "2026-08-17T07:47:54.567255+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
+    {
+      "id": "b56e548e0cb1",
+      "title": "Ny studie: Det är optimala dosen av adhd-medicin - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTb09zNV9WcFY1ejR4MnZrSkxJbVdrU3JEczJMRDk3YVVZemoyQXY4XzE5NGRiMXpZRWI4a0pmcFp5V0MtbDE0bTY4TnNhWTd4eUdQdXRuY2M0dlg0N3I5SDB4NEVoZkpUZDJrMGxFU0ZRWmJIYi1ZZg?oc=5",
+      "published": "2026-08-17T07:42:53+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
     {
       "id": "16a9379191d6",
       "title": "TLV: Nya läkemedel driver ökade kostnader - Altinget.se",
@@ -11,16 +21,6 @@
       "source": {
         "name": "Altinget.se",
         "url": "https://www.altinget.se"
-      }
-    },
-    {
-      "id": "79add85ceb71",
-      "title": "Astra Zeneca skrotar fas 3-studie - Dagens industri",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lYWlBQzBRd29nLV9DTDN6bFo0YzVlR1dfSTVhX1lUQUpIWVVJaXI0dFNUVUs5NXVhdTB1cUg0djdJVGw1VDFMaVN3YUoyUll0Yi1UQVV2RHJXVzFPS3lDNlhvMGpWZmk3?oc=5",
-      "published": "2026-08-17T06:24:23+00:00",
-      "source": {
-        "name": "Dagens industri",
-        "url": "https://www.di.se"
       }
     },
     {
@@ -34,6 +34,16 @@
       }
     },
     {
+      "id": "79add85ceb71",
+      "title": "Astra Zeneca skrotar fas 3-studie - Dagens industri",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lYWlBQzBRd29nLV9DTDN6bFo0YzVlR1dfSTVhX1lUQUpIWVVJaXI0dFNUVUs5NXVhdTB1cUg0djdJVGw1VDFMaVN3YUoyUll0Yi1UQVV2RHJXVzFPS3lDNlhvMGpWZmk3?oc=5",
+      "published": "2026-08-17T06:24:23+00:00",
+      "source": {
+        "name": "Dagens industri",
+        "url": "https://www.di.se"
+      }
+    },
+    {
       "id": "a1d751cdd1fc",
       "title": "16-åring hamnade på akuten då ingen följde upp hans adhd-medicinering - Yle",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9KQk8zSXAtQk1RdEhTUnlEVHJkSUxqTGUyOEhIMUxZVjRnMG16S3l2ZFBKRFZHRmJNSjFFZC1LSFY?oc=5",
@@ -41,16 +51,6 @@
       "source": {
         "name": "Yle",
         "url": "https://yle.fi"
-      }
-    },
-    {
-      "id": "dc8f01c60661",
-      "title": "Läkaren: Så kan risken för stroke minskas – vid blodförtunnande - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2VPZDE2bXRyME41VHAzQUd5RGN1NXRvRklXQWxZdGtiQmtHRFFTX09ydENvRmNXZG5zTzFLXzNOaVF2Mi1oUFZybHc1d2NxWURCeXRoek1QMHdPR01VYkxSSTZnZ0tGU1hXS3Q0S21meWVNbmlxU0F2a0YtUjlTTVdqTGVzZE1qUkVVaFVwWFNLQUF0YU9LdWNzX0UzYVBFSzdKTQ?oc=5",
-      "published": "2026-08-11T08:08:01+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -134,13 +134,13 @@
       }
     },
     {
-      "id": "2baa011870e5",
-      "title": "Nya förslag ska göra det lättare att dela läkemedel mellan civil och militär sjukvård - Via TT",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeW9XVEJPenJxdTgzMzVsZUxsOUhmbzNBbDZUa29hdi05UG9kcGM1VUJtRHM4X3NOMVpnZ2h1SUtiUlV5OS1XbXFBY3pHei1QdE5PcmlPM0RtYlQ1WkhkWmtFY2hSZjBUdFZxQXc3NTJVem9sY3AwcS1yOFR2OWplQ2tMdERTWUhIOW5aejE4Q0VHUzZVVUc5RFVMSTRISk40c2E2b1lqN0ZIa3gwSGlWaDA0SGRUZllibVZpcmw0MkZkQmhkVzU3a0p3NWliSlJ1MkJaVmFWYkFKeGlvN0JsU2N4bmt5a1dKMzQ4?oc=5",
-      "published": "2026-06-22T07:00:00+00:00",
+      "id": "dc8f01c60661",
+      "title": "Läkaren: Så kan risken för stroke minskas – vid blodförtunnande - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2VPZDE2bXRyME41VHAzQUd5RGN1NXRvRklXQWxZdGtiQmtHRFFTX09ydENvRmNXZG5zTzFLXzNOaVF2Mi1oUFZybHc1d2NxWURCeXRoek1QMHdPR01VYkxSSTZnZ0tGU1hXS3Q0S21meWVNbmlxU0F2a0YtUjlTTVdqTGVzZE1qUkVVaFVwWFNLQUF0YU9LdWNzX0UzYVBFSzdKTQ?oc=5",
+      "published": "2026-08-11T08:08:01+00:00",
       "source": {
-        "name": "Via TT",
-        "url": "https://via.tt.se"
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -201,6 +201,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "2baa011870e5",
+      "title": "Nya förslag ska göra det lättare att dela läkemedel mellan civil och militär sjukvård - Via TT",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeW9XVEJPenJxdTgzMzVsZUxsOUhmbzNBbDZUa29hdi05UG9kcGM1VUJtRHM4X3NOMVpnZ2h1SUtiUlV5OS1XbXFBY3pHei1QdE5PcmlPM0RtYlQ1WkhkWmtFY2hSZjBUdFZxQXc3NTJVem9sY3AwcS1yOFR2OWplQ2tMdERTWUhIOW5aejE4Q0VHUzZVVUc5RFVMSTRISk40c2E2b1lqN0ZIa3gwSGlWaDA0SGRUZllibVZpcmw0MkZkQmhkVzU3a0p3NWliSlJ1MkJaVmFWYkFKeGlvN0JsU2N4bmt5a1dKMzQ4?oc=5",
+      "published": "2026-06-22T07:00:00+00:00",
+      "source": {
+        "name": "Via TT",
+        "url": "https://via.tt.se"
       }
     },
     {
@@ -524,16 +534,6 @@
       }
     },
     {
-      "id": "4e1059190219",
-      "title": "Frågor många inte vågar ställa på apoteket - TV4 Nyheterna",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYVItTWVuSl9NQ20zR09hRHBZT3JwMmwzczRJYlVWYnJPMk9iQ3Y1djNfNWFPcDQyYUNobnhGUlcwLXNIbzVBdUpuTzJQdzl1Nm9aRTBVdHpUNTNWdHdsRU5IQlB3dm5LQVRlWnQxeERFRVZPTFJUU3ctblJrd1YzSndjMUxOMzVhY2FkWC0wbjdNbWxEemJEV0l6ZnVTMm1nU05PMVNCOUVBcE9nMHFVcXJB?oc=5",
-      "published": "2026-08-10T18:26:35+00:00",
-      "source": {
-        "name": "TV4 Nyheterna",
-        "url": "https://www.tv4.se"
-      }
-    },
-    {
       "id": "0a37e457c688",
       "title": "Personalen talar ut – risk för barns hälsa: ”Ingen lyssnade” - Borås Tidning",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGpVeFVKT3dBTlFyRE5fSmhGUHpXM0ZJOUQyVzFFSnN4OXE1UzNuaE9neFVGTkNmYjJHYVhURkE1aFNMdFJ4c3lsS2VjbDNEU2k3X0VxeU1DdzM0NWhSRllsa2Fhak1uMHNhSEhYZVB5SkRxUm11aG5ZT2VwYUVYQXpfd1NTc3BwemYyVDZSaEdEVlVjQWpFR2p3?oc=5",
@@ -541,6 +541,16 @@
       "source": {
         "name": "Borås Tidning",
         "url": "https://www.bt.se"
+      }
+    },
+    {
+      "id": "4e1059190219",
+      "title": "Frågor många inte vågar ställa på apoteket - TV4 Nyheterna",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYVItTWVuSl9NQ20zR09hRHBZT3JwMmwzczRJYlVWYnJPMk9iQ3Y1djNfNWFPcDQyYUNobnhGUlcwLXNIbzVBdUpuTzJQdzl1Nm9aRTBVdHpUNTNWdHdsRU5IQlB3dm5LQVRlWnQxeERFRVZPTFJUU3ctblJrd1YzSndjMUxOMzVhY2FkWC0wbjdNbWxEemJEV0l6ZnVTMm1nU05PMVNCOUVBcE9nMHFVcXJB?oc=5",
+      "published": "2026-08-10T18:26:35+00:00",
+      "source": {
+        "name": "TV4 Nyheterna",
+        "url": "https://www.tv4.se"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "ETC.se",
         "url": "https://www.etc.se"
-      }
-    },
-    {
-      "id": "bc48aafef0e9",
-      "title": "Allt fler ifrågasätter sina mediciner enligt ny svensk studie - e55.se",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSjZlS3g4ZVJZenBSWGVhUktsVVlHMS1GaXhBeWtSY2ZwMkVHMEdiaGZVRWM1TUNmV1RjU19Za2hLUFM4dFhZTEEweVh4WmNSZGp1TW1mREs0NGxsVUlGOEI5NEpzdWxpeG8zaVlhdC1FM25lSkVxRmlTTklUN2NIS1NUMWtvSEJZTG9iVXlTSVE?oc=5",
-      "published": "2026-05-08T07:00:00+00:00",
-      "source": {
-        "name": "e55.se",
-        "url": "https://www.e55.se"
       }
     }
   ]
