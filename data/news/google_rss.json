@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17T19:23:24.107553+00:00",
+  "fetched_at": "2026-08-17T20:20:02.981207+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "af0f2d39b273",
-      "title": "Om oegentlig förskrivning i årsberättelsen om läkemedel - Janusinfo.se",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWVlRaFM1RWVrejd0SkhPVmJBYVk0UmRDUWZpRTFkX3BWeEFKTjAyc3NUNURnd2MwNWM3Sm1QMGM4dUozVkU1NTVBb2ROYTBIcFZUOWt0ODgyNVkxWmNRVjZnZ0FmMi1hTks4TTRBZEJqZngwQldoRjFVemNScDRZOXBxZnZvTXJnRWhsSzlPaTcyWnN4MVBXNlBOakgzNGRRWjNDQ2dhQUp3c3Y3VW1iOEFDLTJObF9lZU5kaG53?oc=5",
-      "published": "2026-04-28T07:00:00+00:00",
-      "source": {
-        "name": "Janusinfo.se",
-        "url": "https://janusinfo.se"
-      }
-    },
-    {
       "id": "5e392d5f87c7",
       "title": "Blodtrycksmedicinen som flest fortsätter ta – ny studie - News55",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM2UxNjJDN2YwblQ0RTdFR2hNSWlVSVNTTXJtMHV5eS1MaHgyWWZrMUpweU5rSXA1MWM2WGhIVFdiR1c3Tk5MdndPanBnMnlhNkF0SmE5VkVleDNxWUtJZV8zMU9ja3Y5dXQ0WW1abDVsdmZZWUpKY2dLZ3I3WXRxRHowYlpzc3JPcVE?oc=5",
@@ -84,10 +74,20 @@
       }
     },
     {
-      "id": "6d8ef3f52f0f",
-      "title": "”Vården behöver ett ledarskap baserat på vårdkunskap” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdk9vZlFuSTdYLXR6MXRWZUg1WGpGc0M2WmstYWo3S1dpN2VXN3FzQ1VJMElhT1ZaSWFHZV9GbVVKVmtIblRXVFhqWjJkU1oxdGR3bXB5dnJaQlh3S1ZsWjZ6QWZjQ0JLbmNDTTg0NmdKZ2I3V1lnUVJ6c2hqODQtNjVUM3huRDJwcFc5czc2djZqQlNsLVRoQzlWUUE?oc=5",
-      "published": "2026-08-16T18:30:00+00:00",
+      "id": "af0f2d39b273",
+      "title": "Om oegentlig förskrivning i årsberättelsen om läkemedel - Janusinfo.se",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWVlRaFM1RWVrejd0SkhPVmJBYVk0UmRDUWZpRTFkX3BWeEFKTjAyc3NUNURnd2MwNWM3Sm1QMGM4dUozVkU1NTVBb2ROYTBIcFZUOWt0ODgyNVkxWmNRVjZnZ0FmMi1hTks4TTRBZEJqZngwQldoRjFVemNScDRZOXBxZnZvTXJnRWhsSzlPaTcyWnN4MVBXNlBOakgzNGRRWjNDQ2dhQUp3c3Y3VW1iOEFDLTJObF9lZU5kaG53?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "source": {
+        "name": "Janusinfo.se",
+        "url": "https://janusinfo.se"
+      }
+    },
+    {
+      "id": "14b88054d6cb",
+      "title": "”Kvinnan behöver inte i första hand en vård som utgår från klimakteriet” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcGw3azdyMlpKa1VFRldydGhLQTVYT0hvZDZEcXBjZjVtTGZndUpjZ2RieHAzVU05SlRIenV2NG0tVHFIb2VQVHNUZ0F1UHVqMWgxbTNLd0N3ZHZpUmtDYXBiZDl1ZHAtM1lCMjdXbzJCNnM1ZnBIMlpjMVlZRDREak5ueDY4UjR1ZFdrRWtsS3QxRXAwY3dYeEVRTUVrU0hESFpmUlZGUE9qTk56dGRQR1VSRzFwZw?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -134,10 +134,10 @@
       }
     },
     {
-      "id": "14b88054d6cb",
-      "title": "”Kvinnan behöver inte i första hand en vård som utgår från klimakteriet” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcGw3azdyMlpKa1VFRldydGhLQTVYT0hvZDZEcXBjZjVtTGZndUpjZ2RieHAzVU05SlRIenV2NG0tVHFIb2VQVHNUZ0F1UHVqMWgxbTNLd0N3ZHZpUmtDYXBiZDl1ZHAtM1lCMjdXbzJCNnM1ZnBIMlpjMVlZRDREak5ueDY4UjR1ZFdrRWtsS3QxRXAwY3dYeEVRTUVrU0hESFpmUlZGUE9qTk56dGRQR1VSRzFwZw?oc=5",
-      "published": "2026-07-23T07:00:00+00:00",
+      "id": "6d8ef3f52f0f",
+      "title": "”Vården behöver ett ledarskap baserat på vårdkunskap” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdk9vZlFuSTdYLXR6MXRWZUg1WGpGc0M2WmstYWo3S1dpN2VXN3FzQ1VJMElhT1ZaSWFHZV9GbVVKVmtIblRXVFhqWjJkU1oxdGR3bXB5dnJaQlh3S1ZsWjZ6QWZjQ0JLbmNDTTg0NmdKZ2I3V1lnUVJ6c2hqODQtNjVUM3huRDJwcFc5czc2djZqQlNsLVRoQzlWUUE?oc=5",
+      "published": "2026-08-16T18:30:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -234,16 +234,6 @@
       }
     },
     {
-      "id": "ca38aa08315f",
-      "title": "Det är risken med vanliga värktabletten - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWp2VHJPbnU5bW5iWE02RE9VRWNPbTJnTWs0azlleEVsUGpVdF8tRmM5aUtZR2JUalRxQUt3Z2d5NnV1VzF1czE3dlNmU1VCQXNQOXV2OGZWcjNzVndtd3Atc0VMekwyOS15X3EyWU93ZUNNRHBMSGZQZFBjd2lzb3FDc1lqdw?oc=5",
-      "published": "2026-08-03T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "e786d9728a1e",
       "title": "Diabetesläkemedel kopplas till minskad psykisk ohälsa - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGpaVjZ1MlhUM0Ffc1lfYXpfVUZ2N0FnMjBuckZOQ0ZvX2pMX1d3blBGQUZ4TUltYlJtbTUwUDFicF80ZWtjSDh2UndrYmZaSFJiTWxnVXlGeWdlRXBfLXoyWFFlUkhaR25QbWwtNnF1QTlMX2s1MldyOURVSFBtWDQzd1huZGpYVE11MjdQM3l4VkM5ZG9TUVdB?oc=5",
@@ -261,6 +251,16 @@
       "source": {
         "name": "Lif – de forskande läkemedelsföretagen",
         "url": "https://www.lif.se"
+      }
+    },
+    {
+      "id": "ca38aa08315f",
+      "title": "Det är risken med vanliga värktabletten - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWp2VHJPbnU5bW5iWE02RE9VRWNPbTJnTWs0azlleEVsUGpVdF8tRmM5aUtZR2JUalRxQUt3Z2d5NnV1VzF1czE3dlNmU1VCQXNQOXV2OGZWcjNzVndtd3Atc0VMekwyOS15X3EyWU93ZUNNRHBMSGZQZFBjd2lzb3FDc1lqdw?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -314,12 +314,12 @@
       }
     },
     {
-      "id": "0cb3d64286da",
-      "title": "TLV: Varje skattekrona ska ge mesta möjliga hälsa - Svenska Dagbladet",
+      "id": "04921fff0cab",
+      "title": "TLV: Varje skattekrona ska ge mesta möjliga hälsa - svd.se",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjRjR2NzaGRwdUtOQjJvZDlpVDc1SDhJcDZ1dzFYaU9vT1NPM0tRZFoxcHlYaHZLVHJWd1UzLVhHaUFKODVMcnE4cHJYVlNVbWRXRnd3bnkta0czT0NiU3RvVndwTHR4bG8zWGhfQnJMZlJzNDNGVDU0bDRFdVVSejdaYk1VMG9sM1hj?oc=5",
       "published": "2026-03-25T07:00:00+00:00",
       "source": {
-        "name": "Svenska Dagbladet",
+        "name": "svd.se",
         "url": "https://www.svd.se"
       }
     },
@@ -374,12 +374,12 @@
       }
     },
     {
-      "id": "397e78d59438",
-      "title": "Ozempic får oss att glömma hur hälsa ser ut - Timbro",
+      "id": "486d47fe31db",
+      "title": "Ozempic får oss att glömma hur hälsa ser ut - timbro.se",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1ckUtckhnN1M4VjU3REl1U2tETm5NZ1lvN09nYXB6UzhoWjRva3BINHhQOVgxUUtBMWZabXNIUjlsNnZWcVdUUFlFbkdaVDhQOElRUENtWURCd1R4aldjWXFsNHZ3TWZYRXVaV0Rna0pGeGlxaEtzWHhR?oc=5",
       "published": "2026-06-22T07:00:00+00:00",
       "source": {
-        "name": "Timbro",
+        "name": "timbro.se",
         "url": "https://timbro.se"
       }
     },
@@ -424,16 +424,6 @@
       }
     },
     {
-      "id": "5181843398f4",
-      "title": "Mediciner skrivs oftare ut till personer med ätstörning - TV4 Nyheterna",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZExhU1JWdTBIeHpndVQ3Y3pVQ1AzOUVhc193cFh1REhNQW9hT1BjNmRWc2plLWI4ZDBITW9kRmtSbG5xaEQzbFBDNFAxMUp1ZFI3VXJVeWhXU0xRTkRGbzljMGxDY3kteUZVTmN1Y3NiVldiVTg0UlROMzNnRmQzaDJORVRsbnoxVW5EVWZPdm9jVjZMdG94RzcydWVZbTlCZlBLaWp0QzdJLUNuTU56dl9RcUE5amdHOGRFdkVEVzhIeWJGbVE?oc=5",
-      "published": "2026-08-12T08:21:50+00:00",
-      "source": {
-        "name": "TV4 Nyheterna",
-        "url": "https://www.tv4.se"
-      }
-    },
-    {
       "id": "648120c822bf",
       "title": "GLP-1-läkemedel kopplas till håravfall – ny studie kartlägger risken - News55",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEgtRE43bzAwV3pnd3ROblV1UFNwdHJKdWNmZnZwZ2tJRjhUOFI5MGFHYzdUeHNJMnBEZnQzcE82U2o3Z0d1N0NjYzlvVlVKWHQ5Z0Q4eFFBN0pNSldVdlVUNVJNUWhrYkJhT1lyOVV2Q29XS3prUm9pT2VKbnhJNTVFdUZvRmZZQWpXcWNjX2szX0RNbE1jeU54NA?oc=5",
@@ -441,6 +431,16 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "5181843398f4",
+      "title": "Mediciner skrivs oftare ut till personer med ätstörning - TV4 Nyheterna",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZExhU1JWdTBIeHpndVQ3Y3pVQ1AzOUVhc193cFh1REhNQW9hT1BjNmRWc2plLWI4ZDBITW9kRmtSbG5xaEQzbFBDNFAxMUp1ZFI3VXJVeWhXU0xRTkRGbzljMGxDY3kteUZVTmN1Y3NiVldiVTg0UlROMzNnRmQzaDJORVRsbnoxVW5EVWZPdm9jVjZMdG94RzcydWVZbTlCZlBLaWp0QzdJLUNuTU56dl9RcUE5amdHOGRFdkVEVzhIeWJGbVE?oc=5",
+      "published": "2026-08-12T08:21:50+00:00",
+      "source": {
+        "name": "TV4 Nyheterna",
+        "url": "https://www.tv4.se"
       }
     },
     {
@@ -534,16 +534,6 @@
       }
     },
     {
-      "id": "9d0d172e9682",
-      "title": "Vanlig medicin kan öka risken för hjärtsjukdom - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFVGWEdzcnBlX1hlUmtNcTRKME9xM0ZKNUJsdS14UEMxTS1VSkJHLS1nTEtTb1g1MXBhMHc0MFVzMWl1M0hONTBkLXNHdXhQZFpBNjNWSE9jMXVQVWFHbzVMRkNQYV9jbF9MOUZWRm9lOU4tQmQ3OEhkaEQ4UmpNWUxPdmZHMXN4S0J3Y1Q4d3ZaQQ?oc=5",
-      "published": "2026-06-30T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "f7555bf6cd5f",
       "title": "Nytt centrum ska främja barns och ungas hälsa - Janusinfo.se",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYjhWdW96YzFhYVFocmE5UE43TUU3RDFiLWIwQVNsaVM3aXExeTJpMm92d2JlZDE3c3hyS1QyYXpMTE1hWGR5M2dyNkszUXczMXNpWmRwYVRyRFB4NG5mYXU2aWtrU2NFVXhaOWZQa2c4MFNxVkY5MXk5bWs2UDRGY2N1N05RRkVPZWQ0cGM1OUNydDZRZzhtb2NuS0YxY1NydE9sQmdDRjdaN1RJSG9PRThIY0E3QXl5VUtZekk3NUNnNnlaSkZGZDdmTlNYdldPQkswYW14eEQ3VWNtYmZv?oc=5",
@@ -584,6 +574,16 @@
       }
     },
     {
+      "id": "9d0d172e9682",
+      "title": "Vanlig medicin kan öka risken för hjärtsjukdom - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFVGWEdzcnBlX1hlUmtNcTRKME9xM0ZKNUJsdS14UEMxTS1VSkJHLS1nTEtTb1g1MXBhMHc0MFVzMWl1M0hONTBkLXNHdXhQZFpBNjNWSE9jMXVQVWFHbzVMRkNQYV9jbF9MOUZWRm9lOU4tQmQ3OEhkaEQ4UmpNWUxPdmZHMXN4S0J3Y1Q4d3ZaQQ?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
       "id": "a0cf01932fa0",
       "title": "Befintligt läkemedel kan hjälpa immunförsvaret hos personer med hiv - forskning.se",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTS1nblQydTI5OXB0ajM5YzhEVk1JSDh2eXBwRFJWNHVweW1nUF9pNHV3dFlnRWp2b3Z1S0tLOHh2VmVDQTF0eWZmajNnaUFINTNfUG9UV2xQVDYxRGZxYWFxZ1NrVGV4bmlsc21OS0Z4ZXI4SDY1dGhLUlFmR3RlWW1kelB1Uk5FZlFJ?oc=5",
@@ -604,12 +604,12 @@
       }
     },
     {
-      "id": "812298566486",
-      "title": "PFAS lämnar kroppen snabbare med vissa läkemedel - gu.se",
+      "id": "661e5e895a59",
+      "title": "PFAS lämnar kroppen snabbare med vissa läkemedel - Göteborgs universitet",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdzQtVGltZzNOaHRzakxGcktvdDJvdEpFTUVHTFVYbU9VUko4dnprampfVnQ3azhiZHcydmNwV29xd2pPSUNJM0NzUFFBRHFQUzVTUXFHZjFIYWhfbVFSUFJJaW5DckRrdjlVLTU0Qy1XRGZkSnhsS3FnMl95VWc?oc=5",
       "published": "2025-10-30T07:00:00+00:00",
       "source": {
-        "name": "gu.se",
+        "name": "Göteborgs universitet",
         "url": "https://www.gu.se"
       }
     },
@@ -724,6 +724,16 @@
       }
     },
     {
+      "id": "4e1059190219",
+      "title": "Frågor många inte vågar ställa på apoteket - TV4 Nyheterna",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYVItTWVuSl9NQ20zR09hRHBZT3JwMmwzczRJYlVWYnJPMk9iQ3Y1djNfNWFPcDQyYUNobnhGUlcwLXNIbzVBdUpuTzJQdzl1Nm9aRTBVdHpUNTNWdHdsRU5IQlB3dm5LQVRlWnQxeERFRVZPTFJUU3ctblJrd1YzSndjMUxOMzVhY2FkWC0wbjdNbWxEemJEV0l6ZnVTMm1nU05PMVNCOUVBcE9nMHFVcXJB?oc=5",
+      "published": "2026-08-10T18:26:35+00:00",
+      "source": {
+        "name": "TV4 Nyheterna",
+        "url": "https://www.tv4.se"
+      }
+    },
+    {
       "id": "f2764fb3b968",
       "title": "Sol och läke­medel en under­skattad risk­kombination - Världen idag",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQblQ0bWUxOFZJdnNadDJVVjVNSkplQkJBVV9fREZfSS1iQ0hXMVVrMjZWTTl4OHdPWU9nYWpsdDB5ZXRBV0VHaFNXZ3lmanZ3WWdId3F2R1Vlclp6c012UVc2Wi1ocUlNb2dnOTV4Z0RneHVHNGh2dTR0anVSYkl0YlRncFk1SEdYYnhydkg3ZTZsTjkyT3c?oc=5",
@@ -744,12 +754,12 @@
       }
     },
     {
-      "id": "1beb550a6b48",
-      "title": "Sol och läkemedel en underskattad riskkombination - Corren",
+      "id": "ee6a042ebe78",
+      "title": "Sol och läkemedel en underskattad riskkombination - corren.se",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX2tfZl8tQzhwV0pOVUIxWTFWYXdrMmVIdUZXcmtXRy1UNnU0M2htX3BTNnVwUGNWS18xSXB2ZkxYTW9ndFpPTUl2VHl6ejdrUjYzRDRURGRxU0pfdWk3RzJaWmg0V0pSN3p0NDhKQlZXRGtuZ1ZhdmloZkJNWnZieHI5M1VjOGZYa2x1ZS1DdFgwM3NIY051elFQdGlweFZSWWlXaEhsdHo4ZmdQLWM4?oc=5",
       "published": "2026-05-23T07:00:00+00:00",
       "source": {
-        "name": "Corren",
+        "name": "corren.se",
         "url": "https://www.corren.se"
       }
     },
@@ -771,16 +781,6 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "4e1059190219",
-      "title": "Frågor många inte vågar ställa på apoteket - TV4 Nyheterna",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYVItTWVuSl9NQ20zR09hRHBZT3JwMmwzczRJYlVWYnJPMk9iQ3Y1djNfNWFPcDQyYUNobnhGUlcwLXNIbzVBdUpuTzJQdzl1Nm9aRTBVdHpUNTNWdHdsRU5IQlB3dm5LQVRlWnQxeERFRVZPTFJUU3ctblJrd1YzSndjMUxOMzVhY2FkWC0wbjdNbWxEemJEV0l6ZnVTMm1nU05PMVNCOUVBcE9nMHFVcXJB?oc=5",
-      "published": "2026-08-10T18:26:35+00:00",
-      "source": {
-        "name": "TV4 Nyheterna",
-        "url": "https://www.tv4.se"
       }
     },
     {
@@ -854,12 +854,12 @@
       }
     },
     {
-      "id": "86241c6eb723",
-      "title": "Dömer ut hyllade medicinen: Olyckligt - Expressen",
+      "id": "e1d797084f59",
+      "title": "Dömer ut hyllade medicinen: Olyckligt - expressen.se",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzb2pxMWNmOW10QWpuQUNpTmJONF8wSHBGX1drSl9WNkFEZE5HcThXNDFhNHlreWQzdjJ0dUcwUG5JbjlIMXFvT281c0NVSXRuNGRyaTBQeDRGalp2eGJYaUJldEtUaWlzd2RtWmx2RzJGcXhRQzg4M3dn?oc=5",
       "published": "2026-04-16T07:00:00+00:00",
       "source": {
-        "name": "Expressen",
+        "name": "expressen.se",
         "url": "https://www.expressen.se"
       }
     },
