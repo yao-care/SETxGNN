@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-08-19T09:27:51.952209+00:00",
+  "fetched_at": "2026-08-19T10:22:46.720977+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
     {
-      "id": "a08245514b84",
-      "title": "Östrogenmarschen - MittSkifte",
+      "id": "4fe9d115544f",
+      "title": "Östrogenmarschen - mittskifte.org",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QNFFLTzRJQVJsN29HMG5TU0J2cF9BYnlpNWNDcTZpazRHdFR3Yl95MTN0OU9oczF6cGplek1aay1PckdxdkZTYzJPNWZJYmdRQTlsUng2SVZ6enJ6REZaOFo1cw?oc=5",
       "published": "2026-08-18T20:22:08+00:00",
       "source": {
-        "name": "MittSkifte",
+        "name": "mittskifte.org",
         "url": "https://www.mittskifte.org"
       }
     },
@@ -31,16 +31,6 @@
       "source": {
         "name": "Life-time.se",
         "url": "https://www.life-time.se"
-      }
-    },
-    {
-      "id": "846bcbbe4287",
-      "title": "Blodtest för Alzheimer kan väcka fler frågor än svar - Omni – Alla nyheter. Alla perspektiv.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSTlVZXJyRWVISUhrMnVXZ0tLVFc2QXdyMHR1dGZ6R3BiYzdzODJWWW1UM1VKS2YwTW94MDhMSzJETDFxZ0xxejRxSWpVbWdSMVk0NTVQYWZVOW9GV0hqQ2kzODREMlEzM09CcURqNlNRUERCZE4taHhodXUwaTVYM0NxVQ?oc=5",
-      "published": "2026-08-19T09:00:00+00:00",
-      "source": {
-        "name": "Omni – Alla nyheter. Alla perspektiv.",
-        "url": "https://omni.se"
       }
     },
     {
@@ -104,16 +94,6 @@
       }
     },
     {
-      "id": "a1d751cdd1fc",
-      "title": "16-åring hamnade på akuten då ingen följde upp hans adhd-medicinering - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9KQk8zSXAtQk1RdEhTUnlEVHJkSUxqTGUyOEhIMUxZVjRnMG16S3l2ZFBKRFZHRmJNSjFFZC1LSFY?oc=5",
-      "published": "2026-08-17T02:30:14+00:00",
-      "source": {
-        "name": "Yle",
-        "url": "https://yle.fi"
-      }
-    },
-    {
       "id": "7cbf81602500",
       "title": "Diabetesläkemedel kopplas till bättre psykisk hälsa - Forskning.se",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS0o5V1l6a25kaEt6bHZ5cEQ2SkU4emxLYU5wS0FQQ3FYbW1JSmowcjJBT2lVTmRmNkdZQ3c4OUFjc2tEb2piVUpjcXdPM29GV25Fell2OFg5VmxNbjdhU1BxSmhsbzEtUy1oaUpsYkx3TVZtMmx1YW00M29qd21PNnBYZUdHMG5SRXBtS05GckE3UQ?oc=5",
@@ -134,13 +114,13 @@
       }
     },
     {
-      "id": "17a0f1f69762",
-      "title": "Liberalerna: Beslut om läkemedel måste bli en fråga som staten ska styra över - Life-time.se",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWtXUVFYSnI3Ri1fQUw0OWc1Y0RwWDBJWGdPUG54MEtHb1JSMTh3cWJxNnBELTA3WGpVMDZJMzhvY3dsTF9fTDlHT3NYcl82YVVQTXNxTmU4Z2Fta2d2NTdIcHNDTjJiTWFmZXhMLUhxOHBTdXh0UUt0b3RZVXRQUjFmRmdNQlpmNnU5Nk9iNDRDQzcySS15WFVPVDFfYkJRaXlFV0h4UnRQaUIyekkwelBOaFlyZw?oc=5",
-      "published": "2026-08-18T15:43:37+00:00",
+      "id": "a1d751cdd1fc",
+      "title": "16-åring hamnade på akuten då ingen följde upp hans adhd-medicinering - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9KQk8zSXAtQk1RdEhTUnlEVHJkSUxqTGUyOEhIMUxZVjRnMG16S3l2ZFBKRFZHRmJNSjFFZC1LSFY?oc=5",
+      "published": "2026-08-17T02:30:14+00:00",
       "source": {
-        "name": "Life-time.se",
-        "url": "https://www.life-time.se"
+        "name": "Yle",
+        "url": "https://yle.fi"
       }
     },
     {
@@ -151,6 +131,16 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "17a0f1f69762",
+      "title": "Liberalerna: Beslut om läkemedel måste bli en fråga som staten ska styra över - Life-time.se",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWtXUVFYSnI3Ri1fQUw0OWc1Y0RwWDBJWGdPUG54MEtHb1JSMTh3cWJxNnBELTA3WGpVMDZJMzhvY3dsTF9fTDlHT3NYcl82YVVQTXNxTmU4Z2Fta2d2NTdIcHNDTjJiTWFmZXhMLUhxOHBTdXh0UUt0b3RZVXRQUjFmRmdNQlpmNnU5Nk9iNDRDQzcySS15WFVPVDFfYkJRaXlFV0h4UnRQaUIyekkwelBOaFlyZw?oc=5",
+      "published": "2026-08-18T15:43:37+00:00",
+      "source": {
+        "name": "Life-time.se",
+        "url": "https://www.life-time.se"
       }
     },
     {
@@ -194,16 +184,6 @@
       }
     },
     {
-      "id": "dc8f01c60661",
-      "title": "Läkaren: Så kan risken för stroke minskas – vid blodförtunnande - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2VPZDE2bXRyME41VHAzQUd5RGN1NXRvRklXQWxZdGtiQmtHRFFTX09ydENvRmNXZG5zTzFLXzNOaVF2Mi1oUFZybHc1d2NxWURCeXRoek1QMHdPR01VYkxSSTZnZ0tGU1hXS3Q0S21meWVNbmlxU0F2a0YtUjlTTVdqTGVzZE1qUkVVaFVwWFNLQUF0YU9LdWNzX0UzYVBFSzdKTQ?oc=5",
-      "published": "2026-08-11T08:08:01+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "6468c729460e",
       "title": "Risken för dubbelförskrivning i Cosmic ska vara borta i höst - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSGxPOWFsM2tvcnRkUE4yN1dKM29YNHE1VDAwU3Q4MWlvdEljdy1zT1NyaVBMb0h6YmlYQU1Oc2lKYzVMdUd1aDNkS2FQbVNPUEh1d0JEdHZXd3BZcm9wcjNuSEJjNUoxeVliTkhWVmctUjBKRU1kZzl6NUZ3UmJfYVZVQkVqcXhhWFpKQzV6SldVZXNUaTFja2VmbzNPUnpkdnlvbFZhZWVzN1U3MWt4bVQ5bG4yby1tOXBBYW4yTQ?oc=5",
@@ -211,6 +191,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "dc8f01c60661",
+      "title": "Läkaren: Så kan risken för stroke minskas – vid blodförtunnande - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2VPZDE2bXRyME41VHAzQUd5RGN1NXRvRklXQWxZdGtiQmtHRFFTX09ydENvRmNXZG5zTzFLXzNOaVF2Mi1oUFZybHc1d2NxWURCeXRoek1QMHdPR01VYkxSSTZnZ0tGU1hXS3Q0S21meWVNbmlxU0F2a0YtUjlTTVdqTGVzZE1qUkVVaFVwWFNLQUF0YU9LdWNzX0UzYVBFSzdKTQ?oc=5",
+      "published": "2026-08-11T08:08:01+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -464,16 +454,6 @@
       }
     },
     {
-      "id": "f7a0bd960fbb",
-      "title": "Ny studie: Blodtrycksmedicin med minst biverkningar - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYTdWeUNsdkFpem5sbXJlUEhPaElIRGFFLU1iYnBEUENLelQ2aXJONi05MmVSeHZqU3l6VmZzRTVxQ1hLbFJLcWVQN1VBUEx1MzRaSHRNZ2ExM0g1dkFlTmFMYW9SSERka1FwZ0k2SGxsZ1FoM081TUJtTnZ1N3NMdGtWMFZtLUV5d0dTRUpsV1VTUQ?oc=5",
-      "published": "2026-08-02T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "1f5a23dff353",
       "title": "Diabetesläkemedlet Ozempic kopplas till bättre psykisk hälsa | Karolinska Institutet - Via TT",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX2VTa1h6U2IwQjhLRDgteHFNQXV4M2dOdEJWb3pSencwMHFXRjY3Uy1uR2c4WHZEWDJFcWtoQjVFTTc3WXpoTkVXLTBCeVZVc1pHODBGajhDRzhLMVkyZDA5WThUNHJqYWdpdFlZeVdSdXZpMFplRHJBUndIaVE4Ul9fZmkxNlpfa244OEZybW9VdFNob2phTUk1Tmt0cWJlWXNRZ1FZQlJyQm1nSXBtTlJjUlFkS1dCWTM0Y1ZVSVlEellKUG9ETlh3?oc=5",
@@ -481,6 +461,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "f7a0bd960fbb",
+      "title": "Ny studie: Blodtrycksmedicin med minst biverkningar - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYTdWeUNsdkFpem5sbXJlUEhPaElIRGFFLU1iYnBEUENLelQ2aXJONi05MmVSeHZqU3l6VmZzRTVxQ1hLbFJLcWVQN1VBUEx1MzRaSHRNZ2ExM0g1dkFlTmFMYW9SSERka1FwZ0k2SGxsZ1FoM081TUJtTnZ1N3NMdGtWMFZtLUV5d0dTRUpsV1VTUQ?oc=5",
+      "published": "2026-08-02T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "85dde29af538",
+      "title": "Varning: Medicinerna som kan ge allvarliga problem i solen - News55",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ1RGdjFCdHdmRndsMXNIM0trZW9jeUYxRUd0MkRWMjhKc0x4eFBMZUJWdTZVZ2diLWZPMXpLckFWWk8tbHktSVBtbnpUUXR0dk5XT1gtY2JTUVNadXRISm9obGx1RWlmQ19rUkxRN1B6MkExSjNiRDQyd3lidmJYTGlmTE4ySVkyZmNwTHFpWQ?oc=5",
+      "published": "2026-06-25T07:00:00+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     }
   ]
