@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-08-18T23:16:57.576340+00:00",
+  "fetched_at": "2026-08-19T00:57:31.062343+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
-    {
-      "id": "17a0f1f69762",
-      "title": "Liberalerna: Beslut om läkemedel måste bli en fråga som staten ska styra över - Life-time.se",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWtXUVFYSnI3Ri1fQUw0OWc1Y0RwWDBJWGdPUG54MEtHb1JSMTh3cWJxNnBELTA3WGpVMDZJMzhvY3dsTF9fTDlHT3NYcl82YVVQTXNxTmU4Z2Fta2d2NTdIcHNDTjJiTWFmZXhMLUhxOHBTdXh0UUt0b3RZVXRQUjFmRmdNQlpmNnU5Nk9iNDRDQzcySS15WFVPVDFfYkJRaXlFV0h4UnRQaUIyekkwelBOaFlyZw?oc=5",
-      "published": "2026-08-18T15:43:37+00:00",
-      "source": {
-        "name": "Life-time.se",
-        "url": "https://www.life-time.se"
-      }
-    },
     {
       "id": "e4e6c4aee06f",
       "title": "Dödsfall misstänks ha koppling till fetmamedel - Aftonbladet",
@@ -21,6 +11,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "17a0f1f69762",
+      "title": "Liberalerna: Beslut om läkemedel måste bli en fråga som staten ska styra över - Life-time.se",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWtXUVFYSnI3Ri1fQUw0OWc1Y0RwWDBJWGdPUG54MEtHb1JSMTh3cWJxNnBELTA3WGpVMDZJMzhvY3dsTF9fTDlHT3NYcl82YVVQTXNxTmU4Z2Fta2d2NTdIcHNDTjJiTWFmZXhMLUhxOHBTdXh0UUt0b3RZVXRQUjFmRmdNQlpmNnU5Nk9iNDRDQzcySS15WFVPVDFfYkJRaXlFV0h4UnRQaUIyekkwelBOaFlyZw?oc=5",
+      "published": "2026-08-18T15:43:37+00:00",
+      "source": {
+        "name": "Life-time.se",
+        "url": "https://www.life-time.se"
       }
     },
     {
@@ -74,12 +74,12 @@
       }
     },
     {
-      "id": "a1d751cdd1fc",
-      "title": "16-åring hamnade på akuten då ingen följde upp hans adhd-medicinering - Yle",
+      "id": "103d4b04265d",
+      "title": "16-åring hamnade på akuten då ingen följde upp hans adhd-medicinering - yle.fi",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9KQk8zSXAtQk1RdEhTUnlEVHJkSUxqTGUyOEhIMUxZVjRnMG16S3l2ZFBKRFZHRmJNSjFFZC1LSFY?oc=5",
       "published": "2026-08-17T02:30:14+00:00",
       "source": {
-        "name": "Yle",
+        "name": "yle.fi",
         "url": "https://yle.fi"
       }
     },
@@ -114,12 +114,12 @@
       }
     },
     {
-      "id": "79add85ceb71",
-      "title": "Astra Zeneca skrotar fas 3-studie - Dagens industri",
+      "id": "1ae4a02ccfe4",
+      "title": "Astra Zeneca skrotar fas 3-studie - di.se",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lYWlBQzBRd29nLV9DTDN6bFo0YzVlR1dfSTVhX1lUQUpIWVVJaXI0dFNUVUs5NXVhdTB1cUg0djdJVGw1VDFMaVN3YUoyUll0Yi1UQVV2RHJXVzFPS3lDNlhvMGpWZmk3?oc=5",
       "published": "2026-08-17T06:24:23+00:00",
       "source": {
-        "name": "Dagens industri",
+        "name": "di.se",
         "url": "https://www.di.se"
       }
     },
@@ -274,16 +274,6 @@
       }
     },
     {
-      "id": "ae1beac66971",
-      "title": "Resistent gonorré sprids i Sverige: ”Alarmerande” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2YzX2ZZc2ZMODk0ZEZ1M0R3Q2VVazlSOEhTWVhyOW9KaVR6aFZwcWN2QXpUMndDaWc0UXpkQmVKaDN2dVFHNHhidjR4RldQbTkzU2UtcnRnOFhwUUFjQ2tFbkI1X0FWcURWZXA0eFFIa2pnaEtBT2JjN1h0VGhwaWdZR3NJZFFEZVc1ajZsUGV6T0VRNjNVN2NaVFhfN0JXTDFJdnE4VQ?oc=5",
-      "published": "2026-08-13T01:58:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "e786d9728a1e",
       "title": "Diabetesläkemedel kopplas till minskad psykisk ohälsa - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGpaVjZ1MlhUM0Ffc1lfYXpfVUZ2N0FnMjBuckZOQ0ZvX2pMX1d3blBGQUZ4TUltYlJtbTUwUDFicF80ZWtjSDh2UndrYmZaSFJiTWxnVXlGeWdlRXBfLXoyWFFlUkhaR25QbWwtNnF1QTlMX2s1MldyOURVSFBtWDQzd1huZGpYVE11MjdQM3l4VkM5ZG9TUVdB?oc=5",
@@ -291,6 +281,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "ae1beac66971",
+      "title": "Resistent gonorré sprids i Sverige: ”Alarmerande” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2YzX2ZZc2ZMODk0ZEZ1M0R3Q2VVazlSOEhTWVhyOW9KaVR6aFZwcWN2QXpUMndDaWc0UXpkQmVKaDN2dVFHNHhidjR4RldQbTkzU2UtcnRnOFhwUUFjQ2tFbkI1X0FWcURWZXA0eFFIa2pnaEtBT2JjN1h0VGhwaWdZR3NJZFFEZVc1ajZsUGV6T0VRNjNVN2NaVFhfN0JXTDFJdnE4VQ?oc=5",
+      "published": "2026-08-13T01:58:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -684,12 +684,12 @@
       }
     },
     {
-      "id": "fbcb620c71e1",
-      "title": "Sol och läke­medel en under­skattad risk­kombination - varldenidag.se",
+      "id": "f2764fb3b968",
+      "title": "Sol och läke­medel en under­skattad risk­kombination - Världen idag",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQblQ0bWUxOFZJdnNadDJVVjVNSkplQkJBVV9fREZfSS1iQ0hXMVVrMjZWTTl4OHdPWU9nYWpsdDB5ZXRBV0VHaFNXZ3lmanZ3WWdId3F2R1Vlclp6c012UVc2Wi1ocUlNb2dnOTV4Z0RneHVHNGh2dTR0anVSYkl0YlRncFk1SEdYYnhydkg3ZTZsTjkyT3c?oc=5",
       "published": "2026-05-31T07:00:00+00:00",
       "source": {
-        "name": "varldenidag.se",
+        "name": "Världen idag",
         "url": "https://www.varldenidag.se"
       }
     },
@@ -774,16 +774,6 @@
       }
     },
     {
-      "id": "5181843398f4",
-      "title": "Mediciner skrivs oftare ut till personer med ätstörning - TV4 Nyheterna",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZExhU1JWdTBIeHpndVQ3Y3pVQ1AzOUVhc193cFh1REhNQW9hT1BjNmRWc2plLWI4ZDBITW9kRmtSbG5xaEQzbFBDNFAxMUp1ZFI3VXJVeWhXU0xRTkRGbzljMGxDY3kteUZVTmN1Y3NiVldiVTg0UlROMzNnRmQzaDJORVRsbnoxVW5EVWZPdm9jVjZMdG94RzcydWVZbTlCZlBLaWp0QzdJLUNuTU56dl9RcUE5amdHOGRFdkVEVzhIeWJGbVE?oc=5",
-      "published": "2026-08-12T08:21:50+00:00",
-      "source": {
-        "name": "TV4 Nyheterna",
-        "url": "https://www.tv4.se"
-      }
-    },
-    {
       "id": "f8f278f26a78",
       "title": "Staten föreslås ta kontroll över läkemedel i kris och krig - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWlWNS02SlRYaldmQjcwRXQyQUtrbXNVS0VWTVV4Q1U2QUhMM3RGbFEwSlgtVG5mMG9zazBmZWpmRE16UktRcTBscWV2cThOaVo4alFSY0NEUmZvTTk3TnBIM1hBaXlTdmpaQllacmJaeXM0OW9aQ3FEVDNPQXNHeHMzSUp4TFRzVkFiMVhTSkc4dWlfQjVKWlZoX0piMHdlRXRhcU4wbXpzdEhJZFVfMA?oc=5",
@@ -811,6 +801,16 @@
       "source": {
         "name": "Karolinska Institutet",
         "url": "https://nyheter.ki.se"
+      }
+    },
+    {
+      "id": "5181843398f4",
+      "title": "Mediciner skrivs oftare ut till personer med ätstörning - TV4 Nyheterna",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZExhU1JWdTBIeHpndVQ3Y3pVQ1AzOUVhc193cFh1REhNQW9hT1BjNmRWc2plLWI4ZDBITW9kRmtSbG5xaEQzbFBDNFAxMUp1ZFI3VXJVeWhXU0xRTkRGbzljMGxDY3kteUZVTmN1Y3NiVldiVTg0UlROMzNnRmQzaDJORVRsbnoxVW5EVWZPdm9jVjZMdG94RzcydWVZbTlCZlBLaWp0QzdJLUNuTU56dl9RcUE5amdHOGRFdkVEVzhIeWJGbVE?oc=5",
+      "published": "2026-08-12T08:21:50+00:00",
+      "source": {
+        "name": "TV4 Nyheterna",
+        "url": "https://www.tv4.se"
       }
     },
     {
