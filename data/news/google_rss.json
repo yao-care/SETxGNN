@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T02:17:58.153996+00:00",
+  "fetched_at": "2026-08-19T03:41:18.714511+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -11,6 +11,16 @@
       "source": {
         "name": "MittSkifte",
         "url": "https://www.mittskifte.org"
+      }
+    },
+    {
+      "id": "cdce0752d729",
+      "title": "4 bästa behandlingarna mot svår psoriasis: Behandlingar vi vet har mycket god effekt” - Expressen",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWtNMmNYTE9xTFVXYm5nRThJYnA2bzFtWjFHNFNZckNOM2Y2WE83bkZCalRfazlpZTRWdTJrTXdUZTFKNzRoc2pLYXBQWlVtenJfSXJpdUdHbTZzaVVZZkIzT0ZvOEF5YnJzcXVkcVQydXYtNktuNmZGeFU3b1hMSEJrNE9zUjQ?oc=5",
+      "published": "2026-08-19T03:00:00+00:00",
+      "source": {
+        "name": "Expressen",
+        "url": "https://www.expressen.se"
       }
     },
     {
@@ -34,6 +44,16 @@
       }
     },
     {
+      "id": "16a9379191d6",
+      "title": "TLV: Nya läkemedel driver ökade kostnader - Altinget.se",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV2xZdE5Fakdudlk0V3hrMm5SSV9aVWFEOC1jR2JuZEFESVltaEJSN05DNm53UDJ5dUdsa3B6Z1FpY0hpbVlPU3AxOXZra1RHMVZyWmJvVXZOdWY1ZHFCU2hudE1GYW9TLTVieGMzN2FmbFc4RVotaW5GSU51V1N6Y1Z4bw?oc=5",
+      "published": "2026-08-13T15:11:59+00:00",
+      "source": {
+        "name": "Altinget.se",
+        "url": "https://www.altinget.se"
+      }
+    },
+    {
       "id": "9aa32e32b9f5",
       "title": "Apotekstekniker läste receptaries läkemedelsuppgifter – bolag stäms - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVJfYjRUSmxWWk9KaTRDSXBkNXRzY29LZzdOd0N0TG11QmppZUsteUV1bGJXQ3hjWURjQnFIczVuci1XN1NuUDRTTzRVWjg1WWNKbkRCVUtkVDgtMl9WS0dUZ28tLVE1Rm9mT1RGU0dPV0lycjBFY0FsY2R4Xy1RUzJhTXNUWHoxVGRIZDc0Tk5GdENySWtGa0ZyRllEVHY0MUJTTTNQOXFucVZ6b3BDNzBB?oc=5",
@@ -41,16 +61,6 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
-      }
-    },
-    {
-      "id": "263bc2c534f1",
-      "title": "TLV: Nya läkemedel driver ökade kostnader - altinget.se",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV2xZdE5Fakdudlk0V3hrMm5SSV9aVWFEOC1jR2JuZEFESVltaEJSN05DNm53UDJ5dUdsa3B6Z1FpY0hpbVlPU3AxOXZra1RHMVZyWmJvVXZOdWY1ZHFCU2hudE1GYW9TLTVieGMzN2FmbFc4RVotaW5GSU51V1N6Y1Z4bw?oc=5",
-      "published": "2026-08-13T15:11:59+00:00",
-      "source": {
-        "name": "altinget.se",
-        "url": "https://www.altinget.se"
       }
     },
     {
@@ -84,12 +94,12 @@
       }
     },
     {
-      "id": "103d4b04265d",
-      "title": "16-åring hamnade på akuten då ingen följde upp hans adhd-medicinering - yle.fi",
+      "id": "a1d751cdd1fc",
+      "title": "16-åring hamnade på akuten då ingen följde upp hans adhd-medicinering - Yle",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9KQk8zSXAtQk1RdEhTUnlEVHJkSUxqTGUyOEhIMUxZVjRnMG16S3l2ZFBKRFZHRmJNSjFFZC1LSFY?oc=5",
       "published": "2026-08-17T02:30:14+00:00",
       "source": {
-        "name": "yle.fi",
+        "name": "Yle",
         "url": "https://yle.fi"
       }
     },
@@ -144,10 +154,10 @@
       }
     },
     {
-      "id": "6d8ef3f52f0f",
-      "title": "”Vården behöver ett ledarskap baserat på vårdkunskap” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdk9vZlFuSTdYLXR6MXRWZUg1WGpGc0M2WmstYWo3S1dpN2VXN3FzQ1VJMElhT1ZaSWFHZV9GbVVKVmtIblRXVFhqWjJkU1oxdGR3bXB5dnJaQlh3S1ZsWjZ6QWZjQ0JLbmNDTTg0NmdKZ2I3V1lnUVJ6c2hqODQtNjVUM3huRDJwcFc5czc2djZqQlNsLVRoQzlWUUE?oc=5",
-      "published": "2026-08-16T18:30:00+00:00",
+      "id": "14b88054d6cb",
+      "title": "”Kvinnan behöver inte i första hand en vård som utgår från klimakteriet” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcGw3azdyMlpKa1VFRldydGhLQTVYT0hvZDZEcXBjZjVtTGZndUpjZ2RieHAzVU05SlRIenV2NG0tVHFIb2VQVHNUZ0F1UHVqMWgxbTNLd0N3ZHZpUmtDYXBiZDl1ZHAtM1lCMjdXbzJCNnM1ZnBIMlpjMVlZRDREak5ueDY4UjR1ZFdrRWtsS3QxRXAwY3dYeEVRTUVrU0hESFpmUlZGUE9qTk56dGRQR1VSRzFwZw?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -174,10 +184,10 @@
       }
     },
     {
-      "id": "14b88054d6cb",
-      "title": "”Kvinnan behöver inte i första hand en vård som utgår från klimakteriet” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcGw3azdyMlpKa1VFRldydGhLQTVYT0hvZDZEcXBjZjVtTGZndUpjZ2RieHAzVU05SlRIenV2NG0tVHFIb2VQVHNUZ0F1UHVqMWgxbTNLd0N3ZHZpUmtDYXBiZDl1ZHAtM1lCMjdXbzJCNnM1ZnBIMlpjMVlZRDREak5ueDY4UjR1ZFdrRWtsS3QxRXAwY3dYeEVRTUVrU0hESFpmUlZGUE9qTk56dGRQR1VSRzFwZw?oc=5",
-      "published": "2026-07-23T07:00:00+00:00",
+      "id": "6468c729460e",
+      "title": "Risken för dubbelförskrivning i Cosmic ska vara borta i höst - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSGxPOWFsM2tvcnRkUE4yN1dKM29YNHE1VDAwU3Q4MWlvdEljdy1zT1NyaVBMb0h6YmlYQU1Oc2lKYzVMdUd1aDNkS2FQbVNPUEh1d0JEdHZXd3BZcm9wcjNuSEJjNUoxeVliTkhWVmctUjBKRU1kZzl6NUZ3UmJfYVZVQkVqcXhhWFpKQzV6SldVZXNUaTFja2VmbzNPUnpkdnlvbFZhZWVzN1U3MWt4bVQ5bG4yby1tOXBBYW4yTQ?oc=5",
+      "published": "2026-08-12T02:26:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -191,16 +201,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "6468c729460e",
-      "title": "Risken för dubbelförskrivning i Cosmic ska vara borta i höst - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSGxPOWFsM2tvcnRkUE4yN1dKM29YNHE1VDAwU3Q4MWlvdEljdy1zT1NyaVBMb0h6YmlYQU1Oc2lKYzVMdUd1aDNkS2FQbVNPUEh1d0JEdHZXd3BZcm9wcjNuSEJjNUoxeVliTkhWVmctUjBKRU1kZzl6NUZ3UmJfYVZVQkVqcXhhWFpKQzV6SldVZXNUaTFja2VmbzNPUnpkdnlvbFZhZWVzN1U3MWt4bVQ5bG4yby1tOXBBYW4yTQ?oc=5",
-      "published": "2026-08-12T02:26:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -344,12 +344,12 @@
       }
     },
     {
-      "id": "0cb3d64286da",
-      "title": "TLV: Varje skattekrona ska ge mesta möjliga hälsa - Svenska Dagbladet",
+      "id": "04921fff0cab",
+      "title": "TLV: Varje skattekrona ska ge mesta möjliga hälsa - svd.se",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjRjR2NzaGRwdUtOQjJvZDlpVDc1SDhJcDZ1dzFYaU9vT1NPM0tRZFoxcHlYaHZLVHJWd1UzLVhHaUFKODVMcnE4cHJYVlNVbWRXRnd3bnkta0czT0NiU3RvVndwTHR4bG8zWGhfQnJMZlJzNDNGVDU0bDRFdVVSejdaYk1VMG9sM1hj?oc=5",
       "published": "2026-03-25T07:00:00+00:00",
       "source": {
-        "name": "Svenska Dagbladet",
+        "name": "svd.se",
         "url": "https://www.svd.se"
       }
     },
@@ -854,16 +854,6 @@
       }
     },
     {
-      "id": "5181843398f4",
-      "title": "Mediciner skrivs oftare ut till personer med ätstörning - TV4 Nyheterna",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZExhU1JWdTBIeHpndVQ3Y3pVQ1AzOUVhc193cFh1REhNQW9hT1BjNmRWc2plLWI4ZDBITW9kRmtSbG5xaEQzbFBDNFAxMUp1ZFI3VXJVeWhXU0xRTkRGbzljMGxDY3kteUZVTmN1Y3NiVldiVTg0UlROMzNnRmQzaDJORVRsbnoxVW5EVWZPdm9jVjZMdG94RzcydWVZbTlCZlBLaWp0QzdJLUNuTU56dl9RcUE5amdHOGRFdkVEVzhIeWJGbVE?oc=5",
-      "published": "2026-08-12T08:21:50+00:00",
-      "source": {
-        "name": "TV4 Nyheterna",
-        "url": "https://www.tv4.se"
-      }
-    },
-    {
       "id": "e9c72164d9b3",
       "title": "Ny studie undersöker hur vanliga läkemedel mot halsbränna påverkar njurar och hjärta över tid - Karolinska Institutet",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVlqQXpWQVlkdHUteTVjR2FWUFdCbFBlQXMxblVtQmVQMTlGQmpQcHQzZ1hDMm9ZTWxoUExhNlpPVlRPZmhwd0pUUzFqVGEyUU1pMGpjNjV6UElZM3NDamhNdUNSUXloMU94aWVXOUkzUlM3am5VMVgybjUwcXVSVmxMaDRZckJsaVVYRlRRel9LU1RZR3lQMGxucUNITmlpSFdBWG5xeUVOTmh4ZEtQZXFvWk5UUQ?oc=5",
@@ -881,6 +871,16 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "9a8b3b7dbd38",
+      "title": "Mediciner skrivs oftare ut till personer med ätstörning - tv4.se",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZExhU1JWdTBIeHpndVQ3Y3pVQ1AzOUVhc193cFh1REhNQW9hT1BjNmRWc2plLWI4ZDBITW9kRmtSbG5xaEQzbFBDNFAxMUp1ZFI3VXJVeWhXU0xRTkRGbzljMGxDY3kteUZVTmN1Y3NiVldiVTg0UlROMzNnRmQzaDJORVRsbnoxVW5EVWZPdm9jVjZMdG94RzcydWVZbTlCZlBLaWp0QzdJLUNuTU56dl9RcUE5amdHOGRFdkVEVzhIeWJGbVE?oc=5",
+      "published": "2026-08-12T08:21:50+00:00",
+      "source": {
+        "name": "tv4.se",
+        "url": "https://www.tv4.se"
       }
     },
     {
