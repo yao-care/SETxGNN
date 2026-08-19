@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T14:27:15.239229+00:00",
+  "fetched_at": "2026-08-19T15:26:05.802196+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -94,6 +94,16 @@
       }
     },
     {
+      "id": "a1d751cdd1fc",
+      "title": "16-åring hamnade på akuten då ingen följde upp hans adhd-medicinering - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9KQk8zSXAtQk1RdEhTUnlEVHJkSUxqTGUyOEhIMUxZVjRnMG16S3l2ZFBKRFZHRmJNSjFFZC1LSFY?oc=5",
+      "published": "2026-08-17T02:30:14+00:00",
+      "source": {
+        "name": "Yle",
+        "url": "https://yle.fi"
+      }
+    },
+    {
       "id": "7cbf81602500",
       "title": "Diabetesläkemedel kopplas till bättre psykisk hälsa - Forskning.se",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS0o5V1l6a25kaEt6bHZ5cEQ2SkU4emxLYU5wS0FQQ3FYbW1JSmowcjJBT2lVTmRmNkdZQ3c4OUFjc2tEb2piVUpjcXdPM29GV25Fell2OFg5VmxNbjdhU1BxSmhsbzEtUy1oaUpsYkx3TVZtMmx1YW00M29qd21PNnBYZUdHMG5SRXBtS05GckE3UQ?oc=5",
@@ -111,26 +121,6 @@
       "source": {
         "name": "LäkemedelsVärlden",
         "url": "https://www.lakemedelsvarlden.se"
-      }
-    },
-    {
-      "id": "a1d751cdd1fc",
-      "title": "16-åring hamnade på akuten då ingen följde upp hans adhd-medicinering - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9KQk8zSXAtQk1RdEhTUnlEVHJkSUxqTGUyOEhIMUxZVjRnMG16S3l2ZFBKRFZHRmJNSjFFZC1LSFY?oc=5",
-      "published": "2026-08-17T02:30:14+00:00",
-      "source": {
-        "name": "Yle",
-        "url": "https://yle.fi"
-      }
-    },
-    {
-      "id": "5e392d5f87c7",
-      "title": "Blodtrycksmedicinen som flest fortsätter ta – ny studie - News55",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM2UxNjJDN2YwblQ0RTdFR2hNSWlVSVNTTXJtMHV5eS1MaHgyWWZrMUpweU5rSXA1MWM2WGhIVFdiR1c3Tk5MdndPanBnMnlhNkF0SmE5VkVleDNxWUtJZV8zMU9ja3Y5dXQ0WW1abDVsdmZZWUpKY2dLZ3I3WXRxRHowYlpzc3JPcVE?oc=5",
-      "published": "2026-08-14T13:10:54+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
       }
     },
     {
@@ -211,6 +201,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "5e392d5f87c7",
+      "title": "Blodtrycksmedicinen som flest fortsätter ta – ny studie - News55",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM2UxNjJDN2YwblQ0RTdFR2hNSWlVSVNTTXJtMHV5eS1MaHgyWWZrMUpweU5rSXA1MWM2WGhIVFdiR1c3Tk5MdndPanBnMnlhNkF0SmE5VkVleDNxWUtJZV8zMU9ja3Y5dXQ0WW1abDVsdmZZWUpKY2dLZ3I3WXRxRHowYlpzc3JPcVE?oc=5",
+      "published": "2026-08-14T13:10:54+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -364,12 +364,12 @@
       }
     },
     {
-      "id": "04921fff0cab",
-      "title": "TLV: Varje skattekrona ska ge mesta möjliga hälsa - svd.se",
+      "id": "0cb3d64286da",
+      "title": "TLV: Varje skattekrona ska ge mesta möjliga hälsa - Svenska Dagbladet",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjRjR2NzaGRwdUtOQjJvZDlpVDc1SDhJcDZ1dzFYaU9vT1NPM0tRZFoxcHlYaHZLVHJWd1UzLVhHaUFKODVMcnE4cHJYVlNVbWRXRnd3bnkta0czT0NiU3RvVndwTHR4bG8zWGhfQnJMZlJzNDNGVDU0bDRFdVVSejdaYk1VMG9sM1hj?oc=5",
       "published": "2026-03-25T07:00:00+00:00",
       "source": {
-        "name": "svd.se",
+        "name": "Svenska Dagbladet",
         "url": "https://www.svd.se"
       }
     },
@@ -378,6 +378,16 @@
       "title": "(+) Då kan dina läkemedel bli skadliga – i värmen - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNEVUY0Q2RnA3OEs3ektLS1lySTVvQzVCQnp3MFpxM0ZQekFnbzdrU2VYSFY5eXJTcWVxZ0NwUktyRGJxWVoySnYzWW9QQ0NwcW1BUnhpbHV1Zjd5TTNGSWVtRFVRMW5YTHE1VnAtcTh5ektvcV9mQW93ZTFNR3NPWkx4WV9IZ1FmOW9ZOWhR?oc=5",
       "published": "2026-07-16T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "f7a0bd960fbb",
+      "title": "Ny studie: Blodtrycksmedicin med minst biverkningar - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYTdWeUNsdkFpem5sbXJlUEhPaElIRGFFLU1iYnBEUENLelQ2aXJONi05MmVSeHZqU3l6VmZzRTVxQ1hLbFJLcWVQN1VBUEx1MzRaSHRNZ2ExM0g1dkFlTmFMYW9SSERka1FwZ0k2SGxsZ1FoM081TUJtTnZ1N3NMdGtWMFZtLUV5d0dTRUpsV1VTUQ?oc=5",
+      "published": "2026-08-02T07:00:00+00:00",
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
@@ -464,16 +474,6 @@
       }
     },
     {
-      "id": "f7a0bd960fbb",
-      "title": "Ny studie: Blodtrycksmedicin med minst biverkningar - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYTdWeUNsdkFpem5sbXJlUEhPaElIRGFFLU1iYnBEUENLelQ2aXJONi05MmVSeHZqU3l6VmZzRTVxQ1hLbFJLcWVQN1VBUEx1MzRaSHRNZ2ExM0g1dkFlTmFMYW9SSERka1FwZ0k2SGxsZ1FoM081TUJtTnZ1N3NMdGtWMFZtLUV5d0dTRUpsV1VTUQ?oc=5",
-      "published": "2026-08-02T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "46ea837f5393",
       "title": "Finlands nya FinTrials-modell försnabbar de kliniska prövningarna med läkemedel och medicintekniska produkter - Valtioneuvosto",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzcxS0ZmaFJXMXVBa1RRc3NTclZXZ1U0dEVIZGxON09Wb0hPcnJBeEZZYmZyT0x4eEJwaVQtTHJKdnZPVHczRkhKeElST18zalVpal9WNWlSRE90c3F1M2ZXd255RGxvcjRkaHNpOXJhT2RuVFZ6dGNZcVhaRGJoZ21ITVdIQTZmZzUtQzVBT244bVhGeGhWSkVDdlBRS1pmZjBEb3p1VVlTSURoRnFXVy1wTE1pZXpUeVJSRGZGM293UmNCaXpHcl9ITXc0eWFoYzRfQkNKa0JNV2ZNRjhyYm53?oc=5",
@@ -544,16 +544,6 @@
       }
     },
     {
-      "id": "ae1beac66971",
-      "title": "Resistent gonorré sprids i Sverige: ”Alarmerande” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2YzX2ZZc2ZMODk0ZEZ1M0R3Q2VVazlSOEhTWVhyOW9KaVR6aFZwcWN2QXpUMndDaWc0UXpkQmVKaDN2dVFHNHhidjR4RldQbTkzU2UtcnRnOFhwUUFjQ2tFbkI1X0FWcURWZXA0eFFIa2pnaEtBT2JjN1h0VGhwaWdZR3NJZFFEZVc1ajZsUGV6T0VRNjNVN2NaVFhfN0JXTDFJdnE4VQ?oc=5",
-      "published": "2026-08-13T01:58:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "4f7bc62986be",
       "title": "”Ge personer med schizofreni subventionerade obesitasläkemedel” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSnBMWk9BN0ZTYVY5NnIySU5YX2REUEg1ZnZQNHloMFBpRzB2Rlo2clpMZFBuSGFaT003TS1CVlVodE1YOTFyRnNNYkZrRmNoSzIzX0tnY0lvRHZnNkhNNTJhMlZXNjYxdzdORTI4MGpiNjhockpIVGtlQll5bjMzb2hzdG1RdGI1MkFsX0gxSEtwSV84ZUtlZlJOZ20yNjJEeVYteUpRelBQUQ?oc=5",
@@ -571,6 +561,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "ae1beac66971",
+      "title": "Resistent gonorré sprids i Sverige: ”Alarmerande” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2YzX2ZZc2ZMODk0ZEZ1M0R3Q2VVazlSOEhTWVhyOW9KaVR6aFZwcWN2QXpUMndDaWc0UXpkQmVKaDN2dVFHNHhidjR4RldQbTkzU2UtcnRnOFhwUUFjQ2tFbkI1X0FWcURWZXA0eFFIa2pnaEtBT2JjN1h0VGhwaWdZR3NJZFFEZVc1ajZsUGV6T0VRNjNVN2NaVFhfN0JXTDFJdnE4VQ?oc=5",
+      "published": "2026-08-13T01:58:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -964,12 +964,12 @@
       }
     },
     {
-      "id": "38fbec50254c",
-      "title": "Ny studie: Hur påverkar adhd-läkemedel patienter med beroende? - NewsMachine AB",
+      "id": "dba129f013ed",
+      "title": "Ny studie: Hur påverkar adhd-läkemedel patienter med beroende? - press.newsmachine.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWhsZzEydkZwWVJoX3NxWHdYZVNZQkJmeVhFbXk0WXV6Ulg2aW5Hc09oak9VR3RKSHc4MXhPMkdhQWdvMjJ3OW1QakZUbEVfczhIMTVhbl8ySEw3YkE1dzZsaDFUd245cm5rNGZiR0ZfQ1ByTHB2TTFxZnJVdTEyVl95cHhPUUc2dGlTanZCRVFjY2F0RHRfalJ2UWhudEExTWs0MXlLZVVBNi1sb2tndndxZnM?oc=5",
       "published": "2025-12-18T08:00:00+00:00",
       "source": {
-        "name": "NewsMachine AB",
+        "name": "press.newsmachine.com",
         "url": "https://press.newsmachine.com"
       }
     },
