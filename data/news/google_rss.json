@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T21:22:16.694990+00:00",
+  "fetched_at": "2026-08-20T22:21:00.270661+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -104,16 +104,6 @@
       }
     },
     {
-      "id": "1dd481667b13",
-      "title": "Studie kan ändra behandling vid benartärsjukdom - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWFvVlRiRFJtd1VQZzVoRDV5YU1WZ0JBWFdvRUNCVDF2cktmRTN4SGVnWHdKd3EwMHdVUTZDdEhFem5TWmVqX1ZrWXBJLVlUdUF0dVExVExTUldIb3FYdmpzX3hPLXdEXzlrUzJWYVdHNTFkdEJ5QUxZM3RjWFIwZVdSLTZYZGZKUjduTldfS01Yc19KN1QxcWdLLVFRUGtJRk1HRHJyYmxnZE0?oc=5",
-      "published": "2026-08-17T19:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "af0f2d39b273",
       "title": "Om oegentlig förskrivning i årsberättelsen om läkemedel - Janusinfo.se",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWVlRaFM1RWVrejd0SkhPVmJBYVk0UmRDUWZpRTFkX3BWeEFKTjAyc3NUNURnd2MwNWM3Sm1QMGM4dUozVkU1NTVBb2ROYTBIcFZUOWt0ODgyNVkxWmNRVjZnZ0FmMi1hTks4TTRBZEJqZngwQldoRjFVemNScDRZOXBxZnZvTXJnRWhsSzlPaTcyWnN4MVBXNlBOakgzNGRRWjNDQ2dhQUp3c3Y3VW1iOEFDLTJObF9lZU5kaG53?oc=5",
@@ -121,6 +111,16 @@
       "source": {
         "name": "Janusinfo.se",
         "url": "https://janusinfo.se"
+      }
+    },
+    {
+      "id": "1dd481667b13",
+      "title": "Studie kan ändra behandling vid benartärsjukdom - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWFvVlRiRFJtd1VQZzVoRDV5YU1WZ0JBWFdvRUNCVDF2cktmRTN4SGVnWHdKd3EwMHdVUTZDdEhFem5TWmVqX1ZrWXBJLVlUdUF0dVExVExTUldIb3FYdmpzX3hPLXdEXzlrUzJWYVdHNTFkdEJ5QUxZM3RjWFIwZVdSLTZYZGZKUjduTldfS01Yc19KN1QxcWdLLVFRUGtJRk1HRHJyYmxnZE0?oc=5",
+      "published": "2026-08-17T19:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -314,16 +314,6 @@
       }
     },
     {
-      "id": "14b88054d6cb",
-      "title": "”Kvinnan behöver inte i första hand en vård som utgår från klimakteriet” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcGw3azdyMlpKa1VFRldydGhLQTVYT0hvZDZEcXBjZjVtTGZndUpjZ2RieHAzVU05SlRIenV2NG0tVHFIb2VQVHNUZ0F1UHVqMWgxbTNLd0N3ZHZpUmtDYXBiZDl1ZHAtM1lCMjdXbzJCNnM1ZnBIMlpjMVlZRDREak5ueDY4UjR1ZFdrRWtsS3QxRXAwY3dYeEVRTUVrU0hESFpmUlZGUE9qTk56dGRQR1VSRzFwZw?oc=5",
-      "published": "2026-07-23T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "f08ccd5b221a",
       "title": "\"När nya behandlingar dröjer förlorar Sverige mer än hälsa\" - Lif – de forskande läkemedelsföretagen",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNE9QcXEtQVRvYThFMlR6MDFzTmNFRmxVUW5ac2J6eHdGaGJwSk9ZNm92VU8ybUNvMFI5ZkpIc0JtODNhR1lDNjJTdURsSFdpRkhqYlAtVDFTSFctNHpPUkxMb09YY0FmcWNUQ2ZzNFN5S19YZTR0Uy1ERkkzS1lhMDlfLUs2RVRUZVJ6TkFlNnVLdzJLZ25F?oc=5",
@@ -331,6 +321,16 @@
       "source": {
         "name": "Lif – de forskande läkemedelsföretagen",
         "url": "https://www.lif.se"
+      }
+    },
+    {
+      "id": "14b88054d6cb",
+      "title": "”Kvinnan behöver inte i första hand en vård som utgår från klimakteriet” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcGw3azdyMlpKa1VFRldydGhLQTVYT0hvZDZEcXBjZjVtTGZndUpjZ2RieHAzVU05SlRIenV2NG0tVHFIb2VQVHNUZ0F1UHVqMWgxbTNLd0N3ZHZpUmtDYXBiZDl1ZHAtM1lCMjdXbzJCNnM1ZnBIMlpjMVlZRDREak5ueDY4UjR1ZFdrRWtsS3QxRXAwY3dYeEVRTUVrU0hESFpmUlZGUE9qTk56dGRQR1VSRzFwZw?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -354,16 +354,6 @@
       }
     },
     {
-      "id": "5e392d5f87c7",
-      "title": "Blodtrycksmedicinen som flest fortsätter ta – ny studie - News55",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM2UxNjJDN2YwblQ0RTdFR2hNSWlVSVNTTXJtMHV5eS1MaHgyWWZrMUpweU5rSXA1MWM2WGhIVFdiR1c3Tk5MdndPanBnMnlhNkF0SmE5VkVleDNxWUtJZV8zMU9ja3Y5dXQ0WW1abDVsdmZZWUpKY2dLZ3I3WXRxRHowYlpzc3JPcVE?oc=5",
-      "published": "2026-08-14T13:10:54+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "d2a7f8fd4c10",
       "title": "Frukost hos UUniCORN: Att minska föroreningarna från läkemedel utan att kompromissa med människors och djurs hälsa – Uppsala universitet - Uppsala universitet",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZDdRVkZvQXBQMWVGb2xJbXAzakxjVmloaklzdUh3SXY0eklPM1FtSWVfY19BZm1sak16TE9VY2ZfZ2pIVVJubzhMTUw5bmdfR0dmVUJlX1V0elNaNmd5OXVMWWR5MTdFZ04wd0dGWFc3RVBqOHRJMFpHcjVNeWRwcE8zdEdWeHd3Wl9ZS05UUVhQSEQyclpPU0JyWDNEMGRjSDd2MEZKVTctZnJNQlFLbS11eFNFUXNOaUxvb3JZWFlmT0ZmVDg5SHJJa3ZQM1BPZGJ2cW1FTWNRRkNvdmlzLVpXbGRsY1N4UVNtenY3cTZtVEt1aGhidmk5dFFkM0NzRXp4bHZkVktzZmc?oc=5",
@@ -381,6 +371,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "5e392d5f87c7",
+      "title": "Blodtrycksmedicinen som flest fortsätter ta – ny studie - News55",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM2UxNjJDN2YwblQ0RTdFR2hNSWlVSVNTTXJtMHV5eS1MaHgyWWZrMUpweU5rSXA1MWM2WGhIVFdiR1c3Tk5MdndPanBnMnlhNkF0SmE5VkVleDNxWUtJZV8zMU9ja3Y5dXQ0WW1abDVsdmZZWUpKY2dLZ3I3WXRxRHowYlpzc3JPcVE?oc=5",
+      "published": "2026-08-14T13:10:54+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -864,12 +864,12 @@
       }
     },
     {
-      "id": "ec31d895e508",
-      "title": "DEBATT: Replik: Säkra patienternas tillgång till läkemedel - di.se",
+      "id": "e7647ec6bc6e",
+      "title": "DEBATT: Replik: Säkra patienternas tillgång till läkemedel - Dagens industri",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMmJqOVVhNWFmNDN0cVdPTWVMczNKVFRMbFpvVnBlVUlnLUdEVXhHVGdkRHN5TWJXQ3J0c29kQXhTdkRIOUVXUC1oLUtpb3pVTFZUMHpobXg5NllYc0JPcmFXMGZORlVQZGxocjc1eWJ0dFFQX08tRUZNNGsyYmotQw?oc=5",
       "published": "2026-06-24T07:00:00+00:00",
       "source": {
-        "name": "di.se",
+        "name": "Dagens industri",
         "url": "https://www.di.se"
       }
     },
