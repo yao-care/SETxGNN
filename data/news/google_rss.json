@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T14:30:36.591330+00:00",
+  "fetched_at": "2026-08-20T15:27:49.989277+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,16 +24,6 @@
       }
     },
     {
-      "id": "4529793de412",
-      "title": "Lovande resultat för behandling av svår hudcancer - Corren",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMmw1UEp5LTJDa0R1SmJrazEwNFZYdEFIelo1bkNxU2R5MExlS09TMkZmV2h4NzlfaWJPdTFWZW9LOFVLUDNXYjFyelFjU0hYa3RpejBveWg5S0U2SVpoQXJJUUpleTB1OVJoMmluMkt0dHBOSzV5OU9hYUVwdWhiN19yUVRidnhxekFja3dwMHE3bThiQmxLS3VIZXZaRVFiWUR2UGlob0xuTkY2OHFz?oc=5",
-      "published": "2026-08-19T19:01:00+00:00",
-      "source": {
-        "name": "Corren",
-        "url": "https://www.corren.se"
-      }
-    },
-    {
       "id": "a29a5eaba912",
       "title": "Fler mediciner kan bli receptfria – så påverkas din plånbok - e55.se",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3FLaEk3aGxEVnBjQWRQeHVmNDN6d2lZTDY3MERPWTJ6d19CTlFZeW5mSWZjUWlpTXUyVmRUYk1iaThhTjR4N2w0TlR3aWNQTmZVc2pVY2RCV3huTE5EQWZ5NU9OckJRVnBLQ0pVNk1Sd29meHBVQ3B3YXpBZDZjODRpbjVXc0xkUV9V?oc=5",
@@ -51,6 +41,16 @@
       "source": {
         "name": "Expressen",
         "url": "https://www.expressen.se"
+      }
+    },
+    {
+      "id": "4529793de412",
+      "title": "Lovande resultat för behandling av svår hudcancer - Corren",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMmw1UEp5LTJDa0R1SmJrazEwNFZYdEFIelo1bkNxU2R5MExlS09TMkZmV2h4NzlfaWJPdTFWZW9LOFVLUDNXYjFyelFjU0hYa3RpejBveWg5S0U2SVpoQXJJUUpleTB1OVJoMmluMkt0dHBOSzV5OU9hYUVwdWhiN19yUVRidnhxekFja3dwMHE3bThiQmxLS3VIZXZaRVFiWUR2UGlob0xuTkY2OHFz?oc=5",
+      "published": "2026-08-19T19:01:00+00:00",
+      "source": {
+        "name": "Corren",
+        "url": "https://www.corren.se"
       }
     },
     {
@@ -114,16 +114,6 @@
       }
     },
     {
-      "id": "74f6f2c1decb",
-      "title": "Valproat – ingen fastställd länk mellan pappans medicinering och barnets hälsa - LäkemedelsVärlden",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnhVMEV4S3JTdHBvYnkzTjYzQVdBUlI3UFlBUEFlei1yV0tkSVFVQmRvVkF0WHNnczFZbkpEb1lleWxPOUYzWVprUTRTYmRucTh3UmxlREIwemw1TnRJaXFWN3lHS1EtOVNJbU5PQmdfUGN6WDJ6TEFRaERNOXltQzZfWDN3bmx2RjlXT2VibEU3UURwUzB1QmRReUtwY1drQnYw?oc=5",
-      "published": "2026-06-22T07:00:00+00:00",
-      "source": {
-        "name": "LäkemedelsVärlden",
-        "url": "https://www.lakemedelsvarlden.se"
-      }
-    },
-    {
       "id": "e4e6c4aee06f",
       "title": "Dödsfall misstänks ha koppling till fetmamedel - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDlIWGV4NDdYUGtFYzZULVltVG5pRnlMWmlvNmZiMkNOcnBKaElESmdQVEloOGwtc2diZ1pJcEdMUFZJNklhQ082eDdXMVFJeXMxODJqdDR5OF9XejZvTVBNclRBSzlLU3RkS19rbWRnS2hsZjNLcGhzQWxDTUphWWx1bVJzRVBjbWhmRnRoUHVsV0k1cktuWXRSU2NyVmcwSnhrZQ?oc=5",
@@ -184,6 +174,16 @@
       }
     },
     {
+      "id": "6d8ef3f52f0f",
+      "title": "”Vården behöver ett ledarskap baserat på vårdkunskap” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdk9vZlFuSTdYLXR6MXRWZUg1WGpGc0M2WmstYWo3S1dpN2VXN3FzQ1VJMElhT1ZaSWFHZV9GbVVKVmtIblRXVFhqWjJkU1oxdGR3bXB5dnJaQlh3S1ZsWjZ6QWZjQ0JLbmNDTTg0NmdKZ2I3V1lnUVJ6c2hqODQtNjVUM3huRDJwcFc5czc2djZqQlNsLVRoQzlWUUE?oc=5",
+      "published": "2026-08-17T12:47:42+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "b56e548e0cb1",
       "title": "Ny studie: Det är optimala dosen av adhd-medicin - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTb09zNV9WcFY1ejR4MnZrSkxJbVdrU3JEczJMRDk3YVVZemoyQXY4XzE5NGRiMXpZRWI4a0pmcFp5V0MtbDE0bTY4TnNhWTd4eUdQdXRuY2M0dlg0N3I5SDB4NEVoZkpUZDJrMGxFU0ZRWmJIYi1ZZg?oc=5",
@@ -204,13 +204,13 @@
       }
     },
     {
-      "id": "6d8ef3f52f0f",
-      "title": "”Vården behöver ett ledarskap baserat på vårdkunskap” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdk9vZlFuSTdYLXR6MXRWZUg1WGpGc0M2WmstYWo3S1dpN2VXN3FzQ1VJMElhT1ZaSWFHZV9GbVVKVmtIblRXVFhqWjJkU1oxdGR3bXB5dnJaQlh3S1ZsWjZ6QWZjQ0JLbmNDTTg0NmdKZ2I3V1lnUVJ6c2hqODQtNjVUM3huRDJwcFc5czc2djZqQlNsLVRoQzlWUUE?oc=5",
-      "published": "2026-08-17T12:47:42+00:00",
+      "id": "74f6f2c1decb",
+      "title": "Valproat – ingen fastställd länk mellan pappans medicinering och barnets hälsa - LäkemedelsVärlden",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnhVMEV4S3JTdHBvYnkzTjYzQVdBUlI3UFlBUEFlei1yV0tkSVFVQmRvVkF0WHNnczFZbkpEb1lleWxPOUYzWVprUTRTYmRucTh3UmxlREIwemw1TnRJaXFWN3lHS1EtOVNJbU5PQmdfUGN6WDJ6TEFRaERNOXltQzZfWDN3bmx2RjlXT2VibEU3UURwUzB1QmRReUtwY1drQnYw?oc=5",
+      "published": "2026-06-22T07:00:00+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "LäkemedelsVärlden",
+        "url": "https://www.lakemedelsvarlden.se"
       }
     },
     {
@@ -614,16 +614,6 @@
       }
     },
     {
-      "id": "648120c822bf",
-      "title": "GLP-1-läkemedel kopplas till håravfall – ny studie kartlägger risken - News55",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEgtRE43bzAwV3pnd3ROblV1UFNwdHJKdWNmZnZwZ2tJRjhUOFI5MGFHYzdUeHNJMnBEZnQzcE82U2o3Z0d1N0NjYzlvVlVKWHQ5Z0Q4eFFBN0pNSldVdlVUNVJNUWhrYkJhT1lyOVV2Q29XS3prUm9pT2VKbnhJNTVFdUZvRmZZQWpXcWNjX2szX0RNbE1jeU54NA?oc=5",
-      "published": "2026-07-26T18:07:24+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "9d0d172e9682",
       "title": "Vanlig medicin kan öka risken för hjärtsjukdom - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFVGWEdzcnBlX1hlUmtNcTRKME9xM0ZKNUJsdS14UEMxTS1VSkJHLS1nTEtTb1g1MXBhMHc0MFVzMWl1M0hONTBkLXNHdXhQZFpBNjNWSE9jMXVQVWFHbzVMRkNQYV9jbF9MOUZWRm9lOU4tQmQ3OEhkaEQ4UmpNWUxPdmZHMXN4S0J3Y1Q4d3ZaQQ?oc=5",
@@ -631,6 +621,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "648120c822bf",
+      "title": "GLP-1-läkemedel kopplas till håravfall – ny studie kartlägger risken - News55",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEgtRE43bzAwV3pnd3ROblV1UFNwdHJKdWNmZnZwZ2tJRjhUOFI5MGFHYzdUeHNJMnBEZnQzcE82U2o3Z0d1N0NjYzlvVlVKWHQ5Z0Q4eFFBN0pNSldVdlVUNVJNUWhrYkJhT1lyOVV2Q29XS3prUm9pT2VKbnhJNTVFdUZvRmZZQWpXcWNjX2szX0RNbE1jeU54NA?oc=5",
+      "published": "2026-07-26T18:07:24+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -954,20 +954,20 @@
       }
     },
     {
-      "id": "014a4d4d4024",
-      "title": "Region Skåne häver avtal med vårdcentral i Malmö - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHc1TFh1SlVMV19XLTZuc01kclcyWllaMWc1ck1IcE1rSlNUTzIzYS1GNGxXQ2NJdTBfU3lmZHBxaXlJSllTX1VnWUZzLWR4TkVkTUhIRXJHZVlaY2VyeUpsZkVLYlAyQWJpeUpiUDlwYzZ3SXZkTURzZEM4ZmJodTVUd0o5YzR2MUQxcEZYX1NJZ1hyZ3MxemZ5UFB5TE1zY25XZkIwc2dFR25KdWg4?oc=5",
-      "published": "2026-01-28T08:00:00+00:00",
+      "id": "35b31159a006",
+      "title": "Fyra gripna i illegal läkemedelshärva - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaFF5dmhneWp4b0MwdnZmZkFWYlF3RC00LVlVd01rNHg5OWRiNzM3NEs1Mm00OUR0SE1IdzlDUUNpMmdzUnFTY0JVRGdLNEQ4eTBzekNMd09sUjMyd0EtVHRNQW9XamcwWW9HNzVxcWY5TUNMNE12eUtsTnQyLWEyTmxkREVvUV9lUjdZRElMQjgzOGlSR3VN?oc=5",
+      "published": "2026-03-27T07:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
       }
     },
     {
-      "id": "35b31159a006",
-      "title": "Fyra gripna i illegal läkemedelshärva - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaFF5dmhneWp4b0MwdnZmZkFWYlF3RC00LVlVd01rNHg5OWRiNzM3NEs1Mm00OUR0SE1IdzlDUUNpMmdzUnFTY0JVRGdLNEQ4eTBzekNMd09sUjMyd0EtVHRNQW9XamcwWW9HNzVxcWY5TUNMNE12eUtsTnQyLWEyTmxkREVvUV9lUjdZRElMQjgzOGlSR3VN?oc=5",
-      "published": "2026-03-27T07:00:00+00:00",
+      "id": "014a4d4d4024",
+      "title": "Region Skåne häver avtal med vårdcentral i Malmö - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHc1TFh1SlVMV19XLTZuc01kclcyWllaMWc1ck1IcE1rSlNUTzIzYS1GNGxXQ2NJdTBfU3lmZHBxaXlJSllTX1VnWUZzLWR4TkVkTUhIRXJHZVlaY2VyeUpsZkVLYlAyQWJpeUpiUDlwYzZ3SXZkTURzZEM4ZmJodTVUd0o5YzR2MUQxcEZYX1NJZ1hyZ3MxemZ5UFB5TE1zY25XZkIwc2dFR25KdWg4?oc=5",
+      "published": "2026-01-28T08:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
