@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T07:37:55.608195+00:00",
+  "fetched_at": "2026-08-21T08:33:57.492497+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -14,16 +14,6 @@
       }
     },
     {
-      "id": "089ee2c8ecf3",
-      "title": "Tre regioner granskar hur Cosmic påverkat patienternas säkerhet - Svensk Farmaci",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPak5vbS1FYVJUc1lhOEtMSnp5WEdPOUZVVk9FLXl4aTVWbEpsZFJJd0tZd2tvNm5HTEllU2lrZjU3NHBueTFKQzktX0d3ajFPT1BlTVdWRWp3Y2hVZ3VhRzB3TEZVT21XRGVpdWN6TnNfcm1Fc1psaWZNbGw0WXNuakxPajB1Rk1WQnItdVRYN3JvTzNkbTYwWWtZZi1GMGh6ZlFMU2xPcw?oc=5",
-      "published": "2026-08-20T10:48:09+00:00",
-      "source": {
-        "name": "Svensk Farmaci",
-        "url": "https://www.svenskfarmaci.se"
-      }
-    },
-    {
       "id": "7677eb8e7789",
       "title": "Många apotekskunder ovetande om felaktiga priser - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPakdoakNkVXJYWTB0czE1ZmpqelBnMVZ2UVpQVjFUUmRVQzUwOXpidU5qTFM2Sjk4ak8xb3Frdm1TZl9iOXVPU1Zva2JNaFhzMDJlR25ORHRzX2dDaXlsdDNNUUh6aFlBeTBfNGQ3YnNJWGp6eG1aY0tuS0w0OGZlMFFQa01vYzduT3BwSFZOWjFOWjNUaUlPS0RXWDZzMW5fc2dR?oc=5",
@@ -31,6 +21,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "089ee2c8ecf3",
+      "title": "Tre regioner granskar hur Cosmic påverkat patienternas säkerhet - Svensk Farmaci",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPak5vbS1FYVJUc1lhOEtMSnp5WEdPOUZVVk9FLXl4aTVWbEpsZFJJd0tZd2tvNm5HTEllU2lrZjU3NHBueTFKQzktX0d3ajFPT1BlTVdWRWp3Y2hVZ3VhRzB3TEZVT21XRGVpdWN6TnNfcm1Fc1psaWZNbGw0WXNuakxPajB1Rk1WQnItdVRYN3JvTzNkbTYwWWtZZi1GMGh6ZlFMU2xPcw?oc=5",
+      "published": "2026-08-20T10:48:09+00:00",
+      "source": {
+        "name": "Svensk Farmaci",
+        "url": "https://www.svenskfarmaci.se"
       }
     },
     {
@@ -44,16 +44,6 @@
       }
     },
     {
-      "id": "a29a5eaba912",
-      "title": "Fler mediciner kan bli receptfria – så påverkas din plånbok - e55.se",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3FLaEk3aGxEVnBjQWRQeHVmNDN6d2lZTDY3MERPWTJ6d19CTlFZeW5mSWZjUWlpTXUyVmRUYk1iaThhTjR4N2w0TlR3aWNQTmZVc2pVY2RCV3huTE5EQWZ5NU9OckJRVnBLQ0pVNk1Sd29meHBVQ3B3YXpBZDZjODRpbjVXc0xkUV9V?oc=5",
-      "published": "2026-08-19T14:18:07+00:00",
-      "source": {
-        "name": "e55.se",
-        "url": "https://www.e55.se"
-      }
-    },
-    {
       "id": "cdce0752d729",
       "title": "4 bästa behandlingarna mot svår psoriasis: Behandlingar vi vet har mycket god effekt” - Expressen",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWtNMmNYTE9xTFVXYm5nRThJYnA2bzFtWjFHNFNZckNOM2Y2WE83bkZCalRfazlpZTRWdTJrTXdUZTFKNzRoc2pLYXBQWlVtenJfSXJpdUdHbTZzaVVZZkIzT0ZvOEF5YnJzcXVkcVQydXYtNktuNmZGeFU3b1hMSEJrNE9zUjQ?oc=5",
@@ -61,6 +51,16 @@
       "source": {
         "name": "Expressen",
         "url": "https://www.expressen.se"
+      }
+    },
+    {
+      "id": "a29a5eaba912",
+      "title": "Fler mediciner kan bli receptfria – så påverkas din plånbok - e55.se",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3FLaEk3aGxEVnBjQWRQeHVmNDN6d2lZTDY3MERPWTJ6d19CTlFZeW5mSWZjUWlpTXUyVmRUYk1iaThhTjR4N2w0TlR3aWNQTmZVc2pVY2RCV3huTE5EQWZ5NU9OckJRVnBLQ0pVNk1Sd29meHBVQ3B3YXpBZDZjODRpbjVXc0xkUV9V?oc=5",
+      "published": "2026-08-19T14:18:07+00:00",
+      "source": {
+        "name": "e55.se",
+        "url": "https://www.e55.se"
       }
     },
     {
@@ -74,16 +74,6 @@
       }
     },
     {
-      "id": "db339a2ca2d2",
-      "title": "Vården i förändring: Långsiktig behandling av obesitas och utmaningarna kring GLP-1-läkemedel - Dalabygden",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORjE0NEhyQV9qeGpGQjg3R3Q2MmZSaFZrODZoczFkUHlnUllHZ3liTFZEaDV3RzJGSFhkNU5iWDZJNFZsaDBMYnBmRThrZ1ZSSmJVYjlLOHZZNEU2UUNyMkRHVFgwUXVnMmQ2b1B4QUVMVFpxUzNCMnJJYjJlTmpMajI2RF91STRCLUVjSEo0SWw1R3Nock5NSHNZZ3RfVGRFWl9SVVBvZGJiTVBqUFBweXFId0pVQm9WZXBqZXN6azVkSHM?oc=5",
-      "published": "2026-08-20T13:20:24+00:00",
-      "source": {
-        "name": "Dalabygden",
-        "url": "https://dalabygden.se"
-      }
-    },
-    {
       "id": "450a9d124c58",
       "title": "Möjligt läkemedel mot alzheimer minskar skadligt proteintrassel - Forskning & Framsteg",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYk1FRmlaQnlhYW51Um15Tkc3TGx4cUxyWVFkdTVZMGRPTlNHdjVvTi1vZVFmM0tjRGlQVi1CNGdBUWVQQjhHSUhTeExQaTI2ZDNuQmlOSGxKaHpFcG1jb2lvdHVKX003b2YtMHNKa25ZaEh4SzRjUHlycGVlUm1tVW01N1JrallfU0o5Y09YOXQ?oc=5",
@@ -91,6 +81,16 @@
       "source": {
         "name": "Forskning & Framsteg",
         "url": "https://fof.se"
+      }
+    },
+    {
+      "id": "db339a2ca2d2",
+      "title": "Vården i förändring: Långsiktig behandling av obesitas och utmaningarna kring GLP-1-läkemedel - Dalabygden",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORjE0NEhyQV9qeGpGQjg3R3Q2MmZSaFZrODZoczFkUHlnUllHZ3liTFZEaDV3RzJGSFhkNU5iWDZJNFZsaDBMYnBmRThrZ1ZSSmJVYjlLOHZZNEU2UUNyMkRHVFgwUXVnMmQ2b1B4QUVMVFpxUzNCMnJJYjJlTmpMajI2RF91STRCLUVjSEo0SWw1R3Nock5NSHNZZ3RfVGRFWl9SVVBvZGJiTVBqUFBweXFId0pVQm9WZXBqZXN6azVkSHM?oc=5",
+      "published": "2026-08-20T13:20:24+00:00",
+      "source": {
+        "name": "Dalabygden",
+        "url": "https://dalabygden.se"
       }
     },
     {
@@ -614,16 +614,6 @@
       }
     },
     {
-      "id": "5e392d5f87c7",
-      "title": "Blodtrycksmedicinen som flest fortsätter ta – ny studie - News55",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM2UxNjJDN2YwblQ0RTdFR2hNSWlVSVNTTXJtMHV5eS1MaHgyWWZrMUpweU5rSXA1MWM2WGhIVFdiR1c3Tk5MdndPanBnMnlhNkF0SmE5VkVleDNxWUtJZV8zMU9ja3Y5dXQ0WW1abDVsdmZZWUpKY2dLZ3I3WXRxRHowYlpzc3JPcVE?oc=5",
-      "published": "2026-08-14T13:10:54+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "a957bc2f5361",
       "title": "Befintligt läkemedel kan hjälpa immunförsvaret hos personer med hiv - Forskning.se",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTS1nblQydTI5OXB0ajM5YzhEVk1JSDh2eXBwRFJWNHVweW1nUF9pNHV3dFlnRWp2b3Z1S0tLOHh2VmVDQTF0eWZmajNnaUFINTNfUG9UV2xQVDYxRGZxYWFxZ1NrVGV4bmlsc21OS0Z4ZXI4SDY1dGhLUlFmR3RlWW1kelB1Uk5FZlFJ?oc=5",
@@ -631,6 +621,16 @@
       "source": {
         "name": "Forskning.se",
         "url": "https://forskning.se"
+      }
+    },
+    {
+      "id": "5e392d5f87c7",
+      "title": "Blodtrycksmedicinen som flest fortsätter ta – ny studie - News55",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM2UxNjJDN2YwblQ0RTdFR2hNSWlVSVNTTXJtMHV5eS1MaHgyWWZrMUpweU5rSXA1MWM2WGhIVFdiR1c3Tk5MdndPanBnMnlhNkF0SmE5VkVleDNxWUtJZV8zMU9ja3Y5dXQ0WW1abDVsdmZZWUpKY2dLZ3I3WXRxRHowYlpzc3JPcVE?oc=5",
+      "published": "2026-08-14T13:10:54+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
