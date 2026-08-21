@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T18:28:52.387170+00:00",
+  "fetched_at": "2026-08-21T19:21:42.517802+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -34,16 +34,6 @@
       }
     },
     {
-      "id": "877d7cb4e586",
-      "title": "Att resa en \"barriär\" för att förhindra att förfalskade läkemedel kommer in på marknaden. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlJHNEhFV3lyaFRzQmdiaENnLTFIc1VYUmk2WTYzdDVrZEFDWDlUa1ZON3VxNWI3cXRrZmd2ZU9iWjNvSmRzX2VTUjg2bFF5M3hjZUxyYkEyeFo1Z2RmMkRXTGNtbnNENTQ1V0FQY0JldXBxdGNBSXA2QlZfQmVNZQ?oc=5",
-      "published": "2026-08-21T03:03:28+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "089ee2c8ecf3",
       "title": "Tre regioner granskar hur Cosmic påverkat patienternas säkerhet - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPak5vbS1FYVJUc1lhOEtMSnp5WEdPOUZVVk9FLXl4aTVWbEpsZFJJd0tZd2tvNm5HTEllU2lrZjU3NHBueTFKQzktX0d3ajFPT1BlTVdWRWp3Y2hVZ3VhRzB3TEZVT21XRGVpdWN6TnNfcm1Fc1psaWZNbGw0WXNuakxPajB1Rk1WQnItdVRYN3JvTzNkbTYwWWtZZi1GMGh6ZlFMU2xPcw?oc=5",
@@ -51,6 +41,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "877d7cb4e586",
+      "title": "Att resa en \"barriär\" för att förhindra att förfalskade läkemedel kommer in på marknaden. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlJHNEhFV3lyaFRzQmdiaENnLTFIc1VYUmk2WTYzdDVrZEFDWDlUa1ZON3VxNWI3cXRrZmd2ZU9iWjNvSmRzX2VTUjg2bFF5M3hjZUxyYkEyeFo1Z2RmMkRXTGNtbnNENTQ1V0FQY0JldXBxdGNBSXA2QlZfQmVNZQ?oc=5",
+      "published": "2026-08-21T03:03:28+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -164,6 +164,16 @@
       }
     },
     {
+      "id": "f2b01733d36c",
+      "title": "Miljöpartiet: Underlätta kliniska prövningar och locka hit medicinska forskare - Life-time.se",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2pvWFl0YkpCcmM3V3ZYblRHQktkQ0tNV1FhLS1BMGR6a1JEODBoWVNsS29hQ0tOLUxiUEw1LUxSel9IYlpzeWRyYmxjOV9qSno4VEp1OExIa0ZlRkd1Y1lOdjFtT2psZ21BWWdCSHBUYWowbTBsRjR0ekhoc0w0ME56ZTd6NkdIVElZbkpmVk5Xc3NmTk9GT2NHelFGcDlzODBmeHZ2SEFSbDFBT043dDJuTjlRT1U?oc=5",
+      "published": "2026-08-19T08:06:50+00:00",
+      "source": {
+        "name": "Life-time.se",
+        "url": "https://www.life-time.se"
+      }
+    },
+    {
       "id": "7677eb8e7789",
       "title": "Många apotekskunder ovetande om felaktiga priser - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPakdoakNkVXJYWTB0czE1ZmpqelBnMVZ2UVpQVjFUUmRVQzUwOXpidU5qTFM2Sjk4ak8xb3Frdm1TZl9iOXVPU1Zva2JNaFhzMDJlR25ORHRzX2dDaXlsdDNNUUh6aFlBeTBfNGQ3YnNJWGp6eG1aY0tuS0w0OGZlMFFQa01vYzduT3BwSFZOWjFOWjNUaUlPS0RXWDZzMW5fc2dR?oc=5",
@@ -184,16 +194,6 @@
       }
     },
     {
-      "id": "3bb7b803c84b",
-      "title": "Kritiskt hjärnödem på grund av självbehandling av andningssymtom med traditionell medicin. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTWI5eVJDR05COEVlVHhlRnJEcHBzcFhtNXRBbU1odEMySXY3QlV3aHpYV2t0aDUtZVNURi1UZWJwY3lCTXlXcGFIbnFXNWxUNUFuMjJjY0FfT0Q3eV9HdU1yR3l4bS1hbE8wdTdCNXM0WHF4UFdlZWt2ZzM3UjE3YmR4eFotQlYzUDNUZ0plaXpvTFh2SmFKZFFB?oc=5",
-      "published": "2026-08-21T10:18:34+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "b56e548e0cb1",
       "title": "Ny studie: Det är optimala dosen av adhd-medicin - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTb09zNV9WcFY1ejR4MnZrSkxJbVdrU3JEczJMRDk3YVVZemoyQXY4XzE5NGRiMXpZRWI4a0pmcFp5V0MtbDE0bTY4TnNhWTd4eUdQdXRuY2M0dlg0N3I5SDB4NEVoZkpUZDJrMGxFU0ZRWmJIYi1ZZg?oc=5",
@@ -204,13 +204,13 @@
       }
     },
     {
-      "id": "f2b01733d36c",
-      "title": "Miljöpartiet: Underlätta kliniska prövningar och locka hit medicinska forskare - Life-time.se",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2pvWFl0YkpCcmM3V3ZYblRHQktkQ0tNV1FhLS1BMGR6a1JEODBoWVNsS29hQ0tOLUxiUEw1LUxSel9IYlpzeWRyYmxjOV9qSno4VEp1OExIa0ZlRkd1Y1lOdjFtT2psZ21BWWdCSHBUYWowbTBsRjR0ekhoc0w0ME56ZTd6NkdIVElZbkpmVk5Xc3NmTk9GT2NHelFGcDlzODBmeHZ2SEFSbDFBT043dDJuTjlRT1U?oc=5",
-      "published": "2026-08-19T08:06:50+00:00",
+      "id": "3bb7b803c84b",
+      "title": "Kritiskt hjärnödem på grund av självbehandling av andningssymtom med traditionell medicin. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTWI5eVJDR05COEVlVHhlRnJEcHBzcFhtNXRBbU1odEMySXY3QlV3aHpYV2t0aDUtZVNURi1UZWJwY3lCTXlXcGFIbnFXNWxUNUFuMjJjY0FfT0Q3eV9HdU1yR3l4bS1hbE8wdTdCNXM0WHF4UFdlZWt2ZzM3UjE3YmR4eFotQlYzUDNUZ0plaXpvTFh2SmFKZFFB?oc=5",
+      "published": "2026-08-21T10:18:34+00:00",
       "source": {
-        "name": "Life-time.se",
-        "url": "https://www.life-time.se"
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -374,16 +374,6 @@
       }
     },
     {
-      "id": "a1d751cdd1fc",
-      "title": "16-åring hamnade på akuten då ingen följde upp hans adhd-medicinering - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9KQk8zSXAtQk1RdEhTUnlEVHJkSUxqTGUyOEhIMUxZVjRnMG16S3l2ZFBKRFZHRmJNSjFFZC1LSFY?oc=5",
-      "published": "2026-08-17T02:30:14+00:00",
-      "source": {
-        "name": "Yle",
-        "url": "https://yle.fi"
-      }
-    },
-    {
       "id": "839f300c9a07",
       "title": "\"Barn och ungdomar ska få bästa möjliga läkemedelsbehandling\" - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXVaal9CUXh5MGVMOUJZbnBSY3dvSFVoMG1nVTBieDNtUkxKOXBpQTh6aWYwem5TRnJ5Q0JTR2thX3hLdUZ2a1RZRmw5N1AtSFpWQmNvN3B2eFRabGZMTk1fb0xscTl3Rk51U1JKdmFyUnpQTUpYcTAyN0VYX3Y3Y2d5QTZ6em1Kb0xIUkRkVnBJYlFhc1QwNUxB?oc=5",
@@ -411,6 +401,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "a1d751cdd1fc",
+      "title": "16-åring hamnade på akuten då ingen följde upp hans adhd-medicinering - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9KQk8zSXAtQk1RdEhTUnlEVHJkSUxqTGUyOEhIMUxZVjRnMG16S3l2ZFBKRFZHRmJNSjFFZC1LSFY?oc=5",
+      "published": "2026-08-17T02:30:14+00:00",
+      "source": {
+        "name": "Yle",
+        "url": "https://yle.fi"
       }
     },
     {
