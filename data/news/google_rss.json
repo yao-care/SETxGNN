@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T21:18:34.467954+00:00",
+  "fetched_at": "2026-08-21T22:18:14.525372+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,16 +24,6 @@
       }
     },
     {
-      "id": "241185ef7680",
-      "title": "Säkert att sätta ut vanligt läkemedel mot myelom - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORlVjTUM3TWVKb2JhVEtzTjF5ZHdhSENwdTZPSGN1REtrTVJ6M0ppZmtmUGdPaTg3dHY5cDUtYWFselJJWDh1ZHVQQW5ZMGI0b0ZlbWVPZzh6UERSZXppdVJJSWtUT1hQM3R4N3lkVFlRN0p6ZnhZVUNLbjEySkNHaFcxZlVxVWticXBUcUozRVNpckRkd0xhamZJRmQ2cWFtVWZfa3NB?oc=5",
-      "published": "2026-08-21T02:42:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "089ee2c8ecf3",
       "title": "Tre regioner granskar hur Cosmic påverkat patienternas säkerhet - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPak5vbS1FYVJUc1lhOEtMSnp5WEdPOUZVVk9FLXl4aTVWbEpsZFJJd0tZd2tvNm5HTEllU2lrZjU3NHBueTFKQzktX0d3ajFPT1BlTVdWRWp3Y2hVZ3VhRzB3TEZVT21XRGVpdWN6TnNfcm1Fc1psaWZNbGw0WXNuakxPajB1Rk1WQnItdVRYN3JvTzNkbTYwWWtZZi1GMGh6ZlFMU2xPcw?oc=5",
@@ -41,6 +31,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "241185ef7680",
+      "title": "Säkert att sätta ut vanligt läkemedel mot myelom - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORlVjTUM3TWVKb2JhVEtzTjF5ZHdhSENwdTZPSGN1REtrTVJ6M0ppZmtmUGdPaTg3dHY5cDUtYWFselJJWDh1ZHVQQW5ZMGI0b0ZlbWVPZzh6UERSZXppdVJJSWtUT1hQM3R4N3lkVFlRN0p6ZnhZVUNLbjEySkNHaFcxZlVxVWticXBUcUozRVNpckRkd0xhamZJRmQ2cWFtVWZfa3NB?oc=5",
+      "published": "2026-08-21T02:42:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -224,6 +224,16 @@
       }
     },
     {
+      "id": "481358dae4be",
+      "title": "Max Herulf går från EHM till Tandem Health - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYW1Jd1YwQlhCM3gtY2lyTXRSYy02Zm1KX2ZLcUlTX21jMDlmaEFaX0hLSkZicG9Ic2g2clBsS25lSzBKbUpVYXczMXpPRWFOeGRSUTVQeDFfaGdHS2V2ejJrVTFNSS02TWl5aTBRY0ozSG1ZMmpPUElCbmFUMjBsVWg1X3JNMHRaTjNzQUxTZ3hQZW5uWkhmcQ?oc=5",
+      "published": "2026-08-17T19:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "db339a2ca2d2",
       "title": "Vården i förändring: Långsiktig behandling av obesitas och utmaningarna kring GLP-1-läkemedel - Dalabygden",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORjE0NEhyQV9qeGpGQjg3R3Q2MmZSaFZrODZoczFkUHlnUllHZ3liTFZEaDV3RzJGSFhkNU5iWDZJNFZsaDBMYnBmRThrZ1ZSSmJVYjlLOHZZNEU2UUNyMkRHVFgwUXVnMmQ2b1B4QUVMVFpxUzNCMnJJYjJlTmpMajI2RF91STRCLUVjSEo0SWw1R3Nock5NSHNZZ3RfVGRFWl9SVVBvZGJiTVBqUFBweXFId0pVQm9WZXBqZXN6azVkSHM?oc=5",
@@ -258,16 +268,6 @@
       "title": "”Låt oss inte halka efter i forskning om kvinnors hälsa” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhrYWhGNzNiU3NTNWpIUGxhcGVONEExU29xejBuUGJ1TlJIemNId0lOUHA1ZmN1SlNCWk5KT2l0Zl9QXzdFdGxMeGRPbldBb29uY2Y5S1ZyNEo5ampRQW5YVE5aUmtBcDAtc2VOczk3SDZIQ3l1cjlnaEtLU2tYNThEdnVNWXNvN3p5aTJ0TmUzdVo2RzFES1lFYVMzUUNh?oc=5",
       "published": "2026-07-02T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "481358dae4be",
-      "title": "Max Herulf går från EHM till Tandem Health - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYW1Jd1YwQlhCM3gtY2lyTXRSYy02Zm1KX2ZLcUlTX21jMDlmaEFaX0hLSkZicG9Ic2g2clBsS25lSzBKbUpVYXczMXpPRWFOeGRSUTVQeDFfaGdHS2V2ejJrVTFNSS02TWl5aTBRY0ozSG1ZMmpPUElCbmFUMjBsVWg1X3JNMHRaTjNzQUxTZ3hQZW5uWkhmcQ?oc=5",
-      "published": "2026-08-17T19:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -381,6 +381,16 @@
       "source": {
         "name": "Lif – de forskande läkemedelsföretagen",
         "url": "https://www.lif.se"
+      }
+    },
+    {
+      "id": "064adfbab129",
+      "title": "Därför ger data om nytt cancervaccin stort hallå - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbXd2SUxhajhhYWZtRS1TZF9jUmpic3ZrSFQtcEVLQl9HQTU2aDlaZS1aLUNqZm1jYTFMVDdYa09WQmowSW9RVmo2UU94RFREOEhiOXlkY0xsSy15R0tVZl9GenZYU3djS3NDVVlQZmhDdVlJczB3Tmo5RTRmQkxKakZLZ2dHZmlDMmlNeFRKakdQcmhqQU9tYnN4VFc5b1hfX3hDX1h3?oc=5",
+      "published": "2026-08-20T05:47:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -564,16 +574,6 @@
       }
     },
     {
-      "id": "f7555bf6cd5f",
-      "title": "Nytt centrum ska främja barns och ungas hälsa - Janusinfo.se",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYjhWdW96YzFhYVFocmE5UE43TUU3RDFiLWIwQVNsaVM3aXExeTJpMm92d2JlZDE3c3hyS1QyYXpMTE1hWGR5M2dyNkszUXczMXNpWmRwYVRyRFB4NG5mYXU2aWtrU2NFVXhaOWZQa2c4MFNxVkY5MXk5bWs2UDRGY2N1N05RRkVPZWQ0cGM1OUNydDZRZzhtb2NuS0YxY1NydE9sQmdDRjdaN1RJSG9PRThIY0E3QXl5VUtZekk3NUNnNnlaSkZGZDdmTlNYdldPQkswYW14eEQ3VWNtYmZv?oc=5",
-      "published": "2025-10-06T07:00:00+00:00",
-      "source": {
-        "name": "Janusinfo.se",
-        "url": "https://janusinfo.se"
-      }
-    },
-    {
       "id": "9a6d995cd18f",
       "title": "Forskare: Dyrare medicin kostar liv i Storbritannien - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVFBPdDNqSWlCRlF1SGNPZG5ELW4yMHlPNThtd1lBQzBwRGlXZUhBYkNLeE9TclpiV3F6aFc3QVhNNVN4Y2JMUjJ3akJwakRjU3JZLWVHLXdRX2w2cHZ3UXN1b2gwalk4T3MtSkxxQzRGalpVbGJKTmVPb193bGhjR2lGUXhNRWZad2hMVGxudzVkdVN1YVBNQW81aWtBQTJ6NmdnVWo3QQ?oc=5",
@@ -581,6 +581,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "f7555bf6cd5f",
+      "title": "Nytt centrum ska främja barns och ungas hälsa - Janusinfo.se",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYjhWdW96YzFhYVFocmE5UE43TUU3RDFiLWIwQVNsaVM3aXExeTJpMm92d2JlZDE3c3hyS1QyYXpMTE1hWGR5M2dyNkszUXczMXNpWmRwYVRyRFB4NG5mYXU2aWtrU2NFVXhaOWZQa2c4MFNxVkY5MXk5bWs2UDRGY2N1N05RRkVPZWQ0cGM1OUNydDZRZzhtb2NuS0YxY1NydE9sQmdDRjdaN1RJSG9PRThIY0E3QXl5VUtZekk3NUNnNnlaSkZGZDdmTlNYdldPQkswYW14eEQ3VWNtYmZv?oc=5",
+      "published": "2025-10-06T07:00:00+00:00",
+      "source": {
+        "name": "Janusinfo.se",
+        "url": "https://janusinfo.se"
       }
     },
     {
@@ -684,16 +694,6 @@
       }
     },
     {
-      "id": "c2918027bbe6",
-      "title": "Nytt läkemedel mot kolesterol godkänt – kan ersätta sprutor - News55",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONnZqYS1IbTlqR00xSWZSZjNlVGRhWW1mT3ktZVdMakRPMnQ5dmFkS2hZaHc5dW1vU1oweDBkbmxaTFRKeUFmMnpmSFFJSFV2VzVQdmp2WFhkUkpTZlNLTzdKSk9pbDFTRS1hUHV2Y3pvVWZOOFVacmlHbjY3ZXp0WXVrTXI0TkxQWTZpSU9OZw?oc=5",
-      "published": "2026-07-29T07:00:00+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "661e5e895a59",
       "title": "PFAS lämnar kroppen snabbare med vissa läkemedel - Göteborgs universitet",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdzQtVGltZzNOaHRzakxGcktvdDJvdEpFTUVHTFVYbU9VUko4dnprampfVnQ3azhiZHcydmNwV29xd2pPSUNJM0NzUFFBRHFQUzVTUXFHZjFIYWhfbVFSUFJJaW5DckRrdjlVLTU0Qy1XRGZkSnhsS3FnMl95VWc?oc=5",
@@ -701,6 +701,16 @@
       "source": {
         "name": "Göteborgs universitet",
         "url": "https://www.gu.se"
+      }
+    },
+    {
+      "id": "c2918027bbe6",
+      "title": "Nytt läkemedel mot kolesterol godkänt – kan ersätta sprutor - News55",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONnZqYS1IbTlqR00xSWZSZjNlVGRhWW1mT3ktZVdMakRPMnQ5dmFkS2hZaHc5dW1vU1oweDBkbmxaTFRKeUFmMnpmSFFJSFV2VzVQdmp2WFhkUkpTZlNLTzdKSk9pbDFTRS1hUHV2Y3pvVWZOOFVacmlHbjY3ZXp0WXVrTXI0TkxQWTZpSU9OZw?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -874,16 +884,6 @@
       }
     },
     {
-      "id": "e9c72164d9b3",
-      "title": "Ny studie undersöker hur vanliga läkemedel mot halsbränna påverkar njurar och hjärta över tid - Karolinska Institutet",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVlqQXpWQVlkdHUteTVjR2FWUFdCbFBlQXMxblVtQmVQMTlGQmpQcHQzZ1hDMm9ZTWxoUExhNlpPVlRPZmhwd0pUUzFqVGEyUU1pMGpjNjV6UElZM3NDamhNdUNSUXloMU94aWVXOUkzUlM3am5VMVgybjUwcXVSVmxMaDRZckJsaVVYRlRRel9LU1RZR3lQMGxucUNITmlpSFdBWG5xeUVOTmh4ZEtQZXFvWk5UUQ?oc=5",
-      "published": "2025-10-20T07:00:00+00:00",
-      "source": {
-        "name": "Karolinska Institutet",
-        "url": "https://nyheter.ki.se"
-      }
-    },
-    {
       "id": "41639b9721c7",
       "title": "Fakta i frågan: Mår unga allt sämre? - Dagens Nyheter",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DZjkwQ0k4dXBXdlRDc1hKX2F0ZlpscFdDOHY1TGFUQ1VDN1NBVnB2X3VVek9KZXFoQWw4clNkTjk0Vm5yNUU4c1VWdTVCajY3MnloZlB0ckM4ZmtROEZ5MHYwY0syLU1Geld0SWlB?oc=5",
@@ -891,6 +891,16 @@
       "source": {
         "name": "Dagens Nyheter",
         "url": "https://www.dn.se"
+      }
+    },
+    {
+      "id": "e9c72164d9b3",
+      "title": "Ny studie undersöker hur vanliga läkemedel mot halsbränna påverkar njurar och hjärta över tid - Karolinska Institutet",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVlqQXpWQVlkdHUteTVjR2FWUFdCbFBlQXMxblVtQmVQMTlGQmpQcHQzZ1hDMm9ZTWxoUExhNlpPVlRPZmhwd0pUUzFqVGEyUU1pMGpjNjV6UElZM3NDamhNdUNSUXloMU94aWVXOUkzUlM3am5VMVgybjUwcXVSVmxMaDRZckJsaVVYRlRRel9LU1RZR3lQMGxucUNITmlpSFdBWG5xeUVOTmh4ZEtQZXFvWk5UUQ?oc=5",
+      "published": "2025-10-20T07:00:00+00:00",
+      "source": {
+        "name": "Karolinska Institutet",
+        "url": "https://nyheter.ki.se"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "NewsMachine AB",
         "url": "https://press.newsmachine.com"
-      }
-    },
-    {
-      "id": "657b96e2035f",
-      "title": "TLV: För många mål riskerar att sänka vårdens produktivitet - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWTFmWVNyT2pITDVTMFVMcjlmYnNIbUpGQkpNWXBjckJ5TV93QkU2MmFQRkFYRGdTU280bk13eEtIV3NSQmVQeUExcFZvMnZOcmRzMWlwdEd0VEFzWl9qR2ZtbV9FSGRJc0JPVXM4ZzBLZ0ZhX1BCLUtvR0VuSkx2MUI1clpkblQwYmJtZmRxcFFqZUZSck0tX0tKOFcyYWluUEZNZXJLOC1Mbmh3N1RMTE1tRQ?oc=5",
-      "published": "2026-02-06T08:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
       }
     }
   ]
