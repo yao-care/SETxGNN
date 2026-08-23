@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T14:18:00.138332+00:00",
+  "fetched_at": "2026-08-23T15:16:39.237646+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,16 +24,6 @@
       }
     },
     {
-      "id": "a29a5eaba912",
-      "title": "Fler mediciner kan bli receptfria – så påverkas din plånbok - e55.se",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3FLaEk3aGxEVnBjQWRQeHVmNDN6d2lZTDY3MERPWTJ6d19CTlFZeW5mSWZjUWlpTXUyVmRUYk1iaThhTjR4N2w0TlR3aWNQTmZVc2pVY2RCV3huTE5EQWZ5NU9OckJRVnBLQ0pVNk1Sd29meHBVQ3B3YXpBZDZjODRpbjVXc0xkUV9V?oc=5",
-      "published": "2026-08-19T14:18:07+00:00",
-      "source": {
-        "name": "e55.se",
-        "url": "https://www.e55.se"
-      }
-    },
-    {
       "id": "16a9379191d6",
       "title": "TLV: Nya läkemedel driver ökade kostnader - Altinget.se",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV2xZdE5Fakdudlk0V3hrMm5SSV9aVWFEOC1jR2JuZEFESVltaEJSN05DNm53UDJ5dUdsa3B6Z1FpY0hpbVlPU3AxOXZra1RHMVZyWmJvVXZOdWY1ZHFCU2hudE1GYW9TLTVieGMzN2FmbFc4RVotaW5GSU51V1N6Y1Z4bw?oc=5",
@@ -44,13 +34,13 @@
       }
     },
     {
-      "id": "50b19015f4b1",
-      "title": "Docent Nguyen Lan Hieu varnar för misstagen med \"hjärntillskott\". - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1R2x0U3J3Z0pmNmVYTC0zdndPQVdXNXV6SXpja2ZieDFZc0d6cFB0R3lFLXBYRnltcUZqdWhJNkRITFk3Rks5dFpXNndmMUZsa2t2enlSVzdNejVWUm40MXEtVkJ3ZHZQVXhhYWxwcVltdGx2N3dhRWVDZGlPQQ?oc=5",
-      "published": "2026-08-23T05:22:58+00:00",
+      "id": "a29a5eaba912",
+      "title": "Fler mediciner kan bli receptfria – så påverkas din plånbok - e55.se",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3FLaEk3aGxEVnBjQWRQeHVmNDN6d2lZTDY3MERPWTJ6d19CTlFZeW5mSWZjUWlpTXUyVmRUYk1iaThhTjR4N2w0TlR3aWNQTmZVc2pVY2RCV3huTE5EQWZ5NU9OckJRVnBLQ0pVNk1Sd29meHBVQ3B3YXpBZDZjODRpbjVXc0xkUV9V?oc=5",
+      "published": "2026-08-19T14:18:07+00:00",
       "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "e55.se",
+        "url": "https://www.e55.se"
       }
     },
     {
@@ -81,6 +71,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "50b19015f4b1",
+      "title": "Docent Nguyen Lan Hieu varnar för misstagen med \"hjärntillskott\". - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1R2x0U3J3Z0pmNmVYTC0zdndPQVdXNXV6SXpja2ZieDFZc0d6cFB0R3lFLXBYRnltcUZqdWhJNkRITFk3Rks5dFpXNndmMUZsa2t2enlSVzdNejVWUm40MXEtVkJ3ZHZQVXhhYWxwcVltdGx2N3dhRWVDZGlPQQ?oc=5",
+      "published": "2026-08-23T05:22:58+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -124,6 +124,16 @@
       }
     },
     {
+      "id": "74f6f2c1decb",
+      "title": "Valproat – ingen fastställd länk mellan pappans medicinering och barnets hälsa - LäkemedelsVärlden",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnhVMEV4S3JTdHBvYnkzTjYzQVdBUlI3UFlBUEFlei1yV0tkSVFVQmRvVkF0WHNnczFZbkpEb1lleWxPOUYzWVprUTRTYmRucTh3UmxlREIwemw1TnRJaXFWN3lHS1EtOVNJbU5PQmdfUGN6WDJ6TEFRaERNOXltQzZfWDN3bmx2RjlXT2VibEU3UURwUzB1QmRReUtwY1drQnYw?oc=5",
+      "published": "2026-06-22T07:00:00+00:00",
+      "source": {
+        "name": "LäkemedelsVärlden",
+        "url": "https://www.lakemedelsvarlden.se"
+      }
+    },
+    {
       "id": "241185ef7680",
       "title": "Säkert att sätta ut vanligt läkemedel mot myelom - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORlVjTUM3TWVKb2JhVEtzTjF5ZHdhSENwdTZPSGN1REtrTVJ6M0ppZmtmUGdPaTg3dHY5cDUtYWFselJJWDh1ZHVQQW5ZMGI0b0ZlbWVPZzh6UERSZXppdVJJSWtUT1hQM3R4N3lkVFlRN0p6ZnhZVUNLbjEySkNHaFcxZlVxVWticXBUcUozRVNpckRkd0xhamZJRmQ2cWFtVWZfa3NB?oc=5",
@@ -144,16 +154,6 @@
       }
     },
     {
-      "id": "27442118a98e",
-      "title": "Förfalskad traditionell medicin hotar patienters hälsa | Inrikesfrågor och samhälle - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdE1qYlNxTUdyc0cxUnBKQ1ZtZDdCaWJ5aXV2dWE1TGczd1FxSFhUUE40VlFtMXMyMExHWmx1N1Y4VjlpV3BKWjV2T2k1Si05bVRYWTZ3RnVMdVR0STFMeEsyM0tQT1dZd2tlbHFzNTUwUW1scmtZQkh3YXVfQmlfcVQydGxfX1U2WVlzUDMzQQ?oc=5",
-      "published": "2026-08-17T18:22:01+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "7cbf81602500",
       "title": "Diabetesläkemedel kopplas till bättre psykisk hälsa - Forskning.se",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS0o5V1l6a25kaEt6bHZ5cEQ2SkU4emxLYU5wS0FQQ3FYbW1JSmowcjJBT2lVTmRmNkdZQ3c4OUFjc2tEb2piVUpjcXdPM29GV25Fell2OFg5VmxNbjdhU1BxSmhsbzEtUy1oaUpsYkx3TVZtMmx1YW00M29qd21PNnBYZUdHMG5SRXBtS05GckE3UQ?oc=5",
@@ -164,13 +164,13 @@
       }
     },
     {
-      "id": "413ade836ab1",
-      "title": "(+) Ny studie: Då kan vanliga hjärtmedicinen vara onödig - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQlQ1MXB5VkhwcF9XSnEwVXZab21kYUptV0pHOUNfVDJmWGZTcGo1ZUpWTEh3aHc0VDJBU3g1clE2WTAxVG93ZFB3SGpFaVhRcm9SZ2lIYkdSN3JNaGxlS3YtZE1SVnQwcV95ZnRJU3o5QXFKVkZxMTczV1JmTlpkbl9SeG9VTHFJYThJOG1oU21hMnBENDlpUg?oc=5",
-      "published": "2026-08-20T10:21:15+00:00",
+      "id": "27442118a98e",
+      "title": "Förfalskad traditionell medicin hotar patienters hälsa | Inrikesfrågor och samhälle - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdE1qYlNxTUdyc0cxUnBKQ1ZtZDdCaWJ5aXV2dWE1TGczd1FxSFhUUE40VlFtMXMyMExHWmx1N1Y4VjlpV3BKWjV2T2k1Si05bVRYWTZ3RnVMdVR0STFMeEsyM0tQT1dZd2tlbHFzNTUwUW1scmtZQkh3YXVfQmlfcVQydGxfX1U2WVlzUDMzQQ?oc=5",
+      "published": "2026-08-17T18:22:01+00:00",
       "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -201,16 +201,6 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "74f6f2c1decb",
-      "title": "Valproat – ingen fastställd länk mellan pappans medicinering och barnets hälsa - LäkemedelsVärlden",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnhVMEV4S3JTdHBvYnkzTjYzQVdBUlI3UFlBUEFlei1yV0tkSVFVQmRvVkF0WHNnczFZbkpEb1lleWxPOUYzWVprUTRTYmRucTh3UmxlREIwemw1TnRJaXFWN3lHS1EtOVNJbU5PQmdfUGN6WDJ6TEFRaERNOXltQzZfWDN3bmx2RjlXT2VibEU3UURwUzB1QmRReUtwY1drQnYw?oc=5",
-      "published": "2026-06-22T07:00:00+00:00",
-      "source": {
-        "name": "LäkemedelsVärlden",
-        "url": "https://www.lakemedelsvarlden.se"
       }
     },
     {
@@ -614,16 +604,6 @@
       }
     },
     {
-      "id": "a1d751cdd1fc",
-      "title": "16-åring hamnade på akuten då ingen följde upp hans adhd-medicinering - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9KQk8zSXAtQk1RdEhTUnlEVHJkSUxqTGUyOEhIMUxZVjRnMG16S3l2ZFBKRFZHRmJNSjFFZC1LSFY?oc=5",
-      "published": "2026-08-17T02:30:14+00:00",
-      "source": {
-        "name": "Yle",
-        "url": "https://yle.fi"
-      }
-    },
-    {
       "id": "661e5e895a59",
       "title": "PFAS lämnar kroppen snabbare med vissa läkemedel - Göteborgs universitet",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdzQtVGltZzNOaHRzakxGcktvdDJvdEpFTUVHTFVYbU9VUko4dnprampfVnQ3azhiZHcydmNwV29xd2pPSUNJM0NzUFFBRHFQUzVTUXFHZjFIYWhfbVFSUFJJaW5DckRrdjlVLTU0Qy1XRGZkSnhsS3FnMl95VWc?oc=5",
@@ -641,6 +621,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "a1d751cdd1fc",
+      "title": "16-åring hamnade på akuten då ingen följde upp hans adhd-medicinering - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9KQk8zSXAtQk1RdEhTUnlEVHJkSUxqTGUyOEhIMUxZVjRnMG16S3l2ZFBKRFZHRmJNSjFFZC1LSFY?oc=5",
+      "published": "2026-08-17T02:30:14+00:00",
+      "source": {
+        "name": "Yle",
+        "url": "https://yle.fi"
       }
     },
     {
@@ -684,16 +674,6 @@
       }
     },
     {
-      "id": "5e392d5f87c7",
-      "title": "Blodtrycksmedicinen som flest fortsätter ta – ny studie - News55",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM2UxNjJDN2YwblQ0RTdFR2hNSWlVSVNTTXJtMHV5eS1MaHgyWWZrMUpweU5rSXA1MWM2WGhIVFdiR1c3Tk5MdndPanBnMnlhNkF0SmE5VkVleDNxWUtJZV8zMU9ja3Y5dXQ0WW1abDVsdmZZWUpKY2dLZ3I3WXRxRHowYlpzc3JPcVE?oc=5",
-      "published": "2026-08-14T13:10:54+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "ff0b7e849dbb",
       "title": "Vitalis 2026: E-hälsa och AI i fokus i Göteborg - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzFKaThhOFhERzJld2tEWVRtQ1NMcExRRmt1YzN0MDFJRnpIajdGTjlwODNVNmFMeUpxQjhOTkxSQ3ptYllReUhXaXdYY0lMeWtUUnlyeE5mWWVTTlFjWnFuTkxQbWRJa1VTMDJrTkJLdDBfTDhkTHdQeGN2Z2h6RWNpZy1iNjRuOTNZVC10VEh1NVV1Q3JR?oc=5",
@@ -701,6 +681,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "5e392d5f87c7",
+      "title": "Blodtrycksmedicinen som flest fortsätter ta – ny studie - News55",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM2UxNjJDN2YwblQ0RTdFR2hNSWlVSVNTTXJtMHV5eS1MaHgyWWZrMUpweU5rSXA1MWM2WGhIVFdiR1c3Tk5MdndPanBnMnlhNkF0SmE5VkVleDNxWUtJZV8zMU9ja3Y5dXQ0WW1abDVsdmZZWUpKY2dLZ3I3WXRxRHowYlpzc3JPcVE?oc=5",
+      "published": "2026-08-14T13:10:54+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "6a5e799f4eaa",
+      "title": "Lars Almroth om bytet från Västmanland till toppjobb på Socialstyrelsen - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS3BCR1lUWjRhaDFaVmx3ZWV1NmJBcEliQTltUkNzNEEzX1FReVFETzMzSkU5U1UwWENsckJlY19OYjU5WXFiaXc5SFZadHFxZDlCYmdxaDJ6WHBwZko4cTUxbjYzTGxnczZpY3JmclIxZldDTEVUVHdmTHBVaTVuZllCd1JtMzB4QTE0UEwwbXFka3UyQWtFUGQ5RUpNSFZIRG5vU21hUVN4aXVycGRTakdLcndST0JrMTUtQXF1aw?oc=5",
+      "published": "2026-03-20T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     }
   ]
