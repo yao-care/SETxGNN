@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T19:18:21.403938+00:00",
+  "fetched_at": "2026-08-23T20:16:09.114051+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -104,16 +104,6 @@
       }
     },
     {
-      "id": "f2b01733d36c",
-      "title": "Miljöpartiet: Underlätta kliniska prövningar och locka hit medicinska forskare - Life-time.se",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2pvWFl0YkpCcmM3V3ZYblRHQktkQ0tNV1FhLS1BMGR6a1JEODBoWVNsS29hQ0tOLUxiUEw1LUxSel9IYlpzeWRyYmxjOV9qSno4VEp1OExIa0ZlRkd1Y1lOdjFtT2psZ21BWWdCSHBUYWowbTBsRjR0ekhoc0w0ME56ZTd6NkdIVElZbkpmVk5Xc3NmTk9GT2NHelFGcDlzODBmeHZ2SEFSbDFBT043dDJuTjlRT1U?oc=5",
-      "published": "2026-08-19T08:06:50+00:00",
-      "source": {
-        "name": "Life-time.se",
-        "url": "https://www.life-time.se"
-      }
-    },
-    {
       "id": "7cbf81602500",
       "title": "Diabetesläkemedel kopplas till bättre psykisk hälsa - Forskning.se",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS0o5V1l6a25kaEt6bHZ5cEQ2SkU4emxLYU5wS0FQQ3FYbW1JSmowcjJBT2lVTmRmNkdZQ3c4OUFjc2tEb2piVUpjcXdPM29GV25Fell2OFg5VmxNbjdhU1BxSmhsbzEtUy1oaUpsYkx3TVZtMmx1YW00M29qd21PNnBYZUdHMG5SRXBtS05GckE3UQ?oc=5",
@@ -121,6 +111,16 @@
       "source": {
         "name": "Forskning.se",
         "url": "https://forskning.se"
+      }
+    },
+    {
+      "id": "f2b01733d36c",
+      "title": "Miljöpartiet: Underlätta kliniska prövningar och locka hit medicinska forskare - Life-time.se",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2pvWFl0YkpCcmM3V3ZYblRHQktkQ0tNV1FhLS1BMGR6a1JEODBoWVNsS29hQ0tOLUxiUEw1LUxSel9IYlpzeWRyYmxjOV9qSno4VEp1OExIa0ZlRkd1Y1lOdjFtT2psZ21BWWdCSHBUYWowbTBsRjR0ekhoc0w0ME56ZTd6NkdIVElZbkpmVk5Xc3NmTk9GT2NHelFGcDlzODBmeHZ2SEFSbDFBT043dDJuTjlRT1U?oc=5",
+      "published": "2026-08-19T08:06:50+00:00",
+      "source": {
+        "name": "Life-time.se",
+        "url": "https://www.life-time.se"
       }
     },
     {
@@ -141,6 +141,16 @@
       "source": {
         "name": "Region Blekinge",
         "url": "https://regionblekinge.se"
+      }
+    },
+    {
+      "id": "db339a2ca2d2",
+      "title": "Vården i förändring: Långsiktig behandling av obesitas och utmaningarna kring GLP-1-läkemedel - Dalabygden",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORjE0NEhyQV9qeGpGQjg3R3Q2MmZSaFZrODZoczFkUHlnUllHZ3liTFZEaDV3RzJGSFhkNU5iWDZJNFZsaDBMYnBmRThrZ1ZSSmJVYjlLOHZZNEU2UUNyMkRHVFgwUXVnMmQ2b1B4QUVMVFpxUzNCMnJJYjJlTmpMajI2RF91STRCLUVjSEo0SWw1R3Nock5NSHNZZ3RfVGRFWl9SVVBvZGJiTVBqUFBweXFId0pVQm9WZXBqZXN6azVkSHM?oc=5",
+      "published": "2026-08-20T13:20:24+00:00",
+      "source": {
+        "name": "Dalabygden",
+        "url": "https://dalabygden.se"
       }
     },
     {
@@ -174,6 +184,16 @@
       }
     },
     {
+      "id": "bb813942a15b",
+      "title": "”Låt oss inte halka efter i forskning om kvinnors hälsa” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhrYWhGNzNiU3NTNWpIUGxhcGVONEExU29xejBuUGJ1TlJIemNId0lOUHA1ZmN1SlNCWk5KT2l0Zl9QXzdFdGxMeGRPbldBb29uY2Y5S1ZyNEo5ampRQW5YVE5aUmtBcDAtc2VOczk3SDZIQ3l1cjlnaEtLU2tYNThEdnVNWXNvN3p5aTJ0TmUzdVo2RzFES1lFYVMzUUNh?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "6c236bd81edc",
       "title": "Ny vändning: Antibiotikaförskrivningen i Stockholm åter under målet - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNjNxQjRmeXR3dFlGYlBoNkJ1OHdZQ2FoSmFsNGtVaFU2VzF1SnVSLUIyR21UN3BDNmlmZUY0SlpDdml4Sy1NVWpZdkNXTGs4UE5ocHRrelU1M2VPVXhVVTBiLVpPM282MWFKSDY2cVdVcG13LXExOE1rTUs3djhOeFN4UjBsb25ZTER4T1RjbkxlLXdidmtpX0RYbEZ3M2tBbVh0UGI2TnJrSUNfRmdnMkN6bVFYWHprYVhj?oc=5",
@@ -191,26 +211,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "bb813942a15b",
-      "title": "”Låt oss inte halka efter i forskning om kvinnors hälsa” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhrYWhGNzNiU3NTNWpIUGxhcGVONEExU29xejBuUGJ1TlJIemNId0lOUHA1ZmN1SlNCWk5KT2l0Zl9QXzdFdGxMeGRPbldBb29uY2Y5S1ZyNEo5ampRQW5YVE5aUmtBcDAtc2VOczk3SDZIQ3l1cjlnaEtLU2tYNThEdnVNWXNvN3p5aTJ0TmUzdVo2RzFES1lFYVMzUUNh?oc=5",
-      "published": "2026-07-02T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "db339a2ca2d2",
-      "title": "Vården i förändring: Långsiktig behandling av obesitas och utmaningarna kring GLP-1-läkemedel - Dalabygden",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORjE0NEhyQV9qeGpGQjg3R3Q2MmZSaFZrODZoczFkUHlnUllHZ3liTFZEaDV3RzJGSFhkNU5iWDZJNFZsaDBMYnBmRThrZ1ZSSmJVYjlLOHZZNEU2UUNyMkRHVFgwUXVnMmQ2b1B4QUVMVFpxUzNCMnJJYjJlTmpMajI2RF91STRCLUVjSEo0SWw1R3Nock5NSHNZZ3RfVGRFWl9SVVBvZGJiTVBqUFBweXFId0pVQm9WZXBqZXN6azVkSHM?oc=5",
-      "published": "2026-08-20T13:20:24+00:00",
-      "source": {
-        "name": "Dalabygden",
-        "url": "https://dalabygden.se"
       }
     },
     {
@@ -534,6 +534,16 @@
       }
     },
     {
+      "id": "9d0d172e9682",
+      "title": "Vanlig medicin kan öka risken för hjärtsjukdom - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFVGWEdzcnBlX1hlUmtNcTRKME9xM0ZKNUJsdS14UEMxTS1VSkJHLS1nTEtTb1g1MXBhMHc0MFVzMWl1M0hONTBkLXNHdXhQZFpBNjNWSE9jMXVQVWFHbzVMRkNQYV9jbF9MOUZWRm9lOU4tQmQ3OEhkaEQ4UmpNWUxPdmZHMXN4S0J3Y1Q4d3ZaQQ?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
       "id": "a957bc2f5361",
       "title": "Befintligt läkemedel kan hjälpa immunförsvaret hos personer med hiv - Forskning.se",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTS1nblQydTI5OXB0ajM5YzhEVk1JSDh2eXBwRFJWNHVweW1nUF9pNHV3dFlnRWp2b3Z1S0tLOHh2VmVDQTF0eWZmajNnaUFINTNfUG9UV2xQVDYxRGZxYWFxZ1NrVGV4bmlsc21OS0Z4ZXI4SDY1dGhLUlFmR3RlWW1kelB1Uk5FZlFJ?oc=5",
@@ -554,13 +564,13 @@
       }
     },
     {
-      "id": "9d0d172e9682",
-      "title": "Vanlig medicin kan öka risken för hjärtsjukdom - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFVGWEdzcnBlX1hlUmtNcTRKME9xM0ZKNUJsdS14UEMxTS1VSkJHLS1nTEtTb1g1MXBhMHc0MFVzMWl1M0hONTBkLXNHdXhQZFpBNjNWSE9jMXVQVWFHbzVMRkNQYV9jbF9MOUZWRm9lOU4tQmQ3OEhkaEQ4UmpNWUxPdmZHMXN4S0J3Y1Q4d3ZaQQ?oc=5",
-      "published": "2026-06-30T07:00:00+00:00",
+      "id": "1beb550a6b48",
+      "title": "Sol och läkemedel en underskattad riskkombination - Corren",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX2tfZl8tQzhwV0pOVUIxWTFWYXdrMmVIdUZXcmtXRy1UNnU0M2htX3BTNnVwUGNWS18xSXB2ZkxYTW9ndFpPTUl2VHl6ejdrUjYzRDRURGRxU0pfdWk3RzJaWmg0V0pSN3p0NDhKQlZXRGtuZ1ZhdmloZkJNWnZieHI5M1VjOGZYa2x1ZS1DdFgwM3NIY051elFQdGlweFZSWWlXaEhsdHo4ZmdQLWM4?oc=5",
+      "published": "2026-05-23T07:00:00+00:00",
       "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
+        "name": "Corren",
+        "url": "https://www.corren.se"
       }
     },
     {
@@ -571,16 +581,6 @@
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "1beb550a6b48",
-      "title": "Sol och läkemedel en underskattad riskkombination - Corren",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX2tfZl8tQzhwV0pOVUIxWTFWYXdrMmVIdUZXcmtXRy1UNnU0M2htX3BTNnVwUGNWS18xSXB2ZkxYTW9ndFpPTUl2VHl6ejdrUjYzRDRURGRxU0pfdWk3RzJaWmg0V0pSN3p0NDhKQlZXRGtuZ1ZhdmloZkJNWnZieHI5M1VjOGZYa2x1ZS1DdFgwM3NIY051elFQdGlweFZSWWlXaEhsdHo4ZmdQLWM4?oc=5",
-      "published": "2026-05-23T07:00:00+00:00",
-      "source": {
-        "name": "Corren",
-        "url": "https://www.corren.se"
       }
     },
     {
@@ -614,16 +614,6 @@
       }
     },
     {
-      "id": "c2918027bbe6",
-      "title": "Nytt läkemedel mot kolesterol godkänt – kan ersätta sprutor - News55",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONnZqYS1IbTlqR00xSWZSZjNlVGRhWW1mT3ktZVdMakRPMnQ5dmFkS2hZaHc5dW1vU1oweDBkbmxaTFRKeUFmMnpmSFFJSFV2VzVQdmp2WFhkUkpTZlNLTzdKSk9pbDFTRS1hUHV2Y3pvVWZOOFVacmlHbjY3ZXp0WXVrTXI0TkxQWTZpSU9OZw?oc=5",
-      "published": "2026-07-29T07:00:00+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "749f11e3f6b8",
       "title": "Protest mot brist på östrogen: ”Kvinnor har rätt att må bra” - Helagotland",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1JKNUhiUVVOTFoxUDlnckxvZUFKWHo2NzJldVVfVGFLcFlnall1Yjl4X0U2OWhrODctNW05WWZWSDdLaVhWWFgzWDdDcF81SVFIUzB4WEMxRHhMTkJyLUdQM3BUZ0theFRCb1I1dEJlVEpHVVNaRXhDLURWX2RLek56UVRjMlRkZHY0cW9ON1lZVUV5NWhDT195RXlURHQxRkNZYjZn?oc=5",
@@ -634,6 +624,16 @@
       }
     },
     {
+      "id": "c2918027bbe6",
+      "title": "Nytt läkemedel mot kolesterol godkänt – kan ersätta sprutor - News55",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONnZqYS1IbTlqR00xSWZSZjNlVGRhWW1mT3ktZVdMakRPMnQ5dmFkS2hZaHc5dW1vU1oweDBkbmxaTFRKeUFmMnpmSFFJSFV2VzVQdmp2WFhkUkpTZlNLTzdKSk9pbDFTRS1hUHV2Y3pvVWZOOFVacmlHbjY3ZXp0WXVrTXI0TkxQWTZpSU9OZw?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
+      }
+    },
+    {
       "id": "b5b02c7cdc5e",
       "title": "10 expertsvar om ebola och WHO:s varning - Forskning & Framsteg",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45N0hEVHY1V3FUbFY4clh3bTZ0RnhybFZhRGxXcVdGTkRhUVdpVW1aTVhLRFl5SGpJMlk3RUw1S0R5c0xlLXIxNkp4cm0wTDBOXzg5U0dGTy1EV2h3ZFgySWRaZTVGSVJxNU1MUk9vdkMxUQ?oc=5",
@@ -641,16 +641,6 @@
       "source": {
         "name": "Forskning & Framsteg",
         "url": "https://fof.se"
-      }
-    },
-    {
-      "id": "a1d751cdd1fc",
-      "title": "16-åring hamnade på akuten då ingen följde upp hans adhd-medicinering - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9KQk8zSXAtQk1RdEhTUnlEVHJkSUxqTGUyOEhIMUxZVjRnMG16S3l2ZFBKRFZHRmJNSjFFZC1LSFY?oc=5",
-      "published": "2026-08-17T02:30:14+00:00",
-      "source": {
-        "name": "Yle",
-        "url": "https://yle.fi"
       }
     },
     {
@@ -711,6 +701,16 @@
       "source": {
         "name": "e55.se",
         "url": "https://www.e55.se"
+      }
+    },
+    {
+      "id": "a1d751cdd1fc",
+      "title": "16-åring hamnade på akuten då ingen följde upp hans adhd-medicinering - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9KQk8zSXAtQk1RdEhTUnlEVHJkSUxqTGUyOEhIMUxZVjRnMG16S3l2ZFBKRFZHRmJNSjFFZC1LSFY?oc=5",
+      "published": "2026-08-17T02:30:14+00:00",
+      "source": {
+        "name": "Yle",
+        "url": "https://yle.fi"
       }
     },
     {
