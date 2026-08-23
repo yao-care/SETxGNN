@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T21:16:23.986175+00:00",
+  "fetched_at": "2026-08-23T22:15:56.650072+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -174,10 +174,30 @@
       }
     },
     {
+      "id": "47439663238e",
+      "title": "Vårdcentral får bakläxa för felaktig anställning - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd1R0OG1wWm1uVlNwb1dnak1HVHh5VThPRXF2Z094LURwR0szaXFINlBWR3F3UTJiZ2hXaHBXclhKVU00QXFWWTN0SlhYNDVzdG9WelVIeF81anNIZmxaVXZXOG9SeFBWUHdaVVVxazZJZV9ZMkx5YUtaa2VNb3RMUzdvWFZNWnBHYUo3RmNpSXJ2NlViWHN1WGZvdW9fRXZXbXpMYUhB?oc=5",
+      "published": "2026-08-21T00:24:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "bb813942a15b",
       "title": "”Låt oss inte halka efter i forskning om kvinnors hälsa” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhrYWhGNzNiU3NTNWpIUGxhcGVONEExU29xejBuUGJ1TlJIemNId0lOUHA1ZmN1SlNCWk5KT2l0Zl9QXzdFdGxMeGRPbldBb29uY2Y5S1ZyNEo5ampRQW5YVE5aUmtBcDAtc2VOczk3SDZIQ3l1cjlnaEtLU2tYNThEdnVNWXNvN3p5aTJ0TmUzdVo2RzFES1lFYVMzUUNh?oc=5",
       "published": "2026-07-02T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "6c236bd81edc",
+      "title": "Ny vändning: Antibiotikaförskrivningen i Stockholm åter under målet - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNjNxQjRmeXR3dFlGYlBoNkJ1OHdZQ2FoSmFsNGtVaFU2VzF1SnVSLUIyR21UN3BDNmlmZUY0SlpDdml4Sy1NVWpZdkNXTGs4UE5ocHRrelU1M2VPVXhVVTBiLVpPM282MWFKSDY2cVdVcG13LXExOE1rTUs3djhOeFN4UjBsb25ZTER4T1RjbkxlLXdidmtpX0RYbEZ3M2tBbVh0UGI2TnJrSUNfRmdnMkN6bVFYWHprYVhj?oc=5",
+      "published": "2026-08-21T03:30:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -191,16 +211,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "6c236bd81edc",
-      "title": "Ny vändning: Antibiotikaförskrivningen i Stockholm åter under målet - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNjNxQjRmeXR3dFlGYlBoNkJ1OHdZQ2FoSmFsNGtVaFU2VzF1SnVSLUIyR21UN3BDNmlmZUY0SlpDdml4Sy1NVWpZdkNXTGs4UE5ocHRrelU1M2VPVXhVVTBiLVpPM282MWFKSDY2cVdVcG13LXExOE1rTUs3djhOeFN4UjBsb25ZTER4T1RjbkxlLXdidmtpX0RYbEZ3M2tBbVh0UGI2TnJrSUNfRmdnMkN6bVFYWHprYVhj?oc=5",
-      "published": "2026-08-21T03:30:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -684,16 +694,6 @@
       }
     },
     {
-      "id": "a1d751cdd1fc",
-      "title": "16-åring hamnade på akuten då ingen följde upp hans adhd-medicinering - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9KQk8zSXAtQk1RdEhTUnlEVHJkSUxqTGUyOEhIMUxZVjRnMG16S3l2ZFBKRFZHRmJNSjFFZC1LSFY?oc=5",
-      "published": "2026-08-17T02:30:14+00:00",
-      "source": {
-        "name": "Yle",
-        "url": "https://yle.fi"
-      }
-    },
-    {
       "id": "83c20e8b10c1",
       "title": "Så kan tillskott påverka effekten av din medicin - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWlgydGduSzBfWGM5ZUtRUE9laFhnQ2hOQWZfWHB6VlpxTmE0WTlIbEtpRGp3RHRJNE1MMEtOM1dWUW16RVppVHVjQzJtOTd2Tng5UGc2QnpCcFUxdzhDdTJaejBWWG0zN2p4VEpaSFBFT0ZWTzJHMmg4Y1oyeHE5REVNbkRlajd1alk3THY5ZTJpRnZINVhV?oc=5",
@@ -771,6 +771,16 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "a1d751cdd1fc",
+      "title": "16-åring hamnade på akuten då ingen följde upp hans adhd-medicinering - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9KQk8zSXAtQk1RdEhTUnlEVHJkSUxqTGUyOEhIMUxZVjRnMG16S3l2ZFBKRFZHRmJNSjFFZC1LSFY?oc=5",
+      "published": "2026-08-17T02:30:14+00:00",
+      "source": {
+        "name": "Yle",
+        "url": "https://yle.fi"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "c7da56cdfb17",
-      "title": "Läkemedelsverkets varning: Unga äter allt mer medicin - Sveriges Radio",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORTMxVFlYMnRZVnB3bl9OcEFGX1pDOXpuM2Q1MFRvMVZxbGU4VTIzdmtmRXBhU0U5ZVBqc1B5N0s4c0t1aVJRRm5rVUF4Y3g0MzN5SllRSzY1djlWR3pwbDFySFBMeUZKWUV4cVR4Zm9wZUNUYl9KWkMwUlEtdjBibDRQSWZCYWFNelRDVWk5bkE4ZlE?oc=5",
-      "published": "2025-11-16T08:00:00+00:00",
-      "source": {
-        "name": "Sveriges Radio",
-        "url": "https://www.sverigesradio.se"
       }
     }
   ]
