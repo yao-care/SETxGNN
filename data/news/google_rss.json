@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T09:41:08.927851+00:00",
+  "fetched_at": "2026-08-24T10:32:17.688387+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -204,6 +204,16 @@
       }
     },
     {
+      "id": "e1b1baa4fe9b",
+      "title": "FHM: De borde vaccinera sig mot mässling för säkerhets skull - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1VhNUM1MXZPdWZ4MEU5enlpRDBYLVRYck9lbXFZd1Zuc0VweUVqQlJsVU9WUERWc1FFQ3VvcVFKcEJuMUtkOWRqRUV5OS1qSmYxemlGdHZBTk9tNjhVaHhsRmFYMmVXaVE2ZXVQTUprUERXRG5YOTBNV2pTSFlvRnVvM3hidmdHdHdzZ2c4eEVsYjJRcWlPTUF4TTdnWDRxNUdQMkx4ZVVpSFpoVVFMRFRwbEdqX0xF?oc=5",
+      "published": "2026-08-20T05:29:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "dc8f01c60661",
       "title": "Läkaren: Så kan risken för stroke minskas – vid blodförtunnande - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2VPZDE2bXRyME41VHAzQUd5RGN1NXRvRklXQWxZdGtiQmtHRFFTX09ydENvRmNXZG5zTzFLXzNOaVF2Mi1oUFZybHc1d2NxWURCeXRoek1QMHdPR01VYkxSSTZnZ0tGU1hXS3Q0S21meWVNbmlxU0F2a0YtUjlTTVdqTGVzZE1qUkVVaFVwWFNLQUF0YU9LdWNzX0UzYVBFSzdKTQ?oc=5",
@@ -244,13 +254,13 @@
       }
     },
     {
-      "id": "47439663238e",
-      "title": "Vårdcentral får bakläxa för felaktig anställning - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd1R0OG1wWm1uVlNwb1dnak1HVHh5VThPRXF2Z094LURwR0szaXFINlBWR3F3UTJiZ2hXaHBXclhKVU00QXFWWTN0SlhYNDVzdG9WelVIeF81anNIZmxaVXZXOG9SeFBWUHdaVVVxazZJZV9ZMkx5YUtaa2VNb3RMUzdvWFZNWnBHYUo3RmNpSXJ2NlViWHN1WGZvdW9fRXZXbXpMYUhB?oc=5",
-      "published": "2026-08-21T00:24:00+00:00",
+      "id": "685fae0d99d8",
+      "title": "”Hälsolitteracitet handlar lika mycket om vår egen förmåga att göra oss begripliga för patienterna.” - Janusinfo.se",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQVXV1VXRUZ1N0cWJIVmdnNHNBb3hpdUQ2dm9YaUkwbkFPS0wtZ1E2YVZjUHh0UFBaWXc3ejlfRkNFTUgtOFJqWHFjc1ZTaXpUZy1tM2pjT2t4S3hZUEthcmlWRzdQS1M2cmFpenZEaFZyRGZ6MTVJeDdVMjVXalNJdUxxam1DR2VYZF9oNVprVVdSZEM5ZjdJYkJWYjZ0M3ZJcXpfU18tdVE3NlR1LXNoazdnVXlvNlBRbUt1TXRIRFpHaG54cG1vSlpwMmpWeWNZaW02eHNiWlU1RFZRV3k1WmtBTjdzWVh3NG5lU1JaSHI2X2c5Wk50M3k0VTlQNjVvR3F0TlNycHhsTmRyQ3J5N0tMNDJ4VWp2?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "Janusinfo.se",
+        "url": "https://janusinfo.se"
       }
     },
     {
@@ -264,16 +274,6 @@
       }
     },
     {
-      "id": "685fae0d99d8",
-      "title": "”Hälsolitteracitet handlar lika mycket om vår egen förmåga att göra oss begripliga för patienterna.” - Janusinfo.se",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQVXV1VXRUZ1N0cWJIVmdnNHNBb3hpdUQ2dm9YaUkwbkFPS0wtZ1E2YVZjUHh0UFBaWXc3ejlfRkNFTUgtOFJqWHFjc1ZTaXpUZy1tM2pjT2t4S3hZUEthcmlWRzdQS1M2cmFpenZEaFZyRGZ6MTVJeDdVMjVXalNJdUxxam1DR2VYZF9oNVprVVdSZEM5ZjdJYkJWYjZ0M3ZJcXpfU18tdVE3NlR1LXNoazdnVXlvNlBRbUt1TXRIRFpHaG54cG1vSlpwMmpWeWNZaW02eHNiWlU1RFZRV3k1WmtBTjdzWVh3NG5lU1JaSHI2X2c5Wk50M3k0VTlQNjVvR3F0TlNycHhsTmRyQ3J5N0tMNDJ4VWp2?oc=5",
-      "published": "2026-07-02T07:00:00+00:00",
-      "source": {
-        "name": "Janusinfo.se",
-        "url": "https://janusinfo.se"
-      }
-    },
-    {
       "id": "ad6a4d9192d0",
       "title": "Misstänkt sexualbrottsling på Ryhov anmäld till Ivo - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2lnTzFjWTEwRHYyUlV5cTY5MkphZy13bkFsclpXMDZPeDNPR0Y2X3dfazN0R2YyMWI0YjdET1B6aGlZeEhSZFpxYVAxWVNEMkctQXhsUV9TT29oOE5RdXk4WFlpOEZMVXp6TVM3UUtwTlVkbDhoZWEzNVotRVdsY1Y5dzRuelZvWkgxTGI0RUlBUmI3MGZVb0pfa25keURHekt1bkdWLVpDZw?oc=5",
@@ -281,16 +281,6 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "27442118a98e",
-      "title": "Förfalskad traditionell medicin hotar patienters hälsa | Inrikesfrågor och samhälle - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdE1qYlNxTUdyc0cxUnBKQ1ZtZDdCaWJ5aXV2dWE1TGczd1FxSFhUUE40VlFtMXMyMExHWmx1N1Y4VjlpV3BKWjV2T2k1Si05bVRYWTZ3RnVMdVR0STFMeEsyM0tQT1dZd2tlbHFzNTUwUW1scmtZQkh3YXVfQmlfcVQydGxfX1U2WVlzUDMzQQ?oc=5",
-      "published": "2026-08-17T18:22:01+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -321,6 +311,26 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "27442118a98e",
+      "title": "Förfalskad traditionell medicin hotar patienters hälsa | Inrikesfrågor och samhälle - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdE1qYlNxTUdyc0cxUnBKQ1ZtZDdCaWJ5aXV2dWE1TGczd1FxSFhUUE40VlFtMXMyMExHWmx1N1Y4VjlpV3BKWjV2T2k1Si05bVRYWTZ3RnVMdVR0STFMeEsyM0tQT1dZd2tlbHFzNTUwUW1scmtZQkh3YXVfQmlfcVQydGxfX1U2WVlzUDMzQQ?oc=5",
+      "published": "2026-08-17T18:22:01+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "47439663238e",
+      "title": "Vårdcentral får bakläxa för felaktig anställning - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd1R0OG1wWm1uVlNwb1dnak1HVHh5VThPRXF2Z094LURwR0szaXFINlBWR3F3UTJiZ2hXaHBXclhKVU00QXFWWTN0SlhYNDVzdG9WelVIeF81anNIZmxaVXZXOG9SeFBWUHdaVVVxazZJZV9ZMkx5YUtaa2VNb3RMUzdvWFZNWnBHYUo3RmNpSXJ2NlViWHN1WGZvdW9fRXZXbXpMYUhB?oc=5",
+      "published": "2026-08-21T00:24:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -484,16 +494,6 @@
       }
     },
     {
-      "id": "481358dae4be",
-      "title": "Max Herulf går från EHM till Tandem Health - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYW1Jd1YwQlhCM3gtY2lyTXRSYy02Zm1KX2ZLcUlTX21jMDlmaEFaX0hLSkZicG9Ic2g2clBsS25lSzBKbUpVYXczMXpPRWFOeGRSUTVQeDFfaGdHS2V2ejJrVTFNSS02TWl5aTBRY0ozSG1ZMmpPUElCbmFUMjBsVWg1X3JNMHRaTjNzQUxTZ3hQZW5uWkhmcQ?oc=5",
-      "published": "2026-08-17T19:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "397e78d59438",
       "title": "Ozempic får oss att glömma hur hälsa ser ut - Timbro",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1ckUtckhnN1M4VjU3REl1U2tETm5NZ1lvN09nYXB6UzhoWjRva3BINHhQOVgxUUtBMWZabXNIUjlsNnZWcVdUUFlFbkdaVDhQOElRUENtWURCd1R4aldjWXFsNHZ3TWZYRXVaV0Rna0pGeGlxaEtzWHhR?oc=5",
@@ -501,6 +501,16 @@
       "source": {
         "name": "Timbro",
         "url": "https://timbro.se"
+      }
+    },
+    {
+      "id": "481358dae4be",
+      "title": "Max Herulf går från EHM till Tandem Health - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYW1Jd1YwQlhCM3gtY2lyTXRSYy02Zm1KX2ZLcUlTX21jMDlmaEFaX0hLSkZicG9Ic2g2clBsS25lSzBKbUpVYXczMXpPRWFOeGRSUTVQeDFfaGdHS2V2ejJrVTFNSS02TWl5aTBRY0ozSG1ZMmpPUElCbmFUMjBsVWg1X3JNMHRaTjNzQUxTZ3hQZW5uWkhmcQ?oc=5",
+      "published": "2026-08-17T19:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -584,16 +594,6 @@
       }
     },
     {
-      "id": "9d0d172e9682",
-      "title": "Vanlig medicin kan öka risken för hjärtsjukdom - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFVGWEdzcnBlX1hlUmtNcTRKME9xM0ZKNUJsdS14UEMxTS1VSkJHLS1nTEtTb1g1MXBhMHc0MFVzMWl1M0hONTBkLXNHdXhQZFpBNjNWSE9jMXVQVWFHbzVMRkNQYV9jbF9MOUZWRm9lOU4tQmQ3OEhkaEQ4UmpNWUxPdmZHMXN4S0J3Y1Q4d3ZaQQ?oc=5",
-      "published": "2026-06-30T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "6e594930ef8a",
       "title": "Läkemedelsverket: Så försöker vi minska risken för suicid - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWjE0aGUwWTZUSmpKOEthZmNJaE1mZ3N3QWFRallfemluTzFxRWxwd1ZNZWtNdXhDRWFkaG5ZcTBaQXB3V3NkeGdXTXR6aTBaMG1EUUVabzBpMTNEcl82TVlqM01pNHEzbTU4eGxENC11MTlpVTBXTFpMNFhIdGdrYllsTEE3aXVBZzIybDBaTHJqaE5oc015VzJTTjQ4UQ?oc=5",
@@ -624,6 +624,16 @@
       }
     },
     {
+      "id": "9d0d172e9682",
+      "title": "Vanlig medicin kan öka risken för hjärtsjukdom - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFVGWEdzcnBlX1hlUmtNcTRKME9xM0ZKNUJsdS14UEMxTS1VSkJHLS1nTEtTb1g1MXBhMHc0MFVzMWl1M0hONTBkLXNHdXhQZFpBNjNWSE9jMXVQVWFHbzVMRkNQYV9jbF9MOUZWRm9lOU4tQmQ3OEhkaEQ4UmpNWUxPdmZHMXN4S0J3Y1Q4d3ZaQQ?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
       "id": "1beb550a6b48",
       "title": "Sol och läkemedel en underskattad riskkombination - Corren",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX2tfZl8tQzhwV0pOVUIxWTFWYXdrMmVIdUZXcmtXRy1UNnU0M2htX3BTNnVwUGNWS18xSXB2ZkxYTW9ndFpPTUl2VHl6ejdrUjYzRDRURGRxU0pfdWk3RzJaWmg0V0pSN3p0NDhKQlZXRGtuZ1ZhdmloZkJNWnZieHI5M1VjOGZYa2x1ZS1DdFgwM3NIY051elFQdGlweFZSWWlXaEhsdHo4ZmdQLWM4?oc=5",
@@ -651,16 +661,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "3bb7b803c84b",
-      "title": "Kritiskt hjärnödem på grund av självbehandling av andningssymtom med traditionell medicin. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTWI5eVJDR05COEVlVHhlRnJEcHBzcFhtNXRBbU1odEMySXY3QlV3aHpYV2t0aDUtZVNURi1UZWJwY3lCTXlXcGFIbnFXNWxUNUFuMjJjY0FfT0Q3eV9HdU1yR3l4bS1hbE8wdTdCNXM0WHF4UFdlZWt2ZzM3UjE3YmR4eFotQlYzUDNUZ0plaXpvTFh2SmFKZFFB?oc=5",
-      "published": "2026-08-21T10:18:34+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
