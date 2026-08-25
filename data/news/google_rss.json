@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T04:33:27.662093+00:00",
+  "fetched_at": "2026-08-25T05:26:09.892152+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -134,10 +134,10 @@
       }
     },
     {
-      "id": "dc8f01c60661",
-      "title": "Läkaren: Så kan risken för stroke minskas – vid blodförtunnande - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2VPZDE2bXRyME41VHAzQUd5RGN1NXRvRklXQWxZdGtiQmtHRFFTX09ydENvRmNXZG5zTzFLXzNOaVF2Mi1oUFZybHc1d2NxWURCeXRoek1QMHdPR01VYkxSSTZnZ0tGU1hXS3Q0S21meWVNbmlxU0F2a0YtUjlTTVdqTGVzZE1qUkVVaFVwWFNLQUF0YU9LdWNzX0UzYVBFSzdKTQ?oc=5",
-      "published": "2026-08-11T07:00:00+00:00",
+      "id": "413ade836ab1",
+      "title": "(+) Ny studie: Då kan vanliga hjärtmedicinen vara onödig - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQlQ1MXB5VkhwcF9XSnEwVXZab21kYUptV0pHOUNfVDJmWGZTcGo1ZUpWTEh3aHc0VDJBU3g1clE2WTAxVG93ZFB3SGpFaVhRcm9SZ2lIYkdSN3JNaGxlS3YtZE1SVnQwcV95ZnRJU3o5QXFKVkZxMTczV1JmTlpkbl9SeG9VTHFJYThJOG1oU21hMnBENDlpUg?oc=5",
+      "published": "2026-08-20T10:21:15+00:00",
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
@@ -154,10 +154,10 @@
       }
     },
     {
-      "id": "b56e548e0cb1",
-      "title": "Ny studie: Det är optimala dosen av adhd-medicin - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTb09zNV9WcFY1ejR4MnZrSkxJbVdrU3JEczJMRDk3YVVZemoyQXY4XzE5NGRiMXpZRWI4a0pmcFp5V0MtbDE0bTY4TnNhWTd4eUdQdXRuY2M0dlg0N3I5SDB4NEVoZkpUZDJrMGxFU0ZRWmJIYi1ZZg?oc=5",
-      "published": "2026-08-17T07:42:53+00:00",
+      "id": "dc8f01c60661",
+      "title": "Läkaren: Så kan risken för stroke minskas – vid blodförtunnande - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2VPZDE2bXRyME41VHAzQUd5RGN1NXRvRklXQWxZdGtiQmtHRFFTX09ydENvRmNXZG5zTzFLXzNOaVF2Mi1oUFZybHc1d2NxWURCeXRoek1QMHdPR01VYkxSSTZnZ0tGU1hXS3Q0S21meWVNbmlxU0F2a0YtUjlTTVdqTGVzZE1qUkVVaFVwWFNLQUF0YU9LdWNzX0UzYVBFSzdKTQ?oc=5",
+      "published": "2026-08-11T07:00:00+00:00",
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
@@ -201,6 +201,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "b56e548e0cb1",
+      "title": "Ny studie: Det är optimala dosen av adhd-medicin - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTb09zNV9WcFY1ejR4MnZrSkxJbVdrU3JEczJMRDk3YVVZemoyQXY4XzE5NGRiMXpZRWI4a0pmcFp5V0MtbDE0bTY4TnNhWTd4eUdQdXRuY2M0dlg0N3I5SDB4NEVoZkpUZDJrMGxFU0ZRWmJIYi1ZZg?oc=5",
+      "published": "2026-08-17T07:42:53+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Forskning & Framsteg",
         "url": "https://fof.se"
-      }
-    },
-    {
-      "id": "6c3ae1fd39fb",
-      "title": "Träning mot depression och ångest – lika effektivt som medicin - News55",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlMtcTEzdmdCSVZEQnBCcHM5RzVsb3JBMkxxZ1lWS2FrU3o3Mkh0SVpnT1FtMXFJeFI5R2hnRnVvRktqUlVlNkQ5TmwtcU9ZM0VFdF91U3ZXcG9YQXN6OWYwVU9LVlRMVk5VMllVd1duVnBSTHp3VkVCRmduanNPY0dadFJ3b3RvckNWcS1Lem5md1E?oc=5",
-      "published": "2026-03-25T07:00:00+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
       }
     }
   ]
