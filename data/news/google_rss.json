@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T23:38:29.039804+00:00",
+  "fetched_at": "2026-09-11T02:41:23.726139+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -14,16 +14,6 @@
       }
     },
     {
-      "id": "5f3d34b8f33c",
-      "title": "DEBATT: En ny regering måste återställa högkostnadsskyddet för läkemedel - VLT",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3dBaUk5R0FxU1FxNGozT0dwOVBQbzdUTHBWY3BGX0VzSlZWZWxKNXJwdGlVUlFPRUN6bXZ3d200X0J0OFFMa09aR0FLX2xQODRHaVdiOWh1UElrOFFSMENpQmY3YjNRYVM0WWJOZGQwbG01VHRXMEZ5XzQzQ09qRFBEdlMzYUM4Q0lnTTROdnFHRXFiUFE2OVpTVWpqVzV1?oc=5",
-      "published": "2026-09-10T12:19:43+00:00",
-      "source": {
-        "name": "VLT",
-        "url": "https://www.vlt.se"
-      }
-    },
-    {
       "id": "0095e5427b2f",
       "title": "INSÄNDARE: Högkostnadsskyddet för läkemedel måste återställas! - Sydöstran",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHRQX2J1U3VpMHhOQV9YUkd0YW50aWduTm14eG9vcDR1LVJkc1g2ZWkzWDdTZ05id0hURkwxaV9nUEZVcnFfdFVSeDVZVWl0QlFWVzFlNmtwemRuMUwtWVhWM1hKeGhBYXlJY2V6Q2lQYmZwb0EwcGJkdFRaOUY5Y3ZzX2Z0X01ZYzVWLWtlTQ?oc=5",
@@ -31,6 +21,16 @@
       "source": {
         "name": "Sydöstran",
         "url": "https://www.sydostran.se"
+      }
+    },
+    {
+      "id": "5f3d34b8f33c",
+      "title": "DEBATT: En ny regering måste återställa högkostnadsskyddet för läkemedel - VLT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3dBaUk5R0FxU1FxNGozT0dwOVBQbzdUTHBWY3BGX0VzSlZWZWxKNXJwdGlVUlFPRUN6bXZ3d200X0J0OFFMa09aR0FLX2xQODRHaVdiOWh1UElrOFFSMENpQmY3YjNRYVM0WWJOZGQwbG01VHRXMEZ5XzQzQ09qRFBEdlMzYUM4Q0lnTTROdnFHRXFiUFE2OVpTVWpqVzV1?oc=5",
+      "published": "2026-09-10T12:19:43+00:00",
+      "source": {
+        "name": "VLT",
+        "url": "https://www.vlt.se"
       }
     },
     {
@@ -144,10 +144,10 @@
       }
     },
     {
-      "id": "3e0843b8ad7a",
-      "title": "Rekordlång tid utan dialys med modifierad grisnjure - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPczQ4QTctUG9RNUVxeVJpMFFMRDlEV3FHM0VWMEhrZm1mMElITlB3dGh5aDdlTlBkdFJBS1NpRGJGT1dMM3FCSk5lZ0pxOXgxVmZqRUJDUFBPb0Z2aGRiaTdBemtlNXd3My1lU3ZIRzZGTEQtMWQ4WnpOOGU0eEdUa1gtazBfcXpkNWQzZ3RBdlRfZGozT2tsV2s1SXVQdGNZM0xmVjY0c1VFck9j?oc=5",
-      "published": "2026-09-09T04:48:00+00:00",
+      "id": "bb813942a15b",
+      "title": "”Låt oss inte halka efter i forskning om kvinnors hälsa” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhrYWhGNzNiU3NTNWpIUGxhcGVONEExU29xejBuUGJ1TlJIemNId0lOUHA1ZmN1SlNCWk5KT2l0Zl9QXzdFdGxMeGRPbldBb29uY2Y5S1ZyNEo5ampRQW5YVE5aUmtBcDAtc2VOczk3SDZIQ3l1cjlnaEtLU2tYNThEdnVNWXNvN3p5aTJ0TmUzdVo2RzFES1lFYVMzUUNh?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -158,16 +158,6 @@
       "title": "De vinner årets Laskerpris - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLXNubFJZYkJOSENnb1F6RVdpejJ5M1ZFV2VKSFZ4XzZkdVNDSURhWkdtQm9WazZnNnpyWmVIMGVVMk1hdHlwWldicDVjSlNCM0FIeVRPal9wSElVbFdoUF90bHNLMng4dWZYZDZ0dXVOeklJODl4R1VvRkc0RTlxVzJoVTRMdw?oc=5",
       "published": "2026-09-09T04:39:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "bb813942a15b",
-      "title": "”Låt oss inte halka efter i forskning om kvinnors hälsa” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhrYWhGNzNiU3NTNWpIUGxhcGVONEExU29xejBuUGJ1TlJIemNId0lOUHA1ZmN1SlNCWk5KT2l0Zl9QXzdFdGxMeGRPbldBb29uY2Y5S1ZyNEo5ampRQW5YVE5aUmtBcDAtc2VOczk3SDZIQ3l1cjlnaEtLU2tYNThEdnVNWXNvN3p5aTJ0TmUzdVo2RzFES1lFYVMzUUNh?oc=5",
-      "published": "2026-07-02T07:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -374,12 +364,12 @@
       }
     },
     {
-      "id": "f08ccd5b221a",
-      "title": "\"När nya behandlingar dröjer förlorar Sverige mer än hälsa\" - Lif – de forskande läkemedelsföretagen",
+      "id": "9933f0885c8a",
+      "title": "\"När nya behandlingar dröjer förlorar Sverige mer än hälsa\" - lif.se",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNE9QcXEtQVRvYThFMlR6MDFzTmNFRmxVUW5ac2J6eHdGaGJwSk9ZNm92VU8ybUNvMFI5ZkpIc0JtODNhR1lDNjJTdURsSFdpRkhqYlAtVDFTSFctNHpPUkxMb09YY0FmcWNUQ2ZzNFN5S19YZTR0Uy1ERkkzS1lhMDlfLUs2RVRUZVJ6TkFlNnVLdzJLZ25F?oc=5",
       "published": "2026-07-08T13:58:44+00:00",
       "source": {
-        "name": "Lif – de forskande läkemedelsföretagen",
+        "name": "lif.se",
         "url": "https://www.lif.se"
       }
     },
@@ -411,16 +401,6 @@
       "source": {
         "name": "Janusinfo.se",
         "url": "https://janusinfo.se"
-      }
-    },
-    {
-      "id": "859764ef2256",
-      "title": "Varning för akut leverskada på grund av användning av traditionell kinesisk medicin av okänt ursprung. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGtwQXdwbjM1bzVicnF3bVRLQkJac3M0S0t6Yk44dVo4aGhRRHlvd09SVTZtUUZJQUh3dWVJQlpVN19wc2ZIeTBqcWJQWmZPQ3RVUDlpODBTZy03NEFrMVREbHYtMGZWTUdGbVFfb1lyNVhYWHhxYVc0NDdoZFlqdUpnOXBCQU10LU9NREFZY0pFX0d3c0JuQXMxb2RZMDQ?oc=5",
-      "published": "2026-09-10T00:48:13+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -464,12 +444,12 @@
       }
     },
     {
-      "id": "04921fff0cab",
-      "title": "TLV: Varje skattekrona ska ge mesta möjliga hälsa - svd.se",
+      "id": "0cb3d64286da",
+      "title": "TLV: Varje skattekrona ska ge mesta möjliga hälsa - Svenska Dagbladet",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjRjR2NzaGRwdUtOQjJvZDlpVDc1SDhJcDZ1dzFYaU9vT1NPM0tRZFoxcHlYaHZLVHJWd1UzLVhHaUFKODVMcnE4cHJYVlNVbWRXRnd3bnkta0czT0NiU3RvVndwTHR4bG8zWGhfQnJMZlJzNDNGVDU0bDRFdVVSejdaYk1VMG9sM1hj?oc=5",
       "published": "2026-03-25T07:00:00+00:00",
       "source": {
-        "name": "svd.se",
+        "name": "Svenska Dagbladet",
         "url": "https://www.svd.se"
       }
     },
@@ -514,6 +494,16 @@
       }
     },
     {
+      "id": "859764ef2256",
+      "title": "Varning för akut leverskada på grund av användning av traditionell kinesisk medicin av okänt ursprung. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGtwQXdwbjM1bzVicnF3bVRLQkJac3M0S0t6Yk44dVo4aGhRRHlvd09SVTZtUUZJQUh3dWVJQlpVN19wc2ZIeTBqcWJQWmZPQ3RVUDlpODBTZy03NEFrMVREbHYtMGZWTUdGbVFfb1lyNVhYWHhxYVc0NDdoZFlqdUpnOXBCQU10LU9NREFZY0pFX0d3c0JuQXMxb2RZMDQ?oc=5",
+      "published": "2026-09-10T00:48:13+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
       "id": "6b73276ee7b7",
       "title": "Så får du hjälp att minska läkemedelsdosen - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJWkJHLWxXZ0Q5MElfY3NDdXVRd3NId1hkNnNVNV94QzdLUkJWanoxUk1HQmJMUFVkU2RhU0UyWkQyWG9RQjA5bThvdmxXSThfLU9IMUJTRWY4R1BwbmFzOUY2ZC1oSmhEbUlfOXVHaGNKV3JONFFj?oc=5",
@@ -544,16 +534,6 @@
       }
     },
     {
-      "id": "3f955c858eed",
-      "title": "Ännu ett fall av leverskada till följd av självmedicinering med okända ingredienser. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaUk3eXB6SDNqX1AwMUprNm50bkw5clY4OU4yZm96aERBTkk1ZnRpUWFKUUM3QXUxcHdUaDZRTy1INWtvb3pjZ2JjcnJiNkktUGRZc2s4QXR5ckFrNFIxcmljRGR3YldFLV96UFUyQmducWtyTUx3SUN1SFltXzlPSnNhZlQ3NWdlWEFzSnpCOEtVMmc?oc=5",
-      "published": "2026-09-09T01:07:01+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "3ff07a557228",
       "title": "Lilly söker subvention för Mounjaro vid obestitas - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX2ZiYVFteEpUVE1sTGJxVHl5c2pyNFc1eTdnSFBua0c4eGFtSVZoeUFoYTlEa2ZVdEtnR1dycG10dE5GZllhYmw0NzJ6RlBTbXB5RW91UF9YN1JGMkVCVkdvT0RtNUlMMFA0OVVLOEZDSFh4SEp1WHdsRXFIdktVNjBvalRRNzJ6eUhhcE1Md3ZTbXhXQzI0eWFFSjZmeDY3M3pyTA?oc=5",
@@ -581,6 +561,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "3f955c858eed",
+      "title": "Ännu ett fall av leverskada till följd av självmedicinering med okända ingredienser. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaUk3eXB6SDNqX1AwMUprNm50bkw5clY4OU4yZm96aERBTkk1ZnRpUWFKUUM3QXUxcHdUaDZRTy1INWtvb3pjZ2JjcnJiNkktUGRZc2s4QXR5ckFrNFIxcmljRGR3YldFLV96UFUyQmducWtyTUx3SUN1SFltXzlPSnNhZlQ3NWdlWEFzSnpCOEtVMmc?oc=5",
+      "published": "2026-09-09T01:07:01+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -644,16 +634,6 @@
       }
     },
     {
-      "id": "b56e548e0cb1",
-      "title": "Ny studie: Det är optimala dosen av adhd-medicin - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTb09zNV9WcFY1ejR4MnZrSkxJbVdrU3JEczJMRDk3YVVZemoyQXY4XzE5NGRiMXpZRWI4a0pmcFp5V0MtbDE0bTY4TnNhWTd4eUdQdXRuY2M0dlg0N3I5SDB4NEVoZkpUZDJrMGxFU0ZRWmJIYi1ZZg?oc=5",
-      "published": "2026-08-17T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "da29fcfa26a8",
       "title": "Läkemedelsverket varnar för falskt läkemedel vid diabetes - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazFsUEZMbHQ0MWt0ZTFIZnJHNC1YbXBRcEhHazFHSjg1ekgyLVZ4Q2lkRjhERktrWkhVRFFHMm5udHl2OVRYU2FUSmZ4Q1hfamh4QWt4cm9TZ2hXdE1GRnZEbEZEc3FUaEo3ejdtYzZhYW5PcEQ2TGUweGpKSnFDU1FZNGxvY0U1Q01oTFJoeElRYlgydkhrbjR5aXE0WWxERUkxbU9PZmNTaEdldElz?oc=5",
@@ -661,6 +641,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "b56e548e0cb1",
+      "title": "Ny studie: Det är optimala dosen av adhd-medicin - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTb09zNV9WcFY1ejR4MnZrSkxJbVdrU3JEczJMRDk3YVVZemoyQXY4XzE5NGRiMXpZRWI4a0pmcFp5V0MtbDE0bTY4TnNhWTd4eUdQdXRuY2M0dlg0N3I5SDB4NEVoZkpUZDJrMGxFU0ZRWmJIYi1ZZg?oc=5",
+      "published": "2026-08-17T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -834,12 +824,12 @@
       }
     },
     {
-      "id": "812298566486",
-      "title": "PFAS lämnar kroppen snabbare med vissa läkemedel - gu.se",
+      "id": "661e5e895a59",
+      "title": "PFAS lämnar kroppen snabbare med vissa läkemedel - Göteborgs universitet",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdzQtVGltZzNOaHRzakxGcktvdDJvdEpFTUVHTFVYbU9VUko4dnprampfVnQ3azhiZHcydmNwV29xd2pPSUNJM0NzUFFBRHFQUzVTUXFHZjFIYWhfbVFSUFJJaW5DckRrdjlVLTU0Qy1XRGZkSnhsS3FnMl95VWc?oc=5",
       "published": "2025-10-30T07:00:00+00:00",
       "source": {
-        "name": "gu.se",
+        "name": "Göteborgs universitet",
         "url": "https://www.gu.se"
       }
     },
@@ -998,6 +988,16 @@
       "title": "Ökat intresse för receptbelagda läkemedel utan recept - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUFGMGl2Y3ZWQ0xHc3hEbWsxMWd5enk5UG9aRWdpWVRucnhRQ1plR0JKRUZ4VzB2UzFDZ3JCSUV2S2xYVkc5VHU1aGFZQkVHNmRjeW14Y3JEZnM5NE1ZRTY3b19HemtxVHlZTmh4dWVHaDdVWl8wYWpUejk0NURjSVpkbmx3SE44SGJoTXQyS3ZlM2NRTjlGYTRMOTYya2FoaHhGTEM3dmxCdw?oc=5",
       "published": "2026-01-21T08:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "014a4d4d4024",
+      "title": "Region Skåne häver avtal med vårdcentral i Malmö - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHc1TFh1SlVMV19XLTZuc01kclcyWllaMWc1ck1IcE1rSlNUTzIzYS1GNGxXQ2NJdTBfU3lmZHBxaXlJSllTX1VnWUZzLWR4TkVkTUhIRXJHZVlaY2VyeUpsZkVLYlAyQWJpeUpiUDlwYzZ3SXZkTURzZEM4ZmJodTVUd0o5YzR2MUQxcEZYX1NJZ1hyZ3MxemZ5UFB5TE1zY25XZkIwc2dFR25KdWg4?oc=5",
+      "published": "2026-01-28T08:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
