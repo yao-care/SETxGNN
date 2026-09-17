@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 18
 evidence_level: L5
 indication_count: 0
+nav_exclude: true
+search_exclude: true
 ---
 
 # Anidulafungin
@@ -49,7 +51,7 @@ and **no clinical trial or literature evidence** has been assembled for a repurp
 | Predicted New Indication | — (No TxGNN prediction available) |
 | TxGNN Prediction Score | — |
 | Evidence Level | L5 (No prediction or supporting evidence) |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
+| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 

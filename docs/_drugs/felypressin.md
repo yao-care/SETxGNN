@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Felypressin
-parent: 僅模型預測 (L5)
+parent: Endast modellprediktion (L5)
 nav_order: 47
 evidence_level: L5
 indication_count: 10

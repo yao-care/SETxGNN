@@ -43,7 +43,7 @@ Cefadroxil is a first-generation cephalosporin antibiotic commonly used for bact
 | Predicted New Indication | None — no TxGNN predictions available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (No predictions or supporting studies) |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
+| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 

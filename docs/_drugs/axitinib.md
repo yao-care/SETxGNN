@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Axitinib
-parent: 僅模型預測 (L5)
+parent: Endast modellprediktion (L5)
 nav_order: 20
 evidence_level: L5
 indication_count: 10

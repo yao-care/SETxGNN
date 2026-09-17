@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 76
 evidence_level: L5
 indication_count: 0
+nav_exclude: true
+search_exclude: true
 ---
 
 # Letrozol
@@ -45,7 +47,7 @@ LETROZOL 的 Evidence Pack 中，原始適應症、TxGNN 預測適應症及安�
 | Predicted New Indication | 無（`predicted_indications` 陣列為空） |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — 無模型預測輸出 |
-| Taiwan Market Status | 未上市（授權數：0） |
+| Taiwan Market Status | Not marketed（授權數：0） |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 
@@ -57,7 +59,7 @@ LETROZOL 的 Evidence Pack 中，原始適應症、TxGNN 預測適應症及安�
 
 從 Query Log 可發現矛盾現象：DrugBank 查詢狀態為 `success`（`result_count: 1`），TFDA 仿單查詢同樣為 `success`（`result_count: 1`），但這兩個成功的來源資料均未被解析並填入 `drug` 或 `safety` 欄位。這強烈指向資料管線（pipeline）的上游存在資料轉換或寫入的問題。
 
-此外，`taiwan_regulatory.market_status` 標示為「未上市」，但 TFDA 仿單查詢竟有 1 筆結果，此一矛盾需在後續步驟中澄清。
+此外，`taiwan_regulatory.market_status` 標示為「Not marketed」，但 TFDA 仿單查詢竟有 1 筆結果，此一矛盾需在後續步驟中澄清。
 
 ---
 
@@ -92,7 +94,7 @@ Evidence Pack 缺少全部關鍵輸入：原始適應症、TxGNN 預測結果、
 3. **填入 `drug.original_moa`**：從 DrugBank pharmacology 欄位提取作用機轉
 4. **執行 TxGNN 模型**：為 LETROZOL 生成 `predicted_indications` 輸出
 5. **解析 TFDA 仿單**：從已成功取得的仿單中，提取 `safety.key_warnings` 與 `safety.contraindications`
-6. **澄清台灣市場狀態矛盾**：TFDA 仿單查詢有結果，但 `market_status` 標示「未上市」，需確認是否因藥名拼寫差異（LETROZOL vs. LETROZOLE）導致查詢對象不一致
+6. **澄清台灣市場狀態矛盾**：TFDA 仿單查詢有結果，但 `market_status` 標示「Not marketed」，需確認是否因藥名拼寫差異（LETROZOL vs. LETROZOLE）導致查詢對象不一致
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

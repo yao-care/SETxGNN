@@ -47,7 +47,7 @@ Cisplatin is a platinum-based antineoplastic agent widely used globally for the 
 | Predicted New Indication | **None** — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
+| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 

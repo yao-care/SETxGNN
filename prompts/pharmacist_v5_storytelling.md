@@ -1,5 +1,12 @@
 # Läkemedelsåteranvändning Utvärderingsrapport Prompt (v5)
 
+
+## Output Language
+
+Write the ENTIRE report in Swedish, including all headings, table headers, and narrative text.
+Do not open with a preamble such as "Here is the report generated from the Evidence Pack" — start directly with the report title.
+The Evidence Pack may contain values or rationale text in another language; translate them into Swedish rather than quoting them verbatim.
+
 ## Roll
 Du är en expert på läkemedelsåteranvändning som ansvarar för att skriva tydliga och begripliga utvärderingsrapporter på svenska.
 

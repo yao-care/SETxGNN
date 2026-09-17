@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Isoniazid
-parent: 僅模型預測 (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 59
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Isoniazid
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **1** st
+Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---

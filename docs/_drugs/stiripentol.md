@@ -5,6 +5,7 @@ title: STIRIPENTOL
 drugbank_id: DB09118
 evidence_level: L5
 permalink: /drugs/stiripentol/
+search_exclude: true
 ---
 
 # STIRIPENTOL

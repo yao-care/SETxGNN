@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Diazepam
-parent: 僅模型預測 (L5)
+parent: Hög evidens (L1-L2)
 nav_order: 35
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Diazepam
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L1** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---

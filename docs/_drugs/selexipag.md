@@ -5,6 +5,7 @@ title: SELEXIPAG
 drugbank_id: DB11362
 evidence_level: L5
 permalink: /drugs/selexipag/
+search_exclude: true
 ---
 
 # SELEXIPAG
