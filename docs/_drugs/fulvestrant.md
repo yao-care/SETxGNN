@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Fulvestrant
-parent: 僅模型預測 (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 52
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Fulvestrant
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---

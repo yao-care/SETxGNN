@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Guaifenesin
-parent: 僅模型預測 (L5)
+parent: Hög evidens (L1-L2)
 nav_order: 54
-evidence_level: L5
+evidence_level: L2
 indication_count: 5
 ---
 
 # Guaifenesin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **5** st
+Evidensnivå: **L2** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---

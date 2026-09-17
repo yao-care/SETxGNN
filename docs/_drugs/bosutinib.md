@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 32
 evidence_level: L5
 indication_count: 0
+nav_exclude: true
+search_exclude: true
 ---
 
 # Bosutinib

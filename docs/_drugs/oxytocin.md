@@ -5,6 +5,7 @@ title: OXYTOCIN
 drugbank_id: DB00107
 evidence_level: L5
 permalink: /drugs/oxytocin/
+search_exclude: true
 ---
 
 # OXYTOCIN

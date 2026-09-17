@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Rifabutin
-parent: 僅模型預測 (L5)
+parent: Hög evidens (L1-L2)
 nav_order: 91
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Rifabutin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L2** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---

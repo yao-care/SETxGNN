@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Midazolam
-parent: 僅模型預測 (L5)
+parent: Hög evidens (L1-L2)
 nav_order: 70
-evidence_level: L5
+evidence_level: L2
 indication_count: 1
 ---
 
 # Midazolam
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **1** st
+Evidensnivå: **L2** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---

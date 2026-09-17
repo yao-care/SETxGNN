@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Simvastatin
-parent: 僅模型預測 (L5)
+parent: Endast modellprediktion (L5)
 nav_order: 96
 evidence_level: L5
 indication_count: 8

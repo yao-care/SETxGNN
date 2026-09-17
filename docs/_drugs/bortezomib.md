@@ -43,7 +43,7 @@ Bortezomib is a proteasome inhibitor widely used internationally for the treatme
 | Predicted New Indication | — *(No TxGNN prediction available)* |
 | TxGNN Prediction Score | — |
 | Evidence Level | **L5** (Model prediction pending; no supporting studies in pack) |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
+| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 

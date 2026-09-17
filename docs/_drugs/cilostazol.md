@@ -47,7 +47,7 @@ Cilostazol (DrugBank: DB01166) is a known phosphodiesterase III (PDE3) inhibitor
 | Predicted New Indication | **None — no TxGNN predictions available** |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | **L5** (No prediction or supporting studies in this pack) |
-| Taiwan Market Status | ❌ Not marketed (未上市) |
+| Taiwan Market Status | ❌ Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 
