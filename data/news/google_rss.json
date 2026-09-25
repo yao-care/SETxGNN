@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-09-24T22:57:43.259465+00:00",
+  "fetched_at": "2026-09-25T01:13:17.277059+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
-    {
-      "id": "4da072ab8df9",
-      "title": "Kommissionen föreslår en rättsakt om kritiska läkemedel för att öka tillgången på kritiska läkemedel i EU - ec.europa.eu",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wd2s2RjhHZV9SMmJNdXI1REV0eVpPdXBOSEpOUk04QmR2V3VrTWU2YThwTkNRVGg4Q3I5a2Rra2o3YWVOZm9iS3N5Z0VGbjNFbHhYMjZwWFhDa2Y5akpfNQ?oc=5",
-      "published": "2026-09-24T17:37:30+00:00",
-      "source": {
-        "name": "ec.europa.eu",
-        "url": "https://ec.europa.eu"
-      }
-    },
     {
       "id": "fe444150694f",
       "title": "\"Samverkan avgörande för apotekens krisberedskap\" - Svensk Farmaci",
@@ -34,12 +24,12 @@
       }
     },
     {
-      "id": "0f568495c45c",
-      "title": "Glaukomförbundet: Läkemedelsbrist får inte kosta patienter synen - mynewsdesk.com",
+      "id": "1f685b693615",
+      "title": "Glaukomförbundet: Läkemedelsbrist får inte kosta patienter synen - Mynewsdesk",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTnFJb1M4M3lWcTc4bVVwVWdXX0NoZWc1dGpxSzZ3dEJiTkhFVXBGUXpxN3lXZHkwaGxlcnVKaHl1RDBJMmZFWDNvenZtQVgwQkpGRzJ4Zk1XdmlzdEthcnplSmpPam8wbFRNTHVBUThrZFZ6VXViVk9XUVZaRUxTUzVtUTU5dkl0cGhRbGxQQ1B5OHYtWU5EWTItUGlVOUUxdmZKWE9oODhZcWVQcDFTRjhEbkF6Z0lPYURUTlRfeWRaaW9qcWRtblJjc3gyZ01WZkRQdzloVzhkTjZt?oc=5",
       "published": "2026-09-24T06:00:00+00:00",
       "source": {
-        "name": "mynewsdesk.com",
+        "name": "Mynewsdesk",
         "url": "https://www.mynewsdesk.com"
       }
     },
@@ -54,16 +44,6 @@
       }
     },
     {
-      "id": "4452b023a601",
-      "title": "Förebyggande medicin - en \"sköld\" som skyddar människors hälsa. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfdENFQlVqLUVVWHNDcGtaalllWFk5SElOem9FRXZmTmM2dXEtWlFpMExuaWtCbllwNi0ySk93elFrT1lmSVpHbU5EX0hxaDlGdDRGcXloUjNNdDBTTF9DcGpmZzFfa3B5LWFUUHZCR0htMUR0Vk50YmQ5SFI?oc=5",
-      "published": "2026-09-24T06:44:07+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "c4e98ceae663",
       "title": "Nya hoppet för alzheimersjuka – läkemedel kan snart finnas i Sverige - News55",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGtXNDBNYklLZzc1Und0SnROVV9qTXVQbThCa01EM08tVGtTZE1tRU9DUGtFWGVhTkZLa1c0SW1EZ3YtcTZRNFFhTlNlRHFNal9WOXoxdE13OFhDc0dSNG43QTNLS3Q1WmZYWGNrTEo0a1VEOHNsTVdCYV9mU0JkRk5Gc0JQeXJaZEVSeEN5OW1HdGRnTllkazJzQQ?oc=5",
@@ -71,6 +51,16 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "4452b023a601",
+      "title": "Förebyggande medicin - en \"sköld\" som skyddar människors hälsa. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfdENFQlVqLUVVWHNDcGtaalllWFk5SElOem9FRXZmTmM2dXEtWlFpMExuaWtCbllwNi0ySk93elFrT1lmSVpHbU5EX0hxaDlGdDRGcXloUjNNdDBTTF9DcGpmZzFfa3B5LWFUUHZCR0htMUR0Vk50YmQ5SFI?oc=5",
+      "published": "2026-09-24T06:44:07+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -94,12 +84,12 @@
       }
     },
     {
-      "id": "86897ea8d324",
-      "title": "INSÄNDARE: ”Högkostnadsskyddet för läkemedel måste återställas” - Helagotland",
+      "id": "b402b4692ab3",
+      "title": "INSÄNDARE: ”Högkostnadsskyddet för läkemedel måste återställas” - helagotland.se",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZTlleDlGdjNjMFh1N0l6d1haZU9rUDlBQ1hWcUlsTkZpbDdhdXphQmdDdFh2eFJKUGJpdF9LV2dHU3hoUmhhVEFoV0NsMlpCdklONXlyU3ZnQ3Vaa1UxOEFrRTZreVdtQWVtTWVNLUdvYUdZZThhUWNETVBCMDZKbEJzTFVZc3EzSC1FQTFSRnU4VUNVYmVjc0ljZlduc1JZVURicjZjOA?oc=5",
       "published": "2026-09-17T12:30:00+00:00",
       "source": {
-        "name": "Helagotland",
+        "name": "helagotland.se",
         "url": "https://www.helagotland.se"
       }
     },
@@ -124,13 +114,23 @@
       }
     },
     {
-      "id": "2f8fa04e3653",
-      "title": "Apotekets möjligheter stärker farmaceuter och stärker deras roll inom samhällsvården. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLXZOekVKT1E1dW9ZRm1FQUxocUlUdWZKLXpNbmZGQTE0aVJvTW5fbDEzMHYxVDA0TlVOQnhQSkR6Q1NMOVdfNHF1cUJxSGlpUnphdVVVNjhPUGVJelR2eEVUZktMZnRPZVNlRFFEdlZBNWNLNzFHRFI1cFppRnlmX29SMnpsbzA2N0NpMkswY3FFWXJScU1WNzZNa2EzMU1xQ0xVVUlYVQ?oc=5",
-      "published": "2026-09-24T10:31:46+00:00",
+      "id": "6937773022ab",
+      "title": "Världsapotekardagen: \"Stärker farmaceuter för en hälsosammare framtid\" - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYnJqLXUzSjJzZkFZd3pWcGxjSFk1eG1XS1FjTUw2Y1pBSVU3TUJTcF9kenhQRG1jbHVoNVl0eWZXQ2ZfTko2M1c4LUFYTmxkZW1TcnBJYjkyTVlqQUE4TzhhdFpyNWp6Ym1UVDNJbC0wam54SmZSa2lOdS1nYVVaRUNNbUhSejB5VFR4aGdlTTl1ajBsb2hJTHBRTXpZUTZ6QUZJ?oc=5",
+      "published": "2026-09-25T00:17:22+00:00",
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "bb813942a15b",
+      "title": "”Låt oss inte halka efter i forskning om kvinnors hälsa” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhrYWhGNzNiU3NTNWpIUGxhcGVONEExU29xejBuUGJ1TlJIemNId0lOUHA1ZmN1SlNCWk5KT2l0Zl9QXzdFdGxMeGRPbldBb29uY2Y5S1ZyNEo5ampRQW5YVE5aUmtBcDAtc2VOczk3SDZIQ3l1cjlnaEtLU2tYNThEdnVNWXNvN3p5aTJ0TmUzdVo2RzFES1lFYVMzUUNh?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -144,13 +144,13 @@
       }
     },
     {
-      "id": "bb813942a15b",
-      "title": "”Låt oss inte halka efter i forskning om kvinnors hälsa” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhrYWhGNzNiU3NTNWpIUGxhcGVONEExU29xejBuUGJ1TlJIemNId0lOUHA1ZmN1SlNCWk5KT2l0Zl9QXzdFdGxMeGRPbldBb29uY2Y5S1ZyNEo5ampRQW5YVE5aUmtBcDAtc2VOczk3SDZIQ3l1cjlnaEtLU2tYNThEdnVNWXNvN3p5aTJ0TmUzdVo2RzFES1lFYVMzUUNh?oc=5",
-      "published": "2026-07-02T07:00:00+00:00",
+      "id": "2f8fa04e3653",
+      "title": "Apotekets möjligheter stärker farmaceuter och stärker deras roll inom samhällsvården. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLXZOekVKT1E1dW9ZRm1FQUxocUlUdWZKLXpNbmZGQTE0aVJvTW5fbDEzMHYxVDA0TlVOQnhQSkR6Q1NMOVdfNHF1cUJxSGlpUnphdVVVNjhPUGVJelR2eEVUZktMZnRPZVNlRFFEdlZBNWNLNzFHRFI1cFppRnlmX29SMnpsbzA2N0NpMkswY3FFWXJScU1WNzZNa2EzMU1xQ0xVVUlYVQ?oc=5",
+      "published": "2026-09-24T10:31:46+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -214,22 +214,12 @@
       }
     },
     {
-      "id": "6282901ff3ee",
-      "title": "Mannen utvecklade akut leversvikt efter en veckas intag av traditionell medicin. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMmJBTlZ2V3FwQXpxNVF2Q1RLemx0MVlKN2VRN1AyUzFBME9OSjltalpPQlVpMDFuYzdOV3QtR2VzeXlEY0tsQWxnLUpVNmlIOHlURVlIdmdwRkZZSl9VTVdmTXExdUVBLVYxTlZjU0stLXJlRlNwN2hraFcyWFpiempnSQ?oc=5",
-      "published": "2026-09-24T03:33:10+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "e7561b3eebb9",
-      "title": "Om oegentlig förskrivning i årsberättelsen om läkemedel - janusinfo.se",
+      "id": "0027a3e3b450",
+      "title": "Om oegentlig förskrivning i årsberättelsen om läkemedel - Janusinfo.se",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdnhTSzlTNGtCNmd1X3RIUHlXWnBDZ3VsNWZfeWd2WkRaM0ZWNnFWUWd6WURFb3E0elpWZ3N6dU10d3RYYUJQc2hHeFhydGdLR3hucTB0ZmZJc0o4emV1eDNmcXRHeThVY1ZkMmlmV0lUcGtTb3RIa3VOSEd3NTFqR3JCcGt1eDdvUzZVWGtzc3Z4ZU5aaVFyMU93cllXbVQ3UHRiMXdJQ3ZVQUVj?oc=5",
       "published": "2026-04-27T07:00:00+00:00",
       "source": {
-        "name": "janusinfo.se",
+        "name": "Janusinfo.se",
         "url": "https://janusinfo.se"
       }
     },
@@ -241,6 +231,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "6282901ff3ee",
+      "title": "Mannen utvecklade akut leversvikt efter en veckas intag av traditionell medicin. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMmJBTlZ2V3FwQXpxNVF2Q1RLemx0MVlKN2VRN1AyUzFBME9OSjltalpPQlVpMDFuYzdOV3QtR2VzeXlEY0tsQWxnLUpVNmlIOHlURVlIdmdwRkZZSl9VTVdmTXExdUVBLVYxTlZjU0stLXJlRlNwN2hraFcyWFpiempnSQ?oc=5",
+      "published": "2026-09-24T03:33:10+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -264,12 +264,12 @@
       }
     },
     {
-      "id": "dd68c406f4b9",
-      "title": "”Hälsolitteracitet handlar lika mycket om vår egen förmåga att göra oss begripliga för patienterna.” - janusinfo.se",
+      "id": "23d5787a972a",
+      "title": "”Hälsolitteracitet handlar lika mycket om vår egen förmåga att göra oss begripliga för patienterna.” - Janusinfo.se",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNUGQ0Z2hvQ3hyeUJYYW1keW82d08yWDlaT1RnVGxiZlcyVDdUd2xhTHdBNkdaOWlBc2VOdkJLUXJRbHBDTGJOQS1wUGo5eEM0YmJvaktpbjBheGVNdDdhMG5NdElqSzE3RjRmVXRpN0VjR1lmQlFKaS1ZNkF5b1BGY0JObWsyMXM3d2cxRmh2aWlCSllUR25iX1hyLVhkRTA3STJMUVMyN19sLXNfNjVIVDIwVXJlcXFzY2JNaWg0aW85RkdBR2M5WU1oT0RwWTFyc0xwSHg1aGFnU3dydE9CdTRtUl9Kb2ZMNUJVX1VVS3NreFYtSkNDSXNEUF9xMWtYNll3V3FiM3lVZXVFcnNzanIwM2VWZw?oc=5",
       "published": "2026-07-02T07:00:00+00:00",
       "source": {
-        "name": "janusinfo.se",
+        "name": "Janusinfo.se",
         "url": "https://janusinfo.se"
       }
     },
@@ -354,12 +354,12 @@
       }
     },
     {
-      "id": "cde3751d6545",
-      "title": "Begäran om utlåtande: Lagändringarna förbättrar försörjningsberedskapen för läkemedel och medicintekniska produkter - Statsrådet - valtioneuvosto.fi",
+      "id": "d76593c56aee",
+      "title": "Begäran om utlåtande: Lagändringarna förbättrar försörjningsberedskapen för läkemedel och medicintekniska produkter - Statsrådet - Valtioneuvosto",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaExwbVh5aXFLZWdqM3FJdXd2aFdUX005TlAtTFhtb2NTTXNYMGdodzR0ZlEyS3VPSVdxdmdmemJscXU1OFJoaW85YUh1d3huNVRKRC1RRDVfMXVPNTJlS2FFMVFhQzNmRDA2QkI2ajlRanQyREQycWRWNGJVQ0ktYl80d1M1UXhQLXRiVFN1YXR5QzdSMkUxMnMxYTM1WlFJVW1YdUtZN29iVVh5YUxrRjNMUDdDOXJRSFBmU3hpVkVqczJyRFF0UEl6RTNqbkVWZE4tQWpJc1B4SU9zZzVkZ2dBaXVCSElK?oc=5",
       "published": "2026-06-18T07:00:00+00:00",
       "source": {
-        "name": "valtioneuvosto.fi",
+        "name": "Valtioneuvosto",
         "url": "https://valtioneuvosto.fi"
       }
     },
@@ -564,16 +564,6 @@
       }
     },
     {
-      "id": "177c9563342b",
-      "title": "C kräver ”friskaste generationen någonsin” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZGtwZDJBdXJLQ0NIdEdSMmowaUZoVF9FRXlwNVhLckt5OW9zUGNLLXM3Q2o5b3g5Z3lKMy00RFF2c2o5TUljNlhtZUw4WnUzNXJXWW9QT09UQkJLYWZtVjVjTFAtRUY4dWlMdUFVN291TWhQaUxCM3NqcjdZRkY4QzRXc3M5SE5OYUV1aDVoejdQWXI1bjFHZWxSLXp5blk?oc=5",
-      "published": "2026-03-31T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "aa157442b8ca",
       "title": "Nya läkemedel införs i Västra Götalandsregionen – satsning på cancerbehandling och sällsynta sjukdomar - Via TT",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSXZQbHI2U0hRVXJERkVMbEI3X2NlR0VOTWUtWkZoQk4wdDZHSjBOQndndEdOeXZpUU15UXNNWHU5QUJIeWE1OHphM2pnLW54aEtFaU1nMWJYVmVJTHN4bmRjQ2dGVVR5d3RwU2YtSDEzcmJrQll4Ym1leGRLUFJGeUJhdjJQUDE2WTY0U2J1ZHIxaDNSaWJQMXU2WjlMQjhuaW5YM0tTVEpERTh0SGxwd3hyZkVndzQzZ1o4d0NXYkdJeHFnbjByVTdadDY2U3F6Q0txVERBYTFyc2NsVTQ5dFd4cmtsR29sSnJTeGhQMlhqRDdWb2xseTNmVVpNMkU?oc=5",
@@ -584,12 +574,22 @@
       }
     },
     {
-      "id": "486d47fe31db",
-      "title": "Ozempic får oss att glömma hur hälsa ser ut - timbro.se",
+      "id": "177c9563342b",
+      "title": "C kräver ”friskaste generationen någonsin” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZGtwZDJBdXJLQ0NIdEdSMmowaUZoVF9FRXlwNVhLckt5OW9zUGNLLXM3Q2o5b3g5Z3lKMy00RFF2c2o5TUljNlhtZUw4WnUzNXJXWW9QT09UQkJLYWZtVjVjTFAtRUY4dWlMdUFVN291TWhQaUxCM3NqcjdZRkY4QzRXc3M5SE5OYUV1aDVoejdQWXI1bjFHZWxSLXp5blk?oc=5",
+      "published": "2026-03-31T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "397e78d59438",
+      "title": "Ozempic får oss att glömma hur hälsa ser ut - Timbro",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1ckUtckhnN1M4VjU3REl1U2tETm5NZ1lvN09nYXB6UzhoWjRva3BINHhQOVgxUUtBMWZabXNIUjlsNnZWcVdUUFlFbkdaVDhQOElRUENtWURCd1R4aldjWXFsNHZ3TWZYRXVaV0Rna0pGeGlxaEtzWHhR?oc=5",
       "published": "2026-06-22T07:00:00+00:00",
       "source": {
-        "name": "timbro.se",
+        "name": "Timbro",
         "url": "https://timbro.se"
       }
     },
@@ -774,12 +774,12 @@
       }
     },
     {
-      "id": "749f11e3f6b8",
-      "title": "Protest mot brist på östrogen: ”Kvinnor har rätt att må bra” - Helagotland",
+      "id": "b1a8924c74f0",
+      "title": "Protest mot brist på östrogen: ”Kvinnor har rätt att må bra” - helagotland.se",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1JKNUhiUVVOTFoxUDlnckxvZUFKWHo2NzJldVVfVGFLcFlnall1Yjl4X0U2OWhrODctNW05WWZWSDdLaVhWWFgzWDdDcF81SVFIUzB4WEMxRHhMTkJyLUdQM3BUZ0theFRCb1I1dEJlVEpHVVNaRXhDLURWX2RLek56UVRjMlRkZHY0cW9ON1lZVUV5NWhDT195RXlURHQxRkNZYjZn?oc=5",
       "published": "2026-06-25T07:00:00+00:00",
       "source": {
-        "name": "Helagotland",
+        "name": "helagotland.se",
         "url": "https://www.helagotland.se"
       }
     },
@@ -794,12 +794,12 @@
       }
     },
     {
-      "id": "6d5fcd3dd183",
-      "title": "Sjuka BusMarie: ”Medicin är det jag gör avkall på” - Dagens Arena",
+      "id": "111194e8b197",
+      "title": "Sjuka BusMarie: ”Medicin är det jag gör avkall på” - dagensarena.se",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU3ctZFBTZGRlSGdmUVNHR3pNUUEtTkZKUkZGdW5GZ0V1Q0RRb1pvWEJKZUwyWjlTU3ZZck9QTnlyd3ZiTDFIcnZtMXloS0ZjZFJ1Ui1vaHlJWHlYaWlYYWxnUHFkUG1udTdyeDNmVXkwRk1mQWJ2aThESXBSRU9WODM2VmFVM21QWWk0?oc=5",
       "published": "2026-05-11T07:00:00+00:00",
       "source": {
-        "name": "Dagens Arena",
+        "name": "dagensarena.se",
         "url": "https://www.dagensarena.se"
       }
     },
@@ -874,12 +874,12 @@
       }
     },
     {
-      "id": "a2f44bb2b0ed",
-      "title": "Lex Maria: Läkemedel förväxlades vid smärta i ryggen - mynewsdesk.com",
+      "id": "99feec2fd948",
+      "title": "Lex Maria: Läkemedel förväxlades vid smärta i ryggen - Mynewsdesk",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORkRRVWpXWG5lTGNKOUZkUUpJQ2J6TDBsc0FNRXZvc1ZYZE5uUFVzTXB3RHd6TnNyMERBcGRMOVJvUWxJXzFYR29oN0ZuYVhZVV9FRjFxWXFKNU1OdWg2NTBobHdIVkVUX0xDUUJ1RUFMNmxSSzB3NURyZFZHSzVYaXc4aTFWNktJMGJlU0tfUVVzTktwbEk0TTAzRk0ydlZwRG4yUGhGblQ4eE1vemt2dGhWUlZfTGdOZnM5V0ljUG14SUk1?oc=5",
       "published": "2026-06-08T07:00:00+00:00",
       "source": {
-        "name": "mynewsdesk.com",
+        "name": "Mynewsdesk",
         "url": "https://www.mynewsdesk.com"
       }
     },
@@ -974,22 +974,22 @@
       }
     },
     {
-      "id": "880ccdfd6f55",
-      "title": "Fakta i frågan: Mår unga allt sämre? - dn.se",
+      "id": "41639b9721c7",
+      "title": "Fakta i frågan: Mår unga allt sämre? - Dagens Nyheter",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DZjkwQ0k4dXBXdlRDc1hKX2F0ZlpscFdDOHY1TGFUQ1VDN1NBVnB2X3VVek9KZXFoQWw4clNkTjk0Vm5yNUU4c1VWdTVCajY3MnloZlB0ckM4ZmtROEZ5MHYwY0syLU1Geld0SWlB?oc=5",
       "published": "2026-03-25T07:00:00+00:00",
       "source": {
-        "name": "dn.se",
+        "name": "Dagens Nyheter",
         "url": "https://www.dn.se"
       }
     },
     {
-      "id": "be714f3f2c08",
-      "title": "Nytt kunskapsunderlag sätter ljuset på patienters tillgång till cancerläkemedel | Region Västerbotten - mynewsdesk.com",
+      "id": "67048ff58d6d",
+      "title": "Nytt kunskapsunderlag sätter ljuset på patienters tillgång till cancerläkemedel | Region Västerbotten - Mynewsdesk",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRU1qNUZlS01YMV9qOHR5bmdkcnJjVnQ1RTRNaXE3Qkc0MzVJN1E4enA0SlpGVVhBVS1ZWjdmcnZoamVUSzBMN0hqT0pjXzhYWkxDckNQT1F3Q0FobV9JaDhROExmVTZiNWxXNzBrVkV5bnAwZjNJcHUtVDctalNta1BzWW9nT08xZU44N2xUaDd0UXVVdUVnaC1KUjJqb3BZUmRJNzJvU3dhNlgzZ0FRZUwwOGVsdUZDd2t4X3RFd2ljNFdwZEQySkxUUVozYm44UkZVWkxSWENDWWdfdW5vV0ljMUs5cG9oTWc?oc=5",
       "published": "2026-01-28T08:00:00+00:00",
       "source": {
-        "name": "mynewsdesk.com",
+        "name": "Mynewsdesk",
         "url": "https://www.mynewsdesk.com"
       }
     },
