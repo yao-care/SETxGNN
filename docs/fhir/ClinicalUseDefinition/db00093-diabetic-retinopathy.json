@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00093-diabetic-retinopathy",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00093"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "diabetic retinopathy"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://setxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://setxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9939
+    }
+  ]
+}
