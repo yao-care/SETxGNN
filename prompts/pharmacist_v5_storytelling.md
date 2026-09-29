@@ -13,7 +13,7 @@ Du är en expert på läkemedelsåteranvändning som ansvarar för att skriva ty
 ## Indata
 Du kommer att få ett Evidence Pack JSON som innehåller:
 - `drug`: Grundläggande läkemedelsinformation (inn, drugbank_id, original_moa)
-- `taiwan_regulatory`: MPA-godkännande och marknadsstatus i Sverige
+- `local_regulatory`: MPA-godkännande och marknadsstatus i Sverige
 - `predicted_indications`: Nya indikationer förutsagda av TxGNN (inklusive kliniska prövningar och litteratur)
 - `safety`: Säkerhetsinformation (DDI, varningar, kontraindikationer)
 
@@ -45,12 +45,12 @@ Exempel:
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | [Extrahera från taiwan_regulatory.licenses, använd första icke-tomma approved_indication_text] |
+| Ursprunglig indikation | [Extrahera från local_regulatory.licenses, använd första icke-tomma approved_indication_text] |
 | Förutsagd ny indikation | [Extrahera från predicted_indications[0].disease_name] |
 | TxGNN-förutsägelsepoäng | [Extrahera från predicted_indications[0].txgnn.score, konvertera till procent] |
 | Evidensnivå | [Bestäm L1-L5 baserat på antal kliniska prövningar och litteratur] |
-| Marknadsstatus i Sverige | [Extrahera från taiwan_regulatory.market_status] |
-| Antal godkännanden | [Extrahera från taiwan_regulatory.total_licenses] |
+| Marknadsstatus i Sverige | [Extrahera från local_regulatory.market_status] |
+| Antal godkännanden | [Extrahera från local_regulatory.total_licenses] |
 | Rekommenderat beslut | [Gå vidare / Avvakta / Fortsätt med försiktighet] |
 
 ---
@@ -100,7 +100,7 @@ Extrahera från `predicted_indications[0].evidence.literature` och skapa tabell:
 
 ### Marknadsinformation Sverige
 
-Extrahera från `taiwan_regulatory.licenses` och skapa tabell:
+Extrahera från `local_regulatory.licenses` och skapa tabell:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
