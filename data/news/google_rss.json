@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-10-06T17:48:47.883658+00:00",
+  "fetched_at": "2026-10-06T22:12:58.141790+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
-    {
-      "id": "ee2fb5aa0553",
-      "title": "Nu börjar styrena trilla in – den som väntade sig en tydlig trend får fortsätta vänta - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQVlRM1VmeDFwWkRQaV9kdmdXaUJveGVkSzlad3NmWENmcmdLMkVwLUxVOUlocGdjWm1QRlg4N2J3ak5iWWppR0hyUDgxUG1EclVRSnJnTUdhMV9hTU9FT1VpQ180ZHp4Q3NxZUtIMmZOSDItdXJHUHBPeEFfNkx0ajVvZDBiWmdCQ2wzTWs5WjRqSnJvT2d2eHBpekxiN1A3aVJpN1FBX0hyMzZ4UERDSS01Q2VUSmNDZW9ReEoxU0U4aTlFZmJV?oc=5",
-      "published": "2026-10-06T03:32:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
     {
       "id": "62fcf2f84e32",
       "title": "Nya regler ska öka patienters tillgång till fler läkemedel - Svensk Farmaci",
@@ -24,6 +14,16 @@
       }
     },
     {
+      "id": "0ea854e903cf",
+      "title": "Patient död till följd av läkemedelsförväxlingen på Karolinska - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa1llZ05uUm1IVFZlOEZ5Mi10UUJaWWViUmJ2M3lZQlNyQkVsXy01b2tlRnZ4dzJpcWlDVDlUQ25EMTlYVFQzTXRPTUdzdjEtekk3d292ZHR2YkF2N0lPbjhVRnlzaWxKem9PaHJjaHZXUm9wLXg0WTRENVRNZzd5MVQyUURQWVh2NG1iZXlNbGxzeWQ2RVpUZVdRWVdMMG9neDhvcjBEUnhTUVpQSXVJLTVjWHl6VmNNaGhqcU5iREVsMjg?oc=5",
+      "published": "2026-10-06T02:52:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "c6238d8e2f42",
       "title": "Ny studie: Så kan antidepressiva påverka vikt och hälsa - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdzRzLVZobFNsZGtFQ2xLbi1JN1lQYkhGTmxXQ2p4WldRbGxJQ2pqcXpZMUpJdlhadzlaZDdsajhLb1FIX3N1emdGMTB0QzJxaTNZQjU0aUNZTGZYTTJaTV9XQ0NjbmVkcHZqM2FiekwtRHJRZ1YxRm4wRDJqNjNFRm1FUk5TWFdxWHNMSnJyYw?oc=5",
@@ -31,6 +31,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "c4d0edf91847",
+      "title": "Nya riktlinjer för behandling av schizofreni betonar patientinflytande och individanpassning - Via TT",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNX0NKX1FMbW1lMUswWE1BTnI5eE9uOWNHSGhBcjVtZWRvQmFRa1NxUVVJajE2dFZ4VHFIYjMyR1FTM0p0MWxGSDRGRWJlbC1CNk0yb25FMUtJVWRPb1hYTmxUMHdBQURJMU5QM0RWWm9OMjNUXzVBSlg5Y3lReFJUT2ZqUG9aZlB4R0pCRFQ5THhtOVVYWHU5dlVHcnFCaFZuRzdydnNBMEVEVXpPWXdqdHVYdWNwaUllUXZIOTR2MzIxaHBBTmtGMXd3ZHc0ZmxLMWpWaF9tU0xpemE4Uzc0MGxiajJabWVQMHhnVXFydVVrU3M1?oc=5",
+      "published": "2026-10-05T05:58:00+00:00",
+      "source": {
+        "name": "Via TT",
+        "url": "https://via.tt.se"
       }
     },
     {
@@ -54,16 +64,6 @@
       }
     },
     {
-      "id": "2325e04bc9b0",
-      "title": "Läkare larmar: Hormonläkemedel kan försätta små barn i puberteten - Dagens Nyheter",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM3RYdXZ3TFpKTHgzV3RHMmFhd1RYSk1KTmQ3c0VPQ3d4eDEzM1h3S1J1MGlPd29kcHV6bGl6cWpOU2hPUDFhM3dRbE9FczlFZTRUeWVyb3oxZGtVbGg2al9CbjdWaENhc21TbEtTUzY3UWtORm9aX0VSUWNJangwdzZYSTFOX0J0UTBDRnZ2cWgtcjU2WVE?oc=5",
-      "published": "2026-10-05T19:34:14+00:00",
-      "source": {
-        "name": "Dagens Nyheter",
-        "url": "https://www.dn.se"
-      }
-    },
-    {
       "id": "6971eceb3830",
       "title": "Novo sänker priset på Wegovy® med 20 procent - Mynewsdesk",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObHBmekhrbENDMEV0aXNZaC1ic29oNl85NUFCRGpTUFVOYkMtd3JGV1JhMVJvRDNmQkowRkF2eXJuZlVjaGhxbnFGdXlSalRldXdpajBTaVhGTDYwaHptaV9JUW5ZNXg4R1B5MElqSDRmSUxCVmxjQTNURTVYTXgxRnNENDBKNzVmcmxrd3JBM0cxY01iWmp6Zy1kOEFLOVZFTUhMc1JtekV3QXl0SWx0bV8tb0taeTY3eUx1SHFKWU45Zw?oc=5",
@@ -74,6 +74,16 @@
       }
     },
     {
+      "id": "2325e04bc9b0",
+      "title": "Läkare larmar: Hormonläkemedel kan försätta små barn i puberteten - Dagens Nyheter",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM3RYdXZ3TFpKTHgzV3RHMmFhd1RYSk1KTmQ3c0VPQ3d4eDEzM1h3S1J1MGlPd29kcHV6bGl6cWpOU2hPUDFhM3dRbE9FczlFZTRUeWVyb3oxZGtVbGg2al9CbjdWaENhc21TbEtTUzY3UWtORm9aX0VSUWNJangwdzZYSTFOX0J0UTBDRnZ2cWgtcjU2WVE?oc=5",
+      "published": "2026-10-05T19:34:14+00:00",
+      "source": {
+        "name": "Dagens Nyheter",
+        "url": "https://www.dn.se"
+      }
+    },
+    {
       "id": "c19d4b4917a7",
       "title": "Astmaläkaren: Kolla det här innan ditt barn får starkare medicin - Metro Mode",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOHZoUXk5dlI5OV90TWFLQjFOLUFicEVGVm5WUDd2STdLRWZtSl9LenRNOGlqbC1ZeVJoLVlNQmRqMW1tZS03UVVCbExGZ1RMMUpnZlhHNzNUOW5MZlJncGF1Ukdnd1dxcDFJbnFoU2RwNGN0eDU0RlJoVm5hM05SNk5SODljQVFmb0puV3J1eWVyNEJpTHc?oc=5",
@@ -81,16 +91,6 @@
       "source": {
         "name": "Metro Mode",
         "url": "https://metromode.se"
-      }
-    },
-    {
-      "id": "2d598d287fe0",
-      "title": "Apotek och vård övar för bättre beredskap | Läkemedelsverket - Via TT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNektkM3dHMDJWcjZpOHZWWExzWExpMVVBdnEtYm0tUGVKRVM5QnJhNkJ2VWhEb1ZjekFjUjJhMjRoR1pmR1Y1VENROG13bmY2c3dIcjZWZHg4bUlablRKbXZhRks3OWdVbXpKM2xpYUhBcEVkdDNiWWkzUDhScHdsQXFWZVNwMnNRcXBJSWx4TVlIYUd4Q3oxYzRDRjY1ejJxT1NLZVFxZ1FLWW1kWlVMVQ?oc=5",
-      "published": "2026-09-24T07:00:00+00:00",
-      "source": {
-        "name": "Via TT",
-        "url": "https://via.tt.se"
       }
     },
     {
@@ -124,6 +124,16 @@
       }
     },
     {
+      "id": "2d598d287fe0",
+      "title": "Apotek och vård övar för bättre beredskap | Läkemedelsverket - Via TT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNektkM3dHMDJWcjZpOHZWWExzWExpMVVBdnEtYm0tUGVKRVM5QnJhNkJ2VWhEb1ZjekFjUjJhMjRoR1pmR1Y1VENROG13bmY2c3dIcjZWZHg4bUlablRKbXZhRks3OWdVbXpKM2xpYUhBcEVkdDNiWWkzUDhScHdsQXFWZVNwMnNRcXBJSWx4TVlIYUd4Q3oxYzRDRjY1ejJxT1NLZVFxZ1FLWW1kWlVMVQ?oc=5",
+      "published": "2026-09-24T07:00:00+00:00",
+      "source": {
+        "name": "Via TT",
+        "url": "https://via.tt.se"
+      }
+    },
+    {
       "id": "3dfc64d5d93f",
       "title": "NY STUDIE: Hjälpte vid svår depression - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2hyUXJiX3pNdjBraWVNckZXcTcyT1lLdGUzZDdZZnc2RWtvSmV0cGg0cHRQTnFpQ2VIamw0U0NSNTFxemFYU29JQzVMNnVXU2ljVkNObThxX01LTTFPNFI0Z0RGQkJOOGlZV1hybXNZMmk5WDhLNFBGUUpIT05tQTJOMjRRazRvSkpRRnhpUnptQQ?oc=5",
@@ -134,10 +144,10 @@
       }
     },
     {
-      "id": "6e3fa65d9968",
-      "title": "EU: Medlemsländerna antar läkemedelspaketet - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVXVlN3BJVFhNSjZRRHg4YjFSd3haUzlfNFNmaWtlaUtRZGVwb3hXdElkb1paeDJ3S0lVMERBaExfSFpmZ2xOQWpvMnpHcXRiYVJkZ2R6WHpVRzFSVmh5d0VtMkZlLW9nbGd3WlZiTHhVXzYxamZRX0h4SVFaZUtwYjNqaS0tX0g4cWpzT09TSF8zRXJwZllWNUxJbw?oc=5",
-      "published": "2026-10-02T03:53:00+00:00",
+      "id": "300d6a9d7500",
+      "title": "Här ändrar gravida sina insulindoser på egen hand - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGFVU205ckw2UEpVZWdUYkJtbHFfeVdLSVA5bDZCQmpEN3pHNzh1cU5ueTdDSEJjMmx4MWVTeVMtclpKUkpfQ3NQcm9FbFA1blVNRlNxbHYtYTFWZE13dS1HZl9CNi1KSzRwNjhFMTJETnVDenVfT2pxQTV1bzlKd29RSV9vcEZaX1JDSGNwZVBodW1MT1hncXppYzJrNVJ5bThfRUI5aHQ3NHgwekE?oc=5",
+      "published": "2026-10-04T19:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -154,10 +164,10 @@
       }
     },
     {
-      "id": "7c0d3540a860",
-      "title": "Vätskedrivare får subvention vid hjärtsvikt - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaVhjbG9jMkxrN0RheExwNjdoWEdWR1BORnFnOFJUTDdaUExnNUw4Tk5CbTZqLWJNaUlheXItNkY1ZEVqajJsSlh4S0wxX0N2aVNVMkZrSk5COXZER2pwWjcyNHhWdWtLSC0tS3JKbEhkNER0Y2pzdTJQakVkcW9NSUJURlB0TFg4MGJuaklNV19xN3F0X2QwVkhaSUE1R3o1RjV1bkhn?oc=5",
-      "published": "2026-10-05T01:07:00+00:00",
+      "id": "7d2364863e12",
+      "title": "Wegovytabletter börjar säljas i Sverige - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMnZsOG9DN3phZU5EOXllemtiblJ6Z3RuUzJKTWtvMWFYcjdnc3VhTFJaWUtvbXBBYlNldWg2RVo2ZE9jN1hTNjdCZFZnUGptZWZ4VGhwZWlkNmtLSEtzTDkxTGI3UzIzT1dyd1hHMkZhNjdZUWhHSjZ5RFdpMmxmMkFPRHQtcTllNW5ySE1LaVlOcnBZZnU4?oc=5",
+      "published": "2026-10-02T03:39:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -171,26 +181,6 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
-      }
-    },
-    {
-      "id": "300d6a9d7500",
-      "title": "Här ändrar gravida sina insulindoser på egen hand - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGFVU205ckw2UEpVZWdUYkJtbHFfeVdLSVA5bDZCQmpEN3pHNzh1cU5ueTdDSEJjMmx4MWVTeVMtclpKUkpfQ3NQcm9FbFA1blVNRlNxbHYtYTFWZE13dS1HZl9CNi1KSzRwNjhFMTJETnVDenVfT2pxQTV1bzlKd29RSV9vcEZaX1JDSGNwZVBodW1MT1hncXppYzJrNVJ5bThfRUI5aHQ3NHgwekE?oc=5",
-      "published": "2026-10-04T19:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "7d2364863e12",
-      "title": "Wegovytabletter börjar säljas i Sverige - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMnZsOG9DN3phZU5EOXllemtiblJ6Z3RuUzJKTWtvMWFYcjdnc3VhTFJaWUtvbXBBYlNldWg2RVo2ZE9jN1hTNjdCZFZnUGptZWZ4VGhwZWlkNmtLSEtzTDkxTGI3UzIzT1dyd1hHMkZhNjdZUWhHSjZ5RFdpMmxmMkFPRHQtcTllNW5ySE1LaVlOcnBZZnU4?oc=5",
-      "published": "2026-10-02T03:39:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -234,6 +224,16 @@
       }
     },
     {
+      "id": "6829d8bfcdee",
+      "title": "Inte bättre glukoskontroll med diabetespsykologer - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ3R6cUItQTU2U0tiX3JlQ2Q5OFZkU3dCeEpJM0VUdkV1VnpFcFVCTVFnVWZlcktKWjZiVG9tckkwUTBhdEs4Mm10TlB3Q18yRXZLblBhNXc3NlZyam43U3pWNzNLN2FmeHlQcllSRWhIN29nZ0tKeW5pcVZac0QzSXJaX3hmTk16ZXRHMEVNR2RXS29udHdiWUhuM0E5T0dTaFItaXhIVUxmZw?oc=5",
+      "published": "2026-10-02T02:56:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "6795a4d78261",
       "title": "Högavlönade patienter fick dyrare diabetesläkemedel - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEJxdC1NdWcyZlJVMFRoVjl3c250am94R0RsVEJwOXNwNkhReGZEMDdKejVlenZMUTVfQ1BVQWFWSXJQVmtiamRMOW03SmtQc0huZUlwc0RHdmtaQy1ZZVFtYlVEN0ZUX1EzNVg0STJoOC1LLUtaaFB2QUpiR2xRdC1SQTA1S2NSNUhtdnZ5SU80blJKVk9IbzZQR1lJUm5sb0NYVUk4TlFOTTZP?oc=5",
@@ -248,16 +248,6 @@
       "title": "Framgång för screening som hittar förstadier till typ 1-diabetes - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXUwa2VJcENQX3NmQzFzMXJZN1hTSFNNSTRWQVFuaFZNdnh5eTNZOFpQN2VpMVJzNzhIQUdtalJ6Mkd2QjhfQWVNeENfRVRsMk5pZXhycXV4RXl2MUZoZXFVMVZNSmc5QXpxTGc0ZV9GdXpaTHBZMWhRUWlRY3ZoTG5hb1VHN1E0T1pySUs5aDJta1pDN1lyU2R6TDRVbk9TRjNmV1h5WnlZeWZmSnk2QjZTMmJjQ0lTUllRU01n?oc=5",
       "published": "2026-10-01T13:01:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "0963f776ec34",
-      "title": "Novo sänker priset på Wegovy i Sverige - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUVVOZ0FCLTRITEZXcXI4OHY2QlVKUG5zU2VFaGRVUWtCWk56Z2ZIMUs4WWFELVFSQTFkMUwzZ2g4dUNLX085MVRha29qNVdZNHlzczhrTS11ckFIT1dUTVZTZVFyRmdnNHU5YU5Ock1TM3RIRU1meFg5aXlkRl9hdlltNE9rNEFqZ3JGQ3NCWmlIU0U4ZHc?oc=5",
-      "published": "2026-09-30T20:53:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -314,13 +304,23 @@
       }
     },
     {
-      "id": "27b8b8df3206",
-      "title": "Nu kan din läkare skriva ut musik eller film på recept - HD",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWdlSDJkZnpZTGxMN0syMmdZRkx3NURaeHIzeWtyLWNwLWZ6VWJ0WmF3QjdZcF82bUpYN1BDOGFuRUwxV191c0ZZazFxQmZBdlluc3BtOVFMNjlpQVVPdjZqWS1LSW1VN2lyWjlOY1RSVTZsNzBwVFNLUHdtNVhxa2ZCNGJkQ2tnSEhB?oc=5",
-      "published": "2026-10-01T14:00:00+00:00",
+      "id": "0963f776ec34",
+      "title": "Novo sänker priset på Wegovy i Sverige - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUVVOZ0FCLTRITEZXcXI4OHY2QlVKUG5zU2VFaGRVUWtCWk56Z2ZIMUs4WWFELVFSQTFkMUwzZ2g4dUNLX085MVRha29qNVdZNHlzczhrTS11ckFIT1dUTVZTZVFyRmdnNHU5YU5Ock1TM3RIRU1meFg5aXlkRl9hdlltNE9rNEFqZ3JGQ3NCWmlIU0U4ZHc?oc=5",
+      "published": "2026-09-30T20:53:00+00:00",
       "source": {
-        "name": "HD",
-        "url": "https://www.hd.se"
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "84bbca86d348",
+      "title": "Dapagliflozin brädade inte metformin i stor studie - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZEpwVEdfek5jeEZUSEhGNTJ5VFlTNGw1MTVqdWRfWWxZTEhLOTZxVnZSbnFwbDRwNnE2WkdnT0ozMkdTdDlacjZkV2ZaSEFMWnptWXphV05UaS14QS1ielM2anROcUtzVGx6cUI2Wnk0RXZwejRtb2xyWF81NGtpUmZkbXRSVVU5c3dqNElkVENoU0xIR2ltYjhZay1LSmExQWpqdWt2ekl0dU0?oc=5",
+      "published": "2026-10-01T03:56:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -334,6 +334,16 @@
       }
     },
     {
+      "id": "27b8b8df3206",
+      "title": "Nu kan din läkare skriva ut musik eller film på recept - HD",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWdlSDJkZnpZTGxMN0syMmdZRkx3NURaeHIzeWtyLWNwLWZ6VWJ0WmF3QjdZcF82bUpYN1BDOGFuRUwxV191c0ZZazFxQmZBdlluc3BtOVFMNjlpQVVPdjZqWS1LSW1VN2lyWjlOY1RSVTZsNzBwVFNLUHdtNVhxa2ZCNGJkQ2tnSEhB?oc=5",
+      "published": "2026-10-01T14:00:00+00:00",
+      "source": {
+        "name": "HD",
+        "url": "https://www.hd.se"
+      }
+    },
+    {
       "id": "c4e98ceae663",
       "title": "Nya hoppet för alzheimersjuka – läkemedel kan snart finnas i Sverige - News55",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGtXNDBNYklLZzc1Und0SnROVV9qTXVQbThCa01EM08tVGtTZE1tRU9DUGtFWGVhTkZLa1c0SW1EZ3YtcTZRNFFhTlNlRHFNal9WOXoxdE13OFhDc0dSNG43QTNLS3Q1WmZYWGNrTEo0a1VEOHNsTVdCYV9mU0JkRk5Gc0JQeXJaZEVSeEN5OW1HdGRnTllkazJzQQ?oc=5",
@@ -344,13 +354,23 @@
       }
     },
     {
-      "id": "367b37dff5f1",
-      "title": "Fler småpojkar får adhd-medicin - Vasabladet",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qWDljb05GdHM2LU1LdzV6NWQ3QmpNeDN4SEx1WlVmOG1yMVJZTjR0WjZMMWpvR3lkNDY0QlMzdURKNG15ckxUWS15cHpHYTVic2tUOWZUUUttbDByVUYzU3lfa1NNd21sUmNDWUNsRnJEdw?oc=5",
-      "published": "2026-10-05T03:00:00+00:00",
+      "id": "4782f76db696",
+      "title": "Enkla knepet vid förkylning – gav färre sjukdagar och mindre antibiotika - Metro Mode",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUU51Qy1KZkUwcGdMbDh3ZWd3d2dfUU1pOEJ3aTVuLWlMSXdpS1duZHE3Tnk2Z0tVa3FsdlZvVlJtV3Fma0lGU29IOEY4Ry1BQ2xLWW95RDZ4YklNc3ZQYXBpcldVZm15MzlqazZUc0JxRXN2ajNvN3d2TjBtYVF5TEpLakxFVFd1Nkl1VGozRXpXMEZKMEg0QVFxSkhncjA?oc=5",
+      "published": "2026-10-04T11:02:00+00:00",
       "source": {
-        "name": "Vasabladet",
-        "url": "https://www.vasabladet.fi"
+        "name": "Metro Mode",
+        "url": "https://metromode.se"
+      }
+    },
+    {
+      "id": "16a9379191d6",
+      "title": "TLV: Nya läkemedel driver ökade kostnader - Altinget.se",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV2xZdE5Fakdudlk0V3hrMm5SSV9aVWFEOC1jR2JuZEFESVltaEJSN05DNm53UDJ5dUdsa3B6Z1FpY0hpbVlPU3AxOXZra1RHMVZyWmJvVXZOdWY1ZHFCU2hudE1GYW9TLTVieGMzN2FmbFc4RVotaW5GSU51V1N6Y1Z4bw?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "source": {
+        "name": "Altinget.se",
+        "url": "https://www.altinget.se"
       }
     },
     {
@@ -361,6 +381,16 @@
       "source": {
         "name": "LäkemedelsVärlden",
         "url": "https://www.lakemedelsvarlden.se"
+      }
+    },
+    {
+      "id": "367b37dff5f1",
+      "title": "Fler småpojkar får adhd-medicin - Vasabladet",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qWDljb05GdHM2LU1LdzV6NWQ3QmpNeDN4SEx1WlVmOG1yMVJZTjR0WjZMMWpvR3lkNDY0QlMzdURKNG15ckxUWS15cHpHYTVic2tUOWZUUUttbDByVUYzU3lfa1NNd21sUmNDWUNsRnJEdw?oc=5",
+      "published": "2026-10-05T03:00:00+00:00",
+      "source": {
+        "name": "Vasabladet",
+        "url": "https://www.vasabladet.fi"
       }
     },
     {
@@ -381,16 +411,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "ad9856571ea6",
-      "title": "Semaglutid i tablett gav samma viktminskning som i penna - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmExOWVMNXR6d2pqM21ieHJ1SkpMeThsYjNuaGlxYTFnMHVFNlliVjB1WmhGdjFMLWl1aGhGVWdrWWxmUnlTZWNDRWZ1aVk0Q1UxeUwtMlk4OF9TenZxQ01wVGgxWTdfRjF4QzIxOUZSZWVDckFCcXM2S0MtaEJuMVFJQTZ2OVhWUTY0SE55ZmhfNW9rNDFEVTNfend6c2dNN282WW9XU0VXQ3c1akE?oc=5",
-      "published": "2026-09-30T00:45:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -424,16 +444,6 @@
       }
     },
     {
-      "id": "a9e0392ed150",
-      "title": "”Fallprevention får inte reduceras till årliga kampanjer” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPajlFNkNEeEZSdGpFWWRFTmZQbnp3eHl6XzRvbGZWcWpBQlBWeG1Tem85d0xseG5vRlRWN2Y4RnFJRmw0eDZmNExHUlBneGFLb29pY1ZOc0lXbURlNVI3c2JrUmdjR0l0X3drOEoyVW1JTThlSTlRODJkXzhYTUVFUUJ5dDNDVktmb0czb1FFWXVtQ0MtcDh6aW1NWWZFQ1BwQkE?oc=5",
-      "published": "2026-09-28T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "b839bf00c97e",
       "title": "”När politiska budskap påverkar hälsa och tillgång till läkemedel” - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW9FaGZQZmRZbUp2WDFsX3dkRFQ1Q1R0UHlhTGlIREc4LUpDT05Od1h2SUhieFh3aWUxUnFjTXYwNGZBWFJkdENQTTVmbWZTR0tkSEZ4eUZZUlBaa24yVFdvd1dMS2dmZVJLMjlLOWNfUmprNGJvZDVTaGpYZEVETXFPcnhVR3A3LXNVWGlZeDE5dDFMTEdpWHliUHkwSUJuTzhxS1prN2I?oc=5",
@@ -441,6 +451,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "a9e0392ed150",
+      "title": "”Fallprevention får inte reduceras till årliga kampanjer” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPajlFNkNEeEZSdGpFWWRFTmZQbnp3eHl6XzRvbGZWcWpBQlBWeG1Tem85d0xseG5vRlRWN2Y4RnFJRmw0eDZmNExHUlBneGFLb29pY1ZOc0lXbURlNVI3c2JrUmdjR0l0X3drOEoyVW1JTThlSTlRODJkXzhYTUVFUUJ5dDNDVktmb0czb1FFWXVtQ0MtcDh6aW1NWWZFQ1BwQkE?oc=5",
+      "published": "2026-09-28T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -484,30 +504,20 @@
       }
     },
     {
+      "id": "ad9856571ea6",
+      "title": "Semaglutid i tablett gav samma viktminskning som i penna - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmExOWVMNXR6d2pqM21ieHJ1SkpMeThsYjNuaGlxYTFnMHVFNlliVjB1WmhGdjFMLWl1aGhGVWdrWWxmUnlTZWNDRWZ1aVk0Q1UxeUwtMlk4OF9TenZxQ01wVGgxWTdfRjF4QzIxOUZSZWVDckFCcXM2S0MtaEJuMVFJQTZ2OVhWUTY0SE55ZmhfNW9rNDFEVTNfend6c2dNN282WW9XU0VXQ3c1akE?oc=5",
+      "published": "2026-09-30T00:45:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "abb252db4280",
       "title": "”Sverige behöver ett nationellt centrum för samisk hälsa” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQazdkdlFmaFVia0hoSnp1Tmt3TFNqMzZiNXYzRkZESWRBLVBselhkeXZkVDAyUmNYZ1NXWXFOQ3VxX2xoNW1pQVR2T3QtY0RpUDFiamxnbFd3dFF1NGxWcHdyRUZndGJKSXQtWHRaaWdJQk5pdVhFUTg3bWRxcDY2UzVYWjV6YzN2YTFFX1RyV1hsd2dCOUI0YW8xazJtbklwUGc?oc=5",
       "published": "2026-09-02T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "cf1507fe0394",
-      "title": "Toppresultat för retatrutid vid typ 2-diabetes - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHBWTGszVzk4RFRDMG40cVJQVHQzWDluN1VRcXM2T0RVSTM5MTd2ZXJrWkxha3JLZTE1UmMwZkdjS2l3V0lyOXRoazY0N2V1OE15ZnhkanVnN1NVUl80YlRWbS1aVGlHSGJMNWt4dUFISU5QNTRaX1JFTndaN3lvZEctZTZUSWkzTDVweDBpdTRmdXJpN09MQWJENFlabzJ1aTlVVDVB?oc=5",
-      "published": "2026-09-30T05:42:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "b0a2381f5374",
-      "title": "”Digitala vårdkontakter ska inte särbehandlas” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWXA2S1hYdnJITFlETm9uMHJId3BJMm0wSHBzVnhESTV1RjR5N0FTck9BSkxtRjhwTzU3ZEZXb29sY1RfVGY3VlNIY2NLUUdxbkY5dUxuNFVaN2ZJNkJacmlFdzBiaEpRRDVhS2hPTjZYMWVxNmIydXg0Y3ZRRmhkdVAwWnlaNHdKdnF4RHhXVWtPb2c?oc=5",
-      "published": "2026-09-29T18:30:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -521,16 +531,6 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
-      }
-    },
-    {
-      "id": "a18b9040c8a2",
-      "title": "Allt fler småpojkar börjar ta adhd-medicin - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBNSTFDMGlZMnh3cnRDUGlpMENtSmhHQ3VtckprZW5VU1RFQnJTclNWZXJCTE50VmhGTGYtVXdiWXY?oc=5",
-      "published": "2026-10-05T03:13:20+00:00",
-      "source": {
-        "name": "Yle",
-        "url": "https://yle.fi"
       }
     },
     {
@@ -554,6 +554,16 @@
       }
     },
     {
+      "id": "a18b9040c8a2",
+      "title": "Allt fler småpojkar börjar ta adhd-medicin - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBNSTFDMGlZMnh3cnRDUGlpMENtSmhHQ3VtckprZW5VU1RFQnJTclNWZXJCTE50VmhGTGYtVXdiWXY?oc=5",
+      "published": "2026-10-05T03:13:20+00:00",
+      "source": {
+        "name": "Yle",
+        "url": "https://yle.fi"
+      }
+    },
+    {
       "id": "6b73276ee7b7",
       "title": "Så får du hjälp att minska läkemedelsdosen - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJWkJHLWxXZ0Q5MElfY3NDdXVRd3NId1hkNnNVNV94QzdLUkJWanoxUk1HQmJMUFVkU2RhU0UyWkQyWG9RQjA5bThvdmxXSThfLU9IMUJTRWY4R1BwbmFzOUY2ZC1oSmhEbUlfOXVHaGNKV3JONFFj?oc=5",
@@ -561,6 +571,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "cf1507fe0394",
+      "title": "Toppresultat för retatrutid vid typ 2-diabetes - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHBWTGszVzk4RFRDMG40cVJQVHQzWDluN1VRcXM2T0RVSTM5MTd2ZXJrWkxha3JLZTE1UmMwZkdjS2l3V0lyOXRoazY0N2V1OE15ZnhkanVnN1NVUl80YlRWbS1aVGlHSGJMNWt4dUFISU5QNTRaX1JFTndaN3lvZEctZTZUSWkzTDVweDBpdTRmdXJpN09MQWJENFlabzJ1aTlVVDVB?oc=5",
+      "published": "2026-09-30T05:42:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -624,16 +644,6 @@
       }
     },
     {
-      "id": "46ea837f5393",
-      "title": "Finlands nya FinTrials-modell försnabbar de kliniska prövningarna med läkemedel och medicintekniska produkter - Valtioneuvosto",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzcxS0ZmaFJXMXVBa1RRc3NTclZXZ1U0dEVIZGxON09Wb0hPcnJBeEZZYmZyT0x4eEJwaVQtTHJKdnZPVHczRkhKeElST18zalVpal9WNWlSRE90c3F1M2ZXd255RGxvcjRkaHNpOXJhT2RuVFZ6dGNZcVhaRGJoZ21ITVdIQTZmZzUtQzVBT244bVhGeGhWSkVDdlBRS1pmZjBEb3p1VVlTSURoRnFXVy1wTE1pZXpUeVJSRGZGM293UmNCaXpHcl9ITXc0eWFoYzRfQkNKa0JNV2ZNRjhyYm53?oc=5",
-      "published": "2026-06-09T07:00:00+00:00",
-      "source": {
-        "name": "Valtioneuvosto",
-        "url": "https://valtioneuvosto.fi"
-      }
-    },
-    {
       "id": "aa157442b8ca",
       "title": "Nya läkemedel införs i Västra Götalandsregionen – satsning på cancerbehandling och sällsynta sjukdomar - Via TT",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSXZQbHI2U0hRVXJERkVMbEI3X2NlR0VOTWUtWkZoQk4wdDZHSjBOQndndEdOeXZpUU15UXNNWHU5QUJIeWE1OHphM2pnLW54aEtFaU1nMWJYVmVJTHN4bmRjQ2dGVVR5d3RwU2YtSDEzcmJrQll4Ym1leGRLUFJGeUJhdjJQUDE2WTY0U2J1ZHIxaDNSaWJQMXU2WjlMQjhuaW5YM0tTVEpERTh0SGxwd3hyZkVndzQzZ1o4d0NXYkdJeHFnbjByVTdadDY2U3F6Q0txVERBYTFyc2NsVTQ5dFd4cmtsR29sSnJTeGhQMlhqRDdWb2xseTNmVVpNMkU?oc=5",
@@ -641,6 +651,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "46ea837f5393",
+      "title": "Finlands nya FinTrials-modell försnabbar de kliniska prövningarna med läkemedel och medicintekniska produkter - Valtioneuvosto",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzcxS0ZmaFJXMXVBa1RRc3NTclZXZ1U0dEVIZGxON09Wb0hPcnJBeEZZYmZyT0x4eEJwaVQtTHJKdnZPVHczRkhKeElST18zalVpal9WNWlSRE90c3F1M2ZXd255RGxvcjRkaHNpOXJhT2RuVFZ6dGNZcVhaRGJoZ21ITVdIQTZmZzUtQzVBT244bVhGeGhWSkVDdlBRS1pmZjBEb3p1VVlTSURoRnFXVy1wTE1pZXpUeVJSRGZGM293UmNCaXpHcl9ITXc0eWFoYzRfQkNKa0JNV2ZNRjhyYm53?oc=5",
+      "published": "2026-06-09T07:00:00+00:00",
+      "source": {
+        "name": "Valtioneuvosto",
+        "url": "https://valtioneuvosto.fi"
       }
     },
     {
@@ -674,16 +694,6 @@
       }
     },
     {
-      "id": "52175fb825c8",
-      "title": "Kostnadsfria läkarundersökningar och medicinering för kvinnor i svåra omständigheter. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUNMM2t4ZkFqdlRRUGdKczRsUzVOQjlSczBndERXTWw5MUtic1k4UGo5ell6ME1kRmhUcGdFLUtsVE14bjEwVk1tdXphZWtlMUg2a0xoNk9YU1Q5OWRfdUt6NG5aYUljVDlNc1VSZGduZnRrMGpCRk96SnZSVG1WZ0dUcVBIb2hIRWtVUTE5azI4QlhrUkE?oc=5",
-      "published": "2026-10-03T06:04:28+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "7d420bd903cc",
       "title": "LISTA: Läkemedlen som kan göra dig sjuk - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRFN4eVYwNFY1UU9ucEhRU2dmWGtFSzRUTHZsSUtibzlSanJZRHR1dVdHaGhFdG5yZE1ObDJRUWlXZy1uOXVpNkphMlZ0S21QaFpzTlBCQ1Q1M2J0Y0hqSXNiNW5fbzYtM0lwakJ3dlRQTG5DUWo5c2Y2VG5QU096YlMxTmQxejVyNFlv?oc=5",
@@ -714,6 +724,16 @@
       }
     },
     {
+      "id": "52175fb825c8",
+      "title": "Kostnadsfria läkarundersökningar och medicinering för kvinnor i svåra omständigheter. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUNMM2t4ZkFqdlRRUGdKczRsUzVOQjlSczBndERXTWw5MUtic1k4UGo5ell6ME1kRmhUcGdFLUtsVE14bjEwVk1tdXphZWtlMUg2a0xoNk9YU1Q5OWRfdUt6NG5aYUljVDlNc1VSZGduZnRrMGpCRk96SnZSVG1WZ0dUcVBIb2hIRWtVUTE5azI4QlhrUkE?oc=5",
+      "published": "2026-10-03T06:04:28+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
       "id": "1f5a23dff353",
       "title": "Diabetesläkemedlet Ozempic kopplas till bättre psykisk hälsa | Karolinska Institutet - Via TT",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX2VTa1h6U2IwQjhLRDgteHFNQXV4M2dOdEJWb3pSencwMHFXRjY3Uy1uR2c4WHZEWDJFcWtoQjVFTTc3WXpoTkVXLTBCeVZVc1pHODBGajhDRzhLMVkyZDA5WThUNHJqYWdpdFlZeVdSdXZpMFplRHJBUndIaVE4Ul9fZmkxNlpfa244OEZybW9VdFNob2phTUk1Tmt0cWJlWXNRZ1FZQlJyQm1nSXBtTlJjUlFkS1dCWTM0Y1ZVSVlEellKUG9ETlh3?oc=5",
@@ -724,16 +744,6 @@
       }
     },
     {
-      "id": "34853bd1626a",
-      "title": "Epilepsimedicin gav 80 procent färre dagar med migrän - e55.se",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZDZfVVowellwUEs0UkwxMVFnVHdmcEYwa0JmSWZ1VlAzckVpcFlOeGU5emQ0QUFCdF9XbnRGT3dQMGkyOUhiV3AybllZSEFhYUF1NVV2cWh2NUxLNExkYmdCSUk5WVJzRG80aEV1SHVTZDZfWTVxc0lyTnhSRnVjRjRYU2pxUQ?oc=5",
-      "published": "2026-10-05T10:26:39+00:00",
-      "source": {
-        "name": "e55.se",
-        "url": "https://www.e55.se"
-      }
-    },
-    {
       "id": "c752533bd90c",
       "title": "TLV slopar begränsning av subvention för 27 läkemedel - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdk0tUUJiR0p0a0I0bjZkcXFCbHhJeEw5T2JRVU5LU081UnJJdE1LNmwxZHN6NGZiQ3p3VG82ZVhMM3RBLXBZZFhGUTF6Ym1kOGxlQjY1UnpyVl95bnhydmpJVk5oTFJKQWVzYm15Z0M0dDk5ck1UUzBPVC1HbmFqUi1JTXNpWkZXbEVvZzVSX2pNYVZSNmtaazhmVlY4em1iOWRxQ1J4bVIwQQ?oc=5",
@@ -741,6 +751,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "34853bd1626a",
+      "title": "Epilepsimedicin gav 80 procent färre dagar med migrän - e55.se",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZDZfVVowellwUEs0UkwxMVFnVHdmcEYwa0JmSWZ1VlAzckVpcFlOeGU5emQ0QUFCdF9XbnRGT3dQMGkyOUhiV3AybllZSEFhYUF1NVV2cWh2NUxLNExkYmdCSUk5WVJzRG80aEV1SHVTZDZfWTVxc0lyTnhSRnVjRjRYU2pxUQ?oc=5",
+      "published": "2026-10-05T10:26:39+00:00",
+      "source": {
+        "name": "e55.se",
+        "url": "https://www.e55.se"
       }
     },
     {
@@ -764,16 +784,6 @@
       }
     },
     {
-      "id": "8e646d54e9c9",
-      "title": "”Varför kan det vara bra att pausa GLP-1-agonister vid dehydrering?” - Janusinfo.se",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNXBZandqOV91UmFkRUNaTUVFZl9DOUN2aTVkbTlmeGRzY1FZZFNTTG1NMXhrWnF2cWZOSHFrR0s4MW5kMS1KREVtaDQ2cGh1Q1hPNkhDTjNEZlJudnFMdmZvRXpHSWdnYS1iNFFaLU9xcXB5Smo1YTNsdDIxZHdlRzhUZ1ZuUmpXQXlETVExdVdqUVVjWUhUZVVXSXdEaldhcG1wdlpKcG1jRmx1bERDeDdMSHllV1Zyb1F1UWl0aUxrRlNIUGFXUkl5MDU5WU42YzFCalg4dnhnd3hsN0lMSDhVb2trVTRI?oc=5",
-      "published": "2026-03-18T07:00:00+00:00",
-      "source": {
-        "name": "Janusinfo.se",
-        "url": "https://janusinfo.se"
-      }
-    },
-    {
       "id": "d1dd1f5554b2",
       "title": "TLV-rapport: Nya läkemedel driver upp kostnader – inte äldre befolkning - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSE9oSEFzQmtFNXR3U0tDZUtYTlhlakh0Wnp6OW41dDVCMkVuRjJGXzhZYkhXNmZDaWpYYkxKb3lNS2lrOVRGWmhHZEhTaUc0RWFqNXE3ZF9zRFVRZjFOeDQwM3RXQU5GS19hZnEyOFFYMkQ5UkFJYXFMb2hLbFBqUGF0QUtNSTRVMVpXaEwzM1cxYjh4Zk11bVR0cEVaaC1FS0xUV1ZCTU9QOFpfWlAtYUdwRFloblhEV05NVGR3?oc=5",
@@ -781,6 +791,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "8e646d54e9c9",
+      "title": "”Varför kan det vara bra att pausa GLP-1-agonister vid dehydrering?” - Janusinfo.se",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNXBZandqOV91UmFkRUNaTUVFZl9DOUN2aTVkbTlmeGRzY1FZZFNTTG1NMXhrWnF2cWZOSHFrR0s4MW5kMS1KREVtaDQ2cGh1Q1hPNkhDTjNEZlJudnFMdmZvRXpHSWdnYS1iNFFaLU9xcXB5Smo1YTNsdDIxZHdlRzhUZ1ZuUmpXQXlETVExdVdqUVVjWUhUZVVXSXdEaldhcG1wdlpKcG1jRmx1bERDeDdMSHllV1Zyb1F1UWl0aUxrRlNIUGFXUkl5MDU5WU42YzFCalg4dnhnd3hsN0lMSDhVb2trVTRI?oc=5",
+      "published": "2026-03-18T07:00:00+00:00",
+      "source": {
+        "name": "Janusinfo.se",
+        "url": "https://janusinfo.se"
       }
     },
     {
@@ -924,16 +944,6 @@
       }
     },
     {
-      "id": "b7f2f72b7be0",
-      "title": "”Att förbättra hälsa kräver mer än att utesluta sjukdom” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0pGQ3VOUlV2QUprNGNWZlpxSncwdUF1c2VlRzdRaGRqZkEwWXlLdHFrMkRaNGpzVXZoc1lpREVsR2gwa2RQNGNWUUNBenBzVC1henBYUlpaTjFhanFjNVJIaTlVV29CUnBORnIyeWd0cmd6VnJNZnBMaGtJbjBUd1VHeG13WHJzTGRHcHFiT3JrXzlTMEtvcXBGV3dGZEsx?oc=5",
-      "published": "2025-12-29T08:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "e4e6c4aee06f",
       "title": "Dödsfall misstänks ha koppling till fetmamedel - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDlIWGV4NDdYUGtFYzZULVltVG5pRnlMWmlvNmZiMkNOcnBKaElESmdQVEloOGwtc2diZ1pJcEdMUFZJNklhQ082eDdXMVFJeXMxODJqdDR5OF9XejZvTVBNclRBSzlLU3RkS19rbWRnS2hsZjNLcGhzQWxDTUphWWx1bVJzRVBjbWhmRnRoUHVsV0k1cktuWXRSU2NyVmcwSnhrZQ?oc=5",
@@ -944,10 +954,10 @@
       }
     },
     {
-      "id": "d6a866c68050",
-      "title": "Biverkningar av diabetes- och viktläkemedel toppar Läkemedelsverkets lista - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT01WeGlmc1h0SlBCNDZZMGFaVTV2bURKNUQ2TFNRdkN5aXd0aTVxR0JUX2d3NG5NU2NwekN1dWxJLXYyeE9BMzRxX00xTG12Z2QwZl8waDVXb1ZELTNUWTZoYzhVMGI5T25lQkVwVmFiYmhPbW1qbzNEYnJlWUY3RFI2elVLOG5zQnk4V1VmbjRENVVXLUIwcmZJYWVLSFMtVW9YV2UyekljRHdwckN6ZlVlUVp6QkswaUEzbmdmOE5kakhf?oc=5",
-      "published": "2026-04-27T07:00:00+00:00",
+      "id": "b7f2f72b7be0",
+      "title": "”Att förbättra hälsa kräver mer än att utesluta sjukdom” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0pGQ3VOUlV2QUprNGNWZlpxSncwdUF1c2VlRzdRaGRqZkEwWXlLdHFrMkRaNGpzVXZoc1lpREVsR2gwa2RQNGNWUUNBenBzVC1henBYUlpaTjFhanFjNVJIaTlVV29CUnBORnIyeWd0cmd6VnJNZnBMaGtJbjBUd1VHeG13WHJzTGRHcHFiT3JrXzlTMEtvcXBGV3dGZEsx?oc=5",
+      "published": "2025-12-29T08:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "7e6543845f39",
-      "title": "Vad vill Sverige? - Lif – de forskande läkemedelsföretagen",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWE5T3VPSjdPeUc3TnpQVWdRdV9DdGppSjdEajhyakZIcDc4SDFkVDlYcTItd25rdFJ3WFRDQWFtbU5vSklGS0VKYXpkSW1SZE4yWU9oMkRaYV92YWp4QWpzcGVQdHdZQlNuTlJDdENNclBrU3BQUmZCVWJ6blhqaGxSakxXbmJobks3Zg?oc=5",
-      "published": "2026-01-19T09:22:55+00:00",
-      "source": {
-        "name": "Lif – de forskande läkemedelsföretagen",
-        "url": "https://www.lif.se"
       }
     }
   ]
