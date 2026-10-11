@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Jag använder `txgnn-pipeline`-skillet för att förstå rapportens sammanhang, och genererar nu rapporten baserat på Evidence Pack. Eftersom `predicted_indications[0]` (classic stiff person syndrome) är L5/Hold utan stödjande evidens, och `predicted_indications[9]` (typ 1-diabetes mellitus) är L2 med 50 kliniska prövningar och 20 publikationer samt rekommendationen "Proceed with Guardrails", väljer jag att fokusera rapporten på den kliniskt meningsfulla toppkandidaten med faktisk evidens — typ 1-diabetes mellitus.
-
----
-
 # Vildagliptin: Från typ 2-diabetes till typ 1-diabetes mellitus
 
 ---

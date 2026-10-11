@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Skill kontrollerad – `txgnn-pipeline` gäller pipeline-hantering och träning, ej rapportgenerering. Rapportinstruktionerna är fullt specificerade i systempromptens v5. Jag genererar nu rapporten direkt baserat på Evidence Pack.
-
----
-
 # Gefitinib: Från icke-småcellig lungcancer till gingival fibromatos
 
 ## Sammanfattning

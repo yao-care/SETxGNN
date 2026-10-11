@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-Utmärkt – txgnn-pipeline-skillet är inläst och bekräftar att detta är ett Se (Sverige) TxGNN-projekt. Systemprompten innehåller den fullständiga rapportmallen (v5). Jag genererar nu rapporten direkt.
-
----
-
 # Digoxin: Från hjärtsvikt och förmaksflimmer till Prinzmetal-angina
 
 ## Sammanfattning

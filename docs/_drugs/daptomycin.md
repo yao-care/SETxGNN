@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Använder **txgnn-pipeline**-skillet som bekräftelse av arbetsflöde — genererar nu utvärderingsrapporten för SeTxGNN (Sverige) baserat på Evidence Pack v4 för Daptomycin.
-
----
-
 # Daptomycin: Från grampositiva bakterieinfektioner till artros
 
 ## Sammanfattning

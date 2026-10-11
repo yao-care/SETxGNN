@@ -29,10 +29,6 @@ Evidensnivå: **L2** | Förutsagda indikationer: **3** st
 
 </div>
 
-Med hjälp av `txgnn-pipeline`-skickligheten som bakgrund, genererar jag nu rapporten baserat på Evidence Pack JSON:
-
----
-
 # Zolmitriptan: Från migrän till migrän med hjärnstamsaura
 
 ## Sammanfattning

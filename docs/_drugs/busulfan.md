@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Jag använder `txgnn-pipeline`-skillet för att säkerställa korrekt rapportformat, och skriver nu rapporten baserat på Evidence Pack-data.
-
----
-
 # Busulfan: Från kronisk myeloisk leukemi till myelodysplastiskt syndrom
 
 ## Sammanfattning

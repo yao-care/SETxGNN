@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Jag använder `txgnn-pipeline`-skillet och producerar nu rapporten baserat på Evidence Pack JSON.
-
----
-
 # Hemin: Från akut hepatisk porfyri till trombocytopenisk purpura
 
 ## Sammanfattning

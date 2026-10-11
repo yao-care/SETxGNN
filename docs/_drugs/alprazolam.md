@@ -29,10 +29,6 @@ Evidensnivå: **L2** | Förutsagda indikationer: **3** st
 
 </div>
 
-Using `txgnn-pipeline` to orient the report context. Now generating the Swedish evaluation report based on the Evidence Pack.
-
----
-
 # Alprazolam: Från ångestsyndrom till insomnia
 
 ## Sammanfattning

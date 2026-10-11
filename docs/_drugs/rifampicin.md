@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Använder `txgnn-pipeline`-skillet för att vägleda rapportgenerering för TxGNN-läkemedelsåteranvändning. Nu genererar jag rapporten baserat på Evidence Pack JSON.
-
----
-
 # RIFAMPICIN: Från tuberkulos till konjunktivit
 
 ## Sammanfattning

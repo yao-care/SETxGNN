@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-Jag använder `txgnn-pipeline`-skillet som guide och genererar nu rapporten baserat på Evidence Pack-data.
-
----
-
 # Zanamivir: Från influensabehandling till pyelonefrit
 
 ## Sammanfattning

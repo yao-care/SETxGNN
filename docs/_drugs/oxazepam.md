@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-Använder **txgnn-pipeline** för att generera en strukturerad läkemedelsåteranvändningsrapport, och följer **Läkemedelsåteranvändning Utvärderingsrapport Prompt v5** för format och svenska sektionsrubriker.
-
----
-
 # Oxazepam: Från ångestbehandling till insomni
 
 ## Sammanfattning

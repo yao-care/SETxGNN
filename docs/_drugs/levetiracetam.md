@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Jag använder `txgnn-pipeline`-skillet för kontext. Nu genererar jag rapporten baserat på Evidence Pack-data.
-
----
-
 # Levetiracetam: Från epilepsi (partiella anfall) till visuell epilepsi
 
 ## Sammanfattning

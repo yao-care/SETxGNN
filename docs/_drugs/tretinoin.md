@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Med `txgnn-pipeline`-skillet laddat som vägledning, genererar jag nu rapporten baserat på Evidence Pack-data. Tretinoin (ATRA) är ett välkänt retinoid – jag använder etablerad farmakologi för att fylla luckor där `original_indications` och `original_moa` saknas i JSON:en.
-
----
-
 # Tretinoin: Från akne och akut promyelocytisk leukemi till reumatoid nodulos
 
 ## Sammanfattning

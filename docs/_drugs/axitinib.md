@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Använder `txgnn-pipeline` för kontexten. Nu genererar jag rapporten baserat på Evidence Pack.
-
----
-
 # Axitinib: Från njurcellscancer till RCC med Xp11.2-translokation/TFE3-genfusion
 
 ## Sammanfattning

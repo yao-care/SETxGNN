@@ -29,10 +29,6 @@ Evidensnivå: **L2** | Förutsagda indikationer: **10** st
 
 </div>
 
-Jag använder **txgnn-pipeline**-skillet för att kontextualisera arbetsflödet. Uppgiften är att generera en fullständig utvärderingsrapport på svenska baserat på det angivna Evidence Pack. Jag går nu vidare och producerar rapporten direkt.
-
----
-
 # Latanoprost: Från öppenvinkelglaukom till primärt hereditärt glaukom
 
 ---

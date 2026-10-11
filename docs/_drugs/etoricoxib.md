@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Jag har hämtat `txgnn-pipeline`-skillet för kontext. Nu genererar jag rapporten baserat på Evidence Pack för ETORICOXIB.
-
----
-
 # Etoricoxib: Från muskuloskeletal smärta till migrän
 
 ---

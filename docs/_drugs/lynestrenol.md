@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-Using `txgnn-pipeline` skill for context — now generating the Swedish evaluation report based on the Evidence Pack.
-
----
-
 # Lynestrenol: Från syntetiskt gestagen till migrän med eller utan aura
 
 ## Sammanfattning

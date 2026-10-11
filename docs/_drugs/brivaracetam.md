@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Använder **txgnn-pipeline** för att säkerställa korrekt rapportformat för Sverige-deploymenten.
-
----
-
 # Brivaracetam: Från fokal epilepsi till visuell epilepsi
 
 ## Sammanfattning

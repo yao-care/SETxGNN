@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-The txgnn-pipeline skill is focused on pipeline management, not report generation. The system prompt contains all necessary instructions. Proceeding directly with the report.
-
----
-
 # Plerixafor: Från stamcellsmobilisering till inert plasmacellsmyelom
 
 ## Sammanfattning

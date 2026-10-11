@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Använder `txgnn-pipeline`-riktlinjerna och systemprompten för rapporten. Analyserar Evidence Pack och genererar rapporten nu.
-
----
-
 # Ofloxacin: Från bakteriella infektioner till polyklonal hyperviskositetssyndrom
 
 ## Sammanfattning

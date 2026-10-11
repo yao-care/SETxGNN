@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Jag har läst in `txgnn-pipeline`-skillet. Nu genererar jag rapporten baserat på Evidence Pack JSON och den svenska rapportmallen.
-
----
-
 # RAMIPRIL: Från hypertoni till pulmonell hypertension vid lungsjukdom och/eller hypoxi
 
 ## Sammanfattning

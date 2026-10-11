@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-Using the `txgnn-pipeline` skill to guide report generation for this Swedish TxGNN drug repurposing evaluation.
-
----
-
 # Darunavir: Från HIV-1-behandling till SIV-infektion (apors immunbristvirus)
 
 ## Sammanfattning

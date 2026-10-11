@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-Using the `txgnn-pipeline` skill as context — this is a Swedish TxGNN deployment report. Generating the Swedish evaluation report from the Evidence Pack now.
-
----
-
 # Pregabalin: Från neuropatisk smärta till tendinit
 
 ## Sammanfattning

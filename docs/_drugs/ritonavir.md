@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-Jag använder **txgnn-pipeline**-skickligheten för att hantera TxGNN-relaterat arbete. Nu genererar jag rapporten baserat på Evidence Pack-data.
-
----
-
 # Ritonavir: Från HIV-1-infektion till SIV-infektion (icke-mänskliga primater)
 
 ## Sammanfattning

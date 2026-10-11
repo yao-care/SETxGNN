@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-Using `txgnn-pipeline` som kontext för att generera läkemedelsåteranvändningsrapport.
-
----
-
 # Isotretinoin: Från svår akne till malign renovaskulär hypertoni
 
 ## Sammanfattning

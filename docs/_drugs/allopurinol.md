@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Jag har identifierat `txgnn-pipeline`-skillet som relevant för denna uppgift. Nu genererar jag rapporten baserat på Evidence Pack för Allopurinol.
-
----
-
 # Allopurinol: Från gikt och hyperurikemi till hepatisk porfyri
 
 ## Sammanfattning

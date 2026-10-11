@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-Använder **txgnn-pipeline** för att säkerställa korrekt rapportformat, sedan genererar jag rapporten baserat på Evidence Pack.
-
----
-
 # Valsartan: Från hypertoni till malign renovaskulär hypertoni
 
 ## Sammanfattning

@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Använder `txgnn-pipeline`-skillet för kontext kring rapportgenerering. Nu genererar jag rapporten baserat på Evidence Pack:
-
----
-
 # Nitrofurantoin: Från urinvägsinfektion till reumatoid artrit
 
 ## Sammanfattning

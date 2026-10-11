@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-Använder **txgnn-pipeline** för att skapa läkemedelsåteranvändningsrapporten för Mupirocin.
-
----
-
 # Mupirocin: Från bakteriell hudinfektion till pleural empyem
 
 ## Sammanfattning

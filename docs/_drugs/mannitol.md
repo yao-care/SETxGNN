@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Använder **txgnn-pipeline**-skillet för att säkerställa korrekt hantering av TxGNN-rapportgenerering i Se-projektkontexten. Nu genererar jag rapporten baserat på Evidence Pack:
-
----
-
 # Mannitol: Från osmotisk diures till nefrogent syndrom av inadekvat antidiures
 
 ## Sammanfattning

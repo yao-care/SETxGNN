@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-Använder **txgnn-pipeline** för kontext. Nu genererar jag rapporten baserat på Evidence Pack.
-
----
-
 # Etonogestrel: Från preventivmedelsimplantat till amenorré
 
 ## Sammanfattning

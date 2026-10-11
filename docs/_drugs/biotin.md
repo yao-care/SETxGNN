@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-Jag har läst in `txgnn-pipeline`-skillet. Nu genererar jag rapporten baserat på Evidence Pack JSON:et.
-
----
-
 # Biotin: Från biotinbrist till dyspepsi
 
 ## Sammanfattning

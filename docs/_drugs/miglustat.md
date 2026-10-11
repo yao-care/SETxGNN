@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Använde `txgnn-pipeline`-skillet för att bekräfta arbetsflödet. Nu genererar jag rapporten för MIGLUSTAT. Primär indikation att rapportera väljs som **Tay-Sachs sjukdom** (rank 7) — den enda med faktisk klinisk evidens (L2), till skillnad från rank 1–6 och 8–10 som alla är L5/Hold utan stödjande data.
-
----
-
 # Miglustat: Från Gauchers sjukdom till Tay-Sachs sjukdom
 
 ## Sammanfattning

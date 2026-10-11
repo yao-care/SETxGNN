@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-Använder `txgnn-pipeline` för att generera en strukturerad läkemedelsåteranvändningsrapport för det svenska TxGNN-projektet (Se-deployment).
-
----
-
 # Oxaliplatin: Från kolorektalcancer till malignt pleuralt mesoteliom
 
 ## Sammanfattning

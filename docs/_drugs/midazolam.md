@@ -29,10 +29,6 @@ Evidensnivå: **L2** | Förutsagda indikationer: **1** st
 
 </div>
 
-Jag använder `txgnn-pipeline`-skickligheten som guide. Nu genererar jag rapporten baserat på Evidence Pack.
-
----
-
 # Midazolam: Från preoperativ sedering till insomni
 
 ## Sammanfattning

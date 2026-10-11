@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Använder **txgnn-pipeline**-skillet för att säkerställa korrekt rapportformat för TxGNN Se-projektet, och genererar nu rapporten baserad på Evidence Pack.
-
----
-
 # Prasugrel: Från akut koronarsyndrom till pulmonell hypertension
 
 ## Sammanfattning

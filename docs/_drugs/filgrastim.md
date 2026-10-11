@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Använder **txgnn-pipeline** för att förstå projektstrukturen, sedan genererar jag rapporten enligt systemprompten (v5) med korrekt svenska sektionsrubriker och format.
-
----
-
 # Filgrastim: Från neutropeni till primär trombocytfrisättningsstörning
 
 ## Sammanfattning

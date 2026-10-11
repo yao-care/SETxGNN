@@ -29,10 +29,6 @@ Evidensnivå: **L1** | Förutsagda indikationer: **10** st
 
 </div>
 
-Används **txgnn-pipeline** som bekräftar detta är ett Se (Sverige) TxGNN-projekt. Genererar nu rapporten med fokus på den indikation med starkast evidens — **inflammatorisk spondylopati** (rang 9, L1-evidens med 19 kliniska prövningar och 20 publikationer), i stället för rang 1 (acromesomelic dysplasia, L5, nollbevis).
-
----
-
 # Celecoxib: Från artrit till inflammatorisk spondylopati
 
 ## Sammanfattning

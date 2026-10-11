@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-Använder `txgnn-pipeline`-skillet för att vägleda rapportgenereringen. Nu analyserar jag Evidence Pack och producerar rapporten.
-
----
-
 # Apixaban: Från tromboemboliprofylax till migrän
 
 ## Sammanfattning

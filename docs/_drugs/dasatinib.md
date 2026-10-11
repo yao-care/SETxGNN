@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Använder **txgnn-pipeline** för rapportgenerering inom SeTxGNN-projektet. Genererar nu den svenska utvärderingsrapporten baserat på Evidence Pack för Dasatinib.
-
----
-
 # Dasatinib: Från kronisk myeloisk leukemi till Ewing-sarkom
 
 ## Sammanfattning

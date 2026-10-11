@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Använder **txgnn-pipeline**-skillet för att kontextualisera rapporten. Nu genererar jag den svenska utvärderingsrapporten baserad på Evidence Pack för SUNITINIB.
-
----
-
 # Sunitinib: Från njurcellscancer till liposarkom
 
 ## Sammanfattning

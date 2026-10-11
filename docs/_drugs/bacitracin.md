@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Jag använder `txgnn-pipeline`-skillet för att hantera TxGNN-rapportgenerering, och genererar nu rapporten baserat på Evidence Pack.
-
----
-
 # Bacitracin: Från ytliga bakteriella infektioner till punktformig epitelial keratokonjunktivit
 
 ## Sammanfattning

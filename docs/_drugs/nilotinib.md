@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-Använder `txgnn-pipeline`-skillet för kontext. Nu genererar jag rapporten baserat på Evidence Pack.
-
----
-
 # Nilotinib: Från kronisk myeloisk leukemi till dermatofibrosarkom
 
 ## Sammanfattning

@@ -29,10 +29,6 @@ Evidensnivå: **L2** | Förutsagda indikationer: **5** st
 
 </div>
 
-Jag har kontrollerat att `txgnn-pipeline`-skillet gäller det övergripande arbetsflödet men inte specifikt rapportgenerering – det är min inbyggda rapportroll som styr här. Jag skriver nu rapporten direkt utifrån Evidence Pack.
-
----
-
 # Guaifenesin: Från slemupplösande medel till behandling av nässjukdom
 
 ## Sammanfattning

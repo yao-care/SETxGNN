@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-Använder **txgnn-pipeline**-skillet för att säkerställa korrekt rapportformat för Sverige-versionen (SeTxGNN).
-
----
-
 # Febuxostat: Från hyperurikemi och gikt till renal hypourikemi
 
 ## Sammanfattning

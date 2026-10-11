@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-Jag använder `txgnn-pipeline`-kompetensen för att förstå kontextet – det handlar om ett SeaTxGNN-projekt (Sverige). Nu genererar jag rapporten utifrån Evidence Pack-data.
-
----
-
 # Fentanyl: Från smärtlindring till nefrogen syndrom med inadekvat antidiures
 
 ## Sammanfattning

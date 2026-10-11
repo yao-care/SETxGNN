@@ -29,10 +29,6 @@ Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 
 </div>
 
-Jag använder `txgnn-pipeline`-skillet för kontexten och genererar nu rapporten baserat på Evidence Pack-data.
-
----
-
 # Isoniazid: Från tuberkulos till konjunktivit
 
 ## Sammanfattning

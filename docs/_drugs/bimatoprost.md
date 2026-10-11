@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Använder **txgnn-pipeline**-skillet för att vägleda rapportgenerering, och följer **Läkemedelsåteranvändning Utvärderingsrapport Prompt v5** för struktur och innehåll.
-
----
-
 # Bimatoprost: Från glaukom till malformationssyndrom med odontalt/parodontalt inslag
 
 ## Sammanfattning

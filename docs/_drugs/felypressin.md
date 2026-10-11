@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Jag använder `txgnn-pipeline`-skillet för att säkerställa korrekt hantering av TxGNN-rapportgenerering, och producerar nu rapporten baserat på Evidence Pack.
-
----
-
 # Felypressin: Från vasokonstriktor i lokalbedövning till läkemedelsinducerad osteoporos
 
 ## Sammanfattning

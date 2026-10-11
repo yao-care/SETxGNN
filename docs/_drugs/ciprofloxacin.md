@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Använder **txgnn-pipeline** för rapportgenerering av läkemedelsåteranvändning. Jag analyserar nu Evidence Pack för Ciprofloxacin och sammanställer rapporten enligt v5-mallen.
-
----
-
 # Ciprofloxacin: Från bakterieinfektioner till diffus sklerodermi
 
 ## Sammanfattning

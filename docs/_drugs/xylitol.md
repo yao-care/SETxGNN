@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-Jag använder `txgnn-pipeline`-skillet som bekräftar att detta är ett TxGNN-rapportgenereringsarbete. Nu genererar jag rapporten baserat på Evidence Pack-datan.
-
----
-
 # Xylitol: Från oralhälsa till meningokockinfektion
 
 ## Sammanfattning

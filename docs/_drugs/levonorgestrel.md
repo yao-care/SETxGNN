@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-Jag använder `txgnn-pipeline`-skillet för vägledning och genererar nu rapporten baserat på Evidence Pack:et.
-
----
-
 # Levonorgestrel: Från hormonell antikonception till aknebehandling
 
 ## Sammanfattning

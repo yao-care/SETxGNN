@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Använder `txgnn-pipeline`-skillet för att vägleda rapportgenerering. Fokuserar på den indikation med starkast evidens (ankyloserande spondylit, rang 8, L1) snarare än rang 1 som saknar all evidens och bedöms som trolig falsk positiv.
-
----
-
 # Flurbiprofen: Från reumatiska inflammationstillstånd till ankyloserande spondylit
 
 ## Sammanfattning

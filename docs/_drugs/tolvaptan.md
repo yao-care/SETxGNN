@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Using `txgnn-pipeline` för att vägleda rapportgenerering för detta läkemedelsåteranvändningsprojekt.
-
----
-
 # Tolvaptan: Från autosomal dominant polycystisk njursjukdom till polycystisk njursjukdom typ 3 med eller utan polycystisk leversjukdom
 
 ---

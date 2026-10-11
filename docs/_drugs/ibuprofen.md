@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-Använder **txgnn-pipeline** för att vägleda rapportgenerering. Analyserar Evidence Pack för Ibuprofen (DB01050) och sammanställer nu den svenska rapporten.
-
----
-
 # Ibuprofen: Från smärtlindring och inflammation till akromesomelisk dysplasi (Hunter-Thompson typ)
 
 ## Sammanfattning

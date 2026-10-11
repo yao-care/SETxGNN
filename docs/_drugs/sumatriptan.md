@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-Använder **txgnn-pipeline** för att säkerställa rätt rapportformat för detta TxGNN Sweden-projekt. Nu genererar jag rapporten utifrån Evidence Pack-data.
-
----
-
 # Sumatriptan: Från migrän till migrän med hjärnstamsaura
 
 ## Sammanfattning

@@ -29,8 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-Använder **txgnn-pipeline** för att säkerställa korrekt rapportstruktur för TxGNN-förutsägelser.
-
 Skillet bekräftade projektkontexten. Nu analyserar jag Evidence Pack och genererar rapporten:
 
 ---

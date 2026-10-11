@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-Jag använder **txgnn-pipeline**-skickligheten för att guida rapportgenereringen. Nu skriver jag utvärderingsrapporten baserat på Evidence Pack-datan.
-
----
-
 # Rivaroxaban: Från venös tromboembolibehandling till reumatoid artrit
 
 ## Sammanfattning

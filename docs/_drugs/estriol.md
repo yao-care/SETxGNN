@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-Jag har läst in `txgnn-pipeline`-skillet. Nu genererar jag rapporten utifrån Evidence Pack:et.
-
----
-
 # Estriol: Från naturlig östrogenbehandling till amenorré
 
 ## Sammanfattning

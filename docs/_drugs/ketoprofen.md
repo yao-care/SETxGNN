@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Läser in `txgnn-pipeline`-skillet. Det ger kontext om TxGNN-arbetsflödet, men inga specifika riktlinjer för rapportskrivning – det täcks av systemprompten. Jag fortsätter direkt med rapporten baserat på det tillhandahållna Evidence Pack-datat.
-
----
-
 # Ketoprofen: Från inflammatorisk smärtbehandling till acromesomelic dysplasia (Hunter-Thompson-typ)
 
 ## Sammanfattning

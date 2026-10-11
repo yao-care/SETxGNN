@@ -29,10 +29,6 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-Skill lastad. `txgnn-pipeline` innehåller inga specifika instruktioner för rapportgenerering — arbetsflödet och formatet är redan fullt definierat i systempromten. Jag går vidare och genererar rapporten baserat på Evidence Pack.
-
----
-
 # Atenolol: Från akut hjärtinfarkt till posterolateral hjärtinfarkt
 
 ---

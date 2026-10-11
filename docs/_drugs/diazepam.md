@@ -29,10 +29,6 @@ Evidensnivå: **L1** | Förutsagda indikationer: **10** st
 
 </div>
 
-Använder **txgnn-pipeline** för kontextuell förankring av rapporten, sedan skriver jag rapporten enligt promptspecifikationen v5.
-
----
-
 # Diazepam: Från ångestlindring till insomni
 
 ## Sammanfattning
