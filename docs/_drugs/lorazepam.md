@@ -2,7 +2,7 @@
 layout: default
 title: Lorazepam
 parent: Endast modellprediktion (L5)
-nav_order: 67
+nav_order: 270
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,63 +29,64 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Jag har granskat Evidence Pack och den tillämpliga TxGNN-pipeline-skickligheten. Lorazepam är inte antineoplastiskt, saknar svenska godkännanden och har L5-evidens för toppindikationen. Jag genererar nu rapporten på svenska enligt rapportformatet v5.
+# Lorazepam: Från ångest och epilepsi till trigeminusnervsneoplasm
 
 ---
 
-# Lorazepam: Från ångestbehandling till trigeminusnervtumör
-
 ## Sammanfattning
 
-Lorazepam är ett välkänt benzodiazepinläkemedel som används globalt vid ångeststörningar, sömnstörningar och kramper, men är inte registrerat i Sverige. TxGNN-modellen förutsäger att det kan vara effektivt mot **trigeminusnervtumör (trigeminal nerve neoplasm)** med en poäng på 99,87 %, men denna förutsägelse stöds av **0 kliniska prövningar** och **0 publikationer**. Den höga modellpoängen bedöms sannolikt bero på strukturell likhet i kunskapsgrafen snarare än en reell farmakologisk koppling, och rekommendationen är att avvakta.
+Lorazepam är en bensodiazepin som ursprungligen användes vid ångestsyndrom och epileptiska tillstånd, bland annat status epilepticus, Lennox-Gastauts syndrom och absensepilepsi. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **trigeminusnervsneoplasm** (poäng 99,9 %), men för just denna indikation finns **inga kliniska prövningar och ingen publicerad litteratur**. Förutsägelsen bygger enbart på modellens grafnärhet och bör ses som en hypotes, inte som evidens.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Ej registrerat i Sverige; globalt används lorazepam vid ångest, sömnlöshet och akuta kramper |
-| Förutsagd ny indikation | Trigeminusnervtumör (trigeminal nerve neoplasm) |
+|------|------|
+| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad i svenska godkännanden. Enligt kunskapsgrafen: ångestsyndrom, status epilepticus, Lennox-Gastauts syndrom, absensepilepsi |
+| Förutsagd ny indikation | Trigeminusnervsneoplasm (trigeminal nerve neoplasm) |
 | TxGNN-förutsägelsepoäng | 99,87 % |
-| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
-| Marknadsstatus i Sverige | Inte marknadsförd |
-| Antal godkännanden | 0 |
+| Evidensnivå | L5 (endast modellförutsägelse) |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 7 (samtliga indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta underlag. Baserat på känd farmakologi är lorazepam en positiv allosterisk modulator av GABA-A-receptorn: det binder till benzodiazepinbindningsstället och ökar receptorns känslighet för GABA, vilket ökar kloridjonflödet in i neuronen och dämpar neuronal aktivitet i centrala nervsystemet. Effekten är dosberoende och inkluderar ångestlindring, sedation, muskelrelaxation och antikonvulsiv verkan.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för denna rapport. Baserat på känd information är lorazepam en bensodiazepin som förstärker den hämmande signaleringen via GABA-A-receptorer. Effekten är väl belagd vid ångest och krampanfall.
 
-Kopplingen mellan GABA-A-modulering och tumörbiologi vid trigeminusnervtumörer är farmakologiskt svagt underbyggd. Trigeminusnervtumörer – typiskt schwannom eller meningeom – uppstår till följd av genetiska förändringar i Schwann-celler eller meningeala celler och drivs av mekanismer såsom NF2-mutationer eller kromosomala avvikelser. Det finns inga etablerade biologiska mekanismer som kopplar GABAerg aktivering till tillväxthämning av perifera nervsheathtumörer.
-
-Den höga TxGNN-poängen (99,87 %) bedöms sannolikt vara ett resultat av så kallat graph embedding-brus: noden för "nervsystemtumörer" i kunskapsgrafen ligger strukturellt nära noder för etablerade benzodiazepinindikationer (epilepsi, ångest, sömnlöshet), utan att detta återspeglar en direkt biologisk länk. Lorazepam kan visserligen ordineras som symtomlindrande tillägg vid tumörrelaterad ångest eller smärtbehandling, men detta utgör inte läkemedelsåteranvändning i egentlig mening.
-
----
-
-## Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande.
-
----
-
-## Litteraturbevis
-
-Ingen relaterad litteratur tillgänglig för närvarande.
+Något rimligt mekanistiskt samband mellan GABA-A-modulering och kontroll av tumörtillväxt i trigeminusnerven har inte identifierats. Eventuell nytta skulle begränsas till symtomlindring, till exempel vid ångest, kramper eller sedering i samband med ingrepp, och inte till att påverka själva sjukdomen. Den höga poängen är sannolikt en artefakt av hur nära läkemedlet och sjukdomen ligger varandra i modellens kunskapsgraf.
 
 ---
 
 ## Marknadsinformation Sverige
 
-Lorazepam är inte godkänt för försäljning i Sverige. Inga produktgodkännanden finns registrerade hos Läkemedelsverket (MPA).
+Samtliga sju godkännanden är indragna och inget har någon registrerad indikationstext.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 63660 | Rativor | Tablett | – |
+| 9482 | Temesta | Tablett | – |
+| 48246 | Lorazepam Orion | Tablett | – |
+| 63658 | Rativor | Tablett | – |
+| 63659 | Rativor | Tablett | – |
+
+Ytterligare två indragna godkännanden avser injektionsvätska, lösning (Lorazepam Orifarm och Lorazepam Macure).
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+**Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumé): leversvikt och leversjukdom, leverencefalopati, njursjukdom, gallblåsesjukdom, porfyri, trångvinkelglaukom och öppenvinkelglaukom, obstruktiv sömnapné och andra sömnapnétillstånd, andningssvikt, kongenitalt centralt hypoventilationssyndrom, samt substansrelaterade störningar och beroende.
+
+**Läkemedelsinteraktioner** (100 interaktioner identifierade; de viktigaste):
+- **Allvarliga:** morfin, liposomalt morfin (additiv andningsdepression och sedering)
+- **Måttliga:** bupropion, dronabinol, nabilon, metoklopramid, opium, sibutramin, teduglutid
+- **Lindriga:** antacida som magnesiumoxid, aluminiumhydroxid och kalciumkarbonat
+
+Se produktresumén för fullständig säkerhetsinformation, eftersom varningar och kontraindikationer från den inte ingår i underlaget. Parenterala beredningar innehåller propylenglykol, vilket har rapporterats ge toxicitet vid långvarig infusion.
 
 ---
 
@@ -94,12 +95,13 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensnivån är L5 (enbart modellförutsägelse) med noll kliniska prövningar och noll publikationer som direkt stöder lorazepam vid trigeminusnervtumör. Det saknas en biologiskt trovärdig mekanism, och den höga TxGNN-poängen bedöms sannolikt spegla graph embedding-brus snarare än en reell farmakologisk signal.
+- Den förutsagda indikationen saknar helt kliniska prövningar och litteratur, och något trovärdigt mekanistiskt samband har inte kunnat identifieras. Dessutom är alla svenska godkännanden indragna.
 
 **För att gå vidare krävs:**
-- Identifiering av en plausibel biologisk mekanism som kopplar GABA-A-modulering till trigeminusnervtumörers tillväxt eller överlevnad
-- Minst en preklinisk studie (in vitro eller djurmodell) som visar antitumöral effekt hos lorazepam eller en strukturellt besläktad GABA-A-modulator
-- Omprövning av alternativa högrankade indikationer med starkare evidens: **insomni (rank 2, L2-evidens, 23 kliniska prövningar och 18 publikationer)** och **mikturationsinducerade kramper (rank 7, L3-evidens, 20 publikationer)** utgör mer lovande kandidater för vidare utredning
+- Hämta produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer
+- Hämta verkningsmekanismdata från DrugBank
+- Genomföra en systematisk litteratursökning kring lorazepam vid tumörer i trigeminusnerven, med fokus på symtomkontroll
+- Bedöma om en ny marknadsföringsstatus eller annan tillgång till läkemedlet är realistisk i Sverige
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

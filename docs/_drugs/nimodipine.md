@@ -1,0 +1,115 @@
+---
+layout: default
+title: Nimodipine
+parent: Endast modellprediktion (L5)
+nav_order: 315
+evidence_level: L5
+indication_count: 2
+---
+
+# Nimodipine
+{: .fs-9 }
+
+Evidensnivå: **L5** | Förutsagda indikationer: **2** st
+{: .fs-6 .fw-300 }
+
+---
+
+## Innehållsförteckning
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Apotekarens bedömningsrapport
+
+</div>
+
+# Nimodipin: Från subaraknoidalblödning till homozygot familjär hyperkolesterolemi
+
+---
+
+## Sammanfattning
+
+Nimodipin är en kalciumkanalblockerare som ursprungligen användes vid subaraknoidalblödning, bland annat aneurysmrelaterad blödning. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **homozygot familjär hyperkolesterolemi**, med en förutsägelsepoäng på cirka 99,3 %. Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, så den bygger enbart på modellberäkning.
+
+---
+
+## Snabböversikt
+
+| Post | Innehåll |
+|------|------|
+| Ursprunglig indikation | Subaraknoidalblödning (enligt kunskapsgrafen; svensk indikationstext saknas i godkännandena) |
+| Förutsagd ny indikation | Homozygot familjär hyperkolesterolemi |
+| TxGNN-förutsägelsepoäng | 99,3 % |
+| Evidensnivå | L5 (endast modellförutsägelse) |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 5 (alla indragna) |
+| Rekommenderat beslut | Avvakta |
+
+---
+
+## Varför är denna förutsägelse rimlig?
+
+Nimodipin är en dihydropyridin och blockerar L-typ kalciumkanaler. Detaljerad verkningsmekanismdata finns inte i det underlag som sammanställts för denna rapport. Baserat på känd information verkar läkemedlet främst på kärlens glatta muskulatur och används vid subaraknoidalblödning för att skydda hjärnans kärl.
+
+Sambandet med den nya indikationen är **svagt**. Homozygot familjär hyperkolesterolemi orsakas av defekter i LDL-receptorvägen (LDLR, APOB, PCSK9, LDLRAP1). Kalciumkanalblockad påverkar inte dessa mekanismer. Viss prekliniskt underlag antyder att dihydropyridiner kan ha måttliga kärlskyddande eller anti-aterosklerotiska effekter, men det är en indirekt koppling och åtgärdar inte den underliggande defekten i LDL-upptaget.
+
+Den höga poängen är alltså en beräknad förutsägelse som inte bekräftas av någon studie. Den bör tolkas med stor försiktighet.
+
+### Andra förutsägelse i listan
+
+Modellen förutsäger även **nefrogent syndrom med olämplig antidiures (NSIAD)** (poäng 99,1 %). Det orsakas av aktiverande varianter i vasopressin V2-receptorn (AVPR2), som nimodipin inte verkar på. En tänkbar indirekt koppling via kalciumsignalering vid aquaporin-2-transport är enbart hypotetisk. Inte heller för denna förutsägelse finns kliniska prövningar eller litteratur.
+
+---
+
+## Marknadsinformation Sverige
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation | Status |
+|---------|------|------|-----------|------|
+| 56963 | Nimotop | Infusionsvätska, lösning | Ej angiven | Indragen |
+| 56817 | Nimotop | Infusionsvätska, lösning | Ej angiven | Indragen |
+| 10955 | Nimotop | Filmdragerad tablett | Ej angiven | Indragen |
+| 66795 | Nimotop | Infusionsvätska, lösning | Ej angiven | Indragen |
+| 10954 | Nimotop | Infusionsvätska, lösning | Ej angiven | Indragen |
+
+Samtliga fem godkännanden är indragna, och inget är för närvarande giltigt.
+
+---
+
+## Säkerhetsaspekter
+
+- **Möjliga kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumétext): leversjukdom, gallblåsesjukdom och hypotensiva tillstånd.
+- **Läkemedelsinteraktioner**: totalt 147 interaktioner identifierades. Bland de viktigaste:
+  - **Allvarliga (Major)**: klaritromycin, dolasetron
+  - **Måttliga (Moderate)**, urval: cimetidin, acetylsalicylsyra, morfin, bupropion, aprepitant, mikonazol, magnesiumsulfat, kanamycin, neomycin, kalciumsalter (karbonat, klorid, acetat, fosfat), dapagliflozin, empagliflozin, kanagliflozin, dronabinol, nabilon
+
+Varnings- och kontraindikationstext från produktresumén saknas. Se produktresumén för fullständig säkerhetsinformation.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- Förutsägelsen stöds enbart av en modellberäkning (L5) utan kliniska prövningar eller publikationer, och en rimlig mekanistisk koppling saknas.
+- Dessutom är alla svenska godkännanden indragna, och viktig säkerhetsinformation saknas.
+
+**För att gå vidare krävs:**
+- Hämta och analysera produktresumétext (varningar och kontraindikationer) från Läkemedelsverket.
+- Komplettera data om verkningsmekanism.
+- Genomföra litteratur- och prövningssökningar samt prekliniska studier som kan visa en verklig mekanistisk koppling till LDL-metabolism.
+- Bedöma beredningsformernas lämplighet (oral och intravenös) för en kronisk indikation som hyperkolesterolemi.
+- Utvärdera nuvarande behandlingsalternativ, som redan har dokumenterad effekt vid sjukdomen.
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
+---
+

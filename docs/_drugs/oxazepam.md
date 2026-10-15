@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Oxazepam
-parent: Endast modellprediktion (L5)
-nav_order: 84
-evidence_level: L5
+parent: Måttlig evidens (L3-L4)
+nav_order: 330
+evidence_level: L3
 indication_count: 1
 ---
 
 # Oxazepam
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **1** st
+Evidensnivå: **L3** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,78 +29,100 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Oxazepam: Från ångestbehandling till insomni
-
-## Sammanfattning
-
-Oxazepam är ett bensodiazepinpreparat som traditionellt används vid ångestsyndrom och alkoholabstinenssyndrom. TxGNN-modellen förutsäger att det kan vara effektivt mot **insomni**, med **0 registrerade kliniska prövningar** och **11 publikationer** – varav 2 randomiserade kontrollerade studier – som för närvarande stöder denna riktning. Förutsägelsepoängen på 99,86 % är exceptionellt hög och är väl underbyggd av oxazepams etablerade verkningsmekanism via GABA-A-receptorn.
+# Oxazepam: Från alkoholabstinensdelirium och ångest till insomni
 
 ---
 
-## Snabböversikt
+### Sammanfattning
+
+Oxazepam är ett kortverkande bensodiazepin som ursprungligen användes vid alkoholabstinensdelirium och ångest. TxGNN-modellen förutsäger att det kan vara effektivt mot **insomni**, med en mycket hög förutsägelsepoäng (99,9 %). Inga kliniska prövningar är registrerade för denna indikation, men **10 publikationer** finns i litteraturen, varav ett fåtal är direkt relevanta. Alla svenska godkännanden är avregistrerade.
+
+---
+
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Ångestsyndrom och alkoholabstinens (bensodiazepinklass) |
+|------|------|
+| Ursprunglig indikation | Alkoholabstinensdelirium och ångest (enligt TxGNN:s kunskapsgraf; ingen indikationstext finns i de svenska godkännandena) |
 | Förutsagd ny indikation | Insomni |
-| TxGNN-förutsägelsepoäng | 99,86 % |
-| Evidensnivå | L1 (minst 2 randomiserade kontrollerade studier) |
-| Marknadsstatus i Sverige | Ej registrerat |
-| Antal godkännanden | 0 |
-| Rekommenderat beslut | Fortsätt med försiktighet |
+| TxGNN-förutsägelsepoäng | 99,9 % |
+| Evidensnivå | L3 |
+| Marknadsstatus i Sverige | Endast avregistrerade |
+| Antal godkännanden | 7 (alla avregistrerade) |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-Oxazepam är en positiv allosterisk modulator av GABA-A-receptorn – det vill säga ett klassiskt bensodiazepinpreparat. Genom att förstärka den GABAerga hämmande signalöverföringen i centrala nervsystemet producerar oxazepam tydliga sömnframkallande effekter: förkortad insomningstid, förlängd total sömntid och minskat antal nattliga uppvaknanden.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Baserat på känd information är oxazepam ett kortverkande bensodiazepin. Klassen förstärker den hämmande signaleringen via GABA-A-receptorer, vilket ger lugnande och sömnframkallande effekter.
 
-Kopplingen till insomni är direkt och välmotiverad. Insomni karakteriseras patofysiologiskt av ett tillstånd av överaktivering (hyperarousal) – förhöjd kortikal aktivitet, ökad sympatikustonus och störd dygnsrytm. Förstärkning av GABA-A-receptorn motverkar exakt detta tillstånd. Oxazepam har dessutom en relativt kort halveringstid jämfört med äldre bensodiazepiner som diazepam och flurazepam, vilket minskar risken för kvarstående dagtrötthet och residualsedation.
-
-TxGNN-förutsägelsepoängen på 0,9986 återspeglar styrkan i den mekanistiska länken: modellen identifierar oxazepam som en av de starkaste kandidaterna för insomnibehandling, i full samklang med klinisk litteratur som sedan 1984 dokumenterat effekt vid sömnstörningar.
+Ångest och sömnstörningar överlappar ofta kliniskt, och flera bensodiazepiner används redan vid insomni. Sambandet mellan den ursprungliga indikationen (ångest, alkoholabstinens) och insomni är därför biologiskt rimligt. Observera att kopplingen här utgår från läkemedelsklassen och inte från en dokumenterad verkningsmekanism i datan. Den höga poängen är en beräkningsmässig förutsägelse och inget bevis på klinisk effekt.
 
 ---
 
-## Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande.
-
----
-
-## Litteraturbevis
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [6691478](https://pubmed.ncbi.nlm.nih.gov/6691478/) | 1984 | RCT | The American Journal of Psychiatry | Oxazepam och flurazepam förbättrade polysomnografiska sömnmått hos 14 patienter med kronisk insomni; oxazepam orsakade inte dagtrötthet till skillnad från flurazepam |
-| [29749262](https://pubmed.ncbi.nlm.nih.gov/29749262/) | 2018 | RCT | The Annals of Pharmacotherapy | Oxazepam jämfördes med melatonin för ångest och sömnkvalitet hos STEMI-patienter efter PCI; bensodiazepiner var effektiva men förenade med biverkningsrisk |
-| [17317444](https://pubmed.ncbi.nlm.nih.gov/17317444/) | 2007 | Systematisk översikt | Archives of Gerontology and Geriatrics | Genomgång av sömnmedels effektivitet och säkerhet hos patienter över 70 år med insomni och samsjuklighet, inklusive demens och depression |
-| [29844949](https://pubmed.ncbi.nlm.nih.gov/29844949/) | 2018 | Farmakoepidemologi | PeerJ | Långtidsanvändning av bensodiazepiner och z-läkemedel hos äldre kopplad till hög ålder, kvinnligt kön samt psykiatrisk och somatisk samsjuklighet |
-| [36340306](https://pubmed.ncbi.nlm.nih.gov/36340306/) | 2022 | Klinisk riktlinje | Journal of Clinical and Experimental Hepatology | Handläggning av alkoholabstinenssyndrom vid leversjukdom; insomni anges som ett tidigt abstinenssymtom som bensodiazepiner inklusive oxazepam adresserar |
-| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Farmakokinetisk översikt | Expert Opinion on Drug Metabolism & Toxicology | Genomgång av farmakokinetiken hos anxiolytika inklusive bensodiazepiner; relevant för dosoptimering vid sömnindikation |
-| [6139491](https://pubmed.ncbi.nlm.nih.gov/6139491/) | 1983 | Klinisk observation | JAMA | Abstinenssyndrom vid byte från långverkande till kortverkande bensodiazepin (oxazepam ersatte diazepam); belyser oxazepams korta halveringstid och kliniska farmakokinetisk profil |
-| [15633073](https://pubmed.ncbi.nlm.nih.gov/15633073/) | 2005 | Narrativ översikt | Psychiatrische Praxis | Behandling av beteendemässiga och psykologiska symtom vid demens (BPSD) i DACH-regionen; bensodiazepiner inklusive oxazepam används vid sömnstörningar i denna patientgrupp |
+|------|-----|------|------|---------|
+| [6691478](https://pubmed.ncbi.nlm.nih.gov/6691478/) | 1984 | Jämförande RCT (typ härledd från titeln) | The American Journal of Psychiatry | Oxazepam och flurazepam förbättrade vissa polysomnografiska mått på nattsömn hos 14 patienter med kronisk insomni. Flurazepam gav påtaglig dagsömnighet, oxazepam gjorde det inte. |
+| [29749262](https://pubmed.ncbi.nlm.nih.gov/29749262/) | 2018 | Randomiserad klinisk prövning (typ härledd från titeln) | The Annals of Pharmacotherapy | Jämförelse av melatonin och oxazepam avseende ångest och sömnkvalitet hos patienter med STEMI efter primär PCI. |
+| [17317444](https://pubmed.ncbi.nlm.nih.gov/17317444/) | 2007 | Översikt/metaanalys (typ härledd från titeln) | Archives of Gerontology and Geriatrics | Effekt och säkerhet för sömnmedel vid insomni hos personer över 70 år; 60 äldre patienter med samtidiga sjukdomar studerades. |
+| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Översikt | Expert Opinion on Drug Metabolism & Toxicology | Översikt av ångestdämpande läkemedels farmakokinetik. |
+| [29844949](https://pubmed.ncbi.nlm.nih.gov/29844949/) | 2018 | Observationsstudie | PeerJ | Samband mellan långvarig användning av bensodiazepiner och z-läkemedel hos äldre och patientrelaterade faktorer. |
+| [6139491](https://pubmed.ncbi.nlm.nih.gov/6139491/) | 1983 | Klinisk studie | JAMA | Abstinenssymtom hos två patienter efter byte från långverkande till kortverkande bensodiazepin (bl.a. oxazepam i stället för diazepam). |
+| [36340306](https://pubmed.ncbi.nlm.nih.gov/36340306/) | 2022 | Översikt | Journal of Clinical and Experimental Hepatology | Hantering av alkoholabstinens vid alkoholrelaterad leversjukdom (indirekt relevans). |
+| [15633073](https://pubmed.ncbi.nlm.nih.gov/15633073/) | 2005 | Översikt | Psychiatrische Praxis | Behandling av beteendemässiga och psykiska symtom vid demens (indirekt relevans). |
+
+Övriga publikationer i underlaget (om paroxetin vid panikångest och en fallrapport om agomelatin) saknar relevans för oxazepam vid insomni och redovisas inte.
 
 ---
 
-## Säkerhetsaspekter
+### Marknadsinformation Sverige
 
-Se produktresumén för säkerhetsinformation.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 10743 | Oxascand | Tablett | Avregistrerad |
+| 10744 | Oxascand | Tablett | Avregistrerad |
+| 11082 | Oxascand | Tablett | Avregistrerad |
+| 11083 | Oxascand | Tablett | Avregistrerad |
+| 63357 | Delipam | Tablett | Avregistrerad |
+
+Ytterligare två avregistrerade godkännanden finns (63356 och 63358, Delipam). Samtliga sju godkännanden är avregistrerade, och ingen indikationstext finns tillgänglig.
 
 ---
 
-## Slutsats och nästa steg
+### Säkerhetsaspekter
 
-**Beslut: Fortsätt med försiktighet**
+**Kontraindikationer enligt kunskapsgrafen** (kommer från TxGNN:s kunskapsgraf och inte från produktresumétext):
+- Psykiska sjukdomar: psykotiska sjukdomar, schizoaffektiv sjukdom, personlighetsstörning, intermittent explosiv störning, substansrelaterade störningar och beroende
+- Andnings- och sömnrelaterade tillstånd: sömnapné, andningssvikt, lungsjukdom, kongenitalt centralt hypoventilationssyndrom
+- Lever-, njur- och gallblåsesjukdom
+- Porfyri
+- Hypotoni
+
+**Läkemedelsinteraktioner** (100 interaktioner identifierades; de viktigaste visas):
+- **Allvarliga (Major):** morfin, liposomalt morfin (risk för additiv CNS- och andningsdepression)
+- **Måttliga (Moderate):** bupropion, dronabinol, nabilon, metoklopramid, opium, sibutramin, teduglutid
+- **Lindriga (Minor):** antacida som magnesiumoxid, magnesiumkarbonat, magnesiumhydroxid, kalciumkarbonat, aluminiumhydroxid och magaldrat
+
+Se produktresumén för fullständig information om varningar och kontraindikationer, eftersom sådan information saknas i underlaget.
+
+---
+
+### Slutsats och nästa steg
+
+**Beslut: Avvakta**
 
 **Motivering:**
-- Oxazepam uppvisar en exceptionellt hög TxGNN-förutsägelsepoäng (99,86 %) för insomni, starkt underbyggd av den välkända GABA-A-mekanismen. Två randomiserade kontrollerade studier och flera systematiska översikter och observationsstudier bekräftar klinisk relevans, vilket motiverar evidensnivå L1. Avsaknaden av registrering i Sverige och ofullständiga säkerhetsdata kräver dock kompletterande åtgärder innan vidare beslut.
+- Förutsägelsen är biologiskt rimlig utifrån läkemedelsklassen, men det saknas kliniska prövningar för insomni och det finns bara en liten, äldre jämförande studie. Dessutom är alla svenska godkännanden avregistrerade, vilket begränsar praktisk återanvändning.
 
 **För att gå vidare krävs:**
-- Inhämtning av fullständig säkerhetsinformation: produktresumé (SmPC), kontraindikationer och varningar saknas i nuvarande datakälla
-- Genomförande av läkemedelsinteraktionsanalys (DDI-data ej tillgänglig)
-- Regulatorisk utredning: oxazepam är ej registrerat i Sverige – formell ansökan om marknadsgodkännande eller licens krävs vid eventuell klinisk användning
-- Bedömning av beroendepotential och ändamålsenliga förskrivningsbegränsningar; bensodiazepiner klassificeras som narkotika i Sverige (förteckning IV)
-- Klargörande av ursprunglig godkänd indikation via TFDA-dokumentation (hämtning av officiellt godkänd indikationstext)
+- Hämta verkningsmekanismen från DrugBank.
+- Hämta och granska produktresumé med varningar och kontraindikationer från Läkemedelsverket (MPA), vilket är ett blockerande datagap för säkerhetsbedömningen.
+- Utvärdera nyare randomiserade studier av oxazepam vid insomni jämfört med nuvarande standardbehandling.
+- Bedöma om det finns marknads- eller regulatoriskt underlag för att återinföra en produkt i Sverige.
+- Bedöma beroende-, abstinens- och fallrisker, särskilt hos äldre.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

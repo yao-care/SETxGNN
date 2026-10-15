@@ -2,7 +2,7 @@
 layout: default
 title: Dienogest
 parent: Endast modellprediktion (L5)
-nav_order: 36
+nav_order: 140
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,86 +33,88 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 ---
 
-## Sammanfattning
+### Sammanfattning
 
-Dienogest är ett fjärde generationens progestin (gestagen) som primärt används för behandling av endometrios, bland annat under varumärket Visanne. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt vid **amenorré** (utebliven menstruation), med **4 kliniska prövningar** och **6 publikationer** som för närvarande finns tillgängliga. Det är dock viktigt att notera att samtliga identifierade studier rör endometrios – amenorré förekommer i dessa som en farmakologisk biverkning hos 30–50 % av patienterna snarare än som ett behandlingsmål, vilket kraftigt begränsar förutsägelsens kliniska tillämpbarhet.
+Dienogest är ett selektivt gestagen (progestin) som i litteraturen framför allt beskrivs i samband med behandling av endometrios. Ett läkemedelsgodkännande med indikationstext finns inte i de data som sammanställts för denna rapport. TxGNN-modellen förutsäger att dienogest kan vara användbart vid **amenorré**, men det finns **inga kliniska prövningar** och endast **7 publikationer** av indirekt karaktär. Litteraturen beskriver dessutom amenorré som en effekt av dienogestbehandling, inte som ett behandlingsmål.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Endometrios (klinisk kontext; inga godkännanden registrerade i Sverige) |
+|------|------|
+| Ursprunglig indikation | Ej angiven i godkännandedata (i litteraturen: endometrios) |
 | Förutsagd ny indikation | Amenorré |
-| TxGNN-förutsägelsepoäng | 99,71 % |
-| Evidensnivå | L4 – Mekanismstudier och observationsdata |
-| Marknadsstatus i Sverige | Inte godkänt |
-| Antal godkännanden | 0 |
+| TxGNN-förutsägelsepoäng | 99,7 % |
+| Evidensnivå | L4 (endast mekanistiska och indirekta data) |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i Evidence Pack. Baserat på tillgänglig klinisk och farmakologisk information är Dienogest ett fjärde generationens progestin med hög selektivitet för progesteronreceptorn och minimal androgen aktivitet. Det är godkänt för behandling av endometrios i flera länder och verkar primärt genom att hämma endometriets tillväxt och supprimera LH-peak, vilket skapar en hypöstrogen miljö som bromsar ektopisk endometrievävnad.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Baserat på känd information är dienogest ett selektivt gestagen med kraftig effekt på livmoderslemhinnan och en hämmande effekt på hormonaxeln (antigonadotrop effekt). Det dämpar ägglossningen delvis och påverkar endometriet.
 
-Kopplingen till amenorré är farmakologisk snarare än terapeutisk: Dienogest orsakar amenorré hos 30–50 % av patienterna som en direkt effekt av endometriell atrofi och ovulationshämning. Amenorré är alltså en väldokumenterad biverkning av läkemedlet – inte en indikation. Om målet vore att "behandla amenorré med Dienogest" vore mekanismriktningen omvänd: läkemedlet *inducerar* det tillstånd det förväntas behandla.
+Amenorré är en väldokumenterad effekt av dienogestbehandling, särskilt vid endometrios, där man ofta eftersträvar utebliven menstruation. Att använda läkemedlet för att behandla amenorré, till exempel för att framkalla bortfallsblödning eller skydda livmoderslemhinnan vid östrogenbrist, är mekanistiskt tänkbart.
 
-TxGNN-modellens höga poäng (99,71 %) förklaras sannolikt av stark statistisk samförekomst mellan Dienogest och amenorré i träningsdata, utan att modellen kan skilja på biverkning och terapeutisk effekt. Detta är ett känt begränsningsproblem i kunskapsgrafsbaserade modeller, som kan ge vilseledande höga poäng när ett läkemedel frekvent associeras med ett tillstånd – oavsett kausalitetens riktning.
-
----
-
-## Kliniska prövningar
-
-> **Obs:** Nedanstående prövningar avser behandling av endometrios. Amenorré förekommer i dessa som sekundär observationspunkt eller biverkning – inte som primär indikation.
-
-| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
-|-----------------|-----|--------|-----------|--------------|
-| [NCT04495855](https://clinicaltrials.gov/study/NCT04495855) | N/A | Avslutad | 968 | Verklighetsstudie av Visanne (Dienogest) vid endometrios i klinisk rutinpraxis; amenorré ingick som sekundär observationspunkt för biverkningsprofilen. |
-| [NCT07164183](https://clinicaltrials.gov/study/NCT07164183) | Fas 3 | Rekryterar | 290 | Randomiserad öppen Fas 3-studie som jämför Indinol Forto® och Visanne vid endometrios; non-inferiority-design. Amenorré kan förekomma som sekundär endpoint. |
-| [NCT02425462](https://clinicaltrials.gov/study/NCT02425462) | N/A | Avslutad | 895 | Prospektiv observationsstudie av Dienogest hos asiatiska kvinnor med endometrios; utvärderar livskvalitet och långsiktig biverkningsprofil, inklusive amenorré. |
-| [NCT07204093](https://clinicaltrials.gov/study/NCT07204093) | N/A | Aktiv, ej rekryterande | 138 | Jämför progestin + transdermal östradiol (Dienogest vs. drospirenon) vid endometrios; studien syftar till att *hantera* Dienogest-inducerad amenorré och lågestrogensymtom med add-back-terapi, inte att behandla amenorrésjukdom. |
+Det finns dock en viktig begränsning: den hämtade litteraturen beskriver amenorré som en effekt eller biverkning av dienogest, inte som ett sjukdomstillstånd som behandlas. Den höga modellpoängen beror sannolikt på denna koppling snarare än på terapeutiska belägg.
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [39090694](https://pubmed.ncbi.nlm.nih.gov/39090694/) | 2024 | Systematisk översikt + Bayesiansk metaanalys | BMC Pharmacology & Toxicology | Sammanfattar biverkningar av Dienogest vid endometrios och adenomyos; amenorré identifieras som en av de vanligaste biverkningarna med hög förekomst. |
-| [41329046](https://pubmed.ncbi.nlm.nih.gov/41329046/) | 2026 | Farmakologisk studie | European Journal of Contraception & Reproductive Health Care | Hög inhibitionskvot och transformationsindex för Dienogest 2 mg; understryker att induktion av amenorré är en central farmakologisk effekt vid endometriosterapi, inte ett behandlingsmål i sig. |
-| [29161960](https://pubmed.ncbi.nlm.nih.gov/29161960/) | 2018 | Prospektiv observationsstudie | Reproductive Sciences | Långtidssäkerhet och effekt av Dienogest vid ovarialendometriom (n=514, >12 månader); amenorré dokumenterad som biverkning vid långtidsanvändning. |
-| [34405378](https://pubmed.ncbi.nlm.nih.gov/34405378/) | 2022 | Narrativ översikt | Reviews in Endocrine & Metabolic Disorders | Genomgång av hormonella behandlingar vid endometrios; belyser östrogenberoende och progesteronresistens som centrala patogenetiska mekanismer bakom effekten av progestiner som Dienogest. |
-| [34918698](https://pubmed.ncbi.nlm.nih.gov/34918698/) | 2021 | Fallrapport | Medicine | Fallrapport om ovariegranulosacelltumör vid PCOS; begränsad direkt relevans för Dienogest-amenorré-sambandet. |
-| [40543564](https://pubmed.ncbi.nlm.nih.gov/40543564/) | 2025 | Klinisk/bilddiagnostisk studie | Journal of Pediatric and Adolescent Gynecology | 3D-modellering och VR-visualisering vid Müllerska anomalier; obstruktiva anomalier kan orsaka amenorré, men studien saknar koppling till Dienogest. |
+|------|-----|------|------|---------|
+| [39090694](https://pubmed.ncbi.nlm.nih.gov/39090694/) | 2024 | Systematisk översikt/metaanalys | BMC Pharmacology & Toxicology | Sammanställer biverkningar av dienogest vid endometrios och adenomyos; dienogest är förstahandsval vid bäckensmärta hos kvinnor utan omedelbar graviditetsönskan |
+| [29161960](https://pubmed.ncbi.nlm.nih.gov/29161960/) | 2018 | Retrospektiv kohortstudie | Reproductive Sciences | 514 kvinnor med ovarialendometriom; långtidsbehandling (över 12 månader) med 2 mg dienogest bedömdes avseende effekt, säkerhet och recidiv |
+| [34405378](https://pubmed.ncbi.nlm.nih.gov/34405378/) | 2022 | Översikt | Reviews in Endocrine & Metabolic Disorders | Beskriver hormonbehandlingar vid endometrios och deras endokrina bakgrund |
+| [41329046](https://pubmed.ncbi.nlm.nih.gov/41329046/) | 2026 | Klinisk/farmakodynamisk studie | European Journal of Contraception & Reproductive Health Care | Stöd för 2 mg dienogest vid endometrios; behandlingsmålet är bl.a. att framkalla amenorré och ett lågöstrogent läge |
+| [34918698](https://pubmed.ncbi.nlm.nih.gov/34918698/) | 2021 | Fallrapport | Medicine | Granulosacellstumör hos patient med polycystiskt ovariesyndrom; liten direkt relevans |
+| [40543564](https://pubmed.ncbi.nlm.nih.gov/40543564/) | 2025 | Översikt | Journal of Pediatric and Adolescent Gynecology | Avancerad bildvisualisering vid Müllerska anomalier; indirekt relevans |
+| [42438810](https://pubmed.ncbi.nlm.nih.gov/42438810/) | 2026 | Fallrapport | JCEM Case Reports | Primär hyperparatyreoidism som blev tydlig cirka 6 månader efter start av dienogest; gäller säkerhet, inte effekt |
 
 ---
 
-## Marknadsinformation Sverige
+### Marknadsinformation Sverige
 
-Dienogest saknar godkännanden hos Läkemedelsverket (MPA). Läkemedlet är för närvarande inte registrerat på den svenska marknaden för någon indikation.
+Alla 20 godkännanden är indragna och ingen indikationstext finns registrerad. Fem av dem redovisas nedan.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 41818 | Visanne (Bayer AB) | Tablett | Ej angiven |
+| 68654 | Visanne (Ebb Medical AB) | Tablett | Ej angiven |
+| 57388 | Endovelle (Exeltis Healthcare) | Tablett | Ej angiven |
+| 57412 | Sawis (Gedeon Richter) | Tablett | Ej angiven |
+| 65544 | Audera (Aristo Pharma) | Filmdragerad tablett | Ej angiven |
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Kontraindikationer enligt kunskapsgrafen** (härledda från en kunskapsgraf, inte från produktresumé): högt blodttryck, epilepsi, ångestsyndrom, porfyri, njursjukdom, leversjukdom, gallblåsesjukdom, hypotyreos, systemisk lupus erythematosus, astma, diabetes mellitus, hypertriglyceridemi, hyperkalcemi, bröstcancer och tromboflebit. Listan är ofullständig och ska verifieras mot produktresumén.
+- **Läkemedelsinteraktioner** (37 identifierade; de viktigaste):
+  - Allvarlig (major): sugammadex, griseofulvin, bexaroten, brigatinib, dabrafenib, enkorafenib
+  - Måttlig (moderate): linaklotid, metreleptin, prukaloprid, miltefosin, adalimumab, anakinra, kanakinumab, certolizumab pegol, kladribin, emapalumab, enasidenib
+  - Lindrig (minor): etanol
+- **Säkerhetssignal i litteraturen**: ett fall av primär hyperparatyreoidism som blev tydlig efter start av dienogest (PMID 42438810).
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- TxGNN-modellens höga förutsägelsepoäng (99,71 %) för amenorré bedöms vara ett modellartefakt orsakat av statistisk samförekomst: Dienogest *orsakar* amenorré som biverkning hos 30–50 % av patienterna, men är inte avsett att *behandla* amenorrésjukdom. Mekanismriktningen är omvänd, och ingen av de fyra identifierade kliniska prövningarna studerar Dienogest som behandling mot amenorré.
+- Förutsägelsen bygger på modellens poäng och indirekt litteratur där amenorré är en behandlingseffekt snarare än ett behandlingsmål. Det finns inga kliniska prövningar, och alla svenska godkännanden är indragna.
 
 **För att gå vidare krävs:**
-- Verifiering av klinisk frågeställning – om syftet är terapeutisk induktion av amenorré (t.ex. vid endometrios eller adenomyos) finns redan etablerad evidens, men detta utgör inte en ny indikation
-- Inhämtning av fullständig säkerhetsinformation: MOA-data, varningar och kontraindikationer från DrugBank och produktresumé (FASS/SmPC)
-- Ansökan om marknadsgodkännande i Sverige hos Läkemedelsverket med fullständig dokumentation om läkemedlet ska introduceras på den svenska marknaden
-- Alternativt: Utvärdering av **Rang 3-kandidaten – bröstfibrocystisk sjukdom** (TxGNN-poäng: 99,60 %, evidensnivå L4, beslutsstadium S1 – "Research Question"), som har ett mer biologiskt välgrundat mekanismsamband baserat på Dienogest's antiöstrogena effekter i bröstvävnad, och bättre förutsättningar för klinisk vidareutveckling
+- Hämta och granska produktresuméer (varningar och kontraindikationer) från Läkemedelsverket, vilket är ett blockerande datagap.
+- Komplettera data om verkningsmekanism, till exempel från DrugBank.
+- Genomföra en riktad litteratursökning efter studier där dienogest används för att behandla amenorré (till exempel inducering av bortfallsblödning eller endometrieskydd vid östrogenbrist).
+- Klargöra marknadssituationen, eftersom samtliga godkännanden är indragna, och bedöma om det finns en praktisk väg till användning.
+- Utvärdera säkerhet mot de kontraindikationer som kunskapsgrafen anger.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

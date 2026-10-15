@@ -2,7 +2,7 @@
 layout: default
 title: Flurbiprofen
 parent: Endast modellprediktion (L5)
-nav_order: 51
+nav_order: 205
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,89 +29,109 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Flurbiprofen: Från reumatiska inflammationstillstånd till ankyloserande spondylit
+# Flurbiprofen: Från reumatoid artrit till akromesomelisk dysplasi, Hunter-Thompson-typ
+
+---
 
 ## Sammanfattning
 
-Flurbiprofen är ett icke-steroidt antiinflammatoriskt läkemedel (NSAID) som verkar via cyklooxygenas-hämning och som historiskt använts för reumatiska inflammatoriska tillstånd såsom reumatoid artrit och artros, men som för närvarande saknar godkännande i Sverige.
-TxGNN-modellen förutsäger att det kan vara effektivt mot **ankyloserande spondylit** (Bechterews sjukdom), en kronisk inflammatorisk ryggradssjukdom, med ett förutsägelsepoäng på 99,97 %.
-Förutsägelsen stöds av **0 registrerade kliniska prövningar** och **20 publikationer** – varav minst 7 är randomiserade kontrollerade studier som direkt jämför flurbiprofen med etablerade behandlingsalternativ vid ankyloserande spondylit.
+Flurbiprofen är ett icke-steroidalt antiinflammatoriskt läkemedel (NSAID). Det har använts mot reumatoid artrit, artros och andra ledsjukdomar. TxGNN-modellen rankar **akromesomelisk dysplasi, Hunter-Thompson-typ** högst, men för denna sjukdom finns **inga kliniska prövningar och ingen litteratur**, och ingen rimlig verkningsmekanism har kunnat identifieras. Bland de tio förutsagda indikationerna är **ankyloserande spondylit** (plats 8) den enda med faktiskt stöd: 20 publikationer, varav flera dubbelblinda jämförande studier.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|---------|
-| Ursprunglig indikation | Ej registrerat i Sverige – används internationellt som NSAID vid reumatiska sjukdomar (reumatoid artrit, artros) |
-| Förutsagd ny indikation | Ankyloserande spondylit (Bechterews sjukdom) |
-| TxGNN-förutsägelsepoäng | 99,97 % (global rang 124) |
-| Evidensnivå | **L1** – ≥ 2 avslutade RCT identifierade i litteraturen |
-| Marknadsstatus i Sverige | Ej på marknaden |
-| Antal godkännanden | 0 |
-| Rekommenderat beslut | **Gå vidare med försiktighet** |
+|------|------|
+| Ursprunglig indikation | Reumatoid artrit, artros (enligt kunskapsgrafen; godkänd indikationstext saknas i de svenska godkännandena) |
+| Förutsagd ny indikation | Akromesomelisk dysplasi, Hunter-Thompson-typ |
+| TxGNN-förutsägelsepoäng | 99,99 % |
+| Evidensnivå | L5 (endast modellförutsägelse) |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 7 (alla indragna) |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-Flurbiprofen är ett fenylalkansyre-derivat som hämmar enzymerna COX-1 och COX-2, vilket leder till minskad syntes av prostaglandiner – i synnerhet prostaglandin E₂ (PGE₂). PGE₂ spelar en nyckelroll i den inflammatoriska kaskad som driver smärta, stelhet och progressiv benbildning längs ryggraden vid ankyloserande spondylit (AS). Genom att dämpa PGE₂-produktionen kan flurbiprofen lindra både symtom och bidra till att bromsa ankyloseringen. Prekliniska studier har visat att flurbiprofen är minst lika potent som indomethacin och ungefär 200 gånger mer potent än aspirin som antiinflammatoriskt medel.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Flurbiprofen är dock ett NSAID som hämmar COX-1 och COX-2, vilket minskar prostaglandinbildningen och därmed inflammation och smärta. Effekten vid reumatoid artrit och artros är väl belagd.
 
-NSAID-läkemedel är sedan decennier etablerade som förstahandsbehandling vid aktiv ankyloserande spondylit, och COX-hämning utgör den centrala mekanistiska länken. Flurbiprofen delar denna verkningsmekanism med indomethacin och naproxen – båda med stark evidens vid AS. Kopplingen mellan ursprungsindikationen (reumatisk inflammation) och den förutsagda nya indikationen (AS) är därför inte en radikal repurposing, utan snarare en utvidgning inom samma inflammatoriska sjukdomsspektrum och med samma terapeutiska mekanism.
+För den förutsagda sjukdomen hittades **ingen rimlig mekanistisk koppling**. Akromesomelisk dysplasi av Hunter-Thompson-typ är en sällsynt genetisk skelettsjukdom (relaterad till CDMP1/GDF5) och inte inflammatorisk. COX-hämning bedöms därför inte kunna påverka sjukdomen. Den höga poängen speglar sannolikt att sjukdomen ligger nära andra muskuloskeletala termer i kunskapsgrafen, inte att det finns biologiskt stöd.
 
-Under perioden 1974–1986 genomfördes ett flertal dubbelblinda, randomiserade kliniska prövningar med flurbiprofen specifikt vid aktiv ankyloserande spondylit. Studierna jämförde flurbiprofen direkt mot indomethacin, fenylbutazon och naproxen och visade genomgående likvärdig effekt på smärtlindring, ledstelhet och global förbättring. En poolad säkerhetsanalys från nio fas III-studier med totalt 1 677 patienter rapporterade inga kliniskt signifikanta lever- eller njurpåverkningar. TxGNN:s höga förutsägelsepoäng för AS är därmed konsistent med befintlig klinisk evidens.
+Flera av de övriga topprankade förutsägelserna är likartade sällsynta utvecklingsrubbningar utan känd koppling till prostaglandinmedierad inflammation. Det gäller brakydaktyli-syndaktylisyndrom, brakyolmi, pseudoackondroplasi och några syndrom med medfödda missbildningar. Vid vissa av dem (till exempel pseudoackondroplasi, myoskleros och hypermobilitet i svansbenet) kan NSAID i bästa fall lindra smärta, men det finns inga belägg för att de påverkar sjukdomsförloppet.
+
+Den mest trovärdiga förutsägelsen är **ankyloserande spondylit**. NSAID är förstahandsbehandling vid sjukdomen, och inflammationsmekanismen liknar den vid flurbiprofens befintliga ledindikationer. Kopplingen bygger på läkemedelsklassens kända farmakologi, inte på verkningsmekanismdata för flurbiprofen.
 
 ---
 
 ## Kliniska prövningar
 
-Inga relaterade kliniska prövningar registrerade för närvarande i ClinicalTrials.gov eller ICTRP.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
 ## Litteraturbevis
 
+Ingen relaterad litteratur tillgänglig för närvarande för akromesomelisk dysplasi, Hunter-Thompson-typ.
+
+### Jämförelse: ankyloserande spondylit (plats 8)
+
+Nedan visas ett urval av den litteratur som finns för den bäst understödda kandidaten. Alla studier är gamla (1974–1986), små och beskrivs som jämförande studier där utformningen inte har verifierats i detalj.
+
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|-----|-----|-----------|-------------|
-| [3963018](https://pubmed.ncbi.nlm.nih.gov/3963018/) | 1986 | RCT (jämförande, dubbelblind) | The American Journal of Medicine | 57 patienter, 26 veckor; flurbiprofen 200 mg/dag likvärdig med indomethacin i smärtkontroll vid AS |
-| [3963017](https://pubmed.ncbi.nlm.nih.gov/3963017/) | 1986 | RCT (jämförande, dubbelblind) | The American Journal of Medicine | 90 patienter, 26 veckor; flurbiprofen 200 mg/dag likvärdig med fenylbutazon 300 mg vid AS |
-| [4611579](https://pubmed.ncbi.nlm.nih.gov/4611579/) | 1974 | RCT (dubbelblind crossover) | British Medical Journal | 35 patienter; flurbiprofen 150 mg/dag jämförbart med fenylbutazon 300 mg; väl tolererat |
-| [71969](https://pubmed.ncbi.nlm.nih.gov/71969/) | 1977 | RCT (jämförande) | Current Medical Research and Opinion | 26 patienter; flurbiprofen och indomethacin likvärdiga i smärt- och ömhetslindrring vid aktiv AS |
-| [329422](https://pubmed.ncbi.nlm.nih.gov/329422/) | 1977 | RCT (jämförande) | Southern Medical Journal | 26 patienter, 6 veckor; flurbiprofen 150–200 mg/dag likvärdig med indomethacin; ingen avhoppare pga otillräcklig effekt |
-| [7003449](https://pubmed.ncbi.nlm.nih.gov/7003449/) | 1980 | RCT (crossover) | The New Zealand Medical Journal | 30 patienter, 4 veckor; flurbiprofen 200 mg vs naproxen 750 mg – likvärdig effekt på smärta och stelhet; fler biverkningar med flurbiprofen |
-| [324773](https://pubmed.ncbi.nlm.nih.gov/324773/) | 1977 | RCT (jämförande) | European Journal of Clinical Pharmacology | 27 patienter; flurbiprofen och fenylbutazon likvärdiga i smärtlindring; global förbättring tenderade gynna fenylbutazon utan statistisk signifikans |
-| [3963024](https://pubmed.ncbi.nlm.nih.gov/3963024/) | 1986 | Säkerhetskohort (poolad analys) | The American Journal of Medicine | 9 fas III-studier, 1 677 patienter (AS, OA, RA); inga kliniskt signifikanta njur- eller levereffekter av flurbiprofen |
-| [391529](https://pubmed.ncbi.nlm.nih.gov/391529/) | 1979 | Översiktsartikel | Drugs | Farmakologisk helgenomgång; flurbiprofen 150–300 mg/dag jämförbart med indomethacin vid AS och RA; färre biverkningar än aspirin |
-| [3514311](https://pubmed.ncbi.nlm.nih.gov/3514311/) | 1986 | Öppen långtidsstudie | The Journal of International Medical Research | 336 patienter med AS, psoriasisartrit m.fl.; signifikant smärtförbättring från vecka 2 och kvarstående under 12 månader |
+|------|-----|------|------|---------|
+| [4611579](https://pubmed.ncbi.nlm.nih.gov/4611579/) | 1974 | Dubbelblind crossover-studie | British Medical Journal | 35 patienter, flurbiprofen 150 mg/dag jämfört med fenylbutazon. Effekten närmade sig fenylbutazons och läkemedlet tolererades väl. |
+| [3963017](https://pubmed.ncbi.nlm.nih.gov/3963017/) | 1986 | Randomiserad dubbelblind studie | American Journal of Medicine | 90 patienter, 26 veckor. Flurbiprofen 200 mg/dag var lika effektivt som fenylbutazon 300 mg/dag. |
+| [3963018](https://pubmed.ncbi.nlm.nih.gov/3963018/) | 1986 | Randomiserad dubbelblind studie | American Journal of Medicine | 57 patienter, 26 veckor. Flurbiprofen var effektivt mot smärta och symtom och jämförbart med indometacin. |
+| [71969](https://pubmed.ncbi.nlm.nih.gov/71969/) | 1977 | Randomiserad dubbelblind studie | Current Medical Research and Opinion | 26 patienter, 6 veckor. Flurbiprofen och indometacin var lika effektiva mot smärta och ömhet. |
+| [324773](https://pubmed.ncbi.nlm.nih.gov/324773/) | 1977 | Randomiserad dubbelblind studie | European Journal of Clinical Pharmacology | 27 patienter. Flurbiprofen och fenylbutazon var lika effektiva, med en icke-signifikant fördel för fenylbutazon i helhetsbedömningen. |
+| [7003449](https://pubmed.ncbi.nlm.nih.gov/7003449/) | 1980 | Dubbelblind crossover-studie | New Zealand Medical Journal | 30 patienter. Ingen skillnad i effekt jämfört med naproxen, men fler biverkningar med flurbiprofen. |
+| [391529](https://pubmed.ncbi.nlm.nih.gov/391529/) | 1979 | Översikt | Drugs | Flurbiprofen beskrivs som ett användbart alternativ vid reumatoid artrit, artros och ankyloserande spondylit. |
+| [3963024](https://pubmed.ncbi.nlm.nih.gov/3963024/) | 1986 | Sammanställd säkerhetsanalys | American Journal of Medicine | Data från nio fas 3-studier (1 677 patienter) visade inga kliniskt signifikanta effekter på lever- och njurfunktion. |
 
 ---
 
 ## Marknadsinformation Sverige
 
-Flurbiprofen är för närvarande **inte registrerat** hos Läkemedelsverket (MPA) i Sverige. Inga godkännanden finns i databasen.
+Alla sju godkännanden är indragna och inget är giltigt. Någon godkänd indikationstext finns inte i de data som sammanställts för denna rapport. Fem av godkännandena visas nedan.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Status |
+|---------|------|------|-----------|
+| 66438 | Flurbiprofen Stada | Munhålespray, lösning | Indragen |
+| 26284 | Strefen | Sugtablett | Indragen |
+| 45657 | Strefen Apelsin | Sugtablett | Indragen |
+| 58177 | Strefen Honung & Citron | Munhålespray, lösning | Indragen |
+| 56192 | Strefen Körsbär & Mint | Munhålespray, lösning | Indragen |
+
+De produkter som funnits på den svenska marknaden har alltså varit sugtabletter och munhålesprayer, inte systemiska beredningar för ledsjukdomar.
 
 ---
 
 ## Säkerhetsaspekter
 
-Specifik säkerhetsinformation (varningar, kontraindikationer, läkemedelsinteraktioner) saknas i detta evidence pack. Observera att flurbiprofen tillhör NSAID-klassen och att klassens välkända risker – inklusive gastrointestinal toxicitet, kardiovaskulär risk och njurpåverkan – gäller. En poolad säkerhetsanalys (PMID 3963024) från 9 fas III-studier med 1 677 patienter visade inga kliniskt signifikanta lever- eller njureffekter vid behandlingstider upp till 26 veckor.
+- **Sjukdomar som är förknippade med kontraindikation (från kunskapsgrafen, inte från produktresumé):** högt blodtryck, njursjukdom, leversjukdom, gallblåsesjukdom, magsår (inklusive aktivt magsår), missbruk eller beroende, blödningsrubbningar, hjärtinfarkt, kranskärlstrombos, hjärt-kärlsjukdom, hjärtsjukdom, hemoglobinopati och pyouretär.
+- **Läkemedelsinteraktioner:** interaktionssökningen gav 100 träffar. De 20 som granskats är i huvudsak av måttlig betydelse:
+  - **Måttlig:** acetylsalicylsyra, kortikosteroider (hydrokortison, dexametason, betametason, budesonid, triamcinolon), metformin, glimepirid, klorpropamid, aprepitant, mesalazin, balsalazid, kaliumcitrat, kaliumbikarbonat, natriumsulfat, pikosulfat och polyetylenglykol med elektrolyter.
+  - **Lindrig:** famotidin, cimetidin och linaklotid.
 
-> Se produktresumén (SmPC) för fullständig och aktuell säkerhetsinformation.
+Varnings- och kontraindikationstext från produktresumén har inte kunnat hämtas. Se produktresumén för fullständig säkerhetsinformation.
 
 ---
 
 ## Slutsats och nästa steg
 
-**Beslut: Gå vidare med försiktighet**
+**Beslut: Avvakta**
 
 **Motivering:**
-Flurbiprofen har **L1-evidens** för behandling av ankyloserande spondylit, grundad på minst sju publicerade RCT från 1974–1986 som alla visar likvärdig effekt jämfört med indomethacin, fenylbutazon och naproxen; den mekanistiska kopplingen via COX-hämning och PGE₂-reduktion är välgrundad och konsistent med nuvarande förståelse av AS-patofysiologi. Läkemedlet saknar dock godkännande i Sverige och fullständig aktuell säkerhetsdokumentation är inte tillgänglig.
+- Den högst rankade indikationen saknar både studier och rimlig mekanism. Den höga modellpoängen bedöms därför bero på avstånd i kunskapsgrafen, inte på biologiskt stöd.
+- Alla svenska godkännanden är indragna, och produkttexten med varningar har inte kunnat bedömas.
 
 **För att gå vidare krävs:**
-- Inhämtning och granskning av fullständig produktresumé (SmPC) samt identifiering av eventuella Läkemedelsverket-specifika krav
-- Uppdaterad systematisk litteratursökning för perioden 1987–2026 för att identifiera nyare RCT, metaanalyser eller säkerhetsstudier
-- Utvärdering av klinisk relevans i relation till nuvarande standardbehandling i Sverige (moderna COX-2-selektiva NSAID, biologiska läkemedel som TNF-hämmare och IL-17-hämmare)
-- Konsultation med reumatologisk expertis för att bedöma om det finns ett kliniskt behov som motiverar en formell godkännanseansökan till MPA
+- Produktresumé och godkänd indikationstext från Läkemedelsverket, så att säkerhetsgranskningen kan slutföras.
+- Verkningsmekanismdata för flurbiprofen från DrugBank.
+- Ett omfokuserat underlag för **ankyloserande spondylit**, som är den bäst understödda kandidaten, med en genomgång av studiernas kvalitet och en bedömning av hur relevant gamla jämförelsestudier är mot dagens standardbehandling.
+- För den högst rankade sällsynta skelettsjukdomen: prekliniska data som visar ett patogenetiskt samband med prostaglandinsignalering. Utan dessa bör den inte prioriteras.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

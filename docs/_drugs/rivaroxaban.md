@@ -2,7 +2,7 @@
 layout: default
 title: Rivaroxaban
 parent: Endast modellprediktion (L5)
-nav_order: 95
+nav_order: 383
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,35 +29,37 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Rivaroxaban: Från venös tromboembolibehandling till reumatoid artrit
+# Rivaroxaban: Från antikoagulantia (ursprunglig indikation ej angiven i tillgängliga data) till reumatoid artrit
+
+---
 
 ## Sammanfattning
 
-Rivaroxaban är en direktverkande oral faktor Xa-hämmare som ursprungligen används för förebyggande och behandling av venös tromboembolism (DVT/lungembolism) samt strokeprevention vid förmaksflimmer. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **reumatoid artrit**, baserat på ett hypotetiskt samband mellan koagulationssystemets aktivering och synovial inflammation. Förutsägelsen stöds i nuläget av **0 kliniska prövningar** och **4 publikationer** – varav ingen är direkt utformad för att testa rivaroxaban som behandling mot reumatoid artrit.
+Rivaroxaban är en direkt hämmare av koagulationsfaktor Xa och används som blodförtunnande läkemedel. Den ursprungliga godkända indikationstexten finns inte i de data som sammanställts för denna rapport. TxGNN-modellen förutsäger att rivaroxaban kan vara effektivt mot **reumatoid artrit**, men det finns **inga kliniska prövningar** och endast **4 publikationer** (översikter, en kohortstudie och en fallrapport) som inte visar att läkemedlet behandlar sjukdomen. Förutsägelsen bygger i praktiken enbart på modellen.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Ej registrerad i Sverige (data ej tillgänglig i regulatorisk källa) |
+|------|------|
+| Ursprunglig indikation | Ej angiven i de sammanställda data (godkännandenas indikationstexter är tomma) |
 | Förutsagd ny indikation | Reumatoid artrit |
-| TxGNN-förutsägelsepoäng | 99,57 % |
-| Evidensnivå | L4 – Mekanismstudier och indirekt litteratur |
-| Marknadsstatus i Sverige | Ej marknadsförd |
-| Antal godkännanden | 0 |
+| TxGNN-förutsägelsepoäng | 99,6 % |
+| Evidensnivå | L5 (endast modellförutsägelse, inga relevanta studier av effekt) |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 20 (samtliga indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-Detaljerad verkningsmekanismdata (MOA) saknas i nuvarande dataset (datakvalitetsbrist DG002). Baserat på tillgänglig information är rivaroxaban en direktverkande faktor Xa-hämmare. Faktor Xa är ett centralt enzym i koagulationskaskaden vars aktivering genererar trombin – ett enzym som inte enbart driver blodkoagulation, utan också binder till proteasaktiverade receptorer (PAR-1 och PAR-2) på immunceller och synoviala fibroblaster. Via PAR-2-signalering kan trombin förstärka lokal ledinflammation, vilket är patofysiologiskt relevant vid reumatoid artrit (RA).
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda data. Baserat på känd information är rivaroxaban en direkt hämmare av faktor Xa, ett centralt enzym i blodets koagulationskaskad. Läkemedlet förebygger och behandlar blodproppar.
 
-Hos patienter med autoimmuna sjukdomar, däribland RA, har ett hyperkoagulerbart tillstånd dokumenterats med förhöjd trombingenerering (PMID 34175144). Den teoretiska grunden för återanvändning är att faktor Xa-hämning kan dämpa PAR-2-medierad synovialt inflammation utöver sin antitrombotiska effekt. Sambandet mellan den ursprungliga indikationen (tromboembolism) och den nya (RA) är således en gemensam biologisk aktör – trombin och koagulationssystemets inflammatoriska korsaktivering.
+Kopplingen till reumatoid artrit är svag och indirekt. Vid autoimmun inflammation förändras koagulationsaktiveringen och trombinbildningen, och personer med reumatoid artrit har en förhöjd risk för venös tromboembolism. Det skulle i teorin kunna finnas ett samband via inflammatorisk signalering som styrs av proteasaktiverade receptorer (PAR).
 
-Det är viktigt att betona att detta resonemang är mekanistiskt och spekulativt. Ingen av de fyra identifierade publikationerna är utformad för att studera rivaroxaban specifikt vid reumatoid artrit. Förutsägelsen bör betraktas som en hypotesgenerande signal och kräver ytterligare preklinisk och klinisk validering innan den kan omvandlas till en konkret forskningsfråga.
+Det är dock spekulativt. Inga data visar att rivaroxaban påverkar sjukdomsaktiviteten vid reumatoid artrit. Den höga modellpoängen ska därför inte tolkas som stöd för effekt.
 
 ---
 
@@ -70,27 +72,42 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 ## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|-----|-----|-----------|--------------|
-| [33141212](https://pubmed.ncbi.nlm.nih.gov/33141212/) | 2020 | Review | JAMA | Översikt av diagnos och behandling av DVT/lungembolism; incidens 88–112/100 000 personår, recidivfrekvens 20–36 % på 10 år – kontextuell bakgrund för rivaroxabans ursprungliga indikation |
-| [34175144](https://pubmed.ncbi.nlm.nih.gov/34175144/) | 2021 | Mekanistisk/Review | La Revue de médecine interne | Trombingenerationsanalys (TGA) vid autoimmuna sjukdomar; visar hyperkoagulerbarhet och förhöjd kardiovaskulär risk vid bl.a. antifosfolipidsyndrom – ger indirekt mekanistiskt stöd för koagulationssystemets roll vid autoimmun sjukdom |
-| [29621248](https://pubmed.ncbi.nlm.nih.gov/29621248/) | 2018 | Observationsstudie | PLoS ONE | Jämförelse av följsamhet till rivaroxaban vs. apixaban vid icke-valvulärt förmaksflimmer; belyser reala skillnader i behandlingsutfall mellan NOAK-preparat |
-| [41918541](https://pubmed.ncbi.nlm.nih.gov/41918541/) | 2026 | Fallrapport | Cureus | 88-årig kvinna med RA på orala steroider som drabbades av multipla emboliska händelser (ben och cerebralt) trots pågående antikoagulationsbehandling – illustrerar det komplexa samspelet mellan RA, trombosrisk och antikoagulationshantering |
+|------|-----|------|------|---------|
+| [33141212](https://pubmed.ncbi.nlm.nih.gov/33141212/) | 2020 | Översikt | JAMA | Översikt om diagnos och behandling av venös tromboembolism i benen. Ingen koppling till reumatoid artrit som behandlingsmål. |
+| [34175144](https://pubmed.ncbi.nlm.nih.gov/34175144/) | 2021 | Översikt | La Revue de médecine interne | Trombinbildningstest vid autoimmuna sjukdomar. Visar förändrad koagulation, men inte effekt av rivaroxaban. |
+| [29621248](https://pubmed.ncbi.nlm.nih.gov/29621248/) | 2018 | Kohortstudie | PLoS ONE | Jämför följsamhet till rivaroxaban och apixaban vid förmaksflimmer. Inte relevant för reumatoid artrit. |
+| [41918541](https://pubmed.ncbi.nlm.nih.gov/41918541/) | 2026 | Fallrapport | Cureus | Patient med reumatoid artrit (behandlad med orala steroider) och upprepade embolier trots antikoagulation. Beskriver samsjuklighet, inte behandling av artrit. |
 
 ---
 
 ## Marknadsinformation Sverige
 
-Rivaroxaban är inte registrerat i Sverige enligt den regulatoriska källa som användes för detta Evidence Pack. Inga godkännanden eller produktresumér finns tillgängliga i dataunderlaget.
+Samtliga 20 godkännanden är indragna och inga godkännanden är giltiga. Indikationstexter saknas i de sammanställda data. De första fem godkännandena:
 
-> **OBS:** Rivaroxaban (Xarelto®) är i klinisk praxis känt som ett etablerat läkemedel i Europa. Avsaknaden av data i detta underlag återspeglar sannolikt en begränsning i den datakälla som användes (TW-fokuserad regulatorisk databas), inte ett faktiskt marknadsstatus i Sverige. Manuell verifiering mot Läkemedelsverkets databas rekommenderas.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 59431 | Rivaroxaban Avansor | Filmdragerad tablett | Ej angiven |
+| 62033 | Rivaroxaban STADA Arzneimittel AG | Filmdragerad tablett | Ej angiven |
+| 59153 | Rivaroxaban Krka | Filmdragerad tablett | Ej angiven |
+| 62327 | Blomensy | Filmdragerad tablett | Ej angiven |
+| 61502 | Rivaroxaban Hexal | Filmdragerad tablett | Ej angiven |
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Sjukdomar kopplade till läkemedlet i kunskapsgrafen** (ej från produktresumétext): leversvikt, njursjukdom, pyoureter, leversjukdom, gallblåsesjukdom och blodkoagulationssjukdom. Dessa bör betraktas som signaler som måste verifieras mot produktresumén.
+- **Läkemedelsinteraktioner**: 100 interaktioner identifierade. Bland de som listats är följande klassade som **allvarliga (Major)**:
+  - acetylsalicylsyra
+  - kobicistat
+  - deferasirox
+  - ibritumomab tiuxetan
+  - tositumomab (I-131)
 
-> Varningsdata och kontraindikationer kunde inte hämtas från nuvarande datakälla (datakvalitetsbrist DG001: TFDA-produktresumé saknas). Läkemedelsinteraktionsdata kunde inte identifieras (DDI-sökning: inga träffar). Fullständig säkerhetsgranskning är ett krav innan klinisk utvärdering kan inledas.
+  Flera **måttliga (Moderate)** interaktioner finns också, bland annat med aprepitant, dexametason, cimetidin, klaritromycin, mikonazol och klotrimazol.
+- Litteraturen visar dessutom att CYP3A4- och P-gp-hämmare, till exempel ritonavir och kobicistat, kan höja rivaroxabankoncentrationen och öka blödningsrisken.
+
+Se produktresumén för fullständiga varningar och kontraindikationer, eftersom dessa inte fanns tillgängliga i de sammanställda data.
 
 ---
 
@@ -99,14 +116,18 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-Evidensnivån är L4 – det finns enbart mekanistiska resonemang och indirekt litteratur som stöd. Det saknas helt kliniska prövningar som direkt utvärderar rivaroxaban vid reumatoid artrit, och inget av de publicerade underlagen är utformat för detta ändamål. TxGNN-signalen (99,57 %) är stark men kan inte ensam motivera klinisk framryckning.
+- Förutsägelsen är endast modellbaserad (L5) utan kliniska prövningar, och den tillgängliga litteraturen visar ingen terapeutisk effekt vid reumatoid artrit. Dessutom saknas giltiga godkännanden i Sverige och produktresumédata om varningar och kontraindikationer.
 
 **För att gå vidare krävs:**
-- Hämtning av fullständig produktresumé och säkerhetsdata via TFDA/Läkemedelsverket (åtgärda DG001) innan säkerhetsinledande utvärdering (S1) kan genomföras
-- Verifiering av MOA-data via DrugBank API (åtgärda DG002) för att stärka mekanistisk analys
-- Systematisk litteratursökning med utvidgade söktermer, t.ex. *"factor Xa inhibitor AND arthritis"*, *"PAR-2 AND synovial inflammation"*
-- Identifiering av eventuella prekliniska djurstudier som direkt testar faktor Xa-hämning i artritmodeller
-- Bedömning av om en explorativ fas 2-prövning kan motiveras om prekliniska fynd är tillräckligt robusta
+- Hämta produktresumé från Läkemedelsverket och komplettera varningar, kontraindikationer och godkända indikationer.
+- Komplettera verkningsmekanismdata, till exempel via DrugBank.
+- Genomföra en systematisk litteratursökning efter prekliniska och kliniska data om faktor Xa-hämning eller PAR-signalering vid reumatoid artrit.
+- Fastställa om det finns en rimlig mekanistisk hypotes innan någon prövning planeras.
+- Klargöra marknadsstatusen, eftersom alla godkännanden är indragna.
+
+---
+
+*Övriga förutsägelser i data (gikt, hiv-infektion, brakydaktyli-syndaktylisyndrom) har likaså endast evidensnivå L4–L5, saknar stöd för terapeutisk effekt och rekommenderas inte för vidare utvärdering i nuläget.*
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

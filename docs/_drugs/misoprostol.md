@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Misoprostol
-parent: Endast modellprediktion (L5)
-nav_order: 73
-evidence_level: L5
+parent: Måttlig evidens (L3-L4)
+nav_order: 299
+evidence_level: L4
 indication_count: 2
 ---
 
 # Misoprostol
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **2** st
+Evidensnivå: **L4** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,37 +29,37 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Misoprostol: Från gynekologisk abortinduktion till amenorré
+# Misoprostol: Från ospecificerad ursprunglig indikation till amenorré
 
 ---
 
 ## Sammanfattning
 
-Misoprostol är ett syntetiskt prostaglandin E1 (PGE1)-analogon som internationellt använts för medicinsk abort, behandling av missad abort och cervixmognad, men är för närvarande inte registrerat på den svenska marknaden. TxGNN-modellen förutsäger att det kan vara effektivt vid **amenorré**, med **0 registrerade kliniska prövningar** och **7 publikationer** som stöder denna riktning. Evidensbasen är indirekt och avser huvudsakligen kombinationsbehandling (mifepristone + misoprostol) vid tidig graviditetsavslutning, snarare än behandling av amenorré som primärt kliniskt tillstånd.
+Misoprostol är en prostaglandin E1-analog. De data som sammanställts för denna rapport anger ingen godkänd indikation i Sverige. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **amenorré**, men det finns **inga kliniska prövningar** och **7 publikationer** som bara indirekt berör ämnet. Publikationerna handlar främst om abortinduktion och hantering av missad abort, inte om behandling av amenorré.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Ingen registrerad indikation i Sverige – internationellt känd för medicinsk abort, missed abortion och cervixmognad |
-| Förutsagd ny indikation | Amenorré (amenorrhea disease) |
-| TxGNN-förutsägelsepoäng | 99,64% |
-| Evidensnivå | L4 – Mekanismbaserad koppling med indirekt klinisk litteratur |
-| Marknadsstatus i Sverige | Ej registrerat |
-| Antal godkännanden | 0 |
+|------|------|
+| Ursprunglig indikation | Ej angiven i tillgängliga data |
+| Förutsagd ny indikation | Amenorré |
+| TxGNN-förutsägelsepoäng | 99,6 % |
+| Evidensnivå | L4 |
+| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Antal godkännanden | 3 (alla avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-Misoprostol binder till prostaglandinreceptorerna EP2 och EP3 i livmodermuskeln och utlöser glattmuskelkontraktioner samt mjukning av cervix. Denna verkningsmekanism utgör grunden för läkemedlets etablerade kliniska användning – inducering av utstötning av kvarliggande graviditetsvävnad vid missad abort eller tidig elektiv abortinduktion.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Misoprostol är dock känt som en prostaglandin E1-analog som får livmodern att dra ihop sig och mjukar upp livmoderhalsen.
 
-Kopplingen till amenorré är mekanistiskt välmotiverad, men **strikt begränsad till en specifik undertyp**: vid graviditetsrelaterad sekundär amenorré (t.ex. retained products of conception) kan misoprostol lösa upp blockaden genom att tömma uterus och återupprätta normal menstruationscykel via EP2/EP3-medierade kontraktioner. För hypotalamisk, hypofysär eller ovariell amenorré saknas däremot helt mekanistisk grund – misoprostol påverkar inte det hormonella regleringssystemet.
+Litteraturen visar att misoprostol används vid avslutande av graviditet, ofta tillsammans med mifepriston, och vid missad abort. Amenorré förekommer i dessa studier mest som en beskrivning av graviditetens längd (till exempel "amenorré ≤35 dagar") och inte som ett tillstånd som behandlas.
 
-Det är viktigt att beakta att de identifierade publikationerna i stort sett beskriver kombinationsbehandling med mifepristone, där "amenorré" refererar till gestationsåldern i dagar (ej menstruation sedan X dagar), inte till amenorré som behandlingsmål i sig. TxGNN-modellens algoritm har sannolikt identifierat denna termöverlapning som en association, varför den kliniska translationsvägen kräver ytterligare verifiering.
+Det finns inget känt samband mellan misoprostol och att återställa menstruation vid primär eller sekundär amenorré. Den höga poängen (0,996) beror sannolikt på att läkemedlet ligger nära andra tillstånd i könsorganen i kunskapsnätverket, inte på en verklig behandlingseffekt. Förutsägelsen bör därför bedömas som svag mekanistiskt.
 
 ---
 
@@ -72,26 +72,37 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 ## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [27678099](https://pubmed.ncbi.nlm.nih.gov/27678099/) | 2017 | RCT | Reproductive Sciences | 744 kvinnor med ultra-tidig graviditet (amenorré ≤35 dagar); lågdos mifepristone + självadministrerat misoprostol var säkert och effektivt; ingen signifikant skillnad mellan sjukhus- och hemadministration. |
-| [25394644](https://pubmed.ncbi.nlm.nih.gov/25394644/) | 2015 | RCT | Reproductive Sciences | Dos-responsstudie i 2 500 kvinnor (amenorré ≤35 dagar); mifepristone 50–150 mg + misoprostol 200 µg gav adekvat komplett abortfrekvens utan kirurgiskt ingrepp. |
-| [29974571](https://pubmed.ncbi.nlm.nih.gov/29974571/) | 2018 | Klinisk prövning | J Obstet Gynaecol Research | Säkerhet och effekt av lågdos mifepristone + självadministrerat misoprostol för tidig graviditetsavslutning bekräftades i klinisk miljö. |
-| [26405260](https://pubmed.ncbi.nlm.nih.gov/26405260/) | 2015 | Prospektiv klinisk studie | Human Reproduction | Genomförbarhet och effektivitet av mifepristone + misoprostol administrerat före förväntad menstruation för att förhindra oönskad graviditet utvärderades. |
-| [26001691](https://pubmed.ncbi.nlm.nih.gov/26001691/) | 2015 | Översikt | JOGC | Endometrieablation vid onormal livmoderblödning; misoprostol omnämns i rollen som cervixförberedelse – indirekt relevant för uterustömning vid amenorré. |
-| [1486304](https://pubmed.ncbi.nlm.nih.gov/1486304/) | 1992 | Retrospektiv fallserie | BMJ | Tidig rapport om medicinsk behandling av missad abort och anembryonisk graviditet med misoprostol; lade grunden för nuvarande klinisk praxis. |
-| [37113350](https://pubmed.ncbi.nlm.nih.gov/37113350/) | 2023 | Fallrapport | Cureus | Akut fettlever under graviditet med amenorré som presentationssymtom (diagnoskontextuell) – ej direkt relevant för misoprostolbehandling av amenorré. |
+|------|-----|------|------|---------|
+| [27678099](https://pubmed.ncbi.nlm.nih.gov/27678099/) | 2017 | RCT (klassad som kohort) | Reproductive Sciences | 744 kvinnor med mycket tidig graviditet (amenorré ≤35 dagar). Lågdos mifepriston med självadministrerad misoprostol för tidig medicinsk abort. Gäller graviditetsavbrott, inte amenorré. |
+| [25394644](https://pubmed.ncbi.nlm.nih.gov/25394644/) | 2015 | Dosfinnande RCT (klassad som kohort) | Reproductive Sciences | 2 500 kvinnor randomiserades till fem mifepristondoser följt av 200 µg misoprostol. Gäller avslutande av mycket tidig graviditet. |
+| [26405260](https://pubmed.ncbi.nlm.nih.gov/26405260/) | 2015 | Kohort | Human Reproduction | Lågdos mifepriston med misoprostol före förväntad menstruation för att förhindra oönskad graviditet. |
+| [29974571](https://pubmed.ncbi.nlm.nih.gov/29974571/) | 2018 | Kohort | J Obstet Gynaecol Res | Säkerhet och effekt av lågdos mifepriston med självadministrerad misoprostol vid tidig graviditet. |
+| [1486304](https://pubmed.ncbi.nlm.nih.gov/1486304/) | 1992 | Översikt | BMJ | Medicinsk hantering av missad abort och anembryonal graviditet. Sammanfattning saknas. |
+| [26001691](https://pubmed.ncbi.nlm.nih.gov/26001691/) | 2015 | Översikt | J Obstet Gynaecol Can | Endometrieablation vid onormala livmoderblödningar. Rör inte misoprostol direkt. |
+| [37113350](https://pubmed.ncbi.nlm.nih.gov/37113350/) | 2023 | Fallrapport | Cureus | Akut fettlever under graviditet hos en kvinna med amenorré som symtom. Ingen koppling till behandling med misoprostol. |
 
 ---
 
 ## Marknadsinformation Sverige
 
-Misoprostol är för närvarande **inte registrerat** på den svenska marknaden. Inga godkännandeärenden finns tillgängliga i Läkemedelsverkets register (totalt 0 licenser).
+Alla tre godkännanden är avregistrerade. Ingen indikationstext finns i data.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 46903 | Topogyne (Exelgyn, Paris) | Tablett | Ej angiven |
+| 11033 | Cytotec (Pfizer AB) | Tablett | Ej angiven |
+| 54486 | Angusta (Norgine BV) | Tablett | Ej angiven |
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Kontraindikationer enligt kunskapsgrafen** (härledda från TxGNN:s kunskapsgraf, inte från produktresumé): högt blodtryck, lever­svikt och leversjukdom, gallblåsesjukdom, hjärtsvikt, inflammatorisk tarmsjukdom, astma, substansmissbruk/beroende, blodkoagulationsrubbningar, stroke och cerebrovaskulära sjukdomar, hjärtinfarkt, hemoglobinopatier, anemi, läkemedelsinducerad leverskada, hjärt-kärlsjukdom, aktivt magsår och icke-infektiös hjärnhinneinflammation.
+- **Läkemedelsinteraktioner** (100 hittade, de viktigaste nedan):
+  - **Allvarlig:** dinoproston (topikal).
+  - **Måttlig:** magnesiumoxid, magnesiumhydroxid, magnesiumkarbonat, magaldrat, kinapril.
+  - **Lindrig:** natriumcitrat, aluminiumhydroxid, kalciumkarbonat, natriumbikarbonat, naproxen.
+- Varningar och kontraindikationer från produktresumén saknas. Se produktresumén för fullständig säkerhetsinformation.
 
 ---
 
@@ -100,14 +111,14 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-Evidensnivån är L4 och befintliga publikationer avser kombinationsbehandling (mifepristone + misoprostol) där "amenorré" används som mått på gestationsålder – inte som det kliniska tillstånd som ska behandlas. Inga riktade kliniska prövningar för misoprostol vid amenorré som indikation finns registrerade.
+- Förutsägelsen saknar stöd i kliniska prövningar, och litteraturen rör graviditetsavbrott, inte behandling av amenorré. Verkningsmekanismen ger ingen rimlig förklaring, och alla svenska godkännanden är avregistrerade.
 
 **För att gå vidare krävs:**
-- Prospektiva kliniska studier som specifikt utvärderar misoprostol (som enskelt läkemedel) vid graviditetsrelaterad sekundär amenorré (t.ex. retained products of conception / missad abort)
-- Tydlig avgränsning av målpopulation: indikationen är mekanistiskt enbart motiverad för amenorré med graviditetsrelaterad etiologi, ej primär eller hormonell amenorré
-- Komplettering av säkerhetsdata: varningar, kontraindikationer och läkemedelsinteraktioner måste dokumenteras innan klinisk vidareutvärdering
-- MOA-analys och fullständig farmakologisk kartläggning via DrugBank (DG002 åtgärdas)
-- Registreringsansökan hos Läkemedelsverket om klinisk dokumentation bedöms tillräcklig
+- Hämta verkningsmekanismdata, till exempel via DrugBank.
+- Hämta produktresumé med varningar och kontraindikationer från Läkemedelsverket (MPA), vilket är nödvändigt för säkerhetsgranskning.
+- Klargöra ursprunglig godkänd indikation.
+- Bedöma om amenorré över huvud taget är en klinisk målindikation, eftersom nuvarande litteratur inte stöder det.
+- Vid fortsatt intresse: granska den andra förutsagda indikationen (atypisk aortakoarktation, poäng 99,3 %, L5, helt utan klinisk evidens) separat. Den är mekanistiskt svag, eftersom misoprostol inte är en etablerad behandling för tillståndet.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

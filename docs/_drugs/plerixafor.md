@@ -2,7 +2,7 @@
 layout: default
 title: Plerixafor
 parent: Endast modellprediktion (L5)
-nav_order: 85
+nav_order: 355
 evidence_level: L5
 indication_count: 7
 ---
@@ -29,53 +29,71 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Plerixafor: Från stamcellsmobilisering till inert plasmacellsmyelom
+# Plerixafor: Från plasmacellsmyelom till indolent plasmacellsmyelom
+
+---
 
 ## Sammanfattning
 
-Plerixafor är en CXCR4-receptorantagonist som ursprungligen godkänts internationellt för mobilisering av hematopoetiska stamceller hos patienter med multipelt myelom och non-Hodgkin-lymfom inför autolog transplantation. TxGNN-modellen förutsäger med en poäng på **99,97%** att läkemedlet kan vara effektivt mot **inert plasmacellsmyelom (smoldering myeloma)**, baserat på biologisk plausibilitet via CXCL12–CXCR4-axeln. För närvarande finns varken **kliniska prövningar** eller **publicerade studier** som direkt stödjer denna specifika behandlingsindikation, och evidensnivån stannar vid L5.
+Plerixafor används som stamcellsmobiliserande läkemedel hos patienter med plasmacellsmyelom (multipelt myelom) och non-Hodgkin-lymfom som ska genomgå autolog stamcellstransplantation. TxGNN-modellen förutsäger att det kan vara effektivt mot **indolent plasmacellsmyelom**, med en mycket hög förutsägelsepoäng. Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** för just denna förutsägelse, så evidensen består enbart av modellens beräkning.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Stamcellsmobilisering vid multipelt myelom och non-Hodgkin-lymfom (internationellt godkänd; ej registrerad i Sverige) |
-| Förutsagd ny indikation | Inert plasmacellsmyelom (indolent plasma cell myeloma / smoldering myeloma) |
-| TxGNN-förutsägelsepoäng | 99,97% |
-| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
-| Marknadsstatus i Sverige | Ej marknadsförd |
-| Antal godkännanden i Sverige | 0 |
+|------|------|
+| Ursprunglig indikation | Plasmacellsmyelom (enligt kunskapsgrafen, eftersom godkännandena i Sverige saknar indikationstext) |
+| Förutsagd ny indikation | Indolent plasmacellsmyelom |
+| TxGNN-förutsägelsepoäng | 99,97 % |
+| Evidensnivå | L5 (endast modellförutsägelse) |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 4 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande saknas detaljerad verkningsmekanismdata i det tillgängliga underlaget. Baserat på känd farmakologi är Plerixafor (AMD3100) en selektiv antagonist mot CXCR4-receptorn som blockerar bindningen av CXCL12 (även kallat SDF-1α). Dess godkända effekt vid stamcellsmobilisering har väl bevisats: blockad av CXCR4 lösgör hematopoetiska stamceller från benmärgens nischer och driver dem ut i perifert blod för skörd.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i den sammanställda datan. Läkemedlets målproteiner är dock kända: plerixafor binder till kemokinreceptorn **CXCR4** och även till **ACKR3**. Som CXCR4-antagonist stör plerixafor kopplingen mellan CXCR4 och signalmolekylen CXCL12. Denna koppling får normalt blodstamceller och myelomceller att hålla sig fast i benmärgens skyddande nischer.
 
-Det biologiska sambandet med inert plasmacellsmyelom grundar sig på att plasmacellsmyelomceller i hög grad uttrycker CXCR4. CXCL12–CXCR4-axeln driver deras hemning till benmärgens skyddande mikromiljö och bidrar till deras överlevnad och kemoterapiresistens. Teoretiskt kan CXCR4-blockad med Plerixafor störa detta skyddande mikromiljöberoende, på samma sätt som vid AML-strategin där läkemedlet mobiliserar leukemiceller för att göra dem känsligare för cytotoxisk behandling.
+Det finns därför en biologisk logik. Plerixafor används redan vid plasmacellsmyelom, men då för att frigöra friska stamceller till blodet inför transplantation, inte för att behandla sjukdomen. Om samma mekanism kan lossa myelomceller från benmärgen skulle det i teorin kunna göra dem mer sårbara, eller bromsa sjukdomen i ett tidigt skede.
 
-Dock är inert plasmacellsmyelom (SMM) ett distinkt förstadium som skiljer sig väsentligt från aktivt multipelt myelom: SMM-patienter behandlas i dag vanligen med "watch and wait"-strategi eller riskbaserad intervention. Det finns inga publicerade kliniska prövningar eller litteratur som specifikt undersöker Plerixafor som direkt behandlingsmedel vid SMM. Sambandet stannar vid mekanistisk plausibilitet och modellförutsägelse – klinisk validering saknas helt.
+Detta är i nuläget en hypotes. Den bygger enbart på modellens förutsägelse. Det saknas studier som visar att plerixafor har någon sjukdomsmodifierande effekt vid indolent myelom.
 
 ---
 
 ## Kliniska prövningar
 
-Inga relaterade kliniska prövningar registrerade för närvarande för indikationen inert plasmacellsmyelom.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
 ## Litteraturbevis
 
-Ingen relaterad litteratur tillgänglig för närvarande för indikationen inert plasmacellsmyelom.
+Ingen relaterad litteratur tillgänglig för närvarande.
+
+---
+
+## Marknadsinformation Sverige
+
+Samtliga fyra godkännanden är indragna, och ingen av dem har någon registrerad indikationstext.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 62455 | Plerixafor Teva (TEVA GmbH) | Injektionsvätska, lösning | Ingen indikationstext angiven |
+| 63928 | Plerixafor Viatris (Viatris Limited) | Injektionsvätska, lösning | Ingen indikationstext angiven |
+| 62428 | Plerixafor Vivanta (Vivanta Generics s.r.o.) | Injektionsvätska, lösning | Ingen indikationstext angiven |
+| 62431 | Plerixafor Seacross (Seacross Pharma (Europe) Limited) | Injektionsvätska, lösning | Ingen indikationstext angiven |
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Möjliga kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumén): trombocytopeni, nedsatt njurfunktion och leukemi.
+- **Läkemedelsinteraktioner:** Inga läkemedelsinteraktioner med andra substanser finns registrerade. Datan visar endast plerixafors farmakologiska målproteiner, CXCR4 och ACKR3.
+
+Produktresumén med fullständiga varningar och kontraindikationer ingår inte i den sammanställda datan. Se produktresumén för säkerhetsinformation.
 
 ---
 
@@ -84,13 +102,13 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-Evidensnivån är L5 – det finns varken kliniska prövningar eller publicerade studier som stödjer Plerixafor som direkt behandling vid inert plasmacellsmyelom. Den höga TxGNN-poängen (99,97%) speglar stark bioinformatisk plausibilitet via CXCR4-mekanismen, men utan klinisk eller preklinisk evidens specifikt för SMM kan rekommendation om framsteg inte ges.
+- Förutsägelsen för indolent plasmacellsmyelom har hög modellpoäng men saknar helt stöd i kliniska prövningar och litteratur (L5). Dessutom är alla svenska godkännanden indragna.
 
 **För att gå vidare krävs:**
-- Prekliniska studier (in vitro och in vivo) som specifikt undersöker Plerixafor mot SMM-celler och deras benmärgs­mikromiljö
-- Bedömning av om SMM som population lämpar sig för CXCR4-riktad behandling jämfört med aktiv intervention
-- Insamling av fullständig säkerhetsdata (MOA-profil via DrugBank, produktresumé från EMA/FDA)
-- Klargörande av om effekten vid SMM skiljer sig mekanistiskt från den redan bevisade stamcells­mobiliserings­indikationen, för att undvika konceptuell sammanblandning
+- Prekliniska data och sedan kliniska studier som visar att plerixafor påverkar sjukdomsförloppet vid indolent myelom, och inte bara stamcellsmobilisering.
+- Produktresumé med varningar och kontraindikationer samt uppgifter om verkningsmekanismen, för en fullständig säkerhetsbedömning.
+- Klarhet om läkemedlets tillgänglighet i Sverige, eftersom alla godkännanden är indragna.
+- Överväg att i första hand utvärdera den lägre rankade förutsägelsen **myeloisk leukemi**. Där finns i den sammanställda datan 27 kliniska prövningar (främst fas 1–2) och 20 publikationer som testar plerixafor som kemosensibiliserande behandling. Evidensen graderas där som L2, men inga fas 3-studier finns och flera prövningar avslutades i förtid.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

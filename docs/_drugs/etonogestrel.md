@@ -2,7 +2,7 @@
 layout: default
 title: Etonogestrel
 parent: Endast modellprediktion (L5)
-nav_order: 43
+nav_order: 181
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,73 +29,84 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Etonogestrel: Från preventivmedelsimplantat till amenorré
-
-## Sammanfattning
-
-Etonogestrel är ett syntetiskt gestagen som verksamt ämne i subkutana preventivmedelsimplantat (Implanon/Nexplanon), primärt avsett för att förhindra graviditet genom att hämma ägglossning och endometrieproliferation. TxGNN-modellen förutsäger att läkemedlet kan ha terapeutisk relevans vid **amenorré**, med **1 klinisk prövning** och **2 publikationer** som berör detta samband. Det är viktigt att notera att etonogestrel i nuläget är bättre dokumenterat som en *inducerare* av amenorré som biverkning, snarare än som behandling av patologisk amenorré — en begreppslig distinktion som är avgörande för återanvändningshypotesen.
+# Etonogestrel: Från ej angiven indikation till amenorré
 
 ---
 
-## Snabböversikt
+### Sammanfattning
+
+Etonogestrel är ett gestagen (progestin) som i Sverige har funnits i preventivmedelsprodukter som implantat och vaginalinlägg. Någon godkänd indikationstext finns dock inte i de data som sammanställts för denna rapport. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **amenorré** med mycket hög modellpoäng, men det finns **inga kliniska prövningar** och endast **1 publikation** som inte är relevant för frågeställningen. Förutsägelsen bygger därmed enbart på modellen.
+
+---
+
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Inga godkända indikationer registrerade i databasen (känd klinisk användning: hormonellt preventivmedelsimplantat) |
-| Förutsagd ny indikation | Amenorré (amenorrhea disease) |
-| TxGNN-förutsägelsepoäng | 99,84 % |
-| Evidensnivå | L3 — Indirekt klinisk evidens / observationsstudier |
-| Marknadsstatus i Sverige | Inte marknadsförd |
-| Antal godkännanden | 0 |
+|------|------|
+| Ursprunglig indikation | Ej angiven i tillgängliga data |
+| Förutsagd ny indikation | Amenorré |
+| TxGNN-förutsägelsepoäng | 99,8 % |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Antal godkännanden | 3 |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-Detaljerad MOA-data saknas för närvarande i databasen. Baserat på känd farmakologi är etonogestrel ett tredje generationens gestagen som är det verksamma ämnet i implantatet Implanon/Nexplanon, vars preventivmedelseffekt har väl dokumenterats i ett flertal kliniska studier.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts. Det är allmänt känt att etonogestrel är ett gestagen som hämmar ägglossning och gör slemhinnan i livmodern tunnare. Det är dessa effekter som gör att blödningarna ofta uppträder oregelbundet eller uteblir.
 
-Etonogestrel utövar sin effekt genom att supprimera LH-toppen och hämma ovulationen, samt dämpa endometrieproliferationen via bindning till progesteronreceptorer. I fas 3-studier av preventivmedelsimplantat har amenorré — definierat som fullständigt upphörande av menstruationsblödning — rapporterats hos 20–30 % av användarna och dokumenterats systematiskt som ett primärt blödningsmönster-utfall. Denna välbelagda amenorré-inducerande egenskap utgör den biologiska grunden för TxGNN:s förutsägelse.
+Här finns en viktig brasklapp: amenorré är en välkänd biverkan av etonogestrelimplantat och inte en sjukdom som behandlas. Att framkalla amenorré kan vara ett behandlingsmål vid till exempel kraftiga menstruationsblödningar eller endometrios, men det stöds inte av data i detta underlag. Den höga modellpoängen (0,998) är därför en förutsägelse och inte ett belägg för nytta.
 
-Sambandet mellan den ursprungliga preventivmedelsindikationen och amenorré är mekanistiskt logiskt: etonogestrels förmåga att supprimera den endometriella cykeln kan i teorin utnyttjas terapeutiskt vid tillstånd som *kräver* kontrollerad amenorré, exempelvis menorragi (kraftig menstruationsblödning), endometrios eller funktionell livmodersblödning. Det finns dock en grundläggande riktningsambiguitet: om målindikationen "amenorrhea (disease)" avser *patologisk* primär eller sekundär amenorré — där utebliven menstruation är ett symptom på en underliggande sjukdom — kan etonogestrel snarare vara en bidragande orsak än ett botemedel. Klinisk återanvändning förutsätter att detta målscenario klargörs noga innan vidare utvärdering.
-
----
-
-## Kliniska prövningar
-
-| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
-|-----------------|-----|--------|-----------|--------------|
-| [NCT04626596](https://clinicaltrials.gov/study/NCT04626596) | Fas 3 | Avslutad | 498 | Fas 3-studie av etonogestrel-implantatets preventiveffekt och säkerhet vid utvidgad användning till 4–5 år (godkänd duration är 3 år). Amenorré registrerades som sekundärt utfallsmått inom blödningsmönster-analys, inte som primär indikation eller behandlingsmål. Studien bekräftar att implantatet förblir effektivt upp till 5 år. |
+Modellen pekar även på godartade bröstförändringar (fibrocystisk bröstsjukdom, "blunt duct adenosis", apokrin adenos och benign mammär dysplasi). Sambandet antas bero på gemensamma hormonella signalvägar. Det finns ingen etonogestrelspecifik evidens, och gestagenets effekter på bröstvävnad är dessutom blandade när det gäller bröstsäkerhet.
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [10549446](https://pubmed.ncbi.nlm.nih.gov/10549446/) | 1999 | RCT | *Contraception* | Randomiserad multicenterstudie (n=200) i Kina som jämförde Implanon (enkelstav, etonogestrel) med Norplant (sex kapslar) under 2–4 år. Inga graviditeter noterades i någon grupp. Blödningsmönster — inklusive amenorré-frekvens per 90-dagarsreferensperiod — dokumenterades som centralt utfallsmått, vilket ger indirekt evidens för etonogestrels amenorré-inducerande förmåga. |
-| [33430924](https://pubmed.ncbi.nlm.nih.gov/33430924/) | 2021 | RCT | *Trials* | Studieprotokoll för BIO101 (ett växtbaserat preparat) vid COVID-19-pneumoni för att förebygga andningssvikt. Denna publikation saknar direkt koppling till etonogestrel eller amenorré och bedöms vara en falsk positiv i evidensinhämtningen. |
+|------|-----|------|------|---------|
+| [33430924](https://pubmed.ncbi.nlm.nih.gov/33430924/) | 2021 | RCT-protokoll (ej relevant) | Trials | Studieprotokoll om BIO101 för att förebygga andningsförsämring vid covid-19-pneumoni. Handlar inte om etonogestrel eller amenorré. |
 
 ---
 
-## Säkerhetsaspekter
+### Marknadsinformation Sverige
 
-Se produktresumén för säkerhetsinformation.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 14924 | Nexplanon | Implantat | Ej angiven (avregistrerad) |
+| 17179 | NuvaRing | Vaginalinlägg | Ej angiven (avregistrerad) |
+| 54511 | Ornibel | Vaginalinlägg | Ej angiven (avregistrerad) |
 
 ---
 
-## Slutsats och nästa steg
+### Säkerhetsaspekter
+
+- **Kontraindikationer enligt kunskapsgrafen** (härledda från TxGNN:s kunskapsgraf, inte från produkttext): sjukdomar som kan vara relevanta att beakta är bland annat högt blodtryck, epilepsi, lever- och njursjukdom, gallblåsesjukdom, porfyri, systemisk lupus erytematosus, astma, diabetes (inklusive ketoacidos), förhöjda blodfetter, bröstcancer, tromboflebit, migrän, kranskärlssjukdom, fetma samt ångest- och nervösa tillstånd.
+- **Läkemedelsinteraktioner**: totalt 100 interaktioner har identifierats, alla av grad måttlig i de listade exemplen. De viktigaste grupperna är:
+  - Diabetesläkemedel: akarbos, metformin, glimepirid, klorpropamid, kanagliflozin, dapagliflozin, empagliflozin, alogliptin, saxagliptin, albiglutid, dulaglutid, semaglutid samt flera insuliner (aspart, degludek, detemir, glargin, glulisin)
+  - Aprepitant
+  - Klaritromycin
+  - Linaklotid
+
+Varnings- och kontraindikationstext från produktresumén saknas. Se produktresumén för fullständig säkerhetsinformation.
+
+---
+
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-Trots ett mycket högt TxGNN-förutsägelsepoäng (99,84 %) präglas återanvändningshypotesen av en grundläggande riktningsambiguitet — etonogestrel *inducerar* amenorré som välkänd biverkning snarare än behandlar patologisk amenorré — och evidensnivån L3 baseras uteslutande på indirekta studier där amenorré är ett sekundärt utfallsmått i preventivmedelsstudier.
+- Förutsägelsen bygger enbart på modellen (evidensnivå L5). Amenorré är en känd biverkan snarare än en behandlingsbar sjukdom, och inga kliniska prövningar eller relevant litteratur finns. Dessutom är alla svenska godkännanden avregistrerade.
 
 **För att gå vidare krävs:**
-- Klargörande av målindikationen: avser återanvändningen (a) terapeutisk amenorréinduktion vid tillstånd som menorragi eller endometrios, eller (b) behandling av *patologisk* primär/sekundär amenorré — dessa scenarier kräver helt skilda utvärderingsvägar
-- Direkta kliniska studier med amenorré som *primärt behandlingsutfall*, inte enbart biverkningsdokumentation
-- MOA-data från DrugBank (åtgärda datagap DG002) för att stärka den mekanistiska analysen
-- Säkerhetsdata från produktresumén — varningar och kontraindikationer (åtgärda datagap DG001) — innan säkerhetsinitialvärdering (S1) kan genomföras
+- Att först definiera en kliniskt meningsfull indikation, till exempel kraftiga blödningar eller endometrios, där amenorré är ett behandlingsmål.
+- Verkningsmekanismdata från DrugBank.
+- Varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA), vilket är en förutsättning för säkerhetsgranskning.
+- Relevanta kliniska prövningar och litteratur som specifikt rör etonogestrel för den valda indikationen.
+- En bedömning av beredningsform och administreringsväg, som ännu inte är gjord.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

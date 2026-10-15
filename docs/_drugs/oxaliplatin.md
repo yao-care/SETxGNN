@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Oxaliplatin
-parent: Endast modellprediktion (L5)
-nav_order: 83
-evidence_level: L5
+parent: Hög evidens (L1-L2)
+nav_order: 329
+evidence_level: L2
 indication_count: 4
 ---
 
 # Oxaliplatin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **4** st
+Evidensnivå: **L2** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,88 +29,110 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Oxaliplatin: Från kolorektalcancer till malignt pleuralt mesoteliom
+# Oxaliplatin: Från metastaserad koloncancer till malignt pleuralt mesoteliom
+
+---
 
 ## Sammanfattning
 
-Oxaliplatin är ett tredje generationens platinabaserat kemoterapiläkemedel med bevisad synergistisk aktivitet mot kolorektalcancer. TxGNN-modellen förutsäger att det kan vara effektivt mot **malignt pleuralt mesoteliom (MPM)** med en förutsägelsepoäng på 99,68 %. Förutsägelsen stöds av **6 kliniska prövningar** och **20 publikationer**, varav flera direkt har utvärderat oxaliplatin i kombinationsregimer specifikt för MPM.
+Oxaliplatin är ett platinabaserat cytostatikum som ursprungligen användes vid behandling av metastaserad koloncancer. TxGNN-modellen förutsäger att det kan vara effektivt mot **malignt pleuralt mesoteliom**, med **3 kliniska prövningar** (varav 2 direkt relevanta fas II-studier) och **20 publikationer** som för närvarande stöder denna riktning. Evidensen består i huvudsak av små, enarmade fas II-studier. Det finns ingen fas III-studie.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Kolorektalcancer |
+|------|------|
+| Ursprunglig indikation | Metastaserad koloncancer (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
 | Förutsagd ny indikation | Malignt pleuralt mesoteliom |
-| TxGNN-förutsägelsepoäng | 99,68 % |
-| Evidensnivå | L2 – 1 avslutad fas 2-prövning med direkt relevans |
-| Marknadsstatus i Sverige | Inte marknadsfört |
-| Antal godkännanden | 0 |
+| TxGNN-förutsägelsepoäng | 99,7 % |
+| Evidensnivå | L2 |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 6 (samtliga indragna) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-Oxaliplatin är en platinakoordinationsförening med en DACH-bärligand (1,2-diaminocyklohexan). Läkemedlet binder kovalent till DNA och bildar intrastrand-crosslinks – framför allt 1,2-d(GpG)-addukter – samt interstrand-crosslinks, vilket blockerar DNA-replikation och transkription och utlöser apoptos. En central egenskap är att dessa DACH-bundna addukter i lägre grad känns igen av mismatch-reparationsproteiner jämfört med cisplatins addukter, vilket kan övervinna viss platinaresistens.
+Någon detaljerad verkningsmekanismdata är inte tillgänglig för närvarande. Baserat på känd information är oxaliplatin ett platinabaserat läkemedel som bildar tvärbindningar i DNA. Det hämmar därmed DNA-replikation och transkription. Dess effekt vid koloncancer är väl belagd, särskilt i kombination med 5-fluorouracil.
 
-Sambandet mellan kolorektalcancer och malignt pleuralt mesoteliom bygger på en delad biologisk sårbarhet: mesoteliomceller, i synnerhet den epiteloida subtypen, uppvisar dokumenterat nedsatt kapacitet för nukleotidexcisionsreparation (NER) – den primära cellulära mekanism som reparerar platinaorsakade DNA-skador. Denna NER-defekt gör MPM-celler särskilt känsliga för oxaliplatins DNA-tvärbindningar, och utgör den biologiska grunden för att GEMOX-regimen (Gemcitabin + Oxaliplatin) och kombinationen Raltitrexed + Oxaliplatin specifikt har utforskats i MPM-studier.
+Andra platinaläkemedel, som cisplatin och karboplatin, är etablerade vid mesoteliom. Därför är det rimligt att oxaliplatin med liknande cytotoxisk mekanism kan fungera även här. Fas II-studier har visat aktivitet i kombination med gemcitabin, raltitrexed och vinorelbin, även hos patienter som tidigare behandlats.
 
-Den mekanistiska logiken är direkt bekräftad i klinisk forskning: fas 2-prövningar visar påvisad aktivitet för oxaliplatin i kombinationsregimer som förstalinjebehandling vid MPM. Därtill inducerar oxaliplatin immunogen celldöd genom calreticulin-exponering på cellytan, vilket skapar ett biologiskt rationale för synergistisk kombination med checkpointhämmare – ett alltmer centralt behandlingsparadigm vid MPM.
+Standardbehandlingen är fortfarande cisplatin plus pemetrexed. Oxaliplatin ses därför främst som ett möjligt alternativ för patienter som inte kan få cisplatin eller vars sjukdom har fortskridit. Det finns också studier med motstridiga resultat. Kombinationen raltitrexed och oxaliplatin var inaktiv som andrahandsbehandling i en liten studie (14 patienter).
 
 ---
 
 ## Kliniska prövningar
 
 | Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
-|----------------|-----|--------|-----------|--------------|
-| [NCT00859469](https://clinicaltrials.gov/study/NCT00859469) | Fas 2 | Avslutad | 29 | Oxaliplatin + Gemcitabin som första- eller andralinjeterapi vid malign pleural eller peritoneal mesoteliom; direkt högkvalitativ evidens för kombinationens responsfrekvens och tolerabilitet |
-| [NCT00996385](https://clinicaltrials.gov/study/NCT00996385) | Fas 2 | Okänd | 29 | Bortezomib + Oxaliplatin (VELCADE + ELOXATIN) hos tidigare behandlade MPM-patienter; max 6 cykler; tumörrespons utvärderades med CT-scanning var 8:e vecka |
-| [NCT03210298](https://clinicaltrials.gov/study/NCT03210298) | N/A | Okänd | 1 000 | Internationellt multicenterdokumentationsregister för trycksatt intraperitoneal aerosolkemoterapi (PIPAC/PITAC) vid maligna pleural- och peritonealsjukdomar; oxaliplatin är ett vanligt PIPAC-läkemedel och ger verkliga användningsdata |
-| [NCT07532902](https://clinicaltrials.gov/study/NCT07532902) | Fas 1 | Rekryterar | 60 | BMS-986504 i kombination med standardvård vid metastatiska MTAP-deleterade solida tumörer; standardvård kan inkludera platinabaserade regimer |
-| [NCT05107674](https://clinicaltrials.gov/study/NCT05107674) | Fas 1 | Rekryterar | 345 | NX-1607 (CBL-B-hämmare) doseskalering i avancerade maligniteter med bred basket-design som eventuellt inkluderar mesoteliomkohort |
+|---------|------|------|------|---------|
+| [NCT00859469](https://clinicaltrials.gov/study/NCT00859469) | Fas 2 | Avslutad | 29 | Oxaliplatin plus gemcitabin som första- eller andrahandsbehandling vid pleuralt eller peritonealt mesoteliom. Enarmad studie med svarsfrekvens som mått. |
+| [NCT00996385](https://clinicaltrials.gov/study/NCT00996385) | Fas 2 | Okänd | 29 | Bortezomib (Velcade) plus oxaliplatin hos tidigare behandlade patienter. Kombinationspartnern gör det svårt att särskilja oxaliplatins effekt. |
+| [NCT07532902](https://clinicaltrials.gov/study/NCT07532902) | Fas 1 | Rekryterar | 60 | Korg-studie med BMS-986504 plus standardbehandling vid MTAP-deleterade solida tumörer. Oxaliplatin är sannolikt bara en del av bakgrundsbehandlingen, så studien säger lite om effekt vid mesoteliom. |
 
 ---
 
 ## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [12525529](https://pubmed.ncbi.nlm.nih.gov/12525529/) | 2003 | Fas 2-prövning | Journal of Clinical Oncology | Raltitrexed + Oxaliplatin i 70 MPM-patienter (55 kemonaiva, 15 förbehandlade); kombinationen visade klinisk aktivitet i MPM, en av de viktigaste primärstudierna |
-| [14609447](https://pubmed.ncbi.nlm.nih.gov/14609447/) | 2003 | Fas 2-prövning | Clinical Lung Cancer | Multicenterstudie GEMOX (Gemcitabin 1 000 mg/m² + Oxaliplatin 80 mg/m²) i 25 MPM-patienter, dag 1 och 8 per 21-dagarscykel; utvärderar klinisk aktivitet |
-| [19091133](https://pubmed.ncbi.nlm.nih.gov/19091133/) | 2008 | Fas 2-prövning | Journal of Occupational Medicine and Toxicology | Oxaliplatin ± Gemcitabin hos MPM-patienter förbehandlade med pemetrexed; ger andralinjeevidens för kombinationsanvändning |
-| [11989592](https://pubmed.ncbi.nlm.nih.gov/11989592/) | 2001 | Fas 2-prövning | Tumori | Pilotstudie Oxaliplatin + Raltitrexed vid inoperabel MPM; bygger vidare på fas 1-aktivitetsfynd; tidig klinisk bekräftelse |
-| [15639727](https://pubmed.ncbi.nlm.nih.gov/15639727/) | 2005 | Fas 2-prövning | Lung Cancer | Vinorelbine + Oxaliplatin som förstalinjebehandling i MPM; 21-dagarscykler upp till 6 cykler; rapporterar responsfrekvens och tolerabilitetsprofil |
-| [15893013](https://pubmed.ncbi.nlm.nih.gov/15893013/) | 2005 | Fas 2-prövning | Lung Cancer | Raltitrexed + Oxaliplatin som andralinjeterapi i MPM; 14 patienter, ingen objektiv respons uppnåddes – kombinationen inaktiv i andralinjeinställning; viktig negativ evidens |
-| [31455014](https://pubmed.ncbi.nlm.nih.gov/31455014/) | 2019 | Översikt | International Journal of Molecular Sciences | Oxaliplatin, cisplatin och pemetrexed undersökta för immunmodulerande egenskaper i MPM; oxaliplatin bedöms lovande för kombination med checkpointhämmare på grund av immunogenicitet |
-| [10936465](https://pubmed.ncbi.nlm.nih.gov/10936465/) | 2000 | Översikt | Critical Reviews in Oncology/Hematology | Oxaliplatins kliniska aktivitetsprofil; brett tumörspektrum; DACH-liganden ger unik adduktsignatur och gynnsam säkerhetsprofil jämfört med cisplatin |
-| [12610498](https://pubmed.ncbi.nlm.nih.gov/12610498/) | 2003 | Översikt | British Journal of Cancer | Sammanfattning av kliniska prövningar i MPM-kemoterapi; platinabaserade kombinationer och antifolater mer lovande än konventionella cytotoxiska regimer |
-| [11836672](https://pubmed.ncbi.nlm.nih.gov/11836672/) | 2002 | Översikt | Seminars in Oncology | Antifolaters roll i MPM; raltitrexed/oxaliplatin och pemetrexed/cisplatin framhålls som de starkaste kombinationerna i tillgänglig fas 2-data |
+|------|-----|------|------|---------|
+| [14609447](https://pubmed.ncbi.nlm.nih.gov/14609447/) | 2003 | Fas II (multicenter) | Clinical Lung Cancer | Gemcitabin plus oxaliplatin hos 25 patienter med malignt pleuralt mesoteliom, utan tidigare kemoterapi. |
+| [12525529](https://pubmed.ncbi.nlm.nih.gov/12525529/) | 2003 | Fas II | Journal of Clinical Oncology | Raltitrexed plus oxaliplatin visade aktivitet hos 70 patienter (55 obehandlade, 15 förbehandlade). |
+| [15639727](https://pubmed.ncbi.nlm.nih.gov/15639727/) | 2005 | Fas II | Lung Cancer | Vinorelbin plus oxaliplatin som förstahandsbehandling vid malignt pleuralt mesoteliom. |
+| [19091133](https://pubmed.ncbi.nlm.nih.gov/19091133/) | 2008 | Fas II / observationsstudie | Journal of Occupational Medicine and Toxicology | Gemcitabin plus oxaliplatin hos patienter förbehandlade med pemetrexed. |
+| [11989592](https://pubmed.ncbi.nlm.nih.gov/11989592/) | 2001 | Fas II (pilotstudie) | Tumori | Oxaliplatin plus raltitrexed vid inoperabelt malignt pleuralt mesoteliom. |
+| [15893013](https://pubmed.ncbi.nlm.nih.gov/15893013/) | 2005 | Fas II | Lung Cancer | Raltitrexed plus oxaliplatin var inaktiv som andrahandsbehandling. Inga objektiva svar, stabil sjukdom hos 4 av 14 patienter. |
+| [15261443](https://pubmed.ncbi.nlm.nih.gov/15261443/) | 2004 | Översikt | Lung Cancer | Sammanfattar kemoterapistudier vid pleuralt mesoteliom. Svarsfrekvenser över 30 % har sällan uppnåtts med etablerade cytostatika. |
+| [12610498](https://pubmed.ncbi.nlm.nih.gov/12610498/) | 2003 | Översikt | British Journal of Cancer | Liknande översikt av fas II–III-studier vid pleuralt mesoteliom. |
+| [10930799](https://pubmed.ncbi.nlm.nih.gov/10930799/) | 2000 | Erfarenhetsöversikt | European Journal of Cancer | Erfarenheter från Institut Gustave Roussy med 163 patienter, inklusive kombinationen raltitrexed och oxaliplatin. |
+| [31455014](https://pubmed.ncbi.nlm.nih.gov/31455014/) | 2019 | Experimentell studie / översikt | International Journal of Molecular Sciences | Undersöker hur kemoterapi, bland annat oxaliplatin, påverkar immunkontrollpunkter inför kombination med immunterapi. |
 
 ---
 
 ## Marknadsinformation Sverige
 
-Oxaliplatin är för närvarande **inte marknadsfört i Sverige**. Inga produktgodkännanden är registrerade (totalt 0 licenser).
+Samtliga sex godkännanden är indragna och ingen indikationstext finns registrerad.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 23844 | Oxaliplatin Teva | Koncentrat till infusionsvätska, lösning | Uppgift saknas |
+| 44409 | Oxaliplatin Fresenius Kabi | Koncentrat till infusionsvätska, lösning | Uppgift saknas |
+| 41633 | Oxaliplatin Accord | Koncentrat till infusionsvätska, lösning | Uppgift saknas |
+| 43028 | Oxaliplatin Sandoz | Koncentrat till infusionsvätska, lösning | Uppgift saknas |
+| 23806 | Oxaliplatin Vianex | Pulver till infusionsvätska, lösning | Uppgift saknas |
 
 ---
 
 ## Cytotoxicitet
 
 | Post | Innehåll |
-|------|----------|
-| Cytotoxicitetsklassificering | Konventionell cytotoxisk – tredje generationens platinaanalog med DACH-bärligand (alkylerande/DNA-tvärbindande verkningsmekanism) |
-| Myelosuppressionsrisk | Medel – trombocytopeni och neutropeni förekommer; generellt mildare benmärgspåverkan än cisplatin |
-| Emetogenicitetsklassificering | Medel – antiemetisk profylax rekommenderas inför varje administrering |
-| Övervakningspunkter | Fullständigt blodstatus (CBC) inför varje cykel; lever- och njurfunktion; neurologisk bedömning (kumulativ perifer sensorisk neuropati är den dosbegränsande toxiciteten) |
-| Hanteringsskydd | Ja – beredning och administrering kräver skyddsåtgärder i enlighet med gällande cytotoxikahanteringsföreskrifter |
+|------|------|
+| Cytotoxicitetsklassificering | Konventionell cytotoxisk (platinabaserat, DNA-tvärbindande) |
+| Myelosuppressionsrisk | Se produktresumén för varningar och försiktighetsåtgärder |
+| Emetogenicitetsklassificering | Medel (enligt läkemedelsklass) |
+| Övervakningspunkter | Blodstatus, lever- och njurfunktion samt neurologisk status (perifer neuropati) |
+| Hanteringsskydd | Hantering enligt föreskrifter för cytostatika |
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén (SmPC) för fullständig säkerhetsinformation avseende varningar, kontraindikationer och läkemedelsinteraktioner.
+Uppgifter från produktresumén om varningar och kontraindikationer saknas i de data som sammanställts för denna rapport. Se produktresumén för fullständig säkerhetsinformation.
+
+- **Sjukdomar som kunskapsgrafen kopplar till kontraindikation** (inte hämtade från produkttext): njursjukdom, leversjukdom, gallblåsesjukdom, sjukdom i det perifera nervsystemet och perifer neuropati, interstitiell lungsjukdom och lungfibros, samt pyoureter.
+- **Läkemedelsinteraktioner:** 100 interaktioner identifierades. Den allvarligaste i det visade urvalet är **dolasetron** (allvarlig). Flera interaktioner av måttlig grad gäller bland annat:
+  - amfotericin B
+  - vankomycin
+  - kanamycin
+  - levofloxacin
+  - klaritromycin
+  - metronidazol
+  - famotidin
+  - palonosetron
+  - loperamid
+  - mesalazin
+  - laxermedel (bisakodyl, laktulos, laktitol m.fl.)
 
 ---
 
@@ -119,14 +141,14 @@ Se produktresumén (SmPC) för fullständig säkerhetsinformation avseende varni
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Oxaliplatin uppvisar stark biologisk plausibilitet och direkt klinisk fas 2-evidens för behandling av malignt pleuralt mesoteliom via NER-defektmekanismen. Avsaknaden av svenska godkännanden samt ofullständig säkerhetsdokumentation motiverar ett strukturerat och försiktigt tillvägagångssätt.
+- Det finns flera fas II-studier som visar aktivitet av oxaliplatinkombinationer vid malignt pleuralt mesoteliom, men studierna är små och enarmade, och det saknas fas III-data. Cisplatin plus pemetrexed är fortsatt standardbehandling, och en studie visade ingen effekt som andrahandsbehandling.
+- Förutsägelserna för undertyperna epiteloid och sarkomatoid mesoteliom samt malignt tumör i viscerala pleura saknar egen kliniskt stöd och bör inte prioriteras (Avvakta).
 
 **För att gå vidare krävs:**
-- **Säkerhetsgranskning**: Hämta och analysera produktresumé (SmPC) från EMA eller Läkemedelsverket för att kartlägga kontraindikationer och viktigaste varningar
-- **MOA-verifiering**: Komplettera DrugBank API-sökning för fullständig farmakodynamisk profil inklusive kända resistensmekanismer
-- **Regulatorisk kartläggning**: Utred möjligheter för klinisk prövning eller licensansökan i Sverige i samråd med Läkemedelsverket
-- **Subtypselektion**: Definiera huruvida studiedesignen ska fokusera på epiteloid MPM (bäst förväntad respons på grund av NER-defekt) eller en bredare MPM-population
-- **Kombinationsstrategi**: Välj optimal kombinationspartner – Gemcitabin (GEMOX-regimen, starkast direkt evidens) eller immunterapi (för att utnyttja oxaliplatins immunogena celldödseffekt) – samt administreringsväg (systemisk IV kontra lokoregional HIPEC/PIPAC)
+- Randomiserade jämförande studier mot cisplatin plus pemetrexed, eller hos patienter som inte tål cisplatin.
+- Verkningsmekanismdata och uppgifter från produktresumén om varningar och kontraindikationer.
+- Subtypspecifika data (epiteloid, sarkomatoid).
+- En bedömning av tillgången på oxaliplatin i Sverige, eftersom samtliga godkännanden är indragna.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

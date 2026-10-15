@@ -2,7 +2,7 @@
 layout: default
 title: Propofol
 parent: Hög evidens (L1-L2)
-nav_order: 89
+nav_order: 369
 evidence_level: L2
 indication_count: 5
 ---
@@ -29,97 +29,110 @@ Evidensnivå: **L2** | Förutsagda indikationer: **5** st
 
 </div>
 
-Nu genererar jag rapporten baserat på Evidence Pack. Propofol är ett etablerat anestetikum (ej antineoplastiskt), så cytotoxicitetsavsnittet utelämnas. Säkerhetsdata saknas helt ([Data Gap]), och inga svenska godkännanden finns registrerade.
+# Propofol: Från anestesi och sedering till migrän
 
 ---
 
-# Propofol: Från allmän anestesi till migrän
+### Sammanfattning
 
-## Sammanfattning
-
-Propofol är ett intravenöst anestetikum som sedan decennier används för induktion och underhåll av generell anestesi samt för sedering vid intensivvård och procedurella ingrepp. TxGNN-modellen förutsäger att propofol i sub-anestetiska doser kan vara effektivt vid akut behandling av **migrän**, med **5 kliniska prövningar** och **20 publikationer** som för närvarande stöder denna riktning. Den starkaste evidensen utgörs av en avslutad fas 2/3-studie på pediatrisk akutmottagning, kompletterad av flera randomiserade kontrollerade studier och en systematisk översikt hos vuxna.
+Propofol är ett intravenöst narkosmedel som används för att söva och sedera patienter. Det finns inga registrerade indikationstexter i de svenska godkännandena i underlaget. TxGNN-modellen förutsäger att propofol kan vara effektivt mot **migrän** (migraine disorder), med **3 kliniska prövningar** och **20 publikationer** som för närvarande stöder denna riktning. Bland dessa finns flera randomiserade studier och två systematiska översikter.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Induktion och underhåll av generell anestesi; sedering vid intensivvård och procedurer |
+| Ursprunglig indikation | Ingen indikationstext registrerad i de svenska godkännandena (propofol används som anestesi- och sederingsmedel) |
 | Förutsagd ny indikation | Migrän (migraine disorder) |
-| TxGNN-förutsägelsepoäng | 99,69% |
+| TxGNN-förutsägelsepoäng | 99,7 % |
 | Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Ej marknadsförd |
-| Antal godkännanden | 0 |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 11 (alla indragna) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-Propofol (2,6-diisopropylphenol) verkar primärt genom positiv allosterisk modulering av GABA-A-receptorer, vilket förstärker inhibitorisk neurotransmission i centrala nervsystemet. Vid sub-hypnotiska doser (10–40 mg IV bolus) uppnås inte full anestesi, men CNS-dämpningen är tillräcklig för att påverka smärtprocessering och central nervaktivitet. Propofol har därutöver en svag blockerande effekt på natriumkanaler, vilket ytterligare kan minska neuronal urladdning.
+Någon detaljerad verkningsmekanismdata finns inte tillgänglig i det sammanställda underlaget. Baserat på känd information är propofol en positiv allosterisk modulator av GABA-A-receptorn. Genom att förstärka den hämmande GABA-signaleringen kan läkemedlet dämpa smärtsignaler i det trigeminovaskulära systemet och den ökade retbarheten i hjärnbarken.
 
-Den mekanistiska kopplingen till migrän är biologiskt välgrundad. Migrän involverar hyperaktivering av det trigeminovaskulära systemet med central sensitisering som ett centralt patofysiologiskt drag – GABA-erga läkemedel kan dämpa denna sensitisering och bryta anfallet. I djurmodeller har propofol-hemisuccinat visats undertrycka kortikal spridande depolarisation (cortical spreading depression, CSD), som betraktas som den elektrofysiologiska korrelaten till migränaura och möjlig utlösare av migränsmärta.
+Prekliniska studier visar dessutom att propofolderivat hämmar "cortical spreading depression", den elektriska våg som anses ligga bakom migränaura och kunna utlösa migränattacker. Det ger en biologiskt rimlig koppling mellan propofols effekt på nervsystemet och migrän.
 
-Den kliniska observationen som lade grunden för detta forskningsområde var att patienter med migrän upplevde anfallsfrihet i samband med propofol-anestesi. Denna iakttagelse ledde till systematisk utforskning av sub-anestetisk dosering som abortivbehandling vid svårbehandlad och refraktär migrän, framför allt i akutmottagningssetting där standardbehandlingar inte gett tillräcklig effekt.
+I klinisk praxis har propofol i låg dos prövats som räddningsbehandling vid svår migrän som inte svarat på standardbehandling, framför allt på akutmottagning. Behandlingen kräver övervakning av utbildad personal på grund av risken för sedering och andningsdepression.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 | Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
 |---------|------|------|------|---------|
-| [NCT01604785](https://clinicaltrials.gov/study/NCT01604785) | Fas 2/3 | Avslutad | 74 | Enda direkta fas 2/3-prövning; sub-anestetisk propofol som abortivbehandling av pediatrisk migrän på akutmottagning. Tillräcklig statistisk styrka; utgör det starkaste direkta kliniska evidensunderlaget. |
-| [NCT02485418](https://clinicaltrials.gov/study/NCT02485418) | — | Avslutad | 40 | Utvärderar effekt och säkerhet av lågdos propofol-infusion som abortivbehandling vid pediatrisk migrän. Bekräftar dosintervall och tolerabilitet i pediatrisk population. |
-| [NCT02492295](https://clinicaltrials.gov/study/NCT02492295) | — | Avbruten | 12 | Lågdos propofol för svår refraktär migrän hos vuxna på akutmottagning. Avbröts tidigt (n=12); riktningen stöder användningen men data är otillräckliga som primär evidens. Avbrottsorsak bör utredas. |
-| [NCT03789370](https://clinicaltrials.gov/study/NCT03789370) | — | Okänd | 130 | Jämförde propofol mot sevofluran som underhållsanestesi avseende postoperativ huvudvärk. Ger indirekt information om propofols skyddande effekt vid huvudvärk; lägre relevans för re-purposing. |
-| [NCT02443220](https://clinicaltrials.gov/study/NCT02443220) | — | Avslutad | 315 | Elektroakupunkturstudie vid hjärtkirurgi; propofol används enbart som anestesimedel. Minimal relevans för återanvändningsbedömning av propofol mot migrän. |
+| [NCT01604785](https://clinicaltrials.gov/study/NCT01604785) | Fas 2/3 | Avslutad | 74 | Lågdos propofol mot akut migrän hos barn på akutmottagning. Resultat redovisas inte i underlaget, så effekten kan inte bekräftas här. |
+| [NCT02485418](https://clinicaltrials.gov/study/NCT02485418) | Ej tillämplig | Avslutad | 40 | Lågdos propofolinfusion mot migrän hos barn. Syftar till att utvärdera effekt, säkra doser och effektduration. |
+| [NCT02492295](https://clinicaltrials.gov/study/NCT02492295) | Ej tillämplig | Avbruten | 12 | Lågdos propofol vid svår, behandlingsresistent migrän på akutmottagning. Avbröts i förtid och orsaken anges inte, vilket begränsar tolkningen. |
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [41321235](https://pubmed.ncbi.nlm.nih.gov/41321235/) | 2026 | Klinisk riktlinje | Headache | AHS 2025 uppdaterade riktlinjer för parenteral farmakoterapi vid akut migrän på akutmottagning; evidensvärdering inkluderar propofol. |
-| [31621134](https://pubmed.ncbi.nlm.nih.gov/31621134/) | 2020 | Systematisk översikt | Academic Emergency Medicine | Systematisk genomgång av propofols säkerhet och effekt vid akut migrän på akutmottagning; sammanfattar hela det befintliga evidensunderlaget. |
-| [35402989](https://pubmed.ncbi.nlm.nih.gov/35402989/) | 2022 | RCT | Archives of Academic Emergency Medicine | Dubbelblind RCT jämför propofol + granisetron mot propofol + metoklopramid vid symtomkontroll av akut migrän. |
-| [35573713](https://pubmed.ncbi.nlm.nih.gov/35573713/) | 2022 | RCT | Archives of Academic Emergency Medicine | RCT utvärderar sumatriptan/propofol-kombination mot sumatriptan/placebo vid akut migrän på akutmottagning. |
-| [29456086](https://pubmed.ncbi.nlm.nih.gov/29456086/) | 2018 | RCT | Journal of Emergency Medicine | Prospektiv RCT av lågdos propofol för pediatrisk migrän; utvärderar effekt och biverkningsprofil samt potentiellt förkortad vårdtid. |
-| [32705801](https://pubmed.ncbi.nlm.nih.gov/32705801/) | 2020 | Pilot-RCT | Emergency Medicine Australasia | Pilot-RCT jämför propofol i sedationsdos mot standardbehandling vid initial migrän på akutmottagning. |
-| [32638172](https://pubmed.ncbi.nlm.nih.gov/32638172/) | 2020 | Översikt | Current Pain and Headache Reports | Genomgång av intravenös migränbehandling hos barn och ungdomar; diskuterar propofol bland övriga parenterala alternativ. |
-| [27454834](https://pubmed.ncbi.nlm.nih.gov/27454834/) | 2016 | Översikt | Expert Review of Neurotherapeutics | Fullständig läkemedelsprofil för propofol vid superrefraktär migrän; beskriver sub-anestetisk dosregim och patientpopulation. |
-| [10759925](https://pubmed.ncbi.nlm.nih.gov/10759925/) | 2000 | Fallserie | Headache | Tidig observationsstudie som rapporterade unik effekt av intravenöst propofol vid refraktär migrän på poliklinisk headache-mottagning; lade grunden för vidare forskning. |
-| [22309235](https://pubmed.ncbi.nlm.nih.gov/22309235/) | 2012 | Översikt | Headache | Genomgång av räddningsbehandlingar vid akut migrän inklusive propofol, lidokain och nitrous oxide; kontextualiserar propofols plats bland alternativa terapier. |
+| [31621134](https://pubmed.ncbi.nlm.nih.gov/31621134/) | 2020 | Systematisk översikt | Academic Emergency Medicine | Utvärderar säkerhet och effekt av propofol vid akut migrän på akutmottagning. Evidensen från tidigare studier är begränsad. |
+| [29456086](https://pubmed.ncbi.nlm.nih.gov/29456086/) | 2018 | RCT | The Journal of Emergency Medicine | Prospektiv randomiserad studie av lågdos propofol mot migrän hos barn. |
+| [32705801](https://pubmed.ncbi.nlm.nih.gov/32705801/) | 2020 | Pilot-RCT | Emergency Medicine Australasia | Propofol i sedationsdos jämfört med standardbehandling vid migrän på akutmottagning. |
+| [33070469](https://pubmed.ncbi.nlm.nih.gov/33070469/) | 2021 | RCT | Emergency Medicine Australasia | Dubbelblind jämförelse av propofol och placebo hos vuxna med akut migrän. Primärt mått var att huvudvärken försvunnit efter en timme. |
+| [35573713](https://pubmed.ncbi.nlm.nih.gov/35573713/) | 2022 | RCT | Archives of Academic Emergency Medicine | Sumatriptan i kombination med propofol jämfört med sumatriptan ensamt vid akut migrän. |
+| [35402989](https://pubmed.ncbi.nlm.nih.gov/35402989/) | 2022 | Dubbelblind RCT | Archives of Academic Emergency Medicine | Propofol med granisetron jämfört med propofol med metoklopramid för symtomlindring vid akut migrän. |
+| [41321235](https://pubmed.ncbi.nlm.nih.gov/41321235/) | 2026 | Riktlinje | Headache | Uppdatering av riktlinjen från American Headache Society för akut migränbehandling med injicerbara läkemedel på akutmottagning. |
+| [26790849](https://pubmed.ncbi.nlm.nih.gov/26790849/) | 2016 | Systematisk översikt | Headache | Kvalitativ översikt av akutbehandlingar vid migrän hos barn. |
+| [10759925](https://pubmed.ncbi.nlm.nih.gov/10759925/) | 2000 | Klinisk serie | Headache | Rapporterar särskild effekt av intravenöst propofol vid svårbehandlad migrän på en öppenvårdsklinik för huvudvärk. |
+| [27454834](https://pubmed.ncbi.nlm.nih.gov/27454834/) | 2016 | Översikt | Expert Review of Neurotherapeutics | Beskriver propofols profil vid behandlingsresistent migrän i subanestetiska doser. |
 
 ---
 
-## Marknadsinformation Sverige
+### Marknadsinformation Sverige
 
-Inga registrerade läkemedelsgodkännanden för propofol finns i de tillgängliga regulatoriska data för Sverige. Propofol används dock som välbeprövat anestetikum inom sjukvården globalt och är föremål för godkännanden i ett flertal andra länder.
+Alla 11 godkännanden är indragna och inga produkter är för närvarande aktiva. Indikationstext saknas i underlaget.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 46859 | Propolipid (Fresenius Kabi AB) | Injektions-/infusionsvätska, emulsion i förfylld spruta | Ej angiven |
+| 46860 | Propolipid (Fresenius Kabi AB) | Injektions-/infusionsvätska, emulsion i förfylld spruta | Ej angiven |
+| 43111 | Profast (Baxter Holding B.V.) | Injektionsvätska/infusionsvätska, emulsion | Ej angiven |
+| 25669 | Propofol-Lipuro (B. Braun Melsungen AG) | Injektionsvätska/infusionsvätska, emulsion | Ej angiven |
+| 12279 | Diprivan (Aspen Pharma Trading Limited) | Injektionsvätska/infusionsvätska, emulsion | Ej angiven |
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Möjliga kontraindikationer enligt kunskapsgrafen** (härledda från modellens kunskapsgraf, inte från produktresumétext): epilepsi, hypotoni, andningssvikt, intrakraniell arterioskleros, ärftliga störningar i fettämnesomsättningen och familjär hyperlipidemi.
+- **Läkemedelsinteraktioner**: 100 interaktioner identifierades. De flesta är av måttlig grad. Exempel på läkemedel som interagerar:
+  - Morfin och opium (måttlig)
+  - Ondansetron, granisetron och dolasetron (måttlig)
+  - Klaritromycin och levofloxacin (måttlig)
+  - Cisaprid och famotidin (måttlig)
+  - Olika laxermedel, till exempel laktulos och bisakodyl (måttlig)
+  - Metronidazol (lindrig)
+- **Övrigt**: Propofol kan orsaka sedering och andningsdepression, och behandlingen kräver därför övervakning av utbildad personal. Litteraturen beskriver också enstaka fall av kranskärlsspasm i samband med anestesi.
+
+Se produktresumén för fullständig information om varningar och kontraindikationer, eftersom sådan data inte kunde hämtas för denna rapport.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-Evidensunderlaget klassificeras som L2 baserat på en avslutad fas 2/3-prövning (NCT01604785, n=74) med stöd från flera RCT, en systematisk översikt och uppdaterade kliniska riktlinjer från American Headache Society. Den mekanistiska kopplingen via GABA-A-modulering och dämpning av trigeminovaskulär aktivering är biologiskt välmotiverad, och kliniska observationer av propofols anfallsbrytande effekt sträcker sig tillbaka till tidigt 2000-tal.
+- Det finns flera randomiserade studier och en avslutad fas 2/3-prövning som stöder propofol som räddningsbehandling vid akut migrän, men resultaten är inte bekräftade i underlaget. Dessutom saknas aktiva godkännanden i Sverige och produktresumédata om säkerhet.
 
 **För att gå vidare krävs:**
-- Inhämtning av fullständig säkerhetsinformation: produktresumé, varningar och kontraindikationer för propofol (klassificeras som Blocking data gap)
-- Kartläggning av läkemedelsinteraktioner med vanliga migränläkemedel (triptaner, NSAID, antiemetika, betablockerare)
-- Utredning av avbrottsorsaken för NCT02492295 (säkerhetsproblem eller rekryteringssvårigheter)
-- Regulatorisk strategi för off-label-användning alternativt formell indikationsutvidgning i Sverige
-- Klarläggning av administrationskrav: intravenös tillgång och klinisk övervakning begränsar användningen till akutmottagning och slutenvård, vilket påverkar tillgängligheten som migränbehandling
-- Större väldesignade RCT hos vuxna för att fastställa optimal dosering, effektduration och jämförbarhet mot befintliga standardterapier
+- Hämta och analysera produktresumé för varningar och kontraindikationer, eftersom detta för närvarande blockerar säkerhetsbedömningen.
+- Granska resultaten från NCT01604785 och de randomiserade studierna (särskilt PMID 33070469 och 29456086) för att bekräfta effekt och säkerhet.
+- Klargöra varför NCT02492295 avbröts.
+- Utvärdera vilken patientgrupp (barn eller vuxna) och vilken vårdmiljö (akutmottagning med övervakning) som är aktuell, samt hur den bedömningen påverkas av att inga godkännanden är aktiva i Sverige.
+- Bedöma säkerhet hos patienter med de riskfaktorer som kunskapsgrafen pekar ut, till exempel hypotoni, andningssvikt och störningar i fettomsättningen.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

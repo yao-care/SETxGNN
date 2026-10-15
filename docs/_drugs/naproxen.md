@@ -2,7 +2,7 @@
 layout: default
 title: Naproxen
 parent: Endast modellprediktion (L5)
-nav_order: 77
+nav_order: 310
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,57 +29,71 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-Texten nedan är den fullständiga utvärderingsrapporten baserad på Evidence Pack-JSON:t.
+# Naproxen: Från inflammatoriska smärttillstånd och ledsjukdomar till brachydaktyli-syndaktyli-syndrom
 
 ---
 
-# Naproxen: Från smärt- och inflammationsbehandling till brachydactyly-syndactyly syndrome
-
 ## Sammanfattning
 
-Naproxen är ett välkänt icke-steroidalt antiinflammatoriskt läkemedel (NSAID) som kliniskt används för behandling av smärta, inflammation och feber. TxGNN-modellen förutsäger att det kan vara effektivt mot **brachydactyly-syndactyly syndrome** – ett sällsynt medfött missbildningssyndrom som påverkar finger- och tåutvecklingen. Det saknas dock helt stödjande evidens: **inga kliniska prövningar** och **inga publikationer** identifierades, vilket placerar förutsägelsen på lägsta evidensnivå (L5).
+Naproxen är ett icke-steroidalt antiinflammatoriskt läkemedel (NSAID) som ursprungligen används vid bland annat reumatoid artrit, artros, ankyloserande spondylit, gikt, tendinit, bursit och migrän.
+TxGNN-modellen förutsäger att det kan vara effektivt mot **brachydaktyli-syndaktyli-syndrom**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna riktning. Förutsägelsen bygger enbart på modellberäkning.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Ej specificerad i tillgängliga regulatoriska data |
-| Förutsagd ny indikation | Brachydactyly-syndactyly syndrome |
-| TxGNN-förutsägelsepoäng | 99,35 % |
-| Evidensnivå | L5 – Enbart modellförutsägelse |
-| Marknadsstatus i Sverige | Ej marknadsförd |
-| Antal godkännanden | 0 |
+|------|------|
+| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad i de svenska godkännandena. Enligt kunskapsgrafen gäller bland annat reumatoid artrit, artros, ankyloserande spondylit, gikt, tendinit, bursit och migrän |
+| Förutsagd ny indikation | Brachydaktyli-syndaktyli-syndrom |
+| TxGNN-förutsägelsepoäng | 99,4 % |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Antal godkännanden | 19 (samtliga avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i Evidence Pack. Baserat på känd farmakologisk information är Naproxen ett NSAID som hämmar cyklooxygenas (COX-1 och COX-2), vilket minskar prostaglandinsyntesen och därigenom dämpar smärta och inflammation.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för rapporten. Baserat på allmänt känd information är naproxen ett icke-selektivt hämmare av cyklooxygenas (COX), och dess effekt vid inflammatoriska och smärtsamma ledtillstånd är väl belagd.
 
-Brachydactyly-syndactyly syndrome är ett sällsynt medfött syndrom som kännetecknas av förkortade fingrar (brachydaktyly) i kombination med sammanvuxna fingrar (syndaktyly). Tillståndet orsakas av mutationer i gener som *HOXD* och *GJA1*, vilka reglerar embryonal extremitetsutveckling. Det handlar alltså om en strukturell embryonal defekt, inte en inflammatorisk sjukdom.
+Sambandet mellan den ursprungliga och den förutsagda indikationen är svagt. Brachydaktyli-syndaktyli-syndrom är ett medfött missbildningssyndrom som påverkar utvecklingen av händer och fötter och har genetiskt ursprung. Ett antiinflammatoriskt och smärtlindrande läkemedel förväntas inte kunna påverka den underliggande sjukdomsprocessen. I bästa fall skulle naproxen kunna lindra sekundär smärta, vilket inte är en återanvändningsindikation i egentlig mening.
 
-Det saknas kända mekanistiska kopplingar mellan COX-hämning och genetiska utvecklingsdefekter av detta slag. TxGNN:s förutsägelse baseras sannolikt på grafnärhet i kunskapsgrafen – d.v.s. att Naproxen och sjukdomen råkar dela gemensamma grannar i grafen – snarare än en biologiskt förankrad mekanism. Förutsägelsen bedöms som potentiellt falsk positiv.
+Den höga poängen speglar sannolikt närhet till muskuloskeletala begrepp i kunskapsgrafen (till exempel artropati och exostos) snarare än ett verkligt biologiskt samband. Ingen mekanistisk grund för förutsägelsen kan styrkas med tillgängliga data.
 
----
-
-## Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande.
+Övriga förutsägelser från modellen har samma svaghet. De gäller kolobomatös mikroftalmi-rhizomel dysplasi-syndrom (99,2 %), akromesomel dysplasi av Hunter-Thompson-typ (99,2 %) och brachyolmi-amelogenesis imperfecta-syndrom (99,1 %). Samtliga är sällsynta genetiska utvecklingsstörningar utan stödjande kliniska data.
 
 ---
 
-## Litteraturbevis
+## Marknadsinformation Sverige
 
-Ingen relaterad litteratur tillgänglig för närvarande.
+Samtliga 19 godkännanden är avregistrerade och inga är giltiga för närvarande. Godkänd indikationstext saknas i data. Nedan visas fem av godkännandena.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 56590 | Naproxen 2care4 | Enterotablett | Uppgift saknas |
+| 11956 | Naprosyn Entero | Enterotablett | Uppgift saknas |
+| 54454 | Naproxen Apofri | Tablett | Uppgift saknas |
+| 10644 | Naproxen Viatris | Tablett | Uppgift saknas |
+| 43248 | Vimovo | Tablett med modifierad frisättning | Uppgift saknas |
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Kontraindikationer enligt kunskapsgrafen** (ej hämtade från produktresumé): hypertoni, leversvikt, leversjukdom, njursjukdom, hjärtsvikt, kranskärlssjukdom, hjärtinfarkt, stroke och andra cerebrovaskulära sjukdomar, blodkoagulationsrubbningar, anemi, osteoporos, diabetes mellitus, diabetesketoacidos, epilepsi, gallblåsesjukdom, benign prostatahyperplasi, fetma, substansberoende, hemoglobinopati.
+- **Läkemedelsinteraktioner**: Totalt 100 interaktioner identifierades. Alla som visas i underlaget är av måttlig nivå. De viktigaste är:
+  - Acetylsalicylsyra
+  - Kortikosteroider (hydrokortison, dexametason, betametason, budesonid, triamcinolon)
+  - Metformin och klorpropamid
+  - Protonpumpshämmare och H2-blockerare (rabeprazol, dexlansoprazol, famotidin, ranitidin, cimetidin)
+  - Mesalazin och balsalazid
+  - Aprepitant
+  - Kaliumcitrat och kaliumbikarbonat
+  - Pikosulfat och polyetylenglykol med elektrolyter
+
+Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se produktresumén för fullständig säkerhetsinformation.
 
 ---
 
@@ -88,13 +102,14 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-Samtliga fyra förutsagda indikationer (brachydactyly-syndactyly syndrome, colobomatous microphthalmia-rhizomelic dysplasia syndrome, acromesomelic dysplasia Hunter-Thompson type och brachyolmia-amelogenesis imperfecta syndrome) klassificeras som L5 – enbart modellförutsägelse utan något som helst kliniskt eller literaturmässigt stöd. Den mekanistiska länken mellan Naproxens COX-hämning och dessa genetiskt betingade skelett- och utvecklingsdefekter bedöms som mycket svag, och förutsägelserna är sannolikt artefakter från kunskapsgrafsstrukturen.
+- Förutsägelsen saknar helt kliniskt och litteraturbaserat stöd (evidensnivå L5), och inget rimligt mekanistiskt samband mellan en COX-hämmare och ett medfött missbildningssyndrom kan fastställas.
+- Samtliga svenska godkännanden för naproxen är dessutom avregistrerade.
 
 **För att gå vidare krävs:**
-- Komplettering av Naproxens säkerhetsprofil via produktresumé och DrugBank (nuvarande data saknas helt)
-- Litteratursökning i specialiserade databaser för sällsynta sjukdomar (Orphanet, OMIM, GeneReviews) för att utesluta icke-indexerad evidens
-- Mekanistisk analys av om prostaglandinvägen har dokumenterade kopplingar till *HOXD*-, *GJA1*- eller *GDF5*-signalering i embryonal benutveckling
-- Expertgranskning av genetiker och/eller specialist på sällsynta skelettsjukdomar innan eventuell vidare utredning motiveras
+- Uppgifter om verkningsmekanism som underlag för en mekanistisk analys.
+- Säkerhetsuppgifter (varningar och kontraindikationer) från produktresumén.
+- Prekliniska eller kliniska data som stöder en koppling till den förutsagda sjukdomen.
+- Bedömning av om en lämplig beredningsform och administreringsväg finns tillgänglig på den svenska marknaden.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

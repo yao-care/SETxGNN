@@ -2,7 +2,7 @@
 layout: default
 title: Nitrofurantoin
 parent: Endast modellprediktion (L5)
-nav_order: 79
+nav_order: 318
 evidence_level: L5
 indication_count: 10
 ---
@@ -31,68 +31,74 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 # Nitrofurantoin: Från urinvägsinfektion till reumatoid artrit
 
+---
+
 ## Sammanfattning
 
-Nitrofurantoin är ett antibiotikum som klassiskt används för behandling av urinvägsinfektioner (UVI). TxGNN-modellen förutsäger att läkemedlet kan vara verksamt mot **reumatoid artrit**, med **0 kliniska prövningar** och **12 publikationer** som belyser detta samband. Den tillgängliga litteraturen stödjer dock inte ett terapeutiskt samband – texterna handlar i stället om Nitrofurantoin som orsak till biverkningar hos RA-patienter, vilket tyder på ett kunskapsgrafsbaserat samlöpningsfel snarare än en verklig återanvändningshypotes.
+Nitrofurantoin är ett antibakteriellt läkemedel som används mot urinvägsinfektioner. Den ursprungliga indikationen finns inte angiven i de godkännandedata som sammanställts, men litteraturen beskriver läkemedlet i den rollen. TxGNN-modellen förutsäger att det kan vara effektivt mot **reumatoid artrit** med mycket hög poäng (99,9 %). Det finns dock **inga kliniska prövningar** och ingen litteratur som visar en behandlingseffekt. De publikationer som hittats beskriver snarare nitrofurantoin som en möjlig orsak till lungskador hos patienter med reumatoid artrit. Förutsägelsen bedöms därför som sannolikt ett artefaktresultat.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Urinvägsinfektion (antibiotikum; ej registrerat i Sverige) |
+|------|------|
+| Ursprunglig indikation | Ej angiven i godkännandedata (urinvägsinfektion enligt allmän kunskap och litteraturen) |
 | Förutsagd ny indikation | Reumatoid artrit |
-| TxGNN-förutsägelsepoäng | 99,89% |
-| Evidensnivå | L5 – Enbart modellförutsägelse |
-| Marknadsstatus i Sverige | Ej godkänt för försäljning |
-| Antal godkännanden | 0 |
+| TxGNN-förutsägelsepoäng | 99,9 % |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 4 (samtliga indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-Nitrofurantoin är ett nitrofuranderivat med antibakteriell verkningsmekanism. Detaljerade MOA-data är inte tillgängliga i detta underlag, men det är välkänt att läkemedlet verkar primärt genom att skada bakteriernas DNA och enzymsystem via reaktiva intermediärer som bildas efter intracellulär reduktion. Läkemedlet saknar känd immunmodulerande eller antiinflammatorisk aktivitet – de egenskaper som normalt krävs för behandling av reumatoid artrit.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Nitrofurantoin är ett antibakteriellt medel som verkar i urinvägarna. Dess effekt vid urinvägsinfektion är väl känd, men det saknas underlag för en mekanistisk koppling till reumatoid artrit.
 
-Sambandet som TxGNN har identifierat är i praktiken ett **samlöpningsartefakt i kunskapsgrafen**. Litteraturen där Nitrofurantoin och RA förekommer tillsammans handlar antingen om (1) Nitrofurantoin som orsak till allvarliga lungbiverkningar – läkemedelsinducerad lungfibros – hos RA-patienter som redan använder immunsuppressiva läkemedel som Metotrexat, eller (2) att RA-patienter på grund av immunsuppressiv behandling löper ökad risk för urinvägsinfektioner och därigenom exponeras för Nitrofurantoin. Ingen av dessa kopplingar utgör ett terapeutiskt argument.
-
-Det finns dessutom en säkerhetsmässigt kritisk faktor mot denna användning: Nitrofurantoin är kontraindicerat vid nedsatt njurfunktion (CrCl < 30–45 mL/min), ett vanligt tillstånd hos äldre RA-patienter och vid samsjuklighet med autoimmun njurpåverkan. Läkemedlet är alltså inte bara overksamt mot RA – det kan vara skadligt för den tilltänkta patientgruppen.
-
----
-
-## Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande.
+Någon terapeutisk mekanism är inte fastställd. Nitrofurantoin har ingen känd antiinflammatorisk eller sjukdomsmodifierande (DMARD-liknande) effekt. Den höga poängen beror sannolikt på att läkemedlet och reumatoid artrit ofta förekommer tillsammans i litteratur om biverkningar, främst lungtoxicitet. Förutsägelsen bör därför inte tolkas som ett tecken på terapeutisk nytta.
 
 ---
 
 ## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [31222078](https://pubmed.ncbi.nlm.nih.gov/31222078/) | 2019 | Self-controlled case series | Scientific Reports | Studie av antibiotikaanvändning och RA-skov (CPRD GOLD, n = 31 992). Nitrofurantoin ingår i gruppen undersökta antibiotika – inga terapeutiska fynd för RA. |
-| [35145797](https://pubmed.ncbi.nlm.nih.gov/35145797/) | 2022 | Fallrapport | Cureus | 94-årig kvinna med RA behandlad med Metotrexat, sedan Nitrofurantoin för UVI – utvecklade irreversibel lungfibros. Nitrofurantoin framträder som biverkningsorsak, inte som behandling av RA. |
-| [15195196](https://pubmed.ncbi.nlm.nih.gov/15195196/) | 2004 | Översikt | Saudi Medical Journal | Genomgång av läkemedelsinducerad lungfibros; Nitrofurantoin identifieras som orsakande medel. RA nämns som predisponerande grundsjukdom, inte som indikation. |
-| [25362778](https://pubmed.ncbi.nlm.nih.gov/25362778/) | 2014 | Översikt | La Revue du praticien | Läkemedelsinducerad interstitiell lungsjukdom; Nitrofurantoin ingår i listan av antibiotika som kan utlösa tillståndet. |
-| [3335140](https://pubmed.ncbi.nlm.nih.gov/3335140/) | 1988 | Retrospektiv kohortstudie | Chest | 57 RA-patienter inlagda för interstitiell lungfibros – studerar RA-komplikation, Nitrofurantoin ej terapeutisk agent. |
-| [41635325](https://pubmed.ncbi.nlm.nih.gov/41635325/) | 2026 | Fallrapport | Cureus | Autoimmun hepatit; Nitrofurantoin listas som potentiell utlösare av läkemedelsinducerad leversjukdom i differentialdiagnostiken. |
-| [8104358](https://pubmed.ncbi.nlm.nih.gov/8104358/) | 1993 | Fallrapport | Revue de pneumologie clinique | Guldbehandlingsutlöst pneumoni hos RA-patient med CD4-alveoliter; Nitrofurantoin nämns i jämförelsesammanhang. |
-| [899886](https://pubmed.ncbi.nlm.nih.gov/899886/) | 1977 | Klinisk studie | Acta Medica Scandinavica | Korttidsbehandling med Nitrofurantoin vid bakteriuri hos medelålders kvinnor – rendodlad UVI-indikation, inget RA-samband. |
-| [11937933](https://pubmed.ncbi.nlm.nih.gov/11937933/) | 2002 | Fallrapport | Annales de dermatologie et de venereologie | Läkemedelsinducerad sialaddenit med fenylbutazon; Nitrofurantoin nämns bland andra kända utlösare av tillståndet. |
-| [4608019](https://pubmed.ncbi.nlm.nih.gov/4608019/) | 1974 | Översikt | Der Internist | Alveoliter och lungfibros – Nitrofurantoin ingår i översikten av utlösande ämnen. |
+|------|-----|------|------|---------|
+| [31222078](https://pubmed.ncbi.nlm.nih.gov/31222078/) | 2019 | Kohort (självkontrollerad fallserie) | Scientific Reports | Antibiotikaanvändning kopplas till skov av reumatoid artrit hos nydiagnostiserade patienter. |
+| [35145797](https://pubmed.ncbi.nlm.nih.gov/35145797/) | 2022 | Fallrapport | Cureus | Interaktion mellan metotrexat och nitrofurantoin gav irreversibel lungfibros hos en 94-årig kvinna med reumatoid artrit. |
+| [15195196](https://pubmed.ncbi.nlm.nih.gov/15195196/) | 2004 | Översikt | Saudi Medical Journal | Nitrofurantoin är en av flera läkemedelsorsaker till lungfibros. Reumatoid artrit är en sjukdom som predisponerar för lungfibros. |
+| [25362778](https://pubmed.ncbi.nlm.nih.gov/25362778/) | 2014 | Översikt | La Revue du Praticien | Läkemedelsinducerade interstitiella lungsjukdomar. Nitrofurantoin nämns bland antibiotika som kan orsaka dem. |
+| [3335140](https://pubmed.ncbi.nlm.nih.gov/3335140/) | 1988 | Kohort | Chest | Dålig prognos hos patienter med reumatoid artrit som lagts in för interstitiell lungfibros. Studien rör inte nitrofurantoin som behandling. |
+| [41635325](https://pubmed.ncbi.nlm.nih.gov/41635325/) | 2026 | Fallrapport | Cureus | Autoimmun hepatit kontra läkemedelsinducerad leverskada. Nitrofurantoin nämns som möjlig utlösande orsak. |
+| [11937933](https://pubmed.ncbi.nlm.nih.gov/11937933/) | 2002 | Fallrapport | Annales de Dermatologie et de Vénéréologie | Läkemedelsinducerad sialadenit. Nitrofurantoin nämns som ett av flera misstänkta läkemedel. |
+| [8104358](https://pubmed.ncbi.nlm.nih.gov/8104358/) | 1993 | Fallrapport | Revue de Pneumologie Clinique | Guldsaltinducerad lungsjukdom. Rör inte nitrofurantoin som behandling. |
+| [899886](https://pubmed.ncbi.nlm.nih.gov/899886/) | 1977 | Klinisk studie | Acta Medica Scandinavica | Screening och korttidsbehandling av bakteriuri med nitrofurantoin. Ingen koppling till reumatoid artrit. |
 
 ---
 
 ## Marknadsinformation Sverige
 
-Nitrofurantoin har inga registrerade godkännanden i Sverige och är för närvarande inte tillgängligt på den svenska marknaden (0 licenser).
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 7977 | Furadantin (Viatris AB) | Tablett | Indragen |
+| 5614 | Furadantin (Viatris AB) | Tablett | Indragen |
+| 51827 | Nitrofurantoin Alternova (Alternova A/S) | Tablett | Indragen |
+| 63398 | Foragen (CNX Therapeutics Ireland Ltd) | Kapsel med modifierad frisättning, hård | Indragen |
+
+Alla fyra godkännanden är indragna och indikationstext saknas i de data som sammanställts.
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Kontraindikationer enligt kunskapsgraf (inte produktresumé)**: Kunskapsgrafen kopplar nitrofurantoin till bland annat nedsatt njurfunktion, anuri, G6PD-brist, perifer neuropati, interstitiell lungsjukdom, lungfibros, läkemedelsinducerad leverskada, hepatit, kolestas (obstruktiv gulsot), B12-brist, optikusneurit, diabetes och diabetisk ketoacidos samt *Clostridium difficile*-kolit.
+- **Läkemedelsinteraktioner** (100 identifierade, urval):
+  - Måttliga: metronidazol, balsalazid, pikosulfat, naltrexon, rosuvastatin, simvastatin.
+  - Lindriga: antikolinergika (t.ex. atropin, hyoscyamin, skopolamin, glykopyrronium) samt magnesium- och magaldratbaserade antacida.
+- **Fynd i litteraturen**: Nitrofurantoin beskrivs som orsak till lungfibros, interstitiell lungsjukdom, läkemedelsinducerad leverskada samt hemolytisk anemi och methemoglobinemi vid G6PD-brist. Metotrexat tillsammans med nitrofurantoin har gett irreversibel lungfibros, vilket är särskilt relevant för patienter med reumatoid artrit.
+
+Se produktresumén för fullständig säkerhetsinformation, eftersom uppgifter om varningar och kontraindikationer från produktresumén saknas i underlaget.
 
 ---
 
@@ -101,13 +107,17 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-TxGNN-förutsägelsen för Nitrofurantoin vid reumatoid artrit är en artefakt av kunskapsgrafsbaserad samlöpning, inte ett tecken på terapeutisk potential. Det saknas biologiskt plausibelt mekanistiskt samband – Nitrofurantoin är ett antibiotikum utan immunmodulerande eller antiinflammatoriska egenskaper – och den tillgängliga litteraturen dokumenterar läkemedlet som en biverkningsorsak snarare än som en behandlingsform vid RA.
+- Förutsägelsen saknar stöd i kliniska prövningar och litteratur, och den publicerade evidensen pekar mot skaderisk (särskilt lungtoxicitet i kombination med metotrexat) snarare än nytta vid reumatoid artrit. Läkemedlet saknar dessutom giltiga godkännanden i Sverige.
 
 **För att gå vidare krävs:**
-- Identifiering av ett biologiskt plausibelt mekanistiskt samband mellan Nitrofurantoin och RA-patofysiologi (saknas i dagsläget)
-- Prekliniska data (in vitro/in vivo) som visar antiinflammatorisk eller immunmodulerande aktivitet
-- Säkerhetsutvärdering avseende lungfibrosrisk vid kronisk Nitrofurantoin-användning hos RA-patienter, särskilt vid samtidig Metotrexat-behandling
-- Kartläggning av njurfunktionsprofilen hos målpopulationen (känd kontraindikation vid CrCl < 30–45 mL/min)
+- Ett trovärdigt mekanistiskt underlag för antiinflammatorisk eller immunmodulerande effekt, inklusive verkningsmekanismdata.
+- Prekliniska data som stöder en effekt vid reumatoid artrit.
+- Säkerhetsdata från produktresumén, eftersom varningar och kontraindikationer saknas i underlaget.
+- En bedömning av om det över huvud taget finns ett skäl att återinföra ett läkemedel med indragna godkännanden och en känd risk för lung- och leverskada.
+
+---
+
+*Övriga förutsagda indikationer (bl.a. diabetesnefropati, skleroserande kolangit, methemoglobinemi och gikt) har samma evidensnivå (L5) och saknar stöd. För methemoglobinemi och skleroserande kolangit pekar litteraturen på att nitrofurantoin snarare orsakar tillstånden än behandlar dem.*
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

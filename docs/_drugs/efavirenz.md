@@ -2,7 +2,7 @@
 layout: default
 title: Efavirenz
 parent: Endast modellprediktion (L5)
-nav_order: 40
+nav_order: 158
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,85 +29,102 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-Skillen är bekräftad. Nu genererar jag rapporten baserat på Evidence Pack JSON.
+# Efavirenz: Från hiv-infektion till felin förvärvad immunbristsyndrom
 
 ---
 
-# Efavirenz: Från HIV-1-infektion till felint förvärvat immunbristsyndrom
+### Sammanfattning
 
-## Sammanfattning
-
-Efavirenz är ett non-nukleosidalt omvänt transkriptashämmare (NNRTI) som används för behandling av HIV-1-infektion hos människor. TxGNN-modellen förutsäger att det kan vara effektivt mot **felint förvärvat immunbristsyndrom** (feline acquired immunodeficiency syndrome, FIV-orsakad AIDS hos katter), med **1 direkt relevant publikation** som stöder denna riktning. Evidensbasen är dock begränsad till en enda in vitro-studie, och strukturella skillnader mellan FIV och HIV-1:s reversa transkriptas gör mekanistisk överförbarhet tveksam.
+Efavirenz är ett icke-nukleosidt omvänt transkriptashämmande läkemedel (NNRTI) som ursprungligen används för behandling av hiv-infektion och aids. TxGNN-modellen förutsäger att det kan vara effektivt mot **felin förvärvad immunbristsyndrom** (kattens immunbristvirus, FIV), men evidensen utgörs endast av **1 prekliniskt biokemiskt/strukturellt arbete** och **inga kliniska prövningar**. Förutsägelsen bör därför ses som en forskningsfråga snarare än ett underlag för behandling.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | HIV-1-infektion (känd klinisk indikation; läkemedlet är inte registrerat i Sverige och ingen godkänd indikationstext är tillgänglig i regulatorisk databas) |
-| Förutsagd ny indikation | Felint förvärvat immunbristsyndrom (*feline acquired immunodeficiency syndrome*) |
-| TxGNN-förutsägelsepoäng | 99,80 % |
-| Evidensnivå | L4 – Preklinisk/in vitro-studie |
-| Marknadsstatus i Sverige | Ej registrerat i Sverige |
-| Antal godkännanden | 0 |
+| Ursprunglig indikation | Hiv-infektion, aids (enligt kunskapsgrafen; ingen indikationstext finns i de svenska godkännandena) |
+| Förutsagd ny indikation | Felin förvärvad immunbristsyndrom |
+| TxGNN-förutsägelsepoäng | 99,8 % |
+| Evidensnivå | L4 (endast prekliniska studier och mekanismstudier) |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 8 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande saknas detaljerad verkningsmekanismdata i den lokala databasen. Baserat på tillgänglig vetenskaplig information är efavirenz en NNRTI vars verkan är välkänd: läkemedlet binder till ett allosteriskt säte på HIV-1:s reversa transkriptas (RT) och blockerar därigenom viral DNA-syntes. Bindningsfickan på HIV-1 RT är beroende av nyckelkontaktrester, framför allt Tyr181 och Tyr188.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Baserat på känd information är efavirenz en NNRTI som binder till hiv-1:s omvända transkriptas och hämmar virusets förmåga att skriva om sitt RNA till DNA. Effekten vid hiv-infektion är väl belagd.
 
-Felint immunbristvirus (FIV) är ett lentivirus som orsakar ett AIDS-liknande tillstånd hos katter och delar övergripande struktur med HIV-1. Trots denna ytliga likhet uppvisar FIV RT:s NNRTI-bindningsficka betydande strukturella skillnader jämfört med HIV-1 RT — de kritiska kontaktresterna Tyr181 och Tyr188 saknas i FIV RT. Detta innebär att majoriteten av NNRTI-preparat, inklusive efavirenz, förväntas ha minimal eller ingen aktivitet mot FIV.
+FIV är ett lentivirus och nära besläktat med hiv. Båda använder omvänt transkriptas för att föröka sig, vilket förklarar varför modellen ger en mycket hög poäng. Den höga poängen speglar sannolikt den delade lentivirala och enzymatiska biologin, inte belagd aktivitet.
 
-Det höga TxGNN-förutsägelsepoänget (99,80 %) beror sannolikt på att modellens lokala kunskapsgraf saknar efavirenz dokumenterade godkända humanindikationer, vilket leder till en strukturell överskattning av kandidatens relevans. Den enda direkt relevanta publikationen (PMID 38031646, 2023) bekräftar just denna problematik genom biokemiska och strukturella jämförelser.
-
----
-
-## Kliniska prövningar
-
-Inga kliniska prövningar som direkt utvärderar efavirenz mot felint förvärvat immunbristsyndrom är registrerade. De två prövningar som identifierades vid sökning testar ett annat läkemedel (dolutegravir, GSK1349572) mot human HIV-1-infektion och har bedömts som ej relevanta (relevansnivå C) för denna indikation.
-
-| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
-|---------|------|------|------|---------|
-| [NCT01263015](https://clinicaltrials.gov/study/NCT01263015) | Fas 3 | Avslutad | 844 | Prövning av dolutegravir + abacavir/lamivudin jämfört med Atripla (efavirenz/emtricitabin/tenofovir) vid human HIV-1 hos antiretroviralt naiva vuxna. Testläkemedlet är dolutegravir, inte efavirenz, och indikationen är human HIV-1 — ej relevant för efavirenz vid katt-AIDS. |
-| [NCT00951015](https://clinicaltrials.gov/study/NCT00951015) | Fas 2 | Avslutad | 208 | Dosurvalsstudie för dolutegravir vid human HIV-1-infektion. Samma begränsning som ovan — ej relevant för efavirenz vid katt-AIDS. |
+Det finns dock en viktig begränsning: FIV:s omvända transkriptas skiljer sig strukturellt från hiv-1:s, och NNRTI-läkemedel har generellt svag effekt mot det. Den enda tillgängliga studien (Rattanabunyong m.fl., 2023) är en biokemisk och strukturell jämförelse. Den visar inte klinisk effekt hos katter.
 
 ---
 
-## Litteraturbevis
+### Kliniska prövningar
+
+Inga relaterade kliniska prövningar registrerade för närvarande.
+
+---
+
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [38031646](https://pubmed.ncbi.nlm.nih.gov/38031646/) | 2023 | In vitro biokemisk och strukturell studie | *Journal of Veterinary Science* | Biokemiska och strukturella jämförelser av NNRTI (nevirapin, efavirenz, rilpivirin) mot FIV och HIV RT. Undersöker om NNRTI kan användas för behandling av FIV-infektion. Strukturella skillnader i NNRTI-bindningsfickan — avsaknad av nyckelkontaktrester i FIV RT — begränsar efavirenz aktivitet mot FIV. Enda direkt relevanta evidensen för denna indikation. |
+| [38031646](https://pubmed.ncbi.nlm.nih.gov/38031646/) | 2023 | Biokemisk/strukturell studie (preklinisk) | Journal of veterinary science | Jämför NNRTI-läkemedlen nevirapin, efavirenz och rilpivirin mot FIV och hiv för att bedöma potentialen vid FIV-infektion. Ingen effektiv behandling finns för smittade katter i dag. |
 
 ---
 
-## Marknadsinformation Sverige
+### Marknadsinformation Sverige
 
-Efavirenz är inte registrerat i Sverige och saknar godkänd produktinformation i tillgänglig regulatorisk databas. Inga licensuppgifter finns att redovisa.
+Samtliga godkännanden är indragna och inga är giltiga i dagsläget. Indikationstext saknas i underlaget.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 49558 | Efavirenz Aurobindo | Filmdragerad tablett | Ej angiven |
+| 47533 | Efavirenz Sandoz | Filmdragerad tablett | Ej angiven |
+| 62768 | Efavirenz Medical Valley | Filmdragerad tablett | Ej angiven |
+| 57733 | Efavirenz/Emtricitabine/Tenofovir disoproxil Glenmark | Filmdragerad tablett | Ej angiven |
+| 64287 | Efavirenz/Emtricitabine/Tenofovir disoproxil Zentiva k.s. | Filmdragerad tablett | Ej angiven |
+
+Ytterligare tre indragna godkännanden finns (54251, 55565 och 61914).
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumé): leversvikt, leversjukdom, fettlever och icke-alkoholrelaterad steatohepatit, njursjukdom, epilepsi, ångestsyndrom, dystymi och andra neurotiska tillstånd, vanföreställningssyndrom och paranoid schizofreni, gallblåsesjukdom, kronisk hepatit B- och C-infektion, hypertriglyceridemi, fetma, hypofosfatemi, osteomalaci, rakit, laktatacidos samt Fanconis syndrom.
+- **Läkemedelsinteraktioner**: 100 interaktioner identifierades. Den allvarligaste bland de listade är **dolasetron (Major)**. Flera interaktioner av måttlig grad finns, bland annat med klaritromycin, bupropion, aprepitant, dexametason, betametason, hydrokortison, triamcinolon, pioglitazon, saxagliptin, famotidin, rabeprazol, loperamid, dronabinol och minocyklin.
+- Efavirenz har dokumenterade neuropsykiatriska biverkningar, vilket är relevant vid all ny användning.
+
+Se produktresumén för fullständig information om varningar och kontraindikationer, eftersom den inte fanns tillgänglig vid sammanställningen.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-Evidensnivån är L4 (en enda in vitro-studie) och den strukturella biologin talar aktivt *emot* efavirenz potential mot FIV — avsaknaden av nyckelkontaktrester i FIV RT:s bindningsficka innebär att NNRTI-klassen sannolikt saknar aktivitet mot det faktiska målviruset. Det höga TxGNN-poänget bedöms som ett modellartefakt.
+- Evidensen är begränsad till en enda prekliniskt biokemisk/strukturell studie utan kliniska prövningar. FIV:s omvända transkriptas är dessutom känd för att vara mindre känsligt för NNRTI-läkemedel, så den höga modellpoängen är inte validerad.
+- Alla svenska godkännanden är indragna, och produktresumé med varningar saknas.
 
 **För att gå vidare krävs:**
-- Farmakologisk bekräftelse av efavirenz aktivitet mot autentisk FIV RT (EC₅₀-mätning in vitro mot FIV-isolat, ej RT-SHIV-chimär)
-- Strukturell analys av om modifierade NNRTI kan anpassas till FIV RT:s avvikande bindningsficka
-- Djurexperimentella data i FIV-infekterade katter (ej SIV/RT-SHIV-modeller)
-- Komplettering av efavirenz kända humanindikationer i TxGNN-kunskapsgraf för att korrigera modellartefakt och möjliggöra ny rankning
+- Laboratoriestudier (enzymhämning och cellodling) som visar att efavirenz har faktisk antiviral aktivitet mot FIV.
+- Farmakokinetik- och säkerhetsdata hos katt innan djurstudier kan motiveras.
+- Bedömning av regulatorisk väg, eftersom indikationen gäller veterinärmedicinsk användning och inte humanläkemedel.
+- Inhämtning av produktresumé och mekanismdata (verkningsmekanism) för att komplettera underlaget.
+
+---
+
+### Övriga förutsagda indikationer
+
+De två andra förutsägelserna med hög poäng bedöms inte vara mer lovande:
+
+- **Simian immunbristvirusinfektion (SIV)**: Evidensnivå L4, ingen klinisk prövning. Studierna använder RT-SHIV, ett konstruerat virus med hiv-1:s omvända transkriptas, i makakapor som modell för den befintliga hiv-indikationen. Vildtyps-SIV är naturligt resistent mot NNRTI-läkemedel, så detta stöder inte en ny användning.
+- **Neuroutvecklingsstörning med ataxi, avsaknad av tal och minskad vit substans i hjärnbarken**: Evidensnivå L5, endast modellförutsägelse. En spekulativ koppling via efavirenz effekt på CYP46A1 finns, men efavirenz neuropsykiatriska biverkningar väcker säkerhetsfrågor hos barn.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

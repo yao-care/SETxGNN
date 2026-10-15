@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Rifampicin
-parent: Endast modellprediktion (L5)
-nav_order: 92
-evidence_level: L5
+parent: Måttlig evidens (L3-L4)
+nav_order: 378
+evidence_level: L3
 indication_count: 10
 ---
 
 # Rifampicin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,35 +29,37 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# RIFAMPICIN: Från tuberkulos till konjunktivit
+# Rifampicin: Från lungtuberkulos till konjunktivit
+
+---
 
 ## Sammanfattning
 
-Rifampicin är ett bredspektrumantibiotikum som primärt används för behandling av tuberkulos och andra allvarliga bakteriella infektioner. TxGNN-modellen förutsäger att det kan vara effektivt mot **konjunktivit** (ögoninflammation), baserat på läkemedlets bevisade aktivitet mot ett brett spektrum av konjunktivitpatogener, inklusive *Chlamydia trachomatis*, *Staphylococcus aureus* och *Neisseria meningitidis*. Förutsägelsen stöds av **0 registrerade kliniska prövningar** och **20 publikationer**, varav en randomiserad kontrollerad studie om lokal rifampicinbehandling av trakomatöst konjunktivit från 1975.
+Rifampicin är ett antibiotikum som ursprungligen används för att behandla **lungtuberkulos**. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **konjunktivit** (bakteriell ögoninflammation), med en förutsägelsepoäng på cirka 99,9 %. Evidensen utgörs av **ingen registrerad klinisk prövning** och **19 publikationer**, varav de mest relevanta är äldre studier från 1970-talet om rifampicinsalva vid trakom och klamydiainfektion i ögat.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Tuberkulos och allvarliga bakteriella infektioner (ej godkänd i Sverige) |
+|------|------|
+| Ursprunglig indikation | Lungtuberkulos (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
 | Förutsagd ny indikation | Konjunktivit |
-| TxGNN-förutsägelsepoäng | 99,95% |
-| Evidensnivå | L3 – Observationsstudier och enstaka äldre klinisk prövning |
-| Marknadsstatus i Sverige | Ej marknadsförd |
-| Antal godkännanden | 0 |
+| TxGNN-förutsägelsepoäng | 99,9 % |
+| Evidensnivå | L3 |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 8 (samtliga indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta Evidence Pack. Baserat på känd information är Rifampicin ett rifamycinantibiotikum som hämmar den bakteriella DNA-beroende RNA-polymerasen (β-subenheten), vilket blockerar transkriptionen och leder till snabb bakteriedöd. Denna mekanism är brett applicerbar mot grampositiva och gramnegativa bakterier, mykobakterier och obligata intracellulära patogener som *Chlamydia trachomatis*.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Baserat på allmänt känd information är rifampicin en hämmare av bakteriens RNA-polymeras. Läkemedlet har en bred antibakteriell effekt mot grampositiva bakterier, klamydia och vissa andra mikroorganismer som kan orsaka ögoninfektioner.
 
-Sambandet mellan den ursprungliga indikationen (tuberkulos) och den förutsagda nya indikationen (konjunktivit) är mekanistiskt välmotiverat. Konjunktivit orsakas av många bakterier som är känsliga för rifampicin: *Chlamydia trachomatis* (trakomatöst konjunktivit och inklusionskonjunktivit), *Staphylococcus aureus*, *Neisseria meningitidis* (primärt meningokockal konjunktivit) och *Corynebacterium macginleyi*. Litteraturen från 1970-talet visar att lokal rifampicinbehandling prövades kliniskt i oftalmologin med lovande resultat, men utan moderna uppföljningsstudier.
+Sambandet mellan den ursprungliga och den nya indikationen är att båda handlar om bakteriella infektioner. Effekten mot mykobakterier vid tuberkulos bygger på samma grundmekanism som en möjlig effekt mot bakterier i bindhinnan. Mekanistiskt är förutsägelsen därför rimlig.
 
-Lokal ögonapplikation — t.ex. 1% rifampicinsalva eller ögondroppar — utgör en farmakologiskt fördelaktig väg eftersom den ger terapeutiska koncentrationer i konjunktiva och kornea med minimal systemisk absorption. Detta minskar väsentligt riskerna för de systemiska biverkningar och läkemedelsinteraktioner (t.ex. CYP3A4-induktion) som är förknippade med oral rifampicinbehandling. Topikala formuleringar skulle kunna ta tillvara läkemedlets potens mot konjunktivitpatogener utan de bekymmer som begränsar systemisk användning.
+Stödet är dock begränsat. Det bygger främst på äldre studier, bland annat en kontrollerad studie från 1975 där 1 % rifampicinsalva jämfördes med tetracyklinsalva och placebo (borsyrasalva) vid trakom i Tunisien, och en öppen studie från 1977 på 63 patienter med klamydiainfektion i ögat. I den senare gav 6–7 veckors behandling cirka 90 % klinisk och mikrobiologisk bot. Övriga artiklar är främst resistensundersökningar och fallrapporter. Den förutsagda indikationen förekommer även som två nästan identiska poster (”conjunctivitis” och ”conjunctivitis (disease)”) som bör slås ihop.
 
 ---
 
@@ -70,23 +72,40 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 ## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|-----|-----|-----------|--------------|
-| [1096630](https://pubmed.ncbi.nlm.nih.gov/1096630/) | 1975 | RCT | *American Journal of Ophthalmology* | Kontrollerad studie av trakomatöst konjunktivit i Tunisien: 1% rifampicinssalva (76 patienter) jämfördes med 1% tetracyklin och 5% borsyra under 10 veckor — visade klinisk effekt mot aktiv trachomasjukdom |
-| [5005929](https://pubmed.ncbi.nlm.nih.gov/5005929/) | 1971 | Narrativ översikt | *Annals of Ophthalmology* | Tidig genomgång av rifampicins användning i oftalmologisk praktik |
-| [4250391](https://pubmed.ncbi.nlm.nih.gov/4250391/) | 1970 | Övrig | *Archives d'ophtalmologie* | Tidig klinisk erfarenhet av rifampicin som ögonpreparat |
-| [5411121](https://pubmed.ncbi.nlm.nih.gov/5411121/) | 1970 | Övrig | *Nature* | Anti-trakomatös aktivitet hos rifampicin och rifamycinderivat — visade in vitro-potens mot *Chlamydia trachomatis* |
-| [33457332](https://pubmed.ncbi.nlm.nih.gov/33457332/) | 2020 | Tvärsnittsstudie | *Advanced Biomedical Research* | Kartläggning av bakteriell etiologi och antibiotikaresistens vid konjunktivit i Iran — identifierade konjunktivitpatogener med känd rifampicinkänslighet |
-| [14686993](https://pubmed.ncbi.nlm.nih.gov/14686993/) | 2003 | Fallrapport | *Clinical Microbiology and Infection* | Primär meningokockal konjunktivit hos 6-åring: initialt lokalt behandlad, framgångsrikt avslutad med systemisk rifampicin efter konfirmerad diagnos |
-| [7806886](https://pubmed.ncbi.nlm.nih.gov/7806886/) | 1994 | Fallserie | *Journal of Infection* | Tre fall av primär meningokockal konjunktivit med systemisk sepsis — rekommendation om kombinerad lokal och parenteral terapi med kemorofylax för nära kontakter |
-| [15228931](https://pubmed.ncbi.nlm.nih.gov/15228931/) | 2004 | Observationsstudie | *Anales de Pediatría* | Vanligaste konjunktivitpatogener hos barn och deras antibiotikakänslighet — empirisk antibiotikabehandling utan föregående kultur diskuteras |
-| [21191558](https://pubmed.ncbi.nlm.nih.gov/21191558/) | 2010 | Susceptibilitetsstudie | *Revista Española de Quimioterapia* | Antibiotikaresistensmönster hos *Corynebacterium macginleyi* vid konjunktivit — en patogen med dokumenterad rifampicinkänslighet |
-| [10537781](https://pubmed.ncbi.nlm.nih.gov/10537781/) | 1999 | Fallserie | *Current Opinion in Ophthalmology* | Okulära manifestationer av kattskrapsfeber (*Bartonella henselae*) inkl. Parinauds okulöglandulära syndrom — rifampicin ingår i rekommenderad behandling |
+|------|-----|------|------|---------|
+| [1096630](https://pubmed.ncbi.nlm.nih.gov/1096630/) | 1975 | Klinisk studie (lokal behandling, trakom) | American Journal of Ophthalmology | Kontrollerad studie på skolbarn i Tunisien. 1 % rifampicinsalva (76 patienter) jämfördes med 1 % tetracyklinsalva (79) och 5 % borsyrasalva (79) under 10 veckor. |
+| [322700](https://pubmed.ncbi.nlm.nih.gov/322700/) | 1977 | Öppen studie | British Journal of Ophthalmology | 63 patienter med klamydiainfektion i ögat. Tre veckors behandling med rifampicinsalva räckte inte, men 6–7 veckor gav cirka 90 % klinisk och mikrobiologisk bot. |
+| [33457332](https://pubmed.ncbi.nlm.nih.gov/33457332/) | 2020 | Kohort/känslighetsstudie | Advanced Biomedical Research | Bakteriell etiologi och antibiotikakänslighet hos konjunktivitpatienter i Kashan, Iran. |
+| [8363150](https://pubmed.ncbi.nlm.nih.gov/8363150/) | 1993 | Mikrobiologisk känslighetsstudie | Anales Españoles de Pediatría | 50 prover från nyfödda med konjunktivit; 84 % hade bakterieväxt och de flesta isolat var känsliga för de flesta testade läkemedlen. |
+| [21191558](https://pubmed.ncbi.nlm.nih.gov/21191558/) | 2010 | In vitro-känslighetsstudie | Revista Española de Quimioterapia | Antibiotikakänslighet hos Corynebacterium macginleyi som orsakar konjunktivit. |
+| [30347565](https://pubmed.ncbi.nlm.nih.gov/30347565/) | 2018 | Genotypnings- och känslighetsstudie | Zhonghua Yan Ke Za Zhi | Samband mellan genotyp och antibiotikakänslighet hos Staphylococcus aureus från keratit eller konjunktivit. |
+| [3191080](https://pubmed.ncbi.nlm.nih.gov/3191080/) | 1988 | Fallrapport | British Journal of Ophthalmology | Marginala hornhinneabscesser vid klamydiaoftalmi hos fyra vuxna. |
+| [5005929](https://pubmed.ncbi.nlm.nih.gov/5005929/) | 1971 | Översikt | Annals of Ophthalmology | Översikt om rifampicin (sammanfattning saknas). |
+| [1247775](https://pubmed.ncbi.nlm.nih.gov/1247775/) | 1976 | Brev/rapport | British Medical Journal | Ögontoxicitet orsakad av rifampicin (sammanfattning saknas). |
+| [18836416](https://pubmed.ncbi.nlm.nih.gov/18836416/) | 2009 | Resistensundersökning | Eye | Resistensmönster hos bakterier i bindhinnan som underlag för profylax vid kataraktkirurgi. |
+
+---
+
+## Marknadsinformation Sverige
+
+Samtliga åtta godkännanden är indragna och inga produkter är för närvarande godkända på marknaden. Indikationstext finns inte angiven för något av godkännandena.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 52737 | Rifampicin Orifarm | Kapsel, hård | Ej angiven |
+| 8455 | Rimactan | Kapsel, hård | Ej angiven |
+| 52301 | Rifampicin Ebb | Kapsel, hård | Ej angiven |
+| 48034 | Rimactan | Kapsel, hård | Ej angiven |
+| 56079 | Rifampicin Ebb | Pulver och vätska till infusionsvätska, lösning | Ej angiven |
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Kontraindikationer och riskfaktorer enligt kunskapsgrafen** (inte hämtade från produktresumé): leversvikt och leversjukdom, hepatit, porfyri, gallblåsesjukdom, trombocytopeni, neutropeni, agranulocytos, pancytopeni, aplastisk anemi, perifer neuropati, diabetes och diabetesketoacidos, gikt, ångestsyndrom, missbruk/beroende, långsam acetylering samt icke-infektiös meningit.
+- **Läkemedelsinteraktioner**: totalt 100 interaktioner identifierade. De som visas i underlaget är alla av måttlig allvarlighetsgrad, bland annat med omeprazol, rabeprazol, doxycyklin, metformin, pioglitazon, bupropion, aprepitant, morfin, metronidazol, klaritromycin samt flera kortikosteroider (hydrokortison, dexametason, betametason, triamcinolon) och D-vitaminer (kolekalciferol, kalcifediol, kalcitriol). Rifampicin är en kraftfull enzyminducerare, vilket kan sänka halterna av många samtidigt givna läkemedel.
+
+Se produktresumén för fullständig säkerhetsinformation, eftersom varningar och kontraindikationer från produktresumén inte ingår i underlaget.
 
 ---
 
@@ -95,14 +114,15 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-Evidensbasen är begränsad (L3) och vilar på en enda RCT från 1975 med specifikt fokus på trakomatöst konjunktivit, kompletterad av fallrapporter och susceptibilitetsstudier utan moderna kontrollerade effektstudier. Rifampicin är dessutom inte godkänt eller marknadsförd i Sverige, och ingen oftalmisk formulering finns tillgänglig på marknaden.
+- Förutsägelsen är mekanistiskt rimlig, men stödet består av äldre studier från 1970-talet och känslighetsundersökningar. Det finns inga registrerade kliniska prövningar, och alla svenska godkännanden är indragna.
 
 **För att gå vidare krävs:**
-- Verifiering av säkerhetsprofil, varningar och kontraindikationer via fullständig produktresumé (SmPC)
-- Identifiering eller utveckling av en godkänd oftalmisk formulering (t.ex. 1% ögonsalva/droppar)
-- Moderna, väldesignade kliniska prövningar för bakteriell konjunktivit med dokumentation av effekt mot nutidens resistensmönster
-- Jämförelse med befintliga förstahandsbehandlingar godkända i Sverige (t.ex. kloramfenikol, fusidinsyra, tobramycin)
-- Utredning av resistensutvecklingsrisk vid lokal rifampicinanvändning, med tanke på läkemedlets centrala roll i tuberkulosbehandling
+- Slå ihop de två dubbletterna för konjunktivit och granska litteraturen manuellt.
+- Hämta produktresumé med varningar och kontraindikationer från Läkemedelsverket, eftersom saknad säkerhetsinformation är ett hinder för säkerhetsgranskning.
+- Hämta verkningsmekanismdata från DrugBank.
+- Klargöra om en lokal beredningsform (ögonsalva eller ögondroppar) skulle behöva utvecklas, eftersom inga sådana beredningar finns bland de svenska godkännandena.
+- Utvärdera klinisk nytta jämfört med nuvarande standardbehandling och risken för resistensutveckling mot ett viktigt tuberkulosläkemedel.
+- Vid behov planera en kontrollerad klinisk prövning.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

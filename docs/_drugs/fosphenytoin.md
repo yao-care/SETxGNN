@@ -1,0 +1,124 @@
+---
+layout: default
+title: Fosphenytoin
+parent: Måttlig evidens (L3-L4)
+nav_order: 209
+evidence_level: L4
+indication_count: 7
+---
+
+# Fosphenytoin
+{: .fs-9 }
+
+Evidensnivå: **L4** | Förutsagda indikationer: **7** st
+{: .fs-6 .fw-300 }
+
+---
+
+## Innehållsförteckning
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Apotekarens bedömningsrapport
+
+</div>
+
+# Fosfenytoin: Från epilepsi och status epilepticus till manisk bipolär sjukdom
+
+---
+
+## Sammanfattning
+
+Fosfenytoin är en prodrug till fenytoin och har ursprungligen använts för att behandla epilepsi och status epilepticus. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **manisk bipolär sjukdom**, men underlaget är mycket begränsat: **inga kliniska prövningar** och **1 publikation** (en liten, ej verifierad explorativ rapport från 2003) stöder för närvarande denna riktning.
+
+Notera att den förutsagda indikation som rankas högst av modellen är konjunktivit (poäng 99,4 %). Den saknar dock helt stöd i evidens och mekanistiskt resonemang. Denna rapport fokuserar på manisk bipolär sjukdom, eftersom det är den enda förutsagda indikationen med någon form av publicerat underlag.
+
+---
+
+## Snabböversikt
+
+| Post | Innehåll |
+|------|------|
+| Ursprunglig indikation | Epilepsi, status epilepticus (enligt TxGNN:s kunskapsgraf; godkänd indikationstext saknas i de svenska godkännandena) |
+| Förutsagd ny indikation | Manisk bipolär sjukdom (rang 4 i modellens lista) |
+| TxGNN-förutsägelsepoäng | 99,2 % |
+| Evidensnivå | L4 |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 3 (alla indragna) |
+| Rekommenderat beslut | Avvakta |
+
+---
+
+## Varför är denna förutsägelse rimlig?
+
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Baserat på känd information är fosfenytoin en prodrug till fenytoin, en natriumkanalblockerare med antikonvulsiv effekt. Dess effekt vid epilepsi är väl belagd, och mekanistiskt kan den vara tillämpbar på mani genom dämpning av neuronal överretbarhet.
+
+Flera antikonvulsiva läkemedel med natriumkanalaktivitet, till exempel karbamazepin, valproat och lamotrigin, är väletablerade vid bipolär mani. Det ger ett resonemang på läkemedelsklassnivå för att fosfenytoin skulle kunna ha en effekt.
+
+Underlaget är dock indirekt och preliminärt. Fenytoin är i sig inte en etablerad stämningsstabiliserare, och den enda publikationen är en liten explorativ rapport vars fulltext inte har granskats.
+
+---
+
+## Kliniska prövningar
+
+Inga relaterade kliniska prövningar registrerade för närvarande.
+
+---
+
+## Litteraturbevis
+
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|-----|------|------|---------|
+| [12716241](https://pubmed.ncbi.nlm.nih.gov/12716241/) | 2003 | Explorativ klinisk rapport (design ej verifierad) | The Journal of Clinical Psychiatry | Studien testade hypotesen att högdos fenytoin intravenöst kan ha akut antimanisk effekt. Fosfenytoin användes eftersom det ger få hjärt- och lokala venbiverkningar. Resultat framgår inte av det tillgängliga sammandraget. |
+
+---
+
+## Marknadsinformation Sverige
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 14441 | Pro-Epanutin (Pfizer AB) | Koncentrat till infusionsvätska, lösning/injektionsvätska, lösning | Uppgift saknas (indraget) |
+| 63732 | Pro-Epanutin (Orifarm AB) | Koncentrat till infusionsvätska, lösning/injektionsvätska, lösning | Uppgift saknas (indraget) |
+| 58390 | Pro-Epanutin (Orifarm AB) | Koncentrat till infusionsvätska, lösning/injektionsvätska, lösning | Uppgift saknas (indraget) |
+
+---
+
+## Säkerhetsaspekter
+
+- **Kontraindikationer enligt kunskapsgrafen** (hämtade från relationer i TxGNN:s kunskapsgraf, inte från produktresumétext): långt QT-syndrom (även ärftligt), torsades de pointes, plötsligt hjärtstopp, hjärtledningsrubbning, atrioventrikulärt block, Adams-Stokes syndrom, njursjukdom, leversjukdom, gallblåsesjukdom, trombocytopeni, leukopeni, pancytopeni, agranulocytos, neutropeni (inklusive medfödda former), systemisk lupus erythematosus, lågt blodtryck, missbruk/beroende, hyperfosfatemi samt sjukdom i lymfsystemet.
+- **Läkemedelsinteraktioner**: Totalt 306 interaktioner identifierades. Bland de som visas finns:
+  - **Allvarliga (Major):** cimetidin, eliglustat
+  - **Måttliga (Moderate):** bland annat famotidin, ranitidin, doxycyklin, hydrokortison, betametason, klaritromycin, aprepitant, dronabinol samt flera diabetesläkemedel (akarbos, alogliptin, kanagliflozin, klorpropamid, albiglutid, dulaglutid) och D-vitaminer (kolekalciferol, kalcifediol, kalcitriol)
+  - **Lindriga (Minor):** acetylsalicylsyra
+
+Se produktresumén för fullständig säkerhetsinformation, eftersom varningar och kontraindikationer från godkänd produktinformation inte fanns tillgängliga.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- Den enda stödjande publikationen är en liten explorativ rapport från 2003 utan verifierad design eller resultat, och inga kliniska prövningar finns. Samtliga svenska godkännanden är dessutom indragna, och säkerhetsunderlaget från produktinformationen saknas.
+
+**För att gå vidare krävs:**
+- Granskning av fulltexten till PMID 12716241 för att bedöma studiedesign, storlek och resultat
+- Systematisk litteratursökning efter ytterligare studier av fenytoin/fosfenytoin vid mani
+- Hämtning och genomgång av produktresumé med varningar och kontraindikationer (blockerande dataluckor)
+- Hämtning av verkningsmekanismdata från DrugBank
+- Utvärdering av administreringsväg, eftersom fosfenytoin ges intravenöst eller intramuskulärt och därför är mindre lämpat för långtidsbehandling
+- Bedömning av läkemedlets nuvarande tillgänglighet i Sverige, då inget godkännande är giltigt
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
+---
+

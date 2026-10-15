@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Rifaximin
-parent: Endast modellprediktion (L5)
-nav_order: 93
-evidence_level: L5
+parent: Måttlig evidens (L3-L4)
+nav_order: 379
+evidence_level: L4
 indication_count: 6
 ---
 
 # Rifaximin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **6** st
+Evidensnivå: **L4** | Förutsagda indikationer: **6** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,87 +29,88 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-Skillet bekräftade projektkontexten. Nu analyserar jag Evidence Pack och genererar rapporten:
+# Rifaximin: Från hepatisk encefalopati till oral candidiasis
 
 ---
 
-**Nyckelobs i data:**
-- Rifaximin saknar godkännande i Sverige (0 licenser)
-- Alla 6 förutsagda indikationer rör orala/lokala tillstånd → troligt klusterartefakt i kunskapsgrafen
-- Den enda litteraturfyndet (PMID 34180023) är ett **negativt signal** – visar att Rifaximin *ökar* Candida-risk
-- MOA och säkerhetsdata saknas ([Data Gap])
-- Samtliga indikationer: evidensnivå L4–L5, rekommendation "Hold"
+### Sammanfattning
+
+Rifaximin är ett icke-absorberbart antibiotikum som verkar i tarmen och som ursprungligen användes vid hepatisk encefalopati (leverkoma). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **oral candidiasis**, men det finns **inga kliniska prövningar** och endast **1 publikation** som berör ämnet. Den publikationen pekar dessutom på en risk snarare än en nytta: rifaximinanvändning var kopplad till svampinfektioner med resistenta Candida-arter.
 
 ---
 
-# Rifaximin: Från tarminfektioner till oral candidiasis
-
-## Sammanfattning
-
-Rifaximin är ett icke-absorberbart oralt bredspektrumantibiotikum som internationellt används för behandling av tarmrelaterade tillstånd som resenärsdiarré, hepatisk encefalopati och irritabel tarm med diarré. TxGNN-modellen förutsäger med 99,7 % poäng att det kan vara verksamt mot **oral candidiasis**, men den enda befintliga publikationen visar det *motsatta* – Rifaximin-användning är associerad med ökad risk för Candida-infektion. Läkemedlet är inte godkänt i Sverige och inga kliniska prövningar för denna indikation finns registrerade.
-
----
-
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Ej godkänd i Sverige; internationellt: tarminfektioner, hepatisk encefalopati, IBS-D |
+|------|------|
+| Ursprunglig indikation | Hepatisk encefalopati, leverkoma (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
 | Förutsagd ny indikation | Oral candidiasis |
 | TxGNN-förutsägelsepoäng | 99,7 % |
-| Evidensnivå | L4 – men med negativ association (signal i fel riktning) |
-| Marknadsstatus i Sverige | Ej godkänd |
-| Antal godkännanden | 0 |
-| Rekommenderat beslut | **Avvakta** |
+| Evidensnivå | L4 |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 3 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-Detaljerad MOA-data saknas i det aktuella Evidence Pack. Baserat på etablerad farmakologi är Rifaximin ett rifamycinderivat med bred antibakteriell verkan som verkar uteslutande lokalt i tarmen – det absorberas minimalt (\<0,4 %) och uppnår inga systemiska plasmakoncentrationer av klinisk relevans.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är rifaximin ett antibakteriellt läkemedel som knappt tas upp från tarmen och som påverkar tarmens bakterieflora. Dess effekt vid hepatisk encefalopati bygger på denna lokala verkan i tarmen.
 
-Oral candidiasis orsakas av svamporganismer (*Candida albicans* m.fl.) och behandlas med antifungala läkemedel. Rifaximin har **ingen antifungal aktivitet** och kan inte rimligen förväntas verka mot ett svamptillstånd i munhålan. Läkemedlets antibakteriella mekanism – hämning av bakteriellt RNA-polymeras – saknar relevans för Candida.
-
-Det enda befintliga vetenskapliga underlaget (PMID 34180023) visar faktiskt att Rifaximin-användning hos patienter som genomgick allogen stamcellstransplantation var associerad med *ökad* förekomst av mikafunginresistenta Candida-infektioner. Detta utgör ett **omvänt kausalitetssignal** – inte ett terapeutiskt stöd. Förutsägelsens höga TxGNN-poäng bedöms bero på att Candida-noder och orala sjukdomsnoder klustrar tätt i kunskapsgrafen, vilket ger en topologisk falsk positiv.
+Det finns dock ingen etablerad antisvampsmekanism som skulle förklara effekt mot oral candidiasis. Den enda tillgängliga publikationen (PMID 34180023) tyder på motsatsen: antibiotikapåverkan på tarmfloran kan gynna överväxt av Candida. Den höga modellpoängen stöds alltså inte av kliniska data och kan spegla artefakter i kunskapsgrafen.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [34180023](https://pubmed.ncbi.nlm.nih.gov/34180023/) | 2021 | Retrospektiv observationsstudie | Annals of Hematology | Rifaximin-profylax hos allogen HSCT-patienter associerades med ökad förekomst av mikafunginresistenta Candida-infektioner – omvänt kausalitetssignal, inte terapeutiskt stöd |
-
-> ⚠️ **Tolkningsvarning:** Denna studie stödjer **inte** Rifaximin som behandling mot oral candidiasis. Fyndet visar att Rifaximin-exposition ökar, inte minskar, Candida-risken.
+|------|-----|------|------|---------|
+| [34180023](https://pubmed.ncbi.nlm.nih.gov/34180023/) | 2021 | Kohortstudie | Annals of Hematology | Hos patienter som genomgått allogen stamcellstransplantation var rifaximinanvändning kopplad till infektioner med micafunginresistenta Candida-arter. Det tyder på en risk, inte på behandlingsnytta. |
 
 ---
 
-## Säkerhetsaspekter
+### Marknadsinformation Sverige
 
-Säkerhetsdata (varningar, kontraindikationer, läkemedelsinteraktioner) saknas i det aktuella Evidence Pack. Se produktresumén för säkerhetsinformation.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 66409 | Xifaxan (Medartuum AB) | Filmdragerad tablett | Indragen |
+| 46905 | Xifaxan (Norgine BV) | Filmdragerad tablett | Indragen |
+| 68417 | Xifaxan (2care4 ApS) | Filmdragerad tablett | Indragen |
+
+Alla tre godkännanden är indragna, och ingen indikationstext finns tillgänglig.
 
 ---
 
-## Slutsats och nästa steg
+### Säkerhetsaspekter
+
+- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumén): Clostridium difficile-kolit och nekrotiserande enterokolit hos nyfödda.
+- **Läkemedelsinteraktioner**: Totalt 69 interaktioner identifierades. Bland de viktigaste:
+  - **Allvarlig (Major)**: levande koleravaccin (Vibrio cholerae CVD 103-HgR)
+  - **Måttlig (Moderate)**: ciklosporin, warfarin, tolvaptan, daklatasvir, ledipasvir, pikosulfat, kabozantinib, apalutamid, darolutamid, enkorafenib
+- **Säkerhetssignal**: Observationsdata kopplar rifaximin till Candida-infektioner med resistens mot micafungin (se PMID 34180023). Candidemi är dessutom en känd risk hos patienter med levercirros (PMID 32360775), en grupp som ofta behandlas med rifaximin.
+
+Se produktresumén för fullständig information om varningar och kontraindikationer.
+
+---
+
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-TxGNN:s förutsägelse om Rifaximin mot oral candidiasis bedöms vara en **topologisk falsk positiv** i kunskapsgrafen – Rifaximin saknar antifungal aktivitet och den enda tillgängliga evidensen visar att läkemedlet ökar snarare än minskar risken för Candida-infektioner. Farmakologiska förutsättningar för vidare utredning saknas.
-
-> **Mönsterobservation:** Samtliga 6 förutsagda indikationer i detta Evidence Pack (oral candidiasis, commissural lip fistula, osteoradionecrosis of mandible, oral leukoedema, burning mouth syndrome, candidiasis) rör orala/lokala tillstånd och erhåller alla rekommendationen "Hold" med evidensnivå L4–L5. Detta tyder på ett systematiskt klusterfel i kunskapsgrafen snarare än genuina återanvändningskandidater för ett tarmverkande antibiotikum.
+- Förutsägelsen saknar stöd i kliniska prövningar, och den enda relevanta publikationen visar en möjlig risk för Candida-infektion i stället för nytta. Mekanistiskt finns inget som talar för antisvampseffekt.
 
 **För att gå vidare krävs:**
-- Ny förutsägelsekörning med omviktade nod-embeddings för att reducera oral-cluster-effekten
-- Komplettering av MOA-data via DrugBank API (DG002)
-- Komplettering av säkerhetsdata via Läkemedelsverkets produktresumé (DG001)
-- Sökning mot Rifaximin:s faktiska indikationsdomäner (hepatisk encefalopati, IBS-D, tarmdekolonisering) för att identifiera mer plausibla återanvändningskandidater
+- Hämta verkningsmekanismdata från DrugBank för en ordentlig mekanistisk analys.
+- Hämta varningar och kontraindikationer ur produktresumén från Läkemedelsverket (MPA), eftersom detta blockerar säkerhetsgranskningen.
+- Prekliniska data (till exempel in vitro-test mot Candida) och kontrollerade studier som kan visa om det finns någon nytta alls.
+- Utvärdering av om rifaximins påverkan på tarmfloran ökar risken för candidiasis.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

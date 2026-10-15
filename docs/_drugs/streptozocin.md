@@ -2,7 +2,7 @@
 layout: default
 title: Streptozocin
 parent: Endast modellprediktion (L5)
-nav_order: 98
+nav_order: 401
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,100 +29,106 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Jag har granskat TxGNN-pipeline-skillet. Nu genererar jag rapporten baserat på Evidence Pack:et.
+# Streptozocin: Från pankreasneuroendokrin tumör till relapsing-remitting multipel skleros
+
+> **Observera:** Den ursprungliga indikationen finns inte angiven i svenska licensdata (indikationstexten är tom). Uppgiften om pankreasneuroendokrin tumör bygger på läkemedlets kända historiska användning och på litteraturen som ingår i underlaget, inte på det svenska godkännandet.
 
 ---
 
-# Streptozocin: Från pankreatisk neuroendokrin tumör till recidiverande-remitterande multipel skleros
+### Sammanfattning
 
-## Sammanfattning
-
-Streptozocin (STZ) är ett cytotoxiskt alkyleringsmedel som internationellt används för behandling av metastaserande pankreatiska neuroendokrina tumörer (isletcellscancer). TxGNN-modellen förutsäger att det potentiellt kan vara effektivt mot **recidiverande-remitterande multipel skleros (RRMS)**, med **0 kliniska prövningar** och **1 publikation** som för närvarande stöder denna riktning. Evidensen är på lägsta möjliga nivå (L5), och den enda tillgängliga publikationen berör fingolimod i en diabetesdjurmodell – inte STZ som MS-behandling – vilket tyder på att förutsägelsen sannolikt är ett falskt positivt resultat orsakad av grafnärhet i kunskapsgrafen.
+Streptozocin är ett alkylerande läkemedel av nitrosoureatyp, som historiskt har använts mot neuroendokrina tumörer i bukspottkörteln. TxGNN-modellen förutsäger att det kan vara effektivt mot **relapsing-remitting multipel skleros** (högst rankade förutsägelsen), men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder detta. Förutsägelsen är därmed enbart modellbaserad.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Pankreatisk isletcellscancer (neuroendokrin tumör) – ej godkänd i Sverige |
-| Förutsagd ny indikation | Recidiverande-remitterande multipel skleros |
+|------|------|
+| Ursprunglig indikation | Ej angiven i licensdata (tom indikationstext) |
+| Förutsagd ny indikation | Relapsing-remitting multipel skleros |
 | TxGNN-förutsägelsepoäng | 99,97 % |
-| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
-| Marknadsstatus i Sverige | Ej registrerat |
-| Antal godkännanden | 0 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 1 (indraget) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta evidenspaket. Baserat på känd farmakologisk kunskap är streptozocin ett nitrosourealiknande alkyleringsmedel som selektivt tas upp i GLUT2-uttryckande celler (framför allt pankreatiska betaceller och neuroendokrina tumörceller) via GLUT2-transportören, vilket leder till DNA-alkylering och celldöd. Denna mekanism är välbevisad vid behandling av neuroendokrina tumörer med hög GLUT2-expression.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för denna rapport. Streptozocin är dock en nitrosoureabaserad alkylerande substans som är toxisk för betaceller i bukspottkörteln och som skadar DNA i snabbt delande celler.
 
-Recidiverande-remitterande multipel skleros (RRMS) är däremot en autoimmun sjukdom där det adaptiva immunsystemet angriper myelinskidan kring centralnervystemets nervceller. STZ:s GLUT2-selektiva DNA-alkyleringsmekanism har ingen känd biologisk koppling till MS-patologi, och det finns heller inga immunmodulerande egenskaper dokumenterade för STZ.
+Teoretiskt skulle de cytotoxiska och immunsupprimerande egenskaperna kunna påverka autoreaktiva lymfocyter, vilket är central i multipel skleros. Detta är dock spekulativt. Något belagt samband mellan streptozocins ursprungliga användning och multipel skleros finns inte i underlaget, och den höga poängen är enbart en modellförutsägelse.
 
-Den höga TxGNN-poängen beror med stor sannolikhet på **grafnärhet i kunskapsgrafen**: fingolimod (FTY720) är ett godkänt förstalinjemedel vid RRMS och förekommer dessutom frekvent i experimentell litteratur om STZ-inducerade diabetesmodeller (djurstudier på neuroendokrina komplikationer). Modellen har sannolikt tolkat denna samförekomst som en biologisk koppling – en känd begränsning hos grafbaserade prediktionsmodeller.
+Ytterligare en försvårande faktor är den betydande njurtoxiciteten. Den gör att nytta–risk-balansen för en kronisk, icke-livshotande sjukdom som multipel skleros framstår som ogynnsam.
+
+**Övriga förutsägelser (rangordnade):** Bland de tio främsta förutsägelserna är **småcellig lungcancer** den enda med någon form av stödjande litteratur. Den bygger på att tumören delar neuroendokrin biologi med streptozocins historiska målsjukdom. Övriga förutsägelser (pulmonellt blastom, fetalt adenokarcinom i lungan, ärftligt bröst- och äggstockscancersyndrom, primärt pulmonellt lymfom, lymfosarkom och flera rabdomyosarkomvarianter) saknar både prövningar och litteratur och vilar på generell alkylatorverkan eller närhet i sjukdomsontologin.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Litteraturbevis
-
-| PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|-----|------|-----------|--------------|
-| [28162947](https://pubmed.ncbi.nlm.nih.gov/28162947/) | 2017 | Djurstudie | The Journal of Sexual Medicine | FTY720 (fingolimod) förbättrade delvis erektil dysfunktion hos råttor med STZ-inducerad typ 1-diabetes via hämning av endoteldysfunktion och corporal fibros. Studien använder STZ som ett verktyg för att skapa en diabetesmodell – inte som behandling av MS. Relevansen för MS-indikationen bedöms som låg. |
-
----
-
-## Marknadsinformation Sverige
-
-Streptozocin är för närvarande **inte registrerat i Sverige**. Inga godkännanden finns i Läkemedelsverkets register.
+### Marknadsinformation Sverige
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|-------------------|-------------|----------------|-------------------|
-| — | — | — | Inga svenska godkännanden registrerade |
+|---------|------|------|-----------|
+| 53703 (indraget) | Zanosar | Pulver till koncentrat till infusionsvätska, lösning | Ej angiven |
+
+Innehavare: Esteve Pharmaceuticals S.A.S.
 
 ---
 
-## Cytotoxicitet
-
-Streptozocin uppfyller kriterierna för antineoplastiskt läkemedel: det är ett nitrosourealiknande DNA-alkyleringsmedel vars ursprungliga indikation är malign neuroendokrin tumör.
+### Cytotoxicitet
 
 | Post | Innehåll |
-|------|----------|
-| Cytotoxicitetsklassificering | Konventionell cytotoxisk – DNA-alkyleringsmedel (nitrosourealiknande strukturell klass) |
-| Myelosuppressionsrisk | Låg till måttlig – STZ är relativt icke-myelosuppressivt jämfört med klassiska nitrosourea-analoger (BCNU, CCNU), vilket framgår av kliniska studier från 1978–1979 |
-| Emetogenicitetsklassificering | Hög – kraftig illamående och kräkningar är de vanligaste akuta biverkningarna |
-| Övervakningspunkter | Njurfunktion (nefrotoxicitet är dosbegränsande biverkning), leverfunktion (ALAT, ASAT, bilirubin), blodstatus (trombocytopeni möjlig), P-glukos (risk för hypoglykemi/hyperglykemi vid beta-cellsdestruktion) |
-| Hanteringsskydd | Ja – cytotoxisk hantering krävs i enlighet med gällande föreskrifter för cytostatikahantering (Arbetsmiljöverkets riktlinjer) |
+|------|------|
+| Cytotoxicitetsklassificering | Konventionell cytotoxisk (alkylerande nitrosourea) |
+| Myelosuppressionsrisk | Se produktresumén för varningar och försiktighetsåtgärder |
+| Emetogenicitetsklassificering | Se produktresumén för varningar och försiktighetsåtgärder |
+| Övervakningspunkter | Njurfunktion, leverfunktion och blodstatus (utifrån de sjukdomsområden som flaggats i säkerhetsdata) |
+| Hanteringsskydd | Hantering enligt gällande föreskrifter för cytotoxiska läkemedel |
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+**Möjliga kontraindikationer enligt kunskapsgraf (ej från produktresumé):** Kunskapsgrafen kopplar streptozocin till följande tillstånd som kan utgöra kontraindikationer. Detta är modellbaserad information och inte läkemedelstext:
+- Njursjukdom
+- Leversjukdom
+- Gallblåsesjukdom
+- Trombocytopeni, leukopeni och anemi (inklusive makrocytär anemi)
+- Blodkoagulationsstörning
+- Diabetes mellitus och diabetisk ketoacidos
+- Infektionssjukdomar (inklusive svampinfektioner och dermatofytos)
+- Pyouretär
 
-> Notera: Varningstext, kontraindikationer och läkemedelsinteraktioner saknas i detta evidenspaket (Data Gap DG001). Produktresumén (t.ex. Zanosar® smPC) bör konsulteras innan klinisk bedömning.
+**Läkemedelsinteraktioner:** Totalt 100 interaktioner identifierades. De viktigaste av dem (bland de 20 som listats i underlaget):
+- **Allvarliga (Major):** jodhaltiga röntgenkontrastmedel (jotalaminsyra, diatrizoat, iopromid, iopamidol, iohexol, jodipamid, jodixanol, ioversol, ioxilan), deferipron samt samarium (153Sm) lexidronam
+- **Måttliga (Moderate):** palifermin, strontiumklorid Sr-89, merkaptopurin, roflumilast, kloramfenikol (inklusive ögonberedning), zidovudin samt stelkrampstoxoid
+- **Lindriga (Minor):** levofloxacin
+
+Se produktresumén för fullständig säkerhetsinformation, då varningar och kontraindikationer från den svenska produktresumén saknas.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-Trots en TxGNN-förutsägelsepoäng på 99,97 % är evidensen för STZ vid RRMS på lägsta möjliga nivå (L5). Repurposing-rationalen saknar biologisk plausibilitet – STZ:s GLUT2-selektiva alkyleringsmekanism har ingen känd koppling till MS:s autoimmuna patofysiologi. Den enda tillgängliga publikationen avser fingolimod i en diabetesmodell och stöder inte STZ som MS-behandling. Den höga modellpoängen bedöms vara ett artefaktuellt resultat av grafnärhet, inte en äkta farmakologisk signal.
+- Förutsägelsen för multipel skleros saknar helt stöd i form av prövningar och litteratur (evidensnivå L5), och den kända njurtoxiciteten talar emot en kronisk, icke-livshotande indikation. Det enda spåret med viss biologisk rimlighet är småcellig lungcancer (L4), men även där är evidensen indirekt.
 
 **För att gå vidare krävs:**
-- Identifiering av en biologiskt plausibel verkningsmekanism för STZ vid autoimmun sjukdom eller demyelinisering
-- Prekliniska studier i MS-djurmodeller (t.ex. EAE-modellen) som visar effekt
-- Fullständig säkerhetsprofil: MOA-data från DrugBank (DG002), varningstext och kontraindikationer från produktresumé (DG001)
-- Uteslutande av att förutsägelsen enbart beror på grafnätverkets nodgranneffekt via fingolimod/FTY720
+- Hämta produktresumén från Läkemedelsverket för att kunna genomföra säkerhetsgranskning (varningar och kontraindikationer saknas i dagsläget)
+- Komplettera verkningsmekanismdata, exempelvis via DrugBank
+- Prekliniska studier som kopplar streptozocin till autoimmun demyelinisering, om multipel skleros ska utredas vidare
+- Riktad litteratursökning och prekliniska data för småcellig lungcancer, som är det mest rimliga alternativet av de förutsagda indikationerna
+- Utvärdering av administreringsväg och njursäkerhet i den aktuella patientgruppen
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

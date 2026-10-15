@@ -2,7 +2,7 @@
 layout: default
 title: Xylitol
 parent: Endast modellprediktion (L5)
-nav_order: 112
+nav_order: 454
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,68 +29,83 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Xylitol: Från oralhälsa till meningokockinfektion
-
-## Sammanfattning
-
-Xylitol är en naturlig sockeralkohol som framförallt är känd för sina antibakteriella och antibiofilmbildande egenskaper mot munhålans bakterier, exempelvis *Streptococcus mutans*. TxGNN-modellen förutsäger att xylitol potentiellt kan vara verksamt mot **meningokockinfektion**, sannolikt via ett indirekt samband med bakteriell adherens till slemhinnor. Evidensläget är dock mycket svagt – det finns varken **kliniska prövningar** eller **vetenskapliga publikationer** som stöder denna riktning, och förutsägelsen bygger enbart på modellens kunskapsgrafanalys.
+# Xylitol: Från ospecificerad indikation till meningokockinfektion
 
 ---
 
-## Snabböversikt
+### Sammanfattning
+
+Xylitol har i Sverige varit godkänt som en komponent i lösningen Cardioplexol för kardioplegi (hjärtstillestånd vid hjärtkirurgi), men det finns ingen registrerad indikationstext i underlaget. TxGNN-modellen förutsäger att xylitol kan vara effektivt mot **meningokockinfektion**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna riktning. Förutsägelsen bygger enbart på modellens poäng.
+
+---
+
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Ingen godkänd medicinsk indikation registrerad |
-| Förutsagd ny indikation | Meningokockinfektion (*meningococcal infection*) |
-| TxGNN-förutsägelsepoäng | 99,66% |
-| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
-| Marknadsstatus i Sverige | Ej registrerat / Ej marknadsförd |
-| Antal godkännanden | 0 |
-| Rekommenderat beslut | **Avvakta** |
+|------|------|
+| Ursprunglig indikation | Ingen indikationstext registrerad (produkten är en lösning för kardioplegi) |
+| Förutsagd ny indikation | Meningokockinfektion |
+| TxGNN-förutsägelsepoäng | 99,7 % |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 1 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i Evidence Pack. Baserat på känd information är xylitol en polyol-sockeralkohol som förekommer naturligt i bär, frukt och grönsaker. Dess förmåga att hämma *S. mutans* och andra grampositiva munbakteriernas adhesion till epitelceller i munhålan är väldokumenterad inom oral medicin.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig för xylitol. Det går därför inte att kontrollera någon mekanism kopplad till den ursprungliga användningen. Den ursprungliga produkten, Cardioplexol, är en kardioplegilösning och har ingen känd koppling till infektionssjukdomar.
 
-TxGNN-modellen förutsäger ett samband med meningokockinfektion via en hypotetisk mekanism: "sockermetabolism-antagonism → hämning av bakteriell mukosadhesion → förstärkt slemhinneförsvar". *Neisseria meningitidis*, som orsakar meningokockinfektion, koloniserar primärt nasofaryngeala slemhinnor – en anatomisk nisch med viss strukturell likhet med xylitols kända verkningsplats i oro-farinx.
+Xylitol är känt för att kunna minska bakteriers fästförmåga (adhesion) till slemhinnor hos vissa luftvägsbakterier, till exempel *Streptococcus pneumoniae* och *Haemophilus influenzae*, och har i tidigare forskning satts i samband med färre öroninflammationer hos barn. Om en liknande effekt finns mot *Neisseria meningitidis* har inte visats i det underlag som sammanställts för rapporten, så detta är endast en hypotes.
 
-Det är dock viktigt att understryka att detta mekanistiska samband är **starkt spekulativt**. Det saknas helt stöd från in vitro-studier, djurmodeller eller kliniska observationer som knyter xylitol till *N. meningitidis*. Förutsägelsen bör därför betraktas som en tidig hypotesgenerering snarare än ett handlingskraftigt forskningsuppslag.
+Meningokockinfektion är en akut och livshotande invasiv sjukdom som kräver behandling med antibiotika i blodet. Xylitol, vare sig lokalt eller via munnen, är inte ett rimligt behandlingsalternativ. En hypotetisk roll skulle i bästa fall vara att minska bärarskap i näsan och svalget, vilket skulle kräva egna studier.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
 Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
-## Säkerhetsaspekter
+### Marknadsinformation Sverige
 
-Se produktresumén för säkerhetsinformation.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 54736 (indragen) | Cardioplexol | Lösning för kardioplegi | Ingen indikationstext registrerad |
+
+Tillverkare: Taw Pharma (Ireland) Ltd.
 
 ---
 
-## Slutsats och nästa steg
+### Säkerhetsaspekter
+
+- **Kontraindikationer enligt kunskapsgraf**: Kunskapsgrafen (inte produktresumétext) kopplar xylitol till tandfluoros (dental fluorosis) som en kontraindikation. Detta bör verifieras mot primärkällor innan det tolkas kliniskt.
+
+Läkemedelsinteraktioner kunde inte hittas i den data som sammanställts. Se produktresumén för övrig säkerhetsinformation.
+
+---
+
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-Förutsägelsens evidensnivå är L5 – det vill säga enbart baserad på TxGNN:s kunskapsgrafanalys utan stöd från kliniska prövningar, observationsstudier eller grundläggande laboratoriedata. Den mekanistiska kopplingen mellan xylitols kända orala antibakteriella effekter och meningokockinfektion är alltför indirekt och spekulativ för att motivera vidare klinisk investering i detta skede.
+- Förutsägelsen stöds enbart av ett högt modellpoäng (evidensnivå L5), utan prövningar, litteratur eller verifierad mekanism. Dessutom är meningokockinfektion en akut, livshotande sjukdom där xylitol inte är ett plausibelt behandlingsalternativ, och det enda svenska godkännandet är indraget.
 
 **För att gå vidare krävs:**
-- Grundläggande in vitro-studier som testar om xylitol hämmar *Neisseria meningitidis* adhesion eller tillväxt
-- Kartläggning av xylitols verkningsmekanism (MOA) med avseende på gramnegativa bakterier
-- Identifiering av kliniska prövningar med xylitol mot liknande luftvägsinfektioner som kan ge indirekt stöd
-- Komplettering av säkerhetsprofil: varningar, kontraindikationer och eventuella läkemedelsinteraktioner
+- Hämta och granska produktresumén från Läkemedelsverket (varningar och kontraindikationer saknas).
+- Komplettera verkningsmekanismen från DrugBank.
+- Genomföra en litteratur- och prövningssökning på xylitol och *Neisseria meningitidis*, särskilt vad gäller bärarskap i näsa och svalg.
+- Prekliniska studier av xylitols effekt på meningokockers adhesion innan kliniska studier övervägs.
+- Utreda om någon administreringsväg är kompatibel med den föreslagna användningen.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

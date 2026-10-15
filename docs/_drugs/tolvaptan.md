@@ -2,7 +2,7 @@
 layout: default
 title: Tolvaptan
 parent: Endast modellprediktion (L5)
-nav_order: 104
+nav_order: 429
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,92 +29,102 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Tolvaptan: Från autosomal dominant polycystisk njursjukdom till polycystisk njursjukdom typ 3 med eller utan polycystisk leversjukdom
+# Tolvaptan: Från inadekvat ADH-syndrom och polycystisk njursjukdom till polycystisk njursjukdom 3 med eller utan polycystisk leversjukdom
 
 ---
 
-## Sammanfattning
+### Sammanfattning
 
-Tolvaptan är en vasopressin V2-receptorantagonist vars kliniska effekt vid autosomal dominant polycystisk njursjukdom (ADPKD) har bevisats i de pivotala fas 3-studierna TEMPO 3:4 och REPRISE, och läkemedlet är godkänt av både FDA och EMA för att bromsa njurfunktionsförsämring hos vuxna med risk för snabb sjukdomsprogression. TxGNN-modellen förutsäger att tolvaptan kan vara effektivt mot **polycystisk njursjukdom typ 3 (PKD3) med eller utan polycystisk leversjukdom** — en ADPKD-undertyp orsakad av GANAB-genmutation som delar den patologiska vasopressin→V2R→cAMP-axeln. Förutsägelsen stöds av **2 avslutade fas 3 RCT** och **20 publikationer**, inklusive Cochrane-systematisk översikt, metaanalyser och internationella kliniska riktlinjer.
+Tolvaptan är en vasopressin V2-receptorantagonist som ursprungligen användes vid inadekvat ADH-syndrom (SIADH), nefrogent syndrom med inadekvat antidiures och polycystisk njursjukdom. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **polycystisk njursjukdom 3 med eller utan polycystisk leversjukdom**, en sjukdom i samma sjukdomsfamilj som en av de ursprungliga indikationerna. Förutsägelsen stöds av **19 publikationer** (bland annat två stora RCT-studier, en Cochrane-översikt och flera översiktsartiklar) men av **0 registrerade kliniska prövningar** i de data som sammanställts för denna rapport.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Autosomal dominant polycystisk njursjukdom (ADPKD) |
-| Förutsagd ny indikation | Polycystisk njursjukdom typ 3 med eller utan polycystisk leversjukdom |
+|------|------|
+| Ursprunglig indikation | Ingen indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: inadekvat ADH-syndrom, nefrogent syndrom med inadekvat antidiures, polycystisk njursjukdom |
+| Förutsagd ny indikation | Polycystisk njursjukdom 3 med eller utan polycystisk leversjukdom |
 | TxGNN-förutsägelsepoäng | 99,99 % |
-| Evidensnivå | L1 — ≥ 2 avslutade fas 3 RCT |
-| Marknadsstatus i Sverige | Ej marknadsförd (0 godkännanden) |
-| Antal godkännanden | 0 |
+| Evidensnivå | L1 (två stora fas 3-RCT i ADPKD, men ingen direkt evidens för just denna subtyp) |
+| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Antal godkännanden | 20 (alla avregistrerade) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande saknas detaljerad verkningsmekanismdata i det tillgängliga datapaketet. Baserat på känd klinisk och vetenskaplig information är tolvaptan en selektiv vasopressin V2-receptorantagonist (vaptanklass) vars effekt vid ADPKD har bevisats i två stora fas 3-studier. Läkemedlets verkan bygger på blockering av V2R i njurarnas samlingsrör, vilket sänker det intracellulära cAMP-nivåerna och därmed hämmar den cAMP-drivna epitelcellsproliferationen och vätsketransporten som driver cysttillväxt.
+Detaljerade uppgifter om verkningsmekanismen saknas i de data som sammanställts för denna rapport. Tolvaptan är dock känt som en selektiv antagonist av vasopressin V2-receptorn. Vid polycystisk njursjukdom ger förhöjd cAMP-signalering i njurtubuliepitelet ökad cystatillväxt och vätskeutsöndring. Genom att blockera V2-receptorn sänks cAMP-nivåerna, vilket kan bromsa cystutvecklingen.
 
-PKD3, orsakad av GANAB-genmutation, tillhör det bredare ADPKD-spektrumet och delar den centrala patologiska axeln vasopressin→V2R→cAMP↑→cysttillväxt med de vanligare subtyperna PKD1 (PKD1-gen, ~80 % av fall) och PKD2 (PKD2-gen). Tolvaptans blockeringsmekanism är direkt riktad mot denna gemensamma patologiska drivkraft. PKD3 uppvisar ett generellt mildare njurfenotyp, men varken TEMPO 3:4 eller REPRISE uteslöt PKD3-patienter i sina inklusionskriterier, och befintliga europeiska och amerikanska godkännanden täcker brett formulerad ADPKD utan genotypspecifik begränsning.
+Den förutsagda sjukdomen (PKD3, en GANAB-relaterad form) tillhör samma sjukdomsfamilj som autosomalt dominant polycystisk njursjukdom (ADPKD). Polycystisk njursjukdom finns redan bland läkemedlets ursprungliga indikationer, så detta är inte en genuint ny användning.
 
-Den primära begränsningen är avsaknaden av PKD3-specifika subgruppsanalyser i befintliga RCT-datamaterial. Tolvaptans välkända hepatotoxicitetsprofil — med förhöjda aminotransferas- och bilirubinnivåer rapporterade i TEMPO 3:4 och REPRISE — utgör dessutom en viktig säkerhetsbegränsning som kräver strukturerad levermonitorering vid klinisk användning och noga risknytta-avvägning.
-
----
-
-## Kliniska prövningar
-
-Inga relaterade kliniska prövningar är för närvarande registrerade specifikt för polycystisk njursjukdom typ 3 med eller utan polycystisk leversjukdom.
+Den viktigaste begränsningen är att de avgörande studierna (TEMPO 3:4 och REPRISE) inkluderade allmänna ADPKD-populationer. Evidensen för den specifika GANAB-relaterade subtypen är därför en extrapolering.
 
 ---
 
-## Litteraturbevis
+### Kliniska prövningar
+
+Inga relaterade kliniska prövningar registrerade för närvarande.
+
+---
+
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [23121377](https://pubmed.ncbi.nlm.nih.gov/23121377/) | 2012 | Fas 3 RCT | N Engl J Med | TEMPO 3:4: tolvaptan bromsade signifikant total njurvolymstillväxt och eGFR-försämring vid ADPKD; förhöjda aminotransferas-/bilirubinnivåer noterades |
-| [29105594](https://pubmed.ncbi.nlm.nih.gov/29105594/) | 2017 | Fas 3 RCT | N Engl J Med | REPRISE: tolvaptan visade klinisk effekt och bekräftad hepatotoxicitetsrisk vid sen-stadie ADPKD (lägre baseline-eGFR) |
-| [39356039](https://pubmed.ncbi.nlm.nih.gov/39356039/) | 2024 | Systematisk översikt (Cochrane) | Cochrane Database Syst Rev | Utvärderade sjukdomsmodifierande behandlingar vid ADPKD; tolvaptan identifierades som enda godkända sjukdomsmodifierande terapi |
-| [37150675](https://pubmed.ncbi.nlm.nih.gov/37150675/) | 2023 | Systematisk översikt & metaanalys | Nefrologia | Tolvaptan fördröjer progression till terminal njursvikt vid ADPKD; positiv nytta-riskprofil statistiskt bekräftad |
-| [35134221](https://pubmed.ncbi.nlm.nih.gov/35134221/) | 2022 | Expertkonsensusdokument | Nephrol Dial Transplant | ERA/ERKNet/PKD International-konsensus om indikation, uppstart, dosering och säkerhetsövervakning av tolvaptan vid ADPKD |
-| [35728731](https://pubmed.ncbi.nlm.nih.gov/35728731/) | 2022 | Klinisk riktlinje (EASL) | J Hepatol | EASL:s riktlinjer för cystisk leversjukdom, inklusive handläggning av polycystisk leversjukdom vid ADPKD |
-| [38958301](https://pubmed.ncbi.nlm.nih.gov/38958301/) | 2024 | Klinisk riktlinje (ACG) | Am J Gastroenterol | ACG-riktlinje för fokala leverlesioner; inkluderar polycystisk leversjukdom och differentialdiagnostik |
-| [40126492](https://pubmed.ncbi.nlm.nih.gov/40126492/) | 2025 | Narrativ översikt | JAMA | Aktuell genomgång av ADPKD; prevalens 9,3/10 000 i USA, diagnostik, patofysiologi och behandlingsstrategier |
-| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Narrativ översikt | Clin Liver Dis | Tolvaptan vid ADPKD bromsar njurfunktionsförsämring och cysttillväxt; polycystisk leversjukdom är vanligaste extrarenala manifestationen av ADPKD |
-| [38091246](https://pubmed.ncbi.nlm.nih.gov/38091246/) | 2024 | Randomiserad studie | Pediatr Nephrol | Tolvaptans säkerhet och farmakodynamik utvärderad hos barn 5–17 år med ADPKD; retrospektiv riskklassificering av progressionshastighet |
+|------|-----|------|------|---------|
+| [23121377](https://pubmed.ncbi.nlm.nih.gov/23121377/) | 2012 | RCT | The New England Journal of Medicine | TEMPO 3:4. Tolvaptan bromsade tillväxten av total njurvolym och försämringen av njurfunktionen vid tidig ADPKD, men gav fler leverenzymförhöjningar. |
+| [29105594](https://pubmed.ncbi.nlm.nih.gov/29105594/) | 2017 | RCT | The New England Journal of Medicine | REPRISE. Studie av tolvaptan vid mer avancerad ADPKD. Tidigare studier visade effekt men också förhöjda aminotransferaser och bilirubin. |
+| [39356039](https://pubmed.ncbi.nlm.nih.gov/39356039/) | 2024 | Systematisk översikt | Cochrane Database of Systematic Reviews | Sammanställning av åtgärder för att förhindra sjukdomsprogression vid ADPKD, inklusive sjukdomsmodifierande läkemedel. |
+| [40126492](https://pubmed.ncbi.nlm.nih.gov/40126492/) | 2025 | Översikt | JAMA | Översikt av ADPKD, den vanligaste ärftliga njursjukdomen, som står för 5–10 % av njursvikten i USA och Europa. |
+| [41771281](https://pubmed.ncbi.nlm.nih.gov/41771281/) | 2026 | Översikt | Lancet | Den starka evidensbasen för tolvaptan som sjukdomsmodifierande behandling stöder tidig användning hos patienter med hög risk för njursvikt. |
+| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Översikt | Clinics in Liver Disease | Polycystisk njur-/leversjukdom. Tolvaptan vid ADPKD kan bromsa njurfunktionsförsämring och cysttillväxt. |
+| [40844441](https://pubmed.ncbi.nlm.nih.gov/40844441/) | 2025 | Översikt | American Journal of Kidney Diseases | Njurvolym, njurfunktion och genmutation förutsäger risken för njursvikt och identifierar patienter där sjukdomsmodifierande behandling rekommenderas. |
+| [40268755](https://pubmed.ncbi.nlm.nih.gov/40268755/) | 2025 | Översikt | Renal Failure | Genetiska och kliniska framsteg vid ADPKD, inklusive extrarenala manifestationer som levercystor. |
+| [40726372](https://pubmed.ncbi.nlm.nih.gov/40726372/) | 2025 | Översikt | Current Opinion in Nephrology and Hypertension | Tolvaptan är den enda godkända terapin mot sjukdomsprogression. Nya behandlingar är under utveckling. |
+| [32392574](https://pubmed.ncbi.nlm.nih.gov/32392574/) | 2021 | Översikt | Pediatric Research | Diskuterar tolvaptan hos ungdomar och unga vuxna med snabbt progredierande ADPKD, en grupp som TEMPO 3:4 inte studerade specifikt. |
 
 ---
 
-## Marknadsinformation Sverige
+### Marknadsinformation Sverige
 
-Tolvaptan är för närvarande **inte godkänt eller marknadsfört i Sverige**. Läkemedlet har inga registrerade marknadstillstånd hos Läkemedelsverket (0 licenser).
+Alla 20 godkännanden är avregistrerade och det finns inga giltiga godkännanden. Indikationstext saknas i data. De fem första godkännandena visas nedan.
 
-> Tolvaptan är godkänt inom EU via EMA (Jinarc®) och i USA via FDA (Jynarque®) för behandling av vuxna med ADPKD och hög risk för snabb sjukdomsprogression, men detta europeiska godkännande är ännu inte aktivt på den svenska marknaden.
-
----
-
-## Säkerhetsaspekter
-
-Se produktresumén (SmPC) för fullständig säkerhetsinformation, varningar och kontraindikationer.
-
-> Observera: Litteraturen i detta evidenspaket (PMID 23121377, 29105594) rapporterar specifikt förhöjda aminotransferaser och bilirubin under tolvaptanbehandling — en känd hepatotoxicitetsrisk som kräver regelbunden leverfunktionskontroll och bör vägas in vid alla beslut om indikationsutvidgning.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 66684 | Tolvaptan Sandoz | Tablett | Avregistrerad |
+| 63594 | Tolvaptan Teva B.V. | Tablett | Avregistrerad |
+| 66704 | Tolvaptan Hexal | Tablett | Avregistrerad |
+| 63595 | Tolvaptan Teva B.V. | Tablett | Avregistrerad |
+| 66697 | Tolvaptan Zentiva | Tablett | Avregistrerad |
 
 ---
 
-## Slutsats och nästa steg
+### Säkerhetsaspekter
+
+- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumé): leversvikt, levercirros, missbruk/beroende, aktivt magsår och demyeliniserande sjukdom.
+- **Läkemedelsinteraktioner**: totalt 100 interaktioner har identifierats. Bland de viktigaste:
+  - **Allvarlig (Major)**: klaritromycin.
+  - **Måttlig (Moderate)**: aprepitant, dexametason, empagliflozin, loperamid, mikonazol, naltrexon, rolapitant, rifaximin samt kaliumsalter (kaliumcitrat, kaliumbikarbonat, kaliumklorid, kaliumglukonat).
+- **Leverpåverkan**: de pivotala studierna visade förhöjda leverenzymer och bilirubin, vilket motiverar leverövervakning.
+
+Uppgifter om varningar och kontraindikationer från svensk produktresumé saknas. Se produktresumén för fullständig säkerhetsinformation.
+
+---
+
+### Slutsats och nästa steg
 
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-PKD3 delar den centrala vasopressin→V2R→cAMP-drivna cysttillväxtmekanismen med ADPKD brett, och befintliga fas 3-studier med L1-evidensnivå utesluter inte PKD3-patienter; EU/FDA-godkännanden täcker sannolikt PKD3 som en del av den breda ADPKD-definitionen, men PKD3-specifik effektdata saknas och hepatotoxicitetsrisken kräver kontrollerade betingelser.
+- Evidensen för tolvaptan vid ADPKD är stark (två stora RCT-studier och en Cochrane-översikt), men den är inte direkt riktad mot den förutsagda GANAB-relaterade subtypen. Läkemedlet har redan polycystisk njursjukdom som ursprunglig indikation, och samtliga svenska godkännanden är avregistrerade.
 
 **För att gå vidare krävs:**
-- PKD3-specifika subgruppsanalyser ur befintligt TEMPO 3:4- och REPRISE-datamaterial
-- Ansökan om nationellt marknadstillstånd hos Läkemedelsverket baserat på gällande EMA-dossier (Jinarc®)
-- Etablering av ett leverfunktionsövervakningsprotokoll (REMS-ekvivalent) för klinisk användning i Sverige
-- Komplettering av säkerhetsdata: fullständig produktresumé (SmPC), varningstexter och kontraindikationslista för den svenska kontexten
-- Övervägande av registerbaserad uppföljningsstudie för PKD3-patienter vid introduktion
+- Hämta och granska varningar och kontraindikationer från produktresumén (saknas i nuläget).
+- Komplettera uppgifter om verkningsmekanism från DrugBank.
+- Utvärdera data för patienter med GANAB-relaterad sjukdom specifikt, eller bekräfta att evidensen från ADPKD kan extrapoleras.
+- Säkerställa leverövervakning, hantering av aquaretiska biverkningar och urval av patienter utifrån risk för snabb progression.
+- Kontrollera tillgänglighet och regulatorisk status, eftersom inga giltiga svenska godkännanden finns.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

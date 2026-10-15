@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Sumatriptan
-parent: Endast modellprediktion (L5)
-nav_order: 99
-evidence_level: L5
+parent: Måttlig evidens (L3-L4)
+nav_order: 406
+evidence_level: L4
 indication_count: 1
 ---
 
 # Sumatriptan
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **1** st
+Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,33 +31,35 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 # Sumatriptan: Från migrän till migrän med hjärnstamsaura
 
+---
+
 ## Sammanfattning
 
-Sumatriptan är ett välkänt akutläkemedel mot migrän som verkar som selektiv agonist vid 5-HT₁B/1D-receptorer och vars effekt vid vanlig migrän är väletablerad. TxGNN-modellen förutsäger att sumatriptan kan vara effektivt mot **migrän med hjärnstamsaura (MBA)**, en specifik undergrupp av migrän med aura som engagerar hjärnstam eller bilateral kortex. Förutsägelsen stöds av **18 publikationer** – varav 2 randomiserade kliniska prövningar och 1 systematisk översikt – men saknar kliniska prövningar specifikt utformade för MBA-undergruppen.
+Sumatriptan är en serotoninagonist (5-HT1B/1D) som ursprungligen används mot migrän, klusterhuvudvärk och besläktade primära huvudvärkssjukdomar. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **migrän med hjärnstamsaura**, men än så länge finns **inga kliniska prövningar** och **18 publikationer** som rör migrän i bredare mening, varav ingen studerar just denna subtyp direkt. Förutsägelsen bygger därför i första hand på modellen och på släktskapet mellan sjukdomarna.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Akutbehandling av migrän (välkänd klinisk indikation; inga produkter registrerade i systemet) |
+|------|------|
+| Ursprunglig indikation | Migrän (inkl. migrän med eller utan aura), klusterhuvudvärk, paroxysmal hemikrani, hemicrania continua (enligt kunskapsgrafen; svensk indikationstext saknas) |
 | Förutsagd ny indikation | Migrän med hjärnstamsaura |
-| TxGNN-förutsägelsepoäng | 99,74 % |
-| Evidensnivå | L3 – Systematisk översikt och observationsstudier |
-| Marknadsstatus i Sverige | Ej registrerad (0 godkända produkter i systemet) |
-| Antal godkännanden | 0 |
+| TxGNN-förutsägelsepoäng | 99,7 % |
+| Evidensnivå | L4 |
+| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Antal godkännanden | 4 (alla avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta datapaket. Baserat på känd information är sumatriptan en selektiv 5-HT₁B/1D-receptoragonist. Läkemedlet dämpar migränanfall via två parallella mekanismer: inhibering av det trigeminovaskulära systemet (via 5-HT₁D) och konstriktion av intrakraniella blodkärl (via 5-HT₁B), vilket sammantaget minskar frisättningen av vasoaktiva neuropeptider från peritrigeminal dura.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Utifrån allmän kunskap om läkemedelsklassen är sumatriptan en 5-HT1B/1D-receptoragonist. Den antas lindra migränanfall genom att dra ihop kranialkärl och hämma frisättningen av smärtsignalerande peptider (bl.a. CGRP) från trigeminusnerven.
 
-Migrän med hjärnstamsaura (MBA, tidigare benämnd basilär migrän) delar grundläggande patofysiologi med övriga migränformer med aura – aurafenomenen drivs av cortical spreading depression (CSD) eller hjärnstamsdysfunktion. Den 5-HT₁D-medierade trigeminala inhibitionen bör teoretiskt vara verksam även vid MBA. Historiskt uppstod kontraindikationen mot triptaner vid MBA av oro för att 5-HT₁B-aktivering av arteria basilaris skulle kunna framkalla posterior cirkulationsischemi. Internationella Huvudvärksällskapet (IHS) mjukade dock upp denna restriktiva hållning i klassificeringsrevisionen 2013 och omdöpte tillståndet till just "migrän med hjärnstamsaura" för att minska stigmat kring behandling.
+Migrän med hjärnstamsaura tillhör samma sjukdomsspektrum som migrän med och utan aura och delar den trigeminovaskulära sjukdomsmekanismen. Därför finns ett rimligt mekanistiskt samband, och det förklarar sannolikt den mycket höga modellpoängen. Poängen är dock enbart en beräknad förutsägelse.
 
-TxGNN-modellens höga förutsägelsepoäng (99,74 %) speglar sannolikt det starka sambandet i kunskapsgrafen mellan sumatriptan och migrän som helhet, snarare än en specifik validering av MBA-undergruppen. Bristen på MBA-dedikerade randomiserade kliniska prövningar innebär att effekt- och säkerhetsgränserna för just denna subtyp – framför allt avseende posteriorcirkulationsrisk – ännu inte är kvantifierade.
+Det finns en viktig invändning. Triptaner har historiskt varit förenade med försiktighet eller kontraindikation vid hemiplegisk migrän och basilarmigrän, eftersom den kärlsammandragande effekten teoretiskt kan ge ischemi i hjärnstammen. Mekanismen som talar för effekt kan alltså samtidigt utgöra en säkerhetsrisk i just denna subtyp.
 
 ---
 
@@ -69,24 +71,46 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Litteraturbevis
 
+Ingen av publikationerna undersöker sumatriptan specifikt vid migrän med hjärnstamsaura. Tabellen visar de mest relevanta, med prioritet för randomiserade studier och översikter.
+
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [23657930](https://pubmed.ncbi.nlm.nih.gov/23657930/) | 2014 | RCT | Phytotherapy Research | Dubbelblind RCT (n=100) jämförde ingefärspulver med sumatriptan vid akut migrän utan aura; likvärdig smärtlindrande effekt observerades i de två armarna. |
-| [33567890](https://pubmed.ncbi.nlm.nih.gov/33567890/) | 2021 | RCT | Cephalalgia | Tidig administration av sumatriptan förhindrade PACAP38-inducerade migränanfall; understryker värdet av tidigt insatt triptan­behandling. |
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Systematisk översikt | Headache | American Headache Society:s uppdaterade evidensutvärdering av akuta migrän­läkemedel; sumatriptan klassificeras med stark evidens (nivå A) för akutbehandling. |
-| [25841032](https://pubmed.ncbi.nlm.nih.gov/25841032/) | 2015 | Klinisk analys | Neurology | Sumatriptans effektivitet var signifikant reducerad vid migrän med aura jämfört med migrän utan aura – direkt relevant för MBA-undergruppen. |
-| [1313746](https://pubmed.ncbi.nlm.nih.gov/1313746/) | 1992 | RCT | Cephalalgia | Dubbelblind placebokontrollerad parallellgruppsstudie av sumatriptan 200 mg oral vid akut migrän med aura; effektgraden i öppna förstudier uppgick till 70–85 %. |
-| [8559405](https://pubmed.ncbi.nlm.nih.gov/8559405/) | 1996 | Klinisk studie | Neurology | Undersökte subkutant sumatriptan i relation till migränaura; ger insikt om triptaners påverkan på aurafasen och tidpunktens betydelse. |
-| [8536293](https://pubmed.ncbi.nlm.nih.gov/8536293/) | 1995 | Granskning | Cephalalgia | Detaljerad genomgång av sumatriptans 5-HT₁-receptoragonism, trigeminal inhibering och peritrigeminal kärlmekanism baserat på samtliga publicerade prövningar vid den tidpunkten. |
-| [31135819](https://pubmed.ncbi.nlm.nih.gov/31135819/) | 2019 | Klinisk studie | JAMA Neurology | PET-studie undersökte om sumatriptan penetrerar CNS och binder centrala 5-HT₁B-receptorer under pågående migränanfall; ger mekanistisk information om centralt kontra perifert verkningssätt. |
-| [21469920](https://pubmed.ncbi.nlm.nih.gov/21469920/) | 2011 | Läkemedelsgranskning | Expert Review of Neurotherapeutics | Subkutan sumatriptan (Sumavel DosePro) godkänt för akut migrän med/utan aura och klusterhuvudvärk; subkutan administrering visas vara snabbast och mest effektiv administreringsväg. |
-| [38307660](https://pubmed.ncbi.nlm.nih.gov/38307660/) | 2024 | Granskning | Handbook of Clinical Neurology | Status migrainosus som erkänd komplikation till migrän med/utan aura (>72 timmar); behandlingsprinciper och sjukvårdsbörda sammanfattas, triptaner ingår i behandlingsarsenalen. |
+|------|-----|------|------|---------|
+| [23657930](https://pubmed.ncbi.nlm.nih.gov/23657930/) | 2014 | RCT | Phytotherapy Research | Dubbelblind studie på 100 patienter med akut migrän utan aura som jämförde ingefära med sumatriptan. |
+| [1313746](https://pubmed.ncbi.nlm.nih.gov/1313746/) | 1992 | RCT | Cephalalgia | Dubbelblind, placebokontrollerad studie av 200 mg oralt sumatriptan vid akut migrän med aura. |
+| [25841032](https://pubmed.ncbi.nlm.nih.gov/25841032/) | 2015 | Studie | Neurology | Undersöker om behandlingsutfallet skiljer sig mellan migrän med och utan aura; sumatriptan har minskad effekt vid migrän med aura. |
+| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Översikt | Headache | Uppdaterad bedömning från American Headache Society av evidensen för akut migränbehandling. |
+| [26628293](https://pubmed.ncbi.nlm.nih.gov/26628293/) | 2016 | Översikt | Drugs | Sumatriptan/naproxen: fas 3-studier visar högre andel smärtfria efter 2 timmar än placebo vid migrän med eller utan aura. |
+| [12917936](https://pubmed.ncbi.nlm.nih.gov/12917936/) | 2003 | Cochrane-översikt | Cochrane Database of Systematic Reviews | Översikt av oralt sumatriptan vid akut migrän. |
+| [8536293](https://pubmed.ncbi.nlm.nih.gov/8536293/) | 1995 | Översikt | Cephalalgia | Kritisk genomgång av klinisk erfarenhet av sumatriptan vid migrän och klusterhuvudvärk. |
+| [27681528](https://pubmed.ncbi.nlm.nih.gov/27681528/) | 2016 | Översikt | Drugs | Sumatriptan som nässpray (pulver) vid akut migrän hos vuxna med eller utan aura. |
+| [38307660](https://pubmed.ncbi.nlm.nih.gov/38307660/) | 2024 | Översikt | Handbook of Clinical Neurology | Genomgång av status migrainosus, en komplikation till migrän med eller utan aura. |
+| [8559405](https://pubmed.ncbi.nlm.nih.gov/8559405/) | 1996 | Kommentar | Neurology | Subkutant sumatriptan och migränaura (sammanfattning saknas). |
+
+---
+
+## Marknadsinformation Sverige
+
+Alla fyra godkännanden är avregistrerade, och det finns inga aktiva godkännanden i Sverige i det sammanställda underlaget. Indikationstext saknas i data.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
+|---------|------|------|-----------|-----------|
+| 13220 | Imigran | Nässpray, lösning | GlaxoSmithKline AB | Avregistrerad |
+| 13219 | Imigran | Nässpray, lösning | GlaxoSmithKline AB | Avregistrerad |
+| 58763 | Imigran | Nässpray, lösning | 2care4 ApS | Avregistrerad |
+| 49348 | Imigran | Nässpray, lösning | 2care4 ApS | Avregistrerad |
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+Ingen produktresumé har kunnat hämtas, så uppgifter om varningar och kontraindikationer från märkningen saknas. Se produktresumén för fullständig säkerhetsinformation.
+
+- **Kontraindikationer enligt kunskapsgrafen** (härledda från sjukdomssamband i TxGNN, inte från produkttext): Främst hjärt-kärlsjukdomar och cerebrovaskulära tillstånd, bl.a. högt blodtryck, kranskärlssjukdom, hjärtinfarkt, hjärtsvikt, stroke och hjärninfarkt, perifer kärlsjukdom och claudicatio. Dessutom nämns lever- och njursjukdom, epilepsi, diabetes, blodkoagulationsrubbningar, blodbrist och missbruk/beroende. Dessa uppgifter bör verifieras mot produktresumén.
+- **Läkemedelsinteraktioner** (100 interaktioner identifierade; de viktigaste visas):
+  - **Allvarliga (Major):** dexfenfluramin, fenfluramin, lorcaserin, sibutramin (risk för serotonerg toxicitet) samt 5-HT3-antagonisterna dolasetron, granisetron, ondansetron och palonosetron.
+  - **Måttliga (Moderate):** morfin (även liposomalt).
+  - Flera ytterligare interaktioner har okänd allvarlighetsgrad, bl.a. pantoprazol, omeprazol, metformin och doxycyklin.
+- **Särskild risk för den förutsagda indikationen:** Triptaner har historiskt ansetts olämpliga vid hemiplegisk migrän och basilarmigrän på grund av teoretisk risk för ischemi i hjärnstammen.
 
 ---
 
@@ -95,13 +119,14 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-Evidensnivån är L3 – sumatriptans effekt vid MBA saknar dedikerade randomiserade kliniska prövningar, och säkerhetsgränserna för posteriorcirkulationsischemi vid denna specifika subtyp är inte kvantifierade trots att IHS 2013 mjukade upp den historiska kontraindikationen. TxGNN:s höga poäng reflekterar generell migränassociation snarare än MBA-specifik validering.
+- Evidensen är L4: förutsägelsen bygger på modellen och mekanistiska resonemang, utan kliniska prövningar eller studier som direkt rör migrän med hjärnstamsaura. Den historiska försiktigheten kring triptaner vid denna subtyp, tillsammans med den saknade säkerhetsinformationen från produktresumén, gör att läkemedlet inte bör gå vidare nu.
 
 **För att gå vidare krävs:**
-- Genomförande av en MBA-specifik fas II RCT med sumatriptan för att fastställa effekt och säkerhet
-- Prospektiv insamling av säkerhetsdata avseende posterior cirkulationsischemi hos MBA-patienter behandlade med sumatriptan
-- Inhämtning av fullständig produktresumé (SmPC) för komplett säkerhetsprofil: kontraindikationer, varningar och läkemedelsinteraktioner
-- Genomgång av uppdaterade riktlinjer i ljuset av IHS 2013-revisionen och eventuella nyare meta­analyser om triptaner vid aura­subtyperna
+- Hämta och analysera produktresumén från Läkemedelsverket (MPA) för varningar och kontraindikationer, vilket är ett blockerande datagap.
+- Komplettera data om verkningsmekanismen, till exempel via DrugBank.
+- Genomföra en riktad litteraturgenomgång om triptaner vid migrän med hjärnstamsaura, hemiplegisk migrän och basilarmigrän, med fokus på kärlsäkerhet.
+- Utvärdera om det finns marknadstillgängliga sumatriptanprodukter i Sverige, eftersom alla fyra godkännanden är avregistrerade. Beredningsformerna i underlaget är endast nässpray.
+- Vid fortsatt intresse: planera en kontrollerad klinisk studie med noggrann kardiovaskulär och neurologisk övervakning.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

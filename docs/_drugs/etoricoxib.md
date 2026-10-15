@@ -2,7 +2,7 @@
 layout: default
 title: Etoricoxib
 parent: Endast modellprediktion (L5)
-nav_order: 44
+nav_order: 183
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,73 +29,92 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Etoricoxib: Från muskuloskeletal smärta till migrän
+# Etoricoxib: Från okänd ursprunglig indikation till migrän
 
 ---
 
-## Sammanfattning
+### Sammanfattning
 
-Etoricoxib är en selektiv COX-2-hämmare inom NSAID-klassen som internationellt används för behandling av artrit, ankyloserande spondylit och akut muskuloskeletal smärta – men som i dagsläget saknar godkännande och marknadsföring i Sverige. TxGNN-modellen förutsäger med mycket hög säkerhet (**99,9 %**) att etoricoxib kan vara verksamt vid **migrän**, den högst rankade av tio utvärderade nya indikationer. Evidensunderlaget för just denna indikation är dock begränsat – det finns varken kliniska prövningar eller direkta publikationer som specifikt stöder etoricoxib vid migrän, vilket innebär att förutsägelsen i nuläget enbart vilar på modellens slutledning (L5).
+Etoricoxib är en selektiv COX-2-hämmare som i den sammanställda datan saknar registrerad godkänd indikationstext i Sverige. Enligt läkemedelsdatabasen används den vid reumatoid artrit, artros, kronisk ländryggssmärta, ankyloserande spondylit, akut smärta och gikt. TxGNN-modellen förutsäger att det kan vara effektivt mot **migrän** med mycket hög poäng, men det finns **0 kliniska prövningar** och **1 publikation** (en översikt som inte testar etoricoxib vid migrän). Evidensen är därför i praktiken bara en modellförutsägelse.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
-|------|---------|
-| Ursprunglig indikation | Ej registrerat i Sverige; internationellt godkänt för artrit, ankyloserande spondylit och akut muskuloskeletal smärta |
+|------|------|
+| Ursprunglig indikation | Ingen indikationstext registrerad i godkännandedata (enligt läkemedelsdatabasen: reumatoid artrit, artros, ländryggssmärta, ankyloserande spondylit, akut smärta, gikt) |
 | Förutsagd ny indikation | Migrän (migraine disorder) |
 | TxGNN-förutsägelsepoäng | 99,9 % |
-| Evidensnivå | L5 – Enbart modellförutsägelse, inga direkta studier |
-| Marknadsstatus i Sverige | Ej marknadsfört |
-| Antal godkännanden i Sverige | 0 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 20 (samtliga indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-Etoricoxib verkar genom selektiv hämning av cyklooxygenas-2 (COX-2)-enzymet. Detaljerad MOA-data saknas i detta datapaket, men utifrån etablerad farmakologi: etoricoxib tillhör den selektiva COX-2-hämmande NSAID-klassen och reducerar prostaglandinsyntesen utan att i kliniska doser nämnvärt påverka COX-1. Det ger en teoretisk fördel vad gäller gastrointestinal tolerabilitet jämfört med icke-selektiva NSAID som indometacin.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i den sammanställda datan. Baserat på känd information är etoricoxib en selektiv hämmare av COX-2 (PTGS2), vilket minskar bildningen av prostaglandin E2 (PGE2).
 
-Kopplingen till migrän är biologiskt plausibel. COX-2-hämning minskar syntesen av prostaglandin E2 (PGE2), en central förmedlare av perifer och central smärtsensibilisering samt neuroinflammation längs den trigeminovaskulära smärtaxeln – den patofysiologiska kärnan i migränattacker. Minskad PGE2-produktion kan i teorin dämpa den neurogena inflammation och centrala sensibilisering som driver och förlänger migränepisoder.
+PGE2 bidrar till neurogen inflammation och sensitisering av det trigeminovaskulära systemet vid migrän. Eftersom etoricoxib dämpar prostaglandinbildningen är mekanismen biologiskt rimlig. Det finns också ett samband med läkemedlets kända användning vid smärta och inflammation.
 
-Ytterligare stöd för mekanistisk rimlighet ges av att etoricoxib delar grundläggande prostanoidhämmande verkningsmekanism med indometacin – ett väletablerat NSAID med bevisad effekt vid ett brett spektrum av indometacinresponsiva primära huvudvärkssyndrom. Inom detta Evidence Pack visar den lägre rankade indikationen *headache disorder* (rank 9) faktiskt L3-evidens, med direkta fallserier och case reports om etoricoxib vid indomethacin-responsiva tillstånd – vilket indirekt stärker den övergripande mekanistiska trovärdigheten. Direkta kliniska data specifikt för etoricoxib vid migrän saknas dock helt.
-
----
-
-## Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande för etoricoxib vid migrän.
+Det bör dock framhållas att den enda länkade artikeln är en översikt om fastehuvudvärk under Ramadan, som inte prövar etoricoxib vid migrän. Den höga poängen bygger alltså på modellens förutsägelse, inte på klinisk evidens.
 
 ---
 
-## Litteraturbevis
+### Kliniska prövningar
 
-Ingen relaterad litteratur tillgänglig för närvarande som direkt undersöker etoricoxib vid migrän.
-
----
-
-## Säkerhetsaspekter
-
-Se produktresumén för säkerhetsinformation.
-
-> **Notering:** Etoricoxib är inte godkänt i Sverige och saknar produktresumé hos Läkemedelsverket (MPA). Som selektiv COX-2-hämmare är läkemedlet internationellt associerat med förhöjd kardiovaskulär risk, njurpåverkan och risk för vätskeretention. Detaljerade varningsdata och kontraindikationer bör inhämtas via DrugBank (DB01628) och EMA:s produktinformation innan vidare utvärdering.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Slutsats och nästa steg
+### Litteraturbevis
+
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|-----|------|------|---------|
+| [42841395](https://pubmed.ncbi.nlm.nih.gov/42841395/) | 2026 | Översikt (scoping review) | Pain management | Sammanfattar fastehuvudvärk under Ramadan. Testar inte etoricoxib vid migrän och ger ingen direkt effektevidens. |
+
+För närliggande huvudvärkstillstånd finns enstaka fallrapporter (till exempel primär huvudvärk av stickande typ, indomethacinkänslig huvudvärk och trigeminal autonom cefalalgi) samt en prekliniskt studie på råttor (PMID 29209105) som visar NSAID-effekter på CGRP och PGE2 i trigeminusganglier. Dessa gäller inte migrän direkt och är därför inte medräknade i evidensen ovan.
+
+---
+
+### Marknadsinformation Sverige
+
+Samtliga 20 godkännanden är indragna. Ingen indikationstext finns registrerad. Fem exempel:
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 53357 | Etoricoxib Orion | Filmdragerad tablett | Ej angiven |
+| 55642 | Etoricoxib Brown | Filmdragerad tablett | Ej angiven |
+| 26324 | Arcoxia (Medartuum AB) | Filmdragerad tablett | Ej angiven |
+| 51532 | Etoricoxib Teva | Filmdragerad tablett | Ej angiven |
+| 24178 | Arcoxia (Organon N.V) | Filmdragerad tablett | Ej angiven |
+
+---
+
+### Säkerhetsaspekter
+
+- **Läkemedelsinteraktioner**: Interaktionsfrågan gav en post i läkemedelsdatabasen, där målet är COX-2 (PTGS2). Ingen allvarlighetsgrad är angiven.
+- **Säkerhetssignaler i litteraturen**: Fallrapporter beskriver etoricoxibrelaterad hyperkalemi och akut njurpåverkan hos en patient som även tog telmisartan och hade natriumfattig kost (PMID 21373319), samt reversibelt cerebralt vasokonstriktionssyndrom (PMID 25229174). Det senare är särskilt relevant vid huvudvärk. Som klass kan COX-2-hämmare dessutom ge kardiovaskulär risk, vätskeretention och blodtryckshöjning.
+
+Se produktresumén för fullständig säkerhetsinformation, eftersom varningar och kontraindikationer inte fanns tillgängliga i den sammanställda datan.
+
+---
+
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-Trots ett TxGNN-förutsägelsepoäng på 99,9 % saknas helt kliniska prövningar och direkta publikationer för etoricoxib specifikt vid migrän. Evidensnivån är L5 – lägsta möjliga – vilket innebär att förutsägelsen inte kan utgöra grund för klinisk tillämpning. Därtill är etoricoxib ej registrerat i Sverige, vilket lägger till ett regulatoriskt hinder vid eventuell klinisk prövning.
+- Mekanismen är rimlig, men det finns varken kliniska prövningar eller litteratur som visar effekt av etoricoxib vid migrän (evidensnivå L5). Dessutom är alla svenska godkännanden indragna, och säkerhetsdata saknas i underlaget.
 
 **För att gå vidare krävs:**
-- Utökad litteratursökning med breddade söktermer (inkl. migrän, trigeminovaskulär smärta, PGE2, COX-2 och primär huvudvärk)
-- Identifiering av befintliga kliniska prövningar för etoricoxib vid migränrelaterade tillstånd i internationella register (ClinicalTrials.gov, ICTRP, EudraCT)
-- **Prioritera parallell utredning av indikationen *headache disorder* (rank 9, L3-evidens, 2 kliniska prövningar + 5 publikationer)** som ett mer omedelbart kliniskt värdefullt spår med befintligt evidensunderlag
-- Inhämta fullständig säkerhetsprofil via DrugBank API (MOA, kontraindikationer, DDI) och EMA:s produktresumé
-- Regulatorisk bedömning hos Läkemedelsverket för eventuell klinisk prövning eller licensansökan i Sverige
+- Hämta och granska produktresumén (varningar och kontraindikationer) från MPA, då detta är ett blockerande dataglapp inför säkerhetsbedömning.
+- Komplettera verkningsmekanismdata från DrugBank.
+- Systematisk litteratursökning efter kontrollerade studier av COX-2-hämmare vid migrän.
+- Utvärdera om närliggande huvudvärkstillstånd (till exempel indomethacinkänslig huvudvärk och trigeminal autonom cefalalgi, där fallserier finns) är en mer realistisk första riktning än migrän.
+- Bedöma kardiovaskulär och njurrelaterad risk i den tänkta patientgruppen samt klargöra regulatorisk väg, givet att produkterna är indragna i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

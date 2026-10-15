@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Midazolam
-parent: Hög evidens (L1-L2)
-nav_order: 70
-evidence_level: L2
+parent: Måttlig evidens (L3-L4)
+nav_order: 293
+evidence_level: L3
 indication_count: 1
 ---
 
 # Midazolam
 {: .fs-9 }
 
-Evidensnivå: **L2** | Förutsagda indikationer: **1** st
+Evidensnivå: **L3** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,86 +29,112 @@ Evidensnivå: **L2** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Midazolam: Från preoperativ sedering till insomni
+# Midazolam: Från ångest till sömnlöshet
+
+---
 
 ## Sammanfattning
 
-Midazolam är ett kortverkande bensodiazepinläkemedel som primärt används kliniskt för preoperativ sedering, anestesiinduktion och procedursedation. TxGNN-modellen förutsäger med mycket hög konfidenspoäng (99,74 %) att läkemedlet kan vara effektivt mot **insomni**, ett resultat som stöds av direkta historiska RCT-studier och en pågående prövning som explicit utvärderar midazolam vid sömnstörningar. Evidensbasen är mekanistiskt välmotiverad, men läkemedlets ultrakortverkande farmakokinetik och moderna kliniska riktlinjer begränsar dess roll som förstahandsbehandling vid kronisk insomni.
+Midazolam är en kortverkande bensodiazepin som i data från kunskapsgrafen anges ha använts mot **ångest**. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **sömnlöshet (insomni)**, med **2 kliniska prövningar** och **10 publikationer** som för närvarande hör till denna riktning. Av dessa är endast ett fåtal direkt relevanta: framför allt äldre studier på oralt midazolam vid sömnstörningar. Samtliga 17 svenska godkännanden är avregistrerade.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Preoperativ sedering och anestesiinduktion (känd klinisk användning; inga svenska godkännanden registrerade) |
-| Förutsagd ny indikation | Insomni |
-| TxGNN-förutsägelsepoäng | 99,74 % |
-| Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Ej marknadsförd |
-| Antal godkännanden | 0 |
-| Rekommenderat beslut | Avvakta |
+|------|------|
+| Ursprunglig indikation | Ångest (enligt kunskapsgrafen; godkända indikationstexter saknas i de svenska godkännandena) |
+| Förutsagd ny indikation | Sömnlöshet (insomni) |
+| TxGNN-förutsägelsepoäng | 99,7 % |
+| Evidensnivå | L3 |
+| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Antal godkännanden | 17 |
+| Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-Midazolam tillhör bensodiazepinklassen och verkar som positiv allosterisk modulator av GABA-A-receptorn. Genom att binda till receptorns bensodiazepinbindningsställe – primärt på α1-subenheten – förstärker midazolam kloridinflödet vid GABA-stimulering. Detta leder till hyperpolarisering av nervcellen och en uttalad CNS-dämpning med sedativa, hypnotiska, anxiolytiska och antikonvulsiva egenskaper. Djurmodelldata (PMID 21396773) ger ytterligare mekanistiskt stöd genom att visa att GABAerg signalering i cingulate cortex är direkt kopplad till sömnreglering.
+Det finns för närvarande ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda data. Baserat på känd information är midazolam en kortverkande bensodiazepin. Klassen förstärker GABA-A-receptorns hämmande signalering i hjärnan, vilket ger lugnande och sömninducerande effekt.
 
-Sambandet mellan den ursprungliga indikationen (sedering) och insomni är direkt mekanistiskt: den hypnotiska effekten av GABA-A-modulering är precis den egenskap som historiskt lagt grunden för bensodiazepiner som sömnmedel. Äldre välkontrollerade studier från 1981–1990 (PMID 6120704, 6138072, 2121802, 2229461) har explicit utvärderat oral midazolam hos patienter med insomni och visat klinisk effekt.
+Ångest och sömnlöshet hänger ofta ihop, och båda kan behandlas genom att dämpa överaktivitet i nervsystemet. Därför är det mekanistiskt rimligt att ett läkemedel som lindrar ångest även kan underlätta insomning. Mekanismresonemanget bygger på kunskap om läkemedelsklassen, inte på de data som sammanställts för rapporten.
 
-Den viktigaste begränsningen är farmakokinetiken: midazolams eliminationshalveringstid är extremt kort (T½ ≈ 1,5–2,5 timmar). Detta innebär att läkemedlet sannolikt passar bättre vid **insomninssvårigheter** (sleep onset insomnia) än vid **sömnmaintenanceproblem**. Moderna riktlinjer och nyare selektiva sömnmedel (t.ex. orexinantagonister) har i stor utsträckning ersatt bensodiazepiner vid kronisk insomni på grund av beroenderisk och biverkningsprofil.
+Den höga modellpoängen (0,997) är en beräkningsmässig förutsägelse och utgör i sig inget kliniskt bevis. Noterbart är att midazolam i form av tabletter redan har studerats som sömnmedel i äldre studier (se nedan).
 
 ---
 
 ## Kliniska prövningar
 
 | Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
-|---------|------|--------|-----------|--------------|
-| [NCT06407518](https://clinicaltrials.gov/study/NCT06407518) | N/A | Rekryterar | 280 | Oral midazolam som premedicinering hos kolorektal cancerpatienter med sömnstörningar/ångest inför kirurgi; utvärderar sömnkvalitet och postoperativ smärta; studieprotokoll citerar explicit att midazolam oral lösning är säkert och effektivt för kortvarig hypnos |
-| [NCT02142595](https://clinicaltrials.gov/study/NCT02142595) | Fas 4 | Avslutad | 111 | Randomiserad dubbelblind jämförelse av dexmedetomidin vs. midazolam som sedering vid TURP under spinalanestesi; mäter postoperativ sömnkvalitet; indirekt relevant då sömnkvalitet är primärt utfallsmått |
+|---------|------|------|------|---------|
+| [NCT02142595](https://clinicaltrials.gov/study/NCT02142595) | Fas 4 | Avslutad | 111 | Jämför sömnkvalitet efter operation (prostataresektion) vid sedering med dexmedetomidin respektive midazolam. Indirekt stöd, eftersom det gäller sömn efter operation och inte kronisk sömnlöshet. |
+| [NCT00886314](https://clinicaltrials.gov/study/NCT00886314) | Ej tillämpligt | Okänd | 80 | Jämför clowndoktorer med lugnande förmedicinering (midazolam) för att minska oro hos barn inför operation. Gäller oro, inte sömn, och har mycket låg relevans. |
 
 ---
 
 ## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|-----|-----|-----------|--------------|
-| [6120704](https://pubmed.ncbi.nlm.nih.gov/6120704/) | 1981 | Fas 2 RCT (dosfinnande) | Arzneimittel-Forschung | Oral midazolam 10–30 mg utvärderat hos 75 inlagda patienter med lindrig–måttlig insomni sekundär till muskuloskeletala sjukdomar; optimal dosintervall fastställt; effektivt och vältolererat sömnmedel |
-| [6138072](https://pubmed.ncbi.nlm.nih.gov/6138072/) | 1983 | RCT | British Journal of Clinical Pharmacology | Dubbelblind parallellgruppsstudie, midazolam 15 mg vs. Vesparax hos 30 kvinnliga insomnipatienter; midazolam visade likvärdig hypnotisk effekt med bättre tolerabilitet och frånvaro av hangover-effekt |
-| [2121802](https://pubmed.ncbi.nlm.nih.gov/2121802/) | 1990 | Kontrollerad klinisk prövning | Journal of Clinical Psychopharmacology | Randomiserad multicenterdesign; flurazepam vs. midazolam hos kroniska insomnipatienter med bensodiazepinhistorik under 14 dagars behandling; utvärderade sömn, prestation och plasmanivåer i stor heterogen population |
-| [2229461](https://pubmed.ncbi.nlm.nih.gov/2229461/) | 1990 | Multicenter kontrollerad prövning | Journal of Clinical Psychopharmacology | Sammanfattande analys av multicenterprövningen flurazepam vs. midazolam vid kronisk insomni; bekräftar korttidseffekt för midazolam |
-| [2883820](https://pubmed.ncbi.nlm.nih.gov/2883820/) | 1986 | Översikt | Acta Psychiatrica Scandinavica | Klinisk genomgång av bensodiazepinhypnotika inklusive midazolam; diskuterar indikationer, farmakokinetisk variation och kliniskt val av sömnmedel |
-| [36615100](https://pubmed.ncbi.nlm.nih.gov/36615100/) | 2022 | RCT | Journal of Clinical Medicine | Pilotprövning av lemborexant vs. bensodiazepin för insomni hos högriskpatienter med pankreatobiliär sjukdom; belyser att bensodiazepiner kan öka deliriumrisken – relevant för säkerhetsperspektivet |
-| [17988972](https://pubmed.ncbi.nlm.nih.gov/17988972/) | 2007 | Översikt | Orvosi Hetilap | Genomgång av insomnipatogenes och cerebral hypoperfusion; diskuterar primär vs. sekundär insomni och hyperarousal-hypotesen |
+|------|-----|------|------|---------|
+| [2121802](https://pubmed.ncbi.nlm.nih.gov/2121802/) | 1990 | Randomiserad dubbelblind multicenterstudie | Journal of Clinical Psychopharmacology | Jämför midazolam och flurazepam under 14 dagar hos patienter med kronisk sömnlöshet; undersöker sömn, prestation och plasmanivåer. |
+| [2229461](https://pubmed.ncbi.nlm.nih.gov/2229461/) | 1990 | Multicenterstudie (sammanfattning) | Journal of Clinical Psychopharmacology | Sammanfattning av samma 14-dagarsstudie på kroniskt sömnlösa; abstract saknas. |
+| [6138072](https://pubmed.ncbi.nlm.nih.gov/6138072/) | 1983 | Dubbelblind klinisk studie | British Journal of Clinical Pharmacology | Midazolam 15 mg jämfört med Vesparax hos 30 kvinnor med sömnlöshet till följd av neuromuskulär sjukdom. Båda var effektiva sömnmedel; midazolam tolererades bättre och gav ingen bakrus. |
+| [6120704](https://pubmed.ncbi.nlm.nih.gov/6120704/) | 1981 | Dosfinnande klinisk studie | Arzneimittel-Forschung | Oralt midazolam 10–30 mg hos 75 inlagda patienter med lindrig till måttlig sömnlöshet; syftade till att hitta optimal dos. |
+| [2883820](https://pubmed.ncbi.nlm.nih.gov/2883820/) | 1986 | Översikt | Acta Psychiatrica Scandinavica, Suppl. | Beskriver klinisk användning av sömnmedel och behovet av flera olika preparat med olika egenskaper. |
+| [17988972](https://pubmed.ncbi.nlm.nih.gov/17988972/) | 2007 | Översikt | Orvosi Hetilap | Allmän översikt om sömnlöshet och nedsatt hjärnperfusion; ingen direkt koppling till midazolam. |
+
+Övriga publikationer i underlaget behandlar andra läkemedel (lemborexant, zolpidem) eller orelaterade tillstånd och redovisas inte här.
 
 ---
 
 ## Marknadsinformation Sverige
 
-Midazolam är för närvarande **inte marknadsförd i Sverige** och saknar registrerade produktgodkännanden. Inga licensposter finns att redovisa.
+Alla 17 godkännanden är avregistrerade. Indikationstexter saknas. Nedan visas de fem första.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 66748 | Midazolam Orifarm | Munhålelösning | – |
+| 59692 | Midazolam Medical Valley | Munhålelösning | – |
+| 60604 | Midazolam Kalceks | Injektions-/infusionsvätska, lösning | – |
+| 61290 | Midazolam Kalceks | Injektions-/infusionsvätska, lösning | – |
+| 59695 | Midazolam Medical Valley | Munhålelösning | – |
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumétext): kroniskt obstruktiv lungsjukdom (KOL), levercirros, trångvinkelglaukom, kronisk njursjukdom och njursvikt i slutstadiet.
+- **Läkemedelsinteraktioner**: totalt 100 interaktioner identifierade. Måttliga interaktioner förekommer bland annat med:
+  - klaritromycin
+  - aprepitant
+  - morfin
+  - cimetidin
+  - omeprazol
+  - bupropion
+  - metoklopramid
+  - mikonazol
+  - klotrimazol
+  - dronabinol och nabilon
+  
+  Lindriga interaktioner finns bland annat med dexametason, betametason och antacida (aluminiumhydroxid, kalciumkarbonat, magnesiumoxid).
+
+Varnings- och kontraindikationstext från produktresumén har inte kunnat hämtas. Se produktresumén för fullständig säkerhetsinformation.
 
 ---
 
 ## Slutsats och nästa steg
 
-**Beslut: Avvakta**
+**Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-Midazolams GABA-A-mekanism ger ett välmotiverat och direkt mekanistiskt samband med sömnbehandling, och historiska RCT-studier bekräftar klinisk effekt vid insomni. Däremot begränsar den ultrakortverkande farmakokinetiken (T½ ≈ 1,5–2,5 h) klinisk nytta vid sömnmaintenanceproblem, och moderna behandlingsriktlinjer avråder generellt från bensodiazepiner som förstahandsval vid kronisk insomni på grund av beroenepotential och biverkningsprofil.
+- Det finns äldre kliniska studier som direkt undersökt midazolam vid sömnlöshet, och mekanismen är rimlig, men studierna är gamla och de nyare prövningarna är indirekta. Dessutom saknas säkerhetsunderlag från produktresumén och inga godkännanden är aktiva i Sverige.
 
 **För att gå vidare krävs:**
-- Verifiering av fullständig säkerhets- och kontraindikationsprofil via aktuell produktresumé
-- Identifiering av specifik målpopulation där midazolams snabba anslagstid utgör en klinisk fördel (t.ex. situationell sleep onset insomnia)
-- Jämförande effekt/biverkning-analys mot moderna godkända sömnmedel (zolpidem, eszopiklon, lemborexant, suvorexant)
-- Klargörande av administreringsväg och dosformulering lämplig för insomniindikation (oral lösning alternativt sublingval beredning)
-- Uppdaterad systematisk översikt av bensodiazepiner specifikt vid kortvarig insomni med modern metodologi
+- Hämta och granska varningar och kontraindikationer från produktresumén (hos Läkemedelsverket).
+- Komplettera verkningsmekanismdata från DrugBank.
+- Genomföra en systematisk litteraturgranskning av de äldre sömnstudierna, med bedömning av beroende-, tolerans- och säkerhetsrisker vid långtidsanvändning.
+- Utreda om en lämplig beredningsform finns tillgänglig för sömnindikation, eftersom nuvarande godkännanden avser munhålelösning och injektionsvätskor.
+- Vid behov planera moderna randomiserade fas 3-studier mot etablerade sömnmedel.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

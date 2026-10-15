@@ -2,7 +2,7 @@
 layout: default
 title: Ibuprofen
 parent: Endast modellprediktion (L5)
-nav_order: 57
+nav_order: 229
 evidence_level: L5
 indication_count: 7
 ---
@@ -29,69 +29,78 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Ibuprofen: Från smärtlindring och inflammation till akromesomelisk dysplasi (Hunter-Thompson typ)
-
-## Sammanfattning
-
-Ibuprofen är ett av världens mest välkända icke-steroida antiinflammatoriska läkemedel (NSAID), traditionellt använt för smärtlindring, febernedsättning och behandling av inflammatoriska tillstånd. TxGNN-modellen förutsäger att det kan ha effekt vid **akromesomelisk dysplasi av Hunter-Thompson typ (AMDH)** – en sällsynt genetisk skelettdysplasi orsakad av GDF5-mutation. Förutsägelsen saknar för närvarande stöd från kliniska prövningar eller publicerad litteratur och vilar **enbart på modellberäkning**.
+# Ibuprofen: Från reumatoid artrit och smärttillstånd till akromesomelisk dysplasi av Hunter-Thompson-typ
 
 ---
 
-## Snabböversikt
+### Sammanfattning
+
+Ibuprofen är ett icke-steroidalt antiinflammatoriskt läkemedel (NSAID) som i kunskapsgrafen är kopplat till bland annat reumatoid artrit, artros, juvenil idiopatisk artrit, huvudvärk och öppetstående ductus arteriosus.
+TxGNN-modellen förutsäger att det kan vara effektivt mot **akromesomelisk dysplasi av Hunter-Thompson-typ**, med en mycket hög modellpoäng (**99,7 %**).
+Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, så den vilar enbart på en beräkningsmodell.
+
+---
+
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Smärtlindring, febernedsättning och inflammationsbehandling (NSAID) |
-| Förutsagd ny indikation | Akromesomelisk dysplasi, Hunter-Thompson typ |
-| TxGNN-förutsägelsepoäng | 99,74% |
-| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
-| Marknadsstatus i Sverige | Inte registrerat i datakällan |
-| Antal godkännanden | 0 (enligt datakällan) |
+|------|------|
+| Ursprunglig indikation | Ingen godkänd indikationstext finns i de sammanställda uppgifterna. Enligt kunskapsgrafen: reumatoid artrit, huvudvärk, artros, juvenil idiopatisk artrit m.fl. |
+| Förutsagd ny indikation | Akromesomelisk dysplasi, Hunter-Thompson-typ |
+| TxGNN-förutsägelsepoäng | 99,7 % |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-Ibuprofen verkar som en icke-selektiv COX-inhibitor (cyklooxygenashämmare) och blockerar syntesen av prostaglandiner – signalmolekyler som driver inflammation, smärta och feber. Läkemedlet hämmar både COX-1 och COX-2, vilket leder till sänkta nivåer av prostaglandin E₂ (PGE₂) i vävnaderna.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Ibuprofen är känt som ett NSAID som vanligen hämmar COX-1 och COX-2 och därigenom minskar prostaglandinbildningen, men detta är inte bekräftat i underlaget.
 
-Akromesomelisk dysplasi av Hunter-Thompson typ orsakas av mutationer i GDF5-genen (Growth Differentiation Factor 5, även känd som CDMP1), vilket nedsätter BMP-signaleringen och leder till abnorm skelettbildning i framför allt extremiteternas distala delar. PGE₂ är känt för att kunna modulera BMP-2-inducerad osteogen differentiering, och COX-hämning kan teoretiskt förändra den parakrina BMP-miljön i benvävnaden – vilket utgör den mekanistiska bryggan i TxGNN:s förutsägelse.
+Hunter-Thompson-typen av akromesomelisk dysplasi är en sällsynt skelettsjukdom. Den orsakas av förlust av funktion i genen *GDF5* (CDMP1), som påverkar broskbildningen. Att minska prostaglandiner förväntas inte korrigera denna defekt.
 
-Den mekanistiska länken bedöms dock som svag. AMDH är ett genetiskt strukturellt tillstånd där COX-hämning varken kan reparera det muterade GDF5-proteinet eller korrigera den underliggande genetiska defekten. Att hämma COX-enzymet förändrar den parakrina signalmiljön men adresserar inte den primära patofysiologin. Klinisk nytta bedöms som osannolik baserat på nuvarande farmakologisk förståelse.
-
----
-
-## Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande.
+Sammantaget går det inte att visa något direkt mekanistiskt samband. Den höga poängen speglar sannolikt att modellen ser ibuprofens närhet till skelett- och ledsjukdomar (artropati, artros) i nätverket. Den kan inte tolkas som ett tecken på effekt. I bästa fall skulle ibuprofen kunna lindra ledsmärta, men det vore symtomlindring och inte behandling av sjukdomen.
 
 ---
 
-## Litteraturbevis
+### Marknadsinformation Sverige
 
-Ingen relaterad litteratur tillgänglig för närvarande.
+Alla 20 godkännanden är indragna. Ingen indikationstext finns tillgänglig. Nedan visas fem av dem.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 43450 | Ibuprofen ABECE | Oral suspension | – |
+| 9801 | Ibumetin | Tablett | – |
+| 65417 | Ibuprofen Hualan | Filmdragerad tablett | – |
+| 58440 | Ibuprofen Viatris | Oral suspension i dospåse | – |
+| 54209 | Ibuprofen B. Braun | Infusionsvätska, lösning | – |
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-> Se produktresumén för säkerhetsinformation.
+- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumétext): sjukdomar där ibuprofen har kopplats till kontraindikation är bland annat högt blodttryck, lever- och njursjukdom, magsår, inflammatorisk tarmsjukdom, blodkoagulationsrubbningar, trombocytopeni, stroke och hjärtinfarkt, KOL, epilepsi samt diabetes och diabetesketoacidos.
+- **Läkemedelsinteraktioner**: 100 interaktioner identifierades. Den viktigaste är den allvarliga (Major) interaktionen med **acetylsalicylsyra**. Flera måttliga (Moderate) interaktioner gäller kortikosteroider (betametason, budesonid, dexametason, hydrokortison), sulfonureider och andra diabetesläkemedel (glimepirid, glipizid, glyburid, klorpropamid, acetohexamid, exenatid), aprepitant, balsalazid, fenfluramin, dexfenfluramin, kanamycin och levofloxacin. Famotidin, ranitidin och cimetidin ger endast lindriga (Minor) interaktioner.
+
+Se i övrigt produktresumén för fullständig säkerhetsinformation.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen baseras uteslutande på TxGNN-modellens beräkningsresultat (evidensnivå L5) utan stöd från kliniska prövningar, observationsstudier eller publicerad litteratur. Den mekanistiska länken mellan COX-hämning och GDF5-relaterad skelettdysplasi bedöms som biologiskt svag – COX-hämning kan inte kompensera för en strukturell genetisk defekt i BMP-signalvägen.
+- Förutsägelsen bygger enbart på en modellpoäng utan stöd av kliniska prövningar eller litteratur (L5), och ett mekanistiskt samband saknas. Dessutom är alla svenska godkännanden indragna.
 
 **För att gå vidare krävs:**
-- Systematisk litteratursökning avseende COX-inhibitorer och BMP/GDF5-signalering vid skelettdysplasi
-- Preklinisk in vitro- och in vivo-data för ibuprofen i AMDH-modeller (t.ex. Gdf5-knockout-möss)
-- Bedömning av om inflammationskomponenten vid AMDH kan ge symptomlindrande effekt, även utan kurativt syfte
-- Inhämtning av fullständig säkerhetsdata från produktresumén (varningar, kontraindikationer, interaktioner)
-- Verifiering av marknadsstatus i Sverige via Läkemedelsverkets databas, då datakällan rapporterar 0 godkännanden för ett i övrigt välkänt läkemedel
+- Hämta och granska produktresumé med varningar och kontraindikationer, eftersom säkerhetsunderlaget i dag saknas (blockerande datalucka).
+- Komplettera ibuprofens verkningsmekanism från DrugBank.
+- Genomföra en litteratur- och prövningssökning och eventuellt prekliniska studier, till exempel i modeller för GDF5-brist, för att bedöma om det finns ett biologiskt samband.
+- Utvärdera om en symtomatisk användning mot ledsmärta vid dessa sjukdomar är relevant, till exempel vid pseudoachondroplasi, där den biologiska kopplingen är mer rimlig, men fortfarande utan underlag.
+- Klargöra läkemedlets nuvarande regulatoriska läge i Sverige, eftersom inga giltiga godkännanden finns.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

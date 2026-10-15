@@ -2,7 +2,7 @@
 layout: default
 title: Pregabalin
 parent: Endast modellprediktion (L5)
-nav_order: 87
+nav_order: 363
 evidence_level: L5
 indication_count: 6
 ---
@@ -29,60 +29,82 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Pregabalin: Från neuropatisk smärta till tendinit
+# Pregabalin: Från ångestsyndrom, fibromyalgi och postherpetisk neuralgi till tendinit
+
+*Obs: Rapporten följer systeminstruktionens mall, där den förutsagda indikationen hämtas från den högst rankade förutsägelsen (tendinit). Den bäst underbyggda kandidaten i underlaget är dock **migrän** (rank 5), vilket behandlas separat nedan.*
+
+---
 
 ## Sammanfattning
 
-Pregabalin är ett gabapentinoid-läkemedel godkänt internationellt för behandling av neuropatisk smärta och partiell epilepsi. TxGNN-modellen förutsäger att det kan vara effektivt mot **tendinit** (seninflammation), men evidensbasen är begränsad – inga kliniska prövningar är registrerade och **6 publikationer** ger endast indirekt stöd via studier på postoperativ smärta vid senkirurgi. Den mekanistiska kopplingen bedöms som svag och nuvarande evidens motiverar inte vidare klinisk prioritering.
+Pregabalin används sedan tidigare vid bland annat ångestsyndrom, fibromyalgi, myofasciellt smärtsyndrom och postherpetisk neuralgi. TxGNN-modellen förutsäger med mycket hög poäng att läkemedlet kan vara effektivt mot **tendinit**, men **inga kliniska prövningar** och **ingen litteratur som testar pregabalin vid tendinit** har hittats. Evidensen är därmed i praktiken enbart en modellförutsägelse. Bland de övriga förutsägelserna har **migrän** klart starkare stöd, med 2 kliniska prövningar (varav en avbruten) och flera randomiserade studier, främst på barn.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Neuropatisk smärta, partiell epilepsi |
+|------|------|
+| Ursprunglig indikation | Ingen indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: ångestsyndrom, fibromyalgi, myofasciellt smärtsyndrom, postherpetisk neuralgi |
 | Förutsagd ny indikation | Tendinit |
-| TxGNN-förutsägelsepoäng | 99,7% |
-| Evidensnivå | L4 – Prekliniska/mekanismstudier |
-| Marknadsstatus i Sverige | Ej godkänd |
-| Antal godkännanden | 0 |
+| TxGNN-förutsägelsepoäng | 99,7 % |
+| Evidensnivå | L4 (ingen studie testar pregabalin vid tendinit; endast indirekt och mekanistiskt stöd) |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är Pregabalin ett gabapentinoid (GABA-analog) som verkar genom att hämma α2δ-subenheten hos spänningskänsliga kalciumkanaler (VGCC), vilket minskar presynaptisk frisättning av smärtmediatorer som glutamat, noradrenalin och substans P. Dess effekt vid neuropatisk smärta och epilepsi är väl dokumenterad, och mekanistiskt kan den vara tillämpbar på smärtkomponenten vid tendinit.
+Det finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Baserat på allmänt känd information binder pregabalin till alfa-2-delta-subenheten på spänningskänsliga kalciumkanaler och minskar frisättningen av excitatoriska signalsubstanser. Det kan lindra neuropatiska och nociceptiva smärtkomponenter.
 
-Tendinit är en lokal inflammatorisk och degenerativ sensjukdom. Det finns ett indirekt samband med Pregabalins verkningsområde: läkemedlet kan lindra den kroniska smärta och centrala sensitisering som uppstår vid svår eller långvarig tendinit via α2δ VGCC-hämning. Däremot saknas direkt verkningsmekanism mot tendinitens kärnpatologi – lokal inflammation, kollagennedbrytning och senvävnadsreparation påverkas inte av detta läkemedel.
+Pregabalins etablerade användning vid fibromyalgi och myofasciellt smärtsyndrom är smärtrelaterad. Modellens höga poäng för tendinit beror sannolikt på att sjukdomarna ligger nära varandra i kunskapsgrafen, inte på sjukdomsspecifika data.
 
-Sammantaget bedöms den mekanistiska kopplingen som svag. TxGNN-förutsägelsen drivs sannolikt av grafens nodnärhet inom muskuloskeletala sjukdomsnoder snarare än en stark direkt farmakologisk länk till tendinit.
+Den hämtade litteraturen handlar om smärta efter axelkirurgi, fall av nervinklämning och fluorokinolonrelaterad funktionsnedsättning. Ingen av publikationerna prövar pregabalin som behandling av tendinit. Mekanismen är rimlig för smärtlindring, men det är inte visat att den påverkar själva sjukdomen.
 
 ---
 
 ## Kliniska prövningar
 
-Inga relaterade kliniska prövningar registrerade för närvarande.
+Inga relaterade kliniska prövningar registrerade för närvarande för tendinit.
 
 ---
 
 ## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [34052386](https://pubmed.ncbi.nlm.nih.gov/34052386/) | 2022 | RCT | *Arthroscopy* | Perioperativ oral pregabalin gav likvärdiga smärtpoäng som interscalenusblockad efter artroskopisk rotatorkuffreparation |
-| [32839073](https://pubmed.ncbi.nlm.nih.gov/32839073/) | 2021 | RCT | *J Orthop Sci* | Pregabalin visade opioidbesparande effekt efter artroskopisk rotatorkuffkirurgi; evidensen för multimodalt regim är motstridande och begränsad |
-| [41017607](https://pubmed.ncbi.nlm.nih.gov/41017607/) | 2025 | Fallrapport/Översikt | *Praxis* | Fluorokinolonassocierad funktionsnedsättning med tendinopati efter ciprofloxacin – pregabalin är ej studieobjektet |
-| [37051935](https://pubmed.ncbi.nlm.nih.gov/37051935/) | 2023 | Fallrapport | *Pain Practice* | Posterior femoral kutan nervneuropati orsakad av hamstringstendinit vid maratonlöpning; pregabalin nämns som potentiellt behandlingsalternativ för den neuropatiska smärtkomponenten |
-| [40818536](https://pubmed.ncbi.nlm.nih.gov/40818536/) | 2025 | Ledare | *Arthroscopy* | Piriformissyndrom behandlat med neurolys och piriformissenfriläggning – pregabalin inte primärt utvärderat |
-| [39703364](https://pubmed.ncbi.nlm.nih.gov/39703364/) | 2024 | Djurstudie | *Adv Pharmacol Pharm Sci* | Växtextrakt mot vincristin-inducerad perifer neuropati hos råttor; pregabalin används som aktivt jämförelseläkemedel, inte som primärt studieobjekt |
+|------|-----|------|------|---------|
+| [34052386](https://pubmed.ncbi.nlm.nih.gov/34052386/) | 2022 | RCT (smärtlindring efter operation) | Arthroscopy | Peroralt pregabalin gav smärtpoäng likvärdiga med interskalen plexusblockad efter artroskopisk rotatorkuffsoperation. Gäller inte tendinit i sig. |
+| [32839073](https://pubmed.ncbi.nlm.nih.gov/32839073/) | 2021 | Retrospektiv kohortstudie | Journal of Orthopaedic Science | Utvärderar smärtlindring och opioidsparande effekt av pregabalin efter rotatorkuffsoperation. Gäller inte tendinit i sig. |
+| [41017607](https://pubmed.ncbi.nlm.nih.gov/41017607/) | 2025 | Klinisk rapport | Praxis | Fluorokinolonrelaterad funktionsnedsättning efter ciprofloxacin, med senbesvär som biverkning. Ingen koppling till pregabalinbehandling. |
+| [37051935](https://pubmed.ncbi.nlm.nih.gov/37051935/) | 2023 | Fallrapport | Pain Practice | Nervskada (posterior femoral kutan nerv) vid hamstringstendinit hos en maratonlöpare. |
+| [40818536](https://pubmed.ncbi.nlm.nih.gov/40818536/) | 2025 | Ledare | Arthroscopy | Kommentar om piriformissyndrom och kirurgisk behandling. |
+
+---
+
+## Marknadsinformation Sverige
+
+Samtliga 20 godkännanden är indragna och inga har en registrerad indikationstext. De fem första visas nedan.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 51464 | Pregabalin Krka | Kapsel, hård | Ej angiven (indragen) |
+| 57195 | Pregabalin EQL Pharma | Kapsel, hård | Ej angiven (indragen) |
+| 63937 | Pregabalin Teva | Kapsel, hård | Ej angiven (indragen) |
+| 51454 | Pregabalin Teva | Kapsel, hård | Ej angiven (indragen) |
+| 68305 | Pregabalin CNX Therapeutics | Depottablett | Ej angiven (indragen) |
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumén): Kunskapsgrafen kopplar pregabalin till bland annat ångestsyndrom, nedsatt njurfunktion, angioödem (inklusive ärftligt och ACE-hämmarrelaterat), trombocytopeni, myopati och rabdomyolys samt atrioventrikulärt block.
+- **Läkemedelsinteraktioner**: 100 interaktioner är registrerade. De viktigaste:
+  - **Allvarlig (Major)**: morfin, liposomalt morfin. Risk för additiv sedering och andningsdepression.
+  - **Måttlig (Moderate)**: bland annat pioglitazon, rosiglitazon, troglitazon, difenoxin, difenoxylat, dronabinol, nabilon, opium, metoklopramid och sibutramin.
+
+Se produktresumén för fullständig säkerhetsinformation.
 
 ---
 
@@ -91,13 +113,18 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Pregabalins α2δ VGCC-hämmande mekanism saknar direkt koppling till tendinitens kärnpatologi. Befintlig litteratur stöder inte pregabalin som specifik behandling mot tendinit – de tillgängliga publikationerna rör postoperativ smärta vid senkirurgi eller är fallrapporter där pregabalin inte är primärt utvärderat. Inga kliniska prövningar är registrerade och evidensnivå L4 motiverar inte vidare klinisk prioritering för denna indikation.
+- Förutsägelsen för tendinit bygger enbart på modellens poäng. Inga studier prövar pregabalin vid tendinit, och alla svenska godkännanden är indragna.
+
+**Andra förutsägelser i underlaget:**
+- **Migrän** (poäng 99,5 %, evidensnivå L2 enligt underlaget): Pediatriska randomiserade studier jämförde pregabalin med natriumvalproat och propranolol, och en nätverksmetaanalys finns. Den enda fas 3-prövningen hos vuxna (NCT00447369) drogs tillbaka utan deltagare. Evidensen är måttlig men inte definitiv. Detta är den mest lovande riktningen att utreda vidare.
+- **Migrän med hjärnstammsaura:** Endast prekliniskt stöd (pregabalin hämmar kortikal spridande depression).
+- **Myositis fibrosa, idiopatisk granulomatös myosit, inklusionskroppsmyosit:** Endast modellförutsägelser utan relevant evidens.
 
 **För att gå vidare krävs:**
-- Riktade prekliniska studier som undersöker pregabalins direkta effekt på seninflammation och senvävnadsreparation
-- Prospektiva kliniska studier för kronisk tendinit med neuropatisk eller central smärtkomponent
-- Fullständig säkerhetsinformation (SmPC) för Pregabalin från Läkemedelsverket
-- Bekräftelse av Pregabalins faktiska marknadsstatus i Sverige (datakvaliteten för 0 godkännanden bör verifieras)
+- Kontrollerade studier som direkt prövar pregabalin vid tendinit, eller en omprioritering mot migrän.
+- För migrän: en adekvat dimensionerad randomiserad studie på vuxna.
+- Verkningsmekanism och varningar/kontraindikationer från produktresumén, som saknas i det sammanställda underlaget.
+- Klargörande av varför alla svenska godkännanden är indragna, och om en ny godkännandeprocess skulle krävas.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

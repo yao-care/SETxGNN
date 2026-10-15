@@ -2,7 +2,7 @@
 layout: default
 title: Deferasirox
 parent: Endast modellprediktion (L5)
-nav_order: 32
+nav_order: 129
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,39 +29,37 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-Analyserar Evidence Pack för Deferasirox och genererar rapport enligt mallen...
+# Deferasirox: Från beta-talassemi och hemoglobinopati till HIV-infektion
 
 ---
 
-# Deferasirox: Från järnöverbelastning till HIV-infektion
-
 ## Sammanfattning
 
-Deferasirox är ett oralt järnchelatmedel som primärt används för behandling av kronisk järnöverbelastning till följd av blodtransfusioner. TxGNN-modellen förutsäger att det kan vara verksamt mot **HIV-infektion**, med **0 kliniska prövningar** och **2 publikationer** som för närvarande belyser detta samband. Mekanistisk koppling till järnhomeostas och HIV-replikation föreligger, men effektriktningen är tvetydig – vilket motiverar en avvaktande hållning inför vidare klinisk utvärdering.
+Deferasirox är ett järnkelerande läkemedel som i den data som sammanställts för denna rapport är kopplat till beta-talassemi och andra hemoglobinopatier. TxGNN-modellen förutsäger att det kan vara effektivt mot **HIV-infektion**, men underlaget består av **0 kliniska prövningar** och **2 publikationer**, varav en är en preklinisk studie och en är en allmän översikt av nya läkemedel. Förutsägelsen är därför en forskningsfråga och inte ett belagt behandlingsalternativ.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Ej registrerad i Sverige; deferasirox är internationellt etablerat som järnchelatmedel vid kronisk transfusionsrelaterad järnöverbelastning |
-| Förutsagd ny indikation | HIV infectious disease |
-| TxGNN-förutsägelsepoäng | 99,40 % |
-| Evidensnivå | L4 – prekliniska studier / mekanismstudier |
-| Marknadsstatus i Sverige | Inte marknadsförd |
-| Antal godkännanden | 0 |
+|------|------|
+| Ursprunglig indikation | Beta-talassemi och relaterade hemoglobinopatier (enligt kunskapsgrafen; indikationstext saknas i svenska godkännanden) |
+| Förutsagd ny indikation | HIV-infektion |
+| TxGNN-förutsägelsepoäng | 99,4 % |
+| Evidensnivå | L4 (endast preklinisk/mekanistisk evidens) |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 18 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta Evidence Pack. Baserat på känd vetenskaplig information är deferasirox en tridentat järnchelatbildare (Fe³⁺-chelator) som bildar stabila komplex med järnjoner och utsöndras via tarmen. Läkemedlets effekt vid kronisk järnöverbelastning är väl dokumenterad i internationell litteratur och klinisk praxis.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är deferasirox ett järnkelerande läkemedel. Dess effekt vid järnöverskott vid talassemi är väl etablerad, och mekanistiskt kan den vara tillämpbar på HIV genom att påverka järnberoende processer i viruscellen.
 
-Kopplingen till HIV bygger på järnhomeostasens roll i viral replikation. En grundforskningsstudie (PMID 34550543) visade att järn i endolysosomer påverkar HIV-1 Tat-proteinets oligomerisering och därigenom reglerar LTR-transaktivering – ett centralt steg i HIV-replikationscykeln. Hypotesen är att deferasirox, genom att sänka den intracellulära järnhalten, kan störa Tat-proteinets funktion och bromsa virusreplikation. Dessutom kan järnöverbelastning i sig gynna HIV-replikation och försvaga immunförsvaret, vilket i teorin gör järnchelation till en rationell kompletterande strategi.
+Den enda direkta mekanistiska ledtråden kommer från en preklinisk studie från 2021 (PMID 34550543). Den visar att järn i endolysosomer begränsar hur HIV-1-proteinet Tat aktiverar virusets genetiska promotor (LTR), bland annat genom ökad Tat-oligomerisering och högre nivåer av β-catenin. Det ger ett rimligt men indirekt samband mellan järnbalans och HIV-transkription.
 
-Dock föreligger en mekanistisk osäkerhet: om reduktion av endolysosomal järn förhindrar Tat-oligomerisering, kan det paradoxalt *öka* HIV-1-transkription snarare än att hämma den. Dessa motstridiga effektvägar gör att klinisk nettoeffekt ännu inte kan fastslås utan dedikerade prövningar.
+Det finns viktiga osäkerheter. Studien visar inte att deferasirox i sig har antiviral effekt eller klinisk nytta. Kelering kan dessutom påverka den järnberoende signalvägen åt båda hållen, så effektens riktning är oklar. Den andra refererade artikeln (PMID 16529348) är en översikt av nya läkemedel från 2006 och innehåller inga HIV-specifika data.
 
 ---
 
@@ -74,21 +72,34 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 ## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [34550543](https://pubmed.ncbi.nlm.nih.gov/34550543/) | 2021 | Grundforskning (cell/molekylär) | Journal of Neurovirology | Endolysosomal järn ökar HIV-1 Tat-oligomerisering och hämmar LTR-transaktivering; järnchelation kan modulera detta system, men effektriktningen – hämmande eller stimulerande för HIV-transkription – är ännu oklar |
-| [16529348](https://pubmed.ncbi.nlm.nih.gov/16529348/) | 2006 | Läkemedelsöversikt (ny läkemedelsintroduktion) | Journal of the American Pharmacists Association | Introduktionsöversikt av deferasirox som nytt godkänt läkemedel; ingen specifik HIV-data presenteras |
+|------|-----|------|------|---------|
+| [34550543](https://pubmed.ncbi.nlm.nih.gov/34550543/) | 2021 | Preklinisk/mekanistisk | Journal of neurovirology | Järn i endolysosomer begränsar Tat-medierad aktivering av HIV-1 LTR via ökad Tat-oligomerisering och β-catenin-uttryck. Ingen direkt data om deferasirox. |
+| [16529348](https://pubmed.ncbi.nlm.nih.gov/16529348/) | 2006 | Översikt | Journal of the American Pharmacists Association | Allmän översikt av nya läkemedel (bl.a. deferasirox). Innehåller inga HIV-specifika data. |
 
 ---
 
 ## Marknadsinformation Sverige
 
-Deferasirox är inte registrerat eller marknadsförd i Sverige. Det finns inga beviljade godkännanden i det granskade registret.
+Alla 18 godkännanden är indragna och inget är för närvarande giltigt. Indikationstext saknas i data. Nedan visas fem av dem.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 58870 | Deferasirox Jubilant | Filmdragerad tablett | Uppgift saknas |
+| 58054 | Deferasirox STADA | Filmdragerad tablett | Uppgift saknas |
+| 60993 | Deferasirox Glenmark | Filmdragerad tablett | Uppgift saknas |
+| 60206 | Deferasirox Sandoz | Filmdragerad tablett | Uppgift saknas |
+| 55330 | Deferasirox Teva | Dispergerbar tablett | Uppgift saknas |
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Kontraindikationer i kunskapsgrafen** (inte hämtade från produktresumén): Kunskapsgrafen anger bland annat lever- och njursvikt, nedsatt njurfunktion, levercirros, trombocytopeni, neutropeni, agranulocytos, anemi, hyperbilirubinemi, Gilberts syndrom, aktivt magsår, multipel organsvikt och cancer.
+- **Läkemedelsinteraktioner** (100 identifierade, varav de viktigaste nedan):
+  - **Allvarliga (Major):** hydrokortison, dexametason, betametason, triamcinolon, acetylsalicylsyra, mesalazin, balsalazid samt flera former av amfotericin B.
+  - **Måttliga (Moderate):** rabeprazol, pioglitazon, alosetron, aprepitant, klaritromycin, saxagliptin, aluminiumhydroxid, cisaprid, dexfenfluramin.
+
+Fullständiga varningar och kontraindikationer från produktresumén ingår inte i underlaget. Se produktresumén för komplett säkerhetsinformation.
 
 ---
 
@@ -97,13 +108,14 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensnivån är L4 (enbart prekliniska/mekanismbaserade data) och den mekanistiska kopplingen till HIV-infektion är tvetydig – järnchelation med deferasirox kan antingen hämma eller, paradoxalt nog, stimulera HIV-1-replikation beroende på vilken cellulär järnpool som berörs. Utan kliniska prövningsdata kan en gynnsam nettoeffekt inte fastställas.
+- Den höga modellpoängen (99,4 %) stöds endast av en indirekt preklinisk studie, och inga kliniska prövningar finns. Effektens riktning är oklar, och alla svenska godkännanden är indragna.
 
 **För att gå vidare krävs:**
-- Klarläggning av deferasirox nettopåverkan på HIV-1-replikation i validerade cell- och djurmodeller
-- Mekanistisk avgränsning av om endolysosomal järnchelation ökar eller minskar viral transkription (Tat-oligomerisering vs. intracellulär järnbrist)
-- Säkerhetsprofil och produktresumé inhämtas (kontraindikationer, läkemedelsinteraktioner) inför klinisk planering
-- Pilot-RCT eller prospektiv observationsstudie hos HIV-positiva patienter med dokumenterad järnöverbelastning som primärt underlag för beslut om fullskalig prövning
+- Laboratoriestudier som testar om deferasirox påverkar HIV-replikation i cellmodeller, inklusive effektens riktning.
+- Hämtning av verkningsmekanism från DrugBank.
+- Komplett säkerhetsgranskning utifrån produktresumén, särskilt med tanke på lever-, njur- och blodbildspåverkan hos en HIV-population.
+- Bedömning av tillgänglighet, eftersom inga godkännanden för närvarande är giltiga i Sverige.
+- Vid positiva prekliniska resultat: planering av en tidig klinisk studie.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

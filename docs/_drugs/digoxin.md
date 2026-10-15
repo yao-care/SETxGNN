@@ -2,7 +2,7 @@
 layout: default
 title: Digoxin
 parent: Endast modellprediktion (L5)
-nav_order: 37
+nav_order: 141
 evidence_level: L5
 indication_count: 6
 ---
@@ -29,78 +29,92 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Digoxin: Från hjärtsvikt och förmaksflimmer till Prinzmetal-angina
-
-## Sammanfattning
-
-Digoxin är ett välkänt kardioglykosid som traditionellt används för behandling av hjärtsvikt och förmaksflimmer. TxGNN-modellen förutsäger att det kan vara verksamt mot **Prinzmetal-angina** (variantangina orsakad av koronarkärlsspasm), men de mekanistiska sambanden pekar i motsatt riktning – Digoxins effekt på vaskulär glatt muskulatur kan snarare **förvärra** koronarkärlsspasmer än lindra dem. Evidensbasen är mycket begränsad, med **inga registrerade kliniska prövningar** och **2 publikationer** som för närvarande berör detta område.
+# Digoxin: Från förmaksflimmer till Prinzmetal angina
 
 ---
 
-## Snabböversikt
+### Sammanfattning
+
+Digoxin är en hjärtglykosid som ursprungligen används vid behandling av förmaksflimmer och digitalisförgiftning. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **Prinzmetal angina** (kärlkrampsangina), men prediktionen bygger enbart på en grafbaserad modell. Det finns **inga kliniska prövningar** och endast **1 publikation** (en allmän översikt utan direkt koppling till digoxin vid denna sjukdom).
+
+---
+
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Hjärtsvikt och förmaksflimmer (kardioglykosid) |
-| Förutsagd ny indikation | Prinzmetal-angina (variantangina) |
-| TxGNN-förutsägelsepoäng | 99,81% |
-| Evidensnivå | L4 – Prekliniska/mekanismstudier |
-| Marknadsstatus i Sverige | Ej registrerad |
-| Antal godkännanden | 0 |
+|------|------|
+| Ursprunglig indikation | Förmaksflimmer, digitalisförgiftning (enligt TxGNN-kunskapsgrafen; indikationstext saknas i svenska godkännanden) |
+| Förutsagd ny indikation | Prinzmetal angina |
+| TxGNN-förutsägelsepoäng | 99,8 % |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 3 |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-Detaljerad verkningsmekanismdata saknas i detta evidenspaket. Baserat på känd farmakologi är Digoxin ett kardioglykosid vars primära verkningsmekanism är hämning av Na⁺/K⁺-ATPas-pumpen i hjärtmuskeln. Detta höjer den intracellulära kalciumkoncentrationen och förstärker myokardiets kontraktionskraft (positiv inotrop effekt). Läkemedlet har dessutom vagotona egenskaper som bromsar AV-nodal överledning och sänker hjärtfrekvensen, vilket motiverar dess användning vid förmaksflimmer.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Digoxin är allmänt känt som en hämmare av Na⁺/K⁺-ATPas med positivt inotrop och vagotont verkan, och används för frekvenskontroll vid förmaksflimmer.
 
-Sambandet mellan Digoxins ursprungliga indikation och Prinzmetal-angina är dock mekanistiskt problematiskt. Prinzmetal-angina orsakas av transitoriska koronarkärlsspasmer i epikardiella kärl, och standardbehandlingen utgörs av kalciumkanalblockerare och nitrater – medel som **relaxerar** vaskulär glatt muskulatur. Digoxins hämning av Na⁺/K⁺-ATPas i kärlväggens glatta muskelceller kan paradoxalt nog **inducera** koronarkärlskontraktion genom depolarisering, vilket direkt motverkar det terapeutiska målet.
+Prinzmetal angina orsakas av kramp i kranskärlen och behandlas normalt med kalciumkanalblockerare och nitrater. Något trovärdigt mekanistiskt samband mellan digoxin och denna sjukdom har inte kunnat fastställas. Digoxin kan teoretiskt öka hjärtmuskelns syrebehov och har kopplats till kärlsammandragning, så nytta är osannolik och risk för skada kan inte uteslutas.
 
-TxGNN-förutsägelsen baseras sannolikt på sjukdomsnätverkets biologiska kopplingar (t.ex. delade kardiovaskulära noder) snarare än ett faktiskt terapeutiskt samband. Befintlig litteratur stödjer inte behandlingseffekt vid Prinzmetal-angina och signalerar tvärtom en potentiell riskökning. Förutsägelsen bör tolkas som en **varningssignal** snarare än ett återanvändningstips.
-
----
-
-## Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande.
+Den höga poängen (0,998) ska därför ses som en ren grafbaserad förutsägelse och inte som tecken på verklig effekt. Sambandet till de ursprungliga indikationerna är att båda är hjärtsjukdomar, men det räcker inte som stöd.
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [10736610](https://pubmed.ncbi.nlm.nih.gov/10736610/) | 1999 | Översikt | Acta Physiologica et Pharmacologica Bulgarica | Granskar cirkadiska rytmers påverkan på antihypertensiv behandling; indirekt relevant för dygnsvariation av anginaattacker |
-| [9206110](https://pubmed.ncbi.nlm.nih.gov/9206110/) | 1996 | Översikt/Mekanistisk | Chinese Medical Sciences Journal | Omvärdering av mekanism och behandling vid angina decubitus hos 30 patienter; fann ökad myokardial syreförbrukning och hemodynamiska förändringar innan attackdebut |
+|------|-----|------|------|---------|
+| [10736610](https://pubmed.ncbi.nlm.nih.gov/10736610/) | 1999 | Översikt | Acta physiologica et pharmacologica Bulgarica | Allmän översikt om kronofarmakologi och dygnsrytmer vid blodtrycksbehandling. Ger inget direkt stöd för digoxin vid Prinzmetal angina. |
 
 ---
 
-## Marknadsinformation Sverige
+### Marknadsinformation Sverige
 
-Digoxin är för närvarande **inte registrerat i Sverige**. Det finns inga godkännanden att redovisa.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 9004 | Digoxin Evolan | Tablett | Ej angiven (indraget) |
+| 9003 | Digoxin Evolan | Tablett | Ej angiven (indraget) |
+| 8811 | Digoxin Evolan | Injektionsvätska, lösning | Ej angiven (indraget) |
+
+Alla tre godkännanden (Evolan Pharma AB) är indragna, och för närvarande finns inget giltigt godkännande i Sverige.
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumé): njursjukdom, kaliumbrist, hyperkalcemi, nefrokalcinos, störd fosformetabolism, hjärtinfarkt, kranskärlstrombos, hemoglobinopati, cor pulmonale, Wolff-Parkinson-White syndrom, sjuka sinusknutan-syndrom, kammarflimmer, hypertrofisk kardiomyopati, AV-block, myxödem, hypotyreos, myokardit, konstriktiv perikardit och restriktiv kardiomyopati.
+- **Läkemedelsinteraktioner**: Totalt 100 interaktioner identifierades. Bland de som visas finns flera av måttlig grad, bland annat:
+  - Kortikosteroider (hydrokortison, dexametason, betametason, triamcinolon)
+  - Amfotericin B (inklusive lipidkomplex)
+  - Tetracyklin och doxycyklin
+  - Rabeprazol
+  - Metformin och akarbos
+  - Adrenalin
+  - Acetylsalicylsyra
+  - Bupropion
+  - Kolekalciferol och kalciumfosfat
+
+  Interaktioner av lägre grad omfattar bland annat atropin, hyoscyamin, glykopyrronium och albiglutid.
+
+Se produktresumén för fullständig säkerhetsinformation, eftersom varningar och kontraindikationer från godkänd produktinformation saknas i underlaget.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- TxGNN-förutsägelsen för Digoxin vid Prinzmetal-angina är mekanistiskt motsägelsefull: Digoxins hämning av vaskulärt Na⁺/K⁺-ATPas kan förvärra koronarkärlsspasmer snarare än lindra dem, och förutsägelsen bör inte drivas vidare utan grundlig mekanistisk verifiering.
+- Prediktionen saknar både kliniska prövningar och relevant litteratur, och det finns inget trovärdigt mekanistiskt samband. Dessutom finns risk för skada vid kranskärlskramp, och alla svenska godkännanden är indragna.
 
 **För att gå vidare krävs:**
-- Komplettering av fullständiga säkerhetsdata: kontraindikationer, varningar och DDI-profil (särskilt relevant given Digoxins smala terapeutiska index)
-- Verifiering av officiell MOA-data via DrugBank API (DG002)
-- Inhämtning av produktresumé/SPC för att bedöma kardiovaskulära kontraindikationer (DG001)
-- Preklinisk kartläggning av Digoxins effekt på koronarkärlstonus *in vitro* eller i djurmodell
-- Kritisk granskning av om TxGNN-sambandet speglar ett biologiskt nätverksartefakt eller ett reellt omvänt riskförhållande (potentiell kontraindikation snarare än ny indikation)
+- Hämta och analysera produktresumé för varningar och kontraindikationer (blockerande dataglapp).
+- Hämta verkningsmekanism från DrugBank.
+- Genomföra riktad litteraturgenomgång om digoxin vid vasospastisk angina, inklusive säkerhetsaspekter.
+- Prekliniska eller mekanistiska studier som visar eventuell nytta innan kliniska studier övervägs.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -1,0 +1,117 @@
+---
+layout: default
+title: Threonine
+parent: Endast modellprediktion (L5)
+nav_order: 424
+evidence_level: L5
+indication_count: 1
+---
+
+# Threonine
+{: .fs-9 }
+
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
+{: .fs-6 .fw-300 }
+
+---
+
+## Innehållsförteckning
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Apotekarens bedömningsrapport
+
+</div>
+
+# Treonin: Från ingen registrerad indikation till gastropares
+
+---
+
+### Sammanfattning
+
+Treonin är en essentiell aminosyra som i Sverige har ingått i bland annat tablettpreparatet Ketosteril och i flera lösningar för parenteral nutrition. Alla 20 godkännanden är numera avregistrerade, och någon ursprunglig indikationstext finns inte i de data som sammanställts för rapporten. TxGNN-modellen förutsäger att treonin kan vara effektivt mot **gastropares** (förlamning av magsäcken), men det finns **0 kliniska prövningar** och **0 publikationer** som stöder detta. Förutsägelsen bygger enbart på modellen.
+
+---
+
+### Snabböversikt
+
+| Post | Innehåll |
+|------|------|
+| Ursprunglig indikation | Ingen indikationstext registrerad |
+| Förutsagd ny indikation | Gastropares |
+| TxGNN-förutsägelsepoäng | 99,3 % |
+| Evidensnivå | L5 (endast modellförutsägelse) |
+| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Antal godkännanden | 20 (alla avregistrerade) |
+| Rekommenderat beslut | Avvakta |
+
+---
+
+### Varför är denna förutsägelse rimlig?
+
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Treonin är en essentiell aminosyra som ingår i proteinsyntesen och i bildningen av glycin och serin. Den är dessutom en viktig beståndsdel i mucin, det slemämne som skyddar tarmslemhinnan. Det skulle teoretiskt kunna ha betydelse för slemhinnans funktion i mag-tarmkanalen.
+
+Det finns dock inget som kopplar treonin till magsäckens motilitet, till tömningshastigheten eller till de mekanismer som ligger bakom gastropares, såsom Cajals interstitiella celler, nervsystemet i magsäcken eller vagusnerven. Kopplingen är därför spekulativ och stöds inte av de data som finns. Den höga poängen (0,993) är i dagsläget det enda stödet.
+
+---
+
+### Kliniska prövningar
+
+Inga relaterade kliniska prövningar registrerade för närvarande.
+
+---
+
+### Litteraturbevis
+
+Ingen relaterad litteratur tillgänglig för närvarande.
+
+---
+
+### Marknadsinformation Sverige
+
+Alla 20 godkännanden är avregistrerade och inget produkt är för närvarande godkänt. Indikationstext saknas för samtliga. Fem av godkännandena:
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 59088 | Ketosteril | Filmdragerad tablett | Ej angiven |
+| 12526 | Glavamin | Infusionsvätska, lösning | Ej angiven |
+| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Ej angiven |
+| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Ej angiven |
+| 12423 | Nutrineal PD4 1,1 % Aminosyror | Peritonealdialysvätska | Ej angiven |
+
+---
+
+### Säkerhetsaspekter
+
+- **Möjliga kontraindikationer enligt kunskapsgrafen** (inte hämtade från produkttext): fenylketonuri och rubbning av fenylalaninmetabolismen.
+
+För övrig säkerhetsinformation, se produktresumén.
+
+---
+
+### Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+- Förutsägelsen stöds endast av modellpoängen (evidensnivå L5). Det finns varken kliniska prövningar, litteratur, känd verkningsmekanism eller någon biologisk förklaring till kopplingen mellan treonin och gastropares. Dessutom är alla svenska godkännanden avregistrerade.
+
+**För att gå vidare krävs:**
+- Hämta och granska produktresumé med varningar och kontraindikationer från MPA.
+- Komplettera verkningsmekanismen, till exempel via DrugBank.
+- Genomföra litteratur- och prövningssökning för treonin vid gastropares och motilitetsstörningar.
+- Utreda en möjlig mekanistisk koppling, till exempel i prekliniska modeller.
+- Bedöma beredningsform och administrationsväg för den nya indikationen.
+## Ansvarsfriskrivning
+
+Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
+Klinisk validering krävs före klinisk tillämpning.
+
+---
+

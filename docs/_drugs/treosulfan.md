@@ -2,7 +2,7 @@
 layout: default
 title: Treosulfan
 parent: Endast modellprediktion (L5)
-nav_order: 106
+nav_order: 436
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,75 +29,65 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Treosulfan: Från myeloablativ konditionering till diabetisk katarakt
+# Treosulfan: Från [ursprunglig indikation ej angiven] till diabetisk katarakt
 
 ---
 
 ## Sammanfattning
 
-Treosulfan är ett alkyleringsmedel som används som del av myeloablativ konditioneringsbehandling inför hematopoetisk stamcellstransplantation. TxGNN-modellen förutsäger med en poäng på 99,01 % att det potentiellt kan vara effektivt mot **diabetisk katarakt**, men varken kliniska prövningar eller vetenskapliga publikationer stöder denna riktning för närvarande. Den mekanistiska kopplingen bedöms som extremt svag, och risk-nyttabalansen är kraftigt negativ för en icke-livshotande ögonsjukdom.
+Treosulfan är ett alkylerande cytostatikum som används i konditioneringsbehandling inför blodstamcellstransplantation. Den ursprungliga indikationen finns inte angiven i den svenska licensen. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **diabetisk katarakt** (poäng 99 %), men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder detta. Förutsägelsen bygger enbart på modellen.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|---------|
-| Ursprunglig indikation | Myeloablativ konditioneringsbehandling inför hematopoetisk stamcellstransplantation |
+|------|------|
+| Ursprunglig indikation | Ej angiven i licensdata |
 | Förutsagd ny indikation | Diabetisk katarakt |
-| TxGNN-förutsägelsepoäng | 99,01 % |
-| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
-| Marknadsstatus i Sverige | Inte registrerat |
-| Antal godkännanden | 0 |
+| TxGNN-förutsägelsepoäng | 99,0 % |
+| Evidensnivå | L5 (endast modellförutsägelse) |
+| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Antal godkännanden | 1 (avregistrerat) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta Evidence Pack. Baserat på känd information är Treosulfan ett bifunktionellt alkyleringsmedel som verkar genom att bilda DNA-korsningsbindningar (DNA cross-linking), vilket leder till celldöd och djup benmärgssuppression. Läkemedlet är kliniskt positionerat som ett högintensivt cytotoxiskt preparat avsett specifikt för myeloablativ konditionering.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för rapporten. Treosulfan är känt som ett bifunktionellt alkylerande ämne. Det är ett prodrug som omvandlas till epoxidmellanprodukter som korsbinder DNA, och det används före blodstamcellstransplantation.
 
-Diabetisk katarakt uppstår genom helt andra mekanismer: förhöjda blodsockernivåer aktiverar polyolvägen, leder till glykering av kristallinproteiner i linsen, ackumulering av oxidativ stress samt avlagring av AGE (advanced glycation end-products). Det finns ingen känd direkt biologisk koppling mellan Treosulfans DNA-alkyleringsmekanism och linspatologin vid diabetes.
+Något trovärdigt mekanistiskt samband med diabetisk katarakt kan inte påvisas. Diabetisk katarakt orsakas framför allt av aktivering av polyolvägen, osmotisk och oxidativ stress i linsepitelet, aldosreduktasaktivitet och proteinglykering. Ett cytotoxiskt, DNA-skadande läkemedel är biologiskt osannolikt att ge nytta vid ett degenerativt linstillstånd. Alkylerande ämnen och konditioneringsbehandlingar är dessutom förknippade med ögonrisker, bland annat kataraktutveckling efter transplantation.
 
-Den höga TxGNN-poängen (99,01 %) är sannolikt ett artefakt av avlägsen topologisk likhet i kunskapsgrafen snarare än en verklig biologisk orsakskedja. Mot bakgrund av Treosulfans allvarliga toxicitetsprofil – inklusive myelosuppression och carcinogenicitet – är risk-nyttabalansen kraftigt negativ för en icke-livshotande sjukdom som diabetisk katarakt.
-
----
-
-## Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande.
-
----
-
-## Litteraturbevis
-
-Ingen relaterad litteratur tillgänglig för närvarande.
+Den höga poängen är därför sannolikt en artefakt av grafmodellen och inte en meningsfull signal.
 
 ---
 
 ## Marknadsinformation Sverige
 
-Treosulfan är inte registrerat i Sverige och saknar godkännanden hos Läkemedelsverket.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 58317 | Treosulfan Tillomed | Pulver till infusionsvätska, lösning | Ingen indikationstext angiven (avregistrerat) |
 
 ---
 
 ## Cytotoxicitet
 
-Treosulfan är ett bifunktionellt alkyleringsmedel med cytotoxisk profil och uppfyller kriterierna för antineoplastiska läkemedel.
-
 | Post | Innehåll |
-|------|---------|
-| Cytotoxicitetsklassificering | Konventionell cytotoxisk – bifunktionellt alkyleringsmedel (liknar busulfan) |
-| Myelosuppressionsrisk | Hög – läkemedlet är specifikt avsett för myeloablation och orsakar djup och långvarig pancytopeni |
-| Emetogenicitetsklassificering | Medel till Hög |
-| Övervakningspunkter | Fullständigt blodstatus (CBC) med differentialräkning, lever- och njurfunktionsprover, infektionstecken och -parametrar |
-| Hanteringsskydd | Ja – kräver hantering som cytotoxiskt läkemedel; skyddsåtgärder vid beredning, administrering och avfallshantering enligt gällande cytostatikaföreskrifter |
+|------|------|
+| Cytotoxicitetsklassificering | Konventionell cytotoxisk (alkylerande ämne) |
+| Myelosuppressionsrisk | Hög. Myelosuppression är en förväntad effekt vid konditioneringsbehandling. |
+| Emetogenicitetsklassificering | Se produktresumén för varningar och försiktighetsåtgärder |
+| Övervakningspunkter | Blodstatus, lever- och njurfunktion samt neurologiska symtom (kramper) |
+| Hanteringsskydd | Hantering enligt gällande föreskrifter för cytotoxiska läkemedel |
+
+Anmärkning: Klassificeringen av myelosuppression och övervakningspunkterna baseras på läkemedlets kända toxicitetsprofil (myelosuppression, kramper, sekundär malignitet). Detaljerade varningar från produktresumén ingår inte i de data som sammanställts.
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+Se produktresumén för säkerhetsinformation. Inga varningar, kontraindikationer eller läkemedelsinteraktioner finns i de data som sammanställts. Läkemedlets kända toxicitet (myelosuppression, kramper, sekundär malignitet) gör att risk–nyttabalansen är ogynnsam vid en icke livshotande ögonsjukdom.
 
 ---
 
@@ -106,13 +96,13 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensnivån är L5 (enbart modellförutsägelse) utan stöd av kliniska prövningar eller publicerad litteratur. Den mekanistiska kopplingen mellan Treosulfans alkyleringsmekanism och diabetisk katarakt saknar biologisk grund, och läkemedlets extremt höga toxicitetsprofil gör risk-nyttabalansen oacceptabel för en icke-livshotande ögonsjukdom.
+- Förutsägelsen stöds endast av modellpoängen (evidensnivå L5), utan kliniska prövningar, litteratur eller trovärdig mekanism. Läkemedlet är dessutom starkt toxiskt och har bara avregistrerade godkännanden i Sverige.
 
 **För att gå vidare krävs:**
-- **Mekanistisk utredning:** Identifiera eventuell biologisk brygga mellan DNA-alkyleringsmekanismen och linspatologi vid diabetes
-- **Prekliniska data:** Djurstudier eller cellstudier som påvisar effekt vid diabetisk katarakt
-- **Säkerhetsomvärdering:** Detaljerad risk-nyttaanalys specifikt för ögonindikation, med hänsyn till att katarakt inte är livshotande
-- **Fullständig säkerhetsdokumentation:** Hämta produktresumé/SmPC för att fylla luckor i varningar och kontraindikationer
+- Hämta produktresumén från Läkemedelsverket för att komplettera varningar och kontraindikationer.
+- Komplettera verkningsmekanismdata från DrugBank.
+- Genomföra prekliniska studier som visar ett mekanistiskt samband mellan treosulfan och mekanismerna bakom diabetisk katarakt (till exempel polyolvägen och oxidativ stress).
+- Bedöma administreringsvägens kompatibilitet. Treosulfan finns endast som infusionsvätska, och en ögonindikation skulle sannolikt kräva en annan beredningsform.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

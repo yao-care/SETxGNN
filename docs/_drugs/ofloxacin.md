@@ -2,7 +2,7 @@
 layout: default
 title: Ofloxacin
 parent: Endast modellprediktion (L5)
-nav_order: 81
+nav_order: 323
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,87 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Ofloxacin: Från bakteriella infektioner till polyklonal hyperviskositetssyndrom
-
-## Sammanfattning
-
-Ofloxacin är ett bredspektrumantibiotikum inom fluorokinolonklassen som ursprungligen används för att behandla bakteriella infektioner i urinvägar, luftvägar, hud och ögon. TxGNN-modellen förutsäger att det kan vara effektivt mot **polyklonal hyperviskositetssyndrom** med ett förutsägelsepoäng på 99,91 %, men **inga kliniska prövningar och inga publikationer** stöder för närvarande denna indikation – förutsägelsen grundar sig uteslutande på modellberäkning (evidensnivå L5).
+# Ofloxacin: Från bakteriella infektioner till polyklonalt hyperviskositetssyndrom
 
 ---
 
-## Snabböversikt
+### Sammanfattning
+
+Ofloxacin är ett fluorokinolonantibiotikum som ursprungligen användes mot bakteriella infektioner, till exempel urinvägsinfektion, bronkit, lunginflammation och tarminfektioner. TxGNN-modellen förutsäger att det kan vara effektivt mot **polyklonalt hyperviskositetssyndrom**, men **inga kliniska prövningar och ingen publicerad litteratur** stöder förutsägelsen. Den höga poängen verkar vara en artefakt i kunskapsgrafen och saknar biologisk förklaring.
+
+---
+
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Bakteriella infektioner (urinvägsinfektion, luftvägsinfektion, ögoninfektion, hud- och mjukdelsinfektioner) |
-| Förutsagd ny indikation | Polyklonal hyperviskositetssyndrom |
-| TxGNN-förutsägelsepoäng | 99,91 % |
-| Evidensnivå | L5 – enbart modellförutsägelse, inga kliniska studier |
-| Marknadsstatus i Sverige | Ej godkänd, ej marknadsförd |
-| Antal godkännanden | 0 |
+|------|------|
+| Ursprunglig indikation | Bakteriella infektioner (t.ex. urinvägsinfektion, bronkit, bakteriell pneumoni, tyfoidfeber, dysenteri). Den svenska godkännandetexten är tom. |
+| Förutsagd ny indikation | Polyklonalt hyperviskositetssyndrom |
+| TxGNN-förutsägelsepoäng | 99,9 % |
+| Evidensnivå | L5 (endast modellförutsägelse) |
+| Marknadsstatus i Sverige | Endast upphävda godkännanden |
+| Antal godkännanden | 1 (upphävt) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta evidenspaket. Baserat på känd farmakologi är ofloxacin ett fluorokinolonantibiotikum vars verkningsmekanism bygger på hämning av bakteriellt DNA-gyras (topoisomeras II) och topoisomeras IV. Enzymhämningen förhindrar bakteriell DNA-replikation och transkription, vilket ger baktericid effekt mot ett brett spektrum av organismer – däribland *Enterobacteriaceae*, *Staphylococcus aureus*, *Chlamydia* och *Yersinia pestis*.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för denna rapport. Ofloxacin tillhör fluorokinolonerna, som hämmar bakteriernas DNA-gyras och topoisomeras IV. Därmed stoppas bakteriernas DNA-replikation, vilket ger effekt vid många gramnegativa och vissa grampositiva infektioner.
 
-Polyklonal hyperviskositetssyndrom uppstår när flera B-cellskloner reaktivt producerar stora mängder immunoglobuliner, vilket höjer plasmaviskositeten och kan leda till cirkulationssvikt. Det finns ingen känd biologisk koppling mellan hämning av bakteriellt DNA-gyras och reglering av immunoglobulinproduktion, B-cellsaktivering eller blodviskositet. Sambandet mellan ofloxacins primära verkningsmekanism och den förutsagda sjukdomsmekanismen saknas därmed på molekylär nivå.
+Hyperviskositet vid polyklonal immunglobulinökning är inte en bakteriell process. Det är en förhöjd halt av immunglobuliner i blodet som gör blodet trögflytande. En hämmare av bakteriella topoisomeraser har ingen känd verkan på den processen. Vi har inte kunnat identifiera något rimligt samband mellan ofloxacins ursprungliga indikationer och den förutsagda indikationen.
 
-Modellförutsägelsen baseras på kunskapsgrafassociationer som kan spegla indirekta nätverkskopplingar snarare än direkt biologisk aktivitet. Prognosen för polyklonal hyperviskositetssyndrom bedöms som biologiskt osannolik och kräver grundläggande mekanistisk validering innan vidare överväganden är motiverade.
+Den höga poängen ska därför ses som ett grafbaserat resultat utan stöd i kliniska data eller litteratur. Samma mönster gäller de flesta av modellens övriga toppförutsägelser, till exempel hyperamylasemi, medfödd analbuminemi och premaligna hematologiska sjukdomar.
+
+**Mer rimlig riktning:** Bland de förutsagda indikationerna är **septikemisk pest** den biologiskt mest trovärdiga. Ofloxacin hämmar bakteriell DNA-gyras, och *Yersinia pestis* är känslig för fluorokinoloner i laboratorietester. Detta är en utvidgning av det befintliga antibakteriella spektrumet och inte en ny mekanism. Evidensen är prekliniär (evidensnivå L4), och andra läkemedel är bättre etablerade vid pest.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
 Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
-## Marknadsinformation Sverige
+### Marknadsinformation Sverige
 
-Ofloxacin är inte godkänt och marknadsförs inte i Sverige. Inga produktlicenser är registrerade hos Läkemedelsverket.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 49243 | Ofloxacin mibe | Ögondroppar, lösning | Ej angiven (status: upphävt) |
 
----
-
-## Säkerhetsaspekter
-
-Se produktresumén för säkerhetsinformation.
+Det enda godkännandet är upphävt, och ofloxacin finns därför för närvarande inte tillgängligt på den svenska marknaden. Beredningsformen är ögondroppar, vilket är en lokal behandling och inte lämpar sig för systemiska tillstånd som hyperviskositet.
 
 ---
 
-## Slutsats och nästa steg
+### Säkerhetsaspekter
+
+Uppgifter om varningar och kontraindikationer från produktresumén saknas i det sammanställda underlaget. Se produktresumén för säkerhetsinformation.
+
+- **Kontraindikationer enligt kunskapsgrafen (inte etikettext):** Kunskapsgrafen kopplar ofloxacin till bland annat långt QT-syndrom och torsades de pointes, epilepsi, lever- och njursjukdom, tendinit, perifer neuropati, myasthenia gravis, rabdomyolys, diabetes och diabetesketoacidos, *Clostridium difficile*-kolit, trombocytopeni och leukopeni. Listan är inte verifierad mot godkänd produktinformation.
+- **Läkemedelsinteraktioner:** Totalt 100 interaktioner identifierades, och 20 av dem granskades i detta underlag.
+  - **Allvarliga (Major):** hydrokortison, triamcinolon, dexametason, betametason, bupropion och klorpropamid.
+  - **Måttliga (Moderate):** bland annat acarbos, metformin, pioglitazon, kanagliflozin, alogliptin, albiglutid, famotidin, loperamid, acetylsalicylsyra, balsalazid, bisakodyl samt kalcium- och kaliumsalter.
+  - De allvarliga interaktionerna med kortikosteroider är särskilt relevanta, eftersom kombinationen kan öka risken för senskador. Interaktionerna med antidiabetika kan påverka blodsockret.
+
+---
+
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensnivå L5 innebär att enbart TxGNN-modellförutsägelsen stöder indikationen polyklonal hyperviskositetssyndrom. Ingen biologiskt trovärdig verkningsmekanism har identifierats och inga kliniska studier finns tillgängliga för denna indikationskombination – vidare utredning är inte motiverad utan föregående mekanistisk validering.
-
-> **Notering om övriga förutsägelser i detta evidenspaket:** Två andra indikationer uppvisar avsevärt starkare stöd och kan vara mer lämpliga för prioritering. *Septikemisk pest* (rang 8, evidensnivå L3) har direkta djurdata med ofloxacin mot *Yersinia pestis* och rekommenderas "Proceed with Guardrails". *Monoklonal gammopati* (rang 6, evidensnivå L3) stöds av en Fas 3 RCT (TEAMM-studien) med levofloxacin – ofloxacins L-enantiomer med identisk verkningsmekanism – och rekommenderas "Research Question".
+- Förutsägelsen om polyklonalt hyperviskositetssyndrom saknar både biologiskt stöd och kliniska data (evidensnivå L5). Dessutom är det enda svenska godkännandet upphävt och avser ögondroppar.
 
 **För att gå vidare krävs:**
-- Formulering av en biologiskt trovärdig hypotes som kopplar fluorokinoloner till immunoglobulinreglering eller plasmaviskositet
-- Prekliniska studier (in vitro/in vivo) för att bekräfta eventuell biologisk aktivitet mot polyklonal hyperviskositetssyndrom
-- Inhämtning av fullständig säkerhetsprofil via produktresumén (SmPC): varningar, kontraindikationer och kliniskt relevanta läkemedelsinteraktioner
-- Komplettering av MOA-data via DrugBank-API (åtgärda datagap DG002) och hämtning av TFDA-produktresumé (DG001)
+- Mekanistiskt och prekliniskt stöd för ett samband mellan ofloxacin och hyperviskositet. Utan det bör förutsägelsen inte prioriteras.
+- Komplettering av läkemedlets verkningsmekanism (DrugBank) samt varningar och kontraindikationer från produktresumén (Läkemedelsverket). Dessa uppgifter saknas och blockerar den fortsatta säkerhetsbedömningen.
+- Om projektet vill följa en mer rimlig riktning bör septikemisk pest utvärderas separat. Det kräver en systematisk genomgång av de prekliniska studierna, en jämförelse med etablerade behandlingar och en bedömning av tillgängligheten i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

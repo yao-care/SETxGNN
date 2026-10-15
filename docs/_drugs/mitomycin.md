@@ -2,7 +2,7 @@
 layout: default
 title: Mitomycin
 parent: Endast modellprediktion (L5)
-nav_order: 74
+nav_order: 300
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,90 +29,110 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
----
-
-# Mitomycin: Från solida tumörer till osteoclastisk jättecellstumör i pankreas
-
-## Sammanfattning
-
-Mitomycin är ett bioreduktivt cytotoxiskt antibiotikum som historiskt använts mot flera solida tumörtyper – bland annat som komponent i FAM- och SMF-kombinationsregimer vid exokrin pankreascancer och gastroesofageala cancrar. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **osteoclastisk jättecellstumör i pankreas**, en extremt sällsynt tumörform med mesenkymalt dominerat stroma och osteoclastliknande jätteceller. Förutsägelsen bygger uteslutande på modellberäkning – det finns för närvarande **inga registrerade kliniska prövningar** och **inga direkta publikationer** som stöder denna specifika indikation.
+# Mitomycin: Från pankreasadenokarcinom till osteoklastisk jättecellstumör i pankreas
 
 ---
 
-## Snabböversikt
+### Sammanfattning
+
+Mitomycin är ett cytostatikum som i den data som sammanställts för denna rapport är kopplat till behandling av pankreasadenokarcinom. TxGNN-modellen förutsäger att det kan vara effektivt mot **osteoklastisk jättecellstumör i pankreas**, en sällsynt histologisk variant av pankreascancer. Det finns **inga kliniska prövningar** och **inga publikationer** som stöder just denna förutsägelse, så underlaget består enbart av modellens förutsägelse.
+
+---
+
+### Snabböversikt
 
 | Post | Innehåll |
-|------|---------|
-| Ursprunglig indikation | Ej registrerad i Sverige (ingen godkänd indikationstext tillgänglig) |
-| Förutsagd ny indikation | Osteoclastisk jättecellstumör i pankreas |
-| TxGNN-förutsägelsepoäng | 99,86% |
-| Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Ej registrerad |
-| Antal godkännanden | 0 |
+|------|------|
+| Ursprunglig indikation | Pankreasadenokarcinom (enligt kunskapsgrafen; godkännandena i Sverige saknar indikationstext) |
+| Förutsagd ny indikation | Osteoklastisk jättecellstumör i pankreas |
+| TxGNN-förutsägelsepoäng | 99,86 % |
+| Evidensnivå | L5 (endast modellförutsägelse, inga studier) |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 3 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-Mitomycin C aktiveras bioreduktivt av cellulära enzymer – framför allt under hypoxa förhållanden – till reaktiva kinalmetidintermediärer. Dessa bildar intra- och interstrandiga korsläkningar i DNA som blockerar replikation och transkription och slutligen utlöser apoptos i snabbt delande celler. Pankreas tumörmikromiljö är karakteristiskt syrefattig, vilket teoretiskt förstärker Mitomycins selektiva aktivering i tumörvävnaden jämfört med frisk omgivande vävnad.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts. Baserat på känd information är mitomycin ett cytostatikum som verkar genom att tvärbinda DNA, och dess effekt vid pankreasadenokarcinom är den indikation som kunskapsgrafen kopplar till läkemedlet. Mekanistiskt kan det därför vara tillämpbart på en närbesläktad tumörtyp.
 
-Osteoclastisk jättecellstumör i pankreas (OGC-pancreas) är emellertid biologiskt distinkt från vanlig pankreasadenocarcinom (PDAC). Tumören domineras av osteoclastliknande reaktiva jätteceller med mesenkymalt ursprung och saknar ofta de typiska PDAC-drivmutationerna KRAS och SMAD4. Det är oklart om Mitomycins DNA-skademekanistik är lika effektiv mot denna mesenkymala komponent som mot klassiska epiteliala cancerceller; den cellulära biologi som styr aktivering och känslighet kan skilja sig avsevärt.
+Osteoklastisk jättecellstumör i pankreas är en sällsynt histologisk variant av duktalt pankreasadenokarcinom. Eftersom tumören delar ursprung med den ursprungliga indikationen är ett gemensamt cytotoxiskt angreppssätt rimligt. Det finns dock inga studier eller publikationer som styrker kopplingen.
 
-TxGNN-modellens höga poäng (99,86%) speglar sannolikt strukturella likheter i sjukdomsnätverksgrafen snarare än en direkt evidensöverföring från PDAC-studier. Utan prekliniska eller kliniska data specifika för OGC-pancreas saknas grund för att bekräfta att förutsägelsen är kliniskt tillämpbar.
+Flera andra förutsagda indikationer ligger nära varandra i poäng (99,8–99,9 %) och är i huvudsak varianter av pankreascancer. De flesta saknar också helt kliniskt underlag.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Litteraturbevis
+### Marknadsinformation Sverige
 
-Ingen relaterad litteratur tillgänglig för närvarande.
+| Godkännandenummer | Produktnamn | Beredningsform | Status |
+|---------|------|------|-----------|
+| 45894 | Mitomycin Substipharm | Pulver till injektions-/infusionsvätska, lösning | Indragen |
+| 45895 | Mitomycin Substipharm | Pulver och vätska till intravesikal lösning | Indragen |
+| 50421 | Mitomycin medac | Pulver och vätska till intravesikal lösning | Indragen |
+
+Ingen godkänd indikationstext finns registrerad för dessa godkännanden.
 
 ---
 
-## Marknadsinformation Sverige
-
-Mitomycin är för närvarande inte registrerat hos Läkemedelsverket (MPA) i Sverige. Inga godkännanden finns i tillgänglig databas.
-
----
-
-## Cytotoxicitet
-
-Mitomycin uppfyller kriterier för antineoplastisk klassificering: det tillhör klassen bioreduktiva alkyleringsmedel och dess ursprungliga användning är riktad mot maligna solida tumörer.
+### Cytotoxicitet
 
 | Post | Innehåll |
-|------|---------|
-| Cytotoxicitetsklassificering | Konventionell cytotoxisk – bioreduktivt alkyleringsmedel (mitomycin-klass) |
-| Myelosuppressionsrisk | Hög – kumulativ och fördröjd myelosuppression är Mitomycin C:s dosbegränsande toxicitet; nadir för trombocyter och neutrofiler inträffar typiskt vecka 4–6 efter administrering och kan förvärras vid upprepad dosering |
-| Emetogenicitetsklassificering | Medel |
-| Övervakningspunkter | Komplett blodstatus (CBC) inför varje kur med särskild uppmärksamhet på trombocytantal och neutrofilräkning; njurfunktion (S-kreatinin, GFR) och leverfunktion (ALAT, ASAT, bilirubin) bör följas regelbundet |
-| Hanteringsskydd | Ja – hanteras som cytotoxiskt läkemedel i enlighet med ASHP/ISOPP-riktlinjer; skyddshandskar, stänkskydd och lämplig skyddsutrustning krävs vid beredning och administrering |
+|------|------|
+| Cytotoxicitetsklassificering | Konventionell cytotoxisk (DNA-tvärbindande alkylerande antibiotikum) |
+| Myelosuppressionsrisk | Hög. Kunskapsgrafen kopplar läkemedlet till trombocytopeni, leukopeni och anemi. |
+| Emetogenicitetsklassificering | Se produktresumén |
+| Övervakningspunkter | Blodstatus (trombocyter, leukocyter, hemoglobin), njurfunktion, tecken på hemolytiskt uremiskt syndrom |
+| Hanteringsskydd | Hantera enligt gällande föreskrifter för cytotoxiska läkemedel. Se produktresumén för detaljer. |
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-> Se produktresumén (SmPC) för säkerhetsinformation.
+**Möjliga kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumé):
+- Njursjukdom
+- Trombocytopeni, koagulationsrubbningar, anemi (inklusive makrocytär anemi) och leukopeni
+- Hemolytiskt uremiskt syndrom (inklusive typiskt)
+- Hjärtsvikt (kongestiv hjärtsvikt)
+- Stomatit
+- Pyouretär
+
+**Läkemedelsinteraktioner** (100 interaktioner identifierade, de viktigaste nedan):
+
+| Interagerande läkemedel | Nivå |
+|------|------|
+| Deferipron | Allvarlig |
+| Samarium (153Sm) lexidronam | Allvarlig |
+| Palifermin | Måttlig |
+| Strontiumklorid Sr-89 | Måttlig |
+| Fostamatinib | Måttlig |
+| Levofloxacin | Mindre |
+
+Övriga listade interaktioner (bland annat warfarin, dexametason och omeprazol) har okänd allvarlighetsgrad.
+
+Produktresuméns varningar och kontraindikationer har inte kunnat inhämtas och måste kontrolleras separat.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för osteoclastisk jättecellstumör i pankreas saknar all direkt klinisk eller preklinisk evidens (evidensnivå L5). Tumörtypen är biologiskt distinkt från de cancerformer där Mitomycin har historisk användning, och det finns ingen studiemässig grund för extrapolering av effekt till denna sällsynta entitet.
+- Förutsägelsen bygger enbart på modellen (L5), utan kliniska prövningar eller direkt litteratur. Dessutom är alla svenska godkännanden indragna, och produktresuméns säkerhetsdata saknas.
 
 **För att gå vidare krävs:**
-- Prekliniska studier (in vitro eller in vivo) specifika för OGC-pancreas cellmodeller eller xenograftmodeller
-- Systematisk sökning efter fallrapporter eller fallserier där Mitomycin använts vid OGC-pancreas
-- Komplettering av säkerhetsdata: verifierad produktresumé (SmPC) med kontraindikationer och interaktionsprofil
-- Hämtning av fullständig MOA-data via DrugBank API för att stärka den mekanistiska analysen
+- Hämta produktresumé med varningar och kontraindikationer från Läkemedelsverket (MPA) för att kunna göra en säkerhetsbedömning.
+- Komplettera verkningsmekanismen från DrugBank.
+- Göra en systematisk litteratursökning efter mitomycin vid sällsynta pankreastumörer, särskilt de varianter som liknar duktalt adenokarcinom.
+- Bedöma administreringsväg och beredningsform, eftersom de svenska godkännandena gällde injektion och intravesikal användning.
+- Tänk på att den närmast jämförbara indikationen, den ursprungliga pankreascancern, redan är ansluten till läkemedlet, så ett nytt tillämpningsområde är inte tydligt avgränsat.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

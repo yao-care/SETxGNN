@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Febuxostat
-parent: Endast modellprediktion (L5)
-nav_order: 46
-evidence_level: L5
+parent: Måttlig evidens (L3-L4)
+nav_order: 189
+evidence_level: L4
 indication_count: 3
 ---
 
 # Febuxostat
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **3** st
+Evidensnivå: **L4** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,64 +29,75 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Febuxostat: Från hyperurikemi och gikt till renal hypourikemi
+# Febuxostat: Från hyperurikemi till renal hypourikemi
+
+---
 
 ## Sammanfattning
 
-Febuxostat är ett uratänkande läkemedel som internationellt används för behandling av kronisk hyperurikemi vid gikt. TxGNN-modellen förutsäger att det kan vara effektivt mot **renal hypourikemi**, en njurrelaterad störning i uratsyraömsättningen som kännetecknas av onormalt låga serumurathalter och ökad ursutsöndring. Evidensunderlaget för denna nya indikation är begränsat – det stöds av **1 klinisk prövning** (fas 4, okänd status) och **2 publikationer**, varav en fallrapport direkt beskriver febuxostats potentiella roll.
+Febuxostat är en xantinoxidashämmare som ursprungligen användes för att behandla hyperurikemi (förhöjd urinsyranivå). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **renal hypourikemi**, men underlaget är mycket svagt: **1 klinisk prövning** med oklar koppling till diagnosen och **2 publikationer** (en översikt och en fallrapport). Den höga modellpoängen verkar spegla närhet till urinsyrans metaboliska vägar snarare än en verklig terapeutisk nytta.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|---|---|
-| Ursprunglig indikation | Hyperurikemi vid gikt (ej registrerat i Sverige) |
-| Förutsagd ny indikation | Renal hypourikemi |
-| TxGNN-förutsägelsepoäng | 99,99% |
-| Evidensnivå | L4 – Fallrapport och narrativ översikt |
-| Marknadsstatus i Sverige | Ej godkänt (0 registreringar) |
-| Antal godkännanden | 0 |
+|------|------|
+| Ursprunglig indikation | Hyperurikemi (enligt kunskapsgrafen; indikationstext saknas i det svenska godkännandet) |
+| Förutsagd ny indikation | Renal hypourikemi (hypouricemia, renal) |
+| TxGNN-förutsägelsepoäng | 99,99 % |
+| Evidensnivå | L4 |
+| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Antal godkännanden | 1 |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta Evidence Pack. Baserat på känd information är Febuxostat en selektiv icke-purin-hämmare av xantinoxidasreduktaset (XOR) – ett enzym som katalyserar oxidationen av hypoxantin till xantin och vidare till urinsyra. Dess förmåga att sänka serumuratnivåer vid hyperurikemi och gikt är väldokumenterad internationellt.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Febuxostat är dock känt som en icke-purin, selektiv hämmare av xantinoxidas, som sänker urinsyra i serum.
 
-Kopplingen till renal hypourikemi är mekanistiskt intressant men paradoxal: tillståndet orsakas av defekter i njurtubulernas uratetransport (exempelvis URAT1-mutationer), vilket leder till onormalt låga serumurathalter och kraftigt ökad ursutsöndring. Denna höga uratkoncentration i njurtubulerna kan vid anaerob belastning utlösa träningsinducerad akut njurskada (EIAKI) via oxidativ stress. Litteraturen (PMID 36754409) tyder på att XOR-hämning med Febuxostat kan minska produktionen av fria syreradikaler i njurvävnaden och därigenom förebygga EIAKI – ett välkänt och allvarligt komplikation vid renal hypourikemi.
+Vid renal hypourikemi är urinsyranivån redan låg på grund av nedsatt återupptag av urat i njuren (till exempel förlust av funktion i URAT1 eller GLUT9). Ett läkemedel som sänker urinsyra har därför ingen tydlig terapeutisk logik här och kan till och med vara kontraproduktivt. Den enda tänkbara kopplingen är indirekt: en japansk fallrapport från 2023 beskriver att xantinoxidoreduktashämmare övervägts för att förebygga ansträngningsutlöst akut njurskada hos en tonårig fotbollsspelare med familjär renal hypourikemi. Det gäller en annan användning än att behandla själva grundsjukdomen.
 
-Titeln på PMID 36754409 namnger uttryckligen "Non-purine Selective Xanthine Oxidoreductase Inhibitors" i samband med renal hypourikemi, vilket ger en direkt mekanistisk grund för TxGNN:s förutsägelse. Det rör sig dock om ett enstaka fallrapport, och den kliniska generaliserbarheten är ännu oklar.
+Den höga modellpoängen beror sannolikt på att läkemedel och sjukdom ligger nära varandra i nätverket kring urinsyrans metabolism, inte på ett verkligt behandlingssamband.
+
+**Övriga förutsägelser i modellen:** Två ytterligare förutsägelser rankas högt, partiell brist på hypoxantin-guanin-fosforibosyltransferas (HPRT) och Lesch-Nyhans syndrom. Där är mekanismen mer sammanhängande, eftersom sjukdomarna ger överproduktion av urinsyra som xantinoxidashämning kan dämpa. Nyttan skulle dock begränsas till de urinsyrarelaterade symtomen, inte de neurologiska. Dessa nämns bara som kontext, eftersom rapporten gäller den högst rankade förutsägelsen.
 
 ---
 
 ## Kliniska prövningar
 
 | Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
-|---|---|---|---|---|
-| [NCT04398251](https://clinicaltrials.gov/study/NCT04398251) | Fas 4 | Okänd | 100 | Prospektiv kontrollerad studie vid Shanghai Xu-hui Central Hospital. Undersöker hur uratkontroll påverkar återfall av njursten och njurfunktion hos patienter med hyperurikemi och njursten. Stöder indirekt relevansen av uratkontroll vid njurrelaterade tillstånd. |
+|---------|------|------|------|---------|
+| [NCT04398251](https://clinicaltrials.gov/study/NCT04398251) | Fas 4 | Okänd | 100 | Prospektiv kontrollerad studie av hur urinsyrakontroll påverkar stenåterfall och njurfunktion hos patienter med njurstenar och hyperurikemi. Kopplingen till renal hypourikemi och febuxostat kan inte verifieras och bedöms som svag. |
 
 ---
 
 ## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|---|---|---|---|---|
-| [36754409](https://pubmed.ncbi.nlm.nih.gov/36754409/) | 2023 | Fallrapport | Internal Medicine (Tokyo) | Beskriver en 16-årig fotbollsspelare med familjär renal hypourikemi (URAT1-mutation) och återkommande EIAKI. Febuxostat diskuteras som profylaktisk behandling när hydreringsåtgärder visat sig otillräckliga. Starkaste direkta evidens för förutsägelseriktningen. |
-| [31650389](https://pubmed.ncbi.nlm.nih.gov/31650389/) | 2020 | Narrativ översikt | Clinical Rheumatology | Uppdatering om hypourikemi (serumurat <2 mg/dL) för reumatologer med genomgång av etiologi, inklusive renal hypourikemi. Ger kliniskt sammanhang men är inte specifik för Febuxostat. |
+|------|-----|------|------|---------|
+| [36754409](https://pubmed.ncbi.nlm.nih.gov/36754409/) | 2023 | Fallrapport | Internal Medicine | 16-årig fotbollsspelare med familjär renal hypourikemi (mutationer i URAT1) och återkommande ansträngningsutlöst akut njurskada. Vätskeintag räckte inte som förebyggande åtgärd, och en xantinoxidoreduktashämmare diskuteras som möjlig profylax. |
+| [31650389](https://pubmed.ncbi.nlm.nih.gov/31650389/) | 2020 | Översikt | Clinical Rheumatology | Berättande översikt över hypourikemi (serumurat < 2 mg/dl) och dess orsaker. Beskriver inte febuxostat som behandling av tillståndet. |
 
 ---
 
 ## Marknadsinformation Sverige
 
-Febuxostat är för närvarande **inte godkänt eller registrerat** på den svenska läkemedelsmarknaden. Inga giltiga godkännandenummer finns att redovisa.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 56645 | Febuxostat Accord (Accord Healthcare B.V.) | Filmdragerad tablett | Ingen indikationstext angiven (status: avregistrerad) |
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumén): stroke, cerebrovaskulär sjukdom, hjärninfarkt, hjärtinfarkt, koronartrombos och hemoglobinopati.
+- **Läkemedelsinteraktioner:** 22 interaktioner identifierades, varav de viktigaste är:
+  - **Allvarliga (Major):** merkaptopurin, azatioprin, leflunomid och teriflunomid.
+  - **Måttliga (Moderate), urval:** teofyllin, aminofyllin, dyfyllin, oxtrifyllin, metotrexat, tioguanin, klofarabin, epirubicin, trabektedin, pegaspargas, asparaginas, brentuximabvedotin, interferon beta-1a/1b, peginterferon beta-1a och naltrexon.
+
+Säkerhetsuppgifter från produktresumén saknas i underlaget. Se produktresumén för fullständig information om varningar och kontraindikationer.
 
 ---
 
@@ -95,14 +106,14 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-Trots en mycket hög TxGNN-förutsägelsepoäng (99,99 %) är det faktiska kliniska evidensunderlaget begränsat till ett enskilt fallrapport och en narrativ översikt. Den identifierade kliniska prövningen (NCT04398251) är dessutom inte specifikt utformad för Febuxostat vid renal hypourikemi. Bristen på svenska registreringsdata och de saknade säkerhetsuppgifterna gör att vidare utredning krävs innan ett positivt beslut kan fattas.
+- Ett urinsänkande läkemedel saknar tydlig terapeutisk logik vid ett tillstånd som redan kännetecknas av låg urinsyra, och evidensen utgörs enbart av en fallrapport och en översikt (L4). Den enda kliniska prövningen handlar om hyperurikemi med njurstenar och stöder inte förutsägelsen.
 
 **För att gå vidare krävs:**
-- Insamling av fullständig säkerhetsinformation: varningar, kontraindikationer och läkemedelsinteraktioner (via FASS/EMA-produktresumé)
-- Bekräftelse av verkningsmekanism (MOA) via DrugBank API
-- Identifiering av ytterligare kliniska studier eller fallserier specifikt om Febuxostat vid renal hypourikemi och EIAKI
-- Utvärdering av om en prospektiv observationsstudie eller pilotstudie är genomförbar i patientgruppen (unga aktiva personer med URAT1-mutation)
-- Kartläggning av eventuell off-label-användning i länder där Febuxostat är godkänt (t.ex. Japan, USA, EU) för detta tillstånd
+- Verifiering av prövningen NCT04398251 i det ursprungliga registret för att fastställa intervention och utfallsmått.
+- Mekanistisk utvärdering av om xantinoxidashämning är relevant för att förebygga ansträngningsutlöst akut njurskada vid renal hypourikemi, samt hur det förhåller sig till risken för ytterligare sänkt urinsyra.
+- Kontrollerade studier eller större fallserier som visar effekt och säkerhet.
+- Komplettering med varningar och kontraindikationer från produktresumén samt uppgifter om verkningsmekanism från DrugBank.
+- Klargörande av den regulatoriska statusen, eftersom det enda svenska godkännandet är avregistrerat.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -2,7 +2,7 @@
 layout: default
 title: Zanamivir
 parent: Endast modellprediktion (L5)
-nav_order: 113
+nav_order: 456
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,74 +29,72 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Zanamivir: Från influensabehandling till pyelonefrit
-
-## Sammanfattning
-
-Zanamivir är ett antiviralt läkemedel inom klassen neuraminidashämmare, vars etablerade användning är behandling och profylax av influensa A och B. TxGNN-modellen förutsäger att det potentiellt kan vara effektivt mot **pyelonefrit** (njurbäckeninflammation) med en förutsägelsepoäng på **99,84 %**. Förutsägelsen saknar dock helt stöd från kliniska prövningar eller vetenskaplig litteratur, vilket innebär att evidensbasen uteslutande bygger på modellens grafstrukturella slutledning utan biologisk eller klinisk validering.
+# Zanamivir: Från influensa till pyelonefrit
 
 ---
 
-## Snabböversikt
+### Sammanfattning
+
+Zanamivir är en neuraminidashämmare som ursprungligen användes för att behandla **influensa**. TxGNN-modellen förutsäger att det kan vara effektivt mot **pyelonefrit** (poäng 99,8 %), men det finns **inga kliniska prövningar och ingen litteratur** som stöder denna riktning. Förutsägelsen bygger enbart på modellen.
+
+---
+
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Influensa A och B – behandling och profylax (ej godkänd i Sverige; baserat på känd global användning) |
-| Förutsagd ny indikation | Pyelonefrit (njurbäckeninflammation) |
-| TxGNN-förutsägelsepoäng | 99,84 % |
-| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
-| Marknadsstatus i Sverige | Ej godkänd |
-| Antal godkännanden | 0 |
+|------|------|
+| Ursprunglig indikation | Influensa (enligt kunskapsgrafen; godkänd indikationstext saknas i det svenska registret) |
+| Förutsagd ny indikation | Pyelonefrit |
+| TxGNN-förutsägelsepoäng | 99,8 % |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 1 |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta Evidence Pack. Baserat på känd information är Zanamivir en neuraminidashämmare vars antivirala effekt vid influensa A och B är väl dokumenterad globalt. Läkemedlet verkar genom att selektivt blockera influensavirusets neuraminidasenzym, vilket hindrar viruspartiklar från att frigöra sig från infekterade celler och sprida sig i kroppen.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för denna rapport. Baserat på allmänt känd information hämmar zanamivir neuraminidas (sialidas) hos influensavirus, vilket hindrar nya viruspartiklar från att frigöras från infekterade celler.
 
-Pyelonefrit är en bakteriell infektion i njurbäckenet och njurparenkymet, orsakad primärt av *Escherichia coli* och andra gramnegativa tarmbakterier. Eftersom Zanamivirs verkningsmekanism riktas mot ett virusspecifikt enzym (influensaneuraminidaset), utan känd aktivitet mot bakteriella patogener, saknas en biologiskt plausibel länk till bakteriell njurinfektion.
+Pyelonefrit är oftast en bakteriell njurinfektion, vanligen orsakad av *E. coli*. Något etablerat mekanistiskt samband med influensa finns inte. Ett spekulativt resonemang är att hämning av bakteriella eller humana sialidaser skulle kunna påverka bakteriers vidhäftning eller avlägsnandet av sialinsyra från värdvävnad. Inga data har dock lämnats som stöder detta.
 
-Den interna mekanistiska analysen bedömer att TxGNN:s höga poäng sannolikt utgör ett strukturellt falskt positivt resultat – modellen kan ha dragit slutsatsen via indirekta kopplingar mellan infektionssjukdomsnoder i kunskapsgrafen (delade grannar mellan "infektionssjukdomar" och "läkemedel"), snarare än via en reell biologisk mekanism. Det finns inget prekliniskt eller kliniskt underlag som stöder användning av Zanamivir vid pyelonefrit.
-
----
-
-## Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande.
+Den mycket höga modellpoängen ska därför tolkas med stor försiktighet. Den är en ren modellförutsägelse utan stöd från studier.
 
 ---
 
-## Litteraturbevis
+### Marknadsinformation Sverige
 
-Ingen relaterad litteratur tillgänglig för närvarande.
-
----
-
-## Marknadsinformation Sverige
-
-Zanamivir är inte godkänt eller marknadsfört i Sverige. Inga läkemedelsgodkännanden finns registrerade hos läkemedelsmyndigheten.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 14997 | Relenza (GlaxoSmithKline AB) – indraget | Inhalationspulver, avdelad dos | Indikationstext saknas |
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Kontraindikationer enligt kunskapsgrafen** (modellbaserade samband, inte hämtade från produktresumétext): epilepsi, kroniskt obstruktiv lungsjukdom (KOL), svår tidigt debuterande KOL, bronkialsjukdom och delirium.
+- **Läkemedelsinteraktioner**: 8 interaktioner identifierades.
+  - Insulin humant (inhalation, snabbverkande): **måttlig** nivå.
+  - Övriga (klaritromycin, loratadin, montelukast, ketotifen, fexofenadin, ibuprofen, diklofenak): nivå **okänd**.
+
+Se produktresumén för fullständig information om varningar och kontraindikationer.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Trots att TxGNN-förutsägelsepoängen är mycket hög (99,84 %) saknas all biologisk och klinisk förankring. Zanamivir är ett antiviralt läkemedel utan känd antibakteriell effekt, och pyelonefrit orsakas av bakterier – det finns ingen etablerad mekanism som kan motivera vidare utredning i nuläget. Evidensnivån är L5, vilket innebär att förutsägelsen uteslutande bygger på modellens slutledning.
+- Förutsägelsen är endast modellbaserad (L5). Det saknas kliniska prövningar och relevant litteratur, och inget plausibelt mekanistiskt samband med pyelonefrit har identifierats. Dessutom är det enda svenska godkännandet indraget.
 
 **För att gå vidare krävs:**
-- Identifiering av en biologiskt plausibel mekanism som kopplar neuraminidashämning till effekt mot uropatogena bakterier
-- Prekliniska data (in vitro eller djurmodell) som visar antibakteriell aktivitet av Zanamivir eller neuraminidashämmare mot relevanta patogener
-- Minst en explorativ klinisk studie, fallserie eller fallrapport som stöder indikationen
-- Fullständig säkerhetsdokumentation (MOA-data, varningar och kontraindikationer) för att möjliggöra en formell säkerhetsinitialutvärdering (S1)
+- Hämta produktresumé och säkerhetsinformation (varningar, kontraindikationer) från Läkemedelsverket.
+- Komplettera data om verkningsmekanism.
+- Prekliniska studier som undersöker om sialidashämning påverkar uropatogener eller värdvävnad vid pyelonefrit.
+- Systematisk litteratursökning som riktar sig specifikt mot pyelonefrit.
+- Bedöma administreringsväg (inhalation) i förhållande till en systemisk njurinfektion.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

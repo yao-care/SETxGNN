@@ -2,7 +2,7 @@
 layout: default
 title: Telmisartan
 parent: Endast modellprediktion (L5)
-nav_order: 102
+nav_order: 413
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,39 +29,37 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Skill content noted — this is a Swedish TxGNN deployment (Se). Generating the pharmacist evaluation report now based on the Evidence Pack.
+# Telmisartan: Från hypertoni till Prinzmetal angina
 
 ---
 
-# Telmisartan: Från hypertoni till Prinzmetal angina
-
 ## Sammanfattning
 
-Telmisartan är en angiotensin II-receptorblockerare (ARB) med dubbel verkningsmekanism — AT1-receptorblockad och partiell PPARγ-agonism — och används globalt för behandling av hypertoni och kardiovaskulär riskreduktion. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **Prinzmetal angina** (vasospastisk angina) med en förutsägelsepoäng på **99,98%**. För närvarande finns **inga kliniska prövningar** och **inga publikationer** som direkt stöder denna indikation, vilket placerar evidensen på nivå L5 — enbart modellförutsägelse.
+Telmisartan är en angiotensinreceptorblockerare (ARB) som ursprungligen används mot högt blodtryck (hypertoni) och för att förebygga stroke. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **Prinzmetal angina** med mycket hög modellpoäng. Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, så den är i nuläget enbart en modellprediktion.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Hypertoni (globalt etablerad; ej godkänd i Sverige) |
+|------|------|
+| Ursprunglig indikation | Hypertoni och stroke/cerebrovaskulär sjukdom (enligt kunskapsgrafen, eftersom indikationstext saknas i de svenska godkännandena) |
 | Förutsagd ny indikation | Prinzmetal angina |
-| TxGNN-förutsägelsepoäng | 99,98% |
-| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
-| Marknadsstatus i Sverige | Ej godkänd |
-| Antal godkännanden | 0 |
+| TxGNN-förutsägelsepoäng | 99,98 % |
+| Evidensnivå | L5 (endast modellförutsägelse) |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 12 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta evidenspaket. Baserat på känd farmakologisk information är telmisartan en ARB som tillhör klassen AT1-receptorantagonister med den unika tilläggsegenskapen att vara en partiell PPARγ-agonist — vilket gett läkemedlet epitetet "metabosartan". Dess effekt vid hypertoni och sekundärprevention av kardiovaskulära händelser är väldokumenterad i globala registreringar.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för rapporten. Baserat på känd information är telmisartan en ARB, dess effekt vid hypertoni är väl belagd, och mekanistiskt kan den vara tillämpbar på Prinzmetal angina.
 
-Sambandet med Prinzmetal angina är teoretiskt men inte orimligt: vasospastisk angina beror på övergående koronart artärspasm, och angiotensin II kan via AT1-receptorer bidra till vasokonstriktion i koronarkärlen. AT1-blockad skulle teoretiskt kunna motverka detta. Därtill kan PPARγ-aktivering förbättra endotelfunktionen och minska vaskulär reaktivitet — en mekanism som kan vara relevant vid kärlspasm.
+Prinzmetal angina orsakas av kramp (vasospasm) i kranskärlen. En ARB blockerar angiotensin II-receptorn av typ 1, vilket motverkar kärlsammandragning. Telmisartan har dessutom förmodade effekter på kärlväggens funktion (endotelet). Detta ger en rimlig teoretisk koppling till sjukdomen.
 
-Kopplingen är dock rent spekulativ och saknar experimentellt stöd. Det finns varken kliniska studier, djurexperimentella data eller mekanistiska rapporter som specifikt undersökt telmisartans effekt vid Prinzmetal angina. TxGNN:s höga förutsägelsepoäng baseras på topologiska relationer i sjukdoms-läkemedels-grafen och bör tolkas som en hypotesgenererande signal snarare än ett kliniskt bevis.
+Kopplingen är dock **spekulativ** och stöds inte av några data som hämtats in. Den höga poängen visar att modellen ser ett samband i kunskapsgrafen, men säger ingenting om faktisk klinisk effekt.
 
 ---
 
@@ -79,13 +77,26 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Telmisartan är för närvarande **inte godkänt** på den svenska marknaden. Inga produktgodkännanden finns registrerade i detta underlag.
+Alla 12 godkännanden är indragna, och ingen produkt med telmisartan som enda substans är för närvarande giltig. Indikationstext saknas för samtliga godkännanden. Nedan visas fem av dem.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
+|---------|------|------|-----------|
+| 43296 | Telmisartan STADA | Filmdragerad tablett | STADA Arzneimittel AG |
+| 56365 | Telmark | Filmdragerad tablett | Glenmark Arzneimittel GmbH |
+| 48503 | Telmisartan Jubilant | Tablett | Jubilant Pharmaceuticals nv |
+| 61894 | Telmisartan Ebb | Filmdragerad tablett | Ebb Medical AB |
+| 48998 | Lesamor | Tablett | STADA Arzneimittel AG |
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Läkemedelsinteraktioner** (100 interaktioner identifierade, de viktigaste nedan):
+  - **Allvarliga (Major):** kaliumcitrat och kaliumbikarbonat. Risken är förhöjt kaliumvärde i blodet.
+  - **Måttliga (Moderate):** kortikosteroider (hydrokortison, dexametason, betametason, budesonid, triamcinolon), acetylsalicylsyra, SGLT2-hämmare (kanagliflozin, dapagliflozin, empagliflozin), insulin, exenatid, morfin, bupropion, dronabinol samt vissa tarmrengöringsmedel (natriumsulfat, pikosulfat, polyetylenglykol med elektrolyter).
+- **Sjukdomar där läkemedlet enligt kunskapsgrafen bör undvikas** (inte hämtat från produkttext): lever- och njursvikt, leversjukdom, gallvägssjukdom och kolestas, pankreatit, anuri, njurartärobstruktion, kaliumbrist, diabetes och diabetisk ketoacidos, gikt och hyperurikemi, hyperkalcemi, systemisk lupus erytematosus samt lågt blodtryck.
+
+Se produktresumén för fullständig säkerhetsinformation, varningar och kontraindikationer.
 
 ---
 
@@ -94,14 +105,15 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Trots en hög TxGNN-förutsägelsepoäng (99,98%) saknas all faktisk evidens för telmisartan vid Prinzmetal angina — varken kliniska prövningar, djurmodelldata eller publicerad litteratur finns tillgänglig för denna indikation. Förutsägelsen är biologiskt möjlig på teorinivå men har ännu inte testats experimentellt.
+- Förutsägelsen för Prinzmetal angina bygger enbart på modellens poäng, utan stöd från kliniska prövningar eller litteratur (evidensnivå L5). Dessutom har alla svenska godkännanden för telmisartan dragits in.
 
 **För att gå vidare krävs:**
-- Systematisk sökning efter prekliniska data: påverkar AT1-blockad och/eller PPARγ-aktivering koronart artärspasm i djurmodeller?
-- Litteraturgranskning utvidgad till angränsande ARB-preparat (losartan, valsartan, candesartan) vid vasospastisk angina för att bedöma klasseffekt
-- Mekanistisk bedömning: kartlägg överlappande patofysiologiska vägar mellan angiotensin II-signalering och koronart vasospasm
-- Komplettering av säkerhetsprofil via produktresumé och DrugBank API (MOA, kontraindikationer, DDI)
-- Om preklinisk signal identifieras: proof-of-concept pilotstudie (fas 2) för effekt och säkerhet vid Prinzmetal angina
+- Systematisk litteratursökning efter data om telmisartan eller andra ARB vid kranskärlskramp.
+- Prekliniska eller små kliniska studier som visar effekt på kranskärlens spasm.
+- Kompletterande data om verkningsmekanism och produktresumé för säkerhetsbedömning, särskilt kontraindikationer.
+- Klargörande av kommersiell tillgänglighet i Sverige, eftersom inga godkännanden är giltiga.
+
+**Observera:** Andra förutsagda indikationer för telmisartan har betydligt mer underlag än Prinzmetal angina, bland annat intracerebral blödning (evidensnivå L2, med en avslutad fas 3-studie av en trippelkombination) och cerebral artärocklusion (L3, huvudsakligen prekliniska studier). Dessa kan vara mer lovande att utvärdera vidare, men de ligger nära läkemedlets ursprungliga stroke-indikationer.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

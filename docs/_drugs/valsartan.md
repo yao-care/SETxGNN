@@ -2,7 +2,7 @@
 layout: default
 title: Valsartan
 parent: Endast modellprediktion (L5)
-nav_order: 110
+nav_order: 446
 evidence_level: L5
 indication_count: 7
 ---
@@ -31,69 +31,95 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 # Valsartan: Från hypertoni till malign renovaskulär hypertoni
 
-## Sammanfattning
+---
 
-Valsartan är en angiotensin II typ 1-receptorantagonist (ARB) som primärt används för behandling av hypertoni och hjärtsvikt. TxGNN-modellen förutsäger med 99,97% säkerhet att det kan vara effektivt mot **malign renovaskulär hypertoni**, med **1 publikation** som för närvarande stöder denna riktning. Mekanistiskt föreligger en stark koppling – malign renovaskulär hypertoni drivs av kraftig RAAS-aktivering, precis det system som valsartan blockerar via AT1-receptorn.
+### Sammanfattning
+
+Valsartan är en angiotensin II-receptorblockerare (ARB) som ursprungligen används för behandling av högt blodtryck (hypertoni). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **malign renovaskulär hypertoni**, men det finns **inga kliniska prövningar** och endast **1 publikation** (en preklinisk djurstudie) som stöder denna riktning. Evidensen är därmed svag och indirekt.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Hypertoni och hjärtsvikt |
+|------|------|
+| Ursprunglig indikation | Hypertoni (hypertensive disorder, hypertension); godkänd indikationstext saknas i de svenska godkännandena |
 | Förutsagd ny indikation | Malign renovaskulär hypertoni |
-| TxGNN-förutsägelsepoäng | 99,97% |
-| Evidensnivå | L3 – Observationsstudier / mekanismstudier |
-| Marknadsstatus i Sverige | Ej registrerad |
-| Antal godkännanden | 0 |
-| Rekommenderat beslut | Fortsätt med försiktighet |
+| TxGNN-förutsägelsepoäng | 99,97 % |
+| Evidensnivå | L4 (endast preklinisk/mekanistisk evidens) |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 20 (samtliga indragna) |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-Officiell MOA-data från DrugBank saknas i detta Evidence Pack, men baserat på tillgänglig information är valsartan en selektiv AT1-receptorantagonist (angiotensin II-receptorblockerare, ARB). Det hämmar angiotensin II:s kärlsammandragande och aldosteronstimulerande effekter, vilket sänker blodtrycket och minskar njurbelastningen.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Baserat på allmänt känd information blockerar valsartan angiotensin II typ 1-receptorn (AT1), vilket sänker blodtrycket vid hypertoni.
 
-Malign renovaskulär hypertoni uppstår typiskt vid njurartärstenos, som utlöser massiv, okontrollerad aktivering av renin-angiotensin-aldosteronsystemet (RAAS). Angiotensin II-nivåerna når extrema värden och orsakar en hypertonisk kris med risk för njur-, hjärt- och hjärnskada. Valsartans mekanism – direkt blockad av AT1-receptorn – är patofysiologiskt exakt riktad mot den centrala sjukdomsdrivaren i denna tillstånd.
+Malign hypertoni, särskilt den renin-beroende formen, drivs i hög grad av förhöjda nivåer av angiotensin II. Att blockera AT1-receptorn är därför mekanistiskt rimligt och i praktiken en förlängning av den godkända hypertoniindikationen.
 
-I klinisk praxis betraktas ARB:er och ACE-hämmare redan som hörnstenar i behandlingen av renovaskulär hypertoni, vilket ytterligare stärker mekanistisk relevans. Förutsägelsens rimlighet underbyggs av att valsartan angriper sjukdomsprocessen i sin kärna, inte enbart symptomlindrar.
-
----
-
-## Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande.
+Det enda stödjande underlaget är en djurstudie från 2001 som visade att AT1-blockad kunde förebygga dödlig malign hypertoni, kopplat till minskad njurinflammation. Eftersom det saknas kliniska studier på människa är sambandet indirekt.
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [11560862](https://pubmed.ncbi.nlm.nih.gov/11560862/) | 2001 | Djur-/Mekanismstudie | *Circulation* | AT1-receptorblockad förhindrade letalt förlöp vid malign hypertension i djurmodell, oberoende av blodtrycksänkande effekt. Resultaten kopplar angiotensin II-medierad njurinflammation till sjukdomsutvecklingen och stöder en direkt skyddande effekt av AT1-blockad. |
+|------|-----|------|------|---------|
+| [11560862](https://pubmed.ncbi.nlm.nih.gov/11560862/) | 2001 | Preklinisk (djurstudie) | Circulation | AT1-receptorblockad förebyggde dödlig malign hypertoni, kopplat till minskad njurinflammation. |
 
 ---
 
-## Säkerhetsaspekter
+### Marknadsinformation Sverige
 
-Se produktresumén för säkerhetsinformation.
+Samtliga 20 godkännanden är indragna. De fem första visas nedan; godkänd indikationstext saknas för dessa.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 42444 | Vivendal | Filmdragerad tablett | – |
+| 20465 | Angiosan | Filmdragerad tablett | – |
+| 17494 | Diovan | Filmdragerad tablett | – |
+| 42445 | Vivendal | Filmdragerad tablett | – |
+| 42438 | Valsartan Sandoz | Filmdragerad tablett | – |
 
 ---
 
-## Slutsats och nästa steg
+### Säkerhetsaspekter
 
-**Beslut: Fortsätt med försiktighet**
+**Kontraindikationer enligt kunskapsgraf (inte produkttext):** Följande tillstånd är kopplade till valsartan som kontraindikationer eller försiktighetsområden, bland annat:
+- Lever- och gallsjukdomar (leversvikt, leversjukdom, hepatisk encefalopati, gallblåsesjukdom, pankreatit)
+- Angioödem (inklusive ärftligt och RAAS-blockerarinducerat)
+- Njursjukdom och njurartärobstruktion, anuri, nedsatt njurfunktion
+- Kaliumbrist, hyperkalcemi, rubbad fosformetabolism, nefrokalcinos
+- Diabetes mellitus, diabetisk ketoacidos
+- Hypotoni
+- Neutropeni och agranulocytos
+- Systemisk lupus erythematosus, gikt
+
+**Läkemedelsinteraktioner (100 identifierade; de viktigaste):**
+- **Kaliumklorid och kaliumbikarbonat**: allvarlig (Major) interaktion, risk för hyperkalemi.
+- **Insuliner (flera typer) och exenatid**: måttlig interaktion, påverkan på blodsockerkontroll.
+- **Hydrokortison, eluxadolin, polyetylenglykol med elektrolyter**: måttliga interaktioner.
+
+Under graviditet bör läkemedel som påverkar renin-angiotensinsystemet undvikas, då de har kopplats till fosterskador (PMID 26105460).
+
+Se produktresumén för fullständig säkerhetsinformation.
+
+---
+
+### Slutsats och nästa steg
+
+**Beslut: Avvakta**
 
 **Motivering:**
-- Den mekanistiska kopplingen mellan valsartan och malign renovaskulär hypertoni är stark och välunderbyggd, men kliniska prövningsdata saknas helt för denna specifika indikation, och befintlig litteratur är begränsad till en enskild djurstudie.
+- Förutsägelsen är mekanistiskt rimlig men stöds endast av en preklinisk djurstudie och saknar kliniska prövningar. Dessutom är alla svenska godkännanden indragna.
 
 **För att gå vidare krävs:**
-- Genomförande av prospektiv klinisk prövning (fas 2) hos patienter med malign renovaskulär hypertoni
-- Inhämtning av fullständig produktresumé och säkerhetsdata (varningar, kontraindikationer) för att möjliggöra S1-säkerhetsbedömning
-- Komplettering av MOA-data via DrugBank API för formell mekanismanalys
-- Utredning av regulatorisk väg för eventuell registrering i Sverige (MPA/EMA)
-- Sökning efter ytterligare humanstudier, särskilt observationsstudier och kohortstudier, för att stärka evidensbasen från L3 till L2
+- Kliniska data på människa för valsartan vid malign renovaskulär hypertoni
+- Hämtning och genomgång av produktresumé för varningar och kontraindikationer
+- Komplettering av verkningsmekanismdata, t.ex. från DrugBank
+- Klargörande av regulatoriskt läge, eftersom inga giltiga godkännanden finns i Sverige
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

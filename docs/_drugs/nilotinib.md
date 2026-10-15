@@ -2,7 +2,7 @@
 layout: default
 title: Nilotinib
 parent: Endast modellprediktion (L5)
-nav_order: 78
+nav_order: 314
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,35 +29,37 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Nilotinib: Från kronisk myeloisk leukemi till dermatofibrosarkom
+# Nilotinib: Från kronisk myeloisk leukemi (BCR-ABL1-positiv) till dermatofibrosarcoma protuberans
+
+---
 
 ## Sammanfattning
 
-Nilotinib är en andra generationens tyrosinkinashämmare (BCR-ABL/PDGFR-β/c-Kit) som ursprungligen användes för behandling av kronisk myeloisk leukemi (KML). TxGNN-modellen förutsäger att det kan vara effektivt mot **dermatofibrosarkom (DFSP)**, med **0 kliniska prövningar** och **1 publikation** som för närvarande stöder denna riktning. Den mekanistiska kopplingen via PDGFR-β-hämning är biologiskt välgrundad, men direkt klinisk evidens för Nilotinib vid DFSP saknas i nuläget.
+Nilotinib är en tyrosinkinashämmare som ursprungligen användes för att behandla **kronisk myeloisk leukemi (KML), BCR-ABL1-positiv**. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **dermatofibrosarcoma protuberans (DFSP)**, en sällsynt hudtumör, med en mycket hög förutsägelsepoäng (99,3 %). Evidensen är i dagsläget mycket begränsad: **inga kliniska prövningar** och **en publikation** (en översiktsartikel) stöder denna riktning.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Kronisk myeloisk leukemi (KML) |
-| Förutsagd ny indikation | Dermatofibrosarkom (DFSP) |
-| TxGNN-förutsägelsepoäng | 99,3% |
-| Evidensnivå | L4 – Mekanismstudier |
-| Marknadsstatus i Sverige | Ej marknadsförd |
-| Antal godkännanden | 0 |
+|------|------|
+| Ursprunglig indikation | Kronisk myeloisk leukemi, BCR-ABL1-positiv (enligt kunskapsgrafen; produktregistret saknar indikationstext) |
+| Förutsagd ny indikation | Dermatofibrosarcoma protuberans |
+| TxGNN-förutsägelsepoäng | 99,3 % |
+| Evidensnivå | L4 (endast mekanism- och översiktslitteratur, inga kliniska prövningar) |
+| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Antal godkännanden | 3 (alla avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i Evidence Pack. Baserat på känd information är Nilotinib en andra generationens tyrosinkinashämmare som riktar sig mot BCR-ABL, PDGFR-β och c-Kit – med starkare bindningsaffinitet och bättre resistensprofil jämfört med sin föregångare Imatinib.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Baserat på känd information är nilotinib en tyrosinkinashämmare som utöver BCR-ABL1 också hämmar PDGFR, KIT och DDR1. Dess effekt vid KML bygger på hämning av det onkogena BCR-ABL1-proteinet.
 
-Dermatofibrosarkom (DFSP) orsakas av en t(17;22)-kromosomtranslokation som bildar en COL1A1–PDGFB-fusionsgen. Denna mutation leder till kontinuerlig autokrin aktivering av PDGFR-β-signalvägen, vilket driver tumörtillväxt. Nilotinibs direkta hämning av just PDGFR-β skapar därmed en direkt mekanistisk koppling till DFSP:s drivande onkogena mekanism.
+DFSP kännetecknas av en COL1A1-PDGFB-fusion, som leder till ständigt aktiv signalering via PDGFRB. Eftersom nilotinib kan blockera PDGFR är det mekanistiskt rimligt att läkemedlet kan bromsa tumörens tillväxtsignaler. Den höga förutsägelsepoängen (0,993) stämmer med denna gemensamma målbiologi.
 
-Stöd för signalvägens kliniska relevans ges av att Imatinib – ett äldre preparat med överlappande målprofil – redan 2006 godkändes av FDA för behandling av DFSP. Detta bekräftar att PDGFR-β-hämning är en kliniskt validerbar strategi vid denna diagnos. Nilotinib har dokumenterat starkare hämningseffekt mot Imatinib-resistenta mutanter, vilket gör det till en teoretiskt lovande andralinjekandidat vid Imatinib-svikt – men direkta kliniska prövningsdata för Nilotinib vid DFSP saknas.
+Ett stöd på klassnivå är att imatinib, en besläktad PDGFR-/ABL-hämmare, är en etablerad behandling vid inoperabel eller metastaserad DFSP. Det finns dock **inga nilotinibspecifika kliniska data** i underlaget, så sambandet är hittills hypotetiskt.
 
 ---
 
@@ -70,26 +72,46 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 ## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [29408302](https://pubmed.ncbi.nlm.nih.gov/29408302/) | 2018 | Översiktsartikel | Pharmacological Research | Genomgång av småmolekylära PDGFR-hämmares roll vid neoplastiska tillstånd; PDGF-familjen spelar central roll i cellproliferation via PDGFR-aktivering, med implikationer för PDGFR-drivna tumörer inklusive DFSP |
+|------|-----|------|------|---------|
+| [29408302](https://pubmed.ncbi.nlm.nih.gov/29408302/) | 2018 | Översiktsartikel | Pharmacological Research | Beskriver PDGF-familjen och rollen för småmolekylära PDGFR-hämmare vid behandling av neoplastiska sjukdomar. Ger mekanistisk bakgrund men inga nilotinibspecifika kliniska resultat vid DFSP. |
+
+---
+
+## Marknadsinformation Sverige
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 65027 | Nilotinib Zentiva | Kapsel, hård | Ingen indikationstext tillgänglig (avregistrerad) |
+| 65028 | Nilotinib Zentiva | Kapsel, hård | Ingen indikationstext tillgänglig (avregistrerad) |
+| 65029 | Nilotinib Zentiva | Kapsel, hård | Ingen indikationstext tillgänglig (avregistrerad) |
 
 ---
 
 ## Cytotoxicitet
 
 | Post | Innehåll |
-|------|----------|
-| Cytotoxicitetsklassificering | Målriktad terapi – Tyrosinkinashämmare (TKI), andra generationen |
-| Myelosuppressionsrisk | Se produktresumén för varningar och försiktighetsåtgärder |
+|------|------|
+| Cytotoxicitetsklassificering | Målriktad terapi (tyrosinkinashämmare) |
+| Myelosuppressionsrisk | Se produktresumén för varningar och försiktighetsåtgärder. Kunskapsgrafen anger dock neutropeni, trombocytopeni och anemi som tillstånd där försiktighet är motiverad. |
 | Emetogenicitetsklassificering | Se produktresumén för varningar och försiktighetsåtgärder |
-| Övervakningspunkter | Se produktresumén för varningar och försiktighetsåtgärder |
-| Hanteringsskydd | Bör hanteras enligt gällande rutiner för cytotoxiska läkemedel |
+| Övervakningspunkter | Blodstatus, leverfunktion (bilirubin), elektrolyter (kalium, kalcium, fosfat), blodsocker samt EKG (QT-tid) |
+| Hanteringsskydd | Se produktresumén för varningar och försiktighetsåtgärder |
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Tillstånd som kunskapsgrafen anger som kontraindikationer** (inte hämtade från produktresumén, bör verifieras):
+  - Hjärtrytm och blodtryck: långt QT-syndrom (även ärftligt), torsades de pointes, högt blodtryck
+  - Lever och gallvägar: leversjukdom, sjukdom i gallblåsan, hyperbilirubinemi (inklusive Gilberts syndrom), pankreatit
+  - Blodet: trombocytopeni, neutropeni, agranulocytos, anemi (inklusive makrocytär anemi)
+  - Ämnesomsättning: hyperglykemi, diabetes, diabetesketoacidos, kaliumbrist, hyperkalcemi, nefrokalcinos, fosforrubbningar, hypofosfatemi
+
+- **Läkemedelsinteraktioner** (100 interaktioner identifierade, de viktigaste nedan):
+  - **Allvarliga (Major):** dexametason, klaritromycin, pikosulfat, polyetylenglykol (3350 med elektrolyter)
+  - **Måttliga (Moderate), urval:** protonpumpshämmare och H2-blockerare (omeprazol, rabeprazol, famotidin, ranitidin, cimetidin), kortikosteroider (hydrokortison, betametason, budesonid, triamcinolon), pioglitazon, loperamid, bupropion, aprepitant, saxagliptin, bisakodyl
+
+Eftersom uppgifter från produktresumén saknas bör **Se produktresumén för säkerhetsinformation** gälla som komplettering.
 
 ---
 
@@ -98,14 +120,14 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-Trots att TxGNN-modellen ger ett mycket högt förutsägelsepoäng (99,3%) och den mekanistiska kopplingen via PDGFR-β är biologiskt välgrundad, saknas det i nuläget registrerade kliniska prövningar för Nilotinib vid DFSP. Befintlig evidens stannar vid en enstaka översiktsartikel om PDGFR-hämmare generellt (L4), vilket är otillräckligt för vidare klinisk planering utan ytterligare underlag.
+- Den mekanistiska logiken (PDGFR-hämning vid COL1A1-PDGFB-driven DFSP) och den höga modellpoängen är lovande, men det finns inga kliniska prövningar och endast en översiktsartikel. Dessutom saknas säkerhetsdata från produktresumén och alla svenska godkännanden är avregistrerade.
 
 **För att gå vidare krävs:**
-- Systematisk litteraturgenomgång av fallrapporter och fallserier där Nilotinib använts vid DFSP (retrospektiva data)
-- Säkerhetsdata: Inhämtning av fullständig produktresumé och TFDA-varningstext för Nilotinib
-- Utredning om pågående eller planerade investigator-initierade prövningar (IIT) för Nilotinib vid solida tumörer med PDGFR-aktivering
-- Konsultation med sarkomspecialister för att bedöma klinisk behovsbild och jämföra med befintlig Imatinib-indikation för DFSP
-- Vid positivt utfall av ovanstående: Design av en fas 2-prövning (single-arm, historisk kontroll) för Nilotinib som andralinjebehandling vid Imatinib-refraktär DFSP
+- Systematisk litteratursökning efter nilotinibspecifika data vid DFSP (fallserier, fas 2-studier) och jämförelse med imatinib
+- Hämtning av verkningsmekanismdata från DrugBank
+- Hämtning och genomgång av produktresumén (varningar, kontraindikationer), särskilt QT-förlängning, lever- och blodtoxicitet
+- Utvärdering av interaktionsrisker, särskilt med CYP3A4-hämmare/-inducerare och syrahämmande läkemedel
+- Klarläggning av tillgänglighet i Sverige, eftersom alla godkännanden är avregistrerade
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

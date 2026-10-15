@@ -2,7 +2,7 @@
 layout: default
 title: Fentanyl
 parent: Endast modellprediktion (L5)
-nav_order: 48
+nav_order: 194
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,53 +29,68 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Fentanyl: Från smärtlindring till nefrogen syndrom med inadekvat antidiures
+# Fentanyl: Från smärtbehandling (indikationstext saknas) till nefrogent syndrom med olämplig antidures
+
+---
 
 ## Sammanfattning
 
-Fentanyl är ett potent syntetiskt opioid som primärt används för behandling av svår smärta, inklusive cancersmärta och perioperativ analgesi. TxGNN-modellen förutsäger att substansen potentiellt kan vara verksam mot **nefrogen syndrom med inadekvat antidiures (NSIAD)**, med ett förutsägelsepoäng på 99,46 %. Det saknas dock helt kliniska prövningar och publicerad litteratur som stöder detta användningsområde, varför evidensläget klassificeras som L5.
+Fentanyl är en kraftfull opioid (mu-opioidreceptoragonist) som i Sverige har funnits som depotplåster. Den ursprungliga godkända indikationstexten finns inte i de sammanställda uppgifterna. TxGNN-modellen förutsäger att fentanyl kan vara effektivt mot **nefrogent syndrom med olämplig antidures** (poäng 99,5 %), men det finns **0 kliniska prövningar** och **0 publikationer** som stöder detta. Förutsägelsen är därför enbart en modellberäkning.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|---------|
-| Ursprunglig indikation | Ej registrerad i Sverige |
-| Förutsagd ny indikation | Nefrogen syndrom med inadekvat antidiures (NSIAD) |
-| TxGNN-förutsägelsepoäng | 99,46 % |
-| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
-| Marknadsstatus i Sverige | Ej godkänd |
-| Antal godkännanden | 0 |
+|------|------|
+| Ursprunglig indikation | Ej tillgänglig (godkännandenas indikationstexter är tomma) |
+| Förutsagd ny indikation | Nefrogent syndrom med olämplig antidures |
+| TxGNN-förutsägelsepoäng | 99,5 % |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta evidenspaket. Baserat på allmänt känd farmakologi är Fentanyl ett syntetiskt opioid och en potent **mu-opioidreceptoragonist (MOR)**. Substansen verkar genom att binda till MOR i centrala och perifera nervsystemet, vilket dämpat smärtsignalering. Kliniskt används den för svår akut och kronisk smärta. Någon formellt registrerad indikation i Sverige finns inte i de tillgängliga datakällorna.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Fentanyl är känt som en potent full mu-opioidreceptoragonist.
 
-**Nefrogen syndrom med inadekvat antidiures (NSIAD)** är ett sällsynt X-länkat tillstånd orsakat av aktiverande mutationer i *AVPR2*-genen, som kodar för V2-vasopressinreceptorn. Mutationerna ger konstitutiv receptoraktivering, persistent vattenretention och dilutional hyponatremi – trots att ADH-nivåerna är omätbara. Tillståndet representerar den nefrogena varianten av SIADH-spektrumet och saknar godkänd specifik behandling.
+Något etablerat mekanistiskt samband med den förutsagda indikationen kan inte påvisas. Opioider kan påverka frisättningen av vasopressin (ADH) och har kopplats till antidurestiska effekter. Nefrogent syndrom med olämplig antidures orsakas dock av aktiverande mutationer i vasopressin V2-receptorn (AVPR2) i njuren, oberoende av cirkulerande ADH. En mu-opioidagonist kan inte förväntas korrigera en konstitutivt aktiv V2-receptor.
 
-Sambandet mellan fentanyl och NSIAD är indirekt och spekulativt. Mu-opioidreceptorn och V2-receptorn delar delvis intracellulära signalvägar via cAMP/PKA-kaskaden, och opioidagonister har i begränsad utsträckning associerats med förändringar i renal vattenhomeostas i djurmodeller. TxGNN-modellen identifierade detta mönster via kunskapsgrafens topologi, men varken experimentell eller klinisk evidens för fentanyl vid NSIAD finns tillgänglig. Den mekanistiska länken kräver ytterligare utredning innan biologisk plausibilitet kan fastställas.
+Den höga poängen är alltså en beräkningsmässig förutsägelse utan stöd i mekanistiska eller kliniska data. Fentanyl skulle snarare kunna förvärra vätskeretention eller hyponatremi via ADH-relaterade vägar, vilket är ett säkerhetsproblem och inte ett terapeutiskt argument.
 
----
-
-## Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande.
+**Andra förutsagd indikation (för jämförelse):** Tourettes syndrom (poäng 99,0 %, evidensnivå L5). Det finns ett svagt och indirekt rationale, eftersom det endogena opioidsystemet har kopplats till tics och vissa opioidmodulerande substanser (t.ex. buprenorfin, naltrexon) har prövats i små studier eller fallrapporter. Fentanyl är dock en potent full agonist med hög missbruksrisk, risk för andningsdepression och beroende, vilket gör det olämpligt för ett kroniskt tillstånd som ofta drabbar barn och ungdomar.
 
 ---
 
-## Litteraturbevis
+## Marknadsinformation Sverige
 
-Ingen relaterad litteratur tillgänglig för närvarande.
+Alla 20 godkännanden är indragna och inga är giltiga. Samtliga är depotplåster. Indikationstexter saknas i underlaget.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
+|---------|------|------|------|------|
+| 25590 | Fentanyl Sandoz | Depotplåster | Sandoz A/S | Indraget |
+| 23434 | Fentanyl Actavis | Depotplåster | Actavis Group PTC ehf. | Indraget |
+| 23382 | Quatrofen | Depotplåster | Istituto Gentili S.r.l. | Indraget |
+| 21289 | Matrifen | Depotplåster | Istituto Gentili S.r.l. | Indraget |
+| 12484 | Durogesic | Depotplåster | Janssen-Cilag AB | Indraget |
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Kontraindikationer enligt kunskapsgrafen (PrimeKG, inte produkttext):** Följande sjukdomar är kopplade till fentanyl som kontraindikation i modellens kunskapsgraf:
+  - Hjärt-kärl: hypertoni, ortostatisk hypotension, hypotension, postural ortostatisk takykardisyndrom, multipel systematrofi, långt QT-syndrom (även ärftligt) och torsades de pointes
+  - Lever, njure och mag-tarm: leversvikt, leversjukdom, njursjukdom, pankreatit, gallblåsesjukdom och inflammatorisk tarmsjukdom
+  - Andningsvägar: kroniskt obstruktiv lungsjukdom (KOL) och astma (inklusive intrinsisk och allergisk)
+  - Neurologi och psykiatri: sjukdomar i basala ganglierna, fokal handdystoni, blefarospasm, ångestsyndrom, neuros, dystymi och substansmissbruk/beroende
+  - Övrigt: pyouretär, kaliumbrist och benign prostatahyperplasi
+- **Läkemedelsinteraktioner:** Totalt 100 interaktioner identifierades. Exempel på **allvarliga (Major)** interaktioner: alvimopan, aprepitant, bupropion, klaritromycin, klotrimazol, dexametason, dexfenfluramin, fenfluramin, dolasetron, granisetron och lorcaserin. Exempel på **måttliga (Moderate)** interaktioner: atropin, cimetidin, klidinium, dicyklomin, dronabinol, eluxadolin, glycerolfenylbutyrat, glykopyrronium och hyoscyamin.
+- **Särskild risk vid den förutsagda indikationen:** Fentanyl kan potentiellt förvärra vattenretention och hyponatremi via ADH-relaterade vägar.
+
+Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se produktresumén för fullständig säkerhetsinformation.
 
 ---
 
@@ -84,13 +99,14 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensnivån är L5 – förutsägelsen baseras uteslutande på TxGNN:s beräkningsmodell. Varken kliniska prövningar, observationsstudier eller publicerade fallrapporter kopplar fentanyl till behandling av NSIAD. Den mekanistiska länken är indirekt och har inte validerats experimentellt. Läkemedlet är dessutom inte godkänt i Sverige, och fullständig säkerhetsdokumentation saknas i evidenspaketet.
+- Förutsägelsen bygger enbart på en modellberäkning (evidensnivå L5) utan kliniska prövningar eller litteratur, och det finns inget plausibelt mekanistiskt samband. Dessutom innebär fentanyls missbruks-, beroende- och andningsdepressionsrisker samt möjlig förvärring av vätskeretention en ogynnsam nytta–riskbalans. Alla svenska godkännanden är indragna.
 
 **För att gå vidare krävs:**
-- Prekliniska studier som utvärderar mu-opioidreceptorns påverkan på AVPR2-signalering och renal vattenhomeostas
-- Identifiering av en biologiskt plausibel mekanistisk länk mellan MOR-agonism och NSIAD-patofysiologi
-- Minst en publicerad fallrapport, observationsstudie eller mekanistisk studie som stöder indikationen
-- Formell säkerhetsbedömning inklusive fullständig produktresumé, varningsanalys och kontraindikationsgenomgång
+- Produktresumé från Läkemedelsverket med varningar, kontraindikationer och godkänd indikation
+- Verkningsmekanismdata från DrugBank
+- Prekliniska data som visar en trovärdig effekt på AVPR2-medierad antidures
+- Sökning efter kliniska prövningar och publikationer för den förutsagda indikationen
+- Bedömning av alternativa läkemedel med bättre mekanistisk och säkerhetsmässig profil
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

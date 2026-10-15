@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Fulvestrant
-parent: Måttlig evidens (L3-L4)
-nav_order: 52
-evidence_level: L4
+parent: Endast modellprediktion (L5)
+nav_order: 210
+evidence_level: L5
 indication_count: 10
 ---
 
 # Fulvestrant
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,73 +29,88 @@ Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 
 </div>
 
-Jag har läst in TxGNN-pipeline-skillet och analyserar nu Evidence Pack:et för Fulvestrant. Rapporten genereras nedan.
+# Fulvestrant: Från bröstcancer till HIV-infektion
 
 ---
 
-# Fulvestrant: Från bröstcancer till HIV-infektion
-
 ## Sammanfattning
 
-Fulvestrant är en selektiv östrogenreceptordegraderare (SERD) som globalt är godkänd för behandling av hormonreceptorpositiv (HR+) avancerad bröstcancer hos postmenopausala kvinnor, men som ännu inte är godkänd på den svenska marknaden. TxGNN-modellen rankar **HIV-infektion** som den högst förutsagda nya indikationen med en poäng på 99,91%. Evidensunderlaget är dock ytterst svagt – det finns **inga registrerade kliniska prövningar** och den enda identifierade publikationen handlar om HTLV-1 (ett annat retrovirus), inte HIV – vilket tyder på att förutsägelsen med stor sannolikhet är en modellbaserad **falsk positiv** snarare än ett biologiskt underbyggt terapeutiskt samband.
+Fulvestrant är en selektiv östrogenreceptornedbrytare (SERD). Läkemedlets ursprungliga godkända indikation framgår inte av den svenska licensdatan, men substansen är känd som endokrin behandling vid hormonreceptorpositiv bröstcancer. TxGNN-modellen förutsäger att det kan vara effektivt mot **HIV-infektion**, men underlaget är svagt: **0 kliniska prövningar** och **2 publikationer**, varav endast en är en preklinisk studie med direkt koppling till HIV. Förutsägelsen är i nuläget en forskningsfråga.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Ej godkänd i Sverige (globalt: HR+/HER2-negativ avancerad bröstcancer) |
+|------|------|
+| Ursprunglig indikation | Ej angiven i den svenska licensdatan (bröstcancer enligt allmänt känd användning) |
 | Förutsagd ny indikation | HIV-infektion |
-| TxGNN-förutsägelsepoäng | 99,91% |
-| Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Ej marknadsförd |
-| Antal godkännanden i Sverige | 0 |
+| TxGNN-förutsägelsepoäng | 99,9 % |
+| Evidensnivå | L4 (prekliniska studier/mekanismstudier) |
+| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Antal godkännanden | 10 (samtliga avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-Fulvestrant verkar som en selektiv östrogenreceptordegraderare: det binder till östrogenreceptorn (ERα) med hög affinitet, inducerar en konformationsförändring som markerar receptorn för proteasomal nedbrytning och stänger av ER-beroende gentranskription. Denna mekanism är specifikt designad för att eliminera östrogenreceptorsignalering i hormonberoende cancerceller – vilket förklarar dess etablerade effekt vid HR+ bröstcancer.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för rapporten. Fulvestrant är dock allmänt känt som en selektiv östrogenreceptornedbrytare: det binder till östrogenreceptorn och bryter ned den, vilket stänger av östrogenberoende signalering. Det är grunden för effekten vid hormonreceptorpositiv bröstcancer.
 
-HIV-infektion drivs av ett helt annat biologiskt program: viruset binder CD4-receptorn och CCR5/CXCR4-koreceptorerna på T-celler, transkriberar sitt RNA-genom med ett eget omvänt transkriptas och integrerar sig i värdcellens DNA via ett viralt integras. Fulvestrants SERD-mekanism saknar alla kända interventionspunkter mot dessa steg i HIV:s replikationscykel.
+Kopplingen till HIV är indirekt. Östrogenreceptor alfa (ERα) finns i CD4+ T-celler, och det har föreslagits att receptorn kan påverka HIV-transkription och latens (virusets "vilande" tillstånd i cellerna). En preklinisk studie från 2026 undersökte hur östrogen, fulvestrant och latensreverserande läkemedel påverkar ERα i CD4+ T-celler.
 
-TxGNN:s höga poäng för denna kombination härrör med stor sannolikhet från en **grafpropagationsartefakt**: den enda tillgängliga publikationen (PMID 40343334) studerar HTLV-1-associerad myelopati – ett neurologiskt tillstånd orsakat av ett *annat* retrovirus – och nämner HIV-behandlingsstrategier enbart som inspirationskälla. I TxGNN:s kunskapsgraf ligger HTLV-1- och HIV-noder nära varandra, vilket har spridit signalen till HIV-noden. Förutsägelsen bedöms sakna biologisk plausibilitet och utgör ett falskt positivt fynd.
+Resonemanget är rimligt men ännu obekräftat. Det finns inga kliniska prövningar, och ER-signalering i immunceller är komplex. Den höga modellpoängen speglar sannolikt mest ett samband i kunskapsgrafen, inte belagd klinisk nytta.
 
 ---
 
 ## Kliniska prövningar
 
-Inga relaterade kliniska prövningar registrerade för närvarande.
+Inga relaterade kliniska prövningar registrerade för närvarande för HIV-infektion.
 
 ---
 
 ## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [40343334](https://pubmed.ncbi.nlm.nih.gov/40343334/) | 2025 | Multi-kohort cross-omics | Research Square (preprint) | Systembiologisk analys av HTLV-1-associerad myelopati (HAM) – en neurologisk sjukdom orsakad av HTLV-1, *inte HIV*. Studien identifierar patogenesmekanismer och terapeutiska mål vid HAM, med HIV- och MS-strategier som referenspunkter. Ingen direkt koppling till Fulvestrant eller HIV-behandling. |
+|------|-----|------|------|---------|
+| [42430506](https://pubmed.ncbi.nlm.nih.gov/42430506/) | 2026 | Preklinisk/in vitro-studie | JCI Insight | Undersöker effekten av östrogen, fulvestrant och latensreverserande läkemedel på ERα i CD4+ T-celler. Stöder hypotesen att ER-signalering kan påverka HIV-latens. |
+| [40343334](https://pubmed.ncbi.nlm.nih.gov/40343334/) | 2025 | Tväromisk kohortanalys | Research Square | Gäller HTLV-1-associerad myelopati, inte HIV. Begränsad direkt relevans. |
+
+---
+
+## Marknadsinformation Sverige
+
+Samtliga 10 godkännanden är avregistrerade. Godkänd indikation saknas i licensdatan.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 60346 | Fulvestrant Medical Valley | Injektionsvätska, lösning i förfylld spruta | Ej angiven |
+| 51622 | Fulvestrant Sandoz | Injektionsvätska, lösning i förfylld spruta | Ej angiven |
+| 64820 | Fulvestrant STADA Nordic | Injektionsvätska, lösning i förfylld spruta | Ej angiven |
+| 61183 | Fulvestrant Reddy | Injektionsvätska, lösning i förfylld spruta | Ej angiven |
+| 58013 | Fulvestrant Accord | Injektionsvätska, lösning i förfylld spruta | Ej angiven |
 
 ---
 
 ## Cytotoxicitet
 
-Fulvestrant klassificeras som ett antineoplastiskt läkemedel (endokrin behandling) baserat på läkemedelsklass (SERD) och dess globala användning inom cancerbehandling.
-
 | Post | Innehåll |
-|------|----------|
-| Cytotoxicitetsklassificering | Målriktad terapi – endokrin behandling (selektiv östrogenreceptordegraderare, SERD); ej konventionellt cytotoxiskt agens |
-| Myelosuppressionsrisk | Se produktresumén för varningar och försiktighetsåtgärder |
-| Emetogenicitetsklassificering | Se produktresumén för varningar och försiktighetsåtgärder |
+|------|------|
+| Cytotoxicitetsklassificering | Hormonell/endokrin behandling (SERD), inte konventionellt cytotoxisk |
+| Myelosuppressionsrisk | Ingen data tillgänglig. Se produktresumén. |
+| Emetogenicitetsklassificering | Ingen data tillgänglig. Se produktresumén. |
 | Övervakningspunkter | Se produktresumén för varningar och försiktighetsåtgärder |
-| Hanteringsskydd | Hanteras enligt gällande riktlinjer för antineoplastiska läkemedel |
+| Hanteringsskydd | Se produktresumén för varningar och försiktighetsåtgärder |
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Möjliga kontraindikationer enligt kunskapsgraf** (inte hämtade från produktresumé): leversjukdom, gallblåsesjukdom, trombocytopeni och blodkoagulationsrubbning. Dessa bör verifieras mot produktresumén.
+- **Läkemedelsinteraktioner**: 92 möjliga interaktioner identifierades, men ingen har fått allvarlighetsgrad (alla "okänd"). Exempel: warfarin, acetylsalicylsyra, metformin, simvastatin, dexametason, prednison, omeprazol, pantoprazol och ondansetron. Warfarin är särskilt relevant att beakta med tanke på koagulationsrisk.
+- **Preklinisk signal vid reumatoid artrit**: en djurstudie tyder på att östrogenblockad kan förvärra inflammation. Det kan vara relevant för immunmodulerande användning.
+
+Se produktresumén för fullständig säkerhetsinformation.
 
 ---
 
@@ -104,13 +119,15 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- TxGNN:s toppförutsägelse (HIV-infektion, 99,91%) bedöms som ett falskt positivt resultat orsakat av grafnodsnärhet mellan HTLV-1 och HIV i kunskapsgrafen. Det saknas fullständigt biologisk plausibilitet för en SERD-intervention mot HIV:s replikationscykel, och inget direkt kliniskt eller prekliniskt stöd existerar.
+- Evidensen är endast preklinisk (L4) och inga kliniska prövningar finns för HIV. Samtliga svenska godkännanden är dessutom avregistrerade, och viktig säkerhets- och mekanismdata saknas.
+- Övriga förutsägelser med höga poäng (t.ex. multipel endokrin neoplasi) beror sannolikt på att bröstcancerstudier har matchats, inte på verklig koppling.
 
 **För att gå vidare krävs:**
-- Omvärdering mot alternativa indikationer med starkare biologisk plausibilitet – exempelvis **multipel endokrin neoplasi** (rang 2, 99,85%), där ER-uttryck i pNET och prolaktinom ger en mekanistisk grund och 50 indirekta kliniska prövningar identifierats
-- Komplettering av MOA-data via DrugBank API (åtgärdspost DG002)
-- Inhämtning av säkerhetsinformation från produktresumé / TFDA (åtgärdspost DG001) innan säkerhetsbedömning kan genomföras
-- Litteratursökning med specificerade söktermer kopplade till SERD + respektive ny indikation för att bekräfta eller avfärda biologisk plausibilitet
+- Fler prekliniska studier som bekräftar att ERα-nedbrytning påverkar HIV-latens och virusreplikation, helst i primära celler och djurmodeller.
+- Hämta produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer.
+- Komplettera mekanismdata (verkningsmekanism) från DrugBank.
+- Bedöma praktisk genomförbarhet: fulvestrant ges som intramuskulär injektion, och långtidsbehandling vid HIV skulle kräva särskild säkerhetsutvärdering.
+- Utvärdera om ett tidigt säkerhets- och proof-of-concept-studieupplägg är motiverat om de prekliniska resultaten stärks.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

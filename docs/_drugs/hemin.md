@@ -2,7 +2,7 @@
 layout: default
 title: Hemin
 parent: Endast modellprediktion (L5)
-nav_order: 56
+nav_order: 221
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,69 +29,76 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Hemin: Från akut hepatisk porfyri till trombocytopenisk purpura
-
-## Sammanfattning
-
-Hemin (järnprotoporfyrin IX) används etablerat för att behandla akuta attacker vid akut hepatisk porfyri (AHP) genom att hämma ALAS1-enzymet och därigenom minska ackumulationen av neurotoxiska porfyrinprekursorer. TxGNN-modellen förutsäger att hemin kan vara effektivt mot **trombocytopenisk purpura** via induktion av hemoxygenas-1 (HO-1) och antiinflammatorisk immunmodulering. Förutsägelsen saknar för närvarande stöd av kliniska prövningar eller direkt litteratur – evidensnivån är **L5** (enbart modellförutsägelse).
+# Hemin: Från akut intermittent porfyri till trombocytopen purpura
 
 ---
 
-## Snabböversikt
+### Sammanfattning
+
+Hemin användes ursprungligen för att behandla akut intermittent porfyri, en sällsynt ärftlig sjukdom i hembiosyntesen. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **trombocytopen purpura**, men det finns **inga kliniska prövningar** och **ingen litteratur** som stöder just denna riktning. Förutsägelsen bygger enbart på en datormodell (evidensnivå L5).
+
+---
+
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Akut hepatisk porfyri (ej godkänd i Sverige) |
-| Förutsagd ny indikation | Trombocytopenisk purpura |
-| TxGNN-förutsägelsepoäng | 99,79 % |
-| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
-| Marknadsstatus i Sverige | Ej godkänd (0 godkännanden) |
-| Antal godkännanden | 0 |
+|------|------|
+| Ursprunglig indikation | Akut intermittent porfyri (enligt kunskapsgrafen; svensk indikationstext saknas i godkännandet) |
+| Förutsagd ny indikation | Trombocytopen purpura |
+| TxGNN-förutsägelsepoäng | 99,8 % |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 1 |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-Hemin verkar via två sammankopplade mekanismer. Den primära effekten vid porfyri är återkopplingshämning av ALAS1, det hastighetsbegränsande enzymet i hembiosyntesen, vilket minskar ackumulationen av neurotoxiska porfyrinprekursorer ALA och porfobilinogen. Den sekundära mekanismen – och den som är relevant för trombocytopenisk purpura – är induktion av hemoxygenas-1 (HO-1), ett stressinducerbart enzym med potenta antiinflammatoriska och immunmodulerande egenskaper.
+Det finns för närvarande ingen detaljerad verkningsmekanismdata tillgänglig. Hemin tillför hem och fyller på den hepatiska hempoolen, vilket är grunden för effekten vid akut intermittent porfyri. Hemin kan också inducera hemoxygenas-1.
 
-Mekanistisk länk till trombocytopenisk purpura: HO-1 katalyserar nedbrytningen av hem till kolmonoxid (CO), biliverdin och fritt järn. CO aktiverar löslig guanylatcyklas och höjer cGMP-nivåerna, vilket hämmar blodplättaktivering och aggregation. Därutöver kan HO-1/biliverdin-axeln teoretiskt dämpa den immunmedierade trombocytförstöringen som är den centrala patofysiologin vid immuntrombocytopenisk purpura (ITP), genom reglering av Th1/Th2-balansen och minskad oxidativ stress.
+Det finns dock inget i underlaget som kopplar dessa effekter till sjukdomar med låga trombocyter. Den mycket höga modellpoängen (0,998) är en beräkningsmässig förutsägelse och stöds inte av studier eller publikationer. Ett mekanistiskt samband kan därför inte styrkas i nuläget.
 
-Det mekanistiska sambandet är logiskt uppbyggt men förblir hittills rent teoretiskt. Ingen klinisk prövning eller preklinisk studie med hemin specifikt vid trombocytopenisk purpura har återfunnits. TxGNN-modellens höga poäng (99,79 %) kan delvis förklaras av grafnätverkets topologi – blodsjukdomsnoder och trombocytopeninoder delar grannskapet med hemin-/porfyrin-noder i kunskapsgrafen, vilket kan ge upphov till ett närhetsbetingat högt poängvärde utan ett verkligt terapeutiskt samband. En ITP-musmodell rekommenderas som obligatoriskt nästa steg för mekanistisk validering.
-
----
-
-## Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande.
+Övriga förutsägelser från modellen ligger också nära toppen (poäng 0,991–0,998) och rör främst blödnings- och koagulationssjukdomar samt C1-hämmarbrist. Inte heller för dessa finns stödjande evidens. Hemin har dessutom rapporterats ha övergående effekter på koagulationen, vilket är en säkerhetsaspekt snarare än ett skäl för behandling.
 
 ---
 
-## Litteraturbevis
+### Marknadsinformation Sverige
 
-Ingen relaterad litteratur tillgänglig för närvarande.
-
----
-
-## Säkerhetsaspekter
-
-Se produktresumén för säkerhetsinformation.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 15349 (indraget) | Normosang | Koncentrat till infusionsvätska, lösning | Indikationstext saknas |
 
 ---
 
-## Slutsats och nästa steg
+### Säkerhetsaspekter
+
+- **Läkemedelsinteraktioner**: Sammanlagt 74 interaktioner är registrerade. Bland de 20 som listas i underlaget är följande av **allvarlig (Major)** grad:
+  - Etinylestradiol
+  - Östradiol
+  - Konjugerade östrogener
+  - Butalbital
+  - Amobarbital
+  - Fenobarbital
+- Flera interaktioner av **måttlig (Moderate)** grad rör läkemedel som påverkar blodets koagulation eller trombocytfunktion, till exempel acetylsalicylsyra, abciximab, alteplas, apixaban, dipyridamol, anagrelid, antitrombin III och betrixaban. Detta är särskilt relevant för de förutsagda blödnings- och koagulationsindikationerna.
+- Övriga måttliga interaktioner: ibritumomab tiuxetan, tositumomab (I-131), acalabrutinib, trastuzumab emtansin och avapritinib.
+
+Varningar och kontraindikationer från produktresumén saknas i underlaget. Se produktresumén för fullständig säkerhetsinformation.
+
+---
+
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen baseras uteslutande på TxGNN-modellens graftraversering (L5, beslutssteg S0) utan stöd av kliniska prövningar, djurstudier eller klinisk litteratur specifikt för trombocytopenisk purpura. Det föreslagna mekanistiska sambandet via HO-1/CO/cGMP-axeln är biologiskt plausibelt men saknar varje form av experimentell bekräftelse.
+- Förutsägelsen för trombocytopen purpura stöds endast av modellen (L5), utan kliniska prövningar eller litteratur och utan känd verkningsmekanism. De tre publikationer som hittats för hemofili gäller givosiran vid akut hepatisk porfyri och ger inget stöd för den nya indikationen.
 
 **För att gå vidare krävs:**
-- Preklinisk validering i ITP-musmodell (t.ex. anti-CD41-antikroppsinducerad trombocytopenimodell) med HO-1-induktionsmätning och trombocyträkning som primärt utfall
-- Fastställande av dosregim som uppnår tillräcklig HO-1-induktion utan toxisk ackumulering av fritt hem
-- Systematisk litteraturöversikt avseende andra HO-1-inducenters effekter vid immunmedierad trombocytopeni som surrogatbevis
-- Insamling av hemins fullständiga säkerhetsprofil (varningar, kontraindikationer och interaktionsdata saknas i nuläget)
-- Notera: Bland de 10 förutsagda indikationerna har **hemofili (rank 2, L4)** starkare mekanistiskt stöd – en direkt djurstudie (PMID [19890094](https://pubmed.ncbi.nlm.nih.gov/19890094/)) visar att HO-1-induktion reducerar anti-FVIII-immunsvar i FVIII-bristfälliga möss. Hemofili-spåret bör prioriteras parallellt som den translationellt mognare hypotesen.
+- Hämta verkningsmekanismen för hemin (till exempel från DrugBank) och analysera ett eventuellt samband med trombocytsjukdomar.
+- Hämta varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA), eftersom säkerhetsgranskning inte kan genomföras utan dem.
+- Söka riktad litteratur och prövningar om hemin vid trombocytopen purpura, samt utvärdera koagulationspåverkan och interaktionerna med antikoagulantia och trombocythämmare.
+- Klargöra att Normosang för närvarande saknar giltigt godkännande i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

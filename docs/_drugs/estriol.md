@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Estriol
-parent: Endast modellprediktion (L5)
-nav_order: 42
-evidence_level: L5
+parent: Måttlig evidens (L3-L4)
+nav_order: 175
+evidence_level: L3
 indication_count: 1
 ---
 
 # Estriol
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **1** st
+Evidensnivå: **L3** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,78 +29,80 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Estriol: Från naturlig östrogenbehandling till amenorré
+# Estriol: Från vaginala/hormonella besvär efter menopaus till amenorré
+
+---
 
 ## Sammanfattning
 
-Estriol är ett naturligt, svagt östrogen (östrogenpotens ca 1/80 av estradiol) som kliniskt används för behandling av urogenital atrofi och klimakteriesymptom, men som inte är formellt registrerat i Sverige. TxGNN-modellen förutsäger med **99,18%** konfidens att estriol kan vara effektivt mot **amenorré** – specifikt funktionell hypotalamisk amenorré (FHA) – genom neuroendokrin modulering av hypotalamus–hypofys-axeln. Förutsägelsen stöds av **3 kliniska prövningar** och **13 publikationer**, varav en klinisk interventionsstudie direkt undersöker estriol vid FHA.
+Estriol är ett svagt östrogen som verkar via östrogenreceptorerna alfa och beta. I Sverige har det funnits som vaginala beredningar och tabletter, men alla godkännanden är numera avregistrerade. TxGNN-modellen förutsäger att estriol kan vara effektivt mot **amenorré** (poäng 99,2 %). Evidensen är begränsad: **inga registrerade kliniska prövningar** och **6 publikationer**, varav endast två är direkt relevanta (en liten fysiologisk studie och en översikt).
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Ej registrerad i Sverige; används kliniskt för urogenital atrofi och klimakteriesymptom |
-| Förutsagd ny indikation | Amenorré – funktionell hypotalamisk amenorré (FHA) |
-| TxGNN-förutsägelsepoäng | 99,18% |
-| Evidensnivå | L3 – Observationsstudier och mekanistiska studier |
-| Marknadsstatus i Sverige | Ej registrerad |
-| Antal godkännanden | 0 |
+|------|------|
+| Ursprunglig indikation | Ej angiven i de godkännandedata som sammanställts för rapporten |
+| Förutsagd ny indikation | Amenorré |
+| TxGNN-förutsägelsepoäng | 99,2 % |
+| Evidensnivå | L3 |
+| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Antal godkännanden | 8 (alla avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-Estriol är ett naturligt östrogen med relativt svag systemisk östrogeneffekt, vilket paradoxalt nog gör det till en intressant kandidat för subtil neuroendokrin reglering. Till skillnad från estradiol, som ger kraftiga systemiska effekter, kan lågdos estriol modulera hypotalamus–hypofys-axeln utan att utlösa fullständig östrogendominans.
+Det finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Estriol är dock känt som en svag agonist på östrogenreceptorerna ESR1 och ESR2. Det har i Europa och Asien använts i över 40 år mot symtom efter menopaus, bland annat blodvallningar.
 
-Vid funktionell hypotalamisk amenorré (FHA) störs den pulsatila GnRH-sekretionen till följd av psykosociala eller metabola stressfaktorer – exempelvis intensiv träning, undervikt eller kronisk stress. Detta leder till sänkta LH- och FSH-nivåer, reducerat östrogenpåslag och utebliven menstruation. Lågdos estriol kan, via estrogenreceptorernas återkopplingsmekanismer i hypotalamus och hypofys, gradvis återuppta den pulsatila LH-sekretionen och därigenom trigga återhämtning av ovulationscykeln.
+Vid funktionell hypotalamisk amenorré (FHA) är pulsatil frisättning av GnRH från hypotalamus nedsatt, vilket ger lågt östrogen och utebliven mens. Lågdoserat östrogen, som estriol, kan tänkas fungera som neuroendokrin modulator och återställa östrogenets återkoppling till hypotalamus–hypofysaxeln. En studie från 2012 visade att estriol påverkade sekretionen av luteiniserande hormon (LH) hos kvinnor med FHA, och en översikt från 2023 föreslår en möjlig mekanism.
 
-Det som skiljer denna tillämpning från klassisk östrogensubstitution är att estriol inte ersätter östrogenbristen rent substitutivt – utan agerar som en neuroendokrin interventionssignal riktad direkt mot den bakomliggande dysreguleringen. Publicerade kliniska fynd (PMID 22137494) visar att estrioladministration faktiskt modulerar LH-sekretionen hos kvinnor med FHA, vilket ger mekanistisk grund för förutsägelsen.
+Amenorré är dock ett samlingsbegrepp för många olika orsaker (hypotalamisk, hyperprolaktinemi, PCOS, ovarialinsufficiens m.fl.). Östrogen förväntas bara hjälpa vid utvalda orsaker, så den höga modellpoängen bör tolkas försiktigt.
 
 ---
 
 ## Kliniska prövningar
 
-| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
-|----------------|-----|--------|-----------|--------------|
-| [NCT04487392](https://clinicaltrials.gov/study/NCT04487392) | Fas 2 | Tillbakadragen | 0 | Studerade fotobiomodulation vid vulvovaginal atrofi hos postmenopausala kvinnor. Amenorré nämns i samband med menopausdiagnos. Studien drogs tillbaka utan insamlad data och ger inga användbara resultat. |
-| [NCT04209543](https://clinicaltrials.gov/study/NCT04209543) | Fas 3 | Avslutad | 1 570 | Dubbelblind, placebokontrollerad studie av **estetrol (E4)** vid måttliga–svåra vasomotorsymptom (E4Comfort Study I). Hög metodologisk kvalitet; avser dock estetrol (ett annat östrogen), inte estriol. |
-| [NCT04090957](https://clinicaltrials.gov/study/NCT04090957) | Fas 3 | Avslutad | 1 015 | Uppföljningsstudie av **estetrol (E4)** vid vasomotorsymptom (E4Comfort Study II). Fas 3, avslutad med god inrollering; avser estetrol, inte estriol direkt. |
-
-> **OBS:** De två avslutade fas 3-prövningarna avser estetrol (E4), ett fetalt östrogen som skiljer sig molekylärt från estriol (E3). Dessa utgör indirekt evidens om östrogenbehandling vid menopausala tillstånd, men är inte specifika för estriol eller FHA.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
 ## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [22137494](https://pubmed.ncbi.nlm.nih.gov/22137494/) | 2012 | Klinisk interventionsstudie | *Fertility and Sterility* | Estrioladministration modulerar LH-sekretionen hos kvinnor med funktionell hypotalamisk amenorré (FHA) – direkt relevant primärevidens för den förutsagda indikationen. |
-| [37371858](https://pubmed.ncbi.nlm.nih.gov/37371858/) | 2023 | Översiktsartikel | *Biomedicines* | Lågdosöstrogener som neuroendokrina modulatorer vid FHA; granskar positiva återkopplingsmekanismer och estriolens roll i att återupprätta GnRH-pulsatilitet. |
-| [16526238](https://pubmed.ncbi.nlm.nih.gov/16526238/) | 2005 | Klinisk studie | *Medicinski pregled* | Östro-gestagen-effekter på lipid- och hormonprofiler vid prematur primär ovarialsvikt (PPOF), en form av hypergonadotrop amenorré med östrogenunderskott. |
-| [14194444](https://pubmed.ncbi.nlm.nih.gov/14194444/) | 1964 | Klinisk prövning | *J Obstet Gynaecol Br Commonw* | Tidig klinisk prövning av humana gonadotropiner vid idiopatisk sekundär amenorré; historisk kontext för hormonbaserad behandling av amenorré. |
-| [4102186](https://pubmed.ncbi.nlm.nih.gov/4102186/) | 1971 | Fallserie | *Lancet* | Endokrinologiska fynd vid prematur ovarialsvikt med amenorré; belyser hypoestrogenismens roll. |
-| [4254759](https://pubmed.ncbi.nlm.nih.gov/4254759/) | 1971 | Klinisk översikt | *British Journal of Psychiatry* | Anorexia nervosa och amenorré – belyser sambandet mellan energiunderskott och utebliven menstruation, relevant för FHA-patofysiologi. |
-| [5935707](https://pubmed.ncbi.nlm.nih.gov/5935707/) | 1966 | Observationsstudie | *Am J Obstet Gynecol* | Långvariga hormonella störningar efter medroxiprogesteronadministrering; visar hormonella mönster kopplade till amenorré. |
-| [7026111](https://pubmed.ncbi.nlm.nih.gov/7026111/) | 1981 | Översiktsartikel | *Clinical Obstetrics and Gynecology* | Neoplasi och hormonell antikonception; ger brett perspektiv på östrogenernas systemeffekter. |
-| [2949864](https://pubmed.ncbi.nlm.nih.gov/2949864/) | 1986 | Observationsstudie | *Zhong Xi Yi Jie He Za Zhi* | TCM-perspektiv på gonadfunktion vid amenorré och oligomenorré; begränsad direkt relevans. |
-| [979592](https://pubmed.ncbi.nlm.nih.gov/979592/) | 1976 | Metodartikel | *Die Medizinische Welt* | Radioimmunoassay av LH, FSH och östrogener inkl. estriol; metodologisk relevans för hormonmonitorering vid amenorré. |
+|------|-----|------|------|---------|
+| [22137494](https://pubmed.ncbi.nlm.nih.gov/22137494/) | 2012 | Liten interventionell fysiologisk studie | Fertility and Sterility | Utvärderade hur estriol påverkar hypotalamus–hypofysfunktionen och gonadotropinsekretionen vid FHA; estriol modulerade LH-sekretionen. |
+| [37371858](https://pubmed.ncbi.nlm.nih.gov/37371858/) | 2023 | Översikt | Biomedicines | Beskriver FHA som reversibel störning av GnRH-sekretionen och föreslår att lågdoserade östrogener kan verka som neuroendokrina modulatorer. |
+| [5935707](https://pubmed.ncbi.nlm.nih.gov/5935707/) | 1966 | Fallserie (historisk, indirekt) | American Journal of Obstetrics and Gynecology | Långvariga gynekologiska och endokrina effekter efter medroxiprogesteron under graviditet; endast indirekt relevans. |
+| [13931724](https://pubmed.ncbi.nlm.nih.gov/13931724/) | 1963 | Översikt (historisk, indirekt) | Journal of Clinical Endocrinology and Metabolism | Verkningsmekanismer för ägglossningshämmande substanser; indirekt relevans. |
+| [979592](https://pubmed.ncbi.nlm.nih.gov/979592/) | 1976 | Metod/översikt (indirekt) | Die Medizinische Welt | Radioimmunologisk mätning av hormoner, bland annat estriol; ingen direkt koppling till behandling. |
+| [14194444](https://pubmed.ncbi.nlm.nih.gov/14194444/) | 1964 | Klinisk prövning (historisk, indirekt) | J Obstet Gynaecol Br Commonw | Gonadotropinbehandling vid idiopatisk sekundär amenorré; gäller inte estriol. |
 
 ---
 
 ## Marknadsinformation Sverige
 
-Estriol (DB04573) har inga registrerade godkännanden i Sverige. Läkemedlet klassas som **ej registrerat** och saknar tillgängliga produktresumér från Läkemedelsverket i aktuellt datamaterial.
+Samtliga godkännanden är avregistrerade. Indikationstext saknas i de sammanställda uppgifterna.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Status |
+|---------|------|------|-----------|
+| 63196 | Vaginelle | Vaginalkräm | Avregistrerad |
+| 43093 | Gelistrol | Vaginalgel | Avregistrerad |
+| 12772 | Oestriol Aspen | Tablett | Avregistrerad |
+| 47213 | Estrokad | Vagitorium | Avregistrerad |
+| 10048 | Ovesterin | Vagitorium | Avregistrerad |
+
+Ytterligare tre godkännanden (Blissel, Ovesterin vaginalkräm och Gynoflor) finns, även dessa avregistrerade.
 
 ---
 
 ## Säkerhetsaspekter
 
-Säkerhetsdata för estriol – inklusive viktiga varningar, kontraindikationer och läkemedelsinteraktioner – saknas i aktuellt Evidence Pack.
+- **Läkemedelsinteraktioner**: Inga läkemedelsinteraktioner med andra substanser har identifierats. Uppgifterna rör endast estriols bindning till målproteinerna östrogenreceptor alfa (ESR1) och beta (ESR2), vilket är den förväntade farmakologiska verkan.
 
-> Se produktresumén för säkerhetsinformation. Komplettering av TFDA/EMA-säkerhetsdata rekommenderas innan vidare klinisk utvärdering.
+Se produktresumén för information om varningar och kontraindikationer. Sådana uppgifter fanns inte i underlaget.
 
 ---
 
@@ -109,14 +111,15 @@ Säkerhetsdata för estriol – inklusive viktiga varningar, kontraindikationer 
 **Beslut: Avvakta**
 
 **Motivering:**
-Estriol uppvisar en biologiskt välmotiverad mekanism för behandling av funktionell hypotalamisk amenorré, och en riktad klinisk interventionsstudie (PMID 22137494) ger direkt stöd för effekten på LH-sekretion. Evidensbasen är dock begränsad till L3-nivå – inga prospektiva RCT specifikt för estriol vid FHA finns tillgängliga, och läkemedlet saknar registrering i Sverige, vilket försvårar klinisk tillämpning.
+- Modellpoängen är hög och mekanismen biologiskt rimlig vid funktionell hypotalamisk amenorré, men evidensen består bara av en liten fysiologisk studie och en översikt. Det finns inga registrerade kliniska prövningar, och alla svenska godkännanden är avregistrerade, så det saknas en aktiv godkänd produkt att utgå från.
 
 **För att gå vidare krävs:**
-- Prospektiv, randomiserad kontrollerad prövning (RCT) av estriol vid FHA, för att uppnå minst L2-evidens
-- Komplettering av säkerhetsdata: produktresumé med varningar och kontraindikationer (TFDA/EMA)
-- Fullständig MOA-analys via DrugBank API
-- Utredning av registreringsväg i Sverige för ett icke-registrerat läkemedel (exv. licensförfarande via Läkemedelsverket)
-- Fastställande av optimal administreringsväg och dosregim specifikt för FHA-indikationen
+- Säkerhetsinformation (varningar och kontraindikationer) från produktresumén, vilket är ett blockerande dataglapp inför säkerhetsgranskning.
+- Verkningsmekanism från DrugBank.
+- Avgränsning av vilka typer av amenorré (t.ex. funktionell hypotalamisk) som är aktuella.
+- Kontrollerade kliniska studier med tydliga effektmått, t.ex. återkomst av menstruation och hormonnivåer.
+- Bedömning av beredningsform och administreringsväg, eftersom tidigare produkter huvudsakligen var vaginala.
+- Utredning av regulatorisk väg, eftersom inga godkännanden är aktiva.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

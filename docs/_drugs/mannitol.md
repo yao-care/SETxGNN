@@ -2,7 +2,7 @@
 layout: default
 title: Mannitol
 parent: Endast modellprediktion (L5)
-nav_order: 69
+nav_order: 274
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,35 +29,35 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Mannitol: Från osmotisk diures till nefrogent syndrom av inadekvat antidiures
+# Mannitol: Från ökat intrakraniellt tryck och hjärnödem till nefrogent syndrom med olämplig antidiures
+
+---
 
 ## Sammanfattning
 
-Mannitol (DB00742) är ett osmotiskt aktivt diuretikum känt för sin förmåga att öka plasmaosmolatiteten och därigenom inducera vätskeomfördelning och fri vattenutskiljning via njurarna — kliniskt använt bland annat vid förhöjt intrakraniellt tryck och akut oliguri. TxGNN-modellen förutsäger att det kan vara effektivt mot **nefrogent syndrom av inadekvat antidiures (NSIAD)**, med **0 kliniska prövningar** och **1 publikation** som för närvarande stöder denna riktning. Evidensunderlaget är mycket begränsat och baseras i praktiken uteslutande på modellförutsägelse.
+Mannitol är ett osmotiskt verkande läkemedel som i de data som sammanställts för denna rapport är kopplat till bland annat hjärnödem, förhöjt intrakraniellt tryck, förhöjt ögontryck, hjärtsvikt och cystisk fibros. TxGNN-modellen förutsäger att det kan vara effektivt mot **nefrogent syndrom med olämplig antidiures** (poäng 99,97 %), men det finns **inga kliniska prövningar** och endast **1 publikation**, en allmän översikt utan mannitolspecifika data. Förutsägelsen bygger därmed enbart på modellen, och flera mekanistiska överväganden talar snarare emot en nytta.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Ingen godkänd indikation registrerad i Sverige |
-| Förutsagd ny indikation | Nefrogent syndrom av inadekvat antidiures (NSIAD) |
-| TxGNN-förutsägelsepoäng | 99,97% |
-| Evidensnivå | L5 – Enbart modellförutsägelse, inga direkta kliniska studier |
-| Marknadsstatus i Sverige | Ej godkänd |
-| Antal godkännanden | 0 |
+|------|------|
+| Ursprunglig indikation | Ingen indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: hjärnödem, förhöjt intrakraniellt tryck, förhöjt ögontryck, hjärtsvikt, pseudotumor cerebri, cystisk fibros |
+| Förutsagd ny indikation | Nefrogent syndrom med olämplig antidiures |
+| TxGNN-förutsägelsepoäng | 99,97 % |
+| Evidensnivå | L5 (endast modellförutsägelse) |
+| Marknadsstatus i Sverige | Endast återkallade godkännanden |
+| Antal godkännanden | 4 (alla återkallade) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta datapaket. Baserat på känd information är mannitol ett osmotiskt diuretikum av polyolklassen — det verkar genom att höja plasmaosmolatiteten, vilket drar vätska från vävnaderna till den intravaskulära kompartmenten och ökar njurarnas utskiljning av fri vatten utan att aktivera hormonella mekanismer.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är mannitol ett osmotiskt diuretikum. Dess effekt vid hjärnödem och förhöjt intrakraniellt tryck bygger på att det drar vatten från vävnaden till blodbanan, och mekanistiskt skulle det kunna påverka vätskebalansen även vid nefrogent syndrom med olämplig antidiures.
 
-Nefrogent syndrom av inadekvat antidiures (NSIAD) orsakas av gain-of-function-mutationer i AVPR2-genen (V2-receptorn för antidiuretiskt hormon). Dessa mutationer leder till konstitutiv receptoraktivering oberoende av ADH-nivåer, vilket resulterar i kontinuerlig vattenretention och kronisk dilutionshyponatremi. Tillståndet diagnostiseras ofta sent och saknar väletablerade farmakologiska behandlingsalternativ.
-
-Den mekanistiska kopplingen som TxGNN sannolikt identifierat är att mannitols osmotiska verkan teoretiskt kan motverka den patologiska vattenretentionen vid NSIAD: genom att öka den osmotiska belastningen i tubulusvätskan kan mannitol minska relativ fri vattenresorption och bidra till korrektion av hyponatremin. Kunskapsgrafens noder kring natriumbalans, osmolatitet och aquaporin-2-reglering delar sannolikt kanter med mannitols farmakologiska profil. Det saknas dock kliniska data som bekräftar denna hypotetiska koppling direkt, och kausaliteten är ännu inte validerad.
+Sambandet är dock svagt. Sjukdomen orsakas av en aktiverande förändring i vasopressin V2-receptorn, vilket ger för mycket vattenåterupptag i njurarna och låga natriumnivåer. Mannitol korrigerar inte denna grunddefekt. Osmotiska vattenförskjutningar skulle dessutom i teorin kunna förvärra hyponatremin. Den höga poängen bör därför tolkas som en ren modellförutsägelse och inte som ett belägg för effekt.
 
 ---
 
@@ -70,14 +70,37 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 ## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [26706473](https://pubmed.ncbi.nlm.nih.gov/26706473/) | 2016 | Översiktsartikel | European Journal of Internal Medicine | Beskriver de tio vanligaste fallgroparna vid utredning av hyponatremipatienter; lyfter fram NSIAD som en underdiagnostiserad differentialdiagnos och betonar vikten av korrekt etiologisk klassificering för att undvika behandlingskomplikationer vid felaktig hantering |
+|------|-----|------|------|---------|
+| [26706473](https://pubmed.ncbi.nlm.nih.gov/26706473/) | 2016 | Översikt | European Journal of Internal Medicine | Beskriver vanliga fallgropar vid utredning av hyponatremi. Innehåller inga mannitolspecifika data för detta tillstånd. |
+
+---
+
+## Marknadsinformation Sverige
+
+Samtliga fyra godkännanden är återkallade, och ingen produkt med mannitol har för närvarande giltigt godkännande i de data som sammanställts. Indikationstext saknas för alla fyra.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Status |
+|---------|------|------|-----------|
+| 22708 | Aridol | Inhalationspulver, hård kapsel | Återkallad |
+| 18054 | Mannitol Baxter Viaflo | Infusionsvätska, lösning | Återkallad |
+| 9205 | Mannitol Fresenius Kabi | Infusionsvätska, lösning | Återkallad |
+| 57202 | Corhum | Lösning för kardioplegi/organförvaring | Återkallad |
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+Produktresumé med varningar och kontraindikationer saknas i de data som sammanställts. Se produktresumén för säkerhetsinformation.
+
+Följande information kommer från kunskapsgrafen och inte från produkttext:
+
+- **Tillstånd kopplade till kontraindikation i kunskapsgrafen**: leversvikt, leversjukdom, leverkoma och hepatisk encefalopati, anuri, nedsatt njurfunktion, lungödem, intrakraniell blödning, porfyri, trombocytopeni, neutropeni, agranulocytos, anemi, sömnapné och substansberoende, bland andra. Detta ska bekräftas mot produktresumén.
+- **Läkemedelsinteraktioner** (100 identifierade; ett urval):
+  - **Allvarlig**: amikacin.
+  - **Måttlig**: litium inte listad, men bland annat lamivudin, formoterol, salbutamol, arformoterol, amifostin, bensazepril, kaptopril, karbamazepin, cisatrakurium, citalopram, dapagliflozin, kanagliflozin, desvenlafaxin, bisakodyl, pikosulfat, polyetylenglykol med elektrolyter, jotalaminsyra och diatrizoat.
+  - **Lindrig**: doxycyklin.
+
+Vid den aktuella förutsagda indikationen är särskilt nedsatt njurfunktion, lungödem och risken för förvärrad hyponatremi relevanta.
 
 ---
 
@@ -86,14 +109,14 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensunderlaget för mannitol vid NSIAD baseras uteslutande på TxGNN-modellförutsägelse (L5) med ett enda indirekt litteraturreferens om hyponatremiutredning i allmänhet; det finns inga kliniska prövningar eller mekanistiska studier som direkt undersöker denna indikation.
+- Förutsägelsen saknar kliniska prövningar och mekanistiskt stöd. Den enda publikationen är en allmän översikt, och mannitols osmotiska effekt kan i stället förvärra hyponatremi.
+- Inga giltiga svenska godkännanden finns, och säkerhetsdata från produktresumé saknas.
 
 **För att gå vidare krävs:**
-- **Mekanistisk validering:** Bekräfta om mannitols osmotiska effekter faktiskt kan korrigera NSIAD-orsakad hyponatremi utan att orsaka volymöverbelastning eller förvärra elektrolytobalansen
-- **Säkerhetsgranskning:** Inhämta fullständig produktresumé och SPC för att fastställa kontraindikationer, varningar och interaktionsprofil
-- **Prekliniska studier:** In vitro- eller djurmodellstudier med AVPR2 gain-of-function-modeller för att undersöka potentiell effekt
-- **Riktad litteratursökning:** Systematisk genomgång av mannitol vid hyponatremi och NSIAD i klinisk praxis för att identifiera eventuella fallrapporter eller observationsdata
-- **Regulatorisk kartläggning:** Utred om mannitol kan registreras i Sverige som särläkemedel (orphan drug) för denna sällsynta diagnos
+- Hämta och analysera produktresumé för varningar och kontraindikationer.
+- Komplettera data om verkningsmekanism (t.ex. från DrugBank).
+- Genomföra en riktad litteraturgenomgång om mannitol vid nefrogent syndrom med olämplig antidiures, samt prekliniska data som kan stödja en mekanism.
+- Bedöma om andra förutsagda indikationer, som akut pulmonell hjärtsjukdom (där litteraturen snarare pekar på risk för lungödem), har bättre underlag. Ingen av dem har i nuläget kliniska prövningar.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

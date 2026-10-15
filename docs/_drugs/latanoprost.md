@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Latanoprost
-parent: Hög evidens (L1-L2)
-nav_order: 62
-evidence_level: L2
+parent: Endast modellprediktion (L5)
+nav_order: 253
+evidence_level: L5
 indication_count: 10
 ---
 
 # Latanoprost
 {: .fs-9 }
 
-Evidensnivå: **L2** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,73 +29,88 @@ Evidensnivå: **L2** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Latanoprost: Från öppenvinkelglaukom till primärt hereditärt glaukom
+# Latanoprost: Från öppenvinkelglaukom till primär ärftlig glaukom
 
 ---
 
-## Sammanfattning
+### Sammanfattning
 
-Latanoprost är ett prostaglandinanalogum som primärt används för att behandla öppenvinkelglaukom och okulär hypertension, genom att sänka det intraokulära trycket (IOP) via ökat uveoscleralt avflöde. TxGNN-modellen förutsäger att det kan vara effektivt mot **primärt hereditärt glaukom**, med **1 avslutad klinisk prövning** som ger indirekt stöd för denna riktning. Inga specifika publikationer för denna indikation har påträffats i litteratursökningen.
+Latanoprost är en prostaglandin F2-alfa-analog som ursprungligen används för att behandla öppenvinkelglaukom och okulär hypertoni. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **primär ärftlig glaukom**, men det finns för närvarande **inga kliniska prövningar** och **ingen publicerad litteratur** i de data som sammanställts för denna rapport. Förutsägelsen bygger därför enbart på modellen.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Öppenvinkelglaukom och okulär hypertension (ej registrerad i Sverige) |
-| Förutsagd ny indikation | Primärt hereditärt glaukom |
-| TxGNN-förutsägelsepoäng | 99,88% |
-| Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Ej godkänd |
-| Antal godkännanden | 0 |
-| Rekommenderat beslut | Fortsätt med försiktighet |
+|------|------|
+| Ursprunglig indikation | Öppenvinkelglaukom, okulär hypertoni (enligt kunskapsgrafen; godkännandetexterna i det svenska registret saknar indikationstext) |
+| Förutsagd ny indikation | Primär ärftlig glaukom |
+| TxGNN-förutsägelsepoäng | 99,9 % |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 20 |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-Latanoprost verkar som en selektiv agonist mot FP-prostaglandinreceptorn i ögat. Genom att aktivera dessa receptorer ökar latanoprost det uveosclerala kammarvattensavflödet, vilket resulterar i en sänkning av det intraokulära trycket (IOP). Denna tryckreducerande effekt är väletablerad kliniskt och utgör grunden för läkemedlets användning vid glaukom.
+Det finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Latanoprost är dock en prostaglandin F2-alfa-analog som sänker det intraokulära trycket genom att öka det uveosklerala utflödet av kammarvatten. Effekten vid öppenvinkelglaukom och okulär hypertoni är väletablerad.
 
-Primärt hereditärt glaukom delar samma centrala patofysiologi som öppenvinkelglaukom: ett förhöjt IOP som, om det kvarstår obehandlat, leder till progressiv synnervsskada och synnedsättning. Trots att den hereditära formen orsakas av genetiska defekter – vanligtvis i gener som reglerar trabekelmeshverkens funktion – är den underliggande mekanismen för synnervsskada identisk med den vid förvärvat glaukom.
+Primär ärftlig glaukom, till exempel primär kongenital glaukom, kännetecknas liksom de godkända indikationerna av förhöjt ögontryck. Mekanismen är därför biologiskt rimlig och ligger nära de godkända användningsområdena. Den höga modellpoängen speglar sannolikt just denna likhet med den godkända glaukomindikationen.
 
-Prostaglandinanaloga preparat, inklusive latanoprost, räknas i dag till förstahandsvalet vid behandling av flera glaukomformer. Att denna mekanism är applicerbar på den hereditära subtypen stöds av att kliniska prövningar med prostaglandinanaloga redan har genomförts vid pediatriskt och genetiskt betingat glaukom (se NCT01527682 nedan). Förutsägelsens rimlighet är hög givet den direkta mekanistiska kopplingen.
-
----
-
-## Kliniska prövningar
-
-| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
-|-----------------|-----|--------|-----------|--------------|
-| [NCT01527682](https://clinicaltrials.gov/study/NCT01527682) | Fas 2 | Genomförd | 37 | Studien utvärderade den okulära trycksänkande effekten och säkerhetsprofilen hos latanoprost och dorzolamid vid primärt pediatriskt glaukom refraktärt mot kirurgiska ingrepp. Protokollet ändrades under studiens gång; slutligt inklusionsmål sänktes till 68 ögon (34–68 patienter). Resultat ger initialdata om prostaglandinanalogans effektivitet vid denna population. |
+Det finns dock en viktig begränsning. Vid primär kongenital glaukom orsakas trycket ofta av missbildning av trabekelverket, och läkemedelsbehandling är därför oftast ett komplement till kirurgi. Svaret på läkemedel som förbättrar utflödet kan därför vara begränsat.
 
 ---
 
-## Litteraturbevis
+### Kliniska prövningar
+
+Inga relaterade kliniska prövningar registrerade för närvarande.
+
+---
+
+### Litteraturbevis
 
 Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
-## Säkerhetsaspekter
+### Marknadsinformation Sverige
 
-Se produktresumén för säkerhetsinformation.
+Samtliga 20 godkännanden är indragna och inget är giltigt för närvarande. Nedan visas fem av dem. Indikationstext saknas i registret för dessa produkter.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 51352 | Monoprost (Laboratoires THEA) | Ögondroppar, lösning | Uppgift saknas |
+| 46521 | Monoprost (Laboratoires THEA) | Ögondroppar, lösning i endosbehållare | Uppgift saknas |
+| 12716 | Xalatan (Viatris Healthcare Limited) | Ögondroppar, lösning | Uppgift saknas |
+| 41820 | Latanoprost Sandoz (Sandoz A/S) | Ögondroppar, lösning | Uppgift saknas |
+| 42659 | Latanoprost Actavis (Actavis Group PTC ehf.) | Ögondroppar, lösning | Uppgift saknas |
 
 ---
 
-## Slutsats och nästa steg
+### Säkerhetsaspekter
 
-**Beslut: Fortsätt med försiktighet**
+- **Möjliga kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumétext): uveit, irissjukdom, ciliärkroppssjukdom, panuveit, makulaödem i näthinnan, cystoitt makulaödem, irit samt konjunktivit (inklusive akut smittsam konjunktivit).
+- **Läkemedelsinteraktioner**: Totalt 100 möjliga interaktioner har identifierats, men allvarlighetsgraden är angiven som okänd för alla. Exempel på läkemedel som förekommer är kalcitriol, glimepirid, doxycyklin, klotrimazol, lansoprazol, cimetidin, atropin, pantoprazol, mesalazin och acarbos. Dessa uppgifter bör tolkas försiktigt eftersom nivån är okänd.
+
+Se produktresumén för fullständig säkerhetsinformation om varningar och kontraindikationer.
+
+---
+
+### Slutsats och nästa steg
+
+**Beslut: Avvakta**
 
 **Motivering:**
-- Latanoprostets välkända IOP-sänkande verkningsmekanism via FP-prostaglandinreceptorn är direkt relevant för primärt hereditärt glaukom, vars kärn­patofysiologi är identisk med andra glaukomformer. En avslutad fas 2-prövning med prostaglandinanaloga vid pediatriskt glaukom (NCT01527682) ger ett konkret kliniskt stöd, men specifika resultatdata för den hereditära subtypen behöver verifieras innan vidare beslut kan fattas.
+- Förutsägelsen är mekanistiskt rimlig men stöds varken av kliniska prövningar eller litteratur (evidensnivå L5). Dessutom har samtliga svenska godkännanden dragits in, och behandlingen av kongenital glaukom är i huvudsak kirurgisk.
 
 **För att gå vidare krävs:**
-- Granskning av publicerade resultat från NCT01527682 (primära effektmått, IOP-sänkning, säkerhetsutfall)
-- Riktad litteratursökning med bredare söktermer (t.ex. "latanoprost hereditary glaucoma", "prostaglandin juvenile glaucoma") för att identifiera eventuella fallrapporter eller observationsstudier
-- Inhämtning av fullständig säkerhetsinformation (varningar, kontraindikationer, biverkningsprofil) från godkänd produktresumé
-- Komplettering av MOA-data via DrugBank API (DG002) för att stärka mekanismsanalysen
-- Utredning av om pediatrisk dosering och administreringsväg kräver anpassning för den hereditärt drabbade populationen
+- En litteratur- och prövningssökning specifikt för latanoprost vid primär ärftlig/kongenital glaukom, särskilt pediatriska studier.
+- Verkningsmekanismdata (till exempel från DrugBank) för en fullständig mekanistisk analys.
+- Varningar och kontraindikationer från aktuell produktresumé hos Läkemedelsverket.
+- Klargörande av nuvarande regulatorisk status i Sverige, eftersom inga godkännanden är giltiga.
+- Bedömning av hur läkemedlet kan användas som tillägg till kirurgi vid trabekelverksmissbildning.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

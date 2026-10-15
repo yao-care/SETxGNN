@@ -2,7 +2,7 @@
 layout: default
 title: Sorbitol
 parent: Endast modellprediktion (L5)
-nav_order: 97
+nav_order: 398
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,72 +29,75 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-Skapar utvärderingsrapporten baserat på Evidence Pack JSON för Sorbitol. Data pekar på L5-evidens utan mekanistisk koppling, vilket ger beslutet "Avvakta".
+# Sorbitol: Från rektal användning (indikation ej angiven) till exercise-induced malignant hyperthermia
 
 ---
 
-# Sorbitol: Från osmotisk laxans till träningsinducerad malign hypertermi
+### Sammanfattning
 
-## Sammanfattning
-
-Sorbitol är en osmotiskt aktiv sockeralkohol som traditionellt används som laxans och hjälpämne i läkemedelsberedningar. TxGNN-modellen förutsäger med en poäng på 99,4 % att det kan vara effektivt mot **träningsinducerad malign hypertermi**, men detta stöds varken av kliniska prövningar eller vetenskaplig litteratur. Förutsägelsen saknar biokemiskt mekanistiskt stöd och bedöms med stor sannolikhet vara en strukturell falsk positiv i kunskapsgrafen.
+Sorbitol är en sockeralkohol som används som osmotiskt verkande medel och laxermedel, och finns i rektallösningar som tidigare var godkända i Sverige. Någon ursprunglig indikation är inte angiven i godkännandedata. TxGNN-modellen förutsäger att sorbitol kan vara effektivt mot **exercise-induced malignant hyperthermia**, men förutsägelsen är endast beräkningsbaserad: det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder den.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Ej registrerat som läkemedel i Sverige |
-| Förutsagd ny indikation | Träningsinducerad malign hypertermi |
+|------|------|
+| Ursprunglig indikation | Ej angiven i tillgängliga godkännandedata |
+| Förutsägen ny indikation | Exercise-induced malignant hyperthermia |
 | TxGNN-förutsägelsepoäng | 99,4 % |
-| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
-| Marknadsstatus i Sverige | Inte marknadsförd |
-| Antal godkännanden | 0 |
+| Evidensnivå | L5 (endast modellförutsägelse) |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 3 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i datakällan. Baserat på känd farmakologi är sorbitol en sockeralkohol med osmotisk aktivitet: det drar vatten till tarmens lumen, ökar tarminnehållets volym och stimulerar tarmrörelser. Det används även som hjälpämne i läkemedelsberedningar och som sockerersättning vid diabetes.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är sorbitol en sockeralkohol med osmotisk effekt, som används som laxermedel och hjälpämne. Någon etablerad mekanistisk koppling till den nya indikationen har inte kunnat visas.
 
-Träningsinducerad malign hypertermi är ett sällsynt, potentiellt livshotande tillstånd vars patofysiologi är centrerad kring mutationer i ryanodinreceptorn 1 (RyR1). Dessa mutationer leder till okontrollerad frisättning av kalcium (Ca²⁺) från skelettmuskelns sarkoplasmatiska retikulum, vilket utlöser kraftig muskelrigiditet, hypertermi och metabolisk kris. Tillståndet behandlas i dag primärt med dantrolen, som direkt blockerar RyR1-receptorn.
+Malign hypertermi orsakas av störd kalciumfrisättning via ryanodinreceptorn (RYR1) i skelettmuskulaturen. Sorbitol har ingen känd effekt på denna process. Gällande standardbehandling, dantrolen, verkar som RyR1-antagonist och har en helt annan mekanism.
 
-Det finns ingen biologiskt plausibel koppling mellan sorbitols osmotiska verkningsmekanism och den kalciumkanalstörning som driver malign hypertermi. TxGNN:s höga poäng (99,4 %) härrör sannolikt från indirekta nodhopp i kunskapsgrafen – en länk via begreppen "hypertermi/cellsvullnad → osmotisk reglering" – snarare än en verklig farmakologisk effekt. Förutsägelsen klassificeras som en strukturell falsk positiv och saknar biokemiskt stöd.
-
----
-
-## Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande.
+Ett samband skulle i så fall vara spekulativt, till exempel en hypotetisk osmotisk effekt eller vätskeförskjutning, och det har inte påvisats. Den höga poängen (0,994) ska därför tolkas som en beräkningsmässig signal och inte som tecken på klinisk nytta.
 
 ---
 
-## Litteraturbevis
+### Marknadsinformation Sverige
 
-Ingen relaterad litteratur tillgänglig för närvarande.
+| Godkännandenummer | Produktnamn | Beredningsform | Status |
+|---------|------|------|-----------|
+| 10793 | Resulax | Rektallösning | Indragen |
+| 65612 | Dokusatnatrium/Sorbitol Evolan | Rektallösning | Indragen |
+| 6514 | Klyx | Rektallösning | Indragen |
+
+Ingen godkänd indikationstext finns registrerad för dessa godkännanden.
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Kontraindikationer enligt kunskapsgraf** (inte hämtade från produkttext): aktiv magsårssjukdom.
+- **Läkemedelsinteraktioner** (2 identifierade):
+  - **Tolevamer**: allvarlig (Major) interaktion
+  - **Lamivudin**: måttlig (Moderate) interaktion
+
+Se produktresumén för fullständig säkerhetsinformation om varningar och kontraindikationer.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-Förutsägelsen är klassad som L5 (enbart modellförutsägelse) och saknar stöd från kliniska prövningar, observationsstudier eller litteratur. Den mekanistiska länken mellan sorbitols osmotiska verkan och träningsinducerad malign hypertermi saknar biokemisk grund och bedöms vara ett artefakt från TxGNN:s kunskapsgrafstruktur snarare än en genuint läkemedelsterapi.
+- Förutsägelsen bygger enbart på en modellpoäng utan stöd från kliniska prövningar eller litteratur, och det saknas en rimlig mekanistisk koppling. Dessutom är samtliga svenska godkännanden indragna.
 
 **För att gå vidare krävs:**
-- Identifiering av en biologiskt plausibel verkningsmekanism som kopplar sorbitol till RyR1-medierad kalciumdysreglering i skelettmuskel
-- Prekliniska in vitro- eller djurmodellstudier som påvisar effekt vid malign hypertermi
-- Minst en fallrapport eller explorativ klinisk observation som stödjer hypotesen
-- Inhämtning av fullständig produktinformation (SmPC) för säkerhets- och kontraindikationsbedömning
+- Hämta verkningsmekanismdata för sorbitol från DrugBank.
+- Hämta varningar och kontraindikationer från produktresumén hos Läkemedelsverket.
+- Göra en systematisk litteratursökning och en prekliniskt inriktad mekanistisk bedömning av en eventuell koppling till RYR1-relaterad kalciumreglering.
+- Bedöma administrationsvägens kompatibilitet, eftersom tillgängliga produkter är rektallösningar och den nya indikationen sannolikt kräver en annan administrationsform.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

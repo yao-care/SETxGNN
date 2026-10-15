@@ -2,7 +2,7 @@
 layout: default
 title: Mupirocin
 parent: Endast modellprediktion (L5)
-nav_order: 76
+nav_order: 307
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,53 +29,54 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Mupirocin: Från bakteriell hudinfektion till pleural empyem
+# Mupirocin: Från impetigo till pleurempyem
+
+---
 
 ## Sammanfattning
 
-Mupirocin är ett topikalt antibiotikum som primärt används för behandling av bakteriella hudinfektioner – framför allt impetigo och nasal MRSA-dekolonisering. TxGNN-modellen förutsäger att det kan vara effektivt mot **pleural empyem** (var i lungsäcken), med ett prediktionspoäng på 99,5 %. Det saknas dock helt kliniska prövningar och vetenskapliga publikationer som stöder denna riktning – evidensen är uteslutande baserad på modellförutsägelse.
+Mupirocin är ett lokalt verkande antibiotikum som ursprungligen användes för att behandla hudinfektioner av typen impetigo och bullös impetigo. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **pleurempyem**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** i de data som sammanställts för denna rapport. Förutsägelsen är därför enbart en modellberäkning och bör tolkas med stor försiktighet.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|---------|
-| Ursprunglig indikation | Bakteriell hudinfektion (impetigo), MRSA-dekolonisering – ej registrerad i Sverige |
-| Förutsagd ny indikation | Pleural empyem |
+|------|------|
+| Ursprunglig indikation | Impetigo, bullös impetigo (enligt TxGNN-kunskapsgrafen; godkänd indikationstext saknas i de svenska godkännandena) |
+| Förutsagd ny indikation | Pleurempyem |
 | TxGNN-förutsägelsepoäng | 99,5 % |
-| Evidensnivå | L5 – Endast modellförutsägelse, inga faktiska studier |
-| Marknadsstatus i Sverige | Inte marknadsförd |
-| Antal godkännanden | 0 |
+| Evidensnivå | L5 (endast modellförutsägelse) |
+| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Antal godkännanden | 1 |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta evidenspaket. Baserat på känd farmakologisk information verkar Mupirocin genom att hämma **isoleucyl-tRNA-syntetas (IleRS)** – ett enzym som är nödvändigt för bakteriell proteinsyntesis. Denna mekanism ger stark antibakteriell aktivitet mot *Staphylococcus aureus* (inklusive MRSA) och *Streptococcus pyogenes*.
+Det finns ingen detaljerad verkningsmekanismdata i de sammanställda uppgifterna. Utifrån allmän farmakologisk kunskap hämmar mupirocin bakteriens isoleucyl-tRNA-syntetas och verkar främst mot grampositiva kocker som *Staphylococcus aureus* (inklusive MRSA) och *Streptococcus pyogenes*. Dessa bakterier är också vanliga orsaker till pleurempyem, vilket ger en möjlig antibakteriell logik bakom förutsägelsen.
 
-Pleural empyem orsakas ofta av just de patogener som Mupirocin är aktivt mot: *S. aureus* (inklusive MRSA) och streptokocker. Det finns alltså en mekanistisk koppling i att samma bakteriestammar förekommer vid både de ursprungliga hudindikationerna och den förutsagda nya indikationen – vilket sannolikt förklarar det höga TxGNN-poänget via gemensam patogenöverläppning i kunskapsgrafen.
+Det finns dock ett stort praktiskt hinder. Mupirocin är ett lokalt läkemedel med försumbar systemisk upptagning, eftersom det snabbt omvandlas till den inaktiva metaboliten monsyra. Det kan inte nå verksamma koncentrationer i pleurahålan via någon etablerad administreringsväg. Det höga poängvärdet (0,995) ska därför ses som ett beräkningsresultat och inte som ett tecken på klinisk användbarhet.
 
-Den avgörande praktiska barriären är dock **läkemedelsformen**. Mupirocin finns enbart som topikalt preparat (kräm/salva) med en systemisk biotillgänglighet på under 1 %. Preparatet kan inte nå pleuralutrymmet i terapeutiska koncentrationer via befintlig beredningsform. Klinisk behandling av pleural empyem kräver systemiska antibiotika (t.ex. vankomycin vid MRSA) kombinerat med pleuraldränage. Det finns inga studier på intrapleural instillation av Mupirocin, och det höga prediktionspoänget bedöms återspegla patogenöverläppning snarare än ett realistiskt behandlingsalternativ.
-
----
-
-## Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande.
+Den näst högst rankade förutsägelsen, punktformad epitelial keratokonjunktivit (poäng 99,1 %), har likaså svag grund. Mupirocins effekt mot stafylokocker kan vara relevant bara för den bakteriella delmängden, och läkemedlet saknar antiviral effekt. Tillgängliga beredningar är avsedda för hud eller näsa och är inte godkända för ögonen, så tolerans och säkerhet i ögat är inte klarlagda.
 
 ---
 
-## Litteraturbevis
+## Marknadsinformation Sverige
 
-Ingen relaterad litteratur tillgänglig för närvarande.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 11808 (avregistrerad) | Bactroban (GlaxoSmithKline AB) | Salva | Ingen indikationstext tillgänglig |
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Kontraindikationer enligt kunskapsgrafen**: Dermatit. Uppgiften kommer från samband i kunskapsgrafen och inte från produktresumétext.
+- **Läkemedelsinteraktioner**: Interaktionsdatabasen visar 100 registrerade läkemedelspar, men allvarlighetsgraden är klassad som "okänd" för samtliga. Bland de listade läkemedlen finns kalcitriol, klotrimazol, morfin, metformin, pantoprazol, omeprazol, sukralfat, vankomycin, laktulos, triamcinolon, prednison och simvastatin. Ingen av dessa kan i nuläget bedömas som kliniskt betydelsefull.
+
+Se produktresumén för fullständig säkerhetsinformation om varningar och kontraindikationer.
 
 ---
 
@@ -84,13 +85,15 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Trots ett högt TxGNN-prediktionspoäng (99,5 %) är evidensnivån L5 – utan ett enda kliniskt prövning eller stödjande publikation. Den fundamentala barriären är att Mupirocin enbart finns som topikalt preparat med extremt låg systemisk biotillgänglighet, vilket gör det farmakologiskt olämpligt för behandling av djupgående infektioner som pleural empyem i nuvarande beredningsform.
+- Förutsägelsen bygger enbart på en modellberäkning (evidensnivå L5) utan stöd från kliniska prövningar eller litteratur.
+- Mupirocin är ett lokalt läkemedel utan relevant systemisk exponering, vilket gör att nå pleurahålan i praktiken omöjligt med nuvarande beredningar. Dessutom är det enda svenska godkännandet avregistrerat.
 
 **För att gå vidare krävs:**
-- Preklinisk dokumentation av en systemisk eller intrapleural formulering av Mupirocin
-- Farmakokinetikdata som visar tillräckliga läkemedelskoncentrationer i pleuravätskan
-- Säkerhetsprofil för icke-topikala beredningsformer
-- Jämförande effektstudie mot etablerad standardbehandling (systemiskt vankomycin + pleuraldränage)
+- Hämta och granska produktresumén för varningar och kontraindikationer, eftersom säkerhetsdata saknas i nuläget.
+- Komplettera uppgifter om verkningsmekanism från DrugBank.
+- Utvärdera administreringsväg och beredningsform: en systemisk eller intrapleural beredning skulle krävas, med prekliniska data om farmakokinetik och säkerhet.
+- Genomföra litteratur- och prövningssökning för pleurempyem och stafylokockrelaterade ögoninfektioner.
+- Överväga etablerade systemiska antibiotika som jämförelsealternativ, eftersom dessa redan används vid pleurempyem.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

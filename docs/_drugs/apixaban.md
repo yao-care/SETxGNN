@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Apixaban
-parent: Endast modellprediktion (L5)
-nav_order: 17
-evidence_level: L5
+parent: Måttlig evidens (L3-L4)
+nav_order: 37
+evidence_level: L4
 indication_count: 1
 ---
 
 # Apixaban
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **1** st
+Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,76 +29,101 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Apixaban: Från tromboemboliprofylax till migrän
-
-## Sammanfattning
-
-Apixaban är en selektiv Factor Xa-hämmare som primärt används för att förebygga tromboemboliska komplikationer vid tillstånd som förmaksflimmer och venös tromboembolism. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **migrän**, med **1 klinisk prövning** och **4 publikationer** som undersöker detta samband. Befintliga bevis är emellertid svaga och motstridiga — enstaka fallrapporter tyder tvärtom på att Apixaban kan förvärra migrän jämfört med warfarin, vilket väcker allvarliga tvivel om den kliniska relevansen av denna förutsägelse.
+# Apixaban: Från antikoagulationsbehandling till migrän
 
 ---
 
-## Snabböversikt
+### Sammanfattning
+
+Apixaban är en direkt faktor Xa-hämmare (blodförtunnande läkemedel). Någon godkänd ursprunglig indikation finns inte angiven i de data som sammanställts för denna rapport. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **migrän** med ett mycket högt modellvärde (99,0 %), men det finns bara **1 klinisk prövning** (som inte direkt undersöker migrän) och **3 publikationer** (två fallrapporter med motstridiga resultat samt en retrospektiv studie). Evidensen är därför svag.
+
+---
+
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Ej tillgänglig (inga godkännanden registrerade) |
+|------|------|
+| Ursprunglig indikation | Ingen indikationstext tillgänglig i godkännandedata |
 | Förutsagd ny indikation | Migrän (migraine disorder) |
 | TxGNN-förutsägelsepoäng | 99,0 % |
-| Evidensnivå | L4 – Mekanismstudier och fallrapporter |
-| Marknadsstatus i Sverige | Ej registrerad |
-| Antal godkännanden | 0 |
+| Evidensnivå | L4 |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen formell verkningsmekanismdata tillgänglig från DrugBank för detta Evidence Pack. Baserat på befintlig information i utredningsunderlaget är Apixaban en selektiv direktverkande Factor Xa-hämmare som blockerar koagulationskaskaden och minskar trombinbildning.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts. Apixaban är känt som en direkt hämmare av koagulationsfaktor Xa, och dess effekt som antikoagulantia är väletablerad. Något direkt mekanistiskt samband med migrän har dock inte kunnat visas.
 
-Den teoretiska kopplingen till migrän bygger på hypotesen att patent foramen ovale (PFO) — ett hjärtfenomen som är överrepresenterat hos patienter med migrän med aura — kan skapa mikroemboli som utlöser kortikal spridningsdepolarisation (CSD), en känd neurofysiologisk mekanism bakom migränanfall. Genom att hämma koagulationen skulle Apixaban teoretiskt kunna minska frekvensen av dessa mikroemboli och därigenom minska anfallsfrekvensen.
+Ett möjligt indirekt samband är att migrän med aura har kopplats till paradoxal emboli via öppetstående foramen ovale (PFO) och till proteotrombotiska tillstånd, till exempel förekomst av antifosfolipidantikroppar. I sådana undergrupper skulle antitrombotisk behandling kunna minska migränbördan. Detta är en hypotes om en tromboembolisk undergrupp, inte en generell antimigränmekanism.
 
-Befintliga kliniska data talar dock emot denna hypotes. Fallrapporter beskriver hur patienter som uppnått fullständig migränremission på warfarin fick återfall inom veckor efter byte till Apixaban, med ny remission vid återinsättning av warfarin. En möjlig förklaring är att warfarins effekt beror på pleiotropa mekanismer — exempelvis hämning av Gas6/Protein S via VKORC1-vägen — med antiinflammatoriska och neuroprotektiva egenskaper som Apixaban saknar. Den mekanistiska kopplingen är därmed svag och uppvisar motstridiga tecken.
+Fallrapporterna talar dessutom emot en klasseffekt för faktor Xa-hämmare. I en rapport försämrades migrän med aura efter att apixaban påbörjats. I en annan försvann auran på warfarin men inte på apixaban. En eventuell nytta är alltså inte säkert kopplad till faktor Xa-hämning.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 | Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
-|-----------------|-----|--------|-----------|--------------|
-| [NCT00562289](https://clinicaltrials.gov/study/NCT00562289) | Fas 3 | Avslutad | 664 | Randomiserad studie som jämförde PFO-stängning, antikoagulantia (primärt warfarin) och trombocythämmare för att förebygga återfall av ischemisk stroke hos patienter med PFO. Studien är indirekt relevant: PFO har en biologisk koppling till migrän, men Apixaban ingick inte som primär intervention och migränutfall utvärderades inte. Utgör inte direkt bevis för Apixaban vid migrän. |
+|---------|------|------|------|---------|
+| [NCT00562289](https://clinicaltrials.gov/study/NCT00562289) | Fas 3 | Avslutad | 664 | Jämför PFO-förslutning eller antikoagulantia med trombocythämmare för att förhindra nytt stroke hos patienter med PFO. Migrän är inte primärt mål, och det framgår inte att apixaban studerades. Kan inte räknas som fas 3-evidens för migrän. |
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [33402037](https://pubmed.ncbi.nlm.nih.gov/33402037/) | 2021 | Liten klinisk studie | *Lupus* | Retrospektiv studie av 75 patienter med antifosfolipidantikroppar (aPL) och refraktär migrän behandlade med antitrombotisk terapi. En subgrupp visade symtomförbättring, vilket antyder att aPL-medierad migrän kan svara på antitrombotisk behandling. Apixaban utvärderades dock inte specifikt. |
-| [37582651](https://pubmed.ncbi.nlm.nih.gov/37582651/) | 2023 | Fallrapport + Litteraturöversikt | *The Neurologist* | Rapporterar ett fall där migrän med aura förvärrades efter insättning av Apixaban. Litteraturöversikten konstaterar att effekten av direkta orala antikoagulantia på migrän är oklar och att befintlig litteratur är knapp och motsägelsefull. |
-| [28960288](https://pubmed.ncbi.nlm.nih.gov/28960288/) | 2017 | Fallrapport | *Headache* | 55-årig kvinna med fullständig remission av migrän med aura under 12 år på warfarin. Symtomen återkom inom tre veckor efter byte till Apixaban och remitterade åter vid återinsättning av warfarin. Pekar starkt mot att Apixaban saknar warfarins migränlindrande egenskaper. |
-| [29611190](https://pubmed.ncbi.nlm.nih.gov/29611190/) | 2018 | Fallrapport | *Headache* | Fallrapport om vestibulär migrän som remitterade vid behandling med warfarin och topiramat. Understryker en möjlig roll för antikoagulation vid specifika migränsubtyper, men involverar inte Apixaban. |
+|------|-----|------|------|---------|
+| [33402037](https://pubmed.ncbi.nlm.nih.gov/33402037/) | 2021 | Retrospektiv studie (75 patienter) | Lupus | Antitrombotisk behandling vid refraktär migrän med antifosfolipidantikroppar. Vilka läkemedel som ingick, och om apixaban studerades, kan inte bekräftas. |
+| [28960288](https://pubmed.ncbi.nlm.nih.gov/28960288/) | 2017 | Fallrapport | Headache | Kvinna, 55 år, hade migrän med aura i remission i 12 år på warfarin. Symtomen återkom inom 3 veckor efter byte till apixaban och försvann igen på warfarin. |
+| [37582651](https://pubmed.ncbi.nlm.nih.gov/37582651/) | 2023 | Fallrapport med litteraturöversikt | The Neurologist | Migrän med aura förvärrades efter start av apixaban. Författarna beskriver litteraturen om direkta orala antikoagulantia och migrän som knapp och motsägelsefull. |
 
 ---
 
-## Säkerhetsaspekter
+### Marknadsinformation Sverige
 
-> Se produktresumén för säkerhetsinformation.
+Samtliga 20 godkännanden är indragna och inget är för närvarande giltigt. Indikationstext saknas i de data som sammanställts. De fem första godkännandena visas nedan.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 64399 | Apixaban Cipla | Filmdragerad tablett | Uppgift saknas |
+| 65249 | Apixaban Viatris Pharma | Filmdragerad tablett | Uppgift saknas |
+| 60455 | Apixaban Viatris | Filmdragerad tablett | Uppgift saknas |
+| 63832 | Apixaban Zentiva | Filmdragerad tablett | Uppgift saknas |
+| 63542 | Apixaban Teva GmbH | Filmdragerad tablett | Uppgift saknas |
 
 ---
 
-## Slutsats och nästa steg
+### Säkerhetsaspekter
+
+- **Läkemedelsinteraktioner**: 100 interaktioner identifierades, varav de viktigaste av allvarlig (Major) grad är:
+  - Acetylsalicylsyra (ökad blödningsrisk)
+  - Cobicistat
+  - Deferasirox
+  - Ibritumomab tiuxetan
+  - Tositumomab (inklusive I-131)
+
+  Flera interaktioner av måttlig (Moderate) grad finns också, bland annat med aprepitant, klaritromycin, klotrimazol, dexametason, mikonazol, rolapitant och sugammadex.
+
+Se produktresumén för varnings- och kontraindikationsuppgifter, som inte fanns tillgängliga i de data som sammanställts. Som blodförtunnande läkemedel är blödningsrisk en central säkerhetsfråga.
+
+---
+
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-Evidensen för Apixaban vid migrän befinner sig på L4-nivå och baseras uteslutande på fallrapporter och en indirekt fas 3-studie. Det som är mer avgörande är att de bäst tillgängliga fallrapporterna pekar i motsatt riktning — Apixaban verkar inte dela warfarins migränlindrande egenskaper och kan i vissa fall förvärra tillståndet, vilket i grunden underminerar repurposing-hypotesen.
+- Det höga modellvärdet stöds inte av prövningar eller litteratur: den enda prövningen undersöker inte migrän, och fallrapporterna pekar åt olika håll, där en visar försämring på apixaban. Dessutom saknas giltigt godkännande i Sverige och säkerhetsdata från produktresumén.
 
 **För att gå vidare krävs:**
-- Direkta kliniska prövningar av Apixaban specifikt för migrän (inga sådana finns registrerade)
-- Mekanismstudier som klarlägger skillnaderna i pleiotropa effekter mellan Apixaban och warfarin (t.ex. Gas6/Protein S-vägen)
-- Prospektiva observationsstudier eller registerstudier i PFO-positiva migränpopulationer med specificerad antikoagulantiatyp
-- Fullständig säkerhetsprofil och kontraindikationsdata (produktresumé från Läkemedelsverket)
-- Godkännandedata för Apixaban på den svenska marknaden
+- Hämta produktresumé (varningar och kontraindikationer) från Läkemedelsverket, vilket är ett blockerande datagap för säkerhetsgranskningen.
+- Hämta verkningsmekanismdata från DrugBank för att kunna analysera mekanistiskt samband.
+- Klargöra vilka läkemedel som ingick i studien av antifosfolipidantikroppar (PMID 33402037) och om apixaban ingick.
+- Kontrollera om migränutfall rapporterats i NCT00562289.
+- Överväga en avgränsad studie i en tromboembolisk undergrupp (migrän med aura och PFO eller antifosfolipidantikroppar) innan bredare utvärdering.
+- Klargöra läkemedlets regulatoriska status, eftersom alla svenska godkännanden är indragna.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -2,7 +2,7 @@
 layout: default
 title: Lenograstim
 parent: Endast modellprediktion (L5)
-nav_order: 63
+nav_order: 256
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,89 +29,75 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Lenograstim: Från neutropenibehandling till primär trombocytfrisättningsstörning
+# Lenograstim: Från okänd ursprunglig indikation till primär trombocytfrisättningsstörning
 
 ---
 
-## Sammanfattning
+### Sammanfattning
 
-Lenograstim är ett rekombinant humant granulocytkolonistimulerande faktor (G-CSF) som internationellt används för att förkorta neutropeniperioder efter cytotoxisk kemoterapi samt för mobilisering av perifera blodstamceller inför transplantation. TxGNN-modellen förutsäger att läkemedlet kan vara verksamt mot **primär trombocytfrisättningsstörning** (primary release disorder of platelets), med ett förutsägelsepoäng på **99,91%**. Evidensbasen är dock svag — 10 kliniska prövningar identifierades men samtliga bedöms ha låg relevans för den förutsagda indikationen, och inga relevanta publikationer finns tillgängliga.
+Lenograstim är en rekombinant, glykosylerad granulocytkolonistimulerande faktor (G-CSF). Någon ursprunglig godkänd indikation finns inte angiven i de data som sammanställts för denna rapport. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **primär trombocytfrisättningsstörning** (poäng 99,9 %), men **inga kliniska prövningar och ingen litteratur** stöder denna riktning. Förutsägelsen bygger enbart på modellen.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Ej godkänt i Sverige; internationellt: neutropeni efter kemoterapi samt stamcellsmobilisering |
+|------|------|
+| Ursprunglig indikation | Ej angiven i tillgängliga data |
 | Förutsagd ny indikation | Primär trombocytfrisättningsstörning (primary release disorder of platelets) |
-| TxGNN-förutsägelsepoäng | 99,91% |
-| Evidensnivå | L4 – indirekt mekanistisk härledning, ingen direkt klinisk evidens |
-| Marknadsstatus i Sverige | Inte marknadsförd |
-| Antal godkännanden | 0 |
+| TxGNN-förutsägelsepoäng | 99,9 % |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Endast återkallade godkännanden |
+| Antal godkännanden | 1 |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i Evidence Pack. Baserat på känd farmakologi är Lenograstim ett rekombinant G-CSF som stimulerar proliferation, differentiering och funktionell aktivering av neutrofila granulocyter. Dess mest etablerade kliniska funktion är mobilisering av hematopoetiska stamceller (HSC) från benmärgen till det perifera blodet, vilket möjliggör skörd av stamceller inför transplantation.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Utifrån allmän kunskap verkar lenograstim via G-CSF-receptorn och stimulerar delning och mognad av neutrofila prekursorceller i benmärgen.
 
-Den hypotetiska kopplingen till primär trombocytfrisättningsstörning bygger på en flerstegad indirekt kedja: Lenograstim mobiliserar HSC → HSC doneras och transplanteras (HSCT) → transplanterade celler ger upphov till nya megakaryocyter → normala megakaryocyter producerar trombocyter med korrekt granulafrisättning. I detta scenario fungerar Lenograstim uteslutande som ett preoperativt mobiliseringsverktyg för HSCT, inte som ett läkemedel som direkt korrigerar trombocytfunktionsstörningen.
+Primär trombocytfrisättningsstörning är en kvalitativ trombocytdefekt där trombocyternas granulaeffekter (sekretion) är nedsatta. Det handlar alltså inte om brist på neutrofiler. Någon trolig biologisk väg från G-CSF-receptorsignalering till korrigering av trombocyternas frisättning kan inte identifieras.
 
-Det saknas klinisk eller preklinisk evidens som stöder att Lenograstim ensamt — utan efterföljande stamcellstransplantation — skulle ha terapeutisk effekt vid primär trombocytfrisättningsstörning. TxGNN-modellens höga förutsägelsepoäng (99,91%) bedöms spegla kunskapsgrafs-klustring av trombocytsjukdomar och HSCT-associerade noder, snarare än en direkt biologisk effektivitet för denna indikation.
+Den höga modellpoängen beror sannolikt på att läkemedlet och sjukdomen ligger nära varandra bland hematologiska noder i kunskapsgrafen, snarare än på en biologisk motivering. Förutsägelsen bör därför ses som mycket spekulativ.
 
----
+**Övriga förutsägelser (alla L5, ingen evidens):**
 
-## Kliniska prövningar
-
-Nedanstående prövningar identifierades via sökning på kombinationen Lenograstim + primär trombocytfrisättningsstörning. Samtliga bedöms ha **låg relevans (Grade C)** — ingen prövning undersöker direkt Lenograstims effekt vid trombocytfrisättningsstörningar. Lenograstim förekommer i dessa sammanhang enbart som mobiliseringsmedel inför HSCT.
-
-| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
-|----------------|-----|--------|-----------|--------------|
-| [NCT00281879](https://clinicaltrials.gov/study/NCT00281879) | Fas 2 | Avbruten | 200 | HSCT för hematologiska maligniteter; Lenograstim eventuellt som mobiliseringsmedel. Avbruten — data ofullständiga. |
-| [NCT00043979](https://clinicaltrials.gov/study/NCT00043979) | Fas 2 | Slutförd | 60 | Allogen/syngen stamcellstransplantation för pediatriska sarkom. Ingen direkt koppling till trombocytfrisättningsstörning. |
-| [NCT00354172](https://clinicaltrials.gov/study/NCT00354172) | Fas 2 | Avbruten | 16 | Navelsträngsblodtransplantation för myeloid leukemi. Avbruten med mycket litet urval. |
-| [NCT00923364](https://clinicaltrials.gov/study/NCT00923364) | Fas 2 | Slutförd | 19 | Reducerat konditionerings-HSCT för GATA2-mutationer. Liten kohort, ingen evidens för trombocytfrisättningsstörning. |
-| [NCT05436418](https://clinicaltrials.gov/study/NCT05436418) | Fas 1/2 | Rekryterar | 260 | GVHD-profylax med post-transplantations-cyklofosfamid. Fokus på immunsuppression, ej trombocytfunktion. |
-| [NCT05170828](https://clinicaltrials.gov/study/NCT05170828) | Fas 1 | Tillbakadragen | 0 | Studie tillbakadragen innan start — inga data tillgängliga. |
-| [NCT00076752](https://clinicaltrials.gov/study/NCT00076752) | Fas 2 | Slutförd | 9 | Autolog HSCT för svår SLE. Extremt liten kohort (n=9), ingen relevans för trombocytfrisättningsstörning. |
-| [NCT04540120](https://clinicaltrials.gov/study/NCT04540120) | Fas 2 | Avbruten | 49 | Oral dapansutrile för måttlig COVID-19. Studiedesign stämmer inte med Lenograstim (injektion G-CSF); avbruten. |
-| [NCT06859424](https://clinicaltrials.gov/study/NCT06859424) | Fas 2 | Rekryterar | 358 | GVHD-förebyggande plattformsprövning vid missmatchad HSCT. Lenograstim eventuellt i mobiliseringsroll, ej primär intervention. |
-| [NCT04047628](https://clinicaltrials.gov/study/NCT04047628) | Fas 3 | Rekryterar | 156 | Fas 3 RCT: autolog HSCT vs. bästa tillgängliga terapi vid behandlingsresistent relapserande MS. Ingen koppling till trombocytfrisättningsstörning. |
+| Förutsagd indikation | TxGNN-poäng | Bedömning av mekanistiskt samband |
+|------|------|------|
+| Glanzmanns trombasteni | 99,9 % | Orsakas av defekter i integrin αIIbβ3. G-CSF saknar känd effekt här. Möjlig roll endast som stöd vid stamcellstransplantation. |
+| Pseudo-von Willebrands sjukdom | 99,9 % | Orsakas av funktionsökande varianter i GP1BA. Ingen känd påverkan från lenograstim. |
+| Svår icke-proliferativ diabetesretinopati | 99,6 % | Riktningen på effekten är osäker, eftersom G-CSF både kan stödja kärlreparation och främja inflammation eller nybildning av kärl. Etablerade behandlingar finns. |
 
 ---
 
-## Litteraturbevis
+### Marknadsinformation Sverige
 
-Ingen relaterad litteratur tillgänglig för närvarande.
-
----
-
-## Marknadsinformation Sverige
-
-Lenograstim är för närvarande **inte marknadsförd i Sverige**. Inga produktgodkännanden är registrerade hos Läkemedelsverket.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 11846 | Granocyte (Sanofi AB), återkallad | Pulver och vätska till injektions-/infusionsvätska, lösning | Ej angiven |
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+Se produktresumén för säkerhetsinformation. Inga varningar, kontraindikationer eller läkemedelsinteraktioner fanns tillgängliga i de sammanställda uppgifterna, och det enda godkännandet är återkallat.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-Den mekanistiska kopplingen mellan Lenograstim och primär trombocytfrisättningsstörning är extremt indirekt och bygger på ett flerstegat resonemang (G-CSF-medierad HSC-mobilisering → allogen HSCT → megakaryocytbyte) som inte stöds av direkt klinisk evidens. Samtliga 10 identifierade kliniska prövningar bedöms ha låg relevans (Grade C) för indikationen, och inga relevanta publikationer finns tillgängliga.
+- Förutsägelserna saknar både biologisk motivering och stöd från kliniska prövningar eller publikationer (evidensnivå L5). Dessutom saknas säkerhetsdata och uppgifter om verkningsmekanism, och det svenska godkännandet är återkallat.
 
 **För att gå vidare krävs:**
-- Direkta kliniska studier eller fallrapporter som undersöker Lenograstims effekt vid primär trombocytfrisättningsstörning
-- Prekliniska data (in vitro/in vivo) som visar direkt påverkan på megakaryocytfunktion eller trombocytgranulafrisättning
-- Fullständig MOA-data från DrugBank som klargör om G-CSF-signalering har kliniskt relevanta korseffekter på megakaryocytlinjen
-- Säkerhetsinformation (varningar, kontraindikationer) från aktuell produktresumé
+- Verkningsmekanism och ursprunglig indikation för lenograstim behöver hämtas, till exempel från DrugBank.
+- Varningar och kontraindikationer behöver hämtas från produktresumén hos Läkemedelsverket (MPA).
+- Prekliniska data eller mekanistiska studier som visar ett samband mellan G-CSF och trombocytfunktion behöver tas fram.
+- Systematisk litteratur- och prövningssökning behöver göras för de föreslagna indikationerna.
+- Om någon indikation ska prioriteras: den stödjande rollen vid stamcellstransplantation vid Glanzmanns trombasteni är den mest rimliga att utreda vidare, men då som tilläggsbehandling och inte som sjukdomsriktad terapi.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

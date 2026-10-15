@@ -2,7 +2,7 @@
 layout: default
 title: Urofollitropin
 parent: Endast modellprediktion (L5)
-nav_order: 109
+nav_order: 444
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,39 +29,37 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Nu genererar jag rapporten baserat på Evidence Pack. Urofollitropin (DB00094) är ett follikelstimulerande hormon (FSH) utan godkänd indikation i Sverige – systemprompten anger att `taiwan_regulatory` avser MPA-data (Sverige).
+# Urofollitropin: Från (ingen ursprunglig indikation angiven) till migränsjukdom
 
 ---
 
-# Urofollitropin: Från fertilitetsbehandling till migrän
-
 ## Sammanfattning
 
-Urofollitropin är ett renat follikelstimulerande hormon (FSH) som traditionellt används för ovulationsinduktion och kontrollerad ovariestimulering inom fertilitetsbehandling. TxGNN-modellen förutsäger att läkemedlet kan ha effekt mot **migrän**, baserat på en indirekt biologisk länk via FSH-driven estrogenproduktion och trigeminal neurovaskulär sensibilisering. Evidensbasen är dock ytterst svag – **inga kliniska prövningar** och **inga direkta publikationer** stödjer denna riktning, vilket ger lägsta möjliga evidensnivå (L5).
+Urofollitropin är ett urinframställt follikelstimulerande hormon (FSH, ett gonadotropin) som används vid ägglossningsinduktion och assisterad befruktning. I de data som sammanställts för denna rapport finns dock ingen godkänd indikationstext registrerad. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **migränsjukdom**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder förutsägelsen. Den är därför enbart en modellbaserad hypotes.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Ovulationsinduktion och kontrollerad ovariestimulering (fertilitetsbehandling, FSH-baserad) |
-| Förutsagd ny indikation | Migrän (migraine disorder) |
+|------|------|
+| Ursprunglig indikation | Ingen indikationstext registrerad i godkännandedata (använd produktresumén) |
+| Förutsagd ny indikation | Migränsjukdom (migraine disorder) |
 | TxGNN-förutsägelsepoäng | 99,85 % |
-| Evidensnivå | L5 – Endast modellförutsägelse, inga faktiska studier |
-| Marknadsstatus i Sverige | Inte godkänt i Sverige |
-| Antal godkännanden | 0 |
+| Evidensnivå | L5 (endast modellförutsägelse) |
+| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Antal godkännanden | 6 (samtliga avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-Urofollitropin är ett renat FSH som stimulerar äggstockarnas follikeltillväxt och ökar estrogenproduktionen. Eftersom FSH inte verkar direkt på centrala nervsystemet, bygger TxGNN-förutsägelsen på en flerstegskedja i kunskapsgrafen: **FSH → ökad estrogensyntes → modulering av trigeminal neurovaskulär känslighet → migrän**.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är urofollitropin ett gonadotropin med FSH-aktivitet. Dess effekt vid ägglossningsinduktion och assisterad befruktning är känd, men något mekanistiskt samband med migrän är inte belagt i underlaget.
 
-Menstruationsmigrän är välkänt kopplad till cykliska estrogenfluktuationer – ett sjunkande estrogenläge inför menstruation sänker tröskeln för trigeminusaktivering och kortikalt spridande depolarisation. Teorin är att Urofollitropin, genom att stabilisera eller höja estrogenproduktionen, teoretiskt skulle kunna dämpa denna känslighet. Det finns dock **ingen klinisk eller preklinisk studie** som undersökt detta samband, och naturliga FSH-variationer under menstruationscykeln har inte förknippats med något migränskydd.
+Det enda tänkbara sambandet är indirekt och spekulativt: hormonella svängningar, framför allt i östrogennivåer, är kända för att påverka migrän. FSH-behandling förändrar östrogennivåerna, men det betyder inte att läkemedlet skulle lindra migrän. Det kan lika gärna vara en riskfaktor.
 
-Sammantaget är mekanismlänken **höggradigt indirekt** och bedöms av analysen som sannolikt flerstegsbrus i kunskapsgrafen. Förutsägelsen ska inte tolkas som ett kliniskt meningsfullt fynd utan som en hypotesgenerande signal som kräver grundlig preklinisk validering innan man kan gå vidare.
+Poängen från TxGNN bygger på grafbaserade samband i en kunskapsgraf och utgör inte klinisk evidens. Närliggande förutsägelser, som migrän med hjärnstamsaura och genetisk migränbenägenhet, speglar sannolikt samma signal och är inte oberoende stöd.
 
 ---
 
@@ -73,17 +71,49 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Litteraturbevis
 
-Ingen direkt relaterad litteratur tillgänglig för närvarande.
+Ingen relaterad litteratur tillgänglig för närvarande.
 
-> **Viktig notering om kunskapsgrafbrus:** Vid sökning på den relaterade indikationen *"migraine with or without aura, susceptibility to"* (rank 9 i TxGNN) hittades 20 publikationer. Granskning visar att samtliga artiklar handlar om **genetisk överlappning mellan epilepsi och migrän** (SCN1A, CACNA1A, neuroinflammation m.m.) och saknar varje koppling till Urofollitropin. Dessa klassificeras som KG-sökbrus och inkluderas **inte** i evidensbedömningen.
+---
+
+## Marknadsinformation Sverige
+
+Samtliga sex godkännanden är avregistrerade och ingen produkt är för närvarande marknadsförd med giltigt godkännande. Samtliga tillhör IBSA Farmaceutici Italia S.r.l.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Status |
+|---------|------|------|-----------|
+| 22944 | Fostimon | Pulver och vätska till injektionsvätska, lösning | Avregistrerad |
+| 46427 | Fostimon Set | Pulver och vätska till injektionsvätska, lösning | Avregistrerad |
+| 47701 | Fostimon Set | Pulver och vätska till injektionsvätska, lösning | Avregistrerad |
+| 46428 | Fostimon Set | Pulver och vätska till injektionsvätska, lösning | Avregistrerad |
+| 22943 | Fostimon | Pulver och vätska till injektionsvätska, lösning | Avregistrerad |
+
+Ytterligare ett godkännande (47702, Fostimon Set) finns också registrerat och är avregistrerat. Ingen godkänd indikationstext finns tillgänglig i data.
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Läkemedelsinteraktioner**: En interaktion av måttlig allvarlighetsgrad är registrerad, med **ganirelix** (källa: DDInter). Ganirelix är en GnRH-antagonist som används i fertilitetsbehandling, så kombinationen är relevant i den kliniska miljö där urofollitropin används.
 
-> Säkerhetsdata (varningar, kontraindikationer, läkemedelsinteraktioner) saknas i detta Evidence Pack. Hämtning av fullständig produktresumé från EMA/Läkemedelsverket rekommenderas innan vidare utvärdering.
+Varnings- och kontraindikationsdata saknas i de data som sammanställts. Se produktresumén för övrig säkerhetsinformation.
+
+---
+
+## Övriga förutsägelser med högst poäng
+
+Samtliga övriga förutsägelser bland de tio högst rankade saknar också kliniska prövningar och litteratur (evidensnivå L5). Ingen av dem har ett mekanistiskt stöd i underlaget.
+
+| Rang | Sjukdom | TxGNN-poäng | Bedömning |
+|------|---------|------|-----------|
+| 2 | Migrän med hjärnstamsaura | 99,81 % | Undertyp av migrän, sannolikt samma signal som rang 1 |
+| 3 | Cauda equina-syndrom | 99,78 % | Ingen rimlig mekanism, sannolikt grafartefakt |
+| 4 | His bundle-takykardi | 99,69 % | Inget känt samband med FSH |
+| 5 | Restless legs syndrome | 99,69 % | Dopamin- och järnrelaterad patofysiologi, inget FSH-samband |
+| 6 | Neurogen blåsa (föråldrad term) | 99,64 % | Föråldrad term i ontologin, lågt värde som mål |
+| 7 | Multifokal förmakstakykardi | 99,54 % | Inget känt samband |
+| 8 | Posturalt ortostatiskt takykardisyndrom (POTS) | 99,52 % | Svag, spekulativ hormonell koppling |
+| 9 | Migrän med eller utan aura, benägenhet | 99,52 % | Dubblerar sannolikt migränsignalen |
+| 10 | Raynauds sjukdom | 99,50 % | Inget FSH-förmedlat samband känt |
 
 ---
 
@@ -92,14 +122,14 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-Förutsägelsen grundar sig uteslutande på TxGNN-modellens kunskapsgrafflöde (FSH → estrogen → trigeminal neurovaskulär modulering) utan stöd från kliniska prövningar, observationsstudier eller direkta publikationer om Urofollitropin vid migrän. Den mekanistiska länken är flerstegsindirekt och bedöms med hög sannolikhet utgöra kunskapsgrafbrus.
+- Förutsägelsen om migrän bygger enbart på en grafbaserad modellpoäng utan kliniska prövningar, litteratur eller etablerad verkningsmekanism. Dessutom saknas giltiga godkännanden i Sverige och säkerhetsdata för läkemedlet är ofullständiga.
 
 **För att gå vidare krävs:**
-- **Preklinisk validering** av FSH:s eventuella effekt på trigeminusaktivering i djurmodeller för menstruationsmigrän
-- **MOA-data** från DrugBank (identifierat datahål DG002) för att stärka mekanismanalysen
-- **Fullständig säkerhetsinformation** från EMA- eller MPA-produktresumé (identifierat datahål DG001) innan eventuell hypotestestning
-- **Expertgranskning** av reproduktionsmedicinsk specialist och neurolog i samverkan, givet FSH:s hormonella verkningsprofil
-- **Litteratursökning** specifikt inriktad på hormonell migrän och exogen FSH-behandling som komplement till TxGNN-signalen
+- Verkningsmekanismdata för läkemedlet (till exempel via DrugBank).
+- Varningar och kontraindikationer från produktresumén (Läkemedelsverket), vilket är ett blockerande dataglapp för säkerhetsbedömning.
+- Litteraturgenomgång av sambandet mellan FSH/östrogenfluktuationer och migrän, inklusive om hormonbehandling snarare ökar migränrisken.
+- Prekliniska eller mekanistiska studier som stödjer en terapeutisk hypotes, innan kliniska studier övervägs.
+- Bedömning av om en ny produkt skulle behöva godkännas på nytt, eftersom alla nuvarande godkännanden är avregistrerade.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

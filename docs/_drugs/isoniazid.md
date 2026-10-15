@@ -2,7 +2,7 @@
 layout: default
 title: Isoniazid
 parent: Måttlig evidens (L3-L4)
-nav_order: 59
+nav_order: 237
 evidence_level: L4
 indication_count: 1
 ---
@@ -29,11 +29,13 @@ Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Isoniazid: Från tuberkulos till konjunktivit
+# Isoniazid: Från lungtuberkulos till konjunktivit
+
+---
 
 ## Sammanfattning
 
-Isoniazid är ett välkänt antimykobakteriellt läkemedel som sedan decennier utgör hörnstenen i behandlingen av *Mycobacterium tuberculosis*-infektioner. TxGNN-modellen förutsäger att det kan vara verksamt mot **konjunktivit** (ögonkatarr), med **1 klinisk prövning** och **20 publikationer** som delvis stöder denna riktning. Det samlade evidensunderlaget är dock begränsat och avser nästan uteslutande **tuberkulös konjunktivit** – inte konjunktivit i allmänhet.
+Isoniazid är ett läkemedel mot tuberkulos som ursprungligen användes för att behandla lungtuberkulos. TxGNN-modellen förutsäger att det kan vara effektivt mot **konjunktivit**, men förutsägelsen bygger enbart på en datormodell. Det finns **inga kliniska prövningar** och **inga publikationer med kontrollerade studier** som stöder riktningen. Den litteratur som hittats består främst av fallrapporter och översikter, till stor del om tuberkulosrelaterad ögonsjukdom.
 
 ---
 
@@ -41,31 +43,23 @@ Isoniazid är ett välkänt antimykobakteriellt läkemedel som sedan decennier u
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Tuberkulos (välkänd klinisk standardindikation; inga svenska registreringsdata tillgängliga) |
+| Ursprunglig indikation | Lungtuberkulos (enligt TxGNN-kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
 | Förutsagd ny indikation | Konjunktivit |
-| TxGNN-förutsägelsepoäng | 99,4% |
+| TxGNN-förutsägelsepoäng | 99,4 % |
 | Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Inte registrerad |
-| Antal godkännanden | 0 |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 4 (samtliga indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata i Evidence Pack. Baserat på känd farmakologi är isoniazid ett prokymedicinerat antibiotikum mot mykobakterier: det aktiveras av katalas-peroxidasenzymet KatG inne i *M. tuberculosis* och bildar en reaktiv metabolit som hämmar InhA (enoyl-ACP-reduktas). Det blockerar därigenom biosyntesen av mykolsyror – en essentiell komponent i mykobakteriernas cellvägg – och leder till bakteriedöd. Denna mekanism är strikt specifik för mykobakterier och saknar känd effekt mot andra patogener som orsakar konjunktivit.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är isoniazid ett medel mot mykobakterier, dess effekt vid lungtuberkulos är väl belagd, och mekanistiskt kan det vara tillämpligt på konjunktivit som orsakas av tuberkulos.
 
-Sambandet mellan isoniazid och konjunktivit är välkänt men smalt avgränsat: läkemedlet förekommer i behandlingen av **tuberkulös konjunktivit** – ett ovanligt tillstånd där *M. tuberculosis* direkt infekterar bindhinnan – samt vid fliktenulär keratokonjunktivit som uppstår som en hypersensitivitetsreaktion mot tuberkulosantigener. Äldre studier har även visat positiv effekt av isoniazidprofylax på fliktenulär keratokonjunktivit i högendemiska populationer.
+Kopplingen till konjunktivit är snäv. Den gäller främst tuberkulosrelaterad ögonsjukdom, framför allt flyktenulär keratokonjunktivit (en överkänslighetsreaktion mot mykobakteriella antigener) och sällsynt primär tuberkulos i bindhinnan. I dessa fall verkar isoniazid genom att behandla eller förebygga den underliggande mykobakterieinfektionen, inte genom en direkt antiinflammatorisk effekt eller en allmän effekt mot konjunktivit.
 
-Det är viktigt att understryka att "konjunktivit" som diagnoskategori innefattar viral, bakteriell (icke-tuberkulos) och allergisk konjunktivit, för vilka isoniazid saknar mekanistiskt stöd. TxGNN:s höga poäng speglar troligtvis strukturella kopplingar i kunskapsgraferna mellan tuberkulos och tuberkulös konjunktivit, snarare än en bred återanvändningspotential över hela diagnosgruppen.
-
----
-
-## Kliniska prövningar
-
-| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
-|---------|------|------|------|---------|
-| [NCT04094012](https://clinicaltrials.gov/study/NCT04094012) | Fas 3 | Avslutad | 490 | Jämför biverkningsprofilen för 3HP- vs 1HP-regimen (båda innehåller isoniazid) vid behandling av latent tuberkulos. Konjunktivit förekommer eventuellt som biverkningsfynd snarare än som behandlingsmål – prövningen ger inget direkt stöd för isoniazid som behandling mot konjunktivit. |
+Läkemedlet förväntas därför inte fungera vid vanlig bakteriell, viral eller allergisk konjunktivit. Den höga modellpoängen (99,4 %) är en ren beräkningsmässig förutsägelse och stöds inte av kliniska data.
 
 ---
 
@@ -73,28 +67,44 @@ Det är viktigt att understryka att "konjunktivit" som diagnoskategori innefatta
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [14253168](https://pubmed.ncbi.nlm.nih.gov/14253168/) | 1965 | Interventionsstudie | Am Rev Respir Dis | Isoniazidprofylax vid fliktenulär keratokonjunktivit bland eskimåer i Alaska. Det starkaste direkta stödet för isoniazid mot tuberkulos-associerad konjunktivit i litteraturen. |
-| [5103251](https://pubmed.ncbi.nlm.nih.gov/5103251/) | 1971 | Övrigt | Ann Oculistique | Lokal behandling med isoniazid vid okulär tuberkulos; stödjer lokalt/systemiskt bruk mot tuberkulös ögonsjukdom inklusive konjunktivit. |
-| [33607832](https://pubmed.ncbi.nlm.nih.gov/33607832/) | 2021 | Fallrapport | Medicine | Pediatrisk fliktenulär keratokonjunktivit associerad med primär sinonasal tuberkulos; behandlades med anti-TB-regim inkluderande isoniazid med gott utfall. |
-| [26692731](https://pubmed.ncbi.nlm.nih.gov/26692731/) | 2015 | Fallrapport | Middle East Afr J Ophthalmol | Tuberkulös konjunktivit i anoftalmisk ögonhåla hos 27-årig kvinna med tidigare miliar-TB; belyser TB:s ovanliga ögonmanifestation. |
-| [17133069](https://pubmed.ncbi.nlm.nih.gov/17133069/) | 2006 | Fallrapport | Cornea | *M. tuberculosis* presenterat som kroniskt rött öga med konjunktival infektion; behandlad med standardiserad anti-TB-terapi. |
-| [10641112](https://pubmed.ncbi.nlm.nih.gov/10641112/) | 1999 | Fallserie | Oftalmologia | 28 fall av tuberkulös keratokonjunktivit inkl. 13 pediatriska; alla med positiv tuberkulintest och röntgenologiska TB-fynd; behandlade med anti-TB. |
-| [25433746](https://pubmed.ncbi.nlm.nih.gov/25433746/) | 2014 | Fallrapport | Can J Ophthalmol | Konjunktival fliktion som tidig markör för förestående klinisk tuberkulos; understryker vikten av tidig anti-TB-behandling inklusive isoniazid. |
-| [32674602](https://pubmed.ncbi.nlm.nih.gov/32674602/) | 2020 | Fallrapport | Clin Pediatrics | Oväntat fall av konjunktivit hos ungdom; belyser mykobakteriell etiologi som differentialdiagnos vid atypisk konjunktivit. |
-| [14089390](https://pubmed.ncbi.nlm.nih.gov/14089390/) | 1964 | Fallserie | Arch Ophthalmol | Primär tuberkulos i bindhinnan; tidiga dokumenterade fall av konjunktivalt tuberkulosengagemang behandlade med anti-TB-regim. |
-| [10084171](https://pubmed.ncbi.nlm.nih.gov/10084171/) | 1999 | Fallrapport | Rev Rhum Engl Ed | Isoniazid vid refraktär artropati efter intravesikal BCG-terapi; isoniazids roll vid BCG-relaterade komplikationer (inkl. konjunktivit i Reiter-liknande syndrom) diskuteras. |
+| [14253168](https://pubmed.ncbi.nlm.nih.gov/14253168/) | 1965 | Kohort-/fältstudie (historisk) | The American Review of Respiratory Disease | Isoniazidprofylax vid flyktenulär keratokonjunktivit hos eskimåer i sydvästra Alaska. Abstract saknas. |
+| [33607832](https://pubmed.ncbi.nlm.nih.gov/33607832/) | 2021 | Fallrapport | Medicine | Sällsynt fall av flyktenulär keratokonjunktivit hos barn med primär sinonasal tuberkulos. Tuberkulos är en vanlig orsak i områden med hög förekomst. |
+| [14089390](https://pubmed.ncbi.nlm.nih.gov/14089390/) | 1964 | Fallrapport | Archives of Ophthalmology | Primär tuberkulos i bindhinnan. Abstract saknas. |
+| [10641112](https://pubmed.ncbi.nlm.nih.gov/10641112/) | 1999 | Ej klassificerad | Oftalmologia | 28 fall av tuberkulös keratokonjunktivit, varav 13 hos barn med primär tuberkulos. Alla hade positivt tuberkulintest. |
+| [5103251](https://pubmed.ncbi.nlm.nih.gov/5103251/) | 1971 | Ej klassificerad | Annales d'oculistique | Lokal användning av isoniazid vid ögontuberkulos. Abstract saknas. |
+| [10084171](https://pubmed.ncbi.nlm.nih.gov/10084171/) | 1999 | Fallrapport | Revue du rhumatisme | Isoniazid vid svårbehandlad artropati efter BCG-behandling i urinblåsan. Rör inte konjunktivit direkt. |
+| [12226788](https://pubmed.ncbi.nlm.nih.gov/12226788/) | 2002 | Fallrapport | Deutsche medizinische Wochenschrift | Kronisk reaktiv artrit med konjunktivit efter BCG-instillation. |
+| [1363080](https://pubmed.ncbi.nlm.nih.gov/1363080/) | 1992 | Översikt | Optometry Clinics | Ögonbiverkningar av systemiska läkemedel. Handlar om biverkningar, inte behandlingseffekt. |
+
+Flera av de hittade artiklarna gäller biverkningar eller BCG-relaterad artrit och utgör inte evidens för behandlingsnytta vid konjunktivit. Några (till exempel om toxisk epidermal nekrolys och Münchhausen by proxy) har bedömts som irrelevanta och är utelämnade.
 
 ---
 
 ## Marknadsinformation Sverige
 
-Isoniazid är inte registrerat i Sverige enligt tillgängliga data – inga godkännandenummer eller produkter har hittats i den genomsökta databasen. Läkemedlet kan förekomma som licensläkemedel eller i kombinationspreparat som inte indexerats i nuvarande datakälla.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 7564 | Tibinide (Viatris AB) | Tablett | Indikationstext saknas (indraget) |
+| 16688 | Rimactazid (Sandoz A/S) | Filmdragerad tablett | Indikationstext saknas (indraget) |
+| 16663 | Rimcure (Sandoz A/S) | Filmdragerad tablett | Indikationstext saknas (indraget) |
+| 16899 | Rimstar (Sandoz A/S) | Filmdragerad tablett | Indikationstext saknas (indraget) |
 
 ---
 
 ## Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Sjukdomar där isoniazid är kontraindicerat eller bör undvikas** (enligt kunskapsgrafen, inte produktresumé): leversvikt, akut leversvikt, leversjukdom, hepatit, porfyri (inklusive ärftlig porfyri och störd porfyrinomsättning), sjukdom i gallblåsan, diabetes mellitus, diabetisk ketoacidos, gikt, perifer neuropati och sjukdom i det perifera nervsystemet, missbruk/beroende samt långsam acetylering.
+- **Läkemedelsinteraktioner**: totalt 100 interaktioner registrerade. Exempel på måttliga interaktioner:
+  - Diabetesläkemedel: acarbose, albiglutid, alogliptin, metformin, pioglitazon, kanagliflozin, klorpropamid, dapagliflozin
+  - Metronidazol
+  - Budesonid (även nasal)
+  - D-vitaminer: kolekalciferol, kalcifediol, kalcitriol
+  - Alosetron
+  - Pikosulfat
+
+  Kortikosteroider som hydrokortison, triamcinolon, dexametason och betametason har lindriga interaktioner.
+
+Varningar och kontraindikationer från produktresumén saknas i underlaget. Se produktresumén för fullständig säkerhetsinformation.
 
 ---
 
@@ -103,13 +113,14 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-Trots en mycket hög TxGNN-förutsägelsepoäng (99,4%) baseras det samlade evidensunderlaget enbart på fallrapporter och äldre interventionsstudier (L4) – samtliga avgränsade till **tuberkulös konjunktivit**. Eftersom isoniazid saknar verkningsmekanism mot icke-mykobakteriella konjunktivitorsakar är återanvändningspotentialen smal och redan delvis integrerad i befintliga TB-behandlingsriktlinjer; det rör sig i praktiken om ett erkänt, men smalt, tillämpningsområde snarare än en ny indikation.
+- Förutsägelsen bygger enbart på en modellpoäng (evidensnivå L4). Det saknas kliniska prövningar, och litteraturen består av äldre fallrapporter och översikter, främst om tuberkulosrelaterad ögonsjukdom. Alla svenska godkännanden är indragna.
 
 **För att gå vidare krävs:**
-- Specificering av om satsningen avser enbart **tuberkulös konjunktivit** (befintlig indikation inom TB-vård) eller bredare konjunktivitetiologier (saknar mekanistiskt stöd)
-- Genomgång av isoniazids regulatoriska status i Sverige via MPA/FASS för att fastställa om licensmöjlighet föreligger
-- Systematisk översikt eller metaanalys av isoniazid vid okulär tuberkulos för att höja evidensnivån från L4 till L3 eller högre
-- Verifiering av säkerhetsprofil (biverkningar, kontraindikationer, läkemedelsinteraktioner) via FASS eller WHO:s produktresumé
+- Hämta verkningsmekanism och produktresumé (varningar och kontraindikationer), eftersom säkerhetsgranskningen inte kan genomföras utan dem.
+- Avgränsa målgruppen till tuberkulosrelaterad konjunktivit, till exempel flyktenulär keratokonjunktivit, i stället för konjunktivit i allmänhet.
+- Göra en systematisk litteraturgenomgång av isoniazid vid ögontuberkulos och bedöma om kontrollerade studier finns.
+- Utvärdera leversäkerhet, neuropatirisk och interaktioner mot den aktuella patientgruppen.
+- Klarifiera regulatorisk status, eftersom inga giltiga godkännanden finns i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -2,7 +2,7 @@
 layout: default
 title: Fluorouracil
 parent: Endast modellprediktion (L5)
-nav_order: 50
+nav_order: 202
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,84 +29,116 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Bra. Jag har bekräftat att detta är ett TxGNN-projekt (Se = Sverige). Nu genererar jag rapporten baserat på Evidence Pack JSON.
+# Fluorouracil: Från hudcancer och magcancer till rabdomyosarkom
 
 ---
 
-# Fluorouracil (5-FU): Från cancerbehandling till botryoid embryonal rabdomyosarkom i vagina
+### Sammanfattning
 
-## Sammanfattning
-
-Fluorouracil (5-FU) är ett klassiskt fluoropyrimidin-antimetabolit-cytostatikum med bred klinisk användning inom onkologin – framför allt vid kolorektal-, magsäcks- och pankreascancer – men saknar registrerade godkännanden i Sverige. TxGNN-modellen förutsäger att det kan vara effektivt mot **botryoid embryonal rabdomyosarkom i vagina**, ett extremt sällsynt pediatriskt tumörtillstånd. Förutsägelsen stöds av **0 kliniska prövningar** och **0 publikationer** för denna specifika indikation, vilket innebär att evidensunderlaget är otillräckligt för vidare utredning i nuläget.
+Fluorouracil är en antimetabolit som ursprungligen användes mot bland annat basalcellscancer, aktinisk keratos, magcancer, kolonmetastaser och pankreasadenokarcinom. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **embryonalt botryoid rabdomyosarkom i vagina** (poäng 99,8 %).
+För denna indikation finns **inga kliniska prövningar** och **ingen publikation**, så stödet är enbart en modellförutsägelse. Rabdomyosarkom i allmänhet (rang 2) har fyra publikationer, men de är indirekta eller anekdotiska.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Ej registrerat i Sverige (5-FU används kliniskt vid kolorektal-, magsäcks- och pankreascancer) |
-| Förutsagd ny indikation | Botryoid embryonal rabdomyosarkom i vagina |
-| TxGNN-förutsägelsepoäng | 99,75% |
-| Evidensnivå | L5 – Enbart modellförutsägelse, inga faktiska studier |
-| Marknadsstatus i Sverige | Ej registrerat |
-| Antal godkännanden | 0 |
+|------|------|
+| Ursprunglig indikation | Ingen indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: ytlig multifokal basalcellscancer, aktinisk keratos, magcancer m.fl. |
+| Förutsägd ny indikation | Botryoid embryonalt rabdomyosarkom i vagina |
+| TxGNN-förutsägelsepoäng | 99,8 % |
+| Evidensnivå | L5 (endast modellförutsägelse) |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 6 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-Detaljerad verkningsmekanismdata (MOA) saknas i detta datapaket. Baserat på känd farmakologi är fluorouracil en antimetabolit ur fluoropyrimidingruppen. Dess primära verkningsmekanism bygger på hämning av enzymet tymidylatsyntetas (TS), vilket blockerar omvandlingen av deoxyuridylat (dUMP) till deoxytymidylat (dTMP) – ett nyckelsteg i DNA-syntesen. Därutöver inkorporeras aktiva metaboliter av 5-FU i cellulär RNA och DNA, vilket stör cellernas funktion. Dessa mekanismer leder till hämning av celldelning i snabbväxande celler, vilket är grunden för 5-FU:s brett etablerade cytotoxiska effekt.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Fluorouracil är dock en välkänd antimetabolit som hämmar tymidylatsyntas och byggs in i RNA. Det stör DNA- och RNA-syntesen i celler som delar sig snabbt.
 
-Botryoid embryonal rabdomyosarkom i vagina är en undertyp av rabdomyosarkom (RMS) som utgår från skelettmuskelprogenitorceller och drabbar huvudsakligen barn under fem år. Den internationella standardbehandlingen är VAC-regimen (vinkristin + aktinomycin D + cyklofosfamid), med tillägg av strålbehandling vid behov. Fluorouracil ingår inte i något etablerat behandlingsprotokoll för RMS, vare sig som förstahandsval eller salvage-terapi, och det saknas känd specifik biologisk motivering för att 5-FU:s TS-hämning skulle ha mekanistiska fördelar gentemot just denna tumörtyp jämfört med VAC:s komponenter.
+Rabdomyosarkom är en snabbväxande tumör, framför allt hos barn. Därför är det mekanistiskt tänkbart att en antimetabolit kan påverka tumörcellerna. Läkemedlets effekt är redan visad vid flera solida tumörer, till exempel i mag-tarmkanalen.
 
-Det höga TxGNN-poänget (99,75%) bör tolkas med stor försiktighet. Alla tio topprankade förutsägelser i detta paket tillhör RMS-klustret eller en besläktad sarkomgrupp, vilket tyder på att poängen speglar spridningseffekter i kunskapsgrafen via delade grannoder snarare än ett äkta biologiskt signal för denna sällsynta undertyp. Det fullständiga avsaknaden av kliniska prövningar och litteratur bekräftar att förutsägelsen inte är handlingskraftig i nuläget.
+Förutsägelsen är ändå svagt underbyggd. Dagens standardbehandling vid rabdomyosarkom bygger på andra regimer (till exempel vinkristin, aktinomycin D och cyklofosfamid eller ifosfamid) och är inte centrerad kring fluorouracil. Den höga modellpoängen är en beräkning, inte klinisk evidens.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
-Ingen relaterad litteratur tillgänglig för närvarande.
+Det finns ingen litteratur för just botryoid embryonalt rabdomyosarkom i vagina. Tabellen nedan visar litteratur för den bredare diagnosen rabdomyosarkom (rang 2), som är närmast relaterad.
+
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|-----|------|------|---------|
+| [3884137](https://pubmed.ncbi.nlm.nih.gov/3884137/) | 1985 | Översikt | Cancer | Diskuterar värdet av adjuvant kemoterapi vid sarkom hos barn. Rabdomyosarkom utgör cirka hälften av mjukdelssarkomen. |
+| [6277228](https://pubmed.ncbi.nlm.nih.gov/6277228/) | 1981 | Översikt | Annals of the Academy of Medicine, Singapore | Allmän översikt över bot med kemoterapi vid avancerad cancer. Rabdomyosarkom nämns bland barncancrar som kan botas. |
+| [3951398](https://pubmed.ncbi.nlm.nih.gov/3951398/) | 1986 | Kohortstudie | Medical and pediatric oncology | Behandling av 22 barn med odifferentierad nasofarynxcancer. Handlar inte om rabdomyosarkom. |
+| [42483493](https://pubmed.ncbi.nlm.nih.gov/42483493/) | 2026 | Fallrapport | Case reports in oncological medicine | En 19-årig man med rabdomyosarkom i tungan. Cisplatin plus 5-fluorouracil gav sjukdomsprogression. Svar uppnåddes först med tredjelinjeregim. |
+
+Dessa publikationer är indirekta eller anekdotiska. Fallrapporten visar snarare att fluorouracilkombinationen inte hjälpte patienten.
 
 ---
 
-## Cytotoxicitet
+### Marknadsinformation Sverige
+
+Samtliga sex godkännanden är indragna. Ingen godkänd indikationstext finns registrerad.
+
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 11425 | Fluorouracil Teva | Injektionsvätska, lösning | Uppgift saknas |
+| 57767 | Tolak | Kräm | Uppgift saknas |
+| 64607 | Tolak | Kräm | Uppgift saknas |
+| 65606 | Tolak | Kräm | Uppgift saknas |
+| 25842 | Fluorouracil Accord | Injektions-/infusionsvätska, lösning | Uppgift saknas |
+
+---
+
+### Cytotoxicitet
 
 | Post | Innehåll |
-|------|----------|
-| Cytotoxicitetsklassificering | Konventionellt cytotoxiskt läkemedel – antimetabolit (fluoropyrimidin) |
-| Myelosuppressionsrisk | Medel – kan orsaka leukopeni, neutropeni och trombocytopeni, framför allt vid bolusadministration; kontinuerlig IV-infusion ger lägre hematologisk toxicitet men högre risk för hand-fotsyndrom (palmar-plantar erytrodysestesi) |
-| Emetogenicitetsklassificering | Låg till medel – varierar beroende på doseringsregim; IV bolus har högre emetogen potential än kontinuerlig infusion |
-| Övervakningspunkter | Fullständigt blodstatus (CBC) inkl. differentialräkning; lever- och njurfunktionsprover; DPD-enzymstatus (dihydropyrimidindehydrogenas) – patienter med DPD-brist löper kraftigt ökad risk för livshotande toxicitet och bör testas innan behandling |
-| Hanteringsskydd | Ja – klassificeras som cytotoxiskt läkemedel och kräver skyddsåtgärder vid beredning, administrering och avfallshantering enligt cytostatikaföreskrifter (AFS 2005:5) |
+|------|------|
+| Cytotoxicitetsklassificering | Konventionell cytotoxisk (antimetabolit, fluoropyrimidin) |
+| Myelosuppressionsrisk | Hög. Kunskapsgrafen listar neutropeni, trombocytopeni, leukopeni och agranulocytos bland tillstånd där läkemedlet är kontraindicerat. |
+| Emetogenicitetsklassificering | Medel (generellt för fluoropyrimidiner i injektionsform) |
+| Övervakningspunkter | Blodstatus (neutrofiler, trombocyter), lever- och njurfunktion, mag-tarmtoxicitet (diarré, stomatit) |
+| Hanteringsskydd | Se produktresumén för varningar och försiktighetsåtgärder. Hantering enligt gällande föreskrifter för cytotoxiska läkemedel är normalt aktuell. |
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumé): njursjukdom, leversjukdom, gallblåsesjukdom, trombocytopeni, neutropeni, agranulocytos, leukopeni, diarrésjukdom, aktivt magsår, faryngit, stomatit, pyouretär samt **dihydropyrimidindehydrogenas-brist (DPD-brist)**. DPD-brist är särskilt viktigt eftersom det kan ge allvarlig eller livshotande toxicitet.
+- **Läkemedelsinteraktioner**: 100 interaktioner identifierade. De viktigaste:
+  - Metronidazol (måttlig)
+  - Tinidazol (måttlig)
+  - Cimetidin (lindrig)
+  - Levofloxacin (lindrig)
+  - Flera andra har okänd allvarlighetsgrad, bland andra omeprazol, pantoprazol, metformin och morfin.
+
+Produktresumé med varningar och kontraindikationer har inte kunnat hämtas. Se produktresumén för fullständig säkerhetsinformation.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensnivån är L5 (enbart TxGNN-modellförutsägelse) utan stöd från kliniska prövningar eller publicerad litteratur för denna indikation. Den biologiska kopplingen är spekulativ och standardbehandlingen (VAC-regimen) för botryoid embryonal RMS i vagina är väletablerad och involverar inte fluorouracil.
+- Förutsägelsen bygger enbart på en modellberäkning (L5) utan kliniska prövningar eller litteratur för denna indikation, och befintlig litteratur om rabdomyosarkom är indirekt.
+- Alla svenska godkännanden är indragna och läkemedlets toxicitetsprofil är påtaglig. Standardbehandlingen vid rabdomyosarkom bygger dessutom på andra läkemedel.
 
 **För att gå vidare krävs:**
-- Prekliniska in vitro-studier av 5-FU mot botryoid RMS-cellinjer för att etablera biologisk motivering
-- Klargörande av varför 5-FU:s TS-hämning skulle erbjuda fördelar utöver etablerad VAC-behandling
-- Komplettering av säkerhetsdata: fullständig produktresumé, kontraindikationer och varningsprofil (DPD-brist är särskilt relevant i pediatrisk population)
-- Granskning av om 5-FU förekommer i något pediatriskt RMS-salvage-protokoll för att utesluta exkludering av faktisk klinisk användning från litteratursökningen
+- Hämta och granska produktresumé med varningar och kontraindikationer (blockerande dataluckor).
+- Kartlägga verkningsmekanismen via DrugBank för en fullständig mekanistisk analys.
+- Systematisk litteratursökning efter direkta data om fluorouracil vid rabdomyosarkom, inklusive prekliniska studier i relevanta cellinjer eller modeller.
+- Bedöma administreringsväg och beredningsform, samt om en ny godkänd produkt skulle behöva tas fram i Sverige.
+- Utvärdera nyttan mot etablerade regimer innan någon klinisk prövning planeras.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Guaifenesin
-parent: Hög evidens (L1-L2)
-nav_order: 54
-evidence_level: L2
+parent: Endast modellprediktion (L5)
+nav_order: 219
+evidence_level: L5
 indication_count: 5
 ---
 
 # Guaifenesin
 {: .fs-9 }
 
-Evidensnivå: **L2** | Förutsagda indikationer: **5** st
+Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,82 +29,88 @@ Evidensnivå: **L2** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Guaifenesin: Från slemupplösande medel till behandling av nässjukdom
+# Guaifenesin: Från allergisk rinit och förkylning till sjukdom i näshålan
+
+---
 
 ## Sammanfattning
 
-Guaifenesin är ett välkänt slemupplösande medel (expektorant) som traditionellt används för att minska slemviskositet och underlätta avlägsnandet av slem från luftvägarna. TxGNN-modellen förutsäger att det kan vara effektivt mot **nässjukdom (nasal cavity disease)**, med **1 avslutad klinisk fas 2-prövning** och **2 publikationer** som stöder denna riktning. Mekanistisk koppling bedöms som stark och biologiskt plausibel.
+Guaifenesin är ett slemlösande medel (expektorans) som i kunskapsgrafen kopplas till bland annat allergisk rinit, vasomotorisk rinit, faryngit och förkylning. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **sjukdom i näshålan** (poäng 99,98 %). Evidensen är mycket begränsad: **inga kliniska prövningar** och **1 publikation** (en översikt) stöder denna riktning.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Slemupplösande medel vid luftvägsbesvär (expektorant) |
-| Förutsagd ny indikation | Nässjukdom (nasal cavity disease) |
-| TxGNN-förutsägelsepoäng | 99,98% |
-| Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Ej godkänd på marknaden |
-| Antal godkännanden | 0 |
-| Rekommenderat beslut | Fortsätt med försiktighet |
+|------|------|
+| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad i de svenska godkännandena. Enligt kunskapsgrafen: allergisk rinit, vasomotorisk rinit, faryngit, förkylning, rinit, nasofaryngit, huvudvärkssjukdom |
+| Förutsagd ny indikation | Sjukdom i näshålan (nasal cavity disease) |
+| TxGNN-förutsägelsepoäng | 99,98 % |
+| Evidensnivå | L4 (endast översiktsartikel, inga kliniska prövningar) |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 3 (alla indragna) |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-Detaljerad verkningsmekanismdata saknas för närvarande i tillgängliga datakällor. Baserat på känd farmakologi är guaifenesin ett slemupplösande medel som ökar vattenhalten i luftvägssekret, minskar slemviskositeten och förbättrar mukociliär clearance. Denna effekt har dokumenterats vid nedre luftvägstillstånd och utgör grunden för dess klassiska tillämpning som expektorant.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är guaifenesin ett slemlösande medel som tunnar ut och lättar upp slem i luftvägarna. Kopplingen till sjukdom i näshålan är därför mekanistiskt rimlig, men bygger på läkemedelsklassen och inte på dokumenterad verkningsmekanism.
 
-Sambandet mellan guaifenesins verkningsmekanism och nässjukdom är mekanistiskt välmotiverat. Kronisk rinit och sinuit präglas av förtjockat, trögflödande slem i näshålan som hämmar den naturliga ciliära rensningsmekanismen – precis det tillstånd som guaifenesiners slemhinnelösande effekt direkt adresserar. Mukociliär dysfunktion är en central patofysiologisk mekanism vid nässjukdom, och ett medel som normaliserar slemkonsistensen ger potentiell symtomlindring och underlättar självläkning.
+Den nya indikationen överlappar kraftigt med de befintliga. Guaifenesin är redan kopplat till rinit, vasomotorisk rinit och nasofaryngit, som alla är tillstånd i näsa och övre luftvägar. Förutsägelsen är därför en liten utvidgning snarare än ett helt nytt användningsområde.
 
-Förutsägelsen stärks ytterligare av att guaifenesin redan används i klinisk praxis vid nasala tillstånd i kombination med dekongestiva medel, och att det finns en avslutad randomiserad prövning specifikt för kronisk rinit hos barn.
+Det höga modellvärdet (0,9998) är enbart en förutsägelse. Det bör tolkas med försiktighet, eftersom det sannolikt delvis speglar att sjukdomarna ligger nära varandra i kunskapsgrafen.
 
 ---
 
 ## Kliniska prövningar
 
-| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
-|-----------------|-----|--------|-----------|--------------|
-| [NCT01364467](https://clinicaltrials.gov/study/NCT01364467) | Fas 2 | Avslutad | 30 | 14-dagars randomiserad, placebokontrollerad pilotstudie av oralt guaifenesin för kronisk rinit hos barn (7–18 år). Undersökte effekten på nasala symtom via SN-5-skalan, näsvolym och slemhinnans biofysikaliska egenskaper. Hypotesen var att guaifenesin minskar slemviskositet och förbättrar nässymtom jämfört med placebo. |
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
 ## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [9065342](https://pubmed.ncbi.nlm.nih.gov/9065342/) | 1997 | Klinisk översikt | American Journal of Rhinology | Redogör för erfarenheter från 22 vuxna cystisk fibros-patienter med kronisk sinuit. Presenterar rekommendationer för medicinsk och kirurgisk behandling vid svår sinuit i denna patientgrupp, kontextuellt relevant för slemhinnans roll vid nässjukdom. |
-| [12487405](https://pubmed.ncbi.nlm.nih.gov/12487405/) | 2002 | Klinisk översikt | Logopedics, Phoniatrics, Vocology | Behandlingsstrategier för röstanvändare med dolda respiratoriska allergier. Betonar att dekongestiva medel med guaifenesin kan vara användbara vid nasala allergisymtom, medan antihistaminer generellt undviks på grund av deras uttorkande effekt på slemhinnorna. |
+|------|-----|------|------|---------|
+| [12487405](https://pubmed.ncbi.nlm.nih.gov/12487405/) | 2002 | Översikt | Logopedics, Phoniatrics, Vocology | Behandling av dolda luftvägsallergier hos röstanvändare. Avsnschplöckande: antihistaminer undviks i regel, medan avsvällande medel med guaifenesin kan vara användbara. Steroider är mer användbara vid ihållande allergiska besvär. |
 
 ---
 
 ## Marknadsinformation Sverige
 
-Guaifenesin är för närvarande **inte godkänt på den svenska marknaden**. Inga registrerade godkännanden finns hos Läkemedelsverket (MPA).
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 46501 | Nipenesin | Sirap | Ingen indikationstext registrerad (indraget) |
+| 8941 | Theracough | Oral lösning | Ingen indikationstext registrerad (indraget) |
+| 63154 | Nipenesin Mentol | Oral lösning | Ingen indikationstext registrerad (indraget) |
+
+Samtliga tre godkännanden är indragna och inget är för närvarande giltigt.
 
 ---
 
 ## Säkerhetsaspekter
 
-Ingen säkerhetsdata finns tillgänglig i aktuella datakällor.
+- **Kontraindikationer enligt kunskapsgrafen** (hämtade från relationer i kunskapsgrafen, inte från produktresumétext, och bör därför tolkas med försiktighet): hypertoni, leversvikt, leversjukdom, skrumplever, epilepsi, sömnlöshet, kroniskt obstruktiv lungsjukdom (KOL), magsår och ulcus pepticum, ångestsyndrom, neuros, dystymi, psykotiska tillstånd, ärftlig porfyri och porfyri, njursjukdom, pankreatit, gallblåsesjukdom, trombocytopeni, binjurebarksvikt och Addisons sjukdom, hypotyreos och myxödem, inflammatorisk tarmsjukdom.
+- **Läkemedelsinteraktioner**: Inga interaktioner hittades i den genomsökta datan.
 
-> Se produktresumén för säkerhetsinformation.
+Se produktresumén för fullständig säkerhetsinformation, eftersom varningar och kontraindikationer från de svenska godkännandena inte fanns tillgängliga.
 
 ---
 
 ## Slutsats och nästa steg
 
-**Beslut: Fortsätt med försiktighet**
+**Beslut: Avvakta**
 
 **Motivering:**
-Guaifenesin uppvisar en stark och biologiskt plausibel mekanistisk koppling till nässjukdom, stödd av en avslutad fas 2-pilotstudie med positiv hypotes. Evidensnivån är L2, men begränsas av studiens lilla urvalsstorlek (n=30) och avsaknaden av replikering i en fullskalig prövning. Läkemedlet är dessutom ej godkänt på den svenska marknaden, vilket kräver regulatorisk utredning innan klinisk tillämpning.
+- Trots mycket hög modellpoäng saknas kliniska prövningar, och den enda publikationen är en äldre översikt med indirekt koppling. Dessutom är alla svenska godkännanden indragna, och säkerhetsunderlaget från produktresumén saknas.
 
 **För att gå vidare krävs:**
-- Genomförande av en fas 2/3-studie med adekvat statistisk styrka (≥100 deltagare) i vuxen population
-- Inhämtning av fullständig säkerhetsprofil, varningsinformation och kontraindikationer via produktresumé
-- Kartläggning av lämpliga beredningsformer och administreringsvägar för nässjukdom
-- Utredning av regulatorisk pathway för godkännande på den svenska marknaden (MPA)
-- Validering av mekanistisk koppling specifikt i vuxna – befintlig pilotstudie avsåg uteslutande barn i åldern 7–18 år
+- Hämta varningar och kontraindikationer från produktresumén för de svenska godkännandena
+- Komplettera data om verkningsmekanism (t.ex. via DrugBank)
+- Genomföra en riktad litteratursökning efter kontrollerade studier av guaifenesin vid sjukdomar i näshålan
+- Klargöra varför godkännandena dragits in och om det finns någon aktuell marknadsföring
+- Överväga om indikationen tillför något utöver de redan kända indikationerna rinit och nasofaryngit
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

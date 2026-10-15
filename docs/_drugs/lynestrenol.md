@@ -2,7 +2,7 @@
 layout: default
 title: Lynestrenol
 parent: Endast modellprediktion (L5)
-nav_order: 68
+nav_order: 273
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,82 +29,88 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Lynestrenol: Från syntetiskt gestagen till migrän med eller utan aura
-
-## Sammanfattning
-
-Lynestrenol är ett syntetiskt gestagen (progestogen) som traditionellt används vid gynekologiska tillstånd såsom menstruationsrubbningar och endometrios, men är inte godkänt på den svenska marknaden. TxGNN-modellen förutsäger att det kan vara effektivt vid **migrän med eller utan aura**, via delade genetiska mekanismer mellan epilepsi och migrän (jonkanalsgener som CACNA1A och SCN1A). Evidensunderlaget för denna specifika indikation är begränsat: **0 kliniska prövningar** och **20 publikationer** finns tillgängliga, varav merparten berör epilepsigenetik snarare än Lynestrenols direkta effekt mot migrän.
+# Lynestrenol: Från ej angiven ursprunglig indikation till migrän (migrän med eller utan aura, benägenhet)
 
 ---
 
-## Snabböversikt
+### Sammanfattning
+
+Lynestrenol är ett gestagen (en prodrug som omvandlas till noretisteron) som i Sverige haft ett enda godkännande, som numera är avregistrerat. Någon ursprunglig indikationstext finns inte registrerad.
+TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **migrän med eller utan aura (benägenhet)**, med **0 kliniska prövningar** och **3 publikationer** (en översikt från 2026, en översikt från 1974 och en ogranskad klinisk rapport från 1963) som stöder riktningen. Evidensen är gammal och av låg kvalitet.
+
+---
+
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Ej registrerad i Sverige – indikationsdata saknas |
-| Förutsagd ny indikation | Migrän med eller utan aura |
-| TxGNN-förutsägelsepoäng | 99,51% |
-| Evidensnivå | L5 – Enbart modellförutsägelse, inga direkt Lynestrenol-specifika studier |
-| Marknadsstatus i Sverige | Ej på marknaden |
-| Antal godkännanden | 0 |
+|------|------|
+| Ursprunglig indikation | Ej angiven i tillgängliga data |
+| Förutsagd ny indikation | Migrän med eller utan aura, benägenhet |
+| TxGNN-förutsägelsepoäng | 99,5 % |
+| Evidensnivå | L3 (endast observationella och översiktsartiklar) |
+| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Antal godkännanden | 1 |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta evidenspaket. Baserat på känd information är Lynestrenol ett syntetiskt gestagen som binder till progesteronreceptorer och modulerar den hormonella miljön. Dess gynekologiska effekter är välbelagda, men en direkt koppling till migrän saknas i tillgänglig dokumentation.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är lynestrenol ett gestagen som omvandlas till noretisteron i kroppen. Mekanistiskt kan det vara tillämpbart på migrän, särskilt menstruationsrelaterad migrän.
 
-TxGNN-modellens förutsägelse bygger på att epilepsi och migrän delar genetisk sårbarhet via jonkanalsgener (t.ex. CACNA1A, SCN1A). Den hypotetiska mekanistiska vägen lyder: **Lynestrenol → progesteronreceptorer → neurosteroideffekter → positiv modulering av GABA-A-receptorer → dämpning av kortikal hyperexcitabilitet (CSD)** – vilket är en gemensam patofysiologisk komponent vid migrän med aura. Denna väg är dock höggradigt spekulativ, och det saknas direkta bevis för att Lynestrenol som syntetiskt gestagen producerar tillräckliga neurosteroidmetaboliter (t.ex. allopregnanolon-analoger) in vivo för att uppnå en kliniskt meningsfull GABA-A-effekt.
+Migrän som hänger ihop med menstruationscykeln är känslig för fall i östrogennivån. Gestagenbaserad hormonell cykelsuppression kan därför minska attackfrekvensen genom att jämna ut hormonella svängningar.
 
-Det är värt att notera att det vid sidan av denna förutsägelse finns en äldre klinisk rapport (PMID 14091721, år 1963) om Lynestrenol (Orgametril) som profylaktisk behandling mot migrän i allmänhet – med hormonstabilisering (reduktion av östrogendropp) som troligare biologisk mekanism. Detta stärker inte den epilepsi-aura-genetiska väg som driver Rank 1-förutsägelsen, men antyder att ett biologiskt samband mellan Lynestrenol och migränprofylax förtjänar vidare utredning.
+Stödet är begränsat. En klinisk rapport från 1963 beskriver profylaktisk behandling av migrän med lynestrenol, men den är okontrollerad och historisk. En översikt från 2026 jämför substanser i kombinerade p-piller vid bland annat migrän och antyder en möjlig förbättring vid menstruationsrelaterad huvudvärk, särskilt med 28/0-regimen. Mekanismen är inte bekräftad, och den höga modellpoängen är enbart en förutsägelse.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Litteraturbevis
-
-Nedanstående 10 publikationer är de mest relevanta ur sökningen (n = 20). Notera att ingen publikation studerar Lynestrenol direkt vid migrän med aura — litteraturen belyser den epilepsi–migrän-genetiska överlappning som driver TxGNN:s förutsägelse.
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [33856647](https://pubmed.ncbi.nlm.nih.gov/33856647/) | 2021 | Översikt | Molecular Neurobiology | Epilepsi och migrän delar genetiska och molekylära mekanismer; gemensamma miljöfaktorer och specifika gener har identifierats som patogena vid båda tillstånden |
-| [23294289](https://pubmed.ncbi.nlm.nih.gov/23294289/) | 2013 | Genetisk studie | Epilepsia | Genetisk sårbarhet är delad mellan migrän och epilepsi i EPGP-kohorten, vilket stödjer TxGNN:s modelllogik för denna förutsägelse |
-| [34575901](https://pubmed.ncbi.nlm.nih.gov/34575901/) | 2021 | Översikt | Int J Mol Sci | Genomgång av molekylära mål för antiepileptogenesis; inkluderar GABA-relaterade vägar relevanta för mekanismhypotesen |
-| [34209535](https://pubmed.ncbi.nlm.nih.gov/34209535/) | 2021 | Översikt | Int J Mol Sci | Neuroinflammation som bidragande faktor vid epilepsi; relevant för den gemensamma patofysiologin vid epilepsi–migrän |
-| [17460155](https://pubmed.ncbi.nlm.nih.gov/17460155/) | 2007 | Genetisk länkningsstudie | Neurology | Familjär oksipitotemporallobsepilepsi kopplad till migrän med visuell aura; lokus kartlagt till kromosom 9q — direkt stöd för epilepsi-migrän-aura-kopplingen |
-| [24874544](https://pubmed.ncbi.nlm.nih.gov/24874544/) | 2014 | Litteraturöversikt | Neurobiology of Disease | Könsskillnader i anfallskänslighet; hormonella faktorer (inkl. progestogen) diskuteras som modulatorer av epileptogenicitet |
-| [16244322](https://pubmed.ncbi.nlm.nih.gov/16244322/) | 2005 | Översikt | Human Molecular Genetics | Sårbarhetsgener för komplex epilepsi; GABA- och jonkanalsmutationer utgör centrala mekanismer |
-| [16201993](https://pubmed.ncbi.nlm.nih.gov/16201993/) | 2005 | Översikt | Epilepsia | GABA-A- och glutamatreceptorers roll i kortikal excitabilitet – mekanistisk bakgrund till progesteron/GABA-A-hypotesen |
-| [22938964](https://pubmed.ncbi.nlm.nih.gov/22938964/) | 2012 | Bokkapitel/Översikt | Handbook of Clinical Neurology | Genomgång av djurmodeller för epilepsi; patofysiologiska insikter om jonkanalers roll |
-| [22266888](https://pubmed.ncbi.nlm.nih.gov/22266888/) | 2011 | Översikt | Seminars in Neurology | Genetik vid epilepsi; polygena faktorer och sårbarhetsgeners bidrag till anfallströskel |
+|------|-----|------|------|---------|
+| [41723577](https://pubmed.ncbi.nlm.nih.gov/41723577/) | 2026 | Översikt | Medical Science Monitor | Jämför substanser i kombinerade p-piller vid akne, hirsutism, migrän och dysmenorré. Kombinerade p-piller är kontraindicerade vid migrän med aura, men huvudvärk kopplad till menstruationscykeln kan förbättras, särskilt med 28/0-regimen. |
+| [14091721](https://pubmed.ncbi.nlm.nih.gov/14091721/) | 1963 | Fallserie / okontrollerad klinisk rapport | Svenska Läkartidningen | Beskriver profylaktisk behandling av migrän med lynestrenol (Orgametril). Sammanfattning saknas. |
+| [12276956](https://pubmed.ncbi.nlm.nih.gov/12276956/) | 1974 | Översikt | Contraception, Fertilité, Sexualité | Om låga doser i p-piller. Sammanfattning saknas, och direkt relevans för migrän är oklar. |
 
 ---
 
-## Säkerhetsaspekter
+### Marknadsinformation Sverige
 
-> Se produktresumén för säkerhetsinformation.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 8919 | Exlutena (NV Organon) | Tablett | Ingen indikationstext registrerad (avregistrerad) |
 
 ---
 
-## Slutsats och nästa steg
+### Säkerhetsaspekter
+
+- **Läkemedelsinteraktioner**: Inga interaktioner hittades i databasen.
+- **Särskild risk i målgruppen**: Östrogenhaltiga preventivmedel medför stroke-risk vid migrän med aura. Den kardiovaskulära och tromboemboliska säkerhetsprofilen hos denna population behöver utvärderas innan användning övervägs.
+
+Se produktresumén för fullständig säkerhetsinformation om varningar och kontraindikationer.
+
+---
+
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensnivån är L5 (enbart modellförutsägelse) för indikationen "migrän med eller utan aura". Inga kliniska prövningar eller direkta Lynestrenol-specifika studier stöder denna specifika förutsägelse. Den föreslagna mekanistiska vägen via neurosteroid GABA-A-modulering är plausibel på teoretisk nivå men saknar empiriskt stöd för just Lynestrenol som syntetiskt gestagen.
+- Det enda direkta stödet är en okontrollerad rapport från 1963 och en allmän översikt från 2026. Det finns inga registrerade prövningar, mekanismdata saknas, och produkten är avregistrerad i Sverige.
 
 **För att gå vidare krävs:**
-- Hämta och granska produktresumén (SmPC/SPC) för Lynestrenol för verkningsmekanism, varningar och kontraindikationer – särskilt avseende migrän med aura (WHO MEC-klassificering)
-- Utföra en systematisk litteratursökning specifikt inriktad på Lynestrenol + migrän, inte enbart epilepsi-migrän-komorbiditet i allmänhet
-- Bekräfta om Lynestrenol producerar aktiva neurosteroidmetaboliter (t.ex. allopregnanolon-analoger) in vivo i tillräckliga koncentrationer för GABA-A-modulering
-- Utreda om WHO MEC Kategori 4 (kombinerade p-piller kontraindicerade vid migrän med aura) även gäller rent gestagena preparat som Lynestrenol – detta är avgörande för säkerhetsbedömningen
-- Överväga att låta Rank 2-indikationen ("migraine disorder", evidensnivå L4) bli primär utredningsriktning, då den 1963 års direkta kliniska rapport (PMID 14091721) ger ett svagare men mer biologiskt trovärdigt underlag
+- Hämta verkningsmekanismdata (till exempel via DrugBank) och produktresumé med varningar och kontraindikationer.
+- Genomföra en systematisk litteratursökning efter moderna kontrollerade studier av gestagener vid menstruationsrelaterad migrän.
+- Utvärdera kardiovaskulär och tromboembolisk säkerhet, särskilt vid migrän med aura.
+- Klargöra regulatorisk väg, eftersom godkännandet är avregistrerat och en ny ansökan skulle krävas.
+
+*Övriga förutsägelser i data: migränsjukdom (generell, L3), migrän med hjärnstamsaura (L4, avvakta), insomni (L5, avvakta) och lepra (L5, sannolikt en artefakt i kunskapsgrafen). De saknar eller har mycket svag evidens och bör inte prioriteras.*
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

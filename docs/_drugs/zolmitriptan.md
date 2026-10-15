@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Zolmitriptan
-parent: Hög evidens (L1-L2)
-nav_order: 114
-evidence_level: L2
+parent: Måttlig evidens (L3-L4)
+nav_order: 459
+evidence_level: L4
 indication_count: 3
 ---
 
 # Zolmitriptan
 {: .fs-9 }
 
-Evidensnivå: **L2** | Förutsagda indikationer: **3** st
+Evidensnivå: **L4** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,86 +31,118 @@ Evidensnivå: **L2** | Förutsagda indikationer: **3** st
 
 # Zolmitriptan: Från migrän till migrän med hjärnstamsaura
 
-## Sammanfattning
+---
 
-Zolmitriptan är ett selektivt serotonin 5-HT1B/1D-receptoragonist (triptan) som används för akut behandling av migränanfall. TxGNN-modellen förutsäger med en poäng på 99,99 % att läkemedlet kan vara effektivt mot **migrän med hjärnstamsaura** (tidigare kallad "basilär migrän"), en migränsubtyp där hjärnstamssymtom dominerar aurafasen. Förutsägelsen stöds av **0 registrerade kliniska prövningar** för den specifika subtypen, men av **19 publikationer** — inklusive systematiska översikter, metaanalyser och RCT:er — som dokumenterar triptan-klassens effekt vid migrän med aura.
+### Sammanfattning
+
+Zolmitriptan är en selektiv serotoninagonist (5-HT1B/1D, en så kallad triptan) som ursprungligen användes för att behandla migrän. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **migrän med hjärnstamsaura**, men det finns **inga kliniska prövningar** och **20 publikationer** som är allmänna översikter eller studier om migrän och triptaner. Ingen av dem har undersökt zolmitriptan specifikt vid hjärnstamsaura.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Akut behandling av migränanfall (välkänd triptan-indikation; ej registrerat i Sverige) |
+|------|------|
+| Ursprunglig indikation | Migrän (enligt kunskapsgrafen; godkänd indikationstext saknas i licensdata) |
 | Förutsagd ny indikation | Migrän med hjärnstamsaura |
 | TxGNN-förutsägelsepoäng | 99,99 % |
-| Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Inte marknadsförd |
-| Antal godkännanden | 0 |
-| Rekommenderat beslut | Fortsätt med försiktighet |
+| Evidensnivå | L4 |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 20 (alla indragna) |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-Zolmitriptan är ett selektivt 5-HT1B/1D-receptoragonist som verkar längs den trigeminovaskulära signalvägen. Läkemedlet hämmar frisättningen av pro-inflammatoriska neuropeptider — framför allt CGRP (calcitonin gene-related peptide) och substans P — från trigeminusnervsändarna, och orsakar samtidigt vasokonstriktion av patologiskt utvidgade intrakraniella blodkärl. Till skillnad från äldre triptaner verkar zolmitriptan både centralt och perifert på trigeminusaktiveringen, vilket ger en bredare hämningsprofil.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i den sammanställda datan. Litteraturen beskriver dock zolmitriptan som en selektiv 5-HT1B/1D-agonist som verkar både perifert och centralt. Den kan hämma aktivering av trigeminovaskulära system, vilket är grunden för effekten vid akut migrän.
 
-Migrän med hjärnstamsaura (IHS-klassificeringen 2013 ersatte det tidigare begreppet "basilär migrän") delar samma trigeminusaktiverade patofysiologi som vanlig migrän med aura. Den historiska kontraindikationen mot triptaner vid denna subtyp grundades på teoretisk oro för vasokonstriktion i basilärkärlsgebiet, men 2015 omvärderade AHS/IHS-riktlinjerna dessa restriktioner och konstaterade att risken troligen hade överskattats — behandlingsresponsen förväntas vara jämförbar med övrig auramigrän.
+Migrän med hjärnstamsaura är en undertyp av migrän med aura, så sjukdomen ligger nära den ursprungliga indikationen. Det är sannolikt förklaringen till den mycket höga modellpoängen, snarare än oberoende evidens.
 
-Mekanistiskt är förutsägelsen välmotiverad: den patofysiologiska kärnan är densamma, och zolmitriptans centrala verkningsmekanism gör det särskilt relevant för migränsubtyper med hjärnstamsinvolvering. Individuell riskbedömning avseende hjärnstams-vaskulär effekt bör dock fortfarande genomföras, och den specifika subtypen saknar dedikerade prövningar.
-
----
-
-## Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande specifikt för migrän med hjärnstamsaura.
+Det finns dock en viktig invändning: triptaner har historiskt använts med försiktighet eller undvikits vid hjärnstamsaura (basilaristyp) på grund av teoretiska farhågor kring kärlsammandragning. Säkerheten måste utredas innan någon rekommendation kan ges. Litteraturen innehåller bland annat en frovatriptanstudie vid migrän med aura och en transkraniell dopplerstudie under migränattacker, men ingen studie av zolmitriptan vid hjärnstamsaura.
 
 ---
 
-## Litteraturbevis
+### Kliniska prövningar
+
+Inga relaterade kliniska prövningar registrerade för närvarande.
+
+---
+
+### Litteraturbevis
+
+Litteraturen består huvudsakligen av översikter och allmänna studier. Ingen randomiserad studie av zolmitriptan vid hjärnstamsaura har identifierats.
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|----|-----|-----------|--------------|
-| [11903526](https://pubmed.ncbi.nlm.nih.gov/11903526/) | 2001 | Klinisk studie | Headache | Rapporterar direkt användning av triptaner vid basilär migrän och migrän med prolongerad aura med prominenta neurologiska hjärnstamssymtom — mest direkt relevant för den förutsagda indikationen |
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Systematisk översikt / Riktlinje (Tier 1) | Headache | American Headache Society:s uppdaterade evidensbedömning av farmakologiska akutbehandlingar för migrän; omvärderar triptan-klassens indikationsbredd |
-| [25916333](https://pubmed.ncbi.nlm.nih.gov/25916333/) | 2015 | Komparativ RCT / Metaanalys (Tier 1) | The Journal of Headache and Pain | Metaanalys jämför frovatriptan mot zolmitriptan, rizatriptan och almotriptan specifikt vid migrän med aura; utvärderar effekt under huvudvärksfasen |
-| [15581383](https://pubmed.ncbi.nlm.nih.gov/15581383/) | 2004 | RCT (Tier 1) | CNS Drugs | Zolmitriptan 5 mg ODT vid akut migränbehandling; påvisade snabb smärtlindring inom 45 minuter och varaktigt behandlingssvar vid 2 timmar |
-| [22644173](https://pubmed.ncbi.nlm.nih.gov/22644173/) | 2012 | Dubbelblind RCT, subgruppsanalys | Neurological Sciences | Frovatriptan vs. zolmitriptan 2,5 mg vid migrän med aura; cross-over-design med direkt jämförelse i aura-subpopulation |
-| [18624801](https://pubmed.ncbi.nlm.nih.gov/18624801/) | 2008 | Randomiserad studie | Cephalalgia | Triptan-effekt vid migrän med tidig kutan allodyni; signifikant smärtreduktion vid tidig behandling med zolmitriptan i aurapatienter |
-| [27329280](https://pubmed.ncbi.nlm.nih.gov/27329280/) | 2016 | Dubbelblind RCT (TEENZ-studien) | Headache | Zolmitriptan nässpray 5 mg vid akut migrän hos ungdomar 12–17 år; smärtfrihet vid 2 timmar som primärt utfall |
-| [9399016](https://pubmed.ncbi.nlm.nih.gov/9399016/) | 1997 | Fas 2/3 klinisk studie (Tier 2) | Cephalalgia | Tolerabilitetsprofil för zolmitriptan baserad på >3 000 patienter; fastställer säkerhetsprofilen i bred klinisk population inklusive doser 0,5–50 mg |
-| [25538676](https://pubmed.ncbi.nlm.nih.gov/25538676/) | 2014 | Systematisk översikt | Frontiers in Neurology | Behandlingsalternativ vid vestibulär migrän — en besläktad migränsubtyp med hjärnstamssymtom; summerar evidens för triptaner i hjärnstamsrelaterade migränformer |
-| [12083998](https://pubmed.ncbi.nlm.nih.gov/12083998/) | 2002 | Narrativ översikt (Tier 2) | Expert Opinion on Pharmacotherapy | Genomgång av zolmitriptans prekliniska farmakologi, RCT-data och kliniska tillämpningar; bekräftar selektiv 5-HT1B/1D-mekanism och dubbel central/perifer verkan |
+|------|-----|------|------|---------|
+| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Översikt | Headache | Uppdaterad evidensbedömning av läkemedel vid akut migränbehandling hos vuxna (American Headache Society). |
+| [12083998](https://pubmed.ncbi.nlm.nih.gov/12083998/) | 2002 | Översikt | Expert Opinion on Pharmacotherapy | Placebokontrollerade studier visar god effekt av zolmitriptan vid migrän; verkan inom 45 minuter och förbättring av illamående samt ljus- och ljudkänslighet. |
+| [10473025](https://pubmed.ncbi.nlm.nih.gov/10473025/) | 1999 | Översikt | Drugs | Zolmitriptan 2,5 och 5 mg har snabb effekt och är signifikant bättre än placebo vid måttlig till svår migrän. |
+| [25916333](https://pubmed.ncbi.nlm.nih.gov/25916333/) | 2015 | Metaanalys | The Journal of Headache and Pain | Jämför frovatriptan med bland annat zolmitriptan vid migrän med aura; triptaner är sannolikt inte effektiva om de tas under aurafasen. |
+| [22644173](https://pubmed.ncbi.nlm.nih.gov/22644173/) | 2012 | Subgruppsanalys av RCT | Neurological Sciences | Frovatriptan jämfört med zolmitriptan 2,5 mg hos 18 patienter med migrän med aura. |
+| [12864759](https://pubmed.ncbi.nlm.nih.gov/12864759/) | 2003 | Klinisk studie | Headache | Transkraniell doppler före och efter oral zolmitriptan eller sumatriptan under migränattacker. |
+| [9399012](https://pubmed.ncbi.nlm.nih.gov/9399012/) | 1997 | Preklinisk | Cephalalgia | Zolmitriptan hämmar trigeminovaskulär aktivering både centralt och perifert. |
+| [17177580](https://pubmed.ncbi.nlm.nih.gov/17177580/) | 2007 | Uppföljning efter marknadsföring | Clinical Drug Investigation | Utvärdering av effekt och tolerabilitet för zolmitriptan nässpray 5 mg i verklig praxis. |
+| [22298171](https://pubmed.ncbi.nlm.nih.gov/22298171/) | 2012 | Fallrapport | Cardiology Journal | Zolmitriptanutlöst akut hjärtinfarkt, vilket understryker kardiovaskulära risker. |
+| [25538676](https://pubmed.ncbi.nlm.nih.gov/25538676/) | 2014 | Översikt | Frontiers in Neurology | Behandlingsalternativ vid vestibulär migrän; randomiserade studier är fortfarande sällsynta. |
 
 ---
 
-## Marknadsinformation Sverige
+### Marknadsinformation Sverige
 
-Zolmitriptan är **inte registrerat i Sverige**. Inga produktgodkännanden finns registrerade hos Läkemedelsverket, och ingen produktresumé (SmPC) är tillgänglig för den svenska marknaden.
+Alla 20 godkännanden är indragna, och inget är för närvarande giltigt. Godkänd indikationstext saknas i licensdata. Nedan visas fem av godkännandena.
 
-> **Notering:** Zolmitriptan (varumärke Zomig) är godkänt i ett flertal länder inom EU, USA och UK för akut migränbehandling i dosberedningsformerna oral tablett, munsönderfallande tablett och nässpray. Ansökan om godkännande för den svenska/europeiska marknaden behöver hanteras via EMA eller Läkemedelsverket.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 13413 | Zomig | Filmdragerad tablett | – |
+| 18645 | Zomig Rapimelt | Munsönderfallande tablett | – |
+| 16818 | Zomig Nasal | Nässpray, lösning | – |
+| 42702 | Zolmitriptan STADA | Munsönderfallande tablett | – |
+| 43897 | Zolmitriptan Jubilant | Filmdragerad tablett | – |
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-Se produktresumén (SmPC från ett godkänt land, exempelvis EMA SmPC för Zomig) för fullständig säkerhetsinformation avseende varningar, kontraindikationer och läkemedelsinteraktioner. Dokumenterade säkerhetsdata för Sverige saknas i det aktuella evidenspaketet.
+- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumé): Sjukdomar som i kunskapsgrafen är kopplade till kontraindikation är bland annat:
+  - högt blodtryck
+  - kranskärlssjukdom, hjärtinfarkt och kärlkramp (inklusive Prinzmetals angina)
+  - stroke, övergående ischemisk attack och andra cerebrovaskulära sjukdomar
+  - perifer kärlsjukdom och Raynauds sjukdom
+  - ischemisk tarmsjukdom
+  - lever- och njursjukdom
+  - Wolff-Parkinson-White-syndrom
+  - familjär eller sporadisk hemiplegisk migrän
+- **Läkemedelsinteraktioner**: 82 interaktioner identifierade. Allvarliga (Major) interaktioner gäller bland annat:
+  - lorkaserin
+  - dexfenfluramin och fenfluramin
+  - sibutramin
+  - ondansetron, granisetron, dolasetron och palonosetron
+
+  Måttliga (Moderate) interaktioner gäller bland annat morfin, cimetidin och obetikolsyra.
+- **Fallrapport**: En fallrapport beskriver akut hjärtinfarkt orsakad av zolmitriptan.
+
+Produktresumé med varningar och kontraindikationer ingick inte i den sammanställda datan. Se produktresumén för fullständig säkerhetsinformation.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
-**Beslut: Fortsätt med försiktighet**
+**Beslut: Avvakta**
 
 **Motivering:**
-TxGNN förutsäger med utomordentligt hög poäng (99,99 %) att zolmitriptan är verksamt vid migrän med hjärnstamsaura. Evidensnivån L2 stöds av systematiska översikter och RCT:er för triptan-klassen vid migrän med aura, samt av ett starkt mekanistiskt stöd — men dedikerade prövningar specifikt för subtypen "migrän med hjärnstamsaura" saknas, och läkemedlet är inte registrerat i Sverige.
+- Den höga modellpoängen speglar främst närheten till den befintliga migränindikationen, och det saknas både kliniska prövningar och studier av zolmitriptan specifikt vid hjärnstamsaura. Dessutom finns teoretiska säkerhetsfarhågor kring kärlsammandragning, och alla svenska godkännanden är indragna.
 
 **För att gå vidare krävs:**
-- Inhämtning av fullständig säkerhetsinformation från gällande SmPC (t.ex. EMA SmPC för Zomig) avseende kontraindikationer, varningar och läkemedelsinteraktioner
-- Specifik riskbedömning av hjärnstams-vaskulär effekt vid zolmitriptan-behandling för denna subtyp
-- Litteratursökning efter nyare prövningar (post-2015) specifikt designade för "migraine with brainstem aura" efter IHS-klassificeringens omarbetning
-- Regulatorisk strategi för registrering i Sverige via Läkemedelsverket eller EMA
-- Konsultation med neurologisk/huvudvärksmedicinsk expertis angående klinisk lämplighet och patientval
+- Granskning av produktresumé med varningar och kontraindikationer (saknas i dagsläget)
+- Detaljerad data om verkningsmekanism
+- Bedömning av säkerhet vid hjärnstamsaura, särskilt risken för kärlsammandragning och ischemi
+- Kliniska data (till exempel fallserier eller kontrollerade studier) som specifikt undersöker zolmitriptan vid hjärnstamsaura
+- Klargörande av regulatorisk väg, eftersom inga giltiga godkännanden finns i Sverige
+
+---
+
+*Övriga förutsägelser (atrofoderma vermiculata och ulerythema ophryogenes) saknar både studier och rimlig mekanistisk koppling och bedöms inte vara aktuella att gå vidare med.*
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

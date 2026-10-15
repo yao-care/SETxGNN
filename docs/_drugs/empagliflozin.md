@@ -2,7 +2,7 @@
 layout: default
 title: Empagliflozin
 parent: Endast modellprediktion (L5)
-nav_order: 41
+nav_order: 160
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,72 +29,80 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-Jag har läst igenom Evidence Pack och identifierat relevanta fält. Nu genererar jag rapporten på svenska.
+# Empagliflozin: Från typ 2-diabetes till fokalt stelbensyndrom
 
 ---
 
-# Empagliflozin: Från typ 2-diabetes till fokal styv lemm-syndrom
+### Sammanfattning
 
-## Sammanfattning
-
-Empagliflozin är en SGLT2-hämmare som primärt används för behandling av typ 2-diabetes, hjärtsvikt och kronisk njursjukdom. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **fokal styv lemm-syndrom (focal stiff limb syndrome)**, med ett prediktionspoäng på **99,1 %**. Det finns dock **inga kliniska prövningar eller publicerad litteratur** som stöder denna riktning, vilket innebär att evidensen uteslutande baseras på modellens förutsägelse.
+Empagliflozin ursprungligen användes för att behandla **typ 2-diabetes mellitus**. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **fokalt stelbensyndrom** (focal stiff limb syndrome), med en förutsägelsepoäng på cirka 99 %. Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, vilket innebär att den enbart bygger på modellen.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
-|------|----------|
-| Ursprunglig indikation | Ej registrerad i Sverige (ingen produktresumé tillgänglig i datakällan) |
-| Förutsagd ny indikation | Fokal styv lemm-syndrom (focal stiff limb syndrome) |
-| TxGNN-förutsägelsepoäng | 99,1 % |
-| Evidensnivå | L5 – Endast modellförutsägelse, inga faktiska studier |
-| Marknadsstatus i Sverige | Ej marknadsförd |
-| Antal godkännanden | 0 |
+|------|------|
+| Ursprunglig indikation | Typ 2-diabetes mellitus (enligt TxGNN-kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
+| Förutsagd ny indikation | Fokalt stelbensyndrom (focal stiff limb syndrome) |
+| TxGNN-förutsägelsepoäng | 99,06 % |
+| Evidensnivå | L5 (endast modellförutsägelse) |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 6 (samtliga indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta Evidence Pack. Baserat på känd information är empagliflozin en SGLT2-hämmare (natriumglukos-kotransportör 2-hämmare) som blockerar glukosreabsorption i njurtubuli och därigenom sänker blodsockret. Utöver denna primära effekt har läkemedlet dokumenterade sekundära egenskaper: det aktiverar AMPK och hämmar NF-κB, vilket ger en viss antiinflammatorisk potential samt möjlig ketogenframkallande och neuroprotektiv verkan via β-hydroxibutyrat.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Baserat på allmän farmakologisk kunskap är empagliflozin en SGLT2-hämmare, som sänker blodsockret genom att minska återupptaget av glukos i njurarna. Effekten vid typ 2-diabetes är väl belagd.
 
-Fokal styv lemm-syndrom (FSLS) är en lokaliserad variant av Stiff Person Syndrome och orsakas av anti-GAD65-autoantikroppar som stör GABAerg neurotransmission, vilket leder till progressiv stelhet och spasmer i en enskild extremitet. Den teoretiska länken till empagliflozin är ytterst indirekt: AMPK-aktivering och NF-κB-hämning kan i teorin påverka det autoimmuna mikromiljön, men det saknas helt direkta bevis för att SGLT2-blockad interfererar med anti-GAD65-medierad autoimmunitet eller GABAerg signalering.
+Fokalt stelbensyndrom hör till spektrumet av stelbenssyndrom (stiff-person-spektrumet). Det är en sällsynt autoimmun, neurologisk sjukdom som ofta har samband med anti-GAD65-antikroppar och nedsatt GABA-hämning. Det finns ingen känd väg som kopplar SGLT2-hämning till denna mekanism.
 
-Det bör särskilt noteras att TxGNN-förutsägelsepoängen för FSLS och klassisk SPS är exakt identiska (0,9906), vilket starkt tyder på att modellen har extrapolerat från sjukdomsnodlikhet i kunskapsgrafen snarare än identifierat en specifik biologisk mekanism. Den biologiska plausibiliteten för denna indikation bedöms som mycket låg.
+Ett möjligt skäl till den höga poängen är att anti-GAD-autoimmunitet ofta förekommer tillsammans med diabetes, framför allt typ 1. Modellen kan därför ha fångat upp närhet till diabetesnoder i kunskapsgrafen snarare än ett verkligt terapeutiskt samband. Detta är en spekulation och stöds inte av underlaget. Samma poäng ges för klassiskt stelbensyndrom (99,06 %), vilket tyder på att de två förutsägelserna delar samma område i grafen och inte är oberoende signaler.
 
----
-
-## Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande.
+Andra förutsagda indikationer i modellen är klassiskt stelbensyndrom och opsismodysplasi. Inte heller för dessa finns studier eller litteratur. För opsismodysplasi (orsakad av INPPL1-/SHIP2-mutationer) finns ett löst samband via insulinsignalering, men empagliflozin verkar via njurens glukosåterupptag och påverkar inte den signalvägen.
 
 ---
 
-## Litteraturbevis
+### Marknadsinformation Sverige
 
-Ingen relaterad litteratur tillgänglig för närvarande.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 67533 | Empagliflozin Labiana | Filmdragerad tablett | Indikationstext saknas (indraget) |
+| 67534 | Empagliflozin Labiana | Filmdragerad tablett | Indikationstext saknas (indraget) |
+| 66345 | Empagliflozin Devatis | Filmdragerad tablett | Indikationstext saknas (indraget) |
+| 65282 | Hynica | Filmdragerad tablett | Indikationstext saknas (indraget) |
+| 66346 | Empagliflozin Devatis | Filmdragerad tablett | Indikationstext saknas (indraget) |
+
+Totalt finns 6 godkännanden, alla indragna. Det sjätte (65281, Hynica, Adalvo Limited) visas inte i tabellen eftersom högst 5 listas.
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+**Läkemedelsinteraktioner:** Totalt har 100 interaktioner identifierats. De flesta av de som visas är av måttlig grad. Exempel:
+
+- **Måttlig:** fenylefrin, acebutolol, acetazolamid, formoterol, pseudoefedrin, nifedipin, adrenalin, etinylestradiol, hydrokortison, salbutamol, etanol, fosamprenavir, fosinopril, fosfenytoin, furosemid, gemifloxacin
+- **Lindrig:** hydrokortison (topikalt), alclometason (topikalt)
+
+Se produktresumén för information om varningar och kontraindikationer.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen saknar helt stöd från kliniska prövningar eller publicerad litteratur, och den mekanistiska kopplingen mellan SGLT2-hämning och fokal styv lemm-syndrom är ytterst svag — sannolikt en artefakt av sjukdomsnodlikhet i TxGNN-kunskapsgrafen snarare än en biologiskt meningsfull signal.
+- Förutsägelsen bygger enbart på en modellpoäng (L5). Det saknas kliniska prövningar och litteratur, och ingen rimlig mekanistisk koppling mellan SGLT2-hämning och fokalt stelbensyndrom har kunnat identifieras. Dessutom är samtliga svenska godkännanden indragna.
 
 **För att gå vidare krävs:**
-- Prekliniska studier som undersöker om SGLT2-hämning eller AMPK-aktivering har mätbar effekt på anti-GAD65-medierad neuroinflammation
-- Kartläggning av om β-hydroxibutyrat-medierad HDAC-hämning kan påverka GABAerg neuronsfunktion i djurmodeller av SPS/FSLS
-- Granskning av empagliflozins fullständiga säkerhetsprofil och produktresumé för att identifiera eventuella relevanta kontraindikationer
-- Bedömning av om de övriga förutsagda indikationerna (klassisk SPS, opsismodysplasi) delar samma svaga evidensbas och bör avfärdas gemensamt
+- Hämta verkningsmekanismdata (MOA) från DrugBank för att kunna analysera ett eventuellt mekanistiskt samband.
+- Hämta varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA) för en fullständig säkerhetsbedömning.
+- Genomföra en systematisk litteratur- och prövningssökning samt prekliniska studier som kan ge stöd för en koppling till stelbenssyndrom.
+- Utreda om förutsägelsen speglar ett verkligt samband eller enbart närhet till diabetes i kunskapsgrafen.
+- Klargöra marknadsstatus, eftersom inget godkännande för närvarande är giltigt i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

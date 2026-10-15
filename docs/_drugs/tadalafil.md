@@ -2,7 +2,7 @@
 layout: default
 title: Tadalafil
 parent: Endast modellprediktion (L5)
-nav_order: 101
+nav_order: 409
 evidence_level: L5
 indication_count: 8
 ---
@@ -29,78 +29,114 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 </div>
 
----
-
-# Tadalafil: Från erektil dysfunktion till Ambras typ hypertrikosis universalis congenita
+# Tadalafil: Från erektil dysfunktion och pulmonell hypertoni till Ambras typ av hypertrichosis universalis congenita
 
 ---
 
-## Sammanfattning
+### Sammanfattning
 
-Tadalafil är en selektiv PDE5-hämmare (fosfodiesteras typ 5) som globalt godkänts för erektil dysfunktion, benign prostatahyperplasi och pulmonell arteriell hypertension, men som saknar registrering i Sverige. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **Ambras typ hypertrikosis universalis congenita** med en förutsägelsepoäng på **99,98%**. Det saknas dock helt kliniska prövningar och publicerad litteratur för denna indikation, och den mekanistiska analysen tyder på att modellens förutsägelse troligen grundas på ett omvänt kausalsamband – PDE5-hämmare är kända för att orsaka ökad hårtillväxt som biverkning, inte att behandla hypertrikosis.
+Tadalafil är en PDE5-hämmare som ursprungligen används vid erektil dysfunktion, godartad prostataförstoring, pulmonell hypertoni, för tidig utlösning och psykologiskt betingad dyspareuni. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **Ambras typ av hypertrichosis universalis congenita**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna förutsägelse. Förutsägelsen är därför enbart modellbaserad och mycket osäker.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Erektil dysfunktion, benign prostatahyperplasi, pulmonell arteriell hypertension (ej registrerat i Sverige) |
-| Förutsagd ny indikation | Ambras typ hypertrikosis universalis congenita |
-| TxGNN-förutsägelsepoäng | 99,98% |
+| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad. Enligt kunskapsgrafen: godartad prostataförstoring, pulmonell hypertoni, erektil dysfunktion, psykologiskt betingad dyspareuni, för tidig utlösning |
+| Förutsagd ny indikation | Ambras typ av hypertrichosis universalis congenita |
+| TxGNN-förutsägelsepoäng | 99,98 % |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Inte registrerat |
-| Antal godkännanden | 0 |
+| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Antal godkännanden | 20 (samtliga indragna) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-Tadalafil hämmar selektivt enzymet PDE5, som normalt bryter ned cGMP (cykliskt guanosinmonofosfat). Hämningen ökar cGMP-nivåerna i glatt muskulatur och kärlväggar via NO–cGMP-signalvägen, vilket leder till kärlvidgning. Denna mekanism ligger till grund för tadalafils godkända effekter vid erektil dysfunktion (avslappning av corpus cavernosum), pulmonell arteriell hypertension (sänkt lungkärlsmotstånd) och benign prostatahyperplasi (avslappning av prostata- och blåshalsmuskulatur).
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Tadalafil är dock allmänt känt som en hämmare av fosfodiesteras 5 (PDE5). Det ökar nivåerna av cGMP och ger kärlvidgning, vilket förklarar effekten vid erektil dysfunktion och pulmonell hypertoni.
 
-PDE5/cGMP-signalering har en potentiell roll i hårfollikelns tillväxtcykel via NO–cGMP-vägen i de dermala papillcellerna – denna koppling är sannolikt grunden för att TxGNN-modellen förutsäger en association med hårtillväxtsjukdomar. Ambras typ hypertrikosis universalis congenita orsakas dock av en mutation i **TRPS1-genen** (tricho-rhino-phalangeal syndrome type 1) och är en genetisk strukturell avvikelse utan känt samband med PDE5-reglering uppströms. Det saknas i dagsläget evidens för att tadalafil påverkar TRPS1-genens expression eller funktion.
+Sambandet mellan de ursprungliga indikationerna och den förutsagda är svagt. Ambras syndrom är en sällsynt medfödd sjukdom med kraftig hårväxt, kopplad till kromosomomlagringar vid 8q22 som påverkar regleringen av TRPS1. Det finns ingen känd koppling mellan PDE5-hämning och denna genetiska grund.
 
-> **⚠️ Viktig metodologisk varning:** Flera av de högst rankade indikationerna i detta Evidence Pack (rank 1–2: hypertrikosis, rank 6: trichomegaly, rank 8: migrän med hjärnstamsaura) är kända **biverkningar** av PDE5-hämmare – inte potentiella behandlingsindikationer. TxGNN-modellen verkar ha fångat dessa kausalsamband i kunskapsgrafen utan att korrekt skilja på riktningen (läkemedlet *orsakar* tillståndet kontra läkemedlet *behandlar* tillståndet). Den mekanistiskt mest välgrundade förutsägelsen i detta pack är **kyfoskoliotisk hjärtsjukdom (rank 7)**, som ofta kompliceras av sekundär pulmonell arteriell hypertension – en faktisk godkänd indikation för tadalafil.
+Den höga poängen speglar sannolikt grafbaserade samband i kunskapsgrafen, till exempel närhet till andra hårväxtrelaterade tillstånd. Den utgör inte ett mekanistiskt stöd. Man bör också notera att andra kärlvidgande läkemedel, som minoxidil, kan orsaka ökad hårväxt, men effektens riktning är oklar och kan vara den motsatta mot en terapeutisk effekt.
 
 ---
 
-## Kliniska prövningar
+### Andra förutsagda indikationer
+
+| Rang | Förutsagd indikation | TxGNN-poäng | Evidensnivå | Kommentar |
+|------|------|------|------|------|
+| 2 | Hypertrichosis | 99,98 % | L5 | Ingen etablerad roll för PDE5-hämning i hårväxtreglering |
+| 3 | Missbildningssyndrom med tand- och/eller tandlossningskomponent | 99,97 % | L5 | Ingen trolig mekanism |
+| 4 | Syndrom med Dandy-Walker-missbildning | 99,97 % | L5 | Strukturell utvecklingsrubbning, ingen trolig mekanism |
+| 5 | Isolerad genetisk hårstråavvikelse | 99,96 % | L5 | Ingen känd koppling |
+| 6 | Familjär isolerad trikomegali | 99,65 % | L5 | Ingen mekanistisk grund |
+| 7 | Kyfoskoliotisk hjärtsjukdom | 99,43 % | L5 | Svag och indirekt koppling via pulmonell kärlvidgning, den biologiskt mest rimliga av förutsägelserna men spekulativ |
+| 8 | Migrän med hjärnstamsaura | 99,08 % | L4 | Endast en fallrapport där tadalafil snarare utlöste aura |
+
+---
+
+### Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
-Ingen relaterad litteratur tillgänglig för närvarande.
+Ingen relaterad litteratur tillgänglig för närvarande för den främsta förutsägelsen (Ambras syndrom).
 
----
+För den åttonde förutsägelsen (migrän med hjärnstamsaura) finns en enda fallrapport:
 
-## Marknadsinformation Sverige
-
-Tadalafil saknar godkännande i Sverige. Inga licensuppgifter finns registrerade (total_licenses = 0).
-
----
-
-## Säkerhetsaspekter
-
-Se produktresumén för säkerhetsinformation.
+| PMID | År | Typ | Tidskrift | Viktiga fynd |
+|------|-----|------|------|---------|
+| [17059442](https://pubmed.ncbi.nlm.nih.gov/17059442/) | 2006 | Fallrapport | Cephalalgia | Tadalafil var förknippat med typisk migränaura utan huvudvärk, vilket tyder på en utlösande snarare än behandlande effekt |
 
 ---
 
-## Slutsats och nästa steg
+### Marknadsinformation Sverige
+
+Samtliga 20 godkännanden är indragna och inga har giltig marknadsföring. Indikationstext saknas i underlaget. Nedan visas fem av godkännandena (alla filmdragerade tabletter):
+
+| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
+|---------|------|------|------|------|
+| 54479 | Tadalafil Krka | Filmdragerad tablett | Krka d.d., Novo mesto | Indragen |
+| 60561 | Tadalafil Jubilant | Filmdragerad tablett | Jubilant Pharmaceuticals nv | Indragen |
+| 66043 | Tadalafil Devatis | Filmdragerad tablett | Devatis GmbH | Indragen |
+| 50626 | Tadalafil Teva | Filmdragerad tablett | Teva Sweden AB | Indragen |
+| 52516 | Tadalafil Orion | Filmdragerad tablett | Orion Corporation | Indragen |
+
+---
+
+### Säkerhetsaspekter
+
+- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produkttext): Grafen anger bland annat leversvikt, epilepsi, aortastenos, hypotoni, blodkoagulationsrubbningar, akut kranskärlssyndrom, sicklecellanemi, stroke och andra cerebrovaskulära sjukdomar, hjärtinfarkt, hypertrofisk kardiomyopati, plasmacellsmyelom, leukemi, priapism, Peyronies sjukdom och hörselnedsättning.
+- **Läkemedelsinteraktioner**: Totalt 100 interaktioner identifierades. De flesta av de visade är av måttlig grad, bland annat med:
+  - aprepitant, dexametason, klaritromycin, cimetidin, mikonazol och klotrimazol (påverkan på läkemedelsomsättningen)
+  - SGLT2-hämmare (kanagliflozin, dapagliflozin, empagliflozin, ertugliflozin)
+  - lorkaserin, sapropterin och troglitazon
+
+  Papaverin har en lindrig interaktion. För bland annat pantoprazol, glimepirid, doxycyklin, morfin, metformin och omeprazol är graden okänd.
+- **Migrän**: Fallrapporten tyder på att tadalafil kan utlösa migränaura, vilket är en säkerhetssignal.
+
+Se produktresumén för fullständig säkerhetsinformation, eftersom varningar och kontraindikationer från produkttexten saknas i underlaget.
+
+---
+
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensnivån är L5 – enbart modellförutsägelse utan stöd av kliniska prövningar eller litteratur. Den mekanistiska analysen pekar dessutom på att förutsägelsen sannolikt är en artefakt av omvänt kausalsamband i kunskapsgrafen: tadalafil *orsakar* hypertrikosis som biverkning via NO–cGMP-driven hårtillväxt, snarare än att vara en kandidat för behandling av tillståndet.
+- Förutsägelsen bygger enbart på en grafbaserad modell (evidensnivå L5) utan kliniska prövningar, litteratur eller någon trolig mekanism. Dessutom är samtliga svenska godkännanden indragna.
 
 **För att gå vidare krävs:**
-- Omprioritering av utvärderingen mot **rank 7 (kyfoskoliotisk hjärtsjukdom / PAH-koppling)**, som har starkare mekanistisk grund och ett direkt samband med tadalafils godkända indikation vid pulmonell arteriell hypertension
-- Verifiering av om PDE5/cGMP-signalering har någon dokumenterad roll uppströms i TRPS1-genreglering, innan rank 1 kan anses mekanistiskt motiverad
-- Inhämtning av fullständig SMPC-data (produktresumé) och säkerhetsinformation för Sverige
-- Genomförande av en systematisk kausalitetsgranskning av kunskapsgrafens kant-riktningar för samtliga hårtillväxtrelaterade förutsägelser i detta pack
+- Hämta verkningsmekanismdata (t.ex. från DrugBank) och gör en mekanistisk analys av sambandet med TRPS1 och hårväxtreglering.
+- Hämta och bearbeta produktresumén för varningar och kontraindikationer, vilket krävs för säkerhetsgranskningen.
+- Genomför prekliniska studier (cellmodeller eller djurmodeller) innan någon klinisk prövning övervägs.
+- Överväg att i första hand utvärdera den biologiskt mer rimliga förutsägelsen kyfoskoliotisk hjärtsjukdom, via pulmonell hypertoni, medan migränsignalen bör beaktas som säkerhetsrisk.
+- Klarifiera regulatorisk status, eftersom inga giltiga godkännanden finns i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

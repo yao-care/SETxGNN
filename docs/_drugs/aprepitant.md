@@ -2,7 +2,7 @@
 layout: default
 title: Aprepitant
 parent: Endast modellprediktion (L5)
-nav_order: 18
+nav_order: 39
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,67 +29,71 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-Analyserar Evidence Pack för Aprepitant och genererar rapport enligt specifikation.
+# Aprepitant: Från kemoterapiinducerade illamående och kräkningar till nefrogent syndrom med inadekvat antidures
 
 ---
 
-# Aprepitant: Från kemoterapi-inducerat illamående till nefrogt syndrom av inadekvat antidiures
-
 ## Sammanfattning
 
-Aprepitant är en neurokinin-1-receptorantagonist (NK1-antagonist) som traditionellt används för att förebygga kemoterapi-inducerat illamående och kräkningar (CINV) samt postoperativt illamående. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **nefrogt syndrom av inadekvat antidiures (NSIAD)** – ett sällsynt tillstånd orsakat av aktiverande mutationer i vasopressinreceptorn AVPR2. Det finns för närvarande **inga kliniska prövningar** och **inga publikationer** som stöder denna riktning, och den mekanistiska kopplingen bedöms som mycket svag.
+Aprepitant är en NK1-receptorantagonist. I Sverige finns sex godkännanden för kapslar, men alla är avregistrerade och de data som sammanställts för denna rapport innehåller ingen godkänd indikationstext. Utifrån läkemedlets kända användning ges det som förebyggande behandling mot illamående och kräkningar, men denna uppgift kommer inte från de sammanställda godkännandedata.
+TxGNN-modellen förutsäger att aprepitant kan vara effektivt mot **nefrogent syndrom med inadekvat antidures** (poäng 99,97 %), men det finns **inga kliniska prövningar** och **ingen relevant litteratur** som stöder förutsägelsen.
 
 ---
 
 ## Snabböversikt
 
 | Post | Innehåll |
-|------|---------|
-| Ursprunglig indikation | Förebyggande av kemoterapi-inducerat illamående och kräkningar (CINV) |
-| Förutsagd ny indikation | Nefrogt syndrom av inadekvat antidiures (NSIAD) |
-| TxGNN-förutsägelsepoäng | 99,97% |
-| Evidensnivå | L5 – enbart modellförutsägelse, inga faktiska studier |
-| Marknadsstatus i Sverige | Ej marknadsförd |
-| Antal godkännanden i Sverige | 0 |
+|------|------|
+| Ursprunglig indikation | Ingen indikationstext finns i godkännandedata |
+| Förutsagd ny indikation | Nefrogent syndrom med inadekvat antidures |
+| TxGNN-förutsägelsepoäng | 99,97 % |
+| Evidensnivå | L5 (endast modellförutsägelse) |
+| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Antal godkännanden | 6 (alla avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i detta evidenspaket. Baserat på känd information är Aprepitant en NK1-receptorantagonist som blockerar bindningen av Substance P till neurokinin-1-receptorn. Läkemedlet verkar primärt i centrala nervsystemets kräkningscentrum och mag-tarmkanalen, och dess effekt vid förebyggande av CINV är välbevisad kliniskt.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda data. Aprepitant är känt som en antagonist till NK1-receptorn (substans P), och substans P/NK1-systemet har spekulativa kopplingar till vätskebalans och vasopressinsignalering.
 
-NSIAD (nefrogt syndrom av inadekvat antidiures) är en sällsynt genetisk sjukdom som orsakas av aktiverande (gain-of-function) mutationer i AVPR2-genen, vilken kodar för vasopressinreceptor typ 2 i njurens samlingsgång. Mutationen leder till konstitutiv receptoraktivering – njurarna retinerar vatten oberoende av ADH-nivåer – vilket resulterar i hyponatremi och inappropriat låg serumosmolalitet.
+Det finns dock ingen etablerad mekanistisk koppling till den förutsagda sjukdomen. Nefrogent syndrom med inadekvat antidures orsakas av aktiverande mutationer i vasopressin V2-receptorn (AVPR2) eller närliggande defekter. NK1-antagonism förväntas inte påverka denna orsak.
 
-Den mekanistiska kopplingen är biologiskt svag. Substance P kan visserligen påverka ADH-frisättning från hypotalamus via NK1-receptorer, men i ett tillstånd där AVPR2 redan är konstitutivt aktiverat av en genetisk mutation är det inte rimligt att förvänta sig att en NK1-antagonist i hypotalamus kan ha klinisk effekt på den perifera receptornivå där sjukdomen manifesterar sig. TxGNN:s höga förutsägelsepoäng för NSIAD bör tolkas med stor försiktighet och beror sannolikt på indirekta nätverkskopplingar i kunskapsgrafen snarare än en direkt biologisk relation.
-
----
-
-## Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande.
+Den mycket höga poängen (0,9997) är en rent beräkningsbaserad förutsägelse och bör tolkas försiktigt. Sambandet mellan den ursprungliga indikationen och den nya indikationen har inte kunnat bedömas.
 
 ---
 
 ## Litteraturbevis
 
-Ingen relaterad litteratur tillgänglig för närvarande.
+Ingen relaterad litteratur tillgänglig för den högst rankade förutsägelsen.
 
 ---
 
 ## Marknadsinformation Sverige
 
-Aprepitant är inte godkänt och saknar registrerade produkter i Sverige. Inga licensuppgifter finns att redovisa.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 56643 | Aprepitant Medical Valley | Kapsel, hård | Ej angiven (avregistrerad) |
+| 56649 | Aprepitant STADA | Kapsel, hård | Ej angiven (avregistrerad) |
+| 56650 | Aprepitant Medical Valley | Kapsel, hård | Ej angiven (avregistrerad) |
+| 56642 | Aprepitant Medical Valley | Kapsel, hård | Ej angiven (avregistrerad) |
+| 56638 | Aprepitant STADA | Kapsel, hård | Ej angiven (avregistrerad) |
+
+Ytterligare ett avregistrerat godkännande (56637, Aprepitant STADA) finns, totalt sex.
 
 ---
 
 ## Säkerhetsaspekter
 
-Detaljerad säkerhetsinformation (varningar, kontraindikationer, läkemedelsinteraktioner) kunde inte hämtas inom ramen för detta evidenspaket.
+- **Kontraindikationer enligt kunskapsgrafen**: Leversvikt (från TxGNN:s kunskapsgraf, inte från produktresumétext).
+- **Läkemedelsinteraktioner**: Totalt 100 interaktioner har identifierats. Bland de som ingår i underlaget är följande av allvarlig (Major) grad:
+  - Fentanyl
+  - Alfentanil
+  - Acalabrutinib
+- Flera interaktioner av måttlig grad (Moderate) finns, bland annat med paklitaxel, abemaciklib, nifedipin, ibuprofen, levonorgestrel, hydrokortison, lidokain, fluvoxamin, fosfenytoin och gefitinib. Interaktionen med dolutegravir är av ringa grad (Minor).
 
-> Se produktresumén (SmPC) för fullständig säkerhetsinformation.
-
-Noterbart: Aprepitant är en känd hämmare av CYP3A4, vilket kan ge kliniskt relevanta läkemedelsinteraktioner om det används i kombination med CYP3A4-substrat. Detta bör beaktas vid eventuell vidare utredning.
+Se produktresumén för fullständig säkerhetsinformation, eftersom varningar och kontraindikationer från godkännandedata saknas.
 
 ---
 
@@ -98,13 +102,14 @@ Noterbart: Aprepitant är en känd hämmare av CYP3A4, vilket kan ge kliniskt re
 **Beslut: Avvakta**
 
 **Motivering:**
-Evidensunderlaget befinner sig på L5-nivå (enbart modellförutsägelse utan stödjande studier), och den mekanistiska bryggan mellan NK1-antagonism och NSIAD – ett tillstånd drivet av konstitutiv AVPR2-aktivering via genetisk mutation – bedöms som extremt svag. Aprepitant är dessutom ej godkänt i Sverige, vilket ytterligare ökar hinder för klinisk tillämpning.
+- Förutsägelsen stöds enbart av en beräkningsmodell (L5) utan kliniska prövningar eller relevant litteratur, och det finns ingen trolig mekanistisk koppling till sjukdomen. Dessutom är alla svenska godkännanden avregistrerade.
 
 **För att gå vidare krävs:**
-- **Mekanistisk validering**: in vitro-studier som visar en konkret koppling mellan NK1-signalering och AVPR2-aktivering i njurvävnad
-- **Prekliniska djurmodeller**: NSIAD-modell med NK1-antagonistintervention för proof-of-concept
-- **Fullständig säkerhetsprofil**: MOA-data, kontraindikationer och varningstexter hämtade från EMA/FASS-godkänd produktresumé
-- **Regulatorisk kartläggning**: Aprepitant är godkänt i EU (Emend®) via EMA – befintlig europeisk godkännandestruktur bör kartläggas inför eventuell ansökan om utvidgad indikation
+- Hämta produktresumé från Läkemedelsverket (MPA) för varningar, kontraindikationer och godkänd indikation.
+- Komplettera verkningsmekanismen från DrugBank.
+- Genomföra en riktad litteratur- och prövningssökning om NK1-antagonism vid nefrogent syndrom med inadekvat antidures.
+- Överväga prekliniska studier som kan styrka en mekanism innan kliniska steg planeras.
+- Granska övriga förutsagda indikationer (t.ex. pulmonell hypertoni och subaraknoidalblödning), där mekanismen är något mer rimlig men evidens saknas.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
