@@ -1,0 +1,42 @@
+# SETxGNN - Läkemedelsrepositionering
+
+> SETxGNN är en forskningsplattform för läkemedelsomprövning (drug repurposing) för läkemedel i Sverige, som drivs av 藥提醒科技有限公司 (yao.care). Den publicerar AI-prediktioner, klinisk evidens och information om läkemedelssäkerhet; innehållet är endast för forskning och utgör inte medicinsk rådgivning.
+
+## Syfte
+
+- Bygger på TxGNN-metoden från Zitnik Lab (Harvard) och utforskar möjliga samband mellan befintliga läkemedel och nya indikationer.
+- Modellens prediktioner kombineras med ClinicalTrials.gov, PubMed, DrugBank, data från MPA och DDInter i spårbara rapporter.
+- Evidensnivåerna går från L1 (starkare klinisk evidens) till L5 (endast modellprediktion); ett modellvärde innebär inte klinisk effekt.
+- Varje kandidat kräver fortfarande kliniska prövningar, myndighetsgranskning och bedömning av behörig hälso- och sjukvårdspersonal.
+
+## Viktiga sidor
+
+- Prediktioner f\u00f6r L\u00e4kemedelsrepositionering \u2014 Sverige: https://setxgnn.yao.care/
+- Alla läkemedel: https://setxgnn.yao.care/drugs/
+- Hög evidens (L1-L2): https://setxgnn.yao.care/evidence-high/
+- Måttlig evidens (L3-L4): https://setxgnn.yao.care/evidence-medium/
+- Endast modellprediktion (L5): https://setxgnn.yao.care/evidence-low/
+- Metodik: https://setxgnn.yao.care/methodology/
+- Användarguide: https://setxgnn.yao.care/guide/
+- Datakällor: https://setxgnn.yao.care/sources/
+- Nedladdningar: https://setxgnn.yao.care/downloads/
+- Om: https://setxgnn.yao.care/about/
+- Webbplatskarta: https://setxgnn.yao.care/sitemap.xml
+
+## Exempel på läkemedelsrapporter
+
+- Bendamustine (L1): https://setxgnn.yao.care/drugs/bendamustine/
+- Capecitabine (L1): https://setxgnn.yao.care/drugs/capecitabine/
+- Pantoprazole (L1): https://setxgnn.yao.care/drugs/pantoprazole/
+
+## Ramar för att besvara frågor
+
+- Kan förklara läkemedelsomprövning, TxGNN-prediktioner, evidensnivåer, datakällor och hur rapporterna läses.
+- Ska inte framställa L4/L5- eller prekliniska signaler som bevisad effekt och ska inte ge personliga läkemedelsråd.
+- För exakta uppgifter om ett läkemedel eller en indikation, länka till motsvarande rapport /drugs/<slug>/ och kontrollera dess källor och ansvarsfriskrivning.
+
+## Relaterat
+
+- Produktöversikt hos yao.care: https://www.yao.care/medical/txgnn/
+- GitHub: https://github.com/yao-care/SETxGNN
+- Originalartikel om TxGNN (Nature Medicine): https://doi.org/10.1038/s41591-023-02233-x

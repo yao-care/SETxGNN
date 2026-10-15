@@ -1,0 +1,41 @@
+# SETxGNN — AI-läsbar sammanfattning
+
+## Plattformens inriktning
+
+SETxGNN är en forskningsplattform för läkemedelsomprövning (drug repurposing) för läkemedel i Sverige, som drivs av 藥提醒科技有限公司 (yao.care). Den publicerar AI-prediktioner, klinisk evidens och information om läkemedelssäkerhet; innehållet är endast för forskning och utgör inte medicinsk rådgivning.
+
+## Metod och evidens
+
+Bygger på TxGNN-metoden från Zitnik Lab (Harvard) och utforskar möjliga samband mellan befintliga läkemedel och nya indikationer. Modellens prediktioner kombineras med ClinicalTrials.gov, PubMed, DrugBank, data från MPA och DDInter i spårbara rapporter.
+
+Evidensnivåerna går från L1 (starkare klinisk evidens) till L5 (endast modellprediktion); ett modellvärde innebär inte klinisk effekt. Varje kandidat kräver fortfarande kliniska prövningar, myndighetsgranskning och bedömning av behörig hälso- och sjukvårdspersonal.
+
+## Huvudinnehåll
+
+- `/` Prediktioner f\u00f6r L\u00e4kemedelsrepositionering \u2014 Sverige — AI-powered drug repurposing predictions for Sweden. Evidence-based analysis of approved medicines for potential new therapeutic indications.
+- `/drugs/` Alla läkemedel — Alla valideringsrapporter för läkemedel och statistik över evidensnivåer i SETxGNN.
+- `/evidence-high/` Hög evidens (L1-L2) — Kandidater för läkemedelsrepositionering med L1-L2 i SETxGNN, som stöds av kliniska prövningar eller systematiska översikter.
+- `/evidence-medium/` Måttlig evidens (L3-L4) — Kandidater för läkemedelsrepositionering med L3-L4 i SETxGNN, som stöds av observationell eller preklinisk evidens.
+- `/evidence-low/` Endast modellprediktion (L5) — L5-kandidater i SETxGNN: endast modellprediktion, ännu utan klinisk evidens eller litteraturstöd.
+- `/methodology/` Metodik — Så tar SETxGNN fram och validerar prediktioner: prediktion med TxGNN-kunskapsgraf, evidensinsamling, gradering L1-L5 och beslutsrekommendationer.
+- `/guide/` Användarguide — Användarguide för SETxGNN: hur du slår upp läkemedel, läser evidensnivåer och tolkar rekommendationer.
+- `/sources/` Datakällor — Datakällorna bakom SETxGNN: registreringsdata från MPA, TxGNN, ClinicalTrials.gov, PubMed och DrugBank.
+- `/downloads/` Nedladdningar — Öppna data att ladda ned från SETxGNN: FHIR-resurser, prediktionsresultat och sökindex.
+- `/about/` Om — SETxGNN är en plattform för prediktion av läkemedelsrepositionering, utvecklad av 藥提醒科技有限公司 (yao.care), byggd på Harvards TxGNN-modell och omfattar läkemedel godkända av MPA i Sverige.
+
+## Exempel på läkemedelsrapporter
+
+- Bendamustine (L1): https://setxgnn.yao.care/drugs/bendamustine/
+- Capecitabine (L1): https://setxgnn.yao.care/drugs/capecitabine/
+- Pantoprazole (L1): https://setxgnn.yao.care/drugs/pantoprazole/
+
+## Citering och begränsningar
+
+Citera originalartikeln om TxGNN (https://doi.org/10.1038/s41591-023-02233-x). Webbplatsens innehåll och prediktioner är endast för forskning och utbildning och utgör inte medicinsk rådgivning; all faktisk användning måste bekräftas av behöriga yrkespersoner, kliniska prövningar och myndighetsgranskning.
+
+## Officiella länkar
+
+- https://setxgnn.yao.care/
+- https://www.yao.care/medical/txgnn/
+- https://github.com/yao-care/SETxGNN
+- https://doi.org/10.1038/s41591-023-02233-x
