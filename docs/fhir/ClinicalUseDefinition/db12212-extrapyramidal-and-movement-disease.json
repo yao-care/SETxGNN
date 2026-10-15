@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db12212-extrapyramidal-and-movement-disease",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db12212"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "extrapyramidal and movement disease"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://setxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://setxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9904
+    }
+  ]
+}

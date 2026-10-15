@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db09009-allergic-asthma",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db09009"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "allergic asthma"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://setxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://setxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9938
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "db11742",
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://setxgnn.yao.care/drugs",
+        "code": "db11742",
+        "display": "DB11742"
+      }
+    ]
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "SE",
+          "display": "Sweden"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://setxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}
