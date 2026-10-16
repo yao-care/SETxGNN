@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 138
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Diazepam: predikterad ny indikation Insomni (evidensnivå L5). Ursprunglig indikation: Epilepsi, status epilepticus, alkoholabstinens, ångest…"
 ---
 
 # Diazepam

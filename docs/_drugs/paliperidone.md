@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 335
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Paliperidone: predikterad ny indikation Retinal dystrofi med eller utan extraokulära avvikelser (evidensnivå L5). Ursprunglig indikation: Schizofreni och andra psykotiska sjukdomar (enligt kunskapsgr…"
 ---
 
 # Paliperidone

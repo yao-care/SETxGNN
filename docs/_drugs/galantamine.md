@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 212
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Galantamine: predikterad ny indikation Psykogena rörelsestörningar (rang 1) (evidensnivå L5). Ursprunglig indikation: Alzheimers sjukdom (enligt kunskapsgrafen"
 ---
 
 # Galantamine

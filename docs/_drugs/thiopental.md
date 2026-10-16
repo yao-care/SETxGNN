@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 423
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Thiopental: predikterad ny indikation Trikotillomani (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad i licensdata. I kunsk…"
 ---
 
 # Thiopental

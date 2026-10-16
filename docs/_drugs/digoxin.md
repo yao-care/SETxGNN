@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 141
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Digoxin: predikterad ny indikation Prinzmetal angina (evidensnivå L5). Ursprunglig indikation: Förmaksflimmer, digitalisförgiftning (enligt TxGNN-kunskapsgrafen"
 ---
 
 # Digoxin

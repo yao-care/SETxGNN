@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 136
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Dexmedetomidine: predikterad ny indikation Nefrogent syndrom med olämplig antidiures (NSIAD) (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga godkännandedata"
 ---
 
 # Dexmedetomidine

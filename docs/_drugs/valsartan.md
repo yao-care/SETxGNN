@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 446
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Valsartan: predikterad ny indikation Malign renovaskulär hypertoni (evidensnivå L5). Ursprunglig indikation: Hypertoni (hypertensive disorder, hypertension)"
 ---
 
 # Valsartan

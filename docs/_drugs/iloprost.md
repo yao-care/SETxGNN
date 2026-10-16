@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 231
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Iloprost: predikterad ny indikation Hypotrichosis simplex i hårbotten (evidensnivå L5). Ursprunglig indikation: Pulmonell arteriell hypertension (enligt kunskapsgrafen"
 ---
 
 # Iloprost

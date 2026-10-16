@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 55
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Benzocaine: predikterad ny indikation Papillär konjunktivit (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext registrerad i svenska data. Enligt kuns…"
 ---
 
 # Benzocaine

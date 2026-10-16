@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 447
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Vancomycin: predikterad ny indikation Diffus skleroderma (evidensnivå L5). Ursprunglig indikation: Clostridium difficile-kolit (bland flera…"
 ---
 
 # Vancomycin

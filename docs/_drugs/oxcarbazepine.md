@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 331
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Oxcarbazepine: predikterad ny indikation Visuell epilepsi (evidensnivå L5). Ursprunglig indikation: Partiell epilepsi, partiell motorisk epilepsi"
 ---
 
 # Oxcarbazepine

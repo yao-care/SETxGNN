@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 110
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Clonidine: predikterad ny indikation Faciodigitogenitalt syndrom (evidensnivå L5). Ursprunglig indikation: Högt blodtryck (hypertoni). Källa: kunskapsgrafen…"
 ---
 
 # Clonidine

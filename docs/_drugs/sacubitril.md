@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 390
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Sacubitril: predikterad ny indikation Småkärlssjukdom i hjärnan typ 1, med eller utan ögonavvikelser (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga licensuppgifter"
 ---
 
 # Sacubitril

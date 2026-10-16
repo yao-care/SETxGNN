@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 196
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Filgrastim: predikterad ny indikation Primär frisättningsstörning av trombocyter (evidensnivå L5). Ursprunglig indikation: Konstitutionell neutropeni, svår medfödd neutropeni…"
 ---
 
 # Filgrastim

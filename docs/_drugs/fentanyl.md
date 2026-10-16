@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 194
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Fentanyl: predikterad ny indikation Nefrogent syndrom med olämplig antidures (evidensnivå L5). Ursprunglig indikation: Ej tillgänglig (godkännandenas indikationstexter är tomma)"
 ---
 
 # Fentanyl

@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 61
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Bimatoprost: predikterad ny indikation Missbildningssyndrom med dental och/eller parodontal komponent (evidensnivå L5). Ursprunglig indikation: Öppenvinkelglaukom och okulär hypertension"
 ---
 
 # Bimatoprost

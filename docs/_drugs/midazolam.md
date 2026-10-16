@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 293
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Midazolam: predikterad ny indikation Sömnlöshet (insomni) (evidensnivå L3). Ursprunglig indikation: Ångest (enligt kunskapsgrafen"
 ---
 
 # Midazolam

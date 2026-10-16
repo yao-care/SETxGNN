@@ -5,6 +5,8 @@ parent: Hög evidens (L1-L2)
 nav_order: 337
 evidence_level: L1
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Pantoprazole: predikterad ny indikation Aktivt magsår (active peptic ulcer disease) (evidensnivå L1). Ursprunglig indikation: Ingen indikationstext finns registrerad i godkännandet. Enligt kunska…"
 ---
 
 # Pantoprazole

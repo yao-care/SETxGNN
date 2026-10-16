@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 307
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Mupirocin: predikterad ny indikation Pleurempyem (evidensnivå L5). Ursprunglig indikation: Impetigo, bullös impetigo (enligt TxGNN-kunskapsgrafen"
 ---
 
 # Mupirocin

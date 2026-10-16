@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 124
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Daptomycin: predikterad ny indikation Osteoartrit (evidensnivå L4). Ursprunglig indikation: Ingen indikationstext angiven i de svenska godkännandena (daptomycin…"
 ---
 
 # Daptomycin

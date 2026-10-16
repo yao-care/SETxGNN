@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 407
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Sunitinib: predikterad ny indikation Liposarkom (evidensnivå L5). Ursprunglig indikation: Njurcellscancer och GIST (enligt kunskapsgrafen"
 ---
 
 # Sunitinib

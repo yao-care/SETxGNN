@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 336
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Palonosetron: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L4). Ursprunglig indikation: Ej angiven i tillgängliga data"
 ---
 
 # Palonosetron

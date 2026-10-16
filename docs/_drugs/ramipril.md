@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 376
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ramipril: predikterad ny indikation Pulmonell hypertension orsakad av lungsjukdom och/eller hypoxi (evidensnivå L5). Ursprunglig indikation: Hypertoni…"
 ---
 
 # Ramipril

@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 403
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Sulbactam: predikterad ny indikation Bakteriell artrit (evidensnivå L3). Ursprunglig indikation: Kolangit…"
 ---
 
 # Sulbactam

@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 79
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Candesartan: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i godkännandedata"
 ---
 
 # Candesartan

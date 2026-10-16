@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 399
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Sotalol: predikterad ny indikation Sick sinus-syndrom 2, autosomalt dominant (evidensnivå L5). Ursprunglig indikation: Förmaksflimmer (enligt kunskapsgrafen"
 ---
 
 # Sotalol

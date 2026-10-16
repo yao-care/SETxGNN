@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 396
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Sevoflurane: predikterad ny indikation Prinzmetals angina (evidensnivå L5). Ursprunglig indikation: Ej angiven i de data som sammanställts för rapporten (indikationstext…"
 ---
 
 # Sevoflurane

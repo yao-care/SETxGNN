@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 377
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Rifabutin: predikterad ny indikation HIV-sjukdom (HIV infectious disease) (evidensnivå L5). Ursprunglig indikation: Ej angiven i godkännandet (indikationstexten saknas)"
 ---
 
 # Rifabutin

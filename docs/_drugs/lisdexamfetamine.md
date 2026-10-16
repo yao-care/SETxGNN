@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 266
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Lisdexamfetamine: predikterad ny indikation Specifik utvecklingsrubbning (evidensnivå L4). Ursprunglig indikation: ADHD (enligt kunskapsgrafen"
 ---
 
 # Lisdexamfetamine

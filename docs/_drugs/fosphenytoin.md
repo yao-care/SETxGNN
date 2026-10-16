@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 209
 evidence_level: L4
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Fosphenytoin: predikterad ny indikation Manisk bipolär sjukdom (rang 4 i modellens lista) (evidensnivå L4). Ursprunglig indikation: Epilepsi, status epilepticus (enligt TxGNN:s kunskapsgraf"
 ---
 
 # Fosphenytoin

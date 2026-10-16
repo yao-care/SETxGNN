@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 96
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Chlorzoxazone: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ej angiven i de svenska godkännandena (indikationstexten saknas)"
 ---
 
 # Chlorzoxazone

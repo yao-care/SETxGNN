@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 261
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Levodopa: predikterad ny indikation Rasmussens subakuta encefalit (evidensnivå L5). Ursprunglig indikation: Parkinsons sjukdom (enligt kunskapsgrafen"
 ---
 
 # Levodopa

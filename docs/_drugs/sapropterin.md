@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 392
 evidence_level: L4
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Sapropterin: predikterad ny indikation Rubbning i tyrosinmetabolismen (evidensnivå L4). Ursprunglig indikation: Fenylketonuri och rubbning i fenylalaninmetabolismen (enligt kunskaps…"
 ---
 
 # Sapropterin

@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 203
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Fluoxetine: predikterad ny indikation Schizotypisk personlighetsstörning (evidensnivå L5). Ursprunglig indikation: Egentlig depression (bland flera indikationer i kunskapsgrafen"
 ---
 
 # Fluoxetine

@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 98
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Ciclesonide: predikterad ny indikation Atopiskt eksem (evidensnivå L5). Ursprunglig indikation: Astma, intrinsisk astma, allergisk astma, allergisk rinit…"
 ---
 
 # Ciclesonide

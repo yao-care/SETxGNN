@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 228
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Hydroxyzine: predikterad ny indikation Allergisk urtikaria (rang 1) (evidensnivå L5). Ursprunglig indikation: Atopiskt eksem, allergisk rinit, konjunktivit…"
 ---
 
 # Hydroxyzine

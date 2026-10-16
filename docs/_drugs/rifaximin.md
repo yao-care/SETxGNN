@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 379
 evidence_level: L4
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Rifaximin: predikterad ny indikation Oral candidiasis (evidensnivå L4). Ursprunglig indikation: Hepatisk encefalopati, leverkoma (enligt kunskapsgrafen"
 ---
 
 # Rifaximin

@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 381
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Risperidone: predikterad ny indikation Familjär horisontell blickpares med progressiv skolios (evidensnivå L5). Ursprunglig indikation: Schizofreni och bipolär sjukdom (även autismrelaterade tillstån…"
 ---
 
 # Risperidone

@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 226
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Hydromorphone: predikterad ny indikation Faryngit (pharyngitis) (evidensnivå L5). Ursprunglig indikation: Förkylning…"
 ---
 
 # Hydromorphone

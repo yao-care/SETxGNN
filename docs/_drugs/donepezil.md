@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 149
 evidence_level: L3
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Donepezil: predikterad ny indikation Kronisk tics-sjukdom (evidensnivå L3). Ursprunglig indikation: Alzheimers sjukdom (enligt TxGNN-kunskapsgrafen"
 ---
 
 # Donepezil

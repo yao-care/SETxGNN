@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 283
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Methionine: predikterad ny indikation Akne (evidensnivå L5). Ursprunglig indikation: Ej angiven i godkännandedata (produkterna är infusionslösningar och e…"
 ---
 
 # Methionine

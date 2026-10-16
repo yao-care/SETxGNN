@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 171
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Eptifibatide: predikterad ny indikation Hemoglobinopati (rangordnad som nr 7 av de förutsagda indikationerna) (evidensnivå L5). Ursprunglig indikation: Akut koronarsyndrom (enligt kunskapsgrafen"
 ---
 
 # Eptifibatide

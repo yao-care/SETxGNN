@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 361
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Prednicarbate: predikterad ny indikation Vulvär inverterad follikulär keratos (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i det svenska godkännandet. Enligt kunska…"
 ---
 
 # Prednicarbate

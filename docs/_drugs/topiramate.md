@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 430
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Topiramate: predikterad ny indikation Trigeminusnervtumör (evidensnivå L5). Ursprunglig indikation: Epilepsi med generaliserade tonisk-kloniska anfall, partiell epilepsi…"
 ---
 
 # Topiramate

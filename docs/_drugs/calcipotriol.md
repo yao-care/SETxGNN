@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 77
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Calcipotriol: predikterad ny indikation Seborroisk keratos (evidensnivå L3). Ursprunglig indikation: Inte angiven i licensdatan (psoriasis enligt allmänt känd användning…"
 ---
 
 # Calcipotriol

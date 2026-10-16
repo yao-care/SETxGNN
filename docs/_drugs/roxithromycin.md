@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 389
 evidence_level: L5
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Roxithromycin: predikterad ny indikation Lepra (evidensnivå L5). Ursprunglig indikation: Uppgift saknas i godkännandena (indikationstexten är tom). Enligt far…"
 ---
 
 # Roxithromycin

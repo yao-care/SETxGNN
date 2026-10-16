@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 164
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Entecavir: predikterad ny indikation Kronisk hepatit C-virusinfektion (evidensnivå L5). Ursprunglig indikation: Kronisk hepatit B-virusinfektion (godkännandetexterna i Sverige sakna…"
 ---
 
 # Entecavir

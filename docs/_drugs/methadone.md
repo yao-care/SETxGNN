@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 282
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Methadone: predikterad ny indikation Tourettes syndrom (evidensnivå L5). Ursprunglig indikation: Uppgift saknas i de svenska godkännandena (indikationstexten är tom)"
 ---
 
 # Methadone

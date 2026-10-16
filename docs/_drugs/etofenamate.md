@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 180
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Etofenamate: predikterad ny indikation Spondylartropati, predisposition för (spondyloarthropathy… (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i svenska godkännan…"
 ---
 
 # Etofenamate

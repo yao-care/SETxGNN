@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 0
 nav_exclude: true
 search_exclude: true
+last_modified_at: 2026-05-04
+description: "Bosutinib: predikterad ny indikation Blast Phase Chronic Myelogenous Leukaemia, BCR-ABL1 Positive (evidensnivå L5). Ursprunglig indikation: Ph+ Chronic Myeloid Leukaemia (chronic phase)"
 ---
 
 # Bosutinib

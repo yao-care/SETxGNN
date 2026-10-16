@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 260
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Levocabastine: predikterad ny indikation Allergisk urtikaria (evidensnivå L5). Ursprunglig indikation: Atopisk konjunktivit…"
 ---
 
 # Levocabastine

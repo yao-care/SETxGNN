@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 143
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Diphenhydramine: predikterad ny indikation Rosaceakonjunktivit (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i godkännandet. Kunskapsgrafe…"
 ---
 
 # Diphenhydramine

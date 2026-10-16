@@ -5,6 +5,8 @@ parent: Hög evidens (L1-L2)
 nav_order: 295
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Miglustat: predikterad ny indikation Tay-Sachs sjukdom (GM2-gangliosidos) (evidensnivå L2). Ursprunglig indikation: Gauchers sjukdom, Niemann-Picks sjukdom (enligt kunskapsgrafen"
 ---
 
 # Miglustat

@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 384
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Rivastigmine: predikterad ny indikation Glaukom (evidensnivå L5). Ursprunglig indikation: Alzheimers sjukdom (enligt kunskapsgrafen"
 ---
 
 # Rivastigmine

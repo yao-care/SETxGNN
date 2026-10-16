@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 421
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Theophylline: predikterad ny indikation Trombotisk sjukdom (evidensnivå L5). Ursprunglig indikation: Astma (enligt kunskapsgrafen…"
 ---
 
 # Theophylline

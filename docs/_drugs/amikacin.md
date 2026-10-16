@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 29
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Amikacin: predikterad ny indikation Paratyfoidfeber (evidensnivå L4). Ursprunglig indikation: Bakteriell lunginflammation (enligt kunskapsgrafen"
 ---
 
 # Amikacin

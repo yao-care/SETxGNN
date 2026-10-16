@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 429
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tolvaptan: predikterad ny indikation Polycystisk njursjukdom 3 med eller utan polycystisk leversjukdom (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena…"
 ---
 
 # Tolvaptan

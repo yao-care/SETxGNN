@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 27
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ambrisentan: predikterad ny indikation Pulmonell arteriovenös missbildning (evidensnivå L5). Ursprunglig indikation: Pulmonell arteriell hypertension (enligt kunskapsgrafen"
 ---
 
 # Ambrisentan

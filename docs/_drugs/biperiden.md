@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 63
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Biperiden: predikterad ny indikation Rasmussens subakuta encefalit (evidensnivå L5). Ursprunglig indikation: Parkinsons sjukdom och relaterade rörelsestörningar (enligt kunskapsg…"
 ---
 
 # Biperiden

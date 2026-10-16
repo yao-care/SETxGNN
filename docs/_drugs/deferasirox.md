@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 129
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Deferasirox: predikterad ny indikation HIV-infektion (evidensnivå L5). Ursprunglig indikation: Beta-talassemi och relaterade hemoglobinopatier (enligt kunskapsgrafen"
 ---
 
 # Deferasirox

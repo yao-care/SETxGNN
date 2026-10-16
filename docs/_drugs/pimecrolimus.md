@@ -5,6 +5,8 @@ parent: Hög evidens (L1-L2)
 nav_order: 351
 evidence_level: L2
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Pimecrolimus: predikterad ny indikation Seborroisk dermatit (evidensnivå L2). Ursprunglig indikation: Atopiskt eksem / atopisk dermatit (enligt kunskapsgrafen"
 ---
 
 # Pimecrolimus

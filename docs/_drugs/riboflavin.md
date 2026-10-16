@@ -8,6 +8,7 @@ drugbank_id: DB00140
 evidence_level: L5
 permalink: /drugs/riboflavin/
 search_exclude: true
+last_modified_at: 2026-05-04
 ---
 
 # RIBOFLAVIN

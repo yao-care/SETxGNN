@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 368
 evidence_level: L3
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Propafenone: predikterad ny indikation Katekolaminerg polymorf ventrikeltakykardi (CPVT) (evidensnivå L3). Ursprunglig indikation: Förmaksflimmer och ventrikeltakykardi (enligt kunskapsgrafen"
 ---
 
 # Propafenone

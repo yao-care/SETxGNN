@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 308
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Nabumetone: predikterad ny indikation Akromesomelisk dysplasi, Hunter-Thompson-typ (evidensnivå L5). Ursprunglig indikation: Reumatoid artrit, artros, ledsjukdom (artropati)"
 ---
 
 # Nabumetone

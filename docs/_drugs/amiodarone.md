@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 30
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Amiodarone: predikterad ny indikation Katekolaminerg polymorf ventrikulär takykardi (CPVT) (evidensnivå L5). Ursprunglig indikation: Ventrikelflimmer (hämtad från kunskapsgrafen…"
 ---
 
 # Amiodarone

@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 451
 evidence_level: L3
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Vincristine: predikterad ny indikation Ganglioneuroblastom (evidensnivå L3). Ursprunglig indikation: Ingen godkänd indikationstext finns i de svenska godkännandena. Enlig…"
 ---
 
 # Vincristine

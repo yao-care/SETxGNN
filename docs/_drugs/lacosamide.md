@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 248
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Lacosamide: predikterad ny indikation Manisk bipolär sjukdom (evidensnivå L3). Ursprunglig indikation: Anges inte i licensdata (epilepsi enligt allmänt känd användning)"
 ---
 
 # Lacosamide

@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 237
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Isoniazid: predikterad ny indikation Konjunktivit (evidensnivå L4). Ursprunglig indikation: Lungtuberkulos (enligt TxGNN-kunskapsgrafen"
 ---
 
 # Isoniazid

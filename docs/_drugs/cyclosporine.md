@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 117
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Cyclosporine: predikterad ny indikation Kronisk granulomatös sjukdom, autosomalt recessiv (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad. Enligt kunskapsgra…"
 ---
 
 # Cyclosporine

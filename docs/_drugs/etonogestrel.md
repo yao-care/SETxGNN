@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 181
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Etonogestrel: predikterad ny indikation Amenorré (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga data"
 ---
 
 # Etonogestrel

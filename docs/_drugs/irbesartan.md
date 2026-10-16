@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 234
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Irbesartan: predikterad ny indikation Malign hypertensiv njursjukdom (evidensnivå L5). Ursprunglig indikation: Hypertoni, högt blodtryck och diabetesnefropati"
 ---
 
 # Irbesartan

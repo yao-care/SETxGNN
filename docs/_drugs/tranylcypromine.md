@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 434
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tranylcypromine: predikterad ny indikation Godartad paroxysmal torticollis hos spädbarn (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i godkännandena. Enligt kunsk…"
 ---
 
 # Tranylcypromine

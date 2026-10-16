@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 325
 evidence_level: L4
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Olodaterol: predikterad ny indikation Bronkit (evidensnivå L4). Ursprunglig indikation: Kronisk obstruktiv lungsjukdom (KOL)"
 ---
 
 # Olodaterol

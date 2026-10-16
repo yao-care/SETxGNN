@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 415
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tenoxicam: predikterad ny indikation Reumatoid artrit (evidensnivå L5). Ursprunglig indikation: Artrit och ledsjukdom (från kunskapsgrafen"
 ---
 
 # Tenoxicam

@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 28
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Ambroxol: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Faryngit (enligt TxGNN-kunskapsgrafen"
 ---
 
 # Ambroxol

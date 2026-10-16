@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 172
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ergocalciferol: predikterad ny indikation Renal osteodystrofi (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns i svenska godkännanden. Enligt ku…"
 ---
 
 # Ergocalciferol

@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 174
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Esomeprazole: predikterad ny indikation Duodenogastrisk reflux (evidensnivå L5). Ursprunglig indikation: Peptiskt ulkus, gastroesofageal refluxsjukdom…"
 ---
 
 # Esomeprazole

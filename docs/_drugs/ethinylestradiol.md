@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 178
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Ethinylestradiol: predikterad ny indikation Förhöjt plasmazink (zinc, elevated plasma) (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad. Kunskapsgrafen anger…"
 ---
 
 # Ethinylestradiol

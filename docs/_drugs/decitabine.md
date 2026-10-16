@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 128
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Decitabine: predikterad ny indikation Refraktär cytopeni hos barn (evidensnivå L4). Ursprunglig indikation: Myeloisk leukemi…"
 ---
 
 # Decitabine

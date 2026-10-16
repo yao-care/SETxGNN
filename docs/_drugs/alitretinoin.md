@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 21
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Alitretinoin: predikterad ny indikation Amenorré (evidensnivå L5). Ursprunglig indikation: Svårt kroniskt handeksem som inte svarat på kraftiga lokala kortikost…"
 ---
 
 # Alitretinoin

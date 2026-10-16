@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 250
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Lamivudine: predikterad ny indikation Simian immunbristvirusinfektion (evidensnivå L5). Ursprunglig indikation: Kronisk hepatit B-virusinfektion…"
 ---
 
 # Lamivudine

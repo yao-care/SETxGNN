@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 121
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Dalteparin: predikterad ny indikation Trombofili orsakad av protein C-brist, autosomalt recessiv (evidensnivå L5). Ursprunglig indikation: Lungemboli, DIC, purpura fulminans (enligt kunskapsgrafen"
 ---
 
 # Dalteparin

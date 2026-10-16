@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 186
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Ezetimibe: predikterad ny indikation Hyperlipoproteinemi (evidensnivå L5). Ursprunglig indikation: Hyperlipidemi, familjär hyperlipidemi…"
 ---
 
 # Ezetimibe

@@ -5,6 +5,8 @@ parent: Hög evidens (L1-L2)
 nav_order: 416
 evidence_level: L1
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Terbutaline: predikterad ny indikation Obstruktiv lungsjukdom (evidensnivå L1). Ursprunglig indikation: Astma"
 ---
 
 # Terbutaline

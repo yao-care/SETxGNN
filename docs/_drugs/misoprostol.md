@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 299
 evidence_level: L4
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Misoprostol: predikterad ny indikation Amenorré (evidensnivå L4). Ursprunglig indikation: Ej angiven i tillgängliga data"
 ---
 
 # Misoprostol

@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 182
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Etoposide: predikterad ny indikation Välutvecklat fetalt adenokarcinom i lungan (evidensnivå L4). Ursprunglig indikation: Småcellig lungcancer (hämtad från kunskapsgrafen…"
 ---
 
 # Etoposide

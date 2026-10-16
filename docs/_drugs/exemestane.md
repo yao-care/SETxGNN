@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 185
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Exemestane: predikterad ny indikation Amenorré (rang 2 (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga godkännandedata"
 ---
 
 # Exemestane

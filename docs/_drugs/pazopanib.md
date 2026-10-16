@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 340
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pazopanib: predikterad ny indikation Njurcellscancer med Xp11.2-translokation/TFE3-genfusion (evidensnivå L5). Ursprunglig indikation: Njurcellscancer och mjukdelssarkom (enligt kunskapsgrafen). Inge…"
 ---
 
 # Pazopanib

@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 422
 evidence_level: L3
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Thiamine: predikterad ny indikation Hypertyreos (evidensnivå L3). Ursprunglig indikation: Ingen indikationstext finns registrerad i godkännandedata"
 ---
 
 # Thiamine

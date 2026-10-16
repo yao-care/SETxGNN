@@ -5,6 +5,8 @@ parent: Hög evidens (L1-L2)
 nav_order: 329
 evidence_level: L2
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Oxaliplatin: predikterad ny indikation Malignt pleuralt mesoteliom (evidensnivå L2). Ursprunglig indikation: Metastaserad koloncancer (enligt kunskapsgrafen"
 ---
 
 # Oxaliplatin

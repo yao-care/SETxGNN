@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 158
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Efavirenz: predikterad ny indikation Felin förvärvad immunbristsyndrom (evidensnivå L5). Ursprunglig indikation: Hiv-infektion, aids (enligt kunskapsgrafen"
 ---
 
 # Efavirenz

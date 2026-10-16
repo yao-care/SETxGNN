@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 109
 evidence_level: L3
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Clonazepam: predikterad ny indikation Restless legs-syndrom (evidensnivå L3). Ursprunglig indikation: Ingen godkänd indikationstext tillgänglig från svenska godkännanden.…"
 ---
 
 # Clonazepam

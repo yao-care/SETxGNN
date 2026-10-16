@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 11
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Abacavir: predikterad ny indikation Infektion med simian immunbristvirus (SIV) (evidensnivå L5). Ursprunglig indikation: HIV-infektion, AIDS (enligt kunskapsgrafen"
 ---
 
 # Abacavir

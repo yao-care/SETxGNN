@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 12
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Aceclofenac: predikterad ny indikation Brachyolmia-amelogenesis imperfecta-syndrom (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i det svenska godkännandet. Enligt kuns…"
 ---
 
 # Aceclofenac

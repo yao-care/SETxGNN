@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 104
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Citalopram: predikterad ny indikation Tvångssyndrom (obsessive-compulsive disorder) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i godkännandena. Enligt kunsk…"
 ---
 
 # Citalopram

@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 417
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Teriflunomide: predikterad ny indikation Skovvis förlöpande multipel skleros (RRMS) (evidensnivå L5). Ursprunglig indikation: Multipel skleros (godkänd indikationstext saknas i svenska godkännand…"
 ---
 
 # Teriflunomide

@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 92
 evidence_level: L4
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Chloramphenicol: predikterad ny indikation Konjunktivit (evidensnivå L4). Ursprunglig indikation: Ingen indikationstext finns registrerad i de svenska godkännandena. E…"
 ---
 
 # Chloramphenicol

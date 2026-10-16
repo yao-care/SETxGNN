@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 431
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Topotecan: predikterad ny indikation Kvinnlig bröstcancer (evidensnivå L3). Ursprunglig indikation: Äggstockscancer (enligt kunskapsgrafen"
 ---
 
 # Topotecan

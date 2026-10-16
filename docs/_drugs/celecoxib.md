@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 89
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Celecoxib: predikterad ny indikation Akromesomel dysplasi av Hunter-Thompson-typ (evidensnivå L5). Ursprunglig indikation: Reumatoid artrit (enligt kunskapsgrafen"
 ---
 
 # Celecoxib

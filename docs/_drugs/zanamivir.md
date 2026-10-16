@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 456
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Zanamivir: predikterad ny indikation Pyelonefrit (evidensnivå L5). Ursprunglig indikation: Influensa"
 ---
 
 # Zanamivir

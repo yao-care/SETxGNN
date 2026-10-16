@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 86
 evidence_level: L4
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Cefazolin: predikterad ny indikation Infektiös mellanöreinflammation (infectious otitis media) (evidensnivå L4). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad i svenska godk…"
 ---
 
 # Cefazolin

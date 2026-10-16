@@ -5,6 +5,8 @@ parent: Hög evidens (L1-L2)
 nav_order: 84
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Carboplatin: predikterad ny indikation Kvinnlig bröstkarcinom (evidensnivå L2). Ursprunglig indikation: Äggstockscancer (enligt kunskapsgrafen"
 ---
 
 # Carboplatin

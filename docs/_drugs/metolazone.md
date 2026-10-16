@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 288
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Metolazone: predikterad ny indikation Malign renovaskulär hypertoni (evidensnivå L5). Ursprunglig indikation: Hypertoni (enligt kunskapsgrafen"
 ---
 
 # Metolazone

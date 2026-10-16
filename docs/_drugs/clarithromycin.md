@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 106
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Clarithromycin: predikterad ny indikation Polyklonalt hyperviskositetssyndrom (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i godkännandedata. Enligt kunskapsgrafe…"
 ---
 
 # Clarithromycin

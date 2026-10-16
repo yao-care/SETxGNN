@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 163
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Entacapone: predikterad ny indikation PLA2G6-associerad neurodegeneration (evidensnivå L5). Ursprunglig indikation: Parkinsons sjukdom (enligt kunskapsgrafen"
 ---
 
 # Entacapone

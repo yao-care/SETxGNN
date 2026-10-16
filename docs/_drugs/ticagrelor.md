@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 426
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ticagrelor: predikterad ny indikation Intrakraniell arterioskleros (evidensnivå L5). Ursprunglig indikation: Akut koronarsyndrom, perifer kärlsjukdom, claudicatio intermittens…"
 ---
 
 # Ticagrelor

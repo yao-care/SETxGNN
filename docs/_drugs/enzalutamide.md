@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 165
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Enzalutamide: predikterad ny indikation Prostate cancer/brain cancer susceptibility (genetisk känslighet för… (evidensnivå L5). Ursprunglig indikation: Prostatacancer (godkännandetexterna i det samma…"
 ---
 
 # Enzalutamide

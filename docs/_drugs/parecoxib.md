@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 338
 evidence_level: L3
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Parecoxib: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L3). Ursprunglig indikation: Ej angiven i tillgängliga licensuppgifter"
 ---
 
 # Parecoxib

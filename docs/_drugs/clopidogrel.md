@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 111
 evidence_level: L5
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Clopidogrel: predikterad ny indikation Migrän med hjärnstamsaura (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. Enligt kunska…"
 ---
 
 # Clopidogrel

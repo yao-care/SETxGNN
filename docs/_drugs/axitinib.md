@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 46
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Axitinib: predikterad ny indikation Njurcellscancer associerad med Xp11.2-translokation/TFE3-genfusion (evidensnivå L5). Ursprunglig indikation: Njurcellscancer (icke-papillär njurcellscancer…"
 ---
 
 # Axitinib

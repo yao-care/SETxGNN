@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 38
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Apraclonidine: predikterad ny indikation Primärt ärftligt glaukom (evidensnivå L5). Ursprunglig indikation: Öppenvinkelglaukom"
 ---
 
 # Apraclonidine

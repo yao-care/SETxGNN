@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 44
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Atomoxetine: predikterad ny indikation Specifik utvecklingsstörning (evidensnivå L3). Ursprunglig indikation: ADHD (attention deficit hyperactivity disorder)…"
 ---
 
 # Atomoxetine

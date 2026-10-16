@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 179
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Ethosuximide: predikterad ny indikation Nefrogent syndrom med inadekvat antidures (NSIAD) (evidensnivå L5). Ursprunglig indikation: Absensepilepsi (enligt kunskapsgrafen…"
 ---
 
 # Ethosuximide

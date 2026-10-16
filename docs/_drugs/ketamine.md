@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 243
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Ketamine: predikterad ny indikation Huvudvärkssjukdom (headache disorder) (evidensnivå L5). Ursprunglig indikation: Ej angiven (godkännandena saknar indikationstext)"
 ---
 
 # Ketamine

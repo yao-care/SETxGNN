@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 254
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Leflunomide: predikterad ny indikation Brakydaktyli-syndaktyli-syndrom (evidensnivå L5). Ursprunglig indikation: Reumatoid artrit och psoriasisartrit (enligt TxGNN-kunskapsgrafen"
 ---
 
 # Leflunomide

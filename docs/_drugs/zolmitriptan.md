@@ -5,6 +5,8 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 459
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Zolmitriptan: predikterad ny indikation Migrän med hjärnstamsaura (evidensnivå L4). Ursprunglig indikation: Migrän"
 ---
 
 # Zolmitriptan

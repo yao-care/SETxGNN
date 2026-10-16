@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 155
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Duloxetine: predikterad ny indikation Tvångssyndrom (OCD) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. Enligt kunska…"
 ---
 
 # Duloxetine

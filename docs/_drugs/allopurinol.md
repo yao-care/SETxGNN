@@ -5,6 +5,8 @@ parent: Endast modellprediktion (L5)
 nav_order: 22
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Allopurinol: predikterad ny indikation Hepatisk porfyri (evidensnivå L5). Ursprunglig indikation: Gikt, hyperurikemi, akut uratnefropati (enligt kunskapsgrafen"
 ---
 
 # Allopurinol

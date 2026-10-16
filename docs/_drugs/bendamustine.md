@@ -5,6 +5,8 @@ parent: Hög evidens (L1-L2)
 nav_order: 53
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Bendamustine: predikterad ny indikation Mantelcellslymfom (evidensnivå L1). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. Enligt kunska…"
 ---
 
 # Bendamustine
