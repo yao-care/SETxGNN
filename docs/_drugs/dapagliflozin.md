@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Dapagliflozin
 parent: 僅模型預測 (L5)

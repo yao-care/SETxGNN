@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Levosimendan
 parent: 僅模型預測 (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Cefadroxil
 parent: 僅模型預測 (L5)
