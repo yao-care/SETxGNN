@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Ethanol: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i godkännandedatan"
+monitor_inn: "ethanol"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 ---
 
 # Ethanol

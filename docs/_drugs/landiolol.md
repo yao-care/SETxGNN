@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Landiolol: predikterad ny indikation Lingual-facial-buckal dyskinesi (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad i godkännandena. Enligt farmakologi…"
+monitor_inn: "landiolol"
+predicted_indications: ["lingual-facial-buccal dyskinesia", "chronic tic disorder", "psychogenic movement disorders", "extrapyramidal and movement disease", "benign shuddering attacks", "primary orthostatic tremor"]
 ---
 
 # Landiolol

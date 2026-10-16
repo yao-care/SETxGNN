@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Norgestimate: predikterad ny indikation Förhöjt zink i plasma (zinc, elevated plasma) (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext registrerad. Kunskapsgrafen anger akne…"
+monitor_inn: "norgestimate"
+predicted_indications: ["zinc, elevated plasma"]
 ---
 
 # Norgestimate

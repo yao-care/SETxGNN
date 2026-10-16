@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Fentanyl: predikterad ny indikation Nefrogent syndrom med olämplig antidures (evidensnivå L5). Ursprunglig indikation: Ej tillgänglig (godkännandenas indikationstexter är tomma)"
+monitor_inn: "FENTANYL"
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
 ---
 
 # Fentanyl

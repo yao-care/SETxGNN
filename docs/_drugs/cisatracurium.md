@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cisatracurium: predikterad ny indikation Cauda equina-syndrom (evidensnivå L5). Ursprunglig indikation: Ej angiven i godkännandedata"
+monitor_inn: "cisatracurium"
+predicted_indications: ["cauda equina syndrome", "preeclampsia", "obsolete neurogenic bladder (disease)", "migraine disorder", "thrombotic disease", "irritable bowel syndrome", "migraine with brainstem aura", "mild pre-eclampsia", "severe pre-eclampsia", "neurocirculatory asthenia"]
 ---
 
 # Cisatracurium

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Procaine: predikterad ny indikation Metemoglobinemi (evidensnivå L4). Ursprunglig indikation: Ej angiven (godkännandet saknar indikationstext)"
+monitor_inn: "procaine"
+predicted_indications: ["methemoglobinemia", "methemoglobinemia, alpha type", "Tourette syndrome", "anaphylaxis", "methemoglobin reductase deficiency", "hyperthyroidism", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis"]
 ---
 
 # Procaine

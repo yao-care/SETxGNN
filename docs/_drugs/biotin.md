@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Biotin: predikterad ny indikation Dyspepsi (evidensnivå L5). Ursprunglig indikation: Näringsrelaterad biotinbrist (enligt kunskapsgrafen"
+monitor_inn: "BIOTIN"
+predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
 ---
 
 # Biotin

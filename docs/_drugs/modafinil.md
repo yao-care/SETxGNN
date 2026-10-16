@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Modafinil: predikterad ny indikation Sömnlöshet (insomni) (evidensnivå L4). Ursprunglig indikation: Narkolepsi (enligt kunskapsgrafen"
+monitor_inn: "MODAFINIL"
+predicted_indications: ["insomnia (disease)"]
 ---
 
 # Modafinil

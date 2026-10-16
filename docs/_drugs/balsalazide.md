@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Balsalazide: predikterad ny indikation Gikt (evidensnivå L5). Ursprunglig indikation: Ulcerös kolit, inflammatorisk tarmsjukdom (enligt kunskapsgrafen"
+monitor_inn: "balsalazide"
+predicted_indications: ["gout", "congenital hypotrichosis with juvenile macular dystrophy", "ankylosing spondylitis", "rheumatoid arthritis", "rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "anus disease"]
 ---
 
 # Balsalazide

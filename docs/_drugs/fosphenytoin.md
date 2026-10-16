@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Fosphenytoin: predikterad ny indikation Manisk bipolär sjukdom (rang 4 i modellens lista) (evidensnivå L4). Ursprunglig indikation: Epilepsi, status epilepticus (enligt TxGNN:s kunskapsgraf"
+monitor_inn: "fosphenytoin"
+predicted_indications: ["conjunctivitis", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome", "manic bipolar affective disorder", "myositis fibrosa", "idiopathic granulomatous myositis", "fibromyalgia"]
 ---
 
 # Fosphenytoin

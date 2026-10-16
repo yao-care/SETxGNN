@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Allopurinol: predikterad ny indikation Hepatisk porfyri (evidensnivå L5). Ursprunglig indikation: Gikt, hyperurikemi, akut uratnefropati (enligt kunskapsgrafen"
+monitor_inn: "ALLOPURINOL"
+predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
 ---
 
 # Allopurinol

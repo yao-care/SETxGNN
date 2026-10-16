@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lacosamide: predikterad ny indikation Manisk bipolär sjukdom (evidensnivå L3). Ursprunglig indikation: Anges inte i licensdata (epilepsi enligt allmänt känd användning)"
+monitor_inn: "lacosamide"
+predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
 ---
 
 # Lacosamide

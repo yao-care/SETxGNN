@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Danaparoid: predikterad ny indikation Glanzmanns trombasteni (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga data"
+monitor_inn: "danaparoid"
+predicted_indications: ["Glanzmann thrombasthenia", "primary release disorder of platelets", "pseudo-von Willebrand disease", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "Scott syndrome"]
 ---
 
 # Danaparoid

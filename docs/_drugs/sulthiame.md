@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sulthiame: predikterad ny indikation Cauda equina-syndrom (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga data"
+monitor_inn: "sulthiame"
+predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "neurocirculatory asthenia", "anaphylaxis", "food-dependent exercise-induced anaphylaxis", "familial mitral valve prolapse", "mitral valve prolapse (disease)", "MVP1", "autonomic nervous system disease"]
 ---
 
 # Sulthiame

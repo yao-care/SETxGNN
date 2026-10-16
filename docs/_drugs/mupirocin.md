@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Mupirocin: predikterad ny indikation Pleurempyem (evidensnivå L5). Ursprunglig indikation: Impetigo, bullös impetigo (enligt TxGNN-kunskapsgrafen"
+monitor_inn: "MUPIROCIN"
+predicted_indications: ["pleural empyema (disease)", "punctate epithelial keratoconjunctivitis"]
 ---
 
 # Mupirocin

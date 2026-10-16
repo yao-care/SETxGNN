@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Methadone: predikterad ny indikation Tourettes syndrom (evidensnivå L5). Ursprunglig indikation: Uppgift saknas i de svenska godkännandena (indikationstexten är tom)"
+monitor_inn: "methadone"
+predicted_indications: ["Tourette syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "headache disorder", "manic bipolar affective disorder", "trigeminal autonomic cephalalgia", "common cold"]
 ---
 
 # Methadone

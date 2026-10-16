@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pyrazinamide: predikterad ny indikation Infektiös otitis media (evidensnivå L5). Ursprunglig indikation: Lungtuberkulos…"
+monitor_inn: "pyrazinamide"
+predicted_indications: ["infectious otitis media", "middle ear disease", "otosalpingitis", "chronic otitis media", "suppurative otitis media", "non-suppurative otitis media", "middle ear cholesterol granuloma", "allergic otitis media", "Lyme disease", "infectious otitis interna"]
 ---
 
 # Pyrazinamide

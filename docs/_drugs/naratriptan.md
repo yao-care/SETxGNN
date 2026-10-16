@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Naratriptan: predikterad ny indikation Migrän med hjärnstamsaura (evidensnivå L5). Ursprunglig indikation: Migrän (migrän med eller utan aura). Godkännandetexten saknas i de sa…"
+monitor_inn: "naratriptan"
+predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Naratriptan

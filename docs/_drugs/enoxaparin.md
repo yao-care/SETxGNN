@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Enoxaparin: predikterad ny indikation Trombofili orsakad av protein C-brist, autosomalt recessiv (evidensnivå L5). Ursprunglig indikation: Lungemboli, DIC, purpura fulminans (enligt kunskapsgrafen"
+monitor_inn: "enoxaparin"
+predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
 ---
 
 # Enoxaparin

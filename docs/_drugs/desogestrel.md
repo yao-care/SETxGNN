@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Desogestrel: predikterad ny indikation Amenorré (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i de tillgängliga godkännandena"
+monitor_inn: "DESOGESTREL"
+predicted_indications: ["amenorrhea (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast", "acne (disease)", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "primary ovarian failure", "symptomatic form of fragile X syndrome in female carrier"]
 ---
 
 # Desogestrel

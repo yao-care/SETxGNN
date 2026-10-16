@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Acetylcysteine: predikterad ny indikation Trombotisk sjukdom (thrombotic disease) (evidensnivå L5). Ursprunglig indikation: Bronkit (enligt kunskapsgrafen"
+monitor_inn: "acetylcysteine"
+predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
 ---
 
 # Acetylcysteine

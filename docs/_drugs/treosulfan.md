@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Treosulfan: predikterad ny indikation Diabetisk katarakt (evidensnivå L5). Ursprunglig indikation: Ej angiven i licensdata"
+monitor_inn: "TREOSULFAN"
+predicted_indications: ["diabetic cataract"]
 ---
 
 # Treosulfan

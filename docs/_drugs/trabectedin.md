@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Trabectedin: predikterad ny indikation Bröstcancer hos kvinnor (evidensnivå L5). Ursprunglig indikation: Äggstockscancer (enligt kunskapsgrafen"
+monitor_inn: "trabectedin"
+predicted_indications: ["female breast carcinoma"]
 ---
 
 # Trabectedin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Mesalazine: predikterad ny indikation Medfödd hypotrikos med juvenil makuladystrofi (evidensnivå L5). Ursprunglig indikation: Ulcerös kolit, inflammatorisk tarmsjukdom…"
+monitor_inn: "mesalazine"
+predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "osteoarthritis susceptibility", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
 ---
 
 # Mesalazine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Famciclovir: predikterad ny indikation Postinfektiös neuralgi (evidensnivå L5). Ursprunglig indikation: Herpes zoster (enligt kunskapsgrafen…"
+monitor_inn: "famciclovir"
+predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hepatitis C induced liver cirrhosis", "malignant pleural mesothelioma", "AIDS-related disorder", "malignant epithelioid mesothelioma", "chickenpox", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 ---
 
 # Famciclovir

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Alfuzosin: predikterad ny indikation Ambras typ av hypertrichosis universalis congenita (evidensnivå L5). Ursprunglig indikation: Benign prostatahyperplasi (enligt kunskapsgrafen"
+monitor_inn: "alfuzosin"
+predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "allergic urticaria", "persistent fetal circulation syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
 ---
 
 # Alfuzosin

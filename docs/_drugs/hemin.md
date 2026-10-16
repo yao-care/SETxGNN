@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Hemin: predikterad ny indikation Trombocytopen purpura (evidensnivå L5). Ursprunglig indikation: Akut intermittent porfyri (enligt kunskapsgrafen"
+monitor_inn: "HEMIN"
+predicted_indications: ["thrombocytopenic purpura", "hemophilia", "C1 inhibitor deficiency", "acquired coagulation factor deficiency", "serpinopathy with toxic serpin polymerization", "hereditary angioedema with C1Inh deficiency", "inherited thrombophilia", "symptomatic form of hemophilia in female carriers", "hereditary von Willebrand disease", "congenital factor XI deficiency"]
 ---
 
 # Hemin

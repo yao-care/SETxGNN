@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Diazepam: predikterad ny indikation Insomni (evidensnivå L5). Ursprunglig indikation: Epilepsi, status epilepticus, alkoholabstinens, ångest…"
+monitor_inn: "DIAZEPAM"
+predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "antidepressant type abuse", "barbiturate abuse", "hallucinogen abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
 ---
 
 # Diazepam

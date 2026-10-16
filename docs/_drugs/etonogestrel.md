@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Etonogestrel: predikterad ny indikation Amenorré (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga data"
+monitor_inn: "ETONOGESTREL"
+predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "blunt duct adenosis of breast", "apocrine adenosis of breast", "benign mammary dysplasia"]
 ---
 
 # Etonogestrel

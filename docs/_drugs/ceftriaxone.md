@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Ceftriaxone: predikterad ny indikation Infektiös mellanöreinflammation (evidensnivå L3). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. Enligt kunska…"
+monitor_inn: "ceftriaxone"
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "infectious otitis media", "blood group incompatibility", "suppurative otitis media", "chronic otitis media"]
 ---
 
 # Ceftriaxone

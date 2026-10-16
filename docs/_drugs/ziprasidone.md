@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ziprasidone: predikterad ny indikation Stor affektiv sjukdom (major affective disorder) (evidensnivå L2). Ursprunglig indikation: Mani vid bipolär sjukdom, bipolär sjukdom…"
+monitor_inn: "ziprasidone"
+predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "major affective disorder", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
 ---
 
 # Ziprasidone

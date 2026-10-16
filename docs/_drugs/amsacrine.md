@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Amsacrine: predikterad ny indikation 99,4 % (evidensnivå L5). Ursprunglig indikation: Hypertyreos"
+monitor_inn: "amsacrine"
+predicted_indications: ["hyperthyroidism", "plasma cell myeloma", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "bronchitis"]
 ---
 
 # Amsacrine

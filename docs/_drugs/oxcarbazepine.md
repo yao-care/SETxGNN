@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Oxcarbazepine: predikterad ny indikation Visuell epilepsi (evidensnivå L5). Ursprunglig indikation: Partiell epilepsi, partiell motorisk epilepsi"
+monitor_inn: "oxcarbazepine"
+predicted_indications: ["visual epilepsy", "restless legs syndrome", "micturation-induced seizures", "audiogenic seizures", "startle epilepsy", "eating seizures", "orgasm-induced seizures", "thinking seizures", "status epilepticus", "reading seizures"]
 ---
 
 # Oxcarbazepine

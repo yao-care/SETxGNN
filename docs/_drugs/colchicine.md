@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Colchicine: predikterad ny indikation Plasmodium falciparum-malaria (evidensnivå L5). Ursprunglig indikation: Gikt, familjär Medelhavsfeber"
+monitor_inn: "colchicine"
+predicted_indications: ["Plasmodium falciparum malaria", "familial Mediterranean fever, autosomal dominant", "dermatofibrosarcoma protuberans"]
 ---
 
 # Colchicine

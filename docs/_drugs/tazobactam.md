@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Tazobactam: predikterad ny indikation Pneumoni (evidensnivå L5). Ursprunglig indikation: Bakteriell pneumoni, peritonit, appendicit…"
+monitor_inn: "tazobactam"
+predicted_indications: ["pneumonia", "urinary tract infection (disease)"]
 ---
 
 # Tazobactam

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Lynestrenol: predikterad ny indikation Migrän med eller utan aura, benägenhet (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga data"
+monitor_inn: "LYNESTRENOL"
+predicted_indications: ["migraine with or without aura, susceptibility to", "migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "leprosy"]
 ---
 
 # Lynestrenol

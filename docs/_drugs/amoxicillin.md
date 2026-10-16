@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Amoxicillin: predikterad ny indikation Hyperamylasemi (evidensnivå L5). Ursprunglig indikation: Urinvägsinfektion (enligt kunskapsgrafen"
+monitor_inn: "amoxicillin"
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
 ---
 
 # Amoxicillin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Ketoconazole: predikterad ny indikation Akne (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i svenska godkännanden. Enligt kunskapsgr…"
+monitor_inn: "ketoconazole"
+predicted_indications: ["acne (disease)"]
 ---
 
 # Ketoconazole

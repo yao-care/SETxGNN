@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Eletriptan: predikterad ny indikation Migrän med hjärnstammsaura (evidensnivå L4). Ursprunglig indikation: Migrän (migrän med eller utan aura). Den godkända indikationstexten s…"
+monitor_inn: "eletriptan"
+predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "sciatic neuropathy"]
 ---
 
 # Eletriptan

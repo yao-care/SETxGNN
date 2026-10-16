@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fulvestrant: predikterad ny indikation HIV-infektion (evidensnivå L5). Ursprunglig indikation: Ej angiven i den svenska licensdatan (bröstcancer enligt allmänt känd…"
+monitor_inn: "FULVESTRANT"
+predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acne (disease)", "brachydactyly-syndactyly syndrome", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 ---
 
 # Fulvestrant

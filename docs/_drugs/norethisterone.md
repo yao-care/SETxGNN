@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Norethisterone: predikterad ny indikation Amenorré (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i det svenska godkännandet. Enligt kunska…"
+monitor_inn: "norethisterone"
+predicted_indications: ["amenorrhea (disease)"]
 ---
 
 # Norethisterone

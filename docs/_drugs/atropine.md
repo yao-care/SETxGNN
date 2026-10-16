@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Atropine: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga godkännandedata"
+monitor_inn: "atropine"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 ---
 
 # Atropine

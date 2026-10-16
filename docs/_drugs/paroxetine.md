@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Paroxetine: predikterad ny indikation Ohdo syndrom och varianter (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. Enligt kunska…"
+monitor_inn: "paroxetine"
+predicted_indications: ["Ohdo syndrome and variants"]
 ---
 
 # Paroxetine

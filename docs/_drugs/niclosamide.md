@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Niclosamide: predikterad ny indikation Hjärtsjukdom (evidensnivå L5). Ursprunglig indikation: Ej angiven i godkännandedata (avmaskningsmedel enligt litteraturen)"
+monitor_inn: "niclosamide"
+predicted_indications: ["heart disease", "Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "orofacial clefting syndrome", "pulmonary valve disease", "interventricular septum aneurysm", "Jeune syndrome situs inversus", "disorder of fucoglycosan synthesis"]
 ---
 
 # Niclosamide

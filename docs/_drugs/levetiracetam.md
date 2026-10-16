@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Levetiracetam: predikterad ny indikation Visuell epilepsi (evidensnivå L5). Ursprunglig indikation: Partiell epilepsi (enligt kunskapsgrafen"
+monitor_inn: "LEVETIRACETAM"
+predicted_indications: ["visual epilepsy", "audiogenic seizures", "eating seizures", "micturation-induced seizures", "startle epilepsy", "thinking seizures", "orgasm-induced seizures", "reading seizures", "status epilepticus", "beta-ketothiolase deficiency"]
 ---
 
 # Levetiracetam

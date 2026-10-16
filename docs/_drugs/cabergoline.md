@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Cabergoline: predikterad ny indikation Hypofyscancer (pituitary cancer) (evidensnivå L5). Ursprunglig indikation: Hyperprolaktinemi och prolaktinproducerande hypofystumör (enligt TxGN…"
+monitor_inn: "cabergoline"
+predicted_indications: ["pituitary adenocarcinoma (disease)", "progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
 ---
 
 # Cabergoline

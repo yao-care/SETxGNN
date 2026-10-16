@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Phentermine: predikterad ny indikation Proximalt 16p11.2-mikrodeletionssyndrom (rang 2 (evidensnivå L5). Ursprunglig indikation: Fetma…"
+monitor_inn: "phentermine"
+predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
 ---
 
 # Phentermine

@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Estriol: predikterad ny indikation Amenorré (evidensnivå L3). Ursprunglig indikation: Ej angiven i de godkännandedata som sammanställts för rapporten"
+monitor_inn: "ESTRIOL"
+predicted_indications: ["amenorrhea (disease)"]
 ---
 
 # Estriol

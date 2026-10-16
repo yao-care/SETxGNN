@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Amorolfine: predikterad ny indikation Läkemedelsorsakad osteoporos (evidensnivå L5). Ursprunglig indikation: Svampinfektion i naglar (onykomykos)…"
+monitor_inn: "amorolfine"
+predicted_indications: ["drug-induced osteoporosis", "disease of retroperitoneum", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal ectopic pregnancy", "celiac trunk compression syndrome", "abdominal cystic lymphangioma", "sacrum chordoma", "lymph node palisaded myofibroblastoma", "urethral disease"]
 ---
 
 # Amorolfine

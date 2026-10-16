@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Betaxolol: predikterad ny indikation Primärt ärftligt glaukom (evidensnivå L5). Ursprunglig indikation: Högt blodtryck…"
+monitor_inn: "betaxolol"
+predicted_indications: ["primary hereditary glaucoma"]
 ---
 
 # Betaxolol

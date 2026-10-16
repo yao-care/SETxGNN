@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Sucralfate: predikterad ny indikation Duodenogastrisk reflux (evidensnivå L2). Ursprunglig indikation: Duodenalsår (enligt kunskapsgrafen"
+monitor_inn: "sucralfate"
+predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
 ---
 
 # Sucralfate

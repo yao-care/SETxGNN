@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Tryptophan: predikterad ny indikation Restless legs-syndrom (evidensnivå L3). Ursprunglig indikation: Ingen indikationstext registrerad i godkännandena"
+monitor_inn: "tryptophan"
+predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
 ---
 
 # Tryptophan

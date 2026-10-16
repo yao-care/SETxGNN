@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Zanamivir: predikterad ny indikation Pyelonefrit (evidensnivå L5). Ursprunglig indikation: Influensa"
+monitor_inn: "ZANAMIVIR"
+predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
 ---
 
 # Zanamivir

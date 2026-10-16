@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Valine: predikterad ny indikation Skleroserande kolangit (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext tillgänglig i de sammanställda data"
+monitor_inn: "valine"
+predicted_indications: ["sclerosing cholangitis", "angle-closure glaucoma", "hyperthyroidism", "aqueous misdirection", "traumatic glaucoma", "neovascular glaucoma", "glaucomatous atrophy of optic disc", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "obsolete bundle branch block", "hyperthyroxinemia"]
 ---
 
 # Valine

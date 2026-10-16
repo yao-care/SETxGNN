@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Miglustat: predikterad ny indikation Tay-Sachs sjukdom (GM2-gangliosidos) (evidensnivå L2). Ursprunglig indikation: Gauchers sjukdom, Niemann-Picks sjukdom (enligt kunskapsgrafen"
+monitor_inn: "MIGLUSTAT"
+predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
 ---
 
 # Miglustat

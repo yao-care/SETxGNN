@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Micafungin: predikterad ny indikation Urinvägsinfektion (urinary tract infection) (evidensnivå L5). Ursprunglig indikation: Esofagal candidiasis, candidemi…"
+monitor_inn: "micafungin"
+predicted_indications: ["urinary tract infection (disease)"]
 ---
 
 # Micafungin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Isoleucine: predikterad ny indikation Gastropares (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i godkännandedata (används som aminosyr…"
+monitor_inn: "isoleucine"
+predicted_indications: ["gastroparesis (disease)"]
 ---
 
 # Isoleucine

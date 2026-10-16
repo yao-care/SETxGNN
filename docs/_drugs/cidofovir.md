@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Cidofovir: predikterad ny indikation Skleroserande kolangit (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga data"
+monitor_inn: "cidofovir"
+predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
 ---
 
 # Cidofovir

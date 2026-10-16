@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Glimepiride: predikterad ny indikation Klassiskt stiff person-syndrom (evidensnivå L5). Ursprunglig indikation: Typ 2-diabetes mellitus (enligt kunskapsgrafen"
+monitor_inn: "glimepiride"
+predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 ---
 
 # Glimepiride

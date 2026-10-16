@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Itraconazole: predikterad ny indikation Pneumocystos (evidensnivå L4). Ursprunglig indikation: Ingen godkänd indikationstext finns i de svenska godkännandena. Enlig…"
+monitor_inn: "itraconazole"
+predicted_indications: ["pneumocystosis"]
 ---
 
 # Itraconazole

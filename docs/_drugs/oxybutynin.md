@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Oxybutynin: predikterad ny indikation Restless legs syndrome (evidensnivå L5). Ursprunglig indikation: Överaktiv blåsa, neurogen blåsfunktionsstörning…"
+monitor_inn: "oxybutynin"
+predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
 ---
 
 # Oxybutynin

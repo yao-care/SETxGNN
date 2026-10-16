@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Zonisamide: predikterad ny indikation Tourettes syndrom (evidensnivå L5). Ursprunglig indikation: Ej angiven i godkännandet (indikationstexten är tom)"
+monitor_inn: "zonisamide"
+predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "absence epilepsy", "fibromyalgia", "conjunctivitis"]
 ---
 
 # Zonisamide

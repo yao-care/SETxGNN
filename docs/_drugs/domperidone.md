@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Domperidone: predikterad ny indikation Nefrogent syndrom med olämplig antidures (NSIAD) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i det svenska godkännandet (enligt Drug…"
+monitor_inn: "domperidone"
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
 ---
 
 # Domperidone

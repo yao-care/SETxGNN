@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Chloramphenicol: predikterad ny indikation Konjunktivit (evidensnivå L4). Ursprunglig indikation: Ingen indikationstext finns registrerad i de svenska godkännandena. E…"
+monitor_inn: "chloramphenicol"
+predicted_indications: ["conjunctivitis", "diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
 ---
 
 # Chloramphenicol

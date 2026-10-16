@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Chlorprothixene: predikterad ny indikation Retinal dystrofi med eller utan extraokulära avvikelser (evidensnivå L5). Ursprunglig indikation: Schizofreni (enligt kunskapsgrafen"
+monitor_inn: "chlorprothixene"
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "myopia X-linked", "syndromic myopia", "manic bipolar affective disorder"]
 ---
 
 # Chlorprothixene

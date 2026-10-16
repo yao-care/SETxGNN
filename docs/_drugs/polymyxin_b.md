@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Polymyxin B: predikterad ny indikation Bronkit (evidensnivå L5). Ursprunglig indikation: Ej angiven (indikationstext saknas för samtliga godkännanden)"
+monitor_inn: "polymyxin b"
+predicted_indications: ["bronchitis", "laryngotracheitis", "conjunctivitis"]
 ---
 
 # Polymyxin B

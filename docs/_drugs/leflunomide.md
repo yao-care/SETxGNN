@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Leflunomide: predikterad ny indikation Brakydaktyli-syndaktyli-syndrom (evidensnivå L5). Ursprunglig indikation: Reumatoid artrit och psoriasisartrit (enligt TxGNN-kunskapsgrafen"
+monitor_inn: "leflunomide"
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 ---
 
 # Leflunomide

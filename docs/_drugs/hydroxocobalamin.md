@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Hydroxocobalamin: predikterad ny indikation Esofagusvaricer utan blödning (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext registrerad i svenska godkännandedata.…"
+monitor_inn: "hydroxocobalamin"
+predicted_indications: ["esophageal varices without bleeding", "esophageal varices with bleeding"]
 ---
 
 # Hydroxocobalamin

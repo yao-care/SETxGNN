@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Thiamine: predikterad ny indikation Hypertyreos (evidensnivå L3). Ursprunglig indikation: Ingen indikationstext finns registrerad i godkännandedata"
+monitor_inn: "thiamine"
+predicted_indications: ["hyperthyroidism", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "primary hereditary glaucoma", "open-angle glaucoma"]
 ---
 
 # Thiamine

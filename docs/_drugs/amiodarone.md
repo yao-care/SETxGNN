@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Amiodarone: predikterad ny indikation Katekolaminerg polymorf ventrikulär takykardi (CPVT) (evidensnivå L5). Ursprunglig indikation: Ventrikelflimmer (hämtad från kunskapsgrafen…"
+monitor_inn: "amiodarone"
+predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
 ---
 
 # Amiodarone

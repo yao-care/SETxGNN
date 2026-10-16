@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Trifarotene: predikterad ny indikation Förhöjt zink i plasma (evidensnivå L5). Ursprunglig indikation: Akne (enligt TxGNN-kunskapsgrafen"
+monitor_inn: "trifarotene"
+predicted_indications: ["zinc, elevated plasma", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome"]
 ---
 
 # Trifarotene

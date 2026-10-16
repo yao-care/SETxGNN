@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Abacavir: predikterad ny indikation Infektion med simian immunbristvirus (SIV) (evidensnivå L5). Ursprunglig indikation: HIV-infektion, AIDS (enligt kunskapsgrafen"
+monitor_inn: "abacavir"
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Abacavir

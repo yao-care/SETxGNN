@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Glucagon: predikterad ny indikation Irritabel tarm (IBS) (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga data"
+monitor_inn: "glucagon"
+predicted_indications: ["irritable bowel syndrome"]
 ---
 
 # Glucagon

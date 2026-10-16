@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Posaconazole: predikterad ny indikation Pneumocystos (evidensnivå L4). Ursprunglig indikation: Ingen godkänd indikationstext registrerad. Enligt kunskapsgrafen: bl.…"
+monitor_inn: "posaconazole"
+predicted_indications: ["pneumocystosis"]
 ---
 
 # Posaconazole

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Xylitol: predikterad ny indikation Meningokockinfektion (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad (produkten är en lösning för kardio…"
+monitor_inn: "XYLITOL"
+predicted_indications: ["meningococcal infection"]
 ---
 
 # Xylitol

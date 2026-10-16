@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Raloxifene: predikterad ny indikation Duodenalsår (duodenal ulcer) (evidensnivå L5). Ursprunglig indikation: Postmenopausal osteoporos (enligt TxGNN-kunskapsgrafen"
+monitor_inn: "raloxifene"
+predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux"]
 ---
 
 # Raloxifene

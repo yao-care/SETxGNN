@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Efavirenz: predikterad ny indikation Felin förvärvad immunbristsyndrom (evidensnivå L5). Ursprunglig indikation: Hiv-infektion, aids (enligt kunskapsgrafen"
+monitor_inn: "EFAVIRENZ"
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Efavirenz

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pirfenidone: predikterad ny indikation Fibroblastneoplasm (evidensnivå L5). Ursprunglig indikation: Idiopatisk lungfibros (godkänd indikationstext saknas i svenska godkä…"
+monitor_inn: "pirfenidone"
+predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protuberans", "aggressive systemic mastocytosis", "heart fibrosarcoma", "conventional fibrosarcoma", "autosomal recessive familial Mediterranean fever", "kidney fibrosarcoma", "hepatic infarction", "fibroblastic neoplasm", "low grade fibromyxoid sarcoma"]
 ---
 
 # Pirfenidone

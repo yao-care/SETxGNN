@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Orlistat: predikterad ny indikation Hypervitaminos (evidensnivå L5). Ursprunglig indikation: Fetma (obesitas) och monogen fetma"
+monitor_inn: "ORLISTAT"
+predicted_indications: ["hypervitaminosis"]
 ---
 
 # Orlistat

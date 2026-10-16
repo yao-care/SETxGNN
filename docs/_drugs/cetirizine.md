@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Cetirizine: predikterad ny indikation Allergisk urtikaria (evidensnivå L2). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad i licensdata. Kunskap…"
+monitor_inn: "cetirizine"
+predicted_indications: ["allergic urticaria", "cold urticaria", "nasal cavity disease", "acute laryngopharyngitis", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
 ---
 
 # Cetirizine

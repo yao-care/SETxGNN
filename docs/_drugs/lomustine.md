@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lomustine: predikterad ny indikation Lymfosarkom (evidensnivå L5). Ursprunglig indikation: Hodgkins lymfom och hjärntumörer (enligt kunskapsgrafen"
+monitor_inn: "lomustine"
+predicted_indications: ["lymphosarcoma", "malignant tumor of meninges", "spinal cord cancer", "cerebral neuroblastoma", "pediatric cerebral ependymoblastoma", "pediatric infratentorial ependymoblastoma", "childhood brain germinoma", "cerebellopontine angle embryonal tumor", "lymph node cancer", "cerebral sarcoma"]
 ---
 
 # Lomustine

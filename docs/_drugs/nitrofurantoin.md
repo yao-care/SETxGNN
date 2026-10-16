@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Nitrofurantoin: predikterad ny indikation Reumatoid artrit (evidensnivå L5). Ursprunglig indikation: Ej angiven i godkännandedata (urinvägsinfektion enligt allmän kunskap…"
+monitor_inn: "NITROFURANTOIN"
+predicted_indications: ["rheumatoid arthritis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "sclerosing cholangitis", "methemoglobinemia, alpha type", "gout", "methemoglobinemia"]
 ---
 
 # Nitrofurantoin

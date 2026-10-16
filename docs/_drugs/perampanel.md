@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Perampanel: predikterad ny indikation Visuell epilepsi (evidensnivå L5). Ursprunglig indikation: Partiell epilepsi (enligt kunskapsgrafen"
+monitor_inn: "perampanel"
+predicted_indications: ["visual epilepsy", "startle epilepsy", "thinking seizures", "audiogenic seizures", "micturation-induced seizures", "orgasm-induced seizures", "eating seizures", "reading seizures", "beta-ketothiolase deficiency", "status epilepticus"]
 ---
 
 # Perampanel

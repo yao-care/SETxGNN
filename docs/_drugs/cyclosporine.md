@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Cyclosporine: predikterad ny indikation Kronisk granulomatös sjukdom, autosomalt recessiv (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad. Enligt kunskapsgra…"
+monitor_inn: "cyclosporine"
+predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
 ---
 
 # Cyclosporine

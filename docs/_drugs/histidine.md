@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Histidine: predikterad ny indikation Gastropares (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext registrerad"
+monitor_inn: "histidine"
+predicted_indications: ["gastroparesis (disease)", "sclerosing cholangitis"]
 ---
 
 # Histidine

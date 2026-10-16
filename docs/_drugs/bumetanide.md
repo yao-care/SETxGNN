@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Bumetanide: predikterad ny indikation Akut pulmonell hjärtsjukdom (evidensnivå L4). Ursprunglig indikation: Kongestiv hjärtsvikt (enligt TxGNN-kunskapsgrafen"
+monitor_inn: "bumetanide"
+predicted_indications: ["acute pulmonary heart disease"]
 ---
 
 # Bumetanide

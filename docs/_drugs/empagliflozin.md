@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Empagliflozin: predikterad ny indikation Fokalt stelbensyndrom (focal stiff limb syndrome) (evidensnivå L5). Ursprunglig indikation: Typ 2-diabetes mellitus (enligt TxGNN-kunskapsgrafen"
+monitor_inn: "EMPAGLIFLOZIN"
+predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
 ---
 
 # Empagliflozin

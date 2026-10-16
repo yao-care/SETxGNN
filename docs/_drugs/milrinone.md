@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Milrinone: predikterad ny indikation Alopeci (håravfall) (evidensnivå L5). Ursprunglig indikation: Ej angiven i svenska godkännandedata. Farmakologidata anger hjärtsvik…"
+monitor_inn: "milrinone"
+predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "headache disorder", "congestive heart failure", "migraine disorder", "migraine with brainstem aura", "trigeminal autonomic cephalalgia", "acute pulmonary heart disease"]
 ---
 
 # Milrinone

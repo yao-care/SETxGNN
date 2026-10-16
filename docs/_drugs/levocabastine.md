@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Levocabastine: predikterad ny indikation Allergisk urtikaria (evidensnivå L5). Ursprunglig indikation: Atopisk konjunktivit…"
+monitor_inn: "levocabastine"
+predicted_indications: ["allergic urticaria", "rosacea conjunctivitis"]
 ---
 
 # Levocabastine

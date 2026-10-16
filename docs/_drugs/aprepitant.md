@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Aprepitant: predikterad ny indikation Nefrogent syndrom med inadekvat antidures (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i godkännandedata"
+monitor_inn: "APREPITANT"
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "hypertrichosis (disease)", "pulmonary hypertension", "leprosy", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "kyphoscoliotic heart disease", "syndrome with a Dandy-Walker malformation as major feature", "subarachnoid hemorrhage (disease)", "isolated genetic hair shaft abnormality"]
 ---
 
 # Aprepitant

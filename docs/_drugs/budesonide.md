@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Budesonide: predikterad ny indikation Atopiskt eksem (evidensnivå L5). Ursprunglig indikation: Crohns sjukdom, inflammatorisk tarmsjukdom…"
+monitor_inn: "budesonide"
+predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
 ---
 
 # Budesonide

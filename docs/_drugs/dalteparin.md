@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Dalteparin: predikterad ny indikation Trombofili orsakad av protein C-brist, autosomalt recessiv (evidensnivå L5). Ursprunglig indikation: Lungemboli, DIC, purpura fulminans (enligt kunskapsgrafen"
+monitor_inn: "dalteparin"
+predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets", "pseudo-von Willebrand disease", "atypical hemolytic-uremic syndrome with thrombomodulin anomaly", "neuropathy, painful"]
 ---
 
 # Dalteparin
