@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-16",
-  "total_count": 485,
+  "total_count": 451,
   "source": "SETxGNN",
   "drugs": [
     {
@@ -264,26 +264,6 @@
       "url": "/drugs/amylmetacresol/"
     },
     {
-      "slug": "anastrozol",
-      "name": "Anastrozol",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/anastrozol/"
-    },
-    {
-      "slug": "anidulafungin",
-      "name": "Anidulafungin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/anidulafungin/"
-    },
-    {
       "slug": "apixaban",
       "name": "Apixaban",
       "evidence_level": "L4",
@@ -304,16 +284,6 @@
       "url": "/drugs/apraclonidine/"
     },
     {
-      "slug": "apremilast",
-      "name": "Apremilast",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/apremilast/"
-    },
-    {
       "slug": "aprepitant",
       "name": "Aprepitant",
       "evidence_level": "L5",
@@ -332,26 +302,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/arginine/"
-    },
-    {
-      "slug": "aripiprazol",
-      "name": "Aripiprazol",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/aripiprazol/"
-    },
-    {
-      "slug": "artemeter",
-      "name": "Artemeter",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/artemeter/"
     },
     {
       "slug": "articaine",
@@ -584,16 +534,6 @@
       "url": "/drugs/biperiden/"
     },
     {
-      "slug": "bivalirudin",
-      "name": "Bivalirudin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/bivalirudin/"
-    },
-    {
       "slug": "bleomycin",
       "name": "Bleomycin",
       "evidence_level": "L5",
@@ -602,16 +542,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/bleomycin/"
-    },
-    {
-      "slug": "bortezomib",
-      "name": "Bortezomib",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/bortezomib/"
     },
     {
       "slug": "bosentan",
@@ -834,16 +764,6 @@
       "url": "/drugs/carvedilol/"
     },
     {
-      "slug": "cefadroxil",
-      "name": "Cefadroxil",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/cefadroxil/"
-    },
-    {
       "slug": "cefazolin",
       "name": "Cefazolin",
       "evidence_level": "L4",
@@ -994,16 +914,6 @@
       "url": "/drugs/cilastatin/"
     },
     {
-      "slug": "cilostazol",
-      "name": "Cilostazol",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/cilostazol/"
-    },
-    {
       "slug": "cinchocaine",
       "name": "Cinchocaine",
       "evidence_level": "L5",
@@ -1032,16 +942,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/cisatracurium/"
-    },
-    {
-      "slug": "cisplatin",
-      "name": "Cisplatin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/cisplatin/"
     },
     {
       "slug": "citalopram",
@@ -1232,16 +1132,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/danaparoid/"
-    },
-    {
-      "slug": "dapagliflozin",
-      "name": "Dapagliflozin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/dapagliflozin/"
     },
     {
       "slug": "dapoxetine",
@@ -1462,16 +1352,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/dipyridamole/"
-    },
-    {
-      "slug": "disulfiram",
-      "name": "Disulfiram",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "substance abuse/dependence",
-      "txgnn_score": "",
-      "url": "/drugs/disulfiram/"
     },
     {
       "slug": "dobutamine",
@@ -2134,16 +2014,6 @@
       "url": "/drugs/fulvestrant/"
     },
     {
-      "slug": "gabapentin",
-      "name": "Gabapentin",
-      "evidence_level": "L5",
-      "indication_count": 2,
-      "original_indication": "",
-      "predicted_indication": "postherpetic neuralgia",
-      "txgnn_score": "",
-      "url": "/drugs/gabapentin/"
-    },
-    {
       "slug": "gadodiamide",
       "name": "Gadodiamide",
       "evidence_level": "L5",
@@ -2564,16 +2434,6 @@
       "url": "/drugs/landiolol/"
     },
     {
-      "slug": "lansoprazol",
-      "name": "Lansoprazol",
-      "evidence_level": "L5",
-      "indication_count": 9,
-      "original_indication": "",
-      "predicted_indication": "peptic esophagitis",
-      "txgnn_score": "",
-      "url": "/drugs/lansoprazol/"
-    },
-    {
       "slug": "latanoprost",
       "name": "Latanoprost",
       "evidence_level": "L5",
@@ -2622,16 +2482,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/lenvatinib/"
-    },
-    {
-      "slug": "letrozol",
-      "name": "Letrozol",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "TFDA",
-      "txgnn_score": "",
-      "url": "/drugs/letrozol/"
     },
     {
       "slug": "levetiracetam",
@@ -2684,16 +2534,6 @@
       "url": "/drugs/levonorgestrel/"
     },
     {
-      "slug": "levosimendan",
-      "name": "Levosimendan",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/levosimendan/"
-    },
-    {
       "slug": "levothyroxine",
       "name": "Levothyroxine",
       "evidence_level": "L3",
@@ -2712,26 +2552,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/lidocaine/"
-    },
-    {
-      "slug": "linagliptin",
-      "name": "Linagliptin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/linagliptin/"
-    },
-    {
-      "slug": "linezolid",
-      "name": "Linezolid",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/linezolid/"
     },
     {
       "slug": "liothyronine",
@@ -2824,16 +2644,6 @@
       "url": "/drugs/lynestrenol/"
     },
     {
-      "slug": "macitentan",
-      "name": "Macitentan",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/macitentan/"
-    },
-    {
       "slug": "mannitol",
       "name": "Mannitol",
       "evidence_level": "L5",
@@ -2842,26 +2652,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/mannitol/"
-    },
-    {
-      "slug": "mebendazol",
-      "name": "Mebendazol",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/mebendazol/"
-    },
-    {
-      "slug": "melatonin",
-      "name": "Melatonin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/melatonin/"
     },
     {
       "slug": "meloxicam",
@@ -3004,16 +2794,6 @@
       "url": "/drugs/metolazone/"
     },
     {
-      "slug": "metronidazol",
-      "name": "Metronidazol",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/metronidazol/"
-    },
-    {
       "slug": "metyrapone",
       "name": "Metyrapone",
       "evidence_level": "L5",
@@ -3102,16 +2882,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/minoxidil/"
-    },
-    {
-      "slug": "mirabegron",
-      "name": "Mirabegron",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/mirabegron/"
     },
     {
       "slug": "mirtazapine",
@@ -3414,16 +3184,6 @@
       "url": "/drugs/olsalazine/"
     },
     {
-      "slug": "omeprazol",
-      "name": "Omeprazol",
-      "evidence_level": "L5",
-      "indication_count": 9,
-      "original_indication": "",
-      "predicted_indication": "peptic esophagitis",
-      "txgnn_score": "",
-      "url": "/drugs/omeprazol/"
-    },
-    {
       "slug": "orlistat",
       "name": "Orlistat",
       "evidence_level": "L5",
@@ -3484,16 +3244,6 @@
       "url": "/drugs/oxymetazoline/"
     },
     {
-      "slug": "oxytocin",
-      "name": "Oxytocin",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "pregnancy disorder with abortive outcome",
-      "txgnn_score": "",
-      "url": "/drugs/oxytocin/"
-    },
-    {
       "slug": "paclitaxel",
       "name": "Paclitaxel",
       "evidence_level": "L5",
@@ -3532,16 +3282,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/pantoprazole/"
-    },
-    {
-      "slug": "paracetamol",
-      "name": "Paracetamol",
-      "evidence_level": "L5",
-      "indication_count": 7,
-      "original_indication": "",
-      "predicted_indication": "vasomotor rhinitis",
-      "txgnn_score": "",
-      "url": "/drugs/paracetamol/"
     },
     {
       "slug": "parecoxib",
@@ -3934,16 +3674,6 @@
       "url": "/drugs/ramipril/"
     },
     {
-      "slug": "riboflavin",
-      "name": "Riboflavin",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "vitamin deficiency disorder",
-      "txgnn_score": "",
-      "url": "/drugs/riboflavin/"
-    },
-    {
       "slug": "rifabutin",
       "name": "Rifabutin",
       "evidence_level": "L5",
@@ -4114,16 +3844,6 @@
       "url": "/drugs/selegiline/"
     },
     {
-      "slug": "selexipag",
-      "name": "Selexipag",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "pulmonary arterial hypertension",
-      "txgnn_score": "",
-      "url": "/drugs/selexipag/"
-    },
-    {
       "slug": "serine",
       "name": "Serine",
       "evidence_level": "L5",
@@ -4164,16 +3884,6 @@
       "url": "/drugs/simvastatin/"
     },
     {
-      "slug": "sitagliptin",
-      "name": "Sitagliptin",
-      "evidence_level": "L5",
-      "indication_count": 2,
-      "original_indication": "",
-      "predicted_indication": "type 2 diabetes mellitus",
-      "txgnn_score": "",
-      "url": "/drugs/sitagliptin/"
-    },
-    {
       "slug": "sorbitol",
       "name": "Sorbitol",
       "evidence_level": "L5",
@@ -4204,16 +3914,6 @@
       "url": "/drugs/spironolactone/"
     },
     {
-      "slug": "stiripentol",
-      "name": "Stiripentol",
-      "evidence_level": "L5",
-      "indication_count": 3,
-      "original_indication": "",
-      "predicted_indication": "developmental and epileptic encephalopathy",
-      "txgnn_score": "",
-      "url": "/drugs/stiripentol/"
-    },
-    {
       "slug": "streptozocin",
       "name": "Streptozocin",
       "evidence_level": "L5",
@@ -4242,16 +3942,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/sulbactam/"
-    },
-    {
-      "slug": "sulfametoxazol",
-      "name": "Sulfametoxazol",
-      "evidence_level": "L5",
-      "indication_count": 9,
-      "original_indication": "",
-      "predicted_indication": "hirudiniasis",
-      "txgnn_score": "",
-      "url": "/drugs/sulfametoxazol/"
     },
     {
       "slug": "sulfasalazine",
@@ -4312,16 +4002,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/tadalafil/"
-    },
-    {
-      "slug": "tafluprost",
-      "name": "Tafluprost",
-      "evidence_level": "L5",
-      "indication_count": 2,
-      "original_indication": "",
-      "predicted_indication": "ocular hypertension",
-      "txgnn_score": "",
-      "url": "/drugs/tafluprost/"
     },
     {
       "slug": "tamsulosin",
@@ -4664,16 +4344,6 @@
       "url": "/drugs/tyrosine/"
     },
     {
-      "slug": "urea",
-      "name": "Urea",
-      "evidence_level": "L5",
-      "indication_count": 9,
-      "original_indication": "",
-      "predicted_indication": "atopic eczema",
-      "txgnn_score": "",
-      "url": "/drugs/urea/"
-    },
-    {
       "slug": "urofollitropin",
       "name": "Urofollitropin",
       "evidence_level": "L5",
@@ -4722,16 +4392,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/verapamil/"
-    },
-    {
-      "slug": "vigabatrin",
-      "name": "Vigabatrin",
-      "evidence_level": "L5",
-      "indication_count": 2,
-      "original_indication": "",
-      "predicted_indication": "developmental and epileptic encephalopathy",
-      "txgnn_score": "",
-      "url": "/drugs/vigabatrin/"
     },
     {
       "slug": "vildagliptin",
