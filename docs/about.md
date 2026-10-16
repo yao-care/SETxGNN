@@ -80,7 +80,7 @@ läkemedelsrepositionering som utformats särskilt för kliniker.
 "TxGNN integrerar en kunskapsgraf med 17 080 biomedicinska entiteter och använder grafneurala nätverk
 för att lära sig komplexa samband mellan noder och prediktera läkemedels potentiella effekt mot
 sällsynta sjukdomar."
-<cite>&mdash; Huang et al., Nature Medicine (2023)</cite>
+<cite>&mdash; Huang et al., Nature Medicine (2024)</cite>
 </blockquote>
 
 ---

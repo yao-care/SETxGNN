@@ -48,20 +48,15 @@ evidensen graderas från L1 till L5, och slutligen utfärdas en beslutsrekommend
 
 ---
 
-## Prediktion med dubbla motorer
+## Så tas prediktionerna fram
 
-Två metoder körs parallellt, och en konfidensetikett anger om de överensstämmer:
+TxGNN:s djupinlärningsmodell (DL) poängsätter varje läkemedel–sjukdom-par. Därefter tas indikationer och kontraindikationer bort som redan finns registrerade för läkemedlet i TxGNN:s kunskapsgraf (KG), så läkemedelssidorna visar bara nya predikterade indikationer med en poäng på minst 0,99 (högst 10 per läkemedel).
 
-| Metod | Hastighet | Precision | Beskrivning |
-|--------|-------|-----------|-------------|
-| Kunskapsgraf (KG) | Snabb | Lägre | Inferens över DrugBank-relationer och grafstruktur |
-| Djupinlärning (DL) | Långsam | Högre | TxGNN grafneurala nätverksmodell |
-
-| Konfidens | Källa | Innebörd |
-|------------|--------|---------|
-| very_high | KG + DL | Båda metoderna överensstämmer |
-| high | Endast DL | Högt poängsatt stöd från djupinlärning |
-| medium | Endast KG | Stöd från kunskapsgrafen |
+| Steg | Roll |
+|------|------|
+| Djupinlärning (DL) | TxGNN:s grafbaserade neurala nätverk poängsätter varje läkemedel–sjukdom-par |
+| Kontroll av känd användning (KG) | Tar bort indikationer och kontraindikationer som redan finns i kunskapsgrafen; de räknas inte som nya prediktioner |
+| Insamling av evidens | Söker i ClinicalTrials.gov och PubMed för varje återstående prediktion och tilldelar en evidensnivå (L1–L5) |
 
 ---
 
