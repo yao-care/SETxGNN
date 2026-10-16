@@ -12,7 +12,7 @@ Evidensnivåerna går från L1 (starkare klinisk evidens) till L5 (endast modell
 
 ## Huvudinnehåll
 
-- `/` Prediktioner f\u00f6r L\u00e4kemedelsrepositionering \u2014 Sverige — AI-powered drug repurposing predictions for Sweden. Evidence-based analysis of approved medicines for potential new therapeutic indications.
+- `/` Prediktioner för Läkemedelsrepositionering — Sverige — AI-baserade prediktioner för ny användning av läkemedel i Sverige. Evidensbaserad analys av godkända läkemedel för möjliga nya användningsområden.
 - `/drugs/` Alla läkemedel — Alla valideringsrapporter för läkemedel och statistik över evidensnivåer i SETxGNN.
 - `/evidence-high/` Hög evidens (L1-L2) — Kandidater för läkemedelsrepositionering med L1-L2 i SETxGNN, som stöds av kliniska prövningar eller systematiska översikter.
 - `/evidence-medium/` Måttlig evidens (L3-L4) — Kandidater för läkemedelsrepositionering med L3-L4 i SETxGNN, som stöds av observationell eller preklinisk evidens.

@@ -1,7 +1,7 @@
 {
   "generated": "2026-10-16",
-  "drug_count": 485,
-  "indication_count": 1728,
+  "drug_count": 451,
+  "indication_count": 1676,
   "drugs": [
     {
       "name": "Abacavir",
@@ -803,22 +803,6 @@
       ]
     },
     {
-      "name": "Anastrozol",
-      "slug": "anastrozol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Anidulafungin",
-      "slug": "anidulafungin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Apixaban",
       "slug": "apixaban",
       "brands": [],
@@ -870,14 +854,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Apremilast",
-      "slug": "apremilast",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Aprepitant",
@@ -946,22 +922,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Aripiprazol",
-      "slug": "aripiprazol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Artemeter",
-      "slug": "artemeter",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Articaine",
@@ -1641,14 +1601,6 @@
       ]
     },
     {
-      "name": "Bivalirudin",
-      "slug": "bivalirudin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Bleomycin",
       "slug": "bleomycin",
       "brands": [],
@@ -1666,14 +1618,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Bortezomib",
-      "slug": "bortezomib",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Bosentan",
@@ -2358,14 +2302,6 @@
       ]
     },
     {
-      "name": "Cefadroxil",
-      "slug": "cefadroxil",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Cefazolin",
       "slug": "cefazolin",
       "brands": [],
@@ -2831,14 +2767,6 @@
       ]
     },
     {
-      "name": "Cilostazol",
-      "slug": "cilostazol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Cinchocaine",
       "slug": "cinchocaine",
       "brands": [],
@@ -2954,14 +2882,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Cisplatin",
-      "slug": "cisplatin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Citalopram",
@@ -3603,14 +3523,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Dapagliflozin",
-      "slug": "dapagliflozin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Dapoxetine",
@@ -4290,20 +4202,6 @@
         },
         {
           "name": "Diprasorin | Kapsel med modifierad frisättning, hård | Ej angiven",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "DISULFIRAM",
-      "slug": "disulfiram",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "substance abuse/dependence | TxGNN Knowledge Graph",
           "score": 99.0,
           "level": "L5"
         }
@@ -6519,25 +6417,6 @@
       ]
     },
     {
-      "name": "GABAPENTIN",
-      "slug": "gabapentin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "postherpetic neuralgia | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "restless legs syndrome | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
       "name": "Gadodiamide",
       "slug": "gadodiamide",
       "brands": [],
@@ -7856,60 +7735,6 @@
       ]
     },
     {
-      "name": "LANSOPRAZOL",
-      "slug": "lansoprazol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "peptic esophagitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "duodenal ulcer (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "gastric ulcer (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "gastroesophageal reflux disease | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "hyperinsulinism (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "peptic ulcer disease | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "gastrin secretion abnormality | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Zollinger-Ellison syndrome | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "esophagitis (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
       "name": "Latanoprost",
       "slug": "latanoprost",
       "brands": [],
@@ -8039,35 +7864,6 @@
         },
         {
           "name": "Lenvatinib Teva | Kapsel, hård | Ej angiven",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "Letrozol",
-      "slug": "letrozol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "TFDA | 2026-03-29 | success | 0 | 核准資料查無結果",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "DDI | 2026-03-29 | not_found | 0 | 藥物交互作用無資料",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "DrugBank | 2026-03-29 | success | **1** | 資料未填入 drug 欄位 ⚠️",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "TFDA 仿單 | 2026-03-29 | success | **1** | 資料未填入 safety 欄位 ⚠️",
           "score": 99.0,
           "level": "L5"
         }
@@ -8219,14 +8015,6 @@
       ]
     },
     {
-      "name": "Levosimendan",
-      "slug": "levosimendan",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Levothyroxine",
       "slug": "levothyroxine",
       "brands": [],
@@ -8293,22 +8081,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Linagliptin",
-      "slug": "linagliptin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Linezolid",
-      "slug": "linezolid",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Liothyronine",
@@ -8602,14 +8374,6 @@
       ]
     },
     {
-      "name": "Macitentan",
-      "slug": "macitentan",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Mannitol",
       "slug": "mannitol",
       "brands": [],
@@ -8637,22 +8401,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Mebendazol",
-      "slug": "mebendazol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Melatonin",
-      "slug": "melatonin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Meloxicam",
@@ -9136,14 +8884,6 @@
       ]
     },
     {
-      "name": "Metronidazol",
-      "slug": "metronidazol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Metyrapone",
       "slug": "metyrapone",
       "brands": [],
@@ -9428,14 +9168,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Mirabegron",
-      "slug": "mirabegron",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Mirtazapine",
@@ -10378,60 +10110,6 @@
       ]
     },
     {
-      "name": "OMEPRAZOL",
-      "slug": "omeprazol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "peptic esophagitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "duodenal ulcer (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "gastric ulcer (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "gastroesophageal reflux disease | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "hyperinsulinism (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "peptic ulcer disease | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "gastrin secretion abnormality | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Zollinger-Ellison syndrome | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "esophagitis (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
       "name": "Orlistat",
       "slug": "orlistat",
       "brands": [],
@@ -10626,20 +10304,6 @@
       ]
     },
     {
-      "name": "OXYTOCIN",
-      "slug": "oxytocin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "pregnancy disorder with abortive outcome | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
       "name": "Paclitaxel",
       "slug": "paclitaxel",
       "brands": [],
@@ -10776,50 +10440,6 @@
         {
           "name": "duodenal ulcer (disease)",
           "score": 99.18,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "PARACETAMOL",
-      "slug": "paracetamol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "vasomotor rhinitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "migraine disorder | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "allergic rhinitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "headache disorder | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "common cold | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "migraine with or without aura, susceptibility to | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "nasopharyngitis | TxGNN Knowledge Graph",
-          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -12001,20 +11621,6 @@
       ]
     },
     {
-      "name": "RIBOFLAVIN",
-      "slug": "riboflavin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "vitamin deficiency disorder | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
       "name": "Rifabutin",
       "slug": "rifabutin",
       "brands": [],
@@ -12508,20 +12114,6 @@
       ]
     },
     {
-      "name": "SELEXIPAG",
-      "slug": "selexipag",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "pulmonary arterial hypertension | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
       "name": "Serine",
       "slug": "serine",
       "brands": [],
@@ -12703,25 +12295,6 @@
       ]
     },
     {
-      "name": "SITAGLIPTIN",
-      "slug": "sitagliptin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "type 2 diabetes mellitus | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "diabetes mellitus (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
       "name": "Sorbitol",
       "slug": "sorbitol",
       "brands": [],
@@ -12798,30 +12371,6 @@
         },
         {
           "name": "Spironolakton Orifarm | Tablett | Uppgift saknas (indraget)",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "STIRIPENTOL",
-      "slug": "stiripentol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "developmental and epileptic encephalopathy | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "early myoclonic encephalopathy | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Dravet syndrome | TxGNN Knowledge Graph",
           "score": 99.0,
           "level": "L5"
         }
@@ -12929,60 +12478,6 @@
         },
         {
           "name": "Ampicillin/Sulbactam AptaPharma | Pulver till injektions-/infusionsvätska, lösning | Indikationstext saknas (indraget)",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "SULFAMETOXAZOL",
-      "slug": "sulfametoxazol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "hirudiniasis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "conjunctivitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "myiasis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "cat-scratch disease | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "nocardiosis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "infectious otitis media | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "shigellosis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "pneumocystosis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "toxoplasmosis | TxGNN Knowledge Graph",
           "score": 99.0,
           "level": "L5"
         }
@@ -13197,25 +12692,6 @@
         },
         {
           "name": "Tadalafil Orion | Filmdragerad tablett | Orion Corporation | Indragen",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "TAFLUPROST",
-      "slug": "tafluprost",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "ocular hypertension | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "open-angle glaucoma | TxGNN Knowledge Graph",
           "score": 99.0,
           "level": "L5"
         }
@@ -14318,60 +13794,6 @@
       ]
     },
     {
-      "name": "UREA",
-      "slug": "urea",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "atopic eczema | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "dermatitis, atopic | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "occupational dermatitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "pityriasis simplex | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "contact dermatitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "seborrheic dermatitis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "exanthem (disease) | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "seborrheic keratosis | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "pityriasis versicolor | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
       "name": "Urofollitropin",
       "slug": "urofollitropin",
       "brands": [],
@@ -14581,25 +14003,6 @@
         },
         {
           "name": "Isoptin | Filmdragerad tablett | Ej angiven",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "VIGABATRIN",
-      "slug": "vigabatrin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "developmental and epileptic encephalopathy | TxGNN Knowledge Graph",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "West syndrome | TxGNN Knowledge Graph",
           "score": 99.0,
           "level": "L5"
         }
@@ -18926,17 +18329,6 @@
       ]
     },
     {
-      "name": "DDI | 2026-03-29 | not_found | 0 | 藥物交互作用無資料",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Letrozol",
-          "slug": "letrozol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Dahlberg-Borer-Newcomer syndrome",
       "drug_count": 2,
       "drugs": [
@@ -20083,17 +19475,6 @@
       ]
     },
     {
-      "name": "Dravet syndrome | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "STIRIPENTOL",
-          "slug": "stiripentol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Dridol | Injektionsvätska, lösning | Ej angiven",
       "drug_count": 1,
       "drugs": [
@@ -20138,17 +19519,6 @@
         {
           "drug": "Droperidol",
           "slug": "droperidol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "DrugBank | 2026-03-29 | success | **1** | 資料未填入 drug 欄位 ⚠️",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Letrozol",
-          "slug": "letrozol",
           "score": 99.0
         }
       ]
@@ -30305,28 +29675,6 @@
       ]
     },
     {
-      "name": "TFDA | 2026-03-29 | success | 0 | 核准資料查無結果",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Letrozol",
-          "slug": "letrozol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "TFDA 仿單 | 2026-03-29 | success | **1** | 資料未填入 safety 欄位 ⚠️",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Letrozol",
-          "slug": "letrozol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Tadalafil Devatis | Filmdragerad tablett | Devatis GmbH | Indragen",
       "drug_count": 1,
       "drugs": [
@@ -32304,17 +31652,6 @@
       ]
     },
     {
-      "name": "West syndrome | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "VIGABATRIN",
-          "slug": "vigabatrin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Wildervanck syndrome",
       "drug_count": 1,
       "drugs": [
@@ -32556,22 +31893,6 @@
         {
           "drug": "Simvastatin",
           "slug": "simvastatin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Zollinger-Ellison syndrome | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "LANSOPRAZOL",
-          "slug": "lansoprazol",
-          "score": 99.0
-        },
-        {
-          "drug": "OMEPRAZOL",
-          "slug": "omeprazol",
           "score": 99.0
         }
       ]
@@ -32834,17 +32155,6 @@
       ]
     },
     {
-      "name": "allergic rhinitis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "PARACETAMOL",
-          "slug": "paracetamol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "alopecia",
       "drug_count": 4,
       "drugs": [
@@ -32900,17 +32210,6 @@
           "drug": "Propafenone",
           "slug": "propafenone",
           "score": 99.42
-        }
-      ]
-    },
-    {
-      "name": "atopic eczema | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "UREA",
-          "slug": "urea",
-          "score": 99.0
         }
       ]
     },
@@ -33095,17 +32394,6 @@
       ]
     },
     {
-      "name": "cat-scratch disease | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "SULFAMETOXAZOL",
-          "slug": "sulfametoxazol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "catecholaminergic polymorphic ventricular tachycardia",
       "drug_count": 1,
       "drugs": [
@@ -33270,17 +32558,6 @@
       ]
     },
     {
-      "name": "common cold | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "PARACETAMOL",
-          "slug": "paracetamol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "congenital analbuminemia",
       "drug_count": 1,
       "drugs": [
@@ -33350,28 +32627,6 @@
       ]
     },
     {
-      "name": "conjunctivitis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "SULFAMETOXAZOL",
-          "slug": "sulfametoxazol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "contact dermatitis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "UREA",
-          "slug": "urea",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "craniofacial conodysplasia",
       "drug_count": 2,
       "drugs": [
@@ -33395,44 +32650,6 @@
           "drug": "Pimecrolimus",
           "slug": "pimecrolimus",
           "score": 99.37
-        }
-      ]
-    },
-    {
-      "name": "dermatitis, atopic | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "UREA",
-          "slug": "urea",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "developmental and epileptic encephalopathy | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "STIRIPENTOL",
-          "slug": "stiripentol",
-          "score": 99.0
-        },
-        {
-          "drug": "VIGABATRIN",
-          "slug": "vigabatrin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "diabetes mellitus (disease) | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "SITAGLIPTIN",
-          "slug": "sitagliptin",
-          "score": 99.0
         }
       ]
     },
@@ -33506,22 +32723,6 @@
       ]
     },
     {
-      "name": "duodenal ulcer (disease) | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "LANSOPRAZOL",
-          "slug": "lansoprazol",
-          "score": 99.0
-        },
-        {
-          "drug": "OMEPRAZOL",
-          "slug": "omeprazol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "duodenogastric reflux",
       "drug_count": 1,
       "drugs": [
@@ -33529,17 +32730,6 @@
           "drug": "Pantoprazole",
           "slug": "pantoprazole",
           "score": 99.27
-        }
-      ]
-    },
-    {
-      "name": "early myoclonic encephalopathy | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "STIRIPENTOL",
-          "slug": "stiripentol",
-          "score": 99.0
         }
       ]
     },
@@ -33576,22 +32766,6 @@
       ]
     },
     {
-      "name": "esophagitis (disease) | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "LANSOPRAZOL",
-          "slug": "lansoprazol",
-          "score": 99.0
-        },
-        {
-          "drug": "OMEPRAZOL",
-          "slug": "omeprazol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "exanthem (disease)",
       "drug_count": 1,
       "drugs": [
@@ -33599,17 +32773,6 @@
           "drug": "Pimecrolimus",
           "slug": "pimecrolimus",
           "score": 99.32
-        }
-      ]
-    },
-    {
-      "name": "exanthem (disease) | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "UREA",
-          "slug": "urea",
-          "score": 99.0
         }
       ]
     },
@@ -33745,54 +32908,6 @@
       ]
     },
     {
-      "name": "gastric ulcer (disease) | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "LANSOPRAZOL",
-          "slug": "lansoprazol",
-          "score": 99.0
-        },
-        {
-          "drug": "OMEPRAZOL",
-          "slug": "omeprazol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "gastrin secretion abnormality | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "LANSOPRAZOL",
-          "slug": "lansoprazol",
-          "score": 99.0
-        },
-        {
-          "drug": "OMEPRAZOL",
-          "slug": "omeprazol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "gastroesophageal reflux disease | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "LANSOPRAZOL",
-          "slug": "lansoprazol",
-          "score": 99.0
-        },
-        {
-          "drug": "OMEPRAZOL",
-          "slug": "omeprazol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "gastrojejunal ulcer",
       "drug_count": 1,
       "drugs": [
@@ -33859,17 +32974,6 @@
           "drug": "Dobutamine",
           "slug": "dobutamine",
           "score": 99.31
-        }
-      ]
-    },
-    {
-      "name": "headache disorder | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "PARACETAMOL",
-          "slug": "paracetamol",
-          "score": 99.0
         }
       ]
     },
@@ -33956,17 +33060,6 @@
       ]
     },
     {
-      "name": "hirudiniasis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "SULFAMETOXAZOL",
-          "slug": "sulfametoxazol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "hyperamylasemia",
       "drug_count": 1,
       "drugs": [
@@ -33974,22 +33067,6 @@
           "drug": "Aztreonam",
           "slug": "aztreonam",
           "score": 99.73
-        }
-      ]
-    },
-    {
-      "name": "hyperinsulinism (disease) | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "LANSOPRAZOL",
-          "slug": "lansoprazol",
-          "score": 99.0
-        },
-        {
-          "drug": "OMEPRAZOL",
-          "slug": "omeprazol",
-          "score": 99.0
         }
       ]
     },
@@ -34125,17 +33202,6 @@
           "drug": "Ethambutol",
           "slug": "ethambutol",
           "score": 99.06
-        }
-      ]
-    },
-    {
-      "name": "infectious otitis media | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "SULFAMETOXAZOL",
-          "slug": "sulfametoxazol",
-          "score": 99.0
         }
       ]
     },
@@ -34426,17 +33492,6 @@
       ]
     },
     {
-      "name": "migraine disorder | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "PARACETAMOL",
-          "slug": "paracetamol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "migraine with brainstem aura",
       "drug_count": 3,
       "drugs": [
@@ -34454,17 +33509,6 @@
           "drug": "Tamsulosin",
           "slug": "tamsulosin",
           "score": 99.8
-        }
-      ]
-    },
-    {
-      "name": "migraine with or without aura, susceptibility to | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "PARACETAMOL",
-          "slug": "paracetamol",
-          "score": 99.0
         }
       ]
     },
@@ -34509,17 +33553,6 @@
           "drug": "Amantadine",
           "slug": "amantadine",
           "score": 99.24
-        }
-      ]
-    },
-    {
-      "name": "myiasis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "SULFAMETOXAZOL",
-          "slug": "sulfametoxazol",
-          "score": 99.0
         }
       ]
     },
@@ -34573,17 +33606,6 @@
       ]
     },
     {
-      "name": "nasopharyngitis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "PARACETAMOL",
-          "slug": "paracetamol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "neoplasm of mature B-cells",
       "drug_count": 1,
       "drugs": [
@@ -34628,17 +33650,6 @@
       ]
     },
     {
-      "name": "nocardiosis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "SULFAMETOXAZOL",
-          "slug": "sulfametoxazol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "obsolete neurogenic bladder (disease)",
       "drug_count": 1,
       "drugs": [
@@ -34672,28 +33683,6 @@
       ]
     },
     {
-      "name": "occupational dermatitis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "UREA",
-          "slug": "urea",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "ocular hypertension | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "TAFLUPROST",
-          "slug": "tafluprost",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "open-angle glaucoma",
       "drug_count": 3,
       "drugs": [
@@ -34711,17 +33700,6 @@
           "drug": "Dobutamine",
           "slug": "dobutamine",
           "score": 99.47
-        }
-      ]
-    },
-    {
-      "name": "open-angle glaucoma | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "TAFLUPROST",
-          "slug": "tafluprost",
-          "score": 99.0
         }
       ]
     },
@@ -34818,38 +33796,6 @@
       ]
     },
     {
-      "name": "peptic esophagitis | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "LANSOPRAZOL",
-          "slug": "lansoprazol",
-          "score": 99.0
-        },
-        {
-          "drug": "OMEPRAZOL",
-          "slug": "omeprazol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "peptic ulcer disease | TxGNN Knowledge Graph",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "LANSOPRAZOL",
-          "slug": "lansoprazol",
-          "score": 99.0
-        },
-        {
-          "drug": "OMEPRAZOL",
-          "slug": "omeprazol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "peptic ulcer perforation",
       "drug_count": 1,
       "drugs": [
@@ -34883,28 +33829,6 @@
       ]
     },
     {
-      "name": "pityriasis simplex | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "UREA",
-          "slug": "urea",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "pityriasis versicolor | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "UREA",
-          "slug": "urea",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "platelet-type bleeding disorder",
       "drug_count": 1,
       "drugs": [
@@ -34923,17 +33847,6 @@
           "drug": "Mupirocin",
           "slug": "mupirocin",
           "score": 99.49
-        }
-      ]
-    },
-    {
-      "name": "pneumocystosis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "SULFAMETOXAZOL",
-          "slug": "sulfametoxazol",
-          "score": 99.0
         }
       ]
     },
@@ -34960,17 +33873,6 @@
       ]
     },
     {
-      "name": "postherpetic neuralgia | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "GABAPENTIN",
-          "slug": "gabapentin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "preeclampsia",
       "drug_count": 1,
       "drugs": [
@@ -34989,17 +33891,6 @@
           "drug": "Chlorambucil",
           "slug": "chlorambucil",
           "score": 99.72
-        }
-      ]
-    },
-    {
-      "name": "pregnancy disorder with abortive outcome | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "OXYTOCIN",
-          "slug": "oxytocin",
-          "score": 99.0
         }
       ]
     },
@@ -35149,17 +34040,6 @@
       ]
     },
     {
-      "name": "pulmonary arterial hypertension | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "SELEXIPAG",
-          "slug": "selexipag",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "pulmonary blastoma",
       "drug_count": 3,
       "drugs": [
@@ -35283,17 +34163,6 @@
       ]
     },
     {
-      "name": "restless legs syndrome | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "GABAPENTIN",
-          "slug": "gabapentin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "rhabdomyosarcoma (disease)",
       "drug_count": 2,
       "drugs": [
@@ -35381,28 +34250,6 @@
       ]
     },
     {
-      "name": "seborrheic dermatitis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "UREA",
-          "slug": "urea",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "seborrheic keratosis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "UREA",
-          "slug": "urea",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "serpinopathy with toxic serpin polymerization",
       "drug_count": 2,
       "drugs": [
@@ -35426,17 +34273,6 @@
           "drug": "Cisatracurium",
           "slug": "cisatracurium",
           "score": 99.95
-        }
-      ]
-    },
-    {
-      "name": "shigellosis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "SULFAMETOXAZOL",
-          "slug": "sulfametoxazol",
-          "score": 99.0
         }
       ]
     },
@@ -35549,17 +34385,6 @@
       ]
     },
     {
-      "name": "substance abuse/dependence | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "DISULFIRAM",
-          "slug": "disulfiram",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "symptomatic form of hemophilia in female carriers",
       "drug_count": 1,
       "drugs": [
@@ -35642,17 +34467,6 @@
       ]
     },
     {
-      "name": "toxoplasmosis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "SULFAMETOXAZOL",
-          "slug": "sulfametoxazol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "transaldolase deficiency",
       "drug_count": 1,
       "drugs": [
@@ -35686,17 +34500,6 @@
       ]
     },
     {
-      "name": "type 2 diabetes mellitus | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "SITAGLIPTIN",
-          "slug": "sitagliptin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "upper aerodigestive tract neoplasm",
       "drug_count": 1,
       "drugs": [
@@ -35708,17 +34511,6 @@
       ]
     },
     {
-      "name": "vasomotor rhinitis | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "PARACETAMOL",
-          "slug": "paracetamol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "vitamin D-dependent rickets",
       "drug_count": 1,
       "drugs": [
@@ -35726,17 +34518,6 @@
           "drug": "Ergocalciferol",
           "slug": "ergocalciferol",
           "score": 99.39
-        }
-      ]
-    },
-    {
-      "name": "vitamin deficiency disorder | TxGNN Knowledge Graph",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "RIBOFLAVIN",
-          "slug": "riboflavin",
-          "score": 99.0
         }
       ]
     },
