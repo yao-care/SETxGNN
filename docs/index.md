@@ -2,11 +2,11 @@
 layout: default
 title: "Prediktioner f\u00f6r L\u00e4kemedelsrepositionering \u2014 Sverige"
 nav_order: 1
-description: "AI-powered drug repurposing predictions for Sweden. Evidence-based analysis of approved medicines for potential new therapeutic indications."
+description: "AI-baserade prediktioner för ny användning av läkemedel i Sverige. Evidensbaserad analys av godkända läkemedel för möjliga nya användningsområden."
 permalink: /
 ---
 
-# Drug Repurposing Predictions — Sweden
+# Prediktioner för ny användning av läkemedel — Sverige
 
 This project uses the TxGNN knowledge graph to predict potential new therapeutic uses for medicines approved in Sweden.
 
