@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-15
 description: "Captopril: predikterad ny indikation Malign renovaskulär hypertoni (evidensnivå L4). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. Enligt kunska…"
 monitor_inn: "captopril"
-predicted_indications: ["malignant hypertensive renal disease"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
 ---
 
 # Captopril

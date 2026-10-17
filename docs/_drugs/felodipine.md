@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Felodipine: predikterad ny indikation Pulmonell hypertension med oklar multifaktoriell mekanism (evidensnivå L5). Ursprunglig indikation: Hypertoni (högt blodtryck). Godkännandena i Sverige innehålle…"
 monitor_inn: "felodipine"
-predicted_indications: ["malignant hypertensive renal disease", "chronic pulmonary heart disease", "Prinzmetal angina"]
+predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "chronic pulmonary heart disease", "Prinzmetal angina"]
 ---
 
 # Felodipine

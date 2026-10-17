@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-15
 description: "Labetalol: predikterad ny indikation Malign renovaskulär hypertoni (evidensnivå L5). Ursprunglig indikation: Hypertoni (hypertensive disorder…"
 monitor_inn: "labetalol"
-predicted_indications: ["malignant hypertensive renal disease"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 ---
 
 # Labetalol

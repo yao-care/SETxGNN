@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Bendroflumethiazide: predikterad ny indikation Malign hypertensiv njursjukdom (evidensnivå L5). Ursprunglig indikation: Hypertoni (enligt kunskapsgrafen"
 monitor_inn: "bendroflumethiazide"
-predicted_indications: ["malignant hypertensive renal disease"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
 ---
 
 # Bendroflumethiazide

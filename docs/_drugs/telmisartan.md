@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Telmisartan: predikterad ny indikation Prinzmetal angina (evidensnivå L5). Ursprunglig indikation: Hypertoni och stroke/cerebrovaskulär sjukdom (enligt kunskapsgrafen…"
 monitor_inn: "TELMISARTAN"
-predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "malignant hypertensive renal disease", "intracerebral hemorrhage"]
+predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "intracerebral hemorrhage"]
 ---
 
 # Telmisartan
