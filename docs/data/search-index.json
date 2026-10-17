@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16",
-  "drug_count": 451,
+  "generated": "2026-10-17",
+  "drug_count": 450,
   "indication_count": 1676,
   "drugs": [
     {
@@ -1652,14 +1652,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Bosutinib",
-      "slug": "bosutinib",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Brinzolamide",

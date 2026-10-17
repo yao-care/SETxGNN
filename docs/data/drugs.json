@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16",
-  "total_count": 451,
+  "generated": "2026-10-17",
+  "total_count": 450,
   "source": "SETxGNN",
   "drugs": [
     {
@@ -552,16 +552,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/bosentan/"
-    },
-    {
-      "slug": "bosutinib",
-      "name": "Bosutinib",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/bosutinib/"
     },
     {
       "slug": "brinzolamide",
