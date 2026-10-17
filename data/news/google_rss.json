@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-17T17:42:50.839070+00:00",
+  "fetched_at": "2026-10-17T20:00:09.208628+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "a08e466b6966",
-      "title": "Larmet: Unga tar överdoser – föräldrar vet inget - Dagens PS",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcm9uazZKdnhuclVPdlRrWTJWVDlYdFRCMzR4dV9DbFdkSHU3dE40M1V4NmN6c0RwQldDUXhwX0R2UjV0T1hUMTdDbnhMVEE4azNuYXVYLVViZDFMbTdSS1FLZUR3eW5DbjhCWWhvMUdMc2Y4VFBVNlg5dzR6UHg3Wjh3?oc=5",
-      "published": "2026-10-14T06:07:51+00:00",
-      "source": {
-        "name": "Dagens PS",
-        "url": "https://www.dagensps.se"
-      }
-    },
-    {
       "id": "c3b506e1d675",
       "title": "Kommissionen föreslår en rättsakt om kritiska läkemedel för att öka tillgången på kritiska läkemedel i EU - European Commission",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wd2s2RjhHZV9SMmJNdXI1REV0eVpPdXBOSEpOUk04QmR2V3VrTWU2YThwTkNRVGg4Q3I5a2Rra2o3YWVOZm9iS3N5Z0VGbjNFbHhYMjZwWFhDa2Y5akpfNQ?oc=5",
@@ -81,6 +71,16 @@
       "source": {
         "name": "European Commission",
         "url": "https://ec.europa.eu"
+      }
+    },
+    {
+      "id": "a08e466b6966",
+      "title": "Larmet: Unga tar överdoser – föräldrar vet inget - Dagens PS",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcm9uazZKdnhuclVPdlRrWTJWVDlYdFRCMzR4dV9DbFdkSHU3dE40M1V4NmN6c0RwQldDUXhwX0R2UjV0T1hUMTdDbnhMVEE4azNuYXVYLVViZDFMbTdSS1FLZUR3eW5DbjhCWWhvMUdMc2Y4VFBVNlg5dzR6UHg3Wjh3?oc=5",
+      "published": "2026-10-14T06:07:51+00:00",
+      "source": {
+        "name": "Dagens PS",
+        "url": "https://www.dagensps.se"
       }
     },
     {
@@ -121,6 +121,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "7262a4c0c031",
+      "title": "Undervisning stärker kritiskt tänkande om läkemedel - Svensk Farmaci",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTGxpcWxBLUFIQUYzd0JOY1FsUnBOeF9vcmJvZ29uSmZXRUNJdzdMSkR4bk1tTnAwOTVfT0llXzJYMUptNFhuQUdEcVh2NnhIOGFlVFRWM2xvWTVFRkRRQnZxVHFuanhnZ0xwMW9PUWpVVHh2YUp3RVhqYk1GUHZlQXhPcUNHNklrYWtTRk1tYUxJVDdUS280?oc=5",
+      "published": "2026-09-23T07:00:00+00:00",
+      "source": {
+        "name": "Svensk Farmaci",
+        "url": "https://www.svenskfarmaci.se"
       }
     },
     {
@@ -174,26 +184,6 @@
       }
     },
     {
-      "id": "2338cf9146c4",
-      "title": "”Vi vill se ett breddinförande av AID-system” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZnd2cUEwLThIUDhfMzRHUFRaOEViVkNHZDExZlBSU3FkRHI5ZGRaSV81SkhkUXUwU2ZSdXh0QlVzU3FGWGltUlo5ajNDVy1icmN1M1FnSUlERXpsbGRFcldPLWJILUszWUpZU2FtRjBaTXVzV0FiS0hNMmJraFpkM3dhOVVBenA4Rk5LTDRFUEdQQQ?oc=5",
-      "published": "2026-10-15T18:30:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "7262a4c0c031",
-      "title": "Undervisning stärker kritiskt tänkande om läkemedel - Svensk Farmaci",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTGxpcWxBLUFIQUYzd0JOY1FsUnBOeF9vcmJvZ29uSmZXRUNJdzdMSkR4bk1tTnAwOTVfT0llXzJYMUptNFhuQUdEcVh2NnhIOGFlVFRWM2xvWTVFRkRRQnZxVHFuanhnZ0xwMW9PUWpVVHh2YUp3RVhqYk1GUHZlQXhPcUNHNklrYWtTRk1tYUxJVDdUS280?oc=5",
-      "published": "2026-09-23T07:00:00+00:00",
-      "source": {
-        "name": "Svensk Farmaci",
-        "url": "https://www.svenskfarmaci.se"
-      }
-    },
-    {
       "id": "fe444150694f",
       "title": "\"Samverkan avgörande för apotekens krisberedskap\" - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQlRPR2ZteHc2RExtVUpRa1BSQ2F0MEZTbm9mWEkwVlJ6b0RDZDlRTFZmRVd6aG5YR2R5a3BlZi1PaXBDeVpLc0ZOaDZsU09oX3FLSFl5RGRyNzFQQ3BtT1RpVHJ3czJaOW95WG56cHh0cG1wVTA4NURnOXUtR1oxbllmY2puOFIwQWFsaFVjeDNnUQ?oc=5",
@@ -204,10 +194,20 @@
       }
     },
     {
-      "id": "825f5e3997b6",
-      "title": "Tidigare apotekschefer får legitimationerna indragna - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcS1tX0RnVE9YQjkxODcyZTFaRndTU3BWTXVlSFV3RjVFRXpTLVdVdThiWmNkSG5nRHV1RUlMamc2VzNfS3FjYkpPLTdfYlNuRU45NHItX090WGdnVFViSTNjQ09FSGJsX0hVamgxSUJlN2xmX1BrZG51LUZKZmk5c1gxQUNnc2l3OWY3ZjdheDdZNGNlWlh0TmN1dW90NFYtUVRxYQ?oc=5",
-      "published": "2026-10-12T04:14:00+00:00",
+      "id": "2338cf9146c4",
+      "title": "”Vi vill se ett breddinförande av AID-system” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZnd2cUEwLThIUDhfMzRHUFRaOEViVkNHZDExZlBSU3FkRHI5ZGRaSV81SkhkUXUwU2ZSdXh0QlVzU3FGWGltUlo5ajNDVy1icmN1M1FnSUlERXpsbGRFcldPLWJILUszWUpZU2FtRjBaTXVzV0FiS0hNMmJraFpkM3dhOVVBenA4Rk5LTDRFUEdQQQ?oc=5",
+      "published": "2026-10-15T18:30:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "649a177a87f2",
+      "title": "”Skammen har suttit på en stol i mitt mottagningsrum” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVGQteVAwalhHWU5uek5fem5RQ0VIakNRanNfV00zWG1fVWk5ODhjXzFEX2VPcFlCNlRQbWdrVHM5R3RDVWdLY1Q5WXJYSmM4dF9NblZ2YXdwc0pfdEVLYTUyVVJScHo0NTRDbGVVYW1RUDNTa1ZxUE9ubmhvalduWTVJN2p5akVWakEtNjZxeTdKSGptOG1FakdxMnEzeDRPZEI4?oc=5",
+      "published": "2026-10-15T19:30:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -364,16 +364,6 @@
       }
     },
     {
-      "id": "0a84b2c2e9f8",
-      "title": "Regeringen vill förenhetliga verksamheten för bedömningen av läkemedel och förbättra likabehandlingen - Sosiaali- ja terveysministeriö",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNWRDTXpjZkdHMEZJaUVBSnVfLUFqN0dRaW04cWxvd0JIWHRlZzgwbV9aWkE0eTNvZ2lRRTRmQXdvUy16MVlIWmQ3ZTFqdGhZd0NERVltN2Z2RWVSVE1BcHBYU2pocl9zaFFNQ09QUUVFWndPTmhoZnotaUFaNVNWeDZoNnlSOTVtdXlvV001SmVuZ3dKTFVqbzMxTlcweGNoTVA0WWpKUGdwRC1IeTQyaVdPaWNnTHNqaWYzWE5R?oc=5",
-      "published": "2026-10-08T11:06:00+00:00",
-      "source": {
-        "name": "Sosiaali- ja terveysministeriö",
-        "url": "https://stm.fi"
-      }
-    },
-    {
       "id": "c18b0ee2da8d",
       "title": "Medicintipsen som kan göra dig sjuk - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNmRfNHNJVUVJcEsySG1LRmpsNWZpb3NOVUVMZUNXbGh3N1dyQkVPNGRnS2toUWxteWJXRDh2XzZXV3NabGVsUTNVNVNxd2YyWFVpeVZFejFPenMzMlZRY1Q4dXUtZnZDaFhwd3dUNjdfY18zNm16eVRmTHlsQ21jd2M4Z0tSUXd2RVBURA?oc=5",
@@ -381,6 +371,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "0a84b2c2e9f8",
+      "title": "Regeringen vill förenhetliga verksamheten för bedömningen av läkemedel och förbättra likabehandlingen - Sosiaali- ja terveysministeriö",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNWRDTXpjZkdHMEZJaUVBSnVfLUFqN0dRaW04cWxvd0JIWHRlZzgwbV9aWkE0eTNvZ2lRRTRmQXdvUy16MVlIWmQ3ZTFqdGhZd0NERVltN2Z2RWVSVE1BcHBYU2pocl9zaFFNQ09QUUVFWndPTmhoZnotaUFaNVNWeDZoNnlSOTVtdXlvV001SmVuZ3dKTFVqbzMxTlcweGNoTVA0WWpKUGdwRC1IeTQyaVdPaWNnTHNqaWYzWE5R?oc=5",
+      "published": "2026-10-08T11:06:00+00:00",
+      "source": {
+        "name": "Sosiaali- ja terveysministeriö",
+        "url": "https://stm.fi"
       }
     },
     {
@@ -434,13 +434,13 @@
       }
     },
     {
-      "id": "b839bf00c97e",
-      "title": "”När politiska budskap påverkar hälsa och tillgång till läkemedel” - Svensk Farmaci",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW9FaGZQZmRZbUp2WDFsX3dkRFQ1Q1R0UHlhTGlIREc4LUpDT05Od1h2SUhieFh3aWUxUnFjTXYwNGZBWFJkdENQTTVmbWZTR0tkSEZ4eUZZUlBaa24yVFdvd1dMS2dmZVJLMjlLOWNfUmprNGJvZDVTaGpYZEVETXFPcnhVR3A3LXNVWGlZeDE5dDFMTEdpWHliUHkwSUJuTzhxS1prN2I?oc=5",
-      "published": "2026-02-05T08:00:00+00:00",
+      "id": "f08ccd5b221a",
+      "title": "\"När nya behandlingar dröjer förlorar Sverige mer än hälsa\" - Lif – de forskande läkemedelsföretagen",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNE9QcXEtQVRvYThFMlR6MDFzTmNFRmxVUW5ac2J6eHdGaGJwSk9ZNm92VU8ybUNvMFI5ZkpIc0JtODNhR1lDNjJTdURsSFdpRkhqYlAtVDFTSFctNHpPUkxMb09YY0FmcWNUQ2ZzNFN5S19YZTR0Uy1ERkkzS1lhMDlfLUs2RVRUZVJ6TkFlNnVLdzJLZ25F?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
       "source": {
-        "name": "Svensk Farmaci",
-        "url": "https://www.svenskfarmaci.se"
+        "name": "Lif – de forskande läkemedelsföretagen",
+        "url": "https://www.lif.se"
       }
     },
     {
@@ -451,6 +451,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "b839bf00c97e",
+      "title": "”När politiska budskap påverkar hälsa och tillgång till läkemedel” - Svensk Farmaci",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW9FaGZQZmRZbUp2WDFsX3dkRFQ1Q1R0UHlhTGlIREc4LUpDT05Od1h2SUhieFh3aWUxUnFjTXYwNGZBWFJkdENQTTVmbWZTR0tkSEZ4eUZZUlBaa24yVFdvd1dMS2dmZVJLMjlLOWNfUmprNGJvZDVTaGpYZEVETXFPcnhVR3A3LXNVWGlZeDE5dDFMTEdpWHliUHkwSUJuTzhxS1prN2I?oc=5",
+      "published": "2026-02-05T08:00:00+00:00",
+      "source": {
+        "name": "Svensk Farmaci",
+        "url": "https://www.svenskfarmaci.se"
       }
     },
     {
@@ -484,16 +494,6 @@
       }
     },
     {
-      "id": "6414b195b921",
-      "title": "Antidepressiva kan minska BPSD - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORklvREhtQXh4MU04WVRDbUZrYXVDcWxlQjlPSEVTT3Yxd2hWNkt5c1pUcEl4TEkwZmVJMS11XzE3bmhZNnQyaUgycGtJUnpEb1VlSkVTREhRbkFvaTdZMk9Sako1V2xMbnRlaXFuQk9NUDNyOTBMMjN5X3FUOWREWURNR3RZd3gxNWxINXVib3Fmdw?oc=5",
-      "published": "2026-09-02T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "dc8f01c60661",
       "title": "Läkaren: Så kan risken för stroke minskas – vid blodförtunnande - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2VPZDE2bXRyME41VHAzQUd5RGN1NXRvRklXQWxZdGtiQmtHRFFTX09ydENvRmNXZG5zTzFLXzNOaVF2Mi1oUFZybHc1d2NxWURCeXRoek1QMHdPR01VYkxSSTZnZ0tGU1hXS3Q0S21meWVNbmlxU0F2a0YtUjlTTVdqTGVzZE1qUkVVaFVwWFNLQUF0YU9LdWNzX0UzYVBFSzdKTQ?oc=5",
@@ -504,13 +504,13 @@
       }
     },
     {
-      "id": "f08ccd5b221a",
-      "title": "\"När nya behandlingar dröjer förlorar Sverige mer än hälsa\" - Lif – de forskande läkemedelsföretagen",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNE9QcXEtQVRvYThFMlR6MDFzTmNFRmxVUW5ac2J6eHdGaGJwSk9ZNm92VU8ybUNvMFI5ZkpIc0JtODNhR1lDNjJTdURsSFdpRkhqYlAtVDFTSFctNHpPUkxMb09YY0FmcWNUQ2ZzNFN5S19YZTR0Uy1ERkkzS1lhMDlfLUs2RVRUZVJ6TkFlNnVLdzJLZ25F?oc=5",
-      "published": "2026-07-08T07:00:00+00:00",
+      "id": "6414b195b921",
+      "title": "Antidepressiva kan minska BPSD - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORklvREhtQXh4MU04WVRDbUZrYXVDcWxlQjlPSEVTT3Yxd2hWNkt5c1pUcEl4TEkwZmVJMS11XzE3bmhZNnQyaUgycGtJUnpEb1VlSkVTREhRbkFvaTdZMk9Sako1V2xMbnRlaXFuQk9NUDNyOTBMMjN5X3FUOWREWURNR3RZd3gxNWxINXVib3Fmdw?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
       "source": {
-        "name": "Lif – de forskande läkemedelsföretagen",
-        "url": "https://www.lif.se"
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -614,16 +614,6 @@
       }
     },
     {
-      "id": "2de17d799f3e",
-      "title": "Nya läkemedelsregler i EU – det här betyder de för dig - Metro Mode",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUVctOEhIemwteGdCTFJWaEN3Yy04d3pocjVINVV1TkM4TjRKa3pHa2NOT3VGQTdsR0VsS1VIUFF6dE9ldHBiR1JsREZHQzdweEVjc2ctcUZDQVdwX0tkV3h2YmYzMmducXZJYV9rcWNEWFRraUQ5bnVlTVowWTRoWkNKX0FIVk0?oc=5",
-      "published": "2026-10-04T15:02:37+00:00",
-      "source": {
-        "name": "Metro Mode",
-        "url": "https://metromode.se"
-      }
-    },
-    {
       "id": "92331e836812",
       "title": "Hälso- och sjukvård viktigaste frågan – kan avgöra valet 2026 - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYXl0ZlBDV0wzOVRNdER0T3lFMEtCX0lKOEgxN2wycHFTTU1IeFg5X1ltRmRfblUwaTFCcmF3QlVIak9EYWtfbmxvMnZVZGhfVjFCY1dDSklLbmRiMUNLRmRLcEMwVk4xYS1DOWpQLXBzekhtQUgwbEc3cl9NY3liM29vR2VnZUtiTXdSM1JuZldtel9NLVdSaFJtSERsSjkt?oc=5",
@@ -644,16 +634,6 @@
       }
     },
     {
-      "id": "c4e98ceae663",
-      "title": "Nya hoppet för alzheimersjuka – läkemedel kan snart finnas i Sverige - News55",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGtXNDBNYklLZzc1Und0SnROVV9qTXVQbThCa01EM08tVGtTZE1tRU9DUGtFWGVhTkZLa1c0SW1EZ3YtcTZRNFFhTlNlRHFNal9WOXoxdE13OFhDc0dSNG43QTNLS3Q1WmZYWGNrTEo0a1VEOHNsTVdCYV9mU0JkRk5Gc0JQeXJaZEVSeEN5OW1HdGRnTllkazJzQQ?oc=5",
-      "published": "2026-09-22T07:00:00+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
-      }
-    },
-    {
       "id": "1f5a23dff353",
       "title": "Diabetesläkemedlet Ozempic kopplas till bättre psykisk hälsa | Karolinska Institutet - Via TT",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX2VTa1h6U2IwQjhLRDgteHFNQXV4M2dOdEJWb3pSencwMHFXRjY3Uy1uR2c4WHZEWDJFcWtoQjVFTTc3WXpoTkVXLTBCeVZVc1pHODBGajhDRzhLMVkyZDA5WThUNHJqYWdpdFlZeVdSdXZpMFplRHJBUndIaVE4Ul9fZmkxNlpfa244OEZybW9VdFNob2phTUk1Tmt0cWJlWXNRZ1FZQlJyQm1nSXBtTlJjUlFkS1dCWTM0Y1ZVSVlEellKUG9ETlh3?oc=5",
@@ -661,6 +641,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "c4e98ceae663",
+      "title": "Nya hoppet för alzheimersjuka – läkemedel kan snart finnas i Sverige - News55",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGtXNDBNYklLZzc1Und0SnROVV9qTXVQbThCa01EM08tVGtTZE1tRU9DUGtFWGVhTkZLa1c0SW1EZ3YtcTZRNFFhTlNlRHFNal9WOXoxdE13OFhDc0dSNG43QTNLS3Q1WmZYWGNrTEo0a1VEOHNsTVdCYV9mU0JkRk5Gc0JQeXJaZEVSeEN5OW1HdGRnTllkazJzQQ?oc=5",
+      "published": "2026-09-22T07:00:00+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -694,16 +684,6 @@
       }
     },
     {
-      "id": "4b99ee1a4836",
-      "title": "Den enda representanten från läkemedels- och hälsovårdssektorn som inkluderats i Forbes Vietnams Top 50 ESG 2026, och utsetts till \"Outstanding Asian Enterprise\" två år i rad. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVFhfR3BLdExha0VOcVFGWTNvZ1V1d2JZUjluRjZ1LWhDM1MyVmMtUmROX2ZfQnRkVndrMl9qbnRBSUt5SGF0VHJYQUZTdEQ3UGMzUVlsb0pEQjZkcnFhNzhtSjNETHphVW5aZ0tZeDhfYzdqT2FVMmhidFlSRGdzdTBIeFdQOHZrbUp0T0h4RVlWRHBBbURaTFRMLU1tZEFIaXlESnBxWWUyUjZOREZBWDJWODZkSXBXU2F5X0RDaG5qeTctN0c2OTlsZUc4ekN2cHlvNzZDWWZyeTh4bE9UVnRzM0ZiY182dkdtbFpJLW0?oc=5",
-      "published": "2026-10-15T07:00:00+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "9c550ad51c5a",
       "title": "Vårdförbundet välkomnar KD-förslag om inkomstbaserat högkostnadsskydd - Via TT",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWXl4VUlhNGtyMExveDJtWnE0V2o4aUtmLXJkdkgxOFRNeVB3RWd3c2FvczRJS1B2WjVPRlhzSzhGamxaLXhWWk9Td01YYnZ6R0p3NnljeEE3OEpid0gzMHlmSHYzOGRvRExHOFRLaG9XZWxRVmlraGhscHIwVm82aEpTcXlsZnNvWWlTUUpuQXFIZl8yTUVlRG9EeW8wangzMTh5SDBjQU5xbVBWZGZ1TGtkUmVycHN1eXdUZi1hU0lmNzVnbE9nZThTbE43YXNlZHk5N013?oc=5",
@@ -711,6 +691,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "4b99ee1a4836",
+      "title": "Den enda representanten från läkemedels- och hälsovårdssektorn som inkluderats i Forbes Vietnams Top 50 ESG 2026, och utsetts till \"Outstanding Asian Enterprise\" två år i rad. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVFhfR3BLdExha0VOcVFGWTNvZ1V1d2JZUjluRjZ1LWhDM1MyVmMtUmROX2ZfQnRkVndrMl9qbnRBSUt5SGF0VHJYQUZTdEQ3UGMzUVlsb0pEQjZkcnFhNzhtSjNETHphVW5aZ0tZeDhfYzdqT2FVMmhidFlSRGdzdTBIeFdQOHZrbUp0T0h4RVlWRHBBbURaTFRMLU1tZEFIaXlESnBxWWUyUjZOREZBWDJWODZkSXBXU2F5X0RDaG5qeTctN0c2OTlsZUc4ekN2cHlvNzZDWWZyeTh4bE9UVnRzM0ZiY182dkdtbFpJLW0?oc=5",
+      "published": "2026-10-15T07:00:00+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -731,6 +721,16 @@
       "source": {
         "name": "Forskning.se",
         "url": "https://forskning.se"
+      }
+    },
+    {
+      "id": "2de17d799f3e",
+      "title": "Nya läkemedelsregler i EU – det här betyder de för dig - Metro Mode",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUVctOEhIemwteGdCTFJWaEN3Yy04d3pocjVINVV1TkM4TjRKa3pHa2NOT3VGQTdsR0VsS1VIUFF6dE9ldHBiR1JsREZHQzdweEVjc2ctcUZDQVdwX0tkV3h2YmYzMmducXZJYV9rcWNEWFRraUQ5bnVlTVowWTRoWkNKX0FIVk0?oc=5",
+      "published": "2026-10-04T15:02:37+00:00",
+      "source": {
+        "name": "Metro Mode",
+        "url": "https://metromode.se"
       }
     },
     {
@@ -884,16 +884,6 @@
       }
     },
     {
-      "id": "7e6543845f39",
-      "title": "Vad vill Sverige? - Lif – de forskande läkemedelsföretagen",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWE5T3VPSjdPeUc3TnpQVWdRdV9DdGppSjdEajhyakZIcDc4SDFkVDlYcTItd25rdFJ3WFRDQWFtbU5vSklGS0VKYXpkSW1SZE4yWU9oMkRaYV92YWp4QWpzcGVQdHdZQlNuTlJDdENNclBrU3BQUmZCVWJ6blhqaGxSakxXbmJobks3Zg?oc=5",
-      "published": "2026-01-19T09:22:55+00:00",
-      "source": {
-        "name": "Lif – de forskande läkemedelsföretagen",
-        "url": "https://www.lif.se"
-      }
-    },
-    {
       "id": "3111d42060c1",
       "title": "Lif kräver regeringsåtgärder för att kontra USA:s prispress på läkemedel - Altinget.se",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOXQtSy01ZnU0TlpYM0tNd3oybGlCMDZQZDBXenpsUVFPdXU3NGxVeC0telBOSTVjMUpGUW8xSWgyV0hld01nanJUekV5cUlUS0V2c1VDSVcwVzd3N05aZW1zMnh6cFJMdGozelNkVUt1eE16NzIzQlpQbHExa244UFNvbk1DX0ZpMjEyYk52dURaQVE5bDJFelliVzVmdG1EazJMTG1DOVE?oc=5",
@@ -901,6 +891,16 @@
       "source": {
         "name": "Altinget.se",
         "url": "https://www.altinget.se"
+      }
+    },
+    {
+      "id": "7e6543845f39",
+      "title": "Vad vill Sverige? - Lif – de forskande läkemedelsföretagen",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWE5T3VPSjdPeUc3TnpQVWdRdV9DdGppSjdEajhyakZIcDc4SDFkVDlYcTItd25rdFJ3WFRDQWFtbU5vSklGS0VKYXpkSW1SZE4yWU9oMkRaYV92YWp4QWpzcGVQdHdZQlNuTlJDdENNclBrU3BQUmZCVWJ6blhqaGxSakxXbmJobks3Zg?oc=5",
+      "published": "2026-01-19T09:22:55+00:00",
+      "source": {
+        "name": "Lif – de forskande läkemedelsföretagen",
+        "url": "https://www.lif.se"
       }
     },
     {
