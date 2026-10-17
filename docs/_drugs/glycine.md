@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Glycine: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns i svenska godkännanden. Enligt ku…"
+monitor_inn: "glycine"
+predicted_indications: ["acute laryngopharyngitis"]
 ---
 
 # Glycine
@@ -25,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

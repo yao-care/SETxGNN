@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Salbutamol: predikterad ny indikation Papillär konjunktivit (evidensnivå L5). Ursprunglig indikation: Astma och bronkiell sjukdom (enligt TxGNN:s kunskapsgraf"
 monitor_inn: "salbutamol"
-predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture", "obstructive lung disease"]
+predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
 ---
 
 # Salbutamol
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

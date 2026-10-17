@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Nystatin: predikterad ny indikation Vulvovaginit (evidensnivå L3). Ursprunglig indikation: Kutan candidiasis, oral candidiasis, candidiasis…"
 monitor_inn: "NYSTATIN"
-predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
+predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
 ---
 
 # Nystatin
@@ -27,7 +27,7 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

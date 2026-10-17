@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Methionine: predikterad ny indikation Akne (evidensnivå L5). Ursprunglig indikation: Ej angiven i godkännandedata (produkterna är infusionslösningar och e…"
 monitor_inn: "methionine"
-predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "tetanic cataract", "immature cataract", "diabetic cataract"]
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "tetanic cataract", "immature cataract", "diabetic cataract"]
 ---
 
 # Methionine
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Vancomycin: predikterad ny indikation Diffus skleroderma (evidensnivå L5). Ursprunglig indikation: Clostridium difficile-kolit (bland flera…"
 monitor_inn: "vancomycin"
-predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
+predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "typhoid fever", "blood group incompatibility", "premalignant hematological system disease"]
 ---
 
 # Vancomycin
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

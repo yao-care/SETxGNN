@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Isoprenaline: predikterad ny indikation Näshålesjukdom (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. I kunskapsgra…"
 monitor_inn: "isoprenaline"
-predicted_indications: ["nasal cavity disease", "headache disorder", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "bronchial disease", "endobronchial leiomyoma", "allergic urticaria", "endobronchial lipoma", "bronchus adenoma"]
+predicted_indications: ["nasal cavity disease", "headache disorder", "pharyngitis", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "bronchial disease", "endobronchial leiomyoma", "allergic urticaria", "endobronchial lipoma", "bronchus adenoma"]
 ---
 
 # Isoprenaline
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Brinzolamide: predikterad ny indikation Primärt ärftligt glaukom (evidensnivå L5). Ursprunglig indikation: Öppenvinkelglaukom, okulär hypertension (enligt kunskapsgrafen"
-monitor_inn: "brinzolamide"
-predicted_indications: ["primary hereditary glaucoma"]
 ---
 
 # Brinzolamide
@@ -27,7 +25,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

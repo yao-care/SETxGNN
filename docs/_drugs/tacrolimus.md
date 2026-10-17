@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Tacrolimus: predikterad ny indikation Seborroisk dermatit (evidensnivå L5). Ursprunglig indikation: Atopiskt eksem (atopisk dermatit). Godkända indikationstexter saknas…"
 monitor_inn: "tacrolimus"
-predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
+predicted_indications: ["parapsoriasis"]
 ---
 
 # Tacrolimus
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

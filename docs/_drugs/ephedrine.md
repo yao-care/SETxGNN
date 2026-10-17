@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Ephedrine: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L4). Ursprunglig indikation: Allergisk rinit, vasomotorisk rinit, bronkit, faryngit, förkylning"
 monitor_inn: "ephedrine"
-predicted_indications: ["trigeminal autonomic cephalalgia"]
+predicted_indications: ["acute laryngopharyngitis", "trigeminal autonomic cephalalgia"]
 ---
 
 # Ephedrine
@@ -27,7 +27,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **3** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

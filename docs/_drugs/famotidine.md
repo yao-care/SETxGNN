@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Famotidine: predikterad ny indikation Peptisk sårsjukdom (evidensnivå L5). Ursprunglig indikation: Magsår, duodenalsår, GERD, esofagit, dyspepsi…"
 monitor_inn: "famotidine"
-predicted_indications: ["duodenal obstruction", "active peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
+predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
 ---
 
 # Famotidine
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

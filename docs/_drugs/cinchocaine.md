@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Cinchocaine: predikterad ny indikation Bronkit (evidensnivå L5). Ursprunglig indikation: Dermatit (enligt TxGNN:s kunskapsgraf"
 monitor_inn: "cinchocaine"
-predicted_indications: ["bronchitis", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis"]
+predicted_indications: ["bronchitis", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis"]
 ---
 
 # Cinchocaine
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

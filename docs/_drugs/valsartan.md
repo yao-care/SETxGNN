@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

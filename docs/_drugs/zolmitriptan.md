@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Zolmitriptan: predikterad ny indikation Migrän med hjärnstamsaura (evidensnivå L4). Ursprunglig indikation: Migrän"
 monitor_inn: "ZOLMITRIPTAN"
-predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
+predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Zolmitriptan
@@ -27,7 +27,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **3** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

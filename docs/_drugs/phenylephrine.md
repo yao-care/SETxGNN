@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Phenylephrine: predikterad ny indikation Sjukdomar i näshålan (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i godkännandedata. Enligt kunskapsgrafen:…"
 monitor_inn: "phenylephrine"
-predicted_indications: ["trigeminal autonomic cephalalgia"]
+predicted_indications: ["acute laryngopharyngitis", "trigeminal autonomic cephalalgia"]
 ---
 
 # Phenylephrine
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-15
 description: "Bupivacaine: predikterad ny indikation Akrodermatit chronica atrophicans (evidensnivå L5). Ursprunglig indikation: Dermatit (enligt kunskapsgrafen"
 monitor_inn: "bupivacaine"
-predicted_indications: ["neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
+predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
 ---
 
 # Bupivacaine
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

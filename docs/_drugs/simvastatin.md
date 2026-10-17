@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-10-15
 description: "Simvastatin: predikterad ny indikation Familjär hyperkolesterolemi (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i godkännandena. Enligt kunsk…"
 monitor_inn: "SIMVASTATIN"
-predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia, autosomal dominant", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Simvastatin
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

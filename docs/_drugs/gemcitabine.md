@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Gemcitabine: predikterad ny indikation Bröstcancer hos kvinnor (female breast carcinoma) (evidensnivå L5). Ursprunglig indikation: Äggstockscancer (enligt kunskapsgrafen"
 monitor_inn: "gemcitabine"
-predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "endometrial mixed adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
+predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "endometrial mixed adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
 ---
 
 # Gemcitabine
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

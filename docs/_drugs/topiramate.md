@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-15
 description: "Topiramate: predikterad ny indikation Trigeminusnervtumör (evidensnivå L5). Ursprunglig indikation: Epilepsi med generaliserade tonisk-kloniska anfall, partiell epilepsi…"
 monitor_inn: "topiramate"
-predicted_indications: ["trigeminal nerve neoplasm", "visual epilepsy", "thinking seizures", "startle epilepsy", "eating seizures", "micturation-induced seizures", "audiogenic seizures", "orgasm-induced seizures", "reading seizures"]
+predicted_indications: ["trigeminal nerve neoplasm"]
 ---
 
 # Topiramate
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

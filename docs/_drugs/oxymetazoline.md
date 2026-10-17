@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Oxymetazoline: predikterad ny indikation Sjukdomar i näshålan (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Faryngit och vanlig förkylning"
 monitor_inn: "oxymetazoline"
-predicted_indications: ["nasal cavity disease", "headache disorder"]
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "headache disorder"]
 ---
 
 # Oxymetazoline
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

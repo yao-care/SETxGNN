@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-15
 description: "Epinastine: predikterad ny indikation Rosacea-konjunktivit (evidensnivå L5). Ursprunglig indikation: Atopisk konjunktivit, papillär konjunktivit…"
 monitor_inn: "epinastine"
-predicted_indications: ["rosacea conjunctivitis", "allergic urticaria"]
+predicted_indications: ["allergic urticaria"]
 ---
 
 # Epinastine
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

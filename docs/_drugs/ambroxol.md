@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Ambroxol: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Faryngit (enligt TxGNN-kunskapsgrafen"
 monitor_inn: "ambroxol"
-predicted_indications: ["nasal cavity disease", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
 ---
 
 # Ambroxol
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

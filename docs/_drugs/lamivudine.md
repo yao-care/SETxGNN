@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Lamivudine: predikterad ny indikation Simian immunbristvirusinfektion (evidensnivå L5). Ursprunglig indikation: Kronisk hepatit B-virusinfektion…"
 monitor_inn: "lamivudine"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
 ---
 
 # Lamivudine
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

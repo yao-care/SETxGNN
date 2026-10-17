@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-15
 description: "Xylometazoline: predikterad ny indikation Sjukdomar i näshålan (nasal cavity disease) (evidensnivå L3). Ursprunglig indikation: Faryngit och förkylning (enligt kunskapsgrafen"
 monitor_inn: "xylometazoline"
-predicted_indications: ["nasal cavity disease"]
+predicted_indications: ["acute laryngopharyngitis"]
 ---
 
 # Xylometazoline
@@ -27,7 +27,7 @@ Evidensnivå: **L3** | Förutsagda indikationer: **2** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

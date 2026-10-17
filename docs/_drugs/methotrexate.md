@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Methotrexate: predikterad ny indikation Pulmonellt blastom (evidensnivå L5). Ursprunglig indikation: Akut lymfatisk leukemi, reumatoid artrit, psoriasis…"
 monitor_inn: "methotrexate"
-predicted_indications: ["pulmonary blastoma", "small cell lung carcinoma", "well-differentiated fetal adenocarcinoma of the lung", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+predicted_indications: ["pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 ---
 
 # Methotrexate
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

@@ -7,8 +7,6 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Sumatriptan: predikterad ny indikation Migrän med hjärnstamsaura (evidensnivå L4). Ursprunglig indikation: Migrän (inkl. migrän med eller utan aura), klusterhuvudvärk…"
-monitor_inn: "SUMATRIPTAN"
-predicted_indications: ["migraine with brainstem aura"]
 ---
 
 # Sumatriptan
@@ -27,7 +25,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

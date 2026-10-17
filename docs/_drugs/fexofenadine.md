@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Fexofenadine: predikterad ny indikation Rosaceakonjunktivit (evidensnivå L5). Ursprunglig indikation: Allergisk rinit, vasomotorisk rinit, atopisk…"
-monitor_inn: "fexofenadine"
-predicted_indications: ["rosacea conjunctivitis"]
 ---
 
 # Fexofenadine
@@ -27,7 +25,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

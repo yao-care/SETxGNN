@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Capecitabine: predikterad ny indikation Gastrisk tubulär adenokarcinom (evidensnivå L1). Ursprunglig indikation: Metastaserad koloncancer och magcancer (enligt kunskapsgrafen"
-monitor_inn: "capecitabine"
-predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach", "gastric tubular adenocarcinoma", "signet ring cell gastric adenocarcinoma", "gastric cardia adenocarcinoma"]
 ---
 
 # Capecitabine
@@ -27,7 +25,7 @@ Evidensnivå: **L1** | Förutsagda indikationer: **10** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

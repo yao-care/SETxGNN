@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-15
 description: "Lamotrigine: predikterad ny indikation Tumör i trigeminusnerven (trigeminal nerve neoplasm) (evidensnivå L5). Ursprunglig indikation: Epilepsi (indikationstexten saknas i godkännandena…"
 monitor_inn: "lamotrigine"
-predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "orgasm-induced seizures", "micturation-induced seizures", "eating seizures", "audiogenic seizures", "thinking seizures", "reading seizures"]
+predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 ---
 
 # Lamotrigine
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

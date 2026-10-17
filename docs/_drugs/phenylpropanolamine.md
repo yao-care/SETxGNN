@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Phenylpropanolamine: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad i godkännandet. Enligt kunskapsgra…"
 monitor_inn: "phenylpropanolamine"
-predicted_indications: ["rosacea conjunctivitis", "faucial diphtheria", "cervical disc degenerative disorder"]
+predicted_indications: ["acute laryngopharyngitis", "faucial diphtheria", "cervical disc degenerative disorder"]
 ---
 
 # Phenylpropanolamine
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 

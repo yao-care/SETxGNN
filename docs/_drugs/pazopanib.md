@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pazopanib: predikterad ny indikation Njurcellscancer med Xp11.2-translokation/TFE3-genfusion (evidensnivå L5). Ursprunglig indikation: Njurcellscancer och mjukdelssarkom (enligt kunskapsgrafen). Inge…"
 monitor_inn: "pazopanib"
-predicted_indications: ["fibroblastic neoplasm"]
+predicted_indications: ["ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
 ---
 
 # Pazopanib
@@ -27,7 +27,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Apotekarens bedömningsrapport
 
