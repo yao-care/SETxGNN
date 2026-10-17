@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Paclitaxel: predikterad ny indikation Kvinnlig bröstcancer (female breast carcinoma) (evidensnivå L5). Ursprunglig indikation: Äggstockscancer (enligt kunskapsgrafen"
 monitor_inn: "paclitaxel"
-predicted_indications: ["female breast carcinoma", "estrogen-receptor negative breast cancer", "Ehrlich tumor carcinoma", "hormone-resistant breast carcinoma", "estrogen-receptor positive breast cancer", "bilateral breast carcinoma", "breast carcinoma by gene expression profile", "nipple carcinoma", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 ---
 
 # Paclitaxel

@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Cholecalciferol: predikterad ny indikation Familjär isolerad hypoparatyreoidism orsakad av nedsatt PTH-sekretion (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns i de sve…"
 monitor_inn: "cholecalciferol"
-predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "hypophosphatemic rickets", "renal osteodystrophy", "renal tubular acidosis"]
+predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "renal tubular acidosis"]
 ---
 
 # Cholecalciferol

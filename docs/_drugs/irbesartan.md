@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-15
 description: "Irbesartan: predikterad ny indikation Malign hypertensiv njursjukdom (evidensnivå L5). Ursprunglig indikation: Hypertoni, högt blodtryck och diabetesnefropati"
 monitor_inn: "IRBESARTAN"
-predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
+predicted_indications: ["malignant hypertensive renal disease"]
 ---
 
 # Irbesartan

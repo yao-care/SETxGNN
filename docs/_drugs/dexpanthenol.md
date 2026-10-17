@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Dexpanthenol: predikterad ny indikation Exantem (evidensnivå L4). Ursprunglig indikation: Ingen godkänd indikationstext finns i svenska godkännanden. Enligt ku…"
 monitor_inn: "dexpanthenol"
-predicted_indications: ["anorectal stricture", "imperforate anus", "anal polyp", "vulvar inverted follicular keratosis", "proctitis", "exanthem (disease)", "punctate epithelial keratoconjunctivitis"]
+predicted_indications: ["anorectal stricture", "imperforate anus", "anal polyp", "vulvar inverted follicular keratosis", "proctitis", "punctate epithelial keratoconjunctivitis"]
 ---
 
 # Dexpanthenol

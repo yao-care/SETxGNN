@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Hydroxyzine: predikterad ny indikation Allergisk urtikaria (rang 1) (evidensnivå L5). Ursprunglig indikation: Atopiskt eksem, allergisk rinit, konjunktivit…"
 monitor_inn: "hydroxyzine"
-predicted_indications: ["allergic urticaria", "rosacea conjunctivitis", "cold urticaria", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
+predicted_indications: ["rosacea conjunctivitis"]
 ---
 
 # Hydroxyzine

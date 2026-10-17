@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Etofenamate: predikterad ny indikation Spondylartropati, predisposition för (spondyloarthropathy… (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i svenska godkännan…"
 monitor_inn: "etofenamate"
-predicted_indications: ["spondyloarthropathy, susceptibility to", "ankylosing spondylitis", "rheumatoid vasculitis", "hypermobility of coccyx", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "pseudoachondroplasia", "myosclerosis", "polyarticular juvenile rheumatoid arthritis", "Kummell disease"]
+predicted_indications: ["ankylosing spondylitis", "rheumatoid vasculitis", "hypermobility of coccyx", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "pseudoachondroplasia", "myosclerosis", "polyarticular juvenile rheumatoid arthritis", "Kummell disease"]
 ---
 
 # Etofenamate

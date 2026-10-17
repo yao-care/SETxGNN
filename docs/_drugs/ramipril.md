@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ramipril: predikterad ny indikation Pulmonell hypertension orsakad av lungsjukdom och/eller hypoxi (evidensnivå L5). Ursprunglig indikation: Hypertoni…"
 monitor_inn: "RAMIPRIL"
-predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant renovascular hypertension", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
+predicted_indications: ["malignant hypertensive renal disease", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis"]
 ---
 
 # Ramipril

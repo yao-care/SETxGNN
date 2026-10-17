@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-15
 description: "Bosentan: predikterad ny indikation Reumatoid artrit (evidensnivå L5). Ursprunglig indikation: Pulmonell hypertension, pulmonell arteriell hypertension, sklerodermi…"
 monitor_inn: "bosentan"
-predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "limited systemic sclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
+predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
 ---
 
 # Bosentan

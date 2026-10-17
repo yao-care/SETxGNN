@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-15
 description: "Atenolol: predikterad ny indikation Posterolateral hjärtinfarkt (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i de svenska godkännandena. E…"
 monitor_inn: "ATENOLOL"
-predicted_indications: ["posterolateral myocardial infarction", "posteroinferior myocardial infarction", "malignant renovascular hypertension", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "septal myocardial infarction", "Braddock syndrome", "chronic pulmonary heart disease"]
+predicted_indications: ["malignant hypertensive renal disease", "chronic pulmonary heart disease"]
 ---
 
 # Atenolol

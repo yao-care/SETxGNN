@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-10-15
 description: "Mitoxantrone: predikterad ny indikation Neoplasm i övre luft- och matsmältningsvägarna (evidensnivå L3). Ursprunglig indikation: Akut myeloisk leukemi"
 monitor_inn: "mitoxantrone"
-predicted_indications: ["upper aerodigestive tract neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "head and neck cancer", "bladder exstrophy-epispadias-cloacal exstrophy complex"]
+predicted_indications: ["upper aerodigestive tract neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "head and neck cancer", "bladder exstrophy-epispadias-cloacal exstrophy complex"]
 ---
 
 # Mitoxantrone

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Melphalan: predikterad ny indikation Groddcellstumör i könskörtel (gonadal germ cell tumor) (evidensnivå L2). Ursprunglig indikation: Äggstockscancer (godkänd indikationstext saknas i de svenska godk…"
 monitor_inn: "melphalan"
-predicted_indications: ["gonadal germ cell tumor", "ovarian primitive germ cell tumor", "choriocarcinoma of ovary", "female breast carcinoma", "malignant non-epithelial tumor of ovary", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
+predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
 ---
 
 # Melphalan

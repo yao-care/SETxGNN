@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-15
 description: "Risperidone: predikterad ny indikation Familjär horisontell blickpares med progressiv skolios (evidensnivå L5). Ursprunglig indikation: Schizofreni och bipolär sjukdom (även autismrelaterade tillstån…"
 monitor_inn: "risperidone"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
 ---
 
 # Risperidone

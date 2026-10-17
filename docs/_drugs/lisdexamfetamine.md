@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lisdexamfetamine: predikterad ny indikation Specifik utvecklingsrubbning (evidensnivå L4). Ursprunglig indikation: ADHD (enligt kunskapsgrafen"
 monitor_inn: "lisdexamfetamine"
-predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "autosomal dominant cerebellar ataxia", "cerebellar ataxia", "spinocerebellar degeneration with slow eye movements", "trichotillomania", "transient tic disorder", "narcolepsy", "narcolepsy, susceptibility to"]
+predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "autosomal dominant cerebellar ataxia", "cerebellar ataxia", "spinocerebellar degeneration with slow eye movements", "trichotillomania", "transient tic disorder", "narcolepsy", "narcolepsy, susceptibility to"]
 ---
 
 # Lisdexamfetamine

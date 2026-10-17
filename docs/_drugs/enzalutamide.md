@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Enzalutamide: predikterad ny indikation Prostate cancer/brain cancer susceptibility (genetisk känslighet för… (evidensnivå L5). Ursprunglig indikation: Prostatacancer (godkännandetexterna i det samma…"
 monitor_inn: "enzalutamide"
-predicted_indications: ["prostate cancer/brain cancer susceptibility", "prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "male reproductive organ cancer", "benign prostate phyllodes tumor"]
+predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
 ---
 
 # Enzalutamide

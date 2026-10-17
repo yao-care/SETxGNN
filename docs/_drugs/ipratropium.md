@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ipratropium: predikterad ny indikation Obstruktiv lungsjukdom (evidensnivå L5). Ursprunglig indikation: Kronisk obstruktiv lungsjukdom (KOL) (enligt kunskapsgrafen"
 monitor_inn: "ipratropium"
-predicted_indications: ["obstructive lung disease", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "respiratory malformation", "papillary conjunctivitis", "Rienhoff syndrome", "tracheal disease", "anaphylaxis", "food-dependent exercise-induced anaphylaxis"]
+predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "respiratory malformation", "papillary conjunctivitis", "Rienhoff syndrome", "anaphylaxis", "food-dependent exercise-induced anaphylaxis"]
 ---
 
 # Ipratropium

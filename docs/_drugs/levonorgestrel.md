@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-15
 description: "Levonorgestrel: predikterad ny indikation Akne (evidensnivå L5). Ursprunglig indikation: Postmenopausal osteoporos, osteoporos (enligt kunskapsgrafen"
 monitor_inn: "LEVONORGESTREL"
-predicted_indications: ["acne (disease)", "Worth syndrome", "pregnancy associated osteoporosis", "autosomal dominant neovascular inflammatory vitreoretinopathy", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 ---
 
 # Levonorgestrel

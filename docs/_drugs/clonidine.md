@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Clonidine: predikterad ny indikation Faciodigitogenitalt syndrom (evidensnivå L5). Ursprunglig indikation: Högt blodtryck (hypertoni). Källa: kunskapsgrafen…"
 monitor_inn: "clonidine"
-predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
+predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
 ---
 
 # Clonidine

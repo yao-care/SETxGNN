@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Clotrimazole: predikterad ny indikation Akne (evidensnivå L5). Ursprunglig indikation: Fotsvamp, hudsvamp…"
 monitor_inn: "clotrimazole"
-predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atrophic vaginitis"]
+predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
 ---
 
 # Clotrimazole

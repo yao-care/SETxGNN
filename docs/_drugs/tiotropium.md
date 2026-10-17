@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tiotropium: predikterad ny indikation Obstruktiv lungsjukdom (evidensnivå L1). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. Enligt kunska…"
 monitor_inn: "tiotropium"
-predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "COPD, severe early onset", "chronic obstructive pulmonary disease", "hyperlucent lung", "interstitial emphysema", "compensatory emphysema", "tracheal stenosis", "susceptibility to respiratory infections associated with CD8alpha chain mutation"]
+predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "COPD, severe early onset", "tracheal stenosis", "susceptibility to respiratory infections associated with CD8alpha chain mutation"]
 ---
 
 # Tiotropium

@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Esomeprazole: predikterad ny indikation Duodenogastrisk reflux (evidensnivå L5). Ursprunglig indikation: Peptiskt ulkus, gastroesofageal refluxsjukdom…"
 monitor_inn: "esomeprazole"
-predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "duodenal ulcer (disease)"]
+predicted_indications: ["duodenal obstruction"]
 ---
 
 # Esomeprazole

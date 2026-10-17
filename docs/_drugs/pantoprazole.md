@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-15
 description: "Pantoprazole: predikterad ny indikation Aktivt magsår (active peptic ulcer disease) (evidensnivå L1). Ursprunglig indikation: Ingen indikationstext finns registrerad i godkännandet. Enligt kunska…"
 monitor_inn: "pantoprazole"
-predicted_indications: ["active peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "duodenogastric reflux", "duodenal obstruction", "duodenal ulcer (disease)"]
+predicted_indications: ["duodenal obstruction"]
 ---
 
 # Pantoprazole

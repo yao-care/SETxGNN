@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ticagrelor: predikterad ny indikation Intrakraniell arterioskleros (evidensnivå L5). Ursprunglig indikation: Akut koronarsyndrom, perifer kärlsjukdom, claudicatio intermittens…"
 monitor_inn: "ticagrelor"
-predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "mesenteric vascular occlusion", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
+predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "ischemic disease", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
 ---
 
 # Ticagrelor

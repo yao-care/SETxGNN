@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Rabeprazole: predikterad ny indikation Smouldering systemisk mastocytos (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns i svenska licensdata. Enligt kuns…"
-monitor_inn: "rabeprazole"
-predicted_indications: ["Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia"]
 ---
 
 # Rabeprazole

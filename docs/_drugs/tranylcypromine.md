@@ -6,9 +6,9 @@ nav_order: 434
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-monitor_inn: "tranylcypromine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "Ohdo syndrome and variants", "dysthymic disorder", "agoraphobia", "melancholia", "neurotic depression", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "ligneous conjunctivitis", "Keppen-Lubinsky syndrome"]
 description: "Tranylcypromine: predikterad ny indikation Godartad paroxysmal torticollis hos spädbarn (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i godkännandena. Enligt kunsk"
+monitor_inn: "tranylcypromine"
+predicted_indications: ["benign paroxysmal torticollis of infancy", "Ohdo syndrome and variants", "agoraphobia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "ligneous conjunctivitis", "Keppen-Lubinsky syndrome"]
 ---
 
 # Tranylcypromine

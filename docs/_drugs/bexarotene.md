@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Bexarotene: predikterad ny indikation Primärt kutant B-cellslymfom (evidensnivå L5). Ursprunglig indikation: Primärt kutant T-cellslymfom (icke-Hodgkin) enligt kunskapsgrafen"
 monitor_inn: "bexarotene"
-predicted_indications: ["primary cutaneous B-cell lymphoma", "Sezary syndrome", "lymphosarcoma"]
+predicted_indications: ["primary cutaneous B-cell lymphoma", "lymphosarcoma"]
 ---
 
 # Bexarotene

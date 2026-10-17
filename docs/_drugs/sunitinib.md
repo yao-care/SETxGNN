@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sunitinib: predikterad ny indikation Liposarkom (evidensnivå L5). Ursprunglig indikation: Njurcellscancer och GIST (enligt kunskapsgrafen"
 monitor_inn: "SUNITINIB"
-predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "renal cell carcinoma associated with neuroblastoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "dermatofibrosarcoma protuberans", "childhood kidney cell carcinoma", "angiolipoma", "renal carcinoma", "heart fibrosarcoma"]
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
 ---
 
 # Sunitinib
