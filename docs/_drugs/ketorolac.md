@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Ketorolac: predikterad ny indikation Huvudvärkssjukdom (headache disorder) (evidensnivå L5). Ursprunglig indikation: Allergisk (atopisk), papillär och vernal konjunktivit"
 monitor_inn: "ketorolac"
-predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
 ---
 
 # Ketorolac

@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Clonazepam: predikterad ny indikation Restless legs-syndrom (evidensnivå L3). Ursprunglig indikation: Ingen godkänd indikationstext tillgänglig från svenska godkännanden.…"
 monitor_inn: "clonazepam"
-predicted_indications: ["restless legs syndrome", "trigeminal nerve neoplasm"]
+predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
 ---
 
 # Clonazepam

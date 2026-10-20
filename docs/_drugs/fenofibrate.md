@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Fenofibrate: predikterad ny indikation Homozygot familjär hyperkolesterolemi (evidensnivå L5). Ursprunglig indikation: Hypertriglyceridemi och andra hyperlipidemier (enligt kunskapsgrafen…"
 monitor_inn: "fenofibrate"
-predicted_indications: ["homozygous familial hypercholesterolemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "hypercholesterolemia, autosomal dominant"]
+predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "hypercholesterolemia, autosomal dominant"]
 ---
 
 # Fenofibrate

@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-15
 description: "Desloratadine: predikterad ny indikation Köldurtikaria (cold urticaria) (evidensnivå L5). Ursprunglig indikation: Allergisk rinit (enligt kunskapsgrafen"
 monitor_inn: "desloratadine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
 ---
 
 # Desloratadine

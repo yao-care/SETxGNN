@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-15
 description: "Calcifediol: predikterad ny indikation Obsolete vitamin D deficiency (föråldrad term för D-vitaminbrist) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i godkännandena. Enlig…"
 monitor_inn: "calcifediol"
-predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis"]
+predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "hereditary hypophosphatemic rickets", "vitamin D-dependent rickets"]
 ---
 
 # Calcifediol

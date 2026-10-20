@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-15
 description: "Methylphenidate: predikterad ny indikation Faciodigitogenitalt syndrom (evidensnivå L5). Ursprunglig indikation: ADHD och narkolepsi (enligt kunskapsgrafen…"
 monitor_inn: "methylphenidate"
-predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "dysthymic disorder"]
+predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
 ---
 
 # Methylphenidate

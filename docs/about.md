@@ -91,7 +91,7 @@ sällsynta sjukdomar."
 <tr><th>Typ</th><th>Källa</th><th>Beskrivning</th></tr>
 </thead>
 <tbody>
-<tr><td>AI-prediktion</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Harvards prediktionsmodell baserad på kunskapsgraf</td></tr>
+<tr><td>AI-prediktion</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Harvards grafneurala nätverk, tränat på en kunskapsgraf</td></tr>
 <tr><td>Kliniska prövningar</td><td><a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a></td><td>Globalt register över kliniska prövningar</td></tr>
 <tr><td>Litteratur</td><td><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></td><td>Databas över biomedicinsk litteratur</td></tr>
 <tr><td>Läkemedelsinformation</td><td><a href="https://go.drugbank.com/">DrugBank</a></td><td>Databas över läkemedel och målmolekyler</td></tr>

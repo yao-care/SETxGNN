@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Trimethoprim: predikterad ny indikation Punktformad epitelial keratokonjunktivit (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad i svenska godkännande…"
+monitor_inn: "trimethoprim"
+predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 ---
 
 # Trimethoprim
