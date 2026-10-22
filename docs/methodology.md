@@ -3,7 +3,7 @@ layout: default
 title: Metodik
 nav_order: 91
 permalink: /methodology/
-description: "Så tar SETxGNN fram och validerar prediktioner: prediktion med TxGNN-kunskapsgraf, evidensinsamling, gradering L1-L5 och beslutsrekommendationer."
+description: "Så tar SETxGNN fram och validerar prediktioner: prediktion med TxGNN-modellen (djupinlärning), evidensinsamling, gradering L1-L5 och beslutsrekommendationer."
 ---
 
 # Metodik
@@ -17,13 +17,13 @@ Från AI-prediktion till evidensgradering — varje kandidat har en spårbar gru
 ## Övergripande arbetsflöde
 
 <p class="key-answer" data-question="Hur tar SETxGNN fram sina prediktioner?">
-Plattformen använder ett arbetsflöde i fyra steg: TxGNN-kunskapsgrafmodellen predikterar potentiella
+Plattformen använder ett arbetsflöde i fyra steg: TxGNN-modellen (djupinlärning) predikterar potentiella
 samband mellan läkemedel och sjukdom, därefter samlas evidens automatiskt in för varje prediktion,
 evidensen graderas från L1 till L5, och slutligen utfärdas en beslutsrekommendation.
 </p>
 
 <ol class="actionable-steps">
-<li><strong>TxGNN-prediktion</strong>: samband mellan läkemedel och sjukdom predikteras med en kunskapsgraf i kombination med grafneurala nätverk.</li>
+<li><strong>TxGNN-prediktion</strong>: samband mellan läkemedel och sjukdom predikteras av TxGNN-modellen (djupinlärning: ett grafneuralt nätverk tränat på en biomedicinsk kunskapsgraf).</li>
 <li><strong>Evidensinsamling</strong>: för varje prediktion samlas evidens in från ClinicalTrials.gov, PubMed, DrugBank och MPA.</li>
 <li><strong>Evidensgradering</strong>: graderas L1 till L5, där L1 är starkast (flera fas 3-RCT) och L5 endast är en modellprediktion.</li>
 <li><strong>Beslutsrekommendation</strong>: Go, Proceed, Consider, Explore eller Hold, baserat på evidensnivån.</li>

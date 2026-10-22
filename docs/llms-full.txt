@@ -17,7 +17,7 @@ Evidensnivåerna går från L1 (starkare klinisk evidens) till L5 (endast modell
 - `/evidence-high/` Hög evidens (L1-L2) — Kandidater för läkemedelsrepositionering med L1-L2 i SETxGNN, som stöds av kliniska prövningar eller systematiska översikter.
 - `/evidence-medium/` Måttlig evidens (L3-L4) — Kandidater för läkemedelsrepositionering med L3-L4 i SETxGNN, som stöds av observationell eller preklinisk evidens.
 - `/evidence-low/` Endast modellprediktion (L5) — L5-kandidater i SETxGNN: endast modellprediktion, ännu utan klinisk evidens eller litteraturstöd.
-- `/methodology/` Metodik — Så tar SETxGNN fram och validerar prediktioner: prediktion med TxGNN-kunskapsgraf, evidensinsamling, gradering L1-L5 och beslutsrekommendationer.
+- `/methodology/` Metodik — Så tar SETxGNN fram och validerar prediktioner: prediktion med TxGNN-modellen (djupinlärning), evidensinsamling, gradering L1-L5 och beslutsrekommendationer.
 - `/guide/` Användarguide — Användarguide för SETxGNN: hur du slår upp läkemedel, läser evidensnivåer och tolkar rekommendationer.
 - `/sources/` Datakällor — Datakällorna bakom SETxGNN: registreringsdata från MPA, TxGNN, ClinicalTrials.gov, PubMed och DrugBank.
 - `/downloads/` Nedladdningar — Öppna data att ladda ned från SETxGNN: FHIR-resurser, prediktionsresultat och sökindex.
