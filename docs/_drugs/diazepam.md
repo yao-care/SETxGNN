@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Diazepam: Från epilepsi och ångest till sömnstörning (insomni)
+## Diazepam: Från epilepsi och ångest till sömnstörning (insomni)
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Alfakalcidol: Från hyperparatyreoidism och renal osteodystrofi till familjär isolerad hypoparatyreoidism
+## Alfakalcidol: Från hyperparatyreoidism och renal osteodystrofi till familjär isolerad hypoparatyreoidism
+{: .text-alpha }
 
 ---
 

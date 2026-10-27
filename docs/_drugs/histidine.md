@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Histidin: Från ospecificerad indikation till gastropares
+## Histidin: Från ospecificerad indikation till gastropares
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Fosfenytoin: Från epilepsi och status epilepticus till manisk bipolär sjukdom
+## Fosfenytoin: Från epilepsi och status epilepticus till manisk bipolär sjukdom
+{: .text-alpha }
 
 ---
 

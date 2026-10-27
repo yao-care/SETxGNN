@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Fenoximetylpenicillin: Från infektiös mellanöreinflammation till epiglottit
+## Fenoximetylpenicillin: Från infektiös mellanöreinflammation till epiglottit
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Enzalutamid: Från prostatacancer till genetisk känslighet för prostata-/hjärncancer
+## Enzalutamid: Från prostatacancer till genetisk känslighet för prostata-/hjärncancer
+{: .text-alpha }
 
 ---
 

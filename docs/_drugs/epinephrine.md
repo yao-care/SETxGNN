@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Epinefrin: Från öppenvinkelglaukom, bronkit och anafylaxi till obstruktiv lungsjukdom
+## Epinefrin: Från öppenvinkelglaukom, bronkit och anafylaxi till obstruktiv lungsjukdom
+{: .text-alpha }
 
 ---
 

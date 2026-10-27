@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Pirfenidon: Från idiopatisk lungfibros till fibroblastneoplasm
+## Pirfenidon: Från idiopatisk lungfibros till fibroblastneoplasm
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Rivastigmin: Från Alzheimers sjukdom till glaukom
+## Rivastigmin: Från Alzheimers sjukdom till glaukom
+{: .text-alpha }
 
 ---
 

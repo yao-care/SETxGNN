@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Pyridostigmin: Från myasthenia gravis till myasthenia gravis med tymushyperplasi
+## Pyridostigmin: Från myasthenia gravis till myasthenia gravis med tymushyperplasi
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Alanin: Från näringstillförsel (ingen godkänd indikation angiven) till gastropares
+## Alanin: Från näringstillförsel (ingen godkänd indikation angiven) till gastropares
+{: .text-alpha }
 
 ---
 

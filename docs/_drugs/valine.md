@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Valin: Från ospecificerad indikation (parenteral aminosyretillförsel) till primär skleroserande kolangit
+## Valin: Från ospecificerad indikation (parenteral aminosyretillförsel) till primär skleroserande kolangit
+{: .text-alpha }
 
 ## Sammanfattning
 

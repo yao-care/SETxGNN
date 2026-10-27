@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Decitabin: Från myeloisk leukemi till refraktär cytopeni hos barn
+## Decitabin: Från myeloisk leukemi till refraktär cytopeni hos barn
+{: .text-alpha }
 
 ---
 

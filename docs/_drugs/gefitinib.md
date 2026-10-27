@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Gefitinib: Från icke-småcellig lungcancer till fibromatos i tandköttet
+## Gefitinib: Från icke-småcellig lungcancer till fibromatos i tandköttet
+{: .text-alpha }
 
 ---
 

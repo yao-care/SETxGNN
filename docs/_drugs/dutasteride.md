@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Dutasterid: Från benign prostatahyperplasi till Ambras typ av hypertrichosis universalis congenita
+## Dutasterid: Från benign prostatahyperplasi till Ambras typ av hypertrichosis universalis congenita
+{: .text-alpha }
 
 ---
 

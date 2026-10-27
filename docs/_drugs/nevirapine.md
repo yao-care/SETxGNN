@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Nevirapin: Från HIV-infektion till felint förvärvat immunbristsyndrom
+## Nevirapin: Från HIV-infektion till felint förvärvat immunbristsyndrom
+{: .text-alpha }
 
 ---
 

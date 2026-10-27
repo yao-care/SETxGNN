@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Dronedaron: Från förmaksflimmer till stroke
+## Dronedaron: Från förmaksflimmer till stroke
+{: .text-alpha }
 
 ---
 

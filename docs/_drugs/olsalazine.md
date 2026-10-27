@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Olsalazin: Från ej angiven ursprunglig indikation till myelodysplastiskt syndrom
+## Olsalazin: Från ej angiven ursprunglig indikation till myelodysplastiskt syndrom
+{: .text-alpha }
 
 ---
 

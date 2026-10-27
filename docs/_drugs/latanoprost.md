@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Latanoprost: Från öppenvinkelglaukom till primär ärftlig glaukom
+## Latanoprost: Från öppenvinkelglaukom till primär ärftlig glaukom
+{: .text-alpha }
 
 ---
 

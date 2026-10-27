@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Etoposid: Från småcellig lungcancer till välutvecklat fetalt adenokarcinom i lungan
+## Etoposid: Från småcellig lungcancer till välutvecklat fetalt adenokarcinom i lungan
+{: .text-alpha }
 
 ---
 

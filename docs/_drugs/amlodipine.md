@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Amlodipin: Från högt blodtryck till hjärnstamsinfarkt
+## Amlodipin: Från högt blodtryck till hjärnstamsinfarkt
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Tramadol: Från artros till akromesomelisk dysplasi, Hunter-Thompson-typ
+## Tramadol: Från artros till akromesomelisk dysplasi, Hunter-Thompson-typ
+{: .text-alpha }
 
 ---
 

@@ -32,7 +32,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-# Apremilast: Drug Repurposing Evaluation Report
+## Apremilast: Drug Repurposing Evaluation Report
+{: .text-alpha }
 
 ## One-Sentence Summary
 

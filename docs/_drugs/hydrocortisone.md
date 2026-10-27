@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Hydrokortison: Från autoimmun sjukdom och binjurebarksvikt till alopecia areata
+## Hydrokortison: Från autoimmun sjukdom och binjurebarksvikt till alopecia areata
+{: .text-alpha }
 
 ---
 

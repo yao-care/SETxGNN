@@ -34,7 +34,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-# LETROZOL：藥物再利用評估 — 證據包資料不足，無法完成完整評估
+## LETROZOL：藥物再利用評估 — 證據包資料不足，無法完成完整評估
+{: .text-alpha }
 
 ## One-Sentence Summary
 

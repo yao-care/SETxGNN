@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Dexpanthenol: Från hudsjukdomar och tarmmotilitetsstörningar till exantem
+## Dexpanthenol: Från hudsjukdomar och tarmmotilitetsstörningar till exantem
+{: .text-alpha }
 
 ---
 

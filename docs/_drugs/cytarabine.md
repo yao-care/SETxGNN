@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-# Cytarabin: Från akut lymfatisk och akut myeloisk leukemi till småcellig lungcancer
+## Cytarabin: Från akut lymfatisk och akut myeloisk leukemi till småcellig lungcancer
+{: .text-alpha }
 
 ---
 

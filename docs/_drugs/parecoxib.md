@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Parecoxib: Från (ingen registrerad indikation) till migrän
+## Parecoxib: Från (ingen registrerad indikation) till migrän
+{: .text-alpha }
 
 ---
 

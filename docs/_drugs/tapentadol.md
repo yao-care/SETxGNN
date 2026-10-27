@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Tapentadol: Från smärta (indikationstext saknas i registret) till migränsjukdom
+## Tapentadol: Från smärta (indikationstext saknas i registret) till migränsjukdom
+{: .text-alpha }
 
 ---
 

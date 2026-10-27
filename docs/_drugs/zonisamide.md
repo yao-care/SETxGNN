@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Zonisamid: Från epilepsi till Tourettes syndrom
+## Zonisamid: Från epilepsi till Tourettes syndrom
+{: .text-alpha }
 
 **Notering om underlaget:** Den ursprungliga indikationen saknas i det sammanställda underlaget, eftersom indikationstexten i det svenska godkännandet är tom. Den förutsagda indikationen med högst poäng, Tourettes syndrom, saknar helt kliniska studier och litteratur. Rapporten tar därför upp Tourettes syndrom som huvudförutsägelse och redovisar i en separat tabell även de förutsägelser som har faktiskt underlag.
 

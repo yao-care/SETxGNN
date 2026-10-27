@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Valsartan: Från hypertoni till malign renovaskulär hypertoni
+## Valsartan: Från hypertoni till malign renovaskulär hypertoni
+{: .text-alpha }
 
 ---
 

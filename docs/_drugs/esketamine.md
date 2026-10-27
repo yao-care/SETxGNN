@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Esketamin: Från ångestsyndrom till agorafobi
+## Esketamin: Från ångestsyndrom till agorafobi
+{: .text-alpha }
 
 ---
 

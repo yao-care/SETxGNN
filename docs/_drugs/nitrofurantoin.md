@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Nitrofurantoin: Från urinvägsinfektion till reumatoid artrit
+## Nitrofurantoin: Från urinvägsinfektion till reumatoid artrit
+{: .text-alpha }
 
 ---
 

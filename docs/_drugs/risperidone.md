@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Risperidon: Från schizofreni och bipolär sjukdom till familjär horisontell blickpares med progressiv skolios
+## Risperidon: Från schizofreni och bipolär sjukdom till familjär horisontell blickpares med progressiv skolios
+{: .text-alpha }
 
 ---
 

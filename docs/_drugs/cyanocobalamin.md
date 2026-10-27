@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Cyanokobalamin: Från vitamin B12-brist till biotinmetabol sjukdom
+## Cyanokobalamin: Från vitamin B12-brist till biotinmetabol sjukdom
+{: .text-alpha }
 
 ---
 

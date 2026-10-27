@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Fenylpropanolamin: Från allergisk rinit och förkylning till sjukdom i nässlemhinnan (nasal cavity disease)
+## Fenylpropanolamin: Från allergisk rinit och förkylning till sjukdom i nässlemhinnan (nasal cavity disease)
+{: .text-alpha }
 
 ---
 

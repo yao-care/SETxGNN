@@ -33,7 +33,8 @@ Evidensnivå: **L2** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Ziprasidon: Från bipolär sjukdom och schizofreni till stor affektiv sjukdom (depression)
+## Ziprasidon: Från bipolär sjukdom och schizofreni till stor affektiv sjukdom (depression)
+{: .text-alpha }
 
 ---
 

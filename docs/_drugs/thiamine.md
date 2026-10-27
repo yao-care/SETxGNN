@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Tiamin: Från ospecificerad indikation till hypertyreos
+## Tiamin: Från ospecificerad indikation till hypertyreos
+{: .text-alpha }
 
 ## Sammanfattning
 

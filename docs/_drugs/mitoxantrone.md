@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **8** st
 
 </div>
 
-# Mitoxantron: Från akut myeloisk leukemi till neoplasm i övre luft- och matsmältningsvägarna
+## Mitoxantron: Från akut myeloisk leukemi till neoplasm i övre luft- och matsmältningsvägarna
+{: .text-alpha }
 
 ---
 

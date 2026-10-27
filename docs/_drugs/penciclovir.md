@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Penciclovir: Från herpes labialis till fascioliasis
+## Penciclovir: Från herpes labialis till fascioliasis
+{: .text-alpha }
 
 ---
 

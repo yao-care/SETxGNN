@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Efedrin: Från allergisk rinit till sjukdomar i näshålan
+## Efedrin: Från allergisk rinit till sjukdomar i näshålan
+{: .text-alpha }
 
 ---
 

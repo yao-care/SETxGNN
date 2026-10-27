@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Celecoxib: Från reumatoid artrit till akromesomel dysplasi av Hunter-Thompson-typ
+## Celecoxib: Från reumatoid artrit till akromesomel dysplasi av Hunter-Thompson-typ
+{: .text-alpha }
 
 ---
 

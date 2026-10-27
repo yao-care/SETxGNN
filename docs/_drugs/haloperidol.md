@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Haloperidol: Från psykotiska sjukdomar till kongenital glykosyleringsrubbning med defekt fukosylering
+## Haloperidol: Från psykotiska sjukdomar till kongenital glykosyleringsrubbning med defekt fukosylering
+{: .text-alpha }
 
 ---
 

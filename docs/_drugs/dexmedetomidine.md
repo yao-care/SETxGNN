@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Dexmedetomidin: Från ej angiven indikation till nefrogent syndrom med olämplig antidiures (NSIAD)
+## Dexmedetomidin: Från ej angiven indikation till nefrogent syndrom med olämplig antidiures (NSIAD)
+{: .text-alpha }
 
 ---
 

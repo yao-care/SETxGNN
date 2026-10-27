@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Difenhydramin: Från allergisk rinit och relaterade tillstånd till rosaceakonjunktivit
+## Difenhydramin: Från allergisk rinit och relaterade tillstånd till rosaceakonjunktivit
+{: .text-alpha }
 
 ---
 

@@ -32,7 +32,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-# Artemether: Antimalarial Drug — Awaiting Repurposing Prediction
+## Artemether: Antimalarial Drug — Awaiting Repurposing Prediction
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Olanzapin: Från bipolär sjukdom och schizofreni till benign paroxysmal torticollis hos spädbarn
+## Olanzapin: Från bipolär sjukdom och schizofreni till benign paroxysmal torticollis hos spädbarn
+{: .text-alpha }
 
 ---
 

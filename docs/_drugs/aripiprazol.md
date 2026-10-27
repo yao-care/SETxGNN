@@ -32,7 +32,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-# Aripiprazole: Evaluation Pending — No Predicted Indication Available
+## Aripiprazole: Evaluation Pending — No Predicted Indication Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

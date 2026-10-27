@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-# Ivermektin: Från strongyloidiasis och onkocerkos till vulvovaginal candidiasis
+## Ivermektin: Från strongyloidiasis och onkocerkos till vulvovaginal candidiasis
+{: .text-alpha }
 
 ---
 

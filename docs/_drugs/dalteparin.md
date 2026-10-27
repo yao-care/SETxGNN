@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Dalteparin: Från lungemboli till trombofili orsakad av protein C-brist (autosomalt recessiv)
+## Dalteparin: Från lungemboli till trombofili orsakad av protein C-brist (autosomalt recessiv)
+{: .text-alpha }
 
 ---
 

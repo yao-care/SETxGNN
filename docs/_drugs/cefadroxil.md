@@ -32,7 +32,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-# CEFADROXIL: Drug Repurposing Evaluation Report
+## CEFADROXIL: Drug Repurposing Evaluation Report
+{: .text-alpha }
 
 ## One-Sentence Summary
 

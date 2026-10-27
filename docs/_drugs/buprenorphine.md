@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Buprenorfin: Från opioidberoende till akut intermittent porfyri
+## Buprenorfin: Från opioidberoende till akut intermittent porfyri
+{: .text-alpha }
 
 ---
 

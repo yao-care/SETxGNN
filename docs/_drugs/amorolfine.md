@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Amorolfin: Från svampinfektion i naglar till läkemedelsorsakad osteoporos
+## Amorolfin: Från svampinfektion i naglar till läkemedelsorsakad osteoporos
+{: .text-alpha }
 
 ---
 

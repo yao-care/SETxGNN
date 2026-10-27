@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Glycin: Från allergisk rinit till sjukdom i näshålan
+## Glycin: Från allergisk rinit till sjukdom i näshålan
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Raltegravir: Från hiv-infektion och aids till simian immunbristvirusinfektion
+## Raltegravir: Från hiv-infektion och aids till simian immunbristvirusinfektion
+{: .text-alpha }
 
 ---
 

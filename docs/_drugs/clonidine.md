@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Klonidin: Från högt blodtryck till faciodigitogenitalt syndrom
+## Klonidin: Från högt blodtryck till faciodigitogenitalt syndrom
+{: .text-alpha }
 
 ---
 

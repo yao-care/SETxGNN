@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Sevofluran: Från allmän anestesi (inhalationsnarkos) till Prinzmetals angina
+## Sevofluran: Från allmän anestesi (inhalationsnarkos) till Prinzmetals angina
+{: .text-alpha }
 
 ## Sammanfattning
 

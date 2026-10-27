@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Ciklosporin: Från reumatoid artrit och torra ögon till kronisk granulomatös sjukdom
+## Ciklosporin: Från reumatoid artrit och torra ögon till kronisk granulomatös sjukdom
+{: .text-alpha }
 
 ---
 

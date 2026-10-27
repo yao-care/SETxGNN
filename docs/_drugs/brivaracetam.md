@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Brivaracetam: Från partiell epilepsi till visuell epilepsi
+## Brivaracetam: Från partiell epilepsi till visuell epilepsi
+{: .text-alpha }
 
 ---
 

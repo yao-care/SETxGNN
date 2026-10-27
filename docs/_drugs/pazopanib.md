@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Pazopanib: Från njurcellscancer och mjukdelssarkom till njurcellscancer med Xp11.2-translokation/TFE3-genfusion
+## Pazopanib: Från njurcellscancer och mjukdelssarkom till njurcellscancer med Xp11.2-translokation/TFE3-genfusion
+{: .text-alpha }
 
 ---
 

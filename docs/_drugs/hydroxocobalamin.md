@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Hydroxokobalamin: Från vitamin B12-brist till esofagusvaricer utan blödning
+## Hydroxokobalamin: Från vitamin B12-brist till esofagusvaricer utan blödning
+{: .text-alpha }
 
 ---
 

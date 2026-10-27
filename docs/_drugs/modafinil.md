@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Modafinil: Från narkolepsi till sömnlöshet (insomni)
+## Modafinil: Från narkolepsi till sömnlöshet (insomni)
+{: .text-alpha }
 
 ---
 

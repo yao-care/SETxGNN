@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Paklitaxel: Från äggstockscancer till bröstcancer (kvinnlig bröstcancer)
+## Paklitaxel: Från äggstockscancer till bröstcancer (kvinnlig bröstcancer)
+{: .text-alpha }
 
 ---
 

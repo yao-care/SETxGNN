@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Ofloxacin: Från bakteriella infektioner till polyklonalt hyperviskositetssyndrom
+## Ofloxacin: Från bakteriella infektioner till polyklonalt hyperviskositetssyndrom
+{: .text-alpha }
 
 ---
 

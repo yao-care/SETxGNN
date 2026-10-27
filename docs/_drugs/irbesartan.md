@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Irbesartan: Från hypertoni och diabetesnefropati till malign hypertensiv njursjukdom
+## Irbesartan: Från hypertoni och diabetesnefropati till malign hypertensiv njursjukdom
+{: .text-alpha }
 
 ---
 

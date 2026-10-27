@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Fentanyl: Från smärtbehandling (indikationstext saknas) till nefrogent syndrom med olämplig antidures
+## Fentanyl: Från smärtbehandling (indikationstext saknas) till nefrogent syndrom med olämplig antidures
+{: .text-alpha }
 
 ---
 

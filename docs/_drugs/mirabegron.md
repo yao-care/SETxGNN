@@ -32,7 +32,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-# MIRABEGRON: Repurposing Evaluation — Insufficient Data for Full Assessment
+## MIRABEGRON: Repurposing Evaluation — Insufficient Data for Full Assessment
+{: .text-alpha }
 
 ## One-Sentence Summary
 

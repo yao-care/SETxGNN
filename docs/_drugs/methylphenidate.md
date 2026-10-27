@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Metylfenidat: Från uppmärksamhetsstörning (ADHD) till faciodigitogenitalt syndrom
+## Metylfenidat: Från uppmärksamhetsstörning (ADHD) till faciodigitogenitalt syndrom
+{: .text-alpha }
 
 ---
 

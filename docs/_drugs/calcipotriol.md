@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Calcipotriol: Från psoriasis till seborroisk keratos
+## Calcipotriol: Från psoriasis till seborroisk keratos
+{: .text-alpha }
 
 ---
 

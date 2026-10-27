@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Fluoxetin: Från egentlig depression till schizotypisk personlighetsstörning
+## Fluoxetin: Från egentlig depression till schizotypisk personlighetsstörning
+{: .text-alpha }
 
 ---
 

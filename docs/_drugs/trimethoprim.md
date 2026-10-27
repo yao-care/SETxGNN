@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Trimetoprim: Från urinvägsinfektion till punktformad epitelial keratokonjunktivit
+## Trimetoprim: Från urinvägsinfektion till punktformad epitelial keratokonjunktivit
+{: .text-alpha }
 
 ---
 

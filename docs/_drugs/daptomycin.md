@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Daptomycin: Från bakteriella infektioner till osteoartrit
+## Daptomycin: Från bakteriella infektioner till osteoartrit
+{: .text-alpha }
 
 ---
 

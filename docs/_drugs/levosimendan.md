@@ -32,7 +32,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-# LEVOSIMENDAN: Evaluation Incomplete — No TxGNN Predictions Available
+## LEVOSIMENDAN: Evaluation Incomplete — No TxGNN Predictions Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

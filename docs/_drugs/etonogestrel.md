@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Etonogestrel: Från ej angiven indikation till amenorré
+## Etonogestrel: Från ej angiven indikation till amenorré
+{: .text-alpha }
 
 ---
 

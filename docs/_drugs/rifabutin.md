@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Rifabutin: Från mykobakteriell infektion (ursprunglig indikation ej angiven i godkännandet) till HIV-relaterad sjukdom
+## Rifabutin: Från mykobakteriell infektion (ursprunglig indikation ej angiven i godkännandet) till HIV-relaterad sjukdom
+{: .text-alpha }
 
 ---
 

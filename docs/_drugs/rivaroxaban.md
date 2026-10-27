@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Rivaroxaban: Från antikoagulantia (ursprunglig indikation ej angiven i tillgängliga data) till reumatoid artrit
+## Rivaroxaban: Från antikoagulantia (ursprunglig indikation ej angiven i tillgängliga data) till reumatoid artrit
+{: .text-alpha }
 
 ---
 

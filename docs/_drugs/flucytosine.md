@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Flucytosin: Från ej angiven indikation till Pagets sjukdom i skelettet
+## Flucytosin: Från ej angiven indikation till Pagets sjukdom i skelettet
+{: .text-alpha }
 
 ---
 

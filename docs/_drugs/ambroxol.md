@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Ambroxol: Från faryngit till sjukdom i näshålan
+## Ambroxol: Från faryngit till sjukdom i näshålan
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Pyrazinamid: Från tuberkulos till infektiös otitis media
+## Pyrazinamid: Från tuberkulos till infektiös otitis media
+{: .text-alpha }
 
 ---
 

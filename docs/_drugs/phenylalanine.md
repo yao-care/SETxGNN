@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Fenylalanin: Från parenteral näringstillförsel (indikationstext saknas) till skleroserande kolangit
+## Fenylalanin: Från parenteral näringstillförsel (indikationstext saknas) till skleroserande kolangit
+{: .text-alpha }
 
 ---
 

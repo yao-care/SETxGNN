@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Epinastin: Från atopisk konjunktivit till rosacea-konjunktivit
+## Epinastin: Från atopisk konjunktivit till rosacea-konjunktivit
+{: .text-alpha }
 
 ---
 

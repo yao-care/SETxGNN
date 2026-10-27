@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Exemestan: Från bröstcancer till amenorré
+## Exemestan: Från bröstcancer till amenorré
+{: .text-alpha }
 
 ---
 

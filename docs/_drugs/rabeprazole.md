@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Rabeprazol: Från peptisk ulcussjukdom och gastroesofageal refluxsjukdom till smouldering systemisk mastocytos
+## Rabeprazol: Från peptisk ulcussjukdom och gastroesofageal refluxsjukdom till smouldering systemisk mastocytos
+{: .text-alpha }
 
 ---
 

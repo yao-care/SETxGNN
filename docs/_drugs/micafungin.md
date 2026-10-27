@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Mikafungin: Från esofagal candidiasis, candidemi och disseminerad candidiasis till urinvägsinfektion
+## Mikafungin: Från esofagal candidiasis, candidemi och disseminerad candidiasis till urinvägsinfektion
+{: .text-alpha }
 
 ---
 

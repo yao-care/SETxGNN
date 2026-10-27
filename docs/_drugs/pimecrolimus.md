@@ -33,7 +33,8 @@ Evidensnivå: **L2** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Pimecrolimus: Från atopiskt eksem till seborroisk dermatit
+## Pimecrolimus: Från atopiskt eksem till seborroisk dermatit
+{: .text-alpha }
 
 ---
 

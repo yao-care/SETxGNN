@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Vankomycin: Från Clostridium difficile-kolit till diffus skleroderma
+## Vankomycin: Från Clostridium difficile-kolit till diffus skleroderma
+{: .text-alpha }
 
 ---
 

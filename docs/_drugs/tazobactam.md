@@ -31,7 +31,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Tazobaktam: Från bakteriella infektioner (bl.a. bakteriell pneumoni och peritonit) till pneumoni
+## Tazobaktam: Från bakteriella infektioner (bl.a. bakteriell pneumoni och peritonit) till pneumoni
+{: .text-alpha }
 
 ---
 

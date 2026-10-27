@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Eletriptan: Från migrän till migrän med hjärnstammsaura
+## Eletriptan: Från migrän till migrän med hjärnstammsaura
+{: .text-alpha }
 
 ---
 

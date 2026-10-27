@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 </div>
 
-# Roxitromycin: Från antibakteriell behandling till lepra
+## Roxitromycin: Från antibakteriell behandling till lepra
+{: .text-alpha }
 
 > **Anmärkning om läkemedelsnamn:** Läkemedlets INN är roxitromycin (engelska: roxithromycin). Den ursprungliga indikationstexten saknas i godkännandeuppgifterna, se tabellen nedan.
 

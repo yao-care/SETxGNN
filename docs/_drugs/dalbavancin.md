@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Dalbavancin: Från hudinfektion till postinfektiös vaskulit
+## Dalbavancin: Från hudinfektion till postinfektiös vaskulit
+{: .text-alpha }
 
 ---
 

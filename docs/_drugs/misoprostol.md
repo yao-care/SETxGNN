@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Misoprostol: Från ospecificerad ursprunglig indikation till amenorré
+## Misoprostol: Från ospecificerad ursprunglig indikation till amenorré
+{: .text-alpha }
 
 ---
 

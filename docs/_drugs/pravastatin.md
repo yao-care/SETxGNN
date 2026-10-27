@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-# Pravastatin: Från hyperlipidemi och åderförkalkning till homozygot familjär hyperkolesterolemi
+## Pravastatin: Från hyperlipidemi och åderförkalkning till homozygot familjär hyperkolesterolemi
+{: .text-alpha }
 
 ---
 

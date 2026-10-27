@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Etambutol: Från lungtuberkulos till epiglottit
+## Etambutol: Från lungtuberkulos till epiglottit
+{: .text-alpha }
 
 ---
 

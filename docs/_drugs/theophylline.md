@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Theophylline: Från astma till trombotisk sjukdom
+## Theophylline: Från astma till trombotisk sjukdom
+{: .text-alpha }
 
 ---
 

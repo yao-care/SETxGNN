@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Lidokain: Från dermatit och neuralgi till punktformad epitelial keratokonjunktivit
+## Lidokain: Från dermatit och neuralgi till punktformad epitelial keratokonjunktivit
+{: .text-alpha }
 
 ---
 

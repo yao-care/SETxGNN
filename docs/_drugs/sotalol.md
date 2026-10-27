@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Sotalol: Från förmaksflimmer till sick sinus-syndrom 2, autosomalt dominant
+## Sotalol: Från förmaksflimmer till sick sinus-syndrom 2, autosomalt dominant
+{: .text-alpha }
 
 ---
 

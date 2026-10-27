@@ -33,7 +33,8 @@ Evidensnivå: **L2** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Oxaliplatin: Från metastaserad koloncancer till malignt pleuralt mesoteliom
+## Oxaliplatin: Från metastaserad koloncancer till malignt pleuralt mesoteliom
+{: .text-alpha }
 
 ---
 

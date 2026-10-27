@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Levetiracetam: Från partiell epilepsi till visuell epilepsi
+## Levetiracetam: Från partiell epilepsi till visuell epilepsi
+{: .text-alpha }
 
 ---
 

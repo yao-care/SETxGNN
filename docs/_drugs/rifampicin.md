@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Rifampicin: Från lungtuberkulos till konjunktivit
+## Rifampicin: Från lungtuberkulos till konjunktivit
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 </div>
 
-# Simvastatin: Från hyperlipidemi och kardiovaskulär sjukdom till familjär hyperkolesterolemi
+## Simvastatin: Från hyperlipidemi och kardiovaskulär sjukdom till familjär hyperkolesterolemi
+{: .text-alpha }
 
 ---
 

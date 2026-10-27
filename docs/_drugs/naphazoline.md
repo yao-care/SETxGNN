@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Naphazolin: Från ögonrodnad (ingen godkänd indikationstext registrerad) till hypotrichosis simplex i hårbotten
+## Naphazolin: Från ögonrodnad (ingen godkänd indikationstext registrerad) till hypotrichosis simplex i hårbotten
+{: .text-alpha }
 
 ---
 

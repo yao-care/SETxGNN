@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Felbamat: Från epilepsi till trigeminusneoplasm
+## Felbamat: Från epilepsi till trigeminusneoplasm
+{: .text-alpha }
 
 ---
 

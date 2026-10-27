@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Lisdexamfetamin: Från ADHD till specifik utvecklingsrubbning
+## Lisdexamfetamin: Från ADHD till specifik utvecklingsrubbning
+{: .text-alpha }
 
 ---
 

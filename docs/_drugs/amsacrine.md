@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Amsakrin: Från cancerbehandling till hypertyreos
+## Amsakrin: Från cancerbehandling till hypertyreos
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Calcitriol: Från hyperkalcemi och störningar i fosfor- och kalciumomsättningen till D-vitaminbrist (föråldrad diagnosterm)
+## Calcitriol: Från hyperkalcemi och störningar i fosfor- och kalciumomsättningen till D-vitaminbrist (föråldrad diagnosterm)
+{: .text-alpha }
 
 ---
 

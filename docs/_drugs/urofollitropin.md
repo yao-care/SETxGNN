@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Urofollitropin: Från (ingen ursprunglig indikation angiven) till migränsjukdom
+## Urofollitropin: Från (ingen ursprunglig indikation angiven) till migränsjukdom
+{: .text-alpha }
 
 ---
 

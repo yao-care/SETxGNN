@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Tyrosin: Från ingen angiven indikation till cauda equina-syndrom
+## Tyrosin: Från ingen angiven indikation till cauda equina-syndrom
+{: .text-alpha }
 
 ---
 

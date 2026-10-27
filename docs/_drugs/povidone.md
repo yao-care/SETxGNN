@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Povidon: Från torrt öga till medfödd ichtyosiform erytrodermi
+## Povidon: Från torrt öga till medfödd ichtyosiform erytrodermi
+{: .text-alpha }
 
 ---
 

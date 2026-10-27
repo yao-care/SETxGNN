@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Streptozocin: Från pankreasneuroendokrin tumör till relapsing-remitting multipel skleros
+## Streptozocin: Från pankreasneuroendokrin tumör till relapsing-remitting multipel skleros
+{: .text-alpha }
 
 > **Observera:** Den ursprungliga indikationen finns inte angiven i svenska licensdata (indikationstexten är tom). Uppgiften om pankreasneuroendokrin tumör bygger på läkemedlets kända historiska användning och på litteraturen som ingår i underlaget, inte på det svenska godkännandet.
 

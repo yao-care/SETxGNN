@@ -32,7 +32,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-# MACITENTAN: Repurposing Evaluation — Insufficient Evidence Pack Data
+## MACITENTAN: Repurposing Evaluation — Insufficient Evidence Pack Data
+{: .text-alpha }
 
 ## One-Sentence Summary
 

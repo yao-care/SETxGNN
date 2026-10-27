@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Meloxikam: Från reumatoid artrit och artros till akromesomel dysplasi av Hunter-Thompson-typ
+## Meloxikam: Från reumatoid artrit och artros till akromesomel dysplasi av Hunter-Thompson-typ
+{: .text-alpha }
 
 ---
 

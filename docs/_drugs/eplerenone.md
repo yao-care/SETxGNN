@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Eplerenon: Från hypertoni till pulmonell hypertoni orsakad av lungsjukdom och/eller hypoxi
+## Eplerenon: Från hypertoni till pulmonell hypertoni orsakad av lungsjukdom och/eller hypoxi
+{: .text-alpha }
 
 ---
 

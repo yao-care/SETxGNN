@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Probenecid: Från gikt till renal hypourikemi
+## Probenecid: Från gikt till renal hypourikemi
+{: .text-alpha }
 
 ---
 

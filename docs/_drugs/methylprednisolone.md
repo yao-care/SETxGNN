@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Metylprednisolon: Från autoimmuna sjukdomar och binjurebarksinsufficiens till alopecia areata
+## Metylprednisolon: Från autoimmuna sjukdomar och binjurebarksinsufficiens till alopecia areata
+{: .text-alpha }
 
 ---
 

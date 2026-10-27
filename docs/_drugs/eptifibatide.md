@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Eptifibatid: Från akut koronarsyndrom till hemoglobinopati
+## Eptifibatid: Från akut koronarsyndrom till hemoglobinopati
+{: .text-alpha }
 
 ---
 

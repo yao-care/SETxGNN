@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Tiopental: Från epilepsi till trikotillomani
+## Tiopental: Från epilepsi till trikotillomani
+{: .text-alpha }
 
 ---
 

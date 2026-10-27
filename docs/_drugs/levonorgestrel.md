@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Levonorgestrel: Från postmenopausal osteoporos till akne
+## Levonorgestrel: Från postmenopausal osteoporos till akne
+{: .text-alpha }
 
 ---
 

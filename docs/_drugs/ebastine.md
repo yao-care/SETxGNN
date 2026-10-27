@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Ebastin: Från allergisk rinit till kranskärlssjukdom
+## Ebastin: Från allergisk rinit till kranskärlssjukdom
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Dimenhydrinat: Från yrsel av centralnervöst ursprung och åksjuka till allergisk urtikaria
+## Dimenhydrinat: Från yrsel av centralnervöst ursprung och åksjuka till allergisk urtikaria
+{: .text-alpha }
 
 ---
 

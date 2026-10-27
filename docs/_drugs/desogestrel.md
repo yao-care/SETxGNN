@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Desogestrel: Från hormonell antikonception till amenorré
+## Desogestrel: Från hormonell antikonception till amenorré
+{: .text-alpha }
 
 ---
 

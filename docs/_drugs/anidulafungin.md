@@ -38,7 +38,8 @@ Based on the Evidence Pack, I'll generate the report. Note that this is a data-s
 
 ---
 
-# Anidulafungin: Antifungal Agent — Drug Repurposing Candidate Assessment
+## Anidulafungin: Antifungal Agent — Drug Repurposing Candidate Assessment
+{: .text-alpha }
 
 ## One-Sentence Summary
 

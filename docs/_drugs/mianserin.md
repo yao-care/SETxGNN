@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Mianserin: Från unipolär depression till benign paroxysmal torticollis hos spädbarn
+## Mianserin: Från unipolär depression till benign paroxysmal torticollis hos spädbarn
+{: .text-alpha }
 
 ---
 

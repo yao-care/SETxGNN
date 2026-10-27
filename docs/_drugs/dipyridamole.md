@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Dipyridamol: Från förmaksflimmer till Prinzmetals angina
+## Dipyridamol: Från förmaksflimmer till Prinzmetals angina
+{: .text-alpha }
 
 ---
 

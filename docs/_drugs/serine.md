@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Serin: Från öppenvinkelglaukom till familjär visceral myopati
+## Serin: Från öppenvinkelglaukom till familjär visceral myopati
+{: .text-alpha }
 
 ---
 

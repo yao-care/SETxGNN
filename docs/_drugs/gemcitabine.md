@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Gemcitabin: Från äggstockscancer till bröstcancer hos kvinnor
+## Gemcitabin: Från äggstockscancer till bröstcancer hos kvinnor
+{: .text-alpha }
 
 ---
 

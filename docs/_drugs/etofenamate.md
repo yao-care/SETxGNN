@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Etofenamat: Från artros till spondylartropati (genetisk predisposition)
+## Etofenamat: Från artros till spondylartropati (genetisk predisposition)
+{: .text-alpha }
 
 ---
 

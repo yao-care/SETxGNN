@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Isoprenalin: Från förkylning, nasofaryngit, hjärtstopp och AV-block till näshålesjukdom
+## Isoprenalin: Från förkylning, nasofaryngit, hjärtstopp och AV-block till näshålesjukdom
+{: .text-alpha }
 
 ---
 

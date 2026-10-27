@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Cilastatin: Från bakteriell lunginflammation till Staphylococcus aureus-infektion
+## Cilastatin: Från bakteriell lunginflammation till Staphylococcus aureus-infektion
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Felodipin: Från hypertoni till pulmonell hypertension med oklar multifaktoriell mekanism
+## Felodipin: Från hypertoni till pulmonell hypertension med oklar multifaktoriell mekanism
+{: .text-alpha }
 
 ---
 

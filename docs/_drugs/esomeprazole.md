@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Esomeprazol: Från peptiskt ulkus (magsår/sår på tolvfingertarmen) till duodenogastrisk reflux
+## Esomeprazol: Från peptiskt ulkus (magsår/sår på tolvfingertarmen) till duodenogastrisk reflux
+{: .text-alpha }
 
 ---
 

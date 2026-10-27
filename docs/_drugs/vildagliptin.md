@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Vildagliptin: Från typ 2-diabetes till klassiskt stelmanssyndrom (stiff person syndrome)
+## Vildagliptin: Från typ 2-diabetes till klassiskt stelmanssyndrom (stiff person syndrome)
+{: .text-alpha }
 
 ---
 

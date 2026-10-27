@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Polymyxin B: Från ögon-/öronberedningar (ursprunglig indikation ej angiven) till bronkit
+## Polymyxin B: Från ögon-/öronberedningar (ursprunglig indikation ej angiven) till bronkit
+{: .text-alpha }
 
 ---
 

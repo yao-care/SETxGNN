@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 </div>
 
-# Klorambucil: Från Hodgkins lymfom till pregerminalcenter kronisk lymfatisk leukemi/småcelligt lymfocytiskt lymfom
+## Klorambucil: Från Hodgkins lymfom till pregerminalcenter kronisk lymfatisk leukemi/småcelligt lymfocytiskt lymfom
+{: .text-alpha }
 
 ---
 

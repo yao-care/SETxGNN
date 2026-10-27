@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Lakosamid: Från epilepsi (fokala anfall) till manisk bipolär sjukdom
+## Lakosamid: Från epilepsi (fokala anfall) till manisk bipolär sjukdom
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Bexaroten: Från primärt kutant T-cellslymfom till primärt kutant B-cellslymfom
+## Bexaroten: Från primärt kutant T-cellslymfom till primärt kutant B-cellslymfom
+{: .text-alpha }
 
 ---
 

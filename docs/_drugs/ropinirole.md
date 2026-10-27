@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Ropinirol: Från restless legs-syndrom och Parkinsons sjukdom till ADHD
+## Ropinirol: Från restless legs-syndrom och Parkinsons sjukdom till ADHD
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Lenograstim: Från okänd ursprunglig indikation till primär trombocytfrisättningsstörning
+## Lenograstim: Från okänd ursprunglig indikation till primär trombocytfrisättningsstörning
+{: .text-alpha }
 
 ---
 

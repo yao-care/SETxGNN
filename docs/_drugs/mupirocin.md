@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Mupirocin: Från impetigo till pleurempyem
+## Mupirocin: Från impetigo till pleurempyem
+{: .text-alpha }
 
 ---
 

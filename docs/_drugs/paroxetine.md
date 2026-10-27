@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Paroxetin Ebb: Från ångestsyndrom och depression till Ohdo syndrom och varianter
+## Paroxetin Ebb: Från ångestsyndrom och depression till Ohdo syndrom och varianter
+{: .text-alpha }
 
 ---
 

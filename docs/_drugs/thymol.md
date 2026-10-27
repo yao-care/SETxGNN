@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Tymol: Från ingen registrerad indikation till interventrikulärt septumaneurysm
+## Tymol: Från ingen registrerad indikation till interventrikulärt septumaneurysm
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Baclofen: Från spasticitet till attention deficit-hyperactivity disorder (ADHD)
+## Baclofen: Från spasticitet till attention deficit-hyperactivity disorder (ADHD)
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Ampicillin: Från bakteriella infektioner (bl.a. urinvägsinfektion) till laryngit
+## Ampicillin: Från bakteriella infektioner (bl.a. urinvägsinfektion) till laryngit
+{: .text-alpha }
 
 ---
 

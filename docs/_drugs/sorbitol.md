@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Sorbitol: Från rektal användning (indikation ej angiven) till exercise-induced malignant hyperthermia
+## Sorbitol: Från rektal användning (indikation ej angiven) till exercise-induced malignant hyperthermia
+{: .text-alpha }
 
 ---
 

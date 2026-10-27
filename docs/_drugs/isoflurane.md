@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Isofluran: Från generell anestesi till Prinzmetal angina
+## Isofluran: Från generell anestesi till Prinzmetal angina
+{: .text-alpha }
 
 ---
 

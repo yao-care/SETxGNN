@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Treprostinil: Från pulmonell arteriell hypertension till pulmonell arteriovenös malformation
+## Treprostinil: Från pulmonell arteriell hypertension till pulmonell arteriovenös malformation
+{: .text-alpha }
 
 ---
 

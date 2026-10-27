@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Domperidon: Från gastrointestinala symtom till nefrogent syndrom med olämplig antidures (NSIAD)
+## Domperidon: Från gastrointestinala symtom till nefrogent syndrom med olämplig antidures (NSIAD)
+{: .text-alpha }
 
 ---
 

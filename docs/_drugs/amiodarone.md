@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Amiodaron: Från ventrikelflimmer till katekolaminerg polymorf ventrikulär takykardi
+## Amiodaron: Från ventrikelflimmer till katekolaminerg polymorf ventrikulär takykardi
+{: .text-alpha }
 
 ---
 

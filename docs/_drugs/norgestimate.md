@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Norgestimat: Från akne och postmenopausal osteoporos till förhöjt zink i plasma
+## Norgestimat: Från akne och postmenopausal osteoporos till förhöjt zink i plasma
+{: .text-alpha }
 
 ---
 

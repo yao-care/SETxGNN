@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Metformin: Från typ 2-diabetes till fokalt stelbenssyndrom
+## Metformin: Från typ 2-diabetes till fokalt stelbenssyndrom
+{: .text-alpha }
 
 ---
 

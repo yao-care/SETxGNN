@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Tetrabenazin: Från Huntingtons sjukdom till polycystisk njursjukdom typ 3 (med eller utan polycystisk leversjukdom)
+## Tetrabenazin: Från Huntingtons sjukdom till polycystisk njursjukdom typ 3 (med eller utan polycystisk leversjukdom)
+{: .text-alpha }
 
 ---
 

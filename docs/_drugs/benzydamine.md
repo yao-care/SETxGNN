@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Bensydamin: Från ospecificerad indikation till benign prostatahyperplasi
+## Bensydamin: Från ospecificerad indikation till benign prostatahyperplasi
+{: .text-alpha }
 
 ---
 

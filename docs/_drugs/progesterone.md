@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Progesteron: Från endometrios, endometriecancer och postmenopausal osteoporos till amenorré
+## Progesteron: Från endometrios, endometriecancer och postmenopausal osteoporos till amenorré
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Olodaterol: Från kronisk obstruktiv lungsjukdom (KOL) till bronkit
+## Olodaterol: Från kronisk obstruktiv lungsjukdom (KOL) till bronkit
+{: .text-alpha }
 
 ---
 

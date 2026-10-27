@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Pregabalin: Från ångestsyndrom, fibromyalgi och postherpetisk neuralgi till tendinit
+## Pregabalin: Från ångestsyndrom, fibromyalgi och postherpetisk neuralgi till tendinit
+{: .text-alpha }
 
 *Obs: Rapporten följer systeminstruktionens mall, där den förutsagda indikationen hämtas från den högst rankade förutsägelsen (tendinit). Den bäst underbyggda kandidaten i underlaget är dock **migrän** (rank 5), vilket behandlas separat nedan.*
 

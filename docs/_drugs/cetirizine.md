@@ -33,7 +33,8 @@ Evidensnivå: **L2** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Cetirizin: Från allergisk rinit till allergisk urtikaria
+## Cetirizin: Från allergisk rinit till allergisk urtikaria
+{: .text-alpha }
 
 ---
 

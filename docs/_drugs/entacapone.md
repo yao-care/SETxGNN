@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Entakapon: Från Parkinsons sjukdom till PLA2G6-associerad neurodegeneration
+## Entakapon: Från Parkinsons sjukdom till PLA2G6-associerad neurodegeneration
+{: .text-alpha }
 
 ---
 

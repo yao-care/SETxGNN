@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Palonosetron: Från ej angiven ursprunglig indikation till migrän
+## Palonosetron: Från ej angiven ursprunglig indikation till migrän
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Sakubitril: Från ej angiven ursprunglig indikation till småkärlssjukdom i hjärnan (typ 1, med eller utan ögonavvikelser)
+## Sakubitril: Från ej angiven ursprunglig indikation till småkärlssjukdom i hjärnan (typ 1, med eller utan ögonavvikelser)
+{: .text-alpha }
 
 ---
 

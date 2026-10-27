@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Sulthiame: Från ej angiven ursprunglig indikation till cauda equina-syndrom
+## Sulthiame: Från ej angiven ursprunglig indikation till cauda equina-syndrom
+{: .text-alpha }
 
 ---
 

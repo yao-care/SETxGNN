@@ -31,7 +31,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Pilokarpin: Från öppenvinkelglaukom och okulär hypertension till primärt ärftligt glaukom
+## Pilokarpin: Från öppenvinkelglaukom och okulär hypertension till primärt ärftligt glaukom
+{: .text-alpha }
 
 ---
 

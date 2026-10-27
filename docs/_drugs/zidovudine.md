@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Zidovudin: Från HIV-infektion och AIDS till felint förvärvat immunbristsyndrom
+## Zidovudin: Från HIV-infektion och AIDS till felint förvärvat immunbristsyndrom
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Mirtazapin: Från egentlig depression till Ohdo syndrom och varianter
+## Mirtazapin: Från egentlig depression till Ohdo syndrom och varianter
+{: .text-alpha }
 
 ---
 

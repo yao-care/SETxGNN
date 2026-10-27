@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Atropin: Från [ej angiven ursprunglig indikation] till migrän
+## Atropin: Från [ej angiven ursprunglig indikation] till migrän
+{: .text-alpha }
 
 ---
 

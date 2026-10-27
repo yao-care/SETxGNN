@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Niklosamid: Från ursprunglig indikation (ej angiven i godkännandedata) till hjärtsjukdom
+## Niklosamid: Från ursprunglig indikation (ej angiven i godkännandedata) till hjärtsjukdom
+{: .text-alpha }
 
 ---
 

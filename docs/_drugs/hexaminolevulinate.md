@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Hexaminolevulinat: Från bildgivande diagnostik vid blåscancer till bronkit
+## Hexaminolevulinat: Från bildgivande diagnostik vid blåscancer till bronkit
+{: .text-alpha }
 
 ---
 

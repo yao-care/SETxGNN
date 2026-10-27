@@ -33,7 +33,8 @@ Evidensnivå: **L1** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Tiotropium: Från bronkit, astma och lungemfysem till obstruktiv lungsjukdom
+## Tiotropium: Från bronkit, astma och lungemfysem till obstruktiv lungsjukdom
+{: .text-alpha }
 
 ---
 

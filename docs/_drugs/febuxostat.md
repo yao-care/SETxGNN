@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Febuxostat: Från hyperurikemi till renal hypourikemi
+## Febuxostat: Från hyperurikemi till renal hypourikemi
+{: .text-alpha }
 
 ---
 

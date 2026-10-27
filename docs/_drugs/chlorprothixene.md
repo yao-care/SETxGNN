@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Chlorprothixen: Från schizofreni till retinal dystrofi med eller utan extraokulära avvikelser
+## Chlorprothixen: Från schizofreni till retinal dystrofi med eller utan extraokulära avvikelser
+{: .text-alpha }
 
 ---
 

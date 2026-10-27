@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 </div>
 
-# Laktulos: Från hepatisk encefalopati, leverkoma och förstoppning till akut urinsyranefropati
+## Laktulos: Från hepatisk encefalopati, leverkoma och förstoppning till akut urinsyranefropati
+{: .text-alpha }
 
 ---
 

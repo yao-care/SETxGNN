@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Mannitol: Från ökat intrakraniellt tryck och hjärnödem till nefrogent syndrom med olämplig antidiures
+## Mannitol: Från ökat intrakraniellt tryck och hjärnödem till nefrogent syndrom med olämplig antidiures
+{: .text-alpha }
 
 ---
 

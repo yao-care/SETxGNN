@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Acitretin: Från ej angiven ursprunglig indikation till akne (disease)
+## Acitretin: Från ej angiven ursprunglig indikation till akne (disease)
+{: .text-alpha }
 
 ---
 

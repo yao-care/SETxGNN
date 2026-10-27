@@ -32,7 +32,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-# BORTEZOMIB: Drug Repurposing Evaluation — Awaiting TxGNN Predictions
+## BORTEZOMIB: Drug Repurposing Evaluation — Awaiting TxGNN Predictions
+{: .text-alpha }
 
 ## One-Sentence Summary
 

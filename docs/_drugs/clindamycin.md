@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Klindamycin: Från akne och bakteriella infektioner till punktformad epitelial keratokonjunktivit
+## Klindamycin: Från akne och bakteriella infektioner till punktformad epitelial keratokonjunktivit
+{: .text-alpha }
 
 ---
 

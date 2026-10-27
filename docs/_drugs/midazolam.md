@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Midazolam: Från ångest till sömnlöshet
+## Midazolam: Från ångest till sömnlöshet
+{: .text-alpha }
 
 ---
 

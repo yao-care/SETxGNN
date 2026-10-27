@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Danaparoid: Från (ej angiven indikation) till Glanzmanns trombasteni
+## Danaparoid: Från (ej angiven indikation) till Glanzmanns trombasteni
+{: .text-alpha }
 
 ---
 

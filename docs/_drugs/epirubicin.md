@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Epirubicin: Från bröstcancer till primärt pulmonellt lymfom
+## Epirubicin: Från bröstcancer till primärt pulmonellt lymfom
+{: .text-alpha }
 
 ---
 

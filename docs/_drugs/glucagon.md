@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Glucagon: Från ingen dokumenterad indikation till irritabel tarm (IBS)
+## Glucagon: Från ingen dokumenterad indikation till irritabel tarm (IBS)
+{: .text-alpha }
 
 ---
 

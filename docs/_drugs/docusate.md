@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Dokusat: Från järnbristanemi och förstoppning till Plummer-Vinsons syndrom
+## Dokusat: Från järnbristanemi och förstoppning till Plummer-Vinsons syndrom
+{: .text-alpha }
 
 ---
 

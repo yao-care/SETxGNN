@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Empagliflozin: Från typ 2-diabetes till fokalt stelbensyndrom
+## Empagliflozin: Från typ 2-diabetes till fokalt stelbensyndrom
+{: .text-alpha }
 
 ---
 

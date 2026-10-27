@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Kalcifediol: Från hyperkalcemi och rakit till D-vitaminbrist
+## Kalcifediol: Från hyperkalcemi och rakit till D-vitaminbrist
+{: .text-alpha }
 
 ## Sammanfattning
 

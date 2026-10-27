@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **8** st
 
 </div>
 
-# Propafenon: Från förmaksflimmer och ventrikeltakykardi till katekolaminerg polymorf ventrikeltakykardi
+## Propafenon: Från förmaksflimmer och ventrikeltakykardi till katekolaminerg polymorf ventrikeltakykardi
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Cystein: Från bronkit och cystisk fibros till torrt öga-syndrom
+## Cystein: Från bronkit och cystisk fibros till torrt öga-syndrom
+{: .text-alpha }
 
 ---
 

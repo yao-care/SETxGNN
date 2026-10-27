@@ -39,7 +39,8 @@ Now I have all the context I need. The Evidence Pack's `predicted_indications` i
 
 ---
 
-# BOSUTINIB: From Chronic Myeloid Leukaemia to Blast Phase CML, BCR-ABL1 Positive
+## BOSUTINIB: From Chronic Myeloid Leukaemia to Blast Phase CML, BCR-ABL1 Positive
+{: .text-alpha }
 
 ## One-Sentence Summary
 

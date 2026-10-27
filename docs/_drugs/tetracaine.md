@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-# Tetrakain: Från dermatit till akrodermatit chronica atrophicans
+## Tetrakain: Från dermatit till akrodermatit chronica atrophicans
+{: .text-alpha }
 
 ---
 

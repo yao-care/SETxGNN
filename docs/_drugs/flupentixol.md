@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-# Flupentixol: Från schizofreni till retinal dystrofi med eller utan extraokulära avvikelser
+## Flupentixol: Från schizofreni till retinal dystrofi med eller utan extraokulära avvikelser
+{: .text-alpha }
 
 ---
 

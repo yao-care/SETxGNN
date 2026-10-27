@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Lenalidomid: Från plasmacellsmyelom till myeloisk leukemi
+## Lenalidomid: Från plasmacellsmyelom till myeloisk leukemi
+{: .text-alpha }
 
 ---
 

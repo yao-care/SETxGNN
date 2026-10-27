@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Sunitinib: Från njurcellscancer till liposarkom
+## Sunitinib: Från njurcellscancer till liposarkom
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Itrakonazol: Från svampinfektioner (t.ex. candidainfektion, histoplasmos och aspergillos) till pneumocystos
+## Itrakonazol: Från svampinfektioner (t.ex. candidainfektion, histoplasmos och aspergillos) till pneumocystos
+{: .text-alpha }
 
 ---
 

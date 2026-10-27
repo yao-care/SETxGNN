@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Nabumeton: Från artrit och artros till akromesomelisk dysplasi, Hunter-Thompson-typ
+## Nabumeton: Från artrit och artros till akromesomelisk dysplasi, Hunter-Thompson-typ
+{: .text-alpha }
 
 ---
 

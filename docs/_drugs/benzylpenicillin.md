@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Bensylpenicillin: Från bakteriella infektioner till perikoronit
+## Bensylpenicillin: Från bakteriella infektioner till perikoronit
+{: .text-alpha }
 
 ---
 

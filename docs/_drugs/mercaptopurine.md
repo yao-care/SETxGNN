@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Merkaptopurin: Från akut lymfatisk leukemi till myeloisk leukemi
+## Merkaptopurin: Från akut lymfatisk leukemi till myeloisk leukemi
+{: .text-alpha }
 
 ---
 

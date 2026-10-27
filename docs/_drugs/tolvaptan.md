@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Tolvaptan: Från inadekvat ADH-syndrom och polycystisk njursjukdom till polycystisk njursjukdom 3 med eller utan polycystisk leversjukdom
+## Tolvaptan: Från inadekvat ADH-syndrom och polycystisk njursjukdom till polycystisk njursjukdom 3 med eller utan polycystisk leversjukdom
+{: .text-alpha }
 
 ---
 

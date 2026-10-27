@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Nintedanib: Från icke-småcellig lungcancer och idiopatisk lungfibros till dermatofibrosarcoma protuberans
+## Nintedanib: Från icke-småcellig lungcancer och idiopatisk lungfibros till dermatofibrosarcoma protuberans
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Prilokain: Från för tidig utlösning till papillär konjunktivit
+## Prilokain: Från för tidig utlösning till papillär konjunktivit
+{: .text-alpha }
 
 ---
 

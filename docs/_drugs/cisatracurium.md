@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Cisatracurium: Från neuromuskulär blockad vid anestesi till cauda equina-syndrom
+## Cisatracurium: Från neuromuskulär blockad vid anestesi till cauda equina-syndrom
+{: .text-alpha }
 
 ---
 

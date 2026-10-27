@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Ambrisentan: Från pulmonell arteriell hypertension till pulmonell arteriovenös missbildning
+## Ambrisentan: Från pulmonell arteriell hypertension till pulmonell arteriovenös missbildning
+{: .text-alpha }
 
 ---
 

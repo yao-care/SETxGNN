@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Fulvestrant: Från bröstcancer till HIV-infektion
+## Fulvestrant: Från bröstcancer till HIV-infektion
+{: .text-alpha }
 
 ---
 

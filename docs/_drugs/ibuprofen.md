@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Ibuprofen: Från reumatoid artrit och smärttillstånd till akromesomelisk dysplasi av Hunter-Thompson-typ
+## Ibuprofen: Från reumatoid artrit och smärttillstånd till akromesomelisk dysplasi av Hunter-Thompson-typ
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Filgrastim: Från konstitutionell neutropeni till primär frisättningsstörning av trombocyter
+## Filgrastim: Från konstitutionell neutropeni till primär frisättningsstörning av trombocyter
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Metyrapon: Från ursprunglig indikation (ej angiven i godkännandet) till ansträngningsutlöst malign hypertermi
+## Metyrapon: Från ursprunglig indikation (ej angiven i godkännandet) till ansträngningsutlöst malign hypertermi
+{: .text-alpha }
 
 ---
 

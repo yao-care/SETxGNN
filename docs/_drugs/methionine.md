@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Metionin: Från ej angiven ursprunglig indikation till akne
+## Metionin: Från ej angiven ursprunglig indikation till akne
+{: .text-alpha }
 
 ---
 

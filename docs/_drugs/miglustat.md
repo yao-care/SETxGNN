@@ -33,7 +33,8 @@ Evidensnivå: **L2** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Miglustat: Från Gauchers sjukdom till Tay-Sachs sjukdom
+## Miglustat: Från Gauchers sjukdom till Tay-Sachs sjukdom
+{: .text-alpha }
 
 ---
 

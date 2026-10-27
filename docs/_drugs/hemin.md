@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Hemin: Från akut intermittent porfyri till trombocytopen purpura
+## Hemin: Från akut intermittent porfyri till trombocytopen purpura
+{: .text-alpha }
 
 ---
 

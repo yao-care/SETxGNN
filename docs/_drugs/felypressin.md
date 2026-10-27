@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Felypressin: Från okänd ursprunglig indikation till läkemedelsinducerad osteoporos
+## Felypressin: Från okänd ursprunglig indikation till läkemedelsinducerad osteoporos
+{: .text-alpha }
 
 ---
 

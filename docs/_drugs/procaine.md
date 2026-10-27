@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Prokain: Från ej angiven ursprunglig indikation till metemoglobinemi
+## Prokain: Från ej angiven ursprunglig indikation till metemoglobinemi
+{: .text-alpha }
 
 ---
 

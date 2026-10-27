@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Doxorubicin: Från leukemi och lymfom till Ewing sarkom
+## Doxorubicin: Från leukemi och lymfom till Ewing sarkom
+{: .text-alpha }
 
 ---
 

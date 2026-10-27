@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Budesonid: Från Crohns sjukdom och astma till atopiskt eksem
+## Budesonid: Från Crohns sjukdom och astma till atopiskt eksem
+{: .text-alpha }
 
 ---
 

@@ -32,7 +32,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-# Metronidazole: Drug Repurposing Pre-Screening Report
+## Metronidazole: Drug Repurposing Pre-Screening Report
+{: .text-alpha }
 
 ## One-Sentence Summary
 

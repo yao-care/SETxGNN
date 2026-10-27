@@ -33,7 +33,8 @@ Evidensnivå: **L2** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Dexametason: Från binjurebarksinsufficiens och inflammatoriska sjukdomar till alopecia areata
+## Dexametason: Från binjurebarksinsufficiens och inflammatoriska sjukdomar till alopecia areata
+{: .text-alpha }
 
 ---
 

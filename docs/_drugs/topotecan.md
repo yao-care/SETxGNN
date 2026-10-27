@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Topotecan: Från äggstockscancer till bröstcancer
+## Topotecan: Från äggstockscancer till bröstcancer
+{: .text-alpha }
 
 ---
 

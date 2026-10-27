@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Levotyroxin: Från hypotyreos till endemisk struma
+## Levotyroxin: Från hypotyreos till endemisk struma
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 </div>
 
-# Losartan: Från hypertoni och diabetesnefropati till malign renovaskulär hypertoni
+## Losartan: Från hypertoni och diabetesnefropati till malign renovaskulär hypertoni
+{: .text-alpha }
 
 ---
 

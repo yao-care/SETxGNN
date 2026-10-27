@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Aztreonam: Från urinvägsinfektion till hyperamylasemi
+## Aztreonam: Från urinvägsinfektion till hyperamylasemi
+{: .text-alpha }
 
 ---
 

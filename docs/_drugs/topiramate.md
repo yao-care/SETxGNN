@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-# Topiramat: Från epilepsi till trigeminusnervtumör
+## Topiramat: Från epilepsi till trigeminusnervtumör
+{: .text-alpha }
 
 ---
 

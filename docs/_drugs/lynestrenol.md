@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Lynestrenol: Från ej angiven ursprunglig indikation till migrän (migrän med eller utan aura, benägenhet)
+## Lynestrenol: Från ej angiven ursprunglig indikation till migrän (migrän med eller utan aura, benägenhet)
+{: .text-alpha }
 
 ---
 

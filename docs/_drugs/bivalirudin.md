@@ -32,7 +32,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-# Bivalirudin: Evaluation Report — No Predicted Indication Available
+## Bivalirudin: Evaluation Report — No Predicted Indication Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

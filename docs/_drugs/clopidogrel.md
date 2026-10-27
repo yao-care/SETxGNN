@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 </div>
 
-# Clopidogrel: Från akut koronart syndrom till migrän med hjärnstamsaura
+## Clopidogrel: Från akut koronart syndrom till migrän med hjärnstamsaura
+{: .text-alpha }
 
 ---
 

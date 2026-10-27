@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Naratriptan: Från migrän till migrän med hjärnstamsaura
+## Naratriptan: Från migrän till migrän med hjärnstamsaura
+{: .text-alpha }
 
 ---
 

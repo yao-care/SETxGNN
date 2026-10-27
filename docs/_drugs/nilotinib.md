@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Nilotinib: Från kronisk myeloisk leukemi (BCR-ABL1-positiv) till dermatofibrosarcoma protuberans
+## Nilotinib: Från kronisk myeloisk leukemi (BCR-ABL1-positiv) till dermatofibrosarcoma protuberans
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Granisetron: Från illamående och kräkningar vid cytostatikabehandling till manisk bipolär sjukdom
+## Granisetron: Från illamående och kräkningar vid cytostatikabehandling till manisk bipolär sjukdom
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Prednikarbat: Från dermatit och eksem till vulvär inverterad follikulär keratos
+## Prednikarbat: Från dermatit och eksem till vulvär inverterad follikulär keratos
+{: .text-alpha }
 
 ---
 

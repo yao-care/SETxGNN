@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Oxazepam: Från alkoholabstinensdelirium och ångest till insomni
+## Oxazepam: Från alkoholabstinensdelirium och ångest till insomni
+{: .text-alpha }
 
 ---
 

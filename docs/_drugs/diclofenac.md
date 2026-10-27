@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Diklofenak: Från aktinisk keratos och reumatiska ledsjukdomar till hypotrichosis simplex of the scalp
+## Diklofenak: Från aktinisk keratos och reumatiska ledsjukdomar till hypotrichosis simplex of the scalp
+{: .text-alpha }
 
 ---
 

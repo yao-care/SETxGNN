@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Entekavir: Från kronisk hepatit B-virusinfektion till kronisk hepatit C-virusinfektion
+## Entekavir: Från kronisk hepatit B-virusinfektion till kronisk hepatit C-virusinfektion
+{: .text-alpha }
 
 ---
 

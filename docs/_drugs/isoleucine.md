@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Isoleucin: Från aminosyratillförsel (parenteral nutrition) till gastropares
+## Isoleucin: Från aminosyratillförsel (parenteral nutrition) till gastropares
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Naproxen: Från inflammatoriska smärttillstånd och ledsjukdomar till brachydaktyli-syndaktyli-syndrom
+## Naproxen: Från inflammatoriska smärttillstånd och ledsjukdomar till brachydaktyli-syndaktyli-syndrom
+{: .text-alpha }
 
 ---
 

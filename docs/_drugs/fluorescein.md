@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Fluorescein: Från diagnostiskt ögonläkemedel till Prinzmetals angina
+## Fluorescein: Från diagnostiskt ögonläkemedel till Prinzmetals angina
+{: .text-alpha }
 
 ---
 

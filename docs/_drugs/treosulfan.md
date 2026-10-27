@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Treosulfan: Från [ursprunglig indikation ej angiven] till diabetisk katarakt
+## Treosulfan: Från [ursprunglig indikation ej angiven] till diabetisk katarakt
+{: .text-alpha }
 
 ---
 

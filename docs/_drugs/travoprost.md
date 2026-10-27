@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Travoprost: Från öppenvinkelglaukom och okulär hypertension till visceral kalcifylaxi
+## Travoprost: Från öppenvinkelglaukom och okulär hypertension till visceral kalcifylaxi
+{: .text-alpha }
 
 ---
 

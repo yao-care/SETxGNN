@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Aprepitant: Från kemoterapiinducerade illamående och kräkningar till nefrogent syndrom med inadekvat antidures
+## Aprepitant: Från kemoterapiinducerade illamående och kräkningar till nefrogent syndrom med inadekvat antidures
+{: .text-alpha }
 
 ---
 

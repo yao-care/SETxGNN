@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Levobupivakain: Från okänd ursprunglig indikation till gastroduodenit
+## Levobupivakain: Från okänd ursprunglig indikation till gastroduodenit
+{: .text-alpha }
 
 ---
 

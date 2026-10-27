@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Mesalazin: Från ulcerös kolit till medfödd hypotrikos med juvenil makuladystrofi
+## Mesalazin: Från ulcerös kolit till medfödd hypotrikos med juvenil makuladystrofi
+{: .text-alpha }
 
 ---
 

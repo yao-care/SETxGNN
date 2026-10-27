@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Paliperidon: Från schizofreni till retinal dystrofi (med eller utan extraokulära avvikelser)
+## Paliperidon: Från schizofreni till retinal dystrofi (med eller utan extraokulära avvikelser)
+{: .text-alpha }
 
 ---
 

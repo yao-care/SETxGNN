@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Estriol: Från vaginala/hormonella besvär efter menopaus till amenorré
+## Estriol: Från vaginala/hormonella besvär efter menopaus till amenorré
+{: .text-alpha }
 
 ---
 

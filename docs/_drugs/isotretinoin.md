@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Isotretinoin: Från hypertoni till malign renovaskulär hypertoni
+## Isotretinoin: Från hypertoni till malign renovaskulär hypertoni
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Klortalidon: Från hypertoni och hjärtsvikt till primärt ärftligt glaukom
+## Klortalidon: Från hypertoni och hjärtsvikt till primärt ärftligt glaukom
+{: .text-alpha }
 
 ---
 

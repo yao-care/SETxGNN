@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Balsalazid: Från ulcerös kolit till gikt
+## Balsalazid: Från ulcerös kolit till gikt
+{: .text-alpha }
 
 ---
 

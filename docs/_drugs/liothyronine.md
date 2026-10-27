@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Liotyronin: Från hypotyreos till nodulär struma
+## Liotyronin: Från hypotyreos till nodulär struma
+{: .text-alpha }
 
 ## Sammanfattning
 

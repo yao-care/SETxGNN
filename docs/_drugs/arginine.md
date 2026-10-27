@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Arginin: Från parenteral nutrition (aminosyratillförsel) till gastropares
+## Arginin: Från parenteral nutrition (aminosyratillförsel) till gastropares
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Plerixafor: Från plasmacellsmyelom till indolent plasmacellsmyelom
+## Plerixafor: Från plasmacellsmyelom till indolent plasmacellsmyelom
+{: .text-alpha }
 
 ---
 

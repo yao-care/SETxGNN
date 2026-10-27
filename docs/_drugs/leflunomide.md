@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Leflunomid: Från psoriasisartrit och reumatoid artrit till brakydaktyli-syndaktyli-syndrom
+## Leflunomid: Från psoriasisartrit och reumatoid artrit till brakydaktyli-syndaktyli-syndrom
+{: .text-alpha }
 
 ---
 

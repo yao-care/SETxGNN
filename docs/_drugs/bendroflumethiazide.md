@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Bendroflumetiazid: Från hypertoni till malign hypertensiv njursjukdom
+## Bendroflumetiazid: Från hypertoni till malign hypertensiv njursjukdom
+{: .text-alpha }
 
 ---
 

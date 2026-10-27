@@ -31,7 +31,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Sumatriptan: Från migrän till migrän med hjärnstamsaura
+## Sumatriptan: Från migrän till migrän med hjärnstamsaura
+{: .text-alpha }
 
 ---
 

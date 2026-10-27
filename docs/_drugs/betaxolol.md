@@ -31,7 +31,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Betaxolol: Från högt blodtryck och öppenvinkelglaukom till primärt ärftligt glaukom
+## Betaxolol: Från högt blodtryck och öppenvinkelglaukom till primärt ärftligt glaukom
+{: .text-alpha }
 
 ---
 

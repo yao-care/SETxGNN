@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Dienogest: Från endometrios till amenorré
+## Dienogest: Från endometrios till amenorré
+{: .text-alpha }
 
 ---
 

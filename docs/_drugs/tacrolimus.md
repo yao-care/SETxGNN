@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Takrolimus: Från atopiskt eksem till seborroisk dermatit
+## Takrolimus: Från atopiskt eksem till seborroisk dermatit
+{: .text-alpha }
 
 ---
 

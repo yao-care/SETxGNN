@@ -33,7 +33,8 @@ Evidensnivå: **L2** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Propofol: Från anestesi och sedering till migrän
+## Propofol: Från anestesi och sedering till migrän
+{: .text-alpha }
 
 ---
 

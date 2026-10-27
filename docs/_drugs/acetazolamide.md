@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Acetazolamid: Från absensepilepsi till exercise-inducerad malign hypertermi
+## Acetazolamid: Från absensepilepsi till exercise-inducerad malign hypertermi
+{: .text-alpha }
 
 ---
 

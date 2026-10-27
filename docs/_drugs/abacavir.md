@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Abakavir: Från HIV-infektion till infektion med simian immunbristvirus (SIV)
+## Abakavir: Från HIV-infektion till infektion med simian immunbristvirus (SIV)
+{: .text-alpha }
 
 ---
 

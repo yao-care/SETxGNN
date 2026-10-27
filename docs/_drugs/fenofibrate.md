@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Fenofibrat: Från hypertriglyceridemi till homozygot familjär hyperkolesterolemi
+## Fenofibrat: Från hypertriglyceridemi till homozygot familjär hyperkolesterolemi
+{: .text-alpha }
 
 ---
 

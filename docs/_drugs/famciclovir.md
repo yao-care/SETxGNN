@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-# Famciklovir: Från herpes zoster till postinfektiös neuralgi
+## Famciklovir: Från herpes zoster till postinfektiös neuralgi
+{: .text-alpha }
 
 ---
 

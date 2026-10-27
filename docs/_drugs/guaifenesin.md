@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Guaifenesin: Från allergisk rinit och förkylning till sjukdom i näshålan
+## Guaifenesin: Från allergisk rinit och förkylning till sjukdom i näshålan
+{: .text-alpha }
 
 ---
 

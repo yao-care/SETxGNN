@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-# Atenolol: Från högt blodtryck och hjärtinfarkt till posterolateral hjärtinfarkt
+## Atenolol: Från högt blodtryck och hjärtinfarkt till posterolateral hjärtinfarkt
+{: .text-alpha }
 
 ---
 

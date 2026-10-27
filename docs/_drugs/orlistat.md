@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Orlistat: Från fetma till hypervitaminos
+## Orlistat: Från fetma till hypervitaminos
+{: .text-alpha }
 
 ---
 

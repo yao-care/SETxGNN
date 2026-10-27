@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Cidofovir: Från ej angiven indikation till skleroserande kolangit
+## Cidofovir: Från ej angiven indikation till skleroserande kolangit
+{: .text-alpha }
 
 ---
 

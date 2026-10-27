@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Lurasidon: Från schizofreni och bipolär sjukdom till manisk bipolär affektiv sjukdom
+## Lurasidon: Från schizofreni och bipolär sjukdom till manisk bipolär affektiv sjukdom
+{: .text-alpha }
 
 ---
 

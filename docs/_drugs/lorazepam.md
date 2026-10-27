@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Lorazepam: Från ångest och epilepsi till trigeminusnervsneoplasm
+## Lorazepam: Från ångest och epilepsi till trigeminusnervsneoplasm
+{: .text-alpha }
 
 ---
 

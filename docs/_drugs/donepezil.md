@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **8** st
 
 </div>
 
-# Donepezil: Från Alzheimers sjukdom till kronisk tics-sjukdom
+## Donepezil: Från Alzheimers sjukdom till kronisk tics-sjukdom
+{: .text-alpha }
 
 ---
 

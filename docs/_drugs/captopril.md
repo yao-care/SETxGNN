@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Kaptopril: Från hypertoni och diabetesnefropati till malign renovaskulär hypertoni
+## Kaptopril: Från hypertoni och diabetesnefropati till malign renovaskulär hypertoni
+{: .text-alpha }
 
 ---
 

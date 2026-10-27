@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 </div>
 
-# Amoxicillin: Från urinvägsinfektion till hyperamylasemi
+## Amoxicillin: Från urinvägsinfektion till hyperamylasemi
+{: .text-alpha }
 
 ---
 

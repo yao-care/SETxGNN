@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Klotrimazol: Från svampinfektioner i hud och slemhinnor till akne
+## Klotrimazol: Från svampinfektioner i hud och slemhinnor till akne
+{: .text-alpha }
 
 ---
 

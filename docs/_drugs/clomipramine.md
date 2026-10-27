@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Klomipramin: Från tvångssyndrom till ångestsyndrom
+## Klomipramin: Från tvångssyndrom till ångestsyndrom
+{: .text-alpha }
 
 ---
 

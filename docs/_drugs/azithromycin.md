@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Azitromycin: Från streptokockinfektion till polyklonalt hyperviskositetssyndrom
+## Azitromycin: Från streptokockinfektion till polyklonalt hyperviskositetssyndrom
+{: .text-alpha }
 
 ---
 

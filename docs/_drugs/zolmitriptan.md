@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Zolmitriptan: Från migrän till migrän med hjärnstamsaura
+## Zolmitriptan: Från migrän till migrän med hjärnstamsaura
+{: .text-alpha }
 
 ---
 

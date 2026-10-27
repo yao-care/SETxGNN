@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Axitinib: Från njurcellscancer till njurcellscancer associerad med Xp11.2-translokation/TFE3-genfusion
+## Axitinib: Från njurcellscancer till njurcellscancer associerad med Xp11.2-translokation/TFE3-genfusion
+{: .text-alpha }
 
 ---
 

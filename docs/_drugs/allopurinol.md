@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Allopurinol: Från gikt till hepatisk porfyri
+## Allopurinol: Från gikt till hepatisk porfyri
+{: .text-alpha }
 
 ---
 

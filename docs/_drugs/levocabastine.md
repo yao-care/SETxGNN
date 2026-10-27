@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Levocabastin: Från atopisk konjunktivit till allergisk urtikaria
+## Levocabastin: Från atopisk konjunktivit till allergisk urtikaria
+{: .text-alpha }
 
 ---
 

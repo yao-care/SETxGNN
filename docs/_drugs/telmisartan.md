@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Telmisartan: Från hypertoni till Prinzmetal angina
+## Telmisartan: Från hypertoni till Prinzmetal angina
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Ifosfamid: Från cancerbehandling med alkylerande cytostatika till bröstcancer hos kvinnor
+## Ifosfamid: Från cancerbehandling med alkylerande cytostatika till bröstcancer hos kvinnor
+{: .text-alpha }
 
 ---
 

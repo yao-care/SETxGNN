@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Docetaxel: Från icke-småcellig lungcancer, prostatacancer, huvud-halscancer, magcancer och bröstcancer till kvinnlig bröstcancer
+## Docetaxel: Från icke-småcellig lungcancer, prostatacancer, huvud-halscancer, magcancer och bröstcancer till kvinnlig bröstcancer
+{: .text-alpha }
 
 ---
 

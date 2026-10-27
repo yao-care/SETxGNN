@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Posakonazol: Från kromomykos och andra svamp­infektioner till pneumocystos
+## Posakonazol: Från kromomykos och andra svamp­infektioner till pneumocystos
+{: .text-alpha }
 
 ---
 

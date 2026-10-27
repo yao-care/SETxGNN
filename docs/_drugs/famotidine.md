@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Famotidin: Från magsår och reflux till magsår (peptiskt sårsjukdom)
+## Famotidin: Från magsår och reflux till magsår (peptiskt sårsjukdom)
+{: .text-alpha }
 
 ---
 

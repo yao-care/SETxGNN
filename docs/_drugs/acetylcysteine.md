@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Acetylcystein: Från bronkit till trombotisk sjukdom
+## Acetylcystein: Från bronkit till trombotisk sjukdom
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Artikain: Från lokalbedövning (indikationstext saknas) till gikt
+## Artikain: Från lokalbedövning (indikationstext saknas) till gikt
+{: .text-alpha }
 
 ---
 

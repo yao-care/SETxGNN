@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Oxybutynin: Från överaktiv blåsa till restless legs syndrome
+## Oxybutynin: Från överaktiv blåsa till restless legs syndrome
+{: .text-alpha }
 
 ---
 

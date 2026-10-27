@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Mexiletin: Från kammararytmier till hypertrikos
+## Mexiletin: Från kammararytmier till hypertrikos
+{: .text-alpha }
 
 ---
 

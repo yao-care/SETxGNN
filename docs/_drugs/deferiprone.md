@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-# Deferipron: Från hemosideros och beta-talassemi till hepatisk porfyri
+## Deferipron: Från hemosideros och beta-talassemi till hepatisk porfyri
+{: .text-alpha }
 
 ---
 

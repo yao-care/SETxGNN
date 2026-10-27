@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Ritonavir: Från HIV-infektion och hepatit C till simian immunbristvirusinfektion
+## Ritonavir: Från HIV-infektion och hepatit C till simian immunbristvirusinfektion
+{: .text-alpha }
 
 ---
 

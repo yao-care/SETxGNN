@@ -31,7 +31,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Teriflunomid: Från multipel skleros till skovvis förlöpande multipel skleros (RRMS)
+## Teriflunomid: Från multipel skleros till skovvis förlöpande multipel skleros (RRMS)
+{: .text-alpha }
 
 ---
 

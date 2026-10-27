@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Nystatin: Från kutan candidiasis till vulvovaginit
+## Nystatin: Från kutan candidiasis till vulvovaginit
+{: .text-alpha }
 
 ---
 

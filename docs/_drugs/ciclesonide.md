@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Ciclesonide: Från astma och allergisk rinit till atopiskt eksem
+## Ciclesonide: Från astma och allergisk rinit till atopiskt eksem
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Biotin: Från näringsrelaterad biotinbrist till dyspepsi
+## Biotin: Från näringsrelaterad biotinbrist till dyspepsi
+{: .text-alpha }
 
 ---
 

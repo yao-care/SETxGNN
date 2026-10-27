@@ -32,7 +32,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-# Linezolid: Drug Repurposing Evaluation — Awaiting Prediction Data
+## Linezolid: Drug Repurposing Evaluation — Awaiting Prediction Data
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Ketamin: Från ej angiven ursprunglig indikation till huvudvärkssjukdom (headache disorder)
+## Ketamin: Från ej angiven ursprunglig indikation till huvudvärkssjukdom (headache disorder)
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Dexketoprofen: Från ej angiven indikation till tendinit
+## Dexketoprofen: Från ej angiven indikation till tendinit
+{: .text-alpha }
 
 ---
 

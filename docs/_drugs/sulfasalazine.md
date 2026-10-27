@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Sulfasalazin medac: Från reumatoid artrit till artros
+## Sulfasalazin medac: Från reumatoid artrit till artros
+{: .text-alpha }
 
 ---
 

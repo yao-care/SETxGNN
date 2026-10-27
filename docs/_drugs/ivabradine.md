@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Ivabradin: Från hjärtsjukdom (indikation ej angiven i data) till hypertrikos
+## Ivabradin: Från hjärtsjukdom (indikation ej angiven i data) till hypertrikos
+{: .text-alpha }
 
 ## Sammanfattning
 

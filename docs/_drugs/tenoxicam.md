@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Tenoxikam: Från artrit och ledsjukdom till reumatoid artrit
+## Tenoxikam: Från artrit och ledsjukdom till reumatoid artrit
+{: .text-alpha }
 
 ---
 

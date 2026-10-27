@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Rocuronium: Från neuromuskulär blockad vid anestesi till migrän
+## Rocuronium: Från neuromuskulär blockad vid anestesi till migrän
+{: .text-alpha }
 
 ---
 

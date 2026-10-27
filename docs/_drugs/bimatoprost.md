@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Bimatoprost: Från öppenvinkelglaukom till missbildningssyndrom med dental och/eller parodontal komponent
+## Bimatoprost: Från öppenvinkelglaukom till missbildningssyndrom med dental och/eller parodontal komponent
+{: .text-alpha }
 
 ---
 

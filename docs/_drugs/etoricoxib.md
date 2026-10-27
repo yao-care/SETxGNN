@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Etoricoxib: Från okänd ursprunglig indikation till migrän
+## Etoricoxib: Från okänd ursprunglig indikation till migrän
+{: .text-alpha }
 
 ---
 

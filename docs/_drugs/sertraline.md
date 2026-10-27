@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 </div>
 
-# Sertralin: Från ångestsyndrom till schizoid personlighetsstörning
+## Sertralin: Från ångestsyndrom till schizoid personlighetsstörning
+{: .text-alpha }
 
 ---
 

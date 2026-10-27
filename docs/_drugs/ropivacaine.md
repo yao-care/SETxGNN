@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Ropivacain: Från lokalanestesi till migrän
+## Ropivacain: Från lokalanestesi till migrän
+{: .text-alpha }
 
 ---
 

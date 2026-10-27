@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Dorzolamid: Från öppenvinkelglaukom till glaukom 1, öppenvinkel (primärt öppenvinkelglaukom)
+## Dorzolamid: Från öppenvinkelglaukom till glaukom 1, öppenvinkel (primärt öppenvinkelglaukom)
+{: .text-alpha }
 
 ---
 

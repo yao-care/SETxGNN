@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Aceklofenak: Från reumatoid artrit till brachyolmia-amelogenesis imperfecta-syndrom
+## Aceklofenak: Från reumatoid artrit till brachyolmia-amelogenesis imperfecta-syndrom
+{: .text-alpha }
 
 ---
 

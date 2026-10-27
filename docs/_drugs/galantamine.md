@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-# Galantamin: Från Alzheimers sjukdom till extrapyramidala rörelsestörningar
+## Galantamin: Från Alzheimers sjukdom till extrapyramidala rörelsestörningar
+{: .text-alpha }
 
 ---
 

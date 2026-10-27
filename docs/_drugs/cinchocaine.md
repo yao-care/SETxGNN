@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Cinchocaine: Från dermatit till bronkit
+## Cinchocaine: Från dermatit till bronkit
+{: .text-alpha }
 
 ---
 

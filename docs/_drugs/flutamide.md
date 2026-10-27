@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Flutamid: Från prostatacancer till prostatacancer/hjärncancer-känslighet
+## Flutamid: Från prostatacancer till prostatacancer/hjärncancer-känslighet
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Doxycyklin: Från bakteriella infektioner (t.ex. bronkit, akne, lunginflammation) till punktformad epitelial keratokonjunktivit
+## Doxycyklin: Från bakteriella infektioner (t.ex. bronkit, akne, lunginflammation) till punktformad epitelial keratokonjunktivit
+{: .text-alpha }
 
 ---
 

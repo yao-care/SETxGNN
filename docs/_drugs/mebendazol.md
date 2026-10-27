@@ -32,7 +32,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-# MEBENDAZOL: Evaluation Hold — Critical Data Gaps Prevent Full Assessment
+## MEBENDAZOL: Evaluation Hold — Critical Data Gaps Prevent Full Assessment
+{: .text-alpha }
 
 ## One-Sentence Summary
 

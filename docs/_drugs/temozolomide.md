@@ -33,7 +33,8 @@ Evidensnivå: **L1** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Temozolomid STADA (temozolomid): Från anaplastiskt astrocytom och glioblastom till vuxna astrocytära tumörer
+## Temozolomid STADA (temozolomid): Från anaplastiskt astrocytom och glioblastom till vuxna astrocytära tumörer
+{: .text-alpha }
 
 ---
 

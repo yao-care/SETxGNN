@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Nortriptylin: Från ångestsyndrom, neuros och dysthymi till ADHD
+## Nortriptylin: Från ångestsyndrom, neuros och dysthymi till ADHD
+{: .text-alpha }
 
 ---
 

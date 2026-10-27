@@ -33,7 +33,8 @@ Evidensnivå: **L2** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Fludarabin: Från ospecificerad ursprunglig indikation till plasmacellsmyelom
+## Fludarabin: Från ospecificerad ursprunglig indikation till plasmacellsmyelom
+{: .text-alpha }
 
 ---
 

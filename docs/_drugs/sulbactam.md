@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Sulbactam: Från kolangit och stafylokockinfektioner till bakteriell artrit
+## Sulbactam: Från kolangit och stafylokockinfektioner till bakteriell artrit
+{: .text-alpha }
 
 ---
 

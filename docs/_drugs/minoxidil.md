@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Minoxidil: Från hypertoni och håravfall till hypotrichosis simplex i hårbotten
+## Minoxidil: Från hypertoni och håravfall till hypotrichosis simplex i hårbotten
+{: .text-alpha }
 
 ---
 

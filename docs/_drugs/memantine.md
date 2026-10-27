@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Memantin: Från ej angiven ursprunglig indikation till migrän
+## Memantin: Från ej angiven ursprunglig indikation till migrän
+{: .text-alpha }
 
 ---
 

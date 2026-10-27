@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Bicalutamid: Från prostatacancer till hypertrikos
+## Bicalutamid: Från prostatacancer till hypertrikos
+{: .text-alpha }
 
 ## Sammanfattning
 

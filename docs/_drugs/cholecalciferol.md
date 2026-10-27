@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Kolekalciferol: Från D-vitaminbrist och benrelaterade sjukdomar till familjär isolerad hypoparatyreoidism orsakad av nedsatt PTH-sekretion
+## Kolekalciferol: Från D-vitaminbrist och benrelaterade sjukdomar till familjär isolerad hypoparatyreoidism orsakad av nedsatt PTH-sekretion
+{: .text-alpha }
 
 ---
 

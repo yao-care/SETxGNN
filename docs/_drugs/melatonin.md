@@ -32,7 +32,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-# Melatonin: No Repurposing Predictions Available
+## Melatonin: No Repurposing Predictions Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

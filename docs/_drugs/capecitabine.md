@@ -31,7 +31,8 @@ Evidensnivå: **L1** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Capecitabin: Från metastaserad koloncancer och magcancer till gastrisk adenokarcinom av tubulär typ
+## Capecitabin: Från metastaserad koloncancer och magcancer till gastrisk adenokarcinom av tubulär typ
+{: .text-alpha }
 
 ---
 

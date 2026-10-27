@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Karbetocin: Från Prader-Willis syndrom och Noonans syndrom till isotretinoinliknande syndrom
+## Karbetocin: Från Prader-Willis syndrom och Noonans syndrom till isotretinoinliknande syndrom
+{: .text-alpha }
 
 ---
 

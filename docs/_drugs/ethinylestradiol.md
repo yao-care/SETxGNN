@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Etinylestradiol: Från akne och postmenopausal osteoporos till förhöjt plasmazink
+## Etinylestradiol: Från akne och postmenopausal osteoporos till förhöjt plasmazink
+{: .text-alpha }
 
 ---
 

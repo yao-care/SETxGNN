@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Klonazepam: Från epilepsi och ångestsyndrom till restless legs-syndrom
+## Klonazepam: Från epilepsi och ångestsyndrom till restless legs-syndrom
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Bacitracin: Från keratit, keratokonjunktivit och blefarokonjunktivit till punktformad epitelial keratokonjunktivit
+## Bacitracin: Från keratit, keratokonjunktivit och blefarokonjunktivit till punktformad epitelial keratokonjunktivit
+{: .text-alpha }
 
 ---
 

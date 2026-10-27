@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Fosfomycin: Från urinvägsinfektion till gonokockuretrit
+## Fosfomycin: Från urinvägsinfektion till gonokockuretrit
+{: .text-alpha }
 
 ---
 

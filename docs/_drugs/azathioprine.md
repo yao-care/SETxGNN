@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Azatioprin: Från reumatoid artrit till kolobomatös mikroftalmi-rhizomelisk dysplasi-syndrom
+## Azatioprin: Från reumatoid artrit till kolobomatös mikroftalmi-rhizomelisk dysplasi-syndrom
+{: .text-alpha }
 
 ---
 

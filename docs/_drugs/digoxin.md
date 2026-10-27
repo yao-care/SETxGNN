@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Digoxin: Från förmaksflimmer till Prinzmetal angina
+## Digoxin: Från förmaksflimmer till Prinzmetal angina
+{: .text-alpha }
 
 ---
 

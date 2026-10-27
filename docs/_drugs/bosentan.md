@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-# Bosentan: Från pulmonell arteriell hypertension och systemisk skleros till reumatoid artrit
+## Bosentan: Från pulmonell arteriell hypertension och systemisk skleros till reumatoid artrit
+{: .text-alpha }
 
 ---
 

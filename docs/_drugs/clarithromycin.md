@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Klaritromycin: Från luftvägs- och bakteriella infektioner till polyklonalt hyperviskositetssyndrom
+## Klaritromycin: Från luftvägs- och bakteriella infektioner till polyklonalt hyperviskositetssyndrom
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Metadon: Från opioidberoende och smärta till Tourettes syndrom
+## Metadon: Från opioidberoende och smärta till Tourettes syndrom
+{: .text-alpha }
 
 ## Sammanfattning
 

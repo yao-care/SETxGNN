@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Tikagrelor: Från akut koronarsyndrom och perifer kärlsjukdom till intrakraniell arterioskleros
+## Tikagrelor: Från akut koronarsyndrom och perifer kärlsjukdom till intrakraniell arterioskleros
+{: .text-alpha }
 
 ---
 

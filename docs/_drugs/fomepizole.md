@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Fomepizol: Från ej angiven ursprunglig indikation till skleroserande kolangit
+## Fomepizol: Från ej angiven ursprunglig indikation till skleroserande kolangit
+{: .text-alpha }
 
 ---
 

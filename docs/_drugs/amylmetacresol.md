@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Amylmetakresol: Från halsont (ursprunglig indikation ej angiven i data) till cauda equina-syndrom
+## Amylmetakresol: Från halsont (ursprunglig indikation ej angiven i data) till cauda equina-syndrom
+{: .text-alpha }
 
 ---
 

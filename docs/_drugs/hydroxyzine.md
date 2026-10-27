@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Hydroxyzin: Från atopiskt eksem och allergiska tillstånd till kall urtikaria
+## Hydroxyzin: Från atopiskt eksem och allergiska tillstånd till kall urtikaria
+{: .text-alpha }
 
 ---
 

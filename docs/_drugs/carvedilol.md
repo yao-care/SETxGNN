@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Karvedilol: Från hypertoni till malign renovaskulär hypertoni
+## Karvedilol: Från hypertoni till malign renovaskulär hypertoni
+{: .text-alpha }
 
 ---
 

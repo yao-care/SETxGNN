@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-# Glimepirid: Från typ 2-diabetes till klassiskt stiff person-syndrom
+## Glimepirid: Från typ 2-diabetes till klassiskt stiff person-syndrom
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Teriparatid: Från postmenopausal osteoporos till duodenalsår
+## Teriparatid: Från postmenopausal osteoporos till duodenalsår
+{: .text-alpha }
 
 ---
 

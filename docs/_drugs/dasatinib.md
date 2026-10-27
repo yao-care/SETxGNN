@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Dasatinib: Från kronisk myeloisk leukemi (BCR-ABL1-positiv) till Ewings sarkom
+## Dasatinib: Från kronisk myeloisk leukemi (BCR-ABL1-positiv) till Ewings sarkom
+{: .text-alpha }
 
 ---
 

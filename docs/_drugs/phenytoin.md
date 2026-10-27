@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Fenytoin: Från epilepsi till trigeminusnervtumör
+## Fenytoin: Från epilepsi till trigeminusnervtumör
+{: .text-alpha }
 
 ---
 

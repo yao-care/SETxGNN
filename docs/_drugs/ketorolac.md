@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Ketorolak: Från allergisk, papillär och vernal konjunktivit till huvudvärkssjukdom
+## Ketorolak: Från allergisk, papillär och vernal konjunktivit till huvudvärkssjukdom
+{: .text-alpha }
 
 ---
 

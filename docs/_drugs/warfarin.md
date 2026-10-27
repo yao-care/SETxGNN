@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Warfarin: Från trombossjukdom till ärftlig trombofili (heparinkofaktor 2-brist)
+## Warfarin: Från trombossjukdom till ärftlig trombofili (heparinkofaktor 2-brist)
+{: .text-alpha }
 
 ---
 

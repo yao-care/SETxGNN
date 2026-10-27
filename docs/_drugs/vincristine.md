@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Vinkristin: Från akut lymfatisk leukemi och lymfom till ganglioneuroblastom
+## Vinkristin: Från akut lymfatisk leukemi och lymfom till ganglioneuroblastom
+{: .text-alpha }
 
 ---
 

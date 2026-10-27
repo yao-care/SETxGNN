@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Trabektedin: Från äggstockscancer till bröstcancer hos kvinnor
+## Trabektedin: Från äggstockscancer till bröstcancer hos kvinnor
+{: .text-alpha }
 
 ---
 

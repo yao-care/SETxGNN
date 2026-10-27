@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Xylometazolin: Från faryngit och förkylning till sjukdomar i näshålan
+## Xylometazolin: Från faryngit och förkylning till sjukdomar i näshålan
+{: .text-alpha }
 
 ---
 

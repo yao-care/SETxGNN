@@ -33,7 +33,8 @@ Evidensnivå: **L2** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Karboplatin: Från äggstockscancer till bröstcancer (kvinnlig bröstkarcinom)
+## Karboplatin: Från äggstockscancer till bröstcancer (kvinnlig bröstkarcinom)
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Isoniazid: Från lungtuberkulos till konjunktivit
+## Isoniazid: Från lungtuberkulos till konjunktivit
+{: .text-alpha }
 
 ---
 

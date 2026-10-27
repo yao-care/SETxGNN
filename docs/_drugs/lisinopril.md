@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Lisinopril: Från hypertoni och hjärtinfarkt till posterolateral hjärtinfarkt
+## Lisinopril: Från hypertoni och hjärtinfarkt till posterolateral hjärtinfarkt
+{: .text-alpha }
 
 ---
 

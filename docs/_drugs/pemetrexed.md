@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Pemetrexed: Från icke-småcellig lungcancer och malign pleuramesoteliom till malignt peritonealt mesoteliom
+## Pemetrexed: Från icke-småcellig lungcancer och malign pleuramesoteliom till malignt peritonealt mesoteliom
+{: .text-alpha }
 
 ---
 

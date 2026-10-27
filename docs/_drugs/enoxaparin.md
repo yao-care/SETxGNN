@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Enoxaparin: Från lungemboli och DIC till trombofili orsakad av protein C-brist
+## Enoxaparin: Från lungemboli och DIC till trombofili orsakad av protein C-brist
+{: .text-alpha }
 
 ---
 

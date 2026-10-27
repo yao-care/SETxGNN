@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Trifarotene: Från akne till förhöjt zink i plasma
+## Trifarotene: Från akne till förhöjt zink i plasma
+{: .text-alpha }
 
 ---
 

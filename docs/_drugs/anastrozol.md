@@ -32,7 +32,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-# Anastrozol: Drug Repurposing Evaluation Report
+## Anastrozol: Drug Repurposing Evaluation Report
+{: .text-alpha }
 
 ## One-Sentence Summary
 

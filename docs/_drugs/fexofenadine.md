@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Fexofenadin: Från allergisk rinit till rosaceakonjunktivit
+## Fexofenadin: Från allergisk rinit till rosaceakonjunktivit
+{: .text-alpha }
 
 ---
 

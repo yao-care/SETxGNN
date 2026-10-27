@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-# Klorzoxazon: Från muskelavslappnande behandling till migrän
+## Klorzoxazon: Från muskelavslappnande behandling till migrän
+{: .text-alpha }
 
 ---
 

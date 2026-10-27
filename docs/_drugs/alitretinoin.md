@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Alitretinoin: Från svårt kroniskt handeksem till amenorré
+## Alitretinoin: Från svårt kroniskt handeksem till amenorré
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Moxonidin: Från hypertoni till håravfall (hypotrichosis simplex i hårbotten)
+## Moxonidin: Från hypertoni till håravfall (hypotrichosis simplex i hårbotten)
+{: .text-alpha }
 
 ---
 

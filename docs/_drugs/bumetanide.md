@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Bumetanid: Från kongestiv hjärtsvikt till akut pulmonell hjärtsjukdom
+## Bumetanid: Från kongestiv hjärtsvikt till akut pulmonell hjärtsjukdom
+{: .text-alpha }
 
 ---
 

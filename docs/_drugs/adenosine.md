@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Adenosin: Från ventrikulär takykardi till grenblock (föråldrad term i ontologin)
+## Adenosin: Från ventrikulär takykardi till grenblock (föråldrad term i ontologin)
+{: .text-alpha }
 
 ---
 

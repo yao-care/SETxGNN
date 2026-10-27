@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Etosuximid: Från absensepilepsi till nefrogent syndrom med inadekvat antidures (NSIAD)
+## Etosuximid: Från absensepilepsi till nefrogent syndrom med inadekvat antidures (NSIAD)
+{: .text-alpha }
 
 ---
 

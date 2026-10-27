@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Dapoxetin: Från prematur ejakulation till migrän
+## Dapoxetin: Från prematur ejakulation till migrän
+{: .text-alpha }
 
 ---
 

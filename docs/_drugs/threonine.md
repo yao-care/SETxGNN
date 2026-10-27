@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Treonin: Från ingen registrerad indikation till gastropares
+## Treonin: Från ingen registrerad indikation till gastropares
+{: .text-alpha }
 
 ---
 

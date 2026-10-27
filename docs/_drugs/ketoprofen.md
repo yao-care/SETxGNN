@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Ketoprofen: Från reumatoid artrit och artros till akromesomel dysplasi, Hunter-Thompson-typ
+## Ketoprofen: Från reumatoid artrit och artros till akromesomel dysplasi, Hunter-Thompson-typ
+{: .text-alpha }
 
 ---
 

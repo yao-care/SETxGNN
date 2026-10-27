@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Cabazitaxel: Från ej angiven indikation till kvinnlig bröstcancer
+## Cabazitaxel: Från ej angiven indikation till kvinnlig bröstcancer
+{: .text-alpha }
 
 ---
 

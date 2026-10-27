@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Metolazon Abcur (metolazon): Från hypertoni till malign renovaskulär hypertoni
+## Metolazon Abcur (metolazon): Från hypertoni till malign renovaskulär hypertoni
+{: .text-alpha }
 
 ---
 

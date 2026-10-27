@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Moclobemid: Från ångestsyndrom till agorafobi
+## Moclobemid: Från ångestsyndrom till agorafobi
+{: .text-alpha }
 
 ---
 

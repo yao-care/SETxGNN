@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Olopatadin: Från allergisk konjunktivit och rinit till rosaceakonjunktivit
+## Olopatadin: Från allergisk konjunktivit och rinit till rosaceakonjunktivit
+{: .text-alpha }
 
 ---
 

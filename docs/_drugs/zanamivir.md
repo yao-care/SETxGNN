@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Zanamivir: Från influensa till pyelonefrit
+## Zanamivir: Från influensa till pyelonefrit
+{: .text-alpha }
 
 ---
 

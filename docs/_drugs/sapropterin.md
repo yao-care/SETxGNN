@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Sapropterin: Från fenylketonuri till rubbning i tyrosinmetabolismen
+## Sapropterin: Från fenylketonuri till rubbning i tyrosinmetabolismen
+{: .text-alpha }
 
 ---
 

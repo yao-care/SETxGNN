@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Finasterid: Från benign prostatahyperplasi till hypertrikos
+## Finasterid: Från benign prostatahyperplasi till hypertrikos
+{: .text-alpha }
 
 ---
 

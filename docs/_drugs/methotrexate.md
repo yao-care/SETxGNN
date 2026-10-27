@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Metotrexat: Från akut lymfatisk leukemi till pulmonellt blastom
+## Metotrexat: Från akut lymfatisk leukemi till pulmonellt blastom
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Ramipril: Från hypertoni till pulmonell hypertension orsakad av lungsjukdom och/eller hypoxi
+## Ramipril: Från hypertoni till pulmonell hypertension orsakad av lungsjukdom och/eller hypoxi
+{: .text-alpha }
 
 ---
 

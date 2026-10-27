@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Emtricitabin: Från HIV-infektion och AIDS till felint förvärvat immunbristsyndrom
+## Emtricitabin: Från HIV-infektion och AIDS till felint förvärvat immunbristsyndrom
+{: .text-alpha }
 
 ---
 

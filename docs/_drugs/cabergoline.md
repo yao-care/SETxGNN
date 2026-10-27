@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Kabergolin: Från hyperprolaktinemi till hypofyscancer
+## Kabergolin: Från hyperprolaktinemi till hypofyscancer
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **9** st
 
 </div>
 
-# Kloramfenikol: Från tyfoidfeber och andra bakteriella infektioner till konjunktivit
+## Kloramfenikol: Från tyfoidfeber och andra bakteriella infektioner till konjunktivit
+{: .text-alpha }
 
 ---
 

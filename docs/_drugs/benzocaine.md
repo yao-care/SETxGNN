@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Benzokain: Från dermatit och svampinfektioner till papillär konjunktivit
+## Benzokain: Från dermatit och svampinfektioner till papillär konjunktivit
+{: .text-alpha }
 
 ---
 

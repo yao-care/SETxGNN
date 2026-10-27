@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-# Alteplas: Från lungemboli och hjärtinfarkt till posterolateral hjärtinfarkt
+## Alteplas: Från lungemboli och hjärtinfarkt till posterolateral hjärtinfarkt
+{: .text-alpha }
 
 ---
 

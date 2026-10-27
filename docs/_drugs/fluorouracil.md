@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Fluorouracil: Från hudcancer och magcancer till rabdomyosarkom
+## Fluorouracil: Från hudcancer och magcancer till rabdomyosarkom
+{: .text-alpha }
 
 ---
 

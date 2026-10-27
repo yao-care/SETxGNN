@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Hydromorfon: Från förkylning och nasofaryngit till farynngit
+## Hydromorfon: Från förkylning och nasofaryngit till farynngit
+{: .text-alpha }
 
 **Obs om förutsägelsen:** Rapporten följer den högst rankade förutsägelsen (faryngit). Den förutsägelse som har klart starkast evidens i det sammanställda underlaget är dock **huvudvärkssjukdom** (migrän), vilket redovisas separat nedan.
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Alfuzosin: Från benign prostatahyperplasi till Ambras typ av hypertrichosis universalis congenita
+## Alfuzosin: Från benign prostatahyperplasi till Ambras typ av hypertrichosis universalis congenita
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Oximetazolin: Från faryngit och förkylning till sjukdomar i näshålan
+## Oximetazolin: Från faryngit och förkylning till sjukdomar i näshålan
+{: .text-alpha }
 
 ---
 

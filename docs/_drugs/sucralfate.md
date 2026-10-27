@@ -33,7 +33,8 @@ Evidensnivå: **L2** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Sukralfat: Från duodenalsår till duodenogastrisk reflux
+## Sukralfat: Från duodenalsår till duodenogastrisk reflux
+{: .text-alpha }
 
 ---
 

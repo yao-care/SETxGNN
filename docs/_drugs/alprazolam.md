@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Alprazolam: Från ångestsyndrom till insomni
+## Alprazolam: Från ångestsyndrom till insomni
+{: .text-alpha }
 
 ---
 

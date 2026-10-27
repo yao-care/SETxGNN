@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-# Piperacillin: Från bakteriella infektioner till reumatoid artrit
+## Piperacillin: Från bakteriella infektioner till reumatoid artrit
+{: .text-alpha }
 
 ---
 

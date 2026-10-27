@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Gadodiamid: Från diagnostisk kontrastförstärkning vid MR till reumatoid artrit
+## Gadodiamid: Från diagnostisk kontrastförstärkning vid MR till reumatoid artrit
+{: .text-alpha }
 
 ---
 

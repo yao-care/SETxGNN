@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Apixaban: Från antikoagulationsbehandling till migrän
+## Apixaban: Från antikoagulationsbehandling till migrän
+{: .text-alpha }
 
 ---
 

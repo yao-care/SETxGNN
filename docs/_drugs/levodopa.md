@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Levodopa: Från Parkinsons sjukdom till Rasmussens subakuta encefalit
+## Levodopa: Från Parkinsons sjukdom till Rasmussens subakuta encefalit
+{: .text-alpha }
 
 ---
 

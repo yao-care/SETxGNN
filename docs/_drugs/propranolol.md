@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Propranolol: Från hypertoni och hjärtrelaterade sjukdomar till distal myopati av Tateyama-typ
+## Propranolol: Från hypertoni och hjärtrelaterade sjukdomar till distal myopati av Tateyama-typ
+{: .text-alpha }
 
 ---
 

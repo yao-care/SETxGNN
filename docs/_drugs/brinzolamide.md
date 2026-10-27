@@ -31,7 +31,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Brinzolamid: Från öppenvinkelglaukom till primärt ärftligt glaukom
+## Brinzolamid: Från öppenvinkelglaukom till primärt ärftligt glaukom
+{: .text-alpha }
 
 ---
 

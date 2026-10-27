@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Salbutamol: Från astma till papillär konjunktivit
+## Salbutamol: Från astma till papillär konjunktivit
+{: .text-alpha }
 
 ---
 

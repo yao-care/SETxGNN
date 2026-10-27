@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Tranylcypromin: Från unipolär depression till godartad paroxysmal torticollis hos spädbarn
+## Tranylcypromin: Från unipolär depression till godartad paroxysmal torticollis hos spädbarn
+{: .text-alpha }
 
 ---
 

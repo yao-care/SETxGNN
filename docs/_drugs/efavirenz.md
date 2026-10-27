@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Efavirenz: Från hiv-infektion till felin förvärvad immunbristsyndrom
+## Efavirenz: Från hiv-infektion till felin förvärvad immunbristsyndrom
+{: .text-alpha }
 
 ---
 

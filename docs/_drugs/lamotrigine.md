@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-# Lamotrigin: Från epilepsi till tumör i trigeminusnerven
+## Lamotrigin: Från epilepsi till tumör i trigeminusnerven
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Ergokalciferol: Från osteoporos och D-vitaminbrist till renal osteodystrofi
+## Ergokalciferol: Från osteoporos och D-vitaminbrist till renal osteodystrofi
+{: .text-alpha }
 
 ---
 

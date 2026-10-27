@@ -31,7 +31,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Apraklonidin: Från öppenvinkelglaukom till primärt ärftligt glaukom
+## Apraklonidin: Från öppenvinkelglaukom till primärt ärftligt glaukom
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Citalopram: Från depression och ångestsyndrom till tvångssyndrom (OCD)
+## Citalopram: Från depression och ångestsyndrom till tvångssyndrom (OCD)
+{: .text-alpha }
 
 ---
 

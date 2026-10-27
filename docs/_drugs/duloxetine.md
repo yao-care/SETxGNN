@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Duloxetin: Från depression och ångestsyndrom till tvångssyndrom (OCD)
+## Duloxetin: Från depression och ångestsyndrom till tvångssyndrom (OCD)
+{: .text-alpha }
 
 ---
 

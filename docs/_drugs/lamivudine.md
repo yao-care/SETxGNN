@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Lamivudin: Från kronisk hepatit B-virusinfektion och hiv-infektion till simian immunbristvirusinfektion
+## Lamivudin: Från kronisk hepatit B-virusinfektion och hiv-infektion till simian immunbristvirusinfektion
+{: .text-alpha }
 
 ---
 

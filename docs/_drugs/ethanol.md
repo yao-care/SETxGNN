@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Etanol: Från ospecificerad indikation till migrän
+## Etanol: Från ospecificerad indikation till migrän
+{: .text-alpha }
 
 ---
 

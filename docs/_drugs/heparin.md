@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Heparin: Från lungemboli, disseminerad intravasal koagulation och purpura fulminans till trombofili orsakad av proteín C-brist (autosomalt recessiv)
+## Heparin: Från lungemboli, disseminerad intravasal koagulation och purpura fulminans till trombofili orsakad av proteín C-brist (autosomalt recessiv)
+{: .text-alpha }
 
 ---
 

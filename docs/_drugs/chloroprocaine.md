@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Kloroprokain: Från lokalanestesi till cauda equina-syndrom
+## Kloroprokain: Från lokalanestesi till cauda equina-syndrom
+{: .text-alpha }
 
 ---
 

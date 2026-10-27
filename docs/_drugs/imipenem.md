@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Imipenem: Från bakteriell lunginflammation till diffus sklerodermi
+## Imipenem: Från bakteriell lunginflammation till diffus sklerodermi
+{: .text-alpha }
 
 ---
 

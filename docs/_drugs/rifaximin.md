@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Rifaximin: Från hepatisk encefalopati till oral candidiasis
+## Rifaximin: Från hepatisk encefalopati till oral candidiasis
+{: .text-alpha }
 
 ---
 

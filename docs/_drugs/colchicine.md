@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Kolkicin (kolkicin): Från gikt och familjär Medelhavsfeber till Plasmodium falciparum-malaria
+## Kolkicin (kolkicin): Från gikt och familjär Medelhavsfeber till Plasmodium falciparum-malaria
+{: .text-alpha }
 
 ---
 

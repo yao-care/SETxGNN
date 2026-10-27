@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Selegilin: Från Parkinsons sjukdom till perisylvisk polymikrogyri med cerebellär hypoplasi och artrogrypos
+## Selegilin: Från Parkinsons sjukdom till perisylvisk polymikrogyri med cerebellär hypoplasi och artrogrypos
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Flukonazol: Från oral candidiasis till punktformad epitelial keratokonjunktivit
+## Flukonazol: Från oral candidiasis till punktformad epitelial keratokonjunktivit
+{: .text-alpha }
 
 ---
 

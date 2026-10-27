@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Vinblastin: Från mycosis fungoides och Hodgkins lymfom till rabdomyosarkom
+## Vinblastin: Från mycosis fungoides och Hodgkins lymfom till rabdomyosarkom
+{: .text-alpha }
 
 ---
 

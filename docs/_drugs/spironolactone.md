@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Spironolakton: Från hypertoni och hjärtsvikt till hypotrichosis simplex i hårbotten
+## Spironolakton: Från hypertoni och hjärtsvikt till hypotrichosis simplex i hårbotten
+{: .text-alpha }
 
 ---
 

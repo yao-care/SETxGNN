@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-# Mepivakain: Från lokalbedövning till gastroduodenit
+## Mepivakain: Från lokalbedövning till gastroduodenit
+{: .text-alpha }
 
 ---
 

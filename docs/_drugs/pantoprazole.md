@@ -33,7 +33,8 @@ Evidensnivå: **L1** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Pantoprazol: Från magsårssjukdom och refluxsjukdom till aktivt magsår
+## Pantoprazol: Från magsårssjukdom och refluxsjukdom till aktivt magsår
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Bupropion: Från depression och rökavvänjning till ADHD (attention deficit-hyperactivity disorder)
+## Bupropion: Från depression och rökavvänjning till ADHD (attention deficit-hyperactivity disorder)
+{: .text-alpha }
 
 ---
 

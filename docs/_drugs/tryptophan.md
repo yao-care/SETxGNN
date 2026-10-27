@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **8** st
 
 </div>
 
-# Tryptofan: Från ingen registrerad indikation till restless legs-syndrom
+## Tryptofan: Från ingen registrerad indikation till restless legs-syndrom
+{: .text-alpha }
 
 ---
 

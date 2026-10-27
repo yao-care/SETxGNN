@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Fentermin: Från hypotensiv sjukdom och fetma till proximalt 16p11.2-mikrodeletionssyndrom
+## Fentermin: Från hypotensiv sjukdom och fetma till proximalt 16p11.2-mikrodeletionssyndrom
+{: .text-alpha }
 
 ---
 

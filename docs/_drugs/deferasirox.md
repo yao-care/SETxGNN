@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Deferasirox: Från beta-talassemi och hemoglobinopati till HIV-infektion
+## Deferasirox: Från beta-talassemi och hemoglobinopati till HIV-infektion
+{: .text-alpha }
 
 ---
 

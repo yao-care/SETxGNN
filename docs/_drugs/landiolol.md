@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-# Landiolol: Från supraventrikulär takykardi till lingual-facial-buckal dyskinesi
+## Landiolol: Från supraventrikulär takykardi till lingual-facial-buckal dyskinesi
+{: .text-alpha }
 
 ---
 

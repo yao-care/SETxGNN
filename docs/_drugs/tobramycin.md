@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Tobramycin: Från bakteriella ögon- och hjärnhinneinfektioner till exponeringskeratit
+## Tobramycin: Från bakteriella ögon- och hjärnhinneinfektioner till exponeringskeratit
+{: .text-alpha }
 
 ---
 

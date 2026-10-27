@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Labetalol: Från hypertoni till malign renovaskulär hypertoni
+## Labetalol: Från hypertoni till malign renovaskulär hypertoni
+{: .text-alpha }
 
 ---
 

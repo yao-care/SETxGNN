@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Candesartan: Från hypertoni till migrän
+## Candesartan: Från hypertoni till migrän
+{: .text-alpha }
 
 ---
 

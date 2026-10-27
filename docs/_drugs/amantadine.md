@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-# Amantadin: Från Parkinsons sjukdom till myelit
+## Amantadin: Från Parkinsons sjukdom till myelit
+{: .text-alpha }
 
 ---
 

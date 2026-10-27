@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Fenylefrin: Från allergisk rinit och förkylning till sjukdomar i näshålan
+## Fenylefrin: Från allergisk rinit och förkylning till sjukdomar i näshålan
+{: .text-alpha }
 
 ---
 

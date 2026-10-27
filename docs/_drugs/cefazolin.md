@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **8** st
 
 </div>
 
-# Cefazolin: Från bakteriell lunginflammation till infektiös mellanöreinflammation (otitis media)
+## Cefazolin: Från bakteriell lunginflammation till infektiös mellanöreinflammation (otitis media)
+{: .text-alpha }
 
 ---
 

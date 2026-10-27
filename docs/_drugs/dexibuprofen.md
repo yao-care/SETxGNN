@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Dexibuprofen: Från reumatoid artrit och artros till ankyloserande spondylit
+## Dexibuprofen: Från reumatoid artrit och artros till ankyloserande spondylit
+{: .text-alpha }
 
 ---
 

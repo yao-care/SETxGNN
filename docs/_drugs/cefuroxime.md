@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Cefuroxim: Från infektionssjukdomar (bl.a. infektiös mediaotit) till hyperamylasemi
+## Cefuroxim: Från infektionssjukdomar (bl.a. infektiös mediaotit) till hyperamylasemi
+{: .text-alpha }
 
 ---
 

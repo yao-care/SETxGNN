@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Verapamil: Från hypertoni och hjärtrytmrubbningar till obsolet grenblock
+## Verapamil: Från hypertoni och hjärtrytmrubbningar till obsolet grenblock
+{: .text-alpha }
 
 ---
 

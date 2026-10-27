@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Flurbiprofen: Från reumatoid artrit till akromesomelisk dysplasi, Hunter-Thompson-typ
+## Flurbiprofen: Från reumatoid artrit till akromesomelisk dysplasi, Hunter-Thompson-typ
+{: .text-alpha }
 
 ---
 

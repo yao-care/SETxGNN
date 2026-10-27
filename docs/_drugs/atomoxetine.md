@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Atomoxetin Viatris: Från ADHD till specifik utvecklingsstörning
+## Atomoxetin Viatris: Från ADHD till specifik utvecklingsstörning
+{: .text-alpha }
 
 ---
 

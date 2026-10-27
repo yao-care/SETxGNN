@@ -32,7 +32,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-# DAPAGLIFLOZIN: Evaluation Pending — No TxGNN Prediction Available
+## DAPAGLIFLOZIN: Evaluation Pending — No TxGNN Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

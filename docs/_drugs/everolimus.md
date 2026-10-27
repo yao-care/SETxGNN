@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Everolimus: Från njurcellscancer till liposarkom
+## Everolimus: Från njurcellscancer till liposarkom
+{: .text-alpha }
 
 ---
 

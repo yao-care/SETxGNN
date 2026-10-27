@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Dobutamin: Från ej angiven ursprunglig indikation till alopeci
+## Dobutamin: Från ej angiven ursprunglig indikation till alopeci
+{: .text-alpha }
 
 ---
 

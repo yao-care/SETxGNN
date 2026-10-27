@@ -33,7 +33,8 @@ Evidensnivå: **L3** | Förutsagda indikationer: **7** st
 
 </div>
 
-# Ceftriaxon: Från streptokockinfektion och bakteriell lunginflammation till infektiös mellanöreinflammation
+## Ceftriaxon: Från streptokockinfektion och bakteriell lunginflammation till infektiös mellanöreinflammation
+{: .text-alpha }
 
 ---
 

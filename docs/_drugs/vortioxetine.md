@@ -33,7 +33,8 @@ Evidensnivå: **L4** | Förutsagda indikationer: **5** st
 
 </div>
 
-# Vortioxetin: Från depression och ångestsyndrom till neurotiskt tillstånd
+## Vortioxetin: Från depression och ångestsyndrom till neurotiskt tillstånd
+{: .text-alpha }
 
 ---
 

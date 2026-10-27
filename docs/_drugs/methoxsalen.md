@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Metoxalen: Från kutant T-cellslymfom till lokaliserad pagetoid retikulos
+## Metoxalen: Från kutant T-cellslymfom till lokaliserad pagetoid retikulos
+{: .text-alpha }
 
 ---
 

@@ -32,7 +32,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-# Linagliptin: Type 2 Diabetes Drug — No Repurposing Candidates Identified
+## Linagliptin: Type 2 Diabetes Drug — No Repurposing Candidates Identified
+{: .text-alpha }
 
 ---
 

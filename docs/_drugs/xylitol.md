@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Xylitol: Från ospecificerad indikation till meningokockinfektion
+## Xylitol: Från ospecificerad indikation till meningokockinfektion
+{: .text-alpha }
 
 ---
 

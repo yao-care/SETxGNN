@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-# Cyklopentolat: Från cykloplegi till kauda equina-syndrom
+## Cyklopentolat: Från cykloplegi till kauda equina-syndrom
+{: .text-alpha }
 
 ---
 

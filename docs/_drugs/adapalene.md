@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Adapalen: Från akne till förhöjd zinkhalt i plasma
+## Adapalen: Från akne till förhöjd zinkhalt i plasma
+{: .text-alpha }
 
 ---
 

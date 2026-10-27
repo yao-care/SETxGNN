@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-# Norethisteron: Från akne och endometrios till amenorré
+## Norethisteron: Från akne och endometrios till amenorré
+{: .text-alpha }
 
 ---
 

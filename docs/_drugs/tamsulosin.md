@@ -33,7 +33,8 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-# Tamsulosin: Från benign prostatahyperplasi till Ambras typ av hypertrichosis universalis congenita
+## Tamsulosin: Från benign prostatahyperplasi till Ambras typ av hypertrichosis universalis congenita
+{: .text-alpha }
 
 ---
 
