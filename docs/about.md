@@ -112,7 +112,7 @@ sällsynta sjukdomar."
 
 | Post | Värde |
 |------|-------|
-| Läkemedelsrapporter | {{ site.drugs.size }} |
+| Läkemedelsrapporter | {{ site.data.drug_stats.total_drugs }} |
 | Tillsynsmyndighet | MPA |
 | Driftsatta webbplatser | 30 länder / regioner |
 

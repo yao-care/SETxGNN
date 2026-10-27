@@ -19,7 +19,7 @@ Forutsaegelser foer lakemedelsrepositionering av MPA-godkaenda lakemedel (Sweden
 
 | Element | Antal |
 |------|------|
-| **Lakemedelsrapporter** | 108 |
+| **Lakemedelsrapporter** | 450 |
 | **Totala forutsaegelser** | 3,672,147 |
 | **Unika lakemedel** | 152 |
 | **Unika indikationer** | 16,564 |
