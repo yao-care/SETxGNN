@@ -6,9 +6,9 @@ nav_order: 453
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
-description: "Warfarin: predikterad ny indikation Heparinkofaktor 2-brist (evidensnivå L5). Ursprunglig indikation: Lungemboli, trombossjukdom…"
 monitor_inn: "warfarin"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
+description: "Warfarin: predikterad ny indikation Heparinkofaktor 2-brist (heparin cofactor 2 deficiency) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Warfarin
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Warfarin: Från trombossjukdom till ärftlig trombofili (heparinkofaktor 2-brist)
+## Warfarin: Heparinkofaktor 2-brist (heparin cofactor 2 deficiency)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Warfarin är ett blodförtunnande läkemedel (vitamin K-antagonist) som ursprung
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Lungemboli, trombossjukdom, intrakraniell emboli (enligt kunskapsgrafen; indikationstext saknas i svenska godkännanden) |
-| Förutsagd ny indikation | Heparinkofaktor 2-brist |
-| TxGNN-förutsägelsepoäng | 99,87 % |
-| Evidensnivå | L4 (endast fallrapporter) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Heparinkofaktor 2-brist (heparin cofactor 2 deficiency) |
+| TxGNN-förutsägelsepoäng | 0.9987 |
+| Evidensnivå | L5 (endast fallrapporter) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -99,7 +99,7 @@ Litteraturen består av tre små japanska fallrapporter från 1990–2001 utan k
 | 6897 | Waran (Orifarm Healthcare A/S) | Tablett | Indikationstext saknas; indraget |
 | 42966 | Warfarin Orion (Orion Corporation) | Tablett | Indikationstext saknas; indraget |
 
-Båda godkännandena är indragna och det finns inga giltiga godkännanden i Sverige i det underlag som sammanställts. Detta bör verifieras.
+Detta bör verifieras.
 
 ---
 

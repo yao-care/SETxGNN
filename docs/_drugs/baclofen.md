@@ -50,9 +50,9 @@ Baclofen används sedan tidigare mot spasticitet. Den indikationen anges i litte
 |------|------|
 | Ursprunglig indikation | Ej angiven i godkännandedata (litteraturen beskriver användning vid spasticitet) |
 | Förutsagd ny indikation | Attention deficit-hyperactivity disorder (ADHD) |
-| TxGNN-förutsägelsepoäng | 99,3 % |
+| TxGNN-förutsägelsepoäng | 0,9932 |
 | Evidensnivå | L5 (endast modellförutsägelse, inga relevanta studier på ADHD) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -64,7 +64,7 @@ Baclofen är en agonist på GABA-B-receptorn. Ingen detaljerad verkningsmekanism
 
 Kopplingen mellan spasticitet och ADHD är svag. Spasticitet beror på överaktivitet i motoriska reflexbanor, medan ADHD är en neuroutvecklingsstörning. Det gemensamma är att baclofen verkar hämmande via GABA-systemet i det centrala nervsystemet. Mekanismen är biologiskt tänkbar, men det är en hypotes.
 
-Den tillgängliga litteraturen stöder den inte direkt. De flesta artiklarna handlar om Tourettes syndrom och tics, eller om prekliniska djurstudier av andra signalsubstanser. Den höga poängen (0,993) ska därför tolkas med stor försiktighet.
+Den tillgängliga litteraturen stöder den inte direkt. De flesta artiklarna handlar om Tourettes syndrom och tics, eller om prekliniska djurstudier av andra signalsubstanser. Den höga poängen (0,9932) ska därför tolkas med stor försiktighet.
 
 ---
 
@@ -86,7 +86,7 @@ Den tillgängliga litteraturen stöder den inte direkt. De flesta artiklarna han
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är avregistrerade och inga är giltiga. Indikationstext finns inte angiven i godkännandedata. De fem första godkännandena:
+Läkemedlet är marknadsfört och 20 godkännanden är giltiga. Indikationstext finns inte angiven i godkännandedata. De fem första godkännandena:
 
 | Godkännandenummer | Produktnamn | Beredningsform |
 |---------|------|------|
@@ -125,7 +125,7 @@ Produktresumétext om varningar och kontraindikationer ingick inte i underlaget.
 - Produktresumé med varningar och kontraindikationer, med särskild uppmärksamhet på samtidig epilepsi och psykiatrisk sjukdom, som är vanliga vid ADHD.
 - Bedömning av beredningsform och administreringsväg för en eventuell ADHD-behandling.
 
-**Jämförande notering:** I samma analys förutsägs även **nikotinberoende** (poäng 99,2 %). Den indikationen har betydligt starkare stöd: tre fas 2-prövningar (varav en genomförd med 44 deltagare) och prekliniska data. Den bedöms som evidensnivå L2 och som en forskningsfråga. Den kan vara en mer lovande kandidat att utvärdera först.
+**Jämförande notering:** I samma analys förutsägs även **nikotinberoende** (poäng 0,9919). Den indikationen har betydligt starkare stöd: tre fas 2-prövningar (varav en genomförd med 44 deltagare) och prekliniska data. Den bedöms som evidensnivå L2 och som en forskningsfråga. Den kan vara en mer lovande kandidat att utvärdera först.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

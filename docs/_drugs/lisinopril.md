@@ -4,17 +4,17 @@ title: Lisinopril
 parent: Endast modellprediktion (L5)
 nav_order: 267
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Lisinopril: predikterad ny indikation Posterolateral hjärtinfarkt (evidensnivå L5). Ursprunglig indikation: Hypertoni, hjärtinfarkt (enligt kunskapsgrafen"
 monitor_inn: "lisinopril"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
+description: "Lisinopril: predikterad ny indikation Pulmonary hypertension owing to lung disease and/or hypoxia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Lisinopril
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Lisinopril: Från hypertoni och hjärtinfarkt till posterolateral hjärtinfarkt
+## Lisinopril: Pulmonary hypertension owing to lung disease and/or hypoxia
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Lisinopril är en ACE-hämmare som ursprungligen användes för att behandla hö
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Hypertoni, hjärtinfarkt (enligt kunskapsgrafen; godkänd indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Posterolateral hjärtinfarkt |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Pulmonary hypertension owing to lung disease and/or hypoxia |
+| TxGNN-förutsägelsepoäng | 0.9989 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 17 (samtliga avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 17 av 17) |
+| Antal godkännanden | 17 (giltiga: 17) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -101,7 +101,7 @@ Produktresumé med varningar och kontraindikationer har inte kunnat hämtas, så
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för posterolateral hjärtinfarkt saknar helt specifika kliniska prövningar och litteratur (L5). Den ligger nära den redan etablerade indikationen hjärtinfarkt och tillför knappast något nytt. Dessutom är alla svenska godkännanden avregistrerade.
+- Förutsägelsen för posterolateral hjärtinfarkt saknar helt specifika kliniska prövningar och litteratur (L5). Den ligger nära den redan etablerade indikationen hjärtinfarkt och tillför knappast något nytt.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé för varningar och kontraindikationer, vilket är ett blockerande datagap för säkerhetsscreeningen.
@@ -109,7 +109,7 @@ Produktresumé med varningar och kontraindikationer har inte kunnat hämtas, så
 - Fastställa om undertyper av hjärtinfarkt behöver bedömas separat eller omfattas av den befintliga indikationen.
 - Klargöra marknadsläget, eftersom det för närvarande inte finns något giltigt svenskt godkännande.
 
-**Övriga förutsägelser i listan:** De övriga nio förutsägelserna har likaså låg evidens och bör avvaktas. Den mest intressanta är **kroniskt pulmonellt hjärtsjukdom (cor pulmonale)** (evidensnivå L3, poäng 99,7 %). Där finns två små kliniska studier med lisinopril (PMID 17047621 och 14524095), men båda är sannolikt små och okontrollerade, så kvaliteten är osäker. Den kan motivera en fortsatt forskningsfråga, men inte ett beslut att gå vidare.
+**Övriga förutsägelser i listan:** De övriga nio förutsägelserna har likaså låg evidens och bör avvaktas. Där finns två små kliniska studier med lisinopril (PMID 17047621 och 14524095), men båda är sannolikt små och okontrollerade, så kvaliteten är osäker. Den kan motivera en fortsatt forskningsfråga, men inte ett beslut att gå vidare.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

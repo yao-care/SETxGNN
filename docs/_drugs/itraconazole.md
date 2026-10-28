@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Itraconazole
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 240
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Itraconazole: predikterad ny indikation Pneumocystos (evidensnivå L4). Ursprunglig indikation: Ingen godkänd indikationstext finns i de svenska godkännandena. Enlig…"
 monitor_inn: "itraconazole"
 predicted_indications: ["pneumocystosis"]
+description: "Itraconazole: predikterad ny indikation Pneumocystosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Itraconazole
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **1** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Itrakonazol: Från svampinfektioner (t.ex. candidainfektion, histoplasmos och aspergillos) till pneumocystos
+## Itraconazole: Pneumocystosis
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Itrakonazol är ett azolbaserat svampmedel som ursprungligen används mot system
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: esofaguscandidos, candidemi, histoplasmos, aspergillos m.fl. |
-| Förutsagd ny indikation | Pneumocystos |
-| TxGNN-förutsägelsepoäng | 99,3 % |
-| Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 4 |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Pneumocystosis |
+| TxGNN-förutsägelsepoäng | 0.9934 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Itrakonazol är ett azolbaserat svampmedel som ursprungligen används mot system
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Itrakonazol är dock en känd azol som hämmar svampens enzym lanosterol-14-alfa-demetylas (CYP51) och därmed blockerar syntesen av ergosterol, en nödvändig komponent i svampars cellmembran.
 
-Den höga poängen (0,993) speglar sannolikt att pneumocystos ligger nära andra svampinfektioner (histoplasmos, aspergillos, candidos) i kunskapsgrafen, snarare än en specifik mekanistisk förklaring. Pneumocystis saknar nämligen ergosterol i sitt cellmembran och använder kolesterol och andra steroler från värden. Den klassiska azolmekanismen förväntas därför inte vara effektiv.
+Pneumocystis saknar nämligen ergosterol i sitt cellmembran och använder kolesterol och andra steroler från värden. Den klassiska azolmekanismen förväntas därför inte vara effektiv.
 
 All eventuell aktivitet skulle behöva komma från en alternativ, ännu ej fastställd mekanism. Förutsägelsen bör därför ses som en hypotes med svagt mekanistiskt stöd.
 
@@ -123,7 +123,6 @@ Produktresumédata om varningar och kontraindikationer saknas i det sammanställ
 - Prekliniska data (in vitro och djurmodeller) som visar aktivitet mot *Pneumocystis* via en alternativ mekanism
 - Komplettering av produktresumédata om varningar och kontraindikationer samt verkningsmekanism
 - Jämförelse med etablerad behandling och profylax (trimetoprim-sulfametoxazol) för att bedöma ett eventuellt kliniskt behov
-- Bedömning av regulatorisk väg, eftersom inga produkter för närvarande har giltigt godkännande i Sverige
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

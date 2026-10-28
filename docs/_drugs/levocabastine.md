@@ -6,9 +6,9 @@ nav_order: 260
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Levocabastine: predikterad ny indikation Allergisk urtikaria (evidensnivå L5). Ursprunglig indikation: Atopisk konjunktivit…"
 monitor_inn: "levocabastine"
 predicted_indications: ["allergic urticaria", "rosacea conjunctivitis"]
+description: "Levocabastine: predikterad ny indikation Allergic urticaria (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Levocabastine
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Levocabastin: Från atopisk konjunktivit till allergisk urtikaria
+## Levocabastine: Allergic urticaria
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Levocabastin är en histamin H1-receptorantagonist som ursprungligen användes m
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Atopisk konjunktivit, papillär konjunktivit och vernal konjunktivit (enligt kunskapsgrafen; godkännandenas indikationstext är tom) |
-| Förutsagd ny indikation | Allergisk urtikaria |
-| TxGNN-förutsägelsepoäng | 99,2 % |
-| Evidensnivå | L4 (indirekt evidens från klassfarmakologi och allergenprovokationsstudie vid allergisk rinit) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 3 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Allergic urticaria |
+| TxGNN-förutsägelsepoäng | 0.9918 |
+| Evidensnivå | L5 (indirekt evidens från klassfarmakologi och allergenprovokationsstudie vid allergisk rinit) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -118,7 +118,7 @@ Se i övrigt produktresumén för varningar och kontraindikationer.
 
 ---
 
-*Sekundär förutsägelse (rang 2): reumatisk/rosacea-konjunktivit (poäng 99,2 %, evidensnivå L5, beslut Avvakta). Mekanismkopplingen är spekulativ eftersom okulär rosacea främst drivs av meibomska körtlars dysfunktion, lock- och mikrobfaktorer samt medfödd inflammation, med högst liten roll för histamin. Inga studier finns.*
+Mekanismkopplingen är spekulativ eftersom okulär rosacea främst drivs av meibomska körtlars dysfunktion, lock- och mikrobfaktorer samt medfödd inflammation, med högst liten roll för histamin. Inga studier finns.*
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -6,9 +6,9 @@ nav_order: 393
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Selegiline: predikterad ny indikation Polymikrogyri, perisylvisk, med cerebellär hypoplasi och artrogrypos (evidensnivå L5). Ursprunglig indikation: Parkinsons sjukdom (de svenska godkännandena sakna…"
 monitor_inn: "selegiline"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "schizophrenia", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies"]
+description: "Selegiline: predikterad ny indikation Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Selegiline
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-## Selegilin: Från Parkinsons sjukdom till perisylvisk polymikrogyri med cerebellär hypoplasi och artrogrypos
+## Selegiline: Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Selegilin används sedan tidigare vid Parkinsons sjukdom, och i kunskapsgrafen är det även kopplat till depression och ångestsyndrom. TxGNN-modellen förutsäger att det kan vara effektivt mot **perisylvisk polymikrogyri med cerebellär hypoplasi och artrogrypos**, ett mycket sällsynt neuroutvecklingssyndrom. Förutsägelsen har dock **inga kliniska prövningar och ingen publicerad litteratur** som stöd. Den är därför enbart en beräkningsmässig modellförutsägelse.
+TxGNN-modellen förutsäger att det kan vara effektivt mot **perisylvisk polymikrogyri med cerebellär hypoplasi och artrogrypos**, ett mycket sällsynt neuroutvecklingssyndrom. Förutsägelsen har dock **inga kliniska prövningar och ingen publicerad litteratur** som stöd. Den är därför enbart en beräkningsmässig modellförutsägelse.
 
 ---
 
@@ -48,12 +48,12 @@ Selegilin används sedan tidigare vid Parkinsons sjukdom, och i kunskapsgrafen �
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Parkinsons sjukdom (de svenska godkännandena saknar indikationstext, så uppgiften kommer från kunskapsgrafen) |
-| Förutsagd ny indikation | Polymikrogyri, perisylvisk, med cerebellär hypoplasi och artrogrypos |
-| TxGNN-förutsägelsepoäng | 99,1 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis |
+| TxGNN-förutsägelsepoäng | 0.9915 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 2 (båda avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Selegilin används sedan tidigare vid Parkinsons sjukdom, och i kunskapsgrafen �
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för rapporten. Selegilin är känt som en irreversibel hämmare av enzymet MAO-B. Det ökar tillgången på dopamin i hjärnan och har använts vid Parkinsons sjukdom. Vid högre doser hämmar det även MAO-A.
 
-Det finns ingen etablerad mekanistisk koppling mellan MAO-B-hämning och detta syndrom. Syndromet är en sällsynt missbildning av hjärnans utveckling, med förändrad hjärnbarksveckning, underutvecklad lillhjärna och ledstelhet. Den höga poängen (0,991) speglar sannolikt att sjukdomen ligger nära selegilins ursprungliga sjukdomar i kunskapsgrafen, till exempel gemensamma neurologiska eller genetiska nätverksgrannar. Den visar inte på en farmakologisk förklaring. Förutsägelsen bör därför ses som en hypotes och inte som belagd.
+Det finns ingen etablerad mekanistisk koppling mellan MAO-B-hämning och detta syndrom. Syndromet är en sällsynt missbildning av hjärnans utveckling, med förändrad hjärnbarksveckning, underutvecklad lillhjärna och ledstelhet. Den visar inte på en farmakologisk förklaring. Förutsägelsen bör därför ses som en hypotes och inte som belagd.
 
 ---
 
@@ -82,8 +82,8 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 11022 | Eldepryl (Orion Corporation) | Tablett | Ingen indikationstext angiven (avregistrerad) |
-| 11354 | Eldepryl (Orion Corporation) | Tablett | Ingen indikationstext angiven (avregistrerad) |
+| 11022 | Eldepryl (Orion Corporation) | Tablett | Ingen indikationstext angiven (godkänd) |
+| 11354 | Eldepryl (Orion Corporation) | Tablett | Ingen indikationstext angiven (godkänd) |
 
 ---
 
@@ -118,7 +118,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Hämtning av produktresumé med varningar och kontraindikationer samt detaljerad verkningsmekanism.
 - Bedömning av hur genomförbart det är att studera en så sällsynt sjukdom.
 
-**Observera:** Den näst högst rankade förutsägelsen, **schizofreni** (poäng 99,1 %), har betydligt mer stöd. Den har en avslutad tidig fas 1-prövning (NCT00456976, 70 deltagare, selegilin som tillägg mot negativa symtom), flera översikter och randomiserade studier samt evidensnivå L3. Den är en mer realistisk kandidat för fortsatt utvärdering och motiverar en separat rapport.
+Den har en avslutad tidig fas 1-prövning (NCT00456976, 70 deltagare, selegilin som tillägg mot negativa symtom), flera översikter och randomiserade studier samt evidensnivå L3. Den är en mer realistisk kandidat för fortsatt utvärdering och motiverar en separat rapport.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

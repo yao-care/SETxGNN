@@ -6,9 +6,9 @@ nav_order: 314
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Nilotinib: predikterad ny indikation Dermatofibrosarcoma protuberans (evidensnivå L5). Ursprunglig indikation: Kronisk myeloisk leukemi, BCR-ABL1-positiv"
 monitor_inn: "NILOTINIB"
 predicted_indications: ["dermatofibrosarcoma protuberans"]
+description: "Nilotinib: predikterad ny indikation Dermatofibrosarcoma protuberans (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Nilotinib
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Nilotinib: Från kronisk myeloisk leukemi (BCR-ABL1-positiv) till dermatofibrosarcoma protuberans
+## Nilotinib: Dermatofibrosarcoma protuberans
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Nilotinib är en tyrosinkinashämmare som ursprungligen användes för att behandla **kronisk myeloisk leukemi (KML), BCR-ABL1-positiv**. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **dermatofibrosarcoma protuberans (DFSP)**, en sällsynt hudtumör, med en mycket hög förutsägelsepoäng (99,3 %). Evidensen är i dagsläget mycket begränsad: **inga kliniska prövningar** och **en publikation** (en översiktsartikel) stöder denna riktning.
+Nilotinib är en tyrosinkinashämmare som ursprungligen användes för att behandla **kronisk myeloisk leukemi (KML), BCR-ABL1-positiv**. TxGNN-modellen (djupinlärning) förutsäger att läkemedlet kan vara effektivt mot **dermatofibrosarcoma protuberans (DFSP)**, en sällsynt hudtumör, med en mycket hög förutsägelsepoäng (0,9931). Evidensen är i dagsläget mycket begränsad: **inga kliniska prövningar** och **en publikation** (en översiktsartikel) stöder denna riktning.
 
 ---
 
@@ -48,12 +48,12 @@ Nilotinib är en tyrosinkinashämmare som ursprungligen användes för att behan
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Kronisk myeloisk leukemi, BCR-ABL1-positiv (enligt kunskapsgrafen; produktregistret saknar indikationstext) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Dermatofibrosarcoma protuberans |
-| TxGNN-förutsägelsepoäng | 99,3 % |
-| Evidensnivå | L4 (endast mekanism- och översiktslitteratur, inga kliniska prövningar) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 3 (alla avregistrerade) |
+| TxGNN-förutsägelsepoäng | 0.9931 |
+| Evidensnivå | L5 (endast mekanism- och översiktslitteratur, inga kliniska prövningar) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -86,9 +86,9 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 65027 | Nilotinib Zentiva | Kapsel, hård | Ingen indikationstext tillgänglig (avregistrerad) |
-| 65028 | Nilotinib Zentiva | Kapsel, hård | Ingen indikationstext tillgänglig (avregistrerad) |
-| 65029 | Nilotinib Zentiva | Kapsel, hård | Ingen indikationstext tillgänglig (avregistrerad) |
+| 65027 | Nilotinib Zentiva | Kapsel, hård | Ingen indikationstext tillgänglig (godkänd) |
+| 65028 | Nilotinib Zentiva | Kapsel, hård | Ingen indikationstext tillgänglig (godkänd) |
+| 65029 | Nilotinib Zentiva | Kapsel, hård | Ingen indikationstext tillgänglig (godkänd) |
 
 ---
 
@@ -125,14 +125,14 @@ Eftersom uppgifter från produktresumén saknas bör **Se produktresumén för s
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den mekanistiska logiken (PDGFR-hämning vid COL1A1-PDGFB-driven DFSP) och den höga modellpoängen är lovande, men det finns inga kliniska prövningar och endast en översiktsartikel. Dessutom saknas säkerhetsdata från produktresumén och alla svenska godkännanden är avregistrerade.
+- Den mekanistiska logiken (PDGFR-hämning vid COL1A1-PDGFB-driven DFSP) och den höga modellpoängen är lovande, men det finns inga kliniska prövningar och endast en översiktsartikel. Dessutom saknas säkerhetsdata från produktresumén. Läkemedlet är marknadsfört i Sverige med 3 giltiga godkännanden av 3.
 
 **För att gå vidare krävs:**
 - Systematisk litteratursökning efter nilotinibspecifika data vid DFSP (fallserier, fas 2-studier) och jämförelse med imatinib
 - Hämtning av verkningsmekanismdata från DrugBank
 - Hämtning och genomgång av produktresumén (varningar, kontraindikationer), särskilt QT-förlängning, lever- och blodtoxicitet
 - Utvärdering av interaktionsrisker, särskilt med CYP3A4-hämmare/-inducerare och syrahämmande läkemedel
-- Klarläggning av tillgänglighet i Sverige, eftersom alla godkännanden är avregistrerade
+- Klarläggning av tillgänglighet i Sverige; läkemedlet är marknadsfört med 3 giltiga godkännanden av 3
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

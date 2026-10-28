@@ -6,9 +6,9 @@ nav_order: 371
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Pyrazinamide: predikterad ny indikation Infektiös otitis media (evidensnivå L5). Ursprunglig indikation: Lungtuberkulos…"
 monitor_inn: "pyrazinamide"
 predicted_indications: ["infectious otitis media", "middle ear disease", "otosalpingitis", "chronic otitis media", "suppurative otitis media", "non-suppurative otitis media", "middle ear cholesterol granuloma", "allergic otitis media", "Lyme disease", "infectious otitis interna"]
+description: "Pyrazinamide: predikterad ny indikation Infectious otitis media (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Pyrazinamide
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Pyrazinamid: Från tuberkulos till infektiös otitis media
+## Pyrazinamide: Infectious otitis media
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Pyrazinamid är ett tuberkulostatiskt läkemedel som ursprungligen användes mot lungtuberkulos och tuberkulös hjärnhinneinflammation. TxGNN-modellen förutsäger att det kan vara effektivt mot **infektiös otitis media** (poäng 99,96 %), men för denna förutsägelse finns **inga kliniska prövningar och ingen publicerad litteratur**. Evidensen är därmed enbart modellbaserad, och den enda tänkbara kopplingen gäller sällsynta fall av tuberkulös öroninfektion, som redan behandlas med standardregimer mot tuberkulos.
+Pyrazinamid är ett tuberkulostatiskt läkemedel som ursprungligen användes mot lungtuberkulos och tuberkulös hjärnhinneinflammation. TxGNN-modellen förutsäger att det kan vara effektivt mot **infektiös otitis media** (poäng 0,9996), men för denna förutsägelse finns **inga kliniska prövningar och ingen publicerad litteratur**. Evidensen är därmed enbart modellbaserad, och den enda tänkbara kopplingen gäller sällsynta fall av tuberkulös öroninfektion, som redan behandlas med standardregimer mot tuberkulos.
 
 ---
 
@@ -48,12 +48,12 @@ Pyrazinamid är ett tuberkulostatiskt läkemedel som ursprungligen användes mot
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Lungtuberkulos, tuberkulös hjärnhinneinflammation (enligt kunskapsgrafen; ingen indikationstext finns i de svenska godkännandena) |
-| Förutsagd ny indikation | Infektiös otitis media |
-| TxGNN-förutsägelsepoäng | 99,96 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Infectious otitis media |
+| TxGNN-förutsägelsepoäng | 0.9996 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Sambandet till öroninfektioner är svagt. Vanliga orsaker till akut mellanöreinflammation, som *S. pneumoniae*, *H. influenzae* och *M. catarrhalis*, påverkas inte av pyrazinamid. Kopplingen finns bara vid den sällsynta tuberkulösa formen av mellanöreinflammation, där läkemedlet ingår i standardbehandlingen mot tuberkulos. Ett eventuellt värde kommer då från läkemedlets ursprungliga indikation och inte från en ny mekanism, vilket innebär att det inte är äkta återanvändning.
 
-Den höga modellpoängen bör därför tolkas försiktigt. Den speglar sannolikt att kunskapsgrafen kopplar samman tuberkulos och öronsjukdom snarare än en verklig behandlingseffekt vid vanlig otitis media.
+Den höga modellpoängen bör därför tolkas försiktigt.
 
 ---
 
@@ -127,7 +127,7 @@ Varningar och kontraindikationer från svensk produktresumé saknas i underlaget
 - Kompletterande verkningsmekanismdata
 - Aktuell marknadsstatus, eftersom båda svenska godkännandena är indragna
 
-**Övriga förutsagda diagnoser:** Förutsägelsen för **Lyme-sjukdom** (poäng 99,4 %, L4) har markerats som en forskningsfråga. Stödet är svagt och indirekt, och ett första steg skulle vara *in vitro*-studier av persisterande borreliaceller. Övriga öronrelaterade förutsägelser (otosalpingit, icke-suppurativ och allergisk otitis media, kolesterolgranulom i mellanörat, infektiös otitis interna) saknar klinisk evidens och en rimlig mekanism.
+Stödet är svagt och indirekt, och ett första steg skulle vara *in vitro*-studier av persisterande borreliaceller. Övriga öronrelaterade förutsägelser (otosalpingit, icke-suppurativ och allergisk otitis media, kolesterolgranulom i mellanörat, infektiös otitis interna) saknar klinisk evidens och en rimlig mekanism.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

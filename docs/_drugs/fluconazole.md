@@ -6,9 +6,9 @@ nav_order: 198
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Fluconazole: predikterad ny indikation Punktformad epitelial keratokonjunktivit (evidensnivå L5). Ursprunglig indikation: Oral candidiasis (enligt TxGNN-kunskapsgrafen"
 monitor_inn: "fluconazole"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
+description: "Fluconazole: predikterad ny indikation Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifter…"
 ---
 
 # Fluconazole
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Flukonazol: Från oral candidiasis till punktformad epitelial keratokonjunktivit
+## Fluconazole: Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Flukonazol är ett svampmedel (azol) som ursprungligen används mot candidainfek
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Oral candidiasis (enligt TxGNN-kunskapsgrafen; godkänd indikationstext saknas i svenska godkännanden) |
-| Förutsagd ny indikation | Punktformad epitelial keratokonjunktivit |
-| TxGNN-förutsägelsepoäng | 99,2 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis) |
+| TxGNN-förutsägelsepoäng | 0.9924 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 19) |
 | Antal godkännanden | 20 (alla avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 Sambandet med den nya indikationen är svagt. Punktformad epitelial keratokonjunktivit orsakas oftast av virus (t.ex. adenovirus) eller av icke-infektiös inflammation, så en direkt svampdödande förklaring är inte uppenbar. Ett möjligt, men spekulativt, samband vore en roll vid ögonytesjukdom kopplad till svampkeratit. Det kan inte bekräftas med tillgängliga data.
 
-TxGNN-poängen (0,992) är en ren modellprediktion och ska tolkas med stor försiktighet.
+TxGNN-poängen (0,9924) är en ren modellprediktion och ska tolkas med stor försiktighet.
 
 ---
 
@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är avregistrerade och inget är giltigt för närvarande. Indikationstext saknas för samtliga. Fem av godkännandena visas nedan.
+Indikationstext saknas för samtliga. Fem av godkännandena visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
 |---------|------|------|-----------|
@@ -113,7 +113,7 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen stöds enbart av modellen (L5), utan kliniska prövningar eller litteratur, och ett tydligt mekanistiskt samband saknas eftersom sjukdomen oftast är viral eller inflammatorisk. Dessutom är alla svenska godkännanden avregistrerade.
+- Förutsägelsen stöds enbart av modellen (L5), utan kliniska prövningar eller litteratur, och ett tydligt mekanistiskt samband saknas eftersom sjukdomen oftast är viral eller inflammatorisk.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé (varningar och kontraindikationer) från Läkemedelsverket, eftersom detta är ett blockerande dataglapp.

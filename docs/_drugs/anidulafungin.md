@@ -10,6 +10,7 @@ indication_count: 0
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Anidulafungin

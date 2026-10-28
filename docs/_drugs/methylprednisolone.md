@@ -4,7 +4,7 @@ title: Methylprednisolone
 parent: Måttlig evidens (L3-L4)
 nav_order: 287
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Methylprednisolone: predikterad ny indikation Alopecia areata (evidensnivå L3). Ursprunglig indikation: Autoimmun sjukdom (godkänd indikationstext saknas i de svenska godkän…"
 monitor_inn: "methylprednisolone"
@@ -14,7 +14,7 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 # Methylprednisolone
 {: .fs-9 }
 
-Evidensnivå: **L3** | Förutsagda indikationer: **10** st
+Evidensnivå: **L3** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Metylprednisolon är en kortikosteroid (glukokortikoid) som ursprungligen använ
 |------|------|
 | Ursprunglig indikation | Autoimmun sjukdom (godkänd indikationstext saknas i de svenska godkännandena) |
 | Förutsagd ny indikation | Alopecia areata |
-| TxGNN-förutsägelsepoäng | 99,99 % |
+| TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
-| Antal godkännanden | 9 (alla återkallade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
+| Antal godkännanden | 9 (giltiga: 9) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -97,11 +97,11 @@ Vid svår sjukdom ges metylprednisolon som pulsbehandling (oral eller intravenö
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 58414 | Medrol (Ebb Medical AB) | Tablett | – (återkallat) |
-| 63218 | Medrol (2care4 ApS) | Tablett | – (återkallat) |
-| 49092 | Methylprednisolone Orion | Tablett | – (återkallat) |
-| 49091 | Methylprednisolone Orion | Tablett | – (återkallat) |
-| 64341 | Methylprednisolone Bijon | Tablett | – (återkallat) |
+| 58414 | Medrol (Ebb Medical AB) | Tablett | – (godkänt) |
+| 63218 | Medrol (2care4 ApS) | Tablett | – (godkänt) |
+| 49092 | Methylprednisolone Orion | Tablett | – (godkänt) |
+| 49091 | Methylprednisolone Orion | Tablett | – (godkänt) |
+| 64341 | Methylprednisolone Bijon | Tablett | – (godkänt) |
 
 Totalt finns 9 godkännanden, och samtliga är återkallade. Ytterligare fyra Medrol-godkännanden (62997, 58320, 5862 och 9513) är också återkallade.
 
@@ -124,7 +124,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Det finns en avslutad fas 4-prövning och flera observationsstudier som stöder pulsbehandling med metylprednisolon vid svår alopecia areata, och den biologiska förklaringen är rimlig. Evidensen saknar dock randomiserade kontrollerade studier, och alla svenska godkännanden är återkallade.
+- Det finns en avslutad fas 4-prövning och flera observationsstudier som stöder pulsbehandling med metylprednisolon vid svår alopecia areata, och den biologiska förklaringen är rimlig. Evidensen saknar dock randomiserade kontrollerade studier, och 9 av 9 svenska godkännanden är giltiga.
 
 **För att gå vidare krävs:**
 - Resultat och design från fas 4-prövningen NCT01167946 samt helst randomiserade, kontrollerade studier.

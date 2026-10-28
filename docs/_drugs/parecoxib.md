@@ -4,17 +4,17 @@ title: Parecoxib
 parent: Måttlig evidens (L3-L4)
 nav_order: 338
 evidence_level: L3
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Parecoxib: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L3). Ursprunglig indikation: Ej angiven i tillgängliga licensuppgifter"
 monitor_inn: "parecoxib"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "pulmonary hypertension"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension"]
 ---
 
 # Parecoxib
 {: .fs-9 }
 
-Evidensnivå: **L3** | Förutsagda indikationer: **4** st
+Evidensnivå: **L3** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -52,8 +52,8 @@ Parecoxib är en injicerbar, selektiv COX-2-hämmare (prodrug till valdecoxib). 
 | Förutsagd ny indikation | Migrän (migraine disorder) |
 | TxGNN-förutsägelsepoäng | 99,5 % |
 | Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 3 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---

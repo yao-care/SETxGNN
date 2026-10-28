@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Deferasirox
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 129
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Deferasirox: predikterad ny indikation HIV-infektion (evidensnivå L5). Ursprunglig indikation: Beta-talassemi och relaterade hemoglobinopatier (enligt kunskapsgrafen"
 monitor_inn: "DEFERASIROX"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
+description: "Deferasirox: predikterad ny indikation HIV infectious disease (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Deferasirox
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **5** st
+Evidensnivå: **L4** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-## Deferasirox: Från beta-talassemi och hemoglobinopati till HIV-infektion
+## Deferasirox: HIV infectious disease
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Deferasirox är ett järnkelerande läkemedel som i den data som sammanställts 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Beta-talassemi och relaterade hemoglobinopatier (enligt kunskapsgrafen; indikationstext saknas i svenska godkännanden) |
-| Förutsagd ny indikation | HIV-infektion |
-| TxGNN-förutsägelsepoäng | 99,4 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | HIV infectious disease |
+| TxGNN-förutsägelsepoäng | 0.9940 |
 | Evidensnivå | L4 (endast preklinisk/mekanistisk evidens) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 18 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 18 av 18) |
+| Antal godkännanden | 18 (giltiga: 18) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -119,7 +119,6 @@ Fullständiga varningar och kontraindikationer från produktresumén ingår inte
 - Laboratoriestudier som testar om deferasirox påverkar HIV-replikation i cellmodeller, inklusive effektens riktning.
 - Hämtning av verkningsmekanism från DrugBank.
 - Komplett säkerhetsgranskning utifrån produktresumén, särskilt med tanke på lever-, njur- och blodbildspåverkan hos en HIV-population.
-- Bedömning av tillgänglighet, eftersom inga godkännanden för närvarande är giltiga i Sverige.
 - Vid positiva prekliniska resultat: planering av en tidig klinisk studie.
 ## Ansvarsfriskrivning
 

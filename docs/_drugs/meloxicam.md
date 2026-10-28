@@ -4,17 +4,17 @@ title: Meloxicam
 parent: Endast modellprediktion (L5)
 nav_order: 275
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Meloxicam: predikterad ny indikation Akromesomel dysplasi, Hunter-Thompson-typ (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i de svenska godkännandena. E…"
 monitor_inn: "meloxicam"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+description: "Meloxicam: predikterad ny indikation Acromesomelic dysplasia, Hunter-Thompson type (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Meloxicam
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Meloxikam: Från reumatoid artrit och artros till akromesomel dysplasi av Hunter-Thompson-typ
+## Meloxicam: Acromesomelic dysplasia, Hunter-Thompson type
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Meloxikam är ett icke-steroidalt antiinflammatoriskt läkemedel (NSAID) som urs
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns registrerad i de svenska godkännandena. Enligt kunskapsgrafen: reumatoid artrit, artros, juvenil idiopatisk artrit och spondyloartropati |
-| Förutsagd ny indikation | Akromesomel dysplasi, Hunter-Thompson-typ |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Acromesomelic dysplasia, Hunter-Thompson type |
+| TxGNN-förutsägelsepoäng | 0.9992 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 4 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Akromesomel dysplasi av Hunter-Thompson-typ är en ärftlig skelettsjukdom som orsakas av funktionsförlustmutationer i CDMP1/GDF5. Dessa mutationer påverkar BMP-signalering och broskutveckling. Någon tydlig mekanistisk koppling till meloxikam har inte identifierats: att hämma prostaglandinsyntesen kan inte förväntas korrigera en genetisk defekt i broskbildningen.
 
-Det höga modellpoängen speglar sannolikt att sjukdomen ligger nära andra muskuloskeletala sjukdomar i kunskapsgrafen, snarare än ett verkligt terapeutiskt samband. Förutsägelsen bör därför tolkas med stor försiktighet.
+Förutsägelsen bör därför tolkas med stor försiktighet.
 
 ---
 
@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Alla fyra godkännanden är avregistrerade. Ingen indikationstext finns registrerad.
+Ingen indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -122,7 +122,7 @@ Produktresumé med varningar och kontraindikationer ingick inte i underlaget. F�
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen saknar helt stöd i kliniska prövningar och litteratur (evidensnivå L5), och någon rimlig mekanistisk koppling mellan COX-hämning och en genetisk broskdefekt har inte identifierats. Dessutom är alla svenska godkännanden avregistrerade.
+- Förutsägelsen saknar helt stöd i kliniska prövningar och litteratur (evidensnivå L5), och någon rimlig mekanistisk koppling mellan COX-hämning och en genetisk broskdefekt har inte identifierats.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismen från DrugBank för att kunna analysera mekanistiska samband.

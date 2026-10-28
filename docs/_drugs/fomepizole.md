@@ -6,9 +6,9 @@ nav_order: 207
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Fomepizole: predikterad ny indikation Skleroserande kolangit (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad i det svenska godkännandet"
 monitor_inn: "fomepizole"
 predicted_indications: ["sclerosing cholangitis"]
+description: "Fomepizole: predikterad ny indikation Skleroserande kolangit (sclerosing cholangitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Fomepizole
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Fomepizol: Från ej angiven ursprunglig indikation till skleroserande kolangit
+## Fomepizole: Skleroserande kolangit (sclerosing cholangitis)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Fomepizol är en hämmare av enzymet alkoholdehydrogenas och används kliniskt v
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext registrerad i det svenska godkännandet |
-| Förutsagd ny indikation | Skleroserande kolangit |
-| TxGNN-förutsägelsepoäng | 99,3 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Skleroserande kolangit (sclerosing cholangitis) |
+| TxGNN-förutsägelsepoäng | 0.9928 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -72,9 +72,9 @@ Det finns inga data som kopplar hämning av alkoholdehydrogenas till sjukdomsmek
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 17485 | Fomepizole SERB | Koncentrat till infusionsvätska, lösning | Ingen indikationstext registrerad (status: avregistrerad) |
+| 17485 | Fomepizole SERB | Koncentrat till infusionsvätska, lösning | Ingen indikationstext registrerad (status: godkänd) |
 
-Tillverkare: SERB S.A. Produkten är för närvarande inte marknadsförd i Sverige.
+Tillverkare: SERB S.A.
 
 ---
 

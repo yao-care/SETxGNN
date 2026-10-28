@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00770-tricuspid-valve-agenesis",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00770"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "tricuspid valve agenesis"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://setxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://setxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9993
+    }
+  ]
+}

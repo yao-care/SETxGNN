@@ -6,9 +6,9 @@ nav_order: 294
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Midodrine: predikterad ny indikation Variabelt proteassensitiv prionopati (evidensnivå L5). Ursprunglig indikation: Ortostatisk hypotension…"
 monitor_inn: "midodrine"
 predicted_indications: ["variably protease-sensitive prionopathy", "faciodigitogenital syndrome", "attention deficit-hyperactivity disorder", "hypotensive disorder", "attention deficit hyperactivity disorder, inattentive type", "sinoatrial node disease", "monogenic obesity", "specific developmental disorder", "obsolete hypertelorism (disease)", "sinoatrial block"]
+description: "Midodrine: predikterad ny indikation Variably protease-sensitive prionopathy (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Midodrine
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Midodrin: Från ortostatisk hypotension till variabelt proteassensitiv prionopati
+## Midodrine: Variably protease-sensitive prionopathy
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Midodrin är ett blodtryckshöjande läkemedel som tas som tablett. Enligt kunskapsgrafen används det mot ortostatisk hypotension, posturalt ortostatiskt takykardisyndrom (POTS) och multipel systematrofi. TxGNN-modellen förutsäger att det kan vara effektivt mot **variabelt proteassensitiv prionopati**, en mycket sällsynt prionsjukdom. För denna förutsägelse finns **0 kliniska prövningar** och **0 publikationer**, så den vilar enbart på modellens beräkning.
+Midodrin är ett blodtryckshöjande läkemedel som tas som tablett. TxGNN-modellen förutsäger att det kan vara effektivt mot **variabelt proteassensitiv prionopati**, en mycket sällsynt prionsjukdom. För denna förutsägelse finns **0 kliniska prövningar** och **0 publikationer**, så den vilar enbart på modellens beräkning.
 
 ---
 
@@ -48,12 +48,12 @@ Midodrin är ett blodtryckshöjande läkemedel som tas som tablett. Enligt kunsk
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ortostatisk hypotension, POTS och multipel systematrofi (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Variabelt proteassensitiv prionopati |
-| TxGNN-förutsägelsepoäng | 99,99 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Variably protease-sensitive prionopathy |
+| TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 15 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 15 av 15) |
+| Antal godkännanden | 15 (giltiga: 15) |
 | Rekommenderat beslut | Avvakta |
 
 ---

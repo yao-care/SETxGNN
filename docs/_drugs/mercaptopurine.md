@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Mercaptopurine
-parent: Endast modellprediktion (L5)
+parent: Hög evidens (L1-L2)
 nav_order: 279
-evidence_level: L5
-indication_count: 10
+evidence_level: L2
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Mercaptopurine: predikterad ny indikation Myeloisk leukemi (evidensnivå L5). Ursprunglig indikation: Akut lymfatisk leukemi"
 monitor_inn: "mercaptopurine"
 predicted_indications: ["myeloid leukemia", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma", "well-differentiated fetal adenocarcinoma of the lung"]
+description: "Mercaptopurine: predikterad ny indikation Myeloid leukemia (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Mercaptopurine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L2** | Förutsagda indikationer: **8** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Merkaptopurin: Från akut lymfatisk leukemi till myeloisk leukemi
+## Mercaptopurine: Myeloid leukemia
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Merkaptopurin (Puri-nethol) är en purinantimetabolit som ursprungligen används
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Akut lymfatisk leukemi (godkännandetexterna i det svenska registret saknar indikationstext; uppgiften kommer från läkemedlets kända indikationer i kunskapsgrafen) |
-| Förutsagd ny indikation | Myeloisk leukemi |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Myeloid leukemia |
+| TxGNN-förutsägelsepoäng | 0.9994 |
 | Evidensnivå | L2 (enligt datasammanställningen; flera fas 3-prövningar finns, men merkaptopurinets enskilda bidrag går inte att fastställa) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 4 (samtliga avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -106,7 +106,7 @@ Tabellen visar de tio mest relevanta av prövningarna för myeloisk leukemi.
 
 ### Marknadsinformation Sverige
 
-Alla fyra godkännanden är avregistrerade. Indikationstext saknas i registret.
+Indikationstext saknas i registret.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

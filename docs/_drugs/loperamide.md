@@ -6,9 +6,9 @@ nav_order: 269
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Loperamide: predikterad ny indikation Akut smittsam konjunktivit (evidensnivå L5). Ursprunglig indikation: Diarrésjukdom och dysenteri (enligt kunskapsgrafen"
 monitor_inn: "loperamide"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "chronic follicular conjunctivitis", "conjunctival folliculosis", "serous conjunctivitis except viral", "parasitic conjunctivitis", "Angelucci syndrome"]
+description: "Loperamide: predikterad ny indikation Acute contagious conjunctivitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Loperamide
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Loperamid: Från diarrésjukdom och dysenteri till akut smittsam konjunktivit
+## Loperamide: Acute contagious conjunctivitis
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Loperamid är ett symtomlindrande läkemedel mot diarré som ursprungligen användes vid diarrésjukdom och dysenteri. TxGNN-modellen förutsäger att det kan vara effektivt mot **akut smittsam konjunktivit** med mycket hög modellpoäng (99,97 %), men för denna indikation finns **inga kliniska prövningar och ingen publicerad litteratur**. Förutsägelsen bygger enbart på modellen. Bland de tio främsta förutsägelserna finns dessutom endast publikationer som pekar på **risker** (fallrapporter om toxisk megakolon och andningsdepression), inte på nytta.
+Loperamid är ett symtomlindrande läkemedel mot diarré som ursprungligen användes vid diarrésjukdom och dysenteri. TxGNN-modellen förutsäger att det kan vara effektivt mot **akut smittsam konjunktivit** med mycket hög modellpoäng (0,9997), men för denna indikation finns **inga kliniska prövningar och ingen publicerad litteratur**. Förutsägelsen bygger enbart på modellen. Bland de tio främsta förutsägelserna finns dessutom endast publikationer som pekar på **risker** (fallrapporter om toxisk megakolon och andningsdepression), inte på nytta.
 
 ---
 
@@ -48,12 +48,12 @@ Loperamid är ett symtomlindrande läkemedel mot diarré som ursprungligen anvä
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Diarrésjukdom och dysenteri (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Akut smittsam konjunktivit |
-| TxGNN-förutsägelsepoäng | 99,97 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Acute contagious conjunctivitis |
+| TxGNN-förutsägelsepoäng | 0.9997 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 15 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 15 av 15) |
+| Antal godkännanden | 15 (giltiga: 15) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Loperamid är ett symtomlindrande läkemedel mot diarré som ursprungligen anvä
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Det som är allmänt känt är att loperamid verkar som agonist på perifera my-opioidreceptorer i tarmens nervplexa, vilket minskar tarmens rörlighet och sekretion. Därför lindrar det diarré, men det behandlar inte orsaken till den.
 
-Något rimligt samband med ögonens bindhinna har inte kunnat identifieras. Opioidsignalering finns på ögats yta, men inget kopplar den till infektiös konjunktivit. Loperamid saknar känd antiinfektiös eller antiinflammatorisk effekt på bindhinnan. Den höga poängen speglar sannolikt att modellen placerar sjukdomen nära infektions- och diarrénoder i kunskapsgrafen, inte läkemedelsspecifik biologi. Flera närliggande konjunktivittermer har dessutom exakt samma poäng (0,99648), vilket tyder på en artefakt från sjukdomsontologin.
+Något rimligt samband med ögonens bindhinna har inte kunnat identifieras. Opioidsignalering finns på ögats yta, men inget kopplar den till infektiös konjunktivit. Loperamid saknar känd antiinfektiös eller antiinflammatorisk effekt på bindhinnan. Flera närliggande konjunktivittermer har dessutom exakt samma poäng (0,99648), vilket tyder på en artefakt från sjukdomsontologin.
 
 Av samma skäl bedöms de andra konjunktivitrelaterade förutsägelserna (konjunktivit, pseudomembranös konjunktivit, kronisk follikulär konjunktivit, konjunktival folliculos, serös konjunktivit utom viral, parasitär konjunktivit och Angeluccis syndrom) sakna stöd.
 

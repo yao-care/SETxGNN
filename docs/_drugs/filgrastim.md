@@ -6,9 +6,9 @@ nav_order: 196
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Filgrastim: predikterad ny indikation Primär frisättningsstörning av trombocyter (evidensnivå L5). Ursprunglig indikation: Konstitutionell neutropeni, svår medfödd neutropeni…"
 monitor_inn: "FILGRASTIM"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
+description: "Filgrastim: predikterad ny indikation Primary release disorder of platelets (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Filgrastim
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Filgrastim: Från konstitutionell neutropeni till primär frisättningsstörning av trombocyter
+## Filgrastim: Primary release disorder of platelets
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Filgrastim är en tillväxtfaktor för vita blodkroppar (G-CSF) som ursprunglige
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Konstitutionell neutropeni, svår medfödd neutropeni, cyklisk hematopoes, kronisk familjär neutropeni (enligt kunskapsgrafen; ingen indikationstext finns i det svenska godkännandet) |
-| Förutsagd ny indikation | Primär frisättningsstörning av trombocyter |
-| TxGNN-förutsägelsepoäng | 99,998 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Primary release disorder of platelets |
+| TxGNN-förutsägelsepoäng | 1.0000 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Filgrastim är en tillväxtfaktor för vita blodkroppar (G-CSF) som ursprunglige
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är filgrastim en G-CSF som verkar på stamceller i den neutrofila cellinjen. Dess effekt vid neutropeni är väl känd, men det finns inget etablerat samband med trombocytfunktion eller trombocyternas frisättningsmekanismer.
 
-Den höga poängen speglar sannolikt att sjukdomarna ligger nära varandra i kunskapsgrafen (blodsjukdomar i allmänhet), snarare än en biologisk förklaring. Neutropeni och trombocytfrisättningsstörningar är båda ärftliga hematologiska tillstånd, men deras orsaker skiljer sig åt: filgrastim påverkar neutrofilernas bildning, medan trombocytstörningen gäller trombocyternas funktion.
+Neutropeni och trombocytfrisättningsstörningar är båda ärftliga hematologiska tillstånd, men deras orsaker skiljer sig åt: filgrastim påverkar neutrofilernas bildning, medan trombocytstörningen gäller trombocyternas funktion.
 
 Förutsägelsen bör därför ses som en hypotes av låg trovärdighet utan mekanistiskt stöd.
 

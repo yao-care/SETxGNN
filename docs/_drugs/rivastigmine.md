@@ -6,9 +6,9 @@ nav_order: 384
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Rivastigmine: predikterad ny indikation Glaukom (evidensnivå L5). Ursprunglig indikation: Alzheimers sjukdom (enligt kunskapsgrafen"
 monitor_inn: "rivastigmine"
 predicted_indications: ["glaucoma"]
+description: "Rivastigmine: predikterad ny indikation Glaucoma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Rivastigmine
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Rivastigmin: Från Alzheimers sjukdom till glaukom
+## Rivastigmine: Glaucoma
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Rivastigmin är en kolinesterashämmare som ursprungligen används vid Alzheimer
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Alzheimers sjukdom (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Glaukom |
-| TxGNN-förutsägelsepoäng | 99,3 % |
-| Evidensnivå | L4 (endast prekliniska studier och mekanismstudier) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 18 (alla avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Glaucoma |
+| TxGNN-förutsägelsepoäng | 0.9927 |
+| Evidensnivå | L5 (endast prekliniska studier och mekanismstudier) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 18 av 18) |
+| Antal godkännanden | 18 (giltiga: 18) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -86,7 +86,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 18 godkännanden är avregistrerade. De fem första visas nedan. Indikationstext saknas i registret.
+De fem första visas nedan. Indikationstext saknas i registret.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -113,7 +113,7 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen består av en djurstudie på kanin och två översikter, utan humandata. Den höga modellpoängen är enbart en beräkning. Dessutom är alla svenska godkännanden avregistrerade, och en ögonberedning skulle kräva ny utveckling.
+- Evidensen består av en djurstudie på kanin och två översikter, utan humandata. Den höga modellpoängen är enbart en beräkning.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket för varningar och kontraindikationer samt verkningsmekanism från DrugBank.

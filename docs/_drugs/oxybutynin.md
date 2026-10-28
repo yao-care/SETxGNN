@@ -6,9 +6,9 @@ nav_order: 332
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Oxybutynin: predikterad ny indikation Restless legs syndrome (evidensnivå L5). Ursprunglig indikation: Överaktiv blåsa, neurogen blåsfunktionsstörning…"
 monitor_inn: "oxybutynin"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
+description: "Oxybutynin: predikterad ny indikation Restless legs syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Oxybutynin
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Oxybutynin: Från överaktiv blåsa till restless legs syndrome
+## Oxybutynin: Restless legs syndrome
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Oxybutynin är ett antimuskarint läkemedel som ursprungligen används vid överaktiv blåsa och neurogen blåsfunktionsstörning. TxGNN-modellen förutsäger att det kan vara effektivt mot **restless legs syndrome** med hög modellpoäng (99,7 %), men det finns **inga kliniska prövningar och ingen publicerad litteratur** som stöder denna riktning. Prediktionen vilar därför enbart på modellen.
+Oxybutynin är ett antimuskarint läkemedel som ursprungligen används vid överaktiv blåsa och neurogen blåsfunktionsstörning. TxGNN-modellen förutsäger att det kan vara effektivt mot **restless legs syndrome** med hög modellpoäng (0,9974), men det finns **inga kliniska prövningar och ingen publicerad litteratur** som stöder denna riktning. Prediktionen vilar därför enbart på modellen.
 
 ---
 
@@ -48,12 +48,12 @@ Oxybutynin är ett antimuskarint läkemedel som ursprungligen används vid över
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Överaktiv blåsa, neurogen blåsfunktionsstörning, cauda equina-syndrom (enligt kunskapsgrafen; ingen godkänd indikationstext finns i de svenska godkännandena) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Restless legs syndrome |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| TxGNN-förutsägelsepoäng | 0.9974 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 8 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
+| Antal godkännanden | 8 (giltiga: 8) |
 | Rekommenderat beslut | Avvakta |
 
 ---

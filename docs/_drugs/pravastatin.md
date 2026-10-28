@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pravastatin
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 360
-evidence_level: L5
-indication_count: 9
+evidence_level: L4
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Pravastatin: predikterad ny indikation Homozygot familjär hyperkolesterolemi (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns i de svenska godkännandena. Enlig…"
 monitor_inn: "pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
+description: "Pravastatin: predikterad ny indikation HIV infectious disease (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Pravastatin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **9** st
+Evidensnivå: **L4** | Förutsagda indikationer: **6** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-## Pravastatin: Från hyperlipidemi och åderförkalkning till homozygot familjär hyperkolesterolemi
+## Pravastatin: HIV infectious disease
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Pravastatin är ett statin som ursprungligen användes mot förhöjda blodfetter
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: hyperlipidemi (bl.a. hypertriglyceridemi, familjär kombinerad hyperlipidemi), åderförkalkning och cerebrovaskulär sjukdom |
-| Förutsagd ny indikation | Homozygot familjär hyperkolesterolemi |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | HIV infectious disease |
+| TxGNN-förutsägelsepoäng | 0.9974 |
 | Evidensnivå | L4 (indirekta studier och mekanismdata, inga studier med pravastatin vid denna sjukdom) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 5 (samtliga avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
+| Antal godkännanden | 5 (giltiga: 5) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -97,15 +97,14 @@ Ingen av publikationerna nedan innehåller en studie av pravastatin vid homozygo
 
 ### Marknadsinformation Sverige
 
-Alla fem godkännanden är avregistrerade, och ingen indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----------|-----------|
-| 20475 | Pravastatin Sandoz | Tablett | Sandoz A/S | Avregistrerad |
-| 20474 | Pravastatin Sandoz | Tablett | Sandoz A/S | Avregistrerad |
-| 21437 | Pravastatin Teva | Tablett | Teva Sweden AB | Avregistrerad |
-| 21435 | Pravastatin Teva | Tablett | Teva Sweden AB | Avregistrerad |
-| 21436 | Pravastatin Teva | Tablett | Teva Sweden AB | Avregistrerad |
+| 20475 | Pravastatin Sandoz | Tablett | Sandoz A/S | Godkänd |
+| 20474 | Pravastatin Sandoz | Tablett | Sandoz A/S | Godkänd |
+| 21437 | Pravastatin Teva | Tablett | Teva Sweden AB | Godkänd |
+| 21435 | Pravastatin Teva | Tablett | Teva Sweden AB | Godkänd |
+| 21436 | Pravastatin Teva | Tablett | Teva Sweden AB | Godkänd |
 
 ---
 

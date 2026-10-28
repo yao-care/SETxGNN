@@ -4,17 +4,17 @@ title: Phenylpropanolamine
 parent: Endast modellprediktion (L5)
 nav_order: 348
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Phenylpropanolamine: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad i godkännandet. Enligt kunskapsgra…"
 monitor_inn: "phenylpropanolamine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "rosacea conjunctivitis", "faucial diphtheria", "cervical disc degenerative disorder"]
+predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "faucial diphtheria", "cervical disc degenerative disorder"]
+description: "Phenylpropanolamine: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Phenylpropanolamine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **5** st
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-## Fenylpropanolamin: Från allergisk rinit och förkylning till sjukdom i nässlemhinnan (nasal cavity disease)
+## Phenylpropanolamine: Sjukdom i näshålan (nasal cavity disease)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Fenylpropanolamin (varumärket Rinexin) är ett avsvällande läkemedel som ursp
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext registrerad i godkännandet. Enligt kunskapsgrafen: allergisk rinit, vasomotorisk rinit, faryngit, förkylning, konjunktivit, nasofaryngit |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Sjukdom i näshålan (nasal cavity disease) |
-| TxGNN-förutsägelsepoäng | 99,98 % |
-| Evidensnivå | L4 (prekliniska studier och mekanismstudier, en jämförande klinisk studie) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| TxGNN-förutsägelsepoäng | 0.9998 |
+| Evidensnivå | L5 (prekliniska studier och mekanismstudier, en jämförande klinisk studie) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---

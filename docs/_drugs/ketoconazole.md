@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ketoconazole
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 244
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Ketoconazole: predikterad ny indikation Akne (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i svenska godkännanden. Enligt kunskapsgr…"
 monitor_inn: "ketoconazole"
 predicted_indications: ["acne (disease)"]
+description: "Ketoconazole: predikterad ny indikation Akne (acne (disease)) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ketoconazole
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **1** st
+Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Ketokonazol: Från svampinfektioner i huden till akne
+## Ketoconazole: Akne (acne (disease))
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Ketokonazol är ett svampmedel (azol) som ursprungligen användes mot hudsvampin
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns i svenska godkännanden. Enligt kunskapsgrafen: fotsvamp, seborroiskt eksem, pityriasis versicolor, hudcandidos m.fl. |
-| Förutsagd ny indikation | Akne |
-| TxGNN-förutsägelsepoäng | 99,8 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Akne (acne (disease)) |
+| TxGNN-förutsägelsepoäng | 0.9980 |
 | Evidensnivå | L4 (prekliniska studier och mekanismstudier; ingen avslutad fas 2/3 RCT) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 4 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---

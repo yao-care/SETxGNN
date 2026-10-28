@@ -4,17 +4,17 @@ title: Esomeprazole
 parent: Endast modellprediktion (L5)
 nav_order: 174
 evidence_level: L5
-indication_count: 3
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Esomeprazole: predikterad ny indikation Duodenogastrisk reflux (evidensnivå L5). Ursprunglig indikation: Peptiskt ulkus, gastroesofageal refluxsjukdom…"
 monitor_inn: "esomeprazole"
 predicted_indications: ["duodenal obstruction"]
+description: "Esomeprazole: predikterad ny indikation Duodenal obstruction (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Esomeprazole
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **3** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Esomeprazol: Från peptiskt ulkus (magsår/sår på tolvfingertarmen) till duodenogastrisk reflux
+## Esomeprazole: Duodenal obstruction
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Esomeprazol är en protonpumpshämmare som ursprungligen används mot syrarelate
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Peptiskt ulkus, gastroesofageal refluxsjukdom, esofagit (godkänd indikationstext saknas i de svenska godkännandena, så uppgiften kommer från läkemedlets kända indikationer) |
-| Förutsagd ny indikation | Duodenogastrisk reflux |
-| TxGNN-förutsägelsepoäng | 99,5 % |
-| Evidensnivå | L4 (endast indirekt stöd via en allmän översiktsartikel och mekanistiska resonemang) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 19 (samtliga avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Duodenal obstruction |
+| TxGNN-förutsägelsepoäng | 0.9945 |
+| Evidensnivå | L5 (endast indirekt stöd via en allmän översiktsartikel och mekanistiska resonemang) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 19 av 19) |
+| Antal godkännanden | 19 (giltiga: 19) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -111,7 +111,7 @@ Samtliga 19 godkännanden är avregistrerade och inget är för närvarande gilt
 **Beslut: Avvakta**
 
 **Motivering:**
-- Stödet för duodenogastrisk reflux är mycket svagt: inga kliniska prövningar, endast en allmän översiktsartikel, och en mekanism som bara adresserar syrakomponenten. Alla svenska godkännanden är dessutom avregistrerade.
+- Stödet för duodenogastrisk reflux är mycket svagt: inga kliniska prövningar, endast en allmän översiktsartikel, och en mekanism som bara adresserar syrakomponenten.
 
 **För att gå vidare krävs:**
 - Studier eller litteratur som direkt undersöker syrahämning (esomeprazol eller andra protonpumpshämmare) vid duodenogastrisk reflux, helst randomiserade kontrollerade prövningar med symtom- och slemhinneeffektmått.

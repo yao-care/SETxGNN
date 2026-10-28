@@ -6,9 +6,9 @@ nav_order: 139
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Diclofenac: predikterad ny indikation Hypotrichosis simplex of the scalp (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns angiven i de svenska godkännanden…"
 monitor_inn: "diclofenac"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
+description: "Diclofenac: predikterad ny indikation Hypotrichosis simplex of the scalp (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Diclofenac
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Diklofenak: Från aktinisk keratos och reumatiska ledsjukdomar till hypotrichosis simplex of the scalp
+## Diclofenac: Hypotrichosis simplex of the scalp
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Diklofenak är ett icke-steroidalt antiinflammatoriskt läkemedel (NSAID). Enligt den kunskapsgraf som TxGNN bygger på används det vid bland annat aktinisk keratos, reumatoid artrit, ankyloserande spondylit och artros. TxGNN-modellen förutsäger att det kan vara effektivt mot **hypotrichosis simplex of the scalp**, en ärftlig form av håravfall. För denna förutsägelse finns **0 kliniska prövningar** och **0 publikationer**, och inget biologiskt samband har kunnat identifieras.
+Diklofenak är ett icke-steroidalt antiinflammatoriskt läkemedel (NSAID) som används vid bland annat aktinisk keratos, reumatoid artrit, ankyloserande spondylit och artros. TxGNN-modellen (deep learning) förutsäger att det kan vara effektivt mot **hypotrichosis simplex of the scalp**, en ärftlig form av håravfall. Förutsägelsen kommer från modellen och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens. För denna förutsägelse finns **0 kliniska prövningar** och **0 publikationer**, och inget biologiskt samband har kunnat identifieras.
 
 ---
 
@@ -48,11 +48,11 @@ Diklofenak är ett icke-steroidalt antiinflammatoriskt läkemedel (NSAID). Enlig
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns angiven i de svenska godkännandena. Enligt kunskapsgrafen: aktinisk keratos, reumatoid artrit, ankyloserande spondylit, artros m.fl. |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Hypotrichosis simplex of the scalp |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| TxGNN-förutsägelsepoäng | 0.9969 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (samtliga indragna) |
 | Rekommenderat beslut | Avvakta |
 

@@ -6,9 +6,9 @@ nav_order: 220
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Haloperidol: predikterad ny indikation Kongenital glykosyleringsrubbning med defekt fukosylering (evidensnivå L5). Ursprunglig indikation: Psykotiska sjukdomar, schizofreni…"
 monitor_inn: "HALOPERIDOL"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
+description: "Haloperidol: predikterad ny indikation Congenital disorder of glycosylation with defective fucosylation (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Haloperidol
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Haloperidol: Från psykotiska sjukdomar till kongenital glykosyleringsrubbning med defekt fukosylering
+## Haloperidol: Congenital disorder of glycosylation with defective fucosylation
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Haloperidol är ett antipsykotiskt läkemedel som ursprungligen används vid psykotiska sjukdomar, schizofreni och Tourettes syndrom. TxGNN-modellen förutsäger att det kan vara effektivt mot **kongenital glykosyleringsrubbning med defekt fukosylering**, med mycket hög modellpoäng (**99,9 %**). Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, så den vilar enbart på grafbaserad modellering.
+Haloperidol är ett antipsykotiskt läkemedel som ursprungligen används vid psykotiska sjukdomar, schizofreni och Tourettes syndrom. TxGNN-modellen förutsäger att det kan vara effektivt mot **kongenital glykosyleringsrubbning med defekt fukosylering**, med mycket hög modellpoäng (**0,9990**). Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, så den vilar enbart på grafbaserad modellering.
 
 ---
 
@@ -48,12 +48,12 @@ Haloperidol är ett antipsykotiskt läkemedel som ursprungligen används vid psy
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Psykotiska sjukdomar, schizofreni, schizoaffektiv sjukdom och Tourettes syndrom (de svenska godkännandena saknar indikationstext, så uppgiften kommer från modellens kunskapsgraf) |
-| Förutsagd ny indikation | Kongenital glykosyleringsrubbning med defekt fukosylering |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Congenital disorder of glycosylation with defective fucosylation |
+| TxGNN-förutsägelsepoäng | 0.9991 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 4 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Haloperidol är ett antipsykotiskt läkemedel som ursprungligen används vid psy
 
 Haloperidol är en kraftfull dopamin D2-receptorantagonist. Effekten vid psykos och schizofreni bygger på att dopaminsignalering blockeras i hjärnan.
 
-Någon biologisk koppling mellan D2-blockad och fukosylering, alltså den process där sockerenheten fukos fästs på proteiner, har inte kunnat identifieras. Den höga poängen speglar sannolikt likheter i kunskapsgrafens nätverk och inte en känd mekanism. Förutsägelsen bör därför ses som en hypotes utan biologisk förankring i nuläget.
+Någon biologisk koppling mellan D2-blockad och fukosylering, alltså den process där sockerenheten fukos fästs på proteiner, har inte kunnat identifieras. Förutsägelsen bör därför ses som en hypotes utan biologisk förankring i nuläget.
 
 ---
 
@@ -80,7 +80,6 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga fyra godkännanden är indragna, och inga är giltiga i nuläget.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -111,7 +110,6 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas i de 
 **För att gå vidare krävs:**
 - Biologisk eller mekanistisk grund för en koppling mellan haloperidol och fukosyleringsvägar, till exempel prekliniska studier.
 - Produktresumé och säkerhetsunderlag, eftersom varningar och kontraindikationer saknas i nuvarande data.
-- Klarhet i tillgängligheten i Sverige, eftersom inga giltiga godkännanden finns.
 - Särskild uppmärksamhet på QT-förlängning och den stora mängden registrerade läkemedelsinteraktioner vid en eventuell fortsatt utvärdering.
 ## Ansvarsfriskrivning
 

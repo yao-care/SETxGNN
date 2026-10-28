@@ -4,17 +4,17 @@ title: Ephedrine
 parent: Måttlig evidens (L3-L4)
 nav_order: 166
 evidence_level: L4
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Ephedrine: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L4). Ursprunglig indikation: Allergisk rinit, vasomotorisk rinit, bronkit, faryngit, förkylning"
 monitor_inn: "ephedrine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
+description: "Ephedrine: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ephedrine
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **3** st
+Evidensnivå: **L4** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L4** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Efedrin: Från allergisk rinit till sjukdomar i näshålan
+## Ephedrine: Sjukdom i näshålan (nasal cavity disease)
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Efedrin är ett sympatomimetiskt läkemedel som enligt de data som sammanställts för denna rapport har använts vid bland annat allergisk rinit, vasomotorisk rinit, bronkit, faryngit och förkylning. TxGNN-modellen förutsäger att det kan vara effektivt mot **sjukdomar i näshålan** (poäng cirka 99,9 %), men förutsägelsen ligger mycket nära de ursprungliga indikationerna. Evidensen är svag: **inga kliniska prövningar** och **2 äldre publikationer** av låg kvalitet stöder riktningen.
+Efedrin är ett sympatomimetiskt läkemedel som enligt de data som sammanställts för denna rapport har använts vid bland annat allergisk rinit, vasomotorisk rinit, bronkit, faryngit och förkylning. TxGNN-modellen förutsäger att det kan vara effektivt mot **sjukdomar i näshålan** (poäng cirka 0,9990), men förutsägelsen ligger mycket nära de ursprungliga indikationerna. Evidensen är svag: **inga kliniska prövningar** och **2 äldre publikationer** av låg kvalitet stöder riktningen.
 
 ---
 
@@ -48,12 +48,12 @@ Efedrin är ett sympatomimetiskt läkemedel som enligt de data som sammanställt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Allergisk rinit, vasomotorisk rinit, bronkit, faryngit, förkylning (enligt kunskapsgrafen; godkännandetexter saknas i svenska registret) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Sjukdom i näshålan (nasal cavity disease) |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| TxGNN-förutsägelsepoäng | 0.9990 |
 | Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 16 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 16 av 16) |
+| Antal godkännanden | 16 (giltiga: 16) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -133,8 +133,6 @@ Alla 16 godkännanden är indragna. Ingen godkänd indikationstext finns registr
 
 | Förutsagd indikation | TxGNN-poäng | Evidensnivå | Kommentar |
 |------|------|------|------|
-| Akut laryngofaryngit | 99,9 % | L5 | Inga studier eller publikationer. Den höga poängen speglar sannolikt närheten till faryngit, nasofaryngit och förkylning i kunskapsgrafen. |
-| Trigeminal autonom huvudvärk | 99,3 % | L5 | Inga studier eller publikationer. Biologisk rimlighet är låg, och sympatomimetika kan snarare förvärra huvudvärk eller höja blodtrycket. |
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

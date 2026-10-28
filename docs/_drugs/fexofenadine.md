@@ -6,9 +6,9 @@ nav_order: 195
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Fexofenadine: predikterad ny indikation Rosaceakonjunktivit (evidensnivå L5). Ursprunglig indikation: Allergisk rinit, vasomotorisk rinit, atopisk…"
 monitor_inn: "fexofenadine"
 predicted_indications: ["rosacea conjunctivitis"]
+description: "Fexofenadine: predikterad ny indikation Rosacea conjunctivitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Fexofenadine
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Fexofenadin: Från allergisk rinit till rosaceakonjunktivit
+## Fexofenadine: Rosacea conjunctivitis
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Fexofenadin är en selektiv perifer histamin H1-receptorantagonist (antihistamin
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Allergisk rinit, vasomotorisk rinit, atopisk, papillär och vernal konjunktivit samt idiopatisk urtikaria (enligt kunskapsgrafen; den godkända indikationstexten saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Rosaceakonjunktivit |
-| TxGNN-förutsägelsepoäng | 99,8 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Rosacea conjunctivitis |
+| TxGNN-förutsägelsepoäng | 0.9985 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 18 (samtliga avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 18 av 18) |
+| Antal godkännanden | 18 (giltiga: 18) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,23 +62,23 @@ Fexofenadin är en selektiv perifer histamin H1-receptorantagonist (antihistamin
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för rapporten. Baserat på allmän farmakologisk kunskap blockerar fexofenadin histamin H1-receptorer i perifera vävnader. Därigenom dämpar det histaminmedierad klåda, rodnad och svullnad, och effekten är väl belagd vid allergiska tillstånd.
 
-Fexofenadins godkända användningsområden omfattar redan flera former av allergisk konjunktivit. Det är sannolikt förklaringen till att modellen ger rosaceakonjunktivit så hög poäng: i kunskapsgrafen ligger sjukdomen nära de konjunktivitindikationer som läkemedlet redan har. Histaminblockad skulle kunna lindra ögonklåda och rodnad som överlappar med allergisk konjunktivit.
+Fexofenadins godkända användningsområden omfattar redan flera former av allergisk konjunktivit. Histaminblockad skulle kunna lindra ögonklåda och rodnad som överlappar med allergisk konjunktivit.
 
-Kopplingen är dock **indirekt**. Ögonrosacea drivs främst av dysfunktion i meibomska körtlar, instabil tårfilm, Demodex- eller mikrobiell påverkan samt neurovaskulär och medfödd immunmedierad inflammation. Histamin spelar där högst en mindre roll. Den mycket höga poängen (0,998) är en beräkningsmässig förutsägelse och speglar sannolikt närhet i grafen, inte oberoende validering.
+Kopplingen är dock **indirekt**. Ögonrosacea drivs främst av dysfunktion i meibomska körtlar, instabil tårfilm, Demodex- eller mikrobiell påverkan samt neurovaskulär och medfödd immunmedierad inflammation. Histamin spelar där högst en mindre roll.
 
 ---
 
 ## Marknadsinformation Sverige
 
-Alla 18 godkännanden är avregistrerade, och inget gällande godkännande finns för enskilt läkemedel eller kombinationsprodukt. Godkänd indikationstext saknas för samtliga poster. Nedan visas de fem första godkännandena.
+Godkänd indikationstext saknas för samtliga poster. Nedan visas de fem första godkännandena.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 50412 | Fexofenadin Cipla | Filmdragerad tablett | Avregistrerad |
-| 67616 | Fexofenadine Amarox | Filmdragerad tablett | Avregistrerad |
-| 25735 | Nefoxef | Filmdragerad tablett | Avregistrerad |
-| 60873 | Fexofenadine Amarox | Filmdragerad tablett | Avregistrerad |
-| 56375 | Fexofenadine Bluefish | Filmdragerad tablett | Avregistrerad |
+| 50412 | Fexofenadin Cipla | Filmdragerad tablett | Godkänd |
+| 67616 | Fexofenadine Amarox | Filmdragerad tablett | Godkänd |
+| 25735 | Nefoxef | Filmdragerad tablett | Godkänd |
+| 60873 | Fexofenadine Amarox | Filmdragerad tablett | Godkänd |
+| 56375 | Fexofenadine Bluefish | Filmdragerad tablett | Godkänd |
 
 ---
 

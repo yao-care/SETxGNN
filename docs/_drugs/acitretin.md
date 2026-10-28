@@ -51,10 +51,10 @@ TxGNN-modellen förutsäger att det kan vara effektivt mot **akne**, med **1 kli
 |------|------|
 | Ursprunglig indikation | Ej angiven i de svenska godkännandena |
 | Förutsagd ny indikation | Akne (acne (disease)) |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| TxGNN-förutsägelsepoäng | 0,9994 |
 | Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 5 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
+| Antal godkännanden | 5 (giltiga: 5) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -65,7 +65,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Base
 
 Acitretin normaliserar keratinocyternas differentiering och minskar förhornningen i hårfollikeln. Eftersom akne och besläktade follikulära sjukdomar delar en gemensam förhornningsstörning i hårsäcken finns ett rimligt biologiskt samband. Effekten på talgkörtlarna är dock måttlig jämfört med isotretinoin.
 
-Viktigt att notera: etiketten "akne" i kunskapsgrafen verkar överlappa med acne inversa (hidradenitis suppurativa). Det underlag som finns gäller därför mest hidradenitis suppurativa, inte akne vulgaris.
+Viktigt att notera: poängen kommer från TxGNN-modellen (deep learning) och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologiskt underlag. Det finns därför ingen biologisk evidens för att etiketten "akne" gäller akne vulgaris.
 
 ---
 

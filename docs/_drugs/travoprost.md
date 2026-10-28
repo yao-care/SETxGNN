@@ -6,9 +6,9 @@ nav_order: 435
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Travoprost: predikterad ny indikation Visceral kalcifylaxi (evidensnivå L5). Ursprunglig indikation: Öppenvinkelglaukom och okulär hypertension"
 monitor_inn: "TRAVOPROST"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
+description: "Travoprost: predikterad ny indikation Visceral calciphylaxis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Travoprost
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Travoprost: Från öppenvinkelglaukom och okulär hypertension till visceral kalcifylaxi
+## Travoprost: Visceral calciphylaxis
 {: .text-alpha }
 
 ---
@@ -49,12 +49,12 @@ TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **visceral ka
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Öppenvinkelglaukom och okulär hypertension (enligt kunskapsgrafen; godkännandetexterna i det svenska registret är tomma) |
-| Förutsagd ny indikation | Visceral kalcifylaxi |
-| TxGNN-förutsägelsepoäng | 99,99 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Visceral calciphylaxis |
+| TxGNN-förutsägelsepoäng | 1.0000 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 10 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
+| Antal godkännanden | 10 (giltiga: 10) |
 | Rekommenderat beslut | Avvakta |
 
 ---

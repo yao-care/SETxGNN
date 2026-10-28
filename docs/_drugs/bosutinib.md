@@ -11,6 +11,7 @@ nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-05-04
 description: "Bosutinib: predikterad ny indikation Blast Phase Chronic Myelogenous Leukaemia, BCR-ABL1 Positive (evidensnivå L5). Ursprunglig indikation: Ph+ Chronic Myeloid Leukaemia (chronic phase)"
+predicted_indications: []
 ---
 
 # Bosutinib
@@ -54,8 +55,8 @@ Bosutinib is a BCR-ABL tyrosine kinase inhibitor originally developed for the tr
 | Predicted New Indication | Blast Phase Chronic Myelogenous Leukaemia, BCR-ABL1 Positive |
 | TxGNN Prediction Score | 50.00% |
 | Evidence Level | L5 (Model prediction only, no clinical studies in pack) |
-| Sweden Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| Sweden Market Status | Marknadsförd (giltiga godkännanden: 9 av 9) |
+| Number of Authorizations | 9 (giltiga: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

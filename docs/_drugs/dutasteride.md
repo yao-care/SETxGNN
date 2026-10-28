@@ -6,9 +6,9 @@ nav_order: 156
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Dutasteride: predikterad ny indikation Ambras typ av hypertrichosis universalis congenita (evidensnivå L5). Ursprunglig indikation: Godartad prostataförstoring (benign prostatahyperplasi)…"
 monitor_inn: "dutasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
+description: "Dutasteride: predikterad ny indikation Ambras typ av hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) (evidensnivå L5). Ursprunglig indikation: Inte angiven i d…"
 ---
 
 # Dutasteride
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Dutasterid: Från benign prostatahyperplasi till Ambras typ av hypertrichosis universalis congenita
+## Dutasteride: Ambras typ av hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Dutasterid användes ursprungligen för att behandla godartad prostataförstorin
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Godartad prostataförstoring (benign prostatahyperplasi), enligt kunskapsgrafen. Godkännandena i Sverige innehåller ingen indikationstext. |
-| Förutsagd ny indikation | Ambras typ av hypertrichosis universalis congenita |
-| TxGNN-förutsägelsepoäng | 99,998 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Ambras typ av hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) |
+| TxGNN-förutsägelsepoäng | 1.0000 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 4 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Sambandet med den nya indikationen är svagt. Ambras syndrom är en medfödd överbehåring som orsakas av förändringar i regleringen av genen TRPS1. Tillståndet drivs inte främst av androgener. Att sänka DHT har därför ingen given koppling till sjukdomsmekanismen, och kopplingen är i dagsläget spekulativ.
 
-Det mycket höga poängvärdet speglar sannolikt samband i kunskapsgrafen, till exempel närhet till andra hårrelaterade sjukdomar, och inte en farmakologisk motivering. Utan stödjande studier ska poängen tolkas med stor försiktighet.
+Utan stödjande studier ska poängen tolkas med stor försiktighet.
 
 ---
 

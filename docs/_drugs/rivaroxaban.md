@@ -6,9 +6,9 @@ nav_order: 383
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Rivaroxaban: predikterad ny indikation Reumatoid artrit (evidensnivå L5). Ursprunglig indikation: Ej angiven i de sammanställda data (godkännandenas indikationstexter…"
 monitor_inn: "RIVAROXABAN"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
+description: "Rivaroxaban: predikterad ny indikation Reumatoid artrit (rheumatoid arthritis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Rivaroxaban
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-## Rivaroxaban: Från antikoagulantia (ursprunglig indikation ej angiven i tillgängliga data) till reumatoid artrit
+## Rivaroxaban: Reumatoid artrit (rheumatoid arthritis)
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Rivaroxaban är en direkt hämmare av koagulationsfaktor Xa och används som blo
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i de sammanställda data (godkännandenas indikationstexter är tomma) |
-| Förutsagd ny indikation | Reumatoid artrit |
-| TxGNN-förutsägelsepoäng | 99,6 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Reumatoid artrit (rheumatoid arthritis) |
+| TxGNN-förutsägelsepoäng | 0.9957 |
 | Evidensnivå | L5 (endast modellförutsägelse, inga relevanta studier av effekt) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (samtliga indragna) |
 | Rekommenderat beslut | Avvakta |
 
@@ -87,7 +87,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är indragna och inga godkännanden är giltiga. Indikationstexter saknas i de sammanställda data. De första fem godkännandena:
+Indikationstexter saknas i de sammanställda data. De första fem godkännandena:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

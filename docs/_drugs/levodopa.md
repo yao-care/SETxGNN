@@ -6,9 +6,9 @@ nav_order: 261
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Levodopa: predikterad ny indikation Rasmussens subakuta encefalit (evidensnivå L5). Ursprunglig indikation: Parkinsons sjukdom (enligt kunskapsgrafen"
 monitor_inn: "LEVODOPA"
 predicted_indications: ["Rasmussen subacute encephalitis"]
+description: "Levodopa: predikterad ny indikation Rasmussens subakuta encefalit (Rasmussen subacute encephalitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Levodopa
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Levodopa: Från Parkinsons sjukdom till Rasmussens subakuta encefalit
+## Levodopa: Rasmussens subakuta encefalit (Rasmussen subacute encephalitis)
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Levodopa är en dopaminförstadie som ursprungligen används vid behandling av P
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Parkinsons sjukdom (enligt kunskapsgrafen; ingen godkänd indikationstext finns i de svenska godkännandena) |
-| Förutsagd ny indikation | Rasmussens subakuta encefalit |
-| TxGNN-förutsägelsepoäng | 99,1 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Rasmussens subakuta encefalit (Rasmussen subacute encephalitis) |
+| TxGNN-förutsägelsepoäng | 0.9906 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
@@ -62,7 +62,7 @@ Levodopa är en dopaminförstadie som ursprungligen används vid behandling av P
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för rapporten. Baserat på känd information är levodopa en dopaminförstadie som omvandlas till dopamin i hjärnan och används för att ersätta dopaminbrist vid parkinsonistiska sjukdomar.
 
-Rasmussens encefalit är en kronisk, ensidig och immunmedierad inflammatorisk hjärnsjukdom. Den drivs av T-celler och ger progressiv atrofi i en hjärnhalva, svårbehandlade fokala anfall och ihållande muskelryckningar (epilepsia partialis continua). Ett möjligt samband i kunskapsgrafen är den gemensamma påverkan på motorik och basala ganglier. En av levodopas ursprungliga indikationer, hemiparkinsonism–hemiatrofi, liknar dessutom den ensidiga atrofin vid Rasmussens encefalit, vilket kan förklara den höga poängen.
+Rasmussens encefalit är en kronisk, ensidig och immunmedierad inflammatorisk hjärnsjukdom. Den drivs av T-celler och ger progressiv atrofi i en hjärnhalva, svårbehandlade fokala anfall och ihållande muskelryckningar (epilepsia partialis continua). En av levodopas ursprungliga indikationer, hemiparkinsonism–hemiatrofi, liknar dessutom den ensidiga atrofin vid Rasmussens encefalit, vilket kan förklara den höga poängen.
 
 Mekanistiskt är dock stödet svagt. Levodopa har ingen känd antiinflammatorisk, antiepileptisk eller immunmodulerande effekt som är relevant för sjukdomens kärnpatologi. Dopaminerga läkemedel kan dessutom tänkas sänka kramptröskeln eller förvärra ofrivilliga rörelser, så säkerheten är osäker.
 
@@ -99,7 +99,7 @@ Varningar och kontraindikationer ur produktresumén saknas. Se produktresumén f
 **Beslut: Avvakta**
 
 **Motivering:**
-- Poängen är mycket hög (99,1 %), men förutsägelsen saknar helt stöd i kliniska prövningar och litteratur (evidensnivå L5). Dessutom saknas ett rimligt mekanistiskt samband, och epilepsi finns bland kontraindikationerna i kunskapsgrafen.
+- Dessutom saknas ett rimligt mekanistiskt samband, och epilepsi finns bland kontraindikationerna i kunskapsgrafen.
 - Alla svenska godkännanden är indragna, vilket försvårar en snabb klinisk användning.
 
 **För att gå vidare krävs:**

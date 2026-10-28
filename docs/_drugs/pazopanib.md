@@ -4,17 +4,17 @@ title: Pazopanib
 parent: Endast modellprediktion (L5)
 nav_order: 340
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Pazopanib: predikterad ny indikation Njurcellscancer med Xp11.2-translokation/TFE3-genfusion (evidensnivå L5). Ursprunglig indikation: Njurcellscancer och mjukdelssarkom (enligt kunskapsgrafen). Inge…"
 monitor_inn: "pazopanib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
+description: "Pazopanib: predikterad ny indikation Liposarcoma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Pazopanib
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Pazopanib: Från njurcellscancer och mjukdelssarkom till njurcellscancer med Xp11.2-translokation/TFE3-genfusion
+## Pazopanib: Liposarcoma
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Pazopanib är en tyrosinkinashämmare som ursprungligen används mot avancerad njurcellscancer och mjukdelssarkom. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **njurcellscancer med Xp11.2-translokation/TFE3-genfusion**, med en mycket hög förutsägelsepoäng (99,6 %). Den här förutsägelsen stöds dock av **0 kliniska prövningar** och **0 publikationer** i de data som sammanställts för rapporten, så den vilar enbart på modellen.
+Pazopanib är en tyrosinkinashämmare som ursprungligen används mot avancerad njurcellscancer och mjukdelssarkom. TxGNN-modellen (djupinlärning) förutsäger att läkemedlet kan vara effektivt mot **liposarkom**, med en mycket hög förutsägelsepoäng (0,9959). Poängen kommer från TxGNN-modellen och kan spegla likheter som modellen lärt sig mellan relaterade sjukdomar, inte biologisk evidens. Den här förutsägelsen stöds dock av **0 kliniska prövningar** och **0 publikationer** i de data som sammanställts för rapporten, så den vilar enbart på modellen.
 
 ---
 
@@ -48,12 +48,12 @@ Pazopanib är en tyrosinkinashämmare som ursprungligen används mot avancerad n
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Njurcellscancer och mjukdelssarkom (enligt kunskapsgrafen). Ingen godkänd indikationstext finns registrerad i licenserna. |
-| Förutsägd ny indikation | Njurcellscancer med Xp11.2-translokation/TFE3-genfusion |
-| TxGNN-förutsägelsepoäng | 99,6 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsägd ny indikation | Liposarcoma |
+| TxGNN-förutsägelsepoäng | 0.9959 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 10 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
+| Antal godkännanden | 10 (giltiga: 10) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 10 godkännanden är avregistrerade. Nedan visas fem av dem.
+Alla 10 godkännanden är giltiga. Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -101,7 +101,6 @@ Alla 10 godkännanden är avregistrerade. Nedan visas fem av dem.
 | Cytotoxicitetsklassificering | Målriktad terapi (tyrosinkinashämmare) |
 | Myelosuppressionsrisk | Se produktresumén för varningar och försiktighetsåtgärder |
 | Emetogenicitetsklassificering | Se produktresumén för varningar och försiktighetsåtgärder |
-| Övervakningspunkter | Kunskapsgrafen pekar på leverpåverkan, högt blodttryck och QT-förlängning som riskområden. Det är inte etikettext, så kontrollera i produktresumén vilka prover och kontroller som krävs. |
 | Hanteringsskydd | Se produktresumén för varningar och försiktighetsåtgärder |
 
 ---
@@ -130,13 +129,13 @@ Varningar och kontraindikationer från produktresumén saknas i de sammanställd
 
 **Motivering:**
 - Förutsägelsen för njurcellscancer med Xp11.2/TFE3-fusion har högsta möjliga modellpoäng men ingen studie eller publikation bakom sig (evidensnivå L5).
-- Samtidigt är alla svenska godkännanden avregistrerade, och säkerhetsdata från produktresumén saknas, vilket är ett blockerande dataglapp.
+- Samtidigt är läkemedlet marknadsfört i Sverige med 10 giltiga godkännanden av 10, och säkerhetsdata från produktresumén saknas, vilket är ett blockerande dataglapp.
 
 **För att gå vidare krävs:**
 - Hämta och läs produktresumén (varningar och kontraindikationer) från Läkemedelsverket.
 - Hämta verkningsmekanismdata från DrugBank.
 - Göra en systematisk litteratur- och prövningssökning specifikt för njurcellscancer med Xp11.2/TFE3-fusion, för att se om det finns evidens utanför de sammanställda data.
-- Klargöra varför alla svenska godkännanden är avregistrerade och om tillgång till läkemedlet är möjlig.
+- Bekräfta att de 10 giltiga svenska godkännandena innebär att läkemedlet är tillgängligt.
 
 **Observation om andra förutsagda indikationer:** Flera andra förutsägelser från samma modell har betydligt mer stöd och kan vara värda att prioritera framför den ovan.
 - **Liposarkom** (evidensnivå L2): flera avslutade fas 2-prövningar, bland annat NCT01506596 och NCT01692496. Rekommendationen är att gå vidare med skyddsåtgärder.

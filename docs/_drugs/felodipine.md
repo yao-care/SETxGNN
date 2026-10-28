@@ -4,17 +4,17 @@ title: Felodipine
 parent: Endast modellprediktion (L5)
 nav_order: 191
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Felodipine: predikterad ny indikation Pulmonell hypertension med oklar multifaktoriell mekanism (evidensnivå L5). Ursprunglig indikation: Hypertoni (högt blodtryck). Godkännandena i Sverige innehålle…"
 monitor_inn: "felodipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
+description: "Felodipine: predikterad ny indikation Pulmonary hypertension with unclear multifactorial mechanism (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Felodipine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **7** st
+Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Felodipin: Från hypertoni till pulmonell hypertension med oklar multifaktoriell mekanism
+## Felodipine: Pulmonary hypertension with unclear multifactorial mechanism
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Felodipin är en kalciumkanalblockerare som ursprungligen används för att beha
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Hypertoni (högt blodtryck). Godkännandena i Sverige innehåller ingen indikationstext, så uppgiften kommer från modellens kunskapsunderlag. |
-| Förutsagd ny indikation | Pulmonell hypertension med oklar multifaktoriell mekanism |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Pulmonary hypertension with unclear multifactorial mechanism |
+| TxGNN-förutsägelsepoäng | 0.9991 |
 | Evidensnivå | L5 (endast modellförutsägelse, inga faktiska studier) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är avregistrerade och inget är giltigt. Nedan visas de fem första. Alla är depottabletter för oral användning.
+Nedan visas de fem första. Alla är depottabletter för oral användning.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

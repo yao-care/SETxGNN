@@ -6,9 +6,9 @@ nav_order: 420
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Tetracaine: predikterad ny indikation Akrodermatit chronica atrophicans (evidensnivå L5). Ursprunglig indikation: Dermatit (enligt TxGNN-kunskapsgrafen"
 monitor_inn: "tetracaine"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis", "cauda equina syndrome", "irritable bowel syndrome"]
+description: "Tetracaine: predikterad ny indikation Acrodermatitis chronica atrophicans (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Tetracaine
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-## Tetrakain: Från dermatit till akrodermatit chronica atrophicans
+## Tetracaine: Acrodermatitis chronica atrophicans
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Tetrakain (tetrakain, INN: tetracaine) är ett lokalanestetikum som i datakälla
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Dermatit (enligt TxGNN-kunskapsgrafen; ingen godkänd indikationstext finns i de svenska godkännandena) |
-| Förutsagd ny indikation | Akrodermatit chronica atrophicans |
-| TxGNN-förutsägelsepoäng | 99,93 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Acrodermatitis chronica atrophicans |
+| TxGNN-förutsägelsepoäng | 0.9993 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 3 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Tetrakain (tetrakain, INN: tetracaine) är ett lokalanestetikum som i datakälla
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Tetrakain är ett lokalanestetikum av estertyp och verkar i allmänhet genom att blockera natriumkanaler i nerver. Dess effekt vid lokal smärtlindring är väl känd, men mekanistiskt finns inget känt samband med behandling av dermatit som sjukdom.
 
-Akrodermatit chronica atrophicans är en sen hudmanifestation av borreliainfektion (Lyme) och behandlas med antibiotika. Tetrakain saknar antimikrobiell och sjukdomsmodifierande verkan, så ett rimligt mekanistiskt samband kan inte påvisas. Den höga poängen speglar sannolikt närhet i kunskapsgrafen till hudsjukdomar snarare än en verklig behandlingseffekt.
+Akrodermatit chronica atrophicans är en sen hudmanifestation av borreliainfektion (Lyme) och behandlas med antibiotika. Tetrakain saknar antimikrobiell och sjukdomsmodifierande verkan, så ett rimligt mekanistiskt samband kan inte påvisas.
 
 Bland övriga förutsägelser (t.ex. neonatal dermatomyosit, bronkit, irritabel tarm) saknas likaså stöd av studier. För akne keloid finns endast studier av tetrakain som bedövning vid lasergbehandling, och för cauda equina-syndrom beskriver litteraturen tetrakain som en möjlig orsak till skadan, inte som behandling.
 

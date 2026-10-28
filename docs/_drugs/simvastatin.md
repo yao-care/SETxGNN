@@ -4,17 +4,17 @@ title: Simvastatin
 parent: Endast modellprediktion (L5)
 nav_order: 397
 evidence_level: L5
-indication_count: 8
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Simvastatin: predikterad ny indikation Familjär hyperkolesterolemi (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i godkännandena. Enligt kunsk…"
 monitor_inn: "SIMVASTATIN"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Simvastatin: predikterad ny indikation Brain stem infarction (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Simvastatin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **8** st
+Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 </div>
 
-## Simvastatin: Från hyperlipidemi och kardiovaskulär sjukdom till familjär hyperkolesterolemi
+## Simvastatin: Brain stem infarction
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Simvastatin är en kolesterolsänkande statin som ursprungligen används vid blo
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns registrerad i godkännandena. Enligt kunskapsgrafen: hypertriglyceridemi, åderförkalkning, stroke, homozygot familjär hyperkolesterolemi m.fl. |
-| Förutsagd ny indikation | Familjär hyperkolesterolemi |
-| TxGNN-förutsägelsepoäng | 99,6 % |
-| Evidensnivå | L1 (flera avslutade fas 3-prövningar, men de flesta testar kombinationer eller har simvastatin som bakgrundsbehandling) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Brain stem infarction |
+| TxGNN-förutsägelsepoäng | 0.9941 |
+| Evidensnivå | L5 (flera avslutade fas 3-prövningar, men de flesta testar kombinationer eller har simvastatin som bakgrundsbehandling) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 

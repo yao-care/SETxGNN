@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Docetaxel
-parent: Endast modellprediktion (L5)
+parent: Hög evidens (L1-L2)
 nav_order: 146
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Docetaxel: predikterad ny indikation Kvinnlig bröstcancer (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i de svenska godkännandena. E…"
 monitor_inn: "DOCETAXEL"
-predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
+predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
+description: "Docetaxel: predikterad ny indikation Ewing sarcoma (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Docetaxel
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L1** | Förutsagda indikationer: **7** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Docetaxel: Från icke-småcellig lungcancer, prostatacancer, huvud-halscancer, magcancer och bröstcancer till kvinnlig bröstcancer
+## Docetaxel: Ewing sarcoma
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Docetaxel är en cytostatika av taxantyp som i de data som sammanställts för denna rapport är kopplad till flera cancerformer: icke-småcellig lungcancer, prostatacancer, huvud-halscancer, magcancer och bröstcancer. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **kvinnlig bröstcancer**, men bröstcancer ingår redan bland de ursprungliga indikationerna. Förutsägelsen bekräftar alltså ett etablerat användningsområde snarare än en genuin återanvändning. Förutsägelsen stöds av **40 kliniska prövningar** (inklusive flera stora fas 3-studier) och **20 publikationer**.
+Docetaxel är en cytostatika av taxantyp som i de data som sammanställts för denna rapport är kopplad till flera cancerformer: icke-småcellig lungcancer, prostatacancer, huvud-halscancer, magcancer och bröstcancer. Förutsägelsen bekräftar alltså ett etablerat användningsområde snarare än en genuin återanvändning. Förutsägelsen stöds av **40 kliniska prövningar** (inklusive flera stora fas 3-studier) och **20 publikationer**.
 
 Observera att den första förutsägelsen ligger nära den ursprungliga användningen. De övriga förutsägelserna (till exempel Ewing-sarkom och rabdomyosarkom) är mer i linje med verklig återanvändning, men de har svagare evidens.
 
@@ -50,12 +50,12 @@ Observera att den första förutsägelsen ligger nära den ursprungliga användn
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns registrerad i de svenska godkännandena. Enligt kunskapsgrafen: icke-småcellig lungcancer, prostatacancer, huvud-halscancer, magcancer, bröstcancer |
-| Förutsagd ny indikation | Kvinnlig bröstcancer |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Ewing sarcoma |
+| TxGNN-förutsägelsepoäng | 0.9990 |
 | Evidensnivå | L1 (flera avslutade fas 3-studier) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 3 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -64,7 +64,7 @@ Observera att den första förutsägelsen ligger nära den ursprungliga användn
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Baserat på känd information är docetaxel en taxan som stabiliserar mikrotubuli. Detta leder till att celldelningen stoppas och att snabbt växande tumörceller går i apoptos.
 
-Bröstcancer ingår redan bland läkemedlets ursprungliga indikationer. Den höga poängen (99,9 %) är därför väntad och speglar ett känt samband snarare än en ny upptäckt. Mekanismen är tillämpbar eftersom bröstcancerceller delar sig snabbt och är känsliga för mikrotubulipåverkan.
+Bröstcancer ingår redan bland läkemedlets ursprungliga indikationer. Den höga poängen (0,9990) är därför väntad och speglar ett känt samband snarare än en ny upptäckt. Mekanismen är tillämpbar eftersom bröstcancerceller delar sig snabbt och är känsliga för mikrotubulipåverkan.
 
 Bland de övriga förutsägelserna finns mer uttalad återanvändning, framför allt Ewing-sarkom (L2) och rabdomyosarkom (L2). Där bygger det mekanistiska stödet främst på kombinationen gemcitabin följt av docetaxel. Enbart docetaxel har visat begränsad effekt. Flera andra förutsägelser (till exempel primärt pulmonellt lymfom) saknar trovärdigt stöd och drivs sannolikt av likheter mellan lungsjukdomar.
 
@@ -108,7 +108,7 @@ Ett urval av de mest relevanta publikationerna för kvinnlig bröstcancer:
 
 ### Marknadsinformation Sverige
 
-Alla tre godkännanden är indragna och inga giltiga godkännanden finns för närvarande. Ingen indikationstext finns registrerad.
+Ingen indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -123,7 +123,6 @@ Alla tre godkännanden är indragna och inga giltiga godkännanden finns för n�
 | Post | Innehåll |
 |------|------|
 | Cytotoxicitetsklassificering | Konventionell cytotoxisk (taxan, mikrotubulistabiliserande) |
-| Myelosuppressionsrisk | Hög. Kunskapsgrafen kopplar docetaxel till neutropeni, trombocytopeni, agranulocytos och anemi |
 | Emetogenicitetsklassificering | Låg till medel (allmän klassbedömning; ingen specifik uppgift i underlaget) |
 | Övervakningspunkter | Blodstatus (neutrofiler, trombocyter, hemoglobin), leverfunktion inklusive bilirubin, perifera nervsymtom, vätskeretention |
 | Hanteringsskydd | Hantering enligt gällande föreskrifter för cytostatika. Se produktresumén för detaljer |

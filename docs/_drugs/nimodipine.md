@@ -6,9 +6,9 @@ nav_order: 315
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Nimodipine: predikterad ny indikation Homozygot familjär hyperkolesterolemi (evidensnivå L5). Ursprunglig indikation: Subaraknoidalblödning (enligt kunskapsgrafen"
 monitor_inn: "nimodipine"
 predicted_indications: ["homozygous familial hypercholesterolemia", "nephrogenic syndrome of inappropriate antidiuresis"]
+description: "Nimodipine: predikterad ny indikation Homozygous familial hypercholesterolemia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Nimodipine
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Nimodipin: Från subaraknoidalblödning till homozygot familjär hyperkolesterolemi
+## Nimodipine: Homozygous familial hypercholesterolemia
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Nimodipin är en kalciumkanalblockerare som ursprungligen användes vid subaraknoidalblödning, bland annat aneurysmrelaterad blödning. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **homozygot familjär hyperkolesterolemi**, med en förutsägelsepoäng på cirka 99,3 %. Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, så den bygger enbart på modellberäkning.
+Nimodipin är en kalciumkanalblockerare som ursprungligen användes vid subaraknoidalblödning, bland annat aneurysmrelaterad blödning. Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, så den bygger enbart på modellberäkning.
 
 ---
 
@@ -48,12 +48,12 @@ Nimodipin är en kalciumkanalblockerare som ursprungligen användes vid subarakn
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Subaraknoidalblödning (enligt kunskapsgrafen; svensk indikationstext saknas i godkännandena) |
-| Förutsagd ny indikation | Homozygot familjär hyperkolesterolemi |
-| TxGNN-förutsägelsepoäng | 99,3 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Homozygous familial hypercholesterolemia |
+| TxGNN-förutsägelsepoäng | 0.9929 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 5 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
+| Antal godkännanden | 5 (giltiga: 5) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -68,7 +68,7 @@ Den höga poängen är alltså en beräknad förutsägelse som inte bekräftas a
 
 ### Andra förutsägelse i listan
 
-Modellen förutsäger även **nefrogent syndrom med olämplig antidiures (NSIAD)** (poäng 99,1 %). Det orsakas av aktiverande varianter i vasopressin V2-receptorn (AVPR2), som nimodipin inte verkar på. En tänkbar indirekt koppling via kalciumsignalering vid aquaporin-2-transport är enbart hypotetisk. Inte heller för denna förutsägelse finns kliniska prövningar eller litteratur.
+Det orsakas av aktiverande varianter i vasopressin V2-receptorn (AVPR2), som nimodipin inte verkar på. En tänkbar indirekt koppling via kalciumsignalering vid aquaporin-2-transport är enbart hypotetisk. Inte heller för denna förutsägelse finns kliniska prövningar eller litteratur.
 
 ---
 

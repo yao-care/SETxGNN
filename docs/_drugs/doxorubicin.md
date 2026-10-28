@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Doxorubicin
-parent: Endast modellprediktion (L5)
+parent: Hög evidens (L1-L2)
 nav_order: 151
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Doxorubicin: predikterad ny indikation Ewing sarkom (evidensnivå L5). Ursprunglig indikation: Akut lymfatisk leukemi…"
 monitor_inn: "doxorubicin"
-predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "ganglioneuroblastoma (disease)"]
+predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
+description: "Doxorubicin: predikterad ny indikation Ewing sarcoma (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Doxorubicin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L1** | Förutsagda indikationer: **8** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Doxorubicin: Från leukemi och lymfom till Ewing sarkom
+## Doxorubicin: Ewing sarcoma
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Doxorubicin är ett cytostatikum (antracyklin) som ursprungligen användes för 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Akut lymfatisk leukemi, Hodgkins lymfom och non-Hodgkin-lymfom (enligt kunskapsgrafen; godkännandetexterna i Sverige saknar indikationstext) |
-| Förutsagd ny indikation | Ewing sarkom |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Ewing sarcoma |
+| TxGNN-förutsägelsepoäng | 0.9990 |
 | Evidensnivå | L1 (flera avslutade fas 3-prövningar och randomiserade studier, men med kombinationsregimer) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 3 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -164,7 +164,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 | 5 | Kronisk myeloisk leukemi, BCR-ABL1-positiv | L3 | Avvakta |
 | 6 | Monocytleukemi | L4 | Avvakta |
 | 7 | Botryoid embryonal rabdomyosarkom i slidan | L4 | Avvakta |
-| 8 | Parameningeal embryonal rabdomyosarkom | L4 | Avvakta |
+| 8 | Parameningeal embryonal rabdomyosarkom | L5 | Avvakta |
 | 9 | Rabdomyosarkom | L1 | Gå vidare med försiktighet |
 | 10 | Ganglioneuroblastom | L4 | Avvakta |
 ## Ansvarsfriskrivning

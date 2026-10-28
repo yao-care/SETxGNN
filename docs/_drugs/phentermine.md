@@ -6,9 +6,9 @@ nav_order: 345
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Phentermine: predikterad ny indikation Proximalt 16p11.2-mikrodeletionssyndrom (rang 2 (evidensnivå L5). Ursprunglig indikation: Fetma…"
 monitor_inn: "phentermine"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
+description: "Phentermine: predikterad ny indikation Hypervitaminosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Phentermine
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-## Fentermin: Från hypotensiv sjukdom och fetma till proximalt 16p11.2-mikrodeletionssyndrom
+## Phentermine: Hypervitaminosis
 {: .text-alpha }
 
 ---
@@ -42,7 +42,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 Fentermin är en sympatomimetisk amin som ursprungligen användes vid fetma (inklusive monogen fetma) och hypotensiva tillstånd. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **proximalt 16p11.2-mikrodeletionssyndrom**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna riktning. Förutsägelsen bygger enbart på modellen.
 
-Observera att den förutsagda indikationen med högst poäng är hypervitaminos (99,6 %). Den saknar dock rimlig mekanistisk koppling. Denna rapport fokuserar därför på proximalt 16p11.2-mikrodeletionssyndrom, som är den biologiskt mest rimliga av de fyra förutsagda kandidaterna.
+Den saknar dock rimlig mekanistisk koppling. Denna rapport fokuserar därför på proximalt 16p11.2-mikrodeletionssyndrom, som är den biologiskt mest rimliga av de fyra förutsagda kandidaterna.
 
 ---
 
@@ -50,12 +50,12 @@ Observera att den förutsagda indikationen med högst poäng är hypervitaminos 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Fetma, monogen fetma och hypotensiv sjukdom (enligt TxGNN-kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Proximalt 16p11.2-mikrodeletionssyndrom (rang 2; rang 1 var hypervitaminos) |
-| TxGNN-förutsägelsepoäng | 99,5 % (hypervitaminos, rang 1: 99,6 %) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Hypervitaminosis |
+| TxGNN-förutsägelsepoäng | 0.9957 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 4 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -90,7 +90,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Alla fyra godkännanden är indragna och inga är giltiga. Någon godkänd indikationstext finns inte registrerad.
+Någon godkänd indikationstext finns inte registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

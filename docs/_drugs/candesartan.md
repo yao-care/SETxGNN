@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Candesartan
-parent: Endast modellprediktion (L5)
+parent: Hög evidens (L1-L2)
 nav_order: 79
-evidence_level: L5
-indication_count: 10
+evidence_level: L2
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Candesartan: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i godkännandedata"
 monitor_inn: "candesartan"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "pulmonary hypertension", "Prinzmetal angina", "kyphoscoliotic heart disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "benign prostatic hyperplasia (disease)", "alopecia"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "Prinzmetal angina", "kyphoscoliotic heart disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "benign prostatic hyperplasia (disease)", "alopecia"]
 ---
 
 # Candesartan
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L2** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ Candesartan är en angiotensin II-typ 1-receptorblockerare (ARB) som används vi
 |------|------|
 | Ursprunglig indikation | Ingen indikationstext angiven i godkännandedata (kliniskt bruk enligt farmakologidata: hypertoni, ensamt eller i kombination med andra läkemedel) |
 | Förutsagd ny indikation | Migrän (migraine disorder) |
-| TxGNN-förutsägelsepoäng | 99,97 % |
+| TxGNN-förutsägelsepoäng | 0.9997 |
 | Evidensnivå | L2 (en avslutad randomiserad fas 2/3-prövning samt en stor avslutad fas 2-prövning; inga två avslutade rena fas 3-prövningar) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (samtliga indragna) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
@@ -134,7 +134,7 @@ Se i övrigt produktresumén för fullständig säkerhetsinformation.
 - Kompletterande mekanismdata (DrugBank).
 - Säkerhetsplan för blodtryck, njurfunktion och graviditetsundvikande.
 
-**Övriga förutsagda indikationer** (migrän med hjärnstammsaura, migränkänslighet, pulmonell hypertension, Prinzmetal angina m.fl.) har svag eller indirekt evidens (L4–L5). Flera av dem verkar vara kunskapsgrafartefakter eller överlapp med migrän, och de bör avvaktas.
+**Övriga förutsagda indikationer** (migrän med hjärnstammsaura, pulmonell hypertension, Prinzmetal angina m.fl.) har svag eller indirekt evidens (L4–L5). Flera av dem kan spegla likheter som TxGNN-modellen (deep learning) har lärt sig mellan relaterade sjukdomar, inte biologisk evidens, eller överlapp med migrän, och de bör avvaktas.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

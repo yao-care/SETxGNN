@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 116
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Cyclopentolate: predikterad ny indikation Kauda equina-syndrom (evidensnivå L5). Ursprunglig indikation: Cykloplegi (enligt TxGNN-kunskapsgrafen"
 monitor_inn: "cyclopentolate"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
+last_modified_at: 2026-10-27
+description: "Cyclopentolate: predikterad ny indikation Cauda equina-syndrom (cauda equina syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Cyclopentolate
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Cyklopentolat: Från cykloplegi till kauda equina-syndrom
+## Cyclopentolate: antimuskarint (antikolinergikum) → Cauda equina-syndrom (cauda equina syndrome)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Cyklopentolat är ett antimuskarint ögonläkemedel som ursprungligen användes för att framkalla cykloplegi (förlamning av ögats ackommodationsmuskel) vid ögonundersökningar. TxGNN-modellen förutsäger att det kan vara effektivt mot **kauda equina-syndrom**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna riktning. Förutsägelsen bygger enbart på modellberäkning (evidensnivå L5).
+Cyclopentolate är ett antimuskarint läkemedel som ges som ögondroppar. TxGNN-modellen förutsäger att det kan vara effektivt mot **cauda equina-syndrom (cauda equina syndrome)**. Det finns dock **inga kliniska prövningar** och **ingen publicerad litteratur** i de data som sammanställts för denna rapport, så förutsägelsen bygger enbart på modellen.
 
 ---
 
@@ -48,25 +48,35 @@ Cyklopentolat är ett antimuskarint ögonläkemedel som ursprungligen användes 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Cykloplegi (enligt TxGNN-kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Kauda equina-syndrom |
-| TxGNN-förutsägelsepoäng | 99,5 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Cauda equina-syndrom (cauda equina syndrome) |
+| TxGNN-förutsägelsepoäng | 0,9954 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är cyklopentolat ett topikalt antimuskarint (antikolinergt) läkemedel. Dess effekt vid cykloplegi är väl känd, och mekanistiskt skulle klasseffekten på glatt muskulatur kunna vara tillämpbar på blåsrubbningar.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är cyclopentolate ett topikalt antimuskarint (antikolinergt) läkemedel, och mekanistiskt skulle klasseffekten kunna vara av intresse vid cauda equina-syndrom.
 
-Kauda equina-syndrom orsakas främst av tryck på nervrötterna i ryggmärgskanalen och är ett akut tillstånd som kräver kirurgisk avlastning. Blåsdysfunktion är en av följderna. Modellens förutsägelse drivs sannolikt av antimuskarinernas effekt på blåsmuskeln (detrusorn). Ett sådant läkemedel skulle i bästa fall kunna lindra blåssymptom, men inte behandla den bakomliggande nervkompressionen.
+Cauda equina-syndrom är i första hand ett akut neurologiskt tillstånd orsakat av tryck på nervrötterna och kräver kirurgisk avlastning. Blåsrubbningar hör till följderna. Förutsägelsen drivs sannolikt av antimuskarinernas effekt på blåsmuskelns (detrusorns) aktivitet. I bästa fall skulle antimuskarina läkemedel kunna lindra blåssymtom, men de påverkar inte själva nervkompressionen.
 
-Den biologiska rimligheten bedöms som svag. Cyklopentolat är utvecklat som ögondroppar och saknar etablerad systemisk användning. Det finns inga data om att läkemedlet når tillräcklig exponering i andra organ.
+Den biologiska rimligheten bedöms som svag. Cyclopentolate är utformat för ögonbruk och har ingen etablerad systemisk användning. Det finns inget kliniskt stöd eller litteraturstöd i de data som sammanställts.
 
-Modellen förutsade även två andra indikationer: neurogen blåsa (term som är markerad som föråldrad i ontologin) och irritabel tarm (IBS). Båda är klassmässigt rimliga för antimuskarina läkemedel, men det finns redan bättre dokumenterade och godkända alternativ.
+---
+
+### Kliniska prövningar
+
+Inga relaterade kliniska prövningar registrerade för närvarande.
+
+---
+
+### Litteraturbevis
+
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
@@ -74,26 +84,16 @@ Modellen förutsade även två andra indikationer: neurogen blåsa (term som är
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 10008 | Cyclopentolat Bausch & Lomb | Ögondroppar, lösning i endosbehållare | Indikationstext saknas (indragen) |
-| 6001 | Cyclogyl | Ögondroppar, lösning | Indikationstext saknas (indragen) |
+| 10008 | Cyclopentolat Bausch & Lomb | Ögondroppar, lösning i endosbehållare | Ingen indikationstext registrerad |
+| 6001 | Cyclogyl | Ögondroppar, lösning | Ingen indikationstext registrerad |
+
+Enligt de lokala uppgifterna är marknadsstatus "Marknadsförd". Uppgifterna om giltiga och avregistrerade godkännanden är inte helt konsekventa, så den exakta statusen för enskilda godkännanden bör kontrolleras mot Läkemedelsverkets register.
 
 ---
 
 ### Säkerhetsaspekter
 
-Inga varningar eller kontraindikationer från produktresumén ingår i de data som sammanställts för rapporten. Se produktresumén för säkerhetsinformation.
-
-Kunskapsgrafen (inte produkttext) kopplar läkemedlet till följande tillstånd där användning kan vara olämplig:
-
-- **Ögon:** trångvinkelglaukom (sluten kammarvinkel)
-- **Hjärt-kärl:** högt blodtryck, hjärtsjukdom, kranskärlssjukdom, plötsligt hjärtstopp, retledningsrubbningar i hjärtat, åderförkalkning
-- **Ämnesomsättning:** diabetes, diabetisk ketoacidos, hypertyreos (Graves sjukdom, tyreotoxikos)
-- **Urinvägar:** godartad prostataförstoring
-- **Nervsystem:** hjärnskada, hjärnsjukdom, Downs syndrom
-
-Dessa uppgifter bör verifieras mot produktresumén. Särskilt relevant vid systemisk användning är risken för antikolinerga biverkningar (påverkan på centrala nervsystemet, hjärtklappning, förstoppning).
-
-Inga läkemedelsinteraktioner hittades i de sammanställda data.
+Inga varningar eller kontraindikationer från produktresumén finns i de data som sammanställts, och inga läkemedelsinteraktioner hittades. Se produktresumén för säkerhetsinformation.
 
 ---
 
@@ -102,15 +102,14 @@ Inga läkemedelsinteraktioner hittades i de sammanställda data.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen stöds enbart av modellen (L5), utan kliniska prövningar eller litteratur. Biologisk rimlighet är svag eftersom läkemedlet är ett ögonpreparat, och godkännandena i Sverige är indragna.
-- Etablerade antimuskarina läkemedel finns redan för blåssymtom, och kauda equina-syndrom behandlas främst kirurgiskt.
+- Förutsägelsen är endast modellbaserad (L5) utan kliniska prövningar eller publikationer, och den biologiska rimligheten är svag eftersom läkemedlet är ett ögonpreparat utan systemisk användning vid detta tillstånd.
 
 **För att gå vidare krävs:**
-- Verkningsmekanismdata från DrugBank.
-- Produktresumé från Läkemedelsverket med varningar och kontraindikationer (blockerande dataluckor för säkerhetsscreening).
-- Systematisk litteratur- och prövningssökning för kauda equina-syndrom och blåsdysfunktion.
-- Mappning av den föråldrade sjukdomstermen till aktuell terminologi (neurogen detrusoröveraktivitet).
-- Bedömning av administreringsväg och systemisk exponering, eftersom den nuvarande beredningen är ögondroppar.
+- Detaljerad data om verkningsmekanism.
+- Prekliniska eller kliniska studier som direkt undersöker cauda equina-syndrom.
+- Utvärdering av om systemisk exponering är möjlig och säker, med tanke på antikolinerga biverkningar.
+- Hämtning och genomgång av produktresumén för varningar och kontraindikationer.
+- Verifiering av godkännandenas faktiska status.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

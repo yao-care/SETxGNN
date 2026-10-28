@@ -6,9 +6,9 @@ nav_order: 221
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Hemin: predikterad ny indikation Trombocytopen purpura (evidensnivå L5). Ursprunglig indikation: Akut intermittent porfyri (enligt kunskapsgrafen"
 monitor_inn: "HEMIN"
 predicted_indications: ["thrombocytopenic purpura", "hemophilia", "C1 inhibitor deficiency", "acquired coagulation factor deficiency", "serpinopathy with toxic serpin polymerization", "hereditary angioedema with C1Inh deficiency", "inherited thrombophilia", "symptomatic form of hemophilia in female carriers", "hereditary von Willebrand disease", "congenital factor XI deficiency"]
+description: "Hemin: predikterad ny indikation Thrombocytopenic purpura (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Hemin
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Hemin: Från akut intermittent porfyri till trombocytopen purpura
+## Hemin: Thrombocytopenic purpura
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Hemin användes ursprungligen för att behandla akut intermittent porfyri, en s�
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Akut intermittent porfyri (enligt kunskapsgrafen; svensk indikationstext saknas i godkännandet) |
-| Förutsagd ny indikation | Trombocytopen purpura |
-| TxGNN-förutsägelsepoäng | 99,8 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Thrombocytopenic purpura |
+| TxGNN-förutsägelsepoäng | 0.9979 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ Det finns för närvarande ingen detaljerad verkningsmekanismdata tillgänglig. 
 
 Det finns dock inget i underlaget som kopplar dessa effekter till sjukdomar med låga trombocyter. Den mycket höga modellpoängen (0,998) är en beräkningsmässig förutsägelse och stöds inte av studier eller publikationer. Ett mekanistiskt samband kan därför inte styrkas i nuläget.
 
-Övriga förutsägelser från modellen ligger också nära toppen (poäng 0,991–0,998) och rör främst blödnings- och koagulationssjukdomar samt C1-hämmarbrist. Inte heller för dessa finns stödjande evidens. Hemin har dessutom rapporterats ha övergående effekter på koagulationen, vilket är en säkerhetsaspekt snarare än ett skäl för behandling.
+Inte heller för dessa finns stödjande evidens. Hemin har dessutom rapporterats ha övergående effekter på koagulationen, vilket är en säkerhetsaspekt snarare än ett skäl för behandling.
 
 ---
 

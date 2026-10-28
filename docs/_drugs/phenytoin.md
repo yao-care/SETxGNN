@@ -4,17 +4,17 @@ title: Phenytoin
 parent: Endast modellprediktion (L5)
 nav_order: 349
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Phenytoin: predikterad ny indikation Trigeminal nerve neoplasm (tumör i trigeminusnerven) (evidensnivå L5). Ursprunglig indikation: Epilepsi (enligt kunskapsgrafen"
 monitor_inn: "phenytoin"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
+description: "Phenytoin: predikterad ny indikation Trigeminal nerve neoplasm (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Phenytoin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Fenytoin: Från epilepsi till trigeminusnervtumör
+## Phenytoin: Trigeminal nerve neoplasm
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Fenytoin är ett antiepileptikum som ursprungligen används vid epilepsi, bland 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Epilepsi (enligt kunskapsgrafen; indikationstext saknas i det svenska godkännandet) |
-| Förutsagd ny indikation | Trigeminal nerve neoplasm (tumör i trigeminusnerven) |
-| TxGNN-förutsägelsepoäng | 99,99 % (rankning 157) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Trigeminal nerve neoplasm |
+| TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Den mekanismen kan tänkas lindra nervsmärta vid en nervskada. Det är sannolikt därför modellen kopplar fenytoin till trigeminusnerven. De två publikationer som hittats gäller behandling av trigeminusneuralgi respektive Sturge-Webers syndrom, alltså inte tumörer.
 
-Det finns ingen evidens för att fenytoin påverkar tumörväxt. Den höga poängen speglar därför troligen närheten i kunskapsgrafen till trigeminusneuralgi och neurologiska begrepp. Den bör inte tolkas som ett tecken på effekt mot själva tumören.
+Det finns ingen evidens för att fenytoin påverkar tumörväxt. Den höga poängen kommer från TxGNN-modellen (djupinlärning) och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens. Den bör inte tolkas som ett tecken på effekt mot själva tumören.
 
 ---
 
@@ -87,7 +87,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 1982 | Epanutin (Viatris AB) | Kapsel, hård | Ingen indikationstext angiven. Godkännandet är avregistrerat. |
+| 1982 | Epanutin (Viatris AB) | Kapsel, hård | Ingen indikationstext angiven. Godkännandet är godkänt. |
 
 ---
 

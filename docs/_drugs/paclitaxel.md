@@ -4,17 +4,17 @@ title: Paclitaxel
 parent: Endast modellprediktion (L5)
 nav_order: 334
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Paclitaxel: predikterad ny indikation Kvinnlig bröstcancer (female breast carcinoma) (evidensnivå L5). Ursprunglig indikation: Äggstockscancer (enligt kunskapsgrafen"
 monitor_inn: "paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+description: "Paclitaxel: predikterad ny indikation Parameningeal embryonal rhabdomyosarcoma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Paclitaxel
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Paklitaxel: Från äggstockscancer till bröstcancer (kvinnlig bröstcancer)
+## Paclitaxel: Parameningeal embryonal rhabdomyosarcoma
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Paklitaxel är ett cytostatikum av taxantyp som ursprungligen användes vid äggstockscancer (samt ett antal besläktade äggstockstumörer). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **kvinnlig bröstcancer**, med **40 kliniska prövningar** och **20 publikationer** som för närvarande stöder denna riktning. Paklitaxel är dock redan ett etablerat läkemedel vid bröstcancer, så detta är i praktiken ingen ny användning utan en bekräftelse av känd standardbehandling.
+Paklitaxel är ett cytostatikum av taxantyp som ursprungligen användes vid äggstockscancer (samt ett antal besläktade äggstockstumörer). Paklitaxel är dock redan ett etablerat läkemedel vid bröstcancer, så detta är i praktiken ingen ny användning utan en bekräftelse av känd standardbehandling.
 
 ---
 
@@ -48,12 +48,12 @@ Paklitaxel är ett cytostatikum av taxantyp som ursprungligen användes vid ägg
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Äggstockscancer (enligt kunskapsgrafen; godkännandetexter saknas i de svenska uppgifterna) |
-| Förutsagd ny indikation | Kvinnlig bröstcancer (female breast carcinoma) |
-| TxGNN-förutsägelsepoäng | 99,995 % |
-| Evidensnivå | L1 (flera avslutade fas 3-prövningar, bland annat NCT00667251, NCT01822314, NCT00006459, NCT00553358, NCT00075270 och NCT00513292) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 7 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Parameningeal embryonal rhabdomyosarcoma |
+| TxGNN-förutsägelsepoäng | 0.9973 |
+| Evidensnivå | L5 (flera avslutade fas 3-prövningar, bland annat NCT00667251, NCT01822314, NCT00006459, NCT00553358, NCT00075270 och NCT00513292) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
+| Antal godkännanden | 7 (giltiga: 7) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -129,7 +129,6 @@ Ytterligare två indragna godkännanden finns (Bugvi, 62593, och Apacross, 66471
 | Post | Innehåll |
 |------|------|
 | Cytotoxicitetsklassificering | Konventionell cytotoxisk (taxan, mikrotubulistabiliserande) |
-| Myelosuppressionsrisk | Hög. Neutropeni, trombocytopeni och anemi finns bland de tillstånd som kunskapsgrafen kopplar till läkemedlet. |
 | Emetogenicitetsklassificering | Låg till medel (generell klassificering för taxaner; ingen läkemedelsspecifik data i underlaget) |
 | Övervakningspunkter | Blodstatus (neutrofiler, trombocyter, hemoglobin), leverfunktion (bilirubin, ASAT/ALAT), njurfunktion samt perifer neuropati |
 | Hanteringsskydd | Ja, hantering enligt föreskrifter för cytostatika (skyddsutrustning, särskild beredning och avfallshantering) |

@@ -6,9 +6,9 @@ nav_order: 136
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Dexmedetomidine: predikterad ny indikation Nefrogent syndrom med olämplig antidiures (NSIAD) (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga godkännandedata"
 monitor_inn: "dexmedetomidine"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia"]
+description: "Dexmedetomidine: predikterad ny indikation Nephrogenic syndrome of inappropriate antidiuresis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Dexmedetomidine
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-## Dexmedetomidin: Från ej angiven indikation till nefrogent syndrom med olämplig antidiures (NSIAD)
+## Dexmedetomidine: Nephrogenic syndrome of inappropriate antidiuresis
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Dexmedetomidin är en alfa-2-adrenerg agonist. I de data som sammanställts för rapporten saknas uppgift om godkänd ursprunglig indikation, eftersom indikationstexten saknas i de svenska godkännandena. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **nefrogent syndrom med olämplig antidiures (NSIAD)** med hög poäng (99,6 %), men **inga kliniska prövningar och ingen litteratur** stöder denna riktning. Förutsägelsen bygger enbart på modellen, och den mekanistiska bedömningen talar snarare emot den.
+Dexmedetomidin är en alfa-2-adrenerg agonist. I de data som sammanställts för rapporten saknas uppgift om godkänd ursprunglig indikation, eftersom indikationstexten saknas i de svenska godkännandena. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **nefrogent syndrom med olämplig antidiures (NSIAD)** med hög poäng (0,9960), men **inga kliniska prövningar och ingen litteratur** stöder denna riktning. Förutsägelsen bygger enbart på modellen, och den mekanistiska bedömningen talar snarare emot den.
 
 ---
 
@@ -48,12 +48,12 @@ Dexmedetomidin är en alfa-2-adrenerg agonist. I de data som sammanställts för
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i tillgängliga godkännandedata |
-| Förutsagd ny indikation | Nefrogent syndrom med olämplig antidiures (NSIAD) |
-| TxGNN-förutsägelsepoäng | 99,6 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Nephrogenic syndrome of inappropriate antidiuresis |
+| TxGNN-förutsägelsepoäng | 0.9960 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 9 (alla indragna, 0 gällande) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
+| Antal godkännanden | 9 (giltiga: 9) |
 | Rekommenderat beslut | Avvakta |
 
 ---

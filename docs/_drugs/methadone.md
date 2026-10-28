@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Methadone
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 282
-evidence_level: L5
+evidence_level: L4
 indication_count: 7
 last_modified_at: 2026-10-15
-description: "Methadone: predikterad ny indikation Tourettes syndrom (evidensnivå L5). Ursprunglig indikation: Uppgift saknas i de svenska godkännandena (indikationstexten är tom)"
 monitor_inn: "methadone"
 predicted_indications: ["Tourette syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "headache disorder", "manic bipolar affective disorder", "trigeminal autonomic cephalalgia", "common cold"]
+description: "Methadone: predikterad ny indikation Tourette syndrome (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Methadone
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **7** st
+Evidensnivå: **L4** | Förutsagda indikationer: **7** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Metadon: Från opioidberoende och smärta till Tourettes syndrom
+## Methadone: Tourette syndrome
 {: .text-alpha }
 
 ## Sammanfattning
@@ -46,11 +46,11 @@ Metadon är en syntetisk opioid. Enligt de data som sammanställts för denna ra
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Uppgift saknas i de svenska godkännandena (indikationstexten är tom) |
-| Förutsagd ny indikation | Tourettes syndrom |
-| TxGNN-förutsägelsepoäng | 99,8 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Tourette syndrome |
+| TxGNN-förutsägelsepoäng | 0.9976 |
 | Evidensnivå | L4 (endast fallrapport, prekliniska och mekanistiska studier; inga kliniska prövningar) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 

@@ -6,9 +6,9 @@ nav_order: 152
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Doxycycline: predikterad ny indikation Punktformad epitelial keratokonjunktivit (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns angiven i de svenska godkännanden…"
 monitor_inn: "doxycycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
+description: "Doxycycline: predikterad ny indikation Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifter…"
 ---
 
 # Doxycycline
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Doxycyklin: Från bakteriella infektioner (t.ex. bronkit, akne, lunginflammation) till punktformad epitelial keratokonjunktivit
+## Doxycycline: Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Doxycyklin är ett tetracyklinantibiotikum som ursprungligen används mot bakter
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns angiven i de svenska godkännandena. Enligt kunskapsgrafen används doxycyklin mot bl.a. bronkit, akne, bakteriell lunginflammation, antrax, gonorré, faryngit och leptospiros |
-| Förutsagd ny indikation | Punktformad epitelial keratokonjunktivit |
-| TxGNN-förutsägelsepoäng | 99,9 % |
-| Evidensnivå | L4 (endast indirekt evidens på låg nivå) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 8 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis) |
+| TxGNN-förutsägelsepoäng | 0.9994 |
+| Evidensnivå | L5 (endast indirekt evidens på låg nivå) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
+| Antal godkännanden | 8 (giltiga: 8) |
 | Rekommenderat beslut | Avvakta |
 
 ---

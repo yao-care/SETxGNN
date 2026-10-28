@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Valsartan
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 446
-evidence_level: L5
-indication_count: 7
+evidence_level: L4
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Valsartan: predikterad ny indikation Malign renovaskulär hypertoni (evidensnivå L5). Ursprunglig indikation: Hypertoni (hypertensive disorder, hypertension)"
 monitor_inn: "VALSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
+description: "Valsartan: predikterad ny indikation Malignant hypertensive renal disease (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Valsartan
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **7** st
+Evidensnivå: **L4** | Förutsagda indikationer: **6** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Valsartan: Från hypertoni till malign renovaskulär hypertoni
+## Valsartan: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Valsartan är en angiotensin II-receptorblockerare (ARB) som ursprungligen anvä
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Hypertoni (hypertensive disorder, hypertension); godkänd indikationstext saknas i de svenska godkännandena |
-| Förutsagd ny indikation | Malign renovaskulär hypertoni |
-| TxGNN-förutsägelsepoäng | 99,97 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Malignant hypertensive renal disease |
+| TxGNN-förutsägelsepoäng | 0.9997 |
 | Evidensnivå | L4 (endast preklinisk/mekanistisk evidens) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (samtliga indragna) |
 | Rekommenderat beslut | Avvakta |
 
@@ -124,7 +124,6 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Kliniska data på människa för valsartan vid malign renovaskulär hypertoni
 - Hämtning och genomgång av produktresumé för varningar och kontraindikationer
 - Komplettering av verkningsmekanismdata, t.ex. från DrugBank
-- Klargörande av regulatoriskt läge, eftersom inga giltiga godkännanden finns i Sverige
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

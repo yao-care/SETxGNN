@@ -6,9 +6,9 @@ nav_order: 330
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Oxazepam: predikterad ny indikation Insomni (evidensnivå L3). Ursprunglig indikation: Alkoholabstinensdelirium och ångest (enligt TxGNN:s kunskapsgraf"
 monitor_inn: "OXAZEPAM"
 predicted_indications: ["insomnia (disease)"]
+description: "Oxazepam: predikterad ny indikation Insomnia (disease) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Oxazepam
@@ -33,14 +33,14 @@ Evidensnivå: **L3** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Oxazepam: Från alkoholabstinensdelirium och ångest till insomni
+## Oxazepam: Insomnia (disease)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Oxazepam är ett kortverkande bensodiazepin som ursprungligen användes vid alkoholabstinensdelirium och ångest. TxGNN-modellen förutsäger att det kan vara effektivt mot **insomni**, med en mycket hög förutsägelsepoäng (99,9 %). Inga kliniska prövningar är registrerade för denna indikation, men **10 publikationer** finns i litteraturen, varav ett fåtal är direkt relevanta. Alla svenska godkännanden är avregistrerade.
+Oxazepam är ett kortverkande bensodiazepin som ursprungligen användes vid alkoholabstinensdelirium och ångest. Inga kliniska prövningar är registrerade för denna indikation, men **10 publikationer** finns i litteraturen, varav ett fåtal är direkt relevanta.
 
 ---
 
@@ -48,12 +48,12 @@ Oxazepam är ett kortverkande bensodiazepin som ursprungligen användes vid alko
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Alkoholabstinensdelirium och ångest (enligt TxGNN:s kunskapsgraf; ingen indikationstext finns i de svenska godkännandena) |
-| Förutsagd ny indikation | Insomni |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Insomnia (disease) |
+| TxGNN-förutsägelsepoäng | 0.9986 |
 | Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast avregistrerade |
-| Antal godkännanden | 7 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
+| Antal godkännanden | 7 (giltiga: 7) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -87,11 +87,11 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 10743 | Oxascand | Tablett | Avregistrerad |
-| 10744 | Oxascand | Tablett | Avregistrerad |
-| 11082 | Oxascand | Tablett | Avregistrerad |
-| 11083 | Oxascand | Tablett | Avregistrerad |
-| 63357 | Delipam | Tablett | Avregistrerad |
+| 10743 | Oxascand | Tablett | Godkänd |
+| 10744 | Oxascand | Tablett | Godkänd |
+| 11082 | Oxascand | Tablett | Godkänd |
+| 11083 | Oxascand | Tablett | Godkänd |
+| 63357 | Delipam | Tablett | Godkänd |
 
 Ytterligare två avregistrerade godkännanden finns (63356 och 63358, Delipam). Samtliga sju godkännanden är avregistrerade, och ingen indikationstext finns tillgänglig.
 
@@ -120,7 +120,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen är biologiskt rimlig utifrån läkemedelsklassen, men det saknas kliniska prövningar för insomni och det finns bara en liten, äldre jämförande studie. Dessutom är alla svenska godkännanden avregistrerade, vilket begränsar praktisk återanvändning.
+- Förutsägelsen är biologiskt rimlig utifrån läkemedelsklassen, men det saknas kliniska prövningar för insomni och det finns bara en liten, äldre jämförande studie.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismen från DrugBank.

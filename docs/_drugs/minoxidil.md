@@ -6,9 +6,9 @@ nav_order: 297
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Minoxidil: predikterad ny indikation Hypotrichosis simplex i hårbotten (evidensnivå L3). Ursprunglig indikation: Hypertoni och alopeci (enligt kunskapsgrafen"
 monitor_inn: "MINOXIDIL"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with HIV infection"]
+description: "Minoxidil: predikterad ny indikation Hypotrichosis simplex of the scalp (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Minoxidil
@@ -33,7 +33,7 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Minoxidil: Från hypertoni och håravfall till hypotrichosis simplex i hårbotten
+## Minoxidil: Hypotrichosis simplex of the scalp
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Minoxidil är en kärlvidgande substans som ursprungligen användes mot högt bl
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Hypertoni och alopeci (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Hypotrichosis simplex i hårbotten |
-| TxGNN-förutsägelsepoäng | 99,99 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Hypotrichosis simplex of the scalp |
+| TxGNN-förutsägelsepoäng | 1.0000 |
 | Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 14 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 14 av 14) |
+| Antal godkännanden | 14 (giltiga: 14) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

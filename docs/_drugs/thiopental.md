@@ -4,17 +4,17 @@ title: Thiopental
 parent: Endast modellprediktion (L5)
 nav_order: 423
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Thiopental: predikterad ny indikation Trikotillomani (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad i licensdata. I kunsk…"
 monitor_inn: "thiopental"
 predicted_indications: ["trichotillomania", "Prinzmetal angina", "migraine disorder", "Tourette syndrome", "migraine with brainstem aura", "obsolete bundle branch block", "substance abuse/dependence", "nephrogenic syndrome of inappropriate antidiuresis"]
+description: "Thiopental: predikterad ny indikation Trichotillomania (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Thiopental
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Tiopental: Från epilepsi till trikotillomani
+## Thiopental: Trichotillomania
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Tiopental är ett barbiturat som i kunskapsgrafen anges för epilepsi, pseudotumor cerebri och intrakraniell hypertension. TxGNN-modellen förutsäger att det kan vara effektivt mot **trikotillomani**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna riktning. Förutsägelsen bygger enbart på modellen, och den högst rankade förutsägelsen bedöms som biologiskt svagt underbyggd.
+TxGNN-modellen förutsäger att det kan vara effektivt mot **trikotillomani**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna riktning. Förutsägelsen bygger enbart på modellen, och den högst rankade förutsägelsen bedöms som biologiskt svagt underbyggd.
 
 ---
 
@@ -48,12 +48,12 @@ Tiopental är ett barbiturat som i kunskapsgrafen anges för epilepsi, pseudotum
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad i licensdata. I kunskapsgrafen anges epilepsi, pseudotumor cerebri och intrakraniell hypertension |
-| Förutsagd ny indikation | Trikotillomani |
-| TxGNN-förutsägelsepoäng | 99,95 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Trichotillomania |
+| TxGNN-förutsägelsepoäng | 0.9995 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 8 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
+| Antal godkännanden | 8 (giltiga: 8) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Tiopental är ett barbiturat som i kunskapsgrafen anges för epilepsi, pseudotum
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Tiopental är enligt allmän farmakologisk kunskap ett barbiturat som förstärker GABA-A-receptorns hämmande signalering. Det är den mekanismen som ligger bakom effekten vid epilepsi och status epilepticus.
 
-Trikotillomani förknippas däremot främst med vanebaserade beteenden samt serotonerga och glutamaterga signalvägar. Underlaget visar inget rimligt samband mellan GABA-A-förstärkning och dessa vägar. Någon mekanistisk koppling mellan tiopentals ursprungliga användning och trikotillomani kan därför inte styrkas. Den höga modellpoängen bör tolkas som ett statistiskt mönster i kunskapsgrafen, inte som ett biologiskt belagt samband.
+Trikotillomani förknippas däremot främst med vanebaserade beteenden samt serotonerga och glutamaterga signalvägar. Underlaget visar inget rimligt samband mellan GABA-A-förstärkning och dessa vägar. Någon mekanistisk koppling mellan tiopentals ursprungliga användning och trikotillomani kan därför inte styrkas.
 
 Bland de övriga topp-10-förutsägelserna är **frontallobsepilepsi** och **absensepilepsi** de enda med viss litteratur. Frontallobsepilepsi överlappar med läkemedlets ursprungliga epilepsiindikation och är därför inte en verklig ny användning. Vid absensepilepsi kan GABA-A-förstärkning dessutom förvärra anfallen.
 
@@ -127,7 +127,6 @@ Uppgifter från produktresumén saknas. Se produktresumén för varningar och ko
 - Komplettera verkningsmekanismen från DrugBank och analysera om det finns något samband med trikotillomani.
 - Prekliniska studier eller mekanistiska studier som stöder en roll vid trikotillomani.
 - Bedöma om en annan förutsägelse är mer lovande, med beaktande av att frontallobsepilepsi överlappar med den ursprungliga indikationen.
-- Klargöra läkemedlets regulatoriska status, eftersom inga giltiga godkännanden finns i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

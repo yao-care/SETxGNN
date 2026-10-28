@@ -4,17 +4,17 @@ title: Mianserin
 parent: Endast modellprediktion (L5)
 nav_order: 291
 evidence_level: L5
-indication_count: 7
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Mianserin: predikterad ny indikation Benign paroxysmal torticollis hos spädbarn (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. Enligt kunska…"
 monitor_inn: "mianserin"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "dysthymic disorder", "agoraphobia", "Ohdo syndrome and variants", "melancholia", "neurotic disorder"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "neurotic disorder"]
+description: "Mianserin: predikterad ny indikation Benign paroxysmal torticollis of infancy (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Mianserin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **7** st
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Mianserin: Från unipolär depression till benign paroxysmal torticollis hos spädbarn
+## Mianserin: Benign paroxysmal torticollis of infancy
 {: .text-alpha }
 
 ---
@@ -41,7 +41,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 ### Sammanfattning
 
 Mianserin är ett tetracykliskt antidepressivt läkemedel som ursprungligen användes för att behandla unipolär depression, endogen depression, egentlig depression och ångestsyndrom.
-TxGNN-modellen förutsäger att det kan vara effektivt mot **benign paroxysmal torticollis hos spädbarn**, med mycket hög modellpoäng (99,5 %) men **0 kliniska prövningar** och **0 publikationer** som stöder just denna riktning. Förutsägelsen är därför enbart en beräkningsmässig hypotes.
+Förutsägelsen är därför enbart en beräkningsmässig hypotes.
 
 ---
 
@@ -49,12 +49,12 @@ TxGNN-modellen förutsäger att det kan vara effektivt mot **benign paroxysmal t
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: unipolär depression, endogen depression, egentlig depression och ångestsyndrom |
-| Förutsagd ny indikation | Benign paroxysmal torticollis hos spädbarn |
-| TxGNN-förutsägelsepoäng | 99,5 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Benign paroxysmal torticollis of infancy |
+| TxGNN-förutsägelsepoäng | 0.9949 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
-| Antal godkännanden | 9 (alla återkallade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
+| Antal godkännanden | 9 (giltiga: 9) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -73,11 +73,11 @@ Det finns alltså inget stöd i kliniska prövningar eller litteratur. Den höga
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 65740 | Mianserin Ebb | Filmdragerad tablett | Ingen indikationstext tillgänglig (återkallat) |
-| 58086 | Mianserin Viatris | Filmdragerad tablett | Ingen indikationstext tillgänglig (återkallat) |
-| 12850 | Mianserin Viatris | Filmdragerad tablett | Ingen indikationstext tillgänglig (återkallat) |
-| 56510 | Mianserin 2care4 | Filmdragerad tablett | Ingen indikationstext tillgänglig (återkallat) |
-| 12014 | Mianserin Viatris | Filmdragerad tablett | Ingen indikationstext tillgänglig (återkallat) |
+| 65740 | Mianserin Ebb | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänt) |
+| 58086 | Mianserin Viatris | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänt) |
+| 12850 | Mianserin Viatris | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänt) |
+| 56510 | Mianserin 2care4 | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänt) |
+| 12014 | Mianserin Viatris | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänt) |
 
 Totalt finns 9 godkännanden, alla återkallade. Ytterligare fyra godkännanden (58008, 57435, 65741 och 12015) visas inte här.
 
@@ -112,11 +112,8 @@ Andra förutsägelser har starkare litteraturstöd, men de ligger nära mianseri
 
 | Förutsagd indikation | Poäng | Evidensnivå | Kommentar |
 |------|------|------|------|
-| Neurotisk sjukdom | 99,0 % | L3 | Mest mianserinspecifik litteratur, bland annat jämförande studier mot klomipramin och imipramin |
-| Melankoli | 99,2 % | L4 | Motsvarar endogen depression, alltså nära en befintlig indikation |
-| Neurotisk depression | 99,2 % | L4 | Föråldrad diagnosterm, indirekt evidens |
-| Dysthymi | 99,4 % | L4 | Endast metaanalys på läkemedelsklassnivå |
-| Agorafobi | 99,4 % | L4 | Ingen direkt evidens för mianserin |
+| Dysthymi | 0,9940 | L5 | Endast metaanalys på läkemedelsklassnivå |
+| Agorafobi | 0,9940 | L5 | Ingen direkt evidens för mianserin |
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

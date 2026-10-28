@@ -4,17 +4,17 @@ title: Ipratropium
 parent: Endast modellprediktion (L5)
 nav_order: 233
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Ipratropium: predikterad ny indikation Obstruktiv lungsjukdom (evidensnivå L5). Ursprunglig indikation: Kronisk obstruktiv lungsjukdom (KOL) (enligt kunskapsgrafen"
 monitor_inn: "ipratropium"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "respiratory malformation", "papillary conjunctivitis", "Rienhoff syndrome", "tracheal disease", "anaphylaxis", "food-dependent exercise-induced anaphylaxis"]
+description: "Ipratropium: predikterad ny indikation Nasal cavity disease (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ipratropium
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Ipratropium: Från kroniskt obstruktiv lungsjukdom (KOL) till obstruktiv lungsjukdom
+## Ipratropium: Nasal cavity disease
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Ipratropium är ett antikolinergt luftrörsvidgande läkemedel som ursprungligen
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Kronisk obstruktiv lungsjukdom (KOL) (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Obstruktiv lungsjukdom |
-| TxGNN-förutsägelsepoäng | 99,97 % |
-| Evidensnivå | L1 (med reservation, se nedan) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Nasal cavity disease |
+| TxGNN-förutsägelsepoäng | 0.9986 |
+| Evidensnivå | L5 (med reservation, se nedan) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (samtliga indragna) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pyridostigmine
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 372
-evidence_level: L4
-indication_count: 7
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Pyridostigmine: predikterad ny indikation Myasthenia gravis med tymushyperplasi (evidensnivå L4). Ursprunglig indikation: Myasthenia gravis…"
 monitor_inn: "pyridostigmine"
 predicted_indications: ["autoimmune disease of peripheral nervous system", "disease of receptor activity", "hypersplenism (disease)", "atypical hemolytic-uremic syndrome with B factor anomaly"]
+description: "Pyridostigmine: predikterad ny indikation Autoimmune disease of peripheral nervous system (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Pyridostigmine
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **7** st
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Pyridostigmin: Från myasthenia gravis till myasthenia gravis med tymushyperplasi
+## Pyridostigmine: Autoimmune disease of peripheral nervous system
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Pyridostigmin (Mestinon) är en reversibel acetylkolinesterashämmare som urspru
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Myasthenia gravis, myasthenia gravis med debut i vuxen ålder och sjukdom i neuromuskulära synapsen (enligt kunskapsgrafen; produkttexterna i de svenska godkännandena saknar indikationstext) |
-| Förutsagd ny indikation | Myasthenia gravis med tymushyperplasi |
-| TxGNN-förutsägelsepoäng | 99,8 % |
-| Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 12 (samtliga indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Autoimmune disease of peripheral nervous system |
+| TxGNN-förutsägelsepoäng | 0.9975 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 12 av 12) |
+| Antal godkännanden | 12 (giltiga: 12) |
 | Rekommenderat beslut | Avvakta |
 
 ---

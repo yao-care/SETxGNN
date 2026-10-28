@@ -6,9 +6,9 @@ nav_order: 232
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Imipenem: predikterad ny indikation Diffus sklerodermi (evidensnivå L5). Ursprunglig indikation: Bakteriell lunginflammation, peritonit, endokardit, bakteriell artrit…"
 monitor_inn: "imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "staphylococcus aureus infection", "eosinophilia-myalgia syndrome"]
+description: "Imipenem: predikterad ny indikation Diffuse scleroderma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Imipenem
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Imipenem: Från bakteriell lunginflammation till diffus sklerodermi
+## Imipenem: Diffuse scleroderma
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Imipenem är ett karbapenemantibiotikum som används mot svåra bakteriella infe
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Bakteriell lunginflammation, peritonit, endokardit, bakteriell artrit, endometrit m.fl. (från kunskapsgrafen, eftersom indikationstexten saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Diffus sklerodermi |
-| TxGNN-förutsägelsepoäng | 99,99 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Diffuse scleroderma |
+| TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 4 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---

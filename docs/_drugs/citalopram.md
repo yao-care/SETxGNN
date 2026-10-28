@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Citalopram
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 104
-evidence_level: L5
+evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Citalopram: predikterad ny indikation Tvångssyndrom (obsessive-compulsive disorder) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i godkännandena. Enligt kunsk…"
 monitor_inn: "citalopram"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)"]
+last_modified_at: 2026-10-27
+description: "Citalopram: predikterad ny indikation Tvångssyndrom (obsessive-compulsive disorder) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Citalopram
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **5** st
+Evidensnivå: **L3** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,116 +33,101 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-## Citalopram: Från depression och ångestsyndrom till tvångssyndrom (OCD)
+## Citalopram: selektiv serotoninåterupptagshämmare (SSRI) → Tvångssyndrom (obsessive-compulsive disorder)
 {: .text-alpha }
 
 ---
 
-## Sammanfattning
+### Sammanfattning
 
-Citalopram är en selektiv serotoninåterupptagshämmare (SSRI) som ursprungligen användes vid egentlig depression, andra depressionsformer och ångestsyndrom. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **tvångssyndrom (OCD)**. Förutsägelsen stöds av **4 kliniska prövningar** (ingen av dem testar citalopram direkt) och **16 publikationer**, varav ett flertal är små öppna studier av citalopram vid OCD.
+Citalopram är en selektiv serotoninåterupptagshämmare (SSRI). Läkemedlets ursprungliga indikation framgår inte av de lokala godkännandena i data som sammanställts för denna rapport. TxGNN-modellen förutsäger att det kan vara effektivt mot **tvångssyndrom (obsessive-compulsive disorder)**, med **4 kliniska prövningar** och **15 publikationer** som för närvarande hör till denna riktning. Ingen av prövningarna testar dock citalopram direkt, och citalopramspecifika publikationer är i huvudsak öppna eller preliminära studier.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns registrerad i godkännandena. Enligt kunskapsgrafen: egentlig depression, unipolär depression, dystymi, ångestsyndrom |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Tvångssyndrom (obsessive-compulsive disorder) |
-| TxGNN-förutsägelsepoäng | 99,7 % |
-| Evidensnivå | L2 (enligt datasammanställningen; stödet består dock mest av öppna och preliminära studier, och inga citalopramspecifika fas 3-RCT har identifierats) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 20 (alla indragna) |
+| TxGNN-förutsägelsepoäng | 0,9974 |
+| Evidensnivå | L3 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det insamlade underlaget. Baserat på känd farmakologi är citalopram en selektiv serotoninåterupptagshämmare (SSRI) som ökar mängden serotonin i synapsklyftan.
+Det finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Citalopram är dock känt som en SSRI, som ökar mängden serotonin i synapsen genom att hämma dess återupptag.
 
-OCD har sedan decennier kopplats till serotoninsystemet, och SSRI-preparat som fluoxetin och sertralin är etablerad förstahandsbehandling. Citalopram har samma grundmekanism och används redan vid depression och ångest, tillstånd som ofta förekommer tillsammans med OCD. Det gör att det finns en rimlig klassbaserad förklaring till den höga modellpoängen.
+Tvångssyndrom svarar på serotoninåterupptagshämmare. Andra SSRI-preparat, till exempel fluoxetin och sertralin, har en etablerad effekt vid tvångssyndrom, och den höga förutsägelsepoängen stämmer överens med denna klassövergripande mekanism.
 
-Direkt kontrollerad evidens för citalopram vid OCD är dock begränsad. Publicerade citalopramstudier är mestadels öppna eller preliminära (vuxna med behandlingsresistent OCD, en öppen studie på barn, en studie av koncentration och svar). Resonemanget om mekanismen är härlett från SSRI-farmakologi och inte från verkningsmekanismdata för just detta läkemedel.
+Mekanismen bygger här på allmänt känd SSRI-farmakologi och inte på uppgifter om citalopram i de sammanställda data. Citalopramspecifika data är mestadels öppna eller preliminära studier, så kontrollerad evidens för själva citalopram är begränsad.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 | Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
 |---------|------|------|------|---------|
-| [NCT02022709](https://clinicaltrials.gov/study/NCT02022709) | Fas 4 | Avslutad | 78 | Jämför SSRI, exponering med responsprevention (ERP) och kombinationen vid OCD, samt söker prediktorer för behandlingssvar. Citalopram nämns inte specifikt. |
-| [NCT00074815](https://clinicaltrials.gov/study/NCT00074815) | Fas 3 | Avslutad | 124 | Barn med OCD som svarat delvis på serotoninåterupptagshämmare; prövar om kognitiv beteendeterapi förbättrar effekten. Citalopram anges inte som prövat läkemedel. |
-| [NCT00680602](https://clinicaltrials.gov/study/NCT00680602) | Fas 4 | Avslutad | 158 | Grupp-KBT jämfört med fluoxetin vid OCD. Stöder endast klassnivå, inte citalopram. |
-| [NCT02285699](https://clinicaltrials.gov/study/NCT02285699) | Ej tillämpligt | Avslutad | 43 | Pilotstudie av tarmflora vid OCD jämfört med friska kontroller, samt efter 12 veckors SSRI-behandling. Ger ingen effektevidens. |
+| [NCT02022709](https://clinicaltrials.gov/study/NCT02022709) | Fas 4 | Avslutad | 78 | Utvärderar SSRI, exponering med responsprevention (ERP) och kombinationen vid tvångssyndrom samt prediktorer för behandlingssvar. Citalopram anges inte specifikt. |
+| [NCT00074815](https://clinicaltrials.gov/study/NCT00074815) | Fas 3 | Avslutad | 124 | Barn med tvångssyndrom som svarat delvis på serotoninåterupptagshämmare; prövar om KBT förbättrar effekten. Citalopram anges inte specifikt. |
+| [NCT00680602](https://clinicaltrials.gov/study/NCT00680602) | Fas 4 | Avslutad | 158 | Jämför gruppbaserad KBT med fluoxetin; stöder endast klassnivå. |
+| [NCT02285699](https://clinicaltrials.gov/study/NCT02285699) | Ej tillämpligt | Avslutad | 43 | Observationsstudie av tarmflora vid tvångssyndrom före och efter 12 veckors SSRI-behandling; ger ingen effektdata för citalopram. |
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [10572334](https://pubmed.ncbi.nlm.nih.gov/10572334/) | 1999 | Randomiserad öppen studie | European Psychiatry | Citalopram jämfört med citalopram plus klomipramin hos 16 vuxna med behandlingsresistent OCD under 90 dagar. |
-| [9241005](https://pubmed.ncbi.nlm.nih.gov/9241005/) | 1997 | Enkelblind studie | Journal of Clinical Psychopharmacology | Jämför effekten av fluvoxamin, paroxetin och citalopram vid OCD hos 30 patienter. |
-| [15089116](https://pubmed.ncbi.nlm.nih.gov/15089116/) | 2004 | Preliminär klinisk studie | CNS Drugs | Undersöker sambandet mellan citalopramkoncentration och kliniskt svar vid OCD. |
-| [9395151](https://pubmed.ncbi.nlm.nih.gov/9395151/) | 1997 | Öppen pilotstudie | Acta Psychiatrica Scandinavica | 24 veckors öppen studie av citalopram vid OCD. |
-| [12839522](https://pubmed.ncbi.nlm.nih.gov/12839522/) | 2003 | Öppen studie (barn) | Psychiatry and Clinical Neurosciences | 15 barn och ungdomar behandlades i 8 veckor med citalopram (20–30 mg/dag); effekt och tolerans utvärderades med CY-BOCS. |
-| [9466233](https://pubmed.ncbi.nlm.nih.gov/9466233/) | 1997 | Öppen studie (barn) | Journal of Child and Adolescent Psychopharmacology | 23 barn och ungdomar; OCD-symtomen förbättrades statistiskt signifikant efter 10 veckor (Y-BOCS/CY-BOCS 30 → 21). |
-| [10471169](https://pubmed.ncbi.nlm.nih.gov/10471169/) | 1999 | Översikt/kommentar | International Clinical Psychopharmacology | Beskriver sambandet mellan serotoninåterupptagshämmare och OCD samt citalopram som behandling. |
-| [22305974](https://pubmed.ncbi.nlm.nih.gov/22305974/) | 2012 | Översikt | BMJ Clinical Evidence | Allmän översikt av förekomst, förlopp och behandling av OCD. |
-| [12607204](https://pubmed.ncbi.nlm.nih.gov/12607204/) | 2000 | Översikt | World Journal of Biological Psychiatry | Serotoninsystemets roll vid OCD och behandling med serotonerga läkemedel. |
-| [20712565](https://pubmed.ncbi.nlm.nih.gov/20712565/) | 2010 | Översikt | Current Medicinal Chemistry | Genomgång av tidigare, nuvarande och framtida läkemedel vid OCD. |
+| [10572334](https://pubmed.ncbi.nlm.nih.gov/10572334/) | 1999 | Klinisk studie (öppen, randomiserad) | European Psychiatry | Citalopram jämfört med citalopram plus klomipramin hos 16 vuxna med behandlingsresistent tvångssyndrom under 90 dagar. |
+| [9241005](https://pubmed.ncbi.nlm.nih.gov/9241005/) | 1997 | Enkelblind studie | Journal of Clinical Psychopharmacology | Jämför effekt av fluvoxamin, paroxetin och citalopram vid tvångssyndrom hos 30 patienter. |
+| [9395151](https://pubmed.ncbi.nlm.nih.gov/9395151/) | 1997 | Öppen pilotstudie | Acta Psychiatrica Scandinavica | 24 veckors öppen pilotstudie av citalopram vid tvångssyndrom. |
+| [9466233](https://pubmed.ncbi.nlm.nih.gov/9466233/) | 1997 | Öppen studie (barn) | Journal of Child and Adolescent Psychopharmacology | 23 barn och ungdomar; Y-BOCS-poäng sjönk från 30 till 21 efter 10 veckor (p < 0,001). |
+| [12839522](https://pubmed.ncbi.nlm.nih.gov/12839522/) | 2003 | Öppen preliminär studie (barn) | Psychiatry and Clinical Neurosciences | 15 barn och ungdomar behandlades i 8 veckor med citalopram. |
+| [15089116](https://pubmed.ncbi.nlm.nih.gov/15089116/) | 2004 | Preliminär klinisk studie | CNS Drugs | Undersöker sambandet mellan citalopramkoncentration och klinisk respons. |
+| [10471169](https://pubmed.ncbi.nlm.nih.gov/10471169/) | 1999 | Översikt/kommentar | International Clinical Psychopharmacology | Beskriver citalopram vid tvångssyndrom och serotoninåterupptagshämmares roll. |
+| [22305974](https://pubmed.ncbi.nlm.nih.gov/22305974/) | 2012 | Översikt | BMJ Clinical Evidence | Allmän översikt av tvångssyndrom. |
 
 ---
 
-## Marknadsinformation Sverige
+### Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna och inget är för närvarande giltigt. Ingen indikationstext finns registrerad i underlaget. De fem första godkännandena visas nedan.
+Enligt de lokala uppgifterna finns minst 20 godkännanden, och listan kan vara ofullständig. Samtliga är filmdragerade tabletter för oral användning. Indikationstext saknas i de lokala uppgifterna.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 49280 | Citalopram Jubilant | Filmdragerad tablett | Uppgift saknas |
-| 23001 | Citalopram Teva | Filmdragerad tablett | Uppgift saknas |
-| 49278 | Citalopram Jubilant | Filmdragerad tablett | Uppgift saknas |
-| 21046 | Citalopram Sandoz | Filmdragerad tablett | Uppgift saknas |
-| 11661 | Cipramil | Filmdragerad tablett | Uppgift saknas |
+| 49280 | Citalopram Jubilant | Filmdragerad tablett | Ej registrerad |
+| 23001 | Citalopram Teva | Filmdragerad tablett | Ej registrerad |
+| 21046 | Citalopram Sandoz | Filmdragerad tablett | Ej registrerad |
+| 24110 | Citalopram Orion | Filmdragerad tablett | Ej registrerad |
+| 11661 | Cipramil | Filmdragerad tablett | Ej registrerad |
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-- **Kontraindikationer enligt kunskapsgrafen** (härledda från grafrelationer, inte från produktresumétext): långt QT-syndrom (även ärftligt), torsades de pointes, epilepsi, bipolär sjukdom, leversjukdom, gallblåssjukdom, kaliumbrist, blödningsrubbningar, hjärtsjukdom och kardiovaskulär sjukdom, malignt neuroleptikasyndrom, SIADH (otillräcklig ADH-hämning), samt serotoninsyndrom.
-- **Läkemedelsinteraktioner**: 414 interaktioner är identifierade. Bland de första 20 som redovisats finns flera av allvarlig grad (Major), bland annat:
-  - bupropion
-  - omeprazol
-  - cimetidin
-  - cisapride
-  - klaritromycin
-  - dolasetron
-  - lorcaserin
-  - dexfenfluramin
-  - dietylpropion
+- **Läkemedelsinteraktioner**: 414 interaktioner är registrerade. Bland de som klassas som allvarliga (Major) finns bupropion, omeprazol, cimetidin, lorkaserin, cisaprid, klaritromycin, dexfenfluramin, dietylpropion och dolasetron. Måttliga interaktioner omfattar bland annat acetylsalicylsyra, morfin och famotidin.
 
-  Flera av dessa är kopplade till QT-förlängning eller serotonerg toxicitet. Måttliga interaktioner finns bland annat med acetylsalicylsyra, morfin och famotidin.
-
-Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se produktresumén för fullständig säkerhetsinformation.
+Se i övrigt produktresumén för varningar och kontraindikationer.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Förutsägelsen är mekanistiskt rimlig och stöds av flera små öppna studier av citalopram vid OCD, men kontrollerad evidens för citalopram saknas. Dessutom finns en tydlig QT-risk och många allvarliga interaktioner, och alla svenska godkännanden är indragna.
+- Förutsägelsen är mekanistiskt rimlig eftersom SSRI-klassen är etablerad vid tvångssyndrom, men citalopramspecifik evidens är begränsad till öppna och preliminära studier, och ingen registrerad prövning testar citalopram direkt.
 
 **För att gå vidare krävs:**
-- Randomiserade, kontrollerade studier av citalopram vid OCD, helst fas 3, med placebo eller aktiv jämförelse.
-- Hämta produktresumén för varningar och kontraindikationer, särskilt kring QT-förlängning och dosgränser.
-- Komplettera data om verkningsmekanism från DrugBank.
-- Klargöra varför godkännandena är indragna och om ny marknadsföring eller annan produkt (till exempel escitalopram) är relevant.
-- Bedöma om en ny indikation för OCD behövs i förhållande till redan etablerade SSRI-preparat.
+- Kontrollerade, randomiserade studier som direkt jämför citalopram med placebo eller aktiv kontroll vid tvångssyndrom
+- Kompletterande verkningsmekanismdata
+- Genomgång av varningar och kontraindikationer i produktresumén, som saknas i de sammanställda uppgifterna
+- Särskild uppmärksamhet på interaktioner och hjärtrelaterad säkerhet (QT-förlängning) vid dosbeslut
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

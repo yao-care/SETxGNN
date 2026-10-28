@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Chloroprocaine
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 93
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Chloroprocaine: predikterad ny indikation Cauda equina-syndrom (evidensnivå L5). Ursprunglig indikation: Uppgift saknas (godkännandetexterna är tomma)"
 monitor_inn: "chloroprocaine"
 predicted_indications: ["cauda equina syndrome"]
+last_modified_at: 2026-10-27
+description: "Chloroprocaine: predikterad ny indikation Cauda equina-syndrom (cauda equina syndrome) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Chloroprocaine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **1** st
+Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,94 +33,87 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Kloroprokain: Från lokalanestesi till cauda equina-syndrom
+## Kloroprokain: lokalbedövningsmedel (natriumkanalblockerare) → Cauda equina-syndrom (cauda equina syndrome)
 {: .text-alpha }
 
 ---
 
-## Sammanfattning
+### Sammanfattning
 
-Kloroprokain är ett lokalanestetikum av estertyp som i Sverige har marknadsförts under namnet Ampres (injektionsvätska, lösning). Något godkänt användningsområde finns inte angivet i de data som sammanställts för rapporten.
-TxGNN-modellen förutsäger **cauda equina-syndrom** med mycket hög poäng (99,0 %). Underlaget består av **0 kliniska prövningar** och **4 publikationer**. Den förutsägelsen bedöms sannolikt spegla en **biverkningskoppling** (neurotoxicitet vid spinal- och epiduralbedövning) och inte en möjlig behandlingseffekt.
+Kloroprokain är ett esterbaserat lokalanestetikum som används vid regional bedövning. TxGNN-modellen förutsäger en koppling till **cauda equina-syndrom (cauda equina syndrome)**, men den tillgängliga litteraturen beskriver syndromet som en **komplikation** vid spinal- och epiduralbedövning, inte som en behandlingsmöjlighet. Underlaget består av **0 kliniska prövningar** och **4 publikationer**, varav ingen visar behandlingseffekt vid sjukdomen.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Uppgift saknas (godkännandetexterna är tomma) |
-| Förutsagd ny indikation | Cauda equina-syndrom |
-| TxGNN-förutsägelsepoäng | 99,0 % |
-| Evidensnivå | L4 (endast mekanism- och översiktsdata, inga studier som stöder behandlingseffekt) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Cauda equina-syndrom (cauda equina syndrome) |
+| TxGNN-förutsägelsepoäng | 0,9901 |
+| Evidensnivå | L4 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-Kloroprokain är ett lokalanestetikum av estertyp som blockerar spänningsstyrda natriumkanaler och därmed hindrar nervimpulser. Detaljerade mekanismdata finns inte tillgängliga i underlaget, men denna verkningsmekanism är väl känd för läkemedelsklassen.
+Kloroprokain blockerar spänningsstyrda natriumkanaler och hämmar därigenom nervledning. Det är en kortverkande substans som har använts för spinalbedövning vid korta ingrepp.
 
-Kopplingen till cauda equina-syndrom är sannolikt **inte terapeutisk**. Litteraturen beskriver syndromet som en komplikation efter spinal- och epiduralbedövning med lokalanestetika, däribland kloroprokain. Den föreslagna förklaringen är neurotoxicitet vid höga lokala koncentrationer eller ojämn fördelning, till exempel vid kontinuerliga spinalkatetrar. Den höga poängen speglar därför troligen denna association i kunskapsgrafen.
+Sambandet med cauda equina-syndrom är sannolikt en **biverkningsassociation** och inte ett terapeutiskt samband. Syndromet har beskrivits som komplikation efter spinal- och epiduralbedövning med lokalanestetika, bland annat kloroprokain. Det föreslagna förklaringsmodellen är nervtoxicitet vid höga lokala koncentrationer eller ojämn fördelning, till exempel via kontinuerliga spinalkatetrar. Den höga poängen återspeglar därför troligen denna association och inte en förväntad nytta.
 
-Det finns ingen rimlig mekanism enligt vilken natriumkanalblockad skulle behandla cauda equina-syndrom. Tillståndet orsakas oftast av mekanisk kompression och kräver vanligen kirurgisk dekompression.
+Ingen rimlig mekanism har identifierats för hur natriumkanalblockad skulle behandla cauda equina-syndrom. Tillståndet orsakas typiskt av mekanisk kompression och kräver ofta kirurgisk dekompression. Detaljerade mekanismdata finns inte tillgängliga i underlaget.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [22236346](https://pubmed.ncbi.nlm.nih.gov/22236346/) | 2012 | RCT | Acta anaesthesiologica Scandinavica | Jämförelse av kloroprokain och lidokain (med fentanyl) för selektiv spinalanestesi vid dagkirurgisk transuretral prostataresektion. Studien gäller anestesi, inte behandling av cauda equina-syndrom. |
-| [23320599](https://pubmed.ncbi.nlm.nih.gov/23320599/) | 2013 | Översikt | Acta anaesthesiologica Scandinavica | Översikt av kloroprokain vid spinalanestesi som alternativ till lidokain (transienta neurologiska symtom). Neurologiska följdtillstånd har beskrivits efter intratekal injektion av stora doser konserveringsmedelshaltigt preparat. |
-| [11368250](https://pubmed.ncbi.nlm.nih.gov/11368250/) | 2001 | Översikt | Drug safety | Översikt av komplikationer vid regional anestesi (misslyckad blockad, nervskada, toxicitet hos lokalanestetika) och hur de kan förebyggas. |
-| [9338907](https://pubmed.ncbi.nlm.nih.gov/9338907/) | 1997 | Fallrapport | Regional anesthesia | Två fall av cauda equina-syndrom efter spinal-epiduralanestesi. Tidigare rapporter har satt lidokain, kloroprokain och prokain i samband med syndromet. |
+| [22236346](https://pubmed.ncbi.nlm.nih.gov/22236346/) | 2012 | RCT | Acta anaesthesiologica Scandinavica | Jämförelse av kloroprokain och lidokain för selektiv spinalbedövning vid transuretral prostataresektion; studerar inte cauda equina-syndrom. |
+| [23320599](https://pubmed.ncbi.nlm.nih.gov/23320599/) | 2013 | Översikt | Acta anaesthesiologica Scandinavica | Översikt av kloroprokain vid spinalbedövning; neurologiska följdtillstånd har beskrivits efter stora doser konserveringsmedelshaltigt kloroprokain. |
+| [11368250](https://pubmed.ncbi.nlm.nih.gov/11368250/) | 2001 | Översikt | Drug safety | Komplikationer vid regional anestesi, bland annat nervskada och toxicitet av lokalanestetika. |
+| [9338907](https://pubmed.ncbi.nlm.nih.gov/9338907/) | 1997 | Fallrapport | Regional anesthesia | Två fall av cauda equina-syndrom efter spinal-epidural bedövning; tidigare rapporter har inkluderat kloroprokain bland orsakerna. |
 
 ---
 
-## Marknadsinformation Sverige
+### Marknadsinformation Sverige
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 58182 (indragen) | Ampres | Injektionsvätska, lösning | Uppgift saknas |
-| 58183 (indragen) | Ampres | Injektionsvätska, lösning | Uppgift saknas |
-
-Tillverkare: B. Braun Melsungen AG.
+| 58182 | Ampres | Injektionsvätska, lösning | Indikationstext ej registrerad |
+| 58183 | Ampres | Injektionsvätska, lösning | Indikationstext ej registrerad |
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-- **Möjliga kontraindikationer enligt kunskapsgrafen** (relationer i en kunskapsgraf, inte produkttext): njursjukdom, leversjukdom, gallblåsesjukdom, myasthenia gravis (inklusive vuxendebuterande form), sjukdom i neuromuskulära synapsen, butyrylkolinesterasbrist, hjärt-kärlsjukdom och hjärtsjukdom. Dessa uppgifter bör verifieras mot produktresumén.
-- **Läkemedelsinteraktioner** (12 registrerade):
-  - **Allvarlig:** nitrit (”nitrous acid”).
-  - **Måttliga:** sulfasalazin samt andra lokalanestetika (lidokain topikalt och oftalmiskt, bensokain, kokain nasalt och topikalt, tetrakain topikalt och oftalmiskt, oxibuprokain, cinkokain).
-  - **Lindrig:** hyaluronidas.
-- Viktiga varningar och kontraindikationer från produktresumén saknas i underlaget. Se produktresumén för fullständig säkerhetsinformation.
+- **Läkemedelsinteraktioner** (12 registrerade): den viktigaste är av allvarlig grad (Major) med nitrit (Nitrous acid). Måttliga interaktioner finns med sulfasalazin samt med andra lokalbedövningsmedel och liknande substanser: lidokain (topikalt och oftalmiskt), bensokain, kokain (nasalt och topikalt), tetrakain (oftalmiskt och topikalt), oxibuprokain och cinkokain. Hyaluronidas har en lindrig interaktion.
+- **Tillstånd där läkemedlet har registrerats som kontraindicerat i de sammanställda data** (inte hämtat från produktresumétext): njursjukdom, leversjukdom, gallblåsesjukdom, myasthenia gravis, sjukdom i neuromuskulära synapsen, butyrylkolinesterasbrist samt hjärt- och kärlsjukdom.
+
+Se produktresumén för fullständiga varningar och kontraindikationer.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den höga TxGNN-poängen verkar bero på att cauda equina-syndrom är en känd komplikation av neuraxial anestesi och inte på någon behandlingseffekt. Det finns inga kliniska prövningar, och inga publikationer visar nytta för patienter med syndromet.
-- Båda svenska godkännandena är dessutom indragna.
+- Ingen av de redovisade studierna undersöker kloroprokain som behandling av cauda equina-syndrom; litteraturen beskriver syndromet som en möjlig komplikation av lokalanestetika. Det saknas dessutom en rimlig verkningsmekanism, och evidensnivån bör därför i praktiken bedömas som L5 enligt reglerna för evidenstak (den angivna nivån L4 saknar studier som direkt undersöker sjukdomen som behandlingsmål).
 
 **För att gå vidare krävs:**
-- Ett mekanistiskt resonemang för varför kloroprokain skulle kunna behandla cauda equina-syndrom (för närvarande saknas det).
-- Verkningsmekanismdata (kan hämtas från DrugBank).
-- Varningar och kontraindikationer från produktresumén (Läkemedelsverket), som är en förutsättning för säkerhetsbedömning.
-- Prekliniska eller kliniska data som visar behandlingsnytta, om kandidaten ska utvärderas vidare.
+- Prekliniskt eller kliniskt underlag som visar behandlingsnytta vid cauda equina-syndrom, inte enbart en biverkningsassociation.
+- En tydlig mekanistisk hypotes för hur natriumkanalblockad skulle påverka sjukdomsförloppet.
+- Genomgång av produktresumén för varningar och kontraindikationer, eftersom sådana uppgifter saknas i det sammanställda underlaget.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

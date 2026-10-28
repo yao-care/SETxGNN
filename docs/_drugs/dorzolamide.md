@@ -4,17 +4,17 @@ title: Dorzolamide
 parent: Endast modellprediktion (L5)
 nav_order: 150
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Dorzolamide: predikterad ny indikation Glaukom 1, öppenvinkel (evidensnivå L5). Ursprunglig indikation: Öppenvinkelglaukom och okulär hypertension (enligt kunskapsgrafen"
 monitor_inn: "dorzolamide"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "congestive heart failure", "acute pulmonary heart disease", "respiratory failure"]
+description: "Dorzolamide: predikterad ny indikation Hypotrichosis simplex of the scalp (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Dorzolamide
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Dorzolamid: Från öppenvinkelglaukom till glaukom 1, öppenvinkel (primärt öppenvinkelglaukom)
+## Dorzolamide: Hypotrichosis simplex of the scalp
 {: .text-alpha }
 
 ---
@@ -50,11 +50,11 @@ Dorzolamid är en topikal kolsyraanhydrashämmare i ögondroppar som ursprunglig
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Öppenvinkelglaukom och okulär hypertension (enligt kunskapsgrafen; svenska godkännanden saknar angiven indikationstext) |
-| Förutsagd ny indikation | Glaukom 1, öppenvinkel |
-| TxGNN-förutsägelsepoäng | 99,7 % |
-| Evidensnivå | L1 (stöds av flera avslutade fas 3-prövningar under den överlappande posten öppenvinkelglaukom) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Hypotrichosis simplex of the scalp |
+| TxGNN-förutsägelsepoäng | 0.9995 |
+| Evidensnivå | L5 (stöds av flera avslutade fas 3-prövningar under den överlappande posten öppenvinkelglaukom) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (0 giltiga, 20 indragna) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
@@ -106,7 +106,7 @@ Prövningarna nedan är kopplade till glaukom 1, öppenvinkel och den överlappa
 
 ### Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är indragna; inga giltiga godkännanden finns. Indikationstext saknas i de registrerade uppgifterna. De fem första visas nedan.
+Indikationstext saknas i de registrerade uppgifterna. De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

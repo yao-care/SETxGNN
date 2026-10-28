@@ -4,17 +4,17 @@ title: Tolvaptan
 parent: Endast modellprediktion (L5)
 nav_order: 429
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Tolvaptan: predikterad ny indikation Polycystisk njursjukdom 3 med eller utan polycystisk leversjukdom (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena…"
 monitor_inn: "TOLVAPTAN"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
+description: "Tolvaptan: predikterad ny indikation Renal-hepatic-pancreatic dysplasia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Tolvaptan
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Tolvaptan: Från inadekvat ADH-syndrom och polycystisk njursjukdom till polycystisk njursjukdom 3 med eller utan polycystisk leversjukdom
+## Tolvaptan: Renal-hepatic-pancreatic dysplasia
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Tolvaptan är en vasopressin V2-receptorantagonist som ursprungligen användes v
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: inadekvat ADH-syndrom, nefrogent syndrom med inadekvat antidiures, polycystisk njursjukdom |
-| Förutsagd ny indikation | Polycystisk njursjukdom 3 med eller utan polycystisk leversjukdom |
-| TxGNN-förutsägelsepoäng | 99,99 % |
-| Evidensnivå | L1 (två stora fas 3-RCT i ADPKD, men ingen direkt evidens för just denna subtyp) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Renal-hepatic-pancreatic dysplasia |
+| TxGNN-förutsägelsepoäng | 0.9998 |
+| Evidensnivå | L5 (två stora fas 3-RCT i ADPKD, men ingen direkt evidens för just denna subtyp) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla avregistrerade) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
@@ -93,15 +93,15 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är avregistrerade och det finns inga giltiga godkännanden. Indikationstext saknas i data. De fem första godkännandena visas nedan.
+Indikationstext saknas i data. De fem första godkännandena visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 66684 | Tolvaptan Sandoz | Tablett | Avregistrerad |
-| 63594 | Tolvaptan Teva B.V. | Tablett | Avregistrerad |
-| 66704 | Tolvaptan Hexal | Tablett | Avregistrerad |
-| 63595 | Tolvaptan Teva B.V. | Tablett | Avregistrerad |
-| 66697 | Tolvaptan Zentiva | Tablett | Avregistrerad |
+| 66684 | Tolvaptan Sandoz | Tablett | Godkänd |
+| 63594 | Tolvaptan Teva B.V. | Tablett | Godkänd |
+| 66704 | Tolvaptan Hexal | Tablett | Godkänd |
+| 63595 | Tolvaptan Teva B.V. | Tablett | Godkänd |
+| 66697 | Tolvaptan Zentiva | Tablett | Godkänd |
 
 ---
 
@@ -129,7 +129,6 @@ Uppgifter om varningar och kontraindikationer från svensk produktresumé saknas
 - Komplettera uppgifter om verkningsmekanism från DrugBank.
 - Utvärdera data för patienter med GANAB-relaterad sjukdom specifikt, eller bekräfta att evidensen från ADPKD kan extrapoleras.
 - Säkerställa leverövervakning, hantering av aquaretiska biverkningar och urval av patienter utifrån risk för snabb progression.
-- Kontrollera tillgänglighet och regulatorisk status, eftersom inga giltiga svenska godkännanden finns.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

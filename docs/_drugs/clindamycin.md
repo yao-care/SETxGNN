@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 107
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
-description: "Clindamycin: predikterad ny indikation Punktformad epitelial keratokonjunktivit (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i de svenska godkännandena. E…"
 monitor_inn: "clindamycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "neurotrophic keratopathy", "epidemic keratoconjunctivitis", "postmenopausal atrophic vaginitis"]
+last_modified_at: 2026-10-27
+description: "Clindamycin: predikterad ny indikation Punktat epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Clindamycin
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-## Klindamycin: Från akne och bakteriella infektioner till punktformad epitelial keratokonjunktivit
+## Klindamycin: lincosamid-antibiotikum (hämmar bakteriell proteinsyntes) → Punktat epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Klindamycin är ett antibiotikum som ursprungligen användes mot bakteriella infektioner, bland annat akne, streptokock- och stafylokockinfektioner, anaeroba infektioner, lunginflammation och bakteriell vaginos. TxGNN-modellen förutsäger att det kan vara effektivt mot **punktformad epitelial keratokonjunktivit**, men förutsägelsen bygger enbart på modellen: **inga kliniska prövningar** och **ingen publicerad litteratur** stöder den. För den näst högst rankade indikationen, exponeringskeratit, finns fyra publikationer, men ingen av dem visar behandling med klindamycin.
+Klindamycin är ett antibiotikum av lincosamidtyp som hämmar bakteriers proteinsyntes. TxGNN-modellen förutsäger att det kan vara effektivt mot **punktat epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis)**, men det finns **0 kliniska prövningar** och **0 publikationer** som stöder denna förutsägelse. Förutsägelsen bygger därför enbart på modellen.
 
 ---
 
@@ -48,23 +48,23 @@ Klindamycin är ett antibiotikum som ursprungligen användes mot bakteriella inf
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns registrerad i de svenska godkännandena. Enligt kunskapsgrafen: akne, streptokock- och stafylokockinfektioner, anaeroba infektioner, bakteriell vaginos m.fl. |
-| Förutsagd ny indikation | Punktformad epitelial keratokonjunktivit |
-| TxGNN-förutsägelsepoäng | 99,97 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Punktat epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis) |
+| TxGNN-förutsägelsepoäng | 0,9997 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 20 (0 giltiga, 20 indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Baserat på känd information är klindamycin ett linkosamidantibiotikum som hämmar bakteriell proteinsyntes genom att binda till den bakteriella ribosomens 50S-subenhet. Effekten mot grampositiva bakterier och anaeroba bakterier är väl belagd vid de ursprungliga indikationerna.
+Klindamycin är ett lincosamid som binder till bakteriens 50S-ribosomsubenhet och hämmar proteinsyntesen. Detaljerad data om verkningsmekanismen från läkemedelsdatabasen saknas i det underlag som sammanställts för denna rapport, men den antibakteriella verkningsmekanismen är väletablerad.
 
-Sambandet till den förutsagda indikationen är svagt. Punktformad epitelial keratokonjunktivit orsakas ofta av virus eller av icke-infektiösa faktorer, till exempel torra ögon eller läkemedels- och toxinorsakad skada. En antibakteriell mekanism har därför inget etablerat samband med sjukdomen. Den höga poängen (0,9997) är en ren förutsägelse från kunskapsgrafen.
+Punktat epitelial keratokonjunktivit är oftast virusorsakad eller icke-infektiös, till exempel vid torra ögon eller som toxisk eller läkemedelsutlöst reaktion. Ett antibakteriellt läkemedel har därför ingen etablerad mekanistisk koppling till tillståndet.
 
-Bland de övriga förutsagda indikationerna är exponeringskeratit den som har mest underlag. Klindamycin är verksamt mot *Staphylococcus aureus*, som kan orsaka sekundär bakteriell keratit när hornhinnans yta är skadad. Sambandet är indirekt: det gäller täckning av sekundär infektion, inte behandling av den underliggande epitelskadan.
+Den höga poängen (0,9997) är alltså enbart en modellförutsägelse. Utan stödjande studier ska den tolkas med stor försiktighet.
 
 ---
 
@@ -76,48 +76,29 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Litteraturbevis
 
-Ingen relaterad litteratur finns för den förutsagda huvudindikationen (punktformad epitelial keratokonjunktivit). Nedan visas litteratur för den näst högst rankade förutsägelsen, exponeringskeratit, som ger viss bakgrund för ögoninfektioner i allmänhet.
-
-| PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|-----|------|------|---------|
-| [24244625](https://pubmed.ncbi.nlm.nih.gov/24244625/) | 2013 | Retrospektiv kohortstudie | PloS one | Granskning av sjukhusfall med *S. aureus*-keratit; jämför MRSA och MSSA vad gäller kliniska drag, antibiotikakänslighet och utfall. |
-| [22880135](https://pubmed.ncbi.nlm.nih.gov/22880135/) | 2012 | Retrospektiv kohortstudie | PloS one | Förekomst och kliniska drag vid ögoninfektioner med MRSA jämfört med MSSA, samt antibiotikakänslighet. |
-| [11581057](https://pubmed.ncbi.nlm.nih.gov/11581057/) | 2001 | Fallrapport | Ophthalmology | Första fallet av *Bacillus cereus*-keratit kopplad till kontaktlinsanvändning; samma stam påvisades i hornhinnan och i linsfodralet. |
-| [42763505](https://pubmed.ncbi.nlm.nih.gov/42763505/) | 2026 | Fallrapport | IDCases | Okulär toxoplasmos med påverkan på fovea, diagnostiserad med mNGS. Ett annat sjukdomstillstånd än exponeringskeratit. |
-
-Ingen av studierna utvärderar klindamycin som behandling av exponeringskeratit.
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna. Ingen indikationstext finns registrerad. De fem första godkännandena i underlaget visas nedan.
+Läkemedlet har enligt de lokala uppgifterna marknadsstatus "Marknadsförd". Listan nedan kan vara ofullständig och visar upp till 5 av godkännandena.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 55563 | Dalacin | Kapsel, hård | Ej angiven |
-| 11773 | Dalacin | Vaginalkräm | Ej angiven |
-| 43337 | Clindamycin Orifarm | Kapsel, hård | Ej angiven |
-| 11472 | Dalacin | Kutan emulsion | Ej angiven |
-| 57877 | Clindamycin Navamedic | Infusionsvätska, lösning | Ej angiven |
-
----
-
-### Cytotoxicitet
-
-Klindamycin är ett antibiotikum och inte ett cytostatikum. Sektionen är därför utelämnad.
+| 55563 | Dalacin | Kapsel, hård | Ej angiven i lokala data |
+| 11773 | Dalacin | Vaginalkräm | Ej angiven i lokala data |
+| 43337 | Clindamycin Orifarm | Kapsel, hård | Ej angiven i lokala data |
+| 11472 | Dalacin | Kutan emulsion | Ej angiven i lokala data |
+| 57877 | Clindamycin Navamedic | Infusionsvätska, lösning | Ej angiven i lokala data |
 
 ---
 
 ### Säkerhetsaspekter
 
-Varnings- och kontraindikationstext från produktresumén saknas i det sammanställda underlaget.
+- **Läkemedelsinteraktioner**: Totalt 320 interaktioner finns registrerade. Måttliga interaktioner gäller bland annat balsalazid, klaritromycin, pikosulfat, attapulgit och kaolin. Flera ytterligare interaktioner (till exempel amfotericin B, acetylsalicylsyra, amoxicillin, vankomycin och metformin) har okänd allvarlighetsgrad.
 
-- **Sjukdomar som kunskapsgrafen kopplar till kontraindikation** (inte hämtade från produkttext): leversvikt, solbränna, Crohns sjukdom, inflammatorisk tarmsjukdom, Crohns kolit, atopiskt eksem, atopisk dermatit, exfoliativ dermatit, diarrésjukdom, *Clostridium difficile*-kolit, perinatal nekrotiserande enterokolit, dermatit, ulcerös kolit och vulvovaginal candidiasis.
-- **Clostridioides difficile:** Klindamycin är en känd riskfaktor för *C. difficile*-infektion, vilket de publikationer som hittades om djurepidemiologi också pekar på.
-- **Läkemedelsinteraktioner:** Totalt 320 interaktioner finns registrerade. De som bedöms som måttliga är balsalazid, klaritromycin, pikosulfat, attapulgit och kaolin. Flera andra, bland annat amfotericin B, acetylsalicylsyra, amoxicillin, bupropion, pantoprazol, glimepirid, doxycyklin, klotrimazol, morfin, metformin, omeprazol, sukralfat, rosiglitazon, lansoprazol och vankomycin, har okänd allvarlighetsgrad.
-
-Se produktresumén för fullständig säkerhetsinformation.
+Se i övrigt produktresumén för varningar och kontraindikationer.
 
 ---
 
@@ -126,13 +107,13 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för punktformad epitelial keratokonjunktivit stöds varken av kliniska prövningar eller av litteratur, och den antibakteriella mekanismen passar dåligt till en sjukdom som oftast är viral eller icke-infektiös. Dessutom är alla svenska godkännanden indragna.
+- Förutsägelsen saknar helt stöd i kliniska prövningar och litteratur (evidensnivå L5), och det finns ingen rimlig mekanistisk koppling mellan ett antibakteriellt läkemedel och en främst virusorsakad eller icke-infektiös ögonsjukdom.
 
 **För att gå vidare krävs:**
-- Produktresumé med varningar och kontraindikationer från MPA, eftersom säkerhetsgranskningen annars inte kan genomföras.
-- Uppgifter om verkningsmekanismen från DrugBank.
-- Prekliniska eller kliniska data som visar nytta av klindamycin vid den förutsagda ögonsjukdomen, och en bedömning av om en lämplig beredningsform för ögat finns.
-- Om en ögonindikation ska prioriteras bör exponeringskeratit eller sekundär bakteriell keratit utvärderas före punktformad epitelial keratokonjunktivit, eftersom sambandet där är mer rimligt, även om det är indirekt.
+- Prekliniska eller mekanistiska studier som visar en möjlig effekt vid punktat epitelialt keratokonjunktivit
+- Systematisk litteratursökning efter direkt relevanta studier
+- Säkerhetsgranskning baserad på produktresumén, eftersom varningar och kontraindikationer saknas i underlaget
+- Bedömning av lämplig administreringsväg (till exempel ögonberedning), som inte är utvärderad
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

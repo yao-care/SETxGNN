@@ -6,9 +6,9 @@ nav_order: 328
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Orlistat: predikterad ny indikation Hypervitaminos (evidensnivå L5). Ursprunglig indikation: Fetma (obesitas) och monogen fetma"
 monitor_inn: "ORLISTAT"
 predicted_indications: ["hypervitaminosis"]
+description: "Orlistat: predikterad ny indikation Hypervitaminosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Orlistat
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Orlistat: Från fetma till hypervitaminos
+## Orlistat: Hypervitaminosis
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Orlistat är en lipashämmare som ursprungligen användes för behandling av fet
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Fetma (obesitas) och monogen fetma (enligt kunskapsgrafen; ingen godkänd indikationstext finns i svenska licensdata) |
-| Förutsagd ny indikation | Hypervitaminos |
-| TxGNN-förutsägelsepoäng | 99,4 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Hypervitaminosis |
+| TxGNN-förutsägelsepoäng | 0.9942 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 4 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -77,7 +77,6 @@ Resonemanget är dock helt teoretiskt. Hypervitaminos som beror på oralt intag 
 | 63343 | Orlistat Accord | Kapsel, hård | Ingen indikationstext tillgänglig |
 | 46144 | Beacita | Kapsel, hård | Ingen indikationstext tillgänglig |
 
-Alla fyra godkännanden är avregistrerade, och inget giltigt godkännande finns för närvarande.
 
 ---
 
@@ -109,7 +108,6 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom uppgifter o
 - Uppgifter om verkningsmekanism från DrugBank.
 - Prekliniska data eller en litteraturgenomgång som testar om orlistat kan sänka nivåerna av fettlösliga vitaminer vid hypervitaminos.
 - En bedömning av det kliniska behovet, till exempel vid svår eller långvarig hypervitaminos A eller D.
-- Klarhet i regulatorisk status, eftersom alla svenska godkännanden är avregistrerade.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

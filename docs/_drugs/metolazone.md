@@ -4,17 +4,17 @@ title: Metolazone
 parent: Endast modellprediktion (L5)
 nav_order: 288
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Metolazone: predikterad ny indikation Malign renovaskulär hypertoni (evidensnivå L5). Ursprunglig indikation: Hypertoni (enligt kunskapsgrafen"
 monitor_inn: "metolazone"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+description: "Metolazone: predikterad ny indikation Malignant hypertensive renal disease (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Metolazone
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **5** st
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-## Metolazon Abcur (metolazon): Från hypertoni till malign renovaskulär hypertoni
+## Metolazone: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Metolazon är ett tiazidliknande diuretikum som ursprungligen användes för att behandla högt blodtryck (hypertoni). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **malign renovaskulär hypertoni**, med en mycket hög modellpoäng (99,8 %). Det finns dock **inga kliniska prövningar och ingen relevant litteratur** som stöder denna riktning, så förutsägelsen är i nuläget enbart en beräkningsbaserad hypotes.
+Metolazon är ett tiazidliknande diuretikum som ursprungligen användes för att behandla högt blodtryck (hypertoni). Det finns dock **inga kliniska prövningar och ingen relevant litteratur** som stöder denna riktning, så förutsägelsen är i nuläget enbart en beräkningsbaserad hypotes.
 
 ---
 
@@ -48,12 +48,12 @@ Metolazon är ett tiazidliknande diuretikum som ursprungligen användes för att
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Hypertoni (enligt kunskapsgrafen; ingen indikationstext finns i det svenska godkännandet) |
-| Förutsagd ny indikation | Malign renovaskulär hypertoni |
-| TxGNN-förutsägelsepoäng | 99,8 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Malignant hypertensive renal disease |
+| TxGNN-förutsägelsepoäng | 0.9984 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Metolazon är ett tiazidliknande diuretikum som ursprungligen användes för att
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Baserat på känd information är metolazon ett tiazidliknande diuretikum som hämmar natrium-klorid-kotransportören i distala tubuli i njuren. Effekten vid hypertoni är väl känd, och mekanistiskt kan volym- och blodtryckskontroll vara tillämpbar även vid andra blodtryckssjukdomar.
 
-Kopplingen är dock svag. Malign renovaskulär hypertoni drivs främst av aktivering av renin-angiotensinsystemet vid förträngning av njurartären. Diuretikainducerad volymförlust kan i stället öka frisättningen av renin, vilket i värsta fall förvärrar tillståndet. Den höga modellpoängen speglar sannolikt närheten till den godkända hypertoniindikationen i kunskapsgrafen och inte självständig evidens.
+Kopplingen är dock svag. Malign renovaskulär hypertoni drivs främst av aktivering av renin-angiotensinsystemet vid förträngning av njurartären. Diuretikainducerad volymförlust kan i stället öka frisättningen av renin, vilket i värsta fall förvärrar tillståndet.
 
 Övriga förutsägelser följer samma mönster:
 

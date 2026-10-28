@@ -6,9 +6,9 @@ nav_order: 222
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Heparin: predikterad ny indikation Trombofili orsakad av protein C-brist, autosomalt recessiv (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad. Enligt kunskap…"
 monitor_inn: "heparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets"]
+description: "Heparin: predikterad ny indikation Trombofili orsakad av protein C-brist, autosomalt recessiv (thrombophilia due to protein C deficiency… (evidensnivå L5). Ursprunglig indikation: Inte angiven i de l…"
 ---
 
 # Heparin
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Heparin: Från lungemboli, disseminerad intravasal koagulation och purpura fulminans till trombofili orsakad av proteín C-brist (autosomalt recessiv)
+## Heparin: Trombofili orsakad av protein C-brist, autosomalt recessiv (thrombophilia due to protein C deficiency, autosomal recessive)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Heparin är ett antikoagulerande läkemedel som i kunskapsgrafen är kopplat till lungemboli, disseminerad intravasal koagulation (DIC) och purpura fulminans. TxGNN-modellen förutsäger att heparin kan vara effektivt mot **trombofili orsakad av protein C-brist (autosomalt recessiv)**. För denna riktning finns **0 kliniska prövningar** och **0 publikationer** i de data som sammanställts för rapporten. Förutsägelsen är därför än så länge en ren modellprediktion.
+TxGNN-modellen förutsäger att heparin kan vara effektivt mot **trombofili orsakad av protein C-brist (autosomalt recessiv)**. För denna riktning finns **0 kliniska prövningar** och **0 publikationer** i de data som sammanställts för rapporten. Förutsägelsen är därför än så länge en ren modellprediktion.
 
 ---
 
@@ -48,12 +48,12 @@ Heparin är ett antikoagulerande läkemedel som i kunskapsgrafen är kopplat til
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad. Enligt kunskapsgrafen: lungemboli, DIC, purpura fulminans |
-| Förutsagd ny indikation | Trombofili orsakad av protein C-brist, autosomalt recessiv |
-| TxGNN-förutsägelsepoäng | 99,3 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Trombofili orsakad av protein C-brist, autosomalt recessiv (thrombophilia due to protein C deficiency, autosomal recessive) |
+| TxGNN-förutsägelsepoäng | 0.9929 |
 | Evidensnivå | L5 (endast modellförutsägelse, inga faktiska studier) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 6 (0 giltiga, 6 avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ Inga mekanismdata finns tillgängliga för läkemedlet i de data som sammanstäl
 
 Svår, autosomalt recessiv protein C-brist leder till okontrollerad trombinbildning. Det kan ge purpura fulminans hos nyfödda och omfattande trombos. Eftersom purpura fulminans redan finns bland heparins kopplade indikationer är den förutsagda indikationen snarare en utvidgning av en befintlig användning än något helt nytt.
 
-Det finns ingen direkt evidens i de sammanställda data för just denna kombination. I klinisk praxis används heparin ofta som brygga eller tillägg vid sidan av ersättning med protein C (koncentrat eller plasma). Det vilar här enbart på bakgrundskunskap och inte på de data som sammanställts. Den höga poängen (0,993) ska därför tolkas som en beräkningsmässig signal och inte som ett bevis på effekt.
+Det finns ingen direkt evidens i de sammanställda data för just denna kombination. I klinisk praxis används heparin ofta som brygga eller tillägg vid sidan av ersättning med protein C (koncentrat eller plasma). Det vilar här enbart på bakgrundskunskap och inte på de data som sammanställts. Den höga poängen (0,9929) ska därför tolkas som en beräkningsmässig signal och inte som ett bevis på effekt.
 
 ---
 
@@ -82,15 +82,15 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Alla sex godkännanden är avregistrerade och ingen indikationstext finns registrerad. De fem första visas nedan.
+De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
 |---------|------|------|-----------|-----|
-| 43479 | Heparin LEO | Injektionsvätska, lösning | Orifarm AB | Avregistrerad |
-| 9706 | Heparin LEO | Injektionsvätska, lösning | LEO Pharma AB | Avregistrerad |
-| 43497 | Heparin LEO | Injektionsvätska, lösning | Orifarm AB | Avregistrerad |
-| 63191 | Heparin LEO | Injektionsvätska, lösning | Orifarm AB | Avregistrerad |
-| 9600 | Heparin LEO | Injektionsvätska, lösning | LEO Pharma AB | Avregistrerad |
+| 43479 | Heparin LEO | Injektionsvätska, lösning | Orifarm AB | Godkänd |
+| 9706 | Heparin LEO | Injektionsvätska, lösning | LEO Pharma AB | Godkänd |
+| 43497 | Heparin LEO | Injektionsvätska, lösning | Orifarm AB | Godkänd |
+| 63191 | Heparin LEO | Injektionsvätska, lösning | Orifarm AB | Godkänd |
+| 9600 | Heparin LEO | Injektionsvätska, lösning | LEO Pharma AB | Godkänd |
 
 ---
 

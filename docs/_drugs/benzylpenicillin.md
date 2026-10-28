@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 57
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
-description: "Benzylpenicillin: predikterad ny indikation Perikoronit (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad. Enligt kunskapsgrafe…"
 monitor_inn: "benzylpenicillin"
 predicted_indications: ["pericoronitis", "gingival recession", "canker sore", "ulcerative stomatitis", "denture stomatitis", "chemotherapy-induced oral mucositis", "leukoplakia of gingiva"]
+last_modified_at: 2026-10-27
+description: "Benzylpenicillin: predikterad ny indikation Perikoronit (pericoronitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Benzylpenicillin
@@ -33,15 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Bensylpenicillin: Från bakteriella infektioner till perikoronit
+## Benzylpenicillin: betalaktamantibiotikum (penicillin) → Perikoronit (pericoronitis)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Bensylpenicillin är ett injicerbart penicillin som ursprungligen användes mot bakteriella infektioner, bland annat streptokock-, pneumokock- och meningokockinfektioner, stafylokockinfektioner, mellanöroninflammation, endokardit och mjältbrand.
-TxGNN-modellen förutsäger att det kan vara effektivt mot **perikoronit** (poäng 99,4 %), men det finns **0 kliniska prövningar** och **0 publikationer** som stöder denna riktning. Förutsägelsen bygger enbart på modellen.
+Benzylpenicillin är ett injicerbart penicillinantibiotikum som används mot bakterieinfektioner. TxGNN-modellen förutsäger att det kan vara effektivt mot **perikoronit (pericoronitis)**, men för närvarande finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna riktning. Förutsägelsen bygger enbart på modellen.
 
 ---
 
@@ -49,25 +48,23 @@ TxGNN-modellen förutsäger att det kan vara effektivt mot **perikoronit** (poä
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad. Enligt kunskapsgrafen: bakteriella infektioner (t.ex. streptokock-, pneumokock- och meningokockinfektioner, otitis media, endokardit, mjältbrand) |
-| Förutsagd ny indikation | Perikoronit |
-| TxGNN-förutsägelsepoäng | 99,4 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Perikoronit (pericoronitis) |
+| TxGNN-förutsägelsepoäng | 0,9936 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 11 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 11 av 11) |
+| Antal godkännanden | 11 (giltiga: 11) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som har sammanställts för denna rapport. Baserat på allmänt känd information är bensylpenicillin ett betalaktamantibiotikum av penicillintyp, och dess effekt mot bland annat streptokocker är väl belagd. Mekanistiskt kan det därför vara tillämpbart på perikoronit.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Allmänt är benzylpenicillin ett penicillin som hämmar bakteriers cellväggssyntes och är verksamt mot många streptokocker och vissa anaeroba bakterier.
 
-Perikoronit är en infektion i mjukvävnaden kring en delvis genombruten tand, främst orsakad av blandad flora med anaeroba bakterier och streptokocker. Bensylpenicillin är aktivt mot många orala streptokocker och vissa anaeroba bakterier, vilket gör sambandet till läkemedlets ursprungliga användning rimligt.
+Perikoronit är en blandinfektion, främst med anaeroba bakterier och streptokocker, i mjukvävnaden runt en delvis frambruten tand. Eftersom benzylpenicillin är aktivt mot många orala streptokocker och vissa anaerober är sambandet biologiskt rimligt.
 
-Det höga modellpoängot är dock bara en förutsägelse. Bensylpenicillin ges som injektion, och för tandinfektioner används vanligen orala penicilliner, till exempel fenoximetylpenicillin eller amoxicillin. Läkemedlets marknadsstatus i Sverige är dessutom indragen.
-
-**Övriga förutsägelser (alla L5, ingen evidens):** Gingival recession, aftsår, ulcerativ stomatit, protesstomatit, kemoterapiinducerad oral mukosit och leukoplaki i gingiva har liknande höga poäng (99,0–99,3 %), men det mekanistiska sambandet är svagt eller saknas. Protesstomatit orsakas främst av Candida, och bensylpenicillin saknar svampeffekt. Dessa förutsägelser bedöms som sannolikt falskt positiva eller nätverksartefakter.
+Det finns dock tydliga begränsningar. Den höga poängen är en modellförutsägelse och inte ett kliniskt belägg. Benzylpenicillin ges som injektion, medan perorala penicilliner (till exempel fenoximetylpenicillin eller amoxicillin) normalt är förstahandsval vid tandinfektioner. Dessutom saknas studier som direkt undersökt perikoronit.
 
 ---
 
@@ -85,33 +82,26 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Alla 11 godkännanden är indragna. Ingen indikationstext finns registrerad. De fem första visas nedan.
-
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 63816 | Benzylpenicillin Fresenius Kabi | Pulver till injektions-/infusionsvätska, lösning | Ej angiven (indragen) |
-| 17332 | Benzylpenicillin Panpharma | Pulver till injektions-/infusionsvätska, lösning | Ej angiven (indragen) |
-| 65048 | Bensylpenicillin Noridem | Pulver till injektions-/infusionsvätska, lösning | Ej angiven (indragen) |
-| 63819 | Benzylpenicillin Fresenius Kabi | Pulver till injektions-/infusionsvätska, lösning | Ej angiven (indragen) |
-| 65047 | Bensylpenicillin Noridem | Pulver till injektions-/infusionsvätska, lösning | Ej angiven (indragen) |
+| 63816 | Benzylpenicillin Fresenius Kabi | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
+| 17332 | Benzylpenicillin Panpharma | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
+| 65048 | Bensylpenicillin Noridem | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
+| 63819 | Benzylpenicillin Fresenius Kabi | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
+| 65047 | Bensylpenicillin Noridem | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
+
+Fler godkännanden finns i de lokala data; här visas de fem första.
 
 ---
 
 ### Säkerhetsaspekter
 
-- **Sjukdomstillstånd med kontraindikationsvarning i kunskapsgrafen** (inte hämtat från produktresumétext): njursjukdom, pyouter, Clostridium difficile-kolit, perinatal nekrotiserande enterokolit, infektiös mononukleos och kroniskt Epstein-Barr-virussyndrom.
-- **Läkemedelsinteraktioner:** 21 interaktioner identifierades. De viktigaste:
-  - **Metotrexat** – *allvarlig* (Major)
-  - **Warfarin, dikumarol** – måttlig (Moderate)
-  - **Tetracykliner** (doxycyklin, minocyklin, tetracyklin, demeklocyklin, oxitetracyklin) – måttlig
-  - **Kloramfenikol** – måttlig
-  - **Etinylestradiol** – måttlig
-  - **Mykofenolsyra** – måttlig
-  - **Pikosulfat** – måttlig
-  - **Radiojod (I-123, I-131)** – måttlig
-  - Övriga (klaritromycin, erytromycin: lindrig; salbutamol, aciklovir, gentamicin, levotyroxin: okänd nivå)
+- **Läkemedelsinteraktioner**: 21 interaktioner är registrerade. De viktigaste:
+  - **Metotrexat** – allvarlig (Major) interaktion.
+  - **Måttliga interaktioner** med bland annat tetracykliner (doxycyklin, minocyklin, tetracyklin, demeklocyklin, oxitetracyklin), kloramfenikol, warfarin, dikumarol, etinylestradiol, mykofenolsyra, pikosulfat samt radioaktivt jod (I-123, I-131).
+  - **Lindriga interaktioner** med klaritromycin och erytromycin.
 
-Varningar och kontraindikationer från produktresumén saknas i underlaget. Se produktresumén för fullständig säkerhetsinformation.
+Se produktresumén för övrig säkerhetsinformation, såsom varningar och kontraindikationer.
 
 ---
 
@@ -120,14 +110,12 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för perikoronit är biologiskt rimlig men stöds enbart av modellen (L5), utan kliniska prövningar eller publikationer. Bensylpenicillin är dessutom en injektionsprodukt med indragna godkännanden, och orala penicilliner är redan standard vid tandinfektioner.
+- Förutsägelsen för perikoronit bygger enbart på modellen (evidensnivå L5) utan stöd från kliniska prövningar eller litteratur. Benzylpenicillin är dessutom injicerbart, och perorala penicilliner är redan etablerade vid tandinfektioner.
 
 **För att gå vidare krävs:**
-- Hämta produktresumé (varningar och kontraindikationer) från Läkemedelsverket, eftersom detta är ett blockerande dataunderskott för säkerhetsgranskning.
-- Komplettera verkningsmekanismdata från DrugBank.
-- Genomföra en systematisk litteratur- och prövningssökning för perikoronit.
-- Utvärdera administrationsväg och jämföra med befintliga orala alternativ.
-- Bedöma behovet av en ny indikation givet nuvarande standardbehandling och indragen marknadsstatus.
+- Studier eller litteratur som direkt undersöker benzylpenicillin vid perikoronit.
+- Jämförelse med etablerade perorala alternativ och bedömning av administreringsväg.
+- Data om verkningsmekanism samt varningar och kontraindikationer från produktresumén.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

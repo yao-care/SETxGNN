@@ -4,17 +4,17 @@ title: Ticagrelor
 parent: Endast modellprediktion (L5)
 nav_order: 426
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Ticagrelor: predikterad ny indikation Intrakraniell arterioskleros (evidensnivå L5). Ursprunglig indikation: Akut koronarsyndrom, perifer kärlsjukdom, claudicatio intermittens…"
 monitor_inn: "ticagrelor"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
+description: "Ticagrelor: predikterad ny indikation Intracranial arteriosclerosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ticagrelor
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Tikagrelor: Från akut koronarsyndrom och perifer kärlsjukdom till intrakraniell arterioskleros
+## Ticagrelor: Intracranial arteriosclerosis
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Tikagrelor är en reversibel P2Y12-hämmare som ursprungligen användes vid akut
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Akut koronarsyndrom, perifer kärlsjukdom, claudicatio intermittens, perifer artärsjukdom (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Intrakraniell arterioskleros |
-| TxGNN-förutsägelsepoäng | 99,97 % |
-| Evidensnivå | L1 på designgrunder (fas 3-prövning pågår, resultat saknas) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Intracranial arteriosclerosis |
+| TxGNN-förutsägelsepoäng | 0.9997 |
+| Evidensnivå | L5 på designgrunder (fas 3-prövning pågår, resultat saknas) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla avregistrerade) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
@@ -125,7 +125,6 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 - Genomgång av gällande produktresumé för varningar och kontraindikationer, eftersom sådan information saknas i underlaget.
 - Hämtning av verkningsmekanismdata från DrugBank.
 - Bedömning av blödningsrisk och patienturval, särskilt hos patienter med tidigare intrakraniell blödning eller leverpåverkan.
-- Klarläggning av regulatorisk status, eftersom alla svenska godkännanden är avregistrerade.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

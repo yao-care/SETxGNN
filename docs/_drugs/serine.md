@@ -4,17 +4,17 @@ title: Serine
 parent: Endast modellprediktion (L5)
 nav_order: 394
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Serine: predikterad ny indikation Familjär visceral myopati (evidensnivå L5). Ursprunglig indikation: Öppenvinkelglaukom och lungtuberkulos (enligt kunskapsgrafen"
 monitor_inn: "serine"
 predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "myopathic intestinal pseudoobstruction", "unclassified intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection"]
+description: "Serine: predikterad ny indikation Familial visceral myopathy (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Serine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Serin: Från öppenvinkelglaukom till familjär visceral myopati
+## Serine: Familial visceral myopathy
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Serin är en aminosyra som i kunskapsgrafen anges med öppenvinkelglaukom och lungtuberkulos som ursprungliga indikationer. I Sverige ingår serin i aminosyralösningar för parenteral nutrition, och alla 20 godkännanden är avregistrerade. TxGNN-modellen förutsäger att serin kan vara effektivt mot **familjär visceral myopati**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder förutsägelsen. Den är därför enbart beräkningsbaserad.
+TxGNN-modellen förutsäger att serin kan vara effektivt mot **familjär visceral myopati**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder förutsägelsen. Den är därför enbart beräkningsbaserad.
 
 ---
 
@@ -48,11 +48,11 @@ Serin är en aminosyra som i kunskapsgrafen anges med öppenvinkelglaukom och lu
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Öppenvinkelglaukom och lungtuberkulos (enligt kunskapsgrafen; ingen indikationstext finns i de svenska godkännandena) |
-| Förutsagd ny indikation | Familjär visceral myopati |
-| TxGNN-förutsägelsepoäng | 99,99 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Familial visceral myopathy |
+| TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (samtliga avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -62,7 +62,7 @@ Serin är en aminosyra som i kunskapsgrafen anges med öppenvinkelglaukom och lu
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Serin är en aminosyra som ingår i parenterala näringslösningar, men något samband med familjär visceral myopati kan inte styrkas utifrån den data som sammanställts för denna rapport.
 
-Den höga poängen (99,99 %) är sannolikt ett resultat av närhet i kunskapsgrafen, inte av ett känt biologiskt samband. Flera av de övriga förutsägelserna ligger i samma sjukdomsgrupp (intestinal pseudoobstruktion, neuronal intestinal dysplasi) och har nästan identiska poäng. Det tyder på en gemensam grafgranne snarare än oberoende stöd.
+Flera av de övriga förutsägelserna ligger i samma sjukdomsgrupp (intestinal pseudoobstruktion, neuronal intestinal dysplasi) och har nästan identiska poäng. Det tyder på en gemensam grafgranne snarare än oberoende stöd.
 
 Eftersom mekanismdata saknas går det inte att bedöma om serin kan påverka glatt muskulatur i tarmen eller dess nervstyrning. Förutsägelsen bör därför ses som en hypotes som kräver grundläggande mekanistiskt arbete.
 
@@ -117,7 +117,7 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en modellpoäng utan kliniska prövningar, utan litteratur och utan känd verkningsmekanism (evidensnivå L5). Dessutom är alla svenska godkännanden avregistrerade, och kunskapsgrafen listar många möjliga kontraindikationer.
+- Förutsägelsen bygger enbart på en modellpoäng utan kliniska prövningar, utan litteratur och utan känd verkningsmekanism (evidensnivå L5).
 
 **För att gå vidare krävs:**
 - Verkningsmekanism för serin hämtas från DrugBank för att kunna bedöma ett möjligt samband med visceral myopati.

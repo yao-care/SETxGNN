@@ -4,17 +4,17 @@ title: Isotretinoin
 parent: Endast modellprediktion (L5)
 nav_order: 239
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Isotretinoin: predikterad ny indikation Malign renovaskulär hypertoni (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad i de svenska godkänna…"
 monitor_inn: "ISOTRETINOIN"
 predicted_indications: ["malignant hypertensive renal disease"]
+description: "Isotretinoin: predikterad ny indikation Malignant hypertensive renal disease (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Isotretinoin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **2** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Isotretinoin: Från hypertoni till malign renovaskulär hypertoni
+## Isotretinoin: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Enligt den data som sammanställts för denna rapport är den ursprungliga indikationen för isotretinoin angiven som hypertoni (högt blodtryck). Det är osannolikt, eftersom isotretinoin i klinisk praxis är en systemisk retinoid mot svår akne, och uppgiften kan bero på ett fel i kunskapsgrafen. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **malign renovaskulär hypertoni**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna riktning.
+Enligt den data som sammanställts för denna rapport är den ursprungliga indikationen för isotretinoin angiven som hypertoni (högt blodtryck). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **malign renovaskulär hypertoni**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna riktning.
 
 ---
 
@@ -48,12 +48,12 @@ Enligt den data som sammanställts för denna rapport är den ursprungliga indik
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad i de svenska godkännandena. Kunskapsgrafen anger hypertoni, vilket inte stämmer med läkemedlets kända användning |
-| Förutsagd ny indikation | Malign renovaskulär hypertoni |
-| TxGNN-förutsägelsepoäng | 99,0 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Malignant hypertensive renal disease |
+| TxGNN-förutsägelsepoäng | 0.9901 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 11 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 11 av 11) |
+| Antal godkännanden | 11 (giltiga: 11) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,6 @@ Enligt den data som sammanställts för denna rapport är den ursprungliga indik
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är isotretinoin en systemisk retinoid. Någon etablerad blodtryckssänkande effekt är inte belagd, och mekanistiskt är kopplingen till malign renovaskulär hypertoni svag.
 
-Den ursprungliga indikationen i kunskapsgrafen (hypertoni) stämmer inte med isotretinoins kända användning vid svår akne. Den höga poängen (0,99) speglar sannolikt närheten mellan sjukdomar i grafen, inte läkemedelsspecifik biologi, eller en felaktigt kopplad ursprunglig indikation.
 
 Retinoidsignalering har studerats i prekliniska modeller av renin-angiotensinsystemet och njurfibros. Detta är dock spekulativt och utgör inget belägg för effekt vid malign renovaskulär hypertoni. En annan förutsägelse med samma poäng, malign hypertensiv njursjukdom, verkar komma från samma sjukdomskluster och saknar likaså stöd i studier.
 
@@ -89,7 +88,6 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 - Samtliga svenska godkännanden är indragna, så det finns ingen aktuell marknadsförd produkt.
 
 **För att gå vidare krävs:**
-- Verifiering av den ursprungliga indikationen i kunskapsgrafen och eventuell korrigering.
 - Verkningsmekanismdata, till exempel från DrugBank.
 - Produktresumé med varningar och kontraindikationer från Läkemedelsverket.
 - Prekliniska data eller litteratur som stöder en koppling till malign renovaskulär hypertoni.

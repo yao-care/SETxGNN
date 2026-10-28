@@ -6,9 +6,9 @@ nav_order: 181
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Etonogestrel: predikterad ny indikation Amenorré (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga data"
 monitor_inn: "ETONOGESTREL"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "blunt duct adenosis of breast", "apocrine adenosis of breast", "benign mammary dysplasia"]
+description: "Etonogestrel: predikterad ny indikation Amenorré (amenorrhea (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Etonogestrel
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-## Etonogestrel: Från ej angiven indikation till amenorré
+## Etonogestrel: Amenorré (amenorrhea (disease))
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Etonogestrel är ett gestagen (progestin) som i Sverige har funnits i preventivm
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i tillgängliga data |
-| Förutsagd ny indikation | Amenorré |
-| TxGNN-förutsägelsepoäng | 99,8 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Amenorré (amenorrhea (disease)) |
+| TxGNN-förutsägelsepoäng | 0.9984 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 3 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -80,9 +80,9 @@ Modellen pekar även på godartade bröstförändringar (fibrocystisk bröstsjuk
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 14924 | Nexplanon | Implantat | Ej angiven (avregistrerad) |
-| 17179 | NuvaRing | Vaginalinlägg | Ej angiven (avregistrerad) |
-| 54511 | Ornibel | Vaginalinlägg | Ej angiven (avregistrerad) |
+| 14924 | Nexplanon | Implantat | Ej angiven (godkänd) |
+| 17179 | NuvaRing | Vaginalinlägg | Ej angiven (godkänd) |
+| 54511 | Ornibel | Vaginalinlägg | Ej angiven (godkänd) |
 
 ---
 
@@ -104,7 +104,7 @@ Varnings- och kontraindikationstext från produktresumén saknas. Se produktresu
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på modellen (evidensnivå L5). Amenorré är en känd biverkan snarare än en behandlingsbar sjukdom, och inga kliniska prövningar eller relevant litteratur finns. Dessutom är alla svenska godkännanden avregistrerade.
+- Förutsägelsen bygger enbart på modellen (evidensnivå L5). Amenorré är en känd biverkan snarare än en behandlingsbar sjukdom, och inga kliniska prövningar eller relevant litteratur finns.
 
 **För att gå vidare krävs:**
 - Att först definiera en kliniskt meningsfull indikation, till exempel kraftiga blödningar eller endometrios, där amenorré är ett behandlingsmål.

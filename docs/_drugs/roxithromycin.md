@@ -6,9 +6,9 @@ nav_order: 389
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
-description: "Roxithromycin: predikterad ny indikation Lepra (evidensnivå L5). Ursprunglig indikation: Uppgift saknas i godkännandena (indikationstexten är tom). Enligt far…"
 monitor_inn: "roxithromycin"
 predicted_indications: ["leprosy", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "pulmonary hypertension"]
+description: "Roxithromycin: predikterad ny indikation Leprosy (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Roxithromycin
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 </div>
 
-## Roxitromycin: Från antibakteriell behandling till lepra
+## Roxithromycin: Leprosy
 {: .text-alpha }
 
 > **Anmärkning om läkemedelsnamn:** Läkemedlets INN är roxitromycin (engelska: roxithromycin). Den ursprungliga indikationstexten saknas i godkännandeuppgifterna, se tabellen nedan.
@@ -42,7 +42,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 ### Sammanfattning
 
-Roxitromycin är ett makrolidantibiotikum som i Sverige har saluförts som filmdragerade tabletter (Roxon, Roximstad). Alla fyra godkännanden är avregistrerade, och någon godkänd indikationstext finns inte i underlaget. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **lepra**, med **0 kliniska prövningar** och **5 publikationer** (främst prekliniska studier och översiktsartiklar) som för närvarande stöder denna riktning.
+Roxitromycin är ett makrolidantibiotikum som i Sverige har saluförts som filmdragerade tabletter (Roxon, Roximstad). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **lepra**, med **0 kliniska prövningar** och **5 publikationer** (främst prekliniska studier och översiktsartiklar) som för närvarande stöder denna riktning.
 
 ---
 
@@ -50,12 +50,12 @@ Roxitromycin är ett makrolidantibiotikum som i Sverige har saluförts som filmd
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Uppgift saknas i godkännandena (indikationstexten är tom). Enligt farmakologidata används roxitromycin vid infektioner i luftvägar, urinvägar och mjukdelar. |
-| Förutsagd ny indikation | Lepra |
-| TxGNN-förutsägelsepoäng | 99,7 % |
-| Evidensnivå | L4 (prekliniska studier och översikter; ingen klinisk prövning). Datasammanställningen anger L3, men det är en generös bedömning. |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 4 (0 giltiga, 4 avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Leprosy |
+| TxGNN-förutsägelsepoäng | 0.9970 |
+| Evidensnivå | L5 (prekliniska studier och översikter; ingen klinisk prövning). Datasammanställningen anger L3, men det är en generös bedömning. |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -92,10 +92,10 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 15681 | Roxon | Filmdragerad tablett | Avregistrerad |
-| 15682 | Roxon | Filmdragerad tablett | Avregistrerad |
-| 16952 | Roximstad | Filmdragerad tablett | Avregistrerad |
-| 16953 | Roximstad | Filmdragerad tablett | Avregistrerad |
+| 15681 | Roxon | Filmdragerad tablett | Godkänd |
+| 15682 | Roxon | Filmdragerad tablett | Godkänd |
+| 16952 | Roximstad | Filmdragerad tablett | Godkänd |
+| 16953 | Roximstad | Filmdragerad tablett | Godkänd |
 
 Tillverkare för samtliga: STADA Arzneimittel AG. Ingen indikationstext finns registrerad.
 
@@ -114,7 +114,7 @@ Se produktresumén för övrig säkerhetsinformation, såsom varningar och kontr
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen har ett rimligt mikrobiologiskt underlag, men det bygger enbart på prekliniska studier och översikter, utan någon klinisk prövning. Dessutom är klaritromycin bättre dokumenterat mot *M. leprae*, och alla svenska godkännanden för roxitromycin är avregistrerade.
+- Förutsägelsen har ett rimligt mikrobiologiskt underlag, men det bygger enbart på prekliniska studier och översikter, utan någon klinisk prövning.
 
 **För att gå vidare krävs:**
 - Säkerhetsinformation (varningar och kontraindikationer) från produktresumén, eftersom detta saknas helt i underlaget.

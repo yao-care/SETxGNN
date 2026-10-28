@@ -4,17 +4,17 @@ title: Nabumetone
 parent: Endast modellprediktion (L5)
 nav_order: 308
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Nabumetone: predikterad ny indikation Akromesomelisk dysplasi, Hunter-Thompson-typ (evidensnivå L5). Ursprunglig indikation: Reumatoid artrit, artros, ledsjukdom (artropati)"
 monitor_inn: "nabumetone"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "WHIM syndrome", "rheumatoid nodulosis"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis"]
+description: "Nabumetone: predikterad ny indikation Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala u…"
 ---
 
 # Nabumetone
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Nabumeton: Från artrit och artros till akromesomelisk dysplasi, Hunter-Thompson-typ
+## Nabumetone: Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Nabumeton är ett antiinflammatoriskt och smärtlindrande läkemedel (NSAID) som
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Reumatoid artrit, artros, ledsjukdom (artropati) |
-| Förutsagd ny indikation | Akromesomelisk dysplasi, Hunter-Thompson-typ |
-| TxGNN-förutsägelsepoäng | 99,99 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type) |
+| TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Nabumeton är ett antiinflammatoriskt och smärtlindrande läkemedel (NSAID) som
 
 Det är tveksamt om den är rimlig. Nabumeton är en prodrug till 6-MNA, en företrädesvis COX-2-hämmande substans med antiinflammatorisk och smärtlindrande effekt. Någon detaljerad uppgift om verkningsmekanismen finns inte i de data som sammanställts för denna rapport, så den mekanistiska bedömningen är begränsad.
 
-Akromesomelisk dysplasi av Hunter-Thompson-typ är en skelettsjukdom som orsakas av förlust av funktion i generna *CDMP1/GDF5*, vilket påverkar broskbildningen. COX-hämning kan inte förväntas korrigera en sådan genetisk defekt. Det höga poängvärdet speglar sannolikt att sjukdomen ligger nära skelett- och ledfenotyper i kunskapsgrafen, snarare än ett verkligt farmakologiskt samband.
+Akromesomelisk dysplasi av Hunter-Thompson-typ är en skelettsjukdom som orsakas av förlust av funktion i generna *CDMP1/GDF5*, vilket påverkar broskbildningen. COX-hämning kan inte förväntas korrigera en sådan genetisk defekt.
 
 Om nabumeton skulle ha någon nytta är det i så fall som symtomlindring vid ledsmärta, inte som behandling av själva sjukdomen.
 

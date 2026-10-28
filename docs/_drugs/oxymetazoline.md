@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Oxymetazoline
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 333
-evidence_level: L5
-indication_count: 3
+evidence_level: L4
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Oxymetazoline: predikterad ny indikation Sjukdomar i näshålan (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Faryngit och vanlig förkylning"
 monitor_inn: "oxymetazoline"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "headache disorder"]
+predicted_indications: ["nasal cavity disease", "headache disorder"]
+description: "Oxymetazoline: predikterad ny indikation Sjukdomar i näshålan (nasal cavity disease) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Oxymetazoline
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **3** st
+Evidensnivå: **L4** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Oximetazolin: Från faryngit och förkylning till sjukdomar i näshålan
+## Oxymetazoline: Sjukdomar i näshålan (nasal cavity disease)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Oximetazolin är ett avsvällande läkemedel som ges lokalt i näsan och som urs
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Faryngit och vanlig förkylning (enligt TxGNN-kunskapsgrafen; godkännandetexterna i det svenska registret saknar indikationstext) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsägd ny indikation | Sjukdomar i näshålan (nasal cavity disease) |
-| TxGNN-förutsägelsepoäng | 99,96 % |
+| TxGNN-förutsägelsepoäng | 0.9996 |
 | Evidensnivå | L4 (prekliniska studier och mekanismstudier) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 14 (samtliga avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 14 av 14) |
+| Antal godkännanden | 14 (giltiga: 14) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -117,7 +117,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varnings- o
 
 **Motivering:**
 - Förutsägelsen bygger i princip bara på modellen, utan registrerade kliniska prövningar. Den enda läkemedelsspecifika evidensen är en kaninstudie, och den höga poängen speglar främst närheten till den ursprungliga förkylningsindikationen.
-- Alla svenska godkännanden är avregistrerade, och viktig säkerhets- och mekanismdata saknas.
+- Alla 14 svenska godkännanden är giltiga, och viktig säkerhets- och mekanismdata saknas.
 
 **För att gå vidare krävs:**
 - Hämta varnings- och kontraindikationstexter från produktresumén i Läkemedelsverkets register, eftersom säkerhetsunderlaget är ofullständigt.
@@ -127,8 +127,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varnings- o
 - Genomföra eller identifiera kontrollerade kliniska studier och klargöra den regulatoriska statusen, eftersom inget godkännande är giltigt.
 
 **Övriga förutsägelser som bedömts (ingen rekommenderas för närvarande):**
-- **Akut laryngofaryngit** (poäng 99,95 %): Evidensnivå L5, ingen litteratur eller prövning. Oximetazolin appliceras inte på svalg eller struphuvud, och poängen speglar sannolikt överlappet med faryngit. Beslut: Avvakta.
-- **Huvudvärkssjukdom** (poäng 99,04 %): Evidensnivå L3. En studie från 2020 (PMID [31919839](https://pubmed.ncbi.nlm.nih.gov/31919839/)) undersökte intranasal tetrakain 3 % plus oximetazolin 0,05 % vid status migrainosus. Effekten kan inte tillskrivas oximetazolin ensamt, eftersom det gavs i kombination med ett lokalbedövningsmedel. Detta är den mest intressanta nya riktningen men kräver kontrollerade studier.
+- **Huvudvärkssjukdom** (poäng 0,9904): Evidensnivå L3. En studie från 2020 (PMID [31919839](https://pubmed.ncbi.nlm.nih.gov/31919839/)) undersökte intranasal tetrakain 3 % plus oximetazolin 0,05 % vid status migrainosus. Effekten kan inte tillskrivas oximetazolin ensamt, eftersom det gavs i kombination med ett lokalbedövningsmedel. Detta är den mest intressanta nya riktningen men kräver kontrollerade studier.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

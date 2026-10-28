@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Moclobemide
-parent: Endast modellprediktion (L5)
+parent: Hög evidens (L1-L2)
 nav_order: 302
-evidence_level: L5
+evidence_level: L2
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Moclobemide: predikterad ny indikation Agorafobi (evidensnivå L5). Ursprunglig indikation: Ångestsyndrom, neurotiska tillstånd och dystymi (enligt kunskapsgrafen"
 monitor_inn: "moclobemide"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
+description: "Moclobemide: predikterad ny indikation Agoraphobia (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Moclobemide
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **2** st
+Evidensnivå: **L2** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Moclobemid: Från ångestsyndrom till agorafobi
+## Moclobemide: Agoraphobia
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Moclobemid (varumärket Aurorix) är en reversibel hämmare av monoaminoxidas A 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ångestsyndrom, neurotiska tillstånd och dystymi (enligt kunskapsgrafen; godkänd indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Agorafobi |
-| TxGNN-förutsägelsepoäng | 99,4 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Agoraphobia |
+| TxGNN-förutsägelsepoäng | 0.9943 |
 | Evidensnivå | L2 (inga registrerade fas 3-prövningar; stöd av randomiserade studier i litteraturen vid panikångest med agorafobi) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 3 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-10-15
 monitor_inn: "TADALAFIL"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
-description: "Tadalafil: predikterad ny indikation Ambras typ av hypertrichosis universalis congenita (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad. Enligt kunskapsgrafe"
+description: "Tadalafil: predikterad ny indikation Ambras typ av hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de …"
 ---
 
 # Tadalafil
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 </div>
 
-## Tadalafil: Från erektil dysfunktion och pulmonell hypertoni till Ambras typ av hypertrichosis universalis congenita
+## Tadalafil: Ambras typ av hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita)
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Tadalafil är en PDE5-hämmare som ursprungligen används vid erektil dysfunktio
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad. Enligt kunskapsgrafen: godartad prostataförstoring, pulmonell hypertoni, erektil dysfunktion, psykologiskt betingad dyspareuni, för tidig utlösning |
-| Förutsagd ny indikation | Ambras typ av hypertrichosis universalis congenita |
-| TxGNN-förutsägelsepoäng | 99,98 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Ambras typ av hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) |
+| TxGNN-förutsägelsepoäng | 0.9998 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (samtliga indragna) |
 | Rekommenderat beslut | Avvakta |
 
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Sambandet mellan de ursprungliga indikationerna och den förutsagda är svagt. Ambras syndrom är en sällsynt medfödd sjukdom med kraftig hårväxt, kopplad till kromosomomlagringar vid 8q22 som påverkar regleringen av TRPS1. Det finns ingen känd koppling mellan PDE5-hämning och denna genetiska grund.
 
-Den höga poängen speglar sannolikt grafbaserade samband i kunskapsgrafen, till exempel närhet till andra hårväxtrelaterade tillstånd. Den utgör inte ett mekanistiskt stöd. Man bör också notera att andra kärlvidgande läkemedel, som minoxidil, kan orsaka ökad hårväxt, men effektens riktning är oklar och kan vara den motsatta mot en terapeutisk effekt.
+Den utgör inte ett mekanistiskt stöd. Man bör också notera att andra kärlvidgande läkemedel, som minoxidil, kan orsaka ökad hårväxt, men effektens riktning är oklar och kan vara den motsatta mot en terapeutisk effekt.
 
 ---
 
@@ -72,13 +72,13 @@ Den höga poängen speglar sannolikt grafbaserade samband i kunskapsgrafen, till
 
 | Rang | Förutsagd indikation | TxGNN-poäng | Evidensnivå | Kommentar |
 |------|------|------|------|------|
-| 2 | Hypertrichosis | 99,98 % | L5 | Ingen etablerad roll för PDE5-hämning i hårväxtreglering |
-| 3 | Missbildningssyndrom med tand- och/eller tandlossningskomponent | 99,97 % | L5 | Ingen trolig mekanism |
-| 4 | Syndrom med Dandy-Walker-missbildning | 99,97 % | L5 | Strukturell utvecklingsrubbning, ingen trolig mekanism |
-| 5 | Isolerad genetisk hårstråavvikelse | 99,96 % | L5 | Ingen känd koppling |
-| 6 | Familjär isolerad trikomegali | 99,65 % | L5 | Ingen mekanistisk grund |
-| 7 | Kyfoskoliotisk hjärtsjukdom | 99,43 % | L5 | Svag och indirekt koppling via pulmonell kärlvidgning, den biologiskt mest rimliga av förutsägelserna men spekulativ |
-| 8 | Migrän med hjärnstamsaura | 99,08 % | L4 | Endast en fallrapport där tadalafil snarare utlöste aura |
+| 2 | Hypertrichosis | 0,9998 | L5 | Ingen etablerad roll för PDE5-hämning i hårväxtreglering |
+| 3 | Missbildningssyndrom med tand- och/eller tandlossningskomponent | 0,9997 | L5 | Ingen trolig mekanism |
+| 4 | Syndrom med Dandy-Walker-missbildning | 0,9997 | L5 | Strukturell utvecklingsrubbning, ingen trolig mekanism |
+| 5 | Isolerad genetisk hårstråavvikelse | 0,9996 | L5 | Ingen känd koppling |
+| 6 | Familjär isolerad trikomegali | 0,9965 | L5 | Ingen mekanistisk grund |
+| 7 | Kyfoskoliotisk hjärtsjukdom | 0,9943 | L5 | Svag och indirekt koppling via pulmonell kärlvidgning, den biologiskt mest rimliga av förutsägelserna men spekulativ |
+| 8 | Migrän med hjärnstamsaura | 0,9908 | L5 | Endast en fallrapport där tadalafil snarare utlöste aura |
 
 ---
 
@@ -102,7 +102,7 @@ För den åttonde förutsägelsen (migrän med hjärnstamsaura) finns en enda fa
 
 ### Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är indragna och inga har giltig marknadsföring. Indikationstext saknas i underlaget. Nedan visas fem av godkännandena (alla filmdragerade tabletter):
+Indikationstext saknas i underlaget. Nedan visas fem av godkännandena (alla filmdragerade tabletter):
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|------|------|
@@ -141,7 +141,6 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 - Hämta och bearbeta produktresumén för varningar och kontraindikationer, vilket krävs för säkerhetsgranskningen.
 - Genomför prekliniska studier (cellmodeller eller djurmodeller) innan någon klinisk prövning övervägs.
 - Överväg att i första hand utvärdera den biologiskt mer rimliga förutsägelsen kyfoskoliotisk hjärtsjukdom, via pulmonell hypertoni, medan migränsignalen bör beaktas som säkerhetsrisk.
-- Klarifiera regulatorisk status, eftersom inga giltiga godkännanden finns i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

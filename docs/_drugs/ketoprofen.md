@@ -4,17 +4,17 @@ title: Ketoprofen
 parent: Endast modellprediktion (L5)
 nav_order: 245
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Ketoprofen: predikterad ny indikation Akromesomel dysplasi, Hunter-Thompson-typ (evidensnivå L5). Ursprunglig indikation: Reumatoid artrit, artros (från kunskapsgrafen"
 monitor_inn: "KETOPROFEN"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
+description: "Ketoprofen: predikterad ny indikation Acromesomelic dysplasia, Hunter-Thompson type (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ketoprofen
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Ketoprofen: Från reumatoid artrit och artros till akromesomel dysplasi, Hunter-Thompson-typ
+## Ketoprofen: Acromesomelic dysplasia, Hunter-Thompson type
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Ketoprofen är ett icke-steroidalt antiinflammatoriskt läkemedel (NSAID) som ursprungligen användes vid ledsjukdomar som reumatoid artrit och artros. TxGNN-modellen förutsäger att det kan vara effektivt mot **akromesomel dysplasi, Hunter-Thompson-typ**, med mycket hög modellpoäng (99,98 %). Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, och ingen biologisk mekanism har kunnat identifieras.
+Ketoprofen är ett icke-steroidalt antiinflammatoriskt läkemedel (NSAID) som ursprungligen användes vid ledsjukdomar som reumatoid artrit och artros. TxGNN-modellen förutsäger att det kan vara effektivt mot **akromesomel dysplasi, Hunter-Thompson-typ**, med mycket hög modellpoäng (0,9998). Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, och ingen biologisk mekanism har kunnat identifieras.
 
 ---
 
@@ -48,12 +48,12 @@ Ketoprofen är ett icke-steroidalt antiinflammatoriskt läkemedel (NSAID) som ur
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Reumatoid artrit, artros (från kunskapsgrafen; godkänd indikationstext saknas för det svenska godkännandet) |
-| Förutsagd ny indikation | Akromesomel dysplasi, Hunter-Thompson-typ |
-| TxGNN-förutsägelsepoäng | 99,98 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Acromesomelic dysplasia, Hunter-Thompson type |
+| TxGNN-förutsägelsepoäng | 0.9998 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Ketoprofen är ett icke-steroidalt antiinflammatoriskt läkemedel (NSAID) som ur
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för denna rapport. Ketoprofen är dock väl känt som en icke-selektiv hämmare av cyklooxygenas (COX) som minskar bildningen av prostaglandiner och därmed inflammation och smärta.
 
-Sjukdomen akromesomel dysplasi, Hunter-Thompson-typ, är en sällsynt skelettdysplasi som orsakas av funktionsbortfall i generna CDMP1/GDF5, vilket påverkar broskbildningen. Ketoprofen har ingen känd effekt på GDF5/BMP-signalvägen. Den höga poängen speglar sannolikt närhet i kunskapsgrafen (överlappande skelett- och ledfenotyper med artropati) snarare än en mekanistisk grund. Som mest skulle ketoprofen kunna lindra smärta, men inte påverka sjukdomsförloppet.
+Sjukdomen akromesomel dysplasi, Hunter-Thompson-typ, är en sällsynt skelettdysplasi som orsakas av funktionsbortfall i generna CDMP1/GDF5, vilket påverkar broskbildningen. Ketoprofen har ingen känd effekt på GDF5/BMP-signalvägen. Som mest skulle ketoprofen kunna lindra smärta, men inte påverka sjukdomsförloppet.
 
 ---
 

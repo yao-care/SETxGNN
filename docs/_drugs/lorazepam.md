@@ -4,17 +4,17 @@ title: Lorazepam
 parent: Endast modellprediktion (L5)
 nav_order: 270
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Lorazepam: predikterad ny indikation Trigeminusnervsneoplasm (trigeminal nerve neoplasm) (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad i svenska godkännand…"
 monitor_inn: "LORAZEPAM"
 predicted_indications: ["trigeminal nerve neoplasm"]
+description: "Lorazepam: predikterad ny indikation Trigeminusnervsneoplasm (trigeminal nerve neoplasm) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Lorazepam
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Lorazepam: Från ångest och epilepsi till trigeminusnervsneoplasm
+## Lorazepam: Trigeminusnervsneoplasm (trigeminal nerve neoplasm)
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Lorazepam är en bensodiazepin som ursprungligen användes vid ångestsyndrom och epileptiska tillstånd, bland annat status epilepticus, Lennox-Gastauts syndrom och absensepilepsi. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **trigeminusnervsneoplasm** (poäng 99,9 %), men för just denna indikation finns **inga kliniska prövningar och ingen publicerad litteratur**. Förutsägelsen bygger enbart på modellens grafnärhet och bör ses som en hypotes, inte som evidens.
+Lorazepam är en bensodiazepin som ursprungligen användes vid ångestsyndrom och epileptiska tillstånd, bland annat status epilepticus, Lennox-Gastauts syndrom och absensepilepsi. TxGNN-modellen (deep learning) förutsäger att läkemedlet kan vara effektivt mot **trigeminusnervsneoplasm** (poäng 0.9987), men för just denna indikation finns **inga kliniska prövningar och ingen publicerad litteratur**. Poängen kommer från TxGNN-modellen och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens, och bör ses som en hypotes, inte som evidens.
 
 ---
 
@@ -48,12 +48,12 @@ Lorazepam är en bensodiazepin som ursprungligen användes vid ångestsyndrom oc
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad i svenska godkännanden. Enligt kunskapsgrafen: ångestsyndrom, status epilepticus, Lennox-Gastauts syndrom, absensepilepsi |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Trigeminusnervsneoplasm (trigeminal nerve neoplasm) |
-| TxGNN-förutsägelsepoäng | 99,87 % |
+| TxGNN-förutsägelsepoäng | 0.9987 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 7 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
+| Antal godkännanden | 7 (giltiga: 7) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Lorazepam är en bensodiazepin som ursprungligen användes vid ångestsyndrom oc
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för denna rapport. Baserat på känd information är lorazepam en bensodiazepin som förstärker den hämmande signaleringen via GABA-A-receptorer. Effekten är väl belagd vid ångest och krampanfall.
 
-Något rimligt mekanistiskt samband mellan GABA-A-modulering och kontroll av tumörtillväxt i trigeminusnerven har inte identifierats. Eventuell nytta skulle begränsas till symtomlindring, till exempel vid ångest, kramper eller sedering i samband med ingrepp, och inte till att påverka själva sjukdomen. Den höga poängen är sannolikt en artefakt av hur nära läkemedlet och sjukdomen ligger varandra i modellens kunskapsgraf.
+Något rimligt mekanistiskt samband mellan GABA-A-modulering och kontroll av tumörtillväxt i trigeminusnerven har inte identifierats. Eventuell nytta skulle begränsas till symtomlindring, till exempel vid ångest, kramper eller sedering i samband med ingrepp, och inte till att påverka själva sjukdomen. Den höga poängen kommer från TxGNN-modellen (deep learning) och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens.
 
 ---
 

@@ -6,9 +6,9 @@ nav_order: 143
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Diphenhydramine: predikterad ny indikation Rosaceakonjunktivit (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i godkännandet. Kunskapsgrafe…"
 monitor_inn: "diphenhydramine"
 predicted_indications: ["rosacea conjunctivitis"]
+description: "Diphenhydramine: predikterad ny indikation Rosacea conjunctivitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Diphenhydramine
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Difenhydramin: Från allergisk rinit och relaterade tillstånd till rosaceakonjunktivit
+## Diphenhydramine: Rosacea conjunctivitis
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Difenhydramin är ett första generationens antihistamin som enligt kunskapsgrafen ursprungligen används vid sömnlöshet, vasomotorisk och allergisk rinit samt flera former av konjunktivit (atopisk, papillär och vernal). TxGNN-modellen förutsäger att det kan vara effektivt mot **rosaceakonjunktivit**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder förutsägelsen. Evidensen består därmed enbart av en modellförutsägelse.
+TxGNN-modellen förutsäger att det kan vara effektivt mot **rosaceakonjunktivit**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder förutsägelsen. Evidensen består därmed enbart av en modellförutsägelse.
 
 ---
 
@@ -48,12 +48,12 @@ Difenhydramin är ett första generationens antihistamin som enligt kunskapsgraf
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns registrerad i godkännandet. Kunskapsgrafen anger sömnlöshet, vasomotorisk rinit, allergisk rinit och olika former av konjunktivit |
-| Förutsagd ny indikation | Rosaceakonjunktivit |
-| TxGNN-förutsägelsepoäng | 99,2 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Rosacea conjunctivitis |
+| TxGNN-förutsägelsepoäng | 0.9920 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---

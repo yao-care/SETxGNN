@@ -6,9 +6,9 @@ nav_order: 157
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Ebastine: predikterad ny indikation Kranskärlssjukdom (coronary artery disease) (evidensnivå L5). Ursprunglig indikation: Allergisk rinit, vasomotorisk rinit…"
 monitor_inn: "ebastine"
 predicted_indications: ["coronary artery disease", "myocardial ischemia"]
+description: "Ebastine: predikterad ny indikation Kranskärlssjukdom (coronary artery disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ebastine
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Ebastin: Från allergisk rinit till kranskärlssjukdom
+## Ebastine: Kranskärlssjukdom (coronary artery disease)
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Ebastin är en andra generationens antihistamin (H1-blockerare) som ursprunglige
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Allergisk rinit, vasomotorisk rinit, idiopatisk urtikaria (enligt TxGNN:s kunskapsgraf; indikationstext saknas i svenska godkännanden) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Kranskärlssjukdom (coronary artery disease) |
-| TxGNN-förutsägelsepoäng | 99,2 % |
+| TxGNN-förutsägelsepoäng | 0.9918 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Base
 
 Det hypotetiska sambandet går via histamin. Histamin och mastceller har diskuterats i samband med åderförkalkning och kranskärlsspasm. H1-blockad skulle därför teoretiskt kunna dämpa histaminmedierad kärlsammandragning och inflammation. Detta är spekulativt och stöds inte av data som sammanställts för denna rapport.
 
-Den näst högst rankade förutsägelsen, **myokardischemi** (poäng 99,1 %), överlappar kraftigt med kranskärlssjukdom. De två förutsägelserna är sannolikt inte oberoende av varandra. Den ursprungliga och den nya indikationen har dessutom ingen uppenbar likhet, och graden av likhet är ännu inte bedömd.
+Den näst högst rankade förutsägelsen, **myokardischemi** (poäng 0,9910), överlappar kraftigt med kranskärlssjukdom. De två förutsägelserna är sannolikt inte oberoende av varandra. Den ursprungliga och den nya indikationen har dessutom ingen uppenbar likhet, och graden av likhet är ännu inte bedömd.
 
 ---
 
@@ -86,11 +86,11 @@ Samtliga 20 godkännanden är avregistrerade och inget är giltigt idag. Indikat
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 43724 | Ebastine Teva | Munsönderfallande tablett | Avregistrerat |
-| 56838 | Ebastin Ebb | Filmdragerad tablett | Avregistrerat |
-| 65892 | Kestine | Filmdragerad tablett | Avregistrerat |
-| 48993 | Ebastine Viatris | Munsönderfallande tablett | Avregistrerat |
-| 20130 | Kestine | Frystorkad tablett | Avregistrerat |
+| 43724 | Ebastine Teva | Munsönderfallande tablett | Godkänt |
+| 56838 | Ebastin Ebb | Filmdragerad tablett | Godkänt |
+| 65892 | Kestine | Filmdragerad tablett | Godkänt |
+| 48993 | Ebastine Viatris | Munsönderfallande tablett | Godkänt |
+| 20130 | Kestine | Frystorkad tablett | Godkänt |
 
 ---
 
@@ -114,7 +114,7 @@ Observera att inga varningar eller kontraindikationer från läkemedelsinformati
 - Hämta varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA), vilket är ett blockerande dataglapp inför säkerhetsgranskning.
 - Utvärdera kardiell säkerhet, särskilt risk för QT-förlängning, innan någon kardiovaskulär användning övervägs.
 - Genomföra litteratur- och prövningssökning samt prekliniska studier av histamin- och mastcellsmekanismer vid kranskärlssjukdom.
-- Bedöma vägen till marknaden, eftersom alla svenska godkännanden är avregistrerade.
+- Bedöma vägen till marknaden, eftersom det finns 20 giltiga godkännanden på den svenska marknaden och läkemedlet är marknadsfört.
 - Bedöma om förutsägelserna för kranskärlssjukdom och myokardischemi ska hanteras som ett gemensamt spår.
 ## Ansvarsfriskrivning
 

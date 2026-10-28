@@ -4,17 +4,17 @@ title: Famotidine
 parent: Endast modellprediktion (L5)
 nav_order: 188
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Famotidine: predikterad ny indikation Peptisk sårsjukdom (evidensnivå L5). Ursprunglig indikation: Magsår, duodenalsår, GERD, esofagit, dyspepsi…"
 monitor_inn: "famotidine"
-predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "gastroduodenitis", "multiple endocrine neoplasia", "acne (disease)"]
+predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
+description: "Famotidine: predikterad ny indikation Duodenal obstruction (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Famotidine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Famotidin: Från magsår och reflux till magsår (peptiskt sårsjukdom)
+## Famotidine: Duodenal obstruction
 {: .text-alpha }
 
 ---
@@ -42,7 +42,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 Famotidin är en histamin H2-receptorblockerare som ursprungligen användes mot magsår, duodenalsår, gastroesofageal refluxsjukdom (GERD), esofagit och Zollinger-Ellisons syndrom. TxGNN-modellen förutsäger bland annat **duodenogastrisk reflux** som högst rankad ny indikation, men den bäst underbyggda förutsägelsen är **peptisk sårsjukdom** (rang 8), med **7 kliniska prövningar** och **20 publikationer**. Observera att peptisk sårsjukdom i stor utsträckning överlappar med läkemedlets befintliga indikationer, så detta är snarare en bekräftelse än en verklig nyanvändning.
 
-> **Om valet av indikation:** Förutsägelsen med högst poäng (duodenogastrisk reflux, 99,99 %) har bara två små studier och evidensnivå L4. Rapporten fokuserar därför på peptisk sårsjukdom, som har den starkaste evidensen (L1) av de tio förutsägelserna. Övriga förutsägelser sammanfattas nedan.
+> **Om valet av indikation:** Förutsägelsen med högst poäng (duodenogastrisk reflux, 0,9999) har bara två små studier och evidensnivå L4. Rapporten fokuserar därför på peptisk sårsjukdom, som har den starkaste evidensen (L1) av de tio förutsägelserna. Övriga förutsägelser sammanfattas nedan.
 
 ---
 
@@ -50,12 +50,12 @@ Famotidin är en histamin H2-receptorblockerare som ursprungligen användes mot 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Magsår, duodenalsår, GERD, esofagit, dyspepsi, Zollinger-Ellisons syndrom (godkänd indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Peptisk sårsjukdom |
-| TxGNN-förutsägelsepoäng | 99,7 % |
-| Evidensnivå | L1 (enligt datasammanställningen; se kommentar nedan) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Duodenal obstruction |
+| TxGNN-förutsägelsepoäng | 0.9999 |
+| Evidensnivå | L5 (enligt datasammanställningen; se kommentar nedan) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 > **Kommentar om evidensnivån:** Datasammanställningen anger L1, men ingen av de listade prövningarna är en avslutad fas 3-RCT på peptiskt sår med famotidin som testläkemedel. Den enda fas 3-prövningen (NCT00229424) gäller refluxesofagit och prövar lafutidin. De övriga är fas 4 eller ej fasindelade. En försiktig bedömning ligger därför närmare L2–L3.
@@ -128,15 +128,11 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 
 | Förutsagd indikation | Poäng | Evidensnivå | Bedömning |
 |------|------|------|------|
-| Duodenogastrisk reflux | 99,99 % | L4 | Två små kliniska studier; indirekt koppling, eftersom famotidin inte påverkar gallreflux direkt |
-| Duodenal obstruktion | 99,99 % | L5 | Ingen tydlig mekanistisk koppling; endast kirurgiska fallrapporter |
-| Aktiv peptisk sårsjukdom | 99,98 % | L4 | Praktiskt taget samma som godkända sårindikationer |
-| Gastrojejunalt sår | 99,98 % | L3 | En liten fas 4-RCT där famotidin är jämförelsearm |
-| Perforerat magsår | 99,98 % | L4 | Evidensen gäller förebyggande, inte behandling; kirurgiskt akuttillstånd |
-| Onormal glukagonsekretion | 99,91 % | L5 | Ingen litteratur eller prövningar |
-| Gastroduodenit | 99,80 % | L3 | Små, äldre studier av låg kvalitet |
-| Multipel endokrin neoplasi | 99,69 % | L4 | Indirekt; endast en översikt från 1986 om Zollinger-Ellison |
-| Akne | 99,55 % | L5 | Ingen evidens eller känd mekanism |
+| Duodenogastrisk reflux | 0,9999 | L5 | Två små kliniska studier; indirekt koppling, eftersom famotidin inte påverkar gallreflux direkt |
+| Duodenal obstruktion | 0,9999 | L5 | Ingen tydlig mekanistisk koppling; endast kirurgiska fallrapporter |
+| Onormal glukagonsekretion | 0,9991 | L5 | Ingen litteratur eller prövningar |
+| Multipel endokrin neoplasi | 0,9969 | L5 | Indirekt; endast en översikt från 1986 om Zollinger-Ellison |
+| Akne | 0,9955 | L5 | Ingen evidens eller känd mekanism |
 
 ---
 

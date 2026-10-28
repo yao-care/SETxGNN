@@ -4,17 +4,17 @@ title: Eplerenone
 parent: Endast modellprediktion (L5)
 nav_order: 170
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Eplerenone: predikterad ny indikation Pulmonell hypertoni orsakad av lungsjukdom och/eller hypoxi (evidensnivå L5). Ursprunglig indikation: Hypertoni (enligt kunskapsgrafen"
 monitor_inn: "eplerenone"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome"]
+description: "Eplerenone: predikterad ny indikation Pulmonary hypertension owing to lung disease and/or hypoxia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Eplerenone
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **5** st
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-## Eplerenon: Från hypertoni till pulmonell hypertoni orsakad av lungsjukdom och/eller hypoxi
+## Eplerenone: Pulmonary hypertension owing to lung disease and/or hypoxia
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Eplerenon är en selektiv mineralokortikoidreceptorantagonist som ursprungligen 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Hypertoni (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Pulmonell hypertoni orsakad av lungsjukdom och/eller hypoxi |
-| TxGNN-förutsägelsepoäng | 99,5 % |
-| Evidensnivå | L4 (prekliniska studier och mekanismstudier) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 18 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Pulmonary hypertension owing to lung disease and/or hypoxia |
+| TxGNN-förutsägelsepoäng | 0.9950 |
+| Evidensnivå | L5 (prekliniska studier och mekanismstudier) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 18 av 18) |
+| Antal godkännanden | 18 (giltiga: 18) |
 | Rekommenderat beslut | Avvakta |
 
 ---

@@ -6,9 +6,9 @@ nav_order: 293
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Midazolam: predikterad ny indikation Sömnlöshet (insomni) (evidensnivå L3). Ursprunglig indikation: Ångest (enligt kunskapsgrafen"
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
+description: "Midazolam: predikterad ny indikation Sömnlöshet (insomnia (disease)) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Midazolam
@@ -33,14 +33,14 @@ Evidensnivå: **L3** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Midazolam: Från ångest till sömnlöshet
+## Midazolam: Sömnlöshet (insomnia (disease))
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Midazolam är en kortverkande bensodiazepin som i data från kunskapsgrafen anges ha använts mot **ångest**. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **sömnlöshet (insomni)**, med **2 kliniska prövningar** och **10 publikationer** som för närvarande hör till denna riktning. Av dessa är endast ett fåtal direkt relevanta: framför allt äldre studier på oralt midazolam vid sömnstörningar. Samtliga 17 svenska godkännanden är avregistrerade.
+TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **sömnlöshet (insomni)**, med **2 kliniska prövningar** och **10 publikationer** som för närvarande hör till denna riktning. Av dessa är endast ett fåtal direkt relevanta: framför allt äldre studier på oralt midazolam vid sömnstörningar. Samtliga 17 svenska godkännanden är avregistrerade.
 
 ---
 
@@ -48,12 +48,12 @@ Midazolam är en kortverkande bensodiazepin som i data från kunskapsgrafen ange
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ångest (enligt kunskapsgrafen; godkända indikationstexter saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Sömnlöshet (insomni) |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Sömnlöshet (insomnia (disease)) |
+| TxGNN-förutsägelsepoäng | 0.9974 |
 | Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 17 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 17 av 17) |
+| Antal godkännanden | 17 (giltiga: 17) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -94,7 +94,7 @@ Den höga modellpoängen (0,997) är en beräkningsmässig förutsägelse och ut
 
 ## Marknadsinformation Sverige
 
-Alla 17 godkännanden är avregistrerade. Indikationstexter saknas. Nedan visas de fem första.
+Indikationstexter saknas. Nedan visas de fem första.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

@@ -4,17 +4,17 @@ title: Pemetrexed
 parent: Endast modellprediktion (L5)
 nav_order: 341
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Pemetrexed: predikterad ny indikation Malignt peritonealt mesoteliom (evidensnivå L5). Ursprunglig indikation: Icke-småcellig lungcancer, lungcancer…"
 monitor_inn: "pemetrexed"
-predicted_indications: ["pleural adenomatoid tumor", "pleural biphasic mesothelioma", "pericardium cancer", "well differentiated papillary mesothelioma", "lymphohistiocytoid mesothelioma", "iminoglycinuria"]
+predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
+description: "Pemetrexed: predikterad ny indikation Pleural adenomatoid tumor (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Pemetrexed
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Pemetrexed: Från icke-småcellig lungcancer och malign pleuramesoteliom till malignt peritonealt mesoteliom
+## Pemetrexed: Pleural adenomatoid tumor
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Pemetrexed är ett antifolat (cytostatika) som ursprungligen används mot icke-s
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Icke-småcellig lungcancer, lungcancer, malignt pleuramesoteliom (godkänd indikationstext saknas i de svenska godkännandena; uppgiften kommer från kunskapsgrafen) |
-| Förutsagd ny indikation | Malignt peritonealt mesoteliom |
-| TxGNN-förutsägelsepoäng | 99,99 % |
-| Evidensnivå | L2 (inga avslutade fas 3-studier specifikt för peritonealt mesoteliom; randomiserade och avslutade fas 2-studier samt retrospektiva serier finns) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 4 (alla avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Pleural adenomatoid tumor |
+| TxGNN-förutsägelsepoäng | 0.9999 |
+| Evidensnivå | L5 (inga avslutade fas 3-studier specifikt för peritonealt mesoteliom; randomiserade och avslutade fas 2-studier samt retrospektiva serier finns) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -101,7 +101,6 @@ Mekanistiskt är därför överföringen rimlig. Sambandet är dock indirekt: de
 
 ### Marknadsinformation Sverige
 
-Alla fyra godkännanden är avregistrerade och inga giltiga godkännanden finns för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -150,7 +149,6 @@ Uppgifter om varningar och kontraindikationer från produktresumén ingår inte 
 **För att gå vidare krävs:**
 - Resultat från pågående randomiserade fas 2-studier (till exempel NCT05001880 och NCT06057935).
 - Hämtning och genomgång av produktresumé för varningar och kontraindikationer, särskilt kring njurfunktion och benmärgspåverkan.
-- Bekräftelse av läkemedlets nuvarande tillgänglighet i Sverige, eftersom alla godkännanden är avregistrerade.
 - Verkningsmekanismdata (hämtas från DrugBank) för att komplettera analysen.
 - Bedömning av patientselektion, där cytoreduktiv kirurgi med HIPEC är förstahandsval för lämpliga patienter och systembehandling används vid avancerad sjukdom.
 ## Ansvarsfriskrivning

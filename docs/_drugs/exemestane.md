@@ -6,9 +6,9 @@ nav_order: 185
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
-description: "Exemestane: predikterad ny indikation Amenorré (rang 2 (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga godkännandedata"
 monitor_inn: "exemestane"
 predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]
+description: "Exemestane: predikterad ny indikation Antithrombin deficiency type 2 (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Exemestane
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Exemestan: Från bröstcancer till amenorré
+## Exemestane: Antithrombin deficiency type 2
 {: .text-alpha }
 
 ---
@@ -52,12 +52,12 @@ TxGNN-modellen förutsäger i första hand **antitrombin-brist typ 2**, men den 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i tillgängliga godkännandedata |
-| Förutsagd ny indikation | Amenorré (rang 2; rang 1 är antitrombin-brist typ 2) |
-| TxGNN-förutsägelsepoäng | 99,8 % (amenorré); 99,8 % (antitrombin-brist typ 2) |
-| Evidensnivå | L4 (amenorré); L5 (antitrombin-brist typ 2) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 7 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Antithrombin deficiency type 2 |
+| TxGNN-förutsägelsepoäng | 0.9983 |
+| Evidensnivå | L5 (amenorré); L5 (antitrombin-brist typ 2) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
+| Antal godkännanden | 7 (giltiga: 7) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -68,7 +68,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i und
 
 Kopplingen till amenorré är sannolikt en **läkemedelseffekt** och inte en terapeutisk möjlighet. De fem publikationerna handlar om återhämtning av äggstocksfunktion, äggstocksundertryckning och LHRH-analoger vid bröstcancer. De beskriver amenorré som en följd av behandling eller som något som ska övervakas, inte som ett tillstånd som behandlas med exemestan.
 
-Mekanistiskt är det dessutom osannolikt att en östrogensänkande substans skulle behandla amenorré i de flesta situationer. Förutsägelsen speglar troligen ett samband i kunskapsgrafen snarare än en verklig återanvändningsmöjlighet. För antitrombin-brist typ 2, som beror på en ärftlig SERPINC1-defekt, finns inget rimligt mekanistiskt samband med aromatashämning.
+Mekanistiskt är det dessutom osannolikt att en östrogensänkande substans skulle behandla amenorré i de flesta situationer. För antitrombin-brist typ 2, som beror på en ärftlig SERPINC1-defekt, finns inget rimligt mekanistiskt samband med aromatashämning.
 
 ---
 

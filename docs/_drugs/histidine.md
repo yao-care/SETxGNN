@@ -6,9 +6,9 @@ nav_order: 224
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Histidine: predikterad ny indikation Gastropares (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext registrerad"
 monitor_inn: "histidine"
 predicted_indications: ["gastroparesis (disease)", "sclerosing cholangitis"]
+description: "Histidine: predikterad ny indikation Gastropares (gastroparesis (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Histidine
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Histidin: Från ospecificerad indikation till gastropares
+## Histidine: Gastropares (gastroparesis (disease))
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Histidin är en aminosyra som ingår i flera infusionslösningar för parenteral
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext registrerad |
-| Förutsagd ny indikation | Gastropares |
-| TxGNN-förutsägelsepoäng | 99,6 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Gastropares (gastroparesis (disease)) |
+| TxGNN-förutsägelsepoäng | 0.9955 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
@@ -129,7 +129,7 @@ Information om läkemedelsinteraktioner saknas. Se produktresumén för övrig s
 
 ### Ytterligare observation: primär skleroserande kolangit (rang 2)
 
-Den näst högst rankade förutsägelsen, skleroserande kolangit (poäng 99,3 %, evidensnivå L4), har flera prekliniska studier. De pekar dock på att histamin-signalering **förvärrar** sjukdomen, och histidin är histaminets prekursor. Mössmodeller utan histidindekarboxylas visar mindre gallgångsskada och fibros. Histidintillförsel skulle därför i teorin kunna vara ofördelaktig. Denna riktning bör behandlas som en säkerhetsfråga och inte som ett terapeutiskt förslag.
+De pekar dock på att histamin-signalering **förvärrar** sjukdomen, och histidin är histaminets prekursor. Mössmodeller utan histidindekarboxylas visar mindre gallgångsskada och fibros. Histidintillförsel skulle därför i teorin kunna vara ofördelaktig. Denna riktning bör behandlas som en säkerhetsfråga och inte som ett terapeutiskt förslag.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

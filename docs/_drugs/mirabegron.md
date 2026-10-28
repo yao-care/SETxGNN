@@ -8,6 +8,7 @@ nav_order: 93
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-05-04
+predicted_indications: []
 ---
 
 # Mirabegron
@@ -51,8 +52,8 @@ A **Hold** decision is recommended until the gaps identified below are resolved.
 | Predicted New Indication | No TxGNN predictions returned |
 | TxGNN Prediction Score | — |
 | Evidence Level | L5 (model prediction only — no predictions available) |
-| Sweden Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| Sweden Market Status | Marknadsförd (giltiga godkännanden: 5 av 5) |
+| Number of Authorizations | 5 (giltiga: 5) |
 | Recommended Decision | **Hold** |
 
 ---

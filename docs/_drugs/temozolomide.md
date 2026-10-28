@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Temozolomide
-parent: Hög evidens (L1-L2)
+parent: Endast modellprediktion (L5)
 nav_order: 414
-evidence_level: L1
-indication_count: 2
-last_modified_at: 2026-10-15
-description: "Temozolomide: predikterad ny indikation Vuxna astrocytära tumörer (adult astrocytic tumour) (evidensnivå L1). Ursprunglig indikation: Anaplastiskt astrocytom, astrocytom (utom glioblastom), glioblast…"
+evidence_level: L5
+indication_count: 1
 monitor_inn: "temozolomide"
-predicted_indications: ["adult astrocytic tumour", "cauda equina neoplasm"]
+predicted_indications: ["cauda equina neoplasm"]
+last_modified_at: 2026-10-23
+description: "Temozolomide: predikterad ny indikation Tumör i cauda equina (cauda equina neoplasm) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Temozolomide
 {: .fs-9 }
 
-Evidensnivå: **L1** | Förutsagda indikationer: **2** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L1** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Temozolomid STADA (temozolomid): Från anaplastiskt astrocytom och glioblastom till vuxna astrocytära tumörer
+## Temozolomide: Tumör i cauda equina (cauda equina neoplasm)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Temozolomid är ett oralt cellgift (alkylerande medel) som ursprungligen används mot anaplastiskt astrocytom, astrocytom (utom glioblastom) och glioblastom i hjärnan. TxGNN-modellen förutsäger att det kan vara effektivt mot **vuxna astrocytära tumörer**, med **2 kliniska prövningar** och **20 publikationer** som stöder denna riktning. Eftersom de ursprungliga indikationerna redan tillhör samma sjukdomsfamilj är detta i praktiken en indikation som ligger mycket nära den ursprungliga, snarare än en renodlad återanvändning.
+Temozolomid är ett oralt alkylerande cytostatikum som används vid anaplastiskt astrocytom, astrocytom (utom glioblastom) och glioblastom i hjärnan. TxGNN-modellen (djupinlärning) förutsäger att läkemedlet kan vara effektivt mot **tumör i cauda equina**, men de data som sammanställts för denna rapport innehåller **inga kliniska prövningar** och endast **3 publikationer**, alla fallrapporter. Endast en av dem (ett fall av spinalt myxopapillärt ependymom) berör sjukdomen direkt.
 
 ---
 
@@ -48,32 +48,31 @@ Temozolomid är ett oralt cellgift (alkylerande medel) som ursprungligen använd
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Anaplastiskt astrocytom, astrocytom (utom glioblastom), glioblastom (godkännandetexten saknas i det svenska registret) |
-| Förutsagd ny indikation | Vuxna astrocytära tumörer (adult astrocytic tumour) |
-| TxGNN-förutsägelsepoäng | 99,4 % |
-| Evidensnivå | L1 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 5 (alla avregistrerade) |
-| Rekommenderat beslut | Fortsätt med försiktighet |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Tumör i cauda equina (cauda equina neoplasm) |
+| TxGNN-förutsägelsepoäng | 0.9930 |
+| Evidensnivå | L5 (inga kliniska prövningar och ingen studie utöver enskilda fallrapporter; se nedan) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
+| Antal godkännanden | 5 (giltiga: 5) |
+| Rekommenderat beslut | Avvakta |
+
+**Om evidensnivån:** Den enda publikation som direkt rör sjukdomen är en enskild fallrapport. Den räcker inte för att motivera en högre nivå än L5 i denna rapport. De övriga två fallrapporterna rör andra tillstånd (nasalt NUT-karcinom respektive kryptokockos hos ett barn med pontint gliom).
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i den sammanställda informationen. Utifrån allmän farmakologisk kunskap är temozolomid ett oralt alkylerande medel som metylerar DNA, framför allt vid O6-positionen på guanin. Det ger skador som leder till celldöd (apoptos) i tumörceller.
+Temozolomid är ett oralt alkylerande läkemedel som metylerar DNA (O6-guanin, N7-guanin och N3-adenin) och orsakar cytotoxicitet, särskilt i tumörer med lågt uttryck av MGMT. För närvarande finns ingen detaljerad verkningsmekanismdata i den sammanställda posten, så beskrivningen här bygger på allmän farmakologi.
 
-Vuxna astrocytära tumörer, som anaplastiskt astrocytom och glioblastom, tillhör samma sjukdomsfamilj som läkemedlets ursprungliga indikationer. Läkemedlet passerar dessutom blod-hjärnbarriären, vilket är avgörande för behandling av hjärntumörer.
+Tumörer i cauda equina utgörs till stor del av myxopapillära ependymom och andra gliatumörer i det centrala nervsystemet. Detta har ett biologiskt samband med de gliom som läkemedlet används mot. Ett alkylerande läkemedel som tar sig in i centrala nervsystemet är därför mekanistiskt tänkbart även här.
 
-Effekten är störst i tumörer där genen MGMT är metylerad, eftersom tumörcellernas DNA-reparation då är försämrad. Det förklarar också den mycket höga förutsägelsepoängen.
+Förutsägelsen stöds beräkningsmässigt av den höga poängen (0,993), men MGMT-status för dessa tumörer framgår inte av underlaget. Det är en viktig osäkerhet, eftersom effekten beror på detta.
 
 ---
 
 ### Kliniska prövningar
 
-| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
-|---------|------|------|------|---------|
-| [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | Fas 3 | Avslutad | 500 | Randomiserad jämförelse mellan temozolomid och PCV (procarbazin, lomustin, vinkristin) vid återfall av maligna astrocytära tumörer av WHO-grad III och IV. Prövar direkt temozolomid i målsjukdomen. |
-| [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | Fas 1 | Avslutad | 26 | Dosfinnande studie av cabozantinib (XL184) tillsammans med temozolomid och strålbehandling vid nydiagnostiserat glioblastom. Ger endast tidig säkerhets- och farmakokinetikinformation, inte effektdata för temozolomid. |
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
@@ -81,16 +80,9 @@ Effekten är störst i tumörer där genen MGMT är metylerad, eftersom tumörce
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [15758009](https://pubmed.ncbi.nlm.nih.gov/15758009/) | 2005 | RCT | The New England Journal of Medicine | Jämförelse av strålbehandling med och utan temozolomid (under och efter strålning) vid glioblastom. Grunden för dagens standardbehandling. |
-| [19269895](https://pubmed.ncbi.nlm.nih.gov/19269895/) | 2009 | Fas 3 (5-årsuppföljning) | The Lancet Oncology | Femårsanalys av EORTC-NCIC-studien. Förbättrad överlevnad med temozolomid och strålbehandling. |
-| [22578793](https://pubmed.ncbi.nlm.nih.gov/22578793/) | 2012 | RCT | The Lancet Oncology | NOA-08: temozolomid ensamt jämfört med strålbehandling hos äldre med anaplastiskt astrocytom eller glioblastom. |
-| [30782343](https://pubmed.ncbi.nlm.nih.gov/30782343/) | 2019 | RCT | The Lancet | CeTeG/NOA-09: lomustin plus temozolomid jämfört med enbart temozolomid vid glioblastom med metylerad MGMT. |
-| [29260225](https://pubmed.ncbi.nlm.nih.gov/29260225/) | 2017 | RCT | JAMA | Tumörbehandlingsfält (TTFields) plus underhållsbehandling med temozolomid jämfört med enbart temozolomid. |
-| [26670971](https://pubmed.ncbi.nlm.nih.gov/26670971/) | 2015 | RCT | JAMA | Underhållsbehandling med TTFields plus temozolomid jämfört med enbart temozolomid vid glioblastom. |
-| [24552317](https://pubmed.ncbi.nlm.nih.gov/24552317/) | 2014 | RCT | The New England Journal of Medicine | Tillägg av bevacizumab till standardbehandling med temozolomid och strålning vid nydiagnostiserat glioblastom. |
-| [39480453](https://pubmed.ncbi.nlm.nih.gov/39480453/) | 2024 | RCT | JAMA Oncology | Tillägg av veliparib till temozolomid vid glioblastom med metylerad MGMT. |
-| [34898238](https://pubmed.ncbi.nlm.nih.gov/34898238/) | 2022 | Riktlinje | Journal of Clinical Oncology | ASCO-SNO-riktlinje för behandling av diffusa astrocytära och oligodendrogliala tumörer hos vuxna. |
-| [17478095](https://pubmed.ncbi.nlm.nih.gov/17478095/) | 2007 | Översikt | Critical Reviews in Oncology/Hematology | Översikt om anaplastiskt astrocytom hos vuxna. Kemoterapi har enligt slumpmässiga data inte konsekvent förbättrat utfallet. |
+| [29270703](https://pubmed.ncbi.nlm.nih.gov/29270703/) | 2018 | Fallrapport | European Spine Journal | Temozolomid gav märkbar effekt vid ett återfall av spinalt myxopapillärt ependymom med upprepade recidiv och spridning via cerebrospinalvätskan. |
+| [42760727](https://pubmed.ncbi.nlm.nih.gov/42760727/) | 2026 | Fallrapport | Medicine | Nasalt NUT-karcinom med upprepade svar under multimodal behandling inklusive strålbehandling. Rör inte direkt tumör i cauda equina. |
+| [18706663](https://pubmed.ncbi.nlm.nih.gov/18706663/) | 2009 | Fallrapport | Neuro-Chirurgie | Atypisk kryptokockos i hjärnhinnor och nervsystem hos ett barn som behandlats för pontint gliom. Rör inte direkt tumör i cauda equina. |
 
 ---
 
@@ -98,13 +90,13 @@ Effekten är störst i tumörer där genen MGMT är metylerad, eftersom tumörce
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 42158 | Temozolomid STADA | Kapsel, hård | Ingen indikationstext registrerad (avregistrerad) |
-| 42159 | Temozolomid STADA | Kapsel, hård | Ingen indikationstext registrerad (avregistrerad) |
-| 42160 | Temozolomid STADA | Kapsel, hård | Ingen indikationstext registrerad (avregistrerad) |
-| 42161 | Temozolomid STADA | Kapsel, hård | Ingen indikationstext registrerad (avregistrerad) |
-| 42162 | Temozolomid STADA | Kapsel, hård | Ingen indikationstext registrerad (avregistrerad) |
+| 42159 | Temozolomid STADA | Kapsel, hård | Ingen indikationstext angiven |
+| 42160 | Temozolomid STADA | Kapsel, hård | Ingen indikationstext angiven |
+| 42161 | Temozolomid STADA | Kapsel, hård | Ingen indikationstext angiven |
+| 42158 | Temozolomid STADA | Kapsel, hård | Ingen indikationstext angiven |
+| 42162 | Temozolomid STADA | Kapsel, hård | Ingen indikationstext angiven |
 
-Tillverkare för samtliga godkännanden: STADA Arzneimittel AG.
+Alla fem godkännandena avser enkomponentsprodukter från STADA Arzneimittel AG.
 
 ---
 
@@ -112,45 +104,36 @@ Tillverkare för samtliga godkännanden: STADA Arzneimittel AG.
 
 | Post | Innehåll |
 |------|------|
-| Cytotoxicitetsklassificering | Konventionell cytotoxisk (alkylerande medel) |
-| Myelosuppressionsrisk | Hög. Kunskapsgrafen kopplar läkemedlet till tillstånd som trombocytopeni, neutropeni, pancytopeni, lymfopeni och aplastisk anemi. |
-| Emetogenicitetsklassificering | Medel (enligt läkemedelsklass; ingen läkemedelsspecifik data i underlaget) |
-| Övervakningspunkter | Blodstatus (trombocyter, neutrofila, hemoglobin, lymfocyter) samt lever- och njurfunktion |
-| Hanteringsskydd | Se produktresumén för varningar och försiktighetsåtgärder. Hantering enligt gällande riktlinjer för cytostatika är normalt aktuell. |
+| Cytotoxicitetsklassificering | Konventionell cytotoxisk (alkylerande läkemedel) |
+| Myelosuppressionsrisk | Hög. Relationer i kunskapsgrafen listar bland annat trombocytopeni, neutropeni, pancytopeni och aplastisk anemi som kontraindikationer. |
+| Emetogenicitetsklassificering | Medel (allmän klassificering för läkemedelsgruppen; ingen specifik data i underlaget) |
+| Övervakningspunkter | Blodstatus (trombocyter, neutrofila, hemoglobin), lever- och njurfunktion |
+| Hanteringsskydd | Se produktresumén för varningar och försiktighetsåtgärder, inklusive hantering av cytotoxiska läkemedel |
 
 ---
 
 ### Säkerhetsaspekter
 
-- **Kontraindicerade tillstånd (från kunskapsgrafen, inte från produktresumétext)**: leversvikt, trombocytopeni, neutropeni, agranulocytos, anemi, makrocytär anemi, pneumocystos, pancytopeni, lymfopeni, myelodysplastiskt syndrom, idiopatisk aplastisk anemi och aplastisk anemi.
-- **Läkemedelsinteraktioner**: totalt 320 interaktioner identifierade. De mest relevanta med angiven allvarlighetsgrad:
-  - Naltrexon (måttlig)
-  - Levofloxacin (lindrig)
-  - Flera interaktioner har okänd allvarlighetsgrad, bland annat kalcitriol, pantoprazol, doxycyklin, klotrimazol, morfin, metformin, omeprazol, lansoprazol, atropin, prednison, amfotericin B, hydrokortison, mannitol, dolasetron, kaliumklorid, loperamid, sukralfat och rosiglitazon.
+- **Kontraindikationer enligt kunskapsgrafen (inte etikett- eller produktresumétext):** leversvikt, trombocytopeni, neutropeni, agranulocytos, anemi, makrocytär anemi, pneumocystos, pancytopeni, lymfopeni, myelodysplastiskt syndrom, idiopatisk aplastisk anemi och aplastisk anemi.
+- **Läkemedelsinteraktioner:** 320 interaktioner registrerade totalt. Den enda med måttlig nivå bland de listade är **naltrexon** (måttlig). **Levofloxacin** har lindrig nivå. Övriga listade, bland annat kalcitriol, pantoprazol, doxycyklin, klotrimazol, morfin, metformin, omeprazol, lansoprazol, atropin, prednison, amfotericin B, hydrokortison, mannitol, dolasetron, kaliumklorid, loperamid, sukralfat och rosiglitazon, har okänd allvarlighetsgrad.
 
-Varnings- och kontraindikationstext från produktresumén saknas i underlaget. Se produktresumén för fullständig säkerhetsinformation.
+Säkerhetsinformation från de svenska godkännandena (varningar och kontraindikationer) saknas i underlaget. Se produktresumén för fullständig säkerhetsinformation.
 
 ---
 
 ### Slutsats och nästa steg
 
-**Beslut: Fortsätt med försiktighet**
+**Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen är stark (L1): en avslutad fas 3-prövning med 500 deltagare och flera stora randomiserade studier stöder temozolomid vid astrocytära tumörer. Alla svenska godkännanden är dock avregistrerade, och säkerhetsdata från produktresumén saknas.
+- Den höga modellpoängen och den biologiska rimligheten talar för hypotesen, men evidensen består i praktiken av en enda direkt relevant fallrapport och inga kliniska prövningar. Därför är evidensnivån L5.
 
 **För att gå vidare krävs:**
-- Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket.
-- Hämta verkningsmekanismdata från DrugBank.
-- Klargöra varför godkännandena avregistrerats och om andra temozolomidprodukter finns på den svenska marknaden.
-- Kontrollera MGMT-status som prediktiv biomarkör för behandlingssvar.
-- Planera blodstatusövervakning på grund av den höga risken för benmärgspåverkan.
-
----
-
-### Övrig förutsägelse med lägre evidens: Cauda equina-neoplasm
-
-Modellen förutsäger också cauda equina-neoplasm (TxGNN-poäng 99,3 %, evidensnivå L4, rekommendation: **Avvakta**). Inga kliniska prövningar finns registrerade. Underlaget består av ett fåtal fallrapporter, bland annat en rapport om god effekt vid återfallande spinalt myxopapillärt ependymom ([PMID 29270703](https://pubmed.ncbi.nlm.nih.gov/29270703/), 2018). Ependymom är i regel mindre kemokänsliga än gliom och MGMT-status är okänd, så riktningen kräver betydligt mer evidens innan den kan prioriteras.
+- Hämta produktresumén från Läkemedelsverket för godkända indikationer, varningar och kontraindikationer.
+- Komplettera verkningsmekanismdata, till exempel från DrugBank.
+- Systematisk litteratursökning efter fallserier, retrospektiva studier och studier av temozolomid vid myxopapillärt ependymom och andra tumörer i cauda equina.
+- Undersöka MGMT-status i dessa tumörer.
+- Överväga en registerbaserad eller prospektiv studie innan eventuell klinisk tillämpning.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

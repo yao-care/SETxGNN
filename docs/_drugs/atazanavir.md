@@ -4,17 +4,17 @@ title: Atazanavir
 parent: Endast modellprediktion (L5)
 nav_order: 42
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-15
-description: "Atazanavir: predikterad ny indikation Felint förvärvat immunbristsyndrom (kattens AIDS) (evidensnivå L5). Ursprunglig indikation: HIV-infektion och AIDS (enligt kunskapsgrafen"
+indication_count: 4
 monitor_inn: "atazanavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
+last_modified_at: 2026-10-27
+description: "Atazanavir: predikterad ny indikation Felint immunbristsyndrom hos katt (feline acquired immunodeficiency syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Atazanavir
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **6** st
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-## Atazanavir: Från HIV-infektion och AIDS till felint förvärvat immunbristsyndrom
+## Atazanavir: proteashämmare → felint immunbristsyndrom hos katt (feline acquired immunodeficiency syndrome)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Atazanavir är en proteashämmare som ursprungligen användes för att behandla HIV-infektion och AIDS. TxGNN-modellen förutsäger att det kan vara effektivt mot **felint förvärvat immunbristsyndrom (kattens AIDS)**, men för denna förutsägelse finns **inga kliniska prövningar och ingen publicerad litteratur**. Förutsägelsen bygger enbart på modellen och bör tolkas försiktigt.
+Atazanavir är en proteashämmare. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **felint immunbristsyndrom hos katt (feline acquired immunodeficiency syndrome)**, med poängen 0,9998. För denna förutsägelse finns **inga kliniska prövningar** och **ingen publicerad litteratur** i de data som sammanställts för rapporten, så underlaget består enbart av modellens förutsägelse.
 
 ---
 
@@ -48,23 +48,35 @@ Atazanavir är en proteashämmare som ursprungligen användes för att behandla 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | HIV-infektion och AIDS (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsägd ny indikation | Felint förvärvat immunbristsyndrom (kattens AIDS) |
-| TxGNN-förutsägelsepoäng | 99,98 % |
-| Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Felint immunbristsyndrom hos katt (feline acquired immunodeficiency syndrome) |
+| TxGNN-förutsägelsepoäng | 0,9998 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för denna rapport. Baserat på känd information är atazanavir en proteashämmare mot HIV-1, och dess effekt vid HIV-infektion är väl belagd. Mekanistiskt kan den vara tillämpbar på kattens immunbristvirus.
+Detaljerad verkningsmekanismdata finns för närvarande inte tillgänglig. Atazanavir är en proteashämmare som används mot hivinfektion, och mekanistiskt kan den vara tillämpbar på felint immunbristsyndrom.
 
-Felint immunbristvirus (FIV) är ett lentivirus med ett aspartylproteas som är besläktat med HIV-1-proteaset. En proteashämmare som atazanavir kan därför i teorin verka även på FIV. Den höga poängen (0,9998) speglar sannolikt främst att sjukdomen liknar HIV i kunskapsgrafen.
+Felint immunbristvirus (FIV) är ett lentivirus med ett aspartylproteas som är besläktat med hiv-1-proteaset. Därför är det tänkbart att en proteashämmare som atazanavir kan påverka även detta virus. Den höga poängen speglar sannolikt likheten med hivsjukdom i modellens underliggande data.
 
-Proteaset hos FIV skiljer sig dock från HIV-1-proteaset i substratspecificitet. Känsligheten för hämmare kan därför inte antas. Detta är en ren förutsägelse utan stöd av studier.
+Det finns dock en viktig begränsning: FIV-proteaset skiljer sig från hiv-1-proteaset i substratspecificitet, och känslighet för hämmaren kan därför inte antas. Förutsägelsen är i nuläget enbart en hypotes.
+
+---
+
+### Kliniska prövningar
+
+Inga relaterade kliniska prövningar registrerade för närvarande.
+
+---
+
+### Litteraturbevis
+
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
@@ -72,48 +84,27 @@ Proteaset hos FIV skiljer sig dock från HIV-1-proteaset i substratspecificitet.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 56659 | Atazanavir STADA | Kapsel, hård | Indikationstext saknas (indragen) |
-| 56658 | Atazanavir STADA | Kapsel, hård | Indikationstext saknas (indragen) |
+| 56659 | Atazanavir STADA | Kapsel, hård | Indikationstext saknas i lokala data |
+| 56658 | Atazanavir STADA | Kapsel, hård | Indikationstext saknas i lokala data |
 
-Båda godkännandena har dragits in, och inget giltigt godkännande finns för närvarande.
+Läkemedlet har enligt lokala data marknadsstatusen "Marknadsförd". Båda registrerade godkännandena avser enkelsubstansprodukter från STADA Arzneimittel AG.
 
 ---
 
 ### Säkerhetsaspekter
 
-- **Samband med sjukdomar enligt kunskapsgrafen (inte hämtat från produktresumétext):** Kunskapsgrafen anger kontraindikation eller försiktighet vid bland annat leversvikt, leversjukdom, gallblåsesjukdom, hyperglykemi, diabetes mellitus, diabetesketoacidos, kronisk hepatit B och C, hemofili, hyperbilirubinemi (inklusive Gilberts syndrom), njursten, akut urinsyranefropati, atrioventrikulärt block och laktatacidos.
-- **Läkemedelsinteraktioner:** Totalt 277 interaktioner har identifierats. Exempel på allvarliga (Major):
-  - Famotidin
-  - Ranitidin
-  - Rabeprazol
-  - Omeprazol
-  - Loperamid
-  - Triamcinolon
-  - Budesonid
+**Läkemedelsinteraktioner:** Totalt 277 interaktioner är registrerade. Bland de som listats finns följande med högre allvarlighetsgrad (Major):
+- Famotidin
+- Ranitidin
+- Rabeprazol
+- Omeprazol
+- Loperamid
+- Triamcinolon
+- Budesonid
 
-  Exempel på måttliga (Moderate):
-  - Acarbose
-  - Metformin
-  - Pioglitazon
-  - Hydrokortison
-  - Betametason
-  - Aprepitant
-  - Aluminiumhydroxid
-  - Kalciumkarbonat
+Flera interaktioner med måttlig allvarlighetsgrad (Moderate) finns också, bland annat med acarbos, metformin, pioglitazon, hydrokortison, aprepitant och kalciumkarbonat.
 
-Se produktresumén för fullständig säkerhetsinformation om varningar och kontraindikationer.
-
----
-
-### Övriga förutsagda indikationer (kort översikt)
-
-| Förutsagd indikation | Poäng | Evidensnivå | Kommentar |
-|------|------|------|------|
-| Simian immunbristvirusinfektion | 99,98 % | L4 | En djurstudie på makaker som fått kombinationsbehandling (PMID 20497048). Det är oklart om atazanavir ingick. Begränsat värde för användning hos människa. |
-| Neuroutvecklingsstörning med ataxi, avsaknad av tal och minskad vit substans i hjärnbarken | 99,98 % | L5 | Ingen trolig mekanistisk koppling. Sannolikt ett artefaktresultat i kunskapsgrafen. |
-| Familjär kombinerad hyperlipidemi (föråldrad term) | 99,82 % | L5 | Motsägelsefull, eftersom proteashämmare oftare ger dyslipidemi. |
-| Medfödd HIV-infektion | 99,71 % | L3 | Sju observationsstudier främst om säkerhet och farmakokinetik vid exponering under graviditet. Det rör sig i princip om den ursprungliga HIV-indikationen i en särskild population. |
-| AIDS-relaterat komplex | 99,71 % | L3 | Tre observationsstudier och prekliniska studier. Överlappar med den godkända HIV-indikationen. |
+Produktresumén bör läsas för fullständig säkerhetsinformation, eftersom varnings- och kontraindikationstext inte finns i de sammanställda data.
 
 ---
 
@@ -122,15 +113,13 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för kattens AIDS bygger enbart på modellen (L5), utan kliniska prövningar eller litteratur. Dessutom saknar atazanavir giltigt godkännande i Sverige.
-- Flera av de övriga förutsägelserna rör antingen den ursprungliga HIV-indikationen eller saknar mekanistisk grund.
+- Förutsägelsen bygger enbart på modellens poäng (0,9998), utan någon klinisk prövning eller publikation som studerar felint immunbristsyndrom. Skillnader mellan FIV- och hiv-proteas gör att effekt inte kan förutsättas.
 
 **För att gå vidare krävs:**
-- Data om atazanavirs verkningsmekanism, som saknas i underlaget.
-- Produktresumé med varningar och kontraindikationer från Läkemedelsverket, så att säkerhetsgranskning kan göras.
-- Laboratoriestudier (in vitro) av atazanavirs hämning av FIV-proteas.
-- Ett tydligt beslut om vilken användning som avses, eftersom kattens AIDS är en veterinärmedicinsk sjukdom. Det avgör vilka regelverk och studier som gäller.
-- Om medfödd HIV ska utredas vidare: atazanavirspecifika studier av säkerhet och effekt vid graviditet och hos nyfödda.
+- Laboratoriestudier av atazanavirs hämning av FIV-proteas
+- Prekliniska eller veterinärmedicinska studier som visar antiviral effekt
+- Kompletterande uppgifter om verkningsmekanism och säkerhet från produktresumén
+- Bedömning av om humanläkemedel är lämpligt för veterinärt bruk ur regulatorisk synvinkel
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

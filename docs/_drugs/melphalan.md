@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Melphalan
-parent: Hög evidens (L1-L2)
+parent: Endast modellprediktion (L5)
 nav_order: 276
-evidence_level: L2
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Melphalan: predikterad ny indikation Groddcellstumör i könskörtel (gonadal germ cell tumor) (evidensnivå L2). Ursprunglig indikation: Äggstockscancer (godkänd indikationstext saknas i de svenska godk…"
 monitor_inn: "melphalan"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
+description: "Melphalan: predikterad ny indikation Female breast carcinoma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Melphalan
 {: .fs-9 }
 
-Evidensnivå: **L2** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L2** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Melfalan: Från äggstockscancer till könskörtelns groddcellstumör
+## Melphalan: Female breast carcinoma
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Melfalan är ett alkylerande cytostatikum som i den data som sammanställts för denna rapport är kopplat till äggstockscancer och närliggande äggstockstumörer. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **groddcellstumör i könskörtel (gonadal germ cell tumor)**, med **7 kliniska prövningar** och **1 publikation** som för närvarande stöder denna riktning. Prövningarna rör främst högdoskemoterapi med stamcellsstöd, där melfalan ingår i kombinationsregimer, och litteraturstödet är mycket svagt.
+Melfalan är ett alkylerande cytostatikum som i den data som sammanställts för denna rapport är kopplat till äggstockscancer och närliggande äggstockstumörer. Prövningarna rör främst högdoskemoterapi med stamcellsstöd, där melfalan ingår i kombinationsregimer, och litteraturstödet är mycket svagt.
 
 ---
 
@@ -48,12 +48,12 @@ Melfalan är ett alkylerande cytostatikum som i den data som sammanställts för
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Äggstockscancer (godkänd indikationstext saknas i de svenska godkännandena; indikationen kommer från TxGNN:s kunskapsgraf) |
-| Förutsagd ny indikation | Groddcellstumör i könskörtel (gonadal germ cell tumor) |
-| TxGNN-förutsägelsepoäng | 99,8 % |
-| Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 3 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Female breast carcinoma |
+| TxGNN-förutsägelsepoäng | 0.9967 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 **Om evidensnivån:** L2 motsvarar en avslutad fas 2-prövning (NCT00936936, 64 deltagare). Prövningen är dock en enarmad kombinationsregim utan randomisering, så L2 bör ses som en övre gräns för evidensen.
@@ -64,7 +64,7 @@ Melfalan är ett alkylerande cytostatikum som i den data som sammanställts för
 
 Melfalan är ett DNA-alkylerande medel som bildar tvärbindningar mellan DNA-strängarna och hindrar celldelning. För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig från läkemedelsdatabasen. Baserat på känd information är melfalan ett alkylerande cytostatikum, dess effekt vid äggstockscancer ligger till grund för den ursprungliga kopplingen, och mekanistiskt kan det vara tillämpligt på groddcellstumörer.
 
-Groddcellstumörer är generellt känsliga för DNA-skadande cytostatika. Det motiverar högdosregimer med melfalan och autolog stamcellsräddning vid recidiverande sjukdom eller dålig prognos. Läkemedlets ursprungliga indikationer i kunskapsgrafen omfattar även maligna groddcellstumörer i äggstock, vilket förklarar den höga modellpoängen.
+Groddcellstumörer är generellt känsliga för DNA-skadande cytostatika. Det motiverar högdosregimer med melfalan och autolog stamcellsräddning vid recidiverande sjukdom eller dålig prognos.
 
 Poängen är ett modellresultat och inget kliniskt bevis. Melfalans egen andel av effekten går inte att skilja ut i de kombinationsregimer som prövats.
 
@@ -133,7 +133,6 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 **Motivering:**
 - Den höga modellpoängen och den mekanistiska rimligheten stöds av en avslutad fas 2-prövning vid recidiverande groddcellstumörer, men melfalan ingår där i en kombinationsregim och litteraturstödet är praktiskt taget obefintligt.
-- Inga giltiga svenska godkännanden finns kvar, och säkerhetsunderlaget från produktresumén saknas, vilket gör en bedömning av nytta och risk ofullständig.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén för varningar och kontraindikationer från Läkemedelsverket.

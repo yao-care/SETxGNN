@@ -6,9 +6,9 @@ nav_order: 364
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Prilocaine: predikterad ny indikation Papillär konjunktivit (evidensnivå L5). Ursprunglig indikation: För tidig utlösning"
 monitor_inn: "prilocaine"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
+description: "Prilocaine: predikterad ny indikation Papillär konjunktivit (papillary conjunctivitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Prilocaine
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Prilokain: Från för tidig utlösning till papillär konjunktivit
+## Prilocaine: Papillär konjunktivit (papillary conjunctivitis)
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Prilokain är ett lokalbedövningsmedel av amidtyp. I den kunskapsgraf som modellen bygger på är det kopplat till för tidig utlösning och psykologiskt betingad dyspareuni. TxGNN-modellen förutsäger att prilokain kan vara effektivt mot **papillär konjunktivit**, men för denna indikation finns **inga kliniska prövningar och ingen publicerad litteratur**. Förutsägelsen är därför enbart modellbaserad.
+Prilokain är ett lokalbedövningsmedel av amidtyp. TxGNN-modellen förutsäger att prilokain kan vara effektivt mot **papillär konjunktivit**, men för denna indikation finns **inga kliniska prövningar och ingen publicerad litteratur**. Förutsägelsen är därför enbart modellbaserad.
 
 ---
 
@@ -48,12 +48,12 @@ Prilokain är ett lokalbedövningsmedel av amidtyp. I den kunskapsgraf som model
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | För tidig utlösning; psykologiskt betingad dyspareuni (enligt kunskapsgrafen, eftersom de svenska godkännandena saknar indikationstext) |
-| Förutsagd ny indikation | Papillär konjunktivit |
-| TxGNN-förutsägelsepoäng | 99,8 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Papillär konjunktivit (papillary conjunctivitis) |
+| TxGNN-förutsägelsepoäng | 0.9978 |
 | Evidensnivå | L5 (endast modellförutsägelse, inga faktiska studier) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 14 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 14 av 14) |
+| Antal godkännanden | 14 (giltiga: 14) |
 | Rekommenderat beslut | Avvakta |
 
 ---

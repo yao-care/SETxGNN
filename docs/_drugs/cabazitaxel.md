@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 74
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Cabazitaxel: predikterad ny indikation Kvinnlig bröstcancer (female breast carcinoma) (evidensnivå L5). Ursprunglig indikation: Ej angiven i de svenska godkännandeuppgifterna"
+last_modified_at: 2026-10-28
 monitor_inn: "cabazitaxel"
 predicted_indications: ["female breast carcinoma", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin c disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-hemoglobin E disease syndrome", "HIV infectious disease", "hyperthyroidism", "neuroblastoma", "rheumatoid arthritis"]
+description: "Cabazitaxel: predikterad ny indikation Kvinnlig bröstcancer (female breast carcinoma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Cabazitaxel
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Cabazitaxel: Från ej angiven indikation till kvinnlig bröstcancer
+## Cabazitaxel: Kvinnlig bröstcancer (female breast carcinoma)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Cabazitaxel är ett semisyntetiskt taxan (cytostatikum) som verkar genom att sta
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i de svenska godkännandeuppgifterna |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Kvinnlig bröstcancer (female breast carcinoma) |
-| TxGNN-förutsägelsepoäng | 99,92 % |
-| Evidensnivå | L4 (prekliniska och mekanistiska studier dominerar) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 6 (alla indragna) |
+| TxGNN-förutsägelsepoäng | 0.9992 |
+| Evidensnivå | L5 (prekliniska och mekanistiska studier dominerar) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
 
 ---

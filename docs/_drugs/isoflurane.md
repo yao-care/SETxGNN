@@ -40,7 +40,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 ## Sammanfattning
 
-Isofluran är ett inhalationsanestetikum som används för generell anestesi. Indikationstexten saknas dock i de godkännandedata som sammanställts för rapporten. TxGNN-modellen förutsäger att isofluran kan vara effektivt mot **Prinzmetal angina** (poäng 99,7 %), men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder förutsägelsen. Den vilar alltså enbart på en modellberäkning (evidensnivå L5).
+Isofluran är ett inhalationsanestetikum som används för generell anestesi. Indikationstexten saknas dock i de godkännandedata som sammanställts för rapporten. TxGNN-modellen (djupinlärning) förutsäger att isofluran kan vara effektivt mot **Prinzmetal angina** (poäng 0,9967), men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder förutsägelsen. Den vilar alltså enbart på en modellberäkning (evidensnivå L5).
 
 ---
 
@@ -50,10 +50,10 @@ Isofluran är ett inhalationsanestetikum som används för generell anestesi. In
 |------|------|
 | Ursprunglig indikation | Ingen indikationstext registrerad i godkännandedata (isofluran är ett inhalationsanestetikum) |
 | Förutsagd ny indikation | Prinzmetal angina |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| TxGNN-förutsägelsepoäng | 0,9967 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---

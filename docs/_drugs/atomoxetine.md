@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Atomoxetine
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 44
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Atomoxetine: predikterad ny indikation Specifik utvecklingsstörning (evidensnivå L3). Ursprunglig indikation: ADHD (attention deficit hyperactivity disorder)…"
 monitor_inn: "atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
+last_modified_at: 2026-10-27
+description: "Atomoxetine: predikterad ny indikation Specifik utvecklingsstörning (specific developmental disorder) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Atomoxetine
 {: .fs-9 }
 
-Evidensnivå: **L3** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,100 +33,89 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Atomoxetin Viatris: Från ADHD till specifik utvecklingsstörning
+## Atomoxetin: selektiv noradrenalinåterupptagshämmare → Specifik utvecklingsstörning (specific developmental disorder)
 {: .text-alpha }
 
 ---
 
-### Sammanfattning
+## Sammanfattning
 
-Atomoxetin är en selektiv hämmare av noradrenalinåterupptag som ursprungligen används för behandling av ADHD (attention deficit hyperactivity disorder). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **specifik utvecklingsstörning**, men underlaget består av **0 kliniska prövningar** och **14 publikationer**, främst översikter och observationsstudier. Litteraturen stöder behandling av ADHD-symtom vid utvecklingsstörningar, inte behandling av själva utvecklingsstörningen.
+Atomoxetin är en selektiv noradrenalinåterupptagshämmare. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **specifik utvecklingsstörning (specific developmental disorder)**. Underlaget består av **0 kliniska prövningar** och **14 publikationer**, men ingen av dem studerar denna sjukdom direkt. Litteraturen gäller främst ADHD-symtom hos personer med närliggande tillstånd, till exempel autism och inlärningssvårigheter. Förutsägelsen bygger därför i praktiken på modellen och indirekta samband.
 
 ---
 
-### Snabböversikt
+## Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | ADHD (attention deficit hyperactivity disorder), enligt kunskapsgrafen. Godkänd indikationstext saknas i licensdata. |
-| Förutsagd ny indikation | Specifik utvecklingsstörning |
-| TxGNN-förutsägelsepoäng | 99,998 % |
-| Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 20 (alla avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Specifik utvecklingsstörning (specific developmental disorder) |
+| TxGNN-förutsägelsepoäng | 1,0000 (avrundat från 0,99998) |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-### Varför är denna förutsägelse rimlig?
+## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Baserat på känd information är atomoxetin en selektiv noradrenalinåterupptagshämmare (icke-stimulerande), dess effekt vid ADHD är väletablerad, och mekanistiskt kan den vara tillämpbar på ADHD-symtom vid utvecklingsstörningar.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Atomoxetin är dock känt som en selektiv noradrenalinåterupptagshämmare. Noradrenerg modulering av prefrontala nätverk för uppmärksamhet och exekutiva funktioner kan förklara effekten på uppmärksamhets- och impulsivitetssymtom.
 
-Sambandet mellan ADHD och utvecklingsstörningar är nära: ADHD är i sig en neuroutvecklingsstörning och förekommer ofta tillsammans med inlärningssvårigheter och autismspektrumtillstånd. Noradrenerg modulering av prefrontala uppmärksamhets- och exekutiva kretsar kan förklara den symtomlindring som beskrivs.
+Specifika utvecklingsstörningar, som inlärningssvårigheter, förekommer ofta tillsammans med uppmärksamhetsproblem. Det ger ett möjligt samband med läkemedlets kända effekter. Den tillgängliga litteraturen stöder dock att ADHD-symtomen behandlas hos dessa patienter. Den visar inte att själva utvecklingsstörningen behandlas.
 
-Det är viktigt att skilja på två saker: litteraturen stöder behandling av ADHD-symtom *inom* utvecklingsstörningar, men visar inte att själva utvecklingsstörningen behandlas. Förutsägelsen är därför till stor del en återspegling av ADHD-indikationen.
+Förutsägelsen bör därför ses som en hypotes. Mekanismen är rimlig för symtomlindring av uppmärksamhetsproblem men inte belagd för sjukdomen i sig.
 
 ---
 
-### Kliniska prövningar
+## Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-### Litteraturbevis
+## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [39701638](https://pubmed.ncbi.nlm.nih.gov/39701638/) | 2025 | Systematisk översikt/nätverksmetaanalys | The Lancet Psychiatry | Jämför effekt och acceptans för läkemedel, psykologiska och neurostimulerande insatser vid ADHD hos vuxna. |
-| [30653855](https://pubmed.ncbi.nlm.nih.gov/30653855/) | 2019 | Systematisk översikt/metaanalys | Autism Research | Tre randomiserade placebokontrollerade studier med 241 barn med autism och ADHD-symtom; effekt och säkerhet av atomoxetin utvärderades. |
-| [27721971](https://pubmed.ncbi.nlm.nih.gov/27721971/) | 2016 | Översikt | Therapeutic Advances in Psychopharmacology | Atomoxetins effekt vid ADHD med vanliga samsjukligheter hos barn, ungdomar och vuxna. |
-| [25545605](https://pubmed.ncbi.nlm.nih.gov/25545605/) | 2015 | Systematisk översikt | Journal of Affective Disorders | Samsjuklighet vid pediatrisk bipolär sjukdom: förekomst, klinisk påverkan och behandling. |
-| [33012168](https://pubmed.ncbi.nlm.nih.gov/33012168/) | 2021 | Kohortstudie | Clinical EEG and Neuroscience | Kvantitativt EEG vid ADHD och inlärningssvårigheter hos barn. |
-| [35485452](https://pubmed.ncbi.nlm.nih.gov/35485452/) | 2022 | Retrospektiv kohortstudie | Neuropsychopharmacology Reports | Faktorer som hänger samman med atomoxetins effekt vid ADHD hos vuxna; långtidseffekten är cirka 40 % efter 6 månader. |
-| [42675180](https://pubmed.ncbi.nlm.nih.gov/42675180/) | 2026 | Kohortstudie | Nature Biomedical Engineering | Avvikelser i strukturell konnektivitet hos ungdomar med ADHD förutsäger symtom och behandlingsutfall. |
-| [26695543](https://pubmed.ncbi.nlm.nih.gov/26695543/) | 2016 | Kohortstudie | Gesundheitswesen | Ålders- och könsspecifika kostnader och läkemedelsbehandling hos vuxna med ADHD. |
-| [39514707](https://pubmed.ncbi.nlm.nih.gov/39514707/) | 2024 | Fallrapport | Journal of Developmental and Behavioral Pediatrics | Pojke med ADHD, ångest och depression som behandlades med atomoxetin under pandemin. |
-| [31425490](https://pubmed.ncbi.nlm.nih.gov/31425490/) | 2020 | Översikt | Therapeutic Drug Monitoring | Möjliga interaktioner mellan syntetiska katinoner och receptbelagda läkemedel. |
+| [39701638](https://pubmed.ncbi.nlm.nih.gov/39701638/) | 2025 | Systematisk översikt och nätverksmetaanalys | The Lancet Psychiatry | Jämför nyttan och riskerna med läkemedelsbehandling, psykologiska och neurostimulerande insatser vid ADHD hos vuxna. Gäller ADHD, inte specifik utvecklingsstörning. |
+| [30653855](https://pubmed.ncbi.nlm.nih.gov/30653855/) | 2019 | Systematisk översikt och metaanalys | Autism Research | Tre randomiserade placebokontrollerade studier med 241 barn. Utvärderar effekt och säkerhet av atomoxetin vid ADHD-symtom hos barn med autism. |
+| [27721971](https://pubmed.ncbi.nlm.nih.gov/27721971/) | 2016 | Översikt | Therapeutic Advances in Psychopharmacology | Går igenom atomoxetins effekt vid ADHD med vanliga samsjukligheter, bland annat störningar i utvecklingen. |
+| [33012168](https://pubmed.ncbi.nlm.nih.gov/33012168/) | 2021 | Kohortstudie | Clinical EEG and Neuroscience | Beskriver kvantitativt EEG vid ADHD och inlärningssvårigheter hos barn. Studerar inte atomoxetinbehandling. |
+| [42675180](https://pubmed.ncbi.nlm.nih.gov/42675180/) | 2026 | Kohortstudie | Nature Biomedical Engineering | Avvikelser i hjärnans strukturella konnektivitet hos ungdomar med ADHD förutsäger symtom och behandlingsutfall. |
+| [35485452](https://pubmed.ncbi.nlm.nih.gov/35485452/) | 2022 | Retrospektiv kohortstudie | Neuropsychopharmacology Reports | Undersöker faktorer som hänger samman med atomoxetins effekt vid ADHD hos vuxna. |
 
 ---
 
-### Marknadsinformation Sverige
+## Marknadsinformation Sverige
 
-Alla 20 godkännanden är avregistrerade och inga är giltiga för närvarande. Godkänd indikationstext finns inte i licensdata. Nedan visas fem av godkännandena.
-
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 55281 | Atomoxetin Viatris | Kapsel, hård | Ej angiven |
-| 52688 | Atomoxetin Actavis | Kapsel, hård | Ej angiven |
-| 56494 | Atomoxetin Glenmark | Kapsel, hård | Ej angiven |
-| 50612 | Strattera | Oral lösning | Ej angiven |
-| 56602 | Atomoxetine STADA | Kapsel, hård | Ej angiven |
+Marknadsstatus för atomoxetin i Sverige är **Marknadsförd**. De lokala uppgifterna innehåller ingen registrerad indikationstext för godkännandena, och listan över godkännanden kan vara ofullständig.
 
 ---
 
-### Säkerhetsaspekter
+## Säkerhetsaspekter
 
-- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumén): bland annat högt blodtryck, ortostatisk hypotension, epilepsi, bipolär sjukdom, psykotiska tillstånd, leversjukdom, kranskärlssjukdom, tidigare stroke eller hjärtinfarkt, hjärtledningsrubbningar, Gilberts syndrom och trångvinkelglaukom.
-- **Läkemedelsinteraktioner**: totalt 196 interaktioner identifierade. Exempel på allvarliga (Major): cisaprid och dolasetron. Exempel på måttliga (Moderate): bupropion, efedrin, epinefrin, klaritromycin och cimetidin.
+Inga varningar eller kontraindikationer från produktresumén finns i de sammanställda uppgifterna. Se produktresumén för fullständig säkerhetsinformation.
 
-Varningar och kontraindikationer från produktresumén saknas i underlaget. Se produktresumén för fullständig säkerhetsinformation.
+**Läkemedelsinteraktioner:** 196 interaktioner är registrerade. Bland de viktigaste:
+- **Allvarlig (Major):** cisaprid och dolasetron.
+- **Måttlig (Moderate):** bupropion, cimetidin, klaritromycin, efedrin, epinefrin, fenfluramin, granisetron och famotidin.
 
 ---
 
-### Slutsats och nästa steg
+## Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen (L3) består av översikter och observationsstudier om ADHD-symtom vid utvecklingsstörningar, utan någon registrerad klinisk prövning för själva indikationen. Alla svenska godkännanden är dessutom avregistrerade.
+- Förutsägelsen har mycket hög modellpoäng, men det finns inga kliniska prövningar och ingen publikation som direkt studerar specifik utvecklingsstörning. Evidensen räcker därför bara till nivå L5.
+- Litteraturen stöder behandling av ADHD-symtom vid närliggande tillstånd, inte av själva utvecklingsstörningen.
 
 **För att gå vidare krävs:**
-- Definiera tydligt målet: behandling av ADHD-symtom vid utvecklingsstörning, inte av utvecklingsstörningen i sig.
-- Komplettera med produktresumé (varningar och kontraindikationer) från Läkemedelsverket.
-- Komplettera med verkningsmekanismdata från DrugBank.
-- Klarifiera varför godkännandena är avregistrerade och om en ny marknadsföring är aktuell.
-- Genomföra en riktad litteraturgranskning av randomiserade studier, samt planera en kontrollerad klinisk prövning om frågan prioriteras.
+- Att den förutsagda sjukdomen definieras tydligt, till exempel vilka specifika inlärnings- eller utvecklingsstörningar det gäller och med vilka effektmått.
+- Kontrollerade studier som direkt undersöker atomoxetin vid den aktuella utvecklingsstörningen, utöver effekten på ADHD-symtom.
+- Genomgång av produktresumén för varningar och kontraindikationer, eftersom säkerhetsuppgifter från produktresumén saknas i underlaget.
+- Bedömning av interaktionsrisker, särskilt för de läkemedel som klassas som allvarliga.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

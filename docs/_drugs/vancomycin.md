@@ -6,9 +6,9 @@ nav_order: 447
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Vancomycin: predikterad ny indikation Diffus skleroderma (evidensnivå L5). Ursprunglig indikation: Clostridium difficile-kolit (bland flera…"
 monitor_inn: "vancomycin"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
+description: "Vancomycin: predikterad ny indikation Diffus skleroderma (diffuse scleroderma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Vancomycin
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Vankomycin: Från Clostridium difficile-kolit till diffus skleroderma
+## Vancomycin: Diffus skleroderma (diffuse scleroderma)
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Vankomycin är ett glykopeptidantibiotikum mot grampositiva bakterier. Det används bland annat mot Clostridium difficile-kolit, stafylokockinfektioner och endokardit. TxGNN-modellen förutsäger att det kan vara effektivt mot **diffus skleroderma** med en mycket hög poäng (99,9 %). Det finns dock **inga kliniska prövningar** och bara **en publikation**, en fallrapport som inte rör skleroderma. Förutsägelsen bedöms som sannolikt ett artefaktresultat av modellen och saknar stöd i evidens.
+Vankomycin är ett glykopeptidantibiotikum mot grampositiva bakterier. Det används bland annat mot Clostridium difficile-kolit, stafylokockinfektioner och endokardit. Det finns dock **inga kliniska prövningar** och bara **en publikation**, en fallrapport som inte rör skleroderma. Förutsägelsen bedöms som sannolikt ett artefaktresultat av modellen och saknar stöd i evidens.
 
 ---
 
@@ -48,12 +48,12 @@ Vankomycin är ett glykopeptidantibiotikum mot grampositiva bakterier. Det anvä
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Clostridium difficile-kolit (bland flera, t.ex. stafylokockinfektioner och endokardit). Godkännandena i Sverige innehåller ingen indikationstext, så uppgiften bygger på de ursprungliga indikationer som ingår i underlaget. |
-| Förutsagd ny indikation | Diffus skleroderma |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Diffus skleroderma (diffuse scleroderma) |
+| TxGNN-förutsägelsepoäng | 0.9992 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 17 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 17 av 17) |
+| Antal godkännanden | 17 (giltiga: 17) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Vankomycin är ett glykopeptidantibiotikum mot grampositiva bakterier. Det anvä
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i underlaget. Det är dock allmänt känt att vankomycin hämmar cellväggssyntesen hos grampositiva bakterier. Därför är dess effekt vid infektioner som C. difficile-kolit, stafylokockinfektioner och endokardit väl etablerad.
 
-**Förutsägelsen är i praktiken inte rimlig.** Diffus skleroderma är en autoimmun, fibrotisk sjukdom och ingen bakteriell infektion. Det finns därför ingen trovärdig mekanistisk koppling mellan vankomycins antibakteriella verkan och sjukdomens patologi. Den höga poängen beror sannolikt på samband i modellens kunskapsgraf och inte på verklig biologisk plausibilitet.
+**Förutsägelsen är i praktiken inte rimlig.** Diffus skleroderma är en autoimmun, fibrotisk sjukdom och ingen bakteriell infektion. Det finns därför ingen trovärdig mekanistisk koppling mellan vankomycins antibakteriella verkan och sjukdomens patologi.
 
 Av de tio högst rankade förutsägelserna är **streptokockpneumoni** den enda som är biologiskt rimlig, eftersom vankomycin verkar mot grampositiva streptokocker. Det är emellertid en befintlig antibakteriell användning och inte någon verklig läkemedelsåteranvändning. Flera förutsägelser gäller dessutom gramnegativa Salmonella-infektioner (tyfoidfeber, paratyfoid, salmonellos), där vankomycin är verkningslöst eftersom det inte kan ta sig igenom bakteriens yttre membran.
 

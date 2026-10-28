@@ -40,7 +40,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 
 ### Sammanfattning
 
-Apixaban är en direkt faktor Xa-hämmare (blodförtunnande läkemedel). Någon godkänd ursprunglig indikation finns inte angiven i de data som sammanställts för denna rapport. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **migrän** med ett mycket högt modellvärde (99,0 %), men det finns bara **1 klinisk prövning** (som inte direkt undersöker migrän) och **3 publikationer** (två fallrapporter med motstridiga resultat samt en retrospektiv studie). Evidensen är därför svag.
+Apixaban är en direkt faktor Xa-hämmare (blodförtunnande läkemedel). Någon godkänd ursprunglig indikation finns inte angiven i de data som sammanställts för denna rapport. TxGNN-modellen (deep learning) förutsäger att läkemedlet kan vara effektivt mot **migrän** med ett mycket högt modellvärde (0,9902), men det finns bara **1 klinisk prövning** (som inte direkt undersöker migrän) och **3 publikationer** (två fallrapporter med motstridiga resultat samt en retrospektiv studie). Evidensen är därför svag.
 
 ---
 
@@ -50,9 +50,9 @@ Apixaban är en direkt faktor Xa-hämmare (blodförtunnande läkemedel). Någon 
 |------|------|
 | Ursprunglig indikation | Ingen indikationstext tillgänglig i godkännandedata |
 | Förutsagd ny indikation | Migrän (migraine disorder) |
-| TxGNN-förutsägelsepoäng | 99,0 % |
+| TxGNN-förutsägelsepoäng | 0,9902 |
 | Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 

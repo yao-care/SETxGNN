@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Norethisterone
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 319
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Norethisterone: predikterad ny indikation Amenorré (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i det svenska godkännandet. Enligt kunska…"
 monitor_inn: "norethisterone"
 predicted_indications: ["amenorrhea (disease)"]
+description: "Norethisterone: predikterad ny indikation Amenorré (amenorrhea (disease)) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Norethisterone
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **1** st
+Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Norethisteron: Från akne och endometrios till amenorré
+## Norethisterone: Amenorré (amenorrhea (disease))
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Norethisteron är ett syntetiskt gestagen (könshormon av progesterontyp). Det h
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns i det svenska godkännandet. Enligt kunskapsgrafen: akne, primär ovarialsvikt, endometrios, postmenopausal osteoporos och postmenopausal atrofisk vaginit |
-| Förutsagd ny indikation | Amenorré |
-| TxGNN-förutsägelsepoäng | 99,6 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Amenorré (amenorrhea (disease)) |
+| TxGNN-förutsägelsepoäng | 0.9960 |
 | Evidensnivå | L4 (endast indirekt stöd från mekanismstudier och översikter, inga prövningar) |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -99,7 +99,7 @@ Merparten av litteraturen beskriver amenorré som en **biverkning** av norethist
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 8626 | Mini-Pe (Pfizer AB) | Tablett | Ingen indikationstext registrerad. Status: återkallat |
+| 8626 | Mini-Pe (Pfizer AB) | Tablett | Ingen indikationstext registrerad. Status: godkänt |
 
 ---
 

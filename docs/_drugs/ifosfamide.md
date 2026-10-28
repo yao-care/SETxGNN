@@ -50,10 +50,10 @@ Ifosfamid (varumärket Holoxan) är ett alkylerande cytostatikum som används vi
 |------|------|
 | Ursprunglig indikation | Alkylerande cytostatika vid cancer (indikationstext saknas i de svenska licenserna) |
 | Förutsagd ny indikation | Bröstcancer hos kvinnor (female breast carcinoma) |
-| TxGNN-förutsägelsepoäng | 99,9 % |
-| Evidensnivå | L3 (fas 2-studier, kohortstudier och översikter; ingen avslutad randomiserad fas 2/3-studie vid bröstcancer) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 4 (alla indragna) |
+| TxGNN-förutsägelsepoäng | 0,9991 |
+| Evidensnivå | L5 (fas 2-studier, kohortstudier och översikter; ingen avslutad randomiserad fas 2/3-studie vid bröstcancer) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

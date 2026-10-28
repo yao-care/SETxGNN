@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 50
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Bacitracin: predikterad ny indikation Punktformad epitelial keratokonjunktivit (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i det svenska godkännandet. Kunskapsgra…"
 monitor_inn: "BACITRACIN"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "infective urethral stricture", "post-infectious syndrome", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy"]
+last_modified_at: 2026-10-27
+description: "Bacitracin: predikterad ny indikation Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgiftern"
 ---
 
 # Bacitracin
@@ -33,83 +33,86 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Bacitracin: Från keratit, keratokonjunktivit och blefarokonjunktivit till punktformad epitelial keratokonjunktivit
+## Bacitracin: polypeptidantibiotikum för lokal användning → Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ---
 
-## Sammanfattning
+### Sammanfattning
 
-Bacitracin är ett antibiotikum med lokal verkan (polypeptid) som i kunskapsgrafen är kopplat till behandling av keratit, keratokonjunktivit och blefarokonjunktivit. TxGNN-modellen förutsäger att det kan vara effektivt mot **punktformad epitelial keratokonjunktivit**, med en mycket hög modellpoäng (**99,999 %**). Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder just denna riktning, så förutsägelsen vilar enbart på modellen.
+Bacitracin är ett polypeptidantibiotikum för lokal användning som hämmar bakteriers cellväggssyntes. TxGNN-modellen förutsäger att det kan vara effektivt mot **punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis)**. För denna förutsägelse finns **inga kliniska prövningar** och **ingen publicerad litteratur** i de data som sammanställts för rapporten, så underlaget består enbart av modellens förutsägelse.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext angiven i det svenska godkännandet. Kunskapsgrafen anger keratit, keratokonjunktivit och blefarokonjunktivit |
-| Förutsägd ny indikation | Punktformad epitelial keratokonjunktivit |
-| TxGNN-förutsägelsepoäng | 99,999 % |
-| Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis) |
+| TxGNN-förutsägelsepoäng | 1,0000 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för denna rapport. Baserat på allmänt känd information är bacitracin ett lokalt verkande polypeptidantibiotikum som hämmar bakteriers cellväggssyntes. Dess effekt vid bakteriella ögoninfektioner är känd, och mekanistiskt kan det vara tillämpbart på punktformad epitelial keratokonjunktivit.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda data. Baserat på känd information hämmar bacitracin bakteriers cellväggssyntes och används lokalt mot bakteriella infektioner. Mekanistiskt kan det därför vara tillämpbart på ögonytans bakteriella infektioner.
 
-Sjukdomen ligger nära de ursprungliga indikationerna, eftersom den också drabbar hornhinna och bindhinna. Det är den främsta orsaken till att modellen ger en så hög poäng.
-
-Det finns en viktig begränsning: punktformad epitelial keratokonjunktivit orsakas ofta av virus eller icke-infektiösa faktorer. Ett antibakteriellt läkemedel är då bara relevant om det finns en bakteriell komponent. Förutsägelsen bör därför tolkas försiktigt.
+Punktformad epitelial keratokonjunktivit är dock ofta virusorsakad eller icke-infektiös. Bacitracin är därför relevant främst om en bakteriell komponent förekommer, till exempel vid sekundär infektion av ett skadat hornhinneepitel. Den mycket höga modellpoängen har inget stöd av prövningar eller publikationer, så förutsägelsen bör ses som en hypotes.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Marknadsinformation Sverige
+### Litteraturbevis
+
+Ingen relaterad litteratur tillgänglig för närvarande.
+
+---
+
+### Marknadsinformation Sverige
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 57835 | Mekostest 36 | Plåster för provokationstest | Ingen indikationstext angiven (status: indragen) |
+| 57835 | Mekostest 36 | Plåster för provokationstest | Ej angiven |
+
+Observera att den enda registrerade produkten är ett plåster för provokationstest (diagnostiskt) och inte en behandlingsprodukt för ögonsjukdom.
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-Uppgifter från produktresumén om varningar och kontraindikationer saknas i det underlag som sammanställts. Se produktresumén för säkerhetsinformation.
+- **Läkemedelsinteraktioner**: Totalt 84 interaktioner är registrerade. De viktigaste med allvarlig (Major) nivå är:
+  - Aminoglykosider: kanamycin, neomycin, streptomycin
+  - Deferasirox
+  - Jodhaltiga kontrastmedel: diatrizoat, iodipamid, iodixanol, iohexol
 
-Följande framgår av kunskapsgrafen och är inte hämtat från produkttext:
+  Flera ytterligare interaktioner av måttlig nivå är registrerade, bland annat med mesalazin, balsalazid, olsalazin, sulfasalazin, exenatid, vankomycin och pikosulfat.
 
-- **Sjukdomar som kunskapsgrafen anger som kontraindikationer** (urval): njursjukdom, leversjukdom, myasthenia gravis och andra sjukdomar i neuromuskulära synapsen, epilepsi, diabetes, binjurebarksinsufficiens, glaukom och okulär hypertension, herpes simplex-keratit, samt virala och svampinfektioner i ögat. Även AV-block och perifer kärlsjukdom förekommer. Dessa kopplingar bör verifieras mot officiell produktinformation innan de används i beslut.
-- **Läkemedelsinteraktioner**: totalt 84 interaktioner är registrerade. De allvarligaste (nivå Major) gäller:
-  - aminoglykosider: kanamycin, neomycin, streptomycin
-  - deferasirox
-  - jodhaltiga kontrastmedel: diatrizoat, iodipamid, iodixanol, iohexol
-
-  Flera ytterligare interaktioner har måttlig allvarlighetsgrad, bland annat med mesalazin, balsalazid, olsalazin, sulfasalazin, exenatid, vankomycin och pikosulfat.
+Se produktresumén för övrig säkerhetsinformation, eftersom varnings- och kontraindikationstext saknas i de sammanställda data.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen har högsta möjliga modellpoäng men saknar helt stöd i kliniska prövningar och litteratur (evidensnivå L5). Dessutom är sjukdomen ofta virusorsakad, vilket gör en antibakteriell mekanism osäker.
+- Förutsägelsen saknar helt stöd av kliniska prövningar och litteratur (evidensnivå L5), och sjukdomen är ofta icke-bakteriell, vilket begränsar den mekanistiska relevansen.
 
 **För att gå vidare krävs:**
-- Dokumenterad verkningsmekanism och beredningsform lämplig för ögonbruk
-- Uppgifter från produktresumén om varningar och kontraindikationer (för närvarande saknas)
-- Litteraturgenomgång och i förekommande fall prekliniska eller kliniska studier som visar nytta vid punktformad epitelial keratokonjunktivit med bakteriell komponent
-- Klargörande av marknadssituationen i Sverige, eftersom det enda registrerade godkännandet är indraget och gäller en produkt för provokationstest, inte ett läkemedel för ögonbehandling
+- Kliniska eller prekliniska studier som direkt undersöker bacitracin vid punktformad epitelial keratokonjunktivit
+- Information om verkningsmekanism och produktresumé med varningar och kontraindikationer
+- Bedömning av om en bakteriell komponent ligger bakom sjukdomsbilden i aktuell patientgrupp
+- Kontroll av tillgänglighet av en lämplig beredningsform för ögonbehandling i Sverige
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

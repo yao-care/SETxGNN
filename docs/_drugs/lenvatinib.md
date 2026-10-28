@@ -4,17 +4,17 @@ title: Lenvatinib
 parent: Hög evidens (L1-L2)
 nav_order: 257
 evidence_level: L2
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Lenvatinib: predikterad ny indikation Liposarkom (evidensnivå L2). Ursprunglig indikation: Njurcellscancer och sköldkörtelcancer (enligt kunskapsgrafen"
 monitor_inn: "lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
+description: "Lenvatinib: predikterad ny indikation Liposarkom (liposarcoma) (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Lenvatinib
 {: .fs-9 }
 
-Evidensnivå: **L2** | Förutsagda indikationer: **10** st
+Evidensnivå: **L2** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L2** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Lenvatinib: Från njurcellscancer och sköldkörtelcancer till liposarkom
+## Lenvatinib: Liposarkom (liposarcoma)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Lenvatinib är en multikinashämmare (tyrosinkinashämmare) som ursprungligen an
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Njurcellscancer och sköldkörtelcancer (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Liposarkom |
-| TxGNN-förutsägelsepoäng | 99,5 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Liposarkom (liposarcoma) |
+| TxGNN-förutsägelsepoäng | 0.9951 |
 | Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 10 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
+| Antal godkännanden | 10 (giltiga: 10) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

@@ -6,9 +6,9 @@ nav_order: 374
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Raloxifene: predikterad ny indikation Duodenalsår (duodenal ulcer) (evidensnivå L5). Ursprunglig indikation: Postmenopausal osteoporos (enligt TxGNN-kunskapsgrafen"
 monitor_inn: "raloxifene"
 predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux"]
+description: "Raloxifene: predikterad ny indikation Duodenal ulcer (disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Raloxifene
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-## Raloxifen: Från postmenopausal osteoporos till duodenalsår
+## Raloxifene: Duodenal ulcer (disease)
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Raloxifen är en selektiv östrogenreceptormodulator (SERM) som ursprungligen användes för behandling av postmenopausal osteoporos. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **duodenalsår**, med mycket hög modellpoäng (**99,7 %**). I de data som sammanställts för denna rapport finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, så den vilar enbart på en modellberäkning.
+Raloxifen är en selektiv östrogenreceptormodulator (SERM) som ursprungligen användes för behandling av postmenopausal osteoporos. I de data som sammanställts för denna rapport finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, så den vilar enbart på en modellberäkning.
 
 ---
 
@@ -48,12 +48,12 @@ Raloxifen är en selektiv östrogenreceptormodulator (SERM) som ursprungligen an
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Postmenopausal osteoporos (enligt TxGNN-kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Duodenalsår (duodenal ulcer) |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Duodenal ulcer (disease) |
+| TxGNN-förutsägelsepoäng | 0.9972 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 2 (båda avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 Något väletablerat samband mellan denna mekanism och duodenalsår har inte kunnat identifieras. Duodenalsår orsakas framför allt av *Helicobacter pylori*-infektion, syrasekretion och nedsatt slemhinneskydd, och inga kända mekanismer kopplar SERM-aktivitet till dessa processer.
 
-Den höga poängen speglar sannolikt närhet i kunskapsgrafen snarare än en terapeutisk logik. Förutsägelsen bör därför ses som en hypotes att granska, inte som ett underlag för behandling.
+Förutsägelsen bör därför ses som en hypotes att granska, inte som ett underlag för behandling.
 
 Bland övriga förutsägelser finns **hypoalfalipoproteinemi** (låg HDL-nivå), där en möjlig men obekräftad koppling via lipidpåverkan finns. Även för denna saknas kliniska data.
 
@@ -74,8 +74,8 @@ Bland övriga förutsägelser finns **hypoalfalipoproteinemi** (låg HDL-nivå),
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 44938 | Raloxifen STADA | Filmdragerad tablett | Avregistrerad |
-| 59656 | Raloxifen Ebb | Filmdragerad tablett | Avregistrerad |
+| 44938 | Raloxifen STADA | Filmdragerad tablett | Godkänd |
+| 59656 | Raloxifen Ebb | Filmdragerad tablett | Godkänd |
 
 Båda godkännandena är för oral användning och avregistrerade, så läkemedlet har för närvarande inget giltigt godkännande i Sverige.
 

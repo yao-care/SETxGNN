@@ -4,17 +4,17 @@ title: Palonosetron
 parent: Måttlig evidens (L3-L4)
 nav_order: 336
 evidence_level: L4
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Palonosetron: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L4). Ursprunglig indikation: Ej angiven i tillgängliga data"
 monitor_inn: "palonosetron"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Palonosetron
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **5** st
+Evidensnivå: **L4** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **5** st
 
 ### Sammanfattning
 
-Palonosetron är en 5-HT3-receptorantagonist. Den ursprungliga indikationen finns inte angiven i de data som har sammanställts för denna rapport, men substansen används i regel mot illamående och kräkningar. TxGNN-modellen förutsäger att palonosetron kan vara effektivt mot **migrän** (poäng 99,7 %), men det finns **inga kliniska prövningar** och bara **en fallrapport**, som dessutom beskriver att palonosetron *orsakar* migränliknande huvudvärk. Evidensen för förutsägelsen är därför mycket svag.
+Palonosetron är en 5-HT3-receptorantagonist. Den ursprungliga indikationen finns inte angiven i de data som har sammanställts för denna rapport, men substansen används i regel mot illamående och kräkningar. TxGNN-modellen (deep learning) förutsäger att palonosetron kan vara effektivt mot **migrän** (poäng 0,9974), men det finns **inga kliniska prövningar** och bara **en fallrapport**, som dessutom beskriver att palonosetron *orsakar* migränliknande huvudvärk. Evidensen för förutsägelsen är därför mycket svag.
 
 ---
 
@@ -50,10 +50,10 @@ Palonosetron är en 5-HT3-receptorantagonist. Den ursprungliga indikationen finn
 |------|------|
 | Ursprunglig indikation | Ej angiven i tillgängliga data |
 | Förutsagd ny indikation | Migrän (migraine disorder) |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| TxGNN-förutsägelsepoäng | 0,9974 |
 | Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 6 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
 
 ---

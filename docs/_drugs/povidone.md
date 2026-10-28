@@ -6,9 +6,9 @@ nav_order: 358
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Povidone: predikterad ny indikation Medfödd ichtyosiform erytrodermi (evidensnivå L5). Ursprunglig indikation: Torra ögon (xeroftalmi). Godkännandetexten saknas i de svenska uppgif…"
 monitor_inn: "povidone"
 predicted_indications: ["congenital ichthyosiform erythroderma"]
+description: "Povidone: predikterad ny indikation Congenital ichthyosiform erythroderma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Povidone
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Povidon: Från torrt öga till medfödd ichtyosiform erytrodermi
+## Povidone: Congenital ichthyosiform erythroderma
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Povidon är en hydrofil polymer som ursprungligen användes vid behandling av to
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Torra ögon (xeroftalmi). Godkännandetexten saknas i de svenska uppgifterna; indikationen kommer från modellens kunskapsgraf |
-| Förutsagd ny indikation | Medfödd ichtyosiform erytrodermi |
-| TxGNN-förutsägelsepoäng | 99,1 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Congenital ichthyosiform erythroderma |
+| TxGNN-förutsägelsepoäng | 0.9911 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 4 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---

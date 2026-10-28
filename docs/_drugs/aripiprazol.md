@@ -8,6 +8,7 @@ nav_order: 22
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-05-04
+predicted_indications: []
 ---
 
 # Aripiprazol
@@ -47,7 +48,7 @@ Aripiprazole (INN: ARIPIPRAZOL) is a well-known atypical antipsychotic widely us
 | Predicted New Indication | None — TxGNN prediction not yet run or returned no results |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (no evidence available) |
-| Sweden Market Status | Not marketed |
+| Sweden Market Status | Marknadsförd (giltiga godkännanden: minst 20) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 

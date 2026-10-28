@@ -8,6 +8,7 @@ nav_order: 20
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-05-04
+predicted_indications: []
 ---
 
 # Apremilast

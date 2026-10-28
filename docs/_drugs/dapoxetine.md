@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Dapoxetine
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 123
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Dapoxetine: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L4). Ursprunglig indikation: Prematur ejakulation"
@@ -14,7 +14,7 @@ predicted_indications: ["migraine disorder", "dysthymic disorder", "migraine wit
 # Dapoxetine
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **3** st
+Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **3** st
 
 ### Sammanfattning
 
-Dapoxetin är en kortverkande selektiv serotoninåterupptagshämmare (SSRI) som ursprungligen användes för att behandla prematur ejakulation (och psykologiskt betingad dyspareuni enligt kunskapsgrafen). TxGNN-modellen förutsäger att det kan vara effektivt mot **migrän** (migraine disorder), men det finns **inga kliniska prövningar** och **2 publikationer** (en översikt och en kohortstudie) som endast indirekt berör frågan. Förutsägelsen bygger därmed i praktiken på modellen och på klassresonemang kring SSRI.
+Dapoxetin är en kortverkande selektiv serotoninåterupptagshämmare (SSRI) som ursprungligen användes för att behandla prematur ejakulation. TxGNN-modellen (deep learning) förutsäger att det kan vara effektivt mot **migrän** (migraine disorder), med poängen 0.9934. Poängen kommer från modellen och kan spegla likheter som modellen lärt sig mellan relaterade sjukdomar, inte biologisk evidens. Det finns **inga kliniska prövningar** och **2 publikationer** (en översikt och en kohortstudie) som endast indirekt berör frågan. Förutsägelsen bygger därmed i praktiken på modellen och på klassresonemang kring SSRI.
 
 ---
 
@@ -50,10 +50,10 @@ Dapoxetin är en kortverkande selektiv serotoninåterupptagshämmare (SSRI) som 
 |------|------|
 | Ursprunglig indikation | Prematur ejakulation (godkänd indikationstext saknas i licensdata) |
 | Förutsagd ny indikation | Migrän (migraine disorder) |
-| TxGNN-förutsägelsepoäng | 99,3 % |
-| Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
+| TxGNN-förutsägelsepoäng | 0,9934 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Serotonin är inblandat i migränens patofysiologi, bland annat i aktiveringen av det trigeminovaskulära systemet och i kortikal spridande depression. Det är därför rimligt att en substans som påverkar serotoninsignalering kan ha en effekt. Kopplingen gäller dock hela SSRI-klassen och är indirekt. Det finns inga dapoxetinspecifika migrändata.
 
-Dapoxetin är dessutom utformat för behovsstyrd användning och har en mycket kort halveringstid. Det passar sämre för långvarig, förebyggande behandling, som ofta är aktuell vid migrän. Den höga poängen (0,993) är en datorberäknad förutsägelse och ska inte tolkas som kliniskt bevis.
+Dapoxetin är dessutom utformat för behovsstyrd användning och har en mycket kort halveringstid. Det passar sämre för långvarig, förebyggande behandling, som ofta är aktuell vid migrän. Den höga poängen (0,9934) är en datorberäknad förutsägelse och ska inte tolkas som kliniskt bevis.
 
 ---
 
@@ -101,7 +101,7 @@ Som SSRI bör dapoxetin hanteras med särskild försiktighet vid samtidig använ
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för migrän bygger enbart på modellen och på ett indirekt klassresonemang kring SSRI. Det finns inga kliniska prövningar, ingen dapoxetinspecifik litteratur, inga giltiga godkännanden i Sverige och ofullständiga säkerhetsdata.
+- Förutsägelsen för migrän bygger enbart på modellen och på ett indirekt klassresonemang kring SSRI. Det finns inga kliniska prövningar, ingen dapoxetinspecifik litteratur och ofullständiga säkerhetsdata. Läkemedlet är marknadsfört i Sverige med 2 giltiga godkännanden av 2.
 
 **För att gå vidare krävs:**
 - Säkerhetsinformation (varningar och kontraindikationer) från produktresumén hos Läkemedelsverket

@@ -6,9 +6,9 @@ nav_order: 242
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Ivermectin: predikterad ny indikation Vulvovaginal candidiasis (evidensnivå L5). Ursprunglig indikation: Strongyloidiasis, onkocerkos (enligt kunskapsgrafen"
 monitor_inn: "ivermectin"
 predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "anogenital human papillomavirus infection", "vulvovaginitis", "neonatal candidiasis", "candida glabrata", "congenital candidiasis", "postmenopausal atrophic vaginitis", "candidiasis, invasive"]
+description: "Ivermectin: predikterad ny indikation Vulvovaginal candidiasis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ivermectin
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-## Ivermektin: Från strongyloidiasis och onkocerkos till vulvovaginal candidiasis
+## Ivermectin: Vulvovaginal candidiasis
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Ivermektin används ursprungligen mot parasitinfektioner, främst strongyloidias
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Strongyloidiasis, onkocerkos (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Vulvovaginal candidiasis |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| TxGNN-förutsägelsepoäng | 0.9995 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 13 (samtliga avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 13 av 13) |
+| Antal godkännanden | 13 (giltiga: 13) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Ivermektin används ursprungligen mot parasitinfektioner, främst strongyloidias
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för rapporten. Det som är allmänt känt är att ivermektin är ett antiparasitärt läkemedel som verkar på glutamatstyrda kloridkanaler hos ryggradslösa djur. Dessa kanaler är inte ett etablerat mål för svampmedel hos Candida.
 
-Sambandet mellan den ursprungliga indikationen (parasitinfektioner) och den nya (svampinfektion i slidan) är svagt. Förutsägelsen speglar sannolikt mönster i kunskapsgrafen, till exempel att ivermektinkräm används mot hudsjukdomar, och inte en påvisad farmakologisk grund. Modellens höga poäng (0,9995) bör därför inte tolkas som tecken på verklig effekt.
+Sambandet mellan den ursprungliga indikationen (parasitinfektioner) och den nya (svampinfektion i slidan) är svagt. Poängen kommer från TxGNN-modellen (djupinlärning) och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, till exempel att ivermektinkräm används mot hudsjukdomar, och inte en påvisad farmakologisk grund. Modellens höga poäng (0,9995) bör därför inte tolkas som tecken på verklig effekt.
 
 Andra förutsagda indikationer, som esofageal candidiasis, anogenital HPV-infektion och vulvovaginit, saknar likaså stöd i data.
 
@@ -112,7 +112,7 @@ Se produktresumén för fullständiga varningar och kontraindikationer.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en grafbaserad modell. Inga studier, ingen litteratur och ingen känd antifungal mekanism stöder den, och alla godkännanden i Sverige är avregistrerade.
+- Förutsägelsen bygger enbart på TxGNN-modellen (djupinlärning). Inga studier, ingen litteratur och ingen känd antifungal mekanism stöder den. Läkemedlet är marknadsfört i Sverige, och 13 av 13 godkännanden är giltiga.
 - De enstaka publikationer som hittats för andra förutsagda indikationer (PMID 35835488 om strongyloidiasis och PMID 10098288 om skabb) handlar om andra sjukdomar och utgör inte evidens för candidiasis.
 
 **För att gå vidare krävs:**

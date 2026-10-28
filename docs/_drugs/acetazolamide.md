@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 13
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Acetazolamide: predikterad ny indikation Exercise-inducerad malign hypertermi (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. Enligt kunska…"
 monitor_inn: "acetazolamide"
 predicted_indications: ["exercise-induced malignant hyperthermia", "hypertrophic cardiomyopathy", "congenital myopathy with excess of thin filaments", "hypertrophic cardiomyopathy due to intensive athletic training", "distal myopathy, Tateyama type", "cirrhotic cardiomyopathy", "cardiomyopathy", "intestinal obstruction", "glycogen storage disease due to acid maltase deficiency, late-onset", "unclassified intestinal pseudoobstruction"]
+last_modified_at: 2026-10-27
+description: "Acetazolamide: predikterad ny indikation Arbetsutlöst malign hypertermi (exercise-induced malignant hyperthermia) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Acetazolamide
@@ -33,89 +33,89 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Acetazolamid: Från absensepilepsi till exercise-inducerad malign hypertermi
+## Acetazolamid: Karbanhydrashämmare → Arbetsutlöst malign hypertermi (exercise-induced malignant hyperthermia)
 {: .text-alpha }
 
----
+## Sammanfattning
 
-### Sammanfattning
-
-Acetazolamid är en karbanhydrashämmare som ursprungligen användes vid bland annat absensepilepsi, hjärtsvikt, glaukom och höjdsjuka. TxGNN-modellen förutsäger att det kan vara effektivt mot **exercise-inducerad malign hypertermi**, men förutsägelsen bygger enbart på en grafmodell: **0 kliniska prövningar** och **0 publikationer** stöder den för närvarande. Evidensen är därför mycket svag.
+Acetazolamid är en karbanhydrashämmare. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **arbetsutlöst malign hypertermi (exercise-induced malignant hyperthermia)**. För denna förutsägelse finns **inga kliniska prövningar** och **ingen publicerad litteratur** i de data som sammanställts för rapporten, så stödet utgörs enbart av modellens förutsägelse.
 
 ---
 
-### Snabböversikt
+## Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: absensepilepsi, hjärtsvikt, öppenvinkelglaukom, trångvinkelglaukom och höjdsjuka |
-| Förutsagd ny indikation | Exercise-inducerad malign hypertermi |
-| TxGNN-förutsägelsepoäng | 99,95 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Arbetsutlöst malign hypertermi (exercise-induced malignant hyperthermia) |
+| TxGNN-förutsägelsepoäng | 0,9995 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 7 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
+| Antal godkännanden | 7 (giltiga: 7) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-### Varför är denna förutsägelse rimlig?
+## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för denna rapport. Det är allmänt känt att acetazolamid hämmar enzymet karbanhydras, vilket påverkar syra-bas-balansen och jonhanteringen i bland annat njurar, ögon och muskler.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Acetazolamid hämmar enzymet karbanhydras, vilket påverkar syra–bas-balansen och jon- och vätskehanteringen i kroppen.
 
-En tänkbar men obekräftad koppling är att karbanhydrashämning kan påverka syra-bas-balans och jontransport i muskler. Acetazolamid används vid vissa periodiska förlamningar, vilket ger ett visst biologiskt resonemang. Det finns dock inga belägg för effekt vid malign hypertermi.
+En möjlig men obekräftad koppling är att karbanhydrashämning kan påverka syra–bas-balans och jonhantering i muskelvävnad. Acetazolamid används vid vissa periodiska förlamningar, men det finns inget stöd för användning vid malign hypertermi.
 
-Det finns också en betydande oro: acetazolamid kan förvärra metabol acidos, vilket är ett problem under en hypermetabol kris. Den höga poängen speglar sannolikt närhet i kunskapsgrafen snarare än en verklig behandlingseffekt.
+Det finns dessutom en teoretisk oro: läkemedlet kan förvärra metabol acidos under en hypermetabol kris. Förutsägelsen bör därför ses som en hypotes från en beräkningsmodell, inte som en klinisk indikation.
 
 ---
 
-### Kliniska prövningar
+## Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-### Marknadsinformation Sverige
+## Litteraturbevis
 
-Samtliga sju godkännanden är indragna och inget har en registrerad indikationstext.
+Ingen relaterad litteratur tillgänglig för närvarande.
+
+---
+
+## Marknadsinformation Sverige
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 58997 | Diamox (Abboxia AB) | Pulver till injektionsvätska, lösning | Ingen indikationstext registrerad |
-| 64710 | Diamox (Orifarm AB) | Pulver till injektionsvätska, lösning | Ingen indikationstext registrerad |
-| 4972 | Diamox (Amdipharm Limited) | Pulver till injektionsvätska, lösning | Ingen indikationstext registrerad |
-| 52966 | Diamox (Orifarm AB) | Pulver till injektionsvätska, lösning | Ingen indikationstext registrerad |
-| 64540 | Diamox (Orifarm AB) | Pulver till injektionsvätska, lösning | Ingen indikationstext registrerad |
+| 58997 | Diamox | Pulver till injektionsvätska, lösning | Ej angiven i lokala data |
+| 64710 | Diamox | Pulver till injektionsvätska, lösning | Ej angiven i lokala data |
+| 4972 | Diamox | Pulver till injektionsvätska, lösning | Ej angiven i lokala data |
+| 52966 | Diamox | Pulver till injektionsvätska, lösning | Ej angiven i lokala data |
+| 64540 | Diamox | Pulver till injektionsvätska, lösning | Ej angiven i lokala data |
 
-Utöver dessa finns ytterligare två indragna godkännanden: tablett (4971, Amdipharm Limited) och pulver till injektionsvätska (60531, Ebb Medical AB).
-
----
-
-### Säkerhetsaspekter
-
-- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumén): leversvikt och leversjukdom, njursjukdom, hematologisk sjukdom, gallblåsesjukdom, gikt, typ 1- och typ 2-diabetes, diabetisk ketoacidos, andningssvikt, binjurebarksinsufficiens (inklusive Addisons sjukdom och kongenital binjurehyperplasi) samt renal tubulär acidos.
-- **Läkemedelsinteraktioner**: 165 interaktioner är registrerade. Bland de viktigaste:
-  - **Allvarliga**: acetylsalicylsyra och cisaprid.
-  - **Måttliga**: diabetesläkemedel (t.ex. akarbos, acetohexamid, alogliptin, kanagliflozin, dapagliflozin, klorpropamid, albiglutid, dulaglutid), kortikosteroider (betametason, dexametason, beklometason), amfotericin B-preparat samt laxermedel (bisakodyl, ricinolja).
-  - **Lindrig**: doxycyklin.
-- **Signaler från litteraturen för relaterade tillstånd**: acetazolamid har rapporterats orsaka adynamisk ileus och i ett fall icke-kardiogent lungödem efter intravenös tillförsel. Vid cirros finns risk för hyperammonemi och leverencefalopati.
-
-Produktresumén med varningar och kontraindikationer har inte kunnat hämtas, så se den för fullständig säkerhetsinformation.
+Dessa fem är ett urval av de sju registrerade godkännandena (ytterligare en injektionsberedning och en tablett finns).
 
 ---
 
-### Slutsats och nästa steg
+## Säkerhetsaspekter
+
+- **Läkemedelsinteraktioner**: Totalt 165 interaktioner är registrerade. Bland de som redovisats finns:
+  - **Allvarlig (Major)**: acetylsalicylsyra, cisaprid
+  - **Måttlig (Moderate)**: antidiabetika (t.ex. acarbose, acetohexamid, albiglutid, alogliptin, kanagliflozin, dapagliflozin, klorpropamid, dulaglutid), amfotericin B (flera former), kortikosteroider (beklometason, betametason, dexametason), laxermedel (bisakodyl, ricinolja)
+  - **Lindrig (Minor)**: doxycyklin
+- **Särskilda risker kopplade till de förutsagda indikationerna**: Fallrapporter beskriver acetazolamidinducerad adynamisk ileus, och teoretiskt kan läkemedlet förvärra metabol acidos vid en hypermetabol kris.
+
+Se produktresumén för fullständig säkerhetsinformation om varningar och kontraindikationer.
+
+---
+
+## Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen saknar helt stöd från kliniska prövningar och litteratur (L5), och det finns en tänkbar säkerhetsrisk, bland annat förvärrad metabol acidos under en hypermetabol kris. Dessutom är samtliga svenska godkännanden indragna.
+- Förutsägelsen bygger enbart på en beräkningsmodell (poäng 0,9995) utan stödjande kliniska prövningar eller litteratur, och en teoretisk säkerhetsoro finns vid hypermetabol acidos.
 
 **För att gå vidare krävs:**
-- Hämta och granska produktresumén för varningar och kontraindikationer (blockerande dataluckan).
-- Komplettera data om verkningsmekanismen, till exempel från DrugBank.
-- Genomföra prekliniska studier eller en systematisk litteratursökning om karbanhydrashämning vid malign hypertermi.
-- Bedöma kliniskt behov och tillgänglig beredningsform, eftersom inga godkännanden är aktiva i Sverige.
-- Notera att förutsägelser på rang 2–10 (bland annat hypertrofisk kardiomyopati och kardiomyopati) inte heller har tillräcklig evidens. Tarmobstruktion har dessutom ett säkerhetssignal mot användning.
+- Dokumentation av verkningsmekanismen och en tydlig mekanistisk koppling till malign hypertermi
+- Prekliniska studier eller publicerade fallserier som direkt studerar sjukdomen
+- Granskning av produktresumén avseende varningar och kontraindikationer
+- Bedömning av säkerhet vid acidos och i relation till de registrerade läkemedelsinteraktionerna
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -4,17 +4,17 @@ title: Pimecrolimus
 parent: Hög evidens (L1-L2)
 nav_order: 351
 evidence_level: L2
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Pimecrolimus: predikterad ny indikation Seborroisk dermatit (evidensnivå L2). Ursprunglig indikation: Atopiskt eksem / atopisk dermatit (enligt kunskapsgrafen"
 monitor_inn: "pimecrolimus"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
+description: "Pimecrolimus: predikterad ny indikation Seborrheic dermatitis (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Pimecrolimus
 {: .fs-9 }
 
-Evidensnivå: **L2** | Förutsagda indikationer: **4** st
+Evidensnivå: **L2** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L2** | Förutsagda indikationer: **4** st
 
 </div>
 
-## Pimecrolimus: Från atopiskt eksem till seborroisk dermatit
+## Pimecrolimus: Seborrheic dermatitis
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Pimecrolimus (Elidel) är en topikal kalcineurinhämmare som ursprungligen anvä
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Atopiskt eksem / atopisk dermatit (enligt kunskapsgrafen; indikationstext saknas i det svenska godkännandet) |
-| Förutsagd ny indikation | Seborroisk dermatit |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Seborrheic dermatitis |
+| TxGNN-förutsägelsepoäng | 0.9973 |
 | Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Endast annullerade godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

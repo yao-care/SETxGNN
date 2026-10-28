@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Daptomycin
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 124
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Daptomycin: predikterad ny indikation Osteoartrit (evidensnivå L4). Ursprunglig indikation: Ingen indikationstext angiven i de svenska godkännandena (daptomycin…"
 monitor_inn: "DAPTOMYCIN"
-predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "osteoarthritis susceptibility", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
+predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
+description: "Daptomycin: predikterad ny indikation Osteoarthritis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Daptomycin
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Daptomycin: Från bakteriella infektioner till osteoartrit
+## Daptomycin: Osteoarthritis
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Daptomycin är ett cykliskt lipopeptidantibiotikum som används mot infektioner 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext angiven i de svenska godkännandena (daptomycin används generellt mot infektioner med grampositiva bakterier) |
-| Förutsagd ny indikation | Osteoartrit |
-| TxGNN-förutsägelsepoäng | 99,86 % |
-| Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 17 (0 giltiga, 17 indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Osteoarthritis |
+| TxGNN-förutsägelsepoäng | 0.9986 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 17 av 17) |
+| Antal godkännanden | 17 (giltiga: 17) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Daptomycin är ett cykliskt lipopeptidantibiotikum som används mot infektioner 
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda data. Baserat på allmänt känd information är daptomycin ett cykliskt lipopeptid vars antibakteriella effekt bygger på att det stör bakteriernas cellmembran. Effekten mot grampositiva infektioner är väl belagd.
 
-Den höga TxGNN-poängen verkar mest spegla närhet i kunskapsgrafen mellan "ben- och ledinfektion" och "osteoartrit", inte ett verkligt terapeutiskt samband. Litteraturen som hittats rör daptomycin vid infektioner i leder och ben, till exempel protesinfektioner, och inte behandling av den degenerativa sjukdomen osteoartrit. Något mekanistiskt samband med osteoartrit stöds därför inte.
+Litteraturen som hittats rör daptomycin vid infektioner i leder och ben, till exempel protesinfektioner, och inte behandling av den degenerativa sjukdomen osteoartrit. Något mekanistiskt samband med osteoartrit stöds därför inte.
 
 Det finns en intressant sidolinje: för **reumatoid artrit** (förutsägelse nr 2) visar en prekliniks studie från 2025 att daptomycin minskade ledinflammation i en musmodell genom att dämpa inflammatoriska cytokiner och NF-κB-signalering. Det är dock enbart djurdata.
 
@@ -124,7 +124,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för osteoartrit bygger på kunskapsgrafens närhet mellan infektion och artros och saknar stöd i kliniska prövningar och i litteratur om faktisk behandling av osteoartrit. Dessutom är alla svenska godkännanden indragna, och muskelrelaterade biverkningar talar emot långvarig systemisk användning.
+- Dessutom är alla svenska godkännanden indragna, och muskelrelaterade biverkningar talar emot långvarig systemisk användning.
 
 **För att gå vidare krävs:**
 - Kompletterande verkningsmekanismdata och produktresumé med varningar och kontraindikationer (för närvarande saknas dessa).

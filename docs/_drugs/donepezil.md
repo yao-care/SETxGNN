@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Donepezil
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 149
-evidence_level: L3
+evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
-description: "Donepezil: predikterad ny indikation Kronisk tics-sjukdom (evidensnivå L3). Ursprunglig indikation: Alzheimers sjukdom (enligt TxGNN-kunskapsgrafen"
 monitor_inn: "donepezil"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
+description: "Donepezil: predikterad ny indikation Psychogenic movement disorders (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Donepezil
 {: .fs-9 }
 
-Evidensnivå: **L3** | Förutsagda indikationer: **8** st
+Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L3** | Förutsagda indikationer: **8** st
 
 </div>
 
-## Donepezil: Från Alzheimers sjukdom till kronisk tics-sjukdom
+## Donepezil: Psychogenic movement disorders
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Donepezil är en acetylkolinesterashämmare som ursprungligen används vid behandling av Alzheimers sjukdom. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **kronisk tics-sjukdom** (rang 2 av förutsägelserna; poäng 99,2 %). Evidensen utgörs av **5 publikationer** (en öppen pediatrisk studie, fallrapporter och prekliniska musstudier) och **inga registrerade kliniska prövningar**.
+Donepezil är en acetylkolinesterashämmare som ursprungligen används vid behandling av Alzheimers sjukdom. Evidensen utgörs av **5 publikationer** (en öppen pediatrisk studie, fallrapporter och prekliniska musstudier) och **inga registrerade kliniska prövningar**.
 
 Observera att förutsägelsen med högst poäng (psykogena rörelsestörningar) helt saknar stödjande studier. Därför har den förutsägelse som har mest evidens valts som huvudfokus i rapporten.
 
@@ -50,12 +50,12 @@ Observera att förutsägelsen med högst poäng (psykogena rörelsestörningar) 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Alzheimers sjukdom (enligt TxGNN-kunskapsgrafen; den svenska godkännandetexten saknas) |
-| Förutsagd ny indikation | Kronisk tics-sjukdom |
-| TxGNN-förutsägelsepoäng | 99,2 % |
-| Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 15 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Psychogenic movement disorders |
+| TxGNN-förutsägelsepoäng | 0.9923 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 15 av 15) |
+| Antal godkännanden | 15 (giltiga: 15) |
 | Rekommenderat beslut | Avvakta |
 
 ---

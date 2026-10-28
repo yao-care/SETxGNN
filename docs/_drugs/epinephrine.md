@@ -4,17 +4,17 @@ title: Epinephrine
 parent: Endast modellprediktion (L5)
 nav_order: 168
 evidence_level: L5
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Epinephrine: predikterad ny indikation Obstruktiv lungsjukdom (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns i svenska godkännandedata. Enligt…"
 monitor_inn: "epinephrine"
-predicted_indications: ["obstructive lung disease", "food-dependent exercise-induced anaphylaxis", "Rienhoff syndrome", "respiratory malformation"]
+predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
+description: "Epinephrine: predikterad ny indikation Obstructive lung disease (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Epinephrine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **4** st
+Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-## Epinefrin: Från öppenvinkelglaukom, bronkit och anafylaxi till obstruktiv lungsjukdom
+## Epinephrine: Obstructive lung disease
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Epinefrin (adrenalin) är ett icke-selektivt adrenergt läkemedel som ursprungli
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns i svenska godkännandedata. Enligt kunskapsgrafen: öppenvinkelglaukom, bronkit, lågt blodtryck, astma, lungemfysem, anafylaxi, bronkiektasi |
-| Förutsagd ny indikation | Obstruktiv lungsjukdom |
-| TxGNN-förutsägelsepoäng | 99,7 % |
-| Evidensnivå | L1 (flera avslutade fas 3-prövningar; se anmärkning under Slutsats) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 6 (alla avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Obstructive lung disease |
+| TxGNN-förutsägelsepoäng | 0.9971 |
+| Evidensnivå | L5 (flera avslutade fas 3-prövningar; se anmärkning under Slutsats) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -106,15 +106,14 @@ Flera ytterligare prövningar är farmakokinetiska studier på friska frivilliga
 
 ## Marknadsinformation Sverige
 
-Alla sex godkännanden är avregistrerade, och ingen indikationstext finns i de sammanställda data.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 48336 | Nepipe Junior | Injektionsvätska, lösning i förfylld injektionspenna | Avregistrerad |
-| 18679 | Anapen Junior | Injektionsvätska, lösning i förfylld spruta | Avregistrerad |
-| 18678 | Anapen | Injektionsvätska, lösning i förfylld spruta | Avregistrerad |
-| 13022 | EpiPen | Injektionsvätska, lösning i förfylld injektionspenna | Avregistrerad |
-| 13023 | EpiPen jr | Injektionsvätska, lösning i förfylld injektionspenna | Avregistrerad |
+| 48336 | Nepipe Junior | Injektionsvätska, lösning i förfylld injektionspenna | Godkänd |
+| 18679 | Anapen Junior | Injektionsvätska, lösning i förfylld spruta | Godkänd |
+| 18678 | Anapen | Injektionsvätska, lösning i förfylld spruta | Godkänd |
+| 13022 | EpiPen | Injektionsvätska, lösning i förfylld injektionspenna | Godkänd |
+| 13023 | EpiPen jr | Injektionsvätska, lösning i förfylld injektionspenna | Godkänd |
 
 Ytterligare ett godkännande (Nepipe, nr 48337) är också avregistrerat.
 

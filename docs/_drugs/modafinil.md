@@ -6,9 +6,9 @@ nav_order: 303
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Modafinil: predikterad ny indikation Sömnlöshet (insomni) (evidensnivå L4). Ursprunglig indikation: Narkolepsi (enligt kunskapsgrafen"
 monitor_inn: "MODAFINIL"
 predicted_indications: ["insomnia (disease)"]
+description: "Modafinil: predikterad ny indikation Sömnlöshet (insomnia (disease)) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Modafinil
@@ -33,7 +33,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Modafinil: Från narkolepsi till sömnlöshet (insomni)
+## Modafinil: Sömnlöshet (insomnia (disease))
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Modafinil är ett vakenhetsfrämjande läkemedel som ursprungligen används vid 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Narkolepsi (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Sömnlöshet (insomni) |
-| TxGNN-förutsägelsepoäng | 99,8 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Sömnlöshet (insomnia (disease)) |
+| TxGNN-förutsägelsepoäng | 0.9985 |
 | Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 6 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Modafinil är ett vakenhetsfrämjande läkemedel som ursprungligen används vid 
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Enligt allmän kunskap är modafinil ett vakenhetsfrämjande medel som hämmar dopamintransportören och påverkar histaminerga, orexinerga och glutamaterga/GABAerga vakenhetskretsar. Dess etablerade användning är att minska sömnighet på dagtid, inte att behandla sömnlöshet.
 
-Den höga modellpoängen (0,998) speglar sannolikt att modafinil ligger nära sömn–vakenhetsstörningar i kunskapsgrafen (narkolepsi, skiftarbetssömnstörning, sömnstörningar vid neurologisk sjukdom), och inte att läkemedlet faktiskt lindrar sömnlöshet. Ett vakenhetsfrämjande läkemedel kan tvärtom försämra insomning eller sömnkontinuitet, så det mekanistiska stödet är svagt och möjligen motsatt riktat.
+Ett vakenhetsfrämjande läkemedel kan tvärtom försämra insomning eller sömnkontinuitet, så det mekanistiska stödet är svagt och möjligen motsatt riktat.
 
 Ett möjligt, begränsat värde är lindring av sömnighet och förbättrad dagfunktion hos patienter med sömn- och vakenhetsstörning. Det är dock inte detsamma som att behandla sömnlöshet som sjukdom.
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Nortriptyline
-parent: Endast modellprediktion (L5)
+parent: Hög evidens (L1-L2)
 nav_order: 321
-evidence_level: L5
+evidence_level: L2
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Nortriptyline: predikterad ny indikation ADHD (attention deficit-hyperactivity disorder) (evidensnivå L5). Ursprunglig indikation: Ångestsyndrom, neurotiskt tillstånd, dysthymi (enligt kunskapsgrafen"
 monitor_inn: "nortriptyline"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]
+description: "Nortriptyline: predikterad ny indikation ADHD (attention deficit-hyperactivity disorder) (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Nortriptyline
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **2** st
+Evidensnivå: **L2** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Nortriptylin: Från ångestsyndrom, neuros och dysthymi till ADHD
+## Nortriptyline: ADHD (attention deficit-hyperactivity disorder)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Nortriptylin är ett tricykliskt antidepressivt läkemedel som enligt kunskapsgrafen ursprungligen används vid ångestsyndrom, neurotiska tillstånd och dysthymi. TxGNN-modellen förutsäger att det kan vara effektivt mot **ADHD (attention deficit-hyperactivity disorder)**. Underlaget består av **15 publikationer** (varav en systematisk översikt och en kontrollerad studie på barn och ungdomar), men **inga registrerade kliniska prövningar**.
+Nortriptylin är ett tricykliskt antidepressivt läkemedel som ursprungligen används vid ångestsyndrom, neurotiska tillstånd och dysthymi. TxGNN-modellen förutsäger att det kan vara effektivt mot **ADHD (attention deficit-hyperactivity disorder)**. Underlaget består av **15 publikationer** (varav en systematisk översikt och en kontrollerad studie på barn och ungdomar), men **inga registrerade kliniska prövningar**.
 
 ---
 
@@ -48,12 +48,12 @@ Nortriptylin är ett tricykliskt antidepressivt läkemedel som enligt kunskapsgr
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ångestsyndrom, neurotiskt tillstånd, dysthymi (enligt kunskapsgrafen; svensk produkttext saknar indikationstext) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | ADHD (attention deficit-hyperactivity disorder) |
-| TxGNN-förutsägelsepoäng | 99,4 % |
+| TxGNN-förutsägelsepoäng | 0.9942 |
 | Evidensnivå | L2 (enligt dataunderlaget; ingen fas 3-RCT är dokumenterad, se kommentar nedan) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 (indraget) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 *Kommentar om evidensnivån:* Den kontrollerade studien (PMID 11052409) och den systematiska översikten stöder en nivå över ren modellförutsägelse. Studiedesign, storlek och utfall har dock inte kunnat verifieras utifrån de avkortade uppgifterna, så L2 bör ses som en övre gräns.
@@ -68,7 +68,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Sambandet mellan de ursprungliga indikationerna (ångest, dysthymi) och ADHD är främst att tillstånden delar neurobiologiska drag och ofta förekommer samtidigt. Även den kanadensiska riktlinjen CANMAT behandlar samsjuklighet mellan affektiva sjukdomar och ADHD.
 
-Den förutsagda undertypen *ADHD, huvudsakligen ouppmärksam form* (poäng 99,3 %) saknar egen litteratur och egna prövningar. Den bör betraktas som en del av bedömningen för ADHD i stort, inte som en separat indikation.
+Den förutsagda undertypen *ADHD, huvudsakligen ouppmärksam form* (poäng 0,9933) saknar egen litteratur och egna prövningar. Den bör betraktas som en del av bedömningen för ADHD i stort, inte som en separat indikation.
 
 ---
 

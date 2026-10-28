@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dipyridamole
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 144
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Dipyridamole: predikterad ny indikation Prinzmetals angina (evidensnivå L5). Ursprunglig indikation: Förmaksflimmer (de svenska godkännandena saknar indikationstext…"
+evidence_level: L4
+indication_count: 8
 monitor_inn: "dipyridamole"
-predicted_indications: ["stroke disorder", "thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
+predicted_indications: ["thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
+last_modified_at: 2026-10-23
+description: "Dipyridamole: predikterad ny indikation Trombotisk sjukdom (thrombotic disease) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Dipyridamole
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L4** | Förutsagda indikationer: **8** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Dipyridamol: Från förmaksflimmer till Prinzmetals angina
+## Dipyridamole: Trombotisk sjukdom (thrombotic disease)
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Dipyridamol är ett trombocythämmande och kärlvidgande läkemedel. Enligt de data som sammanställts för rapporten är dess ursprungliga indikation **förmaksflimmer**. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt vid **Prinzmetals angina** (vasospastisk angina), men det finns **inga kliniska prövningar** och bara **10 publikationer**, varav ingen visar behandlingsnytta. Flera av dem pekar snarare mot en möjlig risk.
+Dipyridamol är ett trombocythämmande läkemedel. I kunskapsgrafen finns en registrerad relation till **förmaksflimmer**, men de svenska godkännandena i underlaget saknar indikationstext. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **trombotisk sjukdom**, en bred och ospecifik diagnosetikett. Underlaget består av **0 kliniska prövningar** och **20 publikationer**, mest äldre översikter, varav flera inte rör ämnet direkt.
 
 ---
 
@@ -48,23 +48,23 @@ Dipyridamol är ett trombocythämmande och kärlvidgande läkemedel. Enligt de d
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Förmaksflimmer (de svenska godkännandena saknar indikationstext, så uppgiften kommer från läkemedlets indikationskoppling i kunskapsgrafen) |
-| Förutsagd ny indikation | Prinzmetals angina |
-| TxGNN-förutsägelsepoäng | 99,99 % (rank 292) |
-| Evidensnivå | L4 (endast indirekta data, huvudsakligen om diagnostisk användning och mekanism) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 3 (alla avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Trombotisk sjukdom (thrombotic disease) |
+| TxGNN-förutsägelsepoäng | 0.9994 |
+| Evidensnivå | L4 (mekanism- och översiktsbaserad evidens, inga kliniska prövningar för just denna etikett) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-Det finns ingen detaljerad verkningsmekanismdata i läkemedelsdatabasen. Enligt den sammanställda analysen hämmar dipyridamol återupptaget av adenosin och fosfodiesteras. Det höjer adenosinhalten utanför cellerna och vidgar kranskärlen. Det är också skälet till att läkemedlet används som farmakologiskt belastningsmedel vid myokardscintigrafi och ekokardiografi.
+För närvarande finns ingen detaljerad verkningsmekanismdata i läkemedelsposten. Litteraturen beskriver dock mekanismen. Dipyridamol hämmar återupptaget av adenosin (via ENT1) och hämmar fosfodiesteraser (PDE3, PDE5 och PDE10). Därmed ökar extracellulärt adenosin och halterna av cAMP och cGMP i blodplättarna. Det hämmar blodplättsaggregationen (Kim & Liao, 2008).
 
-Kopplingen till Prinzmetals angina är därför i första hand indirekt. Båda tillstånden gäller kranskärlens funktion, och modellen har sannolikt fångat denna likhet. Förmaksflimmer och vasospastisk angina är dock olika sjukdomar, och någon direkt koppling mellan den ursprungliga och den nya indikationen har inte kunnat styrkas.
+Mekanismen är biologiskt rimlig vid sjukdomar där blodplättar driver proppbildningen, till exempel arteriell trombos. Läkemedlet är redan etablerat som trombocythämmare. Förutsägelsen ligger därför nära läkemedlets kända farmakologi.
 
-Mekanismen talar dessutom delvis emot nytta. Kärlvidgning med dipyridamol kan ge "coronary steal", där blodflödet fördelas bort från redan sjuka områden. Publicerade data visar också att kranskärlsspasm kan utlösas när dipyridamolbelastning avbryts med aminofyllin hos patienter med variantangina. Den biologiska rimligheten är alltså låg till måttlig, och risken kan vara större än nyttan.
+Etiketten "trombotisk sjukdom" är dock mycket generell. Den täcker både arteriella och venösa tillstånd, och blodplättshämning har olika betydelse i dem. Äldre fallbeskrivningar och översikter tyder på nytta vid trombotisk trombocytopen purpura (TTP) och vid arteriell tromboembolism, men inget av detta är bevis för trombotisk sjukdom som helhet.
 
 ---
 
@@ -76,18 +76,20 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Litteraturbevis
 
+Av de 20 publikationerna är endast de tio mest relevanta listade. En randomiserad fas 3-studie om bevacizumab vid pleuramesoteliom (PMID 26719230) har uteslutits eftersom den inte rör dipyridamol eller trombotisk sjukdom.
+
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [633593](https://pubmed.ncbi.nlm.nih.gov/633593/) | 1978 | Klinisk observation | Japanese Circulation Journal | 26 patienter med vilo-angina (13 med Prinzmetals angina) fick bland annat propranolol, diltiazem, dipyridamol 50 mg, atropin och fenoxibensamin. Propranolol var verkningslöst och tenderade att förvärra anfallen. Sammanfattningen är avkortad och visar inte dipyridamols effekt. |
-| [3421166](https://pubmed.ncbi.nlm.nih.gov/3421166/) | 1988 | Liten klinisk studie | American Journal of Cardiology | Studerade om avbrytande av dipyridamolbelastning med aminofyllin kan utlösa kranskärlsspasm hos 36 inneliggande patienter. Visar en provokationsmekanism, inte behandlingsnytta. |
-| [3190956](https://pubmed.ncbi.nlm.nih.gov/3190956/) | 1988 | Kohortstudie | British Heart Journal | 25 patienter med ST-höjning vid arbetsprov och olika svar på dipyridamoltest. Diagnostisk användning. |
-| [16630456](https://pubmed.ncbi.nlm.nih.gov/16630456/) | 2006 | Kohortstudie | Zhonghua Xin Xue Guan Bing Za Zhi | Jämför kliniska drag vid typisk och atypisk kranskärlsspasm. Ingen uppgift om dipyridamol som behandling. |
-| [8417062](https://pubmed.ncbi.nlm.nih.gov/8417062/) | 1993 | Diagnostisk studie | Journal of the American College of Cardiology | Ökad ekogenicitet i övergående rörelsestörd hjärtmuskel som ekokardiografiskt tecken på ischemi. Diagnostiskt fynd. |
-| [2022043](https://pubmed.ncbi.nlm.nih.gov/2022043/) | 1991 | Översikt | Circulation | Patofysiologisk grund för icke-invasiv utvärdering av kranskärlsförträngning, bland annat med dipyridamol. |
-| [6779029](https://pubmed.ncbi.nlm.nih.gov/6779029/) | 1981 | Diagnostisk studie | Japanese Circulation Journal | Dipyridamolbelastning med talliumscintigrafi hos 38 patienter med kranskärlssjukdom gav 66 % diagnostisk träffsäkerhet. Ingen behandlingseffekt. |
-| [8634169](https://pubmed.ncbi.nlm.nih.gov/8634169/) | 1996 | Prognosstudie | Revista Portuguesa de Cardiologia | Treårsprognos hos patienter med misstänkt kranskärlssjukdom och normal dipyridamol-talliumscintigrafi. Diagnostisk användning. |
-| [7628141](https://pubmed.ncbi.nlm.nih.gov/7628141/) | 1995 | Fallrapport | Clinical Nuclear Medicine | Patient med migrän, astma och dokumenterad variantangina samt ischemi vid belastning. Diskuterar "hjärtmigrän" och ingen behandlingseffekt. |
-| [14060538](https://pubmed.ncbi.nlm.nih.gov/14060538/) | 1963 | Fallrapport | Naika (Internal Medicine) | Fall av variantform av angina pectoris. Ingen sammanfattning tillgänglig. |
+| [18174451](https://pubmed.ncbi.nlm.nih.gov/18174451/) | 2008 | Översikt | Arteriosclerosis, Thrombosis, and Vascular Biology | Dipyridamol hämmar fosfodiesteraser och ökar cAMP/cGMP i blodplättar. Det hämmar blodplättsaggregation och blodplättsmedierad trombotisk sjukdom. |
+| [382146](https://pubmed.ncbi.nlm.nih.gov/382146/) | 1979 | Översikt | Postgraduate Medicine | Aspirin, dipyridamol och sulfinpyrazon beskrivs ha antitrombotisk effekt hos människa. |
+| [12765506](https://pubmed.ncbi.nlm.nih.gov/12765506/) | 2003 | Översikt | Medical Journal of Australia | Trombocythämmare skyddar mot hjärtinfarkt, stroke och andra allvarliga kärlhändelser hos riskpatienter. Aspirin är förstahandsval. |
+| [2182246](https://pubmed.ncbi.nlm.nih.gov/2182246/) | 1990 | Översikt | Clinical Cardiology | Aspirin och dipyridamol har begränsad effekt mot koronar trombos. Experimentella data är starkare än kliniska. |
+| [15494585](https://pubmed.ncbi.nlm.nih.gov/15494585/) | 2004 | Ej angiven | JAMA | Trombocythämmare förebygger återkommande kärlhändelser vid etablerad kärlsjukdom i hjärna, hjärta och perifera artärer. |
+| [559478](https://pubmed.ncbi.nlm.nih.gov/559478/) | 1977 | Fallrapport | Archives of Internal Medicine | Hos en patient med TTP gav dipyridamol tillsammans med aspirin och sulfinpyrazon ihållande remission. Patienten återfick sjukdom när dipyridamoldosen trappades ned. |
+| [2440111](https://pubmed.ncbi.nlm.nih.gov/2440111/) | 1987 | Ej angiven | Seminars in Hematology | Blodplättshämmare har gett förbättring vid TTP i många fall. Utebliven effekt tillskrivs bland annat otillräcklig dos. |
+| [25697566](https://pubmed.ncbi.nlm.nih.gov/25697566/) | 2015 | Ej angiven | Current Topics in Medicinal Chemistry | Dipyridamol används som antitrombotiskt och kärlvidgande läkemedel och har en mindre känd antioxidativ effekt. |
+| [20484211](https://pubmed.ncbi.nlm.nih.gov/20484211/) | 2010 | Ej angiven | American Journal of Health-System Pharmacy | Översikt av trombocythämmare och antikoagulantia vid kärlocklusion och trombotiska komplikationer vid sicklecellsjukdom. |
+| [36696191](https://pubmed.ncbi.nlm.nih.gov/36696191/) | 2023 | Översikt | Journal of Thrombosis and Haemostasis | Tromboinflammation vid antifosfolipidsyndrom. Ingen direkt koppling till dipyridamol. |
 
 ---
 
@@ -95,21 +97,18 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 66506 | Pyranistole | Depotkapsel, hård | Ej angiven |
-| 47980 | Dipyridamol Alternova | Depotkapsel, hård | Ej angiven |
-| 46282 | Diprasorin | Kapsel med modifierad frisättning, hård | Ej angiven |
-
-Alla tre godkännanden är avregistrerade, och för närvarande finns inget giltigt godkännande i Sverige.
+| 66506 | Pyranistole | Depotkapsel, hård | Ingen indikationstext angiven i underlaget |
+| 47980 | Dipyridamol Alternova | Depotkapsel, hård | Ingen indikationstext angiven i underlaget |
+| 46282 | Diprasorin | Kapsel med modifierad frisättning, hård | Ingen indikationstext angiven i underlaget |
 
 ---
 
 ## Säkerhetsaspekter
 
-- **Kontraindikationer (från kunskapsgraf, inte från produktresumé)**: Kopplingar finns till bland annat njursjukdom, leversjukdom, gallblåsesjukdom, trombocytopeni, magsår, lågt blodtryck, gikt, akut kranskärlssyndrom, hjärtinfarkt, blödarsjuka (hemofili), olika anemiformer, Reye syndrom och Alzheimers sjukdom. Dessa uppgifter måste verifieras mot produktresumén innan de används kliniskt.
-- **Läkemedelsinteraktioner**: Totalt 321 interaktioner är registrerade. De som är graderade som måttliga är **dexfenfluramin**, **sibutramin** och **fenfluramin**. Bland interaktionerna med okänd allvarlighetsgrad finns acetylsalicylsyra, omeprazol, pantoprazol, lansoprazol, cimetidin, metformin, glimepirid, rosiglitazon, simvastatin, morfin, prednison, vankomycin och amfotericin B.
-- **Specifik risk vid vasospastisk angina**: Kärlvidgning och "coronary steal" kan försämra blodflödet, och kranskärlsspasm kan utlösas när dipyridamolbelastning avbryts.
+Underlaget saknar varnings- och kontraindikationstext från produktresumén. Se produktresumén för säkerhetsinformation.
 
-Se produktresumén för fullständig säkerhetsinformation.
+- **Kontraindikationsrelationer i kunskapsgrafen** (inte etikettext): bland annat trombocytopeni, magsår, hjärtinfarkt och akut koronart syndrom, hemofili, njursjukdom, leversjukdom, gikt, lågt blodtryck och Alzheimers sjukdom. De bör läsas som signaler som behöver verifieras mot produktresumén.
+- **Läkemedelsinteraktioner**: 321 interaktioner är registrerade. Måttlig nivå har angetts för dexfenfluramin, sibutramin och fenfluramin. Flera andra, bland annat acetylsalicylsyra, cimetidin, omeprazol, pantoprazol, metformin, morfin och simvastatin, har okänd allvarlighetsgrad. Kombinationen med acetylsalicylsyra är särskilt viktig att bedöma eftersom den kan påverka blödningsrisken.
 
 ---
 
@@ -118,16 +117,15 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsepoängen är mycket hög, men det finns inga kliniska prövningar och ingen litteratur som visar behandlingsnytta vid Prinzmetals angina. Mekanismen kan dessutom vara ofördelaktig vid kranskärlsspasm.
-- Alla svenska godkännanden är avregistrerade, och säkerhetsdata från produktresumén saknas.
+- Förutsägelsen har hög modellpoäng och biologisk rimlighet, men "trombotisk sjukdom" är en för bred etikett. Det finns inga kliniska prövningar för den, och litteraturen består mest av äldre översikter och ett fåtal fallbeskrivningar.
+- Säkerhetsunderlaget från produktresumén saknas, vilket hindrar en säkerhetsgranskning.
 
 **För att gå vidare krävs:**
-- Produktresumé med varningar och kontraindikationer för säkerhetsbedömning.
-- Prekliniska eller kliniska data som visar att dipyridamol minskar eller åtminstone inte ökar vasospastiska anfall.
-- Granskning av om risken för "coronary steal" och spasm väger över möjlig nytta.
-- Klargörande av den ursprungliga indikationen, eftersom de svenska godkännandena saknar indikationstext.
-
-Observera att samma data visar betydligt starkare stöd (evidensnivå L1, bland annat ESPRIT-studien och metaanalyser) för **sekundärprevention efter stroke och TIA**. Det är dock en redan etablerad användning och inte ny återanvändning.
+- Hämta och granska produktresumén från Läkemedelsverket (varningar, kontraindikationer och godkända indikationer).
+- Precisera vilket trombotiskt tillstånd som avses, till exempel arteriell eller venös trombos, och leta prövningar för just det.
+- Överväg mer specifika förutsägelser i samma data. Det gäller särskilt övergående ischemisk attack (TIA), där en stor randomiserad fas 4-prövning (ESPRIT, aspirin med eller utan dipyridamol) finns.
+- Komplettera verkningsmekanismdata från DrugBank.
+- Bedöm interaktionsrisker, särskilt blödningsrisk vid samtidig användning av acetylsalicylsyra.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

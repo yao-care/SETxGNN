@@ -6,9 +6,9 @@ nav_order: 133
 evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Dexamethasone: predikterad ny indikation Alopecia areata (evidensnivå L2). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad i de svenska godkänna…"
 monitor_inn: "dexamethasone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
+description: "Dexamethasone: predikterad ny indikation Alopecia areata (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Dexamethasone
@@ -33,7 +33,7 @@ Evidensnivå: **L2** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Dexametason: Från binjurebarksinsufficiens och inflammatoriska sjukdomar till alopecia areata
+## Dexamethasone: Alopecia areata
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Dexametason är en kraftfull glukokortikoid som ursprungligen används vid bland
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad i de svenska godkännandena. Enligt kunskapsgrafen: bland annat binjurebarksinsufficiens, Addisons sjukdom, Crohns sjukdom, akut lymfatisk leukemi och kongenital binjurehyperplasi |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Alopecia areata |
-| TxGNN-förutsägelsepoäng | 99,99 % |
+| TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 19 (samtliga avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 19 av 19) |
+| Antal godkännanden | 19 (giltiga: 19) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

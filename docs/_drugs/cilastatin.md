@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cilastatin
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 100
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Cilastatin: predikterad ny indikation Staphylococcus aureus-infektion (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i de svenska godkännandena. E…"
+evidence_level: L3
+indication_count: 9
 monitor_inn: "cilastatin"
 predicted_indications: ["staphylococcus aureus infection", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "sinusitis", "paranasal sinus neoplasm (disease)", "paratyphoid fever", "bronchitis", "diffuse scleroderma", "salmonellosis"]
+last_modified_at: 2026-10-27
+description: "Cilastatin: predikterad ny indikation Staphylococcus aureus-infektion (staphylococcus aureus infection) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Cilastatin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L3** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Cilastatin: Från bakteriell lunginflammation till Staphylococcus aureus-infektion
+## Cilastatin: dehydropeptidashämmare → Staphylococcus aureus-infektion (staphylococcus aureus infection)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Cilastatin är en hämmare av enzymet dehydropeptidas-1 i njurarna och ges i fast kombination med antibiotikan imipenem. Kombinationen används vid bland annat bakteriell lunginflammation, bukhinneinflammation och hjärtklaffsinfektion (endokardit). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **Staphylococcus aureus-infektion**, med **1 klinisk prövning** och **20 publikationer** som för närvarande hör till denna riktning. Nästan all evidens gäller kombinationen imipenem/cilastatin, inte cilastatin ensamt.
+Cilastatin är en hämmare av enzymet dehydropeptidas-1 i njurarna och används i fast kombination med karbapenemantibiotikan imipenem för att skydda den mot nedbrytning. TxGNN-modellen förutsäger att cilastatin kan vara kopplat till **Staphylococcus aureus-infektion (staphylococcus aureus infection)**, med **1 klinisk prövning** och **20 publikationer** som för närvarande hör till denna förutsägelse. Den antibakteriella effekten kommer från imipenem, inte från cilastatin, så signalen speglar kombinationsprodukten och inte cilastatin ensamt.
 
 ---
 
@@ -48,23 +48,23 @@ Cilastatin är en hämmare av enzymet dehydropeptidas-1 i njurarna och ges i fas
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns registrerad i de svenska godkännandena. Enligt kunskapsgrafen: bakteriell lunginflammation, peritonit, endokardit m.fl. |
-| Förutsagd ny indikation | Staphylococcus aureus-infektion |
-| TxGNN-förutsägelsepoäng | 99,94 % |
-| Evidensnivå | L3 (observationsstudier och översikter) |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
-| Antal godkännanden | 4 (alla återkallade) |
-| Rekommenderat beslut | Avvakta |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Staphylococcus aureus-infektion (staphylococcus aureus infection) |
+| TxGNN-förutsägelsepoäng | 0,9994 |
+| Evidensnivå | L3 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
+| Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Det som är känt är att cilastatin hämmar dehydropeptidas-1, ett enzym i njurtubuli som annars bryter ned imipenem. Cilastatin har ingen egen antibakteriell effekt. Det skyddar imipenem från nedbrytning i njuren och minskar risken för njurtoxicitet.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för rapporten. Cilastatin är en hämmare av dehydropeptidas-1 (DHP-1) i njurtubuli och har ingen egen antibakteriell aktivitet. Det ges tillsammans med imipenem för att förhindra att imipenem bryts ned i njuren, vilket ökar koncentrationen av aktiv substans i urinen och minskar risken för njurtoxicitet.
 
-Kopplingen till Staphylococcus aureus går därför via imipenem. Signalen speglar kombinationsprodukten imipenem/cilastatin och inte en omriktad effekt av cilastatin ensamt. Den ursprungliga indikationen (bakteriella infektioner som lunginflammation och endokardit) överlappar redan i hög grad med stafylokockinfektioner, eftersom S. aureus är en vanlig orsak till dessa.
+Sambandet med S. aureus-infektion går därför via imipenem. Publicerade studier visar att imipenem/cilastatin har haft klinisk och experimentell aktivitet mot både meticillinkänsliga och meticillinresistenta S. aureus (MSSA och MRSA), men aktiviteten är i de flesta studier måttlig och sämre än vankomycin i vissa in vitro-modeller.
 
-Äldre studier visar viss aktivitet mot både meticillinkänsliga och meticillinresistenta stammar (MRSA). Djurförsök och laboratoriestudier tyder också på synergi med andra antibiotika, till exempel vankomycin, fosfomycin och arbekacin. Imipenem var dock endast bakteriostatiskt mot MRSA i en laboratoriestudie och mindre aktivt än vankomycin i vissa djurmodeller.
+Mekanistiskt är det alltså inte rimligt att tillskriva en effekt mot S. aureus till cilastatin ensamt. Förutsägelsen bör tolkas som en signal för kombinationsprodukten imipenem/cilastatin.
 
 ---
 
@@ -72,7 +72,7 @@ Kopplingen till Staphylococcus aureus går därför via imipenem. Signalen spegl
 
 | Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
 |---------|------|------|------|---------|
-| [NCT01356472](https://clinicaltrials.gov/study/NCT01356472) | Fas 4 | Okänd | 60 | Undersöker linezolid ensamt eller i kombination med karbapenem mot MRSA vid ventilatorassocierad lunginflammation. Det är inte bekräftat att karbapenemet är imipenem/cilastatin, och cilastatins bidrag kan inte särskiljas. |
+| [NCT01356472](https://clinicaltrials.gov/study/NCT01356472) | Fas 4 | Okänd | 60 | Linezolid ensamt eller i kombination med en karbapenem mot MRSA hos patienter med ventilatorassocierad pneumoni. Det är inte bekräftat att karbapenemen är imipenem/cilastatin, och studien kan inte särskilja något bidrag från cilastatin. |
 
 ---
 
@@ -80,16 +80,16 @@ Kopplingen till Staphylococcus aureus går därför via imipenem. Signalen spegl
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [3460521](https://pubmed.ncbi.nlm.nih.gov/3460521/) | 1986 | Klinisk studie | Antimicrobial Agents and Chemotherapy | Imipenem/cilastatin utvärderades hos 23 patienter med MRSA- eller MSSA-infektioner (mjukdelar, blodkärl, skelett). |
-| [33020155](https://pubmed.ncbi.nlm.nih.gov/33020155/) | 2020 | Fallkommentar | Antimicrobial Agents and Chemotherapy | Imipenem/cilastatin plus fosfomycin som ny kombination vid svårbehandlad MRSA-infektion. |
-| [3378959](https://pubmed.ncbi.nlm.nih.gov/3378959/) | 1988 | Djurstudie | Journal of Antimicrobial Chemotherapy | I kaninmodell för endokardit orsakad av MRSA var imipenem/cilastatin effektivare än vankomycin enligt flera mått. |
-| [10588305](https://pubmed.ncbi.nlm.nih.gov/10588305/) | 1999 | Laboratorie- och djurstudie | Journal of Antimicrobial Chemotherapy | Vankomycin och imipenem visade synergi mot 34 av 36 MRSA-isolat, även i musmodell. |
-| [8072190](https://pubmed.ncbi.nlm.nih.gov/8072190/) | 1994 | Klinisk studie | Japanese Journal of Antibiotics | Kombinationen arbekacin och imipenem/cilastatin gav lägre MIC-värden mot MRSA än respektive läkemedel ensamt. |
-| [3859210](https://pubmed.ncbi.nlm.nih.gov/3859210/) | 1985 | Klinisk studie | American Journal of Medicine | 17 patienter med bakteriell endokardit behandlades med imipenem/cilastatin. |
-| [22196394](https://pubmed.ncbi.nlm.nih.gov/22196394/) | 2012 | Översikt | International Journal of Antimicrobial Agents | Översikt över MRSA:s sjukdomsmekanismer, behandling och resistens. |
-| [36804370](https://pubmed.ncbi.nlm.nih.gov/36804370/) | 2023 | Översikt | International Journal of Antimicrobial Agents | Jämför off-label-användning och formella rekommendationer för antibiotika vid multiresistenta bakterier. |
-| [12878512](https://pubmed.ncbi.nlm.nih.gov/12878512/) | 2003 | Djurstudie | Antimicrobial Agents and Chemotherapy | Imipenem/cilastatin var mindre aktivt än vankomycin mot MRSA i experimentell systemisk infektion. |
-| [3859208](https://pubmed.ncbi.nlm.nih.gov/3859208/) | 1985 | Öppen klinisk studie | American Journal of Medicine | Imipenem/cilastatin vid bakteriell lunginflammation hos 43 vuxna. |
+| [3460521](https://pubmed.ncbi.nlm.nih.gov/3460521/) | 1986 | Klinisk studie | Antimicrobial Agents and Chemotherapy | Imipenem/cilastatin utvärderades hos 23 patienter med MRSA- eller MSSA-infektioner (mjukdelar, endovaskulära, skelett). |
+| [3859210](https://pubmed.ncbi.nlm.nih.gov/3859210/) | 1985 | Klinisk studie | The American Journal of Medicine | 17 patienter med bakteriell endokardit (de flesta intravenösa missbrukare) behandlades med imipenem/cilastatin. |
+| [3859208](https://pubmed.ncbi.nlm.nih.gov/3859208/) | 1985 | Öppen prospektiv multicenterstudie | The American Journal of Medicine | 43 vuxna med bakteriell pneumoni behandlades med imipenem/cilastatin. |
+| [3378959](https://pubmed.ncbi.nlm.nih.gov/3378959/) | 1988 | Djurstudie (kanin) | Journal of Antimicrobial Chemotherapy | Vid experimentell MRSA-endokardit var imipenem/cilastatin i denna modell bättre än vankomycin, trots att imipenem var bakteriostatiskt in vitro. |
+| [33020155](https://pubmed.ncbi.nlm.nih.gov/33020155/) | 2020 | Fallkommentar | Antimicrobial Agents and Chemotherapy | Imipenem/cilastatin plus fosfomycin beskrivs som kombinationsbehandling vid refraktär MRSA-infektion. |
+| [10588305](https://pubmed.ncbi.nlm.nih.gov/10588305/) | 1999 | In vitro/djurstudie | Journal of Antimicrobial Chemotherapy | Synergistisk eller additiv effekt av vankomycin och imipenem mot 36 kliniska MRSA-isolat och i en musmodell. |
+| [8072190](https://pubmed.ncbi.nlm.nih.gov/8072190/) | 1994 | Klinisk studie | The Japanese Journal of Antibiotics | Kombinationen arbekacin och imipenem/cilastatin gav lägre MIC-värden mot MRSA än respektive läkemedel ensamt. |
+| [12878512](https://pubmed.ncbi.nlm.nih.gov/12878512/) | 2003 | Djurstudie | Antimicrobial Agents and Chemotherapy | Imipenem-cilastatin var mindre aktivt än vankomycin och S-3578 i en systemisk MRSA-infektionsmodell. |
+| [22196394](https://pubmed.ncbi.nlm.nih.gov/22196394/) | 2012 | Översikt | International Journal of Antimicrobial Agents | Översikt över patogenes, behandling och resistens hos MRSA. |
+| [36804370](https://pubmed.ncbi.nlm.nih.gov/36804370/) | 2023 | Översikt | International Journal of Antimicrobial Agents | Översikt över off-label-användning av antibiotika vid multiresistenta bakterier. |
 
 ---
 
@@ -97,36 +97,34 @@ Kopplingen till Staphylococcus aureus går därför via imipenem. Signalen spegl
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 65602 | Imipenem/Cilastatin Orifarm | Pulver till infusionsvätska, lösning | Ej angiven (återkallad) |
-| 62884 | Imipenem/Cilastatin Steriscience | Pulver till infusionsvätska, lösning | Ej angiven (återkallad) |
-| 67596 | Imipenem/Cilastatin Noridem | Pulver till infusionsvätska, lösning | Ej angiven (återkallad) |
-| 26382 | Imipenem/Cilastatin Fresenius Kabi | Pulver till infusionsvätska, lösning | Ej angiven (återkallad) |
+| 65602 | Imipenem/Cilastatin Orifarm | Pulver till infusionsvätska, lösning | Indikationstext saknas i lokala data |
+| 62884 | Imipenem/Cilastatin Steriscience | Pulver till infusionsvätska, lösning | Indikationstext saknas i lokala data |
+| 67596 | Imipenem/Cilastatin Noridem | Pulver till infusionsvätska, lösning | Indikationstext saknas i lokala data |
+| 26382 | Imipenem/Cilastatin Fresenius Kabi | Pulver till infusionsvätska, lösning | Indikationstext saknas i lokala data |
+
+Dessa godkännanden gäller kombinationsprodukter av imipenem och cilastatin.
 
 ---
 
 ### Säkerhetsaspekter
 
-- **Möjliga kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumétext): epilepsi, njursjukdom, pyoureter, Clostridium difficile-kolit och nekrotiserande enterokolit hos nyfödda.
-- **Läkemedelsinteraktioner**: Cilastatin hämmar dipeptidas 1 (dehydropeptidas-1). Detta är den avsedda farmakologiska verkan och inte en interaktion med annat läkemedel.
-- Enskilda fallrapporter beskriver överkänslighetsreaktioner, till exempel leukocytoklastisk vaskulit med hudutslag efter imipenem/cilastatin.
+- **Läkemedelsinteraktioner**: Cilastatin hämmar enzymet dipeptidas 1 (dehydropeptidas-1), vilket är dess avsedda farmakologiska verkan.
 
-Se produktresumén för fullständig säkerhetsinformation, eftersom varnings- och kontraindikationstext saknas i det sammanställda underlaget.
+För varningar och kontraindikationer, se produktresumén för säkerhetsinformation.
 
 ---
 
 ### Slutsats och nästa steg
 
-**Beslut: Avvakta**
+**Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Evidensen för S. aureus-infektion kommer nästan uteslutande från kombinationen imipenem/cilastatin, där effekten beror på imipenem. Cilastatin saknar egen antibakteriell verkan, och det är därför ingen egentlig återanvändning av cilastatin. Dessutom är alla svenska godkännanden återkallade, och den enda kliniska prövningen är liten och inte specifik för imipenem/cilastatin.
+- Den enda registrerade prövningen studerar linezolid med en ospecificerad karbapenem och kan inte isolera något bidrag från cilastatin. Litteraturen består mestadels av äldre, små och okontrollerade studier eller djurstudier, och en eventuell antistafylokockeffekt beror på imipenem, inte på cilastatin.
 
 **För att gå vidare krävs:**
-- Produktresumé från Läkemedelsverket med varningar och kontraindikationer, eftersom säkerhetsgranskningen inte kan slutföras utan dem.
-- Verkningsmekanismdata från DrugBank.
-- Kontrollerade kliniska studier som direkt jämför imipenem/cilastatin med standardbehandling (till exempel vankomycin) vid S. aureus-infektion, särskilt MRSA.
-- Bedömning av om indikationen faktiskt bidrar med något utöver redan godkända användningsområden, och en förklaring till varför alla godkännanden återkallats.
-- Genomgång av aktuella resistensdata, eftersom imipenem har begränsad aktivitet mot MRSA.
+- Kontrollerade kliniska studier som utvärderar imipenem/cilastatin vid S. aureus-infektion, med jämförelse mot etablerad behandling (t.ex. vankomycin).
+- Granskning av produktresumén för godkända indikationer, varningar och kontraindikationer, eftersom säkerhetsdata saknas i de data som sammanställts.
+- Klargörande av om cilastatin ensamt har något oberoende bidrag; i nuläget talar mekanismen mot det.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

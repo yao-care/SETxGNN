@@ -6,9 +6,9 @@ nav_order: 229
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
-description: "Ibuprofen: predikterad ny indikation Akromesomelisk dysplasi, Hunter-Thompson-typ (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns i de sammanställda uppgifterna. E…"
 monitor_inn: "IBUPROFEN"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+description: "Ibuprofen: predikterad ny indikation Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala up…"
 ---
 
 # Ibuprofen
@@ -33,15 +33,13 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Ibuprofen: Från reumatoid artrit och smärttillstånd till akromesomelisk dysplasi av Hunter-Thompson-typ
+## Ibuprofen: Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Ibuprofen är ett icke-steroidalt antiinflammatoriskt läkemedel (NSAID) som i kunskapsgrafen är kopplat till bland annat reumatoid artrit, artros, juvenil idiopatisk artrit, huvudvärk och öppetstående ductus arteriosus.
-TxGNN-modellen förutsäger att det kan vara effektivt mot **akromesomelisk dysplasi av Hunter-Thompson-typ**, med en mycket hög modellpoäng (**99,7 %**).
 Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, så den vilar enbart på en beräkningsmodell.
 
 ---
@@ -50,11 +48,11 @@ Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns i de sammanställda uppgifterna. Enligt kunskapsgrafen: reumatoid artrit, huvudvärk, artros, juvenil idiopatisk artrit m.fl. |
-| Förutsagd ny indikation | Akromesomelisk dysplasi, Hunter-Thompson-typ |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type) |
+| TxGNN-förutsägelsepoäng | 0.9974 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
@@ -105,7 +103,6 @@ Se i övrigt produktresumén för fullständig säkerhetsinformation.
 - Komplettera ibuprofens verkningsmekanism från DrugBank.
 - Genomföra en litteratur- och prövningssökning och eventuellt prekliniska studier, till exempel i modeller för GDF5-brist, för att bedöma om det finns ett biologiskt samband.
 - Utvärdera om en symtomatisk användning mot ledsmärta vid dessa sjukdomar är relevant, till exempel vid pseudoachondroplasi, där den biologiska kopplingen är mer rimlig, men fortfarande utan underlag.
-- Klargöra läkemedlets nuvarande regulatoriska läge i Sverige, eftersom inga giltiga godkännanden finns.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

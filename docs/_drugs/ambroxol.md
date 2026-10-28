@@ -4,17 +4,17 @@ title: Ambroxol
 parent: Endast modellprediktion (L5)
 nav_order: 28
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Ambroxol: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Faryngit (enligt TxGNN-kunskapsgrafen"
+indication_count: 4
 monitor_inn: "ambroxol"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
+predicted_indications: ["nasal cavity disease", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
+last_modified_at: 2026-10-27
+description: "Ambroxol: predikterad ny indikation Nasal sjukdom (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ambroxol
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **5** st
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-## Ambroxol: Från faryngit till sjukdom i näshålan
+## Ambroxol: sekretolytiskt medel (slemlösande) → Nasal sjukdom (nasal cavity disease)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Ambroxol är ett slemlösande och sekretlösande läkemedel som ursprungligen används vid faryngit (halsinflammation). TxGNN-modellen förutsäger att det kan vara effektivt mot **sjukdom i näshålan**, men det finns **inga kliniska prövningar** och endast **1 publikation** (en översiktsartikel om akut hosta) som indirekt rör denna riktning. Evidensen består därför i huvudsak av modellförutsägelsen.
+Ambroxol är ett slemlösande läkemedel som i Sverige finns som sugtabletter. TxGNN-modellen förutsäger att det kan vara effektivt mot **nasal sjukdom (nasal cavity disease)**. Evidensen är mycket begränsad: inga kliniska prövningar och **1 publikation**, en översikt om akut hosta som endast indirekt rör sjukdomen.
 
 ---
 
@@ -48,25 +48,29 @@ Ambroxol är ett slemlösande och sekretlösande läkemedel som ursprungligen an
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Faryngit (enligt TxGNN-kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Sjukdom i näshålan (nasal cavity disease) |
-| TxGNN-förutsägelsepoäng | 99,9 % |
-| Evidensnivå | L4 (endast en indirekt översiktsartikel, inga kliniska prövningar) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 4 (samtliga indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Nasal sjukdom (nasal cavity disease) |
+| TxGNN-förutsägelsepoäng | 0,9991 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Ambroxol är känt som ett slemlösande och sekretlösande medel som underlättar bortforsling av slem från luftvägarna. Det beskrivs också ha en lokalbedövande effekt (blockering av natriumkanaler) och antiinflammatoriska egenskaper i de övre luftvägarna.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är ambroxol ett slemlösande och sekretolytiskt medel som ökar bortforslingen av slem från luftvägarna. Det har också beskrivits ha lokalanestetiska effekter (blockad av natriumkanaler) och antiinflammatoriska effekter i de övre luftvägarna.
 
-Faryngit och sjukdomar i näshålan drabbar båda slemhinnorna i de övre luftvägarna. Det är sannolikt en del av förklaringen till att modellen kopplar samman dem. Om ambroxol lindrar slemproduktion, irritation och inflammation i svalget kan liknande effekter vara tänkbara i näsan.
+Dessa egenskaper ger en tänkbar koppling till tillstånd i näshålan, eftersom slemhinnorna i näsa och svalg delar liknande funktion och påverkas av liknande besvär. Kopplingen är dock bara teoretisk. Det finns inga direkta data om näshålesjukdom, och den enda tillgängliga artikeln gäller akut hosta, som bara är indirekt relaterad.
 
-Kopplingen är dock bara delvis underbyggd. Det finns inga direkta data om näshålesjukdomar, och den enda tillhörande artikeln gäller akut hosta, som bara har ett indirekt samband med näshålan. Bedömningen bör därför ses som en forskningsfråga och inte som belagd nytta.
+Ambroxol studeras också för andra användningsområden, till exempel som kandidat vid neurodegenerativa sjukdomar, genom att det påverkar enzymet glukosylceramidas beta (GBA1). Det har ingen bäring på den förutsagda näsindikationen.
 
-Ur dataunderlaget framgår också att ambroxol hämmar enzymet glukosylceramidas beta (GBA1) och undersöks för neurodegenerativa sjukdomar som Parkinsons sjukdom och ALS. Detta ligger utanför den aktuella förutsägelsen.
+---
+
+### Kliniska prövningar
+
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
@@ -74,7 +78,7 @@ Ur dataunderlaget framgår också att ambroxol hämmar enzymet glukosylceramidas
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [26525480](https://pubmed.ncbi.nlm.nih.gov/26525480/) | 2015 | Översiktsartikel | Vestnik otorinolaringologii | Behandlar akut hosta vid influensa och akuta luftvägsinfektioner. Hostan är oftast torr och går över på 2–3 veckor, men kan ibland vara produktiv med tydlig slemutdrivning. Rör näshålan bara indirekt. |
+| [26525480](https://pubmed.ncbi.nlm.nih.gov/26525480/) | 2015 | Översikt | Vestnik otorinolaringologii | Behandlar akut hosta vid influensa och akuta luftvägsinfektioner. Hostan är oftast torr och går över på 2–3 veckor, men kan ibland vara produktiv med tydlig slemproduktion. Gäller inte näshålesjukdom direkt. |
 
 ---
 
@@ -82,18 +86,18 @@ Ur dataunderlaget framgår också att ambroxol hämmar enzymet glukosylceramidas
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 46187 | Mucoangin Citron | Sugtablett | Ej angiven (indraget) |
-| 19952 | Mucoangin Mint | Sugtablett | Ej angiven (indraget) |
-| 51721 | Ambroxol Geiser lakrits | Sugtablett | Ej angiven (indraget) |
-| 51720 | Ambroxol Geiser mint | Sugtablett | Ej angiven (indraget) |
+| 46187 | Mucoangin Citron | Sugtablett | Ej angiven i lokala data |
+| 19952 | Mucoangin Mint | Sugtablett | Ej angiven i lokala data |
+| 51721 | Ambroxol Geiser lakrits | Sugtablett | Ej angiven i lokala data |
+| 51720 | Ambroxol Geiser mint | Sugtablett | Ej angiven i lokala data |
 
 ---
 
 ### Säkerhetsaspekter
 
-- **Läkemedelsinteraktioner**: En interaktion är registrerad, med glukosylceramidas beta (GBA1). Det är ett farmakologiskt målprotein snarare än en klinisk läkemedelsinteraktion. Ambroxol fungerar som chaperon för enzymet. I cellernas sura lysosomer ökar det enzymaktiviteten, medan det vid neutralt pH hämmar den. Ingen allvarlighetsgrad är angiven.
+- **Läkemedelsinteraktioner**: En interaktion är registrerad med glukosylceramidas beta (GBA1). Ambroxol fungerar som ett chaperonprotein för detta enzym. Vid neutralt pH hämmar det enzymaktiviteten, medan det i cellernas sura lysosomer ökar aktiviteten genom att fler enzymmolekyler når lysosomerna.
 
-Varningar och kontraindikationer från produktresumén saknas i det sammanställda underlaget. Se produktresumén för fullständig säkerhetsinformation.
+För övrig säkerhetsinformation, se produktresumén.
 
 ---
 
@@ -102,14 +106,13 @@ Varningar och kontraindikationer från produktresumén saknas i det sammanställ
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den höga modellpoängen stöds inte av några kliniska prövningar, och den enda artikeln är indirekt relaterad. Dessutom är alla svenska godkännanden indragna och säkerhetsunderlaget från produktresumén saknas.
+- Förutsägelsen har hög modellpoäng (0,9991) men saknar direkta studier av näshålesjukdom. Den enda artikeln gäller akut hosta, och verkningsmekanismen är inte dokumenterad i underlaget.
 
 **För att gå vidare krävs:**
-- Hämta och granska produktresumé med varningar och kontraindikationer från Läkemedelsverket (MPA).
-- Komplettera verkningsmekanismen från DrugBank.
-- Söka litteratur och studier som direkt rör ambroxol vid näshålesjukdomar (t.ex. rinit, rinosinuit).
-- Utreda administreringsväg och beredningsform, eftersom befintliga produkter är sugtabletter för oralt bruk.
-- Klargöra regulatorisk status, eftersom inga godkännanden för ambroxol är giltiga i Sverige.
+- Studier eller publikationer som direkt undersöker ambroxol vid sjukdomar i näshålan
+- Dokumenterad verkningsmekanism
+- Säkerhetsinformation från produktresumén (varningar och kontraindikationer)
+- Kontroll av läkemedlets aktuella godkännandestatus och indikationstext i lokala register
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

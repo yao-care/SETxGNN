@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Losartan
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 271
-evidence_level: L5
-indication_count: 8
+evidence_level: L4
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Losartan: predikterad ny indikation Malign renovaskulär hypertoni (evidensnivå L5). Ursprunglig indikation: Hypertoni och diabetesnefropati"
 monitor_inn: "losartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
+description: "Losartan: predikterad ny indikation Malignant hypertensive renal disease (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Losartan
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **8** st
+Evidensnivå: **L4** | Förutsagda indikationer: **7** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 </div>
 
-## Losartan: Från hypertoni och diabetesnefropati till malign renovaskulär hypertoni
+## Losartan: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Losartan (Losartan Medical Valley) är en angiotensin II-receptorblockerare (AT1-blockerare) som ursprungligen användes vid **högt blodtryck (hypertoni)** och **diabetesnefropati**. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **malign renovaskulär hypertoni**, med mycket hög modellpoäng (99,7 %). Evidensen är dock svag: **inga kliniska prövningar** och **2 publikationer** (en fallrapport och en prekliniskt djurmodellstudie) stöder för närvarande denna riktning.
+Losartan (Losartan Medical Valley) är en angiotensin II-receptorblockerare (AT1-blockerare) som ursprungligen användes vid **högt blodtryck (hypertoni)** och **diabetesnefropati**. Evidensen är dock svag: **inga kliniska prövningar** och **2 publikationer** (en fallrapport och en prekliniskt djurmodellstudie) stöder för närvarande denna riktning.
 
 ---
 
@@ -48,11 +48,11 @@ Losartan (Losartan Medical Valley) är en angiotensin II-receptorblockerare (AT1
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Hypertoni och diabetesnefropati (enligt kunskapsgrafen; godkänd indikationstext saknas i licensdata) |
-| Förutsagd ny indikation | Malign renovaskulär hypertoni |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Malignant hypertensive renal disease |
+| TxGNN-förutsägelsepoäng | 0.9973 |
 | Evidensnivå | L4 (endast prekliniska studier och en fallrapport) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
@@ -116,7 +116,6 @@ Se produktresumén för fullständig information om varningar och försiktighets
 - Komplettera data om verkningsmekanism från DrugBank.
 - Systematisk litteratursökning efter kliniska data om ARB vid renovaskulär hypertoni (inklusive säkerhet vid njurartärstenos).
 - Utvärdera om det finns etablerade behandlingsriktlinjer som redan täcker denna användning.
-- Klargöra marknadsläget i Sverige, eftersom inga giltiga godkännanden finns för närvarande.
 
 ---
 

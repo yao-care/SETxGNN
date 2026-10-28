@@ -6,9 +6,9 @@ nav_order: 252
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
-description: "Landiolol: predikterad ny indikation Lingual-facial-buckal dyskinesi (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad i godkännandena. Enligt farmakologi…"
 monitor_inn: "landiolol"
 predicted_indications: ["lingual-facial-buccal dyskinesia", "chronic tic disorder", "psychogenic movement disorders", "extrapyramidal and movement disease", "benign shuddering attacks", "primary orthostatic tremor"]
+description: "Landiolol: predikterad ny indikation Lingual-facial-buccal dyskinesia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Landiolol
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-## Landiolol: Från supraventrikulär takykardi till lingual-facial-buckal dyskinesi
+## Landiolol: Lingual-facial-buccal dyskinesia
 {: .text-alpha }
 
 ---
@@ -49,12 +49,12 @@ TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **lingual-fac
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext registrerad i godkännandena. Enligt farmakologiska data: supraventrikulär takykardi (förmaksflimmer och förmaksfladder) |
-| Förutsagd ny indikation | Lingual-facial-buckal dyskinesi |
-| TxGNN-förutsägelsepoäng | 99,1 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Lingual-facial-buccal dyskinesia |
+| TxGNN-förutsägelsepoäng | 0.9911 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -65,17 +65,15 @@ Ingen detaljerad verkningsmekanismdata finns tillgänglig i det underlag som sam
 
 Det finns i dagsläget ingen dokumenterad mekanism som kopplar selektiv perifer β1-blockad till dyskinesi i mun- och ansiktsregionen. Sådana rörelsestörningar drivs vanligen av dopaminerg dysfunktion, till exempel tardiv dyskinesi efter behandling med dopaminantagonister. Icke-selektiva betablockerare som passerar in i centrala nervsystemet, till exempel propranolol, har använts vid vissa rörelsestörningar. Landiolols höga β1-selektivitet och vattenlöslighet talar däremot mot någon betydande effekt i hjärnan.
 
-Den höga poängen är sannolikt ett resultat av associationer på klassnivå för betablockerare i kunskapsgrafen snarare än en verklig mekanistisk koppling. Sambandet mellan den ursprungliga och den nya indikationen är därför svagt och spekulativt.
+Sambandet mellan den ursprungliga och den nya indikationen är därför svagt och spekulativt.
 
 **Övriga förutsägelser med liknande poäng** (alla L5, utan prövningar eller litteratur):
 
 | Förutsagd indikation | Poäng | Kommentar |
 |------|------|------|
-| Kronisk tics | 99,1 % | De etablerade läkemedlen är alfa-2-agonister (klonidin, guanfacin), inte β1-blockerare. Landiolol har begränsad penetration till hjärnan. |
-| Psykogena rörelsestörningar | 99,1 % | Det saknas ett väldefinierat farmakologiskt mål, och behandlingen är främst icke-farmakologisk. |
-| Extrapyramidal sjukdom och rörelsestörning | 99,0 % | Bred grupp av olika tillstånd. Landiolol passar dåligt vid kroniska rörelsestörningar. |
-| Benigna darrningsattacker | 99,0 % | Sällsynt, självbegränsande tillstånd hos små barn. Nytta–riskbalansen är ogynnsam. |
-| Primär ortostatisk tremor | 99,0 % | Betablockerare är oftast verkningslösa mot denna högfrekventa tremor, och intravenös korttidsbehandling är opraktisk. |
+| Extrapyramidal sjukdom och rörelsestörning | 0,9900 | Bred grupp av olika tillstånd. Landiolol passar dåligt vid kroniska rörelsestörningar. |
+| Benigna darrningsattacker | 0,9900 | Sällsynt, självbegränsande tillstånd hos små barn. Nytta–riskbalansen är ogynnsam. |
+| Primär ortostatisk tremor | 0,9900 | Betablockerare är oftast verkningslösa mot denna högfrekventa tremor, och intravenös korttidsbehandling är opraktisk. |
 
 ---
 

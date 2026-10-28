@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Entecavir
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 164
-evidence_level: L5
-indication_count: 10
+evidence_level: L3
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Entecavir: predikterad ny indikation Kronisk hepatit C-virusinfektion (evidensnivå L5). Ursprunglig indikation: Kronisk hepatit B-virusinfektion (godkännandetexterna i Sverige sakna…"
 monitor_inn: "entecavir"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
+description: "Entecavir: predikterad ny indikation Chronic hepatitis C virus infection (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Entecavir
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L3** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Entekavir: Från kronisk hepatit B-virusinfektion till kronisk hepatit C-virusinfektion
+## Entecavir: Chronic hepatitis C virus infection
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Entekavir är ett antiviralt läkemedel som ursprungligen används mot kronisk hepatit B-virusinfektion (HBV). TxGNN-modellen förutsäger att det kan vara effektivt mot **kronisk hepatit C-virusinfektion**, med en mycket hög modellpoäng (**99,98 %**). Evidensen stöder dock inte att entekavir verkar mot hepatit C-virus. De **2 kliniska prövningarna** och **20 publikationerna** handlar om att skydda mot HBV-reaktivering hos patienter som har båda infektionerna.
+Entekavir är ett antiviralt läkemedel som ursprungligen används mot kronisk hepatit B-virusinfektion (HBV). TxGNN-modellen förutsäger att det kan vara effektivt mot **kronisk hepatit C-virusinfektion**, med en mycket hög modellpoäng (**0,9998**). Evidensen stöder dock inte att entekavir verkar mot hepatit C-virus. De **2 kliniska prövningarna** och **20 publikationerna** handlar om att skydda mot HBV-reaktivering hos patienter som har båda infektionerna.
 
 ---
 
@@ -48,12 +48,12 @@ Entekavir är ett antiviralt läkemedel som ursprungligen används mot kronisk h
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Kronisk hepatit B-virusinfektion (godkännandetexterna i Sverige saknar indikationstext) |
-| Förutsagd ny indikation | Kronisk hepatit C-virusinfektion |
-| TxGNN-förutsägelsepoäng | 99,98 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Chronic hepatitis C virus infection |
+| TxGNN-förutsägelsepoäng | 0.9998 |
 | Evidensnivå | L3 (enligt regelverket: översiktsartiklar och observationsstudier). Evidensen gäller HBV-skydd vid samtidig HCV-infektion, inte behandling av HCV. |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 10 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
+| Antal godkännanden | 10 (giltiga: 10) |
 | Rekommenderat beslut | Avvakta |
 
 ---

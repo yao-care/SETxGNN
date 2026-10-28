@@ -4,17 +4,17 @@ title: Fenofibrate
 parent: Endast modellprediktion (L5)
 nav_order: 193
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-15
-description: "Fenofibrate: predikterad ny indikation Homozygot familjär hyperkolesterolemi (evidensnivå L5). Ursprunglig indikation: Hypertriglyceridemi och andra hyperlipidemier (enligt kunskapsgrafen…"
+indication_count: 1
 monitor_inn: "fenofibrate"
-predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "hypercholesterolemia, autosomal dominant"]
+predicted_indications: ["cholesterol-ester transfer protein deficiency"]
+last_modified_at: 2026-10-23
+description: "Fenofibrate: predikterad ny indikation Cholesterol-ester transfer protein deficiency (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Fenofibrate
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **7** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,115 +33,91 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Fenofibrat: Från hypertriglyceridemi till homozygot familjär hyperkolesterolemi
+## Fenofibrate: Cholesterol-ester transfer protein deficiency
 {: .text-alpha }
 
 ---
 
-## Sammanfattning
+### Sammanfattning
 
-Fenofibrat har använts för att behandla förhöjda blodfetter, framför allt hypertriglyceridemi och blandad hyperlipidemi. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **homozygot familjär hyperkolesterolemi**. Underlaget är dock svagt: den enda kopplade kliniska prövningen (**1 prövning**) testar ett annat läkemedel (alirokumab), och bland **10 publikationer** är det bara en äldre studie från 1984 som berör en enstaka patient med sjukdomen.
+Fenofibrat är ett läkemedel som ursprungligen används vid blodfettsrubbningar, bland annat hypertriglyceridemi och hyperlipidemi. TxGNN-modellen förutsäger att det kan vara effektivt mot **kolesterolestertransferproteinbrist (CETP-brist)**, men underlaget består av **0 kliniska prövningar** och **3 prekliniska/mekanistiska publikationer**. Ingen av dem studerar CETP-brist hos människor, så förutsägelsen bör ses som en modellhypotes.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Hypertriglyceridemi och andra hyperlipidemier (enligt kunskapsgrafen, eftersom indikationstexten saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Homozygot familjär hyperkolesterolemi |
-| TxGNN-förutsägelsepoäng | 99,9 % |
-| Evidensnivå | L4 (endast indirekt och mekanistiskt stöd, inga studier med fenofibrat vid sjukdomen) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 5 |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Cholesterol-ester transfer protein deficiency |
+| TxGNN-förutsägelsepoäng | 0.9961 |
+| Evidensnivå | L5 (ingen studie som direkt undersöker CETP-brist) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
+| Antal godkännanden | 5 (giltiga: 5) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för denna rapport. Fenofibrat är dock en välkänd PPARalfa-agonist. Det ökar nedbrytningen av triglycerider och sänker triglycerider och VLDL. Det höjer HDL och sänker LDL-kolesterol något. Effekten vid hyperlipidemi är väl belagd.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Baserat på allmänt känd information är fenofibrat en PPAR-alfa-agonist som sänker triglycerider och höjer HDL-kolesterol. Den litteratur som ingår visar att fenofibrat påverkar lipoproteinomsättningen, bland annat genom ökat uttryck av fosfolipidtransferprotein (PLTP) hos möss, vilket ger större och kolesterolesterrika HDL-partiklar.
 
-Sambandet mellan den ursprungliga och den förutsagda indikationen är att båda är störningar i fettomsättningen. Förutsägelsen bygger sannolikt på att sjukdomarna delar biologiska mekanismer och läkemedelskopplingar i kunskapsgrafen.
+Kopplingen till CETP-brist ligger i att båda rör lipoproteinmetabolismen. Den höga modellpoängen speglar sannolikt närhet mellan PPAR-alfa och CETP/PLTP i nätverket av lipidvägar snarare än ett kliniskt behov.
 
-Mekanistiskt är dock tillämpningen osäker. Vid homozygot familjär hyperkolesterolemi ligger felet i LDL-receptorns funktion. En PPARalfa-agonist förväntas därför ha begränsad effekt på LDL-kolesterol. Fenofibrat är i bästa fall ett möjligt tillägg och inte en primär LDL-sänkande behandling.
-
----
-
-## Kliniska prövningar
-
-| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
-|---------|------|------|------|---------|
-| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Fas 3 | Avslutad | 18 | Öppen studie av alirokumab (PCSK9-hämmare) hos barn och ungdomar 8–17 år med homozygot familjär hyperkolesterolemi. Utvärderar LDL-kolesterol vecka 12. Fenofibrat ingår inte, så studien ger inget direkt stöd. |
+Det finns dessutom en betydande invändning: CETP-brist kännetecknas av kraftigt förhöjt HDL-kolesterol. Fenofibrat höjer HDL ytterligare, så läkemedlet skulle snarare förstärka än korrigera tillståndet. Mekanismen är därmed inte självklart terapeutiskt tillämpbar.
 
 ---
 
-## Litteraturbevis
+### Kliniska prövningar
+
+Inga relaterade kliniska prövningar registrerade för närvarande.
+
+---
+
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [6593751](https://pubmed.ncbi.nlm.nih.gov/6593751/) | 1984 | Kohortstudie | Pharmacological Research Communications | 22 patienter med typ II-hyperlipoproteinemi behandlades med fenofibrat 300 mg/dag i 4–12 månader. Totalkolesterol sjönk i snitt 22 % och LDL-kolesterol 24 %. En patient med homozygot familjär hyperkolesterolemi hade den största sänkningen. |
-| [2042836](https://pubmed.ncbi.nlm.nih.gov/2042836/) | 1991 | Översikt | Annals of the New York Academy of Sciences | Behandling av barn och ungdomar med dyslipidemi, främst familjär hyperkolesterolemi. Fenofibrat nämns bland läkemedel som sänkt blodfetterna. |
-| [37979722](https://pubmed.ncbi.nlm.nih.gov/37979722/) | 2024 | Översikt | Indian Heart Journal | Översikt av traditionella och nya icke-statiner. Fenofibratmonoterapi är mest motiverad vid triglycerider över 500 mg/dl, och effekten på hjärt-kärlhändelser är måttlig. |
-| [28437620](https://pubmed.ncbi.nlm.nih.gov/28437620/) | 2017 | Riktlinje | Endocrine Practice | Amerikanska riktlinjer (AACE/ACE) för behandling av dyslipidemi och prevention av hjärt-kärlsjukdom. |
-| [35499807](https://pubmed.ncbi.nlm.nih.gov/35499807/) | 2022 | Översikt | Current Atherosclerosis Reports | Hantering av dyslipidemi under graviditet. Ger endast allmän bakgrund. |
-| [24734312](https://pubmed.ncbi.nlm.nih.gov/24734312/) | 2014 | Farmakokinetisk studie | Pharmacotherapy | Lomitapid, godkänt vid homozygot familjär hyperkolesterolemi, och dess interaktioner med bl.a. fenofibrat och statiner. |
-| [14620392](https://pubmed.ncbi.nlm.nih.gov/14620392/) | 2003 | Översikt | Pharmacotherapy | Ezetimib, en kolesterolabsorptionshämmare. Ingen direkt koppling till fenofibrat. |
-| [9129869](https://pubmed.ncbi.nlm.nih.gov/9129869/) | 1997 | Översikt | Drugs | Atorvastatin vid hyperlipidemier. Allmän bakgrund. |
-| [9627539](https://pubmed.ncbi.nlm.nih.gov/9627539/) | 1998 | Översikt | Canadian Journal of Cardiology | Läkemedelsbehandling av dyslipidemi med fokus på atorvastatin. |
-| [26432726](https://pubmed.ncbi.nlm.nih.gov/26432726/) | 2015 | Översikt | Indian Heart Journal | LDL-kolesterol, statiner och PCSK9-hämmare. Statiner kombineras vid svår hyperkolesterolemi med bl.a. ezetimib. |
+| [20332533](https://pubmed.ncbi.nlm.nih.gov/20332533/) | 2010 | Preklinisk studie | Journal of Cardiovascular Pharmacology and Therapeutics | Hos transgena möss med humant ApoB100 och humant CETP studerades CETP-hämmaren torcetrapib och fenofibrat (PPAR-alfa-agonist) på lipidprofiler; kombinationen höjde HDL-kolesterol och sänkte LDL-kolesterol. |
+| [11342537](https://pubmed.ncbi.nlm.nih.gov/11342537/) | 2001 | Preklinisk studie | The Journal of Biological Chemistry | Fenofibrat inducerade PLTP-genen hos möss, vilket förklarade förstoringen av HDL-partiklar. |
+| [30271349](https://pubmed.ncbi.nlm.nih.gov/30271349/) | 2018 | Preklinisk/mekanistisk studie | Frontiers in Physiology | Undersökte sambandet mellan HDL-kolesterol, HDL-funktion, kolesterolutsöndring i avföring och kolesterolutflöde; HDL-funktionen bedöms viktigare än HDL-nivån. |
 
 ---
 
-## Marknadsinformation Sverige
-
-Alla fem godkännanden är indragna, och ingen indikationstext finns angiven.
+### Marknadsinformation Sverige
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 15661 | Lipanthyl (Viatris AB) | Kapsel, hård | Ingen indikationstext angiven |
-| 62472 | Thylip (2care4 Generics ApS) | Kapsel, hård | Ingen indikationstext angiven |
-| 68934 | Lipanthyl (Abacus Medicine A/S) | Kapsel, hård | Ingen indikationstext angiven |
-| 43044 | Lipanthyl (Orifarm AB) | Kapsel, hård | Ingen indikationstext angiven |
-| 63601 | Lipanthyl (Ebb Medical AB) | Kapsel, hård | Ingen indikationstext angiven |
+| 15661 | Lipanthyl (Viatris AB) | Kapsel, hård | Indikationstext saknas i underlaget |
+| 62472 | Thylip (2care4 Generics ApS) | Kapsel, hård | Indikationstext saknas i underlaget |
+| 68934 | Lipanthyl (Abacus Medicine A/S) | Kapsel, hård | Indikationstext saknas i underlaget |
+| 43044 | Lipanthyl (Orifarm AB) | Kapsel, hård | Indikationstext saknas i underlaget |
+| 63601 | Lipanthyl (Ebb Medical AB) | Kapsel, hård | Indikationstext saknas i underlaget |
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-Ingen information från produktresumén fanns tillgänglig. Uppgifterna nedan kommer från en kunskapsgraf och är inte hämtade från godkänd produktinformation.
+Följande kommer från kunskapsgrafen och utgör inte produktresumétext.
 
-- **Tillstånd där läkemedlet enligt kunskapsgrafen är kontraindicerat eller bör undvikas:**
-  - lever- och gallsjukdom: leversvikt, leversjukdom, gallblåsesjukdom, gallsten (kolelitiasis, kolecystolitiasis)
-  - bukspottkörtel: pankreatit
-  - muskler: myopati, muskelsjukdomar, skelettmuskelsjukdom, familjär periodisk förlamning, rabdomyolys, nodulär fasciit
-  - blodbild: trombocytopeni, anemi, makrocytär anemi, leukopeni, agranulocytos och flera former av neutropeni (bl.a. kongenital, cyklisk och idiopatisk)
-  - njurar: nedsatt njurfunktion
-- **Läkemedelsinteraktioner:** Totalt 199 interaktioner är kända. Bland de listade finns måttliga interaktioner med:
-  - sulfonureider (acetohexamid, klorpropamid, glimepirid, glipizid, glibenklamid)
-  - flera insuliner (humaninsulin, aspart, degludek, detemir, glargin, glulisin, lispro)
-  - kenodeoxykolsyra
-  - esomeprazol
+- **Kontraindikationer/tillstånd som registrerats i kunskapsgrafen** (relationer i kunskapsgrafen, inte godkänd märkning): leversvikt, leversjukdom, pankreatit, gallblåsesjukdom, gallsten (kolelitiasis och kolecystolitiasis), trombocytopeni, myopati och andra muskelsjukdomar, rabdomyolys, nedsatt njurfunktion, anemi, leukopeni, agranulocytos samt neutropeni (inklusive flera medfödda former).
+- **Läkemedelsinteraktioner**: 199 interaktioner har identifierats; de 20 som redovisats är av måttlig grad. Det gäller bland annat sulfonureider (glimepirid, glipizid, glibenklamid, acetohexamid, klorpropamid), flera insulinpreparat (humant, aspart, degludek, detemir, glargin, glulisin, lispro), esomeprazol och chenodeoxikolsyra. För antidiabetika och insulin är blodsockerkontroll relevant.
 
-Se produktresumén för fullständig säkerhetsinformation.
+Produktresumé med varningar och kontraindikationer saknas i det sammanställda underlaget; se produktresumén för fullständig säkerhetsinformation.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen har högt modellvärde men saknar direkt klinisk evidens. Den kopplade prövningen testar alirokumab, den enda fenofibratrelaterade källan är en studie från 1984 med en enstaka patient, och mekanismen talar emot en betydande effekt vid defekt LDL-receptor.
-- Dessutom är alla svenska godkännanden indragna, vilket gör tillgängligheten oklar.
+- Förutsägelsen bygger enbart på modellpoäng och prekliniska data som inte studerar CETP-brist direkt. Mekanismen talar dessutom emot nytta, eftersom CETP-brist redan innebär högt HDL som fenofibrat skulle höja ytterligare.
 
 **För att gå vidare krävs:**
-- Kliniska data för fenofibrat vid homozygot familjär hyperkolesterolemi, till exempel en kontrollerad studie som tillägg till etablerad behandling (statiner, ezetimib, PCSK9-hämmare, lomitapid).
-- Fullständig verkningsmekanism och produktresumé med varningar och kontraindikationer.
-- Bekräftelse av vilka fenofibratprodukter som finns att tillgå i Sverige.
-- Genomgång av interaktionsrisker, särskilt med statiner, och av lever-, njur- och muskelsäkerhet.
-
-*Observera:* Det näst högst rankade förslaget, hyperlipoproteinemi, ligger nära läkemedlets ursprungliga indikation och har många avslutade fas 3-prövningar med fenofibrat. Det är därför mer en utvidgning inom befintlig användning än en verklig återanvändning.
+- Studier som direkt undersöker fenofibrat vid CETP-brist (mekanistiska, observationella eller kliniska).
+- Klargörande av om det finns ett kliniskt behov som fenofibrat kan adressera.
+- Detaljerad verkningsmekanismdata och produktresuméns varningar och kontraindikationer för säkerhetsbedömning.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

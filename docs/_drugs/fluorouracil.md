@@ -6,9 +6,9 @@ nav_order: 202
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Fluorouracil: predikterad ny indikation Botryoid embryonalt rabdomyosarkom i vagina (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. Enligt kunska…"
 monitor_inn: "FLUOROURACIL"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "sickle cell-hemoglobin d disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-hemoglobin E disease syndrome"]
+description: "Fluorouracil: predikterad ny indikation Botryoid-type embryonal rhabdomyosarcoma of the vagina (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Fluorouracil
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Fluorouracil: Från hudcancer och magcancer till rabdomyosarkom
+## Fluorouracil: Botryoid-type embryonal rhabdomyosarcoma of the vagina
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Fluorouracil är en antimetabolit som ursprungligen användes mot bland annat basalcellscancer, aktinisk keratos, magcancer, kolonmetastaser och pankreasadenokarcinom. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **embryonalt botryoid rabdomyosarkom i vagina** (poäng 99,8 %).
+Fluorouracil är en antimetabolit som ursprungligen användes mot bland annat basalcellscancer, aktinisk keratos, magcancer, kolonmetastaser och pankreasadenokarcinom. TxGNN-modellen (djupinlärning) förutsäger att läkemedlet kan vara effektivt mot **embryonalt botryoid rabdomyosarkom i vagina** (poäng 0.9975). Poängen kommer från TxGNN-modellen och kan spegla likheter som modellen lärt sig mellan relaterade sjukdomar, inte biologisk evidens.
 För denna indikation finns **inga kliniska prövningar** och **ingen publikation**, så stödet är enbart en modellförutsägelse. Rabdomyosarkom i allmänhet (rang 2) har fyra publikationer, men de är indirekta eller anekdotiska.
 
 ---
@@ -49,12 +49,12 @@ För denna indikation finns **inga kliniska prövningar** och **ingen publikatio
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: ytlig multifokal basalcellscancer, aktinisk keratos, magcancer m.fl. |
-| Förutsägd ny indikation | Botryoid embryonalt rabdomyosarkom i vagina |
-| TxGNN-förutsägelsepoäng | 99,8 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsägd ny indikation | Botryoid-type embryonal rhabdomyosarcoma of the vagina |
+| TxGNN-förutsägelsepoäng | 0.9975 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 6 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -109,7 +109,6 @@ Samtliga sex godkännanden är indragna. Ingen godkänd indikationstext finns re
 | Post | Innehåll |
 |------|------|
 | Cytotoxicitetsklassificering | Konventionell cytotoxisk (antimetabolit, fluoropyrimidin) |
-| Myelosuppressionsrisk | Hög. Kunskapsgrafen listar neutropeni, trombocytopeni, leukopeni och agranulocytos bland tillstånd där läkemedlet är kontraindicerat. |
 | Emetogenicitetsklassificering | Medel (generellt för fluoropyrimidiner i injektionsform) |
 | Övervakningspunkter | Blodstatus (neutrofiler, trombocyter), lever- och njurfunktion, mag-tarmtoxicitet (diarré, stomatit) |
 | Hanteringsskydd | Se produktresumén för varningar och försiktighetsåtgärder. Hantering enligt gällande föreskrifter för cytotoxiska läkemedel är normalt aktuell. |

@@ -6,9 +6,9 @@ nav_order: 320
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Norgestimate: predikterad ny indikation Förhöjt zink i plasma (zinc, elevated plasma) (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext registrerad. Kunskapsgrafen anger akne…"
 monitor_inn: "norgestimate"
 predicted_indications: ["zinc, elevated plasma"]
+description: "Norgestimate: predikterad ny indikation Förhöjt zink i plasma (zinc, elevated plasma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Norgestimate
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Norgestimat: Från akne och postmenopausal osteoporos till förhöjt zink i plasma
+## Norgestimate: Förhöjt zink i plasma (zinc, elevated plasma)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Norgestimat är ett gestagen (en prodrug som omvandlas till levonorgestrel och norelgestromin) som används i kombinerade p-piller. I kunskapsgrafen är det kopplat till bland annat akne, postmenopausal osteoporos och atrofisk vaginit efter klimakteriet. TxGNN-modellen förutsäger att det kan vara effektivt mot **förhöjt zink i plasma**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna riktning. Förutsägelsen bygger enbart på modellen.
+Norgestimat är ett gestagen (en prodrug som omvandlas till levonorgestrel och norelgestromin) som används i kombinerade p-piller. TxGNN-modellen (deep learning) förutsäger att det kan vara effektivt mot **förhöjt plasmazink**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna riktning. Förutsägelsen bygger enbart på modellen och kan spegla likheter som modellen lärt sig mellan relaterade sjukdomar, inte biologisk evidens.
 
 ---
 
@@ -48,12 +48,12 @@ Norgestimat är ett gestagen (en prodrug som omvandlas till levonorgestrel och n
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext registrerad. Kunskapsgrafen anger akne, postmenopausal osteoporos, osteoporos och postmenopausal atrofisk vaginit |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Förhöjt zink i plasma (zinc, elevated plasma) |
-| TxGNN-förutsägelsepoäng | 99,1 % |
+| TxGNN-förutsägelsepoäng | 0.9906 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Base
 
 Förhöjt zink i plasma är ett laboratoriefynd snarare än ett vanligt behandlingsmål, så den terapeutiska logiken är oklar. Könshormoner och p-piller har i den bredare litteraturen beskrivits påverka cirkulerande zink- och kopparnivåer, men det underlaget ingår inte i de data som sammanställts för denna rapport och kan inte räknas som evidens för norgestimat specifikt.
 
-Den höga poängen (0,99) speglar sannolikt närhet i kunskapsgrafen via gemensamma metabola eller hormonella nätverksnoder, inte en verklig terapeutisk effekt. Förutsägelsen bör därför tolkas med stor försiktighet.
+Den höga poängen (0,9906) kommer från TxGNN-modellen (djupinlärning) och kan spegla likheter som modellen lärt sig mellan relaterade sjukdomar, inte biologisk evidens. Förutsägelsen bör därför tolkas med stor försiktighet.
 
 ---
 
@@ -87,7 +87,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 | 59046 | Amorina (Effik) | Tablett | Ingen indikationstext registrerad (indraget) |
 | 50862 | Amorest 28 (Campus Pharma AB) | Tablett | Ingen indikationstext registrerad (indraget) |
 
-Båda godkännandena är indragna. Det finns inga giltiga godkännanden i Sverige i dagsläget.
+Båda godkännandena är giltiga. Läkemedlet är marknadsfört i Sverige med 2 giltiga godkännanden av 2.
 
 ---
 

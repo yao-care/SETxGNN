@@ -6,9 +6,9 @@ nav_order: 281
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Metformin: predikterad ny indikation Fokalt stelbenssyndrom (focal stiff limb syndrome) (evidensnivå L5). Ursprunglig indikation: Typ 2-diabetes (enligt kunskapsgrafen"
 monitor_inn: "metformin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
+description: "Metformin: predikterad ny indikation Fokalt stelbenssyndrom (focal stiff limb syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Metformin
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-## Metformin: Från typ 2-diabetes till fokalt stelbenssyndrom
+## Metformin: Fokalt stelbenssyndrom (focal stiff limb syndrome)
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Metformin är ett läkemedel som ursprungligen används för att behandla typ 2-
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Typ 2-diabetes (enligt kunskapsgrafen; ingen indikationstext finns i de svenska godkännandena) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Fokalt stelbenssyndrom (focal stiff limb syndrome) |
-| TxGNN-förutsägelsepoäng | 99,4 % |
+| TxGNN-förutsägelsepoäng | 0.9945 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (samtliga avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -64,16 +64,15 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Base
 
 Fokalt stelbenssyndrom hör till spektrumet av stelhetssyndrom (stiff-person-spektrumet). Det anses vara autoimmunt och innebär nedsatt GABA-förmedlad hämning, ofta med antikroppar mot GAD65. Ingen direkt koppling till metforminets verkningssätt finns i underlaget.
 
-Den höga poängen kan delvis bero på att anti-GAD65-autoimmunitet är kopplad till autoimmun diabetes, vilket placerar ett diabetesläkemedel nära sjukdomen i kunskapsgrafen. Det är sannolikt en nätverkseffekt snarare än ett terapeutiskt resonemang.
+Den höga poängen kommer från TxGNN-modellen (deep learning) och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens. Anti-GAD65-autoimmunitet är kopplad till autoimmun diabetes, vilket kan göra att ett diabetesläkemedel hamnar nära sjukdomen i modellens lärda samband. Det är sannolikt en effekt av dessa likheter snarare än ett terapeutiskt resonemang.
 
 Övriga förutsagda indikationer har liknande svaga underlag:
 
 | Förutsagd indikation | Poäng | Kommentar |
 |------|------|------|
-| Klassiskt stelmanssyndrom (classic stiff person syndrome) | 99,4 % | Autoimmun sjukdom; troligen grafartefakt via GAD65-kopplingen till diabetes |
-| Opsismodysplasi | 99,4 % | Sällsynt skelettsjukdom med INPPL1-mutation (insulin-/PI3K-signalering); endast teoretisk koppling |
-| Tiaminresponsivt dysfunktionssyndrom | 99,4 % | Metformin åtgärdar inte det underliggande tiaminrelaterade defekten |
-| Läkemedelsinducerad lokaliserad lipodystrofi | 99,1 % | Metformin har studerats vid andra lipodystrofier, men sambandet är indirekt |
+| Klassiskt stelmanssyndrom (classic stiff person syndrome) | 0,9940 | Autoimmun sjukdom; troligen grafartefakt via GAD65-kopplingen till diabetes |
+| Opsismodysplasi | 0,9940 | Sällsynt skelettsjukdom med INPPL1-mutation (insulin-/PI3K-signalering); endast teoretisk koppling |
+| Tiaminresponsivt dysfunktionssyndrom | 0,9940 | Metformin åtgärdar inte det underliggande tiaminrelaterade defekten |
 
 ---
 
@@ -116,7 +115,7 @@ Produktresumés varningar och kontraindikationer ingick inte i underlaget. Se pr
 - Komplettera data om metforminets verkningsmekanism (t.ex. via DrugBank).
 - Genomföra en systematisk litteratursökning och en sökning efter kliniska prövningar för fokalt stelbenssyndrom och klassiskt stelmanssyndrom.
 - Undersöka om en biologiskt rimlig mekanism finns, till exempel via prekliniska studier, innan fortsatta steg övervägs.
-- Klargöra marknadsläget, eftersom alla godkännanden är avregistrerade.
+- Klargöra marknadsläget: läkemedlet är marknadsfört och 20 giltiga godkännanden finns.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -6,9 +6,9 @@ nav_order: 390
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Sacubitril: predikterad ny indikation Småkärlssjukdom i hjärnan typ 1, med eller utan ögonavvikelser (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga licensuppgifter"
 monitor_inn: "sacubitril"
 predicted_indications: ["brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "rheumatoid arthritis", "hemoglobinopathy"]
+description: "Sacubitril: predikterad ny indikation Brain small vessel disease 1 with or without ocular anomalies (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Sacubitril
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-## Sakubitril: Från ej angiven ursprunglig indikation till småkärlssjukdom i hjärnan (typ 1, med eller utan ögonavvikelser)
+## Sacubitril: Brain small vessel disease 1 with or without ocular anomalies
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Sakubitril säljs i Sverige som fast kombination med valsartan. De tillgängliga
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i tillgängliga licensuppgifter |
-| Förutsagd ny indikation | Småkärlssjukdom i hjärnan typ 1, med eller utan ögonavvikelser |
-| TxGNN-förutsägelsepoäng | 99,6 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Brain small vessel disease 1 with or without ocular anomalies |
+| TxGNN-förutsägelsepoäng | 0.9958 |
 | Evidensnivå | L5 (endast modellförutsägelse, inga relevanta studier) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (samtliga avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -84,7 +84,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är avregistrerade. Nedan visas fem av dem.
+Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

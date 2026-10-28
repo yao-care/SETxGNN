@@ -51,10 +51,10 @@ TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **manisk bipo
 |------|------|
 | Ursprunglig indikation | Ej angiven i tillgängliga godkännandedata |
 | Förutsagd ny indikation | Manisk bipolär sjukdom (engelska: manic bipolar affective disorder) |
-| TxGNN-förutsägelsepoäng | 99,6 % |
+| TxGNN-förutsägelsepoäng | 0,9962 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 6 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -65,21 +65,14 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 Sambandet med den ursprungliga indikationen är ännu inte utrett. Den ursprungliga indikationen saknas i godkännandedata, och likheten mellan indikationerna är därför inte bedömd.
 
-Den höga poängen (0,996) är en beräkning från modellen och inte ett kliniskt resultat. Mekanismen är en hypotes och bör inte tolkas som belagd effekt.
+Den höga poängen (0,9962) är en beräkning från modellen och inte ett kliniskt resultat. Mekanismen är en hypotes och bör inte tolkas som belagd effekt.
 
 **Övriga förutsägelser från modellen** (alla på evidensnivå L5, utan kliniska prövningar eller litteratur):
 
 | Rang | Sjukdom | Poäng | Mekanistisk rimlighet |
 |------|------|------|------|
-| 2 | Tourettes syndrom | 99,5 % | Möjlig påverkan på dopaminnivåer i basalganglierna; liknande läkemedel (ondansetron) har prövats i små studier |
-| 3 | Akut smittsam konjunktivit | 99,5 % | Ingen tydlig mekanism; troligen nätverksassociation |
-| 4 | Angioödem | 99,4 % | Endast indirekt; bradykinin- och histaminförmedlat angioödem är inga kända målstrukturer |
-| 5 | Allergisk urtikaria | 99,3 % | Spekulativ; serotonin kan bidra till klåda och mastcellssvar |
-| 6 | Nefrogent syndrom med olämplig antidios | 99,3 % | Ingen känd koppling; sannolikt modellartefakt |
-| 7 | Trikotillomani | 99,2 % | Löst teoretiskt stöd via serotonin- och dopaminrubbningar |
-| 8 | Bronkit | 99,2 % | Ingen etablerad mekanism; spekulativ roll i luftvägarnas sensoriska nerver |
-| 9 | Kallurtikaria | 99,1 % | Svagt, indirekt stöd via mastcellsmodulering |
-| 10 | Konjunktivit | 99,1 % | Ingen direkt mekanism; troligen nätverksassociation |
+| 9 | Kallurtikaria | 0,9910 | Svagt, indirekt stöd via mastcellsmodulering |
+| 10 | Konjunktivit | 0,9910 | Ingen direkt mekanism; troligen nätverksassociation |
 
 ---
 
@@ -122,7 +115,7 @@ Se i övrigt produktresumén för fullständig säkerhetsinformation, eftersom v
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för manisk bipolär sjukdom bygger enbart på en modellberäkning (evidensnivå L5), utan kliniska prövningar eller publikationer. Dessutom är alla svenska godkännanden avregistrerade, och viktiga data om varningar och kontraindikationer saknas.
+- Förutsägelsen för manisk bipolär sjukdom bygger enbart på en modellberäkning (evidensnivå L5), utan kliniska prövningar eller publikationer. Läkemedlet är marknadsfört i Sverige med 6 giltiga godkännanden av 6, men viktiga data om varningar och kontraindikationer saknas.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket (MPA) för att komplettera varningar, kontraindikationer och godkänd indikation.

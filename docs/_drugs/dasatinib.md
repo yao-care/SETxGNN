@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dasatinib
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 126
-evidence_level: L5
-indication_count: 10
+evidence_level: L4
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Dasatinib: predikterad ny indikation Ewings sarkom (evidensnivå L5). Ursprunglig indikation: Kronisk myeloisk leukemi…"
 monitor_inn: "DASATINIB"
 predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival", "dermatofibrosarcoma protuberans", "ovarian myxoid liposarcoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung"]
+description: "Dasatinib: predikterad ny indikation Ewing sarcoma (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Dasatinib
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L4** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Dasatinib: Från kronisk myeloisk leukemi (BCR-ABL1-positiv) till Ewings sarkom
+## Dasatinib: Ewing sarcoma
 {: .text-alpha }
 
 ---
@@ -49,11 +49,11 @@ TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **Ewings sark
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Kronisk myeloisk leukemi, BCR-ABL1-positiv (godkänd indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Ewings sarkom |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Ewing sarcoma |
+| TxGNN-förutsägelsepoäng | 0.9990 |
 | Evidensnivå | L4 (prekliniska studier och mekanismstudier; de två prövningarna ger inget bekräftat stöd för Ewings sarkom) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
@@ -145,7 +145,6 @@ Alla 20 godkännanden är indragna och inget är för närvarande giltigt. Indik
 - Resultat för Ewings sarkom separat från fas 2-studien NCT00464620
 - Prospektiva studier av kombinationsregimer (t.ex. RIST) med tillräckligt antal patienter
 - Detaljerad information om verkningsmekanism och säkerhet från produktresumén
-- Bedömning av tillgång och regulatorisk status i Sverige, eftersom inga godkännanden är giltiga
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

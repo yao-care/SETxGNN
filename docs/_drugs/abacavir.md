@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 11
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Abacavir: predikterad ny indikation Infektion med simian immunbristvirus (SIV) (evidensnivå L5). Ursprunglig indikation: HIV-infektion, AIDS (enligt kunskapsgrafen"
 monitor_inn: "abacavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+last_modified_at: 2026-10-27
+description: "Abacavir: predikterad ny indikation Simian immunbristvirusinfektion (simian immunodeficiency virus infection) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Abacavir
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Abakavir: Från HIV-infektion till infektion med simian immunbristvirus (SIV)
+## Abakavir: Nukleosidanalog, omvänt transkriptashämmare → Simian immunbristvirusinfektion (simian immunodeficiency virus infection)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Abakavir är en nukleosidanalog som hämmar omvänt transkriptas och ursprungligen användes för behandling av **HIV-infektion och AIDS**. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **infektion med simian immunbristvirus (SIV)**, men underlaget består av **0 kliniska prövningar** och **1 publikation** (en in vitro-studie). Förutsägelsen är i praktiken en förlängning av den befintliga antivirala indikationen till en djurmodellvirus, inte en ny behandling för människor.
+Abakavir är en nukleosidanalog som hämmar omvänt transkriptas och används mot hiv-infektion. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **simian immunbristvirusinfektion (simian immunodeficiency virus infection)**. Underlaget består av **0 kliniska prövningar** och **1 publikation**, en in vitro-studie av känslighet hos virus, vilket ger endast indirekt stöd.
 
 ---
 
@@ -48,23 +48,29 @@ Abakavir är en nukleosidanalog som hämmar omvänt transkriptas och ursprunglig
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | HIV-infektion, AIDS (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Infektion med simian immunbristvirus (SIV) |
-| TxGNN-förutsägelsepoäng | 99,8 % |
-| Evidensnivå | L4 (endast mekanismstudie/in vitro) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 5 (samtliga indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Simian immunbristvirusinfektion (simian immunodeficiency virus infection) |
+| TxGNN-förutsägelsepoäng | 0,9979 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
+| Antal godkännanden | 5 (giltiga: 5) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Baserat på känd information är abakavir en karbocyklisk guanosinanalog och en nukleosid-omvänt transkriptashämmare (NRTI). Dess effekt vid HIV-infektion är väletablerad, och mekanistiskt kan den vara tillämpbar på SIV.
+Abakavir är en karbocyklisk guanosinanalog som hämmar omvänt transkriptas (NRTI). Någon detaljerad verkningsmekanismdata finns inte tillgänglig i de sammanställda uppgifterna, men klassen är väl beskriven.
 
-SIV är ett lentivirus som är nära besläktat med HIV och har ett homologt omvänt transkriptas. Den mekanistiska rimligheten är därför hög, vilket stämmer väl överens med den höga modellpoängen.
+Simian immunbristvirus (SIV) är ett lentivirus nära besläktat med hiv och har ett homologt omvänt transkriptas. Den mekanistiska rimligheten är därför hög, vilket stämmer med den höga förutsägelsepoängen.
 
-Det är dock viktigt att se att detta i grunden är samma antivirala mekanism som vid den ursprungliga HIV-indikationen, tillämpad på ett virus som används i primatmodeller. Det rör sig inte om en ny terapeutisk indikation för människor.
+Samtidigt är detta i praktiken samma antivirala mekanism som vid den ursprungliga användningen, tillämpad på ett virus hos icke-mänskliga primater. Det är inte en ny behandling för människor. Den enda tillgängliga studien undersöker känslighet i laboratoriemiljö och ger bara indirekt evidens.
+
+---
+
+### Kliniska prövningar
+
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
@@ -72,28 +78,31 @@ Det är dock viktigt att se att detta i grunden är samma antivirala mekanism so
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In vitro-studie / översikt | Antiviral Therapy | Undersökte känsligheten hos HIV-2, SIV och SHIV för 16 godkända läkemedel och ett experimentellt läkemedel mot HIV-1. Ger endast indirekt stöd. |
+| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In vitro-känslighetsstudie / översikt | Antiviral therapy | Studien jämförde aktiviteten hos 16 godkända läkemedel och ett experimentellt läkemedel mot HIV-2, SIV och SHIV. Den ger vägledning för behandling och profylax efter exponering, men är indirekt evidens. |
 
 ---
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 64835 | Abacavir 2care4 | Filmdragerad tablett | Indragen |
-| 57373 | Abacavir/Lamivudine Medical Valley | Filmdragerad tablett | Indragen |
-| 53621 | Abacavir/Lamivudine STADA | Filmdragerad tablett | Indragen |
-| 52918 | Abacavir/Lamivudine Accord | Filmdragerad tablett | Indragen |
-| 54265 | Abakavir/Lamivudin Mylan Pharma | Filmdragerad tablett | Indragen |
+| 64835 | Abacavir 2care4 | Filmdragerad tablett | Ingen indikationstext registrerad |
+
+Övriga godkännanden i de lokala uppgifterna gäller kombinationsprodukter och beskrivs inte här.
+
+---
+
+### Cytotoxicitet
+
+Abakavir är ett antiviralt läkemedel och inte ett antineoplastiskt läkemedel, så denna sektion är inte tillämplig.
 
 ---
 
 ### Säkerhetsaspekter
 
-- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumétext): leversvikt, leversjukdom, fettlever, icke-alkoholrelaterad steatohepatit, njursjukdom, pankreatit, sjukdom i gallblåsan, myopati, muskelsjukdom, myosit, dermatomyosit, neutropeni, agranulocytos, anemi, hypertriglyceridemi, fetma och mjölksyraacidos.
-- **Läkemedelsinteraktioner**: totalt 93 registrerade interaktioner. Måttliga interaktioner finns med naltrexon och orlistat. Övriga listade interaktioner (bland annat metformin, morfin, omeprazol, pantoprazol, prednison och vankomycin) har ännu inte graderats.
+- **Läkemedelsinteraktioner**: 93 interaktioner är registrerade. Måttliga interaktioner finns med naltrexon och orlistat. Interaktioner med okänd allvarlighetsgrad är bland annat registrerade med metformin, omeprazol, pantoprazol, lansoprazol, morfin, prednison, vankomycin och amfotericin B.
 
-Se även produktresumén för fullständig säkerhetsinformation, eftersom uppgifter om varningar och kontraindikationer från de svenska godkännandena saknas.
+Se produktresumén för övrig säkerhetsinformation, eftersom varningar och kontraindikationer inte finns i de sammanställda uppgifterna.
 
 ---
 
@@ -102,14 +111,12 @@ Se även produktresumén för fullständig säkerhetsinformation, eftersom uppgi
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen är begränsad till en enda in vitro-studie, och SIV är ett djurmodellvirus, så förutsägelsen ger inget nytt kliniskt behandlingsalternativ för människor. Dessutom är alla svenska godkännanden indragna.
+- Det finns inga kliniska prövningar och endast en indirekt in vitro-studie som inte direkt visar behandlingseffekt. Förutsägelsen är i praktiken en veterinär- eller modellmässig utvidgning av den befintliga antivirala verkan, inte en ny human indikation.
 
 **För att gå vidare krävs:**
-- Komplettera uppgifter om verkningsmekanism och säkerhetsinformation (varningar och kontraindikationer) från produktresumén.
-- Klargöra om det finns något konkret användningsområde, till exempel i prekliniska modeller, som motiverar vidare arbete.
-- Vid eventuellt fortsatt arbete: prekliniska studier som isolerar abakavirs egen effekt.
-
-**Övriga förutsägelser (kort):** Även *felint förvärvat immunbristsyndrom* (poäng 99,8 %, L4) stöds endast av en veterinär kombinationsstudie med zidovudin, lamivudin och abakavir i cellkultur, där abakavirs enskilda bidrag inte kan särskiljas. Förutsägelsen om en *neuroutvecklingsstörning med ataxi, avsaknad av tal och minskad kortikal vit substans* (poäng 99,8 %, L5) saknar både kliniska prövningar, litteratur och tydlig mekanistisk koppling, och bör bedömas som endast en modellförutsägelse.
+- Studier som direkt undersöker abakavirs effekt mot SIV, med resultat som kan särskiljas från kombinationsbehandling
+- Tydlig definition av ett relevant användningsområde för människor, eller bedömning av om förutsägelsen enbart är relevant för djurmodeller
+- Komplettering av verkningsmekanism samt varningar och kontraindikationer från produktresumén
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-15
 monitor_inn: "domperidone"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-description: "Domperidone: predikterad ny indikation Nefrogent syndrom med olämplig antidures (NSIAD) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i det svenska godkännandet (enligt Drug"
+description: "Domperidone: predikterad ny indikation Nephrogenic syndrome of inappropriate antidiuresis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Domperidone
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Domperidon: Från gastrointestinala symtom till nefrogent syndrom med olämplig antidures (NSIAD)
+## Domperidone: Nephrogenic syndrome of inappropriate antidiuresis
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Domperidon är en dopamin D2/D3-receptorantagonist som används vid dyspepsi, ha
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext angiven i det svenska godkännandet (enligt DrugBank används läkemedlet vid dyspepsi, halsbränna, epigastrisk smärta, illamående och kräkningar) |
-| Förutsagd ny indikation | Nefrogent syndrom med olämplig antidures (NSIAD) |
-| TxGNN-förutsägelsepoäng | 99,1 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Nephrogenic syndrome of inappropriate antidiuresis |
+| TxGNN-förutsägelsepoäng | 0.9908 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 NSIAD orsakas av aktiverande mutationer i vasopressin V2-receptorn (AVPR2, t.ex. R137C/R137L), i vissa fall av GNAS-relaterad signalering. Det ger konstitutiv receptoraktivitet, vätskeretention och hyponatremi. Domperidon är inte känt för att påverka V2-receptorn eller dess nedströmsväg (cAMP/akvaporin-2).
 
-Det höga poängvärdet (0,99) speglar sannolikt närhet i kunskapsgrafen snarare än verifierad biologi. Ett eventuellt samband, till exempel via dopaminerg påverkan på vasopressinfrisättning eller prolaktinrelaterade effekter, vore spekulativt. Eftersom NSIAD drivs av ett receptordefekt oberoende av cirkulerande vasopressin, är det inte troligt att påverkan uppströms kan korrigera tillståndet.
+Ett eventuellt samband, till exempel via dopaminerg påverkan på vasopressinfrisättning eller prolaktinrelaterade effekter, vore spekulativt. Eftersom NSIAD drivs av ett receptordefekt oberoende av cirkulerande vasopressin, är det inte troligt att påverkan uppströms kan korrigera tillståndet.
 
 ---
 
@@ -72,7 +72,7 @@ Det höga poängvärdet (0,99) speglar sannolikt närhet i kunskapsgrafen snarar
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 46989 | Domperidon Ebb (Ebb Medical AB) | Munsönderfallande tablett | Avregistrerad |
+| 46989 | Domperidon Ebb (Ebb Medical AB) | Munsönderfallande tablett | Godkänd |
 
 ---
 

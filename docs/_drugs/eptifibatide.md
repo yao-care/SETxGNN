@@ -6,9 +6,9 @@ nav_order: 171
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Eptifibatide: predikterad ny indikation Hemoglobinopati (rangordnad som nr 7 av de förutsagda indikationerna) (evidensnivå L5). Ursprunglig indikation: Akut koronarsyndrom (enligt kunskapsgrafen"
 monitor_inn: "eptifibatide"
 predicted_indications: ["rheumatoid arthritis", "sickle cell-hemoglobin d disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-hemoglobin E disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "hemoglobinopathy", "female breast carcinoma", "beta-thalassemia with other manifestations", "partial deletion of the short arm of chromosome 16"]
+description: "Eptifibatide: predikterad ny indikation Rheumatoid arthritis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Eptifibatide
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Eptifibatid: Från akut koronarsyndrom till hemoglobinopati
+## Eptifibatide: Rheumatoid arthritis
 {: .text-alpha }
 
 ---
@@ -50,12 +50,12 @@ Den förutsagda indikation med högst rangordning i modellen är reumatoid artri
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Akut koronarsyndrom (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Hemoglobinopati (rangordnad som nr 7 av de förutsagda indikationerna) |
-| TxGNN-förutsägelsepoäng | 99,98 % |
-| Evidensnivå | L2 (en liten randomiserad fas 1/2-studie samt pilotdata) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Rheumatoid arthritis |
+| TxGNN-förutsägelsepoäng | 0.9999 |
+| Evidensnivå | L5 (en liten randomiserad fas 1/2-studie samt pilotdata) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---

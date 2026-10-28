@@ -6,9 +6,9 @@ nav_order: 200
 evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Fludarabine: predikterad ny indikation Plasmacellsmyelom (evidensnivå L2). Ursprunglig indikation: Ej angiven i tillgängliga godkännandetexter"
 monitor_inn: "fludarabine"
 predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brain small vessel disease 1 with or without ocular anomalies", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "diabetic nephropathy"]
+description: "Fludarabine: predikterad ny indikation Plasma cell myeloma (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Fludarabine
@@ -33,7 +33,7 @@ Evidensnivå: **L2** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Fludarabin: Från ospecificerad ursprunglig indikation till plasmacellsmyelom
+## Fludarabine: Plasma cell myeloma
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Fludarabin är en purinanalog med cytostatisk effekt. De svenska godkännandena 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i tillgängliga godkännandetexter |
-| Förutsagd ny indikation | Plasmacellsmyelom |
-| TxGNN-förutsägelsepoäng | 99,8 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Plasma cell myeloma |
+| TxGNN-förutsägelsepoäng | 0.9982 |
 | Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 3 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

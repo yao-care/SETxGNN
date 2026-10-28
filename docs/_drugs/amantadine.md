@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 26
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
-description: "Amantadine: predikterad ny indikation Myelit (evidensnivå L5). Ursprunglig indikation: Parkinsons sjukdom (enligt kunskapsgrafen"
 monitor_inn: "amantadine"
 predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
+last_modified_at: 2026-10-27
+description: "Amantadine: predikterad ny indikation Rasmussens subakuta encefalit (Rasmussen subacute encephalitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Amantadine
@@ -33,16 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-## Amantadin: Från Parkinsons sjukdom till myelit
+## Amantadin: NMDA-receptorantagonist och dopaminerg modulator → Rasmussens subakuta encefalit (Rasmussen subacute encephalitis)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Amantadin används ursprungligen för att behandla Parkinsons sjukdom och närliggande rörelsestörningar. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **myelit**, men underlaget består endast av **0 kliniska prövningar** och **8 publikationer**. Av dessa är en enda en randomiserad placebokontrollerad studie, och den gäller trötthet vid postpolio-syndrom, inte myelit i sig.
-
-Rapporten utgår från den tredje förutsagda indikationen (myelit), eftersom den är den första som har faktisk litteratur. De två högst rankade förutsägelserna (Rasmussens encefalit och transaldolasbrist) saknar helt evidens och behandlas därför bara kort i slutsatsen.
+Amantadin är ett läkemedel som finns på den svenska marknaden i form av hårda kapslar. TxGNN-modellen förutsäger att det kan vara effektivt mot **Rasmussens subakuta encefalit (Rasmussen subacute encephalitis)**, med ett förutsägelsepoäng på 0,9948. Det finns **inga kliniska prövningar** och **ingen publicerad litteratur** i de data som sammanställts för denna förutsägelse, så underlaget består enbart av en modellberäkning.
 
 ---
 
@@ -50,23 +48,23 @@ Rapporten utgår från den tredje förutsagda indikationen (myelit), eftersom de
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Parkinsons sjukdom (enligt kunskapsgrafen; svensk indikationstext saknas i godkännandena) |
-| Förutsagd ny indikation | Myelit |
-| TxGNN-förutsägelsepoäng | 99,2 % |
-| Evidensnivå | L3 (endast observations-/översiktsstudier och en liten RCT på ett närliggande tillstånd) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Rasmussens subakuta encefalit (Rasmussen subacute encephalitis) |
+| TxGNN-förutsägelsepoäng | 0,9948 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Baserat på allmänt känd information är amantadin en NMDA-receptorantagonist med dopaminerga effekter, och dess effekt vid Parkinsons sjukdom är väl känd. Mekanistiskt skulle detta kunna vara relevant vid neurologiska tillstånd med glutamatrelaterad skada eller trötthet.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Utifrån allmänt känd farmakologi är amantadin en NMDA-receptorantagonist med dopaminerga effekter.
 
-Kopplingen till myelit är **indirekt**. Litteraturen handlar om postpolio-syndrom, en sen följd av poliomyelit (en inflammation i ryggmärgens framhorn). Amantadin har där prövats mot trötthet, alltså symtomlindring och inte sjukdomsmodifierande behandling av myelit.
+Rasmussens encefalit är en sällsynt, immunmedierad inflammatorisk hjärnsjukdom som vanligen drabbar ena hjärnhalvan och ger svårbehandlad epilepsi. Man har diskuterat att glutamatrelaterad excitotoxisk nervcellsskada bidrar till sjukdomen. Därför kan en NMDA-hämmare i teorin dämpa en del av skadeprocessen.
 
-Förutsägelsen bör därför tolkas försiktigt. Den visar ett möjligt samband i kunskapsgrafen, inte belagd effekt vid myelit.
+Detta är en spekulativ hypotes. Den bygger enbart på modellens förutsägelse och stöds inte av någon studie i det underlag som tagits fram.
 
 ---
 
@@ -78,16 +76,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Litteraturbevis
 
-| PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|-----|------|------|---------|
-| [7611638](https://pubmed.ncbi.nlm.nih.gov/7611638/) | 1995 | RCT | Annals of the New York Academy of Sciences | Dubbelblind, placebokontrollerad studie av amantadin mot trötthet vid postpolio-syndrom; 23 patienter fullföljde sex veckors behandling. |
-| [25984923](https://pubmed.ncbi.nlm.nih.gov/25984923/) | 2015 | Systematisk översikt | Cochrane Database of Systematic Reviews | Effekten av läkemedelsbehandling och rehabilitering vid postpolio-syndrom är inte fastställd. |
-| [21328301](https://pubmed.ncbi.nlm.nih.gov/21328301/) | 2011 | Systematisk översikt | Cochrane Database of Systematic Reviews | Tidigare version av översikten; samma slutsats om otillräcklig evidens. |
-| [16879288](https://pubmed.ncbi.nlm.nih.gov/16879288/) | 2006 | Riktlinje | European Journal of Neurology | EFNS-riktlinje för diagnostik och behandling av postpolio-syndrom; stödjer inte en tydlig effekt av amantadin. |
-| [2039376](https://pubmed.ncbi.nlm.nih.gov/2039376/) | 1991 | Fallrapport/fallserie | Archives of Neurology | Rapport om postpolio-trötthet behandlad med amantadin (sammanfattning saknas). |
-| [15561551](https://pubmed.ncbi.nlm.nih.gov/15561551/) | 2005 | Översikt | Physical Medicine and Rehabilitation Clinics of North America | Allmän översikt om åldrande med polio; endast indirekt relevans. |
-| [17874343](https://pubmed.ncbi.nlm.nih.gov/17874343/) | 2007 | Översikt | Neurologia i Neurochirurgia Polska | Översikt om trötthet vid kroniska neurologiska sjukdomar, bland annat postpolio-syndrom. |
-| [10965680](https://pubmed.ncbi.nlm.nih.gov/10965680/) | 2000 | Översikt | Medicinski pregled | Allmän översikt om influensa; endast perifert relevant. |
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
@@ -95,19 +84,20 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 59320 (indraget) | Dinetrel | Kapsel, hård | Ingen indikationstext tillgänglig |
-| 66562 (indraget) | Parkadin | Kapsel, hård | Ingen indikationstext tillgänglig |
+| 59320 | Dinetrel | Kapsel, hård | Ej angiven i lokala data |
+| 66562 | Parkadin | Kapsel, hård | Ej angiven i lokala data |
 
 ---
 
 ### Säkerhetsaspekter
 
-- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumétext): multipel systematrofi, posturalt ortostatiskt takykardisyndrom, ortostatisk hypotension, epilepsi, njursjukdom, pyouretär, hjärtsvikt, psykotiska störningar (inklusive schizofreniform och schizoaffektiv störning), psykisk sjukdom, melanom, trångvinkelglaukom, substansrelaterade störningar och missbruk/beroende, atopiskt eksem samt dermatit.
-- **Läkemedelsinteraktioner**: totalt 93 interaktioner identifierade. Bland de viktigaste:
-  - **Allvarlig (Major)**: bupropion.
-  - **Måttlig (Moderate)**: antikolinerga läkemedel (atropin, skopolamin, hyoscyamin, glykopyrronium, diciklomin, klidinium, mepenzolat, metskopolamin, propantelin, trospium), metoklopramid, polyetylenglykol med elektrolyter, pikosulfat och natriumsulfat.
+- **Läkemedelsinteraktioner**: Totalt 93 interaktioner är registrerade. Bland de viktigaste:
+  - **Bupropion**: allvarlig (Major).
+  - **Antikolinergika** (atropin, skopolamin, hyoscyamin, dicyklomin, glykopyrronium, klidinium, mepenzolat, metskopolamin, propantelin, trospium): måttlig (Moderate).
+  - **Metoklopramid**: måttlig.
+  - **Polyetylenglykol med elektrolyter, pikosulfat och natriumsulfat**: måttlig.
 
-Se produktresumén för fullständig säkerhetsinformation, eftersom varningar och kontraindikationer från godkännandetexten saknas i det sammanställda underlaget.
+Produktresumén bör konsulteras för fullständig säkerhetsinformation, eftersom varnings- och kontraindikationstext saknas i de data som sammanställts.
 
 ---
 
@@ -116,13 +106,14 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för myelit bygger på indirekt evidens från postpolio-syndrom, där en liten RCT från 1995 är den enda kontrollerade studien och översikter samt riktlinjer inte visar tydlig nytta. Dessutom är samtliga svenska godkännanden indragna.
+- Förutsägelsen har ett högt modellpoäng (0,9948) men saknar helt stöd från kliniska prövningar och publikationer, vilket ger evidensnivå L5.
 
 **För att gå vidare krävs:**
-- Kompletterande data om verkningsmekanism och produktresumétext (varningar och kontraindikationer).
-- Direkta studier av amantadin vid myelit, eller en tydlig avgränsning av vilken patientgrupp (till exempel postpolio-trötthet) som avses.
-- Bedömning av regulatorisk väg, eftersom inget godkännande för närvarande är giltigt i Sverige.
-- De två högst rankade förutsägelserna (Rasmussens encefalit, 99,5 %, och transaldolasbrist, 99,3 %) saknar både prövningar och litteratur (L5). Den förstnämnda har en spekulativ mekanistisk koppling via NMDA-antagonism, medan den sistnämnda sannolikt är ett artefaktresultat från kunskapsgrafen. Båda bör förbli på "Avvakta" tills evidens finns.
+- Litteraturgenomgång av om NMDA-hämning eller amantadin har studerats vid Rasmussens encefalit.
+- Prekliniska data eller mekanismstudier som stöder en effekt vid sjukdomen.
+- Komplettering av verkningsmekanismdata för amantadin.
+- Hämtning och genomgång av produktresumén för varningar och kontraindikationer.
+- Om underlaget stärks, en liten explorativ klinisk studie i samråd med neurologer med erfarenhet av sjukdomen.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -4,17 +4,17 @@ title: Latanoprost
 parent: Endast modellprediktion (L5)
 nav_order: 253
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Latanoprost: predikterad ny indikation Primär ärftlig glaukom (evidensnivå L5). Ursprunglig indikation: Öppenvinkelglaukom, okulär hypertoni"
 monitor_inn: "LATANOPROST"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
+description: "Latanoprost: predikterad ny indikation Visceral calciphylaxis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Latanoprost
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Latanoprost: Från öppenvinkelglaukom till primär ärftlig glaukom
+## Latanoprost: Visceral calciphylaxis
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Latanoprost är en prostaglandin F2-alfa-analog som ursprungligen används för att behandla öppenvinkelglaukom och okulär hypertoni. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **primär ärftlig glaukom**, men det finns för närvarande **inga kliniska prövningar** och **ingen publicerad litteratur** i de data som sammanställts för denna rapport. Förutsägelsen bygger därför enbart på modellen.
+Latanoprost är en prostaglandin F2-alfa-analog som ursprungligen används för att behandla öppenvinkelglaukom och okulär hypertoni. Förutsägelsen bygger därför enbart på modellen.
 
 ---
 
@@ -48,11 +48,11 @@ Latanoprost är en prostaglandin F2-alfa-analog som ursprungligen används för 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Öppenvinkelglaukom, okulär hypertoni (enligt kunskapsgrafen; godkännandetexterna i det svenska registret saknar indikationstext) |
-| Förutsagd ny indikation | Primär ärftlig glaukom |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Visceral calciphylaxis |
+| TxGNN-förutsägelsepoäng | 0.9983 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 |
 | Rekommenderat beslut | Avvakta |
 
@@ -114,7 +114,6 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 - En litteratur- och prövningssökning specifikt för latanoprost vid primär ärftlig/kongenital glaukom, särskilt pediatriska studier.
 - Verkningsmekanismdata (till exempel från DrugBank) för en fullständig mekanistisk analys.
 - Varningar och kontraindikationer från aktuell produktresumé hos Läkemedelsverket.
-- Klargörande av nuvarande regulatorisk status i Sverige, eftersom inga godkännanden är giltiga.
 - Bedömning av hur läkemedlet kan användas som tillägg till kirurgi vid trabekelverksmissbildning.
 ## Ansvarsfriskrivning
 

@@ -6,9 +6,9 @@ nav_order: 223
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Hexaminolevulinate: predikterad ny indikation Bronkit (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad (läkemedlet används för blåljuscyst…"
 monitor_inn: "hexaminolevulinate"
 predicted_indications: ["bronchitis"]
+description: "Hexaminolevulinate: predikterad ny indikation Bronkit (bronchitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Hexaminolevulinate
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Hexaminolevulinat: Från bildgivande diagnostik vid blåscancer till bronkit
+## Hexaminolevulinate: Bronkit (bronchitis)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Hexaminolevulinat (Hexvix) är ett fotosensibiliserande läkemedel som används 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext registrerad (läkemedlet används för blåljuscystoskopi vid blåscancer) |
-| Förutsagd ny indikation | Bronkit |
-| TxGNN-förutsägelsepoäng | 99,1 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Bronkit (bronchitis) |
+| TxGNN-förutsägelsepoäng | 0.9906 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 Det finns inget etablerat samband mellan denna mekanism och bronkit, som är en inflammatorisk eller infektiös luftvägssjukdom. Mekanismen bygger på att porfyriner ansamlas i tumörceller, och det finns ingen biologisk förklaring till hur detta skulle ge effekt i luftvägarna.
 
-Den höga poängen (0,99) är därför en ren modellprediktion. Den saknar stöd i studier eller litteratur och bör tolkas med stor försiktighet. Intravesikal användning och den återkallade marknadsstatusen gör dessutom en återanvändning mot en luftvägsindikation osannolik utan nya prekliniska data.
+Den saknar stöd i studier eller litteratur och bör tolkas med stor försiktighet. Intravesikal användning och den återkallade marknadsstatusen gör dessutom en återanvändning mot en luftvägsindikation osannolik utan nya prekliniska data.
 
 ---
 
@@ -72,7 +72,7 @@ Den höga poängen (0,99) är därför en ren modellprediktion. Den saknar stöd
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 19227 | Hexvix | Pulver och vätska till intravesikal lösning | Ingen indikationstext registrerad (status: återkallad) |
+| 19227 | Hexvix | Pulver och vätska till intravesikal lösning | Ingen indikationstext registrerad (status: godkänd) |
 
 ---
 

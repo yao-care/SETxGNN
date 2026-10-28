@@ -4,17 +4,17 @@ title: Urofollitropin
 parent: Endast modellprediktion (L5)
 nav_order: 444
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Urofollitropin: predikterad ny indikation Migränsjukdom (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad i godkännandedata (använd produktre…"
 monitor_inn: "UROFOLLITROPIN"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "migraine with or without aura, susceptibility to", "Raynaud disease"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "Raynaud disease"]
 ---
 
 # Urofollitropin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Urofollitropin är ett urinframställt follikelstimulerande hormon (FSH, ett gon
 |------|------|
 | Ursprunglig indikation | Ingen indikationstext registrerad i godkännandedata (använd produktresumén) |
 | Förutsagd ny indikation | Migränsjukdom (migraine disorder) |
-| TxGNN-förutsägelsepoäng | 99,85 % |
+| TxGNN-förutsägelsepoäng | 0,9985 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 6 (samtliga avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Base
 
 Det enda tänkbara sambandet är indirekt och spekulativt: hormonella svängningar, framför allt i östrogennivåer, är kända för att påverka migrän. FSH-behandling förändrar östrogennivåerna, men det betyder inte att läkemedlet skulle lindra migrän. Det kan lika gärna vara en riskfaktor.
 
-Poängen från TxGNN bygger på grafbaserade samband i en kunskapsgraf och utgör inte klinisk evidens. Närliggande förutsägelser, som migrän med hjärnstamsaura och genetisk migränbenägenhet, speglar sannolikt samma signal och är inte oberoende stöd.
+Poängen kommer från TxGNN-modellen (djupinlärning) och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens. Närliggande förutsägelser, som migrän med hjärnstammsaura, speglar sannolikt samma signal och är inte oberoende stöd.
 
 ---
 
@@ -86,11 +86,11 @@ Samtliga sex godkännanden är avregistrerade och ingen produkt är för närvar
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 22944 | Fostimon | Pulver och vätska till injektionsvätska, lösning | Avregistrerad |
-| 46427 | Fostimon Set | Pulver och vätska till injektionsvätska, lösning | Avregistrerad |
-| 47701 | Fostimon Set | Pulver och vätska till injektionsvätska, lösning | Avregistrerad |
-| 46428 | Fostimon Set | Pulver och vätska till injektionsvätska, lösning | Avregistrerad |
-| 22943 | Fostimon | Pulver och vätska till injektionsvätska, lösning | Avregistrerad |
+| 22944 | Fostimon | Pulver och vätska till injektionsvätska, lösning | Godkänd |
+| 46427 | Fostimon Set | Pulver och vätska till injektionsvätska, lösning | Godkänd |
+| 47701 | Fostimon Set | Pulver och vätska till injektionsvätska, lösning | Godkänd |
+| 46428 | Fostimon Set | Pulver och vätska till injektionsvätska, lösning | Godkänd |
+| 22943 | Fostimon | Pulver och vätska till injektionsvätska, lösning | Godkänd |
 
 Ytterligare ett godkännande (47702, Fostimon Set) finns också registrerat och är avregistrerat. Ingen godkänd indikationstext finns tillgänglig i data.
 
@@ -110,15 +110,15 @@ Samtliga övriga förutsägelser bland de tio högst rankade saknar också klini
 
 | Rang | Sjukdom | TxGNN-poäng | Bedömning |
 |------|---------|------|-----------|
-| 2 | Migrän med hjärnstamsaura | 99,81 % | Undertyp av migrän, sannolikt samma signal som rang 1 |
-| 3 | Cauda equina-syndrom | 99,78 % | Ingen rimlig mekanism, sannolikt grafartefakt |
-| 4 | His bundle-takykardi | 99,69 % | Inget känt samband med FSH |
-| 5 | Restless legs syndrome | 99,69 % | Dopamin- och järnrelaterad patofysiologi, inget FSH-samband |
-| 6 | Neurogen blåsa (föråldrad term) | 99,64 % | Föråldrad term i ontologin, lågt värde som mål |
-| 7 | Multifokal förmakstakykardi | 99,54 % | Inget känt samband |
-| 8 | Posturalt ortostatiskt takykardisyndrom (POTS) | 99,52 % | Svag, spekulativ hormonell koppling |
-| 9 | Migrän med eller utan aura, benägenhet | 99,52 % | Dubblerar sannolikt migränsignalen |
-| 10 | Raynauds sjukdom | 99,50 % | Inget FSH-förmedlat samband känt |
+| 2 | Migrän med hjärnstamsaura | 0,9981 | Undertyp av migrän, sannolikt samma signal som rang 1 |
+| 3 | Cauda equina-syndrom | 0,9978 | Ingen rimlig mekanism, sannolikt grafartefakt |
+| 4 | His bundle-takykardi | 0,9969 | Inget känt samband med FSH |
+| 5 | Restless legs syndrome | 0,9969 | Dopamin- och järnrelaterad patofysiologi, inget FSH-samband |
+| 6 | Neurogen blåsa (föråldrad term) | 0,9964 | Föråldrad term i ontologin, lågt värde som mål |
+| 7 | Multifokal förmakstakykardi | 0,9954 | Inget känt samband |
+| 8 | Posturalt ortostatiskt takykardisyndrom (POTS) | 0,9952 | Svag, spekulativ hormonell koppling |
+| 9 | Migrän med eller utan aura, benägenhet | 0,9952 | Dubblerar sannolikt migränsignalen |
+| 10 | Raynauds sjukdom | 0,9950 | Inget FSH-förmedlat samband känt |
 
 ---
 
@@ -134,7 +134,7 @@ Samtliga övriga förutsägelser bland de tio högst rankade saknar också klini
 - Varningar och kontraindikationer från produktresumén (Läkemedelsverket), vilket är ett blockerande dataglapp för säkerhetsbedömning.
 - Litteraturgenomgång av sambandet mellan FSH/östrogenfluktuationer och migrän, inklusive om hormonbehandling snarare ökar migränrisken.
 - Prekliniska eller mekanistiska studier som stödjer en terapeutisk hypotes, innan kliniska studier övervägs.
-- Bedömning av om en ny produkt skulle behöva godkännas på nytt, eftersom alla nuvarande godkännanden är avregistrerade.
+- Bedömning av om en ny produkt skulle behöva godkännas på nytt; för närvarande är 6 av 6 godkännanden giltiga.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

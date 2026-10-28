@@ -52,8 +52,8 @@ Probenecid är ett urinsyradrivande läkemedel (urikosuriskt medel) som ursprung
 | Förutsagd ny indikation | Renal hypourikemi |
 | TxGNN-förutsägelsepoäng | 99,7 % |
 | Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ Någon detaljerad verkningsmekanismdata finns inte tillgänglig i det sammanstä
 
 Renal hypourikemi orsakas oftast av förlustmutationer i just URAT1 (SLC22A12) eller GLUT9 (SLC2A9). Patienterna utsöndrar redan för mycket urat. Probenecid skulle alltså efterlikna själva defekten och sänka urinsyran ytterligare, inte rätta till den.
 
-Den höga poängen (0,997) speglar sannolikt ett starkt samband mellan läkemedlet och sjukdomen i urattransportnätverket, inte ett terapeutiskt samband. Probenecid är mer användbart som farmakologiskt verktyg för att efterlikna tillståndet, bland annat i diagnostiska tester av urathantering. Att behandla tillståndet med probenecid är mekanistiskt olämpligt och kan öka risken för träningsutlöst akut njursvikt och njurstenar.
+Den höga poängen (0,9973) speglar sannolikt ett starkt samband mellan läkemedlet och sjukdomen i urattransportnätverket, inte ett terapeutiskt samband. Probenecid är mer användbart som farmakologiskt verktyg för att efterlikna tillståndet, bland annat i diagnostiska tester av urathantering. Att behandla tillståndet med probenecid är mekanistiskt olämpligt och kan öka risken för träningsutlöst akut njursvikt och njurstenar.
 
 ---
 

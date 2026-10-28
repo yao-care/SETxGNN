@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 94
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Chlorprothixene: predikterad ny indikation Retinal dystrofi med eller utan extraokulära avvikelser (evidensnivå L5). Ursprunglig indikation: Schizofreni (enligt kunskapsgrafen"
 monitor_inn: "chlorprothixene"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "myopia X-linked", "syndromic myopia", "manic bipolar affective disorder"]
+last_modified_at: 2026-10-27
+description: "Chlorprothixene: predikterad ny indikation Retinal dystrofi med eller utan extraokulära avvikelser (retinal dystrophy with or without extraocular anomalies) (evidensnivå L5). Ursprunglig indikation: …"
 ---
 
 # Chlorprothixene
@@ -33,85 +33,85 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Chlorprothixen: Från schizofreni till retinal dystrofi med eller utan extraokulära avvikelser
+## Klorprotixen: dopaminreceptorantagonist (antipsykotikum) → Retinal dystrofi med eller utan extraokulära avvikelser (retinal dystrophy with or without extraocular anomalies)
 {: .text-alpha }
 
----
+## Sammanfattning
 
-### Sammanfattning
-
-Chlorprothixen (Truxal) är ett äldre antipsykotikum av tioxantentyp som ursprungligen användes vid **schizofreni**. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **retinal dystrofi med eller utan extraokulära avvikelser**. Förutsägelsen är dock enbart beräkningsbaserad: det finns **inga kliniska prövningar och ingen publicerad litteratur** som stöder den.
+Klorprotixen är ett antipsykotiskt läkemedel av tioxantentyp. TxGNN-modellen förutsäger att det kan vara effektivt mot **retinal dystrofi med eller utan extraokulära avvikelser (retinal dystrophy with or without extraocular anomalies)**. Det finns dock **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna förutsägelse, som därför enbart bygger på en modellberäkning.
 
 ---
 
-### Snabböversikt
+## Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Schizofreni (enligt kunskapsgrafen; godkännandena i Sverige innehåller ingen indikationstext) |
-| Förutsagd ny indikation | Retinal dystrofi med eller utan extraokulära avvikelser |
-| TxGNN-förutsägelsepoäng | 99,998 % |
-| Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 2 (båda avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Retinal dystrofi med eller utan extraokulära avvikelser (retinal dystrophy with or without extraocular anomalies) |
+| TxGNN-förutsägelsepoäng | 0,9999 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-### Varför är denna förutsägelse rimlig?
+## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för rapporten. Chlorprothixen är ett antipsykotikum som verkar genom att blockera bland annat dopamin D2- och D3-receptorer samt histamin H1-receptorer. Läkemedlet har också serotonin- och muskarinreceptorblockerande egenskaper. Effekten vid schizofreni är väl belagd genom decennier av klinisk användning.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Klorprotixen är känt som en antipsykotisk substans som binder till dopaminreceptorerna D2 och D3 samt histamin H1-receptorn. Substansen har även beskrivits blockera serotonin- och muskarinreceptorer.
 
-Det finns **inget känt mekanistiskt samband** mellan dessa receptoreffekter och ärftliga retinala dystrofier. Sjukdomen orsakas av genetiska defekter i näthinnans celler, och ingen evidens tyder på att dopamin- eller serotoninblockad påverkar sjukdomsförloppet. Den höga modellpoängen bör därför ses som ett statistiskt mönster i kunskapsgrafen och inte som biologisk evidens.
+Något mekanistiskt samband med retinal dystrofi har inte kunnat fastställas. Sjukdomen är genetiskt betingad, och det finns inga kända data som visar att blockad av dopamin-, serotonin- eller histaminreceptorer skulle påverka sjukdomsförloppet. Den höga poängen är därför en ren modellförutsägelse och bör inte tolkas som ett tecken på klinisk effekt.
 
 ---
 
-### Kliniska prövningar
+## Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-### Litteraturbevis
+## Litteraturbevis
 
 Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
-### Marknadsinformation Sverige
+## Marknadsinformation Sverige
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 8384 | Truxal (H. Lundbeck A/S) | Filmdragerad tablett | Ej angiven (avregistrerad) |
-| 6075 | Truxal (H. Lundbeck A/S) | Filmdragerad tablett | Ej angiven (avregistrerad) |
+| 8384 | Truxal | Filmdragerad tablett | Ej angiven |
+| 6075 | Truxal | Filmdragerad tablett | Ej angiven |
 
-Inga av godkännandena är giltiga i dag.
-
----
-
-### Säkerhetsaspekter
-
-- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumétext): epilepsi, blodsjukdomar (bland annat neutropeni, agranulocytos och leukopeni), godartad prostataförstoring, trångvinkelglaukom, hjärt-kärlsjukdom, malignt neuroleptikasyndrom, Parkinsons sjukdom och parkinsonism, Alzheimers sjukdom, tardiv dyskinesi, bröstcancer hos kvinnor samt alkoholabstinens och Wernicke-Korsakoffs syndrom.
-- **Farmakologiska måltavlor:** dopamin D2-receptorn, dopamin D3-receptorn och histamin H1-receptorn. Det är receptorbindningar och inga uppgifter om interaktioner med andra läkemedel.
-
-Se produktresumén för fullständig säkerhetsinformation, eftersom varningar och kontraindikationer från godkännandetexten saknas.
+Båda godkännandena gäller enkomponentsprodukter från H. Lundbeck A/S.
 
 ---
 
-### Slutsats och nästa steg
+## Säkerhetsaspekter
+
+Uppgifter om varningar och kontraindikationer från produktresumén saknas i de data som sammanställts. Se produktresumén för säkerhetsinformation.
+
+**Läkemedelsinteraktioner (farmakologisk målprofil):**
+- Dopamin D2-receptorn (DRD2)
+- Dopamin D3-receptorn (DRD3)
+- Histamin H1-receptorn (HRH1)
+
+Dessa poster beskriver läkemedlets receptorbindning och är inte interaktioner med andra läkemedel.
+
+---
+
+## Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en modell (evidensnivå L5) utan prövningar, litteratur eller känt verkningssätt. Läkemedlet är dessutom avregistrerat i Sverige, och en systemisk antipsykotika med sederande och antikolinerga effekter är dåligt lämpad för en ärftlig ögonsjukdom.
+- Förutsägelsen saknar helt stöd i kliniska prövningar och litteratur (evidensnivå L5), och inget mekanistiskt samband med en genetisk näthinnesjukdom har kunnat visas.
 
 **För att gå vidare krävs:**
-- Verkningsmekanismdata för chlorprothixen, till exempel från DrugBank.
-- Produktresumé med varningar och kontraindikationer från Läkemedelsverket.
-- Prekliniska studier, till exempel i modeller för retinal degeneration, som visar ett biologiskt samband.
-- Bedömning av om ett återintroducerande är realistiskt med tanke på de avregistrerade godkännandena.
-
-**Kompletterande iakttagelse:** Bland modellens övriga förutsägelser är **manisk bipolär sjukdom** den enda med litteratur (evidensnivå L3). Underlaget består främst av äldre kliniska erfarenhetsrapporter från 1960-talet och observationsstudier, där de nyare studierna gäller antipsykotika som grupp och inte chlorprothixen specifikt. Mekanismen är biologiskt rimlig, eftersom D2- och 5-HT2-blockad är gemensam för antipsykotika som används vid akut mani. Detta alternativ förtjänar en separat utvärdering som forskningsfråga, men moderna randomiserade studier saknas.
+- Dokumenterad verkningsmekanism för klorprotixen och en trolig biologisk koppling till sjukdomens patogenes
+- Prekliniska studier i relevanta modeller för retinal dystrofi
+- Hämtning och genomgång av produktresumén för säkerhetsbedömning
+- Bedömning av om en systemisk antipsykotisk behandling med känd biverkningsbörda är lämplig vid en kronisk genetisk ögonsjukdom
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -6,9 +6,9 @@ nav_order: 147
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Docusate: predikterad ny indikation Plummer-Vinsons syndrom (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad i svenska godkännanden. Enligt kuns…"
 monitor_inn: "docusate"
 predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia"]
+description: "Docusate: predikterad ny indikation Plummer-Vinson syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Docusate
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Dokusat: Från järnbristanemi och förstoppning till Plummer-Vinsons syndrom
+## Docusate: Plummer-Vinson syndrome
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Dokusat (docusate) är ett avföringsmjukgörande medel som i kunskapsgrafen är kopplat till förstoppning och flera typer av anemi, troligen genom användning i kombinationspreparat med järn. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **Plummer-Vinsons syndrom**, men **inga kliniska prövningar och ingen litteratur** stöder denna riktning. Förutsägelsen bedöms som ett artefaktmönster i grafen snarare än en farmakologiskt grundad hypotes.
+TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **Plummer-Vinsons syndrom**, men **inga kliniska prövningar och ingen litteratur** stöder denna riktning.
 
 ---
 
@@ -48,12 +48,12 @@ Dokusat (docusate) är ett avföringsmjukgörande medel som i kunskapsgrafen är
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext registrerad i svenska godkännanden. Enligt kunskapsgrafen: förstoppning, järnbristanemi, folatbristanemi m.fl. |
-| Förutsagd ny indikation | Plummer-Vinsons syndrom |
-| TxGNN-förutsägelsepoäng | 99,2 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Plummer-Vinson syndrome |
+| TxGNN-förutsägelsepoäng | 0.9918 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,9 +62,9 @@ Dokusat (docusate) är ett avföringsmjukgörande medel som i kunskapsgrafen är
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Dokusat är i allmänhet känt som ett anjoniskt ytaktivt ämne som verkar som avföringsmjukgörande. Det påverkar varken järnupptag, blodbildning eller slemhinnebildning i matstrupen.
 
-Den höga poängen (0,992) speglar sannolikt närhet i kunskapsgrafen till läkemedlets anemirelaterade indikationer. Plummer-Vinsons syndrom kännetecknas av järnbristanemi, sväljsvårigheter och membran i matstrupen. De anemirelaterade indikationerna härrör troligen från kombinationspreparat med järn, där dokusat lindrar järnorsakad förstoppning.
+Plummer-Vinsons syndrom kännetecknas av järnbristanemi, sväljsvårigheter och membran i matstrupen. De anemirelaterade indikationerna härrör troligen från kombinationspreparat med järn, där dokusat lindrar järnorsakad förstoppning.
 
-Det finns därför ingen etablerad mekanistisk koppling. Sambandet är en association i kunskapsgrafen, inte en farmakologisk förklaring. Samma bedömning gäller den näst högst rankade förutsägelsen, vitamin B12- och folatoberoende konstitutionell megaloblastisk anemi (poäng 99,2 %), som sannolikt är en följd av att anemietiketter sprids i grafen.
+Det finns därför ingen etablerad mekanistisk koppling.
 
 ---
 

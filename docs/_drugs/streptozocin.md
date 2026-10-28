@@ -6,9 +6,9 @@ nav_order: 401
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Streptozocin: predikterad ny indikation Relapsing-remitting multipel skleros (evidensnivå L5). Ursprunglig indikation: Ej angiven i licensdata (tom indikationstext)"
 monitor_inn: "STREPTOZOCIN"
 predicted_indications: ["relapsing-remitting multiple sclerosis", "small cell lung carcinoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung", "hereditary breast ovarian cancer syndrome", "primary pulmonary lymphoma", "lymphosarcoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma"]
+description: "Streptozocin: predikterad ny indikation Relapsing-remitting multiple sclerosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Streptozocin
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Streptozocin: Från pankreasneuroendokrin tumör till relapsing-remitting multipel skleros
+## Streptozocin: Relapsing-remitting multiple sclerosis
 {: .text-alpha }
 
 > **Observera:** Den ursprungliga indikationen finns inte angiven i svenska licensdata (indikationstexten är tom). Uppgiften om pankreasneuroendokrin tumör bygger på läkemedlets kända historiska användning och på litteraturen som ingår i underlaget, inte på det svenska godkännandet.
@@ -50,12 +50,12 @@ Streptozocin är ett alkylerande läkemedel av nitrosoureatyp, som historiskt ha
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i licensdata (tom indikationstext) |
-| Förutsagd ny indikation | Relapsing-remitting multipel skleros |
-| TxGNN-förutsägelsepoäng | 99,97 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Relapsing-remitting multiple sclerosis |
+| TxGNN-förutsägelsepoäng | 0.9997 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 (indraget) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---

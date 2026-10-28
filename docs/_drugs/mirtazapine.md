@@ -6,9 +6,9 @@ nav_order: 298
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Mirtazapine: predikterad ny indikation Ohdo syndrom och varianter (evidensnivå L5). Ursprunglig indikation: Depression (unipolär och endogen)…"
 monitor_inn: "mirtazapine"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
+description: "Mirtazapine: predikterad ny indikation Ohdo syndrome and variants (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Mirtazapine
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Mirtazapin: Från egentlig depression till Ohdo syndrom och varianter
+## Mirtazapine: Ohdo syndrome and variants
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Mirtazapin är ett antidepressivt läkemedel som ursprungligen användes för at
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Depression (unipolär och endogen), egentlig depressionssjukdom samt ångestsjukdom (enligt TxGNN:s kunskapsgraf, eftersom godkänd indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Ohdo syndrom och varianter |
-| TxGNN-förutsägelsepoäng | 99,4 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Ohdo syndrome and variants |
+| TxGNN-förutsägelsepoäng | 0.9942 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (samtliga avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -64,17 +64,16 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 Något rimligt samband mellan denna farmakologi och Ohdo syndrom har inte kunnat fastställas. Ohdo syndrom är en sällsynt genetisk sjukdom, oftast kopplad till varianter i genen KAT6B, som ger intellektuell funktionsnedsättning samt anomalier i ansikte och utveckling. Det är en störning i en kromatinreglerande gen, och det finns ingen känd väg från mirtazapins receptorblockad till att korrigera en sådan sjukdom.
 
-Den höga poängen (0,994) speglar sannolikt närhet i kunskapsgrafen, till exempel via gemensamma neuroutvecklings- eller symtomrelaterade noder, snarare än sjukdomsmodifierande biologi. Eventuellt skulle mirtazapin kunna prövas för att lindra samtidiga besvär såsom nedstämdhet, sömn- eller aptitproblem, men det är en separat fråga från att behandla själva sjukdomen.
+Eventuellt skulle mirtazapin kunna prövas för att lindra samtidiga besvär såsom nedstämdhet, sömn- eller aptitproblem, men det är en separat fråga från att behandla själva sjukdomen.
 
 Ytterligare två förutsägelser pekar åt samma håll och är inte oberoende av varandra:
-- **Blefarofimos – intellektuell funktionsnedsättning, Ohdo-typ** (poäng 99,1 %): i praktiken samma sjukdom som ovan.
-- **Benign paroxysmal torticollis hos spädbarn** (poäng 99,1 %): en självläkande episodisk sjukdom som ofta kopplas till CACNA1A-varianter och migränspektrumet. Kopplingen via serotonerg och noradrenerg påverkan är spekulativ. Mirtazapin har dessutom en varning för suicidalitet hos unga patienter och är inte etablerat hos spädbarn, och eftersom tillståndet går över av sig självt är nytta–riskbalansen ogynnsam.
+- Kopplingen via serotonerg och noradrenerg påverkan är spekulativ. Mirtazapin har dessutom en varning för suicidalitet hos unga patienter och är inte etablerat hos spädbarn, och eftersom tillståndet går över av sig självt är nytta–riskbalansen ogynnsam.
 
 ---
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är avregistrerade. Ingen godkänd indikationstext finns registrerad. De fem första visas nedan.
+Ingen godkänd indikationstext finns registrerad. De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -117,7 +116,6 @@ Fullständiga varningar och kontraindikationer från produktresumén saknas i de
 - Hämta och granska varningar och kontraindikationer i produktresumén från Läkemedelsverket (MPA).
 - Gör en systematisk litteratur- och prövningssökning (inklusive prekliniska modeller för KAT6B-relaterade sjukdomar).
 - Utvärdera om en eventuell nytta ligger i symtomlindring (humör, sömn, aptit) snarare än sjukdomsmodifiering.
-- Klargöra läkemedlets regulatoriska status i Sverige, eftersom inga godkännanden är giltiga.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

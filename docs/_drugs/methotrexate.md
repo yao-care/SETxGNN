@@ -4,17 +4,17 @@ title: Methotrexate
 parent: Endast modellprediktion (L5)
 nav_order: 284
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Methotrexate: predikterad ny indikation Pulmonellt blastom (evidensnivå L5). Ursprunglig indikation: Akut lymfatisk leukemi, reumatoid artrit, psoriasis…"
 monitor_inn: "methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+description: "Methotrexate: predikterad ny indikation Pulmonary blastoma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Methotrexate
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Metotrexat: Från akut lymfatisk leukemi till pulmonellt blastom
+## Methotrexate: Pulmonary blastoma
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Metotrexat är ett antimetabolit (folatantagonist) som ursprungligen används vid bland annat akut lymfatisk leukemi, non-Hodgkin-lymfom, reumatoid artrit och psoriasis. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **pulmonellt blastom** (poäng 99,4 %), men för just denna indikation finns **inga kliniska prövningar och ingen litteratur** i de data som sammanställts för rapporten. Bland de tio högst rankade förutsägelserna har **Hodgkins lymfom** (L3) och **rhabdomyosarkom** (L2) den starkaste evidensen. De redovisas därför som kompletterande kandidater.
+Metotrexat är ett antimetabolit (folatantagonist) som ursprungligen används vid bland annat akut lymfatisk leukemi, non-Hodgkin-lymfom, reumatoid artrit och psoriasis. Bland de tio högst rankade förutsägelserna har **Hodgkins lymfom** (L3) och **rhabdomyosarkom** (L2) den starkaste evidensen. De redovisas därför som kompletterande kandidater.
 
 ---
 
@@ -48,11 +48,11 @@ Metotrexat är ett antimetabolit (folatantagonist) som ursprungligen används vi
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Akut lymfatisk leukemi, reumatoid artrit, psoriasis, non-Hodgkin-lymfom m.fl. (hämtat från kunskapsgrafen; godkännandetexterna i svenska register är tomma) |
-| Förutsagd ny indikation | Pulmonellt blastom (högst rankad) |
-| TxGNN-förutsägelsepoäng | 99,4 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Pulmonary blastoma |
+| TxGNN-förutsägelsepoäng | 0.9945 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (0 giltiga, 20 indragna) |
 | Rekommenderat beslut | Avvakta |
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Piperacillin
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 353
-evidence_level: L5
-indication_count: 9
+evidence_level: L4
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Piperacillin: predikterad ny indikation Reumatoid artrit (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga data (bakteriella infektioner enligt läkeme…"
 monitor_inn: "piperacillin"
-predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis", "osteoarthritis susceptibility", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "WHIM syndrome"]
+predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "WHIM syndrome"]
+description: "Piperacillin: predikterad ny indikation Reumatoid artrit (rheumatoid arthritis) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Piperacillin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **9** st
+Evidensnivå: **L4** | Förutsagda indikationer: **8** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-## Piperacillin: Från bakteriella infektioner till reumatoid artrit
+## Piperacillin: Reumatoid artrit (rheumatoid arthritis)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Piperacillin är ett betalaktamantibiotikum som i Sverige har funnits som kombin
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i tillgängliga data (bakteriella infektioner enligt läkemedelsklass) |
-| Förutsagd ny indikation | Reumatoid artrit |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Reumatoid artrit (rheumatoid arthritis) |
+| TxGNN-förutsägelsepoäng | 0.9994 |
 | Evidensnivå | L4 enligt den bedömning som gjorts i underlaget (i praktiken svag; litteraturen utgörs av fallrapporter utan stöd för effekt) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 19 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 19 av 19) |
+| Antal godkännanden | 19 (giltiga: 19) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Piperacillin är ett betalaktamantibiotikum som i Sverige har funnits som kombin
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Allmänt är piperacillin ett betalaktamantibiotikum som hämmar bakteriens cellväggssyntes. Det används tillsammans med tazobaktam, som skyddar mot nedbrytning av betalaktamas.
 
-**Förutsägelsen är inte mekanistiskt trovärdig.** Piperacillin har ingen känd antiinflammatorisk eller immunmodulerande effekt av betydelse för reumatoid artrit. Den höga poängen (0,999) är sannolikt en artefakt i kunskapsgrafen och inte ett uttryck för verklig terapeutisk potential.
+**Förutsägelsen är inte mekanistiskt trovärdig.** Piperacillin har ingen känd antiinflammatorisk eller immunmodulerande effekt av betydelse för reumatoid artrit.
 
 Den litteratur som hittats visar att reumatoid artrit förekommer som bakgrundssjukdom hos patienter som fått piperacillin/tazobaktam mot infektioner. Reumatoid artrit är alltså samsjukligheten, inte behandlingsmålet.
 

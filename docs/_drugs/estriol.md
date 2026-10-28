@@ -6,9 +6,9 @@ nav_order: 175
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Estriol: predikterad ny indikation Amenorré (evidensnivå L3). Ursprunglig indikation: Ej angiven i de godkännandedata som sammanställts för rapporten"
 monitor_inn: "ESTRIOL"
 predicted_indications: ["amenorrhea (disease)"]
+description: "Estriol: predikterad ny indikation Amenorré (amenorrhea (disease)) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Estriol
@@ -33,14 +33,14 @@ Evidensnivå: **L3** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Estriol: Från vaginala/hormonella besvär efter menopaus till amenorré
+## Estriol: Amenorré (amenorrhea (disease))
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Estriol är ett svagt östrogen som verkar via östrogenreceptorerna alfa och beta. I Sverige har det funnits som vaginala beredningar och tabletter, men alla godkännanden är numera avregistrerade. TxGNN-modellen förutsäger att estriol kan vara effektivt mot **amenorré** (poäng 99,2 %). Evidensen är begränsad: **inga registrerade kliniska prövningar** och **6 publikationer**, varav endast två är direkt relevanta (en liten fysiologisk studie och en översikt).
+Estriol är ett svagt östrogen som verkar via östrogenreceptorerna alfa och beta. Evidensen är begränsad: **inga registrerade kliniska prövningar** och **6 publikationer**, varav endast två är direkt relevanta (en liten fysiologisk studie och en översikt).
 
 ---
 
@@ -48,12 +48,12 @@ Estriol är ett svagt östrogen som verkar via östrogenreceptorerna alfa och be
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i de godkännandedata som sammanställts för rapporten |
-| Förutsagd ny indikation | Amenorré |
-| TxGNN-förutsägelsepoäng | 99,2 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Amenorré (amenorrhea (disease)) |
+| TxGNN-förutsägelsepoäng | 0.9918 |
 | Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 8 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
+| Antal godkännanden | 8 (giltiga: 8) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -93,11 +93,11 @@ Samtliga godkännanden är avregistrerade. Indikationstext saknas i de sammanst�
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 63196 | Vaginelle | Vaginalkräm | Avregistrerad |
-| 43093 | Gelistrol | Vaginalgel | Avregistrerad |
-| 12772 | Oestriol Aspen | Tablett | Avregistrerad |
-| 47213 | Estrokad | Vagitorium | Avregistrerad |
-| 10048 | Ovesterin | Vagitorium | Avregistrerad |
+| 63196 | Vaginelle | Vaginalkräm | Godkänd |
+| 43093 | Gelistrol | Vaginalgel | Godkänd |
+| 12772 | Oestriol Aspen | Tablett | Godkänd |
+| 47213 | Estrokad | Vagitorium | Godkänd |
+| 10048 | Ovesterin | Vagitorium | Godkänd |
 
 Ytterligare tre godkännanden (Blissel, Ovesterin vaginalkräm och Gynoflor) finns, även dessa avregistrerade.
 
@@ -116,7 +116,7 @@ Se produktresumén för information om varningar och kontraindikationer. Sådana
 **Beslut: Avvakta**
 
 **Motivering:**
-- Modellpoängen är hög och mekanismen biologiskt rimlig vid funktionell hypotalamisk amenorré, men evidensen består bara av en liten fysiologisk studie och en översikt. Det finns inga registrerade kliniska prövningar, och alla svenska godkännanden är avregistrerade, så det saknas en aktiv godkänd produkt att utgå från.
+- Modellpoängen är hög och mekanismen biologiskt rimlig vid funktionell hypotalamisk amenorré, men evidensen består bara av en liten fysiologisk studie och en översikt.
 
 **För att gå vidare krävs:**
 - Säkerhetsinformation (varningar och kontraindikationer) från produktresumén, vilket är ett blockerande dataglapp inför säkerhetsgranskning.

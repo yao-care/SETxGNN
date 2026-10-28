@@ -4,17 +4,17 @@ title: Liothyronine
 parent: Endast modellprediktion (L5)
 nav_order: 265
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Liothyronine: predikterad ny indikation Nodulär struma (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad i svenskt godkännande. Enligt kunsk…"
 monitor_inn: "liothyronine"
-predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "nodular goiter (disease)", "Carney complex", "peripheral dysostosis", "Potter sequence", "acrodysostosis with or without hormone resistance", "angiomyxoma", "myxoma", "hypotrichosis simplex of the scalp"]
+predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Carney complex", "peripheral dysostosis", "Potter sequence", "acrodysostosis with or without hormone resistance", "angiomyxoma", "myxoma", "hypotrichosis simplex of the scalp"]
+description: "Liothyronine: predikterad ny indikation Renal hypodysplasia/aplasia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Liothyronine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Liotyronin: Från hypotyreos till nodulär struma
+## Liothyronine: Renal hypodysplasia/aplasia
 {: .text-alpha }
 
 ## Sammanfattning
@@ -46,12 +46,12 @@ Liotyronin är ett syntetiskt sköldkörtelhormon (T3) som ursprungligen använd
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext registrerad i svenskt godkännande. Enligt kunskapsgrafen: hypotyreos, myxödem, medfödd hypotyreos, struma och sköldkörtelcancer |
-| Förutsagd ny indikation | Nodulär struma |
-| TxGNN-förutsägelsepoäng | 99,94 % |
-| Evidensnivå | L4 (endast indirekt litteratur, ingen human evidens) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Renal hypodysplasia/aplasia |
+| TxGNN-förutsägelsepoäng | 0.9995 |
+| Evidensnivå | L5 (endast indirekt litteratur, ingen human evidens) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---

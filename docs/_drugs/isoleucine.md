@@ -6,9 +6,9 @@ nav_order: 236
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Isoleucine: predikterad ny indikation Gastropares (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i godkännandedata (används som aminosyr…"
 monitor_inn: "isoleucine"
 predicted_indications: ["gastroparesis (disease)"]
+description: "Isoleucine: predikterad ny indikation Gastropares (gastroparesis (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Isoleucine
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Isoleucin: Från aminosyratillförsel (parenteral nutrition) till gastropares
+## Isoleucine: Gastropares (gastroparesis (disease))
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Isoleucin är en essentiell grenad aminosyra som i Sverige har ingått i infusionslösningar för parenteral nutrition, bland annat Glavamin, Vamin och Clinimix. TxGNN-modellen förutsäger att isoleucin kan vara effektivt mot **gastropares** med en mycket hög modellpoäng (**99,3 %**). Det finns dock **inga kliniska prövningar och ingen litteratur** som stöder förutsägelsen, så evidensen består enbart av modellen.
+Isoleucin är en essentiell grenad aminosyra som i Sverige har ingått i infusionslösningar för parenteral nutrition, bland annat Glavamin, Vamin och Clinimix. Det finns dock **inga kliniska prövningar och ingen litteratur** som stöder förutsägelsen, så evidensen består enbart av modellen.
 
 ---
 
@@ -48,11 +48,11 @@ Isoleucin är en essentiell grenad aminosyra som i Sverige har ingått i infusio
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext angiven i godkännandedata (används som aminosyrakälla i parenteral nutrition) |
-| Förutsagd ny indikation | Gastropares |
-| TxGNN-förutsägelsepoäng | 99,3 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Gastropares (gastroparesis (disease)) |
+| TxGNN-förutsägelsepoäng | 0.9932 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Base
 
 Kopplingen mellan den ursprungliga användningen (näringstillförsel) och gastropares är i nuläget spekulativ. Patienter med gastropares har ofta svårt att få i sig näring via mag-tarmkanalen, vilket kan göra näringsstöd relevant. Det är dock en annan sak än att isoleucin skulle behandla själva sjukdomen.
 
-Den höga modellpoängen kan spegla närhet i kunskapsgrafen, till exempel gemensamma metabola vägar, snarare än en verklig terapeutisk effekt. Förutsägelsen bör därför tolkas med stor försiktighet.
+Förutsägelsen bör därför tolkas med stor försiktighet.
 
 ---
 
@@ -112,7 +112,6 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Göra en systematisk litteratursökning om isoleucin eller grenade aminosyror vid gastropares.
 - Söka efter registrerade kliniska prövningar, inklusive i ICTRP.
 - Bedöma administreringsväg och beredningsform, eftersom alla tidigare produkter är infusionsvätskor och inget oralt alternativ finns i data.
-- Utvärdera om de njur-, kalcium- och hjärtrelaterade signalerna i kunskapsgrafen är relevanta för målgruppen med gastropares.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

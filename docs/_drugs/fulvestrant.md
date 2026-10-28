@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Fulvestrant
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 210
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Fulvestrant: predikterad ny indikation HIV-infektion (evidensnivå L5). Ursprunglig indikation: Ej angiven i den svenska licensdatan (bröstcancer enligt allmänt känd…"
 monitor_inn: "FULVESTRANT"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acne (disease)", "brachydactyly-syndactyly syndrome", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+description: "Fulvestrant: predikterad ny indikation HIV infectious disease (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Fulvestrant
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Fulvestrant: Från bröstcancer till HIV-infektion
+## Fulvestrant: HIV infectious disease
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Fulvestrant är en selektiv östrogenreceptornedbrytare (SERD). Läkemedlets urs
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i den svenska licensdatan (bröstcancer enligt allmänt känd användning) |
-| Förutsagd ny indikation | HIV-infektion |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | HIV infectious disease |
+| TxGNN-förutsägelsepoäng | 0.9991 |
 | Evidensnivå | L4 (prekliniska studier/mekanismstudier) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 10 (samtliga avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
+| Antal godkännanden | 10 (giltiga: 10) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Kopplingen till HIV är indirekt. Östrogenreceptor alfa (ERα) finns i CD4+ T-celler, och det har föreslagits att receptorn kan påverka HIV-transkription och latens (virusets "vilande" tillstånd i cellerna). En preklinisk studie från 2026 undersökte hur östrogen, fulvestrant och latensreverserande läkemedel påverkar ERα i CD4+ T-celler.
 
-Resonemanget är rimligt men ännu obekräftat. Det finns inga kliniska prövningar, och ER-signalering i immunceller är komplex. Den höga modellpoängen speglar sannolikt mest ett samband i kunskapsgrafen, inte belagd klinisk nytta.
+Resonemanget är rimligt men ännu obekräftat. Det finns inga kliniska prövningar, och ER-signalering i immunceller är komplex.
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Ketamine
-parent: Endast modellprediktion (L5)
+parent: Hög evidens (L1-L2)
 nav_order: 243
-evidence_level: L5
+evidence_level: L2
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Ketamine: predikterad ny indikation Huvudvärkssjukdom (headache disorder) (evidensnivå L5). Ursprunglig indikation: Ej angiven (godkännandena saknar indikationstext)"
@@ -14,7 +14,7 @@ predicted_indications: ["headache disorder"]
 # Ketamine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **1** st
+Evidensnivå: **L2** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 ## Sammanfattning
 
-Ketamin (Ketamin Abcur, Ketalar) har fyra svenska godkännanden i form av injektionsvätska, men i de data som sammanställts för rapporten finns ingen godkänd indikationstext, så den ursprungliga användningen kan inte anges därifrån. TxGNN-modellen förutsäger att ketamin kan vara effektivt mot **huvudvärkssjukdom** (poäng 99,3 %), med **9 kliniska prövningar** och **18 publikationer** som för närvarande hör till denna riktning. Endast en fas 3-studie (THINK) är avslutad, och den andra fas 3-studien (KetHead) rekryterar fortfarande. Evidensen är därför lovande men inte avgörande.
+Ketamin (Ketamin Abcur, Ketalar) har fyra svenska godkännanden i form av injektionsvätska, men i de data som sammanställts för rapporten finns ingen godkänd indikationstext, så den ursprungliga användningen kan inte anges därifrån. TxGNN-modellen förutsäger att ketamin kan vara effektivt mot **huvudvärkssjukdom** (poäng 0,9933), med **9 kliniska prövningar** och **18 publikationer** som för närvarande hör till denna riktning. Endast en fas 3-studie (THINK) är avslutad, och den andra fas 3-studien (KetHead) rekryterar fortfarande. Evidensen är därför lovande men inte avgörande.
 
 ---
 
@@ -50,10 +50,10 @@ Ketamin (Ketamin Abcur, Ketalar) har fyra svenska godkännanden i form av injekt
 |------|------|
 | Ursprunglig indikation | Ej angiven (godkännandena saknar indikationstext) |
 | Förutsagd ny indikation | Huvudvärkssjukdom (headache disorder) |
-| TxGNN-förutsägelsepoäng | 99,3 % |
+| TxGNN-förutsägelsepoäng | 0,9933 |
 | Evidensnivå | L2 (se motivering nedan) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 4 (alla indragna, 0 giltiga) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 **Om evidensnivån:** Nivå L1 kräver minst två avslutade fas 3-RCT. Här är bara en fas 3-studie avslutad (THINK, NCT03081416). KetHead (NCT05306899) pågår fortfarande och saknar resultat. Nivån blir därför **L2** enligt reglerna, även om enskilda källor anger L1.
@@ -142,7 +142,7 @@ Produktresumé med varningar och kontraindikationer ingick inte i de sammanstäl
 
 **Motivering:**
 - Modellpoängen är mycket hög och det finns flera randomiserade studier, men bara en fas 3-studie är avslutad (THINK) och resultaten är blandade mellan huvudvärkstyper, doser och administrationssätt.
-- Säkerhetsunderlaget är ofullständigt (ingen produktresumé) och inga giltiga svenska godkännanden finns. Kunskapsgrafen anger dessutom flera möjliga kardiovaskulära och intrakraniella kontraindikationer.
+- Säkerhetsunderlaget är ofullständigt (ingen produktresumé), men alla fyra svenska godkännanden är giltiga och läkemedlet är marknadsfört. Kunskapsgrafen anger dessutom flera möjliga kardiovaskulära och intrakraniella kontraindikationer.
 
 **För att gå vidare krävs:**
 - Resultat från THINK-studien och från KetHead (förväntas slutföras 2027), analyserade per huvudvärkstyp.

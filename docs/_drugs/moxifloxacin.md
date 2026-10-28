@@ -4,17 +4,17 @@ title: Moxifloxacin
 parent: Endast modellprediktion (L5)
 nav_order: 305
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Moxifloxacin: predikterad ny indikation Polyklonalt hyperviskositetssyndrom (evidensnivå L5). Ursprunglig indikation: Bakteriella infektioner (t.ex. streptokock- och stafylokockinfektione…"
 monitor_inn: "moxifloxacin"
-predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm", "bubonic plague"]
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
+description: "Moxifloxacin: predikterad ny indikation Polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Moxifloxacin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Moxifloxacin: Från bakteriella infektioner till polyklonalt hyperviskositetssyndrom
+## Moxifloxacin: Polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Moxifloxacin är ett fluorokinolonantibiotikum som ursprungligen används mot ba
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Bakteriella infektioner (t.ex. streptokock- och stafylokockinfektioner, bakteriell lunginflammation, peritonit, konjunktivit, pest). Godkännandetexterna i det sammanställda underlaget saknar indikationstext, så uppgiften kommer från kunskapsgrafen. |
-| Förutsagd ny indikation | Polyklonalt hyperviskositetssyndrom |
-| TxGNN-förutsägelsepoäng | 99,98 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome) |
+| TxGNN-förutsägelsepoäng | 0.9998 |
 | Evidensnivå | L5 (endast modellförutsägelse, inga faktiska studier) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 12 (alla avregistrerade, 0 giltiga) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 12 av 12) |
+| Antal godkännanden | 12 (giltiga: 12) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,9 +64,9 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Den förutsagda indikationen är däremot inte en infektion. Polyklonalt hyperviskositetssyndrom handlar om förhöjd blodviskositet kopplad till ökade immunglobuliner. Moxifloxacin har ingen känd effekt på serumviskositet eller på nivåerna av polyklonala immunglobuliner. Det finns därför **ingen trovärdig mekanistisk koppling** mellan de ursprungliga indikationerna och den nya.
 
-Den höga poängen (99,98 %) speglar mönster i kunskapsgrafen, inte biologisk eller klinisk evidens. Poängen ska därför inte tolkas som ett tecken på verklig effekt.
+Poängen ska därför inte tolkas som ett tecken på verklig effekt.
 
-**Notering om övriga förutsägelser:** Av de tio förutsägelser som analyserades har bara *böldpest* (bubonic plague) ett rimligt mekanistiskt samband. Det är en förlängning av redan kända pestindikationer, med prekliniska data från djurmodeller och in vitro-modeller men inga humanstudier. De övriga förutsägelserna saknar i huvudsak stöd.
+Det är en förlängning av redan kända pestindikationer, med prekliniska data från djurmodeller och in vitro-modeller men inga humanstudier. De övriga förutsägelserna saknar i huvudsak stöd.
 
 ---
 
@@ -88,11 +88,11 @@ Samtliga 12 godkännanden är avregistrerade, och inget giltigt godkännande fin
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|------|------|
-| 58645 | Moxifloxacin 2care4 | Filmdragerad tablett | 2care4 ApS | Avregistrerad |
-| 49852 | Moxifloxacin Krka | Filmdragerad tablett | Krka d.d., Novo mesto | Avregistrerad |
-| 57172 | Moxifloxacin Krka | Infusionsvätska, lösning | Krka d.d., Novo mesto | Avregistrerad |
-| 61716 | Avelox | Filmdragerad tablett | Ebb Medical AB | Avregistrerad |
-| 57773 | Vigamox | Ögondroppar, lösning | Ebb Medical AB | Avregistrerad |
+| 58645 | Moxifloxacin 2care4 | Filmdragerad tablett | 2care4 ApS | Godkänd |
+| 49852 | Moxifloxacin Krka | Filmdragerad tablett | Krka d.d., Novo mesto | Godkänd |
+| 57172 | Moxifloxacin Krka | Infusionsvätska, lösning | Krka d.d., Novo mesto | Godkänd |
+| 61716 | Avelox | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 57773 | Vigamox | Ögondroppar, lösning | Ebb Medical AB | Godkänd |
 
 Läkemedlet har funnits som tabletter, infusionsvätska och ögondroppar.
 

@@ -6,9 +6,9 @@ nav_order: 442
 evidence_level: L3
 indication_count: 8
 last_modified_at: 2026-10-15
-description: "Tryptophan: predikterad ny indikation Restless legs-syndrom (evidensnivå L3). Ursprunglig indikation: Ingen indikationstext registrerad i godkännandena"
 monitor_inn: "tryptophan"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
+description: "Tryptophan: predikterad ny indikation Restless legs-syndrom (restless legs syndrome) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Tryptophan
@@ -33,7 +33,7 @@ Evidensnivå: **L3** | Förutsagda indikationer: **8** st
 
 </div>
 
-## Tryptofan: Från ingen registrerad indikation till restless legs-syndrom
+## Tryptophan: Restless legs-syndrom (restless legs syndrome)
 {: .text-alpha }
 
 ---
@@ -49,11 +49,11 @@ TxGNN-modellen förutsäger att tryptofan kan vara effektivt mot **restless legs
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext registrerad i godkännandena |
-| Förutsagd ny indikation | Restless legs-syndrom |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Restless legs-syndrom (restless legs syndrome) |
+| TxGNN-förutsägelsepoäng | 0.9972 |
 | Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -119,7 +119,7 @@ Information från produktresumé om varningar och kontraindikationer saknas i un
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen för RLS består av två små, gamla och okontrollerade studier. Serotonerga läkemedel kan dessutom förvärra RLS. Alla svenska godkännanden är avregistrerade och säkerhetsunderlaget är ofullständigt.
+- Evidensen för RLS består av två små, gamla och okontrollerade studier. Serotonerga läkemedel kan dessutom förvärra RLS.
 
 **För att gå vidare krävs:**
 - Produktresuméer med varningar och kontraindikationer, eftersom säkerhetsunderlaget idag blockerar säkerhetsgranskningen.

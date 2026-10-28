@@ -6,9 +6,9 @@ nav_order: 339
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Paroxetine: predikterad ny indikation Ohdo syndrom och varianter (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. Enligt kunska…"
 monitor_inn: "paroxetine"
 predicted_indications: ["Ohdo syndrome and variants"]
+description: "Paroxetine: predikterad ny indikation Ohdo syndrome and variants (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Paroxetine
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Paroxetin Ebb: Från ångestsyndrom och depression till Ohdo syndrom och varianter
+## Paroxetine: Ohdo syndrome and variants
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Paroxetin används ursprungligen för att behandla ångestsyndrom, egentlig depr
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: ångestsyndrom, egentlig depression, social fobi, tvångssyndrom, posttraumatiskt stressyndrom m.fl. |
-| Förutsagd ny indikation | Ohdo syndrom och varianter |
-| TxGNN-förutsägelsepoäng | 99,1 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Ohdo syndrome and variants |
+| TxGNN-förutsägelsepoäng | 0.9911 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 8 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
+| Antal godkännanden | 8 (giltiga: 8) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Base
 
 Ohdo syndrom är ett sällsynt syndrom med intellektuell funktionsnedsättning. Varianterna, bland dem Young-Simpson/KAT6B-relaterad form, anses vara kopplade till störd reglering av kromatin och histonacetyltransferas. Sambandet mellan paroxetinets ursprungliga användning (psykiatriska tillstånd) och denna sjukdom är därför svagt utifrån tillgängliga data.
 
-Den höga poängen (0,991) kan spegla närhet i kunskapsgrafen, till exempel gemensamma gener eller signalvägar. Det går inte att verifiera utan ytterligare data, och poängen är en beräkning, inte klinisk eller mekanistisk evidens.
+Det går inte att verifiera utan ytterligare data, och poängen är en beräkning, inte klinisk eller mekanistisk evidens.
 
 ---
 
@@ -113,7 +113,6 @@ Produktresumén med varningar och kontraindikationer har inte kunnat hämtas och
 - Biologisk analys av om serotoninvägen eller andra paroxetinmål har koppling till kromatin- och KAT6B-biologi vid Ohdo syndrom.
 - Prekliniska studier, till exempel i cell- eller djurmodeller, som kan ge första stöd.
 - Bedömning av beredningsform och administreringsväg, som ännu inte är fastställd för den nya indikationen.
-- Klargörande av marknadssituationen, eftersom inga godkännanden är giltiga i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

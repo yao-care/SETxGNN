@@ -6,9 +6,9 @@ nav_order: 160
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Empagliflozin: predikterad ny indikation Fokalt stelbensyndrom (focal stiff limb syndrome) (evidensnivå L5). Ursprunglig indikation: Typ 2-diabetes mellitus (enligt TxGNN-kunskapsgrafen"
 monitor_inn: "EMPAGLIFLOZIN"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
+description: "Empagliflozin: predikterad ny indikation Fokalt stelbensyndrom (focal stiff limb syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Empagliflozin
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Empagliflozin: Från typ 2-diabetes till fokalt stelbensyndrom
+## Empagliflozin: Fokalt stelbensyndrom (focal stiff limb syndrome)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Empagliflozin ursprungligen användes för att behandla **typ 2-diabetes mellitus**. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **fokalt stelbensyndrom** (focal stiff limb syndrome), med en förutsägelsepoäng på cirka 99 %. Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, vilket innebär att den enbart bygger på modellen.
+Empagliflozin ursprungligen användes för att behandla **typ 2-diabetes mellitus**. TxGNN-modellen (djupinlärning) förutsäger att läkemedlet kan vara effektivt mot **fokalt stelbensyndrom** (focal stiff limb syndrome), med en förutsägelsepoäng på 0,9906. Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, vilket innebär att den enbart bygger på modellen.
 
 ---
 
@@ -48,12 +48,12 @@ Empagliflozin ursprungligen användes för att behandla **typ 2-diabetes mellitu
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Typ 2-diabetes mellitus (enligt TxGNN-kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Fokalt stelbensyndrom (focal stiff limb syndrome) |
-| TxGNN-förutsägelsepoäng | 99,06 % |
+| TxGNN-förutsägelsepoäng | 0.9906 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 6 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 Fokalt stelbensyndrom hör till spektrumet av stelbenssyndrom (stiff-person-spektrumet). Det är en sällsynt autoimmun, neurologisk sjukdom som ofta har samband med anti-GAD65-antikroppar och nedsatt GABA-hämning. Det finns ingen känd väg som kopplar SGLT2-hämning till denna mekanism.
 
-Ett möjligt skäl till den höga poängen är att anti-GAD-autoimmunitet ofta förekommer tillsammans med diabetes, framför allt typ 1. Modellen kan därför ha fångat upp närhet till diabetesnoder i kunskapsgrafen snarare än ett verkligt terapeutiskt samband. Detta är en spekulation och stöds inte av underlaget. Samma poäng ges för klassiskt stelbensyndrom (99,06 %), vilket tyder på att de två förutsägelserna delar samma område i grafen och inte är oberoende signaler.
+Ett möjligt skäl till den höga poängen är att anti-GAD-autoimmunitet ofta förekommer tillsammans med diabetes, framför allt typ 1. Poängen kommer från TxGNN-modellen (djupinlärning) och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens. Detta är en spekulation och stöds inte av underlaget. Samma poäng ges för klassiskt stelmanssyndrom (0,9906), vilket tyder på att de två förutsägelserna delar samma mönster i modellen och inte är oberoende signaler.
 
 Andra förutsagda indikationer i modellen är klassiskt stelbensyndrom och opsismodysplasi. Inte heller för dessa finns studier eller litteratur. För opsismodysplasi (orsakad av INPPL1-/SHIP2-mutationer) finns ett löst samband via insulinsignalering, men empagliflozin verkar via njurens glukosåterupptag och påverkar inte den signalvägen.
 
@@ -106,7 +106,7 @@ Se produktresumén för information om varningar och kontraindikationer.
 - Hämta verkningsmekanismdata (MOA) från DrugBank för att kunna analysera ett eventuellt mekanistiskt samband.
 - Hämta varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA) för en fullständig säkerhetsbedömning.
 - Genomföra en systematisk litteratur- och prövningssökning samt prekliniska studier som kan ge stöd för en koppling till stelbenssyndrom.
-- Utreda om förutsägelsen speglar ett verkligt samband eller enbart närhet till diabetes i kunskapsgrafen.
+- Utreda om förutsägelsen speglar ett verkligt samband eller enbart likheter som TxGNN-modellen har lärt sig mellan relaterade sjukdomar.
 - Klargöra marknadsstatus, eftersom inget godkännande för närvarande är giltigt i Sverige.
 ## Ansvarsfriskrivning
 

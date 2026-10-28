@@ -50,10 +50,10 @@ Klozapin är ett antipsykotiskt läkemedel. Någon godkänd indikationstext finn
 |------|------|
 | Ursprunglig indikation | Ej angiven i de svenska godkännandena |
 | Förutsagd ny indikation | Manisk bipolär sjukdom (manic bipolar affective disorder) |
-| TxGNN-förutsägelsepoäng | 99,9 % |
-| Evidensnivå | L2 (en avslutad fas 2-prövning, n=42, samt metaanalys) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 15 (alla avregistrerade) |
+| TxGNN-förutsägelsepoäng | 0,9995 |
+| Evidensnivå | L5 (en avslutad fas 2-prövning, n=42, samt metaanalys) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 15 av 15) |
+| Antal godkännanden | 15 (giltiga: 15) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -95,7 +95,7 @@ Den breda receptorprofilen kan förklara en stämningsstabiliserande och antiman
 
 ## Marknadsinformation Sverige
 
-Alla 15 godkännanden är avregistrerade och ingen godkänd indikationstext finns angiven. De fem första visas nedan.
+Alla 15 godkännanden är giltiga och läkemedlet är marknadsfört i Sverige. De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -126,7 +126,7 @@ Se produktresumén för officiella varningar och kontraindikationer.
 **För att gå vidare krävs:**
 - Publicerade resultat från fas 2-prövningen NCT00029458 samt från den pediatriska fas 3-prövningen NCT00036582.
 - Större kontrollerade studier på vuxna med behandlingsresistent mani.
-- Verifiering av regulatorisk status, eftersom alla svenska godkännanden är avregistrerade och någon godkänd indikationstext saknas.
+- Verifiering av regulatorisk status och godkänd indikationstext, eftersom alla 15 svenska godkännanden är giltiga.
 - Komplett säkerhetsinformation från produktresumén, inklusive krav på blodövervakning (agranulocytos/neutropeni) samt övervakning av myokardit, kramper och metabola effekter.
 - Kompletterande data om verkningsmekanismen från DrugBank.
 ## Ansvarsfriskrivning

@@ -6,9 +6,9 @@ nav_order: 432
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Trabectedin: predikterad ny indikation Bröstcancer hos kvinnor (evidensnivå L5). Ursprunglig indikation: Äggstockscancer (enligt kunskapsgrafen"
 monitor_inn: "trabectedin"
 predicted_indications: ["female breast carcinoma"]
+description: "Trabectedin: predikterad ny indikation Bröstcancer hos kvinnor (female breast carcinoma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Trabectedin
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Trabektedin: Från äggstockscancer till bröstcancer hos kvinnor
+## Trabectedin: Bröstcancer hos kvinnor (female breast carcinoma)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Trabektedin är ett cytostatikum av marint ursprung som ursprungligen användes 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Äggstockscancer (enligt kunskapsgrafen; ingen indikationstext finns i de svenska godkännandena) |
-| Förutsagd ny indikation | Bröstcancer hos kvinnor |
-| TxGNN-förutsägelsepoäng | 99,7 % |
-| Evidensnivå | L2 (enligt bedömningen i underlaget; se kommentar i slutsatsen) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 8 (alla avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Bröstcancer hos kvinnor (female breast carcinoma) |
+| TxGNN-förutsägelsepoäng | 0.9973 |
+| Evidensnivå | L5 (enligt bedömningen i underlaget; se kommentar i slutsatsen) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
+| Antal godkännanden | 8 (giltiga: 8) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -146,7 +146,7 @@ För varningar och kontraindikationer: se produktresumén för säkerhetsinforma
 - Granska resultaten från fas 2-studierna (PMID 25239225, 24692579, 27266804) vad gäller svarsfrekvens, progressionsfri överlevnad och säkerhet.
 - Identifiera eller genomföra effektstudier vid bröstcancer, helst med fokus på BRCA-muterade eller HRD-positiva undergrupper.
 - Hämta varningar och kontraindikationer från produktresumén, eftersom säkerhetsdata saknas i de sammanställda uppgifterna.
-- Klargöra läkemedlets tillgänglighet i Sverige, eftersom alla godkännanden är avregistrerade.
+- Följa läkemedlets tillgänglighet i Sverige; läkemedlet är marknadsfört och alla 8 godkännanden är giltiga.
 - Komplettera verkningsmekanismdata, till exempel via DrugBank.
 ## Ansvarsfriskrivning
 

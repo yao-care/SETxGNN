@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 70
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
-description: "Bupivacaine: predikterad ny indikation Akrodermatit chronica atrophicans (evidensnivå L5). Ursprunglig indikation: Dermatit (enligt kunskapsgrafen"
 monitor_inn: "bupivacaine"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
+last_modified_at: 2026-10-27
+description: "Bupivacaine: predikterad ny indikation Acrodermatitis chronica atrophicans (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Bupivacaine
@@ -33,89 +33,87 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-## Bupivakain: Från dermatit till akrodermatit chronica atrophicans
+## Bupivakain: lokalbedövningsmedel (natriumkanalblockerare) → Acrodermatitis chronica atrophicans (acrodermatitis chronica atrophicans)
 {: .text-alpha }
 
 ---
 
-## Sammanfattning
+### Sammanfattning
 
-Bupivakain är ett lokalanestetikum av amidtyp. I den kunskapsgraf som ligger till grund för förutsägelsen är dess ursprungliga indikation **dermatit**. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **akrodermatit chronica atrophicans** med en hög modellpoäng (99,2 %). Det finns dock **inga kliniska prövningar och ingen litteratur** som stöder förutsägelsen, och något mekanistiskt samband har inte kunnat påvisas.
+Bupivakain är ett lokalbedövningsmedel av amidtyp som finns i flera injektionsberedningar på den svenska marknaden. TxGNN-modellen förutsäger att det kan vara aktivt mot **acrodermatitis chronica atrophicans (acrodermatitis chronica atrophicans)**, men det finns **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen. Förutsägelsen är därför enbart en modellbaserad hypotes.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Dermatit (enligt kunskapsgrafen; godkännandena i Sverige saknar indikationstext) |
-| Förutsagd ny indikation | Akrodermatit chronica atrophicans |
-| TxGNN-förutsägelsepoäng | 99,2 % |
-| Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 15 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Acrodermatitis chronica atrophicans (acrodermatitis chronica atrophicans) |
+| TxGNN-förutsägelsepoäng | 0,9923 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 15 av 15) |
+| Antal godkännanden | 15 (giltiga: 15) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för denna rapport. Det är allmänt känt att bupivakain blockerar spänningsstyrda natriumkanaler i nervceller och därigenom hämmar nervledning. Effekten är lokal smärtlindring.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Det som är allmänt känt är att bupivakain blockerar spänningsstyrda natriumkanaler i nervceller och därigenom hindrar smärtsignaler från att ledas vidare.
 
-Akrodermatit chronica atrophicans är den sena hudmanifestationen av borreliainfektion och behandlas med antibiotika. Ett lokalanestetikum påverkar varken infektionen eller den underliggande vävnadsförändringen. Något mekanistiskt samband är därför inte etablerat.
+Acrodermatitis chronica atrophicans är den sena hudmanifestationen av Borrelia-infektion och behandlas med antibiotika. Ett lokalbedövningsmedel har ingen känd sjukdomsmodifierande effekt vid denna sjukdom. Något mekanistiskt samband har inte kunnat fastställas.
 
-Den höga poängen (0,992) är sannolikt en grafbaserad förutsägelse som drivs av läkemedlets koppling till hudsjukdomar (dermatit) i kunskapsgrafen. Den bör inte tolkas som ett tecken på klinisk effekt.
-
-Övriga förutsägelser med liknande höga poäng stöds inte heller av data:
-
-| Förutsagd indikation | Poäng | Kommentar |
-|---|---|---|
-| Neonatal dermatomyosit | 99,1 % | Immunmedierad sjukdom. Bupivakain kan i bästa fall ge symtomlindring, och lokalanestetikas muskeltoxicitet talar emot användning vid myosit. |
-| Sekundär interstitiell lungsjukdom hos barn vid bindvävssjukdom | 99,1 % | Inflammation och fibros påverkas inte av natriumkanalblockad. |
-| Amyopatisk dermatomyosit | 99,0 % | Immunmedierad hudsjukdom. Ingen effekt förväntas på den underliggande immunpatologin. |
+Den höga poängen (0,9923) är en beräkningsmässig förutsägelse och ska tolkas med stor försiktighet. Den stöds inte av några kliniska eller litterära belägg.
 
 ---
 
-## Marknadsinformation Sverige
+### Kliniska prövningar
 
-Alla 15 godkännanden är indragna och ingen indikationstext finns registrerad. De fem första visas nedan.
+Inga relaterade kliniska prövningar registrerade för närvarande.
+
+---
+
+### Litteraturbevis
+
+Ingen relaterad litteratur tillgänglig för närvarande.
+
+---
+
+### Marknadsinformation Sverige
+
+Läkemedlet har 15 registrerade godkännanden för enkomponentsberedningar i beredningsformen injektionsvätska, lösning. Ingen indikationstext finns registrerad i de lokala data. De viktigaste produkterna:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 60203 | Bupivacaine Noridem | Injektionsvätska, lösning | – |
-| 57563 | Pankaine Spinal tung | Injektionsvätska, lösning | – |
-| 9999 | Marcain spinal tung | Injektionsvätska, lösning | – |
-| 8613 | Marcain | Injektionsvätska, lösning | – |
-| 10255 | Marcain spinal | Injektionsvätska, lösning | – |
+| 60203 | Bupivacaine Noridem | Injektionsvätska, lösning | Ej angiven |
+| 57563 | Pankaine Spinal tung | Injektionsvätska, lösning | Ej angiven |
+| 9999 | Marcain spinal tung | Injektionsvätska, lösning | Ej angiven |
+| 8613 | Marcain | Injektionsvätska, lösning | Ej angiven |
+| 10255 | Marcain spinal | Injektionsvätska, lösning | Ej angiven |
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-**Läkemedelsinteraktioner** (56 registrerade, de viktigaste visas):
-- Aprepitant (måttlig)
-- Morfin, liposomalt (måttlig)
-- Övriga identifierade interaktioner saknar graderad allvarlighet, bland annat pantoprazol, omeprazol, lansoprazol, vankomycin, atropin, kortikosteroider (triamcinolon, prednison, prednisolon, hydrokortison, dexametason), simvastatin, kaliumklorid, ondansetron, metoklopramid och naloxon.
+- **Läkemedelsinteraktioner**: 56 interaktioner är registrerade. De som är klassade som måttliga är aprepitant och liposomalt morfin. För övriga, bland annat pantoprazol, omeprazol, lansoprazol, vankomycin, atropin, prednisolon, dexametason och ondansetron, är interaktionsnivån okänd.
 
-**Sjukdomar där kunskapsgrafen anger kontraindikation** (inte hämtat från produktresumétext): bland annat hypertoni, leversvikt, leversjukdom, njursjukdom, epilepsi, svår KOL, andningssvikt, kranskärlssjukdom, hjärtinfarkt, förmaksflimmer, hjärtledningsrubbning, plötsligt hjärtstopp, hypotyreos, diabetes, diabetesketoacidos, inflammatorisk tarmsjukdom, benign prostatahyperplasi, trångvinkelglaukom, hemoglobinopati, kaliumbrist och substansberoende.
-
-Varnings- och kontraindikationstext från produktresumén saknas i underlaget. Se produktresumén för fullständig säkerhetsinformation.
+Se produktresumén för övrig säkerhetsinformation, såsom varningar och kontraindikationer.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en grafbaserad modell (evidensnivå L5) utan kliniska prövningar eller publikationer. Dessutom saknas ett rimligt mekanistiskt samband, och samtliga svenska godkännanden är indragna.
+- Förutsägelsen saknar helt stöd i kliniska prövningar och litteratur (evidensnivå L5), och inget rimligt mekanistiskt samband har kunnat identifieras mellan en lokalbedövning och en infektionsrelaterad hudsjukdom.
 
 **För att gå vidare krävs:**
-- Hämta och analysera produktresumé (varningar och kontraindikationer) från Läkemedelsverket, eftersom säkerhetsscreening inte kan genomföras utan dessa data.
-- Komplettera verkningsmekanismdata, till exempel via DrugBank.
-- Genomföra en systematisk litteratur- och prövningssökning för akrodermatit chronica atrophicans och bupivakain.
-- Bedöma om en mekanistisk hypotes (till exempel symtomlindring av smärta eller klåda) är klinisk relevant, annars bör förutsägelsen avskrivas.
-- Klargöra administreringsväg och beredningsform, eftersom befintliga beredningar är injektionsvätskor för spinal eller infiltrationsanvändning.
+- Preklinisk eller mekanistisk evidens för ett samband mellan bupivakain och sjukdomen
+- Litteraturgenomgång av publicerade fallrapporter eller studier
+- Hämtning och genomgång av produktresumé med varningar och kontraindikationer
+- Komplettering av verkningsmekanismdata
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

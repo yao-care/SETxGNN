@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 99
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
-description: "Cidofovir: predikterad ny indikation Skleroserande kolangit (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga data"
 monitor_inn: "cidofovir"
 predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
+last_modified_at: 2026-10-27
+description: "Cidofovir: predikterad ny indikation Skleroserande kolangit (sclerosing cholangitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Cidofovir
@@ -33,14 +33,12 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-## Cidofovir: Från ej angiven indikation till skleroserande kolangit
+## Cidofovir: antiviralt nukleotidanalog → Skleroserande kolangit (sclerosing cholangitis)
 {: .text-alpha }
-
----
 
 ## Sammanfattning
 
-Cidofovir är ett antiviralt läkemedel (nukleotidanalog) som i Sverige har haft ett godkännande som koncentrat till infusionsvätska. Godkännandet är numera avregistrerat och någon godkänd indikationstext finns inte i de data som sammanställts för denna rapport. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **skleroserande kolangit**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder förutsägelsen. Evidensen är därför enbart modellbaserad.
+Cidofovir är ett antiviralt läkemedel i form av ett nukleotidanalog som hämmar viralt DNA-polymeras. TxGNN-modellen förutsäger att det kan vara effektivt mot **skleroserande kolangit (sclerosing cholangitis)**. För denna förutsägelse finns **0 kliniska prövningar** och **0 publikationer** i de data som sammanställts för rapporten, så underlaget är enbart modellens förutsägelse.
 
 ---
 
@@ -48,23 +46,23 @@ Cidofovir är ett antiviralt läkemedel (nukleotidanalog) som i Sverige har haft
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i tillgängliga data |
-| Förutsagd ny indikation | Skleroserande kolangit |
-| TxGNN-förutsägelsepoäng | 99,9 % |
-| Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 1 |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Skleroserande kolangit (sclerosing cholangitis) |
+| TxGNN-förutsägelsepoäng | 0,9994 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts. Cidofovir är känt som en nukleotidanalog som hämmar viralt DNA-polymeras, och dess användning har framför allt gällt virusinfektioner, särskilt cytomegalovirus (CMV).
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts. Cidofovir är känt som ett nukleotidanalog som hämmar viralt DNA-polymeras, men något stöd för en mekanistisk koppling till skleroserande kolangit har inte hittats.
 
-Något tydligt mekanistiskt samband mellan cidofovir och skleroserande kolangit kan inte styrkas med tillgängliga data. En svag teoretisk koppling skulle kunna vara CMV-relaterad eller infektionsrelaterad gallvägssjukdom hos immunsupprimerade patienter, men detta stöds inte av någon studie eller publikation i underlaget.
+Ett tänkbart, men rent teoretiskt, samband är infektionsrelaterad eller CMV-associerad gallvägssjukdom hos immunsupprimerade patienter. Detta stöds inte av någon prövning eller publikation i underlaget. Skleroserande kolangit är i första hand en kronisk, ofta immunmedierad gallvägssjukdom, och antiviral effekt innebär inte i sig någon nytta vid den sjukdomen.
 
-Poängen på 99,9 % är en ren modellförutsägelse. Den bör ses som en hypotes för vidare utredning och inte som ett belägg för effekt.
+Poängen 0,9994 är en modellförutsägelse och ska inte tolkas som klinisk evidens.
 
 ---
 
@@ -84,9 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 59808 | Cidofovir Macure | Koncentrat till infusionsvätska, lösning | Ej angiven (status: avregistrerad) |
-
-Tillverkare: MACURE PHARMA ApS. Det finns inget giltigt godkännande i Sverige för närvarande.
+| 59808 | Cidofovir Macure | Koncentrat till infusionsvätska, lösning | Ej angiven i lokala data |
 
 ---
 
@@ -94,26 +90,28 @@ Tillverkare: MACURE PHARMA ApS. Det finns inget giltigt godkännande i Sverige f
 
 | Post | Innehåll |
 |------|------|
-| Cytotoxicitetsklassificering | Antiviral nukleotidanalog; ingen klassificering som cytostatikum kan fastställas från tillgängliga data |
-
-Se produktresumén för varningar och försiktighetsåtgärder.
+| Cytotoxicitetsklassificering | Antiviralt nukleotidanalog, inte ett klassiskt cytostatikum |
+| Myelosuppressionsrisk | Se produktresumén |
+| Emetogenicitetsklassificering | Se produktresumén |
+| Övervakningspunkter | Njurfunktion och blodstatus bör följas, se produktresumén |
+| Hanteringsskydd | Se produktresumén för varningar och försiktighetsåtgärder |
 
 ---
 
 ## Säkerhetsaspekter
 
-- **Kontraindikationer enligt kunskapsgrafen (inte från produkttext):** njursjukdom, pyouretär (var i urinledaren), acidosstörning och förvärvad laktacidos.
-- **Läkemedelsinteraktioner:** 55 interaktioner har identifierats. De flesta av de redovisade är av allvarlig grad (Major). Viktiga grupper:
-  - **Amfotericin B** (inklusive lipidkomplex, kolesterylsulfat och liposomal form)
-  - **Aminoglykosider och liknande:** kanamycin, neomycin, streptomycin, polymyxin B, vankomycin
-  - **Aminosalicylater:** mesalazin, balsalazid, olsalazin, sulfasalazin
-  - **Järnkelatorer:** deferasirox, deferoxamin
-  - **Kontrast- och radiofarmaka:** diatrizoat, jodipamid, jobenguan (I-131)
-  - **Måttlig grad (Moderate):** exenatid, trospium
+- **Läkemedelsinteraktioner**: Totalt 55 interaktioner finns registrerade. De flesta av de som visas är av allvarlighetsgrad större (Major), bland annat:
+  - Amfotericin B (inklusive lipidkomplex, kolesterylsulfat och liposomal form)
+  - Aminoglykosider: kanamycin, neomycin, streptomycin
+  - Polymyxin B och vankomycin
+  - Mesalazin, balsalazid, olsalazin och sulfasalazin
+  - Deferasirox och deferoxamin
+  - Jodkontrastmedel och jodföreningar: diatrizoat, iodipamid, iobenguan (I-131)
+  - Måttlig (Moderate) allvarlighetsgrad: exenatid och trospium
 
-  Många av dessa är potentiellt njurtoxiska, vilket är särskilt viktigt eftersom cidofovir självt kan skada njurarna.
+  Många av dessa läkemedel är njurtoxiska, så samtidig användning kräver särskild försiktighet.
 
-Varningar och kontraindikationer från produktresumén saknas i underlaget. Se produktresumén för fullständig säkerhetsinformation.
+Se i övrigt produktresumén för fullständig säkerhetsinformation.
 
 ---
 
@@ -122,14 +120,13 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en modellpoäng utan kliniska prövningar, litteratur eller känd mekanistisk koppling. Dessutom saknas giltigt godkännande i Sverige och viktig säkerhetsdata.
+- Förutsägelsen för skleroserande kolangit bygger enbart på modellens poäng, utan kliniska prövningar, litteratur eller känd mekanistisk koppling (evidensnivå L5).
 
 **För att gå vidare krävs:**
-- Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket.
-- Komplettera verkningsmekanismdata, till exempel från DrugBank.
-- Genomföra en systematisk litteratursökning om cidofovir vid skleroserande kolangit, inklusive CMV-relaterad gallvägssjukdom.
-- Utvärdera nytta och risk, särskilt njurtoxicitet och de många allvarliga interaktionerna.
-- Vid fortsatt intresse: prekliniska studier eller mekanismstudier som kan stödja en hypotes.
+- Mekanistisk analys av hur cidofovir skulle kunna påverka skleroserande kolangit
+- Prekliniska studier och därefter kliniska data som direkt studerar sjukdomen
+- Genomgång av produktresumén avseende varningar, kontraindikationer och njurtoxicitet
+- Bedömning av beredningsform och administreringsväg för den nya indikationen
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

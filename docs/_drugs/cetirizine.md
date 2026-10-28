@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cetirizine
-parent: Hög evidens (L1-L2)
+parent: Endast modellprediktion (L5)
 nav_order: 90
-evidence_level: L2
-indication_count: 6
-last_modified_at: 2026-10-15
-description: "Cetirizine: predikterad ny indikation Allergisk urtikaria (evidensnivå L2). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad i licensdata. Kunskap…"
+evidence_level: L5
+indication_count: 3
 monitor_inn: "cetirizine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
+predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
+last_modified_at: 2026-10-27
+description: "Cetirizine: predikterad ny indikation Näshåleesjukdom (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Cetirizine
 {: .fs-9 }
 
-Evidensnivå: **L2** | Förutsagda indikationer: **6** st
+Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,107 +33,89 @@ Evidensnivå: **L2** | Förutsagda indikationer: **6** st
 
 </div>
 
-## Cetirizin: Från allergisk rinit till allergisk urtikaria
+## Cetirizin Apofri: H1-receptorantagonist → Näshåleesjukdom (nasal cavity disease)
 {: .text-alpha }
 
 ---
 
-## Sammanfattning
+### Sammanfattning
 
-Cetirizin är en antihistamin av andra generationen som i den kunskapsgraf som ligger till grund för modellen är kopplad till bland annat allergisk rinit, vasomotorisk rinit, konjunktivit och idiopatisk urtikaria. TxGNN-modellen förutsäger att cetirizin kan vara effektivt mot **allergisk urtikaria**, med **1 klinisk prövning** och **17 publikationer** som för närvarande stöder denna riktning. Förutsägelsen ligger mycket nära den kända användningen vid idiopatisk urtikaria och är därför mer en utvidgning inom samma läkemedelsklass och mekanism än en egentlig ny användning.
+Cetirizin är en H1-antihistamin (receptorantagonist för histamin) som används vid allergiska besvär. TxGNN-modellen förutsäger att det kan vara effektivt mot **näshåleesjukdom (nasal cavity disease)**. Evidensen är begränsad: inga kliniska prövningar och **5 publikationer** (främst översiktsartiklar och prekliniska studier) som inte direkt studerar denna sjukdom.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad i licensdata. Kunskapsgrafen anger allergisk rinit, vasomotorisk rinit, konjunktivit och idiopatisk urtikaria, bland andra. |
-| Förutsagd ny indikation | Allergisk urtikaria |
-| TxGNN-förutsägelsepoäng | 99,99 % |
-| Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 13 (samtliga indragna) |
-| Rekommenderat beslut | Fortsätt med försiktighet |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Näshåleesjukdom (nasal cavity disease) |
+| TxGNN-förutsägelsepoäng | 0,9977 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 13 av 13) |
+| Antal godkännanden | 13 (giltiga: 13) |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Baserat på känd information är cetirizin en selektiv histamin H1-receptorantagonist av andra generationen. Dess effekt vid idiopatisk urtikaria och allergisk rinit är väl belagd, och mekanistiskt är den direkt tillämpbar på allergisk urtikaria.
+Detaljerad data om verkningsmekanismen finns för närvarande inte tillgänglig i de sammanställda data. Cetirizin är dock känt som en H1-antihistamin. Litteraturen beskriver att den huvudsakliga effekten hos antihistaminer är konkurrerande blockad av histaminets H1-receptorer på nervändar, glatt muskulatur och körtelceller. Det kan dämpa histaminmedierade symtom i näsans slemhinna, såsom svullnad, sekretion och klåda.
 
-Vid allergisk urtikaria frisätts histamin från mastceller och ger kvaddlar och rodnad i huden. Genom att blockera H1-receptorn angriper cetirizin just denna del av sjukdomsprocessen. Sambandet mellan den ursprungliga och den nya indikationen är därför nära: båda är histaminmedierade hudreaktioner.
-
-Eftersom idiopatisk urtikaria redan är en känd användning handlar detta i huvudsak om en utvidgning inom samma läkemedelsklass och mekanism, inte om ett nytt verkningssätt.
+Kopplingen till den förutsagda sjukdomen är indirekt. "Näshåleesjukdom" är en bred och ospecifik kategori. Den mekanistiska länken går via allergiska näsbesvär, där H1-blockad är väl beskriven. För andra sjukdomar i näshålan är underlaget inte specifikt, och sjukdomstermen bör preciseras innan vidare utvärdering.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
-| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
-|---------|------|------|------|---------|
-| [NCT02023164](https://clinicaltrials.gov/study/NCT02023164) | Fas 3 | Avslutad | 36 | Randomiserad, dubbelblind pilotstudie som jämför intravenöst cetirizin (10 mg) med intravenöst difenhydramin (50 mg) vid akut urtikaria på akutmottagningar, jourcentraler och allergikliniker. Syftet var att bedöma genomförbarheten av en större fas 3-studie. |
-
-Prövningen är liten och utvärderar den intravenösa beredningen, som skiljer sig från den orala. Den ger därför inte definitiv effektevidens.
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [7510611](https://pubmed.ncbi.nlm.nih.gov/7510611/) | 1993 | Översikt | Drugs | Cetirizin är en effektiv och väl tolererad behandling vid säsongsbunden och perenn allergisk rinit samt kronisk idiopatisk urtikaria hos vuxna. |
-| [1981354](https://pubmed.ncbi.nlm.nih.gov/1981354/) | 1990 | Översikt | Drugs | Kontrollerade studier visar effekt vid allergisk rinit, pollenutlöst astma och kronisk urtikaria. Cetirizin saknar de dämpande effekter på centrala nervsystemet som äldre antihistaminer har. |
-| [16278258](https://pubmed.ncbi.nlm.nih.gov/16278258/) | 2005 | Översikt | Annals of Pharmacotherapy | Granskar effekt och säkerhet för äldre och nyare antihistaminer vid allergisk rinit och kronisk idiopatisk urtikaria. |
-| [18201439](https://pubmed.ncbi.nlm.nih.gov/18201439/) | 2007 | Översikt | Allergy and Asthma Proceedings | Genomgång av levocetirizin (cetirizinets R-enantiomer) vid allergisk rinit och kronisk idiopatisk urtikaria. |
-| [19808127](https://pubmed.ncbi.nlm.nih.gov/19808127/) | 2009 | Översikt | Clinical Therapeutics | Levocetirizin är godkänt för symtomlindring vid allergisk rinit och kronisk idiopatisk urtikaria hos vuxna och barn från 6 år. |
-| [17017922](https://pubmed.ncbi.nlm.nih.gov/17017922/) | 2006 | Översikt | Current Medicinal Chemistry | Levocetirizin har minimal levermetabolism, hög biotillgänglighet och snabbt insättande effekt. |
-| [7530629](https://pubmed.ncbi.nlm.nih.gov/7530629/) | 1994 | Översikt | Drugs | Hos de flesta med kronisk idiopatisk urtikaria är icke-sederande antihistaminer grundbehandling. |
-| [11034010](https://pubmed.ncbi.nlm.nih.gov/11034010/) | 2000 | Fallrapport | Journal of Clinical Gastroenterology | Fall av cetirizinutlöst kolestas hos en 28-årig man efter cirka två års användning (säkerhetsfynd). |
-
-Flertalet av de hämtade publikationerna är översikter som rör andra antihistaminer eller indikationer än allergisk urtikaria, och ingen av dem är en kontrollerad studie av cetirizin vid just allergisk urtikaria.
+| [11291777](https://pubmed.ncbi.nlm.nih.gov/11291777/) | 2000 | Översikt | Allergy | Beskriver H1-receptorblockad som huvudmekanism hos antihistaminer vid allergiska sjukdomar, samt möjliga ytterligare antiallergiska effekter. |
+| [37970776](https://pubmed.ncbi.nlm.nih.gov/37970776/) | 2023 | Översikt | Vestnik otorinolaringologii | Patogenetiskt angreppssätt vid inflammatoriska sjukdomar i näsa och bihålor; behandlingen ska minska svullnad och slemproduktion. |
+| [35818943](https://pubmed.ncbi.nlm.nih.gov/35818943/) | 2022 | Översikt | Vestnik otorinolaringologii | Moderna H1-antihistaminer hos patienter med allergisk rinit och samtidiga akuta luftvägsinfektioner. |
+| [9301130](https://pubmed.ncbi.nlm.nih.gov/9301130/) | 1997 | Preklinisk (annat läkemedel) | Arerugi | Studie av betotastin på experimentell allergisk rinit; cetirizin användes som jämförelse och hämmade dosberoende ökningen av färgläckage. |
+| [36116201](https://pubmed.ncbi.nlm.nih.gov/36116201/) | 2022 | Preklinisk (mus, orelaterat läkemedel) | Phytomedicine | Studie av en traditionell kinesisk kapsel vid luktstörning i musmodell av allergisk rinit; låg relevans för cetirizin. |
 
 ---
 
-## Marknadsinformation Sverige
+### Marknadsinformation Sverige
 
-Samtliga 13 godkännanden är indragna och inga är giltiga. Ingen godkänd indikationstext finns registrerad.
-
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 43145 | Cetirizin Apofri | Filmdragerad tablett | Indraget |
-| 16450 | Cetirizin Viatris | Filmdragerad tablett | Indraget |
-| 11673 | Zyrlex | Orala droppar, lösning | Indraget |
-| 55580 | Cetirizin ABECE | Filmdragerad tablett | Indraget |
-| 48138 | Vialerg | Filmdragerad tablett | Indraget |
-
-Ytterligare åtta godkännanden (bland annat Zyrlex, Cetimax, Cetirizin STADA, Cetirizin Sandoz, Cetirizine Haleon och Cetirizine Teva) är också indragna.
+| 43145 | Cetirizin Apofri | Filmdragerad tablett | Ej angiven |
+| 16450 | Cetirizin Viatris | Filmdragerad tablett | Ej angiven |
+| 11673 | Zyrlex | Orala droppar, lösning | Ej angiven |
+| 55580 | Cetirizin ABECE | Filmdragerad tablett | Ej angiven |
+| 48138 | Vialerg | Filmdragerad tablett | Ej angiven |
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-- **Kontraindikationer enligt kunskapsgrafen** (ej hämtade från produktresumén): hypertoni, njursjukdom (inklusive kronisk njursvikt), leversjukdom, gallblåsesjukdom, diabetes och diabetesketoacidos, benign prostatahyperplasi, kranskärlssjukdom och ateroskleros, trångvinkelglaukom, samt hypertyreos (Graves sjukdom, tyreotoxikos). Dessa uppgifter bör bekräftas mot produktresumén innan de används kliniskt.
-- **Läkemedelsinteraktioner**: totalt 570 interaktioner identifierade. De som bedöms som måttliga omfattar bupropion, dronabinol, loperamid, metoklopramid, morfin (även liposomal), nabilon, opium, sibutramin, difenoxin och difenoxylat. Flera ytterligare interaktioner har okänd allvarlighetsgrad (bland annat kalcitriol, vitamin A, fentermin, pantoprazol, glimepirid, mesalazin, doxycyklin, klotrimazol och akarbos).
-- **Rapporterade biverkningar i litteraturen**: ett fall av cetirizinutlöst kolestas (PMID 11034010). Övergående, reversibla leverenzymstegringar sågs hos färre än 2 % av patienterna i amerikanska kliniska studier.
+- **Läkemedelsinteraktioner**: Sammanlagt 570 interaktioner har identifierats. Bland de som klassas som måttliga finns bupropion, dronabinol, loperamid, metoklopramid, morfin, nabilon, opium, sibutramin, difenoxin och difenoxylat. Flera av dessa har sedativa eller centralt dämpande effekter som kan förstärkas.
 
-Produktresumé med varningar och kontraindikationer har inte kunnat hämtas. Se produktresumén för fullständig säkerhetsinformation.
+För övrig säkerhetsinformation, se produktresumén.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
-**Beslut: Fortsätt med försiktighet**
+**Beslut: Avvakta**
 
 **Motivering:**
-- Mekanismen är stark och indikationen ligger nära den kända användningen vid idiopatisk urtikaria, men den enda prövningen är en liten pilotstudie med intravenös beredning. Dessutom är samtliga svenska godkännanden indragna och säkerhetsunderlaget från produktresumén saknas.
+- Förutsägelsen bygger enbart på modellen (poäng 0,9977). Ingen publicerad studie undersöker direkt näshåleesjukdom, och kategorin är för bred för att utvärderas meningsfullt.
 
 **För att gå vidare krävs:**
-- Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket.
-- Hämta uppgifter om verkningsmekanismen från DrugBank.
-- Klargöra marknadsläget i Sverige, eftersom inga giltiga godkännanden finns.
-- Genomföra eller identifiera kontrollerade studier med oralt cetirizin vid allergisk urtikaria.
-- Avgöra om indikationen ska betraktas som en utvidgning av redan känd användning vid urtikaria.
+- Att sjukdomstermen preciseras till en specifik näsdiagnos.
+- Kliniska prövningar eller publikationer som direkt studerar cetirizin vid den preciserade sjukdomen.
+- Genomgång av produktresumé för varningar och kontraindikationer.
+- Kompletterande data om verkningsmekanismen.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

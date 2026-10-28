@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 115
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Cyanocobalamin: predikterad ny indikation Biotinmetabol sjukdom (biotin metabolic disease) (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad i godkännandedata.…"
 monitor_inn: "cyanocobalamin"
 predicted_indications: ["biotin metabolic disease"]
+last_modified_at: 2026-10-27
+description: "Cyanocobalamin: predikterad ny indikation Biotinmetabol sjukdom (biotin metabolic disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Cyanocobalamin
@@ -33,52 +33,56 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Cyanokobalamin: Från vitamin B12-brist till biotinmetabol sjukdom
+## Cyanocobalamin: vitamin B12-analog (kobalamin) → Biotinmetabol sjukdom (biotin metabolic disease)
 {: .text-alpha }
 
----
+## Sammanfattning
 
-### Sammanfattning
-
-Cyanokobalamin är en syntetisk form av vitamin B12 och har använts vid vitaminbristtillstånd, framför allt B12-brist, perniciös anemi och andra bristanemier. TxGNN-modellen förutsäger att det kan vara effektivt mot **biotinmetabol sjukdom**, men förutsägelsen bygger enbart på modellen: **inga kliniska prövningar** och **1 publikation** (en allmän översikt om biotekniskt framställda vitaminer, som inte direkt stöder indikationen) har hittats.
+Cyanocobalamin är en form av vitamin B12 och fungerar som kofaktor för enzymer i ämnesomsättningen. TxGNN-modellen förutsäger att det kan vara effektivt mot **biotinmetabol sjukdom (biotin metabolic disease)**. Evidensen är mycket begränsad: **inga kliniska prövningar** och **1 publikation** (en allmän översikt om biotekniskt framställda vitaminer) som inte studerar sjukdomen direkt.
 
 ---
 
-### Snabböversikt
+## Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad i godkännandedata. Enligt kunskapsgrafen: vitaminbristtillstånd, B12-brist, perniciös anemi, folatbristanemi, järnbristanemi |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Biotinmetabol sjukdom (biotin metabolic disease) |
-| TxGNN-förutsägelsepoäng | 99,6 % |
-| Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
-| Antal godkännanden | 13 (samtliga återkallade, inga giltiga) |
+| TxGNN-förutsägelsepoäng | 0,9960 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 13 av 13) |
+| Antal godkännanden | 13 (giltiga: 13) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-### Varför är denna förutsägelse rimlig?
+## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för rapporten. Baserat på allmänt känd information fungerar cyanokobalamin (vitamin B12) som kofaktor för två enzym: metioninsyntas och metylmalonyl-CoA-mutas. Dess effekt vid B12-brist och perniciös anemi är väletablerad.
+Det finns för närvarande ingen detaljerad verkningsmekanismdata tillgänglig för läkemedlet i de sammanställda uppgifterna. Cyanocobalamin (vitamin B12) är dock känt som kofaktor för metioninsyntas och metylmalonyl-CoA-mutas.
 
-Biotin är i sin tur kofaktor för karboxylaser, till exempel propionyl-CoA-karboxylas, som matar in i samma metylmalonyl-CoA-väg. De två vitaminerna delar alltså metaboliska vägar kring propionat och nedbrytning av grenade aminosyror. Det kan förklara varför grafmodellen kopplar ihop dem.
+Biotin är kofaktor för karboxylaser, till exempel propionyl-CoA-karboxylas, som matar in i metylmalonyl-CoA-vägen. De två vitaminerna delar alltså ämnesomsättningsvägar kring propionat och nedbrytning av grenade aminosyror. Detta kan förklara modellens förutsägelse.
 
-Det finns dock ingen direkt evidens för att cyanokobalamin korrigerar defekterna vid biotinmetabola sjukdomar som biotinidasbrist eller holokarboxylassyntetasbrist. Standardbehandlingen är biotintillskott, och B12 skulle inte ersätta den. Saknad mekanismdata försvagar dessutom bedömningen. Förutsägelsen bör därför ses som en hypotes, inte som en terapeutisk rekommendation.
+Det finns däremot inga direkta belägg för att cyanocobalamin korrigerar defekterna vid biotinmetabola sjukdomar, såsom biotinidasbrist eller holokarboxylassyntetasbrist. Standardbehandlingen är biotintillskott, och B12 skulle inte ersätta den. Förutsägelsen bör därför ses som en hypotes utan stöd i studier.
 
 ---
 
-### Litteraturbevis
+## Kliniska prövningar
+
+Inga relaterade kliniska prövningar registrerade för närvarande.
+
+---
+
+## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [1368195](https://pubmed.ncbi.nlm.nih.gov/1368195/) | 1992 | Översikt | Journal of Chemical Technology and Biotechnology | Allmän översikt om biotekniska processer för tillverkning av vitaminer och relaterade biokemikalier. Behandlar inte behandling av biotinmetabol sjukdom med cyanokobalamin. |
+| [1368195](https://pubmed.ncbi.nlm.nih.gov/1368195/) | 1992 | Översikt | Journal of chemical technology and biotechnology | Allmän genomgång av bioteknisk framställning av vitaminer och koenzymer. Behandlar inte biotinmetabol sjukdom eller kliniska effekter av cyanocobalamin. |
 
 ---
 
-### Marknadsinformation Sverige
+## Marknadsinformation Sverige
 
-Samtliga 13 godkännanden är återkallade. Ingen indikationstext finns registrerad. Nedan visas de fem första.
+Enligt de lokala uppgifterna finns 13 godkännanden registrerade för cyanocobalamin som enskild substans. Indikationstext är inte angiven i de lokala uppgifterna. De fem första:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -88,34 +92,30 @@ Samtliga 13 godkännanden är återkallade. Ingen indikationstext finns registre
 | 14650 | Betolvidon | Tablett | Ej angiven |
 | 67584 | Cyanocobalamin Farmacia | Filmdragerad tablett | Ej angiven |
 
-Övriga godkännanden omfattar bland annat TrioBe, Bevitrio, Beviplex Comp samt injektions- och infusionspreparat (Soluvit, Cernevit, Viant).
+Beredningsformerna omfattar orala tabletter samt pulver till infusions- eller injektionsvätska.
 
 ---
 
-### Säkerhetsaspekter
+## Säkerhetsaspekter
 
-**Läkemedelsinteraktioner:** 313 interaktioner är registrerade. De som visas i underlaget är i huvudsak av lägre betydelse:
+- **Läkemedelsinteraktioner**: Totalt 313 interaktioner finns registrerade. De som listas i underlaget är av graden ringa (minor) eller okänd. Ringa interaktioner gäller bland annat protonpumpshämmare (t.ex. omeprazol, pantoprazol, esomeprazol), H2-blockerare (t.ex. famotidin, ranitidin, cimetidin) och kaliumklorid. Interaktioner med okänd grad gäller bland annat metformin, morfin, doxycyklin, mesalazin, sukralfat, akarbos, glimepirid och rosiglitazon.
 
-- **Mindre (Minor):** syrahämmare som famotidin, ranitidin, cimetidin, nizatidin samt protonpumpshämmare (omeprazol, esomeprazol, lansoprazol, dexlansoprazol, pantoprazol, rabeprazol), samt kaliumklorid. Dessa kan minska upptaget av B12 från kosten.
-- **Okänd nivå:** metformin, glimepirid, rosiglitazon, acarbose, doxycyklin, mesalazin, morfin och sukralfat.
-
-Varningar och kontraindikationer från produktresumé saknas i underlaget. Se produktresumén för säkerhetsinformation.
+Se produktresumén för varningar och kontraindikationer, eftersom sådana uppgifter saknas i de sammanställda data.
 
 ---
 
-### Slutsats och nästa steg
+## Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den höga modellpoängen (99,6 %) bygger enbart på en grafbaserad förutsägelse. Det saknas kliniska prövningar och relevant litteratur, och standardbehandlingen (biotin) gör att B12 knappast tillför något.
-- Alla svenska godkännanden är återkallade, och viktig säkerhets- och mekanismdata saknas.
+- Förutsägelsen bygger enbart på modellen (poäng 0,9960). Ingen studie undersöker cyanocobalamin vid biotinmetabol sjukdom, och standardbehandlingen är biotin, inte B12.
 
 **För att gå vidare krävs:**
-- Hämta produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer, vilket för närvarande blockerar säkerhetsgranskningen.
-- Komplettera verkningsmekanismen från DrugBank.
-- Genomföra en riktad litteraturgenomgång om samband mellan B12 och biotinmetabola sjukdomar (biotinidasbrist, holokarboxylassyntetasbrist).
-- Bedöma administreringsvägens kompatibilitet och om det finns något kliniskt behov utöver biotinbehandling.
+- Prekliniska eller kliniska studier som direkt undersöker cyanocobalamin vid biotinmetabola sjukdomar
+- Tydligare mekanistisk analys av hur B12 skulle påverka biotinberoende enzymer
+- Hämtning av varningar och kontraindikationer från produktresumén
+- Bedömning av om det finns något kliniskt behov utöver befintlig biotinbehandling
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

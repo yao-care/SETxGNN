@@ -6,9 +6,9 @@ nav_order: 158
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Efavirenz: predikterad ny indikation Felin förvärvad immunbristsyndrom (evidensnivå L5). Ursprunglig indikation: Hiv-infektion, aids (enligt kunskapsgrafen"
 monitor_inn: "EFAVIRENZ"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Efavirenz: predikterad ny indikation Feline acquired immunodeficiency syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Efavirenz
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Efavirenz: Från hiv-infektion till felin förvärvad immunbristsyndrom
+## Efavirenz: Feline acquired immunodeficiency syndrome
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Efavirenz är ett icke-nukleosidt omvänt transkriptashämmande läkemedel (NNRT
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Hiv-infektion, aids (enligt kunskapsgrafen; ingen indikationstext finns i de svenska godkännandena) |
-| Förutsagd ny indikation | Felin förvärvad immunbristsyndrom |
-| TxGNN-förutsägelsepoäng | 99,8 % |
-| Evidensnivå | L4 (endast prekliniska studier och mekanismstudier) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 8 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Feline acquired immunodeficiency syndrome |
+| TxGNN-förutsägelsepoäng | 0.9980 |
+| Evidensnivå | L5 (endast prekliniska studier och mekanismstudier) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 8) |
+| Antal godkännanden | 8 (giltiga: 7) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -84,7 +84,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-Samtliga godkännanden är indragna och inga är giltiga i dagsläget. Indikationstext saknas i underlaget.
+Indikationstext saknas i underlaget.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

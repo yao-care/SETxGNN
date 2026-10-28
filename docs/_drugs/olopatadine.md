@@ -6,9 +6,9 @@ nav_order: 326
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Olopatadine: predikterad ny indikation Rosaceakonjunktivit (evidensnivå L5). Ursprunglig indikation: Allergisk rinit, vasomotorisk rinit, atopisk…"
 monitor_inn: "olopatadine"
 predicted_indications: ["rosacea conjunctivitis"]
+description: "Olopatadine: predikterad ny indikation Rosacea conjunctivitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Olopatadine
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Olopatadin: Från allergisk konjunktivit och rinit till rosaceakonjunktivit
+## Olopatadine: Rosacea conjunctivitis
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Olopatadin är en antihistamin som ursprungligen används mot allergisk rinit, v
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Allergisk rinit, vasomotorisk rinit, atopisk, papillär och vernal konjunktivit (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsägd ny indikation | Rosaceakonjunktivit |
-| TxGNN-förutsägelsepoäng | 99,4 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsägd ny indikation | Rosacea conjunctivitis |
+| TxGNN-förutsägelsepoäng | 0.9941 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 7 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
+| Antal godkännanden | 7 (giltiga: 7) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Okulär rosacea innebär inflammation i ögonlockskanten och på ögats yta, bland annat meibomsk körteldysfunktion, aktivering av det medfödda immunförsvaret samt frisättning av cytokiner och matrix-metalloproteinaser. Histamin och mastcellsaktivitet kan spela en mindre roll i detta, och det ger ett möjligt, men indirekt, mekanistiskt samband.
 
-Det är viktigt att poängen på 99,4 % är en beräkningsbaserad förutsägelse. Den härrör från närhet i kunskapsgrafen till de godkända konjunktivitindikationerna och utgör inte självständig klinisk evidens. Mekanismen har inte kunnat kontrolleras mot kurerade måldata.
+Det är viktigt att poängen på 0,9941 är en beräkningsbaserad förutsägelse. Den kommer från TxGNN-modellen (djupinlärning) och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens, och utgör inte självständig klinisk evidens. Mekanismen har inte kunnat kontrolleras mot kurerade måldata.
 
 ---
 
@@ -78,7 +78,7 @@ Det är viktigt att poängen på 99,4 % är en beräkningsbaserad förutsägelse
 | 64821 | Optamont | Ögondroppar, lösning | Ej angiven |
 | 60226 | Ryaltris | Nässpray, suspension | Ej angiven |
 
-Samtliga sju godkännanden är indragna; två till (65953 och 68475) finns utöver de fem som visas ovan. Inga giltiga godkännanden finns för närvarande.
+Samtliga sju godkännanden är giltiga; två till (65953 och 68475) finns utöver de fem som visas ovan. Läkemedlet är marknadsfört.
 
 ---
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Amikacin
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 29
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Amikacin: predikterad ny indikation Paratyfoidfeber (evidensnivå L4). Ursprunglig indikation: Bakteriell lunginflammation (enligt kunskapsgrafen"
 monitor_inn: "amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "meningococcemia"]
+last_modified_at: 2026-10-27
+description: "Amikacin: predikterad ny indikation Paratyfoidfeber (paratyphoid fever) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Amikacin
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,97 +33,94 @@ Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Amikacin: Från bakteriell lunginflammation till paratyfoidfeber
+## Amikacin: aminoglykosid-antibiotikum → Paratyfoidfeber (paratyphoid fever)
 {: .text-alpha }
 
 ---
 
-## Sammanfattning
+### Sammanfattning
 
-Amikacin är ett aminoglykosidantibiotikum som ursprungligen användes mot allvarliga gramnegativa infektioner, bland annat bakteriell lunginflammation, infektioner med *Pseudomonas aeruginosa* och bakteriell hjärnhinneinflammation. TxGNN-modellen förutsäger att amikacin kan vara effektivt mot **paratyfoidfeber**, men det finns **inga kliniska prövningar** och endast **8 publikationer** som är epidemiologiska eller baserade på resistensmönster, utan klinisk effektdata för amikacin. Evidensen är därför svag, och aminoglykosider rekommenderas normalt inte vid enterisk feber.
+Amikacin är ett aminoglykosid-antibiotikum som verkar mot gramnegativa bakterier. TxGNN-modellen förutsäger att det kan vara effektivt mot **paratyfoidfeber (paratyphoid fever)**. Underlaget består av **0 kliniska prövningar** och **8 publikationer**, som främst är epidemiologiska studier, resistensstudier och enstaka fallrapporter. Ingen av dem visar klinisk effekt av amikacin vid sjukdomen.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Bakteriell lunginflammation (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Paratyfoidfeber |
-| TxGNN-förutsägelsepoäng | 99,8 % |
-| Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 5 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Paratyfoidfeber (paratyphoid fever) |
+| TxGNN-förutsägelsepoäng | 0,9982 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
+| Antal godkännanden | 5 (giltiga: 5) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det insamlade underlaget. Amikacin är dock ett brett aminoglykosidantibiotikum som är känt för att hämma bakteriens 30S-ribosomsubenhet och därmed proteinsyntesen. Det är verksamt mot många gramnegativa tarmbakterier (Enterobacterales), en grupp som även omfattar *Salmonella*.
+Det finns inga detaljerade data om verkningsmekanismen i det underlag som sammanställts för denna rapport. Amikacin tillhör dock aminoglykosiderna, som hämmar den bakteriella ribosomens 30S-subenhet och har aktivitet mot många gramnegativa tarmbakterier, bland dem Salmonella-arter. Paratyfoidfeber orsakas av *Salmonella paratyphi*, vilket ger en teoretisk koppling till läkemedlets antibakteriella spektrum.
 
-Sambandet mellan de ursprungliga indikationerna (gramnegativa infektioner) och paratyfoidfeber är alltså att båda orsakas av gramnegativa bakterier. Modellens höga poäng kan delvis förklaras av detta.
+Det finns emellertid en viktig begränsning. Salmonella är en fakultativt intracellulär bakterie, och aminoglykosider tränger dåligt in i celler. Därför rekommenderas de inte som standardbehandling vid tyfoid- och paratyfoidfeber (enterisk feber). Känslighet i laboratorium innebär alltså inte att läkemedlet fungerar kliniskt.
 
-Det finns dock en tydlig begränsning: *Salmonella* är en fakultativt intracellulär bakterie, och aminoglykosider tränger dåligt in i celler. Därför används de inte som standardbehandling vid enterisk feber. Mekanistiskt är förutsägelsen alltså bara delvis rimlig, och den stöds inte av klinisk effektdata.
+Den litteratur som hittats gäller i huvudsak förekomst och resistensmönster hos *Salmonella paratyphi*. En fallrapport beskriver ett barn med leukemi och Salmonella paratyphi B-infektion som behandlades med en kombination som inkluderade amikacin (cefepim, amikacin och granulocytstimulerande behandling), vilket inte är ett belägg för amikacins egen effekt.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [14596347](https://pubmed.ncbi.nlm.nih.gov/14596347/) | 2003 | Epidemiologi | The new microbiologica | Förekomst av *S. typhi* och *S. paratyphi* i Jordanien 1988–2000; ingen behandlingsdata för amikacin. |
-| [27407999](https://pubmed.ncbi.nlm.nih.gov/27407999/) | 2007 | Observationsstudie/antibiogram | Medical Journal, Armed Forces India | Känslighetsmönster hos 45 blododlingspositiva fall av enterisk feber i norra Indien; fokus på återkomst av kloramfenikolkänslighet. |
-| [18383953](https://pubmed.ncbi.nlm.nih.gov/18383953/) | 2007 | Kohort | Journal of the Indian Medical Association | Prospektiv studie av 145 barn med enterisk feber; klinisk profil och antibiotikakänslighet. |
-| [26905550](https://pubmed.ncbi.nlm.nih.gov/26905550/) | 2014 | Observationsstudie/antibiogram | JNMA | Frekvens av blododlingsisolat och deras resistensmönster på ett undervisningssjukhus. |
-| [30724049](https://pubmed.ncbi.nlm.nih.gov/30724049/) | 2018 | Mikrobiologisk isoleringsstudie | Pakistan Journal of Biological Sciences | Isolering och identifiering av *S. paratyphi* hos patienter med enterisk feber i Quetta. |
-| [2516600](https://pubmed.ncbi.nlm.nih.gov/2516600/) | 1989 | Klinisk rapport | Mikrobiyoloji Bülteni | 48 patienter med paratyfus B-infektion resistent mot klassisk behandling; antibiotikaresultat redovisas. |
-| [10505326](https://pubmed.ncbi.nlm.nih.gov/10505326/) | 1999 | Fallrapport | Pediatric Hematology and Oncology | Pojke med leukemi och akalkulös kolecystit orsakad av *S. paratyphi B*, framgångsrikt behandlad med bland annat cefepim och amikacin (kombinationsbehandling). |
-| [8354556](https://pubmed.ncbi.nlm.nih.gov/8354556/) | 1993 | Epidemiologi | Indian Journal of Pathology & Microbiology | Multiresistent *S. typhi* i Ludhiana; stammarna var känsliga för aminoglykosider och ciprofloxacin (in vitro). |
+| [10505326](https://pubmed.ncbi.nlm.nih.gov/10505326/) | 1999 | Fallrapport | Pediatric Hematology and Oncology | Pojke med akut leukemi och gallblåseinflammation orsakad av *S. paratyphi* B; behandlades framgångsrikt med cefepim, amikacin och granulocytstimulerande behandling |
+| [2516600](https://pubmed.ncbi.nlm.nih.gov/2516600/) | 1989 | Klinisk rapport | Mikrobiyoloji Bulteni | Behandling och resistensmönster hos 48 patienter med paratyfus B-infektion resistent mot klassisk behandling |
+| [18383953](https://pubmed.ncbi.nlm.nih.gov/18383953/) | 2007 | Kohortstudie | Journal of the Indian Medical Association | Klinisk och mikrobiologisk studie av 145 barn med enterisk feber, inklusive antibiotikakänslighet |
+| [27407999](https://pubmed.ncbi.nlm.nih.gov/27407999/) | 2007 | Observationsstudie (antibiogram) | Medical Journal, Armed Forces India | Känslighetsmönster hos *S. typhi* och *S. paratyphi* A från 45 fall av enterisk feber |
+| [30724049](https://pubmed.ncbi.nlm.nih.gov/30724049/) | 2018 | Mikrobiologisk isoleringsstudie | Pakistan Journal of Biological Sciences | Isolering och identifiering av *S. paratyphi* hos patienter med enterisk feber i Quetta |
+| [14596347](https://pubmed.ncbi.nlm.nih.gov/14596347/) | 2003 | Epidemiologi | The New Microbiologica | Förekomst av *S. typhi* och *S. paratyphi* i Jordanien 1988–2000 |
+| [26905550](https://pubmed.ncbi.nlm.nih.gov/26905550/) | 2014 | Observationsstudie (antibiogram) | JNMA | Blododlingsisolat och deras antibiogram på ett undervisningssjukhus |
+| [16410091](https://pubmed.ncbi.nlm.nih.gov/16410091/) | 2006 | Fallserie | Journal of Pediatric Surgery | Mjältabscess hos fyra barn behandlade med dränage och antibiotika |
 
 ---
 
-## Marknadsinformation Sverige
+### Marknadsinformation Sverige
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 9437 | Biklin | Injektionsvätska, lösning | Uppgift saknas (indraget) |
-| 66673 | Amikacin Afortas | Injektionsvätska, lösning | Uppgift saknas (indraget) |
-| 57895 | Amikacin Fresenius Kabi | Infusionsvätska, lösning | Uppgift saknas (indraget) |
-| 59035 | Amikacin Macure | Injektionsvätska, lösning | Uppgift saknas (indraget) |
-| 64876 | Amikacin Orifarm | Injektionsvätska, lösning | Uppgift saknas (indraget) |
+| 9437 | Biklin | Injektionsvätska, lösning | Ej angiven i lokala data |
+| 66673 | Amikacin Afortas | Injektionsvätska, lösning | Ej angiven i lokala data |
+| 57895 | Amikacin Fresenius Kabi | Infusionsvätska, lösning | Ej angiven i lokala data |
+| 59035 | Amikacin Macure | Injektionsvätska, lösning | Ej angiven i lokala data |
+| 64876 | Amikacin Orifarm | Injektionsvätska, lösning | Ej angiven i lokala data |
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-- **Möjliga kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumétext): njursjukdom, pyouretär, hyperkalcemi, nefrokalcinos, fosformetabolismsjukdom, vertigo av centralnervöst ursprung, myasthenia gravis (inklusive vuxendebuterande), sjukdomar i den neuromuskulära synapsen samt parkinsonism/Parkinsons sjukdom.
-- **Läkemedelsinteraktioner**: totalt 212 interaktioner identifierade. De allvarligaste i de redovisade exemplen är:
-  - **Magnesiumsulfat** (allvarlig)
-  - **Mannitol** (allvarlig)
-  - Måttliga interaktioner bland annat med amfotericin B (flera beredningar), kanamycin, neomycin, acetylsalicylsyra, mesalazin, balsalazid, olsalazin, exenatid samt protonpumpshämmare (omeprazol, esomeprazol, lansoprazol, dexlansoprazol, pantoprazol, rabeprazol).
-- **Allmänt**: Aminoglykosider är kända för risk för njurskada och hörsel- och balansskador. Se produktresumén för fullständig säkerhetsinformation, eftersom varningar och kontraindikationer från produktresumén inte ingår i underlaget.
+- **Läkemedelsinteraktioner**: Totalt 212 interaktioner är registrerade. De allvarligaste (nivå Major) gäller **magnesiumsulfat** och **mannitol**. Flera interaktioner av måttlig nivå gäller bland annat amfotericin B, andra aminoglykosider (kanamycin, neomycin), protonpumpshämmare (omeprazol, esomeprazol, lansoprazol, pantoprazol, rabeprazol, dexlansoprazol), acetylsalicylsyra och mesalazin.
+- **Ytterligare försiktighet**: Amikacin är känt för risk för njurtoxicitet och hörseltoxicitet, och aminoglykosider kan påverka nerv–muskelöverföringen. Detta bör vägas in vid sjukdomar som myasthenia gravis, parkinsonism och njursjukdom.
+
+Se produktresumén för fullständig säkerhetsinformation.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Det finns inga kliniska prövningar, och litteraturen består av epidemiologi, resistensstudier och fallrapporter utan klinisk effektdata för amikacin vid paratyfoidfeber. Aminoglykosider tränger dessutom dåligt in i celler, vilket gör att de inte är standardbehandling vid enterisk feber, och alla svenska godkännanden är indragna.
+- Förutsägelsen bygger på en hög modellpoäng, men det finns inga kliniska prövningar och ingen publikation som visar klinisk effekt av amikacin vid paratyfoidfeber. Aminoglykosider är dessutom dåligt lämpade för en intracellulär patogen som Salmonella.
 
 **För att gå vidare krävs:**
-- Kliniska effektdata (helst kontrollerade studier) för amikacin vid paratyfoidfeber, jämfört med nuvarande standardbehandling.
-- Data om verkningsmekanism och läkemedlets penetration till intracellulära infektionsställen.
-- Säkerhetsinformation från produktresumén (varningar och kontraindikationer), särskilt avseende njur- och hörseltoxicitet.
-- En bedömning av marknadsläget i Sverige, eftersom inga godkännanden för närvarande är giltiga.
+- Kliniska data som visar effekt och säkerhet av amikacin vid infektion med *Salmonella paratyphi*, helst kontrollerade studier.
+- Jämförelse med etablerad behandling (t.ex. fluorokinoloner, cefalosporiner av tredje generationen, azitromycin) för att visa ett tillägg i kliniskt värde.
+- Genomgång av produktresumén för säkerhetsinformation, särskilt med avseende på njur- och hörseltoxicitet.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

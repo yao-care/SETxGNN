@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 52
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Balsalazide: predikterad ny indikation Gikt (evidensnivå L5). Ursprunglig indikation: Ulcerös kolit, inflammatorisk tarmsjukdom (enligt kunskapsgrafen"
 monitor_inn: "balsalazide"
 predicted_indications: ["gout", "congenital hypotrichosis with juvenile macular dystrophy", "ankylosing spondylitis", "rheumatoid arthritis", "rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "anus disease"]
+last_modified_at: 2026-10-27
+description: "Balsalazide: predikterad ny indikation Gikt (gout) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Balsalazide
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Balsalazid: Från ulcerös kolit till gikt
+## Balsalazid: 5-ASA-prodrug med lokal antiinflammatorisk effekt → Gikt (gout)
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Balsalazid är en prodrug till 5-aminosalicylsyra (5-ASA) och användes ursprungligen för att behandla ulcerös kolit och inflammatorisk tarmsjukdom. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **gikt**, men det finns **0 kliniska prövningar** och **0 publikationer** som stöder förutsägelsen. Den är därmed enbart en modellförutsägelse.
+Balsalazid är en prodrug till 5-aminosalicylsyra (5-ASA) som verkar antiinflammatoriskt lokalt i tjocktarmen. TxGNN-modellen förutsäger att det kan vara effektivt mot **gikt (gout)**. För denna riktning finns **inga kliniska prövningar** och **ingen publicerad litteratur** i de data som sammanställts för rapporten, så underlaget är enbart en modellförutsägelse.
 
 ---
 
@@ -48,61 +48,55 @@ Balsalazid är en prodrug till 5-aminosalicylsyra (5-ASA) och användes ursprung
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ulcerös kolit, inflammatorisk tarmsjukdom (enligt kunskapsgrafen; godkännandets indikationstext saknas) |
-| Förutsagd ny indikation | Gikt |
-| TxGNN-förutsägelsepoäng | 99,75 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Gikt (gout) |
+| TxGNN-förutsägelsepoäng | 0,9975 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Balsalazid är dock en prodrug av 5-ASA, som verkar antiinflammatoriskt lokalt i tjocktarmen. Dess effekt vid ulcerös kolit är väletablerad.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Balsalazid är dock känt som en prodrug till 5-ASA, som verkar antiinflammatoriskt lokalt i tarmen.
 
-Gikt orsakas av att urinsyrakristaller aktiverar NLRP3-inflammasomen och utlöser en kraftig inflammation i lederna. Ett samband med 5-ASA:s antiinflammatoriska egenskaper är möjligt men **spekulativt**. 5-ASA tas dessutom upp dåligt i blodet, vilket försvagar resonemanget ytterligare, eftersom gikt kräver effekt i lederna och inte i tarmen.
+Gikt orsakas av att urinsyrakristaller aktiverar NLRP3-inflammasomen och utlöser en kraftig inflammatorisk reaktion. Ett samband med 5-ASA:s antiinflammatoriska effekter är tänkbart men spekulativt.
 
-Förutsägelsen bör därför tolkas försiktigt. Den höga poängen visar modellens mönster i kunskapsgrafen, inte biologiskt eller kliniskt belägg.
+Rationalen försvagas ytterligare av att 5-ASA absorberas dåligt systemiskt, vilket gör det osannolikt att tillräckliga nivåer nås i lederna. Förutsägelsen bör därför betraktas som en hypotes och inte som en välgrundad behandlingsidé.
 
-### Övriga förutsägelser
+---
 
-De närmast följande förutsägelserna har likartade poäng (99,4–99,7 %) och likaså enbart evidensnivå L5. Några har ett något tydligare biologiskt samband med tarm–led-axeln:
+## Kliniska prövningar
 
-| Förutsagd indikation | Poäng | Bedömning |
-|------|------|------|
-| Ankyloserande spondylit | 99,71 % | Forskningsfråga: delad IBD–spondyloartrit-axel, men aminosalicylater har begränsad effekt vid axial sjukdom |
-| Reumatoid artrit | 99,64 % | Forskningsfråga: sulfasalazin är etablerat, men effekten tillskrivs sulfapyridin, som balsalazid saknar |
-| Inflammatorisk spondylopati | 99,53 % | Forskningsfråga: överlappar med spondyloartropatier, indirekt stöd |
-| Polyartikulär juvenil reumatoid artrit | 99,43 % | Forskningsfråga: indirekt stöd via sulfasalazin, pediatriska data saknas |
-| Analsjukdom | 99,41 % | Forskningsfråga: icke-specifik term, måste preciseras (t.ex. proktit) |
-| Reumatoid vaskulit, kongenital hypotrikos med juvenil makuladystrofi, hypermobilitet i svansbenet, Kümmells sjukdom | 99,2–99,7 % | Avvakta: ingen rimlig mekanism |
+Inga relaterade kliniska prövningar registrerade för närvarande.
+
+---
+
+## Litteraturbevis
+
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 14325 | Colazid (Almirall S.A.) | Kapsel, hård | Indraget |
+| 14325 | Colazid | Kapsel, hård | Indikationstext saknas i lokala data |
 
-Det finns inga giltiga godkännanden i Sverige för närvarande.
+Det finns 1 registrerat godkännande, och marknadsstatus enligt lokala data är "På marknaden".
 
 ---
 
 ## Säkerhetsaspekter
 
-- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumén): njursjukdom, pyouréter (var i urinledaren), pylorusstenos.
-- **Läkemedelsinteraktioner**: totalt 196 interaktioner identifierade. De viktigaste i urvalet:
-  - **Allvarlig (Major)**: humant immunglobulin G (intravenöst)
-  - **Måttlig (Moderate)**, bland annat:
-    - NSAID-preparat: ketorolak, ibuprofen, celecoxib
-    - Njurpåverkande läkemedel: amfotericin B (inklusive lipidkomplex och kolesterylsulfat), foskarnet, aciklovir, gallium nitrat
-    - Antibiotika: amikacin (inklusive liposomal form), amoxicillin, ampicillin, azitromycin, doxycyklin, bacitracin, fosfomycin
-    - Övriga: azatioprin, acetohexamid
+**Läkemedelsinteraktioner:** Sammanlagt 196 interaktioner har identifierats. Bland de som listas finns en av allvarlig grad (Major) och övriga av måttlig grad (Moderate):
+- **Allvarlig:** humant immunglobulin G (intravenöst)
+- **Måttlig, urval:** azatioprin, doxycyklin, ibuprofen, ketorolak, celecoxib, aciklovir, amfotericin B, amikacin, amoxicillin, ampicillin, azitromycin
 
-Eftersom informationen från produktresumén saknas bör man även se produktresumén för fullständiga varningar och försiktighetsåtgärder.
+Se i övrigt produktresumén för varningar och kontraindikationer.
 
 ---
 
@@ -111,14 +105,13 @@ Eftersom informationen från produktresumén saknas bör man även se produktres
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för gikt bygger enbart på en modellpoäng utan kliniska prövningar eller publikationer, och den biologiska rimligheten är låg, bland annat på grund av 5-ASA:s dåliga upptag i blodet. Dessutom är läkemedlets enda svenska godkännande indraget.
+- Förutsägelsen för gikt bygger enbart på modellens poäng (0,9975), utan stödjande prövningar eller publikationer. Den biologiska rationalen är svag, bland annat eftersom 5-ASA absorberas dåligt systemiskt.
 
 **För att gå vidare krävs:**
-- En systematisk litteratursökning om aminosalicylater vid gikt, och i första hand vid ankyloserande spondylit, reumatoid artrit och inflammatorisk spondylopati, där tarm–led-sambandet är starkare.
-- Uppgifter om verkningsmekanism från DrugBank.
-- Varningar och kontraindikationer från produktresumén.
-- Prekliniska data om balsalazid eller 5-ASA och NLRP3-inflammasomen.
-- Klargörande av marknadsläget, eftersom godkännandet är indraget och beredningsformen är avsedd för lokal effekt i tarmen.
+- En systematisk litteratursökning om aminosalicylater och gikt eller kristallinducerad inflammation
+- Prekliniska data som visar effekt på NLRP3-inflammasomen eller urinsyrarelaterad inflammation
+- Information om verkningsmekanismen och systemisk exponering för balsalazid
+- Produktresumé med varningar och kontraindikationer för säkerhetsbedömning
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

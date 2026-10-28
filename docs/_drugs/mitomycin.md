@@ -6,9 +6,9 @@ nav_order: 300
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Mitomycin: predikterad ny indikation Osteoklastisk jättecellstumör i pankreas (evidensnivå L5). Ursprunglig indikation: Pankreasadenokarcinom (enligt kunskapsgrafen"
 monitor_inn: "MITOMYCIN"
 predicted_indications: ["osteoclastic giant cell tumor of pancreas", "solid pseudopapillary carcinoma of pancreas", "pancreatic carcinoma with mixed differentiation", "pancreatic intraductal papillary-mucinous carcinoma", "mixed ductal-endocrine carcinoma of pancreas", "pancreatic signet ring cell adenocarcinoma", "undifferentiated pancreatic carcinoma", "malignant exocrine pancreas neoplasm", "pancreatic intraductal papillary-mucinous neoplasm", "pancreatic acinar cell cystadenocarcinoma"]
+description: "Mitomycin: predikterad ny indikation Osteoclastic giant cell tumor of pancreas (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Mitomycin
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Mitomycin: Från pankreasadenokarcinom till osteoklastisk jättecellstumör i pankreas
+## Mitomycin: Osteoclastic giant cell tumor of pancreas
 {: .text-alpha }
 
 ---
@@ -48,23 +48,23 @@ Mitomycin är ett cytostatikum som i den data som sammanställts för denna rapp
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Pankreasadenokarcinom (enligt kunskapsgrafen; godkännandena i Sverige saknar indikationstext) |
-| Förutsagd ny indikation | Osteoklastisk jättecellstumör i pankreas |
-| TxGNN-förutsägelsepoäng | 99,86 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Osteoclastic giant cell tumor of pancreas |
+| TxGNN-förutsägelsepoäng | 0.9986 |
 | Evidensnivå | L5 (endast modellförutsägelse, inga studier) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 3 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts. Baserat på känd information är mitomycin ett cytostatikum som verkar genom att tvärbinda DNA, och dess effekt vid pankreasadenokarcinom är den indikation som kunskapsgrafen kopplar till läkemedlet. Mekanistiskt kan det därför vara tillämpbart på en närbesläktad tumörtyp.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts. Mekanistiskt kan det därför vara tillämpbart på en närbesläktad tumörtyp.
 
 Osteoklastisk jättecellstumör i pankreas är en sällsynt histologisk variant av duktalt pankreasadenokarcinom. Eftersom tumören delar ursprung med den ursprungliga indikationen är ett gemensamt cytotoxiskt angreppssätt rimligt. Det finns dock inga studier eller publikationer som styrker kopplingen.
 
-Flera andra förutsagda indikationer ligger nära varandra i poäng (99,8–99,9 %) och är i huvudsak varianter av pankreascancer. De flesta saknar också helt kliniskt underlag.
+De flesta saknar också helt kliniskt underlag.
 
 ---
 
@@ -91,7 +91,6 @@ Ingen godkänd indikationstext finns registrerad för dessa godkännanden.
 | Post | Innehåll |
 |------|------|
 | Cytotoxicitetsklassificering | Konventionell cytotoxisk (DNA-tvärbindande alkylerande antibiotikum) |
-| Myelosuppressionsrisk | Hög. Kunskapsgrafen kopplar läkemedlet till trombocytopeni, leukopeni och anemi. |
 | Emetogenicitetsklassificering | Se produktresumén |
 | Övervakningspunkter | Blodstatus (trombocyter, leukocyter, hemoglobin), njurfunktion, tecken på hemolytiskt uremiskt syndrom |
 | Hanteringsskydd | Hantera enligt gällande föreskrifter för cytotoxiska läkemedel. Se produktresumén för detaljer. |

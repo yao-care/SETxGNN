@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Vinblastine
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 450
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Vinblastine: predikterad ny indikation Rabdomyosarkom (evidensnivå L5). Ursprunglig indikation: Mycosis fungoides, primärt kutant T-cellslymfom, Hodgkins lymfom…"
 monitor_inn: "vinblastine"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
+description: "Vinblastine: predikterad ny indikation Rhabdomyosarcoma (disease) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Vinblastine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Vinblastin: Från mycosis fungoides och Hodgkins lymfom till rabdomyosarkom
+## Vinblastine: Rhabdomyosarcoma (disease)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Vinblastin (Velbe) är en vinkaalkaloid som ursprungligen användes mot flera ly
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Mycosis fungoides, primärt kutant T-cellslymfom, Hodgkins lymfom, non-Hodgkin-lymfom, mantelcellslymfom och Langerhanscellshistiocytos (enligt kunskapsgrafen; indikationstext saknas i det svenska godkännandet) |
-| Förutsagd ny indikation | Rabdomyosarkom |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Rhabdomyosarcoma (disease) |
+| TxGNN-förutsägelsepoäng | 0.9986 |
 | Evidensnivå | L3 (fallrapporter, små pilotstudier och översikter; inga kliniska prövningar) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---

@@ -4,17 +4,17 @@ title: Paliperidone
 parent: Endast modellprediktion (L5)
 nav_order: 335
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Paliperidone: predikterad ny indikation Retinal dystrofi med eller utan extraokulära avvikelser (evidensnivå L5). Ursprunglig indikation: Schizofreni och andra psykotiska sjukdomar (enligt kunskapsgr…"
 monitor_inn: "paliperidone"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
+description: "Paliperidone: predikterad ny indikation Retinal dystrofi med eller utan extraokulära avvikelser (retinal dystrophy with or without extraocular anomalies) (evidensnivå L5). Ursprunglig indikation: Int…"
 ---
 
 # Paliperidone
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Paliperidon: Från schizofreni till retinal dystrofi (med eller utan extraokulära avvikelser)
+## Paliperidone: Retinal dystrofi med eller utan extraokulära avvikelser (retinal dystrophy with or without extraocular anomalies)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Paliperidon är ett antipsykotiskt läkemedel som ursprungligen används vid schizofreni och närliggande psykotiska sjukdomar. TxGNN-modellen förutsäger att det kan vara effektivt mot **retinal dystrofi med eller utan extraokulära avvikelser**, med en mycket hög modellpoäng (99,9 %). Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, så den vilar enbart på modellen.
+Paliperidon är ett antipsykotiskt läkemedel som ursprungligen används vid schizofreni och närliggande psykotiska sjukdomar. TxGNN-modellen förutsäger att det kan vara effektivt mot **retinal dystrofi med eller utan extraokulära avvikelser**, med en mycket hög modellpoäng (0,9990). Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, så den vilar enbart på modellen.
 
 ---
 
@@ -48,11 +48,11 @@ Paliperidon är ett antipsykotiskt läkemedel som ursprungligen används vid sch
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Schizofreni och andra psykotiska sjukdomar (enligt kunskapsgrafen; indikationstext saknas i godkännandena) |
-| Förutsagd ny indikation | Retinal dystrofi med eller utan extraokulära avvikelser |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Retinal dystrofi med eller utan extraokulära avvikelser (retinal dystrophy with or without extraocular anomalies) |
+| TxGNN-förutsägelsepoäng | 0.9992 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -62,7 +62,7 @@ Paliperidon är ett antipsykotiskt läkemedel som ursprungligen används vid sch
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är paliperidon en dopamin D2- och serotonin 5-HT2A-antagonist, och dess effekt vid schizofreni är väletablerad.
 
-Något känt samband mellan denna mekanism och ärftlig retinal dystrofi finns inte. Den höga poängen speglar sannolikt mönster i kunskapsgrafen, till exempel gemensamma grannar, och inte en biologisk förklaring. Dopaminsignalering förekommer i näthinnan, men det är inte visat att D2-blockad påverkar sjukdomsförloppet vid en ärftlig näthinnedystrofi.
+Något känt samband mellan denna mekanism och ärftlig retinal dystrofi finns inte. Dopaminsignalering förekommer i näthinnan, men det är inte visat att D2-blockad påverkar sjukdomsförloppet vid en ärftlig näthinnedystrofi.
 
 Mekanistiskt är förutsägelsen alltså svag och bör ses som en hypotes att granska, inte som ett underlag för behandling.
 
@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är avregistrerade och inget är giltigt. De fem första visas nedan.
+De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tacrolimus
-parent: Endast modellprediktion (L5)
+parent: Hög evidens (L1-L2)
 nav_order: 408
-evidence_level: L5
-indication_count: 3
+evidence_level: L1
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Tacrolimus: predikterad ny indikation Seborroisk dermatit (evidensnivå L5). Ursprunglig indikation: Atopiskt eksem (atopisk dermatit). Godkända indikationstexter saknas…"
 monitor_inn: "tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
+description: "Tacrolimus: predikterad ny indikation Seborrheic dermatitis (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Tacrolimus
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **3** st
+Evidensnivå: **L1** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Takrolimus: Från atopiskt eksem till seborroisk dermatit
+## Tacrolimus: Seborrheic dermatitis
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Takrolimus är en kalcineurinhämmare som ursprungligen användes vid behandling av atopiskt eksem (atopisk dermatit). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **seborroisk dermatit**, med **2 kliniska prövningar** (varav en avslutad fas 3-studie) och **20 publikationer** som för närvarande stöder denna riktning. Observera att inga av de svenska godkännandena är giltiga i dagsläget.
+Takrolimus är en kalcineurinhämmare som ursprungligen användes vid behandling av atopiskt eksem (atopisk dermatit). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **seborroisk dermatit**, med **2 kliniska prövningar** (varav en avslutad fas 3-studie) och **20 publikationer** som för närvarande stöder denna riktning.
 
 ---
 
@@ -48,11 +48,11 @@ Takrolimus är en kalcineurinhämmare som ursprungligen användes vid behandling
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Atopiskt eksem (atopisk dermatit). Godkända indikationstexter saknas i de svenska godkännandena, så uppgiften kommer från kunskapsgrafen |
-| Förutsagd ny indikation | Seborroisk dermatit |
-| TxGNN-förutsägelsepoäng | 99,3 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Seborrheic dermatitis |
+| TxGNN-förutsägelsepoäng | 0.9926 |
 | Evidensnivå | L1 (enligt den sammanställda bedömningen). Se anmärkning under Slutsats |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (0 giltiga, 20 indragna) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
@@ -145,7 +145,6 @@ Takrolimus är ett immunsuppressivt läkemedel och inte ett antineoplastiskt lä
 
 ---
 
-*Övriga förutsägelser i underlaget: för **dermatit** (poäng 99,2 %) består evidensen huvudsakligen av studier på atopiskt eksem, alltså den ursprungliga indikationen, så det är mer en bekräftelse än en ny indikation. För **parapsoriasis** (poäng 99,2 %) finns endast två fallrapporter om pityriasis lichenoides (evidensnivå L4, rekommendation Avvakta).*
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -8,6 +8,7 @@ nav_order: 80
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-05-04
+predicted_indications: []
 ---
 
 # Levosimendan
@@ -51,8 +52,8 @@ and two blocking data gaps — missing package-insert warnings and missing mecha
 | Predicted New Indication | No predictions available in this Evidence Pack |
 | TxGNN Prediction Score | — |
 | Evidence Level | — (cannot be determined) |
-| Sweden Market Status | Not marketed (0 authorisations) |
-| Number of Authorisations | 0 |
+| Sweden Market Status | Marknadsförd (giltiga godkännanden: 10 av 10) |
+| Number of Authorisations | 10 (giltiga: 10) |
 | Recommended Decision | **Hold** |
 
 ---

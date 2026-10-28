@@ -6,9 +6,9 @@ nav_order: 402
 evidence_level: L2
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Sucralfate: predikterad ny indikation Duodenogastrisk reflux (evidensnivå L2). Ursprunglig indikation: Duodenalsår (enligt kunskapsgrafen"
 monitor_inn: "sucralfate"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
+description: "Sucralfate: predikterad ny indikation Duodenogastric reflux (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Sucralfate
@@ -33,7 +33,7 @@ Evidensnivå: **L2** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Sukralfat: Från duodenalsår till duodenogastrisk reflux
+## Sucralfate: Duodenogastric reflux
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Sukralfat (Peptonorm, Andapsin) användes ursprungligen för att behandla **duod
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Duodenalsår (enligt kunskapsgrafen; ingen indikationstext finns i de svenska godkännandena) |
-| Förutsagd ny indikation | Duodenogastrisk reflux |
-| TxGNN-förutsägelsepoäng | 99,4 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Duodenogastric reflux |
+| TxGNN-förutsägelsepoäng | 0.9937 |
 | Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 4 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---

@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 264
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Lidocaine: predikterad ny indikation Punktformad epitelial keratokonjunktivit (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. Enligt kunska…"
 monitor_inn: "lidocaine"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
+last_modified_at: 2026-10-23
+description: "Lidocaine: predikterad ny indikation Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Lidocaine
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Lidokain: Från dermatit och neuralgi till punktformad epitelial keratokonjunktivit
+## Lidocaine: Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Lidokain är ett lokalbedövningsmedel som enligt kunskapsgrafen ursprungligen kopplas till bland annat dermatit, neuralgi, postherpetisk neuralgi, hemorrojder och klåda orsakad av skabb eller löss. TxGNN-modellen förutsäger att det kan vara effektivt mot **punktformad epitelial keratokonjunktivit** (poäng 99,99 %), men för denna diagnos finns **inga kliniska prövningar och ingen publicerad litteratur**. Förutsägelsen är därför enbart en modellberäkning (evidensnivå L5).
+Lidokain är ett lokalbedövningsmedel som blockerar natriumkanaler. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **punktformad epitelial keratokonjunktivit**, men för denna sjukdom finns **inga kliniska prövningar** och **ingen publicerad litteratur** i de data som sammanställts för rapporten. Förutsägelsen är därför enbart en modellprognos (evidensnivå L5).
 
 ---
 
@@ -48,84 +48,62 @@ Lidokain är ett lokalbedövningsmedel som enligt kunskapsgrafen ursprungligen k
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: dermatit, neuralgi, postherpetisk neuralgi, hemorrojder, skabb m.fl. |
-| Förutsagd ny indikation | Punktformad epitelial keratokonjunktivit |
-| TxGNN-förutsägelsepoäng | 99,99 % |
-| Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 20 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis) |
+| TxGNN-förutsägelsepoäng | 0.9999 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Antal godkännanden | Minst 20 godkännanden (listan kan vara ofullständig) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Lidokain är allmänt känt som en natriumkanalblockerare med lokalbedövande effekt. Den kan mekanistiskt dämpa nervsignaler från ögats yta och därmed lindra smärta.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts. Det som är allmänt känt är att lidokain blockerar spänningsstyrda natriumkanaler och därmed hämmar nervsignaler, vilket ger lokalbedövning. Effekten är väletablerad vid ytlig och lokal smärtlindring.
 
-Sambandet med de ursprungliga indikationerna är symtomlindring: lidokain används vid nervsmärta och kliande eller smärtande hudtillstånd. Punktformad epitelial keratokonjunktivit ger ögonirritation, så en lindrande effekt är tänkbar.
+Det är sannolikt förklaringen till den höga poängen, snarare än en verklig terapeutisk koppling.
 
-Det finns dock tungt vägande invändningar. Långvarig användning av lokalbedövning på ögats yta är känd för att skada hornhinnans epitel, och bedövning angriper inte själva sjukdomsorsaken. Den höga poängen är en förutsägelse och inget bevis. Ett terapeutiskt värde är tveksamt.
+Mekanistiskt är tillämpbarheten svag. Lokalbedövning kan lindra symtom på ögonytan, men den behandlar inte sjukdomsorsaken. Dessutom kan lokalanestetika vara toxiska för hornhinnans epitel, vilket talar emot användning vid epitelial keratopati. Förutsägelsen bör därför ses som en hypotes med oklar nytta och en tydlig säkerhetsoro.
 
 ---
 
 ### Kliniska prövningar
 
-Inga relaterade kliniska prövningar registrerade för närvarande för den högst rankade förutsägelsen.
-
-Som jämförelse finns prövningar för den närliggande förutsägelsen *konjunktivala sjukdomar* (rang 6). De gäller bedövning vid kirurgi, inte behandling av sjukdom:
-
-| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
-|---------|------|------|------|---------|
-| [NCT05978687](https://clinicaltrials.gov/study/NCT05978687) | Fas 4 | Avslutad | 41 | Lidokaingel jämfört med subkonjunktival injektion vid operation av pterygium; testar bedövning vid ingrepp, inte sjukdomsbehandling |
-| [NCT01350024](https://clinicaltrials.gov/study/NCT01350024) | Ej fasindelad | Avslutad | 34 | Jämförelse av två typer av lokalbedövning och smärta efter ögonlocksoperation; endast löst relaterad |
+Inga relaterade kliniska prövningar registrerade för närvarande för punktformad epitelial keratokonjunktivit.
 
 ---
 
 ### Litteraturbevis
 
-Ingen relaterad litteratur tillgänglig för närvarande för den högst rankade förutsägelsen.
-
-Den närliggande förutsägelsen *konjunktivala sjukdomar* har följande utvalda litteratur:
-
-| PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|-----|------|------|---------|
-| [18989343](https://pubmed.ncbi.nlm.nih.gov/18989343/) | 2009 | RCT | Eye | Lidokain 2 % gel jämfört med tetrakaindroppar som enda bedövning vid pterygiumkirurgi |
-| [29135709](https://pubmed.ncbi.nlm.nih.gov/29135709/) | 2018 | Pilotstudie | Cornea | Lidokaingel 2 % och 5 % jämfört med subkonjunktival injektion vid pterygiumkirurgi |
-| [15799734](https://pubmed.ncbi.nlm.nih.gov/15799734/) | 2005 | Klinisk studie | Acta Ophthalmologica Scandinavica | Undersöker om lidokain 2 % gel är ett effektivt topikalt bedövningsmedel vid pterygiumkirurgi |
-| [16954710](https://pubmed.ncbi.nlm.nih.gov/16954710/) | 2006 | Klinisk studie | Ophthalmologica | Smärtlindring efter pterygiumkirurgi med viskös lidokain |
-| [33361408](https://pubmed.ncbi.nlm.nih.gov/33361408/) | 2021 | Öppen prospektiv studie med meta-analys | J Neurol Neurosurg Psychiatry | Medicinsk behandling av SUNCT/SUNA (huvudvärkssyndrom); gäller inte ögonsjukdom |
-| [23330822](https://pubmed.ncbi.nlm.nih.gov/23330822/) | 2013 | Klinisk studie | Current Eye Research | Effekt av olika bedövningsmedel vid ögonsmärta efter intravitreal injektion |
-| [19250287](https://pubmed.ncbi.nlm.nih.gov/19250287/) | 2009 | Översikt | Cephalalgia | Neuropsykiatriska biverkningar av lidokain vid behandling av huvudvärk |
-
-Merparten av litteraturen rör alltså bedövning vid ingrepp eller huvudvärkssyndromet SUNCT/SUNA, där bindhinnerodnad bara är ett symtom. Den utgör inte evidens för behandling av en konjunktival sjukdom.
+Ingen relaterad litteratur tillgänglig för närvarande för punktformad epitelial keratokonjunktivit.
 
 ---
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna och inget är giltigt. Indikationstext saknas i underlaget. De fem första är:
+Läkemedlet är på marknaden i Sverige. Nedan visas 5 av minst 20 godkännanden; listan kan vara ofullständig. Alla godkännanden avser läkemedel med lidokain som enda aktiva substans, men ingen godkänd indikationstext finns angiven i de data som sammanställts.
 
-| Godkännandenummer | Produktnamn | Beredningsform |
-|---------|------|------|
-| 11258 | Xylocain | Kutan spray, lösning |
-| 55095 | Versatis | Medicinskt plåster |
-| 68730 | Versatis | Medicinskt plåster |
-| 3601 | Xylocain | Salva |
-| 51119 | Versatis | Medicinskt plåster |
-
-Inget av godkännandena avser en beredning för ögat.
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
+|---------|------|------|-----------|
+| 11258 | Xylocain | Kutan spray, lösning | Uppgift saknas |
+| 55095 | Versatis | Medicinskt plåster | Uppgift saknas |
+| 3601 | Xylocain | Salva | Uppgift saknas |
+| 21239 | Lidokain Isdin | Kräm | Uppgift saknas |
+| 63783 | Lidokain GALENpharma | Rektalsalva | Uppgift saknas |
 
 ---
 
 ### Säkerhetsaspekter
 
-- **Kontraindikationer enligt kunskapsgrafen** (inte etikettext): bland annat hypertoni, leversvikt, levercirros, njursjukdom, epilepsi, binjurebarksinsufficiens/Addisons sjukdom, hypotyreos, öppenvinkelglaukom, herpes simplex-keratit, vattkoppor/bältros, psykotiska sjukdomar, osteoporos, svampinfektioner och gastrit.
-- **Läkemedelsinteraktioner**: 534 interaktioner är registrerade. De viktigaste i listan:
-  - **Allvarlig:** bupropion.
-  - **Måttliga:** aprepitant, cimetidin, liposomalt morfin, obetikolsyra, polyetylenglykol (3350 med elektrolyter), pikosulfat och natriumsulfat.
-  - **Lindriga:** bl.a. dexametason, kanamycin, neomycin, omeprazol, streptomycin och troglitazon.
-- **Observerade säkerhetssignaler i litteraturen**: neuropsykiatriska och kardiella biverkningar (PMID 19250287), samt ett fall av metemoglobinemi hos ett barn som samtidigt behandlades med lidokain och benzokain topikalt och ko-trimoxazol (PMID 41995267).
-- Produktresumé med varningar och kontraindikationer saknas i det sammanställda underlaget. Se produktresumén för fullständig säkerhetsinformation.
+- **Läkemedelsinteraktioner**: Totalt 534 interaktioner är registrerade. Bland de viktigaste:
+  - Större (Major): bupropion
+  - Måttliga (Moderate): aprepitant, cimetidin, liposomal morfin, obetikolsyra, polyetylenglykol (3350 med elektrolyter), pikosulfat och natriumsulfat
+  - Mindre (Minor): dexametason, kanamycin, neomycin, omeprazol, streptomycin och troglitazon
+- **Relationer i kunskapsgrafen (inte produkttext)**: Kunskapsgrafen kopplar lidokain till bland annat hypertoni, leversvikt, epilepsi, njursjukdom, levercirros, Addisons sjukdom, hypotyreos, öppenvinkelglaukom och psykotiska sjukdomar. Dessa relationer är inte hämtade från produktresumén och måste verifieras mot den.
+- **Förutsägelsespecifika risker**: Upprepad användning av lokalanestetika på ögat är en känd orsak till hornhinneskador (keratopati), vilket är direkt relevant för den förutsagda sjukdomen.
+
+Se produktresumén för fullständig säkerhetsinformation, då uppgifter om varningar och kontraindikationer saknas i de sammanställda data.
 
 ---
 
@@ -134,14 +112,14 @@ Inget av godkännandena avser en beredning för ögat.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för punktformad epitelial keratokonjunktivit stöds av varken kliniska prövningar eller litteratur, och lokalbedövning på ögats yta kan skada hornhinnan. Alla svenska godkännanden är dessutom indragna.
+- Förutsägelsen bygger enbart på en modellpoäng utan någon klinisk prövning eller publikation som studerar sjukdomen, och den mekanistiska kopplingen är svag. Risken för toxisk effekt på hornhinnans epitel gör dessutom riskbilden ogynnsam.
 
 **För att gå vidare krävs:**
-- Hämta och granska produktresumén (varningar och kontraindikationer), vilket för närvarande är ett blockerande datagap.
-- Komplettera verkningsmekanismdata från DrugBank.
-- Prekliniska eller kliniska data som visar nytta och säkerhet vid keratokonjunktivit, särskilt med avseende på hornhinnans epitel.
-- Utvärdera en ögonanpassad beredningsform, eftersom inga befintliga godkännanden avser ögat.
-- Om riktningen ska studeras vidare är *atopisk konjunktivit* (rang 5, evidensnivå L4, preklinisk mekanistisk evidens) ett mer underbyggt spår, men även där saknas kliniska prövningar.
+- Systematisk litteratursökning efter data om lidokain vid punktformad epitelial keratokonjunktivit
+- Prekliniska studier av lidokains effekt och toxicitet på hornhinnans epitel
+- Hämtning och genomgång av produktresumén (varningar, kontraindikationer) från Läkemedelsverket
+- Verkningsmekanismdata från DrugBank för att kunna göra en mer ingående mekanistisk analys
+- Utvärdering av om en ögonanpassad beredningsform skulle kunna vara aktuell, eftersom inga av de nuvarande svenska godkännandena är ögonberedningar
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

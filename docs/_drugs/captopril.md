@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Captopril
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 81
-evidence_level: L4
-indication_count: 4
-last_modified_at: 2026-10-15
-description: "Captopril: predikterad ny indikation Malign renovaskulär hypertoni (evidensnivå L4). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. Enligt kunska…"
+evidence_level: L5
+indication_count: 3
 monitor_inn: "captopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
+last_modified_at: 2026-10-27
+description: "Captopril: predikterad ny indikation Malign hypertensiv njursjukdom (malignant hypertensive renal disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Captopril
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **4** st
+Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,111 +33,89 @@ Evidensnivå: **L4** | Förutsagda indikationer: **4** st
 
 </div>
 
-## Kaptopril: Från hypertoni och diabetesnefropati till malign renovaskulär hypertoni
+## Captopril: ACE-hämmare → Malign hypertensiv njursjukdom (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ---
 
-### Sammanfattning
+## Sammanfattning
 
-Kaptopril är en ACE-hämmare som ursprungligen användes för att behandla högt blodtryck (hypertoni) och njursjukdom vid diabetes (diabetesnefropati). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **malign renovaskulär hypertoni**, men **inga kliniska prövningar** finns registrerade och de **20 publikationerna** är nästan uteslutande översikter, fallrapporter och diagnostiska artiklar. Förutsägelsen ligger nära kaptoprils redan etablerade användning och är därför inte någon egentlig ny indikation.
+Captopril är en ACE-hämmare som påverkar renin-angiotensinsystemet. TxGNN-modellen förutsäger att captopril kan vara effektivt mot **malign hypertensiv njursjukdom (malignant hypertensive renal disease)**. Det finns dock **inga kliniska prövningar** och bara **1 publikation**, ett diagnostiskt fallrapport som inte visar någon behandlingseffekt. Förutsägelsen bygger därför i praktiken enbart på modellen.
 
 ---
 
-### Snabböversikt
+## Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: hypertoni och diabetesnefropati |
-| Förutsagd ny indikation | Malign renovaskulär hypertoni |
-| TxGNN-förutsägelsepoäng | 99,3 % |
-| Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Malign hypertensiv njursjukdom (malignant hypertensive renal disease) |
+| TxGNN-förutsägelsepoäng | 0,9928 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-### Varför är denna förutsägelse rimlig?
+## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för rapporten. Baserat på känd information är kaptopril en ACE-hämmare (angiotensinkonvertashämmare). Läkemedlets effekt vid hypertoni är väl belagd, och mekanistiskt kan det vara tillämpbart på malign renovaskulär hypertoni.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Captopril tillhör klassen ACE-hämmare, som minskar bildningen av angiotensin II. Blockad av renin-angiotensinsystemet är biologiskt rimlig vid blodtrycksrelaterad njurskada, eftersom detta system bidrar till högt tryck i njurens kärl och till njurvävnadens skada.
 
-Renovaskulär hypertoni uppstår när nedsatt blodflöde till njuren aktiverar renin-angiotensinsystemet (RAS). Eftersom kaptopril hämmar bildandet av angiotensin II finns en tydlig biologisk koppling. Kaptopril används dessutom diagnostiskt, i så kallad kaptoprilrenografi, för att upptäcka renovaskulär sjukdom.
-
-Det är dock viktigt att se att detta ligger inom kaptoprils redan etablerade blodtryckssänkande användning. Det handlar alltså inte om en verklig ny användning. Det finns heller inga kontrollerade studier som visar effekt specifikt vid den maligna formen. ACE-hämmare kan dessutom orsaka akut njursvikt vid dubbelsidig njurartärstenos.
+Den enda publikation som hittats (PMID 28902735) handlar om captopril-renografi. Det är en diagnostisk metod som visar om högt blodtryck är reninberoende. Fallet gäller en patient med njurcellscancer och beskriver ingen behandling av hypertensiv njursjukdom. Publikationen ger därför inget stöd för behandlingsnytta, och den höga modellpoängen är en förutsägelse och inte ett bevis.
 
 ---
 
-### Kliniska prövningar
+## Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-### Litteraturbevis
-
-Underlaget består mest av översikter, fallrapporter och diagnostiska artiklar. Inga randomiserade studier har identifierats. Nedan visas de mest relevanta publikationerna.
+## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [6145432](https://pubmed.ncbi.nlm.nih.gov/6145432/) | 1984 | Klinisk rapport | Biulleten' Vsesoiuznogo kardiologicheskogo nauchnogo tsentra AMN SSSR | Användning av kaptopril vid stabil och malign hypertoni (sammanfattning saknas) |
-| [232024](https://pubmed.ncbi.nlm.nih.gov/232024/) | 1979 | Klinisk studie | Clinical Science | Reninökning vid ACE-hämning identifierade renovaskulär hypertoni hos 43 av 44 obehandlade patienter |
-| [8070421](https://pubmed.ncbi.nlm.nih.gov/8070421/) | 1994 | Översikt | Endocrinology and Metabolism Clinics of North America | Reninproducerande tumörer ger svår hypertoni; blodtrycket sjunker vid behandling med ACE-hämmare |
-| [10955932](https://pubmed.ncbi.nlm.nih.gov/10955932/) | 2000 | Fallserie | Pediatric Nephrology | Renovaskulär sjukdom och hypertoni hos 27 barn med neurofibromatos; kaptoprilttest användes i utredningen |
-| [3326101](https://pubmed.ncbi.nlm.nih.gov/3326101/) | 1987 | Klinisk rapport | Journal of UOEH | Effekt av kaptopril vid svårbehandlad hypertoni hos barn |
-| [7955304](https://pubmed.ncbi.nlm.nih.gov/7955304/) | 1994 | Översikt | Cleveland Clinic Journal of Medicine | Icke-invasiv screening för renovaskulär sjukdom; ungefär 1 % av hypertonikerna har renovaskulär hypertoni |
-| [11334320](https://pubmed.ncbi.nlm.nih.gov/11334320/) | 2001 | Fallrapport och översikt | Clinical Nephrology | Två fall av renovaskulär hypertoni vid neurofibromatos; reninsvar efter kaptopril |
-| [1572120](https://pubmed.ncbi.nlm.nih.gov/1572120/) | 1992 | Fallrapport | Clinical Nuclear Medicine | Falskt positiv kaptoprilrenografi hos patient med malign hypertoni utan njurartärstenos |
-| [24401674](https://pubmed.ncbi.nlm.nih.gov/24401674/) | 2014 | Fallrapport | American Journal of Nephrology | Reninom (reninproducerande tumör) ger svår hypertoni och låg kaliumhalt; renal venrenin-kvot underlättar diagnos |
-| [10477101](https://pubmed.ncbi.nlm.nih.gov/10477101/) | 1999 | Fallrapport | European Journal of Radiology | Negativ kaptoprilrenografi vid reninmedierad hypertoni orsakad av Page-njure och reninom |
+| [28902735](https://pubmed.ncbi.nlm.nih.gov/28902735/) | 2017 | Fallrapport (diagnostisk) | Clinical Nuclear Medicine | Positiv captopril-renografi hos en patient utan njurartärstenos men med stor kromofob njurcellscancer. Det reninberoende högt blodtrycket lindrades efter nefrektomi. Rapporten är diagnostisk och visar ingen terapeutisk effekt av captopril. |
 
 ---
 
-### Marknadsinformation Sverige
+## Marknadsinformation Sverige
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 12226 | Captopril Viatris | Tablett | Ingen indikationstext tillgänglig (indragen) |
-| 12227 | Captopril Viatris | Tablett | Ingen indikationstext tillgänglig (indragen) |
+| 12226 | Captopril Viatris | Tablett | Inte angiven i lokala data |
+| 12227 | Captopril Viatris | Tablett | Inte angiven i lokala data |
+
+Båda produkterna innehåller enbart captopril och tillverkas av Viatris Limited.
 
 ---
 
-### Säkerhetsaspekter
+## Säkerhetsaspekter
 
-- **Kontraindikationer och tillstånd som kräver försiktighet (från kunskapsgrafen, inte från produktresumé):** Kunskapsgrafen kopplar kaptopril till bland annat följande tillstånd:
-  - angioödem, inklusive ärftligt angioödem och angioödem orsakat av RAAS-hämmare
-  - njursjukdom och leversjukdom, inklusive leverencefalopati
-  - pankreatit och gallblåsesjukdom
-  - neutropeni och agranulocytos
-  - aortastenos och lågt blodtryck
-  - systemisk lupus erytematosus och bindvävssjukdom
-  - kaliumbrist, diabetes och diabetisk ketoacidos
-  - hyperparatyreoidism och bensjukdom
-- **Läkemedelsinteraktioner:** Totalt 245 interaktioner är registrerade. Exempel på måttliga interaktioner är:
+- **Läkemedelsinteraktioner**: Sammanlagt 245 interaktioner är registrerade. Bland de vanligaste av måttlig svårighetsgrad finns:
   - kortikosteroider (hydrokortison, dexametason, betametason, budesonid, triamcinolon)
-  - blodsockersänkande läkemedel (metformin, alogliptin, kanagliflozin, dapagliflozin, empagliflozin, ertugliflozin, exenatid, acetohexamid, klorpropamid)
+  - diabetesläkemedel (metformin, alogliptin, kanagliflozin, dapagliflozin, empagliflozin, ertugliflozin, exenatid, acetohexamid, klorpropamid)
   - acetylsalicylsyra, morfin, bupropion och dronabinol
 
-  Aluminiumhydroxid och kalciumkarbonat har mindre allvarliga interaktioner.
-- **Särskild försiktighet:** ACE-hämmare kan orsaka akut njursvikt vid dubbelsidig njurartärstenos. Litteraturen pekar också på risker för fostret vid användning under graviditet.
+  Aluminiumhydroxid och kalciumkarbonat har interaktioner av lindrig grad.
 
-Varningar och kontraindikationer enligt produktresumén kunde inte inhämtas. Se produktresumén för fullständig säkerhetsinformation.
+Varnings- och kontraindikationsdata från produktresumén saknas i de sammanställda data. Se produktresumén för fullständig säkerhetsinformation.
 
 ---
 
-### Slutsats och nästa steg
+## Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen har hög modellpoäng men saknar stöd i kliniska prövningar, och litteraturen består i huvudsak av översikter, fallrapporter och diagnostiska studier. Indikationen ligger dessutom inom kaptoprils redan kända blodtryckssänkande användning, så det finns inget tydligt återanvändningsvärde. Båda svenska godkännandena är dessutom indragna.
+- Evidensnivån är L5. Det finns inga kliniska prövningar, och den enda publikationen är ett diagnostiskt fallrapport som inte studerar behandling av sjukdomen. Den höga modellpoängen räcker inte som underlag för att gå vidare.
 
 **För att gå vidare krävs:**
-- Produktresumé från Läkemedelsverket med varningar och kontraindikationer, eftersom säkerhetsgranskningen annars inte kan slutföras.
-- Detaljerad verkningsmekanismdata från DrugBank.
-- Kontrollerade studier som visar effekt specifikt vid malign renovaskulär hypertoni, med särskild uppmärksamhet på njurfunktion vid njurartärstenos.
-- Klargörande av om en ny indikation behövs, eller om användningen redan täcks av den etablerade hypertoniindikationen.
-- Bedömning av regulatorisk väg, eftersom produkterna i Sverige är indragna.
+- Kliniska eller observationella studier av captopril vid malign hypertensiv njursjukdom
+- Verkningsmekanismdata för en tydligare mekanistisk koppling
+- Varningar och kontraindikationer från produktresumén, för en fullständig säkerhetsbedömning
+- En bedömning av nytta och risk jämfört med etablerade ACE-hämmare och andra blodtryckssänkande behandlingar
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

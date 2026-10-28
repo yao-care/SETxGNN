@@ -4,17 +4,17 @@ title: Mesalazine
 parent: Endast modellprediktion (L5)
 nav_order: 280
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Mesalazine: predikterad ny indikation Medfödd hypotrikos med juvenil makuladystrofi (evidensnivå L5). Ursprunglig indikation: Ulcerös kolit, inflammatorisk tarmsjukdom…"
 monitor_inn: "mesalazine"
-predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "osteoarthritis susceptibility", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
+predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
+description: "Mesalazine: predikterad ny indikation Congenital hypotrichosis with juvenile macular dystrophy (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Mesalazine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **7** st
+Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Mesalazin: Från ulcerös kolit till medfödd hypotrikos med juvenil makuladystrofi
+## Mesalazine: Congenital hypotrichosis with juvenile macular dystrophy
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Mesalazin (5-aminosalicylsyra) används ursprungligen för behandling av ulcerö
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ulcerös kolit, inflammatorisk tarmsjukdom, ulcerös proktosigmoidit (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Medfödd hypotrikos med juvenil makuladystrofi |
-| TxGNN-förutsägelsepoäng | 99,6 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Congenital hypotrichosis with juvenile macular dystrophy |
+| TxGNN-förutsägelsepoäng | 0.9965 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (samtliga indragna) |
 | Rekommenderat beslut | Avvakta |
 
@@ -64,13 +64,13 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Den förutsagda sjukdomen är dock en ytterst sällsynt genetisk sjukdom orsakad av mutation i CDH3, som påverkar cellvidhäftning. Mesalazins antiinflammatoriska verkan påverkar inte den underliggande genetiska defekten. Något rimligt mekanistiskt samband har därför inte kunnat identifieras.
 
-Den höga poängen speglar sannolikt närhet i kunskapsgrafen snarare än biologisk eller klinisk relevans. Förutsägelsen bör tolkas med stor försiktighet.
+Förutsägelsen bör tolkas med stor försiktighet.
 
 ---
 
 ## Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är indragna och inga är giltiga i dagsläget. Indikationstext saknas i data. De fem första godkännandena visas nedan.
+Indikationstext saknas i data. De fem första godkännandena visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
 |---------|------|------|-----------|

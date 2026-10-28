@@ -6,9 +6,9 @@ nav_order: 215
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Glimepiride: predikterad ny indikation Klassiskt stiff person-syndrom (evidensnivå L5). Ursprunglig indikation: Typ 2-diabetes mellitus (enligt kunskapsgrafen"
 monitor_inn: "glimepiride"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
+description: "Glimepiride: predikterad ny indikation Classic stiff person syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Glimepiride
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-## Glimepirid: Från typ 2-diabetes till klassiskt stiff person-syndrom
+## Glimepiride: Classic stiff person syndrome
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Glimepirid är ett sulfonureiderivat som ursprungligen används för behandling 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Typ 2-diabetes mellitus (enligt kunskapsgrafen; ingen indikationstext finns i de svenska godkännandena) |
-| Förutsagd ny indikation | Klassiskt stiff person-syndrom |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Classic stiff person syndrome |
+| TxGNN-förutsägelsepoäng | 0.9975 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 11 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 11 av 11) |
+| Antal godkännanden | 11 (giltiga: 11) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Glimepirid är ett sulfonureiderivat som ursprungligen används för behandling 
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för rapporten. Baserat på allmänt känd information är glimepirid ett sulfonureid som blockerar ATP-känsliga kaliumkanaler i betacellerna i bukspottkörteln och därmed ökar insulinfrisättningen.
 
-Kopplingen till stiff person-syndrom är sannolikt indirekt. Sjukdomen är en autoimmun neurologisk störning med anti-GAD65-antikroppar som påverkar GABA-signalering, och den förekommer ofta tillsammans med typ 2-diabetes och andra autoimmuna former av diabetes. Den höga poängen speglar därför sannolikt närheten mellan sjukdomarna i kunskapsgrafen, inte en terapeutisk mekanism.
+Kopplingen till stiff person-syndrom är sannolikt indirekt. Sjukdomen är en autoimmun neurologisk störning med anti-GAD65-antikroppar som påverkar GABA-signalering, och den förekommer ofta tillsammans med typ 2-diabetes och andra autoimmuna former av diabetes.
 
 Det finns alltså ingen mekanistisk grund för att blockad av K-ATP-kanaler i betaceller skulle lindra stelhet och muskelspasmer vid stiff person-syndrom. Förutsägelsen bör därför ses som en statistisk artefakt snarare än en tillförlitlig hypotes. Samma resonemang gäller även fokalt stiff limb-syndrom, som har identisk poäng.
 

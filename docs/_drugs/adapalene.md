@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 16
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Adapalene: predikterad ny indikation Förhöjd zinkhalt i plasma (evidensnivå L5). Ursprunglig indikation: Akne (enligt TxGNN:s kunskapsgraf"
 monitor_inn: "adapalene"
 predicted_indications: ["zinc, elevated plasma"]
+last_modified_at: 2026-10-27
+description: "Adapalene: predikterad ny indikation Förhöjt zink i plasma (zinc, elevated plasma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Adapalene
@@ -33,14 +33,12 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Adapalen: Från akne till förhöjd zinkhalt i plasma
+## Adapalen: retinoid, selektiv RAR-agonist → förhöjt zink i plasma (zinc, elevated plasma)
 {: .text-alpha }
-
----
 
 ## Sammanfattning
 
-Adapalen är en retinoid som ursprungligen används för att behandla akne och som i Sverige har funnits som gel och kräm, både som enskild substans och i kombination med bensoylperoxid. TxGNN-modellen förutsäger att adapalen kan vara effektivt mot **förhöjd zinkhalt i plasma**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder detta. Förutsägelsen bygger enbart på modellens poäng och bedöms som mycket osäker.
+Adapalen är en topikal retinoid. Verkningsmekanismen finns inte beskriven i de data som sammanställts för denna rapport. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **förhöjt zink i plasma (zinc, elevated plasma)**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder förutsägelsen.
 
 ---
 
@@ -48,23 +46,23 @@ Adapalen är en retinoid som ursprungligen används för att behandla akne och s
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Akne (enligt TxGNN:s kunskapsgraf; ingen indikationstext finns i de svenska godkännandena) |
-| Förutsagd ny indikation | Förhöjd zinkhalt i plasma |
-| TxGNN-förutsägelsepoäng | 99,5 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Förhöjt zink i plasma (zinc, elevated plasma) |
+| TxGNN-förutsägelsepoäng | 0,9951 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
-| Antal godkännanden | 11 (alla återkallade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 11 av 11) |
+| Antal godkännanden | 11 (giltiga: 11) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Baserat på känd information är adapalen en retinoid som selektivt aktiverar retinsyrareceptorer (RARβ/γ). Effekten vid akne är väl belagd, men en mekanistisk koppling till förhöjd zinkhalt i plasma kan bara antas.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts. Adapalen tillhör retinoiderna och beskrivs allmänt som en selektiv agonist på retinsyrareceptorer (RARβ/γ). Detta är dock inte belagt i det underlag som sammanställts för rapporten.
 
-En tänkbar koppling vore att retinoider påverkar proteiner som binder eller transporterar zink, till exempel metallotionein eller transportproteinerna ZIP och ZnT, och därmed zinkbalansen. Inget i de data som sammanställts stöder detta.
+Ett tänkbart men helt hypotetiskt samband vore att retinoider påverkar proteiner som binder eller transporterar zink, till exempel metallotionein eller transportörerna ZIP och ZnT, eller zinkbalansen i stort. Inget i underlaget stöder detta.
 
-Flera faktorer talar dessutom emot att förutsägelsen är kliniskt meningsfull. Förhöjd zinkhalt i plasma är ett laboratoriefynd snarare än en sjukdom som behandlas på vanligt sätt. Adapalen appliceras på huden och ger låg systemisk exponering, vilket gör en effekt på plasmanivåer av zink osannolik. Förutsägelsen är sannolikt en artefakt från kunskapsgrafen och bör inte tolkas som en klinisk signal.
+Förhöjt zink i plasma är dessutom ett laboratoriefynd eller ett biokemiskt tillstånd snarare än en sjukdom som vanligen behandlas. Adapalen används på huden och ger låg systemisk exponering, vilket gör en effekt på plasmanivåer av zink mindre sannolik. Förutsägelsen bör därför ses som ett modellresultat med mycket låg klinisk plausibilitet och inte som en klinisk signal.
 
 ---
 
@@ -82,24 +80,23 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga 11 godkännanden är återkallade och inga är giltiga. Ingen indikationstext finns registrerad. De fem första godkännandena visas nedan.
-
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 12967 | Differin (Galderma Nordic AB) | Gel | Ingen indikationstext registrerad |
-| 14397 | Differin (Galderma Nordic AB) | Kräm | Ingen indikationstext registrerad |
-| 67815 | Cutimum (2care4 Generics ApS) | Gel | Ingen indikationstext registrerad |
-| 24864 | Epiduo (Galderma Nordic AB) | Gel | Ingen indikationstext registrerad |
-| 66234 | Adapalene/Benzoyl peroxide STADA (STADA Arzneimittel AG) | Gel | Ingen indikationstext registrerad |
+| 12967 | Differin | Gel | Ej registrerad |
+| 14397 | Differin | Kräm | Ej registrerad |
+| 67815 | Cutimum | Gel | Ej registrerad |
+| 53560 | Epiduo | Gel | Ej registrerad |
+| 66234 | Adapalene/Benzoyl peroxide STADA | Gel | Ej registrerad |
+
+Listan visar de fem första av de godkännanden som finns i lokala data.
 
 ---
 
 ## Säkerhetsaspekter
 
-- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumétext): fotoparoxysmal respons, ljuskänslighetssjukdom, exfoliativ dermatit och dermatit.
-- **Läkemedelsinteraktioner**: 58 interaktioner är registrerade, men allvarlighetsgraden är i samtliga fall okänd. Exempel på interagerande läkemedel är doxycyklin, tetracyklin, minocyklin, metronidazol, prednison, triamcinolon, budesonid, omeprazol, pantoprazol, flukonazol och ibuprofen.
+- **Läkemedelsinteraktioner**: Interaktionsfrågan gav 58 träffar. Interaktionsnivån är inte angiven för någon av dem. Exempel på läkemedel som listas är pantoprazol, doxycyklin, omeprazol, triamcinolon, prednison, tetracyklin, minocyklin, metronidazol och ibuprofen.
 
-Uppgifter om varningar och kontraindikationer ur produktresumén saknas. Se produktresumén för fullständig säkerhetsinformation.
+Se produktresumén för varningar och kontraindikationer.
 
 ---
 
@@ -108,14 +105,13 @@ Uppgifter om varningar och kontraindikationer ur produktresumén saknas. Se prod
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen stöds enbart av en hög modellpoäng (L5), utan kliniska prövningar eller litteratur. Den saknar dessutom trovärdig mekanistisk koppling, eftersom adapalen ges lokalt med låg systemisk exponering och förhöjd plasmazink är ett laboratoriefynd snarare än en behandlingsbar sjukdom.
+- Förutsägelsen bygger enbart på en hög modellpoäng utan stöd från kliniska prövningar eller litteratur (evidensnivå L5). Dessutom är den föreslagna indikationen ett laboratoriefynd snarare än en behandlingsbar sjukdom, och den topikala användningen ger låg systemisk exponering.
 
 **För att gå vidare krävs:**
-- Verkningsmekanismdata för adapalen (kan hämtas via DrugBank).
-- Varningar och kontraindikationer ur produktresumén från Läkemedelsverket, vilket är nödvändigt för en säkerhetsgranskning.
-- Prekliniska eller mekanistiska studier som visar att retinoider påverkar zinkhomeostasen.
-- En bedömning av om förhöjd zinkhalt i plasma är ett rimligt behandlingsmål.
-- En ny granskning av om förutsägelsen är en artefakt i kunskapsgrafen, innan ytterligare resurser läggs på den.
+- Dokumenterad verkningsmekanism och en trovärdig biologisk koppling mellan retinoidverkan och zinkhomeostas
+- Prekliniska eller kliniska data som direkt undersöker effekt på plasmanivåer av zink
+- Bedömning av om förhöjt zink i plasma är ett kliniskt relevant behandlingsmål
+- Komplettering av varningar och kontraindikationer från produktresumén
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

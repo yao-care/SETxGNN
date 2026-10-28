@@ -4,17 +4,17 @@ title: Labetalol
 parent: Endast modellprediktion (L5)
 nav_order: 247
 evidence_level: L5
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Labetalol: predikterad ny indikation Malign renovaskulär hypertoni (evidensnivå L5). Ursprunglig indikation: Hypertoni (hypertensive disorder…"
 monitor_inn: "labetalol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
+description: "Labetalol: predikterad ny indikation Malignant hypertensive renal disease (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Labetalol
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **4** st
+Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-## Labetalol: Från hypertoni till malign renovaskulär hypertoni
+## Labetalol: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Labetalol är en kombinerad alfa-1- och betareceptorblockerare som används vid 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Hypertoni (hypertensive disorder, hypertension). Godkännandetexterna i det svenska registret saknar indikationstext, så uppgiften kommer från TxGNN:s kunskapsgraf |
-| Förutsagd ny indikation | Malign renovaskulär hypertoni |
-| TxGNN-förutsägelsepoäng | 99,1 % |
-| Evidensnivå | L4 (endast en fallrapport, inga kliniska prövningar) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 5 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Malignant hypertensive renal disease |
+| TxGNN-förutsägelsepoäng | 0.9908 |
+| Evidensnivå | L5 (endast en fallrapport, inga kliniska prövningar) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
+| Antal godkännanden | 5 (giltiga: 5) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -126,7 +126,7 @@ Bland de 30 registrerade tillstånden finns bland annat leversvikt, leversjukdom
 
 ---
 
-**Övriga förutsagda indikationer (kort):** Malign hypertensiv njursjukdom (poäng 99,1 %, evidensnivå L5, inga studier). Pulmonell hypertension orsakad av lungsjukdom och/eller hypoxi samt pulmonell hypertension med oklar multifaktoriell mekanism (båda 99,1 %, L5). För de två sistnämnda finns ingen känd mekanism för trycksänkning i lungkretsloppet, och icke-selektiv betablockad kan vara skadlig vid lungsjukdom. Rekommendation för samtliga: avvakta.
+Pulmonell hypertension orsakad av lungsjukdom och/eller hypoxi samt pulmonell hypertension med oklar multifaktoriell mekanism (båda 99,1 %, L5). För de två sistnämnda finns ingen känd mekanism för trycksänkning i lungkretsloppet, och icke-selektiv betablockad kan vara skadlig vid lungsjukdom. Rekommendation för samtliga: avvakta.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

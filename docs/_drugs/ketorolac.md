@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ketorolac
-parent: Endast modellprediktion (L5)
+parent: Hög evidens (L1-L2)
 nav_order: 246
-evidence_level: L5
+evidence_level: L1
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Ketorolac: predikterad ny indikation Huvudvärkssjukdom (headache disorder) (evidensnivå L5). Ursprunglig indikation: Allergisk (atopisk), papillär och vernal konjunktivit"
 monitor_inn: "ketorolac"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
+description: "Ketorolac: predikterad ny indikation Huvudvärkssjukdom (headache disorder) (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ketorolac
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **3** st
+Evidensnivå: **L1** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Ketorolak: Från allergisk, papillär och vernal konjunktivit till huvudvärkssjukdom
+## Ketorolac: Huvudvärkssjukdom (headache disorder)
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Ketorolak (Ketorolac S.A.L.F.) ursprungligen användes för behandling av allergisk (atopisk), papillär och vernal konjunktivit. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **huvudvärkssjukdom** (framför allt migrän och spänningshuvudvärk), med **18 kliniska prövningar** och **18 publikationer** som för närvarande stöder denna riktning. Alla fyra svenska godkännanden är avregistrerade.
+Ketorolak (Ketorolac S.A.L.F.) användes ursprungligen för behandling av allergisk (atopisk), papillär och vernal konjunktivit. TxGNN-modellen (deep learning) förutsäger att läkemedlet kan vara effektivt mot **huvudvärkssjukdom** (framför allt migrän och spänningshuvudvärk), med **18 kliniska prövningar** och **18 publikationer** som för närvarande stöder denna riktning. Läkemedlet är marknadsfört i Sverige och alla fyra giltiga godkännanden (4 av 4) är i kraft.
 
 ---
 
@@ -48,12 +48,12 @@ Ketorolak (Ketorolac S.A.L.F.) ursprungligen användes för behandling av allerg
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Allergisk (atopisk), papillär och vernal konjunktivit (enligt kunskapsgrafen; godkännandetexterna i det svenska registret är tomma) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Huvudvärkssjukdom (headache disorder) |
-| TxGNN-förutsägelsepoäng | 99,4 % |
+| TxGNN-förutsägelsepoäng | 0.9943 |
 | Evidensnivå | L1 (se kommentar nedan) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 4 (0 giltiga, 4 avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 *Kommentar om evidensnivån:* Flera avslutade fas 4-prövningar och fas 3-prövningar samt flera systematiska översikter och metaanalyser av ketorolak vid akut migrän finns. Nivån L1 enligt de uppgifter som sammanställts för rapporten bör ändå tolkas försiktigt, eftersom många prövningar är små, gäller kombinationsbehandlingar eller jämför mot annan aktiv behandling.
@@ -112,10 +112,10 @@ Nedan visas de 10 mest relevanta publikationerna (av 18 identifierade). Systemat
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 57843 | Ketorolac S.A.L.F. | Injektionsvätska, lösning | Ingen indikationstext tillgänglig (avregistrerad) |
-| 59533 | Caloket | Injektions-/infusionsvätska, lösning | Ingen indikationstext tillgänglig (avregistrerad) |
-| 63519 | Toradol | Injektionsvätska, lösning | Ingen indikationstext tillgänglig (avregistrerad) |
-| 11215 | Toradol | Injektionsvätska, lösning | Ingen indikationstext tillgänglig (avregistrerad) |
+| 57843 | Ketorolac S.A.L.F. | Injektionsvätska, lösning | Ingen indikationstext tillgänglig (godkänd) |
+| 59533 | Caloket | Injektions-/infusionsvätska, lösning | Ingen indikationstext tillgänglig (godkänd) |
+| 63519 | Toradol | Injektionsvätska, lösning | Ingen indikationstext tillgänglig (godkänd) |
+| 11215 | Toradol | Injektionsvätska, lösning | Ingen indikationstext tillgänglig (godkänd) |
 
 ---
 
@@ -143,7 +143,6 @@ Produktresumén bör konsulteras för fullständig information om varningar, eft
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket.
 - Bekräfta evidensnivån genom granskning av de enskilda prövningarna, särskilt de som testar ketorolak som huvudintervention.
-- Klargöra regulatorisk väg i Sverige, eftersom inga godkännanden är giltiga, samt bedöma lämplig beredningsform och administreringsväg (injektion eller nässpray).
 - Bedöma interaktionsrisker, särskilt med acetylsalicylsyra, kortikosteroider och litium.
 
 *Övriga förutsägelser:* Förutsägelserna om rosacea-konjunktivit (utan prövningar eller litteratur, evidensnivå L5) och trigeminal autonom huvudvärk (endast indirekt evidens, L4) rekommenderas att avvakta.

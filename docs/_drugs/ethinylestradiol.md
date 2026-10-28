@@ -6,9 +6,9 @@ nav_order: 178
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Ethinylestradiol: predikterad ny indikation Förhöjt plasmazink (zinc, elevated plasma) (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad. Kunskapsgrafen anger…"
 monitor_inn: "ethinylestradiol"
 predicted_indications: ["zinc, elevated plasma"]
+description: "Ethinylestradiol: predikterad ny indikation Förhöjt plasmazink (zinc, elevated plasma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ethinylestradiol
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Etinylestradiol: Från akne och postmenopausal osteoporos till förhöjt plasmazink
+## Ethinylestradiol: Förhöjt plasmazink (zinc, elevated plasma)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Etinylestradiol är ett syntetiskt östrogen som i kunskapsgrafen är kopplat till behandling av bland annat akne, postmenopausal osteoporos, osteoporos och atrofisk vaginit efter klimakteriet. TxGNN-modellen förutsäger att det kan vara effektivt mot **förhöjt plasmazink**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** i de data som sammanställts för denna rapport. Förutsägelsen bygger därmed enbart på modellen.
+Etinylestradiol är ett syntetiskt östrogen som används vid bland annat akne, postmenopausal osteoporos, osteoporos och atrofisk vaginit efter klimakteriet. TxGNN-modellen (deep learning) förutsäger att det kan vara effektivt mot **förhöjt plasmazink**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** i de data som sammanställts för denna rapport. Förutsägelsen bygger därmed enbart på modellen och kan spegla likheter som modellen lärt sig mellan relaterade sjukdomar, inte biologisk evidens.
 
 ---
 
@@ -48,11 +48,11 @@ Etinylestradiol är ett syntetiskt östrogen som i kunskapsgrafen är kopplat ti
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad. Kunskapsgrafen anger akne, postmenopausal osteoporos, osteoporos och atrofisk vaginit efter klimakteriet. |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Förhöjt plasmazink (zinc, elevated plasma) |
-| TxGNN-förutsägelsepoäng | 99,6 % |
+| TxGNN-förutsägelsepoäng | 0.9963 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (samtliga avregistrerade, 0 giltiga) |
 | Rekommenderat beslut | Avvakta |
 
@@ -64,13 +64,13 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Base
 
 Östrogener är kända för att påverka cirkulerande zink och zinkbindande proteiner, till exempel albumin och metallothionein. Användning av p-piller har också rapporterats förändra zink- och kopparnivåer i serum. Dessa förändringar innebär dock oftast **sänkt** zink, inte förhöjd. Effektens riktning stöder alltså inte tydligt att etinylestradiol skulle behandla förhöjt plasmazink.
 
-Dessutom är förhöjt plasmazink ett laboratoriefynd snarare än en väldefinierad sjukdom med ett vedertaget behandlingsbehov, vilket försvagar argumenten för återanvändning. Den mycket höga poängen (0,996) är en ren modellförutsägelse utan stöd i studier eller publikationer.
+Dessutom är förhöjt plasmazink ett laboratoriefynd snarare än en väldefinierad sjukdom med ett vedertaget behandlingsbehov, vilket försvagar argumenten för återanvändning. Den mycket höga poängen (0,9963) är en ren modellförutsägelse utan stöd i studier eller publikationer.
 
 ---
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är avregistrerade. Ingen indikationstext finns registrerad. De fem första godkännandena visas nedan.
+Läkemedlet är marknadsfört och har 20 giltiga godkännanden. Ingen indikationstext finns registrerad. De fem första godkännandena visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

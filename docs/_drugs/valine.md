@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Valine
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 445
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Valine: predikterad ny indikation Skleroserande kolangit (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext tillgänglig i de sammanställda data"
@@ -14,7 +14,7 @@ predicted_indications: ["sclerosing cholangitis", "angle-closure glaucoma", "hyp
 # Valine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,7 +50,7 @@ Valin är en essentiell aminosyra som i Sverige ingått i aminosyra- och näring
 | Förutsagd ny indikation | Skleroserande kolangit |
 | TxGNN-förutsägelsepoäng | 99,4 % |
 | Evidensnivå | L4 (endast indirekt litteratur, inga prövningar) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 

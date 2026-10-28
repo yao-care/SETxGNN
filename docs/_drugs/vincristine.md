@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Vincristine
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 451
-evidence_level: L3
-indication_count: 3
-last_modified_at: 2026-10-15
-description: "Vincristine: predikterad ny indikation Ganglioneuroblastom (evidensnivå L3). Ursprunglig indikation: Ingen godkänd indikationstext finns i de svenska godkännandena. Enlig…"
+evidence_level: L5
+indication_count: 2
 monitor_inn: "vincristine"
-predicted_indications: ["ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
+predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
+last_modified_at: 2026-10-23
+description: "Vincristine: predikterad ny indikation Vertebral anomalies and variable endocrine and T-cell dysfunction (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Vincristine
 {: .fs-9 }
 
-Evidensnivå: **L3** | Förutsagda indikationer: **3** st
+Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,105 +33,94 @@ Evidensnivå: **L3** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Vinkristin: Från akut lymfatisk leukemi och lymfom till ganglioneuroblastom
+## Vincristine: Vertebral anomalies and variable endocrine and T-cell dysfunction
 {: .text-alpha }
 
 ---
 
-### Sammanfattning
+## Sammanfattning
 
-Vinkristin är ett cytostatikum som ursprungligen används vid blodcancer och lymfom, bland annat akut lymfatisk leukemi, Hodgkins lymfom, non-Hodgkin-lymfom och Langerhans cellhistiocytos. TxGNN-modellen förutsäger att det kan vara effektivt mot **ganglioneuroblastom** (en tumör som utgår från nervkamsceller). Underlaget består av **0 kliniska prövningar** och **6 publikationer**, främst fallrapporter. Vinkristin ingår redan i etablerade kombinationsbehandlingar vid neuroblastära tumörer, så detta är i praktiken en befintlig användning utanför godkänd indikation snarare än en ny upptäckt.
+Vinkristin är ett cytostatikum (vincaalkaloid). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **vertebrala anomalier med variabel endokrin och T-cellsdysfunktion**, ett ultrasällsynt syndrom. Det finns **0 kliniska prövningar** och **0 publikationer** som stöder förutsägelsen, så den vilar enbart på modellen.
 
 ---
 
-### Snabböversikt
+## Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: akut lymfatisk leukemi, Hodgkins lymfom, non-Hodgkin-lymfom, Langerhans cellhistiocytos m.fl. |
-| Förutsagd ny indikation | Ganglioneuroblastom |
-| TxGNN-förutsägelsepoäng | 99,3 % |
-| Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
-| Rekommenderat beslut | Fortsätt med försiktighet |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Vertebral anomalies and variable endocrine and T-cell dysfunction |
+| TxGNN-förutsägelsepoäng | 0.9924 |
+| Evidensnivå | L5 (endast modellförutsägelse) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-### Varför är denna förutsägelse rimlig?
+## Varför är denna förutsägelse rimlig?
 
-Någon detaljerad verkningsmekanismdata finns inte i det insamlade underlaget. Vinkristin är dock en vinkaalkaloid som binder till tubulin och hämmar mikrotubulibildning. Det leder till att celldelningen stannar av i mitosen hos snabbt delande celler.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för rapporten. Vinkristin är en vincaalkaloid. Sådana ämnen hämmar mikrotubuli och stoppar celler som delar sig snabbt i metafas, och därför används de mot blodcancer och lymfom. Mekanistiskt är det en effekt på snabbt prolifererande celler.
 
-Vid de ursprungliga indikationerna, leukemi och lymfom, delar sig cancercellerna snabbt, vilket gör dem känsliga för ett sådant verkningssätt. Ganglioneuroblastom är en neuroblastär tumör av medelhög risk med ursprung i nervkammen. Vinkristin är en vanlig komponent i flerläkemedelsbehandling vid neuroblastära tumörer, till exempel tillsammans med cyklofosfamid, doxorubicin, cisplatin och etoposid.
-
-Den höga modellpoängen (0,993) överensstämmer med känd biologi. Evidensen kommer dock från fallrapporter och en prospektiv studie av riskstratifierad neuroblastombehandling, inte från randomiserade studier av vinkristin för sig.
+Det förutsagda tillståndet är däremot ett utvecklingsrelaterat syndrom med påverkan på immunsystem och hormonsystem, och inte en prolifererande malignitet. Det går därför inte att visa någon rimlig terapeutisk mekanism utifrån tillgängliga data. Det är en nätverksnärhet och inte ett biologiskt belägg.
 
 ---
 
-### Kliniska prövningar
+## Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-### Litteraturbevis
+## Litteraturbevis
 
-| PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|-----|------|------|---------|
-| [31342649](https://pubmed.ncbi.nlm.nih.gov/31342649/) | 2019 | Prospektiv klinisk prövning (JN-L-10) | Pediatric Blood & Cancer | Bildbaserade riskfaktorer användes för att styra tidpunkten för kirurgi vid lågriskneuroblastom, i syfte att minska behandlingskomplikationer. Vinkristin ingick i kombinationskemoterapi. |
-| [8255850](https://pubmed.ncbi.nlm.nih.gov/8255850/) | 1993 | Fallrapport | Postgraduate Medical Journal | Spinalt ganglioneuroblastom som inte kunde opereras uppnådde histologiskt bekräftad fullständig remission med kemoterapi (doxorubicin, vinkristin, cyklofosfamid, etoposid, ifosfamid, cisplatin). |
-| [15701990](https://pubmed.ncbi.nlm.nih.gov/15701990/) | 2005 | Fallrapport | Journal of Pediatric Hematology/Oncology | Ganglioneuroblastom som debuterade med obstruktiv gulsot behandlades med kemoterapi som innehöll cisplatin, pirarubicin/doxorubicin, cyklofosfamid och vinkristin. |
-| [7421294](https://pubmed.ncbi.nlm.nih.gov/7421294/) | 1980 | Fallserie | The Journal of Thoracic and Cardiovascular Surgery | 31 patienter med intratorakalt ganglioneuroblastom behandlades med kirurgi, strålning eller kemoterapi. 27 av 31 överlevde, och fyra patienter som fick enbart strålning dog inom 3 månader. |
-| [3071124](https://pubmed.ncbi.nlm.nih.gov/3071124/) | 1988 | Fallrapport | Hinyokika Kiyo | Multimodal behandling av adrenalt ganglioneuroblastom hos en vuxen man med stor lymfkörtelmetastas. |
-| [8888754](https://pubmed.ncbi.nlm.nih.gov/8888754/) | 1996 | Fallrapport | Journal of Pediatric Hematology/Oncology | Spädbarn med multifokalt ganglioneuroblastom i stadium 4 med engagemang av magsäcken. |
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
-### Marknadsinformation Sverige
+## Marknadsinformation Sverige
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 11028 | Vincristine Pfizer (Pfizer AB) | Injektionsvätska, lösning | Ingen indikationstext tillgänglig (indraget) |
-| 9926 | Oncovin (STADA Nordic ApS) | Injektionsvätska, lösning | Ingen indikationstext tillgänglig (indraget) |
+| 11028 | Vincristine Pfizer (Pfizer AB) | Injektionsvätska, lösning | Ingen indikationstext angiven i licensdatan |
+| 9926 | Oncovin (STADA Nordic ApS) | Injektionsvätska, lösning | Ingen indikationstext angiven i licensdatan |
 
 ---
 
-### Cytotoxicitet
+## Cytotoxicitet
 
 | Post | Innehåll |
 |------|------|
-| Cytotoxicitetsklassificering | Konventionell cytotoxisk (vinkaalkaloid, antimitotiskt medel) |
-| Myelosuppressionsrisk | Se produktresumén för varningar och försiktighetsåtgärder. Kunskapsgrafen anger leukopeni som en kontraindikationsrelaterad sjukdom. |
-| Emetogenicitetsklassificering | Låg (enligt läkemedelsklassen; bör bekräftas i produktresumén) |
-| Övervakningspunkter | Blodstatus (särskilt vita blodkroppar), leverfunktion (bilirubin), neurologisk status (perifer neuropati) |
-| Hanteringsskydd | Ja, särskilda skyddsåtgärder enligt föreskrifter för hantering av cytostatika behövs. |
+| Cytotoxicitetsklassificering | Konventionell cytotoxisk (vincaalkaloid, mikrotubulihämmare) |
+| Myelosuppressionsrisk | Inga toxicitetsdata i det sammanställda underlaget. I kunskapsgrafen finns leukopeni som kontraindikationsrelation. Se produktresumén för detaljer. |
+| Emetogenicitetsklassificering | Låg (allmän klassificering för läkemedelsklassen) |
+| Övervakningspunkter | Blodstatus, lever- och njurfunktion samt neurologisk status (perifer neuropati) |
+| Hanteringsskydd | Ja, hantering enligt föreskrifter för cytostatika. Se produktresumén för särskilda försiktighetsåtgärder. |
 
 ---
 
-### Säkerhetsaspekter
+## Säkerhetsaspekter
 
-- **Sjukdomar som i kunskapsgrafen är kopplade till kontraindikation** (inte hämtade från produktresumén): leversvikt, kolestas, hyperbilirubinemi (inklusive Gilberts syndrom), leukopeni, perifer neuropati och andra neuromuskulära sjukdomar (inklusive Charcot-Marie-Tooths sjukdom), infektionssjukdomar (inklusive svampinfektioner) samt akut uratnefropati.
-- **Läkemedelsinteraktioner**: totalt 505 interaktioner identifierade. Exempel:
-  - **Allvarlig (Major)**: klaritromycin
-  - **Måttlig (Moderate)**: aprepitant, dexametason, metronidazol, eliglustat, naltrexon, mikonazol, rolapitant, rosuvastatin, simvastatin, tinidazol, troglitazon, glycerolfenylbutyrat
-  - **Lindrig (Minor)**: levofloxacin
+- **Kontraindikationer enligt kunskapsgrafen** (relationer i grafen, inte text från produktresumén): leversvikt, kolestas, hyperbilirubinemi (inklusive Gilberts syndrom), leukopeni, perifer neuropati och andra neuromuskulära sjukdomar (bland annat Charcot-Marie-Tooths sjukdom), akut urat-nefropati samt vissa infektionssjukdomar (bland annat svampinfektioner).
+- **Läkemedelsinteraktioner**: totalt 505 registrerade interaktioner. Den enda som klassas som allvarlig bland de listade är **klaritromycin**. Måttliga interaktioner finns bland annat med aprepitant, dexametason, metronidazol, flukonazolliknande svampmedel som mikonazol, rosuvastatin, simvastatin, naltrexon och eliglustat. Interaktionen med levofloxacin är liten.
 
-Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se produktresumén för fullständig säkerhetsinformation.
+Varningar och kontraindikationer från produktresumén ingår inte i underlaget. Se produktresumén för fullständig säkerhetsinformation.
 
 ---
 
-### Slutsats och nästa steg
+## Slutsats och nästa steg
 
-**Beslut: Fortsätt med försiktighet**
+**Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen (L3) består av fallrapporter och en prospektiv studie där vinkristin ingår i kombinationsbehandling, men inga prövningar är registrerade och inga vinkristinspecifika randomiserade studier finns. Användningen motsvarar redan etablerad onkologisk praxis, och alla svenska godkännanden är indragna.
+- Förutsägelsen är endast modellbaserad (L5), utan kliniska prövningar eller publikationer, och ingen rimlig mekanism kan beläggas för ett utvecklingsrelaterat immunsyndrom.
+- Ingen prospektiv prövning finns. Den kräver granskning av fulltexter innan någon slutsats kan dras.
 
 **För att gå vidare krävs:**
-- Produktresumé med varningar och kontraindikationer (blockerande dataluckor för säkerhetsbedömning)
-- Detaljerad verkningsmekanism från DrugBank
-- Kontroll av nuvarande behandlingsriktlinjer för neuroblastära tumörer och tillgång till vinkristin i Sverige, eftersom båda godkännandena är indragna
-- Närmare granskning av litteraturen för att urskilja vinkristinets egna bidrag i kombinationsbehandlingarna
+- Verkningsmekanismdata för vinkristin och en bedömning av biologisk koppling till det förutsagda tillståndet.
+- Varningar och kontraindikationer från den svenska produktresumén (läkemedelsverket), som saknas i underlaget.
+- Prekliniska eller kliniska data som direkt studerar det förutsagda tillståndet, eller expertbedömning av om en indikation alls är biologiskt rimlig.
+- Fulltextgranskning av litteraturen för retroperitoneal neoplasm om denna förutsägelse ska prioriteras.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

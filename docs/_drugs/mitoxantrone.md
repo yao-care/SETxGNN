@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Mitoxantrone
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 301
-evidence_level: L3
-indication_count: 8
+evidence_level: L5
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Mitoxantrone: predikterad ny indikation Neoplasm i övre luft- och matsmältningsvägarna (evidensnivå L3). Ursprunglig indikation: Akut myeloisk leukemi"
 monitor_inn: "mitoxantrone"
 predicted_indications: ["upper aerodigestive tract neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "head and neck cancer", "bladder exstrophy-epispadias-cloacal exstrophy complex"]
+description: "Mitoxantrone: predikterad ny indikation Upper aerodigestive tract neoplasm (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Mitoxantrone
 {: .fs-9 }
 
-Evidensnivå: **L3** | Förutsagda indikationer: **8** st
+Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L3** | Förutsagda indikationer: **8** st
 
 </div>
 
-## Mitoxantron: Från akut myeloisk leukemi till neoplasm i övre luft- och matsmältningsvägarna
+## Mitoxantrone: Upper aerodigestive tract neoplasm
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Mitoxantron är ett cytostatikum som ursprungligen användes mot akut myeloisk l
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Akut myeloisk leukemi (enligt kunskapsgrafen; någon godkänd indikationstext finns inte registrerad för den svenska licensen) |
-| Förutsagd ny indikation | Neoplasm i övre luft- och matsmältningsvägarna |
-| TxGNN-förutsägelsepoäng | 99,8 % |
-| Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 1 (avregistrerat) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Upper aerodigestive tract neoplasm |
+| TxGNN-förutsägelsepoäng | 0.9978 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---

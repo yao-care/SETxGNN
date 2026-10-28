@@ -40,7 +40,7 @@ Evidensnivå: **L3** | Förutsagda indikationer: **4** st
 
 ### Sammanfattning
 
-Ropivacain är ett långverkande lokalanestetikum av amidtyp. Det saknar en dokumenterad godkänd indikationstext i de svenska licensuppgifterna som ligger till grund för rapporten. TxGNN-modellen förutsäger att läkemedlet kan vara användbart vid **migrän** (poäng 99,7 %), och riktningen stöds för närvarande av **2 kliniska prövningar** och **3 publikationer**. Evidensen består av små studier och observationsstudier, och effekten verkar bero på blockadtekniken snarare än på systemisk läkemedelseffekt.
+Ropivacain är ett långverkande lokalanestetikum av amidtyp. Det saknar en dokumenterad godkänd indikationstext i de svenska licensuppgifterna som ligger till grund för rapporten. TxGNN-modellen (deep learning) förutsäger att läkemedlet kan vara användbart vid **migrän** (poäng 0,9965), och riktningen stöds för närvarande av **2 kliniska prövningar** och **3 publikationer**. Poängen kommer från TxGNN-modellen (deep learning) och kan spegla likheter som modellen lärt sig mellan relaterade sjukdomar, inte biologisk evidens. Evidensen består av små studier och observationsstudier, och effekten verkar bero på blockadtekniken snarare än på systemisk läkemedelseffekt.
 
 ---
 
@@ -50,10 +50,10 @@ Ropivacain är ett långverkande lokalanestetikum av amidtyp. Det saknar en doku
 |------|------|
 | Ursprunglig indikation | Ingen indikationstext angiven i licensuppgifterna |
 | Förutsagd ny indikation | Migrän (migraine disorder) |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| TxGNN-förutsägelsepoäng | 0,9965 |
 | Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 7 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
+| Antal godkännanden | 7 (giltiga: 7) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 Vid migrän används ropivacain i regionala nervblockader, till exempel av sfenopalatinganglion, ganglion stellatum samt occipitala eller paraspinala triggerpunkter. Att blockera smärt- och parasympatiska signaler i de trigeminovaskulära och cervikala banorna kan minska perifer och central sensitisering, vilket är ett rimligt biologiskt resonemang.
 
-Det kliniska resultatet verkar dock bero på vilken teknik och vilken plats som används, inte på läkemedlets systemiska effekt. Det hög poängen (99,7 %) ska därför tolkas med försiktighet.
+Det kliniska resultatet verkar dock bero på vilken teknik och vilken plats som används, inte på läkemedlets systemiska effekt. Den höga poängen (0,9965) ska därför tolkas med försiktighet.
 
 ---
 

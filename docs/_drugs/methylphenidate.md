@@ -6,9 +6,9 @@ nav_order: 286
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Methylphenidate: predikterad ny indikation Faciodigitogenitalt syndrom (evidensnivå L5). Ursprunglig indikation: ADHD och narkolepsi (enligt kunskapsgrafen…"
 monitor_inn: "methylphenidate"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
+description: "Methylphenidate: predikterad ny indikation Faciodigitogenitalt syndrom (faciodigitogenital syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Methylphenidate
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-## Metylfenidat: Från uppmärksamhetsstörning (ADHD) till faciodigitogenitalt syndrom
+## Methylphenidate: Faciodigitogenitalt syndrom (faciodigitogenital syndrome)
 {: .text-alpha }
 
 ---
@@ -50,11 +50,11 @@ Bland de övriga förutsagda indikationerna har två viss indirekt litteratur: s
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | ADHD och narkolepsi (enligt kunskapsgrafen, eftersom godkänd indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Faciodigitogenitalt syndrom |
-| TxGNN-förutsägelsepoäng | 99,998 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Faciodigitogenitalt syndrom (faciodigitogenital syndrome) |
+| TxGNN-förutsägelsepoäng | 1.0000 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 

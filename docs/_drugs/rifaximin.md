@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Rifaximin
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 379
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
-description: "Rifaximin: predikterad ny indikation Oral candidiasis (evidensnivå L4). Ursprunglig indikation: Hepatisk encefalopati, leverkoma (enligt kunskapsgrafen"
 monitor_inn: "RIFAXIMIN"
 predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome", "candidiasis"]
+description: "Rifaximin: predikterad ny indikation Oral candidiasis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Rifaximin
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **6** st
+Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **6** st
 
 </div>
 
-## Rifaximin: Från hepatisk encefalopati till oral candidiasis
+## Rifaximin: Oral candidiasis
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Rifaximin är ett icke-absorberbart antibiotikum som verkar i tarmen och som urs
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Hepatisk encefalopati, leverkoma (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Oral candidiasis |
-| TxGNN-förutsägelsepoäng | 99,7 % |
-| Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 3 |
+| TxGNN-förutsägelsepoäng | 0.9975 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Rifaximin är ett icke-absorberbart antibiotikum som verkar i tarmen och som urs
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är rifaximin ett antibakteriellt läkemedel som knappt tas upp från tarmen och som påverkar tarmens bakterieflora. Dess effekt vid hepatisk encefalopati bygger på denna lokala verkan i tarmen.
 
-Det finns dock ingen etablerad antisvampsmekanism som skulle förklara effekt mot oral candidiasis. Den enda tillgängliga publikationen (PMID 34180023) tyder på motsatsen: antibiotikapåverkan på tarmfloran kan gynna överväxt av Candida. Den höga modellpoängen stöds alltså inte av kliniska data och kan spegla artefakter i kunskapsgrafen.
+Det finns dock ingen etablerad antisvampsmekanism som skulle förklara effekt mot oral candidiasis. Den enda tillgängliga publikationen (PMID 34180023) tyder på motsatsen: antibiotikapåverkan på tarmfloran kan gynna överväxt av Candida. Den höga modellpoängen stöds alltså inte av kliniska data och kan spegla likheter som TxGNN-modellen (djupinlärning) har lärt sig mellan relaterade sjukdomar, inte biologisk evidens.
 
 ---
 

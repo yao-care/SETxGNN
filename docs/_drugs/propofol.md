@@ -50,10 +50,10 @@ Propofol är ett intravenöst narkosmedel som används för att söva och sedera
 |------|------|
 | Ursprunglig indikation | Ingen indikationstext registrerad i de svenska godkännandena (propofol används som anestesi- och sederingsmedel) |
 | Förutsagd ny indikation | Migrän (migraine disorder) |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| TxGNN-förutsägelsepoäng | 0,9969 |
 | Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 11 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 11 av 11) |
+| Antal godkännanden | 11 (giltiga: 11) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

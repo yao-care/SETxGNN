@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 63
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Biperiden: predikterad ny indikation Rasmussens subakuta encefalit (evidensnivå L5). Ursprunglig indikation: Parkinsons sjukdom och relaterade rörelsestörningar (enligt kunskapsg…"
 monitor_inn: "biperiden"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "transaldolase deficiency", "fructose-1,6-bisphosphatase deficiency", "progressive supranuclear palsy-corticobasal syndrome", "paralysis agitans, juvenile, of Hunt", "Lewy body dementia", "attention deficit-hyperactivity disorder", "X-linked intellectual disability-ataxia-apraxia syndrome"]
+last_modified_at: 2026-10-27
+description: "Biperiden: predikterad ny indikation Rasmussens subakuta encefalit (Rasmussen subacute encephalitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Biperiden
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Biperiden: Från Parkinsons sjukdom till Rasmussens subakuta encefalit
+## Biperiden: antikolinergikum (muskarin M1-antagonist) → Rasmussens subakuta encefalit (Rasmussen subacute encephalitis)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Biperiden (Akineton) är ett antikolinergt läkemedel som ursprungligen användes vid Parkinsons sjukdom och närliggande rörelsestörningar, bland annat parkinsonism och dystoni. TxGNN-modellen förutsäger att det kan vara effektivt mot **Rasmussens subakuta encefalit**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna riktning. Förutsägelsen bygger enbart på modellen.
+Biperiden är ett centralt verkande antikolinergt läkemedel som används vid parkinsonism och relaterade rörelsestörningar. TxGNN-modellen förutsäger att det kan vara effektivt mot **Rasmussens subakuta encefalit (Rasmussen subacute encephalitis)**. För denna förutsägelse finns **inga kliniska prövningar** och **ingen publicerad litteratur** i de data som sammanställts för rapporten, så stödet består enbart av modellens förutsägelse.
 
 ---
 
@@ -48,23 +48,23 @@ Biperiden (Akineton) är ett antikolinergt läkemedel som ursprungligen använde
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Parkinsons sjukdom och relaterade rörelsestörningar (enligt kunskapsgrafen; indikationstext saknas i det svenska godkännandet) |
-| Förutsagd ny indikation | Rasmussens subakuta encefalit |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Rasmussens subakuta encefalit (Rasmussen subacute encephalitis) |
+| TxGNN-förutsägelsepoäng | 0,9994 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Biperiden är dock känt som en central muskarin M1-antagonist. Läkemedlet används för att lindra symtom vid parkinsonism och dystoni, där det minskar överaktivitet i det kolinerga systemet.
+Detaljerad data om verkningsmekanismen saknas i de sammanställda uppgifterna. Biperiden är dock känt som en central muskarin M1-antagonist. I prekliniska modeller (till exempel kramper orsakade av nervgifter) har substansen visat antikonvulsiva och neuroskyddande effekter.
 
-Rasmussens encefalit är en immunmedierad, kronisk fokal hjärninflammation med svårbehandlade epileptiska anfall. Biperiden har i prekliniska modeller visat antikonvulsiva och neuroprotektiva effekter, till exempel vid anfall orsakade av nervgift. Det ger ett visst, men svagt, mekanistiskt stöd för att läkemedlet skulle kunna påverka anfallsbördan.
+Rasmussens encefalit är en immunmedierad, kronisk fokal hjärninflammation med svårbehandlade epileptiska anfall. Ett möjligt, men mycket svagt, samband är att biperidens påverkan på kolinerg signalering kan dämpa anfallsaktivitet.
 
-Något samband mellan biperidens verkningssätt och den T-cellsmedierade sjukdomsprocessen vid Rasmussens encefalit har inte visats. Den höga poängen bör därför tolkas försiktigt. Eventuell nytta skulle i bästa fall vara symtomlindrande och inte sjukdomsmodifierande.
+Något samband mellan biperiden och den T-cellsmedierade sjukdomsprocessen vid Rasmussens encefalit har inte visats. Förutsägelsen bör därför ses som en hypotes som saknar experimentellt eller kliniskt stöd.
 
 ---
 
@@ -76,26 +76,23 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Litteraturbevis
 
-Ingen relaterad litteratur tillgänglig för närvarande för Rasmussens subakuta encefalit.
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 6035 | Akineton | Tablett | Avregistrerat |
-
-Tillverkare: Laboratorio Farmaceutico S.I.T. Srl. Det finns inget aktivt godkännande i Sverige.
+| 6035 | Akineton | Tablett | Indikationstext saknas i de lokala uppgifterna |
 
 ---
 
 ### Säkerhetsaspekter
 
-- **Sjukdomar där biperiden enligt kunskapsgrafen är kontraindicerat** (hämtat från kunskapsgrafen, inte från produktresumé): bland annat trangvinkelglaukom och öppenvinkelglaukom, godartad prostataförstoring, paralytisk ileus, akalasi, myasthenia gravis, inflammatorisk tarmsjukdom (inklusive ulcerös kolit), hjärtkärlsjukdomar (kranskärlssjukdom, retledningsstörning, plötsligt hjärtstopp, högt och lågt blodtryck), kroniskt obstruktiv lungsjukdom, magsår samt lever-, njur- och gallblåsesjukdom.
-- **Läkemedelsinteraktioner**: totalt 75 interaktioner är kända. Två av dem bedöms som **allvarliga**: kaliumklorid och kaliumcitrat. Bland de måttliga interaktionerna finns andra antikolinerga läkemedel (atropin, hyoscyamin, dicyklomin, glykopyrronium, propantelin, klidinium, metskopolamin, mepenzolat), opioider (morfin, opium, loperamid, eluxadolin) samt metoklopramid, dronabinol, nabilon och pramlintid.
+- **Läkemedelsinteraktioner**: Totalt 75 interaktioner finns registrerade. De allvarligaste (nivå större) gäller kaliumklorid och kaliumcitrat. Flera andra antikolinerga läkemedel (till exempel atropin, hyoscyamin, dicyklomin, glykopyrronium) samt opioider (morfin, loperamid, opium) och metoklopramid har måttlig interaktionsnivå, framför allt genom additiva antikolinerga effekter.
 
-Produktresumé har inte kunnat hämtas, så säkerhetsinformationen från godkännandet saknas. Se produktresumén för fullständiga varningar och kontraindikationer.
+Produktresumén bör konsulteras för fullständig information om varningar och kontraindikationer.
 
 ---
 
@@ -104,14 +101,13 @@ Produktresumé har inte kunnat hämtas, så säkerhetsinformationen från godkä
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på modellen (evidensnivå L5). Det saknas både kliniska prövningar och litteratur, och ingen koppling till sjukdomens immunologiska mekanism har visats.
-- Läkemedlet har dessutom inget aktivt godkännande i Sverige.
+- Förutsägelsen bygger enbart på modellens poäng, utan kliniska prövningar, litteratur eller etablerad mekanistisk koppling till den T-cellsmedierade sjukdomsprocessen.
 
 **För att gå vidare krävs:**
-- Hämta biperidens verkningsmekanism och produktresumé för att kunna göra en fullständig säkerhetsbedömning.
-- Genomföra en litteratursökning och prekliniska studier som kopplar muskarin M1-antagonism till Rasmussens encefalit.
-- Bedöma om en ny registrering eller ett licensförfarande är möjligt, eftersom godkännandet är avregistrerat.
-- Notera att flera andra förutsägelser i listan är mer rimliga än den första. Det gäller främst PLA2G6-associerad neurodegeneration och juvenil parkinsonism, som ligger nära läkemedlets ursprungliga användning, men även de saknar kliniska data. Förutsägelserna om Lewy body-demens och ADHD ger snarare anledning till säkerhetsoro, eftersom antikolinerga läkemedel kan försämra kognition.
+- Systematisk litteratursökning och prekliniska studier av muskarinantagonism vid Rasmussens encefalit
+- Kartläggning av verkningsmekanismen och dess relevans för sjukdomen
+- Fullständig säkerhetsgranskning utifrån produktresumén, särskilt med tanke på antikolinerga biverkningar och interaktioner
+- Kliniska data i patienter innan någon klinisk bedömning kan göras
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

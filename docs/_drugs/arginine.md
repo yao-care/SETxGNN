@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 40
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Arginine: predikterad ny indikation Gastropares (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i godkännandena (används som…"
 monitor_inn: "arginine"
 predicted_indications: ["gastroparesis (disease)"]
+last_modified_at: 2026-10-27
+description: "Arginine: predikterad ny indikation Gastropares (gastroparesis (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Arginine
@@ -33,94 +33,99 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Arginin: Från parenteral nutrition (aminosyratillförsel) till gastropares
+## Arginin: aminosyra, substrat för kväveoxidsyntas → Gastropares (gastroparesis (disease))
 {: .text-alpha }
 
----
+### Sammanfattning
 
-## Sammanfattning
-
-Arginin är en aminosyra som i Sverige ingått som komponent i flera infusionslösningar för parenteral nutrition, bland annat Glavamin, Vamin och Kabiven-produkterna. TxGNN-modellen förutsäger att arginin kan vara effektivt mot **gastropares** (fördröjd magsäckstömning). Underlaget består av **0 kliniska prövningar** och **8 publikationer**, som alla är prekliniska studier på djur eller en fallrapport.
+Arginin är en aminosyra som ingår i flera infusionslösningar för parenteral nutrition. Enligt TxGNN-modellen kan arginin vara effektivt mot **gastropares (gastroparesis (disease))**. Underlaget består av **0 kliniska prövningar** och **9 publikationer**, som alla är prekliniska studier eller en fallrapport.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns registrerad i godkännandena (används som aminosyrakomponent i parenteral nutrition) |
-| Förutsagd ny indikation | Gastropares |
-| TxGNN-förutsägelsepoäng | 99,4 % |
-| Evidensnivå | L4 (endast prekliniska studier och mekanismstudier) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 20 (samtliga indragna, 0 giltiga) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Gastropares (gastroparesis (disease)) |
+| TxGNN-förutsägelsepoäng | 0,9942 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är arginin en del av aminosyrablandningar för infusion, och dess roll som byggsten i näringstillförsel är väletablerad. Mekanistiskt kan det vara tillämpbart på gastropares via kväveoxidvägen.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Utifrån den litteratur som ingår är L-arginin substrat för neuronalt kväveoxidsyntas (nNOS), som bildar kväveoxid. Kväveoxid är den viktigaste hämmande signalsubstansen för avslappning i magsäckens fundus och i pylorus.
 
-L-arginin är substrat för neuronalt kväveoxidsyntas (nNOS), som bildar kväveoxid (NO). NO är den viktigaste hämmande signalsubstansen för avslappning av magsäckens fundus och pylorus. Förlust av nNOS-uttryckande nerver i tarmens nervplexus och försämrad kvävoxidsignalering är välbeskrivna drag vid både diabetisk och idiopatisk gastropares.
+Förlust av nNOS-uttryckande nerver i tarmens muskelplexus och försämrad kväveoxidsignalering beskrivs vid både diabetisk och idiopatisk gastropares. En prekliniskt studie på möss (PMID 25057793) visar att glukokortikoider framkallar gastropares via utarmning av L-arginin, vilket ger en mekanistisk grund för att tillföra arginin. Studier på råtta (PMID 35380456, 18312542) visar nedsatt nitrerg avslappning och neuropati, i linje med en brist i kväveoxidvägen.
 
-En musstudie (PMID 25057793) visar att glukokortikoider kan orsaka gastropares genom att tömma kroppen på L-arginin, vilket stöder idén om arginintillskott. Flera råttstudier (PMID 35380456, 18312542) visar nedsatt kvävoxidberoende avslappning och nervskada i tarmen, i linje med en brist i NO-vägen. Det finns dock en viktig begränsning: om de nNOS-uttryckande cellerna har gått förlorade, kanske tillskott av substratet inte räcker för att återställa funktionen. Det höga TxGNN-värdet är enbart en beräknad förutsägelse och ersätter inte kliniska belägg.
+Det finns dock en begränsning: i modeller där nNOS-neuronen har gått förlorade kan substrattillskott sakna effekt, eftersom enzymet inte längre produceras. Den höga poängen är en beräkningsmässig förutsägelse och ersätter inte kliniska data.
 
 ---
 
-## Litteraturbevis
+### Kliniska prövningar
+
+Inga relaterade kliniska prövningar registrerade för närvarande.
+
+---
+
+### Litteraturbevis
+
+Ingen av publikationerna är en klinisk studie på människa med arginin vid gastropares. Studierna belyser främst mekanismer och modeller.
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [25057793](https://pubmed.ncbi.nlm.nih.gov/25057793/) | 2014 | Preklinisk (mus) | Endocrinology | Dexametason gav förstorad magsäck och gastropares hos möss; effekten kopplades till brist på L-arginin. |
-| [35380456](https://pubmed.ncbi.nlm.nih.gov/35380456/) | 2022 | Preklinisk (råtta, Parkinsonmodell) | Am J Physiol Gastrointest Liver Physiol | Nedsatt kvävoxidberoende avslappning i pylorus hos råttor med gastropares. |
-| [18312542](https://pubmed.ncbi.nlm.nih.gov/18312542/) | 2008 | Preklinisk (råtta, diabetes) | Neurogastroenterol Motil | Nervskada i tarmens nervplexus och förändrat nNOS-uttryck i diabetesmodell. |
-| [18322959](https://pubmed.ncbi.nlm.nih.gov/18322959/) | 2008 | Preklinisk (mus, diabetes) | World J Gastroenterol | Ghrelin och GHRP-6 undersöktes för effekt på magsäckens motorik vid diabetisk gastropares. |
-| [19023028](https://pubmed.ncbi.nlm.nih.gov/19023028/) | 2009 | Preklinisk (hund) | Am J Physiol Gastrointest Liver Physiol | Elektrisk magstimulering förbättrade försämrad magsäcksanpassning via kvävoxidvägen. |
-| [31984783](https://pubmed.ncbi.nlm.nih.gov/31984783/) | 2020 | Preklinisk (råtta) | Am J Physiol Gastrointest Liver Physiol | Sakral nervstimulering ökade magsäckens anpassning via ryggmärgs- och vagusbanor. |
-| [21193530](https://pubmed.ncbi.nlm.nih.gov/21193530/) | 2011 | Preklinisk | Am J Physiol Gastrointest Liver Physiol | Högt blodsocker hämmar magsäckens motorik via KATP-kanaler i nodosganglierna. |
-| [8194696](https://pubmed.ncbi.nlm.nih.gov/8194696/) | 1994 | Preklinisk (råtta) | Gastroenterology | Fördröjd magsäckstömning vid födoämnesutlöst anafylaxi hos råttor. |
-
-Därutöver ingår en fallrapport (PMID 33867519, 2021, *The American Journal of Case Reports*) om normaliserade laktatnivåer hos en bärare av m.3243A>G, vars koppling till arginin och gastropares är svag.
+| [25057793](https://pubmed.ncbi.nlm.nih.gov/25057793/) | 2014 | Preklinisk (mus) | Endocrinology | Glukokortikoider gav förstorad magsäck och gastropares; effekten kopplas till utarmning av L-arginin. |
+| [35380456](https://pubmed.ncbi.nlm.nih.gov/35380456/) | 2022 | Preklinisk (råtta, Parkinsonmodell) | Am J Physiol Gastrointest Liver Physiol | Nedsatt nitrerg avslappning i pylorus hos råttor med gastropares. |
+| [18312542](https://pubmed.ncbi.nlm.nih.gov/18312542/) | 2008 | Preklinisk (råtta, diabetes) | Neurogastroenterol Motil | Neuropati i tarmens muskelplexus och nNOS-förändringar i diabetesmodell. |
+| [18322959](https://pubmed.ncbi.nlm.nih.gov/18322959/) | 2008 | Preklinisk (mus, diabetes) | World J Gastroenterol | Effekter av ghrelin och GHRP-6 på magsäckens motorik vid diabetisk gastropares. |
+| [21193530](https://pubmed.ncbi.nlm.nih.gov/21193530/) | 2011 | Preklinisk | Am J Physiol Gastrointest Liver Physiol | Hyperglykemi hämmar magsäckens motilitet via KATP-kanaler i ganglion nodosum. |
+| [19023028](https://pubmed.ncbi.nlm.nih.gov/19023028/) | 2009 | Preklinisk (hund) | Am J Physiol Gastrointest Liver Physiol | Elektrisk magstimulering förbättrade försämrad ackommodation via den nitrerga vägen. |
+| [31984783](https://pubmed.ncbi.nlm.nih.gov/31984783/) | 2020 | Preklinisk (råtta) | Am J Physiol Gastrointest Liver Physiol | Sakral nervstimulering ökade magsäckens ackommodation. |
+| [8194696](https://pubmed.ncbi.nlm.nih.gov/8194696/) | 1994 | Preklinisk (råtta) | Gastroenterology | Fördröjd magtömning vid födoämnesinducerad anafylaxi. |
+| [33867519](https://pubmed.ncbi.nlm.nih.gov/33867519/) | 2021 | Fallrapport | Am J Case Reports | Normaliserat serumlaktat hos bärare av m.3243A>G efter livsstilsförändringar; begränsad relevans. |
 
 ---
 
-## Marknadsinformation Sverige
+### Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är indragna. Ingen indikationstext finns registrerad. Nedan visas fem av dem.
+Enligt de lokala uppgifterna är marknadsstatus "Marknadsförd". Listan nedan kan vara ofullständig och indikationstext saknas i de lokala uppgifterna.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 12526 | Glavamin | Infusionsvätska, lösning | – |
-| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | – |
-| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | – |
-| 10095 | Vamin 14 g N/l elektrolytfri | Infusionsvätska, lösning | – |
-| 12423 | Nutrineal PD4 1,1 % Aminosyror | Peritonealdialysvätska | – |
+| 12526 | Glavamin | Infusionsvätska, lösning | Ej angiven |
+| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Ej angiven |
+| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Ej angiven |
+| 10095 | Vamin 14 g N/l elektrolytfri | Infusionsvätska, lösning | Ej angiven |
+| 12423 | Nutrineal PD4 1,1 % Aminosyror | Peritonealdialysvätska | Ej angiven |
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-Varken varningar, kontraindikationer eller läkemedelsinteraktioner finns tillgängliga i den data som sammanställts för denna rapport. Följande kommer från en kunskapsgraf och inte från produkttext:
+Det finns ingen säkerhetsinformation från produktresumé i de sammanställda uppgifterna. Se produktresumén för säkerhetsinformation.
 
-- **Möjliga kontraindikationer enligt kunskapsgrafen (TxGNN/PrimeKG)**: njursjukdom (inklusive kronisk njursvikt och terminal njursvikt), metabol acidos och renal tubulär acidos, hyperkalcemi och hyperparathyroidism, nefrokalcinos och njursten, hjärtsjukdom och kardiovaskulär sjukdom, digitalisförgiftning, kammarflimmer, sicklecellanemi, fenylketonuri och andra rubbningar i fenylalaninomsättningen, sarkoidos, förstoppning samt lytiska skelettmetastaser.
+Sjukdomar där arginin har registrerade kontraindikationsrelationer i modelldata (ej från produkttext) omfattar bland annat kronisk njursjukdom och njursvikt, hyperkalcemi, metabolisk acidos, renal tubulär acidos, hjärt-kärlsjukdom, fenylketonuri, sarkoidos och sicklecellanemi. Dessa bör verifieras mot produktresumén.
 
-Dessa kopplingar bör tolkas försiktigt och verifieras mot produktresumén. Se produktresumén för säkerhetsinformation.
+Inga läkemedelsinteraktioner hittades i de sammanställda uppgifterna.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen är begränsad till djurstudier (L4) utan någon klinisk prövning, och alla svenska godkännanden är indragna. Det höga modellvärdet (99,4 %) är enbart en beräkning, och nNOS-cellförlust vid gastropares kan göra substrattillskott verkningslöst.
+- Underlaget för gastropares består enbart av prekliniska studier och en fallrapport, utan kliniska prövningar, och ingen studie undersöker arginin som behandling av sjukdomen hos människor. Därmed gäller evidensnivå L5, trots den höga modellpoängen.
 
 **För att gå vidare krävs:**
-- Hämta verkningsmekanism från DrugBank och säkerhetsinformation (varningar, kontraindikationer) från produktresumén hos Läkemedelsverket. Det senare är ett blockerande datagap.
-- Prekliniska studier som direkt testar arginintillskott i gastroparesmodeller, inklusive modeller med bevarade respektive förlorade nNOS-nerver.
-- Utvärdera administreringsväg och beredningsform, eftersom alla tidigare produkter var infusionslösningar och ingen giltig licens finns.
-- Vid positiva prekliniska resultat: en liten pilotstudie (fas 2) med noggrann övervakning av njurfunktion och syra-bas-balans, med tanke på kunskapsgrafens kontraindikationer.
+- Kliniska studier som direkt prövar arginin vid gastropares, helst randomiserade och kontrollerade
+- Prekliniska data som visar om arginintillskott återställer funktionen när nNOS-neuron är bevarade respektive förlorade
+- Verkningsmekanismdata och säkerhetsinformation från produktresumé, särskilt avseende njurfunktion och syra-bas-balans
+- Bedömning av administreringsväg, eftersom de godkända produkterna är infusions- och dialysvätskor
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

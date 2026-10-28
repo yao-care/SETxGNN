@@ -8,6 +8,7 @@ nav_order: 89
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-05-04
+predicted_indications: []
 ---
 
 # Metronidazol
@@ -51,8 +52,8 @@ The current data state is insufficient to produce a full repurposing assessment;
 | Predicted New Indication | Not available — predicted_indications list is empty |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Not assessable |
-| Sweden Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| Sweden Market Status | Marknadsförd (giltiga godkännanden: 13 av 13) |
+| Number of Authorizations | 13 (giltiga: 13) |
 | Recommended Decision | **Hold** |
 
 ---

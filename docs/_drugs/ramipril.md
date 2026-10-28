@@ -4,17 +4,17 @@ title: Ramipril
 parent: Endast modellprediktion (L5)
 nav_order: 376
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Ramipril: predikterad ny indikation Pulmonell hypertension orsakad av lungsjukdom och/eller hypoxi (evidensnivå L5). Ursprunglig indikation: Hypertoni…"
 monitor_inn: "RAMIPRIL"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
+description: "Ramipril: predikterad ny indikation Pulmonary hypertension owing to lung disease and/or hypoxia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ramipril
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Ramipril: Från hypertoni till pulmonell hypertension orsakad av lungsjukdom och/eller hypoxi
+## Ramipril: Pulmonary hypertension owing to lung disease and/or hypoxia
 {: .text-alpha }
 
 ---
@@ -50,11 +50,11 @@ men det finns **inga kliniska prövningar** och endast **en relevant djurstudie*
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Hypertoni, stroke och cerebrovaskulär sjukdom (enligt TxGNN:s kunskapsgraf; ingen indikationstext finns i de svenska godkännandena) |
-| Förutsagd ny indikation | Pulmonell hypertension orsakad av lungsjukdom och/eller hypoxi |
-| TxGNN-förutsägelsepoäng | 99,93 % |
-| Evidensnivå | L4 (prekliniska studier) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Pulmonary hypertension owing to lung disease and/or hypoxia |
+| TxGNN-förutsägelsepoäng | 0.9993 |
+| Evidensnivå | L5 (prekliniska studier) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 

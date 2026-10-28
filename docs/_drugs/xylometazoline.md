@@ -4,17 +4,17 @@ title: Xylometazoline
 parent: Måttlig evidens (L3-L4)
 nav_order: 455
 evidence_level: L3
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Xylometazoline: predikterad ny indikation Sjukdomar i näshålan (nasal cavity disease) (evidensnivå L3). Ursprunglig indikation: Faryngit och förkylning (enligt kunskapsgrafen"
 monitor_inn: "xylometazoline"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
+description: "Xylometazoline: predikterad ny indikation Sjukdomar i näshålan (nasal cavity disease) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Xylometazoline
 {: .fs-9 }
 
-Evidensnivå: **L3** | Förutsagda indikationer: **2** st
+Evidensnivå: **L3** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L3** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Xylometazolin: Från faryngit och förkylning till sjukdomar i näshålan
+## Xylometazoline: Sjukdomar i näshålan (nasal cavity disease)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Xylometazolin är en nässlemhinneavsvällande substans (alfa-adrenerg agonist av imidazolintyp) som i den kunskapsgraf modellen bygger på kopplas till faryngit och förkylning. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **sjukdomar i näshålan** (nasal cavity disease), med **0 kliniska prövningar** och **6 publikationer** som för närvarande stöder denna riktning. Observera att denna "nya" indikation till stor del överlappar med läkemedlets befintliga användning (nästäppa), så det rör sig knappast om en genuin återanvändning.
+Xylometazolin är en nässlemhinneavsvällande substans (alfa-adrenerg agonist av imidazolintyp) som är kopplad till faryngit och förkylning. TxGNN-modellen (djupinlärning) förutsäger att läkemedlet kan vara effektivt mot **näshålesjukdom** (nasal cavity disease), med **0 kliniska prövningar** och **6 publikationer** som för närvarande stöder denna riktning. Observera att denna "nya" indikation till stor del överlappar med läkemedlets befintliga användning (nästäppa), så det rör sig knappast om en genuin återanvändning.
 
 ---
 
@@ -48,11 +48,11 @@ Xylometazolin är en nässlemhinneavsvällande substans (alfa-adrenerg agonist a
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Faryngit och förkylning (enligt kunskapsgrafen; ingen indikationstext finns i de svenska godkännandena) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Sjukdomar i näshålan (nasal cavity disease) |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| TxGNN-förutsägelsepoäng | 0.9991 |
 | Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (0 giltiga, 20 avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -115,7 +115,7 @@ För fullständig säkerhetsinformation, se produktresumén.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen är mekanistiskt rimlig men överlappar i stort sett med läkemedlets redan kända användning vid nästäppa, och stödet består av små, huvudsakligen procedurrelaterade studier utan registrerade kliniska prövningar. Alla godkännanden i Sverige är dessutom avregistrerade.
+- Förutsägelsen är mekanistiskt rimlig men överlappar i stort sett med läkemedlets redan kända användning vid nästäppa, och stödet består av små, huvudsakligen procedurrelaterade studier utan registrerade kliniska prövningar. Läkemedlet är dessutom marknadsfört i Sverige med 20 giltiga godkännanden.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé med varningar och kontraindikationer.

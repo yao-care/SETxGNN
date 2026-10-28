@@ -4,17 +4,17 @@ title: Tretinoin
 parent: Endast modellprediktion (L5)
 nav_order: 438
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Tretinoin: predikterad ny indikation Reumatoid nodulos (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext tillgänglig i det svenska registret. En…"
 monitor_inn: "TRETINOIN"
-predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "spondyloarthropathy, susceptibility to", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
+predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
+description: "Tretinoin: predikterad ny indikation Rheumatoid nodulosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Tretinoin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Tretinoin: Från akne och akut promyelocytleukemi till reumatoid nodulos
+## Tretinoin: Rheumatoid nodulosis
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Tretinoin (all-trans-retinsyra) är en retinoid som i kunskapsgrafen är kopplad till behandling av akne, akut promyelocytleukemi, förvärvad keratos och handflats-/fotsulekeratodermi. TxGNN-modellen förutsäger att det kan vara effektivt mot **reumatoid nodulos**, med mycket hög modellpoäng (99,8 %). Det finns dock **inga kliniska prövningar och ingen relevant litteratur** som stöder förutsägelsen, så evidensen är endast modellbaserad.
+TxGNN-modellen förutsäger att det kan vara effektivt mot **reumatoid nodulos**, med mycket hög modellpoäng (0,9980). Det finns dock **inga kliniska prövningar och ingen relevant litteratur** som stöder förutsägelsen, så evidensen är endast modellbaserad.
 
 ---
 
@@ -48,12 +48,12 @@ Tretinoin (all-trans-retinsyra) är en retinoid som i kunskapsgrafen är kopplad
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext tillgänglig i det svenska registret. Enligt kunskapsgrafen: akne, akut promyelocytleukemi, förvärvad keratos, handflats-/fotsulekeratodermi |
-| Förutsagd ny indikation | Reumatoid nodulos |
-| TxGNN-förutsägelsepoäng | 99,8 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Rheumatoid nodulosis |
+| TxGNN-förutsägelsepoäng | 0.9984 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 3 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -130,7 +130,6 @@ Produktresumé för Sverige har inte kunnat hämtas, så varningar och kontraind
 - Hämta och granska produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer.
 - Komplettera verkningsmekanismen via DrugBank.
 - Genomföra en systematisk litteratursökning om retinoider vid reumatoid nodulos och reumatoida tillstånd.
-- Bedöma om förutsägelsen är oberoende evidens eller beror på närliggande artritnoder i kunskapsgrafen.
 - Utreda administreringsväg och beredningsform (det enda tidigare godkända läkemedlet var en topikal gel, vilket kanske inte är lämpligt för reumatologiska tillstånd).
 - Om man vill prioritera inom listan över förutsägelser: Quinquauds follikulit (folliculitis decalvans) är biologiskt mest rimlig, eftersom tretinoin redan används inom dermatologi, men även där saknas kliniska data.
 ## Ansvarsfriskrivning

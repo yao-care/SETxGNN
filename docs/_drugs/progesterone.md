@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Progesterone
-parent: Endast modellprediktion (L5)
+parent: Hög evidens (L1-L2)
 nav_order: 367
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Progesterone: predikterad ny indikation Amenorré (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad hos Läkemedelsverket.…"
 monitor_inn: "progesterone"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "cervix endometriosis", "renal hypoplasia (disease)", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+description: "Progesterone: predikterad ny indikation Amenorré (amenorrhea (disease)) (amenorrhea (disease)) (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Progesterone
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L1** | Förutsagda indikationer: **7** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Progesteron: Från endometrios, endometriecancer och postmenopausal osteoporos till amenorré
+## Progesterone: Amenorré (amenorrhea (disease)) (amenorrhea (disease))
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Progesteron är kroppens eget gulkroppshormon och har ursprungligen använts vid
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad hos Läkemedelsverket. Enligt kunskapsgrafen: endometrios, endometriecancer, postmenopausal osteoporos, postmenopausal atrofisk vaginit |
-| Förutsagd ny indikation | Amenorré |
-| TxGNN-förutsägelsepoäng | 99,9996 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Amenorré (amenorrhea (disease)) (amenorrhea (disease)) |
+| TxGNN-förutsägelsepoäng | 1.0000 |
 | Evidensnivå | L1 enligt den ursprungliga poängsättningen. Min bedömning är dock lägre, se kommentaren nedan |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
@@ -134,10 +134,9 @@ Varningar och kontraindikationer från produktresumén saknas i det sammanställ
 - Hämta varningar och kontraindikationer från produktresumén (saknas i underlaget, vilket hindrar en fullständig säkerhetsgranskning).
 - Komplettera uppgifter om verkningsmekanism från DrugBank.
 - Identifiera eller genomföra prövningar där progesteron eller progestagen testas som separat behandling vid amenorré.
-- Klargöra regulatorisk väg i Sverige, eftersom inga godkännanden är giltiga och ingen godkänd indikationstext finns registrerad.
 - Utreda om kunskapsgrafens kontraindikationer (till exempel lever- och njursjukdom, diabetes) är kliniskt relevanta för målgruppen.
 
-**Övriga förutsägelser (kort):** Övriga nio förutsägelser (bland annat fibrocystisk bröstsjukdom, godartad mammär dysplasi, njurhypoplasi och olika endometriosformer) har svagare stöd (L4–L5) och rekommenderas att avvakta. Flera av dem, som njurhypoplasi, saknar trovärdig mekanistisk koppling och är sannolikt artefakter i kunskapsgrafen. Endometriossubtyperna hör redan till läkemedlets ursprungliga indikation.
+**Övriga förutsägelser (kort):** Övriga nio förutsägelser (bland annat fibrocystisk bröstsjukdom, godartad mammär dysplasi, njurhypoplasi och olika endometriosformer) har svagare stöd (L4–L5) och rekommenderas att avvakta. Endometriossubtyperna hör redan till läkemedlets ursprungliga indikation.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

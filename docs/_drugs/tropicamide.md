@@ -6,9 +6,9 @@ nav_order: 441
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Tropicamide: predikterad ny indikation Cauda equina-syndrom (evidensnivå L5). Ursprunglig indikation: Cykloplegi (enligt kunskapsgrafen"
 monitor_inn: "tropicamide"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
+description: "Tropicamide: predikterad ny indikation Cauda equina-syndrom (cauda equina syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Tropicamide
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Tropikamid: Från cykloplegi till cauda equina-syndrom
+## Tropicamide: Cauda equina-syndrom (cauda equina syndrome)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Tropikamid är ett kortverkande antimuskarint läkemedel som ursprungligen anvä
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Cykloplegi (enligt kunskapsgrafen; godkännandenas indikationstexter är tomma) |
-| Förutsagd ny indikation | Cauda equina-syndrom |
-| TxGNN-förutsägelsepoäng | 99,5 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Cauda equina-syndrom (cauda equina syndrome) |
+| TxGNN-förutsägelsepoäng | 0.9953 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 4 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,14 +64,12 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Sambandet mellan den ursprungliga och den nya indikationen är svagt. Cauda equina-syndrom är en neurologisk akutsjukdom där nerverötterna i ryggmärgskanalens nedre del är komprimerade. Blås-, tarm- och känselstörningarna beror på själva nervkompressionen, och ett antimuskarint läkemedel påverkar inte den. I bästa fall skulle det kunna lindra symtom som överaktiv blåsmuskel.
 
-Den höga poängen (0,995) är sannolikt en följd av grafbaserade samband, till exempel gemensamma kopplingar till neurogen blåsdysfunktion, och inte av kliniskt stöd. Tropikamid ges dessutom som ögondroppar med mycket låg systemisk exponering, vilket försvagar resonemanget ytterligare.
+Den höga poängen (0,9953) är sannolikt en följd av grafbaserade samband, till exempel gemensamma kopplingar till neurogen blåsdysfunktion, och inte av kliniskt stöd. Tropikamid ges dessutom som ögondroppar med mycket låg systemisk exponering, vilket försvagar resonemanget ytterligare.
 
 **Övriga förutsagda indikationer** (alla med evidensnivå L5, utan studier eller litteratur):
 
 | Förutsagd indikation | Poäng | Kommentar |
 |------|------|------|
-| Neurogen blåsa (föråldrad term i ontologin) | 99,1 % | Antimuskarina läkemedel som oxybutynin och tolterodin är redan etablerad behandling. Termen bör uppdateras, till exempel till neurogen detrusoröveraktivitet, före vidare bedömning. |
-| Irritabel tarm (IBS) | 99,1 % | Antimuskarina och spasmolytiska läkemedel används redan mot IBS-smärta. Tropikamid saknar dokumenterad användning i mag-tarmkanalen. |
 
 ---
 

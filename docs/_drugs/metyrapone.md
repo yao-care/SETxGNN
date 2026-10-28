@@ -4,17 +4,17 @@ title: Metyrapone
 parent: Endast modellprediktion (L5)
 nav_order: 289
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Metyrapone: predikterad ny indikation Ansträngningsutlöst malign hypertermi (evidensnivå L5). Ursprunglig indikation: Ej angiven i godkännandet"
 monitor_inn: "metyrapone"
-predicted_indications: ["exercise-induced malignant hyperthermia", "malignant hyperthermia, susceptibility to", "King-Denborough syndrome", "central core myopathy", "moderate multiminicore disease with hand involvement", "congenital multicore myopathy with external ophthalmoplegia", "myopathy, centronuclear", "familial periodic paralysis", "renal tubular acidosis", "malignant hyperthermia of anesthesia"]
+predicted_indications: ["exercise-induced malignant hyperthermia", "King-Denborough syndrome", "central core myopathy", "moderate multiminicore disease with hand involvement", "congenital multicore myopathy with external ophthalmoplegia", "myopathy, centronuclear", "familial periodic paralysis", "renal tubular acidosis", "malignant hyperthermia of anesthesia"]
+description: "Metyrapone: predikterad ny indikation Exercise-induced malignant hyperthermia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Metyrapone
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Metyrapon: Från ursprunglig indikation (ej angiven i godkännandet) till ansträngningsutlöst malign hypertermi
+## Metyrapone: Exercise-induced malignant hyperthermia
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Metyrapon hämmar enzymet 11-beta-hydroxylas (CYP11B1) och används som diagnost
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i godkännandet (diagnostiskt test av hypotalamus–hypofys-funktion och ibland Cushings syndrom enligt farmakologidata) |
-| Förutsagd ny indikation | Ansträngningsutlöst malign hypertermi |
-| TxGNN-förutsägelsepoäng | 99,95 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Exercise-induced malignant hyperthermia |
+| TxGNN-förutsägelsepoäng | 0.9995 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Metyrapon hämmar enzymet 11-beta-hydroxylas (CYP11B1) och används som diagnost
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för denna rapport. Enligt farmakologidata hämmar metyrapon CYP11B1 (11-beta-hydroxylas) och CYP11B2, vilket minskar bildningen av kortisol i binjurarna.
 
-Sambandet mellan den ursprungliga användningen och den nya indikationen är svagt. Malign hypertermi är en störning i skelettmuskelns kalciumhantering, kopplad till generna RYR1 och CACNA1S, och har ingen känd koppling till binjurarnas steroidsyntes. Den höga poängen speglar sannolikt närheten mellan relaterade muskelsjukdomar i kunskapsgrafen snarare än en farmakologisk motivering.
+Sambandet mellan den ursprungliga användningen och den nya indikationen är svagt. Malign hypertermi är en störning i skelettmuskelns kalciumhantering, kopplad till generna RYR1 och CACNA1S, och har ingen känd koppling till binjurarnas steroidsyntes.
 
 Vi bedömer därför att förutsägelsen inte är mekanistiskt rimlig i nuläget. Standardbehandlingen vid malign hypertermi är dantrolen, som verkar direkt på kalciumfrisättningen i muskeln.
 

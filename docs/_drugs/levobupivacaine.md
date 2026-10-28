@@ -6,9 +6,9 @@ nav_order: 259
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Levobupivacaine: predikterad ny indikation Gastroduodenit (evidensnivå L5). Ursprunglig indikation: Ej angiven i licensuppgifterna"
 monitor_inn: "levobupivacaine"
 predicted_indications: ["gastroduodenitis"]
+description: "Levobupivacaine: predikterad ny indikation Gastroduodenitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Levobupivacaine
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Levobupivakain: Från okänd ursprunglig indikation till gastroduodenit
+## Levobupivacaine: Gastroduodenitis
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Levobupivakain är ett långverkande amidlokalanestetikum. Ingen godkänd urspru
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i licensuppgifterna |
-| Förutsagd ny indikation | Gastroduodenit |
-| TxGNN-förutsägelsepoäng | 99,1 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Gastroduodenitis |
+| TxGNN-förutsägelsepoäng | 0.9909 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 Något säkert samband mellan den ursprungliga användningen och gastroduodenit kan inte styrkas med tillgängliga data. En tänkbar men obekräftad förklaring är att lokalanestetika kan påverka smärtsignalering från inre organ (visceral nociception) eller ha en antiinflammatorisk effekt. Det finns dock inga kliniska eller litteraturbaserade belägg för detta.
 
-Det höga poängvärdet (0,991) kommer från en kunskapsgrafsprediktion och ska tolkas med försiktighet. Det är i sig inget bevis för effekt.
+Det höga poängvärdet (0,9909) kommer från en prediktion från TxGNN-modellen (djupinlärning) och ska tolkas med försiktighet. Det är i sig inget bevis för effekt.
 
 ---
 

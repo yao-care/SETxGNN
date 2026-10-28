@@ -6,9 +6,9 @@ nav_order: 290
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Mexiletine: predikterad ny indikation Hypertrikos (evidensnivå L5). Ursprunglig indikation: Anges inte i de svenska godkännandena (indikationstexten är tom). Mex…"
 monitor_inn: "mexiletine"
 predicted_indications: ["hypertrichosis (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "migraine disorder", "isolated genetic hair shaft abnormality", "pulmonary hypertension", "migraine with brainstem aura", "headache disorder"]
+description: "Mexiletine: predikterad ny indikation Hypertrikos (hypertrichosis (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Mexiletine
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Mexiletin: Från kammararytmier till hypertrikos
+## Mexiletine: Hypertrikos (hypertrichosis (disease))
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Mexiletin är en natriumkanalblockerare av klass IB som i allmänhet används mot kammararytmier. Indikationstexten saknas dock i de svenska godkännandena i underlaget. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **hypertrikos** (poäng 99,8 %). Det finns **inga kliniska prövningar och ingen publicerad litteratur** som stöder just denna förutsägelse, så den är enbart beräkningsbaserad.
+Mexiletin är en natriumkanalblockerare av klass IB som i allmänhet används mot kammararytmier. Indikationstexten saknas dock i de svenska godkännandena i underlaget. Det finns **inga kliniska prövningar och ingen publicerad litteratur** som stöder just denna förutsägelse, så den är enbart beräkningsbaserad.
 
 Bland de övriga förutsägelserna har **huvudvärkssjukdomar och migrän** mest stöd (små öppna studier och fallserier). De beskrivs i ett eget avsnitt nedan.
 
@@ -50,12 +50,12 @@ Bland de övriga förutsägelserna har **huvudvärkssjukdomar och migrän** mest
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Anges inte i de svenska godkännandena (indikationstexten är tom). Mexiletin är allmänt känt som antiarytmikum mot kammararytmier. |
-| Förutsagd ny indikation | Hypertrikos |
-| TxGNN-förutsägelsepoäng | 99,8 % (rankning 4926) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Hypertrikos (hypertrichosis (disease)) |
+| TxGNN-förutsägelsepoäng | 0.9978 |
 | Evidensnivå | L5 (endast modellförutsägelse, inga studier) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 3 (alla avregistrerade, 0 giltiga) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ Bland de övriga förutsägelserna har **huvudvärkssjukdomar och migrän** mest
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för denna rapport. Baserat på känd information är mexiletin en natriumkanalblockerare av klass IB. Dess effekt vid kammararytmier är väl belagd, men inget i underlaget kopplar natriumkanalblockad till regleringen av hårväxt.
 
-Förutsägelsen har därför ingen tydlig mekanistisk grund. Hypertrikos, inklusive medfödda former, beror huvudsakligen på utvecklings- eller genetiska mekanismer som inte ingår i mexiletins kända farmakologi. Den höga poängen beror troligen på att sjukdomsnoderna ligger nära varandra i kunskapsgrafen, snarare än på ett verkligt biologiskt samband.
+Förutsägelsen har därför ingen tydlig mekanistisk grund. Hypertrikos, inklusive medfödda former, beror huvudsakligen på utvecklings- eller genetiska mekanismer som inte ingår i mexiletins kända farmakologi.
 
 ---
 
@@ -86,10 +86,8 @@ Två andra förutsägelser har litteratur bakom sig. Ingen av dem har registrera
 
 | Förutsagd indikation | Poäng | Evidensnivå | Viktiga fynd |
 |------|------|------|---------|
-| Migrän | 99,7 % | L3 | Natriumkanalblockad kan minska neuronal hyperexcitabilitet. Stödet kommer från en prospektiv öppen studie med enarmad metaanalys vid SUNCT/SUNA ([33361408](https://pubmed.ncbi.nlm.nih.gov/33361408/), 2021) och en serie om nio patienter med refraktär kronisk daglig huvudvärk ([18793209](https://pubmed.ncbi.nlm.nih.gov/18793209/), 2008). Studierna är okontrollerade och gäller besläktade huvudvärkstyper, inte migrän direkt. |
-| Huvudvärkssjukdom (generellt) | 99,5 % | L3 | Små okontrollerade studier är genomgående positiva: SUNCT/SUNA ([33361408](https://pubmed.ncbi.nlm.nih.gov/33361408/)), intravenöst lidokain och mexiletin vid trigeminala autonoma huvudvärkar ([20425204](https://pubmed.ncbi.nlm.nih.gov/20425204/), 2010), kronisk daglig huvudvärk ([18793209](https://pubmed.ncbi.nlm.nih.gov/18793209/)) och en äldre rapport om vaskulär huvudvärk ([6938859](https://pubmed.ncbi.nlm.nih.gov/6938859/), 1981). |
 
-**Pulmonell hypertension** (poäng 99,6 %, L4) har enbart indirekt prekliniskt stöd. En studie från 2026 ([41518899](https://pubmed.ncbi.nlm.nih.gov/41518899/)) föreslår lidokain, ett närbesläktat läkemedel, som TMEM16A-kloridkanalblockerare. Det är inte visat för mexiletin.
+En studie från 2026 ([41518899](https://pubmed.ncbi.nlm.nih.gov/41518899/)) föreslår lidokain, ett närbesläktat läkemedel, som TMEM16A-kloridkanalblockerare. Det är inte visat för mexiletin.
 
 Övriga förutsägelser (nefrogent syndrom med olämplig antidiures, Ambras-typ av medfödd hypertrikos, missbildningssyndrom med tand- eller parodontal komponent, Dandy-Walker-syndrom, migrän med hjärnstamsaura och isolerad genetisk hårstrukturavvikelse) saknar både studier och mekanistisk motivering.
 
@@ -99,9 +97,9 @@ Två andra förutsägelser har litteratur bakom sig. Ingen av dem har registrera
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 62245 | Dopital | Kapsel, hård | Ej angiven (avregistrerad) |
-| 62246 | Dopital | Kapsel, hård | Ej angiven (avregistrerad) |
-| 62244 | Dopital | Kapsel, hård | Ej angiven (avregistrerad) |
+| 62245 | Dopital | Kapsel, hård | Ej angiven (godkänd) |
+| 62246 | Dopital | Kapsel, hård | Ej angiven (godkänd) |
+| 62244 | Dopital | Kapsel, hård | Ej angiven (godkänd) |
 
 Tillverkare för alla tre: MACURE PHARMA ApS. Inget av godkännandena är giltigt idag.
 

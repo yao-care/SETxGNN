@@ -4,17 +4,17 @@ title: Naratriptan
 parent: Endast modellprediktion (L5)
 nav_order: 311
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Naratriptan: predikterad ny indikation Migrän med hjärnstamsaura (evidensnivå L5). Ursprunglig indikation: Migrän (migrän med eller utan aura). Godkännandetexten saknas i de sa…"
 monitor_inn: "naratriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
+description: "Naratriptan: predikterad ny indikation Atrophoderma vermiculata (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Naratriptan
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **3** st
+Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Naratriptan: Från migrän till migrän med hjärnstamsaura
+## Naratriptan: Atrophoderma vermiculata
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Naratriptan är en selektiv serotoninagonist (triptan) som ursprungligen används för att behandla migrän. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **migrän med hjärnstamsaura**, men detta är en undertyp av den ursprungliga indikationen och inte en egentlig ny sjukdom. Underlaget består av **0 kliniska prövningar** och **20 publikationer** (främst översikter och studier av naratriptan vid migrän i allmänhet, inte specifikt vid hjärnstamsaura).
+Naratriptan är en selektiv serotoninagonist (triptan) som ursprungligen används för att behandla migrän. Underlaget består av **0 kliniska prövningar** och **20 publikationer** (främst översikter och studier av naratriptan vid migrän i allmänhet, inte specifikt vid hjärnstamsaura).
 
 ---
 
@@ -48,12 +48,12 @@ Naratriptan är en selektiv serotoninagonist (triptan) som ursprungligen använd
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Migrän (migrän med eller utan aura). Godkännandetexten saknas i de sammanställda svenska uppgifterna, så uppgiften kommer från kunskapsgrafen |
-| Förutsagd ny indikation | Migrän med hjärnstamsaura |
-| TxGNN-förutsägelsepoäng | 99,98 % |
-| Evidensnivå | L3 (observationsstudier och översikter; inga avslutade fas 3-prövningar för denna undertyp) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 5 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Atrophoderma vermiculata |
+| TxGNN-förutsägelsepoäng | 0.9974 |
+| Evidensnivå | L5 (observationsstudier och översikter; inga avslutade fas 3-prövningar för denna undertyp) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
+| Antal godkännanden | 5 (giltiga: 5) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

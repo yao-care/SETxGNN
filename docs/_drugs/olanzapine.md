@@ -4,17 +4,17 @@ title: Olanzapine
 parent: Endast modellprediktion (L5)
 nav_order: 324
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Olanzapine: predikterad ny indikation Benign paroxysmal torticollis hos spädbarn (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i godkännandedata. Enligt kunskapsgrafen:…"
 monitor_inn: "olanzapine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
+description: "Olanzapine: predikterad ny indikation Benign paroxysmal torticollis of infancy (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Olanzapine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **3** st
+Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Olanzapin: Från bipolär sjukdom och schizofreni till benign paroxysmal torticollis hos spädbarn
+## Olanzapine: Benign paroxysmal torticollis of infancy
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Olanzapin är ett antipsykotiskt läkemedel som ursprungligen användes vid bipo
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns i godkännandedata. Enligt kunskapsgrafen: bipolär sjukdom, egentlig depression, ångestsyndrom och schizofreni |
-| Förutsagd ny indikation | Benign paroxysmal torticollis hos spädbarn |
-| TxGNN-förutsägelsepoäng | 99,5 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Benign paroxysmal torticollis of infancy |
+| TxGNN-förutsägelsepoäng | 0.9954 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
@@ -70,7 +70,7 @@ Säkerheten är dessutom en tydlig oro. Antipsykotika till spädbarn är problem
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna och inga är giltiga i dagsläget. Indikationstext saknas i data för samtliga. Fem av godkännandena visas nedan.
+Indikationstext saknas i data för samtliga. Fem av godkännandena visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -99,8 +99,8 @@ Produktresumé med varningar och kontraindikationer har inte kunnat hämtas, så
 - Förutsägelsen för benign paroxysmal torticollis hos spädbarn saknar helt stöd i kliniska prövningar och litteratur, och risken med antipsykotika hos spädbarn (bland annat dystoni) är betydande. Dessutom saknas giltiga godkännanden i Sverige.
 
 **Övriga förutsagda indikationer (för information):**
-- **Agorafobi** (poäng 99,5 %, L3): Stöd finns i form av en öppen 12-veckorsstudie med 31 patienter med behandlingsresistent panikångest, några fallrapporter och systematiska översikter. Studierna är små och okontrollerade, och ingen gäller agorafobi specifikt. Bedömning: forskningsfråga.
-- **Dystymi** (poäng 99,3 %, L3): Stödet är begränsat till en Cochrane-översikt om andra generationens antipsykotika vid egentlig depression och dystymi samt en liten studie vid borderline personlighetsstörning. Metabola och sederande biverkningar gör nytta–riskbalansen ogynnsam vid ett kroniskt och mildare tillstånd. Bedömning: forskningsfråga.
+- Studierna är små och okontrollerade, och ingen gäller agorafobi specifikt. Bedömning: forskningsfråga.
+- Metabola och sederande biverkningar gör nytta–riskbalansen ogynnsam vid ett kroniskt och mildare tillstånd. Bedömning: forskningsfråga.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé (varningar och kontraindikationer) från Läkemedelsverket.

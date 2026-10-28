@@ -4,17 +4,17 @@ title: Flutamide
 parent: Endast modellprediktion (L5)
 nav_order: 206
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Flutamide: predikterad ny indikation Prostatacancer/hjärncancer-känslighet (evidensnivå L5). Ursprunglig indikation: Prostatacancer (enligt kunskapsgrafen"
 monitor_inn: "flutamide"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
+description: "Flutamide: predikterad ny indikation Fibroma of prostate (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Flutamide
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Flutamid: Från prostatacancer till prostatacancer/hjärncancer-känslighet
+## Flutamide: Fibroma of prostate
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Flutamid är en icke-steroid antiandrogen som ursprungligen användes för behandling av prostatacancer. TxGNN-modellen förutsäger att det kan vara effektivt mot **prostatacancer/hjärncancer-känslighet** (en genetisk predispositionsenhet), men för denna förutsägelse finns **inga kliniska prövningar och ingen publikation** som stöder den. Det är en ren modellförutsägelse och bör tolkas som en signal i kunskapsgrafen, inte som ett kliniskt belägg.
+Flutamid är en icke-steroid antiandrogen som ursprungligen användes för behandling av prostatacancer. TxGNN-modellen förutsäger att det kan vara effektivt mot **prostatacancer/hjärncancer-känslighet** (en genetisk predispositionsenhet), men för denna förutsägelse finns **inga kliniska prövningar och ingen publikation** som stöder den.
 
 ---
 
@@ -48,12 +48,12 @@ Flutamid är en icke-steroid antiandrogen som ursprungligen användes för behan
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Prostatacancer (enligt kunskapsgrafen; ingen indikationstext finns i det svenska godkännandet) |
-| Förutsagd ny indikation | Prostatacancer/hjärncancer-känslighet |
-| TxGNN-förutsägelsepoäng | 99,98 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Fibroma of prostate |
+| TxGNN-förutsägelsepoäng | 0.9998 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,9 +62,9 @@ Flutamid är en icke-steroid antiandrogen som ursprungligen användes för behan
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Baserat på känd information är flutamid en androgenreceptorantagonist, dess effekt vid prostatacancer är väl belagd, och mekanistiskt kan den vara tillämpbar på androgenberoende sjukdomar.
 
-Den höga poängen drivs sannolikt av att förutsägelsen ligger nära prostatacancernoden i kunskapsgrafen. Det finns inga data om genetisk känslighet eller hjärncancer, så sambandet är indirekt och spekulativt.
+Det finns inga data om genetisk känslighet eller hjärncancer, så sambandet är indirekt och spekulativt.
 
-Bland de övriga högt rankade förutsägelserna finns flera där mekanismen är svag eller saknas (t.ex. Brenner-tumör, hiv-infektion, simian och felin immunbristvirusinfektion). Dessa bedöms som sannolika artefakter i grafen.
+Bland de övriga högt rankade förutsägelserna finns flera där mekanismen är svag eller saknas (t.ex. Brenner-tumör, hiv-infektion, simian och felin immunbristvirusinfektion).
 
 ---
 
@@ -146,7 +146,7 @@ Det underlag som tagits fram för produktresumén (varningar och kontraindikatio
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen om prostatacancer/hjärncancer-känslighet är en ren modellsignal (L5) utan kliniska prövningar eller litteratur, och sannolikt driven av närheten till prostatacancer i kunskapsgrafen. Dessutom är flutamids enda svenska godkännande indraget, det finns en känd risk för levertoxicitet, och nyare antiandrogen (bicalutamid, enzalutamid, apalutamid) har till stor del ersatt det.
+- Dessutom är flutamids enda svenska godkännande indraget, det finns en känd risk för levertoxicitet, och nyare antiandrogen (bicalutamid, enzalutamid, apalutamid) har till stor del ersatt det.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén för varningar och kontraindikationer.

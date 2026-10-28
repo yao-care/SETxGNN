@@ -6,9 +6,9 @@ nav_order: 424
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Threonine: predikterad ny indikation Gastropares (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad"
 monitor_inn: "threonine"
 predicted_indications: ["gastroparesis (disease)"]
+description: "Threonine: predikterad ny indikation Gastropares (gastroparesis (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Threonine
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Treonin: Från ingen registrerad indikation till gastropares
+## Threonine: Gastropares (gastroparesis (disease))
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Treonin är en essentiell aminosyra som i Sverige har ingått i bland annat tablettpreparatet Ketosteril och i flera lösningar för parenteral nutrition. Alla 20 godkännanden är numera avregistrerade, och någon ursprunglig indikationstext finns inte i de data som sammanställts för rapporten. TxGNN-modellen förutsäger att treonin kan vara effektivt mot **gastropares** (förlamning av magsäcken), men det finns **0 kliniska prövningar** och **0 publikationer** som stöder detta. Förutsägelsen bygger enbart på modellen.
+Treonin är en essentiell aminosyra som i Sverige har ingått i bland annat tablettpreparatet Ketosteril och i flera lösningar för parenteral nutrition. TxGNN-modellen förutsäger att treonin kan vara effektivt mot **gastropares** (förlamning av magsäcken), men det finns **0 kliniska prövningar** och **0 publikationer** som stöder detta. Förutsägelsen bygger enbart på modellen.
 
 ---
 
@@ -48,11 +48,11 @@ Treonin är en essentiell aminosyra som i Sverige har ingått i bland annat tabl
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext registrerad |
-| Förutsagd ny indikation | Gastropares |
-| TxGNN-förutsägelsepoäng | 99,3 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Gastropares (gastroparesis (disease)) |
+| TxGNN-förutsägelsepoäng | 0.9932 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -62,7 +62,7 @@ Treonin är en essentiell aminosyra som i Sverige har ingått i bland annat tabl
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Treonin är en essentiell aminosyra som ingår i proteinsyntesen och i bildningen av glycin och serin. Den är dessutom en viktig beståndsdel i mucin, det slemämne som skyddar tarmslemhinnan. Det skulle teoretiskt kunna ha betydelse för slemhinnans funktion i mag-tarmkanalen.
 
-Det finns dock inget som kopplar treonin till magsäckens motilitet, till tömningshastigheten eller till de mekanismer som ligger bakom gastropares, såsom Cajals interstitiella celler, nervsystemet i magsäcken eller vagusnerven. Kopplingen är därför spekulativ och stöds inte av de data som finns. Den höga poängen (0,993) är i dagsläget det enda stödet.
+Det finns dock inget som kopplar treonin till magsäckens motilitet, till tömningshastigheten eller till de mekanismer som ligger bakom gastropares, såsom Cajals interstitiella celler, nervsystemet i magsäcken eller vagusnerven. Kopplingen är därför spekulativ och stöds inte av de data som finns. Den höga poängen (0,9932) är i dagsläget det enda stödet.
 
 ---
 
@@ -80,7 +80,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är avregistrerade och inget produkt är för närvarande godkänt. Indikationstext saknas för samtliga. Fem av godkännandena:
+Indikationstext saknas för samtliga. Fem av godkännandena:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -105,7 +105,7 @@ För övrig säkerhetsinformation, se produktresumén.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen stöds endast av modellpoängen (evidensnivå L5). Det finns varken kliniska prövningar, litteratur, känd verkningsmekanism eller någon biologisk förklaring till kopplingen mellan treonin och gastropares. Dessutom är alla svenska godkännanden avregistrerade.
+- Förutsägelsen stöds endast av modellpoängen (evidensnivå L5). Det finns varken kliniska prövningar, litteratur, känd verkningsmekanism eller någon biologisk förklaring till kopplingen mellan treonin och gastropares.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé med varningar och kontraindikationer från MPA.

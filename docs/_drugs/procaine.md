@@ -6,9 +6,9 @@ nav_order: 366
 evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Procaine: predikterad ny indikation Metemoglobinemi (evidensnivå L4). Ursprunglig indikation: Ej angiven (godkännandet saknar indikationstext)"
 monitor_inn: "procaine"
 predicted_indications: ["methemoglobinemia", "methemoglobinemia, alpha type", "Tourette syndrome", "anaphylaxis", "methemoglobin reductase deficiency", "hyperthyroidism", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis"]
+description: "Procaine: predikterad ny indikation Methemoglobinemia (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Procaine
@@ -33,7 +33,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Prokain: Från ej angiven ursprunglig indikation till metemoglobinemi
+## Procaine: Methemoglobinemia
 {: .text-alpha }
 
 ---
@@ -41,7 +41,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 ### Sammanfattning
 
 Prokain är ett lokalbedövningsmedel (en ester av para-aminobensoesyra). I Sverige finns endast ett avregistrerat godkännande, Cardioplexol, en lösning för kardioplegi. Någon godkänd indikationstext finns inte angiven.
-TxGNN-modellen förutsäger att prokain kan vara effektivt mot **metemoglobinemi**, men det finns **inga kliniska prövningar** och endast **5 publikationer**. Litteraturen visar dessutom att prokain *orsakar* metemoglobinemi snarare än behandlar den, så förutsägelsen är sannolikt en artefakt i kunskapsgrafen.
+TxGNN-modellen förutsäger att prokain kan vara effektivt mot **metemoglobinemi**, men det finns **inga kliniska prövningar** och endast **5 publikationer**.
 
 ---
 
@@ -49,12 +49,12 @@ TxGNN-modellen förutsäger att prokain kan vara effektivt mot **metemoglobinemi
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven (godkännandet saknar indikationstext) |
-| Förutsagd ny indikation | Metemoglobinemi |
-| TxGNN-förutsägelsepoäng | 99,5 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Methemoglobinemia |
+| TxGNN-förutsägelsepoäng | 0.9950 |
 | Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -63,7 +63,7 @@ TxGNN-modellen förutsäger att prokain kan vara effektivt mot **metemoglobinemi
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Prokain är ett lokalbedövningsmedel av estertyp, och det är allmänt känt att sådana läkemedel blockerar natriumkanaler. Farmakologiska data pekar på möjlig koppling till ryanodinreceptorerna RyR1 och RyR2, men underlag för bioaktivitet vid dessa mål saknas.
 
-Det finns ingen rimlig mekanism som talar för en behandlande effekt vid metemoglobinemi. Publicerade fallrapporter visar tvärtom att prokain (bland annat givet intravenöst) kan **orsaka** metemoglobinemi. Det höga modellvärdet speglar därför troligen ett samband mellan läkemedel och sjukdom i kunskapsgrafen som rör en biverkan, inte en terapeutisk effekt. Säkerhetssignalen går alltså i motsatt riktning mot den föreslagna användningen.
+Det finns ingen rimlig mekanism som talar för en behandlande effekt vid metemoglobinemi. Publicerade fallrapporter visar tvärtom att prokain (bland annat givet intravenöst) kan **orsaka** metemoglobinemi. Säkerhetssignalen går alltså i motsatt riktning mot den föreslagna användningen.
 
 ---
 
@@ -83,7 +83,7 @@ Det finns ingen rimlig mekanism som talar för en behandlande effekt vid metemog
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 54736 | Cardioplexol | Lösning för kardioplegi | Ej angiven (avregistrerad) |
+| 54736 | Cardioplexol | Lösning för kardioplegi | Ej angiven (godkänd) |
 
 ---
 

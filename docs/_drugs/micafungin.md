@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Micafungin
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 292
-evidence_level: L5
+evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Micafungin: predikterad ny indikation Urinvägsinfektion (urinary tract infection) (evidensnivå L5). Ursprunglig indikation: Esofagal candidiasis, candidemi…"
 monitor_inn: "micafungin"
 predicted_indications: ["urinary tract infection (disease)"]
+description: "Micafungin: predikterad ny indikation Urinvägsinfektion (urinary tract infection (disease)) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Micafungin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **1** st
+Evidensnivå: **L3** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Mikafungin: Från esofagal candidiasis, candidemi och disseminerad candidiasis till urinvägsinfektion
+## Micafungin: Urinvägsinfektion (urinary tract infection (disease))
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Mikafungin är ett antimykotikum av echinocandin-typen som ursprungligen använd
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Esofagal candidiasis, candidemi, disseminerad candidiasis (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Urinvägsinfektion (urinary tract infection) |
-| TxGNN-förutsägelsepoäng | 99,0 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Urinvägsinfektion (urinary tract infection (disease)) |
+| TxGNN-förutsägelsepoäng | 0.9903 |
 | Evidensnivå | L3 (observationsstudier, inga avslutade RCT) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 9 (0 giltiga, 9 indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
+| Antal godkännanden | 9 (giltiga: 9) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 De ursprungliga indikationerna (candidemi, esofagal och disseminerad candidiasis) orsakas av samma Candida-arter som står bakom de flesta svampinfektioner i urinvägarna. Det är därför biologiskt rimligt att mikafungin har effekt mot Candida även där.
 
-Det finns dock en farmakokinetisk invändning: echinocandiner anses traditionellt utsöndras i begränsad omfattning via urinen. En studie (PMID 27424599) rapporterade ändå urinkoncentrationer av mikafungin som var tillräckliga för att behandla Candida-urinvägsinfektion. Det höga TxGNN-värdet (0,99) stämmer med resonemanget, men är en beräknad förutsägelse och inte klinisk evidens.
+Det finns dock en farmakokinetisk invändning: echinocandiner anses traditionellt utsöndras i begränsad omfattning via urinen. En studie (PMID 27424599) rapporterade ändå urinkoncentrationer av mikafungin som var tillräckliga för att behandla Candida-urinvägsinfektion. Det höga TxGNN-värdet (0,9903) stämmer med resonemanget, men är en beräknad förutsägelse och inte klinisk evidens.
 
 ---
 

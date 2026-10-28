@@ -6,9 +6,9 @@ nav_order: 416
 evidence_level: L1
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Terbutaline: predikterad ny indikation Obstruktiv lungsjukdom (evidensnivå L1). Ursprunglig indikation: Astma"
 monitor_inn: "terbutaline"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
+description: "Terbutaline: predikterad ny indikation Obstructive lung disease (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Terbutaline
@@ -33,7 +33,7 @@ Evidensnivå: **L1** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Terbutalin: Från astma till obstruktiv lungsjukdom
+## Terbutaline: Obstructive lung disease
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Terbutalin är en selektiv beta-2-agonist som ursprungligen används mot astma, 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Astma (godkänd indikationstext saknas i svenska licensdata; uppgiften kommer från kunskapsgrafen) |
-| Förutsagd ny indikation | Obstruktiv lungsjukdom |
-| TxGNN-förutsägelsepoäng | 99,96 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Obstructive lung disease |
+| TxGNN-förutsägelsepoäng | 0.9996 |
 | Evidensnivå | L1 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 4 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -140,7 +140,7 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas för 
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Evidensen för luftvägsobstruktion är stark och mekanismen väl etablerad. Indikationen är dock i praktiken redan känd, och inga giltiga godkännanden finns i Sverige. Säkerhetsdata från produktresumén saknas, vilket är ett blockerande dataglapp.
+- Evidensen för luftvägsobstruktion är stark och mekanismen väl etablerad. Säkerhetsdata från produktresumén saknas, vilket är ett blockerande dataglapp.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé (varningar och kontraindikationer) från Läkemedelsverket.
@@ -150,8 +150,8 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas för 
 - Överväga kardiovaskulär och metabol säkerhet hos patienter med samsjuklighet (till exempel hjärt-kärlsjukdom, diabetes, hypertyreos).
 
 **Övriga förutsägelser (kortfattat):**
-- *Respiratorisk missbildning* (poäng 99,5 %, L4): Indirekt koppling och ingen sjukdomsspecifik evidens. Rekommendation: avvakta.
-- *Rienhoff syndrom* (poäng 99,4 %, L5): Enbart en beräkningsmässig hypotes utan studier eller litteratur. Rekommendation: avvakta.
+- Rekommendation: avvakta.
+- Rekommendation: avvakta.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

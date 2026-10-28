@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Finasteride
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 197
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
-description: "Finasteride: predikterad ny indikation Hypertrikos (evidensnivå L4). Ursprunglig indikation: Benign prostatahyperplasi (enligt TxGNN-kunskapsgrafen"
 monitor_inn: "finasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
+description: "Finasteride: predikterad ny indikation Ambras type hypertrichosis universalis congenita (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Finasteride
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **6** st
+Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L4** | Förutsagda indikationer: **6** st
 
 </div>
 
-## Finasterid: Från benign prostatahyperplasi till hypertrikos
+## Finasteride: Ambras type hypertrichosis universalis congenita
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Finasterid är en 5-alfa-reduktashämmare som ursprungligen användes vid behandling av **benign prostatahyperplasi (BPH)**. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **hypertrikos** (poäng 99,99 %), men underlaget består endast av **4 översiktsartiklar (1999–2003)** och **inga kliniska prövningar**. Evidensen är därför indirekt och svag.
+Finasterid är en 5-alfa-reduktashämmare som ursprungligen användes vid behandling av **benign prostatahyperplasi (BPH)**. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **hypertrikos** (poäng 0,9999), men underlaget består endast av **4 översiktsartiklar (1999–2003)** och **inga kliniska prövningar**. Evidensen är därför indirekt och svag.
 
 > **Observera:** Den högst rankade förutsägelsen (Ambras-typ av hypertrichosis universalis congenita) saknar helt prövningar och litteratur. Rapporten fokuserar därför på förutsägelse nr 2, hypertrikos, som är den högst rankade med faktiskt litteraturunderlag.
 
@@ -50,12 +50,12 @@ Finasterid är en 5-alfa-reduktashämmare som ursprungligen användes vid behand
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Benign prostatahyperplasi (enligt TxGNN-kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Hypertrikos |
-| TxGNN-förutsägelsepoäng | 99,99 % |
-| Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 16 (samtliga avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Ambras type hypertrichosis universalis congenita |
+| TxGNN-förutsägelsepoäng | 0.9999 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 16 av 16) |
+| Antal godkännanden | 16 (giltiga: 16) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -66,7 +66,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 Kopplingen till hypertrikos är dock svag. Hypertrikos definieras som ökad hårväxt i icke-androgenberoende områden, medan finasterids effekt förutsätter ett androgenberoende hårsäcksmönster. Ett eventuellt fördelaktigt resultat vore därför mer sannolikt vid hirsutism än vid äkta hypertrikos.
 
-Det höga modellpoängen speglar sannolikt närhet till hårrelaterade sjukdomar i kunskapsgrafen snarare än ett påvisat biologiskt samband. Övriga förutsägelser (Ambras-syndrom, tandrelaterade missbildningssyndrom, Dandy-Walker-syndrom, genetiska hårstråavvikelser och familjär trikomegali) saknar både prövningar och litteratur, och för flera av dem finns ingen rimlig mekanism. För Dandy-Walker-syndrom är dessutom finasterid olämpligt eftersom det är teratogent (risk för feminisering av manliga foster).
+Övriga förutsägelser (Ambras-syndrom, tandrelaterade missbildningssyndrom, Dandy-Walker-syndrom, genetiska hårstråavvikelser och familjär trikomegali) saknar både prövningar och litteratur, och för flera av dem finns ingen rimlig mekanism. För Dandy-Walker-syndrom är dessutom finasterid olämpligt eftersom det är teratogent (risk för feminisering av manliga foster).
 
 ---
 
@@ -91,15 +91,15 @@ Samtliga artiklar är allmänna översikter eller metodbeskrivningar. Ingen av d
 
 ### Marknadsinformation Sverige
 
-Alla 16 godkännanden är avregistrerade, och något giltigt godkännande finns för närvarande inte. Indikationstext finns inte angiven i de sammanställda uppgifterna. Fem av godkännandena (samtliga filmdragerade tabletter för oral användning):
+Indikationstext finns inte angiven i de sammanställda uppgifterna. Fem av godkännandena (samtliga filmdragerade tabletter för oral användning):
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 23052 | Finpros (Krka) | Filmdragerad tablett | Avregistrerad |
-| 13483 | Propecia (Organon) | Filmdragerad tablett | Avregistrerad |
-| 21113 | Finasterid STADA | Filmdragerad tablett | Avregistrerad |
-| 43933 | Finasteride Accord | Filmdragerad tablett | Avregistrerad |
-| 26771 | Finasteride Teva | Filmdragerad tablett | Avregistrerad |
+| 23052 | Finpros (Krka) | Filmdragerad tablett | Godkänd |
+| 13483 | Propecia (Organon) | Filmdragerad tablett | Godkänd |
+| 21113 | Finasterid STADA | Filmdragerad tablett | Godkänd |
+| 43933 | Finasteride Accord | Filmdragerad tablett | Godkänd |
+| 26771 | Finasteride Teva | Filmdragerad tablett | Godkänd |
 
 ---
 
@@ -125,7 +125,6 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 - Komplettera uppgifterna om verkningsmekanism via DrugBank.
 - Söka efter primärstudier (RCT eller observationsstudier) av finasterid vid hypertrikos eller hirsutism.
 - Överväga att utvärdera hirsutism som en mer mekanistiskt rimlig indikation.
-- Klargöra de regulatoriska förutsättningarna, eftersom alla svenska godkännanden är avregistrerade.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

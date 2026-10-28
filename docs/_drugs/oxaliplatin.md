@@ -6,9 +6,9 @@ nav_order: 329
 evidence_level: L2
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Oxaliplatin: predikterad ny indikation Malignt pleuralt mesoteliom (evidensnivå L2). Ursprunglig indikation: Metastaserad koloncancer (enligt kunskapsgrafen"
 monitor_inn: "OXALIPLATIN"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
+description: "Oxaliplatin: predikterad ny indikation Malignant pleural mesothelioma (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Oxaliplatin
@@ -33,7 +33,7 @@ Evidensnivå: **L2** | Förutsagda indikationer: **4** st
 
 </div>
 
-## Oxaliplatin: Från metastaserad koloncancer till malignt pleuralt mesoteliom
+## Oxaliplatin: Malignant pleural mesothelioma
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Oxaliplatin är ett platinabaserat cytostatikum som ursprungligen användes vid 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Metastaserad koloncancer (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Malignt pleuralt mesoteliom |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Malignant pleural mesothelioma |
+| TxGNN-förutsägelsepoäng | 0.9968 |
 | Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 6 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

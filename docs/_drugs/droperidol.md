@@ -6,9 +6,9 @@ nav_order: 154
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Droperidol: predikterad ny indikation Tourettes syndrom (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad i de svenska godkännandena"
 monitor_inn: "DROPERIDOL"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "manic bipolar affective disorder", "attention deficit hyperactivity disorder, inattentive type", "nephrogenic syndrome of inappropriate antidiuresis", "attention deficit-hyperactivity disorder", "headache disorder", "common cold", "hypertrichosis (disease)", "specific developmental disorder"]
+description: "Droperidol: predikterad ny indikation Tourette syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Droperidol
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Droperidol: Från ej angiven ursprunglig indikation till Tourettes syndrom
+## Droperidol: Tourette syndrome
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Droperidol är ett neuroleptikum av butyrofenontyp som ges som injektion. Den ursprungliga godkända indikationen finns inte angiven i de svenska godkännandena. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **Tourettes syndrom** med mycket hög modellpoäng (**99,9 %**). Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder just denna förutsägelse, så evidensen är enbart modellbaserad.
+Droperidol är ett neuroleptikum av butyrofenontyp som ges som injektion. Den ursprungliga godkända indikationen finns inte angiven i de svenska godkännandena. Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder just denna förutsägelse, så evidensen är enbart modellbaserad.
 
 ---
 
@@ -48,12 +48,12 @@ Droperidol är ett neuroleptikum av butyrofenontyp som ges som injektion. Den ur
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext registrerad i de svenska godkännandena |
-| Förutsagd ny indikation | Tourettes syndrom |
-| TxGNN-förutsägelsepoäng | 99,89 % (rank 300) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Tourette syndrome |
+| TxGNN-förutsägelsepoäng | 0.9989 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 5 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
+| Antal godkännanden | 5 (giltiga: 5) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -90,7 +90,6 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 | 64546 | Droperidol Aguettant | Injektionsvätska, lösning | Ej angiven |
 | 62983 | Droperidol Sintetica | Injektionsvätska, lösning | Ej angiven |
 
-Alla fem godkännanden är avregistrerade, så det finns för närvarande inga giltiga droperidolprodukter på den svenska marknaden.
 
 ---
 

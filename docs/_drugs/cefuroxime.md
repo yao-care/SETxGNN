@@ -4,17 +4,17 @@ title: Cefuroxime
 parent: Endast modellprediktion (L5)
 nav_order: 88
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Cefuroxime: predikterad ny indikation Hyperamylasemi (evidensnivå L5). Ursprunglig indikation: Bakteriella infektioner, bl.a. infektiös mediaotit…"
+indication_count: 9
 monitor_inn: "cefuroxime"
-predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "urinary tract infection (disease)", "premalignant hematological system disease", "monoclonal gammopathy", "suppurative otitis media", "hematological disease associated with an acquired peripheral neuropathy"]
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "urinary tract infection (disease)", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
+last_modified_at: 2026-10-27
+description: "Cefuroxime: predikterad ny indikation Hyperamylasemi (hyperamylasemia) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Cefuroxime
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,12 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Cefuroxim: Från infektionssjukdomar (bl.a. infektiös mediaotit) till hyperamylasemi
+## Cefuroxim: cefalosporin av andra generationen → Hyperamylasemi (hyperamylasemia)
 {: .text-alpha }
-
----
 
 ## Sammanfattning
 
-Cefuroxim är ett cefalosporinantibiotikum av andra generationen. Det har använts mot bakterieinfektioner som infektiös mediaotit, bakteriell pneumoni, bakteriell meningit och gonorré. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **hyperamylasemi**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder detta. Förutsägelsen bygger enbart på modellens nätverksanalys, och något rimligt biologiskt samband kan inte identifieras.
+Cefuroxim är ett cefalosporinantibiotikum av andra generationen. TxGNN-modellen förutsäger att det kan vara effektivt mot **hyperamylasemi (hyperamylasemia)**, men för denna förutsägelse finns **inga kliniska prövningar och ingen publicerad litteratur**. Förutsägelsen bygger enbart på modellen.
 
 ---
 
@@ -48,50 +46,60 @@ Cefuroxim är ett cefalosporinantibiotikum av andra generationen. Det har använ
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Bakteriella infektioner, bl.a. infektiös mediaotit, bakteriell pneumoni och bakteriell meningit (hämtat från kunskapsgrafen, eftersom indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Hyperamylasemi |
-| TxGNN-förutsägelsepoäng | 99,76 % |
-| Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 10 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Hyperamylasemi (hyperamylasemia) |
+| TxGNN-förutsägelsepoäng | 0,9976 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
+| Antal godkännanden | 10 (giltiga: 10) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är cefuroxim ett betalaktamantibiotikum (cefalosporin). Dess effekt vid bakterieinfektioner är väletablerad, men mekanistiskt är det svårt att se hur det skulle vara tillämpbart på hyperamylasemi.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Cefuroxim är ett betalaktamantibiotikum av cefalosporintyp som i allmänhet hämmar bakteriers cellväggssyntes.
 
-Hyperamylasemi är ett laboratoriefynd, förhöjt amylas i blodet. Det kan bero på sjukdomar i bukspottkörteln eller spottkörtlarna, njursjukdom eller läkemedelsbiverkningar. Det är ingen bakteriell infektion som ett antibiotikum behandlar. Något känt samband mellan cefuroxim och amylasnivåer finns inte.
+Det finns ingen känd antibakteriell mekanism som kopplar cefuroxim till hyperamylasemi, som är en förhöjd nivå av amylas i blodet. Hyperamylasemi är ett laboratoriefynd snarare än en infektion. Den höga poängen är en modellbaserad förutsägelse och saknar stöd i studier eller publikationer. Mekanistiskt är därför förutsägelsen svag.
 
-Den höga poängen (99,76 %) bör därför tolkas som ett resultat av grafbaserad nätverksanalys och inte som ett tecken på verklig terapeutisk potential. Samma poäng fick även "polyklonalt hyperviskositetssyndrom", vilket tyder på att poängen i det här intervallet inte skiljer väl mellan trovärdiga och osannolika kandidater.
+---
+
+## Kliniska prövningar
+
+Inga relaterade kliniska prövningar registrerade för närvarande.
+
+---
+
+## Litteraturbevis
+
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
 ## Marknadsinformation Sverige
 
-Samtliga 10 godkännanden är indragna. Ingen indikationstext finns registrerad. De fem första visas nedan.
+Enligt de lokala data finns 10 godkännanden för enkomponentsprodukter med cefuroxim. Ingen indikationstext finns registrerad i de lokala data. De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 25237 | Cefuroxim Navamedic | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext registrerad |
-| 50970 | Zinacef | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext registrerad |
-| 46356 | Cefuroxim MIP | Pulver till injektionsvätska, lösning | Ingen indikationstext registrerad |
-| 46149 | Aprokam | Pulver till injektionsvätska, lösning | Ingen indikationstext registrerad |
-| 46357 | Cefuroxim MIP | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext registrerad |
+| 25237 | Cefuroxim Navamedic | Pulver till injektions-/infusionsvätska, lösning | Ej angiven |
+| 50970 | Zinacef | Pulver till injektions-/infusionsvätska, lösning | Ej angiven |
+| 46356 | Cefuroxim MIP | Pulver till injektionsvätska, lösning | Ej angiven |
+| 46149 | Aprokam | Pulver till injektionsvätska, lösning | Ej angiven |
+| 46357 | Cefuroxim MIP | Pulver till injektions-/infusionsvätska, lösning | Ej angiven |
 
 ---
 
 ## Säkerhetsaspekter
 
-- **Sjukdomar som i kunskapsgrafen är kopplade till kontraindikation** (inte hämtat från produktresumétext): njursjukdom, pyoureter, leversjukdom, gallblåsesjukdom, koagulationsrubbning, *Clostridium difficile*-kolit, perinatal nekrotiserande enterokolit och medfödd protrombinbrist.
-- **Läkemedelsinteraktioner:** 143 interaktioner är registrerade. De 20 som visas i underlaget är alla av måttlig allvarlighetsgrad:
-  - Syrahämmare: famotidin, ranitidin, cimetidin, nizatidin samt protonpumpshämmare (omeprazol, esomeprazol, lansoprazol, dexlansoprazol, pantoprazol, rabeprazol)
-  - Antacida: aluminiumhydroxid, kalciumkarbonat, magaldrat, magnesiumkarbonat, magnesiumhydroxid, magnesiumoxid
-  - Aminoglykosider: kanamycin, neomycin
+- **Läkemedelsinteraktioner**: Totalt 143 interaktioner har identifierats. De som visas är av måttlig svårighetsgrad, bland annat:
+  - Protonpumpshämmare (omeprazol, esomeprazol, lansoprazol, pantoprazol, rabeprazol, dexlansoprazol)
+  - H2-blockerare (famotidin, ranitidin, cimetidin, nizatidin)
+  - Antacida (aluminiumhydroxid, kalciumkarbonat, magnesiumhydroxid, magnesiumoxid, magnesiumkarbonat, magaldrat)
+  - Aminoglykosider (kanamycin, neomycin)
   - Balsalazid
 
-Se produktresumén för fullständiga varningar och kontraindikationer.
+Se produktresumén för fullständig information om varningar och kontraindikationer.
 
 ---
 
@@ -100,14 +108,12 @@ Se produktresumén för fullständiga varningar och kontraindikationer.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för hyperamylasemi stöds varken av kliniska prövningar, litteratur eller något tänkbart verkningssätt. Dessutom saknar cefuroxim för närvarande giltiga godkännanden i Sverige.
-- Bland de övriga förutsägelserna har urinvägsinfektion (L3, 5 prövningar och ett 20-tal publikationer) och suppurativ otitis media (L4) mest underlag. Båda ligger dock nära läkemedlets redan etablerade antibakteriella användning och är knappast egentlig läkemedelsåteranvändning. Om man vill gå vidare är de mer meningsfulla att utvärdera än hyperamylasemi.
+- Förutsägelsen om hyperamylasemi saknar både kliniska prövningar och litteratur, och det finns ingen rimlig farmakologisk mekanism. Evidensnivån är L5.
 
 **För att gå vidare krävs:**
-- Verkningsmekanismdata för cefuroxim, för att kunna bedöma eventuella mekanistiska samband.
-- Säkerhetsinformation från produktresumén (varningar och kontraindikationer), som saknas i underlaget.
-- Prekliniska eller kliniska data som visar någon effekt på amylasnivåer. Det finns i dagsläget inga sådana data.
-- Beslut om en eventuell fortsatt utvärdering ska gälla en mer välunderbyggd kandidat, t.ex. urinvägsinfektion, i stället för hyperamylasemi.
+- Någon form av klinisk eller experimentell evidens som direkt studerar cefuroxim vid hyperamylasemi
+- En trovärdig mekanistisk hypotes som skiljer sig från läkemedlets antibakteriella verkan
+- Komplettering av varningar och kontraindikationer från produktresumén
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

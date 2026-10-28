@@ -6,9 +6,9 @@ nav_order: 309
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Naphazoline: predikterad ny indikation Hypotrichosis simplex i hårbotten (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad i licensen. Enligt farmakologidata…"
 monitor_inn: "naphazoline"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "primary hereditary glaucoma", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "open-angle glaucoma", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
+description: "Naphazoline: predikterad ny indikation Hypotrichosis simplex of the scalp (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Naphazoline
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Naphazolin: Från ögonrodnad (ingen godkänd indikationstext registrerad) till hypotrichosis simplex i hårbotten
+## Naphazoline: Hypotrichosis simplex of the scalp
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Naphazolin är en alfa-adrenerg vasokonstriktor som används i ögondroppar för
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext registrerad i licensen. Enligt farmakologidata används naphazolin för att minska ögonrodnad |
-| Förutsagd ny indikation | Hypotrichosis simplex i hårbotten |
-| TxGNN-förutsägelsepoäng | 99,8 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Hypotrichosis simplex of the scalp |
+| TxGNN-förutsägelsepoäng | 0.9983 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Något rimligt samband mellan den ursprungliga användningen (ögonrodnad) och den förutsagda indikationen kunde inte hittas. Hypotrichosis simplex är en ärftlig störning i hårfollikelns utveckling. Vasokonstriktion åtgärdar inte den genetiska orsaken och skulle snarare förväntas minska blodflödet i hårbotten.
 
-Den höga poängen är sannolikt ett resultat av likheter i kunskapsgrafen mellan hårrelaterade sjukdomar, inte av en farmakologisk förklaring. Samma mönster syns bland de övriga förutsägelserna: kongenital hypotrichosis milia, diffus alopecia areata, alopeci, hypertrichosis (motsatt fenotyp), Ambras syndrom, glaukom, missbildningssyndrom och Dandy-Walker-syndrom. Ingen av dem har stöd i studier eller i en känd mekanism.
+Samma mönster syns bland de övriga förutsägelserna: kongenital hypotrichosis milia, diffus alopecia areata, alopeci, hypertrichosis (motsatt fenotyp), Ambras syndrom, glaukom, missbildningssyndrom och Dandy-Walker-syndrom. Ingen av dem har stöd i studier eller i en känd mekanism.
 
 ---
 
@@ -94,7 +94,6 @@ Följande kommer från kunskapsgrafen (läkemedels-sjukdomskopplingar som kontra
 - Verkningsmekanismdata, som saknas i underlaget.
 - Produktresumé från Läkemedelsverket med varningar och kontraindikationer, vilket är ett blockerande datagap för säkerhetsbedömning.
 - En biologisk hypotes som förklarar hur en alfa-adrenerg agonist skulle kunna påverka hårväxt, med prekliniska data som stöd.
-- Kontroll av om förutsägelsen kan förklaras av artefakter i kunskapsgrafen innan resurser läggs på vidare utvärdering.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

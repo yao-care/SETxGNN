@@ -6,9 +6,9 @@ nav_order: 378
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Rifampicin: predikterad ny indikation Konjunktivit (evidensnivå L3). Ursprunglig indikation: Lungtuberkulos (enligt kunskapsgrafen"
 monitor_inn: "RIFAMPICIN"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
+description: "Rifampicin: predikterad ny indikation Konjunktivit (conjunctivitis) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Rifampicin
@@ -33,14 +33,14 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Rifampicin: Från lungtuberkulos till konjunktivit
+## Rifampicin: Konjunktivit (conjunctivitis)
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Rifampicin är ett antibiotikum som ursprungligen används för att behandla **lungtuberkulos**. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **konjunktivit** (bakteriell ögoninflammation), med en förutsägelsepoäng på cirka 99,9 %. Evidensen utgörs av **ingen registrerad klinisk prövning** och **19 publikationer**, varav de mest relevanta är äldre studier från 1970-talet om rifampicinsalva vid trakom och klamydiainfektion i ögat.
+Rifampicin är ett antibiotikum som ursprungligen används för att behandla **lungtuberkulos**. Evidensen utgörs av **ingen registrerad klinisk prövning** och **19 publikationer**, varav de mest relevanta är äldre studier från 1970-talet om rifampicinsalva vid trakom och klamydiainfektion i ögat.
 
 ---
 
@@ -48,12 +48,12 @@ Rifampicin är ett antibiotikum som ursprungligen används för att behandla **l
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Lungtuberkulos (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Konjunktivit |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Konjunktivit (conjunctivitis) |
+| TxGNN-förutsägelsepoäng | 0.9995 |
 | Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 8 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
+| Antal godkännanden | 8 (giltiga: 8) |
 | Rekommenderat beslut | Avvakta |
 
 ---

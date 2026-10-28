@@ -6,9 +6,9 @@ nav_order: 454
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Xylitol: predikterad ny indikation Meningokockinfektion (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad (produkten är en lösning för kardio…"
 monitor_inn: "XYLITOL"
 predicted_indications: ["meningococcal infection"]
+description: "Xylitol: predikterad ny indikation Meningococcal infection (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Xylitol
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Xylitol: Från ospecificerad indikation till meningokockinfektion
+## Xylitol: Meningococcal infection
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Xylitol har i Sverige varit godkänt som en komponent i lösningen Cardioplexol 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext registrerad (produkten är en lösning för kardioplegi) |
-| Förutsagd ny indikation | Meningokockinfektion |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Meningococcal infection |
+| TxGNN-förutsägelsepoäng | 0.9966 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---

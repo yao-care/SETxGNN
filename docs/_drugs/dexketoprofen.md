@@ -6,9 +6,9 @@ nav_order: 135
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Dexketoprofen: predikterad ny indikation Tendinit (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad i godkännandet"
 monitor_inn: "dexketoprofen"
 predicted_indications: ["tendinitis", "fibromyalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "migraine disorder", "headache disorder", "migraine with brainstem aura", "exostosis", "congenital hypotrichosis milia"]
+description: "Dexketoprofen: predikterad ny indikation Tendinitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Dexketoprofen
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Dexketoprofen: Från ej angiven indikation till tendinit
+## Dexketoprofen: Tendinitis
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Dexketoprofen är ett icke-steroidalt antiinflammatoriskt läkemedel (NSAID). N�
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext registrerad i godkännandet |
-| Förutsagd ny indikation | Tendinit |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Tendinitis |
+| TxGNN-förutsägelsepoäng | 0.9990 |
 | Evidensnivå | L5 (i praktiken endast modellförutsägelse, eftersom den enda publikationen är indirekt och inte studerar tendinit specifikt) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 (indraget) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---

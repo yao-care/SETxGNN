@@ -4,17 +4,17 @@ title: Gemcitabine
 parent: Endast modellprediktion (L5)
 nav_order: 214
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Gemcitabine: predikterad ny indikation Bröstcancer hos kvinnor (female breast carcinoma) (evidensnivå L5). Ursprunglig indikation: Äggstockscancer (enligt kunskapsgrafen"
 monitor_inn: "gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "endometrial mixed adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
+description: "Gemcitabine: predikterad ny indikation Rectum mucinous adenocarcinoma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Gemcitabine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Gemcitabin: Från äggstockscancer till bröstcancer hos kvinnor
+## Gemcitabine: Rectum mucinous adenocarcinoma
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Gemcitabin är ett cytostatikum som i den underliggande kunskapsdatabasen framför allt är kopplat till behandling av äggstockscancer. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **bröstcancer hos kvinnor**, med **minst 1 avslutad fas 3-prövning** och flera fas 2-studier som stöder riktningen. Ingen publicerad litteratur har kopplats till just denna indikation i den sammanställda datan. Gemcitabin i kombination med paklitaxel är dessutom en redan etablerad behandling vid metastaserad bröstcancer, så detta är mer en bekräftelse av befintlig användning än en ny återanvändning.
+Gemcitabin är ett cytostatikum som i den underliggande kunskapsdatabasen framför allt är kopplat till behandling av äggstockscancer. Ingen publicerad litteratur har kopplats till just denna indikation i den sammanställda datan. Gemcitabin i kombination med paklitaxel är dessutom en redan etablerad behandling vid metastaserad bröstcancer, så detta är mer en bekräftelse av befintlig användning än en ny återanvändning.
 
 ---
 
@@ -48,12 +48,12 @@ Gemcitabin är ett cytostatikum som i den underliggande kunskapsdatabasen framf�
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Äggstockscancer (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Bröstcancer hos kvinnor (female breast carcinoma) |
-| TxGNN-förutsägelsepoäng | 99,98 % |
-| Evidensnivå | L1 (enligt bedömningen i den sammanställda datan, med stöd av en avslutad fas 3-RCT; se anmärkning nedan) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 4 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Rectum mucinous adenocarcinoma |
+| TxGNN-förutsägelsepoäng | 0.9977 |
+| Evidensnivå | L5 (enligt bedömningen i den sammanställda datan, med stöd av en avslutad fas 3-RCT; se anmärkning nedan) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 *Anmärkning om evidensnivå:* Den strikta definitionen av L1 kräver minst två avslutade fas 3-RCT. I datan finns tre fas 3-prövningar där en är markerad som avslutad (NCT00006459) och flera andra, bland annat NCT00093795, är också avslutade men ännu inte relevansbedömda. Nivån L1 bör därför ses som preliminär tills dessa har granskats.
@@ -100,7 +100,6 @@ Ytterligare prövningar finns i datan, bland annat gemcitabin med genistein (NCT
 | 49702 | Gemkabi | Koncentrat till infusionsvätska, lösning | Indikationstext saknas |
 | 45507 | Gemcitabine Accord | Koncentrat till infusionsvätska, lösning | Indikationstext saknas |
 
-Alla fyra godkännanden är indragna, och inga är för närvarande giltiga.
 
 ---
 
@@ -109,7 +108,6 @@ Alla fyra godkännanden är indragna, och inga är för närvarande giltiga.
 | Post | Innehåll |
 |------|------|
 | Cytotoxicitetsklassificering | Konventionell cytotoxisk (nukleosidanalog, antimetabolit) |
-| Myelosuppressionsrisk | Hög. Kunskapsgrafen kopplar läkemedlet till leukopeni, trombocytopeni och anemi. |
 | Emetogenicitetsklassificering | Låg till medel, enligt allmän klassificering av läkemedelsgruppen |
 | Övervakningspunkter | Blodstatus (hemoglobin, leukocyter, trombocyter), lever- och njurfunktion |
 | Hanteringsskydd | Ja, hantering enligt föreskrifter för cytotoxiska läkemedel bör tillämpas |
@@ -161,12 +159,11 @@ Modellen förutsäger även andra indikationer. Evidensen för dessa är svagare
 
 | Förutsagd indikation | Poäng | Evidens |
 |------|------|------|
-| Endometrial blandad adenokarcinom | 99,76 % | L3, retrospektiv studie och fas 2-studie |
-| Endometrial mucinös adenokarcinom | 99,75 % | L3, överförbar evidens från äggstockscancer |
-| Kolon mucinös adenokarcinom | 99,76 % | L4, endast fallrapporter |
-| Cervikal mucinös adenokarcinom | 99,75 % | L4, indirekt evidens |
-| Gallblåsa mucinös adenokarcinom | 99,75 % | L4, fallrapporter |
-| Rektum mucinös adenokarcinom, villoglandulär endometrioid, rete ovarii och mucinrik endometrioid adenokarcinom | 99,7–99,8 % | L5, endast modellförutsägelse |
+| Endometrial blandad adenokarcinom | 0,9976 | L5, retrospektiv studie och fas 2-studie |
+| Endometrial mucinös adenokarcinom | 0,9975 | L5, överförbar evidens från äggstockscancer |
+| Kolon mucinös adenokarcinom | 0,9976 | L5, endast fallrapporter |
+| Cervikal mucinös adenokarcinom | 0,9975 | L5, indirekt evidens |
+| Gallblåsa mucinös adenokarcinom | 0,9975 | L5, fallrapporter |
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

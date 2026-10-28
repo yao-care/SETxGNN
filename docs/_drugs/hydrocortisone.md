@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Hydrocortisone
-parent: Endast modellprediktion (L5)
+parent: Hög evidens (L1-L2)
 nav_order: 225
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Hydrocortisone: predikterad ny indikation Alopecia areata (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad i godkännandedata. En…"
 monitor_inn: "hydrocortisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
+description: "Hydrocortisone: predikterad ny indikation Alopecia areata (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Hydrocortisone
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L1** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Hydrokortison: Från autoimmun sjukdom och binjurebarksvikt till alopecia areata
+## Hydrocortisone: Alopecia areata
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Hydrokortison är ett kortikosteroid som ursprungligen används vid bland annat 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad i godkännandedata. Enligt kunskapsgrafen: bl.a. fotsvamp, autoimmun sjukdom, binjurebarksinsufficiens, Crohns sjukdom |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Alopecia areata |
-| TxGNN-förutsägelsepoäng | 99,97 % |
+| TxGNN-förutsägelsepoäng | 0.9997 |
 | Evidensnivå | L1 enligt datasammanställningen (se kommentar nedan) |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla återkallade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -96,7 +96,7 @@ Det finns dock en viktig begränsning. Hydrokortison är ett lågpotent kortikos
 
 ## Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är återkallade och inga är giltiga. Indikationstext saknas i godkännandedata. De fem första listas nedan.
+Indikationstext saknas i godkännandedata. De fem första listas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -122,14 +122,14 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den enda fas 3-prövningen använde hydrokortison som lågpotent jämförelsepreparat och visar inte att det i sig är effektivt vid alopecia areata. Övrig litteratur består av äldre, lågkvalitativa rapporter. Dessutom är alla svenska godkännanden återkallade.
+- Den enda fas 3-prövningen använde hydrokortison som lågpotent jämförelsepreparat och visar inte att det i sig är effektivt vid alopecia areata. Övrig litteratur består av äldre, lågkvalitativa rapporter. Läkemedlet är marknadsfört i Sverige med 20 giltiga godkännanden.
 - De övriga förutsagda indikationerna (t.ex. alopecia mucinosa, telogen effluvium, follikulit decalvans) har endast modellförutsägelse eller indirekt evidens och bör avvaktas.
 
 **För att gå vidare krävs:**
 - Randomiserade studier där hydrokortison jämförs mot placebo eller aktiv behandling med hydrokortison som prövningsläkemedel vid alopecia areata.
 - Jämförelse mot etablerad behandling (starkare lokala kortikosteroider, intralesionella injektioner), eftersom hydrokortison är lågpotent.
 - Komplettering av produktresumé med varningar och kontraindikationer samt verkningsmekanism.
-- Klargörande av regulatorisk status, eftersom inga giltiga godkännanden finns i Sverige.
+- Klargörande av regulatorisk status för den nya indikationen, eftersom läkemedlet är marknadsfört i Sverige med 20 giltiga godkännanden.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

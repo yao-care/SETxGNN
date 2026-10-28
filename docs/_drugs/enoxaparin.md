@@ -6,9 +6,9 @@ nav_order: 162
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Enoxaparin: predikterad ny indikation Trombofili orsakad av protein C-brist, autosomalt recessiv (evidensnivå L5). Ursprunglig indikation: Lungemboli, DIC, purpura fulminans (enligt kunskapsgrafen"
 monitor_inn: "enoxaparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
+description: "Enoxaparin: predikterad ny indikation Trombofili orsakad av protein C-brist, autosomalt recessiv (thrombophilia due to protein C deficiency… (evidensnivå L5). Ursprunglig indikation: Inte angiven i d…"
 ---
 
 # Enoxaparin
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Enoxaparin: Från lungemboli och DIC till trombofili orsakad av protein C-brist
+## Enoxaparin: Trombofili orsakad av protein C-brist, autosomalt recessiv (thrombophilia due to protein C deficiency, autosomal recessive)
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Enoxaparin är ett lågmolekylärt heparin som i den data som sammanställts fö
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Lungemboli, DIC, purpura fulminans (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Trombofili orsakad av protein C-brist, autosomalt recessiv |
-| TxGNN-förutsägelsepoäng | 99,6 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Trombofili orsakad av protein C-brist, autosomalt recessiv (thrombophilia due to protein C deficiency, autosomal recessive) |
+| TxGNN-förutsägelsepoäng | 0.9958 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 |
 | Rekommenderat beslut | Avvakta |
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tobramycin
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 428
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Tobramycin: predikterad ny indikation Exponeringskeratit (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns angiven i de svenska godkännandena. Enlig…"
 monitor_inn: "TOBRAMYCIN"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
+description: "Tobramycin: predikterad ny indikation Exposure keratitis (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Tobramycin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Tobramycin: Från bakteriella ögon- och hjärnhinneinfektioner till exponeringskeratit
+## Tobramycin: Exposure keratitis
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Tobramycin är ett aminoglykosidantibiotikum som ursprungligen används mot bakt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns angiven i de svenska godkännandena. Enligt kunskapsgrafen används tobramycin bl.a. vid konjunktivit, uveit och stafylokockinfektion. |
-| Förutsagd ny indikation | Exponeringskeratit |
-| TxGNN-förutsägelsepoäng | 99,93 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Exposure keratitis |
+| TxGNN-förutsägelsepoäng | 0.9993 |
 | Evidensnivå | L4 (endast prekliniska studier, fallrapporter och mekanistiskt stöd) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 8 (samtliga avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
+| Antal godkännanden | 8 (giltiga: 8) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -95,11 +95,11 @@ Ingen av publikationerna är en randomiserad studie, och ingen visar att tobramy
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 64097 | Tobi (Abacus Medicine A/S) | Lösning för nebulisator | Avregistrerad |
-| 60247 | Tobi (Medartuum AB) | Lösning för nebulisator | Avregistrerad |
-| 61868 | Bramitob (Chiesi Farmaceutici S.p.A.) | Lösning för nebulisator | Avregistrerad |
-| 16319 | Tobi (Viatris AB) | Lösning för nebulisator | Avregistrerad |
-| 58194 | Tobi (Orifarm AB) | Lösning för nebulisator | Avregistrerad |
+| 64097 | Tobi (Abacus Medicine A/S) | Lösning för nebulisator | Godkänd |
+| 60247 | Tobi (Medartuum AB) | Lösning för nebulisator | Godkänd |
+| 61868 | Bramitob (Chiesi Farmaceutici S.p.A.) | Lösning för nebulisator | Godkänd |
+| 16319 | Tobi (Viatris AB) | Lösning för nebulisator | Godkänd |
+| 58194 | Tobi (Orifarm AB) | Lösning för nebulisator | Godkänd |
 
 Ytterligare tre godkännanden är avregistrerade: Tobi (Orifarm AB, 61430), Tobrasone (Novartis Sverige AB, 22413, ögondroppar, suspension) och Toflacort (Blumont Ofta Trading Ltd, 43071, ögondroppar, suspension). Inga indikationstexter finns angivna i de sammanställda uppgifterna.
 

@@ -40,7 +40,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 ## Sammanfattning
 
-Flucytosin är ett svampdödande läkemedel (prodrug som omvandlas till 5-fluorouracil i svampceller). Den ursprungliga godkända indikationen finns inte angiven i de data som sammanställts för denna rapport. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **Pagets sjukdom i skelettet** med en hög poäng (99,0 %), men **inga kliniska prövningar och ingen publicerad litteratur** stöder för närvarande denna riktning. Förutsägelsen bygger enbart på modellen.
+Flucytosin är ett svampdödande läkemedel (prodrug som omvandlas till 5-fluorouracil i svampceller). Den ursprungliga godkända indikationen finns inte angiven i de data som sammanställts för denna rapport. TxGNN-modellen (deep learning) förutsäger att läkemedlet kan vara effektivt mot **Pagets sjukdom i skelettet** med en hög poäng (0,9904), men **inga kliniska prövningar och ingen publicerad litteratur** stöder för närvarande denna riktning. Poängen kommer från TxGNN-modellen (deep learning) och kan spegla likheter som modellen lärt sig mellan relaterade sjukdomar, inte biologisk evidens.
 
 ---
 
@@ -50,10 +50,10 @@ Flucytosin är ett svampdödande läkemedel (prodrug som omvandlas till 5-fluoro
 |------|------|
 | Ursprunglig indikation | Ej angiven i godkännandedata |
 | Förutsagd ny indikation | Pagets sjukdom i skelettet (bone Paget disease) |
-| TxGNN-förutsägelsepoäng | 99,0 % |
+| TxGNN-förutsägelsepoäng | 0,9904 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 (varav 0 giltiga, 1 indraget) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---

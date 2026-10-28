@@ -6,9 +6,9 @@ nav_order: 344
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Phenoxymethylpenicillin: predikterad ny indikation Epiglottit (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad i godkännandedata. En…"
 monitor_inn: "phenoxymethylpenicillin"
 predicted_indications: ["epiglottitis", "laryngitis"]
+description: "Phenoxymethylpenicillin: predikterad ny indikation Epiglottitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Phenoxymethylpenicillin
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Fenoximetylpenicillin: Från infektiös mellanöreinflammation till epiglottit
+## Phenoxymethylpenicillin: Epiglottitis
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Fenoximetylpenicillin (penicillin V, t.ex. Kåvepenin) är ett smalspektrigt penicillin som ursprungligen användes mot bland annat streptokockinfektioner, faryngit, öroninflammation och infektioner i luftvägarna. TxGNN-modellen förutsäger att det kan vara effektivt mot **epiglottit** (poäng 99,9 %), men det finns **inga kliniska prövningar och ingen litteratur** som stöder detta. Den näst högst rankade förutsägelsen, **laryngit**, stöds endast av **1 indirekt publikation** som gäller erytromycin och inte penicillin V.
+Fenoximetylpenicillin (penicillin V, t.ex. Kåvepenin) är ett smalspektrigt penicillin som ursprungligen användes mot bland annat streptokockinfektioner, faryngit, öroninflammation och infektioner i luftvägarna. TxGNN-modellen förutsäger att det kan vara effektivt mot **epiglottit** (poäng 0,9990), men det finns **inga kliniska prövningar och ingen litteratur** som stöder detta. Den näst högst rankade förutsägelsen, **laryngit**, stöds endast av **1 indirekt publikation** som gäller erytromycin och inte penicillin V.
 
 ---
 
@@ -48,11 +48,11 @@ Fenoximetylpenicillin (penicillin V, t.ex. Kåvepenin) är ett smalspektrigt pen
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad i godkännandedata. Enligt kunskapsgrafen: infektiös mellanöreinflammation, streptokockinfektion, luftvägsinfektion, faryngit m.fl. |
-| Förutsagd ny indikation | Epiglottit |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Epiglottitis |
+| TxGNN-förutsägelsepoäng | 0.9990 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -88,7 +88,7 @@ För den näst högst rankade förutsägelsen, laryngit, fanns en publikation:
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är avregistrerade. Ingen indikationstext finns registrerad. De fem första godkännandena:
+Ingen indikationstext finns registrerad. De fem första godkännandena:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

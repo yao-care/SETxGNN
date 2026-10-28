@@ -4,17 +4,17 @@ title: Iloprost
 parent: Endast modellprediktion (L5)
 nav_order: 231
 evidence_level: L5
-indication_count: 9
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Iloprost: predikterad ny indikation Hypotrichosis simplex i hårbotten (evidensnivå L5). Ursprunglig indikation: Pulmonell arteriell hypertension (enligt kunskapsgrafen"
 monitor_inn: "iloprost"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
+description: "Iloprost: predikterad ny indikation Hypotrichosis simplex of the scalp (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Iloprost
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **9** st
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-## Iloprost: Från pulmonell arteriell hypertension till hypotrichosis simplex i hårbotten
+## Iloprost: Hypotrichosis simplex of the scalp
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Iloprost är en prostacyklinanalog som ursprungligen används vid **pulmonell ar
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Pulmonell arteriell hypertension (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Hypotrichosis simplex i hårbotten |
-| TxGNN-förutsägelsepoäng | 99,5 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Hypotrichosis simplex of the scalp |
+| TxGNN-förutsägelsepoäng | 0.9945 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 3 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---

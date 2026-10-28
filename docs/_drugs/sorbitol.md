@@ -52,8 +52,8 @@ Sorbitol är en sockeralkohol som används som osmotiskt verkande medel och laxe
 | Förutsägen ny indikation | Exercise-induced malignant hyperthermia |
 | TxGNN-förutsägelsepoäng | 99,4 % |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 3 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---

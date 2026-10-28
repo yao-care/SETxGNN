@@ -6,9 +6,9 @@ nav_order: 317
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Nitisinone: predikterad ny indikation Renal tubulär acidos (evidensnivå L5). Ursprunglig indikation: Tyrosinemi (enligt kunskapsgrafen"
 monitor_inn: "nitisinone"
 predicted_indications: ["renal tubular acidosis", "galactosemia", "serpinopathy with toxic serpin polymerization", "C1 inhibitor deficiency", "glycogen storage disease", "adult polyglucosan body disease", "glycogen storage disease due to glucose-6-phosphatase deficiency", "Griscelli syndrome", "granulomatous disease, chronic, X-linked", "ermine phenotype"]
+description: "Nitisinone: predikterad ny indikation Renal tubular acidosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Nitisinone
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Nitisinon: Från tyrosinemi till renal tubulär acidos
+## Nitisinone: Renal tubular acidosis
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Nitisinon används ursprungligen för behandling av ärftlig tyrosinemi. TxGNN-m
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Tyrosinemi (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Renal tubulär acidos |
-| TxGNN-förutsägelsepoäng | 99,96 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Renal tubular acidosis |
+| TxGNN-förutsägelsepoäng | 0.9996 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 4 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -84,10 +84,10 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 59101 | Nitisinone Dipharma | Kapsel, hård | Ingen indikationstext angiven (avregistrerad) |
-| 57911 | Nitisinone Dipharma | Kapsel, hård | Ingen indikationstext angiven (avregistrerad) |
-| 57912 | Nitisinone Dipharma | Kapsel, hård | Ingen indikationstext angiven (avregistrerad) |
-| 59100 | Nitisinone Dipharma | Kapsel, hård | Ingen indikationstext angiven (avregistrerad) |
+| 59101 | Nitisinone Dipharma | Kapsel, hård | Ingen indikationstext angiven (godkänd) |
+| 57911 | Nitisinone Dipharma | Kapsel, hård | Ingen indikationstext angiven (godkänd) |
+| 57912 | Nitisinone Dipharma | Kapsel, hård | Ingen indikationstext angiven (godkänd) |
+| 59100 | Nitisinone Dipharma | Kapsel, hård | Ingen indikationstext angiven (godkänd) |
 
 ---
 
@@ -128,7 +128,6 @@ Uppgifter från produktresumén om varningar och kontraindikationer saknas. Se p
 - Komplettera data om verkningsmekanism från DrugBank.
 - Göra en systematisk litteratursökning om nitisinon och njurtubulär dysfunktion vid tyrosinemi typ 1.
 - Avgöra om indikationen är ett verkligt nytt användningsområde eller bara en del av behandlingen av den ursprungliga sjukdomen.
-- Klargöra tillgängligheten av läkemedlet i Sverige, eftersom alla godkännanden är avregistrerade.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

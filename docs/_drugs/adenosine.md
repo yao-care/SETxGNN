@@ -4,17 +4,17 @@ title: Adenosine
 parent: Endast modellprediktion (L5)
 nav_order: 17
 evidence_level: L5
-indication_count: 2
-last_modified_at: 2026-10-15
-description: "Adenosine: predikterad ny indikation Obsolete bundle branch block (grenblock, föråldrad term) (evidensnivå L5). Ursprunglig indikation: Ventrikulär takykardi (enligt kunskapsgrafen"
+indication_count: 1
 monitor_inn: "adenosine"
 predicted_indications: ["obsolete bundle branch block"]
+last_modified_at: 2026-10-27
+description: "Adenosine: predikterad ny indikation Obsolet grenblock (obsolete bundle branch block) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Adenosine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **2** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,95 +33,86 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Adenosin: Från ventrikulär takykardi till grenblock (föråldrad term i ontologin)
+## Adenosin Life Medical: purinerg receptoragonist → Obsolet grenblock (obsolete bundle branch block)
 {: .text-alpha }
 
----
+## Sammanfattning
 
-### Sammanfattning
-
-Adenosin är ett läkemedel mot hjärtrytmrubbningar. Enligt kunskapsgrafen användes det ursprungligen vid **ventrikulär takykardi**. TxGNN-modellen förutsäger att det kan vara effektivt mot **"obsolete bundle branch block"** (en föråldrad ontologipost för grenblock), men det finns **inga kliniska prövningar och ingen publicerad litteratur** som stöder detta. Förutsägelsen är en ren modellberäkning och bedöms sannolikt vara en artefakt.
+Adenosin är en endogen purinnukleosid som ges som injektions-/infusionslösning och som i Sverige har två registrerade godkännanden. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **obsolet grenblock (obsolete bundle branch block)**. Förutsägelsen bygger enbart på modellberäkning: inga kliniska prövningar och ingen publikation i de data som sammanställts för rapporten studerar sjukdomen.
 
 ---
 
-### Snabböversikt
+## Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ventrikulär takykardi (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Obsolete bundle branch block (grenblock, föråldrad term) |
-| TxGNN-förutsägelsepoäng | 99,94 % |
-| Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 2 (båda avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Obsolet grenblock (obsolete bundle branch block) |
+| TxGNN-förutsägelsepoäng | 0,9994 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-### Varför är denna förutsägelse rimlig?
+## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts. Adenosin verkar dock i hjärtat genom att aktivera A1-receptorer, vilket påverkar ledningen i AV-knutan. Det används vid utredning och akut behandling av vissa arytmier, men inte som behandling av ledningsblock.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för rapporten. Adenosin är känt för att verka på hjärtats ledningssystem via A1-receptorer i AV-noden, där det tillfälligt bromsar impulsledningen.
 
-Den höga poängen är svår att motivera kliniskt. Grenblock är en ledningsstörning i kammaren, nedanför AV-knutan, och en direkt behandlingsrationale för adenosin syns inte. Termen är dessutom markerad som föråldrad, vilket tyder på en gammal ontologipost snarare än ett eget kliniskt tillstånd. Det mest sannolika är att poängen beror på att adenosin i grafen ligger nära noder för hjärtats ledningssystem och arytmier.
+Sambandet med den förutsagda sjukdomen är svagt. Grenblock är en ledningsstörning under AV-noden, i kammarnas ledningsbanor, medan adenosins effekt sitter i AV-noden. Adenosin används i utredning och behandling av vissa rytmrubbningar, inte för att häva ett ledningsblock. Dessutom är sjukdomstermen markerad som föråldrad (obsolet), vilket tyder på en gammal ontologipost snarare än en tydligt avgränsad klinisk diagnos.
+
+Den höga poängen beror sannolikt på att läkemedlet i modellens nätverk ligger nära hjärtrytm- och ledningsrelaterade begrepp. Poängen ska därför läsas som en datorbaserad signal och inte som kliniskt stöd.
 
 ---
 
-### Kliniska prövningar
+## Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-### Litteraturbevis
+## Litteraturbevis
 
 Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
-### Marknadsinformation Sverige
+## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 19361 | Adenosin Life Medical (Evolan Pharma AB) | Injektions-/infusionsvätska, lösning | Avregistrerad |
-| 67173 | Adenosin Macure (Macure Healthcare Limited) | Injektions-/infusionsvätska, lösning | Avregistrerad |
+| 19361 | Adenosin Life Medical | Injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
+| 67173 | Adenosin Macure | Injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
 
-Ingen godkänd indikationstext finns tillgänglig för dessa godkännanden. Ingen av produkterna har något giltigt godkännande i dag.
-
----
-
-### Säkerhetsaspekter
-
-Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se produktresumén för säkerhetsinformation.
-
-- **Kontraindikationer enligt kunskapsgrafen** (ej hämtade från produkttext): kroniskt obstruktiv lungsjukdom (KOL), astma, aortastenos, mitralisstenos, lågt blodtryck, akut kranskärlssyndrom, kranskärlssjukdom, AV-block, sjuk sinusknuta (sick sinus syndrome), perikardit, lungemfysem och andningssvikt.
-- **Läkemedelsinteraktioner:** Totalt 138 interaktioner är kända. Bland de viktigaste:
-  - **Allvarliga (Major):** cisaprid, dolasetron, papaverin.
-  - **Måttliga (Moderate):** famotidin, klaritromycin, granisetron, levofloxacin, ondansetron, palonosetron.
+Antalet godkännanden i listan kan inte tolkas som ett komplett underlag för indikationer, eftersom ingen indikationstext finns registrerad.
 
 ---
 
-### Ytterligare förutsägelse: katekolaminerg polymorf ventrikulär takykardi (CPVT)
+## Säkerhetsaspekter
 
-Modellens andra förutsägelse, **CPVT** (poäng 99,42 %), har något mer stöd och bedöms som evidensnivå **L4** med rekommendationen "Forskningsfråga".
+- **Läkemedelsinteraktioner**: Totalt 138 interaktioner är registrerade. Bland de viktigaste av allvarlig grad (Major) finns:
+  - Cisaprid
+  - Dolasetron
+  - Papaverin
 
-- **Mekanism:** CPVT orsakas av kalciumläckage från sarkoplasmatiska retikulum, vilket ger triggade arytmier. Adenosin (och ATP) kan via A1-receptorer motverka beta-adrenerg stimulering och sänka cAMP. Det ger en rimlig mekanism för att avbryta bidirektionell kammartakykardi.
-- **Klinisk evidens:** Endast en fallrapport, [PMID 18313614](https://pubmed.ncbi.nlm.nih.gov/18313614/) (2008, *Heart Rhythm*), där ATP avbröt bidirektionell kammartakykardi hos en CPVT-patient. Övriga träffar är översikter, prekliniska studier och diagnostiska sammanhang, utan visad behandlingseffekt av adenosin. Inga kliniska prövningar är registrerade.
-- **Begränsningar:** Adenosin har mycket kort halveringstid och kan därför bara avbryta akuta episoder, inte förebygga nya. Det kan dessutom i vissa situationer vara proarytmiskt. Standardbehandlingen (betablockerare, flekainid, vänstersidig kardiell sympatisk denervering, ICD) är fortsatt grunden.
+  Flera interaktioner av måttlig grad (Moderate) finns också, bland annat med famotidin, klaritromycin, granisetron, levofloxacin, ondansetron och palonosetron.
+
+Se produktresumén för övrig säkerhetsinformation, inklusive varningar och kontraindikationer.
 
 ---
 
-### Slutsats och nästa steg
+## Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den förutsagda indikationen (grenblock) saknar all klinisk och publicerad evidens, är en föråldrad ontologipost och har ingen tydlig mekanistisk koppling till adenosin. Båda svenska godkännandena är dessutom avregistrerade.
+- Förutsägelsen saknar helt stöd i kliniska prövningar och publikationer (evidensnivå L5). Den mekanistiska kopplingen är svag eftersom adenosin verkar i AV-noden medan grenblock sitter längre ned i ledningssystemet, och sjukdomstermen är föråldrad.
 
 **För att gå vidare krävs:**
-- Uppgifter om varningar och kontraindikationer från produktresumén, samt verkningsmekanism från DrugBank.
-- Klinisk validering av om en relevant, aktuell sjukdomsdefinition finns för den förutsagda indikationen.
-- Om CPVT ska följas upp: systematisk litteraturgenomgång och kontrollerade studier som visar nytta utöver standardbehandling.
-- Klarhet i om en ny marknadsföring i Sverige är aktuell, eftersom inga giltiga godkännanden finns.
+- Bekräfta om sjukdomstermen motsvarar en aktuell klinisk diagnos, eller om den ska mappas till en nuvarande term.
+- Hämta verkningsmekanismdata och granska produktresumén för varningar och kontraindikationer.
+- Genomföra en litteratur- och prövningssökning som direkt gäller sjukdomen innan någon klinisk utvärdering övervägs.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

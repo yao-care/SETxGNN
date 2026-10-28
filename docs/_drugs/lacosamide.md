@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lacosamide
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 248
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Lacosamide: predikterad ny indikation Manisk bipolär sjukdom (evidensnivå L3). Ursprunglig indikation: Anges inte i licensdata (epilepsi enligt allmänt känd användning)"
+last_modified_at: 2026-10-28
 monitor_inn: "lacosamide"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
+description: "Lacosamide: predikterad ny indikation Manisk bipolär sjukdom (manic bipolar affective disorder) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Lacosamide
 {: .fs-9 }
 
-Evidensnivå: **L3** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Lakosamid: Från epilepsi (fokala anfall) till manisk bipolär sjukdom
+## Lacosamide: Manisk bipolär sjukdom (manic bipolar affective disorder)
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Lakosamid är ett antiepileptikum som i Sverige används mot fokala epileptiska 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Anges inte i licensdata (epilepsi enligt allmänt känd användning) |
-| Förutsagd ny indikation | Manisk bipolär sjukdom |
-| TxGNN-förutsägelsepoäng | 99,96 % |
-| Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden (inga giltiga) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Manisk bipolär sjukdom (manic bipolar affective disorder) |
+| TxGNN-förutsägelsepoäng | 0.9996 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 

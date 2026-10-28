@@ -4,17 +4,17 @@ title: Plerixafor
 parent: Endast modellprediktion (L5)
 nav_order: 355
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Plerixafor: predikterad ny indikation Indolent plasmacellsmyelom (evidensnivå L5). Ursprunglig indikation: Plasmacellsmyelom (enligt kunskapsgrafen…"
 monitor_inn: "PLERIXAFOR"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
+description: "Plerixafor: predikterad ny indikation CMM7 (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Plerixafor
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **7** st
+Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Plerixafor: Från plasmacellsmyelom till indolent plasmacellsmyelom
+## Plerixafor: CMM7
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Plerixafor används som stamcellsmobiliserande läkemedel hos patienter med plas
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Plasmacellsmyelom (enligt kunskapsgrafen, eftersom godkännandena i Sverige saknar indikationstext) |
-| Förutsagd ny indikation | Indolent plasmacellsmyelom |
-| TxGNN-förutsägelsepoäng | 99,97 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | CMM7 |
+| TxGNN-förutsägelsepoäng | 0.9934 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 4 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---

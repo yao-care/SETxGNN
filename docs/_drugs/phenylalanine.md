@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Phenylalanine
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 346
-evidence_level: L5
+evidence_level: L4
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Phenylalanine: predikterad ny indikation Skleroserande kolangit (evidensnivå L5). Ursprunglig indikation: Ej tillgänglig i data (indikationstexterna är tomma)"
 monitor_inn: "phenylalanine"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
+description: "Phenylalanine: predikterad ny indikation Skleroserande kolangit (sclerosing cholangitis) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Phenylalanine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **2** st
+Evidensnivå: **L4** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Fenylalanin: Från parenteral näringstillförsel (indikationstext saknas) till skleroserande kolangit
+## Phenylalanine: Skleroserande kolangit (sclerosing cholangitis)
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Fenylalanin är en aminosyra som ingår i flera infusionslösningar för parente
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej tillgänglig i data (indikationstexterna är tomma) |
-| Förutsagd ny indikation | Skleroserande kolangit |
-| TxGNN-förutsägelsepoäng | 99,4 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Skleroserande kolangit (sclerosing cholangitis) |
+| TxGNN-förutsägelsepoäng | 0.9943 |
 | Evidensnivå | L4 (endast indirekta observations- och biomarkörstudier) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (samtliga avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Base
 
 Den enda litteratur som ligger nära förutsägelsen är en observationsstudie som kopplar plasmakoncentrationen av tyrosin (en nedbrytningsprodukt av fenylalanin) till trötthet vid primär biliär kolangit och primär skleroserande kolangit. Det tyder på att omsättningen av aromatiska aminosyror kan vara förändrad vid kolestatisk leversjukdom. Det är dock ett biomarkörsamband och inget belägg för att tillskott av fenylalanin ger behandlingseffekt.
 
-Den höga poängen (0,994) bygger enbart på mönster i kunskapsgrafen. Den ska därför tolkas försiktigt: någon etablerad mekanism som förklarar varför fenylalanin skulle påverka sjukdomsförloppet vid skleroserande kolangit har inte identifierats.
+Den ska därför tolkas försiktigt: någon etablerad mekanism som förklarar varför fenylalanin skulle påverka sjukdomsförloppet vid skleroserande kolangit har inte identifierats.
 
 ---
 
@@ -128,7 +128,6 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 ---
 
-*Notering: Den näst högst rankade förutsägelsen, kongenital protrombinbrist (poäng 99,3 %), saknar helt stöd i form av studier eller mekanistiskt samband och bedöms sannolikt vara en artefakt av kunskapsgrafens struktur (evidensnivå L5, rekommendation: avvakta).*
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

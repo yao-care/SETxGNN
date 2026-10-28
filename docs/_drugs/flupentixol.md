@@ -6,9 +6,9 @@ nav_order: 204
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Flupentixol: predikterad ny indikation Retinal dystrofi med eller utan extraokulära avvikelser (evidensnivå L5). Ursprunglig indikation: Schizofreni (enligt TxGNN-kunskapsgrafen"
 monitor_inn: "flupentixol"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "myopia X-linked", "syndromic myopia", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
+description: "Flupentixol: predikterad ny indikation Retinal dystrofi med eller utan extraokulära avvikelser (retinal dystrophy with or without extraocular anomalies) (evidensnivå L5). Ursprunglig indikation: Inte…"
 ---
 
 # Flupentixol
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-## Flupentixol: Från schizofreni till retinal dystrofi med eller utan extraokulära avvikelser
+## Flupentixol: Retinal dystrofi med eller utan extraokulära avvikelser (retinal dystrophy with or without extraocular anomalies)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Flupentixol är ett antipsykotiskt läkemedel av tioxantentyp som ursprungligen 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Schizofreni (enligt TxGNN-kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Retinal dystrofi med eller utan extraokulära avvikelser |
-| TxGNN-förutsägelsepoäng | 99,99 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Retinal dystrofi med eller utan extraokulära avvikelser (retinal dystrophy with or without extraocular anomalies) |
+| TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 7 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
+| Antal godkännanden | 7 (giltiga: 7) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -72,11 +72,11 @@ Något mekanistiskt samband mellan dopaminreceptorblockad och retinal dystrofi h
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 67948 | Fluanxol (Ebb Medical AB) | Filmdragerad tablett | Ingen indikationstext tillgänglig (avregistrerad) |
-| 45008 | Fluanxol (H. Lundbeck A/S) | Filmdragerad tablett | Ingen indikationstext tillgänglig (avregistrerad) |
-| 45010 | Fluanxol (H. Lundbeck A/S) | Filmdragerad tablett | Ingen indikationstext tillgänglig (avregistrerad) |
-| 59107 | Fluanxol (Ebb Medical AB) | Filmdragerad tablett | Ingen indikationstext tillgänglig (avregistrerad) |
-| 59174 | Fluanxol (2care4 ApS) | Filmdragerad tablett | Ingen indikationstext tillgänglig (avregistrerad) |
+| 67948 | Fluanxol (Ebb Medical AB) | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänd) |
+| 45008 | Fluanxol (H. Lundbeck A/S) | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänd) |
+| 45010 | Fluanxol (H. Lundbeck A/S) | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänd) |
+| 59107 | Fluanxol (Ebb Medical AB) | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänd) |
+| 59174 | Fluanxol (2care4 ApS) | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänd) |
 
 Ytterligare två godkännanden (45009 och 59028) finns också, och samtliga sju är avregistrerade.
 
@@ -96,7 +96,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen är enbart modellbaserad (L5) utan kliniska prövningar, litteratur eller något fastställt mekanistiskt samband. Dessutom är alla svenska godkännanden avregistrerade, och säkerhetsunderlaget är ofullständigt.
+- Förutsägelsen är enbart modellbaserad (L5) utan kliniska prövningar, litteratur eller något fastställt mekanistiskt samband.
 
 **För att gå vidare krävs:**
 - Detaljerad verkningsmekanismdata för flupentixol, till exempel från DrugBank.

@@ -6,9 +6,9 @@ nav_order: 167
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Epinastine: predikterad ny indikation Rosacea-konjunktivit (evidensnivå L5). Ursprunglig indikation: Atopisk konjunktivit, papillär konjunktivit…"
 monitor_inn: "epinastine"
 predicted_indications: ["rosacea conjunctivitis", "allergic urticaria"]
+description: "Epinastine: predikterad ny indikation Rosacea conjunctivitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Epinastine
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Epinastin: Från atopisk konjunktivit till rosacea-konjunktivit
+## Epinastine: Rosacea conjunctivitis
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Epinastin är en antihistamin för ögondroppar som ursprungligen användes vid allergiska ögonåkommor: atopisk, papillär och vernal konjunktivit. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **rosacea-konjunktivit** (poäng 99,6 %), men det finns **inga kliniska prövningar** och **ingen litteratur** som stöder just denna riktning. Den näst högst rankade förutsägelsen, **allergisk urtikaria**, har 10 publikationer, men de är i huvudsak översikter och surrogatstudier på friska försökspersoner.
+Epinastin är en antihistamin för ögondroppar som ursprungligen användes vid allergiska ögonåkommor: atopisk, papillär och vernal konjunktivit. Den näst högst rankade förutsägelsen, **allergisk urtikaria**, har 10 publikationer, men de är i huvudsak översikter och surrogatstudier på friska försökspersoner.
 
 ---
 
@@ -48,12 +48,12 @@ Epinastin är en antihistamin för ögondroppar som ursprungligen användes vid 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Atopisk konjunktivit, papillär konjunktivit, vernal konjunktivit (enligt kunskapsgrafen; indikationstext saknas i det svenska godkännandet) |
-| Förutsagd ny indikation | Rosacea-konjunktivit |
-| TxGNN-förutsägelsepoäng | 99,6 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Rosacea conjunctivitis |
+| TxGNN-förutsägelsepoäng | 0.9957 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---

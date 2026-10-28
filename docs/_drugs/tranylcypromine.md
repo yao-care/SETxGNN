@@ -4,17 +4,17 @@ title: Tranylcypromine
 parent: Endast modellprediktion (L5)
 nav_order: 434
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Tranylcypromine: predikterad ny indikation Godartad paroxysmal torticollis hos spädbarn (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i godkännandena. Enligt kunsk"
 monitor_inn: "tranylcypromine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "Ohdo syndrome and variants", "dysthymic disorder", "agoraphobia", "melancholia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "ligneous conjunctivitis", "Keppen-Lubinsky syndrome"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "Ohdo syndrome and variants", "agoraphobia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "ligneous conjunctivitis", "Keppen-Lubinsky syndrome"]
+description: "Tranylcypromine: predikterad ny indikation Benign paroxysmal torticollis of infancy (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Tranylcypromine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Tranylcypromin: Från unipolär depression till godartad paroxysmal torticollis hos spädbarn
+## Tranylcypromine: Benign paroxysmal torticollis of infancy
 {: .text-alpha }
 
 ---
@@ -50,12 +50,12 @@ Bland de tio högst rankade förutsägelserna har främst **melankoli**, **neuro
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns registrerad i godkännandena. Enligt kunskapsgrafen: unipolär depression, endogen depression, egentlig depression, ångestsyndrom |
-| Förutsagd ny indikation | Godartad paroxysmal torticollis hos spädbarn |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Benign paroxysmal torticollis of infancy |
+| TxGNN-förutsägelsepoäng | 0.9967 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 6 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -135,7 +135,6 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 - Uppgifter från produktresumén om varningar och kontraindikationer samt verkningsmekanism (saknas i underlaget).
 - Klinisk eller preklinisk evidens som specifikt stöder tranylcypromin vid den förutsagda indikationen.
 - Om depressionsnära indikationer ska utredas vidare (melankoli, neurotisk depression, dysthymi, agorafobi): läkemedelsspecifika kontrollerade studier och skyddsåtgärder såsom tyraminfri kost, interaktionskontroll (serotonerga läkemedel, sympatomimetika) och blodtrycksövervakning.
-- Bedömning av regulatorisk och kommersiell tillgänglighet, eftersom inga godkännanden är giltiga i Sverige för närvarande.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sunitinib
-parent: Endast modellprediktion (L5)
+parent: Hög evidens (L1-L2)
 nav_order: 407
-evidence_level: L5
-indication_count: 10
+evidence_level: L2
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Sunitinib: predikterad ny indikation Liposarkom (evidensnivå L5). Ursprunglig indikation: Njurcellscancer och GIST (enligt kunskapsgrafen"
 monitor_inn: "SUNITINIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
+description: "Sunitinib: predikterad ny indikation Liposarkom (liposarcoma) (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Sunitinib
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L2** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Sunitinib: Från njurcellscancer till liposarkom
+## Sunitinib: Liposarkom (liposarcoma)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Sunitinib är en tyrosinkinashämmare som ursprungligen används mot njurcellsca
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Njurcellscancer och GIST (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Liposarkom |
-| TxGNN-förutsägelsepoäng | 99,87 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Liposarkom (liposarcoma) |
+| TxGNN-förutsägelsepoäng | 0.9987 |
 | Evidensnivå | L2 (avslutade fas 2-prövningar, men enkelarmade och inte randomiserade, så evidensen ligger i den svagare delen av nivån) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 19 (alla avregistrerade, inga giltiga) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 19 av 19) |
+| Antal godkännanden | 19 (giltiga: 19) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -94,7 +94,7 @@ Tre ytterligare publikationer gäller närliggande tumörtyper eller andra läke
 
 ## Marknadsinformation Sverige
 
-Alla 19 godkännanden för sunitinib i Sverige är avregistrerade, och inget är giltigt idag. De fem första som visas nedan är alla hårda kapslar. Någon godkänd indikationstext finns inte i underlaget.
+De fem första som visas nedan är alla hårda kapslar. Någon godkänd indikationstext finns inte i underlaget.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -143,12 +143,10 @@ Varningar och kontraindikationer från produktresumén ingick inte i underlaget.
 
 **Motivering:**
 - Mekanismen är rimlig och två avslutade fas 2-studier har inkluderat patienter med liposarkom. Studierna är små, enkelarmade och blandar flera sarkomtyper, och effekten har varit blygsam.
-- Alla svenska godkännanden är avregistrerade, och säkerhetsunderlaget är begränsat.
 
 **För att gå vidare krävs:**
 - Liposarkomspecifika resultat från de blandade sarkomstudierna, till exempel via subgruppsanalys av NCT00474994 och NCT00400569 samt resultaten från PMID 21154746.
 - En jämförande eller randomiserad studie i liposarkom, där man även beaktar etablerade alternativ som trabektedin.
-- Verifiering av tillgänglighet och regulatorisk status i Sverige, eftersom inga giltiga godkännanden finns.
 - Fullständiga varningar och kontraindikationer från produktresumén, särskilt med avseende på hjärta (QT-tid), lever och blodbild.
 ## Ansvarsfriskrivning
 

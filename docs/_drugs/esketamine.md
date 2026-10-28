@@ -6,9 +6,9 @@ nav_order: 173
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Esketamine: predikterad ny indikation Agorafobi (evidensnivå L5). Ursprunglig indikation: Ångestsyndrom, neurotiskt tillstånd, dystymi (enligt kunskapsgrafen"
 monitor_inn: "esketamine"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
+description: "Esketamine: predikterad ny indikation Agoraphobia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Esketamine
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Esketamin: Från ångestsyndrom till agorafobi
+## Esketamine: Agoraphobia
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Esketamin är den S-enantiomera formen av ketamin och har enligt kunskapsgrafen ursprungligen kopplats till behandling av ångestsyndrom, neurotiska tillstånd och dystymi. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **agorafobi**, med en mycket hög modellpoäng. För närvarande finns **inga kliniska prövningar** och **ingen publicerad litteratur** i de data som sammanställts för denna rapport, så förutsägelsen bygger enbart på modellen.
+TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **agorafobi**, med en mycket hög modellpoäng. För närvarande finns **inga kliniska prövningar** och **ingen publicerad litteratur** i de data som sammanställts för denna rapport, så förutsägelsen bygger enbart på modellen.
 
 ---
 
@@ -48,12 +48,12 @@ Esketamin är den S-enantiomera formen av ketamin och har enligt kunskapsgrafen 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ångestsyndrom, neurotiskt tillstånd, dystymi (enligt kunskapsgrafen; ingen godkänd indikationstext finns i de svenska godkännandena) |
-| Förutsagd ny indikation | Agorafobi |
-| TxGNN-förutsägelsepoäng | 99,6 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Agoraphobia |
+| TxGNN-förutsägelsepoäng | 0.9957 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 8 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
+| Antal godkännanden | 8 (giltiga: 8) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,13 +64,13 @@ Esketamin blockerar NMDA-receptorn och ökar glutamatsignaleringen. Det kan i si
 
 Agorafobi är ett ångesttillstånd med rädsla och undvikande beteende. Det delar kretsar (amygdala och prefrontal cortex) med de ångestsyndrom som esketamin ursprungligen kopplats till. Det är grunden till att modellen placerar de två tillstånden nära varandra.
 
-Sambandet är dock bara en slutledning från kunskapsgrafen. Inga studier på agorafobi har kunnat bekräfta det, så den mekanistiska kopplingen är ännu inte testad.
+Inga studier på agorafobi har kunnat bekräfta det, så den mekanistiska kopplingen är ännu inte testad.
 
 ---
 
 ## Marknadsinformation Sverige
 
-Alla åtta godkännanden är avregistrerade. Ingen godkänd indikationstext finns registrerad.
+Ingen godkänd indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -109,18 +109,17 @@ Varningar och kontraindikationer från produktresumé saknas i de sammanställda
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen har en hög modellpoäng men saknar helt stöd i kliniska prövningar och litteratur (evidensnivå L5). Dessutom är alla svenska godkännanden avregistrerade och säkerhetsdata från produktresumé saknas.
+- Förutsägelsen har en hög modellpoäng men saknar helt stöd i kliniska prövningar och litteratur (evidensnivå L5).
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé med varningar och kontraindikationer från Läkemedelsverket (MPA), vilket är ett blockerande datagap.
 - Komplettera verkningsmekanismen via DrugBank.
 - Genomföra systematisk litteratur- och prövningssökning för esketamin vid agorafobi och andra ångesttillstånd.
 - Bedöma administreringsväg och beredningsform, eftersom tillgängliga svenska former är injektionslösningar och ingen administreringsväg för den nya indikationen har fastställts.
-- Göra en samlad nytta-riskbedömning, särskilt med hänsyn till interaktioner, kärlrelaterade kontraindikationer och att alla godkännanden är avregistrerade.
 
 ---
 
-*Not om den andra förutsägelsen:* Benign paroxysmal torticollis hos spädbarn (poäng 99,5 %) bedöms sakna trovärdigt mekanistiskt samband. Tillståndet är sällsynt och självbegränsande, och nytta-riskprofilen för esketamin hos spädbarn bedöms som ogynnsam. Den förutsägelsen rekommenderas därför inte för vidare utvärdering.
+Tillståndet är sällsynt och självbegränsande, och nytta-riskprofilen för esketamin hos spädbarn bedöms som ogynnsam. Den förutsägelsen rekommenderas därför inte för vidare utvärdering.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

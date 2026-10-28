@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lamivudine
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 250
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Lamivudine: predikterad ny indikation Simian immunbristvirusinfektion (evidensnivå L5). Ursprunglig indikation: Kronisk hepatit B-virusinfektion…"
 monitor_inn: "lamivudine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
+description: "Lamivudine: predikterad ny indikation Simian immunbristvirusinfektion (simian immunodeficiency virus infection) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Lamivudine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **5** st
+Evidensnivå: **L4** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-## Lamivudin: Från kronisk hepatit B-virusinfektion och hiv-infektion till simian immunbristvirusinfektion
+## Lamivudine: Simian immunbristvirusinfektion (simian immunodeficiency virus infection)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Lamivudin är en nukleosid-omvänt transkriptashämmare som ursprungligen använ
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Kronisk hepatit B-virusinfektion, hiv-infektion och aids (enligt kunskapsgrafen; godkänd indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Simian immunbristvirusinfektion |
-| TxGNN-förutsägelsepoäng | 99,93 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Simian immunbristvirusinfektion (simian immunodeficiency virus infection) |
+| TxGNN-förutsägelsepoäng | 0.9993 |
 | Evidensnivå | L4 (prekliniska studier och mekanismstudier) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 6 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -87,7 +87,7 @@ Det är viktigt att se begränsningen: SIV är en djurmodell för en redan godk�
 
 ### Marknadsinformation Sverige
 
-Alla sex godkännanden är avregistrerade. Någon godkänd indikationstext finns inte angiven i de data som sammanställts för rapporten.
+Någon godkänd indikationstext finns inte angiven i de data som sammanställts för rapporten.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -113,7 +113,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varnings- o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Underlaget består av prekliniska djurstudier och översikter utan någon klinisk prövning, och SIV är en djurmodell för en redan godkänd indikation, så förutsägelsen ger inget nytt humant användningsområde. Samtidigt är alla svenska godkännanden avregistrerade.
+- Underlaget består av prekliniska djurstudier och översikter utan någon klinisk prövning, och SIV är en djurmodell för en redan godkänd indikation, så förutsägelsen ger inget nytt humant användningsområde.
 
 **För att gå vidare krävs:**
 - Hämta varningar och kontraindikationer från produktresumén, då säkerhetsgranskningen annars inte kan genomföras.

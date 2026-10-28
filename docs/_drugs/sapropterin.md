@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sapropterin
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 392
-evidence_level: L4
-indication_count: 4
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Sapropterin: predikterad ny indikation Rubbning i tyrosinmetabolismen (evidensnivå L4). Ursprunglig indikation: Fenylketonuri och rubbning i fenylalaninmetabolismen (enligt kunskaps…"
 monitor_inn: "sapropterin"
-predicted_indications: ["disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome", "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria", "hyperphenylalaninemia due to tetrahydrobiopterin deficiency"]
+predicted_indications: ["disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome", "hyperphenylalaninemia due to tetrahydrobiopterin deficiency"]
+description: "Sapropterin: predikterad ny indikation Disorder of tyrosine metabolism (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Sapropterin
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **4** st
+Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **4** st
 
 </div>
 
-## Sapropterin: Från fenylketonuri till rubbning i tyrosinmetabolismen
+## Sapropterin: Disorder of tyrosine metabolism
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Sapropterin är en syntetisk form av tetrahydrobiopterin (BH4) och användes urs
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Fenylketonuri och rubbning i fenylalaninmetabolismen (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Rubbning i tyrosinmetabolismen |
-| TxGNN-förutsägelsepoäng | 99,9 % |
-| Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
-| Antal godkännanden | 2 |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Disorder of tyrosine metabolism |
+| TxGNN-förutsägelsepoäng | 0.9989 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -91,8 +91,8 @@ Litteraturen nedan gäller nästan uteslutande PKU, den redan godkända indikati
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 61616 | Sapropterin Teva (TEVA GmbH) | Löslig tablett | Uppgift saknas (återkallat) |
-| 63805 | Sapropterin STADA (STADA Arzneimittel AG) | Löslig tablett | Uppgift saknas (återkallat) |
+| 61616 | Sapropterin Teva (TEVA GmbH) | Löslig tablett | Uppgift saknas (godkänt) |
+| 63805 | Sapropterin STADA (STADA Arzneimittel AG) | Löslig tablett | Uppgift saknas (godkänt) |
 
 ---
 
@@ -126,9 +126,7 @@ Varningar och kontraindikationer från produktresumén saknas i den data som sam
 
 **Andra förutsägelser i datan (kort översikt):**
 
-- **Teratogent Pierre Robin-syndrom** (poäng 99,9 %, L5): Inget mekanistiskt samband med BH4 och inga studier. Troligen en artefakt i kunskapsgrafen, möjligen via maternell PKU.
-- **BH4-responsiv hyperfenylalaninemi/PKU** (poäng 99,8 %, L5): Motsvarar i praktiken den redan godkända indikationen och räknas därför inte som återanvändning.
-- **Hyperfenylalaninemi orsakad av BH4-brist** (poäng 99,1 %, L4): Mekanismen är biologiskt direkt, eftersom sapropterin ersätter den saknade kofaktorn. Den tillgängliga litteraturen består av PKU-riktlinjer, översikter och Cochrane-översikter samt en jämförelse mellan sepiapterin och sapropterin (fas 3, RCT, 2026), och innehåller inga studier specifika för BH4-brist. Detta är den mest rimliga kandidaten för vidare utredning, men det behöver bekräftas om indikationen redan täcks av godkänd märkning eller riktlinjer.
+- **Hyperfenylalaninemi orsakad av BH4-brist** (poäng 0,9910, L4): Mekanismen är biologiskt direkt, eftersom sapropterin ersätter den saknade kofaktorn. Den tillgängliga litteraturen består av PKU-riktlinjer, översikter och Cochrane-översikter samt en jämförelse mellan sepiapterin och sapropterin (fas 3, RCT, 2026), och innehåller inga studier specifika för BH4-brist. Detta är den mest rimliga kandidaten för vidare utredning, men det behöver bekräftas om indikationen redan täcks av godkänd märkning eller riktlinjer.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Topotecan
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 431
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Topotecan: predikterad ny indikation Kvinnlig bröstcancer (evidensnivå L3). Ursprunglig indikation: Äggstockscancer (enligt kunskapsgrafen"
 monitor_inn: "topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
+description: "Topotecan: predikterad ny indikation Kvinnlig bröstcancer (female breast carcinoma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Topotecan
 {: .fs-9 }
 
-Evidensnivå: **L3** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Topotecan: Från äggstockscancer till bröstcancer
+## Topotecan: Kvinnlig bröstcancer (female breast carcinoma)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Topotecan är en topoisomeras I-hämmare (cytostatika) som enligt de data som sa
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Äggstockscancer (enligt kunskapsgrafen; ingen godkänd indikationstext finns i de svenska godkännandena) |
-| Förutsagd ny indikation | Kvinnlig bröstcancer |
-| TxGNN-förutsägelsepoäng | 99,9 % |
-| Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 2 |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Kvinnlig bröstcancer (female breast carcinoma) |
+| TxGNN-förutsägelsepoäng | 0.9992 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -99,8 +99,8 @@ Det finns också hinder. Effluxtransportören BCRP/ABCG2 pumpar ut topotecan ur 
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 45706 | Topotecan Accord (avregistrerad) | Koncentrat till infusionsvätska, lösning | Ingen indikationstext tillgänglig |
-| 42896 | Topotecan Ebewe (avregistrerad) | Koncentrat till infusionsvätska, lösning | Ingen indikationstext tillgänglig |
+| 45706 | Topotecan Accord (godkänd) | Koncentrat till infusionsvätska, lösning | Ingen indikationstext tillgänglig |
+| 42896 | Topotecan Ebewe (godkänd) | Koncentrat till infusionsvätska, lösning | Ingen indikationstext tillgänglig |
 
 ---
 
@@ -109,7 +109,6 @@ Det finns också hinder. Effluxtransportören BCRP/ABCG2 pumpar ut topotecan ur 
 | Post | Innehåll |
 |------|------|
 | Cytotoxicitetsklassificering | Konventionell cytotoxisk (topoisomeras I-hämmare) |
-| Myelosuppressionsrisk | Hög. Kunskapsgrafen kopplar läkemedlet till trombocytopeni, neutropeni, agranulocytos och anemi. |
 | Emetogenicitetsklassificering | Se produktresumén för varningar och försiktighetsåtgärder |
 | Övervakningspunkter | Blodstatus (neutrofiler, trombocyter, hemoglobin), njurfunktion, lungstatus (interstitiell lungsjukdom) och diarré |
 | Hanteringsskydd | Hantering enligt gällande föreskrifter för cytostatika |
@@ -140,7 +139,7 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 - Uppgifter om verkningsmekanismen från DrugBank.
 - Kontrollerade kliniska studier av topotecan vid bröstcancer, helst i definierade undergrupper som MYC-drivna eller trippelnegativa tumörer.
 - Bedömning av hur BCRP-medierad resistens påverkar effekten.
-- Klargörande av tillgänglighet i Sverige, eftersom inga giltiga godkännanden finns.
+- Klargörande av tillgänglighet i Sverige, eftersom läkemedlet är marknadsfört och 2 av 2 godkännanden är giltiga.
 - Överväg även de andra förutsagda indikationerna, som groddcellstumörer (evidensnivå L2, men huvudsakligen indirekta studier på barn) och testikulära gulesäckstumörer (endast modellförutsägelse, L5).
 ## Ansvarsfriskrivning
 

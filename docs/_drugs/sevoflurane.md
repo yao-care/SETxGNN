@@ -6,9 +6,9 @@ nav_order: 396
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Sevoflurane: predikterad ny indikation Prinzmetals angina (evidensnivå L5). Ursprunglig indikation: Ej angiven i de data som sammanställts för rapporten (indikationstext…"
 monitor_inn: "sevoflurane"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "migraine disorder", "inclusion body myositis"]
+description: "Sevoflurane: predikterad ny indikation Prinzmetal angina (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Sevoflurane
@@ -33,12 +33,12 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Sevofluran: Från allmän anestesi (inhalationsnarkos) till Prinzmetals angina
+## Sevoflurane: Prinzmetal angina
 {: .text-alpha }
 
 ## Sammanfattning
 
-Sevofluran är en inhalationsanestetika (narkosgas) som har använts för att söva patienter vid kirurgi. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **Prinzmetals angina** (poäng 99,8 %), men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna riktning. Förutsägelsen bygger enbart på modellen.
+Sevofluran är en inhalationsanestetika (narkosgas) som har använts för att söva patienter vid kirurgi. Förutsägelsen bygger enbart på modellen.
 
 ---
 
@@ -46,12 +46,12 @@ Sevofluran är en inhalationsanestetika (narkosgas) som har använts för att s�
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i de data som sammanställts för rapporten (indikationstexten saknas för alla godkännanden) |
-| Förutsagd ny indikation | Prinzmetals angina |
-| TxGNN-förutsägelsepoäng | 99,8 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Prinzmetal angina |
+| TxGNN-förutsägelsepoäng | 0.9978 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 6 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -115,15 +115,12 @@ Modellen förutsäger även andra indikationer. För ingen av dem finns kliniskt
 
 | Rang | Förutsagd indikation | TxGNN-poäng | Evidensnivå | Kommentar |
 |------|------|------|------|------|
-| 2 | Tourettes syndrom | 99,5 % | L5 | Ingen evidens; mekanistiskt avlägset |
-| 3 | Fibromyalgi | 99,4 % | L4 | Endast en fallrapport om narkoshantering (PMID [26419112](https://pubmed.ncbi.nlm.nih.gov/26419112/)) |
-| 4 | Tendinit | 99,4 % | L4 | Nio perioperativa narkosstudier, ingen behandlingsstudie |
-| 5 | Myositis fibrosa | 99,4 % | L5 | Ingen evidens |
-| 6 | Idiopatisk granulomatös myosit | 99,4 % | L5 | Identisk poäng som rang 5, möjligen en grafartefakt |
-| 7 | Nefrogent syndrom med olämplig antidures | 99,4 % | L5 | Inget rimligt mekanistiskt samband |
-| 8 | Trikotillomani | 99,3 % | L5 | Ingen evidens |
-| 9 | Migrän | 99,2 % | L4 | Endast en studie om narkos vid MR hos barn (PMID [31852450](https://pubmed.ncbi.nlm.nih.gov/31852450/)) |
-| 10 | Inklusionskroppsmyosit | 99,1 % | L4 | Endast en fallrapport om narkoshantering (PMID [27247916](https://pubmed.ncbi.nlm.nih.gov/27247916/)) |
+| 2 | Tourettes syndrom | 0,9950 | L5 | Ingen evidens; mekanistiskt avlägset |
+| 3 | Fibromyalgi | 0,9940 | L5 | Endast en fallrapport om narkoshantering (PMID [26419112](https://pubmed.ncbi.nlm.nih.gov/26419112/)) |
+| 4 | Tendinit | 0,9940 | L5 | Nio perioperativa narkosstudier, ingen behandlingsstudie |
+| 5 | Myositis fibrosa | 0,9940 | L5 | Ingen evidens |
+| 6 | Idiopatisk granulomatös myosit | 0,9940 | L5 | Identisk poäng som rang 5, möjligen en grafartefakt |
+| 7 | Nefrogent syndrom med olämplig antidures | 0,9940 | L5 | Inget rimligt mekanistiskt samband |
 
 Publikationerna för fibromyalgi, tendinit, migrän och inklusionskroppsmyosit beskriver narkos under kirurgi eller undersökningar. Ingen av dem visar att sevofluran behandlar sjukdomen.
 ## Ansvarsfriskrivning

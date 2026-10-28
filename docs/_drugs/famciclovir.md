@@ -6,9 +6,9 @@ nav_order: 187
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Famciclovir: predikterad ny indikation Postinfektiös neuralgi (evidensnivå L5). Ursprunglig indikation: Herpes zoster (enligt kunskapsgrafen…"
 monitor_inn: "famciclovir"
 predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hepatitis C induced liver cirrhosis", "malignant pleural mesothelioma", "AIDS-related disorder", "malignant epithelioid mesothelioma", "chickenpox", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
+description: "Famciclovir: predikterad ny indikation Post-infectious neuralgia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Famciclovir
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-## Famciklovir: Från herpes zoster till postinfektiös neuralgi
+## Famciclovir: Post-infectious neuralgia
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Famciklovir är ett antiviralt läkemedel som ursprungligen används mot herpes zoster (bältros). TxGNN-modellen förutsäger att det kan vara effektivt mot **postinfektiös neuralgi**, till exempel postherpetisk neuralgi, med mycket hög modellpoäng (99,7 %). Det finns dock bara **1 registrerad klinisk prövning**, och den testar inte famciklovir, samt **ingen publicerad litteratur**. Förutsägelsen är därför i praktiken en modellprediktion utan direkt klinisk evidens.
+Famciklovir är ett antiviralt läkemedel som ursprungligen används mot herpes zoster (bältros). Det finns dock bara **1 registrerad klinisk prövning**, och den testar inte famciklovir, samt **ingen publicerad litteratur**. Förutsägelsen är därför i praktiken en modellprediktion utan direkt klinisk evidens.
 
 ---
 
@@ -48,12 +48,12 @@ Famciklovir är ett antiviralt läkemedel som ursprungligen används mot herpes 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Herpes zoster (enligt kunskapsgrafen, eftersom de svenska godkännandena saknar indikationstext) |
-| Förutsagd ny indikation | Postinfektiös neuralgi |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Post-infectious neuralgia |
+| TxGNN-förutsägelsepoäng | 0.9975 |
 | Evidensnivå | L5 (endast modellförutsägelse; ingen studie har testat famciklovir för denna indikation) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 3 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -86,9 +86,9 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 12293 | Famvir | Filmdragerad tablett | Ingen indikationstext angiven (avregistrerad) |
-| 12603 | Famvir | Filmdragerad tablett | Ingen indikationstext angiven (avregistrerad) |
-| 12404 | Famvir | Filmdragerad tablett | Ingen indikationstext angiven (avregistrerad) |
+| 12293 | Famvir | Filmdragerad tablett | Ingen indikationstext angiven (godkänd) |
+| 12603 | Famvir | Filmdragerad tablett | Ingen indikationstext angiven (godkänd) |
+| 12404 | Famvir | Filmdragerad tablett | Ingen indikationstext angiven (godkänd) |
 
 Tillverkare för alla tre är Phoenix Labs Unlimited Company. Inget av godkännandena är för närvarande giltigt.
 

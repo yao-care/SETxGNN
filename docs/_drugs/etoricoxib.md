@@ -4,17 +4,17 @@ title: Etoricoxib
 parent: Endast modellprediktion (L5)
 nav_order: 183
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Etoricoxib: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad i godkännandedata"
 monitor_inn: "ETORICOXIB"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
 ---
 
 # Etoricoxib
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -52,7 +52,7 @@ Etoricoxib är en selektiv COX-2-hämmare som i den sammanställda datan saknar 
 | Förutsagd ny indikation | Migrän (migraine disorder) |
 | TxGNN-förutsägelsepoäng | 99,9 % |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (samtliga indragna) |
 | Rekommenderat beslut | Avvakta |
 

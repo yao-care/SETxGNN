@@ -6,9 +6,9 @@ nav_order: 419
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Tetrabenazine: predikterad ny indikation Polycystisk njursjukdom typ 3 med eller utan polycystisk leversjukdom (evidensnivå L5). Ursprunglig indikation: Huntingtons sjukdom (enligt kunskapsgrafen"
 monitor_inn: "tetrabenazine"
 predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "karyomegalic interstitial nephritis", "thoracic malformation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "acute intermittent porphyria", "adult familial nephronophthisis-spastic quadriparesia syndrome", "atypical glycine encephalopathy", "congenital disorder of glycosylation with defective fucosylation"]
+description: "Tetrabenazine: predikterad ny indikation Polycystic kidney disease 3 with or without polycystic liver disease (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Tetrabenazine
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Tetrabenazin: Från Huntingtons sjukdom till polycystisk njursjukdom typ 3 (med eller utan polycystisk leversjukdom)
+## Tetrabenazine: Polycystic kidney disease 3 with or without polycystic liver disease
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Tetrabenazin användes ursprungligen för att behandla Huntingtons sjukdom och n
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Huntingtons sjukdom (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Polycystisk njursjukdom typ 3 med eller utan polycystisk leversjukdom |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Polycystic kidney disease 3 with or without polycystic liver disease |
+| TxGNN-förutsägelsepoäng | 0.9990 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---

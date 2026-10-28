@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Levonorgestrel
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 262
-evidence_level: L5
-indication_count: 6
+evidence_level: L4
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Levonorgestrel: predikterad ny indikation Akne (evidensnivå L5). Ursprunglig indikation: Postmenopausal osteoporos, osteoporos (enligt kunskapsgrafen"
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+description: "Levonorgestrel: predikterad ny indikation Akne (acne (disease)) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Levonorgestrel
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **6** st
+Evidensnivå: **L4** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-## Levonorgestrel: Från postmenopausal osteoporos till akne
+## Levonorgestrel: Akne (acne (disease))
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Levonorgestrel är ett gestagen (könshormon) som i kunskapsgrafen anges ha osteoporos, inklusive postmenopausal osteoporos, som ursprunglig indikation. I Sverige har det i praktiken använts som preventivmedel och nödpreventivmedel. TxGNN-modellen förutsäger att det kan vara effektivt mot **akne**, men det finns **inga kliniska prövningar** och **20 publikationer**, varav endast en är en randomiserad studie av en kombinerad p-pilleri med etinylestradiol. Evidensen för levonorgestrel som enskild substans är därmed mycket begränsad.
+Levonorgestrel är ett gestagen (könshormon) som har osteoporos, inklusive postmenopausal osteoporos, som ursprunglig indikation. I Sverige har det i praktiken använts som preventivmedel och nödpreventivmedel. TxGNN-modellen förutsäger att det kan vara effektivt mot **akne**, men det finns **inga kliniska prövningar** och **20 publikationer**, varav endast en är en randomiserad studie av en kombinerad p-pilleri med etinylestradiol. Evidensen för levonorgestrel som enskild substans är därmed mycket begränsad.
 
 ---
 
@@ -48,11 +48,11 @@ Levonorgestrel är ett gestagen (könshormon) som i kunskapsgrafen anges ha oste
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Postmenopausal osteoporos, osteoporos (enligt kunskapsgrafen; godkända indikationstexter saknas i de sammanställda svenska godkännandena) |
-| Förutsagd ny indikation | Akne |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Akne (acne (disease)) |
+| TxGNN-förutsägelsepoäng | 0.9988 |
 | Evidensnivå | L4 (endast översikter och mekanistiska studier; ingen avslutad fas 2/3-prövning) |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (samtliga återkallade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 Akne styrs till stor del av androgener i talgkörteln. Bevisad hudnytta finns för kombinerade p-piller, där östrogenet minskar äggstockarnas och binjurarnas androgenproduktion och höjer nivån av könshormonbindande globulin (SHBG). Det gäller även p-piller med antiandrogena gestagener, till exempel klormadinonacetat. En randomiserad, placebokontrollerad studie (Leyden et al., 2002) undersökte just en kombination av 20 µg etinylestradiol och 100 µg levonorgestrel vid måttlig akne. Det är den mest direkt relevanta studien, men effekten kan inte tillskrivas levonorgestrel ensamt.
 
-Den höga TxGNN-poängen speglar sannolikt att levonorgestrel ligger nära hormonella preventivmedel i kunskapsgrafen, snarare än direkt evidens för nytta. Levonorgestrelfrisättande spiraler och implantat beskrivs främst som preventivmedel, där akne snarare är en möjlig biverkning. Sambandet till den ursprungliga osteoporosindikationen är svagt.
+Den höga TxGNN-poängen kommer från TxGNN-modellen (djupinlärning) och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens för nytta. Levonorgestrelfrisättande spiraler och implantat beskrivs främst som preventivmedel, där akne snarare är en möjlig biverkning. Sambandet till den ursprungliga osteoporosindikationen är svagt.
 
 ---
 

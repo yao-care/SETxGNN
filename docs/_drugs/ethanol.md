@@ -40,7 +40,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 ### Sammanfattning
 
-Etanol (varumärket Streplieve m.fl.) har inga angivna godkända indikationer i den svenska licensdatan, och alla 20 registrerade godkännanden är avregistrerade. TxGNN-modellen förutsäger att etanol kan vara effektivt mot **migrän** (poäng 99,3 %), men det finns **inga kliniska prövningar** och ingen publikation som visar behandlingseffekt. Litteraturen beskriver tvärtom etanol som en **utlösande faktor** för migrän, och evidensen är därför på nivå L5.
+Etanol (varumärket Streplieve m.fl.) har inga angivna godkända indikationer i den svenska licensdatan, och läkemedlet marknadsförs med 20 giltiga godkännanden. TxGNN-modellen (deep learning) förutsäger att etanol kan vara effektivt mot **migrän** (poäng 0,9929), men det finns **inga kliniska prövningar** och ingen publikation som visar behandlingseffekt. Litteraturen beskriver tvärtom etanol som en **utlösande faktor** för migrän, och evidensen är därför på nivå L5.
 
 ---
 
@@ -50,9 +50,9 @@ Etanol (varumärket Streplieve m.fl.) har inga angivna godkända indikationer i 
 |------|------|
 | Ursprunglig indikation | Ingen indikationstext angiven i godkännandedatan |
 | Förutsagd ny indikation | Migrän (migraine disorder) |
-| TxGNN-förutsägelsepoäng | 99,3 % |
+| TxGNN-förutsägelsepoäng | 0,9929 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -62,9 +62,9 @@ Etanol (varumärket Streplieve m.fl.) har inga angivna godkända indikationer i 
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig för etanol i det data som sammanställts för denna rapport. Dessutom saknas en dokumenterad ursprunglig indikation, så sambandet mellan en befintlig och en ny användning går inte att beskriva.
 
-Den höga poängen speglar sannolikt en koppling i kunskapsgrafen mellan etanol och migränbiologi, snarare än en terapeutisk effekt. Publikationerna pekar åt motsatt håll: etanol är en känd utlösare av migränanfall. En prekliniktudie (PMID 37101198, 2023) visar att acetaldehyd, en nedbrytningsprodukt av etanol, verkar via CGRP-receptorn och TRPA1 i Schwann-celler och ger överkänslighet runt ögat hos möss. Det är en mekanism för att *framkalla* migrän, inte för att behandla den.
+Den höga poängen kommer från TxGNN-modellen (deep learning) och kan spegla likheter som modellen lärt sig mellan relaterade sjukdomar, inte biologisk evidens. Publikationerna pekar åt motsatt håll: etanol är en känd utlösare av migränanfall. En prekliniktudie (PMID 37101198, 2023) visar att acetaldehyd, en nedbrytningsprodukt av etanol, verkar via CGRP-receptorn och TRPA1 i Schwann-celler och ger överkänslighet runt ögat hos möss. Det är en mekanism för att *framkalla* migrän, inte för att behandla den.
 
-Det finns därför inget stöd för att etanol skulle fungera som migränbehandling. Den näst högst rankade förutsägelsen, migrän med hjärnstamsaura (poäng 99,1 %), saknar också direkt evidens. Poängen verkar ärvd från den överordnade migränen, och träffarna i litteraturen är indirekta eller felmatchningar.
+Det finns därför inget stöd för att etanol skulle fungera som migränbehandling. Den näst högst rankade förutsägelsen, migrän med hjärnstamsaura (poäng 0,9914), saknar också direkt evidens. Poängen verkar ärvd från den överordnade migränen, och träffarna i litteraturen är indirekta eller felmatchningar.
 
 ---
 
@@ -123,13 +123,13 @@ Se produktresumén för information om varningar och kontraindikationer, efterso
 **Beslut: Avvakta**
 
 **Motivering:**
-- Det finns ingen klinisk eller publicerad evidens för att etanol behandlar migrän. Den tillgängliga litteraturen beskriver snarare etanol som en utlösare, och den höga modellpoängen verkar bero på samband i kunskapsgrafen.
-- Alla svenska godkännanden är avregistrerade, och säkerhetsdata från produktresumén saknas.
+- Det finns ingen klinisk eller publicerad evidens för att etanol behandlar migrän. Den tillgängliga litteraturen beskriver snarare etanol som en utlösare, och den höga modellpoängen kommer från TxGNN-modellen (deep learning) och kan spegla likheter som modellen lärt sig mellan relaterade sjukdomar, inte biologisk evidens.
+- Läkemedlet marknadsförs i Sverige med 20 giltiga godkännanden, och säkerhetsdata från produktresumén saknas.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer, vilket är ett blockerande datagap för säkerhetsgranskning
 - Komplettera verkningsmekanismen från DrugBank
-- Systematiskt granska om det finns några studier som visar terapeutisk effekt av etanol vid migrän, och bedöma om kopplingen i kunskapsgrafen speglar en utlösande snarare än en behandlande roll
+- Systematiskt granska om det finns några studier som visar terapeutisk effekt av etanol vid migrän, och bedöma om modellens poäng (TxGNN, deep learning) speglar likheter mellan relaterade sjukdomar snarare än en behandlande roll
 - Därefter bör prekliniska och kliniska data finnas innan en ny bedömning görs
 ## Ansvarsfriskrivning
 

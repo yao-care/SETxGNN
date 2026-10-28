@@ -40,7 +40,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 ## Sammanfattning
 
-Atropin är ett antikolinergt läkemedel (muskarinantagonist) som i Sverige har haft flera godkännanden som injektionsvätska och ögondroppar. Samtliga godkännanden är numera avregistrerade, och den ursprungliga indikationstexten saknas i det data som sammanställts för rapporten. TxGNN-modellen förutsäger att atropin kan vara effektivt mot **migrän** (poäng 99,6 %), men det finns **inga kliniska prövningar** och endast **prekliniska eller indirekta publikationer**. Evidensen är därför mycket begränsad (nivå L5).
+Atropin är ett antikolinergt läkemedel (muskarinantagonist) som i Sverige har haft flera godkännanden som injektionsvätska och ögondroppar. Läkemedlet är marknadsfört och samtliga 9 godkännanden är giltiga, men den ursprungliga indikationstexten saknas i det data som sammanställts för rapporten. TxGNN-modellen (djupinlärning) förutsäger att atropin kan vara effektivt mot **migrän** (poäng 0,9956), men det finns **inga kliniska prövningar** och endast **prekliniska eller indirekta publikationer**. Poängen kommer från TxGNN-modellen och kan spegla likheter som modellen lärt sig mellan relaterade sjukdomar, inte biologisk evidens. Evidensen är därför mycket begränsad (nivå L5).
 
 ---
 
@@ -50,10 +50,10 @@ Atropin är ett antikolinergt läkemedel (muskarinantagonist) som i Sverige har 
 |------|------|
 | Ursprunglig indikation | Ej angiven i tillgängliga godkännandedata |
 | Förutsagd ny indikation | Migrän (migraine disorder) |
-| TxGNN-förutsägelsepoäng | 99,6 % |
+| TxGNN-förutsägelsepoäng | 0,9956 |
 | Evidensnivå | L5 (endast modellförutsägelse, inga kliniska studier) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 9 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
+| Antal godkännanden | 9 (giltiga: 9) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -87,11 +87,11 @@ Flera övriga träffar i sökningen var inte relevanta för atropin (till exempe
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 59083 | Atropine Accord | Injektionsvätska, lösning i förfylld spruta | Avregistrerad |
-| 53365 | Atropin Aguettant | Injektionsvätska, lösning i förfylld spruta | Avregistrerad |
-| 66778 | Atropine Noridem | Injektionsvätska, lösning | Avregistrerad |
-| 9018 | Atropin Viatris | Injektionsvätska, lösning | Avregistrerad |
-| 9654 | Atropin Bausch & Lomb | Ögondroppar, lösning i endosbehållare | Avregistrerad |
+| 59083 | Atropine Accord | Injektionsvätska, lösning i förfylld spruta | Godkänd |
+| 53365 | Atropin Aguettant | Injektionsvätska, lösning i förfylld spruta | Godkänd |
+| 66778 | Atropine Noridem | Injektionsvätska, lösning | Godkänd |
+| 9018 | Atropin Viatris | Injektionsvätska, lösning | Godkänd |
+| 9654 | Atropin Bausch & Lomb | Ögondroppar, lösning i endosbehållare | Godkänd |
 
 Visar 5 av 9 godkännanden. Indikationstext finns inte angiven i godkännandedata.
 
@@ -112,7 +112,7 @@ Varningar och kontraindikationer från produktresumén saknas i det data som sam
 
 **Motivering:**
 - Trots mycket hög modellpoäng bygger förutsägelsen enbart på prekliniska och indirekta data. Inga kliniska prövningar finns, och ingen studie visar att atropin lindrar migrän hos människa. Dessutom pekar en studie på att muskarinblockad kan vara ogynnsam vid migränaura.
-- Alla svenska godkännanden är avregistrerade, och den antikolinerga biverkningsprofilen samt den stora interaktionsbördan talar för försiktighet.
+- Läkemedlet är marknadsfört i Sverige (9 av 9 godkännanden är giltiga), och den antikolinerga biverkningsprofilen samt den stora interaktionsbördan talar för försiktighet.
 
 **För att gå vidare krävs:**
 - Komplettera produktresumédata (varningar, kontraindikationer, ursprunglig indikation) och verkningsmekanism, vilket är blockerande för säkerhetsbedömningen.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ethambutol
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 176
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Ethambutol: predikterad ny indikation Epiglottit (evidensnivå L4). Ursprunglig indikation: Lungtuberkulos (enligt kunskapsgrafen"
 monitor_inn: "ethambutol"
 predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection", "peritonitis", "infectious otitis media"]
+description: "Ethambutol: predikterad ny indikation Epiglottitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ethambutol
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **5** st
+Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L4** | Förutsagda indikationer: **5** st
 
 </div>
 
-## Etambutol: Från lungtuberkulos till epiglottit
+## Ethambutol: Epiglottitis
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Etambutol är ett antimykobakteriellt läkemedel som ursprungligen används vid behandling av **lungtuberkulos**. TxGNN-modellen förutsäger att det kan vara effektivt mot **epiglottit** med mycket hög modellpoäng (99,9 %), men det finns **inga kliniska prövningar** och endast **en relevant publikation** (en retrospektiv fallserie om struptuberkulos). Förutsägelsen bedöms därför som svagt underbyggd och sannolikt ett utslag av kopplingen mellan tuberkulos och övre luftvägsinfektioner i kunskapsgrafen.
+Etambutol är ett antimykobakteriellt läkemedel som ursprungligen används vid behandling av **lungtuberkulos**. TxGNN-modellen förutsäger att det kan vara effektivt mot **epiglottit** med mycket hög modellpoäng (0,9990), men det finns **inga kliniska prövningar** och endast **en relevant publikation** (en retrospektiv fallserie om struptuberkulos).
 
 ---
 
@@ -48,12 +48,12 @@ Etambutol är ett antimykobakteriellt läkemedel som ursprungligen används vid 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Lungtuberkulos (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Epiglottit |
-| TxGNN-förutsägelsepoäng | 99,9 % |
-| Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 1 |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Epiglottitis |
+| TxGNN-förutsägelsepoäng | 0.9990 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ Någon detaljerad uppgift om verkningsmekanismen finns inte i de data som samman
 
 Sambandet mellan lungtuberkulos och epiglottit är **indirekt**. Den enda relaterade publikationen beskriver struptuberkulos, där epiglottis ibland är angripen som en del av en tuberkulossjukdom som behandlas med en standardkombination som innehåller etambutol. Det är alltså den befintliga tuberkulosindikationen som visar sig i ett annat organ, och inte en ny användning.
 
-Mekanistiskt finns ingen anledning att tro att etambutol fungerar mot de vanliga orsakerna till epiglottit, såsom *Haemophilus influenzae* typ b och streptokocker. Den höga modellpoängen beror sannolikt på kopplingen mellan tuberkulos och övre luftvägsinfektioner i kunskapsgrafen.
+Mekanistiskt finns ingen anledning att tro att etambutol fungerar mot de vanliga orsakerna till epiglottit, såsom *Haemophilus influenzae* typ b och streptokocker.
 
 ---
 

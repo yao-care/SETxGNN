@@ -4,17 +4,17 @@ title: Telmisartan
 parent: Endast modellprediktion (L5)
 nav_order: 413
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Telmisartan: predikterad ny indikation Prinzmetal angina (evidensnivå L5). Ursprunglig indikation: Hypertoni och stroke/cerebrovaskulär sjukdom (enligt kunskapsgrafen…"
 monitor_inn: "TELMISARTAN"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
+description: "Telmisartan: predikterad ny indikation Prinzmetal angina (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Telmisartan
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Telmisartan: Från hypertoni till Prinzmetal angina
+## Telmisartan: Prinzmetal angina
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Telmisartan är en angiotensinreceptorblockerare (ARB) som ursprungligen använd
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Hypertoni och stroke/cerebrovaskulär sjukdom (enligt kunskapsgrafen, eftersom indikationstext saknas i de svenska godkännandena) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Prinzmetal angina |
-| TxGNN-förutsägelsepoäng | 99,98 % |
+| TxGNN-förutsägelsepoäng | 0.9998 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 12 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 12 av 12) |
+| Antal godkännanden | 12 (giltiga: 12) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Prinzmetal angina orsakas av kramp (vasospasm) i kranskärlen. En ARB blockerar angiotensin II-receptorn av typ 1, vilket motverkar kärlsammandragning. Telmisartan har dessutom förmodade effekter på kärlväggens funktion (endotelet). Detta ger en rimlig teoretisk koppling till sjukdomen.
 
-Kopplingen är dock **spekulativ** och stöds inte av några data som hämtats in. Den höga poängen visar att modellen ser ett samband i kunskapsgrafen, men säger ingenting om faktisk klinisk effekt.
+Kopplingen är dock **spekulativ** och stöds inte av några data som hämtats in. Den höga poängen kommer från TxGNN-modellen (deep learning) och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens.
 
 ---
 
@@ -116,7 +116,6 @@ Se produktresumén för fullständig säkerhetsinformation, varningar och kontra
 - Systematisk litteratursökning efter data om telmisartan eller andra ARB vid kranskärlskramp.
 - Prekliniska eller små kliniska studier som visar effekt på kranskärlens spasm.
 - Kompletterande data om verkningsmekanism och produktresumé för säkerhetsbedömning, särskilt kontraindikationer.
-- Klargörande av kommersiell tillgänglighet i Sverige, eftersom inga godkännanden är giltiga.
 
 **Observera:** Andra förutsagda indikationer för telmisartan har betydligt mer underlag än Prinzmetal angina, bland annat intracerebral blödning (evidensnivå L2, med en avslutad fas 3-studie av en trippelkombination) och cerebral artärocklusion (L3, huvudsakligen prekliniska studier). Dessa kan vara mer lovande att utvärdera vidare, men de ligger nära läkemedlets ursprungliga stroke-indikationer.
 ## Ansvarsfriskrivning

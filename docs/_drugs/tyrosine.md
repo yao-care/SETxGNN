@@ -52,7 +52,7 @@ Tyrosin är en aminosyra som ingår i flera parenterala näringslösningar och i
 | Förutsagd ny indikation | Cauda equina-syndrom |
 | TxGNN-förutsägelsepoäng | 99,8 % |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -62,7 +62,7 @@ Tyrosin är en aminosyra som ingår i flera parenterala näringslösningar och i
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Tyrosin är en aminosyra och en byggsten för katekolaminer (dopamin, noradrenalin) och för sköldkörtelhormoner. Läkemedlet ingår i aminosyrablandningar för näringstillförsel.
 
-Något mekanistiskt samband mellan tyrosin och cauda equina-syndrom, som orsakas av tryckskada på nervrötterna i ryggmärgskanalens nedre del, stöds inte av tillgängliga data. Den mycket höga poängen (0,998) saknar stöd i kliniska eller publicerade data och bör tolkas med stor försiktighet. Modellens rangordning (plats 3 450) är dessutom inte särskilt framträdande.
+Något mekanistiskt samband mellan tyrosin och cauda equina-syndrom, som orsakas av tryckskada på nervrötterna i ryggmärgskanalens nedre del, stöds inte av tillgängliga data. Den mycket höga poängen (0,9977) saknar stöd i kliniska eller publicerade data och bör tolkas med stor försiktighet. Modellens rangordning (plats 3 450) är dessutom inte särskilt framträdande.
 
 Bland övriga förutsägelser i listan (bland annat vinkelglaukom, hypertyreos, posturalt ortostatiskt takykardisyndrom och neovaskulärt glaukom) finns heller ingen övertygande evidens. Flera av dem är dessutom mekanistiskt tveksamma, till exempel hypertyreos, där tyrosin som substrat för hormonsyntes snarare skulle kunna förvärra tillståndet.
 

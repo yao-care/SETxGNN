@@ -6,9 +6,9 @@ nav_order: 226
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
-description: "Hydromorphone: predikterad ny indikation Faryngit (pharyngitis) (evidensnivå L5). Ursprunglig indikation: Förkylning…"
 monitor_inn: "hydromorphone"
 predicted_indications: ["pharyngitis", "allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia"]
+description: "Hydromorphone: predikterad ny indikation Faryngit (pharyngitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Hydromorphone
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-## Hydromorfon: Från förkylning och nasofaryngit till farynngit
+## Hydromorphone: Faryngit (pharyngitis)
 {: .text-alpha }
 
 **Obs om förutsägelsen:** Rapporten följer den högst rankade förutsägelsen (faryngit). Den förutsägelse som har klart starkast evidens i det sammanställda underlaget är dock **huvudvärkssjukdom** (migrän), vilket redovisas separat nedan.
@@ -42,7 +42,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 ### Sammanfattning
 
-Hydromorfon är en opioid (mu-opioidagonist) som i kunskapsgrafen som TxGNN bygger på är kopplad till förkylning och nasofaryngit. Modellen förutsäger att läkemedlet kan vara effektivt mot **faryngit** (poäng 99,8 %), men de **3 kliniska prövningarna** gäller smärta efter tonsillektomi, inte faryngit, och **inga publikationer** finns för denna indikation. Evidensen är därför indirekt och svag.
+Hydromorfon är en opioid (mu-opioidagonist). TxGNN-modellen (djupinlärning) förutsäger att läkemedlet kan vara effektivt mot **faryngit** (poäng 0,9981). Poängen kommer från modellen och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens. De **3 kliniska prövningarna** gäller smärta efter tonsillektomi, inte faryngit, och **inga publikationer** finns för denna indikation. Evidensen är därför indirekt och svag.
 
 ---
 
@@ -50,12 +50,12 @@ Hydromorfon är en opioid (mu-opioidagonist) som i kunskapsgrafen som TxGNN bygg
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Förkylning, nasofaryngit (enligt kunskapsgrafen). Godkännandena i Sverige har ingen indikationstext angiven. |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Faryngit (pharyngitis) |
-| TxGNN-förutsägelsepoäng | 99,8 % |
-| Evidensnivå | L4 (endast indirekt evidens från studier av postoperativ smärta) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 16 (alla indragna) |
+| TxGNN-förutsägelsepoäng | 0.9981 |
+| Evidensnivå | L5 (endast indirekt evidens från studier av postoperativ smärta) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 16 av 16) |
+| Antal godkännanden | 16 (giltiga: 16) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ Hydromorfon är en opioid (mu-opioidagonist) som i kunskapsgrafen som TxGNN bygg
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Hydromorfon är känt som en mu-opioidagonist med central smärtlindrande verkan, och kan därför i princip lindra smärta i svalget.
 
-Sambandet mellan den ursprungliga och den nya indikationen är anatomiskt och symtomatiskt: förkylning, nasofaryngit och faryngit drabbar alla de övre luftvägarna. Det höga modellvärdet speglar sannolikt just denna närhet i kunskapsgrafen och inte någon verklig behandlingseffekt.
+Sambandet mellan den ursprungliga och den nya indikationen är anatomiskt och symtomatiskt: förkylning, nasofaryngit och faryngit drabbar alla de övre luftvägarna. Poängen kommer från TxGNN-modellen (deep learning) och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens för någon verklig behandlingseffekt.
 
 Hydromorfon påverkar inte den infektiösa eller inflammatoriska orsaken till faryngit. Eventuell nytta skulle bara vara symtomatisk (smärtlindring) och måste vägas mot risken för andningsdepression och beroende.
 

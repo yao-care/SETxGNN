@@ -6,9 +6,9 @@ nav_order: 227
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Hydroxocobalamin: predikterad ny indikation Esofagusvaricer utan blödning (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext registrerad i svenska godkännandedata.…"
 monitor_inn: "hydroxocobalamin"
 predicted_indications: ["esophageal varices without bleeding", "esophageal varices with bleeding"]
+description: "Hydroxocobalamin: predikterad ny indikation Esophageal varices without bleeding (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Hydroxocobalamin
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Hydroxokobalamin: Från vitamin B12-brist till esofagusvaricer utan blödning
+## Hydroxocobalamin: Esophageal varices without bleeding
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Hydroxokobalamin är en form av vitamin B12 som ursprungligen används vid B12-brist, perniciös anemi och cyanidförgiftning. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **esofagusvaricer utan blödning** (poäng 99,2 %), men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna riktning. Förutsägelsen bygger enbart på en grafbaserad modell.
+Hydroxokobalamin är en form av vitamin B12 som ursprungligen används vid B12-brist, perniciös anemi och cyanidförgiftning. Förutsägelsen bygger enbart på en grafbaserad modell.
 
 ---
 
@@ -48,12 +48,12 @@ Hydroxokobalamin är en form av vitamin B12 som ursprungligen används vid B12-b
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext registrerad i svenska godkännandedata. Enligt kunskapsgrafen: B12-brist, cyanidförgiftning, perniciös anemi |
-| Förutsagd ny indikation | Esofagusvaricer utan blödning |
-| TxGNN-förutsägelsepoäng | 99,2 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Esophageal varices without bleeding |
+| TxGNN-förutsägelsepoäng | 0.9923 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden (ingen aktivt godkänd produkt) |
-| Antal godkännanden | 1 (0 giltiga, 1 återkallat) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Base
 
 Det enda tänkbara sambandet är att hydroxokobalamin kan binda (fånga upp) kväveoxid (NO) och höja blodtrycket. Det skulle teoretiskt kunna påverka blodflödet i portala kärl och i tarmens kärlbädd. Detta är dock rent spekulativt och stöds inte av något underlag i den data som sammanställts för rapporten.
 
-Den höga modellpoängen visar bara att läkemedlet och sjukdomen är kopplade i kunskapsgrafen. Något etablerat mekanistiskt samband har inte kunnat visas. Observera också att en närliggande förutsägelse, esofagusvaricer med blödning, har exakt samma poäng. Det tyder på att modellen inte särskiljer mellan dessa tillstånd.
+Något etablerat mekanistiskt samband har inte kunnat visas. Observera också att en närliggande förutsägelse, esofagusvaricer med blödning, har exakt samma poäng. Det tyder på att modellen inte särskiljer mellan dessa tillstånd.
 
 ---
 
@@ -72,7 +72,7 @@ Den höga modellpoängen visar bara att läkemedlet och sjukdomen är kopplade i
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 49731 | Hydroxocobalamin Alternova (Alternova A/S) | Injektionsvätska, lösning | Ingen indikationstext registrerad (godkännandet är återkallat) |
+| 49731 | Hydroxocobalamin Alternova (Alternova A/S) | Injektionsvätska, lösning | Ingen indikationstext registrerad (godkännandet är godkänt) |
 
 ---
 

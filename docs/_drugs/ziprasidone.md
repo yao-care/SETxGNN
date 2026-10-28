@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ziprasidone
-parent: Hög evidens (L1-L2)
+parent: Endast modellprediktion (L5)
 nav_order: 458
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Ziprasidone: predikterad ny indikation Stor affektiv sjukdom (major affective disorder) (evidensnivå L2). Ursprunglig indikation: Mani vid bipolär sjukdom, bipolär sjukdom…"
 monitor_inn: "ziprasidone"
 predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "major affective disorder", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
+description: "Ziprasidone: predikterad ny indikation Trichotillomania (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ziprasidone
 {: .fs-9 }
 
-Evidensnivå: **L2** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L2** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Ziprasidon: Från bipolär sjukdom och schizofreni till stor affektiv sjukdom (depression)
+## Ziprasidone: Trichotillomania
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Ziprasidon är ett atypiskt antipsykotiskt läkemedel som ursprungligen används vid mani i samband med bipolär sjukdom, bipolär sjukdom och schizofreni. TxGNN-modellen förutsäger att det kan vara effektivt mot **stor affektiv sjukdom** (framför allt tilläggsbehandling vid egentlig depression), med **7 kliniska prövningar** och **20 publikationer** som för närvarande stöder denna riktning. Alla svenska godkännanden är dock avregistrerade.
+Ziprasidon är ett atypiskt antipsykotiskt läkemedel som ursprungligen används vid mani i samband med bipolär sjukdom, bipolär sjukdom och schizofreni. TxGNN-modellen förutsäger att det kan vara effektivt mot **stor affektiv sjukdom** (framför allt tilläggsbehandling vid egentlig depression), med **7 kliniska prövningar** och **20 publikationer** som för närvarande stöder denna riktning.
 
 *Obs: Den förutsagda indikationen med högst poäng, trichotillomani, saknar helt stödjande studier. Rapporten fokuserar på stor affektiv sjukdom (rank 3), som har mest evidens bland de förutsagda indikationerna.*
 
@@ -50,12 +50,12 @@ Ziprasidon är ett atypiskt antipsykotiskt läkemedel som ursprungligen används
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Mani vid bipolär sjukdom, bipolär sjukdom, schizofreni (enligt kunskapsgrafen; indikationstext saknas i svenska godkännanden) |
-| Förutsagd ny indikation | Stor affektiv sjukdom (major affective disorder) |
-| TxGNN-förutsägelsepoäng | 99,7 % |
-| Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Endast avregistrerade (Cancelled only) |
-| Antal godkännanden | 8 |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Trichotillomania |
+| TxGNN-förutsägelsepoäng | 0.9983 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
+| Antal godkännanden | 8 (giltiga: 8) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -105,11 +105,11 @@ Flera atypiska antipsykotika är redan godkända som tillägg till antidepressiv
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 44775 | Ziprasidon Actavis | Kapsel, hård | Ej angiven (avregistrerad) |
-| 44774 | Ziprasidon Actavis | Kapsel, hård | Ej angiven (avregistrerad) |
-| 63376 | Ziprasidon Abacus Medicine | Kapsel, hård | Ej angiven (avregistrerad) |
-| 44777 | Ziprasidon Actavis | Kapsel, hård | Ej angiven (avregistrerad) |
-| 44776 | Ziprasidon Actavis | Kapsel, hård | Ej angiven (avregistrerad) |
+| 44775 | Ziprasidon Actavis | Kapsel, hård | Ej angiven (godkänd) |
+| 44774 | Ziprasidon Actavis | Kapsel, hård | Ej angiven (godkänd) |
+| 63376 | Ziprasidon Abacus Medicine | Kapsel, hård | Ej angiven (godkänd) |
+| 44777 | Ziprasidon Actavis | Kapsel, hård | Ej angiven (godkänd) |
+| 44776 | Ziprasidon Actavis | Kapsel, hård | Ej angiven (godkänd) |
 
 Totalt 8 godkännanden, samtliga avregistrerade. Utöver ovan ingår Ziprasidon Ebb (61783, 61782) och Ziprasidon 2care4 (62120).
 
@@ -130,14 +130,13 @@ Se produktresumén för fullständiga varningar och försiktighetsåtgärder.
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Flera randomiserade fas 2-studier och systematiska översikter pekar på ett möjligt värde som tilläggsbehandling vid depression, men någon bekräftande fas 3-studie saknas och resultaten är blandade. QT-risken och att alla svenska godkännanden är avregistrerade ökar försiktighetsbehovet.
+- Flera randomiserade fas 2-studier och systematiska översikter pekar på ett möjligt värde som tilläggsbehandling vid depression, men någon bekräftande fas 3-studie saknas och resultaten är blandade.
 
 **För att gå vidare krävs:**
 - Granskning av de fas 2-studier som har resultat (särskilt NCT00633399, NCT00555997 och NCT00490542) för att bedöma faktisk effektstorlek
 - Bekräftande randomiserad fas 3-studie i en väldefinierad underpopulation (t.ex. behandlingsresistent depression eller depressivt blandtillstånd)
 - Hämtning av produktresumé (varningar, kontraindikationer) och verkningsmekanismdata från DrugBank
 - Utvärdering av QT-risk och EKG-övervakning
-- Klargörande av regulatorisk väg, eftersom inga svenska godkännanden är giltiga
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

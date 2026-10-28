@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Olodaterol
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 325
-evidence_level: L4
-indication_count: 2
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Olodaterol: predikterad ny indikation Bronkit (evidensnivå L4). Ursprunglig indikation: Kronisk obstruktiv lungsjukdom (KOL)"
 monitor_inn: "olodaterol"
 predicted_indications: ["bronchitis"]
+description: "Olodaterol: predikterad ny indikation Bronkit (bronchitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Olodaterol
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **2** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L4** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Olodaterol: Från kronisk obstruktiv lungsjukdom (KOL) till bronkit
+## Olodaterol: Bronkit (bronchitis)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Olodaterol är en långverkande beta2-agonist (LABA) som ursprungligen används som underhållsbehandling vid **kronisk obstruktiv lungsjukdom (KOL)**. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **bronkit**, med mycket hög modellpoäng (99,8 %). Det finns dock **inga kliniska prövningar** för bronkit och bara **2 publikationer** (en riktlinje och en översiktsartikel), som handlar om KOL och inte om bronkit som egen diagnos.
+Olodaterol är en långverkande beta2-agonist (LABA) som ursprungligen används som underhållsbehandling vid **kronisk obstruktiv lungsjukdom (KOL)**. Det finns dock **inga kliniska prövningar** för bronkit och bara **2 publikationer** (en riktlinje och en översiktsartikel), som handlar om KOL och inte om bronkit som egen diagnos.
 
 ---
 
@@ -48,12 +48,12 @@ Olodaterol är en långverkande beta2-agonist (LABA) som ursprungligen används 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Kronisk obstruktiv lungsjukdom (KOL) |
-| Förutsagd ny indikation | Bronkit |
-| TxGNN-förutsägelsepoäng | 99,8 % |
-| Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 3 (alla avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Bronkit (bronchitis) |
+| TxGNN-förutsägelsepoäng | 0.9984 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -89,9 +89,9 @@ Båda publikationerna handlar om KOL. Ingen av dem undersöker bronkit som separ
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 48116 | Striverdi Respimat | Inhalationsvätska, lösning | Avregistrerad |
-| 51248 | Yanimo Respimat | Inhalationsvätska, lösning | Avregistrerad |
-| 51247 | Spiolto Respimat | Inhalationsvätska, lösning | Avregistrerad |
+| 48116 | Striverdi Respimat | Inhalationsvätska, lösning | Godkänd |
+| 51248 | Yanimo Respimat | Inhalationsvätska, lösning | Godkänd |
+| 51247 | Spiolto Respimat | Inhalationsvätska, lösning | Godkänd |
 
 Tillverkare för samtliga: Boehringer Ingelheim International GmbH. Underlaget anger ingen godkänd indikationstext för dessa godkännanden.
 
@@ -117,13 +117,12 @@ Se produktresumén för övrig säkerhetsinformation, eftersom varningar och kon
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den höga modellpoängen beror troligen på att bronkit överlappar med den befintliga KOL-indikationen. Det saknas studier för bronkit som egen diagnos, och alla godkännanden i Sverige är avregistrerade.
+- Den höga modellpoängen beror troligen på att bronkit överlappar med den befintliga KOL-indikationen.
 - Den andra förutsägelsen, obstruktiv lungsjukdom, har omfattande fas 3-studier. De rör dock KOL, alltså den redan kända indikationen, och bekräftar den i stället för att visa en ny användning. Studier utanför KOL, till exempel vid astma, är små och mekanistiska. LABA som enda behandling är inte lämplig vid astma utan inhalerad kortikosteroid.
 
 **För att gå vidare krävs:**
 - Klargöra om målet är ny användning eller bekräftelse av KOL-indikationen. Kronisk bronkit inom KOL är redan täckt av den befintliga indikationen.
 - Kontrollerade studier hos patienter med bronkit utan KOL, om en verkligt ny indikation eftersträvas.
-- Kontrollera tillgängligheten i Sverige, eftersom alla godkännanden är avregistrerade.
 - Hämta varningar och kontraindikationer från produktresumén och granska de 326 registrerade läkemedelsinteraktionerna.
 - Komplettera data om verkningsmekanismen.
 ## Ansvarsfriskrivning

@@ -6,9 +6,9 @@ nav_order: 145
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Dobutamine: predikterad ny indikation Alopeci (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga godkännandedata"
 monitor_inn: "dobutamine"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "Raynaud disease", "primary hereditary glaucoma", "headache disorder", "hypertrichosis (disease)", "migraine disorder"]
+description: "Dobutamine: predikterad ny indikation Alopecia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Dobutamine
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Dobutamin: Från ej angiven ursprunglig indikation till alopeci
+## Dobutamine: Alopecia
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Dobutamin (dobutamin) är en betaadrenerg inotrop substans som ges som intraven�
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i tillgängliga godkännandedata |
-| Förutsagd ny indikation | Alopeci |
-| TxGNN-förutsägelsepoäng | 99,85 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Alopecia |
+| TxGNN-förutsägelsepoäng | 0.9985 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 2 (båda avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Dobutamin (dobutamin) är en betaadrenerg inotrop substans som ges som intraven�
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts. Det är känt att dobutamin är en beta-1-adrenerg agonist som ökar hjärtats kontraktionskraft och används vid akut hjärtsvikt och som stöd av hjärtfunktionen. Någon tydlig koppling till hårfollikelbiologi finns inte.
 
-Den höga poängen beror sannolikt på att dobutamin ligger nära minoxidil i modellens kunskapsgraf. Minoxidil är ett kärlvidgande läkemedel med hårväxtfrämjande effekt och hjärttoxicitet. Det är alltså närhet i nätverket, inte en gemensam mekanism, som driver förutsägelsen. Den enda funna publikationen beskriver just minoxidilförgiftning hos en katt, där dobutamin användes för att behandla lågt blodtryck, och visar ingen effekt på hårväxt.
+Minoxidil är ett kärlvidgande läkemedel med hårväxtfrämjande effekt och hjärttoxicitet. Det är alltså närhet i nätverket, inte en gemensam mekanism, som driver förutsägelsen. Den enda funna publikationen beskriver just minoxidilförgiftning hos en katt, där dobutamin användes för att behandla lågt blodtryck, och visar ingen effekt på hårväxt.
 
 Övriga förutsägelser pekar åt samma håll: hereditära och autoimmuna håravfallstillstånd (hypotrichosis simplex i hårbotten, medfödd hypotrichosis milia, diffus alopecia areata), glaukom, Raynauds sjukdom, huvudvärk och migrän, samt hypertrichos. Ingen av dem har någon rimlig mekanistisk förklaring. Hypertrichos är dessutom motsatsen till alopeci. Glaukom och Raynauds sjukdom har endast spekulativa samband.
 
@@ -108,7 +108,7 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen saknar både kliniskt och mekanistiskt stöd (evidensnivå L5). Den höga poängen speglar sannolikt närhet till minoxidil i kunskapsgrafen, och dobutamin har dessutom en betydande kardiovaskulär riskprofil.
+- Förutsägelsen saknar både kliniskt och mekanistiskt stöd (evidensnivå L5).
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanism från DrugBank och bedöm om det finns någon biologisk koppling till hårfollikeln.

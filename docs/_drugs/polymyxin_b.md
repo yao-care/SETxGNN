@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Polymyxin B
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 356
-evidence_level: L5
-indication_count: 3
-last_modified_at: 2026-10-15
-description: "Polymyxin B: predikterad ny indikation Bronkit (evidensnivå L5). Ursprunglig indikation: Ej angiven (indikationstext saknas för samtliga godkännanden)"
+evidence_level: L4
+indication_count: 2
+last_modified_at: 2026-10-28
 monitor_inn: "polymyxin b"
 predicted_indications: ["bronchitis", "laryngotracheitis"]
+description: "Polymyxin B: predikterad ny indikation Bronkit (bronchitis) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Polymyxin B
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **3** st
+Evidensnivå: **L4** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Polymyxin B: Från ögon-/öronberedningar (ursprunglig indikation ej angiven) till bronkit
+## Polymyxin B: Bronkit (bronchitis)
 {: .text-alpha }
 
 ---
@@ -41,7 +41,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 ## Sammanfattning
 
 Polymyxin B har i Sverige marknadsförts som en del av kombinationsprodukten Terracortril med Polymyxin B (ögon-/örondroppar och ögon-/öronsalva). Produkterna är numera avregistrerade, och den godkända indikationstexten finns inte angiven.
-TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **bronkit**, med ett mycket högt förutsägelsepoäng (99,87 %). Det finns dock **inga registrerade kliniska prövningar** och bara indirekt litteratur: en liten fallserie och en jämförande studie om ventilatorassocierad pneumoni. Litteraturen visar dessutom att inhalerat polymyxin B kan verka irriterande på luftvägarna.
+TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **bronkit**, med ett mycket högt förutsägelsepoäng (0,9987). Det finns dock **inga registrerade kliniska prövningar** och bara indirekt litteratur: en liten fallserie och en jämförande studie om ventilatorassocierad pneumoni. Litteraturen visar dessutom att inhalerat polymyxin B kan verka irriterande på luftvägarna.
 
 ---
 
@@ -49,12 +49,12 @@ TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **bronkit**, 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven (indikationstext saknas för samtliga godkännanden) |
-| Förutsagd ny indikation | Bronkit |
-| TxGNN-förutsägelsepoäng | 99,87 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Bronkit (bronchitis) |
+| TxGNN-förutsägelsepoäng | 0.9987 |
 | Evidensnivå | L4 (inga kliniska prövningar, endast indirekt litteratur samt prekliniska studier och mekanismstudier) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 6 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
 
 ---

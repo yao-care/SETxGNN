@@ -6,9 +6,9 @@ nav_order: 410
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Tamsulosin: predikterad ny indikation Ambras typ av hypertrichosis universalis congenita (evidensnivå L5). Ursprunglig indikation: Benign prostatahyperplasi (enligt kunskapsgrafen"
 monitor_inn: "tamsulosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine with brainstem aura"]
+description: "Tamsulosin: predikterad ny indikation Ambras typ av hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de…"
 ---
 
 # Tamsulosin
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Tamsulosin: Från benign prostatahyperplasi till Ambras typ av hypertrichosis universalis congenita
+## Tamsulosin: Ambras typ av hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Tamsulosin användes ursprungligen för att behandla symtom vid **benign prostat
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Benign prostatahyperplasi (enligt kunskapsgrafen; ingen indikationstext finns i de svenska godkännandena) |
-| Förutsagd ny indikation | Ambras typ av hypertrichosis universalis congenita |
-| TxGNN-förutsägelsepoäng | 99,996 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Ambras typ av hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) |
+| TxGNN-förutsägelsepoäng | 1.0000 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 Något mekanistiskt samband med den förutsagda indikationen har inte kunnat identifieras. Ambras syndrom är en sällsynt medfödd genetisk sjukdom som kopplas till kromosom 8-omlagringar eller förändrad reglering av TRPS1. Ingen känd signalväg kopplar alfa-1-blockad till den genetiska grunden för överdriven hårväxt.
 
-Den höga poängen speglar sannolikt närhet i kunskapsgrafen till hårrelaterade sjukdomsnoder snarare än ett verkligt farmakologiskt samband. Förutsägelsen bör därför ses som en hypotes utan stöd och inte som en terapeutisk ledtråd.
+Förutsägelsen bör därför ses som en hypotes utan stöd och inte som en terapeutisk ledtråd.
 
 ---
 

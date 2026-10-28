@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 22
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Allopurinol: predikterad ny indikation Hepatisk porfyri (evidensnivå L5). Ursprunglig indikation: Gikt, hyperurikemi, akut uratnefropati (enligt kunskapsgrafen"
 monitor_inn: "ALLOPURINOL"
 predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
+last_modified_at: 2026-10-27
+description: "Allopurinol: predikterad ny indikation Hepatisk porfyri (hepatic porphyria) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Allopurinol
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Allopurinol: Från gikt till hepatisk porfyri
+## Allopurinol: Xantinoxidashämmare → Hepatisk porfyri (hepatic porphyria)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Allopurinol är en xantinoxidashämmare som ursprungligen används för att behandla **gikt**, hyperurikemi och akut uratnefropati. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **hepatisk porfyri**, men förutsägelsen bygger enbart på en beräkningsmodell: det finns **0 kliniska prövningar** och endast **2 publikationer** (en hypotesartikel och en djurstudie), varav ingen visar klinisk nytta av allopurinol vid porfyri.
+Allopurinol är en xantinoxidashämmare som används som urinsyrasänkande läkemedel. TxGNN-modellen förutsäger att det kan vara effektivt mot **hepatisk porfyri (hepatic porphyria)**, men det finns **inga kliniska prövningar** och endast **2 publikationer** som är indirekt relaterade. Publikationerna ger inget kliniskt stöd, och effektens riktning är osäker och möjligen ofördelaktig.
 
 ---
 
@@ -48,21 +48,21 @@ Allopurinol är en xantinoxidashämmare som ursprungligen används för att beha
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Gikt, hyperurikemi, akut uratnefropati (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Hepatisk porfyri |
-| TxGNN-förutsägelsepoäng | 99,95 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Hepatisk porfyri (hepatic porphyria) |
+| TxGNN-förutsägelsepoäng | 0,9995 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 16 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 16 av 16) |
+| Antal godkännanden | 16 (giltiga: 16) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Allopurinol är känt som en hämmare av xantinoxidas, som minskar bildningen av urinsyra. Dess effekt vid gikt är väl belagd, men ett mekanistiskt samband med hepatisk porfyri är inte stött av underlaget.
+Det finns för närvarande ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Allopurinol hämmar enzymet xantinoxidas och minskar därmed bildningen av urinsyra.
 
-Det underlag som hämtats pekar snarare åt motsatt håll. Allopurinol har rapporterats påverka hepatisk hemmetabolism, bland annat genom nedbrytning av hem i cytokrom P450 och inducering av 5-aminolevulinatsyntas (ALAS1). I princip kan detta förvärra snarare än lindra porfyri. Den högt rankade modellpoängen ska därför ses som ett beräkningsresultat, och effektens riktning är osäker och möjligen skadlig.
+Det finns rapporter om att allopurinol påverkar levermetabolismen av hem, bland annat genom nedbrytning av hemgruppen i cytokrom P450 och induktion av enzymet 5-aminolevulinatsyntas (ALAS1). Detta skulle i princip kunna förvärra snarare än behandla porfyri. Den höga modellpoängen är därför enbart en beräkningsbaserad förutsägelse, och effektens riktning är osäker och möjligen skadlig.
 
 ---
 
@@ -76,32 +76,41 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [31443750](https://pubmed.ncbi.nlm.nih.gov/31443750/) | 2019 | Översikt (hypotes) | Medical hypotheses | Föreslår metabolisk påverkan på ALAS1 via tryptofan och hämning av hemanvändning via tryptofan-2,3-dioxygenas som möjlig behandling av akut hepatisk porfyri. Behandlar inte allopurinol kliniskt. |
-| [1567472](https://pubmed.ncbi.nlm.nih.gov/1567472/) | 1992 | Djurstudie | Biochemical pharmacology | Karbamazepin i mycket låg dos förvärrade hemförlust i råttlever, vilket belyser hur läkemedel kan utlösa porfyri. Handlar inte om allopurinol. |
+| [31443750](https://pubmed.ncbi.nlm.nih.gov/31443750/) | 2019 | Översikt | Medical hypotheses | Hypotes om metabolisk påverkan på ALAS1 med tryptofan och hämmare av hemanvändning via tryptofan-2,3-dioxygenas som möjlig behandling av akuta hepatiska porfyrier. Handlar inte om allopurinol. |
+| [1567472](https://pubmed.ncbi.nlm.nih.gov/1567472/) | 1992 | Djurstudie | Biochemical pharmacology | Studie på råtta av hur karbamazepin påverkar hemmetabolismen i levern och förvärrar hepatiska porfyrier. Handlar inte om allopurinol. |
+
+Ingen av publikationerna studerar allopurinol vid hepatisk porfyri.
 
 ---
 
 ### Marknadsinformation Sverige
 
-Alla 16 godkännanden är avregistrerade och inga är giltiga. Indikationstext saknas i underlaget. Nedan visas fem av dem.
+Allopurinol finns som tabletter (oral beredningsform) från flera tillverkare i Sverige. Marknadsstatus är marknadsförd, och samtliga 16 godkännanden i de lokala data är giltiga. Någon indikationstext finns inte registrerad i de lokala data.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 9845 | Allopurinol Orifarm | Tablett | – |
-| 56976 | Allopurinol Accord | Tablett | – |
-| 11291 | Allopurinol Nordic Drugs | Tablett | – |
-| 53057 | Allopurinol Sandoz | Tablett | – |
-| 41980 | Allopurinol Teva | Tablett | – |
+| 9845 | Allopurinol Orifarm | Tablett | Ej registrerad |
+| 56976 | Allopurinol Accord | Tablett | Ej registrerad |
+| 11291 | Allopurinol Nordic Drugs | Tablett | Ej registrerad |
+| 53057 | Allopurinol Sandoz | Tablett | Ej registrerad |
+| 41980 | Allopurinol Teva | Tablett | Ej registrerad |
 
 ---
 
 ### Säkerhetsaspekter
 
-- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumé): leversjukdom, gallblåsesjukdom, nedsatt njurfunktion, överkänslighetsvaskulit, kutan leukocytoklastisk angiit, allergisk kutan vaskulit samt anti-GBM-sjukdom.
-- **Läkemedelsinteraktioner**: totalt 100 interaktioner identifierades. Av de som visas är följande klassade som måttliga: aluminiumhydroxid, attapulgit, kaolin, magaldrat och sukralfat (antacida och adsorbenter kan minska upptaget). Amoxicillin och klorpropamid klassas som mindre. Övriga visade interaktioner, bland annat metformin, omeprazol, pantoprazol, morfin och doxycyklin, har okänd allvarlighetsgrad.
-- Allopurinol är känt för överkänslighetsreaktioner (t.ex. DRESS) och har enstaka fallrapporter om myopati, vilket är relevant för säkerhetsbedömning vid nya indikationer.
+- **Läkemedelsinteraktioner**: Totalt 100 interaktioner identifierades. De viktigaste av måttlig grad är:
+  - Aluminiumhydroxid
+  - Attapulgit
+  - Kaolin
+  - Magaldrat
+  - Sukralfat
 
-Se produktresumén för fullständig säkerhetsinformation.
+  Mindre betydande interaktioner finns med amoxicillin och klorpropamid.
+
+- **Särskild observans**: Allopurinol har rapporterats påverka hemmetabolismen i levern, vilket är relevant vid porfyri, där läkemedlet i teorin kan förvärra sjukdomen. Allopurinol är dessutom en känd orsak till överkänslighetsreaktioner med eosinofili.
+
+Se produktresumén för fullständig information om varningar och kontraindikationer.
 
 ---
 
@@ -110,13 +119,13 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen är på nivå L5: det finns endast en modellförutsägelse, inga kliniska prövningar och ingen litteratur som stöder allopurinol vid hepatisk porfyri. Dessutom tyder känd påverkan på hemmetabolismen på att läkemedlet kan förvärra sjukdomen.
+- Förutsägelsen bygger enbart på en modellpoäng (0,9995) utan kliniska prövningar eller direkt litteratur om allopurinol vid hepatisk porfyri, och den biologiska effektens riktning kan vara skadlig.
 
 **För att gå vidare krävs:**
-- Hämta verkningsmekanismdata (t.ex. via DrugBank) och produktresumé med varningar och kontraindikationer från Läkemedelsverket.
-- Gör en systematisk genomgång av om allopurinol anses säkert eller porfyrogent vid akut hepatisk porfyri.
-- Genomför prekliniska studier av allopurinols effekt på ALAS1 och hemmetabolism innan kliniska studier övervägs.
-- Notera att alla svenska godkännanden är avregistrerade, vilket påverkar en eventuell framtida utveckling.
+- Prekliniska och mekanistiska studier som klargör allopurinols effekt på hemsyntes och ALAS1 vid porfyri
+- Genomgång av säkerhetsrisker hos patienter med porfyri
+- Produktresumédata om varningar och kontraindikationer
+- Data om verkningsmekanism från läkemedelsdatabaser
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

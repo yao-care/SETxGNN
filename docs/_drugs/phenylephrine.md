@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Phenylephrine
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 347
-evidence_level: L5
-indication_count: 3
+evidence_level: L4
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Phenylephrine: predikterad ny indikation Sjukdomar i näshålan (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i godkännandedata. Enligt kunskapsgrafen:…"
 monitor_inn: "phenylephrine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
+description: "Phenylephrine: predikterad ny indikation Sjukdomar i näshålan (nasal cavity disease) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Phenylephrine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **3** st
+Evidensnivå: **L4** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Fenylefrin: Från allergisk rinit och förkylning till sjukdomar i näshålan
+## Phenylephrine: Sjukdomar i näshålan (nasal cavity disease)
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Fenylefrin är en alfa-1-adrenerg agonist som ursprungligen användes mot allergisk rinit, förkylning, faryngit och andra besvär i övre luftvägarna och ögonen. TxGNN-modellen förutsäger att det kan vara effektivt mot **sjukdomar i näshålan** (poäng ca 99,97 %). Evidensen är dock svag: **inga kliniska prövningar** och **5 publikationer**, varav de flesta är översikter eller indirekta rapporter. Förutsägelsen speglar till stor del en redan etablerad användning, inte en ny indikation.
+Fenylefrin är en alfa-1-adrenerg agonist som ursprungligen användes mot allergisk rinit, förkylning, faryngit och andra besvär i övre luftvägarna och ögonen. TxGNN-modellen förutsäger att det kan vara effektivt mot **sjukdomar i näshålan** (poäng ca 0,9997). Evidensen är dock svag: **inga kliniska prövningar** och **5 publikationer**, varav de flesta är översikter eller indirekta rapporter. Förutsägelsen speglar till stor del en redan etablerad användning, inte en ny indikation.
 
 ---
 
@@ -48,12 +48,12 @@ Fenylefrin är en alfa-1-adrenerg agonist som ursprungligen användes mot allerg
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns i godkännandedata. Enligt kunskapsgrafen: allergisk rinit, vasomotorisk rinit, faryngit, förkylning, atopisk konjunktivit, nasofaryngit m.fl. |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Sjukdomar i näshålan (nasal cavity disease) |
-| TxGNN-förutsägelsepoäng | 99,97 % |
+| TxGNN-förutsägelsepoäng | 0.9997 |
 | Evidensnivå | L4 (endast översikter, indirekta och mekanistiska data) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 12 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 12 av 12) |
+| Antal godkännanden | 12 (giltiga: 12) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -88,7 +88,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 12 godkännanden är avregistrerade. Ingen indikationstext finns i underlaget. De fem första visas nedan.
+Av 12 godkännanden är 12 giltiga. Ingen indikationstext finns i underlaget. De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -119,7 +119,7 @@ Information från produktresumén (varningar och kontraindikationer) saknas i un
 
 **Motivering:**
 - Den höga TxGNN-poängen speglar främst en befintlig användning som avsvällande medel, inte en ny indikation. Evidensen består av översikter och indirekta rapporter utan kliniska prövningar.
-- Alla svenska godkännanden är avregistrerade, och produktresumédata för säkerhetsbedömning saknas.
+- Läkemedlet är marknadsfört i Sverige med 12 giltiga godkännanden av 12, och produktresumédata för säkerhetsbedömning saknas.
 
 **För att gå vidare krävs:**
 - Hämta och analysera produktresumé med varningar och kontraindikationer.

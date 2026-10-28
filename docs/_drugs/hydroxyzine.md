@@ -4,17 +4,17 @@ title: Hydroxyzine
 parent: Endast modellprediktion (L5)
 nav_order: 228
 evidence_level: L5
-indication_count: 5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Hydroxyzine: predikterad ny indikation Allergisk urtikaria (rang 1) (evidensnivå L5). Ursprunglig indikation: Atopiskt eksem, allergisk rinit, konjunktivit…"
 monitor_inn: "hydroxyzine"
 predicted_indications: ["rosacea conjunctivitis"]
+description: "Hydroxyzine: predikterad ny indikation Rosacea conjunctivitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Hydroxyzine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **5** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-## Hydroxyzin: Från atopiskt eksem och allergiska tillstånd till kall urtikaria
+## Hydroxyzine: Rosacea conjunctivitis
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Hydroxyzin är en förstagenerationens H1-antihistamin som ursprungligen använd
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Atopiskt eksem, allergisk rinit, konjunktivit, urtikaria och angioödem (enligt kunskapsgrafen; indikationstext saknas i svenska godkännanden) |
-| Förutsagd ny indikation | Allergisk urtikaria (rang 1); kall urtikaria är den bäst underbyggda förutsägelsen (rang 3) |
-| TxGNN-förutsägelsepoäng | 99,8 % (allergisk urtikaria); 99,7 % (kall urtikaria) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Rosacea conjunctivitis |
+| TxGNN-förutsägelsepoäng | 0.9970 |
 | Evidensnivå | L5 för allergisk urtikaria; L4 för kall urtikaria |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 16 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 16 av 16) |
+| Antal godkännanden | 16 (giltiga: 16) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -96,7 +96,7 @@ Litteraturen nedan gäller kall urtikaria (rang 3). Övriga förutsägelser sakn
 
 ### Marknadsinformation Sverige
 
-Alla 16 godkännanden är indragna och det finns inga giltiga godkännanden. Indikationstext saknas i underlaget. De fem första visas nedan.
+Indikationstext saknas i underlaget. De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

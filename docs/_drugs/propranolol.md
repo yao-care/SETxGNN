@@ -4,17 +4,17 @@ title: Propranolol
 parent: Endast modellprediktion (L5)
 nav_order: 370
 evidence_level: L5
-indication_count: 6
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Propranolol: predikterad ny indikation Distal myopati av Tateyama-typ (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i godkännandena. Enligt kunsk…"
 monitor_inn: "propranolol"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
+description: "Propranolol: predikterad ny indikation Distal myopathy, Tateyama type (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Propranolol
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **6** st
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-## Propranolol: Från hypertoni och hjärtrelaterade sjukdomar till distal myopati av Tateyama-typ
+## Propranolol: Distal myopathy, Tateyama type
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Propranolol är en icke-selektiv betablockerare som ursprungligen används vid h
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns registrerad i godkännandena. Enligt kunskapsgrafen: hypertoni, förmaksflimmer, hypertrofisk kardiomyopati, hemangiom m.fl. |
-| Förutsagd ny indikation | Distal myopati av Tateyama-typ |
-| TxGNN-förutsägelsepoäng | 99,4 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Distal myopathy, Tateyama type |
+| TxGNN-förutsägelsepoäng | 0.9940 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 9 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
+| Antal godkännanden | 9 (giltiga: 9) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Base
 
 Betablockad sänker hjärtfrekvens, syrebehov och kontraktilitet, vilket förklarar nyttan vid hypertoni och hypertrofisk kardiomyopati. Någon känd koppling mellan betaadrenerg blockad och denna sällsynta ärftliga muskelsjukdom finns inte i underlaget.
 
-Det höga poängvärdet speglar sannolikt mönster i kunskapsgrafen, till exempel gemensamma muskelrelaterade grannar, och inte biologisk eller klinisk evidens. Förutsägelsen bör därför ses som en hypotes och inte som ett underlag för behandling.
+Förutsägelsen bör därför ses som en hypotes och inte som ett underlag för behandling.
 
 Bland övriga högt rankade förutsägelser finns två med något mer underlag: **kardiomyopati** (rang 6, evidensnivå L3, främst äldre hemodynamiska studier vid hypertrofisk kardiomyopati) och **cirrotisk kardiomyopati** (rang 5, evidensnivå L4, indirekt evidens med blandade resultat). Dessa är inte huvudförutsägelsen i denna rapport.
 

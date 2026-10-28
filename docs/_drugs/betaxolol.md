@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Betaxolol
-parent: Endast modellprediktion (L5)
+parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 58
-evidence_level: L5
-indication_count: 1
-last_modified_at: 2026-10-15
-description: "Betaxolol: predikterad ny indikation Primärt ärftligt glaukom (evidensnivå L5). Ursprunglig indikation: Högt blodtryck…"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Betaxolol: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
+predicted_indications: []
 ---
 
 # Betaxolol
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **1** st
+Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,51 +32,46 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Betaxolol: Från högt blodtryck och öppenvinkelglaukom till primärt ärftligt glaukom
+<!-- known-uses-page -->
+<!-- description: Betaxolol: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation -->
+## Betaxolol: Kända användningar och marknadsstatus i Sverige
 {: .text-alpha }
 
----
-
 ## Sammanfattning
-
-Betaxolol är en kardioselektiv beta-1-blockerare som ursprungligen används mot högt blodtryck samt mot öppenvinkelglaukom och okulär hypertension. TxGNN-modellen förutsäger att läkemedlet även kan vara effektivt mot **primärt ärftligt glaukom**. Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder denna riktning i dagsläget, så förutsägelsen bygger enbart på modellen.
-
----
+TxGNN-modellen (djupinlärning, poäng ≥ 0,99) har genererat kandidater för Betaxolol. Alla kandidater som kan spåras till en källa är redan kända användningar. Det finns därför för närvarande ingen ny förutsagd indikation för detta läkemedel.
 
 ## Snabböversikt
-
-| Post | Innehåll |
+| Punkt | Innehåll |
 |------|------|
-| Ursprunglig indikation | Högt blodtryck, öppenvinkelglaukom och okulär hypertension (enligt kunskapsgrafen; godkänd indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Primärt ärftligt glaukom |
-| TxGNN-förutsägelsepoäng | 99,7 % |
-| Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
-| Rekommenderat beslut | Avvakta |
+| Nya förutsagda indikationer | Inga (alla spårbara modellkandidater är kända användningar) |
+| Kända användningar bland modellens kandidater | 0 |
+| Evidensnivå | Ej tillämpligt |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 
----
+## Kända användningar bland modellens kandidater
 
-## Varför är denna förutsägelse rimlig?
+### Godkända (stöds av licens eller produktresumé)
+| Indikation | Källa |
+|------|------|
+| Inga | Inga |
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Baserat på allmän farmakologi är betaxolol en kardioselektiv beta-1-adrenerg antagonist. Vid glaukom minskar den produktionen av kammarvatten i ögat och sänker därmed det intraokulära trycket (IOP). Detta är underlaget för den godkända användningen vid öppenvinkelglaukom och okulär hypertension.
+### Relaterade till en godkänd indikation (samma sjukdomskategori)
+| Indikation | Godkänd kategori |
+|------|------|
+| Inga | Inga |
 
-Primärt ärftligt glaukom (till exempel primärt medfött glaukom samt MYOC- eller CYP1B1-relaterade former) har förhöjt ögontryck som gemensam slutlig mekanism. Ett läkemedel som sänker ögontrycket är därför biologiskt rimligt även här.
-
-Det finns viktiga begränsningar. Ärftliga former beror ofta på utvecklingsavvikelser i trabekelverket och kammarvinkeln, och där är medicinsk behandling vanligen bara en tillfällig brygga till operation. Den mycket höga poängen (0,997) speglar sannolikt att läkemedlet ligger nära de godkända glaukomindikationerna i kunskapsgrafen, snarare än oberoende evidens. Den mekanistiska kopplingen är inte verifierad mot de tillgängliga data.
-
----
+### Samband registrerade i kunskapsgrafen (inget godkännande hittat)
+| Indikation |
+|------|
+| Inga |
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 11503 | Betoptic S | Ögondroppar, suspension | Ej angiven (indragen) |
-| 10388 | Betoptic | Ögondroppar, lösning | Ej angiven (indragen) |
-
-Båda godkännandena tillhör Immedica Pharma AB och är indragna. Det finns för närvarande inga giltiga godkännanden för betaxolol i Sverige.
-
----
+| Godkännande | Produkt | Läkemedelsform | Status |
+|------|------|------|------|
+| 11503 | betaxololhydroklorid | Ögondroppar, suspension | Giltigt |
+| 10388 | betaxololhydroklorid | Ögondroppar, lösning | Giltigt |
 
 ## Säkerhetsaspekter
 
@@ -95,19 +91,6 @@ Varningar och kontraindikationer från produktresumén saknas. Se produktresumé
 
 ---
 
-## Slutsats och nästa steg
-
-**Beslut: Avvakta**
-
-**Motivering:**
-- Förutsägelsen bygger enbart på modellen (L5) utan kliniska prövningar eller litteratur. Dessutom saknas giltiga godkännanden i Sverige, och produktresumédata för säkerhet saknas.
-
-**För att gå vidare krävs:**
-- Hämta och granska produktresumén från Läkemedelsverket (varningar och kontraindikationer).
-- Komplettera verkningsmekanismen från DrugBank.
-- Söka systematiskt efter kliniska studier och litteratur om betaxolol vid primärt ärftligt glaukom, särskilt primärt medfött glaukom.
-- Bedöma om läkemedlet behöver återinföras på den svenska marknaden och om det finns en behandlingsnytta jämfört med nuvarande standardbehandling, inklusive kirurgi.
-- Utvärdera säkerheten hos den aktuella patientgruppen, särskilt barn, med tanke på kontraindikationer vid luftvägs- och hjärtsjukdom.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

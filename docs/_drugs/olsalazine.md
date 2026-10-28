@@ -6,9 +6,9 @@ nav_order: 327
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Olsalazine: predikterad ny indikation Myelodysplastiskt syndrom (evidensnivå L5). Ursprunglig indikation: Ej angiven (indikationstexten saknas i de svenska godkännandena)"
 monitor_inn: "olsalazine"
 predicted_indications: ["myelodysplastic syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "partial deletion of the long arm of chromosome 5", "unclassified myelodysplastic syndrome", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
+description: "Olsalazine: predikterad ny indikation Myelodysplastiskt syndrom (myelodysplastic syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Olsalazine
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Olsalazin: Från ej angiven ursprunglig indikation till myelodysplastiskt syndrom
+## Olsalazine: Myelodysplastiskt syndrom (myelodysplastic syndrome)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Olsalazin är en prodrug-dimer av 5-aminosalicylsyra (5-ASA, mesalazin) som verkar lokalt i tjocktarmen. Dess ursprungliga godkända indikation finns inte angiven i de data som sammanställts för rapporten. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **myelodysplastiskt syndrom** (poäng 99,9 %), men **inga kliniska prövningar och ingen litteratur** stöder för närvarande denna riktning. Förutsägelsen bygger enbart på modellen.
+Olsalazin är en prodrug-dimer av 5-aminosalicylsyra (5-ASA, mesalazin) som verkar lokalt i tjocktarmen. Dess ursprungliga godkända indikation finns inte angiven i de data som sammanställts för rapporten. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **myelodysplastiskt syndrom** (poäng 0,9990), men **inga kliniska prövningar och ingen litteratur** stöder för närvarande denna riktning. Förutsägelsen bygger enbart på modellen.
 
 ---
 
@@ -48,12 +48,12 @@ Olsalazin är en prodrug-dimer av 5-aminosalicylsyra (5-ASA, mesalazin) som verk
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven (indikationstexten saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Myelodysplastiskt syndrom |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Myelodysplastiskt syndrom (myelodysplastic syndrome) |
+| TxGNN-förutsägelsepoäng | 0.9991 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 2 (båda avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -66,7 +66,7 @@ Kopplingen till myelodysplastiskt syndrom (MDS) vilar enbart på grafbaserad fö
 
 Det finns också skäl till försiktighet: aminosalicylater är i sällsynta fall förknippade med benmärgstoxicitet. Det talar emot förutsägelsen, särskilt eftersom MDS är en sjukdom med nedsatt benmärgsfunktion.
 
-De övriga förutsägelserna ligger nära MDS i grafen: odifferentierat MDS, refraktär cytopeni hos barn, partiell deletion av långa armen på kromosom 5, aregenerativ anemi och ringsideroblastisk anemi. De utgör därför inte oberoende evidens. Förutsägelserna om håravfall (hypotrichosis simplex, kongenital hypotrichosis med milia, alopeci, diffus alopecia areata) saknar också en trolig mekanism och speglar sannolikt likheter i grafen.
+De utgör därför inte oberoende evidens.
 
 ---
 
@@ -86,8 +86,8 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation | Status |
 |---------|------|------|-----------|------|
-| 11586 | Dipentum | Kapsel, hård | Ej angiven | Avregistrerad |
-| 12026 | Dipentum | Tablett | Ej angiven | Avregistrerad |
+| 11586 | Dipentum | Kapsel, hård | Ej angiven | Godkänd |
+| 12026 | Dipentum | Tablett | Ej angiven | Godkänd |
 
 Innehavare för båda: Atnahs Pharma Netherlands B.V.
 

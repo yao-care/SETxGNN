@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lenalidomide
-parent: Endast modellprediktion (L5)
+parent: Hög evidens (L1-L2)
 nav_order: 255
-evidence_level: L5
-indication_count: 6
+evidence_level: L2
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Lenalidomide: predikterad ny indikation Myeloisk leukemi (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. Enligt kunska…"
 monitor_inn: "lenalidomide"
-predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "partial deletion of the long arm of chromosome 5"]
+predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
+description: "Lenalidomide: predikterad ny indikation Myeloid leukemia (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Lenalidomide
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **6** st
+Evidensnivå: **L2** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-## Lenalidomid: Från plasmacellsmyelom till myeloisk leukemi
+## Lenalidomide: Myeloid leukemia
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Lenalidomid är ett immunmodulerande läkemedel som ursprungligen används vid p
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: plasmacellsmyelom, mantelcellslymfom, B-cellsneoplasmer, lymfosarkom och myelodysplastiskt syndrom |
-| Förutsagd ny indikation | Myeloisk leukemi |
-| TxGNN-förutsägelsepoäng | 99,5 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Myeloid leukemia |
+| TxGNN-förutsägelsepoäng | 0.9949 |
 | Evidensnivå | L2 (fas 2-studier finns, men inga avslutade randomiserade fas 3-prövningar; bedömningen bygger på den bedömning som ingår i underlaget) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 

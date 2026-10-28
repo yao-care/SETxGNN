@@ -4,17 +4,17 @@ title: Guaifenesin
 parent: Endast modellprediktion (L5)
 nav_order: 219
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Guaifenesin: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad i de svenska godkänna…"
 monitor_inn: "GUAIFENESIN"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
+predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
+description: "Guaifenesin: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Guaifenesin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **5** st
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-## Guaifenesin: Från allergisk rinit och förkylning till sjukdom i näshålan
+## Guaifenesin: Sjukdom i näshålan (nasal cavity disease)
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Guaifenesin är ett slemlösande medel (expektorans) som i kunskapsgrafen kopplas till bland annat allergisk rinit, vasomotorisk rinit, faryngit och förkylning. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **sjukdom i näshålan** (poäng 99,98 %). Evidensen är mycket begränsad: **inga kliniska prövningar** och **1 publikation** (en översikt) stöder denna riktning.
+Guaifenesin är ett slemlösande medel (expektorans) som används vid bland annat allergisk rinit, vasomotorisk rinit, faryngit och förkylning. TxGNN-modellen (djupinlärning) förutsäger att läkemedlet kan vara effektivt mot **näshålesjukdom** (poäng 0,9998). Poängen kommer från TxGNN-modellen och kan spegla likheter som modellen lärt sig mellan relaterade sjukdomar, inte biologisk evidens. Evidensen är mycket begränsad: **inga kliniska prövningar** och **1 publikation** (en översikt) stöder denna riktning.
 
 ---
 
@@ -48,12 +48,12 @@ Guaifenesin är ett slemlösande medel (expektorans) som i kunskapsgrafen koppla
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad i de svenska godkännandena. Enligt kunskapsgrafen: allergisk rinit, vasomotorisk rinit, faryngit, förkylning, rinit, nasofaryngit, huvudvärkssjukdom |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Sjukdom i näshålan (nasal cavity disease) |
-| TxGNN-förutsägelsepoäng | 99,98 % |
-| Evidensnivå | L4 (endast översiktsartikel, inga kliniska prövningar) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 3 (alla indragna) |
+| TxGNN-förutsägelsepoäng | 0.9998 |
+| Evidensnivå | L5 (endast översiktsartikel, inga kliniska prövningar) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---

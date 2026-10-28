@@ -6,9 +6,9 @@ nav_order: 254
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Leflunomide: predikterad ny indikation Brakydaktyli-syndaktyli-syndrom (evidensnivå L5). Ursprunglig indikation: Reumatoid artrit och psoriasisartrit (enligt TxGNN-kunskapsgrafen"
 monitor_inn: "leflunomide"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+description: "Leflunomide: predikterad ny indikation Brachydactyly-syndactyly syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Leflunomide
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Leflunomid: Från psoriasisartrit och reumatoid artrit till brakydaktyli-syndaktyli-syndrom
+## Leflunomide: Brachydactyly-syndactyly syndrome
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Leflunomid är ett immunmodulerande läkemedel som ursprungligen används vid **
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Reumatoid artrit och psoriasisartrit (enligt TxGNN-kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Brakydaktyli-syndaktyli-syndrom |
-| TxGNN-förutsägelsepoäng | 99,93 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Brachydactyly-syndactyly syndrome |
+| TxGNN-förutsägelsepoäng | 0.9993 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -75,7 +75,7 @@ Sambandet är dock svagt. Brakydaktyli-syndaktyli-syndrom är en medfödd utveck
 | 54935 | Leflunomid Bluefish | Filmdragerad tablett | Ingen indikationstext tillgänglig (indraget) |
 | 54934 | Leflunomid Bluefish | Filmdragerad tablett | Ingen indikationstext tillgänglig (indraget) |
 
-Båda godkännandena tillhör Bluefish Pharmaceuticals AB och är indragna. Det finns inga giltiga godkännanden i Sverige i de data som sammanställts.
+Båda godkännandena tillhör Bluefish Pharmaceuticals AB och är indragna.
 
 ---
 
@@ -115,7 +115,7 @@ Se i övrigt produktresumén för fullständig säkerhetsinformation, eftersom v
 
 ---
 
-**Anmärkning om det andra förutsagda tillståndet:** Även det näst högst rankade förslaget, *kolobomatös mikroftalmi-rhizomel dysplasi-syndrom* (poäng 99,93 %), saknar kliniska prövningar och litteratur (L5, Avvakta). Samma invändningar gäller där.
+**Anmärkning om det andra förutsagda tillståndet:** Även det näst högst rankade förslaget, *kolobomatös mikroftalmi-rhizomel dysplasi-syndrom* (poäng 0,9993), saknar kliniska prövningar och litteratur (L5, Avvakta). Samma invändningar gäller där.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

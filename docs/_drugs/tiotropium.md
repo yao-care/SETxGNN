@@ -4,17 +4,17 @@ title: Tiotropium
 parent: Hög evidens (L1-L2)
 nav_order: 427
 evidence_level: L1
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Tiotropium: predikterad ny indikation Obstruktiv lungsjukdom (evidensnivå L1). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. Enligt kunska…"
 monitor_inn: "tiotropium"
-predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis", "susceptibility to respiratory infections associated with CD8alpha chain mutation"]
+predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
+description: "Tiotropium: predikterad ny indikation Obstructive lung disease (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Tiotropium
 {: .fs-9 }
 
-Evidensnivå: **L1** | Förutsagda indikationer: **10** st
+Evidensnivå: **L1** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,13 @@ Evidensnivå: **L1** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Tiotropium: Från bronkit, astma och lungemfysem till obstruktiv lungsjukdom
+## Tiotropium: Obstructive lung disease
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Tiotropium är ett långverkande antikolinergt luftrörsvidgande läkemedel (inhalation) som i den kunskapsgraf som ligger till grund för analysen är kopplat till bronkit, astma (inklusive allergisk och intrinsisk astma) och lungemfysem.
 TxGNN-modellen förutsäger att det kan vara effektivt mot **obstruktiv lungsjukdom**, med **39 kliniska prövningar** och **20 publikationer** i den data som sammanställts för denna riktning.
 Det är dock viktigt att veta att obstruktiv lungsjukdom i praktiken omfattar KOL, som är tiotropiums etablerade användningsområde. Förutsägelsen är därför närmast en bekräftelse av en befintlig indikation snarare än en genuin återanvändning.
 
@@ -50,12 +49,12 @@ Det är dock viktigt att veta att obstruktiv lungsjukdom i praktiken omfattar KO
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: bronkit, astma, lungemfysem |
-| Förutsagd ny indikation | Obstruktiv lungsjukdom |
-| TxGNN-förutsägelsepoäng | 99,99 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Obstructive lung disease |
+| TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L1 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 3 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

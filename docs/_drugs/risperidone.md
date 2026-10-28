@@ -4,17 +4,17 @@ title: Risperidone
 parent: Endast modellprediktion (L5)
 nav_order: 381
 evidence_level: L5
-indication_count: 6
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Risperidone: predikterad ny indikation Familjär horisontell blickpares med progressiv skolios (evidensnivå L5). Ursprunglig indikation: Schizofreni och bipolär sjukdom (även autismrelaterade tillstån…"
 monitor_inn: "risperidone"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+description: "Risperidone: predikterad ny indikation Gaze palsy, familial horizontal, with progressive scoliosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Risperidone
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **6** st
+Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-## Risperidon: Från schizofreni och bipolär sjukdom till familjär horisontell blickpares med progressiv skolios
+## Risperidone: Gaze palsy, familial horizontal, with progressive scoliosis
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Risperidon är ett antipsykotiskt läkemedel som ursprungligen används vid schizofreni och bipolär sjukdom. TxGNN-modellen förutsäger att det kan vara effektivt mot **familjär horisontell blickpares med progressiv skolios**, med ett mycket högt modellpoäng (99,8 %). Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, så den vilar enbart på modellen.
+Risperidon är ett antipsykotiskt läkemedel som ursprungligen används vid schizofreni och bipolär sjukdom. Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, så den vilar enbart på modellen.
 
 ---
 
@@ -48,11 +48,11 @@ Risperidon är ett antipsykotiskt läkemedel som ursprungligen används vid schi
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Schizofreni och bipolär sjukdom (även autismrelaterade tillstånd enligt kunskapsgrafen). Indikationstext saknas i de svenska godkännandena. |
-| Förutsagd ny indikation | Familjär horisontell blickpares med progressiv skolios |
-| TxGNN-förutsägelsepoäng | 99,8 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Gaze palsy, familial horizontal, with progressive scoliosis |
+| TxGNN-förutsägelsepoäng | 0.9976 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (samtliga avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Den förutsagda sjukdomen är en extremt sällsynt ärftlig sjukdom. Den hör till gruppen störningar i axonledning och hjärnstammens utveckling (ROBO3-relaterad). Den kännetecknas av att ögonen inte kan röra sig sidledes och av en skolios som förvärras över tid.
 
-**Vi har inte hittat något rimligt mekanistiskt samband.** Blockad av D2- och 5-HT2A-receptorer har ingen känd sjukdomsmodifierande roll vid en utvecklingsrubbning av detta slag. Det höga modellpoängen verkar därför vara en artefakt av hur kunskapsgrafen är uppbyggd och inte ett tecken på verklig behandlingspotential. Likheten med de ursprungliga indikationerna är inte bedömd.
+**Vi har inte hittat något rimligt mekanistiskt samband.** Blockad av D2- och 5-HT2A-receptorer har ingen känd sjukdomsmodifierande roll vid en utvecklingsrubbning av detta slag. Likheten med de ursprungliga indikationerna är inte bedömd.
 
 ---
 
@@ -110,7 +110,7 @@ Varnings- och kontraindikationstexter från produktresumén saknas i underlaget,
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen saknar både kliniskt och litterärt stöd och även ett identifierbart mekanistiskt samband, så den ser ut att vara en grafartefakt snarare än en verklig signal. Dessutom är alla svenska godkännanden avregistrerade.
+- Förutsägelsen saknar både kliniskt och litterärt stöd och även ett identifierbart mekanistiskt samband, så den ser ut att vara en grafartefakt snarare än en verklig signal.
 
 **För att gå vidare krävs:**
 - Dokumenterad biologisk eller klinisk koppling mellan risperidons verkningssätt och sjukdomens patofysiologi (ROBO3-relaterad axonledning).

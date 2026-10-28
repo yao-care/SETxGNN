@@ -4,17 +4,17 @@ title: Celecoxib
 parent: Endast modellprediktion (L5)
 nav_order: 89
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Celecoxib: predikterad ny indikation Akromesomel dysplasi av Hunter-Thompson-typ (evidensnivå L5). Ursprunglig indikation: Reumatoid artrit (enligt kunskapsgrafen"
+indication_count: 7
 monitor_inn: "CELECOXIB"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "inflammatory spondylopathy", "WHIM syndrome"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "WHIM syndrome"]
+last_modified_at: 2026-10-27
+description: "Celecoxib: predikterad ny indikation Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala up…"
 ---
 
 # Celecoxib
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,102 +33,87 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Celecoxib: Från reumatoid artrit till akromesomel dysplasi av Hunter-Thompson-typ
+## Celecoxib: COX-2-hämmare (NSAID) → Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type)
 {: .text-alpha }
 
 ---
 
-## Sammanfattning
+### Sammanfattning
 
-Celecoxib är en COX-2-hämmande smärtstillande och inflammationsdämpande medicin. Den används vid ledsjukdomar som reumatoid artrit, ankyloserande spondylit och artros. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **akromesomel dysplasi av Hunter-Thompson-typ**, en sällsynt genetisk skelettsjukdom. Förutsägelsen har dock **inga kliniska prövningar och inga publikationer** som stöd, så den bygger enbart på modellen.
+Celecoxib är ett antiinflammatoriskt läkemedel av typen COX-2-hämmare. TxGNN-modellen förutsäger att det kan vara effektivt mot **akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type)**. För närvarande finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna riktning, så förutsägelsen bygger enbart på modellen.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Reumatoid artrit (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Akromesomel dysplasi av Hunter-Thompson-typ |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type) |
+| TxGNN-förutsägelsepoäng | 0,9988 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 15 (samtliga avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 15 av 15) |
+| Antal godkännanden | 15 (giltiga: 15) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det insamlade underlaget. Celecoxib är en selektiv COX-2-hämmare, och dess effekt vid reumatoid artrit och andra inflammatoriska ledsjukdomar är väl belagd. Mekanistiskt skulle den därför kunna lindra inflammation och smärta, men det är i så fall en symtomatisk effekt.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Celecoxib tillhör klassen COX-2-hämmare, som dämpar inflammation och smärta.
 
-Akromesomel dysplasi av Hunter-Thompson-typ orsakas av förlust av funktion i generna CDMP1/GDF5. Det finns **ingen känd koppling** mellan COX-2-hämning och GDF5-signalering. Den höga poängen verkar bero på att sjukdomen ligger nära de godkända ledindikationerna i kunskapsgrafen, inte på någon biologisk grund.
+Den förutsagda sjukdomen är en sällsynt skelettdysplasi som orsakas av funktionsförlustmutationer i genen CDMP1/GDF5. Någon känd koppling mellan COX-2-hämning och GDF5-signalering har inte identifierats. Den höga poängen är en modellförutsägelse utan stöd i kliniska data eller litteratur.
 
-Förutsägelsen bör därför ses som en modellhypotes och inte som ett underbyggt behandlingsförslag.
+Förutsägelsen bör därför betraktas som mycket osäker. Mekanistiskt finns i dagsläget ingen rimlig förklaring till varför celecoxib skulle påverka den underliggande genetiska defekten.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
 Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
-## Marknadsinformation Sverige
-
-Samtliga 15 godkännanden för celecoxib i Sverige är avregistrerade. Det finns inga giltiga godkännanden för enskilda läkemedel eller kombinationer. Nedan visas fem av dem, alla kapslar (hårda).
+### Marknadsinformation Sverige
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 14839 | Celebra (Viatris Healthcare Limited) | Kapsel, hård | Indikationstext ej angiven |
-| 14838 | Celebra (Viatris Healthcare Limited) | Kapsel, hård | Indikationstext ej angiven |
-| 14840 | Solexa (Upjohn EESV) | Kapsel, hård | Indikationstext ej angiven |
-| 45645 | Celecoxib Upjohn (Upjohn EESV) | Kapsel, hård | Indikationstext ej angiven |
-| 48305 | Celecoxib STADA (STADA Arzneimittel AG) | Kapsel, hård | Indikationstext ej angiven |
+| 57956 | Celecoxib Medical Valley | Kapsel, hård | Ej angiven |
+| 45645 | Celecoxib Upjohn | Kapsel, hård | Ej angiven |
+| 48305 | Celecoxib STADA | Kapsel, hård | Ej angiven |
+| 57955 | Celecoxib Medical Valley | Kapsel, hård | Ej angiven |
+| 60699 | Celecoxib Accord | Kapsel, hård | Ej angiven |
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-- **Läkemedelsinteraktioner:** Totalt 100 interaktioner har identifierats. Den enda som klassas som allvarlig (Major) är **eliglustat**. Bland de måttliga (Moderate) finns:
-  - hydrokortison
-  - metformin
-  - sulfonylureapreparat (glimepirid, glipizid, glibenklamid, klorpropamid, acetohexamid)
-  - nateglinid
-  - exenatid
-  - cimetidin
-  - levofloxacin
-  - metronidazol
-  - naltrexon
-  - kanamycin
-  - mesalazin, balsalazid och olsalazin
-  - fenfluramin och dexfenfluramin
-- **Tillstånd där celecoxib enligt kunskapsgrafen bör undvikas** (detta är inte hämtat från produktresumétext): högt blodtryck, njursjukdom, leversjukdom, gallblåsesjukdom, hjärtsvikt, magsår (inklusive aktivt magsår), astma, stroke och cerebrovaskulär sjukdom, hjärtinfarkt, hjärt-kärlsjukdom, blodbrist och hemoglobinopati samt missbruk eller beroende.
+- **Läkemedelsinteraktioner**: Totalt 100 interaktioner identifierades. Den allvarligaste nivån (stor) gäller:
+  - Eliglustat
 
-Se produktresumén för fullständiga varningar och kontraindikationer, eftersom uppgifter från godkännandetexterna saknas.
+  Flera interaktioner av måttlig nivå gäller bland annat blodsockersänkande läkemedel (metformin, glimepirid, glipizid, glibenklamid, nateglinid, klorpropamid, acetohexamid, exenatid), kortisol (hydrokortison), cimetidin, levofloxacin, metronidazol, kanamycin, naltrekson samt 5-aminosalicylater (mesalazin, balsalazid, olsalazin).
+
+För varningar och kontraindikationer, se produktresumén.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen saknar både kliniska prövningar och litteratur (evidensnivå L5), och ingen mekanistisk koppling mellan COX-2-hämning och GDF5-relaterad skelettdysplasi har identifierats.
-- Samtliga svenska godkännanden för celecoxib är avregistrerade, och säkerhetsprofilen (hjärt-kärl-, mag-tarm- och njurrisker) är ett betydande hinder för en sällsynt, icke-inflammatorisk sjukdom.
+- Förutsägelsen saknar både klinisk och publicerad evidens (evidensnivå L5) och någon mekanistisk koppling mellan COX-2-hämning och den genetiska orsaken till sjukdomen har inte identifierats.
 
 **För att gå vidare krävs:**
-- Prekliniska studier eller mekanistiska data som visar att COX-2-hämning påverkar GDF5-relaterad skelettutveckling.
-- Verkningsmekanismdata och uppgifter från produktresumén (varningar, kontraindikationer) som komplettering.
-- En bedömning av om det finns någon tillgänglig produkt i Sverige, eftersom alla godkännanden är avregistrerade.
-
-**Observera:** Bland de övriga förutsägelserna för celecoxib har **inflammatorisk spondylopati** den starkaste evidensen (flera avslutade fas 3- och fas 4-prövningar samt randomiserade studier). Den överlappar dock med läkemedlets redan kända indikationer ankyloserande spondylit och spondyloartropati. Den innebär därför en bekräftelse av befintlig användning och inte en ny återanvändning.
+- Prekliniska studier eller mekanismstudier som visar att COX-2-hämning kan påverka GDF5-relaterad skelettutveckling
+- Litteraturgenomgång som söker stöd för celecoxib vid sällsynta skelettdysplasier
+- Hämtning av produktresumé med varningar och kontraindikationer samt verkningsmekanismdata
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

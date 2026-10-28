@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 101
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
-description: "Cinchocaine: predikterad ny indikation Bronkit (evidensnivå L5). Ursprunglig indikation: Dermatit (enligt TxGNN:s kunskapsgraf"
 monitor_inn: "cinchocaine"
 predicted_indications: ["bronchitis", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis"]
+last_modified_at: 2026-10-27
+description: "Cinchocaine: predikterad ny indikation Bronkit (bronchitis) (evidensnivå L5). Ursprunglig indikation: Det godkända användningsområdet är inte angivet i de lokala data"
 ---
 
 # Cinchocaine
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Cinchocaine: Från dermatit till bronkit
+## Cinchocaine: Lokalbedövningsmedel (natriumkanalblockerare) → Bronkit (bronchitis)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Cinchocaine (även kallat dibukain) är ett lokalanestetikum som ursprungligen användes vid hudinflammation (dermatit), bland annat i receptfria och receptbelagda produkter som Scheriproct. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **bronkit**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder förutsägelsen. Den bygger därför enbart på modellen.
+Cinchocain är ett lokalbedövande läkemedel som finns i de svenska produkterna Scheriproct (stolpiller och rektalsalva) och Mekostest 36 (plåster för provokationstest). Det godkända användningsområdet finns inte angivet i de lokala data som sammanställts för denna rapport. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **bronkit (bronchitis)**, men **inga kliniska prövningar** och **inga publikationer** stöder för närvarande denna riktning.
 
 ---
 
@@ -48,25 +48,23 @@ Cinchocaine (även kallat dibukain) är ett lokalanestetikum som ursprungligen a
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Dermatit (enligt TxGNN:s kunskapsgraf; ingen indikationstext finns i de svenska godkännandena) |
-| Förutsagd ny indikation | Bronkit |
-| TxGNN-förutsägelsepoäng | 99,8 % |
-| Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 3 (alla indragna) |
+| Ursprunglig indikation | Det godkända användningsområdet är inte angivet i de lokala data |
+| Förutsagd ny indikation | Bronkit (bronchitis) |
+| TxGNN-förutsägelsepoäng | 0,9977 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för rapporten. Baserat på allmänt känd information är cinchocaine ett lokalanestetikum av amidtyp som blockerar spänningsstyrda natriumkanaler och därmed hämmar nervsignaler.
+Det finns för närvarande ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Cinchocain (dibukain) är dock känt som ett lokalbedövningsmedel av amidtyp som blockerar spänningsberoende natriumkanaler och därmed dämpar nervimpulser.
 
-En möjlig teoretisk koppling till bronkit är att läkemedlet kan dämpa aktiviteten i luftvägarnas sensoriska nerver och därmed hostreflexen, på samma sätt som andra lokalanestetika som ges på slemhinnor eller som inhalation. Sambandet med den ursprungliga indikationen, dermatit, är främst symtomatiskt: lokalanestetika lindrar smärta och klåda men behandlar inte själva sjukdomen.
+Ett tänkbart samband med bronkit är att läkemedlet skulle kunna minska aktiviteten i luftvägarnas sensoriska nerver och därigenom påverka hostreflexen, på liknande sätt som andra lokalbedövande medel som ges på slemhinnor eller genom inhalation. Detta är ett teoretiskt resonemang och inte en påvisad effekt.
 
-Förutsägelsen ska ses med stor försiktighet. Modellpoängen är hög, men den är inte stödd av några studier. Det finns heller inga säkerhetsdata för administrering i luftvägarna.
-
-Övriga förutsagda indikationer i modellen (bland annat acne keloid, akrodermatit, dermatomyosit och hydroa vacciniforme) har likaledes ingen evidens. Av dem bedöms acne keloid som mest rimlig ur ett symtomatiskt hudperspektiv, men även den saknar stöd i studier.
+Förutsägelsen bygger enbart på modellens poäng. Det finns inga studier, ingen litteratur och inga säkerhetsdata som stöder administrering i luftvägarna. De befintliga beredningsformerna (stolpiller, rektalsalva, plåster) är inte avsedda för luftvägarna, och administreringsvägens förenlighet har inte utvärderats.
 
 ---
 
@@ -84,34 +82,19 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Alla tre godkännanden är indragna och inga är giltiga i dag.
-
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 7653 | Scheriproct | Suppositorium | Ingen indikationstext angiven |
-| 7652 | Scheriproct | Rektalsalva | Ingen indikationstext angiven |
-| 57835 | Mekostest 36 | Plåster för provokationstest | Ingen indikationstext angiven |
+| 7653 | Scheriproct | Suppositorium | Ej angiven i lokala data |
+| 7652 | Scheriproct | Rektalsalva | Ej angiven i lokala data |
+| 57835 | Mekostest 36 | Plåster för provokationstest | Ej angiven i lokala data |
+
+Tillverkare: Karo Pharma AB (Scheriproct) och SmartPractice Denmark ApS (Mekostest 36).
 
 ---
 
 ### Säkerhetsaspekter
 
-Det finns inga uppgifter om varningar, kontraindikationer eller läkemedelsinteraktioner från produktresumén i det underlag som sammanställts. Sökningen efter interaktioner gav inga träffar.
-
-Kunskapsgrafen (inte produkttext) kopplar cinchocaine till följande sjukdomar som möjliga kontraindikationer:
-- Epilepsi
-- Njursjukdom
-- Leversjukdom
-- Gallblåsesjukdom
-- Plötsligt hjärtstopp
-- Ledningsrubbning i hjärtat
-- Hjärt- och kärlsjukdom samt hjärtsjukdom
-- Andningssvikt
-- Myastenia gravis (inklusive vuxendebuterande form) och sjukdom i den neuromuskulära övergången
-- Butyrylkolinesterasbrist
-- Pyoureter
-
-Dessa uppgifter bör verifieras mot produktresumén. Se produktresumén för övrig säkerhetsinformation.
+Se produktresumén för säkerhetsinformation. Inga varningar, kontraindikationer eller läkemedelsinteraktioner finns i de sammanställda uppgifterna.
 
 ---
 
@@ -120,14 +103,13 @@ Dessa uppgifter bör verifieras mot produktresumén. Se produktresumén för öv
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen är enbart modellbaserad (L5), utan kliniska prövningar eller litteratur. Dessutom saknas mekanismdata och säkerhetsinformation, och alla svenska godkännanden är indragna, vilket begränsar praktisk utveckling.
+- Förutsägelsen stöds enbart av en modellpoäng (evidensnivå L5), utan några kliniska prövningar eller publikationer för bronkit. Verkningsmekanismen och säkerhetsunderlaget saknas, och beredningsformerna är inte avsedda för luftvägarna.
 
 **För att gå vidare krävs:**
-- Verkningsmekanismdata för cinchocaine, till exempel från DrugBank.
-- Produktresumé med varningar och kontraindikationer från Läkemedelsverket (MPA), som i dagsläget är ett blockerande datagap för säkerhetsgranskning.
-- Bedömning av administreringsväg (luftvägarna) och dess säkerhet, bland annat med hänsyn till de hjärt-, lung- och neuromuskulära risker som kunskapsgrafen pekar på.
-- Prekliniska eller tidiga kliniska data som stöder en effekt vid bronkit.
-- Bedömning av om en ny marknadsföring är praktiskt möjlig, eftersom alla godkännanden är indragna.
+- Hämta produktresumé med varningar och kontraindikationer från Läkemedelsverket
+- Komplettera uppgifter om verkningsmekanism
+- Genomföra litteratursökning och prekliniska studier av cinchocain vid bronkit
+- Utvärdera lämplig administreringsväg och säkerhet för luftvägsanvändning
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

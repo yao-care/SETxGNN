@@ -4,17 +4,17 @@ title: Flurbiprofen
 parent: Endast modellprediktion (L5)
 nav_order: 205
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Flurbiprofen: predikterad ny indikation Akromesomelisk dysplasi, Hunter-Thompson-typ (evidensnivå L5). Ursprunglig indikation: Reumatoid artrit, artros (enligt kunskapsgrafen"
 monitor_inn: "FLURBIPROFEN"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "spondyloarthropathy, susceptibility to", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]
+description: "Flurbiprofen: predikterad ny indikation Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala…"
 ---
 
 # Flurbiprofen
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Flurbiprofen: Från reumatoid artrit till akromesomelisk dysplasi, Hunter-Thompson-typ
+## Flurbiprofen: Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Flurbiprofen är ett icke-steroidalt antiinflammatoriskt läkemedel (NSAID). Det
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Reumatoid artrit, artros (enligt kunskapsgrafen; godkänd indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Akromesomelisk dysplasi, Hunter-Thompson-typ |
-| TxGNN-förutsägelsepoäng | 99,99 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type) |
+| TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 7 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
+| Antal godkännanden | 7 (giltiga: 7) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Flurbiprofen är ett icke-steroidalt antiinflammatoriskt läkemedel (NSAID). Det
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Flurbiprofen är dock ett NSAID som hämmar COX-1 och COX-2, vilket minskar prostaglandinbildningen och därmed inflammation och smärta. Effekten vid reumatoid artrit och artros är väl belagd.
 
-För den förutsagda sjukdomen hittades **ingen rimlig mekanistisk koppling**. Akromesomelisk dysplasi av Hunter-Thompson-typ är en sällsynt genetisk skelettsjukdom (relaterad till CDMP1/GDF5) och inte inflammatorisk. COX-hämning bedöms därför inte kunna påverka sjukdomen. Den höga poängen speglar sannolikt att sjukdomen ligger nära andra muskuloskeletala termer i kunskapsgrafen, inte att det finns biologiskt stöd.
+För den förutsagda sjukdomen hittades **ingen rimlig mekanistisk koppling**. Akromesomelisk dysplasi av Hunter-Thompson-typ är en sällsynt genetisk skelettsjukdom (relaterad till CDMP1/GDF5) och inte inflammatorisk. COX-hämning bedöms därför inte kunna påverka sjukdomen.
 
 Flera av de övriga topprankade förutsägelserna är likartade sällsynta utvecklingsrubbningar utan känd koppling till prostaglandinmedierad inflammation. Det gäller brakydaktyli-syndaktylisyndrom, brakyolmi, pseudoackondroplasi och några syndrom med medfödda missbildningar. Vid vissa av dem (till exempel pseudoackondroplasi, myoskleros och hypermobilitet i svansbenet) kan NSAID i bästa fall lindra smärta, men det finns inga belägg för att de påverkar sjukdomsförloppet.
 
@@ -129,7 +129,7 @@ Varnings- och kontraindikationstext från produktresumén har inte kunnat hämta
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den högst rankade indikationen saknar både studier och rimlig mekanism. Den höga modellpoängen bedöms därför bero på avstånd i kunskapsgrafen, inte på biologiskt stöd.
+- Den högst rankade indikationen saknar både studier och rimlig mekanism.
 - Alla svenska godkännanden är indragna, och produkttexten med varningar har inte kunnat bedömas.
 
 **För att gå vidare krävs:**

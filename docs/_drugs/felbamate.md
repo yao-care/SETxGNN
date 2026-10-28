@@ -6,9 +6,9 @@ nav_order: 190
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Felbamate: predikterad ny indikation Trigeminusneoplasm (tumör i trigeminusnerven) (evidensnivå L5). Ursprunglig indikation: Epilepsi (partiell epilepsi…"
 monitor_inn: "felbamate"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
+description: "Felbamate: predikterad ny indikation Trigeminal nerve neoplasm (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Felbamate
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Felbamat: Från epilepsi till trigeminusneoplasm
+## Felbamate: Trigeminal nerve neoplasm
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Felbamat är ett antiepileptikum som ursprungligen användes vid epilepsi, bland annat partiell epilepsi och Lennox-Gastauts syndrom. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **trigeminusneoplasm** (tumör i trigeminusnerven) med mycket hög poäng (99,6 %). Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** för just denna indikation, så förutsägelsen bygger enbart på modellen. Den näraliggande diagnosen **trigeminusneuralgi** har viss litteratur, men den är svag (en fallrapport, en översikt och indirekta djurdata).
+Felbamat är ett antiepileptikum som ursprungligen användes vid epilepsi, bland annat partiell epilepsi och Lennox-Gastauts syndrom. TxGNN-modellen (djupinlärning) förutsäger att läkemedlet kan vara effektivt mot **trigeminusnervsneoplasm** (tumör i trigeminusnerven) med mycket hög poäng (0,9962). Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** för just denna indikation, så förutsägelsen bygger enbart på modellen. Den näraliggande diagnosen **trigeminusneuralgi** har viss litteratur, men den är svag (en fallrapport, en översikt och indirekta djurdata).
 
 ---
 
@@ -48,12 +48,12 @@ Felbamat är ett antiepileptikum som ursprungligen användes vid epilepsi, bland
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Epilepsi (partiell epilepsi, Lennox-Gastauts syndrom). Uppgiften kommer från en kunskapsgraf, eftersom de svenska godkännandena saknar indikationstext. |
-| Förutsagd ny indikation | Trigeminusneoplasm (tumör i trigeminusnerven) |
-| TxGNN-förutsägelsepoäng | 99,6 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Trigeminal nerve neoplasm |
+| TxGNN-förutsägelsepoäng | 0.9962 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
-| Antal godkännanden | 2 (båda avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -78,7 +78,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Ingen relaterad litteratur tillgänglig för närvarande för trigeminusneoplasm.
 
-För den näraliggande förutsägelsen **trigeminusneuralgi** (rang 2, poäng 99,2 %, evidensnivå L4) finns följande publikationer:
+För den näraliggande förutsägelsen **trigeminusneuralgi** (rang 2, poäng 0,9918, evidensnivå L4) finns följande publikationer:
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
@@ -93,8 +93,8 @@ För den näraliggande förutsägelsen **trigeminusneuralgi** (rang 2, poäng 99
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 12706 | Taloxa (NV Organon) | Oral suspension | Ej angiven (avregistrerad) |
-| 12705 | Taloxa (NV Organon) | Tablett | Ej angiven (avregistrerad) |
+| 12706 | Taloxa (NV Organon) | Oral suspension | Ej angiven (godkänd) |
+| 12705 | Taloxa (NV Organon) | Tablett | Ej angiven (godkänd) |
 
 ---
 

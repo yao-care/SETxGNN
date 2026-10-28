@@ -6,9 +6,9 @@ nav_order: 400
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Spironolactone: predikterad ny indikation Hypotrichosis simplex i hårbotten (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad i licensdata. Enligt…"
 monitor_inn: "spironolactone"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
+description: "Spironolactone: predikterad ny indikation Hypotrichosis simplex of the scalp (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Spironolactone
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Spironolakton: Från hypertoni och hjärtsvikt till hypotrichosis simplex i hårbotten
+## Spironolactone: Hypotrichosis simplex of the scalp
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Spironolakton är en aldosteronantagonist som ursprungligen används vid högt b
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad i licensdata. Enligt kunskapsgrafen: hypertoni, hjärtsvikt, hyperaldosteronism |
-| Förutsagd ny indikation | Hypotrichosis simplex i hårbotten |
-| TxGNN-förutsägelsepoäng | 99,3 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Hypotrichosis simplex of the scalp |
+| TxGNN-förutsägelsepoäng | 0.9926 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 12 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 12 av 12) |
+| Antal godkännanden | 12 (giltiga: 12) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -66,7 +66,7 @@ Sambandet mellan den ursprungliga och den nya indikationen är därför indirekt
 
 Mekanismen är dock osäker för just denna sjukdom. Hypotrichosis simplex är en ärftlig sjukdom som beror på genetiska fel (till exempel i CDSN, APCDD1 eller RPL21) och drivs inte i första hand av androgener. Det finns därför ingen verifierad grund för att en androgenmodulerande behandling skulle ge nytta. Eftersom uppgifter om ursprunglig verkningsmekanism saknas går det heller inte att kontrollera resonemanget mot källdata.
 
-Den näst högst rankade förutsägelsen, **kongenital hypotrichosis med milia**, har en poäng på 99,0 % och samma brist på evidens. Det är en sällsynt genetisk utvecklingsrubbning i hårfollikeln, och kopplingen är spekulativ.
+Det är en sällsynt genetisk utvecklingsrubbning i hårfollikeln, och kopplingen är spekulativ.
 
 ---
 

@@ -4,17 +4,17 @@ title: Trimethoprim
 parent: Endast modellprediktion (L5)
 nav_order: 440
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Trimethoprim: predikterad ny indikation Punktformad epitelial keratokonjunktivit (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad i svenska godkännande…"
 monitor_inn: "trimethoprim"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
+description: "Trimethoprim: predikterad ny indikation Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifte…"
 ---
 
 # Trimethoprim
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **2** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Trimetoprim: Från urinvägsinfektion till punktformad epitelial keratokonjunktivit
+## Trimethoprim: Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Trimetoprim är ett antibakteriellt läkemedel som ursprungligen används mot bl
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad i svenska godkännandedata. Enligt kunskapsgrafen: urinvägsinfektion, öroninfektion, pneumocystos, shigellos, konjunktivit |
-| Förutsägd ny indikation | Punktformad epitelial keratokonjunktivit |
-| TxGNN-förutsägelsepoäng | 99,6 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsägd ny indikation | Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis) |
+| TxGNN-förutsägelsepoäng | 0.9957 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 9 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
+| Antal godkännanden | 9 (giltiga: 9) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Trimetoprim är ett antibakteriellt läkemedel som ursprungligen används mot bl
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det data som sammanställts. Baserat på känd information är trimetoprim en hämmare av bakteriellt dihydrofolatreduktas, ett enzym som bakterier behöver för att bilda folsyra och därmed bygga DNA. Effekten vid bakteriella infektioner är väl belagd.
 
-Sambandet till den nya indikationen är sannolikt indirekt. Kunskapsgrafen kopplar trimetoprim till redan godkända ögonindikationer (konjunktivit och blefarokonjunktivit), där trimetoprim används i ögondroppar mot bakterier. Den höga poängen kan alltså spegla att sjukdomarna ligger nära varandra i grafen.
+Sambandet till den nya indikationen är sannolikt indirekt. Poängen kommer från TxGNN-modellen (deep learning) och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens. Trimetoprim används i ögondroppar mot bakterier vid redan godkända ögonindikationer.
 
 Det finns dock en tydlig svaghet. Punktformad epitelial keratokonjunktivit orsakas ofta av virus (till exempel adenovirus) eller av inflammation, och en antibakteriell mekanism är då inte självklart relevant. Kopplingen är obekräftad.
 

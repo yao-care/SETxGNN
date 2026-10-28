@@ -6,9 +6,9 @@ nav_order: 179
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Ethosuximide: predikterad ny indikation Nefrogent syndrom med inadekvat antidures (NSIAD) (evidensnivå L5). Ursprunglig indikation: Absensepilepsi (enligt kunskapsgrafen…"
 monitor_inn: "ethosuximide"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
+description: "Ethosuximide: predikterad ny indikation Nephrogenic syndrome of inappropriate antidiuresis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ethosuximide
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Etosuximid: Från absensepilepsi till nefrogent syndrom med inadekvat antidures (NSIAD)
+## Ethosuximide: Nephrogenic syndrome of inappropriate antidiuresis
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Etosuximid används ursprungligen för att behandla absensepilepsi. TxGNN-modellen förutsäger att det kan vara effektivt mot **nefrogent syndrom med inadekvat antidures (NSIAD)**, med mycket hög modellpoäng (99,9 %). Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder denna riktning, så förutsägelsen bygger enbart på modellen.
+Etosuximid används ursprungligen för att behandla absensepilepsi. Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder denna riktning, så förutsägelsen bygger enbart på modellen.
 
 ---
 
@@ -48,12 +48,12 @@ Etosuximid används ursprungligen för att behandla absensepilepsi. TxGNN-modell
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Absensepilepsi (enligt kunskapsgrafen, eftersom godkända indikationstexter saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Nefrogent syndrom med inadekvat antidures (NSIAD) |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Nephrogenic syndrome of inappropriate antidiuresis |
+| TxGNN-förutsägelsepoäng | 0.9991 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 8 (samtliga avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
+| Antal godkännanden | 8 (giltiga: 8) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -70,7 +70,7 @@ Den mycket höga poängen (0,9991) är en beräknad förutsägelse och ska inte 
 
 ## Marknadsinformation Sverige
 
-Alla åtta godkännanden är avregistrerade och inga är giltiga. Godkända indikationstexter saknas i datan. Fem av godkännandena visas nedan.
+Godkända indikationstexter saknas i datan. Fem av godkännandena visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
 |---------|------|------|-----------|
@@ -109,7 +109,6 @@ Produktresumétexter med varningar och kontraindikationer har inte kunnat hämta
 - Hämta och bearbeta produktresumétexter för varningar och kontraindikationer, så att säkerhetsgranskning kan genomföras.
 - Göra en systematisk litteratur- och prövningssökning på etosuximid vid NSIAD.
 - Genomföra prekliniska studier (till exempel cellmodeller med aktiverande AVPR2-mutation) för att testa om det finns någon biologisk effekt.
-- Bedöma administreringsvägar och tillgänglighet, eftersom alla svenska godkännanden är avregistrerade.
 - Beakta kontraindikationerna för njur- och blodsjukdom, eftersom NSIAD är en njurrelaterad störning.
 ## Ansvarsfriskrivning
 

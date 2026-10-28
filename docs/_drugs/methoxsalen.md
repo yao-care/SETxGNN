@@ -4,17 +4,17 @@ title: Methoxsalen
 parent: Endast modellprediktion (L5)
 nav_order: 285
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Methoxsalen: predikterad ny indikation Lokaliserad pagetoid retikulos (evidensnivå L5). Ursprunglig indikation: Primärt kutant T-cellslymfom (icke-Hodgkin)…"
 monitor_inn: "methoxsalen"
-predicted_indications: ["localized pagetoid reticulosis", "neoplasm of mature B-cells", "small intestinal Burkitt lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "follicular lymphoma, susceptibility to, 1", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "vulvar inverted follicular keratosis"]
+predicted_indications: ["localized pagetoid reticulosis", "neoplasm of mature B-cells", "small intestinal Burkitt lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "vulvar inverted follicular keratosis"]
+description: "Methoxsalen: predikterad ny indikation Localized pagetoid reticulosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Methoxsalen
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Metoxalen: Från kutant T-cellslymfom till lokaliserad pagetoid retikulos
+## Methoxsalen: Localized pagetoid reticulosis
 {: .text-alpha }
 
 ---
@@ -49,12 +49,12 @@ TxGNN-modellen förutsäger att det kan vara effektivt mot **lokaliserad pagetoi
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Primärt kutant T-cellslymfom (icke-Hodgkin), primärt kutant T-cellslymfom och vitiligo (enligt kunskapsgrafen; svensk godkännandetext saknas) |
-| Förutsagd ny indikation | Lokaliserad pagetoid retikulos |
-| TxGNN-förutsägelsepoäng | 99,97 % |
-| Evidensnivå | L4 (indirekt stöd från mekanism och närliggande sjukdom, inga studier för just denna sjukdom) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 (0 giltiga, 1 indraget) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Localized pagetoid reticulosis |
+| TxGNN-förutsägelsepoäng | 0.9997 |
+| Evidensnivå | L5 (indirekt stöd från mekanism och närliggande sjukdom, inga studier för just denna sjukdom) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---

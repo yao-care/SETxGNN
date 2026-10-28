@@ -6,9 +6,9 @@ nav_order: 192
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Felypressin: predikterad ny indikation Läkemedelsinducerad osteoporos (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga data"
 monitor_inn: "FELYPRESSIN"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "esotropia", "diabetic retinopathy", "bronchial adenomas/carcinoids childhood", "ductal or ductular proliferation", "chondroid hamartoma", "non-seminomatous lesion", "tumor of testis and paratestis", "pre-malignant neoplasm"]
+description: "Felypressin: predikterad ny indikation Läkemedelsinducerad osteoporos (drug-induced osteoporosis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Felypressin
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Felypressin: Från okänd ursprunglig indikation till läkemedelsinducerad osteoporos
+## Felypressin: Läkemedelsinducerad osteoporos (drug-induced osteoporosis)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Felypressin är en syntetisk analog till vasopressin och ingår i en tandvårdsberedning (Citanest Dental Octapressin), men den ursprungliga godkända indikationen framgår inte av de data som sammanställts för denna rapport. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **läkemedelsinducerad osteoporos**, med ett mycket högt modellpoäng (99,8 %). Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, så evidensen är begränsad till själva modellen.
+Felypressin är en syntetisk analog till vasopressin och ingår i en tandvårdsberedning (Citanest Dental Octapressin), men den ursprungliga godkända indikationen framgår inte av de data som sammanställts för denna rapport. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **läkemedelsinducerad osteoporos**, med ett mycket högt modellpoäng (0,9980). Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, så evidensen är begränsad till själva modellen.
 
 ---
 
@@ -48,12 +48,12 @@ Felypressin är en syntetisk analog till vasopressin och ingår i en tandvårdsb
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i tillgängliga data |
-| Förutsagd ny indikation | Läkemedelsinducerad osteoporos |
-| TxGNN-förutsägelsepoäng | 99,8 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Läkemedelsinducerad osteoporos (drug-induced osteoporosis) |
+| TxGNN-förutsägelsepoäng | 0.9980 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 (indraget) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,21 +64,12 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 Ett samband med läkemedelsinducerad osteoporos är hypotetiskt. Vasopressinreceptorer finns i benceller, så en teoretisk koppling kan finnas. Den är dock spekulativ och saknar stöd i kliniska data eller litteratur.
 
-Det höga poängvärdet speglar sannolikt närhet i kunskapsgrafen och inte faktisk biologisk eller klinisk evidens. Förutsägelsen bör därför tolkas med stor försiktighet.
+Förutsägelsen bör därför tolkas med stor försiktighet.
 
 **Övriga förutsägelser i toppen av listan** (alla L5, utan prövningar eller litteratur):
 
 | Rang | Förutsagd indikation | Poäng | Bedömning |
 |------|------|------|------|
-| 2 | Svår icke-proliferativ diabetesretinopati | 99,6 % | Vasokonstriktion kan snarare försämra näthinnans genomblödning |
-| 3 | Esotropi | 99,4 % | Trolig artefakt i kunskapsgrafen |
-| 4 | Diabetesretinopati | 99,4 % | Samma resonemang som ovan, risk för skada |
-| 5 | Bronkiala adenom/karcinoider hos barn | 99,2 % | Ingen etablerad mekanism |
-| 6 | Duktal eller duktulär proliferation | 99,2 % | Ingen identifierbar mekanism |
-| 7 | Kondroitt hamartom | 99,2 % | Ingen mekanistisk grund |
-| 8 | Icke-seminomatös lesion | 99,2 % | Ingen evidens |
-| 9 | Tumör i testikel och paratestikel | 99,2 % | Ingen evidens för antitumöreffekt |
-| 10 | Premalign neoplasi | 99,2 % | Ospecifik kategori |
 
 Flera av dessa har identiska poäng, vilket tyder på en generell grafeffekt snarare än läkemedelsspecifik biologi.
 
@@ -90,7 +81,7 @@ Flera av dessa har identiska poäng, vilket tyder på en generell grafeffekt sna
 |---------|------|------|-----------|
 | 10433 | Citanest Dental Octapressin | Injektionsvätska, lösning | Ingen indikationstext tillgänglig (status: indraget) |
 
-Tillverkare: Dentsply DeTrey GmbH. Det finns inga giltiga godkännanden för felypressin i Sverige för närvarande.
+Tillverkare: Dentsply DeTrey GmbH.
 
 ---
 

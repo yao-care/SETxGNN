@@ -6,9 +6,9 @@ nav_order: 277
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Memantine: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga data"
 monitor_inn: "memantine"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
+description: "Memantine: predikterad ny indikation Pulmonary hypertension (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Memantine
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-## Memantin: Från ej angiven ursprunglig indikation till migrän
+## Memantine: Pulmonary hypertension
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Memantin är en NMDA-receptorantagonist med flera godkännanden i Sverige. Samtliga är numera avregistrerade, och den ursprungliga indikationstexten finns inte i de data som sammanställts för rapporten. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **migrän** (poäng 99,5 %). Underlaget består av **1 avslutad fas 3-prövning** och **20 publikationer**, bland dem en metaanalys av randomiserade studier och flera systematiska översikter.
+Memantin är en NMDA-receptorantagonist med flera godkännanden i Sverige. Samtliga är numera avregistrerade, och den ursprungliga indikationstexten finns inte i de data som sammanställts för rapporten. Underlaget består av **1 avslutad fas 3-prövning** och **20 publikationer**, bland dem en metaanalys av randomiserade studier och flera systematiska översikter.
 
 ---
 
@@ -48,12 +48,12 @@ Memantin är en NMDA-receptorantagonist med flera godkännanden i Sverige. Samtl
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i tillgängliga data |
-| Förutsagd ny indikation | Migrän (migraine disorder) |
-| TxGNN-förutsägelsepoäng | 99,5 % |
-| Evidensnivå | L1 (formellt, med reservationer, se nedan) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 10 (alla avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Pulmonary hypertension |
+| TxGNN-förutsägelsepoäng | 0.9954 |
+| Evidensnivå | L5 (formellt, med reservationer, se nedan) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
+| Antal godkännanden | 10 (giltiga: 10) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 **Om valet av indikation:** Den högst rankade förutsägelsen är pulmonell hypertension (99,5 %), men den saknar stödjande klinisk evidens (L5). Rapporten fokuserar därför på migrän, som har tydligt mer underlag. Även migrän med hjärnstamsaura (L3) och kyfoskoliotisk hjärtsjukdom (L5, inget underlag) förutsades.
@@ -99,7 +99,7 @@ Evidensen är dock fortfarande begränsad. En kommentar i *Headache* har titeln 
 
 ### Marknadsinformation Sverige
 
-Alla 10 godkännanden är avregistrerade. Ingen godkänd indikationstext finns i tillgängliga data.
+Ingen godkänd indikationstext finns i tillgängliga data.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -128,7 +128,7 @@ Varnings- och kontraindikationstext från produktresumén saknas i de sammanstä
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Biologiskt resonemang och flera översikter stöder memantin vid migränprofylax, men den enda fas 3-prövningen är liten, saknar tillgängliga resultat och jämför mot en aktiv behandling. Dessutom saknas säkerhetsdata från produktresumén och alla svenska godkännanden är avregistrerade.
+- Biologiskt resonemang och flera översikter stöder memantin vid migränprofylax, men den enda fas 3-prövningen är liten, saknar tillgängliga resultat och jämför mot en aktiv behandling.
 
 **För att gå vidare krävs:**
 - Resultat från NCT04698525 samt granskning av metaanalysen (PMID 33961371) och den systematiska översikten (PMID 34352118).

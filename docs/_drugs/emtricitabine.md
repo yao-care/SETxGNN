@@ -6,9 +6,9 @@ nav_order: 161
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Emtricitabine: predikterad ny indikation Felint förvärvat immunbristsyndrom (katt-AIDS) (evidensnivå L5). Ursprunglig indikation: HIV-infektion och AIDS (enligt TxGNN-kunskapsgrafen"
 monitor_inn: "emtricitabine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Emtricitabine: predikterad ny indikation Feline acquired immunodeficiency syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Emtricitabine
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Emtricitabin: Från HIV-infektion och AIDS till felint förvärvat immunbristsyndrom
+## Emtricitabine: Feline acquired immunodeficiency syndrome
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Emtricitabin är en nukleosid omvänt transkriptashämmare som ursprungligen anv
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | HIV-infektion och AIDS (enligt TxGNN-kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Felint förvärvat immunbristsyndrom (katt-AIDS) |
-| TxGNN-förutsägelsepoäng | 99,9 % |
-| Evidensnivå | L4 (endast prekliniska/veterinära studier) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Feline acquired immunodeficiency syndrome |
+| TxGNN-förutsägelsepoäng | 0.9992 |
+| Evidensnivå | L5 (endast prekliniska/veterinära studier) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 19) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
@@ -78,7 +78,7 @@ Det är viktigt att se att detta är en veterinär indikation. Den enda publikat
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna och inga är giltiga. Indikationstext finns inte registrerad i de sammanställda uppgifterna. Nedan visas de fem första.
+Indikationstext finns inte registrerad i de sammanställda uppgifterna. Nedan visas de fem första.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -117,7 +117,7 @@ Varningar och kontraindikationer från de svenska produktresuméerna saknas i un
 
 **Övriga förutsägelser i underlaget:**
 - *Simian immunbristvirusinfektion* (L4): flera studier på makaker visar att emtricitabin i kombination med tenofovir skyddar mot SIV/SHIV-smitta. Detta är djurmodellsdata för HIV och inte en ny indikation hos människor.
-- *Neuroutvecklingsstörning med ataxisk gång, utebliven tal och minskad kortikal vit substans* (L5): ingen mekanistisk koppling, inga studier och ingen litteratur. Den höga poängen (99,9 %) bör betraktas som ett möjligt grafartefakt och ska inte ligga till grund för något beslut.
+- *Neuroutvecklingsstörning med ataxisk gång, utebliven tal och minskad kortikal vit substans* (L5): ingen mekanistisk koppling, inga studier och ingen litteratur.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

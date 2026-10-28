@@ -6,9 +6,9 @@ nav_order: 352
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Pioglitazone: predikterad ny indikation Opsismodysplasi (evidensnivå L5). Ursprunglig indikation: Typ 2-diabetes mellitus (enligt TxGNN-kunskapsgrafen"
 monitor_inn: "pioglitazone"
 predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
+description: "Pioglitazone: predikterad ny indikation Opsismodysplasia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Pioglitazone
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-## Pioglitazon: Från typ 2-diabetes till opsismodysplasi
+## Pioglitazone: Opsismodysplasia
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Pioglitazon är ett läkemedel i gruppen tiazolidindioner som ursprungligen användes för att behandla **typ 2-diabetes mellitus**. TxGNN-modellen förutsäger att det kan vara effektivt mot **opsismodysplasi**, en sällsynt skelettdysplasi, med mycket hög modellpoäng (99,6 %). Det finns dock **inga kliniska prövningar och ingen litteratur** som stöder förutsägelsen, vilket innebär att den enbart bygger på modellen.
+Pioglitazon är ett läkemedel i gruppen tiazolidindioner som ursprungligen användes för att behandla **typ 2-diabetes mellitus**. Det finns dock **inga kliniska prövningar och ingen litteratur** som stöder förutsägelsen, vilket innebär att den enbart bygger på modellen.
 
 ---
 
@@ -48,12 +48,12 @@ Pioglitazon är ett läkemedel i gruppen tiazolidindioner som ursprungligen anv�
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Typ 2-diabetes mellitus (enligt TxGNN-kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Opsismodysplasi |
-| TxGNN-förutsägelsepoäng | 99,6 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Opsismodysplasia |
+| TxGNN-förutsägelsepoäng | 0.9959 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
-| Antal godkännanden | 3 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -74,9 +74,9 @@ Andra förutsagda indikationer i modellen (till exempel lipodystrofier, stiff pe
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 57713 | Pioglitazone Holsten | Tablett | Ingen indikationstext registrerad (återkallad) |
-| 57714 | Pioglitazone Holsten | Tablett | Ingen indikationstext registrerad (återkallad) |
-| 57712 | Pioglitazone Holsten | Tablett | Ingen indikationstext registrerad (återkallad) |
+| 57713 | Pioglitazone Holsten | Tablett | Ingen indikationstext registrerad (godkänd) |
+| 57714 | Pioglitazone Holsten | Tablett | Ingen indikationstext registrerad (godkänd) |
+| 57712 | Pioglitazone Holsten | Tablett | Ingen indikationstext registrerad (godkänd) |
 
 Alla tre godkännandena tillhör Holsten Pharma GmbH och är återkallade. Det finns därför för närvarande ingen giltig marknadsförd produkt i Sverige.
 

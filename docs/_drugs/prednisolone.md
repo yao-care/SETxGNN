@@ -4,17 +4,17 @@ title: Prednisolone
 parent: Hög evidens (L1-L2)
 nav_order: 362
 evidence_level: L2
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Prednisolone: predikterad ny indikation Alopecia areata (evidensnivå L2). Ursprunglig indikation: Autoimmun sjukdom"
 monitor_inn: "prednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
+description: "Prednisolone: predikterad ny indikation Alopecia areata (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Prednisolone
 {: .fs-9 }
 
-Evidensnivå: **L2** | Förutsagda indikationer: **10** st
+Evidensnivå: **L2** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L2** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Prednisolon: Från autoimmuna sjukdomar och inflammatoriska tillstånd till alopecia areata
+## Prednisolone: Alopecia areata
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Prednisolon är ett glukokortikoid som ursprungligen används vid bland annat au
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Autoimmun sjukdom (godkänd indikationstext saknas i svenska registret; ursprunglig indikation hämtad från kunskapsgrafen) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Alopecia areata |
-| TxGNN-förutsägelsepoäng | 99,99 % |
+| TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 11 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 11 av 11) |
+| Antal godkännanden | 11 (giltiga: 11) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

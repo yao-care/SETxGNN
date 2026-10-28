@@ -6,9 +6,9 @@ nav_order: 189
 evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Febuxostat: predikterad ny indikation Renal hypourikemi (hypouricemia, renal) (evidensnivå L4). Ursprunglig indikation: Hyperurikemi (enligt kunskapsgrafen"
 monitor_inn: "FEBUXOSTAT"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
+description: "Febuxostat: predikterad ny indikation Renal hypourikemi (hypouricemia, renal) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Febuxostat
@@ -33,7 +33,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Febuxostat: Från hyperurikemi till renal hypourikemi
+## Febuxostat: Renal hypourikemi (hypouricemia, renal)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Febuxostat är en xantinoxidashämmare som ursprungligen användes för att beha
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Hyperurikemi (enligt kunskapsgrafen; indikationstext saknas i det svenska godkännandet) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Renal hypourikemi (hypouricemia, renal) |
-| TxGNN-förutsägelsepoäng | 99,99 % |
+| TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -91,7 +91,7 @@ Den höga modellpoängen beror sannolikt på att läkemedel och sjukdom ligger n
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 56645 | Febuxostat Accord (Accord Healthcare B.V.) | Filmdragerad tablett | Ingen indikationstext angiven (status: avregistrerad) |
+| 56645 | Febuxostat Accord (Accord Healthcare B.V.) | Filmdragerad tablett | Ingen indikationstext angiven (status: godkänd) |
 
 ---
 

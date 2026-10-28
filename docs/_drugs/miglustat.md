@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Miglustat
-parent: Hög evidens (L1-L2)
+parent: Endast modellprediktion (L5)
 nav_order: 295
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Miglustat: predikterad ny indikation Tay-Sachs sjukdom (GM2-gangliosidos) (evidensnivå L2). Ursprunglig indikation: Gauchers sjukdom, Niemann-Picks sjukdom (enligt kunskapsgrafen"
 monitor_inn: "MIGLUSTAT"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
+description: "Miglustat: predikterad ny indikation Autosomal ichthyosis syndrome with fatal disease course (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Miglustat
 {: .fs-9 }
 
-Evidensnivå: **L2** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L2** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Miglustat: Från Gauchers sjukdom till Tay-Sachs sjukdom
+## Miglustat: Autosomal ichthyosis syndrome with fatal disease course
 {: .text-alpha }
 
 ---
@@ -50,12 +50,12 @@ Miglustat är en hämmare av glukosylceramidsyntas som ursprungligen användes v
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Gauchers sjukdom, Niemann-Picks sjukdom (enligt kunskapsgrafen; svensk produkttext saknas) |
-| Förutsagd ny indikation | Tay-Sachs sjukdom (GM2-gangliosidos) |
-| TxGNN-förutsägelsepoäng | 99,7 % |
-| Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Autosomal ichthyosis syndrome with fatal disease course |
+| TxGNN-förutsägelsepoäng | 0.9983 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

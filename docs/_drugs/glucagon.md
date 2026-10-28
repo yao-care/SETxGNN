@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Glucagon
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 216
-evidence_level: L5
+evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Glucagon: predikterad ny indikation Irritabel tarm (IBS) (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga data"
 monitor_inn: "glucagon"
 predicted_indications: ["irritable bowel syndrome"]
+description: "Glucagon: predikterad ny indikation Irritable bowel syndrome (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Glucagon
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **1** st
+Evidensnivå: **L3** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Glucagon: Från ingen dokumenterad indikation till irritabel tarm (IBS)
+## Glucagon: Irritable bowel syndrome
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Glucagon (Glucagon Novo Nordisk) har tidigare haft svenska godkännanden, men in
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i tillgängliga data |
-| Förutsagd ny indikation | Irritabel tarm (IBS) |
-| TxGNN-förutsägelsepoäng | 99,2 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Irritable bowel syndrome |
+| TxGNN-förutsägelsepoäng | 0.9924 |
 | Evidensnivå | L3 (endast indirekt evidens, bland annat en systematisk översikt om GLP-1-agonister vid IBS) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 2 (båda avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---

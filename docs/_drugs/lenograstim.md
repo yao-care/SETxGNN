@@ -40,7 +40,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 ### Sammanfattning
 
-Lenograstim är en rekombinant, glykosylerad granulocytkolonistimulerande faktor (G-CSF). Någon ursprunglig godkänd indikation finns inte angiven i de data som sammanställts för denna rapport. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **primär trombocytfrisättningsstörning** (poäng 99,9 %), men **inga kliniska prövningar och ingen litteratur** stöder denna riktning. Förutsägelsen bygger enbart på modellen.
+Lenograstim är en rekombinant, glykosylerad granulocytkolonistimulerande faktor (G-CSF). Någon ursprunglig godkänd indikation finns inte angiven i de data som sammanställts för denna rapport. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **primär trombocytfrisättningsstörning** (poäng 0,9991), men **inga kliniska prövningar och ingen litteratur** stöder denna riktning. Förutsägelsen bygger enbart på modellen.
 
 ---
 
@@ -50,10 +50,10 @@ Lenograstim är en rekombinant, glykosylerad granulocytkolonistimulerande faktor
 |------|------|
 | Ursprunglig indikation | Ej angiven i tillgängliga data |
 | Förutsagd ny indikation | Primär trombocytfrisättningsstörning (primary release disorder of platelets) |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| TxGNN-förutsägelsepoäng | 0,9991 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,15 +64,12 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 Primär trombocytfrisättningsstörning är en kvalitativ trombocytdefekt där trombocyternas granulaeffekter (sekretion) är nedsatta. Det handlar alltså inte om brist på neutrofiler. Någon trolig biologisk väg från G-CSF-receptorsignalering till korrigering av trombocyternas frisättning kan inte identifieras.
 
-Den höga modellpoängen beror sannolikt på att läkemedlet och sjukdomen ligger nära varandra bland hematologiska noder i kunskapsgrafen, snarare än på en biologisk motivering. Förutsägelsen bör därför ses som mycket spekulativ.
+Den höga poängen kommer från TxGNN-modellen (djupinlärning) och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens. Förutsägelsen bör därför ses som mycket spekulativ.
 
 **Övriga förutsägelser (alla L5, ingen evidens):**
 
 | Förutsagd indikation | TxGNN-poäng | Bedömning av mekanistiskt samband |
 |------|------|------|
-| Glanzmanns trombasteni | 99,9 % | Orsakas av defekter i integrin αIIbβ3. G-CSF saknar känd effekt här. Möjlig roll endast som stöd vid stamcellstransplantation. |
-| Pseudo-von Willebrands sjukdom | 99,9 % | Orsakas av funktionsökande varianter i GP1BA. Ingen känd påverkan från lenograstim. |
-| Svår icke-proliferativ diabetesretinopati | 99,6 % | Riktningen på effekten är osäker, eftersom G-CSF både kan stödja kärlreparation och främja inflammation eller nybildning av kärl. Etablerade behandlingar finns. |
 
 ---
 
@@ -80,7 +77,7 @@ Den höga modellpoängen beror sannolikt på att läkemedlet och sjukdomen ligge
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 11846 | Granocyte (Sanofi AB), återkallad | Pulver och vätska till injektions-/infusionsvätska, lösning | Ej angiven |
+| 11846 | Granocyte (Sanofi AB), godkänd | Pulver och vätska till injektions-/infusionsvätska, lösning | Ej angiven |
 
 ---
 

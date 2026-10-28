@@ -6,9 +6,9 @@ nav_order: 436
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Treosulfan: predikterad ny indikation Diabetisk katarakt (evidensnivå L5). Ursprunglig indikation: Ej angiven i licensdata"
 monitor_inn: "TREOSULFAN"
 predicted_indications: ["diabetic cataract"]
+description: "Treosulfan: predikterad ny indikation Diabetic cataract (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Treosulfan
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Treosulfan: Från [ursprunglig indikation ej angiven] till diabetisk katarakt
+## Treosulfan: Diabetic cataract
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Treosulfan är ett alkylerande cytostatikum som används i konditioneringsbehandling inför blodstamcellstransplantation. Den ursprungliga indikationen finns inte angiven i den svenska licensen. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **diabetisk katarakt** (poäng 99 %), men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder detta. Förutsägelsen bygger enbart på modellen.
+Treosulfan är ett alkylerande cytostatikum som används i konditioneringsbehandling inför blodstamcellstransplantation. Den ursprungliga indikationen finns inte angiven i den svenska licensen. Förutsägelsen bygger enbart på modellen.
 
 ---
 
@@ -48,12 +48,12 @@ Treosulfan är ett alkylerande cytostatikum som används i konditioneringsbehand
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i licensdata |
-| Förutsagd ny indikation | Diabetisk katarakt |
-| TxGNN-förutsägelsepoäng | 99,0 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Diabetic cataract |
+| TxGNN-förutsägelsepoäng | 0.9901 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 1 (avregistrerat) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -72,7 +72,7 @@ Den höga poängen är därför sannolikt en artefakt av grafmodellen och inte e
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 58317 | Treosulfan Tillomed | Pulver till infusionsvätska, lösning | Ingen indikationstext angiven (avregistrerat) |
+| 58317 | Treosulfan Tillomed | Pulver till infusionsvätska, lösning | Ingen indikationstext angiven (godkänt) |
 
 ---
 

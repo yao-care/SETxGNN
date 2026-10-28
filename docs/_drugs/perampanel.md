@@ -4,17 +4,17 @@ title: Perampanel
 parent: Endast modellprediktion (L5)
 nav_order: 343
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Perampanel: predikterad ny indikation Visuell epilepsi (evidensnivå L5). Ursprunglig indikation: Partiell epilepsi (enligt kunskapsgrafen"
 monitor_inn: "perampanel"
 predicted_indications: ["beta-ketothiolase deficiency"]
+description: "Perampanel: predikterad ny indikation Beta-ketothiolase deficiency (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Perampanel
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Perampanel: Från partiell epilepsi till visuell epilepsi
+## Perampanel: Beta-ketothiolase deficiency
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Perampanel är ett antiepileptikum som ursprungligen användes för att behandla partiell epilepsi (fokala anfall). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **visuell epilepsi** (synutlöst reflexepilepsi), men underlaget för just denna sjukdom är mycket svagt: **inga kliniska prövningar** och **19 publikationer**, som alla är allmänna epilepsiöversikter eller perampanelstudier utan koppling till synutlösta anfall. Av de förutsagda indikationerna har **status epilepticus** det klart starkaste underlaget, och den behandlas därför som en komplement-bedömning nedan.
+Perampanel är ett antiepileptikum som ursprungligen användes för att behandla partiell epilepsi (fokala anfall). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **visuell epilepsi** (synutlöst reflexepilepsi), men underlaget för just denna sjukdom är mycket svagt: **inga kliniska prövningar** och **19 publikationer**, som alla är allmänna epilepsiöversikter eller perampanelstudier utan koppling till synutlösta anfall.
 
 ---
 
@@ -48,12 +48,12 @@ Perampanel är ett antiepileptikum som ursprungligen användes för att behandla
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Partiell epilepsi (enligt kunskapsgrafen; svensk indikationstext saknas i godkännandena) |
-| Förutsagd ny indikation | Visuell epilepsi |
-| TxGNN-förutsägelsepoäng | 99,92 % |
-| Evidensnivå | L4 (endast indirekta och prekliniska data; inga studier för just denna sjukdom) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 6 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Beta-ketothiolase deficiency |
+| TxGNN-förutsägelsepoäng | 0.9979 |
+| Evidensnivå | L5 (endast indirekta och prekliniska data; inga studier för just denna sjukdom) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 Visuell epilepsi är en reflexepilepsi där anfall utlöses av visuella stimuli och där överretbarhet i bland annat occipitala och fokala hjärnområden antas spela roll. Mekanistiskt är det därför rimligt att en AMPA-antagonist kan dämpa dessa anfall.
 
-Den mycket höga modellpoängen speglar framför allt att sjukdomen ligger nära de godkända epilepsiindikationerna i kunskapsgrafen, inte att det finns sjukdomsspecifik evidens. Ingen av de hämtade artiklarna handlar om synutlösta eller fotosensitiva anfall.
+Ingen av de hämtade artiklarna handlar om synutlösta eller fotosensitiva anfall.
 
 ---
 
@@ -89,7 +89,7 @@ Tabellen visar ett urval av de mest relevanta publikationerna bland de 19 som h�
 
 ## Marknadsinformation Sverige
 
-Alla sex godkännanden är indragna och det finns inga giltiga godkännanden på marknaden. Indikationstext saknas i godkännandedata.
+Indikationstext saknas i godkännandedata.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
@@ -120,15 +120,7 @@ Se produktresumén för varningar och kontraindikationer, eftersom dessa inte fi
 
 | Förutsagd indikation | Poäng | Evidensnivå | Kommentar |
 |------|------|------|------|
-| Status epilepticus | 99,77 % | L3 | Starkast underlag: systematisk översikt, kohortstudier och fallserier. Fyra prövningar (se nedan). |
-| Audiogena anfall | 99,86 % | L4 | Konsekvent djurdata (råttor och möss), inga humanstudier. |
-| Tänkandeutlösta anfall | 99,86 % | L4 | Endast indirekt litteratur. |
-| Miktionsutlösta anfall | 99,86 % | L4 | Endast indirekt litteratur. |
-| Ätutlösta anfall | 99,86 % | L4 | Två fallrapporter, varav en beskriver en biverkning. |
-| Läsutlösta anfall | 99,83 % | L4 | Endast indirekt litteratur. |
-| Startle-epilepsi | 99,86 % | L5 | Endast modellförutsägelse. |
-| Orgasmutlösta anfall | 99,86 % | L5 | Endast modellförutsägelse. |
-| Beta-ketotiolasbrist | 99,79 % | L5 | Sannolikt modellartefakt: det är en metabol sjukdom där AMPA-antagonism inte åtgärdar grundorsaken. |
+| Beta-ketotiolasbrist | 0,9979 | L5 | Sannolikt modellartefakt: det är en metabol sjukdom där AMPA-antagonism inte åtgärdar grundorsaken. |
 
 ### Kliniska prövningar (status epilepticus)
 
@@ -160,7 +152,6 @@ Mekanistiskt är stödet starkast här: vid långvarig status epilepticus tas GA
 
 **Motivering:**
 - För den högst rankade förutsägelsen, visuell epilepsi, finns varken kliniska prövningar eller sjukdomsspecifik litteratur. Den höga poängen speglar närhet till godkända epilepsiindikationer snarare än faktisk evidens.
-- Läkemedlet har dessutom inga giltiga godkännanden i Sverige för närvarande, och säkerhetsdata från produktresumén saknas.
 
 **För att gå vidare krävs:**
 - Sjukdomsspecifika data (fallserier eller prövningar) för visuell och fotosensitiv epilepsi.

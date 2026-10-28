@@ -4,17 +4,17 @@ title: Mannitol
 parent: Endast modellprediktion (L5)
 nav_order: 274
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Mannitol: predikterad ny indikation Nefrogent syndrom med olämplig antidiures (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. Enligt kunska…"
 monitor_inn: "MANNITOL"
-predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "malignant hyperthermia, susceptibility to", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
+description: "Mannitol: predikterad ny indikation Nephrogenic syndrome of inappropriate antidiuresis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Mannitol
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Mannitol: Från ökat intrakraniellt tryck och hjärnödem till nefrogent syndrom med olämplig antidiures
+## Mannitol: Nephrogenic syndrome of inappropriate antidiuresis
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Mannitol är ett osmotiskt verkande läkemedel som i de data som sammanställts för denna rapport är kopplat till bland annat hjärnödem, förhöjt intrakraniellt tryck, förhöjt ögontryck, hjärtsvikt och cystisk fibros. TxGNN-modellen förutsäger att det kan vara effektivt mot **nefrogent syndrom med olämplig antidiures** (poäng 99,97 %), men det finns **inga kliniska prövningar** och endast **1 publikation**, en allmän översikt utan mannitolspecifika data. Förutsägelsen bygger därmed enbart på modellen, och flera mekanistiska överväganden talar snarare emot en nytta.
+Mannitol är ett osmotiskt verkande läkemedel som i de data som sammanställts för denna rapport är kopplat till bland annat hjärnödem, förhöjt intrakraniellt tryck, förhöjt ögontryck, hjärtsvikt och cystisk fibros. TxGNN-modellen förutsäger att det kan vara effektivt mot **nefrogent syndrom med olämplig antidiures** (poäng 0,9997), men det finns **inga kliniska prövningar** och endast **1 publikation**, en allmän översikt utan mannitolspecifika data. Förutsägelsen bygger därmed enbart på modellen, och flera mekanistiska överväganden talar snarare emot en nytta.
 
 ---
 
@@ -48,12 +48,12 @@ Mannitol är ett osmotiskt verkande läkemedel som i de data som sammanställts 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: hjärnödem, förhöjt intrakraniellt tryck, förhöjt ögontryck, hjärtsvikt, pseudotumor cerebri, cystisk fibros |
-| Förutsagd ny indikation | Nefrogent syndrom med olämplig antidiures |
-| TxGNN-förutsägelsepoäng | 99,97 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Nephrogenic syndrome of inappropriate antidiuresis |
+| TxGNN-förutsägelsepoäng | 0.9997 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
-| Antal godkännanden | 4 (alla återkallade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -86,10 +86,10 @@ Samtliga fyra godkännanden är återkallade, och ingen produkt med mannitol har
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 22708 | Aridol | Inhalationspulver, hård kapsel | Återkallad |
-| 18054 | Mannitol Baxter Viaflo | Infusionsvätska, lösning | Återkallad |
-| 9205 | Mannitol Fresenius Kabi | Infusionsvätska, lösning | Återkallad |
-| 57202 | Corhum | Lösning för kardioplegi/organförvaring | Återkallad |
+| 22708 | Aridol | Inhalationspulver, hård kapsel | Godkänd |
+| 18054 | Mannitol Baxter Viaflo | Infusionsvätska, lösning | Godkänd |
+| 9205 | Mannitol Fresenius Kabi | Infusionsvätska, lösning | Godkänd |
+| 57202 | Corhum | Lösning för kardioplegi/organförvaring | Godkänd |
 
 ---
 
@@ -115,7 +115,6 @@ Vid den aktuella förutsagda indikationen är särskilt nedsatt njurfunktion, lu
 
 **Motivering:**
 - Förutsägelsen saknar kliniska prövningar och mekanistiskt stöd. Den enda publikationen är en allmän översikt, och mannitols osmotiska effekt kan i stället förvärra hyponatremi.
-- Inga giltiga svenska godkännanden finns, och säkerhetsdata från produktresumé saknas.
 
 **För att gå vidare krävs:**
 - Hämta och analysera produktresumé för varningar och kontraindikationer.

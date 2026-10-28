@@ -4,17 +4,17 @@ title: Treprostinil
 parent: Endast modellprediktion (L5)
 nav_order: 437
 evidence_level: L5
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Treprostinil: predikterad ny indikation Pulmonell arteriovenös malformation (evidensnivå L5). Ursprunglig indikation: Pulmonell arteriell hypertension (enligt kunskapsgrafen"
 monitor_inn: "TREPROSTINIL"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita"]
+description: "Treprostinil: predikterad ny indikation Pulmonell arteriovenös malformation (pulmonary arteriovenous malformation (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgift…"
 ---
 
 # Treprostinil
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Treprostinil: Från pulmonell arteriell hypertension till pulmonell arteriovenös malformation
+## Treprostinil: Pulmonell arteriovenös malformation (pulmonary arteriovenous malformation (disease))
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Treprostinil är en prostacyklinanalog som ursprungligen användes för att behandla pulmonell arteriell hypertension (PAH). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **pulmonell arteriovenös malformation** med mycket hög poäng (99,7 %). Det finns dock **0 kliniska prövningar** och **0 publikationer** som stöder förutsägelsen, och den biologiska logiken är svag och möjligen ogynnsam.
+Treprostinil är en prostacyklinanalog som ursprungligen användes för att behandla pulmonell arteriell hypertension (PAH). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **pulmonell arteriovenös malformation** med mycket hög poäng (0,9970). Det finns dock **0 kliniska prövningar** och **0 publikationer** som stöder förutsägelsen, och den biologiska logiken är svag och möjligen ogynnsam.
 
 ---
 
@@ -48,12 +48,12 @@ Treprostinil är en prostacyklinanalog som ursprungligen användes för att beha
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Pulmonell arteriell hypertension (enligt kunskapsgrafen; godkännandena innehåller ingen indikationstext) |
-| Förutsagd ny indikation | Pulmonell arteriovenös malformation |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Pulmonell arteriovenös malformation (pulmonary arteriovenous malformation (disease)) |
+| TxGNN-förutsägelsepoäng | 0.9970 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 12 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 12 av 12) |
+| Antal godkännanden | 12 (giltiga: 12) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Treprostinil är en prostacyklinanalog som ursprungligen användes för att beha
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är treprostinil en prostacyklinanalog, och dess effekt vid PAH bygger på vidgning av lungkärlen. Mekanistiskt är det därför inte självklart att den kan tillämpas på pulmonell arteriovenös malformation.
 
-Den höga modellpoängen är en ren förutsägelse. Pulmonella arteriovenösa malformationer är strukturella kärlförbindelser (shuntar) mellan artärer och vener i lungan. Kärlvidgning kan i teorin öka shuntflödet eller förvärra syrebristen i blodet, så den biologiska grunden är svag och kan vara ogynnsam. Poängen speglar sannolikt närhet i kunskapsgrafen snarare än verklig biologi.
+Den höga modellpoängen är en ren förutsägelse. Pulmonella arteriovenösa malformationer är strukturella kärlförbindelser (shuntar) mellan artärer och vener i lungan. Kärlvidgning kan i teorin öka shuntflödet eller förvärra syrebristen i blodet, så den biologiska grunden är svag och kan vara ogynnsam.
 
 ---
 
@@ -84,11 +84,11 @@ Alla 12 godkännanden för treprostinil i Sverige är avregistrerade, och inget 
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 22464 | Remodulin | Infusionsvätska, lösning | Avregistrerad |
-| 58612 | Treprostinil Tillomed | Infusionsvätska, lösning | Avregistrerad |
-| 22466 | Remodulin | Infusionsvätska, lösning | Avregistrerad |
-| 22467 | Remodulin | Infusionsvätska, lösning | Avregistrerad |
-| 59913 | Tresuvi | Infusionsvätska, lösning | Avregistrerad |
+| 22464 | Remodulin | Infusionsvätska, lösning | Godkänd |
+| 58612 | Treprostinil Tillomed | Infusionsvätska, lösning | Godkänd |
+| 22466 | Remodulin | Infusionsvätska, lösning | Godkänd |
+| 22467 | Remodulin | Infusionsvätska, lösning | Godkänd |
+| 59913 | Tresuvi | Infusionsvätska, lösning | Godkänd |
 
 ---
 
@@ -118,7 +118,6 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 
 **Motivering:**
 - Förutsägelsen bygger enbart på modellen (evidensnivå L5), utan kliniska prövningar eller publikationer. Dessutom är den biologiska logiken svag, eftersom kärlvidgning kan förvärra shuntar och syrebrist vid denna sjukdom.
-- Alla svenska godkännanden är avregistrerade, vilket försvårar en praktisk användning i Sverige.
 
 **För att gå vidare krävs:**
 - Mekanistisk bedömning av om prostacyklinmedierad kärlvidgning är säker eller skadlig vid pulmonell arteriovenös malformation.

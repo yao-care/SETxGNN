@@ -4,17 +4,17 @@ title: Milrinone
 parent: Endast modellprediktion (L5)
 nav_order: 296
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Milrinone: predikterad ny indikation Alopeci (håravfall) (evidensnivå L5). Ursprunglig indikation: Ej angiven i svenska godkännandedata. Farmakologidata anger hjärtsvik…"
 monitor_inn: "milrinone"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "headache disorder", "migraine disorder", "migraine with brainstem aura", "trigeminal autonomic cephalalgia", "acute pulmonary heart disease"]
+description: "Milrinone: predikterad ny indikation Alopecia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Milrinone
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Milrinon: Från hjärtsvikt till alopeci
+## Milrinone: Alopecia
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Milrinon är en intravenös hämmare av fosfodiesteras 3 (PDE3) som används vid
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i svenska godkännandedata. Farmakologidata anger hjärtsvikt (congestive heart failure). |
-| Förutsagd ny indikation | Alopeci (håravfall) |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Alopecia |
+| TxGNN-förutsägelsepoäng | 0.9991 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 2 (båda avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Milrinon är en intravenös hämmare av fosfodiesteras 3 (PDE3) som används vid
 
 Det finns ingen detaljerad verkningsmekanismdata i den kompilerade källan. Farmakologidata visar dock att milrinon binder till PDE3A och PDE3B, samt till PDE2A och PDE5A. Milrinon hämmar PDE3, vilket höjer cAMP i hjärtmuskelceller och i kärlens glatta muskulatur. Det ger ökad kontraktionskraft och kärlvidgning, en så kallad "inodilator"-effekt. Denna mekanism är väletablerad vid hjärtsvikt.
 
-Ett möjligt, men obevisat, samband med alopeci är att kärlvidgning kan påverka blodflödet i hårbotten. Det finns inga data som visar att detta ger hårväxt. Den höga poängen speglar sannolikt likheter i modellens kunskapsgraf snarare än en känd biologisk koppling.
+Ett möjligt, men obevisat, samband med alopeci är att kärlvidgning kan påverka blodflödet i hårbotten. Det finns inga data som visar att detta ger hårväxt.
 
 Dessutom ges milrinon som intravenös inotrop. Systemisk administrering passar dåligt för ett kroniskt hudtillstånd som alopeci, och ingen topikal beredningsform finns i underlaget.
 
@@ -108,7 +108,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 **Motivering:**
 - Förutsägelsen för alopeci bygger enbart på en grafbaserad modell utan kliniska prövningar eller publikationer, och mekanismen är spekulativ.
-- Milrinon ges intravenöst, vilket passar dåligt för ett kroniskt hårtillstånd. Samtidigt är alla svenska godkännanden avregistrerade.
+- Milrinon ges intravenöst, vilket passar dåligt för ett kroniskt hårtillstånd.
 
 **För att gå vidare krävs:**
 - Prekliniska data (till exempel hårfollikelmodeller) som visar att PDE3-hämning påverkar hårväxt.

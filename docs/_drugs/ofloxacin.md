@@ -6,9 +6,9 @@ nav_order: 323
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Ofloxacin: predikterad ny indikation Polyklonalt hyperviskositetssyndrom (evidensnivå L5). Ursprunglig indikation: Bakteriella infektioner (t.ex. urinvägsinfektion, bronkit…"
 monitor_inn: "OFLOXACIN"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
+description: "Ofloxacin: predikterad ny indikation Polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ofloxacin
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Ofloxacin: Från bakteriella infektioner till polyklonalt hyperviskositetssyndrom
+## Ofloxacin: Polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Ofloxacin är ett fluorokinolonantibiotikum som ursprungligen användes mot bakteriella infektioner, till exempel urinvägsinfektion, bronkit, lunginflammation och tarminfektioner. TxGNN-modellen förutsäger att det kan vara effektivt mot **polyklonalt hyperviskositetssyndrom**, men **inga kliniska prövningar och ingen publicerad litteratur** stöder förutsägelsen. Den höga poängen verkar vara en artefakt i kunskapsgrafen och saknar biologisk förklaring.
+Ofloxacin är ett fluorokinolonantibiotikum som ursprungligen användes mot bakteriella infektioner, till exempel urinvägsinfektion, bronkit, lunginflammation och tarminfektioner. TxGNN-modellen förutsäger att det kan vara effektivt mot **polyklonalt hyperviskositetssyndrom**, men **inga kliniska prövningar och ingen publicerad litteratur** stöder förutsägelsen.
 
 ---
 
@@ -48,12 +48,12 @@ Ofloxacin är ett fluorokinolonantibiotikum som ursprungligen användes mot bakt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Bakteriella infektioner (t.ex. urinvägsinfektion, bronkit, bakteriell pneumoni, tyfoidfeber, dysenteri). Den svenska godkännandetexten är tom. |
-| Förutsagd ny indikation | Polyklonalt hyperviskositetssyndrom |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome) |
+| TxGNN-förutsägelsepoäng | 0.9991 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast upphävda godkännanden |
-| Antal godkännanden | 1 (upphävt) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---

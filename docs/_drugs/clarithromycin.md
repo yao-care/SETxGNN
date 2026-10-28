@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 106
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Clarithromycin: predikterad ny indikation Polyklonalt hyperviskositetssyndrom (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i godkännandedata. Enligt kunskapsgrafe…"
 monitor_inn: "clarithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
+last_modified_at: 2026-10-27
+description: "Clarithromycin: predikterad ny indikation Polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Clarithromycin
@@ -33,15 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 
 </div>
 
-## Klaritromycin: Från luftvägs- och bakteriella infektioner till polyklonalt hyperviskositetssyndrom
+## Klaritromycin: makrolidantibiotikum → polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Klaritromycin är ett makrolidantibiotikum (varumärke Klacid) som ursprungligen användes mot bakteriella infektioner, bland annat öroninflammation, bihåleinflammation, lunginflammation orsakad av streptokocker, stafylokocker, mykoplasma och klamydia.
-TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **polyklonalt hyperviskositetssyndrom**, men det finns **inga kliniska prövningar och ingen publicerad litteratur** som stöder denna riktning. Förutsägelsen bygger enbart på en beräkningsmodell.
+Klaritromycin är ett makrolidantibiotikum som används mot bakteriella infektioner. TxGNN-modellen förutsäger att det kan vara effektivt mot **polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome)**, men för närvarande finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna riktning. Förutsägelsen bygger enbart på modellberäkning.
 
 ---
 
@@ -49,23 +48,21 @@ TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **polyklonalt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext angiven i godkännandedata. Enligt kunskapsgrafen: öroninflammation, streptokockinfektion, bakteriell lunginflammation, stafylokockinfektion, bihåleinflammation m.fl. |
-| Förutsagd ny indikation | Polyklonalt hyperviskositetssyndrom |
-| TxGNN-förutsägelsepoäng | 99,3 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome) |
+| TxGNN-förutsägelsepoäng | 0,9935 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 10 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
+| Antal godkännanden | 10 (giltiga: 10) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är klaritromycin en makrolid som hämmar bakteriell proteinsyntes. Dess effekt vid luftvägsinfektioner är väl belagd, men sambandet med den nya indikationen är svagt.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Klaritromycin tillhör makrolidklassen, och dess antibakteriella effekt är väl känd. Mekanistiskt skulle läkemedlet kunna vara tillämpbart på polyklonalt hyperviskositetssyndrom endast via immunmodulerande egenskaper.
 
-Makrolider har i viss mån immunmodulerande egenskaper, till exempel påverkan på cytokinproduktion och på B-cells- och plasmacellsaktivitet. Det skulle teoretiskt kunna påverka hyperviskositet som drivs av immunglobuliner. Inga data har dock presenterats som stöder detta, och kopplingen är **spekulativ**.
-
-Den höga poängen speglar sannolikt närhet i kunskapsgrafen snarare än ett belagt biologiskt samband. Den bör därför tolkas med stor försiktighet.
+Makrolider kan påverka cytokinproduktion och aktiviteten hos B-celler och plasmaceller. Eftersom hyperviskositet vid detta syndrom är kopplad till ökade immunglobulinnivåer skulle en sådan effekt teoretiskt kunna spela roll. Kopplingen är dock spekulativ, då inga stödjande data finns. Den höga modellpoängen bör därför ses som en hypotes och inte som belägg för effekt.
 
 ---
 
@@ -77,39 +74,34 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Litteraturbevis
 
-Ingen relaterad litteratur tillgänglig för närvarande för den högst rankade förutsägelsen (polyklonalt hyperviskositetssyndrom).
-
-För fullständighetens skull: bland de övriga förutsägelserna finns två publikationer. De utgör indirekt evidens och stöder inte den primära förutsägelsen.
-
-| PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|-----|------|------|---------|
-| [15228140](https://pubmed.ncbi.nlm.nih.gov/15228140/) | 2004 | Fallrapport | Nihon Kokyuki Gakkai zasshi | Lunginfektion med *Mycobacterium abscessus* hos en 76-årig man, samtidigt med primär makroamylasemi (förutsägelse: hyperamylasemi). Klaritromycin användes sannolikt mot infektionen, inte mot förhöjt amylas. |
-| [38472959](https://pubmed.ncbi.nlm.nih.gov/38472959/) | 2024 | Kohort/fallserie (ej bekräftad) | Diagnostics (Basel) | Retrospektiv studie av 27 ögon hos 18 patienter med meibomit-relaterad keratokonjunktivit och keratoepiteliopati (förutsägelse: punktformig epitelial keratokonjunktivit). Indirekt evidens; makrolider kan dämpa inflammation på ögonytan, men fulltextgranskning krävs. |
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
 ### Marknadsinformation Sverige
 
-Alla tio godkännanden är indragna, och inget godkännande är för närvarande giltigt.
-
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 11372 | Klacid | Tablett | Ej angiven |
-| 12164 | Klacid | Tablett | Ej angiven |
-| 58271 | Klaritromycin Ebb | Filmdragerad tablett | Ej angiven |
-| 58272 | Klaritromycin Ebb | Filmdragerad tablett | Ej angiven |
-| 57671 | Clarithromycin Aurobindo | Filmdragerad tablett | Ej angiven |
+| 11372 | Klacid | Tablett | Ej angiven i lokala data |
+| 58271 | Klaritromycin Ebb | Filmdragerad tablett | Ej angiven i lokala data |
+| 57671 | Clarithromycin Aurobindo | Filmdragerad tablett | Ej angiven i lokala data |
+| 62615 | Klaritromycin Abacus Medicine | Filmdragerad tablett | Ej angiven i lokala data |
+| 12164 | Klacid | Tablett | Ej angiven i lokala data |
 
-Ytterligare fem indragna godkännanden finns (Clarithromycin Aurobindo, Klaritromycin Abacus Medicine och Clarithromycin Krka).
+Fler godkännanden finns i de lokala uppgifterna (totalt 10 enkomponentsprodukter, samtliga orala beredningar).
 
 ---
 
 ### Säkerhetsaspekter
 
-- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumé): långt QT-syndrom, torsades de pointes, kammartakykardi, leversvikt, leversjukdom, kolestas, gallblåsesjukdom, porfyri, njursjukdom, myasthenia gravis, *Clostridioides difficile*-kolit, nekrotiserande enterokolit hos nyfödda, osteoporos, benfraktur och infektiös mononukleos.
-- **Läkemedelsinteraktioner**: totalt 822 interaktioner identifierade. Exempel på allvarliga (Major): abemaciklib, fentanyl och akalabrutinib. Exempel på måttliga (Moderate): paklitaxel, tramadol, nifedipin, famotidin, etinylestradiol och hydrokortison. Exempel på lindriga (Minor): dolutegravir, zidovudin och loratadin.
+- **Läkemedelsinteraktioner**: Totalt 822 interaktioner är registrerade. Exempel på viktiga (allvarlig nivå):
+  - Abemaciklib
+  - Fentanyl
+  - Acalabrutinib
 
-Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se produktresumén för fullständig säkerhetsinformation.
+  Måttliga interaktioner omfattar bland annat paklitaxel, tramadol, nifedipin, adenosin, afatinib, etinylestradiol och hydrokortison. Lindriga interaktioner omfattar bland annat dolutegravir, zidovudin och loratadin.
+
+Se i övrigt produktresumén för fullständig säkerhetsinformation, inklusive varningar och kontraindikationer.
 
 ---
 
@@ -118,14 +110,13 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för polyklonalt hyperviskositetssyndrom bygger enbart på en modellberäkning (L5) utan kliniska prövningar, litteratur eller etablerad mekanism. Dessutom saknas giltiga godkännanden i Sverige, och det finns viktiga säkerhetsfrågor, bland annat QT-förlängning och många interaktioner.
+- Förutsägelsen stöds enbart av en modellpoäng (0,9935) utan kliniska prövningar, litteratur eller etablerad mekanism, vilket ger evidensnivå L5.
 
 **För att gå vidare krävs:**
-- Verkningsmekanismdata för klaritromycin, till exempel från DrugBank, för att kunna bedöma det mekanistiska sambandet.
-- Granskning av produktresumé (varningar, kontraindikationer) från Läkemedelsverket, eftersom detta saknas och blockerar säkerhetsbedömningen.
-- Prekliniska eller mekanistiska studier som visar effekt på immunglobulinproduktion eller blodviskositet.
-- En systematisk litteratursökning efter klinisk evidens för den förutsagda indikationen.
-- Bedömning av om andra förutsägelser, till exempel punktformig epitelial keratokonjunktivit (L4, biologiskt rimligare via makrolidernas antiinflammatoriska effekt), är mer lovande att utreda vidare.
+- Kartläggning av verkningsmekanismen och dess koppling till immunglobulinmedierad hyperviskositet
+- Prekliniska studier eller fallserier som undersöker klaritromycin vid tillståndet
+- Hämtning av produktresumé för varningar och kontraindikationer
+- Bedömning av nytta–risk, särskilt avseende läkemedelsinteraktioner
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

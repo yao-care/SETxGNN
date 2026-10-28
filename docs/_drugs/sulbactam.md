@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sulbactam
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 403
-evidence_level: L3
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Sulbactam: predikterad ny indikation Bakteriell artrit (evidensnivå L3). Ursprunglig indikation: Kolangit…"
 monitor_inn: "sulbactam"
 predicted_indications: ["bacterial arthritis"]
+description: "Sulbactam: predikterad ny indikation Bacterial arthritis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Sulbactam
 {: .fs-9 }
 
-Evidensnivå: **L3** | Förutsagda indikationer: **1** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L3** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Sulbactam: Från kolangit och stafylokockinfektioner till bakteriell artrit
+## Sulbactam: Bacterial arthritis
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Sulbactam är en betalaktamashämmare som används tillsammans med ampicillin mot bakteriella infektioner, bland annat stafylokock- och E. coli-infektioner samt gallvägsinflammation (kolangit). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **bakteriell artrit** (septisk artrit), med en mycket hög förutsägelsepoäng (**99,8 %**). Underlaget består av **0 kliniska prövningar** och **20 publikationer**, varav flera äldre kliniska studier med ampicillin/sulbactam vid ben- och ledinfektioner.
+Sulbactam är en betalaktamashämmare som används tillsammans med ampicillin mot bakteriella infektioner, bland annat stafylokock- och E. coli-infektioner samt gallvägsinflammation (kolangit). Underlaget består av **0 kliniska prövningar** och **20 publikationer**, varav flera äldre kliniska studier med ampicillin/sulbactam vid ben- och ledinfektioner.
 
 ---
 
@@ -48,12 +48,12 @@ Sulbactam är en betalaktamashämmare som används tillsammans med ampicillin mo
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Kolangit, stafylokockinfektioner och E. coli-infektioner (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Bakteriell artrit |
-| TxGNN-förutsägelsepoäng | 99,8 % |
-| Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Bacterial arthritis |
+| TxGNN-förutsägelsepoäng | 0.9979 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

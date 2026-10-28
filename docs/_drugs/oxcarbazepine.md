@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Oxcarbazepine
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 331
-evidence_level: L5
-indication_count: 10
+evidence_level: L4
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Oxcarbazepine: predikterad ny indikation Visuell epilepsi (evidensnivå L5). Ursprunglig indikation: Partiell epilepsi, partiell motorisk epilepsi"
 monitor_inn: "oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
+description: "Oxcarbazepine: predikterad ny indikation Restless legs syndrome (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Oxcarbazepine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Oxkarbazepin: Från partiell epilepsi till visuell epilepsi
+## Oxcarbazepine: Restless legs syndrome
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Oxkarbazepin (Trileptal) är ett antiepileptikum som ursprungligen används för
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Partiell epilepsi, partiell motorisk epilepsi (enligt kunskapsgrafen, eftersom godkänd indikationstext saknas i licensdata) |
-| Förutsagd ny indikation | Visuell epilepsi |
-| TxGNN-förutsägelsepoäng | 99,95 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Restless legs syndrome |
+| TxGNN-förutsägelsepoäng | 0.9989 |
 | Evidensnivå | L4 (endast översikter, riktlinjer och mekanismstöd, inga kliniska prövningar) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 11 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 11 av 11) |
+| Antal godkännanden | 11 (giltiga: 11) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -126,7 +126,6 @@ Samtliga 11 godkännanden är indragna. Indikationstext saknas i licensdata. Ett
 - Fördjupad litteratursökning efter data om oxkarbazepin vid fotosensitiv och annan reflexepilepsi, med uppdelning på fokala och generaliserade former.
 - Hämtning av säkerhetsinformation ur produktresumén (varningar, kontraindikationer) samt detaljerad verkningsmekanismdata.
 - Bedömning av säkerhetsrisker (hyponatremi, interaktioner, risk för förvärrade generaliserade anfall) före eventuell klinisk prövning.
-- Utredning av regulatorisk status, eftersom inga giltiga godkännanden finns i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

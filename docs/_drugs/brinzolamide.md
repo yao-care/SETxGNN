@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Brinzolamide
-parent: Endast modellprediktion (L5)
+parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 66
-evidence_level: L5
-indication_count: 1
-last_modified_at: 2026-10-15
-description: "Brinzolamide: predikterad ny indikation Primärt ärftligt glaukom (evidensnivå L5). Ursprunglig indikation: Öppenvinkelglaukom, okulär hypertension (enligt kunskapsgrafen"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Brinzolamide: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
+predicted_indications: []
 ---
 
 # Brinzolamide
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **1** st
+Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,56 +32,60 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Brinzolamid: Från öppenvinkelglaukom till primärt ärftligt glaukom
+<!-- known-uses-page -->
+<!-- description: Brinzolamide: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation -->
+## Brinzolamide: Kända användningar och marknadsstatus i Sverige
 {: .text-alpha }
 
----
-
 ## Sammanfattning
-
-Brinzolamid är en ögondroppe som ursprungligen används för att behandla **öppenvinkelglaukom** och **okulär hypertension** (förhöjt tryck i ögat). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **primärt ärftligt glaukom**, med mycket hög modellpoäng. Det finns dock **inga kliniska prövningar och inga publikationer** som stöder förutsägelsen, så evidensen är för närvarande enbart en modellförutsägelse.
-
----
+Alla kandidater som TxGNN-modellen (score ≥ 0,99) föreslår för Brinzolamide och som kan spåras till en källa är redan kända användningar. Därför finns för närvarande ingen ny förutsagd indikation för detta läkemedel. Sidan visar vilka kända användningar som återfinns bland modellens kandidater.
 
 ## Snabböversikt
-
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Öppenvinkelglaukom, okulär hypertension (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Primärt ärftligt glaukom |
-| TxGNN-förutsägelsepoäng | 99,5 % |
-| Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 16 (alla avregistrerade) |
-| Rekommenderat beslut | Avvakta |
+| Nya förutsagda indikationer | Inga (alla spårbara modellkandidater är kända användningar) |
+| Kända användningar bland modellens kandidater | 1 |
+| Evidensnivå | Ej tillämpligt |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 16 av 16) |
+| Antal godkännanden | 16 (giltiga: 16) |
 
----
+## Kända användningar bland modellens kandidater
 
-## Varför är denna förutsägelse rimlig?
+### Godkända (stöd i licens eller produktresumé)
+| Indikation | Källa |
+|------|------|
+| primär ärftlig glaukom (primary hereditary glaucoma) | Licens i ett annat land; godkänd indikation: glaucoma |
 
-Brinzolamid är en hämmare av kolsyraanhydras II. Genom att minska bildningen av kammarvatten sänker det trycket i ögat. Detaljerad verkningsmekanismdata finns inte i underlaget, så resonemanget bygger på allmän farmakologisk kunskap och inte på data som ingår i denna rapport.
+### Relaterade till en godkänd indikation (samma sjukdomskategori)
+| Indikation | Godkänd kategori |
+|------|------|
+| Ingen | – |
 
-Förhöjt ögontryck är den gemensamma slutliga vägen vid de flesta typer av glaukom. Eftersom brinzolamid sänker trycket är det mekanistiskt rimligt att det även kan hjälpa vid ärftliga former av glaukom, till exempel former kopplade till generna MYOC, CYP1B1 eller OPTN.
-
-Det höga modellvärdet (0,995) bör tolkas med försiktighet. Det speglar sannolikt att sjukdomen ligger mycket nära de redan godkända indikationerna, och är inte oberoende evidens. Primärt ärftligt glaukom kan dessutom överlappa med öppenvinkelglaukom, vilket innebär att detta kanske inte är en verklig läkemedelsåteranvändning utan snarare ett redan täckt användningsområde.
-
----
+### Relationer registrerade i kunskapsgrafen (inget godkännande hittat)
+| Indikation |
+|------|
+| Ingen |
 
 ## Marknadsinformation Sverige
 
-Alla 16 godkännanden är avregistrerade. Indikationstexter saknas i de data som sammanställts för rapporten. Nedan visas fem av godkännandena.
-
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 66865 | Brinzolamide Hexal | Ögondroppar, suspension | Uppgift saknas |
-| 48077 | Brinzolamid Stada | Ögondroppar, suspension | Uppgift saknas |
-| 59274 | Brinzolamide Accord | Ögondroppar, suspension | Uppgift saknas |
-| 49113 | Brinzolamide Sandoz | Ögondroppar, suspension | Uppgift saknas |
-| 66708 | Zoltim | Ögondroppar, suspension | Uppgift saknas |
-
-Övriga godkännanden omfattar bland annat kombinationsprodukter med timolol eller brimonidin (till exempel Brinzolamide/Timolol Zentiva och Brinzolamid/Brimonidin Medical Valley).
-
----
+| Godkännande | Produkt | Läkemedelsform | Status |
+|------|------|------|------|
+| 66865 | brinzolamid | Ögondroppar, suspension | Giltigt |
+| 48077 | brinzolamid | Ögondroppar, suspension | Giltigt |
+| 59274 | brinzolamid | Ögondroppar, suspension | Giltigt |
+| 49113 | brinzolamid | Ögondroppar, suspension | Giltigt |
+| 66708 | brinzolamid; timololmaleat | Ögondroppar, suspension | Giltigt |
+| 59497 | brinzolamid; timololmaleat | Ögondroppar, suspension | Giltigt |
+| 62342 | brinzolamid; timololmaleat | Ögondroppar, suspension | Giltigt |
+| 62580 | brinzolamid; timololmaleat | Ögondroppar, suspension | Giltigt |
+| 63652 | brimonidintartrat; brinzolamid | Ögondroppar, suspension | Giltigt |
+| 63650 | brimonidintartrat; brinzolamid | Ögondroppar, suspension | Giltigt |
+| 62581 | brinzolamid; timololmaleat | Ögondroppar, suspension | Giltigt |
+| 59495 | brinzolamid; timololmaleat | Ögondroppar, suspension | Giltigt |
+| 65214 | brimonidintartrat; brinzolamid | Ögondroppar, suspension | Giltigt |
+| 57333 | brinzolamid; timololmaleat | Ögondroppar, suspension | Giltigt |
+| 59508 | brinzolamid; timololmaleat | Ögondroppar, suspension | Giltigt |
+| 63651 | brimonidintartrat; brinzolamid | Ögondroppar, suspension | Giltigt |
 
 ## Säkerhetsaspekter
 
@@ -90,19 +95,6 @@ Se produktresumén för varningar och kontraindikationer.
 
 ---
 
-## Slutsats och nästa steg
-
-**Beslut: Avvakta**
-
-**Motivering:**
-- Förutsägelsen bygger enbart på en modell (evidensnivå L5) utan stödjande kliniska prövningar eller litteratur, och sjukdomen kan i stor utsträckning redan täckas av den befintliga indikationen öppenvinkelglaukom. Dessutom är alla svenska godkännanden avregistrerade.
-
-**För att gå vidare krävs:**
-- Hämta och granska produktresumén för varningar och kontraindikationer, eftersom säkerhetsdata saknas.
-- Komplettera verkningsmekanismdata, till exempel från DrugBank.
-- Söka systematiskt efter kliniska studier och publikationer om brinzolamid vid ärftliga glaukomformer (till exempel MYOC-, CYP1B1- eller OPTN-relaterade).
-- Avgöra om primärt ärftligt glaukom skiljer sig tillräckligt från öppenvinkelglaukom för att räknas som en ny indikation.
-- Utreda orsaken till att godkännandena avregistrerats och om det finns tillgängliga produkter på den svenska marknaden.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

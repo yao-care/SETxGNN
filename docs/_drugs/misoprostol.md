@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Misoprostol
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 299
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Misoprostol: predikterad ny indikation Amenorré (evidensnivå L4). Ursprunglig indikation: Ej angiven i tillgängliga data"
 monitor_inn: "MISOPROSTOL"
 predicted_indications: ["amenorrhea (disease)", "atypical coarctation of aorta"]
+description: "Misoprostol: predikterad ny indikation Amenorré (amenorrhea (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Misoprostol
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **2** st
+Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Misoprostol: Från ospecificerad ursprunglig indikation till amenorré
+## Misoprostol: Amenorré (amenorrhea (disease))
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Misoprostol är en prostaglandin E1-analog. De data som sammanställts för denn
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i tillgängliga data |
-| Förutsagd ny indikation | Amenorré |
-| TxGNN-förutsägelsepoäng | 99,6 % |
-| Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 3 (alla avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Amenorré (amenorrhea (disease)) |
+| TxGNN-förutsägelsepoäng | 0.9964 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Miso
 
 Litteraturen visar att misoprostol används vid avslutande av graviditet, ofta tillsammans med mifepriston, och vid missad abort. Amenorré förekommer i dessa studier mest som en beskrivning av graviditetens längd (till exempel "amenorré ≤35 dagar") och inte som ett tillstånd som behandlas.
 
-Det finns inget känt samband mellan misoprostol och att återställa menstruation vid primär eller sekundär amenorré. Den höga poängen (0,996) beror sannolikt på att läkemedlet ligger nära andra tillstånd i könsorganen i kunskapsnätverket, inte på en verklig behandlingseffekt. Förutsägelsen bör därför bedömas som svag mekanistiskt.
+Det finns inget känt samband mellan misoprostol och att återställa menstruation vid primär eller sekundär amenorré. Den höga poängen (0,9964) beror sannolikt på att läkemedlet ligger nära andra tillstånd i könsorganen i kunskapsnätverket, inte på en verklig behandlingseffekt. Förutsägelsen bör därför bedömas som svag mekanistiskt.
 
 ---
 
@@ -90,7 +90,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla tre godkännanden är avregistrerade. Ingen indikationstext finns i data.
+Ingen indikationstext finns i data.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -116,14 +116,14 @@ Alla tre godkännanden är avregistrerade. Ingen indikationstext finns i data.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen saknar stöd i kliniska prövningar, och litteraturen rör graviditetsavbrott, inte behandling av amenorré. Verkningsmekanismen ger ingen rimlig förklaring, och alla svenska godkännanden är avregistrerade.
+- Förutsägelsen saknar stöd i kliniska prövningar, och litteraturen rör graviditetsavbrott, inte behandling av amenorré.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata, till exempel via DrugBank.
 - Hämta produktresumé med varningar och kontraindikationer från Läkemedelsverket (MPA), vilket är nödvändigt för säkerhetsgranskning.
 - Klargöra ursprunglig godkänd indikation.
 - Bedöma om amenorré över huvud taget är en klinisk målindikation, eftersom nuvarande litteratur inte stöder det.
-- Vid fortsatt intresse: granska den andra förutsagda indikationen (atypisk aortakoarktation, poäng 99,3 %, L5, helt utan klinisk evidens) separat. Den är mekanistiskt svag, eftersom misoprostol inte är en etablerad behandling för tillståndet.
+- Vid fortsatt intresse: granska den andra förutsagda indikationen (atypisk aortakoarktation, poäng 0,9930, L5, helt utan klinisk evidens) separat. Den är mekanistiskt svag, eftersom misoprostol inte är en etablerad behandling för tillståndet.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

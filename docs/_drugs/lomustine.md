@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lomustine
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 268
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Lomustine: predikterad ny indikation Lymfosarkom (evidensnivå L5). Ursprunglig indikation: Hodgkins lymfom och hjärntumörer (enligt kunskapsgrafen"
 monitor_inn: "lomustine"
 predicted_indications: ["lymphosarcoma", "malignant tumor of meninges", "spinal cord cancer", "cerebral neuroblastoma", "pediatric cerebral ependymoblastoma", "pediatric infratentorial ependymoblastoma", "childhood brain germinoma", "cerebellopontine angle embryonal tumor", "lymph node cancer", "cerebral sarcoma"]
+description: "Lomustine: predikterad ny indikation Lymphosarcoma (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Lomustine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Lomustin: Från Hodgkins lymfom och hjärntumörer till lymfosarkom
+## Lomustine: Lymphosarcoma
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Lomustin är ett alkylerande cytostatikum (nitrosourea) som ursprungligen använ
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Hodgkins lymfom och hjärntumörer (enligt kunskapsgrafen; den svenska godkännandetexten saknas) |
-| Förutsagd ny indikation | Lymfosarkom |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Lymphosarcoma |
+| TxGNN-förutsägelsepoäng | 0.9990 |
 | Evidensnivå | L3 (se kommentar nedan) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 **Kommentar till evidensnivån:** Den automatiska bedömningen i den sammanställda datan anger L2. Inga avslutade fas 3-studier finns och endast små fas 2-studier utan randomiserad jämförelse av lomustin, så jag bedömer evidensen som L3 (observationsstudier och översikter).

@@ -51,8 +51,8 @@ Dienogest är ett selektivt gestagen (progestin) som i litteraturen framför all
 | Ursprunglig indikation | Ej angiven i godkännandedata (i litteraturen: endometrios) |
 | Förutsagd ny indikation | Amenorré |
 | TxGNN-förutsägelsepoäng | 99,7 % |
-| Evidensnivå | L4 (endast mekanistiska och indirekta data) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Evidensnivå | L5 (endast mekanistiska och indirekta data) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 

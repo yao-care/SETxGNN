@@ -4,17 +4,17 @@ title: Ambrisentan
 parent: Endast modellprediktion (L5)
 nav_order: 27
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Ambrisentan: predikterad ny indikation Pulmonell arteriovenös missbildning (evidensnivå L5). Ursprunglig indikation: Pulmonell arteriell hypertension (enligt kunskapsgrafen"
+indication_count: 5
 monitor_inn: "AMBRISENTAN"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "malformation syndrome with odontal and/or periodontal component", "hypotrichosis simplex of the scalp", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature"]
+last_modified_at: 2026-10-27
+description: "Ambrisentan: predikterad ny indikation Pulmonell arteriovenös malformation (pulmonary arteriovenous malformation (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifte…"
 ---
 
 # Ambrisentan
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Ambrisentan: Från pulmonell arteriell hypertension till pulmonell arteriovenös missbildning
+## Ambrisentan: endotelinreceptorantagonist → Pulmonell arteriovenös malformation (pulmonary arteriovenous malformation (disease))
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Ambrisentan är en endotelinreceptorantagonist som ursprungligen används mot **pulmonell arteriell hypertension (PAH)**. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **pulmonell arteriovenös missbildning**, med mycket hög modellpoäng. Det finns dock **inga kliniska prövningar** och bara **en publikation**, en fallrapport om PAH hos en patient med ärftlig hemorragisk telangiektasi. Förutsägelsen saknar alltså stöd i kliniska data.
+Ambrisentan är en endotelinreceptorantagonist. TxGNN-modellen förutsäger att den kan vara effektiv mot **pulmonell arteriovenös malformation (pulmonary arteriovenous malformation (disease))**. Underlaget består av **0 kliniska prövningar** och **1 publikation**, en fallrapport som inte visar att ambrisentan behandlar tillståndet. Förutsägelsen är därför i praktiken endast modellbaserad.
 
 ---
 
@@ -48,21 +48,23 @@ Ambrisentan är en endotelinreceptorantagonist som ursprungligen används mot **
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Pulmonell arteriell hypertension (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Pulmonell arteriovenös missbildning |
-| TxGNN-förutsägelsepoäng | 99,4 % |
-| Evidensnivå | L5 (endast modellförutsägelse, inga studier av ambrisentan vid denna sjukdom) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 6 (alla avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Pulmonell arteriovenös malformation (pulmonary arteriovenous malformation (disease)) |
+| TxGNN-förutsägelsepoäng | 0,9941 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det insamlade underlaget. Ambrisentan är dock känt som en selektiv antagonist av endotelinreceptor typ A (ETA). Genom att blockera receptorn minskar läkemedlet kärlsammandragning och ombyggnad av kärlväggen i lungcirkulationen. Effekten vid PAH är väl belagd.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Ambrisentan är känt som en endotelinreceptorantagonist (blockad av ETA-receptorn), och mekanistiskt kan en sådan effekt vara relevant för kärlsjukdomar.
 
-Sambandet mellan de två sjukdomarna är mer indirekt. Störd endotelinsignalering är teoretiskt tänkbar vid kärlmissbildningar. Den enda kopplade studien beskriver dessutom PAH hos en patient med ärftlig hemorragisk telangiektasi, alltså PAH som följd av en grundsjukdom och inte behandling av en arteriovenös missbildning. Mekanismen är därför bara delvis tillämpbar, och den höga modellpoängen speglar främst likhet med PAH, inte kliniska resultat.
+Endotelinsystemets rubbningar är rimliga vid kärlmissbildningar. Den enda länkade publikationen beskriver en patient med hereditär hemorragisk telangiektasi (HHT) som också hade pulmonell arteriell hypertension. HHT är en sjukdom där lungornas arteriovenösa malformationer är vanliga, vilket kan förklara kopplingen till förutsägelsen.
+
+Fallrapporten är dock en enskild observation. Den visar inte att ambrisentan behandlar pulmonella arteriovenösa malformationer. Den höga modellpoängen stöds inte av kliniska data.
 
 ---
 
@@ -76,37 +78,19 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [33969094](https://pubmed.ncbi.nlm.nih.gov/33969094/) | 2021 | Fallrapport | World Journal of Clinical Cases | Beskriver en patient med ärftlig hemorragisk telangiektasi (HHT) och PAH samt genetisk analys av familjemedlemmar. Rapporten ska öka medvetenheten om denna sällsynta kombination. Den visar ingen behandlingseffekt av ambrisentan vid pulmonell arteriovenös missbildning. |
-
----
-
-## Marknadsinformation Sverige
-
-Alla sex godkännanden är avregistrerade och det finns inga giltiga godkännanden. Indikationstext saknas för samtliga.
-
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
-|---------|------|------|-----------|------|
-| 57851 | Ambrisentan Sandoz | Filmdragerad tablett | Sandoz A/S | Avregistrerad |
-| 57852 | Ambrisentan Sandoz | Filmdragerad tablett | Sandoz A/S | Avregistrerad |
-| 57823 | Ambrisentan Accord | Filmdragerad tablett | Accord Healthcare B.V. | Avregistrerad |
-| 57824 | Ambrisentan Accord | Filmdragerad tablett | Accord Healthcare B.V. | Avregistrerad |
-| 60956 | Ambrisentan Bluefish | Filmdragerad tablett | Bluefish Pharmaceuticals AB | Avregistrerad |
-
-Ytterligare ett godkännande (60957, Ambrisentan Bluefish) är också avregistrerat.
+| [33969094](https://pubmed.ncbi.nlm.nih.gov/33969094/) | 2021 | Fallrapport | World Journal of Clinical Cases | Beskriver en patient med hereditär hemorragisk telangiektasi och pulmonell arteriell hypertension, inklusive behandling och genetisk analys av familjemedlemmar. Syftet är att öka medvetenheten om denna samsjuklighet. Ingen prövning av ambrisentan vid pulmonell arteriovenös malformation. |
 
 ---
 
 ## Säkerhetsaspekter
 
-- **Möjliga kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumétext): kongestiv hjärtsvikt, anemi, makrocytär anemi och pulmonell venocklusiv sjukdom.
-- **Läkemedelsinteraktioner:** 100 interaktioner identifierades. De viktigaste av måttlig grad är:
-  - SGLT2-hämmare: kanagliflozin, dapagliflozin, empagliflozin och ertugliflozin
-  - eliglustat
-  - naltrexon
+- **Läkemedelsinteraktioner**: Totalt 100 interaktioner finns registrerade. De viktigaste:
+  - Måttlig: kanagliflozin, dapagliflozin, empagliflozin, ertugliflozin, eliglustat och naltrekson.
+  - Lindrig: klaritromycin, mikonazol och omeprazol.
+  - För flera andra läkemedel, bland annat metformin, simvastatin, prednison och morfin, är interaktionsnivån okänd.
+- **Fosterskador**: Ambrisentan är en endotelinreceptorantagonist med risk för embryofetal toxicitet. Detta bör vägas in i varje övervägande av ny användning.
 
-  Interaktioner av lindrig grad omfattar klaritromycin, mikonazol och omeprazol. Flera ytterligare interaktioner har okänd allvarlighetsgrad.
-
-Produktresumén bör konsulteras för fullständiga varningar och kontraindikationer, eftersom sådana uppgifter saknas i det insamlade underlaget.
+Uppgifter om varningar och kontraindikationer från produktresumén saknas i det sammanställda underlaget. Se produktresumén för fullständig säkerhetsinformation.
 
 ---
 
@@ -115,13 +99,13 @@ Produktresumén bör konsulteras för fullständiga varningar och kontraindikati
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på modellpoäng. Det finns inga prövningar, och den enda publikationen är en fallrapport som inte visar behandlingseffekt. Läkemedlet är dessutom fosterskadande och har inga giltiga godkännanden i Sverige.
+- Förutsägelsen bygger på modellpoängen och en enda fallrapport om ett närliggande tillstånd, vilket ger evidensnivå L5. Det finns inga kliniska prövningar, och den embryofetala toxiciteten kräver en stark rationale för ny användning.
 
 **För att gå vidare krävs:**
-- Prekliniska eller kliniska data som visar att endotelinblockad påverkar pulmonella arteriovenösa missbildningar.
-- Granskning av produktresumén (varningar och kontraindikationer), eftersom säkerhetsdata från godkännandet saknas.
-- Klarläggning av den regulatoriska statusen, eftersom alla svenska godkännanden är avregistrerade.
-- Överväg att prioritera andra förutsagda indikationer med betydligt starkare stöd, till exempel PAH associerad med bindvävssjukdom, där det finns slutförda prövningar och metaanalyser.
+- Studier som direkt undersöker ambrisentan vid pulmonell arteriovenös malformation, till exempel fallserier, observationsstudier eller prövningar.
+- Kompletterande verkningsmekanismdata och en analys av hur endotelinvägen är kopplad till tillståndet.
+- Produktresumédata om varningar och kontraindikationer för säkerhetsbedömning.
+- Bedömning av nytta mot risk, särskilt avseende fosterskador, hos aktuell patientgrupp.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

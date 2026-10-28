@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 112
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Clotrimazole: predikterad ny indikation Akne (evidensnivå L5). Ursprunglig indikation: Fotsvamp, hudsvamp…"
 monitor_inn: "clotrimazole"
 predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atrophic vaginitis"]
+last_modified_at: 2026-10-27
+description: "Clotrimazole: predikterad ny indikation Akne (acne (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Clotrimazole
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Klotrimazol: Från svampinfektioner i hud och slemhinnor till akne
+## Klotrimazol: azolantimykotikum → Akne (acne (disease))
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Klotrimazol är ett azolbaserat svampmedel som ursprungligen användes mot fotsvamp, hudsvamp och candidainfektioner i hud, mun och underliv. TxGNN-modellen förutsäger att det kan vara effektivt mot **akne**. Underlaget är dock svagt: **1 klinisk prövning** (pausad, utan resultat, och med en kombinationsprodukt) och **ingen publicerad litteratur** om akne.
+Klotrimazol är ett azolbaserat svampmedel som används på lokala godkännanden i Sverige. TxGNN-modellen förutsäger att det kan vara effektivt mot **akne (acne (disease))**, med poängen **0,9986**. Evidensen är mycket begränsad: den enda registrerade prövningen är en **avbruten (suspenderad) fas 2/3-studie** av en kombinationskräm, och det finns **ingen publicerad litteratur** om klotrimazol vid akne.
 
 ---
 
@@ -48,23 +48,23 @@ Klotrimazol är ett azolbaserat svampmedel som ursprungligen användes mot fotsv
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Fotsvamp, hudsvamp, candidainfektioner och vulvovaginal candidiasis (enligt kunskapsgrafen, eftersom godkännandetexterna i Sverige saknar indikationstext) |
-| Förutsagd ny indikation | Akne |
-| TxGNN-förutsägelsepoäng | 99,86 % |
-| Evidensnivå | L5 (endast modellförutsägelse; den enda prövningen är pausad och saknar resultat) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 9 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Akne (acne (disease)) |
+| TxGNN-förutsägelsepoäng | 0,9986 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
+| Antal godkännanden | 9 (giltiga: 9) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för denna rapport. Baserat på känd information är klotrimazol en del av azolgruppen av svampmedel. Dess effekt vid hud- och slemhinnesvampinfektioner är väl belagd, och mekanistiskt kan den vara tillämpbar på akne. Azoler hämmar bildningen av ergosterol, en byggsten i svampars cellmembran.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig för klotrimazol i det material som sammanställts för rapporten. Enligt publicerad översiktslitteratur är klotrimazol ett syntetiskt azolmedel som hämmar syntesen av ergosterol, en byggsten i svampars cellmembran, och därigenom hämmar svamptillväxt.
 
-Sambandet mellan de ursprungliga indikationerna och akne är indirekt. Klotrimazol är verksamt mot jästsvampar som *Malassezia*, som kan ha betydelse vid vissa follikulära hudtillstånd, och det kan ha vissa antiinflammatoriska effekter. Det kan därför tänkas påverka aknerelaterad inflammation.
+Ett möjligt samband med akne är att klotrimazol har aktivitet mot jästsvampen *Malassezia*, som diskuteras i samband med hudens mikrobiella flora och inflammation. Klotrimazol har dessutom visat vissa antiinflammatoriska effekter. Detta är en hypotes och inte något som visats kliniskt för akne.
 
-Förutsägelsen bör ändå tolkas med stor försiktighet. Det enda kliniska underlaget gäller en fast kombinationsprodukt (beklometason, gentamicin och klotrimazol), så klotrimazols egen insats går inte att urskilja. Den höga poängen är en modellförutsägelse och stöds inte av kliniska data.
+Den höga modellpoängen är en statistisk förutsägelse. Den bekräftar inte att klotrimazol har effekt vid akne, och den enda prövningen kan inte skilja klotrimazolets bidrag från de andra ingredienserna.
 
 ---
 
@@ -72,43 +72,45 @@ Förutsägelsen bör ändå tolkas med stor försiktighet. Det enda kliniska und
 
 | Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
 |---------|------|------|------|---------|
-| [NCT01244256](https://clinicaltrials.gov/study/NCT01244256) | Fas 2/3 | Pausad | 80 | Jämförande studie av kombinationskrämen beklometason 0,025 % + gentamicin 0,1 % + klotrimazol 1 % vid kontaminerad dermatos med bilaterala symmetriska förändringar. Studien genomfördes 2007 men pausades. Inga användbara effektresultat finns, och kombinationsdesignen gör att effekten inte kan hänföras till klotrimazol. |
-
----
-
-## Litteraturbevis
-
-Ingen relaterad litteratur tillgänglig för närvarande.
+| [NCT01244256](https://clinicaltrials.gov/study/NCT01244256) | Fas 2/3 | Suspenderad | 80 | Jämförande studie av en kombinationskräm (beklometason 0,025 % + gentamicin 0,1 % + klotrimazol 1 %) hos personer med kontaminerad dermatos med bilateralt symmetriska förändringar. Inga resultat finns. Kombinationen gör det omöjligt att tillskriva en eventuell effekt till klotrimazol. |
 
 ---
 
 ## Marknadsinformation Sverige
 
-Alla 9 godkännanden är indragna och inget är giltigt. Godkännandena saknar registrerad indikationstext. De fem första visas nedan.
+Enligt de lokala regulatoriska data som sammanställts för rapporten är klotrimazol på marknaden i Sverige. Nedan visas fem av godkännandena.
 
 | Godkännandenummer | Produktnamn | Beredningsform |
 |---------|------|------|
-| 9915 | Canesten (Bayer AB) | Vaginaltablett |
-| 66904 | Canesten (Ebb Medical AB) | Vaginaltablett |
-| 20549 | Canesten (Bayer AB) | Vaginaltablett och kräm |
-| 20555 | Canesten (Bayer AB) | Vaginaltablett och kräm |
-| 9041 | Canesten (Bayer AB) | Kräm |
+| 9915 | Canesten | Vaginaltablett |
+| 66904 | Canesten | Vaginaltablett |
+| 20549 | Canesten | Vaginaltablett och kräm |
+| 9041 | Canesten | Kräm |
+| 64581 | Clotic | Örondroppar, lösning i endosbehållare |
+
+Ingen av dessa produkter är godkänd för akne.
 
 ---
 
 ## Säkerhetsaspekter
 
-- **Möjliga kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumé): binjurebarksvikt, Addisons sjukdom, hudatrofi, telangiektasi, kapillärsjukdom, hereditär hemorragisk telangiektasi, perifer kärlsjukdom, claudicatio intermittens och perifer arteriell sjukdom.
-- **Läkemedelsinteraktioner**: totalt 481 registrerade interaktioner. Bland de allvarligaste (grad "Major") finns:
+- **Läkemedelsinteraktioner**: Totalt 481 interaktioner finns registrerade. De allvarligaste (nivå Major) gäller:
   - fentanyl
   - alfentanil
   - hydrokodon
   - amiodaron
 
-  Flera interaktioner av måttlig grad (grad "Moderate") finns också, bland annat med paklitaxel, abemaciklib, acalabrutinib, nifedipin, amlodipin, apixaban, aprepitant, alprazolam, estradiol, levonorgestrel och noretisteron.
-- **Graviditet**: litteraturen tar upp frågor om fosterexponering för topikala azoler under första trimestern och om påverkan på placentans steroidbildning. Detta gäller läkemedelsgruppen och inte specifikt akne.
+  Måttliga interaktioner (nivå Moderate) finns bland annat med:
+  - paklitaxel
+  - nifedipin
+  - alprazolam
+  - apixaban
+  - estradiol
+  - levonorgestrel
 
-För fullständig säkerhetsinformation, se produktresumén.
+  Fullständig lista bör kontrolleras innan eventuell användning.
+
+Se produktresumén för övrig säkerhetsinformation, såsom varningar och kontraindikationer.
 
 ---
 
@@ -117,16 +119,13 @@ För fullständig säkerhetsinformation, se produktresumén.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den höga modellpoängen (99,86 %) stöds inte av kliniska data. Det enda underlaget är en pausad kombinationsstudie utan resultat, och ingen litteratur finns.
-- Alla svenska godkännanden är dessutom indragna.
+- Evidensnivån är L5. Det finns ingen avslutad studie och ingen litteratur som direkt visar effekt av klotrimazol vid akne. Den enda prövningen är suspenderad, saknar resultat och testar en fast kombination med två andra substanser.
 
 **För att gå vidare krävs:**
-- Preklinisk eller klinisk data som visar klotrimazols egen effekt vid akne, utan kombination med beklometason och gentamicin.
-- En kontrollerad studie med tydliga effektmått, till exempel minskning av inflammatoriska och icke-inflammatoriska aknelesioner.
-- Detaljerad data om verkningsmekanism och produktresumé (varningar och kontraindikationer) från Läkemedelsverket.
-- Kontroll av tillgänglig beredningsform (topikal) och produktstatus i Sverige.
-
-**Observera:** Den näst högst rankade förutsägelsen, vulvovaginit, har betydligt starkare evidens (L1, bland annat flera fas 3-studier). Den motsvarar dock i praktiken en redan etablerad användning, candidainfektion i underlivet, och inte en ny indikation.
+- Prekliniska data eller laboratoriedata som visar att klotrimazol har relevant aktivitet mot akneassocierade mikroorganismer eller inflammation.
+- En randomiserad, kontrollerad prövning av klotrimazol som enda substans, med akne som tydligt definierad diagnos.
+- Information om verkningsmekanismen från DrugBank och produktresumén.
+- Säkerhetsbedömning av hudbehandling, inklusive interaktionsrisker.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

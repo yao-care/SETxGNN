@@ -4,17 +4,17 @@ title: Riluzole
 parent: Endast modellprediktion (L5)
 nav_order: 380
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Riluzole: predikterad ny indikation Bilateral parasagittal parieto-occipital polymikrogyri (evidensnivå L5). Ursprunglig indikation: Amyotrofisk lateralskleros (enligt kunskapsgrafen"
 monitor_inn: "riluzole"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance", "amyotrohpic lateral sclerosis type 22"]
+description: "Riluzole: predikterad ny indikation Bilateral parasagittal parieto-occipital polymicrogyria (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Riluzole
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Riluzol: Från amyotrofisk lateralskleros till bilateral parasagittal parieto-occipital polymikrogyri
+## Riluzole: Bilateral parasagittal parieto-occipital polymicrogyria
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Riluzol (varumärket Emylif) används ursprungligen för att behandla amyotrofis
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Amyotrofisk lateralskleros (enligt kunskapsgrafen; godkänd indikationstext saknas i svenska godkännanden) |
-| Förutsagd ny indikation | Bilateral parasagittal parieto-occipital polymikrogyri |
-| TxGNN-förutsägelsepoäng | 99,99 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Bilateral parasagittal parieto-occipital polymicrogyria |
+| TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 7 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
+| Antal godkännanden | 7 (giltiga: 7) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -80,11 +80,11 @@ Samtliga sju godkännanden är avregistrerade. Ingen indikationstext finns angiv
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----------|-----|
-| 62570 | Emylif | Munsönderfallande film | Zambon SpA | Avregistrerad |
-| 60497 | Riluzol Abacus Medicine | Filmdragerad tablett | Abacus Medicine A/S | Avregistrerad |
-| 43569 | Riluzol Stada | Filmdragerad tablett | STADA Arzneimittel AG | Avregistrerad |
-| 44895 | Riluzol PMCS | Filmdragerad tablett | PRO.MED.CS Praha a.s. | Avregistrerad |
-| 61887 | Teglutik | Oral suspension | Italfarmaco S.A. | Avregistrerad |
+| 62570 | Emylif | Munsönderfallande film | Zambon SpA | Godkänd |
+| 60497 | Riluzol Abacus Medicine | Filmdragerad tablett | Abacus Medicine A/S | Godkänd |
+| 43569 | Riluzol Stada | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 44895 | Riluzol PMCS | Filmdragerad tablett | PRO.MED.CS Praha a.s. | Godkänd |
+| 61887 | Teglutik | Oral suspension | Italfarmaco S.A. | Godkänd |
 
 (Ytterligare två avregistrerade godkännanden finns: Glentek, 46239, och Riluzol Actavis, 26445.)
 
@@ -129,7 +129,6 @@ Varnings- och kontraindikationstext från produktresumén saknas i de sammanstä
 - Dokumentation av verkningsmekanismen och en genomgång av om glutamatmodulering är relevant vid polymikrogyri
 - Litteratursökning och prekliniska data för riluzol vid kortikala missbildningar
 - Hämtning och genomgång av produktresumén för säkerhets- och kontraindikationsinformation
-- Klargörande av marknadsläget i Sverige, eftersom inga giltiga godkännanden finns
 - Om fokus är på mekanistiskt närliggande motorneuronsjukdomar (t.ex. monomelisk amyotrofi, Mills syndrom) bör dessa utvärderas separat, då de har ett starkare konceptuellt samband med ALS
 ## Ansvarsfriskrivning
 

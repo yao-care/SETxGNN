@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lisdexamfetamine
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 266
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Lisdexamfetamine: predikterad ny indikation Specifik utvecklingsrubbning (evidensnivå L4). Ursprunglig indikation: ADHD (enligt kunskapsgrafen"
 monitor_inn: "lisdexamfetamine"
-predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "autosomal dominant cerebellar ataxia", "cerebellar ataxia", "spinocerebellar degeneration with slow eye movements", "trichotillomania", "transient tic disorder", "narcolepsy", "narcolepsy, susceptibility to"]
+predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "autosomal dominant cerebellar ataxia", "cerebellar ataxia", "spinocerebellar degeneration with slow eye movements", "trichotillomania", "transient tic disorder", "narcolepsy"]
+description: "Lisdexamfetamine: predikterad ny indikation Specific developmental disorder (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Lisdexamfetamine
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Lisdexamfetamin: Från ADHD till specifik utvecklingsrubbning
+## Lisdexamfetamine: Specific developmental disorder
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Lisdexamfetamin är en prodrug till d-amfetamin och används ursprungligen vid *
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | ADHD (enligt kunskapsgrafen; de svenska godkännandena saknar indikationstext i underlaget) |
-| Förutsagd ny indikation | Specifik utvecklingsrubbning |
-| TxGNN-förutsägelsepoäng | ≈100,0 % (0,9999999) |
-| Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 6 (alla avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Specific developmental disorder |
+| TxGNN-förutsägelsepoäng | 1.0000 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Dessa system är centrala för uppmärksamhet och exekutiva funktioner, som ofta är påverkade vid neuroutvecklingsrubbningar. Därför kan en mekanistisk koppling till den förutsagda indikationen finnas.
 
-Förutsägelsen bör ändå tolkas med stor försiktighet. Termen "specifik utvecklingsrubbning" är bred och överlappar med den redan godkända ADHD-indikationen, så den höga poängen speglar sannolikt närheten i kunskapsgrafen snarare än en ny, belagd effekt.
+Förutsägelsen bör ändå tolkas med stor försiktighet.
 
 ---
 
@@ -85,7 +85,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 6 godkännanden i Sverige är avregistrerade och inget är giltigt. De fem första visas nedan. Indikationstext saknas för samtliga.
+De fem första visas nedan. Indikationstext saknas för samtliga.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
 |---------|------|------|-----------|

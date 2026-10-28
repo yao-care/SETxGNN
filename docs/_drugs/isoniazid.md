@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Isoniazid
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 237
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Isoniazid: predikterad ny indikation Konjunktivit (evidensnivå L4). Ursprunglig indikation: Lungtuberkulos (enligt TxGNN-kunskapsgrafen"
 monitor_inn: "ISONIAZID"
 predicted_indications: ["conjunctivitis"]
+description: "Isoniazid: predikterad ny indikation Konjunktivit (conjunctivitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Isoniazid
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **1** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Isoniazid: Från lungtuberkulos till konjunktivit
+## Isoniazid: Konjunktivit (conjunctivitis)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Isoniazid är ett läkemedel mot tuberkulos som ursprungligen användes för att
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Lungtuberkulos (enligt TxGNN-kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Konjunktivit |
-| TxGNN-förutsägelsepoäng | 99,4 % |
-| Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 4 (samtliga indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Konjunktivit (conjunctivitis) |
+| TxGNN-förutsägelsepoäng | 0.9936 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -125,7 +125,6 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 - Avgränsa målgruppen till tuberkulosrelaterad konjunktivit, till exempel flyktenulär keratokonjunktivit, i stället för konjunktivit i allmänhet.
 - Göra en systematisk litteraturgenomgång av isoniazid vid ögontuberkulos och bedöma om kontrollerade studier finns.
 - Utvärdera leversäkerhet, neuropatirisk och interaktioner mot den aktuella patientgruppen.
-- Klarifiera regulatorisk status, eftersom inga giltiga godkännanden finns i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

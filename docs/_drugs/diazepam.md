@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Diazepam
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 138
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Diazepam: predikterad ny indikation Insomni (evidensnivå L5). Ursprunglig indikation: Epilepsi, status epilepticus, alkoholabstinens, ångest…"
 monitor_inn: "DIAZEPAM"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "antidepressant type abuse", "barbiturate abuse", "hallucinogen abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
+description: "Diazepam: predikterad ny indikation Insomnia (disease) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Diazepam
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Diazepam: Från epilepsi och ångest till sömnstörning (insomni)
+## Diazepam: Insomnia (disease)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Diazepam är en bensodiazepin som ursprungligen användes vid epilepsi, status e
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Epilepsi, status epilepticus, alkoholabstinens, ångest, stelkramp (enligt kunskapsgrafen; ingen godkänd indikationstext finns i de svenska godkännandena) |
-| Förutsagd ny indikation | Insomni |
-| TxGNN-förutsägelsepoäng | 99,99 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Insomnia (disease) |
+| TxGNN-förutsägelsepoäng | 1.0000 |
 | Evidensnivå | L4 (endast mekanistisk och indirekt evidens) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 12 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 12 av 12) |
+| Antal godkännanden | 12 (giltiga: 12) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -94,7 +94,7 @@ Flera träffar i litteratursökningen (bl.a. studier om traditionell kinesisk me
 
 ### Marknadsinformation Sverige
 
-Alla 12 godkännanden är avregistrerade, och inga giltiga godkännanden finns för närvarande. De fem första:
+De fem första:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

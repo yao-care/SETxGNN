@@ -4,17 +4,17 @@ title: Montelukast
 parent: Hög evidens (L1-L2)
 nav_order: 304
 evidence_level: L2
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Montelukast: predikterad ny indikation Bronkit (evidensnivå L2). Ursprunglig indikation: Allergisk rinit, vasomotorisk rinit, intrinsic astma, allergisk astma"
+indication_count: 3
+last_modified_at: 2026-10-28
 monitor_inn: "montelukast"
 predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease"]
+description: "Montelukast: predikterad ny indikation Bronkit (bronchitis) (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Montelukast
 {: .fs-9 }
 
-Evidensnivå: **L2** | Förutsagda indikationer: **5** st
+Evidensnivå: **L2** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L2** | Förutsagda indikationer: **5** st
 
 </div>
 
-## Montelukast: Från allergisk rinit och astma till bronkit
+## Montelukast: Bronkit (bronchitis)
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Montelukast är en leukotrienreceptorantagonist som ursprungligen används vid allergisk rinit, vasomotorisk rinit samt allergisk och intrinsic astma. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **bronkit** (främst bronkiolit och bronkiolitis obliterans), med en mycket hög förutsägelsepoäng på 99,95 %. Underlaget består av **16 kliniska prövningar** och **20 publikationer**, men evidensen för just denna indikation är blandad och inget fas 3-prövning med effektdata för bronkiolit stöder den tydligt.
+Montelukast är en leukotrienreceptorantagonist som ursprungligen används vid allergisk rinit, vasomotorisk rinit samt allergisk och intrinsic astma. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **bronkit** (främst bronkiolit och bronkiolitis obliterans), med en mycket hög förutsägelsepoäng på 0,9995. Underlaget består av **16 kliniska prövningar** och **20 publikationer**, men evidensen för just denna indikation är blandad och inget fas 3-prövning med effektdata för bronkiolit stöder den tydligt.
 
 ---
 
@@ -48,11 +48,11 @@ Montelukast är en leukotrienreceptorantagonist som ursprungligen används vid a
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Allergisk rinit, vasomotorisk rinit, intrinsic astma, allergisk astma (godkänd indikationstext saknas i svenska registret) |
-| Förutsagd ny indikation | Bronkit |
-| TxGNN-förutsägelsepoäng | 99,95 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Bronkit (bronchitis) |
+| TxGNN-förutsägelsepoäng | 0.9995 |
 | Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (samtliga indragna) |
 | Rekommenderat beslut | Avvakta |
 

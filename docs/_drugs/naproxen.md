@@ -6,9 +6,9 @@ nav_order: 310
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Naproxen: predikterad ny indikation Brachydaktyli-syndaktyli-syndrom (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad i de svenska godkänna…"
 monitor_inn: "NAPROXEN"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
+description: "Naproxen: predikterad ny indikation Brachydactyly-syndactyly syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Naproxen
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-## Naproxen: Från inflammatoriska smärttillstånd och ledsjukdomar till brachydaktyli-syndaktyli-syndrom
+## Naproxen: Brachydactyly-syndactyly syndrome
 {: .text-alpha }
 
 ---
@@ -49,12 +49,12 @@ TxGNN-modellen förutsäger att det kan vara effektivt mot **brachydaktyli-synda
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad i de svenska godkännandena. Enligt kunskapsgrafen gäller bland annat reumatoid artrit, artros, ankyloserande spondylit, gikt, tendinit, bursit och migrän |
-| Förutsagd ny indikation | Brachydaktyli-syndaktyli-syndrom |
-| TxGNN-förutsägelsepoäng | 99,4 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Brachydactyly-syndactyly syndrome |
+| TxGNN-förutsägelsepoäng | 0.9935 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 19 (samtliga avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 19 av 19) |
+| Antal godkännanden | 19 (giltiga: 19) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -65,7 +65,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Sambandet mellan den ursprungliga och den förutsagda indikationen är svagt. Brachydaktyli-syndaktyli-syndrom är ett medfött missbildningssyndrom som påverkar utvecklingen av händer och fötter och har genetiskt ursprung. Ett antiinflammatoriskt och smärtlindrande läkemedel förväntas inte kunna påverka den underliggande sjukdomsprocessen. I bästa fall skulle naproxen kunna lindra sekundär smärta, vilket inte är en återanvändningsindikation i egentlig mening.
 
-Den höga poängen speglar sannolikt närhet till muskuloskeletala begrepp i kunskapsgrafen (till exempel artropati och exostos) snarare än ett verkligt biologiskt samband. Ingen mekanistisk grund för förutsägelsen kan styrkas med tillgängliga data.
+Ingen mekanistisk grund för förutsägelsen kan styrkas med tillgängliga data.
 
 Övriga förutsägelser från modellen har samma svaghet. De gäller kolobomatös mikroftalmi-rhizomel dysplasi-syndrom (99,2 %), akromesomel dysplasi av Hunter-Thompson-typ (99,2 %) och brachyolmi-amelogenesis imperfecta-syndrom (99,1 %). Samtliga är sällsynta genetiska utvecklingsstörningar utan stödjande kliniska data.
 
@@ -73,7 +73,7 @@ Den höga poängen speglar sannolikt närhet till muskuloskeletala begrepp i kun
 
 ## Marknadsinformation Sverige
 
-Samtliga 19 godkännanden är avregistrerade och inga är giltiga för närvarande. Godkänd indikationstext saknas i data. Nedan visas fem av godkännandena.
+Godkänd indikationstext saknas i data. Nedan visas fem av godkännandena.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

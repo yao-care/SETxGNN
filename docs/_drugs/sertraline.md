@@ -6,9 +6,9 @@ nav_order: 395
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
-description: "Sertraline: predikterad ny indikation Schizoid personlighetsstörning (evidensnivå L5). Ursprunglig indikation: Ångestsyndrom (hämtad från kunskapsgrafen…"
 monitor_inn: "sertraline"
 predicted_indications: ["schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "dependent personality disorder", "narcissistic personality disorder"]
+description: "Sertraline: predikterad ny indikation Schizoid personality disorder (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Sertraline
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 </div>
 
-## Sertralin: Från ångestsyndrom till schizoid personlighetsstörning
+## Sertraline: Schizoid personality disorder
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Sertralin är en selektiv serotoninåterupptagshämmare (SSRI) som ursprungligen
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ångestsyndrom (hämtad från kunskapsgrafen, eftersom indikationstexterna i de svenska godkännandena saknas) |
-| Förutsagd ny indikation | Schizoid personlighetsstörning |
-| TxGNN-förutsägelsepoäng | 99,93 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Schizoid personality disorder |
+| TxGNN-förutsägelsepoäng | 0.9993 |
 | Evidensnivå | L5 (endast modellförutsägelse, inga relevanta studier) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
@@ -62,7 +62,7 @@ Sertralin är en selektiv serotoninåterupptagshämmare (SSRI) som ursprungligen
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är sertralin en SSRI. Läkemedlets effekt vid ångest- och tvångssyndrom är väl belagd, och mekanistiskt skulle serotonerg påverkan kunna vara tillämpbar på ångestrelaterade drag vid personlighetsstörningar.
 
-Den höga poängen beror troligen på att schizoid personlighetsstörning ligger nära serotonerga och ångestrelaterade tillstånd i modellens kunskapsgraf. Samma poäng ges till flera andra personlighetsstörningar (histrionisk, schizotyp, paranoid), vilket tyder på en generell grafeffekt snarare än ett sjukdomsspecifikt samband.
+Samma poäng ges till flera andra personlighetsstörningar (histrionisk, schizotyp, paranoid), vilket tyder på en generell grafeffekt snarare än ett sjukdomsspecifikt samband.
 
 Den enda kopplade artikeln gäller ätstörningen hyperfagi (binge eating), inte schizoid personlighetsstörning. Det finns därför varken något sjukdomsspecifikt mekanistiskt stöd eller något kliniskt stöd.
 

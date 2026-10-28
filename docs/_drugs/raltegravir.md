@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Raltegravir
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 375
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Raltegravir: predikterad ny indikation Simian immunbristvirusinfektion (evidensnivå L5). Ursprunglig indikation: Hiv-infektion, aids (enligt TxGNN-kunskapsgrafen"
 monitor_inn: "raltegravir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Raltegravir: predikterad ny indikation Simian immunbristvirusinfektion (simian immunodeficiency virus infection) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Raltegravir
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **3** st
+Evidensnivå: **L4** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Raltegravir: Från hiv-infektion och aids till simian immunbristvirusinfektion
+## Raltegravir: Simian immunbristvirusinfektion (simian immunodeficiency virus infection)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Raltegravir är en integrashämmare (INSTI) som ursprungligen används för att 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Hiv-infektion, aids (enligt TxGNN-kunskapsgrafen; indikationstext saknas i det svenska godkännandet) |
-| Förutsagd ny indikation | Simian immunbristvirusinfektion |
-| TxGNN-förutsägelsepoäng | 99,8 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Simian immunbristvirusinfektion (simian immunodeficiency virus infection) |
+| TxGNN-förutsägelsepoäng | 0.9978 |
 | Evidensnivå | L4 (endast prekliniska studier) |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---

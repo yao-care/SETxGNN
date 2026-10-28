@@ -6,9 +6,9 @@ nav_order: 318
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Nitrofurantoin: predikterad ny indikation Reumatoid artrit (evidensnivå L5). Ursprunglig indikation: Ej angiven i godkännandedata (urinvägsinfektion enligt allmän kunskap…"
 monitor_inn: "NITROFURANTOIN"
 predicted_indications: ["rheumatoid arthritis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "sclerosing cholangitis", "methemoglobinemia, alpha type", "gout", "methemoglobinemia"]
+description: "Nitrofurantoin: predikterad ny indikation Reumatoid artrit (rheumatoid arthritis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Nitrofurantoin
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Nitrofurantoin: Från urinvägsinfektion till reumatoid artrit
+## Nitrofurantoin: Reumatoid artrit (rheumatoid arthritis)
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Nitrofurantoin är ett antibakteriellt läkemedel som används mot urinvägsinfektioner. Den ursprungliga indikationen finns inte angiven i de godkännandedata som sammanställts, men litteraturen beskriver läkemedlet i den rollen. TxGNN-modellen förutsäger att det kan vara effektivt mot **reumatoid artrit** med mycket hög poäng (99,9 %). Det finns dock **inga kliniska prövningar** och ingen litteratur som visar en behandlingseffekt. De publikationer som hittats beskriver snarare nitrofurantoin som en möjlig orsak till lungskador hos patienter med reumatoid artrit. Förutsägelsen bedöms därför som sannolikt ett artefaktresultat.
+Nitrofurantoin är ett antibakteriellt läkemedel som används mot urinvägsinfektioner. Den ursprungliga indikationen finns inte angiven i de godkännandedata som sammanställts, men litteraturen beskriver läkemedlet i den rollen. Det finns dock **inga kliniska prövningar** och ingen litteratur som visar en behandlingseffekt. De publikationer som hittats beskriver snarare nitrofurantoin som en möjlig orsak till lungskador hos patienter med reumatoid artrit. Förutsägelsen bedöms därför som sannolikt ett artefaktresultat.
 
 ---
 
@@ -48,12 +48,12 @@ Nitrofurantoin är ett antibakteriellt läkemedel som används mot urinvägsinfe
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i godkännandedata (urinvägsinfektion enligt allmän kunskap och litteraturen) |
-| Förutsagd ny indikation | Reumatoid artrit |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Reumatoid artrit (rheumatoid arthritis) |
+| TxGNN-förutsägelsepoäng | 0.9989 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 4 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---

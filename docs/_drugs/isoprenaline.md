@@ -6,9 +6,9 @@ nav_order: 238
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Isoprenaline: predikterad ny indikation Näshålesjukdom (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. I kunskapsgra…"
 monitor_inn: "isoprenaline"
 predicted_indications: ["nasal cavity disease", "headache disorder", "pharyngitis", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "bronchial disease", "endobronchial leiomyoma", "allergic urticaria", "endobronchial lipoma", "bronchus adenoma"]
+description: "Isoprenaline: predikterad ny indikation Näshålesjukdom (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Isoprenaline
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Isoprenalin: Från förkylning, nasofaryngit, hjärtstopp och AV-block till näshålesjukdom
+## Isoprenaline: Näshålesjukdom (nasal cavity disease)
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Isoprenalin (isoprenaline) är en icke-selektiv beta-adrenerg agonist som i kunskapsgrafen är kopplad till behandling av vanlig förkylning, nasofaryngit, hjärtstopp och atrioventrikulärt block. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **näshålesjukdom** (poäng 99,9 %), men **inga kliniska prövningar** finns och endast **1 publikation** (en fallrapport om kranskärlsspasm vid perioperativ kammartakykardi) har kopplats till förutsägelsen, och den publikationen saknar relevans för näshåleföljderna. Förutsägelsen bygger i praktiken enbart på modellen.
+Isoprenalin (isoprenaline) är en icke-selektiv beta-adrenerg agonist. TxGNN-modellen (deep learning) förutsäger att läkemedlet kan vara effektivt mot **näshålesjukdom** (poäng 0,9995). Poängen kommer från TxGNN-modellen (deep learning) och kan spegla likheter som modellen lärt sig mellan relaterade sjukdomar, inte biologisk evidens. Det finns dock **inga kliniska prövningar** och endast **1 publikation** (en fallrapport om kranskärlsspasm vid perioperativ kammartakykardi) har kopplats till förutsägelsen, och den publikationen saknar relevans för näshåleföljderna. Förutsägelsen bygger i praktiken enbart på modellen.
 
 ---
 
@@ -48,12 +48,12 @@ Isoprenalin (isoprenaline) är en icke-selektiv beta-adrenerg agonist som i kuns
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns i de svenska godkännandena. I kunskapsgrafen anges förkylning, nasofaryngit, hjärtstopp och AV-block |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Näshålesjukdom (nasal cavity disease) |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| TxGNN-förutsägelsepoäng | 0.9995 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Isoprenalin (isoprenaline) är en icke-selektiv beta-adrenerg agonist som i kuns
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts för denna rapport. Baserat på känd information är isoprenalin en icke-selektiv beta-adrenerg agonist. Den stimulerar både beta-1-receptorer (hjärtat) och beta-2-receptorer (bland annat bronkernas och kärlens glatta muskulatur). Därför har den använts vid hjärtstopp och AV-block samt historiskt som luftrörsvidgande medel.
 
-Sambandet mellan de ursprungliga indikationerna (förkylning, nasofaryngit) och näshålesjukdom är att alla rör övre luftvägarna. Modellen har sannolikt dragit slutsatsen utifrån närheten i kunskapsgrafen. Beta-adrenerg stimulering skulle teoretiskt kunna påverka kärl och sekretion i nässlemhinnan, men inga direkta data om detta har lagts fram.
+Sambandet mellan de ursprungliga indikationerna (förkylning, nasofaryngit) och näshålesjukdom är att alla rör övre luftvägarna. Poängen kommer från TxGNN-modellen (deep learning) och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens. Beta-adrenerg stimulering skulle teoretiskt kunna påverka kärl och sekretion i nässlemhinnan, men inga direkta data om detta har lagts fram.
 
 Förutsägelsen bör därför ses som en hypotes. Den enda länkade artikeln handlar om kammartakykardi och kranskärlsspasm efter att näshålan penslats med adrenalin inför intubation. Den ger ingen evidens för behandlingseffekt vid näshåleåkommor.
 

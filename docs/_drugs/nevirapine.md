@@ -6,9 +6,9 @@ nav_order: 312
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Nevirapine: predikterad ny indikation Felint förvärvat immunbristsyndrom (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i svenska godkännanden"
 monitor_inn: "nevirapine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Nevirapine: predikterad ny indikation Feline acquired immunodeficiency syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Nevirapine
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Nevirapin: Från HIV-infektion till felint förvärvat immunbristsyndrom
+## Nevirapine: Feline acquired immunodeficiency syndrome
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Nevirapin är en icke-nukleosid omvänt transkriptashämmare (NNRTI) som ursprun
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext angiven i svenska godkännanden; enligt kunskapsgrafen hivinfektion och aids |
-| Förutsagd ny indikation | Felint förvärvat immunbristsyndrom |
-| TxGNN-förutsägelsepoäng | 99,85 % |
-| Evidensnivå | L4 (prekliniska studier) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 3 |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Feline acquired immunodeficiency syndrome |
+| TxGNN-förutsägelsepoäng | 0.9985 |
+| Evidensnivå | L5 (prekliniska studier) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -80,9 +80,9 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 |------|-----|------|------|---------|
 | [38031646](https://pubmed.ncbi.nlm.nih.gov/38031646/) | 2023 | Preklinisk biokemisk/strukturell studie | Journal of Veterinary Science | Jämför NNRTI-läkemedlen nevirapin, efavirenz och rilpivirin mot FIV och hiv för att bedöma potentialen vid FIV-infektion. Det finns i dagsläget ingen effektiv behandling för smittade katter. Resultat för nevirapin framgår inte av tillgänglig information. |
 
-**Förutsägelse nr 2: simianvirus (SIV)-infektion.** Modellen förutsäger även SIV-infektion (poäng 99,85 %), men underlaget består av prekliniska studier. Dessa gäller främst SHIV-chimärer med hiv-1:s omvända transkriptas, inte SIV i sig. SIV från makaker och hiv-2 är typiskt naturligt resistenta mot NNRTI. Flera träffar rör andra ämnen eller andra ämnesområden. SIV-infektion är dessutom en djurmodellsjukdom utan humanindikation.
+**Förutsägelse nr 2: simianvirus (SIV)-infektion.** Modellen förutsäger även SIV-infektion (poäng 0,9985), men underlaget består av prekliniska studier. Dessa gäller främst SHIV-chimärer med hiv-1:s omvända transkriptas, inte SIV i sig. SIV från makaker och hiv-2 är typiskt naturligt resistenta mot NNRTI. Flera träffar rör andra ämnen eller andra ämnesområden. SIV-infektion är dessutom en djurmodellsjukdom utan humanindikation.
 
-**Förutsägelse nr 3: neuroutvecklingsstörning med ataktisk gång, avsaknad av tal och minskad kortikal vit substans.** Poäng 99,82 %, men varken kliniska prövningar eller litteratur finns (evidensnivå L5). Något mekanistiskt samband stöds inte av underlaget.
+**Förutsägelse nr 3: neuroutvecklingsstörning med ataktisk gång, avsaknad av tal och minskad kortikal vit substans.** Poäng 0,9982, men varken kliniska prövningar eller litteratur finns (evidensnivå L5). Något mekanistiskt samband stöds inte av underlaget.
 
 ---
 

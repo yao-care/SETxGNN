@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Etoposide
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 182
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Etoposide: predikterad ny indikation Välutvecklat fetalt adenokarcinom i lungan (evidensnivå L4). Ursprunglig indikation: Småcellig lungcancer (hämtad från kunskapsgrafen…"
 monitor_inn: "etoposide"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
+description: "Etoposide: predikterad ny indikation Well-differentiated fetal adenocarcinoma of the lung (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Etoposide
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Etoposid: Från småcellig lungcancer till välutvecklat fetalt adenokarcinom i lungan
+## Etoposide: Well-differentiated fetal adenocarcinoma of the lung
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Etoposid är ett cytostatikum som används vid bland annat småcellig lungcancer
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Småcellig lungcancer (hämtad från kunskapsgrafen, eftersom indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Välutvecklat fetalt adenokarcinom i lungan |
-| TxGNN-förutsägelsepoäng | 99,94 % |
-| Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 10 (alla avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Well-differentiated fetal adenocarcinoma of the lung |
+| TxGNN-förutsägelsepoäng | 0.9994 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
+| Antal godkännanden | 10 (giltiga: 10) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -84,7 +84,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-Alla 10 godkännanden för etoposid i Sverige är avregistrerade, och inget är giltigt. Indikationstext finns inte angiven för något av dem. Nedan visas fem av godkännandena.
+Indikationstext finns inte angiven för något av dem. Nedan visas fem av godkännandena.
 
 | Godkännandenummer | Produktnamn | Beredningsform |
 |---------|------|------|
@@ -127,7 +127,6 @@ Kompletterande säkerhetsinformation från produktresumén saknas och behöver i
 
 **Motivering:**
 - Förutsägelsen bygger i praktiken bara på modellpoängen. Det finns inga kliniska prövningar, och den enda publikationen är en fallrapport om en annan tumörtyp där etoposid inte var huvudbehandling.
-- Läkemedlet har hög risk för benmärgspåverkan, och alla godkännanden i Sverige är avregistrerade, vilket påverkar tillgängligheten.
 
 **För att gå vidare krävs:**
 - Fallserier eller registerdata där etoposidbaserade regimer (till exempel platina plus etoposid) används vid fetalt adenokarcinom i lungan eller lungblastom.

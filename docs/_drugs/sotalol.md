@@ -4,17 +4,17 @@ title: Sotalol
 parent: Endast modellprediktion (L5)
 nav_order: 399
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Sotalol: predikterad ny indikation Sick sinus-syndrom 2, autosomalt dominant (evidensnivå L5). Ursprunglig indikation: Förmaksflimmer (enligt kunskapsgrafen"
 monitor_inn: "sotalol"
-predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation", "obsolete susceptibility to ischemic stroke"]
+predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
+description: "Sotalol: predikterad ny indikation Sick sinus syndrome 2, autosomal dominant (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Sotalol
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **7** st
+Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Sotalol: Från förmaksflimmer till sick sinus-syndrom 2, autosomalt dominant
+## Sotalol: Sick sinus syndrome 2, autosomal dominant
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Sotalol är ett antiarytmikum (klass III) med betablockerande effekt. Enligt kunskapsgrafen har det använts mot **förmaksflimmer**. TxGNN-modellen förutsäger att det kan vara effektivt mot **sick sinus-syndrom 2, autosomalt dominant**, men det finns **inga kliniska prövningar och ingen publicerad litteratur** som stöder detta. Förutsägelsen är rent beräkningsbaserad. Dessutom är sick sinus-syndrom en känd kontraindikation för sotalol, vilket gör kopplingen svår att motivera.
+Sotalol är ett antiarytmikum (klass III) med betablockerande effekt. TxGNN-modellen förutsäger att det kan vara effektivt mot **sick sinus-syndrom 2, autosomalt dominant**, men det finns **inga kliniska prövningar och ingen publicerad litteratur** som stöder detta. Förutsägelsen är rent beräkningsbaserad. Dessutom är sick sinus-syndrom en känd kontraindikation för sotalol, vilket gör kopplingen svår att motivera.
 
 ---
 
@@ -48,12 +48,12 @@ Sotalol är ett antiarytmikum (klass III) med betablockerande effekt. Enligt kun
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Förmaksflimmer (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Sick sinus-syndrom 2, autosomalt dominant |
-| TxGNN-förutsägelsepoäng | 99,8 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Sick sinus syndrome 2, autosomal dominant |
+| TxGNN-förutsägelsepoäng | 0.9976 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 3 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Sick sinus-syndrom 2 (autosomalt dominant) är en störning i sinusknutans funktion, ofta kopplad till varianter i generna *HCN4* eller *SCN5A*. Modellen verkar ha kopplat ihop de två sjukdomarna eftersom båda är rytmstörningar med överlappande biologiska nätverk.
 
-Mekanistiskt är kopplingen dock **svår att försvara som en nytta**. Sotalol bromsar sinusknutan och AV-ledningen, vilket i princip kan förvärra den bradykardi som kännetecknar sjukdomen. Det höga poängvärdet speglar sannolikt nätverksmönster i grafen och inte en verklig terapeutisk möjlighet. Förutsägelsen bör därför främst läsas som en säkerhetsvarning.
+Mekanistiskt är kopplingen dock **svår att försvara som en nytta**. Sotalol bromsar sinusknutan och AV-ledningen, vilket i princip kan förvärra den bradykardi som kännetecknar sjukdomen. Förutsägelsen bör därför främst läsas som en säkerhetsvarning.
 
 ---
 

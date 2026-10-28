@@ -4,17 +4,17 @@ title: Topiramate
 parent: Endast modellprediktion (L5)
 nav_order: 430
 evidence_level: L5
-indication_count: 9
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Topiramate: predikterad ny indikation Trigeminusnervtumör (evidensnivå L5). Ursprunglig indikation: Epilepsi med generaliserade tonisk-kloniska anfall, partiell epilepsi…"
 monitor_inn: "topiramate"
 predicted_indications: ["trigeminal nerve neoplasm"]
+description: "Topiramate: predikterad ny indikation Trigeminusnervtumör (trigeminal nerve neoplasm) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Topiramate
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **9** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-## Topiramat: Från epilepsi till trigeminusnervtumör
+## Topiramate: Trigeminusnervtumör (trigeminal nerve neoplasm)
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Topiramat är ett antiepileptikum som ursprungligen används vid generaliserade 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Epilepsi med generaliserade tonisk-kloniska anfall, partiell epilepsi, Lennox-Gastauts syndrom (godkänd indikationstext saknas i de svenska godkännandena; uppgiften kommer från kunskapsgrafen) |
-| Förutsagd ny indikation | Trigeminusnervtumör |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Trigeminusnervtumör (trigeminal nerve neoplasm) |
+| TxGNN-förutsägelsepoäng | 0.9970 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
@@ -62,7 +62,7 @@ Topiramat är ett antiepileptikum som ursprungligen används vid generaliserade 
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Utifrån allmänt känd farmakologi blockerar topiramat spänningsberoende natriumkanaler, förstärker GABA-A-receptorns effekt, hämmar AMPA/kainat-receptorer och är en svag hämmare av kolsyraanhydras.
 
-Sambandet mellan epilepsi och trigeminusnervtumör är svagt. Dessa mekanismer har ingen etablerad koppling till tumörbiologi. Den höga poängen speglar sannolikt närhet i kunskapsgrafen till trigeminusneuralgi eller neuropatisk smärta, vilket är ett annat tillstånd än en tumör. Förutsägelsen bör därför tolkas med stor försiktighet.
+Sambandet mellan epilepsi och trigeminusnervtumör är svagt. Dessa mekanismer har ingen etablerad koppling till tumörbiologi. Förutsägelsen bör därför tolkas med stor försiktighet.
 
 Det är värt att notera att flera andra förutsägelser, framför allt reflexepilepsier, har ett tydligare mekanistiskt samband med topiramats antiepileptiska verkan (se nedan).
 

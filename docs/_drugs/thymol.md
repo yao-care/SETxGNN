@@ -6,9 +6,9 @@ nav_order: 425
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Thymol: predikterad ny indikation Interventrikulärt septumaneurysm (evidensnivå L5). Ursprunglig indikation: Ej angiven (indikationstext saknas i godkännandet)"
 monitor_inn: "thymol"
 predicted_indications: ["interventricular septum aneurysm", "pulmonary valve disease", "Laubry-Pezzi syndrome", "genetic syndromic Pierre Robin syndrome", "orofacial clefting syndrome", "partial deletion of the long arm of chromosome 22", "Pierre Robin syndrome associated with a chromosomal anomaly", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 7", "Jeune syndrome situs inversus"]
+description: "Thymol: predikterad ny indikation Interventricular septum aneurysm (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Thymol
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Tymol: Från ingen registrerad indikation till interventrikulärt septumaneurysm
+## Thymol: Interventricular septum aneurysm
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Tymol är den aktiva substansen i salvan Vicks Vaporub. Det enda godkännandet i Sverige är avregistrerat, och någon godkänd indikationstext finns inte i de data som sammanställts för denna rapport. TxGNN-modellen förutsäger att tymol kan vara effektivt mot **interventrikulärt septumaneurysm** (poäng 99,2 %), men **inga kliniska prövningar och ingen specifik litteratur** stöder förutsägelsen. Den är därmed en ren modellförutsägelse.
+Tymol är den aktiva substansen i salvan Vicks Vaporub. Det enda godkännandet i Sverige är avregistrerat, och någon godkänd indikationstext finns inte i de data som sammanställts för denna rapport. Den är därmed en ren modellförutsägelse.
 
 ---
 
@@ -48,12 +48,12 @@ Tymol är den aktiva substansen i salvan Vicks Vaporub. Det enda godkännandet i
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven (indikationstext saknas i godkännandet) |
-| Förutsagd ny indikation | Interventrikulärt septumaneurysm |
-| TxGNN-förutsägelsepoäng | 99,2 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Interventricular septum aneurysm |
+| TxGNN-förutsägelsepoäng | 0.9925 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 1 (avregistrerat) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Tymol är den aktiva substansen i salvan Vicks Vaporub. Det enda godkännandet i
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Tymol är en fenolisk monoterpen som förekommer naturligt i timjan. Den är känd för antimikrobiella, antioxidativa och antiinflammatoriska egenskaper i prekliniska studier, och används i produkter som Vicks Vaporub.
 
-Något mekanistiskt samband mellan tymol och interventrikulärt septumaneurysm har inte kunnat påvisas. Tillståndet är en strukturell, anatomisk hjärtavvikelse, och det finns ingen anledning att tro att en småmolekylär monoterpen kan påverka den. Det höga poängvärdet (99,2 %) bygger enbart på mönster i en kunskapsgraf och inte på biologisk eller klinisk evidens.
+Något mekanistiskt samband mellan tymol och interventrikulärt septumaneurysm har inte kunnat påvisas. Tillståndet är en strukturell, anatomisk hjärtavvikelse, och det finns ingen anledning att tro att en småmolekylär monoterpen kan påverka den.
 
 Övriga förutsagda indikationer i topp 10 är liknande: medfödda hjärtfel och klaffsjukdomar, kraniofaciala missbildningar (bl.a. Pierre Robins sekvens och orofaciala kluvna gommar), kromosomavvikelser samt Jeunes syndrom. Inte heller för dem finns något stöd.
 

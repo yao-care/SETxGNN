@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 405
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Sulthiame: predikterad ny indikation Cauda equina-syndrom (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga data"
+last_modified_at: 2026-10-28
 monitor_inn: "sulthiame"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "neurocirculatory asthenia", "anaphylaxis", "food-dependent exercise-induced anaphylaxis", "familial mitral valve prolapse", "mitral valve prolapse (disease)", "MVP1", "autonomic nervous system disease"]
+description: "Sulthiame: predikterad ny indikation Cauda equina-syndrom (cauda equina syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Sulthiame
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Sulthiame: Från ej angiven ursprunglig indikation till cauda equina-syndrom
+## Sulthiame: Cauda equina-syndrom (cauda equina syndrome)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Sulthiame (varumärket Ospolot) är en oral suspension vars ursprungliga godkän
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej angiven i tillgängliga data |
-| Förutsagd ny indikation | Cauda equina-syndrom |
-| TxGNN-förutsägelsepoäng | 99,97 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Cauda equina-syndrom (cauda equina syndrome) |
+| TxGNN-förutsägelsepoäng | 0.9997 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -72,7 +72,7 @@ Något dokumenterat samband mellan karbanhydrashämning och cauda equina-syndrom
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 64898 | Ospolot | Oral suspension | Ej angiven (status: återkallad) |
+| 64898 | Ospolot | Oral suspension | Ej angiven (status: godkänd) |
 
 Tillverkare: Desitin Arzneimittel GmbH.
 

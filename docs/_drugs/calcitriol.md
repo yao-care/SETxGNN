@@ -4,17 +4,17 @@ title: Calcitriol
 parent: Endast modellprediktion (L5)
 nav_order: 78
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-15
-description: "Calcitriol: predikterad ny indikation D-vitaminbrist (föråldrad term) (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad för det svenska godkä…"
+indication_count: 5
 monitor_inn: "calcitriol"
-predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "familial isolated hypoparathyroidism due to impaired PTH secretion", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "hereditary hypophosphatemic rickets"]
+predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]
+last_modified_at: 2026-10-27
+description: "Calcitriol: predikterad ny indikation Föråldrad D-vitaminbrist (obsolete vitamin D deficiency) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Calcitriol
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **7** st
+Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Calcitriol: Från hyperkalcemi och störningar i fosfor- och kalciumomsättningen till D-vitaminbrist (föråldrad diagnosterm)
+## Kalcitriol: aktiv form av D-vitamin (vitamin D-receptoragonist) → Föråldrad D-vitaminbrist (obsolete vitamin D deficiency)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Calcitriol är den aktiva formen av vitamin D. Enligt de data som sammanställts för rapporten har läkemedlet använts vid bland annat hypoparatyreoidism, renal osteodystrofi och störningar i fosforomsättningen. TxGNN-modellen förutsäger att det kan vara effektivt mot **D-vitaminbrist** (en term som är markerad som föråldrad), med mycket hög modellpoäng men **0 kliniska prövningar** och **0 publikationer** som stöder just denna förutsägelse.
+Kalcitriol är den hormonellt aktiva formen av D-vitamin. Den godkända indikationen finns inte registrerad i de lokala data som sammanställts för rapporten. TxGNN-modellen förutsäger att kalcitriol kan vara effektivt mot **föråldrad D-vitaminbrist (obsolete vitamin D deficiency)**, men inga kliniska prövningar eller publikationer har identifierats som direkt studerar detta. Förutsägelsen bygger därför enbart på modellen.
 
 ---
 
@@ -48,35 +48,21 @@ Calcitriol är den aktiva formen av vitamin D. Enligt de data som sammanställts
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad för det svenska godkännandet. Enligt kunskapsgrafen: hyperkalcemi, nefrokalcinos, störningar i fosforomsättningen, hypofosfatemi, hypoparatyreoidism och renal osteodystrofi |
-| Förutsagd ny indikation | D-vitaminbrist (föråldrad term) |
-| TxGNN-förutsägelsepoäng | 99,96 % |
-| Evidensnivå | L5 (endast modellförutsägelse, inga faktiska studier) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 (indraget) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Föråldrad D-vitaminbrist (obsolete vitamin D deficiency) |
+| TxGNN-förutsägelsepoäng | 0,9996 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är calcitriol den aktiva formen av vitamin D. Dess effekt vid kalcium- och fosforrubbningar är väl känd, och mekanistiskt kan den vara tillämpbar på D-vitaminbrist.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda data. Kalcitriol är dock väl känt som den aktiva formen av D-vitamin (1,25-dihydroxivitamin D3). Det verkar via D-vitaminreceptorn och styr bland annat upptaget av kalcium och fosfat. Ett biologiskt samband med D-vitaminbrist är därför rimligt.
 
-Sambandet mellan de ursprungliga indikationerna och den nya är biologiskt begripligt, eftersom båda rör vitamin D-systemet och balansen mellan kalcium och fosfat. Den mycket höga modellpoängen speglar sannolikt att sjukdomstermen ligger nära redan kända vitamin D-relaterade indikationer i kunskapsgrafen. Den utgör inte ny evidens.
-
-Det finns också en praktisk invändning. Calcitriol är redan aktiverat och kringgår njurens 1-alfa-hydroxylering. Vid vanlig näringsrelaterad D-vitaminbrist brukar därför vanligt vitamin D (kolekalciferol) vara förstahandsvalet. Dessutom är sjukdomstermen föråldrad, vilket gör förutsägelsen svår att tolka kliniskt.
-
----
-
-### Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande.
-
----
-
-### Litteraturbevis
-
-Ingen relaterad litteratur tillgänglig för närvarande.
+Det finns dock tydliga förbehåll. Sjukdomstermen är markerad som föråldrad i den ontologi som modellen använder. Den mycket höga poängen speglar sannolikt närheten till andra D-vitaminrelaterade tillstånd snarare än ny evidens. Kalcitriol kringgår dessutom det njursteg (1-alfa-hydroxylering) som kroppen normalt använder för att aktivera D-vitamin. Vid vanlig näringsbetingad brist är därför vanligt D-vitamin det naturliga förstahandsvalet.
 
 ---
 
@@ -84,19 +70,23 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 9496 (indraget) | Rocaltrol (Atnahs Pharma Netherlands B.V.) | Kapsel, mjuk | Ingen indikationstext angiven |
+| 9496 | Rocaltrol | Kapsel, mjuk | Ingen indikationstext registrerad i lokala data |
 
 ---
 
 ### Säkerhetsaspekter
 
-**Kontraindikationer enligt kunskapsgrafen** (härledda ur relationer mellan läkemedel och sjukdomar, inte ur produktresumén): njursjukdom, pyoureter, sarkoidos, hyperkalcemi, nefrokalcinos, störningar i fosforomsättningen, nefrolitiasis (inklusive en ärftlig form orsakad av SLC26A1), akut urat­nefropati, hyperfosfatemi, hypervitaminos och arteriosklerosis obliterans.
+- **Läkemedelsinteraktioner**: Totalt 339 interaktioner har registrerats. De viktigaste är:
+  - **Allvarliga (Major)**: kolekalciferol, kalcifediol och burosumab.
+  - **Måttliga (Moderate)**, bland annat:
+    - tiaziddiuretika (hydroklortiazid, bendroflumetiazid, klortalidon)
+    - enzyminducerande läkemedel (fenytoin/fosfenytoin, karbamazepin, barbiturater)
+    - gallsyrebindare (kolestyramin, kolestipol, kolesevelam)
+    - aluminiumhydroxid
+    - digitalisglykosider (digoxin, digitoxin)
+    - topikal kalcipotriol
 
-**Läkemedelsinteraktioner** (339 interaktioner identifierade, de viktigaste nedan):
-- **Allvarliga (Major):** kolekalciferol, kalcifediol och burosumab. Samtidig användning med andra D-vitaminpreparat ökar risken för för hög kalciumnivå.
-- **Måttliga (Moderate):** tiaziddiuretika (hydroklortiazid, bendroflumetiazid, klortalidon med flera), antiepileptika och barbiturater (fosfenytoin, karbamazepin, amobarbital, butalbital), gallsyrebindare (kolestyramin, kolesevelam, kolestipol), aluminiumhydroxid, digoxin och digitoxin samt kalcipotriol för lokalt bruk.
-
-Se produktresumén för fullständig säkerhetsinformation, eftersom varnings- och kontraindikationstexten inte ingår i underlaget.
+Se produktresumén för varningar och kontraindikationer, eftersom sådana data saknas i den sammanställda informationen.
 
 ---
 
@@ -105,16 +95,14 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varnings- o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på modellpoäng. Det finns varken prövningar eller publikationer, sjukdomstermen är föråldrad och vanligt vitamin D är redan standardbehandling vid D-vitaminbrist.
-- Det enda svenska godkännandet är indraget, så produkten saknar för närvarande en aktiv marknadsföring i Sverige.
+- Förutsägelsen stöds endast av modellen (evidensnivå L5). Det finns inga kliniska prövningar eller publikationer om kalcitriol vid denna sjukdom, och sjukdomstermen är dessutom föråldrad.
+- Vid vanlig D-vitaminbrist är nativt D-vitamin normalt att föredra framför kalcitriol.
 
 **För att gå vidare krävs:**
-- Ett tydligare och aktuellt sjukdomsbegrepp, till exempel specifik D-vitaminbrist eller vitamin D-beroende rakit, i stället för den föråldrade termen.
-- Kliniska eller litteraturbaserade data som visar att calcitriol ger en fördel jämfört med kolekalciferol.
-- Hämtning av produktresumé med varningar och kontraindikationer från Läkemedelsverket samt uppgifter om verkningsmekanism från DrugBank.
-- Kontroll av om en ny godkännandestatus eller ett annat calcitriolpreparat finns tillgängligt på den svenska marknaden.
-
-**Observation om andra förutsägelser:** Bland modellens övriga förutsägelser har **ärftlig hypofosfatemisk rakit** (inklusive X-bunden hypofosfatemi) den starkaste evidensen. Underlaget visar en avslutad tidig fas 1-prövning (NCT03748966, 16 deltagare) och en fas 4-prövning med okänd status (NCT03820518, 100 deltagare), samt översikter och en konsensusrapport som beskriver calcitriol i kombination med fosfat som etablerad behandling. Den indikationen bedöms som L2 och är ett mer lovande spår att utvärdera vidare. Då behövs särskild övervakning av nefrokalcinos, hyperkalciuri och hyperparatyreoidism.
+- Förtydligande av vilket aktuellt, icke-föråldrat sjukdomstillstånd förutsägelsen avser.
+- Kliniska studier eller publikationer som direkt undersöker kalcitriol vid det aktuella tillståndet.
+- Tillgänglig verkningsmekanismdata samt varningar och kontraindikationer från produktresumén.
+- Verifiering av läkemedlets nuvarande regulatoriska status i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

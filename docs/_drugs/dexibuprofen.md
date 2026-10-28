@@ -4,17 +4,17 @@ title: Dexibuprofen
 parent: Endast modellprediktion (L5)
 nav_order: 134
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Dexibuprofen: predikterad ny indikation Ankyloserande spondylit (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i de svenska godkännandena. E…"
+indication_count: 8
 monitor_inn: "DEXIBUPROFEN"
-predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "ankylosing spondylitis", "WHIM syndrome"]
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome"]
+last_modified_at: 2026-10-27
+description: "Dexibuprofen: predikterad ny indikation Brakydaktyli-syndaktylisyndrom (brachydactyly-syndactyly syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Dexibuprofen
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,16 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Dexibuprofen: Från reumatoid artrit och artros till ankyloserande spondylit
+## Dexibuprofen: COX-hämmare → brakydaktyli-syndaktylisyndrom (brachydactyly-syndactyly syndrome)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Dexibuprofen är den aktiva S-enantiomeren av ibuprofen, ett antiinflammatoriskt läkemedel (NSAID) som ursprungligen användes vid reumatoid artrit, artros, juvenil idiopatisk artrit och andra ledsjukdomar. TxGNN-modellen förutsäger många nya indikationer, men den enda med något stöd i litteraturen är **ankyloserande spondylit** (Bechterews sjukdom), med **0 kliniska prövningar** och **3 publikationer** som endast ger indirekt stöd. De övriga nio förutsagda indikationerna saknar helt evidens och bygger enbart på modellens nätverksberäkningar.
-
-*Anmärkning:* Den högst rankade förutsägelsen (brakydaktyli-syndaktylisyndrom) saknar både studier och rimlig biologisk koppling. Rapporten fokuserar därför på ankyloserande spondylit, som är den enda förutsägelsen med plausibel mekanism och någon litteratur.
+Dexibuprofen är ett icke-steroidalt antiinflammatoriskt läkemedel (NSAID) som verkar genom hämning av cyklooxygenas. TxGNN-modellen förutsäger att det kan vara effektivt mot **brakydaktyli-syndaktylisyndrom (brachydactyly-syndactyly syndrome)**. Det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder förutsägelsen, som därför enbart vilar på en modellberäkning.
 
 ---
 
@@ -50,23 +48,23 @@ Dexibuprofen är den aktiva S-enantiomeren av ibuprofen, ett antiinflammatoriskt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns registrerad i de svenska godkännandena. Enligt kunskapsgrafen: reumatoid artrit, artros, juvenil idiopatisk artrit, spondyloartropati m.fl. |
-| Förutsagd ny indikation | Ankyloserande spondylit (rank 9 i modellens lista) |
-| TxGNN-förutsägelsepoäng | 99,7 % |
-| Evidensnivå | L4 (endast indirekta översiktsartiklar, inga kliniska prövningar). För övriga förutsägelser: L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 5 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Brakydaktyli-syndaktylisyndrom (brachydactyly-syndactyly syndrome) |
+| TxGNN-förutsägelsepoäng | 0,9987 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
+| Antal godkännanden | 5 (giltiga: 5) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Baserat på känd information är dexibuprofen den aktiva S-enantiomeren av ibuprofen och hämmar cyklooxygenas (COX), vilket minskar bildningen av prostaglandiner som driver inflammation och smärta.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Dexibuprofen är den aktiva enantiomeren av ibuprofen och tillhör gruppen NSAID, vars kända effekt är hämning av cyklooxygenas med smärtlindrande och antiinflammatorisk verkan.
 
-NSAID är förstahandsbehandling vid ankyloserande spondylit, där prostaglandinmedierad inflammation i ryggraden och sacroiliacaleden är ett centralt behandlingsmål. Spondyloartropati finns dessutom redan bland dexibuprofens ursprungliga indikationer i kunskapsgrafen, så sambandet mellan gammal och ny indikation är nära.
+Brakydaktyli-syndaktylisyndrom är ett sällsynt, medfött och genetiskt betingat missbildningssyndrom i skelettet. Något mekanistiskt samband med COX-hämning har inte kunnat fastställas. Sjukdomen orsakas av en utvecklingsstörning, och en antiinflammatorisk substans förväntas inte påverka den underliggande orsaken.
 
-Det är dock viktigt att se att detta är ett **symtomlindrande** resonemang. De tre publikationerna är allmänna översikter över dexibuprofens kliniska data, en omvärdering av äldre randomiserade studier (bland annat vid ankyloserande spondylit, reumatoid artrit och artros) samt en översikt om läkemedelsleverans av NSAID vid artrit. Ingen av dem är en studie specifikt utformad för ankyloserande spondylit.
+Den höga poängen speglar sannolikt en modellmässig närhet till muskuloskeletala sjukdomar snarare än en känd biologisk koppling. Förutsägelsen bör därför betraktas som mycket osäker.
 
 ---
 
@@ -78,33 +76,27 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Litteraturbevis
 
-| PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|-----|------|------|---------|
-| [9013382](https://pubmed.ncbi.nlm.nih.gov/9013382/) | 1996 | Översikt | Journal of Clinical Pharmacology | Omvärdering av dubbelblinda, randomiserade studier av dexibuprofen (Seractil) vid bland annat ländryggssyndrom, reumatoid artrit, ankelstukning, gonartros, ankyloserande spondylit och aktiverad koxartros. Effekt och säkerhet jämfördes med standardiserade mått. |
-| [11771569](https://pubmed.ncbi.nlm.nih.gov/11771569/) | 2001 | Översikt | Clinical Rheumatology | Sammanställning av åtta kliniska prövningar (1 463 patienter), säkerhetsstudier efter marknadsintroduktion samt en metaanalys av tolerabilitet. Behandlar dosering, farmakokinetik och compliance. |
-| [21175420](https://pubmed.ncbi.nlm.nih.gov/21175420/) | 2010 | Översikt | Critical Reviews in Therapeutic Drug Carrier Systems | Översikt om mikroinkapsling som läkemedelsleveranssystem för NSAID vid artrit, inklusive ankyloserande spondylit. Ger endast bakgrund, inte direkta effektdata. |
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
 ### Marknadsinformation Sverige
 
+Enligt de sammanställda uppgifterna är marknadsstatus i Sverige "Marknadsförd". Totalt finns 5 godkännanden registrerade för enkomponentsprodukter i form av filmdragerade tabletter (oral beredning).
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 58385 | Dexibuprofen Strides | Filmdragerad tablett | Ej angiven (indraget) |
-| 58384 | Dexibuprofen Strides | Filmdragerad tablett | Ej angiven (indraget) |
-| 16317 | Tradil | Filmdragerad tablett | Ej angiven (indraget) |
-| 16318 | Tradil | Filmdragerad tablett | Ej angiven (indraget) |
-| 58386 | Dexibuprofen Strides | Filmdragerad tablett | Ej angiven (indraget) |
-
-Alla fem godkännanden är indragna, och det finns för närvarande inget giltigt godkännande i Sverige.
+| 58385 | Dexibuprofen Strides | Filmdragerad tablett | Ingen indikationstext registrerad |
+| 58384 | Dexibuprofen Strides | Filmdragerad tablett | Ingen indikationstext registrerad |
+| 16317 | Tradil | Filmdragerad tablett | Ingen indikationstext registrerad |
+| 16318 | Tradil | Filmdragerad tablett | Ingen indikationstext registrerad |
+| 58386 | Dexibuprofen Strides | Filmdragerad tablett | Ingen indikationstext registrerad |
 
 ---
 
 ### Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation. Den säkerhetsinformation som behövs för en första säkerhetsbedömning (varningar och kontraindikationer från produktresumén) kunde inte hämtas och behöver kompletteras. Inga läkemedelsinteraktioner hittades i det sammanställda underlaget.
-
-Som NSAID är dexibuprofen generellt förknippat med klassrelaterade risker (mag-tarmblödning, hjärt-kärl- och njurpåverkan), men dessa uppgifter bör verifieras mot produktresumén innan något beslut fattas.
+Se produktresumén för säkerhetsinformation. Inga läkemedelsinteraktioner hittades i de sammanställda uppgifterna.
 
 ---
 
@@ -113,13 +105,13 @@ Som NSAID är dexibuprofen generellt förknippat med klassrelaterade risker (mag
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den enda förutsägelsen med rimlig mekanism, ankyloserande spondylit, stöds enbart av indirekta översiktsartiklar och saknar kliniska prövningar. Dessutom är alla svenska godkännanden indragna, vilket försvårar praktisk utveckling. De övriga nio förutsägelserna (t.ex. sällsynta skelettdysplasier och WHIM-syndrom) saknar både evidens och biologisk koppling och bör inte prioriteras.
+- Förutsägelsen bygger enbart på en modellberäkning (evidensnivå L5) utan kliniska prövningar eller publikationer, och något plausibelt mekanistiskt samband mellan COX-hämning och en genetiskt betingad skelettmissbildning har inte kunnat visas.
 
 **För att gå vidare krävs:**
-- Hämta och granska varningar och kontraindikationer från produktresumén (blockerande dataglapp).
-- Komplettera verkningsmekanismdata från DrugBank.
-- Genomföra en riktad litteratursökning efter kontrollerade studier av dexibuprofen vid ankyloserande spondylit, och jämföra med ibuprofen och andra NSAID som redan har dokumenterad effekt vid sjukdomen.
-- Klargöra om en ny ansökan om godkännande är kommersiellt och regulatoriskt realistisk, eftersom inga giltiga godkännanden finns i Sverige.
+- Dokumenterad verkningsmekanism för dexibuprofen i det underlag som sammanställts
+- Prekliniska data eller publicerad litteratur som direkt studerar sjukdomen
+- Granskning av produktresumé avseende varningar och kontraindikationer
+- Klinisk motivering till varför symtomlindring med NSAID skulle vara relevant för sjukdomen
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

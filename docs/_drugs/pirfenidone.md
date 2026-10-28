@@ -6,9 +6,9 @@ nav_order: 354
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Pirfenidone: predikterad ny indikation Fibroblastneoplasm (evidensnivå L5). Ursprunglig indikation: Idiopatisk lungfibros (godkänd indikationstext saknas i svenska godkä…"
 monitor_inn: "pirfenidone"
 predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protuberans", "aggressive systemic mastocytosis", "heart fibrosarcoma", "conventional fibrosarcoma", "autosomal recessive familial Mediterranean fever", "kidney fibrosarcoma", "hepatic infarction", "fibroblastic neoplasm", "low grade fibromyxoid sarcoma"]
+description: "Pirfenidone: predikterad ny indikation Extracutaneous mastocytoma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Pirfenidone
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Pirfenidon: Från idiopatisk lungfibros till fibroblastneoplasm
+## Pirfenidone: Extracutaneous mastocytoma
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Pirfenidon är ett antifibrotiskt läkemedel som ursprungligen användes för att behandla idiopatisk lungfibros och andra idiopatiska interstitiella lungsjukdomar. TxGNN-modellen förutsäger att det kan vara effektivt mot **fibroblastneoplasm** (poäng 99,2 %), men denna förutsägelse bygger enbart på en grafbaserad modell. Evidensen är mycket begränsad: **inga kliniska prövningar** och **6 publikationer**, varav de flesta är laboratoriestudier eller fallrapporter, och två av dem pekar mot ett möjligt säkerhetssignal.
+Pirfenidon är ett antifibrotiskt läkemedel som ursprungligen användes för att behandla idiopatisk lungfibros och andra idiopatiska interstitiella lungsjukdomar. Evidensen är mycket begränsad: **inga kliniska prövningar** och **6 publikationer**, varav de flesta är laboratoriestudier eller fallrapporter, och två av dem pekar mot ett möjligt säkerhetssignal.
 
 Den förutsägelse som rankas högst av modellen är extrakutant mastocytom (99,7 %), men för den finns varken prövningar eller litteratur. Rapporten fokuserar därför på fibroblastneoplasm, den enda förutsagda indikationen med publicerad evidens.
 
@@ -50,12 +50,12 @@ Den förutsägelse som rankas högst av modellen är extrakutant mastocytom (99,
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Idiopatisk lungfibros (godkänd indikationstext saknas i svenska godkännanden; uppgiften kommer från kunskapsgrafen) |
-| Förutsagd ny indikation | Fibroblastneoplasm (högst rankade förutsägelse: extrakutant mastocytom) |
-| TxGNN-förutsägelsepoäng | 99,2 % (fibroblastneoplasm); 99,7 % (extrakutant mastocytom) |
-| Evidensnivå | L4 (fibroblastneoplasm); L5 för övriga förutsagda indikationer |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 19 (samtliga indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Extracutaneous mastocytoma |
+| TxGNN-förutsägelsepoäng | 0.9971 |
+| Evidensnivå | L5 (fibroblastneoplasm); L5 för övriga förutsagda indikationer |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 19 av 19) |
+| Antal godkännanden | 19 (giltiga: 19) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -91,7 +91,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga 19 godkännanden är indragna och inga är giltiga för närvarande. Godkänd indikationstext finns inte angiven i de sammanställda uppgifterna. Samtliga produkter är filmdragerade tabletter (oral beredning).
+Godkänd indikationstext finns inte angiven i de sammanställda uppgifterna. Samtliga produkter är filmdragerade tabletter (oral beredning).
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

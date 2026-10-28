@@ -4,17 +4,17 @@ title: Sulfasalazine
 parent: Endast modellprediktion (L5)
 nav_order: 404
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Sulfasalazine: predikterad ny indikation Artros (evidensnivå L5). Ursprunglig indikation: Reumatoid artrit (enligt kunskapsgrafen"
 monitor_inn: "sulfasalazine"
-predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "osteoarthritis susceptibility", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "spondyloarthropathy, susceptibility to", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
+description: "Sulfasalazine: predikterad ny indikation Brachydactyly-syndactyly syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Sulfasalazine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Sulfasalazin medac: Från reumatoid artrit till artros
+## Sulfasalazine: Brachydactyly-syndactyly syndrome
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Sulfasalazin är ett antiinflammatoriskt läkemedel som ursprungligen användes vid reumatoid artrit, ulcerös kolit, inflammatorisk tarmsjukdom, juvenil idiopatisk artrit och spondyloartropati. TxGNN-modellen förutsäger att det kan vara effektivt mot **artros** (poäng 99,6 %). Det finns **inga kliniska prövningar** och endast **prekliniska studier** i litteraturen som stöder denna riktning.
+Sulfasalazin är ett antiinflammatoriskt läkemedel som ursprungligen användes vid reumatoid artrit, ulcerös kolit, inflammatorisk tarmsjukdom, juvenil idiopatisk artrit och spondyloartropati. Det finns **inga kliniska prövningar** och endast **prekliniska studier** i litteraturen som stöder denna riktning.
 
 Obs: Den högst rankade förutsägelsen (brakydaktyli-syndaktyli-syndrom) saknar helt stöd i data. Rapporten fokuserar därför på artros, den högst rankade förutsägelsen med faktisk litteratur och en rimlig biologisk koppling.
 
@@ -50,12 +50,12 @@ Obs: Den högst rankade förutsägelsen (brakydaktyli-syndaktyli-syndrom) saknar
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Reumatoid artrit (enligt kunskapsgrafen; ingen indikationstext finns i de svenska godkännandena) |
-| Förutsagd ny indikation | Artros |
-| TxGNN-förutsägelsepoäng | 99,6 % |
-| Evidensnivå | L4 (endast prekliniska studier) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 5 (samtliga avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Brachydactyly-syndactyly syndrome |
+| TxGNN-förutsägelsepoäng | 0.9994 |
+| Evidensnivå | L5 (endast prekliniska studier) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
+| Antal godkännanden | 5 (giltiga: 5) |
 | Rekommenderat beslut | Avvakta |
 
 ---

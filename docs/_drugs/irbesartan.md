@@ -4,17 +4,17 @@ title: Irbesartan
 parent: Endast modellprediktion (L5)
 nav_order: 234
 evidence_level: L5
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Irbesartan: predikterad ny indikation Malign hypertensiv njursjukdom (evidensnivå L5). Ursprunglig indikation: Hypertoni, högt blodtryck och diabetesnefropati"
 monitor_inn: "IRBESARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
+description: "Irbesartan: predikterad ny indikation Malign hypertensiv njursjukdom (malignant hypertensive renal disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Irbesartan
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **4** st
+Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 </div>
 
-## Irbesartan: Från hypertoni och diabetesnefropati till malign hypertensiv njursjukdom
+## Irbesartan: Malign hypertensiv njursjukdom (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Irbesartan är en angiotensin II-receptorblockerare (AT1) som ursprungligen anv�
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Hypertoni, högt blodtryck och diabetesnefropati (enligt kunskapsgrafen; godkännandetexter i den svenska registerdatan saknas) |
-| Förutsagd ny indikation | Malign hypertensiv njursjukdom |
-| TxGNN-förutsägelsepoäng | 99,3 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Malign hypertensiv njursjukdom (malignant hypertensive renal disease) |
+| TxGNN-förutsägelsepoäng | 0.9931 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 15 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 15 av 15) |
+| Antal godkännanden | 15 (giltiga: 15) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,14 +62,13 @@ Irbesartan är en angiotensin II-receptorblockerare (AT1) som ursprungligen anv�
 
 Någon detaljerad verkningsmekanismdata finns för närvarande inte tillgänglig. Baserat på känd information är irbesartan en AT1-receptorblockerare. Dess effekt vid hypertoni och diabetesnefropati är väl belagd, och mekanistiskt kan blockad av renin-angiotensinsystemet vara tillämpbar även vid hypertensiv njurskada.
 
-Sambandet mellan den ursprungliga och den nya indikationen är nära. Malign hypertensiv njursjukdom är en allvarlig njurskada orsakad av mycket högt blodtryck, och renin-angiotensinsystemet spelar en central roll. Den höga poängen (0,993) beror sannolikt på att modellen följer kopplingar via hypertoninoder i kunskapsgrafen.
+Sambandet mellan den ursprungliga och den nya indikationen är nära. Malign hypertensiv njursjukdom är en allvarlig njurskada orsakad av mycket högt blodtryck, och renin-angiotensinsystemet spelar en central roll.
 
 Det finns dock viktiga förbehåll. Malign hypertoni är ett akut tillstånd där ARB-läkemedel normalt inte är förstahandsbehandling. Förutsägelsen tillför därför litet nytt jämfört med de befintliga indikationerna.
 
 **Andra förutsägelser i modellen:**
-- **Malign renovaskulär hypertoni** (poäng 99,3 %, L5): Mekanismen är rimlig, men ARB kan försämra njurfunktionen akut vid dubbelsidig njurartärstenos eller stenos i en solitär njure, vilket är en betydande säkerhetsrisk. Inga studier finns.
-- **Pulmonell hypertension med oklar multifaktoriell mekanism** (poäng 99,3 %, L5): Angiotensin II bidrar till kärlombyggnad i prekliniska modeller, men kopplingen är obevisad och sjukdomsgruppen är heterogen.
-- **Pulmonell hypertension orsakad av lungsjukdom och/eller hypoxi** (poäng 99,3 %, L4): Se litteraturavsnittet nedan. Detta är den förutsägelse som har mest underlag, men underlaget är indirekt och prekliniskt.
+- Inga studier finns.
+- Detta är den förutsägelse som har mest underlag, men underlaget är indirekt och prekliniskt.
 
 ---
 
@@ -156,7 +155,6 @@ Se produktresumén för fullständig information om varningar och försiktighets
 - Komplettera verkningsmekanismdata från DrugBank.
 - Genomföra en litteratur- och prövningssökning specifikt för malign hypertensiv njursjukdom för att bedöma om någon ny signal finns.
 - Utföra prekliniska studier med lungkärlsspecifika mått för hypoxirelaterad pulmonell hypertension, följt av en säkerhets- och genomförbarhetsbedömning (med särskild uppmärksamhet på hypotension, njurfunktion och kaliumnivåer).
-- Notera att alla svenska godkännanden är avregistrerade, vilket påverkar möjligheten till praktisk användning och måste utredas.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

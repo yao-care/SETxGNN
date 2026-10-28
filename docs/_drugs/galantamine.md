@@ -6,9 +6,9 @@ nav_order: 212
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Galantamine: predikterad ny indikation Psykogena rörelsestörningar (rang 1) (evidensnivå L5). Ursprunglig indikation: Alzheimers sjukdom (enligt kunskapsgrafen"
 monitor_inn: "galantamine"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "acute intermittent porphyria"]
+description: "Galantamine: predikterad ny indikation Psychogenic movement disorders (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Galantamine
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-## Galantamin: Från Alzheimers sjukdom till extrapyramidala rörelsestörningar
+## Galantamine: Psychogenic movement disorders
 {: .text-alpha }
 
 ---
@@ -50,11 +50,11 @@ Obs: Rapporten följer den högst rankade förutsägelsen (psykogena rörelsest�
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Alzheimers sjukdom (enligt kunskapsgrafen; indikationstext saknas i svenska godkännanden) |
-| Förutsagd ny indikation | Psykogena rörelsestörningar (rang 1) |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Psychogenic movement disorders |
+| TxGNN-förutsägelsepoäng | 0.9990 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
@@ -62,14 +62,13 @@ Obs: Rapporten följer den högst rankade förutsägelsen (psykogena rörelsest�
 
 | Rang | Förutsagd indikation | Poäng | Evidensnivå | Kommentar |
 |------|------|------|------|------|
-| 2 | Kronisk tics | 99,9 % | L5 | Inga studier |
-| 3 | Primär ortostatisk tremor | 99,9 % | L5 | Inga studier |
-| 4 | Godartade skakningsattacker | 99,9 % | L5 | Inga studier, lågt behandlingsbehov |
-| 5 | Extrapyramidala rörelsestörningar | 99,9 % | L4 | 4 publikationer, osäker effektriktning |
-| 6 | Tremor-nystagmus-duodenalsårsyndrom | 99,9 % | L5 | Inga studier, säkerhetsrisk |
-| 7 | Lingual-facial-buckal dyskinesi (tardiv dyskinesi) | 99,9 % | L4 | 22 publikationer, mest indirekt evidens |
-| 8 | Godartad paroxysmal tonisk uppåtblick hos barn med ataxi | 99,9 % | L5 | Inga studier |
-| 9 | Akut intermittent porfyri | 99,7 % | L5 | Inga studier |
+| 2 | Kronisk tics | 0,9990 | L5 | Inga studier |
+| 3 | Primär ortostatisk tremor | 0,9990 | L5 | Inga studier |
+| 4 | Godartade skakningsattacker | 0,9990 | L5 | Inga studier, lågt behandlingsbehov |
+| 5 | Extrapyramidala rörelsestörningar | 0,9990 | L5 | 4 publikationer, osäker effektriktning |
+| 6 | Tremor-nystagmus-duodenalsårsyndrom | 0,9990 | L5 | Inga studier, säkerhetsrisk |
+| 7 | Lingual-facial-buckal dyskinesi (tardiv dyskinesi) | 0,9990 | L5 | 22 publikationer, mest indirekt evidens |
+| 8 | Godartad paroxysmal tonisk uppåtblick hos barn med ataxi | 0,9990 | L5 | Inga studier |
 
 ---
 

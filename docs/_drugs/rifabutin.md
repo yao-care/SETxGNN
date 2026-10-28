@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Rifabutin
-parent: Endast modellprediktion (L5)
+parent: Hög evidens (L1-L2)
 nav_order: 377
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Rifabutin: predikterad ny indikation HIV-sjukdom (HIV infectious disease) (evidensnivå L5). Ursprunglig indikation: Ej angiven i godkännandet (indikationstexten saknas)"
@@ -14,7 +14,7 @@ predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia"
 # Rifabutin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L1** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Rifabutin: Från mykobakteriell infektion (ursprunglig indikation ej angiven i godkännandet) till HIV-relaterad sjukdom
+## Rifabutin: Från mykobakteriell infektion (ursprunglig indikation ej angiven i godkännandet) till HIV-sjukdom
 {: .text-alpha }
 
 ---
@@ -50,10 +50,10 @@ Rifabutin är ett antibiotikum mot mykobakterier (rifamycinklass). Det är ett l
 |------|------|
 | Ursprunglig indikation | Ej angiven i godkännandet (indikationstexten saknas) |
 | Förutsagd ny indikation | HIV-sjukdom (HIV infectious disease) |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| TxGNN-förutsägelsepoäng | 0,9988 |
 | Evidensnivå | L1 (flera avslutade fas 3-prövningar av MAC-behandling och MAC-profylax hos patienter med HIV/AIDS) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -110,7 +110,7 @@ Flera ytterligare prövningar gäller läkemedelsinteraktioner mellan rifabutin 
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 11962 | Ansatipin (Pfizer AB) | Kapsel, hård | Ej angiven (status: avregistrerad) |
+| 11962 | Ansatipin (Pfizer AB) | Kapsel, hård | Ej angiven (status: godkänd) |
 
 ---
 

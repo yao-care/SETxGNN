@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 49
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Aztreonam: predikterad ny indikation Hyperamylasemi (evidensnivå L5). Ursprunglig indikation: Urinvägsinfektion (enligt kunskapsgrafen"
 monitor_inn: "AZTREONAM"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "Ureaplasma urethritis", "gonococcal urethritis", "blood group incompatibility", "premalignant hematological system disease", "epiglottitis", "monoclonal gammopathy", "xanthogranulomatous pyelonephritis"]
+last_modified_at: 2026-10-27
+description: "Aztreonam: predikterad ny indikation Hyperamylasemi (hyperamylasemia) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Aztreonam
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Aztreonam: Från urinvägsinfektion till hyperamylasemi
+## Aztreonam: monobaktam-antibiotikum → Hyperamylasemi (hyperamylasemia)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Aztreonam är ett antibiotikum av monobaktamtyp som ursprungligen används mot gramnegativa bakterieinfektioner, bland annat urinvägsinfektion, bukhinneinflammation (peritonit) och infektioner orsakade av *Pseudomonas aeruginosa* och *E. coli*. TxGNN-modellen förutsäger att det kan vara effektivt mot **hyperamylasemi** med en mycket hög poäng (99,7 %). Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder detta, och förutsägelsen saknar rimlig biologisk förklaring.
+Aztreonam är ett antibiotikum av monobaktamtyp som verkar mot gramnegativa bakterier. TxGNN-modellen förutsäger att det kan vara effektivt mot **hyperamylasemi (hyperamylasemia)**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna riktning. Förutsägelsen är enbart beräkningsbaserad.
 
 ---
 
@@ -48,23 +48,23 @@ Aztreonam är ett antibiotikum av monobaktamtyp som ursprungligen används mot g
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Urinvägsinfektion (enligt kunskapsgrafen; godkännandetexten för den svenska produkten är tom) |
-| Förutsagd ny indikation | Hyperamylasemi |
-| TxGNN-förutsägelsepoäng | 99,7 % |
-| Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 1 (avregistrerat) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Hyperamylasemi (hyperamylasemia) |
+| TxGNN-förutsägelsepoäng | 0,9973 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Baserat på känd information är aztreonam ett monobaktamantibiotikum som hämmar bakteriers cellväggssyntes genom att binda till penicillinbindande protein 3 (PBP3) hos gramnegativa bakterier. Effekten vid infektioner som urinvägsinfektion är väl belagd.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Aztreonam är känt som ett monobaktam som hämmar bakteriell cellväggssyntes genom bindning till penicillinbindande protein 3 (PBP3) hos gramnegativa bakterier.
 
-Hyperamylasemi är dock ett laboratoriefynd, förhöjt amylas i blodet, och inte en infektionssjukdom. Ett antibakteriellt medel har ingen känd verkan på tillståndet. Mekanistiskt finns därför **ingen trolig koppling** mellan aztreonams verkan och den förutsagda indikationen.
+Hyperamylasemi är dock ett laboratoriefynd, inte en infektionssjukdom. Någon rimlig mekanistisk koppling mellan ett antibakteriellt medel och förhöjt amylas har inte kunnat identifieras. Den höga poängen (0,9973) bedöms vara en artefakt av modellens beräkningsmetod och saknar stöd i kliniska data eller litteratur.
 
-Den höga poängen beror sannolikt på ett grafbaserat artefaktmönster i modellen och inte på verklig biologisk eller klinisk grund. Det är därför säkrast att betrakta förutsägelsen som ett falskt positivt resultat tills motsatsen visats.
+Förutsägelsen bör därför betraktas som ett hypotesgenererande resultat med mycket låg biologisk trovärdighet, inte som ett underbyggt återanvändningsförslag.
 
 ---
 
@@ -84,23 +84,20 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 10284 (avregistrerat) | Azactam (Laboratoires Delbert) | Pulver till injektions-/infusionsvätska, lösning | – |
-
-Det enda godkännandet i Sverige är avregistrerat, så det finns för närvarande inget giltigt godkännande för aztreonam.
+| 10284 | Azactam | Pulver till injektions-/infusionsvätska, lösning | Indikationstext ej registrerad i lokala data |
 
 ---
 
 ### Säkerhetsaspekter
 
-- **Tillstånd där läkemedlet enligt kunskapsgrafen är kontraindicerat** (härlett från relationer mellan läkemedel och sjukdomar, inte från produkttext): njursjukdom, pyouretär (var i urinledaren), leversjukdom, gallblåsesjukdom, *Clostridium difficile*-kolit, perinatal nekrotiserande enterokolit och bronkial sjukdom.
-- **Läkemedelsinteraktioner** (27 interaktioner identifierade). De som bedömts som måttliga:
-  - Pikosulfat
+- **Läkemedelsinteraktioner**: Totalt 27 interaktioner har identifierats. De som är klassade som måttliga är:
+  - Pikosulfat (picosulfuric acid)
   - Dikumarol
   - Warfarin
 
-  Bland övriga interaktioner, där allvarlighetsgraden inte är fastställd, finns vankomycin, amikacin, heparin, takrolimus, amfotericin B, acetylsalicylsyra, metronidazol, flukonazol, aciklovir, morfin, hydrokortison, dexametason, ondansetron, salbutamol samt protonpumpshämmarna omeprazol, pantoprazol och lansoprazol. Särskild uppmärksamhet bör ägnas åt blödningsrisk och förändrad antikoagulationseffekt vid samtidig behandling med warfarin eller dikumarol.
+  Ytterligare interaktioner finns med bland annat vankomycin, amikacin, amfotericin B, takrolimus, metronidazol och heparin, men för dessa är allvarlighetsgraden inte klassificerad.
 
-Se produktresumén för fullständiga varningar och kontraindikationer.
+Se i övrigt produktresumén för information om varningar och kontraindikationer.
 
 ---
 
@@ -109,13 +106,12 @@ Se produktresumén för fullständiga varningar och kontraindikationer.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen om hyperamylasemi stöds varken av kliniska prövningar eller litteratur och saknar biologisk rimlighet. Aztreonam är dessutom för närvarande inte marknadsfört med giltigt godkännande i Sverige.
+- Förutsägelsen saknar både mekanistiskt stöd och kliniska eller litterära belägg. Hyperamylasemi är ett laboratoriefynd som inte är rimligt att behandla med ett antibiotikum.
 
 **För att gå vidare krävs:**
-- Ett tydligt mekanistiskt eller kliniskt argument för varför ett antibiotikum skulle påverka amylasnivåer. Utan det bör spåret inte prioriteras.
-- Kompletterande data om verkningsmekanism och godkänd produktinformation (varningar och kontraindikationer) från Läkemedelsverket.
-- En systematisk litteratursökning som kan bekräfta att evidens saknas.
-- Bland de tio högst rankade förutsägelserna är **gonokockuretrit** (gonorré) den bäst underbyggda (evidensnivå L3). Den bygger på flera enkeldosstudier från 1980-talet och en öppen enarmad studie från 2020. Det finns även en rapport om uppkomst av aztreonamresistenta stammar. Det är en mer realistisk kandidat för fortsatt utvärdering, men kräver jämförande data.
+- En trovärdig mekanistisk hypotes för hur aztreonam skulle kunna påverka amylasnivåer
+- Prekliniska eller kliniska studier som direkt undersöker aztreonam vid hyperamylasemi
+- Hämtning av produktresumé för att komplettera säkerhetsdata
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

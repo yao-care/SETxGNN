@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Thiamine
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 422
-evidence_level: L3
-indication_count: 4
-last_modified_at: 2026-10-15
-description: "Thiamine: predikterad ny indikation Hypertyreos (evidensnivå L3). Ursprunglig indikation: Ingen indikationstext finns registrerad i godkännandedata"
+evidence_level: L5
+indication_count: 3
 monitor_inn: "thiamine"
-predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
+predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "primary hereditary glaucoma", "open-angle glaucoma"]
+last_modified_at: 2026-10-23
+description: "Thiamine: predikterad ny indikation Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Thiamine
 {: .fs-9 }
 
-Evidensnivå: **L3** | Förutsagda indikationer: **4** st
+Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,14 @@ Evidensnivå: **L3** | Förutsagda indikationer: **4** st
 
 </div>
 
-## Tiamin: Från ospecificerad indikation till hypertyreos
+## Thiamine: Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta
 {: .text-alpha }
+
+---
 
 ## Sammanfattning
 
-Tiamin (vitamin B1) har godkännanden i Sverige som injektions- och infusionsläkemedel, men inga godkända indikationstexter finns i de data som sammanställts för denna rapport. TxGNN-modellen förutsäger att tiamin kan vara användbart vid **hypertyreos**, främst som stödjande behandling vid tiaminbrist som följd av sjukdomen. Underlaget består av **1 klinisk prövning** (12 deltagare) och **19 publikationer**, varav de flesta är fallrapporter.
+Tiamin (vitamin B1) är marknadsfört i Sverige som injektions- och infusionsvätska. De sammanställda uppgifterna innehåller ingen godkänd indikationstext för preparaten. TxGNN-modellen förutsäger att tiamin kan vara effektivt mot **resistens mot tyroideahormon orsakad av mutation i tyroideahormonreceptor beta**, med en mycket hög modellpoäng. Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder förutsägelsen, så den är endast en datorbaserad modellutsaga.
 
 ---
 
@@ -46,70 +48,51 @@ Tiamin (vitamin B1) har godkännanden i Sverige som injektions- och infusionslä
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns registrerad i godkännandedata |
-| Förutsagd ny indikation | Hypertyreos |
-| TxGNN-förutsägelsepoäng | 99,4 % |
-| Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
-| Antal godkännanden | 13 |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta |
+| TxGNN-förutsägelsepoäng | 0.9943 |
+| Evidensnivå | L5 (endast modellförutsägelse) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 13 av 13) |
+| Antal godkännanden | 13 (giltiga: 13) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Tiamin är dock ett essentiellt vitamin som behövs för kroppens energiomsättning, och brist på det kan ge allvarliga hjärt- och nervskador.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Tiamin är allmänt känt som en kofaktor i kolhydrat- och energimetabolismen, bland annat för pyruvatdehydrogenas, transketolas och alfa-ketoglutaratdehydrogenas.
 
-Vid hypertyreos är ämnesomsättningen kraftigt förhöjd, vilket ökar förbrukningen av tiamin. Det kan leda till relativ tiaminbrist. Litteraturen beskriver två typer av komplikationer: hjärtsvikt med högt flöde (liknande beriberi) och Wernickes encefalopati. Den senare ses särskilt vid svåra graviditetsillamåenden (hyperemesis gravidarum) eller efter obesitaskirurgi.
-
-Tiamin skulle därför inte verka som ett sköldkörtelhämmande läkemedel och påverkar inte själva sjukdomen. Det skulle snarare användas som stödjande behandling för att förebygga eller behandla brist-relaterade komplikationer i hjärta och nervsystem.
+Något tydligt mekanistiskt samband med den förutsagda sjukdomen har inte kunnat fastställas. Resistens mot tyroideahormon är en monogen receptorsjukdom, där en mutation i tyroideahormonreceptor beta försämrar kroppens svar på hormonet. Tiamin har ingen känd direkt påverkan på denna signalväg, och en vitaminkofaktor förväntas knappast korrigera ett receptordefekt.
 
 ---
 
 ## Kliniska prövningar
 
-| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
-|---------|------|------|------|---------|
-| [NCT02767245](https://clinicaltrials.gov/study/NCT02767245) | Ej tillämpbar | Avslutad | 12 | Pilotstudie om förekomst av tiaminbrist vid svår hypertyreos och om tiamintillskott förbättrar hjärtfunktionen. Inga resultat redovisas i underlaget. |
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
 ## Litteraturbevis
 
-Ingen randomiserad studie finns. Underlaget utgörs av översikter, fallrapporter och äldre fysiologiska studier. Studier där abstract saknas eller som saknar direkt koppling till tiaminbehandling är utelämnade.
-
-| PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|-----|------|------|---------|
-| [26567494](https://pubmed.ncbi.nlm.nih.gov/26567494/) | 2015 | Översikt/fallrapport | Critical Care Nursing Clinics of North America | Beskriver hjärtsvikt med högt flöde orsakad av tyreotoxikos och beriberi (svår tiaminbrist). |
-| [7919625](https://pubmed.ncbi.nlm.nih.gov/7919625/) | 1994 | Fallrapport | Internal Medicine | Pulmonell hypertoni vid hjärtsvikt med högt flöde: förbättring efter antityreoidbehandling vid hypertyreos och efter tiamin vid hjärtberiberi. |
-| [18026802](https://pubmed.ncbi.nlm.nih.gov/18026802/) | 2008 | Fallrapport | Journal of General Internal Medicine | Wernickes encefalopati i samband med tyreotoxikos. |
-| [32934066](https://pubmed.ncbi.nlm.nih.gov/32934066/) | 2020 | Fallrapport | Clinical Medicine | Gravid kvinna med hyperemesis och tyreotoxikos som utvecklade Wernickes encefalopati. |
-| [32983708](https://pubmed.ncbi.nlm.nih.gov/32983708/) | 2020 | Fallrapport | Cureus | Wernickes encefalopati vid övergående graviditetshypertyreos och hyperemesis. |
-| [34995426](https://pubmed.ncbi.nlm.nih.gov/34995426/) | 2021 | Fallrapport | South Dakota Medicine | Synstörningar hos patient med Graves sjukdom efter sleeve-gastrektomi, orsakade av Wernickes encefalopati. |
-| [36593922](https://pubmed.ncbi.nlm.nih.gov/36593922/) | 2023 | Fallrapport | Radiology Case Reports | Ovanlig presentation av Wernicke-Korsakoffs syndrom hos gravid kvinna med hypertyreos. |
-| [36176825](https://pubmed.ncbi.nlm.nih.gov/36176825/) | 2022 | Fallrapport | Cureus | Wernickes encefalopati som ovanlig följd av hypertyreos. |
-| [7416185](https://pubmed.ncbi.nlm.nih.gov/7416185/) | 1980 | Fallserie | The American Journal of Medicine | 23 japanska patienter med beriberihjärtsjukdom orsakad av relativ tiaminbrist. Studien rör inte hypertyreos direkt. |
-| [27845881](https://pubmed.ncbi.nlm.nih.gov/27845881/) | 2016 | Fallrapport | Hormone Molecular Biology and Clinical Investigation | Wernickes encefalopati vid tyreotoxikos under graviditet. Snabb tiamintillförsel lyfts fram som avgörande. |
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
 ## Marknadsinformation Sverige
 
-Alla 13 godkännanden är återkallade, och ingen godkänd indikationstext finns registrerad. Fem av dem visas här.
+Totalt 13 giltiga godkännanden för enkomponentsprodukter, inga avregistrerade eller ej marknadsförda. Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 57646 | Thiamine Sterop | Injektionsvätska, lösning | Ej angiven |
-| 65471 | Bevione | Injektionsvätska, lösning | Ej angiven |
-| 64052 | Thiatum | Injektionsvätska, lösning | Ej angiven |
-| 65508 | Thiamine Kabi | Injektions-/infusionsvätska, lösning | Ej angiven |
-| 56261 | Viant | Pulver till infusionsvätska, lösning | Ej angiven |
+| 57646 | Thiamine Sterop (Laboratoires Sterop NV) | Injektionsvätska, lösning | Ingen indikationstext angiven |
+| 65471 | Bevione (Orifarm Healthcare A/S) | Injektionsvätska, lösning | Ingen indikationstext angiven |
+| 64052 | Thiatum (Life Medical ApS) | Injektionsvätska, lösning | Ingen indikationstext angiven |
+| 65508 | Thiamine Kabi (Fresenius Kabi AB) | Injektions-/infusionsvätska, lösning | Ingen indikationstext angiven |
+| 56261 | Viant (B. Braun Melsungen AG) | Pulver till infusionsvätska, lösning | Ingen indikationstext angiven |
 
 ---
 
 ## Säkerhetsaspekter
-
-Inga säkerhetsdata fanns tillgängliga i underlaget, och inga läkemedelsinteraktioner hittades.
 
 Se produktresumén för säkerhetsinformation.
 
@@ -120,13 +103,14 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen är biologiskt rimlig men gäller stödjande behandling av tiaminbrist, inte själva hypertyreosen. Underlaget består av en mycket liten pilotstudie och fallrapporter. Dessutom saknar tiamin för närvarande giltiga godkännanden i Sverige.
+- Förutsägelsen saknar helt stöd i kliniska prövningar och litteratur, och något tydligt mekanistiskt samband finns inte. Evidensnivån är därför L5.
+- Modellen förutsäger även två glaukomindikationer (primärt ärftligt glaukom och öppenvinkelglaukom). Dessa har likaså svagt stöd: för öppenvinkelglaukom finns endast observationsstudier om näringsintag och tiaminnivåer i blodet, och ingen studie har prövat tiamin som behandling.
 
 **För att gå vidare krävs:**
-- Resultat från pilotstudien NCT02767245 eller en större kontrollerad studie som visar nytta av tiamin vid hypertyreos.
-- Kartläggning av hur vanlig tiaminbrist är hos patienter med svår hypertyreos, särskilt vid graviditetsillamående eller efter obesitaskirurgi.
-- Säkerhetsinformation och verkningsmekanism från produktresumé och DrugBank.
-- Klargörande av regulatorisk status, eftersom alla godkännanden är återkallade.
+- Ett dokumenterat mekanistiskt samband mellan tiamin och tyroideahormonreceptor beta-signalering, till exempel genom prekliniska studier.
+- Verkningsmekanismen för tiamin från DrugBank, så att den mekanistiska analysen kan fördjupas.
+- Säkerhetsuppgifter (varningar och kontraindikationer) från produktresumén på Läkemedelsverkets webbplats.
+- Kliniska eller prekliniska studier som direkt undersöker tiamin vid den förutsagda sjukdomen innan vidare utvärdering.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

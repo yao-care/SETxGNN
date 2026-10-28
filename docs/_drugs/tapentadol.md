@@ -4,17 +4,17 @@ title: Tapentadol
 parent: Endast modellprediktion (L5)
 nav_order: 411
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Tapentadol: predikterad ny indikation Migränsjukdom (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ej angiven i de sammanställda data (indikationstexten saknas för alla…"
 monitor_inn: "tapentadol"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 ---
 
 # Tapentadol
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **3** st
+Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ Tapentadol är ett opioid smärtstillande läkemedel som i Sverige har marknadsf
 |------|------|
 | Ursprunglig indikation | Ej angiven i de sammanställda data (indikationstexten saknas för alla godkännanden) |
 | Förutsagd ny indikation | Migränsjukdom (migraine disorder) |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| TxGNN-förutsägelsepoäng | 0,9967 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
@@ -62,7 +62,7 @@ Tapentadol är ett opioid smärtstillande läkemedel som i Sverige har marknadsf
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda data. Utifrån allmänt känd information är tapentadol en agonist på my-opioidreceptorn och hämmar samtidigt återupptaget av noradrenalin. Båda mekanismerna påverkar centrala smärtbanor, och det är sannolikt det som ligger bakom modellens höga poäng.
 
-Sambandet mellan den ursprungliga användningen (smärtlindring) och migrän är att båda involverar smärtsignalering i nervsystemet. Därför kan en modell som bygger på kunskapsgrafer koppla ihop dem. Poängen är mycket hög, men den visar främst likhet i grafen och inte faktisk klinisk nytta.
+Sambandet mellan den ursprungliga användningen (smärtlindring) och migrän är att båda involverar smärtsignalering i nervsystemet. Därför kan TxGNN-modellen (djupinlärning) koppla ihop dem. Poängen är mycket hög, men den kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens, och visar därmed inte faktisk klinisk nytta.
 
 Det finns dessutom starka kliniska skäl till försiktighet. Opioider rekommenderas generellt inte vid migrän, eftersom de ger risk för läkemedelsöveranvändningshuvudvärk, förvärrad kronisk migrän och beroende. Mekanismen går därför inte att bekräfta som tillämpbar utifrån de data som finns.
 

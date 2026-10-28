@@ -6,9 +6,9 @@ nav_order: 322
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Nystatin: predikterad ny indikation Vulvovaginit (evidensnivå L3). Ursprunglig indikation: Kutan candidiasis, oral candidiasis, candidiasis…"
 monitor_inn: "NYSTATIN"
 predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
+description: "Nystatin: predikterad ny indikation Vulvovaginitis (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Nystatin
@@ -33,7 +33,7 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Nystatin: Från kutan candidiasis till vulvovaginit
+## Nystatin: Vulvovaginitis
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Nystatin är ett svampmedel (polyen) som ursprungligen används mot candidainfek
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Kutan candidiasis, oral candidiasis, candidiasis, vulvovaginal candidiasis (enligt kunskapsgrafen; godkänd indikationstext saknas i svenska registret) |
-| Förutsagd ny indikation | Vulvovaginit |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Vulvovaginitis |
+| TxGNN-förutsägelsepoäng | 0.9992 |
 | Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 8 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
+| Antal godkännanden | 8 (giltiga: 8) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -126,7 +126,6 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 - Uppgifter om verkningsmekanism från DrugBank.
 - Avgränsning till candidabetingad vulvovaginit, eftersom icke-candidal vulvovaginit inte förväntas svara.
 - Jämförande kliniska data mot azoler om en ny prövning övervägs.
-- Klargörande av regulatorisk status, eftersom inga giltiga godkännanden finns i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ritonavir
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 382
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Ritonavir: predikterad ny indikation Simian immunbristvirusinfektion (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i det svenska godkännandet. E…"
 monitor_inn: "RITONAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Ritonavir: predikterad ny indikation Simian immunbristvirusinfektion (simian immunodeficiency virus infection) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ritonavir
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **3** st
+Evidensnivå: **L4** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Ritonavir: Från HIV-infektion och hepatit C till simian immunbristvirusinfektion
+## Ritonavir: Simian immunbristvirusinfektion (simian immunodeficiency virus infection)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Ritonavir är en proteashämmare mot HIV som i kunskapsgrafen är kopplad till behandling av HIV-infektion, AIDS samt hepatit C-virusinfektion. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **simian immunbristvirusinfektion (SIV)**, en virussjukdom hos apor som används som djurmodell för HIV. Det finns **inga kliniska prövningar** och **11 publikationer** (huvudsakligen djurstudier och laboratoriestudier) som stöder denna förutsägelse. Förutsägelsen speglar i första hand läkemedlets befintliga användning vid HIV och är därför ingen verklig ny indikation för människor.
+TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **simian immunbristvirusinfektion (SIV)**, en virussjukdom hos apor som används som djurmodell för HIV. Det finns **inga kliniska prövningar** och **11 publikationer** (huvudsakligen djurstudier och laboratoriestudier) som stöder denna förutsägelse. Förutsägelsen speglar i första hand läkemedlets befintliga användning vid HIV och är därför ingen verklig ny indikation för människor.
 
 ---
 
@@ -48,12 +48,12 @@ Ritonavir är en proteashämmare mot HIV som i kunskapsgrafen är kopplad till b
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns registrerad i det svenska godkännandet. Enligt kunskapsgrafen: kronisk hepatit C-virusinfektion, HIV-infektion, AIDS |
-| Förutsagd ny indikation | Simian immunbristvirusinfektion |
-| TxGNN-förutsägelsepoäng | 99,92 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Simian immunbristvirusinfektion (simian immunodeficiency virus infection) |
+| TxGNN-förutsägelsepoäng | 0.9992 |
 | Evidensnivå | L4 (prekliniska studier och mekanismstudier) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---

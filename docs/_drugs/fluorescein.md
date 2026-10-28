@@ -6,9 +6,9 @@ nav_order: 201
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Fluorescein: predikterad ny indikation Prinzmetals angina (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad"
 monitor_inn: "fluorescein"
 predicted_indications: ["Prinzmetal angina", "antithrombin deficiency type 2", "rheumatoid arthritis", "factor 5 excess with spontaneous thrombosis", "hemoglobinopathy", "heparin cofactor 2 deficiency", "thrombophilia", "hyperthyroidism", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations"]
+description: "Fluorescein: predikterad ny indikation Prinzmetal angina (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Fluorescein
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Fluorescein: Från diagnostiskt ögonläkemedel till Prinzmetals angina
+## Fluorescein: Prinzmetal angina
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Fluorescein är ett fluorescerande färgämne som används diagnostiskt inom ög
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext registrerad |
-| Förutsagd ny indikation | Prinzmetals angina |
-| TxGNN-förutsägelsepoäng | 99,8 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Prinzmetal angina |
+| TxGNN-förutsägelsepoäng | 0.9981 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden (Cancelled only) |
-| Antal godkännanden | 4 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Fluorescein är ett fluorescerande färgämne som används diagnostiskt inom ög
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är fluorescein ett diagnostiskt fluorescerande färgämne, inte ett läkemedel med känd terapeutisk effekt på hjärt-kärlsystemet.
 
-Något mekanistiskt samband mellan fluorescein och Prinzmetals angina har inte kunnat identifieras. Prinzmetals angina orsakas av spasmer i kranskärlen och behandlas med kärlvidgande läkemedel. Fluorescein saknar känd kärlvidgande eller antispastisk effekt. Det höga poängvärdet speglar därför sannolikt mönster i kunskapsgrafen snarare än en verklig biologisk koppling.
+Något mekanistiskt samband mellan fluorescein och Prinzmetals angina har inte kunnat identifieras. Prinzmetals angina orsakas av spasmer i kranskärlen och behandlas med kärlvidgande läkemedel. Fluorescein saknar känd kärlvidgande eller antispastisk effekt.
 
 Samma bild gäller för de övriga nio förutsagda indikationerna i den data som sammanställts (bland annat antitrombinbrist typ 2, reumatoid artrit, hemoglobinopati, trombofili och hypertyreos). I litteraturen förekommer fluorescein i dessa sammanhang främst som diagnostiskt verktyg, till exempel vid fluoresceinangiografi av ögonbotten, och inte som behandling.
 

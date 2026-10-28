@@ -4,17 +4,17 @@ title: Zidovudine
 parent: Endast modellprediktion (L5)
 nav_order: 457
 evidence_level: L5
-indication_count: 6
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Zidovudine: predikterad ny indikation Felint förvärvat immunbristsyndrom (evidensnivå L5). Ursprunglig indikation: HIV-infektion och AIDS (enligt TxGNN:s kunskapsgraf…"
 monitor_inn: "zidovudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
+description: "Zidovudine: predikterad ny indikation Feline acquired immunodeficiency syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Zidovudine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **6** st
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-## Zidovudin: Från HIV-infektion och AIDS till felint förvärvat immunbristsyndrom
+## Zidovudine: Feline acquired immunodeficiency syndrome
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Zidovudin är en nukleosidanalog (revers transkriptas-hämmare) som ursprunglige
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | HIV-infektion och AIDS (enligt TxGNN:s kunskapsgraf, eftersom indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Felint förvärvat immunbristsyndrom |
-| TxGNN-förutsägelsepoäng | 99,96 % |
-| Evidensnivå | L4 (prekliniska djurstudier och mekanismstudier) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Feline acquired immunodeficiency syndrome |
+| TxGNN-förutsägelsepoäng | 0.9996 |
+| Evidensnivå | L5 (prekliniska djurstudier och mekanismstudier) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---

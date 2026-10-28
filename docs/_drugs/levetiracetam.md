@@ -4,17 +4,17 @@ title: Levetiracetam
 parent: Endast modellprediktion (L5)
 nav_order: 258
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Levetiracetam: predikterad ny indikation Visuell epilepsi (evidensnivå L5). Ursprunglig indikation: Partiell epilepsi (enligt kunskapsgrafen"
 monitor_inn: "LEVETIRACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
+description: "Levetiracetam: predikterad ny indikation Beta-ketothiolase deficiency (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Levetiracetam
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Levetiracetam: Från partiell epilepsi till visuell epilepsi
+## Levetiracetam: Beta-ketothiolase deficiency
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Levetiracetam är ett antiepileptikum som ursprungligen används mot **partiell 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Partiell epilepsi (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Visuell epilepsi |
-| TxGNN-förutsägelsepoäng | 99,98 % |
-| Evidensnivå | L4 (endast indirekt evidens och mekanistiskt resonemang) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Beta-ketothiolase deficiency |
+| TxGNN-förutsägelsepoäng | 0.9990 |
+| Evidensnivå | L5 (endast indirekt evidens och mekanistiskt resonemang) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (samtliga avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -128,7 +128,7 @@ Av de 20 godkännandena är samtliga avregistrerade, och inget är giltigt för 
 - Klargörande av om någon levetiracetamprodukt har gällande godkännande i Sverige.
 - Bedömning av säkerheten vid de samsjukligheter som kunskapsgrafen flaggar för, särskilt psykiatriska tillstånd, njur- och leverfunktion samt blodstatus.
 
-**Övrig observation:** Bland de övriga förutsagda indikationerna har **status epilepticus** den starkaste evidensen (L1), bland annat den randomiserade fas 3-prövningen ESETT (NCT01960075, n=478). Där visade levetiracetam likvärdig effekt jämfört med fosfenytoin och valproat, inte överlägsen effekt. Användningen är redan etablerad i klinisk praxis och utgör därför inte någon ny återanvändning. Evidensen för startle-epilepsi (L3) och lässutlösta anfall (L3) består av små studier och fallrapporter.
+Där visade levetiracetam likvärdig effekt jämfört med fosfenytoin och valproat, inte överlägsen effekt. Användningen är redan etablerad i klinisk praxis och utgör därför inte någon ny återanvändning. Evidensen för startle-epilepsi (L3) och lässutlösta anfall (L3) består av små studier och fallrapporter.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

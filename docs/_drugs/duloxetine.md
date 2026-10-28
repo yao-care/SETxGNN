@@ -6,9 +6,9 @@ nav_order: 155
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Duloxetine: predikterad ny indikation Tvångssyndrom (OCD) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. Enligt kunska…"
 monitor_inn: "duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
+description: "Duloxetine: predikterad ny indikation Benign paroxysmal torticollis of infancy (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Duloxetine
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Duloxetin: Från depression och ångestsyndrom till tvångssyndrom (OCD)
+## Duloxetine: Benign paroxysmal torticollis of infancy
 {: .text-alpha }
 
 ---
@@ -50,11 +50,11 @@ Rapporten fokuserar på OCD, eftersom det är den enda förutsägelsen med menin
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: unipolär depression, egentlig depression, ångestsyndrom, fibromyalgi, myofasciellt smärtsyndrom, stressinkontinens hos kvinnor |
-| Förutsagd ny indikation | Tvångssyndrom (OCD) |
-| TxGNN-förutsägelsepoäng | 99,8 % |
-| Evidensnivå | L2 (enligt datasammanställningen; se not nedan) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Benign paroxysmal torticollis of infancy |
+| TxGNN-förutsägelsepoäng | 0.9985 |
+| Evidensnivå | L5 (enligt datasammanställningen; se not nedan) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
@@ -143,14 +143,11 @@ Vid användning till barn och unga bör man även beakta den varning för själv
 
 ## Övriga förutsägelser med hög poäng
 
-Alla poäng ligger runt 99,6–99,8 %, men evidensen saknas i stort sett.
 
 | Förutsagd indikation | Evidensnivå | Kommentar |
 |------|------|------|
 | Godartad paroxysmal torticollis hos spädbarn | L5 | Inga studier. Kopplingen till SNRI-mekanismen är spekulativ, och användning hos spädbarn väcker säkerhetsfrågor. |
 | Agorafobi | L5 | Rimlig klassnivå-grund (ångestsyndrom), men ingen direkt evidens. Den enda länkade prövningen är inte relevant. |
-| Schizotypisk, histrionisk, schizoid och paranoid personlighetsstörning | L5 | Inga studier. Hög poäng speglar sannolikt närhet mellan psykiatriska diagnoser i grafen. |
-| Ohdos syndrom (och varianter), ligneös konjunktivit | L5 | Inga studier och ingen trolig mekanistisk koppling. Sannolikt artefakter i grafen. |
 
 Rekommendation för dessa: **Avvakta**.
 ## Ansvarsfriskrivning

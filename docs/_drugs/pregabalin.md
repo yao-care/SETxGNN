@@ -6,9 +6,9 @@ nav_order: 363
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
-description: "Pregabalin: predikterad ny indikation Tendinit (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns i de svenska godkännandena. Enligt kunska…"
 monitor_inn: "PREGABALIN"
 predicted_indications: ["tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
+description: "Pregabalin: predikterad ny indikation Tendinitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Pregabalin
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 </div>
 
-## Pregabalin: Från ångestsyndrom, fibromyalgi och postherpetisk neuralgi till tendinit
+## Pregabalin: Tendinitis
 {: .text-alpha }
 
 *Obs: Rapporten följer systeminstruktionens mall, där den förutsagda indikationen hämtas från den högst rankade förutsägelsen (tendinit). Den bäst underbyggda kandidaten i underlaget är dock **migrän** (rank 5), vilket behandlas separat nedan.*
@@ -50,11 +50,11 @@ Pregabalin används sedan tidigare vid bland annat ångestsyndrom, fibromyalgi, 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: ångestsyndrom, fibromyalgi, myofasciellt smärtsyndrom, postherpetisk neuralgi |
-| Förutsagd ny indikation | Tendinit |
-| TxGNN-förutsägelsepoäng | 99,7 % |
-| Evidensnivå | L4 (ingen studie testar pregabalin vid tendinit; endast indirekt och mekanistiskt stöd) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Tendinitis |
+| TxGNN-förutsägelsepoäng | 0.9971 |
+| Evidensnivå | L5 (ingen studie testar pregabalin vid tendinit; endast indirekt och mekanistiskt stöd) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
@@ -64,7 +64,7 @@ Pregabalin används sedan tidigare vid bland annat ångestsyndrom, fibromyalgi, 
 
 Det finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Baserat på allmänt känd information binder pregabalin till alfa-2-delta-subenheten på spänningskänsliga kalciumkanaler och minskar frisättningen av excitatoriska signalsubstanser. Det kan lindra neuropatiska och nociceptiva smärtkomponenter.
 
-Pregabalins etablerade användning vid fibromyalgi och myofasciellt smärtsyndrom är smärtrelaterad. Modellens höga poäng för tendinit beror sannolikt på att sjukdomarna ligger nära varandra i kunskapsgrafen, inte på sjukdomsspecifika data.
+Pregabalins etablerade användning vid fibromyalgi och myofasciellt smärtsyndrom är smärtrelaterad.
 
 Den hämtade litteraturen handlar om smärta efter axelkirurgi, fall av nervinklämning och fluorokinolonrelaterad funktionsnedsättning. Ingen av publikationerna prövar pregabalin som behandling av tendinit. Mekanismen är rimlig för smärtlindring, men det är inte visat att den påverkar själva sjukdomen.
 
@@ -121,7 +121,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Förutsägelsen för tendinit bygger enbart på modellens poäng. Inga studier prövar pregabalin vid tendinit, och alla svenska godkännanden är indragna.
 
 **Andra förutsägelser i underlaget:**
-- **Migrän** (poäng 99,5 %, evidensnivå L2 enligt underlaget): Pediatriska randomiserade studier jämförde pregabalin med natriumvalproat och propranolol, och en nätverksmetaanalys finns. Den enda fas 3-prövningen hos vuxna (NCT00447369) drogs tillbaka utan deltagare. Evidensen är måttlig men inte definitiv. Detta är den mest lovande riktningen att utreda vidare.
+- Den enda fas 3-prövningen hos vuxna (NCT00447369) drogs tillbaka utan deltagare. Evidensen är måttlig men inte definitiv. Detta är den mest lovande riktningen att utreda vidare.
 - **Migrän med hjärnstammsaura:** Endast prekliniskt stöd (pregabalin hämmar kortikal spridande depression).
 - **Myositis fibrosa, idiopatisk granulomatös myosit, inklusionskroppsmyosit:** Endast modellförutsägelser utan relevant evidens.
 

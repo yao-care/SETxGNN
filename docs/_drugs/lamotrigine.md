@@ -4,17 +4,17 @@ title: Lamotrigine
 parent: Endast modellprediktion (L5)
 nav_order: 251
 evidence_level: L5
-indication_count: 9
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Lamotrigine: predikterad ny indikation Tumör i trigeminusnerven (trigeminal nerve neoplasm) (evidensnivå L5). Ursprunglig indikation: Epilepsi (indikationstexten saknas i godkännandena…"
 monitor_inn: "lamotrigine"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
+description: "Lamotrigine: predikterad ny indikation Tumör i trigeminusnerven (trigeminal nerve neoplasm) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Lamotrigine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **9** st
+Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-## Lamotrigin: Från epilepsi till tumör i trigeminusnerven
+## Lamotrigine: Tumör i trigeminusnerven (trigeminal nerve neoplasm)
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Lamotrigin används ursprungligen för att behandla epilepsi, bland annat partie
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Epilepsi (indikationstexten saknas i godkännandena, uppgiften kommer från kunskapsgrafen) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Tumör i trigeminusnerven (trigeminal nerve neoplasm) |
-| TxGNN-förutsägelsepoäng | 99,97 % |
+| TxGNN-förutsägelsepoäng | 0.9997 |
 | Evidensnivå | L5 (endast modellförutsägelse, inga relevanta studier) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
@@ -62,7 +62,7 @@ Lamotrigin används ursprungligen för att behandla epilepsi, bland annat partie
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är lamotrigin ett antiepileptikum, dess effekt vid epilepsi har bevisats, och mekanistiskt kan det blockera spänningsberoende natriumkanaler och minska frisättningen av glutamat.
 
-Den höga modellpoängen beror sannolikt på att tumörer i trigeminusnerven ligger nära trigeminusneuralgi i kunskapsgrafen. De två publikationer som hittats gäller just trigeminusneuralgi, inte tumörbehandling. Natriumkanalblockad skulle kunna lindra neuropatisk smärta när nerven är påverkad av en tumör. Det finns dock inget som tyder på att lamotrigin påverkar tumörens biologi eller växt.
+Den höga modellpoängen kommer från TxGNN-modellen (djupinlärning) och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens. De två publikationer som hittats gäller just trigeminusneuralgi, inte tumörbehandling. Natriumkanalblockad skulle kunna lindra neuropatisk smärta när nerven är påverkad av en tumör. Det finns dock inget som tyder på att lamotrigin påverkar tumörens biologi eller växt.
 
 Förutsägelsen är därför mest rimlig som **symtomlindring av nervsmärta**. Den är inte rimlig som tumörbehandlande effekt.
 

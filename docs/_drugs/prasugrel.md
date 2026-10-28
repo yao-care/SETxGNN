@@ -4,17 +4,17 @@ title: Prasugrel
 parent: Endast modellprediktion (L5)
 nav_order: 359
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Prasugrel: predikterad ny indikation Pulmonell hypertension (evidensnivå L5). Ursprunglig indikation: Akut koronarsyndrom"
 monitor_inn: "PRASUGREL"
-predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "migraine with or without aura, susceptibility to", "brachydactyly-syndactyly syndrome", "leprosy"]
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
+description: "Prasugrel: predikterad ny indikation Pulmonary hypertension (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Prasugrel
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Prasugrel: Från akut koronarsyndrom till pulmonell hypertension
+## Prasugrel: Pulmonary hypertension
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Prasugrel är en trombocythämmare som ursprungligen användes för att behandla
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Akut koronarsyndrom |
-| Förutsagd ny indikation | Pulmonell hypertension |
-| TxGNN-förutsägelsepoäng | 99,88 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Pulmonary hypertension |
+| TxGNN-förutsägelsepoäng | 0.9988 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 7 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
+| Antal godkännanden | 7 (giltiga: 7) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -85,11 +85,11 @@ Samtliga 7 godkännanden är avregistrerade och inget är giltigt. De fem först
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 66918 | Prasugrel EQL Pharma | Filmdragerad tablett | Avregistrerad |
-| 64420 | Prasugrel G.L. Pharma | Filmdragerad tablett | Avregistrerad |
-| 61204 | Prasugrel Ebb | Filmdragerad tablett | Avregistrerad |
-| 64419 | Prasugrel G.L. Pharma | Filmdragerad tablett | Avregistrerad |
-| 66917 | Prasugrel EQL Pharma | Filmdragerad tablett | Avregistrerad |
+| 66918 | Prasugrel EQL Pharma | Filmdragerad tablett | Godkänd |
+| 64420 | Prasugrel G.L. Pharma | Filmdragerad tablett | Godkänd |
+| 61204 | Prasugrel Ebb | Filmdragerad tablett | Godkänd |
+| 64419 | Prasugrel G.L. Pharma | Filmdragerad tablett | Godkänd |
+| 66917 | Prasugrel EQL Pharma | Filmdragerad tablett | Godkänd |
 
 ---
 
@@ -113,13 +113,11 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 **Motivering:**
 - Förutsägelsen bygger enbart på en modellberäkning (L5). Det finns inga kliniska prövningar, och de två kopplade publikationerna rör inte prasugrel vid pulmonell hypertension.
-- Alla svenska godkännanden är avregistrerade, och den förväntade blödningsrisken kräver noggrann riskbedömning i en ny patientgrupp.
 
 **För att gå vidare krävs:**
 - Prekliniska studier eller mekanismstudier som visar att P2Y12-hämning påverkar kärlremodellering vid pulmonell hypertension.
 - En systematisk litteratursökning efter data om prasugrel eller andra P2Y12-hämmare vid pulmonell hypertension.
 - Säkerhetsdata från produktresumén (varningar och kontraindikationer), som saknas i underlaget.
-- En bedömning av marknadstillgänglighet, eftersom inga giltiga godkännanden finns i Sverige.
 
 **Observera:** Bland de övriga förutsagda indikationerna har **migrän** (särskilt med öppetstående foramen ovale) mer stöd än pulmonell hypertension. Där finns en retrospektiv översikt av tienopyridiner och en öppen pilotstudie med ticagrelor (samma läkemedelsklass), samt en pågående fas 3-prövning av PFO-riktad behandling (NCT07629635). Den prövningen testar dock inte prasugrel direkt. Migrän kan därför vara en mer realistisk riktning att utvärdera först.
 ## Ansvarsfriskrivning

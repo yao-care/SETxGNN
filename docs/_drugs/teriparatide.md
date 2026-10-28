@@ -4,17 +4,17 @@ title: Teriparatide
 parent: Endast modellprediktion (L5)
 nav_order: 418
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Teriparatide: predikterad ny indikation Duodenalsår (evidensnivå L5). Ursprunglig indikation: Postmenopausal osteoporos / osteoporos (enligt TxGNN:s kunskapsgraf…"
 monitor_inn: "teriparatide"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
+description: "Teriparatide: predikterad ny indikation Duodenal ulcer (disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Teriparatide
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Teriparatid: Från postmenopausal osteoporos till duodenalsår
+## Teriparatide: Duodenal ulcer (disease)
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Teriparatid är en human parathormonanalog (PTH 1-34) som ursprungligen används mot osteoporos, bland annat postmenopausal osteoporos. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **duodenalsår** med en mycket hög modellpoäng (99,9 %). Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder denna riktning, så förutsägelsen är enbart beräkningsbaserad.
+Teriparatid är en human parathormonanalog (PTH 1-34) som ursprungligen används mot osteoporos, bland annat postmenopausal osteoporos. Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som stöder denna riktning, så förutsägelsen är enbart beräkningsbaserad.
 
 ---
 
@@ -48,12 +48,12 @@ Teriparatid är en human parathormonanalog (PTH 1-34) som ursprungligen används
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Postmenopausal osteoporos / osteoporos (enligt TxGNN:s kunskapsgraf, eftersom indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Duodenalsår |
-| TxGNN-förutsägelsepoäng | 99,86 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Duodenal ulcer (disease) |
+| TxGNN-förutsägelsepoäng | 0.9986 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 3 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Det 
 
 Någon rimlig koppling mellan denna benuppbyggande signalering och läkning av sår i tolvfingertarmen kan inte styrkas med de data som finns. Duodenalsår orsakas främst av syra, *Helicobacter pylori* eller läkemedel som NSAID, och har ingen uppenbar koppling till parathormonets roll i kalcium- och benomsättning.
 
-Den höga poängen speglar därför sannolikt mönster i kunskapsgrafen snarare än en biologiskt underbyggd hypotes. Förutsägelsen bör behandlas som en hypotes utan stöd tills annat visats.
+Förutsägelsen bör behandlas som en hypotes utan stöd tills annat visats.
 
 ---
 
@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla tre godkännanden är avregistrerade och inget är giltigt idag. Beredningsformen är i samtliga fall injektionsvätska, lösning i förfylld injektionspenna. Någon godkänd indikationstext finns inte angiven för dessa godkännanden.
+Beredningsformen är i samtliga fall injektionsvätska, lösning i förfylld injektionspenna. Någon godkänd indikationstext finns inte angiven för dessa godkännanden.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Innehavare |
 |---------|------|------|-----------|

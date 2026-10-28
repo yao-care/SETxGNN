@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Fosphenytoin
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 209
-evidence_level: L4
+evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
-description: "Fosphenytoin: predikterad ny indikation Manisk bipolär sjukdom (rang 4 i modellens lista) (evidensnivå L4). Ursprunglig indikation: Epilepsi, status epilepticus (enligt TxGNN:s kunskapsgraf"
 monitor_inn: "fosphenytoin"
 predicted_indications: ["conjunctivitis", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome", "manic bipolar affective disorder", "myositis fibrosa", "idiopathic granulomatous myositis", "fibromyalgia"]
+description: "Fosphenytoin: predikterad ny indikation Conjunctivitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Fosphenytoin
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **7** st
+Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Fosfenytoin: Från epilepsi och status epilepticus till manisk bipolär sjukdom
+## Fosphenytoin: Conjunctivitis
 {: .text-alpha }
 
 ---
@@ -42,7 +42,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **7** st
 
 Fosfenytoin är en prodrug till fenytoin och har ursprungligen använts för att behandla epilepsi och status epilepticus. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **manisk bipolär sjukdom**, men underlaget är mycket begränsat: **inga kliniska prövningar** och **1 publikation** (en liten, ej verifierad explorativ rapport från 2003) stöder för närvarande denna riktning.
 
-Notera att den förutsagda indikation som rankas högst av modellen är konjunktivit (poäng 99,4 %). Den saknar dock helt stöd i evidens och mekanistiskt resonemang. Denna rapport fokuserar på manisk bipolär sjukdom, eftersom det är den enda förutsagda indikationen med någon form av publicerat underlag.
+Den saknar dock helt stöd i evidens och mekanistiskt resonemang. Denna rapport fokuserar på manisk bipolär sjukdom, eftersom det är den enda förutsagda indikationen med någon form av publicerat underlag.
 
 ---
 
@@ -50,12 +50,12 @@ Notera att den förutsagda indikation som rankas högst av modellen är konjunkt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Epilepsi, status epilepticus (enligt TxGNN:s kunskapsgraf; godkänd indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Manisk bipolär sjukdom (rang 4 i modellens lista) |
-| TxGNN-förutsägelsepoäng | 99,2 % |
-| Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 3 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Conjunctivitis |
+| TxGNN-förutsägelsepoäng | 0.9936 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---

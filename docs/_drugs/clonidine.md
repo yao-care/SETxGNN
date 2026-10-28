@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 110
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Clonidine: predikterad ny indikation Faciodigitogenitalt syndrom (evidensnivå L5). Ursprunglig indikation: Högt blodtryck (hypertoni). Källa: kunskapsgrafen…"
 monitor_inn: "clonidine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
+last_modified_at: 2026-10-27
+description: "Clonidine: predikterad ny indikation Faciodigitogenitalt syndrom (faciodigitogenital syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Clonidine
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Klonidin: Från högt blodtryck till faciodigitogenitalt syndrom
+## Klonidin: alfa-2-adrenerg agonist → Faciodigitogenitalt syndrom (faciodigitogenital syndrome)
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Klonidin är en alfa-2-adrenerg agonist som ursprungligen användes mot högt blodtryck. Enligt kunskapsgrafen används det även vid glaukom och ADHD. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **faciodigitogenitalt syndrom**, ett sällsynt utvecklingssyndrom. Förutsägelsen har **0 kliniska prövningar** och **0 publikationer** som stöd och är därför en ren modellförutsägelse.
+Klonidin är en centralt verkande alfa-2-adrenerg agonist som är registrerad och marknadsförd i Sverige som injektionsvätska. TxGNN-modellen förutsäger att läkemedlet skulle kunna vara effektivt mot **faciodigitogenitalt syndrom (faciodigitogenital syndrome)**, en sällsynt utvecklingsrelaterad sjukdom. Det finns **0 kliniska prövningar** och **0 publikationer** som stöder förutsägelsen, så den bygger enbart på modellberäkning.
 
 ---
 
@@ -48,21 +48,23 @@ Klonidin är en alfa-2-adrenerg agonist som ursprungligen användes mot högt bl
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Högt blodtryck (hypertoni). Källa: kunskapsgrafen, eftersom godkännandena saknar indikationstext. |
-| Förutsägelse ny indikation | Faciodigitogenitalt syndrom |
-| TxGNN-förutsägelsepoäng | 99,999 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Faciodigitogenitalt syndrom (faciodigitogenital syndrome) |
+| TxGNN-förutsägelsepoäng | 1,0000 (avrundat från 0,99999) |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 10 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
+| Antal godkännanden | 10 (giltiga: 10) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är klonidin en alfa-2-adrenerg agonist som minskar noradrenerg aktivitet. Dess effekt vid högt blodtryck är väl belagd.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Klonidin är känt som alfa-2-adrenerg agonist. Det minskar noradrenerg aktivitet och sympatiskt utflöde från hjärnstammen.
 
-Någon identifierbar mekanistisk koppling mellan alfa-2-agonism och detta sällsynta utvecklingssyndrom har inte hittats. Den mycket höga modellpoängen bygger enbart på mönster i kunskapsgrafen. Utan stödjande studier eller publikationer bör förutsägelsen betraktas som en hypotes utan klinisk grund.
+Någon identifierbar mekanistisk koppling mellan alfa-2-agonism och faciodigitogenitalt syndrom har inte kunnat visas. Syndromet är en sällsynt utvecklingsrubbning med genetisk bakgrund. Det finns inga studier som beskriver noradrenerga mekanismer vid tillståndet.
+
+Den mycket höga poängen är därför en ren beräkningsmässig förutsägelse. Den bör ses som en hypotes och inte som belägg för behandlingseffekt.
 
 ---
 
@@ -80,29 +82,19 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 10 godkännanden i Sverige är avregistrerade, och inget är giltigt i dag. Nedan visas fem av dem. Alla är injektionsvätskor och ingen har någon registrerad indikationstext.
-
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 62668 | Catapresan | Injektionsvätska, lösning | Ingen indikationstext angiven |
-| 67251 | Catapresan | Injektionsvätska, lösning | Ingen indikationstext angiven |
-| 60987 | Clotaxip | Injektionsvätska, lösning | Ingen indikationstext angiven |
-| 62736 | Caruxin | Injektionsvätska, lösning | Ingen indikationstext angiven |
-| 8478 | Catapresan | Injektionsvätska, lösning | Ingen indikationstext angiven |
+Läkemedlet är marknadsfört i Sverige enligt de lokala regulatoriska uppgifterna. Alla registrerade produkter är injektionsvätska, lösning. Någon godkänd användning vid det förutsagda tillståndet finns inte.
 
 ---
 
 ## Säkerhetsaspekter
 
-- **Läkemedelsinteraktioner**: Totalt finns 234 registrerade interaktioner. De som visas nedan har alla graden måttlig:
-  - Kortikosteroider: hydrokortison, dexametason, betametason, budesonid, triamcinolon
-  - SGLT2-hämmare: kanagliflozin, dapagliflozin, empagliflozin, ertugliflozin
-  - Sulfonylureor: glimepirid, glipizid, glibenklamid, klorpropamid, acetohexamid
-  - Insuliner
-  - Bupropion, morfin och dronabinol
-- **Sjukdomar där kunskapsgrafen anger kontraindikation** (inte hämtat från produktresumé): bland annat leversvikt, bukspottkörtelinflammation, hypotoni, hjärtinfarkt och myokardischemi, hjärtats retledningsstörningar, plötsligt hjärtstopp, andningssvikt, diabetes typ 1 och 2, diabetesketoacidos, gikt, systemisk lupus erythematosus samt ångest- och dysthymiska tillstånd.
+- **Läkemedelsinteraktioner**: Totalt 234 interaktioner är registrerade. De som visas här är graderade som måttliga:
+  - Kortikosteroider: hydrokortison, dexametason, betametason, triamcinolon och budesonid.
+  - Bupropion och morfin.
+  - Blodsockersänkande läkemedel: insuliner, sulfonureider (glimepirid, glipizid, glibenklamid), samt SGLT2-hämmare (kanagliflozin, dapagliflozin, empagliflozin, ertugliflozin).
+  - Dronabinol.
 
-Se produktresumén för fullständig säkerhetsinformation om varningar och kontraindikationer.
+Se produktresumén för varningar, kontraindikationer och fullständig säkerhetsinformation.
 
 ---
 
@@ -111,16 +103,13 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen saknar helt stöd i kliniska prövningar och litteratur (evidensnivå L5), och någon rimlig mekanistisk koppling har inte kunnat identifieras.
-- Alla svenska godkännanden är dessutom avregistrerade.
+- Förutsägelsen saknar helt stöd i kliniska prövningar och litteratur (evidensnivå L5), och någon mekanistisk koppling mellan klonidin och faciodigitogenitalt syndrom har inte kunnat identifieras.
 
 **För att gå vidare krävs:**
-- Detaljerad data om verkningsmekanism, för att kunna bedöma om en koppling till syndromet är tänkbar.
-- Prekliniska eller kliniska data som visar en koppling mellan alfa-2-agonism och syndromets patofysiologi.
-- Säkerhetsdata från produktresumén (varningar och kontraindikationer) som i dag saknas.
-- En bedömning av beredningsform och administrationsväg, eftersom endast avregistrerade injektionsvätskor finns i Sverige.
-
-**Observera:** I den sammanställda datan finns andra förutsagda indikationer med betydligt starkare stöd. Tourettes syndrom har evidensnivå L2, två fas 4-prövningar samt europeiska riktlinjer och en nätverksmetaanalys. Manisk bipolär sjukdom, migrän och fetmarelaterad kardiometabol dysfunktion har evidensnivå L3–L4. Om målet är att hitta den mest lovande nya användningen bör dessa utvärderas i första hand.
+- Hämta och granska produktresumén för säkerhetsinformation (varningar och kontraindikationer).
+- Hämta verkningsmekanismdata från DrugBank.
+- Genomföra en litteratur- och mekanismgenomgång för att bedöma om det finns någon biologisk grund för behandling av syndromet.
+- Prekliniska data eller fallstudier som stöder hypotesen, innan kliniska studier kan övervägas.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Eletriptan
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 159
-evidence_level: L4
-indication_count: 4
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Eletriptan: predikterad ny indikation Migrän med hjärnstammsaura (evidensnivå L4). Ursprunglig indikation: Migrän (migrän med eller utan aura). Den godkända indikationstexten s…"
 monitor_inn: "eletriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "sciatic neuropathy"]
+description: "Eletriptan: predikterad ny indikation Atrophoderma vermiculata (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Eletriptan
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **4** st
+Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L4** | Förutsagda indikationer: **4** st
 
 </div>
 
-## Eletriptan: Från migrän till migrän med hjärnstammsaura
+## Eletriptan: Atrophoderma vermiculata
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Eletriptan är en selektiv 5-HT1B/1D-receptoragonist (triptan) som ursprungligen användes för att behandla migrän. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **migrän med hjärnstammsaura**, men förutsägelsen bygger i huvudsak på att sjukdomen är en undertyp av migrän. Det finns **inga kliniska prövningar** och **17 publikationer** (varav 3 randomiserade studier) som rör eletriptan vid migrän i allmänhet, men ingen av dem är specifik för denna undertyp.
+Eletriptan är en selektiv 5-HT1B/1D-receptoragonist (triptan) som ursprungligen användes för att behandla migrän. Det finns **inga kliniska prövningar** och **17 publikationer** (varav 3 randomiserade studier) som rör eletriptan vid migrän i allmänhet, men ingen av dem är specifik för denna undertyp.
 
 ---
 
@@ -48,12 +48,12 @@ Eletriptan är en selektiv 5-HT1B/1D-receptoragonist (triptan) som ursprungligen
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Migrän (migrän med eller utan aura). Den godkända indikationstexten saknas i de svenska godkännandena, så uppgiften kommer från kunskapsgrafen |
-| Förutsagd ny indikation | Migrän med hjärnstammsaura |
-| TxGNN-förutsägelsepoäng | 99,99 % |
-| Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 7 (alla avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Atrophoderma vermiculata |
+| TxGNN-förutsägelsepoäng | 0.9994 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
+| Antal godkännanden | 7 (giltiga: 7) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Eletriptan är en selektiv 5-HT1B/1D-receptoragonist (triptan) som ursprungligen
 
 Ingen detaljerad verkningsmekanismdata är tillgänglig i det underlag som sammanställts för rapporten. Baserat på känd information är eletriptan en selektiv agonist på 5-HT1B/1D-receptorer. Litteraturen anger att läkemedlet har högre affinitet för 5-HT1D-receptorn än sumatriptan (cirka 6 gånger) och för 5-HT1B-receptorn (cirka 3 gånger). Effekten vid akut migrän är väl belagd.
 
-Migrän med hjärnstammsaura är en undertyp av migrän med aura, och den mekanistiska överlappningen med den ursprungliga indikationen är därför stor. Den höga poängen (0,9999) förklaras till stor del av att de två sjukdomarna delar samma överordnade diagnos, och inte av ny evidens för just denna undertyp.
+Migrän med hjärnstammsaura är en undertyp av migrän med aura, och den mekanistiska överlappningen med den ursprungliga indikationen är därför stor. Den höga poängen (0,9994) förklaras till stor del av att de två sjukdomarna delar samma överordnade diagnos, och inte av ny evidens för just denna undertyp.
 
 Det finns också skäl till försiktighet. En randomiserad studie (PMID 15469451) visade att eletriptan inte hade någon effekt när det gavs under auraFasen. Triptaner har dessutom traditionellt använts med försiktighet, eller undvarits, vid hjärnstamsaura (basilaristyp) på grund av teoretiska kärlrisker. Ett fallrapporterat hjärtinfarkt efter eletriptan (PMID 25155004) förstärker den säkerhetssignalen.
 
@@ -95,15 +95,15 @@ Tabellen visar ett urval av de mest relevanta publikationerna. Ingen av dem stud
 
 ### Marknadsinformation Sverige
 
-Alla sju godkännanden är avregistrerade, och inget gällande godkännande för enbart eletriptan finns för närvarande. Den godkända indikationstexten saknas i underlaget.
+Den godkända indikationstexten saknas i underlaget.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----------|-----------|
-| 56991 | Eletriptan Orion | Filmdragerad tablett | Orion Corporation | Avregistrerad |
-| 56992 | Eletriptan Orion | Filmdragerad tablett | Orion Corporation | Avregistrerad |
-| 17177 | Relpax | Filmdragerad tablett | Upjohn EESV | Avregistrerad |
-| 17176 | Relpax | Filmdragerad tablett | Upjohn EESV | Avregistrerad |
-| 56491 | Relpax | Filmdragerad tablett | 2care4 ApS | Avregistrerad |
+| 56991 | Eletriptan Orion | Filmdragerad tablett | Orion Corporation | Godkänd |
+| 56992 | Eletriptan Orion | Filmdragerad tablett | Orion Corporation | Godkänd |
+| 17177 | Relpax | Filmdragerad tablett | Upjohn EESV | Godkänd |
+| 17176 | Relpax | Filmdragerad tablett | Upjohn EESV | Godkänd |
+| 56491 | Relpax | Filmdragerad tablett | 2care4 ApS | Godkänd |
 
 ---
 
@@ -132,13 +132,12 @@ Produktresumén med varningar och kontraindikationer från Läkemedelsverket har
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger i praktiken på att migrän med hjärnstammsaura tillhör samma sjukdomsfamilj som den ursprungliga indikationen, och det finns varken kliniska prövningar eller undertypsspecifik litteratur. Den enda studien kring aura visade ingen effekt, och triptaner har ett kärlsäkerhetsproblem som är särskilt viktigt vid hjärnstammsaura.
+- Den enda studien kring aura visade ingen effekt, och triptaner har ett kärlsäkerhetsproblem som är särskilt viktigt vid hjärnstammsaura.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén för säkerhetsinformation (varningar och kontraindikationer), särskilt vad gäller hjärnstammsaura och hemiplegisk migrän.
 - Hämta uppgifter om verkningsmekanism från DrugBank.
 - Systematisk genomgång av litteratur och riktlinjer om triptaner vid migrän med hjärnstammsaura.
-- Kontrollera marknadsläget, eftersom alla svenska godkännanden är avregistrerade.
 - Vid fortsatt intresse: kontrollerade studier med undertypsspecifik utvärdering av effekt och kardiovaskulär säkerhet.
 ## Ansvarsfriskrivning
 

@@ -4,17 +4,17 @@ title: Moxonidine
 parent: Endast modellprediktion (L5)
 nav_order: 306
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Moxonidine: predikterad ny indikation Hypotrichosis simplex i hårbotten (evidensnivå L5). Ursprunglig indikation: Hypertoni (enligt kunskapsgrafen"
 monitor_inn: "moxonidine"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "primary hereditary glaucoma"]
+description: "Moxonidine: predikterad ny indikation Hypotrichosis simplex of the scalp (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Moxonidine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Moxonidin: Från hypertoni till håravfall (hypotrichosis simplex i hårbotten)
+## Moxonidine: Hypotrichosis simplex of the scalp
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Moxonidin är en centralt verkande blodtryckssänkande substans som ursprungligen används vid högt blodtryck (hypertoni). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **hypotrichosis simplex i hårbotten**, med en mycket hög modellpoäng. Det finns dock **inga kliniska prövningar och ingen relevant litteratur** som stöder förutsägelsen, så den bygger enbart på en datorbaserad kunskapsgrafprediktion.
+Moxonidin är en centralt verkande blodtryckssänkande substans som ursprungligen används vid högt blodtryck (hypertoni). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **hypotrichosis simplex i hårbotten**, med en mycket hög modellpoäng.
 
 ---
 
@@ -48,12 +48,12 @@ Moxonidin är en centralt verkande blodtryckssänkande substans som ursprunglige
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Hypertoni (enligt kunskapsgrafen; indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Hypotrichosis simplex i hårbotten |
-| TxGNN-förutsägelsepoäng | 99,95 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Hypotrichosis simplex of the scalp |
+| TxGNN-förutsägelsepoäng | 0.9995 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 8 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
+| Antal godkännanden | 8 (giltiga: 8) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Moxonidin är en centralt verkande blodtryckssänkande substans som ursprunglige
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Moxonidin är enligt allmänt känd farmakologi en agonist vid imidazolin I1-receptorer och alfa-2-adrenerga receptorer, som minskar den sympatiska aktiviteten och därmed sänker blodtrycket. Bindning till alfa-2A-, alfa-2B- och alfa-2C-adrenoceptorerna finns också noterad i farmakologidata.
 
-Något etablerat samband mellan denna mekanism och hårfollikelns biologi har inte identifierats. Den mycket höga poängen (0,999) är en ren kunskapsgrafprediktion och bör inte tolkas som kliniskt stöd. Eftersom verkningsmekanismen saknas i underlaget går sambandet inte att validera ytterligare.
+Något etablerat samband mellan denna mekanism och hårfollikelns biologi har inte identifierats. Eftersom verkningsmekanismen saknas i underlaget går sambandet inte att validera ytterligare.
 
 **Övriga förutsagda indikationer** granskades också. Ingen av dem har kliniskt stöd:
 
@@ -86,7 +86,6 @@ Publikationen hör till den förutsagda indikationen "alopecia" (rank 4), inte t
 
 ### Marknadsinformation Sverige
 
-Samtliga godkännanden är indragna (inga giltiga godkännanden).
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

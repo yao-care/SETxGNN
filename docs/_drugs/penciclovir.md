@@ -6,9 +6,9 @@ nav_order: 342
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Penciclovir: predikterad ny indikation Fascioliasis (evidensnivå L5). Ursprunglig indikation: Herpes labialis"
 monitor_inn: "penciclovir"
 predicted_indications: ["fascioliasis"]
+description: "Penciclovir: predikterad ny indikation Fascioliasis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Penciclovir
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Penciclovir: Från herpes labialis till fascioliasis
+## Penciclovir: Fascioliasis
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Penciclovir är ett antiviralt läkemedel som ursprungligen används mot herpes 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Herpes labialis (godkännandetexten är tom i det svenska registret, indikationen är hämtad från kunskapsgrafen) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Fascioliasis |
-| TxGNN-förutsägelsepoäng | 99,1 % |
+| TxGNN-förutsägelsepoäng | 0.9906 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 2 (båda indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 Fascioliasis orsakas av leverikterna *Fasciola hepatica* och *F. gigantica*, alltså parasiter och inte virus. De saknar ett motsvarande viralt tymidinkinas och DNA-polymeras som penciclovir kan verka på. Något rimligt mekanistiskt samband mellan läkemedlet och sjukdomen har därför inte kunnat identifieras.
 
-Den höga poängen (0,99) kommer från mönster i en kunskapsgraf och stöds varken av experimentella data eller en biologisk förklaring. Den bör därför tolkas med stor försiktighet.
+Den höga poängen (0,9906) kommer från TxGNN-modellen (djupinlärning) och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologiska belägg. Den bör därför tolkas med stor försiktighet.
 
 ---
 

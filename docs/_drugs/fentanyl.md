@@ -6,9 +6,9 @@ nav_order: 194
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Fentanyl: predikterad ny indikation Nefrogent syndrom med olämplig antidures (evidensnivå L5). Ursprunglig indikation: Ej tillgänglig (godkännandenas indikationstexter är tomma)"
 monitor_inn: "FENTANYL"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
+description: "Fentanyl: predikterad ny indikation Nephrogenic syndrome of inappropriate antidiuresis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Fentanyl
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Fentanyl: Från smärtbehandling (indikationstext saknas) till nefrogent syndrom med olämplig antidures
+## Fentanyl: Nephrogenic syndrome of inappropriate antidiuresis
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Fentanyl är en kraftfull opioid (mu-opioidreceptoragonist) som i Sverige har funnits som depotplåster. Den ursprungliga godkända indikationstexten finns inte i de sammanställda uppgifterna. TxGNN-modellen förutsäger att fentanyl kan vara effektivt mot **nefrogent syndrom med olämplig antidures** (poäng 99,5 %), men det finns **0 kliniska prövningar** och **0 publikationer** som stöder detta. Förutsägelsen är därför enbart en modellberäkning.
+Fentanyl är en kraftfull opioid (mu-opioidreceptoragonist) som i Sverige har funnits som depotplåster. Den ursprungliga godkända indikationstexten finns inte i de sammanställda uppgifterna. Förutsägelsen är därför enbart en modellberäkning.
 
 ---
 
@@ -48,11 +48,11 @@ Fentanyl är en kraftfull opioid (mu-opioidreceptoragonist) som i Sverige har fu
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ej tillgänglig (godkännandenas indikationstexter är tomma) |
-| Förutsagd ny indikation | Nefrogent syndrom med olämplig antidures |
-| TxGNN-förutsägelsepoäng | 99,5 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Nephrogenic syndrome of inappropriate antidiuresis |
+| TxGNN-förutsägelsepoäng | 0.9946 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 
@@ -66,13 +66,13 @@ Något etablerat mekanistiskt samband med den förutsagda indikationen kan inte 
 
 Den höga poängen är alltså en beräkningsmässig förutsägelse utan stöd i mekanistiska eller kliniska data. Fentanyl skulle snarare kunna förvärra vätskeretention eller hyponatremi via ADH-relaterade vägar, vilket är ett säkerhetsproblem och inte ett terapeutiskt argument.
 
-**Andra förutsagd indikation (för jämförelse):** Tourettes syndrom (poäng 99,0 %, evidensnivå L5). Det finns ett svagt och indirekt rationale, eftersom det endogena opioidsystemet har kopplats till tics och vissa opioidmodulerande substanser (t.ex. buprenorfin, naltrexon) har prövats i små studier eller fallrapporter. Fentanyl är dock en potent full agonist med hög missbruksrisk, risk för andningsdepression och beroende, vilket gör det olämpligt för ett kroniskt tillstånd som ofta drabbar barn och ungdomar.
+Det finns ett svagt och indirekt rationale, eftersom det endogena opioidsystemet har kopplats till tics och vissa opioidmodulerande substanser (t.ex. buprenorfin, naltrexon) har prövats i små studier eller fallrapporter. Fentanyl är dock en potent full agonist med hög missbruksrisk, risk för andningsdepression och beroende, vilket gör det olämpligt för ett kroniskt tillstånd som ofta drabbar barn och ungdomar.
 
 ---
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna och inga är giltiga. Samtliga är depotplåster. Indikationstexter saknas i underlaget.
+Samtliga är depotplåster. Indikationstexter saknas i underlaget.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|------|------|

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pantoprazole
-parent: Hög evidens (L1-L2)
+parent: Endast modellprediktion (L5)
 nav_order: 337
-evidence_level: L1
-indication_count: 6
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Pantoprazole: predikterad ny indikation Aktivt magsår (active peptic ulcer disease) (evidensnivå L1). Ursprunglig indikation: Ingen indikationstext finns registrerad i godkännandet. Enligt kunska…"
 monitor_inn: "pantoprazole"
 predicted_indications: ["duodenal obstruction"]
+description: "Pantoprazole: predikterad ny indikation Duodenal obstruction (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Pantoprazole
 {: .fs-9 }
 
-Evidensnivå: **L1** | Förutsagda indikationer: **6** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L1** | Förutsagda indikationer: **6** st
 
 </div>
 
-## Pantoprazol: Från magsårssjukdom och refluxsjukdom till aktivt magsår
+## Pantoprazole: Duodenal obstruction
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Pantoprazol är en protonpumpshämmare som ursprungligen används vid sårsjukdom i mage och tolvfingertarm, refluxsjukdom, esofagit och Zollinger-Ellisons syndrom. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **aktivt magsår** med mycket hög poäng. Evidensen utgörs av **1 avslutad fas 3-prövning** och **20 publikationer** för denna indikation. Förutsägelsen ligger nära den ursprungliga användningen och är därför snarare en bekräftelse av känd effekt än en ny indikation.
+Pantoprazol är en protonpumpshämmare som ursprungligen används vid sårsjukdom i mage och tolvfingertarm, refluxsjukdom, esofagit och Zollinger-Ellisons syndrom. Evidensen utgörs av **1 avslutad fas 3-prövning** och **20 publikationer** för denna indikation. Förutsägelsen ligger nära den ursprungliga användningen och är därför snarare en bekräftelse av känd effekt än en ny indikation.
 
 ---
 
@@ -48,12 +48,12 @@ Pantoprazol är en protonpumpshämmare som ursprungligen används vid sårsjukdo
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns registrerad i godkännandet. Enligt kunskapsgrafen: sårsjukdom i mage och tolvfingertarm, refluxsjukdom, esofagit, Zollinger-Ellisons syndrom |
-| Förutsagd ny indikation | Aktivt magsår (active peptic ulcer disease) |
-| TxGNN-förutsägelsepoäng | 99,7 % |
-| Evidensnivå | L1 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Duodenal obstruction |
+| TxGNN-förutsägelsepoäng | 0.9921 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

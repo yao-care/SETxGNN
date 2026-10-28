@@ -4,17 +4,17 @@ title: Gefitinib
 parent: Endast modellprediktion (L5)
 nav_order: 213
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Gefitinib: predikterad ny indikation Fibromatos i tandköttet (fibromatosis, gingival) (evidensnivå L5). Ursprunglig indikation: Icke-småcellig lungcancer, lungcancer (enligt kunskapsgrafen"
 monitor_inn: "GEFITINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa"]
+description: "Gefitinib: predikterad ny indikation Fibromatos i tandköttet (fibromatosis, gingival) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Gefitinib
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Gefitinib: Från icke-småcellig lungcancer till fibromatos i tandköttet
+## Gefitinib: Fibromatos i tandköttet (fibromatosis, gingival)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Gefitinib är en EGFR-tyrosinkinashämmare som ursprungligen används för att b
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Icke-småcellig lungcancer, lungcancer (enligt kunskapsgrafen; godkännandenas indikationstext är tom) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Fibromatos i tandköttet (fibromatosis, gingival) |
-| TxGNN-förutsägelsepoäng | 99,9 % |
+| TxGNN-förutsägelsepoäng | 0.9989 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 2 (båda avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -62,7 +62,7 @@ Gefitinib är en EGFR-tyrosinkinashämmare som ursprungligen används för att b
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Gefitinib är dock allmänt känt som en selektiv hämmare av EGFR-tyrosinkinas, och dess effekt vid EGFR-muterad NSCLC är väl belagd.
 
-Ett tänkbart samband är att EGFR/ErbB-signalering bidrar till fibroblastproliferation, vilket skulle kunna vara relevant vid fibrös överväxt i tandköttet. Detta är dock **spekulativt och oprövat**. Den höga poängen kan i hög grad bero på närhet i kunskapsgrafen snarare än på ett påvisat biologiskt samband. Ingen studie har undersökt gefitinib vid denna sjukdom.
+Ett tänkbart samband är att EGFR/ErbB-signalering bidrar till fibroblastproliferation, vilket skulle kunna vara relevant vid fibrös överväxt i tandköttet. Detta är dock **spekulativt och oprövat**. Den höga poängen kommer från TxGNN-modellen (deep learning) och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens. Ingen studie har undersökt gefitinib vid denna sjukdom.
 
 ---
 
@@ -70,8 +70,8 @@ Ett tänkbart samband är att EGFR/ErbB-signalering bidrar till fibroblastprolif
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 56625 | Gefitinib STADA (STADA Arzneimittel AG) | Filmdragerad tablett | Ingen indikationstext tillgänglig (avregistrerad) |
-| 56936 | Gefitinib Accord (Accord Healthcare B.V.) | Filmdragerad tablett | Ingen indikationstext tillgänglig (avregistrerad) |
+| 56625 | Gefitinib STADA (STADA Arzneimittel AG) | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänd) |
+| 56936 | Gefitinib Accord (Accord Healthcare B.V.) | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänd) |
 
 ---
 
@@ -118,7 +118,7 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 - Hämta verkningsmekanismdata (t.ex. via DrugBank) och produktresumétexter om varningar och kontraindikationer från Läkemedelsverket
 - Prekliniska studier (t.ex. fibroblastmodeller) som testar om EGFR-hämning påverkar fibros i tandköttet
 - Fallserier eller prövningar vid gingival fibromatos innan en klinisk bedömning görs
-- Klargöra regulatorisk status, eftersom inga giltiga godkännanden finns i Sverige
+- Klargöra regulatorisk status, eftersom 2 giltiga godkännanden av 2 finns i Sverige
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

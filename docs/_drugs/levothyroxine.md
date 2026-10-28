@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Levothyroxine
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 263
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Levothyroxine: predikterad ny indikation Endemisk struma (evidensnivå L3). Ursprunglig indikation: Hypotyreos"
+evidence_level: L5
+indication_count: 4
 monitor_inn: "levothyroxine"
-predicted_indications: ["endemic goiter", "renal hypodysplasia/aplasia", "nodular goiter (disease)", "bilateral renal agenesis", "nontoxic goiter", "lingual goiter", "substernal goiter", "dyshormonogenic goiter", "Potter sequence", "Carney complex"]
+predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
+last_modified_at: 2026-10-23
+description: "Levothyroxine: predikterad ny indikation Renal hypodysplasia/aplasia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Levothyroxine
 {: .fs-9 }
 
-Evidensnivå: **L3** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Levotyroxin: Från hypotyreos till endemisk struma
+## Levothyroxine: Renal hypodysplasia/aplasia
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Levotyroxin är ett syntetiskt sköldkörtelhormon som ursprungligen används vid hypotyreos och andra sköldkörtelsjukdomar. TxGNN-modellen förutsäger att det kan vara effektivt mot **endemisk struma** (jodbristrelaterad struma), med en förutsägelsepoäng på cirka 99,8 %. Stödet utgörs av **20 publikationer**, varav flera kliniska studier från 1988–1998, men **inga registrerade kliniska prövningar** för just denna indikation.
+Levotyroxin är ett syntetiskt sköldkörtelhormon som används vid hypotyreos och andra sköldkörtelrelaterade tillstånd. TxGNN-modellen förutsäger att det kan vara effektivt mot **renal hypodysplasi/aplasi**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna riktning.
 
 ---
 
@@ -48,23 +48,25 @@ Levotyroxin är ett syntetiskt sköldkörtelhormon som ursprungligen används vi
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Hypotyreos (enligt kunskapsgrafen; ingen godkänd indikationstext finns i licensuppgifterna) |
-| Förutsagd ny indikation | Endemisk struma |
-| TxGNN-förutsägelsepoäng | 99,8 % |
-| Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 20 (0 giltiga, 20 avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Renal hypodysplasia/aplasia |
+| TxGNN-förutsägelsepoäng | 0.9967 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Antal godkännanden | Minst 20 godkännanden (listan kan vara ofullständig) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är levotyroxin ett ersättningshormon för sköldkörtelns eget tyroxin. Dess effekt vid hypotyreos och andra sköldkörtelsjukdomar är väl belagd, och mekanistiskt kan det vara tillämpligt vid endemisk struma.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är levotyroxin en syntetisk form av sköldkörtelhormonet tyroxin. Dess effekt vid hypotyreos är väletablerad, men någon tydlig mekanistisk koppling till den nya indikationen kan inte styrkas.
 
-Jodbrist minskar sköldkörtelns hormonproduktion och höjer TSH, som i sin tur driver tillväxten av sköldkörtelvävnad. Levotyroxin sänker TSH och minskar därmed tillväxtstimulansen. Det ges ofta tillsammans med jodid, eftersom jodbristen inuti sköldkörteln annars kvarstår efter behandling med enbart levotyroxin.
+Sköldkörtelhormon påverkar fosterutveckling och njurutveckling i allmänna termer, men detta är ett ospecifikt samband. Renal hypodysplasi/aplasi är en strukturell medfödd missbildning som främst drivs av genetiska varianter (t.ex. *PAX2*, *HNF1B*, *RET*, *GATA3*) som stör njurens bildning. Behandling med sköldkörtelhormon efter födseln förväntas inte kunna reversera detta.
 
-Indikationen ligger nära läkemedlets kända användning vid struma och sköldkörtelsjukdom. Det rör sig alltså om en utvidgning av en befintlig användning och inte om en ny mekanism.
+Den höga poängen (0,9967) är en ren prediktion från TxGNN-modellen (djupinlärning). Den speglar sannolikt nätverksnärhet via gemensamma gener och fenotyper kopplade till medfödda eller endokrina tillstånd, inte en verklig terapeutisk effekt.
+
+Övriga förutsagda indikationer i modellen (bilateral renal agenesi, Potter-sekvens och Carney complex) har likaså inga studier. De två första saknar en trovärdig mekanistisk koppling. För Carney complex är kopplingen indirekt och spekulativ, via sköldkörtelengagemang och TSH-suppression, men det finns inga belägg för nytta och sjukdomens kärnmekanismer påverkas inte av läkemedlet.
 
 ---
 
@@ -76,24 +78,13 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Litteraturbevis
 
-| PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|-----|------|------|---------|
-| [2515973](https://pubmed.ncbi.nlm.nih.gov/2515973/) | 1989 | Multicenterstudie (randomiserad) | European Journal of Clinical Investigation | 166 patienter lottades till levotyroxin, jod eller kombination i 12 månader. |
-| [3278876](https://pubmed.ncbi.nlm.nih.gov/3278876/) | 1988 | Multicenterstudie | Deutsche medizinische Wochenschrift | 74 patienter med diffus endemisk struma behandlades i 6 månader med enbart levotyroxin eller levotyroxin plus kaliumjodid. |
-| [1789063](https://pubmed.ncbi.nlm.nih.gov/1789063/) | 1991 | Dubbelblind klinisk studie | Acta Endocrinologica | Jämförde jod ensamt med jod plus levotyroxin avseende jodhalten i sköldkörteln. |
-| [7900936](https://pubmed.ncbi.nlm.nih.gov/7900936/) | 1993 | Klinisk studie | Clinical Endocrinology | Effekt av levotyroxin eller jod på sköldkörtelstorlek och tillväxtstimulerande immunglobuliner. |
-| [8676600](https://pubmed.ncbi.nlm.nih.gov/8676600/) | 1996 | Klinisk studie (ungdomar) | Klinische Pädiatrie | 106 ungdomar behandlades med jod eller jod plus levotyroxin. Studien följde sköldkörtelvolym, hormoner och blodfetter. |
-| [9011485](https://pubmed.ncbi.nlm.nih.gov/9011485/) | 1996 | Klinisk studie (äldre) | Deutsche medizinische Wochenschrift | Jämförde jodid (300 µg) med levotyroxin (1,5 µg/kg) hos medelålders och äldre patienter. |
-| [11256036](https://pubmed.ncbi.nlm.nih.gov/11256036/) | 2001 | Klinisk jämförelse | Deutsche medizinische Wochenschrift | Jämförde två doser av kombinationen levotyroxin och jodid vid diffus struma. |
-| [24393641](https://pubmed.ncbi.nlm.nih.gov/24393641/) | 1998 | Populationsstudie | Asia Pacific Journal of Clinical Nutrition | Ursprungsbefolkning i ett jodbristområde fick 100 µg levotyroxin per dag och följdes i 1,5 år. |
-| [9711053](https://pubmed.ncbi.nlm.nih.gov/9711053/) | 1998 | Biotillgänglighetsstudie | Medizinische Klinik | Kontrollerad dubbelblind studie som jämförde levotyroxin plus jod med enbart levotyroxin. |
-| [8147031](https://pubmed.ncbi.nlm.nih.gov/8147031/) | 1993 | Översikt | Zeitschrift für die gesamte innere Medizin | Jod bör alltid ingå i behandlingen vid euthyroid diffus endemisk struma. Enbart levotyroxin lämnar jodbristen i sköldkörteln oförändrad. |
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är avregistrerade. Ingen godkänd indikationstext finns angiven i licensuppgifterna. Tabellen visar fem av godkännandena.
+Nedan visas ett urval av godkännandena. Listan kan vara ofullständig. Indikationstext finns inte angiven i de underlag som sammanställts för denna rapport.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -107,13 +98,15 @@ Alla 20 godkännanden är avregistrerade. Ingen godkänd indikationstext finns a
 
 ## Säkerhetsaspekter
 
-- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumén): hypertoni, hypofyssvikt (hypopituitarism), Kallmanns syndrom, Sheehans syndrom, tymussjukdom, osteoporos (även postmenopausal), diabetes mellitus, diabetesketoacidos, kranskärlssjukdom och hjärtinfarkt.
-- **Läkemedelsinteraktioner:** totalt 666 interaktioner är registrerade. De flesta som visas är av måttlig grad.
-  - Diabetesläkemedel: metformin, pioglitazon, klorpropamid, akarbos samt alogliptin, kanagliflozin, dapagliflozin och empagliflozin, och GLP-1-agonisterna albiglutid och dulaglutid.
-  - Syrahämmare: omeprazol, rabeprazol, dexlansoprazol (cimetidin är av mindre allvarlig grad).
-  - Mineraler: kalciumfosfat, kalciumacetat och magnesiumoxid.
-  - Övriga: adrenalin, isometepten och dietylpropion.
-- **Risker vid TSH-hämmande behandling:** överdriven hämning av TSH kan ge förmaksflimmer och benförlust. Dosen bör därför följas upp med TSH-mätning, särskilt hos patienter med hjärt- eller skelettrisk.
+- **Relationer i kunskapsgrafen (inte produkttext):** Kunskapsgrafen registrerar kontraindikationsrelationer mellan levotyroxin och bland annat hypertoni, hypofysinsufficiens (inklusive tillväxthormonbrist och hypogonadotrop hypogonadism), Kallmanns syndrom, Sheehans syndrom, osteoporos (inklusive postmenopausal), diabetes mellitus, diabetisk ketoacidos, kranskärlssjukdom och hjärtinfarkt. Detta är inte hämtat från läkemedelstexten och måste verifieras mot produktresumén.
+- **Läkemedelsinteraktioner:** Totalt 666 interaktioner har identifierats. Exempel på måttliga interaktioner:
+  - Diabetesläkemedel: acarbos, metformin, pioglitazon, alogliptin, kanagliflozin, dapagliflozin, empagliflozin, klorpropamid, albiglutid, dulaglutid
+  - Syrahämmare: omeprazol, rabeprazol, dexlansoprazol
+  - Mineraler/antacida: kalciumfosfat, kalciumacetat, magnesiumoxid
+  - Sympatomimetika: adrenalin, isometepten, dietylpropion
+  - Cimetidin: lindrig interaktion
+
+Varningar och kontraindikationer från produktresumén ingår inte i underlaget. Se produktresumén för fullständig säkerhetsinformation.
 
 ---
 
@@ -122,15 +115,13 @@ Alla 20 godkännanden är avregistrerade. Ingen godkänd indikationstext finns a
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen är mekanistiskt rimlig och stöds av kliniska studier, men dessa är äldre (1988–2001), utan registrerade prövningar. Dessutom visar flera studier och översikter att jod bör ingå i behandlingen, så levotyroxin ensamt är inte tydligt förstahandsval.
-- Inga av godkännandena i Sverige är giltiga, så det finns för närvarande ingen marknadsförd produkt.
+- Förutsägelsen saknar helt stöd i kliniska prövningar och litteratur (evidensnivå L5) och har ingen trovärdig mekanistisk grund. Renal hypodysplasi/aplasi är en strukturell, genetiskt betingad missbildning som inte förväntas påverkas av sköldkörtelhormon.
 
 **För att gå vidare krävs:**
-- Aktuell, kontrollerad klinisk evidens (helst randomiserad prövning) för levotyroxin, ensamt eller med jod, vid endemisk struma.
-- Uppgifter om verkningsmekanism samt varningar och kontraindikationer från produktresumén.
-- Klarhet i regulatorisk status och tillgänglig produkt i Sverige.
-- Ett säkerhetsupplägg för TSH-uppföljning och uteslutande av patienter med hjärt- eller skelettrisk.
-- Observera att den närliggande indikationen **nodulär struma** har starkare stöd i det sammanställda underlaget, bland annat en stor randomiserad, placebokontrollerad fas 4-studie (NCT00277589, 1 024 deltagare). Den kan vara värd att utvärdera i första hand.
+- Hämta verkningsmekanismdata för levotyroxin.
+- Hämta varningar och kontraindikationer från produktresumén för säkerhetsbedömning.
+- Genomföra en systematisk litteratursökning efter prekliniska eller kliniska data som direkt studerar levotyroxin vid renal hypodysplasi/aplasi.
+- Utvärdera en eventuell biologisk koppling mellan sköldkörtelhormon och njurutveckling innan någon klinisk prövning övervägs.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

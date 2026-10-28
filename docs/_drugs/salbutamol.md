@@ -4,17 +4,17 @@ title: Salbutamol
 parent: Endast modellprediktion (L5)
 nav_order: 391
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Salbutamol: predikterad ny indikation Papillär konjunktivit (evidensnivå L5). Ursprunglig indikation: Astma och bronkiell sjukdom (enligt TxGNN:s kunskapsgraf"
 monitor_inn: "salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "bronchitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
+description: "Salbutamol: predikterad ny indikation Papillär konjunktivit (papillary conjunctivitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Salbutamol
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Salbutamol: Från astma till papillär konjunktivit
+## Salbutamol: Papillär konjunktivit (papillary conjunctivitis)
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Salbutamol är en kortverkande luftrörsvidgande medicin som ursprungligen anvä
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Astma och bronkiell sjukdom (enligt TxGNN:s kunskapsgraf; ingen godkänd indikationstext finns i de svenska godkännandena) |
-| Förutsagd ny indikation | Papillär konjunktivit |
-| TxGNN-förutsägelsepoäng | 99,996 % (rang 80) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Papillär konjunktivit (papillary conjunctivitis) |
+| TxGNN-förutsägelsepoäng | 1.0000 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 

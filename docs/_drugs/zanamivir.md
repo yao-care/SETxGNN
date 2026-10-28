@@ -6,9 +6,9 @@ nav_order: 456
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Zanamivir: predikterad ny indikation Pyelonefrit (evidensnivå L5). Ursprunglig indikation: Influensa"
 monitor_inn: "ZANAMIVIR"
 predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
+description: "Zanamivir: predikterad ny indikation Pyelonephritis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Zanamivir
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Zanamivir: Från influensa till pyelonefrit
+## Zanamivir: Pyelonephritis
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Zanamivir är en neuraminidashämmare som ursprungligen användes för att behandla **influensa**. TxGNN-modellen förutsäger att det kan vara effektivt mot **pyelonefrit** (poäng 99,8 %), men det finns **inga kliniska prövningar och ingen litteratur** som stöder denna riktning. Förutsägelsen bygger enbart på modellen.
+Zanamivir är en neuraminidashämmare som ursprungligen användes för att behandla **influensa**. Förutsägelsen bygger enbart på modellen.
 
 ---
 
@@ -48,12 +48,12 @@ Zanamivir är en neuraminidashämmare som ursprungligen användes för att behan
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Influensa (enligt kunskapsgrafen; godkänd indikationstext saknas i det svenska registret) |
-| Förutsagd ny indikation | Pyelonefrit |
-| TxGNN-förutsägelsepoäng | 99,8 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Pyelonephritis |
+| TxGNN-förutsägelsepoäng | 0.9984 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---

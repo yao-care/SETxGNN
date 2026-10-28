@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Posaconazole
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 357
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Posaconazole: predikterad ny indikation Pneumocystos (evidensnivå L4). Ursprunglig indikation: Ingen godkänd indikationstext registrerad. Enligt kunskapsgrafen: bl.…"
 monitor_inn: "posaconazole"
 predicted_indications: ["pneumocystosis"]
+description: "Posaconazole: predikterad ny indikation Pneumocystosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Posaconazole
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **1** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Posakonazol: Från kromomykos och andra svamp­infektioner till pneumocystos
+## Posaconazole: Pneumocystosis
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Posakonazol är ett azolbaserat svampmedel som ursprungligen användes mot flera
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext registrerad. Enligt kunskapsgrafen: bl.a. kromomykos, kokcidioidomykos, aspergillos, candidiasis, histoplasmos, sporotrikos |
-| Förutsagd ny indikation | Pneumocystos |
-| TxGNN-förutsägelsepoäng | 99,8 % |
-| Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 8 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Pneumocystosis |
+| TxGNN-förutsägelsepoäng | 0.9977 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
+| Antal godkännanden | 8 (giltiga: 8) |
 | Rekommenderat beslut | Avvakta |
 
 ---

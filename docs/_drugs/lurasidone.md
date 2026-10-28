@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lurasidone
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 272
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Lurasidone: predikterad ny indikation Manisk bipolär affektiv sjukdom (evidensnivå L3). Ursprunglig indikation: Bipolär sjukdom och schizofreni (enligt TxGNN:s kunskapsgraf"
 monitor_inn: "lurasidone"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "syndromic myopia", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
+description: "Lurasidone: predikterad ny indikation Retinal dystrophy with or without extraocular anomalies (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Lurasidone
 {: .fs-9 }
 
-Evidensnivå: **L3** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Lurasidon: Från schizofreni och bipolär sjukdom till manisk bipolär affektiv sjukdom
+## Lurasidone: Retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Lurasidon är ett antipsykotikum som enligt de data som sammanställts för denn
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Bipolär sjukdom och schizofreni (enligt TxGNN:s kunskapsgraf; indikationstext saknas i svenska godkännanden) |
-| Förutsagd ny indikation | Manisk bipolär affektiv sjukdom |
-| TxGNN-förutsägelsepoäng | 99,98 % |
-| Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 20 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Retinal dystrophy with or without extraocular anomalies |
+| TxGNN-förutsägelsepoäng | 0.9995 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 20 av 20) |
+| Antal godkännanden | 20 (giltiga: 20) |
 | Rekommenderat beslut | Avvakta |
 
 ---

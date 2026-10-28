@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Deferiprone
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 130
-evidence_level: L5
-indication_count: 9
+evidence_level: L4
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Deferiprone: predikterad ny indikation Hepatisk porfyri (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns i de svenska godkännandena. Enlig…"
 monitor_inn: "deferiprone"
 predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "hepatoportal sclerosis", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary"]
+description: "Deferiprone: predikterad ny indikation Hepatisk porfyri (hepatic porphyria) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Deferiprone
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **9** st
+Evidensnivå: **L4** | Förutsagda indikationer: **8** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-## Deferipron: Från hemosideros och beta-talassemi till hepatisk porfyri
+## Deferiprone: Hepatisk porfyri (hepatic porphyria)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Deferipron är en oral järnkelator som ursprungligen används vid järnöversko
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen: hemosideros, beta-talassemi och relaterade hemoglobinopatier |
-| Förutsagd ny indikation | Hepatisk porfyri |
-| TxGNN-förutsägelsepoäng | 99,2 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Hepatisk porfyri (hepatic porphyria) |
+| TxGNN-förutsägelsepoäng | 0.9920 |
 | Evidensnivå | L4 (endast prekliniska studier) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 5 (samtliga indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
+| Antal godkännanden | 5 (giltiga: 5) |
 | Rekommenderat beslut | Avvakta |
 
 ---

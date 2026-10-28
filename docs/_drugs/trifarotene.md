@@ -6,9 +6,9 @@ nav_order: 439
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Trifarotene: predikterad ny indikation Förhöjt zink i plasma (evidensnivå L5). Ursprunglig indikation: Akne (enligt TxGNN-kunskapsgrafen"
 monitor_inn: "trifarotene"
 predicted_indications: ["zinc, elevated plasma", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome"]
+description: "Trifarotene: predikterad ny indikation Förhöjt zink i plasma (zinc, elevated plasma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Trifarotene
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Trifarotene: Från akne till förhöjt zink i plasma
+## Trifarotene: Förhöjt zink i plasma (zinc, elevated plasma)
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Trifarotene är en retinoid som appliceras på huden och som ursprungligen anvä
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Akne (enligt TxGNN-kunskapsgrafen; indikationstext saknas i det svenska godkännandet) |
-| Förutsagd ny indikation | Förhöjt zink i plasma |
-| TxGNN-förutsägelsepoäng | 99,4 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Förhöjt zink i plasma (zinc, elevated plasma) |
+| TxGNN-förutsägelsepoäng | 0.9940 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 1 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 Något trovärdigt mekanistiskt samband med förhöjt zink i plasma har inte kunnat identifieras. Förhöjt zink i plasma är ett laboratoriefynd som oftast hänger ihop med zinktillskott, njurfaktorer eller analysförhållanden. Det är inte en sjukdomsprocess som är känd för att påverkas av RAR-gamma-signalering. Dessutom bryts trifarotene snabbt ned i kroppen, vilket ger låg systemisk exponering vid lokal behandling, och det gör en effekt på plasmanivåer av zink ännu mindre sannolik.
 
-Det mycket höga förutsägelsepoängen (0,994) är en ren modellprognos. Den kan bero på artefakter i kunskapsgrafen, till exempel gemensamma kopplingar via retinoid- eller hudrelaterade vägar, snarare än ett verkligt terapeutiskt samband.
+Det mycket höga förutsägelsepoängen (0.9940) kommer från TxGNN-modellen (deep learning) och är en ren modellprognos. Poängen kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens.
 
 ---
 
@@ -104,7 +104,7 @@ Se produktresumén för övrig säkerhetsinformation, inklusive varningar och ko
 
 ---
 
-**Kompletterande kommentar om förutsägelse nr 2:** Den näst högst rankade förutsägelsen, *PAPA-syndromet* (pyogen artrit, pyoderma gangrenosum och akne; poäng 99,3 %), har ett indirekt och hypotesbaserat samband. Trifarotene skulle teoretiskt kunna påverka de akneliknande hudförändringarna, men inte de bakomliggande autoinflammatoriska mekanismerna, som normalt behandlas med IL-1- eller TNF-hämmare och kortikosteroider. Även här saknas kliniska prövningar och litteratur (evidensnivå L5, rekommendation: avvakta).
+**Kompletterande kommentar om förutsägelse nr 2:** Den näst högst rankade förutsägelsen, *PAPA-syndromet* (pyogen artrit, pyoderma gangrenosum och akne; poäng 0.9932), har ett indirekt och hypotesbaserat samband. Trifarotene skulle teoretiskt kunna påverka de akneliknande hudförändringarna, men inte de bakomliggande autoinflammatoriska mekanismerna, som normalt behandlas med IL-1- eller TNF-hämmare och kortikosteroider. Även här saknas kliniska prövningar och litteratur (evidensnivå L5, rekommendation: avvakta).
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

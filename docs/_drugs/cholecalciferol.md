@@ -4,17 +4,17 @@ title: Cholecalciferol
 parent: Endast modellprediktion (L5)
 nav_order: 97
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-15
-description: "Cholecalciferol: predikterad ny indikation Familjär isolerad hypoparatyreoidism orsakad av nedsatt PTH-sekretion (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns i de sve…"
+indication_count: 4
 monitor_inn: "cholecalciferol"
-predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "hypophosphatemic rickets", "renal osteodystrophy", "renal tubular acidosis"]
+predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
+last_modified_at: 2026-10-27
+description: "Cholecalciferol: predikterad ny indikation Akromesomelisk dysplasi, Campailla–Martinelli-typ (acromesomelic dysplasia, Campailla Martinelli type) (evidensnivå L5). Ursprunglig indikation: Inte angive…"
 ---
 
 # Cholecalciferol
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **7** st
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Kolekalciferol: Från D-vitaminbrist och benrelaterade sjukdomar till familjär isolerad hypoparatyreoidism orsakad av nedsatt PTH-sekretion
+## Kolekalciferol: vitamin D3-prekursor → Akromesomelisk dysplasi, Campailla–Martinelli-typ (acromesomelic dysplasia, Campailla Martinelli type)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Kolekalciferol (D-vitamin D3) används för att behandla och förebygga D-vitaminbrist och benrelaterade tillstånd som osteoporos, rakitis, osteomalaci och hypoparatyreoidism. TxGNN-modellen förutsäger att det kan vara effektivt mot **familjär isolerad hypoparatyreoidism orsakad av nedsatt PTH-sekretion**, men **inga kliniska prövningar och ingen sjukdomsspecifik litteratur** stöder för närvarande denna förutsägelse. Underlaget består enbart av modellens förutsägelse.
+Kolekalciferol (vitamin D3) är ett vitamin D-preparat som är marknadsfört i Sverige. TxGNN-modellen förutsäger att det kan vara effektivt mot **akromesomelisk dysplasi, Campailla–Martinelli-typ (acromesomelic dysplasia, Campailla Martinelli type)**, en sällsynt genetisk skelettdysplasi. För denna förutsägelse finns **inga kliniska prövningar** och **ingen publicerad litteratur** i de data som sammanställts för rapporten, så underlaget består enbart av modellens förutsägelse.
 
 ---
 
@@ -48,23 +48,21 @@ Kolekalciferol (D-vitamin D3) används för att behandla och förebygga D-vitami
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns i de svenska godkännandena. Enligt kunskapsgrafen gäller bland annat D-vitaminbrist, osteoporos, rakitis, osteomalaci och hypoparatyreoidism. |
-| Förutsagd ny indikation | Familjär isolerad hypoparatyreoidism orsakad av nedsatt PTH-sekretion |
-| TxGNN-förutsägelsepoäng | 99,8 % |
-| Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 20 (alla indragna) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Akromesomelisk dysplasi, Campailla–Martinelli-typ (acromesomelic dysplasia, Campailla Martinelli type) |
+| TxGNN-förutsägelsepoäng | 0,9978 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är kolekalciferol en förstadie till det aktiva D-vitaminet (kalcitriol). Det har en väletablerad effekt på kalcium- och fosfatbalansen och används vid flera skelettrelaterade sjukdomar. Mekanistiskt kan det därför vara tillämpbart vid störningar i kalciumregleringen.
+För närvarande finns ingen detaljerad data om verkningsmekanismen tillgänglig. Baserat på allmänt känd information är kolekalciferol en prekursor till det aktiva D-vitaminet och har en etablerad roll i kalcium- och fosfatomsättningen samt benmineraliseringen.
 
-Hypoparatyreoidism ingår redan bland de indikationer som kunskapsgrafen kopplar till läkemedlet. Den nya förutsägelsen gäller alltså en ärftlig undertyp av ett tillstånd som läkemedlet redan är kopplat till. Vid PTH-brist används D-vitamin för att hålla kalciumnivåerna uppe, vilket är biologiskt rimligt. I praktiken är det dock oftast aktiva former som kalcitriol eller alfakalcidol som används, eftersom kroppen vid PTH-brist har svårt att omvandla vanligt D-vitamin till den aktiva formen.
-
-Den mycket höga poängen beror troligen på överlappningen med den befintliga hypoparatyreoidism-indikationen och inte på ny evidens för just denna undertyp.
+Den höga poängen (0,9978) är en rent beräkningsmässig förutsägelse. Akromesomelisk dysplasi av Campailla–Martinelli-typ är en sällsynt genetisk skelettsjukdom, och kolekalciferols allmänna roll i benomsättningen utgör ingen känd orsaksväg för just denna sjukdom. Något stödjande mekanistiskt samband kan därför inte styrkas med de data som finns tillgängliga.
 
 ---
 
@@ -82,26 +80,25 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna och inget är giltigt. Nedan visas fem av dem. Ingen godkänd indikationstext finns registrerad.
+Läkemedlet har marknadsstatus **Marknadsförd**. Minst 20 godkännanden finns, och listan kan vara ofullständig. Samtliga 20 listade godkännanden är giltiga. Ett urval av godkännandena:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 54666 | Fultium (STADA) | Orala droppar, lösning | Ej angiven |
-| 54662 | Fultium (STADA) | Kapsel, mjuk | Ej angiven |
+| 54666 | Fultium | Orala droppar, lösning | Ej angiven |
+| 54662 | Fultium | Kapsel, mjuk | Ej angiven |
 | 60099 | Colecalciferol Strides | Kapsel, mjuk | Ej angiven |
-| 43883 | Detremin (Renapharma) | Orala droppar, lösning | Ej angiven |
-| 51902 | Divisun (Viatris) | Tablett | Ej angiven |
+| 43883 | Detremin | Orala droppar, lösning | Ej angiven |
+| 51902 | Divisun | Tablett | Ej angiven |
 
 ---
 
 ### Säkerhetsaspekter
 
-- **Kontraindikationer i kunskapsgrafen** (kopplingar mellan läkemedel och sjukdom i kunskapsgrafen, inte text från produktresumén): hyperkalcemi, hyperparatyreoidism, nefrokalcinos, sarkoidos, njursjukdom, leversjukdom, gallblåsesjukdom, primär hyperoxaluri, rubbningar i fosfatomsättningen, högt blodtryck, diabetes, förmaksflimmer, hyperlipidemi, järnmetabolismrubbningar (till exempel hereditär hemokromatos), Wilsons sjukdom samt bröst- och prostatacancer.
-- **Läkemedelsinteraktioner** (56 registrerade, de viktigaste nedan):
-  - **Allvarliga (Major)**: kalcifediol, kalcitriol, dihydrotakysterol och doxerkalciferol. Samtidig användning av flera D-vitaminpreparat ökar risken för hyperkalcemi.
-  - **Måttliga (Moderate)**: tiaziddiuretika (till exempel bendroflumetiazid, klortalidon), barbiturater, karbamazepin, gallsyrebindare (kolestyramin, kolestipol, kolesevelam) samt digoxin och digitoxin.
+- **Läkemedelsinteraktioner**: Totalt 56 interaktioner är registrerade. Bland de som lyfts fram i data finns:
+  - **Allvarliga (Major)**: kalcifediol, kalcitriol, dihydrotachysterol, doxerkalciferol (andra D-vitaminanaloger, risk för additiv effekt)
+  - **Måttliga (Moderate)**: tiaziddiuretika (t.ex. bendroflumetiazid, klortalidon), barbiturater (t.ex. amobarbital, butabarbital), karbamazepin, gallsyrebindare (kolestyramin, kolesevelam, kolestipol), digoxin och digitoxin
 
-Se produktresumén för fullständiga varningar och kontraindikationer, eftersom sådan information inte finns i underlaget.
+Se produktresumén för övrig säkerhetsinformation, inklusive varningar och kontraindikationer.
 
 ---
 
@@ -110,15 +107,13 @@ Se produktresumén för fullständiga varningar och kontraindikationer, eftersom
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på modellen (L5), utan kliniska prövningar eller sjukdomsspecifik litteratur. Den höga poängen speglar sannolikt att hypoparatyreoidism redan är en känd indikation och inte ny evidens för just denna ärftliga undertyp.
-- Alla svenska godkännanden är indragna, så det finns ingen aktiv marknadsföring att bygga vidare på.
+- Förutsägelsen bygger enbart på modellens poäng. Inga kliniska prövningar eller publikationer studerar kolekalciferol vid denna sjukdom, och ett mekanistiskt samband kan inte styrkas.
 
 **För att gå vidare krävs:**
-- Sjukdomsspecifik litteratur eller kliniska data för familjär isolerad hypoparatyreoidism, inklusive en jämförelse mellan kolekalciferol och aktiva D-vitaminformer.
-- Genomgång av produktresumén för säkerhetsinformation, eftersom varningar och kontraindikationer saknas i underlaget.
-- Bedömning av regulatorisk väg, eftersom inga svenska godkännanden är giltiga.
-
-**Observera:** Bland de andra förutsägelserna för kolekalciferol har **renal osteodystrofi** (poäng 99,1 %) klart starkast stöd, med evidensnivå L2. Där finns bland annat en fas 3-prövning (NCT00752401, status okänd), en avslutad jämförande studie (NCT00285467) och flera studier på dialys- och transplantationspatienter. Den förutsägelsen kan vara en bättre kandidat att utvärdera först. Övervakning av kalcium, fosfat, PTH och 25(OH)D samt undvikande av hyperkalcemi skulle då vara viktiga skyddsåtgärder.
+- Prekliniska eller mekanistiska data som visar ett samband mellan D-vitaminmetabolism och sjukdomens orsaksväg
+- Litteratursökning och eventuella fallrapporter som specifikt rör denna sjukdom
+- Hämtning av produktresumé med varningar och kontraindikationer från Läkemedelsverket
+- Uppgifter om verkningsmekanismen från DrugBank
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

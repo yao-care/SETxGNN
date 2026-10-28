@@ -4,17 +4,17 @@ title: Atenolol
 parent: Endast modellprediktion (L5)
 nav_order: 43
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-15
-description: "Atenolol: predikterad ny indikation Posterolateral hjärtinfarkt (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext finns registrerad i de svenska godkännandena. E…"
+indication_count: 5
 monitor_inn: "ATENOLOL"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
+last_modified_at: 2026-10-27
+description: "Atenolol: predikterad ny indikation Malign hypertensiv njursjukdom (malignant hypertensive renal disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Atenolol
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **9** st
+Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,63 +33,56 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-## Atenolol: Från högt blodtryck och hjärtinfarkt till posterolateral hjärtinfarkt
+## Atenolol: betareceptorblockerare (selektiv beta-1) → Malign hypertensiv njursjukdom (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ---
 
-## Sammanfattning
+### Sammanfattning
 
-Atenolol är en selektiv beta-1-blockerare som ursprungligen används vid högt blodtryck (hypertoni) och hjärtinfarkt. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **posterolateral hjärtinfarkt**, men det är en anatomisk undertyp av hjärtinfarkt, som redan är en etablerad indikation, och den höga poängen speglar framför allt överlappet med den befintliga indikationen. Det finns **0 kliniska prövningar** och **0 publikationer** som direkt stöder just denna förutsägelse.
+Atenolol är en selektiv beta-1-blockerare som är godkänd och marknadsförd i Sverige. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **malign hypertensiv njursjukdom (malignant hypertensive renal disease)**. Det finns dock **inga kliniska prövningar och ingen publicerad litteratur** som studerar denna sjukdom, så förutsägelsen bygger enbart på modellen.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen indikationstext finns registrerad i de svenska godkännandena. Enligt kunskapsgrafen: högt blodtryck, hjärtinfarkt, kranskärlstrombos |
-| Förutsagd ny indikation | Posterolateral hjärtinfarkt |
-| TxGNN-förutsägelsepoäng | 99,87 % |
-| Evidensnivå | L5 (endast modellförutsägelse, inga faktiska studier) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 14 (alla avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Malign hypertensiv njursjukdom (malignant hypertensive renal disease) |
+| TxGNN-förutsägelsepoäng | 0,9985 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 14 av 14) |
+| Antal godkännanden | 14 (giltiga: 14) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Baserat på känd information är atenolol en hjärtselektiv beta-1-blockerare. Den sänker hjärtfrekvens och hjärtats syrebehov, och effekten vid hjärtinfarkt och högt blodtryck är väletablerad.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Atenolol är dock en beta-1-selektiv blockerare, och en sådan substans sänker blodtrycket och dämpar frisättningen av renin.
 
-Posterolateral hjärtinfarkt är en anatomisk undertyp av hjärtinfarkt, alltså en infarkt i hjärtats bak- och sidovägg. Eftersom hjärtinfarkt redan är en ursprunglig indikation för atenolol är sambandet nära, och förutsägelsen är mer en förlängning av den befintliga indikationen än en ny återanvändningsmöjlighet.
+Malign hypertensiv njursjukdom orsakas av mycket högt blodtryck som skadar njurens kärl. Teoretiskt kan blodtryckssänkning och minskad reninfrisättning därför ge nytta, eftersom skadan drivs av just högt tryck och aktivering av renin-angiotensinsystemet.
 
-Mekanistiskt är beta-1-blockad tillämpbar oavsett var i hjärtmuskeln infarkten sitter. Det saknas dock studier som specifikt belyser denna undertyp.
+Poängen är hög (0,9985), men den speglar sannolikt främst att atenolol redan används vid högt blodtryck och att närliggande sjukdomar ligger nära varandra i modellen. Den utgör inte i sig något stöd för effekt vid denna sjukdom.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
-Ingen relaterad litteratur tillgänglig för närvarande för posterolateral hjärtinfarkt.
-
-Som jämförelse finns begränsad indirekt litteratur för närliggande förutsägelser i samma modellkörning:
-
-| PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|-----|------|------|---------|
-| [3901170](https://pubmed.ncbi.nlm.nih.gov/3901170/) | 1985 | Randomiserad singelblind crossover-studie | La Revue de médecine interne | Jämförde den anti-ischemiska effekten av atenolol och diltiazem hos 23 patienter 4 veckor efter en begränsad posteroinferior eller främre hjärtinfarkt. Liten, gammal och indirekt studie (gäller posteroinferior hjärtinfarkt) |
-| [7257500](https://pubmed.ncbi.nlm.nih.gov/7257500/) | 1981 | Diagnostisk klinisk studie | Zeitschrift für Kardiologie | Talliumscintigrafi hos 14 patienter med kranskärlssjukdom efter atenolol. Diagnostisk och indirekt (gäller septal hjärtinfarkt) |
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
-## Marknadsinformation Sverige
+### Marknadsinformation Sverige
 
-Samtliga 14 godkännanden är avregistrerade och inget är giltigt för närvarande. Indikationstext saknas i data för alla godkännanden. De fem första visas nedan.
+Atenolol har 14 giltiga godkännanden för enkomponentsprodukter i Sverige. Indikationstext finns inte registrerad i de lokala uppgifterna. Nedan visas de fem första.
 
 | Godkännandenummer | Produktnamn | Beredningsform |
 |---------|------|------|
@@ -101,29 +94,28 @@ Samtliga 14 godkännanden är avregistrerade och inget är giltigt för närvara
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-- **Möjliga kontraindikationer enligt kunskapsgrafen** (ej hämtade från produktresumé): bland annat astma, atrioventrikulärt block, Raynauds sjukdom, diabetes typ 1 och 2, diabetesketoacidos, anafylaxi, leversvikt, psoriasis, systemisk lupus erythematosus, gikt och anuri.
-- **Läkemedelsinteraktioner** (100 identifierade; de viktigaste måttliga visas):
-  - Måttlig: adrenalin, hydrokortison, hyoscyamin, bupropion, triamcinolon, morfin, atropin, betametason, budesonid och kalciumpreparat (acetat, karbonat, citrat, glukonat, laktat m.fl.).
-  - Lindrig: acetylsalicylsyra, aluminiumhydroxid, attapulgit.
+**Läkemedelsinteraktioner** (100 interaktioner funna; de viktigaste exemplen):
+- **Måttlig:** adrenalin, hydrokortison, hyoscyamin, bupropion, triamcinolon, morfin, atropin, betametason, budesonid samt flera kalciumpreparat (kalciumkarbonat, kalciumcitrat, kalciumglukonat m.fl.)
+- **Lindrig:** acetylsalicylsyra, aluminiumhydroxid, attapulgit
 
-Säkerhetsinformation från produktresumén saknas i de data som sammanställts. Se produktresumén för fullständiga varningar och kontraindikationer.
+Se produktresumén för övrig säkerhetsinformation, inklusive varningar och kontraindikationer.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen är en anatomisk undertyp av en redan etablerad indikation och saknar både kliniska prövningar och direkt litteratur (evidensnivå L5). Dessutom är alla svenska godkännanden avregistrerade, så det finns ingen aktuell marknadsförd produkt.
+- Förutsägelsen stöds endast av modellpoängen. Det finns varken kliniska prövningar eller litteratur för malign hypertensiv njursjukdom, och evidensnivån är därför L5.
 
 **För att gå vidare krävs:**
-- Produktresumé från Läkemedelsverket (MPA) med varningar och kontraindikationer, eftersom säkerhetsdata för närvarande saknas.
-- Verkningsmekanismdata från DrugBank.
-- Bedömning av om undertypen tillför något utöver den befintliga hjärtinfarktindikationen, till exempel genom subgruppsanalyser av befintliga infarktstudier.
-- Klargörande av regulatorisk status och om en nylansering eller ny ansökan är aktuell, då inga godkännanden är giltiga i Sverige.
+- Litteratursökning och systematisk genomgång av betablockerare vid malign hypertensiv njursjukdom
+- Jämförelse med etablerad behandling av malign hypertoni och dess njurpåverkan
+- Hämtning av verkningsmekanism och säkerhetsinformation (varningar, kontraindikationer) från produktresumén
+- Vid behov planering av en kliniskt kontrollerad studie
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -6,9 +6,9 @@ nav_order: 142
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Dimenhydrinate: predikterad ny indikation Allergisk urtikaria (evidensnivå L5). Ursprunglig indikation: Yrsel av centralnervöst ursprung och åksjuka (enligt kunskapsgrafen"
 monitor_inn: "dimenhydrinate"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
+description: "Dimenhydrinate: predikterad ny indikation Allergic urticaria (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Dimenhydrinate
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Dimenhydrinat: Från yrsel av centralnervöst ursprung och åksjuka till allergisk urtikaria
+## Dimenhydrinate: Allergic urticaria
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Dimenhydrinat används ursprungligen mot yrsel av centralnervöst ursprung och �
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Yrsel av centralnervöst ursprung och åksjuka (enligt kunskapsgrafen; godkänd indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Allergisk urtikaria |
-| TxGNN-förutsägelsepoäng | 99,7 % |
-| Evidensnivå | L4 (endast prekliniskt/farmakokinetiskt stöd) |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
-| Antal godkännanden | 5 (alla avregistrerade) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Allergic urticaria |
+| TxGNN-förutsägelsepoäng | 0.9974 |
+| Evidensnivå | L5 (endast prekliniskt/farmakokinetiskt stöd) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
+| Antal godkännanden | 5 (giltiga: 5) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Vid allergisk urtikaria frisätts histamin från mastceller och orsakar kläda, kvaddlar och rodnad. När difenhydramin frigörs efter intag blockerar det H1-receptorer och kan därmed lindra histamindrivna symtom. Mekanistiskt är det alltså rimligt att dimenhydrinat kan vara tillämpbart, även om den ursprungliga användningen mot yrsel och åksjuka bygger på en annan effekt (främst i det centrala nervsystemet).
 
-Samma resonemang gäller för den näst högst rankade förutsägelsen, **kölduurtikaria** (poäng 99,2 %), där mastcellsdegranulering och histamin också spelar en central roll. Där finns dock ingen klinisk eller litterär evidens alls (evidensnivå L5).
+Där finns dock ingen klinisk eller litterär evidens alls (evidensnivå L5).
 
 ---
 
@@ -80,11 +80,11 @@ Samma resonemang gäller för den näst högst rankade förutsägelsen, **köldu
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 19880 | Calma | Medicinskt tuggummi | Ingen indikationstext angiven (avregistrerad) |
-| 62058 | Cinnarizin/Dimenhydrinat Ebb | Tablett | Ingen indikationstext angiven (avregistrerad) |
-| 54243 | Arlevert | Tablett | Ingen indikationstext angiven (avregistrerad) |
-| 24919 | Arlevert | Tablett | Ingen indikationstext angiven (avregistrerad) |
-| 57574 | Azalonum | Tablett | Ingen indikationstext angiven (avregistrerad) |
+| 19880 | Calma | Medicinskt tuggummi | Ingen indikationstext angiven (godkänd) |
+| 62058 | Cinnarizin/Dimenhydrinat Ebb | Tablett | Ingen indikationstext angiven (godkänd) |
+| 54243 | Arlevert | Tablett | Ingen indikationstext angiven (godkänd) |
+| 24919 | Arlevert | Tablett | Ingen indikationstext angiven (godkänd) |
+| 57574 | Azalonum | Tablett | Ingen indikationstext angiven (godkänd) |
 
 ---
 
@@ -105,7 +105,7 @@ Produktresumé med varningar och kontraindikationer saknas i det sammanställda 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den höga modellpoängen (99,7 %) stämmer med läkemedelsklassens kända effekt, men det finns inga kliniska prövningar och endast en farmakokinetisk djurstudie. Dessutom är alla svenska godkännanden avregistrerade.
+- Den höga modellpoängen (99,7 %) stämmer med läkemedelsklassens kända effekt, men det finns inga kliniska prövningar och endast en farmakokinetisk djurstudie.
 
 **För att gå vidare krävs:**
 - Kliniska data på människa för dimenhydrinat (eller difenhydramin) vid allergisk urtikaria

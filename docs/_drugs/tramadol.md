@@ -4,17 +4,17 @@ title: Tramadol
 parent: Endast modellprediktion (L5)
 nav_order: 433
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Tramadol: predikterad ny indikation Akromesomelisk dysplasi, Hunter-Thompson-typ (evidensnivå L5). Ursprunglig indikation: Artros (artros-predisposition, artropati) enligt kunskapsgrafen"
 monitor_inn: "tramadol"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
+description: "Tramadol: predikterad ny indikation Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala upp…"
 ---
 
 # Tramadol
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Tramadol: Från artros till akromesomelisk dysplasi, Hunter-Thompson-typ
+## Tramadol: Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type)
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Tramadol är en opioid smärtlindrande substans som i kunskapsgrafen som ligger till grund för förutsägelsen är kopplad till artros och artropati. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **akromesomelisk dysplasi, Hunter-Thompson-typ**, men det finns **0 kliniska prövningar** och **0 publikationer** som stöder denna riktning. Förutsägelsen bygger enbart på modellpoäng och bör ses som mycket preliminär.
+TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **akromesomelisk dysplasi, Hunter-Thompson-typ**, men det finns **0 kliniska prövningar** och **0 publikationer** som stöder denna riktning. Förutsägelsen bygger enbart på modellpoäng och bör ses som mycket preliminär.
 
 ---
 
@@ -48,11 +48,11 @@ Tramadol är en opioid smärtlindrande substans som i kunskapsgrafen som ligger 
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Artros (artros-predisposition, artropati) enligt kunskapsgrafen; ingen godkänd indikationstext finns i de svenska godkännandena |
-| Förutsagd ny indikation | Akromesomelisk dysplasi, Hunter-Thompson-typ |
-| TxGNN-förutsägelsepoäng | 99,99 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type) |
+| TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L5 (endast modellförutsägelse, inga faktiska studier) |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Avvakta |
 

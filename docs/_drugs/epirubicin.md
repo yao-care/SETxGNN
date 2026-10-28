@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Epirubicin
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 169
-evidence_level: L5
+evidence_level: L4
 indication_count: 7
 last_modified_at: 2026-10-15
-description: "Epirubicin: predikterad ny indikation Primärt pulmonellt lymfom (evidensnivå L5). Ursprunglig indikation: Bröstcancer (bröstkarcinom). Texten för godkänd indikation är tom i d…"
 monitor_inn: "epirubicin"
 predicted_indications: ["primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "small cell lung carcinoma", "pulmonary blastoma", "lung mixed small cell and squamous cell carcinoma", "myeloid leukemia", "upper aerodigestive tract neoplasm"]
+description: "Epirubicin: predikterad ny indikation Primary pulmonary lymphoma (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Epirubicin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **7** st
+Evidensnivå: **L4** | Förutsagda indikationer: **7** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Epirubicin: Från bröstcancer till primärt pulmonellt lymfom
+## Epirubicin: Primary pulmonary lymphoma
 {: .text-alpha }
 
 ---
@@ -48,12 +48,12 @@ Epirubicin är ett cytostatikum ur antracyklingruppen som ursprungligen används
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Bröstcancer (bröstkarcinom). Texten för godkänd indikation är tom i de svenska godkännandena, så uppgiften kommer från läkemedlets kända indikationer i kunskapsgrafen. |
-| Förutsagd ny indikation | Primärt pulmonellt lymfom |
-| TxGNN-förutsägelsepoäng | 99,7 % |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Primary pulmonary lymphoma |
+| TxGNN-förutsägelsepoäng | 0.9971 |
 | Evidensnivå | L4 (inga studier med epirubicin vid denna sjukdom, endast mekanistiskt stöd och allmän lymfomlitteratur) |
-| Marknadsstatus i Sverige | Endast avregistrerade godkännanden |
-| Antal godkännanden | 3 (alla avregistrerade) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -91,9 +91,9 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 25493 | Epirubicin Accord | Injektions-/infusionsvätska, lösning | Avregistrerad |
-| 26349 | Epirubicin Teva | Injektions-/infusionsvätska, lösning | Avregistrerad |
-| 18343 | Epirubicin Ebewe | Injektionsvätska, lösning | Avregistrerad |
+| 25493 | Epirubicin Accord | Injektions-/infusionsvätska, lösning | Godkänd |
+| 26349 | Epirubicin Teva | Injektions-/infusionsvätska, lösning | Godkänd |
+| 18343 | Epirubicin Ebewe | Injektionsvätska, lösning | Godkänd |
 
 Inget av godkännandena är giltigt i dag.
 
@@ -128,13 +128,11 @@ Se produktresumén för övrig säkerhetsinformation.
 
 **Motivering:**
 - Förutsägelsen har hög modellpoäng (99,7 %) och ett rimligt mekanistiskt stöd, men det saknas kliniska prövningar och epirubicinspecifik litteratur vid primärt pulmonellt lymfom.
-- Epirubicin har dessutom betydande risker (benmärgspåverkan, hjärttoxicitet), och inga giltiga godkännanden finns i Sverige.
 
 **För att gå vidare krävs:**
 - Epirubicinspecifika kliniska data (retrospektiva serier eller prövningar) vid primärt pulmonellt lymfom, jämfört med nuvarande standardbehandling.
 - Jämförelse med etablerade regimer (t.ex. R-CHOP) för att visa en fördel av epirubicin.
 - Detaljerad information om verkningsmekanism, varningar och kontraindikationer från aktuell produktresumé.
-- Beslut om regulatorisk väg, eftersom alla svenska godkännanden är avregistrerade.
 - Utvärdering av hjärtsäkerhet och kumulativ dos i den aktuella patientgruppen.
 ## Ansvarsfriskrivning
 

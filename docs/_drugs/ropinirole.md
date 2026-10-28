@@ -6,9 +6,9 @@ nav_order: 386
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Ropinirole: predikterad ny indikation ADHD (attention deficit-hyperactivity disorder) (evidensnivå L3). Ursprunglig indikation: Restless legs-syndrom, Parkinsons sjukdom (enligt kunskapsgrafen"
 monitor_inn: "ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
+description: "Ropinirole: predikterad ny indikation ADHD (attention deficit-hyperactivity disorder) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ropinirole
@@ -33,7 +33,7 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Ropinirol: Från restless legs-syndrom och Parkinsons sjukdom till ADHD
+## Ropinirole: ADHD (attention deficit-hyperactivity disorder)
 {: .text-alpha }
 
 ---
@@ -48,11 +48,11 @@ Ropinirol är en dopaminagonist (D2/D3) som ursprungligen används vid behandlin
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Restless legs-syndrom, Parkinsons sjukdom (enligt kunskapsgrafen; godkänd indikationstext saknas i de svenska godkännandena) |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | ADHD (attention deficit-hyperactivity disorder) |
-| TxGNN-förutsägelsepoäng | 99,99 % |
+| TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | 20 (alla avregistrerade) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
@@ -88,7 +88,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är avregistrerade. Indikationstexter finns inte i underlaget.
+Läkemedlet är marknadsfört, med 20 giltiga godkännanden. Indikationstexter finns inte i underlaget.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -115,14 +115,13 @@ Varningar och kontraindikationer från produktresumén ingår inte i underlaget.
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Det finns ett rimligt biologiskt samband via dopaminsystemet och samsjukligheten med restless legs-syndrom, men evidensen är i dagsläget begränsad till översikter och ett enskilt fallrapport. Den möjliga RCT:n från 2026 är ännu inte verifierad, och alla svenska godkännanden är avregistrerade.
+- Det finns ett rimligt biologiskt samband via dopaminsystemet och samsjukligheten med restless legs-syndrom, men evidensen är i dagsläget begränsad till översikter och ett enskilt fallrapport. Den möjliga RCT:n från 2026 är ännu inte verifierad, och läkemedlet är marknadsfört med 20 giltiga godkännanden.
 
 **För att gå vidare krävs:**
 - Verifiera fulltexten för PMID 42640474: design, urval, primärt utfallsmått, effekt och biverkningar.
 - Kontrollera om studien är registrerad i ett prövningsregister, och sök efter ytterligare kontrollerade studier.
 - Komplettera verkningsmekanism och produktresumé (varningar och kontraindikationer) för ropinirol.
 - Utvärdera säkerheten hos barn och ungdomar, särskilt med avseende på psykiatriska biverkningar, impulskontrollstörningar och interaktioner med ADHD-läkemedel.
-- Klargöra vilka beredningsformer och regulatoriska vägar som skulle kunna bli aktuella, eftersom inga svenska godkännanden är giltiga idag.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

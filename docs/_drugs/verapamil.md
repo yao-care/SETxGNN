@@ -4,17 +4,17 @@ title: Verapamil
 parent: Endast modellprediktion (L5)
 nav_order: 448
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Verapamil: predikterad ny indikation Obsolet grenblock (obsolete bundle branch block) (evidensnivå L5). Ursprunglig indikation: Ingen godkänd indikationstext finns registrerad i Sverige. Enligt kun…"
 monitor_inn: "verapamil"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
+description: "Verapamil: predikterad ny indikation Obsolet grenblock (obsolete bundle branch block) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Verapamil
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **7** st
+Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Verapamil: Från hypertoni och hjärtrytmrubbningar till obsolet grenblock
+## Verapamil: Obsolet grenblock (obsolete bundle branch block)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Verapamil är en kalciumkanalblockerare som ursprungligen används vid högt blodtryck, förmaksflimmer, akut koronart syndrom, Prinzmetals angina och ventrikulär takykardi. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **obsolet grenblock** med mycket hög poäng (99,6 %), men det finns **inga kliniska prövningar** och **ingen litteratur** som stöder detta. Förutsägelsen bygger enbart på modellen, och mekanismen talar snarare emot nytta.
+Verapamil är en kalciumkanalblockerare som ursprungligen används vid högt blodtryck, förmaksflimmer, akut koronart syndrom, Prinzmetals angina och ventrikulär takykardi. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **obsolet grenblock** med mycket hög poäng (0,9962), men det finns **inga kliniska prövningar** och **ingen litteratur** som stöder detta. Förutsägelsen bygger enbart på modellen, och mekanismen talar snarare emot nytta.
 
 ---
 
@@ -48,12 +48,12 @@ Verapamil är en kalciumkanalblockerare som ursprungligen används vid högt blo
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Ingen godkänd indikationstext finns registrerad i Sverige. Enligt kunskapsgrafen: högt blodtryck, förmaksflimmer, akut koronart syndrom, Prinzmetals angina, ventrikulär takykardi |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Obsolet grenblock (obsolete bundle branch block) |
-| TxGNN-förutsägelsepoäng | 99,6 % |
+| TxGNN-förutsägelsepoäng | 0.9962 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Endast indragna godkännanden |
-| Antal godkännanden | 13 (alla indragna) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 13 av 13) |
+| Antal godkännanden | 13 (giltiga: 13) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Sambandet till den nya indikationen är svagt. Grenblock är en ledningsstörning i His-Purkinje-systemet. Verapamils effekt att bromsa ledningen skulle förväntas förvärra snarare än förbättra ledningssjukdom, och läkemedlet brukar användas med försiktighet vid ledningsrubbningar. Termen är dessutom markerad som föråldrad i den medicinska ontologin.
 
-Den höga modellpoängen speglar därför sannolikt närhet i kunskapsgrafen och inte ett verkligt terapeutiskt samband. Förutsägelsen bör betraktas som ett modellresultat utan mekanistiskt stöd.
+Den höga modellpoängen kommer från TxGNN-modellen (djupinlärning) och kan spegla likheter som modellen lärt sig mellan relaterade sjukdomar, inte biologiska belägg. Förutsägelsen bör betraktas som ett modellresultat utan mekanistiskt stöd.
 
 ---
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Propafenone
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 368
-evidence_level: L3
-indication_count: 8
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Propafenone: predikterad ny indikation Katekolaminerg polymorf ventrikeltakykardi (CPVT) (evidensnivå L3). Ursprunglig indikation: Förmaksflimmer och ventrikeltakykardi (enligt kunskapsgrafen"
 monitor_inn: "propafenone"
 predicted_indications: ["manic bipolar affective disorder", "periodic paralysis with transient compartment-like syndrome", "Prinzmetal angina", "arrhythmogenic right ventricular cardiomyopathy", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania"]
+description: "Propafenone: predikterad ny indikation Manic bipolar affective disorder (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Propafenone
 {: .fs-9 }
 
-Evidensnivå: **L3** | Förutsagda indikationer: **8** st
+Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L3** | Förutsagda indikationer: **8** st
 
 </div>
 
-## Propafenon: Från förmaksflimmer och ventrikeltakykardi till katekolaminerg polymorf ventrikeltakykardi
+## Propafenone: Manic bipolar affective disorder
 {: .text-alpha }
 
 ---
@@ -50,12 +50,12 @@ Den förutsägelse som modellen rankar högst är **manisk bipolär sjukdom**. L
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Förmaksflimmer och ventrikeltakykardi (enligt kunskapsgrafen; godkännandet i Sverige saknar indikationstext) |
-| Förutsagd ny indikation | Katekolaminerg polymorf ventrikeltakykardi (CPVT) |
-| TxGNN-förutsägelsepoäng | 99,8 % |
-| Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Endast återkallade godkännanden |
-| Antal godkännanden | 1 |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Manic bipolar affective disorder |
+| TxGNN-förutsägelsepoäng | 0.9980 |
+| Evidensnivå | L5 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 1) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
