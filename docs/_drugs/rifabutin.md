@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 377
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Rifabutin: predikterad ny indikation HIV-sjukdom (HIV infectious disease) (evidensnivå L5). Ursprunglig indikation: Ej angiven i godkännandet (indikationstexten saknas)"
 monitor_inn: "RIFABUTIN"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "sclerosing cholangitis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "conjunctivitis", "leprosy", "endocarditis", "pneumocystosis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]

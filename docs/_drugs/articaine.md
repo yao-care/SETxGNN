@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "articaine"
 predicted_indications: ["gout", "exostosis", "allergic asthma", "intrinsic asthma"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Articaine: predikterad ny indikation Gikt (gout) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 

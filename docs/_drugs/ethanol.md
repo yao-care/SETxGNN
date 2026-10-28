@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 177
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Ethanol: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i godkännandedatan"
 monitor_inn: "ethanol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]

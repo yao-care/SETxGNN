@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: VIGABATRIN
 drugbank_id: DB01080
-evidence_level: L5
 permalink: /drugs/vigabatrin/
 search_exclude: true
-last_modified_at: 2026-05-04
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # VIGABATRIN
@@ -18,18 +19,10 @@ predicted_indications: []
 
 | Objekt | Värde |
 |------|-------|
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | DrugBank ID | [DB01080](https://go.drugbank.com/drugs/DB01080) |
-| Evidensnivå | L5 (Datorbaserad förutsägelse) |
 | Antal förutsagda indikationer | 2 |
-
-## Förutsagda indikationer (TxGNN)
-
-Följande är potentiella nya indikationer som förutsagts av TxGNN-modellen. Högre poäng indikerar högre förutsagd relevans.
-
-| # | Indikation | Källa |
-|---|------------|--------|
-| 1 | developmental and epileptic encephalopathy | TxGNN Knowledge Graph |
-| 2 | West syndrome | TxGNN Knowledge Graph |
 
 ## Ansvarsfriskrivning
 

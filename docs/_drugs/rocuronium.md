@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 385
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Rocuronium: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Uppgift saknas i licensdata (neuromuskulär blockad vid anestesi är de…"
 monitor_inn: "rocuronium"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "atrophoderma vermiculata", "ulerythema ophryogenesis", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "sciatic neuropathy", "headache disorder"]

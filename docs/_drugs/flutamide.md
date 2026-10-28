@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 206
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "flutamide"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Flutamide: predikterad ny indikation Fibroma of prostate (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

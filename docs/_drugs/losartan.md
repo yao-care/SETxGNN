@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 271
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "losartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
 description: "Losartan: predikterad ny indikation Malignant hypertensive renal disease (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 168
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "epinephrine"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
 description: "Epinephrine: predikterad ny indikation Obstructive lung disease (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

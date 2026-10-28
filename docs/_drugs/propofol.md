@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 369
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Propofol: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L2). Ursprunglig indikation: Ingen indikationstext registrerad i de svenska godkännandena (propofo…"
 monitor_inn: "PROPOFOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]

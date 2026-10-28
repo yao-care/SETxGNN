@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: PARACETAMOL
 drugbank_id: DB00316
-evidence_level: L5
 permalink: /drugs/paracetamol/
 search_exclude: true
-last_modified_at: 2026-05-04
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # PARACETAMOL
@@ -18,23 +19,10 @@ predicted_indications: []
 
 | Objekt | Värde |
 |------|-------|
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Antal godkännanden | minst 20 |
 | DrugBank ID | [DB00316](https://go.drugbank.com/drugs/DB00316) |
-| Evidensnivå | L5 (Datorbaserad förutsägelse) |
 | Antal förutsagda indikationer | 7 |
-
-## Förutsagda indikationer (TxGNN)
-
-Följande är potentiella nya indikationer som förutsagts av TxGNN-modellen. Högre poäng indikerar högre förutsagd relevans.
-
-| # | Indikation | Källa |
-|---|------------|--------|
-| 1 | vasomotor rhinitis | TxGNN Knowledge Graph |
-| 2 | migraine disorder | TxGNN Knowledge Graph |
-| 3 | allergic rhinitis | TxGNN Knowledge Graph |
-| 4 | headache disorder | TxGNN Knowledge Graph |
-| 5 | common cold | TxGNN Knowledge Graph |
-| 6 | migraine with or without aura, susceptibility to | TxGNN Knowledge Graph |
-| 7 | nasopharyngitis | TxGNN Knowledge Graph |
 
 ## Ansvarsfriskrivning
 

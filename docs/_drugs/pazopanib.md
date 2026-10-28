@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 340
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "pazopanib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
 description: "Pazopanib: predikterad ny indikation Liposarcoma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

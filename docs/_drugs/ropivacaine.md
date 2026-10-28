@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 387
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Ropivacaine: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L3). Ursprunglig indikation: Ingen indikationstext angiven i licensuppgifterna"
 monitor_inn: "ropivacaine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "dysthymic disorder"]

@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 216
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "glucagon"
 predicted_indications: ["irritable bowel syndrome"]
 description: "Glucagon: predikterad ny indikation Irritable bowel syndrome (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

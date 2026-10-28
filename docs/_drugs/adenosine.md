@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "adenosine"
 predicted_indications: ["obsolete bundle branch block"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Adenosine: predikterad ny indikation Obsolet grenblock (obsolete bundle branch block) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 

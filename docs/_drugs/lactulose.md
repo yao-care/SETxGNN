@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 249
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "lactulose"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
 description: "Lactulose: predikterad ny indikation Acute urate nephropathy (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 175
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "ESTRIOL"
 predicted_indications: ["amenorrhea (disease)"]
 description: "Estriol: predikterad ny indikation Amenorré (amenorrhea (disease)) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

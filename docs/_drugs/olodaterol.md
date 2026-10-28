@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 325
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "olodaterol"
 predicted_indications: ["bronchitis"]
 description: "Olodaterol: predikterad ny indikation Bronkit (bronchitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

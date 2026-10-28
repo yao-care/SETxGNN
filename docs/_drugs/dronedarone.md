@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 153
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "dronedarone"
 predicted_indications: ["stroke disorder", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
 description: "Dronedarone: predikterad ny indikation Stroke (stroke disorder) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

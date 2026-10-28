@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 378
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "RIFAMPICIN"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
 description: "Rifampicin: predikterad ny indikation Konjunktivit (conjunctivitis) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

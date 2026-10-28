@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 145
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "dobutamine"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "Raynaud disease", "primary hereditary glaucoma", "headache disorder", "hypertrichosis (disease)", "migraine disorder"]
 description: "Dobutamine: predikterad ny indikation Alopecia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

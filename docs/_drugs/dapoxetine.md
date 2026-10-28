@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 123
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Dapoxetine: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L4). Ursprunglig indikation: Prematur ejakulation"
 monitor_inn: "dapoxetine"
 predicted_indications: ["migraine disorder", "dysthymic disorder", "migraine with brainstem aura"]

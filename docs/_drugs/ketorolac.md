@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 246
 evidence_level: L1
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "ketorolac"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
 description: "Ketorolac: predikterad ny indikation Huvudvärkssjukdom (headache disorder) (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

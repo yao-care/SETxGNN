@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 408
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus: predikterad ny indikation Seborrheic dermatitis (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

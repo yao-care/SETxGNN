@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 321
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "nortriptyline"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]
 description: "Nortriptyline: predikterad ny indikation ADHD (attention deficit-hyperactivity disorder) (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

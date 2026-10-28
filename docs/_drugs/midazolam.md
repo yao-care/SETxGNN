@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 293
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
 description: "Midazolam: predikterad ny indikation Sömnlöshet (insomnia (disease)) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

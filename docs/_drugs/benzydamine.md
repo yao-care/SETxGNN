@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "benzydamine"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Benzydamine: predikterad ny indikation Benign prostatahyperplasi (benign prostatic hyperplasia (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 315
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "nimodipine"
 predicted_indications: ["homozygous familial hypercholesterolemia", "nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Nimodipine: predikterad ny indikation Homozygous familial hypercholesterolemia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

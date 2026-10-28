@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 294
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "midodrine"
 predicted_indications: ["variably protease-sensitive prionopathy", "faciodigitogenital syndrome", "attention deficit-hyperactivity disorder", "hypotensive disorder", "attention deficit hyperactivity disorder, inattentive type", "sinoatrial node disease", "monogenic obesity", "specific developmental disorder", "obsolete hypertelorism (disease)", "sinoatrial block"]
 description: "Midodrine: predikterad ny indikation Variably protease-sensitive prionopathy (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

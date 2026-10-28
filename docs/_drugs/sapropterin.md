@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 392
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "sapropterin"
 predicted_indications: ["disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome", "hyperphenylalaninemia due to tetrahydrobiopterin deficiency"]
 description: "Sapropterin: predikterad ny indikation Disorder of tyrosine metabolism (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

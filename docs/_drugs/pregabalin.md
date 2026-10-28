@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 363
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "PREGABALIN"
 predicted_indications: ["tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
 description: "Pregabalin: predikterad ny indikation Tendinitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

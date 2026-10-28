@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 192
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "FELYPRESSIN"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "esotropia", "diabetic retinopathy", "bronchial adenomas/carcinoids childhood", "ductal or ductular proliferation", "chondroid hamartoma", "non-seminomatous lesion", "tumor of testis and paratestis", "pre-malignant neoplasm"]
 description: "Felypressin: predikterad ny indikation Läkemedelsinducerad osteoporos (drug-induced osteoporosis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

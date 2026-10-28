@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 202
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "FLUOROURACIL"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "sickle cell-hemoglobin d disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-hemoglobin E disease syndrome"]
 description: "Fluorouracil: predikterad ny indikation Botryoid-type embryonal rhabdomyosarcoma of the vagina (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

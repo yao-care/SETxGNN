@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 428
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "TOBRAMYCIN"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
 description: "Tobramycin: predikterad ny indikation Exposure keratitis (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

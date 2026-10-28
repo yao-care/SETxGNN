@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: RIBOFLAVIN
 drugbank_id: DB00140
-evidence_level: L5
 permalink: /drugs/riboflavin/
 search_exclude: true
-last_modified_at: 2026-05-04
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # RIBOFLAVIN
@@ -18,17 +19,10 @@ predicted_indications: []
 
 | Objekt | Värde |
 |------|-------|
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | DrugBank ID | [DB00140](https://go.drugbank.com/drugs/DB00140) |
-| Evidensnivå | L5 (Datorbaserad förutsägelse) |
 | Antal förutsagda indikationer | 1 |
-
-## Förutsagda indikationer (TxGNN)
-
-Följande är potentiella nya indikationer som förutsagts av TxGNN-modellen. Högre poäng indikerar högre förutsagd relevans.
-
-| # | Indikation | Källa |
-|---|------------|--------|
-| 1 | vitamin deficiency disorder | TxGNN Knowledge Graph |
 
 ## Ansvarsfriskrivning
 

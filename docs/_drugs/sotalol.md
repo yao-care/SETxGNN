@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 399
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "sotalol"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
 description: "Sotalol: predikterad ny indikation Sick sinus syndrome 2, autosomal dominant (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

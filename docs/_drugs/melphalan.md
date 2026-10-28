@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 276
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "melphalan"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
 description: "Melphalan: predikterad ny indikation Female breast carcinoma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

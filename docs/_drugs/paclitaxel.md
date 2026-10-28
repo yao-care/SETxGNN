@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 334
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Paclitaxel: predikterad ny indikation Parameningeal embryonal rhabdomyosarcoma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

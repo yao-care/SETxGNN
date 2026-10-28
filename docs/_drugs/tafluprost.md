@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: TAFLUPROST
 drugbank_id: DB08819
-evidence_level: L5
 permalink: /drugs/tafluprost/
 search_exclude: true
-last_modified_at: 2026-05-04
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # TAFLUPROST
@@ -18,18 +19,10 @@ predicted_indications: []
 
 | Objekt | Värde |
 |------|-------|
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | DrugBank ID | [DB08819](https://go.drugbank.com/drugs/DB08819) |
-| Evidensnivå | L5 (Datorbaserad förutsägelse) |
 | Antal förutsagda indikationer | 2 |
-
-## Förutsagda indikationer (TxGNN)
-
-Följande är potentiella nya indikationer som förutsagts av TxGNN-modellen. Högre poäng indikerar högre förutsagd relevans.
-
-| # | Indikation | Källa |
-|---|------------|--------|
-| 1 | ocular hypertension | TxGNN Knowledge Graph |
-| 2 | open-angle glaucoma | TxGNN Knowledge Graph |
 
 ## Ansvarsfriskrivning
 

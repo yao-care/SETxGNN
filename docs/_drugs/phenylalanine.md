@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 346
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "phenylalanine"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
 description: "Phenylalanine: predikterad ny indikation Skleroserande kolangit (sclerosing cholangitis) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

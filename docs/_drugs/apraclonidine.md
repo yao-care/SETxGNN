@@ -5,7 +5,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 38
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Apraclonidine: known uses and market status in Sweden; currently no new candidate indication"
 predicted_indications: []
 ---

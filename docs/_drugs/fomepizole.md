@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 207
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "fomepizole"
 predicted_indications: ["sclerosing cholangitis"]
 description: "Fomepizole: predikterad ny indikation Skleroserande kolangit (sclerosing cholangitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

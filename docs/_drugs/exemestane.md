@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 185
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "exemestane"
 predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]
 description: "Exemestane: predikterad ny indikation Antithrombin deficiency type 2 (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

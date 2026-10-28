@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "bupropion"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "benign paroxysmal torticollis of infancy", "trigeminal nerve neoplasm", "obsolete hypertelorism (disease)"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Bupropion: predikterad ny indikation Attention deficit-hyperactivity disorder (ADHD) (attention deficit-hyperactivity disorder) (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppg…"
 ---
 

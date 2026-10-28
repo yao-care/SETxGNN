@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: LANSOPRAZOL
 drugbank_id: DB00448
-evidence_level: L5
 permalink: /drugs/lansoprazol/
 search_exclude: true
-last_modified_at: 2026-05-04
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # LANSOPRAZOL
@@ -18,25 +19,10 @@ predicted_indications: []
 
 | Objekt | Värde |
 |------|-------|
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 14 av 14) |
+| Antal godkännanden | 14 (giltiga: 14) |
 | DrugBank ID | [DB00448](https://go.drugbank.com/drugs/DB00448) |
-| Evidensnivå | L5 (Datorbaserad förutsägelse) |
 | Antal förutsagda indikationer | 9 |
-
-## Förutsagda indikationer (TxGNN)
-
-Följande är potentiella nya indikationer som förutsagts av TxGNN-modellen. Högre poäng indikerar högre förutsagd relevans.
-
-| # | Indikation | Källa |
-|---|------------|--------|
-| 1 | peptic esophagitis | TxGNN Knowledge Graph |
-| 2 | duodenal ulcer (disease) | TxGNN Knowledge Graph |
-| 3 | gastric ulcer (disease) | TxGNN Knowledge Graph |
-| 4 | gastroesophageal reflux disease | TxGNN Knowledge Graph |
-| 5 | hyperinsulinism (disease) | TxGNN Knowledge Graph |
-| 6 | peptic ulcer disease | TxGNN Knowledge Graph |
-| 7 | gastrin secretion abnormality | TxGNN Knowledge Graph |
-| 8 | Zollinger-Ellison syndrome | TxGNN Knowledge Graph |
-| 9 | esophagitis (disease) | TxGNN Knowledge Graph |
 
 ## Ansvarsfriskrivning
 

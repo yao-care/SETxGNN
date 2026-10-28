@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 319
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "norethisterone"
 predicted_indications: ["amenorrhea (disease)"]
 description: "Norethisterone: predikterad ny indikation Amenorré (amenorrhea (disease)) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

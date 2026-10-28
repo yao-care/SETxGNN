@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 302
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "moclobemide"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
 description: "Moclobemide: predikterad ny indikation Agoraphobia (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

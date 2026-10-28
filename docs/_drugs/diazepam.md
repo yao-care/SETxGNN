@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 138
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "DIAZEPAM"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "antidepressant type abuse", "barbiturate abuse", "hallucinogen abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
 description: "Diazepam: predikterad ny indikation Insomnia (disease) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

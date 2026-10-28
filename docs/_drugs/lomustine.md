@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 268
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "lomustine"
 predicted_indications: ["lymphosarcoma", "malignant tumor of meninges", "spinal cord cancer", "cerebral neuroblastoma", "pediatric cerebral ependymoblastoma", "pediatric infratentorial ependymoblastoma", "childhood brain germinoma", "cerebellopontine angle embryonal tumor", "lymph node cancer", "cerebral sarcoma"]
 description: "Lomustine: predikterad ny indikation Lymphosarcoma (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
