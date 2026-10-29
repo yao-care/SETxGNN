@@ -31,6 +31,11 @@ description: "Alla valideringsrapporter för läkemedel och statistik över evid
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+Listan bygger på registreringsdata från [MPA](https://www.lakemedelsverket.se/) (Sverige).
+
+<!-- local-home:end -->
+
 ## Fördelning av evidensnivåer
 
 | Evidensnivå | Läkemedel | Beskrivning |

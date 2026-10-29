@@ -14,6 +14,30 @@ This project uses the TxGNN graph neural network to predict potential new therap
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+## Sverige: vad webbplatsen omfattar
+
+Webbplatsen publicerar rapporter om **{{ site.data.drug_stats.total_drugs }}** läkemedel i registreringsdata från [MPA](https://www.lakemedelsverket.se/) (Sverige).
+
+Rapporter per evidensnivå: L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+
+### Läkemedel med högst evidensnivå på webbplatsen
+
+| Läkemedel | Evidensnivå |
+|---|---|
+| [Bendamustine](/drugs/bendamustine/) | L1 |
+| [Busulfan](/drugs/busulfan/) | L1 |
+| [Rifabutin](/drugs/rifabutin/) | L1 |
+| [Hydrocortisone](/drugs/hydrocortisone/) | L1 |
+| [Doxorubicin](/drugs/doxorubicin/) | L1 |
+| [Docetaxel](/drugs/docetaxel/) | L1 |
+| [Progesterone](/drugs/progesterone/) | L1 |
+| [Tiotropium](/drugs/tiotropium/) | L1 |
+| [Ketorolac](/drugs/ketorolac/) | L1 |
+| [Terbutaline](/drugs/terbutaline/) | L1 |
+
+<!-- local-home:end -->
+
 ## Om utvecklaren
 
 Denna plattform utvecklas och drivs av **藥提醒科技有限公司** (yao.care, organisationsnummer
