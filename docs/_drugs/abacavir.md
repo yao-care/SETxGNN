@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "abacavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Abacavir: predikterad ny indikation Simian immunbristvirusinfektion (simian immunodeficiency virus infection) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
@@ -52,8 +52,8 @@ Abakavir är en nukleosidanalog som hämmar omvänt transkriptas och används mo
 | Förutsagd ny indikation | Simian immunbristvirusinfektion (simian immunodeficiency virus infection) |
 | TxGNN-förutsägelsepoäng | 0,9979 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
-| Antal godkännanden | 5 (giltiga: 5) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 5) |
+| Antal godkännanden | 5 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---

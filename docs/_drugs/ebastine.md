@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 157
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "ebastine"
 predicted_indications: ["coronary artery disease", "myocardial ischemia"]
 description: "Ebastine: predikterad ny indikation Kranskärlssjukdom (coronary artery disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -52,7 +52,7 @@ Ebastin är en andra generationens antihistamin (H1-blockerare) som ursprunglige
 | Förutsagd ny indikation | Kranskärlssjukdom (coronary artery disease) |
 | TxGNN-förutsägelsepoäng | 0.9918 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 18) |
 | Antal godkännanden | 20 (alla avregistrerade) |
 | Rekommenderat beslut | Avvakta |
 
@@ -89,7 +89,7 @@ Samtliga 20 godkännanden är avregistrerade och inget är giltigt idag. Indikat
 | 43724 | Ebastine Teva | Munsönderfallande tablett | Godkänt |
 | 56838 | Ebastin Ebb | Filmdragerad tablett | Godkänt |
 | 65892 | Kestine | Filmdragerad tablett | Godkänt |
-| 48993 | Ebastine Viatris | Munsönderfallande tablett | Godkänt |
+| 48993 | Ebastine Viatris | Munsönderfallande tablett | Avregistrerad |
 | 20130 | Kestine | Frystorkad tablett | Godkänt |
 
 ---

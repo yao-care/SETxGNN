@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Amlodipine: predikterad ny indikation Hjärnstamsinfarkt (brain stem infarction) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
@@ -52,7 +52,7 @@ Amlodipin är en kalciumkanalblockerare som används vid högt blodtryck och rel
 | Förutsagd ny indikation | Hjärnstamsinfarkt (brain stem infarction) |
 | TxGNN-förutsägelsepoäng | 0,9994 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 18) |
 | Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 

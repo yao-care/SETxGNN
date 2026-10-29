@@ -19,8 +19,8 @@ evidence_level: N/A
 
 | Objekt | Värde |
 |------|-------|
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
-| Antal godkännanden | 4 (giltiga: 4) |
+| Marknadsstatus i Sverige | Inte marknadsförd (avregistrerade godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 0) |
 | DrugBank ID | [DB09118](https://go.drugbank.com/drugs/DB09118) |
 | Antal förutsagda indikationer | 3 |
 

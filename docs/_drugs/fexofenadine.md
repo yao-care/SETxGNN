@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 195
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "fexofenadine"
 predicted_indications: ["rosacea conjunctivitis"]
 description: "Fexofenadine: predikterad ny indikation Rosacea conjunctivitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -52,8 +52,8 @@ Fexofenadin är en selektiv perifer histamin H1-receptorantagonist (antihistamin
 | Förutsagd ny indikation | Rosacea conjunctivitis |
 | TxGNN-förutsägelsepoäng | 0.9985 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 18 av 18) |
-| Antal godkännanden | 18 (giltiga: 18) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 16 av 18) |
+| Antal godkännanden | 18 (giltiga: 16) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -78,7 +78,7 @@ Godkänd indikationstext saknas för samtliga poster. Nedan visas de fem första
 | 67616 | Fexofenadine Amarox | Filmdragerad tablett | Godkänd |
 | 25735 | Nefoxef | Filmdragerad tablett | Godkänd |
 | 60873 | Fexofenadine Amarox | Filmdragerad tablett | Godkänd |
-| 56375 | Fexofenadine Bluefish | Filmdragerad tablett | Godkänd |
+| 56375 | Fexofenadine Bluefish | Filmdragerad tablett | Avregistrerad |
 
 ---
 

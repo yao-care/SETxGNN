@@ -5,7 +5,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 58
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Betaxolol: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ TxGNN-modellen (djupinlärning, poäng ≥ 0,99) har genererat kandidater för B
 | Nya förutsagda indikationer | Inga (alla spårbara modellkandidater är kända användningar) |
 | Kända användningar bland modellens kandidater | 0 |
 | Evidensnivå | Ej tillämpligt |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
-| Antal godkännanden | 2 (giltiga: 2) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 2) |
+| Antal godkännanden | 2 (giltiga: 1) |
 
 ## Kända användningar bland modellens kandidater
 
@@ -70,7 +70,7 @@ TxGNN-modellen (djupinlärning, poäng ≥ 0,99) har genererat kandidater för B
 
 | Godkännande | Produkt | Läkemedelsform | Status |
 |------|------|------|------|
-| 11503 | betaxololhydroklorid | Ögondroppar, suspension | Giltigt |
+| 11503 | betaxololhydroklorid | Ögondroppar, suspension | Avregistrerad |
 | 10388 | betaxololhydroklorid | Ögondroppar, lösning | Giltigt |
 
 ## Säkerhetsaspekter

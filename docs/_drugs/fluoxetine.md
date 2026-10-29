@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "fluoxetine"
 predicted_indications: ["schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Fluoxetine: predikterad ny indikation Schizotypal personality disorder (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
@@ -54,8 +54,8 @@ Notera att andra förutsagda indikationer har betydligt starkare stöd (se avsni
 | Förutsagd ny indikation | Schizotypal personality disorder |
 | TxGNN-förutsägelsepoäng | 0.9992 |
 | Evidensnivå | L5 (ingen studie i underlaget undersöker direkt fluoxetin vid schizotypisk personlighetsstörning med tillräcklig kvalitet för högre nivå; se kommentar nedan) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 13 av 13) |
-| Antal godkännanden | 13 (giltiga: 13) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 12 av 13) |
+| Antal godkännanden | 13 (giltiga: 12) |
 | Rekommenderat beslut | Avvakta |
 
 *Kommentar om evidensnivå:* Den enda studie som direkt prövar fluoxetin vid denna diagnos (Markovitz m.fl., 1991) är en icke-blindad, öppen studie med 22 patienter med borderline- eller schizotypisk personlighetsstörning. Den saknar kontrollgrupp och är inte tillräcklig för att motivera en högre evidensnivå än L5 enligt de strikta kriterierna för denna rapport.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "desloratadine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Desloratadine: predikterad ny indikation Nässlemhålesjukdom (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
@@ -50,7 +50,7 @@ Desloratadin är en antihistamin som används vid allergiska besvär. TxGNN-mode
 | Förutsagd ny indikation | Nässlemhålesjukdom (nasal cavity disease) |
 | TxGNN-förutsägelsepoäng | 0,9987 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 19) |
 | Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "colchicine"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Colchicine: predikterad ny indikation Plasmodium falciparum-malaria (Plasmodium falciparum malaria) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
@@ -50,8 +50,8 @@ Kolchicin är en tubulinbindande substans som hämmar mikrotubulipolymerisering.
 | Förutsagd ny indikation | Plasmodium falciparum-malaria (Plasmodium falciparum malaria) |
 | TxGNN-förutsägelsepoäng | 0,9960 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
-| Antal godkännanden | 6 (giltiga: 6) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 6) |
+| Antal godkännanden | 6 (giltiga: 5) |
 | Rekommenderat beslut | Avvakta |
 
 ---

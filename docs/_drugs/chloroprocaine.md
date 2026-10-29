@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "chloroprocaine"
 predicted_indications: ["cauda equina syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Chloroprocaine: predikterad ny indikation Cauda equina-syndrom (cauda equina syndrome) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
@@ -52,8 +52,8 @@ Kloroprokain är ett esterbaserat lokalanestetikum som används vid regional bed
 | Förutsagd ny indikation | Cauda equina-syndrom (cauda equina syndrome) |
 | TxGNN-förutsägelsepoäng | 0,9901 |
 | Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
-| Antal godkännanden | 2 (giltiga: 2) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 2) |
+| Antal godkännanden | 2 (giltiga: 1) |
 | Rekommenderat beslut | Avvakta |
 
 ---

@@ -19,7 +19,7 @@ evidence_level: N/A
 
 | Objekt | Värde |
 |------|-------|
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 19) |
 | Antal godkännanden | minst 20 |
 | DrugBank ID | [DB00316](https://go.drugbank.com/drugs/DB00316) |
 | Antal förutsagda indikationer | 7 |

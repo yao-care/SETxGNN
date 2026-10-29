@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 341
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "pemetrexed"
 predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
 description: "Pemetrexed: predikterad ny indikation Pleural adenomatoid tumor (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -52,8 +52,8 @@ Pemetrexed är ett antifolat (cytostatika) som ursprungligen används mot icke-s
 | Förutsagd ny indikation | Pleural adenomatoid tumor |
 | TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L5 (inga avslutade fas 3-studier specifikt för peritonealt mesoteliom; randomiserade och avslutade fas 2-studier samt retrospektiva serier finns) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
-| Antal godkännanden | 4 (giltiga: 4) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 4) |
+| Antal godkännanden | 4 (giltiga: 3) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

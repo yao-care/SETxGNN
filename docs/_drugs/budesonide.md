@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "budesonide"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Budesonide: predikterad ny indikation Atopiskt eksem (atopic eczema) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
@@ -52,7 +52,7 @@ Budesonid är en topiskt verkande kortikosteroid som finns i flera beredningsfor
 | Förutsagd ny indikation | Atopiskt eksem (atopic eczema) |
 | TxGNN-förutsägelsepoäng | 0,9996 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 19) |
 | Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 

@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 225
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "hydrocortisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Hydrocortisone: predikterad ny indikation Alopecia areata (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -52,7 +52,7 @@ Hydrokortison är ett kortikosteroid som ursprungligen används vid bland annat 
 | Förutsagd ny indikation | Alopecia areata |
 | TxGNN-förutsägelsepoäng | 0.9997 |
 | Evidensnivå | L1 enligt datasammanställningen (se kommentar nedan) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 16) |
 | Antal godkännanden | 20 (alla återkallade) |
 | Rekommenderat beslut | Avvakta |
 

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 444
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Urofollitropin: predikterad ny indikation Migränsjukdom (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad i godkännandedata (använd produktre…"
 monitor_inn: "UROFOLLITROPIN"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "Raynaud disease"]
@@ -52,8 +52,8 @@ Urofollitropin är ett urinframställt follikelstimulerande hormon (FSH, ett gon
 | Förutsagd ny indikation | Migränsjukdom (migraine disorder) |
 | TxGNN-förutsägelsepoäng | 0,9985 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
-| Antal godkännanden | 6 (giltiga: 6) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 6) |
+| Antal godkännanden | 6 (giltiga: 5) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -88,7 +88,7 @@ Samtliga sex godkännanden är avregistrerade och ingen produkt är för närvar
 |---------|------|------|-----------|
 | 22944 | Fostimon | Pulver och vätska till injektionsvätska, lösning | Godkänd |
 | 46427 | Fostimon Set | Pulver och vätska till injektionsvätska, lösning | Godkänd |
-| 47701 | Fostimon Set | Pulver och vätska till injektionsvätska, lösning | Godkänd |
+| 47701 | Fostimon Set | Pulver och vätska till injektionsvätska, lösning | Avregistrerad |
 | 46428 | Fostimon Set | Pulver och vätska till injektionsvätska, lösning | Godkänd |
 | 22943 | Fostimon | Pulver och vätska till injektionsvätska, lösning | Godkänd |
 

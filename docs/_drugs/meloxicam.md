@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 275
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "meloxicam"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Meloxicam: predikterad ny indikation Acromesomelic dysplasia, Hunter-Thompson type (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -52,8 +52,8 @@ Meloxikam är ett icke-steroidalt antiinflammatoriskt läkemedel (NSAID) som urs
 | Förutsagd ny indikation | Acromesomelic dysplasia, Hunter-Thompson type |
 | TxGNN-förutsägelsepoäng | 0.9992 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
-| Antal godkännanden | 4 (giltiga: 4) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 4) |
+| Antal godkännanden | 4 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---

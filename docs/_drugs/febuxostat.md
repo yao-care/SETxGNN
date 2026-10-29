@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 189
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "FEBUXOSTAT"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
 description: "Febuxostat: predikterad ny indikation Renal hypourikemi (hypouricemia, renal) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -52,8 +52,8 @@ Febuxostat är en xantinoxidashämmare som ursprungligen användes för att beha
 | Förutsagd ny indikation | Renal hypourikemi (hypouricemia, renal) |
 | TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
-| Antal godkännanden | 1 (giltiga: 1) |
+| Marknadsstatus i Sverige | Inte marknadsförd (avregistrerade godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 0) |
 | Rekommenderat beslut | Avvakta |
 
 ---

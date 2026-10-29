@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 458
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "ziprasidone"
 predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "major affective disorder", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
 description: "Ziprasidone: predikterad ny indikation Trichotillomania (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -54,8 +54,8 @@ Ziprasidon är ett atypiskt antipsykotiskt läkemedel som ursprungligen används
 | Förutsagd ny indikation | Trichotillomania |
 | TxGNN-förutsägelsepoäng | 0.9983 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
-| Antal godkännanden | 8 (giltiga: 8) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 8) |
+| Antal godkännanden | 8 (giltiga: 7) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

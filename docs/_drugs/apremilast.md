@@ -43,7 +43,7 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 | Drug Name (INN) | Apremilast |
 | DrugBank ID | DB05676 |
 | Original Indication | Inte angiven i de lokala uppgifterna |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 19) |
 | Taiwan Market Status | ✗ Not marketed |
 | Number of Authorizations | 0 |
 
