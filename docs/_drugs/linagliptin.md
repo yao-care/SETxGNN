@@ -7,7 +7,7 @@ parent: 僅模型預測 (L5)
 nav_order: 81
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Linagliptin (DB08882) is a well-established DPP-4 inhibitor originally approved 
 | Predicted New Indication | None identified (predicted_indications: empty) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only; no output returned |
-| Sweden/Taiwan Market Status | Marknadsförd (giltiga godkännanden: 13 av 13) |
-| Number of Authorizations | 13 (giltiga: 13) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 13 av 13) |
+| Antal godkännanden | 13 (giltiga: 13) |
 | Recommended Decision | **Hold** |
 
 ---

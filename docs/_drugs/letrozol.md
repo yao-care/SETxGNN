@@ -7,7 +7,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 76
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -45,7 +45,7 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 | Original Indication | Inte angiven i de lokala uppgifterna |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
 | Taiwan Market Status | Not marketed（授權數：0） |
-| Number of Authorizations | 10 (giltiga: 10) |
+| Antal godkännanden | 10 (giltiga: 10) |
 
 ---
 

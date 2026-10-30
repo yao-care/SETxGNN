@@ -5,7 +5,7 @@ layout: default
 title: Aripiprazol
 parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 22
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,8 +41,8 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 | Item | Content |
 |------|------|
 | Original Indication | Inte angiven i de lokala uppgifterna |
-| Sweden Market Status | Marknadsförd (giltiga godkännanden: minst 20) |
-| Number of Authorizations | 0 |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Antal godkännanden | 0 |
 
 ## Ansvarsfriskrivning
 

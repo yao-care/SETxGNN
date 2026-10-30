@@ -5,7 +5,7 @@ layout: default
 title: Mebendazol
 parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 87
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -43,7 +43,7 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 | Original Indication | Inte angiven i de lokala uppgifterna |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
 | Taiwan Market Status | Not marketed |
-| Number of Authorizations | 4 (giltiga: 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 
 ---
 

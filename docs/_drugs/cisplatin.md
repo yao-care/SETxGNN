@@ -5,7 +5,7 @@ layout: default
 title: Cisplatin
 parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 39
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -45,7 +45,7 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 | Original Indication | Inte angiven i de lokala uppgifterna |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
 | Taiwan Market Status | ✗ Not marketed (Not marketed) |
-| Number of Authorizations | 2 (giltiga: 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 
 ---
 

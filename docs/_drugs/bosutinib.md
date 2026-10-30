@@ -7,7 +7,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 32
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 description: "Bosutinib: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
 indication_count: 0
@@ -48,8 +48,8 @@ Now I have all the context I need. The Evidence Pack's `predicted_indications` i
 | Item | Content |
 |------|------|
 | Original Indication | Inte angiven i de lokala uppgifterna |
-| Sweden Market Status | Marknadsförd (giltiga godkännanden: 9 av 9) |
-| Number of Authorizations | 9 (giltiga: 9) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
+| Antal godkännanden | 9 (giltiga: 9) |
 
 ## Ansvarsfriskrivning
 

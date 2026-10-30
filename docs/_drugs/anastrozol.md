@@ -5,7 +5,7 @@ layout: default
 title: Anastrozol
 parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 17
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -43,7 +43,7 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 | Original Indication | Inte angiven i de lokala uppgifterna |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
 | Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 8 (giltiga: 8) |
+| Antal godkännanden | 8 (giltiga: 8) |
 
 ## Ansvarsfriskrivning
 

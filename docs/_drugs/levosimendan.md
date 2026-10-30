@@ -7,7 +7,7 @@ parent: 僅模型預測 (L5)
 nav_order: 80
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ and two blocking data gaps — missing package-insert warnings and missing mecha
 | Predicted New Indication | No predictions available in this Evidence Pack |
 | TxGNN Prediction Score | — |
 | Evidence Level | — (cannot be determined) |
-| Sweden Market Status | Marknadsförd (giltiga godkännanden: 10 av 10) |
-| Number of Authorisations | 10 (giltiga: 10) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
+| Antal godkännanden | 10 (giltiga: 10) |
 | Recommended Decision | **Hold** |
 
 ---
