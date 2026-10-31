@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 366
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "procaine"
 predicted_indications: ["methemoglobinemia", "methemoglobinemia, alpha type", "Tourette syndrome", "anaphylaxis", "methemoglobin reductase deficiency", "hyperthyroidism", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis"]
 description: "Procaine: predikterad ny indikation Methemoglobinemia (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -40,7 +40,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 
 ### Sammanfattning
 
-Prokain är ett lokalbedövningsmedel (en ester av para-aminobensoesyra). I Sverige finns endast ett avregistrerat godkännande, Cardioplexol, en lösning för kardioplegi. Någon godkänd indikationstext finns inte angiven.
+Prokain är ett lokalbedövningsmedel (en ester av para-aminobensoesyra). Någon godkänd indikationstext finns inte angiven.
 TxGNN-modellen förutsäger att prokain kan vara effektivt mot **metemoglobinemi**, men det finns **inga kliniska prövningar** och endast **5 publikationer**.
 
 ---

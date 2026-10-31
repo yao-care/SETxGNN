@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 390
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "sacubitril"
 predicted_indications: ["brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "rheumatoid arthritis", "hemoglobinopathy"]
 description: "Sacubitril: predikterad ny indikation Brain small vessel disease 1 with or without ocular anomalies (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -116,7 +116,6 @@ Se produktresumén för varningar och kontraindikationer, eftersom dessa uppgift
 
 **Motivering:**
 - Förutsägelsen bygger enbart på modellpoängen. Det finns inga kliniska prövningar, och den enda publikationen gäller en annan sjukdom. Ingen känd mekanism kopplar läkemedlet till en COL4A1-relaterad kärlsjukdom.
-- Läkemedlet har dessutom endast avregistrerade godkännanden i Sverige.
 
 **För att gå vidare krävs:**
 - Mekanistiska eller prekliniska data (till exempel i COL4A1-modeller) som visar att neprilysinhämning eller AT1-blockad påverkar sjukdomen.
