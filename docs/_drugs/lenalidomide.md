@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 255
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 monitor_inn: "lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
 description: "Lenalidomide: predikterad ny indikation Myeloid leukemia (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -52,7 +52,7 @@ Lenalidomid är ett immunmodulerande läkemedel som ursprungligen används vid p
 | Förutsagd ny indikation | Myeloid leukemia |
 | TxGNN-förutsägelsepoäng | 0.9949 |
 | Evidensnivå | L2 (fas 2-studier finns, men inga avslutade randomiserade fas 3-prövningar; bedömningen bygger på den bedömning som ingår i underlaget) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 18) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 16) |
 | Antal godkännanden | 20 (alla indragna) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
