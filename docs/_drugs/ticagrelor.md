@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 426
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "ticagrelor"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
 description: "Ticagrelor: predikterad ny indikation Intracranial arteriosclerosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -53,7 +53,7 @@ Tikagrelor är en reversibel P2Y12-hämmare som ursprungligen användes vid akut
 | TxGNN-förutsägelsepoäng | 0.9997 |
 | Evidensnivå | L5 på designgrunder (fas 3-prövning pågår, resultat saknas) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | 20 (alla avregistrerade) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

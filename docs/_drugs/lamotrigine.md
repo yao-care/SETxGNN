@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 251
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "lamotrigine"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 description: "Lamotrigine: predikterad ny indikation Tumör i trigeminusnerven (trigeminal nerve neoplasm) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -53,7 +53,7 @@ Lamotrigin används ursprungligen för att behandla epilepsi, bland annat partie
 | TxGNN-förutsägelsepoäng | 0.9997 |
 | Evidensnivå | L5 (endast modellförutsägelse, inga relevanta studier) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | 20 (alla indragna) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---

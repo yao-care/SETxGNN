@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 376
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "RAMIPRIL"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
 description: "Ramipril: predikterad ny indikation Pulmonary hypertension owing to lung disease and/or hypoxia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -55,7 +55,7 @@ men det finns **inga kliniska prövningar** och endast **en relevant djurstudie*
 | TxGNN-förutsägelsepoäng | 0.9993 |
 | Evidensnivå | L5 (prekliniska studier) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | 20 (alla indragna) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---

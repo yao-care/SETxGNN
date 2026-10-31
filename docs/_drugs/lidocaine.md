@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "lidocaine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Lidocaine: predikterad ny indikation Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
@@ -53,7 +53,7 @@ Lidokain är ett lokalbedövningsmedel som blockerar natriumkanaler. TxGNN-model
 | TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | Minst 20 godkännanden (listan kan vara ofullständig) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---

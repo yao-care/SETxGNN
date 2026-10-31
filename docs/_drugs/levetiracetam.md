@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 258
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "LEVETIRACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Levetiracetam: predikterad ny indikation Beta-ketothiolase deficiency (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -53,7 +53,7 @@ Levetiracetam är ett antiepileptikum som ursprungligen används mot **partiell 
 | TxGNN-förutsägelsepoäng | 0.9990 |
 | Evidensnivå | L5 (endast indirekt evidens och mekanistiskt resonemang) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | 20 (samtliga avregistrerade) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---

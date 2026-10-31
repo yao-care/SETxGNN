@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 184
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "EVEROLIMUS"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
 description: "Everolimus: predikterad ny indikation Liposarkom (liposarcoma) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -53,7 +53,7 @@ TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **liposarkom*
 | TxGNN-förutsägelsepoäng | 0.9988 |
 | Evidensnivå | L3 (se kommentar nedan) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | 20 (alla avregistrerade, 0 giltiga) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 **Kommentar till evidensnivån:** Den enda kliniska studien är en enarmad fas 2-prövning som ännu inte är avslutad. Den testar everolimus i kombination med ribociklib. Kraven för L2 (en avslutad randomiserad fas 2/3-prövning) är därför inte uppfyllda. Nivån L3 är den som bäst motsvarar de kliniska data som finns.

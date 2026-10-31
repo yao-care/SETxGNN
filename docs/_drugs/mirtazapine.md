@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 298
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "mirtazapine"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
 description: "Mirtazapine: predikterad ny indikation Ohdo syndrome and variants (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -53,7 +53,7 @@ Mirtazapin är ett antidepressivt läkemedel som ursprungligen användes för at
 | TxGNN-förutsägelsepoäng | 0.9942 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | 20 (samtliga avregistrerade) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---

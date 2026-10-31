@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 455
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "xylometazoline"
 predicted_indications: ["nasal cavity disease"]
 description: "Xylometazoline: predikterad ny indikation Sjukdomar i näshålan (nasal cavity disease) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -53,7 +53,7 @@ Xylometazolin är en nässlemhinneavsvällande substans (alfa-adrenerg agonist a
 | TxGNN-förutsägelsepoäng | 0.9991 |
 | Evidensnivå | L3 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | 20 (0 giltiga, 20 avregistrerade) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---

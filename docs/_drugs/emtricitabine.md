@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 161
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "emtricitabine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Emtricitabine: predikterad ny indikation Feline acquired immunodeficiency syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -53,7 +53,7 @@ Emtricitabin är en nukleosid omvänt transkriptashämmare som ursprungligen anv
 | TxGNN-förutsägelsepoäng | 0.9992 |
 | Evidensnivå | L5 (endast prekliniska/veterinära studier) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 19) |
-| Antal godkännanden | 20 (alla indragna) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---

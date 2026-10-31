@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "methionine"
 predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "tetanic cataract", "immature cataract", "diabetic cataract"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Methionine: predikterad ny indikation Akne (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i de svenska godkännandena i underlaget"
 ---
 
@@ -53,7 +53,7 @@ Metionin är en essentiell aminosyra som i Sverige ingår i flera godkända infu
 | TxGNN-förutsägelsepoäng | 99,9996 % |
 | Evidensnivå | L5 (endast modellförutsägelse, ingen studie som direkt prövar metionin vid akne) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | Minst 20 godkännanden (listan kan vara ofullständig) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---

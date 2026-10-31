@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 424
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "threonine"
 predicted_indications: ["gastroparesis (disease)"]
 description: "Threonine: predikterad ny indikation Gastropares (gastroparesis (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -53,7 +53,7 @@ Treonin är en essentiell aminosyra som i Sverige har ingått i bland annat tabl
 | TxGNN-förutsägelsepoäng | 0.9932 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | 20 (alla avregistrerade) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ezetimibe"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ezetimibe: predikterad ny indikation Cholesterol-ester transfer protein deficiency (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
@@ -53,7 +53,7 @@ Ezetimib är ett kolesterolsänkande läkemedel. TxGNN-modellen förutsäger att
 | TxGNN-förutsägelsepoäng | 0.9909 |
 | Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | Minst 20 (listan kan vara ofullständig) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---

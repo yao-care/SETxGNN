@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 446
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "VALSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
 description: "Valsartan: predikterad ny indikation Malignant hypertensive renal disease (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -53,7 +53,7 @@ Valsartan är en angiotensin II-receptorblockerare (ARB) som ursprungligen anvä
 | TxGNN-förutsägelsepoäng | 0.9997 |
 | Evidensnivå | L4 (endast preklinisk/mekanistisk evidens) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | 20 (samtliga indragna) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---

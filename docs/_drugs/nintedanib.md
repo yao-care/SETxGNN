@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 316
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 monitor_inn: "nintedanib"
 predicted_indications: ["dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
 description: "Nintedanib: predikterad ny indikation Dermatofibrosarcoma protuberans (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -53,7 +53,7 @@ Nintedanib användes ursprungligen för att behandla icke-småcellig lungcancer 
 | TxGNN-förutsägelsepoäng | 0.9915 |
 | Evidensnivå | L5 (endast indirekt översiktsartikel och mekanistiskt resonemang) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 17) |
-| Antal godkännanden | 20 (samtliga indragna) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---

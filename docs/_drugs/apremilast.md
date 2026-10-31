@@ -5,7 +5,7 @@ layout: default
 title: Apremilast
 parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 20
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -45,7 +45,7 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 | Original Indication | Inte angiven i de lokala uppgifterna |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 19) |
 | Taiwan Market Status | ✗ Not marketed |
-| Antal godkännanden | 0 |
+| Antal godkännanden | minst 20 |
 
 ## Ansvarsfriskrivning
 

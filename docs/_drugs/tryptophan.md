@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 442
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "tryptophan"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
 description: "Tryptophan: predikterad ny indikation Restless legs-syndrom (restless legs syndrome) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -54,7 +54,7 @@ TxGNN-modellen förutsäger att tryptofan kan vara effektivt mot **restless legs
 | TxGNN-förutsägelsepoäng | 0.9972 |
 | Evidensnivå | L3 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | 20 (alla avregistrerade) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---

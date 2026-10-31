@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 397
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "SIMVASTATIN"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: predikterad ny indikation Brain stem infarction (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -53,7 +53,7 @@ Simvastatin är en kolesterolsänkande statin som ursprungligen används vid blo
 | TxGNN-förutsägelsepoäng | 0.9941 |
 | Evidensnivå | L5 (flera avslutade fas 3-prövningar, men de flesta testar kombinationer eller har simvastatin som bakgrundsbehandling) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | 20 (alla indragna) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

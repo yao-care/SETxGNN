@@ -53,7 +53,7 @@ Sakubitril säljs i Sverige som fast kombination med valsartan. De tillgängliga
 | TxGNN-förutsägelsepoäng | 0.9958 |
 | Evidensnivå | L5 (endast modellförutsägelse, inga relevanta studier) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | 20 (samtliga avregistrerade) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---

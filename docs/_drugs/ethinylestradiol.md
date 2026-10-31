@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 178
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "ethinylestradiol"
 predicted_indications: ["zinc, elevated plasma"]
 description: "Ethinylestradiol: predikterad ny indikation Förhöjt plasmazink (zinc, elevated plasma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -53,7 +53,7 @@ Etinylestradiol är ett syntetiskt östrogen som används vid bland annat akne, 
 | TxGNN-förutsägelsepoäng | 0.9963 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | 20 (samtliga avregistrerade, 0 giltiga) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---

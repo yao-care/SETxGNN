@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 79
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Candesartan: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i godkännandedata"
 monitor_inn: "candesartan"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "Prinzmetal angina", "kyphoscoliotic heart disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "benign prostatic hyperplasia (disease)", "alopecia"]
@@ -53,7 +53,7 @@ Candesartan är en angiotensin II-typ 1-receptorblockerare (ARB) som används vi
 | TxGNN-förutsägelsepoäng | 0.9997 |
 | Evidensnivå | L2 (en avslutad randomiserad fas 2/3-prövning samt en stor avslutad fas 2-prövning; inga två avslutade rena fas 3-prövningar) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | 20 (samtliga indragna) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

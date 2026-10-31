@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 445
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Valine: predikterad ny indikation Skleroserande kolangit (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext tillgänglig i de sammanställda data"
 monitor_inn: "valine"
 predicted_indications: ["sclerosing cholangitis", "angle-closure glaucoma", "hyperthyroidism", "aqueous misdirection", "traumatic glaucoma", "neovascular glaucoma", "glaucomatous atrophy of optic disc", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "obsolete bundle branch block", "hyperthyroxinemia"]
@@ -51,7 +51,7 @@ Valin är en essentiell aminosyra som i Sverige ingått i aminosyra- och näring
 | TxGNN-förutsägelsepoäng | 99,4 % |
 | Evidensnivå | L4 (endast indirekt litteratur, inga prövningar) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | 20 (alla indragna) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---

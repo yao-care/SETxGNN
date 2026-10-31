@@ -53,7 +53,7 @@ Lenalidomid är ett immunmodulerande läkemedel som ursprungligen används vid p
 | TxGNN-förutsägelsepoäng | 0.9949 |
 | Evidensnivå | L2 (fas 2-studier finns, men inga avslutade randomiserade fas 3-prövningar; bedömningen bygger på den bedömning som ingår i underlaget) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 16) |
-| Antal godkännanden | 20 (alla indragna) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

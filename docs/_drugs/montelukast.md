@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 304
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "montelukast"
 predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease"]
 description: "Montelukast: predikterad ny indikation Bronkit (bronchitis) (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -53,7 +53,7 @@ Montelukast är en leukotrienreceptorantagonist som ursprungligen används vid a
 | TxGNN-förutsägelsepoäng | 0.9995 |
 | Evidensnivå | L2 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | 20 (samtliga indragna) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 51
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Baclofen: predikterad ny indikation Attention deficit-hyperactivity disorder (ADHD) (evidensnivå L5). Ursprunglig indikation: Ej angiven i godkännandedata (litteraturen beskriver användning vid s…"
 monitor_inn: "baclofen"
 predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]
@@ -53,7 +53,7 @@ Baclofen används sedan tidigare mot spasticitet. Den indikationen anges i litte
 | TxGNN-förutsägelsepoäng | 0,9932 |
 | Evidensnivå | L5 (endast modellförutsägelse, inga relevanta studier på ADHD) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | 20 (alla avregistrerade) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---

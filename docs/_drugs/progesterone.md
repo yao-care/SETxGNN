@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 367
 evidence_level: L1
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "progesterone"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 description: "Progesterone: predikterad ny indikation Amenorré (amenorrhea (disease)) (amenorrhea (disease)) (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -53,7 +53,7 @@ Progesteron är kroppens eget gulkroppshormon och har ursprungligen använts vid
 | TxGNN-förutsägelsepoäng | 1.0000 |
 | Evidensnivå | L1 enligt den ursprungliga poängsättningen. Min bedömning är dock lägre, se kommentaren nedan |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | 20 (alla indragna) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 **Kommentar om evidensnivån:** Enligt reglerna kräver L1 minst två avslutade fas 3-RCT. Här finns bara en avslutad fas 3-prövning (NCT00946192) och en fas 2/3-prövning (NCT00088153). Dessutom testar de huvudsakligen östrogen, inte progesteron. Utifrån de strikta reglerna motsvarar evidensen snarare L2–L3 än L1.

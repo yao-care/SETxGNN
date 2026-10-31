@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 37
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 description: "Apixaban: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L4). Ursprunglig indikation: Ingen indikationstext tillgänglig i godkännandedata"
 monitor_inn: "APIXABAN"
 predicted_indications: ["migraine disorder"]
@@ -53,7 +53,7 @@ Apixaban är en direkt faktor Xa-hämmare (blodförtunnande läkemedel). Någon 
 | TxGNN-förutsägelsepoäng | 0,9902 |
 | Evidensnivå | L4 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 18) |
-| Antal godkännanden | 20 (alla indragna) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---

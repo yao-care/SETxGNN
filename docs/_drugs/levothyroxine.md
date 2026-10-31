@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "levothyroxine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Levothyroxine: predikterad ny indikation Renal hypodysplasia/aplasia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
@@ -53,7 +53,7 @@ Levotyroxin är ett syntetiskt sköldkörtelhormon som används vid hypotyreos o
 | TxGNN-förutsägelsepoäng | 0.9967 |
 | Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Antal godkännanden | Minst 20 godkännanden (listan kan vara ofullständig) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---
