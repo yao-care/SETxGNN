@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 233
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-02
 monitor_inn: "ipratropium"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "respiratory malformation", "papillary conjunctivitis", "Rienhoff syndrome", "tracheal disease", "anaphylaxis", "food-dependent exercise-induced anaphylaxis"]
 description: "Ipratropium: predikterad ny indikation Nasal cavity disease (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -52,7 +52,7 @@ Ipratropium är ett antikolinergt luftrörsvidgande läkemedel som ursprungligen
 | Förutsagd ny indikation | Nasal cavity disease |
 | TxGNN-förutsägelsepoäng | 0.9986 |
 | Evidensnivå | L5 (med reservation, se nedan) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 19) |
 | Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 

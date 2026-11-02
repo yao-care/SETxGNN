@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 407
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-02
 monitor_inn: "SUNITINIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
 description: "Sunitinib: predikterad ny indikation Liposarkom (liposarcoma) (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -52,8 +52,8 @@ Sunitinib är en tyrosinkinashämmare som ursprungligen används mot njurcellsca
 | Förutsagd ny indikation | Liposarkom (liposarcoma) |
 | TxGNN-förutsägelsepoäng | 0.9987 |
 | Evidensnivå | L2 (avslutade fas 2-prövningar, men enkelarmade och inte randomiserade, så evidensen ligger i den svagare delen av nivån) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 19 av 19) |
-| Antal godkännanden | 19 (giltiga: 19) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 16 av 19) |
+| Antal godkännanden | 19 (giltiga: 16) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
