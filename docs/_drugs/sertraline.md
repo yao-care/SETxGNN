@@ -4,17 +4,17 @@ title: Sertraline
 parent: Endast modellprediktion (L5)
 nav_order: 395
 evidence_level: L5
-indication_count: 8
-last_modified_at: 2026-10-31
+indication_count: 7
+last_modified_at: 2026-11-03
 monitor_inn: "sertraline"
-predicted_indications: ["schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "dependent personality disorder", "narcissistic personality disorder"]
-description: "Sertraline: predikterad ny indikation Schizoid personality disorder (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+predicted_indications: ["schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
+description: "Sertraline: predikterad ny indikation Schizoid personlighetsstörning (schizoid personality disorder) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Sertraline
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **8** st
+Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,58 +33,52 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 </div>
 
-## Sertraline: Schizoid personality disorder
+## Sertraline: Schizoid personlighetsstörning (schizoid personality disorder)
 {: .text-alpha }
 
----
+### Sammanfattning
 
-## Sammanfattning
-
-Sertralin är en selektiv serotoninåterupptagshämmare (SSRI) som ursprungligen används vid ångestsyndrom, tvångssyndrom, social fobi och posttraumatiskt stressyndrom. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **schizoid personlighetsstörning**. Evidensen är mycket svag: **inga kliniska prövningar** och **1 publikation** som inte handlar om den förutsagda sjukdomen.
+Sertralin är en selektiv serotoninåterupptagshämmare som används inom psykiatrin. TxGNN-modellen förutsäger att den kan vara effektiv mot **schizoid personlighetsstörning (schizoid personality disorder)**. Det finns dock **inga kliniska prövningar** och endast **1 publikation** kopplad till förutsägelsen, och den publikationen gäller ätstörningen hetsätning, inte schizoid personlighetsstörning. Förutsägelsen bygger därför i praktiken enbart på modellen.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Schizoid personality disorder |
+| Förutsagd ny indikation | Schizoid personlighetsstörning (schizoid personality disorder) |
 | TxGNN-förutsägelsepoäng | 0.9993 |
-| Evidensnivå | L5 (endast modellförutsägelse, inga relevanta studier) |
+| Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är sertralin en SSRI. Läkemedlets effekt vid ångest- och tvångssyndrom är väl belagd, och mekanistiskt skulle serotonerg påverkan kunna vara tillämpbar på ångestrelaterade drag vid personlighetsstörningar.
+Uppgifter om sertralins detaljerade verkningsmekanism finns för närvarande inte i de data som sammanställts för denna rapport. Baserat på allmän kännedom hör sertralin till klassen SSRI-läkemedel, som verkar via serotoninsystemet. Mekanistiskt skulle serotonerg påverkan kunna ha betydelse för ångest- och affektrelaterade drag som förekommer vid personlighetsstörningar.
 
-Samma poäng ges till flera andra personlighetsstörningar (histrionisk, schizotyp, paranoid), vilket tyder på en generell grafeffekt snarare än ett sjukdomsspecifikt samband.
-
-Den enda kopplade artikeln gäller ätstörningen hyperfagi (binge eating), inte schizoid personlighetsstörning. Det finns därför varken något sjukdomsspecifikt mekanistiskt stöd eller något kliniskt stöd.
+Den höga poängen drivs sannolikt av att schizoid personlighetsstörning ligger nära andra personlighetsstörningar och serotonin- och ångestrelaterade tillstånd i modellens nätverk av samband. Flera andra personlighetsstörningar fick exakt samma poäng, vilket tyder på en spridningseffekt snarare än sjukdomsspecifik evidens. Det finns därför inget sjukdomsspecifikt mekanistiskt eller kliniskt stöd.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [19794312](https://pubmed.ncbi.nlm.nih.gov/19794312/) | 2009 | Rapport om kombinationsbehandling | International clinical psychopharmacology | Studie på 30 patienter med hyperfagi (binge eating) som jämförde tre behandlingar under 6 månader, bland annat kost, kognitiv beteendeterapi och sertralin. Studien rör inte schizoid personlighetsstörning. |
+| [19794312](https://pubmed.ncbi.nlm.nih.gov/19794312/) | 2009 | Översikt/multimodal behandlingsrapport | International clinical psychopharmacology | Studie på 30 patienter med hetsätningsstörning som jämförde tre sexmånadersbehandlingar, bland annat kost, kognitiv beteendeterapi och sertralin. Gäller inte schizoid personlighetsstörning. |
 
 ---
 
-## Marknadsinformation Sverige
-
-Alla 20 godkännanden är indragna och inget är giltigt. Indikationstexter saknas i de godkännanden som finns registrerade. Nedan visas fem av dem.
+### Marknadsinformation Sverige
 
 | Godkännandenummer | Produktnamn | Beredningsform |
 |---------|------|------|
@@ -94,37 +88,30 @@ Alla 20 godkännanden är indragna och inget är giltigt. Indikationstexter sakn
 | 15504 | Zoloft | Koncentrat till oral lösning |
 | 21214 | Sertralet | Filmdragerad tablett |
 
----
-
-## Säkerhetsaspekter
-
-- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumén): epilepsi, bipolär sjukdom, egentlig affektiv sjukdom, leversjukdom, gallblåsesjukdom, blodkoagulationsrubbning, malignt neuroleptikasyndrom, SIADH (inadekvat ADH-sekretion), nefrogent syndrom med inadekvat antidios och serotonergt syndrom.
-- **Läkemedelsinteraktioner**: totalt 396 interaktioner finns registrerade. Bland de allvarligaste (nivå "Major") finns:
-  - bupropion
-  - lorkaserin
-  - dietylpropion
-  - dolasetron
-  - eliglustat
-  - palonosetron
-  - fentermin
-
-Se produktresumén för fullständiga varningar och kontraindikationer, eftersom de inte ingår i underlaget.
+Minst 20 godkännanden finns registrerade och samtliga är giltiga. Listan kan vara ofullständig.
 
 ---
 
-## Slutsats och nästa steg
+### Säkerhetsaspekter
+
+- **Läkemedelsinteraktioner**: Totalt 396 interaktioner finns registrerade. Bland de allvarligaste (Major) finns bupropion, lorcaserin, dietylpropion, dolasetron, eliglustat, palonosetron och fentermin. Måttliga interaktioner finns bland annat med acetylsalicylsyra, klaritromycin, morfin, famotidin och loperamid.
+
+För övrig säkerhetsinformation, se produktresumén.
+
+---
+
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på modellen. Det finns inga kliniska prövningar och ingen sjukdomsspecifik litteratur, och den höga poängen verkar vara en generell effekt för personlighetsstörningar. Dessutom är samtliga svenska godkännanden för sertralin indragna.
+- Förutsägelsen bygger enbart på modellens poäng. Det finns inga kliniska prövningar och ingen publikation som studerar schizoid personlighetsstörning, vilket ger evidensnivå L5.
 
 **För att gå vidare krävs:**
-- Kontrollerade studier eller åtminstone systematiska översikter av SSRI vid schizoid personlighetsstörning.
-- Verkningsmekanismdata för att kunna bedöma det mekanistiska sambandet.
-- Information från produktresumén om varningar och kontraindikationer för säkerhetsbedömning.
-- Klarhet i läkemedlets regulatoriska status i Sverige, eftersom alla godkännanden är indragna.
-- Övervägande av att prioritera andra förutsägelser för sertralin med starkare stöd. Agorafobi har till exempel randomiserade studier och nätverksmetaanalyser av panikångest med eller utan agorafobi, men den ligger nära läkemedlets befintliga indikationsfamilj.
+- Sjukdomsspecifika studier av sertralin vid schizoid personlighetsstörning
+- Uppgifter om verkningsmekanism och en genomgång av produktresumén avseende varningar och kontraindikationer
+- Klinisk bedömning av nytta och risk för målgruppen innan eventuella studier planeras
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

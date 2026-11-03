@@ -3,10 +3,10 @@
   "total_drugs": 450,
   "level_counts": {
     "L1": 8,
-    "L2": 16,
-    "L3": 23,
+    "L2": 15,
+    "L3": 25,
     "L4": 35,
-    "L5": 358
+    "L5": 357
   },
   "all_drugs": [
     {
@@ -85,13 +85,13 @@
       "name": "Alprazolam",
       "slug": "alprazolam",
       "level": "L5",
-      "indication_count": 3
+      "indication_count": 2
     },
     {
       "name": "Alprostadil",
       "slug": "alprostadil",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Alteplase",
@@ -301,7 +301,7 @@
       "name": "Bexarotene",
       "slug": "bexarotene",
       "level": "L5",
-      "indication_count": 3
+      "indication_count": 2
     },
     {
       "name": "Bicalutamide",
@@ -331,7 +331,7 @@
       "name": "Bleomycin",
       "slug": "bleomycin",
       "level": "L5",
-      "indication_count": 6
+      "indication_count": 5
     },
     {
       "name": "Bosentan",
@@ -469,7 +469,7 @@
       "name": "Ceftriaxone",
       "slug": "ceftriaxone",
       "level": "L5",
-      "indication_count": 7
+      "indication_count": 5
     },
     {
       "name": "Cefuroxime",
@@ -559,7 +559,7 @@
       "name": "Ciprofloxacin",
       "slug": "ciprofloxacin",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Cisatracurium",
@@ -619,13 +619,13 @@
       "name": "Clotrimazole",
       "slug": "clotrimazole",
       "level": "L5",
-      "indication_count": 3
+      "indication_count": 2
     },
     {
       "name": "Clozapine",
       "slug": "clozapine",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Colchicine",
@@ -979,7 +979,7 @@
       "name": "Ergocalciferol",
       "slug": "ergocalciferol",
       "level": "L5",
-      "indication_count": 6
+      "indication_count": 5
     },
     {
       "name": "Esketamine",
@@ -1164,8 +1164,8 @@
     {
       "name": "Fluoxetine",
       "slug": "fluoxetine",
-      "level": "L5",
-      "indication_count": 9
+      "level": "L3",
+      "indication_count": 8
     },
     {
       "name": "Flupentixol",
@@ -1177,7 +1177,7 @@
       "name": "Flurbiprofen",
       "slug": "flurbiprofen",
       "level": "L5",
-      "indication_count": 9
+      "indication_count": 8
     },
     {
       "name": "Flutamide",
@@ -1555,7 +1555,7 @@
       "name": "Lomustine",
       "slug": "lomustine",
       "level": "L3",
-      "indication_count": 10
+      "indication_count": 3
     },
     {
       "name": "Loperamide",
@@ -1747,7 +1747,7 @@
       "name": "Mitomycin",
       "slug": "mitomycin",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 7
     },
     {
       "name": "Mitoxantrone",
@@ -1770,8 +1770,8 @@
     {
       "name": "Montelukast",
       "slug": "montelukast",
-      "level": "L2",
-      "indication_count": 3
+      "level": "L3",
+      "indication_count": 2
     },
     {
       "name": "Moxifloxacin",
@@ -2227,7 +2227,7 @@
       "name": "Riluzole",
       "slug": "riluzole",
       "level": "L5",
-      "indication_count": 9
+      "indication_count": 8
     },
     {
       "name": "Risperidone",
@@ -2299,7 +2299,7 @@
       "name": "Sapropterin",
       "slug": "sapropterin",
       "level": "L5",
-      "indication_count": 3
+      "indication_count": 2
     },
     {
       "name": "Selegiline",
@@ -2317,7 +2317,7 @@
       "name": "Sertraline",
       "slug": "sertraline",
       "level": "L5",
-      "indication_count": 8
+      "indication_count": 7
     },
     {
       "name": "Sevoflurane",

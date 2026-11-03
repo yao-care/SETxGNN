@@ -4,17 +4,17 @@ title: Sapropterin
 parent: Endast modellprediktion (L5)
 nav_order: 392
 evidence_level: L5
-indication_count: 3
-last_modified_at: 2026-10-28
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "sapropterin"
-predicted_indications: ["disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome", "hyperphenylalaninemia due to tetrahydrobiopterin deficiency"]
-description: "Sapropterin: predikterad ny indikation Disorder of tyrosine metabolism (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+predicted_indications: ["disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome"]
+description: "Sapropterin: predikterad ny indikation Rubbning av tyrosinmetabolismen (disorder of tyrosine metabolism) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Sapropterin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **3** st
+Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Sapropterin: Disorder of tyrosine metabolism
+## Sapropterin: Rubbning av tyrosinmetabolismen (disorder of tyrosine metabolism)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Sapropterin är en syntetisk form av tetrahydrobiopterin (BH4) och användes ursprungligen för att behandla fenylketonuri (PKU) och andra rubbningar i omsättningen av fenylalanin. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **rubbning i tyrosinmetabolismen**, men inga kliniska prövningar finns och den litteratur som hittats gäller i huvudsak PKU, alltså den redan godkända indikationen. Evidensen för en egen ny indikation är därför mycket svag.
+Sapropterin är en syntetisk form av tetrahydrobiopterin (BH4), en kofaktor till enzymet fenylalaninhydroxylas. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **rubbning av tyrosinmetabolismen (disorder of tyrosine metabolism)**. Inga kliniska prövningar finns, och den litteratur som har sammanställts handlar nästan uteslutande om fenylketonuri och studerar alltså inte den förutsagda sjukdomen direkt.
 
 ---
 
@@ -49,7 +49,7 @@ Sapropterin är en syntetisk form av tetrahydrobiopterin (BH4) och användes urs
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Disorder of tyrosine metabolism |
+| Förutsagd ny indikation | Rubbning av tyrosinmetabolismen (disorder of tyrosine metabolism) |
 | TxGNN-förutsägelsepoäng | 0.9989 |
 | Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
@@ -60,30 +60,33 @@ Sapropterin är en syntetisk form av tetrahydrobiopterin (BH4) och användes urs
 
 ### Varför är denna förutsägelse rimlig?
 
-Detaljerade uppgifter om verkningsmekanismen finns för närvarande inte tillgängliga i den data som sammanställts. Baserat på känd information är sapropterin en syntetisk variant av BH4, den kofaktor som enzymet fenylalaninhydroxylas (PAH) behöver för att omvandla fenylalanin till tyrosin. Effekten vid PKU är väl belagd, och mekanistiskt finns ett möjligt samband med tyrosinmetabolismen.
+Sapropterin är en syntetisk version av tetrahydrobiopterin (BH4). BH4 är en kofaktor till fenylalaninhydroxylas (PAH), som omvandlar fenylalanin till tyrosin. Detaljerad data om verkningsmekanismen finns inte i de sammanställda uppgifterna, så beskrivningen här bygger på allmänt känd farmakologi.
 
-Tyrosin ligger nedströms PAH-steget, så ett biokemiskt samband är rimligt. BH4 är dessutom kofaktor för tyrosinhydroxylas i syntesen av katekolaminer.
+Tyrosin ligger nedströms PAH-steget, och BH4 är dessutom kofaktor till tyrosinhydroxylas i syntesen av katekolaminer. Det finns därför ett biokemiskt rimligt samband mellan läkemedlet och rubbningar i tyrosinmetabolismen.
 
-Den höga poängen speglar sannolikt att PKU och tyrosinmetabolism ligger nära varandra i sjukdomsontologin, inte att det finns oberoende stöd för återanvändning. Inga studier stöder en separat rubbning i tyrosinmetabolismen, till exempel tyrosinemi.
+Man bör dock vara försiktig med tolkningen. Den höga modellpoängen speglar sannolikt att sjukdomarna ligger nära varandra i sjukdomsklassificeringen snarare än oberoende evidens för återanvändning. Ingen studie i de sammanställda uppgifterna undersöker en separat tyrosinmetabolisk sjukdom, till exempel tyrosinemi.
+
+---
+
+### Kliniska prövningar
+
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
 ### Litteraturbevis
 
-Litteraturen nedan gäller nästan uteslutande PKU, den redan godkända indikationen, och inte någon separat rubbning i tyrosinmetabolismen.
+Litteraturen nedan gäller huvudsakligen fenylketonuri och sapropterinbehandling i allmänhet. Ingen av publikationerna studerar rubbning av tyrosinmetabolismen som sådan.
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [39237321](https://pubmed.ncbi.nlm.nih.gov/39237321/) | 2025 | Kohortstudie (register) | Journal of Inherited Metabolic Disease | Slutresultat från det europeiska registret KAMPER (576 deltagare) om långtidssäkerhet och effekt av sapropterin vid PAH-brist |
-| [29025426](https://pubmed.ncbi.nlm.nih.gov/29025426/) | 2017 | Översikt (riktlinje) | Orphanet Journal of Rare Diseases | Europeiska riktlinjer för diagnos och behandling av PKU |
-| [34784942](https://pubmed.ncbi.nlm.nih.gov/34784942/) | 2021 | Översikt (konsensus) | Orphanet Journal of Rare Diseases | Italiensk konsensus om hantering och läkemedelsbehandling av PKU |
-| [34654619](https://pubmed.ncbi.nlm.nih.gov/34654619/) | 2021 | Kohortstudie | Molecular Genetics and Metabolism | Naturalförlopp vid PKU i det amerikanska registret NBS-PKU Connect |
-| [25563006](https://pubmed.ncbi.nlm.nih.gov/25563006/) | 2014 | Öppen fas 3-studie | Vestnik Rossiiskoi Akademii Meditsinskikh Nauk | Öppen studie utan jämförelsegrupp av effekt och säkerhet för sapropterin vid PKU och hyperfenylalaninemi |
-| [26653793](https://pubmed.ncbi.nlm.nih.gov/26653793/) | 2016 | Preklinisk (mus) | Molecular Genetics and Metabolism | Hög dos sapropterin förbättrade omsättningen av monoaminer (dopamin, serotonin) i en musmodell av PKU |
-| [34485013](https://pubmed.ncbi.nlm.nih.gov/34485013/) | 2021 | Fallrapport | JIMD Reports | Sapropterinbehandling vid brist på dihydropteridinreduktas |
-| [37156708](https://pubmed.ncbi.nlm.nih.gov/37156708/) | 2023 | Fallrapport | Brain & Development | Utvecklingsförsening och hyperfenylalaninemi vid DNAJC12-brist |
-| [20738029](https://pubmed.ncbi.nlm.nih.gov/20738029/) | 2010 | Översikt | Prescrire International | Sapropterin hjälper en minoritet av PKU-patienterna |
-| [30359206](https://pubmed.ncbi.nlm.nih.gov/30359206/) | 2020 | Översikt | Nutritional Neuroscience | Kostbehandling vid PKU |
+| [39237321](https://pubmed.ncbi.nlm.nih.gov/39237321/) | 2025 | Kohortstudie (register) | Journal of Inherited Metabolic Disease | Långtidssäkerhet och effekt av sapropterin hos 576 deltagare med PAH-brist i det europeiska registret KAMPER. |
+| [29025426](https://pubmed.ncbi.nlm.nih.gov/29025426/) | 2017 | Översikt (riktlinjer) | Orphanet Journal of Rare Diseases | Europeiska riktlinjer för diagnostik och behandling av fenylketonuri. |
+| [34784942](https://pubmed.ncbi.nlm.nih.gov/34784942/) | 2021 | Översikt (konsensus) | Orphanet Journal of Rare Diseases | Italiensk konsensus om behandling av fenylketonuri, inklusive läkemedelsbehandling. |
+| [25563006](https://pubmed.ncbi.nlm.nih.gov/25563006/) | 2014 | Öppen fas III-studie | Vestnik Rossiiskoi Akademii Meditsinskikh Nauk | Öppen, icke-jämförande studie av sapropterins effekt och säkerhet vid fenylketonuri och hyperfenylalaninemi. |
+| [26653793](https://pubmed.ncbi.nlm.nih.gov/26653793/) | 2016 | Prekliniskt (musmodell) | Molecular Genetics and Metabolism | Hög dos sapropterin förbättrade omsättningen av monoaminer i en musmodell av fenylketonuri. |
+| [20738029](https://pubmed.ncbi.nlm.nih.gov/20738029/) | 2010 | Översikt | Prescrire International | Sapropterin är aktuellt för en minoritet av patienterna med fenylketonuri. |
+| [34654619](https://pubmed.ncbi.nlm.nih.gov/34654619/) | 2021 | Kohortstudie (register) | Molecular Genetics and Metabolism | Naturalförlopp hos barn och vuxna med fenylketonuri i ett amerikanskt register. |
 
 ---
 
@@ -94,17 +97,19 @@ Litteraturen nedan gäller nästan uteslutande PKU, den redan godkända indikati
 | 61616 | Sapropterin Teva (TEVA GmbH) | Löslig tablett | Uppgift saknas (godkänt) |
 | 63805 | Sapropterin STADA (STADA Arzneimittel AG) | Löslig tablett | Uppgift saknas (godkänt) |
 
+Båda godkännandena är giltiga.
+
 ---
 
 ### Säkerhetsaspekter
 
-- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumén): neutropeni och agranulocytos.
-- **Läkemedelsinteraktioner**: 21 interaktioner av måttlig allvarlighetsgrad har identifierats. De viktigaste grupperna är:
-  - Läkemedel som vidgar blodkärl eller påverkar kväveoxidvägen: alprostadil, levodopa, minoxidil (även lokalt), nitroprussid, hydralazin, isosorbiddinitrat, isosorbidmononitrat, nesiritid, nitroglycerin, sildenafil, tadalafil, vardenafil.
-  - Folatantagonister: metotrexat, pemetrexed, pralatrexat, pyrimetamin, trimetoprim, trimetrexat.
-  - Övrigt: proguanil.
+- **Läkemedelsinteraktioner**: Totalt 21 interaktioner av måttlig grad har identifierats. Bland de viktigaste:
+  - Kärlvidgande läkemedel och nitrater: nitroglycerin, isosorbidmononitrat, isosorbiddinitrat, nitroprussid, hydralazin, minoxidil (även topikalt) och nesiritid.
+  - Hämmare av fosfodiesteras typ 5: sildenafil, tadalafil och vardenafil.
+  - Folatantagonister: metotrexat, pemetrexed, pralatrexat, trimetoprim, trimetrexat och pyrimetamin.
+  - Övriga: alprostadil, proguanil och levodopa.
 
-Varningar och kontraindikationer från produktresumén saknas i den data som sammanställts. Se produktresumén för fullständig säkerhetsinformation.
+För varningar och kontraindikationer, se produktresumén.
 
 ---
 
@@ -113,20 +118,14 @@ Varningar och kontraindikationer från produktresumén saknas i den data som sam
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den förutsagda indikationen saknar kliniska prövningar och egen litteratur. Den höga poängen beror sannolikt på att PKU och tyrosinmetabolism ligger nära varandra i ontologin.
-- Båda svenska godkännandena är återkallade, så tillgängligheten av läkemedlet i Sverige är oklar.
+- Förutsägelsen saknar stöd i kliniska prövningar, och ingen publikation studerar den förutsagda sjukdomen direkt. Evidensnivån är därför L5, och den höga poängen bör inte tolkas som oberoende evidens.
 
 **För att gå vidare krävs:**
-- Säkerhetsinformation från produktresumén (varningar och kontraindikationer), eftersom den saknas.
-- Detaljerad verkningsmekanism från DrugBank.
-- Prekliniska eller kliniska data för en specifik rubbning i tyrosinmetabolismen, till exempel tyrosinemi.
-- Kontroll av om sapropterin finns tillgängligt i Sverige, och i så fall under vilket godkännande.
+- Att man preciserar vilken specifik tyrosinmetabolisk sjukdom som avses, till exempel en definierad form av tyrosinemi.
+- Prekliniska eller kliniska studier som direkt undersöker sapropterin vid den sjukdomen.
+- Komplettering av detaljerad data om verkningsmekanismen.
+- Genomgång av produktresumén för varningar och kontraindikationer, eftersom sådan information saknas i de sammanställda uppgifterna.
 
----
-
-**Andra förutsägelser i datan (kort översikt):**
-
-- **Hyperfenylalaninemi orsakad av BH4-brist** (poäng 0,9910, L4): Mekanismen är biologiskt direkt, eftersom sapropterin ersätter den saknade kofaktorn. Den tillgängliga litteraturen består av PKU-riktlinjer, översikter och Cochrane-översikter samt en jämförelse mellan sepiapterin och sapropterin (fas 3, RCT, 2026), och innehåller inga studier specifika för BH4-brist. Detta är den mest rimliga kandidaten för vidare utredning, men det behöver bekräftas om indikationen redan täcks av godkänd märkning eller riktlinjer.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

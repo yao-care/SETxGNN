@@ -4,17 +4,17 @@ title: Ciprofloxacin
 parent: Endast modellprediktion (L5)
 nav_order: 102
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "CIPROFLOXACIN"
-predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-10-28
-description: "Ciprofloxacin: predikterad ny indikation Diffus skleroderma (diffuse scleroderma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
+last_modified_at: 2026-11-03
+description: "Ciprofloxacin: predikterad ny indikation Diffus sklerodermi (diffuse scleroderma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ciprofloxacin
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,24 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Ciprofloxacin: fluorokinolon-antibiotika → Diffus skleroderma (diffuse scleroderma)
+## Ciprofloxacin: Diffus sklerodermi (diffuse scleroderma)
 {: .text-alpha }
 
 ---
 
-### Sammanfattning
+## Sammanfattning
 
-Ciprofloxacin är ett fluorokinolonantibiotikum som används mot bakteriella infektioner. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **diffus skleroderma (diffuse scleroderma)**. Underlaget består av **inga kliniska prövningar** och **2 publikationer**, varav en liten kontrollerad studie av hudens fibros.
+Ciprofloxacin är ett antibakteriellt läkemedel i fluorokinolonklassen. TxGNN-modellen förutsäger att det kan vara effektivt mot **diffus sklerodermi (diffuse scleroderma)**, med ett poängvärde på 0,9987. Det finns inga kliniska prövningar och **2 publikationer** i det insamlade underlaget, varav ingen är en kontrollerad studie med tillräcklig styrka för att stödja riktningen.
 
 ---
 
-### Snabböversikt
+## Snabböversikt
 
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Diffus skleroderma (diffuse scleroderma) |
-| TxGNN-förutsägelsepoäng | 0,9987 |
+| Förutsagd ny indikation | Diffus sklerodermi (diffuse scleroderma) |
+| TxGNN-förutsägelsepoäng | 0.9987 |
 | Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
 | Antal godkännanden | 6 (giltiga: 6) |
@@ -58,32 +58,32 @@ Ciprofloxacin är ett fluorokinolonantibiotikum som används mot bakteriella inf
 
 ---
 
-### Varför är denna förutsägelse rimlig?
+## Varför är denna förutsägelse rimlig?
 
-Det finns inga detaljerade data om verkningsmekanismen i det underlag som sammanställts för rapporten. Ciprofloxacin tillhör fluorokinolonerna, som i allmänhet hämmar bakteriella enzymer (DNA-gyras och topoisomeras IV). Det är känt från tidigare rapporter att ciprofloxacin kan ha en antifibrotisk effekt i huden, möjligen via påverkan på kollagenproduktionen i fibroblaster och hämning av topoisomeras II. Detta är dock en hypotes och inte en fastställd mekanism.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Ciprofloxacin är en fluorokinolon och hämmar bakteriella topoisomeraser. Det finns rapporter om att läkemedlet kan ha antifibrotiska effekter i huden, möjligen genom påverkan på fibroblasternas kollagenproduktion och hämning av topoisomeras II. Detta är dock en hypotes och inte fastställd verkningsmekanism.
 
-Ett andra tänkbart samband gäller mag-tarmkanalen. Vid systemisk skleroderma är bakteriell överväxt i tunntarmen en vanlig komplikation, och ciprofloxacin kan behandla den. Det är en symtomlindrande effekt via den antibakteriella verkan och inte en behandling av själva sjukdomen.
+Diffus sklerodermi kännetecknas av omfattande fibros i huden och inre organ. Det finns därför ett tänkbart samband mellan en antifibrotisk effekt och sjukdomens kärnproblem. Därtill kan ciprofloxacin behandla bakteriell överväxt i tunntarmen, en vanlig gastrointestinal komplikation vid systemisk skleros.
 
-Underlaget är indirekt och bygger på små, tidiga studier. Det höga modellvärdet stöds därför inte av kontrollerade kliniska data.
+Underlaget är dock indirekt och bygger på små, tidiga studier. Det höga modellpoängen stöds inte av kontrollerade kliniska data.
 
 ---
 
-### Kliniska prövningar
+## Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-### Litteraturbevis
+## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [20507401](https://pubmed.ncbi.nlm.nih.gov/20507401/) | 2010 | Liten klinisk studie (kontrollerad, dubbelblind, randomiserad enligt sammanfattningen) | The Journal of Dermatology | Undersökte om oralt ciprofloxacin minskar svårighetsgraden av skleroderma och fungerar antifibrotiskt i huden. Resultaten framgår inte av den tillgängliga sammanfattningen. |
-| [7728404](https://pubmed.ncbi.nlm.nih.gov/7728404/) | 1995 | Kohort-/diagnostikstudie | British Journal of Rheumatology | 24 patienter med systemisk skleroderma och symtom på malabsorption undersöktes för bakteriell överväxt i tunntarmen, varav 6 hade den diffusa formen. Studien gäller en tarmkomplikation och behandlingsutfall. |
+| [20507401](https://pubmed.ncbi.nlm.nih.gov/20507401/) | 2010 | Kontrollerad, dubbelblind randomiserad studie (liten) | The Journal of Dermatology | Undersökte om oralt ciprofloxacin minskar sklerodermins svårighetsgrad och har antifibrotisk effekt i huden. Sammanfattningen i underlaget är avkortad och resultaten framgår inte. |
+| [7728404](https://pubmed.ncbi.nlm.nih.gov/7728404/) | 1995 | Kohort/diagnostisk studie | British Journal of Rheumatology | 24 patienter med systemisk skleros och malabsorptionssymtom undersöktes för bakteriell överväxt i tunntarmen, varav sex hade den diffusa formen. Rör behandling av en komplikation, inte själva sjukdomen. |
 
 ---
 
-### Marknadsinformation Sverige
+## Marknadsinformation Sverige
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -93,30 +93,39 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 | 24408 | Ciprofloxacin Navamedic | Infusionsvätska, lösning | Ej angiven |
 | 53658 | Ciproxin | Granulat och vätska till oral suspension | Ej angiven |
 
----
-
-### Säkerhetsaspekter
-
-**Läkemedelsinteraktioner** (100 interaktioner identifierade; de viktigaste nämns här):
-- **Allvarliga (Major)**: hydrokortison, triamcinolon, dexametason, betametason och bupropion.
-- **Måttliga (Moderate)**: bland andra acarbose, famotidin, metformin, pioglitazon, loperamid, acetylsalicylsyra, aprepitant och budesonid.
-
-Produktresumén bör konsulteras för fullständig säkerhetsinformation, inklusive varningar och kontraindikationer.
+Samtliga sex godkännanden i underlaget är giltiga; fem av dem visas ovan.
 
 ---
 
-### Slutsats och nästa steg
+## Säkerhetsaspekter
+
+- **Läkemedelsinteraktioner** (100 interaktioner identifierade; de viktigaste av allvarlig grad):
+  - Hydrokortison (allvarlig)
+  - Triamcinolon (allvarlig)
+  - Dexametason (allvarlig)
+  - Betametason (allvarlig)
+  - Bupropion (allvarlig)
+  - Därutöver finns flera interaktioner av måttlig grad, bland annat med metformin, pioglitazon, acetylsalicylsyra och famotidin.
+
+Därutöver är följande tillstånd kopplade till ciprofloxacin som möjliga kontraindikationer eller riskfaktorer i det data som sammanställts för denna rapport (ej hämtat från produktresumétext): långt QT-syndrom, torsades de pointes, epilepsi, njursjukdom, tendinit, perifer neuropati, myasthenia gravis, Clostridium difficile-kolit och kaliumbrist.
+
+Se produktresumén för fullständig säkerhetsinformation om varningar och kontraindikationer.
+
+---
+
+## Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Det finns inga registrerade kliniska prövningar för diffus skleroderma, och den enda kontrollerade studien är liten och tidig. Det höga modellvärdet (0,9987) räcker inte som underlag för att gå vidare.
+- Det finns inga registrerade kliniska prövningar för diffus sklerodermi, och den enda litteraturen som direkt rör sjukdomen är en liten studie vars resultat inte framgår i underlaget. Det höga modellpoängen räcker inte som underlag för beslut.
 
 **För att gå vidare krävs:**
-- Fullständig genomgång av studien från 2010 (resultat, urvalsstorlek, effektmått) för att bedöma den antifibrotiska effekten.
-- Större, välutformade randomiserade kontrollerade studier hos patienter med diffus skleroderma.
-- Tydligare data om verkningsmekanismen för en eventuell antifibrotisk effekt.
-- Genomgång av produktresumén för varningar och kontraindikationer, särskilt med tanke på kända senbesvär och nervpåverkan vid fluorokinolonbehandling.
+- Fullständig genomgång av studien från 2010 (PMID 20507401), inklusive resultat och studiedesign
+- Större kontrollerade studier som bekräftar en antifibrotisk effekt vid diffus sklerodermi
+- Detaljerad verkningsmekanismdata för ciprofloxacin
+- Säkerhetsbedömning utifrån produktresumén, särskilt avseende senskador, neuropati och QT-förlängning hos patienter med sklerodermi
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -4,17 +4,17 @@ title: Ceftriaxone
 parent: Endast modellprediktion (L5)
 nav_order: 87
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 monitor_inn: "ceftriaxone"
-predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "infectious otitis media", "blood group incompatibility", "suppurative otitis media", "chronic otitis media"]
-last_modified_at: 2026-10-28
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "chronic otitis media"]
+last_modified_at: 2026-11-03
 description: "Ceftriaxone: predikterad ny indikation Polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ceftriaxone
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **7** st
+Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,24 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Ceftriaxon hameln: Cefalosporin av tredje generationen → Polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome)
+## Ceftriaxone: Polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome)
 {: .text-alpha }
 
 ---
 
-### Sammanfattning
+## Sammanfattning
 
-Ceftriaxon är ett cefalosporinantibiotikum av tredje generationen. TxGNN-modellen förutsäger att det kan vara effektivt mot **polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome)**. Det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna förutsägelse, som därför bygger enbart på modellen.
+Ceftriaxon är ett cefalosporinantibiotikum för injektion. TxGNN-modellen förutsäger att det kan vara effektivt mot **polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome)**. Förutsägelsen saknar helt stöd i form av **kliniska prövningar** eller **publikationer**, och det finns inget trovärdigt mekanistiskt samband. Det är en ren modellförutsägelse.
 
 ---
 
-### Snabböversikt
+## Snabböversikt
 
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome) |
-| TxGNN-förutsägelsepoäng | 0,9939 |
+| TxGNN-förutsägelsepoäng | 0.9939 |
 | Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
 | Antal godkännanden | 9 (giltiga: 9) |
@@ -58,29 +58,31 @@ Ceftriaxon är ett cefalosporinantibiotikum av tredje generationen. TxGNN-modell
 
 ---
 
-### Varför är denna förutsägelse rimlig?
+## Varför är denna förutsägelse rimlig?
 
-Förutsägelsen är i nuläget svår att motivera. Det finns inga detaljerade data om verkningsmekanismen i de sammanställda uppgifterna. Ceftriaxon är känt som ett baktericid betalaktamantibiotikum som hämmar bakteriers cellväggssyntes.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Ceftriaxon är ett baktericid betalaktamantibiotikum som hämmar bakteriers cellväggssyntes. Dess effekt är riktad mot bakterier.
 
-Polyklonalt hyperviskositetssyndrom är en hematologisk och immunologisk störning som orsakas av ett överskott av immunglobuliner. Någon trolig mekanistisk koppling mellan ett antibakteriellt läkemedel och ett tillstånd som drivs av immunglobulinöverskott har inte kunnat identifieras.
+Polyklonalt hyperviskositetssyndrom är ett hematologiskt och immunologiskt tillstånd. Det orsakas av ett överskott av immunglobuliner som gör blodet trögflytande. Ett antibiotikum som verkar på bakteriella mål har ingen känd påverkan på immunglobulinnivåer eller blodets viskositet.
 
-Den höga poängen (0,9939) är därför enbart en modellförutsägelse och bör inte tolkas som stöd för klinisk effekt.
+Den höga poängen (0,9939) bör därför tolkas med stor försiktighet. Den bygger på modellens mönsterigenkänning och inte på någon identifierad biologisk eller klinisk koppling. Vi har inte identifierat något rimligt mekanistiskt samband.
 
 ---
 
-### Kliniska prövningar
+## Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-### Litteraturbevis
+## Litteraturbevis
 
 Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
-### Marknadsinformation Sverige
+## Marknadsinformation Sverige
+
+Ceftriaxon är marknadsfört i Sverige och samtliga 9 godkännanden är giltiga. Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -90,32 +92,31 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 | 21799 | Ceftriaxon Navamedic | Pulver till infusionsvätska, lösning | Ej angiven i lokala data |
 | 65941 | Ceftriaxon hameln | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
 
-Fler godkännanden finns i de lokala uppgifterna än de som visas här.
-
 ---
 
-### Säkerhetsaspekter
+## Säkerhetsaspekter
 
 - **Läkemedelsinteraktioner**: Totalt 164 interaktioner är registrerade. De viktigaste är:
   - **Allvarliga (Major)**: kalciumklorid, kalciumglukoheptonat och kalciumglukonat. Ceftriaxon och kalciumhaltiga lösningar kräver särskild försiktighet.
   - **Måttliga (Moderate)**: kanamycin, neomycin, streptomycin och pikosulfat.
 
-Se produktresumén för fullständig information om varningar och kontraindikationer.
+Se produktresumén för övrig säkerhetsinformation, inklusive varningar och kontraindikationer.
 
 ---
 
-### Slutsats och nästa steg
+## Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen saknar stöd i både kliniska prövningar och litteratur (evidensnivå L5), och någon rimlig mekanistisk koppling mellan ceftriaxon och ett immunglobulindrivet hyperviskositetstillstånd har inte identifierats.
+- Förutsägelsen är en ren modellprediktion (evidensnivå L5) utan kliniska prövningar eller publikationer. Dessutom finns inget plausibelt mekanistiskt samband mellan ett antibiotikum och ett immunglobulinrelaterat viskositetstillstånd.
 
 **För att gå vidare krävs:**
-- En biologiskt trovärdig hypotes för hur ett antibakteriellt läkemedel skulle kunna påverka polyklonalt hyperviskositetssyndrom
-- Prekliniska studier eller mekanismstudier som direkt undersöker sjukdomen
-- Produktresumé med säkerhetsinformation från Läkemedelsverket (MPA)
-- Data om läkemedlets verkningsmekanism
+- En trovärdig biologisk hypotes som förklarar hur ceftriaxon skulle kunna påverka immunglobulinöverskott eller blodviskositet.
+- Prekliniska eller mekanistiska studier som stöder hypotesen.
+- Publicerade fallrapporter eller observationsdata som direkt rör tillståndet.
+- Komplettering av data om verkningsmekanism och varningar/kontraindikationer från produktresumén.
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
