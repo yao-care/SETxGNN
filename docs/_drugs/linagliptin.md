@@ -7,7 +7,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 81
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 predicted_indications: []
 ---
 
@@ -80,14 +80,6 @@ Ingen relaterad litteratur tillgänglig för närvarande — det finns ingen fö
 
 ---
 
-## Marknadsinformation Sverige
-
-Inga godkännanden registrerade i det nuvarande datasetet. Sökningen mot TFDA (sök-ID: 1) gav 0 resultat, och inga godkännandeposter finns i `taiwan_regulatory.licenses`.
-
-> **Obs:** Linagliptin finns kommersiellt tillgängligt på flera marknader under varumärken som Tradjenta (Boehringer Ingelheim / Eli Lilly). Att poster saknas här kan bero på en datalucka i den aktuella körningen snarare än på att läkemedlet faktiskt saknas på marknaden. Korskontroll mot databaserna hos Läkemedelsverket (MPA) och TFDA rekommenderas.
-
----
-
 ## Säkerhetsaspekter
 
 Se produktresumén för säkerhetsinformation.
@@ -107,8 +99,7 @@ TxGNN-förutsägelseflödet gav inga kandidatindikationer för Linagliptin, vilk
 
 - **Kör om TxGNN-förutsägelseflödet** för DB08882 och kontrollera att `predicted_indications` innehåller minst en poängsatt kandidat
 - **Hämta verkningsmekanismdata** från DrugBanks API (datalucka DG002) för att möjliggöra resonemang från mekanism till indikation
-- **Hämta varningar och kontraindikationer ur TFDA:s produktresumé** (datalucka DG001, blockerar för närvarande säkerhetsscreening S1)
-- **Verifiera marknadsstatus** direkt mot Läkemedelsverket (MPA, Sverige) och TFDA (Taiwan) — den nuvarande uppgiften om 0 godkännanden stämmer inte med känd global tillgänglighet
+- **Hämta varningar och kontraindikationer ur produktresumén** (datalucka DG001, blockerar för närvarande säkerhetsscreening S1)
 - **Kör om sökningen efter läkemedelsinteraktioner** med en alternativ källa (t.ex. DrugBanks interaktionsendpoint eller Drugs@FDA), eftersom den nuvarande sökningen gav `not_found`
 ## Ansvarsfriskrivning
 

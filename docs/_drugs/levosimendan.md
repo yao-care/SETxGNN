@@ -7,7 +7,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 80
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 predicted_indications: []
 ---
 
@@ -48,7 +48,7 @@ och två blockerande dataluckor — saknade varningar från produktresumén och 
 
 | Post | Innehåll |
 |------|---------|
-| Ursprunglig indikation | Akut dekompenserad hjärtsvikt (känd klinisk användning; inget godkännande registrerat i Sverige) |
+| Ursprunglig indikation | Akut dekompenserad hjärtsvikt (känd klinisk användning) |
 | Förutsagd ny indikation | Inga förutsägelser tillgängliga i detta underlag |
 | TxGNN-förutsägelsepoäng | — |
 | Evidensnivå | — (kan inte fastställas) |
@@ -66,16 +66,10 @@ Tre oberoende hinder gör att detta underlag inte kan gå vidare genom det stand
 Modellen har ännu inte genererat kandidatindikationer för DB00922. Utan ett poängsatt sjukdomsmål finns ingen repositioneringshypotes att bedöma, och inga efterföljande avsnitt (evidens från kliniska prövningar, litteraturbevis, mekanistisk rimlighet) kan fyllas i.
 
 **2. Saknade säkerhetsdata från produktresumén (datalucka DG001 — blockerande)**
-Varningar och kontraindikationer från TFDA (eller motsvarande myndighet) har inte hämtats. Detta klassas som en *blockerande* lucka: den hindrar det obligatoriska säkerhetsscreeningsteget S1 och innebär att inget säkerhetsavsnitt kan skrivas.
+Varningar och kontraindikationer har inte hämtats. Detta klassas som en *blockerande* lucka: den hindrar det obligatoriska säkerhetsscreeningsteget S1 och innebär att inget säkerhetsavsnitt kan skrivas.
 
 **3. Saknad verkningsmekanism (datalucka DG002 — hög)**
 Utan bekräftade verkningsmekanismdata från DrugBank kan det mekanistiska rimlighetsresonemang som bär upp avsnittet ”Varför är denna förutsägelse rimlig?” inte byggas upp.
-
----
-
-## Marknadsinformation Sverige
-
-Inga godkännanden är registrerade i Sverige för LEVOSIMENDAN. Det finns ingen godkännandetabell att visa.
 
 ---
 
@@ -95,7 +89,7 @@ Underlaget för LEVOSIMENDAN är strukturellt ofullständigt: TxGNN-modellen har
 **För att gå vidare krävs:**
 
 - [ ] **Kör om TxGNN-inferensen** för DB00922 och fyll `predicted_indications` med minst en poängsatt sjukdomskandidat
-- [ ] **Hämta produktresumén från TFDA (eller EMA/FIMEA)** — extrahera varningar och kontraindikationer för att åtgärda DG001 *(blockerande)*
+- [ ] **Hämta produktresumén från EMA/FIMEA** — extrahera varningar och kontraindikationer för att åtgärda DG001 *(blockerande)*
 - [ ] **Fråga DrugBanks API** efter verkningsmekanismdata för att åtgärda DG002 *(hög)* — möjliggör analys av mekanistisk rimlighet
 - [ ] **Kör om sökningen efter läkemedelsinteraktioner** när verkningsmekanismen är bekräftad — den nuvarande sökningen gav `not_found`
 - [ ] **Bekräfta den svenska regulatoriska vägen** — om Simdax eller ett generiskt preparat är godkänt någon annanstans i EU, bedöm om ömsesidigt erkännande är tillämpligt

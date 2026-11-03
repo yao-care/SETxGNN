@@ -7,7 +7,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 93
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 predicted_indications: []
 ---
 
@@ -90,7 +90,7 @@ Underlaget för MIRABEGRON innehåller inga förutsagda repositioneringsindikati
 - **[Blockerande — DG001]** Tolka produktresuméns PDF (redan hämtad 2026-03-29) för att extrahera viktiga varningar, kontraindikationer och vägledning för särskilda patientgrupper; detta krävs innan säkerhetsscreeningens steg 1 kan påbörjas
 - **[Hög — DG002]** Fråga DrugBanks API efter DB08893 för att hämta verkningsmekanism, farmakologiska mål och läkemedelskategori; detta krävs för analys av mekanistisk rimlighet
 - **[Krävs]** Kör om TxGNN-förutsägelseflödet för MIRABEGRON för att fylla `predicted_indications`; det nuvarande underlaget innehåller en tom förutsägelselista, vilket gör det omöjligt att bedöma repositioneringskandidater
-- **[Krävs]** Bekräfta de ursprungligen godkända indikationerna från regulatoriska källor (t.ex. EMA, FDA eller TFDA) och fyll `original_indications` för att fastställa utgångsläget för repositionering
+- **[Krävs]** Bekräfta de ursprungligen godkända indikationerna från regulatoriska källor (t.ex. EMA eller FDA) och fyll `original_indications` för att fastställa utgångsläget för repositionering
 - **[Uppföljning]** När förutsägelser finns tillgängliga, starta om evidensinsamlingen (kliniska prövningar, litteratur) för den eller de högst rankade förutsagda indikationerna
 ## Ansvarsfriskrivning
 
