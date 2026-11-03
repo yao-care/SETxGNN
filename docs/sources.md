@@ -3,7 +3,7 @@ layout: default
 title: Datakällor
 nav_order: 93
 permalink: /sources/
-description: "Datakällorna bakom SETxGNN: registreringsdata från MPA, TxGNN, ClinicalTrials.gov, PubMed och DrugBank."
+description: "Datakällorna bakom SETxGNN: Läkemedelsverkets läkemedelsregister, TxGNN, ClinicalTrials.gov, PubMed och DrugBank."
 ---
 
 # Datakällor
@@ -21,7 +21,7 @@ Varje slutsats går att spåra tillbaka till en offentlig datakälla — ingenti
 <tr><th>Typ</th><th>Källa</th><th>Används till</th></tr>
 </thead>
 <tbody>
-<tr><td>Registreringsdata</td><td><a href="https://www.lakemedelsverket.se/">MPA</a></td><td>Lista över godkända läkemedel och substanser för Sverige</td></tr>
+<tr><td>Registreringsdata</td><td><a href="https://www.lakemedelsverket.se/">Läkemedelsverket (MPA)</a></td><td>Läkemedelsregistret (CSV-export): läkemedel, substanser och registreringsstatus i Sverige</td></tr>
 <tr><td>Prediktionsmodell</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Prediktion av samband mellan läkemedel och sjukdom</td></tr>
 <tr><td>Kliniska prövningar</td><td><a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a></td><td>Evidensgradering (NCT)</td></tr>
 <tr><td>Litteratur</td><td><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></td><td>Evidensgradering (PMID)</td></tr>
@@ -29,6 +29,17 @@ Varje slutsats går att spåra tillbaka till en offentlig datakälla — ingenti
 <tr><td>Interaktioner</td><td><a href="https://ddinter2.scbdd.com/">DDInter</a></td><td>Data om läkemedelsinteraktioner</td></tr>
 </tbody>
 </table>
+
+---
+
+## Läkemedelsdata för Sverige
+
+| Post | Uppgift |
+|------|---------|
+| Datamängd | Läkemedelsverkets läkemedelsregister, CSV-export per ATC-huvudgrupp (bland annat fälten MT-nummer och Registreringsstatus) |
+| Utgivare | Läkemedelsverket (MPA) |
+| Nedladdning | <https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv> (datamängden i Sveriges dataportal: <https://www.dataportal.se/en/datasets/140_5467>) |
+| Uppdatering | Hämtas på nytt varje måndag av ett automatiskt arbetsflöde; registreringsstatus (till exempel Godkänd eller Avregistrerad) i läkemedelsrapporterna uppdateras från den nya filen |
 
 ---
 
@@ -47,7 +58,7 @@ Varje källa har sin egen licens — kontrollera den innan du citerar:
 
 | Data | Frekvens |
 |------|-----------|
-| Registreringsdata | Enligt tillsynsmyndighetens publicering |
+| Läkemedelsverkets register | Varje vecka (måndagar, automatiskt) |
 | Evidens från prövningar / litteratur | Samlas in på nytt regelbundet |
 | Interaktionsdata | Granskas kvartalsvis |
 
@@ -62,18 +73,8 @@ Varje källa har sin egen licens — kontrollera den innan du citerar:
 
 ## Om utvecklaren
 
-Denna plattform utvecklas och drivs av **藥提醒科技有限公司** (yao.care, organisationsnummer
-83620786, 12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan).
-
-SETxGNN är Sverige-webbplatsen i företagets produktlinje "TxGNN Drug Repurposing".
-Samma system är driftsatt i 30 länder och regioner, vart och ett med namnet `{CC}TxGNN`
-(JpTxGNN, UsTxGNN, DETxGNN och så vidare) på `{cc}txgnn.yao.care`.
-Produktöversikt: <https://www.yao.care/medical/txgnn/>.
-
-Själva TxGNN-modellen utvecklades av Zitnik Lab vid Harvard Medical School och publicerades
-i *Nature Medicine*. Denna plattform är det produktionssystem som 藥提醒科技有限公司 har byggt ovanpå den
-modellen, och omfattar integration av nationella läkemedelsregistreringsdata, prediktion med djupinlärning där användning som redan finns i kunskapsgrafen är utesluten, evidensgradering från PubMed / ClinicalTrials samt integration med
-elektroniska patientjournaler via SMART on FHIR.
+Denna plattform utvecklas och drivs av **藥提醒科技有限公司** (yao.care). Se sidan
+<a href="{{ '/about/' | relative_url }}">Om</a> för fullständig bakgrund om företaget och metoden.
 
 ---
 

@@ -86,18 +86,9 @@ sällsynta sjukdomar."
 
 ## Datakällor
 
-<table class="comparison-table">
-<thead>
-<tr><th>Typ</th><th>Källa</th><th>Beskrivning</th></tr>
-</thead>
-<tbody>
-<tr><td>AI-prediktion</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Harvards grafneurala nätverk, tränat på en kunskapsgraf</td></tr>
-<tr><td>Kliniska prövningar</td><td><a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a></td><td>Globalt register över kliniska prövningar</td></tr>
-<tr><td>Litteratur</td><td><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></td><td>Databas över biomedicinsk litteratur</td></tr>
-<tr><td>Läkemedelsinformation</td><td><a href="https://go.drugbank.com/">DrugBank</a></td><td>Databas över läkemedel och målmolekyler</td></tr>
-<tr><td>Registreringsdata</td><td><a href="https://www.lakemedelsverket.se/">MPA</a></td><td>Läkemedelsgodkännandedata för Sverige</td></tr>
-</tbody>
-</table>
+Prediktionerna kombinerar TxGNN, ClinicalTrials.gov, PubMed och DrugBank med svenska läkemedelsdata från
+Läkemedelsverkets läkemedelsregister. Datamängder, nedladdningslänkar, licenser och uppdateringsfrekvens finns på sidan
+<a href="{{ '/sources/' | relative_url }}">Datakällor</a>.
 
 ---
 
