@@ -2,11 +2,11 @@
   "generated": "2026-11-03",
   "total_drugs": 450,
   "level_counts": {
-    "L1": 8,
-    "L2": 15,
+    "L1": 6,
+    "L2": 16,
     "L3": 25,
     "L4": 35,
-    "L5": 357
+    "L5": 358
   },
   "all_drugs": [
     {
@@ -822,7 +822,7 @@
     {
       "name": "Docetaxel",
       "slug": "docetaxel",
-      "level": "L1",
+      "level": "L2",
       "indication_count": 7
     },
     {
@@ -2208,7 +2208,7 @@
     {
       "name": "Rifabutin",
       "slug": "rifabutin",
-      "level": "L1",
+      "level": "L5",
       "indication_count": 10
     },
     {

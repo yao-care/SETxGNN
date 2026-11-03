@@ -3,18 +3,18 @@ layout: default
 title: Docetaxel
 parent: Hög evidens (L1-L2)
 nav_order: 146
-evidence_level: L1
+evidence_level: L2
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "DOCETAXEL"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
-description: "Docetaxel: predikterad ny indikation Ewing sarcoma (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Docetaxel: predikterad ny indikation Ewing-sarkom (Ewing sarcoma) (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Docetaxel
 {: .fs-9 }
 
-Evidensnivå: **L1** | Förutsagda indikationer: **7** st
+Evidensnivå: **L2** | Förutsagda indikationer: **7** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,16 +33,14 @@ Evidensnivå: **L1** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Docetaxel: Ewing sarcoma
+## Docetaxel: Ewing-sarkom (Ewing sarcoma)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Docetaxel är en cytostatika av taxantyp som i de data som sammanställts för denna rapport är kopplad till flera cancerformer: icke-småcellig lungcancer, prostatacancer, huvud-halscancer, magcancer och bröstcancer. Förutsägelsen bekräftar alltså ett etablerat användningsområde snarare än en genuin återanvändning. Förutsägelsen stöds av **40 kliniska prövningar** (inklusive flera stora fas 3-studier) och **20 publikationer**.
-
-Observera att den första förutsägelsen ligger nära den ursprungliga användningen. De övriga förutsägelserna (till exempel Ewing-sarkom och rabdomyosarkom) är mer i linje med verklig återanvändning, men de har svagare evidens.
+Docetaxel är ett cytostatikum av taxantyp som i Sverige finns som infusionskoncentrat. TxGNN-modellen förutsäger att docetaxel kan vara effektivt mot **Ewing-sarkom (Ewing sarcoma)**. Förutsägelsen stöds av flera fas 2-prövningar och en omfattande litteratur, främst om docetaxel i kombination med gemcitabin eller irinotekan vid återfall, vilket motsvarar evidensnivå **L2**.
 
 ---
 
@@ -51,9 +49,9 @@ Observera att den första förutsägelsen ligger nära den ursprungliga användn
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Ewing sarcoma |
+| Förutsagd ny indikation | Ewing-sarkom (Ewing sarcoma) |
 | TxGNN-förutsägelsepoäng | 0.9990 |
-| Evidensnivå | L1 (flera avslutade fas 3-studier) |
+| Evidensnivå | L2 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
 | Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
@@ -62,53 +60,47 @@ Observera att den första förutsägelsen ligger nära den ursprungliga användn
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Baserat på känd information är docetaxel en taxan som stabiliserar mikrotubuli. Detta leder till att celldelningen stoppas och att snabbt växande tumörceller går i apoptos.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Docetaxel tillhör dock taxanerna, som stabiliserar mikrotubuli och hindrar celldelning. Det ger cytotoxisk effekt i snabbt prolifererande tumörceller.
 
-Bröstcancer ingår redan bland läkemedlets ursprungliga indikationer. Den höga poängen (0,9990) är därför väntad och speglar ett känt samband snarare än en ny upptäckt. Mekanismen är tillämpbar eftersom bröstcancerceller delar sig snabbt och är känsliga för mikrotubulipåverkan.
+Ewing-sarkom är en aggressiv, snabbväxande tumör i ben och mjukdelar. Vid återfall eller refraktär sjukdom är behandlingsalternativen få. Prekliniska och kliniska arbeten stöder sekventiell behandling med gemcitabin följt av docetaxel (synergistisk effekt), och kombinationen docetaxel plus irinotekan har också utvärderats.
 
-Bland de övriga förutsägelserna finns mer uttalad återanvändning, framför allt Ewing-sarkom (L2) och rabdomyosarkom (L2). Där bygger det mekanistiska stödet främst på kombinationen gemcitabin följt av docetaxel. Enbart docetaxel har visat begränsad effekt. Flera andra förutsägelser (till exempel primärt pulmonellt lymfom) saknar trovärdigt stöd och drivs sannolikt av likheter mellan lungsjukdomar.
+Enbart docetaxel verkar ha begränsad effekt, så en eventuell användning är beroende av kombinationsbehandling.
 
 ---
 
 ### Kliniska prövningar
 
-Ett urval av de mest relevanta prövningarna för kvinnlig bröstcancer (totalt 40 registrerade):
-
 | Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
 |---------|------|------|------|---------|
-| [NCT00321633](https://clinicaltrials.gov/study/NCT00321633) | Fas 2 | Avslutad | 148 | Randomiserad jämförelse av karboplatin och docetaxel vid metastaserad ärftlig bröstcancer |
-| [NCT00003352](https://clinicaltrials.gov/study/NCT00003352) | Fas 2 | Avslutad | 89 | Kombinationen doxorubicin, docetaxel och cyklofosfamid vid metastaserad eller lokalt avancerad bröstcancer |
-| [NCT00025493](https://clinicaltrials.gov/study/NCT00025493) | Fas 2 | Avbruten | 27 | Docetaxel som monoterapi hos äldre kvinnor med metastaserad bröstcancer; avbruten i förtid |
-| [NCT02502864](https://clinicaltrials.gov/study/NCT02502864) | Fas 4 | Avslutad | 9 | Farmakokinetikstyrd dosering av docetaxel hos äldre; mycket litet underlag, fokus på dosering |
-| [NCT00003519](https://clinicaltrials.gov/study/NCT00003519) | Fas 3 | Avslutad | 2 778 | Adjuvant doxorubicin/docetaxel jämfört med doxorubicin/cyklofosfamid |
-| [NCT00021255](https://clinicaltrials.gov/study/NCT00021255) | Fas 3 | Avslutad | 3 222 | Adjuvant AC-T jämfört med AC-TH och TCH vid HER2-positiv bröstcancer |
-| [NCT00003782](https://clinicaltrials.gov/study/NCT00003782) | Fas 3 | Avslutad | 5 351 | Tre adjuvanta regimer (AC-T, AT, ATC) vid lymfkörtelpositiv bröstcancer |
-| [NCT00333775](https://clinicaltrials.gov/study/NCT00333775) | Fas 3 | Avslutad | 736 | Bevacizumab plus docetaxel jämfört med docetaxel plus placebo vid HER2-negativ metastaserad bröstcancer |
-| [NCT00887536](https://clinicaltrials.gov/study/NCT00887536) | Fas 3 | Avslutad | 1 613 | TC plus bevacizumab jämfört med TC och TAC vid HER2-negativ bröstcancer |
-| [NCT03588091](https://clinicaltrials.gov/study/NCT03588091) | Fas 3 | Avslutad | 355 | Neoadjuvant pyrotinib plus trastuzumab och docetaxel jämfört med placebo vid HER2-positiv bröstcancer |
+| [NCT00073983](https://clinicaltrials.gov/study/NCT00073983) | Fas 2 | Avslutad | 54 | Sekventiell gemcitabin följt av docetaxel vid återfall av Ewing-sarkom, osteosarkom eller kondrosarkom |
+| [NCT02511132](https://clinicaltrials.gov/study/NCT02511132) | Fas 2 | Avslutad | 22 | Vigil-immunterapi jämfört med gemcitabin och docetaxel vid metastaserad Ewing-sarkom |
+| [NCT03449901](https://clinicaltrials.gov/study/NCT03449901) | Fas 2 | Avslutad | 98 | ADI-PEG 20 med gemcitabin och docetaxel vid sarkom, bland annat Ewing-sarkom (blandade histologier) |
+| [NCT00002825](https://clinicaltrials.gov/study/NCT00002825) | Fas 2 | Avslutad | 20 | Docetaxel hos barn med återkommande solida tumörer; begränsad Ewing-specifik signal |
+| [NCT00014456](https://clinicaltrials.gov/study/NCT00014456) | Fas 1 | Avslutad | 35 | Dosupptrappning av docetaxel, gemcitabin och filgrastim vid avancerade solida tumörer |
+| [NCT00049296](https://clinicaltrials.gov/study/NCT00049296) | Fas 1 | Avslutad | 26 | Farmakokinetik för talidomid plus docetaxel vid avancerad cancer |
+| [NCT05116800](https://clinicaltrials.gov/study/NCT05116800) | Fas 2 | Tillbakadragen | 0 | 9-ING-41 med gemcitabin/docetaxel vid sarkom; inga data |
+| [NCT04183062](https://clinicaltrials.gov/study/NCT04183062) | Fas 2 | Tillbakadragen | 0 | BIO-11006 med gemcitabin/docetaxel vid osteosarkom och Ewing-sarkom med lungmetastaser; inga data |
 
 ---
 
 ### Litteraturbevis
 
-Ett urval av de mest relevanta publikationerna för kvinnlig bröstcancer:
-
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [28398846](https://pubmed.ncbi.nlm.nih.gov/28398846/) | 2017 | RCT | Journal of Clinical Oncology | ABC-studierna: docetaxel plus cyklofosfamid (TC) jämfört med taxanbaserade regimer med antracyklin vid tidig bröstcancer |
-| [25743817](https://pubmed.ncbi.nlm.nih.gov/25743817/) | 2015 | RCT | Asian Pacific Journal of Cancer Prevention | Dosintensiv AC följt av paklitaxel jämfört med konventionell dos eller docetaxel vid lymfkörtelpositiv bröstcancer |
-| [10791395](https://pubmed.ncbi.nlm.nih.gov/10791395/) | 2000 | Översikt | Lancet | Taxaner är väletablerade vid avancerad bröst-, lung- och äggstockscancer |
-| [12868800](https://pubmed.ncbi.nlm.nih.gov/12868800/) | 2003 | Översikt | Breast Cancer Research and Treatment | Kombinationer av docetaxel och antracyklin vid metastaserad bröstcancer |
-| [16020974](https://pubmed.ncbi.nlm.nih.gov/16020974/) | 2005 | Fas 2 | Oncology | Veckovis docetaxel och gemcitabin som förstahandsbehandling vid metastaserad bröstcancer |
-| [12599222](https://pubmed.ncbi.nlm.nih.gov/12599222/) | 2003 | Fas 2 | Cancer | Kapecitabin med docetaxel och epirubicin vid tidigare obehandlad avancerad bröstcancer |
-| [19856651](https://pubmed.ncbi.nlm.nih.gov/19856651/) | 2009 | Dosfinnande | Tumori | Docetaxel och gemcitabin vid metastaserad bröstcancer |
-| [27997437](https://pubmed.ncbi.nlm.nih.gov/27997437/) | 2017 | Retrospektiv | Anti-Cancer Drugs | Samband mellan adjuvant docetaxelbaserad kemoterapi och lymfödem efter bröstcancer |
+| [22363068](https://pubmed.ncbi.nlm.nih.gov/22363068/) | 2012 | Fas 2-prövning | The Oncologist | Gemcitabin följt av docetaxel vid återfall av Ewing-sarkom, osteosarkom och kondrosarkom (SARC 003) |
+| [28787430](https://pubmed.ncbi.nlm.nih.gov/28787430/) | 2017 | Fas 2-prövning | British Journal of Cancer | GEIS-21: intensiv kemoterapi med gemcitabin och docetaxel vid nydiagnostiserad högrisk-Ewing-sarkom |
+| [25164234](https://pubmed.ncbi.nlm.nih.gov/25164234/) | 2014 | Fas 2-prövning | BMC Cancer | Docetaxel plus irinotekan hos barn och unga vuxna med återfall eller refraktär sjukdom |
+| [18521364](https://pubmed.ncbi.nlm.nih.gov/18521364/) | 2003 | Fas 2-studie | Sarcoma | Docetaxel vid återfall och refraktär Ewing-tumör (14 patienter) |
+| [18484657](https://pubmed.ncbi.nlm.nih.gov/18484657/) | 2008 | Kohortstudie | Cancer | Gemcitabin och docetaxel vid refraktär bensarkom hos barn och unga vuxna |
+| [22302783](https://pubmed.ncbi.nlm.nih.gov/22302783/) | 2012 | Kohortstudie | Pediatric Blood & Cancer | GEMDOX vid återfall och refraktära sarkom hos barn |
+| [19727011](https://pubmed.ncbi.nlm.nih.gov/19727011/) | 2009 | Retrospektiv studie | Journal of Pediatric Hematology/Oncology | Gemcitabin-docetaxel vid återfall eller refraktära sarkom hos barn |
+| [15117993](https://pubmed.ncbi.nlm.nih.gov/15117993/) | 2004 | Preklinisk/klinisk | Journal of Clinical Oncology | Laboratorie- och kliniska belägg för synergi vid sekventiell gemcitabin–docetaxel vid sarkom |
+| [32386107](https://pubmed.ncbi.nlm.nih.gov/32386107/) | 2020 | Fas 2-prövning | Pediatric Blood & Cancer | Gemcitabin plus nab-paklitaxel (annan taxan) vid återfall av Ewing-sarkom |
+| [28221727](https://pubmed.ncbi.nlm.nih.gov/28221727/) | 2017 | Erfarenhet från ett centrum | Pediatric Blood & Cancer | Docetaxel, bevacizumab och gemcitabin vid högriskssarkom hos ungdomar och unga vuxna |
 
 ---
 
 ### Marknadsinformation Sverige
-
-Ingen indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -122,22 +114,23 @@ Ingen indikationstext finns registrerad.
 
 | Post | Innehåll |
 |------|------|
-| Cytotoxicitetsklassificering | Konventionell cytotoxisk (taxan, mikrotubulistabiliserande) |
-| Emetogenicitetsklassificering | Låg till medel (allmän klassbedömning; ingen specifik uppgift i underlaget) |
-| Övervakningspunkter | Blodstatus (neutrofiler, trombocyter, hemoglobin), leverfunktion inklusive bilirubin, perifera nervsymtom, vätskeretention |
-| Hanteringsskydd | Hantering enligt gällande föreskrifter för cytostatika. Se produktresumén för detaljer |
+| Cytotoxicitetsklassificering | Konventionell cytotoxisk (taxan) |
+| Myelosuppressionsrisk | Hög; neutropeni, trombocytopeni och anemi finns bland de registrerade riskerna |
+| Emetogenicitetsklassificering | Låg till medel |
+| Övervakningspunkter | Blodstatus (neutrofiler, trombocyter, hemoglobin), leverfunktion inklusive bilirubin, perifer neuropati, vätskeretention |
+| Hanteringsskydd | Hantering enligt gällande föreskrifter för cytotoxiska läkemedel |
+
+Se produktresumén för fullständiga varningar och försiktighetsåtgärder.
 
 ---
 
 ### Säkerhetsaspekter
 
-Uppgifter om varningar och kontraindikationer från produktresumén saknas i de sammanställda data. Följande kommer från kunskapsgrafen och är inte hämtat ur produkttext.
-
-- **Sjukdomstillstånd som kunskapsgrafen kopplar till kontraindikation eller försiktighet**: leversjukdom, gallblåssjukdom, trombocytopeni, neutropeni, agranulocytos, perifer neuropati och neurit, anemi, hyperbilirubinemi (inklusive Gilberts syndrom), diarré, lungödem, stomatit, hjärttamponad.
-- **Läkemedelsinteraktioner** (100 identifierade; de viktigaste):
-  - **Allvarlig**: klaritromycin
-  - **Måttlig**: aprepitant, metronidazol, cimetidin, eliglustat, mikonazol, rolapitant, rosuvastatin, simvastatin, tinidazol, troglitazon
-  - **Lindrig**: dexametason, levofloxacin, prednisolon, prednison
+- **Tillstånd där försiktighet eller kontraindikation kan gälla** (sammanställda data, ej produktresumétext): leversjukdom, gallblåsesjukdom, trombocytopeni, neutropeni, agranulocytos, perifer neuropati, anemi, hyperbilirubinemi (inklusive Gilberts syndrom), diarrésjukdom, lungödem, stomatit, neurit och hjärttamponad.
+- **Läkemedelsinteraktioner** (100 interaktioner registrerade, de viktigaste nedan):
+  - **Allvarlig:** klaritromycin.
+  - **Måttlig:** aprepitant, metronidazol, cimetidin, eliglustat, mikonazol, rolapitant, rosuvastatin, simvastatin, tinidazol, troglitazon.
+  - **Lindrig:** dexametason, levofloxacin, prednisolon, prednison.
 
 Se produktresumén för fullständig säkerhetsinformation.
 
@@ -148,15 +141,14 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Evidensen för bröstcancer är stark (L1, flera stora fas 3-studier). Men indikationen är redan etablerad, så fynden är en bekräftelse snarare än ny återanvändning, och alla svenska godkännanden är indragna.
-- Av de övriga förutsägelserna är Ewing-sarkom och rabdomyosarkom (båda L2) intressanta forskningsfrågor, medan resten saknar eller har mycket svagt underlag.
+- Flera fas 2-prövningar och studier visar att docetaxel i kombination (främst med gemcitabin eller irinotekan) har använts vid Ewing-sarkom, men effekten av enbart docetaxel verkar begränsad och inga fas 3-prövningar finns. Evidensnivån är L2.
 
 **För att gå vidare krävs:**
-- Säkerhetsdata från produktresumén (varningar och kontraindikationer), eftersom detta underlag saknas.
-- Uppgift om verkningsmekanism från DrugBank.
-- Klargöra varför de svenska godkännandena har dragits in, samt om en ny ansökan eller import är aktuell.
-- För sarkomindikationerna: prospektiva studier av kombinationen gemcitabin och docetaxel, eftersom enbart docetaxel visat begränsad effekt.
-- För förutsägelser utan evidens (till exempel pulmonellt lymfom): ingen vidare satsning utan nytt underlag.
+- Randomiserade jämförande studier som visar nytta av docetaxelkombinationer jämfört med nuvarande standardbehandling vid Ewing-sarkom.
+- Tydligare bild av effekt och säkerhet hos barn och unga vuxna, där Ewing-sarkom är vanligast.
+- Granskning av produktresumén för säkerhet, kontraindikationer och interaktioner, eftersom varnings- och kontraindikationstext saknas i de sammanställda uppgifterna.
+- Bedömning av docetaxels verkningsmekanism i relation till Ewing-sarkomets biologi.
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
