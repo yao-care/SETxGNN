@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Amiodarone
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 30
-evidence_level: L5
+evidence_level: L3
 indication_count: 9
 monitor_inn: "amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
 last_modified_at: 2026-11-03
-description: "Amiodarone: predikterad ny indikation Katekolaminerg polymorf ventrikulär takykardi (catecholaminergic polymorphic ventricular tachycardia) (evidensnivå L5)."
+description: "Amiodarone: predikterad ny indikation Katekolaminerg polymorf ventrikeltakykardi (catecholaminergic polymorphic ventricular tachycardia) (evidensnivå L3)."
 ---
 
 # Amiodarone
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **9** st
+Evidensnivå: **L3** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-## Amiodarone: Katekolaminerg polymorf ventrikulär takykardi (catecholaminergic polymorphic ventricular tachycardia)
+## Amiodarone: Katekolaminerg polymorf ventrikeltakykardi (catecholaminergic polymorphic ventricular tachycardia)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Amiodaron är ett antiarytmikum i klass III med effekt på flera jonkanaler. TxGNN-modellen förutsäger att det kan vara effektivt mot **katekolaminerg polymorf ventrikulär takykardi (catecholaminergic polymorphic ventricular tachycardia)**. Underlaget består av **9 publikationer** (en systematisk översikt, kohortstudier och fallrapporter) och **inga kliniska prövningar**. Ingen av publikationerna visar att amiodaron har dokumenterad nytta vid just denna sjukdom.
+Amiodaron är ett antiarytmikum som är marknadsfört i Sverige. TxGNN-modellen förutsäger att det kan vara effektivt mot **katekolaminerg polymorf ventrikeltakykardi (catecholaminergic polymorphic ventricular tachycardia)**. Det finns **inga registrerade kliniska prövningar** och **9 publikationer** i underlaget, mest fallrapporter, kohortstudier och översikter. Ingen av dem visar tydlig nytta av amiodaron vid sjukdomen.
 
 ---
 
@@ -49,9 +49,9 @@ Amiodaron är ett antiarytmikum i klass III med effekt på flera jonkanaler. TxG
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Katekolaminerg polymorf ventrikulär takykardi (catecholaminergic polymorphic ventricular tachycardia) |
+| Förutsagd ny indikation | Katekolaminerg polymorf ventrikeltakykardi (catecholaminergic polymorphic ventricular tachycardia) |
 | TxGNN-förutsägelsepoäng | 0.9978 |
-| Evidensnivå | L5 |
+| Evidensnivå | L3 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
 | Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
@@ -60,11 +60,11 @@ Amiodaron är ett antiarytmikum i klass III med effekt på flera jonkanaler. TxG
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Amiodaron är dock känt som ett klass III-antiarytmikum som blockerar kalium-, natrium- och kalciumkanaler samt har betablockerande verkan. Detta ger en trolig hämmande effekt på ventrikulära arytmier.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Amiodaron är dock känt som ett klass III-antiarytmikum med blockerande effekt på kalium-, natrium- och kalciumkanaler samt betaadrenerg antagonism. Det kan därför mekanistiskt tänkas dämpa kammararytmier.
 
-Katekolaminerg polymorf ventrikulär takykardi är en sällsynt ärftlig kanalopati. Den beror på felaktig kalciumfrisättning (RYR2/CASQ2) och adrenergt utlösta fördröjda efterdepolarisationer. Sjukdomen delar ventrikulär arytmi som gemensamt drag med amiodarons etablerade användningsområde, vilket förklarar modellens förutsägelse.
+Katekolaminerg polymorf ventrikeltakykardi är en sällsynt ärftlig jonkanalsjukdom. Den beror på störd kalciumfrisättning (RYR2/CASQ2) och utlöses av adrenerg stimulering, som ger fördröjda efterdepolarisationer. Amiodarons kombinerade kanal- och betablockad överlappar delvis med dessa mekanismer.
 
-Mekanistiskt stöd är dock begränsat. Betablockerare och flekainid är etablerad behandling, och amiodaron nämns i litteraturen främst som ett ineffektivt eller kompletterande alternativ i enskilda fallrapporter. Förutsägelsen bör därför ses som svagt underbyggd.
+Betablockerare och flekainid är de etablerade behandlingarna. Amiodaron är inte förstahandsval, och litteraturen nämner det mest som ett verkningslöst eller kompletterande alternativ i fallrapporter. Den höga modellpoängen ska därför tolkas försiktigt.
 
 ---
 
@@ -76,18 +76,16 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Litteraturbevis
 
-Ingen av publikationerna studerar amiodaron som behandling av katekolaminerg polymorf ventrikulär takykardi.
-
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [35892906](https://pubmed.ncbi.nlm.nih.gov/35892906/) | 2022 | Systematisk översikt | Life (Basel) | Kliniska drag, genetik och arytmiutfall hos kinesiska patienter med sjukdomen. Ingen amiodaronstudie. |
-| [39076628](https://pubmed.ncbi.nlm.nih.gov/39076628/) | 2022 | Kohort | Reviews in Cardiovascular Medicine | Retrospektiv studie av kliniska drag, genetik, sjukvårdsutnyttjande och kostnader. |
-| [26513538](https://pubmed.ncbi.nlm.nih.gov/26513538/) | 2015 | Översikt | Expert Opinion on Pharmacotherapy | Allmän genomgång av läkemedelsbehandling av ventrikulära arytmier. |
-| [22553997](https://pubmed.ncbi.nlm.nih.gov/22553997/) | 2012 | Fallrapport | PACE | Flekainid dämpade defibrillatorutlöst arytmistorm hos en 14-årig pojke med CASQ2-mutation. |
-| [30116135](https://pubmed.ncbi.nlm.nih.gov/30116135/) | 2018 | Fallrapport | Turk Pediatri Arşivi | Plötsligt hjärtstopp hos tvååring med sjukdomen. |
-| [29668588](https://pubmed.ncbi.nlm.nih.gov/29668588/) | 2018 | Fallrapport | Medicine | Försenad diagnos under sex år hos ett nioårigt barn med RYR2-mutation. |
-| [39735866](https://pubmed.ncbi.nlm.nih.gov/39735866/) | 2024 | Fallrapport | Frontiers in Cardiovascular Medicine | Höger kardiell sympatisk denervering hos tonåring efter vänstersidig denervering. |
-| [37852665](https://pubmed.ncbi.nlm.nih.gov/37852665/) | 2023 | Fallrapport | BMJ Case Reports | Barn som överlevde hjärtstopp med upprepade ventrikulära arytmier. |
+| [35892906](https://pubmed.ncbi.nlm.nih.gov/35892906/) | 2022 | Systematisk översikt | Life (Basel) | Beskriver kliniska kännetecken, genetik och arytmiutfall hos kinesiska patienter med sjukdomen. Tar inte upp amiodaronbehandling i den tillgängliga sammanfattningen. |
+| [39076628](https://pubmed.ncbi.nlm.nih.gov/39076628/) | 2022 | Kohortstudie | Reviews in Cardiovascular Medicine | Retrospektiv studie av kliniska kännetecken, genetik, vårdutnyttjande och kostnader i en kinesisk stad. |
+| [26513538](https://pubmed.ncbi.nlm.nih.gov/26513538/) | 2015 | Översikt | Expert Opinion on Pharmacotherapy | Översikt av läkemedelsbehandling vid kammararytmier. Antiarytmika är fortsatt viktiga vid akut konvertering och långtidsprevention. |
+| [22553997](https://pubmed.ncbi.nlm.nih.gov/22553997/) | 2012 | Fallrapport | PACE | Pojke med sjukdomen och CASQ2-mutation. Flekainid dämpade upprepade arytmier orsakade av defibrillatorchocker. |
+| [30116135](https://pubmed.ncbi.nlm.nih.gov/30116135/) | 2018 | Fallrapport | Turk Pediatri Arsivi | Tvååring med plötsligt hjärtstopp som visade sig bero på sjukdomen. |
+| [29668588](https://pubmed.ncbi.nlm.nih.gov/29668588/) | 2018 | Fallrapport | Medicine | Nioårigt barn med RYR2-mutation där diagnosen fördröjdes i sex år. |
+| [39735866](https://pubmed.ncbi.nlm.nih.gov/39735866/) | 2024 | Fallrapport | Frontiers in Cardiovascular Medicine | Tonåring där höger sympatisk denervering av hjärtat löste arytmierna efter vänstersidig denervering. |
+| [37852665](https://pubmed.ncbi.nlm.nih.gov/37852665/) | 2023 | Fallrapport | BMJ Case Reports | Litet barn med hjärtstopp och upprepade kammararytmier trots standardåterupplivning. |
 
 ---
 
@@ -105,9 +103,20 @@ Ingen av publikationerna studerar amiodaron som behandling av katekolaminerg pol
 
 ### Säkerhetsaspekter
 
-- **Läkemedelsinteraktioner**: Totalt 355 interaktioner är registrerade. Bland de allvarliga (större) finns amfotericin B (inklusive lipidkomplex, liposomal och kolesterylsulfatformer), cisaprid, klaritromycin, klotrimazol, dexametason, hydrokortison, dolasetron, eliglustat och agalsidas beta.
+- **Läkemedelsinteraktioner**: Totalt 355 interaktioner finns registrerade. Exempel på allvarliga (Major):
+  - amfotericin B (flera beredningar)
+  - klaritromycin
+  - cisaprid
+  - dolasetron
+  - eliglustat
+  - klotrimazol
+  - hydrokortison
+  - dexametason
+  - agalsidas beta
 
-Se i övrigt produktresumén för varningar och kontraindikationer.
+  Exempel på måttliga (Moderate): famotidin, cimetidin, aprepitant, budesonid.
+
+Se produktresumén för varningar och kontraindikationer.
 
 ---
 
@@ -116,13 +125,13 @@ Se i övrigt produktresumén för varningar och kontraindikationer.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen saknar kliniska prövningar och publikationer som direkt studerar amiodaron vid sjukdomen. Etablerade alternativ (betablockerare, flekainid) finns, och amiodarons toxicitetsprofil gör ett tillägg mindre attraktivt.
+- Förutsägelsen saknar kliniska prövningar, och den tillgängliga litteraturen visar ingen tydlig nytta av amiodaron vid sjukdomen. Etablerade alternativ (betablockerare, flekainid) finns, och amiodarons toxicitetsprofil talar emot en prioritering.
 
 **För att gå vidare krävs:**
-- Kontrollerade studier eller välgjorda observationsstudier av amiodaron vid katekolaminerg polymorf ventrikulär takykardi
-- Jämförelse med betablockerare och flekainid
-- Komplettering av produktresumé med varningar och kontraindikationer
-- Dokumenterad verkningsmekanism i de lokala data
+- Systematisk genomgång av data om amiodaron vid denna sjukdom, jämfört med betablockerare och flekainid.
+- Data om verkningsmekanism och säkerhet från produktresumén.
+- Kontrollerade eller välgjorda observationsstudier som direkt utvärderar amiodaron vid sjukdomen.
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

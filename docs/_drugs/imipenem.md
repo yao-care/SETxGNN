@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-03
 monitor_inn: "imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
-description: "Imipenem: predikterad ny indikation Diffuse scleroderma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Imipenem: predikterad ny indikation Diffus skleroderma (diffuse scleroderma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Imipenem
@@ -33,56 +33,54 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-## Imipenem: Diffuse scleroderma
+## Imipenem: Diffus skleroderma (diffuse scleroderma)
 {: .text-alpha }
 
 ---
 
-### Sammanfattning
+## Sammanfattning
 
-Imipenem är ett karbapenemantibiotikum som används mot svåra bakteriella infektioner, till exempel bakteriell lunginflammation, peritonit och endokardit. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **diffus sklerodermi**, men det finns **inga kliniska prövningar och ingen publicerad litteratur** som stöder detta. Förutsägelsen bygger enbart på modellens nätverksanalys och bedöms som sannolikt en artefakt.
+Imipenem är ett antibakteriellt läkemedel av karbapenemtyp som hämmar bakteriers cellväggssyntes. TxGNN-modellen förutsäger att det kan vara effektivt mot **diffus skleroderma (diffuse scleroderma)**, men inga kliniska prövningar eller publikationer i det underlag som sammanställts för rapporten stöder denna förutsägelse. Förutsägelsen vilar därför enbart på en modellberäkning.
 
 ---
 
-### Snabböversikt
+## Snabböversikt
 
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Diffuse scleroderma |
+| Förutsagd ny indikation | Diffus skleroderma (diffuse scleroderma) |
 | TxGNN-förutsägelsepoäng | 0.9999 |
-| Evidensnivå | L5 (endast modellförutsägelse) |
+| Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
 | Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-### Varför är denna förutsägelse rimlig?
+## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts. Baserat på allmänt känd information är imipenem ett karbapenem som hämmar syntesen av bakteriens cellvägg. Effekten är väl belagd vid bakteriella infektioner, men det finns ingen känd mekanistisk koppling till diffus sklerodermi.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det underlag som sammanställts. Imipenem är ett karbapenem som hämmar bakteriell cellväggssyntes och därmed dödar bakterier.
 
-Diffus sklerodermi är en autoimmun sjukdom med fibros (bindvävsförtjockning) i hud och inre organ. Den orsakas inte av en bakterieinfektion. Något samband mellan imipenems antibakteriella verkan och sjukdomens immunologiska och fibrotiska mekanismer har inte kunnat påvisas.
-
-Den höga modellpoängen står därför utan stöd i biologisk logik eller klinisk data. Förutsägelsen bör behandlas som en nätverksartefakt tills motsatsen visats.
+Diffus skleroderma är en autoimmun sjukdom med fibros (ökad bindvävsbildning) i hud och inre organ. Någon rimlig mekanistisk koppling mellan en antibakteriell cellväggshämmare och en autoimmun fibrotisk sjukdom har inte kunnat identifieras. Den höga poängen speglar sannolikt ett mönster i modellens nätverksdata snarare än en biologiskt underbyggd hypotes. Förutsägelsen bör därför betraktas med stor skepsis.
 
 ---
 
-### Kliniska prövningar
+## Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-### Litteraturbevis
+## Litteraturbevis
 
 Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
-### Marknadsinformation Sverige
+## Marknadsinformation Sverige
 
-Alla fyra svenska godkännanden är indragna, och ingen indikationstext finns tillgänglig i underlaget.
+Imipenem är marknadsfört i Sverige och har 4 giltiga godkännanden (enkomponentsprodukter). Samtliga är injektionsberedningar.
 
 | Godkännandenummer | Produktnamn | Beredningsform |
 |---------|------|------|
@@ -93,31 +91,30 @@ Alla fyra svenska godkännanden är indragna, och ingen indikationstext finns ti
 
 ---
 
-### Säkerhetsaspekter
+## Säkerhetsaspekter
 
-- **Möjliga kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumé): epilepsi, njursjukdom, pyouretär, Clostridium difficile-kolit och perinatal nekrotiserande enterokolit.
-- **Läkemedelsinteraktioner** (15 identifierade):
-  - **Allvarliga (Major):** bupropion, iohexol och iopamidol.
-  - **Måttliga (Moderate):** warfarin, dikumarol, teofyllin och andra teofyllinderivat (aminofyllin, dyfyllin, oxtrifyllin), ciklosporin, mykofenolsyra, etinylestradiol, pemetrexed, lindan och polyetylenglykol med elektrolyter.
+Varningar och kontraindikationer från produktresumén ingår inte i det underlag som sammanställts. Se produktresumén för fullständig säkerhetsinformation.
 
-Se produktresumén för fullständig säkerhetsinformation, eftersom varningar och kontraindikationer från produktresumén inte finns i underlaget.
+**Läkemedelsinteraktioner:** 15 interaktioner har identifierats.
+
+- **Allvarliga (Major):** bupropion, iohexol, iopamidol.
+- **Måttliga (Moderate):** polyetylenglykol (3350 med elektrolyter), dikumarol, warfarin, lindan, aminofyllin, dyfyllin, oxtrifyllin, teofyllin, ciklosporin, etinylestradiol, mykofenolsyra, pemetrexed.
 
 ---
 
-### Slutsats och nästa steg
+## Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för diffus sklerodermi saknar både klinisk och litteraturbaserad evidens (L5) och har ingen rimlig mekanistisk grund.
-- Läkemedlet har dessutom inga gällande godkännanden i Sverige.
+- Förutsägelsen saknar både mekanistisk koppling och stöd i kliniska prövningar eller litteratur, och evidensnivån är därför L5.
+- Imipenem är ett antibakteriellt läkemedel, och en autoimmun fibrotisk sjukdom som diffus skleroderma är ett osannolikt användningsområde.
 
 **För att gå vidare krävs:**
-- Preklinisk eller mekanistisk evidens för en koppling mellan karbapenemer och sklerodermins patofysiologi.
-- Publicerade studier eller registrerade prövningar som undersöker imipenem vid sklerodermi.
-- Kompletterad säkerhetsinformation från produktresumén.
+- En biologiskt trovärdig hypotes för hur imipenem skulle kunna påverka immunologiska eller fibrotiska processer vid sjukdomen.
+- Prekliniska data eller kliniska studier som direkt undersöker imipenem vid diffus skleroderma.
+- Komplettering av säkerhetsinformation från produktresumén.
 
-**Anmärkning om andra förutsägelser:** Bland modellens övriga förutsägelser har *Staphylococcus aureus-infektion* starkast stöd (evidensnivå L3). Där finns två fas 4-prövningar, varav en avslutad (NCT00871104, fosfomycin plus imipenem vid MRSA-endokardit), samt experimentella data. Förutsägelser som tyfoidfeber, paratyfoidfeber, salmonellos och sinuit stöds av indirekt evidens (L4), främst resistensstudier. Dessa kan vara mer lovande utgångspunkter för vidare utvärdering än sklerodermi.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

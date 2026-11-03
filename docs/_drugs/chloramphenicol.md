@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "chloramphenicol"
 predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
 last_modified_at: 2026-11-03
-description: "Chloramphenicol: predikterad ny indikation Diffuse scleroderma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Chloramphenicol: predikterad ny indikation Diffus sklerodermi (diffuse scleroderma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Chloramphenicol
@@ -33,62 +33,59 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 </div>
 
-## Chloramphenicol: Diffuse scleroderma
+## Chloramphenicol: Diffus sklerodermi (diffuse scleroderma)
 {: .text-alpha }
 
----
+## Sammanfattning
 
-### Sammanfattning
-
-Kloramfenikol är ett brett bakteriostatiskt antibiotikum som i Sverige finns som ögondroppar och ögonsalva. Inga kliniska prövningar är registrerade, men **20 publikationer** ligger bakom förutsägelsen. Bland dem finns jämförande och randomiserade studier samt översikter om bakteriella ögoninfektioner.
+Kloramfenikol är ett antibiotikum som i Sverige finns som ögonpreparat. TxGNN-modellen förutsäger att det kan vara effektivt mot **diffus sklerodermi (diffuse scleroderma)**. Det finns **inga kliniska prövningar** och **4 publikationer** i de data som sammanställts för denna rapport. Publikationerna är grundforskning på fibroblaster där kloramfenikol sannolikt förekommer som analysverktyg (CAT-reporterassay), inte som behandling.
 
 ---
 
-### Snabböversikt
+## Snabböversikt
 
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Diffuse scleroderma |
+| Förutsagd ny indikation | Diffus sklerodermi (diffuse scleroderma) |
 | TxGNN-förutsägelsepoäng | 0.9965 |
 | Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
 | Antal godkännanden | 4 (giltiga: 4) |
-| Rekommenderat beslut | Fortsätt med försiktighet |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-### Varför är denna förutsägelse rimlig?
+## Varför är denna förutsägelse rimlig?
 
-Kloramfenikol hämmar proteinsyntesen hos bakterier genom att binda till den stora ribosomsubenheten (50S). Det ger en bakteriostatisk effekt mot ett brett spektrum av bakterier. Detaljerade verkningsmekanismdata saknas i de sammanställda uppgifterna, så beskrivningen bygger på allmänt känd farmakologi.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Kloramfenikol är ett antibakteriellt läkemedel som hämmar proteinsyntesen hos bakterier, och det hämmar även mitokondriell proteinsyntes hos människa.
 
-Bakteriell konjunktivit är en ytlig ögoninfektion som kan behandlas med lokalt applicerade antibiotika. Litteraturen beskriver att kloramfenikol som ögondroppar används mot konjunktivit i bland annat Storbritannien, men sällan i USA. Förutsägelsen kan därför ses som en förlängning av läkemedlets antibakteriella användning snarare än som en helt ny mekanism.
+De hämtade artiklarna handlar om regleringen av kollagengener i sklerodermifibroblaster (promotorn för alfa1(I)-prokollagen, Smad3/Sp1/p300, TGF-beta-signalering). Kloramfenikol förekommer här sannolikt som ett verktyg i laboratorieanalyser (kloramfenikolacetyltransferas, CAT), inte som en behandling. Studierna stöder därför inte någon terapeutisk effekt.
 
-Stödet är indirekt. Det består främst av översikter och jämförande studier där kloramfenikol ofta är jämförelsearm. Det finns också en omdebatterad säkerhetsfråga kring ögonbehandling med kloramfenikol och aplastisk anemi.
+Den höga förutsägelsepoängen är därför sannolikt ett resultat av litteraturutvinning snarare än ett verkligt biologiskt samband. Dessutom gör risken för benmärgstoxicitet långvarig behandling av en fibrotisk sjukdom oattraktiv.
 
 ---
 
-### Kliniska prövningar
+## Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-### Litteraturbevis
+## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [32959365](https://pubmed.ncbi.nlm.nih.gov/32959365/) | 2020 | Systematisk översikt (Cochrane) | The Cochrane Database of Systematic Reviews | Interventioner för att förebygga neonatal konjunktivit (ophthalmia neonatorum) med antiseptiska eller antibiotiska medel. |
-| [38511104](https://pubmed.ncbi.nlm.nih.gov/38511104/) | 2024 | Jämförande studie | Current Therapeutic Research | Jämför moxifloxacin och kloramfenikol vid bakteriella ögoninfektioner. Kloramfenikol beskrivs som bakteriostatiskt och används främst lokalt på grund av känd toxicitet. |
-| [8800624](https://pubmed.ncbi.nlm.nih.gov/8800624/) | 1996 | Översikt | Drug Safety | Diskuterar ett möjligt samband mellan lokalt kloramfenikol i ögat och aplastisk anemi. Frågan beskrivs som kontroversiell. |
-| [7498557](https://pubmed.ncbi.nlm.nih.gov/7498557/) | 1995 | Översikt | Eye | Diskussion om användning och överanvändning av lokalt kloramfenikol. Abstract saknas. |
-| [11270936](https://pubmed.ncbi.nlm.nih.gov/11270936/) | 2001 | Jämförande översikt | Drugs | Granskar 16 kommersiella antibakteriella ögonpreparat med hänsyn till farmakodynamik, resistensrisk och kostnad. |
-| [10589371](https://pubmed.ncbi.nlm.nih.gov/10589371/) | 1999 | Översikt | Clinical Pharmacokinetics | Behandling av ytliga ögoninfektioner med lokala antibakteriella medel. |
-| [25833086](https://pubmed.ncbi.nlm.nih.gov/25833086/) | 2015 | Kommentar | Clinical & Experimental Ophthalmology | Kommentar om receptfritt kloramfenikol. Abstract saknas. |
+| [8702443](https://pubmed.ncbi.nlm.nih.gov/8702443/) | 1996 | Grundforskning | Arthritis and Rheumatism | Undersökte transkriptionell reglering av COL1A1 i dermala fibroblaster från patienter med diffus systemisk skleros och intronsekvensernas roll. |
+| [9811061](https://pubmed.ncbi.nlm.nih.gov/9811061/) | 1998 | Grundforskning | Arthritis and Rheumatism | Identifierade regulatoriska element i promotorregionen för COL1A1 och transkriptionsfaktorer som ger uppreglerat uttryck vid skleros. |
+| [11229480](https://pubmed.ncbi.nlm.nih.gov/11229480/) | 2001 | Grundforskning | Arthritis and Rheumatism | Blockad av TGF-beta-signalering förhindrade uppreglerad kollagensyntes i sklerodermifibroblaster. |
+| [16319104](https://pubmed.ncbi.nlm.nih.gov/16319104/) | 2006 | Grundforskning | Rheumatology (Oxford) | Konstitutivt fosforylerat Smad3 interagerar med Sp1 och p300 i sklerodermifibroblaster. |
+
+Ingen av studierna prövar kloramfenikol som behandling.
 
 ---
 
-### Marknadsinformation Sverige
+## Marknadsinformation Sverige
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -99,28 +96,27 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-### Säkerhetsaspekter
+## Säkerhetsaspekter
 
-- **Benmärgstoxicitet:** Litteraturen diskuterar ett omdebatterat samband mellan lokalt kloramfenikol i ögat och aplastisk anemi. Kloramfenikol beskrivs som ett läkemedel med känd toxicitet, vilket är skälet till att det främst används lokalt.
-- **Lokala biverkningar:** I en jämförande studie rapporterade 14 % av patienterna sveda och obehag med kloramfenikolögondroppar.
-- **Läkemedelsinteraktioner:** Totalt 478 interaktioner är registrerade. Två av dem är av allvarlig grad (Major): **cisaprid** och **naloxegol**. Flera är av måttlig grad (Moderate), till exempel metronidazol, glimepirid, glipizid, glibenklamid, klorpropamid, repaglinid, rosuvastatin, simvastatin, saxagliptin, budesonid, aprepitant, balsalazid, järn, eliglustat, naldemedin och nitisinon. Interaktionsdata gäller främst systemisk användning, och betydelsen vid lokal behandling i ögat är oklar.
+- **Läkemedelsinteraktioner**: Totalt 478 interaktioner är registrerade. Bland de viktigaste med allvarlig (major) nivå finns **cisaprid** och **naloxegol**. Flera interaktioner av måttlig nivå gäller bland annat sulfonureider (glimepirid, glipizid, glibenklamid, klorpropamid, acetohexamid), repaglinid, saxagliptin, simvastatin, rosuvastatin, metronidazol, budesonid, aprepitant, eliglustat, nitisinon, naldemedin, balsalazid och järn.
 
-Se produktresumén för fullständig säkerhetsinformation.
+För övrig säkerhetsinformation, se produktresumén.
 
 ---
 
-### Slutsats och nästa steg
+## Slutsats och nästa steg
 
-**Beslut: Fortsätt med försiktighet**
+**Beslut: Avvakta**
 
 **Motivering:**
-- Inga kliniska prövningar är registrerade. Ett av de randomiserade resultaten visade låg klinisk framgång för kloramfenikol, och benmärgstoxicitet har diskuterats.
+- Förutsägelsen saknar stöd från kliniska prövningar eller studier som visar en behandlingseffekt vid diffus sklerodermi. De publicerade artiklarna använder sannolikt kloramfenikol endast som analysverktyg, och risken för benmärgstoxicitet talar emot långvarig användning.
 
 **För att gå vidare krävs:**
-- Aktuella randomiserade kontrollerade studier som jämför kloramfenikol med dagens förstahandsval vid bakteriell konjunktivit.
-- Genomgång av den svenska produktresumén för indikationer, varningar och kontraindikationer, eftersom indikationstext saknas i de lokala data.
-- Uppdaterad resistensdata för relevanta ögonpatogener.
-- Bedömning av säkerhetsrisken (aplastisk anemi) vid lokal ögonbehandling.
+- Prekliniska data som visar en faktisk antifibrotisk effekt av kloramfenikol
+- Verkningsmekanismdata som kopplar läkemedlet till sjukdomsprocessen
+- Säkerhetsutvärdering utifrån produktresumén, särskilt avseende blodpåverkan vid systemisk exponering
+- Bedömning av om administreringsvägen (nu endast ögonpreparat) är relevant för sjukdomen
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -38,13 +38,13 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 ---
 
-### Sammanfattning
+## Sammanfattning
 
-Metylprednisolon är en kortikosteroid (glukokortikoid) som ursprungligen användes vid bland annat autoimmuna sjukdomar, binjurebarksinsufficiens, Crohns sjukdom och akut lymfatisk leukemi. För närvarande stöds denna riktning av **1 klinisk prövning** och **19 publikationer**, främst observationsstudier och översikter.
+Metylprednisolon är ett kortikosteroidläkemedel som i Sverige finns som tabletter, bland annat under namnet Medrol. TxGNN-modellen förutsäger att det kan vara effektivt mot **alopecia mucinosa (alopecia mucinosa)**. Förutsägelsen bygger enbart på modellen: det finns **inga kliniska prövningar** och **ingen publicerad litteratur** om just denna sjukdom i underlaget.
 
 ---
 
-### Snabböversikt
+## Snabböversikt
 
 | Post | Innehåll |
 |------|------|
@@ -54,46 +54,33 @@ Metylprednisolon är en kortikosteroid (glukokortikoid) som ursprungligen använ
 | Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
 | Antal godkännanden | 9 (giltiga: 9) |
-| Rekommenderat beslut | Fortsätt med försiktighet |
+| Rekommenderat beslut | Avvakta |
 
 ---
 
-### Varför är denna förutsägelse rimlig?
+## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Baserat på känd information är metylprednisolon en potent glukokortikoid, dess effekt vid autoimmuna och inflammatoriska sjukdomar är väletablerad, och mekanistiskt kan den vara tillämpbar på alopecia areata.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig för metylprednisolon i underlaget. Som glukokortikoid har läkemedlet allmänt kända antiinflammatoriska och immunsuppressiva effekter. Mekanistiskt skulle det därför kunna vara tillämpbart vid inflammatoriska hårsäcks- och hudsjukdomar.
 
-Alopecia areata är en T-cellsmedierad autoimmun sjukdom där hårfollikelns immunprivilegium bryts ned. Metylprednisolon dämpar T-cellsaktivering och produktionen av proinflammatoriska cytokiner, till exempel interferon-gamma. Detta stämmer väl med de autoimmuna och antiinflammatoriska indikationer som läkemedlet redan har.
-
-Vid svår sjukdom ges metylprednisolon som pulsbehandling (oral eller intravenös) för att snabbt dämpa immunförsvaret. Det är just denna användning som beskrivs i den tillgängliga evidensen.
+Modellens förutsägelse drivs sannolikt av att alopecia mucinosa ligger nära andra inflammatoriska hårsjukdomar i de nätverk som modellen bygger på. Det är en indirekt koppling. Inga studier i underlaget stöder en konkret mekanistisk länk mellan metylprednisolon och just denna sjukdom. Förutsägelsen bör därför ses som en hypotes som kräver vidare utredning.
 
 ---
 
-### Kliniska prövningar
+## Kliniska prövningar
 
-| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
-|---------|------|------|------|---------|
-| [NCT01167946](https://clinicaltrials.gov/study/NCT01167946) | Fas 4 | Avslutad | 42 | Oral högdos-pulsbehandling med metylprednisolon vid svår, behandlingsresistent alopecia areata, med högre doser och tätare pulser än tidigare. Resultat redovisas inte i underlaget. |
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-### Litteraturbevis
+## Litteraturbevis
 
-| PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|-----|------|------|---------|
-| [9777767](https://pubmed.ncbi.nlm.nih.gov/9777767/) | 1998 | Öppen prospektiv studie | Journal of the American Academy of Dermatology | 45 patienter med svår alopecia areata fick intravenös metylprednisolonpuls. |
-| [22426909](https://pubmed.ncbi.nlm.nih.gov/22426909/) | 2012 | Klinisk studie | Saudi Medical Journal | Effekt och säkerhet av oral högdos-pulsbehandling vid svår behandlingsresistent sjukdom. |
-| [21592197](https://pubmed.ncbi.nlm.nih.gov/21592197/) | 2011 | Kohort | The Journal of Dermatology | 70 patienter; prognostiska faktorer för respons på pulsbehandling. |
-| [25566921](https://pubmed.ncbi.nlm.nih.gov/25566921/) | 2015 | Kohort | Indian Journal of Dermatology, Venereology and Leprology | Intravenös pulsbehandling vid svår alopecia areata. |
-| [27095016](https://pubmed.ncbi.nlm.nih.gov/27095016/) | 2016 | Kohort | The Journal of Dermatology | Flera pulsbehandlingar; antalet kurer som behövdes berodde på hårförlustens omfattning och sjukdomstid. |
-| [35986630](https://pubmed.ncbi.nlm.nih.gov/35986630/) | 2022 | Retrospektiv kohort | Dermatologic Therapy | 26 patienter; metylprednisolon ensamt jämfört med kombination med metotrexat vid utbredd sjukdom. |
-| [8274789](https://pubmed.ncbi.nlm.nih.gov/8274789/) | 1993 | Kohort | Dermatology | 9 patienter med nydebuterad svår sjukdom; sjukdomsutvecklingen stoppades hos 8 av 9. |
-| [37992355](https://pubmed.ncbi.nlm.nih.gov/37992355/) | 2023 | Översikt | Dermatology Practical & Conceptual | Genomgång av effekt, återfall, biverkningar och prognostiska faktorer vid kortikosteroid-pulsbehandling. |
-| [28378336](https://pubmed.ncbi.nlm.nih.gov/28378336/) | 2017 | Översikt | International Journal of Dermatology | Behandlingsalternativ vid alopecia totalis och universalis; ingen behandling är godkänd av FDA. |
-| [36461625](https://pubmed.ncbi.nlm.nih.gov/36461625/) | 2023 | Översikt | Pediatric Dermatology | Doser och biverkningar vid pulsbehandling hos barn; doseringsscheman är inte väletablerade. |
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
-### Marknadsinformation Sverige
+## Marknadsinformation Sverige
+
+Läkemedlet har marknadsstatus "på marknaden" i Sverige. Alla de godkännanden som listas nedan är giltiga. Beredningsformen är tablett (oral användning).
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -103,35 +90,32 @@ Vid svår sjukdom ges metylprednisolon som pulsbehandling (oral eller intravenö
 | 49091 | Methylprednisolone Orion | Tablett | – (godkänt) |
 | 64341 | Methylprednisolone Bijon | Tablett | – (godkänt) |
 
-Totalt finns 9 godkännanden, och samtliga är återkallade. Ytterligare fyra Medrol-godkännanden (62997, 58320, 5862 och 9513) är också återkallade.
+---
+
+## Säkerhetsaspekter
+
+- **Läkemedelsinteraktioner**: Totalt 688 interaktioner är registrerade. Bland de viktigaste i underlaget finns:
+  - **Allvarliga (Major)**: bupropion och klaritromycin.
+  - **Måttliga (Moderate)**: flera diabetesläkemedel (t.ex. metformin, pioglitazon, akarbos, dapagliflozin, empagliflozin, kanagliflozin, alogliptin, saxagliptin, albiglutid, dulaglutid, klorpropamid), amfotericin B, aprepitant, acetylsalicylsyra samt laxermedlen bisakodyl och pikosulfat.
+  - **Lindriga (Minor)**: zinksulfat.
+
+Se produktresumén för information om varningar och kontraindikationer.
 
 ---
 
-### Säkerhetsaspekter
+## Slutsats och nästa steg
 
-- **Läkemedelsinteraktioner**: Totalt 688 interaktioner är registrerade. Bland de viktigaste:
-  - **Större interaktioner**: bupropion och klaritromycin.
-  - **Måttliga interaktioner**: diabetesläkemedel (t.ex. metformin, pioglitazon, akarbos, empagliflozin, dapagliflozin), amfotericin B, aprepitant och acetylsalicylsyra.
-  - **Lindriga interaktioner**: zinksulfat.
-- **Sjukdomar där läkemedlet enligt kunskapsgrafen bör undvikas**: högt blodtryck, epilepsi, hyperglykemi, hjärtsvikt, herpes simplex-keratit, mässling, vissa urea-cykeldefekter samt hypofysär hormonbrist.
-
-Se produktresumén för fullständig information om varningar och kontraindikationer.
-
----
-
-### Slutsats och nästa steg
-
-**Beslut: Fortsätt med försiktighet**
+**Beslut: Avvakta**
 
 **Motivering:**
-- Det finns en avslutad fas 4-prövning och flera observationsstudier som stöder pulsbehandling med metylprednisolon vid svår alopecia areata, och den biologiska förklaringen är rimlig. Evidensen saknar dock randomiserade kontrollerade studier, och 9 av 9 svenska godkännanden är giltiga.
+- Förutsägelsen bygger enbart på modellen (evidensnivå L5). Det saknas både kliniska prövningar och publikationer om alopecia mucinosa, och ingen mekanistisk länk stöds av data.
 
 **För att gå vidare krävs:**
-- Resultat och design från fas 4-prövningen NCT01167946 samt helst randomiserade, kontrollerade studier.
-- Produktresumé med varningar och kontraindikationer för säkerhetsbedömning.
-- Verkningsmekanismdata från DrugBank.
-- Utvärdering av långtidsrisker och återfallsfrekvens efter pulsbehandling.
-- Bedömning av hur ett eventuellt nytt godkännande skulle fungera i Sverige, eftersom inga produkter för närvarande är marknadsförda.
+- Litteraturgenomgång av kortikosteroidbehandling vid alopecia mucinosa, inklusive fallrapporter och observationsstudier.
+- Data om verkningsmekanism och en mer detaljerad analys av sambandet mellan läkemedlets effekter och sjukdomens patologi.
+- Genomgång av produktresumén för varningar, kontraindikationer och dosering, eftersom säkerhetsdata från etikettext saknas i underlaget.
+- Vid fortsatt intresse: en väldesignad klinisk studie eller ett kontrollerat prövarinitierat försök innan någon klinisk användning övervägs.
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

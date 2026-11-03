@@ -2,11 +2,11 @@
   "generated": "2026-11-03",
   "total_drugs": 450,
   "level_counts": {
-    "L1": 9,
+    "L1": 8,
     "L2": 16,
-    "L3": 22,
-    "L4": 34,
-    "L5": 359
+    "L3": 23,
+    "L4": 35,
+    "L5": 358
   },
   "all_drugs": [
     {
@@ -126,7 +126,7 @@
     {
       "name": "Amiodarone",
       "slug": "amiodarone",
-      "level": "L5",
+      "level": "L3",
       "indication_count": 9
     },
     {
@@ -2148,7 +2148,7 @@
     {
       "name": "Progesterone",
       "slug": "progesterone",
-      "level": "L1",
+      "level": "L4",
       "indication_count": 6
     },
     {

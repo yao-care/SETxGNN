@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Progesterone
-parent: Hög evidens (L1-L2)
+parent: Måttlig evidens (L3-L4)
 nav_order: 367
-evidence_level: L1
+evidence_level: L4
 indication_count: 6
 last_modified_at: 2026-11-03
 monitor_inn: "progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
-description: "Progesterone: predikterad ny indikation Breast fibrocystic disease (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Progesterone: predikterad ny indikation Fibrocystisk bröstsjukdom (breast fibrocystic disease) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Progesterone
 {: .fs-9 }
 
-Evidensnivå: **L1** | Förutsagda indikationer: **6** st
+Evidensnivå: **L4** | Förutsagda indikationer: **6** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L1** | Förutsagda indikationer: **6** st
 
 </div>
 
-## Progesterone: Breast fibrocystic disease
+## Progesterone: Fibrocystisk bröstsjukdom (breast fibrocystic disease)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Progesteron är kroppens eget gulkroppshormon och har ursprungligen använts vid endometrios, endometriecancer, postmenopausal osteoporos och postmenopausal atrofisk vaginit. Prövningarna studerar dock främst östrogenbehandling med cyklisk progestagen som en del av regimen, så beläggen för progesteron i sig är indirekta.
+Progesteron är ett kroppsegent könshormon som finns som flera godkända läkemedelsprodukter i Sverige. TxGNN-modellen förutsäger att progesteron kan vara effektivt mot **fibrocystisk bröstsjukdom (breast fibrocystic disease)**. Underlaget består av **0 kliniska prövningar** och **20 publikationer**, huvudsakligen äldre översikter samt observationella studier och studier av hormonsamband.
 
 ---
 
@@ -49,60 +49,53 @@ Progesteron är kroppens eget gulkroppshormon och har ursprungligen använts vid
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Breast fibrocystic disease |
+| Förutsagd ny indikation | Fibrocystisk bröstsjukdom (breast fibrocystic disease) |
 | TxGNN-förutsägelsepoäng | 0.9998 |
-| Evidensnivå | L1 enligt den ursprungliga poängsättningen. Min bedömning är dock lägre, se kommentaren nedan |
+| Evidensnivå | L4 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | minst 20 |
-| Rekommenderat beslut | Fortsätt med försiktighet |
-
-**Kommentar om evidensnivån:** Enligt reglerna kräver L1 minst två avslutade fas 3-RCT. Här finns bara en avslutad fas 3-prövning (NCT00946192) och en fas 2/3-prövning (NCT00088153). Dessutom testar de huvudsakligen östrogen, inte progesteron. Utifrån de strikta reglerna motsvarar evidensen snarare L2–L3 än L1.
+| Rekommenderat beslut | Avvakta |
 
 ---
 
 ### Varför är denna förutsägelse rimlig?
 
-Detaljerad data om verkningsmekanismen finns för närvarande inte tillgänglig. Baserat på känd information är progesteron det fysiologiska hormonet i lutealfasen. Det omvandlar östrogenpåverkad livmoderslemhinna till sekretorisk slemhinna och orsakar bortfallsblödning när det sätts ut.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig för progesteron i de sammanställda uppgifterna. Progesteron är ett kroppsegent gestagen som tillsammans med östradiol styr tillväxt och mognad i bröstkörteln.
 
-Sambandet mellan de ursprungliga indikationerna och amenorré är nära. Läkemedlet används redan vid gynekologiska tillstånd där livmoderslemhinnan behöver hormonell kontroll. Ett progestagentest är en etablerad metod för att utreda och behandla sekundär amenorré när östrogennivåerna är tillräckliga. Vid östrogenbrist, till exempel hos idrottare, vid anorexia nervosa och vid prematur ovarialinsufficiens, skyddar progesteron livmoderslemhinnan under östrogenbehandling.
+Litteraturen beskriver att fibrocystiska förändringar i brösten hänger samman med en rubbad balans mellan östrogen och progesteron. En översikt från 1986 beskriver östrogendominans och relativ brist på progesteron som en central mekanism. En studie från 2018 undersökte kvoten mellan östradiol och progesteron (E2/P) i sena lutealfasen hos kvinnor med och utan sjukdomen. Det ger en rimlig tanke om att tillförsel av progesteron skulle kunna motverka obalansen.
 
-Observera att denna indikation ligger så nära läkemedlets gynekologiska användningsområden att den knappast är en egentlig läkemedelsåteranvändning utan snarare användning inom eller nära befintlig indikation.
+Riktningen på effekten är dock osäker. Progesteron kan i vissa sammanhang också stimulera celltillväxt i bröstvävnad, och frågor om bröstsäkerhet måste klarläggas. Underlaget består mest av äldre översikter och observationella eller endokrina associationsstudier, inte av behandlingsstudier med progesteron.
 
 ---
 
 ### Kliniska prövningar
 
-| Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
-|---------|------|------|------|---------|
-| [NCT00946192](https://clinicaltrials.gov/study/NCT00946192) | Fas 3 | Avslutad | 121 | Undersöker hormon- och kroppssammansättning hos unga idrottare med och utan menstruationsbortfall. Testar om transdermalt eller oralt östrogen ökar bentätheten. Effekten av progesteron kan inte isoleras. |
-| [NCT00088153](https://clinicaltrials.gov/study/NCT00088153) | Fas 2/3 | Avslutad | 110 | Studerar anorexia nervosas påverkan på benmassa hos ungdomar och om östrogen kan bevara benutvecklingen. Huvudmålet är benmassa, inte återkomst av menstruation. |
-| [NCT03740204](https://clinicaltrials.gov/study/NCT03740204) | Fas 2 | Aktiv, rekryterar ej | 120 | Randomiserad, dubbelblind, placebokontrollerad studie av transdermalt östradiol med cyklisk progesteron vid ätstörningar. Fokus på kognitiv flexibilitet och belöningsbearbetning. |
-| [NCT03018366](https://clinicaltrials.gov/study/NCT03018366) | Fas 2 | Avslutad | 29 | Undersöker kardiovaskulära riskfaktorer och inflammation hos unga kvinnor med funktionell hypotalamisk amenorré. Indirekt effektmått. |
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
 ### Litteraturbevis
 
-Urvalet består huvudsakligen av översiktsartiklar. Inga RCT med progesteron vid amenorré ingår.
+Tabellen visar ett urval av 10 publikationer. Inga av dem är behandlingsstudier med progesteron vid sjukdomen.
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [38652231](https://pubmed.ncbi.nlm.nih.gov/38652231/) | 2024 | Översikt | Reviews in Endocrine & Metabolic Disorders | Diagnostisk och terapeutisk användning av oralt mikroniserat progesteron inom endokrinologi. |
-| [34405378](https://pubmed.ncbi.nlm.nih.gov/34405378/) | 2022 | Översikt | Reviews in Endocrine & Metabolic Disorders | Hormonbehandling vid endometrios och den endokrina bakgrunden. |
-| [33716979](https://pubmed.ncbi.nlm.nih.gov/33716979/) | 2021 | Översikt | Frontiers in Endocrinology | Orsaker, symtom och behandling vid prematur ovarialinsufficiens. |
-| [32233689](https://pubmed.ncbi.nlm.nih.gov/32233689/) | 2020 | Översikt | Climacteric | Handläggning av vaginal blödning efter menopaus. |
-| [36653588](https://pubmed.ncbi.nlm.nih.gov/36653588/) | 2023 | Översikt | Reproductive Sciences | Metoder för att reparera skadad livmoderslemhinna, bland annat vid intrauterina adherenser. |
-| [22283375](https://pubmed.ncbi.nlm.nih.gov/22283375/) | 2012 | Översikt | Gynecological Endocrinology | Neuroendokrin kontroll av ägglossning. Hypotalamusstörning kan leda till anovulation och amenorré. |
-| [28257537](https://pubmed.ncbi.nlm.nih.gov/28257537/) | 2017 | Översikt | Southern Medical Journal | Primär ovarialinsufficiens med sekundär amenorré och behov av hormonersättning. |
-| [18756412](https://pubmed.ncbi.nlm.nih.gov/18756412/) | 2008 | Översikt | Seminars in Reproductive Medicine | Intrauterina adherenser, från amenorré till normal menstruation. |
-| [8629565](https://pubmed.ncbi.nlm.nih.gov/8629565/) | 1996 | Översikt | American Family Physician | Utredning av amenorré. |
-| [24157186](https://pubmed.ncbi.nlm.nih.gov/24157186/) | 2013 | Översikt | Presse Médicale | Prematur ovarialsvikt. |
+| [31168213](https://pubmed.ncbi.nlm.nih.gov/31168213/) | 2018 | Jämförande studie (50 patienter, 40 kontroller) | Acta clinica Croatica | Undersökte sambandet mellan östradiol/progesteron-kvoten i sena lutealfasen och förekomst av fibrocystisk bröstsjukdom. |
+| [3511705](https://pubmed.ncbi.nlm.nih.gov/3511705/) | 1986 | Översikt | American Journal of Obstetrics and Gynecology | Beskriver sjukdomens patofysiologi som östrogendominans och progesteronbrist, med två till fyra gånger ökad risk för bröstcancer. |
+| [28598826](https://pubmed.ncbi.nlm.nih.gov/28598826/) | 2017 | Randomiserad dubbelblind placebokontrollerad studie | Breast Disease | Studerade effekten av metformin (inte progesteron) på fibrocystiska förändringar. Resultaten framgår inte av det tillgängliga utdraget. |
+| [41438397](https://pubmed.ncbi.nlm.nih.gov/41438397/) | 2025 | Tvärsnittsstudie | International Journal of Reproductive Biomedicine | Undersökte samband mellan fibrocystisk bröstsjukdom och fenotyper av polycystiskt ovariesyndrom. |
+| [6481706](https://pubmed.ncbi.nlm.nih.gov/6481706/) | 1984 | Översikt | Journal of Reproductive Medicine | Går igenom hur östrogen och progesteron påverkar benign och malign bröstsjukdom. |
+| [1936311](https://pubmed.ncbi.nlm.nih.gov/1936311/) | 1991 | Översikt | Fertility and Sterility | Epidemiologiska data tyder på att äldre p-piller skyddade mot de flesta former av benign bröstsjukdom. Det är oklart om dagens lågdoserade preparat ger samma skydd. |
+| [3902125](https://pubmed.ncbi.nlm.nih.gov/3902125/) | 1985 | Översikt | Breast Cancer Research and Treatment | Översikt över epidemiologi och endokrinologi vid benign bröstsjukdom. |
+| [7788004](https://pubmed.ncbi.nlm.nih.gov/7788004/) | 1995 | Kohortstudie | European Journal of Endocrinology | Mätte sköldkörtelhormoner i serum och cystvätska hos kvinnor med fibrocystisk bröstsjukdom. |
+| [10424406](https://pubmed.ncbi.nlm.nih.gov/10424406/) | 1999 | Laboratoriestudie | Breast Cancer Research and Treatment | Mätte cytokiner i cystvätska och relaterade dem till könshormoner. |
+| [34537861](https://pubmed.ncbi.nlm.nih.gov/34537861/) | 2022 | Översikt | Virchows Archiv | Beskriver apokrina förändringar i bröstet, vanligast i benigna cystor. |
 
 ---
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna och inget är giltigt. Ingen godkänd indikationstext finns registrerad. Nedan visas fem av dem.
+Läkemedlet har 20 giltiga godkännanden. Listan nedan visar de fem första. Indikationstext finns inte registrerad i de lokala uppgifterna.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -116,27 +109,27 @@ Alla 20 godkännanden är indragna och inget är giltigt. Ingen godkänd indikat
 
 ### Säkerhetsaspekter
 
-- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumén): Kunskapsgrafen kopplar progesteron till bland annat högt blodtryck, leversvikt och leversjukdom, epilepsi, porfyri, njursjukdom, gallblåsesjukdom, diabetes och hyperglykemi, hypotyreos, systemisk lupus erythematosus, astma, hypertriglyceridemi, ångestsyndrom och substansberoende. Osteoporos och postmenopausal osteoporos finns också med, vilket är anmärkningsvärt eftersom osteoporos samtidigt är en ursprunglig indikation.
-- **Läkemedelsinteraktioner:** 163 interaktioner är registrerade. De som visas är alla av måttlig grad och gäller främst diabetesläkemedel, vilket kan påverka blodsockerkontrollen: akarbos, albiglutid, alogliptin, metformin, pioglitazon, kanagliflozin, klorpropamid, dapagliflozin, empagliflozin, glimepirid, repaglinid, semaglutid, liraglutid och insuliner (aspart, degludek, detemir). Dessutom nämns aprepitant, klaritromycin, saxagliptin och dulaglutid.
+- **Läkemedelsinteraktioner**: 163 interaktioner är registrerade. Exemplen nedan är alla av måttlig allvarlighetsgrad.
+  - Läkemedel mot diabetes: acarbos, albiglutid, alogliptin, metformin, pioglitazon, kanagliflozin, klorpropamid, dapagliflozin, saxagliptin, dulaglutid, empagliflozin, glimepirid, repaglinid, semaglutid, liraglutid samt insuliner (aspart, degludek, detemir).
+  - Övriga: aprepitant och klaritromycin.
 
-Varningar och kontraindikationer från produktresumén saknas i det sammanställda underlaget. Se produktresumén för fullständig säkerhetsinformation.
+Se produktresumén för varningar och kontraindikationer. Någon sådan information finns inte i de sammanställda uppgifterna.
 
 ---
 
 ### Slutsats och nästa steg
 
-**Beslut: Fortsätt med försiktighet**
+**Beslut: Avvakta**
 
 **Motivering:**
-- Den mekanistiska kopplingen är stark och indikationen ligger nära läkemedlets etablerade gynekologiska användning. De ingående prövningarna studerar dock främst östrogen med cyklisk progestagen som en komponent, så direkta belägg för progesteron saknas. Alla svenska godkännanden är dessutom indragna.
+- Förutsägelsen har ett rimligt hormonellt resonemang, men det finns inga kliniska prövningar. Litteraturen är huvudsakligen äldre översikter och observationella studier, och det är osäkert i vilken riktning progesteron skulle verka.
 
 **För att gå vidare krävs:**
-- Hämta varningar och kontraindikationer från produktresumén (saknas i underlaget, vilket hindrar en fullständig säkerhetsgranskning).
-- Komplettera uppgifter om verkningsmekanism från DrugBank.
-- Identifiera eller genomföra prövningar där progesteron eller progestagen testas som separat behandling vid amenorré.
-- Utreda om kunskapsgrafens kontraindikationer (till exempel lever- och njursjukdom, diabetes) är kliniskt relevanta för målgruppen.
+- En systematisk genomgång av litteraturen om gestagenbehandling vid fibrocystisk bröstsjukdom.
+- Kontrollerade kliniska studier som direkt testar progesteron vid sjukdomen.
+- En bedömning av bröstsäkerhet, eftersom progesteron kan ha proliferativa effekter i bröstvävnad.
+- Uppgifter om verkningsmekanism, varningar och kontraindikationer från produktresumén.
 
-**Övriga förutsägelser (kort):** Övriga nio förutsägelser (bland annat fibrocystisk bröstsjukdom, godartad mammär dysplasi, njurhypoplasi och olika endometriosformer) har svagare stöd (L4–L5) och rekommenderas att avvakta. Endometriossubtyperna hör redan till läkemedlets ursprungliga indikation.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

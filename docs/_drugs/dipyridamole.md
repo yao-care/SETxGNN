@@ -40,7 +40,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 
 ## Sammanfattning
 
-Dipyridamol är ett trombocythämmande läkemedel. I kunskapsgrafen finns en registrerad relation till **förmaksflimmer**, men de svenska godkännandena i underlaget saknar indikationstext. Underlaget består av **0 kliniska prövningar** och **20 publikationer**, mest äldre översikter, varav flera inte rör ämnet direkt.
+Dipyridamol är en trombocythämmare som är godkänd och marknadsförd i Sverige. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **sjuk sinusknutesyndrom typ 2, autosomalt dominant (sick sinus syndrome 2, autosomal dominant)**. Förutsägelsen stöds av **0 kliniska prövningar** och **0 publikationer**, så den vilar enbart på modellens poäng.
 
 ---
 
@@ -51,7 +51,7 @@ Dipyridamol är ett trombocythämmande läkemedel. I kunskapsgrafen finns en reg
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Sick sinus syndrome 2, autosomal dominant |
 | TxGNN-förutsägelsepoäng | 0.9989 |
-| Evidensnivå | L5 (mekanism- och översiktsbaserad evidens, inga kliniska prövningar för just denna etikett) |
+| Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
 | Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
@@ -60,11 +60,11 @@ Dipyridamol är ett trombocythämmande läkemedel. I kunskapsgrafen finns en reg
 
 ## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata i läkemedelsposten. Litteraturen beskriver dock mekanismen. Dipyridamol hämmar återupptaget av adenosin (via ENT1) och hämmar fosfodiesteraser (PDE3, PDE5 och PDE10). Därmed ökar extracellulärt adenosin och halterna av cAMP och cGMP i blodplättarna. Det hämmar blodplättsaggregationen (Kim & Liao, 2008).
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Dipyridamol tillhör klassen trombocythämmare, och dess effekt på trombocytfunktion är känd. Mekanistiskt är det dock oklart om den kan tillämpas på sjuk sinusknutesyndrom typ 2.
 
-Mekanismen är biologiskt rimlig vid sjukdomar där blodplättar driver proppbildningen, till exempel arteriell trombos. Läkemedlet är redan etablerat som trombocythämmare. Förutsägelsen ligger därför nära läkemedlets kända farmakologi.
+Den förutsagda sjukdomen är en ärftlig kanalopati i hjärtats retledningssystem (kopplad till HCN4). Det finns inget identifierat farmakologiskt samband mellan dipyridamol och denna sjukdom. Poängen är därför inte stödd av någon känd biologisk förklaring.
 
-Etiketten "trombotisk sjukdom" är dock mycket generell. Den täcker både arteriella och venösa tillstånd, och blodplättshämning har olika betydelse i dem. Äldre fallbeskrivningar och översikter tyder på nytta vid trombotisk trombocytopen purpura (TTP) och vid arteriell tromboembolism, men inget av detta är bevis för trombotisk sjukdom som helhet.
+Det finns också ett teoretiskt säkerhetsproblem. Dipyridamol ökar adenosinets effekt, och det skulle i princip kunna förvärra bradyarytmi eller ledningsblock. Detta måste utredas innan någon klinisk användning övervägs.
 
 ---
 
@@ -76,24 +76,13 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Litteraturbevis
 
-Av de 20 publikationerna är endast de tio mest relevanta listade. En randomiserad fas 3-studie om bevacizumab vid pleuramesoteliom (PMID 26719230) har uteslutits eftersom den inte rör dipyridamol eller trombotisk sjukdom.
-
-| PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|-----|------|------|---------|
-| [18174451](https://pubmed.ncbi.nlm.nih.gov/18174451/) | 2008 | Översikt | Arteriosclerosis, Thrombosis, and Vascular Biology | Dipyridamol hämmar fosfodiesteraser och ökar cAMP/cGMP i blodplättar. Det hämmar blodplättsaggregation och blodplättsmedierad trombotisk sjukdom. |
-| [382146](https://pubmed.ncbi.nlm.nih.gov/382146/) | 1979 | Översikt | Postgraduate Medicine | Aspirin, dipyridamol och sulfinpyrazon beskrivs ha antitrombotisk effekt hos människa. |
-| [12765506](https://pubmed.ncbi.nlm.nih.gov/12765506/) | 2003 | Översikt | Medical Journal of Australia | Trombocythämmare skyddar mot hjärtinfarkt, stroke och andra allvarliga kärlhändelser hos riskpatienter. Aspirin är förstahandsval. |
-| [2182246](https://pubmed.ncbi.nlm.nih.gov/2182246/) | 1990 | Översikt | Clinical Cardiology | Aspirin och dipyridamol har begränsad effekt mot koronar trombos. Experimentella data är starkare än kliniska. |
-| [15494585](https://pubmed.ncbi.nlm.nih.gov/15494585/) | 2004 | Ej angiven | JAMA | Trombocythämmare förebygger återkommande kärlhändelser vid etablerad kärlsjukdom i hjärna, hjärta och perifera artärer. |
-| [559478](https://pubmed.ncbi.nlm.nih.gov/559478/) | 1977 | Fallrapport | Archives of Internal Medicine | Hos en patient med TTP gav dipyridamol tillsammans med aspirin och sulfinpyrazon ihållande remission. Patienten återfick sjukdom när dipyridamoldosen trappades ned. |
-| [2440111](https://pubmed.ncbi.nlm.nih.gov/2440111/) | 1987 | Ej angiven | Seminars in Hematology | Blodplättshämmare har gett förbättring vid TTP i många fall. Utebliven effekt tillskrivs bland annat otillräcklig dos. |
-| [25697566](https://pubmed.ncbi.nlm.nih.gov/25697566/) | 2015 | Ej angiven | Current Topics in Medicinal Chemistry | Dipyridamol används som antitrombotiskt och kärlvidgande läkemedel och har en mindre känd antioxidativ effekt. |
-| [20484211](https://pubmed.ncbi.nlm.nih.gov/20484211/) | 2010 | Ej angiven | American Journal of Health-System Pharmacy | Översikt av trombocythämmare och antikoagulantia vid kärlocklusion och trombotiska komplikationer vid sicklecellsjukdom. |
-| [36696191](https://pubmed.ncbi.nlm.nih.gov/36696191/) | 2023 | Översikt | Journal of Thrombosis and Haemostasis | Tromboinflammation vid antifosfolipidsyndrom. Ingen direkt koppling till dipyridamol. |
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
 ## Marknadsinformation Sverige
+
+Dipyridamol är marknadsfört i Sverige. Alla tre godkännanden är giltiga och avser läkemedel med enbart dipyridamol som substans. Någon indikationstext finns inte registrerad i de lokala uppgifterna.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -105,10 +94,10 @@ Av de 20 publikationerna är endast de tio mest relevanta listade. En randomiser
 
 ## Säkerhetsaspekter
 
-Underlaget saknar varnings- och kontraindikationstext från produktresumén. Se produktresumén för säkerhetsinformation.
+- **Läkemedelsinteraktioner**: Totalt 321 interaktioner är registrerade. Måttliga interaktioner finns med dexfenfluramin, sibutramin och fenfluramin. Flera andra interaktioner, bland annat med acetylsalicylsyra, cimetidin, omeprazol, pantoprazol, metformin och morfin, har ännu ingen fastställd allvarlighetsgrad.
+- **Teoretisk risk vid den förutsagda sjukdomen**: Förstärkt adenosineffekt kan i princip förvärra bradyarytmi eller ledningsblock.
 
-- **Kontraindikationsrelationer i kunskapsgrafen** (inte etikettext): bland annat trombocytopeni, magsår, hjärtinfarkt och akut koronart syndrom, hemofili, njursjukdom, leversjukdom, gikt, lågt blodtryck och Alzheimers sjukdom. De bör läsas som signaler som behöver verifieras mot produktresumén.
-- **Läkemedelsinteraktioner**: 321 interaktioner är registrerade. Måttlig nivå har angetts för dexfenfluramin, sibutramin och fenfluramin. Flera andra, bland annat acetylsalicylsyra, cimetidin, omeprazol, pantoprazol, metformin, morfin och simvastatin, har okänd allvarlighetsgrad. Kombinationen med acetylsalicylsyra är särskilt viktig att bedöma eftersom den kan påverka blödningsrisken.
+Se produktresumén för fullständiga varningar och kontraindikationer.
 
 ---
 
@@ -117,15 +106,14 @@ Underlaget saknar varnings- och kontraindikationstext från produktresumén. Se 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Det finns inga kliniska prövningar för den, och litteraturen består mest av äldre översikter och ett fåtal fallbeskrivningar.
-- Säkerhetsunderlaget från produktresumén saknas, vilket hindrar en säkerhetsgranskning.
+- Förutsägelsen bygger enbart på ett högt modellpoäng (0,9989). Det finns varken kliniska prövningar, litteratur eller en tydlig mekanistisk koppling, och en teoretisk säkerhetsrisk för hjärtrytmen kvarstår.
 
 **För att gå vidare krävs:**
-- Hämta och granska produktresumén från Läkemedelsverket (varningar, kontraindikationer och godkända indikationer).
-- Precisera vilket trombotiskt tillstånd som avses, till exempel arteriell eller venös trombos, och leta prövningar för just det.
-- Överväg mer specifika förutsägelser i samma data. Det gäller särskilt övergående ischemisk attack (TIA), där en stor randomiserad fas 4-prövning (ESPRIT, aspirin med eller utan dipyridamol) finns.
-- Komplettera verkningsmekanismdata från DrugBank.
-- Bedöm interaktionsrisker, särskilt blödningsrisk vid samtidig användning av acetylsalicylsyra.
+- Verkningsmekanismdata för dipyridamol, för att bedöma ett eventuellt samband med HCN4-relaterad sinusknutedysfunktion.
+- Prekliniska studier eller en systematisk litteraturgenomgång som direkt undersöker sjukdomen.
+- En säkerhetsbedömning av risken för bradyarytmi och ledningsblock.
+- Produktresumén för varningar och kontraindikationer, som saknas i underlaget.
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
