@@ -4,17 +4,17 @@ title: Chlorambucil
 parent: Endast modellprediktion (L5)
 nav_order: 91
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 monitor_inn: "chlorambucil"
-predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-10-28
-description: "Chlorambucil: predikterad ny indikation Pregerminalcenter kronisk lymfatisk leukemi/småcelligt lymfatiskt lymfom (pregerminal center chronic lymphocytic leukem… (evidensnivå L5). Ursprunglig indikati…"
+predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
+last_modified_at: 2026-11-03
+description: "Chlorambucil: predikterad ny indikation ALK-positive large B-cell lymphoma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Chlorambucil
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **7** st
+Evidensnivå: **L5** | Förutsagda indikationer: **5** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Klorambucil: alkylerande cytostatikum → Pregerminalcenter kronisk lymfatisk leukemi/småcelligt lymfatiskt lymfom (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma)
+## Chlorambucil: ALK-positive large B-cell lymphoma
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Klorambucil är ett alkylerande cytostatikum som används vid hematologiska maligniteter. TxGNN-modellen förutsäger att det kan vara effektivt mot **pregerminalcenter kronisk lymfatisk leukemi/småcelligt lymfatiskt lymfom (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma)**. För denna sjukdom finns **inga kliniska prövningar** och **1 publikation** (en översiktsartikel från 2003), vilket ger begränsat direkt stöd.
+Klorambucil är ett alkylerande cytostatikum som används vid hematologiska maligniteter. För denna sjukdom finns **inga kliniska prövningar** och **1 publikation** (en översiktsartikel från 2003), vilket ger begränsat direkt stöd.
 
 ---
 
@@ -49,8 +49,8 @@ Klorambucil är ett alkylerande cytostatikum som används vid hematologiska mali
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Pregerminalcenter kronisk lymfatisk leukemi/småcelligt lymfatiskt lymfom (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma) |
-| TxGNN-förutsägelsepoäng | 0,9972 |
+| Förutsagd ny indikation | ALK-positive large B-cell lymphoma |
+| TxGNN-förutsägelsepoäng | 0.9961 |
 | Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
 | Antal godkännanden | 1 (giltiga: 1) |

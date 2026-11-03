@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Terbutaline
-parent: Hög evidens (L1-L2)
+parent: Endast modellprediktion (L5)
 nav_order: 416
-evidence_level: L1
-indication_count: 3
-last_modified_at: 2026-10-28
+evidence_level: L5
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "terbutaline"
-predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
-description: "Terbutaline: predikterad ny indikation Obstructive lung disease (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
+description: "Terbutaline: predikterad ny indikation Respiratory malformation (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Terbutaline
 {: .fs-9 }
 
-Evidensnivå: **L1** | Förutsagda indikationer: **3** st
+Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L1** | Förutsagda indikationer: **3** st
 
 </div>
 
-## Terbutaline: Obstructive lung disease
+## Terbutaline: Respiratory malformation
 {: .text-alpha }
 
 ---
@@ -49,9 +49,9 @@ Terbutalin är en selektiv beta-2-agonist som ursprungligen används mot astma, 
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Obstructive lung disease |
-| TxGNN-förutsägelsepoäng | 0.9996 |
-| Evidensnivå | L1 |
+| Förutsagd ny indikation | Respiratory malformation |
+| TxGNN-förutsägelsepoäng | 0.9952 |
+| Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
 | Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Fortsätt med försiktighet |

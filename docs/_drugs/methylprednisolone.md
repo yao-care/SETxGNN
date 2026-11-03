@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Methylprednisolone
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 287
-evidence_level: L3
-indication_count: 9
-last_modified_at: 2026-10-28
-description: "Methylprednisolone: predikterad ny indikation Alopecia areata (evidensnivå L3). Ursprunglig indikation: Autoimmun sjukdom (godkänd indikationstext saknas i de svenska godkän…"
+evidence_level: L5
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "methylprednisolone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
+description: "Methylprednisolone: predikterad ny indikation Alopecia mucinosa (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Methylprednisolone
 {: .fs-9 }
 
-Evidensnivå: **L3** | Förutsagda indikationer: **9** st
+Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L3** | Förutsagda indikationer: **9** st
 
 </div>
 
-## Metylprednisolon: Från autoimmuna sjukdomar och binjurebarksinsufficiens till alopecia areata
+## Methylprednisolone: Alopecia mucinosa
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Metylprednisolon är en kortikosteroid (glukokortikoid) som ursprungligen användes vid bland annat autoimmuna sjukdomar, binjurebarksinsufficiens, Crohns sjukdom och akut lymfatisk leukemi. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **alopecia areata** (fläckvis håravfall). För närvarande stöds denna riktning av **1 klinisk prövning** och **19 publikationer**, främst observationsstudier och översikter.
+Metylprednisolon är en kortikosteroid (glukokortikoid) som ursprungligen användes vid bland annat autoimmuna sjukdomar, binjurebarksinsufficiens, Crohns sjukdom och akut lymfatisk leukemi. För närvarande stöds denna riktning av **1 klinisk prövning** och **19 publikationer**, främst observationsstudier och översikter.
 
 ---
 
@@ -48,10 +48,10 @@ Metylprednisolon är en kortikosteroid (glukokortikoid) som ursprungligen använ
 
 | Post | Innehåll |
 |------|------|
-| Ursprunglig indikation | Autoimmun sjukdom (godkänd indikationstext saknas i de svenska godkännandena) |
-| Förutsagd ny indikation | Alopecia areata |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
+| Förutsagd ny indikation | Alopecia mucinosa |
 | TxGNN-förutsägelsepoäng | 0.9999 |
-| Evidensnivå | L3 |
+| Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
 | Antal godkännanden | 9 (giltiga: 9) |
 | Rekommenderat beslut | Fortsätt med försiktighet |

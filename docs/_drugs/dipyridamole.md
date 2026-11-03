@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dipyridamole
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 144
-evidence_level: L4
-indication_count: 8
+evidence_level: L5
+indication_count: 6
 monitor_inn: "dipyridamole"
-predicted_indications: ["thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
-last_modified_at: 2026-10-28
-description: "Dipyridamole: predikterad ny indikation Trombotisk sjukdom (thrombotic disease) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
+last_modified_at: 2026-11-03
+description: "Dipyridamole: predikterad ny indikation Sick sinus syndrome 2, autosomal dominant (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Dipyridamole
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **8** st
+Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L4** | Förutsagda indikationer: **8** st
 
 </div>
 
-## Dipyridamole: Trombotisk sjukdom (thrombotic disease)
+## Dipyridamole: Sick sinus syndrome 2, autosomal dominant
 {: .text-alpha }
 
 ---
 
 ## Sammanfattning
 
-Dipyridamol är ett trombocythämmande läkemedel. I kunskapsgrafen finns en registrerad relation till **förmaksflimmer**, men de svenska godkännandena i underlaget saknar indikationstext. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **trombotisk sjukdom**, en bred och ospecifik diagnosetikett. Underlaget består av **0 kliniska prövningar** och **20 publikationer**, mest äldre översikter, varav flera inte rör ämnet direkt.
+Dipyridamol är ett trombocythämmande läkemedel. I kunskapsgrafen finns en registrerad relation till **förmaksflimmer**, men de svenska godkännandena i underlaget saknar indikationstext. Underlaget består av **0 kliniska prövningar** och **20 publikationer**, mest äldre översikter, varav flera inte rör ämnet direkt.
 
 ---
 
@@ -49,9 +49,9 @@ Dipyridamol är ett trombocythämmande läkemedel. I kunskapsgrafen finns en reg
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Trombotisk sjukdom (thrombotic disease) |
-| TxGNN-förutsägelsepoäng | 0.9994 |
-| Evidensnivå | L4 (mekanism- och översiktsbaserad evidens, inga kliniska prövningar för just denna etikett) |
+| Förutsagd ny indikation | Sick sinus syndrome 2, autosomal dominant |
+| TxGNN-förutsägelsepoäng | 0.9989 |
+| Evidensnivå | L5 (mekanism- och översiktsbaserad evidens, inga kliniska prövningar för just denna etikett) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
 | Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
@@ -117,7 +117,7 @@ Underlaget saknar varnings- och kontraindikationstext från produktresumén. Se 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen har hög modellpoäng och biologisk rimlighet, men "trombotisk sjukdom" är en för bred etikett. Det finns inga kliniska prövningar för den, och litteraturen består mest av äldre översikter och ett fåtal fallbeskrivningar.
+- Det finns inga kliniska prövningar för den, och litteraturen består mest av äldre översikter och ett fåtal fallbeskrivningar.
 - Säkerhetsunderlaget från produktresumén saknas, vilket hindrar en säkerhetsgranskning.
 
 **För att gå vidare krävs:**

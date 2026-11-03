@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tiotropium
-parent: Hög evidens (L1-L2)
+parent: Endast modellprediktion (L5)
 nav_order: 427
-evidence_level: L1
-indication_count: 5
-last_modified_at: 2026-10-28
+evidence_level: L5
+indication_count: 4
+last_modified_at: 2026-11-03
 monitor_inn: "tiotropium"
-predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
-description: "Tiotropium: predikterad ny indikation Obstructive lung disease (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
+description: "Tiotropium: predikterad ny indikation Respiratory malformation (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Tiotropium
 {: .fs-9 }
 
-Evidensnivå: **L1** | Förutsagda indikationer: **5** st
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L1** | Förutsagda indikationer: **5** st
 
 </div>
 
-## Tiotropium: Obstructive lung disease
+## Tiotropium: Respiratory malformation
 {: .text-alpha }
 
 ---
@@ -50,9 +50,9 @@ Det är dock viktigt att veta att obstruktiv lungsjukdom i praktiken omfattar KO
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Obstructive lung disease |
-| TxGNN-förutsägelsepoäng | 0.9999 |
-| Evidensnivå | L1 |
+| Förutsagd ny indikation | Respiratory malformation |
+| TxGNN-förutsägelsepoäng | 0.9995 |
+| Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
 | Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Fortsätt med försiktighet |

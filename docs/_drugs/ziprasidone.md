@@ -4,17 +4,17 @@ title: Ziprasidone
 parent: Endast modellprediktion (L5)
 nav_order: 458
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-29
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "ziprasidone"
-predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "major affective disorder", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
+predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
 description: "Ziprasidone: predikterad ny indikation Trichotillomania (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Ziprasidone
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,9 +40,9 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 ### Sammanfattning
 
-Ziprasidon är ett atypiskt antipsykotiskt läkemedel som ursprungligen används vid mani i samband med bipolär sjukdom, bipolär sjukdom och schizofreni. TxGNN-modellen förutsäger att det kan vara effektivt mot **stor affektiv sjukdom** (framför allt tilläggsbehandling vid egentlig depression), med **7 kliniska prövningar** och **20 publikationer** som för närvarande stöder denna riktning.
+Ziprasidon är ett atypiskt antipsykotiskt läkemedel som ursprungligen används vid mani i samband med bipolär sjukdom, bipolär sjukdom och schizofreni.
 
-*Obs: Den förutsagda indikationen med högst poäng, trichotillomani, saknar helt stödjande studier. Rapporten fokuserar på stor affektiv sjukdom (rank 3), som har mest evidens bland de förutsagda indikationerna.*
+*Obs: Den förutsagda indikationen med högst poäng, trichotillomani, saknar helt stödjande studier.
 
 ---
 

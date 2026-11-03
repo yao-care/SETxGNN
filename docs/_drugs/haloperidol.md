@@ -4,17 +4,17 @@ title: Haloperidol
 parent: Endast modellprediktion (L5)
 nav_order: 220
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-28
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "HALOPERIDOL"
-predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
+predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy"]
 description: "Haloperidol: predikterad ny indikation Congenital disorder of glycosylation with defective fucosylation (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Haloperidol
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -105,7 +105,6 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas i de 
 
 **Motivering:**
 - Förutsägelsen stöds endast av modellpoängen. Det finns inga studier, ingen litteratur och ingen identifierad verkningsmekanism, och alla svenska godkännanden är indragna.
-- Av de förutsagda indikationerna är det **manisk bipolär sjukdom** (rang 10) som har störst stöd, bland annat en avslutad fas 3-prövning där haloperidol var jämförelsearm. Det är dock snarare en utvidgning av redan etablerad psykiatrisk användning än ett verkligt återanvändningsfall.
 
 **För att gå vidare krävs:**
 - Biologisk eller mekanistisk grund för en koppling mellan haloperidol och fukosyleringsvägar, till exempel prekliniska studier.

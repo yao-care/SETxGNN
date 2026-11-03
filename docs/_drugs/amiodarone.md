@@ -4,17 +4,17 @@ title: Amiodarone
 parent: Endast modellprediktion (L5)
 nav_order: 30
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "amiodarone"
-predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
-last_modified_at: 2026-10-28
-description: "Amiodarone: predikterad ny indikation Katekolaminerg polymorf ventrikulär takykardi (catecholaminergic polymorphic ventricular tachycardia) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de…"
+predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
+last_modified_at: 2026-11-03
+description: "Amiodarone: predikterad ny indikation Katekolaminerg polymorf ventrikulär takykardi (catecholaminergic polymorphic ventricular tachycardia) (evidensnivå L5)."
 ---
 
 # Amiodarone
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Amiodaron: antiarytmikum klass III → Katekolaminerg polymorf ventrikulär takykardi (catecholaminergic polymorphic ventricular tachycardia)
+## Amiodarone: Katekolaminerg polymorf ventrikulär takykardi (catecholaminergic polymorphic ventricular tachycardia)
 {: .text-alpha }
 
 ---
@@ -50,7 +50,7 @@ Amiodaron är ett antiarytmikum i klass III med effekt på flera jonkanaler. TxG
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Katekolaminerg polymorf ventrikulär takykardi (catecholaminergic polymorphic ventricular tachycardia) |
-| TxGNN-förutsägelsepoäng | 0,9978 |
+| TxGNN-förutsägelsepoäng | 0.9978 |
 | Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
 | Antal godkännanden | 6 (giltiga: 6) |

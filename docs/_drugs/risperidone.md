@@ -4,17 +4,17 @@ title: Risperidone
 parent: Endast modellprediktion (L5)
 nav_order: 381
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-31
+indication_count: 4
+last_modified_at: 2026-11-03
 monitor_inn: "risperidone"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
 description: "Risperidone: predikterad ny indikation Gaze palsy, familial horizontal, with progressive scoliosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Risperidone
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **5** st
+Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 {: .fs-6 .fw-300 }
 
 ---

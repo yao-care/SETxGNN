@@ -4,17 +4,17 @@ title: Salbutamol
 parent: Endast modellprediktion (L5)
 nav_order: 391
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-31
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "salbutamol"
-predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "bronchitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
+predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
 description: "Salbutamol: predikterad ny indikation Papillär konjunktivit (papillary conjunctivitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Salbutamol
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **9** st
+Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 {: .fs-6 .fw-300 }
 
 ---

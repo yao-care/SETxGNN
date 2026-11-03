@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Olodaterol
-parent: Endast modellprediktion (L5)
+parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 325
-evidence_level: L5
-indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "olodaterol"
-predicted_indications: ["bronchitis"]
-description: "Olodaterol: predikterad ny indikation Bronkit (bronchitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Olodaterol: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Olodaterol
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **1** st
+Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,55 +33,17 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Olodaterol: Bronkit (bronchitis)
+## Olodaterol
 {: .text-alpha }
 
----
-
-### Sammanfattning
-
-Olodaterol är en långverkande beta2-agonist (LABA) som ursprungligen används som underhållsbehandling vid **kronisk obstruktiv lungsjukdom (KOL)**. Det finns dock **inga kliniska prövningar** för bronkit och bara **2 publikationer** (en riktlinje och en översiktsartikel), som handlar om KOL och inte om bronkit som egen diagnos.
-
----
 
 ### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Bronkit (bronchitis) |
-| TxGNN-förutsägelsepoäng | 0.9984 |
-| Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
 | Antal godkännanden | 3 (giltiga: 3) |
-| Rekommenderat beslut | Avvakta |
-
----
-
-### Varför är denna förutsägelse rimlig?
-
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är olodaterol en långverkande beta2-agonist som ges en gång dagligen med inhalator. Dess effekt vid KOL är belagd, och mekanistiskt kan den vara tillämpbar på bronkit. Läkemedlet aktiverar beta2-receptorer i luftvägarnas glatta muskulatur, vilket ökar cAMP och vidgar luftvägarna.
-
-Sambandet mellan KOL och bronkit är nära. Kronisk bronkit är en av de komponenter som ingår i KOL, så bronkodilatation är relevant för luftflödesbegränsningen. Förutsägelsen är därför till stor del en ommärkning av den befintliga KOL-indikationen och inte en genuint ny användning. Den mycket höga poängen speglar sannolikt just denna överlappning.
-
-För akut bronkit eller bronkit utan KOL finns ingen etablerad grund för behandling med LABA. Det går därför inte att dra slutsatsen att läkemedlet fungerar vid bronkit i bred bemärkelse.
-
----
-
-### Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande.
-
----
-
-### Litteraturbevis
-
-| PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|-----|------|------|---------|
-| [25515181](https://pubmed.ncbi.nlm.nih.gov/25515181/) | 2015 | Riktlinje | Basic & Clinical Pharmacology & Toxicology | Finska nationella riktlinjer för diagnostik och läkemedelsbehandling av stabil KOL, främst avsedda för primärvården. |
-| [27354040](https://pubmed.ncbi.nlm.nih.gov/27354040/) | 2016 | Översikt | American Journal of Health-System Pharmacy | Sammanställer publicerade data om farmakologi, farmakokinetik, effekt och säkerhet för olodaterol, en LABA som tas en gång dagligen. |
-
-Båda publikationerna handlar om KOL. Ingen av dem undersöker bronkit som separat tillstånd.
 
 ---
 
@@ -112,19 +74,6 @@ Se produktresumén för övrig säkerhetsinformation, eftersom varningar och kon
 
 ---
 
-### Slutsats och nästa steg
-
-**Beslut: Avvakta**
-
-**Motivering:**
-- Den höga modellpoängen beror troligen på att bronkit överlappar med den befintliga KOL-indikationen.
-- Den andra förutsägelsen, obstruktiv lungsjukdom, har omfattande fas 3-studier. De rör dock KOL, alltså den redan kända indikationen, och bekräftar den i stället för att visa en ny användning. Studier utanför KOL, till exempel vid astma, är små och mekanistiska. LABA som enda behandling är inte lämplig vid astma utan inhalerad kortikosteroid.
-
-**För att gå vidare krävs:**
-- Klargöra om målet är ny användning eller bekräftelse av KOL-indikationen. Kronisk bronkit inom KOL är redan täckt av den befintliga indikationen.
-- Kontrollerade studier hos patienter med bronkit utan KOL, om en verkligt ny indikation eftersträvas.
-- Hämta varningar och kontraindikationer från produktresumén och granska de 326 registrerade läkemedelsinteraktionerna.
-- Komplettera data om verkningsmekanismen.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

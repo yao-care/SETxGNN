@@ -19,7 +19,7 @@ Evidensnivåerna går från L1 (starkare klinisk evidens) till L5 (endast modell
 - `/evidence-low/` Endast modellprediktion (L5) — L5-kandidater i SETxGNN: endast modellprediktion, ännu utan klinisk evidens eller litteraturstöd.
 - `/methodology/` Metodik — Så tar SETxGNN fram och validerar prediktioner: prediktion med TxGNN-modellen (djupinlärning), evidensinsamling, gradering L1-L5 och beslutsrekommendationer.
 - `/guide/` Användarguide — Användarguide för SETxGNN: hur du slår upp läkemedel, läser evidensnivåer och tolkar rekommendationer.
-- `/sources/` Datakällor — Datakällorna bakom SETxGNN: registreringsdata från MPA, TxGNN, ClinicalTrials.gov, PubMed och DrugBank.
+- `/sources/` Datakällor — Datakällorna bakom SETxGNN: Läkemedelsverkets läkemedelsregister, TxGNN, ClinicalTrials.gov, PubMed och DrugBank.
 - `/downloads/` Nedladdningar — Öppna data att ladda ned från SETxGNN: FHIR-resurser, prediktionsresultat och sökindex.
 - `/about/` Om — SETxGNN är en plattform för prediktion av läkemedelsrepositionering, utvecklad av 藥提醒科技有限公司 (yao.care), byggd på Harvards TxGNN-modell och omfattar läkemedel godkända av MPA i Sverige.
 

@@ -4,17 +4,17 @@ title: Progesterone
 parent: Hög evidens (L1-L2)
 nav_order: 367
 evidence_level: L1
-indication_count: 7
-last_modified_at: 2026-10-31
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "progesterone"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
-description: "Progesterone: predikterad ny indikation Amenorré (amenorrhea (disease)) (amenorrhea (disease)) (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+description: "Progesterone: predikterad ny indikation Breast fibrocystic disease (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Progesterone
 {: .fs-9 }
 
-Evidensnivå: **L1** | Förutsagda indikationer: **7** st
+Evidensnivå: **L1** | Förutsagda indikationer: **6** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L1** | Förutsagda indikationer: **7** st
 
 </div>
 
-## Progesterone: Amenorré (amenorrhea (disease)) (amenorrhea (disease))
+## Progesterone: Breast fibrocystic disease
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Progesteron är kroppens eget gulkroppshormon och har ursprungligen använts vid endometrios, endometriecancer, postmenopausal osteoporos och postmenopausal atrofisk vaginit. TxGNN-modellen förutsäger att det kan vara effektivt mot **amenorré**, med **4 kliniska prövningar** och **18 publikationer** som för närvarande ligger till grund för denna riktning. Prövningarna studerar dock främst östrogenbehandling med cyklisk progestagen som en del av regimen, så beläggen för progesteron i sig är indirekta.
+Progesteron är kroppens eget gulkroppshormon och har ursprungligen använts vid endometrios, endometriecancer, postmenopausal osteoporos och postmenopausal atrofisk vaginit. Prövningarna studerar dock främst östrogenbehandling med cyklisk progestagen som en del av regimen, så beläggen för progesteron i sig är indirekta.
 
 ---
 
@@ -49,8 +49,8 @@ Progesteron är kroppens eget gulkroppshormon och har ursprungligen använts vid
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Amenorré (amenorrhea (disease)) (amenorrhea (disease)) |
-| TxGNN-förutsägelsepoäng | 1.0000 |
+| Förutsagd ny indikation | Breast fibrocystic disease |
+| TxGNN-förutsägelsepoäng | 0.9998 |
 | Evidensnivå | L1 enligt den ursprungliga poängsättningen. Min bedömning är dock lägre, se kommentaren nedan |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | minst 20 |

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dexamethasone
-parent: Hög evidens (L1-L2)
+parent: Endast modellprediktion (L5)
 nav_order: 133
-evidence_level: L2
-indication_count: 10
-last_modified_at: 2026-10-28
+evidence_level: L5
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "dexamethasone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-description: "Dexamethasone: predikterad ny indikation Alopecia areata (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
+description: "Dexamethasone: predikterad ny indikation Alopecia mucinosa (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Dexamethasone
 {: .fs-9 }
 
-Evidensnivå: **L2** | Förutsagda indikationer: **10** st
+Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L2** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Dexamethasone: Alopecia areata
+## Dexamethasone: Alopecia mucinosa
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Dexametason är en kraftfull glukokortikoid som ursprungligen används vid bland annat binjurebarksinsufficiens, inflammatorisk tarmsjukdom (Crohns sjukdom), akut lymfatisk leukemi och eosinofil lunginflammation. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **alopecia areata** (fläckvis håravfall). Underlaget består av **0 kliniska prövningar** och **20 publikationer**, varav flera studier av dexametason i låga pulsdoser vid just denna sjukdom, bland annat en randomiserad studie.
+Dexametason är en kraftfull glukokortikoid som ursprungligen används vid bland annat binjurebarksinsufficiens, inflammatorisk tarmsjukdom (Crohns sjukdom), akut lymfatisk leukemi och eosinofil lunginflammation. Underlaget består av **0 kliniska prövningar** och **20 publikationer**, varav flera studier av dexametason i låga pulsdoser vid just denna sjukdom, bland annat en randomiserad studie.
 
 ---
 
@@ -49,9 +49,9 @@ Dexametason är en kraftfull glukokortikoid som ursprungligen används vid bland
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Alopecia areata |
+| Förutsagd ny indikation | Alopecia mucinosa |
 | TxGNN-förutsägelsepoäng | 0.9999 |
-| Evidensnivå | L2 |
+| Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 19 av 19) |
 | Antal godkännanden | 19 (giltiga: 19) |
 | Rekommenderat beslut | Fortsätt med försiktighet |

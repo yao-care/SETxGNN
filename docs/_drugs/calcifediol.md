@@ -4,17 +4,17 @@ title: Calcifediol
 parent: Endast modellprediktion (L5)
 nav_order: 76
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 monitor_inn: "calcifediol"
-predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis"]
-last_modified_at: 2026-10-28
-description: "Calcifediol: predikterad ny indikation Föråldrad D-vitaminbrist (obsolete vitamin D deficiency) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+predicted_indications: ["renal tubular acidosis"]
+last_modified_at: 2026-11-03
+description: "Calcifediol: predikterad ny indikation Renal tubular acidosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Calcifediol
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **2** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Kalcifediol: D-vitaminanalog → Föråldrad D-vitaminbrist (obsolete vitamin D deficiency)
+## Calcifediol: Renal tubular acidosis
 {: .text-alpha }
 
 ## Sammanfattning
 
-Kalcifediol (25-hydroxivitamin D3) är en förstadie till den aktiva formen av D-vitamin och används vid störningar i kalcium- och fosfatomsättningen. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **föråldrad D-vitaminbrist (obsolete vitamin D deficiency)**. Inga kliniska prövningar och ingen litteratur ingår i de data som sammanställts för denna rapport, så förutsägelsen bygger enbart på modellen.
+Kalcifediol (25-hydroxivitamin D3) är en förstadie till den aktiva formen av D-vitamin och används vid störningar i kalcium- och fosfatomsättningen. Inga kliniska prövningar och ingen litteratur ingår i de data som sammanställts för denna rapport, så förutsägelsen bygger enbart på modellen.
 
 ---
 
@@ -47,8 +47,8 @@ Kalcifediol (25-hydroxivitamin D3) är en förstadie till den aktiva formen av D
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Föråldrad D-vitaminbrist (obsolete vitamin D deficiency) |
-| TxGNN-förutsägelsepoäng | 0,9999 |
+| Förutsagd ny indikation | Renal tubular acidosis |
+| TxGNN-förutsägelsepoäng | 0.9986 |
 | Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
 | Antal godkännanden | 2 (giltiga: 2) |
