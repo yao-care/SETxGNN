@@ -36,13 +36,12 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 ## Mebendazol
 {: .text-alpha }
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
+| Post | Innehåll |
 |------|---------|
-| Original Indication | Inte angiven i de lokala uppgifterna |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
-| Taiwan Market Status | Not marketed |
 | Antal godkännanden | 4 (giltiga: 4) |
 
 ---

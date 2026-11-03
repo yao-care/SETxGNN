@@ -3,7 +3,7 @@ noindex: true
 sitemap: false
 layout: default
 title: Mirabegron
-parent: 僅模型預測 (L5)
+parent: Endast modellprediktion (L5)
 nav_order: 93
 evidence_level: L5
 indication_count: 0
@@ -33,65 +33,65 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-## MIRABEGRON: Repurposing Evaluation — Insufficient Data for Full Assessment
+## MIRABEGRON: Repositioneringsbedömning — otillräckliga data för fullständig bedömning
 {: .text-alpha }
 
-## One-Sentence Summary
+## Sammanfattning
 
-MIRABEGRON (DB08893) is currently under evaluation for drug repurposing potential; however, no original indication data and no TxGNN predicted indications were returned in this Evidence Pack.
-Critical data gaps — including mechanism of action and regulatory package insert safety information — are classified as **Blocking** or **High** severity, preventing a complete evaluation at this time.
-A **Hold** decision is recommended until the gaps identified below are resolved.
+MIRABEGRON (DB08893) bedöms för närvarande med avseende på potential för läkemedelsrepositionering; dock returnerades varken data om ursprunglig indikation eller TxGNN-förutsagda indikationer i detta underlag.
+Kritiska dataluckor — däribland verkningsmekanism och säkerhetsinformation från den regulatoriska produktresumén — klassas som **blockerande** eller av **hög** allvarlighetsgrad, vilket för närvarande förhindrar en fullständig bedömning.
+Beslutet **Avvakta** rekommenderas tills luckorna nedan har åtgärdats.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
+| Post | Innehåll |
 |------|---------|
-| Original Indication | Not available in current data |
-| Predicted New Indication | No TxGNN predictions returned |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 (model prediction only — no predictions available) |
+| Ursprunglig indikation | Inte tillgänglig i nuvarande data |
+| Förutsagd ny indikation | Inga TxGNN-förutsägelser returnerades |
+| TxGNN-förutsägelsepoäng | — |
+| Evidensnivå | L5 (endast modellprediktion — inga förutsägelser tillgängliga) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
 | Antal godkännanden | 5 (giltiga: 5) |
-| Recommended Decision | **Hold** |
+| Rekommenderat beslut | **Avvakta** |
 
 ---
 
-## Mechanism of Action
+## Verkningsmekanism
 
-Detailed mechanism of action data is not available in this Evidence Pack (Data Gap DG002, severity: High).
-Without MOA information, it is not possible to assess the biological plausibility of any predicted repurposing direction or connect MIRABEGRON's pharmacological profile to a new therapeutic indication.
+Detaljerade data om verkningsmekanism finns inte i detta underlag (datalucka DG002, allvarlighetsgrad: hög).
+Utan information om verkningsmekanismen går det inte att bedöma den biologiska rimligheten i någon förutsagd repositioneringsriktning eller koppla MIRABEGRONs farmakologiska profil till en ny terapeutisk indikation.
 
-**Remediation required:** Query DrugBank API for DB08893 to retrieve MOA, pharmacodynamics, and target information before proceeding.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-Package insert data was queried on 2026-03-29 (query ID 4, status: success), but warning and contraindication fields have not yet been parsed into the Evidence Pack (Data Gap DG001, severity: **Blocking**).
-Drug–drug interaction data was queried and returned no results.
-
-**Remediation required:** Download and parse the package insert PDF from the regulatory authority to extract key warnings and contraindications before advancing to safety screening Stage 1.
+**Åtgärd krävs:** Fråga DrugBanks API efter DB08893 för att hämta verkningsmekanism, farmakodynamik och målinformation innan arbetet fortsätter.
 
 ---
 
-## Conclusion and Next Steps
+## Säkerhetsaspekter
 
-**Decision: Hold**
+Se produktresumén för säkerhetsinformation.
 
-**Rationale:**
-The Evidence Pack for MIRABEGRON contains no predicted repurposing indications, no original indication mapping, no mechanism of action, and no parsed safety data — two of which are classified as Blocking or High severity gaps that prevent any meaningful evaluation from proceeding.
+Data från produktresumén hämtades 2026-03-29 (sök-ID 4, status: lyckad), men fälten för varningar och kontraindikationer har ännu inte tolkats in i underlaget (datalucka DG001, allvarlighetsgrad: **blockerande**).
+Data om läkemedelsinteraktioner efterfrågades men gav inga resultat.
 
-**To proceed, the following is needed:**
+**Åtgärd krävs:** Ladda ner och tolka produktresuméns PDF från den regulatoriska myndigheten för att extrahera viktiga varningar och kontraindikationer innan säkerhetsscreeningens steg 1 påbörjas.
 
-- **[Blocking — DG001]** Parse the package insert PDF (already retrieved on 2026-03-29) to extract key warnings, contraindications, and special population guidance; this is required before Stage 1 safety screening can begin
-- **[High — DG002]** Query DrugBank API for DB08893 to retrieve MOA, pharmacological targets, and drug category; this is required for mechanistic plausibility analysis
-- **[Required]** Re-run the TxGNN prediction pipeline for MIRABEGRON to populate `predicted_indications`; the current Evidence Pack contains an empty predictions array, making repurposing candidate evaluation impossible
-- **[Required]** Confirm original approved indications from regulatory sources (e.g., EMA, FDA, or TFDA) and populate `original_indications` to establish the repurposing baseline
-- **[Follow-up]** Once predictions are available, re-trigger evidence collection (clinical trials, literature) for the top-ranked predicted indication(s)
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+Underlaget för MIRABEGRON innehåller inga förutsagda repositioneringsindikationer, ingen kartläggning av ursprunglig indikation, ingen verkningsmekanism och inga tolkade säkerhetsdata — varav två klassas som blockerande eller av hög allvarlighetsgrad, vilket hindrar en meningsfull bedömning från att gå vidare.
+
+**För att gå vidare krävs:**
+
+- **[Blockerande — DG001]** Tolka produktresuméns PDF (redan hämtad 2026-03-29) för att extrahera viktiga varningar, kontraindikationer och vägledning för särskilda patientgrupper; detta krävs innan säkerhetsscreeningens steg 1 kan påbörjas
+- **[Hög — DG002]** Fråga DrugBanks API efter DB08893 för att hämta verkningsmekanism, farmakologiska mål och läkemedelskategori; detta krävs för analys av mekanistisk rimlighet
+- **[Krävs]** Kör om TxGNN-förutsägelseflödet för MIRABEGRON för att fylla `predicted_indications`; det nuvarande underlaget innehåller en tom förutsägelselista, vilket gör det omöjligt att bedöma repositioneringskandidater
+- **[Krävs]** Bekräfta de ursprungligen godkända indikationerna från regulatoriska källor (t.ex. EMA, FDA eller TFDA) och fyll `original_indications` för att fastställa utgångsläget för repositionering
+- **[Uppföljning]** När förutsägelser finns tillgängliga, starta om evidensinsamlingen (kliniska prövningar, litteratur) för den eller de högst rankade förutsagda indikationerna
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

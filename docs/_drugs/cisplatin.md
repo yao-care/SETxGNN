@@ -36,15 +36,14 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 ## Cisplatin
 {: .text-alpha }
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
+| Post | Innehåll |
 |------|------|
-| Drug Name (INN) | Cisplatin |
+| Läkemedelsnamn (INN) | Cisplatin |
 | DrugBank ID | [DB00515](https://go.drugbank.com/drugs/DB00515) |
-| Original Indication | Inte angiven i de lokala uppgifterna |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
-| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Antal godkännanden | 2 (giltiga: 2) |
 
 ---

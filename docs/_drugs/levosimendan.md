@@ -3,7 +3,7 @@ noindex: true
 sitemap: false
 layout: default
 title: Levosimendan
-parent: 僅模型預測 (L5)
+parent: Endast modellprediktion (L5)
 nav_order: 80
 evidence_level: L5
 indication_count: 0
@@ -33,74 +33,74 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-## LEVOSIMENDAN: Evaluation Incomplete — No TxGNN Predictions Available
+## LEVOSIMENDAN: Bedömningen ofullständig — inga TxGNN-förutsägelser tillgängliga
 {: .text-alpha }
 
-## One-Sentence Summary
+## Sammanfattning
 
-Levosimendan is an inodilator / calcium sensitizer used clinically for acute decompensated heart failure in multiple European markets.
-The current Evidence Pack contains **no TxGNN repurposing predictions** for this compound,
-and two blocking data gaps — missing package-insert warnings and missing mechanism-of-action data — prevent a standard repurposing evaluation from being completed.
+Levosimendan är en inodilatator/kalciumsensibiliserare som används kliniskt vid akut dekompenserad hjärtsvikt på flera europeiska marknader.
+Underlaget innehåller för närvarande **inga TxGNN-förutsägelser för läkemedelsrepositionering** för denna substans,
+och två blockerande dataluckor — saknade varningar från produktresumén och saknade data om verkningsmekanism — gör att en standardmässig repositioneringsbedömning inte kan slutföras.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
+| Post | Innehåll |
 |------|---------|
-| Original Indication | Acute decompensated heart failure (known clinical use; no authorisation registered in Sweden) |
-| Predicted New Indication | No predictions available in this Evidence Pack |
-| TxGNN Prediction Score | — |
-| Evidence Level | — (cannot be determined) |
+| Ursprunglig indikation | Akut dekompenserad hjärtsvikt (känd klinisk användning; inget godkännande registrerat i Sverige) |
+| Förutsagd ny indikation | Inga förutsägelser tillgängliga i detta underlag |
+| TxGNN-förutsägelsepoäng | — |
+| Evidensnivå | — (kan inte fastställas) |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
 | Antal godkännanden | 10 (giltiga: 10) |
-| Recommended Decision | **Hold** |
+| Rekommenderat beslut | **Avvakta** |
 
 ---
 
-## Why No Evaluation Can Be Completed
+## Varför bedömningen inte kan slutföras
 
-Three independent blockers prevent this Evidence Pack from proceeding through the standard repurposing pipeline:
+Tre oberoende hinder gör att detta underlag inte kan gå vidare genom det standardmässiga repositioneringsflödet:
 
-**1. No TxGNN predictions (`predicted_indications: []`)**
-The model has not yet generated candidate indications for DB00922. Without a scored disease target, there is no repurposing hypothesis to evaluate, and all downstream sections (clinical-trial evidence, literature evidence, mechanism plausibility) cannot be populated.
+**1. Inga TxGNN-förutsägelser (`predicted_indications: []`)**
+Modellen har ännu inte genererat kandidatindikationer för DB00922. Utan ett poängsatt sjukdomsmål finns ingen repositioneringshypotes att bedöma, och inga efterföljande avsnitt (evidens från kliniska prövningar, litteraturbevis, mekanistisk rimlighet) kan fyllas i.
 
-**2. Missing package-insert safety data (Data Gap DG001 — Blocking)**
-Warnings and contraindications from the TFDA (or equivalent authority) have not been retrieved. This is classified as a *Blocking* gap: it prevents the mandatory S1 safety screening step and means no safety section can be written.
+**2. Saknade säkerhetsdata från produktresumén (datalucka DG001 — blockerande)**
+Varningar och kontraindikationer från TFDA (eller motsvarande myndighet) har inte hämtats. Detta klassas som en *blockerande* lucka: den hindrar det obligatoriska säkerhetsscreeningsteget S1 och innebär att inget säkerhetsavsnitt kan skrivas.
 
-**3. Missing mechanism of action (Data Gap DG002 — High)**
-Without confirmed MOA data from DrugBank, the mechanistic plausibility argument that anchors the "Why is this prediction reasonable?" section cannot be constructed.
-
----
-
-## Sweden Market Information
-
-No authorisations are registered in Sweden for LEVOSIMENDAN. There is no licensing table to display.
+**3. Saknad verkningsmekanism (datalucka DG002 — hög)**
+Utan bekräftade verkningsmekanismdata från DrugBank kan det mekanistiska rimlighetsresonemang som bär upp avsnittet ”Varför är denna förutsägelse rimlig?” inte byggas upp.
 
 ---
 
-## Safety Considerations
+## Marknadsinformation Sverige
 
-All safety fields (key warnings, contraindications, drug interactions) returned no data in this Evidence Pack. Please refer to the approved package insert for safety information once it has been retrieved.
+Inga godkännanden är registrerade i Sverige för LEVOSIMENDAN. Det finns ingen godkännandetabell att visa.
 
 ---
 
-## Conclusion and Next Steps
+## Säkerhetsaspekter
 
-**Decision: Hold**
+Alla säkerhetsfält (viktiga varningar, kontraindikationer, läkemedelsinteraktioner) gav inga data i detta underlag. Se den godkända produktresumén för säkerhetsinformation när den har hämtats.
 
-**Rationale:**
-The Evidence Pack for LEVOSIMENDAN is structurally incomplete: the TxGNN model has not produced a repurposing prediction, and two data gaps (missing safety data and missing MOA) have been flagged as Blocking / High severity. No repurposing recommendation can be made until these inputs are available.
+---
 
-**To proceed, the following is needed:**
+## Slutsats och nästa steg
 
-- [ ] **Re-run TxGNN inference** for DB00922 and populate `predicted_indications` with at least one scored disease candidate
-- [ ] **Retrieve TFDA (or EMA/FIMEA) package insert** — extract warnings and contraindications to resolve DG001 *(Blocking)*
-- [ ] **Query DrugBank API** for MOA data to resolve DG002 *(High)* — enables mechanistic plausibility analysis
-- [ ] **Re-run DDI lookup** once MOA is confirmed — current query returned `not_found`
-- [ ] **Confirm Sweden regulatory pathway** — if Simdax or a generic is approved elsewhere in the EU, assess mutual-recognition applicability
+**Beslut: Avvakta**
 
-Once these four items are resolved, re-submit the updated Evidence Pack for a full L1–L5 evaluation.
+**Motivering:**
+Underlaget för LEVOSIMENDAN är strukturellt ofullständigt: TxGNN-modellen har inte gett någon repositioneringsförutsägelse, och två dataluckor (saknade säkerhetsdata och saknad verkningsmekanism) har flaggats som blockerande respektive hög allvarlighetsgrad. Ingen rekommendation om repositionering kan ges förrän dessa uppgifter finns tillgängliga.
+
+**För att gå vidare krävs:**
+
+- [ ] **Kör om TxGNN-inferensen** för DB00922 och fyll `predicted_indications` med minst en poängsatt sjukdomskandidat
+- [ ] **Hämta produktresumén från TFDA (eller EMA/FIMEA)** — extrahera varningar och kontraindikationer för att åtgärda DG001 *(blockerande)*
+- [ ] **Fråga DrugBanks API** efter verkningsmekanismdata för att åtgärda DG002 *(hög)* — möjliggör analys av mekanistisk rimlighet
+- [ ] **Kör om sökningen efter läkemedelsinteraktioner** när verkningsmekanismen är bekräftad — den nuvarande sökningen gav `not_found`
+- [ ] **Bekräfta den svenska regulatoriska vägen** — om Simdax eller ett generiskt preparat är godkänt någon annanstans i EU, bedöm om ömsesidigt erkännande är tillämpligt
+
+När dessa fyra punkter är åtgärdade, skicka in det uppdaterade underlaget för en fullständig L1–L5-bedömning.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

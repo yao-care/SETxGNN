@@ -36,13 +36,12 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 ## Dapagliflozin
 {: .text-alpha }
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
+| Post | Innehåll |
 |------|------|
-| Original Indication | Inte angiven i de lokala uppgifterna |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 19 av 19) |
-| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Antal godkännanden | 19 (giltiga: 19) |
 
 ## Ansvarsfriskrivning

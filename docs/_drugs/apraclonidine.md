@@ -66,7 +66,7 @@ TxGNN-modellens kandidater för Apraclonidine består uteslutande av redan känd
 |------|
 | Inga |
 
-## Market information
+## Marknadsinformation Sverige
 
 | Godkännande | Produkt | Läkemedelsform | Status |
 |------|------|------|------|

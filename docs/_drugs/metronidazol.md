@@ -36,11 +36,11 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 ## Metronidazol
 {: .text-alpha }
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
+| Post | Innehåll |
 |------|---------|
-| Original Indication | Inte angiven i de lokala uppgifterna |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 13 av 13) |
 | Antal godkännanden | 13 (giltiga: 13) |
 

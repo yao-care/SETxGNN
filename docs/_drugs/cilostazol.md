@@ -36,15 +36,14 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 ## Cilostazol
 {: .text-alpha }
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
+| Post | Innehåll |
 |------|------|
-| Drug (INN) | CILOSTAZOL |
+| Läkemedelsnamn (INN) | CILOSTAZOL |
 | DrugBank ID | DB01166 |
-| Original Indication | Inte angiven i de lokala uppgifterna |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
-| Taiwan Market Status | ❌ Not marketed (Not marketed) |
 | Antal godkännanden | 1 (giltiga: 1) |
 
 ---

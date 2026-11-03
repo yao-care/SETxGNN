@@ -38,13 +38,12 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 ## Letrozol
 {: .text-alpha }
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
+| Post | Innehåll |
 |------|---------|
-| Original Indication | Inte angiven i de lokala uppgifterna |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
-| Taiwan Market Status | Not marketed（授權數：0） |
 | Antal godkännanden | 10 (giltiga: 10) |
 
 ---

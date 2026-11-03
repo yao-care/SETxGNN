@@ -66,7 +66,7 @@ Alla kandidater som TxGNN-modellen (score ≥ 0,99) har tagit fram för Pilocarp
 |------|
 | Inga |
 
-## Market information
+## Marknadsinformation Sverige
 
 | Godkännande | Produkt | Läkemedelsform | Status |
 |------|------|------|------|

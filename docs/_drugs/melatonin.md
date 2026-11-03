@@ -36,13 +36,12 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 ## Melatonin
 {: .text-alpha }
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
+| Post | Innehåll |
 |------|---------|
-| Original Indication | Inte angiven i de lokala uppgifterna |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
-| Taiwan Market Status | Not marketed |
 | Antal godkännanden | minst 20 |
 
 ---

@@ -3,7 +3,7 @@ noindex: true
 sitemap: false
 layout: default
 title: Linagliptin
-parent: 僅模型預測 (L5)
+parent: Endast modellprediktion (L5)
 nav_order: 81
 evidence_level: L5
 indication_count: 0
@@ -33,83 +33,83 @@ Evidensnivå: **L5** | Förutsagda indikationer: **0** st
 
 </div>
 
-## Linagliptin: Type 2 Diabetes Drug — No Repurposing Candidates Identified
+## Linagliptin: Läkemedel mot typ 2-diabetes — inga repositioneringskandidater identifierade
 {: .text-alpha }
 
 ---
 
-## One-Sentence Summary
+## Sammanfattning
 
-Linagliptin (DB08882) is a well-established DPP-4 inhibitor originally approved for the management of Type 2 Diabetes Mellitus. However, the TxGNN model returned **no predicted new indications** for this drug in the current evidence pack. Evaluation cannot proceed to indication-level analysis until the prediction pipeline is re-run and evidence data is populated.
+Linagliptin (DB08882) är en väletablerad DPP-4-hämmare som ursprungligen godkändes för behandling av typ 2-diabetes. TxGNN-modellen gav dock **inga förutsagda nya indikationer** för detta läkemedel i det nuvarande underlaget. Bedömningen kan inte gå vidare till analys på indikationsnivå förrän förutsägelseflödet har körts om och evidensdata har fyllts i.
 
 ---
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
+| Post | Innehåll |
 |------|---------|
-| Original Indication | Type 2 Diabetes Mellitus (DPP-4 inhibitor class) |
-| Predicted New Indication | None identified (predicted_indications: empty) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — Model prediction only; no output returned |
+| Ursprunglig indikation | Typ 2-diabetes (DPP-4-hämmarklassen) |
+| Förutsagd ny indikation | Ingen identifierad (predicted_indications: tom) |
+| TxGNN-förutsägelsepoäng | Ej tillämpligt |
+| Evidensnivå | L5 — endast modellprediktion; inget resultat returnerades |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 13 av 13) |
 | Antal godkännanden | 13 (giltiga: 13) |
-| Recommended Decision | **Hold** |
+| Rekommenderat beslut | **Avvakta** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Varför är denna förutsägelse rimlig?
 
-No repurposing prediction is available from the current Evidence Pack. The `predicted_indications` array is empty, which means the TxGNN model either did not produce a ranked output for Linagliptin, or the pipeline did not complete successfully for this candidate.
+Ingen repositioneringsförutsägelse finns i det nuvarande underlaget. Fältet `predicted_indications` är tomt, vilket betyder att TxGNN-modellen antingen inte gav någon rankad utdata för Linagliptin, eller att flödet inte slutfördes för denna kandidat.
 
-Mechanism of action data is also marked as a data gap. Based on class-level knowledge, Linagliptin is a selective, competitive inhibitor of dipeptidyl peptidase-4 (DPP-4), which prolongs the action of incretin hormones (GLP-1 and GIP) to stimulate glucose-dependent insulin secretion. Whether this mechanism could translate to other indications (e.g., non-alcoholic fatty liver disease, heart failure, renal protection) is a plausible hypothesis explored in published literature — but **no model-based prediction is currently available to evaluate**.
+Även data om verkningsmekanism är markerade som en datalucka. Utifrån kunskap om läkemedelsklassen är Linagliptin en selektiv, kompetitiv hämmare av dipeptidylpeptidas-4 (DPP-4), som förlänger verkan av inkretinhormonerna (GLP-1 och GIP) och därmed stimulerar glukosberoende insulinfrisättning. Huruvida denna mekanism kan överföras till andra indikationer (t.ex. icke-alkoholisk fettleversjukdom, hjärtsvikt, njurskydd) är en rimlig hypotes som har undersökts i publicerad litteratur — men **det finns för närvarande ingen modellbaserad förutsägelse att bedöma**.
 
-Without a prediction from TxGNN, this report cannot perform indication-level reasoning, clinical trial mapping, or literature linkage.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered — no predicted indication to map evidence against.
+Utan en förutsägelse från TxGNN kan denna rapport inte göra resonemang på indikationsnivå, kartläggning av kliniska prövningar eller koppling till litteratur.
 
 ---
 
-## Literature Evidence
+## Kliniska prövningar
 
-Currently no related literature available — no predicted indication to anchor a literature review.
-
----
-
-## Sweden Market Information
-
-No authorizations on record in the current dataset. The query against TFDA (query ID: 1) returned 0 results, and no license records are present in `taiwan_regulatory.licenses`.
-
-> **Note:** Linagliptin is commercially available in multiple markets under brand names such as Tradjenta (Boehringer Ingelheim / Eli Lilly). The absence of records here may reflect a data gap in the current pipeline run rather than a genuine market absence. Cross-verification with MPA (Swedish Medical Products Agency) and TFDA databases is recommended.
+Inga relaterade kliniska prövningar registrerade för närvarande — det finns ingen förutsagd indikation att koppla evidens till.
 
 ---
 
-## Safety Considerations
+## Litteraturbevis
 
-Please refer to the package insert for safety information.
-
-> All safety fields (key warnings, contraindications, drug interactions) returned as data gaps or empty in this evidence pack. The DDI query returned `not_found` with 0 interactions recorded.
+Ingen relaterad litteratur tillgänglig för närvarande — det finns ingen förutsagd indikation att förankra en litteraturgenomgång i.
 
 ---
 
-## Conclusion and Next Steps
+## Marknadsinformation Sverige
 
-**Decision: Hold**
+Inga godkännanden registrerade i det nuvarande datasetet. Sökningen mot TFDA (sök-ID: 1) gav 0 resultat, och inga godkännandeposter finns i `taiwan_regulatory.licenses`.
 
-**Rationale:**
-The TxGNN prediction pipeline returned no candidate indications for Linagliptin, making it impossible to evaluate repurposing feasibility. No scoring, evidence triangulation, or safety mapping can be completed at this stage.
+> **Obs:** Linagliptin finns kommersiellt tillgängligt på flera marknader under varumärken som Tradjenta (Boehringer Ingelheim / Eli Lilly). Att poster saknas här kan bero på en datalucka i den aktuella körningen snarare än på att läkemedlet faktiskt saknas på marknaden. Korskontroll mot databaserna hos Läkemedelsverket (MPA) och TFDA rekommenderas.
 
-**To proceed, the following is needed:**
+---
 
-- **Re-run TxGNN prediction pipeline** for DB08882 and verify that `predicted_indications` is populated with at least one scored candidate
-- **Retrieve MOA data** from DrugBank API (data gap DG002) to enable mechanism-to-indication reasoning
-- **Retrieve TFDA package insert warnings and contraindications** (data gap DG001, currently blocking S1 safety screening)
-- **Verify market status** against MPA (Sweden) and TFDA (Taiwan) directly — the current record of 0 authorizations is inconsistent with known global availability
-- **Re-run DDI query** using an alternative source (e.g., DrugBank interactions endpoint or Drugs@FDA) since the current query returned `not_found`
+## Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
+
+> Alla säkerhetsfält (viktiga varningar, kontraindikationer, läkemedelsinteraktioner) returnerades som dataluckor eller tomma i detta underlag. Sökningen efter läkemedelsinteraktioner gav `not_found` med 0 registrerade interaktioner.
+
+---
+
+## Slutsats och nästa steg
+
+**Beslut: Avvakta**
+
+**Motivering:**
+TxGNN-förutsägelseflödet gav inga kandidatindikationer för Linagliptin, vilket gör det omöjligt att bedöma möjligheten till repositionering. Ingen poängsättning, evidenstriangulering eller säkerhetskartläggning kan genomföras i detta skede.
+
+**För att gå vidare krävs:**
+
+- **Kör om TxGNN-förutsägelseflödet** för DB08882 och kontrollera att `predicted_indications` innehåller minst en poängsatt kandidat
+- **Hämta verkningsmekanismdata** från DrugBanks API (datalucka DG002) för att möjliggöra resonemang från mekanism till indikation
+- **Hämta varningar och kontraindikationer ur TFDA:s produktresumé** (datalucka DG001, blockerar för närvarande säkerhetsscreening S1)
+- **Verifiera marknadsstatus** direkt mot Läkemedelsverket (MPA, Sverige) och TFDA (Taiwan) — den nuvarande uppgiften om 0 godkännanden stämmer inte med känd global tillgänglighet
+- **Kör om sökningen efter läkemedelsinteraktioner** med en alternativ källa (t.ex. DrugBanks interaktionsendpoint eller Drugs@FDA), eftersom den nuvarande sökningen gav `not_found`
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -36,18 +36,14 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 
 </div>
 
-Now I have all the context I need. The Evidence Pack's `predicted_indications` is empty, but the project's FHIR data shows a TxGNN prediction for "blast phase chronic myelogenous leukemia, BCR-ABL1 positive" with a score of 0.5. Let me generate the report.
-
----
-
 ## Bosutinib
 {: .text-alpha }
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
+| Post | Innehåll |
 |------|------|
-| Original Indication | Inte angiven i de lokala uppgifterna |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
 | Antal godkännanden | 9 (giltiga: 9) |
 

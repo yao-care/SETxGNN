@@ -36,15 +36,14 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 ## Apremilast
 {: .text-alpha }
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
+| Post | Innehåll |
 |------|------|
-| Drug Name (INN) | Apremilast |
+| Läkemedelsnamn (INN) | Apremilast |
 | DrugBank ID | DB05676 |
-| Original Indication | Inte angiven i de lokala uppgifterna |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 19) |
-| Taiwan Market Status | ✗ Not marketed |
 | Antal godkännanden | minst 20 |
 
 ## Ansvarsfriskrivning

@@ -35,20 +35,15 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 
 </div>
 
-Based on the Evidence Pack, I'll generate the report. Note that this is a data-sparse case: no TxGNN predicted indications, no Taiwan market presence, and several data gaps. I'll leverage my pharmacological knowledge of Anidulafungin to supplement.
-
----
-
 ## Anidulafungin
 {: .text-alpha }
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
+| Post | Innehåll |
 |------|------|
-| Original Indication | Inte angiven i de lokala uppgifterna |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
-| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Antal godkännanden | 4 (giltiga: 4) |
 
 ## Ansvarsfriskrivning

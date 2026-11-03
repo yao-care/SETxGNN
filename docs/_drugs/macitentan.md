@@ -36,13 +36,12 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 ## Macitentan
 {: .text-alpha }
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
+| Post | Innehåll |
 |------|---------|
-| Original Indication | Inte angiven i de lokala uppgifterna |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 11 av 11) |
-| Taiwan Market Status | Not marketed |
 | Antal godkännanden | 11 (giltiga: 11) |
 
 ---

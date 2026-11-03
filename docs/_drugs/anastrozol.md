@@ -36,13 +36,12 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 ## Anastrozol
 {: .text-alpha }
 
-## Quick Overview
+## Snabböversikt
 
-| Item | Content |
+| Post | Innehåll |
 |------|------|
-| Original Indication | Inte angiven i de lokala uppgifterna |
+| Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
-| Taiwan Market Status | ✗ Not marketed |
 | Antal godkännanden | 8 (giltiga: 8) |
 
 ## Ansvarsfriskrivning
