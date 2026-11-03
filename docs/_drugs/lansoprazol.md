@@ -22,7 +22,7 @@ evidence_level: N/A
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 14 av 14) |
 | Antal godkännanden | 14 (giltiga: 14) |
 | DrugBank ID | [DB00448](https://go.drugbank.com/drugs/DB00448) |
-| Antal förutsagda indikationer | 9 |
+| Nya förutsagda indikationer | Inga |
 
 ## Ansvarsfriskrivning
 
