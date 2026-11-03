@@ -36,6 +36,8 @@ Listan bygger på registreringsdata från [MPA](https://www.lakemedelsverket.se/
 
 <!-- local-home:end -->
 
+Urval: [Läkemedel i Sverige med evidens från kliniska prövningar för en ny indikation]({{ '/clinical-trial-evidence/' | relative_url }}) (L1–L2, med förutsagd indikation och antal citerade registrerade prövningar).
+
 ## Fördelning av evidensnivåer
 
 | Evidensnivå | Läkemedel | Beskrivning |

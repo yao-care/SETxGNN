@@ -12,6 +12,8 @@ description: "Kandidater för läkemedelsrepositionering med L1-L2 i SETxGNN, so
 Kandidater som kan prioriteras för klinisk utvärdering
 </p>
 
+Vilka av dessa läkemedel har evidens från prövningar för sin förutsagda nya indikation, och hur många registrerade prövningar citeras? Se [Läkemedel i Sverige med evidens från kliniska prövningar för en ny indikation]({{ '/clinical-trial-evidence/' | relative_url }}).
+
 ---
 
 ## Kriterier
