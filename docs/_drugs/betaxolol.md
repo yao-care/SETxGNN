@@ -5,7 +5,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 58
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 description: "Betaxolol: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 TxGNN-modellen (djupinlärning, poäng ≥ 0,99) har genererat kandidater för Betaxolol. Alla kandidater som kan spåras till en källa är redan kända användningar. Det finns därför för närvarande ingen ny förutsagd indikation för detta läkemedel.
 
 ## Snabböversikt
+
 | Punkt | Innehåll |
 |------|------|
 | Nya förutsagda indikationer | Inga (alla spårbara modellkandidater är kända användningar) |
@@ -52,16 +53,19 @@ TxGNN-modellen (djupinlärning, poäng ≥ 0,99) har genererat kandidater för B
 ## Kända användningar bland modellens kandidater
 
 ### Godkända (stöds av licens eller produktresumé)
+
 | Indikation | Källa |
 |------|------|
 | Inga | Inga |
 
 ### Relaterade till en godkänd indikation (samma sjukdomskategori)
+
 | Indikation | Godkänd kategori |
 |------|------|
 | Inga | Inga |
 
 ### Samband registrerade i kunskapsgrafen (inget godkännande hittat)
+
 | Indikation |
 |------|
 | Inga |

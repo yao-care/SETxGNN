@@ -5,7 +5,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 417
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Teriflunomide: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 Alla kandidater som TxGNN-modellen (poäng ≥ 0,99) har tagit fram för Teriflunomide och som går att spåra till en källa är redan kända användningar. Det finns därför för närvarande ingen ny predicerad indikation för detta läkemedel. Sidan visar de kända användningarna bland modellens kandidater samt marknadsstatus i Sverige.
 
 ## Snabböversikt
+
 | Punkt | Innehåll |
 |------|------|
 | Nya predicerade indikationer | Inga (alla spårbara modellkandidater är kända användningar) |
@@ -52,16 +53,19 @@ Alla kandidater som TxGNN-modellen (poäng ≥ 0,99) har tagit fram för Teriflu
 ## Kända användningar bland modellens kandidater
 
 ### Godkända (stöds av godkännande eller produktresumé)
+
 | Indikation | Källa |
 |------|------|
 | skovvis förlöpande multipel skleros (relapsing-remitting multiple sclerosis) | godkännande i ett annat land; godkänd indikation: multiple sclerosis |
 
 ### Relaterade till en godkänd indikation (samma sjukdomskategori)
+
 | Indikation | Godkänd kategori |
 |------|------|
 | Ingen | – |
 
 ### Relationer registrerade i kunskapsgrafen (inget godkännande hittat)
+
 | Indikation |
 |------|
 | Ingen |

@@ -5,7 +5,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 66
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Brinzolamide: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 Alla kandidater som TxGNN-modellen (score ≥ 0,99) föreslår för Brinzolamide och som kan spåras till en källa är redan kända användningar. Därför finns för närvarande ingen ny förutsagd indikation för detta läkemedel. Sidan visar vilka kända användningar som återfinns bland modellens kandidater.
 
 ## Snabböversikt
+
 | Post | Innehåll |
 |------|------|
 | Nya förutsagda indikationer | Inga (alla spårbara modellkandidater är kända användningar) |
@@ -52,16 +53,19 @@ Alla kandidater som TxGNN-modellen (score ≥ 0,99) föreslår för Brinzolamide
 ## Kända användningar bland modellens kandidater
 
 ### Godkända (stöd i licens eller produktresumé)
+
 | Indikation | Källa |
 |------|------|
 | primär ärftlig glaukom (primary hereditary glaucoma) | Licens i ett annat land; godkänd indikation: glaucoma |
 
 ### Relaterade till en godkänd indikation (samma sjukdomskategori)
+
 | Indikation | Godkänd kategori |
 |------|------|
 | Ingen | – |
 
 ### Relationer registrerade i kunskapsgrafen (inget godkännande hittat)
+
 | Indikation |
 |------|
 | Ingen |

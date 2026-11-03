@@ -5,7 +5,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 38
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Apraclonidine: known uses and market status in Sweden; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 TxGNN-modellens kandidater för Apraclonidine består uteslutande av redan kända användningsområden. Därför finns för närvarande ingen ny förutsagd indikation för detta läkemedel. Sidan visar marknadsstatus i Sverige samt vilka kända användningsområden som modellen har identifierat.
 
 ## Snabböversikt
+
 | Punkt | Innehåll |
 |------|------|
 | Nya förutsagda indikationer | Inga (alla spårbara modellkandidater är kända användningsområden) |
@@ -52,16 +53,19 @@ TxGNN-modellens kandidater för Apraclonidine består uteslutande av redan känd
 ## Kända användningsområden bland modellens kandidater
 
 ### Godkända (stödda av godkännande eller produktresumé)
+
 | Indikation | Källa |
 |------|------|
 | Inga | – |
 
 ### Relaterade till en godkänd indikation (samma sjukdomskategori)
+
 | Indikation | Godkänd kategori |
 |------|------|
 | Inga | – |
 
 ### Samband registrerade i kunskapsgrafen (inget godkännande hittat)
+
 | Indikation |
 |------|
 | Inga |

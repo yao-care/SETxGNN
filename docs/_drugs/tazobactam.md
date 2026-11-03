@@ -5,7 +5,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 412
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Tazobactam: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 Alla kandidater som TxGNN-modellen (poäng ≥ 0,99) har tagit fram för Tazobactam motsvarar redan kända användningar. Det finns därför för närvarande ingen ny förutsagd indikation. Sidan visar vilka kända användningar som återfinns bland modellens kandidater och hur de är underbyggda.
 
 ## Snabböversikt
+
 | Punkt | Innehåll |
 |------|------|
 | Nya förutsagda indikationer | Inga (alla spårbara modellkandidater är kända användningar) |
@@ -52,16 +53,19 @@ Alla kandidater som TxGNN-modellen (poäng ≥ 0,99) har tagit fram för Tazobac
 ## Kända användningar bland modellens kandidater
 
 ### Godkända (stöds av godkännande eller produktresumé)
+
 | Indikation | Källa |
 |------|------|
 | Pneumoni (pneumonia) | Godkännande i ett annat land; godkänd indikation: hospital-acquired pneumonia (hap), including ventilator associated pneumonia (vap). consideration should be given to official guidance on the appropriate use of antibacterial agents |
 
 ### Relaterade till en godkänd indikation (samma sjukdomskategori)
+
 | Indikation | Godkänd kategori |
 |------|------|
 | Urinvägsinfektion (urinary tract infection (disease)) | urinary tract infection |
 
 ### Samband registrerade i kunskapsgrafen (inget godkännande hittat)
+
 | Indikation |
 |------|
 | Inga |

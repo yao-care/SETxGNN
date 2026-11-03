@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 214
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "endometrial mixed adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
 description: "Gemcitabine: predikterad ny indikation Rectum mucinous adenocarcinoma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -164,6 +164,7 @@ Modellen förutsäger även andra indikationer. Evidensen för dessa är svagare
 | Kolon mucinös adenokarcinom | 0,9976 | L5, endast fallrapporter |
 | Cervikal mucinös adenokarcinom | 0,9975 | L5, indirekt evidens |
 | Gallblåsa mucinös adenokarcinom | 0,9975 | L5, fallrapporter |
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

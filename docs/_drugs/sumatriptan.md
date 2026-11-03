@@ -5,7 +5,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 406
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Sumatriptan: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 Alla kandidater som TxGNN-modellen (poäng ≥ 0,99) har tagit fram för Sumatriptan är redan kända användningar. Det finns därför för närvarande ingen ny predikterad indikation. Kandidaterna nedan visar hur de kända användningarna är belagda.
 
 ## Snabböversikt
+
 | Punkt | Innehåll |
 |------|------|
 | Nya predikterade indikationer | Inga (alla spårbara modellkandidater är kända användningar) |
@@ -52,16 +53,19 @@ Alla kandidater som TxGNN-modellen (poäng ≥ 0,99) har tagit fram för Sumatri
 ## Kända användningar bland modellens kandidater
 
 ### Godkända (stöds av licens eller produktresumé)
+
 | Indikation | Källa |
 |------|------|
 | migrän med hjärnstammsaura (migraine with brainstem aura) | licens i ett annat land; godkänd indikation: migraine |
 
 ### Relaterade till en godkänd indikation (samma sjukdomskategori)
+
 | Indikation | Godkänd kategori |
 |------|------|
 | Inga | Inga |
 
 ### Samband som TxGNN-modellen (djupinlärning) har lärt sig (inget godkännande hittat) – kan spegla likheter mellan relaterade sjukdomar, inte biologiskt belägg
+
 | Indikation |
 |------|
 | Inga |

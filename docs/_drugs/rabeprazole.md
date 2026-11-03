@@ -5,7 +5,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 373
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Rabeprazole: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 TxGNN-modellens kandidater för Rabeprazole (poäng ≥ 0,99) är alla redan kända användningar. Därför finns det för närvarande ingen ny predicerad indikation. Poängen kommer från TxGNN-modellen (deep learning) och kan spegla likheter som modellen lärt sig mellan relaterade sjukdomar, inte biologiska belägg.
 
 ## Snabböversikt
+
 | Punkt | Innehåll |
 |------|------|
 | Nya predicerade indikationer | Inga (alla spårbara modellkandidater är kända användningar) |
@@ -52,16 +53,19 @@ TxGNN-modellens kandidater för Rabeprazole (poäng ≥ 0,99) är alla redan kä
 ## Kända användningar bland modellens kandidater
 
 ### Godkända (stöds av licens eller produktresumé)
+
 | Indikation | Källa |
 |------|------|
 | Inga | – |
 
 ### Relaterade till en godkänd indikation (samma sjukdomskategori)
+
 | Indikation | Godkänd kategori |
 |------|------|
 | Inga | – |
 
 ### Relationer registrerade i kunskapsgrafen (inget godkännande hittat)
+
 | Indikation |
 |------|
 | Smoldering systemisk mastocytos (Smouldering systemic mastocytosis) |

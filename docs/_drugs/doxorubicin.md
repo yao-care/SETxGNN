@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 151
 evidence_level: L1
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
 description: "Doxorubicin: predikterad ny indikation Ewing sarcoma (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -167,6 +167,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 | 8 | Parameningeal embryonal rabdomyosarkom | L5 | Avvakta |
 | 9 | Rabdomyosarkom | L1 | Gå vidare med försiktighet |
 | 10 | Ganglioneuroblastom | L4 | Avvakta |
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

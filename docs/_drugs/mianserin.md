@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 291
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "mianserin"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "neurotic disorder"]
 description: "Mianserin: predikterad ny indikation Benign paroxysmal torticollis of infancy (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -114,6 +114,7 @@ Andra förutsägelser har starkare litteraturstöd, men de ligger nära mianseri
 |------|------|------|------|
 | Dysthymi | 0,9940 | L5 | Endast metaanalys på läkemedelsklassnivå |
 | Agorafobi | 0,9940 | L5 | Ingen direkt evidens för mianserin |
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
