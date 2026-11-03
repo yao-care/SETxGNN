@@ -38,13 +38,13 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 ---
 
-### Sammanfattning
+## Sammanfattning
 
-Rifabutin är ett antibiotikum i rifamycingruppen och marknadsförs i Sverige som hård kapsel. TxGNN-modellen förutsäger att det kan vara effektivt mot **HIV-infektion (HIV infectious disease)**. Underlaget består av **35 kliniska prövningar** och **20 publikationer**. Ingen av dem behandlar själva HIV-infektionen: de rör mykobakteriella infektioner hos personer med HIV, läkemedelsinteraktioner med antiretrovirala läkemedel och säkerhet. Evidensnivån är därför **L5**.
+Rifabutin är ett antimykobakteriellt läkemedel av rifamycintyp som hämmar bakteriell RNA-polymeras. TxGNN-modellen förutsäger att det kan vara effektivt mot **HIV-infektion (HIV infectious disease)**. Det finns **35 registrerade kliniska prövningar** och **20 publikationer** kopplade till förutsägelsen. Ingen av dem har dock studerat behandling av själva HIV-infektionen. Studierna gäller i stället mykobakteriella infektioner hos personer med HIV och läkemedelsinteraktioner med antiretrovirala läkemedel. Evidensnivån är därför **L5**.
 
 ---
 
-### Snabböversikt
+## Snabböversikt
 
 | Post | Innehåll |
 |------|------|
@@ -58,55 +58,55 @@ Rifabutin är ett antibiotikum i rifamycingruppen och marknadsförs i Sverige so
 
 ---
 
-### Varför är denna förutsägelse rimlig?
+## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Enligt allmänt känd information hämmar rifabutin det bakteriella DNA-beroende RNA-polymeraset (rpoB). Det är alltså ett antibakteriellt läkemedel och **inte** ett antiviralt läkemedel mot HIV.
+Rifabutin är inget anti-HIV-läkemedel. Det hämmar det bakteriella enzymet DNA-beroende RNA-polymeras (rpoB) och har ingen känd effekt på hiv-viruset. Någon detaljerad verkningsmekanismdata finns inte i det sammanställda underlaget, så beskrivningen bygger på läkemedlets kända farmakologi.
 
-Kopplingen till HIV går via de opportunistiska mykobakteriella infektioner som drabbar personer med HIV, främst Mycobacterium avium-komplex (MAC) och tuberkulos. Rifabutin är en svagare inducerare av CYP3A än rifampicin och kan därför vara lättare att kombinera med proteashämmare, men dosjustering behövs fortfarande. Den höga modellpoängen speglar sannolikt denna nära koppling i vårdsammanhang och inte någon effekt på själva viruset.
-
-Underlaget stöder användning vid HIV-associerade mykobakteriella sjukdomar. Det visar inte att rifabutin behandlar HIV-infektion.
+Kopplingen till HIV går via de mykobakteriella infektioner som drabbar personer med nedsatt immunförsvar, som tuberkulos och infektion med *Mycobacterium avium*-komplex (MAC). Rifabutin är en svagare inducerare av enzymet CYP3A än rifampicin. Därför går det lättare att kombinera med proteashämmare inom antiretroviral behandling, men dosjustering behövs fortfarande. Modellens höga poäng speglar sannolikt denna starka samförekomst i HIV-vården. Den visar inte att läkemedlet har effekt mot själva HIV-infektionen.
 
 ---
 
-### Kliniska prövningar
+## Kliniska prövningar
 
-De tio mest relevanta av 35 identifierade prövningar visas nedan. Ingen av dem har HIV-infektionen själv som behandlat tillstånd.
+Prövningarna nedan är de mest relevanta av 35 registrerade. Alla gäller populationer med HIV, men ingen prövar rifabutin som behandling av HIV-infektionen.
 
 | Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
 |---------|------|------|------|---------|
-| [NCT00002101](https://clinicaltrials.gov/study/NCT00002101) | Fas 3 | Avslutad | 450 | Tre armar: klaritromycin/etambutol med placebo eller rifabutin i två doser vid MAC-bakteremi hos personer med AIDS. Primärt mått var minskning av bakterietal. |
-| [NCT00001047](https://clinicaltrials.gov/study/NCT00001047) | Fas 3 | Avslutad | 400 | Jämförelse av fyra regimer vid spridd MAC-sjukdom vid AIDS (klaritromycin i två doser med etambutol och rifabutin eller klofazimin). |
-| [NCT00001995](https://clinicaltrials.gov/study/NCT00001995) | Ej angiven | Avslutad | 200 | Dubbelblind randomiserad prövning av en rifabutinregim vid MAC-bakteremi hos personer med AIDS. |
-| [NCT00001030](https://clinicaltrials.gov/study/NCT00001030) | Fas 3 | Avslutad | 1 100 | Klaritromycin, rifabutin eller båda för att förebygga MAC-bakteremi hos HIV-infekterade med CD4 ≤100. |
-| [NCT00002122](https://clinicaltrials.gov/study/NCT00002122) | Fas 3 | Avslutad | 720 | Azitromycin och rifabutin, enskilt och i kombination, för att förebygga spridd MAC hos HIV-infekterade. |
-| [NCT00002267](https://clinicaltrials.gov/study/NCT00002267) | Ej angiven | Avslutad | 750 | Dubbelblind placebokontrollerad prövning av rifabutin som monoterapi för att förebygga MAC-bakteremi vid AIDS. |
-| [NCT00001058](https://clinicaltrials.gov/study/NCT00001058) | Fas 2 | Avslutad | 246 | Klaritromycinbaserade kombinationer med rifabutin och/eller etambutol vid spridd MAC-sjukdom vid AIDS. |
-| [NCT00651066](https://clinicaltrials.gov/study/NCT00651066) | Fas 2 | Avslutad | 47 | Farmakokinetik för rifabutin i kombination med antiretroviral behandling vid tuberkulos och HIV i Vietnam. |
-| [NCT00640887](https://clinicaltrials.gov/study/NCT00640887) | Fas 2 | Avslutad | 48 | Motsvarande farmakokinetikstudie i Sydafrika. |
-| [NCT00023361](https://clinicaltrials.gov/study/NCT00023361) | Ej angiven | Avslutad | 215 | Intermittent rifabutinbaserad regim vid HIV-relaterad tuberkulos. Primärt mått var behandlingssvikt och återfall. |
+| [NCT00002101](https://clinicaltrials.gov/study/NCT00002101) | Fas 3 | Avslutad | 450 | Jämför klaritromycin/etambutol med placebo eller rifabutin i två doser vid MAC-bakteriemi hos aidspatienter. |
+| [NCT00001047](https://clinicaltrials.gov/study/NCT00001047) | Fas 3 | Avslutad | 400 | Fyra behandlingsregimer vid spridd MAC-sjukdom vid aids, med klaritromycin plus etambutol och antingen rifabutin eller klofazimin. |
+| [NCT00001995](https://clinicaltrials.gov/study/NCT00001995) | Ej angiven | Avslutad | 200 | Dubbelblind randomiserad prövning av en rifabutinregim vid MAC-bakteriemi hos aidspatienter. |
+| [NCT00001030](https://clinicaltrials.gov/study/NCT00001030) | Fas 3 | Avslutad | 1 100 | Jämför klaritromycin, rifabutin och kombinationen för att förebygga MAC-bakteriemi hos hivinfekterade med låga CD4-tal. |
+| [NCT00001058](https://clinicaltrials.gov/study/NCT00001058) | Fas 2 | Avslutad | 246 | Randomiserad jämförelse av klaritromycinbaserade regimer, med rifabutin och/eller etambutol, vid spridd MAC-sjukdom hos aidspatienter. |
+| [NCT00651066](https://clinicaltrials.gov/study/NCT00651066) | Fas 2 | Avslutad | 47 | Rifabutins farmakokinetik tillsammans med antiretroviral behandling vid tuberkulos och HIV i Vietnam. |
+| [NCT00640887](https://clinicaltrials.gov/study/NCT00640887) | Fas 2 | Avslutad | 48 | Motsvarande farmakokinetisk studie i Sydafrika. |
+| [NCT00001023](https://clinicaltrials.gov/study/NCT00001023) | Ej angiven | Avslutad | 91 | Säkerhet, tolerans och farmakokinetik för rifabutin med klaritromycin respektive azitromycin hos hivinfekterade. |
+| [NCT00000877](https://clinicaltrials.gov/study/NCT00000877) | Fas 1 | Avslutad | 31 | Interaktionsstudie mellan indinavir och rifabutin, med samtidig eller förskjuten dosering. |
+| [NCT00023361](https://clinicaltrials.gov/study/NCT00023361) | Ej angiven | Avslutad | 215 | Intermittent rifabutinbaserad regim vid hivrelaterad tuberkulos, med behandlingssvikt och återfall som mått. |
 
 ---
 
-### Litteraturbevis
+## Litteraturbevis
 
-De tio mest relevanta av 20 publikationer visas nedan. Kohortstudier är prioriterade framför översikter.
+Ingen av publikationerna visar att rifabutin behandlar själva HIV-infektionen. De behandlar rifabutins roll vid hivassocierad tuberkulos och vid läkemedelsinteraktioner. Typ anges där den framgår av underlaget.
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [33294914](https://pubmed.ncbi.nlm.nih.gov/33294914/) | 2021 | Kohortstudie | J Antimicrob Chemother | Farmakokinetik och säkerhet för rifabutin hos barn med tuberkulos och HIV som får lopinavir/ritonavir. En tidigare studie avbröts i förtid på grund av svår neutropeni. |
-| [31139825](https://pubmed.ncbi.nlm.nih.gov/31139825/) | 2019 | Kohortstudie | J Antimicrob Chemother | Säkerhet och effekt av rifabutin hos barn med tuberkulos och HIV på lopinavir/ritonavir. Tidigare data visade behandlingsbegränsande neutropeni. |
-| [39037240](https://pubmed.ncbi.nlm.nih.gov/39037240/) | 2024 | Populationsfarmakokinetik | Antimicrob Agents Chemother | Doseringsoptimering av rifabutin hos barn med samtidig tuberkulos och HIV. |
-| [36385424](https://pubmed.ncbi.nlm.nih.gov/36385424/) | 2023 | Farmakokinetisk modell | Br J Clin Pharmacol | Interaktionen mellan rifabutin och dolutegravir. |
-| [21819645](https://pubmed.ncbi.nlm.nih.gov/21819645/) | 2012 | Översikt | Int J Tuberc Lung Dis | Rifabutin som alternativ till rifampicin vid samtidig behandling med proteashämmare. |
-| [8785257](https://pubmed.ncbi.nlm.nih.gov/8785257/) | 1996 | Översikt | Clin Infect Dis | Rifabutin vid tuberkulos, bland annat hos HIV-infekterade. I en pilotstudie hade rifabutin och rifampicin liknande effekt på sputumkonversion. |
-| [17181373](https://pubmed.ncbi.nlm.nih.gov/17181373/) | 2006 | Översikt | Drugs | Praktiskt behandlingsupplägg vid samtidig tuberkulos och HIV. |
-| [28233512](https://pubmed.ncbi.nlm.nih.gov/28233512/) | 2017 | Översikt | Microbiol Spectr | Samspelet mellan tuberkulos och HIV samt behandlingsprinciper. |
-| [9093233](https://pubmed.ncbi.nlm.nih.gov/9093233/) | 1997 | Översikt | Med Clin North Am | Icke-tuberkulösa mykobakteriella infektioner, framför allt MAC vid AIDS. |
-| [21418688](https://pubmed.ncbi.nlm.nih.gov/21418688/) | 2010 | Översikt | BMJ Clin Evid | Primär och sekundär profylax mot opportunistiska infektioner vid HIV. |
+| [33294914](https://pubmed.ncbi.nlm.nih.gov/33294914/) | 2021 | Kohortstudie | Journal of Antimicrobial Chemotherapy | Farmakokinetik och säkerhet för rifabutin hos barn med TB/HIV på lopinavir/ritonavir. En tidigare studie på barn avbröts i förtid på grund av svår neutropeni. |
+| [31139825](https://pubmed.ncbi.nlm.nih.gov/31139825/) | 2019 | Kohortstudie | Journal of Antimicrobial Chemotherapy | Säkerhet och effekt av rifabutin hos barn med TB/HIV. Tidigare data visade behandlingsbegränsande neutropeni hos två av sex barn. |
+| [21819645](https://pubmed.ncbi.nlm.nih.gov/21819645/) | 2012 | Översikt | Int J Tuberc Lung Dis | Rifabutin som alternativ till rifampicin vid samtidig behandling med proteashämmare, eftersom det påverkar proteashämmarnas koncentrationer föga. |
+| [17181373](https://pubmed.ncbi.nlm.nih.gov/17181373/) | 2006 | Översikt | Drugs | Praktiskt förhållningssätt till behandling av samtidig TB och HIV. Interaktioner via levercytokrom P450 begränsar kombinationerna. |
+| [28233512](https://pubmed.ncbi.nlm.nih.gov/28233512/) | 2017 | Översikt | Microbiology Spectrum | Sambandet mellan tuberkulos och HIV-infektion. |
+| [36385424](https://pubmed.ncbi.nlm.nih.gov/36385424/) | 2023 | Farmakokinetisk modellstudie | Br J Clin Pharmacol | Populationsmodell för interaktionen mellan rifabutin och dolutegravir. Rifabutin kan vara ett alternativ till rifampicin. |
+| [39037240](https://pubmed.ncbi.nlm.nih.gov/39037240/) | 2024 | Farmakokinetisk studie | Antimicrob Agents Chemother | Populationsfarmakokinetik och dosoptimering av rifabutin hos barn med TB/HIV på lopinavir/ritonavir. |
+| [8785257](https://pubmed.ncbi.nlm.nih.gov/8785257/) | 1996 | Översikt | Clin Infect Dis | Rifabutin vid lungtuberkulos, bland annat hos hivinfekterade patienter. |
+| [7736687](https://pubmed.ncbi.nlm.nih.gov/7736687/) | 1995 | Översikt | Clin Pharmacokinet | Rifabutins kliniska farmakokinetik. Läkemedlet har visat effekt som profylax mot spridd MAC-infektion hos hivpositiva patienter med låga CD4-tal. |
+| [11996607](https://pubmed.ncbi.nlm.nih.gov/11996607/) | 2002 | Översikt | Arch Intern Med | Uppdatering om läkemedelsinteraktioner med rifampicin och rifabutin, bland annat med hivrelaterade proteashämmare. |
 
 ---
 
-### Marknadsinformation Sverige
+## Marknadsinformation Sverige
+
+Rifabutin är marknadsfört i Sverige. Det finns ett giltigt godkännande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -114,26 +114,28 @@ De tio mest relevanta av 20 publikationer visas nedan. Kohortstudier är priorit
 
 ---
 
-### Säkerhetsaspekter
+## Säkerhetsaspekter
 
-- **Läkemedelsinteraktioner**: Totalt 100 interaktioner finns registrerade. Den enda med allvarlig (major) nivå bland de visade är **eliglustat**. Bland de viktigaste av måttlig nivå finns klaritromycin, doxycyklin, metronidazol, dexametason, hydrokortison, betametason, triamcinolon, morfin, pioglitazon, aprepitant, linagliptin, saxagliptin, klorpropamid och acetohexamid. Rifabutin kan också ändra koncentrationerna av antiretrovirala läkemedel, vilket de farmakokinetiska studierna ovan belyser.
-- **Observation från litteraturen**: Neutropeni har rapporterats hos barn som fick rifabutin tillsammans med lopinavir/ritonavir.
+- **Läkemedelsinteraktioner**: 100 interaktioner är registrerade. Den enda som klassas som allvarlig (Major) är **eliglustat**. Bland de måttliga (Moderate) finns doxycyklin, klaritromycin, metronidazol, hydrokortison, dexametason, betametason, triamcinolon, morfin, pioglitazon, aprepitant, saxagliptin, linagliptin, kolekalciferol, kalcitriol och kalcifediol. Dolasetron är en mindre (Minor) interaktion.
+- **Interaktioner med antiretrovirala läkemedel**: Rifabutin är en svagare enzyminducerare än rifampicin, men dosjustering behövs ändå vid kombination med proteashämmare och vissa andra hivläkemedel.
+- **Neutropeni hos barn**: Litteraturen beskriver behandlingsbegränsande neutropeni hos barn som fick rifabutin tillsammans med proteashämmare.
 
-För varningar och kontraindikationer, se produktresumén.
+Se i övrigt produktresumén för varningar och kontraindikationer.
 
 ---
 
-### Slutsats och nästa steg
+## Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Ingen studie i underlaget behandlar HIV-infektion med rifabutin. Underlaget gäller mykobakteriella infektioner hos personer med HIV och läkemedelsinteraktioner. Evidensnivån är därför L5, och rifabutin saknar känd antiviral verkan.
+- Förutsägelsen saknar stöd i studier som direkt gäller HIV-infektion. Befintliga studier rör mykobakteriella infektioner hos personer med HIV och läkemedelsinteraktioner, och rifabutin saknar känd antiviral verkan. Evidensnivån är därför L5.
 
 **För att gå vidare krävs:**
-- Visa en direkt antiviral effekt mot HIV, till exempel genom prekliniska studier, innan kliniska studier övervägs.
-- Komplettera verkningsmekanismdata och säkerhetsinformation från produktresumén (varningar och kontraindikationer).
-- Utvärdera interaktionsrisker och hematologisk säkerhet (neutropeni) vid samtidig antiretroviral behandling.
+- Prekliniska eller kliniska data som visar att rifabutin har effekt på hivreplikation, eller en tydlig motivering till varför en sådan effekt skulle finnas.
+- En omvärdering av om målet är HIV-infektion i sig eller hivassocierade mykobakteriella infektioner. Det senare är en annan frågeställning med annan evidens.
+- Kompletterande säkerhetsdata, särskilt om neutropeni och interaktioner med antiretrovirala läkemedel.
+- Granskning av produktresumén för säkerhetsinformation, eftersom varningar och kontraindikationer saknas i det sammanställda underlaget.
 
 ## Ansvarsfriskrivning
 

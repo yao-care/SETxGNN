@@ -40,7 +40,7 @@ Evidensnivå: **L2** | Förutsagda indikationer: **7** st
 
 ### Sammanfattning
 
-Docetaxel är ett cytostatikum av taxantyp som i Sverige finns som infusionskoncentrat. TxGNN-modellen förutsäger att docetaxel kan vara effektivt mot **Ewing-sarkom (Ewing sarcoma)**. Förutsägelsen stöds av flera fas 2-prövningar och en omfattande litteratur, främst om docetaxel i kombination med gemcitabin eller irinotekan vid återfall, vilket motsvarar evidensnivå **L2**.
+Docetaxel är ett cytostatikum av taxantyp som finns på den svenska marknaden som infusionskoncentrat. TxGNN-modellen förutsäger att det kan vara användbart mot **Ewing-sarkom (Ewing sarcoma)**. Förutsägelsen stöds av **8 kliniska prövningar** och **20 publikationer**, bland annat flera fas 2-studier av docetaxel i kombination med gemcitabin eller irinotekan vid återfall. Evidensnivån är **L2**.
 
 ---
 
@@ -60,11 +60,11 @@ Docetaxel är ett cytostatikum av taxantyp som i Sverige finns som infusionskonc
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Docetaxel tillhör dock taxanerna, som stabiliserar mikrotubuli och hindrar celldelning. Det ger cytotoxisk effekt i snabbt prolifererande tumörceller.
+Detaljerad data om verkningsmekanism finns för närvarande inte tillgänglig i det underlag som sammanställts. Docetaxel tillhör dock taxanerna, som stabiliserar mikrotubuli och hindrar celldelning. Det ger cytotoxisk effekt i snabbväxande tumörceller.
 
-Ewing-sarkom är en aggressiv, snabbväxande tumör i ben och mjukdelar. Vid återfall eller refraktär sjukdom är behandlingsalternativen få. Prekliniska och kliniska arbeten stöder sekventiell behandling med gemcitabin följt av docetaxel (synergistisk effekt), och kombinationen docetaxel plus irinotekan har också utvärderats.
+Ewing-sarkom är en aggressiv tumör i ben och mjukdelar med hög celldelningstakt, vilket gör den i teorin känslig för mikrotubuliriktade cytostatika. Prekliniska och kliniska arbeten stöder sekventiell behandling med gemcitabin följt av docetaxel (synergieffekt), och kombinationen docetaxel och irinotekan har också undersökts.
 
-Enbart docetaxel verkar ha begränsad effekt, så en eventuell användning är beroende av kombinationsbehandling.
+Enbart docetaxel verkar ha begränsad effekt, så nyttan är sannolikt beroende av kombinationsbehandling.
 
 ---
 
@@ -72,14 +72,14 @@ Enbart docetaxel verkar ha begränsad effekt, så en eventuell användning är b
 
 | Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
 |---------|------|------|------|---------|
-| [NCT00073983](https://clinicaltrials.gov/study/NCT00073983) | Fas 2 | Avslutad | 54 | Sekventiell gemcitabin följt av docetaxel vid återfall av Ewing-sarkom, osteosarkom eller kondrosarkom |
-| [NCT02511132](https://clinicaltrials.gov/study/NCT02511132) | Fas 2 | Avslutad | 22 | Vigil-immunterapi jämfört med gemcitabin och docetaxel vid metastaserad Ewing-sarkom |
-| [NCT03449901](https://clinicaltrials.gov/study/NCT03449901) | Fas 2 | Avslutad | 98 | ADI-PEG 20 med gemcitabin och docetaxel vid sarkom, bland annat Ewing-sarkom (blandade histologier) |
-| [NCT00002825](https://clinicaltrials.gov/study/NCT00002825) | Fas 2 | Avslutad | 20 | Docetaxel hos barn med återkommande solida tumörer; begränsad Ewing-specifik signal |
+| [NCT00073983](https://clinicaltrials.gov/study/NCT00073983) | Fas 2 | Avslutad | 54 | Gemcitabin följt av docetaxel vid recidiverande Ewing-sarkom, osteosarkom och kondrosarkom |
+| [NCT02511132](https://clinicaltrials.gov/study/NCT02511132) | Fas 2 | Avslutad | 22 | Vigil-immunterapi jämfört med gemcitabin och docetaxel vid metastaserande Ewing-sarkom |
+| [NCT03449901](https://clinicaltrials.gov/study/NCT03449901) | Fas 2 | Avslutad | 98 | ADI-PEG 20 med gemcitabin och docetaxel vid sarkom, blandade histologier |
 | [NCT00014456](https://clinicaltrials.gov/study/NCT00014456) | Fas 1 | Avslutad | 35 | Dosupptrappning av docetaxel, gemcitabin och filgrastim vid avancerade solida tumörer |
-| [NCT00049296](https://clinicaltrials.gov/study/NCT00049296) | Fas 1 | Avslutad | 26 | Farmakokinetik för talidomid plus docetaxel vid avancerad cancer |
-| [NCT05116800](https://clinicaltrials.gov/study/NCT05116800) | Fas 2 | Tillbakadragen | 0 | 9-ING-41 med gemcitabin/docetaxel vid sarkom; inga data |
-| [NCT04183062](https://clinicaltrials.gov/study/NCT04183062) | Fas 2 | Tillbakadragen | 0 | BIO-11006 med gemcitabin/docetaxel vid osteosarkom och Ewing-sarkom med lungmetastaser; inga data |
+| [NCT00002825](https://clinicaltrials.gov/study/NCT00002825) | Fas 2 | Avslutad | 20 | Docetaxel hos barn med recidiverande solida tumörer, begränsad Ewing-specifik signal |
+| [NCT00049296](https://clinicaltrials.gov/study/NCT00049296) | Fas 1 | Avslutad | 26 | Farmakokinetik för talidomid och docetaxel vid avancerad cancer |
+| [NCT05116800](https://clinicaltrials.gov/study/NCT05116800) | Fas 2 | Tillbakadragen | 0 | 9-ING-41 med gemcitabin och docetaxel vid sarkom, inga data |
+| [NCT04183062](https://clinicaltrials.gov/study/NCT04183062) | Fas 2 | Tillbakadragen | 0 | BIO-11006 med gemcitabin och docetaxel vid osteosarkom och Ewing-sarkom med lungmetastaser, inga data |
 
 ---
 
@@ -87,15 +87,15 @@ Enbart docetaxel verkar ha begränsad effekt, så en eventuell användning är b
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [22363068](https://pubmed.ncbi.nlm.nih.gov/22363068/) | 2012 | Fas 2-prövning | The Oncologist | Gemcitabin följt av docetaxel vid återfall av Ewing-sarkom, osteosarkom och kondrosarkom (SARC 003) |
-| [28787430](https://pubmed.ncbi.nlm.nih.gov/28787430/) | 2017 | Fas 2-prövning | British Journal of Cancer | GEIS-21: intensiv kemoterapi med gemcitabin och docetaxel vid nydiagnostiserad högrisk-Ewing-sarkom |
-| [25164234](https://pubmed.ncbi.nlm.nih.gov/25164234/) | 2014 | Fas 2-prövning | BMC Cancer | Docetaxel plus irinotekan hos barn och unga vuxna med återfall eller refraktär sjukdom |
-| [18521364](https://pubmed.ncbi.nlm.nih.gov/18521364/) | 2003 | Fas 2-studie | Sarcoma | Docetaxel vid återfall och refraktär Ewing-tumör (14 patienter) |
-| [18484657](https://pubmed.ncbi.nlm.nih.gov/18484657/) | 2008 | Kohortstudie | Cancer | Gemcitabin och docetaxel vid refraktär bensarkom hos barn och unga vuxna |
-| [22302783](https://pubmed.ncbi.nlm.nih.gov/22302783/) | 2012 | Kohortstudie | Pediatric Blood & Cancer | GEMDOX vid återfall och refraktära sarkom hos barn |
-| [19727011](https://pubmed.ncbi.nlm.nih.gov/19727011/) | 2009 | Retrospektiv studie | Journal of Pediatric Hematology/Oncology | Gemcitabin-docetaxel vid återfall eller refraktära sarkom hos barn |
-| [15117993](https://pubmed.ncbi.nlm.nih.gov/15117993/) | 2004 | Preklinisk/klinisk | Journal of Clinical Oncology | Laboratorie- och kliniska belägg för synergi vid sekventiell gemcitabin–docetaxel vid sarkom |
-| [32386107](https://pubmed.ncbi.nlm.nih.gov/32386107/) | 2020 | Fas 2-prövning | Pediatric Blood & Cancer | Gemcitabin plus nab-paklitaxel (annan taxan) vid återfall av Ewing-sarkom |
+| [22363068](https://pubmed.ncbi.nlm.nih.gov/22363068/) | 2012 | Fas 2-studie | The Oncologist | Gemcitabin följt av docetaxel vid recidiverande Ewing-sarkom, osteosarkom och kondrosarkom (SARC 003) |
+| [28787430](https://pubmed.ncbi.nlm.nih.gov/28787430/) | 2017 | Fas 2-studie | British Journal of Cancer | GEIS-21: intensiv kemoterapi med gemcitabin och docetaxel vid nydiagnostiserat högrisk-Ewing-sarkom |
+| [25164234](https://pubmed.ncbi.nlm.nih.gov/25164234/) | 2014 | Fas 2-studie | BMC Cancer | Docetaxel och irinotekan hos barn och unga vuxna med recidiverande eller refraktärt Ewing-sarkom |
+| [18521364](https://pubmed.ncbi.nlm.nih.gov/18521364/) | 2003 | Fas 2-studie | Sarcoma | Docetaxel vid återfallande och refraktära Ewing-tumörer (14 patienter) |
+| [18484657](https://pubmed.ncbi.nlm.nih.gov/18484657/) | 2008 | Kohortstudie | Cancer | Gemcitabin och docetaxel vid refraktärt skelettsarkom hos barn och unga vuxna |
+| [22302783](https://pubmed.ncbi.nlm.nih.gov/22302783/) | 2012 | Kohortstudie | Pediatric Blood & Cancer | GEMDOX vid recidiverande och refraktära pediatriska sarkom |
+| [19727011](https://pubmed.ncbi.nlm.nih.gov/19727011/) | 2009 | Studie | Journal of Pediatric Hematology/Oncology | Gemcitabin och docetaxel vid recidiverande eller refraktära pediatriska sarkom |
+| [15117993](https://pubmed.ncbi.nlm.nih.gov/15117993/) | 2004 | Prekliniskt/kliniskt | Journal of Clinical Oncology | Synergistisk cytotoxicitet vid sekventiell gemcitabin och docetaxel vid sarkom |
+| [32386107](https://pubmed.ncbi.nlm.nih.gov/32386107/) | 2020 | Fas 2-studie | Pediatric Blood & Cancer | Gemcitabin och nab-paklitaxel vid recidiverande Ewing-sarkom |
 | [28221727](https://pubmed.ncbi.nlm.nih.gov/28221727/) | 2017 | Erfarenhet från ett centrum | Pediatric Blood & Cancer | Docetaxel, bevacizumab och gemcitabin vid högriskssarkom hos ungdomar och unga vuxna |
 
 ---
@@ -115,22 +115,20 @@ Enbart docetaxel verkar ha begränsad effekt, så en eventuell användning är b
 | Post | Innehåll |
 |------|------|
 | Cytotoxicitetsklassificering | Konventionell cytotoxisk (taxan) |
-| Myelosuppressionsrisk | Hög; neutropeni, trombocytopeni och anemi finns bland de registrerade riskerna |
+| Myelosuppressionsrisk | Hög. Neutropeni och trombocytopeni är kända risker |
 | Emetogenicitetsklassificering | Låg till medel |
-| Övervakningspunkter | Blodstatus (neutrofiler, trombocyter, hemoglobin), leverfunktion inklusive bilirubin, perifer neuropati, vätskeretention |
-| Hanteringsskydd | Hantering enligt gällande föreskrifter för cytotoxiska läkemedel |
-
-Se produktresumén för fullständiga varningar och försiktighetsåtgärder.
+| Övervakningspunkter | Blodstatus (neutrofila, trombocyter, hemoglobin), leverfunktion inklusive bilirubin, perifer neuropati |
+| Hanteringsskydd | Hantering enligt föreskrifter för cytotoxiska läkemedel. Se produktresumén för detaljer |
 
 ---
 
 ### Säkerhetsaspekter
 
-- **Tillstånd där försiktighet eller kontraindikation kan gälla** (sammanställda data, ej produktresumétext): leversjukdom, gallblåsesjukdom, trombocytopeni, neutropeni, agranulocytos, perifer neuropati, anemi, hyperbilirubinemi (inklusive Gilberts syndrom), diarrésjukdom, lungödem, stomatit, neurit och hjärttamponad.
-- **Läkemedelsinteraktioner** (100 interaktioner registrerade, de viktigaste nedan):
-  - **Allvarlig:** klaritromycin.
-  - **Måttlig:** aprepitant, metronidazol, cimetidin, eliglustat, mikonazol, rolapitant, rosuvastatin, simvastatin, tinidazol, troglitazon.
-  - **Lindrig:** dexametason, levofloxacin, prednisolon, prednison.
+- **Tillstånd där försiktighet eller kontraindikation kan gälla** (beroende på produktresumé): leversjukdom, förhöjt bilirubin, trombocytopeni, neutropeni, anemi, perifer neuropati, diarrésjukdom, stomatit, lungödem och hjärttamponad.
+- **Läkemedelsinteraktioner** (100 registrerade; de viktigaste):
+  - **Allvarlig:** klaritromycin
+  - **Måttlig:** aprepitant, metronidazol, cimetidin, eliglustat, mikonazol, rolapitant, rosuvastatin, simvastatin, tinidazol, troglitazon
+  - **Lindrig:** dexametason, levofloxacin, prednisolon, prednison
 
 Se produktresumén för fullständig säkerhetsinformation.
 
@@ -141,13 +139,13 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Flera fas 2-prövningar och studier visar att docetaxel i kombination (främst med gemcitabin eller irinotekan) har använts vid Ewing-sarkom, men effekten av enbart docetaxel verkar begränsad och inga fas 3-prövningar finns. Evidensnivån är L2.
+- Flera fas 2-studier vid recidiverande Ewing-sarkom ger evidensnivå L2. Effekten är kombinationsberoende, enbart docetaxel verkar ha begränsad aktivitet, och inga fas 3-studier finns.
 
 **För att gå vidare krävs:**
-- Randomiserade jämförande studier som visar nytta av docetaxelkombinationer jämfört med nuvarande standardbehandling vid Ewing-sarkom.
-- Tydligare bild av effekt och säkerhet hos barn och unga vuxna, där Ewing-sarkom är vanligast.
-- Granskning av produktresumén för säkerhet, kontraindikationer och interaktioner, eftersom varnings- och kontraindikationstext saknas i de sammanställda uppgifterna.
-- Bedömning av docetaxels verkningsmekanism i relation till Ewing-sarkomets biologi.
+- Randomiserade jämförande studier som visar docetaxelns bidrag i kombinationsregimer
+- Tydligare data om svarsfrekvens och överlevnad i Ewing-sarkom specifikt
+- Genomgång av produktresumén för säkerhet och dosering, särskilt hos barn och unga vuxna
+- Klinisk bedömning av myelosuppression och leverfunktion hos aktuell patientgrupp
 
 ## Ansvarsfriskrivning
 
