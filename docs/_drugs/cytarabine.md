@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cytarabine
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 119
-evidence_level: L5
+evidence_level: L3
 indication_count: 9
 monitor_inn: "cytarabine"
 predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
-last_modified_at: 2026-10-28
-description: "Cytarabine: predikterad ny indikation Småcellig lungcancer (small cell lung carcinoma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+last_modified_at: 2026-11-04
+description: "Cytarabine: predikterad ny indikation Småcellig lungcancer (small cell lung carcinoma) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Cytarabine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **9** st
+Evidensnivå: **L3** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 </div>
 
-## Cytarabin: pyrimidinnukleosid-antimetabolit (DNA-synteshämmare) → Småcellig lungcancer (small cell lung carcinoma)
+## Cytarabine: Småcellig lungcancer (small cell lung carcinoma)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Cytarabin är en cytostatika av typen antimetabolit. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **småcellig lungcancer (small cell lung carcinoma)**. Det finns dock **inga kliniska prövningar** och endast **en publikation** som direkt rör cytarabin vid småcellig lungcancer (en studie från 1987 utan tillgängligt sammandrag), så evidensen är mycket begränsad.
+Cytarabin är ett cytostatikum av typen pyrimidinnukleosid-antimetabolit. TxGNN-modellen förutsäger att det kan vara aktivt mot **småcellig lungcancer (small cell lung carcinoma)**, med poängen 0,9978. I de data som sammanställts för denna rapport finns **inga registrerade kliniska prövningar** och **en liten klinisk studie** som direkt gäller sjukdomen (högdos cytarabin vid småcellig lungcancer, 1987). Evidensnivån är därför **L3**. Övriga publikationer gäller främst icke-småcellig lungcancer, som är en annan sjukdom.
 
 ---
 
@@ -50,8 +50,8 @@ Cytarabin är en cytostatika av typen antimetabolit. TxGNN-modellen förutsäger
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Småcellig lungcancer (small cell lung carcinoma) |
-| TxGNN-förutsägelsepoäng | 0,9978 |
-| Evidensnivå | L5 |
+| TxGNN-förutsägelsepoäng | 0.9978 |
+| Evidensnivå | L3 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
 | Antal godkännanden | 7 (giltiga: 7) |
 | Rekommenderat beslut | Avvakta |
@@ -60,9 +60,11 @@ Cytarabin är en cytostatika av typen antimetabolit. TxGNN-modellen förutsäger
 
 ### Varför är denna förutsägelse rimlig?
 
-Det finns ingen detaljerad uppgift om verkningsmekanism i de sammanställda data. Baserat på allmän kunskap är cytarabin en pyrimidinnukleosidanalog som hämmar DNA-syntesen i celler som delar sig snabbt. Mekanistiskt kan den därför vara tillämpbar på snabbväxande tumörer som småcellig lungcancer.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är cytarabin en pyrimidinnukleosid-antimetabolit. Sådana ämnen hämmar DNA-syntesen i celler som delar sig snabbt, och mekanistiskt kan det vara tillämpbart på småcellig lungcancer.
 
-Stödet är dock svagt. Den hämtade litteraturen gäller främst icke-småcellig lungcancer (fas II-studier med cytarabin och cisplatin från 1990, med en svarsfrekvens på cirka 14 % i en av studierna) samt cellinjestudier av andra läkemedel vid småcellig lungcancer. Solida tumörer har dessutom historiskt visat sig vara mindre känsliga för cytarabin än leukemier. Den mycket höga modellpoängen stöds alltså inte av kliniska data.
+Småcellig lungcancer är en snabbväxande tumör med hög celldelningstakt. Det gör en S-fasspecifik antimetabolit teoretiskt intressant. Den publicerade litteraturen visar dock också att många solida tumörer är relativt okänsliga för cytarabin, bland annat på grund av enzymer som bryter ned läkemedlet. Mekanismen är alltså rimlig, men den räcker inte som bevis.
+
+Den mycket höga modellpoängen är inte i sig ett stöd för klinisk effekt. Den bör ses som en hypotes som kräver sjukdomsspecifika data.
 
 ---
 
@@ -76,16 +78,19 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [3030547](https://pubmed.ncbi.nlm.nih.gov/3030547/) | 1987 | Studie om högdos-cytarabin vid småcellig lungcancer | Cancer treatment reports | Direkt relevant till titeln, men sammandrag saknas; resultat kan inte bedömas |
-| [2158614](https://pubmed.ncbi.nlm.nih.gov/2158614/) | 1990 | Randomiserad fas II | Medical and pediatric oncology | Cisplatin-cytarabin jämfört med cisplatin-vinblastin vid avancerad icke-småcellig lungcancer (151 patienter) |
-| [2156598](https://pubmed.ncbi.nlm.nih.gov/2156598/) | 1990 | Fas II | Cancer | Högdos-cytarabin plus cisplatin vid icke-småcellig lungcancer; svarsfrekvens 14 %, grad IV-myelosuppression hos 32 % |
-| [2157307](https://pubmed.ncbi.nlm.nih.gov/2157307/) | 1990 | Fas II | Tumori | Cytarabin, cisplatin och vindesin vid avancerad icke-småcellig lungcancer |
-| [2820740](https://pubmed.ncbi.nlm.nih.gov/2820740/) | 1987 | Pilotstudie | European journal of cancer & clinical oncology | Cisplatin och cytarabin vid avancerad icke-småcellig lungcancer |
-| [1360876](https://pubmed.ncbi.nlm.nih.gov/1360876/) | 1992 | Cellinjestudie | Cancer chemotherapy and pharmacology | Känslighetsmönster för doxorubicin i småcelliga cellinjer; gäller inte cytarabin |
+| [3030547](https://pubmed.ncbi.nlm.nih.gov/3030547/) | 1987 | Klinisk studie | Cancer Treatment Reports | Gäller högdos cytarabin vid småcellig lungcancer. Sammanfattning saknas, så resultaten kan inte återges. |
+| [2158614](https://pubmed.ncbi.nlm.nih.gov/2158614/) | 1990 | Randomiserad fas II (icke-småcellig lungcancer) | Medical and Pediatric Oncology | 151 patienter jämförde cisplatin + cytarabin med cisplatin + vinblastin. Gäller en annan sjukdom. |
+| [2156598](https://pubmed.ncbi.nlm.nih.gov/2156598/) | 1990 | Fas II (icke-småcellig lungcancer) | Cancer | Högdos cytarabin + cisplatin hos 37 patienter gav 14 % total svarsfrekvens. Grad IV-myelosuppression sågs hos 32 %, och fyra patienter dog under studien. |
+| [2157307](https://pubmed.ncbi.nlm.nih.gov/2157307/) | 1990 | Fas II (icke-småcellig lungcancer) | Tumori | Cytarabin + cisplatin + vindesin hos 32 patienter. Gäller en annan sjukdom. |
+| [2820740](https://pubmed.ncbi.nlm.nih.gov/2820740/) | 1987 | Pilotstudie (icke-småcellig lungcancer) | European Journal of Cancer & Clinical Oncology | Cisplatin + cytarabin. Sammanfattning saknas. |
+| [1360876](https://pubmed.ncbi.nlm.nih.gov/1360876/) | 1992 | In vitro-studie | Cancer Chemotherapy and Pharmacology | Känslighetsmönster i cellinjer av småcellig lungcancer. Studien gäller doxorubicin, inte cytarabin. |
+| [1332622](https://pubmed.ncbi.nlm.nih.gov/1332622/) | 1992 | Översikt | Gan to Kagaku Ryoho | Gemcitabin och DMDC är strukturellt besläktade med cytarabin. Många solida tumörer är mindre känsliga för cytarabin. |
 
 ---
 
 ### Marknadsinformation Sverige
+
+Läkemedlet är marknadsfört i Sverige, och alla 7 registrerade godkännanden är giltiga. Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -102,18 +107,20 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 | Post | Innehåll |
 |------|------|
 | Cytotoxicitetsklassificering | Konventionell cytotoxisk (antimetabolit) |
-| Myelosuppressionsrisk | Hög. I en fas II-studie med högdos-cytarabin och cisplatin sågs grad IV-myelosuppression hos 32 % och grad III hos 14 % |
-| Emetogenicitetsklassificering | Se produktresumén |
-| Övervakningspunkter | Blodstatus (neutrofiler, trombocyter, hemoglobin), lever- och njurfunktion |
-| Hanteringsskydd | Hantering enligt gällande föreskrifter för cytotoxiska läkemedel |
+| Myelosuppressionsrisk | Hög. I en fas II-studie med högdos cytarabin + cisplatin sågs grad IV-myelosuppression hos 32 % av patienterna. |
+| Emetogenicitetsklassificering | Medel |
+| Övervakningspunkter | Blodstatus (hemoglobin, neutrofila, trombocyter) samt lever- och njurfunktion |
+| Hanteringsskydd | Ja, hantering enligt föreskrifter för cytotoxiska läkemedel (skyddsutrustning, säker beredning och avfallshantering) |
+
+Se produktresumén för fullständiga varningar och försiktighetsåtgärder.
 
 ---
 
 ### Säkerhetsaspekter
 
-- **Läkemedelsinteraktioner**: Totalt 365 interaktioner är registrerade. Bland de mer framträdande finns naltrexon (måttlig) och levofloxacin (lindrig). Övriga har okänd allvarlighetsgrad, bland annat morfin, metformin, prednison, omeprazol och simvastatin.
+- **Läkemedelsinteraktioner**: Totalt 365 interaktioner är registrerade. Bland de klassificerade finns naltrexon (måttlig) och levofloxacin (ringa). De flesta övriga saknar klassificering.
 
-För varningar och kontraindikationer, se produktresumén.
+Se produktresumén för varningar och kontraindikationer. Denna information finns inte i de data som sammanställts för denna rapport.
 
 ---
 
@@ -122,13 +129,15 @@ För varningar och kontraindikationer, se produktresumén.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger på en hög modellpoäng, men det saknas kliniska prövningar och data som direkt visar effekt av cytarabin vid småcellig lungcancer. Den enda direkt relevanta publikationen saknar sammandrag och är från 1987.
+- Det finns en enda liten klinisk studie som direkt gäller småcellig lungcancer, och den är från 1987 utan tillgänglig sammanfattning. Det mesta av övrig litteratur gäller icke-småcellig lungcancer och visar måttlig effekt tillsammans med betydande benmärgstoxicitet.
+- Den höga modellpoängen stöds inte av modern klinisk evidens.
 
 **För att gå vidare krävs:**
-- Granskning av studien från 1987 (PMID 3030547) i fulltext
-- Prekliniska data som visar cytarabinkänslighet i modeller av småcellig lungcancer
-- Uppgifter om verkningsmekanism, varningar och kontraindikationer från produktresumén
-- Vid fortsatt intresse: en välplanerad tidig klinisk studie, med hänsyn till den höga risken för myelosuppression
+- Genomgång av originalstudien (PMID 3030547) för att bedöma effekt och toxicitet vid småcellig lungcancer.
+- Moderna, kontrollerade studier som jämför cytarabin med nuvarande standardbehandling vid småcellig lungcancer.
+- Verkningsmekanismdata samt information om varningar och kontraindikationer från produktresumén.
+- En bedömning av nytta och risk mot den höga myelosuppressionsrisken.
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

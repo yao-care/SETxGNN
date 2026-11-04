@@ -3,18 +3,18 @@ layout: default
 title: Minoxidil
 parent: Måttlig evidens (L3-L4)
 nav_order: 297
-evidence_level: L3
+evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-04
 monitor_inn: "MINOXIDIL"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with HIV infection"]
-description: "Minoxidil: predikterad ny indikation Hypotrichosis simplex of the scalp (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Minoxidil: predikterad ny indikation Hypotrichosis simplex i hårbotten (hypotrichosis simplex of the scalp) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Minoxidil
 {: .fs-9 }
 
-Evidensnivå: **L3** | Förutsagda indikationer: **10** st
+Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,60 +33,60 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Minoxidil: Hypotrichosis simplex of the scalp
+## Minoxidil: Hypotrichosis simplex i hårbotten (hypotrichosis simplex of the scalp)
 {: .text-alpha }
 
 ---
 
-## Sammanfattning
+### Sammanfattning
 
-Minoxidil är en kärlvidgande substans som ursprungligen användes mot högt blodtryck och därefter mot håravfall (alopeci). TxGNN-modellen förutsäger att det kan vara effektivt mot **hypotrichosis simplex i hårbotten**, en ärftlig och sällsynt form av hårtunnhet. Än så länge stöds riktningen av **0 kliniska prövningar** och **3 publikationer**, alla fallrapporter där minoxidil getts tillsammans med andra behandlingar.
+Minoxidil förutsägs av TxGNN-modellen kunna vara effektivt mot **hypotrichosis simplex i hårbotten (hypotrichosis simplex of the scalp)**, en sällsynt ärftlig hårtunnhet. Det finns **0 kliniska prövningar** och **3 publikationer**, alla fallrapporter där minoxidil getts oral eller topikalt, oftast tillsammans med tillväxtfaktorer, växtextrakt eller PRP. Evidensnivån är **L4**, eftersom effekten av minoxidil enbart inte går att skilja från kombinationsbehandlingarna.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Hypotrichosis simplex of the scalp |
+| Förutsagd ny indikation | Hypotrichosis simplex i hårbotten (hypotrichosis simplex of the scalp) |
 | TxGNN-förutsägelsepoäng | 1.0000 |
-| Evidensnivå | L3 |
+| Evidensnivå | L4 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 14 av 14) |
 | Antal godkännanden | 14 (giltiga: 14) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Baserat på känd information är minoxidil ett etablerat hårväxtmedel. Det antas öppna kaliumkanaler, förlänga hårfolliklarnas växtfas (anagenfasen) och vidga de små blodkärlen kring folliklarna.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Enligt allmänt känd farmakologi och den medföljande litteraturen är minoxidil ett etablerat hårväxtstimulerande medel. Det öppnar kaliumkanaler, förlänger hårfollikelns tillväxtfas (anagen) och vidgar de små blodkärlen kring folliklarna.
 
-Hypotrichosis simplex i hårbotten är en ärftlig störning med gradvis förtunnad hårväxt. Kliniskt ligger den nära alopeci, som minoxidil redan används mot. Därför är det rimligt att samma effekt på hårfolliklarna kan vara användbar här.
+Hypotrichosis simplex i hårbotten är en ärftlig sjukdom med gradvis hårtunnande. Den är kliniskt närbesläktad med andra tillstånd där hårfolliklarna finns kvar men producerar för lite hår. Eftersom folliklarna i huvudsak är bevarade är det mekanistiskt rimligt att en follikelstimulerande substans kan ge effekt.
 
-Tre publicerade rapporter från 2022–2024 beskriver oral eller topikal minoxidil vid sjukdomen. I de flesta fall gavs den tillsammans med tillväxtfaktorer, växtextrakt eller trombocytrikt plasma (PRP). Det går därför inte att särskilja minoxidils egen effekt från effekten av kombinationspartnerna.
+Beskrivningarna i litteraturen är dock små fallrapporter. I dem ges minoxidil nästan alltid tillsammans med andra behandlingar. Den enskilda effekten av minoxidil kan därför inte fastställas.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Fallrapport (kombinationsbehandling) | Frontiers in Genetics | Pojke, 8 år, med ärftlig hypotrichosis simplex orsakad av en CDSN-mutation, behandlad med växtextrakt och minoxidil. Det saknas fortfarande en säker och effektiv behandling. |
-| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Fallrapport (kombination med PRP) | The Journal of Dermatological Treatment | Patient, 14 år, behandlad med PRP-injektioner och topikal minoxidil 2 %. Rapporten beskriver behandlingen som framgångsrik. |
-| [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Fallrapport/fallserie | Dermatologic Therapy | Ärftlig hypotrichosis simplex behandlad med oral minoxidil och tillväxtfaktorer. Sammanfattning saknas, så resultaten kan inte redovisas närmare. |
+| [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Fallrapport/fallserie | Dermatologic Therapy | Behandling av ärftlig hypotrichosis simplex i hårbotten med oralt minoxidil och tillväxtfaktorer. Sammanfattning saknas, så resultaten kan inte redovisas närmare. |
+| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Fallrapport (kombination med PRP) | The Journal of Dermatological Treatment | 14-årig patient behandlad med injektion av trombocytrikt plasma (PRP) och topikalt minoxidil 2 %. Rapporten beskriver behandlingen som framgångsrik, men det finns ingen tillfredsställande standardbehandling för tillståndet. |
+| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Kombinationsbehandling, klinisk rapport | Frontiers in Genetics | Familjefall hos en 8-årig pojke med CDSN-genmutation, behandlad med växtextrakt och minoxidil. Författarna betonar att det saknas en säker och effektiv behandling. |
 
 ---
 
-## Marknadsinformation Sverige
+### Marknadsinformation Sverige
 
-Samtliga 14 godkännanden är indragna. Ingen godkänd indikationstext finns registrerad. De fem första visas nedan.
+Minoxidil finns som kutan lösning och kutant skum. Fem av godkännandena:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -98,36 +98,34 @@ Samtliga 14 godkännanden är indragna. Ingen godkänd indikationstext finns reg
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-- **Kontraindikationer enligt kunskapsgrafen** (inte hämtade från produktresumén): Kunskapsgrafen anger bland annat följande sjukdomar och tillstånd som kontraindikationer:
-  - Hjärt-kärlsjukdomar: hjärtinfarkt, stroke och andra cerebrovaskulära sjukdomar, hjärtsjukdom, perikardit, perikardiell utgjutning, hjärttamponad
-  - Blodtrycksrelaterade tillstånd: ortostatisk hypotension, POTS, multipel systematrofi
-  - Binjuretumörer: feokromocytom
-  - Övrigt: njursjukdom, hemoglobinopati
-- **Läkemedelsinteraktioner**: Totalt 100 interaktioner finns registrerade. De som listas som måttliga gäller bland annat:
-  - kortikosteroider (hydrokortison, prednisolon, prednison, dexametason, betametason, triamcinolon, budesonid)
+- **Läkemedelsinteraktioner**: Totalt 100 interaktioner finns registrerade. De som listas här är av måttlig allvarlighetsgrad:
+  - kortikosteroider (hydrokortison, betametason, budesonid, dexametason, prednisolon, prednison, triamcinolon)
+  - bupropion
+  - morfin och opium
   - SGLT2-hämmare (kanagliflozin, dapagliflozin, empagliflozin, ertugliflozin)
-  - bupropion, morfin, opium, dronabinol, nabilon och sapropterin
+  - dronabinol och nabilon
+  - sapropterin
 
-Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se produktresumén för fullständig säkerhetsinformation.
+Se produktresumén för varningar och kontraindikationer.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Det finns en mycket hög modellpoäng, ett rimligt biologiskt samband med godkänd alopeciindikation och tre fallrapporter. Det finns dock inga kliniska prövningar, och kombinationsbehandlingarna gör att minoxidils egen effekt är oklar.
-- Alla svenska godkännanden är indragna, och säkerhetsuppgifterna från produktresumén saknas.
+- Förutsägelsen är mekanistiskt rimlig och stöds av tre publicerade fallrapporter (evidensnivå L4). I alla tre används minoxidil i kombination med andra behandlingar, och det finns inga kontrollerade studier.
+- Flera av de rapporterade patienterna är barn. Det kräver särskild försiktighet, särskilt om oralt minoxidil övervägs.
 
 **För att gå vidare krävs:**
-- Hämta och granska produktresumén för varningar och kontraindikationer, vilket för närvarande hindrar säkerhetsbedömningen.
-- Komplettera uppgifterna om verkningsmekanism.
-- Genomföra en kontrollerad studie eller en större fallserie där minoxidil jämförs med behandling utan minoxidil.
-- Klargöra vilken beredningsform (topikal eller låg dos oral) som är lämplig och om den finns tillgänglig i Sverige, eftersom marknadsstatusen för närvarande är "endast indragna".
-- Särskilt beakta kardiovaskulär säkerhet vid oral behandling, eftersom flera hjärt-kärlsjukdomar är markerade som kontraindikationer i kunskapsgrafen.
+- Kontrollerade eller jämförande studier som isolerar effekten av minoxidil från kombinationspartnerna.
+- Genomgång av produktresumén för varningar och kontraindikationer, särskilt för barn och för oral användning.
+- Bedömning av interaktionsrisker, bland annat med kortikosteroider, i den aktuella patientgruppen.
+- Uppföljning av långtidseffekt och säkerhet, till exempel i ett register över sällsynta ärftliga hårsjukdomar.
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

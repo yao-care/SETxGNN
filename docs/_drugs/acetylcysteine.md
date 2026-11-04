@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Acetylcysteine
-parent: Måttlig evidens (L3-L4)
+parent: Hög evidens (L1-L2)
 nav_order: 14
-evidence_level: L3
+evidence_level: L2
 indication_count: 10
 monitor_inn: "acetylcysteine"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
-last_modified_at: 2026-10-28
-description: "Acetylcysteine: predikterad ny indikation Trombotisk sjukdom (thrombotic disease) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+last_modified_at: 2026-11-04
+description: "Acetylcysteine: predikterad ny indikation Trombotisk sjukdom (thrombotic disease) (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Acetylcysteine
 {: .fs-9 }
 
-Evidensnivå: **L3** | Förutsagda indikationer: **10** st
+Evidensnivå: **L2** | Förutsagda indikationer: **10** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,71 +33,70 @@ Evidensnivå: **L3** | Förutsagda indikationer: **10** st
 
 </div>
 
-## Acetylcystein: slemlösande och antioxidativt läkemedel → Trombotisk sjukdom (thrombotic disease)
+## Acetylcysteine: Trombotisk sjukdom (thrombotic disease)
 {: .text-alpha }
 
 ---
 
-### Sammanfattning
+## Sammanfattning
 
-Acetylcystein är ett slemlösande och antioxidativt läkemedel som finns på den svenska marknaden i flera beredningsformer. TxGNN-modellen förutsäger att det kan vara effektivt mot **trombotisk sjukdom (thrombotic disease)**. Underlaget består av **7 kliniska prövningar** och **20 publikationer**, där de mest relevanta gäller trombotisk mikroangiopati (TMA) och trombotisk trombocytopen purpura (TTP).
+Acetylcystein är ett tiolläkemedel med slemlösande och antioxidativa egenskaper. TxGNN-modellen förutsäger att det kan vara användbart vid **trombotisk sjukdom (thrombotic disease)**, med störst stöd för trombotisk mikroangiopati (TMA) och trombotisk trombocytopen purpura (TTP). Underlaget består av **7 kliniska prövningar** och **20 publikationer**. Utfall saknas dock för den största fas 3-prövningen, och evidensnivån är **L2**.
 
 ---
 
-### Snabböversikt
+## Snabböversikt
 
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Trombotisk sjukdom (thrombotic disease) |
-| TxGNN-förutsägelsepoäng | 0,9996 |
-| Evidensnivå | L3 |
+| TxGNN-förutsägelsepoäng | 0.9996 |
+| Evidensnivå | L2 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
 | Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
 
-### Varför är denna förutsägelse rimlig?
+## Varför är denna förutsägelse rimlig?
 
-Detaljerade uppgifter om verkningsmekanismen finns inte tillgängliga i de sammanställda data. Baserat på känd information är acetylcystein en tiol som kan bryta disulfidbindningar. I von Willebrand-faktor (VWF)-multimerer kan det minska bindningen till blodplättar, vilket stöds av prekliniska TTP-modeller på mus och babian.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Acetylcystein är dock en tiol som kan spjälka disulfidbindningar. Det är samma egenskap som ger den slemlösande effekten, och den kan även påverka andra proteiner med disulfidbindningar.
 
-Läkemedlet har dessutom antioxidativa effekter. Dessa kan minska en protrombotisk fenotyp, till exempel vid nedsatt njurfunktion där oxidativ stress och cirkulerande vävnadsfaktor är förhöjda. Mekanismen är därför rimlig för sjukdomar med VWF-beroende mikrotrombos.
+Mekanistiskt är det von Willebrand-faktor (VWF) som är intressant. Acetylcystein kan reducera disulfidbindningar i stora VWF-multimerer och på så sätt minska deras förmåga att binda trombocyter. Det är en central mekanism vid TTP. Detta stöds av prekliniska studier på möss och bavianer (PMID 28011677). Därtill har läkemedlet antioxidativa effekter. Dessa kan dämpa en protrombotisk fenotyp, till exempel vid nedsatt njurfunktion, där oxidativ stress och cirkulerande vävnadsfaktor är förhöjda.
 
-Evidensen är starkast för trombotisk mikroangiopati och TTP, och svagare för trombotisk sjukdom i allmänhet. Förutsägelsen bör därför läsas som en riktning mot dessa undergrupper snarare än mot alla trombotiska tillstånd.
+Underlaget är starkast för trombotisk mikroangiopati och TTP. För trombotisk sjukdom i bredare mening är det mindre etablerat.
 
 ---
 
-### Kliniska prövningar
+## Kliniska prövningar
 
 | Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
 |---------|------|------|------|---------|
-| [NCT03252925](https://clinicaltrials.gov/study/NCT03252925) | Fas 3 | Avslutad | 170 | Säkerhet och effekt av N-acetylcystein vid transplantationsassocierad trombotisk mikroangiopati; resultat ej redovisade |
-| [NCT07279610](https://clinicaltrials.gov/study/NCT07279610) | Fas 2/3 | Aktiv, rekryterar inte | 44 | Enarmad studie vid transplantationsassocierad TMA; inga resultat ännu |
-| [NCT03636932](https://clinicaltrials.gov/study/NCT03636932) | Fas 2 | Avslutad | 40 | Randomiserad, dubbelblind crossover-studie av den trombotiska fenotypen vid njursvikt; farmakodynamiskt effektmått |
-| [NCT01808521](https://clinicaltrials.gov/study/NCT01808521) | Tidig fas 1 | Avslutad | 3 | Pilotstudie vid misstänkt TTP; för litet urval för slutsatser |
-| [NCT04368598](https://clinicaltrials.gov/study/NCT04368598) | Fas 2 | Okänd | 44 | Högdos dexametason plus acetylcystein vid ITP; indirekt koppling och kombinationsdesign |
-| [NCT03460808](https://clinicaltrials.gov/study/NCT03460808) | Fas 1/2 | Okänd | 200 | Kombination med atorvastatin och danazol vid ITP; låg relevans |
-| [NCT05551624](https://clinicaltrials.gov/study/NCT05551624) | Tidig fas 1 | Avslutad | 15 | Atorvastatin plus acetylcystein vid ITP; litet urval, kombination |
+| [NCT03252925](https://clinicaltrials.gov/study/NCT03252925) | Fas 3 | Avslutad | 170 | Säkerhet och effekt av acetylcystein vid transplantationsassocierad trombotisk mikroangiopati (TA-TMA). Resultat ingår inte i underlaget, så effekt kan inte bekräftas. |
+| [NCT07279610](https://clinicaltrials.gov/study/NCT07279610) | Fas 2/3 | Aktiv, rekryterar ej | 44 | Enarmad multicenterstudie vid TA-TMA. Möjlig bekräftande studie, men resultat saknas. |
+| [NCT03636932](https://clinicaltrials.gov/study/NCT03636932) | Fas 2 | Avslutad | 40 | Randomiserad, dubbelblind, placebokontrollerad cross-over-studie av den trombotiska fenotypen vid njurinsufficiens. Mäter en mekanismnära farmakodynamisk markör, inte kliniska trombosutfall. |
+| [NCT01808521](https://clinicaltrials.gov/study/NCT01808521) | Tidig fas 1 | Avslutad | 3 | Pilotstudie med intravenöst acetylcystein vid misstänkt TTP under plasmautbyte. Urvalet är för litet för slutsatser. |
+| [NCT04368598](https://clinicaltrials.gov/study/NCT04368598) | Fas 2 | Okänd | 44 | Högdos-dexametason plus acetylcystein vid nydiagnostiserad immunologisk trombocytopeni. Indirekt samband, och kombinationen gör det svårt att isolera effekten av acetylcystein. |
 
 ---
 
-### Litteraturbevis
+## Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [41977015](https://pubmed.ncbi.nlm.nih.gov/41977015/) | 2026 | Systematisk översikt | Journal of Clinical Medicine | Granskning av acetylcystein vid TTP |
-| [42338865](https://pubmed.ncbi.nlm.nih.gov/42338865/) | 2026 | Systematisk översikt | Cureus | Acetylcystein som tilläggsbehandling vid refraktär eller återfallande TTP |
-| [37311880](https://pubmed.ncbi.nlm.nih.gov/37311880/) | 2023 | Kohortstudie | Annals of Hematology | Samband mellan acetylcystein och sjukhusdödlighet vid förvärvad TTP; användningen är omdiskuterad |
-| [28011677](https://pubmed.ncbi.nlm.nih.gov/28011677/) | 2017 | Preklinisk | Blood | Acetylcystein i TTP-modeller på mus och babian |
-| [32243196](https://pubmed.ncbi.nlm.nih.gov/32243196/) | 2020 | Översikt | Expert Review of Hematology | Acetylcystein bland omprövade läkemedel vid TTP |
-| [28416507](https://pubmed.ncbi.nlm.nih.gov/28416507/) | 2017 | Översikt | Blood | Allmän översikt av TTP |
-| [33540569](https://pubmed.ncbi.nlm.nih.gov/33540569/) | 2021 | Översikt | Journal of Clinical Medicine | Patofysiologi, diagnostik och behandling av TTP |
-| [36410267](https://pubmed.ncbi.nlm.nih.gov/36410267/) | 2022 | Översikt | Journal of Infection and Public Health | Acetylcystein vid covid-19 med protrombotiskt tillstånd |
+| [41977015](https://pubmed.ncbi.nlm.nih.gov/41977015/) | 2026 | Systematisk översikt | Journal of Clinical Medicine | Sammanställning och kritisk granskning av acetylcystein vid TTP. |
+| [42338865](https://pubmed.ncbi.nlm.nih.gov/42338865/) | 2026 | Systematisk översikt | Cureus | Acetylcystein som tilläggsbehandling vid TTP, genom reduktion av disulfidbindningar i VWF-multimerer. |
+| [37311880](https://pubmed.ncbi.nlm.nih.gov/37311880/) | 2023 | Retrospektiv kohortstudie | Annals of Hematology | Samband mellan acetylcysteinbehandling och sjukhusdödlighet vid förvärvad TTP. Användningen beskrivs som omstridd. |
+| [28011677](https://pubmed.ncbi.nlm.nih.gov/28011677/) | 2017 | Preklinisk (mus och babian) | Blood | Acetylcystein undersöktes i djurmodeller av TTP. |
+| [32243196](https://pubmed.ncbi.nlm.nih.gov/32243196/) | 2020 | Översikt | Expert Review of Hematology | Acetylcystein beskrivs som ett av flera återanvända läkemedel vid TTP. |
+| [33540569](https://pubmed.ncbi.nlm.nih.gov/33540569/) | 2021 | Översikt | Journal of Clinical Medicine | Patofysiologi, diagnostik och behandling av TTP. |
+| [28416507](https://pubmed.ncbi.nlm.nih.gov/28416507/) | 2017 | Översikt | Blood | Översikt över TTP och ADAMTS13-brist. |
 
 ---
 
-### Marknadsinformation Sverige
+## Marknadsinformation Sverige
+
+Läkemedlet är marknadsfört i Sverige, och alla sex registrerade godkännanden är giltiga. Ingen indikationstext är registrerad i de lokala uppgifterna.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -109,27 +108,31 @@ Evidensen är starkast för trombotisk mikroangiopati och TTP, och svagare för 
 
 ---
 
-### Säkerhetsaspekter
+## Säkerhetsaspekter
 
-- **Läkemedelsinteraktioner**: Totalt 247 interaktioner är registrerade. Bland de som har en klassificering finns aktivt kol (lindrig) och inhalerat humaninsulin (måttlig). Övriga listade interaktioner, bland annat med mannitol, bupropion, metformin, morfin, omeprazol och prednison, saknar klassificering av allvarlighetsgrad.
+- **Läkemedelsinteraktioner**: 247 interaktioner är registrerade.
+  - Måttlig nivå: inhalerat humaninsulin (snabbverkande).
+  - Mindre nivå: aktivt kol.
+  - Många övriga registrerade interaktioner, bland annat med metformin, glimepirid, omeprazol, pantoprazol, morfin, doxycyklin och vankomycin, saknar angiven allvarlighetsgrad.
 
-Se produktresumén för varningar och kontraindikationer.
+För varningar och kontraindikationer, se produktresumén.
 
 ---
 
-### Slutsats och nästa steg
+## Slutsats och nästa steg
 
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Det finns en avslutad fas 3-prövning och en pågående fas 2/3-prövning vid transplantationsassocierad trombotisk mikroangiopati, men inga resultat har redovisats. Övrig evidens är prekliniska data, översikter och en retrospektiv kohortstudie, så effekten är inte bekräftad.
+- Evidensnivån är L2. Det finns en avslutad fas 3-prövning vid TA-TMA, men dess resultat är inte redovisade. Övriga prövningar är små, saknar resultat eller har indirekt koppling till sjukdomen.
+- Mekanismen (reduktion av VWF-multimerer, antioxidativ effekt) är rimlig och stöds prekliniskt. Stödet för trombotisk sjukdom i bred mening är dock begränsat.
 
 **För att gå vidare krävs:**
-- Publicerade resultat från NCT03252925 och NCT07279610.
-- Randomiserade studier med kliniska utfallsmått vid TTP och TMA.
-- Hämta varningar och kontraindikationer från produktresumén, då dessa saknas i de sammanställda data.
-- Avgränsa vilken trombotisk undergrupp som ska prioriteras, eftersom evidensen inte gäller trombotisk sjukdom i allmänhet.
-- Fastställa verkningsmekanismen med detaljerade data.
+- Resultat från den avslutade fas 3-prövningen NCT03252925 och från den pågående NCT07279610.
+- Kontrollerade studier med kliniska trombosutfall, inte bara mekanismmarkörer.
+- Närmare avgränsning av vilka trombotiska tillstånd som kan omfattas (TA-TMA, TTP eller bredare).
+- Genomgång av varningar, kontraindikationer och interaktioner i produktresumén för relevanta beredningsformer, särskilt för intravenös användning.
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

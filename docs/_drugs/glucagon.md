@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Glucagon
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 216
-evidence_level: L3
+evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-04
 monitor_inn: "glucagon"
 predicted_indications: ["irritable bowel syndrome"]
-description: "Glucagon: predikterad ny indikation Irritable bowel syndrome (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Glucagon: predikterad ny indikation Irritabelt tarmsyndrom (irritable bowel syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Glucagon
 {: .fs-9 }
 
-Evidensnivå: **L3** | Förutsagda indikationer: **1** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,98 +33,96 @@ Evidensnivå: **L3** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Glucagon: Irritable bowel syndrome
+## Glucagon: Irritabelt tarmsyndrom (irritable bowel syndrome)
 {: .text-alpha }
 
----
+## Sammanfattning
 
-### Sammanfattning
-
-Glucagon (Glucagon Novo Nordisk) har tidigare haft svenska godkännanden, men indikationstexten saknas i de data som sammanställts för denna rapport, och båda godkännandena är avregistrerade. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **irritabel tarm (IBS)**, med **2 kliniska prövningar** och **20 publikationer**. Ingen av prövningarna testar glucagon, utan de gäller GLP-1-analoger, så stödet är indirekt.
+Glukagon är ett peptidhormon som höjer blodsockret och som även hämmar tarmens glatta muskulatur under en kort tid. TxGNN-modellen förutsäger att det kan vara användbart vid **irritabelt tarmsyndrom (irritable bowel syndrome)**. Evidensnivån är **L5**: ingen studie har testat glukagon vid denna sjukdom. De två kliniska prövningarna och den publicerade litteraturen gäller i stället GLP-1 och GLP-1-receptoragonister, som är andra läkemedel.
 
 ---
 
-### Snabböversikt
+## Snabböversikt
 
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Irritable bowel syndrome |
+| Förutsagd ny indikation | Irritabelt tarmsyndrom (irritable bowel syndrome) |
 | TxGNN-förutsägelsepoäng | 0.9924 |
-| Evidensnivå | L3 (endast indirekt evidens, bland annat en systematisk översikt om GLP-1-agonister vid IBS) |
+| Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
 | Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-### Varför är denna förutsägelse rimlig?
+## Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Glucagon är ett peptidhormon som verkar via glukagonreceptorn. Det är känt som en kortverkande hämmare av glatt muskulatur i mag-tarmkanalen och används diagnostiskt inom radiologi, vilket ger en viss indirekt motivering för en effekt på tarmens motilitet.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig för glukagon i de sammanställda uppgifterna. Glukagon och GLP-1 bildas båda från samma förstadium, proglukagon, och verkar via besläktade receptorer (glukagonreceptorn respektive GLP-1-receptorn). Glukagon används också i diagnostiska sammanhang som en kortverkande hämmare av tarmens rörlighet, vilket ger ett visst indirekt stöd.
 
-Glucagon och GLP-1 härstammar båda från proglucagon och verkar via besläktade klass B-G-proteinkopplade receptorer. GLP-1 och dess analoger bromsar motiliteten i mag-tarmkanalen och hämmar rörelserna i magsäck, tolvfingertarm och tunntarm efter måltid. Vid IBS, särskilt den förstoppningsdominanta formen (IBS-C), är förändrad motilitet och överkänslighet i tarmen centrala inslag.
+GLP-1 och dess analoger bromsar magtarmkanalens motilitet och hämmar rörelserna i mage, tolvfingertarm och tunntarm efter måltid. Det kan vara relevant vid irritabelt tarmsyndrom, särskilt den förstoppningsdominerade formen, där förändrad tarmrörlighet och överkänslighet i tarmen är centrala.
 
-Det är dock inte visat att verkan via GLP-1-receptorn går att överföra till glukagonreceptorn. Den mycket höga TxGNN-poängen är en beräkningsmässig förutsägelse och ska inte tolkas som klinisk evidens.
+Det är dock inte visat att effekten av GLP-1-receptoraktivering kan överföras till glukagonreceptorn. Den mycket höga modellpoängen är en beräknad förutsägelse och ska inte tolkas som klinisk evidens.
 
 ---
 
-### Kliniska prövningar
+## Kliniska prövningar
+
+Ingen av prövningarna testar glukagon. De ger endast indirekt stöd via GLP-1-systemet.
 
 | Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
 |---------|------|------|------|---------|
-| [NCT02731664](https://clinicaltrials.gov/study/NCT02731664) | Fas 1 | Avslutad | 12 | Undersöker hur lågdos GLP-1 (nativt och analogen ROSE-010) hämmar motiliteten i magsäck, tolvfingertarm och tunntarm efter måltid hos människor, samt mekanismen i muskelremsor. Testar inte glucagon och gäller inte IBS-patienter. Endast indirekt stöd. |
-| [NCT01056107](https://clinicaltrials.gov/study/NCT01056107) | Fas 1/2 | Avslutad | 52 | Studerar ROSE-010 (en GLP-1-analog) på tarmens motorik hos kvinnor med förstoppningsdominant IBS. Populationen stämmer, men läkemedlet är inte glucagon. Liten studie i tidig fas. |
+| [NCT01056107](https://clinicaltrials.gov/study/NCT01056107) | Fas 1/2 | Avslutad | 52 | ROSE-010 (en GLP-1-analog) studerades på magtarmkanalens motorik hos kvinnor med förstoppningsdominerat IBS. Hypotesen var fördröjd magtömning utan hämmad kolontransit. Liten, tidig studie. |
+| [NCT02731664](https://clinicaltrials.gov/study/NCT02731664) | Fas 1 | Avslutad | 12 | Naturligt GLP-1 jämfört med analogen ROSE-010 på motorik i mage, tolvfingertarm och tunntarm efter måltid. Mekanistisk studie som inte gäller IBS-patienter. |
 
 ---
 
-### Litteraturbevis
+## Litteraturbevis
+
+Litteraturen gäller GLP-1 eller IBS i allmänhet, inte glukagon vid IBS.
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [40134805](https://pubmed.ncbi.nlm.nih.gov/40134805/) | 2025 | Systematisk översikt och metaanalys | Frontiers in Endocrinology | GLP-1-receptoragonister och ROSE-010 hämmar tarmens motilitet hos IBS-patienter; översikten rapporterar förbättring av IBS. |
-| [38997662](https://pubmed.ncbi.nlm.nih.gov/38997662/) | 2024 | Systematisk översikt | The Journal of Headache and Pain | Utvärderar GLP-1-agonister vid huvudvärk och smärttillstånd, med begränsad relevans för IBS. |
-| [35234561](https://pubmed.ncbi.nlm.nih.gov/35234561/) | 2022 | Delstudie (korsanalys) | Scandinavian Journal of Gastroenterology | ROSE-010 gav lovande smärtlindring vid IBS-attacker; analysen söker den lämpligaste patientgruppen. |
-| [40697433](https://pubmed.ncbi.nlm.nih.gov/40697433/) | 2025 | Kohortstudie | Annals of Gastroenterology | Undersöker hur GLP-1-agonister förskrivs och sätts ut hos IBS-patienter, med fokus på biverkningar i mag-tarmkanalen. |
-| [30444291](https://pubmed.ncbi.nlm.nih.gov/30444291/) | 2019 | Översikt | Experimental Physiology | Diskuterar GLP-1-producerande L-celler och deras möjliga roll i IBS-patofysiologin. |
-| [25427821](https://pubmed.ncbi.nlm.nih.gov/25427821/) | 2015 | Översikt | Advances in Experimental Medicine and Biology | Beskriver aerosoliserat GLP-1 för behandling av diabetes och IBS. |
-| [26765585](https://pubmed.ncbi.nlm.nih.gov/26765585/) | 2016 | Översikt | Expert Opinion on Investigational Drugs | Översikt av nya läkemedelskandidater mot förstoppningsdominant IBS. |
-| [40880735](https://pubmed.ncbi.nlm.nih.gov/40880735/) | 2025 | Observationsstudie | Frontiers in Nutrition | Cirkulerande GLP-1 ökade efter låg-FODMAP-diet hos IBS-patienter. |
-| [30023410](https://pubmed.ncbi.nlm.nih.gov/30023410/) | 2018 | Översikt | Cellular and Molecular Gastroenterology and Hepatology | Beskriver tvåvägskommunikationen i hjärna–tarm–mikrobiom-axeln. |
-| [41974246](https://pubmed.ncbi.nlm.nih.gov/41974246/) | 2026 | Översikt | Clinical Gastroenterology and Hepatology | Går igenom otillfredsställda behov vid IBS och framtida behandlingar riktade mot tarmens sensoriska nerver. |
-
-Ingen av publikationerna testar glucagon vid IBS.
+| [40134805](https://pubmed.ncbi.nlm.nih.gov/40134805/) | 2025 | Systematisk översikt och metaanalys | Frontiers in endocrinology | GLP-1-receptoragonister och förbättring av IBS. GLP-1 och ROSE-010 hämmar den migrerande motorkomplexen och minskar tarmens rörlighet hos IBS-patienter. |
+| [35234561](https://pubmed.ncbi.nlm.nih.gov/35234561/) | 2022 | Korsanalys av kliniska data | Scandinavian journal of gastroenterology | ROSE-010 minskade smärta under IBS-attacker. Undersökte vilken patientgrupp som passar bäst. |
+| [40697433](https://pubmed.ncbi.nlm.nih.gov/40697433/) | 2025 | Kohortstudie | Annals of gastroenterology | Förskrivning och utsättning av GLP-1-receptoragonister hos IBS-patienter. |
+| [30444291](https://pubmed.ncbi.nlm.nih.gov/30444291/) | 2019 | Översikt | Experimental physiology | Diskuterar en möjlig roll för GLP-1 från L-celler i IBS:s patofysiologi. |
+| [25427821](https://pubmed.ncbi.nlm.nih.gov/25427821/) | 2015 | Översikt | Advances in experimental medicine and biology | Aerosolerat GLP-1 vid diabetes och IBS. |
+| [40880735](https://pubmed.ncbi.nlm.nih.gov/40880735/) | 2025 | Klinisk studie | Frontiers in nutrition | Cirkulerande GLP-1 ökade efter low FODMAP-diet hos IBS-patienter. |
 
 ---
 
-### Marknadsinformation Sverige
+## Marknadsinformation Sverige
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 8075-2 (avregistrerad) | Glucagon Novo Nordisk | Pulver och vätska till injektionsvätska, lösning i förfylld spruta | Ej angiven |
 | 8075-1 (avregistrerad) | Glucagon Novo Nordisk | Pulver och vätska till injektionsvätska, lösning | Ej angiven |
 
----
-
-### Säkerhetsaspekter
-
-- **Läkemedelsinteraktioner**: 25 interaktioner identifierades, de listade är alla av grad *Minor* (lindrig). De gäller warfarin och en lång rad betablockerare, bland annat atenolol, bisoprolol, karvedilol, metoprolol, propranolol, sotalol, timolol (även ögondroppar), nadolol, labetalol, pindolol, acebutolol, betaxolol, esmolol och karteolol.
-
-Se produktresumén för information om varningar och kontraindikationer.
+Båda godkännandena är giltiga och innehas av Novo Nordisk A/S.
 
 ---
 
-### Slutsats och nästa steg
+## Säkerhetsaspekter
+
+- **Läkemedelsinteraktioner**: 25 interaktioner finns registrerade, varav de redovisade är av lindrig (minor) grad. De gäller warfarin och en lång rad betablockerare, bland annat atenolol, metoprolol, propranolol, bisoprolol, karvedilol, labetalol, nadolol, sotalol och timolol (även ögondroppar).
+
+För varningar och kontraindikationer, se produktresumén.
+
+---
+
+## Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen gäller GLP-1-analoger och inte glucagon, ingen prövning har testat glucagon vid IBS, och den höga modellpoängen är enbart en beräkningsmässig förutsägelse. Dessutom är båda svenska godkännandena avregistrerade och säkerhetsunderlaget från produktresumén saknas.
+- Evidensnivån är L5, eftersom ingen studie har testat glukagon vid irritabelt tarmsyndrom. Det befintliga stödet gäller GLP-1-analoger, och den höga modellpoängen (0,9924) är enbart en beräknad förutsägelse.
 
 **För att gå vidare krävs:**
-- Hämta och granska produktresumé med varningar och kontraindikationer (blockerande dataglapp).
-- Komplettera verkningsmekanismen för glucagon (t.ex. via DrugBank) och analysera om GLP-1-effekterna kan överföras till glukagonreceptorn.
-- Genomföra prekliniska studier eller en liten kontrollerad klinisk prövning av glucagon hos IBS-patienter, särskilt IBS-C.
-- Klargöra godkännandestatus och möjliga administreringsvägar, eftersom nuvarande beredningar är injektioner.
+- Prekliniska eller kliniska studier som direkt testar glukagon vid irritabelt tarmsyndrom, helst vid den förstoppningsdominerade formen.
+- Belägg för att glukagonreceptoraktivering ger en motsvarande effekt på tarmens rörlighet och smärta som GLP-1-systemet.
+- Fullständig verkningsmekanismdata samt varningar och kontraindikationer från produktresumén.
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

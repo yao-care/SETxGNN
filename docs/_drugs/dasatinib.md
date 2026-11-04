@@ -3,18 +3,18 @@ layout: default
 title: Dasatinib
 parent: Måttlig evidens (L3-L4)
 nav_order: 126
-evidence_level: L4
+evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-04
 monitor_inn: "DASATINIB"
 predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival", "dermatofibrosarcoma protuberans", "ovarian myxoid liposarcoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung"]
-description: "Dasatinib: predikterad ny indikation Ewing sarcoma (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Dasatinib: predikterad ny indikation Ewing sarkom (Ewing sarcoma) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Dasatinib
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **9** st
+Evidensnivå: **L3** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,70 +33,67 @@ Evidensnivå: **L4** | Förutsagda indikationer: **9** st
 
 </div>
 
-## Dasatinib: Ewing sarcoma
+## Dasatinib: Ewing sarkom (Ewing sarcoma)
 {: .text-alpha }
 
 ---
 
-## Sammanfattning
+### Sammanfattning
 
-Dasatinib är en tyrosinkinashämmare som ursprungligen användes för behandling av BCR-ABL1-positiv kronisk myeloisk leukemi (KML), inklusive blastfas.
-TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **Ewings sarkom**, med **2 kliniska prövningar** och **10 publikationer** som för närvarande stöder denna riktning. Den kliniska evidensen är dock svag: monoterapi misslyckades i en fas 2-studie vid avancerade sarkom, och stödet består främst av prekliniska data.
+Dasatinib är en oral kinashämmare som hämmar bland annat BCR-ABL och kinaser i SRC-familjen. TxGNN-modellen förutsäger att det kan vara effektivt mot **Ewing sarkom (Ewing sarcoma)**. Evidensen består av **2 kliniska prövningar** och **10 publikationer** i de sammanställda data, men ingen randomiserad studie visar effekt vid sjukdomen. Evidensnivån bedöms som **L3**.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Ewing sarcoma |
+| Förutsagd ny indikation | Ewing sarkom (Ewing sarcoma) |
 | TxGNN-förutsägelsepoäng | 0.9990 |
-| Evidensnivå | L4 (prekliniska studier och mekanismstudier; de två prövningarna ger inget bekräftat stöd för Ewings sarkom) |
+| Evidensnivå | L3 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | minst 20 |
-| Rekommenderat beslut | Avvakta |
+| Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i den sammanställda datan. Baserat på publicerad litteratur hämmar dasatinib flera tyrosinkinaser, bland annat BCR-ABL och kinaser i SRC-familjen, samt c-KIT och PDGFR. Hämningen av BCR-ABL förklarar effekten vid kronisk myeloisk leukemi.
+Det finns ingen detaljerad uppgift om verkningsmekanismen i de sammanställda data. Dasatinib är dock känt som en multikinashämmare som blockerar BCR-ABL och kinaser i SRC-familjen, och även c-KIT och PDGFR.
 
-Sambandet med Ewings sarkom går via SRC. Prekliniska studier visar att SRC-signalering driver bildning av invadopodier, cellmigration och invasion i Ewings sarkomceller. Dasatinib hämmade dessutom tillväxt och migration i cellinjer från Ewings sarkom och neuroblastom, och inducerade apoptos i bensarkomceller som är beroende av SRC.
+I Ewing sarkom driver SRC-signalering bildning av invadopodier, cellmigration och invasion. Prekliniska studier (bl.a. PMID 18202781, 17363602, 27566104 och 31521948) samt en översikt om FAK-Src-komplexet (PMID 35655525) pekar på SRC-signalering som en möjlig sårbarhet i tumören. Därför är det mekanistiskt rimligt att en SRC-hämmare kan påverka sjukdomen.
 
-Mekanismen är alltså rimlig, men det kliniska stödet saknas hittills. En fas 2-studie av dasatinib som enda läkemedel vid avancerade sarkom inkluderade Ewings sarkom men misslyckades i denna undergrupp enligt en översikt (PMID 35655525). Kombinationsbehandling, till exempel med rapamycin, irinotekan och temozolomid, utreds därför som alternativ.
+Det kliniska stödet är dock begränsat. Översikten från 2022 anger att dasatinib som monoterapi inte gav effekt i Ewing sarkom och rabdomyosarkom i fas 2-studien av avancerade sarkom. Kombinationer, till exempel RIST-regimen (rapamycin, irinotekan, dasatinib, temozolomid), har beskrivits i en liten fallserie.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 | Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
 |---------|------|------|------|---------|
-| [NCT00788125](https://clinicaltrials.gov/study/NCT00788125) | Fas 1/2 | Avslutad i förtid | 7 | Dasatinib i kombination med ifosfamid, karboplatin och etoposid hos barn. Avslutades med endast 7 patienter, så evidensen om effekt och säkerhet är mycket begränsad. |
-| [NCT00464620](https://clinicaltrials.gov/study/NCT00464620) | Fas 2 | Slutförd | 366 | Dasatinib som enda läkemedel vid avancerade sarkom. Blandad population; resultat för Ewings sarkom kan inte särskiljas i den sammanställda datan. |
+| [NCT00788125](https://clinicaltrials.gov/study/NCT00788125) | Fas 1/2 | Avslutad i förtid | 7 | Dasatinib i kombination med ifosfamid, karboplatin och etoposid hos barn. Studien avslutades efter endast 7 patienter och ger lite information om effekt eller säkerhet. |
+| [NCT00464620](https://clinicaltrials.gov/study/NCT00464620) | Fas 2 | Slutförd | 366 | Dasatinib som enda läkemedel vid avancerade sarkom, med svarsfrekvens och 6 månaders progressionsfri överlevnad som mått. Populationen är blandad och resultat specifika för Ewing sarkom kan inte urskiljas ur de data som sammanställts. |
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [35655525](https://pubmed.ncbi.nlm.nih.gov/35655525/) | 2022 | Översikt | Sarcoma | Dasatinib som monoterapi misslyckades i fas 2 vid Ewings sarkom och rabdomyosarkom; FAK-Src-hämning diskuteras som kombinationsstrategi. |
-| [42804591](https://pubmed.ncbi.nlm.nih.gov/42804591/) | 2026 | Fallserie | Journal of Pediatric Hematology/Oncology | Beskrivande erfarenhet från ett centrum av RIST-regimen (rapamycin, irinotekan, dasatinib, temozolomid) vid återfall av Ewings sarkom. |
-| [18202781](https://pubmed.ncbi.nlm.nih.gov/18202781/) | 2008 | In vitro | Oncology Reports | Dasatinib hämmade tillväxt och migration i cellinjer från neuroblastom och Ewings sarkom. |
-| [17363602](https://pubmed.ncbi.nlm.nih.gov/17363602/) | 2007 | In vitro | Cancer Research | Dasatinib hämmade migration och invasion i flera sarkomcellinjer och inducerade apoptos i bensarkomceller som är beroende av SRC. |
-| [27566104](https://pubmed.ncbi.nlm.nih.gov/27566104/) | 2016 | In vitro | Neoplasia | Mikromiljöstress aktiverar SRC-beroende invadopodier och cellmigration vid Ewings sarkom. |
-| [31521948](https://pubmed.ncbi.nlm.nih.gov/31521948/) | 2019 | In vitro | Neoplasia | Tenascin C och SRC samverkar och främjar invadopodiebildning vid Ewings sarkom. |
-| [26170970](https://pubmed.ncbi.nlm.nih.gov/26170970/) | 2015 | Översikt | Oncology Letters | SRC-signalering diskuteras som potentiellt läkemedelsmål vid sarkom. |
-| [35190971](https://pubmed.ncbi.nlm.nih.gov/35190971/) | 2022 | Översikt | Current Treatment Options in Oncology | Översikt över systemisk behandling av kondrosarkom; indirekt relevans för Ewings sarkom. |
-| [29776413](https://pubmed.ncbi.nlm.nih.gov/29776413/) | 2018 | In vitro | Cell Communication and Signaling | Studie av plerixafor i cellinjer från Ewings sarkom; dasatinib är inte huvudämne, så relevansen är låg. |
+| [42804591](https://pubmed.ncbi.nlm.nih.gov/42804591/) | 2026 | Deskriptiv fallserie | Journal of Pediatric Hematology/Oncology | Erfarenhet av RIST-regimen (inkl. dasatinib) vid återfallande Ewing sarkom; utfallen vid återfall är fortsatt dåliga. |
+| [35655525](https://pubmed.ncbi.nlm.nih.gov/35655525/) | 2022 | Översikt | Sarcoma | FAK-Src som mål vid bl.a. Ewing sarkom; dasatinib som enda läkemedel misslyckades i fas 2-studien för dessa subtyper. |
+| [26170970](https://pubmed.ncbi.nlm.nih.gov/26170970/) | 2015 | Översikt | Oncology Letters | Src-signalering har en roll vid sarkom och kan vara ett läkemedelsmål. |
+| [18202781](https://pubmed.ncbi.nlm.nih.gov/18202781/) | 2008 | In vitro-studie | Oncology Reports | Dasatinib hämmade tillväxt och migration i cellinjer från neuroblastom och Ewing sarkom. |
+| [17363602](https://pubmed.ncbi.nlm.nih.gov/17363602/) | 2007 | In vitro-studie | Cancer Research | Dasatinib hämmade migration och invasion i sarkomcellinjer och inducerade apoptos i bencellinjer beroende av SRC. |
+| [27566104](https://pubmed.ncbi.nlm.nih.gov/27566104/) | 2016 | In vitro-studie | Neoplasia | Mikromiljöstress ger SRC-beroende aktivering av invadopodier och migration i Ewing sarkom. |
+| [31521948](https://pubmed.ncbi.nlm.nih.gov/31521948/) | 2019 | In vitro-studie | Neoplasia | Tenascin C och Src samverkar och främjar invadopodiebildning i Ewing sarkom. |
 
 ---
 
-## Marknadsinformation Sverige
+### Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna och inget är för närvarande giltigt. Indikationstext finns inte registrerad för något av godkännandena. Nedan visas fem av dem.
+Dasatinib är marknadsfört i Sverige. Nedan visas de fem första av 20 registrerade godkännanden (listan kan vara ofullständig). Ingen indikationstext finns registrerad i de lokala data.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -108,43 +105,39 @@ Alla 20 godkännanden är indragna och inget är för närvarande giltigt. Indik
 
 ---
 
-## Cytotoxicitet
+### Cytotoxicitet
 
 | Post | Innehåll |
 |------|------|
-| Cytotoxicitetsklassificering | Målriktad terapi (multikinashämmare) |
-| Myelosuppressionsrisk | Hög. Kunskapsgrafen anger neutropeni, trombocytopeni och agranulocytos som kontraindikationsrelaterade tillstånd. |
+| Cytotoxicitetsklassificering | Målriktad terapi (tyrosinkinashämmare) |
+| Myelosuppressionsrisk | Medel till hög; neutropeni och trombocytopeni är relevanta risker |
 | Emetogenicitetsklassificering | Låg |
-| Övervakningspunkter | Blodstatus (neutrofiler, trombocyter, hemoglobin), leverfunktion, EKG/QT-intervall, tecken på pleura- och perikardiell vätska |
+| Övervakningspunkter | Blodstatus, lever- och njurfunktion, EKG (QT-tid), tecken på vätskeretention |
 | Hanteringsskydd | Se produktresumén för varningar och försiktighetsåtgärder |
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-- **Tillstånd där försiktighet indikeras (från kunskapsgrafen, inte från produkttext)**: Långt QT-syndrom, torsades de pointes, leversjukdom, gallblåsesjukdom, trombocytopeni, neutropeni, agranulocytos, anemi, kongestiv hjärtsvikt, hjärtinfarkt, aktivt magsår, intracerebral blödning och perikardiell vätska.
-- **Läkemedelsinteraktioner**: 100 interaktioner identifierade. Allvarliga (Major) interaktioner gäller bland annat:
-  - syrahämmande läkemedel: famotidin, ranitidin, cimetidin, omeprazol, rabeprazol
-  - dexametason
-  - acetylsalicylsyra
-  - klaritromycin
+Uppgifter om varningar och kontraindikationer från produktresumén ingår inte i de sammanställda data. Se produktresumén för säkerhetsinformation.
 
-  Interaktioner av måttlig grad omfattar bland annat hydrokortison, budesonid, loperamid, aprepitant, antacida (aluminiumhydroxid, kalciumkarbonat, magnesiumoxid) och saxagliptin.
+- **Läkemedelsinteraktioner**: 100 interaktioner identifierades. De allvarligaste (Major) omfattar syrahämmande läkemedel (famotidin, ranitidin, cimetidin, rabeprazol, omeprazol), dexametason, acetylsalicylsyra och klaritromycin. Måttliga interaktioner omfattar bland annat hydrokortison, loperamid, aprepitant, budesonid, magnesiumoxid, aluminiumhydroxid och kalciumkarbonat.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
-**Beslut: Avvakta**
+**Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Mekanismen via SRC är rimlig och stöds av prekliniska data, men den enda större kliniska studien (monoterapi vid avancerade sarkom) visade ingen effekt vid Ewings sarkom, och kombinationsprövningen avslutades efter 7 patienter.
-- Dessutom är samtliga svenska godkännanden indragna, och säkerhetsprofilen kräver noggrann övervakning (blodstatus, QT, vätskeretention).
+- Det finns en rimlig mekanism via SRC-hämning och en hög modellpoäng, men dasatinib som enda läkemedel har inte visat effekt vid Ewing sarkom. Stödet i övrigt är begränsat till en liten fallserie, en blandad fas 2-studie och prekliniska data, och ingen randomiserad studie finns.
 
 **För att gå vidare krävs:**
-- Resultat för Ewings sarkom separat från fas 2-studien NCT00464620
-- Prospektiva studier av kombinationsregimer (t.ex. RIST) med tillräckligt antal patienter
-- Detaljerad information om verkningsmekanism och säkerhet från produktresumén
+- Ewing-specifika resultat från den avslutade fas 2-studien av avancerade sarkom (NCT00464620).
+- Prospektiva, kontrollerade studier av dasatinib i kombinationsregimer vid Ewing sarkom.
+- Granskning av produktresumén för varningar, kontraindikationer och dosering, särskilt hos barn och ungdomar.
+- Bedömning av interaktionsrisker (t.ex. syrahämmare och CYP3A4-hämmare) i en möjlig kombinationsbehandling.
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

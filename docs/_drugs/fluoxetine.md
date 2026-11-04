@@ -7,8 +7,8 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "fluoxetine"
 predicted_indications: ["schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-11-03
-description: "Fluoxetine: predikterad ny indikation Schizotypisk personlighetsstörning (schizotypal personality disorder) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+last_modified_at: 2026-11-04
+description: "Fluoxetine: predikterad ny indikation Schizotyp personlighetsstörning (schizotypal personality disorder) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Fluoxetine
@@ -33,23 +33,21 @@ Evidensnivå: **L3** | Förutsagda indikationer: **8** st
 
 </div>
 
-## Fluoxetine: Schizotypisk personlighetsstörning (schizotypal personality disorder)
+## Fluoxetine: Schizotyp personlighetsstörning (schizotypal personality disorder)
 {: .text-alpha }
 
----
+### Sammanfattning
 
-## Sammanfattning
-
-Fluoxetin är en SSRI som är marknadsförd i Sverige. TxGNN-modellen förutsäger att fluoxetin kan vara effektivt mot **schizotypisk personlighetsstörning (schizotypal personality disorder)**. Underlaget består av **0 registrerade kliniska prövningar** och **10 publikationer**, varav en liten öppen studie på 22 patienter med borderline- eller schizotypisk personlighetsstörning är den enda som direkt prövat fluoxetin. Evidensen är därför begränsad och förutsägelsen bör ses som en forskningsfråga.
+Fluoxetin är en selektiv serotoninåterupptagshämmare (SSRI) som används vid flera psykiatriska tillstånd. TxGNN-modellen förutsäger att det kan vara effektivt mot **schizotyp personlighetsstörning (schizotypal personality disorder)**. Underlaget består av **0 kliniska prövningar** och **10 publikationer**, varav en är en öppen, icke-blindad klinisk studie med fluoxetin (evidensnivå **L3**).
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Schizotypisk personlighetsstörning (schizotypal personality disorder) |
+| Förutsagd ny indikation | Schizotyp personlighetsstörning (schizotypal personality disorder) |
 | TxGNN-förutsägelsepoäng | 0.9992 |
 | Evidensnivå | L3 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 12 av 13) |
@@ -58,39 +56,38 @@ Fluoxetin är en SSRI som är marknadsförd i Sverige. TxGNN-modellen förutsäg
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig för detta läkemedel. Fluoxetin tillhör SSRI-klassen. Dessa läkemedel ökar tillgången på serotonin i synapsen genom att hämma dess återupptag. Mekanistiskt kan de därför vara tillämpbara på schizotypisk personlighetsstörning.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Fluoxetin tillhör SSRI-klassen, som verkar genom att öka tillgången på serotonin i synapsen.
 
-Serotonin påverkar tvångsmässiga, affektiva och impulsivt-aggressiva symptom. Sådana symptom överlappar delvis med schizotypa drag. Därför är det rimligt att en SSRI kan lindra en del av symtombilden.
-
-Slutsatsen är rimlig men inte bekräftad. Stödet kommer från en liten, icke-blindad studie och från översiktsartiklar. Några kontrollerade prövningar eller registrerade studier har inte identifierats. Förutsägelsen verkar dessutom delvis bygga på likhet med andra personlighets- och förstämningsstörningar.
+Serotonerg modulering kan minska tvångsmässiga, affektiva och impulsivt-aggressiva symtom, som delvis överlappar med schizotypa drag. I en prospektiv, öppen 12-veckorsstudie av 22 patienter med borderline- eller schizotyp personlighetsstörning sågs minskad självskadebeteende och lägre symtompoäng. Slutsatsen är rimlig men inte bekräftad: underlaget är litet, icke-blindat och äldre.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [1853957](https://pubmed.ncbi.nlm.nih.gov/1853957/) | 1991 | Klinisk studie (öppen, icke-blindad) | The American Journal of Psychiatry | 22 patienter med borderline- och/eller schizotypisk personlighetsstörning fick fluoxetin i 12 veckor. Självskadande beteende och symtompoäng (Hopkins Symptom Checklist) minskade signifikant oavsett diagnos. Författarna efterlyser kontrollerade studier. |
-| [9448667](https://pubmed.ncbi.nlm.nih.gov/9448667/) | 1998 | Översikt över klinisk utfall | The Journal of Clinical Psychiatry | Det finns inget förstahandsläkemedel vid borderline- eller schizotypisk personlighetsstörning. Olika läkemedelsklasser kan ge nytta för utvalda patienter beroende på symtombild. |
-| [29955451](https://pubmed.ncbi.nlm.nih.gov/29955451/) | 2016 | Översikt | The Mental Health Clinician | Går igenom läkemedelsbehandling vid personlighetsstörningar i kluster A, inklusive schizotypisk. |
-| [8227492](https://pubmed.ncbi.nlm.nih.gov/8227492/) | 1993 | Översikt | Journal of Clinical Psychopharmacology | Beskriver modeller och strategier för läkemedelsbehandling vid personlighetsstörningar och sammanfattar effektdata. |
-| [12214786](https://pubmed.ncbi.nlm.nih.gov/12214786/) | 2002 | Översikt (indirekt) | Psychological Medicine | Personlighetsstörningsdiagnoser bedömdes hos deprimerade patienter före och efter fluoxetinbehandling. Studien är indirekt relevant. |
-| [15209835](https://pubmed.ncbi.nlm.nih.gov/15209835/) | 2004 | Kohortstudie (indirekt) | The Australian and New Zealand Journal of Psychiatry | Jämför personlighetsdrag och behandlingsutfall vid bipolär II-sjukdom och egentlig depression. Studien är indirekt relevant. |
-| [9664779](https://pubmed.ncbi.nlm.nih.gov/9664779/) | 1998 | Fallrapport (biverkning) | Psychosomatics | Beskriver övergående psykos med psykogen polydipsi hos en schizotypisk patient som tog fluoxetin. |
+| [1853957](https://pubmed.ncbi.nlm.nih.gov/1853957/) | 1991 | Öppen klinisk studie | The American Journal of Psychiatry | 22 patienter med borderline- eller schizotyp personlighetsstörning behandlades med fluoxetin i 12 veckor; minskad självskada och lägre symtompoäng. Kontrollerade studier efterlyses. |
+| [9448667](https://pubmed.ncbi.nlm.nih.gov/9448667/) | 1998 | Kohort/klinisk utfallsstudie | The Journal of Clinical Psychiatry | Översikt av läkemedelsbehandling vid borderline och schizotyp personlighetsstörning; inget förstahandsval finns, olika läkemedel kan hjälpa utifrån symtombild. |
+| [29955451](https://pubmed.ncbi.nlm.nih.gov/29955451/) | 2016 | Översikt | The Mental Health Clinician | Genomgång av läkemedelsbehandling vid kluster A-personlighetsstörningar, inklusive schizotyp. |
+| [8227492](https://pubmed.ncbi.nlm.nih.gov/8227492/) | 1993 | Översikt | Journal of Clinical Psychopharmacology | Konceptuella modeller och kliniska strategier för läkemedelsbehandling vid personlighetsstörningar. |
+| [12214786](https://pubmed.ncbi.nlm.nih.gov/12214786/) | 2002 | Översikt (indirekt) | Psychological Medicine | Personlighetsstörningsdiagnoser hos deprimerade patienter före och efter behandling med fluoxetin. |
+| [15209835](https://pubmed.ncbi.nlm.nih.gov/15209835/) | 2004 | Kohort (indirekt) | Australian and New Zealand Journal of Psychiatry | Personlighet och utfall vid bipolär II-sjukdom; indirekt relevans. |
+| [7635854](https://pubmed.ncbi.nlm.nih.gov/7635854/) | 1995 | Kohort (indirekt) | The Journal of Clinical Psychiatry | Prediktorer för läkemedelssvar vid tvångssyndrom; indirekt relevans. |
+| [9664779](https://pubmed.ncbi.nlm.nih.gov/9664779/) | 1998 | Fallrapport (biverkan) | Psychosomatics | Övergående psykos med psykogen polydipsi hos en schizotyp patient som tog fluoxetin. |
+| [33634761](https://pubmed.ncbi.nlm.nih.gov/33634761/) | 2021 | Fallrapport (annat läkemedel) | CNS & Neurological Disorders Drug Targets | Katatoni behandlad med asenapin hos patient med schizotyp personlighetsstörning; gäller inte fluoxetin. |
+| [37082034](https://pubmed.ncbi.nlm.nih.gov/37082034/) | 2021 | Fallrapport (indirekt) | Postępy Psychiatrii i Neurologii | Samsjuklighet mellan tvångssyndrom och anorexia nervosa; indirekt relevans. |
 
 ---
 
-## Marknadsinformation Sverige
-
-Fluoxetin är marknadsfört i Sverige. Av 13 godkännanden för enkomponentsprodukter är 12 giltiga och 1 avregistrerat. Nedan visas fem av de giltiga godkännandena.
+### Marknadsinformation Sverige
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -100,39 +97,31 @@ Fluoxetin är marknadsfört i Sverige. Av 13 godkännanden för enkomponentsprod
 | 19769 | Fluoxetin Orifarm | Dispergerbar tablett | Ej angiven i underlaget |
 | 18088 | Fluoxetin Sandoz | Dispergerbar tablett | Ej angiven i underlaget |
 
----
-
-## Säkerhetsaspekter
-
-- **Läkemedelsinteraktioner:** Totalt 360 interaktioner finns registrerade. Bland de som klassas som allvarliga (Major) finns:
-  - bupropion
-  - lorcaserin
-  - dietylpropion
-  - dolasetron
-  - eliglustat
-  - palonosetron
-  - cisaprid
-
-  Flera ytterligare interaktioner har klassats som måttliga, till exempel med acetylsalicylsyra, morfin, klaritromycin och famotidin.
-- **Signal i litteraturen:** En fallrapport beskriver övergående psykos hos en schizotypisk patient som behandlades med fluoxetin. Detta motiverar noggrann övervakning om fluoxetin prövas vid denna diagnos.
-
-Se i övrigt produktresumén för fullständig säkerhetsinformation.
+Totalt finns 13 godkännanden, varav 12 är giltiga och 1 är avregistrerat. Listan ovan visar de fem första.
 
 ---
 
-## Slutsats och nästa steg
+### Säkerhetsaspekter
+
+- **Läkemedelsinteraktioner**: 360 interaktioner är registrerade. Bland de som klassas som allvarliga (Major) finns bupropion, lorkaserin, dietylpropion, dolasetron, eliglustat, palonosetron och cisaprid. Måttliga interaktioner finns bland annat med acetylsalicylsyra, morfin, klaritromycin, famotidin och loperamid.
+- **Fallrapport om biverkan**: övergående psykos med psykogen polydipsi har rapporterats hos en schizotyp patient som behandlades med fluoxetin (PMID 9664779).
+
+Se även produktresumén för fullständig säkerhetsinformation.
+
+---
+
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen består av en liten, icke-blindad studie på 22 patienter med blandad borderline- och schizotypisk diagnos, samt översikter. Inga kliniska prövningar är registrerade.
-- Översikterna konstaterar att det saknas ett förstahandsläkemedel, och en fallrapport ger en säkerhetssignal.
+- Det enda direkta stödet är en liten, öppen studie från 1991 utan kontrollgrupp, och inga kliniska prövningar är registrerade. Evidensnivån är L3.
 
 **För att gå vidare krävs:**
-- En randomiserad, kontrollerad studie av fluoxetin vid schizotypisk personlighetsstörning, med denna diagnos som separat grupp.
-- En tydligare mekanistisk analys av hur serotonerg modulering påverkar schizotypa symtom.
-- Utvärdering av risken för psykotiska biverkningar hos patienter med schizotypa drag.
-- Genomgång av produktresumén för varningar, kontraindikationer och interaktioner.
+- Kontrollerade, randomiserade studier av fluoxetin vid schizotyp personlighetsstörning
+- Utvärdering av risken för psykotisk försämring i denna population
+- Granskning av produktresumén för varningar och kontraindikationer
+- Genomgång av interaktionsrisker vid samtidig medicinering
 
 ## Ansvarsfriskrivning
 

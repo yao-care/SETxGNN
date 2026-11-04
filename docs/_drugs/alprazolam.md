@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Alprazolam
-parent: Endast modellprediktion (L5)
+parent: Måttlig evidens (L3-L4)
 nav_order: 23
-evidence_level: L5
+evidence_level: L3
 indication_count: 2
 monitor_inn: "ALPRAZOLAM"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-03
-description: "Alprazolam: predikterad ny indikation Sömnlöshet (insomnia (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+last_modified_at: 2026-11-04
+description: "Alprazolam: predikterad ny indikation Insomni (insomnia (disease)) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Alprazolam
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **2** st
+Evidensnivå: **L3** | Förutsagda indikationer: **2** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,69 +33,60 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 </div>
 
-## Alprazolam: Sömnlöshet (insomnia (disease))
+## Alprazolam: Insomni (insomnia (disease))
 {: .text-alpha }
 
----
+### Sammanfattning
 
-## Sammanfattning
-
-Alprazolam är en bensodiazepin som är godkänd och marknadsförd i Sverige. TxGNN-modellen förutsäger att den kan vara verksam mot **sömnlöshet (insomnia (disease))**, med en förutsägelsepoäng på 0,9981. Underlaget består av **0 kliniska prövningar** och 18 publikationer. Ingen av dem är en kontrollerad studie av alprazolam vid primär sömnlöshet, så evidensen är svag.
+Alprazolam är en bensodiazepin som är godkänd och marknadsförd i Sverige. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **insomni (insomnia (disease))**. Evidensen är begränsad: inga kliniska prövningar finns registrerade, och litteraturen består främst av en retrospektiv observationsstudie samt indirekta studier och översikter. Evidensnivån är **L3**.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Sömnlöshet (insomnia (disease)) |
+| Förutsagd ny indikation | Insomni (insomnia (disease)) |
 | TxGNN-förutsägelsepoäng | 0.9981 |
-| Evidensnivå | L5 |
+| Evidensnivå | L3 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Alprazolam tillhör dock bensodiazepinerna. Klassen förstärker GABA-A-receptorns signalering i hjärnan och ger sederande effekter. Resonemanget bygger alltså på allmän klassfarmakologi och inte på läkemedelsspecifika data.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Baserat på allmän kunskap om läkemedelsklassen är alprazolam en bensodiazepin, och dessa förstärker signaleringen via GABA-A-receptorn, vilket ger lugnande och ångestdämpande effekter.
 
-En sederande och sömnfrämjande effekt är mekanistiskt rimlig. Sömnlöshet förekommer dessutom ofta tillsammans med ångest, vilket gör att samma typ av läkemedel kan vara relevant. Bensodiazepiner används också sedan länge som sömnmedel.
+Denna sedativa effekt ger en rimlig mekanistisk grund för sömnfrämjande verkan. Insomni förekommer dessutom ofta tillsammans med ångest, vilket gör att läkemedlets kliniska profil ligger nära det förutsagda användningsområdet.
 
-Poängen 0,9981 är en beräkningsmässig förutsägelse och inte klinisk evidens. Den hittade litteraturen innehåller ingen kontrollerad prövning av alprazolam vid primär sömnlöshet. Dessutom är riskerna med bensodiazepiner välkända: beroende, toleransutveckling, fall och kognitiv påverkan, särskilt hos äldre.
+Resonemanget bygger dock på allmän farmakologi för bensodiazepiner och inte på direkta studier av alprazolam vid primär insomni. Den höga modellpoängen är en beräknad förutsägelse och ingen klinisk evidens.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
-## Litteraturbevis
-
-Nästan all litteratur är indirekt. Ingen studie utvärderar alprazolam som behandling av primär sömnlöshet.
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [39183410](https://pubmed.ncbi.nlm.nih.gov/39183410/) | 2024 | Retrospektiv observationsstudie | Medicine | 116 patienter med kranskärlssjukdom och sömnlöshet. Alprazolam användes i kontrollgruppen och jämfördes med integrativ behandling (moxibustion och öronakupunktur). Indirekt evidens. |
-| [38363887](https://pubmed.ncbi.nlm.nih.gov/38363887/) | 2024 | Tvärsnittsstudie | Medicine | Sömnlöshet bland covid-19-överlevare och påverkande faktorer. Studerar inte alprazolam. |
-| [15341891](https://pubmed.ncbi.nlm.nih.gov/15341891/) | 2004 | Receptanalys | Sleep Medicine | Förskrivningsmönster för sömnmedel i en stor vårdpopulation. Beskriver användning, inte effekt. |
-| [39295670](https://pubmed.ncbi.nlm.nih.gov/39295670/) | 2024 | Fallrapport | Cureus | Homeopatisk behandling av ihållande sömnlöshet med samtidig generaliserad ångest. Inte relaterad till alprazolam. |
-| [37801512](https://pubmed.ncbi.nlm.nih.gov/37801512/) | 2023 | Preklinisk studie (mus) | Aging | Upprepad alprazolamgivning gav mitokondriell dysfunktion och försämrad minneskonsolidering i hippocampus. Pekar på säkerhetsrisker. |
-| [36692463](https://pubmed.ncbi.nlm.nih.gov/36692463/) | 2023 | Metaanalys / observationsstudier | Acta Pharmaceutica | Lugnande behandling hos äldre med kroniska sjukdomar, med fokus på dos och biverkningar. Indirekt. |
-| [37984023](https://pubmed.ncbi.nlm.nih.gov/37984023/) | 2024 | Prediktionsmodell / hälsoekonomi | Value in Health Regional Issues | Bensodiazepiner förskrivs mot bland annat sömnlöshet. Långvarig användning kopplas till minnesförlust, beroende, fall och trafikolyckor. |
-| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Översikt | Expert Opinion on Drug Metabolism & Toxicology | Farmakokinetik för ångestdämpande läkemedel. Bakgrundsinformation. |
-| [35493764](https://pubmed.ncbi.nlm.nih.gov/35493764/) | 2022 | Kohortstudie | JHEP Reports | Utsättning av zolpidem minskade fall och frakturer hos patienter med cirros. Indirekt. |
-| [35041261](https://pubmed.ncbi.nlm.nih.gov/35041261/) | 2022 | RCT | Brain and Behavior | Eszopiklon och sömnkvalitet hos äldre med Alzheimers sjukdom och sömnstörning. Annat läkemedel, indirekt. |
+| [39183410](https://pubmed.ncbi.nlm.nih.gov/39183410/) | 2024 | Retrospektiv observationsstudie | Medicine | 116 patienter med kranskärlssjukdom och insomni. Kontrollgruppen fick alprazolam, försöksgruppen kombinationsbehandling med moxibustion och öronakupunktur. Studien är indirekt eftersom den främst utvärderar kombinationsbehandlingen. |
+| [38363887](https://pubmed.ncbi.nlm.nih.gov/38363887/) | 2024 | Tvärsnittsstudie | Medicine | Insomni hos överlevare av covid-19. Indirekt relevans, studerar inte alprazolam. |
+| [36692463](https://pubmed.ncbi.nlm.nih.gov/36692463/) | 2023 | Metaanalys | Acta pharmaceutica | Lugnande behandling hos äldre med kroniska sjukdomar, med fokus på dos och biverkningar. Indirekt relevans. |
+| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Översikt | Expert Opinion on Drug Metabolism & Toxicology | Farmakokinetik för ångestdämpande läkemedel. |
+| [37984023](https://pubmed.ncbi.nlm.nih.gov/37984023/) | 2024 | Prediktiv modell/ekonomisk analys | Value in Health Regional Issues | Användning och ekonomisk börda av bensodiazepiner. Långvarig användning kopplas till minnesförlust, beroende och fall. |
+| [15341891](https://pubmed.ncbi.nlm.nih.gov/15341891/) | 2004 | Receptmönsterstudie | Sleep Medicine | Förskrivningsmönster för sömnmedel i en stor vårdpopulation. |
+| [35493764](https://pubmed.ncbi.nlm.nih.gov/35493764/) | 2022 | Kohortstudie | JHEP Reports | Utsättning av zolpidem minskade fall och frakturer vid cirros. Indirekt relevans. |
 
 ---
 
-## Marknadsinformation Sverige
-
-Alprazolam har på marknaden flera godkända läkemedel i tablett- och depottablettform. Nedan visas fem av dem, och listan kan vara partiell.
+### Marknadsinformation Sverige
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
 |---------|------|------|-----------|
@@ -105,33 +96,32 @@ Alprazolam har på marknaden flera godkända läkemedel i tablett- och depottabl
 | 56346 | Alprazolam Krka d.d. | Tablett | Krka d.d., Novo mesto |
 | 62695 | Alprazolam Grindeks | Tablett | AS GRINDEKS |
 
----
-
-## Säkerhetsaspekter
-
-- **Läkemedelsinteraktioner:** Totalt 100 interaktioner finns registrerade. De viktigaste är:
-  - **Allvarlig (Major):** morfin och liposomalt morfin. Samtidig användning ger risk för additiv andningsdepression och sedering.
-  - **Måttlig (Moderate):** bland annat aprepitant, bupropion, cimetidin, klaritromycin, klotrimazol, dronabinol, eliglustat, glycerolfenylbutyrat, metoklopramid och mikonazol.
-  - **Lindrig (Minor):** bland annat aluminiumhydroxid, kalciumkarbonat, magnesiumpreparat, betametason och dexametason.
-- **Klassrelaterade risker:** Bensodiazepiner är förknippade med beroende, toleransutveckling, fall och kognitiv påverkan, särskilt hos äldre. Den prekliniska studien ovan pekar på möjlig påverkan på minnesfunktion vid upprepad givning.
-
-Se produktresumén för fullständiga varningar och kontraindikationer.
+Minst 20 godkännanden finns registrerade och alla är giltiga. Listan ovan visar endast ett urval och kan vara ofullständig.
 
 ---
 
-## Slutsats och nästa steg
+### Säkerhetsaspekter
+
+**Läkemedelsinteraktioner** (100 interaktioner identifierade, urval av de viktigaste):
+- **Allvarliga (Major)**: morfin, liposomalt morfin. Samtidig användning kan ge additiv andningsdepression och sedering.
+- **Måttliga (Moderate)**: aprepitant, bupropion, cimetidin, klaritromycin, klotrimazol, dronabinol, eliglustat, glycerolfenylbutyrat, metoklopramid, mikonazol.
+- **Lindriga (Minor)**: bland annat aluminiumhydroxid, kalciumkarbonat, magnesiumhydroxid och kortikosteroider som betametason och dexametason.
+
+Se i övrigt produktresumén för varningar och kontraindikationer. Litteraturen lyfter att bensodiazepiner som sömnmedel är förknippade med beroende, toleransutveckling, fall och kognitiv påverkan, särskilt hos äldre.
+
+---
+
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen har hög modellpoäng (0,9981), men det finns inga kliniska prövningar och ingen litteratur som direkt studerar alprazolam vid sömnlöshet, vilket ger evidensnivå L5.
-- Bensodiazepinernas kända risker med beroende, fall och kognitiv påverkan kräver särskild försiktighet.
+- Den förutsagda indikationen insomni har hög modellpoäng, men evidensen (L3) utgörs av en enda retrospektiv observationsstudie där alprazolam ingår i en kombinationsbehandling, och inga kliniska prövningar finns. Säkerhetsrisker med bensodiazepiner som sömnmedel kräver noggrann bedömning.
 
 **För att gå vidare krävs:**
-- Kontrollerade kliniska studier (helst randomiserade) av alprazolam vid primär sömnlöshet, jämfört med etablerade alternativ.
-- Detaljerad information om verkningsmekanismen.
-- Genomgång av produktresumén med varningar och kontraindikationer samt en säkerhetsvärdering för långtidsanvändning och äldre patienter.
-- Bedömning av interaktionsrisker, särskilt med opioider.
+- Randomiserade kontrollerade studier av alprazolam vid primär insomni.
+- Kompletterande mekanismdata och en genomgång av produktresumén för varningar och kontraindikationer.
+- Utvärdering av risker för beroende, tolerans, fall och kognitiv påverkan, särskilt hos äldre patienter.
 
 ## Ansvarsfriskrivning
 

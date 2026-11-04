@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Valsartan
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 446
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-04
 monitor_inn: "VALSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
-description: "Valsartan: predikterad ny indikation Malignant hypertensive renal disease (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Valsartan: predikterad ny indikation Malign hypertensiv njursjukdom (malignant hypertensive renal disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Valsartan
 {: .fs-9 }
 
-Evidensnivå: **L4** | Förutsagda indikationer: **6** st
+Evidensnivå: **L5** | Förutsagda indikationer: **6** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidensnivå: **L4** | Förutsagda indikationer: **6** st
 
 </div>
 
-## Valsartan: Malignant hypertensive renal disease
+## Valsartan: Malign hypertensiv njursjukdom (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Valsartan är en angiotensin II-receptorblockerare (ARB) som ursprungligen används för behandling av högt blodtryck (hypertoni). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **malign renovaskulär hypertoni**, men det finns **inga kliniska prövningar** och endast **1 publikation** (en preklinisk djurstudie) som stöder denna riktning. Evidensen är därmed svag och indirekt.
+Valsartan är en angiotensin II-receptorblockerare som används vid högt blodtryck. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **malign hypertensiv njursjukdom (malignant hypertensive renal disease)**. Det finns **inga kliniska prövningar** och **en publikation** som rör ämnet, men ingen av dem har studerat valsartan vid just denna sjukdom. Evidensnivån är därför **L5**.
 
 ---
 
@@ -49,9 +49,9 @@ Valsartan är en angiotensin II-receptorblockerare (ARB) som ursprungligen anvä
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Malignant hypertensive renal disease |
+| Förutsagd ny indikation | Malign hypertensiv njursjukdom (malignant hypertensive renal disease) |
 | TxGNN-förutsägelsepoäng | 0.9997 |
-| Evidensnivå | L4 (endast preklinisk/mekanistisk evidens) |
+| Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
 | Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
@@ -60,11 +60,17 @@ Valsartan är en angiotensin II-receptorblockerare (ARB) som ursprungligen anvä
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det sammanställda underlaget. Baserat på allmänt känd information blockerar valsartan angiotensin II typ 1-receptorn (AT1), vilket sänker blodtrycket vid hypertoni.
+Det finns för närvarande ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Valsartan tillhör klassen angiotensin II-receptorblockerare, som verkar genom att blockera renin-angiotensinsystemet.
 
-Malign hypertoni, särskilt den renin-beroende formen, drivs i hög grad av förhöjda nivåer av angiotensin II. Att blockera AT1-receptorn är därför mekanistiskt rimligt och i praktiken en förlängning av den godkända hypertoniindikationen.
+Blockad av renin-angiotensinsystemet är teoretiskt rimlig för att skydda njurarna vid hypertensiv njurskada, eftersom systemet påverkar både blodtryck och trycket i njurens kärl. Det är den huvudsakliga mekanistiska kopplingen bakom förutsägelsen.
 
-Det enda stödjande underlaget är en djurstudie från 2001 som visade att AT1-blockad kunde förebygga dödlig malign hypertoni, kopplat till minskad njurinflammation. Eftersom det saknas kliniska studier på människa är sambandet indirekt.
+Underlaget är dock svagt. Den enda hittade artikeln gäller avosentan, en endotelinantagonist, och inte valsartan. Den är dessutom en preklinisk djurstudie. Det finns alltså inga valsartanspecifika kliniska data för denna sjukdom.
+
+---
+
+### Kliniska prövningar
+
+Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ---
 
@@ -72,13 +78,13 @@ Det enda stödjande underlaget är en djurstudie från 2001 som visade att AT1-b
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [11560862](https://pubmed.ncbi.nlm.nih.gov/11560862/) | 2001 | Preklinisk (djurstudie) | Circulation | AT1-receptorblockad förebyggde dödlig malign hypertoni, kopplat till minskad njurinflammation. |
+| [24368192](https://pubmed.ncbi.nlm.nih.gov/24368192/) | 2014 | Prekliniskt (djurstudie, annat läkemedel) | Pharmacological research | Avosentan, en endotelinantagonist, skyddade mot hypertensiv njurskada hos transgena råttor vid doser som inte gav vätskeretention. Studien gäller inte valsartan. |
 
 ---
 
 ### Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är indragna. De fem första visas nedan; godkänd indikationstext saknas för dessa.
+Enligt de sammanställda uppgifterna är läkemedlet på marknaden i Sverige. Listan nedan kan vara ofullständig.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -92,24 +98,12 @@ Samtliga 20 godkännanden är indragna. De fem första visas nedan; godkänd ind
 
 ### Säkerhetsaspekter
 
-**Kontraindikationer enligt kunskapsgraf (inte produkttext):** Följande tillstånd är kopplade till valsartan som kontraindikationer eller försiktighetsområden, bland annat:
-- Lever- och gallsjukdomar (leversvikt, leversjukdom, hepatisk encefalopati, gallblåsesjukdom, pankreatit)
-- Angioödem (inklusive ärftligt och RAAS-blockerarinducerat)
-- Njursjukdom och njurartärobstruktion, anuri, nedsatt njurfunktion
-- Kaliumbrist, hyperkalcemi, rubbad fosformetabolism, nefrokalcinos
-- Diabetes mellitus, diabetisk ketoacidos
-- Hypotoni
-- Neutropeni och agranulocytos
-- Systemisk lupus erythematosus, gikt
+- **Läkemedelsinteraktioner**: Totalt 100 interaktioner har registrerats. De allvarligaste är:
+  - **Kaliumklorid** (allvarlig)
+  - **Kaliumbikarbonat** (allvarlig)
+  - Måttliga interaktioner finns bland annat med hydrokortison, exenatid, eluxadolin, polyetylenglykol med elektrolyter samt flera insulinpreparat (risk för förstärkt blodsockersänkande effekt).
 
-**Läkemedelsinteraktioner (100 identifierade; de viktigaste):**
-- **Kaliumklorid och kaliumbikarbonat**: allvarlig (Major) interaktion, risk för hyperkalemi.
-- **Insuliner (flera typer) och exenatid**: måttlig interaktion, påverkan på blodsockerkontroll.
-- **Hydrokortison, eluxadolin, polyetylenglykol med elektrolyter**: måttliga interaktioner.
-
-Under graviditet bör läkemedel som påverkar renin-angiotensinsystemet undvikas, då de har kopplats till fosterskador (PMID 26105460).
-
-Se produktresumén för fullständig säkerhetsinformation.
+Se produktresumén för fullständig information om varningar och kontraindikationer.
 
 ---
 
@@ -118,12 +112,14 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen är mekanistiskt rimlig men stöds endast av en preklinisk djurstudie och saknar kliniska prövningar. Dessutom är alla svenska godkännanden indragna.
+- Förutsägelsen bygger på en hög modellpoäng och ett rimligt mekanistiskt resonemang, men ingen studie har undersökt valsartan vid malign hypertensiv njursjukdom. Evidensnivån är L5.
 
 **För att gå vidare krävs:**
-- Kliniska data på människa för valsartan vid malign renovaskulär hypertoni
-- Hämtning och genomgång av produktresumé för varningar och kontraindikationer
-- Komplettering av verkningsmekanismdata, t.ex. från DrugBank
+- Studier som direkt undersöker valsartan vid malign hypertensiv njursjukdom, till att börja med prekliniska modeller och retrospektiva kliniska data.
+- Inhämtning av varningar och kontraindikationer från produktresumén.
+- Detaljerad information om verkningsmekanism.
+- Bedömning av säkerhet vid njursvikt och risken för hyperkalemi i denna patientgrupp.
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
