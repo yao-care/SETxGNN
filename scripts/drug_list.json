@@ -1,6 +1,6 @@
 {
   "total": 440,
-  "generated_at": "2026-11-03T18:41:46.119007",
+  "generated_at": "2026-11-04T03:25:59.244269",
   "drugs": [
     {
       "name": "Abacavir",
@@ -2278,7 +2278,7 @@
     {
       "name": "Docetaxel",
       "file": "docetaxel.md",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 7,
       "predicted_indication": "",
       "inn": "DOCETAXEL",
@@ -5975,7 +5975,7 @@
     {
       "name": "Rifabutin",
       "file": "rifabutin.md",
-      "evidence_level": "L1",
+      "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "RIFABUTIN",
