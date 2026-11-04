@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Clozapine
-parent: Endast modellprediktion (L5)
+parent: Hög evidens (L1-L2)
 nav_order: 113
-evidence_level: L5
+evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 monitor_inn: "clozapine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
-description: "Clozapine: predikterad ny indikation Manisk bipolär sjukdom (manic bipolar affective disorder) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Clozapine: predikterad ny indikation Manisk bipolär sjukdom (manic bipolar affective disorder) (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Clozapine
 {: .fs-9 }
 
-Evidensnivå: **L5** | Förutsagda indikationer: **9** st
+Evidensnivå: **L2** | Förutsagda indikationer: **9** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,60 +38,62 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 ---
 
-## Sammanfattning
+### Sammanfattning
 
-Klozapin är ett atypiskt antipsykotikum som är godkänt och marknadsfört i Sverige, men någon godkänd indikationstext finns inte i de lokala uppgifterna. TxGNN-modellen förutsäger att klozapin kan vara effektivt vid **manisk bipolär sjukdom (manic bipolar affective disorder)**. Underlaget består av **1 avslutad fas 2-prövning** och **19 publikationer**.
+Klozapin är ett atypiskt antipsykotikum som finns på den svenska marknaden i tablettform. TxGNN-modellen förutsäger att det kan vara effektivt mot **manisk bipolär sjukdom (manic bipolar affective disorder)**, särskilt vid behandlingsresistent mani. Underlaget omfattar **1 avslutad fas 2-prövning** och **20 publikationer**, bland dem en systematisk översikt med metaanalys. Evidensnivån bedöms som **L2**.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Manisk bipolär sjukdom (manic bipolar affective disorder) |
 | TxGNN-förutsägelsepoäng | 0.9995 |
-| Evidensnivå | L5 |
+| Evidensnivå | L2 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 15 av 15) |
 | Antal godkännanden | 15 (giltiga: 15) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Klozapin har en bred receptorprofil: det blockerar dopaminreceptorerna D2 och D4, serotoninreceptorn 5-HT2A samt muskarina, adrenerga och histaminerga receptorer.
+Detaljerade uppgifter om verkningsmekanismen finns för närvarande inte i det sammanställda underlaget. Klozapin är dock känt för en bred receptorprofil: det blockerar dopaminreceptorer (D2/D4), serotoninreceptorer (5-HT2A) samt muskarina, adrenerga och histaminerga receptorer.
 
-Denna breda påverkan på flera signalsystem som är aktuella vid hjärnans stämningsreglering gör det rimligt att klozapin kan ha antimanisk och stämningsstabiliserande effekt. Det gäller särskilt vid behandlingsresistent mani, där vanliga behandlingar inte ger tillräcklig effekt eller inte tolereras. Resonemanget stöds av en systematisk översikt med metaanalys av klozapin vid bipolär sjukdom (2020), men någon detaljerad mekanismstudie ingår inte i underlaget.
+Denna breda profil kan ge antimaniska och stämningsstabiliserande effekter, framför allt hos patienter där vanlig behandling inte ger tillräcklig effekt eller tolereras dåligt. En systematisk översikt med metaanalys (PMID 32182485) pekar i samma riktning: klozapin framstod som likvärdigt med andra antipsykotika vid mani och som bättre vid behandlingsresistent bipolär sjukdom, men analysen bygger på ett fåtal små jämförande studier.
 
 ---
 
-## Kliniska prövningar
+### Kliniska prövningar
 
 | Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
 |---------|------|------|------|---------|
-| [NCT00029458](https://clinicaltrials.gov/study/NCT00029458) | Fas 2 | Avslutad | 42 | Dubbelblind studie av klozapins säkerhet och effekt vid behandlingsresistent mani. Studien körde 2002–2005. Resultat redovisas inte i underlaget. |
+| [NCT00029458](https://clinicaltrials.gov/study/NCT00029458) | Fas 2 | Avslutad | 42 | Dubbelblind studie av klozapins effekt och säkerhet vid behandlingsresistent mani. Direkt relevant men liten. |
+
+Det finns inga avslutade fas 3-prövningar för denna indikation i underlaget.
 
 ---
 
-## Litteraturbevis
+### Litteraturbevis
 
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [32182485](https://pubmed.ncbi.nlm.nih.gov/32182485/) | 2020 | Metaanalys | Journal of Psychiatric Research | Utvärderar klozapins kliniska effekt och biverkningsprofil vid bipolär sjukdom. |
-| [25346322](https://pubmed.ncbi.nlm.nih.gov/25346322/) | 2015 | Systematisk översikt | Bipolar Disorders | Utvärderar klozapins effekt och säkerhet vid behandlingsresistent bipolär sjukdom. |
-| [41192460](https://pubmed.ncbi.nlm.nih.gov/41192460/) | 2025 | Nationell registerstudie och metaanalys | The Lancet Psychiatry | Jämför klozapins effekt och säkerhet med andra antipsykotika vid flera psykiatriska tillstånd, bland annat affektiva sjukdomar. |
-| [33719158](https://pubmed.ncbi.nlm.nih.gov/33719158/) | 2021 | Översiktsartikel | Bipolar Disorders | Sammanfattar kunskapsläget om klozapin vid bipolär sjukdom och framtida forskningsbehov. |
-| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | Översiktsartikel | Acta Psychiatrica Scandinavica | Evidensbaserade behandlingsval vid bipolär mani, inklusive stämningsstabiliserare och antipsykotika. |
-| [16432528](https://pubmed.ncbi.nlm.nih.gov/16432528/) | 2006 | Översiktsartikel | Molecular Psychiatry | Behandlingsresistent bipolär sjukdom vid akuta episoder och förebyggande behandling. |
+| [32182485](https://pubmed.ncbi.nlm.nih.gov/32182485/) | 2020 | Systematisk översikt och metaanalys | Journal of Psychiatric Research | Utvärderar klozapins effekt och biverkningsprofil vid bipolär sjukdom. |
+| [34552059](https://pubmed.ncbi.nlm.nih.gov/34552059/) | 2021 | Metaöversikt | Translational Psychiatry | Sammanfattar effekt och säkerhet för klozapin vid psykiska sjukdomar. |
+| [25346322](https://pubmed.ncbi.nlm.nih.gov/25346322/) | 2015 | Systematisk översikt | Bipolar Disorders | Klozapin vid behandlingsresistent bipolär sjukdom. |
+| [41192460](https://pubmed.ncbi.nlm.nih.gov/41192460/) | 2025 | Nationell registerstudie och metaanalys | The Lancet Psychiatry | Tvärdiagnostisk effekt och säkerhet för klozapin jämfört med andra antipsykotika. |
+| [33719158](https://pubmed.ncbi.nlm.nih.gov/33719158/) | 2021 | Översikt | Bipolar Disorders | Sammanställning av kunskapsläget för klozapin vid bipolär sjukdom. |
+| [16432528](https://pubmed.ncbi.nlm.nih.gov/16432528/) | 2006 | Översikt | Molecular Psychiatry | Behandlingsresistent bipolär sjukdom, inklusive akut mani. |
+| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | Översikt | Acta Psychiatrica Scandinavica | Evidensbaserade behandlingsval vid bipolär mani. |
 | [41262335](https://pubmed.ncbi.nlm.nih.gov/41262335/) | 2025 | Modellstudie | Drug Design, Development and Therapy | Läkemedelsinteraktioner och individanpassad dosering av klozapin vid bipolär sjukdom. |
-| [9448668](https://pubmed.ncbi.nlm.nih.gov/9448668/) | 1998 | Översiktsartikel | Journal of Clinical Psychiatry | Antipsykotikas roll vid akut och förebyggande behandling av bipolär sjukdom, inklusive klozapin. |
 
 ---
 
-## Marknadsinformation Sverige
+### Marknadsinformation Sverige
 
-Klozapin är marknadsfört i Sverige, och 15 godkännanden är giltiga. Nedan visas fem av dem.
+Klozapin är registrerat som enkomponentsläkemedel i tablettform. Underlaget saknar indikationstext för licenserna. Läkemedlet är på marknaden och samtliga 15 licenser är giltiga. Nedan visas ett urval av de huvudsakliga godkännandena.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -103,32 +105,32 @@ Klozapin är marknadsfört i Sverige, och 15 godkännanden är giltiga. Nedan vi
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-- **Läkemedelsinteraktioner**: Sammanlagt 449 interaktioner finns registrerade. Interaktioner av allvarlig grad (Major) finns bland annat med:
-  - bupropion
-  - morfin
-  - kaliumcitrat
-
-  Flera interaktioner av måttlig grad gäller diabetesläkemedel (metformin, pioglitazon, alogliptin, kanagliflozin), antikolinerga läkemedel (atropin, hyoscyamin, glykopyrronium) och syrahämmande läkemedel (omeprazol, famotidin, cimetidin).
-
-Se produktresumén för varningar och kontraindikationer.
+- **Läkemedelsinteraktioner**: Totalt 449 interaktioner finns registrerade. Bland de allvarliga (större) finns bupropion, morfin och kaliumcitrat. Flera måttliga interaktioner gäller bland annat antidiabetika (metformin, pioglitazon, alogliptin, akarbos), antikolinerga läkemedel (atropin, hyoscyamin, glykopyrronium), loperamid, famotidin, cimetidin och omeprazol.
+- **Tillstånd där försiktighet eller undvikande kan vara aktuellt**: Neutropeni, agranulocytos och leukopeni, epilepsi, leversjukdom, diabetes och hyperglykemi, ortostatisk hypotoni, kranskärlssjukdom, stroke, hjärtledningsrubbningar, lungemboli, paralytisk ileus, trångvinkelglaukom och benign prostatahyperplasi. Dessa uppgifter bygger på modellens relationsdata och inte på produktresumétext.
+- Underlaget saknar varnings- och kontraindikationstext från produktresumén. Se produktresumén för fullständig säkerhetsinformation.
 
 ---
 
-## Slutsats och nästa steg
+### Cytotoxicitet
+
+Klozapin är inte ett antineoplastiskt läkemedel, så denna sektion är inte tillämplig.
+
+---
+
+### Slutsats och nästa steg
 
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Det finns en avslutad fas 2-prövning och en metaanalys som direkt gäller klozapin vid mani och bipolär sjukdom, vilket ger evidensnivå L2. Prövningen är liten (42 deltagare), resultaten redovisas inte i underlaget och det saknas bekräftande fas 3-data.
-- Klozapin har många interaktioner och kräver noggrann övervakning, vilket begränsar bredare användning.
+- Evidensnivån är L2: en avslutad placebokontrollerad fas 2-prövning vid behandlingsresistent mani (n=42) och en systematisk översikt med metaanalys talar för effekt, men underlaget är litet och fas 3-prövningar saknas. Hematologiska och metaboliska säkerhetsrisker begränsar bredare användning.
 
 **För att gå vidare krävs:**
-- Publicerade resultat från NCT00029458 och helst bekräftande randomiserade studier hos vuxna.
-- Genomgång av produktresumén för varningar och kontraindikationer, eftersom dessa saknas i de sammanställda data.
-- Detaljerad verkningsmekanismdata för klozapin.
-- Bedömning av nytta och risk, med särskild uppmärksamhet på interaktioner och krav på blodövervakning.
+- Större kontrollerade studier (fas 3) hos vuxna med behandlingsresistent mani.
+- Tillgång till publicerade resultat från NCT00029458.
+- Genomgång av produktresumén för varningar, kontraindikationer och krav på blodövervakning.
+- Bedömning av nytta mot risker (agranulocytos, kramper, metabola och kardiella effekter) samt av interaktionsrisker.
 
 ## Ansvarsfriskrivning
 
