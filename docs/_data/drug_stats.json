@@ -4,9 +4,9 @@
   "level_counts": {
     "L1": 6,
     "L2": 21,
-    "L3": 24,
+    "L3": 23,
     "L4": 31,
-    "L5": 358
+    "L5": 359
   },
   "all_drugs": [
     {
@@ -1764,7 +1764,7 @@
     {
       "name": "Modafinil",
       "slug": "modafinil",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 1
     },
     {

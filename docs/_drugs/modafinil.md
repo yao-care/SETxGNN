@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Modafinil
-parent: Måttlig evidens (L3-L4)
+parent: Endast modellprediktion (L5)
 nav_order: 303
-evidence_level: L3
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-11-04
 monitor_inn: "MODAFINIL"
 predicted_indications: ["insomnia (disease)"]
-description: "Modafinil: predikterad ny indikation Insomni (insomnia (disease)) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Modafinil: predikterad ny indikation Insomni (insomnia (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Modafinil
 {: .fs-9 }
 
-Evidensnivå: **L3** | Förutsagda indikationer: **1** st
+Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 {: .fs-6 .fw-300 }
 
 ---
@@ -36,11 +36,9 @@ Evidensnivå: **L3** | Förutsagda indikationer: **1** st
 ## Modafinil: Insomni (insomnia (disease))
 {: .text-alpha }
 
----
-
 ### Sammanfattning
 
-Modafinil är ett vakenhetsfrämjande läkemedel i tablettform som är registrerat på den svenska marknaden. TxGNN-modellen förutsäger att det skulle kunna vara aktivt mot **insomni (insomnia (disease))**, med en förutsägelsepoäng på 0,9985. Underlaget består av **2 kliniska prövningar** (fas 4) och **19 publikationer**, varav ingen studerar insomni som sjukdom på ett övertygande sätt. Evidensnivån är **L3**, och mekanismen talar delvis emot förutsägelsen.
+Modafinil är ett vakenhetshöjande läkemedel som används vid sjukdomar med överdriven sömnighet på dagtid. TxGNN-modellen förutsäger att det kan vara effektivt mot **insomni (insomnia (disease))**, men underlaget är mycket svagt: det finns **2 kliniska prövningar** (en avbruten med 2 deltagare och en avslutad utan redovisade resultat) och ingen publikation som direkt studerar modafinil vid insomni. Evidensnivån är därför **L5**.
 
 ---
 
@@ -51,7 +49,7 @@ Modafinil är ett vakenhetsfrämjande läkemedel i tablettform som är registrer
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
 | Förutsagd ny indikation | Insomni (insomnia (disease)) |
 | TxGNN-förutsägelsepoäng | 0.9985 |
-| Evidensnivå | L3 |
+| Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
 | Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
@@ -60,11 +58,11 @@ Modafinil är ett vakenhetsfrämjande läkemedel i tablettform som är registrer
 
 ### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Modafinil räknas som ett vakenhetsfrämjande medel. Enligt allmän kunskap hämmar det dopamintransportören och påverkar även histaminerga, orexinerga och glutamaterga/GABAerga vakenhetskretsar.
+Detaljerade uppgifter om verkningsmekanismen finns för närvarande inte tillgängliga i den sammanställda datan. Modafinil beskrivs i litteraturen som ett vakenhetshöjande medel som skiljer sig farmakologiskt från klassiska stimulantia. Det antas hämma dopaminåterupptaget och påverka histaminerga, orexinerga samt glutamaterga/GABAerga vakenhetskretsar.
 
-Den höga poängen speglar troligen att modafinil ligger nära sömn- och vakenhetsstörningar i modellens nätverk, snarare än att läkemedlet har en verklig insomnibehandlande mekanism. Insomni kännetecknas av svårigheter att somna eller sova, medan modafinil ökar vakenheten. Läkemedlet kan därför i teorin försämra insomning och sömnkontinuitet, så den mekanistiska logiken är svag och möjligen motsatt riktad.
+Den höga modellpoängen speglar sannolikt att läkemedlet ligger nära andra sömn–vakenhetsstörningar i nätverket av kända samband, snarare än en verklig effekt mot insomni. Insomni kännetecknas av svårigheter att somna eller sova, medan modafinil minskar sömnighet på dagtid.
 
-En eventuell nytta är mer sannolik för vakenhet och dagtidsfunktion hos patienter med sömn- och vakenhetsstörning än för insomni som sjukdom. Prövningen av modafinil, ensamt eller tillsammans med kognitiv beteendeterapi vid insomni, är därför intressant främst för att belysa dagtidsfunktion och eventuell påverkan på nattsömn.
+Mekanistiskt är motiveringen därför svag och möjligen motsatt riktad: ett vakenhetshöjande läkemedel kan försämra insomning eller sömnkontinuitet. En eventuell nytta skulle främst gälla dagtidsfunktion hos patienter med sömn- och vakenhetsstörning, inte insomni som sjukdom.
 
 ---
 
@@ -72,29 +70,26 @@ En eventuell nytta är mer sannolik för vakenhet och dagtidsfunktion hos patien
 
 | Prövningsnummer | Fas | Status | Deltagare | Viktiga fynd |
 |---------|------|------|------|---------|
-| [NCT00124384](https://clinicaltrials.gov/study/NCT00124384) | Fas 4 | Avslutad | 40 | Undersöker hur modafinil, ensamt eller kombinerat med kognitiv beteendeterapi för insomni (CBT-I), påverkar dagtidsfunktion och insomnins svårighetsgrad vid primär insomni. Inga resultat finns tillgängliga i underlaget. |
-| [NCT00626210](https://clinicaltrials.gov/study/NCT00626210) | Fas 4 | Avbruten | 2 | Modafinil vid sömn- och vakenhetsstörningar hos äldre. Studien avbröts efter bara 2 inkluderade deltagare och kan inte ge några slutsatser. |
+| [NCT00124384](https://clinicaltrials.gov/study/NCT00124384) | Fas 4 | Avslutad | 40 | Undersöker modafinil ensamt eller tillsammans med kognitiv beteendeterapi för insomni (CBT-I) avseende dagtidsfunktion och insomnins svårighetsgrad. Inga resultat publicerade eller redovisade. |
+| [NCT00626210](https://clinicaltrials.gov/study/NCT00626210) | Fas 4 | Avbruten | 2 | Modafinil vid sömn-/vakenhetsstörningar hos äldre. Avbröts efter endast 2 deltagare, så inga användbara data finns. |
 
 ---
 
 ### Litteraturbevis
 
+Ingen av de identifierade publikationerna studerar modafinil vid insomni direkt. De mest relevanta rör modafinil vid sömnighet och trötthet i samband med neurologiska sjukdomar.
+
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
-| [24312590](https://pubmed.ncbi.nlm.nih.gov/24312590/) | 2013 | Systematisk översikt och metaanalys | PLoS One | Bedömer effekt och säkerhet av modafinil mot trötthet och dagtidssömnighet vid neurologiska sjukdomar. Tidigare studier gav inkonsekventa resultat. |
-| [27010071](https://pubmed.ncbi.nlm.nih.gov/27010071/) | 2016 | Systematisk översikt och metaanalys | Parkinsonism & Related Disorders | Läkemedelsbehandling av dagtidssömnighet och sömnstörningar vid Parkinsons sjukdom. Få kliniska studier finns. |
-| [18729534](https://pubmed.ncbi.nlm.nih.gov/18729534/) | 2008 | Evidensbaserad översikt | Drugs | Går igenom godkänd och undersökande användning av modafinil utifrån randomiserade, placebokontrollerade studier. |
-| [24272458](https://pubmed.ncbi.nlm.nih.gov/24272458/) | 2014 | Översikt | Neurotherapeutics | Beskriver behandling av sömnstörningar vid Parkinsons sjukdom. Optimal behandling av insomni är ännu inte fastställd. |
-| [24138359](https://pubmed.ncbi.nlm.nih.gov/24138359/) | 2013 | Översikt | Medical Journal of Australia | Sömnbrist och rubbad dygnsrytm vid skiftarbete, inklusive insomni och sömnighet kopplade till arbetsschemat. |
-| [21904092](https://pubmed.ncbi.nlm.nih.gov/21904092/) | 2011 | Översikt | Postgraduate Medicine | Beskriver skiftarbetsstörning, med sömnighet under arbetet och/eller insomni under sovtid, samt behandlingsmöjligheter. |
-
-Ingen av publikationerna är en randomiserad studie som direkt visar effekt av modafinil mot insomni.
+| [24312590](https://pubmed.ncbi.nlm.nih.gov/24312590/) | 2013 | Systematisk översikt och metaanalys | PloS one | Utvärderar modafinils effekt på trötthet och överdriven sömnighet vid neurologiska sjukdomar; tidigare studier gav inkonsekventa resultat. |
+| [27010071](https://pubmed.ncbi.nlm.nih.gov/27010071/) | 2016 | Systematisk översikt och metaanalys | Parkinsonism & related disorders | Läkemedelsbehandling av dagtidssömnighet och sömnstörningar vid Parkinsons sjukdom. |
+| [18729534](https://pubmed.ncbi.nlm.nih.gov/18729534/) | 2008 | Översikt | Drugs | Evidensbaserad genomgång av godkända och undersökta användningar av modafinil. |
+| [22021174](https://pubmed.ncbi.nlm.nih.gov/22021174/) | 2011 | Översikt | Movement Disorders | Evidensgenomgång av behandlingar för icke-motoriska symtom vid Parkinsons sjukdom. |
+| [17060310](https://pubmed.ncbi.nlm.nih.gov/17060310/) | 2006 | Fallserie | American Journal of Hospice & Palliative Care | Modafinil minskade trötthet vid Charcot-Marie-Tooth typ 1A. |
 
 ---
 
 ### Marknadsinformation Sverige
-
-Modafinil är i dagsläget marknadsfört i Sverige och har 6 giltiga godkännanden. De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -104,20 +99,15 @@ Modafinil är i dagsläget marknadsfört i Sverige och har 6 giltiga godkännand
 | 65999 | Modafinil Forza | Tablett | Uppgift saknas |
 | 52046 | Modafinil Orion | Tablett | Uppgift saknas |
 
+Sex godkännanden är giltiga; de fem första visas här.
+
 ---
 
 ### Säkerhetsaspekter
 
-- **Läkemedelsinteraktioner**: Totalt 100 interaktioner finns registrerade. De viktigaste av måttlig allvarlighetsgrad är:
-  - Rabeprazol, omeprazol och esomeprazol
-  - Dexametason
-  - Eliglustat
-  - Linagliptin
-  - Cisaprid
+- **Läkemedelsinteraktioner** (urval av de viktigaste, måttlig nivå): rabeprazol, omeprazol, esomeprazol, dexametason, elinglustat, linagliptin och cisaprid. Flera ytterligare interaktioner av lägre allvarlighetsgrad finns registrerade (bland annat hydrokortison, pioglitazon, aprepitant och klaritromycin).
 
-  Flera interaktioner av lindrig grad finns också, till exempel med hydrokortison, cimetidin och klaritromycin.
-
-Se produktresumén för varningar och kontraindikationer.
+För övrig säkerhetsinformation, se produktresumén.
 
 ---
 
@@ -126,14 +116,12 @@ Se produktresumén för varningar och kontraindikationer.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen har högt modellvärde (0,9985), men det finns bara en liten fas 4-studie (n=40) utan tillgängliga resultat, och en avbruten studie. Mekanismen, ett vakenhetsfrämjande läkemedel mot en sömnstörning, är dessutom tveksam och kan vara motverkande.
+- Evidensnivån är L5: ingen publicerad eller redovisad studie visar effekt av modafinil vid insomni, och den farmakologiska logiken talar snarare emot nytta, eftersom läkemedlet höjer vakenheten.
 
 **För att gå vidare krävs:**
-- Resultat från NCT00124384, eller nya randomiserade kontrollerade studier som direkt prövar modafinil vid insomni
-- Utvärdering av om modafinil försämrar insomning eller nattsömn
-- Fullständig verkningsmekanismdata
-- Granskning av produktresumén för varningar och kontraindikationer, särskilt hjärt-kärlrisker och psykiatriska effekter
-- Analys av läkemedelsinteraktioner i den aktuella patientgruppen
+- Redovisade resultat från studie NCT00124384 eller nya kontrollerade studier som direkt undersöker modafinil vid insomni
+- Klarlagd verkningsmekanism och bedömning av risken för försämrad nattsömn
+- Säkerhetsinformation från produktresumén (varningar och kontraindikationer) för en fullständig säkerhetsbedömning
 
 ## Ansvarsfriskrivning
 
