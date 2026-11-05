@@ -3,13 +3,13 @@ layout: default
 title: Integritetspolicy
 nav_order: 95
 permalink: /privacy-policy/
-description: "Integritetspolicy för SETxGNN: detta är en statisk webbplats som inte samlar in personuppgifter."
+description: "Integritetspolicy för SETxGNN: en statisk webbplats utan konton och formulär; den använder analyskakor från Google Analytics 4 för användningsstatistik."
 ---
 
 # Integritetspolicy
 
 <div class="key-takeaway">
-Detta är en statisk webbplats — ingen registrering krävs och inga personuppgifter samlas in.
+Detta är en statisk webbplats — ingen registrering och inga formulär. Den använder analyskakor från Google Analytics 4 för att ta fram användningsstatistik.
 </div>
 
 ---
@@ -17,9 +17,11 @@ Detta är en statisk webbplats — ingen registrering krävs och inga personuppg
 ## Vad vi samlar in
 
 <p class="key-answer" data-question="Samlar SETxGNN in personuppgifter?">
-<strong>Nej.</strong> Denna webbplats driftas på GitHub Pages som en helt statisk webbplats. Det finns inget
-kontosystem, inga formulär och inga spårningskakor. Vi samlar inte in namn, e-postadresser,
-patientjournaler eller några andra personuppgifter.
+<strong>Endast användningsstatistik, via Google Analytics 4.</strong> Denna webbplats driftas på GitHub Pages som en helt statisk
+webbplats. Det finns inget kontosystem och inga formulär, och vi samlar inte in namn, e-postadresser eller
+patientjournaler. Webbplatsen använder analyskakor från Google Analytics 4 för att ta fram användningsstatistik (visade
+sidor, hänvisande webbplats, scrolldjup och tid på sidan). Kakorna sätts när en sida laddas; sökord, formulärinnehåll
+och frågeparametrar i webbadressen skickas inte.
 </p>
 
 ---
@@ -38,14 +40,19 @@ policyer:
 | rxnav.nlm.nih.gov | SMART-appen: RxNorm-koderna för läkemedlen som läses från din elektroniska patientjournal skickas till NLM:s RxNav-API för att slå upp substansnamnet (inga patientidentifierare) | [NLM:s webbpolicyer](https://www.nlm.nih.gov/web_policies.html) |
 
 När du aktivt startar SMART on FHIR-appen hämtar den läkemedelsdata från ditt
-journalsystem. Dessa data <strong>behandlas helt och hållet i din webbläsare</strong>; de
-skickas aldrig till denna webbplats servrar och lagras inte.
+journalsystem. Patientens identitet och journaldata <strong>skickas inte till denna webbplats servrar</strong> (det är en
+statisk webbplats utan backend) och lagras inte av webbplatsen. För att matcha läkemedelsnamn skickar appen
+läkemedlens RxNorm-koder till RxNav-tjänsten hos amerikanska National Library of Medicine; koderna innehåller inga
+uppgifter som identifierar patienten. När du ber om kliniska studier skickas läkemedlets namn och indikationen till
+ClinicalTrials.gov.
 
 ---
 
 ## Registrerades rättigheter
 
-Eftersom denna webbplats inte samlar in några personuppgifter finns det ingenting att få tillgång till, rätta eller radera.
+Denna webbplats har inga konton och lagrar inga personuppgifter på egna servrar (den har inga).
+Användningsstatistiken samlas in av Google Analytics 4; du kan blockera eller radera dess kakor i webbläsarens
+inställningar.
 Vid frågor om denna policy, kontakta service@yao.care.
 
 ---

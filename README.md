@@ -23,7 +23,7 @@ Forutsaegelser foer lakemedelsrepositionering av MPA-godkaenda lakemedel (Sweden
 | **Totala forutsaegelser** | 3,672,147 |
 | **Unika lakemedel** | 152 |
 | **Unika indikationer** | 16,564 |
-| **DDI-data** | 302,516 |
+| **DDI-data** | 160,235 |
 | **DFI-data** | 857 |
 | **DHI-data** | 35 |
 | **DDSI-data** | 8,359 |
@@ -219,7 +219,7 @@ PYTHONPATH=src python -m setxgnn.predict.txgnn_model
 | **Lakemedelsdata** | MPA | [Läkemedelsverket - Läkemedelsregister](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) | Sweden |
 | **Kunskapsgraf** | TxGNN KG | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM) | 17,080 diseases, 7,957 drugs |
 | **Lakemedelsdatabas** | DrugBank | [DrugBank](https://go.drugbank.com/) | Kartlaeggning av lakemedelsingredienser |
-| **Lakemedelsinteraktioner** | DDInter 2.0 | [DDInter](https://ddinter2.scbdd.com/) | DDI-par |
+| **Lakemedelsinteraktioner** | DDInter | [DDInter](https://ddinter2.scbdd.com/) | DDI-par |
 | **Lakemedelsinteraktioner** | Guide to PHARMACOLOGY | [IUPHAR/BPS](https://www.guidetopharmacology.org/) | Godkaenda lakemedelsinteraktioner |
 | **Kliniska studier** | ClinicalTrials.gov | [CT.gov API v2](https://clinicaltrials.gov/data-api/api) | Register foer kliniska studier |
 | **Kliniska studier** | WHO ICTRP | [ICTRP API](https://apps.who.int/trialsearch/api/v1/search) | Internationell plattform foer kliniska studier |
