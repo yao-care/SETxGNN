@@ -24,9 +24,6 @@ Forutsaegelser foer lakemedelsrepositionering av MPA-godkaenda lakemedel (Sweden
 | **Unika lakemedel** | 152 |
 | **Unika indikationer** | 16,564 |
 | **DDI-data** | 160,235 |
-| **DFI-data** | 857 |
-| **DHI-data** | 35 |
-| **DDSI-data** | 8,359 |
 | **FHIR-resurser** | 108 MK / 556 CUD |
 
 ### Foerdelning av evidensnivaaer
@@ -220,7 +217,7 @@ PYTHONPATH=src python -m setxgnn.predict.txgnn_model
 | **Kunskapsgraf** | TxGNN KG | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM) | 17,080 diseases, 7,957 drugs |
 | **Lakemedelsdatabas** | DrugBank | [DrugBank](https://go.drugbank.com/) | Kartlaeggning av lakemedelsingredienser |
 | **Lakemedelsinteraktioner** | DDInter | [DDInter](https://ddinter2.scbdd.com/) | DDI-par |
-| **Lakemedelsinteraktioner** | Guide to PHARMACOLOGY | [IUPHAR/BPS](https://www.guidetopharmacology.org/) | Godkaenda lakemedelsinteraktioner |
+| **Lakemedelsinteraktioner** | Guide to PHARMACOLOGY | [IUPHAR/BPS](https://www.guidetopharmacology.org/) | Lakemedel-target-data for godkanda lakemedel (inte interaktioner) |
 | **Kliniska studier** | ClinicalTrials.gov | [CT.gov API v2](https://clinicaltrials.gov/data-api/api) | Register foer kliniska studier |
 | **Kliniska studier** | WHO ICTRP | [ICTRP API](https://apps.who.int/trialsearch/api/v1/search) | Internationell plattform foer kliniska studier |
 | **Litteratur** | PubMed | [NCBI E-utilities](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/) | Medicinsk litteratursoekning |
