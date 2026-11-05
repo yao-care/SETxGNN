@@ -24,17 +24,18 @@ Forutsaegelser foer lakemedelsrepositionering av MPA-godkaenda lakemedel (Sweden
 | **Unika lakemedel** | 152 |
 | **Unika indikationer** | 16,564 |
 | **DDI-data** | 160,235 |
-| **FHIR-resurser** | 108 MK / 556 CUD |
+| **FHIR-resurser** | 481 MK / 2,560 CUD |
 
 ### Foerdelning av evidensnivaaer
 
 | Evidensnivaa | Antal rapporter | Beskrivning |
 |---------|-------|------|
-| **L1** | 0 | Flera Fas 3 RCT:er |
-| **L2** | 0 | Enskild RCT eller flera Fas 2 |
-| **L3** | 0 | Observationsstudier |
-| **L4** | 0 | Prekliniska / mekanistiska studier |
-| **L5** | 108 | Endast beraekningsbaserad forutsaegelse |
+| **L1** | 6 | Flera Fas 3 RCT:er |
+| **L2** | 21 | Enskild RCT eller flera Fas 2 |
+| **L3** | 23 | Observationsstudier |
+| **L4** | 31 | Prekliniska / mekanistiska studier |
+| **L5** | 359 | Endast beraekningsbaserad forutsaegelse |
+| **N/A** | 10 | Endast kända användningar (inga nya prediktioner) |
 
 ### Per kaella
 
@@ -71,7 +72,7 @@ uv run python scripts/run_kg_prediction.py
 | Maetvaerde | Vaerde |
 |------|------|
 | MPA Totalt antal lakemedel | 14,492 |
-| Kartlagda till DrugBank | 2,175 (15.0%) |
+| Kartlagda till DrugBank | 8,534 (58.9%) |
 | Repositioneringskandidater | 556 |
 
 ### Djupinlaerning-metod
@@ -83,7 +84,7 @@ PYTHONPATH=src python -m setxgnn.predict.txgnn_model
 
 | Maetvaerde | Vaerde |
 |------|------|
-| Totala DL-forutsaegelser | 298,386 |
+| Totala DL-forutsaegelser | 1,062,125 |
 | Unika lakemedel | 152 |
 | Unika indikationer | 16,564 |
 
