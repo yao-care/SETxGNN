@@ -32,8 +32,10 @@ policyer:
 | Tjänst | Syfte | Integritetspolicy |
 |---------|---------|----------------|
 | GitHub Pages | Webbhotell | [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement) |
-| cdn.jsdelivr.net | Diagrambibliotek | CDN för statiska resurser |
-| giscus | Kommentarer (där de är aktiverade) | [giscus](https://giscus.app/) |
+| Google Analytics 4 (www.googletagmanager.com, google-analytics.com) | Besöksstatistik (visade sidor, hänvisande sida); använder analyskakor. Sökord, formulärinnehåll och URL-parametrar skickas inte. | [Googles integritetspolicy](https://policies.google.com/privacy) |
+| cdn.jsdelivr.net | Skriptbibliotek: d3-diagram på alla sidor; Fuse.js för namnmatchning och SMART on FHIR-klienten på SMART-sidorna | [jsDelivrs integritetspolicy](https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net) |
+| clinicaltrials.gov | Sökning efter kliniska prövningar på SMART-sidorna: bara när du ber om det skickas läkemedlets och indikationens namn till ClinicalTrials.gov-API:et | [NLM:s webbpolicyer](https://www.nlm.nih.gov/web_policies.html) |
+| rxnav.nlm.nih.gov | SMART-appen: RxNorm-koderna för läkemedlen som läses från din elektroniska patientjournal skickas till NLM:s RxNav-API för att slå upp substansnamnet (inga patientidentifierare) | [NLM:s webbpolicyer](https://www.nlm.nih.gov/web_policies.html) |
 
 När du aktivt startar SMART on FHIR-appen hämtar den läkemedelsdata från ditt
 journalsystem. Dessa data <strong>behandlas helt och hållet i din webbläsare</strong>; de
