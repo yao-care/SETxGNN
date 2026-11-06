@@ -24,7 +24,7 @@ Forutsaegelser foer lakemedelsrepositionering av MPA-godkaenda lakemedel (Sweden
 | **Unika lakemedel** | 152 |
 | **Unika indikationer** | 16,564 |
 | **DDI-data** | 160,235 |
-| **FHIR-resurser** | 481 MK / 2,560 CUD |
+| **FHIR-resurser** | 451 MK / 2,506 CUD |
 
 ### Foerdelning av evidensnivaaer
 
