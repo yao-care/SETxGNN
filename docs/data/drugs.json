@@ -1559,7 +1559,7 @@
       "evidence_level": "L4",
       "indication_count": 2,
       "original_indication": "",
-      "predicted_indication": "Förutsagd indikation",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/ephedrine/"
     },
@@ -2459,7 +2459,7 @@
       "evidence_level": "L5",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "Förutsagd indikation",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/lenograstim/"
     },
@@ -4499,7 +4499,7 @@
       "evidence_level": "L5",
       "indication_count": 9,
       "original_indication": "",
-      "predicted_indication": "Sjukdom",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/zonisamide/"
     }
