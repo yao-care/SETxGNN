@@ -84,7 +84,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga 17 godkännanden är indragna. Ingen indikationstext finns registrerad för godkännandena. Nedan visas fem av dem.
+Ingen indikationstext finns registrerad för godkännandena. Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
 |---------|------|------|-----------|
@@ -119,7 +119,6 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 
 **Motivering:**
 - Förutsägelsen om diffus skleroderma saknar både mekanistisk koppling och stöd i kliniska prövningar eller relevant litteratur (evidensnivå L5).
-- Samtliga svenska godkännanden är dessutom indragna, vilket begränsar det praktiska värdet ytterligare.
 
 **För att gå vidare krävs:**
 - Prekliniska eller mekanistiska data som visar en rimlig koppling mellan vankomycin och fibros eller autoimmunitet vid skleroderma.

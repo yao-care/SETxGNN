@@ -79,7 +79,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande för visceral
 
 ## Marknadsinformation Sverige
 
-Samtliga 10 godkännanden är indragna. Indikationstexter saknas i registret.
+Indikationstexter saknas i registret.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
@@ -106,14 +106,14 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för visceral kalcifylaxi bygger enbart på modellen, utan studier eller litteratur, och ett rimligt mekanistiskt samband saknas. Dessutom är samtliga svenska godkännanden indragna och ögondroppar ger låg systemisk exponering.
+- Förutsägelsen för visceral kalcifylaxi bygger enbart på modellen, utan studier eller litteratur, och ett rimligt mekanistiskt samband saknas.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé med varningar och kontraindikationer.
 - Hämta verkningsmekanismdata från DrugBank och analysera ett eventuellt samband med kalcifylaxins patologi (kärlförkalkning, mikrotrombos).
 - Prekliniska studier (cell- eller djurmodeller) som visar att FP-receptoragonism påverkar kärlförkalkning.
 - Utvärdera om en systemisk beredningsform vore nödvändig, eftersom ögondroppar inte ger relevant systemisk exponering.
-- Klargöra läkemedlets nuvarande regulatoriska status i Sverige, eftersom alla godkännanden är indragna.
+- Klargöra läkemedlets nuvarande regulatoriska status i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

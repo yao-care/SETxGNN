@@ -88,8 +88,6 @@ För den främsta förutsägelsen (malign renovaskulär hypertoni) finns ingen l
 |---------|------|------|-----------|
 | 41983 (indraget) | Metolazon Abcur | Tablett | Ingen indikationstext tillgänglig |
 
-Det enda godkännandet (Abcur AB, oral tablett) är indraget, och läkemedlet finns därför för närvarande inte på den svenska marknaden.
-
 ---
 
 ### Säkerhetsaspekter
@@ -113,14 +111,14 @@ Varnings- och kontraindikationstext från produktresumén saknas i underlaget. S
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på modellens närhet till den ursprungliga hypertoniindikationen, utan kliniska prövningar eller stödjande litteratur (evidensnivå L5). Dessutom kan den farmakologiska effekten (reninstimulering vid volymförlust) i teorin vara ofördelaktig vid renovaskulär hypertoni, och läkemedlet är för närvarande indraget i Sverige.
+- Förutsägelsen bygger enbart på modellens närhet till den ursprungliga hypertoniindikationen, utan kliniska prövningar eller stödjande litteratur (evidensnivå L5). Dessutom kan den farmakologiska effekten (reninstimulering vid volymförlust) i teorin vara ofördelaktig vid renovaskulär hypertoni.
 
 **För att gå vidare krävs:**
 - Hämta och analysera produktresumén (varningar och kontraindikationer) så att säkerhetsgranskning kan genomföras.
 - Komplettera verkningsmekanismdata från DrugBank.
 - Systematisk litteratursökning och kontroll av kliniska prövningar för metolazon vid renovaskulär och malign hypertoni.
 - Klinisk bedömning av om ett diuretikum alls har en roll vid dessa tillstånd, med tanke på reninaktiveringen.
-- Utreda om en ny marknadsföring eller ett nytt godkännande i Sverige är aktuellt, eftersom det befintliga godkännandet är indraget.
+- Utreda om en ny marknadsföring eller ett nytt godkännande i Sverige är aktuellt.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

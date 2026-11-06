@@ -91,7 +91,7 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 
 **Motivering:**
 - Förutsägelsen bygger enbart på en modellberäkning (evidensnivå L5) utan stöd från kliniska prövningar eller litteratur.
-- Mupirocin är ett lokalt läkemedel utan relevant systemisk exponering, vilket gör att nå pleurahålan i praktiken omöjligt med nuvarande beredningar. Dessutom är det enda svenska godkännandet avregistrerat.
+- Mupirocin är ett lokalt läkemedel utan relevant systemisk exponering, vilket gör att nå pleurahålan i praktiken omöjligt med nuvarande beredningar.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén för varningar och kontraindikationer, eftersom säkerhetsdata saknas i nuläget.

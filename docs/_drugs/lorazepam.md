@@ -68,8 +68,6 @@ Något rimligt mekanistiskt samband mellan GABA-A-modulering och kontroll av tum
 
 ## Marknadsinformation Sverige
 
-Samtliga sju godkännanden är indragna och inget har någon registrerad indikationstext.
-
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 63660 | Rativor | Tablett | – |
@@ -77,8 +75,6 @@ Samtliga sju godkännanden är indragna och inget har någon registrerad indikat
 | 48246 | Lorazepam Orion | Tablett | – |
 | 63658 | Rativor | Tablett | – |
 | 63659 | Rativor | Tablett | – |
-
-Ytterligare två indragna godkännanden avser injektionsvätska, lösning (Lorazepam Orifarm och Lorazepam Macure).
 
 ---
 
@@ -100,7 +96,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den förutsagda indikationen saknar helt kliniska prövningar och litteratur, och något trovärdigt mekanistiskt samband har inte kunnat identifieras. Dessutom är alla svenska godkännanden indragna.
+- Den förutsagda indikationen saknar helt kliniska prövningar och litteratur, och något trovärdigt mekanistiskt samband har inte kunnat identifieras.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer

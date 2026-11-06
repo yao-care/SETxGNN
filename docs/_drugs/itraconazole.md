@@ -89,7 +89,7 @@ Ingen av publikationerna visar direkt att itrakonazol behandlar pneumocystos. Fl
 
 ### Marknadsinformation Sverige
 
-Alla fyra godkännanden är indragna, och ingen indikationstext finns registrerad.
+Ingen indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -117,7 +117,7 @@ Produktresumédata om varningar och kontraindikationer saknas i det sammanställ
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på modellens nätverksnärhet till andra svampinfektioner. Inga kliniska prövningar finns, litteraturen är indirekt, och verkningsmekanismen (avsaknad av ergosterol hos *Pneumocystis*) talar emot effekt. Dessutom är alla svenska godkännanden indragna.
+- Förutsägelsen bygger enbart på modellens nätverksnärhet till andra svampinfektioner. Inga kliniska prövningar finns, litteraturen är indirekt, och verkningsmekanismen (avsaknad av ergosterol hos *Pneumocystis*) talar emot effekt.
 
 **För att gå vidare krävs:**
 - Prekliniska data (in vitro och djurmodeller) som visar aktivitet mot *Pneumocystis* via en alternativ mekanism

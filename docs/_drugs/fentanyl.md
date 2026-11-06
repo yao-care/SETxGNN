@@ -104,7 +104,7 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en modellberäkning (evidensnivå L5) utan kliniska prövningar eller litteratur, och det finns inget plausibelt mekanistiskt samband. Dessutom innebär fentanyls missbruks-, beroende- och andningsdepressionsrisker samt möjlig förvärring av vätskeretention en ogynnsam nytta–riskbalans. Alla svenska godkännanden är indragna.
+- Förutsägelsen bygger enbart på en modellberäkning (evidensnivå L5) utan kliniska prövningar eller litteratur, och det finns inget plausibelt mekanistiskt samband. Dessutom innebär fentanyls missbruks-, beroende- och andningsdepressionsrisker samt möjlig förvärring av vätskeretention en ogynnsam nytta–riskbalans.
 
 **För att gå vidare krävs:**
 - Produktresumé från Läkemedelsverket med varningar, kontraindikationer och godkänd indikation

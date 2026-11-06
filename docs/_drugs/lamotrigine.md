@@ -85,7 +85,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna och inget är giltigt för närvarande. Nedan visas fem av dem.
+Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -110,7 +110,6 @@ Alla 20 godkännanden är indragna och inget är giltigt för närvarande. Nedan
 
 **Motivering:**
 - Förutsägelsen om tumör i trigeminusnerven saknar stöd i kliniska prövningar, och de två publikationerna rör trigeminusneuralgi, inte tumörbehandling. Evidensnivån är L5.
-- Alla godkännanden i Sverige är indragna.
 
 Ett närliggande alternativ i samma förutsägelselista är **trigeminusneuralgi**. Där finns två små avslutade prövningar (n=20 och n=21, varav en fas 2/3-jämförelse med karbamazepin) och europeiska riktlinjer som nämner lamotrigin som tilläggs- eller andrahandsalternativ. Det är en betydligt bättre grund för en fortsatt utvärdering än tumörindikationen.
 

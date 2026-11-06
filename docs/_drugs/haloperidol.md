@@ -80,7 +80,6 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 6490 | Haldol | Tablett | Ej angiven |
@@ -104,7 +103,7 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas i de 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen stöds endast av modellpoängen. Det finns inga studier, ingen litteratur och ingen identifierad verkningsmekanism, och alla svenska godkännanden är indragna.
+- Förutsägelsen stöds endast av modellpoängen. Det finns inga studier, ingen litteratur och ingen identifierad verkningsmekanism.
 
 **För att gå vidare krävs:**
 - Biologisk eller mekanistisk grund för en koppling mellan haloperidol och fukosyleringsvägar, till exempel prekliniska studier.

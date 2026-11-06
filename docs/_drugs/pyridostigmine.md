@@ -80,7 +80,7 @@ Det finns en viktig begränsning. Fallrapporten som hittats gäller MuSK-positiv
 
 ### Marknadsinformation Sverige
 
-Samtliga 12 godkännanden är indragna och inget är giltigt. De fem första visas nedan. Indikationstext saknas i de registrerade uppgifterna.
+De fem första visas nedan. Indikationstext saknas i de registrerade uppgifterna.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -109,7 +109,7 @@ Information om varningar och kontraindikationer från produktresumén saknas. Se
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen gäller en undergrupp av den redan etablerade indikationen och utgör ingen egentlig återanvändning. Det saknas kliniska prövningar, och litteraturen innehåller ingen kontrollerad studie av pyridostigmin i denna undergrupp. Dessutom är alla svenska godkännanden indragna.
+- Förutsägelsen gäller en undergrupp av den redan etablerade indikationen och utgör ingen egentlig återanvändning. Det saknas kliniska prövningar, och litteraturen innehåller ingen kontrollerad studie av pyridostigmin i denna undergrupp.
 
 **För att gå vidare krävs:**
 - Produktresumé från Läkemedelsverket med varningar, kontraindikationer och godkänd indikation, eftersom säkerhetsscreening inte kan genomföras utan dessa.

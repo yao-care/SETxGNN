@@ -101,7 +101,7 @@ En studie från 2026 ([41518899](https://pubmed.ncbi.nlm.nih.gov/41518899/)) fö
 | 62246 | Dopital | Kapsel, hård | Ej angiven (godkänd) |
 | 62244 | Dopital | Kapsel, hård | Ej angiven (godkänd) |
 
-Tillverkare för alla tre: MACURE PHARMA ApS. Inget av godkännandena är giltigt idag.
+Tillverkare för alla tre: MACURE PHARMA ApS.
 
 ---
 
@@ -123,7 +123,7 @@ Varnings- och kontraindikationstexter från den svenska produktresumén fanns in
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen om hypertrikos är enbart beräkningsbaserad (L5), utan studier och utan trovärdig mekanism. Samtliga godkännanden i Sverige är dessutom avregistrerade.
+- Förutsägelsen om hypertrikos är enbart beräkningsbaserad (L5), utan studier och utan trovärdig mekanism.
 
 **För att gå vidare krävs:**
 - Ett mekanistiskt eller prekliniskt belägg för att natriumkanalblockad påverkar hårfolliklar eller hårväxt.

@@ -107,7 +107,6 @@ Se produktresumén för säkerhetsinformation i övrigt, inklusive varningar och
 - Hämta varningar och kontraindikationer från produktresumén i det svenska godkännandet, vilket krävs för säkerhetsgranskning.
 - Göra en systematisk litteratursökning efter filgrastim vid trombocytfunktionsstörningar.
 - Ta fram prekliniska data som visar en biologisk koppling, innan kliniska studier övervägs.
-- Notera att det enda svenska godkännandet är indraget, vilket påverkar tillgängligheten.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -89,7 +89,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga godkännanden är avregistrerade. Indikationstext saknas i de sammanställda uppgifterna.
+Indikationstext saknas i de sammanställda uppgifterna.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
@@ -98,8 +98,6 @@ Samtliga godkännanden är avregistrerade. Indikationstext saknas i de sammanst�
 | 12772 | Oestriol Aspen | Tablett | Godkänd |
 | 47213 | Estrokad | Vagitorium | Godkänd |
 | 10048 | Ovesterin | Vagitorium | Godkänd |
-
-Ytterligare tre godkännanden (Blissel, Ovesterin vaginalkräm och Gynoflor) finns, även dessa avregistrerade.
 
 ---
 

@@ -101,7 +101,7 @@ SNRI-preparat anses dock generellt vara mindre väl belagda än SSRI-preparat vi
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden för duloxetin är indragna, och inget är giltigt i dagsläget. Indikationstext saknas i de sammanställda uppgifterna. Samtliga är hårda enterokapslar. Fem av godkännandena:
+Indikationstext saknas i de sammanställda uppgifterna. Samtliga är hårda enterokapslar. Fem av godkännandena:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -131,18 +131,17 @@ Vid användning till barn och unga bör man även beakta den varning för själv
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Det finns en dubbelblind RCT, en öppen studie och en fas 4-studie som pekar mot nytta vid OCD, men studierna är små och SNRI-preparat är mindre väl belagda än SSRI-preparat. Dessutom är alla svenska godkännanden för duloxetin indragna.
+- Det finns en dubbelblind RCT, en öppen studie och en fas 4-studie som pekar mot nytta vid OCD, men studierna är små och SNRI-preparat är mindre väl belagda än SSRI-preparat.
 
 **För att gå vidare krävs:**
 - Adekvat dimensionerade, randomiserade och placebokontrollerade fas 3-studier, särskilt vid OCD som inte svarat på SSRI.
 - Information om verkningsmekanism samt produktresumédata (varningar och kontraindikationer), som saknas i dagsläget.
-- Klarhet i regulatorisk status i Sverige, eftersom inget giltigt godkännande finns.
+- Klarhet i regulatorisk status i Sverige.
 - Utvärdering av interaktionsrisker, särskilt vid kombination med andra serotonerga läkemedel.
 
 ---
 
 ## Övriga förutsägelser med hög poäng
-
 
 | Förutsagd indikation | Evidensnivå | Kommentar |
 |------|------|------|

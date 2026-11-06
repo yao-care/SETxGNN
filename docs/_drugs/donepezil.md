@@ -90,7 +90,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga 15 godkännanden är indragna. Ingen godkänd indikationstext finns tillgänglig i underlaget. Nedan visas fem av dem.
+Ingen godkänd indikationstext finns tillgänglig i underlaget. Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -117,7 +117,7 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen för kronisk tics-sjukdom (L3) består av en liten öppen studie, fallrapporter och musstudier, utan registrerade prövningar. Dessutom är alla svenska godkännanden indragna, och den viktiga säkerhetsinformationen från produktresumén saknas.
+- Evidensen för kronisk tics-sjukdom (L3) består av en liten öppen studie, fallrapporter och musstudier, utan registrerade prövningar. Den viktiga säkerhetsinformationen från produktresumén saknas.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer), vilket är ett blockerande datagap.

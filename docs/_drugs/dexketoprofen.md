@@ -103,11 +103,11 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för tendinit har en hög modellpoäng men saknar kliniska prövningar och direkt litteratur. Dessutom är det enda godkännandet i Sverige indraget.
+- Förutsägelsen för tendinit har en hög modellpoäng men saknar kliniska prövningar och direkt litteratur.
 
 **För att gå vidare krävs:**
 - Studier som specifikt undersöker dexketoprofen vid tendinit, till exempel randomiserade jämförelser med andra NSAID eller placebo.
-- Verifiering av produkttillgänglighet och regulatorisk väg, eftersom godkännandet är indraget.
+- Verifiering av produkttillgänglighet och regulatorisk väg.
 - Kompletterande säkerhetsdata från produktresumén (varningar, kontraindikationer, interaktioner), som saknas i underlaget.
 - Kompletterande data om verkningsmekanism och godkänd ursprunglig indikation.
 

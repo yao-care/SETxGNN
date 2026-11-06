@@ -72,7 +72,7 @@ Bland övriga högt rankade förutsägelser finns två med något mer underlag: 
 
 ### Marknadsinformation Sverige
 
-Samtliga nio godkännanden är indragna. Indikationstext saknas i data.
+Indikationstext saknas i data.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
 |---------|------|------|-----------|
@@ -98,7 +98,7 @@ Varnings- och kontraindikationstext från produktresumén saknas i underlaget oc
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en modellberäkning (L5) utan kliniska prövningar eller litteratur, och det finns inget känt mekanistiskt samband. Dessutom listas myopati och muskelsjukdom som möjliga kontraindikationer i kunskapsgrafen, och alla svenska godkännanden är indragna.
+- Förutsägelsen bygger enbart på en modellberäkning (L5) utan kliniska prövningar eller litteratur, och det finns inget känt mekanistiskt samband. Dessutom listas myopati och muskelsjukdom som möjliga kontraindikationer i kunskapsgrafen.
 
 **För att gå vidare krävs:**
 - Verkningsmekanismdata hämtad från DrugBank för en mekanistisk bedömning.

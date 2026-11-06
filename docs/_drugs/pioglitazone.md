@@ -78,7 +78,7 @@ Andra förutsagda indikationer i modellen (till exempel lipodystrofier, stiff pe
 | 57714 | Pioglitazone Holsten | Tablett | Ingen indikationstext registrerad (godkänd) |
 | 57712 | Pioglitazone Holsten | Tablett | Ingen indikationstext registrerad (godkänd) |
 
-Alla tre godkännandena tillhör Holsten Pharma GmbH och är återkallade. Det finns därför för närvarande ingen giltig marknadsförd produkt i Sverige.
+Det finns därför för närvarande ingen giltig marknadsförd produkt i Sverige.
 
 ---
 
@@ -96,7 +96,7 @@ Varnings- och kontraindikationstext från produktresumén saknas i underlaget. S
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för opsismodysplasi har evidensnivå L5, utan kliniska prövningar eller litteratur, och det mekanistiska sambandet är endast teoretiskt. Dessutom saknar pioglitazon giltiga godkännanden i Sverige, och produktresumédata om säkerhet saknas.
+- Förutsägelsen för opsismodysplasi har evidensnivå L5, utan kliniska prövningar eller litteratur, och det mekanistiska sambandet är endast teoretiskt. Produktresumédata om säkerhet saknas.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata (till exempel från DrugBank) och analysera det mekanistiska sambandet mellan PPAR-gamma/insulinsignalering och INPPL1/SHIP2.
@@ -104,7 +104,7 @@ Varnings- och kontraindikationstext från produktresumén saknas i underlaget. S
 - Genomföra prekliniska studier (cell- eller djurmodeller av INPPL1-brist) för att visa om det finns någon biologisk effekt.
 - Göra en systematisk litteratur- och prövningssökning specifikt för opsismodysplasi.
 - Bedöma om en alternativ förutsagd indikation med bättre biologisk rimlighet (till exempel lokaliserade lipodystrofier) bör prioriteras.
-- Klargöra regulatorisk väg, eftersom godkännandena i Sverige är återkallade.
+- Klargöra regulatorisk väg.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

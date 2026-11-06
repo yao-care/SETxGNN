@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande för trikotillomani.
 
 ## Marknadsinformation Sverige
 
-Samtliga 8 godkännanden är indragna. Ingen indikationstext finns registrerad.
+Ingen indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -120,7 +120,7 @@ Uppgifter från produktresumén saknas. Se produktresumén för varningar och ko
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för trikotillomani saknar både kliniskt och litterärt stöd (evidensnivå L5), och ingen plausibel mekanism kan påvisas. Dessutom är samtliga svenska godkännanden indragna och säkerhetsunderlaget är ofullständigt.
+- Förutsägelsen för trikotillomani saknar både kliniskt och litterärt stöd (evidensnivå L5), och ingen plausibel mekanism kan påvisas.
 
 **För att gå vidare krävs:**
 - Ladda ned och analysera produktresumén från Läkemedelsverket (varningar och kontraindikationer), vilket är ett blockerande dataglapp inför säkerhetsgranskning.

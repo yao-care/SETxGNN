@@ -70,7 +70,7 @@ Något mekanistiskt samband har därför inte kunnat fastställas. Den höga mod
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna. De fem första visas nedan. Godkänd indikationstext saknas för samtliga.
+De fem första visas nedan. Godkänd indikationstext saknas för samtliga.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -107,7 +107,7 @@ Eftersom information från produktresumén saknas bör denna konsulteras för fu
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en modellpoäng (L5) utan kliniska prövningar eller publikationer, och inget mekanistiskt samband finns mellan tramadol och sjukdomens genetiska orsak. Dessutom är alla svenska godkännanden indragna.
+- Förutsägelsen bygger enbart på en modellpoäng (L5) utan kliniska prövningar eller publikationer, och inget mekanistiskt samband finns mellan tramadol och sjukdomens genetiska orsak.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé (varningar och kontraindikationer) från Läkemedelsverket

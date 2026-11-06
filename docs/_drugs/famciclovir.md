@@ -90,7 +90,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 | 12603 | Famvir | Filmdragerad tablett | Ingen indikationstext angiven (godkänd) |
 | 12404 | Famvir | Filmdragerad tablett | Ingen indikationstext angiven (godkänd) |
 
-Tillverkare för alla tre är Phoenix Labs Unlimited Company. Inget av godkännandena är för närvarande giltigt.
+Tillverkare för alla tre är Phoenix Labs Unlimited Company.
 
 ---
 
@@ -115,7 +115,7 @@ För varningar och försiktighetsåtgärder, se produktresumén.
 - Systematisk litteratursökning efter studier av antiviral behandling, särskilt famciklovir, för att förebygga eller behandla postherpetisk neuralgi.
 - Kontrollerade studier som jämför famciklovir med annan antiviral behandling eller placebo med smärtutfall, till exempel förekomst av postherpetisk neuralgi efter 90 dagar.
 - Hämta och granska produktresumén för varningar, kontraindikationer (inklusive njurfunktion) och interaktioner.
-- Klargöra regulatorisk väg, eftersom samtliga godkännanden i Sverige är avregistrerade.
+- Klargöra regulatorisk väg.
 - Av de övriga förutsägelserna för famciklovir har **vattkoppor** klart starkast stöd, med två avslutade fas 3-prövningar av VZV-sjukdom. Den indikationen kan vara ett mer prioriterat spår, även om famciklovir inte är standardbehandling där.
 ## Ansvarsfriskrivning
 

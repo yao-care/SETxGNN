@@ -78,7 +78,7 @@ Något mekanistiskt samband mellan dopaminreceptorblockad och retinal dystrofi h
 | 59107 | Fluanxol (Ebb Medical AB) | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänd) |
 | 59174 | Fluanxol (2care4 ApS) | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänd) |
 
-Ytterligare två godkännanden (45009 och 59028) finns också, och samtliga sju är avregistrerade.
+Ytterligare två godkännanden (45009 och 59028) finns också.
 
 ---
 
@@ -102,7 +102,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 - Detaljerad verkningsmekanismdata för flupentixol, till exempel från DrugBank.
 - Produktresumé från Läkemedelsverket med varningar och kontraindikationer. Detta är ett hinder för säkerhetsscreening.
 - En litteratursökning och prekliniska studier som undersöker om dopaminreceptorblockad har någon roll vid retinal dystrofi.
-- Bedömning av tillämplig beredningsform och administreringsväg, eftersom produkten för närvarande saknar giltigt godkännande i Sverige.
+- Bedömning av tillämplig beredningsform och administreringsväg.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

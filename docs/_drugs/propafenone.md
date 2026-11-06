@@ -101,7 +101,7 @@ Flera av publikationerna beskriver CPVT i allmänhet och handlar inte om propafe
 |---------|------|------|-----------|
 | 11309 (återkallat) | Rytmonorm | Filmdragerad tablett | Ingen indikationstext angiven |
 
-Innehavare: Viatris AB. Det finns inget giltigt godkännande i Sverige för närvarande.
+Innehavare: Viatris AB.
 
 ---
 

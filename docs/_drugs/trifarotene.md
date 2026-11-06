@@ -94,7 +94,7 @@ Se produktresumén för övrig säkerhetsinformation, inklusive varningar och ko
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen stöds varken av kliniska prövningar eller litteratur, och något trovärdigt mekanistiskt samband saknas. Dessutom är det enda svenska godkännandet indraget och den lokala administrationen ger låg systemisk exponering.
+- Förutsägelsen stöds varken av kliniska prövningar eller litteratur, och något trovärdigt mekanistiskt samband saknas.
 
 **För att gå vidare krävs:**
 - Verkningsmekanismdata från DrugBank för att kunna analysera ett eventuellt samband

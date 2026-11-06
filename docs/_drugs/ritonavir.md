@@ -109,7 +109,7 @@ Varnings- och kontraindikationstext från produktresumén saknas i underlaget. S
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen består enbart av laboratorie- och djurstudier, utan kliniska prövningar. SIV är en djurmodell för HIV, vilket gör att förutsägelsen inte innebär en ny indikation för människor. Dessutom är det enda svenska godkännandet indraget.
+- Evidensen består enbart av laboratorie- och djurstudier, utan kliniska prövningar. SIV är en djurmodell för HIV, vilket gör att förutsägelsen inte innebär en ny indikation för människor.
 
 **För att gå vidare krävs:**
 - En bedömning av om förutsägelsen har något translationellt värde, till exempel som modell för forskning om proteashämmare, eftersom det inte finns någon klinisk indikation att gå vidare med

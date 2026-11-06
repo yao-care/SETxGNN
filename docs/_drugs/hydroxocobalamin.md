@@ -96,14 +96,14 @@ Se även produktresumén för fullständig säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en grafmodell utan kliniska prövningar, litteratur eller etablerad verkningsmekanism. Dessutom finns välfungerande standardbehandling för esofagusvaricer, och ingen aktiv produkt är godkänd i Sverige.
+- Förutsägelsen bygger enbart på en grafmodell utan kliniska prövningar, litteratur eller etablerad verkningsmekanism. Dessutom finns välfungerande standardbehandling för esofagusvaricer.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata (till exempel via DrugBank) och utvärdera om NO-bindning har någon relevans för portal hypertension.
 - Hämta varningar och kontraindikationer från produktresumén hos Läkemedelsverket.
 - Genomföra litteratur- och prövningssökning för hydroxokobalamin vid portal hypertension och esofagusvaricer.
 - Bedöma blodtryckshöjande effekter och säkerhet hos patienter med levercirros och portal hypertension.
-- Klargöra administreringsväg och tillgänglighet, eftersom inget giltigt godkännande finns i Sverige.
+- Klargöra administreringsväg och tillgänglighet.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

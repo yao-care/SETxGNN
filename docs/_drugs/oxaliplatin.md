@@ -97,7 +97,7 @@ Standardbehandlingen är fortfarande cisplatin plus pemetrexed. Oxaliplatin ses 
 
 ## Marknadsinformation Sverige
 
-Samtliga sex godkännanden är indragna och ingen indikationstext finns registrerad.
+Ingen indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -153,7 +153,7 @@ Uppgifter från produktresumén om varningar och kontraindikationer saknas i de 
 - Randomiserade jämförande studier mot cisplatin plus pemetrexed, eller hos patienter som inte tål cisplatin.
 - Verkningsmekanismdata och uppgifter från produktresumén om varningar och kontraindikationer.
 - Subtypspecifika data (epiteloid, sarkomatoid).
-- En bedömning av tillgången på oxaliplatin i Sverige, eftersom samtliga godkännanden är indragna.
+- En bedömning av tillgången på oxaliplatin i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

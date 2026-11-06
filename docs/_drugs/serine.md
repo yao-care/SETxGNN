@@ -84,7 +84,7 @@ För transparensens skull: den näst högst rankade förutsägelsen, intestinal 
 
 ### Marknadsinformation Sverige
 
-Samtliga godkännanden är avregistrerade. Ingen godkänd indikationstext finns registrerad. Fem av de 20 godkännandena visas nedan.
+Ingen godkänd indikationstext finns registrerad. Fem av de 20 godkännandena visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
 |---------|------|------|-----------|

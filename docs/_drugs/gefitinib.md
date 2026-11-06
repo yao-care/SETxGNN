@@ -107,7 +107,7 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen har evidensnivå L5 utan kliniska prövningar eller litteratur, och något stöd för en EGFR-driven mekanism vid gingival fibromatos saknas. Dessutom är samtliga svenska godkännanden avregistrerade.
+- Förutsägelsen har evidensnivå L5 utan kliniska prövningar eller litteratur, och något stöd för en EGFR-driven mekanism vid gingival fibromatos saknas.
 
 **Övriga förutsägelser i utvärderingen (alla utan stöd för äkta återanvändning):**
 - *Fibrom i lunga, hamartom i lunga, inklusionskroppsmyopati med tidig Pagets sjukdom, Leukomelanoderma-syndromet, junktional epidermolysis bullosa*: endast modellförutsägelser (L5). Vid junktional epidermolysis bullosa är användning mekanistiskt oroande, eftersom gefitinib ofta ger hudtoxicitet.

@@ -108,7 +108,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för näshåleföljd bygger enbart på modellen (evidensnivå L5), utan kliniska prövningar och utan relevant litteratur. Läkemedlet saknar dessutom giltigt godkännande i Sverige, och dess kardiovaskulära effekter (takykardi, arytmirisk) talar mot användning vid en icke-akut åkomma.
+- Förutsägelsen för näshåleföljd bygger enbart på modellen (evidensnivå L5), utan kliniska prövningar och utan relevant litteratur. Dess kardiovaskulära effekter (takykardi, arytmirisk) talar mot användning vid en icke-akut åkomma.
 
 **För att gå vidare krävs:**
 - Hämta och analysera produktresumén (varningar och kontraindikationer), vilket för närvarande saknas och blockerar säkerhetsgranskningen

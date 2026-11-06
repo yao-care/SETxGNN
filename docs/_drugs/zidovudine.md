@@ -100,8 +100,6 @@ Alla studier nedan är djurstudier. Resultaten sammanfattas utifrån de abstrakt
 | 11764 | Retrovir (ViiV Healthcare BV), indragen | Koncentrat till infusionsvätska, lösning | Ej angiven |
 | 11427 | Retrovir (ViiV Healthcare BV), indragen | Oral lösning | Ej angiven |
 
-Båda godkännandena är indragna, så det finns för närvarande ingen aktiv marknadsförd zidovudinprodukt i Sverige.
-
 ---
 
 ### Säkerhetsaspekter

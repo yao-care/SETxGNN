@@ -101,8 +101,6 @@ Godkänd indikationstext finns inte angiven i de sammanställda uppgifterna. Sam
 | 61840 | Pirfenidon Teva | Filmdragerad tablett | Uppgift saknas |
 | 66722 | Pirfenidon Zentiva | Filmdragerad tablett | Uppgift saknas |
 
-Ytterligare 14 indragna godkännanden finns (bland annat Sandoz, STADA, Medical Valley och Newbury).
-
 ---
 
 ## Säkerhetsaspekter
@@ -129,7 +127,7 @@ Varningar och kontraindikationer från produktresumén ingick inte i underlaget.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger på en grafmodell och stöds endast av laboratoriestudier, en liten pilotstudie och två fallrapporter som tyder på en möjlig säkerhetsrisk. Alla godkännanden i Sverige är dessutom indragna.
+- Förutsägelsen bygger på en grafmodell och stöds endast av laboratoriestudier, en liten pilotstudie och två fallrapporter som tyder på en möjlig säkerhetsrisk.
 - De övriga nio förutsagda indikationerna (bland annat mastocytom, dermatofibrosarcoma protuberans, fibrosarkom och familjär medelhavsfeber) saknar helt prövningar och litteratur och bedöms som L5.
 
 **För att gå vidare krävs:**
@@ -138,7 +136,7 @@ Varningar och kontraindikationer från produktresumén ingick inte i underlaget.
 - Prekliniska studier i relevanta tumörmodeller som visar antitumöreffekt och inte tumörstimulering.
 - Genomgång av säkerhetssignalen (sarkom och dermatofibrom) innan någon klinisk studie planeras.
 - Bedömning av resultaten från pilotstudien på desmoidtumörer (2003) och eventuell uppföljning.
-- Bedömning av den regulatoriska situationen, eftersom samtliga svenska godkännanden är indragna.
+- Bedömning av den regulatoriska situationen.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

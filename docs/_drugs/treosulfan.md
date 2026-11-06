@@ -101,7 +101,7 @@ Se produktresumén för säkerhetsinformation. Inga varningar, kontraindikatione
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen stöds endast av modellpoängen (evidensnivå L5), utan kliniska prövningar, litteratur eller trovärdig mekanism. Läkemedlet är dessutom starkt toxiskt och har bara avregistrerade godkännanden i Sverige.
+- Förutsägelsen stöds endast av modellpoängen (evidensnivå L5), utan kliniska prövningar, litteratur eller trovärdig mekanism.
 
 **För att gå vidare krävs:**
 - Hämta produktresumén från Läkemedelsverket för att komplettera varningar och kontraindikationer.

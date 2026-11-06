@@ -107,7 +107,7 @@ De mest relevanta prövningarna för obstruktiv lungsjukdom (främst KOL) visas 
 
 ## Marknadsinformation Sverige
 
-Alla tre godkännanden är indragna. Ingen indikationstext finns registrerad.
+Ingen indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -132,10 +132,10 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Evidensen för obstruktiv lungsjukdom och KOL är stark (L1, flera stora avslutade fas 3-prövningar), men den motsvarar i huvudsak en befintlig, väletablerad användning och inte en ny indikation. Alla tre svenska godkännanden är dessutom indragna.
+- Evidensen för obstruktiv lungsjukdom och KOL är stark (L1, flera stora avslutade fas 3-prövningar), men den motsvarar i huvudsak en befintlig, väletablerad användning och inte en ny indikation.
 
 **För att gå vidare krävs:**
-- Verifiera aktuell indikationstext och marknadstillgänglighet för tiotropium i Sverige, eftersom alla godkännanden är indragna.
+- Verifiera aktuell indikationstext och marknadstillgänglighet för tiotropium i Sverige.
 - Hämta produktresumé för varningar, kontraindikationer och dosering.
 - Komplettera med data om verkningsmekanism från DrugBank.
 - Bedöm om förutsägelsen tillför något utöver KOL-indikationen, till exempel för subtyper som svår tidigt debuterande KOL (där endast indirekt evidens finns).

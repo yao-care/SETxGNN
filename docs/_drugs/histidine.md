@@ -84,7 +84,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna. Nedan visas fem av dem. Indikationstext saknas i registret.
+Nedan visas fem av dem. Indikationstext saknas i registret.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -116,7 +116,7 @@ Information om läkemedelsinteraktioner saknas. Se produktresumén för övrig s
 
 **Motivering:**
 - Förutsägelsen bygger enbart på modellpoäng (evidensnivå L5). Det finns inga kliniska prövningar, och den enda publikationen undersöker inte histidin.
-- Samtliga svenska godkännanden är indragna, och mekanism- och säkerhetsdata saknas.
+- Mekanism- och säkerhetsdata saknas.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismen från DrugBank.

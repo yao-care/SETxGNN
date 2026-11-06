@@ -120,14 +120,14 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas i und
 
 **Motivering:**
 - Förutsägelsen bygger enbart på en modell (L5) utan kliniska prövningar eller direkt litteratur. Epiglottit är ett akut, livshotande tillstånd där oralt penicillin V inte är rimlig förstahandsbehandling.
-- Läkemedlet saknar dessutom giltiga godkännanden i Sverige, och säkerhetsdata från produktresumén saknas.
+- Säkerhetsdata från produktresumén saknas.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé med varningar och kontraindikationer (blockerande dataluckan).
 - Komplettera verkningsmekanismdata, till exempel från DrugBank.
 - Genomföra en systematisk litteratursökning om penicillin V vid epiglottit, inklusive möjlig användning som fortsatt behandling efter intravenös behandling.
 - Bedöma lokala resistensmönster och aktuell epidemiologi, där vaccination mot Hib har förändrat sjukdomsbilden.
-- Klargöra regulatorisk väg, eftersom samtliga godkännanden är avregistrerade.
+- Klargöra regulatorisk väg.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

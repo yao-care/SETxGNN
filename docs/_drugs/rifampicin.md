@@ -93,7 +93,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga åtta godkännanden är indragna och inga produkter är för närvarande godkända på marknaden. Indikationstext finns inte angiven för något av godkännandena.
+Indikationstext finns inte angiven för något av godkännandena.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -119,7 +119,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen är mekanistiskt rimlig, men stödet består av äldre studier från 1970-talet och känslighetsundersökningar. Det finns inga registrerade kliniska prövningar, och alla svenska godkännanden är indragna.
+- Förutsägelsen är mekanistiskt rimlig, men stödet består av äldre studier från 1970-talet och känslighetsundersökningar. Det finns inga registrerade kliniska prövningar.
 
 **För att gå vidare krävs:**
 - Slå ihop de två dubbletterna för konjunktivit och granska litteraturen manuellt.

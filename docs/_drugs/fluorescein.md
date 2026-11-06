@@ -77,8 +77,6 @@ Samma bild gäller för de övriga nio förutsagda indikationerna i den data som
 | 56215 | Optax | Ögondroppar, lösning | Ingen indikationstext registrerad |
 | 10114 | Lidokain-Fluorescein Bausch & Lomb | Ögondroppar, lösning i endosbehållare | Ingen indikationstext registrerad |
 
-Samtliga fyra godkännanden är indragna.
-
 ---
 
 ### Säkerhetsaspekter
@@ -100,7 +98,7 @@ Se produktresumén för säkerhetsinformation.
 - Verkningsmekanismdata för fluorescein (till exempel via DrugBank) för att kunna bedöma ett eventuellt biologiskt samband.
 - Produktresumé från MPA med varningar och kontraindikationer, så att säkerhetsgranskning kan genomföras.
 - Prekliniska data eller kliniska studier som visar en terapeutisk effekt vid Prinzmetals angina. Utan sådan evidens bör ingen vidare satsning göras.
-- Klargörande av läkemedlets ursprungliga godkända indikation, eftersom indikationstexterna saknas och samtliga godkännanden är indragna.
+- Klargörande av läkemedlets ursprungliga godkända indikation, eftersom indikationstexterna saknas.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

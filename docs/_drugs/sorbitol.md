@@ -96,7 +96,7 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en modellpoäng utan stöd från kliniska prövningar eller litteratur, och det saknas en rimlig mekanistisk koppling. Dessutom är samtliga svenska godkännanden indragna.
+- Förutsägelsen bygger enbart på en modellpoäng utan stöd från kliniska prövningar eller litteratur, och det saknas en rimlig mekanistisk koppling.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata för sorbitol från DrugBank.

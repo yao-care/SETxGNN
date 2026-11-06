@@ -93,7 +93,7 @@ Av de hämtade artiklarna är följande mest relevanta för sulfasalazin vid art
 
 ## Marknadsinformation Sverige
 
-Samtliga fem godkännanden är avregistrerade, och inget giltigt läkemedel finns för närvarande på den svenska marknaden. Indikationstext saknas i de sammanställda data.
+Indikationstext saknas i de sammanställda data.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -119,7 +119,7 @@ Se produktresumén för fullständiga varningar och försiktighetsåtgärder. De
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för artros stöds bara av prekliniska data (L4), och inga kliniska prövningar finns. Samtliga svenska godkännanden är dessutom avregistrerade.
+- Förutsägelsen för artros stöds bara av prekliniska data (L4), och inga kliniska prövningar finns.
 - Övriga förutsägelser med högst poäng (t.ex. sällsynta genetiska skelettsjukdomar) saknar både evidens och mekanistisk koppling. Spondyloartropati är redan en ursprunglig indikation och därmed ingen ny återanvändning.
 
 **För att gå vidare krävs:**

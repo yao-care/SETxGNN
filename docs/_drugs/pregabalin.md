@@ -90,7 +90,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande för tendinit
 
 ## Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är indragna och inga har en registrerad indikationstext. De fem första visas nedan.
+De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -118,7 +118,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för tendinit bygger enbart på modellens poäng. Inga studier prövar pregabalin vid tendinit, och alla svenska godkännanden är indragna.
+- Förutsägelsen för tendinit bygger enbart på modellens poäng. Inga studier prövar pregabalin vid tendinit.
 
 **Andra förutsägelser i underlaget:**
 - Den enda fas 3-prövningen hos vuxna (NCT00447369) drogs tillbaka utan deltagare. Evidensen är måttlig men inte definitiv. Detta är den mest lovande riktningen att utreda vidare.
@@ -129,7 +129,6 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Kontrollerade studier som direkt prövar pregabalin vid tendinit, eller en omprioritering mot migrän.
 - För migrän: en adekvat dimensionerad randomiserad studie på vuxna.
 - Verkningsmekanism och varningar/kontraindikationer från produktresumén, som saknas i det sammanställda underlaget.
-- Klargörande av varför alla svenska godkännanden är indragna, och om en ny godkännandeprocess skulle krävas.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

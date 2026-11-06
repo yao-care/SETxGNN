@@ -113,7 +113,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom uppgifter o
 - Söka efter och utvärdera kliniska studier och litteratur kring lokalanestetika vid gastroduodenit.
 - Bedöma administreringsväg och beredningsform i förhållande till den nya indikationen.
 - Gå igenom de 62 läkemedelsinteraktionerna och de kunskapsgrafsbaserade kontraindikationerna.
-- Klargöra läkemedlets regulatoriska status, eftersom alla godkännanden är indragna.
+- Klargöra läkemedlets regulatoriska status.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -85,7 +85,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande för HIV-infe
 
 ## Marknadsinformation Sverige
 
-Samtliga 10 godkännanden är avregistrerade. Godkänd indikation saknas i licensdatan.
+Godkänd indikation saknas i licensdatan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -124,7 +124,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen är endast preklinisk (L4) och inga kliniska prövningar finns för HIV. Samtliga svenska godkännanden är dessutom avregistrerade, och viktig säkerhets- och mekanismdata saknas.
+- Evidensen är endast preklinisk (L4) och inga kliniska prövningar finns för HIV. Viktig säkerhets- och mekanismdata saknas.
 - Övriga förutsägelser med höga poäng (t.ex. multipel endokrin neoplasi) beror sannolikt på att bröstcancerstudier har matchats, inte på verklig koppling.
 
 **För att gå vidare krävs:**

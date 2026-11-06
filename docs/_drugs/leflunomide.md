@@ -75,8 +75,6 @@ Sambandet är dock svagt. Brakydaktyli-syndaktyli-syndrom är en medfödd utveck
 | 54935 | Leflunomid Bluefish | Filmdragerad tablett | Ingen indikationstext tillgänglig (indraget) |
 | 54934 | Leflunomid Bluefish | Filmdragerad tablett | Ingen indikationstext tillgänglig (indraget) |
 
-Båda godkännandena tillhör Bluefish Pharmaceuticals AB och är indragna.
-
 ---
 
 ## Säkerhetsaspekter

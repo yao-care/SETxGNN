@@ -78,7 +78,7 @@ Den höga poängen (0,9962) är en beräkning från modellen och inte ett klinis
 
 ## Marknadsinformation Sverige
 
-Samtliga sex godkännanden är avregistrerade. Ingen indikationstext finns tillgänglig.
+Ingen indikationstext finns tillgänglig.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
 |---------|------|------|-----------|
@@ -87,8 +87,6 @@ Samtliga sex godkännanden är avregistrerade. Ingen indikationstext finns tillg
 | 23575 | Granisetron STADA | Filmdragerad tablett | STADA Arzneimittel AG |
 | 66544 | Granisym | Filmdragerad tablett | STADA Arzneimittel AG |
 | 26690 | Granisetron Fresenius Kabi | Injektionsvätska, lösning | Fresenius Kabi AB |
-
-Ytterligare ett godkännande (25505, Granisetron Hameln, koncentrat till injektions-/infusionsvätska, lösning) finns också och är avregistrerat.
 
 ---
 

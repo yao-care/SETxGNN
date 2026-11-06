@@ -100,8 +100,6 @@ Nedan visas ett urval av de mest relevanta publikationerna. Klassificeringen av 
 | 65432 | Ampicillin/Sulbactam AptaPharma | Pulver till injektions-/infusionsvätska, lösning | Indikationstext saknas (indraget) |
 | 65431 | Ampicillin/Sulbactam AptaPharma | Pulver till injektions-/infusionsvätska, lösning | Indikationstext saknas (indraget) |
 
-Båda godkännandena är indragna, och för närvarande finns inget giltigt godkännande i Sverige.
-
 ---
 
 ## Säkerhetsaspekter
@@ -125,7 +123,7 @@ Information om varningar, kontraindikationer och läkemedelsinteraktioner från 
 - Komplettera verkningsmekanismdata från DrugBank.
 - Granska litteraturen i detalj, särskilt de randomiserade studierna (PMID 2677956 och 3026009), och bedöma om de uppfyller kraven för en högre evidensnivå.
 - Jämföra med nuvarande svenska behandlingsriktlinjer för septisk artrit och aktuella resistensmönster.
-- Bedöma tillgänglighet av alternativa ampicillin/sulbactam-produkter, eftersom båda godkännandena är indragna.
+- Bedöma tillgänglighet av alternativa ampicillin/sulbactam-produkter.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -85,7 +85,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna och ingen produkt är för närvarande godkänd. Indikationstext saknas i alla godkännanden. Fem av dem visas som exempel:
+Indikationstext saknas i alla godkännanden. Fem av dem visas som exempel:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -120,7 +120,7 @@ För fullständig säkerhetsinformation, se produktresumén.
 - Komplettera data om verkningsmekanismen från DrugBank.
 - Granska originalartikeln från 1992 (PMID 1728167) för att bedöma studiedesign, antal patienter och resultat.
 - Utvärdera om kontrollerade studier är genomförbara, med jämförelse mot etablerade behandlingar för Tourettes syndrom.
-- Klargöra regulatorisk väg, eftersom alla svenska godkännanden är indragna.
+- Klargöra regulatorisk väg.
 
 **Övriga förutsägelser (kort):** Evidensen är svagare eller ogynnsam för övriga rankade förutsägelser. Nefrogent syndrom med olämplig antidiures och trikotillomani saknar stöd (L5), och för trikotillomani är mekanismen motsatt den kända terapeutiska riktningen (opioidantagonister). För huvudvärksstörning och trigeminal autonom cefalalgi pekar litteraturen på risk för läkemedelsutlöst huvudvärk. Förkylning är sannolikt en sökordsartefakt. Manisk bipolär sjukdom (L3) har begränsad och äldre evidens och är en forskningsfråga snarare än ett kandidatområde för klinisk användning.
 ## Ansvarsfriskrivning

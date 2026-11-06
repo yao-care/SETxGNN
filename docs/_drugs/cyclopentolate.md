@@ -87,7 +87,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 | 10008 | Cyclopentolat Bausch & Lomb | Ögondroppar, lösning i endosbehållare | Ingen indikationstext registrerad |
 | 6001 | Cyclogyl | Ögondroppar, lösning | Ingen indikationstext registrerad |
 
-Enligt de lokala uppgifterna är marknadsstatus "Marknadsförd". Uppgifterna om giltiga och avregistrerade godkännanden är inte helt konsekventa, så den exakta statusen för enskilda godkännanden bör kontrolleras mot Läkemedelsverkets register.
+Enligt de lokala uppgifterna är marknadsstatus "Marknadsförd".
 
 ---
 

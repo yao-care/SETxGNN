@@ -82,8 +82,6 @@ Det orsakas av aktiverande varianter i vasopressin V2-receptorn (AVPR2), som nim
 | 66795 | Nimotop | Infusionsvätska, lösning | Ej angiven | Indragen |
 | 10954 | Nimotop | Infusionsvätska, lösning | Ej angiven | Indragen |
 
-Samtliga fem godkännanden är indragna, och inget är för närvarande giltigt.
-
 ---
 
 ## Säkerhetsaspekter
@@ -103,7 +101,7 @@ Varnings- och kontraindikationstext från produktresumén saknas. Se produktresu
 
 **Motivering:**
 - Förutsägelsen stöds enbart av en modellberäkning (L5) utan kliniska prövningar eller publikationer, och en rimlig mekanistisk koppling saknas.
-- Dessutom är alla svenska godkännanden indragna, och viktig säkerhetsinformation saknas.
+- Viktig säkerhetsinformation saknas.
 
 **För att gå vidare krävs:**
 - Hämta och analysera produktresumétext (varningar och kontraindikationer) från Läkemedelsverket.

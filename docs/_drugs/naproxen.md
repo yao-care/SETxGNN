@@ -108,7 +108,6 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 
 **Motivering:**
 - Förutsägelsen saknar helt kliniskt och litteraturbaserat stöd (evidensnivå L5), och inget rimligt mekanistiskt samband mellan en COX-hämmare och ett medfött missbildningssyndrom kan fastställas.
-- Samtliga svenska godkännanden för naproxen är dessutom avregistrerade.
 
 **För att gå vidare krävs:**
 - Uppgifter om verkningsmekanism som underlag för en mekanistisk analys.

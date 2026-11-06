@@ -123,7 +123,6 @@ Se produktresumén för fullständiga varningar och kontraindikationer, eftersom
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer, vilket för närvarande blockerar säkerhetsgranskningen.
 - Hämta verkningsmekanismdata från DrugBank.
-- Verifiera marknadsstatus, eftersom båda godkännandena är indragna.
 - Sammanställa kontrollerade data eller kohortstudier för warfarin vid ärftlig trombofili, särskilt jämfört med direktverkande orala antikoagulantia (DOAK), som enligt en ISTH-kommunikation från 2024 allt oftare används i stället.
 - Bedöma om trombofili (L1-förutsägelsen, NCT00895505) är ett mer meningsfullt spår att utreda vidare, trots att prövningens status är okänd.
 ## Ansvarsfriskrivning

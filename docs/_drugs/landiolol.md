@@ -84,8 +84,6 @@ Sambandet mellan den ursprungliga och den nya indikationen är därför svagt oc
 | 52381 | Rapibloc | Pulver till infusionsvätska, lösning | Ingen indikationstext registrerad | Indragen |
 | 52383 | Rapibloc | Koncentrat till injektionsvätska, lösning | Ingen indikationstext registrerad | Indragen |
 
-Båda godkännandena innehas av Amomed Pharma GmbH och är indragna. Det finns därför inget giltigt godkännande i Sverige.
-
 ---
 
 ### Säkerhetsaspekter
@@ -108,7 +106,6 @@ Se produktresumén för varningar, kontraindikationer och övrig säkerhetsinfor
 - Komplettera uppgifterna om verkningsmekanism, till exempel via DrugBank.
 - Göra en systematisk litteratur- och prövningssökning för landiolol vid rörelsestörningar.
 - Utvärdera om det finns prekliniska data som visar att landiolol har effekt i centrala nervsystemet, samt om administrationsvägen är förenlig med kronisk behandling.
-- Ta hänsyn till att alla svenska godkännanden är indragna när eventuell fortsatt utvärdering övervägs.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

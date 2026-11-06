@@ -93,7 +93,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga åtta godkännanden är indragna. Någon godkänd indikationstext finns inte i den sammanställda datan.
+Någon godkänd indikationstext finns inte i den sammanställda datan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -119,7 +119,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Förutsägelsen är i huvudsak en utvidgning av den redan kända användningen vid vulvovaginal candidiasis. Evidensen (L3) består av översikter och äldre kliniska artiklar utan registrerade prövningar. Nystatin har dessutom ersatts av azoler som förstahandsval, och alla svenska godkännanden är indragna.
+- Förutsägelsen är i huvudsak en utvidgning av den redan kända användningen vid vulvovaginal candidiasis. Evidensen (L3) består av översikter och äldre kliniska artiklar utan registrerade prövningar. Nystatin har dessutom ersatts av azoler som förstahandsval.
 
 **För att gå vidare krävs:**
 - Produktresumé med varningar och kontraindikationer (saknas och blockerar säkerhetsbedömningen).

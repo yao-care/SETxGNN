@@ -95,7 +95,7 @@ Ingen av studierna undersöker daptomycin som behandling av osteoartrit i sig.
 
 ### Marknadsinformation Sverige
 
-Alla 17 godkännanden är indragna och inget är giltigt. Indikationstext saknas i data. De fem första godkännandena:
+Indikationstext saknas i data. De fem första godkännandena:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -124,7 +124,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Dessutom är alla svenska godkännanden indragna, och muskelrelaterade biverkningar talar emot långvarig systemisk användning.
+- Muskelrelaterade biverkningar talar emot långvarig systemisk användning.
 
 **För att gå vidare krävs:**
 - Kompletterande verkningsmekanismdata och produktresumé med varningar och kontraindikationer (för närvarande saknas dessa).

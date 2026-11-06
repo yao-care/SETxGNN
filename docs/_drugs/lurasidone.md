@@ -97,7 +97,7 @@ Flera av publikationerna handlar om bipolär depression eller bipolär sjukdom i
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna och inget är för närvarande giltigt. Indikationstext saknas i de data som sammanställts. Nedan visas fem av godkännandena.
+Indikationstext saknas i de data som sammanställts. Nedan visas fem av godkännandena.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -129,12 +129,11 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen sammanfaller till stor del med en redan etablerad användning vid bipolär sjukdom, men effekt vid akut mani är inte belagd. Den enda prövningen är indragen utan deltagare, och inga läkemedel är för närvarande godkända på den svenska marknaden.
+- Förutsägelsen sammanfaller till stor del med en redan etablerad användning vid bipolär sjukdom, men effekt vid akut mani är inte belagd. Den enda prövningen är indragen utan deltagare.
 
 **För att gå vidare krävs:**
 - Randomiserade kontrollerade studier som specifikt prövar lurasidon vid akut mani.
 - Verkningsmekanismdata och produktresumé (varningar och kontraindikationer) för en fullständig säkerhetsbedömning.
-- Klarhet i varför samtliga svenska godkännanden är indragna och om en återlansering är aktuell.
 - Granskning av metabola risker och interaktioner (särskilt med CYP3A4-hämmare som klaritromycin) i den aktuella patientgruppen.
 
 ---

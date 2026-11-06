@@ -103,7 +103,6 @@ Uppgifter om varningar och kontraindikationer från produktresumé saknas. Se pr
 
 **Motivering:**
 - Förutsägelsen saknar både kliniska prövningar och litteratur, och inget plausibelt mekanistiskt samband finns mellan mesalazin och en genetisk cellvidhäftningsdefekt.
-- Samtliga svenska godkännanden är dessutom indragna.
 
 **För att gå vidare krävs:**
 - Verkningsmekanismdata för mesalazin (till exempel via DrugBank).

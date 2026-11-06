@@ -70,7 +70,7 @@ Inga studier som specifikt rör denna undertyp har identifierats.
 
 ## Marknadsinformation Sverige
 
-Samtliga 17 godkännanden är avregistrerade. Godkänd indikationstext finns inte registrerad. De fem första godkännandena visas nedan.
+Godkänd indikationstext finns inte registrerad. De fem första godkännandena visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

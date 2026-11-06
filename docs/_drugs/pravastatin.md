@@ -97,7 +97,6 @@ Ingen av publikationerna nedan innehåller en studie av pravastatin vid homozygo
 
 ### Marknadsinformation Sverige
 
-
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----------|-----------|
 | 20475 | Pravastatin Sandoz | Tablett | Sandoz A/S | Godkänd |
@@ -142,13 +141,13 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 
 **Motivering:**
 - Förutsägelsen är biologiskt rimlig, men det finns ingen studie av pravastatin vid homozygot familjär hyperkolesterolemi. Den enda prövningen gäller ett annat läkemedel (alirocumab).
-- Sjukdomen innebär att LDL-receptorn saknas eller fungerar mycket dåligt, vilket begränsar statiners effekt. Dessutom är samtliga svenska godkännanden avregistrerade.
+- Sjukdomen innebär att LDL-receptorn saknas eller fungerar mycket dåligt, vilket begränsar statiners effekt.
 
 **För att gå vidare krävs:**
 - Kontrollerade studier eller välgjorda observationsstudier med pravastatin hos patienter med homozygot familjär hyperkolesterolemi.
 - Jämförelse med eller tilläggseffekt till etablerade behandlingar (t.ex. PCSK9-hämmare, ezetimib, andra statiner).
 - Uppgifter om verkningsmekanism och säkerhet från aktuell produktresumé.
-- Klarhet i regulatorisk väg, eftersom inget preparat är marknadsfört i Sverige.
+- Klarhet i regulatorisk väg.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

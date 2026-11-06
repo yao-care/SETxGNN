@@ -94,8 +94,6 @@ Indikationstext saknas i underlaget.
 | 57733 | Efavirenz/Emtricitabine/Tenofovir disoproxil Glenmark | Filmdragerad tablett | Ej angiven |
 | 64287 | Efavirenz/Emtricitabine/Tenofovir disoproxil Zentiva k.s. | Filmdragerad tablett | Ej angiven |
 
-Ytterligare tre indragna godkännanden finns (54251, 55565 och 61914).
-
 ---
 
 ### Säkerhetsaspekter
@@ -114,7 +112,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 
 **Motivering:**
 - Evidensen är begränsad till en enda prekliniskt biokemisk/strukturell studie utan kliniska prövningar. FIV:s omvända transkriptas är dessutom känd för att vara mindre känsligt för NNRTI-läkemedel, så den höga modellpoängen är inte validerad.
-- Alla svenska godkännanden är indragna, och produktresumé med varningar saknas.
+- Produktresumé med varningar saknas.
 
 **För att gå vidare krävs:**
 - Laboratoriestudier (enzymhämning och cellodling) som visar att efavirenz har faktisk antiviral aktivitet mot FIV.

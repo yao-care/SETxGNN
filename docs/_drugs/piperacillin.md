@@ -93,7 +93,7 @@ Ingen av publikationerna visar effekt av piperacillin vid reumatoid artrit. Samt
 
 ### Marknadsinformation Sverige
 
-Alla 19 godkännanden är indragna och ingen produkt är för närvarande marknadsförd. Godkänd indikationstext saknas i data. Ett urval av de huvudsakliga godkännandena:
+Godkänd indikationstext saknas i data. Ett urval av de huvudsakliga godkännandena:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -123,7 +123,7 @@ Se produktresumén för varningar och kontraindikationer, som inte ingår i de d
 **Beslut: Avvakta**
 
 **Motivering:**
-- Det saknas både mekanistisk grund och kliniskt stöd för piperacillin vid reumatoid artrit. Den höga modellpoängen verkar vara en artefakt, och all litteratur beskriver reumatoid artrit som bakgrundssjukdom vid infektionsbehandling. Dessutom är alla svenska godkännanden indragna.
+- Det saknas både mekanistisk grund och kliniskt stöd för piperacillin vid reumatoid artrit. Den höga modellpoängen verkar vara en artefakt, och all litteratur beskriver reumatoid artrit som bakgrundssjukdom vid infektionsbehandling.
 
 **För att gå vidare krävs:**
 - Detaljerad verkningsmekanismdata och en trovärdig biologisk hypotes för en effekt vid reumatoid artrit

@@ -101,7 +101,7 @@ Ingen av publikationerna är en randomiserad studie, och ingen visar att tobramy
 | 16319 | Tobi (Viatris AB) | Lösning för nebulisator | Godkänd |
 | 58194 | Tobi (Orifarm AB) | Lösning för nebulisator | Godkänd |
 
-Ytterligare tre godkännanden är avregistrerade: Tobi (Orifarm AB, 61430), Tobrasone (Novartis Sverige AB, 22413, ögondroppar, suspension) och Toflacort (Blumont Ofta Trading Ltd, 43071, ögondroppar, suspension). Inga indikationstexter finns angivna i de sammanställda uppgifterna.
+Inga indikationstexter finns angivna i de sammanställda uppgifterna.
 
 ---
 
@@ -120,13 +120,13 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen har högt modellpoäng men saknar stöd i kliniska prövningar, och litteraturen gäller bakteriell keratit av andra orsaker. Dessutom finns en toxicitetssignal för hornhinneepitel, och samtliga svenska godkännanden är avregistrerade.
+- Förutsägelsen har högt modellpoäng men saknar stöd i kliniska prövningar, och litteraturen gäller bakteriell keratit av andra orsaker. Dessutom finns en toxicitetssignal för hornhinneepitel.
 
 **För att gå vidare krävs:**
 - Kontrollerade studier eller åtminstone systematiska data om tobramycin vid exponeringskeratit.
 - Utvärdering av hornhinnetoxicitet vid en skadad ögonyta.
 - Genomgång av produktresumé för varningar och kontraindikationer.
-- Klargöring av tillgängliga beredningsformer, eftersom endast ögondroppar är aktuella och dessa är avregistrerade.
+- Klargöring av tillgängliga beredningsformer.
 - Mekanistisk analys av kopplingen mellan tobramycin och exponeringskeratit, eftersom uppgifter om verkningsmekanism saknas.
 ## Ansvarsfriskrivning
 

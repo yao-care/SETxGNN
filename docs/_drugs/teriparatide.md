@@ -111,7 +111,6 @@ Varnings- och kontraindikationstext från produktresumén ingår inte i underlag
 
 **Motivering:**
 - Förutsägelsen om duodenalsår saknar både kliniska prövningar och litteratur, och ingen mekanistisk koppling kan styrkas (evidensnivå L5).
-- Samtliga svenska godkännanden är avregistrerade, vilket också begränsar tillgången.
 
 **För att gå vidare krävs:**
 - Biologisk hypotes som förklarar hur PTH-signalering skulle påverka sårläkning eller slemhinneskydd i tolvfingertarmen.

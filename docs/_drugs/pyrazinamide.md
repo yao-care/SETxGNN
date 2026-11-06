@@ -97,8 +97,6 @@ Alla dessa avser tuberkulös infektion, det vill säga läkemedlets ursprungliga
 | 16663 | Rimcure | Filmdragerad tablett | Ingen indikationstext tillgänglig (indraget) |
 | 16899 | Rimstar | Filmdragerad tablett | Ingen indikationstext tillgänglig (indraget) |
 
-Båda godkännandena (Sandoz A/S) är indragna, och inget giltigt enkomponentsgodkännande eller kombinationsgodkännande finns för närvarande.
-
 ---
 
 ## Säkerhetsaspekter
@@ -125,7 +123,6 @@ Varningar och kontraindikationer från svensk produktresumé saknas i underlaget
 - Ett belagt mykobakteriellt samband, eftersom pyrazinamid kan vara aktuellt endast vid bekräftad tuberkulös otitis media
 - Hämtning av varningar och kontraindikationer från produktresumén, då säkerhetsunderlaget från svensk produktresumé saknas
 - Kompletterande verkningsmekanismdata
-- Aktuell marknadsstatus, eftersom båda svenska godkännandena är indragna
 
 Stödet är svagt och indirekt, och ett första steg skulle vara *in vitro*-studier av persisterande borreliaceller. Övriga öronrelaterade förutsägelser (otosalpingit, icke-suppurativ och allergisk otitis media, kolesterolgranulom i mellanörat, infektiös otitis interna) saknar klinisk evidens och en rimlig mekanism.
 ## Ansvarsfriskrivning

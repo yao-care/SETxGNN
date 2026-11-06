@@ -87,7 +87,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Samtliga fyra godkännanden är indragna. Ingen indikationstext finns registrerad.
+Ingen indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -119,7 +119,7 @@ Produktresumé med varningar och kontraindikationer har inte kunnat sammanställ
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen stöds av varken kliniska prövningar eller litteratur (L5). Mekanismen är svag för cauda equina-syndrom, och tropikamid har knappt någon systemisk exponering som ögonläkemedel. Dessutom är alla svenska godkännanden indragna.
+- Förutsägelsen stöds av varken kliniska prövningar eller litteratur (L5). Mekanismen är svag för cauda equina-syndrom, och tropikamid har knappt någon systemisk exponering som ögonläkemedel.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé med varningar och kontraindikationer, vilket för närvarande blockerar säkerhetsbedömningen.

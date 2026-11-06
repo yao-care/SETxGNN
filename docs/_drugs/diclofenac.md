@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är indragna och inget är i dag giltigt. Nedan visas fem av dem.
+Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -120,7 +120,7 @@ Produktresumétexten (varningar och kontraindikationer) fanns inte tillgänglig 
 
 **Motivering:**
 - Förutsägelsen bygger enbart på en modellpoäng. Det finns varken kliniska prövningar, litteratur eller någon identifierad mekanism, och diklofenak har ingen känd verkan på de gener och processer som orsakar sjukdomen.
-- Alla svenska godkännanden är indragna, och produkttextens säkerhetsuppgifter saknas.
+- Produkttextens säkerhetsuppgifter saknas.
 
 **För att gå vidare krävs:**
 - Verkningsmekanismdata för diklofenak, till exempel från DrugBank.

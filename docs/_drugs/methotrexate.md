@@ -112,7 +112,7 @@ Nedan visas litteratur för de två indikationer som har starkast stöd i data: 
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna och inget är giltigt. Godkännandetexterna för indikation saknas i registret. De fem första visas nedan.
+Godkännandetexterna för indikation saknas i registret. De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -156,14 +156,14 @@ Säkerhetsdata från produktresumén saknas i de sammanställda data. Se produkt
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för pulmonellt blastom stöds enbart av modellen (L5), utan kliniska prövningar eller litteratur. Dessutom är samtliga svenska godkännanden indragna.
+- Förutsägelsen för pulmonellt blastom stöds enbart av modellen (L5), utan kliniska prövningar eller litteratur.
 - Flera andra förutsagda indikationer har bättre stöd. Hodgkins lymfom (L3) och rhabdomyosarkom (L2) kan prioriteras som forskningsfrågor. Primärt pulmonellt lymfom (L4) har plausibel biologi men saknar direkta studier.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanism från DrugBank samt varningar och kontraindikationer från produktresumén (båda saknas).
 - Kartlägga om det finns publicerade fallrapporter eller prekliniska data för pulmonellt blastom.
 - För Hodgkins lymfom och rhabdomyosarkom: undersöka om metotrexat har ett eget bidrag till effekten, separat från kombinationsregimer, och väga detta mot säkerhetssignalen med metotrexatassocierade lymfoproliferativa sjukdomar.
-- Klargöra läkemedlets regulatoriska status, eftersom alla svenska godkännanden är indragna, samt vilka beredningsformer som skulle behövas.
+- Klargöra läkemedlets regulatoriska status.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

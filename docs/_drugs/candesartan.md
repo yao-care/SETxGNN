@@ -98,7 +98,7 @@ Sambandet mellan den ursprungliga och den nya indikationen är således indirekt
 
 ## Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är indragna och ingen indikationstext finns angiven. Nedan visas de fem första.
+Ingen indikationstext finns angiven. Nedan visas de fem första.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -125,7 +125,7 @@ Se i övrigt produktresumén för fullständig säkerhetsinformation.
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Det finns en stor, avslutad, placebokontrollerad fas 2-prövning (n=450) och en mindre fas 2/3-prövning som stöder candesartan vid migrän, men inga två avslutade fas 3-prövningar. Dessutom är alla svenska godkännanden indragna, så tillgänglighet och regulatorisk status behöver klargöras.
+- Det finns en stor, avslutad, placebokontrollerad fas 2-prövning (n=450) och en mindre fas 2/3-prövning som stöder candesartan vid migrän, men inga två avslutade fas 3-prövningar.
 
 **För att gå vidare krävs:**
 - Detaljerad granskning av resultaten i NCT04574713 / PMID 40975098 (effektstorlek, biverkningar, dosering 8 mg mot 16 mg).

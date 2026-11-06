@@ -84,7 +84,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla åtta godkännanden för doxycyklin i datan är indragna och inget är giltigt. Någon godkänd indikationstext finns inte angiven. Nedan visas fem av dem.
+Någon godkänd indikationstext finns inte angiven. Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
 |---------|------|------|-----------|
@@ -114,14 +114,13 @@ Alla åtta godkännanden för doxycyklin i datan är indragna och inget är gilt
 
 **Motivering:**
 - Förutsägelsen har mycket hög modellpoäng (99,9 %), men den enda stödjande källan är en fallrapport från 1992 och inga kliniska prövningar finns. Fallrapporten visar dessutom keratit som uppstod efter behandling, inte att doxycyklin gav effekt.
-- Samtliga svenska godkännanden är indragna, vilket också begränsar den praktiska möjligheten att gå vidare.
 
 **För att gå vidare krävs:**
 - Systematisk litteratursökning efter kontrollerade studier av doxycyklin (oralt eller topikalt) vid punktformad keratit och keratokonjunktivit.
 - Prekliniska eller kliniska data som visar att doxycyklins MMP-hämmande och antiinflammatoriska effekt har betydelse för ögonytan vid just detta tillstånd.
 - Beskrivning av läkemedlets verkningsmekanism samt säkerhetsunderlag från produktresumén, eftersom varnings- och kontraindikationstext saknas i det sammanställda underlaget.
 - Klargörande av administreringsväg (oral eller topikal ögonberedning) och tillgänglig beredningsform, eftersom inga godkända ögonberedningar finns bland de svenska godkännandena.
-- Bedömning av marknadsläget, eftersom alla godkännanden för närvarande är indragna.
+- Bedömning av marknadsläget.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

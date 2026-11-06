@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 15 godkännanden är indragna, och inget giltigt godkännande finns i de data som sammanställts för rapporten. Godkänd indikationstext saknas för samtliga. Tabellen visar fem av godkännandena.
+Godkänd indikationstext saknas för samtliga. Tabellen visar fem av godkännandena.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|------|------|
@@ -112,11 +112,11 @@ Ytterligare säkerhetsinformation finns i produktresumén.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för variabelt proteassensitiv prionopati saknar både kliniska prövningar och publikationer, och inget mekanistiskt samband har kunnat identifieras. Dessutom är alla svenska godkännanden indragna.
+- Förutsägelsen för variabelt proteassensitiv prionopati saknar både kliniska prövningar och publikationer, och inget mekanistiskt samband har kunnat identifieras.
 
 **För att gå vidare krävs:**
 - Prekliniska data eller mekanismdata som visar en koppling mellan alfa-1-stimulering och prionpatologi.
-- Verifiering av läkemedlets tillgänglighet och regulatoriska status i Sverige, eftersom alla godkännanden är indragna.
+- Verifiering av läkemedlets tillgänglighet och regulatoriska status i Sverige.
 - Genomgång av produktresumé med varningar och kontraindikationer, eftersom sådana uppgifter saknas i de data som sammanställts.
 
 **Kompletterande observation:** Bland de övriga förutsägelserna är det bara "hypotensivt tillstånd" (rank 4) som har stöd i data, med en avslutad fas 2-prövning (NCT02893553) och flera översiktsartiklar. Det är dock i huvudsak en bekräftelse av den befintliga användningen och inte någon ny indikation. Förutsägelserna för sinoatriell sjukdom och sinoatriellt block är dessutom ett säkerhetsproblem, eftersom midodrin kan ge reflexbradykardi.

@@ -105,7 +105,7 @@ Produktresumé med varningar och kontraindikationer har inte kunnat hämtas, så
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé (varningar och kontraindikationer) från Läkemedelsverket.
 - Hämta verkningsmekanismdata från DrugBank för en egentlig mekanistisk analys.
-- Klargöra regulatorisk status, eftersom alla godkännanden är indragna.
+- Klargöra regulatorisk status.
 - För agorafobi och dystymi: kontrollerade studier (RCT) som specifikt undersöker dessa tillstånd.
 - För benign paroxysmal torticollis: ingen åtgärd rekommenderas innan det finns biologiskt stöd och en tydlig säkerhetsbedömning för barn.
 ## Ansvarsfriskrivning

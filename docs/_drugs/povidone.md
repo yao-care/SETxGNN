@@ -77,8 +77,6 @@ Medfödd ichtyosiform erytrodermi är en genetisk störning i hudens förhornnin
 | 23334 | Nyodex | Koncentrat till gurgelvatten | Uppgift saknas |
 | 61810 | Ophthajod | Ögondroppar, lösning | Uppgift saknas |
 
-Alla fyra godkännanden är indragna, och inget giltigt godkännande för povidon som enda substans finns i Sverige i dag.
-
 ---
 
 ## Säkerhetsaspekter

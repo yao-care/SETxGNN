@@ -89,7 +89,7 @@ Se i övrigt produktresumén för varningar och kontraindikationer.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen saknar helt stöd i kliniska prövningar och litteratur, och det finns inget rimligt mekanistiskt samband mellan läkemedlet och bronkit. Läkemedlets godkännande i Sverige är dessutom återkallat.
+- Förutsägelsen saknar helt stöd i kliniska prövningar och litteratur, och det finns inget rimligt mekanistiskt samband mellan läkemedlet och bronkit.
 
 **För att gå vidare krävs:**
 - Dokumenterad verkningsmekanism från DrugBank eller produktresumén

@@ -75,8 +75,6 @@ Den höga poängen (0,999) är därför enbart ett resultat av en grafbaserad mo
 | 26919 | Tetmodis | Tablett | Indikationstext saknas (indragen) |
 | 19824 | Xenazine | Tablett | Indikationstext saknas (indragen) |
 
-Båda godkännandena är indragna, och inget giltigt godkännande finns för närvarande i Sverige.
-
 ---
 
 ### Säkerhetsaspekter
@@ -98,13 +96,13 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas i und
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen stöds varken av kliniska prövningar, litteratur eller en rimlig verkningsmekanism, och läkemedlet saknar giltigt godkännande i Sverige. Säkerhetsprofilen, med bland annat kontraindikation vid leversjukdom och QT-förlängning, talar dessutom för försiktighet.
+- Förutsägelsen stöds varken av kliniska prövningar, litteratur eller en rimlig verkningsmekanism. Säkerhetsprofilen, med bland annat kontraindikation vid leversjukdom och QT-förlängning, talar dessutom för försiktighet.
 
 **För att gå vidare krävs:**
 - Verkningsmekanismdata för tetrabenazin (till exempel via DrugBank) samt en genomgång av eventuell biologisk koppling mellan VMAT2-hämning och cystbildning i njurar och lever.
 - Produktresumé med varningar och kontraindikationer från Läkemedelsverket för att kunna göra en säkerhetsbedömning.
 - Prekliniska studier (cellmodeller eller djurmodeller av polycystisk njursjukdom) som kan ge ett första stöd för förutsägelsen.
-- Bedömning av om en ny ansökan om godkännande är praktiskt möjlig, eftersom alla nuvarande godkännanden är indragna.
+- Bedömning av om en ny ansökan om godkännande är praktiskt möjlig.
 
 ---
 

@@ -138,7 +138,6 @@ Produktresumén bör konsulteras för fullständig information om varningar, eft
 
 **Motivering:**
 - Evidensen för ketorolak vid akut migrän och spänningshuvudvärk är omfattande, med flera avslutade prövningar, systematiska översikter och riktlinjer, och mekanismen (COX-hämning) är väletablerad.
-- Samtliga svenska godkännanden är avregistrerade, kontraindikationslistan är lång och uppgifter från produktresumén om varningar saknas, så en säkerhetsgenomgång krävs innan nästa steg.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket.

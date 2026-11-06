@@ -93,7 +93,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 | 11083 | Oxascand | Tablett | Godkänd |
 | 63357 | Delipam | Tablett | Godkänd |
 
-Ytterligare två avregistrerade godkännanden finns (63356 och 63358, Delipam). Samtliga sju godkännanden är avregistrerade, och ingen indikationstext finns tillgänglig.
+Ingen indikationstext finns tillgänglig.
 
 ---
 

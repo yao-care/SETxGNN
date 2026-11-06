@@ -40,7 +40,7 @@ Evidensnivå: **L2** | Förutsagda indikationer: **3** st
 
 ### Sammanfattning
 
-Pimecrolimus (Elidel) är en topikal kalcineurinhämmare som ursprungligen användes för att behandla atopiskt eksem (atopisk dermatit). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **seborroisk dermatit**, med **1 klinisk prövning (fas 2, slutförd)** och **17 publikationer** som för närvarande stöder denna riktning, bland annat två systematiska översikter av randomiserade studier. Elidel-krämen har dock endast ett annullerat godkännande i Sverige, vilket påverkar tillgängligheten.
+Pimecrolimus (Elidel) är en topikal kalcineurinhämmare som ursprungligen användes för att behandla atopiskt eksem (atopisk dermatit). TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **seborroisk dermatit**, med **1 klinisk prövning (fas 2, slutförd)** och **17 publikationer** som för närvarande stöder denna riktning, bland annat två systematiska översikter av randomiserade studier.
 
 ---
 
@@ -115,7 +115,7 @@ Det är en fördel att pimecrolimus inte ger hudatrofi, vilket är ett problem v
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Det finns en slutförd fas 2-studie och två systematiska översikter av randomiserade studier som stöder effekt vid seborroisk dermatit (evidensnivå L2). Den enda svenska licensen är dock annullerad och säkerhetsunderlaget från produktresumén saknas.
+- Det finns en slutförd fas 2-studie och två systematiska översikter av randomiserade studier som stöder effekt vid seborroisk dermatit (evidensnivå L2).
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer), eftersom detta saknas i dag.

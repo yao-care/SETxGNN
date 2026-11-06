@@ -114,7 +114,7 @@ Se även produktresumén för fullständig säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den förutsagda indikationen saknar kliniska prövningar, och den enda direkta studien gäller den redan godkända ADHD-indikationen. Dessutom är samtliga svenska godkännanden avregistrerade och produktresumédata saknas.
+- Den förutsagda indikationen saknar kliniska prövningar, och den enda direkta studien gäller den redan godkända ADHD-indikationen.
 - Bland de övriga förutsägelserna framstår **narkolepsi** som den mest trovärdiga kandidaten. Den har en stark mekanistisk grund (amfetamin är etablerat vid narkolepsi) och en fallserie om lisdexamfetamin. Den bör utredas separat, och den ursprungliga rekommendationen för den är "forskningsfråga".
 
 **För att gå vidare krävs:**

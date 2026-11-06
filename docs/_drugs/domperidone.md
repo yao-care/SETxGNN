@@ -40,7 +40,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 ### Sammanfattning
 
-Domperidon är en dopamin D2/D3-receptorantagonist som används vid dyspepsi, halsbränna, övre buksmärta, illamående och kräkningar. Det svenska godkännandet för Domperidon Ebb är dock avregistrerat. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **nefrogent syndrom med olämplig antidures (NSIAD)**, men **inga kliniska prövningar och ingen litteratur** stöder denna riktning i dagsläget. Förutsägelsen bygger enbart på modellen.
+Domperidon är en dopamin D2/D3-receptorantagonist som används vid dyspepsi, halsbränna, övre buksmärta, illamående och kräkningar. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **nefrogent syndrom med olämplig antidures (NSIAD)**, men **inga kliniska prövningar och ingen litteratur** stöder denna riktning i dagsläget. Förutsägelsen bygger enbart på modellen.
 
 ---
 
@@ -90,7 +90,7 @@ Se produktresumén för fullständig säkerhetsinformation. Varnings- och kontra
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen stöds enbart av modellen (L5), utan kliniska prövningar eller publikationer, och ett plausibelt mekanistiskt samband saknas. Dessutom är de kontraindikationer som kopplas till QT-förlängning och torsades de pointes viktiga säkerhetsaspekter, och det svenska godkännandet är avregistrerat.
+- Förutsägelsen stöds enbart av modellen (L5), utan kliniska prövningar eller publikationer, och ett plausibelt mekanistiskt samband saknas. Dessutom är de kontraindikationer som kopplas till QT-förlängning och torsades de pointes viktiga säkerhetsaspekter.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé från MPA för varningar och kontraindikationer (blockerande dataluckor).

@@ -110,7 +110,7 @@ Litteraturen består till största delen av översiktsartiklar om MDS och AML. E
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna och ingen indikationstext finns registrerad. Läkemedlet är därmed för närvarande inte marknadsfört i Sverige. De fem första godkännandena:
+Ingen indikationstext finns registrerad. De fem första godkännandena:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -160,7 +160,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Hämta produktresumén från Läkemedelsverket för varningar och kontraindikationer (blockerande dataluckor för säkerhetsgranskning).
 - Komplettera verkningsmekanismdata från DrugBank.
 - Granska resultaten från de randomiserade studierna (NCT01358734, NCT01301820, NCT01522976, NCT00843882) och, om möjligt, avgränsa målgruppen till del(5q) eller underhåll efter remission.
-- Klargöra regulatorisk väg, eftersom samtliga svenska godkännanden är indragna.
+- Klargöra regulatorisk väg.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

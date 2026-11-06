@@ -82,8 +82,6 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla tre godkännanden är indragna, och inget giltigt läkemedel med sotalol som enda substans finns på marknaden.
-
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 11913 | Sotalol Viatris | Tablett | Ej angiven |
@@ -122,7 +120,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen saknar helt stöd från studier (evidensnivå L5). Sotalols effekter på sinusknutan och AV-ledningen talar dessutom emot nytta vid sick sinus-syndrom, som även är en listad kontraindikation. Alla svenska godkännanden är indragna.
+- Förutsägelsen saknar helt stöd från studier (evidensnivå L5). Sotalols effekter på sinusknutan och AV-ledningen talar dessutom emot nytta vid sick sinus-syndrom, som även är en listad kontraindikation.
 - Bland de andra förutsägelserna har indikationen stroke visst indirekt stöd, genom en avslutad fas 3-prövning (NCT00007605, 706 deltagare) om rytmkontroll vid förmaksflimmer. Den undersöker dock inte stroke som utfall, och antikoagulation är fortfarande huvudstrategin för strokeprevention.
 
 **För att gå vidare krävs:**

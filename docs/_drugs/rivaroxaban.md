@@ -128,7 +128,6 @@ Se produktresumén för fullständiga varningar och kontraindikationer, eftersom
 - Komplettera verkningsmekanismdata, till exempel via DrugBank.
 - Genomföra en systematisk litteratursökning efter prekliniska och kliniska data om faktor Xa-hämning eller PAR-signalering vid reumatoid artrit.
 - Fastställa om det finns en rimlig mekanistisk hypotes innan någon prövning planeras.
-- Klargöra marknadsstatusen, eftersom alla godkännanden är indragna.
 
 ---
 

@@ -134,7 +134,7 @@ Uppgifter om varningar och kontraindikationer från den officiella produktresum�
 - Komplettera data om verkningsmekanism
 - Genomföra en litteratursökning om hormonella gestagener och zinknivåer i plasma
 - Klargöra om förhöjt zink i plasma är ett kliniskt relevant behandlingsmål
-- Bedöma om en ny registrering skulle krävas, eftersom alla svenska godkännanden är indragna
+- Bedöma om en ny registrering skulle krävas
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

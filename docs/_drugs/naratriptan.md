@@ -89,7 +89,7 @@ Ingen av publikationerna studerar naratriptan specifikt vid migrän med hjärnst
 
 ### Marknadsinformation Sverige
 
-Alla fem godkännanden är indragna, och inget giltigt godkännande finns för närvarande. Godkänd indikationstext saknas i de sammanställda uppgifterna.
+Godkänd indikationstext saknas i de sammanställda uppgifterna.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
 |---------|------|------|-----------|
@@ -120,14 +120,13 @@ Varningar och kontraindikationer från produktresumén saknas i de sammanställd
 
 **Motivering:**
 - Sambandet mellan naratriptan och migrän med hjärnstamsaura är biologiskt starkt, men det rör sig om en undertyp av den ursprungliga indikationen. Inga kliniska prövningar finns för just denna undertyp, och den teoretiska kärlrisken i den bakre cirkulationen väger tungt.
-- Samtliga svenska godkännanden är indragna, och produktresumédata om varningar saknas, vilket hindrar en fullständig säkerhetsbedömning.
+- Produktresumédata om varningar saknas, vilket hindrar en fullständig säkerhetsbedömning.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket.
 - Hämta uppgifter om verkningsmekanism från DrugBank.
 - Göra en riktad litteratursökning efter säkerhet och effekt av triptaner vid hjärnstamsaura eller basilarismigrän.
 - Bedöma vilka patienter som kan komma ifråga, med särskild hänsyn till kärlsjukdom, stroke och hemiplegisk migrän.
-- Utreda marknadsläget, eftersom inget giltigt godkännande finns i Sverige.
 
 ---
 

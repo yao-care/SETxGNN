@@ -113,7 +113,7 @@ Uppgifter från svensk produktresumé (varningar och kontraindikationer) har int
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för trigeminusneoplasm bygger enbart på en modellpoäng (L5), utan studier och utan känd antitumöreffekt. Felbamats allvarliga säkerhetsrisker (aplastisk anemi, leversvikt), många interaktioner och avregistrerade godkännanden i Sverige gör nytta–riskbalansen ogynnsam. Det gäller även trigeminusneuralgi, där tryggare och väletablerade alternativ finns.
+- Förutsägelsen för trigeminusneoplasm bygger enbart på en modellpoäng (L5), utan studier och utan känd antitumöreffekt. Det gäller även trigeminusneuralgi, där tryggare och väletablerade alternativ finns.
 
 **För att gå vidare krävs:**
 - Preklinisk eller mekanistisk evidens för en antitumöreffekt, om neoplasmindikationen ska utredas vidare.

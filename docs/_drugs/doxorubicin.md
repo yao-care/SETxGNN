@@ -143,12 +143,12 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Evidensen för doxorubicin som del av kombinationsregimer vid Ewing sarkom är stark (flera randomiserade fas 3-prövningar), men doxorubicins enskilda effekt kan inte avgränsas, och doxorubicin är redan etablerad standard i behandlingen. Alla tre svenska godkännanden är indragna och produktresuméns säkerhetsdata saknas.
+- Evidensen för doxorubicin som del av kombinationsregimer vid Ewing sarkom är stark (flera randomiserade fas 3-prövningar), men doxorubicins enskilda effekt kan inte avgränsas, och doxorubicin är redan etablerad standard i behandlingen. Produktresuméns säkerhetsdata saknas.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé (varningar, kontraindikationer) från Läkemedelsverket (MPA)
 - Bekräfta verkningsmekanism via DrugBank
-- Klargöra hur doxorubicin kan tillhandahållas i Sverige, eftersom alla godkännanden är indragna (ny ansökan eller licensförskrivning)
+- Klargöra hur doxorubicin kan tillhandahållas i Sverige
 - Fastställa hjärtövervakning och kumulativa dosgränser i behandlingsprotokollet
 - Utvärdera doxorubicins specifika bidrag i regimerna (t.ex. via subgruppsanalyser)
 

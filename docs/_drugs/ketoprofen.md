@@ -84,7 +84,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 |---------|------|------|-----------|
 | 14912 | Siduro (Viatris AB) | Gel (kutan) | Indikationstext saknas; godkännandet är indraget |
 
-Det enda godkännandet i Sverige är indraget, så ingen ketoprofenprodukt är för närvarande marknadsförd enligt dessa data. Det begränsar även den praktiska utvecklingen.
+Det begränsar även den praktiska utvecklingen.
 
 ---
 
@@ -104,7 +104,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen saknar både klinisk och litterär evidens (L5), och ingen rimlig mekanism finns mellan COX-hämning och en genetisk skelettdysplasi. Det enda godkännandet i Sverige är dessutom indraget.
+- Förutsägelsen saknar både klinisk och litterär evidens (L5), och ingen rimlig mekanism finns mellan COX-hämning och en genetisk skelettdysplasi.
 
 **För att gå vidare krävs:**
 - Verkningsmekanismdata för ketoprofen samt säkerhetsinformation från produktresumén.

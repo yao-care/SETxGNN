@@ -118,7 +118,6 @@ Se produktresumén för varningar och kontraindikationer.
 
 **Motivering:**
 - Förutsägelsen bygger på ett begreppsmässigt överlapp med depression och ångest, inte på någon ny, självständig indikation. Det finns inga kliniska prövningar, och den enda publikationen utvärderar inte vortioxetin.
-- Läkemedlet har dessutom inga gällande godkännanden i Sverige.
 
 **För att gå vidare krävs:**
 - Att diagnosen "neurotiskt tillstånd" omsätts till moderna diagnoser (t.ex. ihållande depressiv sjukdom eller ångestsyndrom) och bedöms mot de redan etablerade indikationerna.

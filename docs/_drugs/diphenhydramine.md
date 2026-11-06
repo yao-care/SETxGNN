@@ -86,7 +86,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 |---------|------|------|-----------|
 | 3866 | Desentol (Viatris AB) | Oral lösning | Ingen indikationstext registrerad. Status: indragen |
 
-Det enda godkännandet är indraget, och ingen giltig produkt finns på den svenska marknaden. Den enda registrerade beredningsformen är oral, vilket också är en brist för en okulär indikation (se nedan).
+Den enda registrerade beredningsformen är oral, vilket också är en brist för en okulär indikation (se nedan).
 
 ---
 

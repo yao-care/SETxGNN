@@ -118,7 +118,7 @@ Hudatrofi är särskilt relevant för den förutsagda indikationen annulär atro
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en beräkningsmodell (evidensnivå L5) utan stöd i kliniska prövningar eller litteratur. Dessutom är det enda svenska godkännandet indraget och säkerhetsunderlaget ofullständigt.
+- Förutsägelsen bygger enbart på en beräkningsmodell (evidensnivå L5) utan stöd i kliniska prövningar eller litteratur.
 
 **För att gå vidare krävs:**
 - Hämta produktresumén från Läkemedelsverket (MPA) och granska varningar och kontraindikationer, vilket för närvarande blockerar säkerhetsbedömningen

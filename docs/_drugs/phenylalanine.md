@@ -86,7 +86,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är avregistrerade. Nedan visas de fem första. Indikationstexter saknas i data.
+Nedan visas de fem första. Indikationstexter saknas i data.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -117,7 +117,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en grafbaserad modellpoäng. Det saknas kliniska prövningar, och litteraturen är indirekt och visar endast biomarkörsamband. Dessutom är samtliga svenska godkännanden avregistrerade.
+- Förutsägelsen bygger enbart på en grafbaserad modellpoäng. Det saknas kliniska prövningar, och litteraturen är indirekt och visar endast biomarkörsamband.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé från Läkemedelsverket (varningar, kontraindikationer, ursprunglig indikation).

@@ -87,7 +87,7 @@ Sambandet är alltså mekanistiskt och indirekt. Det finns inga kliniska prövni
 
 ## Marknadsinformation Sverige
 
-Alla sex svenska godkännanden är indragna och ingen godkänd indikationstext finns registrerad.
+Ingen godkänd indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -126,7 +126,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 **Motivering:**
 - Förutsägelsen har ett högt modellvärde och mekanistiskt stöd, eftersom andra taxaner används vid bröstcancer. Underlaget består dock främst av prekliniska studier och översikter, utan registrerade kliniska prövningar i de sammanställda data.
-- Alla svenska godkännanden är indragna, och cytotoxisk myelosuppression innebär en betydande säkerhetsrisk.
+- Cytotoxisk myelosuppression innebär en betydande säkerhetsrisk.
 
 **För att gå vidare krävs:**
 - Sökning efter kliniska prövningar för cabazitaxel vid bröstcancer och granskning av GENEVIEVE-resultaten (pCR och långtidsutfall) jämfört med paklitaxel.

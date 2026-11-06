@@ -99,7 +99,7 @@ Indikationstext saknas i godkännandedata.
 | 65954 | Perampanel Vivanta | Filmdragerad tablett | Indragen |
 | 65959 | Perampanel Vivanta | Filmdragerad tablett | Indragen |
 
-Tillverkare: Vivanta Generics s.r.o. Ytterligare ett godkännande (65956) är också indraget.
+Tillverkare: Vivanta Generics s.r.o.
 
 ---
 
@@ -156,7 +156,7 @@ Mekanistiskt är stödet starkast här: vid långvarig status epilepticus tas GA
 **För att gå vidare krävs:**
 - Sjukdomsspecifika data (fallserier eller prövningar) för visuell och fotosensitiv epilepsi.
 - Hämtning av produktresumé med varningar och kontraindikationer samt verkningsmekanism från DrugBank.
-- Klargörande av vilket godkänt perampanelläkemedel som finns tillgängligt i Sverige, eftersom alla nuvarande godkännanden för denna produkt är indragna.
+- Klargörande av vilket godkänt perampanelläkemedel som finns tillgängligt i Sverige.
 - Om fokus flyttas till **status epilepticus**: resultat från den pågående fas 2-prövningen (NCT06401707) och en adekvat dimensionerad randomiserad prövning, eftersom de två avbrutna prövningarna inte gav några effektdata.
 ## Ansvarsfriskrivning
 

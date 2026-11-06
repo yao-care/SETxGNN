@@ -109,7 +109,7 @@ Fullständiga varningar och kontraindikationer från produktresumén saknas i de
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en datormodell (evidensnivå L5) utan kliniska prövningar eller litteratur, och något plausibelt verkningssätt för Ohdo syndrom har inte kunnat identifieras. Därtill är samtliga svenska godkännanden avregistrerade.
+- Förutsägelsen bygger enbart på en datormodell (evidensnivå L5) utan kliniska prövningar eller litteratur, och något plausibelt verkningssätt för Ohdo syndrom har inte kunnat identifieras.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismen för mirtazapin från DrugBank.

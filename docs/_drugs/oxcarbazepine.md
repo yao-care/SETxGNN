@@ -93,7 +93,7 @@ Ingen av publikationerna undersöker oxkarbazepin specifikt vid visuellt utlöst
 
 ## Marknadsinformation Sverige
 
-Samtliga 11 godkännanden är indragna. Indikationstext saknas i licensdata. Ett urval:
+Indikationstext saknas i licensdata. Ett urval:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -120,7 +120,6 @@ Samtliga 11 godkännanden är indragna. Indikationstext saknas i licensdata. Ett
 
 **Motivering:**
 - Trots en mycket hög modellpoäng finns inga kliniska prövningar och ingen litteratur specifik för visuell epilepsi. Dessutom kan natriumkanalblockerare förvärra vissa generaliserade epilepsier.
-- Alla svenska godkännanden är indragna, vilket försvårar en snabb klinisk användning.
 
 **För att gå vidare krävs:**
 - Fördjupad litteratursökning efter data om oxkarbazepin vid fotosensitiv och annan reflexepilepsi, med uppdelning på fokala och generaliserade former.

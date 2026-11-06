@@ -109,7 +109,7 @@ Ett teoretiskt säkerhetsproblem gäller för de relaterade förutsägelserna: C
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den kliniska evidensen består av en enda pilotstudie vars design inte är bekräftad, inga kliniska prövningar är registrerade, och alla svenska godkännanden är indragna. Mekanismen är rimlig, men underlaget räcker inte för att gå vidare.
+- Den kliniska evidensen består av en enda pilotstudie vars design inte är bekräftad, inga kliniska prövningar är registrerade. Mekanismen är rimlig, men underlaget räcker inte för att gå vidare.
 
 **För att gå vidare krävs:**
 - Genomgång av fulltexten till PMID 21996647 för att fastställa studiedesign och effektresultat (kan påverka evidensnivån om det är en randomiserad studie).

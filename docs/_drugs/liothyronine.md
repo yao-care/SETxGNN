@@ -106,7 +106,7 @@ Varningar och kontraindikationer från produktresumén saknas. Se produktresumé
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen avser i praktiken en redan känd indikation, och det finns varken kliniska prövningar eller relevant human litteratur som stöder den. Det enda godkännandet i Sverige är indraget.
+- Förutsägelsen avser i praktiken en redan känd indikation, och det finns varken kliniska prövningar eller relevant human litteratur som stöder den.
 
 **För att gå vidare krävs:**
 - Produktresumé från Läkemedelsverket med varningar och kontraindikationer, eftersom säkerhetsgranskningen annars inte kan genomföras.

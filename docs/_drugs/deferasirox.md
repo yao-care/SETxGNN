@@ -85,7 +85,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 18 godkännanden är indragna och inget är för närvarande giltigt. Indikationstext saknas i data. Nedan visas fem av dem.
+Indikationstext saknas i data. Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -113,7 +113,7 @@ Fullständiga varningar och kontraindikationer från produktresumén ingår inte
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den höga modellpoängen (99,4 %) stöds endast av en indirekt preklinisk studie, och inga kliniska prövningar finns. Effektens riktning är oklar, och alla svenska godkännanden är indragna.
+- Den höga modellpoängen (99,4 %) stöds endast av en indirekt preklinisk studie, och inga kliniska prövningar finns. Effektens riktning är oklar.
 
 **För att gå vidare krävs:**
 - Laboratoriestudier som testar om deferasirox påverkar HIV-replikation i cellmodeller, inklusive effektens riktning.

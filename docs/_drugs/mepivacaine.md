@@ -70,7 +70,7 @@ Den enda hittade publikationen (PMID 6890367) handlar om säkerhetsfarmakologi f
 
 ### Marknadsinformation Sverige
 
-Alla sju godkännanden är indragna. Ingen indikationstext finns registrerad.
+Ingen indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -99,7 +99,7 @@ För varningar och kontraindikationer enligt godkänd text, se produktresumén. 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen stöds enbart av en modellberäkning (evidensnivå L5), utan kliniska prövningar eller relevant litteratur. Dessutom är samtliga svenska godkännanden indragna och mekanistiskt samband saknas.
+- Förutsägelsen stöds enbart av en modellberäkning (evidensnivå L5), utan kliniska prövningar eller relevant litteratur.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata (t.ex. via DrugBank) och analysera ett eventuellt mekanistiskt samband med gastroduodenit.

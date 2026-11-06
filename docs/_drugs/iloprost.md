@@ -99,7 +99,7 @@ Varnings- och kontraindikationstext från produktresumén saknas. Se produktresu
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för hypotrichosis simplex saknar både kliniska prövningar och litteratur. Det finns inget känt mekanistiskt samband, och läkemedlet har inga gällande godkännanden i Sverige.
+- Förutsägelsen för hypotrichosis simplex saknar både kliniska prövningar och litteratur. Det finns inget känt mekanistiskt samband.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata (t.ex. från DrugBank) och undersök om det finns ett biologiskt samband med hårfolliklarnas utveckling.

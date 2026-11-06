@@ -70,7 +70,7 @@ Mekanismen är alltså biologiskt rimlig, men den är inte bekräftad i det unde
 
 ## Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är indragna. Inget gällande godkännande finns för närvarande. Indikationstext saknas i data. Nedan visas fem av godkännandena.
+Indikationstext saknas i data. Nedan visas fem av godkännandena.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
 |---------|------|------|-----------|
@@ -108,7 +108,7 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas i und
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen har högt modellpoäng men saknar helt stöd i kliniska prövningar och litteratur (evidensnivå L5). Dessutom är alla svenska godkännanden indragna.
+- Förutsägelsen har högt modellpoäng men saknar helt stöd i kliniska prövningar och litteratur (evidensnivå L5).
 
 **För att gå vidare krävs:**
 - Litteratursökning och prövningssökning för enoxaparin vid protein C-brist, inklusive fallrapporter och registerdata

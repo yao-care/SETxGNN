@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är indragna och inget är giltigt för närvarande. Nedan visas fem av dem. Indikationstext saknas i registret för dessa produkter.
+Nedan visas fem av dem. Indikationstext saknas i registret för dessa produkter.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

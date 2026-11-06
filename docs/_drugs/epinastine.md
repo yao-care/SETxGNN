@@ -96,7 +96,6 @@ För övrig säkerhetsinformation, se produktresumén.
 
 **Motivering:**
 - Förutsägelsen för rosacea-konjunktivit stöds enbart av modellen (evidensnivå L5), utan prövningar eller publikationer, och den mekanistiska kopplingen är svag eftersom sjukdomen främst inte är histamindriven.
-- Det enda svenska godkännandet är indraget, vilket försvårar en snabb väg framåt.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata från DrugBank och bekräfta mekanismen mot den förutsagda indikationen.

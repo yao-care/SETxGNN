@@ -106,7 +106,6 @@ Flera ytterligare prövningar är farmakokinetiska studier på friska frivilliga
 
 ## Marknadsinformation Sverige
 
-
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
 | 48336 | Nepipe Junior | Injektionsvätska, lösning i förfylld injektionspenna | Godkänd |
@@ -114,8 +113,6 @@ Flera ytterligare prövningar är farmakokinetiska studier på friska frivilliga
 | 18678 | Anapen | Injektionsvätska, lösning i förfylld spruta | Godkänd |
 | 13022 | EpiPen | Injektionsvätska, lösning i förfylld injektionspenna | Godkänd |
 | 13023 | EpiPen jr | Injektionsvätska, lösning i förfylld injektionspenna | Godkänd |
-
-Ytterligare ett godkännande (Nepipe, nr 48337) är också avregistrerat.
 
 ---
 
@@ -139,7 +136,7 @@ Produktresumé för varningar och kontraindikationer saknas i de sammanställda 
 - Hämta och granska produktresumé (varningar och kontraindikationer) från Läkemedelsverket
 - Hämta data om verkningsmekanism från DrugBank
 - Avgöra vilken beredningsform och administreringsväg som avses (inhalation jämfört med injektion), och vilken delindikation (astma, KOL, bronkiolit) som ska prioriteras
-- Bedöma den regulatoriska vägen för en inhalationsprodukt, eftersom nuvarande svenska godkännanden är injektionsberedningar och alla är avregistrerade
+- Bedöma den regulatoriska vägen för en inhalationsprodukt, eftersom nuvarande svenska godkännanden är injektionsberedningar
 - Närmare utvärdera hjärt-kärlsäkerhet och interaktioner med betablockerare, tricykliska antidepressiva och MAO-hämmare
 ## Ansvarsfriskrivning
 

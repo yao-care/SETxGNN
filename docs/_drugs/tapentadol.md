@@ -89,7 +89,7 @@ För migränsjukdom (huvudförutsägelsen) finns ingen relaterad litteratur till
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna. Indikationstext saknas i registret. De fem första visas här:
+Indikationstext saknas i registret. De fem första visas här:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -126,14 +126,13 @@ För varningar och kontraindikationer, se produktresumén.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen är enbart modellbaserad (L5) utan kliniska prövningar eller direkt litteratur. Opioider rekommenderas dessutom generellt inte vid migrän, och alla svenska godkännanden är indragna.
+- Förutsägelsen är enbart modellbaserad (L5) utan kliniska prövningar eller direkt litteratur. Opioider rekommenderas dessutom generellt inte vid migrän.
 
 **För att gå vidare krävs:**
 - Verkningsmekanismdata för tapentadol (hämtas från DrugBank).
 - Varningar och kontraindikationer från produktresumén (hämtas från Läkemedelsverkets webbplats).
 - Prekliniska studier och kontrollerade kliniska prövningar av tapentadol vid migrän.
 - En bedömning av risken för läkemedelsöveranvändningshuvudvärk och serotonergt syndrom, samt jämförelse med etablerade migränbehandlingar.
-- Klargörande av varför alla godkännanden är indragna och om en återlansering är aktuell.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Alla 9 godkännanden är indragna. Indikationstext finns inte registrerad för någon av dem. De fem första visas nedan.
+Indikationstext finns inte registrerad för någon av dem. De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----------|-----------|
@@ -128,7 +128,7 @@ Dessa kan vara värda att utvärdera separat.
 
 **Motivering:**
 - Förutsägelsen för NSIAD stöds endast av modellen (L5), utan prövningar eller publikationer. Den mekanistiska bedömningen talar dessutom emot effekt, eftersom sjukdomen beror på en receptordefekt nedströms vasopressinfrisättningen.
-- Alla svenska godkännanden är indragna, och uppgifter om ursprunglig indikation, verkningsmekanism, varningar och kontraindikationer saknas.
+- Uppgifter om ursprunglig indikation, verkningsmekanism, varningar och kontraindikationer saknas.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket för att få varningar, kontraindikationer och godkänd indikation.

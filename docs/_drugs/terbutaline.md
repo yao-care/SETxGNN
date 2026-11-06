@@ -106,8 +106,6 @@ De flesta prövningarna gäller astma, där terbutalin oftast är lindrande läk
 
 ### Marknadsinformation Sverige
 
-Samtliga fyra godkännanden är indragna och läkemedlet saknar för närvarande giltiga godkännanden i Sverige.
-
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 11495 | Bricanyl Turbuhaler | Inhalationspulver | Uppgift saknas |
@@ -145,7 +143,7 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas för 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé (varningar och kontraindikationer) från Läkemedelsverket.
 - Komplettera data om verkningsmekanism från DrugBank.
-- Klargöra om en ny ansökan eller ett nytt godkännande behövs, eftersom alla godkännanden är indragna.
+- Klargöra om en ny ansökan eller ett nytt godkännande behövs.
 - Bedöma direkt evidens för KOL med dagens behandlingsriktlinjer.
 - Överväga kardiovaskulär och metabol säkerhet hos patienter med samsjuklighet (till exempel hjärt-kärlsjukdom, diabetes, hypertyreos).
 

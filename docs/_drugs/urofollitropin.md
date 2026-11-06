@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga sex godkännanden är avregistrerade och ingen produkt är för närvarande marknadsförd med giltigt godkännande. Samtliga tillhör IBSA Farmaceutici Italia S.r.l.
+Samtliga tillhör IBSA Farmaceutici Italia S.r.l.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
@@ -134,7 +134,7 @@ Samtliga övriga förutsägelser bland de tio högst rankade saknar också klini
 - Varningar och kontraindikationer från produktresumén (Läkemedelsverket), vilket är ett blockerande dataglapp för säkerhetsbedömning.
 - Litteraturgenomgång av sambandet mellan FSH/östrogenfluktuationer och migrän, inklusive om hormonbehandling snarare ökar migränrisken.
 - Prekliniska eller mekanistiska studier som stödjer en terapeutisk hypotes, innan kliniska studier övervägs.
-- Bedömning av om en ny produkt skulle behöva godkännas på nytt; för närvarande är 6 av 6 godkännanden giltiga.
+- Bedömning av om en ny produkt skulle behöva godkännas på nytt.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

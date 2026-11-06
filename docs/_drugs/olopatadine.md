@@ -96,13 +96,13 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen stöds enbart av en modellberäkning (evidensnivå L5), utan kliniska prövningar eller publikationer. Dessutom är alla svenska godkännanden indragna och säkerhetsunderlaget från produktresumén saknas.
+- Förutsägelsen stöds enbart av en modellberäkning (evidensnivå L5), utan kliniska prövningar eller publikationer.
 
 **För att gå vidare krävs:**
 - Hämta och analysera varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA).
 - Komplettera verkningsmekanismdata från DrugBank för att kunna granska det mekanistiska sambandet.
 - Göra en litteratur- och prövningssökning specifikt för olopatadin vid okulär rosacea.
-- Utreda om en tillgänglig ögonberedning finns, eftersom alla svenska godkännanden är indragna och administrationsvägens förenlighet inte är bedömd.
+- Utreda om en tillgänglig ögonberedning finns.
 - Överväga prekliniska studier eller en liten explorativ klinisk studie om ytterligare stöd för hypotesen framkommer.
 ## Ansvarsfriskrivning
 

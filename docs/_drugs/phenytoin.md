@@ -123,7 +123,7 @@ Ingen varnings- eller kontraindikationstext från produktresumén ingår i under
 
 **Motivering:**
 - Förutsägelsen om trigeminusnervtumör saknar stöd. Det finns inga kliniska prövningar, inga relevanta publikationer och ingen känd mekanism för effekt mot tumörväxt, så evidensnivån är L5.
-- Fenytoins svenska godkännande är dessutom avregistrerat, och säkerhetsinformationen från produktresumén saknas.
+- Säkerhetsinformationen från produktresumén saknas.
 
 **För att gå vidare krävs:**
 - Prekliniska data som visar en effekt av fenytoin på tumörceller eller tumörmodeller i nervvävnad.

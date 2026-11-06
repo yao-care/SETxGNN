@@ -146,13 +146,12 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Förutsägelsepoängen är mycket hög och flera fas 3-prövningar finns inom myeloisk leukemi och akut promyelocytleukemi, men merkaptopurinet ingår nästan alltid i en kombinationsregim, så dess egen effekt går inte att skilja ut. Dessutom är samtliga svenska godkännanden avregistrerade.
+- Förutsägelsepoängen är mycket hög och flera fas 3-prövningar finns inom myeloisk leukemi och akut promyelocytleukemi, men merkaptopurinet ingår nästan alltid i en kombinationsregim, så dess egen effekt går inte att skilja ut.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé med varningar och kontraindikationer från Läkemedelsverket (saknas i nuläget).
 - Hämta verkningsmekanismdata från DrugBank.
 - Granska prövningarna för att klargöra merkaptopurinets roll i varje regim, särskilt NCT06199557 och NCT05506332, där merkaptopurin är en uttalad del av prövningsbehandlingen.
-- Klargöra varför de svenska godkännandena är avregistrerade och om tillgång till läkemedlet finns på annat sätt, till exempel via licens.
 - Ta hänsyn till TPMT/NUDT15-testning och noggrann blodövervakning i en eventuell fortsatt utvärdering.
 
 **Anmärkning:** Akut lymfatisk leukemi (rang 10) och prekursor-lymfoblastiskt lymfom/leukemi (rang 9) är läkemedlets etablerade användningsområden och därmed bekräftelse snarare än återanvändning.

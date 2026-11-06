@@ -106,7 +106,7 @@ Av litteraturen om autosomalt dominant hyperkolesterolemi kan även nämnas den 
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna och inga har registrerad indikationstext. De fem första visas nedan.
+De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -134,12 +134,11 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 
 **Motivering:**
 - Mekanismen är väletablerad, och simvastatin har prövats direkt vid familjär hyperkolesterolemi (ENHANCE och ungdomsstudien), men flera av prövningarna testar kombinationer eller andra läkemedel. Eftersom indikationen ligger nära de ursprungliga är detta snarare en bekräftelse än en ny återanvändning.
-- Alla svenska godkännanden är indragna, och säkerhetsunderlaget från produktresumén saknas.
+- Säkerhetsunderlaget från produktresumén saknas.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé med varningar och kontraindikationer från Läkemedelsverket.
 - Hämta verkningsmekanismdata från DrugBank för att komplettera den mekanistiska analysen.
-- Klargöra marknadsstatus: om ny ansökan eller återlansering krävs eftersom alla godkännanden är indragna.
 - Särskilt beakta interaktionsrisk (amiodaron, amlodipin, fenofibrat, CYP3A4-hämmare) och risken för muskelbiverkningar vid behandling av familjär hyperkolesterolemi.
 
 ---

@@ -97,7 +97,7 @@ Den förutsagda undertypen *ADHD, huvudsakligen ouppmärksam form* (poäng 0,993
 |---------|------|------|-----------|
 | 7623 (indraget) | Sensaval | Filmdragerad tablett | Ingen indikationstext tillgänglig |
 
-Innehavare: H. Lundbeck A/S. Det finns inget giltigt godkännande i Sverige för närvarande.
+Innehavare: H. Lundbeck A/S.
 
 ---
 
@@ -129,7 +129,7 @@ Uppgifter om varningar och kontraindikationer från svensk produktresumé saknas
 - Granskning av fulltexten i PMID 11052409 och den Cochrane-översikten (PMID 25238582) för att verifiera design, urvalsstorlek och utfall.
 - Hämta varningar och kontraindikationer från svensk produktresumé, samt verkningsmekanismen från DrugBank.
 - Kartlägga jämförande data mot godkända ADHD-läkemedel (till exempel atomoxetin) och bedöma hjärtsäkerhet med EKG-övervakning.
-- Bedöma regulatorisk väg, eftersom det enda svenska godkännandet är indraget.
+- Bedöma regulatorisk väg.
 - Vid fortsatt intresse: planera en kontrollerad prövning med tydlig hjärt- och interaktionsövervakning.
 ## Ansvarsfriskrivning
 

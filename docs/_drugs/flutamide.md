@@ -146,7 +146,7 @@ Det underlag som tagits fram för produktresumén (varningar och kontraindikatio
 **Beslut: Avvakta**
 
 **Motivering:**
-- Dessutom är flutamids enda svenska godkännande indraget, det finns en känd risk för levertoxicitet, och nyare antiandrogen (bicalutamid, enzalutamid, apalutamid) har till stor del ersatt det.
+- Det finns en känd risk för levertoxicitet, och nyare antiandrogen (bicalutamid, enzalutamid, apalutamid) har till stor del ersatt det.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén för varningar och kontraindikationer.

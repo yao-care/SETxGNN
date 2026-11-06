@@ -92,8 +92,6 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 | 9732 | Trandate | Filmdragerad tablett | Uppgift saknas |
 | 68229 | Trandate | Filmdragerad tablett | Uppgift saknas |
 
-Alla fem godkännanden är indragna, och inget giltigt godkännande finns för närvarande.
-
 ---
 
 ## Säkerhetsaspekter
@@ -122,7 +120,6 @@ Bland de 30 registrerade tillstånden finns bland annat leversvikt, leversjukdom
 - Komplettera uppgifter om verkningsmekanism, till exempel från DrugBank.
 - Söka riktad litteratur om labetalol vid malign och renovaskulär hypertoni, helst jämförande studier.
 - Bedöma om indikationen i praktiken redan täcks av den etablerade hypertoniindikationen.
-- Utreda marknadsstatus, eftersom alla svenska godkännanden är indragna.
 
 ---
 

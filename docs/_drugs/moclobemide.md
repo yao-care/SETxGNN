@@ -114,13 +114,13 @@ Se produktresumén för övrig säkerhetsinformation, inklusive varningar och ko
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Två randomiserade studier och flera översikter stöder användning vid panikångest med agorafobi, men det saknas registrerade kliniska prövningar för agorafobi specifikt. Alla svenska godkännanden är dessutom indragna och säkerhetsdata saknas.
+- Två randomiserade studier och flera översikter stöder användning vid panikångest med agorafobi, men det saknas registrerade kliniska prövningar för agorafobi specifikt.
 
 **För att gå vidare krävs:**
 - Produktresumé med varningar och kontraindikationer från Läkemedelsverket (MPA), som ännu inte har granskats.
 - Verkningsmekanismdata från DrugBank för att stärka den mekanistiska analysen.
 - Granskning av de två randomiserade studierna med fokus på agorafobi som separat utfallsmått.
-- Bedömning av om en ny ansökan om godkännande i Sverige är genomförbar, eftersom produkten inte längre marknadsförs.
+- Bedömning av om en ny ansökan om godkännande i Sverige är genomförbar.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -75,7 +75,7 @@ Kopplingen är dock indirekt. En studie från 2005 beskriver samband mellan plas
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna. Indikationstext saknas i de sammanställda data. De fem första visas nedan.
+Indikationstext saknas i de sammanställda data. De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -98,7 +98,7 @@ Inga läkemedelsinteraktioner hittades i de sammanställda data, och varnings- o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den höga modellpoängen stöds inte av någon klinisk prövning, och de två publikationerna rör aminosyrabalans och metabola samband, inte behandling med valin. Dessutom är samtliga svenska godkännanden indragna, och säkerhetsdata saknas.
+- Den höga modellpoängen stöds inte av någon klinisk prövning, och de två publikationerna rör aminosyrabalans och metabola samband, inte behandling med valin.
 
 **För att gå vidare krävs:**
 - Säkerhetsinformation (varningar och kontraindikationer) från produktresumén

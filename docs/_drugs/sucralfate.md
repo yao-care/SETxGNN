@@ -93,7 +93,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga fyra godkännanden är indragna. Ingen godkänd indikationstext finns registrerad.
+Ingen godkänd indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
@@ -121,13 +121,13 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Beslut: Avvakta**
 
 **Motivering:**
-- Det finns stöd i form av två små, äldre randomiserade studier vid alkalisk refluxgastrit, men inga registrerade kliniska prövningar. Säkerhetsunderlaget från produktresumén saknas, och alla svenska godkännanden är indragna.
+- Det finns stöd i form av två små, äldre randomiserade studier vid alkalisk refluxgastrit, men inga registrerade kliniska prövningar. Säkerhetsunderlaget från produktresumén saknas.
 
 **För att gå vidare krävs:**
 - Produktresumé med varningar och kontraindikationer från Läkemedelsverket (MPA) för säkerhetsgranskning.
 - Verkningsmekanismdata, till exempel från DrugBank.
 - Kritisk granskning av de randomiserade studierna (storlek, utfallsmått, resultat) och sökning efter nyare studier.
-- Bedömning av regulatoriskt läge, eftersom inga produkter för närvarande är godkända i Sverige.
+- Bedömning av regulatoriskt läge.
 - Särskild bedömning av njursjukdom och hyperglykemi, som kunskapsgrafen anger som kontraindikationer, samt av interaktioner (bl.a. dolutegravir och bictegravir).
 
 ---

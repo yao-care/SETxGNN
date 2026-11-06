@@ -80,7 +80,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 12 godkännanden för treprostinil i Sverige är avregistrerade, och inget giltigt godkännande finns kvar. Alla har beredningsformen infusionsvätska, lösning. Fem av dem visas nedan. Ingen godkänd indikationstext finns i underlaget.
+Alla har beredningsformen infusionsvätska, lösning. Fem av dem visas nedan. Ingen godkänd indikationstext finns i underlaget.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|

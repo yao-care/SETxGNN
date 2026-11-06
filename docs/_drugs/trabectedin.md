@@ -95,7 +95,7 @@ Dessutom visar prekliniska studier att trabektedin minskar antalet tumörassocie
 
 ## Marknadsinformation Sverige
 
-Samtliga åtta godkännanden är avregistrerade, och ingen indikationstext finns tillgänglig i de data som sammanställts.
+Ingen indikationstext finns tillgänglig i de data som sammanställts.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -139,7 +139,7 @@ För varningar och kontraindikationer: se produktresumén för säkerhetsinforma
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Modellpoängen är mycket hög och verkningsmekanismen är biologiskt rimlig, särskilt vid BRCA-relaterad bröstcancer. Det finns även flera fas 2-studier vid bröstcancer. Den enda registrerade kliniska prövningen är dock en QT-studie, inga bekräftande fas 3-studier har identifierats, och samtliga svenska godkännanden är avregistrerade.
+- Modellpoängen är mycket hög och verkningsmekanismen är biologiskt rimlig, särskilt vid BRCA-relaterad bröstcancer. Det finns även flera fas 2-studier vid bröstcancer. Den enda registrerade kliniska prövningen är dock en QT-studie, inga bekräftande fas 3-studier har identifierats.
 - Evidensnivån L2 i underlaget vilar på fas 2-studier i litteraturen. Resultaten av dessa studier ingår inte i de sammanställda data, så nivån bör ses som preliminär.
 
 **För att gå vidare krävs:**

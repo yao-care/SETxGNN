@@ -99,7 +99,6 @@ Varnings- och kontraindikationstext från produktresumén saknas. Se produktresu
 
 **Motivering:**
 - Det finns inga kliniska prövningar och ingen mekanistisk grund för effekt vid epiglottit, som oftast orsakas av andra bakterier än mykobakterier. Den enda stödjande litteraturen handlar om tuberkulos i struphuvudet, vilket redan omfattas av den befintliga tuberkulosindikationen.
-- Läkemedlets enda svenska godkännande är avregistrerat.
 
 **För att gå vidare krävs:**
 - Uppgifter om verkningsmekanism och säkerhetsinformation (varningar och kontraindikationer) från produktresumén.

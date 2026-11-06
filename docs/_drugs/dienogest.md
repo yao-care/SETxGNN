@@ -84,7 +84,7 @@ Det finns dock en viktig begränsning: den hämtade litteraturen beskriver ameno
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna och ingen indikationstext finns registrerad. Fem av dem redovisas nedan.
+Ingen indikationstext finns registrerad. Fem av dem redovisas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -112,13 +112,12 @@ Alla 20 godkännanden är indragna och ingen indikationstext finns registrerad. 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger på modellens poäng och indirekt litteratur där amenorré är en behandlingseffekt snarare än ett behandlingsmål. Det finns inga kliniska prövningar, och alla svenska godkännanden är indragna.
+- Förutsägelsen bygger på modellens poäng och indirekt litteratur där amenorré är en behandlingseffekt snarare än ett behandlingsmål. Det finns inga kliniska prövningar.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresuméer (varningar och kontraindikationer) från Läkemedelsverket, vilket är ett blockerande datagap.
 - Komplettera data om verkningsmekanism, till exempel från DrugBank.
 - Genomföra en riktad litteratursökning efter studier där dienogest används för att behandla amenorré (till exempel inducering av bortfallsblödning eller endometrieskydd vid östrogenbrist).
-- Klargöra marknadssituationen, eftersom samtliga godkännanden är indragna, och bedöma om det finns en praktisk väg till användning.
 - Utvärdera säkerhet mot de kontraindikationer som kunskapsgrafen anger.
 ## Ansvarsfriskrivning
 

@@ -70,7 +70,7 @@ Förutsägelsen bör därför tolkas med stor försiktighet.
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna. Ingen indikationstext finns registrerad. De fem första av 20 visas nedan.
+Ingen indikationstext finns registrerad. De fem första av 20 visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga 20 godkännanden för salbutamol är indragna, och inget är för närvarande giltigt. Nedan visas fem av dem. Ingen godkänd indikationstext finns tillgänglig för dessa.
+Nedan visas fem av dem. Ingen godkänd indikationstext finns tillgänglig för dessa.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
@@ -121,7 +121,7 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 
 **Motivering:**
 - Förutsägelsen bygger enbart på modellens poäng (evidensnivå L5), utan kliniska prövningar eller publikationer. Mekanismen är rimlig men obekräftad.
-- Samtliga svenska godkännanden är indragna, och ingen känd beredningsform är avsedd för ögat.
+- Ingen känd beredningsform är avsedd för ögat.
 
 **För att gå vidare krävs:**
 - Systematisk litteratursökning efter prekliniska och kliniska data om beta-2-agonister vid allergisk konjunktivit, särskilt papillär konjunktivit.

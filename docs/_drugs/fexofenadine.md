@@ -98,14 +98,14 @@ Godkänd indikationstext saknas för samtliga poster. Nedan visas de fem första
 
 **Motivering:**
 - Förutsägelsen stöds enbart av en datormodell (L5), utan kliniska prövningar eller litteratur. Den mekanistiska kopplingen är indirekt, eftersom histamin har liten betydelse vid ögonrosacea.
-- Samtliga svenska godkännanden är avregistrerade, och säkerhetsdata från produktresumén saknas.
+- Säkerhetsdata från produktresumén saknas.
 
 **För att gå vidare krävs:**
 - Sökning efter prekliniska och kliniska studier av antihistaminer vid ögonrosacea eller rosaceakonjunktivit.
 - Hämtning av verkningsmekanismdata från DrugBank.
 - Inhämtning och genomgång av produktresumé med varningar och kontraindikationer från Läkemedelsverket.
 - Bedömning av beredningsform och administreringsväg: endast orala tabletter har funnits, och en lokal ögonberedning kan behövas.
-- Klargörande av marknadsstatus, eftersom inget gällande godkännande finns i Sverige.
+- Klargörande av marknadsstatus.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

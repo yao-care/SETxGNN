@@ -111,8 +111,6 @@ Det viktigaste förbehållet är att protonpumpshämmare (PPI) i flera direkta j
 | 12017 | Pepcid | Tablett | Indikationstext saknas (indragen) |
 | 16331 | Pepcid Duo | Tuggtablett | Indikationstext saknas (indragen) |
 
-Båda godkännandena är indragna och inget giltigt godkännande finns för närvarande.
-
 ---
 
 ## Säkerhetsaspekter
@@ -142,12 +140,12 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 
 **Motivering:**
 - Evidensen för peptisk sårsjukdom är relativt omfattande, men den bekräftar främst en redan etablerad användning. Flera direkta jämförelser visar att PPI är bättre än famotidin för att förebygga återfall, så famotidin är i första hand ett alternativ.
-- Båda svenska godkännandena är indragna, och varnings- och kontraindikationsdata från produktresumén saknas, vilket hindrar en fullständig säkerhetsbedömning.
+- Varnings- och kontraindikationsdata från produktresumén saknas, vilket hindrar en fullständig säkerhetsbedömning.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén från Läkemedelsverket för varningar och kontraindikationer.
 - Hämta verkningsmekanismdata (till exempel via DrugBank).
-- Kontrollera vilka famotidinprodukter som faktiskt finns tillgängliga i Sverige, eftersom endast indragna godkännanden finns registrerade.
+- Kontrollera vilka famotidinprodukter som faktiskt finns tillgängliga i Sverige.
 - Definiera vilken patientgrupp som är relevant (till exempel patienter där PPI är olämpliga) och utvärdera prövningar med famotidin som testläkemedel.
 - Ompröva evidensnivån, eftersom ingen avslutad fas 3-RCT på peptiskt sår med famotidin som testläkemedel ingår.
 ## Ansvarsfriskrivning

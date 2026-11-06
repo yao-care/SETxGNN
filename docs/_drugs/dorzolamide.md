@@ -132,7 +132,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Evidensen för trycksänkning vid öppenvinkelglaukom är stark (flera avslutade fas 3-prövningar och systematiska översikter), men detta är en redan etablerad indikation och inte en ny användning. Alla svenska godkännanden är dessutom indragna.
+- Evidensen för trycksänkning vid öppenvinkelglaukom är stark (flera avslutade fas 3-prövningar och systematiska översikter), men detta är en redan etablerad indikation och inte en ny användning.
 
 **För att gå vidare krävs:**
 - Verifiera nuvarande tillgänglighet och regulatorisk status i Sverige, eftersom endast indragna godkännanden finns.

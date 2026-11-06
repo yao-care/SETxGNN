@@ -110,7 +110,7 @@ Produktresumé med varningar och kontraindikationer har inte kunnat hämtas; se 
 - Hämta verkningsmekanismen från DrugBank och bedöm om något mekanistiskt samband finns.
 - Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket.
 - Prekliniska eller kliniska data som visar effekt vid den förutsagda sjukdomen.
-- Bedöma administreringsväg och beredningsform, då nuvarande godkännanden (ögondroppar, plåster) är indragna.
+- Bedöma administreringsväg och beredningsform.
 - Överväga om någon av de andra förutsagda indikationerna (t.ex. smärtlindring vid dermatologiska ingrepp) vore mer realistisk än den högst rankade.
 ## Ansvarsfriskrivning
 

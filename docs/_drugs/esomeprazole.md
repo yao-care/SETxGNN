@@ -84,7 +84,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga 19 godkännanden är avregistrerade och inget är för närvarande giltigt. Godkänd indikationstext finns inte i de sammanställda uppgifterna. Nedan visas fem av godkännandena.
+Godkänd indikationstext finns inte i de sammanställda uppgifterna. Nedan visas fem av godkännandena.
 
 | Godkännandenummer | Produktnamn | Beredningsform |
 |---------|------|------|
@@ -116,7 +116,7 @@ Samtliga 19 godkännanden är avregistrerade och inget är för närvarande gilt
 **För att gå vidare krävs:**
 - Studier eller litteratur som direkt undersöker syrahämning (esomeprazol eller andra protonpumpshämmare) vid duodenogastrisk reflux, helst randomiserade kontrollerade prövningar med symtom- och slemhinneeffektmått.
 - Detaljerad verkningsmekanismdata och uppgifter från produktresumé om varningar och kontraindikationer.
-- Klargörande av regulatorisk väg, eftersom inget giltigt godkännande finns i Sverige.
+- Klargörande av regulatorisk väg.
 - Utvärdering av om modellens närmaste förutsägelser kan prioriteras. Duodenalulcus fick i samma förutsägelseomgång betydligt starkare stöd (flera avslutade fas 3-prövningar och randomiserade studier), men det ligger nära läkemedlets redan kända indikationer och är därför knappast verklig återanvändning.
 ## Ansvarsfriskrivning
 

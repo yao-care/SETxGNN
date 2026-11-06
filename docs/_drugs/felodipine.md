@@ -125,7 +125,6 @@ Se produktresumén för fullständiga varningar och kontraindikationer. Dessa up
 
 **Motivering:**
 - Förutsägelsen för pulmonell hypertension med oklar multifaktoriell mekanism bygger enbart på modellpoäng (evidensnivå L5). Underlaget saknar både kliniska prövningar och litteratur.
-- Samtliga svenska godkännanden är avregistrerade, vilket begränsar tillgängligheten.
 
 **För att gå vidare krävs:**
 - Kliniska eller hemodynamiska studier som direkt undersöker felodipin vid pulmonell hypertension, särskilt hos patienter som reagerar på kärlvidgande test.

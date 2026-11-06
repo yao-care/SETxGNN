@@ -94,8 +94,6 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 | 61940 | Nevirapin 2care4 | Depottablett | Ej angiven |
 | 67119 | Nevirapin Ebb | Depottablett | Ej angiven |
 
-Alla tre godkännanden är indragna (status: cancelled).
-
 ---
 
 ### Säkerhetsaspekter
@@ -112,7 +110,7 @@ Se produktresumén för fullständiga varningar och kontraindikationer.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen är begränsad till en enda prekliniskt studie vars resultat för nevirapin inte är känt, och FIV:s omvända transkriptas förväntas vara naturligt motståndskraftigt mot nevirapin. Dessutom är alla svenska godkännanden indragna, och förutsägelsen avser en veterinärmedicinsk sjukdom.
+- Evidensen är begränsad till en enda prekliniskt studie vars resultat för nevirapin inte är känt, och FIV:s omvända transkriptas förväntas vara naturligt motståndskraftigt mot nevirapin.
 
 **För att gå vidare krävs:**
 - Fulltext av studien från 2023 för att avgöra om nevirapin hade hämmande effekt på FIV:s omvända transkriptas.

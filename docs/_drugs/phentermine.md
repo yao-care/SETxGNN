@@ -133,14 +133,14 @@ Se produktresumén för fullständig information om varningar och försiktighets
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en modell (evidensnivå L5) utan kliniska prövningar eller litteratur. Alla svenska godkännanden är dessutom indragna, och kontraindikationsprofilen är bred, med tyngdpunkt på hjärt-kärl- och psykiska sjukdomar som ofta förekommer vid 16p11.2-deletion.
+- Förutsägelsen bygger enbart på en modell (evidensnivå L5) utan kliniska prövningar eller litteratur. Kontraindikationsprofilen är bred, med tyngdpunkt på hjärt-kärl- och psykiska sjukdomar som ofta förekommer vid 16p11.2-deletion.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket, eftersom säkerhetsdata från godkännandena saknas.
 - Komplettera data om verkningsmekanism från DrugBank.
 - Söka efter och utvärdera kliniska data eller fallserier om viktkontroll vid 16p11.2-deletion och andra syndromala fetmaformer.
 - Bedöma säkerheten för en stimulerande sympatomimetika hos patienter med neuroutvecklingsmässiga, kardiovaskulära och psykiatriska följdtillstånd.
-- Klargöra läkemedlets regulatoriska status i Sverige, eftersom inget godkännande är giltigt.
+- Klargöra läkemedlets regulatoriska status i Sverige.
 - Avstå från vidare utredning av hypervitaminos, hypertelorism och frontorhiny, som saknar rimlig biologisk grund.
 ## Ansvarsfriskrivning
 

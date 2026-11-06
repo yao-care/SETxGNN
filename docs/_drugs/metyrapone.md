@@ -130,7 +130,7 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 
 **Motivering:**
 - Förutsägelsen bygger enbart på en modellberäkning (L5) utan kliniska prövningar eller publikationer, och det saknas en rimlig mekanistisk koppling mellan CYP11B1-hämning och störd kalciumhantering i muskeln.
-- Samtliga tio förutsagda indikationer saknar stöd för behandlingseffekt. Den enda publikationen (familjär periodisk förlamning, 1971) beskriver metyrapon som ett fysiologiskt verktyg, inte som behandling. Dessutom är det enda svenska godkännandet indraget.
+- Samtliga tio förutsagda indikationer saknar stöd för behandlingseffekt. Den enda publikationen (familjär periodisk förlamning, 1971) beskriver metyrapon som ett fysiologiskt verktyg, inte som behandling.
 
 **För att gå vidare krävs:**
 - Hämtning av produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer, vilket för närvarande är ett blockerande datagap

@@ -103,7 +103,7 @@ Läkemedelsinteraktioner kunde inte hittas i den data som sammanställts. Se pro
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen stöds enbart av ett högt modellpoäng (evidensnivå L5), utan prövningar, litteratur eller verifierad mekanism. Dessutom är meningokockinfektion en akut, livshotande sjukdom där xylitol inte är ett plausibelt behandlingsalternativ, och det enda svenska godkännandet är indraget.
+- Förutsägelsen stöds enbart av ett högt modellpoäng (evidensnivå L5), utan prövningar, litteratur eller verifierad mekanism. Dessutom är meningokockinfektion en akut, livshotande sjukdom där xylitol inte är ett plausibelt behandlingsalternativ.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén från Läkemedelsverket (varningar och kontraindikationer saknas).

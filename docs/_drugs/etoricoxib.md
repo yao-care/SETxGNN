@@ -86,7 +86,7 @@ För närliggande huvudvärkstillstånd finns enstaka fallrapporter (till exempe
 
 ### Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är indragna. Ingen indikationstext finns registrerad. Fem exempel:
+Ingen indikationstext finns registrerad. Fem exempel:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -112,7 +112,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Mekanismen är rimlig, men det finns varken kliniska prövningar eller litteratur som visar effekt av etoricoxib vid migrän (evidensnivå L5). Dessutom är alla svenska godkännanden indragna, och säkerhetsdata saknas i underlaget.
+- Mekanismen är rimlig, men det finns varken kliniska prövningar eller litteratur som visar effekt av etoricoxib vid migrän (evidensnivå L5). Säkerhetsdata saknas i underlaget.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från MPA, då detta är ett blockerande dataglapp inför säkerhetsbedömning.

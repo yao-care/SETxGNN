@@ -135,7 +135,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för lokaliserad pagetoid retikulos har en mycket hög modellpoäng och en rimlig biologisk grund, men saknar helt kliniska prövningar och litteratur. Dessutom är det enda svenska godkännandet indraget, och produktresumétexten saknas.
+- Förutsägelsen för lokaliserad pagetoid retikulos har en mycket hög modellpoäng och en rimlig biologisk grund, men saknar helt kliniska prövningar och litteratur.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket, eftersom säkerhetsgranskningen inte kan slutföras utan den.

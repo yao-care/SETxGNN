@@ -68,7 +68,7 @@ Samtidigt är sevofluran en inhalationsgas som ges under övervakning vid narkos
 
 ## Marknadsinformation Sverige
 
-Alla sex godkännanden är indragna och inget är i dagsläget giltigt. Indikationstexten saknas i de data som sammanställts.
+Indikationstexten saknas i de data som sammanställts.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----|-----------|
@@ -99,7 +99,7 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för Prinzmetals angina bygger enbart på modellen (evidensnivå L5), utan kliniska prövningar eller litteratur. Dessutom är samtliga svenska godkännanden indragna, och läkemedlets användning som narkosgas passar dåligt för en kronisk kärlsjukdom.
+- Förutsägelsen för Prinzmetals angina bygger enbart på modellen (evidensnivå L5), utan kliniska prövningar eller litteratur.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén för varningar och kontraindikationer.

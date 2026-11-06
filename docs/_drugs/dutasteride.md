@@ -77,8 +77,6 @@ Utan stödjande studier ska poängen tolkas med stor försiktighet.
 | 58312 | Avodart | Kapsel, mjuk | Ingen indikationstext angiven (indraget) |
 | 17871 | Avodart | Kapsel, mjuk | Ingen indikationstext angiven (indraget) |
 
-Alla fyra godkännanden är indragna. För närvarande finns alltså inget giltigt godkännande för dutasterid i Sverige enligt underlaget.
-
 ---
 
 ### Säkerhetsaspekter
@@ -104,7 +102,7 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 
 **Motivering:**
 - Förutsägelsen stöds endast av modellen (evidensnivå L5). Det finns inga kliniska prövningar eller litteratur, och den mekanistiska kopplingen är svag eftersom Ambras syndrom inte är androgendrivet.
-- Alla svenska godkännanden är indragna, och säkerhetsdata från produktresumén saknas.
+- Säkerhetsdata från produktresumén saknas.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismen för dutasterid från DrugBank.
@@ -112,7 +110,7 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 - Utföra en systematisk litteratur- och prövningssökning specifikt för Ambras syndrom och övrig kongenital hypertrichosis.
 - Ta fram prekliniska eller mekanistiska data som visar att DHT-sänkning påverkar TRPS1-relaterad hårväxt.
 - Utvärdera fosterpåverkan och säkerhet vid användning hos barn eller kvinnor i fertil ålder.
-- Klargöra läkemedlets regulatoriska status, eftersom inget giltigt godkännande finns i Sverige.
+- Klargöra läkemedlets regulatoriska status.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

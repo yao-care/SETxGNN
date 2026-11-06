@@ -120,7 +120,7 @@ Se produktresumén för övrig säkerhetsinformation, såsom varningar och kontr
 - Säkerhetsinformation (varningar och kontraindikationer) från produktresumén, eftersom detta saknas helt i underlaget.
 - Roxitromycinspecifika data om aktivitet mot *M. leprae*, helst i jämförelse med klaritromycin, samt kliniska data i form av pilotstudier eller fallserier.
 - Bedömning av hur roxitromycin skulle passa in i nuvarande kombinationsbehandling mot lepra.
-- Bedömning av tillgänglighet, eftersom inget giltigt godkännande finns i Sverige.
+- Bedömning av tillgänglighet.
 
 ---
 

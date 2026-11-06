@@ -95,7 +95,7 @@ Litteraturen består huvudsakligen av översikter och allmänna studier. Ingen r
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna, och inget är för närvarande giltigt. Godkänd indikationstext saknas i licensdata. Nedan visas fem av godkännandena.
+Godkänd indikationstext saknas i licensdata. Nedan visas fem av godkännandena.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -136,7 +136,7 @@ Produktresumé med varningar och kontraindikationer ingick inte i den sammanstä
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den höga modellpoängen speglar främst närheten till den befintliga migränindikationen, och det saknas både kliniska prövningar och studier av zolmitriptan specifikt vid hjärnstamsaura. Dessutom finns teoretiska säkerhetsfarhågor kring kärlsammandragning, och alla svenska godkännanden är indragna.
+- Den höga modellpoängen speglar främst närheten till den befintliga migränindikationen, och det saknas både kliniska prövningar och studier av zolmitriptan specifikt vid hjärnstamsaura. Dessutom finns teoretiska säkerhetsfarhågor kring kärlsammandragning.
 
 **För att gå vidare krävs:**
 - Granskning av produktresumé med varningar och kontraindikationer (saknas i dagsläget)

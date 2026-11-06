@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 14 godkännanden är indragna och inget är giltigt i dagsläget. Godkännandena saknar indikationstext i det underlag som sammanställts. Tabellen visar de fem första.
+Godkännandena saknar indikationstext i det underlag som sammanställts. Tabellen visar de fem första.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
 |---------|------|------|-----------|
@@ -128,7 +128,7 @@ Se i övrigt produktresumén för fullständig säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för papillär konjunktivit bygger enbart på en grafmodell. Det saknas både kliniska prövningar och litteratur, och det finns en uppenbar säkerhetsrisk med bedövningsmedel på ögats yta. Dessutom är samtliga svenska godkännanden indragna.
+- Förutsägelsen för papillär konjunktivit bygger enbart på en grafmodell. Det saknas både kliniska prövningar och litteratur, och det finns en uppenbar säkerhetsrisk med bedövningsmedel på ögats yta.
 - Bland de tio främsta förutsägelserna har **neuralgi** (rank 5, främst postherpetisk neuralgi) mest stöd. Där finns en avslutad fas 2-studie och flera äldre kliniska studier med lidokain/prilokain-kräm (EMLA). Studierna är små, mestadels okontrollerade och gäller en kombinationsprodukt, så prilokains egen roll är oklar.
 
 **För att gå vidare krävs:**
@@ -136,7 +136,6 @@ Se i övrigt produktresumén för fullständig säkerhetsinformation.
 - En bedömning av om det finns ett medicinskt behov som motiverar den risk som lokalbedövning på ögats yta innebär.
 - Fullständig säkerhetsinformation från produktresumén, särskilt om methemoglobinemi och interaktioner.
 - En bedömning av beredningsform och administrationsväg, eftersom inga godkända ögonberedningar finns bland de tidigare godkännandena.
-- Om fokus i stället flyttas till neuralgi: kontrollerade studier som isolerar prilokains bidrag, samt en bedömning av regulatoriskt läge eftersom godkännandena är indragna.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

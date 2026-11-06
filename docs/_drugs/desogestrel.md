@@ -95,7 +95,6 @@ Det är viktigt att notera att amenorré oftare är en biverkan av gestagenbehan
 
 ## Marknadsinformation Sverige
 
-
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 57837 | Velavel | Filmdragerad tablett | Ej angiven |
@@ -127,13 +126,13 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den enda kliniska prövningen har inte bekräftats använda desogestrel, och litteraturen består mest av allmänna översikter om p-piller. Amenorré är dessutom oftare en effekt av gestagenbehandling än ett tillstånd som desogestrel specifikt behandlar. Samtliga svenska godkännanden är avregistrerade.
+- Den enda kliniska prövningen har inte bekräftats använda desogestrel, och litteraturen består mest av allmänna översikter om p-piller. Amenorré är dessutom oftare en effekt av gestagenbehandling än ett tillstånd som desogestrel specifikt behandlar.
 
 **För att gå vidare krävs:**
 - Kontrollera interventionsarmarna i NCT00946192 för att se om desogestrel ingår.
 - Hämta verkningsmekanismen från DrugBank och produktresumé med varningar och kontraindikationer från Läkemedelsverket.
 - Genomföra kontrollerade studier som isolerar desogestrels effekt vid amenorré, separat från östrogenets.
-- Utreda vilken status och vilka beredningsformer som skulle vara aktuella, eftersom inget godkännande är giltigt i dag.
+- Utreda vilken status och vilka beredningsformer som skulle vara aktuella.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

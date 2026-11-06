@@ -126,7 +126,7 @@ Se produktresumén för fullständiga varningar och kontraindikationer.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen för stroke är indirekt och bygger på sekundära analyser av en förmaksflimmerstudie, medan PALLAS tyder på skada vid permanent förmaksflimmer. Dessutom är alla svenska godkännanden indragna, och säkerhetsunderlaget från produktresumén saknas.
+- Evidensen för stroke är indirekt och bygger på sekundära analyser av en förmaksflimmerstudie, medan PALLAS tyder på skada vid permanent förmaksflimmer. Säkerhetsunderlaget från produktresumén saknas.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer), vilket är ett blockerande dataunderlag.

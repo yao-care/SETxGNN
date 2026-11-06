@@ -70,7 +70,7 @@ Den höga modellpoängen kommer från TxGNN-modellen (djupinlärning) och kan sp
 
 ### Marknadsinformation Sverige
 
-Alla 13 godkännanden är indragna. Ingen indikationstext finns registrerad. De fem första visas nedan.
+Ingen indikationstext finns registrerad. De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

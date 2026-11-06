@@ -84,8 +84,6 @@ Dapoxetin är dessutom utformat för behovsstyrd användning och har en mycket k
 | 26320 | Priligy (indragen) | Filmdragerad tablett | Ingen indikationstext tillgänglig |
 | 26319 | Priligy (indragen) | Filmdragerad tablett | Ingen indikationstext tillgänglig |
 
-Båda godkännandena gäller Phoenix Labs Unlimited Company och är indragna. Det finns alltså inget giltigt godkännande i Sverige för närvarande.
-
 ---
 
 ### Säkerhetsaspekter
@@ -108,7 +106,7 @@ Som SSRI bör dapoxetin hanteras med särskild försiktighet vid samtidig använ
 - Uppgifter om verkningsmekanismen från DrugBank
 - Dapoxetinspecifika prekliniska eller kliniska data för migrän
 - En bedömning av om dapoxetins korta halveringstid och behovsstyrda dosering är förenliga med migränbehandling
-- Klargörande av regulatorisk status, eftersom båda godkännandena är indragna
+- Klargörande av regulatorisk status
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -92,7 +92,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen är endast modellbaserad (L5). Det saknas kliniska prövningar och relevant litteratur, och inget plausibelt mekanistiskt samband med pyelonefrit har identifierats. Dessutom är det enda svenska godkännandet indraget.
+- Förutsägelsen är endast modellbaserad (L5). Det saknas kliniska prövningar och relevant litteratur, och inget plausibelt mekanistiskt samband med pyelonefrit har identifierats.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé och säkerhetsinformation (varningar, kontraindikationer) från Läkemedelsverket.

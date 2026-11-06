@@ -103,7 +103,6 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 - Hämta verkningsmekanismen för hemin (till exempel från DrugBank) och analysera ett eventuellt samband med trombocytsjukdomar.
 - Hämta varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA), eftersom säkerhetsgranskning inte kan genomföras utan dem.
 - Söka riktad litteratur och prövningar om hemin vid trombocytopen purpura, samt utvärdera koagulationspåverkan och interaktionerna med antikoagulantia och trombocythämmare.
-- Klargöra att Normosang för närvarande saknar giltigt godkännande i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

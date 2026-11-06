@@ -94,7 +94,7 @@ Ingen av studierna utvärderar etanol som behandling mot migrän.
 
 ### Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är avregistrerade. Indikationstext saknas för alla. De fem första är:
+Indikationstext saknas för alla. De fem första är:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

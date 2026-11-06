@@ -82,7 +82,7 @@ För jämförelse finns en prövning för en annan förutsagd indikation (hypert
 
 ## Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är avregistrerade. Inget har en angiven indikationstext. De fem första listas nedan.
+Inget har en angiven indikationstext. De fem första listas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -99,7 +99,7 @@ Samtliga 20 godkännanden är avregistrerade. Inget har en angiven indikationste
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på modellen (evidensnivå L5), utan kliniska prövningar eller litteratur, och något mekanistiskt samband är inte belagt. Dessutom saknas säkerhetsdata, och samtliga svenska godkännanden är avregistrerade.
+- Förutsägelsen bygger enbart på modellen (evidensnivå L5), utan kliniska prövningar eller litteratur, och något mekanistiskt samband är inte belagt. Dessutom saknas säkerhetsdata.
 
 **För att gå vidare krävs:**
 - Verkningsmekanismdata för tyrosin, för att kunna bedöma ett möjligt samband med cauda equina-syndrom.

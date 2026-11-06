@@ -101,7 +101,6 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 **Motivering:**
 - Förutsägelsen saknar helt stöd från kliniska prövningar och litteratur (evidensnivå L5). Dessutom pekar kända effekter av östrogen på zink åt motsatt håll, och förhöjt plasmazink är ett laboratoriefynd snarare än en etablerad sjukdom.
-- Samtliga svenska godkännanden är avregistrerade, vilket minskar den praktiska relevansen.
 
 **För att gå vidare krävs:**
 - Verkningsmekanismen för etinylestradiol behöver hämtas och analyseras (till exempel via DrugBank).

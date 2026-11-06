@@ -111,7 +111,6 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 **Motivering:**
 - Förutsägelsen bygger enbart på en grafbaserad modell. Det saknas både kliniska prövningar, litteratur och en tänkbar mekanistisk koppling (evidensnivå L5).
-- Selegilin har dessutom ingen giltig svensk registrering och en omfattande interaktionsbörda.
 
 **För att gå vidare krävs:**
 - Biologisk eller genetisk motivering för varför MAO-B-hämning skulle kunna påverka just detta syndrom, till exempel prekliniska data.

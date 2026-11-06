@@ -90,8 +90,6 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 | 8941 | Theracough | Oral lösning | Ingen indikationstext registrerad (indraget) |
 | 63154 | Nipenesin Mentol | Oral lösning | Ingen indikationstext registrerad (indraget) |
 
-Samtliga tre godkännanden är indragna och inget är för närvarande giltigt.
-
 ---
 
 ## Säkerhetsaspekter
@@ -108,7 +106,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Trots mycket hög modellpoäng saknas kliniska prövningar, och den enda publikationen är en äldre översikt med indirekt koppling. Dessutom är alla svenska godkännanden indragna, och säkerhetsunderlaget från produktresumén saknas.
+- Trots mycket hög modellpoäng saknas kliniska prövningar, och den enda publikationen är en äldre översikt med indirekt koppling. Säkerhetsunderlaget från produktresumén saknas.
 
 **För att gå vidare krävs:**
 - Hämta varningar och kontraindikationer från produktresumén för de svenska godkännandena

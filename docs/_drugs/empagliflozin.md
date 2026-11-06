@@ -80,7 +80,7 @@ Andra förutsagda indikationer i modellen är klassiskt stelbensyndrom och opsis
 | 65282 | Hynica | Filmdragerad tablett | Indikationstext saknas (indraget) |
 | 66346 | Empagliflozin Devatis | Filmdragerad tablett | Indikationstext saknas (indraget) |
 
-Totalt finns 6 godkännanden, alla indragna. Det sjätte (65281, Hynica, Adalvo Limited) visas inte i tabellen eftersom högst 5 listas.
+Det sjätte (65281, Hynica, Adalvo Limited) visas inte i tabellen eftersom högst 5 listas.
 
 ---
 
@@ -100,14 +100,13 @@ Se produktresumén för information om varningar och kontraindikationer.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en modellpoäng (L5). Det saknas kliniska prövningar och litteratur, och ingen rimlig mekanistisk koppling mellan SGLT2-hämning och fokalt stelbensyndrom har kunnat identifieras. Dessutom är samtliga svenska godkännanden indragna.
+- Förutsägelsen bygger enbart på en modellpoäng (L5). Det saknas kliniska prövningar och litteratur, och ingen rimlig mekanistisk koppling mellan SGLT2-hämning och fokalt stelbensyndrom har kunnat identifieras.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata (MOA) från DrugBank för att kunna analysera ett eventuellt mekanistiskt samband.
 - Hämta varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA) för en fullständig säkerhetsbedömning.
 - Genomföra en systematisk litteratur- och prövningssökning samt prekliniska studier som kan ge stöd för en koppling till stelbenssyndrom.
 - Utreda om förutsägelsen speglar ett verkligt samband eller enbart likheter som TxGNN-modellen har lärt sig mellan relaterade sjukdomar.
-- Klargöra marknadsstatus, eftersom inget godkännande för närvarande är giltigt i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

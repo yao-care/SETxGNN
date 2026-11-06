@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Samtliga 10 godkännanden är avregistrerade. De fem första visas nedan. Alla är filmdragerade tabletter, och indikationstext saknas i underlaget.
+De fem första visas nedan. Alla är filmdragerade tabletter, och indikationstext saknas i underlaget.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----------|------|

@@ -76,7 +76,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna. Ingen indikationstext finns registrerad. Nedan visas de fem första.
+Ingen indikationstext finns registrerad. Nedan visas de fem första.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -106,7 +106,7 @@ Se produktresumén för fullständiga varningar och kontraindikationer, eftersom
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för trigeminusnervtumör har hög modellpoäng men saknar helt stöd i kliniska prövningar, litteratur och mekanistisk logik. Dessutom är alla svenska godkännanden för närvarande indragna.
+- Förutsägelsen för trigeminusnervtumör har hög modellpoäng men saknar helt stöd i kliniska prövningar, litteratur och mekanistisk logik.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata från DrugBank och bedöm ett eventuellt samband med tumörbiologi.

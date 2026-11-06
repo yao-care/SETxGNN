@@ -96,7 +96,7 @@ Eftersom takrolimus dämpar just denna T-cellsdrivna inflammation är det mekani
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna. Ingen indikationstext finns registrerad för dem.
+Ingen indikationstext finns registrerad för dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -133,7 +133,7 @@ Takrolimus är ett immunsuppressivt läkemedel och inte ett antineoplastiskt lä
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Det finns en avslutad fas 3-studie och en avslutad fas 4-studie direkt på seborroisk dermatit samt en plausibel mekanism. Samtidigt är alla svenska godkännanden indragna, mekanismdata och produktresumé saknas i underlaget och resultaten från prövningarna är inte sammanfattade i det tillgängliga materialet.
+- Det finns en avslutad fas 3-studie och en avslutad fas 4-studie direkt på seborroisk dermatit samt en plausibel mekanism. Produktresumé saknas i underlaget och resultaten från prövningarna är inte sammanfattade i det tillgängliga materialet.
 - Evidensnivån L1 enligt den sammanställda bedömningen vilar på endast en fas 3-studie, medan reglerna kräver minst två avslutade fas 3-RCT. Nivån bör därför ses som preliminär, och L2 är en mer försiktig tolkning.
 
 **För att gå vidare krävs:**

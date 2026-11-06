@@ -109,7 +109,7 @@ För de närliggande förutsägelserna finns följande urval av relevant littera
 | 64732 | Tranylcypromine Glenmark (Ebb Medical AB) | Filmdragerad tablett | Ingen indikationstext registrerad (indraget) |
 | 61456 | Abbonate (Abboxia AB) | Filmdragerad tablett | Ingen indikationstext registrerad (indraget) |
 
-Totalt finns 6 godkännanden, samtliga indragna. Det sjätte (nr 59076, Tranylcypromine Glenmark, Glenmark Arzneimittel GmbH) visas inte ovan.
+Det sjätte (nr 59076, Tranylcypromine Glenmark, Glenmark Arzneimittel GmbH) visas inte ovan.
 
 ---
 
@@ -128,7 +128,7 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den högst rankade förutsägelsen (godartad paroxysmal torticollis hos spädbarn) bygger enbart på modellen (L5), saknar kliniska data och är olämplig med tanke på läkemedlets säkerhetsprofil hos spädbarn. Samtliga svenska godkännanden är dessutom indragna.
+- Den högst rankade förutsägelsen (godartad paroxysmal torticollis hos spädbarn) bygger enbart på modellen (L5), saknar kliniska data och är olämplig med tanke på läkemedlets säkerhetsprofil hos spädbarn.
 - Förutsägelserna för melankoli och neurotisk depression (L3) ligger nära befintliga indikationer och motsvarar mest en omformulering av dem, inte verklig återanvändning.
 
 **För att gå vidare krävs:**

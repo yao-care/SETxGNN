@@ -40,7 +40,7 @@ Evidensnivå: **L3** | Förutsagda indikationer: **1** st
 
 ## Sammanfattning
 
-TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **sömnlöshet (insomni)**, med **2 kliniska prövningar** och **10 publikationer** som för närvarande hör till denna riktning. Av dessa är endast ett fåtal direkt relevanta: framför allt äldre studier på oralt midazolam vid sömnstörningar. Samtliga 17 svenska godkännanden är avregistrerade.
+TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **sömnlöshet (insomni)**, med **2 kliniska prövningar** och **10 publikationer** som för närvarande hör till denna riktning. Av dessa är endast ett fåtal direkt relevanta: framför allt äldre studier på oralt midazolam vid sömnstörningar.
 
 ---
 

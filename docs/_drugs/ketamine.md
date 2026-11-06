@@ -107,8 +107,6 @@ Flera av de översikter som listas ovan berör ketamin bara i förbigående. De 
 
 ## Marknadsinformation Sverige
 
-Alla fyra godkännanden är indragna, och inget giltigt godkännande finns för närvarande.
-
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 51974 | Ketamin Abcur (Abcur AB) | Injektionsvätska, lösning | Ej angiven |
@@ -148,7 +146,7 @@ Produktresumé med varningar och kontraindikationer ingick inte i de sammanstäl
 - Resultat från THINK-studien och från KetHead (förväntas slutföras 2027), analyserade per huvudvärkstyp.
 - Hämta och granska produktresumé med varningar och kontraindikationer, särskilt för patienter med hjärt-kärlsjukdom, förhöjt tryck och beroendehistorik.
 - Komplettera data om verkningsmekanism (saknas i underlaget) och om vilket administrationssätt som är lämpligast för huvudvärk.
-- Klargöra regulatorisk väg i Sverige, eftersom alla nuvarande godkännanden är indragna.
+- Klargöra regulatorisk väg i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

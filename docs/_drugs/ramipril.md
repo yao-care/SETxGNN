@@ -90,7 +90,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna och ingen produkt är för närvarande marknadsförd som enskild substans. Indikationstext saknas i uppgifterna. De fem första godkännandena:
+Indikationstext saknas i uppgifterna. De fem första godkännandena:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -124,7 +124,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 - Hämta och granska produktresumén för varningar och kontraindikationer, vilket för närvarande blockerar säkerhetsgranskningen.
 - Komplettera data om verkningsmekanism.
 - Prekliniska studier som bekräftar effekt vid pulmonell hypertension, följt av en liten klinisk pilotstudie.
-- Bedöma hur ett eventuellt behov av omregistrering ska hanteras, eftersom alla svenska godkännanden är indragna.
+- Bedöma hur ett eventuellt behov av omregistrering ska hanteras.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

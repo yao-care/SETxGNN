@@ -131,7 +131,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 **Motivering:**
 - Förutsägelsen är mekanistiskt rimlig, men underlaget består av äldre, små enarmade fas II-studier med låg svarsfrekvens. Inga kliniska prövningar är registrerade för just denna diagnos.
-- Svensk licens finns bara som avregistrerad, och produkttext med varningar och kontraindikationer saknas.
+- Produkttext med varningar och kontraindikationer saknas.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé och säkerhetsdata för mitoxantron och bedöma kardiotoxicitet och myelosuppression i den aktuella patientgruppen.

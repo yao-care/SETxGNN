@@ -125,7 +125,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den högst rankade förutsägelsen (allergisk urtikaria) ligger inom en befintlig indikation och är ingen verklig återanvändning. Kall urtikaria har endast L4-evidens (en gammal jämförande studie, översikter och fallrapporter), inga registrerade prövningar, och alla svenska godkännanden är indragna.
+- Den högst rankade förutsägelsen (allergisk urtikaria) ligger inom en befintlig indikation och är ingen verklig återanvändning. Kall urtikaria har endast L4-evidens (en gammal jämförande studie, översikter och fallrapporter), inga registrerade prövningar.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén för varningar och kontraindikationer, vilket är ett blockerande datagap.

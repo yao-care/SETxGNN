@@ -122,7 +122,7 @@ Uppgifter om varningar och kontraindikationer från svensk produktresumé saknas
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Evidensen för tolvaptan vid ADPKD är stark (två stora RCT-studier och en Cochrane-översikt), men den är inte direkt riktad mot den förutsagda GANAB-relaterade subtypen. Läkemedlet har redan polycystisk njursjukdom som ursprunglig indikation, och samtliga svenska godkännanden är avregistrerade.
+- Evidensen för tolvaptan vid ADPKD är stark (två stora RCT-studier och en Cochrane-översikt), men den är inte direkt riktad mot den förutsagda GANAB-relaterade subtypen. Läkemedlet har redan polycystisk njursjukdom som ursprunglig indikation.
 
 **För att gå vidare krävs:**
 - Hämta och granska varningar och kontraindikationer från produktresumén (saknas i nuläget).

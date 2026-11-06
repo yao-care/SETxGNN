@@ -87,8 +87,6 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 | 54429 (Ebb Medical AB, indraget) | Relifex | Filmdragerad tablett | Ingen indikationstext tillgänglig |
 | 11867 (Viatris AB, indraget) | Relifex | Filmdragerad tablett | Ingen indikationstext tillgänglig |
 
-Båda godkännandena är indragna, och det finns för närvarande inget giltigt godkännande i Sverige.
-
 ---
 
 ### Säkerhetsaspekter
@@ -115,7 +113,6 @@ Uppgifter från produktresumén om varningar och kontraindikationer saknas i de 
 
 **Motivering:**
 - Förutsägelsen saknar både kliniska prövningar och litteratur, och det finns inget trovärdigt mekanistiskt samband mellan COX-2-hämning och en genetisk broskutvecklingsstörning.
-- Dessutom saknar läkemedlet för närvarande giltigt godkännande i Sverige.
 
 **För att gå vidare krävs:**
 - Hämta produktresumén från Läkemedelsverket (MPA) för att komplettera varningar och kontraindikationer.

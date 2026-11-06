@@ -100,8 +100,6 @@ Poängen är ett modellresultat och inget kliniskt bevis. Melfalans egen andel a
 | 57727 | Melphalan Macure | Pulver och vätska till injektions-/infusionsvätska, lösning | Uppgift saknas (indragen) |
 | 7492 | Alkeran | Filmdragerad tablett | Uppgift saknas (indragen) |
 
-Alla tre godkännanden är indragna, och inget giltigt melfalanpreparat finns därmed registrerat i den sammanställda datan.
-
 ---
 
 ## Cytotoxicitet
@@ -139,7 +137,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Hämta uppgifter om verkningsmekanism från DrugBank.
 - Analysera resultaten från NCT00936936 för att bedöma melfalans enskilda bidrag och effekt (svarsfrekvens, överlevnad) samt toxicitet.
 - Söka efter eller genomföra jämförande studier och ta hänsyn till att etablerade standardbehandlingar vid groddcellstumörer finns.
-- Utreda vilka melfalanberedningar som i dag går att tillgå i Sverige, eftersom alla godkännanden är indragna.
+- Utreda vilka melfalanberedningar som i dag går att tillgå i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

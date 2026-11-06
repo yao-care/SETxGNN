@@ -90,7 +90,7 @@ Bland de övriga högt rankade förutsägelserna (t.ex. artros) hittades två pu
 | 67791 | Acnatac (2care4 ApS) | Gel | Indikationstext saknas; indraget |
 | 65880 | Acnatac (2care4 ApS) | Gel | Indikationstext saknas; indraget |
 
-Alla tre godkännanden är indragna, och beredningsformen är topikal (gel).
+Beredningsformen är topikal (gel).
 
 ---
 

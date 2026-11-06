@@ -121,7 +121,7 @@ Uppgifter från produktresumén om varningar och kontraindikationer saknas. Se p
 
 **Motivering:**
 - Förutsägelsen bygger enbart på modellen (L5) utan kliniska prövningar eller litteratur. Den enda biologiska kopplingen är indirekt och gäller renal tubulär dysfunktion sekundär till tyrosinemi.
-- Samtliga svenska godkännanden är avregistrerade, och säkerhetsunderlaget från produktresumén saknas.
+- Säkerhetsunderlaget från produktresumén saknas.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén för varningar och kontraindikationer (säkerhetsgenomgången kan inte genomföras utan den).

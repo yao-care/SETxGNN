@@ -99,7 +99,7 @@ Den primära förutsägelsen (malign hypertensiv njursjukdom) saknar litteratur.
 
 ## Marknadsinformation Sverige
 
-Samtliga 15 godkännanden är avregistrerade och inget gällande godkännande finns. Indikationstext saknas i registerdatan. De fem första godkännandena:
+Indikationstext saknas i registerdatan. De fem första godkännandena:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -108,8 +108,6 @@ Samtliga 15 godkännanden är avregistrerade och inget gällande godkännande fi
 | 26351 | Irbesartan Actavis | Filmdragerad tablett | – |
 | 42423 | Irbesartan STADA | Filmdragerad tablett | – |
 | 42424 | Irbesartan STADA | Filmdragerad tablett | – |
-
-Bland de övriga avregistrerade godkännandena finns både enkomponentsprodukter (Accord, STADA) och kombinationer med hydroklortiazid (STADA, Actavis).
 
 ---
 

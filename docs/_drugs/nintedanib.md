@@ -84,7 +84,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är indragna och inga produkter är för närvarande marknadsförda som godkända. De fem första godkännandena visas nedan.
+De fem första godkännandena visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -135,7 +135,7 @@ Varningar och kontraindikationer från produktresumén saknas i de sammanställd
 - Jämförelse mot imatinib, inklusive patienter som utvecklat resistens
 - Hämtning av produktresumé från Läkemedelsverket för säkerhetsscreening
 - Komplettering av verkningsmekanismdata
-- Klargörande av marknadsstatus, eftersom alla svenska godkännanden är indragna
+- Klargörande av marknadsstatus
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

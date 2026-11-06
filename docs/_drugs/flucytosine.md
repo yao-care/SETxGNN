@@ -130,7 +130,7 @@ Produktresumédata (varningar och kontraindikationer) saknas i de sammanställda
 
 **Motivering:**
 - Förutsägelsen stöds endast av en modellpoäng (L5). Det finns inga studier, ingen litteratur och ingen etablerad mekanism, och läkemedlets kända verkan har ingen tydlig koppling till Pagets sjukdom.
-- Säkerhetsprofilen är dessutom oklar: produktresumédata saknas, och kunskapsgrafen pekar på risker för benmärg, lever och njurar. Det enda svenska godkännandet är indraget.
+- Säkerhetsprofilen är dessutom oklar: produktresumédata saknas, och kunskapsgrafen pekar på risker för benmärg, lever och njurar.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket (MPA) för varningar, kontraindikationer och ursprunglig indikation.

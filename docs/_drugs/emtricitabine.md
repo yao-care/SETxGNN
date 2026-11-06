@@ -107,7 +107,7 @@ Varningar och kontraindikationer från de svenska produktresuméerna saknas i un
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen är begränsad till en enda preklinisk/veterinär studie och inga kliniska prövningar finns. Indikationen gäller dessutom katter och inte människor. Alla svenska godkännanden är indragna och produktresuméns varningar saknas i underlaget.
+- Evidensen är begränsad till en enda preklinisk/veterinär studie och inga kliniska prövningar finns. Indikationen gäller dessutom katter och inte människor. Produktresuméns varningar saknas i underlaget.
 
 **För att gå vidare krävs:**
 - Ett tydligt beslut om huruvida en veterinär indikation alls ligger inom ramen för utvärderingen, eftersom detta är en veterinärmedicinsk fråga.

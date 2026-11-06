@@ -84,8 +84,6 @@ Den höga poängen (0,9981) ska därför ses som en ren grafbaserad förutsägel
 | 9003 | Digoxin Evolan | Tablett | Ej angiven (indraget) |
 | 8811 | Digoxin Evolan | Injektionsvätska, lösning | Ej angiven (indraget) |
 
-Alla tre godkännanden (Evolan Pharma AB) är indragna, och för närvarande finns inget giltigt godkännande i Sverige.
-
 ---
 
 ### Säkerhetsaspekter
@@ -113,7 +111,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Prediktionen saknar både kliniska prövningar och relevant litteratur, och det finns inget trovärdigt mekanistiskt samband. Dessutom finns risk för skada vid kranskärlskramp, och alla svenska godkännanden är indragna.
+- Prediktionen saknar både kliniska prövningar och relevant litteratur, och det finns inget trovärdigt mekanistiskt samband. Dessutom finns risk för skada vid kranskärlskramp.
 
 **För att gå vidare krävs:**
 - Hämta och analysera produktresumé för varningar och kontraindikationer (blockerande dataglapp).

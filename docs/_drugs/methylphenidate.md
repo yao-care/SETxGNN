@@ -104,7 +104,7 @@ Eftersom den högst rankade förutsägelsen saknar litteratur redovisas här lit
 
 ## Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är indragna. Ingen godkänd indikationstext finns registrerad. Nedan visas fem av dem.
+Ingen godkänd indikationstext finns registrerad. Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
@@ -140,7 +140,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Komplettera verkningsmekanismen från DrugBank.
 - Genomföra riktad litteratursökning på metylfenidat och *FGD1*/Aarskog-Scott syndrom samt på dystymi, helst med kontrollerade studier.
 - Bedöma om förutsägelsen om specifik utvecklingsstörning tillför något utöver den redan kända ADHD-indikationen.
-- Klargöra regulatorisk status och tillgänglig beredningsform, eftersom alla svenska godkännanden är indragna.
+- Klargöra regulatorisk status och tillgänglig beredningsform.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -87,8 +87,6 @@ Två prekliniska studier stöder resonemanget. En studie från 2020 visade att j
 | 55996 | Deferiprone DOC | Filmdragerad tablett | Ej angiven (indraget) |
 | 50974 | Deferipron Evolan | Filmdragerad tablett | Ej angiven (indraget) |
 
-Samtliga fem godkännanden är indragna, och inget läkemedel med deferipron har för närvarande giltigt godkännande i Sverige.
-
 ---
 
 ### Säkerhetsaspekter
@@ -109,14 +107,14 @@ Samtliga fem godkännanden är indragna, och inget läkemedel med deferipron har
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen för hepatisk porfyri är begränsad till två prekliniska djurstudier utan kliniska prövningar, och läkemedlet saknar för närvarande giltigt godkännande i Sverige. Dessutom saknas varnings- och kontraindikationsdata, vilket hindrar en fullständig säkerhetsbedömning.
+- Evidensen för hepatisk porfyri är begränsad till två prekliniska djurstudier utan kliniska prövningar. Dessutom saknas varnings- och kontraindikationsdata, vilket hindrar en fullständig säkerhetsbedömning.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket
 - Hämta data om verkningsmekanismen från DrugBank
 - Utvärdera säkerhetsprofilen, särskilt risken för agranulocytos och behovet av blodövervakning
 - Genomföra eller identifiera kliniska studier (t.ex. fall- eller pilotstudier) på människor med porphyria cutanea tarda eller andra porfyrier
-- Klargöra läkemedlets regulatoriska status, eftersom alla godkännanden är indragna
+- Klargöra läkemedlets regulatoriska status
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

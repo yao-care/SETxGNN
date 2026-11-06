@@ -40,7 +40,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 ## Sammanfattning
 
-Tymol är den aktiva substansen i salvan Vicks Vaporub. Det enda godkännandet i Sverige är avregistrerat, och någon godkänd indikationstext finns inte i de data som sammanställts för denna rapport. Den är därmed en ren modellförutsägelse.
+Tymol är den aktiva substansen i salvan Vicks Vaporub. Någon godkänd indikationstext finns inte i de data som sammanställts för denna rapport. Den är därmed en ren modellförutsägelse.
 
 ---
 
@@ -102,7 +102,7 @@ Se produktresumén för säkerhetsinformation. Inga interaktionsdata hittades f�
 
 **Motivering:**
 - Förutsägelsen är enbart beräkningsbaserad (evidensnivå L5) och saknar både kliniska studier och mekanistiskt stöd. Tillståndet är dessutom strukturellt och kan rimligen inte behandlas med tymol.
-- Det enda godkännandet är avregistrerat, och data om verkningsmekanism, varningar och kontraindikationer saknas.
+- Data om verkningsmekanism, varningar och kontraindikationer saknas.
 
 **För att gå vidare krävs:**
 - Verkningsmekanismdata för tymol, till exempel från DrugBank.

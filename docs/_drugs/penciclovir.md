@@ -88,7 +88,7 @@ Se produktresumén för säkerhetsinformation. Inga varningar, kontraindikatione
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen stöds endast av modellen (L5), utan kliniska prövningar eller litteratur, och verkningsmekanismen (virusspecifikt enzym) saknar angivbar koppling till en parasitsjukdom. Dessutom är båda svenska godkännandena indragna, och krämformen är sannolikt olämplig för en systemisk leverinfektion.
+- Förutsägelsen stöds endast av modellen (L5), utan kliniska prövningar eller litteratur, och verkningsmekanismen (virusspecifikt enzym) saknar angivbar koppling till en parasitsjukdom. Krämformen är sannolikt olämplig för en systemisk leverinfektion.
 
 **För att gå vidare krävs:**
 - Ett biologiskt resonemang för hur penciclovir skulle kunna påverka *Fasciola*, till exempel genom prekliniska studier (in vitro-test mot parasiten).

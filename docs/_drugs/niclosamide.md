@@ -40,7 +40,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 
 ### Sammanfattning
 
-Niklosamid är ett avmaskningsmedel (Yomesan, tuggtablett) vars svenska godkännande är återkallat. Den ursprungliga indikationen finns inte angiven i de data som sammanställts för rapporten. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **hjärtsjukdom**, men det finns **inga kliniska prövningar** och evidensen består av prekliniska studier (djurmodeller och cellstudier) samt indirekt mekanistiskt arbete. Samtidigt finns en säkerhetssignal: niklosamid kan orsaka kärlsammandragning.
+Den ursprungliga indikationen finns inte angiven i de data som sammanställts för rapporten. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **hjärtsjukdom**, men det finns **inga kliniska prövningar** och evidensen består av prekliniska studier (djurmodeller och cellstudier) samt indirekt mekanistiskt arbete. Samtidigt finns en säkerhetssignal: niklosamid kan orsaka kärlsammandragning.
 
 ---
 
@@ -116,7 +116,7 @@ Se produktresumén för varningar och kontraindikationer, eftersom dessa inte fi
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen för hjärtsjukdom är begränsad till prekliniska studier och indirekt mekanistiskt arbete, utan någon klinisk prövning. Den höga TxGNN-poängen är en datormodellprediktion, och det finns en kardiovaskulär säkerhetssignal (kärlsammandragning). Dessutom är det enda svenska godkännandet återkallat.
+- Evidensen för hjärtsjukdom är begränsad till prekliniska studier och indirekt mekanistiskt arbete, utan någon klinisk prövning. Den höga TxGNN-poängen är en datormodellprediktion, och det finns en kardiovaskulär säkerhetssignal (kärlsammandragning).
 
 **För att gå vidare krävs:**
 - Hämta produktresumén från Läkemedelsverket för att komplettera varningar och kontraindikationer (blockerande dataluckor för säkerhetsgranskning).

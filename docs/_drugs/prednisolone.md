@@ -93,7 +93,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 11 godkännanden är indragna och inget är för närvarande giltigt. Godkänd indikationstext finns inte i registret.
+Godkänd indikationstext finns inte i registret.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -126,7 +126,6 @@ Varnings- och kontraindikationstext från produktresumén saknas i den sammanst�
 - Hämta data om verkningsmekanism från DrugBank.
 - Granska RCT-studien från 2005 och nätverksmetaanalysen i detalj, inklusive effektstorlekar och återfallsfrekvens.
 - Jämför med nyare alternativ, särskilt JAK-hämmare, och bedöm vilka patienter som saknar tillgång till dem.
-- Klargöra marknadsläget, eftersom alla svenska godkännanden är indragna.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -97,7 +97,7 @@ Litteraturen är svag. Endast två laboratoriestudier avser ketokonazol direkt m
 
 ### Marknadsinformation Sverige
 
-Samtliga fyra godkännanden är indragna. Ingen godkänd indikationstext finns registrerad.
+Ingen godkänd indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -125,13 +125,13 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Stödet bygger på en modellförutsägelse, laboratoriedata och en enda pågående jämförande studie. Det saknas avslutade kontrollerade studier, och alla svenska godkännanden är indragna.
+- Stödet bygger på en modellförutsägelse, laboratoriedata och en enda pågående jämförande studie. Det saknas avslutade kontrollerade studier.
 
 **För att gå vidare krävs:**
 - Resultat från NCT07237763 samt placebokontrollerade fas 2/3-studier av topikalt ketokonazol vid akne.
 - Klarhet i om effekten beror på akne i sig eller på att Malassezia-folliculit ingår i patientgruppen.
 - Produktresumé med varningar och kontraindikationer samt hämtning av verkningsmekanismen från DrugBank.
-- Bedömning av säkerhet och beredningsform (lokal behandling är mest rimlig) samt av regulatoriska möjligheter, eftersom godkännandena är indragna.
+- Bedömning av säkerhet och beredningsform (lokal behandling är mest rimlig) samt av regulatoriska möjligheter.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

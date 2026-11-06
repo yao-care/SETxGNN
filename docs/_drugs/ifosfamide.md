@@ -107,8 +107,6 @@ Ifosfamid är inte ett standardläkemedel vid bröstcancer, och inga fas 3-studi
 | 67828 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven (indraget) |
 | 67827 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven (indraget) |
 
-Samtliga godkännanden innehas av Baxter Medical AB och är indragna.
-
 ---
 
 ## Cytotoxicitet
@@ -151,13 +149,12 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 **Motivering:**
 - Mekanismen är rimlig och det finns flera fas 2-studier och översikter som visar effekt vid avancerad bröstcancer. Läkemedlet är dock inte standardbehandling, inga fas 3-studier finns, och de kliniska prövningarna är gamla, små eller avbrutna, med okända resultat.
-- Alla svenska godkännanden är indragna, och läkemedlet har betydande risker (benmärgspåverkan, njur- och nervtoxicitet, sekundär leukemi).
+- Läkemedlet har betydande risker (benmärgspåverkan, njur- och nervtoxicitet, sekundär leukemi).
 - Förutsägelsen bör därför hanteras som en forskningsfråga.
 
 **För att gå vidare krävs:**
 - Resultat från NCT00026078 och NCT00012311, eller en ny randomiserad studie som jämför ifosfamidkombinationer med dagens standardbehandling.
 - Systematisk genomgång av tidigare fas 2-data, särskilt hos förbehandlade patienter och vid undertyper som metaplastisk bröstcancer.
-- Produktresumé med fullständiga varningar, kontraindikationer och dosering, samt klarhet i hur läkemedlet kan tillhandahållas i Sverige nu när godkännandena är indragna.
 - Bedömning av nytta och risk, särskilt njurfunktion, benmärgsreserv och risken för sekundär malignitet.
 ## Ansvarsfriskrivning
 

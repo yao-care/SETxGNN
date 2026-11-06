@@ -87,7 +87,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 | 61474 | Sedaconda | Inhalationsånga, vätska | Sedana Medical AB | Indraget |
 | 12337 | Isofluran Baxter | Inhalationsånga, vätska | Baxter Medical AB | Indraget |
 
-Inget av godkännandena är för närvarande giltigt, och ingen godkänd indikationstext finns registrerad.
+Ingen godkänd indikationstext finns registrerad.
 
 ---
 
@@ -115,7 +115,7 @@ Inget av godkännandena är för närvarande giltigt, och ingen godkänd indikat
 
 **Motivering:**
 - Förutsägelsen för Prinzmetal angina bygger enbart på en modellpoäng, utan stöd från studier eller publikationer, och coronary steal talar mot nytta.
-- Isoflurans godkännanden i Sverige är dessutom alla indragna, och de säkerhetsuppgifter som finns tyder på försiktighet vid hjärt-kärlpåverkan (till exempel hypotoni).
+- De säkerhetsuppgifter som finns tyder på försiktighet vid hjärt-kärlpåverkan (till exempel hypotoni).
 
 **För att gå vidare krävs:**
 - Preklinisk eller mekanistisk evidens för att isofluran lindrar kranskärlsspasm utan att orsaka coronary steal

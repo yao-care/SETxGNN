@@ -90,7 +90,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna och ingen produkt har för närvarande giltigt godkännande. Godkänd indikationstext saknas i underlaget. Fem av godkännandena:
+Godkänd indikationstext saknas i underlaget. Fem av godkännandena:
 
 | Godkännandenummer | Produktnamn | Beredningsform |
 |---------|------|------|
@@ -128,7 +128,7 @@ Produktresumén behöver konsulteras för fullständiga varningar och kontraindi
 - Randomiserade, kontrollerade studier av lakosamid vid mani eller bipolär sjukdom, helst placebokontrollerade.
 - Publicerade resultat från den öppna pilotstudien (PMID 33666402) och en genomgång av den retrospektiva kohortens data.
 - Utvärdering av hematologisk säkerhet (neutropeni) och hjärtsäkerhet (retledning, PR-intervall) hos psykiatriska patienter.
-- Tillgång till produktresumén för fullständiga varningar och kontraindikationer samt kontroll av läkemedlets aktuella marknadsstatus i Sverige, eftersom alla godkännanden är indragna.
+- Tillgång till produktresumén för fullständiga varningar och kontraindikationer samt kontroll av läkemedlets aktuella marknadsstatus i Sverige.
 - Dokumenterad verkningsmekanism (DrugBank) för att stärka det mekanistiska underlaget.
 ## Ansvarsfriskrivning
 

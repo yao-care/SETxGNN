@@ -88,7 +88,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 | 46905 | Xifaxan (Norgine BV) | Filmdragerad tablett | Indragen |
 | 68417 | Xifaxan (2care4 ApS) | Filmdragerad tablett | Indragen |
 
-Alla tre godkännanden är indragna, och ingen indikationstext finns tillgänglig.
+Ingen indikationstext finns tillgänglig.
 
 ---
 

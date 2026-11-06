@@ -78,7 +78,7 @@ Den höga poängen kommer från TxGNN-modellen (deep learning) och kan spegla li
 
 ## Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är avregistrerade. Inga godkännanden har en angiven indikationstext i de sammanställda data. Nedan visas fem av dem.
+Inga godkännanden har en angiven indikationstext i de sammanställda data. Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

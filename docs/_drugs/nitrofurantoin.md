@@ -91,8 +91,6 @@ Någon terapeutisk mekanism är inte fastställd. Nitrofurantoin har ingen känd
 | 51827 | Nitrofurantoin Alternova (Alternova A/S) | Tablett | Indragen |
 | 63398 | Foragen (CNX Therapeutics Ireland Ltd) | Kapsel med modifierad frisättning, hård | Indragen |
 
-Alla fyra godkännanden är indragna och indikationstext saknas i de data som sammanställts.
-
 ---
 
 ## Säkerhetsaspekter
@@ -112,13 +110,12 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom uppgifter o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen saknar stöd i kliniska prövningar och litteratur, och den publicerade evidensen pekar mot skaderisk (särskilt lungtoxicitet i kombination med metotrexat) snarare än nytta vid reumatoid artrit. Läkemedlet saknar dessutom giltiga godkännanden i Sverige.
+- Förutsägelsen saknar stöd i kliniska prövningar och litteratur, och den publicerade evidensen pekar mot skaderisk (särskilt lungtoxicitet i kombination med metotrexat) snarare än nytta vid reumatoid artrit.
 
 **För att gå vidare krävs:**
 - Ett trovärdigt mekanistiskt underlag för antiinflammatorisk eller immunmodulerande effekt, inklusive verkningsmekanismdata.
 - Prekliniska data som stöder en effekt vid reumatoid artrit.
 - Säkerhetsdata från produktresumén, eftersom varningar och kontraindikationer saknas i underlaget.
-- En bedömning av om det över huvud taget finns ett skäl att återinföra ett läkemedel med indragna godkännanden och en känd risk för lung- och leverskada.
 
 ---
 

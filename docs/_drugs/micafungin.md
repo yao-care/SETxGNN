@@ -92,7 +92,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla nio godkännanden är indragna. Indikationstext finns inte i de sammanställda data. De fem första visas nedan.
+Indikationstext finns inte i de sammanställda data. De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -124,7 +124,6 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 
 **Motivering:**
 - Det finns flera kliniska observationer, inklusive några kohortstudier, som tyder på att mikafungin kan fungera vid Candida-urinvägsinfektion, men evidensen utgörs av små och huvudsakligen retrospektiva material. Det saknas registrerade prövningar och randomiserade studier, och läkemedlets urinutsöndring är begränsad.
-- Alla svenska godkännanden är indragna, så ingen produkt är för närvarande marknadsförd.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé (varningar och kontraindikationer), eftersom säkerhetsdata saknas och detta för närvarande blockerar säkerhetsgranskningen.
@@ -132,7 +131,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 - Genomföra en systematisk genomgång av litteraturen och bedöma kvaliteten i kohortstudierna.
 - Klargöra urinkoncentrationer och farmakokinetik, särskilt hos patienter med nedsatt njurfunktion.
 - Planera en kontrollerad klinisk studie (helst randomiserad) som jämför mikafungin med flukonazol eller amfotericin B vid symtomatisk Candida-urinvägsinfektion.
-- Utreda marknadstillgång i Sverige, eftersom samtliga godkännanden är indragna.
+- Utreda marknadstillgång i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

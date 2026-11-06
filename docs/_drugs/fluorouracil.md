@@ -92,7 +92,7 @@ Dessa publikationer är indirekta eller anekdotiska. Fallrapporten visar snarare
 
 ### Marknadsinformation Sverige
 
-Samtliga sex godkännanden är indragna. Ingen godkänd indikationstext finns registrerad.
+Ingen godkänd indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -135,7 +135,7 @@ Produktresumé med varningar och kontraindikationer har inte kunnat hämtas. Se 
 
 **Motivering:**
 - Förutsägelsen bygger enbart på en modellberäkning (L5) utan kliniska prövningar eller litteratur för denna indikation, och befintlig litteratur om rabdomyosarkom är indirekt.
-- Alla svenska godkännanden är indragna och läkemedlets toxicitetsprofil är påtaglig. Standardbehandlingen vid rabdomyosarkom bygger dessutom på andra läkemedel.
+- Läkemedlets toxicitetsprofil är påtaglig. Standardbehandlingen vid rabdomyosarkom bygger dessutom på andra läkemedel.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé med varningar och kontraindikationer (blockerande dataluckor).

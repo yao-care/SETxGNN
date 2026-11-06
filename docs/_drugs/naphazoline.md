@@ -40,7 +40,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 ### Sammanfattning
 
-Naphazolin är en alfa-adrenerg vasokonstriktor som används i ögondroppar för att minska rodnad genom att dra ihop svullna blodkärl i ögat. Den enda svenska licensen är dock avregistrerad och saknar registrerad indikationstext. TxGNN-modellen förutsäger att läkemedlet skulle kunna vara effektivt mot **hypotrichosis simplex i hårbotten**, men **inga kliniska prövningar** och **ingen relevant litteratur** stöder förutsägelsen. Den är därför enbart en modellförutsägelse.
+Naphazolin är en alfa-adrenerg vasokonstriktor som används i ögondroppar för att minska rodnad genom att dra ihop svullna blodkärl i ögat. TxGNN-modellen förutsäger att läkemedlet skulle kunna vara effektivt mot **hypotrichosis simplex i hårbotten**, men **inga kliniska prövningar** och **ingen relevant litteratur** stöder förutsägelsen. Den är därför enbart en modellförutsägelse.
 
 ---
 
@@ -88,7 +88,7 @@ Följande kommer från kunskapsgrafen (läkemedels-sjukdomskopplingar som kontra
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen saknar både klinisk och litteraturbaserad evidens (L5) och har ingen rimlig farmakologisk förklaring. Dessutom är den enda svenska licensen avregistrerad.
+- Förutsägelsen saknar både klinisk och litteraturbaserad evidens (L5) och har ingen rimlig farmakologisk förklaring.
 
 **För att gå vidare krävs:**
 - Verkningsmekanismdata, som saknas i underlaget.

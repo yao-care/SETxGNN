@@ -82,7 +82,7 @@ Hydromorfon påverkar inte den infektiösa eller inflammatoriska orsaken till fa
 
 ### Marknadsinformation Sverige
 
-Alla 16 godkännanden är indragna. Ingen indikationstext finns angiven. De fem första visas här:
+Ingen indikationstext finns angiven. De fem första visas här:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -92,7 +92,7 @@ Alla 16 godkännanden är indragna. Ingen indikationstext finns angiven. De fem 
 | 57253 | Hydromorphone Kalceks | Injektions-/infusionsvätska, lösning | Ej angiven |
 | 57251 | Hydromorphone Kalceks | Injektions-/infusionsvätska, lösning | Ej angiven |
 
-Övriga indragna godkännanden gäller produkterna Palladon (Mundipharma AB) och Gerodolan (G.L. Pharma GmbH).
+Pharma GmbH).
 
 ---
 
@@ -123,7 +123,7 @@ Evidensen är direkt men talar mot en gynnsam nytta–riskbalans: opioider ger s
 
 **Motivering:**
 - Förutsägelsen om faryngit bygger på indirekt evidens från studier av smärta efter tonsillektomi, och inga publikationer finns. Modellpoängen speglar sannolikt likheten med de ursprungliga övre luftvägsindikationerna snarare än verklig effekt.
-- Alla svenska godkännanden är indragna, och riktlinjerna avråder från opioider vid den indikation (migrän) där evidensen är starkast.
+- Riktlinjerna avråder från opioider vid den indikation (migrän) där evidensen är starkast.
 
 **För att gå vidare krävs:**
 - Produktresumé med varningar och kontraindikationer från Läkemedelsverket (saknas i underlaget och blockerar säkerhetsbedömningen).

@@ -65,7 +65,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Base
 
 Benign paroxysmal torticollis hos spädbarn är en barnneurologisk sjukdom som ofta kopplas till kanalopati (bland annat CACNA1A) och står nära migränspektrumet. Mianserins blockad av 5-HT2-receptorer och dess antihistaminerga effekt ger endast en spekulativ koppling till detta tillstånd.
 
-Det finns alltså inget stöd i kliniska prövningar eller litteratur. Den höga poängen är en modellprediktion. Att målgruppen är spädbarn och att läkemedlet saknar giltigt godkännande i Sverige ökar dessutom säkerhetsfrågorna.
+Det finns alltså inget stöd i kliniska prövningar eller litteratur. Den höga poängen är en modellprediktion.
 
 ---
 
@@ -79,7 +79,7 @@ Det finns alltså inget stöd i kliniska prövningar eller litteratur. Den höga
 | 56510 | Mianserin 2care4 | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänt) |
 | 12014 | Mianserin Viatris | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänt) |
 
-Totalt finns 9 godkännanden, alla återkallade. Ytterligare fyra godkännanden (58008, 57435, 65741 och 12015) visas inte här.
+Ytterligare fyra godkännanden (58008, 57435, 65741 och 12015) visas inte här.
 
 ---
 
@@ -96,7 +96,7 @@ Uppgifter om varningar och kontraindikationer saknas. Se produktresumén för fu
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på modellpoängen. Det finns inga kliniska prövningar, ingen litteratur och ingen etablerad mekanistisk koppling. Läkemedlet saknar dessutom giltigt godkännande i Sverige och den tänkta patientgruppen är spädbarn.
+- Förutsägelsen bygger enbart på modellpoängen. Det finns inga kliniska prövningar, ingen litteratur och ingen etablerad mekanistisk koppling. Den tänkta patientgruppen är spädbarn.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer), vilket i nuläget blockerar säkerhetsbedömningen.

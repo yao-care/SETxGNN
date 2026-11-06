@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Detta stämmer väl överens med de ursprungliga indikationerna (rinit, nasofaryngit, förkylning). Förutsägelsen om "sjukdom i näshålan" är därför i stort sett en omformulering av den befintliga användningen och inte en genuin ny möjlighet för läkemedelsåteranvändning. Den höga poängen speglar sannolikt just denna närhet.
 
-Mekanismen är rimlig för nästäppa, men det är viktigt att komma ihåg att produkten är indragen och att läkemedlet har kända säkerhetsproblem (se nedan).
+Mekanismen är rimlig för nästäppa.
 
 ---
 
@@ -113,7 +113,7 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen är i praktiken en omformulering av läkemedlets befintliga användning, och stödet är begränsat till en jämförande studie och två djurstudier utan några registrerade kliniska prövningar. Produkten är dessutom indragen, och risken för stroke och kardiovaskulära händelser gör ytterligare utveckling svår att motivera.
+- Förutsägelsen är i praktiken en omformulering av läkemedlets befintliga användning, och stödet är begränsat till en jämförande studie och två djurstudier utan några registrerade kliniska prövningar. Risken för stroke och kardiovaskulära händelser gör ytterligare utveckling svår att motivera.
 
 **För att gå vidare krävs:**
 - Produktresumé från Läkemedelsverket (MPA) med varningar och kontraindikationer, eftersom den saknas och blockerar säkerhetsbedömningen.

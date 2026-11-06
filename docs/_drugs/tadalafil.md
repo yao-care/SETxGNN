@@ -134,7 +134,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en grafbaserad modell (evidensnivå L5) utan kliniska prövningar, litteratur eller någon trolig mekanism. Dessutom är samtliga svenska godkännanden indragna.
+- Förutsägelsen bygger enbart på en grafbaserad modell (evidensnivå L5) utan kliniska prövningar, litteratur eller någon trolig mekanism.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata (t.ex. från DrugBank) och gör en mekanistisk analys av sambandet med TRPS1 och hårväxtreglering.

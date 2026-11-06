@@ -121,7 +121,7 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 **För att gå vidare krävs:**
 - Större randomiserade studier med tillräcklig statistisk styrka som visar effekt på smärtepisoder och som bedömer blödningsrisken.
 - Verkningsmekanismdata och produktresumé med varningar och kontraindikationer för säkerhetsbedömning.
-- Bedömning av administreringssätt och praktisk användbarhet vid sicklecellskriser samt av marknadstillgänglighet i Sverige, eftersom båda godkännandena är indragna.
+- Bedömning av administreringssätt och praktisk användbarhet vid sicklecellskriser samt av marknadstillgänglighet i Sverige.
 - Mer data för övriga förutsagda indikationer (t.ex. reumatoid artrit och bröstcancer) innan de kan prioriteras. För dessa finns i dag endast modellförutsägelser eller prekliniska data.
 ## Ansvarsfriskrivning
 

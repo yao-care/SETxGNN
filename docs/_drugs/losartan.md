@@ -79,7 +79,7 @@ Det finns dock en viktig försiktighetsaspekt. Vid dubbelsidig njurartärstenos 
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna. Indikationstext saknas i licensdata. De fem första listas nedan.
+Indikationstext saknas i licensdata. De fem första listas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -109,7 +109,7 @@ Se produktresumén för fullständig information om varningar och försiktighets
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen består av en enda fallrapport och en djurmodellstudie, utan kliniska prövningar. Dessutom innebär risken för akut njurskada vid dubbelsidig njurartärstenos och malignt förlopp en tydlig säkerhetsfråga. Samtliga svenska godkännanden är dessutom indragna.
+- Evidensen består av en enda fallrapport och en djurmodellstudie, utan kliniska prövningar. Dessutom innebär risken för akut njurskada vid dubbelsidig njurartärstenos och malignt förlopp en tydlig säkerhetsfråga.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé med varningar och kontraindikationer från MPA för säkerhetsgranskning.

@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Alla åtta godkännanden är indragna och inget läkemedel är för närvarande marknadsfört. Ingen indikationstext finns registrerad.
+Ingen indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -91,8 +91,6 @@ Alla åtta godkännanden är indragna och inget läkemedel är för närvarande 
 | 45289 | Oxybutynin Accord | Tablett | Ej angiven |
 | 62352 | Oxybutynin Mylan | Tablett | Ej angiven |
 | 55089 | Oxybutynin Unimedic | Intravesikal lösning | Ej angiven |
-
-Ytterligare tre indragna godkännanden finns (Ditropan, Vesoxx och Velarmediq).
 
 ---
 
@@ -110,7 +108,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Trots mycket hög modellpoäng finns inga kliniska prövningar eller publikationer, och den mekanistiska kopplingen till restless legs syndrome är spekulativ. Dessutom är alla svenska godkännanden indragna.
+- Trots mycket hög modellpoäng finns inga kliniska prövningar eller publikationer, och den mekanistiska kopplingen till restless legs syndrome är spekulativ.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismen för oxybutynin och analysera en eventuell mekanistisk koppling till restless legs syndrome.

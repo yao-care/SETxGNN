@@ -86,7 +86,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-Alla sex godkännanden är indragna och ingen indikationstext finns registrerad.
+Ingen indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
@@ -96,7 +96,7 @@ Alla sex godkännanden är indragna och ingen indikationstext finns registrerad.
 | 66348 | Rotigotine Medical Valley | Depotplåster | Indragen |
 | 66353 | Rotigotine Medical Valley | Depotplåster | Indragen |
 
-Ytterligare ett godkännande (66351) är också indraget. Innehavare: Medical Valley Invest AB.
+Innehavare: Medical Valley Invest AB.
 
 ---
 
@@ -119,7 +119,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom uppgifter o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen har hög modellpoäng och en rimlig mekanistisk bakgrund via dopamin- och noradrenalinsystemen, men det saknas både kliniska prövningar och studier som testar rotigotin vid ADHD. Dessutom är samtliga svenska godkännanden indragna.
+- Förutsägelsen har hög modellpoäng och en rimlig mekanistisk bakgrund via dopamin- och noradrenalinsystemen, men det saknas både kliniska prövningar och studier som testar rotigotin vid ADHD.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé och säkerhetsdata (varningar och kontraindikationer) från Läkemedelsverket.

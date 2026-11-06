@@ -78,7 +78,7 @@ Det går inte att verifiera utan ytterligare data, och poängen är en beräknin
 | 18068 | Parocetan | Filmdragerad tablett | Ingen indikationstext tillgänglig |
 | 17065 | Paroxetin HEXAL | Filmdragerad tablett | Ingen indikationstext tillgänglig |
 
-Samtliga 8 godkännanden är indragna. De tre återstående är Paroxetin Teva (63831 och 63830) samt Paroxetin Hexal (Orifarm, 56763).
+De tre återstående är Paroxetin Teva (63831 och 63830) samt Paroxetin Hexal (Orifarm, 56763).
 
 ---
 
@@ -105,7 +105,7 @@ Produktresumén med varningar och kontraindikationer har inte kunnat hämtas och
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen stöds enbart av modellens poäng (evidensnivå L5). Det finns varken kliniska prövningar, litteratur eller något tydligt mekanistiskt samband, och alla svenska godkännanden är indragna.
+- Förutsägelsen stöds enbart av modellens poäng (evidensnivå L5). Det finns varken kliniska prövningar, litteratur eller något tydligt mekanistiskt samband.
 
 **För att gå vidare krävs:**
 - Verkningsmekanismdata för paroxetin, som kan hämtas från DrugBank.

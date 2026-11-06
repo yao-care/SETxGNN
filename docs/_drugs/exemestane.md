@@ -92,7 +92,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-Samtliga sju godkännanden är indragna. Ingen indikationstext finns registrerad.
+Ingen indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----------|-----------|
@@ -133,7 +133,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelserna bygger i huvudsak på grafbaserad modellering. Den enda litteraturen (amenorré) beskriver en läkemedelseffekt och inte en behandlingsmöjlighet, och mekanismen talar emot nytta. Samtliga godkännanden i Sverige är dessutom indragna.
+- Förutsägelserna bygger i huvudsak på grafbaserad modellering. Den enda litteraturen (amenorré) beskriver en läkemedelseffekt och inte en behandlingsmöjlighet, och mekanismen talar emot nytta.
 
 **För att gå vidare krävs:**
 - Att verkningsmekanismen hämtas från DrugBank för en fullständig mekanistisk analys.

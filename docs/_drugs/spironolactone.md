@@ -84,7 +84,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Samtliga 12 godkännanden för enkomponentsprodukter är indragna, och inget giltigt godkännande finns. Indikationstext saknas i alla poster. Nedan visas fem av dem.
+Indikationstext saknas i alla poster. Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -113,7 +113,7 @@ Varningar och kontraindikationer från produktresumén kunde inte hämtas. Se pr
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en hög modellpoäng (evidensnivå L5), utan kliniska prövningar eller publikationer. Den biologiska kopplingen är dessutom osäker, eftersom sjukdomen är ärftlig och inte primärt androgendriven. Alla svenska godkännanden är dessutom indragna.
+- Förutsägelsen bygger enbart på en hög modellpoäng (evidensnivå L5), utan kliniska prövningar eller publikationer. Den biologiska kopplingen är dessutom osäker, eftersom sjukdomen är ärftlig och inte primärt androgendriven.
 
 **För att gå vidare krävs:**
 - Hämta produktresumétexten från Läkemedelsverket (MPA) för varningar och kontraindikationer. Detta saknas och blockerar säkerhetsgranskningen.

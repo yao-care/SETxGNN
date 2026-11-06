@@ -115,11 +115,11 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varnings- o
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Evidensen är stark (L1) och mekanismen väl känd, men produkten är endast registrerad med indragna godkännanden i Sverige och produktresumén med varningar och kontraindikationer saknas i underlaget.
+- Evidensen är stark (L1) och mekanismen väl känd och produktresumén med varningar och kontraindikationer saknas i underlaget.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket för att komplettera varningar och kontraindikationer.
-- Kontrollera tillgängligheten av pantoprazolprodukter i Sverige, eftersom det enda godkännandet är indraget.
+- Kontrollera tillgängligheten av pantoprazolprodukter i Sverige.
 - Granska resultaten från den avslutade fas 3-studien (NCT02084420) samt verifiera jämförelseläkemedel och patientpopulation.
 - Bedöma kontraindikationerna från kunskapsgrafen (särskilt osteoporos och perniciös anemi) mot patientgruppen.
 ## Ansvarsfriskrivning

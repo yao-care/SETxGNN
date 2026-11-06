@@ -76,7 +76,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-Samtliga godkännanden är avregistrerade. Ingen godkänd indikationstext finns registrerad. De fem första godkännandena:
+Ingen godkänd indikationstext finns registrerad. De fem första godkännandena:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -86,7 +86,7 @@ Samtliga godkännanden är avregistrerade. Ingen godkänd indikationstext finns 
 | 8675 | Bactrim | Tablett | Uppgift saknas |
 | 9259 | Bactrim forte | Tablett | Uppgift saknas |
 
-Övriga fyra avregistrerade godkännanden: Eusaprim (infusionskoncentrat), Eusaprim forte (tablett), Zomylac (infusionskoncentrat) och Bactrim (oral suspension). Tillgängliga beredningsformer har varit orala (tablett, suspension) och injicerbara. Någon ögonberedning finns inte bland de svenska godkännandena.
+Tillgängliga beredningsformer har varit orala (tablett, suspension) och injicerbara. Någon ögonberedning finns inte bland de svenska godkännandena.
 
 ---
 
@@ -107,7 +107,7 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen är enbart modellbaserad (L5) utan stödjande studier, och den antibakteriella mekanismen passar dåligt med en sjukdom som ofta är virusorsakad eller inflammatorisk. Dessutom har alla svenska godkännanden avregistrerats och inga ögonberedningar finns på marknaden.
+- Förutsägelsen är enbart modellbaserad (L5) utan stödjande studier, och den antibakteriella mekanismen passar dåligt med en sjukdom som ofta är virusorsakad eller inflammatorisk.
 
 **För att gå vidare krävs:**
 - Litteratursökning och kliniska data specifika för punktformad epitelial keratokonjunktivit och trimetoprim.

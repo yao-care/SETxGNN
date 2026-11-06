@@ -86,7 +86,6 @@ Publikationen hör till den förutsagda indikationen "alopecia" (rank 4), inte t
 
 ### Marknadsinformation Sverige
 
-
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 19534 | Moxonidin STADA | Filmdragerad tablett | Uppgift saknas |
@@ -94,8 +93,6 @@ Publikationen hör till den förutsagda indikationen "alopecia" (rank 4), inte t
 | 64915 | Moxonidin Bijon | Filmdragerad tablett | Uppgift saknas |
 | 13110 | Physiotens | Filmdragerad tablett | Uppgift saknas |
 | 13112 | Physiotens | Filmdragerad tablett | Uppgift saknas |
-
-Ytterligare tre indragna godkännanden finns (totalt 8): 19532 (Moxonidin STADA) samt 24089 och 24087 (Moxonidin Actavis).
 
 ---
 
@@ -112,7 +109,7 @@ Se produktresumén för information om varningar och kontraindikationer, efterso
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen stöds enbart av en modellpoäng (evidensnivå L5). Det finns inga kliniska prövningar, ingen relevant litteratur och ingen plausibel mekanism kopplad till hårfollikelbiologi. Dessutom är alla svenska godkännanden indragna.
+- Förutsägelsen stöds enbart av en modellpoäng (evidensnivå L5). Det finns inga kliniska prövningar, ingen relevant litteratur och ingen plausibel mekanism kopplad till hårfollikelbiologi.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé (varningar och kontraindikationer) från Läkemedelsverket, eftersom säkerhetsscreening inte kan genomföras utan dessa uppgifter.

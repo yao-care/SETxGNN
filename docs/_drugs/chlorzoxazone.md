@@ -88,8 +88,6 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla tre godkännanden är indragna. Ingen produkt är för närvarande marknadsförd.
-
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 58677 | Klorzoxazon Evolan | Tablett | Ej angiven |
@@ -115,7 +113,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Beslut: Avvakta**
 
 **Motivering:**
-- Trots en mycket hög modellpoäng (99,7 %) finns inga kliniska prövningar och ingen litteratur som direkt visar effekt av klorzoxazon vid migrän (evidensnivå L5). Dessutom är alla svenska godkännanden indragna, och varnings- och kontraindikationsdata från produktresumén saknas.
+- Trots en mycket hög modellpoäng (99,7 %) finns inga kliniska prövningar och ingen litteratur som direkt visar effekt av klorzoxazon vid migrän (evidensnivå L5). Varnings- och kontraindikationsdata från produktresumén saknas.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket (MPA) för varningar, kontraindikationer och ursprunglig indikation.

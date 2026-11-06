@@ -83,7 +83,7 @@ Den höga poängen kommer från TxGNN-modellen (djupinlärning) och kan spegla l
 
 ### Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation. Inga varningar, kontraindikationer eller läkemedelsinteraktioner fanns tillgängliga i de sammanställda uppgifterna, och det enda godkännandet är återkallat.
+Se produktresumén för säkerhetsinformation. Inga varningar, kontraindikationer eller läkemedelsinteraktioner fanns tillgängliga i de sammanställda uppgifterna.
 
 ---
 
@@ -92,7 +92,7 @@ Se produktresumén för säkerhetsinformation. Inga varningar, kontraindikatione
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelserna saknar både biologisk motivering och stöd från kliniska prövningar eller publikationer (evidensnivå L5). Dessutom saknas säkerhetsdata och uppgifter om verkningsmekanism, och det svenska godkännandet är återkallat.
+- Förutsägelserna saknar både biologisk motivering och stöd från kliniska prövningar eller publikationer (evidensnivå L5). Dessutom saknas säkerhetsdata och uppgifter om verkningsmekanism.
 
 **För att gå vidare krävs:**
 - Verkningsmekanism och ursprunglig indikation för lenograstim behöver hämtas, till exempel från DrugBank.

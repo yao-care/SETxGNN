@@ -70,7 +70,7 @@ Mekanistiskt är dock stödet svagt. Levodopa har ingen känd antiinflammatorisk
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna och ingen indikationstext finns registrerad. Nedan visas fem av dem.
+Ingen indikationstext finns registrerad. Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -100,7 +100,6 @@ Varningar och kontraindikationer ur produktresumén saknas. Se produktresumén f
 
 **Motivering:**
 - Dessutom saknas ett rimligt mekanistiskt samband, och epilepsi finns bland kontraindikationerna i kunskapsgrafen.
-- Alla svenska godkännanden är indragna, vilket försvårar en snabb klinisk användning.
 
 **För att gå vidare krävs:**
 - Hämta produktresumén från Läkemedelsverket (MPA) för att få varningar och kontraindikationer, vilket för närvarande blockerar säkerhetsgranskningen.

@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är avregistrerade och inget är giltigt idag. Indikationstext finns inte registrerad för något av dem. Nedan visas fem av godkännandena.
+Indikationstext finns inte registrerad för något av dem. Nedan visas fem av godkännandena.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|

@@ -88,7 +88,7 @@ Tikagrelor påverkas dessutom inte av CYP2C19-förlustvarianter, till skillnad f
 
 ### Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är avregistrerade och inga har någon registrerad indikationstext. Nedan visas fem av dem.
+Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

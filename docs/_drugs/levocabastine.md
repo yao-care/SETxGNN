@@ -108,7 +108,7 @@ Se i övrigt produktresumén för varningar och kontraindikationer.
 
 **Motivering:**
 - Den höga modellpoängen stöds inte av direkt evidens. Det finns inga kliniska prövningar, ingen litteratur om urtikaria och endast indirekta data från allergisk rinit.
-- Dessutom är alla svenska godkännanden indragna, och de lokala beredningarna har låg systemisk exponering, vilket gör användning vid urtikaria praktiskt osäker.
+- De lokala beredningarna har låg systemisk exponering, vilket gör användning vid urtikaria praktiskt osäker.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket för varningar och kontraindikationer, vilket är ett blockerande datagap för säkerhetsbedömningen.

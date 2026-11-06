@@ -90,7 +90,7 @@ En översikt från 2026 om QT-förlängning vid antiemetika ([42748473](https://
 | 52849 | FERANT | Injektionsvätska, lösning | Indragen |
 | 52834 | Palonosetron STADA | Injektionsvätska, lösning | Indragen |
 
-Ytterligare ett godkännande (52850, Palonosetron Macure) finns, också indraget. Inga indikationstexter finns registrerade.
+Inga indikationstexter finns registrerade.
 
 ---
 
@@ -112,7 +112,7 @@ För varningar och kontraindikationer, se produktresumén.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den höga modellpoängen stöds inte av någon klinisk prövning, och den enda relevanta litteraturen visar att palonosetron kan framkalla migränliknande huvudvärk. Dessutom är alla svenska godkännanden indragna.
+- Den höga modellpoängen stöds inte av någon klinisk prövning, och den enda relevanta litteraturen visar att palonosetron kan framkalla migränliknande huvudvärk.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé med varningar och kontraindikationer (blockerande dataluckor för säkerhetsgranskning).

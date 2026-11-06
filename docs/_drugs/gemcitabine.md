@@ -100,7 +100,6 @@ Ytterligare prövningar finns i datan, bland annat gemcitabin med genistein (NCT
 | 49702 | Gemkabi | Koncentrat till infusionsvätska, lösning | Indikationstext saknas |
 | 45507 | Gemcitabine Accord | Koncentrat till infusionsvätska, lösning | Indikationstext saknas |
 
-
 ---
 
 ## Cytotoxicitet
@@ -142,7 +141,7 @@ Uppgifter från produktresumé om varningar och kontraindikationer saknas i den 
 
 **Motivering:**
 - Det finns direkt klinisk evidens för gemcitabin vid bröstcancer, bland annat en avslutad fas 3-RCT och flera fas 2-studier. Gemcitabin plus paklitaxel är redan en etablerad regim, så detta är mer en bekräftelse än en ny återanvändning.
-- Den centrala säkerhetsinformationen från produktresumén saknas, ingen litteratur är kopplad till indikationen, och alla svenska godkännanden är indragna, vilket begränsar bedömningen.
+- Den centrala säkerhetsinformationen från produktresumén saknas, ingen litteratur är kopplad till indikationen.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket.

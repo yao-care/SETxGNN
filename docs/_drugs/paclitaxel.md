@@ -110,7 +110,7 @@ Litteraturen för denna indikation består huvudsakligen av översikter, mindre 
 
 ## Marknadsinformation Sverige
 
-Marknadsstatus: samtliga 7 godkännanden är indragna. Indikationstext saknas i de svenska uppgifterna.
+Indikationstext saknas i de svenska uppgifterna.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -119,8 +119,6 @@ Marknadsstatus: samtliga 7 godkännanden är indragna. Indikationstext saknas i 
 | 27782 | Paclitaxel Accord | Koncentrat till infusionsvätska, lösning | Uppgift saknas |
 | 26642 | Paclitaxel Fresenius Kabi | Koncentrat till infusionsvätska, lösning | Uppgift saknas |
 | 24299 | Pacligen | Koncentrat till infusionsvätska, lösning | Uppgift saknas |
-
-Ytterligare två indragna godkännanden finns (Bugvi, 62593, och Apacross, 66471; båda pulver till infusionsvätska, dispersion).
 
 ---
 
@@ -154,12 +152,11 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Evidensen för paklitaxel vid bröstcancer är mycket stark (L1), men detta är etablerad standardbehandling och inget nytt återanvändningsfall. Samtliga svenska godkännanden är indragna, och säkerhetsdata från produktresumén saknas i underlaget.
+- Evidensen för paklitaxel vid bröstcancer är mycket stark (L1), men detta är etablerad standardbehandling och inget nytt återanvändningsfall. Säkerhetsdata från produktresumén saknas i underlaget.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén för varningar och kontraindikationer (uppgifterna saknas i underlaget).
 - Hämta data om verkningsmekanismen från DrugBank.
-- Klargöra varför de svenska godkännandena är indragna och om något produkt (t.ex. nab-paklitaxel) kan återinföras.
 - Bekräfta godkänd indikationstext i Sverige.
 - Utvärdera vilka bröstcancerundergrupper (trippelnegativ, ER-positiv, HER2-positiv) som har tillräckligt stöd, eftersom evidensen varierar. Mer specifika undergrupper som bilateral bröstcancer och bröstvårtscancer stöds endast av fallrapporter.
 ## Ansvarsfriskrivning

@@ -95,7 +95,7 @@ Publikationerna nedan gäller allmänna anfallspopulationer och inte visuell epi
 
 ## Marknadsinformation Sverige
 
-Av de 20 godkännandena är samtliga avregistrerade, och inget är giltigt för närvarande. Fem av dem visas här. Indikationstext saknas i de svenska godkännandena.
+Fem av dem visas här. Indikationstext saknas i de svenska godkännandena.
 
 | Godkännandenummer | Produktnamn | Beredningsform |
 |---------|------|------|
@@ -120,7 +120,7 @@ Av de 20 godkännandena är samtliga avregistrerade, och inget är giltigt för 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för visuell epilepsi bygger på en hög modellpoäng och ett rimligt mekanistiskt resonemang. Det saknas både kliniska prövningar och litteratur som specifikt gäller indikationen, och samtliga svenska godkännanden är avregistrerade.
+- Förutsägelsen för visuell epilepsi bygger på en hög modellpoäng och ett rimligt mekanistiskt resonemang. Det saknas både kliniska prövningar och litteratur som specifikt gäller indikationen.
 
 **För att gå vidare krävs:**
 - Litteratursökning eller studier specifikt om levetiracetam vid fotosensitiv och visuell reflexepilepsi.

@@ -132,7 +132,7 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den höga modellpoängen stöds inte av tillräcklig klinisk evidens vid bröstcancer. De kliniska prövningarna är tidiga, avslutade i förtid eller indirekta, och den enda enskilda fas 2-studien med enbart topotecan visade ingen ökad effekt. Dessutom är båda svenska godkännandena avregistrerade, och säkerhetsunderlaget från produktresumén saknas.
+- Den höga modellpoängen stöds inte av tillräcklig klinisk evidens vid bröstcancer. De kliniska prövningarna är tidiga, avslutade i förtid eller indirekta, och den enda enskilda fas 2-studien med enbart topotecan visade ingen ökad effekt. Säkerhetsunderlaget från produktresumén saknas.
 
 **För att gå vidare krävs:**
 - Säkerhetsinformation (varningar och kontraindikationer) från produktresumén, vilket för närvarande hindrar säkerhetsgranskningen.

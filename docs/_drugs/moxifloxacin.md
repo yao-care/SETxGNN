@@ -84,7 +84,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga 12 godkännanden är avregistrerade, och inget giltigt godkännande finns i dagsläget. Indikationstext saknas i de sammanställda godkännandeuppgifterna. Fem av godkännandena visas nedan.
+Indikationstext saknas i de sammanställda godkännandeuppgifterna. Fem av godkännandena visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|------|------|
@@ -124,7 +124,7 @@ Bland de måttliga interaktionerna finns bland annat metformin, pioglitazon, ace
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en grafmodell. Det finns inga kliniska prövningar, ingen litteratur och ingen känd verkningsmekanism som kopplar moxifloxacin till polyklonalt hyperviskositetssyndrom. Dessutom är samtliga svenska godkännanden avregistrerade.
+- Förutsägelsen bygger enbart på en grafmodell. Det finns inga kliniska prövningar, ingen litteratur och ingen känd verkningsmekanism som kopplar moxifloxacin till polyklonalt hyperviskositetssyndrom.
 
 **För att gå vidare krävs:**
 - Ett biologiskt resonemang eller prekliniska data som visar att moxifloxacin kan påverka blodviskositet eller immunglobulinnivåer

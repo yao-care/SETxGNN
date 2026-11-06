@@ -80,7 +80,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Alla fyra godkännanden är indragna, och ingen produkt är för närvarande marknadsförd som enskilt godkänt läkemedel. Indikationstext saknas för samtliga godkännanden i underlaget.
+Indikationstext saknas för samtliga godkännanden i underlaget.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----------|------|
@@ -106,12 +106,11 @@ För varningar och kontraindikationer enligt godkänd produktinformation, se pro
 
 **Motivering:**
 - Förutsägelsen för akut urinsyranefropati bygger enbart på modellen (evidensnivå L5). Det finns inga prövningar, ingen litteratur och ingen känd mekanism som kopplar laktulos till urinsyrahantering eller tumörlysis.
-- Samtliga svenska godkännanden är indragna och säkerhetsunderlaget är ofullständigt.
 
 **För att gå vidare krävs:**
 - Prekliniska studier eller mekanismdata som visar att laktulos påverkar urinsyranivåer eller njurskada vid tumörlysis.
 - Fullständig verkningsmekanism och godkänd produktinformation (varningar, kontraindikationer) för säkerhetsbedömning.
-- En förnyad genomgång av marknadsstatus, eftersom inga produkter för närvarande är godkända i Sverige.
+- En förnyad genomgång av marknadsstatus.
 - Prioritering av andra förutsägelser för laktulos med bättre stöd. Resultaten är dock blandade och mestadels äldre.
 ## Ansvarsfriskrivning
 

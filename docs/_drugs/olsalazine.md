@@ -116,7 +116,7 @@ Se i övrigt produktresumén för varningar och kontraindikationer.
 
 **Motivering:**
 - Förutsägelsen bygger enbart på en modell (L5) utan stödjande prövningar eller litteratur, och läkemedlets systemiska exponering är låg. Risken för benmärgstoxicitet talar dessutom emot användning vid MDS.
-- Båda svenska godkännandena är avregistrerade, och den ursprungliga indikationen samt varningar och kontraindikationer saknas i underlaget.
+- Den ursprungliga indikationen samt varningar och kontraindikationer saknas i underlaget.
 
 **För att gå vidare krävs:**
 - Bekräfta ursprunglig indikation, verkningsmekanism, varningar och kontraindikationer från produktresumén och DrugBank.

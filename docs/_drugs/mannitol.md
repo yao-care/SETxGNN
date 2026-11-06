@@ -82,7 +82,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga fyra godkännanden är återkallade, och ingen produkt med mannitol har för närvarande giltigt godkännande i de data som sammanställts. Indikationstext saknas för alla fyra.
+Indikationstext saknas för alla fyra.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|

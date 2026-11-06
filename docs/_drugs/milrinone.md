@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Båda godkännandena är avregistrerade. Ingen indikationstext finns angiven i godkännandedata.
+Ingen indikationstext finns angiven i godkännandedata.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

@@ -112,7 +112,7 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen består enbart av prekliniska studier (L4) och inga kliniska prövningar finns. SIV är dessutom en djurmodell för hiv, och raltegravir är redan godkänt för den humana motsvarigheten, så förutsägelsen ger inget nytt humant användningsområde. Det enda svenska godkännandet är återkallat.
+- Evidensen består enbart av prekliniska studier (L4) och inga kliniska prövningar finns. SIV är dessutom en djurmodell för hiv, och raltegravir är redan godkänt för den humana motsvarigheten, så förutsägelsen ger inget nytt humant användningsområde.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket, eftersom säkerhetsgenomgången inte kan genomföras utan den.

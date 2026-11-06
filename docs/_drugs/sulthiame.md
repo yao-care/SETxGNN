@@ -89,7 +89,7 @@ Se produktresumén för säkerhetsinformation. Inga varningar, kontraindikatione
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på modellpoäng (evidensnivå L5) utan stöd från kliniska prövningar eller litteratur, och något mekanistiskt samband är inte känt. Dessutom är det enda svenska godkännandet återkallat, och säkerhetsunderlaget saknas.
+- Förutsägelsen bygger enbart på modellpoäng (evidensnivå L5) utan stöd från kliniska prövningar eller litteratur, och något mekanistiskt samband är inte känt.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén från Läkemedelsverket (MPA) för varningar, kontraindikationer och den ursprungliga indikationen.
@@ -97,7 +97,7 @@ Se produktresumén för säkerhetsinformation. Inga varningar, kontraindikatione
 - Göra en strukturerad litteratur- och prövningssökning för sulthiame vid cauda equina-syndrom och de andra föreslagna tillstånden.
 - Bedöma om en mekanistisk koppling är biologiskt rimlig innan någon preklinisk eller klinisk utvärdering övervägs.
 - Överväga de övriga förutsagda indikationerna, särskilt de med tydligare funktionell koppling, som irritabel tarm, om cauda equina-syndrom visar sig sakna stöd.
-- Utreda läkemedlets tillgänglighet och beredningsform i Sverige, eftersom godkännandet är återkallat.
+- Utreda läkemedlets tillgänglighet och beredningsform i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

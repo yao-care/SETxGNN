@@ -111,7 +111,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den enda stödjande publikationen är en liten explorativ rapport från 2003 utan verifierad design eller resultat, och inga kliniska prövningar finns. Samtliga svenska godkännanden är dessutom indragna, och säkerhetsunderlaget från produktinformationen saknas.
+- Den enda stödjande publikationen är en liten explorativ rapport från 2003 utan verifierad design eller resultat, och inga kliniska prövningar finns. Säkerhetsunderlaget från produktinformationen saknas.
 
 **För att gå vidare krävs:**
 - Granskning av fulltexten till PMID 12716241 för att bedöma studiedesign, storlek och resultat
@@ -119,7 +119,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 - Hämtning och genomgång av produktresumé med varningar och kontraindikationer (blockerande dataluckor)
 - Hämtning av verkningsmekanismdata från DrugBank
 - Utvärdering av administreringsväg, eftersom fosfenytoin ges intravenöst eller intramuskulärt och därför är mindre lämpat för långtidsbehandling
-- Bedömning av läkemedlets nuvarande tillgänglighet i Sverige, då inget godkännande är giltigt
+- Bedömning av läkemedlets nuvarande tillgänglighet i Sverige
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

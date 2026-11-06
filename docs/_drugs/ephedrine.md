@@ -85,7 +85,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 16 godkännanden är indragna. Ingen godkänd indikationstext finns registrerad. De fem första visas nedan.
+Ingen godkänd indikationstext finns registrerad. De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -118,7 +118,7 @@ Alla 16 godkännanden är indragna. Ingen godkänd indikationstext finns registr
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den förutsagda indikationen överlappar i hög grad med redan kända användningsområden och stöds endast av två äldre, lågkvalitativa studier utan möjlighet att isolera efedrins effekt. Samtliga svenska godkännanden är dessutom indragna, och säkerhetsunderlaget från produktresumé saknas.
+- Den förutsagda indikationen överlappar i hög grad med redan kända användningsområden och stöds endast av två äldre, lågkvalitativa studier utan möjlighet att isolera efedrins effekt. Säkerhetsunderlaget från produktresumé saknas.
 
 **För att gå vidare krävs:**
 - Produktresumé från Läkemedelsverket (MPA) med varningar och kontraindikationer, så att säkerhetsgranskning kan genomföras

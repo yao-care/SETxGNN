@@ -127,7 +127,7 @@ Produktresumé med varningar och kontraindikationer har inte kunnat hämtas. Se 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Det enda underlaget gäller hidradenitis suppurativa och inte akne vulgaris, och det består av en fas 4-prövning utan känt resultat, riktlinjer, översikter och en fallrapport. Läkemedlets fosterskadande effekt och övriga säkerhetsrisker, samt att alla svenska godkännanden är indragna, talar för försiktighet.
+- Det enda underlaget gäller hidradenitis suppurativa och inte akne vulgaris, och det består av en fas 4-prövning utan känt resultat, riktlinjer, översikter och en fallrapport.
 
 **För att gå vidare krävs:**
 - Klargöra om indikationen avser akne vulgaris eller hidradenitis suppurativa (acne inversa).

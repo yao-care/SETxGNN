@@ -97,7 +97,7 @@ I klinisk praxis har propofol i låg dos prövats som räddningsbehandling vid s
 
 ### Marknadsinformation Sverige
 
-Alla 11 godkännanden är indragna och inga produkter är för närvarande aktiva. Indikationstext saknas i underlaget.
+Indikationstext saknas i underlaget.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

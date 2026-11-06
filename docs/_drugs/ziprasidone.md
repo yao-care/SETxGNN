@@ -111,7 +111,7 @@ Flera atypiska antipsykotika är redan godkända som tillägg till antidepressiv
 | 44777 | Ziprasidon Actavis | Kapsel, hård | Ej angiven (godkänd) |
 | 44776 | Ziprasidon Actavis | Kapsel, hård | Ej angiven (godkänd) |
 
-Totalt 8 godkännanden, samtliga avregistrerade. Utöver ovan ingår Ziprasidon Ebb (61783, 61782) och Ziprasidon 2care4 (62120).
+Utöver ovan ingår Ziprasidon Ebb (61783, 61782) och Ziprasidon 2care4 (62120).
 
 ---
 

@@ -81,7 +81,7 @@ Ingen av publikationerna ger direkt stöd för den förutsagda indikationen.
 
 ### Marknadsinformation Sverige
 
-Samtliga 7 godkännanden är avregistrerade och inget är giltigt. De fem första visas nedan.
+De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|

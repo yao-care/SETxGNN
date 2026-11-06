@@ -101,7 +101,6 @@ Mekanistiskt är därför överföringen rimlig. Sambandet är dock indirekt: de
 
 ### Marknadsinformation Sverige
 
-
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 51905 | Pemetrexed STADA | Koncentrat till infusionsvätska, lösning | Indikationstext saknas |
@@ -144,7 +143,6 @@ Uppgifter om varningar och kontraindikationer från produktresumén ingår inte 
 
 **Motivering:**
 - Pemetrexed har stöd för peritonealt mesoteliom genom avslutade och pågående fas 2-studier samt flera retrospektiva serier, och mekanismen är rimlig utifrån pleuramesoteliom. Evidensen är dock inte specifik nog för en starkare rekommendation: randomiserade studier saknar resultat eller är små, och inga avslutade fas 3-studier finns för peritonealt mesoteliom.
-- De svenska godkännandena är alla avregistrerade och säkerhetsdata från produktresumén saknas.
 
 **För att gå vidare krävs:**
 - Resultat från pågående randomiserade fas 2-studier (till exempel NCT05001880 och NCT06057935).

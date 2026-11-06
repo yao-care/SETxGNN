@@ -126,7 +126,7 @@ Information från produktresumén (varningar och kontraindikationer) saknas i un
 - Komplettera med verkningsmekanismdata från DrugBank.
 - Identifiera eller genomföra kontrollerade studier av fenylefrin ensamt vid den aktuella näsindikationen, skilt från kombinationsprodukter.
 - Klargöra om indikationen innebär verklig nyhet jämfört med de befintliga indikationerna (rinit, nasofaryngit).
-- Utvärdera beredningsform och administrationsväg (t.ex. nasal beredning), eftersom inga nasala produkter finns bland de avregistrerade godkännandena.
+- Utvärdera beredningsform och administrationsväg (t.ex. nasal beredning).
 
 ---
 

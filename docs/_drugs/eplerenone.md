@@ -93,7 +93,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-Samtliga 18 godkännanden är indragna, och inget giltigt godkännande finns för närvarande. Indikationstext saknas i data. De fem första godkännandena:
+Indikationstext saknas i data. De fem första godkännandena:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -133,7 +133,6 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom uppgifter o
 - Systematisk genomgång av litteratur om MR-antagonister vid pulmonell hypertoni av lungsjukdom/hypoxi hos människa.
 - Förklinisk eller tidig klinisk studie med lungartärtryck och lungkärlsombyggnad som mått.
 - Bedömning av hyperkalemi- och njurrisk i målpopulationen.
-- Klargöra marknadsstatus, eftersom alla godkännanden i Sverige är indragna.
 
 ---
 

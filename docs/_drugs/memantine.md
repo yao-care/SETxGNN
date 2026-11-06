@@ -40,7 +40,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 
 ### Sammanfattning
 
-Memantin är en NMDA-receptorantagonist med flera godkännanden i Sverige. Samtliga är numera avregistrerade, och den ursprungliga indikationstexten finns inte i de data som sammanställts för rapporten. Underlaget består av **1 avslutad fas 3-prövning** och **20 publikationer**, bland dem en metaanalys av randomiserade studier och flera systematiska översikter.
+Memantin är en NMDA-receptorantagonist med flera godkännanden i Sverige. Den ursprungliga indikationstexten finns inte i de data som sammanställts för rapporten. Underlaget består av **1 avslutad fas 3-prövning** och **20 publikationer**, bland dem en metaanalys av randomiserade studier och flera systematiska översikter.
 
 ---
 
@@ -134,7 +134,7 @@ Varnings- och kontraindikationstext från produktresumén saknas i de sammanstä
 - Resultat från NCT04698525 samt granskning av metaanalysen (PMID 33961371) och den systematiska översikten (PMID 34352118).
 - Större placebokontrollerade fas 3-studier vid migrän, gärna fler än en.
 - Hämta varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA), samt verkningsmekanism från DrugBank.
-- Klargöra regulatorisk väg, eftersom inga produkter för närvarande är godkända i Sverige.
+- Klargöra regulatorisk väg.
 - Utreda separat om pulmonell hypertension (högst TxGNN-poäng) alls har stöd: det nuvarande underlaget gäller ett annat ämne (MN-08, ett nitratderivat av memantin) och prekliniska data.
 ## Ansvarsfriskrivning
 

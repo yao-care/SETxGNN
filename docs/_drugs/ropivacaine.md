@@ -89,7 +89,7 @@ Det kliniska resultatet verkar dock bero på vilken teknik och vilken plats som 
 
 ### Marknadsinformation Sverige
 
-Alla sju godkännanden är indragna och ingen indikationstext finns registrerad.
+Ingen indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -127,7 +127,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 - Hämta och granska produktresumé för varningar och kontraindikationer (blockerande dataglapp).
 - Komplettera verkningsmekanismdata från DrugBank.
 - Större randomiserade, kontrollerade studier med tydlig migrändiagnos, definierad blockadteknik och patientrelevanta utfall.
-- Klargöra regulatorisk väg, eftersom alla svenska godkännanden är indragna och användningen sker via nervblockad snarare än systemisk behandling.
+- Klargöra regulatorisk väg.
 - Övriga förutsagda indikationer (migrän med hjärnstammsaura, nefrogent syndrom med olämplig antidiures och dystymi) saknar studier och en rimlig mekanism, och bör inte prioriteras.
 ## Ansvarsfriskrivning
 

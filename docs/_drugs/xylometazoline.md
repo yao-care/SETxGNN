@@ -89,7 +89,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är avregistrerade. Ingen indikationstext finns registrerad. De fem första visas nedan.
+Ingen indikationstext finns registrerad. De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|

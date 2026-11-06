@@ -77,8 +77,6 @@ Bland övriga förutsägelser finns **hypoalfalipoproteinemi** (låg HDL-nivå),
 | 44938 | Raloxifen STADA | Filmdragerad tablett | Godkänd |
 | 59656 | Raloxifen Ebb | Filmdragerad tablett | Godkänd |
 
-Båda godkännandena är för oral användning och avregistrerade, så läkemedlet har för närvarande inget giltigt godkännande i Sverige.
-
 ---
 
 ## Säkerhetsaspekter
@@ -113,14 +111,14 @@ Se produktresumén för fullständiga varningar och försiktighetsåtgärder.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för duodenalsår bygger enbart på en modellberäkning (evidensnivå L5), utan kliniska prövningar eller litteratur, och ett rimligt mekanistiskt samband saknas. Dessutom är samtliga svenska godkännanden avregistrerade och säkerhetsprofilen innehåller betydande tromboembolisk och kardiovaskulär risk.
+- Förutsägelsen för duodenalsår bygger enbart på en modellberäkning (evidensnivå L5), utan kliniska prövningar eller litteratur, och ett rimligt mekanistiskt samband saknas.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata (till exempel från DrugBank) och analysera eventuella mekanistiska kopplingar till duodenalsår.
 - Hämta och granska produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer, vilket är ett blockerande datagap.
 - Göra en systematisk litteratur- och prövningssökning för raloxifen vid duodenalsår och andra magtarmsjukdomar.
 - Överväga prekliniska studier om en biologisk hypotes kan formuleras.
-- Klargöra regulatorisk väg, eftersom inget giltigt godkännande finns i Sverige.
+- Klargöra regulatorisk väg.
 - Bedöma de övriga förutsägelserna (till exempel hypoalfalipoproteinemi) separat, om en lipidrelaterad hypotes ska prioriteras.
 ## Ansvarsfriskrivning
 

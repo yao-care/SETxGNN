@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 12 godkännanden är indragna, och ingen produkt med telmisartan som enda substans är för närvarande giltig. Indikationstext saknas för samtliga godkännanden. Nedan visas fem av dem.
+Indikationstext saknas för samtliga godkännanden. Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
 |---------|------|------|-----------|

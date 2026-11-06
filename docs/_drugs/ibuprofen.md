@@ -70,7 +70,7 @@ Sammantaget går det inte att visa något direkt mekanistiskt samband. Den höga
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna. Ingen indikationstext finns tillgänglig. Nedan visas fem av dem.
+Ingen indikationstext finns tillgänglig. Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -96,7 +96,7 @@ Se i övrigt produktresumén för fullständig säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en modellpoäng utan stöd av kliniska prövningar eller litteratur (L5), och ett mekanistiskt samband saknas. Dessutom är alla svenska godkännanden indragna.
+- Förutsägelsen bygger enbart på en modellpoäng utan stöd av kliniska prövningar eller litteratur (L5), och ett mekanistiskt samband saknas.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé med varningar och kontraindikationer, eftersom säkerhetsunderlaget i dag saknas (blockerande datalucka).

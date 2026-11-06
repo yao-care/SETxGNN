@@ -40,7 +40,7 @@ Evidensnivå: **L4** | Förutsagda indikationer: **2** st
 
 ## Sammanfattning
 
-Polymyxin B har i Sverige marknadsförts som en del av kombinationsprodukten Terracortril med Polymyxin B (ögon-/örondroppar och ögon-/öronsalva). Produkterna är numera avregistrerade, och den godkända indikationstexten finns inte angiven.
+Polymyxin B har i Sverige marknadsförts som en del av kombinationsprodukten Terracortril med Polymyxin B (ögon-/örondroppar och ögon-/öronsalva). Den godkända indikationstexten finns inte angiven.
 TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **bronkit**, med ett mycket högt förutsägelsepoäng (0,9987). Det finns dock **inga registrerade kliniska prövningar** och bara indirekt litteratur: en liten fallserie och en jämförande studie om ventilatorassocierad pneumoni. Litteraturen visar dessutom att inhalerat polymyxin B kan verka irriterande på luftvägarna.
 
 ---
@@ -102,8 +102,6 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 | 7331 | Terracortril med Polymyxin B | Ögon-/örondroppar, suspension | Ej angiven |
 | 7332 | Terracortril med Polymyxin B | Ögon-/öronsalva | Ej angiven |
 
-Samtliga sex godkännanden är indragna. Ytterligare ett godkännande (56723) finns, också indraget.
-
 ---
 
 ## Säkerhetsaspekter
@@ -134,7 +132,6 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 **Motivering:**
 - Det höga modellpoängen stöds inte av direkt evidens. Det saknas kliniska prövningar, litteraturen är indirekt och till stor del gammal, och inhalerat polymyxin B kan irritera luftvägarna och utlösa bronkkonstriktion.
-- Alla svenska godkännanden är dessutom indragna.
 
 **För att gå vidare krävs:**
 - Kontrollerade kliniska studier eller välgjorda observationsstudier som specifikt undersöker polymyxin B vid bakteriell bronkit/trakeobronkit.

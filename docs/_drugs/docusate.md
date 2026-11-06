@@ -95,7 +95,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på modellens poäng (evidensnivå L5). Inga kliniska prövningar eller publikationer finns, ingen mekanistisk koppling är etablerad, och båda svenska godkännandena är indragna. Dokusat har ingen känd effekt på järnbrist eller membran i matstrupen.
+- Förutsägelsen bygger enbart på modellens poäng (evidensnivå L5). Inga kliniska prövningar eller publikationer finns, ingen mekanistisk koppling är etablerad. Dokusat har ingen känd effekt på järnbrist eller membran i matstrupen.
 
 **För att gå vidare krävs:**
 - Detaljerad verkningsmekanism från DrugBank.

@@ -114,8 +114,6 @@ Därutöver finns en prekliniskt studie om fludarabins aktivitet mot myelom (PMI
 | 24838 | Fludarabin Ebewe | Koncentrat till injektions-/infusionsvätska, lösning | Ej angiven (indragen) |
 | 49857 | Fludarabine Accord | Koncentrat till injektions-/infusionsvätska, lösning | Ej angiven (indragen) |
 
-Alla tre godkännanden är indragna, och inget giltigt godkännande finns för närvarande.
-
 ---
 
 ### Cytotoxicitet
@@ -150,13 +148,12 @@ Flera ytterligare interaktioner (bland annat amfotericin B, cimetidin, metformin
 
 **Motivering:**
 - Evidensen för fludarabin vid myelom rör främst användning som konditionerings- och lymfocytnedbrytande komponent, inte som direkt antimyelombehandling. Ingen studie isolerar läkemedlets egen effekt.
-- Alla svenska godkännanden är indragna och säkerhetsdata från produktresumén saknas.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket.
 - Kompletterande verkningsmekanismdata från DrugBank.
 - Kontrollerade studier som jämför fludarabinbaserade regimer mot alternativ vid myelom och isolerar fludarabins bidrag.
-- Klargöra vilken fludarabinprodukt som är tillgänglig i Sverige, eftersom samtliga godkännanden är indragna.
+- Klargöra vilken fludarabinprodukt som är tillgänglig i Sverige.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

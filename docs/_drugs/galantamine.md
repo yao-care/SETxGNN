@@ -109,7 +109,7 @@ Tabellen visar litteratur för de två förutsägelser där sådan finns. Ingen 
 
 ## Marknadsinformation Sverige
 
-Alla 20 godkännanden är indragna, och inget giltigt godkännande finns för närvarande. Indikationstext finns inte i de sammanställda uppgifterna. Fem av godkännandena visas nedan.
+Indikationstext finns inte i de sammanställda uppgifterna. Fem av godkännandena visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform |
 |---------|------|------|
@@ -135,13 +135,13 @@ Alla 20 godkännanden är indragna, och inget giltigt godkännande finns för n�
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den högst rankade förutsägelsen (psykogena rörelsestörningar) saknar både kliniska prövningar, litteratur och mekanistisk motivering. Den mest rimliga riktningen, tardiv dyskinesi, har bara indirekt stöd och en möjlig säkerhetssignal åt motsatt håll. Dessutom saknar galantamin för närvarande giltiga godkännanden i Sverige.
+- Den högst rankade förutsägelsen (psykogena rörelsestörningar) saknar både kliniska prövningar, litteratur och mekanistisk motivering. Den mest rimliga riktningen, tardiv dyskinesi, har bara indirekt stöd och en möjlig säkerhetssignal åt motsatt håll.
 
 **För att gå vidare krävs:**
 - Granskning av resultaten i den randomiserade galantaminstudien vid tardiv dyskinesi (PMID 17388711) och av de Cochrane-översikternas slutsatser.
 - Utvärdering av säkerhetssignalen för rörelsestörningar vid kolinesterashämmare (PMID 40224553, 24127392).
 - Hämtning av produktresumé från Läkemedelsverket (varningar, kontraindikationer) samt verkningsmekanism från DrugBank.
-- Klargörande av regulatorisk väg, eftersom alla godkännanden är indragna.
+- Klargörande av regulatorisk väg.
 - Bedömning av beredningsformernas lämplighet (depotkapsel och oral lösning) för den aktuella indikationen.
 ## Ansvarsfriskrivning
 

@@ -42,7 +42,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **9** st
 
 ### Sammanfattning
 
-Zonisamid är ett läkemedel mot epilepsi (antiepileptikum) som i Sverige har haft ett godkännande i form av hård kapsel. Det godkännandet är nu avregistrerat. En översiktsartikel pekar snarare på att antiepileptika kan framkalla tics, så en säkerhetssignal är mer sannolik än en nytta.
+Zonisamid är ett läkemedel mot epilepsi (antiepileptikum) som i Sverige har haft ett godkännande i form av hård kapsel. En översiktsartikel pekar snarare på att antiepileptika kan framkalla tics, så en säkerhetssignal är mer sannolik än en nytta.
 
 ---
 
@@ -131,14 +131,13 @@ Produktresumé med varningar och kontraindikationer saknas i underlaget. Se prod
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen om Tourettes syndrom bygger enbart på modellen utan stöd från studier eller litteratur, och tillgängligt underlag antyder en möjlig risk för tics. Godkännandet i Sverige är dessutom avregistrerat.
+- Förutsägelsen om Tourettes syndrom bygger enbart på modellen utan stöd från studier eller litteratur, och tillgängligt underlag antyder en möjlig risk för tics.
 
 **För att gå vidare krävs:**
 - Hämta produktresumén från Läkemedelsverket för att få varningar och kontraindikationer. Utan den kan säkerhetsgranskningen inte genomföras.
 - Komplettera data om verkningsmekanismen från DrugBank.
 - Genomföra en systematisk litteratursökning om zonisamid vid Tourettes syndrom och tics, med fokus på säkerhet.
 - Om en återanvändning ändå ska utredas, prioritera absensepilepsi (L3) med kontrollerade studier jämfört med etablerad förstahandsbehandling.
-- Klargöra läkemedelsformens och administreringsvägens förutsättningar, samt om en ny registrering krävs eftersom godkännandet är avregistrerat.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

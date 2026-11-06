@@ -70,7 +70,7 @@ Det finns alltså ingen mekanistisk grund för att blockad av K-ATP-kanaler i be
 
 ### Marknadsinformation Sverige
 
-Samtliga 11 godkännanden är indragna och inget är för närvarande giltigt. Fem av dem visas nedan. Indikationstext saknas i dessa godkännanden.
+Fem av dem visas nedan. Indikationstext saknas i dessa godkännanden.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----------|-----|
@@ -105,14 +105,14 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen saknar både kliniskt och mekanistiskt stöd (evidensnivå L5). Dessutom är alla svenska godkännanden indragna, och den troliga förklaringen till den höga poängen är sambandet mellan diabetes och GAD-relaterad autoimmunitet.
+- Förutsägelsen saknar både kliniskt och mekanistiskt stöd (evidensnivå L5). Den troliga förklaringen till den höga poängen är sambandet mellan diabetes och GAD-relaterad autoimmunitet.
 
 **För att gå vidare krävs:**
 - Verkningsmekanismen från DrugBank, för att kunna analysera ett eventuellt mekanistiskt samband.
 - Varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA) för en fullständig säkerhetsbedömning.
 - Prekliniska data eller publicerade fallstudier som visar en möjlig effekt vid stiff person-syndrom.
 - Bedömning av om andra förutsägelser på listan (t.ex. tiaminresponsivt syndrom, där diabetes ingår i symtombilden) är mer relevanta än den högst rankade. Ingen av dem har dock något kliniskt stöd i nuläget.
-- Klargörande av marknadsstatus, eftersom inget giltigt godkännande för glimepirid finns i Sverige.
+- Klargörande av marknadsstatus.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

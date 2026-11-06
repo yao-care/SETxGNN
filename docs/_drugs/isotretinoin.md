@@ -62,7 +62,6 @@ Enligt den data som sammanställts för denna rapport är den ursprungliga indik
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Baserat på känd information är isotretinoin en systemisk retinoid. Någon etablerad blodtryckssänkande effekt är inte belagd, och mekanistiskt är kopplingen till malign renovaskulär hypertoni svag.
 
-
 Retinoidsignalering har studerats i prekliniska modeller av renin-angiotensinsystemet och njurfibros. Detta är dock spekulativt och utgör inget belägg för effekt vid malign renovaskulär hypertoni. En annan förutsägelse med samma poäng, malign hypertensiv njursjukdom, verkar komma från samma sjukdomskluster och saknar likaså stöd i studier.
 
 ---
@@ -85,7 +84,6 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 
 **Motivering:**
 - Förutsägelsen bygger enbart på en modellpoäng utan kliniska prövningar eller litteratur. Den ursprungliga indikationen i kunskapsgrafen är sannolikt felaktig, och läkemedlet har allvarliga säkerhetsrisker, bland annat fosterskador.
-- Samtliga svenska godkännanden är indragna, så det finns ingen aktuell marknadsförd produkt.
 
 **För att gå vidare krävs:**
 - Verkningsmekanismdata, till exempel från DrugBank.

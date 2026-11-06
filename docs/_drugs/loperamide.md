@@ -88,7 +88,7 @@ Ingen litteratur finns för den främsta förutsägelsen (akut smittsam konjunkt
 
 ## Marknadsinformation Sverige
 
-Alla 15 godkännanden är indragna och inget är giltigt. De fem första visas nedan. Indikationstext finns inte registrerad.
+De fem första visas nedan. Indikationstext finns inte registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -124,7 +124,6 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 - Komplettera verkningsmekanismdata från DrugBank.
 - Visa ett biologiskt samband mellan perifer my-opioidagonism och bindhinneinflammation eller infektion, till exempel genom prekliniska studier.
 - Klargöra beredningsform och administreringsväg, eftersom de nuvarande godkännandena endast avser orala former.
-- Notera att samtliga svenska godkännanden är indragna, vilket i sig är ett regulatoriskt hinder.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

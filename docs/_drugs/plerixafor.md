@@ -82,8 +82,6 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga fyra godkännanden är indragna, och ingen av dem har någon registrerad indikationstext.
-
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 62455 | Plerixafor Teva (TEVA GmbH) | Injektionsvätska, lösning | Ingen indikationstext angiven |
@@ -107,12 +105,12 @@ Produktresumén med fullständiga varningar och kontraindikationer ingår inte i
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för indolent plasmacellsmyelom har hög modellpoäng men saknar helt stöd i kliniska prövningar och litteratur (L5). Dessutom är alla svenska godkännanden indragna.
+- Förutsägelsen för indolent plasmacellsmyelom har hög modellpoäng men saknar helt stöd i kliniska prövningar och litteratur (L5).
 
 **För att gå vidare krävs:**
 - Prekliniska data och sedan kliniska studier som visar att plerixafor påverkar sjukdomsförloppet vid indolent myelom, och inte bara stamcellsmobilisering.
 - Produktresumé med varningar och kontraindikationer samt uppgifter om verkningsmekanismen, för en fullständig säkerhetsbedömning.
-- Klarhet om läkemedlets tillgänglighet i Sverige, eftersom alla godkännanden är indragna.
+- Klarhet om läkemedlets tillgänglighet i Sverige.
 - Överväg att i första hand utvärdera den lägre rankade förutsägelsen **myeloisk leukemi**. Där finns i den sammanställda datan 27 kliniska prövningar (främst fas 1–2) och 20 publikationer som testar plerixafor som kemosensibiliserande behandling. Evidensen graderas där som L2, men inga fas 3-studier finns och flera prövningar avslutades i förtid.
 ## Ansvarsfriskrivning
 

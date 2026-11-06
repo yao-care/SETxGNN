@@ -90,7 +90,7 @@ Mekanismen är dock **svagt tillämpbar** här. *Pneumocystis jirovecii* saknar 
 
 ### Marknadsinformation Sverige
 
-Samtliga åtta godkännanden är indragna. Ingen indikationstext är registrerad. Fem av dem listas nedan.
+Ingen indikationstext är registrerad. Fem av dem listas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -120,7 +120,7 @@ Varnings- och kontraindikationsdata saknas i de sammanställda uppgifterna. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den höga modellpoängen stöds inte av någon direkt klinisk eller mekanistisk evidens, och posakonazols verkningsmekanism är svagt kopplad till *Pneumocystis*, som saknar ergosterol. Dessutom är alla svenska godkännanden indragna.
+- Den höga modellpoängen stöds inte av någon direkt klinisk eller mekanistisk evidens, och posakonazols verkningsmekanism är svagt kopplad till *Pneumocystis*, som saknar ergosterol.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé och komplettera uppgifter om varningar och kontraindikationer (blockerande dataluckor för säkerhetsscreening)

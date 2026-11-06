@@ -118,7 +118,7 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en modellpoäng (evidensnivå L4). Det saknas kliniska prövningar, och litteraturen består av äldre fallrapporter och översikter, främst om tuberkulosrelaterad ögonsjukdom. Alla svenska godkännanden är indragna.
+- Förutsägelsen bygger enbart på en modellpoäng (evidensnivå L4). Det saknas kliniska prövningar, och litteraturen består av äldre fallrapporter och översikter, främst om tuberkulosrelaterad ögonsjukdom.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanism och produktresumé (varningar och kontraindikationer), eftersom säkerhetsgranskningen inte kan genomföras utan dem.

@@ -112,13 +112,12 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en grafmodell (evidensnivå L5) utan kliniska prövningar, utan litteratur och utan känd verkningsmekanism som kan förklara sambandet. Läkemedlet har dessutom inga gällande godkännanden i Sverige.
+- Förutsägelsen bygger enbart på en grafmodell (evidensnivå L5) utan kliniska prövningar, utan litteratur och utan känd verkningsmekanism som kan förklara sambandet.
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata och bedöm om något biologiskt samband med TRPS1 eller hårfollikelns biologi finns.
 - Genomföra en systematisk litteratursökning efter prekliniska data eller fallrapporter om tamsulosin och hypertrichosis.
 - Hämta varningar och kontraindikationer från produktresumén.
-- Klargöra marknadsstatus, eftersom båda godkännandena är indragna.
 - Överväga de övriga förutsägelserna endast om stödjande evidens identifieras; hittills saknas sådan för samtliga tio.
 ## Ansvarsfriskrivning
 

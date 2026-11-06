@@ -113,7 +113,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varnings- o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på modellen (L5), utan prövningar, litteratur eller känd mekanism. Dessutom är samtliga svenska godkännanden avregistrerade.
+- Förutsägelsen bygger enbart på modellen (L5), utan prövningar, litteratur eller känd mekanism.
 
 **För att gå vidare krävs:**
 - Verkningsmekanism och produktresumé (varningar och kontraindikationer) måste kompletteras.

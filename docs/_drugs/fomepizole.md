@@ -92,7 +92,7 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen har en mycket hög modellpoäng (99,3 %) men saknar helt stöd från kliniska prövningar och litteratur (evidensnivå L5). Produktens godkännande är dessutom avregistrerat, och produktresumén saknas för säkerhetsbedömning.
+- Förutsägelsen har en mycket hög modellpoäng (99,3 %) men saknar helt stöd från kliniska prövningar och litteratur (evidensnivå L5). Produktresumén saknas för säkerhetsbedömning.
 - Kunskapsgrafen anger leversjukdom och gallblåsesjukdom som möjliga kontraindikationer, vilket är oroande för en gallvägssjukdom.
 
 **För att gå vidare krävs:**
@@ -101,7 +101,7 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 - Genomföra en litteratursökning och en sökning efter kliniska prövningar för fomepizol vid skleroserande kolangit.
 - Utreda prekliniska data (t.ex. i modeller för gallgångsskada) innan klinisk utvärdering övervägs.
 - Bedöma administreringsväg och beredningsform, eftersom fomepizol är en infusionslösning och kompatibiliteten med den nya indikationen inte har utvärderats.
-- Utreda om produkten kan göras tillgänglig igen, eftersom godkännandet är avregistrerat.
+- Utreda om produkten kan göras tillgänglig igen.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

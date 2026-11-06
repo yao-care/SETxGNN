@@ -112,7 +112,7 @@ Produktresumétext om varningar och kontraindikationer ingår inte i de sammanst
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen är mekanistiskt rimlig och ligger nära heparins kopplade indikation purpura fulminans, men inga studier eller publikationer stöder den i de data som sammanställts (evidensnivå L5). Dessutom har alla svenska godkännanden för Heparin LEO avregistrerats.
+- Förutsägelsen är mekanistiskt rimlig och ligger nära heparins kopplade indikation purpura fulminans, men inga studier eller publikationer stöder den i de data som sammanställts (evidensnivå L5).
 
 **För att gå vidare krävs:**
 - Litteratursökning och systematisk genomgång av fallserier, riktlinjer och studier om heparin vid svår protein C-brist, särskilt som tillägg till protein C-ersättning.

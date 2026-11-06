@@ -40,7 +40,7 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 
 ### Sammanfattning
 
-Dobutamin (dobutamin) är en betaadrenerg inotrop substans som ges som intravenös infusion. De svenska godkännandena är båda avregistrerade och saknar angiven indikationstext i de data som sammanställts för denna rapport. TxGNN-modellen förutsäger att dobutamin kan vara effektivt mot **alopeci**, men det finns **inga kliniska prövningar** och endast **en publikation** (en veterinär fallrapport om minoxidilförgiftning hos en katt, där dobutamin användes vid lågt blodtryck), som inte stöder en behandlingseffekt. Förutsägelsen bygger i praktiken enbart på modellen.
+Dobutamin (dobutamin) är en betaadrenerg inotrop substans som ges som intravenös infusion. TxGNN-modellen förutsäger att dobutamin kan vara effektivt mot **alopeci**, men det finns **inga kliniska prövningar** och endast **en publikation** (en veterinär fallrapport om minoxidilförgiftning hos en katt, där dobutamin användes vid lågt blodtryck), som inte stöder en behandlingseffekt. Förutsägelsen bygger i praktiken enbart på modellen.
 
 ---
 
@@ -115,7 +115,6 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 - Hämta varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA). Detta är en blockerande datalucka.
 - Klargöra den ursprungliga godkända indikationen, som saknas i godkännandedata.
 - Genomföra prekliniska studier (till exempel i hårfollikelmodeller) innan kliniska studier övervägs.
-- Notera att båda godkännandena är avregistrerade, vilket innebär att ingen produkt för närvarande finns på den svenska marknaden.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

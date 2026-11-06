@@ -110,7 +110,7 @@ Flera andra prövningar var avbrutna eller återkallade, till exempel NCT0223542
 
 ## Marknadsinformation Sverige
 
-Samtliga 20 godkännanden är indragna. Någon indikationstext finns inte registrerad i de data som sammanställts. De fem första visas nedan.
+Någon indikationstext finns inte registrerad i de data som sammanställts. De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -137,7 +137,7 @@ För varningar och försiktighetsåtgärder i övrigt, se produktresumén.
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Evidensen för ipratropium vid obstruktiv lungsjukdom är omfattande och mekanistiskt välgrundad, men indikationen sammanfaller med läkemedlets befintliga användning. Därför ger rapporten inget nytt behandlingsområde. Samtliga svenska godkännanden är dessutom indragna, och verkningsmekanism och produktresumédata saknas i underlaget.
+- Evidensen för ipratropium vid obstruktiv lungsjukdom är omfattande och mekanistiskt välgrundad, men indikationen sammanfaller med läkemedlets befintliga användning. Därför ger rapporten inget nytt behandlingsområde.
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé för varningar och kontraindikationer från Läkemedelsverket (MPA).

@@ -129,7 +129,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 
 **Motivering:**
 - Mekanismen (substratreduktion av GM2) är rimlig och det finns en randomiserad studie samt en systematisk översikt. De kliniska prövningarna är dock små eller avbrutna, och nyttan för neurologiska utfall är obevisad.
-- Det enda svenska godkännandet är indraget, och säkerhetsdata från produkttext saknas.
+- Säkerhetsdata från produkttext saknas.
 
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer.

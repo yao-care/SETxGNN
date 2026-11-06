@@ -88,7 +88,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Samtliga 14 godkännanden är avregistrerade. De fem första visas nedan. Indikationstext saknas i registerdata.
+De fem första visas nedan. Indikationstext saknas i registerdata.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
@@ -124,7 +124,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varnings- o
 - Komplettera verkningsmekanismen från DrugBank.
 - Granska om litteraturen faktiskt rör oximetazolinbehandling, eftersom flera artiklar verkar ha låg relevans.
 - Definiera en snävare indikation, till exempel en specifik rinit- eller sinuspatologi, istället för den breda kategorin "sjukdomar i näshålan".
-- Genomföra eller identifiera kontrollerade kliniska studier och klargöra den regulatoriska statusen, eftersom inget godkännande är giltigt.
+- Genomföra eller identifiera kontrollerade kliniska studier och klargöra den regulatoriska statusen.
 
 **Övriga förutsägelser som bedömts (ingen rekommenderas för närvarande):**
 - **Huvudvärkssjukdom** (poäng 0,9904): Evidensnivå L3. En studie från 2020 (PMID [31919839](https://pubmed.ncbi.nlm.nih.gov/31919839/)) undersökte intranasal tetrakain 3 % plus oximetazolin 0,05 % vid status migrainosus. Effekten kan inte tillskrivas oximetazolin ensamt, eftersom det gavs i kombination med ett lokalbedövningsmedel. Detta är den mest intressanta nya riktningen men kräver kontrollerade studier.
