@@ -22,7 +22,7 @@ Kandidater med endast modellprediktion och ännu ingen evidens från människa
 
 ---
 
-{% assign l5_drugs = site.drugs | where: "evidence_level", "L5" | sort: "title" %}
+{% assign l5_drugs = site.drugs | where: "evidence_level", "L5" | where_exp: "d", "d.noindex != true" | sort: "title" %}
 
 ### L5 ({{ l5_drugs.size }} läkemedel)
 

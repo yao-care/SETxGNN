@@ -10,7 +10,7 @@ description: "För dessa läkemedel är alla kandidater från TxGNN-modellen red
 
 För dessa läkemedel är alla kandidater från TxGNN-modellen redan kända användningar (registrerade i kunskapsgrafen eller i ett godkännande), så det finns ingen ny predikterad indikation. Varje sida visar de kända användningarna och lokal marknadsstatus.
 
-{% assign known_drugs = site.drugs | where: "evidence_level", "N/A" | sort: "title" %}
+{% assign known_drugs = site.drugs | where: "evidence_level", "N/A" | where_exp: "d", "d.noindex != true" | sort: "title" %}
 
 **{{ known_drugs.size }} läkemedel**
 
