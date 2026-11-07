@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-11-07T15:21:57.365953+00:00",
+  "fetched_at": "2026-11-07T19:49:13.622854+00:00",
   "source": "Google News Health RSS",
-  "count": 46,
+  "count": 43,
   "articles": [
+    {
+      "id": "62517de58d2d",
+      "title": "Sjukhusen odlar resistenta bakterier i avloppet – två läkemedel ut - News55",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVS1xRHp4c0w3LU0xaW50N3lha3NPY3hzWjc3aml3ZmtaYVl4TGRhQUFnNlVRSFRhTUItOGhpWkZYUzBtMW9LVEprR0JxQ1l2SDdsNVdjSmhRRGw4NFRLT2NYYTdSQXEwOHZ3d2M4aEo3TTkwbDY1WmUzeUpVX3o4bFBRZ1M1UDFWMk9SNUZYSHN4MERqcloxYw?oc=5",
+      "published": "2026-11-07T19:04:56+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
+      }
+    },
     {
       "id": "b1be6c00bba8",
       "title": "Alejandra, 37: Jag gick ner i ett hål av ångest - Aftonbladet",
@@ -11,16 +21,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "a2260ce3389c",
-      "title": "Obesitasläkemedel kan ge nya sätt att skydda hjärnan - Forskning.se",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xUG03dVlyX2tma3kwQmh5YTJHbHFJd3JrRGZVWkN4X1RxaWtnOUFfVmp6aFUwUkxCY2ZfZHhlOWZQUHo4cFhjNkxCb1VIMkhMd2JTX1dGUFE4bzkxUTQ0T3g1eDdCMEVpc1E?oc=5",
-      "published": "2026-11-06T07:56:39+00:00",
-      "source": {
-        "name": "Forskning.se",
-        "url": "https://forskning.se"
       }
     },
     {
@@ -44,16 +44,6 @@
       }
     },
     {
-      "id": "af305bf2c071",
-      "title": "En av fyra överväger utländska apotek om de inte får tag på sitt läkemedel - Örebronyheter",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdXhERnY2eFg0YlhDZHNJT2NTWnZXcVJWczlkNmIyai1YYTZJbEpEYlA5RFQ0bndHV2tsM0wxcHhrNjR2bDJTd1BYYjEtdFNvWE5Ra2tYdkNEelhMRmh1Njk5c01seTdKc00ySDJNYWhqaTdjZEdvNV9mLTFNVFpSRDF6bjBxVGpRanZBVGFSeXgwWThGZ0ExYWxTcWQ0LUdxbHN3QTR5Z1o?oc=5",
-      "published": "2026-11-06T10:50:17+00:00",
-      "source": {
-        "name": "Örebronyheter",
-        "url": "https://www.orebronyheter.com"
-      }
-    },
-    {
       "id": "58ef2d5a16db",
       "title": "Så mycket hälsa som möjligt för pengarna - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWFhKX1VtS2lyWEtpd1V1YVpoODlBWUdWSTdXNUl6VFlXZnNVbURZNERXTjY0ZGpSWUdDNG52RmY5ZWtkeS1MZ3lHeUstRXg2T0ppdlVPVWxCbS1sSTJ3M1dvSGFvb3BTYi1qQ2VJaFlZY2FyNUVBMUVoQW1tcnQ5SXY0dzRYZHJE?oc=5",
@@ -71,16 +61,6 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "b9387100df26",
-      "title": "Skandal: SVT:s adhd-forskare får betalt av läkemedelsjätten - News55",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWhUWEhHWnNKdmhDSzhGTGJ1SlFwejd4WHE3SWRGYk9yeEMzd1J4ZWlkMkNCS05QYXp6dEt1bnFrX2RNcWpUQWQ2ejVVSHY4cDc4a0FjZzFRX3h6UGt3dEZ5eDhFNkFYMzZQbkZWZ18xcHZxZG9ydXFRRnotYllhNnFRczdwT25RNDVN?oc=5",
-      "published": "2026-11-05T18:07:57+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
       }
     },
     {
@@ -114,23 +94,13 @@
       }
     },
     {
-      "id": "5e403a13752c",
-      "title": "💉 Läkemedelskombination gav 23 procent lägre vikt vid typ 2-diabetes - www.theangryoptimist.se",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZOHZBT1pxNTVRZDBvYS1GNmVNVEFkcTI4ZEJvN2lCNlFqTE9tSFE1dDVMNWlfRjdpZE9LMlBuZjVJWTBaTFhkZk5odklsWTNjOTU3d01QNGFTRDVvbUpkUTZtNlZrM3pBR1dwUlpzb1UtTFMzVkx4YXZR?oc=5",
-      "published": "2026-11-05T12:03:49+00:00",
+      "id": "b4891367b284",
+      "title": "Experterna i Umeå reder ut: Trubbiga regler för viktmedicin – ”Man betalar själv” - Västerbottens-Kuriren",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUHpUUmRzYkhTTjdVSXZDZFM4cnFHdGc0T05yQkxLQ1NiMGlqUm14enMtQjVsbjVqbGRQYlp1ZGYyOG9Tc0Rjb0RCMEdxeUhuTnpGUjA1UXBsT2o3YUdZelhQbDREM3RTZzNZYXJDTjE2eGY0RjdvTGVEalBOSFBNR0wxbXdGVUp1NWF1OFFIeGFfYlV1MXhjYXJYTzhzVzRNNUQ5WFVqVnNXc0JVWUM4Qw?oc=5",
+      "published": "2026-11-02T13:56:08+00:00",
       "source": {
-        "name": "www.theangryoptimist.se",
-        "url": "https://www.theangryoptimist.se"
-      }
-    },
-    {
-      "id": "4c2059fdb6ef",
-      "title": "Obesitasläkemedel kan ge nya sätt att skydda hjärnan - Cision News",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQWdxdnVvM2twaFR4eklsSGlha01Mb2lMdUdodkpsTFhiRWZtVGljV3RhUmpYRjdBTUdaQzF1MVJ1TXZGZUp5RWVMdV9DTjI1dUdFWUVtQUVTY2lGQVlqTlNUeE44N0tEYTljQjRvOHUxeHphU1FRMHVqdTdkbjhiOTJweVdJc2tmWkJvTldrNEpIRl9lcUlzQ3A4U0x3YkhRU3dSWHVDWmhEN3Rxa0VaQUMybHkwcF9RU2QzQ3haa0ppbnVqTER3ZVNZZHZzZE5VU0VR?oc=5",
-      "published": "2026-11-06T05:45:00+00:00",
-      "source": {
-        "name": "Cision News",
-        "url": "https://news.cision.com"
+        "name": "Västerbottens-Kuriren",
+        "url": "https://www.vk.se"
       }
     },
     {
@@ -144,6 +114,16 @@
       }
     },
     {
+      "id": "0cb3d64286da",
+      "title": "TLV: Varje skattekrona ska ge mesta möjliga hälsa - Svenska Dagbladet",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjRjR2NzaGRwdUtOQjJvZDlpVDc1SDhJcDZ1dzFYaU9vT1NPM0tRZFoxcHlYaHZLVHJWd1UzLVhHaUFKODVMcnE4cHJYVlNVbWRXRnd3bnkta0czT0NiU3RvVndwTHR4bG8zWGhfQnJMZlJzNDNGVDU0bDRFdVVSejdaYk1VMG9sM1hj?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "source": {
+        "name": "Svenska Dagbladet",
+        "url": "https://www.svd.se"
+      }
+    },
+    {
       "id": "0a63caede4cd",
       "title": "Ökad tillgång till östrogenläkemedel - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeEIxR0kwc2hBaDF2eU9vZzdVZHk0LUE0Mk5JUmFtTFd1UTZfOEpTS2RuQVdTYU5qUVVPUW1GTHEyRXIwbXlUNllobkZMclFWMjk0RjFmcXJoZWQxaHVsVlRfYVJJX0YwZEdJak1tcDhpbE9Id3NTTGFWUTlQck1XVnZLN2dJRy1LcnRJM2hvanpqdE9RMGxBWXl3aS0?oc=5",
@@ -151,6 +131,26 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "b9387100df26",
+      "title": "Skandal: SVT:s adhd-forskare får betalt av läkemedelsjätten - News55",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWhUWEhHWnNKdmhDSzhGTGJ1SlFwejd4WHE3SWRGYk9yeEMzd1J4ZWlkMkNCS05QYXp6dEt1bnFrX2RNcWpUQWQ2ejVVSHY4cDc4a0FjZzFRX3h6UGt3dEZ5eDhFNkFYMzZQbkZWZ18xcHZxZG9ydXFRRnotYllhNnFRczdwT25RNDVN?oc=5",
+      "published": "2026-11-05T18:07:57+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "f1e4ba8c4b23",
+      "title": "Rätt läkemedel förbättrar hälsa och sänker kostnader - Svensk Farmaci",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTTduS3JKQmtCdk9Fa1hrbWx4V2xQRmdyZ01rRzZtZkc3cWt6Z3VBdlo1OUNpcXpOZERaMTctc1ctSzVPSldJQjB2QlhOT2MteFZTTS1uUE9MX3lfcDJ6bUtZYUpDUTFybHZnTE92c0E4eUo5YUQ3U2hsZktxSHJtNEM5QnJXX0VCRFBkMzNBRkFnd3Nnc1prdg?oc=5",
+      "published": "2026-01-05T08:00:00+00:00",
+      "source": {
+        "name": "Svensk Farmaci",
+        "url": "https://www.svenskfarmaci.se"
       }
     },
     {
@@ -204,26 +204,6 @@
       }
     },
     {
-      "id": "0cb3d64286da",
-      "title": "TLV: Varje skattekrona ska ge mesta möjliga hälsa - Svenska Dagbladet",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjRjR2NzaGRwdUtOQjJvZDlpVDc1SDhJcDZ1dzFYaU9vT1NPM0tRZFoxcHlYaHZLVHJWd1UzLVhHaUFKODVMcnE4cHJYVlNVbWRXRnd3bnkta0czT0NiU3RvVndwTHR4bG8zWGhfQnJMZlJzNDNGVDU0bDRFdVVSejdaYk1VMG9sM1hj?oc=5",
-      "published": "2026-03-25T07:00:00+00:00",
-      "source": {
-        "name": "Svenska Dagbladet",
-        "url": "https://www.svd.se"
-      }
-    },
-    {
-      "id": "f1e4ba8c4b23",
-      "title": "Rätt läkemedel förbättrar hälsa och sänker kostnader - Svensk Farmaci",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTTduS3JKQmtCdk9Fa1hrbWx4V2xQRmdyZ01rRzZtZkc3cWt6Z3VBdlo1OUNpcXpOZERaMTctc1ctSzVPSldJQjB2QlhOT2MteFZTTS1uUE9MX3lfcDJ6bUtZYUpDUTFybHZnTE92c0E4eUo5YUQ3U2hsZktxSHJtNEM5QnJXX0VCRFBkMzNBRkFnd3Nnc1prdg?oc=5",
-      "published": "2026-01-05T08:00:00+00:00",
-      "source": {
-        "name": "Svensk Farmaci",
-        "url": "https://www.svenskfarmaci.se"
-      }
-    },
-    {
       "id": "b839bf00c97e",
       "title": "”När politiska budskap påverkar hälsa och tillgång till läkemedel” - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW9FaGZQZmRZbUp2WDFsX3dkRFQ1Q1R0UHlhTGlIREc4LUpDT05Od1h2SUhieFh3aWUxUnFjTXYwNGZBWFJkdENQTTVmbWZTR0tkSEZ4eUZZUlBaa24yVFdvd1dMS2dmZVJLMjlLOWNfUmprNGJvZDVTaGpYZEVETXFPcnhVR3A3LXNVWGlZeDE5dDFMTEdpWHliUHkwSUJuTzhxS1prN2I?oc=5",
@@ -254,16 +234,6 @@
       }
     },
     {
-      "id": "190d411eb0a1",
-      "title": "Så kan den vanliga medicinen påverka ditt sexliv - Expressen",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaWluSFVxbDFfMEVMQ0NBaFNsV3gzX1pjVmlmME5oNTc0WkZERTE1UW9qRmdudEs0TERIaTRSaURabVlhNnBuU1drYVp1QTJUdGR5NFNFemFyeDktdjF6MHlQVjBJVm12aW4zcHJRUXFpTU9HQnVTTDhNUzBudTU5ZGZOeXNTUQ?oc=5",
-      "published": "2026-09-07T07:00:00+00:00",
-      "source": {
-        "name": "Expressen",
-        "url": "https://www.expressen.se"
-      }
-    },
-    {
       "id": "f634c81d83c5",
       "title": "Mesta möjliga hälsa för skattepengarna – statens subventionering av läkemedel - Riksrevisionen",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaTAzVVFEbDd4TXMxSjBmdm1qVFpqdkN4bUVGX0E3NnA0R1VvU3IyaEJZemVIOTFtRUNFbEVKZ1R0YkRMMFB4T01ncTJjcEVWYU1VdGg3ZlRpTzlZWUw5aF95VmtpZjU2NF82SUdRT3QwcEtNaG0xNkQ1SDhTb2J5MFJydVpVWUlhWFgxMWpBZVdFX1A2dmduQnB3cGVqR2g4TWFNUnhSOWZLcDdhbGk1ekstTC1OYWdFYnVMMmJlNl9QYTFETGl3bGdqRmJJbU9mdndBalNpWlI4dUdGbW9ETFVXZ3cxQQ?oc=5",
@@ -274,16 +244,6 @@
       }
     },
     {
-      "id": "661e5e895a59",
-      "title": "PFAS lämnar kroppen snabbare med vissa läkemedel - Göteborgs universitet",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdzQtVGltZzNOaHRzakxGcktvdDJvdEpFTUVHTFVYbU9VUko4dnprampfVnQ3azhiZHcydmNwV29xd2pPSUNJM0NzUFFBRHFQUzVTUXFHZjFIYWhfbVFSUFJJaW5DckRrdjlVLTU0Qy1XRGZkSnhsS3FnMl95VWc?oc=5",
-      "published": "2025-10-30T07:00:00+00:00",
-      "source": {
-        "name": "Göteborgs universitet",
-        "url": "https://www.gu.se"
-      }
-    },
-    {
       "id": "af524865792f",
       "title": "”Stärk kampen mot falska läkemedel” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMndpMWhNeGlCR3ZteFBFZEZjeV9jWHVZS1kweFZmOFBxbVNnNlF1T2k4WWJQMXR3Q3lIbWJrUHZpTXZGeHUzQjQtUUlkNWpzQjNoN2VTMmJtV3pIMXpsSFA5LXlmdEREXzI4dE1QcmZ4RUFUZnZHSHVNUXNPV2JmOW51NUQ?oc=5",
@@ -291,6 +251,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "661e5e895a59",
+      "title": "PFAS lämnar kroppen snabbare med vissa läkemedel - Göteborgs universitet",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdzQtVGltZzNOaHRzakxGcktvdDJvdEpFTUVHTFVYbU9VUko4dnprampfVnQ3azhiZHcydmNwV29xd2pPSUNJM0NzUFFBRHFQUzVTUXFHZjFIYWhfbVFSUFJJaW5DckRrdjlVLTU0Qy1XRGZkSnhsS3FnMl95VWc?oc=5",
+      "published": "2025-10-30T07:00:00+00:00",
+      "source": {
+        "name": "Göteborgs universitet",
+        "url": "https://www.gu.se"
       }
     },
     {
@@ -324,16 +294,6 @@
       }
     },
     {
-      "id": "cc9c9ce1ecf6",
-      "title": "Antidepressivt läkemedel utanför listan dyrast för regionen - Janusinfo.se",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZGZ5UnFxaUFhazBZVFprLVpLTGMwdnptRjBoWmNkbjhDRi0xNlBPSVk4TU9POHRsRWhuMG9IcWZtNDZrSVpCeENNZnB0OXFnZ0JjTHd0SS1kRDlzRXFMeHJWdjRKVW5jTG51T2pLRnFBSUJzUTMxQXoyRnh6NW1rbzU0enhtOTVEWDVWYVltbkp6emM5dXhnMUhPTUJqbUJOdmRSMUtjMUR5dVJOeFEtWTY4dHFwanhWT0VsSU90LWROWVJFem9CZG5hTl82NW0wRG9CYjBrM2I?oc=5",
-      "published": "2024-12-12T08:00:00+00:00",
-      "source": {
-        "name": "Janusinfo.se",
-        "url": "https://janusinfo.se"
-      }
-    },
-    {
       "id": "3236a525ce30",
       "title": "”Läkemedel och hälsa berör oss alla på djupet” - LäkemedelsVärlden",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUGxGMXBtcVpDNGg1Y0gweE5PZkgzTFRUaFF4TkY2b1QyVkhkWFQ0dTV2aHM4Qnd1eFNxbDRmYVRsQ3NrY1phNzBFVXMzV3dUVmVYVDZyNG1RbWNmSnBSenVNV3BpQjhvTVlSSVd6Si1Ma2NNdEd2NjliS0gzTkRrYXlVUWZYQQ?oc=5",
@@ -341,6 +301,16 @@
       "source": {
         "name": "LäkemedelsVärlden",
         "url": "https://www.lakemedelsvarlden.se"
+      }
+    },
+    {
+      "id": "cc9c9ce1ecf6",
+      "title": "Antidepressivt läkemedel utanför listan dyrast för regionen - Janusinfo.se",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZGZ5UnFxaUFhazBZVFprLVpLTGMwdnptRjBoWmNkbjhDRi0xNlBPSVk4TU9POHRsRWhuMG9IcWZtNDZrSVpCeENNZnB0OXFnZ0JjTHd0SS1kRDlzRXFMeHJWdjRKVW5jTG51T2pLRnFBSUJzUTMxQXoyRnh6NW1rbzU0enhtOTVEWDVWYVltbkp6emM5dXhnMUhPTUJqbUJOdmRSMUtjMUR5dVJOeFEtWTY4dHFwanhWT0VsSU90LWROWVJFem9CZG5hTl82NW0wRG9CYjBrM2I?oc=5",
+      "published": "2024-12-12T08:00:00+00:00",
+      "source": {
+        "name": "Janusinfo.se",
+        "url": "https://janusinfo.se"
       }
     },
     {
@@ -371,16 +341,6 @@
       "source": {
         "name": "Metro Mode",
         "url": "https://metromode.se"
-      }
-    },
-    {
-      "id": "67fc630d583b",
-      "title": "Nya EU-reglerna kan bli juridisk dragkamp - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWJZclVMaTlzcXMzQjFzbmc2SFBpSHlFX1RYbmxqWjBKdzNLaUtYRk1lVUlLcVRkU09OTFU5Tl9IeVdsSE9faDdfMzgtMmE3Mk5PNUpDQ1I5NnlLZHNqOFMtTVJ2YkVjaGI2ZGlUQ19qZi1pNHI5dWU5TFo3dFFCOGNDT0lreDlCbFlQcDBIVjRYNHBoc1FMa0pYVV9NbURQMU9HYkpCR2Fkdw?oc=5",
-      "published": "2026-11-03T04:26:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -434,6 +394,16 @@
       }
     },
     {
+      "id": "0a8133f0ae21",
+      "title": "\"Homeopatiska läkemedel har positiv effekt\" - Altinget.se",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc21obWVDN29IUEdnZkdpcFlLOWRPNm16cm5LVDdZdFRpNmVTM2xKMDhDX2lJS3gyNUVkLTg4SWZ2d283dVZkQjhIY0JfOFF6VlNYSmlBa1pabXR3cVBHYWViVW92TkZNQUxLMFdkci1yNEFIcjVrSUVGQ05vLVV0TkM3cHE?oc=5",
+      "published": "2016-06-18T07:00:00+00:00",
+      "source": {
+        "name": "Altinget.se",
+        "url": "https://www.altinget.se"
+      }
+    },
+    {
       "id": "552b1d13466f",
       "title": "Dieterna kan ge liknande resultat som Ozempic - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjhycHpNOTcxUm5mOUlWZHNNUWlsVGQ2ZnRBellkb0hXUE9ITWJKNzM2Z05UQ3p5VzRYTmx5UnJ1MUxRT2dnc1kyQmhlTGJ6YUhtMEdfOVBzM1k2SkZZRW5mUjZYRms4aTM2NTQtcDhGbFJHY1N6d3QtUTFFZEtsTVF6XzVvMGk2OVloTmI0cGJDNkJJb21vNFBnUU9QQQ?oc=5",
@@ -444,13 +414,13 @@
       }
     },
     {
-      "id": "0a8133f0ae21",
-      "title": "\"Homeopatiska läkemedel har positiv effekt\" - Altinget.se",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc21obWVDN29IUEdnZkdpcFlLOWRPNm16cm5LVDdZdFRpNmVTM2xKMDhDX2lJS3gyNUVkLTg4SWZ2d283dVZkQjhIY0JfOFF6VlNYSmlBa1pabXR3cVBHYWViVW92TkZNQUxLMFdkci1yNEFIcjVrSUVGQ05vLVV0TkM3cHE?oc=5",
-      "published": "2016-06-18T07:00:00+00:00",
+      "id": "9a4680119e0d",
+      "title": "Nytt konsultföretag startar i Kinda - Corren",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUUVTOXpxRVVYQ3RZckxkNGRuNU1GeGNDb2EzTklyWEJjdzRPNS1zUHE1emFyV2ZLUmxjSFJmZzBXOXFHdEtNSGp0SmN1SDNOOUNTMTNtMHVpWlI4aDNrTV9wNHdzWGR3VmxUTkFXWXJYTmNlNHFkVy03Y1MzbkZhcnNOUmdEeXM5YU4yeXZIbC01WVdIY256bmhBTEFBSEFlbUE?oc=5",
+      "published": "2023-03-29T07:00:00+00:00",
       "source": {
-        "name": "Altinget.se",
-        "url": "https://www.altinget.se"
+        "name": "Corren",
+        "url": "https://www.corren.se"
       }
     },
     {
