@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-11-08T17:31:09.250652+00:00",
+  "fetched_at": "2026-11-08T21:36:49.653098+00:00",
   "source": "Google News Health RSS",
-  "count": 45,
+  "count": 44,
   "articles": [
+    {
+      "id": "127f60384418",
+      "title": "(+) Ny studie: Läkemedlet kan lindra auramigrän - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSzAzVERTSDI0cncwMHFpdTRZdEI4dXp3QVFab2p3ZVh1TXRKeTBwYlRSNGlqVzl4SU5LZjFFQlFOTTVYSHMtYXVpTlJNZEdZTWsxelZrNlJvVDhIeV9LNzFodmNRZjV6REduQ2Q0WXY2bnJ6Z1dERklZd05yVUZMcUxSdjdHTUYtdm95eg?oc=5",
+      "published": "2026-11-08T15:58:08+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
     {
       "id": "62517de58d2d",
       "title": "Sjukhusen odlar resistenta bakterier i avloppet – två läkemedel ut - News55",
@@ -11,16 +21,6 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
-      }
-    },
-    {
-      "id": "b1be6c00bba8",
-      "title": "Alejandra, 37: Jag gick ner i ett hål av ångest - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYk8xY29LZ1IzSDZmUnFsVXE4YllrMU1RTDJGLWZVRXhQTG1lenpWejR5SVZ2MDEtZldDZGRJZmdrRWE4Z0R4bVZkXzBLMVc5WEhlZUFmX0F0RDBlQUVfWDVfMzBrV29hdlNodmZDRlBUdTFXYldyNVBQalVhRy02YXhSVktvc1VNTlRMTUFXdERFVXFhakE?oc=5",
-      "published": "2026-11-03T14:50:27+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -34,16 +34,6 @@
       }
     },
     {
-      "id": "bccbfbe790f2",
-      "title": "Regler för kvalitetsstyrning av traditionella läkemedel, traditionella medicinska ingredienser och medicinalväxter. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSFYyYjFmaFA4Tlo4bld5R3QzdndUdEx5d0VadEc3cWpEWE9vZDAxMXF4TjNaVEY5UHhBbkFvaDUzMVhYZkx2SS1vNloyVGZBbzlNYzEtWXJXMWpMOEFWWkRpUWI2WTBTeldBWXVtMnJEeXBXSTFWNS1DX2RZTlhwbFl1VFNzLVd6dFdRdmx2VlhDcGdPLTBDbHI1enpRSi1OTktvWmZDUjVGclFlMkE?oc=5",
-      "published": "2026-11-08T13:05:14+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "8dfa7c700c53",
       "title": "Receptfria läkemedlen att fynda utomlands: 58 preparat mot förkylning, influensa, värk och feber - Expressen",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGVCRXpJX2lvTkZ0NU1sQ2R3MWxPQ2J5cE9FSWt5andQbnYwbmp3M01wOV9qQWpoanBJSm1yOHRYWWlnWEVMTTZmc0NIMFFoNUF2Snhja0NlVDVLTVRLaENGWlBNdlpvWk81VGxObEduR01MbjFrMnk4QnN4b1AybDV4aHR6V29qYThUWQ?oc=5",
@@ -54,16 +44,6 @@
       }
     },
     {
-      "id": "0162afd2069f",
-      "title": "Ny antikropp skyddade breda grupper av kol-patienter - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcnpsVEh1cjhoUnU4ZW1jczdBYjEtRVNUdzVEaVFmRUhsSDA4dkFGaE0xd0dLa1ZQeWg1UzhLOTBsWHU2V0sxUk51elNtdkJvcVZIYWMzb1ZybjB1NzdmTW0wNE9lZ0NJZWZiRHg3aEVTQzg2U19wMjM2bmxTNzh1RWVWVG5YRUc0YUFYZnp6c3lrUjc4TkQ0WElGd2tJdGY1YWtOOGJXUjlnVFowN21ESS13?oc=5",
-      "published": "2026-11-06T01:36:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "58ef2d5a16db",
       "title": "Så mycket hälsa som möjligt för pengarna - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWFhKX1VtS2lyWEtpd1V1YVpoODlBWUdWSTdXNUl6VFlXZnNVbURZNERXTjY0ZGpSWUdDNG52RmY5ZWtkeS1MZ3lHeUstRXg2T0ppdlVPVWxCbS1sSTJ3M1dvSGFvb3BTYi1qQ2VJaFlZY2FyNUVBMUVoQW1tcnQ5SXY0dzRYZHJE?oc=5",
@@ -71,6 +51,26 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "bccbfbe790f2",
+      "title": "Regler för kvalitetsstyrning av traditionella läkemedel, traditionella medicinska ingredienser och medicinalväxter. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSFYyYjFmaFA4Tlo4bld5R3QzdndUdEx5d0VadEc3cWpEWE9vZDAxMXF4TjNaVEY5UHhBbkFvaDUzMVhYZkx2SS1vNloyVGZBbzlNYzEtWXJXMWpMOEFWWkRpUWI2WTBTeldBWXVtMnJEeXBXSTFWNS1DX2RZTlhwbFl1VFNzLVd6dFdRdmx2VlhDcGdPLTBDbHI1enpRSi1OTktvWmZDUjVGclFlMkE?oc=5",
+      "published": "2026-11-08T13:05:14+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "3d5f324bd8a9",
+      "title": "Tamro vinner tvist i AD - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDBkZ192YURHTDJUU1MwTU0zRU4wU3VBT2pMQVBEakFfczdsaHJfQ1B3U3lUaWtlWFN1SjNMc1VGeW5fRUhnLVppQU5waWhsQ09pZ3hKT1g0NzlzRmc0UUtIQ05VODJ1NDV3TmttOWFjbm9lU0pfTnFqazh6a1NHWDdjdw?oc=5",
+      "published": "2026-11-06T03:41:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -104,6 +104,16 @@
       }
     },
     {
+      "id": "b1be6c00bba8",
+      "title": "Alejandra, 37: Jag gick ner i ett hål av ångest - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYk8xY29LZ1IzSDZmUnFsVXE4YllrMU1RTDJGLWZVRXhQTG1lenpWejR5SVZ2MDEtZldDZGRJZmdrRWE4Z0R4bVZkXzBLMVc5WEhlZUFmX0F0RDBlQUVfWDVfMzBrV29hdlNodmZDRlBUdTFXYldyNVBQalVhRy02YXhSVktvc1VNTlRMTUFXdERFVXFhakE?oc=5",
+      "published": "2026-11-03T14:50:27+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
       "id": "74f6f2c1decb",
       "title": "Valproat – ingen fastställd länk mellan pappans medicinering och barnets hälsa - LäkemedelsVärlden",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnhVMEV4S3JTdHBvYnkzTjYzQVdBUlI3UFlBUEFlei1yV0tkSVFVQmRvVkF0WHNnczFZbkpEb1lleWxPOUYzWVprUTRTYmRucTh3UmxlREIwemw1TnRJaXFWN3lHS1EtOVNJbU5PQmdfUGN6WDJ6TEFRaERNOXltQzZfWDN3bmx2RjlXT2VibEU3UURwUzB1QmRReUtwY1drQnYw?oc=5",
@@ -114,10 +124,10 @@
       }
     },
     {
-      "id": "3d5f324bd8a9",
-      "title": "Tamro vinner tvist i AD - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDBkZ192YURHTDJUU1MwTU0zRU4wU3VBT2pMQVBEakFfczdsaHJfQ1B3U3lUaWtlWFN1SjNMc1VGeW5fRUhnLVppQU5waWhsQ09pZ3hKT1g0NzlzRmc0UUtIQ05VODJ1NDV3TmttOWFjbm9lU0pfTnFqazh6a1NHWDdjdw?oc=5",
-      "published": "2026-11-06T03:41:00+00:00",
+      "id": "0162afd2069f",
+      "title": "Ny antikropp skyddade breda grupper av kol-patienter - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcnpsVEh1cjhoUnU4ZW1jczdBYjEtRVNUdzVEaVFmRUhsSDA4dkFGaE0xd0dLa1ZQeWg1UzhLOTBsWHU2V0sxUk51elNtdkJvcVZIYWMzb1ZybjB1NzdmTW0wNE9lZ0NJZWZiRHg3aEVTQzg2U19wMjM2bmxTNzh1RWVWVG5YRUc0YUFYZnp6c3lrUjc4TkQ0WElGd2tJdGY1YWtOOGJXUjlnVFowN21ESS13?oc=5",
+      "published": "2026-11-06T01:36:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -131,16 +141,6 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
-      }
-    },
-    {
-      "id": "f8b3bbc9fbfc",
-      "title": "Använd örtmediciner med försiktighet. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44Tjl0X2pPbFlYcUEzV2xKN1Jaa3dCc3dQUlcxc0J2Qk9yU2Q5UzU5NGxwN2h1d0JuYTRWX1BOWFJWSklyRkN0V191S3NDUzVnUGNaQU9PZ2x1LUFUQ3VRT2NwZUNYM3li?oc=5",
-      "published": "2026-11-08T00:24:56+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -431,16 +431,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "9a4680119e0d",
-      "title": "Nytt konsultföretag startar i Kinda - Corren",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUUVTOXpxRVVYQ3RZckxkNGRuNU1GeGNDb2EzTklyWEJjdzRPNS1zUHE1emFyV2ZLUmxjSFJmZzBXOXFHdEtNSGp0SmN1SDNOOUNTMTNtMHVpWlI4aDNrTV9wNHdzWGR3VmxUTkFXWXJYTmNlNHFkVy03Y1MzbkZhcnNOUmdEeXM5YU4yeXZIbC01WVdIY256bmhBTEFBSEFlbUE?oc=5",
-      "published": "2023-03-29T07:00:00+00:00",
-      "source": {
-        "name": "Corren",
-        "url": "https://www.corren.se"
       }
     },
     {
