@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-08T11:39:02.499920+00:00",
+  "fetched_at": "2026-11-08T17:31:09.250652+00:00",
   "source": "Google News Health RSS",
-  "count": 43,
+  "count": 45,
   "articles": [
     {
       "id": "62517de58d2d",
@@ -11,16 +11,6 @@
       "source": {
         "name": "News55",
         "url": "https://www.news55.se"
-      }
-    },
-    {
-      "id": "a2260ce3389c",
-      "title": "Obesitasläkemedel kan ge nya sätt att skydda hjärnan - Forskning.se",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xUG03dVlyX2tma3kwQmh5YTJHbHFJd3JrRGZVWkN4X1RxaWtnOUFfVmp6aFUwUkxCY2ZfZHhlOWZQUHo4cFhjNkxCb1VIMkhMd2JTX1dGUFE4bzkxUTQ0T3g1eDdCMEVpc1E?oc=5",
-      "published": "2026-11-06T07:56:39+00:00",
-      "source": {
-        "name": "Forskning.se",
-        "url": "https://forskning.se"
       }
     },
     {
@@ -44,6 +34,16 @@
       }
     },
     {
+      "id": "bccbfbe790f2",
+      "title": "Regler för kvalitetsstyrning av traditionella läkemedel, traditionella medicinska ingredienser och medicinalväxter. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSFYyYjFmaFA4Tlo4bld5R3QzdndUdEx5d0VadEc3cWpEWE9vZDAxMXF4TjNaVEY5UHhBbkFvaDUzMVhYZkx2SS1vNloyVGZBbzlNYzEtWXJXMWpMOEFWWkRpUWI2WTBTeldBWXVtMnJEeXBXSTFWNS1DX2RZTlhwbFl1VFNzLVd6dFdRdmx2VlhDcGdPLTBDbHI1enpRSi1OTktvWmZDUjVGclFlMkE?oc=5",
+      "published": "2026-11-08T13:05:14+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
       "id": "8dfa7c700c53",
       "title": "Receptfria läkemedlen att fynda utomlands: 58 preparat mot förkylning, influensa, värk och feber - Expressen",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGVCRXpJX2lvTkZ0NU1sQ2R3MWxPQ2J5cE9FSWt5andQbnYwbmp3M01wOV9qQWpoanBJSm1yOHRYWWlnWEVMTTZmc0NIMFFoNUF2Snhja0NlVDVLTVRLaENGWlBNdlpvWk81VGxObEduR01MbjFrMnk4QnN4b1AybDV4aHR6V29qYThUWQ?oc=5",
@@ -54,16 +54,6 @@
       }
     },
     {
-      "id": "58ef2d5a16db",
-      "title": "Så mycket hälsa som möjligt för pengarna - Svensk Farmaci",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWFhKX1VtS2lyWEtpd1V1YVpoODlBWUdWSTdXNUl6VFlXZnNVbURZNERXTjY0ZGpSWUdDNG52RmY5ZWtkeS1MZ3lHeUstRXg2T0ppdlVPVWxCbS1sSTJ3M1dvSGFvb3BTYi1qQ2VJaFlZY2FyNUVBMUVoQW1tcnQ5SXY0dzRYZHJE?oc=5",
-      "published": "2026-10-15T07:00:00+00:00",
-      "source": {
-        "name": "Svensk Farmaci",
-        "url": "https://www.svenskfarmaci.se"
-      }
-    },
-    {
       "id": "0162afd2069f",
       "title": "Ny antikropp skyddade breda grupper av kol-patienter - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcnpsVEh1cjhoUnU4ZW1jczdBYjEtRVNUdzVEaVFmRUhsSDA4dkFGaE0xd0dLa1ZQeWg1UzhLOTBsWHU2V0sxUk51elNtdkJvcVZIYWMzb1ZybjB1NzdmTW0wNE9lZ0NJZWZiRHg3aEVTQzg2U19wMjM2bmxTNzh1RWVWVG5YRUc0YUFYZnp6c3lrUjc4TkQ0WElGd2tJdGY1YWtOOGJXUjlnVFowN21ESS13?oc=5",
@@ -71,6 +61,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "58ef2d5a16db",
+      "title": "Så mycket hälsa som möjligt för pengarna - Svensk Farmaci",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWFhKX1VtS2lyWEtpd1V1YVpoODlBWUdWSTdXNUl6VFlXZnNVbURZNERXTjY0ZGpSWUdDNG52RmY5ZWtkeS1MZ3lHeUstRXg2T0ppdlVPVWxCbS1sSTJ3M1dvSGFvb3BTYi1qQ2VJaFlZY2FyNUVBMUVoQW1tcnQ5SXY0dzRYZHJE?oc=5",
+      "published": "2026-10-15T07:00:00+00:00",
+      "source": {
+        "name": "Svensk Farmaci",
+        "url": "https://www.svenskfarmaci.se"
       }
     },
     {
@@ -94,16 +94,6 @@
       }
     },
     {
-      "id": "f8b3bbc9fbfc",
-      "title": "Använd örtmediciner med försiktighet. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44Tjl0X2pPbFlYcUEzV2xKN1Jaa3dCc3dQUlcxc0J2Qk9yU2Q5UzU5NGxwN2h1d0JuYTRWX1BOWFJWSklyRkN0V191S3NDUzVnUGNaQU9PZ2x1LUFUQ3VRT2NwZUNYM3li?oc=5",
-      "published": "2026-11-08T00:24:56+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "37ffb7085892",
       "title": "Under sommar och semester: Viktiga råd om vård, läkemedel och hälsa - Region Stockholm",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc29wZVpvNUticDZRcDlfcHdNU2NnNmpZSXpyMWZ6Yy0tdTBxWElvRGNLM010cTZha1J4YnRlUTZKX0dWY0VFaFNsN1dxUUZrZmZ2SFNwWi1NR3Y5WndsamlPalFpTFU4WEthbmQzVHNjWU5ISWhyRU5nOHhHVndoMWJfZl9WTGJvQUJJc2xpb1c1OGhHc09LMUF1N1pwckNNZjhVbm02OHlKNjNzR3lmVlAzMA?oc=5",
@@ -124,20 +114,10 @@
       }
     },
     {
-      "id": "0cb3d64286da",
-      "title": "TLV: Varje skattekrona ska ge mesta möjliga hälsa - Svenska Dagbladet",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjRjR2NzaGRwdUtOQjJvZDlpVDc1SDhJcDZ1dzFYaU9vT1NPM0tRZFoxcHlYaHZLVHJWd1UzLVhHaUFKODVMcnE4cHJYVlNVbWRXRnd3bnkta0czT0NiU3RvVndwTHR4bG8zWGhfQnJMZlJzNDNGVDU0bDRFdVVSejdaYk1VMG9sM1hj?oc=5",
-      "published": "2026-03-25T07:00:00+00:00",
-      "source": {
-        "name": "Svenska Dagbladet",
-        "url": "https://www.svd.se"
-      }
-    },
-    {
-      "id": "db0366e988da",
-      "title": "Resistenta bakterier frodas i sjukhusens avlopp - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRWN3RFRMS1lnZGVvZFFIc1YyTUtIYmFLbllxSGRoUVB5aHhObW5wMklMNVoxWVk0RXVvdlAwY05zM1hLWjNFb3QyYjc1VVgwUWtIbGJ3SWRKamhJZzZRSTZ5RHpvVlp4aDd6VWpzRTlJV3pRQk5SeGt0T3R2MU9fSlBzMVlxQmVYREl4YVNSanlvZFBwSHREaHV5TDNCeVhmVnlJQ3d0dWo?oc=5",
-      "published": "2026-11-04T23:48:00+00:00",
+      "id": "3d5f324bd8a9",
+      "title": "Tamro vinner tvist i AD - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDBkZ192YURHTDJUU1MwTU0zRU4wU3VBT2pMQVBEakFfczdsaHJfQ1B3U3lUaWtlWFN1SjNMc1VGeW5fRUhnLVppQU5waWhsQ09pZ3hKT1g0NzlzRmc0UUtIQ05VODJ1NDV3TmttOWFjbm9lU0pfTnFqazh6a1NHWDdjdw?oc=5",
+      "published": "2026-11-06T03:41:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -154,13 +134,23 @@
       }
     },
     {
-      "id": "f1e4ba8c4b23",
-      "title": "Rätt läkemedel förbättrar hälsa och sänker kostnader - Svensk Farmaci",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTTduS3JKQmtCdk9Fa1hrbWx4V2xQRmdyZ01rRzZtZkc3cWt6Z3VBdlo1OUNpcXpOZERaMTctc1ctSzVPSldJQjB2QlhOT2MteFZTTS1uUE9MX3lfcDJ6bUtZYUpDUTFybHZnTE92c0E4eUo5YUQ3U2hsZktxSHJtNEM5QnJXX0VCRFBkMzNBRkFnd3Nnc1prdg?oc=5",
-      "published": "2026-01-05T08:00:00+00:00",
+      "id": "f8b3bbc9fbfc",
+      "title": "Använd örtmediciner med försiktighet. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44Tjl0X2pPbFlYcUEzV2xKN1Jaa3dCc3dQUlcxc0J2Qk9yU2Q5UzU5NGxwN2h1d0JuYTRWX1BOWFJWSklyRkN0V191S3NDUzVnUGNaQU9PZ2x1LUFUQ3VRT2NwZUNYM3li?oc=5",
+      "published": "2026-11-08T00:24:56+00:00",
       "source": {
-        "name": "Svensk Farmaci",
-        "url": "https://www.svenskfarmaci.se"
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "db0366e988da",
+      "title": "Resistenta bakterier frodas i sjukhusens avlopp - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRWN3RFRMS1lnZGVvZFFIc1YyTUtIYmFLbllxSGRoUVB5aHhObW5wMklMNVoxWVk0RXVvdlAwY05zM1hLWjNFb3QyYjc1VVgwUWtIbGJ3SWRKamhJZzZRSTZ5RHpvVlp4aDd6VWpzRTlJV3pRQk5SeGt0T3R2MU9fSlBzMVlxQmVYREl4YVNSanlvZFBwSHREaHV5TDNCeVhmVnlJQ3d0dWo?oc=5",
+      "published": "2026-11-04T23:48:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -168,6 +158,16 @@
       "title": "Ökad tillgång till östrogenläkemedel - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeEIxR0kwc2hBaDF2eU9vZzdVZHk0LUE0Mk5JUmFtTFd1UTZfOEpTS2RuQVdTYU5qUVVPUW1GTHEyRXIwbXlUNllobkZMclFWMjk0RjFmcXJoZWQxaHVsVlRfYVJJX0YwZEdJak1tcDhpbE9Id3NTTGFWUTlQck1XVnZLN2dJRy1LcnRJM2hvanpqdE9RMGxBWXl3aS0?oc=5",
       "published": "2026-11-04T03:48:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "24594b70815e",
+      "title": "SKR: Hög vårdkvalitet men stora regionala skillnader - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUxnV0trYWMxVElhTlEwS212amlBOVZRVTJ3aVd2bjA1My15Q0lTODN6V3dIaHNFaVJYNUNudjhtUmRGMHE0bFdzSVY1dUFlT1FSMHdmVEdJUDI3TmZ5VEtZaGhnbnotc1AyTHRNWkdydURkeDEwejk3aFJhNWE0SUJKckdkcWIxNTI2ejdXazFtLTlsMjhpQlRFMmZpTmtfa0FTRTVQQUVLU0RvTGpRSUJWSQ?oc=5",
+      "published": "2026-11-05T03:49:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -204,6 +204,16 @@
       }
     },
     {
+      "id": "0cb3d64286da",
+      "title": "TLV: Varje skattekrona ska ge mesta möjliga hälsa - Svenska Dagbladet",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjRjR2NzaGRwdUtOQjJvZDlpVDc1SDhJcDZ1dzFYaU9vT1NPM0tRZFoxcHlYaHZLVHJWd1UzLVhHaUFKODVMcnE4cHJYVlNVbWRXRnd3bnkta0czT0NiU3RvVndwTHR4bG8zWGhfQnJMZlJzNDNGVDU0bDRFdVVSejdaYk1VMG9sM1hj?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "source": {
+        "name": "Svenska Dagbladet",
+        "url": "https://www.svd.se"
+      }
+    },
+    {
       "id": "b839bf00c97e",
       "title": "”När politiska budskap påverkar hälsa och tillgång till läkemedel” - Svensk Farmaci",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW9FaGZQZmRZbUp2WDFsX3dkRFQ1Q1R0UHlhTGlIREc4LUpDT05Od1h2SUhieFh3aWUxUnFjTXYwNGZBWFJkdENQTTVmbWZTR0tkSEZ4eUZZUlBaa24yVFdvd1dMS2dmZVJLMjlLOWNfUmprNGJvZDVTaGpYZEVETXFPcnhVR3A3LXNVWGlZeDE5dDFMTEdpWHliUHkwSUJuTzhxS1prN2I?oc=5",
@@ -211,6 +221,16 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "fd328ed69f03",
+      "title": "”Vi måste fråga anhöriga hur vardagen fungerar” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYk56X0lZZWlhX3V6OVRTWGgzSW5VRUhjZ0U3VlktazcwVlhYVmRuZllhRmxtdXZEakpoMjVvZG1GZzFZeHZCVnZIT0tXalh0ZkxseHVKSXRIN3lyb1NkX2t6Z1YtbncyU3NWQkdJSktSbGpEWnRLbTJSNko4ckl1UHZMLTBzek02VS1xcktpSkdFU3lP?oc=5",
+      "published": "2026-11-01T19:30:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -224,13 +244,13 @@
       }
     },
     {
-      "id": "9617b69d8d59",
-      "title": "Ny studie: Blodtrycksmedicinen som de flesta fortsätter med - News55",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMzhsV2NBR0h0RmRfWTFNTExnQUViMHc3UkV3ZVNOcmxXUk1HM3lGZWxFV1lReEU5ekh0OVQ0VmVWWHprU2h1bEhhcERhT1d6SHlQT1B0c1BXTmtVcU1vOWptSUFobzJ3UngyRHdwZ204cEY3N0U0dU5fS0JuVjhTVDlsaThJdjFHa3dtS2Fkc1c?oc=5",
-      "published": "2026-10-19T07:00:00+00:00",
+      "id": "f1e4ba8c4b23",
+      "title": "Rätt läkemedel förbättrar hälsa och sänker kostnader - Svensk Farmaci",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTTduS3JKQmtCdk9Fa1hrbWx4V2xQRmdyZ01rRzZtZkc3cWt6Z3VBdlo1OUNpcXpOZERaMTctc1ctSzVPSldJQjB2QlhOT2MteFZTTS1uUE9MX3lfcDJ6bUtZYUpDUTFybHZnTE92c0E4eUo5YUQ3U2hsZktxSHJtNEM5QnJXX0VCRFBkMzNBRkFnd3Nnc1prdg?oc=5",
+      "published": "2026-01-05T08:00:00+00:00",
       "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
+        "name": "Svensk Farmaci",
+        "url": "https://www.svenskfarmaci.se"
       }
     },
     {
@@ -241,16 +261,6 @@
       "source": {
         "name": "Riksrevisionen",
         "url": "https://www.riksrevisionen.se"
-      }
-    },
-    {
-      "id": "d6fca557003c",
-      "title": "”Vi behöver tänka mer på vård som trängs undan” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVZGZHkxNzBYMUhTMzRDVmJ1VHhfLTZSa1p4RXVCN1dGNXBBZ1oyaFFGQWt1VVlMTWtybjF5VlNNMjhQNWNHa3NnQXFiWGZhMlRWX1FybHU1Q2dKSTE2R2tCc3d1X21iZzBMWlE0TFdMbGZCYVRkSUdQam1KQlF6MGl1SmpDc09mMW11WExwUHZfTnMyMHY0ZWdyY0RGRjQ?oc=5",
-      "published": "2025-02-18T08:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -271,6 +281,16 @@
       "source": {
         "name": "Göteborgs universitet",
         "url": "https://www.gu.se"
+      }
+    },
+    {
+      "id": "d6fca557003c",
+      "title": "”Vi behöver tänka mer på vård som trängs undan” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVZGZHkxNzBYMUhTMzRDVmJ1VHhfLTZSa1p4RXVCN1dGNXBBZ1oyaFFGQWt1VVlMTWtybjF5VlNNMjhQNWNHa3NnQXFiWGZhMlRWX1FybHU1Q2dKSTE2R2tCc3d1X21iZzBMWlE0TFdMbGZCYVRkSUdQam1KQlF6MGl1SmpDc09mMW11WExwUHZfTnMyMHY0ZWdyY0RGRjQ?oc=5",
+      "published": "2025-02-18T08:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -301,6 +321,16 @@
       "source": {
         "name": "Folkhälsomyndigheten",
         "url": "https://www.folkhalsomyndigheten.se"
+      }
+    },
+    {
+      "id": "cc9c9ce1ecf6",
+      "title": "Antidepressivt läkemedel utanför listan dyrast för regionen - Janusinfo.se",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZGZ5UnFxaUFhazBZVFprLVpLTGMwdnptRjBoWmNkbjhDRi0xNlBPSVk4TU9POHRsRWhuMG9IcWZtNDZrSVpCeENNZnB0OXFnZ0JjTHd0SS1kRDlzRXFMeHJWdjRKVW5jTG51T2pLRnFBSUJzUTMxQXoyRnh6NW1rbzU0enhtOTVEWDVWYVltbkp6emM5dXhnMUhPTUJqbUJOdmRSMUtjMUR5dVJOeFEtWTY4dHFwanhWT0VsSU90LWROWVJFem9CZG5hTl82NW0wRG9CYjBrM2I?oc=5",
+      "published": "2024-12-12T08:00:00+00:00",
+      "source": {
+        "name": "Janusinfo.se",
+        "url": "https://janusinfo.se"
       }
     },
     {
@@ -421,16 +451,6 @@
       "source": {
         "name": "Forskning & Framsteg",
         "url": "https://fof.se"
-      }
-    },
-    {
-      "id": "7d8175094b38",
-      "title": "Nytt besked om östrogenläkemedel – stor skillnad mot 2025 - Nyheter24",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUS0tVElhY2RILXZkREltLXNBdlhxSUdjOTBVTWNtbGZsTEJwVnNtS3AwN2l0MDFHbm5wVEZkQzhkQzFXbWt1bFBrODNUZllLeEVFbjF0enM5Sm9lMVE2el9DQ2YxWkFBWDJoWC1MTEhRUWNJbXFhci1ldWxaVXREb0RxelViZDBRUjU3T0pkbEdkZ0w2WUlj?oc=5",
-      "published": "2026-11-04T12:05:00+00:00",
-      "source": {
-        "name": "Nyheter24",
-        "url": "https://nyheter24.se"
       }
     }
   ]
