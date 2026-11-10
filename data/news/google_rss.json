@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-11-09T19:40:32.772673+00:00",
+  "fetched_at": "2026-11-10T02:30:05.517313+00:00",
   "source": "Google News Health RSS",
   "count": 47,
   "articles": [
-    {
-      "id": "81940df875d7",
-      "title": "Efter MFN-konflikt: Amgen får nytt kontrakt på Repatha till Danmark - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaFpGNHc2bWk1WWFDa0FkTld4bmJsWDVwRWlnWk1ucVNzbThIbTNHM1hCVktTREx6dlJQMlFCUjJTZm85ZlVGNWVuaGVpUS03eVIwWHZZME9pMHhXbDd1anAyaG5SWnNNTzZfdHFPeXBmUldLa2NQeThfakFkeEdSdWNmYkpCbkZkYkE5Mno1Nm9XNXJMY0ZDRzVwdWF1NEsxNjZTZ0RGOFZxb1FrUXl6WkxVR2QzZEVsM044?oc=5",
-      "published": "2026-11-09T02:56:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
     {
       "id": "d402678d37b0",
       "title": "(+) Så påverkas sexlivet av viktminskningsmedicin - Aftonbladet",
@@ -24,6 +14,16 @@
       }
     },
     {
+      "id": "81940df875d7",
+      "title": "Efter MFN-konflikt: Amgen får nytt kontrakt på Repatha till Danmark - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaFpGNHc2bWk1WWFDa0FkTld4bmJsWDVwRWlnWk1ucVNzbThIbTNHM1hCVktTREx6dlJQMlFCUjJTZm85ZlVGNWVuaGVpUS03eVIwWHZZME9pMHhXbDd1anAyaG5SWnNNTzZfdHFPeXBmUldLa2NQeThfakFkeEdSdWNmYkpCbkZkYkE5Mno1Nm9XNXJMY0ZDRzVwdWF1NEsxNjZTZ0RGOFZxb1FrUXl6WkxVR2QzZEVsM044?oc=5",
+      "published": "2026-11-09T02:56:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "a2260ce3389c",
       "title": "Obesitasläkemedel kan ge nya sätt att skydda hjärnan - Forskning.se",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xUG03dVlyX2tma3kwQmh5YTJHbHFJd3JrRGZVWkN4X1RxaWtnOUFfVmp6aFUwUkxCY2ZfZHhlOWZQUHo4cFhjNkxCb1VIMkhMd2JTX1dGUFE4bzkxUTQ0T3g1eDdCMEVpc1E?oc=5",
@@ -31,6 +31,16 @@
       "source": {
         "name": "Forskning.se",
         "url": "https://forskning.se"
+      }
+    },
+    {
+      "id": "58ef2d5a16db",
+      "title": "Så mycket hälsa som möjligt för pengarna - Svensk Farmaci",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWFhKX1VtS2lyWEtpd1V1YVpoODlBWUdWSTdXNUl6VFlXZnNVbURZNERXTjY0ZGpSWUdDNG52RmY5ZWtkeS1MZ3lHeUstRXg2T0ppdlVPVWxCbS1sSTJ3M1dvSGFvb3BTYi1qQ2VJaFlZY2FyNUVBMUVoQW1tcnQ5SXY0dzRYZHJE?oc=5",
+      "published": "2026-10-15T07:00:00+00:00",
+      "source": {
+        "name": "Svensk Farmaci",
+        "url": "https://www.svenskfarmaci.se"
       }
     },
     {
@@ -54,26 +64,6 @@
       }
     },
     {
-      "id": "58ef2d5a16db",
-      "title": "Så mycket hälsa som möjligt för pengarna - Svensk Farmaci",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWFhKX1VtS2lyWEtpd1V1YVpoODlBWUdWSTdXNUl6VFlXZnNVbURZNERXTjY0ZGpSWUdDNG52RmY5ZWtkeS1MZ3lHeUstRXg2T0ppdlVPVWxCbS1sSTJ3M1dvSGFvb3BTYi1qQ2VJaFlZY2FyNUVBMUVoQW1tcnQ5SXY0dzRYZHJE?oc=5",
-      "published": "2026-10-15T07:00:00+00:00",
-      "source": {
-        "name": "Svensk Farmaci",
-        "url": "https://www.svenskfarmaci.se"
-      }
-    },
-    {
-      "id": "8dfa7c700c53",
-      "title": "Receptfria läkemedlen att fynda utomlands: 58 preparat mot förkylning, influensa, värk och feber - Expressen",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGVCRXpJX2lvTkZ0NU1sQ2R3MWxPQ2J5cE9FSWt5andQbnYwbmp3M01wOV9qQWpoanBJSm1yOHRYWWlnWEVMTTZmc0NIMFFoNUF2Snhja0NlVDVLTVRLaENGWlBNdlpvWk81VGxObEduR01MbjFrMnk4QnN4b1AybDV4aHR6V29qYThUWQ?oc=5",
-      "published": "2026-11-03T12:30:41+00:00",
-      "source": {
-        "name": "Expressen",
-        "url": "https://www.expressen.se"
-      }
-    },
-    {
       "id": "05f36663a879",
       "title": "När blev hälsa en kostnad i stället för en investering? - Lif – de forskande läkemedelsföretagen",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzNhSFpBTkg4VS1UMV9tVHN0djNPWGh5TEg3bTc1OUF2RVFNUEVQVC1vQ0NxWHgwVzA1SEcxNS1ZT2lkcFk1aGQ5TE9tanhqbU53NWhFZDIwcm04aklBWEZtVmpLRGo1WUw3dVVFY1lZUExfN2I0OUk3WEYwTUpVYXFlWGI5VTc4WmxYSEFqeTlReXJT?oc=5",
@@ -91,6 +81,16 @@
       "source": {
         "name": "Region Blekinge",
         "url": "https://regionblekinge.se"
+      }
+    },
+    {
+      "id": "8dfa7c700c53",
+      "title": "Receptfria läkemedlen att fynda utomlands: 58 preparat mot förkylning, influensa, värk och feber - Expressen",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGVCRXpJX2lvTkZ0NU1sQ2R3MWxPQ2J5cE9FSWt5andQbnYwbmp3M01wOV9qQWpoanBJSm1yOHRYWWlnWEVMTTZmc0NIMFFoNUF2Snhja0NlVDVLTVRLaENGWlBNdlpvWk81VGxObEduR01MbjFrMnk4QnN4b1AybDV4aHR6V29qYThUWQ?oc=5",
+      "published": "2026-11-03T12:30:41+00:00",
+      "source": {
+        "name": "Expressen",
+        "url": "https://www.expressen.se"
       }
     },
     {
@@ -114,23 +114,13 @@
       }
     },
     {
-      "id": "e50b2effb587",
-      "title": "Haveriutredning om journalsystemen: ”Dålig konkurrens” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmtKOWgyMkhhQXZFdlpjcHl1c2M1d3VtTHF0cUo2anhoZzU1dUpJenRIT2p3V3FJS1VOV1VkRHZNOEhRMlBDRUY0SDBoVTMtaFFzSU5KQkVtS2FpY2ZhZEctX2Z0M1RUZ29EOG1WOTR5cHJjSzNjRThfZHZ3N3BhbGhIQlV6Y3NBVEc0YlhrOTVWQkNtWWdVbkprR3B5b1BNeTAzZWp5SC0teDNTWFZWaWhnaw?oc=5",
-      "published": "2026-11-09T01:39:00+00:00",
+      "id": "6df9d8cb9b3b",
+      "title": "Amputation efter miss i hemsjukvård - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1hGa3lZb3NDZHZOMjBjeVN3SVpxcFJJM0d0NXVraTMyWTI4QjBBaTlaWWFldjJiMnJkMWlNRm1PajNFaEw3UndWSk9ZYjExNW0tSFQ0U2lVbXRvY3VMdHFSTG9ocVVFa3kzQmlMdGNHNzljRVpyYWhoMEJON2dOWG5lY21CZ1pkd2xJQVpKdHdObmZSTFRYVg?oc=5",
+      "published": "2026-11-09T00:16:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "4c2059fdb6ef",
-      "title": "Obesitasläkemedel kan ge nya sätt att skydda hjärnan - Cision News",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQWdxdnVvM2twaFR4eklsSGlha01Mb2lMdUdodkpsTFhiRWZtVGljV3RhUmpYRjdBTUdaQzF1MVJ1TXZGZUp5RWVMdV9DTjI1dUdFWUVtQUVTY2lGQVlqTlNUeE44N0tEYTljQjRvOHUxeHphU1FRMHVqdTdkbjhiOTJweVdJc2tmWkJvTldrNEpIRl9lcUlzQ3A4U0x3YkhRU3dSWHVDWmhEN3Rxa0VaQUMybHkwcF9RU2QzQ3haa0ppbnVqTER3ZVNZZHZzZE5VU0VR?oc=5",
-      "published": "2026-11-06T05:45:00+00:00",
-      "source": {
-        "name": "Cision News",
-        "url": "https://news.cision.com"
       }
     },
     {
@@ -141,6 +131,16 @@
       "source": {
         "name": "LäkemedelsVärlden",
         "url": "https://www.lakemedelsvarlden.se"
+      }
+    },
+    {
+      "id": "4c2059fdb6ef",
+      "title": "Obesitasläkemedel kan ge nya sätt att skydda hjärnan - Cision News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQWdxdnVvM2twaFR4eklsSGlha01Mb2lMdUdodkpsTFhiRWZtVGljV3RhUmpYRjdBTUdaQzF1MVJ1TXZGZUp5RWVMdV9DTjI1dUdFWUVtQUVTY2lGQVlqTlNUeE44N0tEYTljQjRvOHUxeHphU1FRMHVqdTdkbjhiOTJweVdJc2tmWkJvTldrNEpIRl9lcUlzQ3A4U0x3YkhRU3dSWHVDWmhEN3Rxa0VaQUMybHkwcF9RU2QzQ3haa0ppbnVqTER3ZVNZZHZzZE5VU0VR?oc=5",
+      "published": "2026-11-06T05:45:00+00:00",
+      "source": {
+        "name": "Cision News",
+        "url": "https://news.cision.com"
       }
     },
     {
@@ -164,16 +164,6 @@
       }
     },
     {
-      "id": "0cb3d64286da",
-      "title": "TLV: Varje skattekrona ska ge mesta möjliga hälsa - Svenska Dagbladet",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjRjR2NzaGRwdUtOQjJvZDlpVDc1SDhJcDZ1dzFYaU9vT1NPM0tRZFoxcHlYaHZLVHJWd1UzLVhHaUFKODVMcnE4cHJYVlNVbWRXRnd3bnkta0czT0NiU3RvVndwTHR4bG8zWGhfQnJMZlJzNDNGVDU0bDRFdVVSejdaYk1VMG9sM1hj?oc=5",
-      "published": "2026-03-25T07:00:00+00:00",
-      "source": {
-        "name": "Svenska Dagbladet",
-        "url": "https://www.svd.se"
-      }
-    },
-    {
       "id": "db0366e988da",
       "title": "Resistenta bakterier frodas i sjukhusens avlopp - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRWN3RFRMS1lnZGVvZFFIc1YyTUtIYmFLbllxSGRoUVB5aHhObW5wMklMNVoxWVk0RXVvdlAwY05zM1hLWjNFb3QyYjc1VVgwUWtIbGJ3SWRKamhJZzZRSTZ5RHpvVlp4aDd6VWpzRTlJV3pRQk5SeGt0T3R2MU9fSlBzMVlxQmVYREl4YVNSanlvZFBwSHREaHV5TDNCeVhmVnlJQ3d0dWo?oc=5",
@@ -191,6 +181,26 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "e283a9c9431b",
+      "title": "”Nu ska friska människor förvandlas till patienter” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFdoNXNGQWtmVTIwcHNRMXRMc1M5UzZtQnpadjlkRWQ2eHdUWFJlWW91MnNVUFloYzkyOHhqemc3Sll0bGNNZDJCME5rRVdHczRuT1JZbW9rRjdTb3ZPSFh0VmVQbG1RMWtZOGFvLVhxcVdXV1pDanZRYW9LZFo3OG5qY0RyNTJlaVE2RGVxbk11Tm55SC1aamJ4UjlYd3JP?oc=5",
+      "published": "2026-10-29T23:47:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "0cb3d64286da",
+      "title": "TLV: Varje skattekrona ska ge mesta möjliga hälsa - Svenska Dagbladet",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjRjR2NzaGRwdUtOQjJvZDlpVDc1SDhJcDZ1dzFYaU9vT1NPM0tRZFoxcHlYaHZLVHJWd1UzLVhHaUFKODVMcnE4cHJYVlNVbWRXRnd3bnkta0czT0NiU3RvVndwTHR4bG8zWGhfQnJMZlJzNDNGVDU0bDRFdVVSejdaYk1VMG9sM1hj?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "source": {
+        "name": "Svenska Dagbladet",
+        "url": "https://www.svd.se"
       }
     },
     {
@@ -271,16 +281,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "b718a6c92730",
-      "title": "Fråga doktorn – RS-virus och medicin - SVT Play",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tbDZZdm55NHczdGtFX25Dd0g4a0dmcmNTblJ1OGs5X1hlVFlOZ3F0MFlPRFlaa21fLVgxSy1QUTc3dDlpNUVySmFfbDYxRG0yMkRBdU4zUEF1VEdHU1BibHR6OHhMa295cmVUR2FxV082SEpJWGlEQnFfVQ?oc=5",
-      "published": "2026-02-05T15:52:38+00:00",
-      "source": {
-        "name": "SVT Play",
-        "url": "https://www.svtplay.se"
       }
     },
     {
@@ -394,13 +394,13 @@
       }
     },
     {
-      "id": "17c1bf940d16",
-      "title": "70 läkemedel som du bör undvika som äldre - Expressen",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdzhwZjc0cTZpRXlQTmc3dld5dkFITUZQeURPN25NRlFLUHVpNmQyMWVwb3RYM25EdmQ2X3oxamhHbVl3bG10NU1YMjA3WmhYOEdCQlBEVU9OODJvSFhsdE1IRU12N0hLM1hQSFdQcWpnZGdkMXlMYklTVk1Oc2xuZldqSm8zdw?oc=5",
-      "published": "2024-07-16T07:00:00+00:00",
+      "id": "0e4b01b2ebb7",
+      "title": "Vanlig medicin halverar återfall i tarmcancer - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ09HRFg4NHFHNVZ1RnYzQ2daOHJ1MXAtWFZGbXdWdjZnUl9aS1daNElNc25jdzFUZy1sYlY1bjMzc2RyMHd5ZUJXdUI2aGRUTzk0eV9LRDdNZy1YeS1mc2xBZG9HREYxdll2aXRXdU9TTVFMbUMyTl95UmM2QWc0c1JpWGtWUWlRWFBtR0VXR2NhMVh5VkE?oc=5",
+      "published": "2025-03-30T07:00:00+00:00",
       "source": {
-        "name": "Expressen",
-        "url": "https://www.expressen.se"
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -467,7 +467,7 @@
       "id": "b79e06e9f64f",
       "title": "Läkemedel och kosttillskott – ny varning 2026 - HurBra.se",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwWE1TZVlRQlBuZndkdlRRX2hicmx5Ym9CU294ZEV5VFlYOXFEU3drOWFNbEJTeUlybFFRTzBzNVJnLWtsSG9sYTA5US1SNGxVSmZvVVBYZ0RVWnhlR0ZPWmY1ZWFvZw?oc=5",
-      "published": "2026-11-09T17:30:28+00:00",
+      "published": "2026-11-09T17:32:39+00:00",
       "source": {
         "name": "HurBra.se",
         "url": "https://hurbra.se"
