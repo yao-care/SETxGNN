@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 346
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 monitor_inn: "phenylalanine"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
 description: "Phenylalanine: predikterad ny indikation Skleroserande kolangit (sclerosing cholangitis) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -52,7 +52,7 @@ Fenylalanin är en aminosyra som ingår i flera infusionslösningar för parente
 | Förutsagd ny indikation | Skleroserande kolangit (sclerosing cholangitis) |
 | TxGNN-förutsägelsepoäng | 0.9943 |
 | Evidensnivå | L4 (endast indirekta observations- och biomarkörstudier) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 18) |
 | Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 

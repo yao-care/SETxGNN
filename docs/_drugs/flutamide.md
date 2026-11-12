@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 206
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 monitor_inn: "flutamide"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Flutamide: predikterad ny indikation Fibroma of prostate (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -52,8 +52,8 @@ Flutamid är en icke-steroid antiandrogen som ursprungligen användes för behan
 | Förutsagd ny indikation | Fibroma of prostate |
 | TxGNN-förutsägelsepoäng | 0.9998 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
-| Antal godkännanden | 1 (giltiga: 1) |
+| Marknadsstatus i Sverige | Inte marknadsförd (avregistrerade godkännanden: 1 av 1) |
+| Antal godkännanden | 1 (giltiga: 0) |
 | Rekommenderat beslut | Avvakta |
 
 ---
