@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 218
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Granisetron: predikterad ny indikation Manisk bipolär sjukdom (engelska: manic bipolar affective disorder) (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga godkännandedata"
 monitor_inn: "granisetron"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
@@ -80,6 +80,18 @@ Den höga poängen (0,9962) är en beräkning från modellen och inte ett klinis
 
 Ingen indikationstext finns tillgänglig.
 
+<!-- review:begin se-lic-20261106-granisetron-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga sex godkännanden är avregistrerade. Ingen indikationstext finns tillgänglig.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-granisetron-1 -->
+
+<!-- review:begin se-lic-20261106-granisetron-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ytterligare ett godkännande (25505, Granisetron Hameln, koncentrat till injektions-/infusionsvätska, lösning) finns också och är avregistrerat.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-granisetron-2 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
 |---------|------|------|-----------|
 | 23574 | Granisetron STADA | Filmdragerad tablett | STADA Arzneimittel AG |
@@ -121,6 +133,20 @@ Se i övrigt produktresumén för fullständig säkerhetsinformation, eftersom v
 - Göra en systematisk litteratur- och prövningssökning för granisetron vid bipolär sjukdom och manisk sjukdom, inklusive studier av andra 5-HT3-antagonister.
 - Bedöma hjärtsäkerhet (QT-förlängning) och interaktionsrisker med vanliga läkemedel vid bipolär sjukdom, särskilt antipsykotika och antidepressiva.
 - Utreda vilken beredningsform och administreringsväg som skulle behövas för den nya indikationen, samt om någon produkt kan återinföras på marknaden.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga sex godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Ytterligare ett godkännande (25505, Granisetron Hameln, koncentrat till injektions-/infusionsvätska, lösning) finns också och är avregistrer” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

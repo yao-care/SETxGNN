@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 190
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "felbamate"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 description: "Felbamate: predikterad ny indikation Trigeminal nerve neoplasm (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -115,11 +115,30 @@ Uppgifter från svensk produktresumé (varningar och kontraindikationer) har int
 **Motivering:**
 - Förutsägelsen för trigeminusneoplasm bygger enbart på en modellpoäng (L5), utan studier och utan känd antitumöreffekt. Det gäller även trigeminusneuralgi, där tryggare och väletablerade alternativ finns.
 
+<!-- review:begin se-lic-20261106-felbamate-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Felbamats allvarliga säkerhetsrisker (aplastisk anemi, leversvikt), många interaktioner och avregistrerade godkännanden i Sverige gör nytta–riskbalansen ogynnsam. Det gäller även trigeminusneuralgi, där tryggare och väletablerade alternativ finns.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-felbamate-1 -->
+
 **För att gå vidare krävs:**
 - Preklinisk eller mekanistisk evidens för en antitumöreffekt, om neoplasmindikationen ska utredas vidare.
 - Kontrollerade kliniska data för felbamat vid trigeminusneuralgi, om symtomlindring är målet.
 - Uppgifter från produktresumén om varningar och kontraindikationer samt verkningsmekanism.
 - En bedömning av hur ett läkemedel som inte längre är godkänt i Sverige skulle kunna tillgängliggöras.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Felbamats allvarliga säkerhetsrisker (aplastisk anemi, leversvikt), många interaktioner och avregistrerade godkännanden i Sverige gör nytta–” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

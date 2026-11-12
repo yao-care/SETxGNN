@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 420
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "tetracaine"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis", "cauda equina syndrome", "irritable bowel syndrome"]
 description: "Tetracaine: predikterad ny indikation Acrodermatitis chronica atrophicans (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -112,6 +112,25 @@ Produktresumé med varningar och kontraindikationer har inte kunnat hämtas; se 
 - Prekliniska eller kliniska data som visar effekt vid den förutsagda sjukdomen.
 - Bedöma administreringsväg och beredningsform.
 - Överväga om någon av de andra förutsagda indikationerna (t.ex. smärtlindring vid dermatologiska ingrepp) vore mer realistisk än den högst rankade.
+
+<!-- review:begin se-lic-20261106-tetracaine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedöma administreringsväg och beredningsform, då nuvarande godkännanden (ögondroppar, plåster) är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-tetracaine-1 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”då nuvarande godkännanden (ögondroppar, plåster) är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

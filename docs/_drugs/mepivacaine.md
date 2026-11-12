@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 278
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "mepivacaine"
 predicted_indications: ["gastroduodenitis", "peptic ulcer disease"]
 description: "Mepivacaine: predikterad ny indikation Gastroduodenitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -72,6 +72,12 @@ Den enda hittade publikationen (PMID 6890367) handlar om säkerhetsfarmakologi f
 
 Ingen indikationstext finns registrerad.
 
+<!-- review:begin se-lic-20261106-mepivacaine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla sju godkännanden är indragna. Ingen indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-mepivacaine-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 5969 | Carbocain | Injektionsvätska, lösning | – |
@@ -101,11 +107,31 @@ För varningar och kontraindikationer enligt godkänd text, se produktresumén. 
 **Motivering:**
 - Förutsägelsen stöds enbart av en modellberäkning (evidensnivå L5), utan kliniska prövningar eller relevant litteratur.
 
+<!-- review:begin se-lic-20261106-mepivacaine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen stöds enbart av en modellberäkning (evidensnivå L5), utan kliniska prövningar eller relevant litteratur. Dessutom är samtliga svenska godkännanden indragna och mekanistiskt samband saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-mepivacaine-2 -->
+
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata (t.ex. via DrugBank) och analysera ett eventuellt mekanistiskt samband med gastroduodenit.
 - Hämta och granska produktresumé med varningar och kontraindikationer från Läkemedelsverket (MPA), eftersom säkerhetsgranskningen inte kan genomföras utan dessa.
 - Genomföra systematisk litteratursökning efter prekliniska och kliniska data om mepivakain vid gastroduodenit.
 - Utreda administreringsväg, eftersom mepivakain finns som injektionsvätska och en möjlig väg för magtarmindikation inte är klarlagd.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla sju godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna och mekanistiskt samband saknas” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

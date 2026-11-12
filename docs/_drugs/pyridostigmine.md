@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 372
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "pyridostigmine"
 predicted_indications: ["autoimmune disease of peripheral nervous system", "disease of receptor activity", "hypersplenism (disease)", "atypical hemolytic-uremic syndrome with B factor anomaly"]
 description: "Pyridostigmine: predikterad ny indikation Autoimmune disease of peripheral nervous system (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -82,6 +82,12 @@ Det finns en viktig begränsning. Fallrapporten som hittats gäller MuSK-positiv
 
 De fem första visas nedan. Indikationstext saknas i de registrerade uppgifterna.
 
+<!-- review:begin se-lic-20261106-pyridostigmine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 12 godkännanden är indragna och inget är giltigt. De fem första visas nedan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 12, varav giltiga: 12; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-pyridostigmine-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 58445 | Mestinon (Abacus Medicine A/S) | Dragerad tablett | – |
@@ -111,11 +117,31 @@ Information om varningar och kontraindikationer från produktresumén saknas. Se
 **Motivering:**
 - Förutsägelsen gäller en undergrupp av den redan etablerade indikationen och utgör ingen egentlig återanvändning. Det saknas kliniska prövningar, och litteraturen innehåller ingen kontrollerad studie av pyridostigmin i denna undergrupp.
 
+<!-- review:begin se-lic-20261106-pyridostigmine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det saknas kliniska prövningar, och litteraturen innehåller ingen kontrollerad studie av pyridostigmin i denna undergrupp. Dessutom är alla svenska godkännanden indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 12, varav giltiga: 12; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-pyridostigmine-2 -->
+
 **För att gå vidare krävs:**
 - Produktresumé från Läkemedelsverket med varningar, kontraindikationer och godkänd indikation, eftersom säkerhetsscreening inte kan genomföras utan dessa.
 - Verkningsmekanismdata från DrugBank.
 - Kontrollerade eller observationella studier av pyridostigmin specifikt vid myasthenia gravis med tymushyperplasi.
 - Klargörande av om det finns något kliniskt behov som inte redan täcks av den befintliga myasthenia gravis-indikationen, samt av läkemedlets tillgänglighet i Sverige efter indragningarna.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 12 godkännanden är indragna och inget är giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

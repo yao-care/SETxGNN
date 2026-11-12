@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 176
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "ethambutol"
 predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection", "peritonitis", "infectious otitis media"]
 description: "Ethambutol: predikterad ny indikation Epiglottitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -100,12 +100,31 @@ Varnings- och kontraindikationstext från produktresumén saknas. Se produktresu
 **Motivering:**
 - Det finns inga kliniska prövningar och ingen mekanistisk grund för effekt vid epiglottit, som oftast orsakas av andra bakterier än mykobakterier. Den enda stödjande litteraturen handlar om tuberkulos i struphuvudet, vilket redan omfattas av den befintliga tuberkulosindikationen.
 
+<!-- review:begin se-lic-20261106-ethambutol-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den enda stödjande litteraturen handlar om tuberkulos i struphuvudet, vilket redan omfattas av den befintliga tuberkulosindikationen. / Läkemedlets enda svenska godkännande är avregistrerat.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ethambutol-1 -->
+
 **För att gå vidare krävs:**
 - Uppgifter om verkningsmekanism och säkerhetsinformation (varningar och kontraindikationer) från produktresumén.
 - Experimentella eller kliniska data som visar aktivitet mot de bakterier som vanligen orsakar epiglottit.
 - En bedömning av om det finns ett medicinskt behov som inte redan täcks av nuvarande standardbehandling.
 
 **Övriga förutsagda indikationer:** Laryngit, meningokockinfektion, peritonit och infektiös mellanörsinflammation har också undersökts. De saknar kliniska prövningar. Litteraturen för laryngit och peritonit gäller i huvudsak tuberkulos i dessa organ, vilket redan ligger inom den befintliga indikationen. För meningokockinfektion och mellanöronsinflammation finns ingen litteratur alls, och etambutol saknar mekanistisk verkan mot de aktuella bakterierna. De bedöms därför också som **Avvakta**.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Läkemedlets enda svenska godkännande är avregistrerat” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

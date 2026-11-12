@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 145
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "dobutamine"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "Raynaud disease", "primary hereditary glaucoma", "headache disorder", "hypertrichosis (disease)", "migraine disorder"]
 description: "Dobutamine: predikterad ny indikation Alopecia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -41,6 +41,12 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 ### Sammanfattning
 
 Dobutamin (dobutamin) är en betaadrenerg inotrop substans som ges som intravenös infusion. TxGNN-modellen förutsäger att dobutamin kan vara effektivt mot **alopeci**, men det finns **inga kliniska prövningar** och endast **en publikation** (en veterinär fallrapport om minoxidilförgiftning hos en katt, där dobutamin användes vid lågt blodtryck), som inte stöder en behandlingseffekt. Förutsägelsen bygger i praktiken enbart på modellen.
+
+<!-- review:begin se-lic-20261106-dobutamine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”De svenska godkännandena är båda avregistrerade och saknar angiven indikationstext i de data som sammanställts för denna rapport. TxGNN-modellen förutsäger att dobutamin kan vara effektivt mot **alopeci**, men det finns **inga kliniska prövningar** och endast **en publikation** (en veterinär fallrapport om minoxidilförgiftning hos en katt, där dobutamin användes vid lågt blodtryck), som inte stöder en behandlingseffekt.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-dobutamine-1 -->
 
 ---
 
@@ -115,6 +121,26 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 - Hämta varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA). Detta är en blockerande datalucka.
 - Klargöra den ursprungliga godkända indikationen, som saknas i godkännandedata.
 - Genomföra prekliniska studier (till exempel i hårfollikelmodeller) innan kliniska studier övervägs.
+
+<!-- review:begin se-lic-20261106-dobutamine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Genomföra prekliniska studier (till exempel i hårfollikelmodeller) innan kliniska studier övervägs. / Notera att båda godkännandena är avregistrerade, vilket innebär att ingen produkt för närvarande finns på den svenska marknaden.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-dobutamine-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”De svenska godkännandena är båda avregistrerade och saknar angiven indikationstext i de data som sammanställts för denna rapport” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Notera att båda godkännandena är avregistrerade, vilket innebär att ingen produkt för närvarande finns på den svenska marknaden” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

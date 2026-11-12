@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 346
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "phenylalanine"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
 description: "Phenylalanine: predikterad ny indikation Skleroserande kolangit (sclerosing cholangitis) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -88,6 +88,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Nedan visas de fem första. Indikationstexter saknas i data.
 
+<!-- review:begin se-lic-20261106-phenylalanine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 20 godkännanden är avregistrerade. Nedan visas de fem första.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-phenylalanine-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 12526 | Glavamin | Infusionsvätska, lösning | Ej angiven |
@@ -119,6 +125,12 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Motivering:**
 - Förutsägelsen bygger enbart på en grafbaserad modellpoäng. Det saknas kliniska prövningar, och litteraturen är indirekt och visar endast biomarkörsamband.
 
+<!-- review:begin se-lic-20261106-phenylalanine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det saknas kliniska prövningar, och litteraturen är indirekt och visar endast biomarkörsamband. Dessutom är samtliga svenska godkännanden avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-phenylalanine-2 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé från Läkemedelsverket (varningar, kontraindikationer, ursprunglig indikation).
 - Komplettera verkningsmekanismen (till exempel via DrugBank).
@@ -127,6 +139,19 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Klargöra administreringsväg och beredningsform för en eventuell ny användning.
 
 ---
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

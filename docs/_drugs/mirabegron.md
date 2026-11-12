@@ -7,7 +7,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 93
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -92,6 +92,25 @@ Underlaget för MIRABEGRON innehåller inga förutsagda repositioneringsindikati
 - **[Krävs]** Kör om TxGNN-förutsägelseflödet för MIRABEGRON för att fylla `predicted_indications`; det nuvarande underlaget innehåller en tom förutsägelselista, vilket gör det omöjligt att bedöma repositioneringskandidater
 - **[Krävs]** Bekräfta de ursprungligen godkända indikationerna från regulatoriska källor (t.ex. EMA eller FDA) och fyll `original_indications` för att fastställa utgångsläget för repositionering
 - **[Uppföljning]** När förutsägelser finns tillgängliga, starta om evidensinsamlingen (kliniska prövningar, litteratur) för den eller de högst rankade förutsagda indikationerna
+
+<!-- review:begin se-lic-20261103-mirabegron-1 -->
+
+> **Granskningsrättelse (2026-11-03)**: Ursprungligen stod det: ”EMA, FDA eller TFDA) och fyll `original_indications` för att fastställa utgångsläget för repositionering” Borttaget: uppgiften stämde inte med Läkemedelsverkets godkännandedata (2026-11-03). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261103-mirabegron-1 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-03 | Borttaget: ”A, FD T” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

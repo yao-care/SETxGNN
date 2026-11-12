@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 410
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "tamsulosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine with brainstem aura"]
 description: "Tamsulosin: predikterad ny indikation Ambras typ av hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de…"
@@ -114,11 +114,37 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Motivering:**
 - Förutsägelsen bygger enbart på en grafmodell (evidensnivå L5) utan kliniska prövningar, utan litteratur och utan känd verkningsmekanism som kan förklara sambandet.
 
+<!-- review:begin se-lic-20261106-tamsulosin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen bygger enbart på en grafmodell (evidensnivå L5) utan kliniska prövningar, utan litteratur och utan känd verkningsmekanism som kan förklara sambandet. Läkemedlet har dessutom inga gällande godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-tamsulosin-1 -->
+
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata och bedöm om något biologiskt samband med TRPS1 eller hårfollikelns biologi finns.
 - Genomföra en systematisk litteratursökning efter prekliniska data eller fallrapporter om tamsulosin och hypertrichosis.
 - Hämta varningar och kontraindikationer från produktresumén.
 - Överväga de övriga förutsägelserna endast om stödjande evidens identifieras; hittills saknas sådan för samtliga tio.
+
+<!-- review:begin se-lic-20261106-tamsulosin-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra marknadsstatus, eftersom båda godkännandena är indragna. / Överväga de övriga förutsägelserna endast om stödjande evidens identifieras; hittills saknas sådan för samtliga tio.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-tamsulosin-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Läkemedlet har dessutom inga gällande godkännanden i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Klargöra marknadsstatus, eftersom båda godkännandena är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 408
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus: predikterad ny indikation Seborrheic dermatitis (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -98,6 +98,12 @@ Eftersom takrolimus dämpar just denna T-cellsdrivna inflammation är det mekani
 
 Ingen indikationstext finns registrerad för dem.
 
+<!-- review:begin se-lic-20261106-tacrolimus-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 20 godkännanden är indragna. Ingen indikationstext finns registrerad för dem.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-tacrolimus-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 26764 | Adport (Sandoz A/S) | Kapsel, hård | Ingen indikationstext registrerad |
@@ -136,6 +142,12 @@ Takrolimus är ett immunsuppressivt läkemedel och inte ett antineoplastiskt lä
 - Det finns en avslutad fas 3-studie och en avslutad fas 4-studie direkt på seborroisk dermatit samt en plausibel mekanism. Produktresumé saknas i underlaget och resultaten från prövningarna är inte sammanfattade i det tillgängliga materialet.
 - Evidensnivån L1 enligt den sammanställda bedömningen vilar på endast en fas 3-studie, medan reglerna kräver minst två avslutade fas 3-RCT. Nivån bör därför ses som preliminär, och L2 är en mer försiktig tolkning.
 
+<!-- review:begin se-lic-20261106-tacrolimus-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtidigt är alla svenska godkännanden indragna, mekanismdata och produktresumé saknas i underlaget och resultaten från prövningarna är inte sammanfattade i det tillgängliga materialet.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-tacrolimus-2 -->
+
 **För att gå vidare krävs:**
 - Hämta publicerade resultat från NCT02004860 och NCT01591070 (primära effektmått, skovfrekvens, tolerabilitet).
 - Hämta och granska produktresumén för varningar och kontraindikationer från Läkemedelsverket, särskilt för topikala beredningar.
@@ -144,6 +156,19 @@ Takrolimus är ett immunsuppressivt läkemedel och inte ett antineoplastiskt lä
 - Ta ställning till långtidssäkerhet, särskilt malignitetsrisk, vid underhållsbehandling i ansiktet.
 
 ---
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtidigt är alla svenska godkännanden indragna, mekanismdata och p” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

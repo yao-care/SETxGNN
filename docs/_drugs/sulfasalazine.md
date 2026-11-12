@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 404
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "sulfasalazine"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
 description: "Sulfasalazine: predikterad ny indikation Brachydactyly-syndactyly syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -95,6 +95,12 @@ Av de hämtade artiklarna är följande mest relevanta för sulfasalazin vid art
 
 Indikationstext saknas i de sammanställda data.
 
+<!-- review:begin se-lic-20261106-sulfasalazine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga fem godkännanden är avregistrerade, och inget giltigt läkemedel finns för närvarande på den svenska marknaden. Indikationstext saknas i de sammanställda data.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-sulfasalazine-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 20467 | Sulfasalazin medac | Enterotablett | – |
@@ -122,12 +128,32 @@ Se produktresumén för fullständiga varningar och försiktighetsåtgärder. De
 - Förutsägelsen för artros stöds bara av prekliniska data (L4), och inga kliniska prövningar finns.
 - Övriga förutsägelser med högst poäng (t.ex. sällsynta genetiska skelettsjukdomar) saknar både evidens och mekanistisk koppling. Spondyloartropati är redan en ursprunglig indikation och därmed ingen ny återanvändning.
 
+<!-- review:begin se-lic-20261106-sulfasalazine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga svenska godkännanden är dessutom avregistrerade. / Övriga förutsägelser med högst poäng (t.ex. sällsynta genetiska skelettsjukdomar) saknar både evidens och mekanistisk koppling.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-sulfasalazine-2 -->
+
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer. Detta är en blockerande datalucka för säkerhetsgranskning.
 - Komplettera verkningsmekanismen från DrugBank.
 - Genomföra eller identifiera kliniska studier (minst fas 2) av sulfasalazin vid artros, gärna med lokal beredning (t.ex. intraartikulär hyaluronsyraformulering) som prövats prekliniskt.
 - Bedöma administreringsväg och beredningsform, eftersom befintliga former är orala och inte prövats för artros.
 - Utvärdera hur säkerhetsprofilen (blodbild, lever- och njurfunktion, acetyleringsstatus) förhåller sig till en kronisk, ofta äldre artrospopulation.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga fem godkännanden är avregistrerade, och inget giltigt läkemedel finns för närvarande på den svenska marknaden” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är dessutom avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

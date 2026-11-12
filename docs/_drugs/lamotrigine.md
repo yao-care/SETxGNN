@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 251
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "lamotrigine"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 description: "Lamotrigine: predikterad ny indikation Tumör i trigeminusnerven (trigeminal nerve neoplasm) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -87,6 +87,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Nedan visas fem av dem.
 
+<!-- review:begin se-lic-20261106-lamotrigine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 20 godkännanden är indragna och inget är giltigt för närvarande. Nedan visas fem av dem.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-lamotrigine-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 12790 | Lamictal | Tuggtablett/dispergerbar tablett | Ej angiven |
@@ -111,6 +117,12 @@ Nedan visas fem av dem.
 **Motivering:**
 - Förutsägelsen om tumör i trigeminusnerven saknar stöd i kliniska prövningar, och de två publikationerna rör trigeminusneuralgi, inte tumörbehandling. Evidensnivån är L5.
 
+<!-- review:begin se-lic-20261106-lamotrigine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Evidensnivån är L5. / Alla godkännanden i Sverige är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-lamotrigine-2 -->
+
 Ett närliggande alternativ i samma förutsägelselista är **trigeminusneuralgi**. Där finns två små avslutade prövningar (n=20 och n=21, varav en fas 2/3-jämförelse med karbamazepin) och europeiska riktlinjer som nämner lamotrigin som tilläggs- eller andrahandsalternativ. Det är en betydligt bättre grund för en fortsatt utvärdering än tumörindikationen.
 
 **För att gå vidare krävs:**
@@ -118,6 +130,20 @@ Ett närliggande alternativ i samma förutsägelselista är **trigeminusneuralgi
 - Verkningsmekanismdata och uppgifter om varningar och kontraindikationer från aktuell produktresumé.
 - Ett giltigt svenskt godkännande eller en bedömning av hur en eventuell ny användning skulle regleras.
 - Om trigeminusneuralgi prioriteras: resultaten från de två avslutade prövningarna och en bedömning av effekt och tolerabilitet jämfört med karbamazepin.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna och inget är giltigt för närvarande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla godkännanden i Sverige är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

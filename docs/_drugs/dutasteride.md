@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 156
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "dutasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
 description: "Dutasteride: predikterad ny indikation Ambras typ av hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) (evidensnivå L5). Ursprunglig indikation: Inte angiven i d…"
@@ -66,6 +66,12 @@ Sambandet med den nya indikationen är svagt. Ambras syndrom är en medfödd öv
 
 Utan stödjande studier ska poängen tolkas med stor försiktighet.
 
+<!-- review:begin se-lic-20261106-dutasteride-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla fyra godkännanden är indragna. För närvarande finns alltså inget giltigt godkännande för dutasterid i Sverige enligt underlaget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-dutasteride-1 -->
+
 ---
 
 ### Marknadsinformation Sverige
@@ -104,6 +110,12 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 - Förutsägelsen stöds endast av modellen (evidensnivå L5). Det finns inga kliniska prövningar eller litteratur, och den mekanistiska kopplingen är svag eftersom Ambras syndrom inte är androgendrivet.
 - Säkerhetsdata från produktresumén saknas.
 
+<!-- review:begin se-lic-20261106-dutasteride-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla svenska godkännanden är indragna, och säkerhetsdata från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-dutasteride-2 -->
+
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismen för dutasterid från DrugBank.
 - Ladda ner och granska produktresumén från Läkemedelsverket (MPA) för varningar och kontraindikationer.
@@ -111,6 +123,27 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 - Ta fram prekliniska eller mekanistiska data som visar att DHT-sänkning påverkar TRPS1-relaterad hårväxt.
 - Utvärdera fosterpåverkan och säkerhet vid användning hos barn eller kvinnor i fertil ålder.
 - Klargöra läkemedlets regulatoriska status.
+
+<!-- review:begin se-lic-20261106-dutasteride-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra läkemedlets regulatoriska status, eftersom inget giltigt godkännande finns i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-dutasteride-3 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla fyra godkännanden är indragna. För närvarande finns alltså inget giltigt godkännande för dutasterid i Sverige enligt underlaget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom inget giltigt godkännande finns i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

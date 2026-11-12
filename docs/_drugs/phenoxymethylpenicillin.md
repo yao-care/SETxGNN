@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 344
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "phenoxymethylpenicillin"
 predicted_indications: ["epiglottitis", "laryngitis"]
 description: "Phenoxymethylpenicillin: predikterad ny indikation Epiglottitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -122,12 +122,38 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas i und
 - Förutsägelsen bygger enbart på en modell (L5) utan kliniska prövningar eller direkt litteratur. Epiglottit är ett akut, livshotande tillstånd där oralt penicillin V inte är rimlig förstahandsbehandling.
 - Säkerhetsdata från produktresumén saknas.
 
+<!-- review:begin se-lic-20261106-phenoxymethylpenicillin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Läkemedlet saknar dessutom giltiga godkännanden i Sverige, och säkerhetsdata från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-phenoxymethylpenicillin-1 -->
+
 **För att gå vidare krävs:**
 - Hämta produktresumé med varningar och kontraindikationer (blockerande dataluckan).
 - Komplettera verkningsmekanismdata, till exempel från DrugBank.
 - Genomföra en systematisk litteratursökning om penicillin V vid epiglottit, inklusive möjlig användning som fortsatt behandling efter intravenös behandling.
 - Bedöma lokala resistensmönster och aktuell epidemiologi, där vaccination mot Hib har förändrat sjukdomsbilden.
 - Klargöra regulatorisk väg.
+
+<!-- review:begin se-lic-20261106-phenoxymethylpenicillin-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra regulatorisk väg, eftersom samtliga godkännanden är avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-phenoxymethylpenicillin-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Läkemedlet saknar dessutom giltiga godkännanden i verige, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom samtliga godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

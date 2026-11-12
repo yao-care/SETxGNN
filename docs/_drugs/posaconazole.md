@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 357
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "posaconazole"
 predicted_indications: ["pneumocystosis"]
 description: "Posaconazole: predikterad ny indikation Pneumocystosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -92,6 +92,12 @@ Mekanismen är dock **svagt tillämpbar** här. *Pneumocystis jirovecii* saknar 
 
 Ingen indikationstext är registrerad. Fem av dem listas nedan.
 
+<!-- review:begin se-lic-20261106-posaconazole-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga åtta godkännanden är indragna. Ingen indikationstext är registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-posaconazole-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 62638 | Posaconazole Abacus Medicine | Oral suspension | Ej angiven |
@@ -122,12 +128,32 @@ Varnings- och kontraindikationsdata saknas i de sammanställda uppgifterna. Se p
 **Motivering:**
 - Den höga modellpoängen stöds inte av någon direkt klinisk eller mekanistisk evidens, och posakonazols verkningsmekanism är svagt kopplad till *Pneumocystis*, som saknar ergosterol.
 
+<!-- review:begin se-lic-20261106-posaconazole-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den höga modellpoängen stöds inte av någon direkt klinisk eller mekanistisk evidens, och posakonazols verkningsmekanism är svagt kopplad till *Pneumocystis*, som saknar ergosterol. Dessutom är alla svenska godkännanden indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-posaconazole-2 -->
+
 **För att gå vidare krävs:**
 - Hämta produktresumé och komplettera uppgifter om varningar och kontraindikationer (blockerande dataluckor för säkerhetsscreening)
 - Komplettera data om verkningsmekanism från DrugBank
 - Prekliniska eller kliniska data som direkt visar effekt av posakonazol mot *Pneumocystis jirovecii*
 - Jämförelse med etablerad behandling och profylax (t.ex. trimetoprim-sulfametoxazol)
 - Bedömning av administreringsvägar, eftersom uppgifter om detta saknas
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga åtta godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

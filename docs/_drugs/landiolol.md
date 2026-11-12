@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 252
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "landiolol"
 predicted_indications: ["lingual-facial-buccal dyskinesia", "chronic tic disorder", "psychogenic movement disorders", "extrapyramidal and movement disease", "benign shuddering attacks", "primary orthostatic tremor"]
 description: "Landiolol: predikterad ny indikation Lingual-facial-buccal dyskinesia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -69,6 +69,12 @@ Sambandet mellan den ursprungliga och den nya indikationen är därför svagt oc
 
 **Övriga förutsägelser med liknande poäng** (alla L5, utan prövningar eller litteratur):
 
+<!-- review:begin se-lic-20261106-landiolol-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Båda godkännandena innehas av Amomed Pharma GmbH och är indragna. Det finns därför inget giltigt godkännande i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-landiolol-1 -->
+
 | Förutsagd indikation | Poäng | Kommentar |
 |------|------|------|
 | Extrapyramidal sjukdom och rörelsestörning | 0,9900 | Bred grupp av olika tillstånd. Landiolol passar dåligt vid kroniska rörelsestörningar. |
@@ -106,6 +112,26 @@ Se produktresumén för varningar, kontraindikationer och övrig säkerhetsinfor
 - Komplettera uppgifterna om verkningsmekanism, till exempel via DrugBank.
 - Göra en systematisk litteratur- och prövningssökning för landiolol vid rörelsestörningar.
 - Utvärdera om det finns prekliniska data som visar att landiolol har effekt i centrala nervsystemet, samt om administrationsvägen är förenlig med kronisk behandling.
+
+<!-- review:begin se-lic-20261106-landiolol-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Utvärdera om det finns prekliniska data som visar att landiolol har effekt i centrala nervsystemet, samt om administrationsvägen är förenlig med kronisk behandling. / Ta hänsyn till att alla svenska godkännanden är indragna när eventuell fortsatt utvärdering övervägs.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-landiolol-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Båda godkännandena innehas av Amomed Pharma GmbH och är indragna. Det finns därför inget giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Ta hänsyn till att alla svenska godkännanden är indragna när eventuell fortsatt utvärdering övervägs” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

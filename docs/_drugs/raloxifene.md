@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 374
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "raloxifene"
 predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux"]
 description: "Raloxifene: predikterad ny indikation Duodenal ulcer (disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -68,6 +68,12 @@ Förutsägelsen bör därför ses som en hypotes att granska, inte som ett under
 
 Bland övriga förutsägelser finns **hypoalfalipoproteinemi** (låg HDL-nivå), där en möjlig men obekräftad koppling via lipidpåverkan finns. Även för denna saknas kliniska data.
 
+<!-- review:begin se-lic-20261106-raloxifene-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Båda godkännandena är för oral användning och avregistrerade, så läkemedlet har för närvarande inget giltigt godkännande i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-raloxifene-1 -->
+
 ---
 
 ## Marknadsinformation Sverige
@@ -113,6 +119,12 @@ Se produktresumén för fullständiga varningar och försiktighetsåtgärder.
 **Motivering:**
 - Förutsägelsen för duodenalsår bygger enbart på en modellberäkning (evidensnivå L5), utan kliniska prövningar eller litteratur, och ett rimligt mekanistiskt samband saknas.
 
+<!-- review:begin se-lic-20261106-raloxifene-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen för duodenalsår bygger enbart på en modellberäkning (evidensnivå L5), utan kliniska prövningar eller litteratur, och ett rimligt mekanistiskt samband saknas. Dessutom är samtliga svenska godkännanden avregistrerade och säkerhetsprofilen innehåller betydande tromboembolisk och kardiovaskulär risk.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-raloxifene-2 -->
+
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata (till exempel från DrugBank) och analysera eventuella mekanistiska kopplingar till duodenalsår.
 - Hämta och granska produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer, vilket är ett blockerande datagap.
@@ -120,6 +132,27 @@ Se produktresumén för fullständiga varningar och försiktighetsåtgärder.
 - Överväga prekliniska studier om en biologisk hypotes kan formuleras.
 - Klargöra regulatorisk väg.
 - Bedöma de övriga förutsägelserna (till exempel hypoalfalipoproteinemi) separat, om en lipidrelaterad hypotes ska prioriteras.
+
+<!-- review:begin se-lic-20261106-raloxifene-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra regulatorisk väg, eftersom inget giltigt godkännande finns i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-raloxifene-3 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Båda godkännandena är för oral användning och avregistrerade, så läkemedlet har för närvarande inget giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden avregistrerade och säkerhetsprofilen innehåller betydande tromboembolisk och kardiovaskulär risk” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom inget giltigt godkännande finns i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

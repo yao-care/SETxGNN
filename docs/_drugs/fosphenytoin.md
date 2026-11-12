@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 209
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "fosphenytoin"
 predicted_indications: ["conjunctivitis", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome", "manic bipolar affective disorder", "myositis fibrosa", "idiopathic granulomatous myositis", "fibromyalgia"]
 description: "Fosphenytoin: predikterad ny indikation Conjunctivitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -113,6 +113,12 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Motivering:**
 - Den enda stödjande publikationen är en liten explorativ rapport från 2003 utan verifierad design eller resultat, och inga kliniska prövningar finns. Säkerhetsunderlaget från produktinformationen saknas.
 
+<!-- review:begin se-lic-20261106-fosphenytoin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga svenska godkännanden är dessutom indragna, och säkerhetsunderlaget från produktinformationen saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-fosphenytoin-1 -->
+
 **För att gå vidare krävs:**
 - Granskning av fulltexten till PMID 12716241 för att bedöma studiedesign, storlek och resultat
 - Systematisk litteratursökning efter ytterligare studier av fenytoin/fosfenytoin vid mani
@@ -120,6 +126,26 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 - Hämtning av verkningsmekanismdata från DrugBank
 - Utvärdering av administreringsväg, eftersom fosfenytoin ges intravenöst eller intramuskulärt och därför är mindre lämpat för långtidsbehandling
 - Bedömning av läkemedlets nuvarande tillgänglighet i Sverige
+
+<!-- review:begin se-lic-20261106-fosphenytoin-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedömning av läkemedlets nuvarande tillgänglighet i Sverige, då inget godkännande är giltigt” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-fosphenytoin-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”amtliga svenska godkännanden är dessutom indragna, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”då inget godkännande är giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

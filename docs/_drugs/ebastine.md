@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 157
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "ebastine"
 predicted_indications: ["coronary artery disease", "myocardial ischemia"]
 description: "Ebastine: predikterad ny indikation Kranskärlssjukdom (coronary artery disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -84,6 +84,12 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Indikationstext finns inte registrerad för något av dem. Nedan visas fem av godkännandena.
 
+<!-- review:begin se-lic-20261106-ebastine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 20 godkännanden är avregistrerade och inget är giltigt idag. Indikationstext finns inte registrerad för något av dem.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ebastine-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
 | 43724 | Ebastine Teva | Munsönderfallande tablett | Godkänt |
@@ -116,6 +122,19 @@ Observera att inga varningar eller kontraindikationer från läkemedelsinformati
 - Genomföra litteratur- och prövningssökning samt prekliniska studier av histamin- och mastcellsmekanismer vid kranskärlssjukdom.
 - Bedöma vägen till marknaden, eftersom det finns 20 giltiga godkännanden på den svenska marknaden och läkemedlet är marknadsfört.
 - Bedöma om förutsägelserna för kranskärlssjukdom och myokardischemi ska hanteras som ett gemensamt spår.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är avregistrerade och inget är giltigt idag” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

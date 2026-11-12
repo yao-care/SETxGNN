@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 435
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "TRAVOPROST"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
 description: "Travoprost: predikterad ny indikation Visceral calciphylaxis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -81,6 +81,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande för visceral
 
 Indikationstexter saknas i registret.
 
+<!-- review:begin se-lic-20261106-travoprost-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 10 godkännanden är indragna. Indikationstexter saknas i registret.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 10, varav giltiga: 10; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-travoprost-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
 | 48021 | Travoprost STADA | Ögondroppar, lösning | Indragen |
@@ -108,12 +114,39 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Motivering:**
 - Förutsägelsen för visceral kalcifylaxi bygger enbart på modellen, utan studier eller litteratur, och ett rimligt mekanistiskt samband saknas.
 
+<!-- review:begin se-lic-20261106-travoprost-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen för visceral kalcifylaxi bygger enbart på modellen, utan studier eller litteratur, och ett rimligt mekanistiskt samband saknas. Dessutom är samtliga svenska godkännanden indragna och ögondroppar ger låg systemisk exponering.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 10, varav giltiga: 10; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-travoprost-2 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé med varningar och kontraindikationer.
 - Hämta verkningsmekanismdata från DrugBank och analysera ett eventuellt samband med kalcifylaxins patologi (kärlförkalkning, mikrotrombos).
 - Prekliniska studier (cell- eller djurmodeller) som visar att FP-receptoragonism påverkar kärlförkalkning.
 - Utvärdera om en systemisk beredningsform vore nödvändig, eftersom ögondroppar inte ger relevant systemisk exponering.
 - Klargöra läkemedlets nuvarande regulatoriska status i Sverige.
+
+<!-- review:begin se-lic-20261106-travoprost-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra läkemedlets nuvarande regulatoriska status i Sverige, eftersom alla godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 10, varav giltiga: 10; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-travoprost-3 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 10 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna och ögondroppar ger låg systemisk exponering” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

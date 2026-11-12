@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 347
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "phenylephrine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
 description: "Phenylephrine: predikterad ny indikation Sjukdomar i näshålan (nasal cavity disease) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -128,9 +128,28 @@ Information från produktresumén (varningar och kontraindikationer) saknas i un
 - Klargöra om indikationen innebär verklig nyhet jämfört med de befintliga indikationerna (rinit, nasofaryngit).
 - Utvärdera beredningsform och administrationsväg (t.ex. nasal beredning).
 
+<!-- review:begin se-lic-20261106-phenylephrine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Utvärdera beredningsform och administrationsväg (t.ex. nasal beredning), eftersom inga nasala produkter finns bland de avregistrerade godkännandena.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 12, varav giltiga: 12; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-phenylephrine-1 -->
+
 ---
 
 *Not om andra förutsägelser:* Akut laryngofaryngit (rank 2) har enbart modellstöd (L5) utan studier. Trigeminal autonom huvudvärk (rank 3) har litteratur som uteslutande gäller fenylefrin som diagnostiskt verktyg vid pupillometri, inte som behandling. Båda bedöms därför som "Avvakta".
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”eftersom inga nasala produkter finns bland de avregistrerade godkännandena” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

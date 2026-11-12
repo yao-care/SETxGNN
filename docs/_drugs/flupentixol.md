@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 204
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "flupentixol"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "myopia X-linked", "syndromic myopia", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
 description: "Flupentixol: predikterad ny indikation Retinal dystrofi med eller utan extraokulära avvikelser (retinal dystrophy with or without extraocular anomalies) (evidensnivå L5). Ursprunglig indikation: Inte…"
@@ -80,6 +80,12 @@ Något mekanistiskt samband mellan dopaminreceptorblockad och retinal dystrofi h
 
 Ytterligare två godkännanden (45009 och 59028) finns också.
 
+<!-- review:begin se-lic-20261106-flupentixol-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ytterligare två godkännanden (45009 och 59028) finns också, och samtliga sju är avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-flupentixol-1 -->
+
 ---
 
 ### Säkerhetsaspekter
@@ -103,6 +109,26 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 - Produktresumé från Läkemedelsverket med varningar och kontraindikationer. Detta är ett hinder för säkerhetsscreening.
 - En litteratursökning och prekliniska studier som undersöker om dopaminreceptorblockad har någon roll vid retinal dystrofi.
 - Bedömning av tillämplig beredningsform och administreringsväg.
+
+<!-- review:begin se-lic-20261106-flupentixol-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedömning av tillämplig beredningsform och administreringsväg, eftersom produkten för närvarande saknar giltigt godkännande i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-flupentixol-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”och samtliga sju är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom produkten för närvarande saknar giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

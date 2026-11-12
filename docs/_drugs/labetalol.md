@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 247
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "labetalol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 description: "Labetalol: predikterad ny indikation Malignant hypertensive renal disease (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -72,6 +72,12 @@ Det är dock mer en utvidgning av den befintliga hypertoniindikationen än en eg
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
 
+<!-- review:begin se-lic-20261106-labetalol-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla fem godkännanden är indragna, och inget giltigt godkännande finns för närvarande.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-labetalol-1 -->
+
 ---
 
 ## Litteraturbevis
@@ -121,9 +127,29 @@ Bland de 30 registrerade tillstånden finns bland annat leversvikt, leversjukdom
 - Söka riktad litteratur om labetalol vid malign och renovaskulär hypertoni, helst jämförande studier.
 - Bedöma om indikationen i praktiken redan täcks av den etablerade hypertoniindikationen.
 
+<!-- review:begin se-lic-20261106-labetalol-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedöma om indikationen i praktiken redan täcks av den etablerade hypertoniindikationen. / Utreda marknadsstatus, eftersom alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-labetalol-2 -->
+
 ---
 
 Pulmonell hypertension orsakad av lungsjukdom och/eller hypoxi samt pulmonell hypertension med oklar multifaktoriell mekanism (båda 99,1 %, L5). För de två sistnämnda finns ingen känd mekanism för trycksänkning i lungkretsloppet, och icke-selektiv betablockad kan vara skadlig vid lungsjukdom. Rekommendation för samtliga: avvakta.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla fem godkännanden är indragna, och inget giltigt godkännande finns för närvarande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Utreda marknadsstatus, eftersom alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

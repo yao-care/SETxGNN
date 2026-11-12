@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 370
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "propranolol"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
 description: "Propranolol: predikterad ny indikation Distal myopathy, Tateyama type (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -74,6 +74,12 @@ Bland övriga högt rankade förutsägelser finns två med något mer underlag: 
 
 Indikationstext saknas i data.
 
+<!-- review:begin se-lic-20261106-propranolol-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga nio godkännanden är indragna. Indikationstext saknas i data.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-propranolol-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
 |---------|------|------|-----------|
 | 59316 | Propranolol Ebb | Filmdragerad tablett | Ebb Medical AB |
@@ -100,12 +106,32 @@ Varnings- och kontraindikationstext från produktresumén saknas i underlaget oc
 **Motivering:**
 - Förutsägelsen bygger enbart på en modellberäkning (L5) utan kliniska prövningar eller litteratur, och det finns inget känt mekanistiskt samband. Dessutom listas myopati och muskelsjukdom som möjliga kontraindikationer i kunskapsgrafen.
 
+<!-- review:begin se-lic-20261106-propranolol-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom listas myopati och muskelsjukdom som möjliga kontraindikationer i kunskapsgrafen, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-propranolol-2 -->
+
 **För att gå vidare krävs:**
 - Verkningsmekanismdata hämtad från DrugBank för en mekanistisk bedömning.
 - Varningar och kontraindikationer från produktresumén (blockerande datagap för säkerhetsgranskning).
 - Prekliniska eller mekanistiska studier som visar en koppling mellan betablockad och patofysiologin vid distal myopati av Tateyama-typ.
 - Litteratursökning och kontroll av registrerade prövningar för just denna sjukdom.
 - Överväg att i stället prioritera förutsägelsen för kardiomyopati (hypertrofisk subtyp), där det finns mer klinisk grund, och cirrotisk kardiomyopati, där nytta och risk beror på sjukdomens svårighetsgrad.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga nio godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

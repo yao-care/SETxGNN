@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 335
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "paliperidone"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
 description: "Paliperidone: predikterad ny indikation Retinal dystrofi med eller utan extraokulära avvikelser (retinal dystrophy with or without extraocular anomalies) (evidensnivå L5). Ursprunglig indikation: Int…"
@@ -115,10 +115,29 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varnings- o
 **Motivering:**
 - Förutsägelsen bygger enbart på modellen (L5), utan prövningar, litteratur eller känd mekanism.
 
+<!-- review:begin se-lic-20261106-paliperidone-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen bygger enbart på modellen (L5), utan prövningar, litteratur eller känd mekanism. Dessutom är samtliga svenska godkännanden avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-paliperidone-1 -->
+
 **För att gå vidare krävs:**
 - Verkningsmekanism och produktresumé (varningar och kontraindikationer) måste kompletteras.
 - Prekliniska data som visar att D2/5-HT2A-blockad påverkar retinal dystrofi måste tas fram.
 - Genomgången bör vid behov utvidgas till de övriga förutsägelserna. Den enda med faktiska studier är **behandlingsrefraktär schizofreni**, men den ligger inom den ursprungliga indikationen och är därför inte egentlig läkemedelsåteranvändning. De tre fas 4-prövningarna och två översiktsartiklarna är indirekta, och en av prövningarna avslutades i förtid med endast 5 deltagare.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

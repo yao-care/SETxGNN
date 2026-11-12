@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 425
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "thymol"
 predicted_indications: ["interventricular septum aneurysm", "pulmonary valve disease", "Laubry-Pezzi syndrome", "genetic syndromic Pierre Robin syndrome", "orofacial clefting syndrome", "partial deletion of the long arm of chromosome 22", "Pierre Robin syndrome associated with a chromosomal anomaly", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 7", "Jeune syndrome situs inversus"]
 description: "Thymol: predikterad ny indikation Interventricular septum aneurysm (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -41,6 +41,12 @@ Evidensnivå: **L5** | Förutsagda indikationer: **10** st
 ## Sammanfattning
 
 Tymol är den aktiva substansen i salvan Vicks Vaporub. Någon godkänd indikationstext finns inte i de data som sammanställts för denna rapport. Den är därmed en ren modellförutsägelse.
+
+<!-- review:begin se-lic-20261106-thymol-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det enda godkännandet i Sverige är avregistrerat, och någon godkänd indikationstext finns inte i de data som sammanställts för denna rapport.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-thymol-1 -->
 
 ---
 
@@ -104,12 +110,32 @@ Se produktresumén för säkerhetsinformation. Inga interaktionsdata hittades f�
 - Förutsägelsen är enbart beräkningsbaserad (evidensnivå L5) och saknar både kliniska studier och mekanistiskt stöd. Tillståndet är dessutom strukturellt och kan rimligen inte behandlas med tymol.
 - Data om verkningsmekanism, varningar och kontraindikationer saknas.
 
+<!-- review:begin se-lic-20261106-thymol-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det enda godkännandet är avregistrerat, och data om verkningsmekanism, varningar och kontraindikationer saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-thymol-2 -->
+
 **För att gå vidare krävs:**
 - Verkningsmekanismdata för tymol, till exempel från DrugBank.
 - Produktresumé med varningar och kontraindikationer från Läkemedelsverket.
 - Prekliniska data som kopplar tymol till patofysiologin vid den aktuella sjukdomen.
 - En bedömning av administreringsväg. Tymol finns i dag som salva, vilket knappast lämpar sig för hjärtsjukdom.
 - Om utvärderingen ska fortsätta kan andra förutsagda indikationer med mer biologiskt rimliga samband prioriteras, till exempel inflammatoriska eller antimikrobiella tillstånd.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Det enda godkännandet i Sverige är avregistrerat, och n” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”et enda godkännandet är avregistrerat, och d” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

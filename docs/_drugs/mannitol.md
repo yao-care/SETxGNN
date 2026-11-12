@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 274
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "MANNITOL"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
 description: "Mannitol: predikterad ny indikation Nephrogenic syndrome of inappropriate antidiuresis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -84,6 +84,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Indikationstext saknas för alla fyra.
 
+<!-- review:begin se-lic-20261106-mannitol-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga fyra godkännanden är återkallade, och ingen produkt med mannitol har för närvarande giltigt godkännande i de data som sammanställts. Indikationstext saknas för alla fyra.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-mannitol-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
 | 22708 | Aridol | Inhalationspulver, hård kapsel | Godkänd |
@@ -121,6 +127,19 @@ Vid den aktuella förutsagda indikationen är särskilt nedsatt njurfunktion, lu
 - Komplettera data om verkningsmekanism (t.ex. från DrugBank).
 - Genomföra en riktad litteraturgenomgång om mannitol vid nefrogent syndrom med olämplig antidiures, samt prekliniska data som kan stödja en mekanism.
 - Bedöma om andra förutsagda indikationer, som akut pulmonell hjärtsjukdom (där litteraturen snarare pekar på risk för lungödem), har bättre underlag. Ingen av dem har i nuläget kliniska prövningar.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga fyra godkännanden är återkallade, och ingen produkt med mannitol har för närvarande giltigt godkännande i de data som sammanställts” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 130
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "deferiprone"
 predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "hepatoportal sclerosis", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary"]
 description: "Deferiprone: predikterad ny indikation Hepatisk porfyri (hepatic porphyria) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -66,6 +66,12 @@ Vid porfyri, särskilt porphyria cutanea tarda, förvärrar ökat leverjärn och
 
 Två prekliniska studier stöder resonemanget. En studie från 2020 visade att järnkelering förbättrade hemolytisk anemi och ljuskänslighet i en modell av kongenital erytropoetisk porfyri. En studie från 2007 på möss (modell för porphyria cutanea tarda) jämförde deferipron med järnfattig kost. Resultaten kommer dock från djurmodeller, och det saknas data från människa.
 
+<!-- review:begin se-lic-20261106-deferiprone-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga fem godkännanden är indragna, och inget läkemedel med deferipron har för närvarande giltigt godkännande i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-deferiprone-1 -->
+
 ---
 
 ### Litteraturbevis
@@ -109,12 +115,39 @@ Två prekliniska studier stöder resonemanget. En studie från 2020 visade att j
 **Motivering:**
 - Evidensen för hepatisk porfyri är begränsad till två prekliniska djurstudier utan kliniska prövningar. Dessutom saknas varnings- och kontraindikationsdata, vilket hindrar en fullständig säkerhetsbedömning.
 
+<!-- review:begin se-lic-20261106-deferiprone-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Evidensen för hepatisk porfyri är begränsad till två prekliniska djurstudier utan kliniska prövningar, och läkemedlet saknar för närvarande giltigt godkännande i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-deferiprone-2 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket
 - Hämta data om verkningsmekanismen från DrugBank
 - Utvärdera säkerhetsprofilen, särskilt risken för agranulocytos och behovet av blodövervakning
 - Genomföra eller identifiera kliniska studier (t.ex. fall- eller pilotstudier) på människor med porphyria cutanea tarda eller andra porfyrier
 - Klargöra läkemedlets regulatoriska status
+
+<!-- review:begin se-lic-20261106-deferiprone-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra läkemedlets regulatoriska status, eftersom alla godkännanden är indragna” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-deferiprone-3 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga fem godkännanden är indragna, och inget läkemedel med deferipron har för närvarande giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och läkemedlet saknar för närvarande giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 188
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "famotidine"
 predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
 description: "Famotidine: predikterad ny indikation Duodenal obstruction (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -69,6 +69,12 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i dat
 Peptiskt sår uppstår när skadliga faktorer (syra, pepsin, NSAID, galla) överväldigar slemhinnans skyddsmekanismer. Eftersom syrahämning är kopplad till sårläkning ligger indikationen mycket nära famotidins redan kända användning vid magsår och duodenalsår. Förutsägelsen är därför mekanistiskt rimlig, men den är i praktiken en bekräftelse av en befintlig användning.
 
 Det viktigaste förbehållet är att protonpumpshämmare (PPI) i flera direkta jämförelser var bättre än famotidin för att förebygga återfall. Famotidins roll är därmed främst som alternativ, till exempel när PPI är olämpliga, som hos patienter som tar tienopyridiner där CYP2C19-interaktioner kan vara ett problem.
+
+<!-- review:begin se-lic-20261106-famotidine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Båda godkännandena är indragna och inget giltigt godkännande finns för närvarande.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-famotidine-1 -->
 
 ---
 
@@ -142,12 +148,39 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 - Evidensen för peptisk sårsjukdom är relativt omfattande, men den bekräftar främst en redan etablerad användning. Flera direkta jämförelser visar att PPI är bättre än famotidin för att förebygga återfall, så famotidin är i första hand ett alternativ.
 - Varnings- och kontraindikationsdata från produktresumén saknas, vilket hindrar en fullständig säkerhetsbedömning.
 
+<!-- review:begin se-lic-20261106-famotidine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Båda svenska godkännandena är indragna, och varnings- och kontraindikationsdata från produktresumén saknas, vilket hindrar en fullständig säkerhetsbedömning.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-famotidine-2 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén från Läkemedelsverket för varningar och kontraindikationer.
 - Hämta verkningsmekanismdata (till exempel via DrugBank).
 - Kontrollera vilka famotidinprodukter som faktiskt finns tillgängliga i Sverige.
 - Definiera vilken patientgrupp som är relevant (till exempel patienter där PPI är olämpliga) och utvärdera prövningar med famotidin som testläkemedel.
 - Ompröva evidensnivån, eftersom ingen avslutad fas 3-RCT på peptiskt sår med famotidin som testläkemedel ingår.
+
+<!-- review:begin se-lic-20261106-famotidine-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Kontrollera vilka famotidinprodukter som faktiskt finns tillgängliga i Sverige, eftersom endast indragna godkännanden finns registrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-famotidine-3 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Båda godkännandena är indragna och inget giltigt godkännande finns för närvarande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Båda svenska godkännandena är indragna, och v” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom endast indragna godkännanden finns registrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

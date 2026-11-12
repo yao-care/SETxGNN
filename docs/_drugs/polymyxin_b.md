@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 356
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "polymyxin b"
 predicted_indications: ["bronchitis", "laryngotracheitis"]
 description: "Polymyxin B: predikterad ny indikation Bronkit (bronchitis) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -43,6 +43,12 @@ Evidensnivå: **L4** | Förutsagda indikationer: **2** st
 Polymyxin B har i Sverige marknadsförts som en del av kombinationsprodukten Terracortril med Polymyxin B (ögon-/örondroppar och ögon-/öronsalva). Den godkända indikationstexten finns inte angiven.
 TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **bronkit**, med ett mycket högt förutsägelsepoäng (0,9987). Det finns dock **inga registrerade kliniska prövningar** och bara indirekt litteratur: en liten fallserie och en jämförande studie om ventilatorassocierad pneumoni. Litteraturen visar dessutom att inhalerat polymyxin B kan verka irriterande på luftvägarna.
 
+<!-- review:begin se-lic-20261106-polymyxin_b-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Produkterna är numera avregistrerade, och den godkända indikationstexten finns inte angiven.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-polymyxin_b-1 -->
+
 ---
 
 ## Snabböversikt
@@ -72,6 +78,12 @@ Stödet är dock indirekt och inte specifikt för bronkit. Det höga modellpoän
 ## Kliniska prövningar
 
 Inga relaterade kliniska prövningar registrerade för närvarande.
+
+<!-- review:begin se-lic-20261106-polymyxin_b-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga sex godkännanden är indragna. Ytterligare ett godkännande (56723) finns, också indraget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-polymyxin_b-2 -->
 
 ---
 
@@ -133,11 +145,32 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Motivering:**
 - Det höga modellpoängen stöds inte av direkt evidens. Det saknas kliniska prövningar, litteraturen är indirekt och till stor del gammal, och inhalerat polymyxin B kan irritera luftvägarna och utlösa bronkkonstriktion.
 
+<!-- review:begin se-lic-20261106-polymyxin_b-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det saknas kliniska prövningar, litteraturen är indirekt och till stor del gammal, och inhalerat polymyxin B kan irritera luftvägarna och utlösa bronkkonstriktion. / Alla svenska godkännanden är dessutom indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-polymyxin_b-3 -->
+
 **För att gå vidare krävs:**
 - Kontrollerade kliniska studier eller välgjorda observationsstudier som specifikt undersöker polymyxin B vid bakteriell bronkit/trakeobronkit.
 - Utvärdering av säkerheten vid inhalation, särskilt hos patienter med astma eller kronisk obstruktiv lungsjukdom.
 - Detaljerad data om verkningsmekanism samt produktresumé med varningar och kontraindikationer.
 - Klargörande av vilken beredningsform och administreringsväg som skulle krävas, eftersom de tidigare svenska produkterna var ögon-/öronberedningar.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Produkterna är numera avregistrerade, och d” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga sex godkännanden är indragna. Ytterligare ett godkännande (56723) finns, också indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är dessutom indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

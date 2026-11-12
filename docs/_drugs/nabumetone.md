@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 308
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "nabumetone"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis"]
 description: "Nabumetone: predikterad ny indikation Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala u…"
@@ -78,6 +78,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Ingen relaterad litteratur tillgänglig för närvarande.
 
+<!-- review:begin se-lic-20261106-nabumetone-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Båda godkännandena är indragna, och det finns för närvarande inget giltigt godkännande i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-nabumetone-1 -->
+
 ---
 
 ### Marknadsinformation Sverige
@@ -114,11 +120,31 @@ Uppgifter från produktresumén om varningar och kontraindikationer saknas i de 
 **Motivering:**
 - Förutsägelsen saknar både kliniska prövningar och litteratur, och det finns inget trovärdigt mekanistiskt samband mellan COX-2-hämning och en genetisk broskutvecklingsstörning.
 
+<!-- review:begin se-lic-20261106-nabumetone-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen saknar både kliniska prövningar och litteratur, och det finns inget trovärdigt mekanistiskt samband mellan COX-2-hämning och en genetisk broskutvecklingsstörning. / Dessutom saknar läkemedlet för närvarande giltigt godkännande i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-nabumetone-2 -->
+
 **För att gå vidare krävs:**
 - Hämta produktresumén från Läkemedelsverket (MPA) för att komplettera varningar och kontraindikationer.
 - Komplettera data om verkningsmekanism från DrugBank.
 - Genomföra en riktad litteratursökning och prekliniska studier om nabumeton vid GDF5-relaterade skelettsjukdomar.
 - Överväga att i stället granska den mer biologiskt rimliga kandidaten **spondyloartropati** (NSAID är förstahandsbehandling vid spondylartrit), för vilken en riktad litteratursökning på klassnivå vore nästa steg. Även **reumatoid nodulos** kan utredas som en symtomatisk indikation kopplad till den ursprungliga reumatoida artriten.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Båda godkännandena är indragna, och det finns för närvarande inget giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom saknar läkemedlet för närvarande giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

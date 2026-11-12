@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 432
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "trabectedin"
 predicted_indications: ["female breast carcinoma"]
 description: "Trabectedin: predikterad ny indikation Bröstcancer hos kvinnor (female breast carcinoma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -97,6 +97,12 @@ Dessutom visar prekliniska studier att trabektedin minskar antalet tumörassocie
 
 Ingen indikationstext finns tillgänglig i de data som sammanställts.
 
+<!-- review:begin se-lic-20261106-trabectedin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga åtta godkännanden är avregistrerade, och ingen indikationstext finns tillgänglig i de data som sammanställts.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-trabectedin-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 63266 | Trabectedin STADA | Pulver till koncentrat till infusionsvätska, lösning | – |
@@ -142,12 +148,32 @@ För varningar och kontraindikationer: se produktresumén för säkerhetsinforma
 - Modellpoängen är mycket hög och verkningsmekanismen är biologiskt rimlig, särskilt vid BRCA-relaterad bröstcancer. Det finns även flera fas 2-studier vid bröstcancer. Den enda registrerade kliniska prövningen är dock en QT-studie, inga bekräftande fas 3-studier har identifierats.
 - Evidensnivån L2 i underlaget vilar på fas 2-studier i litteraturen. Resultaten av dessa studier ingår inte i de sammanställda data, så nivån bör ses som preliminär.
 
+<!-- review:begin se-lic-20261106-trabectedin-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den enda registrerade kliniska prövningen är dock en QT-studie, inga bekräftande fas 3-studier har identifierats, och samtliga svenska godkännanden är avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-trabectedin-2 -->
+
 **För att gå vidare krävs:**
 - Granska resultaten från fas 2-studierna (PMID 25239225, 24692579, 27266804) vad gäller svarsfrekvens, progressionsfri överlevnad och säkerhet.
 - Identifiera eller genomföra effektstudier vid bröstcancer, helst med fokus på BRCA-muterade eller HRD-positiva undergrupper.
 - Hämta varningar och kontraindikationer från produktresumén, eftersom säkerhetsdata saknas i de sammanställda uppgifterna.
 - Följa läkemedlets tillgänglighet i Sverige; läkemedlet är marknadsfört och alla 8 godkännanden är giltiga.
 - Komplettera verkningsmekanismdata, till exempel via DrugBank.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga åtta godkännanden är avregistrerade, och i” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och samtliga svenska godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

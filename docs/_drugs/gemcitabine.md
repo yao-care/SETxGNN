@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 214
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "endometrial mixed adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
 description: "Gemcitabine: predikterad ny indikation Rectum mucinous adenocarcinoma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -143,6 +143,12 @@ Uppgifter från produktresumé om varningar och kontraindikationer saknas i den 
 - Det finns direkt klinisk evidens för gemcitabin vid bröstcancer, bland annat en avslutad fas 3-RCT och flera fas 2-studier. Gemcitabin plus paklitaxel är redan en etablerad regim, så detta är mer en bekräftelse än en ny återanvändning.
 - Den centrala säkerhetsinformationen från produktresumén saknas, ingen litteratur är kopplad till indikationen.
 
+<!-- review:begin se-lic-20261106-gemcitabine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den centrala säkerhetsinformationen från produktresumén saknas, ingen litteratur är kopplad till indikationen, och alla svenska godkännanden är indragna, vilket begränsar bedömningen.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-gemcitabine-1 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket.
 - Hämta verkningsmekanismdata från DrugBank.
@@ -163,6 +169,18 @@ Modellen förutsäger även andra indikationer. Evidensen för dessa är svagare
 | Kolon mucinös adenokarcinom | 0,9976 | L5, endast fallrapporter |
 | Cervikal mucinös adenokarcinom | 0,9975 | L5, indirekt evidens |
 | Gallblåsa mucinös adenokarcinom | 0,9975 | L5, fallrapporter |
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna, vilket begränsar bedömningen” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

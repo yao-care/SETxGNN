@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 434
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "tranylcypromine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "Ohdo syndrome and variants", "agoraphobia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "ligneous conjunctivitis", "Keppen-Lubinsky syndrome"]
 description: "Tranylcypromine: predikterad ny indikation Benign paroxysmal torticollis of infancy (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -111,6 +111,12 @@ För de närliggande förutsägelserna finns följande urval av relevant littera
 
 Det sjätte (nr 59076, Tranylcypromine Glenmark, Glenmark Arzneimittel GmbH) visas inte ovan.
 
+<!-- review:begin se-lic-20261106-tranylcypromine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Totalt finns 6 godkännanden, samtliga indragna. Det sjätte (nr 59076, Tranylcypromine Glenmark, Glenmark Arzneimittel GmbH) visas inte ovan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-tranylcypromine-1 -->
+
 ---
 
 ## Säkerhetsaspekter
@@ -131,10 +137,30 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 - Den högst rankade förutsägelsen (godartad paroxysmal torticollis hos spädbarn) bygger enbart på modellen (L5), saknar kliniska data och är olämplig med tanke på läkemedlets säkerhetsprofil hos spädbarn.
 - Förutsägelserna för melankoli och neurotisk depression (L3) ligger nära befintliga indikationer och motsvarar mest en omformulering av dem, inte verklig återanvändning.
 
+<!-- review:begin se-lic-20261106-tranylcypromine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga svenska godkännanden är dessutom indragna. / Förutsägelserna för melankoli och neurotisk depression (L3) ligger nära befintliga indikationer och motsvarar mest en omformulering av dem, inte verklig återanvändning.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-tranylcypromine-2 -->
+
 **För att gå vidare krävs:**
 - Uppgifter från produktresumén om varningar och kontraindikationer samt verkningsmekanism (saknas i underlaget).
 - Klinisk eller preklinisk evidens som specifikt stöder tranylcypromin vid den förutsagda indikationen.
 - Om depressionsnära indikationer ska utredas vidare (melankoli, neurotisk depression, dysthymi, agorafobi): läkemedelsspecifika kontrollerade studier och skyddsåtgärder såsom tyraminfri kost, interaktionskontroll (serotonerga läkemedel, sympatomimetika) och blodtrycksövervakning.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Totalt finns 6 godkännanden, samtliga indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är dessutom indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

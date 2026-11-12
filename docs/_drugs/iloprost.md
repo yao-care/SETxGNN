@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 231
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "iloprost"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
 description: "Iloprost: predikterad ny indikation Hypotrichosis simplex of the scalp (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -101,6 +101,12 @@ Varnings- och kontraindikationstext från produktresumén saknas. Se produktresu
 **Motivering:**
 - Förutsägelsen för hypotrichosis simplex saknar både kliniska prövningar och litteratur. Det finns inget känt mekanistiskt samband.
 
+<!-- review:begin se-lic-20261106-iloprost-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det finns inget känt mekanistiskt samband, och läkemedlet har inga gällande godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-iloprost-1 -->
+
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata (t.ex. från DrugBank) och undersök om det finns ett biologiskt samband med hårfolliklarnas utveckling.
 - Hämta produktresumétext för varningar och kontraindikationer, vilket krävs för säkerhetsbedömning.
@@ -110,6 +116,19 @@ Varnings- och kontraindikationstext från produktresumén saknas. Se produktresu
 - **PAH associerad med medfödd hjärtsjukdom** och **PAH associerad med bindvävssjukdom** har vardera cirka 20 publikationer och evidensnivå L3. Evidensen är i huvudsak observationella studier, fallserier och översikter.
 - Båda är undergrupper av PAH, den ursprungliga indikationen, och är därför snarare populationsutvidgningar än egentlig läkemedelsåteranvändning.
 - Om rapporten ska ligga till grund för en prioritering är dessa två bättre underbyggda kandidater än hypotrichosis simplex.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”och läkemedlet har inga gällande godkännanden i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

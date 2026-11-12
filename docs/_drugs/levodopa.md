@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 261
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "LEVODOPA"
 predicted_indications: ["Rasmussen subacute encephalitis"]
 description: "Levodopa: predikterad ny indikation Rasmussens subakuta encefalit (Rasmussen subacute encephalitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -72,6 +72,12 @@ Mekanistiskt är dock stödet svagt. Levodopa har ingen känd antiinflammatorisk
 
 Ingen indikationstext finns registrerad. Nedan visas fem av dem.
 
+<!-- review:begin se-lic-20261106-levodopa-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 20 godkännanden är indragna och ingen indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-levodopa-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 63480 | Carbidopa/Levodopa Orifarm | Tablett | Ej angiven |
@@ -101,12 +107,32 @@ Varningar och kontraindikationer ur produktresumén saknas. Se produktresumén f
 **Motivering:**
 - Dessutom saknas ett rimligt mekanistiskt samband, och epilepsi finns bland kontraindikationerna i kunskapsgrafen.
 
+<!-- review:begin se-lic-20261106-levodopa-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom saknas ett rimligt mekanistiskt samband, och epilepsi finns bland kontraindikationerna i kunskapsgrafen. / Alla svenska godkännanden är indragna, vilket försvårar en snabb klinisk användning.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-levodopa-2 -->
+
 **För att gå vidare krävs:**
 - Hämta produktresumén från Läkemedelsverket (MPA) för att få varningar och kontraindikationer, vilket för närvarande blockerar säkerhetsgranskningen.
 - Komplettera verkningsmekanismen för levodopa, till exempel från DrugBank.
 - Genomföra en systematisk litteratur- och prövningssökning kring levodopa och Rasmussens encefalit, inklusive fallrapporter.
 - Utvärdera risken för sänkt kramptröskel och förvärrade rörelsestörningar hos patienter med Rasmussens encefalit.
 - Bedöma likheten med de ursprungliga indikationerna och vilken administreringsväg som skulle krävas.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna och i” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, vilket försvårar en snabb klinisk användning” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

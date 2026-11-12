@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 381
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "risperidone"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
 description: "Risperidone: predikterad ny indikation Gaze palsy, familial horizontal, with progressive scoliosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -84,6 +84,12 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Nedan visas fem av dem. Indikationstext saknas för dessa godkännanden.
 
+<!-- review:begin se-lic-20261106-risperidone-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 20 godkännanden är avregistrerade, och inget är giltigt idag. Nedan visas fem av dem.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-risperidone-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 23868 | Risperidon Krka | Filmdragerad tablett | Ej angiven |
@@ -119,6 +125,19 @@ Varnings- och kontraindikationstexter från produktresumén saknas i underlaget,
 - Beslut om vilken beredning som ska användas, eftersom ingen är marknadsförd i Sverige i dag.
 
 **Notering om övriga förutsägelser för risperidon:** Bland de andra förutsägelserna har **egentlig affektiv sjukdom** (depression) klart starkast stöd (evidensnivå L1). Där finns två avslutade fas 3-studier av tilläggsbehandling med risperidon vid behandlingsresistent depression (NCT00095134, 630 deltagare, och NCT00044681, 258 deltagare), plus flera systematiska översikter. Det är dock delvis en redan känd off-label-användning och inte en ny signal. Trikotillomani och Phelan-McDermids syndrom har endast svag evidens (L4, fallrapporter och prekliniska data). Dessa bör bedömas separat.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är avregistrerade, och inget är giltigt idag” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

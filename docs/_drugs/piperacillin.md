@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 353
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "piperacillin"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "WHIM syndrome"]
 description: "Piperacillin: predikterad ny indikation Reumatoid artrit (rheumatoid arthritis) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -95,6 +95,12 @@ Ingen av publikationerna visar effekt av piperacillin vid reumatoid artrit. Samt
 
 Godkänd indikationstext saknas i data. Ett urval av de huvudsakliga godkännandena:
 
+<!-- review:begin se-lic-20261106-piperacillin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 19 godkännanden är indragna och ingen produkt är för närvarande marknadsförd. Godkänd indikationstext saknas i data.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 19, varav giltiga: 19; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-piperacillin-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 24959 | Piperacillin/Tazobactam Stragen | Pulver till infusionsvätska, lösning | Ej angiven |
@@ -125,12 +131,32 @@ Se produktresumén för varningar och kontraindikationer, som inte ingår i de d
 **Motivering:**
 - Det saknas både mekanistisk grund och kliniskt stöd för piperacillin vid reumatoid artrit. Den höga modellpoängen verkar vara en artefakt, och all litteratur beskriver reumatoid artrit som bakgrundssjukdom vid infektionsbehandling.
 
+<!-- review:begin se-lic-20261106-piperacillin-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den höga modellpoängen verkar vara en artefakt, och all litteratur beskriver reumatoid artrit som bakgrundssjukdom vid infektionsbehandling. Dessutom är alla svenska godkännanden indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 19, varav giltiga: 19; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-piperacillin-2 -->
+
 **För att gå vidare krävs:**
 - Detaljerad verkningsmekanismdata och en trovärdig biologisk hypotes för en effekt vid reumatoid artrit
 - Prekliniska data (in vitro/in vivo) som visar relevant antiinflammatorisk eller immunmodulerande aktivitet
 - Produktresumé med varningar och kontraindikationer för säkerhetsbedömning
 - Bedömning av vad långvarig behandling med ett antibiotikum skulle innebära (resistensutveckling, biverkningar), eftersom reumatoid artrit är en kronisk sjukdom
 - Övriga förutsägelser (t.ex. sklerotiserande kolangit, där piperacillin endast kan behandla infektiösa komplikationer) saknar likaså evidens och bör inte prioriteras
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 19 godkännanden är indragna och ingen produkt är för närvarande marknadsförd” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

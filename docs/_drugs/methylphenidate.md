@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 286
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "methylphenidate"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
 description: "Methylphenidate: predikterad ny indikation Faciodigitogenitalt syndrom (faciodigitogenital syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -106,6 +106,12 @@ Eftersom den högst rankade förutsägelsen saknar litteratur redovisas här lit
 
 Ingen godkänd indikationstext finns registrerad. Nedan visas fem av dem.
 
+<!-- review:begin se-lic-20261106-methylphenidate-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 20 godkännanden är indragna. Ingen godkänd indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-methylphenidate-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
 | 23837 | Medikinet | Tablett | Indragen |
@@ -141,6 +147,26 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Genomföra riktad litteratursökning på metylfenidat och *FGD1*/Aarskog-Scott syndrom samt på dystymi, helst med kontrollerade studier.
 - Bedöma om förutsägelsen om specifik utvecklingsstörning tillför något utöver den redan kända ADHD-indikationen.
 - Klargöra regulatorisk status och tillgänglig beredningsform.
+
+<!-- review:begin se-lic-20261106-methylphenidate-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra regulatorisk status och tillgänglig beredningsform, eftersom alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-methylphenidate-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

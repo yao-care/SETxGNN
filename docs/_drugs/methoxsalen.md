@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 285
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "methoxsalen"
 predicted_indications: ["localized pagetoid reticulosis", "neoplasm of mature B-cells", "small intestinal Burkitt lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "vulvar inverted follicular keratosis"]
 description: "Methoxsalen: predikterad ny indikation Localized pagetoid reticulosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -137,6 +137,12 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Motivering:**
 - Förutsägelsen för lokaliserad pagetoid retikulos har en mycket hög modellpoäng och en rimlig biologisk grund, men saknar helt kliniska prövningar och litteratur.
 
+<!-- review:begin se-lic-20261106-methoxsalen-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen för lokaliserad pagetoid retikulos har en mycket hög modellpoäng och en rimlig biologisk grund, men saknar helt kliniska prövningar och litteratur. Dessutom är det enda svenska godkännandet indraget, och produktresumétexten saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-methoxsalen-1 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket, eftersom säkerhetsgranskningen inte kan slutföras utan den.
 - Hämta verkningsmekanismdata från DrugBank.
@@ -145,6 +151,19 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Väga risken för fototoxicitet och hudcancer mot nyttan.
 
 **Övriga förutsägelser:** De övriga åtta förutsägelserna (B-cellslymfom, Burkittlymfom, MALT-lymfom, follikulärt lymfom, tonsillärt lymfom och vulvär inverterad follikulär keratos) saknar både kliniska data och rimlig mekanism. De bedöms som modellartefakter och bör inte prioriteras.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Dessutom är det enda svenska godkännandet indraget, och produktresumétexten saknas” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

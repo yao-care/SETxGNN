@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 276
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "melphalan"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
 description: "Melphalan: predikterad ny indikation Female breast carcinoma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -67,6 +67,12 @@ Melfalan är ett DNA-alkylerande medel som bildar tvärbindningar mellan DNA-str
 Groddcellstumörer är generellt känsliga för DNA-skadande cytostatika. Det motiverar högdosregimer med melfalan och autolog stamcellsräddning vid recidiverande sjukdom eller dålig prognos.
 
 Poängen är ett modellresultat och inget kliniskt bevis. Melfalans egen andel av effekten går inte att skilja ut i de kombinationsregimer som prövats.
+
+<!-- review:begin se-lic-20261106-melphalan-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla tre godkännanden är indragna, och inget giltigt melfalanpreparat finns därmed registrerat i den sammanställda datan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-melphalan-1 -->
 
 ---
 
@@ -138,6 +144,26 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Analysera resultaten från NCT00936936 för att bedöma melfalans enskilda bidrag och effekt (svarsfrekvens, överlevnad) samt toxicitet.
 - Söka efter eller genomföra jämförande studier och ta hänsyn till att etablerade standardbehandlingar vid groddcellstumörer finns.
 - Utreda vilka melfalanberedningar som i dag går att tillgå i Sverige.
+
+<!-- review:begin se-lic-20261106-melphalan-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Utreda vilka melfalanberedningar som i dag går att tillgå i Sverige, eftersom alla godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-melphalan-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla tre godkännanden är indragna, och inget giltigt melfalanpreparat finns därmed registrerat i den sammanställda datan” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

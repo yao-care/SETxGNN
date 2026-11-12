@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 360
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
 description: "Pravastatin: predikterad ny indikation HIV infectious disease (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -143,11 +143,37 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 - Förutsägelsen är biologiskt rimlig, men det finns ingen studie av pravastatin vid homozygot familjär hyperkolesterolemi. Den enda prövningen gäller ett annat läkemedel (alirocumab).
 - Sjukdomen innebär att LDL-receptorn saknas eller fungerar mycket dåligt, vilket begränsar statiners effekt.
 
+<!-- review:begin se-lic-20261106-pravastatin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Sjukdomen innebär att LDL-receptorn saknas eller fungerar mycket dåligt, vilket begränsar statiners effekt. Dessutom är samtliga svenska godkännanden avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-pravastatin-1 -->
+
 **För att gå vidare krävs:**
 - Kontrollerade studier eller välgjorda observationsstudier med pravastatin hos patienter med homozygot familjär hyperkolesterolemi.
 - Jämförelse med eller tilläggseffekt till etablerade behandlingar (t.ex. PCSK9-hämmare, ezetimib, andra statiner).
 - Uppgifter om verkningsmekanism och säkerhet från aktuell produktresumé.
 - Klarhet i regulatorisk väg.
+
+<!-- review:begin se-lic-20261106-pravastatin-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klarhet i regulatorisk väg, eftersom inget preparat är marknadsfört i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-pravastatin-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom inget preparat är marknadsfört i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

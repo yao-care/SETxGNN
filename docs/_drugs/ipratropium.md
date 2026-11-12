@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 233
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-12
 monitor_inn: "ipratropium"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "respiratory malformation", "papillary conjunctivitis", "Rienhoff syndrome", "tracheal disease", "anaphylaxis", "food-dependent exercise-induced anaphylaxis"]
 description: "Ipratropium: predikterad ny indikation Nasal cavity disease (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -112,6 +112,12 @@ Flera andra prövningar var avbrutna eller återkallade, till exempel NCT0223542
 
 Någon indikationstext finns inte registrerad i de data som sammanställts. De fem första visas nedan.
 
+<!-- review:begin se-lic-20261106-ipratropium-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 20 godkännanden är indragna. Någon indikationstext finns inte registrerad i de data som sammanställts.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ipratropium-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 13667 | Rinivent | Nässpray, lösning | Uppgift saknas |
@@ -139,6 +145,12 @@ För varningar och försiktighetsåtgärder i övrigt, se produktresumén.
 **Motivering:**
 - Evidensen för ipratropium vid obstruktiv lungsjukdom är omfattande och mekanistiskt välgrundad, men indikationen sammanfaller med läkemedlets befintliga användning. Därför ger rapporten inget nytt behandlingsområde.
 
+<!-- review:begin se-lic-20261106-ipratropium-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Därför ger rapporten inget nytt behandlingsområde. Samtliga svenska godkännanden är dessutom indragna, och verkningsmekanism och produktresumédata saknas i underlaget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ipratropium-2 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé för varningar och kontraindikationer från Läkemedelsverket (MPA).
 - Komplettera verkningsmekanismen från DrugBank.
@@ -149,6 +161,20 @@ För varningar och försiktighetsåtgärder i övrigt, se produktresumén.
 ---
 
 *Övriga förutsagda indikationer (nässjukdom, faryngit, trakeal sjukdom m.fl.) har svagare evidens (L3–L5) och ingår inte i denna rapport. Anafylaxi bör särskilt undvikas som mål, eftersom litteraturen även rapporterar anafylaxi orsakad av ipratropium.*
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är dessutom indragna, och verkningsmekanism och produktresumédata saknas i underlaget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

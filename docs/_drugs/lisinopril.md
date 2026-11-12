@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 267
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "lisinopril"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
 description: "Lisinopril: predikterad ny indikation Pulmonary hypertension owing to lung disease and/or hypoxia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -72,6 +72,12 @@ Inga studier som specifikt rör denna undertyp har identifierats.
 
 Godkänd indikationstext finns inte registrerad. De fem första godkännandena visas nedan.
 
+<!-- review:begin se-lic-20261106-lisinopril-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 17 godkännanden är avregistrerade. Godkänd indikationstext finns inte registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 17, varav giltiga: 17; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-lisinopril-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 61807 | Lisinopril Ebb | Tablett | Ej angiven |
@@ -110,6 +116,19 @@ Produktresumé med varningar och kontraindikationer har inte kunnat hämtas, så
 - Klargöra marknadsläget, eftersom det för närvarande inte finns något giltigt svenskt godkännande.
 
 **Övriga förutsägelser i listan:** De övriga nio förutsägelserna har likaså låg evidens och bör avvaktas. Där finns två små kliniska studier med lisinopril (PMID 17047621 och 14524095), men båda är sannolikt små och okontrollerade, så kvaliteten är osäker. Den kan motivera en fortsatt forskningsfråga, men inte ett beslut att gå vidare.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 17 godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

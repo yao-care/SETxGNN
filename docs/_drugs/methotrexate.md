@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 284
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Methotrexate: predikterad ny indikation Pulmonary blastoma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -114,6 +114,12 @@ Nedan visas litteratur för de två indikationer som har starkast stöd i data: 
 
 Godkännandetexterna för indikation saknas i registret. De fem första visas nedan.
 
+<!-- review:begin se-lic-20261106-methotrexate-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 20 godkännanden är indragna och inget är giltigt. Godkännandetexterna för indikation saknas i registret.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-methotrexate-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 60569 | Methotrexate Accord | Injektionsvätska, lösning i förfylld injektor | Ej angiven |
@@ -159,11 +165,38 @@ Säkerhetsdata från produktresumén saknas i de sammanställda data. Se produkt
 - Förutsägelsen för pulmonellt blastom stöds enbart av modellen (L5), utan kliniska prövningar eller litteratur.
 - Flera andra förutsagda indikationer har bättre stöd. Hodgkins lymfom (L3) och rhabdomyosarkom (L2) kan prioriteras som forskningsfrågor. Primärt pulmonellt lymfom (L4) har plausibel biologi men saknar direkta studier.
 
+<!-- review:begin se-lic-20261106-methotrexate-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är samtliga svenska godkännanden indragna. / Flera andra förutsagda indikationer har bättre stöd.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-methotrexate-2 -->
+
 **För att gå vidare krävs:**
 - Hämta verkningsmekanism från DrugBank samt varningar och kontraindikationer från produktresumén (båda saknas).
 - Kartlägga om det finns publicerade fallrapporter eller prekliniska data för pulmonellt blastom.
 - För Hodgkins lymfom och rhabdomyosarkom: undersöka om metotrexat har ett eget bidrag till effekten, separat från kombinationsregimer, och väga detta mot säkerhetssignalen med metotrexatassocierade lymfoproliferativa sjukdomar.
 - Klargöra läkemedlets regulatoriska status.
+
+<!-- review:begin se-lic-20261106-methotrexate-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra läkemedlets regulatoriska status, eftersom alla svenska godkännanden är indragna, samt vilka beredningsformer som skulle behövas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-methotrexate-3 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna och inget är giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna, samt vilka beredningsformer som skulle behövas” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

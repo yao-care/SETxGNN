@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 149
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "donepezil"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
 description: "Donepezil: predikterad ny indikation Psychogenic movement disorders (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -92,6 +92,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Ingen godkänd indikationstext finns tillgänglig i underlaget. Nedan visas fem av dem.
 
+<!-- review:begin se-lic-20261106-donepezil-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 15 godkännanden är indragna. Ingen godkänd indikationstext finns tillgänglig i underlaget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 15, varav giltiga: 15; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-donepezil-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 43272 | Donepezil Sandoz | Munsönderfallande tablett | – |
@@ -119,6 +125,12 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 **Motivering:**
 - Evidensen för kronisk tics-sjukdom (L3) består av en liten öppen studie, fallrapporter och musstudier, utan registrerade prövningar. Den viktiga säkerhetsinformationen från produktresumén saknas.
 
+<!-- review:begin se-lic-20261106-donepezil-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är alla svenska godkännanden indragna, och den viktiga säkerhetsinformationen från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 15, varav giltiga: 15; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-donepezil-2 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer), vilket är ett blockerande datagap.
 - Komplettera data om verkningsmekanism från DrugBank.
@@ -130,6 +142,20 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 **Övriga förutsägelser (kort):**
 - *Extrapyramidal rörelsestörning* och *lingual-facial-buccal dyskinesi* (tardiv dyskinesi): evidensnivå L3, men Cochrane-översikterna bygger på små och osäkra studier, och risken för försämring är dokumenterad. Dessa bör behandlas som forskningsfrågor.
 - *Psykogena rörelsestörningar, primär ortostatisk tremor, godartade skakattacker, tremor-nystagmus-duodenalsårssyndrom* och *godartad paroxysmal tonic upgaze med ataxi*: endast modellförutsägelser (L5) utan stödjande studier. Avvakta.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 15 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”essutom är alla svenska godkännanden indragna, och d” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

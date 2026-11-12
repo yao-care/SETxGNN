@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 210
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "FULVESTRANT"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acne (disease)", "brachydactyly-syndactyly syndrome", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Fulvestrant: predikterad ny indikation HIV infectious disease (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -87,6 +87,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande för HIV-infe
 
 Godkänd indikation saknas i licensdatan.
 
+<!-- review:begin se-lic-20261106-fulvestrant-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 10 godkännanden är avregistrerade. Godkänd indikation saknas i licensdatan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 10, varav giltiga: 10; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-fulvestrant-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 60346 | Fulvestrant Medical Valley | Injektionsvätska, lösning i förfylld spruta | Ej angiven |
@@ -127,12 +133,32 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Evidensen är endast preklinisk (L4) och inga kliniska prövningar finns för HIV. Viktig säkerhets- och mekanismdata saknas.
 - Övriga förutsägelser med höga poäng (t.ex. multipel endokrin neoplasi) beror sannolikt på att bröstcancerstudier har matchats, inte på verklig koppling.
 
+<!-- review:begin se-lic-20261106-fulvestrant-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga svenska godkännanden är dessutom avregistrerade, och viktig säkerhets- och mekanismdata saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 10, varav giltiga: 10; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-fulvestrant-2 -->
+
 **För att gå vidare krävs:**
 - Fler prekliniska studier som bekräftar att ERα-nedbrytning påverkar HIV-latens och virusreplikation, helst i primära celler och djurmodeller.
 - Hämta produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer.
 - Komplettera mekanismdata (verkningsmekanism) från DrugBank.
 - Bedöma praktisk genomförbarhet: fulvestrant ges som intramuskulär injektion, och långtidsbehandling vid HIV skulle kräva särskild säkerhetsutvärdering.
 - Utvärdera om ett tidigt säkerhets- och proof-of-concept-studieupplägg är motiverat om de prekliniska resultaten stärks.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 10 godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är dessutom avregistrerade, och v” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

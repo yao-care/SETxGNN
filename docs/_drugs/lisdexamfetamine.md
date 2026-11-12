@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 266
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "lisdexamfetamine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "autosomal dominant cerebellar ataxia", "cerebellar ataxia", "spinocerebellar degeneration with slow eye movements", "trichotillomania", "transient tic disorder", "narcolepsy"]
 description: "Lisdexamfetamine: predikterad ny indikation Specific developmental disorder (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -117,12 +117,31 @@ Se även produktresumén för fullständig säkerhetsinformation.
 - Den förutsagda indikationen saknar kliniska prövningar, och den enda direkta studien gäller den redan godkända ADHD-indikationen.
 - Bland de övriga förutsägelserna framstår **narkolepsi** som den mest trovärdiga kandidaten. Den har en stark mekanistisk grund (amfetamin är etablerat vid narkolepsi) och en fallserie om lisdexamfetamin. Den bör utredas separat, och den ursprungliga rekommendationen för den är "forskningsfråga".
 
+<!-- review:begin se-lic-20261106-lisdexamfetamine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är samtliga svenska godkännanden avregistrerade och produktresumédata saknas. / Bland de övriga förutsägelserna framstår **narkolepsi** som den mest trovärdiga kandidaten.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-lisdexamfetamine-1 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar, kontraindikationer) från Läkemedelsverket.
 - Komplettera data om verkningsmekanismen från DrugBank.
 - Precisera vilken typ av specifik utvecklingsrubbning som avses och skilja den från den redan godkända ADHD-indikationen.
 - Hitta eller genomföra kontrollerade studier som visar nytta vid den nya indikationen.
 - Göra en riskbedömning av beroendepotential, kardiovaskulära effekter och interaktioner (inklusive de 4 allvarliga) innan eventuell klinisk utvärdering.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden avregistrerade och produktresumédata saknas” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

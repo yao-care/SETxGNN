@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 206
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "flutamide"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Flutamide: predikterad ny indikation Fibroma of prostate (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -148,12 +148,31 @@ Det underlag som tagits fram för produktresumén (varningar och kontraindikatio
 **Motivering:**
 - Det finns en känd risk för levertoxicitet, och nyare antiandrogen (bicalutamid, enzalutamid, apalutamid) har till stor del ersatt det.
 
+<!-- review:begin se-lic-20261106-flutamide-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är flutamids enda svenska godkännande indraget, det finns en känd risk för levertoxicitet, och nyare antiandrogen (bicalutamid, enzalutamid, apalutamid) har till stor del ersatt det.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-flutamide-1 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén för varningar och kontraindikationer.
 - Hämta verkningsmekanismdata från DrugBank.
 - Bekräfta vad förutsägelsen om "genetisk känslighet" faktiskt innebär och om den är kliniskt meningsfull.
 - Om en riktning ska prioriteras: den benigna prostatakategorin (L3) är den enda med viss stödjande litteratur, men den består av små, äldre farmakodynamiska studier och väger lätt mot levertoxiciteten.
 - Prostatacancer är redan flutamids ursprungliga användning, så den kategorin (L1) är en bekräftelse av en etablerad indikation och inte en ny återanvändning.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”essutom är flutamids enda svenska godkännande indraget, d” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

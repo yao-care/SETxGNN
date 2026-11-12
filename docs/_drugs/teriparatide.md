@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 418
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "teriparatide"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
 description: "Teriparatide: predikterad ny indikation Duodenal ulcer (disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -112,6 +112,12 @@ Varnings- och kontraindikationstext från produktresumén ingår inte i underlag
 **Motivering:**
 - Förutsägelsen om duodenalsår saknar både kliniska prövningar och litteratur, och ingen mekanistisk koppling kan styrkas (evidensnivå L5).
 
+<!-- review:begin se-lic-20261106-teriparatide-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen om duodenalsår saknar både kliniska prövningar och litteratur, och ingen mekanistisk koppling kan styrkas (evidensnivå L5). / Samtliga svenska godkännanden är avregistrerade, vilket också begränsar tillgången.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-teriparatide-1 -->
+
 **För att gå vidare krävs:**
 - Biologisk hypotes som förklarar hur PTH-signalering skulle påverka sårläkning eller slemhinneskydd i tolvfingertarmen.
 - Prekliniska studier (till exempel i djurmodell) som stöder en effekt.
@@ -119,6 +125,19 @@ Varnings- och kontraindikationstext från produktresumén ingår inte i underlag
 - Uppdaterad verkningsmekanismdata från DrugBank.
 
 **Övrigt:** Bland de andra förutsägelserna i modellen har **graviditetsassocierad osteoporos** klart mest stöd. Den har omkring 20 publikationer, bland annat en systematisk översikt (2024) och observationsstudier av teriparatid, men ingen registrerad klinisk prövning (evidensnivå L3). Den riktningen ligger närmare läkemedlets ursprungliga användning och kan vara mer relevant att utvärdera vidare.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är avregistrerade, vilket också begränsar tillgången” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 223
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "hexaminolevulinate"
 predicted_indications: ["bronchitis"]
 description: "Hexaminolevulinate: predikterad ny indikation Bronkit (bronchitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -91,12 +91,31 @@ Se i övrigt produktresumén för varningar och kontraindikationer.
 **Motivering:**
 - Förutsägelsen saknar helt stöd i kliniska prövningar och litteratur, och det finns inget rimligt mekanistiskt samband mellan läkemedlet och bronkit.
 
+<!-- review:begin se-lic-20261106-hexaminolevulinate-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen saknar helt stöd i kliniska prövningar och litteratur, och det finns inget rimligt mekanistiskt samband mellan läkemedlet och bronkit. Läkemedlets godkännande i Sverige är dessutom återkallat.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-hexaminolevulinate-1 -->
+
 **För att gå vidare krävs:**
 - Dokumenterad verkningsmekanism från DrugBank eller produktresumén
 - Prekliniska data som visar en biologisk effekt i luftvägsvävnad eller vid luftvägsinflammation
 - Genomgång av produktresumén för varningar och kontraindikationer
 - Bedömning av administreringsväg, eftersom läkemedlet är utvecklat för intravesikal användning
 - Systematisk litteratursökning och sökning efter registrerade prövningar för att bekräfta att evidens saknas
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Läkemedlets godkännande i Sverige är dessutom återkallat” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 177
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Ethanol: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i godkännandedatan"
 monitor_inn: "ethanol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
@@ -96,6 +96,12 @@ Ingen av studierna utvärderar etanol som behandling mot migrän.
 
 Indikationstext saknas för alla. De fem första är:
 
+<!-- review:begin se-lic-20261106-ethanol-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 20 godkännanden är avregistrerade. Indikationstext saknas för alla.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ethanol-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 63827 | Streplieve | Sirap | Ej angiven |
@@ -131,6 +137,19 @@ Se produktresumén för information om varningar och kontraindikationer, efterso
 - Komplettera verkningsmekanismen från DrugBank
 - Systematiskt granska om det finns några studier som visar terapeutisk effekt av etanol vid migrän, och bedöma om modellens poäng (TxGNN, deep learning) speglar likheter mellan relaterade sjukdomar snarare än en behandlande roll
 - Därefter bör prekliniska och kliniska data finnas innan en ny bedömning görs
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

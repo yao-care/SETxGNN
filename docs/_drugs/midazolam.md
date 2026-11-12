@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 293
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
 description: "Midazolam: predikterad ny indikation Sömnlöshet (insomnia (disease)) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -41,6 +41,12 @@ Evidensnivå: **L3** | Förutsagda indikationer: **1** st
 ## Sammanfattning
 
 TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **sömnlöshet (insomni)**, med **2 kliniska prövningar** och **10 publikationer** som för närvarande hör till denna riktning. Av dessa är endast ett fåtal direkt relevanta: framför allt äldre studier på oralt midazolam vid sömnstörningar.
+
+<!-- review:begin se-lic-20261106-midazolam-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Av dessa är endast ett fåtal direkt relevanta: framför allt äldre studier på oralt midazolam vid sömnstörningar. Samtliga 17 svenska godkännanden är avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 17, varav giltiga: 17; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-midazolam-1 -->
 
 ---
 
@@ -140,6 +146,19 @@ Varnings- och kontraindikationstext från produktresumén har inte kunnat hämta
 - Genomföra en systematisk litteraturgranskning av de äldre sömnstudierna, med bedömning av beroende-, tolerans- och säkerhetsrisker vid långtidsanvändning.
 - Utreda om en lämplig beredningsform finns tillgänglig för sömnindikation, eftersom nuvarande godkännanden avser munhålelösning och injektionsvätskor.
 - Vid behov planera moderna randomiserade fas 3-studier mot etablerade sömnmedel.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 17 svenska godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

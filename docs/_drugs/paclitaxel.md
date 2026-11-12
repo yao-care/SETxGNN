@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 334
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Paclitaxel: predikterad ny indikation Parameningeal embryonal rhabdomyosarcoma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -112,6 +112,18 @@ Litteraturen för denna indikation består huvudsakligen av översikter, mindre 
 
 Indikationstext saknas i de svenska uppgifterna.
 
+<!-- review:begin se-lic-20261106-paclitaxel-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Marknadsstatus: samtliga 7 godkännanden är indragna. Indikationstext saknas i de svenska uppgifterna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-paclitaxel-1 -->
+
+<!-- review:begin se-lic-20261106-paclitaxel-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ytterligare två indragna godkännanden finns (Bugvi, 62593, och Apacross, 66471; båda pulver till infusionsvätska, dispersion).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-paclitaxel-2 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 24615 | Paclitaxel Actavis | Koncentrat till infusionsvätska, lösning | Uppgift saknas |
@@ -154,11 +166,39 @@ Se produktresumén för säkerhetsinformation.
 **Motivering:**
 - Evidensen för paklitaxel vid bröstcancer är mycket stark (L1), men detta är etablerad standardbehandling och inget nytt återanvändningsfall. Säkerhetsdata från produktresumén saknas i underlaget.
 
+<!-- review:begin se-lic-20261106-paclitaxel-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga svenska godkännanden är indragna, och säkerhetsdata från produktresumén saknas i underlaget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-paclitaxel-3 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén för varningar och kontraindikationer (uppgifterna saknas i underlaget).
 - Hämta data om verkningsmekanismen från DrugBank.
 - Bekräfta godkänd indikationstext i Sverige.
 - Utvärdera vilka bröstcancerundergrupper (trippelnegativ, ER-positiv, HER2-positiv) som har tillräckligt stöd, eftersom evidensen varierar. Mer specifika undergrupper som bilateral bröstcancer och bröstvårtscancer stöds endast av fallrapporter.
+
+<!-- review:begin se-lic-20261106-paclitaxel-4 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra varför de svenska godkännandena är indragna och om något produkt (t.ex. nab-paklitaxel) kan återinföras. / Bekräfta godkänd indikationstext i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-paclitaxel-4 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Marknadsstatus: samtliga 7 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Ytterligare två indragna godkännanden finns (Bugvi, 62593, och Apacross, 66471; båda pulver till infusionsvätska, dispersion)” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”amtliga svenska godkännanden är indragna, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Klargöra varför de svenska godkännandena är indragna och om något produkt (t.ex. nab-paklitaxel) kan återinföras” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

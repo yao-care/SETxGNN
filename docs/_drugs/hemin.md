@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 221
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "HEMIN"
 predicted_indications: ["thrombocytopenic purpura", "hemophilia", "C1 inhibitor deficiency", "acquired coagulation factor deficiency", "serpinopathy with toxic serpin polymerization", "hereditary angioedema with C1Inh deficiency", "inherited thrombophilia", "symptomatic form of hemophilia in female carriers", "hereditary von Willebrand disease", "congenital factor XI deficiency"]
 description: "Hemin: predikterad ny indikation Thrombocytopenic purpura (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -103,6 +103,25 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 - Hämta verkningsmekanismen för hemin (till exempel från DrugBank) och analysera ett eventuellt samband med trombocytsjukdomar.
 - Hämta varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA), eftersom säkerhetsgranskning inte kan genomföras utan dem.
 - Söka riktad litteratur och prövningar om hemin vid trombocytopen purpura, samt utvärdera koagulationspåverkan och interaktionerna med antikoagulantia och trombocythämmare.
+
+<!-- review:begin se-lic-20261106-hemin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Söka riktad litteratur och prövningar om hemin vid trombocytopen purpura, samt utvärdera koagulationspåverkan och interaktionerna med antikoagulantia och trombocythämmare. / Klargöra att Normosang för närvarande saknar giltigt godkännande i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-hemin-1 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Klargöra att Normosang för närvarande saknar giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

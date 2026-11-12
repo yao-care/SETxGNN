@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 153
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "dronedarone"
 predicted_indications: ["stroke disorder", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
 description: "Dronedarone: predikterad ny indikation Stroke (stroke disorder) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -128,12 +128,31 @@ Se produktresumén för fullständiga varningar och kontraindikationer.
 **Motivering:**
 - Evidensen för stroke är indirekt och bygger på sekundära analyser av en förmaksflimmerstudie, medan PALLAS tyder på skada vid permanent förmaksflimmer. Säkerhetsunderlaget från produktresumén saknas.
 
+<!-- review:begin se-lic-20261106-dronedarone-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är alla svenska godkännanden indragna, och säkerhetsunderlaget från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-dronedarone-1 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer), vilket är ett blockerande dataunderlag.
 - Komplettera data om verkningsmekanismen från DrugBank.
 - Genomföra en prospektiv studie med stroke som primärt effektmått, eftersom nuvarande evidens kommer från post hoc-analyser.
 - Utreda orsaken till att godkännandena i Sverige har dragits in.
 - Närmare analys av säkerheten vid kombination med antikoagulantia samt vid hjärtsvikt och permanent förmaksflimmer.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

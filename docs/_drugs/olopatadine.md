@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 326
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "olopatadine"
 predicted_indications: ["rosacea conjunctivitis"]
 description: "Olopatadine: predikterad ny indikation Rosacea conjunctivitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -98,12 +98,38 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 **Motivering:**
 - Förutsägelsen stöds enbart av en modellberäkning (evidensnivå L5), utan kliniska prövningar eller publikationer.
 
+<!-- review:begin se-lic-20261106-olopatadine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen stöds enbart av en modellberäkning (evidensnivå L5), utan kliniska prövningar eller publikationer. Dessutom är alla svenska godkännanden indragna och säkerhetsunderlaget från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-olopatadine-1 -->
+
 **För att gå vidare krävs:**
 - Hämta och analysera varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA).
 - Komplettera verkningsmekanismdata från DrugBank för att kunna granska det mekanistiska sambandet.
 - Göra en litteratur- och prövningssökning specifikt för olopatadin vid okulär rosacea.
 - Utreda om en tillgänglig ögonberedning finns.
 - Överväga prekliniska studier eller en liten explorativ klinisk studie om ytterligare stöd för hypotesen framkommer.
+
+<!-- review:begin se-lic-20261106-olopatadine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Utreda om en tillgänglig ögonberedning finns, eftersom alla svenska godkännanden är indragna och administrationsvägens förenlighet inte är bedömd.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-olopatadine-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna och säkerhetsunderlaget från produktresumén saknas” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna och administrationsvägens förenlighet inte är bedömd” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 270
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "LORAZEPAM"
 predicted_indications: ["trigeminal nerve neoplasm"]
 description: "Lorazepam: predikterad ny indikation Trigeminusnervsneoplasm (trigeminal nerve neoplasm) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -64,6 +64,18 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Något rimligt mekanistiskt samband mellan GABA-A-modulering och kontroll av tumörtillväxt i trigeminusnerven har inte identifierats. Eventuell nytta skulle begränsas till symtomlindring, till exempel vid ångest, kramper eller sedering i samband med ingrepp, och inte till att påverka själva sjukdomen. Den höga poängen kommer från TxGNN-modellen (deep learning) och kan spegla likheter som modellen har lärt sig mellan relaterade sjukdomar, inte biologisk evidens.
 
+<!-- review:begin se-lic-20261106-lorazepam-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga sju godkännanden är indragna och inget har någon registrerad indikationstext.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-lorazepam-1 -->
+
+<!-- review:begin se-lic-20261106-lorazepam-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ytterligare två indragna godkännanden avser injektionsvätska, lösning (Lorazepam Orifarm och Lorazepam Macure).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-lorazepam-2 -->
+
 ---
 
 ## Marknadsinformation Sverige
@@ -98,11 +110,32 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Motivering:**
 - Den förutsagda indikationen saknar helt kliniska prövningar och litteratur, och något trovärdigt mekanistiskt samband har inte kunnat identifieras.
 
+<!-- review:begin se-lic-20261106-lorazepam-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den förutsagda indikationen saknar helt kliniska prövningar och litteratur, och något trovärdigt mekanistiskt samband har inte kunnat identifieras. Dessutom är alla svenska godkännanden indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-lorazepam-3 -->
+
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer
 - Hämta verkningsmekanismdata från DrugBank
 - Genomföra en systematisk litteratursökning kring lorazepam vid tumörer i trigeminusnerven, med fokus på symtomkontroll
 - Bedöma om en ny marknadsföringsstatus eller annan tillgång till läkemedlet är realistisk i Sverige
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga sju godkännanden är indragna och inget har någon registrerad indikationstext” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Ytterligare två indragna godkännanden avser injektionsvätska, lösning (Lorazepam Orifarm och Lorazepam Macure)” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 400
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "spironolactone"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
 description: "Spironolactone: predikterad ny indikation Hypotrichosis simplex of the scalp (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -86,6 +86,12 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Indikationstext saknas i alla poster. Nedan visas fem av dem.
 
+<!-- review:begin se-lic-20261106-spironolactone-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 12 godkännanden för enkomponentsprodukter är indragna, och inget giltigt godkännande finns. Indikationstext saknas i alla poster.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 12, varav giltiga: 12; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-spironolactone-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 9578 | Spironolakton Orifarm | Tablett | Uppgift saknas (indraget) |
@@ -115,6 +121,12 @@ Varningar och kontraindikationer från produktresumén kunde inte hämtas. Se pr
 **Motivering:**
 - Förutsägelsen bygger enbart på en hög modellpoäng (evidensnivå L5), utan kliniska prövningar eller publikationer. Den biologiska kopplingen är dessutom osäker, eftersom sjukdomen är ärftlig och inte primärt androgendriven.
 
+<!-- review:begin se-lic-20261106-spironolactone-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den biologiska kopplingen är dessutom osäker, eftersom sjukdomen är ärftlig och inte primärt androgendriven. Alla svenska godkännanden är dessutom indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 12, varav giltiga: 12; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-spironolactone-2 -->
+
 **För att gå vidare krävs:**
 - Hämta produktresumétexten från Läkemedelsverket (MPA) för varningar och kontraindikationer. Detta saknas och blockerar säkerhetsgranskningen.
 - Komplettera uppgifterna om verkningsmekanism, till exempel via DrugBank.
@@ -122,6 +134,20 @@ Varningar och kontraindikationer från produktresumén kunde inte hämtas. Se pr
 - Klargöra den genetiska orsaken till sjukdomen och om en androgenantagonist har någon biologisk rimlighet.
 - Utreda om det finns en aktuell marknadsförd produkt eller om ny ansökan skulle behövas.
 - Bedöma administreringsväg och beredningsform. Detta har ännu inte utvärderats.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 12 godkännanden för enkomponentsprodukter är indragna, och inget giltigt godkännande finns” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är dessutom indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

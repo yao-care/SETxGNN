@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 123
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Dapoxetine: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Prematur ejakulation"
 monitor_inn: "dapoxetine"
 predicted_indications: ["migraine disorder", "dysthymic disorder", "migraine with brainstem aura"]
@@ -66,6 +66,12 @@ Serotonin är inblandat i migränens patofysiologi, bland annat i aktiveringen a
 
 Dapoxetin är dessutom utformat för behovsstyrd användning och har en mycket kort halveringstid. Det passar sämre för långvarig, förebyggande behandling, som ofta är aktuell vid migrän. Den höga poängen (0,9934) är en datorberäknad förutsägelse och ska inte tolkas som kliniskt bevis.
 
+<!-- review:begin se-lic-20261106-dapoxetine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Båda godkännandena gäller Phoenix Labs Unlimited Company och är indragna. Det finns alltså inget giltigt godkännande i Sverige för närvarande.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-dapoxetine-1 -->
+
 ---
 
 ### Litteraturbevis
@@ -107,6 +113,26 @@ Som SSRI bör dapoxetin hanteras med särskild försiktighet vid samtidig använ
 - Dapoxetinspecifika prekliniska eller kliniska data för migrän
 - En bedömning av om dapoxetins korta halveringstid och behovsstyrda dosering är förenliga med migränbehandling
 - Klargörande av regulatorisk status
+
+<!-- review:begin se-lic-20261106-dapoxetine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargörande av regulatorisk status, eftersom båda godkännandena är indragna” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-dapoxetine-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Båda godkännandena gäller Phoenix Labs Unlimited Company och är indragna. Det finns alltså inget giltigt godkännande i Sverige för närvarand” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom båda godkännandena är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

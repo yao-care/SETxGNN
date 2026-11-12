@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 396
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "sevoflurane"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "migraine disorder", "inclusion body myositis"]
 description: "Sevoflurane: predikterad ny indikation Prinzmetal angina (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -70,6 +70,12 @@ Samtidigt är sevofluran en inhalationsgas som ges under övervakning vid narkos
 
 Indikationstexten saknas i de data som sammanställts.
 
+<!-- review:begin se-lic-20261106-sevoflurane-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla sex godkännanden är indragna och inget är i dagsläget giltigt. Indikationstexten saknas i de data som sammanställts.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-sevoflurane-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----|-----------|
 | 64635 | Sevorane | Inhalationsånga, vätska | Orifarm AB | Indraget |
@@ -101,6 +107,12 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 **Motivering:**
 - Förutsägelsen för Prinzmetals angina bygger enbart på modellen (evidensnivå L5), utan kliniska prövningar eller litteratur.
 
+<!-- review:begin se-lic-20261106-sevoflurane-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen för Prinzmetals angina bygger enbart på modellen (evidensnivå L5), utan kliniska prövningar eller litteratur. Dessutom är samtliga svenska godkännanden indragna, och läkemedlets användning som narkosgas passar dåligt för en kronisk kärlsjukdom.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-sevoflurane-2 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén för varningar och kontraindikationer.
 - Komplettera verkningsmekanismen (t.ex. via DrugBank).
@@ -123,6 +135,20 @@ Modellen förutsäger även andra indikationer. För ingen av dem finns kliniskt
 | 7 | Nefrogent syndrom med olämplig antidures | 0,9940 | L5 | Inget rimligt mekanistiskt samband |
 
 Publikationerna för fibromyalgi, tendinit, migrän och inklusionskroppsmyosit beskriver narkos under kirurgi eller undersökningar. Ingen av dem visar att sevofluran behandlar sjukdomen.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla sex godkännanden är indragna och inget är i dagsläget giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna, och läkemedlets användning som narkosgas passar dåligt för en kronisk kärlsjukdom” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

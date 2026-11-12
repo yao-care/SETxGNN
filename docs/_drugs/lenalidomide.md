@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 255
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
 description: "Lenalidomide: predikterad ny indikation Myeloid leukemia (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -112,6 +112,12 @@ Litteraturen består till största delen av översiktsartiklar om MDS och AML. E
 
 Ingen indikationstext finns registrerad. De fem första godkännandena:
 
+<!-- review:begin se-lic-20261106-lenalidomide-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 20 godkännanden är indragna och ingen indikationstext finns registrerad. Läkemedlet är därmed för närvarande inte marknadsfört i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-lenalidomide-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 59063 | Lenalidomide STADA | Kapsel, hård | Ej angiven |
@@ -161,6 +167,26 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Komplettera verkningsmekanismdata från DrugBank.
 - Granska resultaten från de randomiserade studierna (NCT01358734, NCT01301820, NCT01522976, NCT00843882) och, om möjligt, avgränsa målgruppen till del(5q) eller underhåll efter remission.
 - Klargöra regulatorisk väg.
+
+<!-- review:begin se-lic-20261106-lenalidomide-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra regulatorisk väg, eftersom samtliga svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-lenalidomide-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna och i Läkemedlet är därmed för närvarande inte marknadsfört i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom samtliga svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

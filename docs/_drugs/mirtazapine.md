@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 298
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "mirtazapine"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
 description: "Mirtazapine: predikterad ny indikation Ohdo syndrome and variants (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -111,11 +111,30 @@ Fullständiga varningar och kontraindikationer från produktresumén saknas i de
 **Motivering:**
 - Förutsägelsen bygger enbart på en datormodell (evidensnivå L5) utan kliniska prövningar eller litteratur, och något plausibelt verkningssätt för Ohdo syndrom har inte kunnat identifieras.
 
+<!-- review:begin se-lic-20261106-mirtazapine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen bygger enbart på en datormodell (evidensnivå L5) utan kliniska prövningar eller litteratur, och något plausibelt verkningssätt för Ohdo syndrom har inte kunnat identifieras. Därtill är samtliga svenska godkännanden avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-mirtazapine-1 -->
+
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismen för mirtazapin från DrugBank.
 - Hämta och granska varningar och kontraindikationer i produktresumén från Läkemedelsverket (MPA).
 - Gör en systematisk litteratur- och prövningssökning (inklusive prekliniska modeller för KAT6B-relaterade sjukdomar).
 - Utvärdera om en eventuell nytta ligger i symtomlindring (humör, sömn, aptit) snarare än sjukdomsmodifiering.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Därtill är samtliga svenska godkännanden avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

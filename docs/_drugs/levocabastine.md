@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 260
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "levocabastine"
 predicted_indications: ["allergic urticaria", "rosacea conjunctivitis"]
 description: "Levocabastine: predikterad ny indikation Allergic urticaria (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -110,6 +110,12 @@ Se i övrigt produktresumén för varningar och kontraindikationer.
 - Den höga modellpoängen stöds inte av direkt evidens. Det finns inga kliniska prövningar, ingen litteratur om urtikaria och endast indirekta data från allergisk rinit.
 - De lokala beredningarna har låg systemisk exponering, vilket gör användning vid urtikaria praktiskt osäker.
 
+<!-- review:begin se-lic-20261106-levocabastine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är alla svenska godkännanden indragna, och de lokala beredningarna har låg systemisk exponering, vilket gör användning vid urtikaria praktiskt osäker.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-levocabastine-1 -->
+
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket för varningar och kontraindikationer, vilket är ett blockerande datagap för säkerhetsbedömningen.
 - Komplettera data om verkningsmekanism och bekräfta H1-profilen.
@@ -119,6 +125,19 @@ Se i övrigt produktresumén för varningar och kontraindikationer.
 ---
 
 Mekanismkopplingen är spekulativ eftersom okulär rosacea främst drivs av meibomska körtlars dysfunktion, lock- och mikrobfaktorer samt medfödd inflammation, med högst liten roll för histamin. Inga studier finns.*
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”essutom är alla svenska godkännanden indragna, och d” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

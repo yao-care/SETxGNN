@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 292
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "micafungin"
 predicted_indications: ["urinary tract infection (disease)"]
 description: "Micafungin: predikterad ny indikation Urinvägsinfektion (urinary tract infection (disease)) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -94,6 +94,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Indikationstext finns inte i de sammanställda data. De fem första visas nedan.
 
+<!-- review:begin se-lic-20261106-micafungin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla nio godkännanden är indragna. Indikationstext finns inte i de sammanställda data.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-micafungin-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 63299 | Micafungin Accord (Accord Healthcare B.V.) | Pulver till koncentrat till infusionsvätska, lösning | Uppgift saknas |
@@ -125,6 +131,12 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Motivering:**
 - Det finns flera kliniska observationer, inklusive några kohortstudier, som tyder på att mikafungin kan fungera vid Candida-urinvägsinfektion, men evidensen utgörs av små och huvudsakligen retrospektiva material. Det saknas registrerade prövningar och randomiserade studier, och läkemedlets urinutsöndring är begränsad.
 
+<!-- review:begin se-lic-20261106-micafungin-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det saknas registrerade prövningar och randomiserade studier, och läkemedlets urinutsöndring är begränsad. / Alla svenska godkännanden är indragna, så ingen produkt är för närvarande marknadsförd.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-micafungin-2 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé (varningar och kontraindikationer), eftersom säkerhetsdata saknas och detta för närvarande blockerar säkerhetsgranskningen.
 - Komplettera verkningsmekanismen från DrugBank.
@@ -132,6 +144,27 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 - Klargöra urinkoncentrationer och farmakokinetik, särskilt hos patienter med nedsatt njurfunktion.
 - Planera en kontrollerad klinisk studie (helst randomiserad) som jämför mikafungin med flukonazol eller amfotericin B vid symtomatisk Candida-urinvägsinfektion.
 - Utreda marknadstillgång i Sverige.
+
+<!-- review:begin se-lic-20261106-micafungin-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Utreda marknadstillgång i Sverige, eftersom samtliga godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-micafungin-3 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla nio godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, så ingen produkt är för närvarande marknadsförd” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom samtliga godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

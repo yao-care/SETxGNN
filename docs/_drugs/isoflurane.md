@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 235
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Isoflurane: predikterad ny indikation Prinzmetal angina (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad i godkännandedata (isofluran är ett…"
 monitor_inn: "isoflurane"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "manic bipolar affective disorder", "trichotillomania", "dysthymic disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
@@ -89,6 +89,12 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Ingen godkänd indikationstext finns registrerad.
 
+<!-- review:begin se-lic-20261106-isoflurane-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Inget av godkännandena är för närvarande giltigt, och ingen godkänd indikationstext finns registrerad.” Borttaget: antalet eller statusen för godkännandena stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-isoflurane-1 -->
+
 ---
 
 ## Säkerhetsaspekter
@@ -117,12 +123,32 @@ Ingen godkänd indikationstext finns registrerad.
 - Förutsägelsen för Prinzmetal angina bygger enbart på en modellpoäng, utan stöd från studier eller publikationer, och coronary steal talar mot nytta.
 - De säkerhetsuppgifter som finns tyder på försiktighet vid hjärt-kärlpåverkan (till exempel hypotoni).
 
+<!-- review:begin se-lic-20261106-isoflurane-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Isoflurans godkännanden i Sverige är dessutom alla indragna, och de säkerhetsuppgifter som finns tyder på försiktighet vid hjärt-kärlpåverkan (till exempel hypotoni).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-isoflurane-2 -->
+
 **För att gå vidare krävs:**
 - Preklinisk eller mekanistisk evidens för att isofluran lindrar kranskärlsspasm utan att orsaka coronary steal
 - Fullständig verkningsmekanism och säkerhetsinformation från produktresumé
 - En genomförbar administreringsväg och ett användningsscenario för en kronisk sjukdom
 
 **Notering om andra förutsagda indikationer:** Bland de övriga förutsägelserna har **migränsjukdom** mest stöd (evidensnivå L4). Det består av prekliniska studier som visar att inhalationsanestetika hämmar kortikal spridande depression, samt två fallrapporter om behandling av status migrainosus med generell anestesi. Även där saknas kliniska prövningar. Ett möjligt nästa steg vore en preklinisk studie av dosberoende hämning av kortikal spridande depression, följd av en pilotstudie vid refraktär status migrainosus under övervakade former.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”nget av godkännandena är för närvarande giltigt, och i” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Isoflurans godkännanden i Sverige är dessutom alla indragna, och d” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

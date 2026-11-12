@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 183
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Etoricoxib: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad i godkännandedata"
 monitor_inn: "ETORICOXIB"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
@@ -88,6 +88,12 @@ För närliggande huvudvärkstillstånd finns enstaka fallrapporter (till exempe
 
 Ingen indikationstext finns registrerad. Fem exempel:
 
+<!-- review:begin se-lic-20261106-etoricoxib-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 20 godkännanden är indragna. Ingen indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-etoricoxib-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 53357 | Etoricoxib Orion | Filmdragerad tablett | Ej angiven |
@@ -114,12 +120,32 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Motivering:**
 - Mekanismen är rimlig, men det finns varken kliniska prövningar eller litteratur som visar effekt av etoricoxib vid migrän (evidensnivå L5). Säkerhetsdata saknas i underlaget.
 
+<!-- review:begin se-lic-20261106-etoricoxib-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är alla svenska godkännanden indragna, och säkerhetsdata saknas i underlaget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-etoricoxib-2 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från MPA, då detta är ett blockerande dataglapp inför säkerhetsbedömning.
 - Komplettera verkningsmekanismdata från DrugBank.
 - Systematisk litteratursökning efter kontrollerade studier av COX-2-hämmare vid migrän.
 - Utvärdera om närliggande huvudvärkstillstånd (till exempel indomethacinkänslig huvudvärk och trigeminal autonom cefalalgi, där fallserier finns) är en mer realistisk första riktning än migrän.
 - Bedöma kardiovaskulär och njurrelaterad risk i den tänkta patientgruppen samt klargöra regulatorisk väg, givet att produkterna är indragna i Sverige.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

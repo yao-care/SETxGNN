@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 368
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "propafenone"
 predicted_indications: ["manic bipolar affective disorder", "periodic paralysis with transient compartment-like syndrome", "Prinzmetal angina", "arrhythmogenic right ventricular cardiomyopathy", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania"]
 description: "Propafenone: predikterad ny indikation Manic bipolar affective disorder (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -103,6 +103,12 @@ Flera av publikationerna beskriver CPVT i allmänhet och handlar inte om propafe
 
 Innehavare: Viatris AB.
 
+<!-- review:begin se-lic-20261106-propafenone-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Innehavare: Viatris AB. Det finns inget giltigt godkännande i Sverige för närvarande.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-propafenone-1 -->
+
 ---
 
 ### Säkerhetsaspekter
@@ -130,6 +136,19 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Bedömning av tillgänglighet, eftersom Rytmonorm inte längre har något giltigt godkännande i Sverige.
 
 **Övriga förutsägelser:** Incessant ventrikeltakykardi hos spädbarn (L3) har endast äldre och små okontrollerade rapporter och kräver säkerhetsgranskning. Arytmogen högerkammarkardiomyopati bedöms som ogynnsam på grund av säkerhetssignaler. Manisk bipolär sjukdom, periodisk paralys, Prinzmetals angina, nefrogent syndrom med inadekvat antidures och trikotillomani saknar rimlig mekanism eller evidens och bör avvaktas.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Det finns inget giltigt godkännande i Sverige för närvarande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

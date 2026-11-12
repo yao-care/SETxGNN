@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 329
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "OXALIPLATIN"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 description: "Oxaliplatin: predikterad ny indikation Malignant pleural mesothelioma (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -99,6 +99,12 @@ Standardbehandlingen är fortfarande cisplatin plus pemetrexed. Oxaliplatin ses 
 
 Ingen indikationstext finns registrerad.
 
+<!-- review:begin se-lic-20261106-oxaliplatin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga sex godkännanden är indragna och ingen indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-oxaliplatin-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 23844 | Oxaliplatin Teva | Koncentrat till infusionsvätska, lösning | Uppgift saknas |
@@ -154,6 +160,26 @@ Uppgifter från produktresumén om varningar och kontraindikationer saknas i de 
 - Verkningsmekanismdata och uppgifter från produktresumén om varningar och kontraindikationer.
 - Subtypspecifika data (epiteloid, sarkomatoid).
 - En bedömning av tillgången på oxaliplatin i Sverige.
+
+<!-- review:begin se-lic-20261106-oxaliplatin-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”En bedömning av tillgången på oxaliplatin i Sverige, eftersom samtliga godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-oxaliplatin-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga sex godkännanden är indragna och i” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom samtliga godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

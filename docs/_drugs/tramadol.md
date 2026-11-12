@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 433
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "tramadol"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
 description: "Tramadol: predikterad ny indikation Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala upp…"
@@ -72,6 +72,12 @@ Något mekanistiskt samband har därför inte kunnat fastställas. Den höga mod
 
 De fem första visas nedan. Godkänd indikationstext saknas för samtliga.
 
+<!-- review:begin se-lic-20261106-tramadol-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 20 godkännanden är indragna. De fem första visas nedan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-tramadol-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 13068 | Tradolan | Filmdragerad tablett | – |
@@ -109,12 +115,32 @@ Eftersom information från produktresumén saknas bör denna konsulteras för fu
 **Motivering:**
 - Förutsägelsen bygger enbart på en modellpoäng (L5) utan kliniska prövningar eller publikationer, och inget mekanistiskt samband finns mellan tramadol och sjukdomens genetiska orsak.
 
+<!-- review:begin se-lic-20261106-tramadol-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen bygger enbart på en modellpoäng (L5) utan kliniska prövningar eller publikationer, och inget mekanistiskt samband finns mellan tramadol och sjukdomens genetiska orsak. Dessutom är alla svenska godkännanden indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-tramadol-2 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé (varningar och kontraindikationer) från Läkemedelsverket
 - Komplettera data om verkningsmekanism från DrugBank
 - Genomföra en systematisk litteratursökning specifikt för tramadol vid denna sjukdom
 - Visa ett biologiskt rimligt samband med GDF5-relaterad skelettutveckling, annars är ett fortsatt arbete med denna indikation svårt att motivera
 - Överväga om någon av de andra förutsagda indikationerna (t.ex. spondylartropati eller juvenil idiopatisk artrit) har bättre underlag för symptomlindring, med hänsyn till säkerhetsbegränsningar hos barn
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

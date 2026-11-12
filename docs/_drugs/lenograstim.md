@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 256
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Lenograstim: predikterad ny indikation Primär trombocytfrisättningsstörning (primary release disorder of pla… (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga data"
 monitor_inn: "LENOGRASTIM"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "severe nonproliferative diabetic retinopathy"]
@@ -85,6 +85,12 @@ Den höga poängen kommer från TxGNN-modellen (djupinlärning) och kan spegla l
 
 Se produktresumén för säkerhetsinformation. Inga varningar, kontraindikationer eller läkemedelsinteraktioner fanns tillgängliga i de sammanställda uppgifterna.
 
+<!-- review:begin se-lic-20261106-lenograstim-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Inga varningar, kontraindikationer eller läkemedelsinteraktioner fanns tillgängliga i de sammanställda uppgifterna, och det enda godkännandet är återkallat.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-lenograstim-1 -->
+
 ---
 
 ### Slutsats och nästa steg
@@ -94,12 +100,32 @@ Se produktresumén för säkerhetsinformation. Inga varningar, kontraindikatione
 **Motivering:**
 - Förutsägelserna saknar både biologisk motivering och stöd från kliniska prövningar eller publikationer (evidensnivå L5). Dessutom saknas säkerhetsdata och uppgifter om verkningsmekanism.
 
+<!-- review:begin se-lic-20261106-lenograstim-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom saknas säkerhetsdata och uppgifter om verkningsmekanism, och det svenska godkännandet är återkallat.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-lenograstim-2 -->
+
 **För att gå vidare krävs:**
 - Verkningsmekanism och ursprunglig indikation för lenograstim behöver hämtas, till exempel från DrugBank.
 - Varningar och kontraindikationer behöver hämtas från produktresumén hos Läkemedelsverket (MPA).
 - Prekliniska data eller mekanistiska studier som visar ett samband mellan G-CSF och trombocytfunktion behöver tas fram.
 - Systematisk litteratur- och prövningssökning behöver göras för de föreslagna indikationerna.
 - Om någon indikation ska prioriteras: den stödjande rollen vid stamcellstransplantation vid Glanzmanns trombasteni är den mest rimliga att utreda vidare, men då som tilläggsbehandling och inte som sjukdomsriktad terapi.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”och det enda godkännandet är återkallat” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och det svenska godkännandet är återkallat” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

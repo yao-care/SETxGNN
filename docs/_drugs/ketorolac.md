@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 246
 evidence_level: L1
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "ketorolac"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
 description: "Ketorolac: predikterad ny indikation Huvudvärkssjukdom (headache disorder) (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -139,12 +139,31 @@ Produktresumén bör konsulteras för fullständig information om varningar, eft
 **Motivering:**
 - Evidensen för ketorolak vid akut migrän och spänningshuvudvärk är omfattande, med flera avslutade prövningar, systematiska översikter och riktlinjer, och mekanismen (COX-hämning) är väletablerad.
 
+<!-- review:begin se-lic-20261106-ketorolac-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Evidensen för ketorolak vid akut migrän och spänningshuvudvärk är omfattande, med flera avslutade prövningar, systematiska översikter och riktlinjer, och mekanismen (COX-hämning) är väletablerad. / Samtliga svenska godkännanden är avregistrerade, kontraindikationslistan är lång och uppgifter från produktresumén om varningar saknas, så en säkerhetsgenomgång krävs innan nästa steg.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ketorolac-1 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket.
 - Bekräfta evidensnivån genom granskning av de enskilda prövningarna, särskilt de som testar ketorolak som huvudintervention.
 - Bedöma interaktionsrisker, särskilt med acetylsalicylsyra, kortikosteroider och litium.
 
 *Övriga förutsägelser:* Förutsägelserna om rosacea-konjunktivit (utan prövningar eller litteratur, evidensnivå L5) och trigeminal autonom huvudvärk (endast indirekt evidens, L4) rekommenderas att avvakta.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är avregistrerade, kontraindikationslistan är lång och uppgifter från produktresumén om varningar saknas, så e” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

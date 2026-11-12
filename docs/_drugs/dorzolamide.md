@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 150
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "dorzolamide"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "congestive heart failure", "acute pulmonary heart disease", "respiratory failure"]
 description: "Dorzolamide: predikterad ny indikation Hypotrichosis simplex of the scalp (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -134,12 +134,31 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Motivering:**
 - Evidensen för trycksänkning vid öppenvinkelglaukom är stark (flera avslutade fas 3-prövningar och systematiska översikter), men detta är en redan etablerad indikation och inte en ny användning.
 
+<!-- review:begin se-lic-20261106-dorzolamide-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Evidensen för trycksänkning vid öppenvinkelglaukom är stark (flera avslutade fas 3-prövningar och systematiska översikter), men detta är en redan etablerad indikation och inte en ny användning. Alla svenska godkännanden är dessutom indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-dorzolamide-1 -->
+
 **För att gå vidare krävs:**
 - Verifiera nuvarande tillgänglighet och regulatorisk status i Sverige, eftersom endast indragna godkännanden finns.
 - Hämta produktresumé med varningar och kontraindikationer från Läkemedelsverket.
 - Komplettera data om verkningsmekanism från DrugBank.
 - Bekräfta dorzolamids roll i prövningar med avkortade titlar (t.ex. NCT00314171).
 - Övriga förutsägelser (t.ex. ärftligt glaukom, håravfall, hjärtsvikt, andningssvikt) saknar eller har mycket svagt stöd och bör inte prioriteras utan ny evidens.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är dessutom indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

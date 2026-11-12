@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 348
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "phenylpropanolamine"
 predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "faucial diphtheria", "cervical disc degenerative disorder"]
 description: "Phenylpropanolamine: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -66,6 +66,12 @@ Detta stämmer väl överens med de ursprungliga indikationerna (rinit, nasofary
 
 Mekanismen är rimlig för nästäppa.
 
+<!-- review:begin se-lic-20261106-phenylpropanolamine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Mekanismen är rimlig för nästäppa, men det är viktigt att komma ihåg att produkten är indragen och att läkemedlet har kända säkerhetsproblem (se nedan).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-phenylpropanolamine-1 -->
+
 ---
 
 ### Kliniska prövningar
@@ -115,6 +121,12 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 **Motivering:**
 - Förutsägelsen är i praktiken en omformulering av läkemedlets befintliga användning, och stödet är begränsat till en jämförande studie och två djurstudier utan några registrerade kliniska prövningar. Risken för stroke och kardiovaskulära händelser gör ytterligare utveckling svår att motivera.
 
+<!-- review:begin se-lic-20261106-phenylpropanolamine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Produkten är dessutom indragen, och risken för stroke och kardiovaskulära händelser gör ytterligare utveckling svår att motivera.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-phenylpropanolamine-2 -->
+
 **För att gå vidare krävs:**
 - Produktresumé från Läkemedelsverket (MPA) med varningar och kontraindikationer, eftersom den saknas och blockerar säkerhetsbedömningen.
 - Verkningsmekanismdata från DrugBank.
@@ -124,6 +136,20 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 ---
 
 *De övriga förutsagda indikationerna (akut laryngofaryngit, rosacea-konjunktivit, faryngeal difteri och degenerativ sjukdom i halskotpelarens diskar) saknar både kliniska prövningar och litteratur (evidensnivå L5). Faryngeal difteri och degenerativ diskförändring saknar dessutom rimlig mekanistisk koppling och bedöms som modellartefakter.*
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”men det är viktigt att komma ihåg att produkten är indragen och att läkemedlet har kända säkerhetsproblem (se nedan)” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Produkten är dessutom indragen, och r” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

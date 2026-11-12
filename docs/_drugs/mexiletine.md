@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 290
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "mexiletine"
 predicted_indications: ["hypertrichosis (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "migraine disorder", "isolated genetic hair shaft abnormality", "pulmonary hypertension", "migraine with brainstem aura", "headache disorder"]
 description: "Mexiletine: predikterad ny indikation Hypertrikos (hypertrichosis (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -103,6 +103,12 @@ En studie från 2026 ([41518899](https://pubmed.ncbi.nlm.nih.gov/41518899/)) fö
 
 Tillverkare för alla tre: MACURE PHARMA ApS.
 
+<!-- review:begin se-lic-20261106-mexiletine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Tillverkare för alla tre: MACURE PHARMA ApS. Inget av godkännandena är giltigt idag.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-mexiletine-1 -->
+
 ---
 
 ## Säkerhetsaspekter
@@ -125,10 +131,30 @@ Varnings- och kontraindikationstexter från den svenska produktresumén fanns in
 **Motivering:**
 - Förutsägelsen om hypertrikos är enbart beräkningsbaserad (L5), utan studier och utan trovärdig mekanism.
 
+<!-- review:begin se-lic-20261106-mexiletine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen om hypertrikos är enbart beräkningsbaserad (L5), utan studier och utan trovärdig mekanism. Samtliga godkännanden i Sverige är dessutom avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-mexiletine-2 -->
+
 **För att gå vidare krävs:**
 - Ett mekanistiskt eller prekliniskt belägg för att natriumkanalblockad påverkar hårfolliklar eller hårväxt.
 - Verkningsmekanismdata (DrugBank) och produktresumé med varningar och kontraindikationer.
 - Om målet är att utvärdera den mest stödda riktningen, **huvudvärkssjukdomar**: en systematisk litteraturgenomgång och därefter en kontrollerad studie (helst RCT). Kardiella kontraindikationer som AV-block och tidigare hjärtinfarkt måste då beaktas noggrant.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Inget av godkännandena är giltigt idag” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga godkännanden i Sverige är dessutom avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

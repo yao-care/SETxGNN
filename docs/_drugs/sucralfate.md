@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 402
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "sucralfate"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
 description: "Sucralfate: predikterad ny indikation Duodenogastric reflux (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -95,6 +95,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Ingen godkänd indikationstext finns registrerad.
 
+<!-- review:begin se-lic-20261106-sucralfate-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga fyra godkännanden är indragna. Ingen godkänd indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-sucralfate-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
 | 63098 | Peptonorm | Tablett | Indraget |
@@ -123,6 +129,12 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Motivering:**
 - Det finns stöd i form av två små, äldre randomiserade studier vid alkalisk refluxgastrit, men inga registrerade kliniska prövningar. Säkerhetsunderlaget från produktresumén saknas.
 
+<!-- review:begin se-lic-20261106-sucralfate-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Säkerhetsunderlaget från produktresumén saknas, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-sucralfate-2 -->
+
 **För att gå vidare krävs:**
 - Produktresumé med varningar och kontraindikationer från Läkemedelsverket (MPA) för säkerhetsgranskning.
 - Verkningsmekanismdata, till exempel från DrugBank.
@@ -130,9 +142,30 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 - Bedömning av regulatoriskt läge.
 - Särskild bedömning av njursjukdom och hyperglykemi, som kunskapsgrafen anger som kontraindikationer, samt av interaktioner (bl.a. dolutegravir och bictegravir).
 
+<!-- review:begin se-lic-20261106-sucralfate-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedömning av regulatoriskt läge, eftersom inga produkter för närvarande är godkända i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-sucralfate-3 -->
+
 ---
 
 *Anmärkning: Den andra förutsagda indikationen, duodenal obstruktion, bedöms sakna trovärdigt mekanistiskt samband (evidensnivå L5) och rekommenderas inte för vidare utvärdering. Sukralfat kan dessutom innebära risk för bezoar eller obstruktion vid förträngt tarmlumen.*
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga fyra godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom inga produkter för närvarande är godkända i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

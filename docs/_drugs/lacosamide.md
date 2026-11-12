@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 248
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "lacosamide"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
 description: "Lacosamide: predikterad ny indikation Manisk bipolär sjukdom (manic bipolar affective disorder) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -92,6 +92,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Godkänd indikationstext saknas i underlaget. Fem av godkännandena:
 
+<!-- review:begin se-lic-20261106-lacosamide-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 20 godkännanden är indragna och ingen produkt har för närvarande giltigt godkännande. Godkänd indikationstext saknas i underlaget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-lacosamide-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform |
 |---------|------|------|
 | 55355 | Lacosamide 1A Farma | Filmdragerad tablett |
@@ -130,6 +136,26 @@ Produktresumén behöver konsulteras för fullständiga varningar och kontraindi
 - Utvärdering av hematologisk säkerhet (neutropeni) och hjärtsäkerhet (retledning, PR-intervall) hos psykiatriska patienter.
 - Tillgång till produktresumén för fullständiga varningar och kontraindikationer samt kontroll av läkemedlets aktuella marknadsstatus i Sverige.
 - Dokumenterad verkningsmekanism (DrugBank) för att stärka det mekanistiska underlaget.
+
+<!-- review:begin se-lic-20261106-lacosamide-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Tillgång till produktresumén för fullständiga varningar och kontraindikationer samt kontroll av läkemedlets aktuella marknadsstatus i Sverige, eftersom alla godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-lacosamide-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna och ingen produkt har för närvarande giltigt godkännande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

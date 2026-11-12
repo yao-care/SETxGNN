@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 289
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "metyrapone"
 predicted_indications: ["exercise-induced malignant hyperthermia", "King-Denborough syndrome", "central core myopathy", "moderate multiminicore disease with hand involvement", "congenital multicore myopathy with external ophthalmoplegia", "myopathy, centronuclear", "familial periodic paralysis", "renal tubular acidosis", "malignant hyperthermia of anesthesia"]
 description: "Metyrapone: predikterad ny indikation Exercise-induced malignant hyperthermia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -132,11 +132,30 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 - Förutsägelsen bygger enbart på en modellberäkning (L5) utan kliniska prövningar eller publikationer, och det saknas en rimlig mekanistisk koppling mellan CYP11B1-hämning och störd kalciumhantering i muskeln.
 - Samtliga tio förutsagda indikationer saknar stöd för behandlingseffekt. Den enda publikationen (familjär periodisk förlamning, 1971) beskriver metyrapon som ett fysiologiskt verktyg, inte som behandling.
 
+<!-- review:begin se-lic-20261106-metyrapone-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den enda publikationen (familjär periodisk förlamning, 1971) beskriver metyrapon som ett fysiologiskt verktyg, inte som behandling. Dessutom är det enda svenska godkännandet indraget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-metyrapone-1 -->
+
 **För att gå vidare krävs:**
 - Hämtning av produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer, vilket för närvarande är ett blockerande datagap
 - Komplettering av verkningsmekanismdata från DrugBank
 - Ett tydligt prekliniskt eller mekanistiskt underlag som kopplar steroidsyntes till kalciumhomeostas i skelettmuskel
 - Bedömning av om andra, mer relevanta indikationer inom endokrinologi bör prioriteras framför den förutsagda muskelsjukdomen
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Dessutom är det enda svenska godkännandet indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

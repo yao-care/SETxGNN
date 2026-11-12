@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 394
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "serine"
 predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "myopathic intestinal pseudoobstruction", "unclassified intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection"]
 description: "Serine: predikterad ny indikation Familial visceral myopathy (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -86,6 +86,12 @@ För transparensens skull: den näst högst rankade förutsägelsen, intestinal 
 
 Ingen godkänd indikationstext finns registrerad. Fem av de 20 godkännandena visas nedan.
 
+<!-- review:begin se-lic-20261106-serine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga godkännanden är avregistrerade. Ingen godkänd indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-serine-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
 |---------|------|------|-----------|
 | 12526 | Glavamin | Infusionsvätska, lösning | Fresenius Kabi AB |
@@ -125,6 +131,19 @@ Se produktresumén för säkerhetsinformation.
 - Systematisk litteratursökning görs specifikt för serin och familjär visceral myopati (inte bara sökordet "serin").
 - Prekliniska studier (cell- eller djurmodeller av visceral myopati) genomförs för att pröva hypotesen.
 - Beredningsform och administrationsväg utreds, eftersom befintliga produkter är infusionsvätskor för parenteral nutrition och inte avregistrerade preparat med en etablerad användning för denna sjukdom.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

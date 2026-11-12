@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 191
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "felodipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
 description: "Felodipine: predikterad ny indikation Pulmonary hypertension with unclear multifactorial mechanism (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -126,11 +126,30 @@ Se produktresumén för fullständiga varningar och kontraindikationer. Dessa up
 **Motivering:**
 - Förutsägelsen för pulmonell hypertension med oklar multifaktoriell mekanism bygger enbart på modellpoäng (evidensnivå L5). Underlaget saknar både kliniska prövningar och litteratur.
 
+<!-- review:begin se-lic-20261106-felodipine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Underlaget saknar både kliniska prövningar och litteratur. / Samtliga svenska godkännanden är avregistrerade, vilket begränsar tillgängligheten.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-felodipine-1 -->
+
 **För att gå vidare krävs:**
 - Kliniska eller hemodynamiska studier som direkt undersöker felodipin vid pulmonell hypertension, särskilt hos patienter som reagerar på kärlvidgande test.
 - Hämtning och genomgång av produktresumén för varningar och kontraindikationer, eftersom säkerhetsscreening inte kan genomföras utan den.
 - Kontroll av om någon felodipinprodukt går att få tag på i Sverige.
 - En samlad bedömning av annat i underlaget: förutsägelsen **Prinzmetals angina** har betydligt starkare stöd (evidensnivå L3). Den bygger på flera kliniska studier från 1989–1995, bland annat jämförelser med nifedipin. Den ligger dock nära läkemedelsklassens etablerade användning och är därför snarare en klassutvidgning än en ny återanvändning. Den kan vara ett mer realistiskt spår att följa vidare.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är avregistrerade, vilket begränsar tillgängligheten” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

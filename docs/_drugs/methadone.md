@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 282
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "methadone"
 predicted_indications: ["Tourette syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "headache disorder", "manic bipolar affective disorder", "trigeminal autonomic cephalalgia", "common cold"]
 description: "Methadone: predikterad ny indikation Tourette syndrome (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -87,6 +87,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Indikationstext saknas i alla godkännanden. Fem av dem visas som exempel:
 
+<!-- review:begin se-lic-20261106-methadone-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 20 godkännanden är indragna och ingen produkt är för närvarande godkänd. Indikationstext saknas i alla godkännanden.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-methadone-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 42985 | Metadon Nordic Drugs | Oral lösning | Uppgift saknas |
@@ -122,7 +128,27 @@ För fullständig säkerhetsinformation, se produktresumén.
 - Utvärdera om kontrollerade studier är genomförbara, med jämförelse mot etablerade behandlingar för Tourettes syndrom.
 - Klargöra regulatorisk väg.
 
+<!-- review:begin se-lic-20261106-methadone-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra regulatorisk väg, eftersom alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-methadone-2 -->
+
 **Övriga förutsägelser (kort):** Evidensen är svagare eller ogynnsam för övriga rankade förutsägelser. Nefrogent syndrom med olämplig antidiures och trikotillomani saknar stöd (L5), och för trikotillomani är mekanismen motsatt den kända terapeutiska riktningen (opioidantagonister). För huvudvärksstörning och trigeminal autonom cefalalgi pekar litteraturen på risk för läkemedelsutlöst huvudvärk. Förkylning är sannolikt en sökordsartefakt. Manisk bipolär sjukdom (L3) har begränsad och äldre evidens och är en forskningsfråga snarare än ett kandidatområde för klinisk användning.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna och ingen produkt är för närvarande godkänd” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 358
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "povidone"
 predicted_indications: ["congenital ichthyosiform erythroderma"]
 description: "Povidone: predikterad ny indikation Congenital ichthyosiform erythroderma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -66,6 +66,12 @@ Ett spekulativt samband är att samma filmbildande och fuktbevarande egenskaper 
 
 Medfödd ichtyosiform erytrodermi är en genetisk störning i hudens förhornning (till exempel varianter i generna *TGM1*, *ALOX12B* och *ALOXE3*) med nedsatt hudbarriär. Ett fuktgivande ämne skulle i bästa fall lindra symtom och inte påverka själva sjukdomen. Den höga modellpoängen är därför inte i sig ett tecken på verklig effekt.
 
+<!-- review:begin se-lic-20261106-povidone-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla fyra godkännanden är indragna, och inget giltigt godkännande för povidon som enda substans finns i Sverige i dag.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-povidone-1 -->
+
 ---
 
 ## Marknadsinformation Sverige
@@ -108,6 +114,19 @@ Se produktresumén för säkerhetsinformation.
 - Genomföra litteratursökning och prekliniska studier (till exempel hudbarriärmodeller) för att pröva hypotesen om mjukgörande effekt vid ichtyos.
 - Utreda beredningsform och administreringsväg för hudanvändning, eftersom befintliga produkter är ögondroppar och gurgelvatten.
 - Bedöma den kliniska nyttan jämfört med redan etablerade mjukgörande behandlingar vid ichtyos.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla fyra godkännanden är indragna, och inget giltigt godkännande för povidon som enda substans finns i Sverige i dag” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

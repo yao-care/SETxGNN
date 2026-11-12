@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 312
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "nevirapine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Nevirapine: predikterad ny indikation Feline acquired immunodeficiency syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -84,6 +84,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 **Förutsägelse nr 3: neuroutvecklingsstörning med ataktisk gång, avsaknad av tal och minskad kortikal vit substans.** Poäng 0,9982, men varken kliniska prövningar eller litteratur finns (evidensnivå L5). Något mekanistiskt samband stöds inte av underlaget.
 
+<!-- review:begin se-lic-20261106-nevirapine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla tre godkännanden är indragna (status: cancelled).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-nevirapine-1 -->
+
 ---
 
 ### Marknadsinformation Sverige
@@ -112,11 +118,31 @@ Se produktresumén för fullständiga varningar och kontraindikationer.
 **Motivering:**
 - Evidensen är begränsad till en enda prekliniskt studie vars resultat för nevirapin inte är känt, och FIV:s omvända transkriptas förväntas vara naturligt motståndskraftigt mot nevirapin.
 
+<!-- review:begin se-lic-20261106-nevirapine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Evidensen är begränsad till en enda prekliniskt studie vars resultat för nevirapin inte är känt, och FIV:s omvända transkriptas förväntas vara naturligt motståndskraftigt mot nevirapin. Dessutom är alla svenska godkännanden indragna, och förutsägelsen avser en veterinärmedicinsk sjukdom.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-nevirapine-2 -->
+
 **För att gå vidare krävs:**
 - Fulltext av studien från 2023 för att avgöra om nevirapin hade hämmande effekt på FIV:s omvända transkriptas.
 - Kompletterande in vitro-data och därefter djurstudier på katter.
 - Verkningsmekanismdata och produktresuméns varningar och kontraindikationer (för närvarande saknade).
 - Bedömning av leverpåverkan och hudreaktioner samt interaktionsprofilen innan eventuell vidare utveckling.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla tre godkännanden är indragna (status: cancelled)” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna, och förutsägelsen avser en veterinärmedicinsk sjukdom” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

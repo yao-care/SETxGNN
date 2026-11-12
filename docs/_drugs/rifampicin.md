@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 378
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "RIFAMPICIN"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
 description: "Rifampicin: predikterad ny indikation Konjunktivit (conjunctivitis) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -95,6 +95,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Indikationstext finns inte angiven för något av godkännandena.
 
+<!-- review:begin se-lic-20261106-rifampicin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga åtta godkännanden är indragna och inga produkter är för närvarande godkända på marknaden. Indikationstext finns inte angiven för något av godkännandena.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-rifampicin-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 52737 | Rifampicin Orifarm | Kapsel, hård | Ej angiven |
@@ -121,6 +127,12 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Motivering:**
 - Förutsägelsen är mekanistiskt rimlig, men stödet består av äldre studier från 1970-talet och känslighetsundersökningar. Det finns inga registrerade kliniska prövningar.
 
+<!-- review:begin se-lic-20261106-rifampicin-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det finns inga registrerade kliniska prövningar, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-rifampicin-2 -->
+
 **För att gå vidare krävs:**
 - Slå ihop de två dubbletterna för konjunktivit och granska litteraturen manuellt.
 - Hämta produktresumé med varningar och kontraindikationer från Läkemedelsverket, eftersom saknad säkerhetsinformation är ett hinder för säkerhetsgranskning.
@@ -128,6 +140,20 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 - Klargöra om en lokal beredningsform (ögonsalva eller ögondroppar) skulle behöva utvecklas, eftersom inga sådana beredningar finns bland de svenska godkännandena.
 - Utvärdera klinisk nytta jämfört med nuvarande standardbehandling och risken för resistensutveckling mot ett viktigt tuberkulosläkemedel.
 - Vid behov planera en kontrollerad klinisk prövning.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga åtta godkännanden är indragna och inga produkter är för närvarande godkända på marknaden” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

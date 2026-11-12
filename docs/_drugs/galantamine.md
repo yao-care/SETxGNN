@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 212
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "galantamine"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "acute intermittent porphyria"]
 description: "Galantamine: predikterad ny indikation Psychogenic movement disorders (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -111,6 +111,12 @@ Tabellen visar litteratur för de två förutsägelser där sådan finns. Ingen 
 
 Indikationstext finns inte i de sammanställda uppgifterna. Fem av godkännandena visas nedan.
 
+<!-- review:begin se-lic-20261106-galantamine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 20 godkännanden är indragna, och inget giltigt godkännande finns för närvarande. Indikationstext finns inte i de sammanställda uppgifterna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-galantamine-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform |
 |---------|------|------|
 | 44312 | Galantamin Krka | Depotkapsel, hård |
@@ -137,12 +143,39 @@ Indikationstext finns inte i de sammanställda uppgifterna. Fem av godkännanden
 **Motivering:**
 - Den högst rankade förutsägelsen (psykogena rörelsestörningar) saknar både kliniska prövningar, litteratur och mekanistisk motivering. Den mest rimliga riktningen, tardiv dyskinesi, har bara indirekt stöd och en möjlig säkerhetssignal åt motsatt håll.
 
+<!-- review:begin se-lic-20261106-galantamine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den mest rimliga riktningen, tardiv dyskinesi, har bara indirekt stöd och en möjlig säkerhetssignal åt motsatt håll. Dessutom saknar galantamin för närvarande giltiga godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-galantamine-2 -->
+
 **För att gå vidare krävs:**
 - Granskning av resultaten i den randomiserade galantaminstudien vid tardiv dyskinesi (PMID 17388711) och av de Cochrane-översikternas slutsatser.
 - Utvärdering av säkerhetssignalen för rörelsestörningar vid kolinesterashämmare (PMID 40224553, 24127392).
 - Hämtning av produktresumé från Läkemedelsverket (varningar, kontraindikationer) samt verkningsmekanism från DrugBank.
 - Klargörande av regulatorisk väg.
 - Bedömning av beredningsformernas lämplighet (depotkapsel och oral lösning) för den aktuella indikationen.
+
+<!-- review:begin se-lic-20261106-galantamine-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargörande av regulatorisk väg, eftersom alla godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-galantamine-3 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna, och inget giltigt godkännande finns för närvarande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom saknar galantamin för närvarande giltiga godkännanden i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

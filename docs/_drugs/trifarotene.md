@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 439
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "trifarotene"
 predicted_indications: ["zinc, elevated plasma", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome"]
 description: "Trifarotene: predikterad ny indikation Förhöjt zink i plasma (zinc, elevated plasma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -96,6 +96,12 @@ Se produktresumén för övrig säkerhetsinformation, inklusive varningar och ko
 **Motivering:**
 - Förutsägelsen stöds varken av kliniska prövningar eller litteratur, och något trovärdigt mekanistiskt samband saknas.
 
+<!-- review:begin se-lic-20261106-trifarotene-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen stöds varken av kliniska prövningar eller litteratur, och något trovärdigt mekanistiskt samband saknas. Dessutom är det enda svenska godkännandet indraget och den lokala administrationen ger låg systemisk exponering.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-trifarotene-1 -->
+
 **För att gå vidare krävs:**
 - Verkningsmekanismdata från DrugBank för att kunna analysera ett eventuellt samband
 - Varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA)
@@ -105,6 +111,19 @@ Se produktresumén för övrig säkerhetsinformation, inklusive varningar och ko
 ---
 
 **Kompletterande kommentar om förutsägelse nr 2:** Den näst högst rankade förutsägelsen, *PAPA-syndromet* (pyogen artrit, pyoderma gangrenosum och akne; poäng 0.9932), har ett indirekt och hypotesbaserat samband. Trifarotene skulle teoretiskt kunna påverka de akneliknande hudförändringarna, men inte de bakomliggande autoinflammatoriska mekanismerna, som normalt behandlas med IL-1- eller TNF-hämmare och kortikosteroider. Även här saknas kliniska prövningar och litteratur (evidensnivå L5, rekommendation: avvakta).
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Dessutom är det enda svenska godkännandet indraget och den lokala administrationen ger låg systemisk exponering” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

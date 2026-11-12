@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 331
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
 description: "Oxcarbazepine: predikterad ny indikation Restless legs syndrome (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -95,6 +95,12 @@ Ingen av publikationerna undersöker oxkarbazepin specifikt vid visuellt utlöst
 
 Indikationstext saknas i licensdata. Ett urval:
 
+<!-- review:begin se-lic-20261106-oxcarbazepine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 11 godkännanden är indragna. Indikationstext saknas i licensdata.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 11, varav giltiga: 11; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-oxcarbazepine-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 15781 | Trileptal (Novartis Sverige AB) | Filmdragerad tablett | Ingen text tillgänglig |
@@ -121,10 +127,30 @@ Indikationstext saknas i licensdata. Ett urval:
 **Motivering:**
 - Trots en mycket hög modellpoäng finns inga kliniska prövningar och ingen litteratur specifik för visuell epilepsi. Dessutom kan natriumkanalblockerare förvärra vissa generaliserade epilepsier.
 
+<!-- review:begin se-lic-20261106-oxcarbazepine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom kan natriumkanalblockerare förvärra vissa generaliserade epilepsier. / Alla svenska godkännanden är indragna, vilket försvårar en snabb klinisk användning.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 11, varav giltiga: 11; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-oxcarbazepine-2 -->
+
 **För att gå vidare krävs:**
 - Fördjupad litteratursökning efter data om oxkarbazepin vid fotosensitiv och annan reflexepilepsi, med uppdelning på fokala och generaliserade former.
 - Hämtning av säkerhetsinformation ur produktresumén (varningar, kontraindikationer) samt detaljerad verkningsmekanismdata.
 - Bedömning av säkerhetsrisker (hyponatremi, interaktioner, risk för förvärrade generaliserade anfall) före eventuell klinisk prövning.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 11 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, vilket försvårar en snabb klinisk användning” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

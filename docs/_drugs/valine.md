@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 445
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Valine: predikterad ny indikation Skleroserande kolangit (evidensnivå L4). Ursprunglig indikation: Ingen indikationstext tillgänglig i de sammanställda data"
 monitor_inn: "valine"
 predicted_indications: ["sclerosing cholangitis", "angle-closure glaucoma", "hyperthyroidism", "aqueous misdirection", "traumatic glaucoma", "neovascular glaucoma", "glaucomatous atrophy of optic disc", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "obsolete bundle branch block", "hyperthyroxinemia"]
@@ -77,6 +77,12 @@ Kopplingen är dock indirekt. En studie från 2005 beskriver samband mellan plas
 
 Indikationstext saknas i de sammanställda data. De fem första visas nedan.
 
+<!-- review:begin se-lic-20261106-valine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 20 godkännanden är indragna. Indikationstext saknas i de sammanställda data.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-valine-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 12526 | Glavamin | Infusionsvätska, lösning | Uppgift saknas |
@@ -100,12 +106,32 @@ Inga läkemedelsinteraktioner hittades i de sammanställda data, och varnings- o
 **Motivering:**
 - Den höga modellpoängen stöds inte av någon klinisk prövning, och de två publikationerna rör aminosyrabalans och metabola samband, inte behandling med valin.
 
+<!-- review:begin se-lic-20261106-valine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den höga modellpoängen stöds inte av någon klinisk prövning, och de två publikationerna rör aminosyrabalans och metabola samband, inte behandling med valin. Dessutom är samtliga svenska godkännanden indragna, och säkerhetsdata saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-valine-2 -->
+
 **För att gå vidare krävs:**
 - Säkerhetsinformation (varningar och kontraindikationer) från produktresumén
 - Data om verkningsmekanism från DrugBank
 - Prekliniska eller mekanistiska studier som visar att valin eller grenade aminosyror påverkar sjukdomsförloppet vid skleroserande kolangit
 - Klinisk bedömning av om aminosyratillförsel är lämplig vid kolestatisk leversjukdom, där parenteral aminosyratillförsel kräver särskild försiktighet
 - Beredningsform och administreringsväg som passar den nya indikationen (för närvarande endast infusions- och dialysvätskor)
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna, och säkerhetsdata saknas” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

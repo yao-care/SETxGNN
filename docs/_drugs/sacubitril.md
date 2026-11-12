@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 390
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "sacubitril"
 predicted_indications: ["brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "rheumatoid arthritis", "hemoglobinopathy"]
 description: "Sacubitril: predikterad ny indikation Brain small vessel disease 1 with or without ocular anomalies (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -117,12 +117,31 @@ Se produktresumén för varningar och kontraindikationer, eftersom dessa uppgift
 **Motivering:**
 - Förutsägelsen bygger enbart på modellpoängen. Det finns inga kliniska prövningar, och den enda publikationen gäller en annan sjukdom. Ingen känd mekanism kopplar läkemedlet till en COL4A1-relaterad kärlsjukdom.
 
+<!-- review:begin se-lic-20261031-sacubitril-1 -->
+
+> **Granskningsrättelse (2026-10-31)**: Ursprungligen stod det: ”Ingen känd mekanism kopplar läkemedlet till en COL4A1-relaterad kärlsjukdom. / Läkemedlet har dessutom endast avregistrerade godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-10-31). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261031-sacubitril-1 -->
+
 **För att gå vidare krävs:**
 - Mekanistiska eller prekliniska data (till exempel i COL4A1-modeller) som visar att neprilysinhämning eller AT1-blockad påverkar sjukdomen.
 - Kompletterande uppgifter om verkningsmekanism, varningar och kontraindikationer från produktresumén.
 - Klarhet i läkemedlets regulatoriska och kommersiella status i Sverige.
 
 **Övrigt:** Bland modellens övriga förutsägelser har **diabetesnefropati** klart starkast stöd (evidensnivå L3). Där finns en randomiserad fas 4-prövning ([NCT06501651](https://clinicaltrials.gov/study/NCT06501651), 297 deltagare, status okänd, inga resultat) samt flera prekliniska studier. Denna indikation bör utvärderas separat och i första hand.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-10-31 | Borttaget: ”Läkemedlet har dessutom endast avregistrerade godkännanden i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

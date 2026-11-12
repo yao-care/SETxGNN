@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 151
 evidence_level: L1
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
 description: "Doxorubicin: predikterad ny indikation Ewing sarcoma (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -145,12 +145,24 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Motivering:**
 - Evidensen för doxorubicin som del av kombinationsregimer vid Ewing sarkom är stark (flera randomiserade fas 3-prövningar), men doxorubicins enskilda effekt kan inte avgränsas, och doxorubicin är redan etablerad standard i behandlingen. Produktresuméns säkerhetsdata saknas.
 
+<!-- review:begin se-lic-20261106-doxorubicin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla tre svenska godkännanden är indragna och produktresuméns säkerhetsdata saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-doxorubicin-1 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé (varningar, kontraindikationer) från Läkemedelsverket (MPA)
 - Bekräfta verkningsmekanism via DrugBank
 - Klargöra hur doxorubicin kan tillhandahållas i Sverige
 - Fastställa hjärtövervakning och kumulativa dosgränser i behandlingsprotokollet
 - Utvärdera doxorubicins specifika bidrag i regimerna (t.ex. via subgruppsanalyser)
+
+<!-- review:begin se-lic-20261106-doxorubicin-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra hur doxorubicin kan tillhandahållas i Sverige, eftersom alla godkännanden är indragna (ny ansökan eller licensförskrivning)” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-doxorubicin-2 -->
 
 ---
 
@@ -167,6 +179,19 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 | 8 | Parameningeal embryonal rabdomyosarkom | L5 | Avvakta |
 | 9 | Rabdomyosarkom | L1 | Gå vidare med försiktighet |
 | 10 | Ganglioneuroblastom | L4 | Avvakta |
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla tre svenska godkännanden är indragna och p” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna (ny ansökan eller licensförskrivning)” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

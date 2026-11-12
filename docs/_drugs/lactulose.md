@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 249
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "lactulose"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
 description: "Lactulose: predikterad ny indikation Acute urate nephropathy (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -82,6 +82,12 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Indikationstext saknas för samtliga godkännanden i underlaget.
 
+<!-- review:begin se-lic-20261106-lactulose-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla fyra godkännanden är indragna, och ingen produkt är för närvarande marknadsförd som enskilt godkänt läkemedel. Indikationstext saknas för samtliga godkännanden i underlaget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-lactulose-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----------|------|
 | 45433 | Lactulose Fresenius | Oral lösning i dospåse | Fresenius Kabi Austria GmbH | Indraget |
@@ -107,11 +113,38 @@ För varningar och kontraindikationer enligt godkänd produktinformation, se pro
 **Motivering:**
 - Förutsägelsen för akut urinsyranefropati bygger enbart på modellen (evidensnivå L5). Det finns inga prövningar, ingen litteratur och ingen känd mekanism som kopplar laktulos till urinsyrahantering eller tumörlysis.
 
+<!-- review:begin se-lic-20261106-lactulose-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det finns inga prövningar, ingen litteratur och ingen känd mekanism som kopplar laktulos till urinsyrahantering eller tumörlysis. / Samtliga svenska godkännanden är indragna och säkerhetsunderlaget är ofullständigt.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-lactulose-2 -->
+
 **För att gå vidare krävs:**
 - Prekliniska studier eller mekanismdata som visar att laktulos påverkar urinsyranivåer eller njurskada vid tumörlysis.
 - Fullständig verkningsmekanism och godkänd produktinformation (varningar, kontraindikationer) för säkerhetsbedömning.
 - En förnyad genomgång av marknadsstatus.
 - Prioritering av andra förutsägelser för laktulos med bättre stöd. Resultaten är dock blandade och mestadels äldre.
+
+<!-- review:begin se-lic-20261106-lactulose-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”En förnyad genomgång av marknadsstatus, eftersom inga produkter för närvarande är godkända i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-lactulose-3 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla fyra godkännanden är indragna, och ingen produkt är för närvarande marknadsförd som enskilt godkänt läkemedel” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är indragna och säkerhetsunderlaget är ofullständigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom inga produkter för närvarande är godkända i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

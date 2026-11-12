@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 458
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "ziprasidone"
 predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
 description: "Ziprasidone: predikterad ny indikation Trichotillomania (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -113,6 +113,12 @@ Flera atypiska antipsykotika är redan godkända som tillägg till antidepressiv
 
 Utöver ovan ingår Ziprasidon Ebb (61783, 61782) och Ziprasidon 2care4 (62120).
 
+<!-- review:begin se-lic-20261106-ziprasidone-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Totalt 8 godkännanden, samtliga avregistrerade. Utöver ovan ingår Ziprasidon Ebb (61783, 61782) och Ziprasidon 2care4 (62120).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ziprasidone-1 -->
+
 ---
 
 ### Säkerhetsaspekter
@@ -137,6 +143,19 @@ Se produktresumén för fullständiga varningar och försiktighetsåtgärder.
 - Bekräftande randomiserad fas 3-studie i en väldefinierad underpopulation (t.ex. behandlingsresistent depression eller depressivt blandtillstånd)
 - Hämtning av produktresumé (varningar, kontraindikationer) och verkningsmekanismdata från DrugBank
 - Utvärdering av QT-risk och EKG-övervakning
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Totalt 8 godkännanden, samtliga avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

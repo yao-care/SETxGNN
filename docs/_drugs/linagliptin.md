@@ -7,7 +7,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 81
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -78,6 +78,18 @@ Inga relaterade kliniska prövningar registrerade för närvarande — det finns
 
 Ingen relaterad litteratur tillgänglig för närvarande — det finns ingen förutsagd indikation att förankra en litteraturgenomgång i.
 
+<!-- review:begin se-lic-20261103-linagliptin-1 -->
+
+> **Granskningsrättelse (2026-11-03)**: Ursprungligen stod det: ”Inga godkännanden registrerade i det nuvarande datasetet. Sökningen mot TFDA (sök-ID: 1) gav 0 resultat, och inga godkännandeposter finns i `taiwan_regulatory.licenses`.” Borttaget: kvarlämnad malltext om Taiwans läkemedelsmyndighet (TFDA), som inte gäller den här svenska sidan. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261103-linagliptin-1 -->
+
+<!-- review:begin se-lic-20261103-linagliptin-2 -->
+
+> **Granskningsrättelse (2026-11-03)**: Ursprungligen stod det: ”> **Obs:** Linagliptin finns kommersiellt tillgängligt på flera marknader under varumärken som Tradjenta (Boehringer Ingelheim / Eli Lilly). Att poster saknas här kan bero på en datalucka i den aktuella körningen snarare än på att läkemedlet faktiskt saknas på marknaden. Korskontroll mot databaserna hos Läkemedelsverket (MPA) och TFDA rekommenderas.” Borttaget: kvarlämnad malltext om Taiwans läkemedelsmyndighet (TFDA), som inte gäller den här svenska sidan. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261103-linagliptin-2 -->
+
 ---
 
 ## Säkerhetsaspekter
@@ -101,6 +113,27 @@ TxGNN-förutsägelseflödet gav inga kandidatindikationer för Linagliptin, vilk
 - **Hämta verkningsmekanismdata** från DrugBanks API (datalucka DG002) för att möjliggöra resonemang från mekanism till indikation
 - **Hämta varningar och kontraindikationer ur produktresumén** (datalucka DG001, blockerar för närvarande säkerhetsscreening S1)
 - **Kör om sökningen efter läkemedelsinteraktioner** med en alternativ källa (t.ex. DrugBanks interaktionsendpoint eller Drugs@FDA), eftersom den nuvarande sökningen gav `not_found`
+
+<!-- review:begin se-lic-20261103-linagliptin-3 -->
+
+> **Granskningsrättelse (2026-11-03)**: Ursprungligen stod det: ”**Hämta varningar och kontraindikationer ur TFDA:s produktresumé** (datalucka DG001, blockerar för närvarande säkerhetsscreening S1) / **Verifiera marknadsstatus** direkt mot Läkemedelsverket (MPA, Sverige) och TFDA (Taiwan) — den nuvarande uppgiften om 0 godkännanden stämmer inte med känd global tillgänglighet” Borttaget: kvarlämnad malltext om Taiwans läkemedelsmyndighet (TFDA), som inte gäller den här svenska sidan. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261103-linagliptin-3 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-03 | Borttaget: ”Inga godkännanden registrerade i det nuvarande datasetet. Sökningen mot TFDA (sök-ID: 1) gav 0 resultat, och inga godkännandeposter finns i ” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-03 | Borttaget: ”> **Obs:** Linagliptin finns kommersiellt tillgängligt på flera marknader under varumärken som Tradjenta (Boehringer Ingelheim / Eli Lilly).” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-03 | Borttaget: ”TFDA:s - **Verifiera marknadsstatus** direkt mot Läkemedelsverket (MPA, Sverige) och TFDA (Taiwan) — den nuvarande uppgiften om 0 godkännand” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

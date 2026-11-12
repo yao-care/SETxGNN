@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 457
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "zidovudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
 description: "Zidovudine: predikterad ny indikation Feline acquired immunodeficiency syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -78,6 +78,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Alla studier nedan är djurstudier. Resultaten sammanfattas utifrån de abstrakt som ingår i underlaget, och flera abstrakt är avkortade.
 
+<!-- review:begin se-lic-20261106-zidovudine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Båda godkännandena är indragna, så det finns för närvarande ingen aktiv marknadsförd zidovudinprodukt i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-zidovudine-1 -->
+
 | PMID | År | Typ | Tidskrift | Viktiga fynd |
 |------|-----|------|------|---------|
 | [22816032](https://pubmed.ncbi.nlm.nih.gov/22816032/) | 2012 | Veterinär klinisk studie (naturligt infekterade katter) | Viruses | Jämförde zidovudin ensamt och i kombination med interferon-α, lamivudin eller valproinsyra under ett år, med mätning av virusmängd och CD4/CD8-kvot. |
@@ -128,6 +134,19 @@ Se produktresumén för fullständiga varningar och försiktighetsåtgärder, ef
 - Produktresumé med varningar och kontraindikationer, som saknas i underlaget.
 - Tydlig verkningsmekanismdata.
 - Särskild uppmärksamhet på blodtoxicitet (anemi, neutropeni) och muskelpåverkan.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Båda godkännandena är indragna, så det finns för närvarande ingen aktiv marknadsförd zidovudinprodukt i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

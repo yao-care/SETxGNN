@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 361
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "prednicarbate"
 predicted_indications: ["vulvar inverted follicular keratosis", "annular atrophic lichen planus", "hypertrophic lichen planus", "lichen planus pigmentosus", "lichen planus pemphigoides", "2-hydroxyethyl methacrylate sensitization", "primary cutaneous B-cell lymphoma"]
 description: "Prednicarbate: predikterad ny indikation Vulvar inverted follicular keratosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -120,12 +120,31 @@ Hudatrofi är särskilt relevant för den förutsagda indikationen annulär atro
 **Motivering:**
 - Förutsägelsen bygger enbart på en beräkningsmodell (evidensnivå L5) utan stöd i kliniska prövningar eller litteratur.
 
+<!-- review:begin se-lic-20261106-prednicarbate-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen bygger enbart på en beräkningsmodell (evidensnivå L5) utan stöd i kliniska prövningar eller litteratur. Dessutom är det enda svenska godkännandet indraget och säkerhetsunderlaget ofullständigt.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-prednicarbate-1 -->
+
 **För att gå vidare krävs:**
 - Hämta produktresumén från Läkemedelsverket (MPA) och granska varningar och kontraindikationer, vilket för närvarande blockerar säkerhetsbedömningen
 - Komplettera data om verkningsmekanism, till exempel via DrugBank
 - Genomföra litteratur- och prövningssökning specifikt för prednikarbat vid de förutsagda sjukdomarna
 - Bedöma om en av lichen planus-varianterna är ett mer realistiskt kandidatspår än vulvär inverterad follikulär keratos, med hänsyn till klassevidens för topikala kortikosteroider och risken för hudatrofi
 - Klargöra läkemedlets regulatoriska status, eftersom det saknas giltigt godkännande i Sverige
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Dessutom är det enda svenska godkännandet indraget och säkerhetsunderlaget ofullständigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

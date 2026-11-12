@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 200
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "fludarabine"
 predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brain small vessel disease 1 with or without ocular anomalies", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "diabetic nephropathy"]
 description: "Fludarabine: predikterad ny indikation Plasma cell myeloma (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -104,6 +104,12 @@ Nedan visas de mest relevanta av de registrerade prövningarna.
 
 Därutöver finns en prekliniskt studie om fludarabins aktivitet mot myelom (PMID [17976186](https://pubmed.ncbi.nlm.nih.gov/17976186/), 2007, European Journal of Haematology), där myelomcellinjen RPMI8226 hämmades effektivt både in vitro och in vivo.
 
+<!-- review:begin se-lic-20261106-fludarabine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla tre godkännanden är indragna, och inget giltigt godkännande finns för närvarande.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-fludarabine-1 -->
+
 ---
 
 ### Marknadsinformation Sverige
@@ -149,11 +155,38 @@ Flera ytterligare interaktioner (bland annat amfotericin B, cimetidin, metformin
 **Motivering:**
 - Evidensen för fludarabin vid myelom rör främst användning som konditionerings- och lymfocytnedbrytande komponent, inte som direkt antimyelombehandling. Ingen studie isolerar läkemedlets egen effekt.
 
+<!-- review:begin se-lic-20261106-fludarabine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ingen studie isolerar läkemedlets egen effekt. / Alla svenska godkännanden är indragna och säkerhetsdata från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-fludarabine-2 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket.
 - Kompletterande verkningsmekanismdata från DrugBank.
 - Kontrollerade studier som jämför fludarabinbaserade regimer mot alternativ vid myelom och isolerar fludarabins bidrag.
 - Klargöra vilken fludarabinprodukt som är tillgänglig i Sverige.
+
+<!-- review:begin se-lic-20261106-fludarabine-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra vilken fludarabinprodukt som är tillgänglig i Sverige, eftersom samtliga godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-fludarabine-3 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla tre godkännanden är indragna, och inget giltigt godkännande finns för närvarande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna och säkerhetsdata från produktresumén saknas” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom samtliga godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

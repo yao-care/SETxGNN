@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 311
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "naratriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Naratriptan: predikterad ny indikation Atrophoderma vermiculata (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -91,6 +91,12 @@ Ingen av publikationerna studerar naratriptan specifikt vid migrän med hjärnst
 
 Godkänd indikationstext saknas i de sammanställda uppgifterna.
 
+<!-- review:begin se-lic-20261106-naratriptan-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla fem godkännanden är indragna, och inget giltigt godkännande finns för närvarande. Godkänd indikationstext saknas i de sammanställda uppgifterna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-naratriptan-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
 |---------|------|------|-----------|
 | 61427 | Naramig | Filmdragerad tablett | 2care4 ApS |
@@ -122,15 +128,42 @@ Varningar och kontraindikationer från produktresumén saknas i de sammanställd
 - Sambandet mellan naratriptan och migrän med hjärnstamsaura är biologiskt starkt, men det rör sig om en undertyp av den ursprungliga indikationen. Inga kliniska prövningar finns för just denna undertyp, och den teoretiska kärlrisken i den bakre cirkulationen väger tungt.
 - Produktresumédata om varningar saknas, vilket hindrar en fullständig säkerhetsbedömning.
 
+<!-- review:begin se-lic-20261106-naratriptan-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga svenska godkännanden är indragna, och produktresumédata om varningar saknas, vilket hindrar en fullständig säkerhetsbedömning.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-naratriptan-2 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket.
 - Hämta uppgifter om verkningsmekanism från DrugBank.
 - Göra en riktad litteratursökning efter säkerhet och effekt av triptaner vid hjärnstamsaura eller basilarismigrän.
 - Bedöma vilka patienter som kan komma ifråga, med särskild hänsyn till kärlsjukdom, stroke och hemiplegisk migrän.
 
+<!-- review:begin se-lic-20261106-naratriptan-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedöma vilka patienter som kan komma ifråga, med särskild hänsyn till kärlsjukdom, stroke och hemiplegisk migrän. / Utreda marknadsläget, eftersom inget giltigt godkännande finns i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-naratriptan-3 -->
+
 ---
 
 *Övriga förutsägelser (atrofoderma vermiculata och ulerythema ophryogenes) har höga modellpoäng men saknar både kliniska prövningar, litteratur och mekanistiskt stöd (evidensnivå L5). De rekommenderas inte för vidare utvärdering.*
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla fem godkännanden är indragna, och inget giltigt godkännande finns för närvarande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är indragna, och p” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Utreda marknadsläget, eftersom inget giltigt godkännande finns i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

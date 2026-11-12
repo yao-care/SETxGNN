@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 387
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Ropivacaine: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L3). Ursprunglig indikation: Ingen indikationstext angiven i licensuppgifterna"
 monitor_inn: "ropivacaine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "dysthymic disorder"]
@@ -91,6 +91,12 @@ Det kliniska resultatet verkar dock bero på vilken teknik och vilken plats som 
 
 Ingen indikationstext finns registrerad.
 
+<!-- review:begin se-lic-20261106-ropivacaine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla sju godkännanden är indragna och ingen indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ropivacaine-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 66564 | Ropivacain Fresenius Kabi (Medartuum AB) | Injektionsvätska, lösning | Ej angiven |
@@ -129,6 +135,26 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 - Större randomiserade, kontrollerade studier med tydlig migrändiagnos, definierad blockadteknik och patientrelevanta utfall.
 - Klargöra regulatorisk väg.
 - Övriga förutsagda indikationer (migrän med hjärnstammsaura, nefrogent syndrom med olämplig antidiures och dystymi) saknar studier och en rimlig mekanism, och bör inte prioriteras.
+
+<!-- review:begin se-lic-20261106-ropivacaine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra regulatorisk väg, eftersom alla svenska godkännanden är indragna och användningen sker via nervblockad snarare än systemisk behandling.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ropivacaine-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla sju godkännanden är indragna och i” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna och användningen sker via nervblockad snarare än systemisk behandling” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

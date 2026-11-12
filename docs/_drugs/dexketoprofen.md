@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 135
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "dexketoprofen"
 predicted_indications: ["tendinitis", "fibromyalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "migraine disorder", "headache disorder", "migraine with brainstem aura", "exostosis", "congenital hypotrichosis milia"]
 description: "Dexketoprofen: predikterad ny indikation Tendinitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -105,13 +105,39 @@ Se produktresumén för säkerhetsinformation.
 **Motivering:**
 - Förutsägelsen för tendinit har en hög modellpoäng men saknar kliniska prövningar och direkt litteratur.
 
+<!-- review:begin se-lic-20261106-dexketoprofen-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen för tendinit har en hög modellpoäng men saknar kliniska prövningar och direkt litteratur. Dessutom är det enda godkännandet i Sverige indraget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-dexketoprofen-1 -->
+
 **För att gå vidare krävs:**
 - Studier som specifikt undersöker dexketoprofen vid tendinit, till exempel randomiserade jämförelser med andra NSAID eller placebo.
 - Verifiering av produkttillgänglighet och regulatorisk väg.
 - Kompletterande säkerhetsdata från produktresumén (varningar, kontraindikationer, interaktioner), som saknas i underlaget.
 - Kompletterande data om verkningsmekanism och godkänd ursprunglig indikation.
 
+<!-- review:begin se-lic-20261106-dexketoprofen-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Verifiering av produkttillgänglighet och regulatorisk väg, eftersom godkännandet är indraget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-dexketoprofen-2 -->
+
 **Notering:** Bland de övriga förutsägelserna har **migrän** klart starkare stöd. Det finns 5 kliniska prövningar (varav en placebokontrollerad), flera randomiserade studier och en metaanalys (PMID 31725614). Om målet är att prioritera repurposing-spår bör migrän utvärderas i första hand, med hänsyn till NSAID-klassens risker (mag-tarmkanalen, njurar, hjärta-kärl) och marknadsstatusen.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Dessutom är det enda godkännandet i Sverige indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom godkännandet är indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

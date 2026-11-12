@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 369
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Propofol: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L2). Ursprunglig indikation: Ingen indikationstext registrerad i de svenska godkännandena (propofo…"
 monitor_inn: "PROPOFOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
@@ -99,6 +99,12 @@ I klinisk praxis har propofol i låg dos prövats som räddningsbehandling vid s
 
 Indikationstext saknas i underlaget.
 
+<!-- review:begin se-lic-20261106-propofol-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 11 godkännanden är indragna och inga produkter är för närvarande aktiva. Indikationstext saknas i underlaget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 11, varav giltiga: 11; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-propofol-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 46859 | Propolipid (Fresenius Kabi AB) | Injektions-/infusionsvätska, emulsion i förfylld spruta | Ej angiven |
@@ -138,6 +144,19 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 - Klargöra varför NCT02492295 avbröts.
 - Utvärdera vilken patientgrupp (barn eller vuxna) och vilken vårdmiljö (akutmottagning med övervakning) som är aktuell, samt hur den bedömningen påverkas av att inga godkännanden är aktiva i Sverige.
 - Bedöma säkerhet hos patienter med de riskfaktorer som kunskapsgrafen pekar ut, till exempel hypotoni, andningssvikt och störningar i fettomsättningen.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 11 godkännanden är indragna och inga produkter är för närvarande aktiva” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

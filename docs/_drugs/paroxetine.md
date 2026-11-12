@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 339
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "paroxetine"
 predicted_indications: ["Ohdo syndrome and variants"]
 description: "Paroxetine: predikterad ny indikation Ohdo syndrome and variants (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -80,6 +80,12 @@ Det går inte att verifiera utan ytterligare data, och poängen är en beräknin
 
 De tre återstående är Paroxetin Teva (63831 och 63830) samt Paroxetin Hexal (Orifarm, 56763).
 
+<!-- review:begin se-lic-20261106-paroxetine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 8 godkännanden är indragna. De tre återstående är Paroxetin Teva (63831 och 63830) samt Paroxetin Hexal (Orifarm, 56763).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-paroxetine-1 -->
+
 ---
 
 ### Säkerhetsaspekter
@@ -107,12 +113,32 @@ Produktresumén med varningar och kontraindikationer har inte kunnat hämtas och
 **Motivering:**
 - Förutsägelsen stöds enbart av modellens poäng (evidensnivå L5). Det finns varken kliniska prövningar, litteratur eller något tydligt mekanistiskt samband.
 
+<!-- review:begin se-lic-20261106-paroxetine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det finns varken kliniska prövningar, litteratur eller något tydligt mekanistiskt samband, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-paroxetine-2 -->
+
 **För att gå vidare krävs:**
 - Verkningsmekanismdata för paroxetin, som kan hämtas från DrugBank.
 - Produktresumé med varningar och kontraindikationer från Läkemedelsverket (MPA), för att kunna göra en säkerhetsbedömning.
 - Biologisk analys av om serotoninvägen eller andra paroxetinmål har koppling till kromatin- och KAT6B-biologi vid Ohdo syndrom.
 - Prekliniska studier, till exempel i cell- eller djurmodeller, som kan ge första stöd.
 - Bedömning av beredningsform och administreringsväg, som ännu inte är fastställd för den nya indikationen.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 8 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

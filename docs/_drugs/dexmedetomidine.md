@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 136
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "dexmedetomidine"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia"]
 description: "Dexmedetomidine: predikterad ny indikation Nephrogenic syndrome of inappropriate antidiuresis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -84,6 +84,12 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Indikationstext finns inte registrerad för någon av dem. De fem första visas nedan.
 
+<!-- review:begin se-lic-20261106-dexmedetomidine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 9 godkännanden är indragna. Indikationstext finns inte registrerad för någon av dem.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-dexmedetomidine-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----------|-----------|
 | 63371 | Dexmedetomidine EQL Pharma | Koncentrat till infusionsvätska, lösning | EQL Pharma AB | Indraget |
@@ -130,11 +136,31 @@ Dessa kan vara värda att utvärdera separat.
 - Förutsägelsen för NSIAD stöds endast av modellen (L5), utan prövningar eller publikationer. Den mekanistiska bedömningen talar dessutom emot effekt, eftersom sjukdomen beror på en receptordefekt nedströms vasopressinfrisättningen.
 - Uppgifter om ursprunglig indikation, verkningsmekanism, varningar och kontraindikationer saknas.
 
+<!-- review:begin se-lic-20261106-dexmedetomidine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla svenska godkännanden är indragna, och uppgifter om ursprunglig indikation, verkningsmekanism, varningar och kontraindikationer saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-dexmedetomidine-2 -->
+
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket för att få varningar, kontraindikationer och godkänd indikation.
 - Komplettera verkningsmekanismen från DrugBank.
 - Prekliniska data eller mekanistiska studier som visar att alfa-2-agonism kan påverka NSIAD trots AVPR2-defekten.
 - Överväg att i stället prioritera utvärderingen av postduralpunktionshuvudvärk, där det finns kliniska data.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 9 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, och u” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

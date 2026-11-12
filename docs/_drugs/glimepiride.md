@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 215
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "glimepiride"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 description: "Glimepiride: predikterad ny indikation Classic stiff person syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -72,6 +72,12 @@ Det finns alltså ingen mekanistisk grund för att blockad av K-ATP-kanaler i be
 
 Fem av dem visas nedan. Indikationstext saknas i dessa godkännanden.
 
+<!-- review:begin se-lic-20261106-glimepiride-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 11 godkännanden är indragna och inget är för närvarande giltigt. Fem av dem visas nedan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 11, varav giltiga: 11; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-glimepiride-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----------|-----|
 | 26270 | Glimepirid Bluefish | Tablett | Bluefish Pharmaceuticals AB | Indraget |
@@ -107,12 +113,39 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 **Motivering:**
 - Förutsägelsen saknar både kliniskt och mekanistiskt stöd (evidensnivå L5). Den troliga förklaringen till den höga poängen är sambandet mellan diabetes och GAD-relaterad autoimmunitet.
 
+<!-- review:begin se-lic-20261106-glimepiride-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är alla svenska godkännanden indragna, och den troliga förklaringen till den höga poängen är sambandet mellan diabetes och GAD-relaterad autoimmunitet.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 11, varav giltiga: 11; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-glimepiride-2 -->
+
 **För att gå vidare krävs:**
 - Verkningsmekanismen från DrugBank, för att kunna analysera ett eventuellt mekanistiskt samband.
 - Varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA) för en fullständig säkerhetsbedömning.
 - Prekliniska data eller publicerade fallstudier som visar en möjlig effekt vid stiff person-syndrom.
 - Bedömning av om andra förutsägelser på listan (t.ex. tiaminresponsivt syndrom, där diabetes ingår i symtombilden) är mer relevanta än den högst rankade. Ingen av dem har dock något kliniskt stöd i nuläget.
 - Klargörande av marknadsstatus.
+
+<!-- review:begin se-lic-20261106-glimepiride-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargörande av marknadsstatus, eftersom inget giltigt godkännande för glimepirid finns i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 11, varav giltiga: 11; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-glimepiride-3 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 11 godkännanden är indragna och inget är för närvarande giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”essutom är alla svenska godkännanden indragna, och d” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom inget giltigt godkännande för glimepirid finns i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 224
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "histidine"
 predicted_indications: ["gastroparesis (disease)", "sclerosing cholangitis"]
 description: "Histidine: predikterad ny indikation Gastropares (gastroparesis (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -86,6 +86,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Nedan visas fem av dem. Indikationstext saknas i registret.
 
+<!-- review:begin se-lic-20261106-histidine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 20 godkännanden är indragna. Nedan visas fem av dem.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-histidine-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 57202 | Corhum | Lösning för kardioplegi/organförvaring | Ej angiven |
@@ -118,6 +124,12 @@ Information om läkemedelsinteraktioner saknas. Se produktresumén för övrig s
 - Förutsägelsen bygger enbart på modellpoäng (evidensnivå L5). Det finns inga kliniska prövningar, och den enda publikationen undersöker inte histidin.
 - Mekanism- och säkerhetsdata saknas.
 
+<!-- review:begin se-lic-20261106-histidine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga svenska godkännanden är indragna, och mekanism- och säkerhetsdata saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-histidine-2 -->
+
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismen från DrugBank.
 - Hämta varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA).
@@ -130,6 +142,20 @@ Information om läkemedelsinteraktioner saknas. Se produktresumén för övrig s
 ### Ytterligare observation: primär skleroserande kolangit (rang 2)
 
 De pekar dock på att histamin-signalering **förvärrar** sjukdomen, och histidin är histaminets prekursor. Mössmodeller utan histidindekarboxylas visar mindre gallgångsskada och fibros. Histidintillförsel skulle därför i teorin kunna vara ofördelaktig. Denna riktning bör behandlas som en säkerhetsfråga och inte som ett terapeutiskt förslag.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är indragna, och m” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

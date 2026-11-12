@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 431
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
 description: "Topotecan: predikterad ny indikation Kvinnlig bröstcancer (female breast carcinoma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -134,6 +134,12 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 **Motivering:**
 - Den höga modellpoängen stöds inte av tillräcklig klinisk evidens vid bröstcancer. De kliniska prövningarna är tidiga, avslutade i förtid eller indirekta, och den enda enskilda fas 2-studien med enbart topotecan visade ingen ökad effekt. Säkerhetsunderlaget från produktresumén saknas.
 
+<!-- review:begin se-lic-20261106-topotecan-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är båda svenska godkännandena avregistrerade, och säkerhetsunderlaget från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-topotecan-1 -->
+
 **För att gå vidare krävs:**
 - Säkerhetsinformation (varningar och kontraindikationer) från produktresumén, vilket för närvarande hindrar säkerhetsgranskningen.
 - Uppgifter om verkningsmekanismen från DrugBank.
@@ -141,6 +147,19 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 - Bedömning av hur BCRP-medierad resistens påverkar effekten.
 - Klargörande av tillgänglighet i Sverige, eftersom läkemedlet är marknadsfört och 2 av 2 godkännanden är giltiga.
 - Överväg även de andra förutsagda indikationerna, som groddcellstumörer (evidensnivå L2, men huvudsakligen indirekta studier på barn) och testikulära gulesäckstumörer (endast modellförutsägelse, L5).
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Dessutom är båda svenska godkännandena avregistrerade, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

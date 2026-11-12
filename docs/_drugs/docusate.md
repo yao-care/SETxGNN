@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 147
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "docusate"
 predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia"]
 description: "Docusate: predikterad ny indikation Plummer-Vinson syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -97,12 +97,31 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Motivering:**
 - Förutsägelsen bygger enbart på modellens poäng (evidensnivå L5). Inga kliniska prövningar eller publikationer finns, ingen mekanistisk koppling är etablerad. Dokusat har ingen känd effekt på järnbrist eller membran i matstrupen.
 
+<!-- review:begin se-lic-20261106-docusate-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Inga kliniska prövningar eller publikationer finns, ingen mekanistisk koppling är etablerad, och båda svenska godkännandena är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-docusate-1 -->
+
 **För att gå vidare krävs:**
 - Detaljerad verkningsmekanism från DrugBank.
 - Produktresumé med varningar och kontraindikationer från Läkemedelsverket.
 - Litteratur- eller prekliniska data som kan motivera en biologisk koppling mellan dokusat och Plummer-Vinsons syndrom.
 - Bedömning av beredningsform och administreringsväg, eftersom de tidigare godkända produkterna är rektallösningar.
 - Överväg att behandla förutsägelsen som en grafartefakt och prioritera andra kandidater.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”och båda svenska godkännandena är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

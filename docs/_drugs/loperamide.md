@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 269
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "loperamide"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "chronic follicular conjunctivitis", "conjunctival folliculosis", "serous conjunctivitis except viral", "parasitic conjunctivitis", "Angelucci syndrome"]
 description: "Loperamide: predikterad ny indikation Acute contagious conjunctivitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -90,6 +90,12 @@ Ingen litteratur finns för den främsta förutsägelsen (akut smittsam konjunkt
 
 De fem första visas nedan. Indikationstext finns inte registrerad.
 
+<!-- review:begin se-lic-20261106-loperamide-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 15 godkännanden är indragna och inget är giltigt. De fem första visas nedan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 15, varav giltiga: 15; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-loperamide-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 43239 | Lopacut | Filmdragerad tablett | Ej angiven |
@@ -124,6 +130,26 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 - Komplettera verkningsmekanismdata från DrugBank.
 - Visa ett biologiskt samband mellan perifer my-opioidagonism och bindhinneinflammation eller infektion, till exempel genom prekliniska studier.
 - Klargöra beredningsform och administreringsväg, eftersom de nuvarande godkännandena endast avser orala former.
+
+<!-- review:begin se-lic-20261106-loperamide-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra beredningsform och administreringsväg, eftersom de nuvarande godkännandena endast avser orala former. / Notera att samtliga svenska godkännanden är indragna, vilket i sig är ett regulatoriskt hinder.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 15, varav giltiga: 15; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-loperamide-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 15 godkännanden är indragna och inget är giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Notera att samtliga svenska godkännanden är indragna, vilket i sig är ett regulatoriskt hinder” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

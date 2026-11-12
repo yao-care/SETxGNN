@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 195
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-12
 monitor_inn: "fexofenadine"
 predicted_indications: ["rosacea conjunctivitis"]
 description: "Fexofenadine: predikterad ny indikation Rosacea conjunctivitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -100,12 +100,38 @@ Godkänd indikationstext saknas för samtliga poster. Nedan visas de fem första
 - Förutsägelsen stöds enbart av en datormodell (L5), utan kliniska prövningar eller litteratur. Den mekanistiska kopplingen är indirekt, eftersom histamin har liten betydelse vid ögonrosacea.
 - Säkerhetsdata från produktresumén saknas.
 
+<!-- review:begin se-lic-20261106-fexofenadine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga svenska godkännanden är avregistrerade, och säkerhetsdata från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 18, varav giltiga: 16; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-fexofenadine-1 -->
+
 **För att gå vidare krävs:**
 - Sökning efter prekliniska och kliniska studier av antihistaminer vid ögonrosacea eller rosaceakonjunktivit.
 - Hämtning av verkningsmekanismdata från DrugBank.
 - Inhämtning och genomgång av produktresumé med varningar och kontraindikationer från Läkemedelsverket.
 - Bedömning av beredningsform och administreringsväg: endast orala tabletter har funnits, och en lokal ögonberedning kan behövas.
 - Klargörande av marknadsstatus.
+
+<!-- review:begin se-lic-20261106-fexofenadine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargörande av marknadsstatus, eftersom inget gällande godkännande finns i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 18, varav giltiga: 16; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-fexofenadine-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”amtliga svenska godkännanden är avregistrerade, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom inget gällande godkännande finns i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

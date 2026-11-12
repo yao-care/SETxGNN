@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 155
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
 description: "Duloxetine: predikterad ny indikation Benign paroxysmal torticollis of infancy (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -103,6 +103,12 @@ SNRI-preparat anses dock generellt vara mindre väl belagda än SSRI-preparat vi
 
 Indikationstext saknas i de sammanställda uppgifterna. Samtliga är hårda enterokapslar. Fem av godkännandena:
 
+<!-- review:begin se-lic-20261106-duloxetine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 20 godkännanden för duloxetin är indragna, och inget är giltigt i dagsläget. Indikationstext saknas i de sammanställda uppgifterna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-duloxetine-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 58357 | Duloxetin Teva (Teva B.V.) | Enterokapsel, hård | – |
@@ -133,11 +139,23 @@ Vid användning till barn och unga bör man även beakta den varning för själv
 **Motivering:**
 - Det finns en dubbelblind RCT, en öppen studie och en fas 4-studie som pekar mot nytta vid OCD, men studierna är små och SNRI-preparat är mindre väl belagda än SSRI-preparat.
 
+<!-- review:begin se-lic-20261106-duloxetine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det finns en dubbelblind RCT, en öppen studie och en fas 4-studie som pekar mot nytta vid OCD, men studierna är små och SNRI-preparat är mindre väl belagda än SSRI-preparat. Dessutom är alla svenska godkännanden för duloxetin indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-duloxetine-2 -->
+
 **För att gå vidare krävs:**
 - Adekvat dimensionerade, randomiserade och placebokontrollerade fas 3-studier, särskilt vid OCD som inte svarat på SSRI.
 - Information om verkningsmekanism samt produktresumédata (varningar och kontraindikationer), som saknas i dagsläget.
 - Klarhet i regulatorisk status i Sverige.
 - Utvärdering av interaktionsrisker, särskilt vid kombination med andra serotonerga läkemedel.
+
+<!-- review:begin se-lic-20261106-duloxetine-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klarhet i regulatorisk status i Sverige, eftersom inget giltigt godkännande finns.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-duloxetine-3 -->
 
 ---
 
@@ -149,6 +167,21 @@ Vid användning till barn och unga bör man även beakta den varning för själv
 | Agorafobi | L5 | Rimlig klassnivå-grund (ångestsyndrom), men ingen direkt evidens. Den enda länkade prövningen är inte relevant. |
 
 Rekommendation för dessa: **Avvakta**.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 20 godkännanden för duloxetin är indragna, och inget är giltigt i dagsläget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden för duloxetin indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom inget giltigt godkännande finns” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 244
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "ketoconazole"
 predicted_indications: ["acne (disease)"]
 description: "Ketoconazole: predikterad ny indikation Akne (acne (disease)) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -99,6 +99,12 @@ Litteraturen är svag. Endast två laboratoriestudier avser ketokonazol direkt m
 
 Ingen godkänd indikationstext finns registrerad.
 
+<!-- review:begin se-lic-20261106-ketoconazole-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga fyra godkännanden är indragna. Ingen godkänd indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ketoconazole-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 22441 | Ketoconazol Actavis | Schampo | – |
@@ -127,11 +133,38 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Motivering:**
 - Stödet bygger på en modellförutsägelse, laboratoriedata och en enda pågående jämförande studie. Det saknas avslutade kontrollerade studier.
 
+<!-- review:begin se-lic-20261106-ketoconazole-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det saknas avslutade kontrollerade studier, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ketoconazole-2 -->
+
 **För att gå vidare krävs:**
 - Resultat från NCT07237763 samt placebokontrollerade fas 2/3-studier av topikalt ketokonazol vid akne.
 - Klarhet i om effekten beror på akne i sig eller på att Malassezia-folliculit ingår i patientgruppen.
 - Produktresumé med varningar och kontraindikationer samt hämtning av verkningsmekanismen från DrugBank.
 - Bedömning av säkerhet och beredningsform (lokal behandling är mest rimlig) samt av regulatoriska möjligheter.
+
+<!-- review:begin se-lic-20261106-ketoconazole-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedömning av säkerhet och beredningsform (lokal behandling är mest rimlig) samt av regulatoriska möjligheter, eftersom godkännandena är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ketoconazole-3 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga fyra godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom godkännandena är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

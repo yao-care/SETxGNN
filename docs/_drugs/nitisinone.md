@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 317
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "nitisinone"
 predicted_indications: ["renal tubular acidosis", "galactosemia", "serpinopathy with toxic serpin polymerization", "C1 inhibitor deficiency", "glycogen storage disease", "adult polyglucosan body disease", "glycogen storage disease due to glucose-6-phosphatase deficiency", "Griscelli syndrome", "granulomatous disease, chronic, X-linked", "ermine phenotype"]
 description: "Nitisinone: predikterad ny indikation Renal tubular acidosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -123,11 +123,30 @@ Uppgifter från produktresumén om varningar och kontraindikationer saknas. Se p
 - Förutsägelsen bygger enbart på modellen (L5) utan kliniska prövningar eller litteratur. Den enda biologiska kopplingen är indirekt och gäller renal tubulär dysfunktion sekundär till tyrosinemi.
 - Säkerhetsunderlaget från produktresumén saknas.
 
+<!-- review:begin se-lic-20261106-nitisinone-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga svenska godkännanden är avregistrerade, och säkerhetsunderlaget från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-nitisinone-1 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén för varningar och kontraindikationer (säkerhetsgenomgången kan inte genomföras utan den).
 - Komplettera data om verkningsmekanism från DrugBank.
 - Göra en systematisk litteratursökning om nitisinon och njurtubulär dysfunktion vid tyrosinemi typ 1.
 - Avgöra om indikationen är ett verkligt nytt användningsområde eller bara en del av behandlingen av den ursprungliga sjukdomen.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”amtliga svenska godkännanden är avregistrerade, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

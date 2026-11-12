@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 383
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "RIVAROXABAN"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
 description: "Rivaroxaban: predikterad ny indikation Reumatoid artrit (rheumatoid arthritis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -129,9 +129,28 @@ Se produktresumén för fullständiga varningar och kontraindikationer, eftersom
 - Genomföra en systematisk litteratursökning efter prekliniska och kliniska data om faktor Xa-hämning eller PAR-signalering vid reumatoid artrit.
 - Fastställa om det finns en rimlig mekanistisk hypotes innan någon prövning planeras.
 
+<!-- review:begin se-lic-20261106-rivaroxaban-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Fastställa om det finns en rimlig mekanistisk hypotes innan någon prövning planeras. / Klargöra marknadsstatusen, eftersom alla godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-rivaroxaban-1 -->
+
 ---
 
 *Övriga förutsägelser i data (gikt, hiv-infektion, brakydaktyli-syndaktylisyndrom) har likaså endast evidensnivå L4–L5, saknar stöd för terapeutisk effekt och rekommenderas inte för vidare utvärdering i nuläget.*
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Klargöra marknadsstatusen, eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

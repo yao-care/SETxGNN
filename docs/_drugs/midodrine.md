@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 294
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "midodrine"
 predicted_indications: ["variably protease-sensitive prionopathy", "faciodigitogenital syndrome", "attention deficit-hyperactivity disorder", "hypotensive disorder", "attention deficit hyperactivity disorder, inattentive type", "sinoatrial node disease", "monogenic obesity", "specific developmental disorder", "obsolete hypertelorism (disease)", "sinoatrial block"]
 description: "Midodrine: predikterad ny indikation Variably protease-sensitive prionopathy (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -84,6 +84,12 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Godkänd indikationstext saknas för samtliga. Tabellen visar fem av godkännandena.
 
+<!-- review:begin se-lic-20261106-midodrine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 15 godkännanden är indragna, och inget giltigt godkännande finns i de data som sammanställts för rapporten. Godkänd indikationstext saknas för samtliga.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 15, varav giltiga: 15; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-midodrine-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|------|------|
 | 63789 | Midodrine Tillomed | Tablett | Tillomed Pharma GmbH | Indraget |
@@ -114,12 +120,39 @@ Ytterligare säkerhetsinformation finns i produktresumén.
 **Motivering:**
 - Förutsägelsen för variabelt proteassensitiv prionopati saknar både kliniska prövningar och publikationer, och inget mekanistiskt samband har kunnat identifieras.
 
+<!-- review:begin se-lic-20261106-midodrine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen för variabelt proteassensitiv prionopati saknar både kliniska prövningar och publikationer, och inget mekanistiskt samband har kunnat identifieras. Dessutom är alla svenska godkännanden indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 15, varav giltiga: 15; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-midodrine-2 -->
+
 **För att gå vidare krävs:**
 - Prekliniska data eller mekanismdata som visar en koppling mellan alfa-1-stimulering och prionpatologi.
 - Verifiering av läkemedlets tillgänglighet och regulatoriska status i Sverige.
 - Genomgång av produktresumé med varningar och kontraindikationer, eftersom sådana uppgifter saknas i de data som sammanställts.
 
+<!-- review:begin se-lic-20261106-midodrine-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Verifiering av läkemedlets tillgänglighet och regulatoriska status i Sverige, eftersom alla godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 15, varav giltiga: 15; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-midodrine-3 -->
+
 **Kompletterande observation:** Bland de övriga förutsägelserna är det bara "hypotensivt tillstånd" (rank 4) som har stöd i data, med en avslutad fas 2-prövning (NCT02893553) och flera översiktsartiklar. Det är dock i huvudsak en bekräftelse av den befintliga användningen och inte någon ny indikation. Förutsägelserna för sinoatriell sjukdom och sinoatriellt block är dessutom ett säkerhetsproblem, eftersom midodrin kan ge reflexbradykardi.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 15 godkännanden är indragna, och inget giltigt godkännande finns i de data som sammanställts för rapporten” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

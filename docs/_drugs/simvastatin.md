@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 397
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "SIMVASTATIN"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: predikterad ny indikation Brain stem infarction (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -108,6 +108,12 @@ Av litteraturen om autosomalt dominant hyperkolesterolemi kan även nämnas den 
 
 De fem första visas nedan.
 
+<!-- review:begin se-lic-20261106-simvastatin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 20 godkännanden är indragna och inga har registrerad indikationstext. De fem första visas nedan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-simvastatin-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 24126 | Simvastatin Brown | Filmdragerad tablett | Ingen indikationstext registrerad |
@@ -136,14 +142,41 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 - Mekanismen är väletablerad, och simvastatin har prövats direkt vid familjär hyperkolesterolemi (ENHANCE och ungdomsstudien), men flera av prövningarna testar kombinationer eller andra läkemedel. Eftersom indikationen ligger nära de ursprungliga är detta snarare en bekräftelse än en ny återanvändning.
 - Säkerhetsunderlaget från produktresumén saknas.
 
+<!-- review:begin se-lic-20261106-simvastatin-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla svenska godkännanden är indragna, och säkerhetsunderlaget från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-simvastatin-2 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé med varningar och kontraindikationer från Läkemedelsverket.
 - Hämta verkningsmekanismdata från DrugBank för att komplettera den mekanistiska analysen.
 - Särskilt beakta interaktionsrisk (amiodaron, amlodipin, fenofibrat, CYP3A4-hämmare) och risken för muskelbiverkningar vid behandling av familjär hyperkolesterolemi.
 
+<!-- review:begin se-lic-20261106-simvastatin-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra marknadsstatus: om ny ansökan eller återlansering krävs eftersom alla godkännanden är indragna. / Särskilt beakta interaktionsrisk (amiodaron, amlodipin, fenofibrat, CYP3A4-hämmare) och risken för muskelbiverkningar vid behandling av familjär hyperkolesterolemi.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-simvastatin-3 -->
+
 ---
 
 *Övriga förutsägelser i datamaterialet (bland annat hjärnstamsinfarkt, hiv-infektion, CETP-brist, ABri-amyloidos) har betydligt svagare stöd. Hiv-spåret handlar främst om läkemedelsinteraktioner och ger inget belägg för effekt mot hiv.*
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna och inga har registrerad indikationstext” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Klargöra marknadsstatus: om ny ansökan eller återlansering krävs eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

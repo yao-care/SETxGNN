@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 236
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "isoleucine"
 predicted_indications: ["gastroparesis (disease)"]
 description: "Isoleucine: predikterad ny indikation Gastropares (gastroparesis (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -72,6 +72,12 @@ Förutsägelsen bör därför tolkas med stor försiktighet.
 
 Ingen indikationstext finns registrerad. De fem första av 20 visas nedan.
 
+<!-- review:begin se-lic-20261106-isoleucine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 20 godkännanden är indragna. Ingen indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-isoleucine-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 12526 | Glavamin | Infusionsvätska, lösning | Ej angiven |
@@ -112,6 +118,19 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Göra en systematisk litteratursökning om isoleucin eller grenade aminosyror vid gastropares.
 - Söka efter registrerade kliniska prövningar, inklusive i ICTRP.
 - Bedöma administreringsväg och beredningsform, eftersom alla tidigare produkter är infusionsvätskor och inget oralt alternativ finns i data.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

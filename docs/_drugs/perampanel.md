@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 343
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "perampanel"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Perampanel: predikterad ny indikation Beta-ketothiolase deficiency (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -101,6 +101,12 @@ Indikationstext saknas i godkännandedata.
 
 Tillverkare: Vivanta Generics s.r.o.
 
+<!-- review:begin se-lic-20261106-perampanel-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Tillverkare: Vivanta Generics s.r.o. Ytterligare ett godkännande (65956) är också indraget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-perampanel-1 -->
+
 ---
 
 ## Säkerhetsaspekter
@@ -158,6 +164,26 @@ Mekanistiskt är stödet starkast här: vid långvarig status epilepticus tas GA
 - Hämtning av produktresumé med varningar och kontraindikationer samt verkningsmekanism från DrugBank.
 - Klargörande av vilket godkänt perampanelläkemedel som finns tillgängligt i Sverige.
 - Om fokus flyttas till **status epilepticus**: resultat från den pågående fas 2-prövningen (NCT06401707) och en adekvat dimensionerad randomiserad prövning, eftersom de två avbrutna prövningarna inte gav några effektdata.
+
+<!-- review:begin se-lic-20261106-perampanel-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargörande av vilket godkänt perampanelläkemedel som finns tillgängligt i Sverige, eftersom alla nuvarande godkännanden för denna produkt är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-perampanel-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Ytterligare ett godkännande (65956) är också indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla nuvarande godkännanden för denna produkt är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 440
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "trimethoprim"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 description: "Trimethoprim: predikterad ny indikation Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifte…"
@@ -78,6 +78,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Ingen godkänd indikationstext finns registrerad. De fem första godkännandena:
 
+<!-- review:begin se-lic-20261106-trimethoprim-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga godkännanden är avregistrerade. Ingen godkänd indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-trimethoprim-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 9525 | Idotrim | Filmdragerad tablett | Uppgift saknas |
@@ -87,6 +93,12 @@ Ingen godkänd indikationstext finns registrerad. De fem första godkännandena:
 | 9259 | Bactrim forte | Tablett | Uppgift saknas |
 
 Tillgängliga beredningsformer har varit orala (tablett, suspension) och injicerbara. Någon ögonberedning finns inte bland de svenska godkännandena.
+
+<!-- review:begin se-lic-20261106-trimethoprim-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Övriga fyra avregistrerade godkännanden: Eusaprim (infusionskoncentrat), Eusaprim forte (tablett), Zomylac (infusionskoncentrat) och Bactrim (oral suspension). Tillgängliga beredningsformer har varit orala (tablett, suspension) och injicerbara.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-trimethoprim-2 -->
 
 ---
 
@@ -109,12 +121,33 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 **Motivering:**
 - Förutsägelsen är enbart modellbaserad (L5) utan stödjande studier, och den antibakteriella mekanismen passar dåligt med en sjukdom som ofta är virusorsakad eller inflammatorisk.
 
+<!-- review:begin se-lic-20261106-trimethoprim-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen är enbart modellbaserad (L5) utan stödjande studier, och den antibakteriella mekanismen passar dåligt med en sjukdom som ofta är virusorsakad eller inflammatorisk. Dessutom har alla svenska godkännanden avregistrerats och inga ögonberedningar finns på marknaden.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-trimethoprim-3 -->
+
 **För att gå vidare krävs:**
 - Litteratursökning och kliniska data specifika för punktformad epitelial keratokonjunktivit och trimetoprim.
 - Klargöra sjukdomens orsak (bakteriell, viral eller inflammatorisk) och om en antibakteriell behandling kan ha nytta.
 - Uppgifter om verkningsmekanism från DrugBank.
 - Varningar och kontraindikationer från produktresumén.
 - Utvärdering av beredningsform (ögondroppar) och marknadstillgänglighet i Sverige.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Övriga fyra avregistrerade godkännanden: Eusaprim (infusionskoncentrat), Eusaprim forte (tablett), Zomylac (infusionskoncentrat) och Bactrim” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom har alla svenska godkännanden avregistrerats och inga ögonberedningar finns på marknaden” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

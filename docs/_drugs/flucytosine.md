@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 199
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Flucytosine: predikterad ny indikation Pagets sjukdom i skelettet (bone Paget disease) (evidensnivå L5). Ursprunglig indikation: Ej angiven i godkännandedata"
 monitor_inn: "flucytosine"
 predicted_indications: ["bone Paget disease"]
@@ -132,11 +132,30 @@ Produktresumédata (varningar och kontraindikationer) saknas i de sammanställda
 - Förutsägelsen stöds endast av en modellpoäng (L5). Det finns inga studier, ingen litteratur och ingen etablerad mekanism, och läkemedlets kända verkan har ingen tydlig koppling till Pagets sjukdom.
 - Säkerhetsprofilen är dessutom oklar: produktresumédata saknas, och kunskapsgrafen pekar på risker för benmärg, lever och njurar.
 
+<!-- review:begin se-lic-20261106-flucytosine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Säkerhetsprofilen är dessutom oklar: produktresumédata saknas, och kunskapsgrafen pekar på risker för benmärg, lever och njurar. Det enda svenska godkännandet är indraget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-flucytosine-1 -->
+
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket (MPA) för varningar, kontraindikationer och ursprunglig indikation.
 - Komplettera verkningsmekanismdata från DrugBank.
 - Genomföra litteratur- och prövningssökning samt prekliniska studier (till exempel på osteoklastmodeller) för att pröva om det finns någon biologisk koppling.
 - Bedöma nytta och risk i förhållande till befintliga behandlingar vid Pagets sjukdom, och utreda administreringsväg (flucytosin finns som infusionsvätska) och tillgänglighet på den svenska marknaden.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Det enda svenska godkännandet är indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

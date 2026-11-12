@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 258
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "LEVETIRACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Levetiracetam: predikterad ny indikation Beta-ketothiolase deficiency (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -97,6 +97,12 @@ Publikationerna nedan gäller allmänna anfallspopulationer och inte visuell epi
 
 Fem av dem visas här. Indikationstext saknas i de svenska godkännandena.
 
+<!-- review:begin se-lic-20261106-levetiracetam-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Av de 20 godkännandena är samtliga avregistrerade, och inget är giltigt för närvarande. Fem av dem visas här.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-levetiracetam-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform |
 |---------|------|------|
 | 58326 | Levetiracetam Orifarm | Filmdragerad tablett |
@@ -122,6 +128,12 @@ Fem av dem visas här. Indikationstext saknas i de svenska godkännandena.
 **Motivering:**
 - Förutsägelsen för visuell epilepsi bygger på en hög modellpoäng och ett rimligt mekanistiskt resonemang. Det saknas både kliniska prövningar och litteratur som specifikt gäller indikationen.
 
+<!-- review:begin se-lic-20261106-levetiracetam-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det saknas både kliniska prövningar och litteratur som specifikt gäller indikationen, och samtliga svenska godkännanden är avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-levetiracetam-2 -->
+
 **För att gå vidare krävs:**
 - Litteratursökning eller studier specifikt om levetiracetam vid fotosensitiv och visuell reflexepilepsi.
 - Kontroll av produktresumé för varningar, kontraindikationer och interaktioner, som inte har kunnat hämtas.
@@ -129,6 +141,20 @@ Fem av dem visas här. Indikationstext saknas i de svenska godkännandena.
 - Bedömning av säkerheten vid de samsjukligheter som kunskapsgrafen flaggar för, särskilt psykiatriska tillstånd, njur- och leverfunktion samt blodstatus.
 
 Där visade levetiracetam likvärdig effekt jämfört med fosfenytoin och valproat, inte överlägsen effekt. Användningen är redan etablerad i klinisk praxis och utgör därför inte någon ny återanvändning. Evidensen för startle-epilepsi (L3) och lässutlösta anfall (L3) består av små studier och fallrapporter.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Av de 20 godkännandena är samtliga avregistrerade, och inget är giltigt för närvarande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och samtliga svenska godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 239
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "ISOTRETINOIN"
 predicted_indications: ["malignant hypertensive renal disease"]
 description: "Isotretinoin: predikterad ny indikation Malignant hypertensive renal disease (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -85,11 +85,30 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 **Motivering:**
 - Förutsägelsen bygger enbart på en modellpoäng utan kliniska prövningar eller litteratur. Den ursprungliga indikationen i kunskapsgrafen är sannolikt felaktig, och läkemedlet har allvarliga säkerhetsrisker, bland annat fosterskador.
 
+<!-- review:begin se-lic-20261106-isotretinoin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den ursprungliga indikationen i kunskapsgrafen är sannolikt felaktig, och läkemedlet har allvarliga säkerhetsrisker, bland annat fosterskador. / Samtliga svenska godkännanden är indragna, så det finns ingen aktuell marknadsförd produkt.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 11, varav giltiga: 11; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-isotretinoin-1 -->
+
 **För att gå vidare krävs:**
 - Verkningsmekanismdata, till exempel från DrugBank.
 - Produktresumé med varningar och kontraindikationer från Läkemedelsverket.
 - Prekliniska data eller litteratur som stöder en koppling till malign renovaskulär hypertoni.
 - En bedömning av nytta och risk, särskilt med hänsyn till fosterskadande effekter.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är indragna, så det finns ingen aktuell marknadsförd produkt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

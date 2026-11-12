@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 399
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "sotalol"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
 description: "Sotalol: predikterad ny indikation Sick sinus syndrome 2, autosomal dominant (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -78,6 +78,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Ingen relaterad litteratur tillgänglig för närvarande.
 
+<!-- review:begin se-lic-20261106-sotalol-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla tre godkännanden är indragna, och inget giltigt läkemedel med sotalol som enda substans finns på marknaden.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-sotalol-1 -->
+
 ---
 
 ## Marknadsinformation Sverige
@@ -123,12 +129,32 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Förutsägelsen saknar helt stöd från studier (evidensnivå L5). Sotalols effekter på sinusknutan och AV-ledningen talar dessutom emot nytta vid sick sinus-syndrom, som även är en listad kontraindikation.
 - Bland de andra förutsägelserna har indikationen stroke visst indirekt stöd, genom en avslutad fas 3-prövning (NCT00007605, 706 deltagare) om rytmkontroll vid förmaksflimmer. Den undersöker dock inte stroke som utfall, och antikoagulation är fortfarande huvudstrategin för strokeprevention.
 
+<!-- review:begin se-lic-20261106-sotalol-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla svenska godkännanden är indragna. / Bland de andra förutsägelserna har indikationen stroke visst indirekt stöd, genom en avslutad fas 3-prövning (NCT00007605, 706 deltagare) om rytmkontroll vid förmaksflimmer.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-sotalol-2 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén för sotalol (varningar och kontraindikationer) från Läkemedelsverket.
 - Hämta verkningsmekanismdata från DrugBank för en fullständig mekanistisk analys.
 - Genomför en säkerhetsbedömning som tar hänsyn till kontraindikationen vid sick sinus-syndrom.
 - Utvärdera om en mer relevant förutsagd indikation (till exempel med indirekt kliniskt stöd) ska prioriteras i stället.
 - Eventuell vidare undersökning bör börja med prekliniska eller mekanistiska studier innan någon klinisk prövning övervägs.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla tre godkännanden är indragna, och inget giltigt läkemedel med sotalol som enda substans finns på marknaden” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

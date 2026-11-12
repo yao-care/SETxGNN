@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 338
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Parecoxib: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L3). Ursprunglig indikation: Ej angiven i tillgängliga licensuppgifter"
 monitor_inn: "parecoxib"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension"]
@@ -111,6 +111,12 @@ Ett teoretiskt säkerhetsproblem gäller för de relaterade förutsägelserna: C
 **Motivering:**
 - Den kliniska evidensen består av en enda pilotstudie vars design inte är bekräftad, inga kliniska prövningar är registrerade. Mekanismen är rimlig, men underlaget räcker inte för att gå vidare.
 
+<!-- review:begin se-lic-20261106-parecoxib-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den kliniska evidensen består av en enda pilotstudie vars design inte är bekräftad, inga kliniska prövningar är registrerade, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-parecoxib-1 -->
+
 **För att gå vidare krävs:**
 - Genomgång av fulltexten till PMID 21996647 för att fastställa studiedesign och effektresultat (kan påverka evidensnivån om det är en randomiserad studie).
 - Hämta verkningsmekanismdata från DrugBank.
@@ -125,6 +131,19 @@ Ett teoretiskt säkerhetsproblem gäller för de relaterade förutsägelserna: C
 - **Migrän med hjärnstammsaura:** Evidensnivå L5, endast modellförutsägelse och ingen subtypsspecifik evidens. Beslut: avvakta.
 - **Migrän, känslighet (susceptibility):** Evidensnivå L4. Avser genetisk benägenhet snarare än ett behandlingsbart tillstånd och bör användas som mekanistiskt stöd för akut migrän.
 - **Pulmonell hypertension:** Evidensnivå L4. Den enda studien (grisungar med sepsis) visade att parecoxib inte hämmar tromboxansyntesen, vilket inte ger stöd för behandlingsnytta. Beslut: avvakta.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 318
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "NITROFURANTOIN"
 predicted_indications: ["rheumatoid arthritis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "sclerosing cholangitis", "methemoglobinemia, alpha type", "gout", "methemoglobinemia"]
 description: "Nitrofurantoin: predikterad ny indikation Reumatoid artrit (rheumatoid arthritis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -64,6 +64,12 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Nitr
 
 Någon terapeutisk mekanism är inte fastställd. Nitrofurantoin har ingen känd antiinflammatorisk eller sjukdomsmodifierande (DMARD-liknande) effekt. Den höga poängen beror sannolikt på att läkemedlet och reumatoid artrit ofta förekommer tillsammans i litteratur om biverkningar, främst lungtoxicitet. Förutsägelsen bör därför inte tolkas som ett tecken på terapeutisk nytta.
 
+<!-- review:begin se-lic-20261106-nitrofurantoin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla fyra godkännanden är indragna och indikationstext saknas i de data som sammanställts.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-nitrofurantoin-1 -->
+
 ---
 
 ## Litteraturbevis
@@ -112,14 +118,41 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom uppgifter o
 **Motivering:**
 - Förutsägelsen saknar stöd i kliniska prövningar och litteratur, och den publicerade evidensen pekar mot skaderisk (särskilt lungtoxicitet i kombination med metotrexat) snarare än nytta vid reumatoid artrit.
 
+<!-- review:begin se-lic-20261106-nitrofurantoin-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen saknar stöd i kliniska prövningar och litteratur, och den publicerade evidensen pekar mot skaderisk (särskilt lungtoxicitet i kombination med metotrexat) snarare än nytta vid reumatoid artrit. Läkemedlet saknar dessutom giltiga godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-nitrofurantoin-2 -->
+
 **För att gå vidare krävs:**
 - Ett trovärdigt mekanistiskt underlag för antiinflammatorisk eller immunmodulerande effekt, inklusive verkningsmekanismdata.
 - Prekliniska data som stöder en effekt vid reumatoid artrit.
 - Säkerhetsdata från produktresumén, eftersom varningar och kontraindikationer saknas i underlaget.
 
+<!-- review:begin se-lic-20261106-nitrofurantoin-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Säkerhetsdata från produktresumén, eftersom varningar och kontraindikationer saknas i underlaget. / En bedömning av om det över huvud taget finns ett skäl att återinföra ett läkemedel med indragna godkännanden och en känd risk för lung- och leverskada.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-nitrofurantoin-3 -->
+
 ---
 
 *Övriga förutsagda indikationer (bl.a. diabetesnefropati, skleroserande kolangit, methemoglobinemi och gikt) har samma evidensnivå (L5) och saknar stöd. För methemoglobinemi och skleroserande kolangit pekar litteraturen på att nitrofurantoin snarare orsakar tillstånden än behandlar dem.*
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla fyra godkännanden är indragna och indikationstext saknas i de data som sammanställts” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Läkemedlet saknar dessutom giltiga godkännanden i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”En bedömning av om det över huvud taget finns ett skäl att återinföra ett läkemedel med indragna godkännanden och en känd risk för lung- och” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

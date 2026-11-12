@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 213
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "GEFITINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa"]
 description: "Gefitinib: predikterad ny indikation Fibromatos i tandköttet (fibromatosis, gingival) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -109,6 +109,12 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 **Motivering:**
 - Förutsägelsen har evidensnivå L5 utan kliniska prövningar eller litteratur, och något stöd för en EGFR-driven mekanism vid gingival fibromatos saknas.
 
+<!-- review:begin se-lic-20261106-gefitinib-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen har evidensnivå L5 utan kliniska prövningar eller litteratur, och något stöd för en EGFR-driven mekanism vid gingival fibromatos saknas. Dessutom är samtliga svenska godkännanden avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-gefitinib-1 -->
+
 **Övriga förutsägelser i utvärderingen (alla utan stöd för äkta återanvändning):**
 - *Fibrom i lunga, hamartom i lunga, inklusionskroppsmyopati med tidig Pagets sjukdom, Leukomelanoderma-syndromet, junktional epidermolysis bullosa*: endast modellförutsägelser (L5). Vid junktional epidermolysis bullosa är användning mekanistiskt oroande, eftersom gefitinib ofta ger hudtoxicitet.
 - *Carcinom i lunghilus och pulmonary sulcus-neoplasm*: i praktiken en utvidgning av den befintliga NSCLC-indikationen snarare än äkta återanvändning (L4, endast ett fallrapport respektive en översikt).
@@ -119,6 +125,19 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 - Prekliniska studier (t.ex. fibroblastmodeller) som testar om EGFR-hämning påverkar fibros i tandköttet
 - Fallserier eller prövningar vid gingival fibromatos innan en klinisk bedömning görs
 - Klargöra regulatorisk status, eftersom 2 giltiga godkännanden av 2 finns i Sverige
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 345
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "phentermine"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
 description: "Phentermine: predikterad ny indikation Hypervitaminosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -135,6 +135,12 @@ Se produktresumén för fullständig information om varningar och försiktighets
 **Motivering:**
 - Förutsägelsen bygger enbart på en modell (evidensnivå L5) utan kliniska prövningar eller litteratur. Kontraindikationsprofilen är bred, med tyngdpunkt på hjärt-kärl- och psykiska sjukdomar som ofta förekommer vid 16p11.2-deletion.
 
+<!-- review:begin se-lic-20261106-phentermine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla svenska godkännanden är dessutom indragna, och kontraindikationsprofilen är bred, med tyngdpunkt på hjärt-kärl- och psykiska sjukdomar som ofta förekommer vid 16p11.2-deletion.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-phentermine-1 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket, eftersom säkerhetsdata från godkännandena saknas.
 - Komplettera data om verkningsmekanism från DrugBank.
@@ -142,6 +148,26 @@ Se produktresumén för fullständig information om varningar och försiktighets
 - Bedöma säkerheten för en stimulerande sympatomimetika hos patienter med neuroutvecklingsmässiga, kardiovaskulära och psykiatriska följdtillstånd.
 - Klargöra läkemedlets regulatoriska status i Sverige.
 - Avstå från vidare utredning av hypervitaminos, hypertelorism och frontorhiny, som saknar rimlig biologisk grund.
+
+<!-- review:begin se-lic-20261106-phentermine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra läkemedlets regulatoriska status i Sverige, eftersom inget godkännande är giltigt.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-phentermine-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är dessutom indragna, och k” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom inget godkännande är giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 363
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "PREGABALIN"
 predicted_indications: ["tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
 description: "Pregabalin: predikterad ny indikation Tendinitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -92,6 +92,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande för tendinit
 
 De fem första visas nedan.
 
+<!-- review:begin se-lic-20261106-pregabalin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 20 godkännanden är indragna och inga har en registrerad indikationstext. De fem första visas nedan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-pregabalin-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 51464 | Pregabalin Krka | Kapsel, hård | Ej angiven (indragen) |
@@ -120,6 +126,12 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Motivering:**
 - Förutsägelsen för tendinit bygger enbart på modellens poäng. Inga studier prövar pregabalin vid tendinit.
 
+<!-- review:begin se-lic-20261106-pregabalin-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Inga studier prövar pregabalin vid tendinit, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-pregabalin-2 -->
+
 **Andra förutsägelser i underlaget:**
 - Den enda fas 3-prövningen hos vuxna (NCT00447369) drogs tillbaka utan deltagare. Evidensen är måttlig men inte definitiv. Detta är den mest lovande riktningen att utreda vidare.
 - **Migrän med hjärnstammsaura:** Endast prekliniskt stöd (pregabalin hämmar kortikal spridande depression).
@@ -129,6 +141,27 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Kontrollerade studier som direkt prövar pregabalin vid tendinit, eller en omprioritering mot migrän.
 - För migrän: en adekvat dimensionerad randomiserad studie på vuxna.
 - Verkningsmekanism och varningar/kontraindikationer från produktresumén, som saknas i det sammanställda underlaget.
+
+<!-- review:begin se-lic-20261106-pregabalin-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Verkningsmekanism och varningar/kontraindikationer från produktresumén, som saknas i det sammanställda underlaget. / Klargörande av varför alla svenska godkännanden är indragna, och om en ny godkännandeprocess skulle krävas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-pregabalin-3 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är indragna och inga har en registrerad indikationstext” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Klargörande av varför alla svenska godkännanden är indragna, och om en ny godkännandeprocess skulle krävas” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

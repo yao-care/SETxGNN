@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 187
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "famciclovir"
 predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hepatitis C induced liver cirrhosis", "malignant pleural mesothelioma", "AIDS-related disorder", "malignant epithelioid mesothelioma", "chickenpox", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 description: "Famciclovir: predikterad ny indikation Post-infectious neuralgia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -92,6 +92,12 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Tillverkare för alla tre är Phoenix Labs Unlimited Company.
 
+<!-- review:begin se-lic-20261106-famciclovir-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Tillverkare för alla tre är Phoenix Labs Unlimited Company. Inget av godkännandena är för närvarande giltigt.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-famciclovir-1 -->
+
 ---
 
 ## Säkerhetsaspekter
@@ -117,6 +123,26 @@ För varningar och försiktighetsåtgärder, se produktresumén.
 - Hämta och granska produktresumén för varningar, kontraindikationer (inklusive njurfunktion) och interaktioner.
 - Klargöra regulatorisk väg.
 - Av de övriga förutsägelserna för famciklovir har **vattkoppor** klart starkast stöd, med två avslutade fas 3-prövningar av VZV-sjukdom. Den indikationen kan vara ett mer prioriterat spår, även om famciklovir inte är standardbehandling där.
+
+<!-- review:begin se-lic-20261106-famciclovir-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra regulatorisk väg, eftersom samtliga godkännanden i Sverige är avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-famciclovir-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Inget av godkännandena är för närvarande giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom samtliga godkännanden i Sverige är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

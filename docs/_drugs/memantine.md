@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 277
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "memantine"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
 description: "Memantine: predikterad ny indikation Pulmonary hypertension (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -41,6 +41,12 @@ Evidensnivå: **L5** | Förutsagda indikationer: **4** st
 ### Sammanfattning
 
 Memantin är en NMDA-receptorantagonist med flera godkännanden i Sverige. Den ursprungliga indikationstexten finns inte i de data som sammanställts för rapporten. Underlaget består av **1 avslutad fas 3-prövning** och **20 publikationer**, bland dem en metaanalys av randomiserade studier och flera systematiska översikter.
+
+<!-- review:begin se-lic-20261106-memantine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga är numera avregistrerade, och den ursprungliga indikationstexten finns inte i de data som sammanställts för rapporten.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 10, varav giltiga: 10; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-memantine-1 -->
 
 ---
 
@@ -136,6 +142,26 @@ Varnings- och kontraindikationstext från produktresumén saknas i de sammanstä
 - Hämta varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA), samt verkningsmekanism från DrugBank.
 - Klargöra regulatorisk väg.
 - Utreda separat om pulmonell hypertension (högst TxGNN-poäng) alls har stöd: det nuvarande underlaget gäller ett annat ämne (MN-08, ett nitratderivat av memantin) och prekliniska data.
+
+<!-- review:begin se-lic-20261106-memantine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra regulatorisk väg, eftersom inga produkter för närvarande är godkända i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 10, varav giltiga: 10; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-memantine-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga är numera avregistrerade, och d” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom inga produkter för närvarande är godkända i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

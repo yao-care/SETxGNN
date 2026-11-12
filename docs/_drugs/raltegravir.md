@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 375
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "raltegravir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Raltegravir: predikterad ny indikation Simian immunbristvirusinfektion (simian immunodeficiency virus infection) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -114,11 +114,30 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 **Motivering:**
 - Evidensen består enbart av prekliniska studier (L4) och inga kliniska prövningar finns. SIV är dessutom en djurmodell för hiv, och raltegravir är redan godkänt för den humana motsvarigheten, så förutsägelsen ger inget nytt humant användningsområde.
 
+<!-- review:begin se-lic-20261106-raltegravir-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”SIV är dessutom en djurmodell för hiv, och raltegravir är redan godkänt för den humana motsvarigheten, så förutsägelsen ger inget nytt humant användningsområde. Det enda svenska godkännandet är återkallat.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-raltegravir-1 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket, eftersom säkerhetsgenomgången inte kan genomföras utan den.
 - Komplettera uppgifterna om verkningsmekanism från DrugBank.
 - Avgör om en veterinärmedicinsk eller forskningsrelaterad användning är relevant; i så fall krävs en separat bedömning.
 - Övriga förutsägelser bör inte prioriteras: för felin förvärvad immunbristsyndrom saknas både litteratur och prövningar, och för den neuroutvecklingsstörning som rankas som tredje saknas rimlig mekanistisk koppling, så poängen är sannolikt ett modellartefakt.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Det enda svenska godkännandet är återkallat” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

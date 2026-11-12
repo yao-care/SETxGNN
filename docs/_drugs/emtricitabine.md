@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 161
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "emtricitabine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Emtricitabine: predikterad ny indikation Feline acquired immunodeficiency syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -109,6 +109,12 @@ Varningar och kontraindikationer från de svenska produktresuméerna saknas i un
 **Motivering:**
 - Evidensen är begränsad till en enda preklinisk/veterinär studie och inga kliniska prövningar finns. Indikationen gäller dessutom katter och inte människor. Produktresuméns varningar saknas i underlaget.
 
+<!-- review:begin se-lic-20261106-emtricitabine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla svenska godkännanden är indragna och produktresuméns varningar saknas i underlaget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-emtricitabine-1 -->
+
 **För att gå vidare krävs:**
 - Ett tydligt beslut om huruvida en veterinär indikation alls ligger inom ramen för utvärderingen, eftersom detta är en veterinärmedicinsk fråga.
 - Kontrollerade veterinära studier av emtricitabin med tydliga effektmått, om riktningen ändå ska prövas.
@@ -118,6 +124,19 @@ Varningar och kontraindikationer från de svenska produktresuméerna saknas i un
 **Övriga förutsägelser i underlaget:**
 - *Simian immunbristvirusinfektion* (L4): flera studier på makaker visar att emtricitabin i kombination med tenofovir skyddar mot SIV/SHIV-smitta. Detta är djurmodellsdata för HIV och inte en ny indikation hos människor.
 - *Neuroutvecklingsstörning med ataxisk gång, utebliven tal och minskad kortikal vit substans* (L5): ingen mekanistisk koppling, inga studier och ingen litteratur.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna och p” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

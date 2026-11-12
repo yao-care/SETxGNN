@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 371
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "pyrazinamide"
 predicted_indications: ["infectious otitis media", "middle ear disease", "otosalpingitis", "chronic otitis media", "suppurative otitis media", "non-suppurative otitis media", "middle ear cholesterol granuloma", "allergic otitis media", "Lyme disease", "infectious otitis interna"]
 description: "Pyrazinamide: predikterad ny indikation Infectious otitis media (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -88,6 +88,12 @@ För den högst rankade förutsägelsen (infektiös otitis media) finns ingen li
 
 Alla dessa avser tuberkulös infektion, det vill säga läkemedlets ursprungliga användningsområde, och ger inget stöd för effekt vid vanlig otitis media.
 
+<!-- review:begin se-lic-20261106-pyrazinamide-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Båda godkännandena (Sandoz A/S) är indragna, och inget giltigt enkomponentsgodkännande eller kombinationsgodkännande finns för närvarande.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-pyrazinamide-1 -->
+
 ---
 
 ## Marknadsinformation Sverige
@@ -124,7 +130,27 @@ Varningar och kontraindikationer från svensk produktresumé saknas i underlaget
 - Hämtning av varningar och kontraindikationer från produktresumén, då säkerhetsunderlaget från svensk produktresumé saknas
 - Kompletterande verkningsmekanismdata
 
+<!-- review:begin se-lic-20261106-pyrazinamide-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Kompletterande verkningsmekanismdata / Aktuell marknadsstatus, eftersom båda svenska godkännandena är indragna” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-pyrazinamide-2 -->
+
 Stödet är svagt och indirekt, och ett första steg skulle vara *in vitro*-studier av persisterande borreliaceller. Övriga öronrelaterade förutsägelser (otosalpingit, icke-suppurativ och allergisk otitis media, kolesterolgranulom i mellanörat, infektiös otitis interna) saknar klinisk evidens och en rimlig mekanism.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Båda godkännandena (Sandoz A/S) är indragna, och inget giltigt enkomponentsgodkännande eller kombinationsgodkännande finns för närvarande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Aktuell marknadsstatus, eftersom båda svenska godkännandena är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

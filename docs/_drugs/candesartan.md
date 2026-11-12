@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 79
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Candesartan: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L2). Ursprunglig indikation: Ingen indikationstext angiven i godkännandedata"
 monitor_inn: "candesartan"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "Prinzmetal angina", "kyphoscoliotic heart disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "benign prostatic hyperplasia (disease)", "alopecia"]
@@ -100,6 +100,12 @@ Sambandet mellan den ursprungliga och den nya indikationen är således indirekt
 
 Ingen indikationstext finns angiven. Nedan visas de fem första.
 
+<!-- review:begin se-lic-20261106-candesartan-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 20 godkännanden är indragna och ingen indikationstext finns angiven.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-candesartan-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 25499 | Candesartan Sandoz | Tablett | Ej angiven |
@@ -127,6 +133,12 @@ Se i övrigt produktresumén för fullständig säkerhetsinformation.
 **Motivering:**
 - Det finns en stor, avslutad, placebokontrollerad fas 2-prövning (n=450) och en mindre fas 2/3-prövning som stöder candesartan vid migrän, men inga två avslutade fas 3-prövningar.
 
+<!-- review:begin se-lic-20261106-candesartan-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det finns en stor, avslutad, placebokontrollerad fas 2-prövning (n=450) och en mindre fas 2/3-prövning som stöder candesartan vid migrän, men inga två avslutade fas 3-prövningar. Dessutom är alla svenska godkännanden indragna, så tillgänglighet och regulatorisk status behöver klargöras.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-candesartan-2 -->
+
 **För att gå vidare krävs:**
 - Detaljerad granskning av resultaten i NCT04574713 / PMID 40975098 (effektstorlek, biverkningar, dosering 8 mg mot 16 mg).
 - Bekräftande fas 3-prövning, gärna med större urval och jämförelse mot etablerad profylax.
@@ -135,6 +147,20 @@ Se i övrigt produktresumén för fullständig säkerhetsinformation.
 - Säkerhetsplan för blodtryck, njurfunktion och graviditetsundvikande.
 
 **Övriga förutsagda indikationer** (migrän med hjärnstammsaura, pulmonell hypertension, Prinzmetal angina m.fl.) har svag eller indirekt evidens (L4–L5). Flera av dem kan spegla likheter som TxGNN-modellen (deep learning) har lärt sig mellan relaterade sjukdomar, inte biologisk evidens, eller överlapp med migrän, och de bör avvaktas.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är indragna och i” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna, så tillgänglighet och regulatorisk status behöver klargöras” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

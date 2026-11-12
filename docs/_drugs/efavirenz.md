@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 158
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "EFAVIRENZ"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Efavirenz: predikterad ny indikation Feline acquired immunodeficiency syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -86,6 +86,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Indikationstext saknas i underlaget.
 
+<!-- review:begin se-lic-20261106-efavirenz-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ytterligare tre indragna godkännanden finns (54251, 55565 och 61914).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-efavirenz-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 49558 | Efavirenz Aurobindo | Filmdragerad tablett | Ej angiven |
@@ -114,6 +120,12 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 - Evidensen är begränsad till en enda prekliniskt biokemisk/strukturell studie utan kliniska prövningar. FIV:s omvända transkriptas är dessutom känd för att vara mindre känsligt för NNRTI-läkemedel, så den höga modellpoängen är inte validerad.
 - Produktresumé med varningar saknas.
 
+<!-- review:begin se-lic-20261106-efavirenz-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla svenska godkännanden är indragna, och produktresumé med varningar saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-efavirenz-2 -->
+
 **För att gå vidare krävs:**
 - Laboratoriestudier (enzymhämning och cellodling) som visar att efavirenz har faktisk antiviral aktivitet mot FIV.
 - Farmakokinetik- och säkerhetsdata hos katt innan djurstudier kan motiveras.
@@ -128,6 +140,20 @@ De två andra förutsägelserna med hög poäng bedöms inte vara mer lovande:
 
 - **Simian immunbristvirusinfektion (SIV)**: Evidensnivå L4, ingen klinisk prövning. Studierna använder RT-SHIV, ett konstruerat virus med hiv-1:s omvända transkriptas, i makakapor som modell för den befintliga hiv-indikationen. Vildtyps-SIV är naturligt resistent mot NNRTI-läkemedel, så detta stöder inte en ny användning.
 - **Neuroutvecklingsstörning med ataxi, avsaknad av tal och minskad vit substans i hjärnbarken**: Evidensnivå L5, endast modellförutsägelse. En spekulativ koppling via efavirenz effekt på CYP46A1 finns, men efavirenz neuropsykiatriska biverkningar väcker säkerhetsfrågor hos barn.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Ytterligare tre indragna godkännanden finns (54251, 55565 och 61914)” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, och p” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 238
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "isoprenaline"
 predicted_indications: ["nasal cavity disease", "headache disorder", "pharyngitis", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "bronchial disease", "endobronchial leiomyoma", "allergic urticaria", "endobronchial lipoma", "bronchus adenoma"]
 description: "Isoprenaline: predikterad ny indikation Näshålesjukdom (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -110,12 +110,31 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Motivering:**
 - Förutsägelsen för näshåleföljd bygger enbart på modellen (evidensnivå L5), utan kliniska prövningar och utan relevant litteratur. Dess kardiovaskulära effekter (takykardi, arytmirisk) talar mot användning vid en icke-akut åkomma.
 
+<!-- review:begin se-lic-20261106-isoprenaline-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Läkemedlet saknar dessutom giltigt godkännande i Sverige, och dess kardiovaskulära effekter (takykardi, arytmirisk) talar mot användning vid en icke-akut åkomma.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-isoprenaline-1 -->
+
 **För att gå vidare krävs:**
 - Hämta och analysera produktresumén (varningar och kontraindikationer), vilket för närvarande saknas och blockerar säkerhetsgranskningen
 - Hämta uppgifter om verkningsmekanism från DrugBank
 - Prekliniska eller kliniska data som direkt prövar isoprenalin vid näshåleåkommor
 - Utvärdera administreringsväg, eftersom de tidigare godkännandena avsåg endast infusion
 - Notera att bronkial sjukdom (rang 6) är den enda förutsagda indikationen med visst stöd (L4, översiktsartiklar om beta-agonister). Den rör dock en historisk användning som ersatts av selektiva beta-2-agonister, och kan vara värd en separat bedömning
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Läkemedlet saknar dessutom giltigt godkännande i Sverige, och d” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 382
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "RITONAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Ritonavir: predikterad ny indikation Simian immunbristvirusinfektion (simian immunodeficiency virus infection) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -111,11 +111,30 @@ Varnings- och kontraindikationstext från produktresumén saknas i underlaget. S
 **Motivering:**
 - Evidensen består enbart av laboratorie- och djurstudier, utan kliniska prövningar. SIV är en djurmodell för HIV, vilket gör att förutsägelsen inte innebär en ny indikation för människor.
 
+<!-- review:begin se-lic-20261106-ritonavir-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”SIV är en djurmodell för HIV, vilket gör att förutsägelsen inte innebär en ny indikation för människor. Dessutom är det enda svenska godkännandet indraget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ritonavir-1 -->
+
 **För att gå vidare krävs:**
 - En bedömning av om förutsägelsen har något translationellt värde, till exempel som modell för forskning om proteashämmare, eftersom det inte finns någon klinisk indikation att gå vidare med
 - Hämtning och genomgång av produktresumén från Läkemedelsverket för varningar och kontraindikationer
 - Komplettering av verkningsmekanismdata, till exempel från DrugBank
 - Om en reell återanvändning ska utredas bör andra förutsägelser med klinisk relevans för människor granskas. Den tredje förutsägelsen, en sällsynt neuroutvecklingsstörning, saknar både mekanistiskt stöd och evidens, och ritonavirs penetration genom blod-hjärnbarriären är dessutom begränsad.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Dessutom är det enda svenska godkännandet indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 322
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "NYSTATIN"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
 description: "Nystatin: predikterad ny indikation Disease of orbital region (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -95,6 +95,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Någon godkänd indikationstext finns inte i den sammanställda datan.
 
+<!-- review:begin se-lic-20261106-nystatin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga åtta godkännanden är indragna. Någon godkänd indikationstext finns inte i den sammanställda datan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-nystatin-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 56096 | Nystatin Orifarm | Oral suspension | Uppgift saknas |
@@ -121,11 +127,31 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Motivering:**
 - Förutsägelsen är i huvudsak en utvidgning av den redan kända användningen vid vulvovaginal candidiasis. Evidensen (L3) består av översikter och äldre kliniska artiklar utan registrerade prövningar. Nystatin har dessutom ersatts av azoler som förstahandsval.
 
+<!-- review:begin se-lic-20261106-nystatin-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Nystatin har dessutom ersatts av azoler som förstahandsval, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-nystatin-2 -->
+
 **För att gå vidare krävs:**
 - Produktresumé med varningar och kontraindikationer (saknas och blockerar säkerhetsbedömningen).
 - Uppgifter om verkningsmekanism från DrugBank.
 - Avgränsning till candidabetingad vulvovaginit, eftersom icke-candidal vulvovaginit inte förväntas svara.
 - Jämförande kliniska data mot azoler om en ny prövning övervägs.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga åtta godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

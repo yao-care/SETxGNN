@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 437
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "TREPROSTINIL"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita"]
 description: "Treprostinil: predikterad ny indikation Pulmonell arteriovenös malformation (pulmonary arteriovenous malformation (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgift…"
@@ -82,6 +82,12 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Alla har beredningsformen infusionsvätska, lösning. Fem av dem visas nedan. Ingen godkänd indikationstext finns i underlaget.
 
+<!-- review:begin se-lic-20261106-treprostinil-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 12 godkännanden för treprostinil i Sverige är avregistrerade, och inget giltigt godkännande finns kvar. Alla har beredningsformen infusionsvätska, lösning.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 12, varav giltiga: 12; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-treprostinil-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
 | 22464 | Remodulin | Infusionsvätska, lösning | Godkänd |
@@ -126,6 +132,19 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 - Klargörande av tillgänglighet och godkännandestatus i Sverige.
 
 Bland modellens övriga förutsägelser finns PAH kopplad till bindvävssjukdom, som är en undergrupp av den ursprungliga indikationen. Den har betydligt starkare stöd (evidensnivå L2), bland annat från en dubbelblind, placebokontrollerad studie av subkutan treprostinilinfusion, och kan vara ett mer lovande spår att utreda först.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 12 godkännanden för treprostinil i Sverige är avregistrerade, och inget giltigt godkännande finns kvar” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

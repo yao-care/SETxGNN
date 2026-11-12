@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 129
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "DEFERASIROX"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
 description: "Deferasirox: predikterad ny indikation HIV infectious disease (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -87,6 +87,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Indikationstext saknas i data. Nedan visas fem av dem.
 
+<!-- review:begin se-lic-20261106-deferasirox-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 18 godkännanden är indragna och inget är för närvarande giltigt. Indikationstext saknas i data.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 18, varav giltiga: 18; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-deferasirox-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 58870 | Deferasirox Jubilant | Filmdragerad tablett | Uppgift saknas |
@@ -115,11 +121,31 @@ Fullständiga varningar och kontraindikationer från produktresumén ingår inte
 **Motivering:**
 - Den höga modellpoängen (99,4 %) stöds endast av en indirekt preklinisk studie, och inga kliniska prövningar finns. Effektens riktning är oklar.
 
+<!-- review:begin se-lic-20261106-deferasirox-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Effektens riktning är oklar, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 18, varav giltiga: 18; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-deferasirox-2 -->
+
 **För att gå vidare krävs:**
 - Laboratoriestudier som testar om deferasirox påverkar HIV-replikation i cellmodeller, inklusive effektens riktning.
 - Hämtning av verkningsmekanism från DrugBank.
 - Komplett säkerhetsgranskning utifrån produktresumén, särskilt med tanke på lever-, njur- och blodbildspåverkan hos en HIV-population.
 - Vid positiva prekliniska resultat: planering av en tidig klinisk studie.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 18 godkännanden är indragna och inget är för närvarande giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

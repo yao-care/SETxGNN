@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 366
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "procaine"
 predicted_indications: ["methemoglobinemia", "methemoglobinemia, alpha type", "Tourette syndrome", "anaphylaxis", "methemoglobin reductase deficiency", "hyperthyroidism", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis"]
 description: "Procaine: predikterad ny indikation Methemoglobinemia (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -42,6 +42,12 @@ Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 
 Prokain är ett lokalbedövningsmedel (en ester av para-aminobensoesyra). Någon godkänd indikationstext finns inte angiven.
 TxGNN-modellen förutsäger att prokain kan vara effektivt mot **metemoglobinemi**, men det finns **inga kliniska prövningar** och endast **5 publikationer**.
+
+<!-- review:begin se-lic-20261031-procaine-1 -->
+
+> **Granskningsrättelse (2026-10-31)**: Ursprungligen stod det: ”I Sverige finns endast ett avregistrerat godkännande, Cardioplexol, en lösning för kardioplegi. Någon godkänd indikationstext finns inte angiven.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-10-31). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261031-procaine-1 -->
 
 ---
 
@@ -112,6 +118,19 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 - Varningar och kontraindikationer från produktresumén hos Läkemedelsverket.
 - Ett tydligt skäl att tro att det finns ett terapeutiskt (inte skadligt) samband, annars bör förutsägelsen förkastas.
 - Andra förutsagda indikationer är mer rimliga att utreda, framför allt **tendinit** (evidensnivå L3). Där finns en modern studie från 2022 om prokaininjektion vid supraspinatustendinopati (PMID 35480510) samt en randomiserad jämförelse av lokalbedövning och kortikosteroid vid lateral epikondylit (PMID 23494116, lokalbedövning som jämförelse, inte prokain specifikt). Även **fibromyalgi** kan utredas som en forskningsfråga för symtomlindrande lokal användning, men underlaget består av gamla, okontrollerade rapporter och inga prövningar är registrerade.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-10-31 | Borttaget: ”I Sverige finns endast ett avregistrerat godkännande, Cardioplexol, en lösning för kardioplegi” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

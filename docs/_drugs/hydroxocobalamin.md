@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 227
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "hydroxocobalamin"
 predicted_indications: ["esophageal varices without bleeding", "esophageal varices with bleeding"]
 description: "Hydroxocobalamin: predikterad ny indikation Esophageal varices without bleeding (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -98,12 +98,38 @@ Se även produktresumén för fullständig säkerhetsinformation.
 **Motivering:**
 - Förutsägelsen bygger enbart på en grafmodell utan kliniska prövningar, litteratur eller etablerad verkningsmekanism. Dessutom finns välfungerande standardbehandling för esofagusvaricer.
 
+<!-- review:begin se-lic-20261106-hydroxocobalamin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom finns välfungerande standardbehandling för esofagusvaricer, och ingen aktiv produkt är godkänd i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-hydroxocobalamin-1 -->
+
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata (till exempel via DrugBank) och utvärdera om NO-bindning har någon relevans för portal hypertension.
 - Hämta varningar och kontraindikationer från produktresumén hos Läkemedelsverket.
 - Genomföra litteratur- och prövningssökning för hydroxokobalamin vid portal hypertension och esofagusvaricer.
 - Bedöma blodtryckshöjande effekter och säkerhet hos patienter med levercirros och portal hypertension.
 - Klargöra administreringsväg och tillgänglighet.
+
+<!-- review:begin se-lic-20261106-hydroxocobalamin-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra administreringsväg och tillgänglighet, eftersom inget giltigt godkännande finns i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-hydroxocobalamin-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”och ingen aktiv produkt är godkänd i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom inget giltigt godkännande finns i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

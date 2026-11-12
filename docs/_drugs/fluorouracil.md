@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 202
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "FLUOROURACIL"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "sickle cell-hemoglobin d disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-hemoglobin E disease syndrome"]
 description: "Fluorouracil: predikterad ny indikation Botryoid-type embryonal rhabdomyosarcoma of the vagina (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -94,6 +94,12 @@ Dessa publikationer är indirekta eller anekdotiska. Fallrapporten visar snarare
 
 Ingen godkänd indikationstext finns registrerad.
 
+<!-- review:begin se-lic-20261106-fluorouracil-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga sex godkännanden är indragna. Ingen godkänd indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-fluorouracil-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 11425 | Fluorouracil Teva | Injektionsvätska, lösning | Uppgift saknas |
@@ -137,12 +143,32 @@ Produktresumé med varningar och kontraindikationer har inte kunnat hämtas. Se 
 - Förutsägelsen bygger enbart på en modellberäkning (L5) utan kliniska prövningar eller litteratur för denna indikation, och befintlig litteratur om rabdomyosarkom är indirekt.
 - Läkemedlets toxicitetsprofil är påtaglig. Standardbehandlingen vid rabdomyosarkom bygger dessutom på andra läkemedel.
 
+<!-- review:begin se-lic-20261106-fluorouracil-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla svenska godkännanden är indragna och läkemedlets toxicitetsprofil är påtaglig.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-fluorouracil-2 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé med varningar och kontraindikationer (blockerande dataluckor).
 - Kartlägga verkningsmekanismen via DrugBank för en fullständig mekanistisk analys.
 - Systematisk litteratursökning efter direkta data om fluorouracil vid rabdomyosarkom, inklusive prekliniska studier i relevanta cellinjer eller modeller.
 - Bedöma administreringsväg och beredningsform, samt om en ny godkänd produkt skulle behöva tas fram i Sverige.
 - Utvärdera nyttan mot etablerade regimer innan någon klinisk prövning planeras.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga sex godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna och l” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

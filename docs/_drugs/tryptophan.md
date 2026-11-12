@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 442
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "tryptophan"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
 description: "Tryptophan: predikterad ny indikation Restless legs-syndrom (restless legs syndrome) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -92,6 +92,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Indikationstext saknas i underlaget. De fem första visas nedan.
 
+<!-- review:begin se-lic-20261106-tryptophan-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 20 godkännanden är avregistrerade. Indikationstext saknas i underlaget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-tryptophan-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 57202 | Corhum | Lösning för kardioplegi/organförvaring | Ej angiven |
@@ -129,6 +135,19 @@ Information från produktresumé om varningar och kontraindikationer saknas i un
 - Beredningsform och administrationsväg för RLS, eftersom befintliga godkännanden främst gäller infusionslösningar.
 
 *Övriga förutsägelser (primärt ärftligt glaukom, öppenvinkelglaukom, sömnlöshet, methemoglobinemi, metHb-reduktasbrist och medfödd protrombinbrist) har svagare eller indirekt evidens. Sömnlöshet har flest studier, inklusive en kontrollerad studie från 1983 av tryptofan mot flurazepam, sekobarbital och placebo, men ingen etablerad rekommendation i riktlinjer.*
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

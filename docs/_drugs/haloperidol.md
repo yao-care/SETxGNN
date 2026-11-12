@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 220
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "HALOPERIDOL"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy"]
 description: "Haloperidol: predikterad ny indikation Congenital disorder of glycosylation with defective fucosylation (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -105,10 +105,29 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas i de 
 **Motivering:**
 - Förutsägelsen stöds endast av modellpoängen. Det finns inga studier, ingen litteratur och ingen identifierad verkningsmekanism.
 
+<!-- review:begin se-lic-20261106-haloperidol-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det finns inga studier, ingen litteratur och ingen identifierad verkningsmekanism, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-haloperidol-1 -->
+
 **För att gå vidare krävs:**
 - Biologisk eller mekanistisk grund för en koppling mellan haloperidol och fukosyleringsvägar, till exempel prekliniska studier.
 - Produktresumé och säkerhetsunderlag, eftersom varningar och kontraindikationer saknas i nuvarande data.
 - Särskild uppmärksamhet på QT-förlängning och den stora mängden registrerade läkemedelsinteraktioner vid en eventuell fortsatt utvärdering.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

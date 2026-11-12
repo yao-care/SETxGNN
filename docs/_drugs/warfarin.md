@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 453
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "warfarin"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Warfarin: predikterad ny indikation Heparinkofaktor 2-brist (heparin cofactor 2 deficiency) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -125,6 +125,25 @@ Se produktresumén för fullständiga varningar och kontraindikationer, eftersom
 - Hämta verkningsmekanismdata från DrugBank.
 - Sammanställa kontrollerade data eller kohortstudier för warfarin vid ärftlig trombofili, särskilt jämfört med direktverkande orala antikoagulantia (DOAK), som enligt en ISTH-kommunikation från 2024 allt oftare används i stället.
 - Bedöma om trombofili (L1-förutsägelsen, NCT00895505) är ett mer meningsfullt spår att utreda vidare, trots att prövningens status är okänd.
+
+<!-- review:begin se-lic-20261106-warfarin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Verifiera marknadsstatus, eftersom båda godkännandena är indragna. / Sammanställa kontrollerade data eller kohortstudier för warfarin vid ärftlig trombofili, särskilt jämfört med direktverkande orala antikoagulantia (DOAK), som enligt en ISTH-kommunikation från 2024 allt oftare används i stället.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-warfarin-1 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Verifiera marknadsstatus, eftersom båda godkännandena är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 243
 evidence_level: L2
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Ketamine: predikterad ny indikation Huvudvärkssjukdom (headache disorder) (evidensnivå L2). Ursprunglig indikation: Ej angiven (godkännandena saknar indikationstext)"
 monitor_inn: "ketamine"
 predicted_indications: ["headache disorder"]
@@ -103,6 +103,12 @@ Den höga modellpoängen stämmer med denna mekanism. Evidensen är dock blandad
 
 Flera av de översikter som listas ovan berör ketamin bara i förbigående. De stöder därför riktningen mer indirekt än de kontrollerade studierna.
 
+<!-- review:begin se-lic-20261106-ketamine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla fyra godkännanden är indragna, och inget giltigt godkännande finns för närvarande.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ketamine-1 -->
+
 ---
 
 ## Marknadsinformation Sverige
@@ -147,6 +153,26 @@ Produktresumé med varningar och kontraindikationer ingick inte i de sammanstäl
 - Hämta och granska produktresumé med varningar och kontraindikationer, särskilt för patienter med hjärt-kärlsjukdom, förhöjt tryck och beroendehistorik.
 - Komplettera data om verkningsmekanism (saknas i underlaget) och om vilket administrationssätt som är lämpligast för huvudvärk.
 - Klargöra regulatorisk väg i Sverige.
+
+<!-- review:begin se-lic-20261106-ketamine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra regulatorisk väg i Sverige, eftersom alla nuvarande godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ketamine-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla fyra godkännanden är indragna, och inget giltigt godkännande finns för närvarande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla nuvarande godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

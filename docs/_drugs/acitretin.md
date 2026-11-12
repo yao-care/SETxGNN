@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 15
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Acitretin: predikterad ny indikation Akne (acne (disease)) (evidensnivå L3). Ursprunglig indikation: Ej angiven i de svenska godkännandena"
 monitor_inn: "ACITRETIN"
 predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
@@ -129,6 +129,12 @@ Produktresumé med varningar och kontraindikationer har inte kunnat hämtas. Se 
 **Motivering:**
 - Det enda underlaget gäller hidradenitis suppurativa och inte akne vulgaris, och det består av en fas 4-prövning utan känt resultat, riktlinjer, översikter och en fallrapport.
 
+<!-- review:begin se-lic-20261106-acitretin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det enda underlaget gäller hidradenitis suppurativa och inte akne vulgaris, och det består av en fas 4-prövning utan känt resultat, riktlinjer, översikter och en fallrapport. Läkemedlets fosterskadande effekt och övriga säkerhetsrisker, samt att alla svenska godkännanden är indragna, talar för försiktighet.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-acitretin-1 -->
+
 **För att gå vidare krävs:**
 - Klargöra om indikationen avser akne vulgaris eller hidradenitis suppurativa (acne inversa).
 - Hämta resultat från NCT07708480 och verifiera jämförelsedesignen.
@@ -136,6 +142,19 @@ Produktresumé med varningar och kontraindikationer har inte kunnat hämtas. Se 
 - Hämta produktresumé med varningar och kontraindikationer för säkerhetsgranskning.
 - Hämta verkningsmekanismdata från DrugBank.
 - Utvärdera ett program för graviditetsprevention och möjligheten att återinföra en marknadsföringslicens i Sverige.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Läkemedlets fosterskadande effekt och övriga säkerhetsrisker, samt att alla svenska godkännanden är indragna, talar för försiktighet” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

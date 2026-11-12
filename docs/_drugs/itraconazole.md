@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 240
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "itraconazole"
 predicted_indications: ["pneumocystosis"]
 description: "Itraconazole: predikterad ny indikation Pneumocystosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -91,6 +91,12 @@ Ingen av publikationerna visar direkt att itrakonazol behandlar pneumocystos. Fl
 
 Ingen indikationstext finns registrerad.
 
+<!-- review:begin se-lic-20261106-itraconazole-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla fyra godkännanden är indragna, och ingen indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-itraconazole-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 11900 | Sporanox (Janssen-Cilag AB) | Kapsel, hård | Ej angiven |
@@ -119,10 +125,30 @@ Produktresumédata om varningar och kontraindikationer saknas i det sammanställ
 **Motivering:**
 - Förutsägelsen bygger enbart på modellens nätverksnärhet till andra svampinfektioner. Inga kliniska prövningar finns, litteraturen är indirekt, och verkningsmekanismen (avsaknad av ergosterol hos *Pneumocystis*) talar emot effekt.
 
+<!-- review:begin se-lic-20261106-itraconazole-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Inga kliniska prövningar finns, litteraturen är indirekt, och verkningsmekanismen (avsaknad av ergosterol hos *Pneumocystis*) talar emot effekt. Dessutom är alla svenska godkännanden indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-itraconazole-2 -->
+
 **För att gå vidare krävs:**
 - Prekliniska data (in vitro och djurmodeller) som visar aktivitet mot *Pneumocystis* via en alternativ mekanism
 - Komplettering av produktresumédata om varningar och kontraindikationer samt verkningsmekanism
 - Jämförelse med etablerad behandling och profylax (trimetoprim-sulfametoxazol) för att bedöma ett eventuellt kliniskt behov
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla fyra godkännanden är indragna, och i” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

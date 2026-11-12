@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 452
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "vortioxetine"
 predicted_indications: ["neurotic disorder", "benign paroxysmal torticollis of infancy"]
 description: "Vortioxetine: predikterad ny indikation Neurotiskt tillstånd (neurotic disorder) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -119,11 +119,30 @@ Se produktresumén för varningar och kontraindikationer.
 **Motivering:**
 - Förutsägelsen bygger på ett begreppsmässigt överlapp med depression och ångest, inte på någon ny, självständig indikation. Det finns inga kliniska prövningar, och den enda publikationen utvärderar inte vortioxetin.
 
+<!-- review:begin se-lic-20261106-vortioxetine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det finns inga kliniska prövningar, och den enda publikationen utvärderar inte vortioxetin. / Läkemedlet har dessutom inga gällande godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 12, varav giltiga: 12; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-vortioxetine-1 -->
+
 **För att gå vidare krävs:**
 - Att diagnosen "neurotiskt tillstånd" omsätts till moderna diagnoser (t.ex. ihållande depressiv sjukdom eller ångestsyndrom) och bedöms mot de redan etablerade indikationerna.
 - Verkningsmekanismdata och säkerhetsinformation (varningar och kontraindikationer) från produktresumén.
 - Kontrollerade studier med vortioxetin i en tydligt definierad patientgrupp, om en ny indikation ändå ska prövas.
 - Klarhet i läkemedlets regulatoriska status i Sverige, där 12 av 12 godkännanden är giltiga.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Läkemedlet har dessutom inga gällande godkännanden i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

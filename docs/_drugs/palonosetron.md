@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 336
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Palonosetron: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L4). Ursprunglig indikation: Ej angiven i tillgängliga data"
 monitor_inn: "palonosetron"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
@@ -92,6 +92,12 @@ En översikt från 2026 om QT-förlängning vid antiemetika ([42748473](https://
 
 Inga indikationstexter finns registrerade.
 
+<!-- review:begin se-lic-20261106-palonosetron-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ytterligare ett godkännande (52850, Palonosetron Macure) finns, också indraget. Inga indikationstexter finns registrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-palonosetron-1 -->
+
 ---
 
 ### Säkerhetsaspekter
@@ -114,11 +120,31 @@ För varningar och kontraindikationer, se produktresumén.
 **Motivering:**
 - Den höga modellpoängen stöds inte av någon klinisk prövning, och den enda relevanta litteraturen visar att palonosetron kan framkalla migränliknande huvudvärk.
 
+<!-- review:begin se-lic-20261106-palonosetron-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den höga modellpoängen stöds inte av någon klinisk prövning, och den enda relevanta litteraturen visar att palonosetron kan framkalla migränliknande huvudvärk. Dessutom är alla svenska godkännanden indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-palonosetron-2 -->
+
 **För att gå vidare krävs:**
 - Hämta produktresumé med varningar och kontraindikationer (blockerande dataluckor för säkerhetsgranskning).
 - Komplettera verkningsmekanismen och den ursprungliga indikationen från DrugBank.
 - Genomföra en systematisk litteratursökning efter prekliniska eller kliniska data om 5-HT3-antagonister vid migrän.
 - Bedöma om förutsägelsen är meningsfull, eftersom litteraturen tyder på motsatt effekt.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Ytterligare ett godkännande (52850, Palonosetron Macure) finns, också indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

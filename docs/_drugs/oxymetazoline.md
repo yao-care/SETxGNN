@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 333
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "oxymetazoline"
 predicted_indications: ["nasal cavity disease", "headache disorder"]
 description: "Oxymetazoline: predikterad ny indikation Sjukdomar i näshålan (nasal cavity disease) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -90,6 +90,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 De fem första visas nedan. Indikationstext saknas i registerdata.
 
+<!-- review:begin se-lic-20261106-oxymetazoline-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 14 godkännanden är avregistrerade. De fem första visas nedan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 14, varav giltiga: 14; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-oxymetazoline-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 11670 | Nasin | Nässpray, lösning | Ej angiven |
@@ -126,8 +132,28 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varnings- o
 - Definiera en snävare indikation, till exempel en specifik rinit- eller sinuspatologi, istället för den breda kategorin "sjukdomar i näshålan".
 - Genomföra eller identifiera kontrollerade kliniska studier och klargöra den regulatoriska statusen.
 
+<!-- review:begin se-lic-20261106-oxymetazoline-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Genomföra eller identifiera kontrollerade kliniska studier och klargöra den regulatoriska statusen, eftersom inget godkännande är giltigt.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 14, varav giltiga: 14; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-oxymetazoline-2 -->
+
 **Övriga förutsägelser som bedömts (ingen rekommenderas för närvarande):**
 - **Huvudvärkssjukdom** (poäng 0,9904): Evidensnivå L3. En studie från 2020 (PMID [31919839](https://pubmed.ncbi.nlm.nih.gov/31919839/)) undersökte intranasal tetrakain 3 % plus oximetazolin 0,05 % vid status migrainosus. Effekten kan inte tillskrivas oximetazolin ensamt, eftersom det gavs i kombination med ett lokalbedövningsmedel. Detta är den mest intressanta nya riktningen men kräver kontrollerade studier.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 14 godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom inget godkännande är giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

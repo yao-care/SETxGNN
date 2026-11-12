@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 166
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "ephedrine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
 description: "Ephedrine: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -87,6 +87,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Ingen godkänd indikationstext finns registrerad. De fem första visas nedan.
 
+<!-- review:begin se-lic-20261106-ephedrine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 16 godkännanden är indragna. Ingen godkänd indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 16, varav giltiga: 16; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ephedrine-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 63945 | Ephedrine Kabi | Injektionsvätska, lösning | Uppgift saknas |
@@ -120,6 +126,12 @@ Ingen godkänd indikationstext finns registrerad. De fem första visas nedan.
 **Motivering:**
 - Den förutsagda indikationen överlappar i hög grad med redan kända användningsområden och stöds endast av två äldre, lågkvalitativa studier utan möjlighet att isolera efedrins effekt. Säkerhetsunderlaget från produktresumé saknas.
 
+<!-- review:begin se-lic-20261106-ephedrine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga svenska godkännanden är dessutom indragna, och säkerhetsunderlaget från produktresumé saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 16, varav giltiga: 16; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ephedrine-2 -->
+
 **För att gå vidare krävs:**
 - Produktresumé från Läkemedelsverket (MPA) med varningar och kontraindikationer, så att säkerhetsgranskning kan genomföras
 - Verkningsmekanismdata från DrugBank
@@ -133,6 +145,19 @@ Ingen godkänd indikationstext finns registrerad. De fem första visas nedan.
 
 | Förutsagd indikation | TxGNN-poäng | Evidensnivå | Kommentar |
 |------|------|------|------|
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 16 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”amtliga svenska godkännanden är dessutom indragna, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 234
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "IRBESARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
 description: "Irbesartan: predikterad ny indikation Malign hypertensiv njursjukdom (malignant hypertensive renal disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -101,6 +101,18 @@ Den primära förutsägelsen (malign hypertensiv njursjukdom) saknar litteratur.
 
 Indikationstext saknas i registerdatan. De fem första godkännandena:
 
+<!-- review:begin se-lic-20261106-irbesartan-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 15 godkännanden är avregistrerade och inget gällande godkännande finns. Indikationstext saknas i registerdatan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 15, varav giltiga: 15; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-irbesartan-1 -->
+
+<!-- review:begin se-lic-20261106-irbesartan-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bland de övriga avregistrerade godkännandena finns både enkomponentsprodukter (Accord, STADA) och kombinationer med hydroklortiazid (STADA, Actavis).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 15, varav giltiga: 15; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-irbesartan-2 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 26629 | Irbesartan Sandoz | Filmdragerad tablett | – |
@@ -153,6 +165,20 @@ Se produktresumén för fullständig information om varningar och försiktighets
 - Komplettera verkningsmekanismdata från DrugBank.
 - Genomföra en litteratur- och prövningssökning specifikt för malign hypertensiv njursjukdom för att bedöma om någon ny signal finns.
 - Utföra prekliniska studier med lungkärlsspecifika mått för hypoxirelaterad pulmonell hypertension, följt av en säkerhets- och genomförbarhetsbedömning (med särskild uppmärksamhet på hypotension, njurfunktion och kaliumnivåer).
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 15 godkännanden är avregistrerade och inget gällande godkännande finns” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Bland de övriga avregistrerade godkännandena finns både enkomponentsprodukter (Accord, STADA) och kombinationer med hydroklortiazid (STADA, ” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

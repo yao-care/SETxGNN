@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 165
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "enzalutamide"
 predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
 description: "Enzalutamide: predikterad ny indikation Prostate leiomyoma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -84,6 +84,12 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 De fem första visas nedan. Alla är filmdragerade tabletter, och indikationstext saknas i underlaget.
 
+<!-- review:begin se-lic-20261106-enzalutamide-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 10 godkännanden är avregistrerade. De fem första visas nedan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 10, varav giltiga: 10; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-enzalutamide-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----------|------|
 | 66243 | Enzalutamide Teva | Filmdragerad tablett | TEVA GmbH | Godkänd |
@@ -130,6 +136,19 @@ Varningar och kontraindikationer enligt produktresumé ingår inte i underlaget.
 - Prekliniska eller kliniska data som visar en androgenreceptorberoende mekanism vid den aktuella diagnosen, särskilt för hjärncancer.
 - Verkningsmekanismdata (t.ex. via DrugBank) och produktresumé med varningar och kontraindikationer.
 - Fokus på de bättre underbyggda kandidaterna. Kategorin "male reproductive organ cancer" överlappar med den ursprungliga indikationen och har fas 3-studier, men är ingen ny indikation. Möjligt värde ligger i nya kombinationer och patientgrupper, till exempel äldre patienter eller kombination med mevrometostat.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 10 godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

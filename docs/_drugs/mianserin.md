@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 291
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "mianserin"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "neurotic disorder"]
 description: "Mianserin: predikterad ny indikation Benign paroxysmal torticollis of infancy (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -67,6 +67,12 @@ Benign paroxysmal torticollis hos spädbarn är en barnneurologisk sjukdom som o
 
 Det finns alltså inget stöd i kliniska prövningar eller litteratur. Den höga poängen är en modellprediktion.
 
+<!-- review:begin se-lic-20261106-mianserin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den höga poängen är en modellprediktion. Att målgruppen är spädbarn och att läkemedlet saknar giltigt godkännande i Sverige ökar dessutom säkerhetsfrågorna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-mianserin-1 -->
+
 ---
 
 ### Marknadsinformation Sverige
@@ -80,6 +86,12 @@ Det finns alltså inget stöd i kliniska prövningar eller litteratur. Den höga
 | 12014 | Mianserin Viatris | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänt) |
 
 Ytterligare fyra godkännanden (58008, 57435, 65741 och 12015) visas inte här.
+
+<!-- review:begin se-lic-20261106-mianserin-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Totalt finns 9 godkännanden, alla återkallade. Ytterligare fyra godkännanden (58008, 57435, 65741 och 12015) visas inte här.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-mianserin-2 -->
 
 ---
 
@@ -98,6 +110,12 @@ Uppgifter om varningar och kontraindikationer saknas. Se produktresumén för fu
 **Motivering:**
 - Förutsägelsen bygger enbart på modellpoängen. Det finns inga kliniska prövningar, ingen litteratur och ingen etablerad mekanistisk koppling. Den tänkta patientgruppen är spädbarn.
 
+<!-- review:begin se-lic-20261106-mianserin-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Läkemedlet saknar dessutom giltigt godkännande i Sverige och den tänkta patientgruppen är spädbarn.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-mianserin-3 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer), vilket i nuläget blockerar säkerhetsbedömningen.
 - Komplettera verkningsmekanismdata från DrugBank.
@@ -114,6 +132,20 @@ Andra förutsägelser har starkare litteraturstöd, men de ligger nära mianseri
 |------|------|------|------|
 | Dysthymi | 0,9940 | L5 | Endast metaanalys på läkemedelsklassnivå |
 | Agorafobi | 0,9940 | L5 | Ingen direkt evidens för mianserin |
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Att målgruppen är spädbarn och att läkemedlet saknar giltigt godkännande i Sverige ökar dessutom säkerhetsfrågorna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Totalt finns 9 godkännanden, alla återkallade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Läkemedlet saknar dessutom giltigt godkännande i Sverige och d” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

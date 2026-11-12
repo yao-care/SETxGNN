@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 207
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "fomepizole"
 predicted_indications: ["sclerosing cholangitis"]
 description: "Fomepizole: predikterad ny indikation Skleroserande kolangit (sclerosing cholangitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -95,6 +95,12 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 - Förutsägelsen har en mycket hög modellpoäng (99,3 %) men saknar helt stöd från kliniska prövningar och litteratur (evidensnivå L5). Produktresumén saknas för säkerhetsbedömning.
 - Kunskapsgrafen anger leversjukdom och gallblåsesjukdom som möjliga kontraindikationer, vilket är oroande för en gallvägssjukdom.
 
+<!-- review:begin se-lic-20261106-fomepizole-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Produktens godkännande är dessutom avregistrerat, och produktresumén saknas för säkerhetsbedömning.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-fomepizole-1 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén från Läkemedelsverket (MPA) för varningar och kontraindikationer.
 - Komplettera verkningsmekanismen från DrugBank och analysera mekanistiska kopplingar till skleroserande kolangit.
@@ -102,6 +108,26 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 - Utreda prekliniska data (t.ex. i modeller för gallgångsskada) innan klinisk utvärdering övervägs.
 - Bedöma administreringsväg och beredningsform, eftersom fomepizol är en infusionslösning och kompatibiliteten med den nya indikationen inte har utvärderats.
 - Utreda om produkten kan göras tillgänglig igen.
+
+<!-- review:begin se-lic-20261106-fomepizole-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Utreda om produkten kan göras tillgänglig igen, eftersom godkännandet är avregistrerat.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-fomepizole-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”roduktens godkännande är dessutom avregistrerat, och p” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom godkännandet är avregistrerat” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

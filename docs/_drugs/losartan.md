@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 271
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "losartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
 description: "Losartan: predikterad ny indikation Malignant hypertensive renal disease (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -81,6 +81,12 @@ Det finns dock en viktig försiktighetsaspekt. Vid dubbelsidig njurartärstenos 
 
 Indikationstext saknas i licensdata. De fem första listas nedan.
 
+<!-- review:begin se-lic-20261106-losartan-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 20 godkännanden är indragna. Indikationstext saknas i licensdata.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-losartan-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 23532 | Losartan Medical Valley | Filmdragerad tablett | Ingen indikationstext tillgänglig |
@@ -111,6 +117,12 @@ Se produktresumén för fullständig information om varningar och försiktighets
 **Motivering:**
 - Evidensen består av en enda fallrapport och en djurmodellstudie, utan kliniska prövningar. Dessutom innebär risken för akut njurskada vid dubbelsidig njurartärstenos och malignt förlopp en tydlig säkerhetsfråga.
 
+<!-- review:begin se-lic-20261106-losartan-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom innebär risken för akut njurskada vid dubbelsidig njurartärstenos och malignt förlopp en tydlig säkerhetsfråga. Samtliga svenska godkännanden är dessutom indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-losartan-2 -->
+
 **För att gå vidare krävs:**
 - Hämta produktresumé med varningar och kontraindikationer från MPA för säkerhetsgranskning.
 - Komplettera data om verkningsmekanism från DrugBank.
@@ -120,6 +132,20 @@ Se produktresumén för fullständig information om varningar och försiktighets
 ---
 
 *Övriga förutsagda indikationer (bland annat malign hypertensiv njursjukdom, pulmonell hypertension, Prinzmetal angina och sällsynta småkärlssjukdomar) har likaledes svag evidens (L4–L5) och rekommenderas inte för vidare utvärdering i nuläget.*
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är dessutom indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

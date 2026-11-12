@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 222
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "heparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets"]
 description: "Heparin: predikterad ny indikation Trombofili orsakad av protein C-brist, autosomalt recessiv (thrombophilia due to protein C deficiency… (evidensnivå L5). Ursprunglig indikation: Inte angiven i de l…"
@@ -114,6 +114,12 @@ Produktresumétext om varningar och kontraindikationer ingår inte i de sammanst
 **Motivering:**
 - Förutsägelsen är mekanistiskt rimlig och ligger nära heparins kopplade indikation purpura fulminans, men inga studier eller publikationer stöder den i de data som sammanställts (evidensnivå L5).
 
+<!-- review:begin se-lic-20261106-heparin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen är mekanistiskt rimlig och ligger nära heparins kopplade indikation purpura fulminans, men inga studier eller publikationer stöder den i de data som sammanställts (evidensnivå L5). Dessutom har alla svenska godkännanden för Heparin LEO avregistrerats.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-heparin-1 -->
+
 **För att gå vidare krävs:**
 - Litteratursökning och systematisk genomgång av fallserier, riktlinjer och studier om heparin vid svår protein C-brist, särskilt som tillägg till protein C-ersättning.
 - Hämtning och genomgång av produktresumé för ett aktuellt heparinpreparat i Sverige (varningar, kontraindikationer, dosering), eftersom säkerhetsdata saknas.
@@ -121,6 +127,19 @@ Produktresumétext om varningar och kontraindikationer ingår inte i de sammanst
 - Kontroll av registrerade kliniska prövningar för protein C-brist och heparin.
 - Klinisk bedömning av balansen mellan nytta och blödningsrisk samt risken för heparininducerad trombocytopeni hos denna patientgrupp.
 - Klargörande av vilket heparinpreparat som i dag är tillgängligt på den svenska marknaden.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Dessutom har alla svenska godkännanden för Heparin LEO avregistrerats” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

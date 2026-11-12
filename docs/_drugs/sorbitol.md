@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 398
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Sorbitol: predikterad ny indikation Exercise-induced malignant hyperthermia (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga godkännandedata"
 monitor_inn: "SORBITOL"
 predicted_indications: ["exercise-induced malignant hyperthermia"]
@@ -98,11 +98,30 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 **Motivering:**
 - Förutsägelsen bygger enbart på en modellpoäng utan stöd från kliniska prövningar eller litteratur, och det saknas en rimlig mekanistisk koppling.
 
+<!-- review:begin se-lic-20261106-sorbitol-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen bygger enbart på en modellpoäng utan stöd från kliniska prövningar eller litteratur, och det saknas en rimlig mekanistisk koppling. Dessutom är samtliga svenska godkännanden indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-sorbitol-1 -->
+
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata för sorbitol från DrugBank.
 - Hämta varningar och kontraindikationer från produktresumén hos Läkemedelsverket.
 - Göra en systematisk litteratursökning och en prekliniskt inriktad mekanistisk bedömning av en eventuell koppling till RYR1-relaterad kalciumreglering.
 - Bedöma administrationsvägens kompatibilitet, eftersom tillgängliga produkter är rektallösningar och den nya indikationen sannolikt kräver en annan administrationsform.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

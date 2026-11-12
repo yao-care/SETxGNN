@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 310
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "NAPROXEN"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
 description: "Naproxen: predikterad ny indikation Brachydactyly-syndactyly syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -109,11 +109,30 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 **Motivering:**
 - Förutsägelsen saknar helt kliniskt och litteraturbaserat stöd (evidensnivå L5), och inget rimligt mekanistiskt samband mellan en COX-hämmare och ett medfött missbildningssyndrom kan fastställas.
 
+<!-- review:begin se-lic-20261106-naproxen-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen saknar helt kliniskt och litteraturbaserat stöd (evidensnivå L5), och inget rimligt mekanistiskt samband mellan en COX-hämmare och ett medfött missbildningssyndrom kan fastställas. / Samtliga svenska godkännanden för naproxen är dessutom avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 19, varav giltiga: 19; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-naproxen-1 -->
+
 **För att gå vidare krävs:**
 - Uppgifter om verkningsmekanism som underlag för en mekanistisk analys.
 - Säkerhetsuppgifter (varningar och kontraindikationer) från produktresumén.
 - Prekliniska eller kliniska data som stöder en koppling till den förutsagda sjukdomen.
 - Bedömning av om en lämplig beredningsform och administreringsväg finns tillgänglig på den svenska marknaden.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden för naproxen är dessutom avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

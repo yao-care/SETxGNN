@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 411
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Tapentadol: predikterad ny indikation Migränsjukdom (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ej angiven i de sammanställda data (indikationstexten saknas för alla…"
 monitor_inn: "tapentadol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
@@ -91,6 +91,12 @@ För migränsjukdom (huvudförutsägelsen) finns ingen relaterad litteratur till
 
 Indikationstext saknas i registret. De fem första visas här:
 
+<!-- review:begin se-lic-20261106-tapentadol-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 20 godkännanden är indragna. Indikationstext saknas i registret.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-tapentadol-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 61813 | Tapentadol Depot STADA | Depottablett | Ej angiven |
@@ -128,11 +134,38 @@ För varningar och kontraindikationer, se produktresumén.
 **Motivering:**
 - Förutsägelsen är enbart modellbaserad (L5) utan kliniska prövningar eller direkt litteratur. Opioider rekommenderas dessutom generellt inte vid migrän.
 
+<!-- review:begin se-lic-20261106-tapentadol-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Opioider rekommenderas dessutom generellt inte vid migrän, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-tapentadol-2 -->
+
 **För att gå vidare krävs:**
 - Verkningsmekanismdata för tapentadol (hämtas från DrugBank).
 - Varningar och kontraindikationer från produktresumén (hämtas från Läkemedelsverkets webbplats).
 - Prekliniska studier och kontrollerade kliniska prövningar av tapentadol vid migrän.
 - En bedömning av risken för läkemedelsöveranvändningshuvudvärk och serotonergt syndrom, samt jämförelse med etablerade migränbehandlingar.
+
+<!-- review:begin se-lic-20261106-tapentadol-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”En bedömning av risken för läkemedelsöveranvändningshuvudvärk och serotonergt syndrom, samt jämförelse med etablerade migränbehandlingar. / Klargörande av varför alla godkännanden är indragna och om en återlansering är aktuell.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-tapentadol-3 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Klargörande av varför alla godkännanden är indragna och om en återlansering är aktuell” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 175
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "ESTRIOL"
 predicted_indications: ["amenorrhea (disease)"]
 description: "Estriol: predikterad ny indikation Amenorré (amenorrhea (disease)) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -91,6 +91,18 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Indikationstext saknas i de sammanställda uppgifterna.
 
+<!-- review:begin se-lic-20261106-estriol-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga godkännanden är avregistrerade. Indikationstext saknas i de sammanställda uppgifterna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-estriol-1 -->
+
+<!-- review:begin se-lic-20261106-estriol-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ytterligare tre godkännanden (Blissel, Ovesterin vaginalkräm och Gynoflor) finns, även dessa avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-estriol-2 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
 | 63196 | Vaginelle | Vaginalkräm | Godkänd |
@@ -123,6 +135,20 @@ Se produktresumén för information om varningar och kontraindikationer. Sådana
 - Kontrollerade kliniska studier med tydliga effektmått, t.ex. återkomst av menstruation och hormonnivåer.
 - Bedömning av beredningsform och administreringsväg, eftersom tidigare produkter huvudsakligen var vaginala.
 - Utredning av regulatorisk väg, eftersom inga godkännanden är aktiva.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Ytterligare tre godkännanden (Blissel, Ovesterin vaginalkräm och Gynoflor) finns, även dessa avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 74
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "cabazitaxel"
 predicted_indications: ["female breast carcinoma", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin c disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-hemoglobin E disease syndrome", "HIV infectious disease", "hyperthyroidism", "neuroblastoma", "rheumatoid arthritis"]
 description: "Cabazitaxel: predikterad ny indikation Kvinnlig bröstcancer (female breast carcinoma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -89,6 +89,12 @@ Sambandet är alltså mekanistiskt och indirekt. Det finns inga kliniska prövni
 
 Ingen godkänd indikationstext finns registrerad.
 
+<!-- review:begin se-lic-20261106-cabazitaxel-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla sex svenska godkännanden är indragna och ingen godkänd indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-cabazitaxel-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 59078 | Cabazitaxel Medical Valley | Koncentrat och vätska till infusionsvätska, lösning | Ej angiven |
@@ -128,11 +134,31 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Förutsägelsen har ett högt modellvärde och mekanistiskt stöd, eftersom andra taxaner används vid bröstcancer. Underlaget består dock främst av prekliniska studier och översikter, utan registrerade kliniska prövningar i de sammanställda data.
 - Cytotoxisk myelosuppression innebär en betydande säkerhetsrisk.
 
+<!-- review:begin se-lic-20261106-cabazitaxel-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla svenska godkännanden är indragna, och cytotoxisk myelosuppression innebär en betydande säkerhetsrisk.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-cabazitaxel-2 -->
+
 **För att gå vidare krävs:**
 - Sökning efter kliniska prövningar för cabazitaxel vid bröstcancer och granskning av GENEVIEVE-resultaten (pCR och långtidsutfall) jämfört med paklitaxel.
 - Hämtning av verkningsmekanism och varningar/kontraindikationer från produktresumén.
 - Klargörande av varför de svenska godkännandena har dragits in och om någon produkt finns tillgänglig.
 - Bedömning av nytta och risk i relevant patientgrupp, särskilt avseende neutropeni, lever- och njurfunktion.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla sex svenska godkännanden är indragna och i” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, och c” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

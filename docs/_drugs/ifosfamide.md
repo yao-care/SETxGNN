@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 230
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Ifosfamide: predikterad ny indikation Bröstcancer hos kvinnor (female breast carcinoma) (evidensnivå L5). Ursprunglig indikation: Alkylerande cytostatika vid cancer"
 monitor_inn: "ifosfamide"
 predicted_indications: ["female breast carcinoma", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "rhabdomyosarcoma (disease)", "myelodysplastic syndrome", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
@@ -65,6 +65,12 @@ För närvarande finns ingen detaljerad verkningsmekanismdata i läkemedelsunder
 Denna mekanism gäller alla snabbväxande tumörer, inklusive bröstcancer. Läkemedlet är nära släkt med cyklofosfamid, som är en vanlig del av bröstcancerbehandling. Äldre studier visar att ifosfamid som enda läkemedel gav behandlingssvar hos cirka 7–30 % av förbehandlade patienter. Kombinationer med andra läkemedel som är aktiva vid bröstcancer gav ofta högre svarsfrekvens.
 
 Ifosfamid är inte ett standardläkemedel vid bröstcancer, och inga fas 3-studier har identifierats. Förutsägelsen är därför mekanistiskt rimlig och delvis stödd av kliniska data, men den bör betraktas som en forskningsfråga snarare än en etablerad behandling.
+
+<!-- review:begin se-lic-20261106-ifosfamide-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga godkännanden innehas av Baxter Medical AB och är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ifosfamide-1 -->
 
 ---
 
@@ -152,10 +158,37 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Läkemedlet har betydande risker (benmärgspåverkan, njur- och nervtoxicitet, sekundär leukemi).
 - Förutsägelsen bör därför hanteras som en forskningsfråga.
 
+<!-- review:begin se-lic-20261106-ifosfamide-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla svenska godkännanden är indragna, och läkemedlet har betydande risker (benmärgspåverkan, njur- och nervtoxicitet, sekundär leukemi).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ifosfamide-2 -->
+
 **För att gå vidare krävs:**
 - Resultat från NCT00026078 och NCT00012311, eller en ny randomiserad studie som jämför ifosfamidkombinationer med dagens standardbehandling.
 - Systematisk genomgång av tidigare fas 2-data, särskilt hos förbehandlade patienter och vid undertyper som metaplastisk bröstcancer.
 - Bedömning av nytta och risk, särskilt njurfunktion, benmärgsreserv och risken för sekundär malignitet.
+
+<!-- review:begin se-lic-20261106-ifosfamide-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Produktresumé med fullständiga varningar, kontraindikationer och dosering, samt klarhet i hur läkemedlet kan tillhandahållas i Sverige nu när godkännandena är indragna. / Bedömning av nytta och risk, särskilt njurfunktion, benmärgsreserv och risken för sekundär malignitet.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-ifosfamide-3 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga godkännanden innehas av Baxter Medical AB och är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, och l” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Produktresumé med fullständiga varningar, kontraindikationer och dosering, samt klarhet i hur läkemedlet kan tillhandahållas i Sverige nu nä” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

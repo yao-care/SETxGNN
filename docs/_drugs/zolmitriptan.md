@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 459
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "ZOLMITRIPTAN"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Zolmitriptan: predikterad ny indikation Atrophoderma vermiculata (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -97,6 +97,12 @@ Litteraturen består huvudsakligen av översikter och allmänna studier. Ingen r
 
 Godkänd indikationstext saknas i licensdata. Nedan visas fem av godkännandena.
 
+<!-- review:begin se-lic-20261106-zolmitriptan-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 20 godkännanden är indragna, och inget är för närvarande giltigt. Godkänd indikationstext saknas i licensdata.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-zolmitriptan-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 13413 | Zomig | Filmdragerad tablett | – |
@@ -138,6 +144,12 @@ Produktresumé med varningar och kontraindikationer ingick inte i den sammanstä
 **Motivering:**
 - Den höga modellpoängen speglar främst närheten till den befintliga migränindikationen, och det saknas både kliniska prövningar och studier av zolmitriptan specifikt vid hjärnstamsaura. Dessutom finns teoretiska säkerhetsfarhågor kring kärlsammandragning.
 
+<!-- review:begin se-lic-20261106-zolmitriptan-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom finns teoretiska säkerhetsfarhågor kring kärlsammandragning, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-zolmitriptan-2 -->
+
 **För att gå vidare krävs:**
 - Granskning av produktresumé med varningar och kontraindikationer (saknas i dagsläget)
 - Detaljerad data om verkningsmekanism
@@ -147,6 +159,20 @@ Produktresumé med varningar och kontraindikationer ingick inte i den sammanstä
 ---
 
 *Övriga förutsägelser (atrofoderma vermiculata och ulerythema ophryogenes) saknar både studier och rimlig mekanistisk koppling och bedöms inte vara aktuella att gå vidare med.*
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna, och inget är för närvarande giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

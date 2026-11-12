@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 332
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "oxybutynin"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
 description: "Oxybutynin: predikterad ny indikation Restless legs syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -84,6 +84,18 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Ingen indikationstext finns registrerad.
 
+<!-- review:begin se-lic-20261106-oxybutynin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla åtta godkännanden är indragna och inget läkemedel är för närvarande marknadsfört. Ingen indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-oxybutynin-1 -->
+
+<!-- review:begin se-lic-20261106-oxybutynin-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ytterligare tre indragna godkännanden finns (Ditropan, Vesoxx och Velarmediq).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-oxybutynin-2 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 59185 | Oxybutynin Ebb | Tablett | Ej angiven |
@@ -110,12 +122,33 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Motivering:**
 - Trots mycket hög modellpoäng finns inga kliniska prövningar eller publikationer, och den mekanistiska kopplingen till restless legs syndrome är spekulativ.
 
+<!-- review:begin se-lic-20261106-oxybutynin-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Trots mycket hög modellpoäng finns inga kliniska prövningar eller publikationer, och den mekanistiska kopplingen till restless legs syndrome är spekulativ. Dessutom är alla svenska godkännanden indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-oxybutynin-3 -->
+
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismen för oxybutynin och analysera en eventuell mekanistisk koppling till restless legs syndrome.
 - Hämta och granska varningar och kontraindikationer från produktresumén (saknas för närvarande och blockerar säkerhetsbedömningen).
 - Genomföra litteratursökning och prekliniska eller kliniska studier som stöder användning vid restless legs syndrome.
 - Bedöma antikolinerg belastning och sedering som möjliga störfaktorer samt säkerhet hos målpopulationen.
 - Utreda marknads- och regulatoriska förutsättningar, eftersom inga godkännanden är aktiva i Sverige.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla åtta godkännanden är indragna och inget läkemedel är för närvarande marknadsfört” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Ytterligare tre indragna godkännanden finns (Ditropan, Vesoxx och Velarmediq)” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

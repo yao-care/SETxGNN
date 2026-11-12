@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 313
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "niclosamide"
 predicted_indications: ["heart disease", "Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "orofacial clefting syndrome", "pulmonary valve disease", "interventricular septum aneurysm", "Jeune syndrome situs inversus", "disorder of fucoglycosan synthesis"]
 description: "Niclosamide: predikterad ny indikation Heart disease (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -41,6 +41,12 @@ Evidensnivå: **L4** | Förutsagda indikationer: **10** st
 ### Sammanfattning
 
 Den ursprungliga indikationen finns inte angiven i de data som sammanställts för rapporten. TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **hjärtsjukdom**, men det finns **inga kliniska prövningar** och evidensen består av prekliniska studier (djurmodeller och cellstudier) samt indirekt mekanistiskt arbete. Samtidigt finns en säkerhetssignal: niklosamid kan orsaka kärlsammandragning.
+
+<!-- review:begin se-lic-20261106-niclosamide-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Niklosamid är ett avmaskningsmedel (Yomesan, tuggtablett) vars svenska godkännande är återkallat. Den ursprungliga indikationen finns inte angiven i de data som sammanställts för rapporten.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-niclosamide-1 -->
 
 ---
 
@@ -118,6 +124,12 @@ Se produktresumén för varningar och kontraindikationer, eftersom dessa inte fi
 **Motivering:**
 - Evidensen för hjärtsjukdom är begränsad till prekliniska studier och indirekt mekanistiskt arbete, utan någon klinisk prövning. Den höga TxGNN-poängen är en datormodellprediktion, och det finns en kardiovaskulär säkerhetssignal (kärlsammandragning).
 
+<!-- review:begin se-lic-20261106-niclosamide-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den höga TxGNN-poängen är en datormodellprediktion, och det finns en kardiovaskulär säkerhetssignal (kärlsammandragning). Dessutom är det enda svenska godkännandet återkallat.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-niclosamide-2 -->
+
 **För att gå vidare krävs:**
 - Hämta produktresumén från Läkemedelsverket för att komplettera varningar och kontraindikationer (blockerande dataluckor för säkerhetsgranskning).
 - Komplettera uppgifter om verkningsmekanism från DrugBank.
@@ -125,6 +137,20 @@ Se produktresumén för varningar och kontraindikationer, eftersom dessa inte fi
 - Tydligare definition av vilken typ av hjärtsjukdom som avses (t.ex. hjärtsvikt eller klaffförkalkning), eftersom "hjärtsjukdom" är en bred kategori.
 - Bedömning av biotillgänglighet och beredningsform, eftersom niklosamid absorberas dåligt från mag-tarmkanalen.
 - Vid fortsatt intresse: planera en tidig klinisk studie först efter att prekliniska säkerhets- och effektdata stärkts.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Niklosamid är ett avmaskningsmedel (Yomesan, tuggtablett) vars svenska godkännande är återkallat” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är det enda svenska godkännandet återkallat” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

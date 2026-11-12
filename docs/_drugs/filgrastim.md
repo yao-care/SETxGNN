@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 196
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "FILGRASTIM"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
 description: "Filgrastim: predikterad ny indikation Primary release disorder of platelets (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -107,6 +107,25 @@ Se produktresumén för säkerhetsinformation i övrigt, inklusive varningar och
 - Hämta varningar och kontraindikationer från produktresumén i det svenska godkännandet, vilket krävs för säkerhetsgranskning.
 - Göra en systematisk litteratursökning efter filgrastim vid trombocytfunktionsstörningar.
 - Ta fram prekliniska data som visar en biologisk koppling, innan kliniska studier övervägs.
+
+<!-- review:begin se-lic-20261106-filgrastim-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ta fram prekliniska data som visar en biologisk koppling, innan kliniska studier övervägs. / Notera att det enda svenska godkännandet är indraget, vilket påverkar tillgängligheten.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-filgrastim-1 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Notera att det enda svenska godkännandet är indraget, vilket påverkar tillgängligheten” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

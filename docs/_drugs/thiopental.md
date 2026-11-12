@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 423
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "thiopental"
 predicted_indications: ["trichotillomania", "Prinzmetal angina", "migraine disorder", "Tourette syndrome", "migraine with brainstem aura", "obsolete bundle branch block", "substance abuse/dependence", "nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Thiopental: predikterad ny indikation Trichotillomania (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -84,6 +84,12 @@ Ingen relaterad litteratur tillgänglig för närvarande för trikotillomani.
 
 Ingen indikationstext finns registrerad.
 
+<!-- review:begin se-lic-20261106-thiopental-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 8 godkännanden är indragna. Ingen indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-thiopental-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 65868 | Tiopental Ebb | Pulver till injektionsvätska, lösning | Indragen |
@@ -122,11 +128,31 @@ Uppgifter från produktresumén saknas. Se produktresumén för varningar och ko
 **Motivering:**
 - Förutsägelsen för trikotillomani saknar både kliniskt och litterärt stöd (evidensnivå L5), och ingen plausibel mekanism kan påvisas.
 
+<!-- review:begin se-lic-20261106-thiopental-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen för trikotillomani saknar både kliniskt och litterärt stöd (evidensnivå L5), och ingen plausibel mekanism kan påvisas. Dessutom är samtliga svenska godkännanden indragna och säkerhetsunderlaget är ofullständigt.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-thiopental-2 -->
+
 **För att gå vidare krävs:**
 - Ladda ned och analysera produktresumén från Läkemedelsverket (varningar och kontraindikationer), vilket är ett blockerande dataglapp inför säkerhetsgranskning.
 - Komplettera verkningsmekanismen från DrugBank och analysera om det finns något samband med trikotillomani.
 - Prekliniska studier eller mekanistiska studier som stöder en roll vid trikotillomani.
 - Bedöma om en annan förutsägelse är mer lovande, med beaktande av att frontallobsepilepsi överlappar med den ursprungliga indikationen.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 8 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna och säkerhetsunderlaget är ofullständigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 349
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "phenytoin"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 description: "Phenytoin: predikterad ny indikation Trigeminal nerve neoplasm (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -125,12 +125,31 @@ Ingen varnings- eller kontraindikationstext från produktresumén ingår i under
 - Förutsägelsen om trigeminusnervtumör saknar stöd. Det finns inga kliniska prövningar, inga relevanta publikationer och ingen känd mekanism för effekt mot tumörväxt, så evidensnivån är L5.
 - Säkerhetsinformationen från produktresumén saknas.
 
+<!-- review:begin se-lic-20261106-phenytoin-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Fenytoins svenska godkännande är dessutom avregistrerat, och säkerhetsinformationen från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-phenytoin-1 -->
+
 **För att gå vidare krävs:**
 - Prekliniska data som visar en effekt av fenytoin på tumörceller eller tumörmodeller i nervvävnad.
 - Fullständig säkerhetsinformation från produktresumén och en uppdaterad beskrivning av verkningsmekanismen.
 - Ett tydligt skäl att tro att fenytoin har någon fördel jämfört med nuvarande behandlingar av tumörer i trigeminusnerven.
 
 **Alternativ riktning:** Av de tio förutsagda indikationerna är **trigeminusneuralgi** (nervsmärta, inte tumör) den med starkast stöd (evidensnivå L3). Där finns riktlinjer, översikter och retrospektiva studier av intravenöst fenytoin vid akuta försämringar (till exempel PMID 35469475 och 32981076). Fenytoin ses dock som andrahandsval efter karbamazepin och oxkarbazepin. Fenytoin har varit känt för denna användning sedan tidigare, så den bör utredas separat som en egen frågeställning.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Fenytoins svenska godkännande är dessutom avregistrerat, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

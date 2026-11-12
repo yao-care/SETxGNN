@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 170
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "eplerenone"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome"]
 description: "Eplerenone: predikterad ny indikation Pulmonary hypertension owing to lung disease and/or hypoxia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -95,6 +95,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Indikationstext saknas i data. De fem första godkännandena:
 
+<!-- review:begin se-lic-20261106-eplerenone-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 18 godkännanden är indragna, och inget giltigt godkännande finns för närvarande. Indikationstext saknas i data.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 18, varav giltiga: 18; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-eplerenone-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 50995 | Eplerenon STADA | Filmdragerad tablett | Indragen |
@@ -134,9 +140,29 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom uppgifter o
 - Förklinisk eller tidig klinisk studie med lungartärtryck och lungkärlsombyggnad som mått.
 - Bedömning av hyperkalemi- och njurrisk i målpopulationen.
 
+<!-- review:begin se-lic-20261106-eplerenone-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedömning av hyperkalemi- och njurrisk i målpopulationen. / Klargöra marknadsstatus, eftersom alla godkännanden i Sverige är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 18, varav giltiga: 18; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-eplerenone-2 -->
+
 ---
 
 *Övriga förutsägelser (rang 2–5: pulmonell hypertoni med oklar multifaktoriell mekanism, malign renovaskulär hypertoni, malign hypertensiv njursjukdom och Braddocks syndrom) saknar kliniska prövningar och litteratur (evidensnivå L5) och rekommenderas att avvakta.*
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga 18 godkännanden är indragna, och inget giltigt godkännande finns för närvarande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Klargöra marknadsstatus, eftersom alla godkännanden i Sverige är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

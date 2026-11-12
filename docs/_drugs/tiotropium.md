@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 427
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "tiotropium"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
 description: "Tiotropium: predikterad ny indikation Respiratory malformation (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -109,6 +109,12 @@ De mest relevanta prövningarna för obstruktiv lungsjukdom (främst KOL) visas 
 
 Ingen indikationstext finns registrerad.
 
+<!-- review:begin se-lic-20261106-tiotropium-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla tre godkännanden är indragna. Ingen indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-tiotropium-1 -->
+
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
 | 59786 | Tiogiva (Glenmark Pharmaceuticals Nordic AB) | Inhalationspulver, hård kapsel | Ej angiven |
@@ -134,13 +140,40 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 **Motivering:**
 - Evidensen för obstruktiv lungsjukdom och KOL är stark (L1, flera stora avslutade fas 3-prövningar), men den motsvarar i huvudsak en befintlig, väletablerad användning och inte en ny indikation.
 
+<!-- review:begin se-lic-20261106-tiotropium-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Evidensen för obstruktiv lungsjukdom och KOL är stark (L1, flera stora avslutade fas 3-prövningar), men den motsvarar i huvudsak en befintlig, väletablerad användning och inte en ny indikation. Alla tre svenska godkännanden är dessutom indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-tiotropium-2 -->
+
 **För att gå vidare krävs:**
 - Verifiera aktuell indikationstext och marknadstillgänglighet för tiotropium i Sverige.
 - Hämta produktresumé för varningar, kontraindikationer och dosering.
 - Komplettera med data om verkningsmekanism från DrugBank.
 - Bedöm om förutsägelsen tillför något utöver KOL-indikationen, till exempel för subtyper som svår tidigt debuterande KOL (där endast indirekt evidens finns).
 
+<!-- review:begin se-lic-20261106-tiotropium-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Verifiera aktuell indikationstext och marknadstillgänglighet för tiotropium i Sverige, eftersom alla godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-tiotropium-3 -->
+
 **Övriga förutsägelser (kort):** Förutsägelserna för andningsorganens missbildning, Rienhoff syndrom, hyperlucent lunga, interstitiellt och kompensatoriskt emfysem, trakeal stenos och CD8alfa-relaterad infektionskänslighet saknar direkt klinisk evidens eller en tydlig mekanistisk koppling (evidensnivå L4–L5). De rekommenderas inte för vidare utvärdering i nuläget.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla tre godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla tre svenska godkännanden är dessutom indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

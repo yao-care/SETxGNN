@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 132
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "DESOGESTREL"
 predicted_indications: ["amenorrhea (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast", "acne (disease)", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "primary ovarian failure", "symptomatic form of fragile X syndrome in female carrier"]
 description: "Desogestrel: predikterad ny indikation Amenorré (amenorrhea (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -128,11 +128,37 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Motivering:**
 - Den enda kliniska prövningen har inte bekräftats använda desogestrel, och litteraturen består mest av allmänna översikter om p-piller. Amenorré är dessutom oftare en effekt av gestagenbehandling än ett tillstånd som desogestrel specifikt behandlar.
 
+<!-- review:begin se-lic-20261106-desogestrel-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Amenorré är dessutom oftare en effekt av gestagenbehandling än ett tillstånd som desogestrel specifikt behandlar. Samtliga svenska godkännanden är avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 12, varav giltiga: 12; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-desogestrel-1 -->
+
 **För att gå vidare krävs:**
 - Kontrollera interventionsarmarna i NCT00946192 för att se om desogestrel ingår.
 - Hämta verkningsmekanismen från DrugBank och produktresumé med varningar och kontraindikationer från Läkemedelsverket.
 - Genomföra kontrollerade studier som isolerar desogestrels effekt vid amenorré, separat från östrogenets.
 - Utreda vilken status och vilka beredningsformer som skulle vara aktuella.
+
+<!-- review:begin se-lic-20261106-desogestrel-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Utreda vilken status och vilka beredningsformer som skulle vara aktuella, eftersom inget godkännande är giltigt i dag.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 12, varav giltiga: 12; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-desogestrel-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom inget godkännande är giltigt i dag” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

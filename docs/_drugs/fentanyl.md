@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 194
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-12
 monitor_inn: "FENTANYL"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
 description: "Fentanyl: predikterad ny indikation Nephrogenic syndrome of inappropriate antidiuresis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -106,12 +106,31 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 **Motivering:**
 - Förutsägelsen bygger enbart på en modellberäkning (evidensnivå L5) utan kliniska prövningar eller litteratur, och det finns inget plausibelt mekanistiskt samband. Dessutom innebär fentanyls missbruks-, beroende- och andningsdepressionsrisker samt möjlig förvärring av vätskeretention en ogynnsam nytta–riskbalans.
 
+<!-- review:begin se-lic-20261106-fentanyl-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom innebär fentanyls missbruks-, beroende- och andningsdepressionsrisker samt möjlig förvärring av vätskeretention en ogynnsam nytta–riskbalans. Alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-fentanyl-1 -->
+
 **För att gå vidare krävs:**
 - Produktresumé från Läkemedelsverket med varningar, kontraindikationer och godkänd indikation
 - Verkningsmekanismdata från DrugBank
 - Prekliniska data som visar en trovärdig effekt på AVPR2-medierad antidures
 - Sökning efter kliniska prövningar och publikationer för den förutsagda indikationen
 - Bedömning av alternativa läkemedel med bättre mekanistisk och säkerhetsmässig profil
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 201
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "fluorescein"
 predicted_indications: ["Prinzmetal angina", "antithrombin deficiency type 2", "rheumatoid arthritis", "factor 5 excess with spontaneous thrombosis", "hemoglobinopathy", "heparin cofactor 2 deficiency", "thrombophilia", "hyperthyroidism", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations"]
 description: "Fluorescein: predikterad ny indikation Prinzmetal angina (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -66,6 +66,12 @@ Något mekanistiskt samband mellan fluorescein och Prinzmetals angina har inte k
 
 Samma bild gäller för de övriga nio förutsagda indikationerna i den data som sammanställts (bland annat antitrombinbrist typ 2, reumatoid artrit, hemoglobinopati, trombofili och hypertyreos). I litteraturen förekommer fluorescein i dessa sammanhang främst som diagnostiskt verktyg, till exempel vid fluoresceinangiografi av ögonbotten, och inte som behandling.
 
+<!-- review:begin se-lic-20261106-fluorescein-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga fyra godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-fluorescein-1 -->
+
 ---
 
 ### Marknadsinformation Sverige
@@ -99,6 +105,26 @@ Se produktresumén för säkerhetsinformation.
 - Produktresumé från MPA med varningar och kontraindikationer, så att säkerhetsgranskning kan genomföras.
 - Prekliniska data eller kliniska studier som visar en terapeutisk effekt vid Prinzmetals angina. Utan sådan evidens bör ingen vidare satsning göras.
 - Klargörande av läkemedlets ursprungliga godkända indikation, eftersom indikationstexterna saknas.
+
+<!-- review:begin se-lic-20261106-fluorescein-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargörande av läkemedlets ursprungliga godkända indikation, eftersom indikationstexterna saknas och samtliga godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-fluorescein-2 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga fyra godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och samtliga godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

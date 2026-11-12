@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 265
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "liothyronine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Carney complex", "peripheral dysostosis", "Potter sequence", "acrodysostosis with or without hormone resistance", "angiomyxoma", "myxoma", "hypotrichosis simplex of the scalp"]
 description: "Liothyronine: predikterad ny indikation Renal hypodysplasia/aplasia (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -108,6 +108,12 @@ Varningar och kontraindikationer från produktresumén saknas. Se produktresumé
 **Motivering:**
 - Förutsägelsen avser i praktiken en redan känd indikation, och det finns varken kliniska prövningar eller relevant human litteratur som stöder den.
 
+<!-- review:begin se-lic-20261106-liothyronine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen avser i praktiken en redan känd indikation, och det finns varken kliniska prövningar eller relevant human litteratur som stöder den. Det enda godkännandet i Sverige är indraget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-liothyronine-1 -->
+
 **För att gå vidare krävs:**
 - Produktresumé från Läkemedelsverket med varningar och kontraindikationer, eftersom säkerhetsgranskningen annars inte kan genomföras.
 - Uppgifter om verkningsmekanism (t.ex. från DrugBank).
@@ -115,6 +121,19 @@ Varningar och kontraindikationer från produktresumén saknas. Se produktresumé
 - Bedömning av om indikationen redan täcks av befintlig användning, så att utvärderingen inte dubbelräknar en känd indikation som återanvändning.
 
 **Övriga förutsägelser:** De nio övriga högst rankade förutsägelserna (bland annat renal hypodysplasi, bilateral njuragenesi, Carneys komplex, Potters sekvens och akrodysostos) saknar helt eller i princip kliniskt stöd och har bedömts som L5 med rekommendationen Avvakta. För akrodysostos stöder de bifogade publikationerna inte sjukdomen utan gäller liotyronin generellt, till exempel vid hypotyreos, depression och bipolär sjukdom.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Det enda godkännandet i Sverige är indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

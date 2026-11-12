@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 306
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "moxonidine"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "primary hereditary glaucoma"]
 description: "Moxonidine: predikterad ny indikation Hypotrichosis simplex of the scalp (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -82,6 +82,12 @@ Något etablerat samband mellan denna mekanism och hårfollikelns biologi har in
 
 Publikationen hör till den förutsagda indikationen "alopecia" (rank 4), inte till hypotrichosis simplex i hårbotten. Innehållet är inte närmare verifierat.
 
+<!-- review:begin se-lic-20261106-moxonidine-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ytterligare tre indragna godkännanden finns (totalt 8): 19532 (Moxonidin STADA) samt 24089 och 24087 (Moxonidin Actavis).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-moxonidine-1 -->
+
 ---
 
 ### Marknadsinformation Sverige
@@ -111,12 +117,32 @@ Se produktresumén för information om varningar och kontraindikationer, efterso
 **Motivering:**
 - Förutsägelsen stöds enbart av en modellpoäng (evidensnivå L5). Det finns inga kliniska prövningar, ingen relevant litteratur och ingen plausibel mekanism kopplad till hårfollikelbiologi.
 
+<!-- review:begin se-lic-20261106-moxonidine-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det finns inga kliniska prövningar, ingen relevant litteratur och ingen plausibel mekanism kopplad till hårfollikelbiologi. Dessutom är alla svenska godkännanden indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-moxonidine-2 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé (varningar och kontraindikationer) från Läkemedelsverket, eftersom säkerhetsscreening inte kan genomföras utan dessa uppgifter.
 - Komplettera verkningsmekanismen från DrugBank för att kunna analysera mekanistiska samband.
 - Identifiera prekliniska eller mekanistiska data som kopplar alfa-2-/imidazolinreceptoraktivitet till hårfollikelns biologi.
 - Överväga de hypertonirelaterade förutsägelserna (L4) separat, men de är i praktiken en förlängning av den redan kända indikationen och olämpliga för akuta maligna tillstånd.
 - Bedöma administreringsväg och beredningsform (för närvarande endast oral tablett) mot vad den nya indikationen kräver.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Ytterligare tre indragna godkännanden finns (totalt 8): 19532 (Moxonidin STADA) samt 24089 och 24087 (Moxonidin Actavis)” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

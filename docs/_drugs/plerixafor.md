@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 355
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "PLERIXAFOR"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
 description: "Plerixafor: predikterad ny indikation CMM7 (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -78,6 +78,12 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Ingen relaterad litteratur tillgänglig för närvarande.
 
+<!-- review:begin se-lic-20261106-plerixafor-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga fyra godkännanden är indragna, och ingen av dem har någon registrerad indikationstext.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-plerixafor-1 -->
+
 ---
 
 ## Marknadsinformation Sverige
@@ -107,11 +113,38 @@ Produktresumén med fullständiga varningar och kontraindikationer ingår inte i
 **Motivering:**
 - Förutsägelsen för indolent plasmacellsmyelom har hög modellpoäng men saknar helt stöd i kliniska prövningar och litteratur (L5).
 
+<!-- review:begin se-lic-20261106-plerixafor-2 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen för indolent plasmacellsmyelom har hög modellpoäng men saknar helt stöd i kliniska prövningar och litteratur (L5). Dessutom är alla svenska godkännanden indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-plerixafor-2 -->
+
 **För att gå vidare krävs:**
 - Prekliniska data och sedan kliniska studier som visar att plerixafor påverkar sjukdomsförloppet vid indolent myelom, och inte bara stamcellsmobilisering.
 - Produktresumé med varningar och kontraindikationer samt uppgifter om verkningsmekanismen, för en fullständig säkerhetsbedömning.
 - Klarhet om läkemedlets tillgänglighet i Sverige.
 - Överväg att i första hand utvärdera den lägre rankade förutsägelsen **myeloisk leukemi**. Där finns i den sammanställda datan 27 kliniska prövningar (främst fas 1–2) och 20 publikationer som testar plerixafor som kemosensibiliserande behandling. Evidensen graderas där som L2, men inga fas 3-studier finns och flera prövningar avslutades i förtid.
+
+<!-- review:begin se-lic-20261106-plerixafor-3 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klarhet om läkemedlets tillgänglighet i Sverige, eftersom alla godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-plerixafor-3 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”Samtliga fyra godkännanden är indragna, och ingen av dem har någon registrerad indikationstext” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

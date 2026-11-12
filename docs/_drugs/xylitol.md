@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 454
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "XYLITOL"
 predicted_indications: ["meningococcal infection"]
 description: "Xylitol: predikterad ny indikation Meningococcal infection (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
@@ -105,12 +105,31 @@ Läkemedelsinteraktioner kunde inte hittas i den data som sammanställts. Se pro
 **Motivering:**
 - Förutsägelsen stöds enbart av ett högt modellpoäng (evidensnivå L5), utan prövningar, litteratur eller verifierad mekanism. Dessutom är meningokockinfektion en akut, livshotande sjukdom där xylitol inte är ett plausibelt behandlingsalternativ.
 
+<!-- review:begin se-lic-20261106-xylitol-1 -->
+
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är meningokockinfektion en akut, livshotande sjukdom där xylitol inte är ett plausibelt behandlingsalternativ, och det enda svenska godkännandet är indraget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+
+<!-- review:end se-lic-20261106-xylitol-1 -->
+
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén från Läkemedelsverket (varningar och kontraindikationer saknas).
 - Komplettera verkningsmekanismen från DrugBank.
 - Genomföra en litteratur- och prövningssökning på xylitol och *Neisseria meningitidis*, särskilt vad gäller bärarskap i näsa och svalg.
 - Prekliniska studier av xylitols effekt på meningokockers adhesion innan kliniska studier övervägs.
 - Utreda om någon administreringsväg är kompatibel med den föreslagna användningen.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-06 | Borttaget: ”och det enda svenska godkännandet är indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.
