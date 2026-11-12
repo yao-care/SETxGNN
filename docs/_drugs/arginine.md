@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "arginine"
 predicted_indications: ["gastroparesis (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-13
 description: "Arginine: predikterad ny indikation Gastropares (gastroparesis (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
@@ -50,7 +50,7 @@ Arginin är en aminosyra som ingår i flera infusionslösningar för parenteral 
 | Förutsagd ny indikation | Gastropares (gastroparesis (disease)) |
 | TxGNN-förutsägelsepoäng | 0,9942 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 17) |
 | Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
