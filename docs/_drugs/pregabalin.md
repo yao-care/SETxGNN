@@ -100,11 +100,17 @@ De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 51464 | Pregabalin Krka | Kapsel, hård | Ej angiven (indragen) |
-| 57195 | Pregabalin EQL Pharma | Kapsel, hård | Ej angiven (indragen) |
-| 63937 | Pregabalin Teva | Kapsel, hård | Ej angiven (indragen) |
-| 51454 | Pregabalin Teva | Kapsel, hård | Ej angiven (indragen) |
-| 68305 | Pregabalin CNX Therapeutics | Depottablett | Ej angiven (indragen) |
+| 51464 | Pregabalin Krka | Kapsel, hård | Ej angiven |
+| 57195 | Pregabalin EQL Pharma | Kapsel, hård | Ej angiven |
+| 63937 | Pregabalin Teva | Kapsel, hård | Ej angiven |
+| 51454 | Pregabalin Teva | Kapsel, hård | Ej angiven |
+| 68305 | Pregabalin CNX Therapeutics | Depottablett | Ej angiven |
+
+<!-- review:begin se-row-20261112-pregabalin-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”51464 / Pregabalin Krka / Kapsel, hård / Ej angiven (indragen); 57195 / Pregabalin EQL Pharma / Kapsel, hård / Ej angiven (indragen); 63937 / Pregabalin Teva / Kapsel, hård / Ej angiven (indragen); 51454 / Pregabalin Teva / Kapsel, hård / Ej angiven (indragen); 68305 / Pregabalin CNX Therapeutics / Depottablett / Ej angiven (indragen)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 51464, 57195, 63937, 51454, 68305 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-pregabalin-1 -->
 
 ---
 
@@ -159,6 +165,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är indragna och inga har en registrerad indikationstext” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Klargörande av varför alla svenska godkännanden är indragna, och om en ny godkännandeprocess skulle krävas” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (51464, 57195, 63937, 51454, 68305) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

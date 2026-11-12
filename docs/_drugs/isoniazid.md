@@ -89,10 +89,16 @@ Flera av de hittade artiklarna gäller biverkningar eller BCG-relaterad artrit o
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 7564 | Tibinide (Viatris AB) | Tablett | Indikationstext saknas (indraget) |
-| 16688 | Rimactazid (Sandoz A/S) | Filmdragerad tablett | Indikationstext saknas (indraget) |
-| 16663 | Rimcure (Sandoz A/S) | Filmdragerad tablett | Indikationstext saknas (indraget) |
-| 16899 | Rimstar (Sandoz A/S) | Filmdragerad tablett | Indikationstext saknas (indraget) |
+| 7564 | Tibinide (Viatris AB) | Tablett | Indikationstext saknas |
+| 16688 | Rimactazid (Sandoz A/S) | Filmdragerad tablett | Indikationstext saknas |
+| 16663 | Rimcure (Sandoz A/S) | Filmdragerad tablett | Indikationstext saknas |
+| 16899 | Rimstar (Sandoz A/S) | Filmdragerad tablett | Indikationstext saknas |
+
+<!-- review:begin se-row-20261112-isoniazid-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”7564 / Tibinide (Viatris AB) / Tablett / Indikationstext saknas (indraget); 16688 / Rimactazid (Sandoz A/S) / Filmdragerad tablett / Indikationstext saknas (indraget); 16663 / Rimcure (Sandoz A/S) / Filmdragerad tablett / Indikationstext saknas (indraget); 16899 / Rimstar (Sandoz A/S) / Filmdragerad tablett / Indikationstext saknas (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 7564, 16688, 16663, 16899 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-isoniazid-1 -->
 
 ---
 
@@ -141,6 +147,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 4 godkännanden (7564, 16688, 16663, 16899) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

@@ -76,11 +76,17 @@ Samtliga är depotplåster. Indikationstexter saknas i underlaget.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|------|------|
-| 25590 | Fentanyl Sandoz | Depotplåster | Sandoz A/S | Indraget |
-| 23434 | Fentanyl Actavis | Depotplåster | Actavis Group PTC ehf. | Indraget |
-| 23382 | Quatrofen | Depotplåster | Istituto Gentili S.r.l. | Indraget |
-| 21289 | Matrifen | Depotplåster | Istituto Gentili S.r.l. | Indraget |
+| 25590 | Fentanyl Sandoz | Depotplåster | Sandoz A/S | Godkänd |
+| 23434 | Fentanyl Actavis | Depotplåster | Actavis Group PTC ehf. | Godkänd |
+| 23382 | Quatrofen | Depotplåster | Istituto Gentili S.r.l. | Godkänd |
+| 21289 | Matrifen | Depotplåster | Istituto Gentili S.r.l. | Godkänd |
 | 12484 | Durogesic | Depotplåster | Janssen-Cilag AB | Avregistrerad |
+
+<!-- review:begin se-row-20261112-fentanyl-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”25590 / Fentanyl Sandoz / Depotplåster / Sandoz A/S / Indraget; 23434 / Fentanyl Actavis / Depotplåster / Actavis Group PTC ehf. / Indraget; 23382 / Quatrofen / Depotplåster / Istituto Gentili S.r.l. / Indraget; 21289 / Matrifen / Depotplåster / Istituto Gentili S.r.l. / Indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 25590, 23434, 23382, 21289 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-fentanyl-1 -->
 
 ---
 
@@ -128,6 +134,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 4 godkännanden (25590, 23434, 23382, 21289) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

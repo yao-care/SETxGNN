@@ -84,9 +84,15 @@ Marknadsstatus: marknadsförd. Alla tre godkännanden i underlaget är giltiga.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 45894 | Mitomycin Substipharm | Pulver till injektions-/infusionsvätska, lösning | Indragen |
-| 45895 | Mitomycin Substipharm | Pulver och vätska till intravesikal lösning | Indragen |
-| 50421 | Mitomycin medac | Pulver och vätska till intravesikal lösning | Indragen |
+| 45894 | Mitomycin Substipharm | Pulver till injektions-/infusionsvätska, lösning | Godkänd |
+| 45895 | Mitomycin Substipharm | Pulver och vätska till intravesikal lösning | Godkänd |
+| 50421 | Mitomycin medac | Pulver och vätska till intravesikal lösning | Godkänd |
+
+<!-- review:begin se-row-20261112-mitomycin-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”45894 / Mitomycin Substipharm / Pulver till injektions-/infusionsvätska, lösning / Indragen; 45895 / Mitomycin Substipharm / Pulver och vätska till intravesikal lösning / Indragen; 50421 / Mitomycin medac / Pulver och vätska till intravesikal lösning / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 45894, 45895, 50421 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-mitomycin-1 -->
 
 ---
 
@@ -130,6 +136,18 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Söka efter fallrapporter, fallserier och prekliniska data om mitomycin vid denna tumörtyp.
 - Bedöma administreringsväg och beredningsform, eftersom de svenska produkterna är injektions-/infusionsberedning och lösning för instillation i urinblåsan.
 - Göra en klinisk expertbedömning av nytta och risk före eventuella studier.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-12 | Tabell: 3 godkännanden (45894, 45895, 50421) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

@@ -108,9 +108,15 @@ Av de 28 registrerade prövningarna visas här de mest relevanta (fas 3 och rand
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 28126 | Doxorubicin Accord (indraget) | Koncentrat till infusionsvätska, lösning | Ingen indikationstext tillgänglig |
-| 14321 | Doxorubicin Ebewe (indraget) | Injektionsvätska, lösning | Ingen indikationstext tillgänglig |
-| 11312 | Doxorubicin Teva (indraget) | Injektionsvätska, lösning | Ingen indikationstext tillgänglig |
+| 28126 | Doxorubicin Accord | Koncentrat till infusionsvätska, lösning | Ingen indikationstext tillgänglig |
+| 14321 | Doxorubicin Ebewe | Injektionsvätska, lösning | Ingen indikationstext tillgänglig |
+| 11312 | Doxorubicin Teva | Injektionsvätska, lösning | Ingen indikationstext tillgänglig |
+
+<!-- review:begin se-row-20261112-doxorubicin-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”28126 / Doxorubicin Accord (indraget) / Koncentrat till infusionsvätska, lösning / Ingen indikationstext tillgänglig; 14321 / Doxorubicin Ebewe (indraget) / Injektionsvätska, lösning / Ingen indikationstext tillgänglig; 11312 / Doxorubicin Teva (indraget) / Injektionsvätska, lösning / Ingen indikationstext tillgänglig” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 28126, 14321, 11312 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-doxorubicin-1 -->
 
 ---
 
@@ -190,6 +196,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla tre svenska godkännanden är indragna och p” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna (ny ansökan eller licensförskrivning)” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 3 godkännanden (28126, 14321, 11312) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

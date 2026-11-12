@@ -114,8 +114,14 @@ Det viktigaste förbehållet är att protonpumpshämmare (PPI) i flera direkta j
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 12017 | Pepcid | Tablett | Indikationstext saknas (indragen) |
-| 16331 | Pepcid Duo | Tuggtablett | Indikationstext saknas (indragen) |
+| 12017 | Pepcid | Tablett | Indikationstext saknas |
+| 16331 | Pepcid Duo | Tuggtablett | Indikationstext saknas |
+
+<!-- review:begin se-row-20261112-famotidine-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”12017 / Pepcid / Tablett / Indikationstext saknas (indragen); 16331 / Pepcid Duo / Tuggtablett / Indikationstext saknas (indragen)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 12017, 16331 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-famotidine-1 -->
 
 ---
 
@@ -178,6 +184,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Båda godkännandena är indragna och inget giltigt godkännande finns för närvarande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Båda svenska godkännandena är indragna, och v” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom endast indragna godkännanden finns registrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 2 godkännanden (12017, 16331) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

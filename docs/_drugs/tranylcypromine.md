@@ -103,11 +103,17 @@ För de närliggande förutsägelserna finns följande urval av relevant littera
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 66342 | Tranylcypromine Glenmark (Orifarm AB) | Filmdragerad tablett | Ingen indikationstext registrerad (indraget) |
-| 65529 | Tranylcypromine Glenmark (Medartuum AB) | Filmdragerad tablett | Ingen indikationstext registrerad (indraget) |
-| 59077 | Tranylcypromine Glenmark (Glenmark Arzneimittel GmbH) | Filmdragerad tablett | Ingen indikationstext registrerad (indraget) |
-| 64732 | Tranylcypromine Glenmark (Ebb Medical AB) | Filmdragerad tablett | Ingen indikationstext registrerad (indraget) |
-| 61456 | Abbonate (Abboxia AB) | Filmdragerad tablett | Ingen indikationstext registrerad (indraget) |
+| 66342 | Tranylcypromine Glenmark (Orifarm AB) | Filmdragerad tablett | Ingen indikationstext registrerad |
+| 65529 | Tranylcypromine Glenmark (Medartuum AB) | Filmdragerad tablett | Ingen indikationstext registrerad |
+| 59077 | Tranylcypromine Glenmark (Glenmark Arzneimittel GmbH) | Filmdragerad tablett | Ingen indikationstext registrerad |
+| 64732 | Tranylcypromine Glenmark (Ebb Medical AB) | Filmdragerad tablett | Ingen indikationstext registrerad |
+| 61456 | Abbonate (Abboxia AB) | Filmdragerad tablett | Ingen indikationstext registrerad |
+
+<!-- review:begin se-row-20261112-tranylcypromine-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”66342 / Tranylcypromine Glenmark (Orifarm AB) / Filmdragerad tablett / Ingen indikationstext registrerad (indraget); 65529 / Tranylcypromine Glenmark (Medartuum AB) / Filmdragerad tablett / Ingen indikationstext registrerad (indraget); 59077 / Tranylcypromine Glenmark (Glenmark Arzneimittel GmbH) / Filmdragerad tablett / Ingen indikationstext registrerad (indraget); 64732 / Tranylcypromine Glenmark (Ebb Medical AB) / Filmdragerad tablett / Ingen indikationstext registrerad (indraget); 61456 / Abbonate (Abboxia AB) / Filmdragerad tablett / Ingen indikationstext registrerad (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 66342, 65529, 59077, 64732, 61456 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-tranylcypromine-1 -->
 
 Det sjätte (nr 59076, Tranylcypromine Glenmark, Glenmark Arzneimittel GmbH) visas inte ovan.
 
@@ -158,6 +164,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Totalt finns 6 godkännanden, samtliga indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är dessutom indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (66342, 65529, 59077, 64732, 61456) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

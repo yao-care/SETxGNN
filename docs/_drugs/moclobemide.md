@@ -95,9 +95,15 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 59621 | Aurorix (Ebb Medical AB) | Filmdragerad tablett | Indikationstext saknas (indraget) |
-| 59620 | Aurorix (Ebb Medical AB) | Filmdragerad tablett | Indikationstext saknas (indraget) |
-| 11031 | Aurorix (Viatris AB) | Filmdragerad tablett | Indikationstext saknas (indraget) |
+| 59621 | Aurorix (Ebb Medical AB) | Filmdragerad tablett | Indikationstext saknas |
+| 59620 | Aurorix (Ebb Medical AB) | Filmdragerad tablett | Indikationstext saknas |
+| 11031 | Aurorix (Viatris AB) | Filmdragerad tablett | Indikationstext saknas |
+
+<!-- review:begin se-row-20261112-moclobemide-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”59621 / Aurorix (Ebb Medical AB) / Filmdragerad tablett / Indikationstext saknas (indraget); 59620 / Aurorix (Ebb Medical AB) / Filmdragerad tablett / Indikationstext saknas (indraget); 11031 / Aurorix (Viatris AB) / Filmdragerad tablett / Indikationstext saknas (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 59621, 59620, 11031 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-moclobemide-1 -->
 
 ---
 
@@ -144,6 +150,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla svenska godkännanden är dessutom indragna och säkerhetsdata saknas” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom produkten inte längre marknadsförs” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 3 godkännanden (59621, 59620, 11031) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

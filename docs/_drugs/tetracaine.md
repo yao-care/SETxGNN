@@ -80,9 +80,15 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 10080 | Tetrakain Bausch & Lomb | Ögondroppar, lösning i endosbehållare | Ingen indikationstext tillgänglig (indraget) |
-| 22468 | Rapydan | Medicinskt plåster | Ingen indikationstext tillgänglig (indraget) |
-| 57835 | Mekostest 36 | Plåster för provokationstest | Ingen indikationstext tillgänglig (indraget) |
+| 10080 | Tetrakain Bausch & Lomb | Ögondroppar, lösning i endosbehållare | Ingen indikationstext tillgänglig |
+| 22468 | Rapydan | Medicinskt plåster | Ingen indikationstext tillgänglig |
+| 57835 | Mekostest 36 | Plåster för provokationstest | Ingen indikationstext tillgänglig |
+
+<!-- review:begin se-row-20261112-tetracaine-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”10080 / Tetrakain Bausch & Lomb / Ögondroppar, lösning i endosbehållare / Ingen indikationstext tillgänglig (indraget); 22468 / Rapydan / Medicinskt plåster / Ingen indikationstext tillgänglig (indraget); 57835 / Mekostest 36 / Plåster för provokationstest / Ingen indikationstext tillgänglig (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 10080, 22468, 57835 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-tetracaine-1 -->
 
 ---
 
@@ -128,6 +134,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”då nuvarande godkännanden (ögondroppar, plåster) är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 3 godkännanden (10080, 22468, 57835) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

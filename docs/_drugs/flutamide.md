@@ -112,7 +112,13 @@ För den högst rankade förutsägelsen finns ingen relaterad litteratur tillgä
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 13685 (indraget) | Flutamid STADA | Tablett | Ingen indikationstext tillgänglig |
+| 13685 | Flutamid STADA | Tablett | Ingen indikationstext tillgänglig |
+
+<!-- review:begin se-row-20261112-flutamide-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”13685 (indraget) / Flutamid STADA / Tablett / Ingen indikationstext tillgänglig” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 13685 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-flutamide-1 -->
 
 ---
 
@@ -170,6 +176,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”essutom är flutamids enda svenska godkännande indraget, d” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 1 godkännande (13685) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

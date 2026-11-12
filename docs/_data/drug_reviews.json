@@ -28,6 +28,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-acitretin-1",
+   "drug": "acitretin",
+   "file": "acitretin.md",
+   "action": "correct",
+   "claim": "| 60846 | Neotigason (Abacus Medicine A/S) | Kapsel, hård | Ej angiven (indraget) |\n| 53203 | Acitretin Orifarm (Orifarm Generics A/S) | Kapsel, hård | Ej angiven (indraget) |\n| 12742 | Neotigason (Actavis Group PTC ehf.) | Kapsel, hård | Ej angiven (indraget) |\n| 12743 | Neotigason (Actavis Group PTC ehf.) | Kapsel, hård | Ej angiven (indraget) |\n| 53202 | Acitretin Orifarm (Orifarm Generics A/S) | Kapsel, hård | Ej angiven (indraget) |",
+   "replacement": "| 60846 | Neotigason (Abacus Medicine A/S) | Kapsel, hård | Ej angiven |\n| 53203 | Acitretin Orifarm (Orifarm Generics A/S) | Kapsel, hård | Ej angiven |\n| 12742 | Neotigason (Actavis Group PTC ehf.) | Kapsel, hård | Ej angiven |\n| 12743 | Neotigason (Actavis Group PTC ehf.) | Kapsel, hård | Ej angiven |\n| 53202 | Acitretin Orifarm (Orifarm Generics A/S) | Kapsel, hård | Ej angiven |",
+   "summary": "Tabell: 5 godkännanden (60846, 53203, 12742, 12743, 53202) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 60846, 53203, 12742, 12743, 53202 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（60846, 53203, 12742, 12743, 53202）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-cabazitaxel-1",
    "drug": "cabazitaxel",
    "file": "cabazitaxel.md",
@@ -255,6 +275,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-dapoxetine-1",
+   "drug": "dapoxetine",
+   "file": "dapoxetine.md",
+   "action": "correct",
+   "claim": "| 26320 | Priligy (indragen) | Filmdragerad tablett | Ingen indikationstext tillgänglig |\n| 26319 | Priligy (indragen) | Filmdragerad tablett | Ingen indikationstext tillgänglig |",
+   "replacement": "| 26320 | Priligy | Filmdragerad tablett | Ingen indikationstext tillgänglig |\n| 26319 | Priligy | Filmdragerad tablett | Ingen indikationstext tillgänglig |",
+   "summary": "Tabell: 2 godkännanden (26320, 26319) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 26320, 26319 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（26320, 26319）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-daptomycin-1",
    "drug": "daptomycin",
    "file": "daptomycin.md",
@@ -431,6 +471,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-deferiprone-1",
+   "drug": "deferiprone",
+   "file": "deferiprone.md",
+   "action": "correct",
+   "claim": "| 55997 | Deferiprone DOC | Filmdragerad tablett | Ej angiven (indraget) |\n| 50975 | Deferipron Evolan | Filmdragerad tablett | Ej angiven (indraget) |\n| 64937 | Deferipron Ebb | Filmdragerad tablett | Ej angiven (indraget) |\n| 55996 | Deferiprone DOC | Filmdragerad tablett | Ej angiven (indraget) |\n| 50974 | Deferipron Evolan | Filmdragerad tablett | Ej angiven (indraget) |",
+   "replacement": "| 55997 | Deferiprone DOC | Filmdragerad tablett | Ej angiven |\n| 50975 | Deferipron Evolan | Filmdragerad tablett | Ej angiven |\n| 64937 | Deferipron Ebb | Filmdragerad tablett | Ej angiven |\n| 55996 | Deferiprone DOC | Filmdragerad tablett | Ej angiven |\n| 50974 | Deferipron Evolan | Filmdragerad tablett | Ej angiven |",
+   "summary": "Tabell: 5 godkännanden (55997, 50975, 64937, 55996, 50974) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 55997, 50975, 64937, 55996, 50974 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（55997, 50975, 64937, 55996, 50974）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-desogestrel-1",
    "drug": "desogestrel",
    "file": "desogestrel.md",
@@ -531,6 +591,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-dexketoprofen-1",
+   "drug": "dexketoprofen",
+   "file": "dexketoprofen.md",
+   "action": "correct",
+   "claim": "| 52445 (indraget) | Skudexa | Filmdragerad tablett | Ingen indikationstext angiven |",
+   "replacement": "| 52445 | Skudexa | Filmdragerad tablett | Ingen indikationstext angiven |",
+   "summary": "Tabell: 1 godkännande (52445) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 52445 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（52445）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-dexmedetomidine-1",
    "drug": "dexmedetomidine",
    "file": "dexmedetomidine.md",
@@ -579,6 +659,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Alla svenska godkännanden är indragna, och u”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-dexmedetomidine-1",
+   "drug": "dexmedetomidine",
+   "file": "dexmedetomidine.md",
+   "action": "correct",
+   "claim": "| 63371 | Dexmedetomidine EQL Pharma | Koncentrat till infusionsvätska, lösning | EQL Pharma AB | Indraget |\n| 60092 | Dexmedetomidine Baxter | Koncentrat till infusionsvätska, lösning | Baxter Holding B.V. | Indraget |\n| 59438 | Dexmedetomidine Kalceks | Koncentrat till infusionsvätska, lösning | AS KALCEKS | Indraget |\n| 54688 | Dexmedetomidine EVER Pharma | Koncentrat till infusionsvätska, lösning | EVER Valinject GmbH | Indraget |\n| 61293 | Dexmedetomidine Kabi | Koncentrat till infusionsvätska, lösning | Fresenius Kabi AB | Indraget |",
+   "replacement": "| 63371 | Dexmedetomidine EQL Pharma | Koncentrat till infusionsvätska, lösning | EQL Pharma AB | Godkänd |\n| 60092 | Dexmedetomidine Baxter | Koncentrat till infusionsvätska, lösning | Baxter Holding B.V. | Godkänd |\n| 59438 | Dexmedetomidine Kalceks | Koncentrat till infusionsvätska, lösning | AS KALCEKS | Godkänd |\n| 54688 | Dexmedetomidine EVER Pharma | Koncentrat till infusionsvätska, lösning | EVER Valinject GmbH | Godkänd |\n| 61293 | Dexmedetomidine Kabi | Koncentrat till infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |",
+   "summary": "Tabell: 5 godkännanden (63371, 60092, 59438, 54688, 61293) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 63371, 60092, 59438, 54688, 61293 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（63371, 60092, 59438, 54688, 61293）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-diclofenac-1",
@@ -757,6 +857,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-digoxin-1",
+   "drug": "digoxin",
+   "file": "digoxin.md",
+   "action": "correct",
+   "claim": "| 9004 | Digoxin Evolan | Tablett | Ej angiven (indraget) |\n| 9003 | Digoxin Evolan | Tablett | Ej angiven (indraget) |\n| 8811 | Digoxin Evolan | Injektionsvätska, lösning | Ej angiven (indraget) |",
+   "replacement": "| 9004 | Digoxin Evolan | Tablett | Ej angiven |\n| 9003 | Digoxin Evolan | Tablett | Ej angiven |\n| 8811 | Digoxin Evolan | Injektionsvätska, lösning | Ej angiven |",
+   "summary": "Tabell: 3 godkännanden (9004, 9003, 8811) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 9004, 9003, 8811 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 3 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（9004, 9003, 8811）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-diphenhydramine-1",
    "drug": "diphenhydramine",
    "file": "diphenhydramine.md",
@@ -780,6 +900,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Det enda godkännandet är indraget, och ingen giltig produkt finns på den svenska marknaden”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-diphenhydramine-1",
+   "drug": "diphenhydramine",
+   "file": "diphenhydramine.md",
+   "action": "correct",
+   "claim": "| 3866 | Desentol (Viatris AB) | Oral lösning | Ingen indikationstext registrerad. Status: indragen |",
+   "replacement": "| 3866 | Desentol (Viatris AB) | Oral lösning | Ingen indikationstext registrerad |",
+   "summary": "Tabell: 1 godkännande (3866) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 3866 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（3866）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-dobutamine-1",
@@ -832,6 +972,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-dobutamine-1",
+   "drug": "dobutamine",
+   "file": "dobutamine.md",
+   "action": "correct",
+   "claim": "| 22330 (avregistrerad) | Dobutamin Hameln | Koncentrat till infusionsvätska, lösning | Ej angiven |\n| 65838 (avregistrerad) | Dobutamine Panpharma | Koncentrat till infusionsvätska, lösning | Ej angiven |",
+   "replacement": "| 22330 | Dobutamin Hameln | Koncentrat till infusionsvätska, lösning | Ej angiven |\n| 65838 | Dobutamine Panpharma | Koncentrat till infusionsvätska, lösning | Ej angiven |",
+   "summary": "Tabell: 2 godkännanden (22330, 65838) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 22330, 65838 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（22330, 65838）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-docusate-1",
    "drug": "docusate",
    "file": "docusate.md",
@@ -855,6 +1015,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”och båda svenska godkännandena är indragna”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-docusate-1",
+   "drug": "docusate",
+   "file": "docusate.md",
+   "action": "correct",
+   "claim": "| 6514 | Klyx (Ferring Läkemedel AB) | Rektallösning | Ingen indikationstext registrerad | Indragen |\n| 65612 | Dokusatnatrium/Sorbitol Evolan (Evolan Pharma AB) | Rektallösning | Ingen indikationstext registrerad | Indragen |",
+   "replacement": "| 6514 | Klyx (Ferring Läkemedel AB) | Rektallösning | Ingen indikationstext registrerad | Godkänd |\n| 65612 | Dokusatnatrium/Sorbitol Evolan (Evolan Pharma AB) | Rektallösning | Ingen indikationstext registrerad | Godkänd |",
+   "summary": "Tabell: 2 godkännanden (6514, 65612) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 6514, 65612 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（6514, 65612）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-domperidone-1",
@@ -1032,6 +1212,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-doxorubicin-1",
+   "drug": "doxorubicin",
+   "file": "doxorubicin.md",
+   "action": "correct",
+   "claim": "| 28126 | Doxorubicin Accord (indraget) | Koncentrat till infusionsvätska, lösning | Ingen indikationstext tillgänglig |\n| 14321 | Doxorubicin Ebewe (indraget) | Injektionsvätska, lösning | Ingen indikationstext tillgänglig |\n| 11312 | Doxorubicin Teva (indraget) | Injektionsvätska, lösning | Ingen indikationstext tillgänglig |",
+   "replacement": "| 28126 | Doxorubicin Accord | Koncentrat till infusionsvätska, lösning | Ingen indikationstext tillgänglig |\n| 14321 | Doxorubicin Ebewe | Injektionsvätska, lösning | Ingen indikationstext tillgänglig |\n| 11312 | Doxorubicin Teva | Injektionsvätska, lösning | Ingen indikationstext tillgänglig |",
+   "summary": "Tabell: 3 godkännanden (28126, 14321, 11312) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 28126, 14321, 11312 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 3 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（28126, 14321, 11312）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-doxycycline-1",
    "drug": "doxycycline",
    "file": "doxycycline.md",
@@ -1130,6 +1330,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Dessutom är alla svenska godkännanden indragna, och s”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-dronedarone-1",
+   "drug": "dronedarone",
+   "file": "dronedarone.md",
+   "action": "correct",
+   "claim": "| 57830 (indragen) | Dronedaron Aristo | Filmdragerad tablett | Ingen indikationstext tillgänglig |\n| 57327 (indragen) | Dronedarone STADA | Filmdragerad tablett | Ingen indikationstext tillgänglig |\n| 57395 (indragen) | Dronedarone Teva | Filmdragerad tablett | Ingen indikationstext tillgänglig |",
+   "replacement": "| 57830 | Dronedaron Aristo | Filmdragerad tablett | Ingen indikationstext tillgänglig |\n| 57327 | Dronedarone STADA | Filmdragerad tablett | Ingen indikationstext tillgänglig |\n| 57395 | Dronedarone Teva | Filmdragerad tablett | Ingen indikationstext tillgänglig |",
+   "summary": "Tabell: 3 godkännanden (57830, 57327, 57395) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 57830, 57327, 57395 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 3 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（57830, 57327, 57395）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-duloxetine-1",
@@ -1283,6 +1503,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-dutasteride-1",
+   "drug": "dutasteride",
+   "file": "dutasteride.md",
+   "action": "correct",
+   "claim": "| 17872 | Duagen | Kapsel, mjuk | Ingen indikationstext angiven (indraget) |\n| 52816 | Dutasteride Medical Valley | Kapsel, mjuk | Ingen indikationstext angiven (indraget) |\n| 58312 | Avodart | Kapsel, mjuk | Ingen indikationstext angiven (indraget) |\n| 17871 | Avodart | Kapsel, mjuk | Ingen indikationstext angiven (indraget) |",
+   "replacement": "| 17872 | Duagen | Kapsel, mjuk | Ingen indikationstext angiven |\n| 52816 | Dutasteride Medical Valley | Kapsel, mjuk | Ingen indikationstext angiven |\n| 58312 | Avodart | Kapsel, mjuk | Ingen indikationstext angiven |\n| 17871 | Avodart | Kapsel, mjuk | Ingen indikationstext angiven |",
+   "summary": "Tabell: 4 godkännanden (17872, 52816, 58312, 17871) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 17872, 52816, 58312, 17871 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 4 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（17872, 52816, 58312, 17871）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-ebastine-1",
    "drug": "ebastine",
    "file": "ebastine.md",
@@ -1432,6 +1672,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Klargöra marknadsstatus, eftersom inget godkännande för närvarande är giltigt i Sverige”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-empagliflozin-1",
+   "drug": "empagliflozin",
+   "file": "empagliflozin.md",
+   "action": "correct",
+   "claim": "| 67533 | Empagliflozin Labiana | Filmdragerad tablett | Indikationstext saknas (indraget) |\n| 67534 | Empagliflozin Labiana | Filmdragerad tablett | Indikationstext saknas (indraget) |\n| 66345 | Empagliflozin Devatis | Filmdragerad tablett | Indikationstext saknas (indraget) |\n| 65282 | Hynica | Filmdragerad tablett | Indikationstext saknas (indraget) |\n| 66346 | Empagliflozin Devatis | Filmdragerad tablett | Indikationstext saknas (indraget) |",
+   "replacement": "| 67533 | Empagliflozin Labiana | Filmdragerad tablett | Indikationstext saknas |\n| 67534 | Empagliflozin Labiana | Filmdragerad tablett | Indikationstext saknas |\n| 66345 | Empagliflozin Devatis | Filmdragerad tablett | Indikationstext saknas |\n| 65282 | Hynica | Filmdragerad tablett | Indikationstext saknas |\n| 66346 | Empagliflozin Devatis | Filmdragerad tablett | Indikationstext saknas |",
+   "summary": "Tabell: 5 godkännanden (67533, 67534, 66345, 65282, 66346) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 67533, 67534, 66345, 65282, 66346 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（67533, 67534, 66345, 65282, 66346）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-emtricitabine-1",
@@ -1609,6 +1869,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-epinastine-1",
+   "drug": "epinastine",
+   "file": "epinastine.md",
+   "action": "correct",
+   "claim": "| 17247 | Relestat (AbbVie AB) – indraget | Ögondroppar, lösning | Indikationstext saknas |",
+   "replacement": "| 17247 | Relestat (AbbVie AB) | Ögondroppar, lösning | Indikationstext saknas |",
+   "summary": "Tabell: 1 godkännande (17247) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 17247 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（17247）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-epinephrine-1",
    "drug": "epinephrine",
    "file": "epinephrine.md",
@@ -1710,6 +1990,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-eplerenone-1",
+   "drug": "eplerenone",
+   "file": "eplerenone.md",
+   "action": "correct",
+   "claim": "| 50995 | Eplerenon STADA | Filmdragerad tablett | Indragen |\n| 65877 | Eplerenon Vivanta | Filmdragerad tablett | Indragen |\n| 65876 | Eplerenon Vivanta | Filmdragerad tablett | Indragen |\n| 51094 | Eplerenon Bluefish | Filmdragerad tablett | Indragen |\n| 21031 | Inspra | Filmdragerad tablett | Indragen |",
+   "replacement": "| 50995 | Eplerenon STADA | Filmdragerad tablett | Ej angiven |\n| 65877 | Eplerenon Vivanta | Filmdragerad tablett | Ej angiven |\n| 65876 | Eplerenon Vivanta | Filmdragerad tablett | Ej angiven |\n| 51094 | Eplerenon Bluefish | Filmdragerad tablett | Ej angiven |\n| 21031 | Inspra | Filmdragerad tablett | Ej angiven |",
+   "summary": "Tabell: 5 godkännanden (50995, 65877, 65876, 51094, 21031) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 50995, 65877, 65876, 51094, 21031 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（50995, 65877, 65876, 51094, 21031）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-eptifibatide-1",
    "drug": "eptifibatide",
    "file": "eptifibatide.md",
@@ -1733,6 +2033,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”eftersom båda godkännandena är indragna”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-eptifibatide-1",
+   "drug": "eptifibatide",
+   "file": "eptifibatide.md",
+   "action": "correct",
+   "claim": "| 67979 | Eptifibatide Ctruz (indragen) | Injektionsvätska, lösning | Ingen indikationstext angiven |\n| 67978 | Eptifibatide Ctruz (indragen) | Infusionsvätska, lösning | Ingen indikationstext angiven |",
+   "replacement": "| 67979 | Eptifibatide Ctruz | Injektionsvätska, lösning | Ingen indikationstext angiven |\n| 67978 | Eptifibatide Ctruz | Infusionsvätska, lösning | Ingen indikationstext angiven |",
+   "summary": "Tabell: 2 godkännanden (67979, 67978) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 67979, 67978 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（67979, 67978）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-esomeprazole-1",
@@ -2011,6 +2331,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-exemestane-1",
+   "drug": "exemestane",
+   "file": "exemestane.md",
+   "action": "correct",
+   "claim": "| 69036 | Exemestan Abacus Medicine | Filmdragerad tablett | Abacus Medicine A/S | Indragen |\n| 42037 | Exemestan Sandoz | Filmdragerad tablett | Sandoz A/S | Indragen |\n| 61689 | Exemestan Abacus Medicine | Filmdragerad tablett | Abacus Medicine A/S | Indragen |\n| 42036 | Exemestane Accord | Filmdragerad tablett | Accord Healthcare B.V. | Indragen |\n| 42212 | Exemestan Stada | Filmdragerad tablett | STADA Arzneimittel AG | Indragen |",
+   "replacement": "| 69036 | Exemestan Abacus Medicine | Filmdragerad tablett | Abacus Medicine A/S | Godkänd |\n| 42037 | Exemestan Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |\n| 61689 | Exemestan Abacus Medicine | Filmdragerad tablett | Abacus Medicine A/S | Godkänd |\n| 42036 | Exemestane Accord | Filmdragerad tablett | Accord Healthcare B.V. | Godkänd |\n| 42212 | Exemestan Stada | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |",
+   "summary": "Tabell: 5 godkännanden (69036, 42037, 61689, 42036, 42212) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 69036, 42037, 61689, 42036, 42212 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（69036, 42037, 61689, 42036, 42212）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-famciclovir-1",
    "drug": "famciclovir",
    "file": "famciclovir.md",
@@ -2137,6 +2477,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-famotidine-1",
+   "drug": "famotidine",
+   "file": "famotidine.md",
+   "action": "correct",
+   "claim": "| 12017 | Pepcid | Tablett | Indikationstext saknas (indragen) |\n| 16331 | Pepcid Duo | Tuggtablett | Indikationstext saknas (indragen) |",
+   "replacement": "| 12017 | Pepcid | Tablett | Indikationstext saknas |\n| 16331 | Pepcid Duo | Tuggtablett | Indikationstext saknas |",
+   "summary": "Tabell: 2 godkännanden (12017, 16331) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 12017, 16331 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（12017, 16331）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-felbamate-1",
    "drug": "felbamate",
    "file": "felbamate.md",
@@ -2210,6 +2570,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Alla svenska godkännanden är indragna”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-fentanyl-1",
+   "drug": "fentanyl",
+   "file": "fentanyl.md",
+   "action": "correct",
+   "claim": "| 25590 | Fentanyl Sandoz | Depotplåster | Sandoz A/S | Indraget |\n| 23434 | Fentanyl Actavis | Depotplåster | Actavis Group PTC ehf. | Indraget |\n| 23382 | Quatrofen | Depotplåster | Istituto Gentili S.r.l. | Indraget |\n| 21289 | Matrifen | Depotplåster | Istituto Gentili S.r.l. | Indraget |",
+   "replacement": "| 25590 | Fentanyl Sandoz | Depotplåster | Sandoz A/S | Godkänd |\n| 23434 | Fentanyl Actavis | Depotplåster | Actavis Group PTC ehf. | Godkänd |\n| 23382 | Quatrofen | Depotplåster | Istituto Gentili S.r.l. | Godkänd |\n| 21289 | Matrifen | Depotplåster | Istituto Gentili S.r.l. | Godkänd |",
+   "summary": "Tabell: 4 godkännanden (25590, 23434, 23382, 21289) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 25590, 23434, 23382, 21289 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 4 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（25590, 23434, 23382, 21289）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-fexofenadine-1",
@@ -2287,6 +2667,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-filgrastim-1",
+   "drug": "filgrastim",
+   "file": "filgrastim.md",
+   "action": "correct",
+   "claim": "| 11325 (indragen) | Neupogen (Amgen Europe B.V.) | Injektionsvätska, lösning | Ingen indikationstext angiven |",
+   "replacement": "| 11325 | Neupogen (Amgen Europe B.V.) | Injektionsvätska, lösning | Ingen indikationstext angiven |",
+   "summary": "Tabell: 1 godkännande (11325) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 11325 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（11325）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-flucytosine-1",
    "drug": "flucytosine",
    "file": "flucytosine.md",
@@ -2310,6 +2710,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Det enda svenska godkännandet är indraget”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-flucytosine-1",
+   "drug": "flucytosine",
+   "file": "flucytosine.md",
+   "action": "correct",
+   "claim": "| 9337 (indraget) | Ancotil (Viatris AB) | Infusionsvätska, lösning | Ej angiven |",
+   "replacement": "| 9337 | Ancotil (Viatris AB) | Infusionsvätska, lösning | Ej angiven |",
+   "summary": "Tabell: 1 godkännande (9337) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 9337 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（9337）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-fludarabine-1",
@@ -2386,6 +2806,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”eftersom samtliga godkännanden är indragna”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-fludarabine-1",
+   "drug": "fludarabine",
+   "file": "fludarabine.md",
+   "action": "correct",
+   "claim": "| 64191 | Fludarabin Teva | Koncentrat till injektions-/infusionsvätska, lösning | Ej angiven (indragen) |\n| 24838 | Fludarabin Ebewe | Koncentrat till injektions-/infusionsvätska, lösning | Ej angiven (indragen) |\n| 49857 | Fludarabine Accord | Koncentrat till injektions-/infusionsvätska, lösning | Ej angiven (indragen) |",
+   "replacement": "| 64191 | Fludarabin Teva | Koncentrat till injektions-/infusionsvätska, lösning | Ej angiven |\n| 24838 | Fludarabin Ebewe | Koncentrat till injektions-/infusionsvätska, lösning | Ej angiven |\n| 49857 | Fludarabine Accord | Koncentrat till injektions-/infusionsvätska, lösning | Ej angiven |",
+   "summary": "Tabell: 3 godkännanden (64191, 24838, 49857) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 64191, 24838, 49857 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 3 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（64191, 24838, 49857）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-fluorescein-1",
@@ -2564,6 +3004,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-flutamide-1",
+   "drug": "flutamide",
+   "file": "flutamide.md",
+   "action": "correct",
+   "claim": "| 13685 (indraget) | Flutamid STADA | Tablett | Ingen indikationstext tillgänglig |",
+   "replacement": "| 13685 | Flutamid STADA | Tablett | Ingen indikationstext tillgänglig |",
+   "summary": "Tabell: 1 godkännande (13685) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 13685 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（13685）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-fomepizole-1",
    "drug": "fomepizole",
    "file": "fomepizole.md",
@@ -2662,6 +3122,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”då inget godkännande är giltigt”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-fosphenytoin-1",
+   "drug": "fosphenytoin",
+   "file": "fosphenytoin.md",
+   "action": "correct",
+   "claim": "| 14441 | Pro-Epanutin (Pfizer AB) | Koncentrat till infusionsvätska, lösning/injektionsvätska, lösning | Uppgift saknas (indraget) |\n| 63732 | Pro-Epanutin (Orifarm AB) | Koncentrat till infusionsvätska, lösning/injektionsvätska, lösning | Uppgift saknas (indraget) |\n| 58390 | Pro-Epanutin (Orifarm AB) | Koncentrat till infusionsvätska, lösning/injektionsvätska, lösning | Uppgift saknas (indraget) |",
+   "replacement": "| 14441 | Pro-Epanutin (Pfizer AB) | Koncentrat till infusionsvätska, lösning/injektionsvätska, lösning | Uppgift saknas |\n| 63732 | Pro-Epanutin (Orifarm AB) | Koncentrat till infusionsvätska, lösning/injektionsvätska, lösning | Uppgift saknas |\n| 58390 | Pro-Epanutin (Orifarm AB) | Koncentrat till infusionsvätska, lösning/injektionsvätska, lösning | Uppgift saknas |",
+   "summary": "Tabell: 3 godkännanden (14441, 63732, 58390) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 14441, 63732, 58390 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 3 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（14441, 63732, 58390）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-fulvestrant-1",
@@ -2914,6 +3394,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-glimepiride-1",
+   "drug": "glimepiride",
+   "file": "glimepiride.md",
+   "action": "correct",
+   "claim": "| 26270 | Glimepirid Bluefish | Tablett | Bluefish Pharmaceuticals AB | Indraget |\n| 22683 | Glimepirid STADA | Tablett | STADA Arzneimittel AG | Indraget |\n| 26271 | Glimepirid Bluefish | Tablett | Bluefish Pharmaceuticals AB | Indraget |\n| 22681 | Glimepirid Actavis | Tablett | Actavis Group PTC ehf. | Indraget |\n| 22679 | Glimepirid Actavis | Tablett | Actavis Group PTC ehf. | Indraget |",
+   "replacement": "| 26270 | Glimepirid Bluefish | Tablett | Bluefish Pharmaceuticals AB | Godkänd |\n| 22683 | Glimepirid STADA | Tablett | STADA Arzneimittel AG | Godkänd |\n| 26271 | Glimepirid Bluefish | Tablett | Bluefish Pharmaceuticals AB | Godkänd |\n| 22681 | Glimepirid Actavis | Tablett | Actavis Group PTC ehf. | Godkänd |\n| 22679 | Glimepirid Actavis | Tablett | Actavis Group PTC ehf. | Godkänd |",
+   "summary": "Tabell: 5 godkännanden (26270, 22683, 26271, 22681, 22679) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 26270, 22683, 26271, 22681, 22679 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（26270, 22683, 26271, 22681, 22679）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-granisetron-1",
    "drug": "granisetron",
    "file": "granisetron.md",
@@ -3016,6 +3516,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-guaifenesin-1",
+   "drug": "guaifenesin",
+   "file": "guaifenesin.md",
+   "action": "correct",
+   "claim": "| 46501 | Nipenesin | Sirap | Ingen indikationstext registrerad (indraget) |\n| 8941 | Theracough | Oral lösning | Ingen indikationstext registrerad (indraget) |\n| 63154 | Nipenesin Mentol | Oral lösning | Ingen indikationstext registrerad (indraget) |",
+   "replacement": "| 46501 | Nipenesin | Sirap | Ingen indikationstext registrerad |\n| 8941 | Theracough | Oral lösning | Ingen indikationstext registrerad |\n| 63154 | Nipenesin Mentol | Oral lösning | Ingen indikationstext registrerad |",
+   "summary": "Tabell: 3 godkännanden (46501, 8941, 63154) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 46501, 8941, 63154 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 3 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（46501, 8941, 63154）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-haloperidol-1",
    "drug": "haloperidol",
    "file": "haloperidol.md",
@@ -3064,6 +3584,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Klargöra att Normosang för närvarande saknar giltigt godkännande i Sverige”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-hemin-1",
+   "drug": "hemin",
+   "file": "hemin.md",
+   "action": "correct",
+   "claim": "| 15349 (indraget) | Normosang | Koncentrat till infusionsvätska, lösning | Indikationstext saknas |",
+   "replacement": "| 15349 | Normosang | Koncentrat till infusionsvätska, lösning | Indikationstext saknas |",
+   "summary": "Tabell: 1 godkännande (15349) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 15349 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（15349）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-heparin-1",
@@ -3442,6 +3982,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-ifosfamide-1",
+   "drug": "ifosfamide",
+   "file": "ifosfamide.md",
+   "action": "correct",
+   "claim": "| 11097-1 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven (indraget) |\n| 67829 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven (indraget) |\n| 67828 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven (indraget) |\n| 67827 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven (indraget) |",
+   "replacement": "| 11097-1 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven |\n| 67829 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven |\n| 67828 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven |\n| 67827 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven |",
+   "summary": "Tabell: 4 godkännanden (11097-1, 67829, 67828, 67827) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 11097-1, 67829, 67828, 67827 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 4 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（11097-1, 67829, 67828, 67827）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-iloprost-1",
    "drug": "iloprost",
    "file": "iloprost.md",
@@ -3465,6 +4025,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”och läkemedlet har inga gällande godkännanden i Sverige”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-iloprost-1",
+   "drug": "iloprost",
+   "file": "iloprost.md",
+   "action": "correct",
+   "claim": "| 65495 | Iloprost Waymade | Koncentrat till infusionsvätska, lösning | Indraget |\n| 65496 | Iloprost Waymade | Koncentrat till infusionsvätska, lösning | Indraget |\n| 13677 | Ilomedin (Bayer AB) | Koncentrat till infusionsvätska, lösning | Indraget |",
+   "replacement": "| 65495 | Iloprost Waymade | Koncentrat till infusionsvätska, lösning | Godkänd |\n| 65496 | Iloprost Waymade | Koncentrat till infusionsvätska, lösning | Godkänd |\n| 13677 | Ilomedin (Bayer AB) | Koncentrat till infusionsvätska, lösning | Godkänd |",
+   "summary": "Tabell: 3 godkännanden (65495, 65496, 13677) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 65495, 65496, 13677 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 3 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（65495, 65496, 13677）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-ipratropium-1",
@@ -3618,6 +4198,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-isoflurane-1",
+   "drug": "isoflurane",
+   "file": "isoflurane.md",
+   "action": "correct",
+   "claim": "| 61474 | Sedaconda | Inhalationsånga, vätska | Sedana Medical AB | Indraget |\n| 12337 | Isofluran Baxter | Inhalationsånga, vätska | Baxter Medical AB | Indraget |",
+   "replacement": "| 61474 | Sedaconda | Inhalationsånga, vätska | Sedana Medical AB | Godkänd |\n| 12337 | Isofluran Baxter | Inhalationsånga, vätska | Baxter Medical AB | Godkänd |",
+   "summary": "Tabell: 2 godkännanden (61474, 12337) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 61474, 12337 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（61474, 12337）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-isoleucine-1",
    "drug": "isoleucine",
    "file": "isoleucine.md",
@@ -3668,6 +4268,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-isoniazid-1",
+   "drug": "isoniazid",
+   "file": "isoniazid.md",
+   "action": "correct",
+   "claim": "| 7564 | Tibinide (Viatris AB) | Tablett | Indikationstext saknas (indraget) |\n| 16688 | Rimactazid (Sandoz A/S) | Filmdragerad tablett | Indikationstext saknas (indraget) |\n| 16663 | Rimcure (Sandoz A/S) | Filmdragerad tablett | Indikationstext saknas (indraget) |\n| 16899 | Rimstar (Sandoz A/S) | Filmdragerad tablett | Indikationstext saknas (indraget) |",
+   "replacement": "| 7564 | Tibinide (Viatris AB) | Tablett | Indikationstext saknas |\n| 16688 | Rimactazid (Sandoz A/S) | Filmdragerad tablett | Indikationstext saknas |\n| 16663 | Rimcure (Sandoz A/S) | Filmdragerad tablett | Indikationstext saknas |\n| 16899 | Rimstar (Sandoz A/S) | Filmdragerad tablett | Indikationstext saknas |",
+   "summary": "Tabell: 4 godkännanden (7564, 16688, 16663, 16899) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 7564, 16688, 16663, 16899 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 4 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（7564, 16688, 16663, 16899）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-isoprenaline-1",
    "drug": "isoprenaline",
    "file": "isoprenaline.md",
@@ -3691,6 +4311,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Läkemedlet saknar dessutom giltigt godkännande i Sverige, och d”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-isoprenaline-1",
+   "drug": "isoprenaline",
+   "file": "isoprenaline.md",
+   "action": "correct",
+   "claim": "| 65500 | Xytrina | Koncentrat till infusionsvätska, lösning | Indikationstext saknas (indraget) |\n| 58779 | Isoprenaline Macure | Koncentrat till infusionsvätska, lösning | Indikationstext saknas (indraget) |",
+   "replacement": "| 65500 | Xytrina | Koncentrat till infusionsvätska, lösning | Indikationstext saknas |\n| 58779 | Isoprenaline Macure | Koncentrat till infusionsvätska, lösning | Indikationstext saknas |",
+   "summary": "Tabell: 2 godkännanden (65500, 58779) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 65500, 58779 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（65500, 58779）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-isotretinoin-1",
@@ -3969,6 +4609,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-ketoprofen-1",
+   "drug": "ketoprofen",
+   "file": "ketoprofen.md",
+   "action": "correct",
+   "claim": "| 14912 | Siduro (Viatris AB) | Gel (kutan) | Indikationstext saknas; godkännandet är indraget |",
+   "replacement": "| 14912 | Siduro (Viatris AB) | Gel (kutan) | Indikationstext saknas |",
+   "summary": "Tabell: 1 godkännande (14912) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 14912 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（14912）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-ketorolac-1",
    "drug": "ketorolac",
    "file": "ketorolac.md",
@@ -4170,6 +4830,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-lactulose-1",
+   "drug": "lactulose",
+   "file": "lactulose.md",
+   "action": "correct",
+   "claim": "| 45433 | Lactulose Fresenius | Oral lösning i dospåse | Fresenius Kabi Austria GmbH | Indraget |\n| 10293 | Laktulos Cooper | Oral lösning | Cooper Consumer Health B.V. | Indraget |\n| 44378 | Laktulos Levolac | Oral lösning | Fresenius Kabi Austria GmbH | Indraget |\n| 10212 | Duphalac | Oral lösning | Cooper Consumer Health B.V. | Indraget |",
+   "replacement": "| 45433 | Lactulose Fresenius | Oral lösning i dospåse | Fresenius Kabi Austria GmbH | Godkänd |\n| 10293 | Laktulos Cooper | Oral lösning | Cooper Consumer Health B.V. | Godkänd |\n| 44378 | Laktulos Levolac | Oral lösning | Fresenius Kabi Austria GmbH | Godkänd |\n| 10212 | Duphalac | Oral lösning | Cooper Consumer Health B.V. | Godkänd |",
+   "summary": "Tabell: 4 godkännanden (45433, 10293, 44378, 10212) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 45433, 10293, 44378, 10212 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 4 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（45433, 10293, 44378, 10212）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-lamotrigine-1",
    "drug": "lamotrigine",
    "file": "lamotrigine.md",
@@ -4271,6 +4951,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-landiolol-1",
+   "drug": "landiolol",
+   "file": "landiolol.md",
+   "action": "correct",
+   "claim": "| 52381 | Rapibloc | Pulver till infusionsvätska, lösning | Ingen indikationstext registrerad | Indragen |\n| 52383 | Rapibloc | Koncentrat till injektionsvätska, lösning | Ingen indikationstext registrerad | Indragen |",
+   "replacement": "| 52381 | Rapibloc | Pulver till infusionsvätska, lösning | Ingen indikationstext registrerad | Godkänd |\n| 52383 | Rapibloc | Koncentrat till injektionsvätska, lösning | Ingen indikationstext registrerad | Godkänd |",
+   "summary": "Tabell: 2 godkännanden (52381, 52383) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 52381, 52383 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（52381, 52383）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-latanoprost-1",
    "drug": "latanoprost",
    "file": "latanoprost.md",
@@ -4320,6 +5020,26 @@
    "summary": "Borttaget: ”Båda godkännandena tillhör Bluefish Pharmaceuticals AB och är indragna”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）",
    "anchor": "Sambandet är dock svagt. Brakydaktyli-syndaktyli-syndrom är en medfödd utvecklingsstörning, och det är osannolikt att ett immunmodulerande läkemedel som ges efter födseln kan påverka den. Leflunomid är dessutom fosterskadande (teratogent), vilket är ett allvarligt problem vid alla tillstånd som rör fosterutveckling. Förutsägelsen bör därför behandlas som en hypotes och inte som ett fynd."
+  },
+  {
+   "id": "se-row-20261112-leflunomide-1",
+   "drug": "leflunomide",
+   "file": "leflunomide.md",
+   "action": "correct",
+   "claim": "| 54935 | Leflunomid Bluefish | Filmdragerad tablett | Ingen indikationstext tillgänglig (indraget) |\n| 54934 | Leflunomid Bluefish | Filmdragerad tablett | Ingen indikationstext tillgänglig (indraget) |",
+   "replacement": "| 54935 | Leflunomid Bluefish | Filmdragerad tablett | Ingen indikationstext tillgänglig |\n| 54934 | Leflunomid Bluefish | Filmdragerad tablett | Ingen indikationstext tillgänglig |",
+   "summary": "Tabell: 2 godkännanden (54935, 54934) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 54935, 54934 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（54935, 54934）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-lenalidomide-1",
@@ -4497,6 +5217,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-levobupivacaine-1",
+   "drug": "levobupivacaine",
+   "file": "levobupivacaine.md",
+   "action": "correct",
+   "claim": "| 64618 | Levobupivacaine Molteni | Injektions-/infusionsvätska, lösning | Ej angiven (indragen) |\n| 64617 | Levobupivacaine Molteni | Injektions-/infusionsvätska, lösning | Ej angiven (indragen) |",
+   "replacement": "| 64618 | Levobupivacaine Molteni | Injektions-/infusionsvätska, lösning | Ej angiven |\n| 64617 | Levobupivacaine Molteni | Injektions-/infusionsvätska, lösning | Ej angiven |",
+   "summary": "Tabell: 2 godkännanden (64618, 64617) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 64618, 64617 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（64618, 64617）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-levocabastine-1",
    "drug": "levocabastine",
    "file": "levocabastine.md",
@@ -4520,6 +5260,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”essutom är alla svenska godkännanden indragna, och d”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-levocabastine-1",
+   "drug": "levocabastine",
+   "file": "levocabastine.md",
+   "action": "correct",
+   "claim": "| 11504 | Livostin (McNeil Sweden AB) | Nässpray, suspension | Ingen indikationstext angiven (indraget) |\n| 61691 | Livostin (Ebb Medical AB) | Nässpray, suspension | Ingen indikationstext angiven (indraget) |\n| 11328 | Livostin (McNeil Sweden AB) | Ögondroppar, suspension | Ingen indikationstext angiven (indraget) |",
+   "replacement": "| 11504 | Livostin (McNeil Sweden AB) | Nässpray, suspension | Ingen indikationstext angiven |\n| 61691 | Livostin (Ebb Medical AB) | Nässpray, suspension | Ingen indikationstext angiven |\n| 11328 | Livostin (McNeil Sweden AB) | Ögondroppar, suspension | Ingen indikationstext angiven |",
+   "summary": "Tabell: 3 godkännanden (11504, 61691, 11328) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 11504, 61691, 11328 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 3 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（11504, 61691, 11328）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-levodopa-1",
@@ -4748,6 +5508,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Det enda godkännandet i Sverige är indraget”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-liothyronine-1",
+   "drug": "liothyronine",
+   "file": "liothyronine.md",
+   "action": "correct",
+   "claim": "| 5500 | Liothyronin (Orifarm Healthcare A/S) | Tablett | Ingen indikationstext registrerad (status: indragen) |",
+   "replacement": "| 5500 | Liothyronin (Orifarm Healthcare A/S) | Tablett | Ingen indikationstext registrerad (status: godkänd) |",
+   "summary": "Tabell: 1 godkännande (5500) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 5500 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（5500）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-lisdexamfetamine-1",
@@ -5128,6 +5908,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-melphalan-1",
+   "drug": "melphalan",
+   "file": "melphalan.md",
+   "action": "correct",
+   "claim": "| 11674 | Alkeran | Pulver och vätska till injektionsvätska, lösning | Uppgift saknas (indragen) |\n| 57727 | Melphalan Macure | Pulver och vätska till injektions-/infusionsvätska, lösning | Uppgift saknas (indragen) |\n| 7492 | Alkeran | Filmdragerad tablett | Uppgift saknas (indragen) |",
+   "replacement": "| 11674 | Alkeran | Pulver och vätska till injektionsvätska, lösning | Uppgift saknas |\n| 57727 | Melphalan Macure | Pulver och vätska till injektions-/infusionsvätska, lösning | Uppgift saknas |\n| 7492 | Alkeran | Filmdragerad tablett | Uppgift saknas |",
+   "summary": "Tabell: 3 godkännanden (11674, 57727, 7492) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 11674, 57727, 7492 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 3 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（11674, 57727, 7492）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-memantine-1",
    "drug": "memantine",
    "file": "memantine.md",
@@ -5478,6 +6278,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-methoxsalen-1",
+   "drug": "methoxsalen",
+   "file": "methoxsalen.md",
+   "action": "correct",
+   "claim": "| 23246 (indraget) | Uvadex | Lösning för modifiering av blodfraktion | Indikationstext saknas |",
+   "replacement": "| 23246 | Uvadex | Lösning för modifiering av blodfraktion | Indikationstext saknas |",
+   "summary": "Tabell: 1 godkännande (23246) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 23246 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（23246）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-methylphenidate-1",
    "drug": "methylphenidate",
    "file": "methylphenidate.md",
@@ -5526,6 +6346,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”eftersom alla svenska godkännanden är indragna”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-methylphenidate-1",
+   "drug": "methylphenidate",
+   "file": "methylphenidate.md",
+   "action": "correct",
+   "claim": "| 23837 | Medikinet | Tablett | Indragen |\n| 23840 | Medikinet | Kapsel med modifierad frisättning, hård | Indragen |\n| 50408 | Ritalin | Kapsel med modifierad frisättning, hård | Indragen |\n| 58475 | Methylphenidate STADA | Depottablett | Indragen |\n| 61711 | Affenid | Kapsel med modifierad frisättning, hård | Indragen |",
+   "replacement": "| 23837 | Medikinet | Tablett | Godkänd |\n| 23840 | Medikinet | Kapsel med modifierad frisättning, hård | Godkänd |\n| 50408 | Ritalin | Kapsel med modifierad frisättning, hård | Godkänd |\n| 58475 | Methylphenidate STADA | Depottablett | Godkänd |\n| 61711 | Affenid | Kapsel med modifierad frisättning, hård | Godkänd |",
+   "summary": "Tabell: 5 godkännanden (23837, 23840, 50408, 58475, 61711) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 23837, 23840, 50408, 58475, 61711 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（23837, 23840, 50408, 58475, 61711）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-metolazone-1",
@@ -5604,6 +6444,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-metolazone-1",
+   "drug": "metolazone",
+   "file": "metolazone.md",
+   "action": "correct",
+   "claim": "| 41983 (indraget) | Metolazon Abcur | Tablett | Ingen indikationstext tillgänglig |",
+   "replacement": "| 41983 | Metolazon Abcur | Tablett | Ingen indikationstext tillgänglig |",
+   "summary": "Tabell: 1 godkännande (41983) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 41983 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（41983）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-metyrapone-1",
    "drug": "metyrapone",
    "file": "metyrapone.md",
@@ -5627,6 +6487,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Dessutom är det enda svenska godkännandet indraget”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-metyrapone-1",
+   "drug": "metyrapone",
+   "file": "metyrapone.md",
+   "action": "correct",
+   "claim": "| 49271 (indraget) | Metopirone | Kapsel, mjuk | Ingen indikationstext angiven |",
+   "replacement": "| 49271 | Metopirone | Kapsel, mjuk | Ingen indikationstext angiven |",
+   "summary": "Tabell: 1 godkännande (49271) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 49271 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（49271）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-mexiletine-1",
@@ -5929,6 +6809,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-midodrine-1",
+   "drug": "midodrine",
+   "file": "midodrine.md",
+   "action": "correct",
+   "claim": "| 63789 | Midodrine Tillomed | Tablett | Tillomed Pharma GmbH | Indraget |\n| 64227 | Midodrin Zentiva | Tablett | Zentiva k.s. | Indraget |\n| 56761 | Hypotron | Tablett | Brancaster Pharma Ireland Ltd. | Indraget |\n| 65096 | Midodrine Medical Valley | Tablett | Medical Valley Invest AB | Indraget |\n| 62174 | Augermid | Tablett | Aspire Pharma (Malta) Limited | Indraget |",
+   "replacement": "| 63789 | Midodrine Tillomed | Tablett | Tillomed Pharma GmbH | Godkänd |\n| 64227 | Midodrin Zentiva | Tablett | Zentiva k.s. | Godkänd |\n| 56761 | Hypotron | Tablett | Brancaster Pharma Ireland Ltd. | Godkänd |\n| 65096 | Midodrine Medical Valley | Tablett | Medical Valley Invest AB | Godkänd |\n| 62174 | Augermid | Tablett | Aspire Pharma (Malta) Limited | Godkänd |",
+   "summary": "Tabell: 5 godkännanden (63789, 64227, 56761, 65096, 62174) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 63789, 64227, 56761, 65096, 62174 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（63789, 64227, 56761, 65096, 62174）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-miglustat-1",
    "drug": "miglustat",
    "file": "miglustat.md",
@@ -5952,6 +6852,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Det enda svenska godkännandet är indraget, och s”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-miglustat-1",
+   "drug": "miglustat",
+   "file": "miglustat.md",
+   "action": "correct",
+   "claim": "| 49976 | Miglustat Bluefish | Kapsel, hård | Indikationstext saknas (indraget godkännande) |",
+   "replacement": "| 49976 | Miglustat Bluefish | Kapsel, hård | Indikationstext saknas |",
+   "summary": "Tabell: 1 godkännande (49976) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 49976 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（49976）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-milrinone-1",
@@ -6104,6 +7024,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-moclobemide-1",
+   "drug": "moclobemide",
+   "file": "moclobemide.md",
+   "action": "correct",
+   "claim": "| 59621 | Aurorix (Ebb Medical AB) | Filmdragerad tablett | Indikationstext saknas (indraget) |\n| 59620 | Aurorix (Ebb Medical AB) | Filmdragerad tablett | Indikationstext saknas (indraget) |\n| 11031 | Aurorix (Viatris AB) | Filmdragerad tablett | Indikationstext saknas (indraget) |",
+   "replacement": "| 59621 | Aurorix (Ebb Medical AB) | Filmdragerad tablett | Indikationstext saknas |\n| 59620 | Aurorix (Ebb Medical AB) | Filmdragerad tablett | Indikationstext saknas |\n| 11031 | Aurorix (Viatris AB) | Filmdragerad tablett | Indikationstext saknas |",
+   "summary": "Tabell: 3 godkännanden (59621, 59620, 11031) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 59621, 59620, 11031 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 3 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（59621, 59620, 11031）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-moxifloxacin-1",
    "drug": "moxifloxacin",
    "file": "moxifloxacin.md",
@@ -6230,6 +7170,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-mupirocin-1",
+   "drug": "mupirocin",
+   "file": "mupirocin.md",
+   "action": "correct",
+   "claim": "| 11808 (avregistrerad) | Bactroban (GlaxoSmithKline AB) | Salva | Ingen indikationstext tillgänglig |",
+   "replacement": "| 11808 | Bactroban (GlaxoSmithKline AB) | Salva | Ingen indikationstext tillgänglig |",
+   "summary": "Tabell: 1 godkännande (11808) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 11808 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（11808）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-nabumetone-1",
    "drug": "nabumetone",
    "file": "nabumetone.md",
@@ -6279,6 +7239,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Dessutom saknar läkemedlet för närvarande giltigt godkännande i Sverige”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-nabumetone-1",
+   "drug": "nabumetone",
+   "file": "nabumetone.md",
+   "action": "correct",
+   "claim": "| 54429 (Ebb Medical AB, indraget) | Relifex | Filmdragerad tablett | Ingen indikationstext tillgänglig |\n| 11867 (Viatris AB, indraget) | Relifex | Filmdragerad tablett | Ingen indikationstext tillgänglig |",
+   "replacement": "| 54429 (Ebb Medical AB) | Relifex | Filmdragerad tablett | Ingen indikationstext tillgänglig |\n| 11867 (Viatris AB) | Relifex | Filmdragerad tablett | Ingen indikationstext tillgänglig |",
+   "summary": "Tabell: 2 godkännanden (54429, 11867) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 54429, 11867 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（54429, 11867）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-naphazoline-1",
@@ -6532,6 +7512,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-niclosamide-1",
+   "drug": "niclosamide",
+   "file": "niclosamide.md",
+   "action": "correct",
+   "claim": "| 6938 (återkallat) | Yomesan (Bayer AB) | Tuggtablett | Ingen indikationstext tillgänglig |",
+   "replacement": "| 6938 | Yomesan (Bayer AB) | Tuggtablett | Ingen indikationstext tillgänglig |",
+   "summary": "Tabell: 1 godkännande (6938) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 6938 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（6938）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-nimodipine-1",
    "drug": "nimodipine",
    "file": "nimodipine.md",
@@ -6581,6 +7581,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Dessutom är alla svenska godkännanden indragna, och v”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-nimodipine-1",
+   "drug": "nimodipine",
+   "file": "nimodipine.md",
+   "action": "correct",
+   "claim": "| 56963 | Nimotop | Infusionsvätska, lösning | Ej angiven | Indragen |\n| 56817 | Nimotop | Infusionsvätska, lösning | Ej angiven | Indragen |\n| 10955 | Nimotop | Filmdragerad tablett | Ej angiven | Indragen |\n| 66795 | Nimotop | Infusionsvätska, lösning | Ej angiven | Indragen |\n| 10954 | Nimotop | Infusionsvätska, lösning | Ej angiven | Indragen |",
+   "replacement": "| 56963 | Nimotop | Infusionsvätska, lösning | Ej angiven | Godkänd |\n| 56817 | Nimotop | Infusionsvätska, lösning | Ej angiven | Godkänd |\n| 10955 | Nimotop | Filmdragerad tablett | Ej angiven | Godkänd |\n| 66795 | Nimotop | Infusionsvätska, lösning | Ej angiven | Godkänd |\n| 10954 | Nimotop | Infusionsvätska, lösning | Ej angiven | Godkänd |",
+   "summary": "Tabell: 5 godkännanden (56963, 56817, 10955, 66795, 10954) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 56963, 56817, 10955, 66795, 10954 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（56963, 56817, 10955, 66795, 10954）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-nintedanib-1",
@@ -6734,6 +7754,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-nitrofurantoin-1",
+   "drug": "nitrofurantoin",
+   "file": "nitrofurantoin.md",
+   "action": "correct",
+   "claim": "| 7977 | Furadantin (Viatris AB) | Tablett | Indragen |\n| 5614 | Furadantin (Viatris AB) | Tablett | Indragen |\n| 51827 | Nitrofurantoin Alternova (Alternova A/S) | Tablett | Indragen |\n| 63398 | Foragen (CNX Therapeutics Ireland Ltd) | Kapsel med modifierad frisättning, hård | Indragen |",
+   "replacement": "| 7977 | Furadantin (Viatris AB) | Tablett | Ej angiven |\n| 5614 | Furadantin (Viatris AB) | Tablett | Ej angiven |\n| 51827 | Nitrofurantoin Alternova (Alternova A/S) | Tablett | Ej angiven |\n| 63398 | Foragen (CNX Therapeutics Ireland Ltd) | Kapsel med modifierad frisättning, hård | Ej angiven |",
+   "summary": "Tabell: 4 godkännanden (7977, 5614, 51827, 63398) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 7977, 5614, 51827, 63398 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 4 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（7977, 5614, 51827, 63398）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-norgestimate-1",
    "drug": "norgestimate",
    "file": "norgestimate.md",
@@ -6757,6 +7797,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”eftersom alla svenska godkännanden är indragna”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-norgestimate-1",
+   "drug": "norgestimate",
+   "file": "norgestimate.md",
+   "action": "correct",
+   "claim": "| 59046 | Amorina (Effik) | Tablett | Ingen indikationstext registrerad (indraget) |\n| 50862 | Amorest 28 (Campus Pharma AB) | Tablett | Ingen indikationstext registrerad (indraget) |",
+   "replacement": "| 59046 | Amorina (Effik) | Tablett | Ingen indikationstext registrerad |\n| 50862 | Amorest 28 (Campus Pharma AB) | Tablett | Ingen indikationstext registrerad |",
+   "summary": "Tabell: 2 godkännanden (59046, 50862) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 59046, 50862 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（59046, 50862）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-nortriptyline-1",
@@ -6807,6 +7867,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”eftersom det enda svenska godkännandet är indraget”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-nortriptyline-1",
+   "drug": "nortriptyline",
+   "file": "nortriptyline.md",
+   "action": "correct",
+   "claim": "| 7623 (indraget) | Sensaval | Filmdragerad tablett | Ingen indikationstext tillgänglig |",
+   "replacement": "| 7623 | Sensaval | Filmdragerad tablett | Ingen indikationstext tillgänglig |",
+   "summary": "Tabell: 1 godkännande (7623) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 7623 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（7623）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-nystatin-1",
@@ -7386,6 +8466,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-palonosetron-1",
+   "drug": "palonosetron",
+   "file": "palonosetron.md",
+   "action": "correct",
+   "claim": "| 52912 | Palonosetron Reig Jofre | Injektionsvätska, lösning | Indragen |\n| 52932 | Palonosetron Fresenius Kabi | Injektionsvätska, lösning | Indragen |\n| 61378 | Palonosetron Kalceks | Injektionsvätska, lösning | Indragen |\n| 52849 | FERANT | Injektionsvätska, lösning | Indragen |\n| 52834 | Palonosetron STADA | Injektionsvätska, lösning | Indragen |",
+   "replacement": "| 52912 | Palonosetron Reig Jofre | Injektionsvätska, lösning | Godkänd |\n| 52932 | Palonosetron Fresenius Kabi | Injektionsvätska, lösning | Godkänd |\n| 61378 | Palonosetron Kalceks | Injektionsvätska, lösning | Godkänd |\n| 52849 | FERANT | Injektionsvätska, lösning | Godkänd |\n| 52834 | Palonosetron STADA | Injektionsvätska, lösning | Godkänd |",
+   "summary": "Tabell: 5 godkännanden (52912, 52932, 61378, 52849, 52834) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 52912, 52932, 61378, 52849, 52834 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（52912, 52932, 61378, 52849, 52834）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-pantoprazole-1",
    "drug": "pantoprazole",
    "file": "pantoprazole.md",
@@ -7436,6 +8536,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-pantoprazole-1",
+   "drug": "pantoprazole",
+   "file": "pantoprazole.md",
+   "action": "correct",
+   "claim": "| 51722 (indragen) | Pantoprazol SUN | Pulver till injektionsvätska, lösning | Ingen indikationstext registrerad |",
+   "replacement": "| 51722 | Pantoprazol SUN | Pulver till injektionsvätska, lösning | Ingen indikationstext registrerad |",
+   "summary": "Tabell: 1 godkännande (51722) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 51722 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（51722）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-parecoxib-1",
    "drug": "parecoxib",
    "file": "parecoxib.md",
@@ -7459,6 +8579,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”och alla svenska godkännanden är indragna”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-parecoxib-1",
+   "drug": "parecoxib",
+   "file": "parecoxib.md",
+   "action": "correct",
+   "claim": "| 60191 | Parecoxib Noridem | Pulver till injektionsvätska, lösning | Ej angiven (indraget) |\n| 60190 | Parecoxib Noridem | Pulver och vätska till injektionsvätska, lösning | Ej angiven (indraget) |\n| 65728 | Parecoxib Macure | Pulver till injektionsvätska, lösning | Ej angiven (indraget) |",
+   "replacement": "| 60191 | Parecoxib Noridem | Pulver till injektionsvätska, lösning | Ej angiven |\n| 60190 | Parecoxib Noridem | Pulver och vätska till injektionsvätska, lösning | Ej angiven |\n| 65728 | Parecoxib Macure | Pulver till injektionsvätska, lösning | Ej angiven |",
+   "summary": "Tabell: 3 godkännanden (60191, 60190, 65728) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 60191, 60190, 65728 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 3 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（60191, 60190, 65728）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-paroxetine-1",
@@ -7561,6 +8701,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-penciclovir-1",
+   "drug": "penciclovir",
+   "file": "penciclovir.md",
+   "action": "correct",
+   "claim": "| 48482 | Vectatone (Perrigo Sverige AB) | Kräm | Indikationstext saknas (indraget) |\n| 12824 | Vectavir (Perrigo Sverige AB) | Kräm | Indikationstext saknas (indraget) |",
+   "replacement": "| 48482 | Vectatone (Perrigo Sverige AB) | Kräm | Indikationstext saknas |\n| 12824 | Vectavir (Perrigo Sverige AB) | Kräm | Indikationstext saknas |",
+   "summary": "Tabell: 2 godkännanden (48482, 12824) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 48482, 12824 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（48482, 12824）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-perampanel-1",
    "drug": "perampanel",
    "file": "perampanel.md",
@@ -7609,6 +8769,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”eftersom alla nuvarande godkännanden för denna produkt är indragna”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-perampanel-1",
+   "drug": "perampanel",
+   "file": "perampanel.md",
+   "action": "correct",
+   "claim": "| 65958 | Perampanel Vivanta | Filmdragerad tablett | Indragen |\n| 65957 | Perampanel Vivanta | Filmdragerad tablett | Indragen |\n| 65955 | Perampanel Vivanta | Filmdragerad tablett | Indragen |\n| 65954 | Perampanel Vivanta | Filmdragerad tablett | Indragen |\n| 65959 | Perampanel Vivanta | Filmdragerad tablett | Indragen |",
+   "replacement": "| 65958 | Perampanel Vivanta | Filmdragerad tablett | Godkänd |\n| 65957 | Perampanel Vivanta | Filmdragerad tablett | Godkänd |\n| 65955 | Perampanel Vivanta | Filmdragerad tablett | Godkänd |\n| 65954 | Perampanel Vivanta | Filmdragerad tablett | Godkänd |\n| 65959 | Perampanel Vivanta | Filmdragerad tablett | Godkänd |",
+   "summary": "Tabell: 5 godkännanden (65958, 65957, 65955, 65954, 65959) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 65958, 65957, 65955, 65954, 65959 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（65958, 65957, 65955, 65954, 65959）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-phenoxymethylpenicillin-1",
@@ -7834,6 +9014,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Produkten är dessutom indragen, och r”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-phenylpropanolamine-1",
+   "drug": "phenylpropanolamine",
+   "file": "phenylpropanolamine.md",
+   "action": "correct",
+   "claim": "| 9250 (indragen) | Rinexin | Depottablett | Ingen indikationstext registrerad |",
+   "replacement": "| 9250 | Rinexin | Depottablett | Ingen indikationstext registrerad |",
+   "summary": "Tabell: 1 godkännande (9250) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 9250 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（9250）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-phenytoin-1",
@@ -8440,6 +9640,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-prednicarbate-1",
+   "drug": "prednicarbate",
+   "file": "prednicarbate.md",
+   "action": "correct",
+   "claim": "| 52640 (indraget) | Prednikarbat GALEN | Salva | Ingen indikationstext tillgänglig |",
+   "replacement": "| 52640 | Prednikarbat GALEN | Salva | Ingen indikationstext tillgänglig |",
+   "summary": "Tabell: 1 godkännande (52640) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 52640 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（52640）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-prednisolone-1",
    "drug": "prednisolone",
    "file": "prednisolone.md",
@@ -8563,6 +9783,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Klargörande av varför alla svenska godkännanden är indragna, och om en ny godkännandeprocess skulle krävas”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-pregabalin-1",
+   "drug": "pregabalin",
+   "file": "pregabalin.md",
+   "action": "correct",
+   "claim": "| 51464 | Pregabalin Krka | Kapsel, hård | Ej angiven (indragen) |\n| 57195 | Pregabalin EQL Pharma | Kapsel, hård | Ej angiven (indragen) |\n| 63937 | Pregabalin Teva | Kapsel, hård | Ej angiven (indragen) |\n| 51454 | Pregabalin Teva | Kapsel, hård | Ej angiven (indragen) |\n| 68305 | Pregabalin CNX Therapeutics | Depottablett | Ej angiven (indragen) |",
+   "replacement": "| 51464 | Pregabalin Krka | Kapsel, hård | Ej angiven |\n| 57195 | Pregabalin EQL Pharma | Kapsel, hård | Ej angiven |\n| 63937 | Pregabalin Teva | Kapsel, hård | Ej angiven |\n| 51454 | Pregabalin Teva | Kapsel, hård | Ej angiven |\n| 68305 | Pregabalin CNX Therapeutics | Depottablett | Ej angiven |",
+   "summary": "Tabell: 5 godkännanden (51464, 57195, 63937, 51454, 68305) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 51464, 57195, 63937, 51454, 68305 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（51464, 57195, 63937, 51454, 68305）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-prilocaine-1",
@@ -8690,6 +9930,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-propafenone-1",
+   "drug": "propafenone",
+   "file": "propafenone.md",
+   "action": "correct",
+   "claim": "| 11309 (återkallat) | Rytmonorm | Filmdragerad tablett | Ingen indikationstext angiven |",
+   "replacement": "| 11309 | Rytmonorm | Filmdragerad tablett | Ingen indikationstext angiven |",
+   "summary": "Tabell: 1 godkännande (11309) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 11309 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（11309）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-propofol-1",
    "drug": "propofol",
    "file": "propofol.md",
@@ -8814,6 +10074,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Aktuell marknadsstatus, eftersom båda svenska godkännandena är indragna”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-pyrazinamide-1",
+   "drug": "pyrazinamide",
+   "file": "pyrazinamide.md",
+   "action": "correct",
+   "claim": "| 16663 | Rimcure | Filmdragerad tablett | Ingen indikationstext tillgänglig (indraget) |\n| 16899 | Rimstar | Filmdragerad tablett | Ingen indikationstext tillgänglig (indraget) |",
+   "replacement": "| 16663 | Rimcure | Filmdragerad tablett | Ingen indikationstext tillgänglig |\n| 16899 | Rimstar | Filmdragerad tablett | Ingen indikationstext tillgänglig |",
+   "summary": "Tabell: 2 godkännanden (16663, 16899) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 16663, 16899 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（16663, 16899）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-pyridostigmine-1",
@@ -8967,6 +10247,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-raltegravir-1",
+   "drug": "raltegravir",
+   "file": "raltegravir.md",
+   "action": "correct",
+   "claim": "| 67482 (återkallat) | Raltegravir Zentiva | Filmdragerad tablett | Ingen indikationstext tillgänglig |",
+   "replacement": "| 67482 | Raltegravir Zentiva | Filmdragerad tablett | Ingen indikationstext tillgänglig |",
+   "summary": "Tabell: 1 godkännande (67482) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 67482 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（67482）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-ramipril-1",
    "drug": "ramipril",
    "file": "ramipril.md",
@@ -9015,6 +10315,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”eftersom alla svenska godkännanden är indragna”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-ramipril-1",
+   "drug": "ramipril",
+   "file": "ramipril.md",
+   "action": "correct",
+   "claim": "| 44513 | Ramipril Krka | Tablett | Uppgift saknas (indraget) |\n| 47626 | Ramipril Teva | Tablett | Uppgift saknas (indraget) |\n| 63024 | Ramiliv | Tablett | Uppgift saknas (indraget) |\n| 41645 | Ramipril Aurobindo | Tablett | Uppgift saknas (indraget) |\n| 19685 | Ramipril HEXAL | Tablett | Uppgift saknas (indraget) |",
+   "replacement": "| 44513 | Ramipril Krka | Tablett | Uppgift saknas |\n| 47626 | Ramipril Teva | Tablett | Uppgift saknas |\n| 63024 | Ramiliv | Tablett | Uppgift saknas |\n| 41645 | Ramipril Aurobindo | Tablett | Uppgift saknas |\n| 19685 | Ramipril HEXAL | Tablett | Uppgift saknas |",
+   "summary": "Tabell: 5 godkännanden (44513, 47626, 63024, 41645, 19685) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 44513, 47626, 63024, 41645, 19685 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（44513, 47626, 63024, 41645, 19685）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-rifampicin-1",
@@ -9092,6 +10412,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-rifaximin-1",
+   "drug": "rifaximin",
+   "file": "rifaximin.md",
+   "action": "correct",
+   "claim": "| 66409 | Xifaxan (Medartuum AB) | Filmdragerad tablett | Indragen |\n| 46905 | Xifaxan (Norgine BV) | Filmdragerad tablett | Indragen |\n| 68417 | Xifaxan (2care4 ApS) | Filmdragerad tablett | Indragen |",
+   "replacement": "| 66409 | Xifaxan (Medartuum AB) | Filmdragerad tablett | Ej angiven |\n| 46905 | Xifaxan (Norgine BV) | Filmdragerad tablett | Ej angiven |\n| 68417 | Xifaxan (2care4 ApS) | Filmdragerad tablett | Ej angiven |",
+   "summary": "Tabell: 3 godkännanden (66409, 46905, 68417) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 66409, 46905, 68417 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 3 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（66409, 46905, 68417）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-risperidone-1",
    "drug": "risperidone",
    "file": "risperidone.md",
@@ -9140,6 +10480,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Dessutom är det enda svenska godkännandet indraget”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-ritonavir-1",
+   "drug": "ritonavir",
+   "file": "ritonavir.md",
+   "action": "correct",
+   "claim": "| 55055 | Ritonavir Accord (Accord Healthcare B.V.) | Filmdragerad tablett | Ingen indikationstext registrerad. Status: indraget |",
+   "replacement": "| 55055 | Ritonavir Accord (Accord Healthcare B.V.) | Filmdragerad tablett | Ingen indikationstext registrerad |",
+   "summary": "Tabell: 1 godkännande (55055) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 55055 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（55055）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-rivaroxaban-1",
@@ -9292,6 +10652,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-rotigotine-1",
+   "drug": "rotigotine",
+   "file": "rotigotine.md",
+   "action": "correct",
+   "claim": "| 66352 | Rotigotine Medical Valley | Depotplåster | Indragen |\n| 66349 | Rotigotine Medical Valley | Depotplåster | Indragen |\n| 66350 | Rotigotine Medical Valley | Depotplåster | Indragen |\n| 66348 | Rotigotine Medical Valley | Depotplåster | Indragen |\n| 66353 | Rotigotine Medical Valley | Depotplåster | Indragen |",
+   "replacement": "| 66352 | Rotigotine Medical Valley | Depotplåster | Godkänd |\n| 66349 | Rotigotine Medical Valley | Depotplåster | Godkänd |\n| 66350 | Rotigotine Medical Valley | Depotplåster | Godkänd |\n| 66348 | Rotigotine Medical Valley | Depotplåster | Godkänd |\n| 66353 | Rotigotine Medical Valley | Depotplåster | Godkänd |",
+   "summary": "Tabell: 5 godkännanden (66352, 66349, 66350, 66348, 66353) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 66352, 66349, 66350, 66348, 66353 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（66352, 66349, 66350, 66348, 66353）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-roxithromycin-1",
    "drug": "roxithromycin",
    "file": "roxithromycin.md",
@@ -9390,6 +10770,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Samtliga svenska godkännanden är indragna, och i”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-salbutamol-1",
+   "drug": "salbutamol",
+   "file": "salbutamol.md",
+   "action": "correct",
+   "claim": "| 12803 | Ventoline Diskus | Inhalationspulver, avdelad dos | Indragen |\n| 44737 | Salbutamol Sandoz | Inhalationsspray, suspension | Indragen |\n| 12324 | Airomir | Inhalationsspray, suspension | Indragen |\n| 13120 | Buventol Easyhaler | Inhalationspulver | Indragen |\n| 11088 | Ventoline | Lösning för nebulisator | Indragen |",
+   "replacement": "| 12803 | Ventoline Diskus | Inhalationspulver, avdelad dos | Godkänd |\n| 44737 | Salbutamol Sandoz | Inhalationsspray, suspension | Godkänd |\n| 12324 | Airomir | Inhalationsspray, suspension | Godkänd |\n| 13120 | Buventol Easyhaler | Inhalationspulver | Godkänd |\n| 11088 | Ventoline | Lösning för nebulisator | Godkänd |",
+   "summary": "Tabell: 5 godkännanden (12803, 44737, 12324, 13120, 11088) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 12803, 44737, 12324, 13120, 11088 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（12803, 44737, 12324, 13120, 11088）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-selegiline-1",
@@ -9492,6 +10892,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-sevoflurane-1",
+   "drug": "sevoflurane",
+   "file": "sevoflurane.md",
+   "action": "correct",
+   "claim": "| 64635 | Sevorane | Inhalationsånga, vätska | Orifarm AB | Indraget |\n| 60134 | Sevorane | Inhalationsånga, vätska | Orifarm AB | Indraget |\n| 22339 | Sevofluran Baxter | Inhalationsånga, vätska | Baxter Medical AB | Indraget |\n| 67689 | Sevorane | Inhalationsånga, vätska | Orifarm AB | Indraget |\n| 12332 | Sevorane | Inhalationsånga, vätska | AbbVie AB | Indraget |",
+   "replacement": "| 64635 | Sevorane | Inhalationsånga, vätska | Orifarm AB | Godkänd |\n| 60134 | Sevorane | Inhalationsånga, vätska | Orifarm AB | Godkänd |\n| 22339 | Sevofluran Baxter | Inhalationsånga, vätska | Baxter Medical AB | Godkänd |\n| 67689 | Sevorane | Inhalationsånga, vätska | Orifarm AB | Godkänd |\n| 12332 | Sevorane | Inhalationsånga, vätska | AbbVie AB | Godkänd |",
+   "summary": "Tabell: 5 godkännanden (64635, 60134, 22339, 67689, 12332) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 64635, 60134, 22339, 67689, 12332 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（64635, 60134, 22339, 67689, 12332）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-simvastatin-1",
    "drug": "simvastatin",
    "file": "simvastatin.md",
@@ -9590,6 +11010,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Dessutom är samtliga svenska godkännanden indragna”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-sorbitol-1",
+   "drug": "sorbitol",
+   "file": "sorbitol.md",
+   "action": "correct",
+   "claim": "| 10793 | Resulax | Rektallösning | Indragen |\n| 65612 | Dokusatnatrium/Sorbitol Evolan | Rektallösning | Indragen |\n| 6514 | Klyx | Rektallösning | Indragen |",
+   "replacement": "| 10793 | Resulax | Rektallösning | Godkänd |\n| 65612 | Dokusatnatrium/Sorbitol Evolan | Rektallösning | Godkänd |\n| 6514 | Klyx | Rektallösning | Godkänd |",
+   "summary": "Tabell: 3 godkännanden (10793, 65612, 6514) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 10793, 65612, 6514 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 3 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（10793, 65612, 6514）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-sotalol-1",
@@ -9693,6 +11133,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-spironolactone-1",
+   "drug": "spironolactone",
+   "file": "spironolactone.md",
+   "action": "correct",
+   "claim": "| 9578 | Spironolakton Orifarm | Tablett | Uppgift saknas (indraget) |\n| 53264 | Spironolactone Accord | Filmdragerad tablett | Uppgift saknas (indraget) |\n| 46492 | Spironolactone Orion | Tablett | Uppgift saknas (indraget) |\n| 9766 | Spironolakton Pfizer | Tablett | Uppgift saknas (indraget) |\n| 10238 | Spironolakton Orifarm | Tablett | Uppgift saknas (indraget) |",
+   "replacement": "| 9578 | Spironolakton Orifarm | Tablett | Uppgift saknas |\n| 53264 | Spironolactone Accord | Filmdragerad tablett | Uppgift saknas |\n| 46492 | Spironolactone Orion | Tablett | Uppgift saknas |\n| 9766 | Spironolakton Pfizer | Tablett | Uppgift saknas |\n| 10238 | Spironolakton Orifarm | Tablett | Uppgift saknas |",
+   "summary": "Tabell: 5 godkännanden (9578, 53264, 46492, 9766, 10238) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 9578, 53264, 46492, 9766, 10238 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（9578, 53264, 46492, 9766, 10238）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-sucralfate-1",
    "drug": "sucralfate",
    "file": "sucralfate.md",
@@ -9768,6 +11228,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-sucralfate-1",
+   "drug": "sucralfate",
+   "file": "sucralfate.md",
+   "action": "correct",
+   "claim": "| 63098 | Peptonorm | Tablett | Indraget |\n| 10007 | Andapsin | Tablett | Indraget |\n| 19751 | Andapsin | Oral suspension i dospåse | Indraget |\n| 10480 | Andapsin | Oral suspension | Indraget |",
+   "replacement": "| 63098 | Peptonorm | Tablett | Godkänd |\n| 10007 | Andapsin | Tablett | Godkänd |\n| 19751 | Andapsin | Oral suspension i dospåse | Godkänd |\n| 10480 | Andapsin | Oral suspension | Godkänd |",
+   "summary": "Tabell: 4 godkännanden (63098, 10007, 19751, 10480) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 63098, 10007, 19751, 10480 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 4 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（63098, 10007, 19751, 10480）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-sulbactam-1",
    "drug": "sulbactam",
    "file": "sulbactam.md",
@@ -9817,6 +11297,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”eftersom båda godkännandena är indragna”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-sulbactam-1",
+   "drug": "sulbactam",
+   "file": "sulbactam.md",
+   "action": "correct",
+   "claim": "| 65432 | Ampicillin/Sulbactam AptaPharma | Pulver till injektions-/infusionsvätska, lösning | Indikationstext saknas (indraget) |\n| 65431 | Ampicillin/Sulbactam AptaPharma | Pulver till injektions-/infusionsvätska, lösning | Indikationstext saknas (indraget) |",
+   "replacement": "| 65432 | Ampicillin/Sulbactam AptaPharma | Pulver till injektions-/infusionsvätska, lösning | Indikationstext saknas |\n| 65431 | Ampicillin/Sulbactam AptaPharma | Pulver till injektions-/infusionsvätska, lösning | Indikationstext saknas |",
+   "summary": "Tabell: 2 godkännanden (65432, 65431) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 65432, 65431 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（65432, 65431）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-sulfasalazine-1",
@@ -9994,6 +11494,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-tadalafil-1",
+   "drug": "tadalafil",
+   "file": "tadalafil.md",
+   "action": "correct",
+   "claim": "| 54479 | Tadalafil Krka | Filmdragerad tablett | Krka d.d., Novo mesto | Indragen |\n| 60561 | Tadalafil Jubilant | Filmdragerad tablett | Jubilant Pharmaceuticals nv | Indragen |\n| 66043 | Tadalafil Devatis | Filmdragerad tablett | Devatis GmbH | Indragen |\n| 50626 | Tadalafil Teva | Filmdragerad tablett | Teva Sweden AB | Indragen |\n| 52516 | Tadalafil Orion | Filmdragerad tablett | Orion Corporation | Indragen |",
+   "replacement": "| 54479 | Tadalafil Krka | Filmdragerad tablett | Krka d.d., Novo mesto | Godkänd |\n| 60561 | Tadalafil Jubilant | Filmdragerad tablett | Jubilant Pharmaceuticals nv | Godkänd |\n| 66043 | Tadalafil Devatis | Filmdragerad tablett | Devatis GmbH | Godkänd |\n| 50626 | Tadalafil Teva | Filmdragerad tablett | Teva Sweden AB | Godkänd |\n| 52516 | Tadalafil Orion | Filmdragerad tablett | Orion Corporation | Godkänd |",
+   "summary": "Tabell: 5 godkännanden (54479, 60561, 66043, 50626, 52516) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 54479, 60561, 66043, 50626, 52516 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（54479, 60561, 66043, 50626, 52516）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-tamsulosin-1",
    "drug": "tamsulosin",
    "file": "tamsulosin.md",
@@ -10042,6 +11562,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Klargöra marknadsstatus, eftersom båda godkännandena är indragna”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-tamsulosin-1",
+   "drug": "tamsulosin",
+   "file": "tamsulosin.md",
+   "action": "correct",
+   "claim": "| 53766 (indraget) | Tamicten | Kapsel med modifierad frisättning, hård | Ingen indikationstext registrerad |\n| 49635 (indraget) | Urizia | Tablett med modifierad frisättning | Ingen indikationstext registrerad |",
+   "replacement": "| 53766 | Tamicten | Kapsel med modifierad frisättning, hård | Ingen indikationstext registrerad |\n| 49635 | Urizia | Tablett med modifierad frisättning | Ingen indikationstext registrerad |",
+   "summary": "Tabell: 2 godkännanden (53766, 49635) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 53766, 49635 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（53766, 49635）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-tapentadol-1",
@@ -10296,6 +11836,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-tetrabenazine-1",
+   "drug": "tetrabenazine",
+   "file": "tetrabenazine.md",
+   "action": "correct",
+   "claim": "| 26919 | Tetmodis | Tablett | Indikationstext saknas (indragen) |\n| 19824 | Xenazine | Tablett | Indikationstext saknas (indragen) |",
+   "replacement": "| 26919 | Tetmodis | Tablett | Indikationstext saknas |\n| 19824 | Xenazine | Tablett | Indikationstext saknas |",
+   "summary": "Tabell: 2 godkännanden (26919, 19824) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 26919, 19824 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（26919, 19824）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-tetracaine-1",
    "drug": "tetracaine",
    "file": "tetracaine.md",
@@ -10319,6 +11879,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”då nuvarande godkännanden (ögondroppar, plåster) är indragna”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-tetracaine-1",
+   "drug": "tetracaine",
+   "file": "tetracaine.md",
+   "action": "correct",
+   "claim": "| 10080 | Tetrakain Bausch & Lomb | Ögondroppar, lösning i endosbehållare | Ingen indikationstext tillgänglig (indraget) |\n| 22468 | Rapydan | Medicinskt plåster | Ingen indikationstext tillgänglig (indraget) |\n| 57835 | Mekostest 36 | Plåster för provokationstest | Ingen indikationstext tillgänglig (indraget) |",
+   "replacement": "| 10080 | Tetrakain Bausch & Lomb | Ögondroppar, lösning i endosbehållare | Ingen indikationstext tillgänglig |\n| 22468 | Rapydan | Medicinskt plåster | Ingen indikationstext tillgänglig |\n| 57835 | Mekostest 36 | Plåster för provokationstest | Ingen indikationstext tillgänglig |",
+   "summary": "Tabell: 3 godkännanden (10080, 22468, 57835) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 10080, 22468, 57835 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 3 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（10080, 22468, 57835）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-thiopental-1",
@@ -10369,6 +11949,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Dessutom är samtliga svenska godkännanden indragna och säkerhetsunderlaget är ofullständigt”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-thiopental-1",
+   "drug": "thiopental",
+   "file": "thiopental.md",
+   "action": "correct",
+   "claim": "| 65868 | Tiopental Ebb | Pulver till injektionsvätska, lösning | Indragen |\n| 66413 | Tiopental Ebb | Pulver till injektionsvätska, lösning | Indragen |\n| 62051 | Thiopental Panpharma | Pulver till injektionsvätska, lösning | Indragen |\n| 61068 | Pentocur | Pulver till injektionsvätska, lösning | Indragen |\n| 65869 | Tiopental Ebb | Pulver till injektionsvätska, lösning | Indragen |",
+   "replacement": "| 65868 | Tiopental Ebb | Pulver till injektionsvätska, lösning | Ej angiven |\n| 66413 | Tiopental Ebb | Pulver till injektionsvätska, lösning | Ej angiven |\n| 62051 | Thiopental Panpharma | Pulver till injektionsvätska, lösning | Ej angiven |\n| 61068 | Pentocur | Pulver till injektionsvätska, lösning | Ej angiven |\n| 65869 | Tiopental Ebb | Pulver till injektionsvätska, lösning | Ej angiven |",
+   "summary": "Tabell: 5 godkännanden (65868, 66413, 62051, 61068, 65869) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 65868, 66413, 62051, 61068, 65869 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（65868, 66413, 62051, 61068, 65869）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-thymol-1",
@@ -10846,6 +12446,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-tranylcypromine-1",
+   "drug": "tranylcypromine",
+   "file": "tranylcypromine.md",
+   "action": "correct",
+   "claim": "| 66342 | Tranylcypromine Glenmark (Orifarm AB) | Filmdragerad tablett | Ingen indikationstext registrerad (indraget) |\n| 65529 | Tranylcypromine Glenmark (Medartuum AB) | Filmdragerad tablett | Ingen indikationstext registrerad (indraget) |\n| 59077 | Tranylcypromine Glenmark (Glenmark Arzneimittel GmbH) | Filmdragerad tablett | Ingen indikationstext registrerad (indraget) |\n| 64732 | Tranylcypromine Glenmark (Ebb Medical AB) | Filmdragerad tablett | Ingen indikationstext registrerad (indraget) |\n| 61456 | Abbonate (Abboxia AB) | Filmdragerad tablett | Ingen indikationstext registrerad (indraget) |",
+   "replacement": "| 66342 | Tranylcypromine Glenmark (Orifarm AB) | Filmdragerad tablett | Ingen indikationstext registrerad |\n| 65529 | Tranylcypromine Glenmark (Medartuum AB) | Filmdragerad tablett | Ingen indikationstext registrerad |\n| 59077 | Tranylcypromine Glenmark (Glenmark Arzneimittel GmbH) | Filmdragerad tablett | Ingen indikationstext registrerad |\n| 64732 | Tranylcypromine Glenmark (Ebb Medical AB) | Filmdragerad tablett | Ingen indikationstext registrerad |\n| 61456 | Abbonate (Abboxia AB) | Filmdragerad tablett | Ingen indikationstext registrerad |",
+   "summary": "Tabell: 5 godkännanden (66342, 65529, 59077, 64732, 61456) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 66342, 65529, 59077, 64732, 61456 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（66342, 65529, 59077, 64732, 61456）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-travoprost-1",
    "drug": "travoprost",
    "file": "travoprost.md",
@@ -10919,6 +12539,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”eftersom alla godkännanden är indragna”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-travoprost-1",
+   "drug": "travoprost",
+   "file": "travoprost.md",
+   "action": "correct",
+   "claim": "| 48021 | Travoprost STADA | Ögondroppar, lösning | Indragen |\n| 64362 | Trevicopto | Ögondroppar, lösning i endosbehållare | Indragen |\n| 48012 | Travoprost Medical Valley | Ögondroppar, lösning | Indragen |\n| 48062 | Travoprost Sandoz | Ögondroppar, lösning | Indragen |\n| 51223 | Bondulc | Ögondroppar, lösning | Indragen |",
+   "replacement": "| 48021 | Travoprost STADA | Ögondroppar, lösning | Godkänd |\n| 64362 | Trevicopto | Ögondroppar, lösning i endosbehållare | Godkänd |\n| 48012 | Travoprost Medical Valley | Ögondroppar, lösning | Godkänd |\n| 48062 | Travoprost Sandoz | Ögondroppar, lösning | Godkänd |\n| 51223 | Bondulc | Ögondroppar, lösning | Godkänd |",
+   "summary": "Tabell: 5 godkännanden (48021, 64362, 48012, 48062, 51223) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 48021, 64362, 48012, 48062, 51223 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（48021, 64362, 48012, 48062, 51223）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-treosulfan-1",
@@ -10996,6 +12636,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-tretinoin-1",
+   "drug": "tretinoin",
+   "file": "tretinoin.md",
+   "action": "correct",
+   "claim": "| 46193 | Acnatac (Viatris AB) | Gel | Indikationstext saknas; indraget |\n| 67791 | Acnatac (2care4 ApS) | Gel | Indikationstext saknas; indraget |\n| 65880 | Acnatac (2care4 ApS) | Gel | Indikationstext saknas; indraget |",
+   "replacement": "| 46193 | Acnatac (Viatris AB) | Gel | Indikationstext saknas |\n| 67791 | Acnatac (2care4 ApS) | Gel | Indikationstext saknas |\n| 65880 | Acnatac (2care4 ApS) | Gel | Indikationstext saknas |",
+   "summary": "Tabell: 3 godkännanden (46193, 67791, 65880) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 46193, 67791, 65880 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 3 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（46193, 67791, 65880）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-trifarotene-1",
    "drug": "trifarotene",
    "file": "trifarotene.md",
@@ -11019,6 +12679,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Dessutom är det enda svenska godkännandet indraget och den lokala administrationen ger låg systemisk exponering”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-trifarotene-1",
+   "drug": "trifarotene",
+   "file": "trifarotene.md",
+   "action": "correct",
+   "claim": "| 58467 | Aklief (Galderma Nordic AB) | Kräm | Indikationstext saknas (godkännandet är indraget) |",
+   "replacement": "| 58467 | Aklief (Galderma Nordic AB) | Kräm | Indikationstext saknas |",
+   "summary": "Tabell: 1 godkännande (58467) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 58467 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（58467）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-trimethoprim-1",
@@ -11446,6 +13126,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-warfarin-1",
+   "drug": "warfarin",
+   "file": "warfarin.md",
+   "action": "correct",
+   "claim": "| 6897 | Waran (Orifarm Healthcare A/S) | Tablett | Indikationstext saknas; indraget |\n| 42966 | Warfarin Orion (Orion Corporation) | Tablett | Indikationstext saknas; indraget |",
+   "replacement": "| 6897 | Waran (Orifarm Healthcare A/S) | Tablett | Indikationstext saknas |\n| 42966 | Warfarin Orion (Orion Corporation) | Tablett | Indikationstext saknas |",
+   "summary": "Tabell: 2 godkännanden (6897, 42966) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 6897, 42966 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（6897, 42966）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-xylitol-1",
    "drug": "xylitol",
    "file": "xylitol.md",
@@ -11469,6 +13169,26 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”och det enda svenska godkännandet är indraget”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-xylitol-1",
+   "drug": "xylitol",
+   "file": "xylitol.md",
+   "action": "correct",
+   "claim": "| 54736 (indragen) | Cardioplexol | Lösning för kardioplegi | Ingen indikationstext registrerad |",
+   "replacement": "| 54736 | Cardioplexol | Lösning för kardioplegi | Ingen indikationstext registrerad |",
+   "summary": "Tabell: 1 godkännande (54736) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 54736 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（54736）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-xylometazoline-1",
@@ -11521,6 +13241,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
   },
   {
+   "id": "se-row-20261112-zanamivir-1",
+   "drug": "zanamivir",
+   "file": "zanamivir.md",
+   "action": "correct",
+   "claim": "| 14997 | Relenza (GlaxoSmithKline AB) – indraget | Inhalationspulver, avdelad dos | Indikationstext saknas |",
+   "replacement": "| 14997 | Relenza (GlaxoSmithKline AB) | Inhalationspulver, avdelad dos | Indikationstext saknas |",
+   "summary": "Tabell: 1 godkännande (14997) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 14997 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（14997）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "se-lic-20261106-zidovudine-1",
    "drug": "zidovudine",
    "file": "zidovudine.md",
@@ -11545,6 +13285,26 @@
    "summary": "Borttaget: ”Båda godkännandena är indragna, så det finns för närvarande ingen aktiv marknadsförd zidovudinprodukt i Sverige”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）",
    "anchor": "Alla studier nedan är djurstudier. Resultaten sammanfattas utifrån de abstrakt som ingår i underlaget, och flera abstrakt är avkortade."
+  },
+  {
+   "id": "se-row-20261112-zidovudine-1",
+   "drug": "zidovudine",
+   "file": "zidovudine.md",
+   "action": "correct",
+   "claim": "| 11764 | Retrovir (ViiV Healthcare BV), indragen | Koncentrat till infusionsvätska, lösning | Ej angiven |\n| 11427 | Retrovir (ViiV Healthcare BV), indragen | Oral lösning | Ej angiven |",
+   "replacement": "| 11764 | Retrovir (ViiV Healthcare BV) | Koncentrat till infusionsvätska, lösning | Ej angiven |\n| 11427 | Retrovir (ViiV Healthcare BV) | Oral lösning | Ej angiven |",
+   "summary": "Tabell: 2 godkännanden (11764, 11427) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 11764, 11427 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（11764, 11427）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "se-lic-20261106-ziprasidone-1",
@@ -11695,6 +13455,226 @@
    "checked": "2026-11-06",
    "summary": "Borttaget: ”Klargöra läkemedelsformens och administreringsvägens förutsättningar, samt om en ny registrering krävs eftersom godkännandet är avregistrera”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）"
+  },
+  {
+   "id": "se-row-20261112-entecavir-1",
+   "drug": "entecavir",
+   "file": "entecavir.md",
+   "action": "correct",
+   "claim": "| 59213 | Entekavir Ebb | Filmdragerad tablett | Indraget |\n| 57766 | Entecavir Amarox | Filmdragerad tablett | Indraget |\n| 55066 | Entecavir Sandoz | Filmdragerad tablett | Indraget |\n| 57818 | Entecavir Medical Valley | Filmdragerad tablett | Indraget |\n| 55026 | Entecavir STADA | Filmdragerad tablett | Indraget |",
+   "replacement": "| 59213 | Entekavir Ebb | Filmdragerad tablett | Godkänd |\n| 57766 | Entecavir Amarox | Filmdragerad tablett | Godkänd |\n| 55066 | Entecavir Sandoz | Filmdragerad tablett | Godkänd |\n| 57818 | Entecavir Medical Valley | Filmdragerad tablett | Godkänd |\n| 55026 | Entecavir STADA | Filmdragerad tablett | Godkänd |",
+   "summary": "Tabell: 5 godkännanden (59213, 57766, 55066, 57818, 55026) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 59213, 57766, 55066, 57818, 55026 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（59213, 57766, 55066, 57818, 55026）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
+   "id": "se-row-20261112-febuxostat-1",
+   "drug": "febuxostat",
+   "file": "febuxostat.md",
+   "action": "correct",
+   "claim": "| 56645 | Febuxostat Accord (Accord Healthcare B.V.) | Filmdragerad tablett | Ingen indikationstext angiven (status: godkänd) |",
+   "replacement": "| 56645 | Febuxostat Accord (Accord Healthcare B.V.) | Filmdragerad tablett | Ingen indikationstext angiven (status: avregistrerad) |",
+   "summary": "Tabell: 56645 är avregistrerat, inte godkänt",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 56645 status Avregistrerad; tabellen angav det som godkänt. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把註冊狀態 Avregistrerad 的 56645 寫成 godkänd（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
+   "id": "se-row-20261112-felypressin-1",
+   "drug": "felypressin",
+   "file": "felypressin.md",
+   "action": "correct",
+   "claim": "| 10433 | Citanest Dental Octapressin | Injektionsvätska, lösning | Ingen indikationstext tillgänglig (status: indraget) |",
+   "replacement": "| 10433 | Citanest Dental Octapressin | Injektionsvätska, lösning | Ingen indikationstext tillgänglig (status: godkänd) |",
+   "summary": "Tabell: 1 godkännande (10433) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 10433 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（10433）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
+   "id": "se-row-20261112-flurbiprofen-1",
+   "drug": "flurbiprofen",
+   "file": "flurbiprofen.md",
+   "action": "correct",
+   "claim": "| 66438 | Flurbiprofen Stada | Munhålespray, lösning | Indragen |\n| 26284 | Strefen | Sugtablett | Indragen |\n| 45657 | Strefen Apelsin | Sugtablett | Indragen |\n| 58177 | Strefen Honung & Citron | Munhålespray, lösning | Indragen |\n| 56192 | Strefen Körsbär & Mint | Munhålespray, lösning | Indragen |",
+   "replacement": "| 66438 | Flurbiprofen Stada | Munhålespray, lösning | Godkänd |\n| 26284 | Strefen | Sugtablett | Godkänd |\n| 45657 | Strefen Apelsin | Sugtablett | Godkänd |\n| 58177 | Strefen Honung & Citron | Munhålespray, lösning | Godkänd |\n| 56192 | Strefen Körsbär & Mint | Munhålespray, lösning | Godkänd |",
+   "summary": "Tabell: 5 godkännanden (66438, 26284, 45657, 58177, 56192) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 66438, 26284, 45657, 58177, 56192 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（66438, 26284, 45657, 58177, 56192）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
+   "id": "se-row-20261112-glucagon-1",
+   "drug": "glucagon",
+   "file": "glucagon.md",
+   "action": "correct",
+   "claim": "| 8075-2 (avregistrerad) | Glucagon Novo Nordisk | Pulver och vätska till injektionsvätska, lösning i förfylld spruta | Ej angiven |\n| 8075-1 (avregistrerad) | Glucagon Novo Nordisk | Pulver och vätska till injektionsvätska, lösning | Ej angiven |",
+   "replacement": "| 8075-2 | Glucagon Novo Nordisk | Pulver och vätska till injektionsvätska, lösning i förfylld spruta | Ej angiven |\n| 8075-1 | Glucagon Novo Nordisk | Pulver och vätska till injektionsvätska, lösning | Ej angiven |",
+   "summary": "Tabell: 2 godkännanden (8075-2, 8075-1) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 8075-2, 8075-1 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 2 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（8075-2, 8075-1）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
+   "id": "se-row-20261112-ivabradine-1",
+   "drug": "ivabradine",
+   "file": "ivabradine.md",
+   "action": "correct",
+   "claim": "| 62662 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven (indragen) |\n| 53688 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven (indragen) |\n| 62663 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven (indragen) |\n| 53687 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven (indragen) |\n| 53641 | Ivabradin Krka | Filmdragerad tablett | Ej angiven (indragen) |",
+   "replacement": "| 62662 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven |\n| 53688 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven |\n| 62663 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven |\n| 53687 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven |\n| 53641 | Ivabradin Krka | Filmdragerad tablett | Ej angiven |",
+   "summary": "Tabell: 5 godkännanden (62662, 53688, 62663, 53687, 53641) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 62662, 53688, 62663, 53687, 53641 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 5 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（62662, 53688, 62663, 53687, 53641）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
+   "id": "se-row-20261112-lomustine-1",
+   "drug": "lomustine",
+   "file": "lomustine.md",
+   "action": "correct",
+   "claim": "| 9312 (indraget) | Lomustine Medac | Kapsel, hård | Indikationstext saknas |",
+   "replacement": "| 9312 | Lomustine Medac | Kapsel, hård | Indikationstext saknas |",
+   "summary": "Tabell: 1 godkännande (9312) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 9312 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（9312）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
+   "id": "se-row-20261112-mitomycin-1",
+   "drug": "mitomycin",
+   "file": "mitomycin.md",
+   "action": "correct",
+   "claim": "| 45894 | Mitomycin Substipharm | Pulver till injektions-/infusionsvätska, lösning | Indragen |\n| 45895 | Mitomycin Substipharm | Pulver och vätska till intravesikal lösning | Indragen |\n| 50421 | Mitomycin medac | Pulver och vätska till intravesikal lösning | Indragen |",
+   "replacement": "| 45894 | Mitomycin Substipharm | Pulver till injektions-/infusionsvätska, lösning | Godkänd |\n| 45895 | Mitomycin Substipharm | Pulver och vätska till intravesikal lösning | Godkänd |\n| 50421 | Mitomycin medac | Pulver och vätska till intravesikal lösning | Godkänd |",
+   "summary": "Tabell: 3 godkännanden (45894, 45895, 50421) är godkända, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 45894, 45895, 50421 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 3 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（45894, 45895, 50421）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
+   "id": "se-row-20261112-probenecid-1",
+   "drug": "probenecid",
+   "file": "probenecid.md",
+   "action": "correct",
+   "claim": "| 4522 | Probecid (Karo Pharma AB) | Tablett | Ingen indikationstext registrerad (godkännandet är indraget) |",
+   "replacement": "| 4522 | Probecid (Karo Pharma AB) | Tablett | Ingen indikationstext registrerad |",
+   "summary": "Tabell: 1 godkännande (4522) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 4522 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（4522）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
+   "id": "se-row-20261112-streptozocin-1",
+   "drug": "streptozocin",
+   "file": "streptozocin.md",
+   "action": "correct",
+   "claim": "| 53703 (indraget) | Zanosar | Pulver till koncentrat till infusionsvätska, lösning | Ej angiven |",
+   "replacement": "| 53703 | Zanosar | Pulver till koncentrat till infusionsvätska, lösning | Ej angiven |",
+   "summary": "Tabell: 1 godkännande (53703) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 53703 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（53703）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
+   "id": "se-row-20261112-vinblastine-1",
+   "drug": "vinblastine",
+   "file": "vinblastine.md",
+   "action": "correct",
+   "claim": "| 7042 | Velbe (STADA Nordic ApS) | Pulver till injektionsvätska, lösning | Indikationstext saknas (godkännandet är indraget) |",
+   "replacement": "| 7042 | Velbe (STADA Nordic ApS) | Pulver till injektionsvätska, lösning | Indikationstext saknas |",
+   "summary": "Tabell: 1 godkännande (7042) är godkänd, inte indragna",
+   "note": "Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 7042 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats.",
+   "finding": "表格把 1 張 Läkemedelsverket 註冊狀態 Godkänd 的許可（7042）寫成 indraget／avregistrerad／återkallat（事實層＝data-20261105-122312 的 lmv_registreringsstatus.json，2026-11-02 下載；抽樣 35 列對照證據包原始狀態一致）。只改狀態字，其他儲存格不動",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-02"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   }
  ]
 }

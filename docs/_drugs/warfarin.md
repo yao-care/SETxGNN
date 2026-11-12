@@ -96,8 +96,14 @@ Litteraturen består av tre små japanska fallrapporter från 1990–2001 utan k
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 6897 | Waran (Orifarm Healthcare A/S) | Tablett | Indikationstext saknas; indraget |
-| 42966 | Warfarin Orion (Orion Corporation) | Tablett | Indikationstext saknas; indraget |
+| 6897 | Waran (Orifarm Healthcare A/S) | Tablett | Indikationstext saknas |
+| 42966 | Warfarin Orion (Orion Corporation) | Tablett | Indikationstext saknas |
+
+<!-- review:begin se-row-20261112-warfarin-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”6897 / Waran (Orifarm Healthcare A/S) / Tablett / Indikationstext saknas; indraget; 42966 / Warfarin Orion (Orion Corporation) / Tablett / Indikationstext saknas; indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 6897, 42966 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-warfarin-1 -->
 
 Detta bör verifieras.
 
@@ -141,6 +147,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Verifiera marknadsstatus, eftersom båda godkännandena är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 2 godkännanden (6897, 42966) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

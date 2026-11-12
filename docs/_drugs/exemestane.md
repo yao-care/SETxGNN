@@ -102,11 +102,17 @@ Ingen indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----------|-----------|
-| 69036 | Exemestan Abacus Medicine | Filmdragerad tablett | Abacus Medicine A/S | Indragen |
-| 42037 | Exemestan Sandoz | Filmdragerad tablett | Sandoz A/S | Indragen |
-| 61689 | Exemestan Abacus Medicine | Filmdragerad tablett | Abacus Medicine A/S | Indragen |
-| 42036 | Exemestane Accord | Filmdragerad tablett | Accord Healthcare B.V. | Indragen |
-| 42212 | Exemestan Stada | Filmdragerad tablett | STADA Arzneimittel AG | Indragen |
+| 69036 | Exemestan Abacus Medicine | Filmdragerad tablett | Abacus Medicine A/S | Godkänd |
+| 42037 | Exemestan Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 61689 | Exemestan Abacus Medicine | Filmdragerad tablett | Abacus Medicine A/S | Godkänd |
+| 42036 | Exemestane Accord | Filmdragerad tablett | Accord Healthcare B.V. | Godkänd |
+| 42212 | Exemestan Stada | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+
+<!-- review:begin se-row-20261112-exemestane-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”69036 / Exemestan Abacus Medicine / Filmdragerad tablett / Abacus Medicine A/S / Indragen; 42037 / Exemestan Sandoz / Filmdragerad tablett / Sandoz A/S / Indragen; 61689 / Exemestan Abacus Medicine / Filmdragerad tablett / Abacus Medicine A/S / Indragen; 42036 / Exemestane Accord / Filmdragerad tablett / Accord Healthcare B.V. / Indragen; 42212 / Exemestan Stada / Filmdragerad tablett / STADA Arzneimittel AG / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 69036, 42037, 61689, 42036, 42212 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-exemestane-1 -->
 
 ---
 
@@ -165,6 +171,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga sju godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Samtliga godkännanden i Sverige är dessutom indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (69036, 42037, 61689, 42036, 42212) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

@@ -91,7 +91,13 @@ Den höga modellpoängen beror sannolikt på att läkemedel och sjukdom ligger n
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 56645 | Febuxostat Accord (Accord Healthcare B.V.) | Filmdragerad tablett | Ingen indikationstext angiven (status: godkänd) |
+| 56645 | Febuxostat Accord (Accord Healthcare B.V.) | Filmdragerad tablett | Ingen indikationstext angiven (status: avregistrerad) |
+
+<!-- review:begin se-row-20261112-febuxostat-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”56645 / Febuxostat Accord (Accord Healthcare B.V.) / Filmdragerad tablett / Ingen indikationstext angiven (status: godkänd)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 56645 status Avregistrerad; tabellen angav det som godkänt. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-febuxostat-1 -->
 
 ---
 
@@ -119,6 +125,19 @@ Säkerhetsuppgifter från produktresumén saknas i underlaget. Se produktresumé
 - Kontrollerade studier eller större fallserier som visar effekt och säkerhet.
 - Komplettering med varningar och kontraindikationer från produktresumén samt uppgifter om verkningsmekanism från DrugBank.
 - Klargörande av den regulatoriska statusen, eftersom det enda svenska godkännandet är avregistrerat.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-12 | Tabell: 56645 är avregistrerat, inte godkänt | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

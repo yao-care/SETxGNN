@@ -86,9 +86,15 @@ Bland de övriga högt rankade förutsägelserna (t.ex. artros) hittades två pu
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 46193 | Acnatac (Viatris AB) | Gel | Indikationstext saknas; indraget |
-| 67791 | Acnatac (2care4 ApS) | Gel | Indikationstext saknas; indraget |
-| 65880 | Acnatac (2care4 ApS) | Gel | Indikationstext saknas; indraget |
+| 46193 | Acnatac (Viatris AB) | Gel | Indikationstext saknas |
+| 67791 | Acnatac (2care4 ApS) | Gel | Indikationstext saknas |
+| 65880 | Acnatac (2care4 ApS) | Gel | Indikationstext saknas |
+
+<!-- review:begin se-row-20261112-tretinoin-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”46193 / Acnatac (Viatris AB) / Gel / Indikationstext saknas; indraget; 67791 / Acnatac (2care4 ApS) / Gel / Indikationstext saknas; indraget; 65880 / Acnatac (2care4 ApS) / Gel / Indikationstext saknas; indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 46193, 67791, 65880 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-tretinoin-1 -->
 
 Beredningsformen är topikal (gel).
 
@@ -148,6 +154,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla tre godkännanden är indragna, och b” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 3 godkännanden (46193, 67791, 65880) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

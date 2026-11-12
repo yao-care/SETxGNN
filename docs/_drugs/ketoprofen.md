@@ -82,7 +82,13 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 14912 | Siduro (Viatris AB) | Gel (kutan) | Indikationstext saknas; godkännandet är indraget |
+| 14912 | Siduro (Viatris AB) | Gel (kutan) | Indikationstext saknas |
+
+<!-- review:begin se-row-20261112-ketoprofen-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”14912 / Siduro (Viatris AB) / Gel (kutan) / Indikationstext saknas; godkännandet är indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 14912 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-ketoprofen-1 -->
 
 Det begränsar även den praktiska utvecklingen.
 
@@ -139,6 +145,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Det enda godkännandet i Sverige är indraget, så ingen ketoprofenprodukt är för närvarande marknadsförd enligt dessa data” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Det enda godkännandet i Sverige är dessutom indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 1 godkännande (14912) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

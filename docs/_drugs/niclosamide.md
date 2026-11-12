@@ -101,7 +101,13 @@ Alla studier nedan är prekliniska eller indirekta. Ingen RCT eller systematisk 
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 6938 (återkallat) | Yomesan (Bayer AB) | Tuggtablett | Ingen indikationstext tillgänglig |
+| 6938 | Yomesan (Bayer AB) | Tuggtablett | Ingen indikationstext tillgänglig |
+
+<!-- review:begin se-row-20261112-niclosamide-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”6938 (återkallat) / Yomesan (Bayer AB) / Tuggtablett / Ingen indikationstext tillgänglig” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 6938 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-niclosamide-1 -->
 
 ---
 
@@ -148,6 +154,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Niklosamid är ett avmaskningsmedel (Yomesan, tuggtablett) vars svenska godkännande är återkallat” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom är det enda svenska godkännandet återkallat” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 1 godkännande (6938) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

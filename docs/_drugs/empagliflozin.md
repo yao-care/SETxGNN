@@ -74,11 +74,17 @@ Andra förutsagda indikationer i modellen är klassiskt stelbensyndrom och opsis
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 67533 | Empagliflozin Labiana | Filmdragerad tablett | Indikationstext saknas (indraget) |
-| 67534 | Empagliflozin Labiana | Filmdragerad tablett | Indikationstext saknas (indraget) |
-| 66345 | Empagliflozin Devatis | Filmdragerad tablett | Indikationstext saknas (indraget) |
-| 65282 | Hynica | Filmdragerad tablett | Indikationstext saknas (indraget) |
-| 66346 | Empagliflozin Devatis | Filmdragerad tablett | Indikationstext saknas (indraget) |
+| 67533 | Empagliflozin Labiana | Filmdragerad tablett | Indikationstext saknas |
+| 67534 | Empagliflozin Labiana | Filmdragerad tablett | Indikationstext saknas |
+| 66345 | Empagliflozin Devatis | Filmdragerad tablett | Indikationstext saknas |
+| 65282 | Hynica | Filmdragerad tablett | Indikationstext saknas |
+| 66346 | Empagliflozin Devatis | Filmdragerad tablett | Indikationstext saknas |
+
+<!-- review:begin se-row-20261112-empagliflozin-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”67533 / Empagliflozin Labiana / Filmdragerad tablett / Indikationstext saknas (indraget); 67534 / Empagliflozin Labiana / Filmdragerad tablett / Indikationstext saknas (indraget); 66345 / Empagliflozin Devatis / Filmdragerad tablett / Indikationstext saknas (indraget); 65282 / Hynica / Filmdragerad tablett / Indikationstext saknas (indraget); 66346 / Empagliflozin Devatis / Filmdragerad tablett / Indikationstext saknas (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 67533, 67534, 66345, 65282, 66346 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-empagliflozin-1 -->
 
 Det sjätte (65281, Hynica, Adalvo Limited) visas inte i tabellen eftersom högst 5 listas.
 
@@ -137,6 +143,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Totalt finns 6 godkännanden, alla indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Klargöra marknadsstatus, eftersom inget godkännande för närvarande är giltigt i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (67533, 67534, 66345, 65282, 66346) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

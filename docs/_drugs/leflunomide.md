@@ -78,8 +78,14 @@ Sambandet är dock svagt. Brakydaktyli-syndaktyli-syndrom är en medfödd utveck
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 54935 | Leflunomid Bluefish | Filmdragerad tablett | Ingen indikationstext tillgänglig (indraget) |
-| 54934 | Leflunomid Bluefish | Filmdragerad tablett | Ingen indikationstext tillgänglig (indraget) |
+| 54935 | Leflunomid Bluefish | Filmdragerad tablett | Ingen indikationstext tillgänglig |
+| 54934 | Leflunomid Bluefish | Filmdragerad tablett | Ingen indikationstext tillgänglig |
+
+<!-- review:begin se-row-20261112-leflunomide-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”54935 / Leflunomid Bluefish / Filmdragerad tablett / Ingen indikationstext tillgänglig (indraget); 54934 / Leflunomid Bluefish / Filmdragerad tablett / Ingen indikationstext tillgänglig (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 54935, 54934 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-leflunomide-1 -->
 
 ---
 
@@ -130,6 +136,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Båda godkännandena tillhör Bluefish Pharmaceuticals AB och är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 2 godkännanden (54935, 54934) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

@@ -86,11 +86,17 @@ Flurbiprofen har 7 giltiga godkännanden i Sverige.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 66438 | Flurbiprofen Stada | Munhålespray, lösning | Indragen |
-| 26284 | Strefen | Sugtablett | Indragen |
-| 45657 | Strefen Apelsin | Sugtablett | Indragen |
-| 58177 | Strefen Honung & Citron | Munhålespray, lösning | Indragen |
-| 56192 | Strefen Körsbär & Mint | Munhålespray, lösning | Indragen |
+| 66438 | Flurbiprofen Stada | Munhålespray, lösning | Godkänd |
+| 26284 | Strefen | Sugtablett | Godkänd |
+| 45657 | Strefen Apelsin | Sugtablett | Godkänd |
+| 58177 | Strefen Honung & Citron | Munhålespray, lösning | Godkänd |
+| 56192 | Strefen Körsbär & Mint | Munhålespray, lösning | Godkänd |
+
+<!-- review:begin se-row-20261112-flurbiprofen-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”66438 / Flurbiprofen Stada / Munhålespray, lösning / Indragen; 26284 / Strefen / Sugtablett / Indragen; 45657 / Strefen Apelsin / Sugtablett / Indragen; 58177 / Strefen Honung & Citron / Munhålespray, lösning / Indragen; 56192 / Strefen Körsbär & Mint / Munhålespray, lösning / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 66438, 26284, 45657, 58177, 56192 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-flurbiprofen-1 -->
 
 ---
 
@@ -120,6 +126,18 @@ Produktresumédata för varningar och kontraindikationer saknas i de sammanstäl
 - Publicerade studier eller fallrapporter om flurbiprofen vid sjukdomen
 - Komplett produktresumédata om varningar och kontraindikationer
 - Detaljerad verkningsmekanismdata
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-12 | Tabell: 5 godkännanden (66438, 26284, 45657, 58177, 56192) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

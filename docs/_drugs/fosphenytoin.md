@@ -88,9 +88,15 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 14441 | Pro-Epanutin (Pfizer AB) | Koncentrat till infusionsvätska, lösning/injektionsvätska, lösning | Uppgift saknas (indraget) |
-| 63732 | Pro-Epanutin (Orifarm AB) | Koncentrat till infusionsvätska, lösning/injektionsvätska, lösning | Uppgift saknas (indraget) |
-| 58390 | Pro-Epanutin (Orifarm AB) | Koncentrat till infusionsvätska, lösning/injektionsvätska, lösning | Uppgift saknas (indraget) |
+| 14441 | Pro-Epanutin (Pfizer AB) | Koncentrat till infusionsvätska, lösning/injektionsvätska, lösning | Uppgift saknas |
+| 63732 | Pro-Epanutin (Orifarm AB) | Koncentrat till infusionsvätska, lösning/injektionsvätska, lösning | Uppgift saknas |
+| 58390 | Pro-Epanutin (Orifarm AB) | Koncentrat till infusionsvätska, lösning/injektionsvätska, lösning | Uppgift saknas |
+
+<!-- review:begin se-row-20261112-fosphenytoin-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”14441 / Pro-Epanutin (Pfizer AB) / Koncentrat till infusionsvätska, lösning/injektionsvätska, lösning / Uppgift saknas (indraget); 63732 / Pro-Epanutin (Orifarm AB) / Koncentrat till infusionsvätska, lösning/injektionsvätska, lösning / Uppgift saknas (indraget); 58390 / Pro-Epanutin (Orifarm AB) / Koncentrat till infusionsvätska, lösning/injektionsvätska, lösning / Uppgift saknas (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 14441, 63732, 58390 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-fosphenytoin-1 -->
 
 ---
 
@@ -143,6 +149,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”amtliga svenska godkännanden är dessutom indragna, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”då inget godkännande är giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 3 godkännanden (14441, 63732, 58390) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

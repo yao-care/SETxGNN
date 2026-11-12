@@ -92,11 +92,17 @@ Godkänd indikationstext saknas för samtliga. Tabellen visar fem av godkännand
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|------|------|
-| 63789 | Midodrine Tillomed | Tablett | Tillomed Pharma GmbH | Indraget |
-| 64227 | Midodrin Zentiva | Tablett | Zentiva k.s. | Indraget |
-| 56761 | Hypotron | Tablett | Brancaster Pharma Ireland Ltd. | Indraget |
-| 65096 | Midodrine Medical Valley | Tablett | Medical Valley Invest AB | Indraget |
-| 62174 | Augermid | Tablett | Aspire Pharma (Malta) Limited | Indraget |
+| 63789 | Midodrine Tillomed | Tablett | Tillomed Pharma GmbH | Godkänd |
+| 64227 | Midodrin Zentiva | Tablett | Zentiva k.s. | Godkänd |
+| 56761 | Hypotron | Tablett | Brancaster Pharma Ireland Ltd. | Godkänd |
+| 65096 | Midodrine Medical Valley | Tablett | Medical Valley Invest AB | Godkänd |
+| 62174 | Augermid | Tablett | Aspire Pharma (Malta) Limited | Godkänd |
+
+<!-- review:begin se-row-20261112-midodrine-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”63789 / Midodrine Tillomed / Tablett / Tillomed Pharma GmbH / Indraget; 64227 / Midodrin Zentiva / Tablett / Zentiva k.s. / Indraget; 56761 / Hypotron / Tablett / Brancaster Pharma Ireland Ltd. / Indraget; 65096 / Midodrine Medical Valley / Tablett / Medical Valley Invest AB / Indraget; 62174 / Augermid / Tablett / Aspire Pharma (Malta) Limited / Indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 63789, 64227, 56761, 65096, 62174 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-midodrine-1 -->
 
 ---
 
@@ -150,6 +156,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Alla 15 godkännanden är indragna, och inget giltigt godkännande finns i de data som sammanställts för rapporten” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (63789, 64227, 56761, 65096, 62174) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

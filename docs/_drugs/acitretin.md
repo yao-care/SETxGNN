@@ -102,11 +102,17 @@ Underlaget består i huvudsak av riktlinjer, översikter och en fallrapport. Ing
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 60846 | Neotigason (Abacus Medicine A/S) | Kapsel, hård | Ej angiven (indraget) |
-| 53203 | Acitretin Orifarm (Orifarm Generics A/S) | Kapsel, hård | Ej angiven (indraget) |
-| 12742 | Neotigason (Actavis Group PTC ehf.) | Kapsel, hård | Ej angiven (indraget) |
-| 12743 | Neotigason (Actavis Group PTC ehf.) | Kapsel, hård | Ej angiven (indraget) |
-| 53202 | Acitretin Orifarm (Orifarm Generics A/S) | Kapsel, hård | Ej angiven (indraget) |
+| 60846 | Neotigason (Abacus Medicine A/S) | Kapsel, hård | Ej angiven |
+| 53203 | Acitretin Orifarm (Orifarm Generics A/S) | Kapsel, hård | Ej angiven |
+| 12742 | Neotigason (Actavis Group PTC ehf.) | Kapsel, hård | Ej angiven |
+| 12743 | Neotigason (Actavis Group PTC ehf.) | Kapsel, hård | Ej angiven |
+| 53202 | Acitretin Orifarm (Orifarm Generics A/S) | Kapsel, hård | Ej angiven |
+
+<!-- review:begin se-row-20261112-acitretin-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”60846 / Neotigason (Abacus Medicine A/S) / Kapsel, hård / Ej angiven (indraget); 53203 / Acitretin Orifarm (Orifarm Generics A/S) / Kapsel, hård / Ej angiven (indraget); 12742 / Neotigason (Actavis Group PTC ehf.) / Kapsel, hård / Ej angiven (indraget); 12743 / Neotigason (Actavis Group PTC ehf.) / Kapsel, hård / Ej angiven (indraget); 53202 / Acitretin Orifarm (Orifarm Generics A/S) / Kapsel, hård / Ej angiven (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 60846, 53203, 12742, 12743, 53202 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-acitretin-1 -->
 
 ---
 
@@ -152,6 +158,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Läkemedlets fosterskadande effekt och övriga säkerhetsrisker, samt att alla svenska godkännanden är indragna, talar för försiktighet” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (60846, 53203, 12742, 12743, 53202) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

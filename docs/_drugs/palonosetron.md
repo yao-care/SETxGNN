@@ -84,11 +84,17 @@ En översikt från 2026 om QT-förlängning vid antiemetika ([42748473](https://
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 52912 | Palonosetron Reig Jofre | Injektionsvätska, lösning | Indragen |
-| 52932 | Palonosetron Fresenius Kabi | Injektionsvätska, lösning | Indragen |
-| 61378 | Palonosetron Kalceks | Injektionsvätska, lösning | Indragen |
-| 52849 | FERANT | Injektionsvätska, lösning | Indragen |
-| 52834 | Palonosetron STADA | Injektionsvätska, lösning | Indragen |
+| 52912 | Palonosetron Reig Jofre | Injektionsvätska, lösning | Godkänd |
+| 52932 | Palonosetron Fresenius Kabi | Injektionsvätska, lösning | Godkänd |
+| 61378 | Palonosetron Kalceks | Injektionsvätska, lösning | Godkänd |
+| 52849 | FERANT | Injektionsvätska, lösning | Godkänd |
+| 52834 | Palonosetron STADA | Injektionsvätska, lösning | Godkänd |
+
+<!-- review:begin se-row-20261112-palonosetron-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”52912 / Palonosetron Reig Jofre / Injektionsvätska, lösning / Indragen; 52932 / Palonosetron Fresenius Kabi / Injektionsvätska, lösning / Indragen; 61378 / Palonosetron Kalceks / Injektionsvätska, lösning / Indragen; 52849 / FERANT / Injektionsvätska, lösning / Indragen; 52834 / Palonosetron STADA / Injektionsvätska, lösning / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 52912, 52932, 61378, 52849, 52834 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-palonosetron-1 -->
 
 Inga indikationstexter finns registrerade.
 
@@ -142,6 +148,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Ytterligare ett godkännande (52850, Palonosetron Macure) finns, också indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (52912, 52932, 61378, 52849, 52834) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

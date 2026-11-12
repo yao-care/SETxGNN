@@ -94,11 +94,17 @@ Indikationstext saknas i alla poster. Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 9578 | Spironolakton Orifarm | Tablett | Uppgift saknas (indraget) |
-| 53264 | Spironolactone Accord | Filmdragerad tablett | Uppgift saknas (indraget) |
-| 46492 | Spironolactone Orion | Tablett | Uppgift saknas (indraget) |
-| 9766 | Spironolakton Pfizer | Tablett | Uppgift saknas (indraget) |
-| 10238 | Spironolakton Orifarm | Tablett | Uppgift saknas (indraget) |
+| 9578 | Spironolakton Orifarm | Tablett | Uppgift saknas |
+| 53264 | Spironolactone Accord | Filmdragerad tablett | Uppgift saknas |
+| 46492 | Spironolactone Orion | Tablett | Uppgift saknas |
+| 9766 | Spironolakton Pfizer | Tablett | Uppgift saknas |
+| 10238 | Spironolakton Orifarm | Tablett | Uppgift saknas |
+
+<!-- review:begin se-row-20261112-spironolactone-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”9578 / Spironolakton Orifarm / Tablett / Uppgift saknas (indraget); 53264 / Spironolactone Accord / Filmdragerad tablett / Uppgift saknas (indraget); 46492 / Spironolactone Orion / Tablett / Uppgift saknas (indraget); 9766 / Spironolakton Pfizer / Tablett / Uppgift saknas (indraget); 10238 / Spironolakton Orifarm / Tablett / Uppgift saknas (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 9578, 53264, 46492, 9766, 10238 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-spironolactone-1 -->
 
 ---
 
@@ -145,6 +151,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 12 godkännanden för enkomponentsprodukter är indragna, och inget giltigt godkännande finns” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Alla svenska godkännanden är dessutom indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (9578, 53264, 46492, 9766, 10238) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

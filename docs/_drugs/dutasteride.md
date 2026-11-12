@@ -78,10 +78,16 @@ Utan stödjande studier ska poängen tolkas med stor försiktighet.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 17872 | Duagen | Kapsel, mjuk | Ingen indikationstext angiven (indraget) |
-| 52816 | Dutasteride Medical Valley | Kapsel, mjuk | Ingen indikationstext angiven (indraget) |
-| 58312 | Avodart | Kapsel, mjuk | Ingen indikationstext angiven (indraget) |
-| 17871 | Avodart | Kapsel, mjuk | Ingen indikationstext angiven (indraget) |
+| 17872 | Duagen | Kapsel, mjuk | Ingen indikationstext angiven |
+| 52816 | Dutasteride Medical Valley | Kapsel, mjuk | Ingen indikationstext angiven |
+| 58312 | Avodart | Kapsel, mjuk | Ingen indikationstext angiven |
+| 17871 | Avodart | Kapsel, mjuk | Ingen indikationstext angiven |
+
+<!-- review:begin se-row-20261112-dutasteride-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”17872 / Duagen / Kapsel, mjuk / Ingen indikationstext angiven (indraget); 52816 / Dutasteride Medical Valley / Kapsel, mjuk / Ingen indikationstext angiven (indraget); 58312 / Avodart / Kapsel, mjuk / Ingen indikationstext angiven (indraget); 17871 / Avodart / Kapsel, mjuk / Ingen indikationstext angiven (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 17872, 52816, 58312, 17871 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-dutasteride-1 -->
 
 ---
 
@@ -141,6 +147,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Alla fyra godkännanden är indragna. För närvarande finns alltså inget giltigt godkännande för dutasterid i Sverige enligt underlaget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom inget giltigt godkännande finns i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 4 godkännanden (17872, 52816, 58312, 17871) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

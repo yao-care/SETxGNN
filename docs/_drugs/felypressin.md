@@ -79,7 +79,13 @@ Flera av dessa har identiska poäng, vilket tyder på en generell grafeffekt sna
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 10433 | Citanest Dental Octapressin | Injektionsvätska, lösning | Ingen indikationstext tillgänglig (status: indraget) |
+| 10433 | Citanest Dental Octapressin | Injektionsvätska, lösning | Ingen indikationstext tillgänglig (status: godkänd) |
+
+<!-- review:begin se-row-20261112-felypressin-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”10433 / Citanest Dental Octapressin / Injektionsvätska, lösning / Ingen indikationstext tillgänglig (status: indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 10433 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-felypressin-1 -->
 
 Tillverkare: Dentsply DeTrey GmbH.
 
@@ -108,6 +114,19 @@ Observera att som vasokonstriktor (V1a-agonist) kan felypressin teoretiskt förs
 - Genomföra en litteratur- och prövningssökning för vasopressinreceptorer och bämetabolism (benmetabolism) samt läkemedelsinducerad osteoporos.
 - Utreda prekliniskt om V1a-agonism har en biologiskt rimlig effekt på benvävnad.
 - Klargöra administreringsväg, eftersom nuvarande beredning är en lokal injektionsvätska för tandvård.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-12 | Tabell: 1 godkännande (10433) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

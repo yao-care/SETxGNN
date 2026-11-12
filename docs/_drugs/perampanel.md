@@ -93,11 +93,17 @@ Indikationstext saknas i godkännandedata.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 65958 | Perampanel Vivanta | Filmdragerad tablett | Indragen |
-| 65957 | Perampanel Vivanta | Filmdragerad tablett | Indragen |
-| 65955 | Perampanel Vivanta | Filmdragerad tablett | Indragen |
-| 65954 | Perampanel Vivanta | Filmdragerad tablett | Indragen |
-| 65959 | Perampanel Vivanta | Filmdragerad tablett | Indragen |
+| 65958 | Perampanel Vivanta | Filmdragerad tablett | Godkänd |
+| 65957 | Perampanel Vivanta | Filmdragerad tablett | Godkänd |
+| 65955 | Perampanel Vivanta | Filmdragerad tablett | Godkänd |
+| 65954 | Perampanel Vivanta | Filmdragerad tablett | Godkänd |
+| 65959 | Perampanel Vivanta | Filmdragerad tablett | Godkänd |
+
+<!-- review:begin se-row-20261112-perampanel-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”65958 / Perampanel Vivanta / Filmdragerad tablett / Indragen; 65957 / Perampanel Vivanta / Filmdragerad tablett / Indragen; 65955 / Perampanel Vivanta / Filmdragerad tablett / Indragen; 65954 / Perampanel Vivanta / Filmdragerad tablett / Indragen; 65959 / Perampanel Vivanta / Filmdragerad tablett / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 65958, 65957, 65955, 65954, 65959 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-perampanel-1 -->
 
 Tillverkare: Vivanta Generics s.r.o.
 
@@ -181,6 +187,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Ytterligare ett godkännande (65956) är också indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom alla nuvarande godkännanden för denna produkt är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (65958, 65957, 65955, 65954, 65959) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

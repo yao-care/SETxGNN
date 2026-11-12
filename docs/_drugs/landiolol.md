@@ -87,8 +87,14 @@ Sambandet mellan den ursprungliga och den nya indikationen är därför svagt oc
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation | Status |
 |---------|------|------|-----------|------|
-| 52381 | Rapibloc | Pulver till infusionsvätska, lösning | Ingen indikationstext registrerad | Indragen |
-| 52383 | Rapibloc | Koncentrat till injektionsvätska, lösning | Ingen indikationstext registrerad | Indragen |
+| 52381 | Rapibloc | Pulver till infusionsvätska, lösning | Ingen indikationstext registrerad | Godkänd |
+| 52383 | Rapibloc | Koncentrat till injektionsvätska, lösning | Ingen indikationstext registrerad | Godkänd |
+
+<!-- review:begin se-row-20261112-landiolol-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”52381 / Rapibloc / Pulver till infusionsvätska, lösning / Ingen indikationstext registrerad / Indragen; 52383 / Rapibloc / Koncentrat till injektionsvätska, lösning / Ingen indikationstext registrerad / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 52381, 52383 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-landiolol-1 -->
 
 ---
 
@@ -129,6 +135,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Båda godkännandena innehas av Amomed Pharma GmbH och är indragna. Det finns därför inget giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Ta hänsyn till att alla svenska godkännanden är indragna när eventuell fortsatt utvärdering övervägs” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 2 godkännanden (52381, 52383) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

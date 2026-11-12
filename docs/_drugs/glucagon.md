@@ -96,8 +96,14 @@ Litteraturen gäller GLP-1 eller IBS i allmänhet, inte glukagon vid IBS.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 8075-2 (avregistrerad) | Glucagon Novo Nordisk | Pulver och vätska till injektionsvätska, lösning i förfylld spruta | Ej angiven |
-| 8075-1 (avregistrerad) | Glucagon Novo Nordisk | Pulver och vätska till injektionsvätska, lösning | Ej angiven |
+| 8075-2 | Glucagon Novo Nordisk | Pulver och vätska till injektionsvätska, lösning i förfylld spruta | Ej angiven |
+| 8075-1 | Glucagon Novo Nordisk | Pulver och vätska till injektionsvätska, lösning | Ej angiven |
+
+<!-- review:begin se-row-20261112-glucagon-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”8075-2 (avregistrerad) / Glucagon Novo Nordisk / Pulver och vätska till injektionsvätska, lösning i förfylld spruta / Ej angiven; 8075-1 (avregistrerad) / Glucagon Novo Nordisk / Pulver och vätska till injektionsvätska, lösning / Ej angiven” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 8075-2, 8075-1 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-glucagon-1 -->
 
 Båda godkännandena är giltiga och innehas av Novo Nordisk A/S.
 
@@ -122,6 +128,18 @@ För varningar och kontraindikationer, se produktresumén.
 - Prekliniska eller kliniska studier som direkt testar glukagon vid irritabelt tarmsyndrom, helst vid den förstoppningsdominerade formen.
 - Belägg för att glukagonreceptoraktivering ger en motsvarande effekt på tarmens rörlighet och smärta som GLP-1-systemet.
 - Fullständig verkningsmekanismdata samt varningar och kontraindikationer från produktresumén.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-12 | Tabell: 2 godkännanden (8075-2, 8075-1) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

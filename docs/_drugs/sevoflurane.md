@@ -78,11 +78,17 @@ Indikationstexten saknas i de data som sammanställts.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----|-----------|
-| 64635 | Sevorane | Inhalationsånga, vätska | Orifarm AB | Indraget |
-| 60134 | Sevorane | Inhalationsånga, vätska | Orifarm AB | Indraget |
-| 22339 | Sevofluran Baxter | Inhalationsånga, vätska | Baxter Medical AB | Indraget |
-| 67689 | Sevorane | Inhalationsånga, vätska | Orifarm AB | Indraget |
-| 12332 | Sevorane | Inhalationsånga, vätska | AbbVie AB | Indraget |
+| 64635 | Sevorane | Inhalationsånga, vätska | Orifarm AB | Godkänd |
+| 60134 | Sevorane | Inhalationsånga, vätska | Orifarm AB | Godkänd |
+| 22339 | Sevofluran Baxter | Inhalationsånga, vätska | Baxter Medical AB | Godkänd |
+| 67689 | Sevorane | Inhalationsånga, vätska | Orifarm AB | Godkänd |
+| 12332 | Sevorane | Inhalationsånga, vätska | AbbVie AB | Godkänd |
+
+<!-- review:begin se-row-20261112-sevoflurane-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”64635 / Sevorane / Inhalationsånga, vätska / Orifarm AB / Indraget; 60134 / Sevorane / Inhalationsånga, vätska / Orifarm AB / Indraget; 22339 / Sevofluran Baxter / Inhalationsånga, vätska / Baxter Medical AB / Indraget; 67689 / Sevorane / Inhalationsånga, vätska / Orifarm AB / Indraget; 12332 / Sevorane / Inhalationsånga, vätska / AbbVie AB / Indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 64635, 60134, 22339, 67689, 12332 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-sevoflurane-1 -->
 
 ---
 
@@ -146,6 +152,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla sex godkännanden är indragna och inget är i dagsläget giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna, och läkemedlets användning som narkosgas passar dåligt för en kronisk kärlsjukdom” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (64635, 60134, 22339, 67689, 12332) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

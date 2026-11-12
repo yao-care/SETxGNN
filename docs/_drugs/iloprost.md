@@ -70,9 +70,15 @@ Det enda tänkbara sambandet är att förbättrad blodcirkulation i hårbotten t
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 65495 | Iloprost Waymade | Koncentrat till infusionsvätska, lösning | Indraget |
-| 65496 | Iloprost Waymade | Koncentrat till infusionsvätska, lösning | Indraget |
-| 13677 | Ilomedin (Bayer AB) | Koncentrat till infusionsvätska, lösning | Indraget |
+| 65495 | Iloprost Waymade | Koncentrat till infusionsvätska, lösning | Godkänd |
+| 65496 | Iloprost Waymade | Koncentrat till infusionsvätska, lösning | Godkänd |
+| 13677 | Ilomedin (Bayer AB) | Koncentrat till infusionsvätska, lösning | Godkänd |
+
+<!-- review:begin se-row-20261112-iloprost-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”65495 / Iloprost Waymade / Koncentrat till infusionsvätska, lösning / Indraget; 65496 / Iloprost Waymade / Koncentrat till infusionsvätska, lösning / Indraget; 13677 / Ilomedin (Bayer AB) / Koncentrat till infusionsvätska, lösning / Indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 65495, 65496, 13677 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-iloprost-1 -->
 
 Inget av godkännandena har någon registrerad indikationstext i de data som sammanställts för rapporten.
 
@@ -126,6 +132,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”och läkemedlet har inga gällande godkännanden i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 3 godkännanden (65495, 65496, 13677) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

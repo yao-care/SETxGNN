@@ -84,9 +84,15 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 66409 | Xifaxan (Medartuum AB) | Filmdragerad tablett | Indragen |
-| 46905 | Xifaxan (Norgine BV) | Filmdragerad tablett | Indragen |
-| 68417 | Xifaxan (2care4 ApS) | Filmdragerad tablett | Indragen |
+| 66409 | Xifaxan (Medartuum AB) | Filmdragerad tablett | Ej angiven |
+| 46905 | Xifaxan (Norgine BV) | Filmdragerad tablett | Ej angiven |
+| 68417 | Xifaxan (2care4 ApS) | Filmdragerad tablett | Ej angiven |
+
+<!-- review:begin se-row-20261112-rifaximin-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”66409 / Xifaxan (Medartuum AB) / Filmdragerad tablett / Indragen; 46905 / Xifaxan (Norgine BV) / Filmdragerad tablett / Indragen; 68417 / Xifaxan (2care4 ApS) / Filmdragerad tablett / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 66409, 46905, 68417 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-rifaximin-1 -->
 
 Ingen indikationstext finns tillgänglig.
 
@@ -132,6 +138,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla tre godkännanden är indragna, och i” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 3 godkännanden (66409, 46905, 68417) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

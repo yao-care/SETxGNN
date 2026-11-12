@@ -72,9 +72,15 @@ Ett samband skulle i så fall vara spekulativt, till exempel en hypotetisk osmot
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 10793 | Resulax | Rektallösning | Indragen |
-| 65612 | Dokusatnatrium/Sorbitol Evolan | Rektallösning | Indragen |
-| 6514 | Klyx | Rektallösning | Indragen |
+| 10793 | Resulax | Rektallösning | Godkänd |
+| 65612 | Dokusatnatrium/Sorbitol Evolan | Rektallösning | Godkänd |
+| 6514 | Klyx | Rektallösning | Godkänd |
+
+<!-- review:begin se-row-20261112-sorbitol-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”10793 / Resulax / Rektallösning / Indragen; 65612 / Dokusatnatrium/Sorbitol Evolan / Rektallösning / Indragen; 6514 / Klyx / Rektallösning / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 10793, 65612, 6514 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-sorbitol-1 -->
 
 Ingen godkänd indikationstext finns registrerad för dessa godkännanden.
 
@@ -119,6 +125,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 3 godkännanden (10793, 65612, 6514) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

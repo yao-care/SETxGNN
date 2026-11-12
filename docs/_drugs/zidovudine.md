@@ -103,8 +103,14 @@ Alla studier nedan är djurstudier. Resultaten sammanfattas utifrån de abstrakt
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 11764 | Retrovir (ViiV Healthcare BV), indragen | Koncentrat till infusionsvätska, lösning | Ej angiven |
-| 11427 | Retrovir (ViiV Healthcare BV), indragen | Oral lösning | Ej angiven |
+| 11764 | Retrovir (ViiV Healthcare BV) | Koncentrat till infusionsvätska, lösning | Ej angiven |
+| 11427 | Retrovir (ViiV Healthcare BV) | Oral lösning | Ej angiven |
+
+<!-- review:begin se-row-20261112-zidovudine-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”11764 / Retrovir (ViiV Healthcare BV), indragen / Koncentrat till infusionsvätska, lösning / Ej angiven; 11427 / Retrovir (ViiV Healthcare BV), indragen / Oral lösning / Ej angiven” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 11764, 11427 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-zidovudine-1 -->
 
 ---
 
@@ -144,6 +150,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Båda godkännandena är indragna, så det finns för närvarande ingen aktiv marknadsförd zidovudinprodukt i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 2 godkännanden (11764, 11427) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

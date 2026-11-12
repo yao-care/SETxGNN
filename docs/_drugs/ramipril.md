@@ -100,11 +100,17 @@ Indikationstext saknas i uppgifterna. De fem första godkännandena:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 44513 | Ramipril Krka | Tablett | Uppgift saknas (indraget) |
-| 47626 | Ramipril Teva | Tablett | Uppgift saknas (indraget) |
-| 63024 | Ramiliv | Tablett | Uppgift saknas (indraget) |
-| 41645 | Ramipril Aurobindo | Tablett | Uppgift saknas (indraget) |
-| 19685 | Ramipril HEXAL | Tablett | Uppgift saknas (indraget) |
+| 44513 | Ramipril Krka | Tablett | Uppgift saknas |
+| 47626 | Ramipril Teva | Tablett | Uppgift saknas |
+| 63024 | Ramiliv | Tablett | Uppgift saknas |
+| 41645 | Ramipril Aurobindo | Tablett | Uppgift saknas |
+| 19685 | Ramipril HEXAL | Tablett | Uppgift saknas |
+
+<!-- review:begin se-row-20261112-ramipril-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”44513 / Ramipril Krka / Tablett / Uppgift saknas (indraget); 47626 / Ramipril Teva / Tablett / Uppgift saknas (indraget); 63024 / Ramiliv / Tablett / Uppgift saknas (indraget); 41645 / Ramipril Aurobindo / Tablett / Uppgift saknas (indraget); 19685 / Ramipril HEXAL / Tablett / Uppgift saknas (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 44513, 47626, 63024, 41645, 19685 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-ramipril-1 -->
 
 ---
 
@@ -148,6 +154,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna och ingen produkt är för närvarande marknadsförd som enskild substans” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (44513, 47626, 63024, 41645, 19685) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

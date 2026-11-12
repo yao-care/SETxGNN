@@ -97,9 +97,15 @@ Urval av de mest relevanta publikationerna för stroke och cerebrovaskulär sjuk
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 57830 (indragen) | Dronedaron Aristo | Filmdragerad tablett | Ingen indikationstext tillgänglig |
-| 57327 (indragen) | Dronedarone STADA | Filmdragerad tablett | Ingen indikationstext tillgänglig |
-| 57395 (indragen) | Dronedarone Teva | Filmdragerad tablett | Ingen indikationstext tillgänglig |
+| 57830 | Dronedaron Aristo | Filmdragerad tablett | Ingen indikationstext tillgänglig |
+| 57327 | Dronedarone STADA | Filmdragerad tablett | Ingen indikationstext tillgänglig |
+| 57395 | Dronedarone Teva | Filmdragerad tablett | Ingen indikationstext tillgänglig |
+
+<!-- review:begin se-row-20261112-dronedarone-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”57830 (indragen) / Dronedaron Aristo / Filmdragerad tablett / Ingen indikationstext tillgänglig; 57327 (indragen) / Dronedarone STADA / Filmdragerad tablett / Ingen indikationstext tillgänglig; 57395 (indragen) / Dronedarone Teva / Filmdragerad tablett / Ingen indikationstext tillgänglig” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 57830, 57327, 57395 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-dronedarone-1 -->
 
 ---
 
@@ -150,6 +156,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 3 godkännanden (57830, 57327, 57395) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

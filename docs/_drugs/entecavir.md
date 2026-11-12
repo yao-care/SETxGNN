@@ -96,11 +96,17 @@ Entecavir är marknadsfört i Sverige, och samtliga 10 godkännanden är giltiga
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 59213 | Entekavir Ebb | Filmdragerad tablett | Indraget |
-| 57766 | Entecavir Amarox | Filmdragerad tablett | Indraget |
-| 55066 | Entecavir Sandoz | Filmdragerad tablett | Indraget |
-| 57818 | Entecavir Medical Valley | Filmdragerad tablett | Indraget |
-| 55026 | Entecavir STADA | Filmdragerad tablett | Indraget |
+| 59213 | Entekavir Ebb | Filmdragerad tablett | Godkänd |
+| 57766 | Entecavir Amarox | Filmdragerad tablett | Godkänd |
+| 55066 | Entecavir Sandoz | Filmdragerad tablett | Godkänd |
+| 57818 | Entecavir Medical Valley | Filmdragerad tablett | Godkänd |
+| 55026 | Entecavir STADA | Filmdragerad tablett | Godkänd |
+
+<!-- review:begin se-row-20261112-entecavir-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”59213 / Entekavir Ebb / Filmdragerad tablett / Indraget; 57766 / Entecavir Amarox / Filmdragerad tablett / Indraget; 55066 / Entecavir Sandoz / Filmdragerad tablett / Indraget; 57818 / Entecavir Medical Valley / Filmdragerad tablett / Indraget; 55026 / Entecavir STADA / Filmdragerad tablett / Indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 59213, 57766, 55066, 57818, 55026 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-entecavir-1 -->
 
 ---
 
@@ -129,6 +135,18 @@ Se produktresumén för varningar och kontraindikationer.
 - Tydlig åtskillnad mellan nyttan av att skydda mot HBV-uppblossning vid samtidig infektion och en egen behandlingseffekt mot hepatit C.
 - Detaljerade uppgifter om verkningsmekanismen.
 - Granskning av produktresumén för varningar och kontraindikationer.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-12 | Tabell: 5 godkännanden (59213, 57766, 55066, 57818, 55026) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

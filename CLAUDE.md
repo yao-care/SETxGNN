@@ -34,3 +34,5 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 2026-10-31～11-06 依新事實直接刪掉的矛盾子句，2026-11-12 已用 `scripts/reviews_from_edits.py --git` 轉成 466 筆紀錄（261 頁）。
 `scripts/sync_notes_to_docs.py` 依 notes 重寫整頁後會重套紀錄，notes 裡的舊錯句會被紀錄再更正一次。
 
+2026-11-12 表格列狀態對事實層（母目錄 `check_drug_page.py --row-status`）：99 頁 272 列以 `se-row-20261112-*`（每頁一筆）更正——271 列 Läkemedelsverket 註冊狀態 Godkänd 的許可在表格寫成 indraget／indragen／avregistrerad／återkallat（其中 73 列是核准但目前未販售，仍不是撤回），febuxostat 56645 反向（Avregistrerad 寫成 godkänd）。
+事實層先抽 35 列對照證據包原始狀態與 lmv_registreringsstatus.json（2026-11-02），全部一致。只改狀態字：Status 欄改「Godkänd」、適應症欄去掉狀態註記（整格只有狀態字的改「Ej angiven」）。`scripts/apply_drug_reviews.py` 的 display 改成多列表格原句逐列顯示。

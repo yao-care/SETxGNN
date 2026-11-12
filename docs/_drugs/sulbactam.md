@@ -103,8 +103,14 @@ Nedan visas ett urval av de mest relevanta publikationerna. Klassificeringen av 
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 65432 | Ampicillin/Sulbactam AptaPharma | Pulver till injektions-/infusionsvätska, lösning | Indikationstext saknas (indraget) |
-| 65431 | Ampicillin/Sulbactam AptaPharma | Pulver till injektions-/infusionsvätska, lösning | Indikationstext saknas (indraget) |
+| 65432 | Ampicillin/Sulbactam AptaPharma | Pulver till injektions-/infusionsvätska, lösning | Indikationstext saknas |
+| 65431 | Ampicillin/Sulbactam AptaPharma | Pulver till injektions-/infusionsvätska, lösning | Indikationstext saknas |
+
+<!-- review:begin se-row-20261112-sulbactam-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”65432 / Ampicillin/Sulbactam AptaPharma / Pulver till injektions-/infusionsvätska, lösning / Indikationstext saknas (indraget); 65431 / Ampicillin/Sulbactam AptaPharma / Pulver till injektions-/infusionsvätska, lösning / Indikationstext saknas (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 65432, 65431 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-sulbactam-1 -->
 
 ---
 
@@ -147,6 +153,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Båda godkännandena är indragna, och för närvarande finns inget giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom båda godkännandena är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 2 godkännanden (65432, 65431) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

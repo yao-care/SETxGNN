@@ -84,8 +84,14 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|------|------|
-| 61474 | Sedaconda | Inhalationsånga, vätska | Sedana Medical AB | Indraget |
-| 12337 | Isofluran Baxter | Inhalationsånga, vätska | Baxter Medical AB | Indraget |
+| 61474 | Sedaconda | Inhalationsånga, vätska | Sedana Medical AB | Godkänd |
+| 12337 | Isofluran Baxter | Inhalationsånga, vätska | Baxter Medical AB | Godkänd |
+
+<!-- review:begin se-row-20261112-isoflurane-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”61474 / Sedaconda / Inhalationsånga, vätska / Sedana Medical AB / Indraget; 12337 / Isofluran Baxter / Inhalationsånga, vätska / Baxter Medical AB / Indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 61474, 12337 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-isoflurane-1 -->
 
 Ingen godkänd indikationstext finns registrerad.
 
@@ -146,6 +152,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”nget av godkännandena är för närvarande giltigt, och i” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Isoflurans godkännanden i Sverige är dessutom alla indragna, och d” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 2 godkännanden (61474, 12337) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

@@ -92,9 +92,15 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 46501 | Nipenesin | Sirap | Ingen indikationstext registrerad (indraget) |
-| 8941 | Theracough | Oral lösning | Ingen indikationstext registrerad (indraget) |
-| 63154 | Nipenesin Mentol | Oral lösning | Ingen indikationstext registrerad (indraget) |
+| 46501 | Nipenesin | Sirap | Ingen indikationstext registrerad |
+| 8941 | Theracough | Oral lösning | Ingen indikationstext registrerad |
+| 63154 | Nipenesin Mentol | Oral lösning | Ingen indikationstext registrerad |
+
+<!-- review:begin se-row-20261112-guaifenesin-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”46501 / Nipenesin / Sirap / Ingen indikationstext registrerad (indraget); 8941 / Theracough / Oral lösning / Ingen indikationstext registrerad (indraget); 63154 / Nipenesin Mentol / Oral lösning / Ingen indikationstext registrerad (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 46501, 8941, 63154 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-guaifenesin-1 -->
 
 ---
 
@@ -137,6 +143,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga tre godkännanden är indragna och inget är för närvarande giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 3 godkännanden (46501, 8941, 63154) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

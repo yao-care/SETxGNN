@@ -102,9 +102,15 @@ Poängen är ett modellresultat och inget kliniskt bevis. Melfalans egen andel a
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 11674 | Alkeran | Pulver och vätska till injektionsvätska, lösning | Uppgift saknas (indragen) |
-| 57727 | Melphalan Macure | Pulver och vätska till injektions-/infusionsvätska, lösning | Uppgift saknas (indragen) |
-| 7492 | Alkeran | Filmdragerad tablett | Uppgift saknas (indragen) |
+| 11674 | Alkeran | Pulver och vätska till injektionsvätska, lösning | Uppgift saknas |
+| 57727 | Melphalan Macure | Pulver och vätska till injektions-/infusionsvätska, lösning | Uppgift saknas |
+| 7492 | Alkeran | Filmdragerad tablett | Uppgift saknas |
+
+<!-- review:begin se-row-20261112-melphalan-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”11674 / Alkeran / Pulver och vätska till injektionsvätska, lösning / Uppgift saknas (indragen); 57727 / Melphalan Macure / Pulver och vätska till injektions-/infusionsvätska, lösning / Uppgift saknas (indragen); 7492 / Alkeran / Filmdragerad tablett / Uppgift saknas (indragen)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 11674, 57727, 7492 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-melphalan-1 -->
 
 ---
 
@@ -161,6 +167,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla tre godkännanden är indragna, och inget giltigt melfalanpreparat finns därmed registrerat i den sammanställda datan” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 3 godkännanden (11674, 57727, 7492) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

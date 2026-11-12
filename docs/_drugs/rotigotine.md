@@ -96,11 +96,17 @@ Ingen indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 66352 | Rotigotine Medical Valley | Depotplåster | Indragen |
-| 66349 | Rotigotine Medical Valley | Depotplåster | Indragen |
-| 66350 | Rotigotine Medical Valley | Depotplåster | Indragen |
-| 66348 | Rotigotine Medical Valley | Depotplåster | Indragen |
-| 66353 | Rotigotine Medical Valley | Depotplåster | Indragen |
+| 66352 | Rotigotine Medical Valley | Depotplåster | Godkänd |
+| 66349 | Rotigotine Medical Valley | Depotplåster | Godkänd |
+| 66350 | Rotigotine Medical Valley | Depotplåster | Godkänd |
+| 66348 | Rotigotine Medical Valley | Depotplåster | Godkänd |
+| 66353 | Rotigotine Medical Valley | Depotplåster | Godkänd |
+
+<!-- review:begin se-row-20261112-rotigotine-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”66352 / Rotigotine Medical Valley / Depotplåster / Indragen; 66349 / Rotigotine Medical Valley / Depotplåster / Indragen; 66350 / Rotigotine Medical Valley / Depotplåster / Indragen; 66348 / Rotigotine Medical Valley / Depotplåster / Indragen; 66353 / Rotigotine Medical Valley / Depotplåster / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 66352, 66349, 66350, 66348, 66353 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-rotigotine-1 -->
 
 Innehavare: Medical Valley Invest AB.
 
@@ -159,6 +165,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Alla sex godkännanden är indragna och i” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Ytterligare ett godkännande (66351) är också indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (66352, 66349, 66350, 66348, 66353) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

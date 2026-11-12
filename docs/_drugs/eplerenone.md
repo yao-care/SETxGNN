@@ -103,11 +103,17 @@ Indikationstext saknas i data. De fem första godkännandena:
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 50995 | Eplerenon STADA | Filmdragerad tablett | Indragen |
-| 65877 | Eplerenon Vivanta | Filmdragerad tablett | Indragen |
-| 65876 | Eplerenon Vivanta | Filmdragerad tablett | Indragen |
-| 51094 | Eplerenon Bluefish | Filmdragerad tablett | Indragen |
-| 21031 | Inspra | Filmdragerad tablett | Indragen |
+| 50995 | Eplerenon STADA | Filmdragerad tablett | Ej angiven |
+| 65877 | Eplerenon Vivanta | Filmdragerad tablett | Ej angiven |
+| 65876 | Eplerenon Vivanta | Filmdragerad tablett | Ej angiven |
+| 51094 | Eplerenon Bluefish | Filmdragerad tablett | Ej angiven |
+| 21031 | Inspra | Filmdragerad tablett | Ej angiven |
+
+<!-- review:begin se-row-20261112-eplerenone-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”50995 / Eplerenon STADA / Filmdragerad tablett / Indragen; 65877 / Eplerenon Vivanta / Filmdragerad tablett / Indragen; 65876 / Eplerenon Vivanta / Filmdragerad tablett / Indragen; 51094 / Eplerenon Bluefish / Filmdragerad tablett / Indragen; 21031 / Inspra / Filmdragerad tablett / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 50995, 65877, 65876, 51094, 21031 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-eplerenone-1 -->
 
 ---
 
@@ -160,6 +166,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 18 godkännanden är indragna, och inget giltigt godkännande finns för närvarande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Klargöra marknadsstatus, eftersom alla godkännanden i Sverige är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (50995, 65877, 65876, 51094, 21031) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

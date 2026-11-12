@@ -82,11 +82,17 @@ Det orsakas av aktiverande varianter i vasopressin V2-receptorn (AVPR2), som nim
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation | Status |
 |---------|------|------|-----------|------|
-| 56963 | Nimotop | Infusionsvätska, lösning | Ej angiven | Indragen |
-| 56817 | Nimotop | Infusionsvätska, lösning | Ej angiven | Indragen |
-| 10955 | Nimotop | Filmdragerad tablett | Ej angiven | Indragen |
-| 66795 | Nimotop | Infusionsvätska, lösning | Ej angiven | Indragen |
-| 10954 | Nimotop | Infusionsvätska, lösning | Ej angiven | Indragen |
+| 56963 | Nimotop | Infusionsvätska, lösning | Ej angiven | Godkänd |
+| 56817 | Nimotop | Infusionsvätska, lösning | Ej angiven | Godkänd |
+| 10955 | Nimotop | Filmdragerad tablett | Ej angiven | Godkänd |
+| 66795 | Nimotop | Infusionsvätska, lösning | Ej angiven | Godkänd |
+| 10954 | Nimotop | Infusionsvätska, lösning | Ej angiven | Godkänd |
+
+<!-- review:begin se-row-20261112-nimodipine-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”56963 / Nimotop / Infusionsvätska, lösning / Ej angiven / Indragen; 56817 / Nimotop / Infusionsvätska, lösning / Ej angiven / Indragen; 10955 / Nimotop / Filmdragerad tablett / Ej angiven / Indragen; 66795 / Nimotop / Infusionsvätska, lösning / Ej angiven / Indragen; 10954 / Nimotop / Infusionsvätska, lösning / Ej angiven / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 56963, 56817, 10955, 66795, 10954 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-nimodipine-1 -->
 
 ---
 
@@ -132,6 +138,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga fem godkännanden är indragna, och inget är för närvarande giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna, och v” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (56963, 56817, 10955, 66795, 10954) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

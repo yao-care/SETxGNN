@@ -91,8 +91,14 @@ Bland de lägre rankade förutsägelserna finns viss litteratur för *alopeci* (
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 53766 (indraget) | Tamicten | Kapsel med modifierad frisättning, hård | Ingen indikationstext registrerad |
-| 49635 (indraget) | Urizia | Tablett med modifierad frisättning | Ingen indikationstext registrerad |
+| 53766 | Tamicten | Kapsel med modifierad frisättning, hård | Ingen indikationstext registrerad |
+| 49635 | Urizia | Tablett med modifierad frisättning | Ingen indikationstext registrerad |
+
+<!-- review:begin se-row-20261112-tamsulosin-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”53766 (indraget) / Tamicten / Kapsel med modifierad frisättning, hård / Ingen indikationstext registrerad; 49635 (indraget) / Urizia / Tablett med modifierad frisättning / Ingen indikationstext registrerad” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 53766, 49635 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-tamsulosin-1 -->
 
 ---
 
@@ -142,6 +148,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Läkemedlet har dessutom inga gällande godkännanden i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Klargöra marknadsstatus, eftersom båda godkännandena är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 2 godkännanden (53766, 49635) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

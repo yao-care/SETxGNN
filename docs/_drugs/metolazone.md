@@ -92,7 +92,13 @@ För den främsta förutsägelsen (malign renovaskulär hypertoni) finns ingen l
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 41983 (indraget) | Metolazon Abcur | Tablett | Ingen indikationstext tillgänglig |
+| 41983 | Metolazon Abcur | Tablett | Ingen indikationstext tillgänglig |
+
+<!-- review:begin se-row-20261112-metolazone-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”41983 (indraget) / Metolazon Abcur / Tablett / Ingen indikationstext tillgänglig” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 41983 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-metolazone-1 -->
 
 ---
 
@@ -149,6 +155,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Det enda godkännandet (Abcur AB, oral tablett) är indraget, och läkemedlet finns därför för närvarande inte på den svenska marknaden” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”och läkemedlet är för närvarande indraget i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom det befintliga godkännandet är indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 1 godkännande (41983) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

@@ -90,10 +90,16 @@ Indikationstext saknas för samtliga godkännanden i underlaget.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----------|------|
-| 45433 | Lactulose Fresenius | Oral lösning i dospåse | Fresenius Kabi Austria GmbH | Indraget |
-| 10293 | Laktulos Cooper | Oral lösning | Cooper Consumer Health B.V. | Indraget |
-| 44378 | Laktulos Levolac | Oral lösning | Fresenius Kabi Austria GmbH | Indraget |
-| 10212 | Duphalac | Oral lösning | Cooper Consumer Health B.V. | Indraget |
+| 45433 | Lactulose Fresenius | Oral lösning i dospåse | Fresenius Kabi Austria GmbH | Godkänd |
+| 10293 | Laktulos Cooper | Oral lösning | Cooper Consumer Health B.V. | Godkänd |
+| 44378 | Laktulos Levolac | Oral lösning | Fresenius Kabi Austria GmbH | Godkänd |
+| 10212 | Duphalac | Oral lösning | Cooper Consumer Health B.V. | Godkänd |
+
+<!-- review:begin se-row-20261112-lactulose-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”45433 / Lactulose Fresenius / Oral lösning i dospåse / Fresenius Kabi Austria GmbH / Indraget; 10293 / Laktulos Cooper / Oral lösning / Cooper Consumer Health B.V. / Indraget; 44378 / Laktulos Levolac / Oral lösning / Fresenius Kabi Austria GmbH / Indraget; 10212 / Duphalac / Oral lösning / Cooper Consumer Health B.V. / Indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 45433, 10293, 44378, 10212 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-lactulose-1 -->
 
 ---
 
@@ -142,6 +148,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Alla fyra godkännanden är indragna, och ingen produkt är för närvarande marknadsförd som enskilt godkänt läkemedel” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är indragna och säkerhetsunderlaget är ofullständigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom inga produkter för närvarande är godkända i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 4 godkännanden (45433, 10293, 44378, 10212) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

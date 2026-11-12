@@ -92,11 +92,17 @@ Nedan visas fem av dem. Ingen godkänd indikationstext finns tillgänglig för d
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 12803 | Ventoline Diskus | Inhalationspulver, avdelad dos | Indragen |
-| 44737 | Salbutamol Sandoz | Inhalationsspray, suspension | Indragen |
-| 12324 | Airomir | Inhalationsspray, suspension | Indragen |
-| 13120 | Buventol Easyhaler | Inhalationspulver | Indragen |
-| 11088 | Ventoline | Lösning för nebulisator | Indragen |
+| 12803 | Ventoline Diskus | Inhalationspulver, avdelad dos | Godkänd |
+| 44737 | Salbutamol Sandoz | Inhalationsspray, suspension | Godkänd |
+| 12324 | Airomir | Inhalationsspray, suspension | Godkänd |
+| 13120 | Buventol Easyhaler | Inhalationspulver | Godkänd |
+| 11088 | Ventoline | Lösning för nebulisator | Godkänd |
+
+<!-- review:begin se-row-20261112-salbutamol-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”12803 / Ventoline Diskus / Inhalationspulver, avdelad dos / Indragen; 44737 / Salbutamol Sandoz / Inhalationsspray, suspension / Indragen; 12324 / Airomir / Inhalationsspray, suspension / Indragen; 13120 / Buventol Easyhaler / Inhalationspulver / Indragen; 11088 / Ventoline / Lösning för nebulisator / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 12803, 44737, 12324, 13120, 11088 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-salbutamol-1 -->
 
 De indragna godkännandena omfattar inhalationsberedningar, lösning för nebulisator och oral lösning. Någon beredningsform för ögonbehandling finns inte bland dem.
 
@@ -152,6 +158,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden för salbutamol är indragna, och inget är för närvarande giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är indragna, och i” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (12803, 44737, 12324, 13120, 11088) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

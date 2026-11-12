@@ -108,10 +108,16 @@ Ifosfamid är inte ett standardläkemedel vid bröstcancer, och inga fas 3-studi
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 11097-1 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven (indraget) |
-| 67829 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven (indraget) |
-| 67828 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven (indraget) |
-| 67827 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven (indraget) |
+| 11097-1 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven |
+| 67829 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven |
+| 67828 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven |
+| 67827 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven |
+
+<!-- review:begin se-row-20261112-ifosfamide-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”11097-1 / Holoxan / Pulver till injektions-/infusionsvätska, lösning / Ingen indikationstext angiven (indraget); 67829 / Holoxan / Pulver till injektions-/infusionsvätska, lösning / Ingen indikationstext angiven (indraget); 67828 / Holoxan / Pulver till injektions-/infusionsvätska, lösning / Ingen indikationstext angiven (indraget); 67827 / Holoxan / Pulver till injektions-/infusionsvätska, lösning / Ingen indikationstext angiven (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 11097-1, 67829, 67828, 67827 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-ifosfamide-1 -->
 
 ---
 
@@ -186,6 +192,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Samtliga godkännanden innehas av Baxter Medical AB och är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, och l” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Produktresumé med fullständiga varningar, kontraindikationer och dosering, samt klarhet i hur läkemedlet kan tillhandahållas i Sverige nu nä” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 4 godkännanden (11097-1, 67829, 67828, 67827) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

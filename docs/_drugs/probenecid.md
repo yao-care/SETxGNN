@@ -97,7 +97,13 @@ Av 20 hittade publikationer är de flesta fallrapporter, översikter eller genet
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 4522 | Probecid (Karo Pharma AB) | Tablett | Ingen indikationstext registrerad (godkännandet är indraget) |
+| 4522 | Probecid (Karo Pharma AB) | Tablett | Ingen indikationstext registrerad |
+
+<!-- review:begin se-row-20261112-probenecid-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”4522 / Probecid (Karo Pharma AB) / Tablett / Ingen indikationstext registrerad (godkännandet är indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 4522 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-probenecid-1 -->
 
 ---
 
@@ -125,6 +131,19 @@ Något säkerhetsunderlag från produktresumén finns inte i det sammanställda 
 - Preklinisk eller mekanistisk evidens som visar nytta och inte skada, vilket i nuläget framstår som osannolikt.
 - Komplett produktresumé med varningar och kontraindikationer, samt uppgifter om verkningsmekanism.
 - En ny genomgång av om någon annan förutsagd indikation har bättre mekanistiskt stöd.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-12 | Tabell: 1 godkännande (4522) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

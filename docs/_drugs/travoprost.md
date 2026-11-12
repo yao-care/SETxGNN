@@ -89,11 +89,17 @@ Indikationstexter saknas i registret.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 48021 | Travoprost STADA | Ögondroppar, lösning | Indragen |
-| 64362 | Trevicopto | Ögondroppar, lösning i endosbehållare | Indragen |
-| 48012 | Travoprost Medical Valley | Ögondroppar, lösning | Indragen |
-| 48062 | Travoprost Sandoz | Ögondroppar, lösning | Indragen |
-| 51223 | Bondulc | Ögondroppar, lösning | Indragen |
+| 48021 | Travoprost STADA | Ögondroppar, lösning | Godkänd |
+| 64362 | Trevicopto | Ögondroppar, lösning i endosbehållare | Godkänd |
+| 48012 | Travoprost Medical Valley | Ögondroppar, lösning | Godkänd |
+| 48062 | Travoprost Sandoz | Ögondroppar, lösning | Godkänd |
+| 51223 | Bondulc | Ögondroppar, lösning | Godkänd |
+
+<!-- review:begin se-row-20261112-travoprost-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”48021 / Travoprost STADA / Ögondroppar, lösning / Indragen; 64362 / Trevicopto / Ögondroppar, lösning i endosbehållare / Indragen; 48012 / Travoprost Medical Valley / Ögondroppar, lösning / Indragen; 48062 / Travoprost Sandoz / Ögondroppar, lösning / Indragen; 51223 / Bondulc / Ögondroppar, lösning / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 48021, 64362, 48012, 48062, 51223 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-travoprost-1 -->
 
 ---
 
@@ -144,6 +150,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Samtliga 10 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna och ögondroppar ger låg systemisk exponering” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (48021, 64362, 48012, 48062, 51223) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

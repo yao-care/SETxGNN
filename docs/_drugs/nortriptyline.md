@@ -95,7 +95,13 @@ Den förutsagda undertypen *ADHD, huvudsakligen ouppmärksam form* (poäng 0,993
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 7623 (indraget) | Sensaval | Filmdragerad tablett | Ingen indikationstext tillgänglig |
+| 7623 | Sensaval | Filmdragerad tablett | Ingen indikationstext tillgänglig |
+
+<!-- review:begin se-row-20261112-nortriptyline-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”7623 (indraget) / Sensaval / Filmdragerad tablett / Ingen indikationstext tillgänglig” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 7623 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-nortriptyline-1 -->
 
 Innehavare: H. Lundbeck A/S.
 
@@ -154,6 +160,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Det finns inget giltigt godkännande i Sverige för närvarande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom det enda svenska godkännandet är indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 1 godkännande (7623) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

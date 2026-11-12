@@ -92,11 +92,17 @@ Indikationstext finns inte registrerad för någon av dem. De fem första visas 
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----------|-----------|
-| 63371 | Dexmedetomidine EQL Pharma | Koncentrat till infusionsvätska, lösning | EQL Pharma AB | Indraget |
-| 60092 | Dexmedetomidine Baxter | Koncentrat till infusionsvätska, lösning | Baxter Holding B.V. | Indraget |
-| 59438 | Dexmedetomidine Kalceks | Koncentrat till infusionsvätska, lösning | AS KALCEKS | Indraget |
-| 54688 | Dexmedetomidine EVER Pharma | Koncentrat till infusionsvätska, lösning | EVER Valinject GmbH | Indraget |
-| 61293 | Dexmedetomidine Kabi | Koncentrat till infusionsvätska, lösning | Fresenius Kabi AB | Indraget |
+| 63371 | Dexmedetomidine EQL Pharma | Koncentrat till infusionsvätska, lösning | EQL Pharma AB | Godkänd |
+| 60092 | Dexmedetomidine Baxter | Koncentrat till infusionsvätska, lösning | Baxter Holding B.V. | Godkänd |
+| 59438 | Dexmedetomidine Kalceks | Koncentrat till infusionsvätska, lösning | AS KALCEKS | Godkänd |
+| 54688 | Dexmedetomidine EVER Pharma | Koncentrat till infusionsvätska, lösning | EVER Valinject GmbH | Godkänd |
+| 61293 | Dexmedetomidine Kabi | Koncentrat till infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+
+<!-- review:begin se-row-20261112-dexmedetomidine-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”63371 / Dexmedetomidine EQL Pharma / Koncentrat till infusionsvätska, lösning / EQL Pharma AB / Indraget; 60092 / Dexmedetomidine Baxter / Koncentrat till infusionsvätska, lösning / Baxter Holding B.V. / Indraget; 59438 / Dexmedetomidine Kalceks / Koncentrat till infusionsvätska, lösning / AS KALCEKS / Indraget; 54688 / Dexmedetomidine EVER Pharma / Koncentrat till infusionsvätska, lösning / EVER Valinject GmbH / Indraget; 61293 / Dexmedetomidine Kabi / Koncentrat till infusionsvätska, lösning / Fresenius Kabi AB / Indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 63371, 60092, 59438, 54688, 61293 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-dexmedetomidine-1 -->
 
 ---
 
@@ -158,6 +164,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla 9 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, och u” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (63371, 60092, 59438, 54688, 61293) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

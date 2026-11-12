@@ -80,11 +80,17 @@ Fem av dem visas nedan. Indikationstext saknas i dessa godkännanden.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|-----------|-----|
-| 26270 | Glimepirid Bluefish | Tablett | Bluefish Pharmaceuticals AB | Indraget |
-| 22683 | Glimepirid STADA | Tablett | STADA Arzneimittel AG | Indraget |
-| 26271 | Glimepirid Bluefish | Tablett | Bluefish Pharmaceuticals AB | Indraget |
-| 22681 | Glimepirid Actavis | Tablett | Actavis Group PTC ehf. | Indraget |
-| 22679 | Glimepirid Actavis | Tablett | Actavis Group PTC ehf. | Indraget |
+| 26270 | Glimepirid Bluefish | Tablett | Bluefish Pharmaceuticals AB | Godkänd |
+| 22683 | Glimepirid STADA | Tablett | STADA Arzneimittel AG | Godkänd |
+| 26271 | Glimepirid Bluefish | Tablett | Bluefish Pharmaceuticals AB | Godkänd |
+| 22681 | Glimepirid Actavis | Tablett | Actavis Group PTC ehf. | Godkänd |
+| 22679 | Glimepirid Actavis | Tablett | Actavis Group PTC ehf. | Godkänd |
+
+<!-- review:begin se-row-20261112-glimepiride-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”26270 / Glimepirid Bluefish / Tablett / Bluefish Pharmaceuticals AB / Indraget; 22683 / Glimepirid STADA / Tablett / STADA Arzneimittel AG / Indraget; 26271 / Glimepirid Bluefish / Tablett / Bluefish Pharmaceuticals AB / Indraget; 22681 / Glimepirid Actavis / Tablett / Actavis Group PTC ehf. / Indraget; 22679 / Glimepirid Actavis / Tablett / Actavis Group PTC ehf. / Indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 26270, 22683, 26271, 22681, 22679 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-glimepiride-1 -->
 
 ---
 
@@ -143,6 +149,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Samtliga 11 godkännanden är indragna och inget är för närvarande giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”essutom är alla svenska godkännanden indragna, och d” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom inget giltigt godkännande för glimepirid finns i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (26270, 22683, 26271, 22681, 22679) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

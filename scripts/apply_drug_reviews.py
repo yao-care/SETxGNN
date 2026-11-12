@@ -109,8 +109,9 @@ def display(s):
     """原句顯示成一行：表格列改成「cell / cell」；多行（清單項目、多段）用「 / 」接起來，
     避免引言框裡的 | 被當成表格、換行讓框斷掉或在表格列裡斷行（2026-11-12）。"""
     s = s.strip()
-    if s.startswith("|"):
-        s = C.JOIN.join(c.strip() for c in s.strip("|").split("|"))
+    if s.startswith("|"):  # 多列表格（2026-11-12 表格列狀態更正）：每列各自接成「cell / cell」，列與列用「; 」分隔
+        s = C.LIST_SEP.join(C.JOIN.join(c.strip() for c in row.strip().strip("|").split("|"))
+                            for row in s.split("\n") if row.strip())
     s = re.sub(r"\s*\n\s*(?:[-*+]\s+|\d+\.\s+)?", C.JOIN, s)
     s = re.sub(r"^(?:[-*+]\s+|\d+\.\s+)", "", s)
     return s.replace("|", "&#124;")

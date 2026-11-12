@@ -106,11 +106,17 @@ Indikationstext saknas i underlaget. Nedan visas fem av godkännandena (alla fil
 
 | Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
 |---------|------|------|------|------|
-| 54479 | Tadalafil Krka | Filmdragerad tablett | Krka d.d., Novo mesto | Indragen |
-| 60561 | Tadalafil Jubilant | Filmdragerad tablett | Jubilant Pharmaceuticals nv | Indragen |
-| 66043 | Tadalafil Devatis | Filmdragerad tablett | Devatis GmbH | Indragen |
-| 50626 | Tadalafil Teva | Filmdragerad tablett | Teva Sweden AB | Indragen |
-| 52516 | Tadalafil Orion | Filmdragerad tablett | Orion Corporation | Indragen |
+| 54479 | Tadalafil Krka | Filmdragerad tablett | Krka d.d., Novo mesto | Godkänd |
+| 60561 | Tadalafil Jubilant | Filmdragerad tablett | Jubilant Pharmaceuticals nv | Godkänd |
+| 66043 | Tadalafil Devatis | Filmdragerad tablett | Devatis GmbH | Godkänd |
+| 50626 | Tadalafil Teva | Filmdragerad tablett | Teva Sweden AB | Godkänd |
+| 52516 | Tadalafil Orion | Filmdragerad tablett | Orion Corporation | Godkänd |
+
+<!-- review:begin se-row-20261112-tadalafil-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”54479 / Tadalafil Krka / Filmdragerad tablett / Krka d.d., Novo mesto / Indragen; 60561 / Tadalafil Jubilant / Filmdragerad tablett / Jubilant Pharmaceuticals nv / Indragen; 66043 / Tadalafil Devatis / Filmdragerad tablett / Devatis GmbH / Indragen; 50626 / Tadalafil Teva / Filmdragerad tablett / Teva Sweden AB / Indragen; 52516 / Tadalafil Orion / Filmdragerad tablett / Orion Corporation / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 54479, 60561, 66043, 50626, 52516 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-tadalafil-1 -->
 
 ---
 
@@ -157,6 +163,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (54479, 60561, 66043, 50626, 52516) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

@@ -92,10 +92,16 @@ Någon terapeutisk mekanism är inte fastställd. Nitrofurantoin har ingen känd
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 7977 | Furadantin (Viatris AB) | Tablett | Indragen |
-| 5614 | Furadantin (Viatris AB) | Tablett | Indragen |
-| 51827 | Nitrofurantoin Alternova (Alternova A/S) | Tablett | Indragen |
-| 63398 | Foragen (CNX Therapeutics Ireland Ltd) | Kapsel med modifierad frisättning, hård | Indragen |
+| 7977 | Furadantin (Viatris AB) | Tablett | Ej angiven |
+| 5614 | Furadantin (Viatris AB) | Tablett | Ej angiven |
+| 51827 | Nitrofurantoin Alternova (Alternova A/S) | Tablett | Ej angiven |
+| 63398 | Foragen (CNX Therapeutics Ireland Ltd) | Kapsel med modifierad frisättning, hård | Ej angiven |
+
+<!-- review:begin se-row-20261112-nitrofurantoin-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”7977 / Furadantin (Viatris AB) / Tablett / Indragen; 5614 / Furadantin (Viatris AB) / Tablett / Indragen; 51827 / Nitrofurantoin Alternova (Alternova A/S) / Tablett / Indragen; 63398 / Foragen (CNX Therapeutics Ireland Ltd) / Kapsel med modifierad frisättning, hård / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 7977, 5614, 51827, 63398 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-nitrofurantoin-1 -->
 
 ---
 
@@ -150,6 +156,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Alla fyra godkännanden är indragna och indikationstext saknas i de data som sammanställts” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Läkemedlet saknar dessutom giltiga godkännanden i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”En bedömning av om det över huvud taget finns ett skäl att återinföra ett läkemedel med indragna godkännanden och en känd risk för lung- och” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 4 godkännanden (7977, 5614, 51827, 63398) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

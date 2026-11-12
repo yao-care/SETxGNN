@@ -90,9 +90,15 @@ Observera att de två prekliniska studierna är kopplade till den relaterade pos
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 60191 | Parecoxib Noridem | Pulver till injektionsvätska, lösning | Ej angiven (indraget) |
-| 60190 | Parecoxib Noridem | Pulver och vätska till injektionsvätska, lösning | Ej angiven (indraget) |
-| 65728 | Parecoxib Macure | Pulver till injektionsvätska, lösning | Ej angiven (indraget) |
+| 60191 | Parecoxib Noridem | Pulver till injektionsvätska, lösning | Ej angiven |
+| 60190 | Parecoxib Noridem | Pulver och vätska till injektionsvätska, lösning | Ej angiven |
+| 65728 | Parecoxib Macure | Pulver till injektionsvätska, lösning | Ej angiven |
+
+<!-- review:begin se-row-20261112-parecoxib-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”60191 / Parecoxib Noridem / Pulver till injektionsvätska, lösning / Ej angiven (indraget); 60190 / Parecoxib Noridem / Pulver och vätska till injektionsvätska, lösning / Ej angiven (indraget); 65728 / Parecoxib Macure / Pulver till injektionsvätska, lösning / Ej angiven (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 60191, 60190, 65728 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-parecoxib-1 -->
 
 ---
 
@@ -141,6 +147,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 3 godkännanden (60191, 60190, 65728) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

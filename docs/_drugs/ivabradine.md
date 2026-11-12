@@ -78,11 +78,17 @@ Samtliga övriga förutsägelser har också evidensnivå L5, utan studier eller 
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 62662 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven (indragen) |
-| 53688 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven (indragen) |
-| 62663 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven (indragen) |
-| 53687 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven (indragen) |
-| 53641 | Ivabradin Krka | Filmdragerad tablett | Ej angiven (indragen) |
+| 62662 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven |
+| 53688 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven |
+| 62663 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven |
+| 53687 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven |
+| 53641 | Ivabradin Krka | Filmdragerad tablett | Ej angiven |
+
+<!-- review:begin se-row-20261112-ivabradine-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”62662 / Ivabradin Medical Valley / Filmdragerad tablett / Ej angiven (indragen); 53688 / Ivabradin Medical Valley / Filmdragerad tablett / Ej angiven (indragen); 62663 / Ivabradin Medical Valley / Filmdragerad tablett / Ej angiven (indragen); 53687 / Ivabradin Medical Valley / Filmdragerad tablett / Ej angiven (indragen); 53641 / Ivabradin Krka / Filmdragerad tablett / Ej angiven (indragen)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 62662, 53688, 62663, 53687, 53641 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-ivabradine-1 -->
 
 Ytterligare ett godkännande (53642, Ivabradin Krka) finns, totalt sex. Alla är indragna, och ingen är giltig för närvarande.
 
@@ -121,6 +127,19 @@ Se produktresumén för övrig säkerhetsinformation, inklusive varningar och ko
 - Göra en litteratur- och prövningssökning specifikt för ivabradin och hypertrikos.
 - Bedöma administreringsväg och beredningsform (för närvarande endast oral tablett) i förhållande till den nya indikationen.
 - Överväga att genetiskt betingade missbildningssyndrom (rang 2–5) har låg sannolikhet att svara på ett hjärtfrekvenssänkande läkemedel.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-12 | Tabell: 5 godkännanden (62662, 53688, 62663, 53687, 53641) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -92,7 +92,13 @@ Denna studie visar inte att metyrapon behandlar sjukdomen. Sammandraget i underl
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 49271 (indraget) | Metopirone | Kapsel, mjuk | Ingen indikationstext angiven |
+| 49271 | Metopirone | Kapsel, mjuk | Ingen indikationstext angiven |
+
+<!-- review:begin se-row-20261112-metyrapone-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”49271 (indraget) / Metopirone / Kapsel, mjuk / Ingen indikationstext angiven” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 49271 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-metyrapone-1 -->
 
 Tillverkare: Esteve Pharmaceuticals S.A.
 
@@ -153,6 +159,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Dessutom är det enda svenska godkännandet indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 1 godkännande (49271) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

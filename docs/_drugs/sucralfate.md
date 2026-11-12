@@ -103,10 +103,16 @@ Ingen godkänd indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 63098 | Peptonorm | Tablett | Indraget |
-| 10007 | Andapsin | Tablett | Indraget |
-| 19751 | Andapsin | Oral suspension i dospåse | Indraget |
-| 10480 | Andapsin | Oral suspension | Indraget |
+| 63098 | Peptonorm | Tablett | Godkänd |
+| 10007 | Andapsin | Tablett | Godkänd |
+| 19751 | Andapsin | Oral suspension i dospåse | Godkänd |
+| 10480 | Andapsin | Oral suspension | Godkänd |
+
+<!-- review:begin se-row-20261112-sucralfate-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”63098 / Peptonorm / Tablett / Indraget; 10007 / Andapsin / Tablett / Indraget; 19751 / Andapsin / Oral suspension i dospåse / Indraget; 10480 / Andapsin / Oral suspension / Indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 63098, 10007, 19751, 10480 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-sucralfate-1 -->
 
 ---
 
@@ -163,6 +169,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Samtliga fyra godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom inga produkter för närvarande är godkända i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 4 godkännanden (63098, 10007, 19751, 10480) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

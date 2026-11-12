@@ -92,8 +92,14 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 22330 (avregistrerad) | Dobutamin Hameln | Koncentrat till infusionsvätska, lösning | Ej angiven |
-| 65838 (avregistrerad) | Dobutamine Panpharma | Koncentrat till infusionsvätska, lösning | Ej angiven |
+| 22330 | Dobutamin Hameln | Koncentrat till infusionsvätska, lösning | Ej angiven |
+| 65838 | Dobutamine Panpharma | Koncentrat till infusionsvätska, lösning | Ej angiven |
+
+<!-- review:begin se-row-20261112-dobutamine-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”22330 (avregistrerad) / Dobutamin Hameln / Koncentrat till infusionsvätska, lösning / Ej angiven; 65838 (avregistrerad) / Dobutamine Panpharma / Koncentrat till infusionsvätska, lösning / Ej angiven” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 22330, 65838 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-dobutamine-1 -->
 
 ---
 
@@ -138,6 +144,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”De svenska godkännandena är båda avregistrerade och saknar angiven indikationstext i de data som sammanställts för denna rapport” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Notera att båda godkännandena är avregistrerade, vilket innebär att ingen produkt för närvarande finns på den svenska marknaden” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 2 godkännanden (22330, 65838) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

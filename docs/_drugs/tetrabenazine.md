@@ -78,8 +78,14 @@ Den höga poängen (0,999) är därför enbart ett resultat av en grafbaserad mo
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 26919 | Tetmodis | Tablett | Indikationstext saknas (indragen) |
-| 19824 | Xenazine | Tablett | Indikationstext saknas (indragen) |
+| 26919 | Tetmodis | Tablett | Indikationstext saknas |
+| 19824 | Xenazine | Tablett | Indikationstext saknas |
+
+<!-- review:begin se-row-20261112-tetrabenazine-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”26919 / Tetmodis / Tablett / Indikationstext saknas (indragen); 19824 / Xenazine / Tablett / Indikationstext saknas (indragen)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 26919, 19824 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-tetrabenazine-1 -->
 
 ---
 
@@ -137,6 +143,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Båda godkännandena är indragna, och inget giltigt godkännande finns för närvarande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”och läkemedlet saknar giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom alla nuvarande godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 2 godkännanden (26919, 19824) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

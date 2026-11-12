@@ -93,8 +93,14 @@ Resonemanget bygger på en hypotes. Studierna hittills är små och inriktade p�
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 67979 | Eptifibatide Ctruz (indragen) | Injektionsvätska, lösning | Ingen indikationstext angiven |
-| 67978 | Eptifibatide Ctruz (indragen) | Infusionsvätska, lösning | Ingen indikationstext angiven |
+| 67979 | Eptifibatide Ctruz | Injektionsvätska, lösning | Ingen indikationstext angiven |
+| 67978 | Eptifibatide Ctruz | Infusionsvätska, lösning | Ingen indikationstext angiven |
+
+<!-- review:begin se-row-20261112-eptifibatide-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”67979 / Eptifibatide Ctruz (indragen) / Injektionsvätska, lösning / Ingen indikationstext angiven; 67978 / Eptifibatide Ctruz (indragen) / Infusionsvätska, lösning / Ingen indikationstext angiven” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 67979, 67978 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-eptifibatide-1 -->
 
 ---
 
@@ -139,6 +145,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”eftersom båda godkännandena är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 2 godkännanden (67979, 67978) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

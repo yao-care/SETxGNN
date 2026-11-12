@@ -86,9 +86,15 @@ Den höga poängen (0,9981) ska därför ses som en ren grafbaserad förutsägel
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 9004 | Digoxin Evolan | Tablett | Ej angiven (indraget) |
-| 9003 | Digoxin Evolan | Tablett | Ej angiven (indraget) |
-| 8811 | Digoxin Evolan | Injektionsvätska, lösning | Ej angiven (indraget) |
+| 9004 | Digoxin Evolan | Tablett | Ej angiven |
+| 9003 | Digoxin Evolan | Tablett | Ej angiven |
+| 8811 | Digoxin Evolan | Injektionsvätska, lösning | Ej angiven |
+
+<!-- review:begin se-row-20261112-digoxin-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”9004 / Digoxin Evolan / Tablett / Ej angiven (indraget); 9003 / Digoxin Evolan / Tablett / Ej angiven (indraget); 8811 / Digoxin Evolan / Injektionsvätska, lösning / Ej angiven (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 9004, 9003, 8811 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-digoxin-1 -->
 
 ---
 
@@ -141,6 +147,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla tre godkännanden (Evolan Pharma AB) är indragna, och för närvarande finns inget giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 3 godkännanden (9004, 9003, 8811) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

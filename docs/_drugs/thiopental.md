@@ -92,11 +92,17 @@ Ingen indikationstext finns registrerad.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 65868 | Tiopental Ebb | Pulver till injektionsvätska, lösning | Indragen |
-| 66413 | Tiopental Ebb | Pulver till injektionsvätska, lösning | Indragen |
-| 62051 | Thiopental Panpharma | Pulver till injektionsvätska, lösning | Indragen |
-| 61068 | Pentocur | Pulver till injektionsvätska, lösning | Indragen |
-| 65869 | Tiopental Ebb | Pulver till injektionsvätska, lösning | Indragen |
+| 65868 | Tiopental Ebb | Pulver till injektionsvätska, lösning | Ej angiven |
+| 66413 | Tiopental Ebb | Pulver till injektionsvätska, lösning | Ej angiven |
+| 62051 | Thiopental Panpharma | Pulver till injektionsvätska, lösning | Ej angiven |
+| 61068 | Pentocur | Pulver till injektionsvätska, lösning | Ej angiven |
+| 65869 | Tiopental Ebb | Pulver till injektionsvätska, lösning | Ej angiven |
+
+<!-- review:begin se-row-20261112-thiopental-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”65868 / Tiopental Ebb / Pulver till injektionsvätska, lösning / Indragen; 66413 / Tiopental Ebb / Pulver till injektionsvätska, lösning / Indragen; 62051 / Thiopental Panpharma / Pulver till injektionsvätska, lösning / Indragen; 61068 / Pentocur / Pulver till injektionsvätska, lösning / Indragen; 65869 / Tiopental Ebb / Pulver till injektionsvätska, lösning / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 65868, 66413, 62051, 61068, 65869 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-thiopental-1 -->
 
 ---
 
@@ -150,6 +156,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 8 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna och säkerhetsunderlaget är ofullständigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (65868, 66413, 62051, 61068, 65869) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

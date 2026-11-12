@@ -92,7 +92,13 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 7042 | Velbe (STADA Nordic ApS) | Pulver till injektionsvätska, lösning | Indikationstext saknas (godkännandet är indraget) |
+| 7042 | Velbe (STADA Nordic ApS) | Pulver till injektionsvätska, lösning | Indikationstext saknas |
+
+<!-- review:begin se-row-20261112-vinblastine-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”7042 / Velbe (STADA Nordic ApS) / Pulver till injektionsvätska, lösning / Indikationstext saknas (godkännandet är indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 7042 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-vinblastine-1 -->
 
 ---
 
@@ -132,6 +138,18 @@ För varningar och kontraindikationer, se produktresumén.
 - Prospektiva studier eller registerdata där vinblastins effekt vid rabdomyosarkom kan särskiljas
 - Kompletterande data om verkningsmekanism, varningar och kontraindikationer från produktresumén
 - Bedömning av nytta och risk, särskilt avseende benmärgspåverkan och neurotoxicitet hos barn
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-12 | Tabell: 1 godkännande (7042) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

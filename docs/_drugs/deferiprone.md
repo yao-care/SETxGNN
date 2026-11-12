@@ -87,11 +87,17 @@ Två prekliniska studier stöder resonemanget. En studie från 2020 visade att j
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 55997 | Deferiprone DOC | Filmdragerad tablett | Ej angiven (indraget) |
-| 50975 | Deferipron Evolan | Filmdragerad tablett | Ej angiven (indraget) |
-| 64937 | Deferipron Ebb | Filmdragerad tablett | Ej angiven (indraget) |
-| 55996 | Deferiprone DOC | Filmdragerad tablett | Ej angiven (indraget) |
-| 50974 | Deferipron Evolan | Filmdragerad tablett | Ej angiven (indraget) |
+| 55997 | Deferiprone DOC | Filmdragerad tablett | Ej angiven |
+| 50975 | Deferipron Evolan | Filmdragerad tablett | Ej angiven |
+| 64937 | Deferipron Ebb | Filmdragerad tablett | Ej angiven |
+| 55996 | Deferiprone DOC | Filmdragerad tablett | Ej angiven |
+| 50974 | Deferipron Evolan | Filmdragerad tablett | Ej angiven |
+
+<!-- review:begin se-row-20261112-deferiprone-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”55997 / Deferiprone DOC / Filmdragerad tablett / Ej angiven (indraget); 50975 / Deferipron Evolan / Filmdragerad tablett / Ej angiven (indraget); 64937 / Deferipron Ebb / Filmdragerad tablett / Ej angiven (indraget); 55996 / Deferiprone DOC / Filmdragerad tablett / Ej angiven (indraget); 50974 / Deferipron Evolan / Filmdragerad tablett / Ej angiven (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 55997, 50975, 64937, 55996, 50974 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-deferiprone-1 -->
 
 ---
 
@@ -145,6 +151,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Samtliga fem godkännanden är indragna, och inget läkemedel med deferipron har för närvarande giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”och läkemedlet saknar för närvarande giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (55997, 50975, 64937, 55996, 50974) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

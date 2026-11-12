@@ -88,9 +88,15 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 11504 | Livostin (McNeil Sweden AB) | Nässpray, suspension | Ingen indikationstext angiven (indraget) |
-| 61691 | Livostin (Ebb Medical AB) | Nässpray, suspension | Ingen indikationstext angiven (indraget) |
-| 11328 | Livostin (McNeil Sweden AB) | Ögondroppar, suspension | Ingen indikationstext angiven (indraget) |
+| 11504 | Livostin (McNeil Sweden AB) | Nässpray, suspension | Ingen indikationstext angiven |
+| 61691 | Livostin (Ebb Medical AB) | Nässpray, suspension | Ingen indikationstext angiven |
+| 11328 | Livostin (McNeil Sweden AB) | Ögondroppar, suspension | Ingen indikationstext angiven |
+
+<!-- review:begin se-row-20261112-levocabastine-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”11504 / Livostin (McNeil Sweden AB) / Nässpray, suspension / Ingen indikationstext angiven (indraget); 61691 / Livostin (Ebb Medical AB) / Nässpray, suspension / Ingen indikationstext angiven (indraget); 11328 / Livostin (McNeil Sweden AB) / Ögondroppar, suspension / Ingen indikationstext angiven (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 11504, 61691, 11328 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-levocabastine-1 -->
 
 ---
 
@@ -135,6 +141,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”essutom är alla svenska godkännanden indragna, och d” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 3 godkännanden (11504, 61691, 11328) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

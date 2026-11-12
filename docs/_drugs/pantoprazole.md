@@ -97,7 +97,13 @@ Litteraturen är till stor del översikter och äldre jämförande studier. Neda
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 51722 (indragen) | Pantoprazol SUN | Pulver till injektionsvätska, lösning | Ingen indikationstext registrerad |
+| 51722 | Pantoprazol SUN | Pulver till injektionsvätska, lösning | Ingen indikationstext registrerad |
+
+<!-- review:begin se-row-20261112-pantoprazole-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”51722 (indragen) / Pantoprazol SUN / Pulver till injektionsvätska, lösning / Ingen indikationstext registrerad” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 51722 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-pantoprazole-1 -->
 
 ---
 
@@ -145,6 +151,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”men produkten är endast registrerad med indragna godkännanden i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom det enda godkännandet är indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 1 godkännande (51722) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

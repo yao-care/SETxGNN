@@ -78,7 +78,13 @@ Inga relaterade kliniska prövningar registrerade för närvarande för den för
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 11325 (indragen) | Neupogen (Amgen Europe B.V.) | Injektionsvätska, lösning | Ingen indikationstext angiven |
+| 11325 | Neupogen (Amgen Europe B.V.) | Injektionsvätska, lösning | Ingen indikationstext angiven |
+
+<!-- review:begin se-row-20261112-filgrastim-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”11325 (indragen) / Neupogen (Amgen Europe B.V.) / Injektionsvätska, lösning / Ingen indikationstext angiven” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 11325 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-filgrastim-1 -->
 
 ---
 
@@ -123,6 +129,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Notera att det enda svenska godkännandet är indraget, vilket påverkar tillgängligheten” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 1 godkännande (11325) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

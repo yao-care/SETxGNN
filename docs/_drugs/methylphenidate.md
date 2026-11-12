@@ -114,11 +114,17 @@ Ingen godkänd indikationstext finns registrerad. Nedan visas fem av dem.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Status |
 |---------|------|------|-----------|
-| 23837 | Medikinet | Tablett | Indragen |
-| 23840 | Medikinet | Kapsel med modifierad frisättning, hård | Indragen |
-| 50408 | Ritalin | Kapsel med modifierad frisättning, hård | Indragen |
-| 58475 | Methylphenidate STADA | Depottablett | Indragen |
-| 61711 | Affenid | Kapsel med modifierad frisättning, hård | Indragen |
+| 23837 | Medikinet | Tablett | Godkänd |
+| 23840 | Medikinet | Kapsel med modifierad frisättning, hård | Godkänd |
+| 50408 | Ritalin | Kapsel med modifierad frisättning, hård | Godkänd |
+| 58475 | Methylphenidate STADA | Depottablett | Godkänd |
+| 61711 | Affenid | Kapsel med modifierad frisättning, hård | Godkänd |
+
+<!-- review:begin se-row-20261112-methylphenidate-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”23837 / Medikinet / Tablett / Indragen; 23840 / Medikinet / Kapsel med modifierad frisättning, hård / Indragen; 50408 / Ritalin / Kapsel med modifierad frisättning, hård / Indragen; 58475 / Methylphenidate STADA / Depottablett / Indragen; 61711 / Affenid / Kapsel med modifierad frisättning, hård / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 23837, 23840, 50408, 58475, 61711 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-methylphenidate-1 -->
 
 ---
 
@@ -164,6 +170,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (23837, 23840, 50408, 58475, 61711) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

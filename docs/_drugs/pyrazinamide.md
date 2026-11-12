@@ -100,8 +100,14 @@ Alla dessa avser tuberkulös infektion, det vill säga läkemedlets ursprungliga
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 16663 | Rimcure | Filmdragerad tablett | Ingen indikationstext tillgänglig (indraget) |
-| 16899 | Rimstar | Filmdragerad tablett | Ingen indikationstext tillgänglig (indraget) |
+| 16663 | Rimcure | Filmdragerad tablett | Ingen indikationstext tillgänglig |
+| 16899 | Rimstar | Filmdragerad tablett | Ingen indikationstext tillgänglig |
+
+<!-- review:begin se-row-20261112-pyrazinamide-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”16663 / Rimcure / Filmdragerad tablett / Ingen indikationstext tillgänglig (indraget); 16899 / Rimstar / Filmdragerad tablett / Ingen indikationstext tillgänglig (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 16663, 16899 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-pyrazinamide-1 -->
 
 ---
 
@@ -148,6 +154,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Båda godkännandena (Sandoz A/S) är indragna, och inget giltigt enkomponentsgodkännande eller kombinationsgodkännande finns för närvarande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Aktuell marknadsstatus, eftersom båda svenska godkännandena är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 2 godkännanden (16663, 16899) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

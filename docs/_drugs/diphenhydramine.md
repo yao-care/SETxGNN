@@ -84,7 +84,13 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 3866 | Desentol (Viatris AB) | Oral lösning | Ingen indikationstext registrerad. Status: indragen |
+| 3866 | Desentol (Viatris AB) | Oral lösning | Ingen indikationstext registrerad |
+
+<!-- review:begin se-row-20261112-diphenhydramine-1 -->
+
+> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”3866 / Desentol (Viatris AB) / Oral lösning / Ingen indikationstext registrerad. Status: indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 3866 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-row-20261112-diphenhydramine-1 -->
 
 Den enda registrerade beredningsformen är oral, vilket också är en brist för en okulär indikation (se nedan).
 
@@ -132,6 +138,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Det enda godkännandet är indraget, och ingen giltig produkt finns på den svenska marknaden” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 1 godkännande (3866) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 
