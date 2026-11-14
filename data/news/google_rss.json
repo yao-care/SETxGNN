@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-11-14T08:29:34.571868+00:00",
+  "fetched_at": "2026-11-14T15:29:06.329194+00:00",
   "source": "Google News Health RSS",
-  "count": 46,
+  "count": 48,
   "articles": [
+    {
+      "id": "3513e5a97953",
+      "title": "MSF: ”Läkemedelssystemet är fundamentalt felaktigt” - LäkemedelsVärlden",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdk5FVVV4STBPTzZnY2ZRd0RHckFfZmxEeTIyWGNDbHdtZ0VORUZsdUlzXzZ6WnNwQW9vSE83NjB6OFY5MTZrUXlUcS14RjdzNXN4M2NYZmpEbTR5Zkptd0pWOUpuWnBMYmJ1VjZOZTRQalhkTU5LRGVmZFByRy1YdWJBdndPa09GU2c?oc=5",
+      "published": "2026-11-12T14:49:55+00:00",
+      "source": {
+        "name": "LäkemedelsVärlden",
+        "url": "https://www.lakemedelsvarlden.se"
+      }
+    },
     {
       "id": "d12d82623bc5",
       "title": "Apotek Hjärtat om storaffären: ”Handlar inte om att styra patientflöden” - Dagens Medicin",
@@ -24,20 +34,10 @@
       }
     },
     {
-      "id": "edddc4939c8e",
-      "title": "Avrådan från hostdämpande eller slemlösande läkemedel vid hosta - Region Blekinge",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQUF8xbVNlV1Z1enBVN3NLLVB5WVF0Tm1tN0FPSWwyTi0zdkhqU2w1dDl5RjVKRlVUMG45MVE2VGtIUGNVMTFhME5YN2d0b2VTT2dfWjhoR3VXUnV1cTdsSkYtVFc3Y3RDeW9sQTZzTDhhN1lNQnR5MnlzeTlVTHQ2dzBzZGJqeDBaQmlXVjVhei0yZnZNUU4tYzZLLUpvWVcxa3U5cGV5Z2Y2YWt5M3A3ZlA4ekNzdHdyRDNPVHhiRS1VM18xZUFRWGdiX2RLb005dS1oNlRNdUlwMkZBSGlJaXJSUFNYd08yS1ZwcHZzNElxX3FQbTFzUVFtZldGV0lhcWJLcXFlWUR2M282Z1hVMGRCNGlfV0dvV2xaMFIxZ0VSU0puVXdaR3FHTU1BVzg?oc=5",
-      "published": "2026-10-21T07:00:00+00:00",
-      "source": {
-        "name": "Region Blekinge",
-        "url": "https://regionblekinge.se"
-      }
-    },
-    {
-      "id": "d402678d37b0",
-      "title": "(+) Så påverkas sexlivet av viktminskningsmedicin - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMC16dWhxLWJKZ3QwbmxNVlRMMHJMU1VvNk41bnd0RmNBVjQwamlCME41cEJlckdQLThRYmJ2TmZjSzAtWkR5Y1VwcTVWTDFRd0U2VFRBRHpvVi1LTkZob1dGVmt1U3lIOHNRTUpFTDVKUUZiS000VVhieDltNEIwSWx0aWZidk1naG0xLXUySEQ?oc=5",
-      "published": "2026-11-09T14:28:06+00:00",
+      "id": "b1be6c00bba8",
+      "title": "Alejandra, 37: Jag gick ner i ett hål av ångest - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYk8xY29LZ1IzSDZmUnFsVXE4YllrMU1RTDJGLWZVRXhQTG1lenpWejR5SVZ2MDEtZldDZGRJZmdrRWE4Z0R4bVZkXzBLMVc5WEhlZUFmX0F0RDBlQUVfWDVfMzBrV29hdlNodmZDRlBUdTFXYldyNVBQalVhRy02YXhSVktvc1VNTlRMTUFXdERFVXFhakE?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
@@ -54,6 +54,16 @@
       }
     },
     {
+      "id": "edddc4939c8e",
+      "title": "Avrådan från hostdämpande eller slemlösande läkemedel vid hosta - Region Blekinge",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQUF8xbVNlV1Z1enBVN3NLLVB5WVF0Tm1tN0FPSWwyTi0zdkhqU2w1dDl5RjVKRlVUMG45MVE2VGtIUGNVMTFhME5YN2d0b2VTT2dfWjhoR3VXUnV1cTdsSkYtVFc3Y3RDeW9sQTZzTDhhN1lNQnR5MnlzeTlVTHQ2dzBzZGJqeDBaQmlXVjVhei0yZnZNUU4tYzZLLUpvWVcxa3U5cGV5Z2Y2YWt5M3A3ZlA4ekNzdHdyRDNPVHhiRS1VM18xZUFRWGdiX2RLb005dS1oNlRNdUlwMkZBSGlJaXJSUFNYd08yS1ZwcHZzNElxX3FQbTFzUVFtZldGV0lhcWJLcXFlWUR2M282Z1hVMGRCNGlfV0dvV2xaMFIxZ0VSU0puVXdaR3FHTU1BVzg?oc=5",
+      "published": "2026-10-21T07:00:00+00:00",
+      "source": {
+        "name": "Region Blekinge",
+        "url": "https://regionblekinge.se"
+      }
+    },
+    {
       "id": "4b9cde889367",
       "title": "Nya varningen för Ozempic – så liten är risken i siffror - Metro Mode",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMkpOVUlIeXJsWnZiRTI3STgtbGdVUFRFenhIM3UzS1FyWFp0N2dZYkc4c3VoR3FOOVhSY3FKRVhielpJR1dKdEdyMjRDQnRCNnlSdHdoeVlMSEpTQ3g3Z252UFB6LTk5dXlNR3lQQkVwdmVUbFM2RE4tNUg0dkFBdWEzWWFDaGozcHc?oc=5",
@@ -61,16 +71,6 @@
       "source": {
         "name": "Metro Mode",
         "url": "https://metromode.se"
-      }
-    },
-    {
-      "id": "74f6f2c1decb",
-      "title": "Valproat – ingen fastställd länk mellan pappans medicinering och barnets hälsa - LäkemedelsVärlden",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnhVMEV4S3JTdHBvYnkzTjYzQVdBUlI3UFlBUEFlei1yV0tkSVFVQmRvVkF0WHNnczFZbkpEb1lleWxPOUYzWVprUTRTYmRucTh3UmxlREIwemw1TnRJaXFWN3lHS1EtOVNJbU5PQmdfUGN6WDJ6TEFRaERNOXltQzZfWDN3bmx2RjlXT2VibEU3UURwUzB1QmRReUtwY1drQnYw?oc=5",
-      "published": "2026-06-22T07:00:00+00:00",
-      "source": {
-        "name": "LäkemedelsVärlden",
-        "url": "https://www.lakemedelsvarlden.se"
       }
     },
     {
@@ -114,33 +114,23 @@
       }
     },
     {
-      "id": "b1be6c00bba8",
-      "title": "Alejandra, 37: Jag gick ner i ett hål av ångest - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYk8xY29LZ1IzSDZmUnFsVXE4YllrMU1RTDJGLWZVRXhQTG1lenpWejR5SVZ2MDEtZldDZGRJZmdrRWE4Z0R4bVZkXzBLMVc5WEhlZUFmX0F0RDBlQUVfWDVfMzBrV29hdlNodmZDRlBUdTFXYldyNVBQalVhRy02YXhSVktvc1VNTlRMTUFXdERFVXFhakE?oc=5",
-      "published": "2026-11-03T08:00:00+00:00",
+      "id": "d402678d37b0",
+      "title": "(+) Så påverkas sexlivet av viktminskningsmedicin - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMC16dWhxLWJKZ3QwbmxNVlRMMHJMU1VvNk41bnd0RmNBVjQwamlCME41cEJlckdQLThRYmJ2TmZjSzAtWkR5Y1VwcTVWTDFRd0U2VFRBRHpvVi1LTkZob1dGVmt1U3lIOHNRTUpFTDVKUUZiS000VVhieDltNEIwSWx0aWZidk1naG0xLXUySEQ?oc=5",
+      "published": "2026-11-09T14:28:06+00:00",
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
       }
     },
     {
-      "id": "7db54a515980",
-      "title": "Östrogenbristen: Nästan alla med hormonplåster har drabbats – samtidigt växer klimakteriemarknaden med miljarder - Metro Mode",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSHFwSXUxdGp0d1hIUS1qcEhoOXZvOUU2TVBmenhCU25TY2JLdXRQeXlrdTZJc242LU56WWxSSzNheW80THBSZXNzSnlxczVaNXh3VjRTZ09iVFA5MFpGdFVqRFNNYWRCSWsxLW1iTklMRkVlOG1MQ1hSSE9KcWxVWFRHYV9uMU82cFZTekU1b3h4M1F2cl9rVmZRS3BzandlTmxlNVFETEgxemFkMFZhWXpaclowUlEyb3dSVDRiR0gzUFAwQTdONjRaOWhzSU9mZW5r?oc=5",
-      "published": "2026-11-12T09:07:41+00:00",
+      "id": "74f6f2c1decb",
+      "title": "Valproat – ingen fastställd länk mellan pappans medicinering och barnets hälsa - LäkemedelsVärlden",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnhVMEV4S3JTdHBvYnkzTjYzQVdBUlI3UFlBUEFlei1yV0tkSVFVQmRvVkF0WHNnczFZbkpEb1lleWxPOUYzWVprUTRTYmRucTh3UmxlREIwemw1TnRJaXFWN3lHS1EtOVNJbU5PQmdfUGN6WDJ6TEFRaERNOXltQzZfWDN3bmx2RjlXT2VibEU3UURwUzB1QmRReUtwY1drQnYw?oc=5",
+      "published": "2026-06-22T07:00:00+00:00",
       "source": {
-        "name": "Metro Mode",
-        "url": "https://metromode.se"
-      }
-    },
-    {
-      "id": "b839bf00c97e",
-      "title": "”När politiska budskap påverkar hälsa och tillgång till läkemedel” - Svensk Farmaci",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW9FaGZQZmRZbUp2WDFsX3dkRFQ1Q1R0UHlhTGlIREc4LUpDT05Od1h2SUhieFh3aWUxUnFjTXYwNGZBWFJkdENQTTVmbWZTR0tkSEZ4eUZZUlBaa24yVFdvd1dMS2dmZVJLMjlLOWNfUmprNGJvZDVTaGpYZEVETXFPcnhVR3A3LXNVWGlZeDE5dDFMTEdpWHliUHkwSUJuTzhxS1prN2I?oc=5",
-      "published": "2026-02-05T08:00:00+00:00",
-      "source": {
-        "name": "Svensk Farmaci",
-        "url": "https://www.svenskfarmaci.se"
+        "name": "LäkemedelsVärlden",
+        "url": "https://www.lakemedelsvarlden.se"
       }
     },
     {
@@ -154,10 +144,50 @@
       }
     },
     {
-      "id": "342a439cf534",
-      "title": "Lista: Läkare som bolagen betalade över 100 000 till 2025 - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSEpiZnlOTFY1aDFUSzZIMFRZX25ReGFVaUNBdlFIZ0NkbHpnZWliR2IwS0p0NUVBMTJCdjR6Y0xBdmE0QUFLT2VhaGQzMXd3d296TkxYM2ZPYUxFMHdFWUVvQllqVFp0YnJvUlBTT2VCb3A0WjJRUTB4dlhKZWFWSWpfRnN1Wng0ckZDNC1wUDR3TXBJUmJnLUtTenZDV2F2dTNzNTRyTWlyRUI3OGNvUA?oc=5",
+      "id": "208fe58ececd",
+      "title": "Vårdpersonal får mest av läkemedelsbolagens samarbetskaka - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2ViNDBVS2pDTzNVVk9lRzFlSURxblpyRE53bmZtcEhNRW94TzZaTHB0T2pEaVZUQ0lJdWtrenUwVmlZS3hST2FCN01XVHNrVzI1NFhLLXJlYWZMamhVaXlkcUpxaFFOd3FGZXVhQ0o0NUlkVmNFUTlSdEptb3RlY0c5SlprZ05remFNUzRzOEhONDA5LTlMV2VwM0VHenhBVWJIbmxWLU4yWi1nM0FHUFJB?oc=5",
+      "published": "2026-11-09T20:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "e4810ebd38be",
+      "title": "Låt experter på medicin leda sjukvården - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOblpxNlk1SGxoLV96X1RDck1oOC1Fb3huTkhDVFAxcEJCVHNGSkpfM01kZmlOdWpmcVlRek9YQVJJWGZONVAyQnZVeUEwcmRZamdTb3hpTGpELWJDbU1LalRmYkh2RERBcGM5Uk9iNEJYOGxzRjY2Z3Zna2YyOEExSzh3aWdFSlJ1YUNLaQ?oc=5",
+      "published": "2026-11-12T19:30:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "a746b0da3bf7",
+      "title": "Så ser läkare som ersätts med stora belopp från industrin på samarbetet - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQazh5bHN2UGhNR3p6bUpfMTNLVTRCUkF5VWswUGpiai11bFNFVkVqQVdMckNMdmVkZ21VY185TjFaRXpyZHhUMEJBdmJJLTA1azNTTlEyS25OQTQ4c2gzbE9uYUlkMC1Wb1dFLWNPdkJLYVJPVlRlUWEwbHpMUjVzd2NIZGRxWGhSQV9xSkN4ejdMeU9TUE16YTUzRER6NlJoYjIwWXBVYjYzU2xFU08tN0UzZFRvUXRlcVZzM2dsM2lQZTlU?oc=5",
       "published": "2026-11-10T20:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "cc4292381992",
+      "title": "Nya fynd talar för utvidgad användning av trombektomi - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPekdtaEhJTzY4dVF4aHBKeFdWVC03X0xOZm1IeGxiRno3ZnQ5aGNobHF2c2dGdUl5NzBMLXNYQ1VqMWlHN21zRW52cnhIRnl5NEhWajV3NENtemI5QUVic2tfUThFcjJXcGZCMGNYZEJET0ViTVBMalNzNVN0ZjhENmNCNy1MLWVGVU51R2VPcEQyb2pHVGVOQUdQVmtoVE1IMVh0V3p2Z2UyNVhTT3dzOQ?oc=5",
+      "published": "2026-11-13T03:02:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "46c5c0e3c5b9",
+      "title": "Regioner ger stöd till öppnare vårdsystem - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDlhaElJM0pPS19rU3RGYUhlanFVYk9PWlhQaFhGT1lWd25oYTYyZXkxeGNVU2pwd2FKXzlLOU1rTVlaSUtuSWdLTzRsczFucVl1eER4UjNaLTJtS1pWRTlXdzA2aVliREpVWGV5QWxiam5oRlBWWTNPeGNKX0FVZHM1amVmbGVVc3dtYkRWSlJRckJyVjJzTU54XzRlN3pyZEtaME9R?oc=5",
+      "published": "2026-11-10T04:17:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -167,20 +197,20 @@
       "id": "0162afd2069f",
       "title": "Ny antikropp skyddade breda grupper av kol-patienter - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcnpsVEh1cjhoUnU4ZW1jczdBYjEtRVNUdzVEaVFmRUhsSDA4dkFGaE0xd0dLa1ZQeWg1UzhLOTBsWHU2V0sxUk51elNtdkJvcVZIYWMzb1ZybjB1NzdmTW0wNE9lZ0NJZWZiRHg3aEVTQzg2U19wMjM2bmxTNzh1RWVWVG5YRUc0YUFYZnp6c3lrUjc4TkQ0WElGd2tJdGY1YWtOOGJXUjlnVFowN21ESS13?oc=5",
-      "published": "2026-11-06T01:36:00+00:00",
+      "published": "2026-11-06T08:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
       }
     },
     {
-      "id": "e2653af456a3",
-      "title": "Omega-3-läkemedel överraskar vid kolorektal cancer - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLXc3UlZBY0w4a283VDA3bVJMdDBRWWtBVzJKWmRIOUVvUFJkWDNlZlBoQWdEdEhzdm1HY0RTZ3JRZWJseFF4Y1d5MnNxOEtONDF3WXRDcktSYUlLZ3dOUzVmbUVKY21Ia2RGenE4RU5qT20wcnBVNzVQM25PWVIzOGY2TVM5MGZPNms5SWxwcDNOQUt4MnZtaTNLM0hRYzVTYUg3Q3VrT3E?oc=5",
-      "published": "2026-10-29T07:00:00+00:00",
+      "id": "b839bf00c97e",
+      "title": "”När politiska budskap påverkar hälsa och tillgång till läkemedel” - Svensk Farmaci",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW9FaGZQZmRZbUp2WDFsX3dkRFQ1Q1R0UHlhTGlIREc4LUpDT05Od1h2SUhieFh3aWUxUnFjTXYwNGZBWFJkdENQTTVmbWZTR0tkSEZ4eUZZUlBaa24yVFdvd1dMS2dmZVJLMjlLOWNfUmprNGJvZDVTaGpYZEVETXFPcnhVR3A3LXNVWGlZeDE5dDFMTEdpWHliUHkwSUJuTzhxS1prN2I?oc=5",
+      "published": "2026-02-05T08:00:00+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "Svensk Farmaci",
+        "url": "https://www.svenskfarmaci.se"
       }
     },
     {
@@ -224,6 +254,16 @@
       }
     },
     {
+      "id": "94726c4d1c3c",
+      "title": "Kända rättsfall som skakat sjukvården – här är listan - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQk1JQmoyQjNiQktLODhCbEJRUDdxY280QVhCNjhaZWZQbi1JdlV0UkZOazNlVUxTUWoyaThYUHJKVjE0YlhqbWRYV3QzcmF6UUd6eFRscmVQdU9NU19NR2ZIQ2JOR010TUVrdEZsejF0WkdrVmkwUW5UQ0xHa0ZRMXVIX0U0c0l2cE12MXZDUlNHR2pUNXRYYU44Q1B5bW1ndnM3NHVlcjUtZw?oc=5",
+      "published": "2026-10-21T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "ad9856571ea6",
       "title": "Semaglutid i tablett gav samma viktminskning som i penna - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmExOWVMNXR6d2pqM21ieHJ1SkpMeThsYjNuaGlxYTFnMHVFNlliVjB1WmhGdjFMLWl1aGhGVWdrWWxmUnlTZWNDRWZ1aVk0Q1UxeUwtMlk4OF9TenZxQ01wVGgxWTdfRjF4QzIxOUZSZWVDckFCcXM2S0MtaEJuMVFJQTZ2OVhWUTY0SE55ZmhfNW9rNDFEVTNfend6c2dNN282WW9XU0VXQ3c1akE?oc=5",
@@ -241,16 +281,6 @@
       "source": {
         "name": "Riksrevisionen",
         "url": "https://www.riksrevisionen.se"
-      }
-    },
-    {
-      "id": "74bb704197f4",
-      "title": "Medicin & hälsa - Ekot - Sveriges Radio",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uMWdPZmpRQ1hfR3JGSlhXZmMwWnV4eHlHZS1jT2txRzZUbEpodXdwbW00YUFodjFPaTNjaHVneS1hTGI2eVdYeWtad0NxdWFYNXc?oc=5",
-      "published": "2025-01-13T13:44:04+00:00",
-      "source": {
-        "name": "Sveriges Radio",
-        "url": "https://www.sverigesradio.se"
       }
     },
     {
@@ -284,16 +314,6 @@
       }
     },
     {
-      "id": "af524865792f",
-      "title": "”Stärk kampen mot falska läkemedel” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMndpMWhNeGlCR3ZteFBFZEZjeV9jWHVZS1kweFZmOFBxbVNnNlF1T2k4WWJQMXR3Q3lIbWJrUHZpTXZGeHUzQjQtUUlkNWpzQjNoN2VTMmJtV3pIMXpsSFA5LXlmdEREXzI4dE1QcmZ4RUFUZnZHSHVNUXNPV2JmOW51NUQ?oc=5",
-      "published": "2024-09-15T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "212983bc8556",
       "title": "Befolkningens psykiska hälsa - Folkhälsomyndigheten",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc3JCMDFLZUtJVGZPOXVfRS02eHlOZmJzWkRNSHQyb2F1aWpHNmlDLXMxN1lGanctS1g0bENXcXBzUlRBU3hOTGxlaXNtdWhVYTRCNGxvQnQzZEt5Y0VlTW1FaFBVRTdpMGNQOXl2dDQwNFVUWF9yTS1FMWxibndvYllITk1oREc5Yk9hOUNoa1IwMzlNV0ZVSFkzV1VUUQ?oc=5",
@@ -304,13 +324,13 @@
       }
     },
     {
-      "id": "3236a525ce30",
-      "title": "”Läkemedel och hälsa berör oss alla på djupet” - LäkemedelsVärlden",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUGxGMXBtcVpDNGg1Y0gweE5PZkgzTFRUaFF4TkY2b1QyVkhkWFQ0dTV2aHM4Qnd1eFNxbDRmYVRsQ3NrY1phNzBFVXMzV3dUVmVYVDZyNG1RbWNmSnBSenVNV3BpQjhvTVlSSVd6Si1Ma2NNdEd2NjliS0gzTkRrYXlVUWZYQQ?oc=5",
-      "published": "2023-02-14T08:00:00+00:00",
+      "id": "af524865792f",
+      "title": "”Stärk kampen mot falska läkemedel” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMndpMWhNeGlCR3ZteFBFZEZjeV9jWHVZS1kweFZmOFBxbVNnNlF1T2k4WWJQMXR3Q3lIbWJrUHZpTXZGeHUzQjQtUUlkNWpzQjNoN2VTMmJtV3pIMXpsSFA5LXlmdEREXzI4dE1QcmZ4RUFUZnZHSHVNUXNPV2JmOW51NUQ?oc=5",
+      "published": "2024-09-15T07:00:00+00:00",
       "source": {
-        "name": "LäkemedelsVärlden",
-        "url": "https://www.lakemedelsvarlden.se"
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -321,6 +341,16 @@
       "source": {
         "name": "Janusinfo.se",
         "url": "https://janusinfo.se"
+      }
+    },
+    {
+      "id": "3236a525ce30",
+      "title": "”Läkemedel och hälsa berör oss alla på djupet” - LäkemedelsVärlden",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUGxGMXBtcVpDNGg1Y0gweE5PZkgzTFRUaFF4TkY2b1QyVkhkWFQ0dTV2aHM4Qnd1eFNxbDRmYVRsQ3NrY1phNzBFVXMzV3dUVmVYVDZyNG1RbWNmSnBSenVNV3BpQjhvTVlSSVd6Si1Ma2NNdEd2NjliS0gzTkRrYXlVUWZYQQ?oc=5",
+      "published": "2023-02-14T08:00:00+00:00",
+      "source": {
+        "name": "LäkemedelsVärlden",
+        "url": "https://www.lakemedelsvarlden.se"
       }
     },
     {
@@ -384,6 +414,16 @@
       }
     },
     {
+      "id": "437510a6d109",
+      "title": "Bröstkollen väljer Danderyds Centrum för första mottagningen – kompletterar ett omfattande hälsoerbjudande - Mynewsdesk",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSEtOSV9HU1RoRWdhUkVoLWZsbS1RQ0o5YW1PNUpuaEdvcl9MOXFjeUFGOExrZlNseGV3SUxqNkJPS1kxZ0VYZ1JhX2lXaGs5QjM1Uzd2dDZZQVlyQXNvNENDQmF1aXU0enRka2N6ZjRDVVkxSHlnV2c0UEg3NFJHZjFpdkZCeFJfSzNLZnBNb2xUX1NsZ1l4WjZwWnNJVl9XSlE1NjZjUWZLdEVabVZ6LTFQendCZDd6Q0tKU1duVGY2MF9ZVlRGTVAyX0RQYjU3eGRITE5fMVctREp4aG1teXg4WFc1eVV0aEhTcXVvLTVfWC1XbndjeDVUQXhrbktmU1hKX19nbXllZU0?oc=5",
+      "published": "2026-11-11T06:00:00+00:00",
+      "source": {
+        "name": "Mynewsdesk",
+        "url": "https://www.mynewsdesk.com"
+      }
+    },
+    {
       "id": "75d9c5b3d1b1",
       "title": "Kampen mot falska mediciner - Forskning & Framsteg",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wUC1QR2x5aTZhTjY3WlpYRFk2VnR4em5IbnEwdU9RTGxQdjJZNFBRckdKOEtuLW5QQ3J3VE41VmI5TUswYXhndmJVT3NNb0FzMFhyM21lOWlJVHp1cWw2Xw?oc=5",
@@ -404,16 +444,6 @@
       }
     },
     {
-      "id": "437510a6d109",
-      "title": "Bröstkollen väljer Danderyds Centrum för första mottagningen – kompletterar ett omfattande hälsoerbjudande - Mynewsdesk",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSEtOSV9HU1RoRWdhUkVoLWZsbS1RQ0o5YW1PNUpuaEdvcl9MOXFjeUFGOExrZlNseGV3SUxqNkJPS1kxZ0VYZ1JhX2lXaGs5QjM1Uzd2dDZZQVlyQXNvNENDQmF1aXU0enRka2N6ZjRDVVkxSHlnV2c0UEg3NFJHZjFpdkZCeFJfSzNLZnBNb2xUX1NsZ1l4WjZwWnNJVl9XSlE1NjZjUWZLdEVabVZ6LTFQendCZDd6Q0tKU1duVGY2MF9ZVlRGTVAyX0RQYjU3eGRITE5fMVctREp4aG1teXg4WFc1eVV0aEhTcXVvLTVfWC1XbndjeDVUQXhrbktmU1hKX19nbXllZU0?oc=5",
-      "published": "2026-11-11T06:00:00+00:00",
-      "source": {
-        "name": "Mynewsdesk",
-        "url": "https://www.mynewsdesk.com"
-      }
-    },
-    {
       "id": "552b1d13466f",
       "title": "Dieterna kan ge liknande resultat som Ozempic - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjhycHpNOTcxUm5mOUlWZHNNUWlsVGQ2ZnRBellkb0hXUE9ITWJKNzM2Z05UQ3p5VzRYTmx5UnJ1MUxRT2dnc1kyQmhlTGJ6YUhtMEdfOVBzM1k2SkZZRW5mUjZYRms4aTM2NTQtcDhGbFJHY1N6d3QtUTFFZEtsTVF6XzVvMGk2OVloTmI0cGJDNkJJb21vNFBnUU9QQQ?oc=5",
@@ -421,16 +451,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "92d54f609f6b",
-      "title": "Läkemedlen som söker sina sjukdomar - Forskning & Framsteg",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vaTlqMlNWR3FHYUctNDZqcnRfVDZtTTJFdFJZem80dGJtSjROSGdwaXRyUHlmYmFWbmNRTmk3VllacXRidkZoc0FlblpvS3J2VVdoa1pQSUphbFpxS2tHZGVYMEJ6WHJMX1dv?oc=5",
-      "published": "2004-01-01T08:00:00+00:00",
-      "source": {
-        "name": "Forskning & Framsteg",
-        "url": "https://fof.se"
       }
     },
     {
@@ -444,23 +464,23 @@
       }
     },
     {
-      "id": "d686a486e91c",
-      "title": "Alvedon får inte kallas ”snällt” - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcXBDQVIyVGRGbmMyc0t6UzhIN2ZzaF9yYUZjZnBDNWhpVzZFc0lOVFIwMFRhT0ZYZjZqRHlLV0o4dFpYQm9UaWhjUnVLNVpFb3h1WmtPc0d2VGkyQVRSSTZkU0x1ZmxobkZPckM1V0FNWXFCb2ktRGxCUWd6YWNGMkdkRzUyTVE?oc=5",
-      "published": "2010-09-16T07:00:00+00:00",
+      "id": "92d54f609f6b",
+      "title": "Läkemedlen som söker sina sjukdomar - Forskning & Framsteg",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vaTlqMlNWR3FHYUctNDZqcnRfVDZtTTJFdFJZem80dGJtSjROSGdwaXRyUHlmYmFWbmNRTmk3VllacXRidkZoc0FlblpvS3J2VVdoa1pQSUphbFpxS2tHZGVYMEJ6WHJMX1dv?oc=5",
+      "published": "2004-01-01T08:00:00+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "Forskning & Framsteg",
+        "url": "https://fof.se"
       }
     },
     {
-      "id": "b79e06e9f64f",
-      "title": "Läkemedel och kosttillskott – ny varning 2026 - HurBra.se",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwWE1TZVlRQlBuZndkdlRRX2hicmx5Ym9CU294ZEV5VFlYOXFEU3drOWFNbEJTeUlybFFRTzBzNVJnLWtsSG9sYTA5US1SNGxVSmZvVVBYZ0RVWnhlR0ZPWmY1ZWFvZw?oc=5",
-      "published": "2026-11-09T17:30:28+00:00",
+      "id": "143bc45bda15",
+      "title": "Amerikansk tillsynsmyndighet beordrar ny säkerhetsmärkning för Ozempic och alla GLP-1-läkemedel på grund av risk för sällsynt synförlust - Dagens.se",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVkpQakJicHFhTGt5LVJ6aHRSMjJLOXk4Uklyc083UkFYR004V3FDOFpLVFNrN25OSU5JcndaMFVZZUpuOUtXeFVHU1RmVXNlRG5uZVpWWkp6TENvVThoMkxNWGUzTG1BYWhDaFZfenNTMkJLbC1xSUx1N29rS0t2Y0Nka2F6cVB4ZWh2YlJHSUpyTDNDY2h3clZ1ZDNIWUpGc3BLcS0yaTlaMl9YWWM4M2tnU082QS1VQTNHZENPeUdMc3R3WmUyZ20tQ1hUQUN6XzNlX2p6UmtsVWdUQlBiVFM1WE1rMWFlMUhtcGNQT3ppZXU0Q2JYeHRR?oc=5",
+      "published": "2026-11-14T15:13:20+00:00",
       "source": {
-        "name": "HurBra.se",
-        "url": "https://hurbra.se"
+        "name": "Dagens.se",
+        "url": "https://www.dagens.se"
       }
     }
   ]
