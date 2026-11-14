@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-14T01:12:33.440798+00:00",
+  "fetched_at": "2026-11-14T08:29:34.571868+00:00",
   "source": "Google News Health RSS",
   "count": 46,
   "articles": [
@@ -34,10 +34,10 @@
       }
     },
     {
-      "id": "b1be6c00bba8",
-      "title": "Alejandra, 37: Jag gick ner i ett hål av ångest - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYk8xY29LZ1IzSDZmUnFsVXE4YllrMU1RTDJGLWZVRXhQTG1lenpWejR5SVZ2MDEtZldDZGRJZmdrRWE4Z0R4bVZkXzBLMVc5WEhlZUFmX0F0RDBlQUVfWDVfMzBrV29hdlNodmZDRlBUdTFXYldyNVBQalVhRy02YXhSVktvc1VNTlRMTUFXdERFVXFhakE?oc=5",
-      "published": "2026-11-03T08:00:00+00:00",
+      "id": "d402678d37b0",
+      "title": "(+) Så påverkas sexlivet av viktminskningsmedicin - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMC16dWhxLWJKZ3QwbmxNVlRMMHJMU1VvNk41bnd0RmNBVjQwamlCME41cEJlckdQLThRYmJ2TmZjSzAtWkR5Y1VwcTVWTDFRd0U2VFRBRHpvVi1LTkZob1dGVmt1U3lIOHNRTUpFTDVKUUZiS000VVhieDltNEIwSWx0aWZidk1naG0xLXUySEQ?oc=5",
+      "published": "2026-11-09T14:28:06+00:00",
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
@@ -54,6 +54,16 @@
       }
     },
     {
+      "id": "4b9cde889367",
+      "title": "Nya varningen för Ozempic – så liten är risken i siffror - Metro Mode",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMkpOVUlIeXJsWnZiRTI3STgtbGdVUFRFenhIM3UzS1FyWFp0N2dZYkc4c3VoR3FOOVhSY3FKRVhielpJR1dKdEdyMjRDQnRCNnlSdHdoeVlMSEpTQ3g3Z252UFB6LTk5dXlNR3lQQkVwdmVUbFM2RE4tNUg0dkFBdWEzWWFDaGozcHc?oc=5",
+      "published": "2026-11-11T13:31:55+00:00",
+      "source": {
+        "name": "Metro Mode",
+        "url": "https://metromode.se"
+      }
+    },
+    {
       "id": "74f6f2c1decb",
       "title": "Valproat – ingen fastställd länk mellan pappans medicinering och barnets hälsa - LäkemedelsVärlden",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnhVMEV4S3JTdHBvYnkzTjYzQVdBUlI3UFlBUEFlei1yV0tkSVFVQmRvVkF0WHNnczFZbkpEb1lleWxPOUYzWVprUTRTYmRucTh3UmxlREIwemw1TnRJaXFWN3lHS1EtOVNJbU5PQmdfUGN6WDJ6TEFRaERNOXltQzZfWDN3bmx2RjlXT2VibEU3UURwUzB1QmRReUtwY1drQnYw?oc=5",
@@ -61,16 +71,6 @@
       "source": {
         "name": "LäkemedelsVärlden",
         "url": "https://www.lakemedelsvarlden.se"
-      }
-    },
-    {
-      "id": "7db54a515980",
-      "title": "Östrogenbristen: Nästan alla med hormonplåster har drabbats – samtidigt växer klimakteriemarknaden med miljarder - Metro Mode",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSHFwSXUxdGp0d1hIUS1qcEhoOXZvOUU2TVBmenhCU25TY2JLdXRQeXlrdTZJc242LU56WWxSSzNheW80THBSZXNzSnlxczVaNXh3VjRTZ09iVFA5MFpGdFVqRFNNYWRCSWsxLW1iTklMRkVlOG1MQ1hSSE9KcWxVWFRHYV9uMU82cFZTekU1b3h4M1F2cl9rVmZRS3BzandlTmxlNVFETEgxemFkMFZhWXpaclowUlEyb3dSVDRiR0gzUFAwQTdONjRaOWhzSU9mZW5r?oc=5",
-      "published": "2026-11-12T09:07:41+00:00",
-      "source": {
-        "name": "Metro Mode",
-        "url": "https://metromode.se"
       }
     },
     {
@@ -114,13 +114,23 @@
       }
     },
     {
-      "id": "b9387100df26",
-      "title": "Skandal: SVT:s adhd-forskare får betalt av läkemedelsjätten - News55",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWhUWEhHWnNKdmhDSzhGTGJ1SlFwejd4WHE3SWRGYk9yeEMzd1J4ZWlkMkNCS05QYXp6dEt1bnFrX2RNcWpUQWQ2ejVVSHY4cDc4a0FjZzFRX3h6UGt3dEZ5eDhFNkFYMzZQbkZWZ18xcHZxZG9ydXFRRnotYllhNnFRczdwT25RNDVN?oc=5",
-      "published": "2026-11-05T18:07:57+00:00",
+      "id": "b1be6c00bba8",
+      "title": "Alejandra, 37: Jag gick ner i ett hål av ångest - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYk8xY29LZ1IzSDZmUnFsVXE4YllrMU1RTDJGLWZVRXhQTG1lenpWejR5SVZ2MDEtZldDZGRJZmdrRWE4Z0R4bVZkXzBLMVc5WEhlZUFmX0F0RDBlQUVfWDVfMzBrV29hdlNodmZDRlBUdTFXYldyNVBQalVhRy02YXhSVktvc1VNTlRMTUFXdERFVXFhakE?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
       "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "7db54a515980",
+      "title": "Östrogenbristen: Nästan alla med hormonplåster har drabbats – samtidigt växer klimakteriemarknaden med miljarder - Metro Mode",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSHFwSXUxdGp0d1hIUS1qcEhoOXZvOUU2TVBmenhCU25TY2JLdXRQeXlrdTZJc242LU56WWxSSzNheW80THBSZXNzSnlxczVaNXh3VjRTZ09iVFA5MFpGdFVqRFNNYWRCSWsxLW1iTklMRkVlOG1MQ1hSSE9KcWxVWFRHYV9uMU82cFZTekU1b3h4M1F2cl9rVmZRS3BzandlTmxlNVFETEgxemFkMFZhWXpaclowUlEyb3dSVDRiR0gzUFAwQTdONjRaOWhzSU9mZW5r?oc=5",
+      "published": "2026-11-12T09:07:41+00:00",
+      "source": {
+        "name": "Metro Mode",
+        "url": "https://metromode.se"
       }
     },
     {
@@ -188,16 +198,6 @@
       "title": "”Nu ska friska människor förvandlas till patienter” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFdoNXNGQWtmVTIwcHNRMXRMc1M5UzZtQnpadjlkRWQ2eHdUWFJlWW91MnNVUFloYzkyOHhqemc3Sll0bGNNZDJCME5rRVdHczRuT1JZbW9rRjdTb3ZPSFh0VmVQbG1RMWtZOGFvLVhxcVdXV1pDanZRYW9LZFo3OG5qY0RyNTJlaVE2RGVxbk11Tm55SC1aamJ4UjlYd3JP?oc=5",
       "published": "2026-10-30T07:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "3d5f324bd8a9",
-      "title": "Tamro vinner tvist i AD - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDBkZ192YURHTDJUU1MwTU0zRU4wU3VBT2pMQVBEakFfczdsaHJfQ1B3U3lUaWtlWFN1SjNMc1VGeW5fRUhnLVppQU5waWhsQ09pZ3hKT1g0NzlzRmc0UUtIQ05VODJ1NDV3TmttOWFjbm9lU0pfTnFqazh6a1NHWDdjdw?oc=5",
-      "published": "2026-11-06T03:41:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -384,16 +384,6 @@
       }
     },
     {
-      "id": "0a8133f0ae21",
-      "title": "\"Homeopatiska läkemedel har positiv effekt\" - Altinget.se",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc21obWVDN29IUEdnZkdpcFlLOWRPNm16cm5LVDdZdFRpNmVTM2xKMDhDX2lJS3gyNUVkLTg4SWZ2d283dVZkQjhIY0JfOFF6VlNYSmlBa1pabXR3cVBHYWViVW92TkZNQUxLMFdkci1yNEFIcjVrSUVGQ05vLVV0TkM3cHE?oc=5",
-      "published": "2016-06-18T07:00:00+00:00",
-      "source": {
-        "name": "Altinget.se",
-        "url": "https://www.altinget.se"
-      }
-    },
-    {
       "id": "75d9c5b3d1b1",
       "title": "Kampen mot falska mediciner - Forskning & Framsteg",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wUC1QR2x5aTZhTjY3WlpYRFk2VnR4em5IbnEwdU9RTGxQdjJZNFBRckdKOEtuLW5QQ3J3VE41VmI5TUswYXhndmJVT3NNb0FzMFhyM21lOWlJVHp1cWw2Xw?oc=5",
@@ -401,6 +391,16 @@
       "source": {
         "name": "Forskning & Framsteg",
         "url": "https://fof.se"
+      }
+    },
+    {
+      "id": "0a8133f0ae21",
+      "title": "\"Homeopatiska läkemedel har positiv effekt\" - Altinget.se",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc21obWVDN29IUEdnZkdpcFlLOWRPNm16cm5LVDdZdFRpNmVTM2xKMDhDX2lJS3gyNUVkLTg4SWZ2d283dVZkQjhIY0JfOFF6VlNYSmlBa1pabXR3cVBHYWViVW92TkZNQUxLMFdkci1yNEFIcjVrSUVGQ05vLVV0TkM3cHE?oc=5",
+      "published": "2016-06-18T07:00:00+00:00",
+      "source": {
+        "name": "Altinget.se",
+        "url": "https://www.altinget.se"
       }
     },
     {
