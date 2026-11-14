@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-11-13T20:15:30.000059+00:00",
+  "fetched_at": "2026-11-14T01:12:33.440798+00:00",
   "source": "Google News Health RSS",
-  "count": 47,
+  "count": 46,
   "articles": [
-    {
-      "id": "3513e5a97953",
-      "title": "MSF: ”Läkemedelssystemet är fundamentalt felaktigt” - LäkemedelsVärlden",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdk5FVVV4STBPTzZnY2ZRd0RHckFfZmxEeTIyWGNDbHdtZ0VORUZsdUlzXzZ6WnNwQW9vSE83NjB6OFY5MTZrUXlUcS14RjdzNXN4M2NYZmpEbTR5Zkptd0pWOUpuWnBMYmJ1VjZOZTRQalhkTU5LRGVmZFByRy1YdWJBdndPa09GU2c?oc=5",
-      "published": "2026-11-12T14:49:55+00:00",
-      "source": {
-        "name": "LäkemedelsVärlden",
-        "url": "https://www.lakemedelsvarlden.se"
-      }
-    },
     {
       "id": "d12d82623bc5",
       "title": "Apotek Hjärtat om storaffären: ”Handlar inte om att styra patientflöden” - Dagens Medicin",
@@ -61,6 +51,16 @@
       "source": {
         "name": "Region Stockholm",
         "url": "https://www.regionstockholm.se"
+      }
+    },
+    {
+      "id": "74f6f2c1decb",
+      "title": "Valproat – ingen fastställd länk mellan pappans medicinering och barnets hälsa - LäkemedelsVärlden",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnhVMEV4S3JTdHBvYnkzTjYzQVdBUlI3UFlBUEFlei1yV0tkSVFVQmRvVkF0WHNnczFZbkpEb1lleWxPOUYzWVprUTRTYmRucTh3UmxlREIwemw1TnRJaXFWN3lHS1EtOVNJbU5PQmdfUGN6WDJ6TEFRaERNOXltQzZfWDN3bmx2RjlXT2VibEU3UURwUzB1QmRReUtwY1drQnYw?oc=5",
+      "published": "2026-06-22T07:00:00+00:00",
+      "source": {
+        "name": "LäkemedelsVärlden",
+        "url": "https://www.lakemedelsvarlden.se"
       }
     },
     {
@@ -114,13 +114,13 @@
       }
     },
     {
-      "id": "74f6f2c1decb",
-      "title": "Valproat – ingen fastställd länk mellan pappans medicinering och barnets hälsa - LäkemedelsVärlden",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnhVMEV4S3JTdHBvYnkzTjYzQVdBUlI3UFlBUEFlei1yV0tkSVFVQmRvVkF0WHNnczFZbkpEb1lleWxPOUYzWVprUTRTYmRucTh3UmxlREIwemw1TnRJaXFWN3lHS1EtOVNJbU5PQmdfUGN6WDJ6TEFRaERNOXltQzZfWDN3bmx2RjlXT2VibEU3UURwUzB1QmRReUtwY1drQnYw?oc=5",
-      "published": "2026-06-22T07:00:00+00:00",
+      "id": "b9387100df26",
+      "title": "Skandal: SVT:s adhd-forskare får betalt av läkemedelsjätten - News55",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWhUWEhHWnNKdmhDSzhGTGJ1SlFwejd4WHE3SWRGYk9yeEMzd1J4ZWlkMkNCS05QYXp6dEt1bnFrX2RNcWpUQWQ2ejVVSHY4cDc4a0FjZzFRX3h6UGt3dEZ5eDhFNkFYMzZQbkZWZ18xcHZxZG9ydXFRRnotYllhNnFRczdwT25RNDVN?oc=5",
+      "published": "2026-11-05T18:07:57+00:00",
       "source": {
-        "name": "LäkemedelsVärlden",
-        "url": "https://www.lakemedelsvarlden.se"
+        "name": "News55",
+        "url": "https://www.news55.se"
       }
     },
     {
@@ -134,20 +134,10 @@
       }
     },
     {
-      "id": "b66094b32aaf",
-      "title": "Fängelse för våldtäkt på patient - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ2pMaE82cDY2Wm9NUWluMjJGXzhOMXQ3WTN0Y29mSU9ISmg3Vm5HU1I0WlltamN3eDBPOUVnQjNvZVhqaW4xck1GVUh6S2NLMVVnNkF5RlNDYTJxUTFpUjN2bEpFT21QclFpWU5HVDgybFZmZU5PamxHQXd5WVRQTjIxaW5jQTMyTWhtME9wNGk?oc=5",
-      "published": "2026-11-09T05:08:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "208fe58ececd",
-      "title": "Vårdpersonal får mest av läkemedelsbolagens samarbetskaka - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2ViNDBVS2pDTzNVVk9lRzFlSURxblpyRE53bmZtcEhNRW94TzZaTHB0T2pEaVZUQ0lJdWtrenUwVmlZS3hST2FCN01XVHNrVzI1NFhLLXJlYWZMamhVaXlkcUpxaFFOd3FGZXVhQ0o0NUlkVmNFUTlSdEptb3RlY0c5SlprZ05remFNUzRzOEhONDA5LTlMV2VwM0VHenhBVWJIbmxWLU4yWi1nM0FHUFJB?oc=5",
-      "published": "2026-11-09T20:00:00+00:00",
+      "id": "81940df875d7",
+      "title": "Efter MFN-konflikt: Amgen får nytt kontrakt på Repatha till Danmark - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaFpGNHc2bWk1WWFDa0FkTld4bmJsWDVwRWlnWk1ucVNzbThIbTNHM1hCVktTREx6dlJQMlFCUjJTZm85ZlVGNWVuaGVpUS03eVIwWHZZME9pMHhXbDd1anAyaG5SWnNNTzZfdHFPeXBmUldLa2NQeThfakFkeEdSdWNmYkpCbkZkYkE5Mno1Nm9XNXJMY0ZDRzVwdWF1NEsxNjZTZ0RGOFZxb1FrUXl6WkxVR2QzZEVsM044?oc=5",
+      "published": "2026-11-09T02:56:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -157,16 +147,6 @@
       "id": "342a439cf534",
       "title": "Lista: Läkare som bolagen betalade över 100 000 till 2025 - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSEpiZnlOTFY1aDFUSzZIMFRZX25ReGFVaUNBdlFIZ0NkbHpnZWliR2IwS0p0NUVBMTJCdjR6Y0xBdmE0QUFLT2VhaGQzMXd3d296TkxYM2ZPYUxFMHdFWUVvQllqVFp0YnJvUlBTT2VCb3A0WjJRUTB4dlhKZWFWSWpfRnN1Wng0ckZDNC1wUDR3TXBJUmJnLUtTenZDV2F2dTNzNTRyTWlyRUI3OGNvUA?oc=5",
-      "published": "2026-11-10T20:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "a746b0da3bf7",
-      "title": "Så ser läkare som ersätts med stora belopp från industrin på samarbetet - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQazh5bHN2UGhNR3p6bUpfMTNLVTRCUkF5VWswUGpiai11bFNFVkVqQVdMckNMdmVkZ21VY185TjFaRXpyZHhUMEJBdmJJLTA1azNTTlEyS25OQTQ4c2gzbE9uYUlkMC1Wb1dFLWNPdkJLYVJPVlRlUWEwbHpMUjVzd2NIZGRxWGhSQV9xSkN4ejdMeU9TUE16YTUzRER6NlJoYjIwWXBVYjYzU2xFU08tN0UzZFRvUXRlcVZzM2dsM2lQZTlU?oc=5",
       "published": "2026-11-10T20:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
@@ -204,6 +184,16 @@
       }
     },
     {
+      "id": "e283a9c9431b",
+      "title": "”Nu ska friska människor förvandlas till patienter” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFdoNXNGQWtmVTIwcHNRMXRMc1M5UzZtQnpadjlkRWQ2eHdUWFJlWW91MnNVUFloYzkyOHhqemc3Sll0bGNNZDJCME5rRVdHczRuT1JZbW9rRjdTb3ZPSFh0VmVQbG1RMWtZOGFvLVhxcVdXV1pDanZRYW9LZFo3OG5qY0RyNTJlaVE2RGVxbk11Tm55SC1aamJ4UjlYd3JP?oc=5",
+      "published": "2026-10-30T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "3d5f324bd8a9",
       "title": "Tamro vinner tvist i AD - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDBkZ192YURHTDJUU1MwTU0zRU4wU3VBT2pMQVBEakFfczdsaHJfQ1B3U3lUaWtlWFN1SjNMc1VGeW5fRUhnLVppQU5waWhsQ09pZ3hKT1g0NzlzRmc0UUtIQ05VODJ1NDV3TmttOWFjbm9lU0pfTnFqazh6a1NHWDdjdw?oc=5",
@@ -211,16 +201,6 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "b9387100df26",
-      "title": "Skandal: SVT:s adhd-forskare får betalt av läkemedelsjätten - News55",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWhUWEhHWnNKdmhDSzhGTGJ1SlFwejd4WHE3SWRGYk9yeEMzd1J4ZWlkMkNCS05QYXp6dEt1bnFrX2RNcWpUQWQ2ejVVSHY4cDc4a0FjZzFRX3h6UGt3dEZ5eDhFNkFYMzZQbkZWZ18xcHZxZG9ydXFRRnotYllhNnFRczdwT25RNDVN?oc=5",
-      "published": "2026-11-05T18:07:57+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
       }
     },
     {
@@ -394,16 +374,6 @@
       }
     },
     {
-      "id": "89aa44a4fa09",
-      "title": "Vanliga mediciner som kan skada dig - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVVVaWmlHNlJ4aDljSkdxODVzZC1xOFI2TDg2em01WDlWRmhZUFpBaUlFWGo1djNZTEkxMjZhcXlMQzJLUWtFVmpMTVRoRVN4dnRvakR4X213Q3cyX0NjNUhSaGUyTnYyQ3BMWDdFZGZrQlpBc1pSamtUd1Byb2pQX1Azbw?oc=5",
-      "published": "2021-07-23T12:06:40+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "d2c560277f8d",
       "title": "Sömnläkemedel försvinner från listan - Janusinfo.se",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdDJvSnJuNXdhN2JuYzRrT2pidlAtZWFicjFBZl9QdXBXZmFkQ25PRlpNMVl5cGU2Vjdkb0pVZnMxQ1FaRUx1NlcxY1hBRmFHSEg4eVJiTmJZTkdBZXJQeUpYRUxJT1QtQ2JhSDJsSFg5NURNWVFhTXZMQmp5eGVqVDRkT2JST0YzelJ2UEtDN3hmcDhaS05GdnVCVE90TWZBNkdiVEJLQVpROE9kNlItVzFHZHBaQmNBdG1BMmRIMVJ3TXE0ZWVzRVBTenBXVGlPVGc?oc=5",
@@ -424,16 +394,6 @@
       }
     },
     {
-      "id": "437510a6d109",
-      "title": "Bröstkollen väljer Danderyds Centrum för första mottagningen – kompletterar ett omfattande hälsoerbjudande - Mynewsdesk",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSEtOSV9HU1RoRWdhUkVoLWZsbS1RQ0o5YW1PNUpuaEdvcl9MOXFjeUFGOExrZlNseGV3SUxqNkJPS1kxZ0VYZ1JhX2lXaGs5QjM1Uzd2dDZZQVlyQXNvNENDQmF1aXU0enRka2N6ZjRDVVkxSHlnV2c0UEg3NFJHZjFpdkZCeFJfSzNLZnBNb2xUX1NsZ1l4WjZwWnNJVl9XSlE1NjZjUWZLdEVabVZ6LTFQendCZDd6Q0tKU1duVGY2MF9ZVlRGTVAyX0RQYjU3eGRITE5fMVctREp4aG1teXg4WFc1eVV0aEhTcXVvLTVfWC1XbndjeDVUQXhrbktmU1hKX19nbXllZU0?oc=5",
-      "published": "2026-11-11T06:00:00+00:00",
-      "source": {
-        "name": "Mynewsdesk",
-        "url": "https://www.mynewsdesk.com"
-      }
-    },
-    {
       "id": "75d9c5b3d1b1",
       "title": "Kampen mot falska mediciner - Forskning & Framsteg",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wUC1QR2x5aTZhTjY3WlpYRFk2VnR4em5IbnEwdU9RTGxQdjJZNFBRckdKOEtuLW5QQ3J3VE41VmI5TUswYXhndmJVT3NNb0FzMFhyM21lOWlJVHp1cWw2Xw?oc=5",
@@ -444,10 +404,20 @@
       }
     },
     {
+      "id": "437510a6d109",
+      "title": "Bröstkollen väljer Danderyds Centrum för första mottagningen – kompletterar ett omfattande hälsoerbjudande - Mynewsdesk",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSEtOSV9HU1RoRWdhUkVoLWZsbS1RQ0o5YW1PNUpuaEdvcl9MOXFjeUFGOExrZlNseGV3SUxqNkJPS1kxZ0VYZ1JhX2lXaGs5QjM1Uzd2dDZZQVlyQXNvNENDQmF1aXU0enRka2N6ZjRDVVkxSHlnV2c0UEg3NFJHZjFpdkZCeFJfSzNLZnBNb2xUX1NsZ1l4WjZwWnNJVl9XSlE1NjZjUWZLdEVabVZ6LTFQendCZDd6Q0tKU1duVGY2MF9ZVlRGTVAyX0RQYjU3eGRITE5fMVctREp4aG1teXg4WFc1eVV0aEhTcXVvLTVfWC1XbndjeDVUQXhrbktmU1hKX19nbXllZU0?oc=5",
+      "published": "2026-11-11T06:00:00+00:00",
+      "source": {
+        "name": "Mynewsdesk",
+        "url": "https://www.mynewsdesk.com"
+      }
+    },
+    {
       "id": "552b1d13466f",
       "title": "Dieterna kan ge liknande resultat som Ozempic - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjhycHpNOTcxUm5mOUlWZHNNUWlsVGQ2ZnRBellkb0hXUE9ITWJKNzM2Z05UQ3p5VzRYTmx5UnJ1MUxRT2dnc1kyQmhlTGJ6YUhtMEdfOVBzM1k2SkZZRW5mUjZYRms4aTM2NTQtcDhGbFJHY1N6d3QtUTFFZEtsTVF6XzVvMGk2OVloTmI0cGJDNkJJb21vNFBnUU9QQQ?oc=5",
-      "published": "2025-08-19T15:30:53+00:00",
+      "published": "2025-08-19T07:00:00+00:00",
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
@@ -464,6 +434,16 @@
       }
     },
     {
+      "id": "124261e8c4fe",
+      "title": "Bristen på adrenalin förvärrad - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWGhzQW9YQXpxTXFGUktGV2JpVWo0cTZqYzhaaHU4WFlra3hTZVBGcHAwVFhPZ1UydUVZQmxVaG5JSW1UOWw5a09YYnBZTEoxMXdPUXBOSnhqcVVvR1hDNkZIYVRjUVlJVUlpdmhFVjd0ZGJuV3dXTXlkaVhDcVhOT2xEX3c4aFU?oc=5",
+      "published": "2013-03-26T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "d686a486e91c",
       "title": "Alvedon får inte kallas ”snällt” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcXBDQVIyVGRGbmMyc0t6UzhIN2ZzaF9yYUZjZnBDNWhpVzZFc0lOVFIwMFRhT0ZYZjZqRHlLV0o4dFpYQm9UaWhjUnVLNVpFb3h1WmtPc0d2VGkyQVRSSTZkU0x1ZmxobkZPckM1V0FNWXFCb2ktRGxCUWd6YWNGMkdkRzUyTVE?oc=5",
@@ -471,6 +451,16 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "b79e06e9f64f",
+      "title": "Läkemedel och kosttillskott – ny varning 2026 - HurBra.se",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwWE1TZVlRQlBuZndkdlRRX2hicmx5Ym9CU294ZEV5VFlYOXFEU3drOWFNbEJTeUlybFFRTzBzNVJnLWtsSG9sYTA5US1SNGxVSmZvVVBYZ0RVWnhlR0ZPWmY1ZWFvZw?oc=5",
+      "published": "2026-11-09T17:30:28+00:00",
+      "source": {
+        "name": "HurBra.se",
+        "url": "https://hurbra.se"
       }
     }
   ]
