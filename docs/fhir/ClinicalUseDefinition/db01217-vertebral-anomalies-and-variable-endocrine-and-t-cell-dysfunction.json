@@ -1,0 +1,23 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db01217-vertebral-anomalies-and-variable-endocrine-and-t-cell-dysfunction",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db01217"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "vertebral anomalies and variable endocrine and T-cell dysfunction"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://setxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db06697-acquired-angioedema",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db06697"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "acquired angioedema"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://setxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}
