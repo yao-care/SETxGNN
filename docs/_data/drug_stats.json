@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-04",
-  "total_drugs": 450,
+  "generated": "2026-11-16",
+  "total_drugs": 459,
   "level_counts": {
-    "L1": 6,
+    "L1": 7,
     "L2": 21,
     "L3": 23,
     "L4": 31,
-    "L5": 359
+    "L5": 367
   },
   "all_drugs": [
     {
@@ -166,6 +166,12 @@
       "indication_count": 10
     },
     {
+      "name": "Anastrozol",
+      "slug": "anastrozol",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
       "name": "Apixaban",
       "slug": "apixaban",
       "level": "L5",
@@ -188,6 +194,18 @@
       "slug": "arginine",
       "level": "L5",
       "indication_count": 1
+    },
+    {
+      "name": "Aripiprazol",
+      "slug": "aripiprazol",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Artemeter",
+      "slug": "artemeter",
+      "level": "L5",
+      "indication_count": 8
     },
     {
       "name": "Articaine",
@@ -1462,6 +1480,12 @@
       "indication_count": 6
     },
     {
+      "name": "Lansoprazol",
+      "slug": "lansoprazol",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
       "name": "Latanoprost",
       "slug": "latanoprost",
       "level": "L5",
@@ -1490,6 +1514,12 @@
       "slug": "lenvatinib",
       "level": "L3",
       "indication_count": 5
+    },
+    {
+      "name": "Letrozol",
+      "slug": "letrozol",
+      "level": "L1",
+      "indication_count": 4
     },
     {
       "name": "Levetiracetam",
@@ -1594,6 +1624,12 @@
       "indication_count": 9
     },
     {
+      "name": "Mebendazol",
+      "slug": "mebendazol",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
       "name": "Meloxicam",
       "slug": "meloxicam",
       "level": "L5",
@@ -1676,6 +1712,12 @@
       "slug": "metolazone",
       "level": "L5",
       "indication_count": 4
+    },
+    {
+      "name": "Metronidazol",
+      "slug": "metronidazol",
+      "level": "L5",
+      "indication_count": 10
     },
     {
       "name": "Metyrapone",
@@ -1910,6 +1952,12 @@
       "slug": "olsalazine",
       "level": "L5",
       "indication_count": 10
+    },
+    {
+      "name": "Omeprazol",
+      "slug": "omeprazol",
+      "level": "L5",
+      "indication_count": 1
     },
     {
       "name": "Orlistat",
@@ -2364,6 +2412,12 @@
     {
       "name": "Sulbactam",
       "slug": "sulbactam",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Sulfametoxazol",
+      "slug": "sulfametoxazol",
       "level": "L5",
       "indication_count": 1
     },

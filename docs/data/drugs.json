@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06",
-  "total_count": 450,
+  "generated": "2026-11-16",
+  "total_count": 459,
   "source": "SETxGNN",
   "drugs": [
     {
@@ -264,6 +264,16 @@
       "url": "/drugs/amylmetacresol/"
     },
     {
+      "slug": "anastrozol",
+      "name": "Anastrozol",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/anastrozol/"
+    },
+    {
       "slug": "apixaban",
       "name": "Apixaban",
       "evidence_level": "L5",
@@ -302,6 +312,26 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/arginine/"
+    },
+    {
+      "slug": "aripiprazol",
+      "name": "Aripiprazol",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/aripiprazol/"
+    },
+    {
+      "slug": "artemeter",
+      "name": "Artemeter",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/artemeter/"
     },
     {
       "slug": "articaine",
@@ -2424,6 +2454,16 @@
       "url": "/drugs/landiolol/"
     },
     {
+      "slug": "lansoprazol",
+      "name": "Lansoprazol",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/lansoprazol/"
+    },
+    {
       "slug": "latanoprost",
       "name": "Latanoprost",
       "evidence_level": "L5",
@@ -2472,6 +2512,16 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/lenvatinib/"
+    },
+    {
+      "slug": "letrozol",
+      "name": "Letrozol",
+      "evidence_level": "L1",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/letrozol/"
     },
     {
       "slug": "levetiracetam",
@@ -2644,6 +2694,16 @@
       "url": "/drugs/mannitol/"
     },
     {
+      "slug": "mebendazol",
+      "name": "Mebendazol",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/mebendazol/"
+    },
+    {
       "slug": "meloxicam",
       "name": "Meloxicam",
       "evidence_level": "L5",
@@ -2782,6 +2842,16 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/metolazone/"
+    },
+    {
+      "slug": "metronidazol",
+      "name": "Metronidazol",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/metronidazol/"
     },
     {
       "slug": "metyrapone",
@@ -3172,6 +3242,16 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/olsalazine/"
+    },
+    {
+      "slug": "omeprazol",
+      "name": "Omeprazol",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/omeprazol/"
     },
     {
       "slug": "orlistat",
@@ -3932,6 +4012,16 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/sulbactam/"
+    },
+    {
+      "slug": "sulfametoxazol",
+      "name": "Sulfametoxazol",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/sulfametoxazol/"
     },
     {
       "slug": "sulfasalazine",
