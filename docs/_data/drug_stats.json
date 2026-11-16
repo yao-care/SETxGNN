@@ -2,11 +2,11 @@
   "generated": "2026-11-16",
   "total_drugs": 459,
   "level_counts": {
-    "L1": 7,
+    "L1": 6,
     "L2": 21,
     "L3": 23,
     "L4": 31,
-    "L5": 367
+    "L5": 368
   },
   "all_drugs": [
     {
@@ -1518,7 +1518,7 @@
     {
       "name": "Letrozol",
       "slug": "letrozol",
-      "level": "L1",
+      "level": "L5",
       "indication_count": 4
     },
     {

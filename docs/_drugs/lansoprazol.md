@@ -8,8 +8,8 @@ indication_count: 1
 drugbank_id: DB00448
 monitor_inn: "Lansoprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-16
-description: "Lansoprazol: predikterad ny indikation Duodenal obstruction (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+last_modified_at: 2026-11-17
+description: "Lansoprazol: predikterad ny indikation Duodenal obstruktion (duodenal obstruction) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
 # Lansoprazol
@@ -34,14 +34,14 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 </div>
 
-## Lansoprazol: Duodenal obstruction
+## Lansoprazol: Duodenal obstruktion (duodenal obstruction)
 {: .text-alpha }
 
 ---
 
 ### Sammanfattning
 
-Lansoprazol är en protonpumpshämmare som minskar bildningen av magsyra. Underlaget består av **0 kliniska prövningar** och **1 publikation** (en allmän översikt om protonpumpshämmare som inte studerar just denna sjukdom), så stödet är i praktiken enbart en modellförutsägelse.
+Lansoprazol är en protonpumpshämmare som minskar bildningen av magsyra. TxGNN-modellen förutsäger att det kan vara effektivt mot **duodenal obstruktion (duodenal obstruction)**, men det finns **inga kliniska prövningar** och **ingen publicerad litteratur** i den data som sammanställts för denna rapport som stöder riktningen. Förutsägelsen bygger enbart på modellen.
 
 ---
 
@@ -50,7 +50,7 @@ Lansoprazol är en protonpumpshämmare som minskar bildningen av magsyra. Underl
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Förutsagd ny indikation | Duodenal obstruction |
+| Förutsagd ny indikation | Duodenal obstruktion (duodenal obstruction) |
 | TxGNN-förutsägelsepoäng | 0.9968 |
 | Evidensnivå | L5 |
 | Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 14 av 14) |
@@ -61,11 +61,11 @@ Lansoprazol är en protonpumpshämmare som minskar bildningen av magsyra. Underl
 
 ### Varför är denna förutsägelse rimlig?
 
-Data om verkningsmekanism saknas i de data som sammanställts för denna rapport. Lansoprazol är dock känt som en protonpumpshämmare, en läkemedelsklass som hämmar syrabildningen i magsäcken.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i den data som sammanställts för denna rapport. Lansoprazol är dock allmänt känt som en hämmare av H+/K+-ATPas (protonpumpen) som minskar utsöndringen av magsyra.
 
-Vid duodenogastrisk reflux (galleflöde) rinner innehåll från tolvfingertarmen, med gallsyror och bukspottskörtelenzymer, tillbaka till magsäcken. Tillsammans med magsyra kan det skada slemhinnan. Syrahämning kan minska symtom och slemhinneskador som orsakas av syrakomponenten, och göra refluxatet mindre skadligt.
+Mekanistiskt skulle syrahämning kunna lindra syrarelaterad skada på tolvfingertarmens slemhinna, till exempel vid magsår med inflammatorisk svullnad eller ärrbildning som bidrar till förträngning. Det är en möjlig, men inte belagd, koppling.
 
-Kopplingen är dock indirekt och symtomlindrande. Protonpumpshämmare förhindrar inte själva återflödet av galla och åtgärdar inte underliggande problem med tarmrörelser eller magportens funktion. Den mycket höga poängen är en beräkningsbaserad förutsägelse och utgör inte klinisk evidens.
+Duodenal obstruktion är i huvudsak ett mekaniskt tillstånd, till exempel orsakat av tumör, annulärt pankreas eller förträngning efter sår. Syrahämning förväntas inte lösa en fast strukturell obstruktion. Den höga poängen är en beräkningsmässig förutsägelse och sannolikt ett uttryck för att lansoprazol ligger nära tolvfingertarms- och magsårssjukdomar i modellen. Den är inte klinisk evidens.
 
 ---
 
@@ -77,23 +77,27 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Litteraturbevis
 
-| PMID | År | Typ | Tidskrift | Viktiga fynd |
-|------|-----|------|------|---------|
-| [18679668](https://pubmed.ncbi.nlm.nih.gov/18679668/) | 2008 | Översikt | European Journal of Clinical Pharmacology | Uppdatering om klinisk användning och farmakokinetik för protonpumpshämmare, som är förstahandsval vid bland annat magsår, Helicobacter pylori-infektion, gastroesofageal refluxsjukdom, NSAID-orsakade skador i magtarmkanalen och Zollinger-Ellisons syndrom. Behandlar inte duodenogastrisk reflux specifikt. |
+Ingen relaterad litteratur tillgänglig för närvarande.
 
 ---
 
 ### Marknadsinformation Sverige
 
+Lansoprazol är marknadsfört i Sverige, och samtliga 14 godkännanden för enkomponentsprodukter är giltiga. Indikationstext finns inte registrerad i de lokala uppgifterna. Nedan visas fem av godkännandena.
+
 | Godkännandenummer | Produktnamn | Beredningsform |
 |---------|------|------|
 | 17060 | Lanzo | Munsönderfallande tablett |
 | 65241 | Lansoprazole SUN Pharma | Munsönderfallande tablett |
-| 65242 | Lansoprazole SUN Pharma | Munsönderfallande tablett |
 | 50956 | Lansoprazol Medical Valley | Enterokapsel, hård |
-| 48457 | Lansoprazol SUN | Munsönderfallande tablett |
+| 22292 | Lansoprazol Krka | Enterokapsel, hård |
+| 46352 | Lansoprazol Viatris | Munsönderfallande tablett |
 
-Fler godkännanden finns i de lokala data (14 giltiga godkännanden totalt); tabellen visar de fem första.
+---
+
+### Säkerhetsaspekter
+
+Se produktresumén för säkerhetsinformation.
 
 ---
 
@@ -102,12 +106,12 @@ Fler godkännanden finns i de lokala data (14 giltiga godkännanden totalt); tab
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en modellberäkning. Ingen klinisk prövning eller publikation studerar duodenogastrisk reflux med lansoprazol, och den enda källan är en allmän översikt om protonpumpshämmare. Mekanismen är dessutom indirekt och symtomlindrande.
+- Förutsägelsen stöds enbart av modellen (evidensnivå L5) utan någon klinisk prövning eller publikation. Duodenal obstruktion är dessutom oftast mekanisk, vilket gör en effekt av syrahämning mekanistiskt osannolik.
 
 **För att gå vidare krävs:**
-- Litteratursökning efter studier av protonpumpshämmare vid duodenogastrisk reflux (galleflöde).
-- Uppgifter om verkningsmekanism och säkerhetsinformation (varningar och kontraindikationer) från produktresumén, som saknas i de data som sammanställts.
-- Vid positiva fynd: en kontrollerad klinisk prövning med symtom och slemhinneskada som mått.
+- Litteraturgenomgång och prekliniska eller kliniska data som direkt studerar lansoprazol vid duodenal obstruktion.
+- Inhämtning av läkemedlets verkningsmekanism och säkerhetsuppgifter (varningar, kontraindikationer, interaktioner) från produktresumén.
+- Klargörande av vilka patientgrupper (till exempel förträngning orsakad av sårsjukdom) där syrahämning över huvud taget kan vara relevant.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

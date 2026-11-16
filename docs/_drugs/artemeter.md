@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB06697
 monitor_inn: "Artemether"
 predicted_indications: ["acquired angioedema", "angioedema", "hereditary angioedema", "nephrogenic syndrome of inappropriate antidiuresis", "acute contagious conjunctivitis", "scleroderma (disease)", "conjunctivitis", "renin-angiotensin-aldosterone system-blocker-induced angioedema"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 description: "Artemeter: predikterad ny indikation Förvärvat angioödem (acquired angioedema) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
 
@@ -39,13 +39,13 @@ Evidensnivå: **L5** | Förutsagda indikationer: **8** st
 
 ---
 
-## Sammanfattning
+### Sammanfattning
 
-Artemeter är ett läkemedel i gruppen artemisininderivat. TxGNN-modellen förutsäger att det kan vara aktivt mot **förvärvat angioödem (acquired angioedema)**, med ett förutsägelsepoäng på 0,9990. I de data som sammanställts för rapporten finns **inga kliniska prövningar och ingen publicerad litteratur** som studerar artemeter vid just denna sjukdom. Förutsägelsen vilar därför enbart på modellen (evidensnivå L5).
+Artemeter är ett läkemedel av artemisinintyp som tillhör gruppen endoperoxidbaserade malarialäkemedel. TxGNN-modellen förutsäger att det kan vara effektivt mot **förvärvat angioödem (acquired angioedema)**. Det finns för närvarande **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder denna riktning, så förutsägelsen bygger enbart på modellen.
 
 ---
 
-## Snabböversikt
+### Snabböversikt
 
 | Post | Innehåll |
 |------|------|
@@ -59,53 +59,41 @@ Artemeter är ett läkemedel i gruppen artemisininderivat. TxGNN-modellen förut
 
 ---
 
-## Varför är denna förutsägelse rimlig?
+### Varför är denna förutsägelse rimlig?
 
-För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för rapporten. Artemeter omvandlas i kroppen till dihydroartemisinin. Dess endoperoxidbrygga aktiveras av hemjärn i parasiten, vilket ger reaktiva radikaler som skadar parasitens proteiner. Den verkan är riktad mot parasiter.
+För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de data som sammanställts för denna rapport. Baserat på känd information tillhör artemeter artemisininklassen. Dessa ämnen aktiveras av hem eller järn och bildar då reaktiva syreradikaler och fria radikaler, vilket förklarar effekten mot malariaparasiter.
 
-Vid en genomgång av underlaget hittades **ingen trovärdig mekanistisk koppling** mellan artemeter och förvärvat angioödem. Sjukdomen drivs av bradykininvägen, komplementsystemets C1-hämmare och mastcellsvägar. Artemeter har ingen känd roll i dessa system. Det höga poängvärdet stöds därför inte av någon biologisk förklaring i underlaget och bör tolkas som en hypotes från modellen, inte som ett belägg.
+Något mekanistiskt samband med förvärvat angioödem har inte påvisats. Sjukdomen drivs av bradykinin och av brist på eller nedsatt funktion hos C1-inhibitor i komplementsystemet, och artemeter har ingen känd koppling till dessa system. Ett tänkbart men spekulativt samband skulle kunna vara de antiinflammatoriska eller immunmodulerande effekter som beskrivits för artemisininer.
 
----
-
-## Kliniska prövningar
-
-Inga relaterade kliniska prövningar registrerade för närvarande.
+Den höga poängen (0,9990) speglar sannolikt närhet mellan angioödemrelaterade begrepp i modellen snarare än ett verkligt farmakologiskt samband. Förutsägelsen kan därför inte korskontrolleras mot läkemedlets ursprungliga verkningsmekanism.
 
 ---
 
-## Litteraturbevis
+### Marknadsinformation Sverige
 
-Ingen relaterad litteratur tillgänglig för närvarande.
-
----
-
-## Marknadsinformation Sverige
-
-| Godkännandenummer | Produktnamn | Beredningsform | Innehavare |
+| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
 |---------|------|------|-----------|
-| 16557 | Riamet | Tablett | Novartis Sverige AB |
-
-Läkemedlet finns i Sverige endast som oral beredning (tablett).
+| 16557 | Riamet (Novartis Sverige AB) | Tablett | Ingen indikationstext registrerad i lokala data |
 
 ---
 
-## Säkerhetsaspekter
+### Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation.
+Se produktresumén för säkerhetsinformation. Inga läkemedelsinteraktioner hittades i de data som sammanställts för denna rapport.
 
 ---
 
-## Slutsats och nästa steg
+### Slutsats och nästa steg
 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen saknar stöd i både kliniska prövningar och litteratur, och ingen trovärdig mekanistisk koppling har identifierats. Evidensnivån är därför L5.
+- Förutsägelsen stöds endast av modellen (evidensnivå L5), utan kliniska prövningar eller litteratur, och något mekanistiskt samband med bradykinin- eller C1-inhibitorvägarna är inte etablerat. Det finns dessutom effektiva, godkända behandlingar vid angioödem.
 
 **För att gå vidare krävs:**
-- Prekliniska studier som visar en biologisk effekt av artemeter på mekanismer som är relevanta för förvärvat angioödem (bradykinin-, komplement- eller mastcellsvägar).
-- Kompletterande uppgifter om verkningsmekanism och säkerhetsinformation (varningar och kontraindikationer) från produktresumén.
-- En ny bedömning först när det finns minst en studie som direkt undersöker artemeter vid denna sjukdom.
+- Hämta verkningsmekanismdata och produktresumé (varningar, kontraindikationer) för att genomföra en säkerhetsgranskning.
+- Prekliniska studier som undersöker om artemeter påverkar bradykininvägen, C1-inhibitor eller mastcellsaktivering.
+- Systematisk litteratursökning och eventuell registrering av explorativa kliniska studier vid förvärvat angioödem.
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

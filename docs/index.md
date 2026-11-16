@@ -41,7 +41,7 @@ Rapporter per evidensnivå:
 | L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
 {% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
 
-39 predikterade par av läkemedel och sjukdom på webbplatsen finns inte på någon annan av de 30 TxGNN-webbplatserna.
+8 predikterade par av läkemedel och sjukdom på webbplatsen finns inte på någon annan av de 30 TxGNN-webbplatserna.
 
 ### Läkemedel med högst evidensnivå på webbplatsen
 
@@ -51,26 +51,18 @@ Rapporter per evidensnivå:
 | [Busulfan](/drugs/busulfan/) | L1 |
 | [Clomipramine](/drugs/clomipramine/) | L1 |
 | [Doxorubicin](/drugs/doxorubicin/) | L1 |
-| [Letrozol](/drugs/letrozol/) | L1 |
 | [Ketorolac](/drugs/ketorolac/) | L1 |
 | [Tacrolimus](/drugs/tacrolimus/) | L1 |
 | [Acetylcysteine](/drugs/acetylcysteine/) | L2 |
 | [Bupropion](/drugs/bupropion/) | L2 |
 | [Diazepam](/drugs/diazepam/) | L2 |
+| [Fludarabine](/drugs/fludarabine/) | L2 |
 
 ### Läkemedel som bara den här webbplatsen täcker bland de 30 TxGNN-webbplatserna
 
 | Läkemedel | Evidensnivå |
 |---|---|
-| [Letrozol](/drugs/letrozol/) | L1 |
-| [Metronidazol](/drugs/metronidazol/) | L5 |
-| [Aripiprazol](/drugs/aripiprazol/) | L5 |
 | [Artemeter](/drugs/artemeter/) | L5 |
-| [Anastrozol](/drugs/anastrozol/) | L5 |
-| [Lansoprazol](/drugs/lansoprazol/) | L5 |
-| [Mebendazol](/drugs/mebendazol/) | L5 |
-| [Omeprazol](/drugs/omeprazol/) | L5 |
-| [Sulfametoxazol](/drugs/sulfametoxazol/) | L5 |
 
 <!-- local-home:end -->
 

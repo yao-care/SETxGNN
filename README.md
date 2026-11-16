@@ -30,11 +30,11 @@ Forutsaegelser foer lakemedelsrepositionering av MPA-godkaenda lakemedel (Sweden
 
 | Evidensnivaa | Antal rapporter | Beskrivning |
 |---------|-------|------|
-| **L1** | 7 | Flera Fas 3 RCT:er |
+| **L1** | 6 | Flera Fas 3 RCT:er |
 | **L2** | 21 | Enskild RCT eller flera Fas 2 |
 | **L3** | 23 | Observationsstudier |
 | **L4** | 31 | Prekliniska / mekanistiska studier |
-| **L5** | 367 | Endast beraekningsbaserad forutsaegelse |
+| **L5** | 368 | Endast beraekningsbaserad forutsaegelse |
 | **N/A** | 10 | Endast kända användningar (inga nya prediktioner) |
 
 ### Per kaella
