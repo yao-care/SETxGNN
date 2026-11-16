@@ -13675,6 +13675,26 @@
    ],
    "checked": "2026-11-12",
    "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
+   "id": "se-lic-20261116-febuxostat-1",
+   "drug": "febuxostat",
+   "file": "febuxostat.md",
+   "action": "correct",
+   "claim": "- Klargörande av den regulatoriska statusen, eftersom det enda svenska godkännandet är avregistrerat.",
+   "replacement": "- Klargörande av den regulatoriska statusen: av tre svenska godkännanden är två giltiga (Feburo, 55201 och 55202) och ett avregistrerat (56645).",
+   "summary": "Nästa steg: två av tre svenska godkännanden är giltiga, inte bara ett avregistrerat",
+   "note": "Enligt Läkemedelsverkets registreringsstatus har Feburo (55201, 55202) status Godkänd och Febuxostat Accord (56645) status Avregistrerad. Texten utgick från att det enda svenska godkännandet var avregistrerat. Endast den faktiska uppgiften har ändrats.",
+   "finding": "證據包漏收 Feburo 55201／55202（config/license_own_extra.json 2026-11-16 併入事實層：3 張中 2 張有效），正文下一步建立在「唯一許可已註銷」錯誤前提上；改成事實層張數",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-12"
+    }
+   ],
+   "checked": "2026-11-16",
+   "method": "2026-11-16 license_own_extra 併入後排程擋頁，逐句對照事實層"
   }
  ]
 }
