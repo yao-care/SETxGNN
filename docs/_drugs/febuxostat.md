@@ -124,7 +124,13 @@ Säkerhetsuppgifter från produktresumén saknas i underlaget. Se produktresumé
 - Mekanistisk utvärdering av om xantinoxidashämning är relevant för att förebygga ansträngningsutlöst akut njurskada vid renal hypourikemi, samt hur det förhåller sig till risken för ytterligare sänkt urinsyra.
 - Kontrollerade studier eller större fallserier som visar effekt och säkerhet.
 - Komplettering med varningar och kontraindikationer från produktresumén samt uppgifter om verkningsmekanism från DrugBank.
-- Klargörande av den regulatoriska statusen, eftersom det enda svenska godkännandet är avregistrerat.
+- Klargörande av den regulatoriska statusen: av tre svenska godkännanden är två giltiga (Feburo, 55201 och 55202) och ett avregistrerat (56645).
+
+<!-- review:begin se-lic-20261116-febuxostat-1 -->
+
+> **Granskningsrättelse (2026-11-16)**: Ursprungligen stod det: ”Klargörande av den regulatoriska statusen, eftersom det enda svenska godkännandet är avregistrerat.” Enligt Läkemedelsverkets registreringsstatus har Feburo (55201, 55202) status Godkänd och Febuxostat Accord (56645) status Avregistrerad. Texten utgick från att det enda svenska godkännandet var avregistrerat. Endast den faktiska uppgiften har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261116-febuxostat-1 -->
 
 <!-- review:begin log -->
 
@@ -135,6 +141,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-12 | Tabell: 56645 är avregistrerat, inte godkänt | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-16 | Nästa steg: två av tre svenska godkännanden är giltiga, inte bara ett avregistrerat | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 
