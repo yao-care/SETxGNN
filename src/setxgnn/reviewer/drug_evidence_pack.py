@@ -137,7 +137,9 @@ class DrugEvidencePackGenerator:
         # 2026-11-16：證據包漏收、人工對照主管機關資料確屬本藥的許可證（config/license_own_extra.json，每筆附依據）併進事實層
         _extra_f = Path(__file__).resolve().parents[3] / "config" / "license_own_extra.json"
         if _extra_f.exists():
-            _page = str(((getattr(bundle, "drug", None) or {}).get("inn") or "")).strip().lower().replace(" ", "_").replace("-", "_")
+            _drug = bundle.get("drug") if isinstance(bundle, dict) else getattr(bundle, "drug", None)  # dict（排程）或 DrugBundle 物件（產報告）
+            _inn = _drug.get("inn") if isinstance(_drug, dict) else getattr(_drug, "inn", "")
+            _page = str(_inn or "").strip().lower().replace(" ", "_").replace("-", "_")
             for lid, ex in (json.loads(_extra_f.read_text(encoding="utf-8")).get("pages", {}).get(_page) or {}).items():
                 if lid in seen or not isinstance(ex, dict):
                     continue

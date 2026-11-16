@@ -873,6 +873,7 @@
         "HkTxGNN",
         "InTxGNN",
         "JpTxGNN",
+        "KrTxGNN",
         "NZTxGNN",
         "SATxGNN",
         "SgTxGNN",
@@ -993,6 +994,7 @@
         "HkTxGNN",
         "ITTxGNN",
         "InTxGNN",
+        "KrTxGNN",
         "NZTxGNN",
         "SATxGNN",
         "UkTxGNN",
@@ -1047,6 +1049,7 @@
       "sources": [
         "CaTxGNN",
         "HkTxGNN",
+        "KrTxGNN",
         "SgTxGNN",
         "UkTxGNN"
       ]
@@ -1360,6 +1363,7 @@
         "HkTxGNN",
         "ITTxGNN",
         "InTxGNN",
+        "KrTxGNN",
         "SATxGNN",
         "SgTxGNN",
         "UkTxGNN",
@@ -1560,6 +1564,7 @@
         "ITTxGNN",
         "InTxGNN",
         "JpTxGNN",
+        "KrTxGNN",
         "NOTxGNN",
         "NZTxGNN",
         "NlTxGNN",
@@ -2612,6 +2617,7 @@
       "sources": [
         "AuTxGNN",
         "CaTxGNN",
+        "FITxGNN",
         "HkTxGNN",
         "SgTxGNN",
         "ZaTxGNN"
@@ -4046,6 +4052,7 @@
         "HkTxGNN",
         "InTxGNN",
         "JpTxGNN",
+        "KrTxGNN",
         "NZTxGNN",
         "SATxGNN",
         "SgTxGNN",
@@ -4794,6 +4801,7 @@
         "FRTxGNN",
         "HkTxGNN",
         "InTxGNN",
+        "KrTxGNN",
         "NOTxGNN",
         "NlTxGNN",
         "SATxGNN",
@@ -4806,7 +4814,6 @@
     "db01050": {
       "page": "ibuprofen",
       "sources": [
-        "ARTxGNN",
         "AuTxGNN",
         "CHTxGNN",
         "COTxGNN",
@@ -5165,6 +5172,7 @@
         "ITTxGNN",
         "InTxGNN",
         "JpTxGNN",
+        "KrTxGNN",
         "NZTxGNN",
         "SATxGNN",
         "SgTxGNN",
@@ -6647,6 +6655,7 @@
         "FRTxGNN",
         "HkTxGNN",
         "InTxGNN",
+        "KrTxGNN",
         "SATxGNN",
         "SgTxGNN"
       ]
@@ -6884,7 +6893,8 @@
       "page": "articaine",
       "sources": [
         "CaTxGNN",
-        "HkTxGNN"
+        "HkTxGNN",
+        "KrTxGNN"
       ]
     },
     "db09038": {

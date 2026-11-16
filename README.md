@@ -19,7 +19,7 @@ Forutsaegelser foer lakemedelsrepositionering av MPA-godkaenda lakemedel (Sweden
 
 | Element | Antal |
 |------|------|
-| **Lakemedelsrapporter** | 450 |
+| **Lakemedelsrapporter** | 459 |
 | **Totala forutsaegelser** | 3,672,147 |
 | **Unika lakemedel** | 152 |
 | **Unika indikationer** | 16,564 |
@@ -30,11 +30,11 @@ Forutsaegelser foer lakemedelsrepositionering av MPA-godkaenda lakemedel (Sweden
 
 | Evidensnivaa | Antal rapporter | Beskrivning |
 |---------|-------|------|
-| **L1** | 6 | Flera Fas 3 RCT:er |
+| **L1** | 7 | Flera Fas 3 RCT:er |
 | **L2** | 21 | Enskild RCT eller flera Fas 2 |
 | **L3** | 23 | Observationsstudier |
 | **L4** | 31 | Prekliniska / mekanistiska studier |
-| **L5** | 359 | Endast beraekningsbaserad forutsaegelse |
+| **L5** | 367 | Endast beraekningsbaserad forutsaegelse |
 | **N/A** | 10 | Endast kända användningar (inga nya prediktioner) |
 
 ### Per kaella
