@@ -134,6 +134,17 @@ class DrugEvidencePackGenerator:
                 "kind": r.get("kind") or ("single" if len(ings) <= 1 else "combo"),
                 "status": status,
             })
+        # 2026-11-16：證據包漏收、人工對照主管機關資料確屬本藥的許可證（config/license_own_extra.json，每筆附依據）併進事實層
+        _extra_f = Path(__file__).resolve().parents[3] / "config" / "license_own_extra.json"
+        if _extra_f.exists():
+            _page = str(((getattr(bundle, "drug", None) or {}).get("inn") or "")).strip().lower().replace(" ", "_").replace("-", "_")
+            for lid, ex in (json.loads(_extra_f.read_text(encoding="utf-8")).get("pages", {}).get(_page) or {}).items():
+                if lid in seen or not isinstance(ex, dict):
+                    continue
+                seen.add(lid)
+                lics.append({"license_number": lid, "product_name_zh": ex.get("product", ""), "dosage_form": ex.get("dosage_form", ""),
+                             "manufacturer": ex.get("holder", ""), "approved_indication_text": "",
+                             "kind": ex.get("kind") or "single", "status": ex.get("status") or "valid", "extra_own": True})
         valid = [x for x in lics if x["status"] == "valid"]
         partial = int(reg.get("total_matches") or 0) > len(recs)
         return {
