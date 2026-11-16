@@ -1,6 +1,6 @@
 {
-  "total": 440,
-  "generated_at": "2026-11-16T03:18:25.844901",
+  "total": 449,
+  "generated_at": "2026-11-16T21:16:47.796168",
   "drugs": [
     {
       "name": "Abacavir",
@@ -459,6 +459,22 @@
       "approved_indication": ""
     },
     {
+      "name": "Anastrozol",
+      "file": "anastrozol.md",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "predicted_indication": "",
+      "inn": "Anastrozole",
+      "predicted_indications": [
+        "neuroblastoma",
+        "vertebral anomalies and variable endocrine and T-cell dysfunction",
+        "ganglioneuroblastoma (disease)",
+        "retroperitoneal neoplasm",
+        "monocytic leukemia"
+      ],
+      "approved_indication": ""
+    },
+    {
       "name": "Apixaban",
       "file": "apixaban.md",
       "evidence_level": "L5",
@@ -500,6 +516,44 @@
       "inn": "arginine",
       "predicted_indications": [
         "gastroparesis (disease)"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Aripiprazol",
+      "file": "aripiprazol.md",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "predicted_indication": "",
+      "inn": "Aripiprazole",
+      "predicted_indications": [
+        "gaze palsy, familial horizontal, with progressive scoliosis",
+        "Phelan-McDermid syndrome",
+        "amelocerebrohypohidrotic syndrome",
+        "distal 17p13.3 microdeletion syndrome",
+        "trichotillomania",
+        "Malan overgrowth syndrome",
+        "retinal dystrophy with or without extraocular anomalies",
+        "hydranencephaly (disease)"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Artemeter",
+      "file": "artemeter.md",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "predicted_indication": "",
+      "inn": "Artemether",
+      "predicted_indications": [
+        "acquired angioedema",
+        "angioedema",
+        "hereditary angioedema",
+        "nephrogenic syndrome of inappropriate antidiuresis",
+        "acute contagious conjunctivitis",
+        "scleroderma (disease)",
+        "conjunctivitis",
+        "renin-angiotensin-aldosterone system-blocker-induced angioedema"
       ],
       "approved_indication": ""
     },
@@ -1810,7 +1864,7 @@
         "retroperitoneal neoplasm",
         "neuroblastoma"
       ],
-      "approved_indication": "acute lymphoblastic leukemia (disease); leukemia, lymphocytic, susceptibility to; acute lymphoblastic/lymphocytic leukemia; precursor T-cell acute lymphoblastic leukemia; myeloid leukemia; unclassified acute myeloid leukemia; acute myeloid leukemia with minimal differentiation; acute myeloblastic leukemia without maturation; acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor; acute myeloid leukemia with t(8;21)(q22;q22) translocation; inherited acute myeloid leukemia; acute myeloid leukemia with CEBPA somatic mutations; acute myeloid leukemia with t(8;16)(p11;p13) translocation; acute myeloid leukemia with t(6;9)(p23;q34); acute myeloid leukemia with t(9;11)(p22;q23)"
+      "approved_indication": "acute lymphoblastic leukemia (disease); leukemia, lymphocytic, susceptibility to; acute lymphoblastic/lymphocytic leukemia; precursor T-cell acute lymphoblastic leukemia; myeloid leukemia; unclassified acute myeloid leukemia; acute myeloid leukemia with minimal differentiation; acute myeloblastic leukemia without maturation; acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor; acute myeloid leukemia with t(8; 21)(q22; q22) translocation; inherited acute myeloid leukemia; acute myeloid leukemia with CEBPA somatic mutations; acute myeloid leukemia with t(8; 16)(p11; p13) translocation; acute myeloid leukemia with t(6; 9)(p23; q34); acute myeloid leukemia with t(9; 11)(p22; q23)"
     },
     {
       "name": "Dalbavancin",
@@ -1954,7 +2008,7 @@
         "primary pulmonary lymphoma",
         "pulmonary blastoma"
       ],
-      "approved_indication": "acute lymphoblastic leukemia (disease); leukemia, lymphocytic, susceptibility to; acute lymphoblastic/lymphocytic leukemia; precursor T-cell acute lymphoblastic leukemia; myeloid leukemia; unclassified acute myeloid leukemia; acute myeloid leukemia with minimal differentiation; acute myeloblastic leukemia without maturation; acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor; acute myeloid leukemia with t(8;21)(q22;q22) translocation; inherited acute myeloid leukemia; acute myeloid leukemia with CEBPA somatic mutations; acute myeloid leukemia with t(8;16)(p11;p13) translocation; acute myeloid leukemia with t(6;9)(p23;q34); acute myeloid leukemia with t(9;11)(p22;q23)"
+      "approved_indication": "acute lymphoblastic leukemia (disease); leukemia, lymphocytic, susceptibility to; acute lymphoblastic/lymphocytic leukemia; precursor T-cell acute lymphoblastic leukemia; myeloid leukemia; unclassified acute myeloid leukemia; acute myeloid leukemia with minimal differentiation; acute myeloblastic leukemia without maturation; acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor; acute myeloid leukemia with t(8; 21)(q22; q22) translocation; inherited acute myeloid leukemia; acute myeloid leukemia with CEBPA somatic mutations; acute myeloid leukemia with t(8; 16)(p11; p13) translocation; acute myeloid leukemia with t(6; 9)(p23; q34); acute myeloid leukemia with t(9; 11)(p22; q23)"
     },
     {
       "name": "Decitabine",
@@ -1966,7 +2020,7 @@
       "predicted_indications": [
         "refractory cytopenia of childhood"
       ],
-      "approved_indication": "myeloid leukemia; unclassified acute myeloid leukemia; acute myeloid leukemia with minimal differentiation; acute myeloblastic leukemia without maturation; acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor; acute myeloid leukemia with t(8;21)(q22;q22) translocation; inherited acute myeloid leukemia; acute myeloid leukemia with CEBPA somatic mutations; acute myeloid leukemia with t(8;16)(p11;p13) translocation; acute myeloid leukemia with t(6;9)(p23;q34); acute myeloid leukemia with t(9;11)(p22;q23); acute myeloid leukemia with inv3(p21;q26.2) or t(3;3)(p21;q26.2); acute myeloid leukemia with NPM1 somatic mutations; therapy related acute myeloid leukemia and myelodysplastic syndrome; acute myeloblastic leukemia with maturation"
+      "approved_indication": "myeloid leukemia; unclassified acute myeloid leukemia; acute myeloid leukemia with minimal differentiation; acute myeloblastic leukemia without maturation; acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor; acute myeloid leukemia with t(8; 21)(q22; q22) translocation; inherited acute myeloid leukemia; acute myeloid leukemia with CEBPA somatic mutations; acute myeloid leukemia with t(8; 16)(p11; p13) translocation; acute myeloid leukemia with t(6; 9)(p23; q34); acute myeloid leukemia with t(9; 11)(p22; q23); acute myeloid leukemia with inv3(p21; q26.2) or t(3; 3)(p21; q26.2); acute myeloid leukemia with NPM1 somatic mutations; therapy related acute myeloid leukemia and myelodysplastic syndrome; acute myeloblastic leukemia with maturation"
     },
     {
       "name": "Deferasirox",
@@ -4033,6 +4087,18 @@
       "approved_indication": ""
     },
     {
+      "name": "Lansoprazol",
+      "file": "lansoprazol.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": "",
+      "inn": "Lansoprazole",
+      "predicted_indications": [
+        "duodenal obstruction"
+      ],
+      "approved_indication": ""
+    },
+    {
       "name": "Latanoprost",
       "file": "latanoprost.md",
       "evidence_level": "L5",
@@ -4110,6 +4176,21 @@
         "endocrine-cerebro-osteodysplasia syndrome"
       ],
       "approved_indication": "nonpapillary renal cell carcinoma; renal cell adenocarcinoma; renal cell carcinoma (disease); clear cell renal carcinoma; thyroid gland carcinoma; thyroid cancer, nonmedullary; papillary adenocarcinoma; papillary renal cell carcinoma"
+    },
+    {
+      "name": "Letrozol",
+      "file": "letrozol.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": "",
+      "inn": "Letrozole",
+      "predicted_indications": [
+        "nipple carcinoma",
+        "Ehrlich tumor carcinoma",
+        "breast fibrocystic disease",
+        "benign mammary dysplasia"
+      ],
+      "approved_indication": ""
     },
     {
       "name": "Levetiracetam",
@@ -4390,6 +4471,18 @@
       "approved_indication": "congestive heart failure; brain edema; ocular hypertension; pseudotumor cerebri; intracranial hypertension; cystic fibrosis"
     },
     {
+      "name": "Mebendazol",
+      "file": "mebendazol.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": "",
+      "inn": "Mebendazole",
+      "predicted_indications": [
+        "acne (disease)"
+      ],
+      "approved_indication": ""
+    },
+    {
       "name": "Meloxicam",
       "file": "meloxicam.md",
       "evidence_level": "L5",
@@ -4631,6 +4724,27 @@
       "approved_indication": "hypertensive disorder; hypertension"
     },
     {
+      "name": "Metronidazol",
+      "file": "metronidazol.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "inn": "Metronidazole",
+      "predicted_indications": [
+        "pneumocystosis",
+        "punctate epithelial keratoconjunctivitis",
+        "ulcerative proctosigmoiditis",
+        "nocardiosis",
+        "postmenopausal atrophic vaginitis",
+        "Cryptococcal meningitis",
+        "papillary conjunctivitis",
+        "myiasis",
+        "cap polyposis",
+        "ulceration of vulva"
+      ],
+      "approved_indication": ""
+    },
+    {
       "name": "Metyrapone",
       "file": "metyrapone.md",
       "evidence_level": "L5",
@@ -4854,7 +4968,7 @@
         "head and neck cancer",
         "bladder exstrophy-epispadias-cloacal exstrophy complex"
       ],
-      "approved_indication": "myeloid leukemia; unclassified acute myeloid leukemia; acute myeloid leukemia with minimal differentiation; acute myeloblastic leukemia without maturation; acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor; acute myeloid leukemia with t(8;21)(q22;q22) translocation; inherited acute myeloid leukemia; acute myeloid leukemia with CEBPA somatic mutations; acute myeloid leukemia with t(8;16)(p11;p13) translocation; acute myeloid leukemia with t(6;9)(p23;q34); acute myeloid leukemia with t(9;11)(p22;q23); acute myeloid leukemia with inv3(p21;q26.2) or t(3;3)(p21;q26.2); acute myeloid leukemia with NPM1 somatic mutations; therapy related acute myeloid leukemia and myelodysplastic syndrome; acute myeloblastic leukemia with maturation"
+      "approved_indication": "myeloid leukemia; unclassified acute myeloid leukemia; acute myeloid leukemia with minimal differentiation; acute myeloblastic leukemia without maturation; acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor; acute myeloid leukemia with t(8; 21)(q22; q22) translocation; inherited acute myeloid leukemia; acute myeloid leukemia with CEBPA somatic mutations; acute myeloid leukemia with t(8; 16)(p11; p13) translocation; acute myeloid leukemia with t(6; 9)(p23; q34); acute myeloid leukemia with t(9; 11)(p22; q23); acute myeloid leukemia with inv3(p21; q26.2) or t(3; 3)(p21; q26.2); acute myeloid leukemia with NPM1 somatic mutations; therapy related acute myeloid leukemia and myelodysplastic syndrome; acute myeloblastic leukemia with maturation"
     },
     {
       "name": "Moclobemide",
@@ -5241,6 +5355,18 @@
         "refractory cytopenia of childhood",
         "aregenerative anemia",
         "severe congenital hypochromic anemia with ringed sideroblasts"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Omeprazol",
+      "file": "omeprazol.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": "",
+      "inn": "Omeprazole",
+      "predicted_indications": [
+        "duodenal obstruction"
       ],
       "approved_indication": ""
     },
@@ -6426,6 +6552,18 @@
         "bacterial arthritis"
       ],
       "approved_indication": "cholangitis; suppurative cholangitis; sclerosing cholangitis; IgG4-related sclerosing cholangitis; staphylococcus aureus infection; staphylococcal infection; rhinoscleroma; escherichia coli infection"
+    },
+    {
+      "name": "Sulfametoxazol",
+      "file": "sulfametoxazol.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": "",
+      "inn": "Sulfamethoxazole",
+      "predicted_indications": [
+        "acute contagious conjunctivitis"
+      ],
+      "approved_indication": ""
     },
     {
       "name": "Sulfasalazine",
