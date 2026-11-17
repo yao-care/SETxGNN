@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-11-16T17:50:07.105457+00:00",
+  "fetched_at": "2026-11-17T01:28:37.690846+00:00",
   "source": "Google News Health RSS",
-  "count": 54,
+  "count": 57,
   "articles": [
+    {
+      "id": "92d1426c75a8",
+      "title": "Ny forskning: Viktläkemedel kan lindra smärtan vid artros - News55",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYUdLUUM5Sy1LTThHa0J4OGZXZ09WZVRvMDNJYlZEeDNRV0YydTlCN1RLZUNzSkxJU3VZNldISG5ycXFUSmxWOGxHTFllRmNqemlCbDd2NzRCcVhnY2NPSUVtclBsUWxLbVJlQy1OaFZoclV3bkQ2UGNpLWhBOFRtLWhqa3gweG5tTzZXSmZn?oc=5",
+      "published": "2026-11-16T20:00:14+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
+      }
+    },
     {
       "id": "4b8a4b682325",
       "title": "Ny forskning: Fetmaläkemedel lindrar artros-smärta - Aftonbladet",
@@ -11,26 +21,6 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
-      "id": "1f41a2d0cd0c",
-      "title": "EMA rekommenderar extra skydd vid användning av Mounjaro och p-piller - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdXpCUnNzaTNQemtlTVNlWnVSaWItYVhSbXNKVVZ2cnNQaXp5TWFvU2g4cjhPZ2Y3cGFJZ0pydnYzTV91RWs4eE5uRTR1Rmd1WnU5dmQ1SXU5Q05LNFhrQ0d6el82X3U2WWotbVdLMEp2NVRySHF6UkNxODZxV2xVNk0zc0ZWdExMTzZjQU5NUnFLZ2FITGdmbkVZcGVWSFNvMFI5ckV4bEdKRkszNzFFX2JpREJnZmNyMXBGc2F6UkU5dTl5LUEzQQ?oc=5",
-      "published": "2026-11-16T00:45:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "92d1426c75a8",
-      "title": "Ny forskning: Viktläkemedel kan lindra smärtan vid artros - News55",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYUdLUUM5Sy1LTThHa0J4OGZXZ09WZVRvMDNJYlZEeDNRV0YydTlCN1RLZUNzSkxJU3VZNldISG5ycXFUSmxWOGxHTFllRmNqemlCbDd2NzRCcVhnY2NPSUVtclBsUWxLbVJlQy1OaFZoclV3bkQ2UGNpLWhBOFRtLWhqa3gweG5tTzZXSmZn?oc=5",
-      "published": "2026-11-16T17:05:48+00:00",
-      "source": {
-        "name": "News55",
-        "url": "https://www.news55.se"
       }
     },
     {
@@ -44,16 +34,6 @@
       }
     },
     {
-      "id": "05f36663a879",
-      "title": "När blev hälsa en kostnad i stället för en investering? - Lif – de forskande läkemedelsföretagen",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzNhSFpBTkg4VS1UMV9tVHN0djNPWGh5TEg3bTc1OUF2RVFNUEVQVC1vQ0NxWHgwVzA1SEcxNS1ZT2lkcFk1aGQ5TE9tanhqbU53NWhFZDIwcm04aklBWEZtVmpLRGo1WUw3dVVFY1lZUExfN2I0OUk3WEYwTUpVYXFlWGI5VTc4WmxYSEFqeTlReXJT?oc=5",
-      "published": "2026-10-26T07:00:00+00:00",
-      "source": {
-        "name": "Lif – de forskande läkemedelsföretagen",
-        "url": "https://www.lif.se"
-      }
-    },
-    {
       "id": "8025539d84ea",
       "title": "Läkemedelsjätten i ny miljardaffär - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaWJ2WjFHS2owS0lYOEdRTXlsbzYyOVUyMnY2MmU5ZTltdlA2UHJBTk1wQUNDaW9QdUY5b2t4bVNONXAxbFdBV0kxRThJZkVwRzBiSHhHcEdERVVKUG4tUFBjQ3BXQ2RlckFJRVJVX1BzeVJQLUs1RDczZ2xsVEQxZGJOMHBiRm5yMjIxekFpU1A?oc=5",
@@ -61,6 +41,26 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "502283a03c5d",
+      "title": "Bakslag för Astra Zenecas partner – FDA ger kalla handen - DI",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXpseUd5aG9qb1pTa0thaURnQkZnNVNzeVBoX01OUlFOV0lBVmgweTlHYk5yRUtZdDBGR1dKRU5idGcxVEpxRlUwSThrSVcwTzRDSzVfdFBOM1doVkgxandrTms4R0tJcEVsbVdHSUp6ZEFzejZBNXFDM1lJSmhoM0dhZXE?oc=5",
+      "published": "2026-11-16T14:08:36+00:00",
+      "source": {
+        "name": "DI",
+        "url": "https://www.di.se"
+      }
+    },
+    {
+      "id": "05f36663a879",
+      "title": "När blev hälsa en kostnad i stället för en investering? - Lif – de forskande läkemedelsföretagen",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzNhSFpBTkg4VS1UMV9tVHN0djNPWGh5TEg3bTc1OUF2RVFNUEVQVC1vQ0NxWHgwVzA1SEcxNS1ZT2lkcFk1aGQ5TE9tanhqbU53NWhFZDIwcm04aklBWEZtVmpLRGo1WUw3dVVFY1lZUExfN2I0OUk3WEYwTUpVYXFlWGI5VTc4WmxYSEFqeTlReXJT?oc=5",
+      "published": "2026-10-26T07:00:00+00:00",
+      "source": {
+        "name": "Lif – de forskande läkemedelsföretagen",
+        "url": "https://www.lif.se"
       }
     },
     {
@@ -91,6 +91,16 @@
       "source": {
         "name": "LäkemedelsVärlden",
         "url": "https://www.lakemedelsvarlden.se"
+      }
+    },
+    {
+      "id": "18728d95ffa4",
+      "title": "”Jättefina” resultat för semaglutid vad gäller vikttapp hos barn - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXhSVzI1ek5LSE1lZFpndU1rdnBUbXo4eUJUaTRrU2JaRVp2TXJZbmhWcEFyZ1R3MkUwcGFLTE1yNkRrdnl4OHBvV2xBckhVQWNLUXZDVkplVjlGdU9QZjU1bnVqcmJfZXo0cTU5R2twdm1YNHY5U0JXVlVqankxeHU3eGd4a2sxUTdPVFpzaERhWjlieEtUd2ZVbjJFOElXT2JBb1phU095bjJSWnZvWkQtQ01IQQ?oc=5",
+      "published": "2026-11-16T06:01:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -127,17 +137,17 @@
       "id": "b1be6c00bba8",
       "title": "Alejandra, 37: Jag gick ner i ett hål av ångest - Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYk8xY29LZ1IzSDZmUnFsVXE4YllrMU1RTDJGLWZVRXhQTG1lenpWejR5SVZ2MDEtZldDZGRJZmdrRWE4Z0R4bVZkXzBLMVc5WEhlZUFmX0F0RDBlQUVfWDVfMzBrV29hdlNodmZDRlBUdTFXYldyNVBQalVhRy02YXhSVktvc1VNTlRMTUFXdERFVXFhakE?oc=5",
-      "published": "2026-11-03T14:52:01+00:00",
+      "published": "2026-11-03T08:00:00+00:00",
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
       }
     },
     {
-      "id": "18728d95ffa4",
-      "title": "”Jättefina” resultat för semaglutid vad gäller vikttapp hos barn - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXhSVzI1ek5LSE1lZFpndU1rdnBUbXo4eUJUaTRrU2JaRVp2TXJZbmhWcEFyZ1R3MkUwcGFLTE1yNkRrdnl4OHBvV2xBckhVQWNLUXZDVkplVjlGdU9QZjU1bnVqcmJfZXo0cTU5R2twdm1YNHY5U0JXVlVqankxeHU3eGd4a2sxUTdPVFpzaERhWjlieEtUd2ZVbjJFOElXT2JBb1phU095bjJSWnZvWkQtQ01IQQ?oc=5",
-      "published": "2026-11-16T06:01:00+00:00",
+      "id": "1f41a2d0cd0c",
+      "title": "EMA rekommenderar extra skydd vid användning av Mounjaro och p-piller - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdXpCUnNzaTNQemtlTVNlWnVSaWItYVhSbXNKVVZ2cnNQaXp5TWFvU2g4cjhPZ2Y3cGFJZ0pydnYzTV91RWs4eE5uRTR1Rmd1WnU5dmQ1SXU5Q05LNFhrQ0d6el82X3U2WWotbVdLMEp2NVRySHF6UkNxODZxV2xVNk0zc0ZWdExMTzZjQU5NUnFLZ2FITGdmbkVZcGVWSFNvMFI5ckV4bEdKRkszNzFFX2JpREJnZmNyMXBGc2F6UkU5dTl5LUEzQQ?oc=5",
+      "published": "2026-11-16T00:45:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -174,16 +184,6 @@
       }
     },
     {
-      "id": "81940df875d7",
-      "title": "Efter MFN-konflikt: Amgen får nytt kontrakt på Repatha till Danmark - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaFpGNHc2bWk1WWFDa0FkTld4bmJsWDVwRWlnWk1ucVNzbThIbTNHM1hCVktTREx6dlJQMlFCUjJTZm85ZlVGNWVuaGVpUS03eVIwWHZZME9pMHhXbDd1anAyaG5SWnNNTzZfdHFPeXBmUldLa2NQeThfakFkeEdSdWNmYkpCbkZkYkE5Mno1Nm9XNXJMY0ZDRzVwdWF1NEsxNjZTZ0RGOFZxb1FrUXl6WkxVR2QzZEVsM044?oc=5",
-      "published": "2026-11-09T02:56:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "6df9d8cb9b3b",
       "title": "Amputation efter miss i hemsjukvård - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1hGa3lZb3NDZHZOMjBjeVN3SVpxcFJJM0d0NXVraTMyWTI4QjBBaTlaWWFldjJiMnJkMWlNRm1PajNFaEw3UndWSk9ZYjExNW0tSFQ0U2lVbXRvY3VMdHFSTG9ocVVFa3kzQmlMdGNHNzljRVpyYWhoMEJON2dOWG5lY21CZ1pkd2xJQVpKdHdObmZSTFRYVg?oc=5",
@@ -194,10 +194,10 @@
       }
     },
     {
-      "id": "a746b0da3bf7",
-      "title": "Så ser läkare som ersätts med stora belopp från industrin på samarbetet - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQazh5bHN2UGhNR3p6bUpfMTNLVTRCUkF5VWswUGpiai11bFNFVkVqQVdMckNMdmVkZ21VY185TjFaRXpyZHhUMEJBdmJJLTA1azNTTlEyS25OQTQ4c2gzbE9uYUlkMC1Wb1dFLWNPdkJLYVJPVlRlUWEwbHpMUjVzd2NIZGRxWGhSQV9xSkN4ejdMeU9TUE16YTUzRER6NlJoYjIwWXBVYjYzU2xFU08tN0UzZFRvUXRlcVZzM2dsM2lQZTlU?oc=5",
-      "published": "2026-11-10T20:00:00+00:00",
+      "id": "81940df875d7",
+      "title": "Efter MFN-konflikt: Amgen får nytt kontrakt på Repatha till Danmark - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaFpGNHc2bWk1WWFDa0FkTld4bmJsWDVwRWlnWk1ucVNzbThIbTNHM1hCVktTREx6dlJQMlFCUjJTZm85ZlVGNWVuaGVpUS03eVIwWHZZME9pMHhXbDd1anAyaG5SWnNNTzZfdHFPeXBmUldLa2NQeThfakFkeEdSdWNmYkpCbkZkYkE5Mno1Nm9XNXJMY0ZDRzVwdWF1NEsxNjZTZ0RGOFZxb1FrUXl6WkxVR2QzZEVsM044?oc=5",
+      "published": "2026-11-09T02:56:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -214,20 +214,10 @@
       }
     },
     {
-      "id": "208fe58ececd",
-      "title": "Vårdpersonal får mest av läkemedelsbolagens samarbetskaka - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2ViNDBVS2pDTzNVVk9lRzFlSURxblpyRE53bmZtcEhNRW94TzZaTHB0T2pEaVZUQ0lJdWtrenUwVmlZS3hST2FCN01XVHNrVzI1NFhLLXJlYWZMamhVaXlkcUpxaFFOd3FGZXVhQ0o0NUlkVmNFUTlSdEptb3RlY0c5SlprZ05remFNUzRzOEhONDA5LTlMV2VwM0VHenhBVWJIbmxWLU4yWi1nM0FHUFJB?oc=5",
-      "published": "2026-11-09T20:00:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "46c5c0e3c5b9",
-      "title": "Regioner ger stöd till öppnare vårdsystem - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDlhaElJM0pPS19rU3RGYUhlanFVYk9PWlhQaFhGT1lWd25oYTYyZXkxeGNVU2pwd2FKXzlLOU1rTVlaSUtuSWdLTzRsczFucVl1eER4UjNaLTJtS1pWRTlXdzA2aVliREpVWGV5QWxiam5oRlBWWTNPeGNKX0FVZHM1amVmbGVVc3dtYkRWSlJRckJyVjJzTU54XzRlN3pyZEtaME9R?oc=5",
-      "published": "2026-11-10T04:17:00+00:00",
+      "id": "a746b0da3bf7",
+      "title": "Så ser läkare som ersätts med stora belopp från industrin på samarbetet - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQazh5bHN2UGhNR3p6bUpfMTNLVTRCUkF5VWswUGpiai11bFNFVkVqQVdMckNMdmVkZ21VY185TjFaRXpyZHhUMEJBdmJJLTA1azNTTlEyS25OQTQ4c2gzbE9uYUlkMC1Wb1dFLWNPdkJLYVJPVlRlUWEwbHpMUjVzd2NIZGRxWGhSQV9xSkN4ejdMeU9TUE16YTUzRER6NlJoYjIwWXBVYjYzU2xFU08tN0UzZFRvUXRlcVZzM2dsM2lQZTlU?oc=5",
+      "published": "2026-11-10T20:00:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -244,10 +234,50 @@
       }
     },
     {
+      "id": "d402678d37b0",
+      "title": "(+) Så påverkas sexlivet av viktminskningsmedicin - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMC16dWhxLWJKZ3QwbmxNVlRMMHJMU1VvNk41bnd0RmNBVjQwamlCME41cEJlckdQLThRYmJ2TmZjSzAtWkR5Y1VwcTVWTDFRd0U2VFRBRHpvVi1LTkZob1dGVmt1U3lIOHNRTUpFTDVKUUZiS000VVhieDltNEIwSWx0aWZidk1naG0xLXUySEQ?oc=5",
+      "published": "2026-11-09T14:28:06+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
       "id": "3d5f324bd8a9",
       "title": "Tamro vinner tvist i AD - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDBkZ192YURHTDJUU1MwTU0zRU4wU3VBT2pMQVBEakFfczdsaHJfQ1B3U3lUaWtlWFN1SjNMc1VGeW5fRUhnLVppQU5waWhsQ09pZ3hKT1g0NzlzRmc0UUtIQ05VODJ1NDV3TmttOWFjbm9lU0pfTnFqazh6a1NHWDdjdw?oc=5",
       "published": "2026-11-06T03:41:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "0d1c996c318d",
+      "title": "Elisabeth Svantesson om oväntade diagnosen: \"Jag var väldigt skör\" - News55",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOanpEV3kzVTc4ZUxwR3I5M1hnQUVEa0dSVkc4MlFlOTNfcDVjQUpRdENVQmVEYmtnWmtxYkotRWNlb1J6WUw3cmpBNlVLbkt1NzlGcTVOaUpBZlNsVXNvbnNpOEt3TG0zU2JmbWlhRS1NWWp5T2NRV3hyeHdtWndxaENwaDUzQUlPbU9xamZZWGMwQVh3aUYyS2JPTk5vR2VmcUZWdjFoV1lCTlFD?oc=5",
+      "published": "2026-11-14T21:27:58+00:00",
+      "source": {
+        "name": "News55",
+        "url": "https://www.news55.se"
+      }
+    },
+    {
+      "id": "e283a9c9431b",
+      "title": "”Nu ska friska människor förvandlas till patienter” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFdoNXNGQWtmVTIwcHNRMXRMc1M5UzZtQnpadjlkRWQ2eHdUWFJlWW91MnNVUFloYzkyOHhqemc3Sll0bGNNZDJCME5rRVdHczRuT1JZbW9rRjdTb3ZPSFh0VmVQbG1RMWtZOGFvLVhxcVdXV1pDanZRYW9LZFo3OG5qY0RyNTJlaVE2RGVxbk11Tm55SC1aamJ4UjlYd3JP?oc=5",
+      "published": "2026-10-30T07:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
+      "id": "46c5c0e3c5b9",
+      "title": "Regioner ger stöd till öppnare vårdsystem - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDlhaElJM0pPS19rU3RGYUhlanFVYk9PWlhQaFhGT1lWd25oYTYyZXkxeGNVU2pwd2FKXzlLOU1rTVlaSUtuSWdLTzRsczFucVl1eER4UjNaLTJtS1pWRTlXdzA2aVliREpVWGV5QWxiam5oRlBWWTNPeGNKX0FVZHM1amVmbGVVc3dtYkRWSlJRckJyVjJzTU54XzRlN3pyZEtaME9R?oc=5",
+      "published": "2026-11-10T04:17:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -334,16 +364,6 @@
       }
     },
     {
-      "id": "212983bc8556",
-      "title": "Befolkningens psykiska hälsa - Folkhälsomyndigheten",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc3JCMDFLZUtJVGZPOXVfRS02eHlOZmJzWkRNSHQyb2F1aWpHNmlDLXMxN1lGanctS1g0bENXcXBzUlRBU3hOTGxlaXNtdWhVYTRCNGxvQnQzZEt5Y0VlTW1FaFBVRTdpMGNQOXl2dDQwNFVUWF9yTS1FMWxibndvYllITk1oREc5Yk9hOUNoa1IwMzlNV0ZVSFkzV1VUUQ?oc=5",
-      "published": "2025-12-19T08:00:00+00:00",
-      "source": {
-        "name": "Folkhälsomyndigheten",
-        "url": "https://www.folkhalsomyndigheten.se"
-      }
-    },
-    {
       "id": "fc03ffb5477b",
       "title": "Förslag om dyrare läkemedel slår mot äldres ekonomi och hälsa | SKPF Pensionärerna - Via TT",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMVctajBhQm9EV19laVRDR3AySWo1QzFaYkNhNmt1SG5mQXFzcUlwYy1uR0Frb3EzQTNUUTZQZmxJb2x0cW9DNHdhaHU0VzRZb29sZFM4MVNBakx3TTFOdUI4LXFnMF8tZGwzVGxaUHVyMTgwTUJXZTctRHZFSDdjcUdnRk54OUk0ZGVMY1RLdHkxZXQ2WnhUV1hmSEFHMGc5SWtiNTdUOFNZRi1fQlZDZXUwaW1CRW9XUjZGUUJhNzZ5bVRXZW1hUGU2QQ?oc=5",
@@ -351,6 +371,16 @@
       "source": {
         "name": "Via TT",
         "url": "https://via.tt.se"
+      }
+    },
+    {
+      "id": "212983bc8556",
+      "title": "Befolkningens psykiska hälsa - Folkhälsomyndigheten",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc3JCMDFLZUtJVGZPOXVfRS02eHlOZmJzWkRNSHQyb2F1aWpHNmlDLXMxN1lGanctS1g0bENXcXBzUlRBU3hOTGxlaXNtdWhVYTRCNGxvQnQzZEt5Y0VlTW1FaFBVRTdpMGNQOXl2dDQwNFVUWF9yTS1FMWxibndvYllITk1oREc5Yk9hOUNoa1IwMzlNV0ZVSFkzV1VUUQ?oc=5",
+      "published": "2025-12-19T08:00:00+00:00",
+      "source": {
+        "name": "Folkhälsomyndigheten",
+        "url": "https://www.folkhalsomyndigheten.se"
       }
     },
     {
@@ -434,16 +464,6 @@
       }
     },
     {
-      "id": "af5bb5cbee9c",
-      "title": "Kolla ditt blodsocker gratis på Stockholms Centralstation - Mynewsdesk",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNcGJIb0RUOGVCSXRlWXpyVWhUQXZTVGpBY2JEMkg2YS1lOEVzZ0VxVUxxcXFUM3JIREdncGhwNzZzbUU0c1FKa1FpeVc4czk3NXdDRTlVS2M5ZXBkYVdZTGJTRmY1MDAxNHU2X2FUaWEzaHIyMkRkcEtMNlZGY21OYnp4Z04yR213UXprcEJSRk91NU1wTm41ZmwyXzdfYzJfdTZURERLRHhQSi1OM0VfNmwwNldlcEJHQ2JFSmdGVWlodTNqX21zUkxFajRPSTRsc2s1dFRjY2pabzlpcldmd3dPeVM4WVhLbDNfVkl0MDVpSEJDZlkxemJaWklkaVVxMnRUOWwwR01ONE03aThPSG5fWG5tMC00M0d5TDZCbDkyNF9aTjZ2Ng?oc=5",
-      "published": "2026-11-16T07:02:00+00:00",
-      "source": {
-        "name": "Mynewsdesk",
-        "url": "https://www.mynewsdesk.com"
-      }
-    },
-    {
       "id": "f013ec704cfe",
       "title": "Rek-lista för barn 2025-2026 - Region Gävleborg",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZThGS2J2aHYyenVyTFdOUGgxS1ZmODRpR3VYdWJtOTF6X3YwT3daelJ0RTF5aWdaamswRkU2ODBVRGpnZ0RsN291bmxLSnljLUNpQ2h2bVdrZDJ3QWZlQ0c2X2hpNEFYRGw5TXIyMjhiSEh6OXgwR1dKMm1qNXg2cnFrU0Fvd1VqNDVPYU9oQ2FtaXhHcWdFZGc4NVNlV3ZxSWxvbXVoRXdieEVMQUZDcTk1VW1nTXlYR0Z1ZlZCMGFHWHFuSGctZHJaa3JyU01pa1R5dlNaLUIyMG9tWFp6Zg?oc=5",
@@ -471,6 +491,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "cfa5035036df",
+      "title": "Dags att nominera Årets brobyggare - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHpUbTZhOW9aX0JGMjc0cjgyOXl3eEpXS256bVFVSVo0YW1aUTVYRlBIdWM5dGFBX21OV1NrRG9VVjVud3lKeFJtOWlDQ2VOenRBM3NuaWR5MmtmdnBGdXE5ZnBMTDRkaFE2bnBuZngzZzVSOGxfSXM1NlFSYm91dmtkSGpqWE9GN2xFb2lyMVJBbzF4aTNEdkJnX0s2WDQ?oc=5",
+      "published": "2022-12-12T08:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
