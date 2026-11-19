@@ -14,6 +14,23 @@ Från AI-prediktion till evidensgradering — varje kandidat har en spårbar gru
 
 ---
 
+<!-- local-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+## Sverige: så tillämpas metoden på webbplatsen
+
+Lokala uppgifter: [Läkemedelsverket: läkemedelsregistret (CSV-export)](https://www.dataportal.se/en/datasets/140_5467). De lokala uppgifterna är Läkemedelsverkets läkemedelsregister med registreringsstatus. Avregistrerade godkännanden räknas inte som godkända.
+
+| Nivå | Rapporter | …med godkända lokalt godkännande |
+|---|---|---|
+| L1 | {{ site.data.local_facts.by_level.L1.n }} | {{ site.data.local_facts.by_level.L1.current }} |
+| L2 | {{ site.data.local_facts.by_level.L2.n }} | {{ site.data.local_facts.by_level.L2.current }} |
+| L3 | {{ site.data.local_facts.by_level.L3.n }} | {{ site.data.local_facts.by_level.L3.current }} |
+| L4 | {{ site.data.local_facts.by_level.L4.n }} | {{ site.data.local_facts.by_level.L4.current }} |
+| L5 | {{ site.data.local_facts.by_level.L5.n }} | {{ site.data.local_facts.by_level.L5.current }} |
+
+Granskningsloggen har **{{ site.data.local_facts.reviews.records }}** poster på **{{ site.data.local_facts.reviews.public_pages_with_records }}** läkemedelssidor; rättelser ändrar bara godkännandeuppgifter, aldrig modellens prediktioner.
+
+<!-- local-facts:end -->
+
 ## Övergripande arbetsflöde
 
 <p class="key-answer" data-question="Hur tar SETxGNN fram sina prediktioner?">

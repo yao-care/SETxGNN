@@ -14,25 +14,25 @@ Varje slutsats går att spåra tillbaka till en offentlig datakälla — ingenti
 
 ---
 
-<!-- site-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
-## Sverige: data bakom webbplatsen
+<!-- local-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+## Sverige: vad de lokala uppgifterna täcker
 
-Webbplatsen publicerar rapporter om **{{ site.data.drug_stats.total_drugs }}** läkemedel i registreringsdata från [MPA](https://www.lakemedelsverket.se/) (Sverige).
+Lokala uppgifter: [Läkemedelsverket: läkemedelsregistret (CSV-export)](https://www.dataportal.se/en/datasets/140_5467). De lokala uppgifterna är Läkemedelsverkets läkemedelsregister med registreringsstatus. Avregistrerade godkännanden räknas inte som godkända.
 
-Rapporter per evidensnivå:
+| Uppgift | Värde |
+|---|---|
+| Läkemedel i de lokala uppgifterna | {{ site.data.local_facts.licence.drugs_with_data }} |
+| …med minst ett godkända godkännande | {{ site.data.local_facts.licence.drugs_with_current }} |
+| …med godkännanden men inget godkända | {{ site.data.local_facts.licence.drugs_none_current }} |
+| Läkemedel som saknas i de lokala uppgifterna | {{ site.data.local_facts.licence.drugs_without_data }} |
+| Lokala poster (godkännanden från Läkemedelsverket) | {{ site.data.local_facts.licence.items_total }} |
+| …varav godkända | {{ site.data.local_facts.licence.items_current }} |
 
-| Evidensnivå | Rapporter | Andel |
-|---|---|---|
-| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+{% if site.data.local_facts.no_current.size > 0 %}Läkemedel med godkännanden från Läkemedelsverket i dessa uppgifter men inget godkända: {% for r in site.data.local_facts.no_current %}[{{ r.t }}]({{ r.u | relative_url }}){% unless forloop.last %}, {% endunless %}{% endfor %}{% if site.data.local_facts.no_current_more > 0 %}, och {{ site.data.local_facts.no_current_more }} till{% endif %}{% endif %}
 
-8 predikterade par av läkemedel och sjukdom på webbplatsen finns inte på någon annan av de 30 TxGNN-webbplatserna.
+{% if site.data.local_facts.recent_licence_reviews.size > 0 %}Senaste rättelserna av lokala godkännandeuppgifter: {% for r in site.data.local_facts.recent_licence_reviews %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.d }}): {{ r.s }}{% unless forloop.last %}; {% endunless %}{% endfor %}{% endif %}
 
-<!-- site-data:end -->
+<!-- local-facts:end -->
 
 ## Översikt över källor
 

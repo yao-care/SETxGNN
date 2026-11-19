@@ -1,0 +1,421 @@
+{
+ "_about": "本檔由 scripts/local_facts.py 產生（母目錄 .claude/local_facts_lib.py），勿手改；cross 欄位由母目錄 .claude/gen_local_pages_20261119.py 更新",
+ "drugs_total": 459,
+ "level_counts": {
+  "L1": 6,
+  "L2": 21,
+  "L3": 23,
+  "L4": 31,
+  "L5": 368
+ },
+ "level_na": 10,
+ "public_pages": 459,
+ "licence_snapshot": "se_licenses.json.gz",
+ "licence": {
+  "drugs_with_data": 366,
+  "drugs_with_current": 364,
+  "drugs_none_current": 2,
+  "drugs_without_data": 93,
+  "drugs_partial": 0,
+  "items_total": 2205,
+  "items_current": 2184
+ },
+ "reviews": {
+  "records": 566,
+  "pages": 272,
+  "public_pages_with_records": 269,
+  "by_action": {
+   "correct": 566
+  }
+ },
+ "fhir": {
+  "medication_knowledge": 459,
+  "clinical_use_definition": 2539
+ },
+ "top_licensed": [
+  {
+   "t": "Lurasidone",
+   "u": "/drugs/lurasidone/",
+   "l": "L5",
+   "lt": 20,
+   "lv": 20,
+   "r": 3,
+   "i": "retinal dystrophy with or without extraocular anomalies"
+  },
+  {
+   "t": "Carbamazepine",
+   "u": "/drugs/carbamazepine/",
+   "l": "L5",
+   "lt": 19,
+   "lv": 19,
+   "r": 0,
+   "i": "Trigeminusnervtumör"
+  },
+  {
+   "t": "Dexamethasone",
+   "u": "/drugs/dexamethasone/",
+   "l": "L5",
+   "lt": 19,
+   "lv": 19,
+   "r": 0,
+   "i": "alopecia mucinosa"
+  },
+  {
+   "t": "Esomeprazole",
+   "u": "/drugs/esomeprazole/",
+   "l": "L5",
+   "lt": 19,
+   "lv": 19,
+   "r": 2,
+   "i": "duodenal obstruction"
+  },
+  {
+   "t": "Naproxen",
+   "u": "/drugs/naproxen/",
+   "l": "L5",
+   "lt": 19,
+   "lv": 19,
+   "r": 1,
+   "i": "brachydactyly-syndactyly syndrome"
+  },
+  {
+   "t": "Piperacillin",
+   "u": "/drugs/piperacillin/",
+   "l": "L4",
+   "lt": 19,
+   "lv": 19,
+   "r": 2,
+   "i": "Reumatoid artrit"
+  },
+  {
+   "t": "Pirfenidone",
+   "u": "/drugs/pirfenidone/",
+   "l": "L5",
+   "lt": 19,
+   "lv": 19,
+   "r": 3,
+   "i": "extracutaneous mastocytoma"
+  },
+  {
+   "t": "Tazobactam",
+   "u": "/drugs/tazobactam/",
+   "l": "N/A",
+   "lt": 19,
+   "lv": 19,
+   "r": 0,
+   "i": ""
+  }
+ ],
+ "no_current": [
+  {
+   "t": "Flutamide",
+   "u": "/drugs/flutamide/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 2,
+   "i": "fibroma of prostate"
+  },
+  {
+   "t": "Gadodiamide",
+   "u": "/drugs/gadodiamide/",
+   "l": "L5",
+   "lt": 2,
+   "lv": 0,
+   "r": 0,
+   "i": "Reumatoid artrit"
+  }
+ ],
+ "no_current_more": 0,
+ "most_reviewed": [
+  {
+   "t": "Deferiprone",
+   "u": "/drugs/deferiprone/",
+   "l": "L4",
+   "lt": 5,
+   "lv": 5,
+   "r": 4,
+   "i": "Hepatisk porfyri"
+  },
+  {
+   "t": "Dutasteride",
+   "u": "/drugs/dutasteride/",
+   "l": "L5",
+   "lt": 4,
+   "lv": 4,
+   "r": 4,
+   "i": "Ambras typ av hypertrichosis universalis congenita"
+  },
+  {
+   "t": "Empagliflozin",
+   "u": "/drugs/empagliflozin/",
+   "l": "L5",
+   "lt": 6,
+   "lv": 6,
+   "r": 4,
+   "i": "Fokalt stelbensyndrom"
+  },
+  {
+   "t": "Famotidine",
+   "u": "/drugs/famotidine/",
+   "l": "L5",
+   "lt": 2,
+   "lv": 2,
+   "r": 4,
+   "i": "duodenal obstruction"
+  },
+  {
+   "t": "Fludarabine",
+   "u": "/drugs/fludarabine/",
+   "l": "L2",
+   "lt": 3,
+   "lv": 3,
+   "r": 4,
+   "i": "plasma cell myeloma"
+  },
+  {
+   "t": "Glimepiride",
+   "u": "/drugs/glimepiride/",
+   "l": "L5",
+   "lt": 11,
+   "lv": 11,
+   "r": 4,
+   "i": "classic stiff person syndrome"
+  }
+ ],
+ "example": {
+  "t": "Clomipramine",
+  "u": "/drugs/clomipramine/",
+  "l": "L1",
+  "lt": 6,
+  "lv": 6,
+  "r": 0,
+  "i": "Ångestsyndrom"
+ },
+ "recent_reviews": [
+  {
+   "t": "Febuxostat",
+   "u": "/drugs/febuxostat/",
+   "s": "Nästa steg: två av tre svenska godkännanden är giltiga, inte bara ett avregistrerat",
+   "d": "2026-11-16"
+  },
+  {
+   "t": "Zidovudine",
+   "u": "/drugs/zidovudine/",
+   "s": "Tabell: 2 godkännanden (11764, 11427) är godkända, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Zanamivir",
+   "u": "/drugs/zanamivir/",
+   "s": "Tabell: 1 godkännande (14997) är godkänd, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Xylitol",
+   "u": "/drugs/xylitol/",
+   "s": "Tabell: 1 godkännande (54736) är godkänd, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Warfarin",
+   "u": "/drugs/warfarin/",
+   "s": "Tabell: 2 godkännanden (6897, 42966) är godkända, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Vinblastine",
+   "u": "/drugs/vinblastine/",
+   "s": "Tabell: 1 godkännande (7042) är godkänd, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Trifarotene",
+   "u": "/drugs/trifarotene/",
+   "s": "Tabell: 1 godkännande (58467) är godkänd, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Tretinoin",
+   "u": "/drugs/tretinoin/",
+   "s": "Tabell: 3 godkännanden (46193, 67791, 65880) är godkända, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Travoprost",
+   "u": "/drugs/travoprost/",
+   "s": "Tabell: 5 godkännanden (48021, 64362, 48012, 48062, 51223) är godkända, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Tranylcypromine",
+   "u": "/drugs/tranylcypromine/",
+   "s": "Tabell: 5 godkännanden (66342, 65529, 59077, 64732, 61456) är godkända, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Thiopental",
+   "u": "/drugs/thiopental/",
+   "s": "Tabell: 5 godkännanden (65868, 66413, 62051, 61068, 65869) är godkända, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Tetracaine",
+   "u": "/drugs/tetracaine/",
+   "s": "Tabell: 3 godkännanden (10080, 22468, 57835) är godkända, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Tetrabenazine",
+   "u": "/drugs/tetrabenazine/",
+   "s": "Tabell: 2 godkännanden (26919, 19824) är godkända, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Tamsulosin",
+   "u": "/drugs/tamsulosin/",
+   "s": "Tabell: 2 godkännanden (53766, 49635) är godkända, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Tadalafil",
+   "u": "/drugs/tadalafil/",
+   "s": "Tabell: 5 godkännanden (54479, 60561, 66043, 50626, 52516) är godkända, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Sulbactam",
+   "u": "/drugs/sulbactam/",
+   "s": "Tabell: 2 godkännanden (65432, 65431) är godkända, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Sucralfate",
+   "u": "/drugs/sucralfate/",
+   "s": "Tabell: 4 godkännanden (63098, 10007, 19751, 10480) är godkända, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Streptozocin",
+   "u": "/drugs/streptozocin/",
+   "s": "Tabell: 1 godkännande (53703) är godkänd, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Spironolactone",
+   "u": "/drugs/spironolactone/",
+   "s": "Tabell: 5 godkännanden (9578, 53264, 46492, 9766, 10238) är godkända, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Sorbitol",
+   "u": "/drugs/sorbitol/",
+   "s": "Tabell: 3 godkännanden (10793, 65612, 6514) är godkända, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Sevoflurane",
+   "u": "/drugs/sevoflurane/",
+   "s": "Tabell: 5 godkännanden (64635, 60134, 22339, 67689, 12332) är godkända, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Salbutamol",
+   "u": "/drugs/salbutamol/",
+   "s": "Tabell: 5 godkännanden (12803, 44737, 12324, 13120, 11088) är godkända, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Rotigotine",
+   "u": "/drugs/rotigotine/",
+   "s": "Tabell: 5 godkännanden (66352, 66349, 66350, 66348, 66353) är godkända, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Ritonavir",
+   "u": "/drugs/ritonavir/",
+   "s": "Tabell: 1 godkännande (55055) är godkänd, inte indragna",
+   "d": "2026-11-12"
+  }
+ ],
+ "recent_licence_reviews": [
+  {
+   "t": "Febuxostat",
+   "u": "/drugs/febuxostat/",
+   "s": "Nästa steg: två av tre svenska godkännanden är giltiga, inte bara ett avregistrerat",
+   "d": "2026-11-16"
+  },
+  {
+   "t": "Zidovudine",
+   "u": "/drugs/zidovudine/",
+   "s": "Tabell: 2 godkännanden (11764, 11427) är godkända, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Zanamivir",
+   "u": "/drugs/zanamivir/",
+   "s": "Tabell: 1 godkännande (14997) är godkänd, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Xylitol",
+   "u": "/drugs/xylitol/",
+   "s": "Tabell: 1 godkännande (54736) är godkänd, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Warfarin",
+   "u": "/drugs/warfarin/",
+   "s": "Tabell: 2 godkännanden (6897, 42966) är godkända, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Vinblastine",
+   "u": "/drugs/vinblastine/",
+   "s": "Tabell: 1 godkännande (7042) är godkänd, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Trifarotene",
+   "u": "/drugs/trifarotene/",
+   "s": "Tabell: 1 godkännande (58467) är godkänd, inte indragna",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Tretinoin",
+   "u": "/drugs/tretinoin/",
+   "s": "Tabell: 3 godkännanden (46193, 67791, 65880) är godkända, inte indragna",
+   "d": "2026-11-12"
+  }
+ ],
+ "files": {
+  "search_index": 459,
+  "drugs_json": 459
+ },
+ "by_level": {
+  "L1": {
+   "n": 6,
+   "current": 6
+  },
+  "L2": {
+   "n": 21,
+   "current": 21
+  },
+  "L3": {
+   "n": 23,
+   "current": 23
+  },
+  "L4": {
+   "n": 31,
+   "current": 31
+  },
+  "L5": {
+   "n": 368,
+   "current": 366
+  }
+ },
+ "cross": {
+  "unique_pairs": 0,
+  "unique_examples": []
+ }
+}

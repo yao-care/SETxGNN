@@ -48,12 +48,32 @@ ClinicalTrials.gov.
 
 ---
 
-## Registrerades rättigheter
+<!-- privacy-law:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改；法規與連結見 .claude/privacy_text_20261119.py）-->
+## Tillämplig lag
 
-Denna webbplats har inga konton och lagrar inga personuppgifter på egna servrar (den har inga).
-Användningsstatistiken samlas in av Google Analytics 4; du kan blockera eller radera dess kakor i webbläsarens
-inställningar.
-Vid frågor om denna policy, kontakta service@yao.care.
+För besökare i Sverige gäller [dataskyddsförordningen (GDPR)](https://eur-lex.europa.eu/eli/reg/2016/679/oj) och [lagen (2018:218) med kompletterande bestämmelser](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2018218-med-kompletterande-bestammelser_sfs-2018-218/); för kakor gäller dessutom lagen om elektronisk kommunikation. Tillsynsmyndighet är [Integritetsskyddsmyndigheten (IMY)](https://www.imy.se/). Den personuppgiftsansvarige finns i Taiwan och har inget etableringsställe i EU; behandlingen gäller de användningsuppgifter Google Analytics 4 samlar in via kakor.
+
+## Dina rättigheter och hur du använder dem
+
+- Rätt till tillgång (artikel 15) och rättelse (artikel 16).
+- Rätt till radering (artikel 17) och begränsning (artikel 18).
+- Rätt att invända (artikel 21), även mot webbanalys.
+- Rätt att klaga hos IMY (artikel 77).
+
+Begäranden och frågor: service@yao.care. Eftersom webbplatsen saknar konton kan vi bara hantera uppgifter hos Google Analytics om du ger oss tillräckliga detaljer (t.ex. datum och sidor för besöket); du kan också blockera eller radera analyscookies i webbläsaren.
+
+## Upphovsrätt och datakällor
+
+Webbplatsens texter skyddas av [upphovsrättslagen (1960:729)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1960729-om-upphovsratt-till-litterara-och_sfs-1960-729/). Webbplatsens kod är publicerad under MIT-licensen i [GitHub-förrådet](https://github.com/yao-care/SETxGNN); rapporttexterna är © 藥提醒科技有限公司 (yao.care).
+
+Datakällor på webbplatsen och deras villkor:
+
+- **TxGNN**-prediktionsdata (Harvard Dataverse): CC0 1.0 (allmän egendom); citera Huang et al., *Nature Medicine* 2024.
+- **ClinicalTrials.gov** och **PubMed**: US National Library of Medicine; se [villkoren för ClinicalTrials.gov](https://clinicaltrials.gov/about-site/terms-conditions) och [NCBI:s policyer](https://www.ncbi.nlm.nih.gov/home/about/policies/) (vissa PubMed-sammanfattningar omfattas fortfarande av förlagets upphovsrätt).
+- **DrugBank**-id:n och -data: enligt [DrugBank](https://go.drugbank.com/):s licensvillkor (icke-kommersiell användning).
+- **Lokal datamängd**: [Läkemedelsverket: läkemedelsregistret (CSV-export)](https://www.dataportal.se/en/datasets/140_5467), publicerad av Läkemedelsverket; återanvändning styrs av utgivarens villkor, och webbplatsen ger inga ytterligare rättigheter.
+
+<!-- privacy-law:end -->
 
 ---
 
