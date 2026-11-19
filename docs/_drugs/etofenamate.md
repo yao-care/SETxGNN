@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "etofenamate"
 predicted_indications: ["ankylosing spondylitis", "rheumatoid vasculitis", "hypermobility of coccyx", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "pseudoachondroplasia", "myosclerosis", "polyarticular juvenile rheumatoid arthritis", "Kummell disease"]
 last_modified_at: 2026-10-28
-description: "Etofenamate: predikterad ny indikation Ankylosing spondylitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Etofenamate: predikterad ny indikation Ankylosing spondylitis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
 # Etofenamate

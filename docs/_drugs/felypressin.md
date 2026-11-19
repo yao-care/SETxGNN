@@ -9,7 +9,7 @@ last_modified_at: 2026-11-12
 monitor_inn: "FELYPRESSIN"
 drugbank_id: DB00093
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "esotropia", "diabetic retinopathy", "bronchial adenomas/carcinoids childhood", "ductal or ductular proliferation", "chondroid hamartoma", "non-seminomatous lesion", "tumor of testis and paratestis", "pre-malignant neoplasm"]
-description: "Felypressin: predikterad ny indikation Läkemedelsinducerad osteoporos (drug-induced osteoporosis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Felypressin: predikterad ny indikation Läkemedelsinducerad osteoporos (drug-induced osteoporosis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
 # Felypressin

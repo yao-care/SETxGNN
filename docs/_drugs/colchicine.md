@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "colchicine"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
 last_modified_at: 2026-10-29
-description: "Colchicine: predikterad ny indikation Plasmodium falciparum-malaria (Plasmodium falciparum malaria) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Colchicine: predikterad ny indikation Plasmodium falciparum-malaria (Plasmodium falciparum malaria) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 5)"
 ---
 
 # Colchicine

@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "bexarotene"
 predicted_indications: ["primary cutaneous B-cell lymphoma", "lymphosarcoma"]
 last_modified_at: 2026-11-03
-description: "Bexarotene: predikterad ny indikation Primärt kutant B-cellslymfom (primary cutaneous B-cell lymphoma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Bexarotene: predikterad ny indikation Primärt kutant B-cellslymfom (primary cutaneous B-cell lymphoma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
 # Bexarotene

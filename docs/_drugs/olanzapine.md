@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
-description: "Olanzapine: predikterad ny indikation Benign paroxysmal torticollis of infancy (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Olanzapine: predikterad ny indikation Benign paroxysmal torticollis of infancy (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Olanzapine

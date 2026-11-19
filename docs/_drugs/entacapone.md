@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-31
 monitor_inn: "entacapone"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "lethal infantile mitochondrial myopathy", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "progressive supranuclear palsy-corticobasal syndrome"]
-description: "Entacapone: predikterad ny indikation PLA2G6-associated neurodegeneration (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Entacapone: predikterad ny indikation PLA2G6-associated neurodegeneration (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Entacapone

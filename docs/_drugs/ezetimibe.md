@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "ezetimibe"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
 last_modified_at: 2026-10-31
-description: "Ezetimibe: predikterad ny indikation Cholesterol-ester transfer protein deficiency (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Ezetimibe: predikterad ny indikation Cholesterol-ester transfer protein deficiency (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Ezetimibe

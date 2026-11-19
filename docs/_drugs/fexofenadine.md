@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "fexofenadine"
 predicted_indications: ["rosacea conjunctivitis"]
-description: "Fexofenadine: predikterad ny indikation Rosacea conjunctivitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Fexofenadine: predikterad ny indikation Rosacea conjunctivitis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 18 (giltiga: 16)"
 ---
 
 # Fexofenadine

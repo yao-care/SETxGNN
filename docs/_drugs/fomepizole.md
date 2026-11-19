@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "fomepizole"
 predicted_indications: ["sclerosing cholangitis"]
-description: "Fomepizole: predikterad ny indikation Skleroserande kolangit (sclerosing cholangitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Fomepizole: predikterad ny indikation Skleroserande kolangit (sclerosing cholangitis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
 # Fomepizole

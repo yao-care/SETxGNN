@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "pimecrolimus"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
-description: "Pimecrolimus: predikterad ny indikation Seborrheic dermatitis (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Pimecrolimus: predikterad ny indikation Seborrheic dermatitis (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
 # Pimecrolimus

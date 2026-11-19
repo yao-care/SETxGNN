@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "carbetocin"
 predicted_indications: ["isotretinoin-like syndrome", "Goodman syndrome"]
 last_modified_at: 2026-10-28
-description: "Carbetocin: predikterad ny indikation Isotretinoinliknande syndrom (isotretinoin-like syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Carbetocin: predikterad ny indikation Isotretinoinliknande syndrom (isotretinoin-like syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
 # Carbetocin

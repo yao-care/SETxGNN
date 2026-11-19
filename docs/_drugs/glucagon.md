@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "glucagon"
 predicted_indications: ["irritable bowel syndrome"]
-description: "Glucagon: predikterad ny indikation Irritabelt tarmsyndrom (irritable bowel syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Glucagon: predikterad ny indikation Irritabelt tarmsyndrom (irritable bowel syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
 # Glucagon

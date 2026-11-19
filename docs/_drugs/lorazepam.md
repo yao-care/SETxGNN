@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "LORAZEPAM"
 predicted_indications: ["trigeminal nerve neoplasm"]
-description: "Lorazepam: predikterad ny indikation Trigeminusnervsneoplasm (trigeminal nerve neoplasm) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Lorazepam: predikterad ny indikation Trigeminusnervsneoplasm (trigeminal nerve neoplasm) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 7)"
 ---
 
 # Lorazepam

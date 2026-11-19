@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "cyclopentolate"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
 last_modified_at: 2026-11-12
-description: "Cyclopentolate: predikterad ny indikation Cauda equina-syndrom (cauda equina syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Cyclopentolate: predikterad ny indikation Cauda equina-syndrom (cauda equina syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
 # Cyclopentolate

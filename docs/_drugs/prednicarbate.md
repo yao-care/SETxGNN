@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-12
 monitor_inn: "prednicarbate"
 predicted_indications: ["vulvar inverted follicular keratosis", "annular atrophic lichen planus", "hypertrophic lichen planus", "lichen planus pigmentosus", "lichen planus pemphigoides", "2-hydroxyethyl methacrylate sensitization", "primary cutaneous B-cell lymphoma"]
-description: "Prednicarbate: predikterad ny indikation Vulvar inverted follicular keratosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Prednicarbate: predikterad ny indikation Vulvar inverted follicular keratosis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
 # Prednicarbate

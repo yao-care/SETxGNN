@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-12
 monitor_inn: "methadone"
 predicted_indications: ["Tourette syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "headache disorder", "manic bipolar affective disorder", "trigeminal autonomic cephalalgia", "common cold"]
-description: "Methadone: predikterad ny indikation Tourette syndrome (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Methadone: predikterad ny indikation Tourette syndrome (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Methadone

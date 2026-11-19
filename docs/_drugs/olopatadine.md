@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "olopatadine"
 predicted_indications: ["rosacea conjunctivitis"]
-description: "Olopatadine: predikterad ny indikation Rosacea conjunctivitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Olopatadine: predikterad ny indikation Rosacea conjunctivitis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 7)"
 ---
 
 # Olopatadine

@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-04
 monitor_inn: "clozapine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
-description: "Clozapine: predikterad ny indikation Manisk bipolär sjukdom (manic bipolar affective disorder) (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Clozapine: predikterad ny indikation Manisk bipolär sjukdom (manic bipolar affective disorder) (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 15 (giltiga: 15)"
 ---
 
 # Clozapine

@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "amoxicillin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
 last_modified_at: 2026-10-28
-description: "Amoxicillin: predikterad ny indikation Hyperamylasemi (hyperamylasemia) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Amoxicillin: predikterad ny indikation Hyperamylasemi (hyperamylasemia) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
 # Amoxicillin

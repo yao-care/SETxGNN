@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "sucralfate"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
-description: "Sucralfate: predikterad ny indikation Duodenogastric reflux (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Sucralfate: predikterad ny indikation Duodenogastric reflux (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 
 # Sucralfate

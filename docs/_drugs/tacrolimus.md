@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
-description: "Tacrolimus: predikterad ny indikation Seborrheic dermatitis (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Tacrolimus: predikterad ny indikation Seborrheic dermatitis (evidensnivå L1). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Tacrolimus

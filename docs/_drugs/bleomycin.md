@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "bleomycin"
 predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
 last_modified_at: 2026-11-03
-description: "Bleomycin: predikterad ny indikation Caudaequinaneoplasm (cauda equina neoplasm) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Bleomycin: predikterad ny indikation Caudaequinaneoplasm (cauda equina neoplasm) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
 # Bleomycin

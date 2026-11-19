@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-04
 monitor_inn: "MODAFINIL"
 predicted_indications: ["insomnia (disease)"]
-description: "Modafinil: predikterad ny indikation Insomni (insomnia (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Modafinil: predikterad ny indikation Insomni (insomnia (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
 ---
 
 # Modafinil

@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "oxymetazoline"
 predicted_indications: ["nasal cavity disease", "headache disorder"]
-description: "Oxymetazoline: predikterad ny indikation Sjukdomar i näshålan (nasal cavity disease) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Oxymetazoline: predikterad ny indikation Sjukdomar i näshålan (nasal cavity disease) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 14 (giltiga: 14)"
 ---
 
 # Oxymetazoline

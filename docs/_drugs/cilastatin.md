@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "cilastatin"
 predicted_indications: ["staphylococcus aureus infection", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "sinusitis", "paranasal sinus neoplasm (disease)", "paratyphoid fever", "bronchitis", "diffuse scleroderma", "salmonellosis"]
 last_modified_at: 2026-10-28
-description: "Cilastatin: predikterad ny indikation Staphylococcus aureus-infektion (staphylococcus aureus infection) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Cilastatin: predikterad ny indikation Staphylococcus aureus-infektion (staphylococcus aureus infection) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 
 # Cilastatin

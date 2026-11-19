@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "STREPTOZOCIN"
 predicted_indications: ["relapsing-remitting multiple sclerosis", "small cell lung carcinoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung", "hereditary breast ovarian cancer syndrome", "primary pulmonary lymphoma", "lymphosarcoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma"]
-description: "Streptozocin: predikterad ny indikation Relapsing-remitting multiple sclerosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Streptozocin: predikterad ny indikation Relapsing-remitting multiple sclerosis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
 # Streptozocin

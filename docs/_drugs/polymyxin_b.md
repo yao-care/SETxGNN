@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "polymyxin b"
 predicted_indications: ["bronchitis", "laryngotracheitis"]
-description: "Polymyxin B: predikterad ny indikation Bronkit (bronchitis) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Polymyxin B: predikterad ny indikation Bronkit (bronchitis) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
 ---
 
 # Polymyxin B

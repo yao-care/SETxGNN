@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "topiramate"
 predicted_indications: ["trigeminal nerve neoplasm"]
-description: "Topiramate: predikterad ny indikation Trigeminusnervtumör (trigeminal nerve neoplasm) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Topiramate: predikterad ny indikation Trigeminusnervtumör (trigeminal nerve neoplasm) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Topiramate

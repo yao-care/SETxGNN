@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "EFAVIRENZ"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-description: "Efavirenz: predikterad ny indikation Feline acquired immunodeficiency syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Efavirenz: predikterad ny indikation Feline acquired immunodeficiency syndrome (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 8 (giltiga: 7)"
 ---
 
 # Efavirenz

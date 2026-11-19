@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "carbamazepine"
 predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
 last_modified_at: 2026-10-28
-description: "Carbamazepine: predikterad ny indikation Trigeminusnervtumör (trigeminal nerve neoplasm) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Carbamazepine: predikterad ny indikation Trigeminusnervtumör (trigeminal nerve neoplasm) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 19 (giltiga: 19)"
 ---
 
 # Carbamazepine

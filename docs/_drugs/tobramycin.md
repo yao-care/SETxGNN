@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "TOBRAMYCIN"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
-description: "Tobramycin: predikterad ny indikation Exposure keratitis (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Tobramycin: predikterad ny indikation Exposure keratitis (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 8 (giltiga: 8)"
 ---
 
 # Tobramycin

@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-03
 monitor_inn: "dexamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-description: "Dexamethasone: predikterad ny indikation Alopecia mucinosa (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Dexamethasone: predikterad ny indikation Alopecia mucinosa (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 19 (giltiga: 19)"
 ---
 
 # Dexamethasone

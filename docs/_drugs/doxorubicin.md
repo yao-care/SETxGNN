@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-12
 monitor_inn: "doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
-description: "Doxorubicin: predikterad ny indikation Ewing sarcoma (evidensnivå L1). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Doxorubicin: predikterad ny indikation Ewing sarcoma (evidensnivå L1). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
 ---
 
 # Doxorubicin

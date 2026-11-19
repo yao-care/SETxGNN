@@ -9,7 +9,7 @@ drugbank_id: DB00916
 monitor_inn: "Metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
 last_modified_at: 2026-11-16
-description: "Metronidazol: predikterad ny indikation Pneumocystos (pneumocystosis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Metronidazol: predikterad ny indikation Pneumocystos (pneumocystosis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 13 (giltiga: 13)"
 ---
 
 # Metronidazol

@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "ephedrine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
-description: "Ephedrine: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Ephedrine: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 16 (giltiga: 16)"
 ---
 
 # Ephedrine

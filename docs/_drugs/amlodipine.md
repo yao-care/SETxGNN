@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
 last_modified_at: 2026-10-29
-description: "Amlodipine: predikterad ny indikation Hjärnstamsinfarkt (brain stem infarction) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Amlodipine: predikterad ny indikation Hjärnstamsinfarkt (brain stem infarction) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Amlodipine

@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "fosfomycin"
 predicted_indications: ["uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "epiglottitis", "urogenital tuberculosis", "laryngitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "pyelitis"]
 last_modified_at: 2026-10-28
-description: "Fosfomycin: predikterad ny indikation Uterine inflammatory disease (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Fosfomycin: predikterad ny indikation Uterine inflammatory disease (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
 # Fosfomycin

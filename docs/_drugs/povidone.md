@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "povidone"
 predicted_indications: ["congenital ichthyosiform erythroderma"]
-description: "Povidone: predikterad ny indikation Congenital ichthyosiform erythroderma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Povidone: predikterad ny indikation Congenital ichthyosiform erythroderma (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 
 # Povidone

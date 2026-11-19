@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "vortioxetine"
 predicted_indications: ["neurotic disorder", "benign paroxysmal torticollis of infancy"]
-description: "Vortioxetine: predikterad ny indikation Neurotiskt tillstånd (neurotic disorder) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Vortioxetine: predikterad ny indikation Neurotiskt tillstånd (neurotic disorder) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 12 (giltiga: 12)"
 ---
 
 # Vortioxetine

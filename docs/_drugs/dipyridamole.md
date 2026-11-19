@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "dipyridamole"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
 last_modified_at: 2026-11-03
-description: "Dipyridamole: predikterad ny indikation Sick sinus syndrome 2, autosomal dominant (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Dipyridamole: predikterad ny indikation Sick sinus syndrome 2, autosomal dominant (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
 ---
 
 # Dipyridamole

@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "lomustine"
 predicted_indications: ["lymphosarcoma", "malignant tumor of meninges", "spinal cord cancer"]
-description: "Lomustine: predikterad ny indikation Lymfosarkom (lymphosarcoma) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Lomustine: predikterad ny indikation Lymfosarkom (lymphosarcoma) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
 # Lomustine

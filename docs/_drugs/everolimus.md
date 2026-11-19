@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-10-31
 monitor_inn: "EVEROLIMUS"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
-description: "Everolimus: predikterad ny indikation Liposarkom (liposarcoma) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Everolimus: predikterad ny indikation Liposarkom (liposarcoma) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Everolimus

@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "esomeprazole"
 predicted_indications: ["duodenal obstruction"]
-description: "Esomeprazole: predikterad ny indikation Duodenal obstruction (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Esomeprazole: predikterad ny indikation Duodenal obstruction (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 19 (giltiga: 19)"
 ---
 
 # Esomeprazole

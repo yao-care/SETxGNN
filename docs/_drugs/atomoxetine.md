@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
 last_modified_at: 2026-11-02
-description: "Atomoxetine: predikterad ny indikation Specifik utvecklingsstörning (specific developmental disorder) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Atomoxetine: predikterad ny indikation Specifik utvecklingsstörning (specific developmental disorder) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Atomoxetine

@@ -9,7 +9,7 @@ drugbank_id: DB06697
 monitor_inn: "Artemether"
 predicted_indications: ["acquired angioedema", "angioedema", "hereditary angioedema", "nephrogenic syndrome of inappropriate antidiuresis", "acute contagious conjunctivitis", "scleroderma (disease)", "conjunctivitis", "renin-angiotensin-aldosterone system-blocker-induced angioedema"]
 last_modified_at: 2026-11-17
-description: "Artemeter: predikterad ny indikation Förvärvat angioödem (acquired angioedema) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Artemeter: predikterad ny indikation Förvärvat angioödem (acquired angioedema) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
 # Artemeter

@@ -9,7 +9,7 @@ drugbank_id: DB00338
 monitor_inn: "Omeprazole"
 predicted_indications: ["duodenal obstruction"]
 last_modified_at: 2026-11-17
-description: "Omeprazol: predikterad ny indikation Duodenal obstruktion (duodenal obstruction) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Omeprazol: predikterad ny indikation Duodenal obstruktion (duodenal obstruction) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Omeprazol

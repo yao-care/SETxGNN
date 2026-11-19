@@ -9,7 +9,7 @@ drugbank_id: DB00643
 monitor_inn: "Mebendazole"
 predicted_indications: ["acne (disease)"]
 last_modified_at: 2026-11-16
-description: "Mebendazol: predikterad ny indikation Akne (acne (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Mebendazol: predikterad ny indikation Akne (acne (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 
 # Mebendazol

@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-04
 monitor_inn: "epirubicin"
 predicted_indications: ["primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "small cell lung carcinoma", "pulmonary blastoma", "lung mixed small cell and squamous cell carcinoma", "myeloid leukemia", "upper aerodigestive tract neoplasm"]
-description: "Epirubicin: predikterad ny indikation Primärt pulmonellt lymfom (primary pulmonary lymphoma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Epirubicin: predikterad ny indikation Primärt pulmonellt lymfom (primary pulmonary lymphoma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
 ---
 
 # Epirubicin

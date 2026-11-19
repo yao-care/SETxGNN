@@ -9,7 +9,7 @@ drugbank_id: DB01217
 monitor_inn: "Anastrozole"
 predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
 last_modified_at: 2026-11-17
-description: "Anastrozol: predikterad ny indikation Neuroblastom (neuroblastoma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Anastrozol: predikterad ny indikation Neuroblastom (neuroblastoma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 8 (giltiga: 8)"
 ---
 
 # Anastrozol

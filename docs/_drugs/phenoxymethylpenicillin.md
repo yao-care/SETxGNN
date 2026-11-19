@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "phenoxymethylpenicillin"
 predicted_indications: ["epiglottitis", "laryngitis"]
-description: "Phenoxymethylpenicillin: predikterad ny indikation Epiglottitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Phenoxymethylpenicillin: predikterad ny indikation Epiglottitis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Phenoxymethylpenicillin

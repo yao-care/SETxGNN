@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "cetirizine"
 predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
 last_modified_at: 2026-10-28
-description: "Cetirizine: predikterad ny indikation Näshåleesjukdom (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Cetirizine: predikterad ny indikation Näshåleesjukdom (nasal cavity disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 13 (giltiga: 13)"
 ---
 
 # Cetirizine

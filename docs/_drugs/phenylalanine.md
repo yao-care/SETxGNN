@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-13
 monitor_inn: "phenylalanine"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
-description: "Phenylalanine: predikterad ny indikation Skleroserande kolangit (sclerosing cholangitis) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Phenylalanine: predikterad ny indikation Skleroserande kolangit (sclerosing cholangitis) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Phenylalanine

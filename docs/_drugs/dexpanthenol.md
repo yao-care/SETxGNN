@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "dexpanthenol"
 predicted_indications: ["anorectal stricture", "imperforate anus", "anal polyp", "vulvar inverted follicular keratosis", "proctitis", "exanthem (disease)", "punctate epithelial keratoconjunctivitis"]
 last_modified_at: 2026-10-28
-description: "Dexpanthenol: predikterad ny indikation Anorektal striktur (anorectal stricture) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Dexpanthenol: predikterad ny indikation Anorektal striktur (anorectal stricture) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
 # Dexpanthenol

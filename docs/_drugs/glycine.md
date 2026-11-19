@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-13
 monitor_inn: "glycine"
 predicted_indications: ["nasal cavity disease"]
-description: "Glycine: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Glycine: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Glycine

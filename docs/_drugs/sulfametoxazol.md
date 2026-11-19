@@ -9,7 +9,7 @@ drugbank_id: DB01015
 monitor_inn: "Sulfamethoxazole"
 predicted_indications: ["acute contagious conjunctivitis"]
 last_modified_at: 2026-11-16
-description: "Sulfametoxazol: predikterad ny indikation Akut smittsam konjunktivit (acute contagious conjunctivitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Sulfametoxazol: predikterad ny indikation Akut smittsam konjunktivit (acute contagious conjunctivitis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
 ---
 
 # Sulfametoxazol

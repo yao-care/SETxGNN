@@ -9,7 +9,7 @@ monitor_inn: "amsacrine"
 drugbank_id: DB00276
 predicted_indications: ["hyperthyroidism", "plasma cell myeloma", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "bronchitis"]
 last_modified_at: 2026-10-28
-description: "Amsacrine: predikterad ny indikation Hypertyreos (hyperthyroidism) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Amsacrine: predikterad ny indikation Hypertyreos (hyperthyroidism) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
 # Amsacrine

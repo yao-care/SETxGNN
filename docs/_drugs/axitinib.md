@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "AXITINIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
 last_modified_at: 2026-10-28
-description: "Axitinib: predikterad ny indikation Liposarkom (liposarcoma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Axitinib: predikterad ny indikation Liposarkom (liposarcoma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 13 (giltiga: 13)"
 ---
 
 # Axitinib

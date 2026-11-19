@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-12
 monitor_inn: "lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
-description: "Lenalidomide: predikterad ny indikation Myeloid leukemia (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Lenalidomide: predikterad ny indikation Myeloid leukemia (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Lenalidomide

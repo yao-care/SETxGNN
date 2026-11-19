@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-12
 monitor_inn: "fosphenytoin"
 predicted_indications: ["conjunctivitis", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome", "manic bipolar affective disorder", "myositis fibrosa", "idiopathic granulomatous myositis", "fibromyalgia"]
-description: "Fosphenytoin: predikterad ny indikation Conjunctivitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Fosphenytoin: predikterad ny indikation Conjunctivitis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
 ---
 
 # Fosphenytoin

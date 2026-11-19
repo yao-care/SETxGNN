@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "ebastine"
 predicted_indications: ["coronary artery disease", "myocardial ischemia"]
-description: "Ebastine: predikterad ny indikation Kranskärlssjukdom (coronary artery disease) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Ebastine: predikterad ny indikation Kranskärlssjukdom (coronary artery disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Ebastine

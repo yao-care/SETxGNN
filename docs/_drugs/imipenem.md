@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-03
 monitor_inn: "imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
-description: "Imipenem: predikterad ny indikation Diffus skleroderma (diffuse scleroderma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Imipenem: predikterad ny indikation Diffus skleroderma (diffuse scleroderma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 
 # Imipenem

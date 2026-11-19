@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-04
 monitor_inn: "DASATINIB"
 predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival", "dermatofibrosarcoma protuberans", "ovarian myxoid liposarcoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung"]
-description: "Dasatinib: predikterad ny indikation Ewing sarkom (Ewing sarcoma) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Dasatinib: predikterad ny indikation Ewing sarkom (Ewing sarcoma) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Dasatinib

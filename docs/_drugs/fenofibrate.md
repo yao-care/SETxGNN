@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "fenofibrate"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
 last_modified_at: 2026-10-28
-description: "Fenofibrate: predikterad ny indikation Cholesterol-ester transfer protein deficiency (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Fenofibrate: predikterad ny indikation Cholesterol-ester transfer protein deficiency (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 5 (giltiga: 5)"
 ---
 
 # Fenofibrate

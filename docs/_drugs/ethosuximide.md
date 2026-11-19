@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "ethosuximide"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-description: "Ethosuximide: predikterad ny indikation Nephrogenic syndrome of inappropriate antidiuresis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Ethosuximide: predikterad ny indikation Nephrogenic syndrome of inappropriate antidiuresis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 8 (giltiga: 8)"
 ---
 
 # Ethosuximide

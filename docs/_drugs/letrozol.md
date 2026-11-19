@@ -9,7 +9,7 @@ drugbank_id: DB01006
 monitor_inn: "Letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
 last_modified_at: 2026-11-17
-description: "Letrozol: predikterad ny indikation Bröstvårtscancer (nipple carcinoma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Letrozol: predikterad ny indikation Bröstvårtscancer (nipple carcinoma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 10 (giltiga: 10)"
 ---
 
 # Letrozol

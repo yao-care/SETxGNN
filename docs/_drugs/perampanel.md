@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "perampanel"
 predicted_indications: ["beta-ketothiolase deficiency"]
-description: "Perampanel: predikterad ny indikation Beta-ketothiolase deficiency (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Perampanel: predikterad ny indikation Beta-ketothiolase deficiency (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
 ---
 
 # Perampanel

@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "alanine"
 predicted_indications: ["gastroparesis (disease)"]
 last_modified_at: 2026-11-13
-description: "Alanine: predikterad ny indikation Gastropares (gastroparesis (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Alanine: predikterad ny indikation Gastropares (gastroparesis (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Alanine

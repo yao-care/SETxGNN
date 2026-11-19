@@ -9,7 +9,7 @@ drugbank_id: DB00448
 monitor_inn: "Lansoprazole"
 predicted_indications: ["duodenal obstruction"]
 last_modified_at: 2026-11-17
-description: "Lansoprazol: predikterad ny indikation Duodenal obstruktion (duodenal obstruction) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Lansoprazol: predikterad ny indikation Duodenal obstruktion (duodenal obstruction) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 14 (giltiga: 14)"
 ---
 
 # Lansoprazol

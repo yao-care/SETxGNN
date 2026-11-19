@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "trabectedin"
 predicted_indications: ["female breast carcinoma"]
-description: "Trabectedin: predikterad ny indikation Bröstcancer hos kvinnor (female breast carcinoma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Trabectedin: predikterad ny indikation Bröstcancer hos kvinnor (female breast carcinoma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 8 (giltiga: 8)"
 ---
 
 # Trabectedin

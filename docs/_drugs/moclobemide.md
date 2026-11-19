@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "moclobemide"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
-description: "Moclobemide: predikterad ny indikation Agoraphobia (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Moclobemide: predikterad ny indikation Agoraphobia (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
 ---
 
 # Moclobemide

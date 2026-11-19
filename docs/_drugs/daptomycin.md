@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "DAPTOMYCIN"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
-description: "Daptomycin: predikterad ny indikation Osteoarthritis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Daptomycin: predikterad ny indikation Osteoarthritis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 17 (giltiga: 17)"
 ---
 
 # Daptomycin

@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
-description: "Topotecan: predikterad ny indikation Kvinnlig bröstcancer (female breast carcinoma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Topotecan: predikterad ny indikation Kvinnlig bröstcancer (female breast carcinoma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
 # Topotecan

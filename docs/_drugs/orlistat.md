@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "ORLISTAT"
 predicted_indications: ["hypervitaminosis"]
-description: "Orlistat: predikterad ny indikation Hypervitaminosis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Orlistat: predikterad ny indikation Hypervitaminosis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 
 # Orlistat

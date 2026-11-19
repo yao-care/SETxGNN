@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "pemetrexed"
 predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
-description: "Pemetrexed: predikterad ny indikation Pleural adenomatoid tumor (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Pemetrexed: predikterad ny indikation Pleural adenomatoid tumor (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 3)"
 ---
 
 # Pemetrexed

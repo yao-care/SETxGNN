@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "acetylcysteine"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
 last_modified_at: 2026-11-04
-description: "Acetylcysteine: predikterad ny indikation Trombotisk sjukdom (thrombotic disease) (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Acetylcysteine: predikterad ny indikation Trombotisk sjukdom (thrombotic disease) (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
 ---
 
 # Acetylcysteine

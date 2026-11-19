@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "dalbavancin"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "otitis externa", "ophthalmic herpes zoster", "infectious mononucleosis", "orbital cellulitis"]
 last_modified_at: 2026-10-28
-description: "Dalbavancin: predikterad ny indikation Postinfektiös vaskulit (postinfectious vasculitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Dalbavancin: predikterad ny indikation Postinfektiös vaskulit (postinfectious vasculitis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 5 (giltiga: 5)"
 ---
 
 # Dalbavancin

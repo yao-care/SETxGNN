@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-03
 monitor_inn: "sapropterin"
 predicted_indications: ["disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome"]
-description: "Sapropterin: predikterad ny indikation Rubbning av tyrosinmetabolismen (disorder of tyrosine metabolism) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Sapropterin: predikterad ny indikation Rubbning av tyrosinmetabolismen (disorder of tyrosine metabolism) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
 # Sapropterin

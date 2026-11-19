@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-10-29
 monitor_inn: "meloxicam"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-description: "Meloxicam: predikterad ny indikation Acromesomelic dysplasia, Hunter-Thompson type (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Meloxicam: predikterad ny indikation Acromesomelic dysplasia, Hunter-Thompson type (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 2)"
 ---
 
 # Meloxicam

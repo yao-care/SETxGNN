@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-13
 monitor_inn: "flutamide"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
-description: "Flutamide: predikterad ny indikation Fibroma of prostate (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Flutamide: predikterad ny indikation Fibroma of prostate (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 0)"
 ---
 
 # Flutamide

@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "OXAZEPAM"
 predicted_indications: ["insomnia (disease)"]
-description: "Oxazepam: predikterad ny indikation Insomnia (disease) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Oxazepam: predikterad ny indikation Insomnia (disease) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 7)"
 ---
 
 # Oxazepam

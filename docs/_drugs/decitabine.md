@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "decitabine"
 predicted_indications: ["refractory cytopenia of childhood"]
 last_modified_at: 2026-10-28
-description: "Decitabine: predikterad ny indikation Refraktär cytopeni hos barn (refractory cytopenia of childhood) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Decitabine: predikterad ny indikation Refraktär cytopeni hos barn (refractory cytopenia of childhood) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
 ---
 
 # Decitabine

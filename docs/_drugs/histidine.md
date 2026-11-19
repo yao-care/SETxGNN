@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-13
 monitor_inn: "histidine"
 predicted_indications: ["gastroparesis (disease)", "sclerosing cholangitis"]
-description: "Histidine: predikterad ny indikation Gastropares (gastroparesis (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Histidine: predikterad ny indikation Gastropares (gastroparesis (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Histidine

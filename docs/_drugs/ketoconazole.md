@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "ketoconazole"
 predicted_indications: ["acne (disease)"]
-description: "Ketoconazole: predikterad ny indikation Akne (acne (disease)) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Ketoconazole: predikterad ny indikation Akne (acne (disease)) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 
 # Ketoconazole

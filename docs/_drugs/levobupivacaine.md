@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "levobupivacaine"
 predicted_indications: ["gastroduodenitis"]
-description: "Levobupivacaine: predikterad ny indikation Gastroduodenitis (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Levobupivacaine: predikterad ny indikation Gastroduodenitis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
 # Levobupivacaine

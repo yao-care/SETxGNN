@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "gadodiamide"
 predicted_indications: ["rheumatoid arthritis"]
-description: "Gadodiamide: predikterad ny indikation Reumatoid artrit (rheumatoid arthritis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Gadodiamide: predikterad ny indikation Reumatoid artrit (rheumatoid arthritis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 0)"
 ---
 
 # Gadodiamide

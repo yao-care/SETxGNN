@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "chloramphenicol"
 predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
 last_modified_at: 2026-11-03
-description: "Chloramphenicol: predikterad ny indikation Diffus sklerodermi (diffuse scleroderma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Chloramphenicol: predikterad ny indikation Diffus sklerodermi (diffuse scleroderma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 
 # Chloramphenicol

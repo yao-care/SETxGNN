@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-04
 monitor_inn: "lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
-description: "Lenvatinib: predikterad ny indikation Liposarkom (liposarcoma) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Lenvatinib: predikterad ny indikation Liposarkom (liposarcoma) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): 10 (giltiga: 10)"
 ---
 
 # Lenvatinib

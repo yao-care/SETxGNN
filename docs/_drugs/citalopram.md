@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "citalopram"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)"]
 last_modified_at: 2026-10-28
-description: "Citalopram: predikterad ny indikation Tvångssyndrom (obsessive-compulsive disorder) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Citalopram: predikterad ny indikation Tvångssyndrom (obsessive-compulsive disorder) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Citalopram

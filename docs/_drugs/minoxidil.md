@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-04
 monitor_inn: "MINOXIDIL"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with HIV infection"]
-description: "Minoxidil: predikterad ny indikation Hypotrichosis simplex i hårbotten (hypotrichosis simplex of the scalp) (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Minoxidil: predikterad ny indikation Hypotrichosis simplex i hårbotten (hypotrichosis simplex of the scalp) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 14 (giltiga: 14)"
 ---
 
 # Minoxidil

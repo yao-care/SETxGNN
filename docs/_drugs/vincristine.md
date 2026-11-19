@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "vincristine"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
 last_modified_at: 2026-10-28
-description: "Vincristine: predikterad ny indikation Vertebral anomalies and variable endocrine and T-cell dysfunction (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Vincristine: predikterad ny indikation Vertebral anomalies and variable endocrine and T-cell dysfunction (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
 # Vincristine

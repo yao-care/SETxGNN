@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "xylometazoline"
 predicted_indications: ["nasal cavity disease"]
-description: "Xylometazoline: predikterad ny indikation Sjukdomar i näshålan (nasal cavity disease) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Xylometazoline: predikterad ny indikation Sjukdomar i näshålan (nasal cavity disease) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Xylometazoline

@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "ESTRIOL"
 predicted_indications: ["amenorrhea (disease)"]
-description: "Estriol: predikterad ny indikation Amenorré (amenorrhea (disease)) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Estriol: predikterad ny indikation Amenorré (amenorrhea (disease)) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): 8 (giltiga: 8)"
 ---
 
 # Estriol

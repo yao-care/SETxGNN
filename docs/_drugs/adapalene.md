@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "adapalene"
 predicted_indications: ["zinc, elevated plasma"]
 last_modified_at: 2026-10-28
-description: "Adapalene: predikterad ny indikation Förhöjt zink i plasma (zinc, elevated plasma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Adapalene: predikterad ny indikation Förhöjt zink i plasma (zinc, elevated plasma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 11 (giltiga: 11)"
 ---
 
 # Adapalene

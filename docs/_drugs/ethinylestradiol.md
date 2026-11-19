@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "ethinylestradiol"
 predicted_indications: ["zinc, elevated plasma"]
-description: "Ethinylestradiol: predikterad ny indikation Förhöjt plasmazink (zinc, elevated plasma) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Ethinylestradiol: predikterad ny indikation Förhöjt plasmazink (zinc, elevated plasma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Ethinylestradiol

@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "ALPRAZOLAM"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
 last_modified_at: 2026-11-04
-description: "Alprazolam: predikterad ny indikation Insomni (insomnia (disease)) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Alprazolam: predikterad ny indikation Insomni (insomnia (disease)) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Alprazolam

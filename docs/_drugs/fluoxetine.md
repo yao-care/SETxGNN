@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "fluoxetine"
 predicted_indications: ["schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
 last_modified_at: 2026-11-04
-description: "Fluoxetine: predikterad ny indikation Schizotyp personlighetsstörning (schizotypal personality disorder) (evidensnivå L3). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Fluoxetine: predikterad ny indikation Schizotyp personlighetsstörning (schizotypal personality disorder) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): 13 (giltiga: 12)"
 ---
 
 # Fluoxetine

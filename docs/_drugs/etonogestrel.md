@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-28
 monitor_inn: "ETONOGESTREL"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "blunt duct adenosis of breast", "apocrine adenosis of breast", "benign mammary dysplasia"]
-description: "Etonogestrel: predikterad ny indikation Amenorré (amenorrhea (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Etonogestrel: predikterad ny indikation Amenorré (amenorrhea (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
 ---
 
 # Etonogestrel

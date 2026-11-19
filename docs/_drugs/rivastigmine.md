@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "rivastigmine"
 predicted_indications: ["glaucoma"]
-description: "Rivastigmine: predikterad ny indikation Glaucoma (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
+description: "Rivastigmine: predikterad ny indikation Glaucoma (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 18 (giltiga: 18)"
 ---
 
 # Rivastigmine
