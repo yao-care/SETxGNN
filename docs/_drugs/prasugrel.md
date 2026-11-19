@@ -60,7 +60,7 @@ Prasugrel är en trombocythämmare som ursprungligen användes för att behandla
 
 ### Varför är denna förutsägelse rimlig?
 
-Prasugrel är en P2Y12-antagonist som hämmar trombocytaggregation. Detaljerad verkningsmekanismdata finns inte i de sammanställda uppgifterna, men läkemedlets klassverkan är väl känd och används för att förebygga blodproppar vid akut koronarsyndrom.
+Prasugrel är en P2Y12-antagonist som hämmar trombocytaggregation. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Prasugrel (inofficiell översättning): ”Prasugrel är en hämmare av trombocytaktivering och trombocytaggregation genom att dess aktiva metabolit binder irreversibelt till P2Y 12-klassen av ADP-receptorer på trombocyterna.” Engelsk originaltext: "Prasugrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets." ([DailyMed: Effient (prasugrel hydrochloride) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69ea2d58-5353-4222-b61f-cab976fa7e5e), version från 2022-09-07; hämtad 2026-11-19).
 
 Sambandet med pulmonell hypertension går via trombocyter. Trombocytaktivering och lokal blodproppsbildning i lungornas kärl tros bidra till att kärlväggarna förändras och förtjockas (kärlremodellering). Mekanistiskt är det därför tänkbart att en trombocythämmare kan påverka sjukdomen.
 
@@ -131,11 +131,12 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 7 godkännanden är avregistrerade och inget är giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Effient (prasugrel hydrochloride) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69ea2d58-5353-4222-b61f-cab976fa7e5e) |
 
 <!-- review:end log -->
 

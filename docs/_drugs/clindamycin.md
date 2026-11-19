@@ -60,7 +60,7 @@ Klindamycin är ett antibiotikum av lincosamidtyp som hämmar bakteriers protein
 
 ### Varför är denna förutsägelse rimlig?
 
-Klindamycin är ett lincosamid som binder till bakteriens 50S-ribosomsubenhet och hämmar proteinsyntesen. Detaljerad data om verkningsmekanismen från läkemedelsdatabasen saknas i det underlag som sammanställts för denna rapport, men den antibakteriella verkningsmekanismen är väletablerad.
+Klindamycin är ett lincosamid som binder till bakteriens 50S-ribosomsubenhet och hämmar proteinsyntesen. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Clindamycin (inofficiell översättning): ”Klindamycin hämmar bakteriell proteinsyntes genom att binda till 23S-RNA i 50S-subenheten av ribosomen. Klindamycin är bakteriostatiskt.” Engelsk originaltext: "Clindamycin inhibits bacterial protein synthesis by binding to the 23S RNA of the 50S subunit of the ribosome. Clindamycin is bacteriostatic." ([DailyMed: Cleocin Hydrochloride (clindamycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df9a2a41-b132-4f43-8940-b2d773b1369a), version från 2026-09-16; hämtad 2026-11-19).
 
 Punktat epitelial keratokonjunktivit är oftast virusorsakad eller icke-infektiös, till exempel vid torra ögon eller som toxisk eller läkemedelsutlöst reaktion. Ett antibakteriellt läkemedel har därför ingen etablerad mekanistisk koppling till tillståndet.
 
@@ -114,6 +114,19 @@ Se i övrigt produktresumén för varningar och kontraindikationer.
 - Systematisk litteratursökning efter direkt relevanta studier
 - Säkerhetsgranskning baserad på produktresumén, eftersom varningar och kontraindikationer saknas i underlaget
 - Bedömning av lämplig administreringsväg (till exempel ögonberedning), som inte är utvärderad
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Cleocin Hydrochloride (clindamycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df9a2a41-b132-4f43-8940-b2d773b1369a) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -123,7 +123,7 @@ Se produktresumén för fullständiga varningar och kontraindikationer.
 
 **För att gå vidare krävs:**
 - In vitro-data som visar antifungal aktivitet av ivermektin mot Candida.
-- Verkningsmekanismdata (saknas i underlaget) och en genomgång av mekanistiskt samband.
+- Enligt avsnittet ”Clinical Pharmacology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Ivermectin (inofficiell översättning): ”In vitro-studier med humana levermikrosomer och rekombinanta CYP450-enzymer har visat att ivermektin huvudsakligen metaboliseras av CYP3A4.” Engelsk originaltext: "In vitro studies using human liver microsomes and recombinant CYP450 enzymes have shown that ivermectin is primarily metabolized by CYP3A4." ([DailyMed: Stromectol (ivermectin) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=681888c9-af79-4b7d-ae80-c3f4f6f1effd), version från 2024-09-20; hämtad 2026-11-19).
 - Produktresumédata om varningar och kontraindikationer från Läkemedelsverket (saknas).
 - Prekliniska djurstudier, därefter kontrollerade kliniska prövningar i den aktuella populationen.
 - Bedömning av beredningsform och administrationsväg för den nya indikationen.
@@ -132,11 +132,12 @@ Se produktresumén för fullständiga varningar och kontraindikationer.
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 13 godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Stromectol (ivermectin) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=681888c9-af79-4b7d-ae80-c3f4f6f1effd) |
 
 <!-- review:end log -->
 

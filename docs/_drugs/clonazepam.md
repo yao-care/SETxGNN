@@ -60,7 +60,7 @@ Klonazepam är en bensodiazepin som i Sverige finns som flera läkemedelsprodukt
 
 ### Varför är denna förutsägelse rimlig?
 
-Någon detaljerad uppgift om verkningsmekanismen finns inte i de data som sammanställts för rapporten. Baserat på känd klassfarmakologi är klonazepam en bensodiazepin som förstärker den hämmande signaleringen via GABA-A-receptorn.
+Enligt avsnittet ”Clinical Pharmacology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Clonazepam (inofficiell översättning): ”Den exakta mekanism genom vilken klonazepam utövar sina antiepileptiska effekter och effekter mot panik är okänd, även om den tros vara relaterad till dess förmåga att förstärka aktiviteten hos gammaaminosmörsyra (GABA), den viktigaste hämmande signalsubstansen i centrala nervsystemet.” Engelsk originaltext: "The precise mechanism by which clonazepam exerts its antiseizure and antipanic effects is unknown, although it is believed to be related to its ability to enhance the activity of gamma aminobutyric acid (GABA), the major inhibitory neurotransmitter in the central nervous system." ([DailyMed: Klonopin (clonazepam) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cfa0d79a-843c-4b88-95a1-e9511d649ca1), version från 2025-12-01; hämtad 2026-11-19). Baserat på känd klassfarmakologi är klonazepam en bensodiazepin som förstärker den hämmande signaleringen via GABA-A-receptorn.
 
 Vid restless legs-syndrom förekommer ofta sömnstörning och periodiska benrörelser under sömn. Genom att dämpa överretbarhet i sensoriska och motoriska nätverk och minska sömnfragmentering kan klonazepam lindra besvären indirekt. Litteraturen beskriver en symtomlindrande och sömnfrämjande effekt, inte en sjukdomsmodifierande.
 
@@ -126,6 +126,19 @@ Se produktresumén för varningar och kontraindikationer.
 - Större kontrollerade studier av klonazepam vid restless legs-syndrom, med uppföljning av långtidseffekt.
 - Bedömning av risker för beroende, sedering och interaktioner med opioider.
 - Komplettering av säkerhetsdata från produktresumén och uppgifter om verkningsmekanism.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Klonopin (clonazepam) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cfa0d79a-843c-4b88-95a1-e9511d649ca1) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

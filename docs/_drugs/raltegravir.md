@@ -60,7 +60,7 @@ Raltegravir är en integrashämmare (INSTI) som ursprungligen används för att 
 
 ## Varför är denna förutsägelse rimlig?
 
-Detaljerad data om verkningsmekanismen finns för närvarande inte tillgänglig i de sammanställda data. Baserat på känd information är raltegravir en hiv-1-integrashämmare (strand transfer-hämmare). Läkemedlet blockerar det steg där virusets arvsmassa byggs in i värdcellens DNA, och dess effekt vid hiv-infektion är väl belagd.
+Enligt avsnitten ”Mechanism of Action” och ”Microbiology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Raltegravir (inofficiell översättning): ”Raltegravir är ett antiviralt läkemedel mot hiv-1. […] Raltegravir hämmar den katalytiska aktiviteten hos hiv-1-integras, ett hiv-1-kodat enzym som krävs för virusreplikation. Hämning av integras förhindrar den kovalenta insättningen, eller integreringen, av ointegrerat linjärt hiv-1-DNA i värdcellens genom, vilket förhindrar bildningen av hiv-1-provirus.” Engelsk originaltext: "Raltegravir is an HIV-1 antiviral drug. […] Raltegravir inhibits the catalytic activity of HIV-1 integrase, an HIV-1 encoded enzyme that is required for viral replication. Inhibition of integrase prevents the covalent insertion, or integration, of unintegrated linear HIV-1 DNA into the host cell genome preventing the formation of the HIV-1 provirus." ([DailyMed: Isentress (raltegravir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e659505-c902-4906-9461-1cc83e2236d2), version från 2026-09-16; hämtad 2026-11-19). Baserat på känd information är raltegravir en hiv-1-integrashämmare (strand transfer-hämmare). Läkemedlet blockerar det steg där virusets arvsmassa byggs in i värdcellens DNA, och dess effekt vid hiv-infektion är väl belagd.
 
 SIV är ett nära besläktat lentivirus med ett likartat integrasenzym. Därför är det mekanistiskt rimligt att raltegravir även hämmar SIV. Studier på makaker visar att raltegravir i kombination med andra antivirala läkemedel kan hålla virusmängden nere, och SIV-modeller används för att studera resistens mot integrashämmare och virusreservoarer.
 
@@ -136,12 +136,13 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Det enda svenska godkännandet är återkallat” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 1 godkännande (67482) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Isentress (raltegravir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e659505-c902-4906-9461-1cc83e2236d2) |
 
 <!-- review:end log -->
 

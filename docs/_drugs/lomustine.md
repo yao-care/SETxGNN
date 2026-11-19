@@ -60,7 +60,7 @@ Lomustin är ett alkylerande cytostatikum av nitrosoureatyp. TxGNN-modellen för
 
 ### Varför är denna förutsägelse rimlig?
 
-Lomustin är ett fettlösligt nitrosoureamedel som alkylerar och tvärbinder DNA, så att tumörceller inte kan dela sig. Eftersom ämnet är fettlösligt passerar det blod-hjärnbarriären. Det gör det intressant vid lymfom som engagerar centrala nervsystemet. Detaljerade uppgifter om verkningsmekanismen finns inte i de data som sammanställts för rapporten, så resonemanget bygger på känd farmakologi för läkemedelsklassen.
+Lomustin är ett fettlösligt nitrosoureamedel som alkylerar och tvärbinder DNA, så att tumörceller inte kan dela sig. Eftersom ämnet är fettlösligt passerar det blod-hjärnbarriären. Det gör det intressant vid lymfom som engagerar centrala nervsystemet. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Lomustine (inofficiell översättning): ”Lomustin alkylerar DNA och RNA. Liksom andra nitrosoureor kan det även hämma flera viktiga enzymatiska processer genom karbamoylering av aminosyror i proteiner.” Engelsk originaltext: "Lomustine alkylates DNA and RNA. As with other nitrosoureas, it may also inhibit several key enzymatic processes by carbamoylation of amino acids in proteins." ([DailyMed: Gleostine (lomustine) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3529fe2f-3c23-4862-bb20-b48026957082), version från 2025-09-25; hämtad 2026-11-19).
 
 Lymfom är i regel känsliga för alkylerande cytostatika. Lomustin har därför ingått i flera kombinationsregimer vid lymfom, till exempel tillsammans med etoposid, cyklofosfamid och prokarbazin vid AIDS-relaterat non-Hodgkin-lymfom. Det är mekanistiskt rimligt att läkemedlet är aktivt även vid lymfosarkom.
 
@@ -155,11 +155,12 @@ Se produktresumén för information om varningar och kontraindikationer.
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-12 | Tabell: 1 godkännande (9312) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Gleostine (lomustine) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3529fe2f-3c23-4862-bb20-b48026957082) |
 
 <!-- review:end log -->
 

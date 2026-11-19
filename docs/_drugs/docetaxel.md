@@ -60,7 +60,7 @@ Docetaxel är ett cytostatikum av taxantyp som finns på den svenska marknaden s
 
 ### Varför är denna förutsägelse rimlig?
 
-Detaljerad data om verkningsmekanism finns för närvarande inte tillgänglig i det underlag som sammanställts. Docetaxel tillhör dock taxanerna, som stabiliserar mikrotubuli och hindrar celldelning. Det ger cytotoxisk effekt i snabbväxande tumörceller.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Docetaxel (inofficiell översättning): ”Docetaxel är ett antineoplastiskt medel som verkar genom att störa det mikrotubulära nätverket i celler, vilket är nödvändigt för cellulära funktioner under mitos och interfas. Docetaxel binder till fritt tubulin och främjar sammanfogningen av tubulin till stabila mikrotubuli samtidigt som det hämmar deras nedbrytning.” Engelsk originaltext: "Docetaxel is an antineoplastic agent that acts by disrupting the microtubular network in cells that is essential for mitotic and interphase cellular functions. Docetaxel binds to free tubulin and promotes the assembly of tubulin into stable microtubules while simultaneously inhibiting their disassembly." ([DailyMed: Beizray (docetaxel) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8fb7d980-d6c7-468b-a9f0-adff16101a4b), version från 2025-12-17; hämtad 2026-11-19). Docetaxel tillhör dock taxanerna, som stabiliserar mikrotubuli och hindrar celldelning. Det ger cytotoxisk effekt i snabbväxande tumörceller.
 
 Ewing-sarkom är en aggressiv tumör i ben och mjukdelar med hög celldelningstakt, vilket gör den i teorin känslig för mikrotubuliriktade cytostatika. Prekliniska och kliniska arbeten stöder sekventiell behandling med gemcitabin följt av docetaxel (synergieffekt), och kombinationen docetaxel och irinotekan har också undersökts.
 
@@ -146,6 +146,18 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Tydligare data om svarsfrekvens och överlevnad i Ewing-sarkom specifikt
 - Genomgång av produktresumén för säkerhet och dosering, särskilt hos barn och unga vuxna
 - Klinisk bedömning av myelosuppression och leverfunktion hos aktuell patientgrupp
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Beizray (docetaxel) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8fb7d980-d6c7-468b-a9f0-adff16101a4b) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

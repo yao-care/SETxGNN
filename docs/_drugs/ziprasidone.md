@@ -62,7 +62,7 @@ Ziprasidon är ett atypiskt antipsykotiskt läkemedel som ursprungligen används
 
 ### Varför är denna förutsägelse rimlig?
 
-Detaljerad verkningsmekanismdata finns för närvarande inte tillgänglig i det sammanställda underlaget. Utifrån litteraturen blockerar ziprasidon dopamin D2- och serotonin 5-HT2A-receptorer, verkar agonistiskt på 5-HT1A och hämmar återupptaget av serotonin och noradrenalin. Detta är en kombination som kan ge både antidepressiva och stämningsstabiliserande effekter.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Ziprasidone (inofficiell översättning): ”Verkningsmekanismen för ziprasidon vid behandling av de angivna indikationerna skulle kunna förmedlas genom en kombination av antagonism mot dopamin typ 2 (D 2 )- och serotonin typ 2 (5HT 2 )-receptorer.” Engelsk originaltext: "The mechanism of action of ziprasidone in the treatment of the listed indications could be mediated through a combination of dopamine type 2 (D 2 ) and serotonin type 2 (5HT 2 ) antagonism." ([DailyMed: Ziprasidone Mesylate 20 Mg/Ml (ziprasidone mesylate) prescribing information, Armas Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c5c27f0f-4e45-4bca-bb9a-2d3f1c243348), version från 2026-09-18; hämtad 2026-11-19). Utifrån litteraturen blockerar ziprasidon dopamin D2- och serotonin 5-HT2A-receptorer, verkar agonistiskt på 5-HT1A och hämmar återupptaget av serotonin och noradrenalin. Detta är en kombination som kan ge både antidepressiva och stämningsstabiliserande effekter.
 
 Läkemedlet är redan använt vid mani och bipolär sjukdom, så förutsägelsen överlappar delvis med den ursprungliga indikationen. Den nya frågeställningen gäller främst tilläggsbehandling vid unipolär egentlig depression, behandlingsresistent depression, depression med psykotiska drag och depressiva blandtillstånd.
 
@@ -148,11 +148,12 @@ Se produktresumén för fullständiga varningar och försiktighetsåtgärder.
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Totalt 8 godkännanden, samtliga avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Ziprasidone Mesylate 20 Mg/Ml (ziprasidone mesylate) prescribing information, Armas Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c5c27f0f-4e45-4bca-bb9a-2d3f1c243348) |
 
 <!-- review:end log -->
 

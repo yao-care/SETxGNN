@@ -131,7 +131,19 @@ För varnings- och kontraindikationstexter, se produktresumén.
 - Randomiserade studier som direkt prövar hydrokortison mot placebo eller aktiv behandling vid alopecia areata.
 - Jämförelse med mer potenta kortikosteroider för att avgöra om hydrokortison tillför något kliniskt.
 - Granskning av produktresumén för varningar, kontraindikationer och lämplig beredningsform (lokal behandling).
-- Beskrivning av verkningsmekanismen, som saknas i nuvarande data.
+- Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Hydrocortisone (inofficiell översättning): ”Hydrokortison är en glukokortikoid. Glukokortikoider, binjurebarkssteroider, ger upphov till varierande metabola effekter. Dessutom modifierar de kroppens immunsvar på olika stimuli..” Engelsk originaltext: "Hydrocortisone is a glucocorticoid. Glucocorticoids, adrenocortical steroids, cause varied metabolic effects. In addition, they modify the body's immune responses to diverse stimuli.." ([DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682), version från 2026-04-21; hämtad 2026-11-19).
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

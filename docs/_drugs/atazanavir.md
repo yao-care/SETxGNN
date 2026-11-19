@@ -60,7 +60,7 @@ Atazanavir är en proteashämmare. TxGNN-modellen förutsäger att läkemedlet k
 
 ### Varför är denna förutsägelse rimlig?
 
-Detaljerad verkningsmekanismdata finns för närvarande inte tillgänglig. Atazanavir är en proteashämmare som används mot hivinfektion, och mekanistiskt kan den vara tillämpbar på felint immunbristsyndrom.
+Enligt avsnitten ”Mechanism of Action” och ”Microbiology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Atazanavir (inofficiell översättning): ”Atazanavir är ett antiretroviralt läkemedel mot HIV-1. […] Atazanavir (ATV) är en azapeptidisk HIV-1-proteashämmare (PI). Substansen hämmar selektivt den virusspecifika processningen av virala Gag- och Gag-Pol-polyproteiner i HIV-1-infekterade celler och förhindrar därmed bildningen av mogna virioner.” Engelsk originaltext: "Atazanavir is an HIV-1 antiretroviral drug. […] Atazanavir (ATV) is an azapeptide HIV-1 protease inhibitor (PI). The compound selectively inhibits the virus-specific processing of viral Gag and Gag-Pol polyproteins in HIV-1-infected cells, thus preventing formation of mature virions." ([DailyMed: Reyataz (atazanavir) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=165cff62-b284-4a27-a65d-9ec8a5bfcdd8), version från 2024-12-05; hämtad 2026-11-19). Atazanavir är en proteashämmare som används mot hivinfektion, och mekanistiskt kan den vara tillämpbar på felint immunbristsyndrom.
 
 Felint immunbristvirus (FIV) är ett lentivirus med ett aspartylproteas som är besläktat med hiv-1-proteaset. Därför är det tänkbart att en proteashämmare som atazanavir kan påverka även detta virus. Den höga poängen speglar sannolikt likheten med hivsjukdom i modellens underliggande data.
 
@@ -120,6 +120,19 @@ Produktresumén bör läsas för fullständig säkerhetsinformation, eftersom va
 - Prekliniska eller veterinärmedicinska studier som visar antiviral effekt
 - Kompletterande uppgifter om verkningsmekanism och säkerhet från produktresumén
 - Bedömning av om humanläkemedel är lämpligt för veterinärt bruk ur regulatorisk synvinkel
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Reyataz (atazanavir) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=165cff62-b284-4a27-a65d-9ec8a5bfcdd8) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

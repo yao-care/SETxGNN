@@ -60,7 +60,7 @@ Rifabutin är ett antimykobakteriellt läkemedel av rifamycintyp som hämmar bak
 
 ## Varför är denna förutsägelse rimlig?
 
-Rifabutin är inget anti-HIV-läkemedel. Det hämmar det bakteriella enzymet DNA-beroende RNA-polymeras (rpoB) och har ingen känd effekt på hiv-viruset. Någon detaljerad verkningsmekanismdata finns inte i det sammanställda underlaget, så beskrivningen bygger på läkemedlets kända farmakologi.
+Rifabutin är inget anti-HIV-läkemedel. Det hämmar det bakteriella enzymet DNA-beroende RNA-polymeras (rpoB) och har ingen känd effekt på hiv-viruset. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Rifabutin (inofficiell översättning): ”Rifabutin hämmar DNA-beroende RNA-polymeras i känsliga stammar av Escherichia coli och Bacillus subtilis men inte i däggdjursceller. I resistenta stammar av E. coli hämmade rifabutin, liksom rifampicin, inte detta enzym.” Engelsk originaltext: "Rifabutin inhibits DNA-dependent RNA polymerase in susceptible strains of Escherichia coli and Bacillus subtilis but not in mammalian cells. In resistant strains of E. coli, rifabutin, like rifampin, did not inhibit this enzyme." ([DailyMed: rifabutin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=25a60937-cbbe-4a50-994f-2ce15203f589), version från 2026-09-01; hämtad 2026-11-19).
 
 Kopplingen till HIV går via de mykobakteriella infektioner som drabbar personer med nedsatt immunförsvar, som tuberkulos och infektion med *Mycobacterium avium*-komplex (MAC). Rifabutin är en svagare inducerare av enzymet CYP3A än rifampicin. Därför går det lättare att kombinera med proteashämmare inom antiretroviral behandling, men dosjustering behövs fortfarande. Modellens höga poäng speglar sannolikt denna starka samförekomst i HIV-vården. Den visar inte att läkemedlet har effekt mot själva HIV-infektionen.
 
@@ -136,6 +136,18 @@ Se i övrigt produktresumén för varningar och kontraindikationer.
 - En omvärdering av om målet är HIV-infektion i sig eller hivassocierade mykobakteriella infektioner. Det senare är en annan frågeställning med annan evidens.
 - Kompletterande säkerhetsdata, särskilt om neutropeni och interaktioner med antiretrovirala läkemedel.
 - Granskning av produktresumén för säkerhetsinformation, eftersom varningar och kontraindikationer saknas i det sammanställda underlaget.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: rifabutin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=25a60937-cbbe-4a50-994f-2ce15203f589) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

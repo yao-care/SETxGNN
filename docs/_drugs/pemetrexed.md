@@ -60,7 +60,7 @@ Pemetrexed är ett antifolat (cytostatika) som ursprungligen används mot icke-s
 
 ### Varför är denna förutsägelse rimlig?
 
-Någon detaljerad verkningsmekanismdata finns inte tillgänglig i den sammanställda datan. Baserat på känd information är pemetrexed ett multitargeterat antifolat som hämmar tymidylatsyntas, dihydrofolatreduktas (DHFR) och GARFT, enzymer som behövs för att bygga upp DNA och RNA. Genom att blockera dem hindras tumörceller från att dela sig.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Pemetrexed (inofficiell översättning): ”Pemetrexed är en metabolisk hämmare och folatanalog som stör folatberoende metaboliska processer som är nödvändiga för cellreplikation. In vitro-studier visar att pemetrexed hämmar tymidylatsyntas (TS), dihydrofolatreduktas (DHFR) och glycinamidribonukleotidformyltransferas (GARFT), som är folatberoende enzymer involverade i de novo-biosyntesen av tymidin- och purinnukleotider.” Engelsk originaltext: "Pemetrexed is a folate analog metabolic inhibitor that disrupts folate-dependent metabolic processes essential for cell replication. In vitro studies show that pemetrexed inhibits thymidylate synthase (TS), dihydrofolate reductase (DHFR), and glycinamide ribonucleotide formyltransferase (GARFT), which are folate-dependent enzymes involved in the de novo biosynthesis of thymidine and purine nucleotides." ([DailyMed: Pemfexy (pemetrexed) prescribing information, Acacia Pharma, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=caef07ce-066b-4c48-98dc-974b05ebbbe0), version från 2026-06-18; hämtad 2026-11-19). Baserat på känd information är pemetrexed ett multitargeterat antifolat som hämmar tymidylatsyntas, dihydrofolatreduktas (DHFR) och GARFT, enzymer som behövs för att bygga upp DNA och RNA. Genom att blockera dem hindras tumörceller från att dela sig.
 
 Pemetrexed i kombination med cisplatin är etablerad standardbehandling vid malignt pleuramesoteliom. Peritonealt mesoteliom har samma celltyp (histologi) och liknande känslighet för cytostatika, och eftersom sjukdomen är mycket sällsynt har behandlingen i stor utsträckning hämtats från pleurastudier. Detta stöds av en översikt från 2024 som beskriver att rekommendationerna för systembehandling mest bygger på extrapolering från pleuramesoteliom.
 
@@ -160,11 +160,12 @@ Uppgifter om varningar och kontraindikationer från produktresumén ingår inte 
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”De svenska godkännandena är alla avregistrerade och säkerhetsdata från produktresumén saknas” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Pemfexy (pemetrexed) prescribing information, Acacia Pharma, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=caef07ce-066b-4c48-98dc-974b05ebbbe0) |
 
 <!-- review:end log -->
 

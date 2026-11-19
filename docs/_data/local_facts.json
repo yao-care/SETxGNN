@@ -21,11 +21,12 @@
   "items_current": 2184
  },
  "reviews": {
-  "records": 566,
-  "pages": 272,
-  "public_pages_with_records": 269,
+  "records": 623,
+  "pages": 301,
+  "public_pages_with_records": 298,
   "by_action": {
-   "correct": 566
+   "correct": 566,
+   "mechanism": 57
   }
  },
  "fhir": {
@@ -134,7 +135,7 @@
    "l": "L4",
    "lt": 5,
    "lv": 5,
-   "r": 4,
+   "r": 5,
    "i": "Hepatisk porfyri"
   },
   {

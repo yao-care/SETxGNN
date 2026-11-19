@@ -60,7 +60,7 @@ Terbutalin är en selektiv beta-2-agonist som ursprungligen används mot astma, 
 
 ### Varför är denna förutsägelse rimlig?
 
-Detaljerad data om verkningsmekanismen saknas för närvarande. Terbutalin är emellertid en väl känd selektiv beta-2-adrenerg receptoragonist. Den binder till beta-2-receptorer på luftvägarnas glatta muskulatur och får musklerna att slappna av, vilket vidgar luftvägarna.
+Enligt avsnittet ”Clinical Pharmacology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Terbutaline (inofficiell översättning): ”Farmakologiska studier in vitro och in vivo har visat att terbutalin utövar en företrädesvis effekt på beta 2 -adrenerga receptorer. Även om det är känt att beta2-adrenerga receptorer är de dominerande receptorerna i bronkernas glatta muskulatur, tyder data på att det finns en population av beta2-receptorer i det mänskliga hjärtat, i en koncentration mellan 10 % och 50 %.” Engelsk originaltext: "In vitro and in vivo pharmacologic studies have demonstrated that terbutaline exerts a preferential effect on beta 2 -adrenergic receptors. While it is recognized that beta2-adrenergic receptors are the predominant receptors in bronchial smooth muscle, data indicate that there is a population of beta2-receptors in the human heart, existing in a concentration between 10% to 50%." ([DailyMed: terbutaline sulfate prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726), version från 2025-12-10; hämtad 2026-11-19). Terbutalin är emellertid en väl känd selektiv beta-2-adrenerg receptoragonist. Den binder till beta-2-receptorer på luftvägarnas glatta muskulatur och får musklerna att slappna av, vilket vidgar luftvägarna.
 
 Vid astma, kronisk bronkit och emfysem begränsas luftflödet av luftvägsobstruktion. Obstruktiv lungsjukdom är i praktiken en överordnad grupp för dessa tillstånd. Läkemedlets effekt vid astma kan därför mekanistiskt överföras till KOL och andra obstruktiva tillstånd.
 
@@ -167,12 +167,13 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas för 
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga fyra godkännanden är indragna och läkemedlet saknar för närvarande giltiga godkännanden i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: terbutaline sulfate prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726) |
 
 <!-- review:end log -->
 

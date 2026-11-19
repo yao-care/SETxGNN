@@ -60,7 +60,7 @@ Alprostadil är en syntetisk form av prostaglandin E1 som används för att hål
 
 ### Varför är denna förutsägelse rimlig?
 
-Alprostadil (PGE1) slappnar av den glatta muskulaturen i ductus arteriosus och håller kärlet öppet. Hos nyfödda med ductusberoende medfödda hjärtfel bevarar detta blodflödet till lungorna eller kroppen tills operation kan genomföras. Detaljerade uppgifter om verkningsmekanismen från läkemedelsdatabaser saknas i underlaget, men denna effekt är väl beskriven i litteraturen.
+Alprostadil (PGE1) slappnar av den glatta muskulaturen i ductus arteriosus och håller kärlet öppet. Hos nyfödda med ductusberoende medfödda hjärtfel bevarar detta blodflödet till lungorna eller kroppen tills operation kan genomföras. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Alprostadil (inofficiell översättning): ”Alprostadil (PGE1) är ett prostaglandin med en mängd olika farmakologiska verkningar, inklusive vasodilatation och hämning av trombocytaggregation. Alprostadil inducerar erektion genom relaxation av trabekulär glatt muskulatur och genom dilatation av kavernösa artärer, genom att binda till sina receptorer och öka de intracellulära nivåerna av cykliskt adenosinmonofosfat (cAMP) via modulering av adenylatcyklas.” Engelsk originaltext: "Alprostadil (PGE1) is a prostaglandin with a wide variety of pharmacological actions including vasodilation and inhibition of platelet aggregation. Alprostadil induces erection by relaxation of trabecular smooth muscle and by dilation of cavernosal arteries by binding to its receptors and increasing intracellular cyclic adenosine monophosphate (cAMP) levels via modulation of adenylate cyclase." ([DailyMed: Caverject (alprostadil) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98), version från 2024-05-13; hämtad 2026-11-19).
 
 Vid missbildningar i aortabågen, till exempel avbruten aortabåge, kan en öppen ductus vara livsavgörande för cirkulationen. Mekanismen är därför biologiskt rimlig, och den ligger nära de användningsområden som alprostadil redan har vid ductusberoende hjärtfel. Förutsägelsen är således till stor del en förlängning av känd användning snarare än ett helt nytt mål.
 
@@ -124,6 +124,18 @@ Se i övrigt produktresumén för varningar och kontraindikationer.
 - Hämtning av produktresumé med varningar, kontraindikationer och godkända indikationer.
 - Kompletterande uppgifter om verkningsmekanismen från läkemedelsdatabas.
 - Bedömning av säkerhet vid långvarig infusion hos nyfödda.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Caverject (alprostadil) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

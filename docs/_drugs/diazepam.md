@@ -60,7 +60,7 @@ Diazepam är en bensodiazepin som verkar genom att förstärka GABA-A-receptorns
 
 ### Varför är denna förutsägelse rimlig?
 
-Diazepam binder till GABA-A-receptorn och förstärker den hämmande signalöverföringen i hjärnan. Detta ger lugnande och sömnframkallande effekter. Någon detaljerad verkningsmekanismdata finns inte i de sammanställda uppgifterna, men mekanismen är väl beskriven i litteraturen. Bensodiazepiner har historiskt använts för att underlätta insomning och förbättra sömnkontinuitet.
+Diazepam binder till GABA-A-receptorn och förstärker den hämmande signalöverföringen i hjärnan. Detta ger lugnande och sömnframkallande effekter. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Diazepam (inofficiell översättning): ”Verkningsmekanismen för diazepam vid de angivna indikationerna antas innefatta en förstärkning av gamma-aminosmörsyra (GABA), en hämmande signalsubstans, till följd av bindning till bensodiazepinstället på GABA A -receptorn.” Engelsk originaltext: "The mechanism of action of diazepam for the listed indications is thought to involve potentiation of gamma aminobutyric acid (GABA), an inhibitory neurotransmitter, resulting from binding at the benzodiazepine site of the GABA A receptor." ([DailyMed: Valium (diazepam) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=260e2041-2bb3-482f-850e-b5d47a7bdbe6), version från 2026-10-06; hämtad 2026-11-19). Bensodiazepiner har historiskt använts för att underlätta insomning och förbättra sömnkontinuitet.
 
 Mekanismen gör förutsägelsen biologiskt rimlig. De hämmande effekterna på nervcellerna kan korta insomningstiden och minska antalet uppvaknanden. Litteraturen består dock mest av översikter, farmakokinetiska sammanställningar och studier av urtmediciner. Få av dem är diazepamspecifika prövningar. Beroende, toleransutveckling och påverkan dagen efter begränsar värdet av en eventuell ny användning.
 
@@ -128,6 +128,18 @@ Se produktresumén för fullständiga varningar och kontraindikationer.
 - Jämförelse med nuvarande förstahandsbehandlingar, till exempel kognitiv beteendeterapi vid sömnlöshet och nyare sömnmedel.
 - En bedömning av nytta och risk vid kortvarig respektive långvarig användning, särskilt hos äldre.
 - Granskning av produktresumén för varningar, kontraindikationer och gällande indikationstext.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Valium (diazepam) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=260e2041-2bb3-482f-850e-b5d47a7bdbe6) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

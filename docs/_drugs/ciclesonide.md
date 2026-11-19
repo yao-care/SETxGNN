@@ -60,7 +60,7 @@ Ciclesonide är en inhalerad kortikosteroid som aktiveras i kroppen till den ver
 
 ### Varför är denna förutsägelse rimlig?
 
-Ciclesonide är en prodrug som aktiveras av esteraser till des-ciklesonid, en agonist på glukokortikoidreceptorn med antiinflammatorisk effekt. Någon detaljerad verkningsmekanismdata finns inte i de data som sammanställts, så beskrivningen bygger på allmänt känd farmakologi.
+Ciclesonide är en prodrug som aktiveras av esteraser till des-ciklesonid, en agonist på glukokortikoidreceptorn med antiinflammatorisk effekt. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Ciclesonide (inofficiell översättning): ”Ciklesonid är en prodrug som efter oral inhalation hydrolyseras enzymatiskt till en farmakologiskt aktiv metabolit, C21-desisobutyryl-ciklesonid (des-ciklesonid eller RM1). Des-ciklesonid har antiinflammatorisk aktivitet med en affinitet för glukokortikoidreceptorer som är 120 gånger större än modersubstansens och 12 gånger större än dexametasons.” Engelsk originaltext: "Ciclesonide is a prodrug that is enzymatically hydrolyzed to a pharmacologically active metabolite, C21-desisobutyryl-ciclesonide (des-ciclesonide or RM1) following oral inhalation. Des-ciclesonide has anti-inflammatory activity with affinity for glucocorticoid receptors that is 120 times greater than the parent compound and 12 times greater than dexamethasone." ([DailyMed: Alvesco (ciclesonide) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6112fb-78ef-43cf-8ae3-36370eb45468), version från 2025-02-28; hämtad 2026-11-19).
 
 Glukokortikoider, lokalt eller systemiskt givna, är en etablerad behandling vid atopiskt eksem, där hudinflammationen är central. En glukokortikoidmedierad mekanism är därför biologiskt rimlig.
 
@@ -117,6 +117,19 @@ För varningar och kontraindikationer, se produktresumén.
 - Bedömning av om en lämplig beredningsform och administreringsväg finns för hudsjukdom.
 - Kompletterande data om verkningsmekanism samt varningar och kontraindikationer från produktresumén.
 - Prekliniska eller små explorativa kliniska studier innan en bredare utvärdering övervägs.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Alvesco (ciclesonide) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6112fb-78ef-43cf-8ae3-36370eb45468) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

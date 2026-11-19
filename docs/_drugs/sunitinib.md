@@ -60,7 +60,7 @@ Sunitinib är en tyrosinkinashämmare som ursprungligen används mot njurcellsca
 
 ## Varför är denna förutsägelse rimlig?
 
-Någon detaljerad verkningsmekanismdata fanns inte tillgänglig i läkemedelsdatabasen. Enligt den bedömning som sammanställts för rapporten är sunitinib en multitargeterad hämmare av receptortyrosinkinaser, bland annat VEGFR, PDGFR, KIT, FLT3 och RET. Genom att blockera dessa signalvägar kan läkemedlet hämma både tumörcellernas tillväxt och bildningen av nya blodkärl i tumören.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Sunitinib (inofficiell översättning): ”Sunitinib är en liten molekyl som hämmar flera receptortyrosinkinaser (RTK), av vilka vissa är inblandade i tumörtillväxt, patologisk angiogenes och metastatisk progression av cancer.” Engelsk originaltext: "Sunitinib is a small molecule that inhibits multiple receptor tyrosine kinases (RTKs), some of which are implicated in tumor growth, pathologic angiogenesis, and metastatic progression of cancer." ([DailyMed: Sutent (sunitinib malate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c), version från 2026-02-20; hämtad 2026-11-19). Enligt den bedömning som sammanställts för rapporten är sunitinib en multitargeterad hämmare av receptortyrosinkinaser, bland annat VEGFR, PDGFR, KIT, FLT3 och RET. Genom att blockera dessa signalvägar kan läkemedlet hämma både tumörcellernas tillväxt och bildningen av nya blodkärl i tumören.
 
 Sambandet med den ursprungliga indikationen är att njurcellscancer och GIST också är tumörer där kärlnybildning och kinassignalering spelar en stor roll. Vid mjukdelssarkom bidrar angiogenes och PDGFR-signalering till tumörtillväxten, så samma mekanism kan i princip vara tillämpbar på liposarkom.
 
@@ -148,6 +148,19 @@ Varningar och kontraindikationer från produktresumén ingick inte i underlaget.
 - Liposarkomspecifika resultat från de blandade sarkomstudierna, till exempel via subgruppsanalys av NCT00474994 och NCT00400569 samt resultaten från PMID 21154746.
 - En jämförande eller randomiserad studie i liposarkom, där man även beaktar etablerade alternativ som trabektedin.
 - Fullständiga varningar och kontraindikationer från produktresumén, särskilt med avseende på hjärta (QT-tid), lever och blodbild.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Sutent (sunitinib malate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

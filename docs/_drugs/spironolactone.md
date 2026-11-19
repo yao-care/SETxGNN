@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i det
 
 Sambandet mellan den ursprungliga och den nya indikationen är därför indirekt. Hormonell påverkan på hårfollikeln är biologiskt rimlig, och modellen kan ha fångat ett nätverksmässigt släktskap med andra håravfallstillstånd.
 
-Mekanismen är dock osäker för just denna sjukdom. Hypotrichosis simplex är en ärftlig sjukdom som beror på genetiska fel (till exempel i CDSN, APCDD1 eller RPL21) och drivs inte i första hand av androgener. Det finns därför ingen verifierad grund för att en androgenmodulerande behandling skulle ge nytta. Eftersom uppgifter om ursprunglig verkningsmekanism saknas går det heller inte att kontrollera resonemanget mot källdata.
+Mekanismen är dock osäker för just denna sjukdom. Hypotrichosis simplex är en ärftlig sjukdom som beror på genetiska fel (till exempel i CDSN, APCDD1 eller RPL21) och drivs inte i första hand av androgener. Det finns därför ingen verifierad grund för att en androgenmodulerande behandling skulle ge nytta. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Spironolactone (inofficiell översättning): ”Spironolakton och dess aktiva metaboliter är specifika farmakologiska antagonister till aldosteron och verkar främst genom kompetitiv bindning till receptorer vid det aldosteronberoende natrium-kaliumutbytesstället i den distala tubulus contortus i njuren. Spironolakton gör att ökade mängder natrium och vatten utsöndras, medan kalium kvarhålls.” Engelsk originaltext: "Spironolactone and its active metabolites are specific pharmacologic antagonists of aldosterone, acting primarily through competitive binding of receptors at the aldosterone-dependent sodium-potassium exchange site in the distal convoluted renal tubule. Spironolactone causes increased amounts of sodium and water to be excreted, while potassium is retained." ([DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc), version från 2025-11-28; hämtad 2026-11-19).
 
 Det är en sällsynt genetisk utvecklingsrubbning i hårfollikeln, och kopplingen är spekulativ.
 
@@ -145,13 +145,14 @@ Varningar och kontraindikationer från produktresumén kunde inte hämtas. Se pr
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 12 godkännanden för enkomponentsprodukter är indragna, och inget giltigt godkännande finns” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Alla svenska godkännanden är dessutom indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 5 godkännanden (9578, 53264, 46492, 9766, 10238) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc) |
 
 <!-- review:end log -->
 

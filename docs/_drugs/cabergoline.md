@@ -62,7 +62,7 @@ Kabergolin är en dopaminagonist som är marknadsförd i Sverige som tablett. Tx
 
 För närvarande finns ingen detaljerad data om verkningsmekanismen. Kabergolin tillhör klassen dopaminagonister, men utifrån de data som sammanställts för denna rapport går det inte att utläsa något mekanistiskt samband mellan läkemedlet och det förutsagda syndromet.
 
-Förutsägelsen bygger enbart på modellens poäng. Syndromet är extremt sällsynt, och den höga poängen bör därför tolkas med stor försiktighet. Det saknas både kliniska och prekliniska data som kan visa att verkningsmekanismen är tillämpbar.
+Förutsägelsen bygger enbart på modellens poäng. Syndromet är extremt sällsynt, och den höga poängen bör därför tolkas med stor försiktighet. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Cabergoline (inofficiell översättning): ”Kabergolin är ett ergotderivat och en dopaminreceptoragonist med hög affinitet för D2-receptorer. Resultat från in vitro-studier visar att kabergolin utövar en direkt hämmande effekt på utsöndringen av prolaktin från laktotrofa celler i hypofysen hos råtta.” Engelsk originaltext: "Cabergoline is an ergot derivative and dopamine receptor agonist with a high affinity for D2 receptors. Results of in vitro studies demonstrate that cabergoline exerts a direct inhibitory effect on the secretion of prolactin by rat pituitary lactotrophs." ([DailyMed: cabergoline prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e497366b-a124-4d7f-bd45-a883c392d4bb), version från 2026-06-30; hämtad 2026-11-19).
 
 ---
 
@@ -102,6 +102,19 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Prekliniska data eller fallbeskrivningar som visar en biologisk effekt vid detta syndrom.
 - Komplettering av säkerhetsinformationen från produktresumén (varningar och kontraindikationer).
 - En bedömning av hur patientgruppen, som är mycket liten, skulle kunna studeras.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: cabergoline prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e497366b-a124-4d7f-bd45-a883c392d4bb) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

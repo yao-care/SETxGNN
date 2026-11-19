@@ -60,7 +60,7 @@ Alfuzosin är en alfa-1-adrenoreceptorantagonist som finns som flera depottablet
 
 ### Varför är denna förutsägelse rimlig?
 
-Det är svårt att motivera förutsägelsen mekanistiskt. Uppgifter om alfuzosins verkningsmekanism finns inte i det sammanställda underlaget. Allmänt är alfuzosin känt som en alfa-1-adrenoreceptorantagonist, som slappnar av glatt muskulatur, och det används vid symtom från nedre urinvägar.
+Det är svårt att motivera förutsägelsen mekanistiskt. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Alfuzosin (inofficiell översättning): ”Alfuzosin är en selektiv antagonist av postsynaptiska alfa 1 -adrenoreceptorer, som är belägna i prostata, blåsbasen, blåshalsen, prostatakapseln och prostatiska uretra.” Engelsk originaltext: "Alfuzosin is a selective antagonist of post-synaptic alpha 1 -adrenoreceptors, which are located in the prostate, bladder base, bladder neck, prostatic capsule, and prostatic urethra." ([DailyMed: Uroxatral (alfuzosin hcl) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9fc7f119-f36b-44cf-945d-940160f3afe3), version från 2024-12-05; hämtad 2026-11-19). Allmänt är alfuzosin känt som en alfa-1-adrenoreceptorantagonist, som slappnar av glatt muskulatur, och det används vid symtom från nedre urinvägar.
 
 Ambras typ av hypertrichosis universalis congenita är en sällsynt ärftlig sjukdom med kraftig hårväxt. Den beror på kromosomala omlagringar som påverkar området kring genen TRPS1. Ingen känd mekanism kopplar alfa-1-blockad till denna genetiska hårväxtstörning.
 
@@ -116,6 +116,19 @@ Se produktresumén för övrig säkerhetsinformation, såsom varningar och kontr
 - Detaljerade uppgifter om verkningsmekanism och en genomgång av eventuell biologisk koppling till den aktuella sjukdomen
 - Prekliniska studier som undersöker alfa-1-blockad vid hårväxtstörningar
 - Produktresumé med varningar och kontraindikationer för säkerhetsbedömning
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Uroxatral (alfuzosin hcl) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9fc7f119-f36b-44cf-945d-940160f3afe3) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

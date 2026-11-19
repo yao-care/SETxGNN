@@ -62,7 +62,7 @@ Montelukast är en leukotrienreceptorantagonist (CysLT1-blockerare). TxGNN-model
 
 ## Varför är denna förutsägelse rimlig?
 
-Detaljerad data om verkningsmekanismen saknas för närvarande i det underlag som sammanställts. Montelukast är dock känt som en antagonist av cysteinylleukotrienreceptorn 1 (CysLT1). Genom att blockera den kan läkemedlet dämpa luftvägsinflammation, slemproduktion och bronkokonstriktion.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Montelukast (inofficiell översättning): ”Cysteinylleukotrienerna (LTC 4, LTD 4, LTE 4 ) är produkter av arakidonsyrametabolismen och frisätts från olika celler, inklusive mastceller och eosinofiler. Dessa eikosanoider binder till cysteinylleukotrienreceptorer (CysLT-receptorer). […] Montelukast är en oralt aktiv substans som binder med hög affinitet och selektivitet till CysLT 1 -receptorn (framför andra farmakologiskt viktiga receptorer i luftvägarna, såsom prostanoid-, kolinerga eller β-adrenerga receptorer).” Engelsk originaltext: "The cysteinyl leukotrienes (LTC 4, LTD 4, LTE 4 ) are products of arachidonic acid metabolism and are released from various cells, including mast cells and eosinophils. These eicosanoids bind to cysteinyl leukotriene (CysLT) receptors. […] Montelukast is an orally active compound that binds with high affinity and selectivity to the CysLT 1 receptor (in preference to other pharmacologically important airway receptors, such as the prostanoid, cholinergic, or β-adrenergic receptor)." ([DailyMed: Singulair (montelukast sodium) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=482dcc92-b47f-4ea6-854a-f5ac2aea7842), version från 2025-04-30; hämtad 2026-11-19). Montelukast är dock känt som en antagonist av cysteinylleukotrienreceptorn 1 (CysLT1). Genom att blockera den kan läkemedlet dämpa luftvägsinflammation, slemproduktion och bronkokonstriktion.
 
 Cysteinylleukotriener frisätts vid virusinfektioner i luftvägarna, till exempel RSV-bronkiolit, och bidrar till inflammationen. Det ger en biologisk motivering för att prova en leukotrienblockerare vid inflammatoriska luftvägstillstånd som bronkit. Samma inflammatoriska spår diskuteras vid bronkiolitis obliterans efter transplantation och vid eosinofil bronkit med hosta.
 
@@ -148,6 +148,18 @@ Se produktresumén för varningar och kontraindikationer, eftersom sådan inform
 - En välpowrad, randomiserad och placebokontrollerad studie i en tydligt definierad bronkitpopulation. Studien om icke-astmatisk eosinofil bronkit (NCT01121016) bör följas upp eller replikeras.
 - Granskning av produktresumén för varningar och kontraindikationer i aktuell patientgrupp, särskilt barn.
 - Granskning av de interaktioner som är relevanta för den aktuella patientgruppen.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Singulair (montelukast sodium) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=482dcc92-b47f-4ea6-854a-f5ac2aea7842) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

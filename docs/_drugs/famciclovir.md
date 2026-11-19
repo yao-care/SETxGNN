@@ -64,7 +64,7 @@ Famciklovir är en prodrug av penciklovir. Penciklovir fosforyleras av virusets 
 
 Postherpetisk neuralgi är den vanligaste komplikationen efter bältros. Den uppstår när nerverna skadas under den akuta infektionen. Tidig antiviral behandling kan begränsa virusets förökning och därmed nervskadan. Det kan i teorin minska risken för, eller varaktigheten av, långvarig nervsmärta.
 
-Kopplingen är rimlig men indirekt. Det finns inga data som visar att just famciklovir förebygger eller lindrar postherpetisk neuralgi. Detaljerad data om verkningsmekanismen saknas också i det underlag som sammanställts för rapporten, så resonemanget bygger på allmänt känd farmakologi.
+Kopplingen är rimlig men indirekt. Det finns inga data som visar att just famciklovir förebygger eller lindrar postherpetisk neuralgi. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Famciclovir (inofficiell översättning): ”Famciklovir är en oralt administrerad prodrug av det antivirala medlet penciklovir, som är verksamt mot alfaherpesvirus.” Engelsk originaltext: "Famciclovir is an orally administered prodrug of the anti-alpha herpes viral agent penciclovir." ([DailyMed: famciclovir prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2c44b8d2-3b70-4e8b-af03-2e917178f761), version från 2026-11-13; hämtad 2026-11-19).
 
 ---
 
@@ -134,12 +134,13 @@ För varningar och försiktighetsåtgärder, se produktresumén.
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Inget av godkännandena är för närvarande giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom samtliga godkännanden i Sverige är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: famciclovir prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2c44b8d2-3b70-4e8b-af03-2e917178f761) |
 
 <!-- review:end log -->
 

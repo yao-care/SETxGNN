@@ -64,7 +64,7 @@ Lenalidomid binds till proteinet cereblon (CRBN) och styr om ubikvitinligaset CR
 
 Sambandet mellan den ursprungliga och den nya indikationen är nära: MDS är ett förstadium som i en tredjedel av fallen går över i AML, och sjukdomarna delar biologi. Många av prövningarna undersöker just MDS och AML tillsammans, särskilt vid kromosom 5-avvikelser.
 
-Observera att detaljerad verkningsmekanismdata saknas i den datakälla som sammanställts för rapporten. Beskrivningen ovan bygger därför på allmän farmakologisk kunskap och inte på läkemedlets registrerade uppgifter.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Lenalidomide (inofficiell översättning): ”Lenalidomid är en analog till talidomid med immunmodulerande, antiangiogena och antineoplastiska egenskaper. Lenalidomids cellulära effekter medieras via dess målprotein cereblon, en komponent i ett cullin-RING E3-ubikitinligas-enzymkomplex.” Engelsk originaltext: "Lenalidomide is an analogue of thalidomide with immunomodulatory, antiangiogenic, and antineoplastic properties. Cellular activities of lenalidomide are mediated through its target cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme complex." ([DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be), version från 2023-03-24; hämtad 2026-11-19). Beskrivningen ovan bygger därför på allmän farmakologisk kunskap och inte på läkemedlets registrerade uppgifter.
 
 ---
 
@@ -178,12 +178,13 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna och i Läkemedlet är därmed för närvarande inte marknadsfört i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom samtliga svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be) |
 
 <!-- review:end log -->
 

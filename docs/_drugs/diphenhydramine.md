@@ -64,7 +64,7 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig. Base
 
 Sambandet i kunskapsgrafen härrör sannolikt från att difenhydramin redan används vid flera inflammatoriska tillstånd på ögats yta. Modellen verkar alltså dra slutsatsen att rosaceakonjunktivit liknar dessa tillstånd.
 
-Mekanismen är dock troligen **dåligt tillämpbar** här. Okulär rosacea drivs främst av dysfunktion i meibomska körtlar, instabil tårfilm samt neurovaskulär och medfödd immunologisk dysreglering (bland annat MMP, IL-1 och Demodex). Histamin spelar en mindre roll, så antihistaminer träffar sannolikt inte kärnan i sjukdomen. Difenhydramins antikolinerga effekt kan dessutom förvärra torra ögon, vilket redan är vanligt vid okulär rosacea. Den ursprungliga verkningsmekanismen saknas i underlaget och kunde därför inte kontrolleras mot DrugBank.
+Mekanismen är dock troligen **dåligt tillämpbar** här. Okulär rosacea drivs främst av dysfunktion i meibomska körtlar, instabil tårfilm samt neurovaskulär och medfödd immunologisk dysreglering (bland annat MMP, IL-1 och Demodex). Histamin spelar en mindre roll, så antihistaminer träffar sannolikt inte kärnan i sjukdomen. Difenhydramins antikolinerga effekt kan dessutom förvärra torra ögon, vilket redan är vanligt vid okulär rosacea. Enligt avsnittet ”Clinical Pharmacology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Diphenhydramine (inofficiell översättning): ”Difenhydraminhydroklorid är ett antihistamin med antikolinerga (uttorkande) och sederande biverkningar. Antihistaminer tycks konkurrera med histamin om cellreceptorställen på effektorceller. Difenhydraminhydroklorid i injicerbar form har ett snabbt tillslag.” Engelsk originaltext: "Diphenhydramine hydrochloride is an antihistamine with anticholinergic (drying) and sedative side effects. Antihistamines appear to compete with histamine for cell receptor sites on effector cells. Diphenhydramine hydrochloride in the injectable form has a rapid onset of action." ([DailyMed: diphenhydramine hydrochloride prescribing information, Henry Schein, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af972e71-62ab-40c6-925a-cbcb4d6720a4), version från 2026-10-28; hämtad 2026-11-19).
 
 ---
 
@@ -133,12 +133,13 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Det enda godkännandet är indraget, och ingen giltig produkt finns på den svenska marknaden” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 1 godkännande (3866) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: diphenhydramine hydrochloride prescribing information, Henry Schein, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af972e71-62ab-40c6-925a-cbcb4d6720a4) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ Abakavir är en nukleosidanalog som hämmar omvänt transkriptas och används mo
 
 ### Varför är denna förutsägelse rimlig?
 
-Abakavir är en karbocyklisk guanosinanalog som hämmar omvänt transkriptas (NRTI). Någon detaljerad verkningsmekanismdata finns inte tillgänglig i de sammanställda uppgifterna, men klassen är väl beskriven.
+Abakavir är en karbocyklisk guanosinanalog som hämmar omvänt transkriptas (NRTI). Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för abacavir and lamivudine (kombinationspreparat med Abacavir) (inofficiell översättning): ”Abakavir och lamivudin är ett antiretroviralt medel med aktivitet mot HIV-1.” Engelsk originaltext: "Abacavir and lamivudine is an antiretroviral agent with activity against HIV-1." ([DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c), version från 2026-09-18; hämtad 2026-11-19).
 
 Simian immunbristvirus (SIV) är ett lentivirus nära besläktat med hiv och har ett homologt omvänt transkriptas. Den mekanistiska rimligheten är därför hög, vilket stämmer med den höga förutsägelsepoängen.
 
@@ -117,6 +117,19 @@ Se produktresumén för övrig säkerhetsinformation, eftersom varningar och kon
 - Studier som direkt undersöker abakavirs effekt mot SIV, med resultat som kan särskiljas från kombinationsbehandling
 - Tydlig definition av ett relevant användningsområde för människor, eller bedömning av om förutsägelsen enbart är relevant för djurmodeller
 - Komplettering av verkningsmekanism samt varningar och kontraindikationer från produktresumén
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

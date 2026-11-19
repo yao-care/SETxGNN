@@ -60,7 +60,7 @@ Kapecitabin är ett oralt cytostatikum och en prodrug till 5-fluorouracil. TxGNN
 
 ### Varför är denna förutsägelse rimlig?
 
-Kapecitabin omvandlas i kroppen till 5-fluorouracil, som hämmar tymidylatsyntas och fungerar som nukleotidanalog. Därmed störs DNA- och RNA-syntesen i snabbt delande celler. Någon detaljerad verkningsmekanismdata finns inte i de sammanställda uppgifterna, så resonemanget bygger på allmän kunskap om läkemedlet.
+Kapecitabin omvandlas i kroppen till 5-fluorouracil, som hämmar tymidylatsyntas och fungerar som nukleotidanalog. Därmed störs DNA- och RNA-syntesen i snabbt delande celler. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Capecitabine (inofficiell översättning): ”Capecitabin metaboliseras till fluorouracil in vivo. Både normala celler och tumörceller metaboliserar fluorouracil till 5-fluoro-2'-deoxiuridinmonofosfat (FdUMP) och 5-fluorouridintrifosfat (FUTP). Dessa metaboliter orsakar cellskada genom två olika mekanismer.” Engelsk originaltext: "Capecitabine is metabolized to fluorouracil in vivo. Both normal and tumor cells metabolize fluorouracil to 5-fluoro-2'-deoxyuridine monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). These metabolites cause cell injury by two different mechanisms." ([DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5), version från 2026-02-05; hämtad 2026-11-19).
 
 Den höga poängen verkar till stor del bero på att den förutsagda sjukdomen ligger nära andra magsäckscancerdiagnoser i sjukdomsklassificeringen. Mekanistiskt kan en cellgift som hämmar celldelning vara relevant för magsäcksadenokarcinom i allmänhet.
 
@@ -131,6 +131,19 @@ Varnings- och kontraindikationstext från produktresumén saknas i underlaget. S
 - Verkningsmekanismdata och analys av om APC-promotor 1B-mutationer påverkar känsligheten för fluoropyrimidiner
 - Hämtning och genomgång av produktresuméns varningar och kontraindikationer (blockerande dataluckor)
 - Bedömning av om GAPPS-relaterad cancer behöver behandlas annorlunda än sporadisk magsäckscancer
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

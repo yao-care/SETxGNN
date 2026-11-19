@@ -60,7 +60,7 @@ Deferipron är en oral järnkelator som ursprungligen används vid järnöversko
 
 ### Varför är denna förutsägelse rimlig?
 
-Detaljerad data om verkningsmekanismen finns för närvarande inte tillgänglig i det sammanställda underlaget. Baserat på känd information är deferipron en oral järnkelator som binder fritt (labilt) järn. Dess effekt vid transfusionsrelaterat järnöverskott vid talassemi är väl etablerad.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Deferiprone (inofficiell översättning): ”Deferipron är en kelerande substans med affinitet för ferrijoner (järn III). Deferipron binder till ferrijoner och bildar neutrala 3:1-komplex (deferipron:järn) som är stabila vid fysiologiskt pH.” Engelsk originaltext: "Deferiprone is a chelating agent with an affinity for ferric ions (iron III). Deferiprone binds with ferric ions to form neutral 3:1 (deferiprone:iron) complexes that are stable at physiological pH." ([DailyMed: Ferriprox (deferiprone) prescribing information, Chiesi USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=946718ff-df43-1baa-74d1-e5bcfbe8ad86), version från 2026-01-28; hämtad 2026-11-19). Baserat på känd information är deferipron en oral järnkelator som binder fritt (labilt) järn. Dess effekt vid transfusionsrelaterat järnöverskott vid talassemi är väl etablerad.
 
 Vid porfyri, särskilt porphyria cutanea tarda, förvärrar ökat leverjärn och järnberoende oxidativ stress ansamlingen av uroporfyrin. Standardbehandlingen aflåtning (flebotomi) verkar sannolikt genom att minska leverjärnet. En järnkelator kan därför i teorin ge liknande effekt utan blodtappning.
 
@@ -144,7 +144,7 @@ Två prekliniska studier stöder resonemanget. En studie från 2020 visade att j
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
@@ -152,6 +152,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”och läkemedlet saknar för närvarande giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 5 godkännanden (55997, 50975, 64937, 55996, 50974) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Ferriprox (deferiprone) prescribing information, Chiesi USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=946718ff-df43-1baa-74d1-e5bcfbe8ad86) |
 
 <!-- review:end log -->
 

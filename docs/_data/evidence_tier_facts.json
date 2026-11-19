@@ -9,7 +9,7 @@
   "with_current": 27,
   "none_current": 0,
   "without_data": 6,
-  "with_reviews": 15,
+  "with_reviews": 22,
   "rows": [
    {
     "t": "Bendamustine",
@@ -18,8 +18,8 @@
     "i": "Mantelcellslymfom",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -95,8 +95,8 @@
     "i": "Attention deficit-hyperactivity disorder (ADHD)",
     "lt": 0,
     "lv": 19,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -106,7 +106,7 @@
     "i": "Migrän",
     "lt": 0,
     "lv": 20,
-    "r": 2,
+    "r": 3,
     "rs": "Borttaget: ”Dessutom är alla svenska godkännanden indragna, så tillgänglighet och regulatorisk status behöver…",
     "x": 0
    },
@@ -128,8 +128,8 @@
     "i": "Sömnlöshet",
     "lt": 12,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -139,8 +139,8 @@
     "i": "Ewing-sarkom",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -161,8 +161,8 @@
     "i": "alopecia areata",
     "lt": 0,
     "lv": 16,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -183,7 +183,7 @@
     "i": "myeloid leukemia",
     "lt": 0,
     "lv": 16,
-    "r": 2,
+    "r": 3,
     "rs": "Borttaget: ”eftersom samtliga svenska godkännanden är indragna”",
     "x": 0
    },
@@ -238,7 +238,7 @@
     "i": "malignant pleural mesothelioma",
     "lt": 6,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Borttaget: ”eftersom samtliga godkännanden är indragna”",
     "x": 0
    },
@@ -249,8 +249,8 @@
     "i": "Liposarkom",
     "lt": 10,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -260,7 +260,7 @@
     "i": "seborrheic dermatitis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Borttaget: ”Den enda svenska licensen är dock annullerad och säkerhetsunderlaget från produktresumén saknas”",
     "x": 0
    },
@@ -282,7 +282,7 @@
     "i": "Migrän",
     "lt": 11,
     "lv": 11,
-    "r": 1,
+    "r": 2,
     "rs": "Borttaget: ”Alla 11 godkännanden är indragna och inga produkter är för närvarande aktiva”",
     "x": 0
    },
@@ -304,8 +304,8 @@
     "i": "Liposarkom",
     "lt": 19,
     "lv": 16,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    }
   ],
@@ -328,7 +328,7 @@
   "with_current": 54,
   "none_current": 0,
   "without_data": 14,
-  "with_reviews": 37,
+  "with_reviews": 40,
   "rows": [
    {
     "t": "Acitretin",
@@ -392,8 +392,8 @@
     "i": "Restless legs-syndrom",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -469,7 +469,7 @@
     "i": "Lymfosarkom",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Tabell: 1 godkännande (9312) är godkänd, inte indragna",
     "x": 0
    },
@@ -502,8 +502,8 @@
     "i": "Bronkit",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -623,7 +623,7 @@
     "i": "Hepatisk porfyri",
     "lt": 5,
     "lv": 5,
-    "r": 4,
+    "r": 5,
     "rs": "Tabell: 5 godkännanden (55997, 50975, 64937, 55996, 50974) är godkända, inte indragna",
     "x": 0
    },
@@ -689,8 +689,8 @@
     "i": "Simian immunbristvirusinfektion",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -711,7 +711,7 @@
     "i": "Tourette syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 2,
+    "r": 3,
     "rs": "Borttaget: ”eftersom alla svenska godkännanden är indragna”",
     "x": 0
    },
@@ -832,7 +832,7 @@
     "i": "hypouricemia, renal",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Tabell: 1 godkännande (4522) är godkänd, inte indragna",
     "x": 0
    },
@@ -865,7 +865,7 @@
     "i": "Simian immunbristvirusinfektion",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Tabell: 1 godkännande (67482) är godkänd, inte indragna",
     "x": 0
    },
@@ -909,7 +909,7 @@
     "i": "Rabdomyosarkom",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Tabell: 1 godkännande (7042) är godkänd, inte indragna",
     "x": 0
    },
@@ -943,7 +943,7 @@
   "with_current": 366,
   "none_current": 2,
   "without_data": 73,
-  "with_reviews": 217,
+  "with_reviews": 236,
   "rows": [
    {
     "t": "Aripiprazol",
@@ -974,8 +974,8 @@
     "i": "Akut intermittent porfyri",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -1007,8 +1007,8 @@
     "i": "Punktat epitelial keratokonjunktivit",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -1436,7 +1436,7 @@
     "i": "intracranial arteriosclerosis",
     "lt": 0,
     "lv": 20,
-    "r": 1,
+    "r": 2,
     "rs": "Borttaget: ”Samtliga 20 godkännanden är avregistrerade och inga har någon registrerad indikationstext”",
     "x": 0
    },
@@ -1447,7 +1447,7 @@
     "i": "renal-hepatic-pancreatic dysplasia",
     "lt": 0,
     "lv": 20,
-    "r": 1,
+    "r": 2,
     "rs": "Borttaget: ”och samtliga svenska godkännanden är avregistrerade”",
     "x": 0
    },
@@ -1766,8 +1766,8 @@
     "i": "glaucoma",
     "lt": 18,
     "lv": 18,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -1821,7 +1821,7 @@
     "i": "osteoarthritis",
     "lt": 17,
     "lv": 17,
-    "r": 2,
+    "r": 3,
     "rs": "Borttaget: ”Dessutom är alla svenska godkännanden indragna, och m”",
     "x": 0
    },
@@ -1997,7 +1997,7 @@
     "i": "Malign hypertensiv njursjukdom",
     "lt": 15,
     "lv": 15,
-    "r": 2,
+    "r": 3,
     "rs": "Borttaget: ”Bland de övriga avregistrerade godkännandena finns både enkomponentsprodukter (Accord, STADA) och…",
     "x": 0
    },
@@ -2085,8 +2085,8 @@
     "i": "Näshåleesjukdom",
     "lt": 13,
     "lv": 13,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -2107,7 +2107,7 @@
     "i": "vulvovaginal candidiasis",
     "lt": 13,
     "lv": 13,
-    "r": 1,
+    "r": 2,
     "rs": "Borttaget: ”Samtliga 13 godkännanden är avregistrerade”",
     "x": 0
    },
@@ -2162,8 +2162,8 @@
     "i": "Progeria–kort växt–pigmenterade nevi-syndrom",
     "lt": 12,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -2206,7 +2206,7 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 12,
     "lv": 12,
-    "r": 3,
+    "r": 4,
     "rs": "Tabell: 5 godkännanden (9578, 53264, 46492, 9766, 10238) är godkända, inte indragna",
     "x": 0
    },
@@ -2448,8 +2448,8 @@
     "i": "Atopiskt eksem",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -2536,8 +2536,8 @@
     "i": "Ambras typ av hypertrichosis universalis congenita",
     "lt": 9,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -2547,8 +2547,8 @@
     "i": "Aortamissbildning",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -2624,7 +2624,7 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 8,
     "lv": 8,
-    "r": 2,
+    "r": 3,
     "rs": "Borttaget: ”Dessutom är alla svenska godkännanden indragna”",
     "x": 0
    },
@@ -2723,8 +2723,8 @@
     "i": "Gastriskt adenokarcinom och proximal polypos i magsäcken",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -2844,7 +2844,7 @@
     "i": "pulmonary hypertension",
     "lt": 7,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Borttaget: ”Samtliga 7 godkännanden är avregistrerade och inget är giltigt”",
     "x": 0
    },
@@ -2866,7 +2866,7 @@
     "i": "trichotillomania",
     "lt": 8,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Borttaget: ”Totalt 8 godkännanden, samtliga avregistrerade”",
     "x": 0
    },
@@ -3009,8 +3009,8 @@
     "i": "Insomni",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -3207,7 +3207,7 @@
     "i": "homozygous familial hypercholesterolemia",
     "lt": 5,
     "lv": 5,
-    "r": 3,
+    "r": 4,
     "rs": "Tabell: 5 godkännanden (56963, 56817, 10955, 66795, 10954) är godkända, inte indragna",
     "x": 0
    },
@@ -3251,8 +3251,8 @@
     "i": "Simian immunbristvirusinfektion",
     "lt": 5,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -3284,8 +3284,8 @@
     "i": "Akut pulmonell hjärtsjukdom",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -3526,7 +3526,7 @@
     "i": "respiratory malformation",
     "lt": 4,
     "lv": 4,
-    "r": 2,
+    "r": 3,
     "rs": "Borttaget: ”eftersom alla godkännanden är indragna”",
     "x": 0
    },
@@ -3559,8 +3559,8 @@
     "i": "Infektiös mellanöreinflammation",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -3592,8 +3592,8 @@
     "i": "Hodgkins lymfom",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -3603,8 +3603,8 @@
     "i": "Refraktär cytopeni hos barn",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -3658,7 +3658,7 @@
     "i": "post-infectious neuralgia",
     "lt": 3,
     "lv": 3,
-    "r": 2,
+    "r": 3,
     "rs": "Borttaget: ”eftersom samtliga godkännanden i Sverige är avregistrerade”",
     "x": 0
    },
@@ -3779,7 +3779,7 @@
     "i": "pleural adenomatoid tumor",
     "lt": 4,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Borttaget: ”De svenska godkännandena är alla avregistrerade och säkerhetsdata från produktresumén saknas”",
     "x": 0
    },
@@ -3900,8 +3900,8 @@
     "i": "Felint immunbristsyndrom hos katt",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -4175,7 +4175,7 @@
     "i": "Hunter-Thompson-typ",
     "lt": 2,
     "lv": 2,
-    "r": 3,
+    "r": 4,
     "rs": "Tabell: 2 godkännanden (54429, 11867) är godkända, inte indragna",
     "x": 0
    },
@@ -4241,8 +4241,8 @@
     "i": "Rubbning av tyrosinmetabolismen",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -4373,8 +4373,8 @@
     "i": "Hypertyreos",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -4549,7 +4549,7 @@
     "i": "rosacea conjunctivitis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Tabell: 1 godkännande (3866) är godkänd, inte indragna",
     "x": 0
    },
@@ -4725,7 +4725,7 @@
     "i": "localized pagetoid reticulosis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Tabell: 1 godkännande (23246) är godkänd, inte indragna",
     "x": 0
    },
@@ -4857,7 +4857,7 @@
     "i": "manic bipolar affective disorder",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Tabell: 1 godkännande (11309) är godkänd, inte indragna",
     "x": 0
    },
@@ -4868,8 +4868,8 @@
     "i": "HIV-infektion",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {

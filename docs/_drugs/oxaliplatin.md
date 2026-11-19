@@ -60,7 +60,7 @@ Oxaliplatin är ett platinabaserat cytostatikum som ursprungligen användes vid 
 
 ## Varför är denna förutsägelse rimlig?
 
-Någon detaljerad verkningsmekanismdata är inte tillgänglig för närvarande. Baserat på känd information är oxaliplatin ett platinabaserat läkemedel som bildar tvärbindningar i DNA. Det hämmar därmed DNA-replikation och transkription. Dess effekt vid koloncancer är väl belagd, särskilt i kombination med 5-fluorouracil.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Oxaliplatin (inofficiell översättning): ”Oxaliplatin genomgår icke-enzymatisk omvandling i fysiologiska lösningar till aktiva derivat genom ersättning av den labila oxalatliganden. Flera kortlivade reaktiva former bildas, däribland monoakvo- och diakvo-DACH-platina, som binder kovalent till makromolekyler.” Engelsk originaltext: "Oxaliplatin undergoes nonenzymatic conversion in physiologic solutions to active derivatives via displacement of the labile oxalate ligand. Several transient reactive species are formed, including monoaquo and diaquo DACH platinum, which covalently bind with macromolecules." ([DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5), version från 2026-08-24; hämtad 2026-11-19). Baserat på känd information är oxaliplatin ett platinabaserat läkemedel som bildar tvärbindningar i DNA. Det hämmar därmed DNA-replikation och transkription. Dess effekt vid koloncancer är väl belagd, särskilt i kombination med 5-fluorouracil.
 
 Andra platinaläkemedel, som cisplatin och karboplatin, är etablerade vid mesoteliom. Därför är det rimligt att oxaliplatin med liknande cytotoxisk mekanism kan fungera även här. Fas II-studier har visat aktivitet i kombination med gemcitabin, raltitrexed och vinorelbin, även hos patienter som tidigare behandlats.
 
@@ -171,12 +171,13 @@ Uppgifter från produktresumén om varningar och kontraindikationer saknas i de 
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga sex godkännanden är indragna och i” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom samtliga godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5) |
 
 <!-- review:end log -->
 

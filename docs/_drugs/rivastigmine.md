@@ -60,7 +60,7 @@ Rivastigmin är en kolinesterashämmare som ursprungligen används vid Alzheimer
 
 ## Varför är denna förutsägelse rimlig?
 
-Rivastigmin hämmar enzymerna acetylkolinesteras och butyrylkolinesteras. Det gör att signalsubstansen acetylkolin bryts ner långsammare och att den kolinerga aktiviteten ökar. Observera att uppgifter om verkningsmekanism saknas i de data som sammanställts för rapporten. Beskrivningen här bygger därför på läkemedlets allmänt kända farmakologi.
+Rivastigmin hämmar enzymerna acetylkolinesteras och butyrylkolinesteras. Det gör att signalsubstansen acetylkolin bryts ner långsammare och att den kolinerga aktiviteten ökar. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Rivastigmine (inofficiell översättning): ”Även om den exakta verkningsmekanismen för rivastigmin är okänd, anses den utöva sin terapeutiska effekt genom att förstärka den kolinerga funktionen. Detta åstadkoms genom att koncentrationen av acetylkolin ökas genom reversibel hämning av dess hydrolys av kolinesteras.” Engelsk originaltext: "Although the precise mechanism of action of rivastigmine is unknown, it is thought to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase." ([DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d), version från 2025-11-11; hämtad 2026-11-19). Beskrivningen här bygger därför på läkemedlets allmänt kända farmakologi.
 
 Vid glaukom är det förhöjda ögontrycket den viktigaste behandlingsbara riskfaktorn. Kolinerga läkemedel som pilokarpin och fysostigmin sänker trycket genom att öka kontraktionen i ciliarmuskeln och förbättra avflödet av kammarvatten via trabekelverket. Rivastigmin verkar på samma övergripande sätt genom att öka kolinerg aktivitet i ögats vävnad.
 
@@ -121,6 +121,19 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 - Utveckling och säkerhetsprövning av en lokal ögonberedning (tolerans, systemisk exponering, påverkan på hjärtfrekvens).
 - Jämförelse med befintlig glaukombehandling för att bedöma det kliniska mervärdet.
 - Därefter en tidig klinisk prövning (fas 1/2) på ögontryck hos människa.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

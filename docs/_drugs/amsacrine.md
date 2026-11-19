@@ -61,7 +61,7 @@ Amsacrin är ett cytostatikum som verkar genom att hämma topoisomeras II och in
 
 ### Varför är denna förutsägelse rimlig?
 
-Förutsägelsen är svag mekanistiskt. Amsacrin är en DNA-interkalerande topoisomeras II-hämmare som används som cytotoxiskt läkemedel mot cancer. Det finns ingen känd verkan på syntesen eller utsöndringen av sköldkörtelhormon. Detaljerade uppgifter om verkningsmekanismen saknas i de data som sammanställts för denna rapport, och beskrivningen ovan bygger på allmänt känd farmakologi.
+Förutsägelsen är svag mekanistiskt. Amsacrin är en DNA-interkalerande topoisomeras II-hämmare som används som cytotoxiskt läkemedel mot cancer. Det finns ingen känd verkan på syntesen eller utsöndringen av sköldkörtelhormon. Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Amsacrine (inofficiell översättning): ”DNA-topoisomeras II-hämmare” Engelsk originaltext: "DNA topoisomerase II inhibitor" ([ChEMBL CHEMBL43 (amsacrine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43), CC BY-SA 3.0; hämtad 2026-11-19).
 
 Den höga poängen (0,9937) är en rent modellbaserad förutsägelse. Cytotoxiska biverkningar som benmärgssuppression och hjärttoxicitet gör dessutom användning vid ett icke-malignt endokrint tillstånd ogynnsam.
 
@@ -116,6 +116,19 @@ Se produktresumén för säkerhetsinformation.
 - Prekliniska data som visar en biologisk effekt på sköldkörtelns hormonsyntes eller sköldkörtelcellers funktion
 - Kompletterande säkerhetsdata från produktresumén (varningar och kontraindikationer)
 - En genomgång av nytta och risk jämfört med etablerade behandlingar mot hypertyreos
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [ChEMBL CHEMBL43 (amsacrine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

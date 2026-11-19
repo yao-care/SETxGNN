@@ -60,7 +60,7 @@ Buprenorfin är en opioid som är partiell agonist på mu-receptorn och antagoni
 
 ### Varför är denna förutsägelse rimlig?
 
-Buprenorfin verkar som partiell agonist på mu-opioidreceptorn och som antagonist på kappa-receptorn. Detaljerad data om verkningsmekanismen saknas i det sammanställda underlaget, så beskrivningen bygger på allmänt känd farmakologi.
+Buprenorfin verkar som partiell agonist på mu-opioidreceptorn och som antagonist på kappa-receptorn. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Buprenorphine (inofficiell översättning): ”SUBLOCADE injektionsvätska innehåller buprenorfin. Buprenorfin är en partiell agonist vid my-opioidreceptorn och en antagonist vid kappa-opioidreceptorn.” Engelsk originaltext: "SUBLOCADE Injection contains buprenorphine. Buprenorphine is a partial agonist at the mu- opioid receptor and an antagonist at the kappa-opioid receptor." ([DailyMed: Sublocade (buprenorphine) prescribing information, Indivior Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6189fb21-9432-45f8-8481-0bfaf3ccde95), version från 2026-07-27; hämtad 2026-11-19).
 
 Något trovärdigt mekanistiskt samband med sjukdomen finns inte. Buprenorfin påverkar inte hembiosyntesen (ALAS1/PBGD), som är den bärande störningen vid akut intermittent porfyri. Den enda litteraturen är en fallrapport om anestesi vid operation hos en patient med misstänkt sjukdom. Opioider kan vara relevanta för smärtlindring under akuta attacker, men det är symtomatisk behandling och ingen sjukdomsmodifierande användning. Den höga modellpoängen stöds alltså inte av kliniska data.
 
@@ -114,6 +114,19 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 - Prekliniska data eller kliniska studier som direkt undersöker sjukdomen
 - Tillgång till detaljerad verkningsmekanismdata samt varningar och kontraindikationer från produktresumén
 - Bedömning av säkerhet och lämplig beredningsform för den aktuella patientgruppen
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Sublocade (buprenorphine) prescribing information, Indivior Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6189fb21-9432-45f8-8481-0bfaf3ccde95) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

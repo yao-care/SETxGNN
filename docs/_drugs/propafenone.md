@@ -138,7 +138,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 **För att gå vidare krävs:**
 - Kontrollerade eller åtminstone större observationsstudier som direkt jämför propafenon med flekainid vid CPVT.
 - Säkerhetsgranskning av proarytmirisk, särskilt vid strukturell hjärtsjukdom och hos barn.
-- Produktresumé för propafenon, eftersom det saknas data om varningar och kontraindikationer samt verkningsmekanism i underlaget.
+- Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Propafenone (inofficiell översättning): ”Propafenon är ett antiarytmikum av klass 1C med lokalanestetiska effekter och en direkt stabiliserande verkan på myokardiets membran. Den elektrofysiologiska effekten av propafenon yttrar sig som en minskning av uppslagshastigheten (fas 0) i den monofasiska aktionspotentialen.” Engelsk originaltext: "Propafenone is a Class 1C antiarrhythmic drug with local anesthetic effects, and a direct stabilizing action on myocardial membranes. The electrophysiological effect of propafenone manifests itself in a reduction of upstroke velocity (Phase 0) of the monophasic action potential." ([DailyMed: propafenone hydrochloride prescribing information, Northstar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2ecd6452-ccc3-493f-9a4a-69f0fbf67a42), version från 2026-06-04; hämtad 2026-11-19).
 - Bedömning av tillgänglighet, eftersom Rytmonorm inte längre har något giltigt godkännande i Sverige.
 
 **Övriga förutsägelser:** Incessant ventrikeltakykardi hos spädbarn (L3) har endast äldre och små okontrollerade rapporter och kräver säkerhetsgranskning. Arytmogen högerkammarkardiomyopati bedöms som ogynnsam på grund av säkerhetssignaler. Manisk bipolär sjukdom, periodisk paralys, Prinzmetals angina, nefrogent syndrom med inadekvat antidures och trikotillomani saknar rimlig mekanism eller evidens och bör avvaktas.
@@ -147,12 +147,13 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Det finns inget giltigt godkännande i Sverige för närvarande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 1 godkännande (11309) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: propafenone hydrochloride prescribing information, Northstar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2ecd6452-ccc3-493f-9a4a-69f0fbf67a42) |
 
 <!-- review:end log -->
 

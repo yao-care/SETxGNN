@@ -60,7 +60,7 @@ Propofol är ett intravenöst narkosmedel som används för att söva och sedera
 
 ### Varför är denna förutsägelse rimlig?
 
-Någon detaljerad verkningsmekanismdata finns inte tillgänglig i det sammanställda underlaget. Baserat på känd information är propofol en positiv allosterisk modulator av GABA-A-receptorn. Genom att förstärka den hämmande GABA-signaleringen kan läkemedlet dämpa smärtsignaler i det trigeminovaskulära systemet och den ökade retbarheten i hjärnbarken.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Propofol (inofficiell översättning): ”Verkningsmekanismen är, liksom för alla allmänanestetika, ofullständigt känd. Propofol anses dock utöva sina sedativa/anestetiska effekter genom positiv modulering av den hämmande funktionen hos signalsubstansen GABA via de ligandstyrda GABA A-receptorerna.” Engelsk originaltext: "The mechanism of action, like all general anesthetics, is poorly understood. However, propofol is thought to produce its sedative/anesthetic effects by the positive modulation of the inhibitory function of the neurotransmitter GABA through the ligand-gated GABA A receptors." ([DailyMed: Diprivan (propofol) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3105799-a4b6-f3f4-e6e2-b2b29bbdb538), version från 2025-09-11; hämtad 2026-11-19). Baserat på känd information är propofol en positiv allosterisk modulator av GABA-A-receptorn. Genom att förstärka den hämmande GABA-signaleringen kan läkemedlet dämpa smärtsignaler i det trigeminovaskulära systemet och den ökade retbarheten i hjärnbarken.
 
 Prekliniska studier visar dessutom att propofolderivat hämmar "cortical spreading depression", den elektriska våg som anses ligga bakom migränaura och kunna utlösa migränattacker. Det ger en biologiskt rimlig koppling mellan propofols effekt på nervsystemet och migrän.
 
@@ -149,11 +149,12 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla 11 godkännanden är indragna och inga produkter är för närvarande aktiva” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Diprivan (propofol) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3105799-a4b6-f3f4-e6e2-b2b29bbdb538) |
 
 <!-- review:end log -->
 

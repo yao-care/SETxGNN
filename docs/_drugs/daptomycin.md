@@ -139,7 +139,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 <!-- review:end se-lic-20261106-daptomycin-2 -->
 
 **För att gå vidare krävs:**
-- Kompletterande verkningsmekanismdata och produktresumé med varningar och kontraindikationer (för närvarande saknas dessa).
+- Enligt avsnitten ”Mechanism of Action” och ”Microbiology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Daptomycin (inofficiell översättning): ”Daptomycin är ett antibakteriellt läkemedel. […] Daptomycin binder till bakteriers cellmembran och orsakar en snabb depolarisering av membranpotentialen. Denna förlust av membranpotential orsakar hämning av DNA-, RNA- och proteinsyntesen, vilket leder till bakteriell celldöd.” Engelsk originaltext: "Daptomycin is an antibacterial drug. […] Daptomycin binds to bacterial cell membranes and causes a rapid depolarization of membrane potential. This loss of membrane potential causes inhibition of DNA, RNA, and protein synthesis, which results in bacterial cell death." ([DailyMed: Dapzura Rt (daptomycin) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb1283e1-35b8-425c-b338-d9ac0c7161f8), version från 2022-01-25; hämtad 2026-11-19).
 - Prekliniska studier som visar en faktisk effekt på osteoartrit, vilket för närvarande saknas.
 - Om forskningen ska fortsätta bör fokus ligga på **reumatoid artrit**, där djurstudier visar en möjlig antiinflammatorisk effekt (NF-κB-vägen), snarare än på osteoartrit.
 - Utvärdering av nytta och risk, särskilt avseende muskeltoxicitet, innan någon klinisk studie planeras.
@@ -148,12 +148,13 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla 17 godkännanden är indragna och inget är giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna, och m” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Dapzura Rt (daptomycin) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb1283e1-35b8-425c-b338-d9ac0c7161f8) |
 
 <!-- review:end log -->
 

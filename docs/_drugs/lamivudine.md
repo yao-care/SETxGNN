@@ -60,7 +60,7 @@ Lamivudin är en nukleosid-omvänt transkriptashämmare som ursprungligen använ
 
 ### Varför är denna förutsägelse rimlig?
 
-Någon detaljerad verkningsmekanismdata finns för närvarande inte tillgänglig. Baserat på känd information är lamivudin en nukleosidanalog som hämmar omvänt transkriptas hos hiv-1 och polymeras hos hepatit B-virus. Dess effekt vid hiv och hepatit B är väl belagd.
+Enligt avsnitten ”Mechanism of Action” och ”Microbiology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Lamivudine (inofficiell översättning): ”Lamivudin är ett antiretroviralt medel. […] Lamivudin är en syntetisk nukleosidanalog. Intracellulärt fosforyleras lamivudin till sin aktiva 5′-trifosfatmetabolit, lamivudintrifosfat (3TC-TP). Den huvudsakliga verkningsmekanismen för 3TC-TP är hämning av HIV-1 omvänt transkriptas (RT) via DNA-kedjeterminering efter inkorporering av nukleotidanalogen.” Engelsk originaltext: "Lamivudine is an antiretroviral agent. […] Lamivudine is a synthetic nucleoside analogue. Intracellularly, lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate (3TC-TP). The principal mode of action of 3TC-TP is inhibition of HIV-1 reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue." ([DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8), version från 2024-08-15; hämtad 2026-11-19). Baserat på känd information är lamivudin en nukleosidanalog som hämmar omvänt transkriptas hos hiv-1 och polymeras hos hepatit B-virus. Dess effekt vid hiv och hepatit B är väl belagd.
 
 SIV är en nära släkting till hiv bland lentivirusen och har ett omvänt transkriptas med stora likheter. Därför är det mekanistiskt rimligt att lamivudin hämmar även detta enzym. Makakstudier visar att kombinationsbehandlingar med lamivudin kan minska virusmängden, och att resistensmutationen M184V, som kännetecknar lamivudinresistens, uppstår även i SIV:s omvända transkriptas. Det talar för att målet är bevarat mellan virusen.
 
@@ -120,6 +120,19 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varnings- o
 - Hämta verkningsmekanismdata från DrugBank.
 - Bedöma om en human indikation med verklig nytta finns. De övriga förutsägelserna (till exempel kronisk hepatit C, där lamivudin saknar rimlig mekanistisk grund) stöds inte heller av tillräcklig evidens.
 - Kontrollera marknadsstatus och om en ny ansökan om godkännande skulle behövas.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

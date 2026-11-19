@@ -60,7 +60,7 @@ Candesartan är en angiotensin II-typ 1-receptorblockerare (ARB) som används vi
 
 ## Varför är denna förutsägelse rimlig?
 
-Detaljerad verkningsmekanismdata saknas i de data som sammanställts. Candesartan är dock en välkänd blockerare av angiotensin II-typ 1-receptorn (AT1, genen AGTR1), och används vid hypertoni. Mekanistiskt kan läkemedlet vara tillämpbart vid migrän.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Candesartan (inofficiell översättning): ”Angiotensin II bildas från angiotensin I i en reaktion som katalyseras av angiotensinkonverterande enzym (ACE, kininas II). Angiotensin II är den huvudsakliga pressorsubstansen i renin-angiotensinsystemet, med effekter som inkluderar vasokonstriktion, stimulering av syntes och frisättning av aldosteron, kardiell stimulering och renal återabsorption av natrium. […] Kandesartan blockerar de vasokonstriktiva och aldosteronfrisättande effekterna av angiotensin II genom att selektivt blockera bindningen av angiotensin II till AT 1 -receptorn i många vävnader, såsom glatt muskulatur i kärlväggen och binjuren.” Engelsk originaltext: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Candesartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: candesartan prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7eb297cb-ef1b-44e0-a49d-03727100579e), version från 2026-02-05; hämtad 2026-11-19). Candesartan är dock en välkänd blockerare av angiotensin II-typ 1-receptorn (AT1, genen AGTR1), och används vid hypertoni. Mekanistiskt kan läkemedlet vara tillämpbart vid migrän.
 
 Reninangiotensinsystemet påverkar kärltonus i hjärnans kärl, neuroinflammation och oxidativ stress. Föreslagna mekanismer vid migrän är bland annat modulering av cerebrovaskulär tonus, minskad neuroinflammation och dämpning av signalering kopplad till kortikal spridande depression. Dessa kopplingar är hypoteser och inte fullt bevisade.
 
@@ -152,12 +152,13 @@ Se i övrigt produktresumén för fullständig säkerhetsinformation.
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är indragna och i” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna, så tillgänglighet och regulatorisk status behöver klargöras” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: candesartan prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7eb297cb-ef1b-44e0-a49d-03727100579e) |
 
 <!-- review:end log -->
 

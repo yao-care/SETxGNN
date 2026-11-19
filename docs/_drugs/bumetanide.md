@@ -60,7 +60,7 @@ Bumetanid är ett loopdiuretikum som hämmar Na-K-2Cl-transportören (NKCC2) i H
 
 ### Varför är denna förutsägelse rimlig?
 
-Bumetanid hämmar Na-K-2Cl-kotransportören (NKCC2) i den tjocka uppåtgående delen av Henles slynga. Det ger snabb natriures och diures. Någon detaljerad verkningsmekanismdata finns inte i de sammanställda uppgifterna, men loopdiuretikas mekanism är väl känd.
+Bumetanid hämmar Na-K-2Cl-kotransportören (NKCC2) i den tjocka uppåtgående delen av Henles slynga. Det ger snabb natriures och diures. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Bumetanide (inofficiell översättning): ”Bumetanid hämmar främst återabsorptionen av natrium och klorid i de proximala och distala tubuli och i Henles slynga. Den kraftiga diuresen beror till stor del på det unika verkningsstället. Verkan på den distala tubulus är oberoende av någon hämmande effekt på karbanhydras och aldosteron.” Engelsk originaltext: "Bumetanide primarily inhibits the reabsorption of sodium and chloride in the proximal and distal tubules and in the loop of Henle. The high degree of diuresis is largely due to the unique site of action. The action on the distal tubule is independent of any inhibitory effect on carbonic anhydrase and aldosterone." ([DailyMed: Enbumyst (bumetanide) prescribing information, Corstasis USA LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6f752c5-d2bd-4f77-9611-ca2110066d1f), version från 2026-08-27; hämtad 2026-11-19).
 
 Vid akut pulmonell hjärtsjukdom (akut cor pulmonale) överbelastas höger kammare och venerna blir överfyllda av vätska. Ett diuretikum kan i teorin minska preload och vätskeöverskott och därmed lindra stasen. Det är samma princip som vid behandling av vätskeansamling vid hjärtsvikt.
 
@@ -116,6 +116,19 @@ För övrigt, se produktresumén för säkerhetsinformation.
 - Studier eller kliniska data som direkt undersöker bumetanid vid akut pulmonell hjärtsjukdom, särskilt med avseende på högerkammarens hemodynamik
 - Genomgång av produktresumén för varningar och kontraindikationer
 - Bedömning av säkerhet hos patienter med akut högerkammarbelastning
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Enbumyst (bumetanide) prescribing information, Corstasis USA LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6f752c5-d2bd-4f77-9611-ca2110066d1f) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

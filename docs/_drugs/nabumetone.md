@@ -60,7 +60,7 @@ Nabumeton är ett antiinflammatoriskt och smärtlindrande läkemedel (NSAID) som
 
 ### Varför är denna förutsägelse rimlig?
 
-Det är tveksamt om den är rimlig. Nabumeton är en prodrug till 6-MNA, en företrädesvis COX-2-hämmande substans med antiinflammatorisk och smärtlindrande effekt. Någon detaljerad uppgift om verkningsmekanismen finns inte i de data som sammanställts för denna rapport, så den mekanistiska bedömningen är begränsad.
+Det är tveksamt om den är rimlig. Nabumeton är en prodrug till 6-MNA, en företrädesvis COX-2-hämmande substans med antiinflammatorisk och smärtlindrande effekt. Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Nabumetone (inofficiell översättning): ”Cyklooxygenas-2-hämmare” Engelsk originaltext: "Cyclooxygenase-2 inhibitor" ([ChEMBL CHEMBL1070 (nabumetone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1070), CC BY-SA 3.0; hämtad 2026-11-19).
 
 Akromesomelisk dysplasi av Hunter-Thompson-typ är en skelettsjukdom som orsakas av förlust av funktion i generna *CDMP1/GDF5*, vilket påverkar broskbildningen. COX-hämning kan inte förväntas korrigera en sådan genetisk defekt.
 
@@ -142,13 +142,14 @@ Uppgifter från produktresumén om varningar och kontraindikationer saknas i de 
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Båda godkännandena är indragna, och det finns för närvarande inget giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom saknar läkemedlet för närvarande giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 2 godkännanden (54429, 11867) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [ChEMBL CHEMBL1070 (nabumetone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1070) |
 
 <!-- review:end log -->
 

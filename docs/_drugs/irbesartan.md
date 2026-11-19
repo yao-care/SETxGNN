@@ -60,7 +60,7 @@ Irbesartan är en angiotensin II-receptorblockerare (AT1) som ursprungligen anv�
 
 ## Varför är denna förutsägelse rimlig?
 
-Någon detaljerad verkningsmekanismdata finns för närvarande inte tillgänglig. Baserat på känd information är irbesartan en AT1-receptorblockerare. Dess effekt vid hypertoni och diabetesnefropati är väl belagd, och mekanistiskt kan blockad av renin-angiotensinsystemet vara tillämpbar även vid hypertensiv njurskada.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Irbesartan (inofficiell översättning): ”Angiotensin II är en potent vasokonstriktor som bildas från angiotensin I i en reaktion som katalyseras av angiotensinkonverterande enzym (ACE, kininas II). Angiotensin II är det primära vasoaktiva hormonet i renin-angiotensinsystemet och en viktig komponent i patofysiologin vid hypertoni. […] Irbesartan blockerar de vasokonstriktiva och aldosteronfrisättande effekterna av angiotensin II genom att selektivt binda till AT 1 -angiotensin II-receptorn, som finns i många vävnader (t.ex. glatt muskulatur i kärl, binjure).” Engelsk originaltext: "Angiotensin II is a potent vasoconstrictor formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the primary vasoactive hormone of the renin-angiotensin system, and an important component in the pathophysiology of hypertension. […] Irbesartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively binding to the AT 1 angiotensin II receptor found in many tissues (e.g., vascular smooth muscle, adrenal gland)." ([DailyMed: Avapro (irbesartan) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7885b2a8-be4e-48ab-8113-4e6ab791eb98), version från 2026-08-24; hämtad 2026-11-19). Baserat på känd information är irbesartan en AT1-receptorblockerare. Dess effekt vid hypertoni och diabetesnefropati är väl belagd, och mekanistiskt kan blockad av renin-angiotensinsystemet vara tillämpbar även vid hypertensiv njurskada.
 
 Sambandet mellan den ursprungliga och den nya indikationen är nära. Malign hypertensiv njursjukdom är en allvarlig njurskada orsakad av mycket högt blodtryck, och renin-angiotensinsystemet spelar en central roll.
 
@@ -170,12 +170,13 @@ Se produktresumén för fullständig information om varningar och försiktighets
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 15 godkännanden är avregistrerade och inget gällande godkännande finns” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Bland de övriga avregistrerade godkännandena finns både enkomponentsprodukter (Accord, STADA) och kombinationer med hydroklortiazid (STADA, ” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Avapro (irbesartan) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7885b2a8-be4e-48ab-8113-4e6ab791eb98) |
 
 <!-- review:end log -->
 

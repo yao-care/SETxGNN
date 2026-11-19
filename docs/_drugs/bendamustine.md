@@ -139,13 +139,26 @@ Varningar och kontraindikationer från produktresumén ingår inte i de data som
 **Beslut: Gå vidare med försiktighet**
 
 **Motivering:**
-- Mantelcellslymfom har direkt stöd från flera avslutade och pågående randomiserade fas 3-studier samt publikationer i högt rankade tidskrifter, där bendamustin + rituximab är en etablerad behandlingsryggrad. Samtidigt saknas data om verkningsmekanism och produktresumé, och i flera av studierna ingår bendamustin i kombination, så dess enskilda effekt kan inte särskiljas.
+- Mantelcellslymfom har direkt stöd från flera avslutade och pågående randomiserade fas 3-studier samt publikationer i högt rankade tidskrifter, där bendamustin + rituximab är en etablerad behandlingsryggrad. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Bendamustine (inofficiell översättning): ”Bendamustin är ett bifunktionellt mekloretaminderivat som innehåller en purinliknande bensimidazolring. Mekloretamin och dess derivat bildar elektrofila alkylgrupper. Dessa grupper bildar kovalenta bindningar med elektronrika nukleofila delar, vilket resulterar i korsbindningar mellan DNA-strängar.” Engelsk originaltext: "Bendamustine is a bifunctional mechlorethamine derivative containing a purine-like benzimidazole ring. Mechlorethamine and its derivatives form electrophilic alkyl groups. These groups form covalent bonds with electron-rich nucleophilic moieties, resulting in interstrand DNA crosslinks." ([DailyMed: Vivimusta (bendamustine hydrochloride) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bf0e08b3-50ab-48e0-a52b-89c04787a75f), version från 2026-10-28; hämtad 2026-11-19).
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé (varningar, kontraindikationer, dosering) från Läkemedelsverket.
 - Komplettera data om verkningsmekanism.
 - Bekräfta godkänd indikationstext och aktuell licensstatus för de svenska produkterna.
 - Bedöma myelosuppression, infektionsrisk och interaktioner i den aktuella patientgruppen.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Vivimusta (bendamustine hydrochloride) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bf0e08b3-50ab-48e0-a52b-89c04787a75f) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

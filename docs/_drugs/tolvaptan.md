@@ -60,7 +60,7 @@ Tolvaptan är en vasopressin V2-receptorantagonist som ursprungligen användes v
 
 ### Varför är denna förutsägelse rimlig?
 
-Detaljerade uppgifter om verkningsmekanismen saknas i de data som sammanställts för denna rapport. Tolvaptan är dock känt som en selektiv antagonist av vasopressin V2-receptorn. Vid polycystisk njursjukdom ger förhöjd cAMP-signalering i njurtubuliepitelet ökad cystatillväxt och vätskeutsöndring. Genom att blockera V2-receptorn sänks cAMP-nivåerna, vilket kan bromsa cystutvecklingen.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Tolvaptan (inofficiell översättning): ”Tolvaptan är en selektiv vasopressin-V 2 -receptorantagonist med en affinitet för V 2 -receptorn som är 1,8 gånger så hög som för nativt argininvasopressin (AVP). Tolvaptans affinitet för V 2 -receptorn är 29 gånger så hög som för V 1a -receptorn.” Engelsk originaltext: "Tolvaptan is a selective vasopressin V 2 -receptor antagonist with an affinity for the V 2 -receptor that is 1.8 times that of native arginine vasopressin (AVP). Tolvaptan affinity for the V 2 -receptor is 29 times that for the V 1a -receptor." ([DailyMed: Jynarque (tolvaptan) prescribing information, Otsuka America Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3febc0a1-9e5a-4ce0-843d-210f21d862c4), version från 2026-09-30; hämtad 2026-11-19). Tolvaptan är dock känt som en selektiv antagonist av vasopressin V2-receptorn. Vid polycystisk njursjukdom ger förhöjd cAMP-signalering i njurtubuliepitelet ökad cystatillväxt och vätskeutsöndring. Genom att blockera V2-receptorn sänks cAMP-nivåerna, vilket kan bromsa cystutvecklingen.
 
 Den förutsagda sjukdomen (PKD3, en GANAB-relaterad form) tillhör samma sjukdomsfamilj som autosomalt dominant polycystisk njursjukdom (ADPKD). Polycystisk njursjukdom finns redan bland läkemedlets ursprungliga indikationer, så detta är inte en genuint ny användning.
 
@@ -140,11 +140,12 @@ Uppgifter om varningar och kontraindikationer från svensk produktresumé saknas
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”och samtliga svenska godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Jynarque (tolvaptan) prescribing information, Otsuka America Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3febc0a1-9e5a-4ce0-843d-210f21d862c4) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ Cetirizin är en H1-antihistamin (receptorantagonist för histamin) som används
 
 ### Varför är denna förutsägelse rimlig?
 
-Detaljerad data om verkningsmekanismen finns för närvarande inte tillgänglig i de sammanställda data. Cetirizin är dock känt som en H1-antihistamin. Litteraturen beskriver att den huvudsakliga effekten hos antihistaminer är konkurrerande blockad av histaminets H1-receptorer på nervändar, glatt muskulatur och körtelceller. Det kan dämpa histaminmedierade symtom i näsans slemhinna, såsom svullnad, sekretion och klåda.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Cetirizine (inofficiell översättning): ”Cetirizinhydroklorid, en human metabolit av hydroxizin, är ett antihistamin; dess huvudsakliga effekter medieras via selektiv hämning av perifera H 1 -receptorer. Den antihistaminerga aktiviteten hos cetirizinhydroklorid har tydligt dokumenterats i en rad olika djur- och humanmodeller.” Engelsk originaltext: "Cetirizine hydrochloride, a human metabolite of hydroxyzine, is an antihistamine; its principal effects are mediated via selective inhibition of peripheral H 1 -receptors. The antihistaminic activity of cetirizine hydrochloride has been clearly documented in a variety of animal and human models." ([DailyMed: Quzyttir (cetirizine hydrochloride) prescribing information, ESTEVE PHARMACEUTICALS, S.A.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=573770f6-b76e-f6ba-e063-6294a90aa54d), version från 2026-09-22; hämtad 2026-11-19). Cetirizin är dock känt som en H1-antihistamin. Litteraturen beskriver att den huvudsakliga effekten hos antihistaminer är konkurrerande blockad av histaminets H1-receptorer på nervändar, glatt muskulatur och körtelceller. Det kan dämpa histaminmedierade symtom i näsans slemhinna, såsom svullnad, sekretion och klåda.
 
 Kopplingen till den förutsagda sjukdomen är indirekt. "Näshåleesjukdom" är en bred och ospecifik kategori. Den mekanistiska länken går via allergiska näsbesvär, där H1-blockad är väl beskriven. För andra sjukdomar i näshålan är underlaget inte specifikt, och sjukdomstermen bör preciseras innan vidare utvärdering.
 
@@ -116,6 +116,19 @@ För övrig säkerhetsinformation, se produktresumén.
 - Kliniska prövningar eller publikationer som direkt studerar cetirizin vid den preciserade sjukdomen.
 - Genomgång av produktresumé för varningar och kontraindikationer.
 - Kompletterande data om verkningsmekanismen.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Quzyttir (cetirizine hydrochloride) prescribing information, ESTEVE PHARMACEUTICALS, S.A.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=573770f6-b76e-f6ba-e063-6294a90aa54d) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

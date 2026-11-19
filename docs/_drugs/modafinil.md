@@ -58,7 +58,7 @@ Modafinil är ett vakenhetshöjande läkemedel som används vid sjukdomar med ö
 
 ### Varför är denna förutsägelse rimlig?
 
-Detaljerade uppgifter om verkningsmekanismen finns för närvarande inte tillgängliga i den sammanställda datan. Modafinil beskrivs i litteraturen som ett vakenhetshöjande medel som skiljer sig farmakologiskt från klassiska stimulantia. Det antas hämma dopaminåterupptaget och påverka histaminerga, orexinerga samt glutamaterga/GABAerga vakenhetskretsar.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Modafinil (inofficiell översättning): ”Den eller de mekanismer genom vilka modafinil främjar vakenhet är okända. Modafinil har vakenhetsfrämjande effekter som liknar dem hos sympatomimetiska medel, inklusive amfetamin och metylfenidat, även om den farmakologiska profilen inte är identisk med de sympatomimetiska aminernas.” Engelsk originaltext: "The mechanism(s) through which modafinil promotes wakefulness is unknown. Modafinil has wake-promoting actions similar to sympathomimetic agents including amphetamine and methylphenidate, although the pharmacologic profile is not identical to that of the sympathomimetic amines." ([DailyMed: Provigil (modafinil) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0391f182-1958-9fef-a944-53b229ce99e7), version från 2026-09-16; hämtad 2026-11-19). Modafinil beskrivs i litteraturen som ett vakenhetshöjande medel som skiljer sig farmakologiskt från klassiska stimulantia. Det antas hämma dopaminåterupptaget och påverka histaminerga, orexinerga samt glutamaterga/GABAerga vakenhetskretsar.
 
 Den höga modellpoängen speglar sannolikt att läkemedlet ligger nära andra sömn–vakenhetsstörningar i nätverket av kända samband, snarare än en verklig effekt mot insomni. Insomni kännetecknas av svårigheter att somna eller sova, medan modafinil minskar sömnighet på dagtid.
 
@@ -122,6 +122,18 @@ För övrig säkerhetsinformation, se produktresumén.
 - Redovisade resultat från studie NCT00124384 eller nya kontrollerade studier som direkt undersöker modafinil vid insomni
 - Klarlagd verkningsmekanism och bedömning av risken för försämrad nattsömn
 - Säkerhetsinformation från produktresumén (varningar och kontraindikationer) för en fullständig säkerhetsbedömning
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Provigil (modafinil) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0391f182-1958-9fef-a944-53b229ce99e7) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

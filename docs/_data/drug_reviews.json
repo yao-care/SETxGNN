@@ -13695,6 +13695,1537 @@
    ],
    "checked": "2026-11-16",
    "method": "2026-11-16 license_own_extra 併入後排程擋頁，逐句對照事實層"
+  },
+  {
+   "id": "se-moa-20261119-abacavir-1",
+   "drug": "abacavir",
+   "file": "abacavir.md",
+   "action": "mechanism",
+   "claim": "Någon detaljerad verkningsmekanismdata finns inte tillgänglig i de sammanställda uppgifterna, men klassen är väl beskriven.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för abacavir and lamivudine (kombinationspreparat med Abacavir) (inofficiell översättning): ”Abakavir och lamivudin är ett antiretroviralt medel med aktivitet mot HIV-1.” Engelsk originaltext: \"Abacavir and lamivudine is an antiretroviral agent with activity against HIV-1.\" ([DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c), version från 2026-09-18; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c",
+     "accessed": "2026-11-19",
+     "excerpt": "Abacavir and lamivudine is an antiretroviral agent with activity against HIV-1.",
+     "label_version": "2026-09-18",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "d12e80eb-906c-4932-bb03-b4060ba1d31c",
+     "translation": "Abakavir och lamivudin är ett antiretroviralt medel med aktivitet mot HIV-1.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-alfuzosin-1",
+   "drug": "alfuzosin",
+   "file": "alfuzosin.md",
+   "action": "mechanism",
+   "claim": "Uppgifter om alfuzosins verkningsmekanism finns inte i det sammanställda underlaget.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Alfuzosin (inofficiell översättning): ”Alfuzosin är en selektiv antagonist av postsynaptiska alfa 1 -adrenoreceptorer, som är belägna i prostata, blåsbasen, blåshalsen, prostatakapseln och prostatiska uretra.” Engelsk originaltext: \"Alfuzosin is a selective antagonist of post-synaptic alpha 1 -adrenoreceptors, which are located in the prostate, bladder base, bladder neck, prostatic capsule, and prostatic urethra.\" ([DailyMed: Uroxatral (alfuzosin hcl) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9fc7f119-f36b-44cf-945d-940160f3afe3), version från 2024-12-05; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Uroxatral (alfuzosin hcl) prescribing information, Advanz Pharma (US) Corp.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9fc7f119-f36b-44cf-945d-940160f3afe3",
+     "accessed": "2026-11-19",
+     "excerpt": "Alfuzosin is a selective antagonist of post-synaptic alpha 1 -adrenoreceptors, which are located in the prostate, bladder base, bladder neck, prostatic capsule, and prostatic urethra.",
+     "label_version": "2024-12-05",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "9fc7f119-f36b-44cf-945d-940160f3afe3",
+     "translation": "Alfuzosin är en selektiv antagonist av postsynaptiska alfa 1 -adrenoreceptorer, som är belägna i prostata, blåsbasen, blåshalsen, prostatakapseln och prostatiska uretra.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-alprostadil-1",
+   "drug": "alprostadil",
+   "file": "alprostadil.md",
+   "action": "mechanism",
+   "claim": "Detaljerade uppgifter om verkningsmekanismen från läkemedelsdatabaser saknas i underlaget, men denna effekt är väl beskriven i litteraturen.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Alprostadil (inofficiell översättning): ”Alprostadil (PGE1) är ett prostaglandin med en mängd olika farmakologiska verkningar, inklusive vasodilatation och hämning av trombocytaggregation. Alprostadil inducerar erektion genom relaxation av trabekulär glatt muskulatur och genom dilatation av kavernösa artärer, genom att binda till sina receptorer och öka de intracellulära nivåerna av cykliskt adenosinmonofosfat (cAMP) via modulering av adenylatcyklas.” Engelsk originaltext: \"Alprostadil (PGE1) is a prostaglandin with a wide variety of pharmacological actions including vasodilation and inhibition of platelet aggregation. Alprostadil induces erection by relaxation of trabecular smooth muscle and by dilation of cavernosal arteries by binding to its receptors and increasing intracellular cyclic adenosine monophosphate (cAMP) levels via modulation of adenylate cyclase.\" ([DailyMed: Caverject (alprostadil) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98), version från 2024-05-13; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Caverject (alprostadil) prescribing information, Pharmacia & Upjohn Company LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98",
+     "accessed": "2026-11-19",
+     "excerpt": "Alprostadil (PGE1) is a prostaglandin with a wide variety of pharmacological actions including vasodilation and inhibition of platelet aggregation. Alprostadil induces erection by relaxation of trabecular smooth muscle and by dilation of cavernosal arteries by binding to its receptors and increasing intracellular cyclic adenosine monophosphate (cAMP) levels via modulation of adenylate cyclase.",
+     "label_version": "2024-05-13",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "a295fc1e-d82c-4f44-bc2d-a552bf594c98",
+     "translation": "Alprostadil (PGE1) är ett prostaglandin med en mängd olika farmakologiska verkningar, inklusive vasodilatation och hämning av trombocytaggregation. Alprostadil inducerar erektion genom relaxation av trabekulär glatt muskulatur och genom dilatation av kavernösa artärer, genom att binda till sina receptorer och öka de intracellulära nivåerna av cykliskt adenosinmonofosfat (cAMP) via modulering av adenylatcyklas.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-amsacrine-1",
+   "drug": "amsacrine",
+   "file": "amsacrine.md",
+   "action": "mechanism",
+   "claim": "Detaljerade uppgifter om verkningsmekanismen saknas i de data som sammanställts för denna rapport, och beskrivningen ovan bygger på allmänt känd farmakologi.",
+   "replacement": "Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Amsacrine (inofficiell översättning): ”DNA-topoisomeras II-hämmare” Engelsk originaltext: \"DNA topoisomerase II inhibitor\" ([ChEMBL CHEMBL43 (amsacrine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43), CC BY-SA 3.0; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "ChEMBL CHEMBL43 (amsacrine): drug mechanism",
+     "url": "https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43",
+     "accessed": "2026-11-19",
+     "excerpt": "DNA topoisomerase II inhibitor",
+     "via": "ChEMBL web services (https://www.ebi.ac.uk/chembl/api/data/docs), CC BY-SA 3.0",
+     "chembl_id": "CHEMBL43",
+     "translation": "DNA-topoisomeras II-hämmare",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-atazanavir-1",
+   "drug": "atazanavir",
+   "file": "atazanavir.md",
+   "action": "mechanism",
+   "claim": "Detaljerad verkningsmekanismdata finns för närvarande inte tillgänglig.",
+   "replacement": "Enligt avsnitten ”Mechanism of Action” och ”Microbiology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Atazanavir (inofficiell översättning): ”Atazanavir är ett antiretroviralt läkemedel mot HIV-1. […] Atazanavir (ATV) är en azapeptidisk HIV-1-proteashämmare (PI). Substansen hämmar selektivt den virusspecifika processningen av virala Gag- och Gag-Pol-polyproteiner i HIV-1-infekterade celler och förhindrar därmed bildningen av mogna virioner.” Engelsk originaltext: \"Atazanavir is an HIV-1 antiretroviral drug. […] Atazanavir (ATV) is an azapeptide HIV-1 protease inhibitor (PI). The compound selectively inhibits the virus-specific processing of viral Gag and Gag-Pol polyproteins in HIV-1-infected cells, thus preventing formation of mature virions.\" ([DailyMed: Reyataz (atazanavir) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=165cff62-b284-4a27-a65d-9ec8a5bfcdd8), version från 2024-12-05; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action; 12.4 Microbiology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Reyataz (atazanavir) prescribing information, E.R. Squibb & Sons, L.L.C.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=165cff62-b284-4a27-a65d-9ec8a5bfcdd8",
+     "accessed": "2026-11-19",
+     "excerpt": "Atazanavir is an HIV-1 antiretroviral drug. […] Atazanavir (ATV) is an azapeptide HIV-1 protease inhibitor (PI). The compound selectively inhibits the virus-specific processing of viral Gag and Gag-Pol polyproteins in HIV-1-infected cells, thus preventing formation of mature virions.",
+     "label_version": "2024-12-05",
+     "section": "12.1 Mechanism of Action; 12.4 Microbiology",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "165cff62-b284-4a27-a65d-9ec8a5bfcdd8",
+     "translation": "Atazanavir är ett antiretroviralt läkemedel mot HIV-1. […] Atazanavir (ATV) är en azapeptidisk HIV-1-proteashämmare (PI). Substansen hämmar selektivt den virusspecifika processningen av virala Gag- och Gag-Pol-polyproteiner i HIV-1-infekterade celler och förhindrar därmed bildningen av mogna virioner.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-bendamustine-1",
+   "drug": "bendamustine",
+   "file": "bendamustine.md",
+   "action": "mechanism",
+   "claim": "Samtidigt saknas data om verkningsmekanism och produktresumé, och i flera av studierna ingår bendamustin i kombination, så dess enskilda effekt kan inte särskiljas.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Bendamustine (inofficiell översättning): ”Bendamustin är ett bifunktionellt mekloretaminderivat som innehåller en purinliknande bensimidazolring. Mekloretamin och dess derivat bildar elektrofila alkylgrupper. Dessa grupper bildar kovalenta bindningar med elektronrika nukleofila delar, vilket resulterar i korsbindningar mellan DNA-strängar.” Engelsk originaltext: \"Bendamustine is a bifunctional mechlorethamine derivative containing a purine-like benzimidazole ring. Mechlorethamine and its derivatives form electrophilic alkyl groups. These groups form covalent bonds with electron-rich nucleophilic moieties, resulting in interstrand DNA crosslinks.\" ([DailyMed: Vivimusta (bendamustine hydrochloride) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bf0e08b3-50ab-48e0-a52b-89c04787a75f), version från 2026-10-28; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Vivimusta (bendamustine hydrochloride) prescribing information, Azurity Pharmaceuticals, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bf0e08b3-50ab-48e0-a52b-89c04787a75f",
+     "accessed": "2026-11-19",
+     "excerpt": "Bendamustine is a bifunctional mechlorethamine derivative containing a purine-like benzimidazole ring. Mechlorethamine and its derivatives form electrophilic alkyl groups. These groups form covalent bonds with electron-rich nucleophilic moieties, resulting in interstrand DNA crosslinks.",
+     "label_version": "2026-10-28",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "bf0e08b3-50ab-48e0-a52b-89c04787a75f",
+     "translation": "Bendamustin är ett bifunktionellt mekloretaminderivat som innehåller en purinliknande bensimidazolring. Mekloretamin och dess derivat bildar elektrofila alkylgrupper. Dessa grupper bildar kovalenta bindningar med elektronrika nukleofila delar, vilket resulterar i korsbindningar mellan DNA-strängar.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-bumetanide-1",
+   "drug": "bumetanide",
+   "file": "bumetanide.md",
+   "action": "mechanism",
+   "claim": "Någon detaljerad verkningsmekanismdata finns inte i de sammanställda uppgifterna, men loopdiuretikas mekanism är väl känd.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Bumetanide (inofficiell översättning): ”Bumetanid hämmar främst återabsorptionen av natrium och klorid i de proximala och distala tubuli och i Henles slynga. Den kraftiga diuresen beror till stor del på det unika verkningsstället. Verkan på den distala tubulus är oberoende av någon hämmande effekt på karbanhydras och aldosteron.” Engelsk originaltext: \"Bumetanide primarily inhibits the reabsorption of sodium and chloride in the proximal and distal tubules and in the loop of Henle. The high degree of diuresis is largely due to the unique site of action. The action on the distal tubule is independent of any inhibitory effect on carbonic anhydrase and aldosterone.\" ([DailyMed: Enbumyst (bumetanide) prescribing information, Corstasis USA LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6f752c5-d2bd-4f77-9611-ca2110066d1f), version från 2026-08-27; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Enbumyst (bumetanide) prescribing information, Corstasis USA LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6f752c5-d2bd-4f77-9611-ca2110066d1f",
+     "accessed": "2026-11-19",
+     "excerpt": "Bumetanide primarily inhibits the reabsorption of sodium and chloride in the proximal and distal tubules and in the loop of Henle. The high degree of diuresis is largely due to the unique site of action. The action on the distal tubule is independent of any inhibitory effect on carbonic anhydrase and aldosterone.",
+     "label_version": "2026-08-27",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "d6f752c5-d2bd-4f77-9611-ca2110066d1f",
+     "translation": "Bumetanid hämmar främst återabsorptionen av natrium och klorid i de proximala och distala tubuli och i Henles slynga. Den kraftiga diuresen beror till stor del på det unika verkningsstället. Verkan på den distala tubulus är oberoende av någon hämmande effekt på karbanhydras och aldosteron.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-buprenorphine-1",
+   "drug": "buprenorphine",
+   "file": "buprenorphine.md",
+   "action": "mechanism",
+   "claim": "Detaljerad data om verkningsmekanismen saknas i det sammanställda underlaget, så beskrivningen bygger på allmänt känd farmakologi.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Buprenorphine (inofficiell översättning): ”SUBLOCADE injektionsvätska innehåller buprenorfin. Buprenorfin är en partiell agonist vid my-opioidreceptorn och en antagonist vid kappa-opioidreceptorn.” Engelsk originaltext: \"SUBLOCADE Injection contains buprenorphine. Buprenorphine is a partial agonist at the mu- opioid receptor and an antagonist at the kappa-opioid receptor.\" ([DailyMed: Sublocade (buprenorphine) prescribing information, Indivior Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6189fb21-9432-45f8-8481-0bfaf3ccde95), version från 2026-07-27; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Sublocade (buprenorphine) prescribing information, Indivior Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6189fb21-9432-45f8-8481-0bfaf3ccde95",
+     "accessed": "2026-11-19",
+     "excerpt": "SUBLOCADE Injection contains buprenorphine. Buprenorphine is a partial agonist at the mu- opioid receptor and an antagonist at the kappa-opioid receptor.",
+     "label_version": "2026-07-27",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "6189fb21-9432-45f8-8481-0bfaf3ccde95",
+     "translation": "SUBLOCADE injektionsvätska innehåller buprenorfin. Buprenorfin är en partiell agonist vid my-opioidreceptorn och en antagonist vid kappa-opioidreceptorn.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-bupropion-1",
+   "drug": "bupropion",
+   "file": "bupropion.md",
+   "action": "mechanism",
+   "claim": "Detaljerad verkningsmekanismdata finns inte i det sammanställda underlaget.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Bupropion (inofficiell översättning): ”Den exakta mekanism genom vilken bupropionhydroklorid depottabletter (SR) förbättrar patienternas förmåga att avstå från rökning är inte känd, men antas vara relaterad till noradrenerga och/eller dopaminerga mekanismer. Bupropion är en relativt svag hämmare av den neuronala återupptagningen av noradrenalin och dopamin, och hämmar inte återupptagningen av serotonin.” Engelsk originaltext: \"The exact mechanism by which bupropion hydrochloride extended-release tablets (SR) enhances the ability of patients to abstain from smoking is not known but is presumed to be related to noradrenergic and/or dopaminergic mechanisms. Bupropion is a relatively weak inhibitor of the neuronal reuptake of norepinephrine and dopamine, and does not inhibit the reuptake of serotonin.\" ([DailyMed: Bupropion Hydrochloride Sr (bupropion hydrochloride) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfb45438-1116-48f2-9bfe-776ebbf1e119), version från 2026-11-11; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Bupropion Hydrochloride Sr (bupropion hydrochloride) prescribing information, A-S Medication Solutions",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfb45438-1116-48f2-9bfe-776ebbf1e119",
+     "accessed": "2026-11-19",
+     "excerpt": "The exact mechanism by which bupropion hydrochloride extended-release tablets (SR) enhances the ability of patients to abstain from smoking is not known but is presumed to be related to noradrenergic and/or dopaminergic mechanisms. Bupropion is a relatively weak inhibitor of the neuronal reuptake of norepinephrine and dopamine, and does not inhibit the reuptake of serotonin.",
+     "label_version": "2026-11-11",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "dfb45438-1116-48f2-9bfe-776ebbf1e119",
+     "translation": "Den exakta mekanism genom vilken bupropionhydroklorid depottabletter (SR) förbättrar patienternas förmåga att avstå från rökning är inte känd, men antas vara relaterad till noradrenerga och/eller dopaminerga mekanismer. Bupropion är en relativt svag hämmare av den neuronala återupptagningen av noradrenalin och dopamin, och hämmar inte återupptagningen av serotonin.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-cabergoline-1",
+   "drug": "cabergoline",
+   "file": "cabergoline.md",
+   "action": "mechanism",
+   "claim": "Det saknas både kliniska och prekliniska data som kan visa att verkningsmekanismen är tillämpbar.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Cabergoline (inofficiell översättning): ”Kabergolin är ett ergotderivat och en dopaminreceptoragonist med hög affinitet för D2-receptorer. Resultat från in vitro-studier visar att kabergolin utövar en direkt hämmande effekt på utsöndringen av prolaktin från laktotrofa celler i hypofysen hos råtta.” Engelsk originaltext: \"Cabergoline is an ergot derivative and dopamine receptor agonist with a high affinity for D2 receptors. Results of in vitro studies demonstrate that cabergoline exerts a direct inhibitory effect on the secretion of prolactin by rat pituitary lactotrophs.\" ([DailyMed: cabergoline prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e497366b-a124-4d7f-bd45-a883c392d4bb), version från 2026-06-30; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: cabergoline prescribing information, Mylan Pharmaceuticals Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e497366b-a124-4d7f-bd45-a883c392d4bb",
+     "accessed": "2026-11-19",
+     "excerpt": "Cabergoline is an ergot derivative and dopamine receptor agonist with a high affinity for D2 receptors. Results of in vitro studies demonstrate that cabergoline exerts a direct inhibitory effect on the secretion of prolactin by rat pituitary lactotrophs.",
+     "label_version": "2026-06-30",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "e497366b-a124-4d7f-bd45-a883c392d4bb",
+     "translation": "Kabergolin är ett ergotderivat och en dopaminreceptoragonist med hög affinitet för D2-receptorer. Resultat från in vitro-studier visar att kabergolin utövar en direkt hämmande effekt på utsöndringen av prolaktin från laktotrofa celler i hypofysen hos råtta.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-candesartan-1",
+   "drug": "candesartan",
+   "file": "candesartan.md",
+   "action": "mechanism",
+   "claim": "Detaljerad verkningsmekanismdata saknas i de data som sammanställts.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Candesartan (inofficiell översättning): ”Angiotensin II bildas från angiotensin I i en reaktion som katalyseras av angiotensinkonverterande enzym (ACE, kininas II). Angiotensin II är den huvudsakliga pressorsubstansen i renin-angiotensinsystemet, med effekter som inkluderar vasokonstriktion, stimulering av syntes och frisättning av aldosteron, kardiell stimulering och renal återabsorption av natrium. […] Kandesartan blockerar de vasokonstriktiva och aldosteronfrisättande effekterna av angiotensin II genom att selektivt blockera bindningen av angiotensin II till AT 1 -receptorn i många vävnader, såsom glatt muskulatur i kärlväggen och binjuren.” Engelsk originaltext: \"Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Candesartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland.\" ([DailyMed: candesartan prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7eb297cb-ef1b-44e0-a49d-03727100579e), version från 2026-02-05; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: candesartan prescribing information, Bryant Ranch Prepack",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7eb297cb-ef1b-44e0-a49d-03727100579e",
+     "accessed": "2026-11-19",
+     "excerpt": "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Candesartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland.",
+     "label_version": "2026-02-05",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "7eb297cb-ef1b-44e0-a49d-03727100579e",
+     "translation": "Angiotensin II bildas från angiotensin I i en reaktion som katalyseras av angiotensinkonverterande enzym (ACE, kininas II). Angiotensin II är den huvudsakliga pressorsubstansen i renin-angiotensinsystemet, med effekter som inkluderar vasokonstriktion, stimulering av syntes och frisättning av aldosteron, kardiell stimulering och renal återabsorption av natrium. […] Kandesartan blockerar de vasokonstriktiva och aldosteronfrisättande effekterna av angiotensin II genom att selektivt blockera bindningen av angiotensin II till AT 1 -receptorn i många vävnader, såsom glatt muskulatur i kärlväggen och binjuren.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-capecitabine-1",
+   "drug": "capecitabine",
+   "file": "capecitabine.md",
+   "action": "mechanism",
+   "claim": "Någon detaljerad verkningsmekanismdata finns inte i de sammanställda uppgifterna, så resonemanget bygger på allmän kunskap om läkemedlet.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Capecitabine (inofficiell översättning): ”Capecitabin metaboliseras till fluorouracil in vivo. Både normala celler och tumörceller metaboliserar fluorouracil till 5-fluoro-2'-deoxiuridinmonofosfat (FdUMP) och 5-fluorouridintrifosfat (FUTP). Dessa metaboliter orsakar cellskada genom två olika mekanismer.” Engelsk originaltext: \"Capecitabine is metabolized to fluorouracil in vivo. Both normal and tumor cells metabolize fluorouracil to 5-fluoro-2'-deoxyuridine monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). These metabolites cause cell injury by two different mechanisms.\" ([DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5), version från 2026-02-05; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5",
+     "accessed": "2026-11-19",
+     "excerpt": "Capecitabine is metabolized to fluorouracil in vivo. Both normal and tumor cells metabolize fluorouracil to 5-fluoro-2'-deoxyuridine monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). These metabolites cause cell injury by two different mechanisms.",
+     "label_version": "2026-02-05",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "e702d84d-7162-4751-bf37-d724cc7e45a5",
+     "translation": "Capecitabin metaboliseras till fluorouracil in vivo. Både normala celler och tumörceller metaboliserar fluorouracil till 5-fluoro-2'-deoxiuridinmonofosfat (FdUMP) och 5-fluorouridintrifosfat (FUTP). Dessa metaboliter orsakar cellskada genom två olika mekanismer.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-cefazolin-1",
+   "drug": "cefazolin",
+   "file": "cefazolin.md",
+   "action": "mechanism",
+   "claim": "Detaljerade uppgifter om verkningsmekanismen saknas i de sammanställda data, men klassen är väl känd.",
+   "replacement": "Enligt avsnitten ”Mechanism of Action” och ”Microbiology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Cefazolin (inofficiell översättning): ”Cefazolin är ett antibakteriellt läkemedel. […] Cefazolin är ett baktericidt medel som verkar genom hämning av syntesen av bakteriens cellvägg.” Engelsk originaltext: \"Cefazolin is an antibacterial drug. […] Cefazolin is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis.\" ([DailyMed: Cefazolin (cefazolin sodium) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d91a8d13-99a0-4d87-88dc-71cbd37922b4), version från 2026-08-31; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action; 12.4 Microbiology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Cefazolin (cefazolin sodium) prescribing information, Baxter Healthcare Corporation",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d91a8d13-99a0-4d87-88dc-71cbd37922b4",
+     "accessed": "2026-11-19",
+     "excerpt": "Cefazolin is an antibacterial drug. […] Cefazolin is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis.",
+     "label_version": "2026-08-31",
+     "section": "12.1 Mechanism of Action; 12.4 Microbiology",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "d91a8d13-99a0-4d87-88dc-71cbd37922b4",
+     "translation": "Cefazolin är ett antibakteriellt läkemedel. […] Cefazolin är ett baktericidt medel som verkar genom hämning av syntesen av bakteriens cellvägg.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-cetirizine-1",
+   "drug": "cetirizine",
+   "file": "cetirizine.md",
+   "action": "mechanism",
+   "claim": "Detaljerad data om verkningsmekanismen finns för närvarande inte tillgänglig i de sammanställda data.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Cetirizine (inofficiell översättning): ”Cetirizinhydroklorid, en human metabolit av hydroxizin, är ett antihistamin; dess huvudsakliga effekter medieras via selektiv hämning av perifera H 1 -receptorer. Den antihistaminerga aktiviteten hos cetirizinhydroklorid har tydligt dokumenterats i en rad olika djur- och humanmodeller.” Engelsk originaltext: \"Cetirizine hydrochloride, a human metabolite of hydroxyzine, is an antihistamine; its principal effects are mediated via selective inhibition of peripheral H 1 -receptors. The antihistaminic activity of cetirizine hydrochloride has been clearly documented in a variety of animal and human models.\" ([DailyMed: Quzyttir (cetirizine hydrochloride) prescribing information, ESTEVE PHARMACEUTICALS, S.A.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=573770f6-b76e-f6ba-e063-6294a90aa54d), version från 2026-09-22; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Quzyttir (cetirizine hydrochloride) prescribing information, ESTEVE PHARMACEUTICALS, S.A.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=573770f6-b76e-f6ba-e063-6294a90aa54d",
+     "accessed": "2026-11-19",
+     "excerpt": "Cetirizine hydrochloride, a human metabolite of hydroxyzine, is an antihistamine; its principal effects are mediated via selective inhibition of peripheral H 1 -receptors. The antihistaminic activity of cetirizine hydrochloride has been clearly documented in a variety of animal and human models.",
+     "label_version": "2026-09-22",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "573770f6-b76e-f6ba-e063-6294a90aa54d",
+     "translation": "Cetirizinhydroklorid, en human metabolit av hydroxizin, är ett antihistamin; dess huvudsakliga effekter medieras via selektiv hämning av perifera H 1 -receptorer. Den antihistaminerga aktiviteten hos cetirizinhydroklorid har tydligt dokumenterats i en rad olika djur- och humanmodeller.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-ciclesonide-1",
+   "drug": "ciclesonide",
+   "file": "ciclesonide.md",
+   "action": "mechanism",
+   "claim": "Någon detaljerad verkningsmekanismdata finns inte i de data som sammanställts, så beskrivningen bygger på allmänt känd farmakologi.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Ciclesonide (inofficiell översättning): ”Ciklesonid är en prodrug som efter oral inhalation hydrolyseras enzymatiskt till en farmakologiskt aktiv metabolit, C21-desisobutyryl-ciklesonid (des-ciklesonid eller RM1). Des-ciklesonid har antiinflammatorisk aktivitet med en affinitet för glukokortikoidreceptorer som är 120 gånger större än modersubstansens och 12 gånger större än dexametasons.” Engelsk originaltext: \"Ciclesonide is a prodrug that is enzymatically hydrolyzed to a pharmacologically active metabolite, C21-desisobutyryl-ciclesonide (des-ciclesonide or RM1) following oral inhalation. Des-ciclesonide has anti-inflammatory activity with affinity for glucocorticoid receptors that is 120 times greater than the parent compound and 12 times greater than dexamethasone.\" ([DailyMed: Alvesco (ciclesonide) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6112fb-78ef-43cf-8ae3-36370eb45468), version från 2025-02-28; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Alvesco (ciclesonide) prescribing information, Covis Pharma US, Inc",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6112fb-78ef-43cf-8ae3-36370eb45468",
+     "accessed": "2026-11-19",
+     "excerpt": "Ciclesonide is a prodrug that is enzymatically hydrolyzed to a pharmacologically active metabolite, C21-desisobutyryl-ciclesonide (des-ciclesonide or RM1) following oral inhalation. Des-ciclesonide has anti-inflammatory activity with affinity for glucocorticoid receptors that is 120 times greater than the parent compound and 12 times greater than dexamethasone.",
+     "label_version": "2025-02-28",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "9f6112fb-78ef-43cf-8ae3-36370eb45468",
+     "translation": "Ciklesonid är en prodrug som efter oral inhalation hydrolyseras enzymatiskt till en farmakologiskt aktiv metabolit, C21-desisobutyryl-ciklesonid (des-ciklesonid eller RM1). Des-ciklesonid har antiinflammatorisk aktivitet med en affinitet för glukokortikoidreceptorer som är 120 gånger större än modersubstansens och 12 gånger större än dexametasons.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-clindamycin-1",
+   "drug": "clindamycin",
+   "file": "clindamycin.md",
+   "action": "mechanism",
+   "claim": "Detaljerad data om verkningsmekanismen från läkemedelsdatabasen saknas i det underlag som sammanställts för denna rapport, men den antibakteriella verkningsmekanismen är väletablerad.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Clindamycin (inofficiell översättning): ”Klindamycin hämmar bakteriell proteinsyntes genom att binda till 23S-RNA i 50S-subenheten av ribosomen. Klindamycin är bakteriostatiskt.” Engelsk originaltext: \"Clindamycin inhibits bacterial protein synthesis by binding to the 23S RNA of the 50S subunit of the ribosome. Clindamycin is bacteriostatic.\" ([DailyMed: Cleocin Hydrochloride (clindamycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df9a2a41-b132-4f43-8940-b2d773b1369a), version från 2026-09-16; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Cleocin Hydrochloride (clindamycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df9a2a41-b132-4f43-8940-b2d773b1369a",
+     "accessed": "2026-11-19",
+     "excerpt": "Clindamycin inhibits bacterial protein synthesis by binding to the 23S RNA of the 50S subunit of the ribosome. Clindamycin is bacteriostatic.",
+     "label_version": "2026-09-16",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "df9a2a41-b132-4f43-8940-b2d773b1369a",
+     "translation": "Klindamycin hämmar bakteriell proteinsyntes genom att binda till 23S-RNA i 50S-subenheten av ribosomen. Klindamycin är bakteriostatiskt.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-clonazepam-1",
+   "drug": "clonazepam",
+   "file": "clonazepam.md",
+   "action": "mechanism",
+   "claim": "Någon detaljerad uppgift om verkningsmekanismen finns inte i de data som sammanställts för rapporten.",
+   "replacement": "Enligt avsnittet ”Clinical Pharmacology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Clonazepam (inofficiell översättning): ”Den exakta mekanism genom vilken klonazepam utövar sina antiepileptiska effekter och effekter mot panik är okänd, även om den tros vara relaterad till dess förmåga att förstärka aktiviteten hos gammaaminosmörsyra (GABA), den viktigaste hämmande signalsubstansen i centrala nervsystemet.” Engelsk originaltext: \"The precise mechanism by which clonazepam exerts its antiseizure and antipanic effects is unknown, although it is believed to be related to its ability to enhance the activity of gamma aminobutyric acid (GABA), the major inhibitory neurotransmitter in the central nervous system.\" ([DailyMed: Klonopin (clonazepam) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cfa0d79a-843c-4b88-95a1-e9511d649ca1), version från 2025-12-01; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 Clinical Pharmacology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Klonopin (clonazepam) prescribing information, H2-Pharma, LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cfa0d79a-843c-4b88-95a1-e9511d649ca1",
+     "accessed": "2026-11-19",
+     "excerpt": "The precise mechanism by which clonazepam exerts its antiseizure and antipanic effects is unknown, although it is believed to be related to its ability to enhance the activity of gamma aminobutyric acid (GABA), the major inhibitory neurotransmitter in the central nervous system.",
+     "label_version": "2025-12-01",
+     "section": "Clinical Pharmacology",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "cfa0d79a-843c-4b88-95a1-e9511d649ca1",
+     "translation": "Den exakta mekanism genom vilken klonazepam utövar sina antiepileptiska effekter och effekter mot panik är okänd, även om den tros vara relaterad till dess förmåga att förstärka aktiviteten hos gammaaminosmörsyra (GABA), den viktigaste hämmande signalsubstansen i centrala nervsystemet.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-daptomycin-1",
+   "drug": "daptomycin",
+   "file": "daptomycin.md",
+   "action": "mechanism",
+   "claim": "Kompletterande verkningsmekanismdata och produktresumé med varningar och kontraindikationer (för närvarande saknas dessa).",
+   "replacement": "Enligt avsnitten ”Mechanism of Action” och ”Microbiology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Daptomycin (inofficiell översättning): ”Daptomycin är ett antibakteriellt läkemedel. […] Daptomycin binder till bakteriers cellmembran och orsakar en snabb depolarisering av membranpotentialen. Denna förlust av membranpotential orsakar hämning av DNA-, RNA- och proteinsyntesen, vilket leder till bakteriell celldöd.” Engelsk originaltext: \"Daptomycin is an antibacterial drug. […] Daptomycin binds to bacterial cell membranes and causes a rapid depolarization of membrane potential. This loss of membrane potential causes inhibition of DNA, RNA, and protein synthesis, which results in bacterial cell death.\" ([DailyMed: Dapzura Rt (daptomycin) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb1283e1-35b8-425c-b338-d9ac0c7161f8), version från 2022-01-25; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action; 12.4 Microbiology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Dapzura Rt (daptomycin) prescribing information, Baxter Healthcare Corporation",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb1283e1-35b8-425c-b338-d9ac0c7161f8",
+     "accessed": "2026-11-19",
+     "excerpt": "Daptomycin is an antibacterial drug. […] Daptomycin binds to bacterial cell membranes and causes a rapid depolarization of membrane potential. This loss of membrane potential causes inhibition of DNA, RNA, and protein synthesis, which results in bacterial cell death.",
+     "label_version": "2022-01-25",
+     "section": "12.1 Mechanism of Action; 12.4 Microbiology",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "cb1283e1-35b8-425c-b338-d9ac0c7161f8",
+     "translation": "Daptomycin är ett antibakteriellt läkemedel. […] Daptomycin binder till bakteriers cellmembran och orsakar en snabb depolarisering av membranpotentialen. Denna förlust av membranpotential orsakar hämning av DNA-, RNA- och proteinsyntesen, vilket leder till bakteriell celldöd.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-daunorubicin-1",
+   "drug": "daunorubicin",
+   "file": "daunorubicin.md",
+   "action": "mechanism",
+   "claim": "Detaljerade uppgifter om verkningsmekanismen saknas i de sammanställda data.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Daunorubicin (inofficiell översättning): ”Daunorubicin har antimitotisk och cytotoxisk aktivitet genom ett antal föreslagna verkningsmekanismer. Daunorubicin bildar komplex med DNA genom interkalering mellan baspar. Det hämmar topoisomeras II-aktiviteten genom att stabilisera DNA-topoisomeras II-komplexet, vilket förhindrar religeringsdelen av den ligerings-religeringsreaktion som topoisomeras II katalyserar.” Engelsk originaltext: \"Daunorubicin has antimitotic and cytotoxic activity through a number of proposed mechanisms of action. Daunorubicin forms complexes with DNA by intercalation between base pairs. It inhibits topoisomerase II activity by stabilizing the DNA-topoisomerase II complex, preventing the religation portion of the ligation-religation reaction that topoisomerase II catalyzes.\" ([DailyMed: daunorubicin hydrochloride prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff6b9bd4-8a9f-400f-a0b9-70e25fa8a28f), version från 2025-05-21; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: daunorubicin hydrochloride prescribing information, Meitheal Pharmaceuticals Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff6b9bd4-8a9f-400f-a0b9-70e25fa8a28f",
+     "accessed": "2026-11-19",
+     "excerpt": "Daunorubicin has antimitotic and cytotoxic activity through a number of proposed mechanisms of action. Daunorubicin forms complexes with DNA by intercalation between base pairs. It inhibits topoisomerase II activity by stabilizing the DNA-topoisomerase II complex, preventing the religation portion of the ligation-religation reaction that topoisomerase II catalyzes.",
+     "label_version": "2025-05-21",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "ff6b9bd4-8a9f-400f-a0b9-70e25fa8a28f",
+     "translation": "Daunorubicin har antimitotisk och cytotoxisk aktivitet genom ett antal föreslagna verkningsmekanismer. Daunorubicin bildar komplex med DNA genom interkalering mellan baspar. Det hämmar topoisomeras II-aktiviteten genom att stabilisera DNA-topoisomeras II-komplexet, vilket förhindrar religeringsdelen av den ligerings-religeringsreaktion som topoisomeras II katalyserar.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-decitabine-1",
+   "drug": "decitabine",
+   "file": "decitabine.md",
+   "action": "mechanism",
+   "claim": "Data om verkningsmekanism saknas i den sammanställda informationen.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Decitabine (inofficiell översättning): ”Decitabin tros utöva sina antineoplastiska effekter efter fosforylering och direkt inkorporering i DNA samt hämning av DNA-metyltransferas, vilket orsakar hypometylering av DNA och celldifferentiering eller apoptos. Decitabin hämmar DNA-metylering in vitro, vilket uppnås vid koncentrationer som inte orsakar någon större hämning av DNA-syntesen.” Engelsk originaltext: \"Decitabine is believed to exert its antineoplastic effects after phosphorylation and direct incorporation into DNA and inhibition of DNA methyltransferase, causing hypomethylation of DNA and cellular differentiation or apoptosis. Decitabine inhibits DNA methylation in vitro, which is achieved at concentrations that do not cause major suppression of DNA synthesis.\" ([DailyMed: decitabine prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5975fa81-1e29-4d56-e063-6394a90a9cd5), version från 2026-11-03; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: decitabine prescribing information, BluePoint Laboratories",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5975fa81-1e29-4d56-e063-6394a90a9cd5",
+     "accessed": "2026-11-19",
+     "excerpt": "Decitabine is believed to exert its antineoplastic effects after phosphorylation and direct incorporation into DNA and inhibition of DNA methyltransferase, causing hypomethylation of DNA and cellular differentiation or apoptosis. Decitabine inhibits DNA methylation in vitro, which is achieved at concentrations that do not cause major suppression of DNA synthesis.",
+     "label_version": "2026-11-03",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "5975fa81-1e29-4d56-e063-6394a90a9cd5",
+     "translation": "Decitabin tros utöva sina antineoplastiska effekter efter fosforylering och direkt inkorporering i DNA samt hämning av DNA-metyltransferas, vilket orsakar hypometylering av DNA och celldifferentiering eller apoptos. Decitabin hämmar DNA-metylering in vitro, vilket uppnås vid koncentrationer som inte orsakar någon större hämning av DNA-syntesen.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-deferiprone-1",
+   "drug": "deferiprone",
+   "file": "deferiprone.md",
+   "action": "mechanism",
+   "claim": "Detaljerad data om verkningsmekanismen finns för närvarande inte tillgänglig i det sammanställda underlaget.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Deferiprone (inofficiell översättning): ”Deferipron är en kelerande substans med affinitet för ferrijoner (järn III). Deferipron binder till ferrijoner och bildar neutrala 3:1-komplex (deferipron:järn) som är stabila vid fysiologiskt pH.” Engelsk originaltext: \"Deferiprone is a chelating agent with an affinity for ferric ions (iron III). Deferiprone binds with ferric ions to form neutral 3:1 (deferiprone:iron) complexes that are stable at physiological pH.\" ([DailyMed: Ferriprox (deferiprone) prescribing information, Chiesi USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=946718ff-df43-1baa-74d1-e5bcfbe8ad86), version från 2026-01-28; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Ferriprox (deferiprone) prescribing information, Chiesi USA, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=946718ff-df43-1baa-74d1-e5bcfbe8ad86",
+     "accessed": "2026-11-19",
+     "excerpt": "Deferiprone is a chelating agent with an affinity for ferric ions (iron III). Deferiprone binds with ferric ions to form neutral 3:1 (deferiprone:iron) complexes that are stable at physiological pH.",
+     "label_version": "2026-01-28",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "946718ff-df43-1baa-74d1-e5bcfbe8ad86",
+     "translation": "Deferipron är en kelerande substans med affinitet för ferrijoner (järn III). Deferipron binder till ferrijoner och bildar neutrala 3:1-komplex (deferipron:järn) som är stabila vid fysiologiskt pH.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-diazepam-1",
+   "drug": "diazepam",
+   "file": "diazepam.md",
+   "action": "mechanism",
+   "claim": "Någon detaljerad verkningsmekanismdata finns inte i de sammanställda uppgifterna, men mekanismen är väl beskriven i litteraturen.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Diazepam (inofficiell översättning): ”Verkningsmekanismen för diazepam vid de angivna indikationerna antas innefatta en förstärkning av gamma-aminosmörsyra (GABA), en hämmande signalsubstans, till följd av bindning till bensodiazepinstället på GABA A -receptorn.” Engelsk originaltext: \"The mechanism of action of diazepam for the listed indications is thought to involve potentiation of gamma aminobutyric acid (GABA), an inhibitory neurotransmitter, resulting from binding at the benzodiazepine site of the GABA A receptor.\" ([DailyMed: Valium (diazepam) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=260e2041-2bb3-482f-850e-b5d47a7bdbe6), version från 2026-10-06; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Valium (diazepam) prescribing information, Waylis Therapeutics LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=260e2041-2bb3-482f-850e-b5d47a7bdbe6",
+     "accessed": "2026-11-19",
+     "excerpt": "The mechanism of action of diazepam for the listed indications is thought to involve potentiation of gamma aminobutyric acid (GABA), an inhibitory neurotransmitter, resulting from binding at the benzodiazepine site of the GABA A receptor.",
+     "label_version": "2026-10-06",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "260e2041-2bb3-482f-850e-b5d47a7bdbe6",
+     "translation": "Verkningsmekanismen för diazepam vid de angivna indikationerna antas innefatta en förstärkning av gamma-aminosmörsyra (GABA), en hämmande signalsubstans, till följd av bindning till bensodiazepinstället på GABA A -receptorn.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-diphenhydramine-1",
+   "drug": "diphenhydramine",
+   "file": "diphenhydramine.md",
+   "action": "mechanism",
+   "claim": "Den ursprungliga verkningsmekanismen saknas i underlaget och kunde därför inte kontrolleras mot DrugBank.",
+   "replacement": "Enligt avsnittet ”Clinical Pharmacology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Diphenhydramine (inofficiell översättning): ”Difenhydraminhydroklorid är ett antihistamin med antikolinerga (uttorkande) och sederande biverkningar. Antihistaminer tycks konkurrera med histamin om cellreceptorställen på effektorceller. Difenhydraminhydroklorid i injicerbar form har ett snabbt tillslag.” Engelsk originaltext: \"Diphenhydramine hydrochloride is an antihistamine with anticholinergic (drying) and sedative side effects. Antihistamines appear to compete with histamine for cell receptor sites on effector cells. Diphenhydramine hydrochloride in the injectable form has a rapid onset of action.\" ([DailyMed: diphenhydramine hydrochloride prescribing information, Henry Schein, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af972e71-62ab-40c6-925a-cbcb4d6720a4), version från 2026-10-28; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 Clinical Pharmacology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: diphenhydramine hydrochloride prescribing information, Henry Schein, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af972e71-62ab-40c6-925a-cbcb4d6720a4",
+     "accessed": "2026-11-19",
+     "excerpt": "Diphenhydramine hydrochloride is an antihistamine with anticholinergic (drying) and sedative side effects. Antihistamines appear to compete with histamine for cell receptor sites on effector cells. Diphenhydramine hydrochloride in the injectable form has a rapid onset of action.",
+     "label_version": "2026-10-28",
+     "section": "Clinical Pharmacology",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "af972e71-62ab-40c6-925a-cbcb4d6720a4",
+     "translation": "Difenhydraminhydroklorid är ett antihistamin med antikolinerga (uttorkande) och sederande biverkningar. Antihistaminer tycks konkurrera med histamin om cellreceptorställen på effektorceller. Difenhydraminhydroklorid i injicerbar form har ett snabbt tillslag.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-docetaxel-1",
+   "drug": "docetaxel",
+   "file": "docetaxel.md",
+   "action": "mechanism",
+   "claim": "Detaljerad data om verkningsmekanism finns för närvarande inte tillgänglig i det underlag som sammanställts.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Docetaxel (inofficiell översättning): ”Docetaxel är ett antineoplastiskt medel som verkar genom att störa det mikrotubulära nätverket i celler, vilket är nödvändigt för cellulära funktioner under mitos och interfas. Docetaxel binder till fritt tubulin och främjar sammanfogningen av tubulin till stabila mikrotubuli samtidigt som det hämmar deras nedbrytning.” Engelsk originaltext: \"Docetaxel is an antineoplastic agent that acts by disrupting the microtubular network in cells that is essential for mitotic and interphase cellular functions. Docetaxel binds to free tubulin and promotes the assembly of tubulin into stable microtubules while simultaneously inhibiting their disassembly.\" ([DailyMed: Beizray (docetaxel) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8fb7d980-d6c7-468b-a9f0-adff16101a4b), version från 2025-12-17; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Beizray (docetaxel) prescribing information, Zydus Pharmaceuticals USA Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8fb7d980-d6c7-468b-a9f0-adff16101a4b",
+     "accessed": "2026-11-19",
+     "excerpt": "Docetaxel is an antineoplastic agent that acts by disrupting the microtubular network in cells that is essential for mitotic and interphase cellular functions. Docetaxel binds to free tubulin and promotes the assembly of tubulin into stable microtubules while simultaneously inhibiting their disassembly.",
+     "label_version": "2025-12-17",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "8fb7d980-d6c7-468b-a9f0-adff16101a4b",
+     "translation": "Docetaxel är ett antineoplastiskt medel som verkar genom att störa det mikrotubulära nätverket i celler, vilket är nödvändigt för cellulära funktioner under mitos och interfas. Docetaxel binder till fritt tubulin och främjar sammanfogningen av tubulin till stabila mikrotubuli samtidigt som det hämmar deras nedbrytning.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-famciclovir-1",
+   "drug": "famciclovir",
+   "file": "famciclovir.md",
+   "action": "mechanism",
+   "claim": "Detaljerad data om verkningsmekanismen saknas också i det underlag som sammanställts för rapporten, så resonemanget bygger på allmänt känd farmakologi.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Famciclovir (inofficiell översättning): ”Famciklovir är en oralt administrerad prodrug av det antivirala medlet penciklovir, som är verksamt mot alfaherpesvirus.” Engelsk originaltext: \"Famciclovir is an orally administered prodrug of the anti-alpha herpes viral agent penciclovir.\" ([DailyMed: famciclovir prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2c44b8d2-3b70-4e8b-af03-2e917178f761), version från 2026-11-13; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: famciclovir prescribing information, PD-Rx Pharmaceuticals, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2c44b8d2-3b70-4e8b-af03-2e917178f761",
+     "accessed": "2026-11-19",
+     "excerpt": "Famciclovir is an orally administered prodrug of the anti-alpha herpes viral agent penciclovir.",
+     "label_version": "2026-11-13",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "2c44b8d2-3b70-4e8b-af03-2e917178f761",
+     "translation": "Famciklovir är en oralt administrerad prodrug av det antivirala medlet penciklovir, som är verksamt mot alfaherpesvirus.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-hydrocortisone-1",
+   "drug": "hydrocortisone",
+   "file": "hydrocortisone.md",
+   "action": "mechanism",
+   "claim": "Beskrivning av verkningsmekanismen, som saknas i nuvarande data.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Hydrocortisone (inofficiell översättning): ”Hydrokortison är en glukokortikoid. Glukokortikoider, binjurebarkssteroider, ger upphov till varierande metabola effekter. Dessutom modifierar de kroppens immunsvar på olika stimuli..” Engelsk originaltext: \"Hydrocortisone is a glucocorticoid. Glucocorticoids, adrenocortical steroids, cause varied metabolic effects. In addition, they modify the body's immune responses to diverse stimuli..\" ([DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682), version från 2026-04-21; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682",
+     "accessed": "2026-11-19",
+     "excerpt": "Hydrocortisone is a glucocorticoid. Glucocorticoids, adrenocortical steroids, cause varied metabolic effects. In addition, they modify the body's immune responses to diverse stimuli..",
+     "label_version": "2026-04-21",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "26c13a5f-7119-4c6a-bf10-fda4e07d7682",
+     "translation": "Hydrokortison är en glukokortikoid. Glukokortikoider, binjurebarkssteroider, ger upphov till varierande metabola effekter. Dessutom modifierar de kroppens immunsvar på olika stimuli..",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-irbesartan-1",
+   "drug": "irbesartan",
+   "file": "irbesartan.md",
+   "action": "mechanism",
+   "claim": "Någon detaljerad verkningsmekanismdata finns för närvarande inte tillgänglig.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Irbesartan (inofficiell översättning): ”Angiotensin II är en potent vasokonstriktor som bildas från angiotensin I i en reaktion som katalyseras av angiotensinkonverterande enzym (ACE, kininas II). Angiotensin II är det primära vasoaktiva hormonet i renin-angiotensinsystemet och en viktig komponent i patofysiologin vid hypertoni. […] Irbesartan blockerar de vasokonstriktiva och aldosteronfrisättande effekterna av angiotensin II genom att selektivt binda till AT 1 -angiotensin II-receptorn, som finns i många vävnader (t.ex. glatt muskulatur i kärl, binjure).” Engelsk originaltext: \"Angiotensin II is a potent vasoconstrictor formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the primary vasoactive hormone of the renin-angiotensin system, and an important component in the pathophysiology of hypertension. […] Irbesartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively binding to the AT 1 angiotensin II receptor found in many tissues (e.g., vascular smooth muscle, adrenal gland).\" ([DailyMed: Avapro (irbesartan) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7885b2a8-be4e-48ab-8113-4e6ab791eb98), version från 2026-08-24; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Avapro (irbesartan) prescribing information, Sanofi-Aventis U.S. LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7885b2a8-be4e-48ab-8113-4e6ab791eb98",
+     "accessed": "2026-11-19",
+     "excerpt": "Angiotensin II is a potent vasoconstrictor formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the primary vasoactive hormone of the renin-angiotensin system, and an important component in the pathophysiology of hypertension. […] Irbesartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively binding to the AT 1 angiotensin II receptor found in many tissues (e.g., vascular smooth muscle, adrenal gland).",
+     "label_version": "2026-08-24",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "7885b2a8-be4e-48ab-8113-4e6ab791eb98",
+     "translation": "Angiotensin II är en potent vasokonstriktor som bildas från angiotensin I i en reaktion som katalyseras av angiotensinkonverterande enzym (ACE, kininas II). Angiotensin II är det primära vasoaktiva hormonet i renin-angiotensinsystemet och en viktig komponent i patofysiologin vid hypertoni. […] Irbesartan blockerar de vasokonstriktiva och aldosteronfrisättande effekterna av angiotensin II genom att selektivt binda till AT 1 -angiotensin II-receptorn, som finns i många vävnader (t.ex. glatt muskulatur i kärl, binjure).",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-ivermectin-1",
+   "drug": "ivermectin",
+   "file": "ivermectin.md",
+   "action": "mechanism",
+   "claim": "Verkningsmekanismdata (saknas i underlaget) och en genomgång av mekanistiskt samband.",
+   "replacement": "Enligt avsnittet ”Clinical Pharmacology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Ivermectin (inofficiell översättning): ”In vitro-studier med humana levermikrosomer och rekombinanta CYP450-enzymer har visat att ivermektin huvudsakligen metaboliseras av CYP3A4.” Engelsk originaltext: \"In vitro studies using human liver microsomes and recombinant CYP450 enzymes have shown that ivermectin is primarily metabolized by CYP3A4.\" ([DailyMed: Stromectol (ivermectin) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=681888c9-af79-4b7d-ae80-c3f4f6f1effd), version från 2024-09-20; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 Clinical Pharmacology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Stromectol (ivermectin) prescribing information, Merck Sharp & Dohme LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=681888c9-af79-4b7d-ae80-c3f4f6f1effd",
+     "accessed": "2026-11-19",
+     "excerpt": "In vitro studies using human liver microsomes and recombinant CYP450 enzymes have shown that ivermectin is primarily metabolized by CYP3A4.",
+     "label_version": "2024-09-20",
+     "section": "Clinical Pharmacology",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "681888c9-af79-4b7d-ae80-c3f4f6f1effd",
+     "translation": "In vitro-studier med humana levermikrosomer och rekombinanta CYP450-enzymer har visat att ivermektin huvudsakligen metaboliseras av CYP3A4.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-lamivudine-1",
+   "drug": "lamivudine",
+   "file": "lamivudine.md",
+   "action": "mechanism",
+   "claim": "Någon detaljerad verkningsmekanismdata finns för närvarande inte tillgänglig.",
+   "replacement": "Enligt avsnitten ”Mechanism of Action” och ”Microbiology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Lamivudine (inofficiell översättning): ”Lamivudin är ett antiretroviralt medel. […] Lamivudin är en syntetisk nukleosidanalog. Intracellulärt fosforyleras lamivudin till sin aktiva 5′-trifosfatmetabolit, lamivudintrifosfat (3TC-TP). Den huvudsakliga verkningsmekanismen för 3TC-TP är hämning av HIV-1 omvänt transkriptas (RT) via DNA-kedjeterminering efter inkorporering av nukleotidanalogen.” Engelsk originaltext: \"Lamivudine is an antiretroviral agent. […] Lamivudine is a synthetic nucleoside analogue. Intracellularly, lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate (3TC-TP). The principal mode of action of 3TC-TP is inhibition of HIV-1 reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue.\" ([DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8), version från 2024-08-15; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action; 12.4 Microbiology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8",
+     "accessed": "2026-11-19",
+     "excerpt": "Lamivudine is an antiretroviral agent. […] Lamivudine is a synthetic nucleoside analogue. Intracellularly, lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate (3TC-TP). The principal mode of action of 3TC-TP is inhibition of HIV-1 reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue.",
+     "label_version": "2024-08-15",
+     "section": "12.1 Mechanism of Action; 12.4 Microbiology",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "89226149-47fa-4f7d-bb1f-1aa7034486b8",
+     "translation": "Lamivudin är ett antiretroviralt medel. […] Lamivudin är en syntetisk nukleosidanalog. Intracellulärt fosforyleras lamivudin till sin aktiva 5′-trifosfatmetabolit, lamivudintrifosfat (3TC-TP). Den huvudsakliga verkningsmekanismen för 3TC-TP är hämning av HIV-1 omvänt transkriptas (RT) via DNA-kedjeterminering efter inkorporering av nukleotidanalogen.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-lenalidomide-1",
+   "drug": "lenalidomide",
+   "file": "lenalidomide.md",
+   "action": "mechanism",
+   "claim": "Observera att detaljerad verkningsmekanismdata saknas i den datakälla som sammanställts för rapporten.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Lenalidomide (inofficiell översättning): ”Lenalidomid är en analog till talidomid med immunmodulerande, antiangiogena och antineoplastiska egenskaper. Lenalidomids cellulära effekter medieras via dess målprotein cereblon, en komponent i ett cullin-RING E3-ubikitinligas-enzymkomplex.” Engelsk originaltext: \"Lenalidomide is an analogue of thalidomide with immunomodulatory, antiangiogenic, and antineoplastic properties. Cellular activities of lenalidomide are mediated through its target cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme complex.\" ([DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be), version från 2023-03-24; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be",
+     "accessed": "2026-11-19",
+     "excerpt": "Lenalidomide is an analogue of thalidomide with immunomodulatory, antiangiogenic, and antineoplastic properties. Cellular activities of lenalidomide are mediated through its target cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme complex.",
+     "label_version": "2023-03-24",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "5fa97bf5-28a2-48f1-8955-f56012d296be",
+     "translation": "Lenalidomid är en analog till talidomid med immunmodulerande, antiangiogena och antineoplastiska egenskaper. Lenalidomids cellulära effekter medieras via dess målprotein cereblon, en komponent i ett cullin-RING E3-ubikitinligas-enzymkomplex.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-lomustine-1",
+   "drug": "lomustine",
+   "file": "lomustine.md",
+   "action": "mechanism",
+   "claim": "Detaljerade uppgifter om verkningsmekanismen finns inte i de data som sammanställts för rapporten, så resonemanget bygger på känd farmakologi för läkemedelsklassen.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Lomustine (inofficiell översättning): ”Lomustin alkylerar DNA och RNA. Liksom andra nitrosoureor kan det även hämma flera viktiga enzymatiska processer genom karbamoylering av aminosyror i proteiner.” Engelsk originaltext: \"Lomustine alkylates DNA and RNA. As with other nitrosoureas, it may also inhibit several key enzymatic processes by carbamoylation of amino acids in proteins.\" ([DailyMed: Gleostine (lomustine) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3529fe2f-3c23-4862-bb20-b48026957082), version från 2025-09-25; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Gleostine (lomustine) prescribing information, Azurity Pharmaceuticals, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3529fe2f-3c23-4862-bb20-b48026957082",
+     "accessed": "2026-11-19",
+     "excerpt": "Lomustine alkylates DNA and RNA. As with other nitrosoureas, it may also inhibit several key enzymatic processes by carbamoylation of amino acids in proteins.",
+     "label_version": "2025-09-25",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "3529fe2f-3c23-4862-bb20-b48026957082",
+     "translation": "Lomustin alkylerar DNA och RNA. Liksom andra nitrosoureor kan det även hämma flera viktiga enzymatiska processer genom karbamoylering av aminosyror i proteiner.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-methadone-1",
+   "drug": "methadone",
+   "file": "methadone.md",
+   "action": "mechanism",
+   "claim": "Detaljerade uppgifter om verkningsmekanismen saknas i de data som sammanställts.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Methadone (inofficiell översättning): ”Metadonhydroklorid är en mu-agonist; en syntetisk opioid med flera effekter som kvalitativt liknar morfinets, varav de mest framträdande involverar centrala nervsystemet och organ som består av glatt muskulatur. Abstinenssyndromet vid metadon liknar kvalitativt det vid morfin, men skiljer sig genom att debuten är långsammare, förloppet är mer utdraget och symtomen är mindre svåra.” Engelsk originaltext: \"Methadone hydrochloride is a mu-agonist; a synthetic opioid with multiple actions qualitatively similar to those of morphine, the most prominent of which involves the central nervous system and organs composed of smooth muscle. The methadone withdrawal syndrome, although qualitatively similar to that of morphine, differs in that the onset is slower, the course is more prolonged, and the symptoms are less severe.\" ([DailyMed: Methadose Dispersible (methadone hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=544483e6-6f9d-4371-9e93-313e54e0ea05), version från 2026-08-04; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Methadose Dispersible (methadone hydrochloride) prescribing information, SpecGx LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=544483e6-6f9d-4371-9e93-313e54e0ea05",
+     "accessed": "2026-11-19",
+     "excerpt": "Methadone hydrochloride is a mu-agonist; a synthetic opioid with multiple actions qualitatively similar to those of morphine, the most prominent of which involves the central nervous system and organs composed of smooth muscle. The methadone withdrawal syndrome, although qualitatively similar to that of morphine, differs in that the onset is slower, the course is more prolonged, and the symptoms are less severe.",
+     "label_version": "2026-08-04",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "544483e6-6f9d-4371-9e93-313e54e0ea05",
+     "translation": "Metadonhydroklorid är en mu-agonist; en syntetisk opioid med flera effekter som kvalitativt liknar morfinets, varav de mest framträdande involverar centrala nervsystemet och organ som består av glatt muskulatur. Abstinenssyndromet vid metadon liknar kvalitativt det vid morfin, men skiljer sig genom att debuten är långsammare, förloppet är mer utdraget och symtomen är mindre svåra.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-methoxsalen-1",
+   "drug": "methoxsalen",
+   "file": "methoxsalen.md",
+   "action": "mechanism",
+   "claim": "Någon detaljerad verkningsmekanismdata finns för närvarande inte tillgänglig.",
+   "replacement": "Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Methoxsalen (inofficiell översättning): ”DNA-hämmare” Engelsk originaltext: \"DNA inhibitor\" ([ChEMBL CHEMBL416 (methoxsalen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416), CC BY-SA 3.0; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "ChEMBL CHEMBL416 (methoxsalen): drug mechanism",
+     "url": "https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416",
+     "accessed": "2026-11-19",
+     "excerpt": "DNA inhibitor",
+     "via": "ChEMBL web services (https://www.ebi.ac.uk/chembl/api/data/docs), CC BY-SA 3.0",
+     "chembl_id": "CHEMBL416",
+     "translation": "DNA-hämmare",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-modafinil-1",
+   "drug": "modafinil",
+   "file": "modafinil.md",
+   "action": "mechanism",
+   "claim": "Detaljerade uppgifter om verkningsmekanismen finns för närvarande inte tillgängliga i den sammanställda datan.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Modafinil (inofficiell översättning): ”Den eller de mekanismer genom vilka modafinil främjar vakenhet är okända. Modafinil har vakenhetsfrämjande effekter som liknar dem hos sympatomimetiska medel, inklusive amfetamin och metylfenidat, även om den farmakologiska profilen inte är identisk med de sympatomimetiska aminernas.” Engelsk originaltext: \"The mechanism(s) through which modafinil promotes wakefulness is unknown. Modafinil has wake-promoting actions similar to sympathomimetic agents including amphetamine and methylphenidate, although the pharmacologic profile is not identical to that of the sympathomimetic amines.\" ([DailyMed: Provigil (modafinil) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0391f182-1958-9fef-a944-53b229ce99e7), version från 2026-09-16; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Provigil (modafinil) prescribing information, Apotex Corp",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0391f182-1958-9fef-a944-53b229ce99e7",
+     "accessed": "2026-11-19",
+     "excerpt": "The mechanism(s) through which modafinil promotes wakefulness is unknown. Modafinil has wake-promoting actions similar to sympathomimetic agents including amphetamine and methylphenidate, although the pharmacologic profile is not identical to that of the sympathomimetic amines.",
+     "label_version": "2026-09-16",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "0391f182-1958-9fef-a944-53b229ce99e7",
+     "translation": "Den eller de mekanismer genom vilka modafinil främjar vakenhet är okända. Modafinil har vakenhetsfrämjande effekter som liknar dem hos sympatomimetiska medel, inklusive amfetamin och metylfenidat, även om den farmakologiska profilen inte är identisk med de sympatomimetiska aminernas.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-montelukast-1",
+   "drug": "montelukast",
+   "file": "montelukast.md",
+   "action": "mechanism",
+   "claim": "Detaljerad data om verkningsmekanismen saknas för närvarande i det underlag som sammanställts.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Montelukast (inofficiell översättning): ”Cysteinylleukotrienerna (LTC 4, LTD 4, LTE 4 ) är produkter av arakidonsyrametabolismen och frisätts från olika celler, inklusive mastceller och eosinofiler. Dessa eikosanoider binder till cysteinylleukotrienreceptorer (CysLT-receptorer). […] Montelukast är en oralt aktiv substans som binder med hög affinitet och selektivitet till CysLT 1 -receptorn (framför andra farmakologiskt viktiga receptorer i luftvägarna, såsom prostanoid-, kolinerga eller β-adrenerga receptorer).” Engelsk originaltext: \"The cysteinyl leukotrienes (LTC 4, LTD 4, LTE 4 ) are products of arachidonic acid metabolism and are released from various cells, including mast cells and eosinophils. These eicosanoids bind to cysteinyl leukotriene (CysLT) receptors. […] Montelukast is an orally active compound that binds with high affinity and selectivity to the CysLT 1 receptor (in preference to other pharmacologically important airway receptors, such as the prostanoid, cholinergic, or β-adrenergic receptor).\" ([DailyMed: Singulair (montelukast sodium) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=482dcc92-b47f-4ea6-854a-f5ac2aea7842), version från 2025-04-30; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Singulair (montelukast sodium) prescribing information, Organon LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=482dcc92-b47f-4ea6-854a-f5ac2aea7842",
+     "accessed": "2026-11-19",
+     "excerpt": "The cysteinyl leukotrienes (LTC 4, LTD 4, LTE 4 ) are products of arachidonic acid metabolism and are released from various cells, including mast cells and eosinophils. These eicosanoids bind to cysteinyl leukotriene (CysLT) receptors. […] Montelukast is an orally active compound that binds with high affinity and selectivity to the CysLT 1 receptor (in preference to other pharmacologically important airway receptors, such as the prostanoid, cholinergic, or β-adrenergic receptor).",
+     "label_version": "2025-04-30",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "482dcc92-b47f-4ea6-854a-f5ac2aea7842",
+     "translation": "Cysteinylleukotrienerna (LTC 4, LTD 4, LTE 4 ) är produkter av arakidonsyrametabolismen och frisätts från olika celler, inklusive mastceller och eosinofiler. Dessa eikosanoider binder till cysteinylleukotrienreceptorer (CysLT-receptorer). […] Montelukast är en oralt aktiv substans som binder med hög affinitet och selektivitet till CysLT 1 -receptorn (framför andra farmakologiskt viktiga receptorer i luftvägarna, såsom prostanoid-, kolinerga eller β-adrenerga receptorer).",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-moxonidine-1",
+   "drug": "moxonidine",
+   "file": "moxonidine.md",
+   "action": "mechanism",
+   "claim": "Eftersom verkningsmekanismen saknas i underlaget går sambandet inte att validera ytterligare.",
+   "replacement": "Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Moxonidine (inofficiell översättning): ”Nischarinagonist” Engelsk originaltext: \"Nischarin agonist\" ([ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236), CC BY-SA 3.0; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "ChEMBL CHEMBL19236 (moxonidine): drug mechanism",
+     "url": "https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236",
+     "accessed": "2026-11-19",
+     "excerpt": "Nischarin agonist",
+     "via": "ChEMBL web services (https://www.ebi.ac.uk/chembl/api/data/docs), CC BY-SA 3.0",
+     "chembl_id": "CHEMBL19236",
+     "translation": "Nischarinagonist",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-nabumetone-1",
+   "drug": "nabumetone",
+   "file": "nabumetone.md",
+   "action": "mechanism",
+   "claim": "Någon detaljerad uppgift om verkningsmekanismen finns inte i de data som sammanställts för denna rapport, så den mekanistiska bedömningen är begränsad.",
+   "replacement": "Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Nabumetone (inofficiell översättning): ”Cyklooxygenas-2-hämmare” Engelsk originaltext: \"Cyclooxygenase-2 inhibitor\" ([ChEMBL CHEMBL1070 (nabumetone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1070), CC BY-SA 3.0; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "ChEMBL CHEMBL1070 (nabumetone): drug mechanism",
+     "url": "https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1070",
+     "accessed": "2026-11-19",
+     "excerpt": "Cyclooxygenase-2 inhibitor",
+     "via": "ChEMBL web services (https://www.ebi.ac.uk/chembl/api/data/docs), CC BY-SA 3.0",
+     "chembl_id": "CHEMBL1070",
+     "translation": "Cyklooxygenas-2-hämmare",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-nimodipine-1",
+   "drug": "nimodipine",
+   "file": "nimodipine.md",
+   "action": "mechanism",
+   "claim": "Detaljerad verkningsmekanismdata finns inte i det underlag som sammanställts för denna rapport.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Nimodipine (inofficiell översättning): ”Nimodipin är en kalciumkanalblockerare av dihydropyridintyp. Kontraktionsprocesserna i glatta muskelceller är beroende av kalciumjoner, som tränger in i dessa celler under depolarisering i form av långsamma transmembrana jonströmmar.” Engelsk originaltext: \"Nimodipine is a dihydropyridine calcium channel blocker. The contractile processes of smooth muscle cells are dependent upon calcium ions, which enter these cells during depolarization as slow ionic transmembrane currents.\" ([DailyMed: Nymalize (nimodipine) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e660fa26-b5c4-4d6d-8887-9e22b6666a10), version från 2024-08-30; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Nymalize (nimodipine) prescribing information, Azurity Pharmaceuticals, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e660fa26-b5c4-4d6d-8887-9e22b6666a10",
+     "accessed": "2026-11-19",
+     "excerpt": "Nimodipine is a dihydropyridine calcium channel blocker. The contractile processes of smooth muscle cells are dependent upon calcium ions, which enter these cells during depolarization as slow ionic transmembrane currents.",
+     "label_version": "2024-08-30",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "e660fa26-b5c4-4d6d-8887-9e22b6666a10",
+     "translation": "Nimodipin är en kalciumkanalblockerare av dihydropyridintyp. Kontraktionsprocesserna i glatta muskelceller är beroende av kalciumjoner, som tränger in i dessa celler under depolarisering i form av långsamma transmembrana jonströmmar.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-oxaliplatin-1",
+   "drug": "oxaliplatin",
+   "file": "oxaliplatin.md",
+   "action": "mechanism",
+   "claim": "Någon detaljerad verkningsmekanismdata är inte tillgänglig för närvarande.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Oxaliplatin (inofficiell översättning): ”Oxaliplatin genomgår icke-enzymatisk omvandling i fysiologiska lösningar till aktiva derivat genom ersättning av den labila oxalatliganden. Flera kortlivade reaktiva former bildas, däribland monoakvo- och diakvo-DACH-platina, som binder kovalent till makromolekyler.” Engelsk originaltext: \"Oxaliplatin undergoes nonenzymatic conversion in physiologic solutions to active derivatives via displacement of the labile oxalate ligand. Several transient reactive species are formed, including monoaquo and diaquo DACH platinum, which covalently bind with macromolecules.\" ([DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5), version från 2026-08-24; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: oxaliplatin prescribing information, Gland Pharma Limited",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5",
+     "accessed": "2026-11-19",
+     "excerpt": "Oxaliplatin undergoes nonenzymatic conversion in physiologic solutions to active derivatives via displacement of the labile oxalate ligand. Several transient reactive species are formed, including monoaquo and diaquo DACH platinum, which covalently bind with macromolecules.",
+     "label_version": "2026-08-24",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "a6f89dc3-a594-4b5b-8728-272e20c1ecb5",
+     "translation": "Oxaliplatin genomgår icke-enzymatisk omvandling i fysiologiska lösningar till aktiva derivat genom ersättning av den labila oxalatliganden. Flera kortlivade reaktiva former bildas, däribland monoakvo- och diakvo-DACH-platina, som binder kovalent till makromolekyler.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-pazopanib-1",
+   "drug": "pazopanib",
+   "file": "pazopanib.md",
+   "action": "mechanism",
+   "claim": "Någon detaljerad verkningsmekanismdata finns inte i den sammanställda källan.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Pazopanib (inofficiell översättning): ”Pazopanib är en multityrosinkinashämmare av vaskulär endotelial tillväxtfaktorreceptor (VEGFR)-1, VEGFR-2, VEGFR-3, trombocytderiverad tillväxtfaktorreceptor (PDGFR)-α och -β, fibroblasttillväxtfaktorreceptor (FGFR)-1 och -3, cytokinreceptor (Kit), interleukin-2-receptorinducerbart T-cellskinas (Itk), lymfocytspecifikt proteintyrosinkinas (Lck) och transmembranglykoproteinreceptortyrosinkinas (c-Fms). In vitro hämmade pazopanib ligandinducerad autofosforylering av VEGFR-2-, Kit- och PDGFR-β-receptorer.” Engelsk originaltext: \"Pazopanib is a multi-tyrosine kinase inhibitor of vascular endothelial growth factor receptor (VEGFR)-1, VEGFR-2, VEGFR-3, platelet-derived growth factor receptor (PDGFR)-α and -β, fibroblast growth factor receptor (FGFR)-1 and -3, cytokine receptor (Kit), interleukin-2 receptor-inducible T-cell kinase (Itk), lymphocyte-specific protein tyrosine kinase (Lck), and transmembrane glycoprotein receptor tyrosine kinase (c-Fms). In vitro, pazopanib inhibited ligand-induced autophosphorylation of VEGFR-2, Kit, and PDGFR-β receptors.\" ([DailyMed: Votrient (pazopanib hydrochloride) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eeaaaf38-fb86-4d9f-a19d-0f61daac2fd7), version från 2025-12-16; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Votrient (pazopanib hydrochloride) prescribing information, Novartis Pharmaceuticals Corporation",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eeaaaf38-fb86-4d9f-a19d-0f61daac2fd7",
+     "accessed": "2026-11-19",
+     "excerpt": "Pazopanib is a multi-tyrosine kinase inhibitor of vascular endothelial growth factor receptor (VEGFR)-1, VEGFR-2, VEGFR-3, platelet-derived growth factor receptor (PDGFR)-α and -β, fibroblast growth factor receptor (FGFR)-1 and -3, cytokine receptor (Kit), interleukin-2 receptor-inducible T-cell kinase (Itk), lymphocyte-specific protein tyrosine kinase (Lck), and transmembrane glycoprotein receptor tyrosine kinase (c-Fms). In vitro, pazopanib inhibited ligand-induced autophosphorylation of VEGFR-2, Kit, and PDGFR-β receptors.",
+     "label_version": "2025-12-16",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "eeaaaf38-fb86-4d9f-a19d-0f61daac2fd7",
+     "translation": "Pazopanib är en multityrosinkinashämmare av vaskulär endotelial tillväxtfaktorreceptor (VEGFR)-1, VEGFR-2, VEGFR-3, trombocytderiverad tillväxtfaktorreceptor (PDGFR)-α och -β, fibroblasttillväxtfaktorreceptor (FGFR)-1 och -3, cytokinreceptor (Kit), interleukin-2-receptorinducerbart T-cellskinas (Itk), lymfocytspecifikt proteintyrosinkinas (Lck) och transmembranglykoproteinreceptortyrosinkinas (c-Fms). In vitro hämmade pazopanib ligandinducerad autofosforylering av VEGFR-2-, Kit- och PDGFR-β-receptorer.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-pemetrexed-1",
+   "drug": "pemetrexed",
+   "file": "pemetrexed.md",
+   "action": "mechanism",
+   "claim": "Någon detaljerad verkningsmekanismdata finns inte tillgänglig i den sammanställda datan.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Pemetrexed (inofficiell översättning): ”Pemetrexed är en metabolisk hämmare och folatanalog som stör folatberoende metaboliska processer som är nödvändiga för cellreplikation. In vitro-studier visar att pemetrexed hämmar tymidylatsyntas (TS), dihydrofolatreduktas (DHFR) och glycinamidribonukleotidformyltransferas (GARFT), som är folatberoende enzymer involverade i de novo-biosyntesen av tymidin- och purinnukleotider.” Engelsk originaltext: \"Pemetrexed is a folate analog metabolic inhibitor that disrupts folate-dependent metabolic processes essential for cell replication. In vitro studies show that pemetrexed inhibits thymidylate synthase (TS), dihydrofolate reductase (DHFR), and glycinamide ribonucleotide formyltransferase (GARFT), which are folate-dependent enzymes involved in the de novo biosynthesis of thymidine and purine nucleotides.\" ([DailyMed: Pemfexy (pemetrexed) prescribing information, Acacia Pharma, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=caef07ce-066b-4c48-98dc-974b05ebbbe0), version från 2026-06-18; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Pemfexy (pemetrexed) prescribing information, Acacia Pharma, Ltd.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=caef07ce-066b-4c48-98dc-974b05ebbbe0",
+     "accessed": "2026-11-19",
+     "excerpt": "Pemetrexed is a folate analog metabolic inhibitor that disrupts folate-dependent metabolic processes essential for cell replication. In vitro studies show that pemetrexed inhibits thymidylate synthase (TS), dihydrofolate reductase (DHFR), and glycinamide ribonucleotide formyltransferase (GARFT), which are folate-dependent enzymes involved in the de novo biosynthesis of thymidine and purine nucleotides.",
+     "label_version": "2026-06-18",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "caef07ce-066b-4c48-98dc-974b05ebbbe0",
+     "translation": "Pemetrexed är en metabolisk hämmare och folatanalog som stör folatberoende metaboliska processer som är nödvändiga för cellreplikation. In vitro-studier visar att pemetrexed hämmar tymidylatsyntas (TS), dihydrofolatreduktas (DHFR) och glycinamidribonukleotidformyltransferas (GARFT), som är folatberoende enzymer involverade i de novo-biosyntesen av tymidin- och purinnukleotider.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-pimecrolimus-1",
+   "drug": "pimecrolimus",
+   "file": "pimecrolimus.md",
+   "action": "mechanism",
+   "claim": "Detaljerad verkningsmekanismdata saknas i den sammanställda datan, men kalcineurinhämningen är väl beskriven i litteraturen.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Pimecrolimus (inofficiell översättning): ”Verkningsmekanismen för pimekrolimus vid atopisk dermatit är inte känd. Även om följande har observerats är den kliniska betydelsen av dessa observationer vid atopisk dermatit inte känd. Det har visats att pimekrolimus binder med hög affinitet till makrofilin-12 (FKBP-12) och hämmar det kalciumberoende fosfataset kalcineurin.” Engelsk originaltext: \"The mechanism of action of pimecrolimus in atopic dermatitis is not known. While the following have been observed, the clinical significance of these observations in atopic dermatitis is not known. It has been demonstrated that pimecrolimus binds with high affinity to macrophilin-12 (FKBP-12) and inhibits the calcium-dependent phosphatase, calcineurin.\" ([DailyMed: pimecrolimus prescribing information, Oceanside Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6601e43e-ce7d-446a-8568-8e7b24b86f06), version från 2026-04-30; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: pimecrolimus prescribing information, Oceanside Pharmaceuticals",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6601e43e-ce7d-446a-8568-8e7b24b86f06",
+     "accessed": "2026-11-19",
+     "excerpt": "The mechanism of action of pimecrolimus in atopic dermatitis is not known. While the following have been observed, the clinical significance of these observations in atopic dermatitis is not known. It has been demonstrated that pimecrolimus binds with high affinity to macrophilin-12 (FKBP-12) and inhibits the calcium-dependent phosphatase, calcineurin.",
+     "label_version": "2026-04-30",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "6601e43e-ce7d-446a-8568-8e7b24b86f06",
+     "translation": "Verkningsmekanismen för pimekrolimus vid atopisk dermatit är inte känd. Även om följande har observerats är den kliniska betydelsen av dessa observationer vid atopisk dermatit inte känd. Det har visats att pimekrolimus binder med hög affinitet till makrofilin-12 (FKBP-12) och hämmar det kalciumberoende fosfataset kalcineurin.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-prasugrel-1",
+   "drug": "prasugrel",
+   "file": "prasugrel.md",
+   "action": "mechanism",
+   "claim": "Detaljerad verkningsmekanismdata finns inte i de sammanställda uppgifterna, men läkemedlets klassverkan är väl känd och används för att förebygga blodproppar vid akut koronarsyndrom.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Prasugrel (inofficiell översättning): ”Prasugrel är en hämmare av trombocytaktivering och trombocytaggregation genom att dess aktiva metabolit binder irreversibelt till P2Y 12-klassen av ADP-receptorer på trombocyterna.” Engelsk originaltext: \"Prasugrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets.\" ([DailyMed: Effient (prasugrel hydrochloride) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69ea2d58-5353-4222-b61f-cab976fa7e5e), version från 2022-09-07; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Effient (prasugrel hydrochloride) prescribing information, Cosette Pharmaceuticals, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69ea2d58-5353-4222-b61f-cab976fa7e5e",
+     "accessed": "2026-11-19",
+     "excerpt": "Prasugrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets.",
+     "label_version": "2022-09-07",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "69ea2d58-5353-4222-b61f-cab976fa7e5e",
+     "translation": "Prasugrel är en hämmare av trombocytaktivering och trombocytaggregation genom att dess aktiva metabolit binder irreversibelt till P2Y 12-klassen av ADP-receptorer på trombocyterna.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-probenecid-1",
+   "drug": "probenecid",
+   "file": "probenecid.md",
+   "action": "mechanism",
+   "claim": "Någon detaljerad verkningsmekanismdata finns inte tillgänglig i det sammanställda underlaget.",
+   "replacement": "Enligt avsnittet ”Clinical Pharmacology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Probenecid (inofficiell översättning): ”Probenecid är ett urikosuriskt medel och ett medel som blockerar njurtubuli.” Engelsk originaltext: \"Probenecid is a uricosuric and renal tubular blocking agent.\" ([DailyMed: probenecid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65b4888c-d49a-433f-9bfd-17880ae40069), version från 2026-11-06; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 Clinical Pharmacology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: probenecid prescribing information, REMEDYREPACK INC.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65b4888c-d49a-433f-9bfd-17880ae40069",
+     "accessed": "2026-11-19",
+     "excerpt": "Probenecid is a uricosuric and renal tubular blocking agent.",
+     "label_version": "2026-11-06",
+     "section": "Clinical Pharmacology",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "65b4888c-d49a-433f-9bfd-17880ae40069",
+     "translation": "Probenecid är ett urikosuriskt medel och ett medel som blockerar njurtubuli.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-propafenone-1",
+   "drug": "propafenone",
+   "file": "propafenone.md",
+   "action": "mechanism",
+   "claim": "Produktresumé för propafenon, eftersom det saknas data om varningar och kontraindikationer samt verkningsmekanism i underlaget.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Propafenone (inofficiell översättning): ”Propafenon är ett antiarytmikum av klass 1C med lokalanestetiska effekter och en direkt stabiliserande verkan på myokardiets membran. Den elektrofysiologiska effekten av propafenon yttrar sig som en minskning av uppslagshastigheten (fas 0) i den monofasiska aktionspotentialen.” Engelsk originaltext: \"Propafenone is a Class 1C antiarrhythmic drug with local anesthetic effects, and a direct stabilizing action on myocardial membranes. The electrophysiological effect of propafenone manifests itself in a reduction of upstroke velocity (Phase 0) of the monophasic action potential.\" ([DailyMed: propafenone hydrochloride prescribing information, Northstar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2ecd6452-ccc3-493f-9a4a-69f0fbf67a42), version från 2026-06-04; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: propafenone hydrochloride prescribing information, Northstar Rx LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2ecd6452-ccc3-493f-9a4a-69f0fbf67a42",
+     "accessed": "2026-11-19",
+     "excerpt": "Propafenone is a Class 1C antiarrhythmic drug with local anesthetic effects, and a direct stabilizing action on myocardial membranes. The electrophysiological effect of propafenone manifests itself in a reduction of upstroke velocity (Phase 0) of the monophasic action potential.",
+     "label_version": "2026-06-04",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "2ecd6452-ccc3-493f-9a4a-69f0fbf67a42",
+     "translation": "Propafenon är ett antiarytmikum av klass 1C med lokalanestetiska effekter och en direkt stabiliserande verkan på myokardiets membran. Den elektrofysiologiska effekten av propafenon yttrar sig som en minskning av uppslagshastigheten (fas 0) i den monofasiska aktionspotentialen.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-propofol-1",
+   "drug": "propofol",
+   "file": "propofol.md",
+   "action": "mechanism",
+   "claim": "Någon detaljerad verkningsmekanismdata finns inte tillgänglig i det sammanställda underlaget.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Propofol (inofficiell översättning): ”Verkningsmekanismen är, liksom för alla allmänanestetika, ofullständigt känd. Propofol anses dock utöva sina sedativa/anestetiska effekter genom positiv modulering av den hämmande funktionen hos signalsubstansen GABA via de ligandstyrda GABA A-receptorerna.” Engelsk originaltext: \"The mechanism of action, like all general anesthetics, is poorly understood. However, propofol is thought to produce its sedative/anesthetic effects by the positive modulation of the inhibitory function of the neurotransmitter GABA through the ligand-gated GABA A receptors.\" ([DailyMed: Diprivan (propofol) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3105799-a4b6-f3f4-e6e2-b2b29bbdb538), version från 2025-09-11; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Diprivan (propofol) prescribing information, Fresenius Kabi USA, LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3105799-a4b6-f3f4-e6e2-b2b29bbdb538",
+     "accessed": "2026-11-19",
+     "excerpt": "The mechanism of action, like all general anesthetics, is poorly understood. However, propofol is thought to produce its sedative/anesthetic effects by the positive modulation of the inhibitory function of the neurotransmitter GABA through the ligand-gated GABA A receptors.",
+     "label_version": "2025-09-11",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "e3105799-a4b6-f3f4-e6e2-b2b29bbdb538",
+     "translation": "Verkningsmekanismen är, liksom för alla allmänanestetika, ofullständigt känd. Propofol anses dock utöva sina sedativa/anestetiska effekter genom positiv modulering av den hämmande funktionen hos signalsubstansen GABA via de ligandstyrda GABA A-receptorerna.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-raltegravir-1",
+   "drug": "raltegravir",
+   "file": "raltegravir.md",
+   "action": "mechanism",
+   "claim": "Detaljerad data om verkningsmekanismen finns för närvarande inte tillgänglig i de sammanställda data.",
+   "replacement": "Enligt avsnitten ”Mechanism of Action” och ”Microbiology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Raltegravir (inofficiell översättning): ”Raltegravir är ett antiviralt läkemedel mot hiv-1. […] Raltegravir hämmar den katalytiska aktiviteten hos hiv-1-integras, ett hiv-1-kodat enzym som krävs för virusreplikation. Hämning av integras förhindrar den kovalenta insättningen, eller integreringen, av ointegrerat linjärt hiv-1-DNA i värdcellens genom, vilket förhindrar bildningen av hiv-1-provirus.” Engelsk originaltext: \"Raltegravir is an HIV-1 antiviral drug. […] Raltegravir inhibits the catalytic activity of HIV-1 integrase, an HIV-1 encoded enzyme that is required for viral replication. Inhibition of integrase prevents the covalent insertion, or integration, of unintegrated linear HIV-1 DNA into the host cell genome preventing the formation of the HIV-1 provirus.\" ([DailyMed: Isentress (raltegravir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e659505-c902-4906-9461-1cc83e2236d2), version från 2026-09-16; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action; 12.4 Microbiology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Isentress (raltegravir) prescribing information, A-S Medication Solutions",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e659505-c902-4906-9461-1cc83e2236d2",
+     "accessed": "2026-11-19",
+     "excerpt": "Raltegravir is an HIV-1 antiviral drug. […] Raltegravir inhibits the catalytic activity of HIV-1 integrase, an HIV-1 encoded enzyme that is required for viral replication. Inhibition of integrase prevents the covalent insertion, or integration, of unintegrated linear HIV-1 DNA into the host cell genome preventing the formation of the HIV-1 provirus.",
+     "label_version": "2026-09-16",
+     "section": "12.1 Mechanism of Action; 12.4 Microbiology",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "7e659505-c902-4906-9461-1cc83e2236d2",
+     "translation": "Raltegravir är ett antiviralt läkemedel mot hiv-1. […] Raltegravir hämmar den katalytiska aktiviteten hos hiv-1-integras, ett hiv-1-kodat enzym som krävs för virusreplikation. Hämning av integras förhindrar den kovalenta insättningen, eller integreringen, av ointegrerat linjärt hiv-1-DNA i värdcellens genom, vilket förhindrar bildningen av hiv-1-provirus.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-rifabutin-1",
+   "drug": "rifabutin",
+   "file": "rifabutin.md",
+   "action": "mechanism",
+   "claim": "Någon detaljerad verkningsmekanismdata finns inte i det sammanställda underlaget, så beskrivningen bygger på läkemedlets kända farmakologi.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Rifabutin (inofficiell översättning): ”Rifabutin hämmar DNA-beroende RNA-polymeras i känsliga stammar av Escherichia coli och Bacillus subtilis men inte i däggdjursceller. I resistenta stammar av E. coli hämmade rifabutin, liksom rifampicin, inte detta enzym.” Engelsk originaltext: \"Rifabutin inhibits DNA-dependent RNA polymerase in susceptible strains of Escherichia coli and Bacillus subtilis but not in mammalian cells. In resistant strains of E. coli, rifabutin, like rifampin, did not inhibit this enzyme.\" ([DailyMed: rifabutin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=25a60937-cbbe-4a50-994f-2ce15203f589), version från 2026-09-01; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: rifabutin prescribing information, REMEDYREPACK INC.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=25a60937-cbbe-4a50-994f-2ce15203f589",
+     "accessed": "2026-11-19",
+     "excerpt": "Rifabutin inhibits DNA-dependent RNA polymerase in susceptible strains of Escherichia coli and Bacillus subtilis but not in mammalian cells. In resistant strains of E. coli, rifabutin, like rifampin, did not inhibit this enzyme.",
+     "label_version": "2026-09-01",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "25a60937-cbbe-4a50-994f-2ce15203f589",
+     "translation": "Rifabutin hämmar DNA-beroende RNA-polymeras i känsliga stammar av Escherichia coli och Bacillus subtilis men inte i däggdjursceller. I resistenta stammar av E. coli hämmade rifabutin, liksom rifampicin, inte detta enzym.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-rivastigmine-1",
+   "drug": "rivastigmine",
+   "file": "rivastigmine.md",
+   "action": "mechanism",
+   "claim": "Observera att uppgifter om verkningsmekanism saknas i de data som sammanställts för rapporten.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Rivastigmine (inofficiell översättning): ”Även om den exakta verkningsmekanismen för rivastigmin är okänd, anses den utöva sin terapeutiska effekt genom att förstärka den kolinerga funktionen. Detta åstadkoms genom att koncentrationen av acetylkolin ökas genom reversibel hämning av dess hydrolys av kolinesteras.” Engelsk originaltext: \"Although the precise mechanism of action of rivastigmine is unknown, it is thought to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase.\" ([DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d), version från 2025-11-11; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: rivastigmine tartrate prescribing information, American Health Packaging",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d",
+     "accessed": "2026-11-19",
+     "excerpt": "Although the precise mechanism of action of rivastigmine is unknown, it is thought to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase.",
+     "label_version": "2025-11-11",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "52781229-ee82-43f9-a113-4419a611978d",
+     "translation": "Även om den exakta verkningsmekanismen för rivastigmin är okänd, anses den utöva sin terapeutiska effekt genom att förstärka den kolinerga funktionen. Detta åstadkoms genom att koncentrationen av acetylkolin ökas genom reversibel hämning av dess hydrolys av kolinesteras.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-sapropterin-1",
+   "drug": "sapropterin",
+   "file": "sapropterin.md",
+   "action": "mechanism",
+   "claim": "Detaljerad data om verkningsmekanismen finns inte i de sammanställda uppgifterna, så beskrivningen här bygger på allmänt känd farmakologi.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Sapropterin (inofficiell översättning): ”Sapropterindihydroklorid är en syntetisk form av BH4, kofaktorn för enzymet fenylalaninhydroxylas (PAH). PAH hydroxylerar Phe genom en oxidativ reaktion så att tyrosin bildas. Hos patienter med PKU saknas PAH-aktivitet eller är otillräcklig.” Engelsk originaltext: \"Sapropterin dihydrochloride is a synthetic form of BH4, the cofactor for the enzyme phenylalanine hydroxylase (PAH). PAH hydroxylates Phe through an oxidative reaction to form tyrosine. In patients with PKU, PAH activity is absent or deficient.\" ([DailyMed: Zelvysia (sapropterin dihydrochloride) prescribing information, Aucta Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8de84882-dd24-46f2-8416-5e492d4275d1), version från 2025-04-30; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Zelvysia (sapropterin dihydrochloride) prescribing information, Aucta Pharmaceuticals, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8de84882-dd24-46f2-8416-5e492d4275d1",
+     "accessed": "2026-11-19",
+     "excerpt": "Sapropterin dihydrochloride is a synthetic form of BH4, the cofactor for the enzyme phenylalanine hydroxylase (PAH). PAH hydroxylates Phe through an oxidative reaction to form tyrosine. In patients with PKU, PAH activity is absent or deficient.",
+     "label_version": "2025-04-30",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "8de84882-dd24-46f2-8416-5e492d4275d1",
+     "translation": "Sapropterindihydroklorid är en syntetisk form av BH4, kofaktorn för enzymet fenylalaninhydroxylas (PAH). PAH hydroxylerar Phe genom en oxidativ reaktion så att tyrosin bildas. Hos patienter med PKU saknas PAH-aktivitet eller är otillräcklig.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-spironolactone-1",
+   "drug": "spironolactone",
+   "file": "spironolactone.md",
+   "action": "mechanism",
+   "claim": "Eftersom uppgifter om ursprunglig verkningsmekanism saknas går det heller inte att kontrollera resonemanget mot källdata.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Spironolactone (inofficiell översättning): ”Spironolakton och dess aktiva metaboliter är specifika farmakologiska antagonister till aldosteron och verkar främst genom kompetitiv bindning till receptorer vid det aldosteronberoende natrium-kaliumutbytesstället i den distala tubulus contortus i njuren. Spironolakton gör att ökade mängder natrium och vatten utsöndras, medan kalium kvarhålls.” Engelsk originaltext: \"Spironolactone and its active metabolites are specific pharmacologic antagonists of aldosterone, acting primarily through competitive binding of receptors at the aldosterone-dependent sodium-potassium exchange site in the distal convoluted renal tubule. Spironolactone causes increased amounts of sodium and water to be excreted, while potassium is retained.\" ([DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc), version från 2025-11-28; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
+     "accessed": "2026-11-19",
+     "excerpt": "Spironolactone and its active metabolites are specific pharmacologic antagonists of aldosterone, acting primarily through competitive binding of receptors at the aldosterone-dependent sodium-potassium exchange site in the distal convoluted renal tubule. Spironolactone causes increased amounts of sodium and water to be excreted, while potassium is retained.",
+     "label_version": "2025-11-28",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "0fed2822-3a03-4b64-9857-c682fcd462bc",
+     "translation": "Spironolakton och dess aktiva metaboliter är specifika farmakologiska antagonister till aldosteron och verkar främst genom kompetitiv bindning till receptorer vid det aldosteronberoende natrium-kaliumutbytesstället i den distala tubulus contortus i njuren. Spironolakton gör att ökade mängder natrium och vatten utsöndras, medan kalium kvarhålls.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-sunitinib-1",
+   "drug": "sunitinib",
+   "file": "sunitinib.md",
+   "action": "mechanism",
+   "claim": "Någon detaljerad verkningsmekanismdata fanns inte tillgänglig i läkemedelsdatabasen.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Sunitinib (inofficiell översättning): ”Sunitinib är en liten molekyl som hämmar flera receptortyrosinkinaser (RTK), av vilka vissa är inblandade i tumörtillväxt, patologisk angiogenes och metastatisk progression av cancer.” Engelsk originaltext: \"Sunitinib is a small molecule that inhibits multiple receptor tyrosine kinases (RTKs), some of which are implicated in tumor growth, pathologic angiogenesis, and metastatic progression of cancer.\" ([DailyMed: Sutent (sunitinib malate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c), version från 2026-02-20; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Sutent (sunitinib malate) prescribing information, Pfizer Laboratories Div Pfizer Inc",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c",
+     "accessed": "2026-11-19",
+     "excerpt": "Sunitinib is a small molecule that inhibits multiple receptor tyrosine kinases (RTKs), some of which are implicated in tumor growth, pathologic angiogenesis, and metastatic progression of cancer.",
+     "label_version": "2026-02-20",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c",
+     "translation": "Sunitinib är en liten molekyl som hämmar flera receptortyrosinkinaser (RTK), av vilka vissa är inblandade i tumörtillväxt, patologisk angiogenes och metastatisk progression av cancer.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-terbutaline-1",
+   "drug": "terbutaline",
+   "file": "terbutaline.md",
+   "action": "mechanism",
+   "claim": "Detaljerad data om verkningsmekanismen saknas för närvarande.",
+   "replacement": "Enligt avsnittet ”Clinical Pharmacology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Terbutaline (inofficiell översättning): ”Farmakologiska studier in vitro och in vivo har visat att terbutalin utövar en företrädesvis effekt på beta 2 -adrenerga receptorer. Även om det är känt att beta2-adrenerga receptorer är de dominerande receptorerna i bronkernas glatta muskulatur, tyder data på att det finns en population av beta2-receptorer i det mänskliga hjärtat, i en koncentration mellan 10 % och 50 %.” Engelsk originaltext: \"In vitro and in vivo pharmacologic studies have demonstrated that terbutaline exerts a preferential effect on beta 2 -adrenergic receptors. While it is recognized that beta2-adrenergic receptors are the predominant receptors in bronchial smooth muscle, data indicate that there is a population of beta2-receptors in the human heart, existing in a concentration between 10% to 50%.\" ([DailyMed: terbutaline sulfate prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726), version från 2025-12-10; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 Clinical Pharmacology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: terbutaline sulfate prescribing information, Chartwell RX, LLC.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726",
+     "accessed": "2026-11-19",
+     "excerpt": "In vitro and in vivo pharmacologic studies have demonstrated that terbutaline exerts a preferential effect on beta 2 -adrenergic receptors. While it is recognized that beta2-adrenergic receptors are the predominant receptors in bronchial smooth muscle, data indicate that there is a population of beta2-receptors in the human heart, existing in a concentration between 10% to 50%.",
+     "label_version": "2025-12-10",
+     "section": "Clinical Pharmacology",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "859267c6-3d14-4123-9b9d-4fc248f09726",
+     "translation": "Farmakologiska studier in vitro och in vivo har visat att terbutalin utövar en företrädesvis effekt på beta 2 -adrenerga receptorer. Även om det är känt att beta2-adrenerga receptorer är de dominerande receptorerna i bronkernas glatta muskulatur, tyder data på att det finns en population av beta2-receptorer i det mänskliga hjärtat, i en koncentration mellan 10 % och 50 %.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-ticagrelor-1",
+   "drug": "ticagrelor",
+   "file": "ticagrelor.md",
+   "action": "mechanism",
+   "claim": "Detaljerad data om verkningsmekanismen finns för närvarande inte tillgänglig.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Ticagrelor (inofficiell översättning): ”Tikagrelor och dess huvudmetabolit interagerar reversibelt med trombocyternas P2Y 12-ADP-receptor och förhindrar därigenom signaltransduktion och trombocytaktivering. Tikagrelor och dess aktiva metabolit är ungefär lika potenta.” Engelsk originaltext: \"Ticagrelor and its major metabolite reversibly interact with the platelet P2Y 12 ADP-receptor to prevent signal transduction and platelet activation. Ticagrelor and its active metabolite are approximately equipotent.\" ([DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8), version från 2026-05-07; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8",
+     "accessed": "2026-11-19",
+     "excerpt": "Ticagrelor and its major metabolite reversibly interact with the platelet P2Y 12 ADP-receptor to prevent signal transduction and platelet activation. Ticagrelor and its active metabolite are approximately equipotent.",
+     "label_version": "2026-05-07",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "f7b3f443-e83d-4bf2-0e96-023448fed9a8",
+     "translation": "Tikagrelor och dess huvudmetabolit interagerar reversibelt med trombocyternas P2Y 12-ADP-receptor och förhindrar därigenom signaltransduktion och trombocytaktivering. Tikagrelor och dess aktiva metabolit är ungefär lika potenta.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-tolvaptan-1",
+   "drug": "tolvaptan",
+   "file": "tolvaptan.md",
+   "action": "mechanism",
+   "claim": "Detaljerade uppgifter om verkningsmekanismen saknas i de data som sammanställts för denna rapport.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Tolvaptan (inofficiell översättning): ”Tolvaptan är en selektiv vasopressin-V 2 -receptorantagonist med en affinitet för V 2 -receptorn som är 1,8 gånger så hög som för nativt argininvasopressin (AVP). Tolvaptans affinitet för V 2 -receptorn är 29 gånger så hög som för V 1a -receptorn.” Engelsk originaltext: \"Tolvaptan is a selective vasopressin V 2 -receptor antagonist with an affinity for the V 2 -receptor that is 1.8 times that of native arginine vasopressin (AVP). Tolvaptan affinity for the V 2 -receptor is 29 times that for the V 1a -receptor.\" ([DailyMed: Jynarque (tolvaptan) prescribing information, Otsuka America Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3febc0a1-9e5a-4ce0-843d-210f21d862c4), version från 2026-09-30; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Jynarque (tolvaptan) prescribing information, Otsuka America Pharmaceutical, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3febc0a1-9e5a-4ce0-843d-210f21d862c4",
+     "accessed": "2026-11-19",
+     "excerpt": "Tolvaptan is a selective vasopressin V 2 -receptor antagonist with an affinity for the V 2 -receptor that is 1.8 times that of native arginine vasopressin (AVP). Tolvaptan affinity for the V 2 -receptor is 29 times that for the V 1a -receptor.",
+     "label_version": "2026-09-30",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "3febc0a1-9e5a-4ce0-843d-210f21d862c4",
+     "translation": "Tolvaptan är en selektiv vasopressin-V 2 -receptorantagonist med en affinitet för V 2 -receptorn som är 1,8 gånger så hög som för nativt argininvasopressin (AVP). Tolvaptans affinitet för V 2 -receptorn är 29 gånger så hög som för V 1a -receptorn.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-vinblastine-1",
+   "drug": "vinblastine",
+   "file": "vinblastine.md",
+   "action": "mechanism",
+   "claim": "Detaljerad data om verkningsmekanismen finns för närvarande inte tillgänglig i det sammanställda underlaget.",
+   "replacement": "Enligt avsnittet ”Clinical Pharmacology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Vinblastine (inofficiell översättning): ”Andra studier tyder på att vinblastinsulfat har en effekt på den cellulära energiproduktion som krävs för mitos och interfererar med nukleinsyrasyntesen. Verkningsmekanismen för vinblastin har satts i samband med hämning av mikrotubulibildningen i den mitotiska spolen, vilket leder till att celler som delar sig stannar i metafasstadiet.” Engelsk originaltext: \"Other studies indicate that vinblastine sulfate has an effect on cell-energy production required for mitosis and interferes with nucleic acid synthesis. The mechanism of action of vinblastine has been related to the inhibition of microtubule formation in the mitotic spindle, resulting in an arrest of dividing cells at the metaphase stage.\" ([DailyMed: vinblastine sulfate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f073b58e-56d6-4c8d-a2ce-b37719402d77), version från 2025-04-15; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 Clinical Pharmacology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: vinblastine sulfate prescribing information, Fresenius Kabi USA, LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f073b58e-56d6-4c8d-a2ce-b37719402d77",
+     "accessed": "2026-11-19",
+     "excerpt": "Other studies indicate that vinblastine sulfate has an effect on cell-energy production required for mitosis and interferes with nucleic acid synthesis. The mechanism of action of vinblastine has been related to the inhibition of microtubule formation in the mitotic spindle, resulting in an arrest of dividing cells at the metaphase stage.",
+     "label_version": "2025-04-15",
+     "section": "Clinical Pharmacology",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "f073b58e-56d6-4c8d-a2ce-b37719402d77",
+     "translation": "Andra studier tyder på att vinblastinsulfat har en effekt på den cellulära energiproduktion som krävs för mitos och interfererar med nukleinsyrasyntesen. Verkningsmekanismen för vinblastin har satts i samband med hämning av mikrotubulibildningen i den mitotiska spolen, vilket leder till att celler som delar sig stannar i metafasstadiet.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261119-ziprasidone-1",
+   "drug": "ziprasidone",
+   "file": "ziprasidone.md",
+   "action": "mechanism",
+   "claim": "Detaljerad verkningsmekanismdata finns för närvarande inte tillgänglig i det sammanställda underlaget.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Ziprasidone (inofficiell översättning): ”Verkningsmekanismen för ziprasidon vid behandling av de angivna indikationerna skulle kunna förmedlas genom en kombination av antagonism mot dopamin typ 2 (D 2 )- och serotonin typ 2 (5HT 2 )-receptorer.” Engelsk originaltext: \"The mechanism of action of ziprasidone in the treatment of the listed indications could be mediated through a combination of dopamine type 2 (D 2 ) and serotonin type 2 (5HT 2 ) antagonism.\" ([DailyMed: Ziprasidone Mesylate 20 Mg/Ml (ziprasidone mesylate) prescribing information, Armas Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c5c27f0f-4e45-4bca-bb9a-2d3f1c243348), version från 2026-09-18; hämtad 2026-11-19).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Ziprasidone Mesylate 20 Mg/Ml (ziprasidone mesylate) prescribing information, Armas Pharmaceuticals Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c5c27f0f-4e45-4bca-bb9a-2d3f1c243348",
+     "accessed": "2026-11-19",
+     "excerpt": "The mechanism of action of ziprasidone in the treatment of the listed indications could be mediated through a combination of dopamine type 2 (D 2 ) and serotonin type 2 (5HT 2 ) antagonism.",
+     "label_version": "2026-09-18",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "c5c27f0f-4e45-4bca-bb9a-2d3f1c243348",
+     "translation": "Verkningsmekanismen för ziprasidon vid behandling av de angivna indikationerna skulle kunna förmedlas genom en kombination av antagonism mot dopamin typ 2 (D 2 )- och serotonin typ 2 (5HT 2 )-receptorer.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
   }
  ]
 }

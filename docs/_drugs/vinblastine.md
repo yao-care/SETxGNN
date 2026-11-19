@@ -60,7 +60,7 @@ Vinblastin är en vinkaalkaloid som binder tubulin och hämmar mikrotubulibildni
 
 ### Varför är denna förutsägelse rimlig?
 
-Detaljerad data om verkningsmekanismen finns för närvarande inte tillgänglig i det sammanställda underlaget. Baserat på känd information binder vinblastin tubulin och hämmar mikrotubulibildningen, vilket stoppar celldelningen i mitosen hos snabbt växande celler.
+Enligt avsnittet ”Clinical Pharmacology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Vinblastine (inofficiell översättning): ”Andra studier tyder på att vinblastinsulfat har en effekt på den cellulära energiproduktion som krävs för mitos och interfererar med nukleinsyrasyntesen. Verkningsmekanismen för vinblastin har satts i samband med hämning av mikrotubulibildningen i den mitotiska spolen, vilket leder till att celler som delar sig stannar i metafasstadiet.” Engelsk originaltext: "Other studies indicate that vinblastine sulfate has an effect on cell-energy production required for mitosis and interferes with nucleic acid synthesis. The mechanism of action of vinblastine has been related to the inhibition of microtubule formation in the mitotic spindle, resulting in an arrest of dividing cells at the metaphase stage." ([DailyMed: vinblastine sulfate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f073b58e-56d6-4c8d-a2ce-b37719402d77), version från 2025-04-15; hämtad 2026-11-19). Baserat på känd information binder vinblastin tubulin och hämmar mikrotubulibildningen, vilket stoppar celldelningen i mitosen hos snabbt växande celler.
 
 Rabdomyosarkom är en snabbt prolifererande sarkom hos framför allt barn och ungdomar, och sådana tumörer är i allmänhet känsliga för antimitotiska medel. Vinkaalkaloider, främst vinkristin och i metronomiska regimer även vinblastin, förekommer i behandlingsscheman för rabdomyosarkom, så en mekanistisk koppling är rimlig.
 
@@ -143,11 +143,12 @@ För varningar och kontraindikationer, se produktresumén.
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-12 | Tabell: 1 godkännande (7042) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: vinblastine sulfate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f073b58e-56d6-4c8d-a2ce-b37719402d77) |
 
 <!-- review:end log -->
 

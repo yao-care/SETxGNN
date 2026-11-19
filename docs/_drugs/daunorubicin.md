@@ -60,7 +60,7 @@ Daunorubicin är ett antracyklinbaserat cytostatikum som i Sverige har funnits s
 
 ### Varför är denna förutsägelse rimlig?
 
-Detaljerade uppgifter om verkningsmekanismen saknas i de sammanställda data. Daunorubicin tillhör dock antracyklinerna, som binder till DNA (interkalering) och hämmar topoisomeras II. Detta leder till DNA-skador och celldöd i snabbt delande tumörceller.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Daunorubicin (inofficiell översättning): ”Daunorubicin har antimitotisk och cytotoxisk aktivitet genom ett antal föreslagna verkningsmekanismer. Daunorubicin bildar komplex med DNA genom interkalering mellan baspar. Det hämmar topoisomeras II-aktiviteten genom att stabilisera DNA-topoisomeras II-komplexet, vilket förhindrar religeringsdelen av den ligerings-religeringsreaktion som topoisomeras II katalyserar.” Engelsk originaltext: "Daunorubicin has antimitotic and cytotoxic activity through a number of proposed mechanisms of action. Daunorubicin forms complexes with DNA by intercalation between base pairs. It inhibits topoisomerase II activity by stabilizing the DNA-topoisomerase II complex, preventing the religation portion of the ligation-religation reaction that topoisomerase II catalyzes." ([DailyMed: daunorubicin hydrochloride prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff6b9bd4-8a9f-400f-a0b9-70e25fa8a28f), version från 2025-05-21; hämtad 2026-11-19). Daunorubicin tillhör dock antracyklinerna, som binder till DNA (interkalering) och hämmar topoisomeras II. Detta leder till DNA-skador och celldöd i snabbt delande tumörceller.
 
 Samma mekanism delas med doxorubicin, som är en hörnsten i standardbehandlingen av Hodgkins lymfom (till exempel ABVD-regimen). Den biologiska rimligheten är därför hög.
 
@@ -136,6 +136,19 @@ Se i övrigt produktresumén för varningar och kontraindikationer.
 - Belägg för fördel jämfört med doxorubicin i ABVD-liknande regimer
 - Bedömning av hjärtsäkerhet och kumulativ antracyklindos
 - Komplettering av varningar och kontraindikationer från produktresumén
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: daunorubicin hydrochloride prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff6b9bd4-8a9f-400f-a0b9-70e25fa8a28f) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

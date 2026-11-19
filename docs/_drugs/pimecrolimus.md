@@ -66,7 +66,7 @@ Pimecrolimus (Elidel) är en topikal kalcineurinhämmare som ursprungligen anvä
 
 ### Varför är denna förutsägelse rimlig?
 
-Pimecrolimus är en kalcineurinhämmare som blockerar aktiveringen av T-celler och frisättningen av inflammatoriska cytokiner som IL-2, IL-4, interferon-gamma och TNF-alfa. Läkemedlet hämmar även mastcellernas degranulering. Detaljerad verkningsmekanismdata saknas i den sammanställda datan, men kalcineurinhämningen är väl beskriven i litteraturen.
+Pimecrolimus är en kalcineurinhämmare som blockerar aktiveringen av T-celler och frisättningen av inflammatoriska cytokiner som IL-2, IL-4, interferon-gamma och TNF-alfa. Läkemedlet hämmar även mastcellernas degranulering. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Pimecrolimus (inofficiell översättning): ”Verkningsmekanismen för pimekrolimus vid atopisk dermatit är inte känd. Även om följande har observerats är den kliniska betydelsen av dessa observationer vid atopisk dermatit inte känd. Det har visats att pimekrolimus binder med hög affinitet till makrofilin-12 (FKBP-12) och hämmar det kalciumberoende fosfataset kalcineurin.” Engelsk originaltext: "The mechanism of action of pimecrolimus in atopic dermatitis is not known. While the following have been observed, the clinical significance of these observations in atopic dermatitis is not known. It has been demonstrated that pimecrolimus binds with high affinity to macrophilin-12 (FKBP-12) and inhibits the calcium-dependent phosphatase, calcineurin." ([DailyMed: pimecrolimus prescribing information, Oceanside Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6601e43e-ce7d-446a-8568-8e7b24b86f06), version från 2026-04-30; hämtad 2026-11-19).
 
 Seborroisk dermatit är en kronisk, återkommande inflammatorisk hudsjukdom som drabbar områden rika på talgkörtlar. Den hänger samman med en inflammatorisk reaktion på jästsvampen Malassezia. Atopiskt eksem och seborroisk dermatit är båda T-cellsmedierade inflammatoriska hudsjukdomar, så ett antiinflammatoriskt, icke-steroidalt läkemedel är mekanistiskt rimligt även här.
 
@@ -140,12 +140,13 @@ Det är en fördel att pimecrolimus inte ger hudatrofi, vilket är ett problem v
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Elidel-krämen har dock endast ett annullerat godkännande i Sverige, vilket påverkar tillgängligheten” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Den enda svenska licensen är dock annullerad och säkerhetsunderlaget från produktresumén saknas” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: pimecrolimus prescribing information, Oceanside Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6601e43e-ce7d-446a-8568-8e7b24b86f06) |
 
 <!-- review:end log -->
 

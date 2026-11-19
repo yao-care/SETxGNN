@@ -58,7 +58,7 @@ Metadon är en syntetisk opioid. Enligt de data som sammanställts för denna ra
 
 ## Varför är denna förutsägelse rimlig?
 
-Detaljerade uppgifter om verkningsmekanismen saknas i de data som sammanställts. Baserat på känd information är metadon en agonist på my-opioidreceptorn och blockerar dessutom NMDA-receptorn. Opioidsystemet samverkar med de dopaminerga och serotonerga (5-HT2A/C) signalvägarna, som anses vara inblandade vid tics och tvångssymtom.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Methadone (inofficiell översättning): ”Metadonhydroklorid är en mu-agonist; en syntetisk opioid med flera effekter som kvalitativt liknar morfinets, varav de mest framträdande involverar centrala nervsystemet och organ som består av glatt muskulatur. Abstinenssyndromet vid metadon liknar kvalitativt det vid morfin, men skiljer sig genom att debuten är långsammare, förloppet är mer utdraget och symtomen är mindre svåra.” Engelsk originaltext: "Methadone hydrochloride is a mu-agonist; a synthetic opioid with multiple actions qualitatively similar to those of morphine, the most prominent of which involves the central nervous system and organs composed of smooth muscle. The methadone withdrawal syndrome, although qualitatively similar to that of morphine, differs in that the onset is slower, the course is more prolonged, and the symptoms are less severe." ([DailyMed: Methadose Dispersible (methadone hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=544483e6-6f9d-4371-9e93-313e54e0ea05), version från 2026-08-04; hämtad 2026-11-19). Baserat på känd information är metadon en agonist på my-opioidreceptorn och blockerar dessutom NMDA-receptorn. Opioidsystemet samverkar med de dopaminerga och serotonerga (5-HT2A/C) signalvägarna, som anses vara inblandade vid tics och tvångssymtom.
 
 En experimentell översikt (PMID 17102981) beskriver att opioider även har effekt vid behandlingsresistent OCD och Tourettes syndrom. Den enda direkta kliniska rapporten är en studie från 1992 om metadonbehandling av Tourettes syndrom, som troligen är en liten serie eller en fallrapport.
 
@@ -140,12 +140,13 @@ För fullständig säkerhetsinformation, se produktresumén.
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna och ingen produkt är för närvarande godkänd” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Methadose Dispersible (methadone hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=544483e6-6f9d-4371-9e93-313e54e0ea05) |
 
 <!-- review:end log -->
 

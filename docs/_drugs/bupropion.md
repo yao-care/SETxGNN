@@ -60,7 +60,7 @@ Bupropion är en noradrenalin- och dopaminåterupptagshämmare som används inom
 
 ## Varför är denna förutsägelse rimlig?
 
-Detaljerad verkningsmekanismdata finns inte i det sammanställda underlaget. Baserat på känd information hämmar bupropion återupptaget av noradrenalin och dopamin och saknar serotonerg effekt. Samma katekolaminerga system påverkas av etablerade ADHD-läkemedel som metylfenidat och atomoxetin.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Bupropion (inofficiell översättning): ”Den exakta mekanism genom vilken bupropionhydroklorid depottabletter (SR) förbättrar patienternas förmåga att avstå från rökning är inte känd, men antas vara relaterad till noradrenerga och/eller dopaminerga mekanismer. Bupropion är en relativt svag hämmare av den neuronala återupptagningen av noradrenalin och dopamin, och hämmar inte återupptagningen av serotonin.” Engelsk originaltext: "The exact mechanism by which bupropion hydrochloride extended-release tablets (SR) enhances the ability of patients to abstain from smoking is not known but is presumed to be related to noradrenergic and/or dopaminergic mechanisms. Bupropion is a relatively weak inhibitor of the neuronal reuptake of norepinephrine and dopamine, and does not inhibit the reuptake of serotonin." ([DailyMed: Bupropion Hydrochloride Sr (bupropion hydrochloride) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfb45438-1116-48f2-9bfe-776ebbf1e119), version från 2026-11-11; hämtad 2026-11-19). Baserat på känd information hämmar bupropion återupptaget av noradrenalin och dopamin och saknar serotonerg effekt. Samma katekolaminerga system påverkas av etablerade ADHD-läkemedel som metylfenidat och atomoxetin.
 
 Mekanistiskt kan bupropion därför förbättra uppmärksamhet och minska hyperaktivitet. I översiktsartiklarna beskrivs bupropion som ett alternativ utan stimulantverkan, främst andrahandsval hos vuxna som inte svarar på eller inte tolererar stimulantia, och hos patienter med samtidig depression, rökning eller beroendesjukdom.
 
@@ -131,6 +131,19 @@ Fullständiga varningar och kontraindikationer ska hämtas från produktresumén
 - Hämtning av varningar, kontraindikationer och godkänd indikationstext från produktresumén hos Läkemedelsverket.
 - Bedömning av säkerhet vid samtidig medicinering, särskilt CYP2D6-substrat och opioider, samt kontroll av kramprisk och blodtryck.
 - Närmare utvärdering av prövningar i särskilda populationer (substansbruk, ungdomar) innan bredare användning övervägs.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Bupropion Hydrochloride Sr (bupropion hydrochloride) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfb45438-1116-48f2-9bfe-776ebbf1e119) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

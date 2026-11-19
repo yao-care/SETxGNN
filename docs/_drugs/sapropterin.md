@@ -60,7 +60,7 @@ Sapropterin är en syntetisk form av tetrahydrobiopterin (BH4), en kofaktor till
 
 ### Varför är denna förutsägelse rimlig?
 
-Sapropterin är en syntetisk version av tetrahydrobiopterin (BH4). BH4 är en kofaktor till fenylalaninhydroxylas (PAH), som omvandlar fenylalanin till tyrosin. Detaljerad data om verkningsmekanismen finns inte i de sammanställda uppgifterna, så beskrivningen här bygger på allmänt känd farmakologi.
+Sapropterin är en syntetisk version av tetrahydrobiopterin (BH4). BH4 är en kofaktor till fenylalaninhydroxylas (PAH), som omvandlar fenylalanin till tyrosin. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Sapropterin (inofficiell översättning): ”Sapropterindihydroklorid är en syntetisk form av BH4, kofaktorn för enzymet fenylalaninhydroxylas (PAH). PAH hydroxylerar Phe genom en oxidativ reaktion så att tyrosin bildas. Hos patienter med PKU saknas PAH-aktivitet eller är otillräcklig.” Engelsk originaltext: "Sapropterin dihydrochloride is a synthetic form of BH4, the cofactor for the enzyme phenylalanine hydroxylase (PAH). PAH hydroxylates Phe through an oxidative reaction to form tyrosine. In patients with PKU, PAH activity is absent or deficient." ([DailyMed: Zelvysia (sapropterin dihydrochloride) prescribing information, Aucta Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8de84882-dd24-46f2-8416-5e492d4275d1), version från 2025-04-30; hämtad 2026-11-19).
 
 Tyrosin ligger nedströms PAH-steget, och BH4 är dessutom kofaktor till tyrosinhydroxylas i syntesen av katekolaminer. Det finns därför ett biokemiskt rimligt samband mellan läkemedlet och rubbningar i tyrosinmetabolismen.
 
@@ -125,6 +125,18 @@ För varningar och kontraindikationer, se produktresumén.
 - Prekliniska eller kliniska studier som direkt undersöker sapropterin vid den sjukdomen.
 - Komplettering av detaljerad data om verkningsmekanismen.
 - Genomgång av produktresumén för varningar och kontraindikationer, eftersom sådan information saknas i de sammanställda uppgifterna.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Zelvysia (sapropterin dihydrochloride) prescribing information, Aucta Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8de84882-dd24-46f2-8416-5e492d4275d1) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

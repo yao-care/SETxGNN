@@ -60,7 +60,7 @@ Decitabin är en hypometylerande nukleosidanalog som hämmar DNA-metyltransferas
 
 ### Varför är denna förutsägelse rimlig?
 
-Data om verkningsmekanism saknas i den sammanställda informationen. Baserat på allmän kunskap är decitabin en hypometylerande nukleosidanalog som hämmar DNA-metyltransferas. Läkemedlet används vid myeloida neoplasier, bland annat akut myeloisk leukemi och myelodysplastiska syndrom.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Decitabine (inofficiell översättning): ”Decitabin tros utöva sina antineoplastiska effekter efter fosforylering och direkt inkorporering i DNA samt hämning av DNA-metyltransferas, vilket orsakar hypometylering av DNA och celldifferentiering eller apoptos. Decitabin hämmar DNA-metylering in vitro, vilket uppnås vid koncentrationer som inte orsakar någon större hämning av DNA-syntesen.” Engelsk originaltext: "Decitabine is believed to exert its antineoplastic effects after phosphorylation and direct incorporation into DNA and inhibition of DNA methyltransferase, causing hypomethylation of DNA and cellular differentiation or apoptosis. Decitabine inhibits DNA methylation in vitro, which is achieved at concentrations that do not cause major suppression of DNA synthesis." ([DailyMed: decitabine prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5975fa81-1e29-4d56-e063-6394a90a9cd5), version från 2026-11-03; hämtad 2026-11-19). Baserat på allmän kunskap är decitabin en hypometylerande nukleosidanalog som hämmar DNA-metyltransferas. Läkemedlet används vid myeloida neoplasier, bland annat akut myeloisk leukemi och myelodysplastiska syndrom.
 
 Refraktär cytopeni hos barn är den vanligaste subtypen av myelodysplastiskt syndrom hos barn. Eftersom sjukdomen tillhör samma sjukdomsgrupp som de myeloida tillstånd där decitabin är etablerat är en hypometylerande mekanism biologiskt rimlig. Den höga modellpoängen är i linje med detta samband.
 
@@ -127,6 +127,19 @@ Se i övrigt produktresumén för varningar och kontraindikationer.
 - Komplettering av data om verkningsmekanism.
 - Granskning av produktresumé avseende varningar och kontraindikationer, särskilt för barn.
 - Bedömning av säkerhet vid myelosuppression och interaktioner i pediatrisk population.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: decitabine prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5975fa81-1e29-4d56-e063-6394a90a9cd5) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

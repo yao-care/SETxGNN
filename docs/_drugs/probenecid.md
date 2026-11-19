@@ -60,7 +60,7 @@ Probenecid är ett urinsyradrivande läkemedel (urikosuriskt medel) som ursprung
 
 ### Varför är denna förutsägelse rimlig?
 
-Någon detaljerad verkningsmekanismdata finns inte tillgänglig i det sammanställda underlaget. Enligt allmänt känd farmakologi hämmar probenecid urattransportören URAT1 (SLC22A12) samt OAT1/OAT3 i njurens proximala tubuli. Det minskar återupptaget av urat och ökar utsöndringen i urinen, vilket sänker urinsyran i blodet. Det är därför läkemedlet fungerar vid gikt.
+Enligt avsnittet ”Clinical Pharmacology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Probenecid (inofficiell översättning): ”Probenecid är ett urikosuriskt medel och ett medel som blockerar njurtubuli.” Engelsk originaltext: "Probenecid is a uricosuric and renal tubular blocking agent." ([DailyMed: probenecid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65b4888c-d49a-433f-9bfd-17880ae40069), version från 2026-11-06; hämtad 2026-11-19). Enligt allmänt känd farmakologi hämmar probenecid urattransportören URAT1 (SLC22A12) samt OAT1/OAT3 i njurens proximala tubuli. Det minskar återupptaget av urat och ökar utsöndringen i urinen, vilket sänker urinsyran i blodet. Det är därför läkemedlet fungerar vid gikt.
 
 Renal hypourikemi orsakas oftast av förlustmutationer i just URAT1 (SLC22A12) eller GLUT9 (SLC2A9). Patienterna utsöndrar redan för mycket urat. Probenecid skulle alltså efterlikna själva defekten och sänka urinsyran ytterligare, inte rätta till den.
 
@@ -136,11 +136,12 @@ Något säkerhetsunderlag från produktresumén finns inte i det sammanställda 
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-12 | Tabell: 1 godkännande (4522) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: probenecid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65b4888c-d49a-433f-9bfd-17880ae40069) |
 
 <!-- review:end log -->
 

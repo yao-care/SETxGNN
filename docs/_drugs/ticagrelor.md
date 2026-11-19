@@ -60,7 +60,7 @@ Tikagrelor är en reversibel P2Y12-hämmare som ursprungligen användes vid akut
 
 ### Varför är denna förutsägelse rimlig?
 
-Detaljerad data om verkningsmekanismen finns för närvarande inte tillgänglig. Baserat på känd information är tikagrelor en reversibel P2Y12-receptorhämmare som minskar trombocytaggregationen. Dess effekt vid akut koronarsyndrom och perifer kärlsjukdom är väl belagd, och mekanistiskt kan den vara tillämpbar på intrakraniell arterioskleros.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Ticagrelor (inofficiell översättning): ”Tikagrelor och dess huvudmetabolit interagerar reversibelt med trombocyternas P2Y 12-ADP-receptor och förhindrar därigenom signaltransduktion och trombocytaktivering. Tikagrelor och dess aktiva metabolit är ungefär lika potenta.” Engelsk originaltext: "Ticagrelor and its major metabolite reversibly interact with the platelet P2Y 12 ADP-receptor to prevent signal transduction and platelet activation. Ticagrelor and its active metabolite are approximately equipotent." ([DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8), version från 2026-05-07; hämtad 2026-11-19). Baserat på känd information är tikagrelor en reversibel P2Y12-receptorhämmare som minskar trombocytaggregationen. Dess effekt vid akut koronarsyndrom och perifer kärlsjukdom är väl belagd, och mekanistiskt kan den vara tillämpbar på intrakraniell arterioskleros.
 
 Symtomgivande intrakraniell aterosklerotisk stenos drivs till stor del av trombocytmedierad trombos och artär-till-artär-embolisering. Det gör trombocythämning mekanistiskt rimlig, på samma sätt som vid de kranskärls- och perifera kärlsjukdomar där läkemedlet redan används.
 
@@ -136,11 +136,12 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är avregistrerade och inga har någon registrerad indikationstext” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8) |
 
 <!-- review:end log -->
 

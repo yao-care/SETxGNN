@@ -60,7 +60,7 @@ Cefazolin är en cefalosporin av första generationen som hämmar bakteriers cel
 
 ### Varför är denna förutsägelse rimlig?
 
-Cefazolin binder penicillinbindande proteiner och hämmar därmed bakteriernas cellväggssyntes. Detaljerade uppgifter om verkningsmekanismen saknas i de sammanställda data, men klassen är väl känd. Cefazolin är aktivt mot grampositiva kocker som streptokocker och meticillinkänslig *Staphylococcus aureus*.
+Cefazolin binder penicillinbindande proteiner och hämmar därmed bakteriernas cellväggssyntes. Enligt avsnitten ”Mechanism of Action” och ”Microbiology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Cefazolin (inofficiell översättning): ”Cefazolin är ett antibakteriellt läkemedel. […] Cefazolin är ett baktericidt medel som verkar genom hämning av syntesen av bakteriens cellvägg.” Engelsk originaltext: "Cefazolin is an antibacterial drug. […] Cefazolin is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis." ([DailyMed: Cefazolin (cefazolin sodium) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d91a8d13-99a0-4d87-88dc-71cbd37922b4), version från 2026-08-31; hämtad 2026-11-19). Cefazolin är aktivt mot grampositiva kocker som streptokocker och meticillinkänslig *Staphylococcus aureus*.
 
 Dessa bakterier kan bidra till mellanöreinflammation, vilket ger en rimlig mekanistisk koppling. Täckningen av *Haemophilus influenzae* och *Moraxella catarrhalis*, de andra viktiga orsakerna, är dock svag. Cefazolin ges dessutom enbart parenteralt, vilket begränsar rutinmässig användning vid denna sjukdom.
 
@@ -111,6 +111,19 @@ Se i övrigt produktresumén för varningar och kontraindikationer.
 - Genomgång av produktresumén för varningar och kontraindikationer.
 - Bedömning av förekomst av orsaksbakterier och deras känslighet för cefazolin.
 - Utvärdering av om en enbart parenteral beredningsform är kliniskt motiverad för denna sjukdom.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Cefazolin (cefazolin sodium) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d91a8d13-99a0-4d87-88dc-71cbd37922b4) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

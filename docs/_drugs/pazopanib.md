@@ -60,7 +60,7 @@ Pazopanib är en oral multi-tyrosinkinashämmare som blockerar signalvägarna f�
 
 ## Varför är denna förutsägelse rimlig?
 
-Någon detaljerad verkningsmekanismdata finns inte i den sammanställda källan. Utifrån känd information hämmar pazopanib flera tyrosinkinaser, framför allt VEGFR och PDGFR. Dessa signalvägar styr tumörens kärlnybildning (angiogenes) och tillväxt, och hämning av dem har visat aktivitet vid mjukdelssarkom.
+Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Pazopanib (inofficiell översättning): ”Pazopanib är en multityrosinkinashämmare av vaskulär endotelial tillväxtfaktorreceptor (VEGFR)-1, VEGFR-2, VEGFR-3, trombocytderiverad tillväxtfaktorreceptor (PDGFR)-α och -β, fibroblasttillväxtfaktorreceptor (FGFR)-1 och -3, cytokinreceptor (Kit), interleukin-2-receptorinducerbart T-cellskinas (Itk), lymfocytspecifikt proteintyrosinkinas (Lck) och transmembranglykoproteinreceptortyrosinkinas (c-Fms). In vitro hämmade pazopanib ligandinducerad autofosforylering av VEGFR-2-, Kit- och PDGFR-β-receptorer.” Engelsk originaltext: "Pazopanib is a multi-tyrosine kinase inhibitor of vascular endothelial growth factor receptor (VEGFR)-1, VEGFR-2, VEGFR-3, platelet-derived growth factor receptor (PDGFR)-α and -β, fibroblast growth factor receptor (FGFR)-1 and -3, cytokine receptor (Kit), interleukin-2 receptor-inducible T-cell kinase (Itk), lymphocyte-specific protein tyrosine kinase (Lck), and transmembrane glycoprotein receptor tyrosine kinase (c-Fms). In vitro, pazopanib inhibited ligand-induced autophosphorylation of VEGFR-2, Kit, and PDGFR-β receptors." ([DailyMed: Votrient (pazopanib hydrochloride) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eeaaaf38-fb86-4d9f-a19d-0f61daac2fd7), version från 2025-12-16; hämtad 2026-11-19). Utifrån känd information hämmar pazopanib flera tyrosinkinaser, framför allt VEGFR och PDGFR. Dessa signalvägar styr tumörens kärlnybildning (angiogenes) och tillväxt, och hämning av dem har visat aktivitet vid mjukdelssarkom.
 
 Liposarkom är ett fettcellsbaserat mjukdelssarkom. Det finns få behandlingsalternativ vid avancerad eller metastaserad sjukdom. Det mekanistiska sambandet bygger på samma signalvägar som är relevanta för andra mjukdelssarkom, och fas 2-data finns specifikt för liposarkom.
 
@@ -150,6 +150,18 @@ För övrig säkerhetsinformation, inklusive varningar och kontraindikationer, s
 - Bekräftelse av säkerhetsprofil, varningar och kontraindikationer i den svenska produktresumén.
 - Bedömning av läkemedelsinteraktioner, särskilt med syrahämmande läkemedel och klaritromycin.
 - Helst en randomiserad fas 3-prövning, eller en jämförelse mot nuvarande standardbehandling vid avancerat liposarkom.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Votrient (pazopanib hydrochloride) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eeaaaf38-fb86-4d9f-a19d-0f61daac2fd7) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

@@ -60,7 +60,7 @@ Nimodipin är en kalciumkanalblockerare som ursprungligen användes vid subarakn
 
 ## Varför är denna förutsägelse rimlig?
 
-Nimodipin är en dihydropyridin och blockerar L-typ kalciumkanaler. Detaljerad verkningsmekanismdata finns inte i det underlag som sammanställts för denna rapport. Baserat på känd information verkar läkemedlet främst på kärlens glatta muskulatur och används vid subaraknoidalblödning för att skydda hjärnans kärl.
+Nimodipin är en dihydropyridin och blockerar L-typ kalciumkanaler. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Nimodipine (inofficiell översättning): ”Nimodipin är en kalciumkanalblockerare av dihydropyridintyp. Kontraktionsprocesserna i glatta muskelceller är beroende av kalciumjoner, som tränger in i dessa celler under depolarisering i form av långsamma transmembrana jonströmmar.” Engelsk originaltext: "Nimodipine is a dihydropyridine calcium channel blocker. The contractile processes of smooth muscle cells are dependent upon calcium ions, which enter these cells during depolarization as slow ionic transmembrane currents." ([DailyMed: Nymalize (nimodipine) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e660fa26-b5c4-4d6d-8887-9e22b6666a10), version från 2024-08-30; hämtad 2026-11-19). Baserat på känd information verkar läkemedlet främst på kärlens glatta muskulatur och används vid subaraknoidalblödning för att skydda hjärnans kärl.
 
 Sambandet med den nya indikationen är **svagt**. Homozygot familjär hyperkolesterolemi orsakas av defekter i LDL-receptorvägen (LDLR, APOB, PCSK9, LDLRAP1). Kalciumkanalblockad påverkar inte dessa mekanismer. Viss prekliniskt underlag antyder att dihydropyridiner kan ha måttliga kärlskyddande eller anti-aterosklerotiska effekter, men det är en indirekt koppling och åtgärdar inte den underliggande defekten i LDL-upptaget.
 
@@ -132,13 +132,14 @@ Varnings- och kontraindikationstext från produktresumén saknas. Se produktresu
 
 ## Granskningslogg
 
-Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning).
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga fem godkännanden är indragna, och inget är för närvarande giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna, och v” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 5 godkännanden (56963, 56817, 10955, 66795, 10954) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Nymalize (nimodipine) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e660fa26-b5c4-4d6d-8887-9e22b6666a10) |
 
 <!-- review:end log -->
 
