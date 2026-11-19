@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 138
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "DIAZEPAM"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "antidepressant type abuse", "barbiturate abuse", "hallucinogen abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
 description: "Diazepam: predikterad ny indikation Sömnlöshet (insomnia (disease)) (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 12 (giltiga: 12)"

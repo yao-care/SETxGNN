@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 304
 evidence_level: L3
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 monitor_inn: "montelukast"
 predicted_indications: ["bronchitis", "atopic eczema"]
 description: "Montelukast: predikterad ny indikation Bronkit (bronchitis) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): minst 20"

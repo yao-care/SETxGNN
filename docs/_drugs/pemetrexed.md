@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 341
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "pemetrexed"
 predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
 description: "Pemetrexed: predikterad ny indikation Pleural adenomatoid tumor (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 3)"

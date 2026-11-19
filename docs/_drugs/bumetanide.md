@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "bumetanide"
 predicted_indications: ["acute pulmonary heart disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Bumetanide: predikterad ny indikation Akut pulmonell hjärtsjukdom (acute pulmonary heart disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 

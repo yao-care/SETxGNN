@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 407
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-20
 monitor_inn: "SUNITINIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
 description: "Sunitinib: predikterad ny indikation Liposarkom (liposarcoma) (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 19 (giltiga: 16)"

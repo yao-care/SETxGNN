@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 255
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
 description: "Lenalidomide: predikterad ny indikation Myeloid leukemia (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): minst 20"
