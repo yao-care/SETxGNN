@@ -7,7 +7,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 18
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

@@ -7,7 +7,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 32
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Bosutinib: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
 indication_count: 0

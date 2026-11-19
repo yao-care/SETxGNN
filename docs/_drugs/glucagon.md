@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 216
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-12
 monitor_inn: "glucagon"
 predicted_indications: ["irritable bowel syndrome"]
 description: "Glucagon: predikterad ny indikation Irritabelt tarmsyndrom (irritable bowel syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"

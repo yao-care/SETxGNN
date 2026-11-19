@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 300
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "MITOMYCIN"
 predicted_indications: ["osteoclastic giant cell tumor of pancreas", "solid pseudopapillary carcinoma of pancreas", "pancreatic carcinoma with mixed differentiation", "mixed ductal-endocrine carcinoma of pancreas", "undifferentiated pancreatic carcinoma", "pancreatic intraductal papillary-mucinous neoplasm", "pancreatic acinar cell cystadenocarcinoma"]
 description: "Mitomycin: predikterad ny indikation Osteoklastisk jättecellstumör i bukspottkörteln (osteoclastic giant cell tumor of pancreas) (evidensnivå L5)."
