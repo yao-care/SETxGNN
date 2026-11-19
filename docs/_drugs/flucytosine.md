@@ -8,6 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 description: "Flucytosine: predikterad ny indikation Pagets sjukdom i skelettet (bone Paget disease) (evidensnivå L5). Ursprunglig indikation: Ej angiven i godkännandedata"
 monitor_inn: "flucytosine"
+drugbank_id: DB01099
 predicted_indications: ["bone Paget disease"]
 ---
 

@@ -162,7 +162,6 @@
       "page": "arginine",
       "sources": [
         "ARTxGNN",
-        "BrTxGNN",
         "COTxGNN",
         "CaTxGNN",
         "HkTxGNN",
@@ -409,7 +408,6 @@
       "sources": [
         "ARTxGNN",
         "AuTxGNN",
-        "COTxGNN",
         "CaTxGNN",
         "DkTxGNN",
         "HkTxGNN",
@@ -1490,7 +1488,6 @@
       "page": "levonorgestrel",
       "sources": [
         "AuTxGNN",
-        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -4564,7 +4561,6 @@
       "page": "salbutamol",
       "sources": [
         "AuTxGNN",
-        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -5691,7 +5687,6 @@
     "db01222": {
       "page": "budesonide",
       "sources": [
-        "ARTxGNN",
         "AuTxGNN",
         "CHTxGNN",
         "COTxGNN",

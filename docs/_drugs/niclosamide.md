@@ -7,6 +7,7 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "niclosamide"
+drugbank_id: DB06803
 predicted_indications: ["heart disease", "Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "orofacial clefting syndrome", "pulmonary valve disease", "interventricular septum aneurysm", "Jeune syndrome situs inversus", "disorder of fucoglycosan synthesis"]
 description: "Niclosamide: predikterad ny indikation Heart disease (evidensnivå L4). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---

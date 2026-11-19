@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "name": "SETxGNNFHIRServer",
   "title": "SETxGNN FHIR Server - Sweden Drug Repurposing",
-  "description": "FHIR R4 server for Sweden TxGNN drug repurposing predictions. Contains 454 drugs and 2512 predicted indications.",
+  "description": "FHIR R4 server for Sweden TxGNN drug repurposing predictions. Contains 459 drugs and 2539 predicted indications.",
   "status": "active",
   "date": "2026-11-19",
   "publisher": "TxGNN Project",
@@ -43,11 +43,11 @@
       "extension": [
         {
           "url": "MedicationKnowledge",
-          "valueInteger": 454
+          "valueInteger": 459
         },
         {
           "url": "ClinicalUseDefinition",
-          "valueInteger": 2512
+          "valueInteger": 2539
         },
         {
           "url": "countedAt",

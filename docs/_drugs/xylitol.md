@@ -7,6 +7,7 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "XYLITOL"
+drugbank_id: DB11195
 predicted_indications: ["meningococcal infection"]
 description: "Xylitol: predikterad ny indikation Meningococcal infection (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna"
 ---
