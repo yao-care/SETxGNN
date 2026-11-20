@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "bexarotene"
 predicted_indications: ["primary cutaneous B-cell lymphoma", "lymphosarcoma"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 description: "Bexarotene: predikterad ny indikation Primärt kutant B-cellslymfom (primary cutaneous B-cell lymphoma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
@@ -60,7 +60,7 @@ Bexaroten är en selektiv retinoid X-receptoragonist (RXR) som finns som mjuk ka
 
 ## Varför är denna förutsägelse rimlig?
 
-Bexaroten aktiverar retinoid X-receptorer, som fungerar som ligandaktiverade transkriptionsfaktorer. Genom dem påverkar läkemedlet genuttryck, celltillväxt, differentiering och apoptos (programmerad celldöd). Detaljerade mekanismdata saknas i det underlag som sammanställts för rapporten, så beskrivningen bygger på läkemedlets kända klassegenskaper.
+Bexaroten aktiverar retinoid X-receptorer, som fungerar som ligandaktiverade transkriptionsfaktorer. Genom dem påverkar läkemedlet genuttryck, celltillväxt, differentiering och apoptos (programmerad celldöd). Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Bexarotene (inofficiell översättning): ”Bexaroten binder selektivt till och aktiverar subtyper av retinoid X-receptorn (RXRα, RXRß, RXRγ). RXR kan bilda heterodimerer med olika receptorpartner, såsom retinsyrareceptorer (RAR), vitamin D-receptorn, tyreoideareceptorn och peroxisomproliferatoraktiverade receptorer (PPAR).” Engelsk originaltext: "Bexarotene selectively binds and activates retinoid X receptor subtypes (RXRα, RXRß, RXRγ). RXRs can form heterodimers with various receptor partners such as retinoic acid receptors (RARs), vitamin D receptor, thyroid receptor, and peroxisome proliferator activator receptors (PPARs)." ([DailyMed: Targretin (bexarotene) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1d056725-0576-4338-8089-6336e768ccdc), version från 2020-04-30; hämtad 2026-11-20).
 
 Det finns i nuläget inget stöd för att samma mekanism är verksam i B-celllymfom. Den höga poängen speglar sannolikt att modellen ser en nära koppling mellan lymfom som drabbar huden och läkemedlets godkända användning. Det är ett statistiskt samband i modellen och inte ett belagt biologiskt samband.
 
@@ -124,6 +124,18 @@ Se i övrigt produktresumén för varningar och kontraindikationer.
 - En systematisk litteratursökning som specifikt avser primärt kutant B-cellslymfom.
 - Kompletterade mekanismdata för läkemedlet och produktresumén med varningar och kontraindikationer.
 - Vid positiva prekliniska fynd, en liten explorativ klinisk studie med tydliga effektmått.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-20 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Targretin (bexarotene) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1d056725-0576-4338-8089-6336e768ccdc) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

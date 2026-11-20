@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "chloroprocaine"
 predicted_indications: ["cauda equina syndrome"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-20
 description: "Chloroprocaine: predikterad ny indikation Cauda equina-syndrom (cauda equina syndrome) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 1)"
 ---
 
@@ -64,7 +64,7 @@ Kloroprokain blockerar spänningsstyrda natriumkanaler och hämmar därigenom ne
 
 Sambandet med cauda equina-syndrom är sannolikt en **biverkningsassociation** och inte ett terapeutiskt samband. Syndromet har beskrivits som komplikation efter spinal- och epiduralbedövning med lokalanestetika, bland annat kloroprokain. Det föreslagna förklaringsmodellen är nervtoxicitet vid höga lokala koncentrationer eller ojämn fördelning, till exempel via kontinuerliga spinalkatetrar. Den höga poängen återspeglar därför troligen denna association och inte en förväntad nytta.
 
-Ingen rimlig mekanism har identifierats för hur natriumkanalblockad skulle behandla cauda equina-syndrom. Tillståndet orsakas typiskt av mekanisk kompression och kräver ofta kirurgisk dekompression. Detaljerade mekanismdata finns inte tillgängliga i underlaget.
+Ingen rimlig mekanism har identifierats för hur natriumkanalblockad skulle behandla cauda equina-syndrom. Tillståndet orsakas typiskt av mekanisk kompression och kräver ofta kirurgisk dekompression. Enligt avsnittet ”Clinical Pharmacology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Chloroprocaine (inofficiell översättning): ”Klorprokain blockerar, i likhet med andra lokalanestetika, uppkomsten och fortledningen av nervimpulser, troligen genom att höja tröskeln för elektrisk excitation i nerven, genom att fördröja nervimpulsens fortplantning och genom att minska aktionspotentialens stigningshastighet. Generellt är anestesins förlopp relaterat till de påverkade nervfibrernas diameter, myelinisering och ledningshastighet.” Engelsk originaltext: "Chloroprocaine, like other local anesthetics, blocks the generation and the conduction of nerve impulses, presumably by increasing the threshold for electrical excitation in the nerve, by slowing the propagation of the nerve impulse and by reducing the rate of rise of the action potential. In general, the progression of anesthesia is related to the diameter, myelination and conduction velocity of affected nerve fibers." ([DailyMed: Nesacaine (chloroprocaine hydrochloride) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a844e68a-1462-40e4-be5e-f56214906eb9), version från 2022-09-01; hämtad 2026-11-20).
 
 ---
 
@@ -114,6 +114,19 @@ Se produktresumén för fullständiga varningar och kontraindikationer.
 - Prekliniskt eller kliniskt underlag som visar behandlingsnytta vid cauda equina-syndrom, inte enbart en biverkningsassociation.
 - En tydlig mekanistisk hypotes för hur natriumkanalblockad skulle påverka sjukdomsförloppet.
 - Genomgång av produktresumén för varningar och kontraindikationer, eftersom sådana uppgifter saknas i det sammanställda underlaget.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för denna sida. Meningen om att data om verkningsmekanismen inte var tillgängliga har ersatts med ett utdrag ur den angivna officiella produktinformationen (med inofficiell översättning); modellens förutsägelser, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-20 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Nesacaine (chloroprocaine hydrochloride) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a844e68a-1462-40e4-be5e-f56214906eb9) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

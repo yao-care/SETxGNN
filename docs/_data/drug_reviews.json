@@ -14489,9 +14489,9 @@
    "drug": "lenalidomide",
    "file": "lenalidomide.md",
    "action": "mechanism",
-   "claim": "Observera att detaljerad verkningsmekanismdata saknas i den datakälla som sammanställts för rapporten.",
-   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Lenalidomide (inofficiell översättning): ”Lenalidomid är en analog till talidomid med immunmodulerande, antiangiogena och antineoplastiska egenskaper. Lenalidomids cellulära effekter medieras via dess målprotein cereblon, en komponent i ett cullin-RING E3-ubikitinligas-enzymkomplex.” Engelsk originaltext: \"Lenalidomide is an analogue of thalidomide with immunomodulatory, antiangiogenic, and antineoplastic properties. Cellular activities of lenalidomide are mediated through its target cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme complex.\" ([DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be), version från 2023-03-24; hämtad 2026-11-19).",
-   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "claim": "Observera att detaljerad verkningsmekanismdata saknas i den datakälla som sammanställts för rapporten. Beskrivningen ovan bygger därför på allmän farmakologisk kunskap och inte på läkemedlets registrerade uppgifter.",
+   "replacement": "Beskrivningen ovan bygger därför på allmän farmakologisk kunskap och inte på läkemedlets registrerade uppgifter. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Lenalidomide (inofficiell översättning): ”Lenalidomid är en analog till talidomid med immunmodulerande, antiangiogena och antineoplastiska egenskaper. Lenalidomids cellulära effekter medieras via dess målprotein cereblon, en komponent i ett cullin-RING E3-ubikitinligas-enzymkomplex.” Engelsk originaltext: \"Lenalidomide is an analogue of thalidomide with immunomodulatory, antiangiogenic, and antineoplastic properties. Cellular activities of lenalidomide are mediated through its target cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme complex.\" ([DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be), version från 2023-03-24; hämtad 2026-11-19).",
+   "summary": "\"Observera att detaljerad verkningsmekanismdata saknas i den datakälla som sammanställts för rapporten. Beskrivningen ovan bygger därför på allmän farmakologisk kunskap och inte på läkemedlets registrerade uppgifter\" replaced with a sourced mechanism-of-action statement",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
     {
@@ -14508,8 +14508,39 @@
      "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
     }
    ],
-   "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "se-moa-20261119-lenalidomide-1",
+     "drug": "lenalidomide",
+     "file": "lenalidomide.md",
+     "action": "mechanism",
+     "claim": "Observera att detaljerad verkningsmekanismdata saknas i den datakälla som sammanställts för rapporten.",
+     "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Lenalidomide (inofficiell översättning): ”Lenalidomid är en analog till talidomid med immunmodulerande, antiangiogena och antineoplastiska egenskaper. Lenalidomids cellulära effekter medieras via dess målprotein cereblon, en komponent i ett cullin-RING E3-ubikitinligas-enzymkomplex.” Engelsk originaltext: \"Lenalidomide is an analogue of thalidomide with immunomodulatory, antiangiogenic, and antineoplastic properties. Cellular activities of lenalidomide are mediated through its target cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme complex.\" ([DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be), version från 2023-03-24; hämtad 2026-11-19).",
+     "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be",
+       "accessed": "2026-11-19",
+       "excerpt": "Lenalidomide is an analogue of thalidomide with immunomodulatory, antiangiogenic, and antineoplastic properties. Cellular activities of lenalidomide are mediated through its target cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme complex.",
+       "label_version": "2023-03-24",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "5fa97bf5-28a2-48f1-8955-f56012d296be",
+       "translation": "Lenalidomid är en analog till talidomid med immunmodulerande, antiangiogena och antineoplastiska egenskaper. Lenalidomids cellulära effekter medieras via dess målprotein cereblon, en komponent i ett cullin-RING E3-ubikitinligas-enzymkomplex.",
+       "translation_lang": "sv",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-19",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "節錄後面接著 AI 說明「上面描述的依據」的句子，會讀成美國仿單的出處；那句移到節錄前面（原文不改，只換順序）"
+    }
+   ]
   },
   {
    "id": "se-moa-20261119-lomustine-1",
@@ -15017,9 +15048,9 @@
    "drug": "rivastigmine",
    "file": "rivastigmine.md",
    "action": "mechanism",
-   "claim": "Observera att uppgifter om verkningsmekanism saknas i de data som sammanställts för rapporten.",
-   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Rivastigmine (inofficiell översättning): ”Även om den exakta verkningsmekanismen för rivastigmin är okänd, anses den utöva sin terapeutiska effekt genom att förstärka den kolinerga funktionen. Detta åstadkoms genom att koncentrationen av acetylkolin ökas genom reversibel hämning av dess hydrolys av kolinesteras.” Engelsk originaltext: \"Although the precise mechanism of action of rivastigmine is unknown, it is thought to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase.\" ([DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d), version från 2025-11-11; hämtad 2026-11-19).",
-   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "claim": "Observera att uppgifter om verkningsmekanism saknas i de data som sammanställts för rapporten. Beskrivningen här bygger därför på läkemedlets allmänt kända farmakologi.",
+   "replacement": "Beskrivningen här bygger därför på läkemedlets allmänt kända farmakologi. Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Rivastigmine (inofficiell översättning): ”Även om den exakta verkningsmekanismen för rivastigmin är okänd, anses den utöva sin terapeutiska effekt genom att förstärka den kolinerga funktionen. Detta åstadkoms genom att koncentrationen av acetylkolin ökas genom reversibel hämning av dess hydrolys av kolinesteras.” Engelsk originaltext: \"Although the precise mechanism of action of rivastigmine is unknown, it is thought to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase.\" ([DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d), version från 2025-11-11; hämtad 2026-11-19).",
+   "summary": "\"Observera att uppgifter om verkningsmekanism saknas i de data som sammanställts för rapporten. Beskrivningen här bygger därför på läkemedlets allmänt kända farmakologi\" replaced with a sourced mechanism-of-action statement",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
     {
@@ -15036,8 +15067,39 @@
      "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
     }
    ],
-   "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "se-moa-20261119-rivastigmine-1",
+     "drug": "rivastigmine",
+     "file": "rivastigmine.md",
+     "action": "mechanism",
+     "claim": "Observera att uppgifter om verkningsmekanism saknas i de data som sammanställts för rapporten.",
+     "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Rivastigmine (inofficiell översättning): ”Även om den exakta verkningsmekanismen för rivastigmin är okänd, anses den utöva sin terapeutiska effekt genom att förstärka den kolinerga funktionen. Detta åstadkoms genom att koncentrationen av acetylkolin ökas genom reversibel hämning av dess hydrolys av kolinesteras.” Engelsk originaltext: \"Although the precise mechanism of action of rivastigmine is unknown, it is thought to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase.\" ([DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d), version från 2025-11-11; hämtad 2026-11-19).",
+     "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: rivastigmine tartrate prescribing information, American Health Packaging",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d",
+       "accessed": "2026-11-19",
+       "excerpt": "Although the precise mechanism of action of rivastigmine is unknown, it is thought to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase.",
+       "label_version": "2025-11-11",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "52781229-ee82-43f9-a113-4419a611978d",
+       "translation": "Även om den exakta verkningsmekanismen för rivastigmin är okänd, anses den utöva sin terapeutiska effekt genom att förstärka den kolinerga funktionen. Detta åstadkoms genom att koncentrationen av acetylkolin ökas genom reversibel hämning av dess hydrolys av kolinesteras.",
+       "translation_lang": "sv",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-19",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "節錄後面接著 AI 說明「上面描述的依據」的句子，會讀成美國仿單的出處；那句移到節錄前面（原文不改，只換順序）"
+    }
+   ]
   },
   {
    "id": "se-moa-20261119-sapropterin-1",
@@ -15253,6 +15315,60 @@
     }
    ],
    "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261120-bexarotene-1",
+   "drug": "bexarotene",
+   "file": "bexarotene.md",
+   "action": "mechanism",
+   "claim": "Detaljerade mekanismdata saknas i det underlag som sammanställts för rapporten, så beskrivningen bygger på läkemedlets kända klassegenskaper.",
+   "replacement": "Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Bexarotene (inofficiell översättning): ”Bexaroten binder selektivt till och aktiverar subtyper av retinoid X-receptorn (RXRα, RXRß, RXRγ). RXR kan bilda heterodimerer med olika receptorpartner, såsom retinsyrareceptorer (RAR), vitamin D-receptorn, tyreoideareceptorn och peroxisomproliferatoraktiverade receptorer (PPAR).” Engelsk originaltext: \"Bexarotene selectively binds and activates retinoid X receptor subtypes (RXRα, RXRß, RXRγ). RXRs can form heterodimers with various receptor partners such as retinoic acid receptors (RARs), vitamin D receptor, thyroid receptor, and peroxisome proliferator activator receptors (PPARs).\" ([DailyMed: Targretin (bexarotene) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1d056725-0576-4338-8089-6336e768ccdc), version från 2020-04-30; hämtad 2026-11-20).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Targretin (bexarotene) prescribing information, Bausch Health US, LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1d056725-0576-4338-8089-6336e768ccdc",
+     "accessed": "2026-11-20",
+     "excerpt": "Bexarotene selectively binds and activates retinoid X receptor subtypes (RXRα, RXRß, RXRγ). RXRs can form heterodimers with various receptor partners such as retinoic acid receptors (RARs), vitamin D receptor, thyroid receptor, and peroxisome proliferator activator receptors (PPARs).",
+     "label_version": "2020-04-30",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "1d056725-0576-4338-8089-6336e768ccdc",
+     "translation": "Bexaroten binder selektivt till och aktiverar subtyper av retinoid X-receptorn (RXRα, RXRß, RXRγ). RXR kan bilda heterodimerer med olika receptorpartner, såsom retinsyrareceptorer (RAR), vitamin D-receptorn, tyreoideareceptorn och peroxisomproliferatoraktiverade receptorer (PPAR).",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "se-moa-20261120-chloroprocaine-1",
+   "drug": "chloroprocaine",
+   "file": "chloroprocaine.md",
+   "action": "mechanism",
+   "claim": "Detaljerade mekanismdata finns inte tillgängliga i underlaget.",
+   "replacement": "Enligt avsnittet ”Clinical Pharmacology” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Chloroprocaine (inofficiell översättning): ”Klorprokain blockerar, i likhet med andra lokalanestetika, uppkomsten och fortledningen av nervimpulser, troligen genom att höja tröskeln för elektrisk excitation i nerven, genom att fördröja nervimpulsens fortplantning och genom att minska aktionspotentialens stigningshastighet. Generellt är anestesins förlopp relaterat till de påverkade nervfibrernas diameter, myelinisering och ledningshastighet.” Engelsk originaltext: \"Chloroprocaine, like other local anesthetics, blocks the generation and the conduction of nerve impulses, presumably by increasing the threshold for electrical excitation in the nerve, by slowing the propagation of the nerve impulse and by reducing the rate of rise of the action potential. In general, the progression of anesthesia is related to the diameter, myelination and conduction velocity of affected nerve fibers.\" ([DailyMed: Nesacaine (chloroprocaine hydrochloride) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a844e68a-1462-40e4-be5e-f56214906eb9), version från 2022-09-01; hämtad 2026-11-20).",
+   "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 Clinical Pharmacology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Nesacaine (chloroprocaine hydrochloride) prescribing information, Fresenius Kabi USA, LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a844e68a-1462-40e4-be5e-f56214906eb9",
+     "accessed": "2026-11-20",
+     "excerpt": "Chloroprocaine, like other local anesthetics, blocks the generation and the conduction of nerve impulses, presumably by increasing the threshold for electrical excitation in the nerve, by slowing the propagation of the nerve impulse and by reducing the rate of rise of the action potential. In general, the progression of anesthesia is related to the diameter, myelination and conduction velocity of affected nerve fibers.",
+     "label_version": "2022-09-01",
+     "section": "Clinical Pharmacology",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "a844e68a-1462-40e4-be5e-f56214906eb9",
+     "translation": "Klorprokain blockerar, i likhet med andra lokalanestetika, uppkomsten och fortledningen av nervimpulser, troligen genom att höja tröskeln för elektrisk excitation i nerven, genom att fördröja nervimpulsens fortplantning och genom att minska aktionspotentialens stigningshastighet. Generellt är anestesins förlopp relaterat till de påverkade nervfibrernas diameter, myelinisering och ledningshastighet.",
+     "translation_lang": "sv",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
    "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
   }
  ]

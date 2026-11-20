@@ -328,7 +328,7 @@
   "with_current": 54,
   "none_current": 0,
   "without_data": 14,
-  "with_reviews": 40,
+  "with_reviews": 41,
   "rows": [
    {
     "t": "Acitretin",
@@ -601,8 +601,8 @@
     "i": "Cauda equina-syndrom",
     "lt": 2,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -943,7 +943,7 @@
   "with_current": 366,
   "none_current": 2,
   "without_data": 73,
-  "with_reviews": 236,
+  "with_reviews": 237,
   "rows": [
    {
     "t": "Aripiprazol",
@@ -1767,7 +1767,7 @@
     "lt": 18,
     "lv": 18,
     "r": 1,
-    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
+    "rs": "\"Observera att uppgifter om verkningsmekanism saknas i de data som sammanställts för rapporten. Beskrivningen…",
     "x": 0
    },
    {
@@ -4439,8 +4439,8 @@
     "i": "Primärt kutant B-cellslymfom",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
