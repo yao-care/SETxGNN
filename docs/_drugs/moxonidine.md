@@ -62,7 +62,7 @@ Moxonidin är en centralt verkande blodtryckssänkande substans som ursprunglige
 
 För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de sammanställda uppgifterna. Moxonidin är enligt allmänt känd farmakologi en agonist vid imidazolin I1-receptorer och alfa-2-adrenerga receptorer, som minskar den sympatiska aktiviteten och därmed sänker blodtrycket. Bindning till alfa-2A-, alfa-2B- och alfa-2C-adrenoceptorerna finns också noterad i farmakologidata.
 
-Något etablerat samband mellan denna mekanism och hårfollikelns biologi har inte identifierats. Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Moxonidine (inofficiell översättning): ”Nischarinagonist” Engelsk originaltext: "Nischarin agonist" ([ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236), CC BY-SA 3.0; hämtad 2026-11-19).
+Något etablerat samband mellan denna mekanism och hårfollikelns biologi har inte identifierats. Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Moxonidine (inofficiell översättning): ”Nischarinagonist”. Engelsk originaltext: "Nischarin agonist" ([ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236), CC BY-SA 3.0; hämtad 2026-11-19).
 
 **Övriga förutsagda indikationer** granskades också. Ingen av dem har kliniskt stöd:
 
@@ -140,7 +140,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Ytterligare tre indragna godkännanden finns (totalt 8): 19532 (Moxonidin STADA) samt 24089 och 24087 (Moxonidin Actavis)” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa (reviderad 2026-11-20; tidigare version sparad i posten) | [ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236) |
 
 <!-- review:end log -->
 

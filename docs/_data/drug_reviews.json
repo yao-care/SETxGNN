@@ -13783,7 +13783,7 @@
    "file": "amsacrine.md",
    "action": "mechanism",
    "claim": "Detaljerade uppgifter om verkningsmekanismen saknas i de data som sammanställts för denna rapport, och beskrivningen ovan bygger på allmänt känd farmakologi.",
-   "replacement": "Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Amsacrine (inofficiell översättning): ”DNA-topoisomeras II-hämmare” Engelsk originaltext: \"DNA topoisomerase II inhibitor\" ([ChEMBL CHEMBL43 (amsacrine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43), CC BY-SA 3.0; hämtad 2026-11-19).",
+   "replacement": "Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Amsacrine (inofficiell översättning): ”DNA-topoisomeras II-hämmare”. Engelsk originaltext: \"DNA topoisomerase II inhibitor\" ([ChEMBL CHEMBL43 (amsacrine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43), CC BY-SA 3.0; hämtad 2026-11-19).",
    "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -13800,7 +13800,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Amsacrine (inofficiell översättning): ”DNA-topoisomeras II-hämmare” Engelsk originaltext: \"DNA topoisomerase II inhibitor\" ([ChEMBL CHEMBL43 (amsacrine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43), CC BY-SA 3.0; hämtad 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "se-moa-20261119-atazanavir-1",
@@ -14564,7 +14571,7 @@
    "file": "methoxsalen.md",
    "action": "mechanism",
    "claim": "Någon detaljerad verkningsmekanismdata finns för närvarande inte tillgänglig.",
-   "replacement": "Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Methoxsalen (inofficiell översättning): ”DNA-hämmare” Engelsk originaltext: \"DNA inhibitor\" ([ChEMBL CHEMBL416 (methoxsalen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416), CC BY-SA 3.0; hämtad 2026-11-19).",
+   "replacement": "Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Methoxsalen (inofficiell översättning): ”DNA-hämmare”. Engelsk originaltext: \"DNA inhibitor\" ([ChEMBL CHEMBL416 (methoxsalen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416), CC BY-SA 3.0; hämtad 2026-11-19).",
    "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -14581,7 +14588,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Methoxsalen (inofficiell översättning): ”DNA-hämmare” Engelsk originaltext: \"DNA inhibitor\" ([ChEMBL CHEMBL416 (methoxsalen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416), CC BY-SA 3.0; hämtad 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "se-moa-20261119-modafinil-1",
@@ -14643,7 +14657,7 @@
    "file": "moxonidine.md",
    "action": "mechanism",
    "claim": "Eftersom verkningsmekanismen saknas i underlaget går sambandet inte att validera ytterligare.",
-   "replacement": "Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Moxonidine (inofficiell översättning): ”Nischarinagonist” Engelsk originaltext: \"Nischarin agonist\" ([ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236), CC BY-SA 3.0; hämtad 2026-11-19).",
+   "replacement": "Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Moxonidine (inofficiell översättning): ”Nischarinagonist”. Engelsk originaltext: \"Nischarin agonist\" ([ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236), CC BY-SA 3.0; hämtad 2026-11-19).",
    "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -14660,7 +14674,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Moxonidine (inofficiell översättning): ”Nischarinagonist” Engelsk originaltext: \"Nischarin agonist\" ([ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236), CC BY-SA 3.0; hämtad 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "se-moa-20261119-nabumetone-1",
@@ -14668,7 +14689,7 @@
    "file": "nabumetone.md",
    "action": "mechanism",
    "claim": "Någon detaljerad uppgift om verkningsmekanismen finns inte i de data som sammanställts för denna rapport, så den mekanistiska bedömningen är begränsad.",
-   "replacement": "Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Nabumetone (inofficiell översättning): ”Cyklooxygenas-2-hämmare” Engelsk originaltext: \"Cyclooxygenase-2 inhibitor\" ([ChEMBL CHEMBL1070 (nabumetone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1070), CC BY-SA 3.0; hämtad 2026-11-19).",
+   "replacement": "Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Nabumetone (inofficiell översättning): ”Cyklooxygenas-2-hämmare”. Engelsk originaltext: \"Cyclooxygenase-2 inhibitor\" ([ChEMBL CHEMBL1070 (nabumetone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1070), CC BY-SA 3.0; hämtad 2026-11-19).",
    "summary": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -14685,7 +14706,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Nabumetone (inofficiell översättning): ”Cyklooxygenas-2-hämmare” Engelsk originaltext: \"Cyclooxygenase-2 inhibitor\" ([ChEMBL CHEMBL1070 (nabumetone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1070), CC BY-SA 3.0; hämtad 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "se-moa-20261119-nimodipine-1",

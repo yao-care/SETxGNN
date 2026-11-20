@@ -61,7 +61,7 @@ TxGNN-modellen förutsäger att det kan vara effektivt mot **lokaliserad pagetoi
 
 ## Varför är denna förutsägelse rimlig?
 
-Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Methoxsalen (inofficiell översättning): ”DNA-hämmare” Engelsk originaltext: "DNA inhibitor" ([ChEMBL CHEMBL416 (methoxsalen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416), CC BY-SA 3.0; hämtad 2026-11-19). Baserat på känd information är metoxalen ett fotosensibiliserande läkemedel. Efter aktivering med UVA-ljus binder det till DNA och bildar tvärbindningar, vilket leder till apoptos (programmerad celldöd) i celler som delar sig och i T-celler. Effekten vid kutant T-cellslymfom är väl känd, och mekanistiskt kan den vara tillämpbar på lokaliserad pagetoid retikulos.
+Enligt ChEMBL (EMBL-EBI) är den registrerade verkningsmekanismen för Methoxsalen (inofficiell översättning): ”DNA-hämmare”. Engelsk originaltext: "DNA inhibitor" ([ChEMBL CHEMBL416 (methoxsalen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416), CC BY-SA 3.0; hämtad 2026-11-19). Baserat på känd information är metoxalen ett fotosensibiliserande läkemedel. Efter aktivering med UVA-ljus binder det till DNA och bildar tvärbindningar, vilket leder till apoptos (programmerad celldöd) i celler som delar sig och i T-celler. Effekten vid kutant T-cellslymfom är väl känd, och mekanistiskt kan den vara tillämpbar på lokaliserad pagetoid retikulos.
 
 Lokaliserad pagetoid retikulos är en långsamt växande, epidermotrop variant av primärt kutant T-cellslymfom, alltså samma sjukdomsfamilj som metoxalens ursprungliga indikation. Tumörcellerna är T-celler som växer i huden, där UVA-ljus når fram. Därför finns en biologisk grund för att PUVA skulle kunna verka även här.
 
@@ -168,7 +168,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Dessutom är det enda svenska godkännandet indraget, och produktresumétexten saknas” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 1 godkännande (23246) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
-| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [ChEMBL CHEMBL416 (methoxsalen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416) |
+| 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa (reviderad 2026-11-20; tidigare version sparad i posten) | [ChEMBL CHEMBL416 (methoxsalen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416) |
 
 <!-- review:end log -->
 
