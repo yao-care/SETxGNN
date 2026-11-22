@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T00:52:25.696943+00:00",
+  "fetched_at": "2026-11-22T07:42:15.154831+00:00",
   "source": "Google News Health RSS",
   "count": 51,
   "articles": [
@@ -14,13 +14,13 @@
       }
     },
     {
-      "id": "762565117792",
-      "title": "Nyblivna pappor med högre föräldraersättning har bättre psykisk hälsa - Medicinsk Access",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWwxTmd3d25lYUE3a0RtZm45ZnNDZllWbnpGZkFUQk91dUVsdmxTN1dBV0tOUkpYVy02X3JlMjVkWXBtcDJxWXdUc0FTZDU4RUhyczNUYzhfZGV5NC1OYnhYRzAyNlhISUM3YndKVnBsR3FZMjFQU3BwZVl1NEk4Unp5QlRscXVxZjZ4U2o2MFB1Q0RpcmpOVV9sU3M2X0tFTi16WVBORS1ZOWdSRVVXaGRB?oc=5",
-      "published": "2026-11-20T09:21:28+00:00",
+      "id": "0c925bf118f3",
+      "title": "Viktläkemedel kan minska effekt av p-piller - DI",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13Qm85UUtuWjV4NjRXZ1JvY3hmVDU1ZUNJSkpUaDJXX3RWZF9pVHNoVXllRFFFdDRGY3JFdGF6MC1neWs0ZnhpUXlnTkF1WUd1b3habHYzLWxjdjl1cllRV0VwUF9YN2E4Zjg3c2tLVElUdmpsWDVGcTZn?oc=5",
+      "published": "2026-11-20T14:59:50+00:00",
       "source": {
-        "name": "Medicinsk Access",
-        "url": "https://medicinskaccess.se"
+        "name": "DI",
+        "url": "https://www.di.se"
       }
     },
     {
@@ -31,16 +31,6 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "0c925bf118f3",
-      "title": "Viktläkemedel kan minska effekt av p-piller - DI",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13Qm85UUtuWjV4NjRXZ1JvY3hmVDU1ZUNJSkpUaDJXX3RWZF9pVHNoVXllRFFFdDRGY3JFdGF6MC1neWs0ZnhpUXlnTkF1WUd1b3habHYzLWxjdjl1cllRV0VwUF9YN2E4Zjg3c2tLVElUdmpsWDVGcTZn?oc=5",
-      "published": "2026-11-20T14:59:50+00:00",
-      "source": {
-        "name": "DI",
-        "url": "https://www.di.se"
       }
     },
     {
@@ -61,16 +51,6 @@
       "source": {
         "name": "Sydsvenskan",
         "url": "https://www.sydsvenskan.se"
-      }
-    },
-    {
-      "id": "bac2ad54cd99",
-      "title": "Över 5 200 rapporterade biverkningar själva – så gör du om du får besvär - Metro Mode",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdE81REtodW1VN01VejFEakxGd0NxNFp4MWNBb0dlendLUlJHWGdKd2RDelQ0aUVuSTRGcERWampkSDBnM2cyQmUyemR6Qlh5NUQ3OFRpRHJpNmMwR284N0plWjdockpoUHgyRUZLcmw0X1c5alV5MGVWREE0eW9oM1BIX2pjMk9RNGhhb09CeXN6YXNTUENqZXBBczc4ZFk?oc=5",
-      "published": "2026-11-16T09:38:23+00:00",
-      "source": {
-        "name": "Metro Mode",
-        "url": "https://metromode.se"
       }
     },
     {
@@ -154,6 +134,16 @@
       }
     },
     {
+      "id": "b839bf00c97e",
+      "title": "”När politiska budskap påverkar hälsa och tillgång till läkemedel” - Svensk Farmaci",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW9FaGZQZmRZbUp2WDFsX3dkRFQ1Q1R0UHlhTGlIREc4LUpDT05Od1h2SUhieFh3aWUxUnFjTXYwNGZBWFJkdENQTTVmbWZTR0tkSEZ4eUZZUlBaa24yVFdvd1dMS2dmZVJLMjlLOWNfUmprNGJvZDVTaGpYZEVETXFPcnhVR3A3LXNVWGlZeDE5dDFMTEdpWHliUHkwSUJuTzhxS1prN2I?oc=5",
+      "published": "2026-02-05T08:00:00+00:00",
+      "source": {
+        "name": "Svensk Farmaci",
+        "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
       "id": "8025539d84ea",
       "title": "Läkemedelsjätten i ny miljardaffär - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaWJ2WjFHS2owS0lYOEdRTXlsbzYyOVUyMnY2MmU5ZTltdlA2UHJBTk1wQUNDaW9QdUY5b2t4bVNONXAxbFdBV0kxRThJZkVwRzBiSHhHcEdERVVKUG4tUFBjQ3BXQ2RlckFJRVJVX1BzeVJQLUs1RDczZ2xsVEQxZGJOMHBiRm5yMjIxekFpU1A?oc=5",
@@ -194,10 +184,10 @@
       }
     },
     {
-      "id": "5834a3003633",
-      "title": "Nio av tio trygga vid förlossning – sämre stöd efteråt - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY1N0X1Z1UVlKQ0tBVTlCSXpJRm9CWllsQVdYcG9IUVdPZDkyMDdTSlNQNEpHcWo0djRJOHNCWGlPSkhXU181ZGtRdkFzZTJZUEVtUnNkM1pUM1pPcHZkeDBQZXdmV3Y4OWVTWndfSDdxYmpRWm1mTTh3WlVhdUlSRHQ3aVJSNU56M0N1ZjFPdXRvaFpxZjBwZ2dJTklJRURLU2Zab0pLS0tSRXBPQktuT3lR?oc=5",
-      "published": "2026-11-18T04:54:00+00:00",
+      "id": "d12d82623bc5",
+      "title": "Apotek Hjärtat om storaffären: ”Handlar inte om att styra patientflöden” - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSGtVRXY3bThZNmh0SkEtSHF6S2FyOGxJTkhvX2lDT3ZkN0tWZ1hTTFBMdFRza0R1RDJlWFo1QjJZZGxUc3B3d0d4UlZONkxoOUlKOXU5bWF3Q1RNNlhXdURuWEJZUHZQYzVQaHRmR0FGbUM5RnJnMWdMT1FienNlR3hPMWRuaGJGYTMyZzNpU1Q1a3AyY2FzVk40dG9tVVlpd1VkSjZWUXZNclQtRTY0U0FYR243dU8wcFZj?oc=5",
+      "published": "2026-11-13T01:40:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -211,16 +201,6 @@
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "b839bf00c97e",
-      "title": "”När politiska budskap påverkar hälsa och tillgång till läkemedel” - Svensk Farmaci",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW9FaGZQZmRZbUp2WDFsX3dkRFQ1Q1R0UHlhTGlIREc4LUpDT05Od1h2SUhieFh3aWUxUnFjTXYwNGZBWFJkdENQTTVmbWZTR0tkSEZ4eUZZUlBaa24yVFdvd1dMS2dmZVJLMjlLOWNfUmprNGJvZDVTaGpYZEVETXFPcnhVR3A3LXNVWGlZeDE5dDFMTEdpWHliUHkwSUJuTzhxS1prN2I?oc=5",
-      "published": "2026-02-05T08:00:00+00:00",
-      "source": {
-        "name": "Svensk Farmaci",
-        "url": "https://www.svenskfarmaci.se"
       }
     },
     {
@@ -384,16 +364,6 @@
       }
     },
     {
-      "id": "74e8e2f8acb1",
-      "title": "Pekar ut problem inom tennisen: ”Klarar inte det” - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT3JQV2J4Y2Joa05acGlXRlV3VkxFNS1XT2ZUNTR5ZHBkdTlyVUE5MnY2T1hpS1RPaDIzb05EQkRJWGFaY25MalhXb2dYbFVEZExRd0Z0LU1lLVRrWmNvMU1aZ18wMEpieEsySkpZWXNNdThRLXFEZjlja1RVbHltTjJGekRSdThEMk9DT3JaR1B4MjBMaExoRFJYTjJiNlE0YS1FVGhVMHpibXpKZXpZSzlQQW5zLU84VlNnRmV4TVUtc1FtYkE?oc=5",
-      "published": "2025-07-07T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
-      }
-    },
-    {
       "id": "26feddffc7ba",
       "title": "Hälsa och teknik i Göteborg - Chalmers tekniska högskola",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdDA1NVg1MDl2MnNCTDBPZGZIbWJDRVVwN0JLcWp2am50T0hCT0RpcjNaNGJMdUtMeXdOc1lFeHJSd2lyejRUWkE0LXZrMk9OS00yai1QZ01jY2lKbktqZklRY2o0Y3JqaW5BeXlSTGVPZG9vOVpFMVcwMk1yZE5NNmFCZ0J2SDh6MDBVOV9uOVRpRVpRbVVETUFn?oc=5",
@@ -401,6 +371,16 @@
       "source": {
         "name": "Chalmers tekniska högskola",
         "url": "https://www.chalmers.se"
+      }
+    },
+    {
+      "id": "74e8e2f8acb1",
+      "title": "Pekar ut problem inom tennisen: ”Klarar inte det” - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT3JQV2J4Y2Joa05acGlXRlV3VkxFNS1XT2ZUNTR5ZHBkdTlyVUE5MnY2T1hpS1RPaDIzb05EQkRJWGFaY25MalhXb2dYbFVEZExRd0Z0LU1lLVRrWmNvMU1aZ18wMEpieEsySkpZWXNNdThRLXFEZjlja1RVbHltTjJGekRSdThEMk9DT3JaR1B4MjBMaExoRFJYTjJiNlE0YS1FVGhVMHpibXpKZXpZSzlQQW5zLU84VlNnRmV4TVUtc1FtYkE?oc=5",
+      "published": "2025-07-07T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -444,6 +424,16 @@
       }
     },
     {
+      "id": "5bd469764c1b",
+      "title": "Agenda 2030 | Mål 3 | Hälsa och välbefinnande - Regeringen.se",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMklPT1JGMHFfT0FfekR6VzhQcVEyY3gtdHBkT0t1OWlkcXJpQnZqYUE4M0Z5ZnoyRFBwb0pHZll3Mm5ZLXNWbDhHMUF0NGFwN3hTeUJINjlvNWhGRlcxQnROcHNqMHpBa1pOWXZ4R1JjS092MEd2RWhzdWNadWRJcWZ1SzNqVC1qTnpXV2wyak1nMUxud21EZ2lwMjgxTkdjLXp2VzhRMWhQazNJYlpmNEk4dEJ0bVhNNXc?oc=5",
+      "published": "2021-05-29T06:00:49+00:00",
+      "source": {
+        "name": "Regeringen.se",
+        "url": "https://www.regeringen.se"
+      }
+    },
+    {
       "id": "cb721b659d7e",
       "title": "Lista: De slåss om toppjobbet i Värmland - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb21TYWEwaHMza2NXM3V6WWYyemdpdVZjSGlZTHVwNGh4dlAtckx4TkFlM01ELTNSek5aX3V3Ry1aN0ZfRGtuazdVZ0UydGVPeTdwUlBTdmpvLU4xOHJzZE9OdTVPRW8takJNWHRoakdZSzJyellZd0kzeUUtVHpzX2FLejNTdkJBRWl2YUdqZUs4VzA?oc=5",
@@ -464,6 +454,16 @@
       }
     },
     {
+      "id": "a40dee7cf31c",
+      "title": "Rapport: Så kan vårdpersonal orka arbeta längre - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcVBCdFVJcUxmNWpicUJ3Y1p4THlxM3lON01HQmdfQXR3YmZScHhTQy03MGU3NGI0TTdVcU5LMEVBc1NCS3JLX3RlRjBEMU02YW93YUl6TEc4TjhsNUZwV1ZUejAyNFFBS0xKdHVsLWxNeldYUFdsWWNXZlpGb1dkSGxHSmVtem83TVA1dF9za1owWENqN3NMeDE0TDBrTGc?oc=5",
+      "published": "2026-11-18T03:14:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "d2c560277f8d",
       "title": "Sömnläkemedel försvinner från listan - Janusinfo.se",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdDJvSnJuNXdhN2JuYzRrT2pidlAtZWFicjFBZl9QdXBXZmFkQ25PRlpNMVl5cGU2Vjdkb0pVZnMxQ1FaRUx1NlcxY1hBRmFHSEg4eVJiTmJZTkdBZXJQeUpYRUxJT1QtQ2JhSDJsSFg5NURNWVFhTXZMQmp5eGVqVDRkT2JST0YzelJ2UEtDN3hmcDhaS05GdnVCVE90TWZBNkdiVEJLQVpROE9kNlItVzFHZHBaQmNBdG1BMmRIMVJ3TXE0ZWVzRVBTenBXVGlPVGc?oc=5",
@@ -474,10 +474,10 @@
       }
     },
     {
-      "id": "552b1d13466f",
-      "title": "Dieterna kan ge liknande resultat som Ozempic - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjhycHpNOTcxUm5mOUlWZHNNUWlsVGQ2ZnRBellkb0hXUE9ITWJKNzM2Z05UQ3p5VzRYTmx5UnJ1MUxRT2dnc1kyQmhlTGJ6YUhtMEdfOVBzM1k2SkZZRW5mUjZYRms4aTM2NTQtcDhGbFJHY1N6d3QtUTFFZEtsTVF6XzVvMGk2OVloTmI0cGJDNkJJb21vNFBnUU9QQQ?oc=5",
-      "published": "2025-08-19T07:00:00+00:00",
+      "id": "765c04750a9b",
+      "title": "Nya råd vid restless legs: ”Pröva först” - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZLVBtWGRJUmxpNVFkN1NDY0lGelRKY0sxMzJSRWp5czQ0LVVzYnpScnJMTTZOLVM3QVdzRDh2T3NRZGtMNjRZTDAxV3h4WHYwQWJSODdRQjc1QU1PTG5BYWlWRVZ3Y05GUXh2U21WbUIyeWdfSEdHUDZELXA?oc=5",
+      "published": "2026-03-15T07:00:00+00:00",
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
