@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-21T20:44:00.836850+00:00",
+  "fetched_at": "2026-11-22T00:52:25.696943+00:00",
   "source": "Google News Health RSS",
-  "count": 53,
+  "count": 51,
   "articles": [
     {
       "id": "0f9aafea0a18",
@@ -34,13 +34,13 @@
       }
     },
     {
-      "id": "623dfccaf4d1",
-      "title": "Diabetes ökar – nya läkemedel förändrar behandlingen - Sydsvenskan",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYnYwMVZsbnJTdU0zMEJGMnAyR1FmeklSZl8wYTdTOURqV2UzUFFySUdEMkwzelMxQ25WR25zNzc5eFB1TU90NWU2eXpOdHRmT1dfTXFieTkxaWpaN21LZFJ1Y3lYVHJsLWxkZFRhZHhBQTZPQnFNV1dNRjlfV1hYUHMzcnRLSDYwbXVteXlOZw?oc=5",
-      "published": "2026-11-17T12:00:00+00:00",
+      "id": "0c925bf118f3",
+      "title": "Viktläkemedel kan minska effekt av p-piller - DI",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13Qm85UUtuWjV4NjRXZ1JvY3hmVDU1ZUNJSkpUaDJXX3RWZF9pVHNoVXllRFFFdDRGY3JFdGF6MC1neWs0ZnhpUXlnTkF1WUd1b3habHYzLWxjdjl1cllRV0VwUF9YN2E4Zjg3c2tLVElUdmpsWDVGcTZn?oc=5",
+      "published": "2026-11-20T14:59:50+00:00",
       "source": {
-        "name": "Sydsvenskan",
-        "url": "https://www.sydsvenskan.se"
+        "name": "DI",
+        "url": "https://www.di.se"
       }
     },
     {
@@ -51,6 +51,16 @@
       "source": {
         "name": "Lif – de forskande läkemedelsföretagen",
         "url": "https://www.lif.se"
+      }
+    },
+    {
+      "id": "623dfccaf4d1",
+      "title": "Diabetes ökar – nya läkemedel förändrar behandlingen - Sydsvenskan",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYnYwMVZsbnJTdU0zMEJGMnAyR1FmeklSZl8wYTdTOURqV2UzUFFySUdEMkwzelMxQ25WR25zNzc5eFB1TU90NWU2eXpOdHRmT1dfTXFieTkxaWpaN21LZFJ1Y3lYVHJsLWxkZFRhZHhBQTZPQnFNV1dNRjlfV1hYUHMzcnRLSDYwbXVteXlOZw?oc=5",
+      "published": "2026-11-17T12:00:00+00:00",
+      "source": {
+        "name": "Sydsvenskan",
+        "url": "https://www.sydsvenskan.se"
       }
     },
     {
@@ -71,16 +81,6 @@
       "source": {
         "name": "Region Stockholm",
         "url": "https://www.regionstockholm.se"
-      }
-    },
-    {
-      "id": "0c925bf118f3",
-      "title": "Viktläkemedel kan minska effekt av p-piller - DI",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13Qm85UUtuWjV4NjRXZ1JvY3hmVDU1ZUNJSkpUaDJXX3RWZF9pVHNoVXllRFFFdDRGY3JFdGF6MC1neWs0ZnhpUXlnTkF1WUd1b3habHYzLWxjdjl1cllRV0VwUF9YN2E4Zjg3c2tLVElUdmpsWDVGcTZn?oc=5",
-      "published": "2026-11-20T14:59:50+00:00",
-      "source": {
-        "name": "DI",
-        "url": "https://www.di.se"
       }
     },
     {
@@ -124,10 +124,20 @@
       }
     },
     {
-      "id": "c5f3dc4130bd",
-      "title": "Intensiv blodtryckskontroll nådde inte målet vid diabetes - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU3VQRUd4bWpNakNvdjQzN1p3M0E4TWNOeFgtbzdqckUxUGdwbmJnVlh3UmxjNmRkaGhZMW1MUklGYmJLN3FNcWhfR1dOZWtsZjhzbEkxR2Q2SUFVTmRQaG5VSEJyVG91T3pzLWFUZXdPVG1QdVd6aVA0OE96c2cxdUI1OVJvT3M5ZmJrNUNGUGtJV0NNcnJfcGQ3XzVuazNQTGRyVGcwNEt3RnBIVkxJWThmNExZMV9z?oc=5",
-      "published": "2026-11-19T05:30:00+00:00",
+      "id": "839f300c9a07",
+      "title": "\"Barn och ungdomar ska få bästa möjliga läkemedelsbehandling\" - Svensk Farmaci",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXVaal9CUXh5MGVMOUJZbnBSY3dvSFVoMG1nVTBieDNtUkxKOXBpQTh6aWYwem5TRnJ5Q0JTR2thX3hLdUZ2a1RZRmw5N1AtSFpWQmNvN3B2eFRabGZMTk1fb0xscTl3Rk51U1JKdmFyUnpQTUpYcTAyN0VYX3Y3Y2d5QTZ6em1Kb0xIUkRkVnBJYlFhc1QwNUxB?oc=5",
+      "published": "2026-04-21T07:00:00+00:00",
+      "source": {
+        "name": "Svensk Farmaci",
+        "url": "https://www.svenskfarmaci.se"
+      }
+    },
+    {
+      "id": "1fba4dac6448",
+      "title": "Han är Årets Läkemedelsprofil 2026 - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcHVObmtpbGwyMzNuNXMwVEpiZndXb1BNb0pEeEhhaEw4b2MzTHp1d0NyQXV4WFo0bEowd0UyZ2lNSG5rTnJaYVY5S3JUNlFPNWpZdWRNZC0zOEozQ21jQXoyMmNSMzdHVHlIVW54MUM5Tm5qOVJiQXJKVExBTjhUREY0ZHlyM1RaVEU5Wlh3?oc=5",
+      "published": "2026-11-19T04:33:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -144,40 +154,10 @@
       }
     },
     {
-      "id": "1fba4dac6448",
-      "title": "Han är Årets Läkemedelsprofil 2026 - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcHVObmtpbGwyMzNuNXMwVEpiZndXb1BNb0pEeEhhaEw4b2MzTHp1d0NyQXV4WFo0bEowd0UyZ2lNSG5rTnJaYVY5S3JUNlFPNWpZdWRNZC0zOEozQ21jQXoyMmNSMzdHVHlIVW54MUM5Tm5qOVJiQXJKVExBTjhUREY0ZHlyM1RaVEU5Wlh3?oc=5",
-      "published": "2026-11-19T04:33:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
       "id": "8025539d84ea",
       "title": "Läkemedelsjätten i ny miljardaffär - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaWJ2WjFHS2owS0lYOEdRTXlsbzYyOVUyMnY2MmU5ZTltdlA2UHJBTk1wQUNDaW9QdUY5b2t4bVNONXAxbFdBV0kxRThJZkVwRzBiSHhHcEdERVVKUG4tUFBjQ3BXQ2RlckFJRVJVX1BzeVJQLUs1RDczZ2xsVEQxZGJOMHBiRm5yMjIxekFpU1A?oc=5",
       "published": "2026-11-16T05:22:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "5834a3003633",
-      "title": "Nio av tio trygga vid förlossning – sämre stöd efteråt - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY1N0X1Z1UVlKQ0tBVTlCSXpJRm9CWllsQVdYcG9IUVdPZDkyMDdTSlNQNEpHcWo0djRJOHNCWGlPSkhXU181ZGtRdkFzZTJZUEVtUnNkM1pUM1pPcHZkeDBQZXdmV3Y4OWVTWndfSDdxYmpRWm1mTTh3WlVhdUlSRHQ3aVJSNU56M0N1ZjFPdXRvaFpxZjBwZ2dJTklJRURLU2Zab0pLS0tSRXBPQktuT3lR?oc=5",
-      "published": "2026-11-18T04:54:00+00:00",
-      "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
-      }
-    },
-    {
-      "id": "18728d95ffa4",
-      "title": "”Jättefina” resultat för semaglutid vad gäller vikttapp hos barn - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXhSVzI1ek5LSE1lZFpndU1rdnBUbXo4eUJUaTRrU2JaRVp2TXJZbmhWcEFyZ1R3MkUwcGFLTE1yNkRrdnl4OHBvV2xBckhVQWNLUXZDVkplVjlGdU9QZjU1bnVqcmJfZXo0cTU5R2twdm1YNHY5U0JXVlVqankxeHU3eGd4a2sxUTdPVFpzaERhWjlieEtUd2ZVbjJFOElXT2JBb1phU095bjJSWnZvWkQtQ01IQQ?oc=5",
-      "published": "2026-11-16T06:01:00+00:00",
       "source": {
         "name": "Dagens Medicin",
         "url": "https://www.dagensmedicin.se"
@@ -194,6 +174,16 @@
       }
     },
     {
+      "id": "18728d95ffa4",
+      "title": "”Jättefina” resultat för semaglutid vad gäller vikttapp hos barn - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXhSVzI1ek5LSE1lZFpndU1rdnBUbXo4eUJUaTRrU2JaRVp2TXJZbmhWcEFyZ1R3MkUwcGFLTE1yNkRrdnl4OHBvV2xBckhVQWNLUXZDVkplVjlGdU9QZjU1bnVqcmJfZXo0cTU5R2twdm1YNHY5U0JXVlVqankxeHU3eGd4a2sxUTdPVFpzaERhWjlieEtUd2ZVbjJFOElXT2JBb1phU095bjJSWnZvWkQtQ01IQQ?oc=5",
+      "published": "2026-11-16T06:01:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
+      }
+    },
+    {
       "id": "1f41a2d0cd0c",
       "title": "EMA rekommenderar extra skydd vid användning av Mounjaro och p-piller - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdXpCUnNzaTNQemtlTVNlWnVSaWItYVhSbXNKVVZ2cnNQaXp5TWFvU2g4cjhPZ2Y3cGFJZ0pydnYzTV91RWs4eE5uRTR1Rmd1WnU5dmQ1SXU5Q05LNFhrQ0d6el82X3U2WWotbVdLMEp2NVRySHF6UkNxODZxV2xVNk0zc0ZWdExMTzZjQU5NUnFLZ2FITGdmbkVZcGVWSFNvMFI5ckV4bEdKRkszNzFFX2JpREJnZmNyMXBGc2F6UkU5dTl5LUEzQQ?oc=5",
@@ -204,23 +194,13 @@
       }
     },
     {
-      "id": "839f300c9a07",
-      "title": "\"Barn och ungdomar ska få bästa möjliga läkemedelsbehandling\" - Svensk Farmaci",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXVaal9CUXh5MGVMOUJZbnBSY3dvSFVoMG1nVTBieDNtUkxKOXBpQTh6aWYwem5TRnJ5Q0JTR2thX3hLdUZ2a1RZRmw5N1AtSFpWQmNvN3B2eFRabGZMTk1fb0xscTl3Rk51U1JKdmFyUnpQTUpYcTAyN0VYX3Y3Y2d5QTZ6em1Kb0xIUkRkVnBJYlFhc1QwNUxB?oc=5",
-      "published": "2026-04-21T07:00:00+00:00",
+      "id": "5834a3003633",
+      "title": "Nio av tio trygga vid förlossning – sämre stöd efteråt - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY1N0X1Z1UVlKQ0tBVTlCSXpJRm9CWllsQVdYcG9IUVdPZDkyMDdTSlNQNEpHcWo0djRJOHNCWGlPSkhXU181ZGtRdkFzZTJZUEVtUnNkM1pUM1pPcHZkeDBQZXdmV3Y4OWVTWndfSDdxYmpRWm1mTTh3WlVhdUlSRHQ3aVJSNU56M0N1ZjFPdXRvaFpxZjBwZ2dJTklJRURLU2Zab0pLS0tSRXBPQktuT3lR?oc=5",
+      "published": "2026-11-18T04:54:00+00:00",
       "source": {
-        "name": "Svensk Farmaci",
-        "url": "https://www.svenskfarmaci.se"
-      }
-    },
-    {
-      "id": "b839bf00c97e",
-      "title": "”När politiska budskap påverkar hälsa och tillgång till läkemedel” - Svensk Farmaci",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW9FaGZQZmRZbUp2WDFsX3dkRFQ1Q1R0UHlhTGlIREc4LUpDT05Od1h2SUhieFh3aWUxUnFjTXYwNGZBWFJkdENQTTVmbWZTR0tkSEZ4eUZZUlBaa24yVFdvd1dMS2dmZVJLMjlLOWNfUmprNGJvZDVTaGpYZEVETXFPcnhVR3A3LXNVWGlZeDE5dDFMTEdpWHliUHkwSUJuTzhxS1prN2I?oc=5",
-      "published": "2026-02-05T08:00:00+00:00",
-      "source": {
-        "name": "Svensk Farmaci",
-        "url": "https://www.svenskfarmaci.se"
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -234,13 +214,13 @@
       }
     },
     {
-      "id": "6df9d8cb9b3b",
-      "title": "Amputation efter miss i hemsjukvård - Dagens Medicin",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1hGa3lZb3NDZHZOMjBjeVN3SVpxcFJJM0d0NXVraTMyWTI4QjBBaTlaWWFldjJiMnJkMWlNRm1PajNFaEw3UndWSk9ZYjExNW0tSFQ0U2lVbXRvY3VMdHFSTG9ocVVFa3kzQmlMdGNHNzljRVpyYWhoMEJON2dOWG5lY21CZ1pkd2xJQVpKdHdObmZSTFRYVg?oc=5",
-      "published": "2026-11-09T08:00:00+00:00",
+      "id": "b839bf00c97e",
+      "title": "”När politiska budskap påverkar hälsa och tillgång till läkemedel” - Svensk Farmaci",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW9FaGZQZmRZbUp2WDFsX3dkRFQ1Q1R0UHlhTGlIREc4LUpDT05Od1h2SUhieFh3aWUxUnFjTXYwNGZBWFJkdENQTTVmbWZTR0tkSEZ4eUZZUlBaa24yVFdvd1dMS2dmZVJLMjlLOWNfUmprNGJvZDVTaGpYZEVETXFPcnhVR3A3LXNVWGlZeDE5dDFMTEdpWHliUHkwSUJuTzhxS1prN2I?oc=5",
+      "published": "2026-02-05T08:00:00+00:00",
       "source": {
-        "name": "Dagens Medicin",
-        "url": "https://www.dagensmedicin.se"
+        "name": "Svensk Farmaci",
+        "url": "https://www.svenskfarmaci.se"
       }
     },
     {
@@ -251,6 +231,16 @@
       "source": {
         "name": "Aftonbladet",
         "url": "https://www.aftonbladet.se"
+      }
+    },
+    {
+      "id": "6df9d8cb9b3b",
+      "title": "Amputation efter miss i hemsjukvård - Dagens Medicin",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1hGa3lZb3NDZHZOMjBjeVN3SVpxcFJJM0d0NXVraTMyWTI4QjBBaTlaWWFldjJiMnJkMWlNRm1PajNFaEw3UndWSk9ZYjExNW0tSFQ0U2lVbXRvY3VMdHFSTG9ocVVFa3kzQmlMdGNHNzljRVpyYWhoMEJON2dOWG5lY21CZ1pkd2xJQVpKdHdObmZSTFRYVg?oc=5",
+      "published": "2026-11-09T08:00:00+00:00",
+      "source": {
+        "name": "Dagens Medicin",
+        "url": "https://www.dagensmedicin.se"
       }
     },
     {
@@ -281,16 +271,6 @@
       "source": {
         "name": "Svensk Farmaci",
         "url": "https://www.svenskfarmaci.se"
-      }
-    },
-    {
-      "id": "8cd93c2b9f68",
-      "title": "Ett team av vietnamesiska läkare tillhandahöll gratis läkarundersökningar och medicin till människor i Kambodja. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdjdHVDd5S1hzbGxFYTloaEo5SVd3UTV5MTROQk5pUzVUcHpkZmdPX2wwWXJIdmJzTW42OGF6bTlqQk5Ed3ZzcjQwb0NNeVhTWVRjZ3VkUW82WGVHSllka21mRUpXUHROdlFra3dKajkyZDZRMkEza0swN25Nc3pWWTJUVzlJcnJuYTZuVUhHRm1Cc3MwNk5RRXFjNFMyREI3LTR3S1RR?oc=5",
-      "published": "2026-11-21T12:07:36+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -354,16 +334,6 @@
       }
     },
     {
-      "id": "212983bc8556",
-      "title": "Befolkningens psykiska hälsa - Folkhälsomyndigheten",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc3JCMDFLZUtJVGZPOXVfRS02eHlOZmJzWkRNSHQyb2F1aWpHNmlDLXMxN1lGanctS1g0bENXcXBzUlRBU3hOTGxlaXNtdWhVYTRCNGxvQnQzZEt5Y0VlTW1FaFBVRTdpMGNQOXl2dDQwNFVUWF9yTS1FMWxibndvYllITk1oREc5Yk9hOUNoa1IwMzlNV0ZVSFkzV1VUUQ?oc=5",
-      "published": "2025-12-19T08:00:00+00:00",
-      "source": {
-        "name": "Folkhälsomyndigheten",
-        "url": "https://www.folkhalsomyndigheten.se"
-      }
-    },
-    {
       "id": "af524865792f",
       "title": "”Stärk kampen mot falska läkemedel” - Dagens Medicin",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMndpMWhNeGlCR3ZteFBFZEZjeV9jWHVZS1kweFZmOFBxbVNnNlF1T2k4WWJQMXR3Q3lIbWJrUHZpTXZGeHUzQjQtUUlkNWpzQjNoN2VTMmJtV3pIMXpsSFA5LXlmdEREXzI4dE1QcmZ4RUFUZnZHSHVNUXNPV2JmOW51NUQ?oc=5",
@@ -374,13 +344,13 @@
       }
     },
     {
-      "id": "cc9c9ce1ecf6",
-      "title": "Antidepressivt läkemedel utanför listan dyrast för regionen - Janusinfo.se",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZGZ5UnFxaUFhazBZVFprLVpLTGMwdnptRjBoWmNkbjhDRi0xNlBPSVk4TU9POHRsRWhuMG9IcWZtNDZrSVpCeENNZnB0OXFnZ0JjTHd0SS1kRDlzRXFMeHJWdjRKVW5jTG51T2pLRnFBSUJzUTMxQXoyRnh6NW1rbzU0enhtOTVEWDVWYVltbkp6emM5dXhnMUhPTUJqbUJOdmRSMUtjMUR5dVJOeFEtWTY4dHFwanhWT0VsSU90LWROWVJFem9CZG5hTl82NW0wRG9CYjBrM2I?oc=5",
-      "published": "2024-12-12T08:00:00+00:00",
+      "id": "212983bc8556",
+      "title": "Befolkningens psykiska hälsa - Folkhälsomyndigheten",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc3JCMDFLZUtJVGZPOXVfRS02eHlOZmJzWkRNSHQyb2F1aWpHNmlDLXMxN1lGanctS1g0bENXcXBzUlRBU3hOTGxlaXNtdWhVYTRCNGxvQnQzZEt5Y0VlTW1FaFBVRTdpMGNQOXl2dDQwNFVUWF9yTS1FMWxibndvYllITk1oREc5Yk9hOUNoa1IwMzlNV0ZVSFkzV1VUUQ?oc=5",
+      "published": "2025-12-19T08:00:00+00:00",
       "source": {
-        "name": "Janusinfo.se",
-        "url": "https://janusinfo.se"
+        "name": "Folkhälsomyndigheten",
+        "url": "https://www.folkhalsomyndigheten.se"
       }
     },
     {
@@ -394,6 +364,16 @@
       }
     },
     {
+      "id": "cc9c9ce1ecf6",
+      "title": "Antidepressivt läkemedel utanför listan dyrast för regionen - Janusinfo.se",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZGZ5UnFxaUFhazBZVFprLVpLTGMwdnptRjBoWmNkbjhDRi0xNlBPSVk4TU9POHRsRWhuMG9IcWZtNDZrSVpCeENNZnB0OXFnZ0JjTHd0SS1kRDlzRXFMeHJWdjRKVW5jTG51T2pLRnFBSUJzUTMxQXoyRnh6NW1rbzU0enhtOTVEWDVWYVltbkp6emM5dXhnMUhPTUJqbUJOdmRSMUtjMUR5dVJOeFEtWTY4dHFwanhWT0VsSU90LWROWVJFem9CZG5hTl82NW0wRG9CYjBrM2I?oc=5",
+      "published": "2024-12-12T08:00:00+00:00",
+      "source": {
+        "name": "Janusinfo.se",
+        "url": "https://janusinfo.se"
+      }
+    },
+    {
       "id": "eee6c834b258",
       "title": "Högre ersättning vid föräldraledighet kopplas till bättre psykisk hälsa hos nyblivna pappor - Stockholms universitet",
       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQNDFydmY4YUZBRU5XWDFHeFV4V2ZfQkg0NWFPY3VXTTRlb2tIMGxmbTVmdWZxQ2pubjZNWFp1LXNoUkFmQmtzYm9Zb01KbXdOLUJmX0hTQkVUN09Za09CYTJYYlhiVl9HU1BzblUwMFpDZ0pJX3VxVU1qMng0bDJiZGZwV3lmQWlreHNDYlBWNkRJbS1MU2dLU1R3ZEVpLUtCTFFvLUJnd2p4Q2RrUDRvZ09OZmFPTlNscWFCaDVNWmJka09LYmNJRmJmR3M1dms4bDhfdVJaYmF3VXJoOFlhVTBESHgtN04teTZsZ2JmT3dOeFRCdVFMN3pqd09fVUhjT2RUT1V5ekFNamo2bGxMUWViRnZ3c0E?oc=5",
@@ -401,6 +381,16 @@
       "source": {
         "name": "Stockholms universitet",
         "url": "https://www.su.se"
+      }
+    },
+    {
+      "id": "74e8e2f8acb1",
+      "title": "Pekar ut problem inom tennisen: ”Klarar inte det” - Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT3JQV2J4Y2Joa05acGlXRlV3VkxFNS1XT2ZUNTR5ZHBkdTlyVUE5MnY2T1hpS1RPaDIzb05EQkRJWGFaY25MalhXb2dYbFVEZExRd0Z0LU1lLVRrWmNvMU1aZ18wMEpieEsySkpZWXNNdThRLXFEZjlja1RVbHltTjJGekRSdThEMk9DT3JaR1B4MjBMaExoRFJYTjJiNlE0YS1FVGhVMHpibXpKZXpZSzlQQW5zLU84VlNnRmV4TVUtc1FtYkE?oc=5",
+      "published": "2025-07-07T07:00:00+00:00",
+      "source": {
+        "name": "Aftonbladet",
+        "url": "https://www.aftonbladet.se"
       }
     },
     {
@@ -421,16 +411,6 @@
       "source": {
         "name": "Region Gävleborg",
         "url": "https://www.regiongavleborg.se"
-      }
-    },
-    {
-      "id": "74e8e2f8acb1",
-      "title": "Pekar ut problem inom tennisen: ”Klarar inte det” - Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT3JQV2J4Y2Joa05acGlXRlV3VkxFNS1XT2ZUNTR5ZHBkdTlyVUE5MnY2T1hpS1RPaDIzb05EQkRJWGFaY25MalhXb2dYbFVEZExRd0Z0LU1lLVRrWmNvMU1aZ18wMEpieEsySkpZWXNNdThRLXFEZjlja1RVbHltTjJGekRSdThEMk9DT3JaR1B4MjBMaExoRFJYTjJiNlE0YS1FVGhVMHpibXpKZXpZSzlQQW5zLU84VlNnRmV4TVUtc1FtYkE?oc=5",
-      "published": "2025-07-07T07:00:00+00:00",
-      "source": {
-        "name": "Aftonbladet",
-        "url": "https://www.aftonbladet.se"
       }
     },
     {
