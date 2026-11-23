@@ -18,7 +18,7 @@
   "drugs_without_data": 93,
   "drugs_partial": 0,
   "items_total": 2205,
-  "items_current": 2184
+  "items_current": 2177
  },
  "reviews": {
   "records": 625,
@@ -80,15 +80,6 @@
    "i": "brachydactyly-syndactyly syndrome"
   },
   {
-   "t": "Piperacillin",
-   "u": "/drugs/piperacillin/",
-   "l": "L4",
-   "lt": 19,
-   "lv": 19,
-   "r": 2,
-   "i": "Reumatoid artrit"
-  },
-  {
    "t": "Pirfenidone",
    "u": "/drugs/pirfenidone/",
    "l": "L5",
@@ -98,13 +89,22 @@
    "i": "extracutaneous mastocytoma"
   },
   {
-   "t": "Tazobactam",
-   "u": "/drugs/tazobactam/",
-   "l": "N/A",
-   "lt": 19,
-   "lv": 19,
+   "t": "Azithromycin",
+   "u": "/drugs/azithromycin/",
+   "l": "L5",
+   "lt": 18,
+   "lv": 18,
    "r": 0,
-   "i": ""
+   "i": "Polyklonalt hyperviskositetssyndrom"
+  },
+  {
+   "t": "Deferasirox",
+   "u": "/drugs/deferasirox/",
+   "l": "L4",
+   "lt": 18,
+   "lv": 18,
+   "r": 2,
+   "i": "HIV infectious disease"
   }
  ],
  "no_current": [

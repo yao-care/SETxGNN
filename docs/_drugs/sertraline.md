@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 395
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "sertraline"
 predicted_indications: ["schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
 description: "Sertraline: predikterad ny indikation Schizoid personlighetsstörning (schizoid personality disorder) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -50,7 +50,7 @@ Sertralin är en selektiv serotoninåterupptagshämmare som används inom psykia
 | Förutsagd ny indikation | Schizoid personlighetsstörning (schizoid personality disorder) |
 | TxGNN-förutsägelsepoäng | 0.9993 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 19) |
 | Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 

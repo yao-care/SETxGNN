@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 159
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "eletriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "sciatic neuropathy"]
-description: "Eletriptan: predikterad ny indikation Atrophoderma vermiculata (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 7)"
+description: "Eletriptan: predikterad ny indikation Atrophoderma vermiculata (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 5)"
 ---
 
 # Eletriptan
@@ -52,8 +52,8 @@ Eletriptan är en selektiv 5-HT1B/1D-receptoragonist (triptan) som ursprungligen
 | Förutsagd ny indikation | Atrophoderma vermiculata |
 | TxGNN-förutsägelsepoäng | 0.9994 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
-| Antal godkännanden | 7 (giltiga: 7) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 7) |
+| Antal godkännanden | 7 (giltiga: 5) |
 | Rekommenderat beslut | Avvakta |
 
 ---

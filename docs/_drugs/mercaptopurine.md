@@ -5,10 +5,10 @@ parent: Hög evidens (L1-L2)
 nav_order: 279
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "mercaptopurine"
 predicted_indications: ["myeloid leukemia", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma", "well-differentiated fetal adenocarcinoma of the lung"]
-description: "Mercaptopurine: predikterad ny indikation Myeloid leukemia (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
+description: "Mercaptopurine: predikterad ny indikation Myeloid leukemia (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 3)"
 ---
 
 # Mercaptopurine
@@ -52,8 +52,8 @@ Merkaptopurin (Puri-nethol) är en purinantimetabolit som ursprungligen används
 | Förutsagd ny indikation | Myeloid leukemia |
 | TxGNN-förutsägelsepoäng | 0.9994 |
 | Evidensnivå | L2 (enligt datasammanställningen; flera fas 3-prövningar finns, men merkaptopurinets enskilda bidrag går inte att fastställa) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
-| Antal godkännanden | 4 (giltiga: 4) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 4) |
+| Antal godkännanden | 4 (giltiga: 3) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---

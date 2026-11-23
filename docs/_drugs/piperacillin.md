@@ -5,10 +5,10 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 353
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "piperacillin"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "WHIM syndrome"]
-description: "Piperacillin: predikterad ny indikation Reumatoid artrit (rheumatoid arthritis) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 19 (giltiga: 19)"
+description: "Piperacillin: predikterad ny indikation Reumatoid artrit (rheumatoid arthritis) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 19 (giltiga: 17)"
 ---
 
 # Piperacillin
@@ -52,8 +52,8 @@ Piperacillin är ett betalaktamantibiotikum som i Sverige har funnits som kombin
 | Förutsagd ny indikation | Reumatoid artrit (rheumatoid arthritis) |
 | TxGNN-förutsägelsepoäng | 0.9994 |
 | Evidensnivå | L4 enligt den bedömning som gjorts i underlaget (i praktiken svag; litteraturen utgörs av fallrapporter utan stöd för effekt) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 19 av 19) |
-| Antal godkännanden | 19 (giltiga: 19) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 17 av 19) |
+| Antal godkännanden | 19 (giltiga: 17) |
 | Rekommenderat beslut | Avvakta |
 
 ---

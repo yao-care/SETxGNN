@@ -5,7 +5,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 412
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Tazobactam: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ Alla kandidater som TxGNN-modellen (poäng ≥ 0,99) har tagit fram för Tazobac
 | Nya förutsagda indikationer | Inga (alla spårbara modellkandidater är kända användningar) |
 | Kända användningar bland modellens kandidater | 2 |
 | Evidensnivå | Ej tillämplig |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 19 av 19) |
-| Antal godkännanden | 19 (giltiga: 19) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 17 av 19) |
+| Antal godkännanden | 19 (giltiga: 17) |
 
 ## Kända användningar bland modellens kandidater
 
@@ -79,13 +79,13 @@ Alla kandidater som TxGNN-modellen (poäng ≥ 0,99) har tagit fram för Tazobac
 | 67500 | piperacillinmonohydrat; tazobaktamnatrium | Pulver och vätska till infusionsvätska,  | Giltigt |
 | 61220 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
 | 24774 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
-| 62824 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
+| 62824 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Avregistrerad |
 | 24775 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
 | 42499 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
 | 26804 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
 | 61221 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
 | 25747 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
-| 62823 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
+| 62823 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Avregistrerad |
 | 42500 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
 | 25746 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
 | 62145 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |

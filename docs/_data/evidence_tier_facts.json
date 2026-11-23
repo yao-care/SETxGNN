@@ -204,7 +204,7 @@
     "l": "L2",
     "i": "myeloid leukemia",
     "lt": 4,
-    "lv": 4,
+    "lv": 3,
     "r": 2,
     "rs": "Borttaget: ”Klargöra varför de svenska godkännandena är avregistrerade och om tillgång till läkemedlet finns…",
     "x": 0
@@ -798,7 +798,7 @@
     "l": "L4",
     "i": "Reumatoid artrit",
     "lt": 19,
-    "lv": 19,
+    "lv": 17,
     "r": 2,
     "rs": "Borttaget: ”Dessutom är alla svenska godkännanden indragna”",
     "x": 0
@@ -1386,17 +1386,6 @@
     "x": 0
    },
    {
-    "t": "Sertraline",
-    "u": "/drugs/sertraline/",
-    "l": "L5",
-    "i": "Schizoid personlighetsstörning",
-    "lt": 0,
-    "lv": 20,
-    "r": 0,
-    "rs": "",
-    "x": 0
-   },
-   {
     "t": "Simvastatin",
     "u": "/drugs/simvastatin/",
     "l": "L5",
@@ -1482,17 +1471,6 @@
     "lv": 20,
     "r": 0,
     "rs": "",
-    "x": 0
-   },
-   {
-    "t": "Zolmitriptan",
-    "u": "/drugs/zolmitriptan/",
-    "l": "L5",
-    "i": "atrophoderma vermiculata",
-    "lt": 0,
-    "lv": 20,
-    "r": 2,
-    "rs": "Borttaget: ”och alla svenska godkännanden är indragna”",
     "x": 0
    },
    {
@@ -1625,6 +1603,28 @@
     "lv": 19,
     "r": 3,
     "rs": "Borttaget: ”eftersom samtliga svenska godkännanden är indragna”",
+    "x": 0
+   },
+   {
+    "t": "Sertraline",
+    "u": "/drugs/sertraline/",
+    "l": "L5",
+    "i": "Schizoid personlighetsstörning",
+    "lt": 0,
+    "lv": 19,
+    "r": 0,
+    "rs": "",
+    "x": 0
+   },
+   {
+    "t": "Zolmitriptan",
+    "u": "/drugs/zolmitriptan/",
+    "l": "L5",
+    "i": "atrophoderma vermiculata",
+    "lt": 0,
+    "lv": 19,
+    "r": 2,
+    "rs": "Borttaget: ”och alla svenska godkännanden är indragna”",
     "x": 0
    },
    {
@@ -2750,17 +2750,6 @@
     "x": 0
    },
    {
-    "t": "Eletriptan",
-    "u": "/drugs/eletriptan/",
-    "l": "L5",
-    "i": "atrophoderma vermiculata",
-    "lt": 7,
-    "lv": 7,
-    "r": 0,
-    "rs": "",
-    "x": 0
-   },
-   {
     "t": "Exemestane",
     "u": "/drugs/exemestane/",
     "l": "L5",
@@ -3162,6 +3151,17 @@
     "l": "L5",
     "i": "Tourette syndrome",
     "lt": 5,
+    "lv": 5,
+    "r": 0,
+    "rs": "",
+    "x": 0
+   },
+   {
+    "t": "Eletriptan",
+    "u": "/drugs/eletriptan/",
+    "l": "L5",
+    "i": "atrophoderma vermiculata",
+    "lt": 7,
     "lv": 5,
     "r": 0,
     "rs": "",

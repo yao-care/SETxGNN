@@ -607,9 +607,9 @@
       "date": "2026-11-19"
     },
     "eletriptan": {
-      "tail": "I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 7)",
+      "tail": "I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 5)",
       "original": "Ursprunglig indikation: Inte angiven i de lokala uppgifterna",
-      "date": "2026-11-19"
+      "date": "2026-11-23"
     },
     "empagliflozin": {
       "tail": "I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)",
@@ -1142,9 +1142,9 @@
       "date": "2026-11-19"
     },
     "mercaptopurine": {
-      "tail": "I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)",
+      "tail": "I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 3)",
       "original": "Ursprunglig indikation: Inte angiven i de lokala uppgifterna",
-      "date": "2026-11-19"
+      "date": "2026-11-23"
     },
     "mesalazine": {
       "tail": "I Sverige, godkännanden (Läkemedelsverket): minst 20",
@@ -1477,9 +1477,9 @@
       "date": "2026-11-19"
     },
     "piperacillin": {
-      "tail": "I Sverige, godkännanden (Läkemedelsverket): 19 (giltiga: 19)",
+      "tail": "I Sverige, godkännanden (Läkemedelsverket): 19 (giltiga: 17)",
       "original": "Ursprunglig indikation: Inte angiven i de lokala uppgifterna",
-      "date": "2026-11-19"
+      "date": "2026-11-23"
     },
     "pirfenidone": {
       "tail": "I Sverige, godkännanden (Läkemedelsverket): 19 (giltiga: 19)",
@@ -4609,6 +4609,27 @@
       "date": "2026-11-19",
       "from": "\"Zonisamide: predikterad ny indikation Tourette syndrome (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifterna\"",
       "to": "\"Zonisamide: predikterad ny indikation Tourette syndrome (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/eletriptan.md",
+      "date": "2026-11-23",
+      "from": "\"Eletriptan: predikterad ny indikation Atrophoderma vermiculata (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 7)\"",
+      "to": "\"Eletriptan: predikterad ny indikation Atrophoderma vermiculata (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/mercaptopurine.md",
+      "date": "2026-11-23",
+      "from": "\"Mercaptopurine: predikterad ny indikation Myeloid leukemia (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)\"",
+      "to": "\"Mercaptopurine: predikterad ny indikation Myeloid leukemia (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/piperacillin.md",
+      "date": "2026-11-23",
+      "from": "\"Piperacillin: predikterad ny indikation Reumatoid artrit (rheumatoid arthritis) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 19 (giltiga: 19)\"",
+      "to": "\"Piperacillin: predikterad ny indikation Reumatoid artrit (rheumatoid arthritis) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 19 (giltiga: 17)\"",
       "tool": ".claude/drug_meta_description.py --apply"
     }
   ]
