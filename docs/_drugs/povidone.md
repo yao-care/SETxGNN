@@ -112,7 +112,13 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en beräkningsmodell (evidensnivå L5), utan kliniska prövningar eller litteratur, och något trovärdigt mekanistiskt samband saknas. Dessutom saknas giltigt svenskt godkännande, och säkerhetsunderlaget är ofullständigt.
+- Förutsägelsen bygger enbart på en beräkningsmodell (evidensnivå L5), utan kliniska prövningar eller litteratur, och något trovärdigt mekanistiskt samband saknas. Dessutom är säkerhetsunderlaget ofullständigt.
+
+<!-- review:begin se-lic-20261124b-povidone-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Förutsägelsen bygger enbart på en beräkningsmodell (evidensnivå L5), utan kliniska prövningar eller litteratur, och något trovärdigt mekanistiskt samband saknas. Dessutom saknas giltigt svenskt godkännande, och säkerhetsunderlaget är ofullständigt.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-povidone-1 -->
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén från Läkemedelsverket (varningar och kontraindikationer), vilket är en blockerande brist.
@@ -130,6 +136,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla fyra godkännanden är indragna, och inget giltigt godkännande för povidon som enda substans finns i Sverige i dag” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

@@ -144,8 +144,13 @@ Se produktresumén för fullständiga varningar och kontraindikationer.
 - Hämta och granska produktresumén (varningar och kontraindikationer), vilket är ett blockerande dataunderlag.
 - Komplettera data om verkningsmekanismen från DrugBank.
 - Genomföra en prospektiv studie med stroke som primärt effektmått, eftersom nuvarande evidens kommer från post hoc-analyser.
-- Utreda orsaken till att godkännandena i Sverige har dragits in.
 - Närmare analys av säkerheten vid kombination med antikoagulantia samt vid hjärtsvikt och permanent förmaksflimmer.
+
+<!-- review:begin se-lic-20261124b-dronedarone-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Utreda orsaken till att godkännandena i Sverige har dragits in.” Borttaget: punkten byggde helt på uppgiften att godkännandena är indragna eller saknar giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-dronedarone-1 -->
 
 <!-- review:begin log -->
 
@@ -157,6 +162,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna, och s” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 3 godkännanden (57830, 57327, 57395) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Borttaget: punkt om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

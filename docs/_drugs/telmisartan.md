@@ -124,7 +124,13 @@ Se produktresumén för fullständig säkerhetsinformation, varningar och kontra
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för Prinzmetal angina bygger enbart på modellens poäng, utan stöd från kliniska prövningar eller litteratur (evidensnivå L5). Dessutom har alla svenska godkännanden för telmisartan dragits in.
+- Förutsägelsen för Prinzmetal angina bygger enbart på modellens poäng, utan stöd från kliniska prövningar eller litteratur (evidensnivå L5).
+
+<!-- review:begin se-lic-20261124b-telmisartan-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Dessutom har alla svenska godkännanden för telmisartan dragits in.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-telmisartan-1 -->
 
 **För att gå vidare krävs:**
 - Systematisk litteratursökning efter data om telmisartan eller andra ARB vid kranskärlskramp.
@@ -142,6 +148,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla 12 godkännanden är indragna, och ingen produkt med telmisartan som enda substans är för närvarande giltig” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

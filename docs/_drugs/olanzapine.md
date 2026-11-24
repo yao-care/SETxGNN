@@ -104,7 +104,13 @@ Produktresumé med varningar och kontraindikationer har inte kunnat hämtas, så
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för benign paroxysmal torticollis hos spädbarn saknar helt stöd i kliniska prövningar och litteratur, och risken med antipsykotika hos spädbarn (bland annat dystoni) är betydande. Dessutom saknas giltiga godkännanden i Sverige.
+- Förutsägelsen för benign paroxysmal torticollis hos spädbarn saknar helt stöd i kliniska prövningar och litteratur, och risken med antipsykotika hos spädbarn (bland annat dystoni) är betydande.
+
+<!-- review:begin se-lic-20261124b-olanzapine-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Dessutom saknas giltiga godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-olanzapine-1 -->
 
 **Övriga förutsagda indikationer (för information):**
 - Studierna är små och okontrollerade, och ingen gäller agorafobi specifikt. Bedömning: forskningsfråga.
@@ -132,6 +138,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

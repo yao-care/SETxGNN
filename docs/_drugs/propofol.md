@@ -150,8 +150,14 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 - Hämta och analysera produktresumé för varningar och kontraindikationer, eftersom detta för närvarande blockerar säkerhetsbedömningen.
 - Granska resultaten från NCT01604785 och de randomiserade studierna (särskilt PMID 33070469 och 29456086) för att bekräfta effekt och säkerhet.
 - Klargöra varför NCT02492295 avbröts.
-- Utvärdera vilken patientgrupp (barn eller vuxna) och vilken vårdmiljö (akutmottagning med övervakning) som är aktuell, samt hur den bedömningen påverkas av att inga godkännanden är aktiva i Sverige.
+- Utvärdera vilken patientgrupp (barn eller vuxna) och vilken vårdmiljö (akutmottagning med övervakning) som är aktuell.
 - Bedöma säkerhet hos patienter med de riskfaktorer som kunskapsgrafen pekar ut, till exempel hypotoni, andningssvikt och störningar i fettomsättningen.
+
+<!-- review:begin se-lic-20261124b-propofol-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Utvärdera vilken patientgrupp (barn eller vuxna) och vilken vårdmiljö (akutmottagning med övervakning) som är aktuell, samt hur den bedömningen påverkas av att inga godkännanden är aktiva i Sverige.” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-propofol-1 -->
 
 <!-- review:begin log -->
 
@@ -163,6 +169,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla 11 godkännanden är indragna och inga produkter är för närvarande aktiva” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Diprivan (propofol) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3105799-a4b6-f3f4-e6e2-b2b29bbdb538) |
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

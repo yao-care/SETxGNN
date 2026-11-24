@@ -139,7 +139,13 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 - Komplettera verkningsmekanismdata från DrugBank.
 - Systematisk litteratursökning efter kontrollerade studier av COX-2-hämmare vid migrän.
 - Utvärdera om närliggande huvudvärkstillstånd (till exempel indomethacinkänslig huvudvärk och trigeminal autonom cefalalgi, där fallserier finns) är en mer realistisk första riktning än migrän.
-- Bedöma kardiovaskulär och njurrelaterad risk i den tänkta patientgruppen samt klargöra regulatorisk väg, givet att produkterna är indragna i Sverige.
+- Bedöma kardiovaskulär och njurrelaterad risk i den tänkta patientgruppen samt klargöra regulatorisk väg.
+
+<!-- review:begin se-lic-20261124b-etoricoxib-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Bedöma kardiovaskulär och njurrelaterad risk i den tänkta patientgruppen samt klargöra regulatorisk väg, givet att produkterna är indragna i Sverige.” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-etoricoxib-1 -->
 
 <!-- review:begin log -->
 
@@ -151,6 +157,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

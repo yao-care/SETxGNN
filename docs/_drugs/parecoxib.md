@@ -127,8 +127,14 @@ Ett teoretiskt säkerhetsproblem gäller för de relaterade förutsägelserna: C
 - Genomgång av fulltexten till PMID 21996647 för att fastställa studiedesign och effektresultat (kan påverka evidensnivån om det är en randomiserad studie).
 - Hämta verkningsmekanismdata från DrugBank.
 - Hämta varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA), vilket är en förutsättning för säkerhetsgranskning.
-- Klargöra läkemedlets ursprungliga godkända indikation samt orsaken till att godkännandena dragits in.
+- Klargöra läkemedlets ursprungliga godkända indikation.
 - Bedöma administreringsvägens lämplighet (injektion) för akut migrän jämfört med nuvarande behandlingar.
+
+<!-- review:begin se-lic-20261124b-parecoxib-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Klargöra läkemedlets ursprungliga godkända indikation samt orsaken till att godkännandena dragits in.” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-parecoxib-1 -->
 
 ---
 
@@ -148,6 +154,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 3 godkännanden (60191, 60190, 65728) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

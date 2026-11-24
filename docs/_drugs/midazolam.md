@@ -146,7 +146,13 @@ Varnings- och kontraindikationstext från produktresumén har inte kunnat hämta
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Det finns äldre kliniska studier som direkt undersökt midazolam vid sömnlöshet, och mekanismen är rimlig, men studierna är gamla och de nyare prövningarna är indirekta. Dessutom saknas säkerhetsunderlag från produktresumén och inga godkännanden är aktiva i Sverige.
+- Det finns äldre kliniska studier som direkt undersökt midazolam vid sömnlöshet, och mekanismen är rimlig, men studierna är gamla och de nyare prövningarna är indirekta. Dessutom saknas säkerhetsunderlag från produktresumén.
+
+<!-- review:begin se-lic-20261124b-midazolam-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Det finns äldre kliniska studier som direkt undersökt midazolam vid sömnlöshet, och mekanismen är rimlig, men studierna är gamla och de nyare prövningarna är indirekta. Dessutom saknas säkerhetsunderlag från produktresumén och inga godkännanden är aktiva i Sverige.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-midazolam-1 -->
 
 **För att gå vidare krävs:**
 - Hämta och granska varningar och kontraindikationer från produktresumén (hos Läkemedelsverket).
@@ -164,6 +170,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 17 svenska godkännanden är avregistrerade” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

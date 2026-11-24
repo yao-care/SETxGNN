@@ -141,7 +141,13 @@ Samtliga övriga förutsägelser bland de tio högst rankade saknar också klini
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen om migrän bygger enbart på en grafbaserad modellpoäng utan kliniska prövningar, litteratur eller etablerad verkningsmekanism. Dessutom saknas giltiga godkännanden i Sverige och säkerhetsdata för läkemedlet är ofullständiga.
+- Förutsägelsen om migrän bygger enbart på en grafbaserad modellpoäng utan kliniska prövningar, litteratur eller etablerad verkningsmekanism. Dessutom är säkerhetsdata för läkemedlet ofullständiga.
+
+<!-- review:begin se-lic-20261124b-urofollitropin-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Förutsägelsen om migrän bygger enbart på en grafbaserad modellpoäng utan kliniska prövningar, litteratur eller etablerad verkningsmekanism. Dessutom saknas giltiga godkännanden i Sverige och säkerhetsdata för läkemedlet är ofullständiga.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-urofollitropin-1 -->
 
 **För att gå vidare krävs:**
 - Verkningsmekanismdata för läkemedlet (till exempel via DrugBank).
@@ -166,6 +172,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga sex godkännanden är avregistrerade och ingen produkt är för närvarande marknadsförd med giltigt godkännande” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”för närvarande är 6 av 6 godkännanden giltiga” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

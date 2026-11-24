@@ -126,13 +126,32 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen för hypertrikos är begränsad till fyra äldre översikter utan finasteridspecifika data, och mekanismen är svag eftersom hypertrikos per definition inte är androgenberoende. Dessutom saknas giltiga svenska godkännanden.
+- Evidensen för hypertrikos är begränsad till fyra äldre översikter utan finasteridspecifika data, och mekanismen är svag eftersom hypertrikos per definition inte är androgenberoende.
+
+<!-- review:begin se-lic-20261124b-finasteride-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Dessutom saknas giltiga svenska godkännanden.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-finasteride-1 -->
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från MPA, eftersom säkerhetsgranskningen annars inte kan genomföras.
 - Komplettera uppgifterna om verkningsmekanism via DrugBank.
 - Söka efter primärstudier (RCT eller observationsstudier) av finasterid vid hypertrikos eller hirsutism.
 - Överväga att utvärdera hirsutism som en mer mekanistiskt rimlig indikation.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

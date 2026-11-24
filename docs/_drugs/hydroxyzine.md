@@ -145,7 +145,13 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 - Hämta och granska produktresumén för varningar och kontraindikationer, vilket är ett blockerande datagap.
 - Komplettera verkningsmekanismdata via DrugBank.
 - Verifiera design och storlek för studien från 1984 (PMID 6480953) och söka efter nyare randomiserade studier vid kall urtikaria.
-- Klargöra varför godkännandena dragits tillbaka och om det finns ett marknadsmässigt eller regulatoriskt underlag för en ny ansökan.
+- Klargöra om det finns ett marknadsmässigt eller regulatoriskt underlag för en ny ansökan.
+
+<!-- review:begin se-lic-20261124b-hydroxyzine-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Klargöra varför godkännandena dragits tillbaka och om det finns ett marknadsmässigt eller regulatoriskt underlag för en ny ansökan.” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-hydroxyzine-1 -->
 
 <!-- review:begin log -->
 
@@ -156,6 +162,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

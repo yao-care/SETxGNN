@@ -40,7 +40,13 @@ Evidensnivå: **L5** | Förutsagda indikationer: **2** st
 
 ### Sammanfattning
 
-Etanol (varumärket Streplieve m.fl.) har inga angivna godkända indikationer i den svenska licensdatan, och läkemedlet marknadsförs med 20 giltiga godkännanden. TxGNN-modellen (deep learning) förutsäger att etanol kan vara effektivt mot **migrän** (poäng 0,9929), men det finns **inga kliniska prövningar** och ingen publikation som visar behandlingseffekt. Litteraturen beskriver tvärtom etanol som en **utlösande faktor** för migrän, och evidensen är därför på nivå L5.
+Etanol (varumärket Streplieve m.fl.) har inga angivna godkända indikationer i den svenska licensdatan, och läkemedlet marknadsförs med giltiga godkännanden. TxGNN-modellen (deep learning) förutsäger att etanol kan vara effektivt mot **migrän** (poäng 0,9929), men det finns **inga kliniska prövningar** och ingen publikation som visar behandlingseffekt. Litteraturen beskriver tvärtom etanol som en **utlösande faktor** för migrän, och evidensen är därför på nivå L5.
+
+<!-- review:begin se-lic-20261124b-ethanol-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Etanol (varumärket Streplieve m.fl.) har inga angivna godkända indikationer i den svenska licensdatan, och läkemedlet marknadsförs med 20 giltiga godkännanden.” Texten angav ett fast antal giltiga godkännanden. Uppgifterna innehåller bara en del av Läkemedelsverkets godkännanden för läkemedlet, och bland de insamlade finns även avregistrerade, så antalet stämde inte; det har tagits bort. Endast antalsuppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-ethanol-1 -->
 
 ---
 
@@ -138,7 +144,13 @@ Se produktresumén för information om varningar och kontraindikationer, efterso
 
 **Motivering:**
 - Det finns ingen klinisk eller publicerad evidens för att etanol behandlar migrän. Den tillgängliga litteraturen beskriver snarare etanol som en utlösare, och den höga modellpoängen kommer från TxGNN-modellen (deep learning) och kan spegla likheter som modellen lärt sig mellan relaterade sjukdomar, inte biologisk evidens.
-- Läkemedlet marknadsförs i Sverige med 20 giltiga godkännanden, och säkerhetsdata från produktresumén saknas.
+- Läkemedlet marknadsförs i Sverige med giltiga godkännanden, och säkerhetsdata från produktresumén saknas.
+
+<!-- review:begin se-lic-20261124b-ethanol-2 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Läkemedlet marknadsförs i Sverige med 20 giltiga godkännanden, och säkerhetsdata från produktresumén saknas.” Texten angav ett fast antal giltiga godkännanden. Uppgifterna innehåller bara en del av Läkemedelsverkets godkännanden för läkemedlet, och bland de insamlade finns även avregistrerade, så antalet stämde inte; det har tagits bort. Endast antalsuppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-ethanol-2 -->
 
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer, vilket är ett blockerande datagap för säkerhetsgranskning
@@ -155,6 +167,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: fast antal giltiga godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: fast antal giltiga godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

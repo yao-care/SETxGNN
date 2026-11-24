@@ -129,7 +129,13 @@ Se produktresumén för fullständiga varningar och kontraindikationer, eftersom
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen är endast modellbaserad (L5) utan kliniska prövningar, och den tillgängliga litteraturen visar ingen terapeutisk effekt vid reumatoid artrit. Dessutom saknas giltiga godkännanden i Sverige och produktresumédata om varningar och kontraindikationer.
+- Förutsägelsen är endast modellbaserad (L5) utan kliniska prövningar, och den tillgängliga litteraturen visar ingen terapeutisk effekt vid reumatoid artrit. Dessutom saknas produktresumédata om varningar och kontraindikationer.
+
+<!-- review:begin se-lic-20261124b-rivaroxaban-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Förutsägelsen är endast modellbaserad (L5) utan kliniska prövningar, och den tillgängliga litteraturen visar ingen terapeutisk effekt vid reumatoid artrit. Dessutom saknas giltiga godkännanden i Sverige och produktresumédata om varningar och kontraindikationer.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-rivaroxaban-1 -->
 
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket och komplettera varningar, kontraindikationer och godkända indikationer.
@@ -156,6 +162,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Klargöra marknadsstatusen, eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

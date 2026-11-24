@@ -84,11 +84,11 @@ Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform,
 
 <!-- licenses:end -->
 
-Det finns därför för närvarande ingen giltig marknadsförd produkt i Sverige.
+Aktuell status för godkännandena finns i tabellen ovan.
 
 <!-- review:begin se-lic-20261106-pioglitazone-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla tre godkännandena tillhör Holsten Pharma GmbH och är återkallade. Det finns därför för närvarande ingen giltig marknadsförd produkt i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Alla tre godkännandena tillhör Holsten Pharma GmbH och är återkallade. Det finns därför för närvarande ingen giltig marknadsförd produkt i Sverige.” Borttaget: uppgiften att godkännandena är återkallade och att det inte finns någon giltig marknadsförd produkt stämde inte med Läkemedelsverkets uppgifter; alla tre godkännanden (Pioglitazone Holsten 57712–57714) har registreringsstatus Godkänd. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-pioglitazone-1 -->
 
@@ -138,7 +138,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Alla tre godkännandena tillhör Holsten Pharma GmbH och är återkallade” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: godkännandena är inte återkallade | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom saknar pioglitazon giltiga godkännanden i Sverige, och p” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom godkännandena i Sverige är återkallade” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 

@@ -107,7 +107,13 @@ Observera att som vasokonstriktor (V1a-agonist) kan felypressin teoretiskt förs
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på modellpoäng (L5) utan stöd av kliniska prövningar, litteratur eller en etablerad mekanism. Dessutom saknas giltigt godkännande i Sverige och grundläggande säkerhetsdata.
+- Förutsägelsen bygger enbart på modellpoäng (L5) utan stöd av kliniska prövningar, litteratur eller en etablerad mekanism. Dessutom saknas grundläggande säkerhetsdata.
+
+<!-- review:begin se-lic-20261124b-felypressin-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Förutsägelsen bygger enbart på modellpoäng (L5) utan stöd av kliniska prövningar, litteratur eller en etablerad mekanism. Dessutom saknas giltigt godkännande i Sverige och grundläggande säkerhetsdata.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-felypressin-1 -->
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer, vilket för närvarande blockerar säkerhetsbedömningen.
@@ -125,6 +131,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-12 | Tabell: 1 godkännande (10433) är godkänd, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

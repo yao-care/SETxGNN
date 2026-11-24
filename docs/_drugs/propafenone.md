@@ -139,7 +139,13 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Kontrollerade eller åtminstone större observationsstudier som direkt jämför propafenon med flekainid vid CPVT.
 - Säkerhetsgranskning av proarytmirisk, särskilt vid strukturell hjärtsjukdom och hos barn.
 - Enligt avsnittet ”Mechanism of Action” i den produktinformation som godkänts av amerikanska FDA (Prescribing Information) för Propafenone (inofficiell översättning): ”Propafenon är ett antiarytmikum av klass 1C med lokalanestetiska effekter och en direkt stabiliserande verkan på myokardiets membran. Den elektrofysiologiska effekten av propafenon yttrar sig som en minskning av uppslagshastigheten (fas 0) i den monofasiska aktionspotentialen.” Engelsk originaltext: "Propafenone is a Class 1C antiarrhythmic drug with local anesthetic effects, and a direct stabilizing action on myocardial membranes. The electrophysiological effect of propafenone manifests itself in a reduction of upstroke velocity (Phase 0) of the monophasic action potential." ([DailyMed: propafenone hydrochloride prescribing information, Northstar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2ecd6452-ccc3-493f-9a4a-69f0fbf67a42), version från 2026-06-04; hämtad 2026-11-19).
-- Bedömning av tillgänglighet, eftersom Rytmonorm inte längre har något giltigt godkännande i Sverige.
+- Bedömning av tillgänglighet.
+
+<!-- review:begin se-lic-20261124b-propafenone-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Bedömning av tillgänglighet, eftersom Rytmonorm inte längre har något giltigt godkännande i Sverige.” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-propafenone-1 -->
 
 **Övriga förutsägelser:** Incessant ventrikeltakykardi hos spädbarn (L3) har endast äldre och små okontrollerade rapporter och kräver säkerhetsgranskning. Arytmogen högerkammarkardiomyopati bedöms som ogynnsam på grund av säkerhetssignaler. Manisk bipolär sjukdom, periodisk paralys, Prinzmetals angina, nefrogent syndrom med inadekvat antidures och trikotillomani saknar rimlig mekanism eller evidens och bör avvaktas.
 
@@ -154,6 +160,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Det finns inget giltigt godkännande i Sverige för närvarande” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 1 godkännande (11309) är godkänd, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 | 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: propafenone hydrochloride prescribing information, Northstar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2ecd6452-ccc3-493f-9a4a-69f0fbf67a42) |
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

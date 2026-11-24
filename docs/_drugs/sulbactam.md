@@ -128,7 +128,13 @@ Information om varningar, kontraindikationer och läkemedelsinteraktioner från 
 
 **Motivering:**
 - Förutsägelsen är mekanistiskt rimlig och stöds av flera äldre kliniska studier med ampicillin/sulbactam vid ben- och ledinfektioner. Evidensen är dock låg (L3), inga kliniska prövningar finns registrerade, och de studier som finns är små, gamla och delvis preliminärt klassificerade.
-- Det saknas ett giltigt svenskt godkännande, och produktresumé med säkerhetsdata saknas, vilket hindrar en fullständig säkerhetsbedömning.
+- Produktresumé med säkerhetsdata saknas, vilket hindrar en fullständig säkerhetsbedömning.
+
+<!-- review:begin se-lic-20261124b-sulbactam-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Det saknas ett giltigt svenskt godkännande, och produktresumé med säkerhetsdata saknas, vilket hindrar en fullständig säkerhetsbedömning.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-sulbactam-1 -->
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar och kontraindikationer) från Läkemedelsverket.
@@ -154,6 +160,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Båda godkännandena är indragna, och för närvarande finns inget giltigt godkännande i Sverige” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom båda godkännandena är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 2 godkännanden (65432, 65431) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

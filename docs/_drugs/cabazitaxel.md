@@ -151,8 +151,14 @@ Se produktresumén för fullständig säkerhetsinformation.
 **För att gå vidare krävs:**
 - Sökning efter kliniska prövningar för cabazitaxel vid bröstcancer och granskning av GENEVIEVE-resultaten (pCR och långtidsutfall) jämfört med paklitaxel.
 - Hämtning av verkningsmekanism och varningar/kontraindikationer från produktresumén.
-- Klargörande av varför de svenska godkännandena har dragits in och om någon produkt finns tillgänglig.
+- Klargörande av om någon produkt finns tillgänglig.
 - Bedömning av nytta och risk i relevant patientgrupp, särskilt avseende neutropeni, lever- och njurfunktion.
+
+<!-- review:begin se-lic-20261124b-cabazitaxel-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Klargörande av varför de svenska godkännandena har dragits in och om någon produkt finns tillgänglig.” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-cabazitaxel-1 -->
 
 <!-- review:begin log -->
 
@@ -164,6 +170,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla sex svenska godkännanden är indragna och i” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, och c” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

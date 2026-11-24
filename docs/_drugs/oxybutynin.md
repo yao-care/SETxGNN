@@ -141,7 +141,13 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 - Hämta och granska varningar och kontraindikationer från produktresumén (saknas för närvarande och blockerar säkerhetsbedömningen).
 - Genomföra litteratursökning och prekliniska eller kliniska studier som stöder användning vid restless legs syndrome.
 - Bedöma antikolinerg belastning och sedering som möjliga störfaktorer samt säkerhet hos målpopulationen.
-- Utreda marknads- och regulatoriska förutsättningar, eftersom inga godkännanden är aktiva i Sverige.
+- Utreda marknads- och regulatoriska förutsättningar.
+
+<!-- review:begin se-lic-20261124b-oxybutynin-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Utreda marknads- och regulatoriska förutsättningar, eftersom inga godkännanden är aktiva i Sverige.” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-oxybutynin-1 -->
 
 <!-- review:begin log -->
 
@@ -154,6 +160,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Alla åtta godkännanden är indragna och inget läkemedel är för närvarande marknadsfört” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Ytterligare tre indragna godkännanden finns (Ditropan, Vesoxx och Velarmediq)” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

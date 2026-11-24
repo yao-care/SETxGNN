@@ -139,8 +139,14 @@ Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform,
 - Hämta och granska produktresumén (varningar och kontraindikationer), eftersom detta saknas i dag.
 - Inhämta resultaten från NCT00403559 och bedöma dem mot aktiv kontroll.
 - Bekräfta effekt i en större fas 3-studie, helst placebokontrollerad.
-- Utreda tillgänglighet i Sverige (nytt godkännande eller alternativ produkt), eftersom Elidel inte längre har ett giltigt godkännande.
+- Utreda tillgänglighet i Sverige.
 - Bedöma långtidssäkerheten, inklusive den teoretiska risken för malignitet.
+
+<!-- review:begin se-lic-20261124b-pimecrolimus-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Utreda tillgänglighet i Sverige (nytt godkännande eller alternativ produkt), eftersom Elidel inte längre har ett giltigt godkännande.” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-pimecrolimus-1 -->
 
 <!-- review:begin log -->
 
@@ -153,6 +159,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Elidel-krämen har dock endast ett annullerat godkännande i Sverige, vilket påverkar tillgängligheten” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Den enda svenska licensen är dock annullerad och säkerhetsunderlaget från produktresumén saknas” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: pimecrolimus prescribing information, Oceanside Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6601e43e-ce7d-446a-8568-8e7b24b86f06) |
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

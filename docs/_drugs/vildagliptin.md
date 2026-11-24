@@ -111,14 +111,33 @@ Se produktresumén för säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen stöds enbart av en modellpoäng (evidensnivå L5), utan kliniska prövningar, litteratur eller någon trovärdig verkningsmekanism. Dessutom saknas giltiga godkännanden i Sverige.
+- Förutsägelsen stöds enbart av en modellpoäng (evidensnivå L5), utan kliniska prövningar, litteratur eller någon trovärdig verkningsmekanism.
 - Bland de övriga förutsägelserna för vildagliptin har typ 1-diabetes betydligt starkare stöd (evidensnivå L2, bland annat en genomförd fas 2-prövning). Den bör utvärderas separat om man vill gå vidare med läkemedlet.
+
+<!-- review:begin se-lic-20261124b-vildagliptin-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Dessutom saknas giltiga godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-vildagliptin-1 -->
 
 **För att gå vidare krävs:**
 - Mekanistiskt stöd för en roll för DPP-4-hämning vid stelmanssyndrom, till exempel prekliniska studier eller immunologiska data.
 - Systematisk litteraturgenomgång och sökning efter registrerade prövningar för denna sjukdom.
 - Tillgång till produktresumé med varningar och kontraindikationer för en fullständig säkerhetsbedömning.
 - Läkemedlets regulatoriska status i Sverige: det är marknadsfört, med 16 giltiga godkännanden av 16.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

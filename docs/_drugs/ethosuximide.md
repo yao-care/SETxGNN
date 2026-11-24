@@ -110,7 +110,13 @@ Produktresumétexter med varningar och kontraindikationer har inte kunnat hämta
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen stöds endast av modellen (evidensnivå L5), utan kliniska prövningar, litteratur eller känd mekanistisk koppling. Dessutom saknas giltiga godkännanden i Sverige.
+- Förutsägelsen stöds endast av modellen (evidensnivå L5), utan kliniska prövningar, litteratur eller känd mekanistisk koppling.
+
+<!-- review:begin se-lic-20261124b-ethosuximide-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Dessutom saknas giltiga godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-ethosuximide-1 -->
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata från DrugBank och analysera ett möjligt samband med AVPR2/GNAS-signalering.
@@ -118,6 +124,19 @@ Produktresumétexter med varningar och kontraindikationer har inte kunnat hämta
 - Göra en systematisk litteratur- och prövningssökning på etosuximid vid NSIAD.
 - Genomföra prekliniska studier (till exempel cellmodeller med aktiverande AVPR2-mutation) för att testa om det finns någon biologisk effekt.
 - Beakta kontraindikationerna för njur- och blodsjukdom, eftersom NSIAD är en njurrelaterad störning.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

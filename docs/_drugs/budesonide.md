@@ -91,7 +91,13 @@ Det finns ingen randomiserad prövning av budesonid vid atopiskt eksem hos männ
 
 ## Marknadsinformation Sverige
 
-Marknadsstatus i Sverige är marknadsförd. I de lokala uppgifterna är 20 godkännanden giltiga. Listan nedan visar de fem första och kan vara ofullständig.
+Marknadsstatus i Sverige är marknadsförd. Antal och status för godkännandena finns i snabböversikten. Listan nedan visar de fem första och kan vara ofullständig.
+
+<!-- review:begin se-lic-20261124b-budesonide-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Marknadsstatus i Sverige är marknadsförd. I de lokala uppgifterna är 20 godkännanden giltiga. Listan nedan visar de fem första och kan vara ofullständig.” Texten angav ett fast antal giltiga godkännanden. Uppgifterna innehåller bara en del av Läkemedelsverkets godkännanden för läkemedlet, och bland de insamlade finns även avregistrerade, så antalet stämde inte; det har tagits bort. Endast antalsuppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-budesonide-1 -->
 
 <!-- licenses:begin -->
 
@@ -139,6 +145,19 @@ Se produktresumén för fullständiga varningar och kontraindikationer.
 - En topikal beredning med dokumenterad hudupptagning, och en bedömning av om befintliga beredningar alls kan användas.
 - Säkerhetsdata för hudapplicering, särskilt tillväxt hos barn, binjuresuppression och risk för kontaktallergi.
 - Uppgifter om verkningsmekanism och produktresuméns varningar och kontraindikationer från Läkemedelsverket.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-24 | Rättat: fast antal giltiga godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

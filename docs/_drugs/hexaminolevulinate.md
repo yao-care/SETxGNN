@@ -64,7 +64,13 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 Det finns inget etablerat samband mellan denna mekanism och bronkit, som är en inflammatorisk eller infektiös luftvägssjukdom. Mekanismen bygger på att porfyriner ansamlas i tumörceller, och det finns ingen biologisk förklaring till hur detta skulle ge effekt i luftvägarna.
 
-Den saknar stöd i studier eller litteratur och bör tolkas med stor försiktighet. Intravesikal användning och den återkallade marknadsstatusen gör dessutom en återanvändning mot en luftvägsindikation osannolik utan nya prekliniska data.
+Den saknar stöd i studier eller litteratur och bör tolkas med stor försiktighet. Intravesikal användning gör dessutom en återanvändning mot en luftvägsindikation osannolik utan nya prekliniska data.
+
+<!-- review:begin se-lic-20261124b-hexaminolevulinate-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Den saknar stöd i studier eller litteratur och bör tolkas med stor försiktighet. Intravesikal användning och den återkallade marknadsstatusen gör dessutom en återanvändning mot en luftvägsindikation osannolik utan nya prekliniska data.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-hexaminolevulinate-1 -->
 
 ---
 
@@ -119,6 +125,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Läkemedlets godkännande i Sverige är dessutom återkallat” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

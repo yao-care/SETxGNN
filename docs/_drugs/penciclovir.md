@@ -85,7 +85,13 @@ Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform,
 
 ### Säkerhetsaspekter
 
-Se produktresumén för säkerhetsinformation. Inga varningar, kontraindikationer eller läkemedelsinteraktioner har kunnat hämtas för detta läkemedel i de data som sammanställts. Eftersom de godkända produkterna är indragna finns ingen aktuell svensk produktresumé att utgå från.
+Se produktresumén för säkerhetsinformation. Inga varningar, kontraindikationer eller läkemedelsinteraktioner har kunnat hämtas för detta läkemedel i de data som sammanställts.
+
+<!-- review:begin se-lic-20261124b-penciclovir-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Eftersom de godkända produkterna är indragna finns ingen aktuell svensk produktresumé att utgå från.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-penciclovir-1 -->
 
 ---
 
@@ -118,6 +124,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Dessutom är båda svenska godkännandena indragna, och k” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 2 godkännanden (48482, 12824) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

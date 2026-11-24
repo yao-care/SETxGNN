@@ -127,7 +127,12 @@ Varningar och kontraindikationer från de svenska produktresuméerna saknas i un
 - Ett tydligt beslut om huruvida en veterinär indikation alls ligger inom ramen för utvärderingen, eftersom detta är en veterinärmedicinsk fråga.
 - Kontrollerade veterinära studier av emtricitabin med tydliga effektmått, om riktningen ändå ska prövas.
 - Hämtning av varningar och kontraindikationer från produktresumén samt av verkningsmekanismdata från DrugBank.
-- Klargörande av varför alla svenska godkännanden har dragits in.
+
+<!-- review:begin se-lic-20261124b-emtricitabine-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Klargörande av varför alla svenska godkännanden har dragits in.” Borttaget: punkten byggde helt på uppgiften att godkännandena är indragna eller saknar giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-emtricitabine-1 -->
 
 **Övriga förutsägelser i underlaget:**
 - *Simian immunbristvirusinfektion* (L4): flera studier på makaker visar att emtricitabin i kombination med tenofovir skyddar mot SIV/SHIV-smitta. Detta är djurmodellsdata för HIV och inte en ny indikation hos människor.
@@ -142,6 +147,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna och p” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Borttaget: punkt om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

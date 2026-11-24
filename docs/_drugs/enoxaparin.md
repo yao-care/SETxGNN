@@ -133,9 +133,15 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas i und
 **För att gå vidare krävs:**
 - Litteratursökning och prövningssökning för enoxaparin vid protein C-brist, inklusive fallrapporter och registerdata
 - Komplettering av verkningsmekanismdata och säkerhetsinformation (varningar och kontraindikationer) från produktresumén
-- Utvärdering av tillgänglighet, eftersom inga svenska godkännanden är gällande
+- Utvärdering av tillgänglighet
 - Klinisk bedömning av blödningsrisk och interaktioner med andra blodförtunnande och trombocythämmande läkemedel
 - Bedömning av administreringsväg och beredningsform för den nya indikationen
+
+<!-- review:begin se-lic-20261124b-enoxaparin-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Utvärdering av tillgänglighet, eftersom inga svenska godkännanden är gällande” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-enoxaparin-1 -->
 
 <!-- review:begin log -->
 
@@ -147,6 +153,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är indragna. Inget gällande godkännande finns för närvarande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

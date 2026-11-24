@@ -149,11 +149,17 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 <!-- review:end se-lic-20261106-dorzolamide-1 -->
 
 **För att gå vidare krävs:**
-- Verifiera nuvarande tillgänglighet och regulatorisk status i Sverige, eftersom endast indragna godkännanden finns.
+- Verifiera nuvarande tillgänglighet och regulatorisk status i Sverige.
 - Hämta produktresumé med varningar och kontraindikationer från Läkemedelsverket.
 - Komplettera data om verkningsmekanism från DrugBank.
 - Bekräfta dorzolamids roll i prövningar med avkortade titlar (t.ex. NCT00314171).
 - Övriga förutsägelser (t.ex. ärftligt glaukom, håravfall, hjärtsvikt, andningssvikt) saknar eller har mycket svagt stöd och bör inte prioriteras utan ny evidens.
+
+<!-- review:begin se-lic-20261124b-dorzolamide-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Verifiera nuvarande tillgänglighet och regulatorisk status i Sverige, eftersom endast indragna godkännanden finns.” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-dorzolamide-1 -->
 
 <!-- review:begin log -->
 
@@ -164,6 +170,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla svenska godkännanden är dessutom indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

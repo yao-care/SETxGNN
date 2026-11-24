@@ -106,7 +106,13 @@ Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform,
 
 <!-- licenses:end -->
 
-Övriga beredningsformer bland de indragna godkännandena är enterotablett, dragerad tablett och injektionsvätska.
+Övriga beredningsformer bland godkännandena i uppgifterna är enterotablett, dragerad tablett och injektionsvätska.
+
+<!-- review:begin se-lic-20261124b-diclofenac-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Övriga beredningsformer bland de indragna godkännandena är enterotablett, dragerad tablett och injektionsvätska.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-diclofenac-1 -->
 
 ---
 
@@ -158,6 +164,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är indragna och inget är i dag giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, och p” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

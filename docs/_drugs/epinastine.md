@@ -113,7 +113,13 @@ För övrig säkerhetsinformation, se produktresumén.
 - Hämta verkningsmekanismdata från DrugBank och bekräfta mekanismen mot den förutsagda indikationen.
 - Hämta och granska säkerhetsinformation (varningar och kontraindikationer) i produktresumén från Läkemedelsverket.
 - Genomföra en litteratursökning och en sökning efter kliniska prövningar specifikt för epinastin vid rosacea-relaterad ögonsjukdom.
-- Utreda om en lämplig beredning och en regulatorisk väg finns, eftersom marknadsgodkännandet är indraget.
+- Utreda om en lämplig beredning och en regulatorisk väg finns.
+
+<!-- review:begin se-lic-20261124b-epinastine-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Utreda om en lämplig beredning och en regulatorisk väg finns, eftersom marknadsgodkännandet är indraget.” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-epinastine-1 -->
 
 **Not om den alternativa förutsägelsen (allergisk urtikaria, evidensnivå L4):** Mekanismen är biologiskt rimlig, eftersom histamin är den centrala mediatorn vid blåsor och rodnad. Evidensen består dock av översikter och histaminprovokationsstudier på friska frivilliga, bland andra en dubbelblind, crossover-jämförelse av flera antihistaminer (PMID 10442525), och inte av studier på patienter med urtikaria. Flera andra andra generationens antihistaminer är redan etablerade vid urtikaria, vilket begränsar epinastins tillkommande värde. Detta spår kan formuleras som en forskningsfråga men motiverar inte ett framåtgående beslut i nuläget.
 
@@ -127,6 +133,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Det enda svenska godkännandet är indraget, vilket försvårar en snabb väg framåt” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 1 godkännande (17247) är godkänd, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

@@ -121,7 +121,13 @@ För varningar och försiktighetsåtgärder, se produktresumén.
 
 **Motivering:**
 - Den höga modellpoängen stöds inte av någon klinisk studie eller publikation om famciklovir vid postinfektiös neuralgi. Den enda prövningen gäller oxikodon.
-- Samtidigt har inget av de svenska godkännandena längre giltig status, och säkerhetsdata från produktresumén saknas.
+- Samtidigt saknas säkerhetsdata från produktresumén.
+
+<!-- review:begin se-lic-20261124b-famciclovir-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Samtidigt har inget av de svenska godkännandena längre giltig status, och säkerhetsdata från produktresumén saknas.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-famciclovir-1 -->
 
 **För att gå vidare krävs:**
 - Systematisk litteratursökning efter studier av antiviral behandling, särskilt famciklovir, för att förebygga eller behandla postherpetisk neuralgi.
@@ -147,6 +153,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Inget av godkännandena är för närvarande giltigt” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom samtliga godkännanden i Sverige är avregistrerade” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: famciclovir prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2c44b8d2-3b70-4e8b-af03-2e917178f761) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

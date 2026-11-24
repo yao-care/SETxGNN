@@ -121,7 +121,13 @@ Produktresumé med varningar och kontraindikationer har inte kunnat hämtas, så
 - Hämta produktresumé för varningar och kontraindikationer, vilket är ett blockerande datagap för säkerhetsscreeningen.
 - Komplettera data om verkningsmekanismen från DrugBank.
 - Fastställa om undertyper av hjärtinfarkt behöver bedömas separat eller omfattas av den befintliga indikationen.
-- Klargöra marknadsläget, eftersom det för närvarande inte finns något giltigt svenskt godkännande.
+- Klargöra marknadsläget.
+
+<!-- review:begin se-lic-20261124b-lisinopril-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Klargöra marknadsläget, eftersom det för närvarande inte finns något giltigt svenskt godkännande.” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-lisinopril-1 -->
 
 **Övriga förutsägelser i listan:** De övriga nio förutsägelserna har likaså låg evidens och bör avvaktas. Där finns två små kliniska studier med lisinopril (PMID 17047621 och 14524095), men båda är sannolikt små och okontrollerade, så kvaliteten är osäker. Den kan motivera en fortsatt forskningsfråga, men inte ett beslut att gå vidare.
 
@@ -134,6 +140,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 17 godkännanden är avregistrerade” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

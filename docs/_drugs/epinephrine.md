@@ -144,7 +144,13 @@ Produktresumé för varningar och kontraindikationer saknas i de sammanställda 
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Evidensen för astma och bronkiolit är relativt stark med flera avslutade fas 3-prövningar och Cochrane-översikter, och mekanismen är väl etablerad. Samtidigt saknas giltiga godkännanden i Sverige, den obligatoriska säkerhetsgranskningen mot produktresumé är inte genomförd, och interaktionsbördan är hög. Observera att "obstruktiv lungsjukdom" är en bred etikett: fas 3-data gäller främst astma med inhalationsberedning, medan bronkiolitdata är blandade.
+- Evidensen för astma och bronkiolit är relativt stark med flera avslutade fas 3-prövningar och Cochrane-översikter, och mekanismen är väl etablerad. Samtidigt är den obligatoriska säkerhetsgranskningen mot produktresumé inte genomförd, och interaktionsbördan är hög. Observera att "obstruktiv lungsjukdom" är en bred etikett: fas 3-data gäller främst astma med inhalationsberedning, medan bronkiolitdata är blandade.
+
+<!-- review:begin se-lic-20261124b-epinephrine-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Samtidigt saknas giltiga godkännanden i Sverige, den obligatoriska säkerhetsgranskningen mot produktresumé är inte genomförd, och interaktionsbördan är hög.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-epinephrine-1 -->
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé (varningar och kontraindikationer) från Läkemedelsverket
@@ -169,6 +175,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Ytterligare ett godkännande (Nepipe, nr 48337) är också avregistrerat” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”och alla är avregistrerade” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

@@ -139,7 +139,13 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom uppgifter o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den förutsagda indikationen stöds av en hög modellpoäng och ett rimligt MR-baserat resonemang, men evidensen är i huvudsak preklinisk och indirekt, och inga kliniska prövningar finns. Dessutom saknas giltiga svenska godkännanden och etikettbaserad säkerhetsinformation.
+- Den förutsagda indikationen stöds av en hög modellpoäng och ett rimligt MR-baserat resonemang, men evidensen är i huvudsak preklinisk och indirekt, och inga kliniska prövningar finns. Dessutom saknas etikettbaserad säkerhetsinformation.
+
+<!-- review:begin se-lic-20261124b-eplerenone-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Den förutsagda indikationen stöds av en hög modellpoäng och ett rimligt MR-baserat resonemang, men evidensen är i huvudsak preklinisk och indirekt, och inga kliniska prövningar finns. Dessutom saknas giltiga svenska godkännanden och etikettbaserad säkerhetsinformation.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-eplerenone-1 -->
 
 **För att gå vidare krävs:**
 - Hämta produktresumé för varningar och kontraindikationer (blockerande dataluckan).
@@ -169,6 +175,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Samtliga 18 godkännanden är indragna, och inget giltigt godkännande finns för närvarande” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Klargöra marknadsstatus, eftersom alla godkännanden i Sverige är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 5 godkännanden (50995, 65877, 65876, 51094, 21031) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

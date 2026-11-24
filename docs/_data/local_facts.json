@@ -21,11 +21,11 @@
   "items_current": 2177
  },
  "reviews": {
-  "records": 633,
-  "pages": 311,
-  "public_pages_with_records": 308,
+  "records": 697,
+  "pages": 320,
+  "public_pages_with_records": 317,
   "by_action": {
-   "correct": 574,
+   "correct": 638,
    "mechanism": 59
   }
  },
@@ -139,6 +139,15 @@
    "i": "Hepatisk porfyri"
   },
   {
+   "t": "Salbutamol",
+   "u": "/drugs/salbutamol/",
+   "l": "L5",
+   "lt": 0,
+   "lv": 20,
+   "r": 5,
+   "i": "Papillär konjunktivit"
+  },
+  {
    "t": "Dutasteride",
    "u": "/drugs/dutasteride/",
    "l": "L5",
@@ -157,31 +166,22 @@
    "i": "Fokalt stelbensyndrom"
   },
   {
-   "t": "Famotidine",
-   "u": "/drugs/famotidine/",
+   "t": "Eplerenone",
+   "u": "/drugs/eplerenone/",
    "l": "L5",
-   "lt": 2,
-   "lv": 2,
+   "lt": 18,
+   "lv": 18,
    "r": 4,
-   "i": "duodenal obstruction"
+   "i": "pulmonary hypertension owing to lung disease and/or hypoxia"
   },
   {
-   "t": "Fludarabine",
-   "u": "/drugs/fludarabine/",
-   "l": "L2",
+   "t": "Famciclovir",
+   "u": "/drugs/famciclovir/",
+   "l": "L5",
    "lt": 3,
    "lv": 3,
    "r": 4,
-   "i": "plasma cell myeloma"
-  },
-  {
-   "t": "Glimepiride",
-   "u": "/drugs/glimepiride/",
-   "l": "L5",
-   "lt": 11,
-   "lv": 11,
-   "r": 4,
-   "i": "classic stiff person syndrome"
+   "i": "post-infectious neuralgia"
   }
  ],
  "example": {
@@ -195,197 +195,197 @@
  },
  "recent_reviews": [
   {
-   "t": "Thiamine",
-   "u": "/drugs/thiamine/",
-   "s": "Tiamin: Zubatmin och Viant är kombinationsprodukter med andra vitaminer",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Imipenem",
-   "u": "/drugs/imipenem/",
-   "s": "Imipenem: godkännandena gäller kombinationen imipenem/cilastatin, inte enkomponentsprodukter",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Dipyridamole",
-   "u": "/drugs/dipyridamole/",
-   "s": "Dipyridamol: Diprasorin är en kombinationsprodukt med acetylsalicylsyra",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Dexamethasone",
-   "u": "/drugs/dexamethasone/",
-   "s": "Dexametason: Tobrasone och Toflacort är kombinationsprodukter med tobramycin",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Cyanocobalamin",
-   "u": "/drugs/cyanocobalamin/",
-   "s": "Cyanokobalamin: flera godkännanden gäller kombinationsprodukter med andra vitaminer",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Bupivacaine",
-   "u": "/drugs/bupivacaine/",
-   "s": "Bupivakain: Marcain adrenalin är kombinationsberedningar med adrenalin",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Bendroflumethiazide",
-   "u": "/drugs/bendroflumethiazide/",
-   "s": "Bendroflumetiazid: de filmdragerade tabletterna är kombinationsprodukter med kaliumklorid",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Articaine",
-   "u": "/drugs/articaine/",
-   "s": "Artikain: godkännandena gäller kombinationsprodukter med adrenalin, inte enkomponentsprodukter",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Febuxostat",
-   "u": "/drugs/febuxostat/",
-   "s": "Nästa steg: två av tre svenska godkännanden är giltiga, inte bara ett avregistrerat",
-   "d": "2026-11-16"
-  },
-  {
-   "t": "Zonisamide",
-   "u": "/drugs/zonisamide/",
-   "s": "Borttaget: ”Klargöra läkemedelsformens och administreringsvägens förutsättningar, samt om en ny registrering…",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Zolmitriptan",
-   "u": "/drugs/zolmitriptan/",
-   "s": "Borttaget: ”och alla svenska godkännanden är indragna”",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Ziprasidone",
-   "u": "/drugs/ziprasidone/",
-   "s": "Borttaget: ”Totalt 8 godkännanden, samtliga avregistrerade”",
-   "d": "2026-11-06"
-  },
-  {
    "t": "Zidovudine",
    "u": "/drugs/zidovudine/",
-   "s": "Borttaget: ”Båda godkännandena är indragna, så det finns för närvarande ingen aktiv marknadsförd…",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Zanamivir",
-   "u": "/drugs/zanamivir/",
-   "s": "Borttaget: ”Dessutom är det enda svenska godkännandet indraget”",
-   "d": "2026-11-06"
+   "s": "Borttaget: punkt om indragna godkännanden",
+   "d": "2026-11-24"
   },
   {
    "t": "Xylometazoline",
    "u": "/drugs/xylometazoline/",
-   "s": "Borttaget: ”Samtliga 20 godkännanden är avregistrerade”",
-   "d": "2026-11-06"
+   "s": "Rättat: förslagets premiss om indragna godkännanden",
+   "d": "2026-11-24"
   },
   {
-   "t": "Xylitol",
-   "u": "/drugs/xylitol/",
-   "s": "Borttaget: ”och det enda svenska godkännandet är indraget”",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Warfarin",
-   "u": "/drugs/warfarin/",
-   "s": "Borttaget: ”Verifiera marknadsstatus, eftersom båda godkännandena är indragna”",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Vortioxetine",
-   "u": "/drugs/vortioxetine/",
-   "s": "Borttaget: ”Läkemedlet har dessutom inga gällande godkännanden i Sverige”",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Verapamil",
-   "u": "/drugs/verapamil/",
-   "s": "Borttaget: ”Alla 13 godkännanden är indragna”",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Vancomycin",
-   "u": "/drugs/vancomycin/",
-   "s": "Borttaget: ”Samtliga svenska godkännanden är dessutom indragna, vilket begränsar det praktiska värdet…",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Valine",
-   "u": "/drugs/valine/",
-   "s": "Borttaget: ”Dessutom är samtliga svenska godkännanden indragna, och säkerhetsdata saknas”",
-   "d": "2026-11-06"
+   "t": "Vildagliptin",
+   "u": "/drugs/vildagliptin/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "d": "2026-11-24"
   },
   {
    "t": "Urofollitropin",
    "u": "/drugs/urofollitropin/",
-   "s": "Borttaget: ”för närvarande är 6 av 6 godkännanden giltiga”",
-   "d": "2026-11-06"
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "d": "2026-11-24"
   },
   {
-   "t": "Tyrosine",
-   "u": "/drugs/tyrosine/",
-   "s": "Borttaget: ”och samtliga svenska godkännanden är avregistrerade”",
-   "d": "2026-11-06"
+   "t": "Tretinoin",
+   "u": "/drugs/tretinoin/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "d": "2026-11-24"
   },
   {
-   "t": "Tryptophan",
-   "u": "/drugs/tryptophan/",
-   "s": "Borttaget: ”Samtliga 20 godkännanden är avregistrerade”",
-   "d": "2026-11-06"
+   "t": "Tetracaine",
+   "u": "/drugs/tetracaine/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Telmisartan",
+   "u": "/drugs/telmisartan/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Tacrolimus",
+   "u": "/drugs/tacrolimus/",
+   "s": "Rättat: förslagets premiss om indragna godkännanden",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Sulbactam",
+   "u": "/drugs/sulbactam/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Sertraline",
+   "u": "/drugs/sertraline/",
+   "s": "Rättat: fast antal giltiga godkännanden",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Salbutamol",
+   "u": "/drugs/salbutamol/",
+   "s": "Rättat: förslagets premiss om indragna godkännanden",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Ropivacaine",
+   "u": "/drugs/ropivacaine/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Rivaroxaban",
+   "u": "/drugs/rivaroxaban/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Propofol",
+   "u": "/drugs/propofol/",
+   "s": "Rättat: förslagets premiss om indragna godkännanden",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Propafenone",
+   "u": "/drugs/propafenone/",
+   "s": "Rättat: förslagets premiss om indragna godkännanden",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Prednicarbate",
+   "u": "/drugs/prednicarbate/",
+   "s": "Rättat: förslagets premiss om indragna godkännanden",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Povidone",
+   "u": "/drugs/povidone/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Pimecrolimus",
+   "u": "/drugs/pimecrolimus/",
+   "s": "Rättat: förslagets premiss om indragna godkännanden",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Penciclovir",
+   "u": "/drugs/penciclovir/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Parecoxib",
+   "u": "/drugs/parecoxib/",
+   "s": "Rättat: förslagets premiss om indragna godkännanden",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Oxybutynin",
+   "u": "/drugs/oxybutynin/",
+   "s": "Rättat: förslagets premiss om indragna godkännanden",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Olanzapine",
+   "u": "/drugs/olanzapine/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Ofloxacin",
+   "u": "/drugs/ofloxacin/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Norgestimate",
+   "u": "/drugs/norgestimate/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "d": "2026-11-24"
   }
  ],
  "recent_licence_reviews": [
   {
-   "t": "Thiamine",
-   "u": "/drugs/thiamine/",
-   "s": "Tiamin: Zubatmin och Viant är kombinationsprodukter med andra vitaminer",
+   "t": "Zidovudine",
+   "u": "/drugs/zidovudine/",
+   "s": "Borttaget: punkt om indragna godkännanden",
    "d": "2026-11-24"
   },
   {
-   "t": "Imipenem",
-   "u": "/drugs/imipenem/",
-   "s": "Imipenem: godkännandena gäller kombinationen imipenem/cilastatin, inte enkomponentsprodukter",
+   "t": "Xylometazoline",
+   "u": "/drugs/xylometazoline/",
+   "s": "Rättat: förslagets premiss om indragna godkännanden",
    "d": "2026-11-24"
   },
   {
-   "t": "Dipyridamole",
-   "u": "/drugs/dipyridamole/",
-   "s": "Dipyridamol: Diprasorin är en kombinationsprodukt med acetylsalicylsyra",
+   "t": "Vildagliptin",
+   "u": "/drugs/vildagliptin/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
    "d": "2026-11-24"
   },
   {
-   "t": "Dexamethasone",
-   "u": "/drugs/dexamethasone/",
-   "s": "Dexametason: Tobrasone och Toflacort är kombinationsprodukter med tobramycin",
+   "t": "Urofollitropin",
+   "u": "/drugs/urofollitropin/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
    "d": "2026-11-24"
   },
   {
-   "t": "Cyanocobalamin",
-   "u": "/drugs/cyanocobalamin/",
-   "s": "Cyanokobalamin: flera godkännanden gäller kombinationsprodukter med andra vitaminer",
+   "t": "Tretinoin",
+   "u": "/drugs/tretinoin/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
    "d": "2026-11-24"
   },
   {
-   "t": "Bupivacaine",
-   "u": "/drugs/bupivacaine/",
-   "s": "Bupivakain: Marcain adrenalin är kombinationsberedningar med adrenalin",
+   "t": "Tetracaine",
+   "u": "/drugs/tetracaine/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
    "d": "2026-11-24"
   },
   {
-   "t": "Bendroflumethiazide",
-   "u": "/drugs/bendroflumethiazide/",
-   "s": "Bendroflumetiazid: de filmdragerade tabletterna är kombinationsprodukter med kaliumklorid",
+   "t": "Telmisartan",
+   "u": "/drugs/telmisartan/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
    "d": "2026-11-24"
   },
   {
-   "t": "Articaine",
-   "u": "/drugs/articaine/",
-   "s": "Artikain: godkännandena gäller kombinationsprodukter med adrenalin, inte enkomponentsprodukter",
+   "t": "Tacrolimus",
+   "u": "/drugs/tacrolimus/",
+   "s": "Rättat: förslagets premiss om indragna godkännanden",
    "d": "2026-11-24"
   }
  ],

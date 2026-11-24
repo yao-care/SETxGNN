@@ -147,7 +147,13 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Den högst rankade förutsägelsen (faciodigitogenitalt syndrom) stöds enbart av modellen. Inga prövningar eller publikationer finns och någon mekanistisk koppling är inte styrkt. Dessutom saknas giltiga svenska godkännanden för metylfenidat, och kunskapsgrafen listar flera kontraindikationer.
+- Den högst rankade förutsägelsen (faciodigitogenitalt syndrom) stöds enbart av modellen. Inga prövningar eller publikationer finns och någon mekanistisk koppling är inte styrkt. Dessutom listar kunskapsgrafen flera kontraindikationer.
+
+<!-- review:begin se-lic-20261124b-methylphenidate-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Den högst rankade förutsägelsen (faciodigitogenitalt syndrom) stöds enbart av modellen. Inga prövningar eller publikationer finns och någon mekanistisk koppling är inte styrkt. Dessutom saknas giltiga svenska godkännanden för metylfenidat, och kunskapsgrafen listar flera kontraindikationer.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-methylphenidate-1 -->
 
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer. Detta är en blockerande dataluckan för säkerhetsgranskning.
@@ -173,6 +179,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 5 godkännanden (23837, 23840, 50408, 58475, 61711) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

@@ -118,7 +118,26 @@ Produktresumé med varningar och kontraindikationer saknas i det sammanställda 
 - Produktresumé med varningar och kontraindikationer från Läkemedelsverket (MPA)
 - Detaljerad verkningsmekanismdata från DrugBank
 - Bedömning av nyttan jämfört med nyare, mindre sederande antihistaminer, som redan är standardbehandling vid urtikaria
-- Utredning av vilken beredningsform och administreringsväg som skulle kunna användas, eftersom inga aktiva godkännanden finns kvar
+- Utredning av vilken beredningsform och administreringsväg som skulle kunna användas
+
+<!-- review:begin se-lic-20261124b-dimenhydrinate-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Utredning av vilken beredningsform och administreringsväg som skulle kunna användas, eftersom inga aktiva godkännanden finns kvar” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-dimenhydrinate-1 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

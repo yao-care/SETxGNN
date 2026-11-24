@@ -160,7 +160,13 @@ Uppgifter från produktresumé om varningar och kontraindikationer saknas i den 
 - Hämta verkningsmekanismdata från DrugBank.
 - Granska resultaten från de avslutade fas 3-prövningarna (NCT00006459, NCT00093795) och bekräfta evidensnivån.
 - Gå igenom litteratur om gemcitabin vid bröstcancer, särskilt trippelnegativ sjukdom.
-- Klargöra varför de svenska godkännandena har dragits in och om det finns en giltig produkt för bröstcancerindikationen.
+- Klargöra om det finns en giltig produkt för bröstcancerindikationen.
+
+<!-- review:begin se-lic-20261124b-gemcitabine-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Klargöra varför de svenska godkännandena har dragits in och om det finns en giltig produkt för bröstcancerindikationen.” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-gemcitabine-1 -->
 
 ---
 
@@ -185,6 +191,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna, vilket begränsar bedömningen” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

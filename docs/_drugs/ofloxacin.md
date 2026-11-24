@@ -94,7 +94,13 @@ Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform,
 
 <!-- licenses:end -->
 
-Det enda godkännandet är upphävt, och ofloxacin finns därför för närvarande inte tillgängligt på den svenska marknaden. Beredningsformen är ögondroppar, vilket är en lokal behandling och inte lämpar sig för systemiska tillstånd som hyperviskositet.
+Beredningsformen är ögondroppar, vilket är en lokal behandling och inte lämpar sig för systemiska tillstånd som hyperviskositet.
+
+<!-- review:begin se-lic-20261124b-ofloxacin-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Det enda godkännandet är upphävt, och ofloxacin finns därför för närvarande inte tillgängligt på den svenska marknaden.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-ofloxacin-1 -->
 
 ---
 
@@ -115,12 +121,32 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas i det
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen om polyklonalt hyperviskositetssyndrom saknar både biologiskt stöd och kliniska data (evidensnivå L5). Dessutom är det enda svenska godkännandet upphävt och avser ögondroppar.
+- Förutsägelsen om polyklonalt hyperviskositetssyndrom saknar både biologiskt stöd och kliniska data (evidensnivå L5). Dessutom avser det enda svenska godkännandet ögondroppar.
+
+<!-- review:begin se-lic-20261124b-ofloxacin-2 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Förutsägelsen om polyklonalt hyperviskositetssyndrom saknar både biologiskt stöd och kliniska data (evidensnivå L5). Dessutom är det enda svenska godkännandet upphävt och avser ögondroppar.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-ofloxacin-2 -->
 
 **För att gå vidare krävs:**
 - Mekanistiskt och prekliniskt stöd för ett samband mellan ofloxacin och hyperviskositet. Utan det bör förutsägelsen inte prioriteras.
 - Komplettering av läkemedlets verkningsmekanism (DrugBank) samt varningar och kontraindikationer från produktresumén (Läkemedelsverket). Dessa uppgifter saknas och blockerar den fortsatta säkerhetsbedömningen.
 - Om projektet vill följa en mer rimlig riktning bör septikemisk pest utvärderas separat. Det kräver en systematisk genomgång av de prekliniska studierna, en jämförelse med etablerade behandlingar och en bedömning av tillgängligheten i Sverige.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

@@ -133,7 +133,13 @@ Uppgifter om varningar och kontraindikationer från den officiella produktresum�
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en modellpoäng (evidensnivå L5) utan kliniska prövningar, litteratur eller en känd mekanistisk koppling, och indikationen är ett laboratoriefynd snarare än ett sjukdomstillstånd. Dessutom saknas giltiga godkännanden i Sverige.
+- Förutsägelsen bygger enbart på en modellpoäng (evidensnivå L5) utan kliniska prövningar, litteratur eller en känd mekanistisk koppling, och indikationen är ett laboratoriefynd snarare än ett sjukdomstillstånd.
+
+<!-- review:begin se-lic-20261124b-norgestimate-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Dessutom saknas giltiga godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-norgestimate-1 -->
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén för varningar och kontraindikationer (säkerhetsgranskningen kan inte genomföras utan den)
@@ -158,6 +164,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 2 godkännanden (59046, 50862) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

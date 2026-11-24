@@ -121,15 +121,27 @@ Observera att inga varningar eller kontraindikationer från läkemedelsinformati
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en hög modellpoäng (evidensnivå L5) utan kliniska prövningar, litteratur eller känd verkningsmekanism. Dessutom saknas giltiga godkännanden i Sverige och säkerhetsdata för bedömning.
+- Förutsägelsen bygger enbart på en hög modellpoäng (evidensnivå L5) utan kliniska prövningar, litteratur eller känd verkningsmekanism. Dessutom saknas säkerhetsdata för bedömning.
+
+<!-- review:begin se-lic-20261124b-ebastine-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Förutsägelsen bygger enbart på en hög modellpoäng (evidensnivå L5) utan kliniska prövningar, litteratur eller känd verkningsmekanism. Dessutom saknas giltiga godkännanden i Sverige och säkerhetsdata för bedömning.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-ebastine-1 -->
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismdata från DrugBank för att kunna analysera sambandet till kranskärlssjukdom.
 - Hämta varningar och kontraindikationer från produktresumén hos Läkemedelsverket (MPA), vilket är ett blockerande dataglapp inför säkerhetsgranskning.
 - Utvärdera kardiell säkerhet, särskilt risk för QT-förlängning, innan någon kardiovaskulär användning övervägs.
 - Genomföra litteratur- och prövningssökning samt prekliniska studier av histamin- och mastcellsmekanismer vid kranskärlssjukdom.
-- Bedöma vägen till marknaden, eftersom det finns 20 giltiga godkännanden på den svenska marknaden och läkemedlet är marknadsfört.
+- Bedöma vägen till marknaden, eftersom det finns giltiga godkännanden på den svenska marknaden och läkemedlet är marknadsfört.
 - Bedöma om förutsägelserna för kranskärlssjukdom och myokardischemi ska hanteras som ett gemensamt spår.
+
+<!-- review:begin se-lic-20261124b-ebastine-2 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Bedöma vägen till marknaden, eftersom det finns 20 giltiga godkännanden på den svenska marknaden och läkemedlet är marknadsfört.” Texten angav ett fast antal giltiga godkännanden. Uppgifterna innehåller bara en del av Läkemedelsverkets godkännanden för läkemedlet, och bland de insamlade finns även avregistrerade, så antalet stämde inte; det har tagits bort. Endast antalsuppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-ebastine-2 -->
 
 <!-- review:begin log -->
 
@@ -140,6 +152,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är avregistrerade och inget är giltigt idag” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: fast antal giltiga godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

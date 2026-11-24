@@ -66,7 +66,6 @@ Sambandet är främst anatomiskt och sjukdomsmässigt. De ursprungliga indikatio
 
 Glycin är en hämmande signalsubstans och beskrivs som en cellskyddande, antiinflammatorisk aminosyra som kan påverka immunceller och minska inflammatoriska cytokiner. Inga data i underlaget kopplar dock dessa egenskaper till sjukdom i näsans slemhinna. De två funna publikationerna handlar om lektinhistokemi i nässlemhinna hos nötkreatur och om oligoarginin-polymerer som slemhinneadjuvans, och ingen av dem testar glycin.
 
-
 ---
 
 ### Kliniska prövningar
@@ -88,7 +87,13 @@ Glycin är en hämmande signalsubstans och beskrivs som en cellskyddande, antiin
 
 ### Marknadsinformation Sverige
 
-Alla 20 godkännanden är giltiga och inget har någon registrerad indikationstext. De fem första visas nedan.
+Inget av godkännandena har någon registrerad indikationstext; antal och status finns i snabböversikten. De fem första visas nedan.
+
+<!-- review:begin se-lic-20261124b-glycine-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Alla 20 godkännanden är giltiga och inget har någon registrerad indikationstext. De fem första visas nedan.” Texten angav ett fast antal giltiga godkännanden. Uppgifterna innehåller bara en del av Läkemedelsverkets godkännanden för läkemedlet, och bland de insamlade finns även avregistrerade, så antalet stämde inte; det har tagits bort. Endast antalsuppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-glycine-1 -->
 
 <!-- licenses:begin -->
 
@@ -129,8 +134,14 @@ Se produktresumén för fullständig säkerhetsinformation.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en modellpoäng. Ingen klinisk prövning eller publikation testar glycin vid sjukdom i näshålan, verkningsmekanismen är okänd och läkemedlet är marknadsfört i Sverige med 20 giltiga godkännanden.
+- Förutsägelsen bygger enbart på en modellpoäng. Ingen klinisk prövning eller publikation testar glycin vid sjukdom i näshålan, verkningsmekanismen är okänd och läkemedlet är marknadsfört i Sverige med giltiga godkännanden.
 - Förutsägelsen kan till stor del återspegla redan kända kopplingar till övre luftvägsinflammation snarare än en verklig ny möjlighet.
+
+<!-- review:begin se-lic-20261124b-glycine-2 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Förutsägelsen bygger enbart på en modellpoäng. Ingen klinisk prövning eller publikation testar glycin vid sjukdom i näshålan, verkningsmekanismen är okänd och läkemedlet är marknadsfört i Sverige med 20 giltiga godkännanden.” Texten angav ett fast antal giltiga godkännanden. Uppgifterna innehåller bara en del av Läkemedelsverkets godkännanden för läkemedlet, och bland de insamlade finns även avregistrerade, så antalet stämde inte; det har tagits bort. Endast antalsuppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-glycine-2 -->
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismen från DrugBank och analysera kopplingen till näsans slemhinneinflammation.
@@ -138,6 +149,20 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Göra en riktad litteratursökning efter prekliniska eller kliniska data om glycin vid rinit eller näshålesjukdom.
 - Utreda om en lämplig beredningsform (till exempel nasal) och administreringsväg finns, eftersom alla tidigare produkter är intravenösa eller för peritonealdialys.
 - Bedöma om förutsägelsen verkligen är ny jämfört med glycins ursprungliga indikationer.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-24 | Rättat: fast antal giltiga godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: fast antal giltiga godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

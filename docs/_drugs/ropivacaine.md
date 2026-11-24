@@ -135,7 +135,13 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Beslut: Avvakta**
 
 **Motivering:**
-- Evidensen (L3) består av en mycket liten fas 4-studie (n=10), en studie med oklar huvudvärkstyp och observationsstudier. Dessutom saknas giltiga godkännanden i Sverige och säkerhetsunderlag från produktresumé.
+- Evidensen (L3) består av en mycket liten fas 4-studie (n=10), en studie med oklar huvudvärkstyp och observationsstudier. Dessutom saknas säkerhetsunderlag från produktresumé.
+
+<!-- review:begin se-lic-20261124b-ropivacaine-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Evidensen (L3) består av en mycket liten fas 4-studie (n=10), en studie med oklar huvudvärkstyp och observationsstudier. Dessutom saknas giltiga godkännanden i Sverige och säkerhetsunderlag från produktresumé.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-ropivacaine-1 -->
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé för varningar och kontraindikationer (blockerande dataglapp).
@@ -160,6 +166,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla sju godkännanden är indragna och i” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna och användningen sker via nervblockad snarare än systemisk behandling” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

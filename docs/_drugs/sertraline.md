@@ -96,7 +96,13 @@ Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform,
 
 <!-- licenses:end -->
 
-Minst 20 godkännanden finns registrerade och samtliga är giltiga. Listan kan vara ofullständig.
+Antal och status för godkännandena finns i snabböversikten och tabellen ovan. Listan kan vara ofullständig.
+
+<!-- review:begin se-lic-20261124b-sertraline-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Minst 20 godkännanden finns registrerade och samtliga är giltiga. Listan kan vara ofullständig.” Texten angav ett fast antal giltiga godkännanden. Uppgifterna innehåller bara en del av Läkemedelsverkets godkännanden för läkemedlet, och bland de insamlade finns även avregistrerade, så antalet stämde inte; det har tagits bort. Endast antalsuppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-sertraline-1 -->
 
 ---
 
@@ -119,6 +125,18 @@ För övrig säkerhetsinformation, se produktresumén.
 - Sjukdomsspecifika studier av sertralin vid schizoid personlighetsstörning
 - Uppgifter om verkningsmekanism och en genomgång av produktresumén avseende varningar och kontraindikationer
 - Klinisk bedömning av nytta och risk för målgruppen innan eventuella studier planeras
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-24 | Rättat: fast antal giltiga godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

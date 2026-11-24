@@ -106,7 +106,13 @@ Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform,
 
 <!-- licenses:end -->
 
-De indragna godkännandena omfattar inhalationsberedningar, lösning för nebulisator och oral lösning. Någon beredningsform för ögonbehandling finns inte bland dem.
+Godkännandena i uppgifterna omfattar inhalationsberedningar, lösning för nebulisator och oral lösning. Någon beredningsform för ögonbehandling finns inte bland dem.
+
+<!-- review:begin se-lic-20261124b-salbutamol-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”De indragna godkännandena omfattar inhalationsberedningar, lösning för nebulisator och oral lösning. Någon beredningsform för ögonbehandling finns inte bland dem.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-salbutamol-1 -->
 
 ---
 
@@ -148,7 +154,13 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 - Bedömning av lämplig administreringsväg (till exempel ögondroppar) och av säkerhet i ögat, särskilt med tanke på förhöjt ögontryck och glaukom.
 - Hämtning av produktresumé för varningar och kontraindikationer, eftersom denna information saknas i det underlag som sammanställts.
 - Jämförelse med etablerade behandlingar vid allergisk konjunktivit för att bedöma ett eventuellt kliniskt mervärde.
-- Klargörande av regulatorisk väg, eftersom det för närvarande inte finns något giltigt godkännande i Sverige.
+- Klargörande av regulatorisk väg.
+
+<!-- review:begin se-lic-20261124b-salbutamol-2 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Klargörande av regulatorisk väg, eftersom det för närvarande inte finns något giltigt godkännande i Sverige.” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-salbutamol-2 -->
 
 <!-- review:begin log -->
 
@@ -161,6 +173,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden för salbutamol är indragna, och inget är för närvarande giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är indragna, och i” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 5 godkännanden (12803, 44737, 12324, 13120, 11088) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

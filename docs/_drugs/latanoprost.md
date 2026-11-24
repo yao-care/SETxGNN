@@ -122,7 +122,13 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen är mekanistiskt rimlig men stöds varken av kliniska prövningar eller litteratur (evidensnivå L5). Dessutom har samtliga svenska godkännanden dragits in, och behandlingen av kongenital glaukom är i huvudsak kirurgisk.
+- Förutsägelsen är mekanistiskt rimlig men stöds varken av kliniska prövningar eller litteratur (evidensnivå L5). Dessutom är behandlingen av kongenital glaukom i huvudsak kirurgisk.
+
+<!-- review:begin se-lic-20261124b-latanoprost-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Förutsägelsen är mekanistiskt rimlig men stöds varken av kliniska prövningar eller litteratur (evidensnivå L5). Dessutom har samtliga svenska godkännanden dragits in, och behandlingen av kongenital glaukom är i huvudsak kirurgisk.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-latanoprost-1 -->
 
 **För att gå vidare krävs:**
 - En litteratur- och prövningssökning specifikt för latanoprost vid primär ärftlig/kongenital glaukom, särskilt pediatriska studier.
@@ -139,6 +145,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är indragna och inget är giltigt för närvarande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

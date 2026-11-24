@@ -129,7 +129,13 @@ Produktresumétext om varningar och kontraindikationer ingår inte i det underla
 
 **Motivering:**
 - Förutsägelsen för Tourettes syndrom har högt modellpoäng men ingen klinisk eller publicerad evidens (L5).
-- Läkemedlet är en akut injektion med QT-risk, vilket passar dåligt för en kronisk sjukdom. Dessutom saknas giltiga godkännanden i Sverige.
+- Läkemedlet är en akut injektion med QT-risk, vilket passar dåligt för en kronisk sjukdom.
+
+<!-- review:begin se-lic-20261124b-droperidol-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Dessutom saknas giltiga godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-droperidol-1 -->
 
 **För att gå vidare krävs:**
 - Systematisk litteratursökning och eventuell registrering av prekliniska eller kliniska studier vid tics och Tourettes syndrom.
@@ -140,6 +146,19 @@ Produktresumétext om varningar och kontraindikationer ingår inte i det underla
 **Övriga förutsägelser med mer underlag:** Två andra förutsägelser har tydligt mer litteratur och bör utvärderas separat.
 - **Akut migrän/huvudvärk** har evidensnivå L3. Där finns bland annat en randomiserad, dubbelblind, placebokontrollerad studie (PMID 12552051) och flera översikter. Användning kräver QT- och EKG-övervakning på akutmottagning.
 - **Manisk bipolär sjukdom** har evidensnivå L3. Evidensen gäller främst akut agitation och psykos, inte mani som sjukdom.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

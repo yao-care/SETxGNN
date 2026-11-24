@@ -92,7 +92,13 @@ Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform,
 
 <!-- licenses:end -->
 
-Ytterligare ett godkännande (53642, Ivabradin Krka) finns, totalt sex. Alla är indragna, och ingen är giltig för närvarande.
+Ytterligare ett godkännande (53642, Ivabradin Krka) finns, totalt sex.
+
+<!-- review:begin se-lic-20261124b-ivabradine-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Ytterligare ett godkännande (53642, Ivabradin Krka) finns, totalt sex. Alla är indragna, och ingen är giltig för närvarande.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-ivabradine-1 -->
 
 ---
 
@@ -120,7 +126,13 @@ Se produktresumén för övrig säkerhetsinformation, inklusive varningar och ko
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en modellpoäng utan kliniska prövningar, litteratur eller en trovärdig mekanism. Dessutom saknas giltiga godkännanden i Sverige, och varnings- och kontraindikationsdata saknas.
+- Förutsägelsen bygger enbart på en modellpoäng utan kliniska prövningar, litteratur eller en trovärdig mekanism. Dessutom saknas varnings- och kontraindikationsdata.
+
+<!-- review:begin se-lic-20261124b-ivabradine-2 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Förutsägelsen bygger enbart på en modellpoäng utan kliniska prövningar, litteratur eller en trovärdig mekanism. Dessutom saknas giltiga godkännanden i Sverige, och varnings- och kontraindikationsdata saknas.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-ivabradine-2 -->
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar, kontraindikationer och godkänd indikation) från Läkemedelsverket.
@@ -139,6 +151,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-12 | Tabell: 5 godkännanden (62662, 53688, 62663, 53687, 53641) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

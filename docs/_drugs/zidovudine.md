@@ -132,7 +132,12 @@ Se produktresumén för fullständiga varningar och försiktighetsåtgärder, ef
 
 **Motivering:**
 - Förutsägelsen har ett starkt mekanistiskt stöd, men all evidens kommer från djurstudier (evidensnivå L4). Inga kliniska prövningar finns, och indikationen är veterinärmedicinsk och ger lite nytt värde för humanmedicin.
-- Zidovudin har inga aktiva godkännanden i Sverige.
+
+<!-- review:begin se-lic-20261124b-zidovudine-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Zidovudin har inga aktiva godkännanden i Sverige.” Borttaget: punkten byggde helt på uppgiften att godkännandena är indragna eller saknar giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-zidovudine-1 -->
 
 **För att gå vidare krävs:**
 - Ett tydligt beslut om huruvida målet är veterinärmedicinsk användning, vilket kräver separat veterinär bedömning.
@@ -151,6 +156,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Båda godkännandena är indragna, så det finns för närvarande ingen aktiv marknadsförd zidovudinprodukt i Sverige” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 2 godkännanden (11764, 11427) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Borttaget: punkt om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

@@ -142,7 +142,13 @@ Se produktresumén för information om varningar och kontraindikationer. Sådana
 - Avgränsning av vilka typer av amenorré (t.ex. funktionell hypotalamisk) som är aktuella.
 - Kontrollerade kliniska studier med tydliga effektmått, t.ex. återkomst av menstruation och hormonnivåer.
 - Bedömning av beredningsform och administreringsväg, eftersom tidigare produkter huvudsakligen var vaginala.
-- Utredning av regulatorisk väg, eftersom inga godkännanden är aktiva.
+- Utredning av regulatorisk väg.
+
+<!-- review:begin se-lic-20261124b-estriol-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Utredning av regulatorisk väg, eftersom inga godkännanden är aktiva.” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-estriol-1 -->
 
 <!-- review:begin log -->
 
@@ -154,6 +160,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga godkännanden är avregistrerade” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Ytterligare tre godkännanden (Blissel, Ovesterin vaginalkräm och Gynoflor) finns, även dessa avregistrerade” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

@@ -125,7 +125,13 @@ Bland de 30 registrerade tillstånden finns bland annat leversvikt, leversjukdom
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger nästan helt på modellpoängen. Det finns inga kliniska prövningar, och den enda publikationen är en äldre fallrapport som inte undersöker labetalol vid renovaskulär hypertoni. Dessutom saknas giltigt godkännande i Sverige och säkerhetsunderlaget är ofullständigt.
+- Förutsägelsen bygger nästan helt på modellpoängen. Det finns inga kliniska prövningar, och den enda publikationen är en äldre fallrapport som inte undersöker labetalol vid renovaskulär hypertoni. Dessutom är säkerhetsunderlaget ofullständigt.
+
+<!-- review:begin se-lic-20261124b-labetalol-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Förutsägelsen bygger nästan helt på modellpoängen. Det finns inga kliniska prövningar, och den enda publikationen är en äldre fallrapport som inte undersöker labetalol vid renovaskulär hypertoni. Dessutom saknas giltigt godkännande i Sverige och säkerhetsunderlaget är ofullständigt.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-labetalol-1 -->
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén (varningar, kontraindikationer) från Läkemedelsverket, eftersom detta är ett blockerande datagap.
@@ -153,6 +159,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla fem godkännanden är indragna, och inget giltigt godkännande finns för närvarande” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Utreda marknadsstatus, eftersom alla svenska godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

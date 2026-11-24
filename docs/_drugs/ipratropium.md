@@ -162,9 +162,15 @@ För varningar och försiktighetsåtgärder i övrigt, se produktresumén.
 **För att gå vidare krävs:**
 - Hämta och granska produktresumé för varningar och kontraindikationer från Läkemedelsverket (MPA).
 - Komplettera verkningsmekanismen från DrugBank.
-- Utreda varför godkännandena är indragna (kommersiella eller säkerhetsmässiga skäl) och om någon produkt kan åter marknadsföras.
+- Utreda om någon produkt kan marknadsföras.
 - Bedöma evidensnivån manuellt, eftersom de fas 3-prövningar som finns främst jämför beredningsformer och aktiva jämförelsepreparat, inte ipratropium mot placebo.
 - Om ett bredare indikationsspråk ("obstruktiv lungsjukdom", inklusive astma) önskas: samla starkare data för astma, där prövningarna är små eller preliminära.
+
+<!-- review:begin se-lic-20261124b-ipratropium-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Utreda varför godkännandena är indragna (kommersiella eller säkerhetsmässiga skäl) och om någon produkt kan åter marknadsföras.” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-ipratropium-1 -->
 
 ---
 
@@ -180,6 +186,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är dessutom indragna, och verkningsmekanism och produktresumédata saknas i underlaget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

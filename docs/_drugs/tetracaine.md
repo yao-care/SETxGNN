@@ -110,7 +110,13 @@ Produktresumé med varningar och kontraindikationer har inte kunnat hämtas; se 
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger enbart på en grafmodell (evidensnivå L5) och saknar både kliniska prövningar, litteratur och en rimlig verkningsmekanism. Tetrakain har dessutom inga aktiva godkännanden i Sverige i dag.
+- Förutsägelsen bygger enbart på en grafmodell (evidensnivå L5) och saknar både kliniska prövningar, litteratur och en rimlig verkningsmekanism.
+
+<!-- review:begin se-lic-20261124b-tetracaine-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Tetrakain har dessutom inga aktiva godkännanden i Sverige i dag.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-tetracaine-1 -->
 
 **För att gå vidare krävs:**
 - Hämta verkningsmekanismen från DrugBank och bedöm om något mekanistiskt samband finns.
@@ -135,6 +141,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”då nuvarande godkännanden (ögondroppar, plåster) är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 3 godkännanden (10080, 22468, 57835) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

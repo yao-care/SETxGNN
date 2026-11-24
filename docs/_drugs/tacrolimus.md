@@ -160,8 +160,14 @@ Takrolimus är ett immunsuppressivt läkemedel och inte ett antineoplastiskt lä
 - Hämta publicerade resultat från NCT02004860 och NCT01591070 (primära effektmått, skovfrekvens, tolerabilitet).
 - Hämta och granska produktresumén för varningar och kontraindikationer från Läkemedelsverket, särskilt för topikala beredningar.
 - Komplettera verkningsmekanismdata från DrugBank.
-- Utreda marknadssituationen: nuvarande godkännanden är indragna, så en ny ansökan eller ett tillgängligt topikalt preparat behövs för klinisk användning i Sverige.
+- Utreda marknadssituationen för ett tillgängligt topikalt preparat för klinisk användning i Sverige.
 - Ta ställning till långtidssäkerhet, särskilt malignitetsrisk, vid underhållsbehandling i ansiktet.
+
+<!-- review:begin se-lic-20261124b-tacrolimus-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Utreda marknadssituationen: nuvarande godkännanden är indragna, så en ny ansökan eller ett tillgängligt topikalt preparat behövs för klinisk användning i Sverige.” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-tacrolimus-1 -->
 
 ---
 
@@ -175,6 +181,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Samtidigt är alla svenska godkännanden indragna, mekanismdata och p” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 
