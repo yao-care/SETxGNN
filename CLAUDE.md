@@ -101,3 +101,10 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 - 紀錄說明的張數樣板（site.FIGURES）第一輪已改成不寫數字，確認現行紀錄沒有寫死張數的說明。
 - checker 全量前後都是 0；gate exit 0。
 - 同日母 repo checker 把上面這些 sv 否定／撤回前提句型加進 M3（`sv_neg_x`，另成一組）：用 ebdef401 前的頁面反向驗證，78 句裡抓到 71 句（漏的 7 句是 partial 頁寫死「20 giltiga」等張數句，不屬否定句型；同 id 重發的 prilocaine 也抓得到），另抓到第二輪寬偵測漏掉的 2 句「Dessutom saknas aktiva godkännanden i Sverige」（propofol、ramipril），以 `se-lic-20261124c-*` 更正；改後 checker 全量 0、gate exit 0。
+
+## 缺市場段落的公開頁補程式表（2026-11-24 第三輪）
+
+用戶 2026-11-24 決定（比照 JpTxGNN 第二輪 `add_section`）：公開頁（非 noindex、非轉址）整頁沒有市場段落、證據包卻有許可證紀錄的，
+`scripts/sync_license_tables.py` 的 `add_section` 在安全性段之前（沒有就結論、查核紀錄、免責聲明段之前）補「## Marknadsinformation Sverige」與程式表；noindex 頁、證據包沒有紀錄的頁不補。
+gate（licenses.py 的 page_problems 第 5 項）擋「公開頁快照有程式表列卻沒有市場段落」；PAGE_NOTE 放行新標題行。
+2026-11-24 全量量測 5 頁（alteplase、ambrisentan、cabergoline、isotretinoin、naphazoline；查核紀錄段標題在 review log 區塊裡時，段落放在區塊之前），補上；正文沒有跟新表矛盾的句子，沒有新查核紀錄。checker 前後都是 0、gate exit 0。

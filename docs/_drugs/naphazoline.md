@@ -107,6 +107,18 @@ Följande kommer från kunskapsgrafen (läkemedels-sjukdomskopplingar som kontra
 - Produktresumé från Läkemedelsverket med varningar och kontraindikationer, vilket är ett blockerande datagap för säkerhetsbedömning.
 - En biologisk hypotes som förklarar hur en alfa-adrenerg agonist skulle kunna påverka hårväxt, med prekliniska data som stöd.
 
+## Marknadsinformation Sverige
+
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 48895 | Cleari | Ögondroppar, lösning | Elara Pharmaservices Europe Limited | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
+
 <!-- review:begin log -->
 
 ## Granskningslogg

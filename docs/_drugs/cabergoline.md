@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "cabergoline"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cabergoline: predikterad ny indikation Progeria–kort växt–pigmenterade nevi-syndrom (progeria-short stature-pigmented nevi syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala…"
 ---
 
@@ -102,6 +102,24 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Prekliniska data eller fallbeskrivningar som visar en biologisk effekt vid detta syndrom.
 - Komplettering av säkerhetsinformationen från produktresumén (varningar och kontraindikationer).
 - En bedömning av hur patientgruppen, som är mycket liten, skulle kunna studeras.
+
+## Marknadsinformation Sverige
+
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 11522 | Dostinex | Tablett | Pfizer AB | Godkänd |
+| 18746 | Cabergoline Teva | Tablett | Teva Sweden AB | Godkänd |
+| 18747 | Cabergoline Teva | Tablett | Teva Sweden AB | Godkänd |
+| 18748 | Cabergoline Teva | Tablett | Teva Sweden AB | Godkänd |
+| 23663 | Cabergoline ratiopharm | Tablett | ratiopharm GmbH | Godkänd |
+
+Tabellen visar 5 av 12 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 <!-- review:begin log -->
 

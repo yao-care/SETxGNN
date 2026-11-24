@@ -45,7 +45,7 @@ NONE_LINE = "I Läkemedelsverkets uppgifter som sammanställts för den här rap
 MAX_ROWS = 20
 VALID_ST = ("godkänd", "registrerad")
 # 每週排程 3b 的自我檢查（license_refresh）：改到的行除了表格列只能是這些（license_adapter.PAGE_NOTE 用同一份）
-PAGE_NOTE = (r"^(" + "|".join(re.escape(x) for x in (BEGIN, END, SOURCE, NONE_LINE)) + r"|Tabellen visar \d+ av \d+ godkännanden i uppgifterna\."
+PAGE_NOTE = (r"^(" + "|".join(re.escape(x) for x in ("## " + SECS[0], BEGIN, END, SOURCE, NONE_LINE)) + r"|Tabellen visar \d+ av \d+ godkännanden i uppgifterna\."
              r"|Tabellen visar \d+ av minst \d+ godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig\.)$")
 SHOW_RX = re.compile(r"^Tabellen visar \d+ av (minst )?\d+ godkännanden")
 # --migrate：緊接舊表的下一行裡只講「表上列了幾筆」的句子（數字或「första」跟顯示字樣同句、沒有狀態／成分／劑型等事實字樣）
@@ -200,7 +200,7 @@ def process(text, rows, total, partial=False, migrate=False, protect=()):
         return "\n".join(_splice(lines, lines.index(BEGIN), lines.index(END) + 1, blk)), []
     h, b = bounds(lines)
     if h is None:
-        return text, []
+        return (add_section(text, rows, total, partial) or text), []
     x, y = first_table(lines, h + 1, b)
     gone = []
     if x is None:
@@ -214,6 +214,34 @@ def process(text, rows, total, partial=False, migrate=False, protect=()):
             if gone:
                 lines = lines[:k] + ([new] if new else []) + lines[k + 1:]
     return "\n".join(_splice(lines, x, y, blk)), gone
+
+
+# 2026-11-24 第三輪（用戶決定，比照 JpTxGNN 第二輪）：公開頁沒有「## Marknadsinformation Sverige」段落、但證據包有許可紀錄的，
+# 補一個段落放程式表。位置：「## Säkerhetsaspekter」之前；沒有就「## Slutsats och nästa steg」「## Granskningslogg」「## Ansvarsfriskrivning」之前。
+# noindex 頁與證據包沒有紀錄的頁不補。
+ADD_BEFORE = ("Säkerhetsaspekter", "Slutsats och nästa steg", "Granskningslogg", "Ansvarsfriskrivning")
+
+
+def is_public(text):
+    fm = text.split("---", 2)[1] if text.startswith("---") else ""
+    return not re.search(r"^noindex:\s*true", fm, re.M)
+
+
+def add_section(text, rows, total, partial=False):
+    if not rows or not is_public(text):
+        return None
+    lines = text.split("\n")
+    heads = {m.group(1): i for i, l in enumerate(lines) for m in [re.match(r"^## (.+?)\s*$", l)] if m}
+    at = next((heads[h] for h in ADD_BEFORE if h in heads), None)
+    if at is None:
+        return None
+    k = at - 1
+    while k > 0 and not lines[k].strip():
+        k -= 1
+    if lines[k].strip() == "<!-- review:begin log -->":  # 查核紀錄段的標題在 log 區塊裡：段落放在區塊之前
+        at = k
+    sec = ["## " + SECS[0], ""] + wrap(program_block(rows, total, partial)) + [""]
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(lines[:at] + sec + lines[at:]))
 
 
 def carry_block(old_text, new_text):

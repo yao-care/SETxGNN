@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "alteplase"
 predicted_indications: ["heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Alteplase: predikterad ny indikation Heparinkofaktor 2-brist (heparin cofactor 2 deficiency) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 5 (giltiga: 5)"
 ---
 
@@ -103,6 +103,22 @@ Se produktresumén för fullständig säkerhetsinformation, inklusive varningar 
 - Fallrapporter, observationsstudier eller prövningar som direkt studerar alteplas vid heparinkofaktor 2-brist.
 - Detaljerad information om verkningsmekanismen och produktresumé med varningar och kontraindikationer.
 - En bedömning av nytta och blödningsrisk hos patienter med ärftlig trombofili.
+## Marknadsinformation Sverige
+
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 11137 | Actilyse | Pulver och vätska till injektions-/infusionsvätska, lösning | Boehringer Ingelheim International GmbH | Godkänd |
+| 44422 | Actilyse | Pulver till injektions-/infusionsvätska, lösning | Boehringer Ingelheim International GmbH | Godkänd |
+| 49994 | Actilyse | Pulver och vätska till injektions-/infusionsvätska, lösning | Orifarm AB | Godkänd |
+| 68997 | Actilyse | Pulver och vätska till injektions-/infusionsvätska, lösning | Orifarm AB | Godkänd |
+| 68998 | Actilyse | Pulver och vätska till injektions-/infusionsvätska, lösning | Orifarm AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

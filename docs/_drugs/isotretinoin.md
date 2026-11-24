@@ -66,6 +66,24 @@ Retinoidsignalering har studerats i prekliniska modeller av renin-angiotensinsys
 
 ---
 
+## Marknadsinformation Sverige
+
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 48555 | Isotretinoin Actavis | Kapsel, mjuk | Actavis Group PTC ehf. | Godkänd |
+| 48556 | Isotretinoin Actavis | Kapsel, mjuk | Actavis Group PTC ehf. | Godkänd |
+| 52177 | Isotretinoin Ebb | Kapsel, mjuk | Ebb Medical AB | Godkänd |
+| 52178 | Isotretinoin Ebb | Kapsel, mjuk | Ebb Medical AB | Godkänd |
+| 57967 | Isotretinoin Orifarm | Kapsel, mjuk | Orifarm Generics A/S | Godkänd |
+
+Tabellen visar 5 av 11 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
+
 ## Säkerhetsaspekter
 
 - **Kontraindikationer enligt kunskapsgrafen** (härledda från grafen, inte från produktresumétext): ångestsyndrom, neuros, dystymi, njursjukdom, pankreatit, leversjukdom, gallblåsesjukdom, angioödem (flera former), inflammatorisk tarmsjukdom, osteoporos, systemisk lupus erythematosus, psykotiska sjukdomar, schizofreniforma och schizoaffektiva tillstånd, psykisk sjukdom i allmänhet, kaliumbrist, diabetes mellitus, diabetesketoacidos, hyperurikemi, neutropeni, agranulocytos och hypotoni.

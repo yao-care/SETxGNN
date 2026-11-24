@@ -8,6 +8,7 @@
   4. 程式產生的許可證表（2026-11-24 起，scripts/sync_license_tables.py）：市場段落的 <!-- licenses:begin --> … <!-- licenses:end -->
      內＝依快照 rows／total／partial_rows 重算的結果（整塊比對）；標記成對；市場段落裡沒有程式區塊以外的許可證表
      （報告寫的表會蓋回時，sync_notes_to_docs.py 用 carry_block 移植程式區塊）。
+  5. 公開頁（非 noindex）快照有程式表列，卻整頁沒有市場段落（2026-11-24 第三輪）。
 事實層只涵蓋部分來源時（checker X_SCOPE），跟 checker 一樣只驗資料能證明的部分。
 修法：資料變了→跑每週排程（重排狀態格、狀態列、張數列並重建快照）；正文或表格寫錯→寫查核紀錄（docs/_data/drug_reviews.json）
 再跑 scripts/apply_drug_reviews.py。
@@ -126,6 +127,9 @@ def page_problems(stem: str, text: str) -> list[str]:
     if SLT() is not None:
         for a, b in _sections(lines)[:1]:
             errs += SLT().block_problems(lines[a:b], e)
+        # 2026-11-24 第三輪：公開頁快照有程式表列、整頁卻沒有市場段落 → 擋（scripts/sync_license_tables.py 的 add_section 補段落）
+        if e.get("rows") and not _sections(lines) and SLT().is_public(text):
+            errs.append("公開頁有證據包許可紀錄卻沒有「## Marknadsinformation Sverige」段落（跑 python3 scripts/sync_license_tables.py）")
     fc = e.get("facts")
     if not fc:
         return errs
