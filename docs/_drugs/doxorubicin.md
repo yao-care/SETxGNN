@@ -111,7 +111,7 @@ Av de 28 registrerade prövningarna visas här de mest relevanta (fas 3 och rand
 | Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
 |------|------|------|------|------|
 | 28126 | Doxorubicin Accord | Koncentrat till infusionsvätska, lösning | Accord Healthcare B.V. | Godkänd |
-| 14321 | Doxorubicin Ebewe | Injektionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.Kommanditgesellschaft | Godkänd |
+| 14321 | Doxorubicin Ebewe | Injektionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.KG | Godkänd |
 | 11312 | Doxorubicin Teva | Injektionsvätska, lösning | Teva Sweden AB | Godkänd |
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).

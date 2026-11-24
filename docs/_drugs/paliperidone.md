@@ -88,7 +88,7 @@ De fem första visas nedan.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
 |------|------|------|------|------|
-| 67075 | Paliperidon Heumann | Injektionsvätska, depotsuspension i förfylld spruta | Heumann Pharma GmbH & Co. Generica Kommanditgesellschaft | Godkänd |
+| 67075 | Paliperidon Heumann | Injektionsvätska, depotsuspension i förfylld spruta | Heumann Pharma GmbH & Co. Generica KG | Godkänd |
 | 65325 | Paliperidon Bijon | Injektionsvätska, depotsuspension | UAB BIJON medica | Godkänd |
 | 64434 | Paliperidone Sandoz | Injektionsvätska, depotsuspension i förfylld spruta | Sandoz A/S | Godkänd |
 | 67924 | Paliperidon Teva | Injektionsvätska, depotsuspension | Abacus Medicine A/S | Godkänd |

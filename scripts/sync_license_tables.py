@@ -65,10 +65,8 @@ def cell(x, cap=90):
 
 
 def holder(x):
-    """innehavare：照原文；只有公司型態「KG」不接在「Co.／Co／&」後面時（EBEWE Pharma Ges.m.b.H.Nfg.KG、Heumann … Generica KG）
-    寫成全稱 Kommanditgesellschaft——checker P5 會把單獨的大寫 KG 當成「知識圖譜（KG）」字樣（同 HkTxGNN 把重量單位 KG 寫成 kg）"""
-    s = cell(x, 70)
-    return re.sub(r"(?<![A-Za-z])(?<!Co\. )(?<!Co )(?<!& )KG(?![A-Za-z])", "Kommanditgesellschaft", s)
+    """innehavare：照 Läkemedelsverket 原文（2026-11-24 第二輪：公司名裡的 KG 照原文，checker P5 已豁免 GmbH／Ges.m.b.H. … KG）"""
+    return cell(x, 70)
 
 
 def is_valid(r):

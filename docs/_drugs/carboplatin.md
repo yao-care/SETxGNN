@@ -84,7 +84,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
 |------|------|------|------|------|
-| 14126 | Carboplatin Ebewe | Koncentrat till infusionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.Kommanditgesellschaft | Godkänd |
+| 14126 | Carboplatin Ebewe | Koncentrat till infusionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.KG | Godkänd |
 | 25512 | Carboplatin Accord | Koncentrat till infusionsvätska, lösning | Accord Healthcare B.V. | Godkänd |
 | 26883 | Carboplatin Actavis | Koncentrat till infusionsvätska, lösning | Actavis Group PTC ehf. | Godkänd |
 | 63353 | Carbomedac | Koncentrat till infusionsvätska, lösning | medac Gesellschaft fr klinische Spezialpräparate mbH | Godkänd |

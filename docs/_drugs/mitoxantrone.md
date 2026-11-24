@@ -97,7 +97,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 | Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
 |------|------|------|------|------|
-| 19475 | Mitoxantron Ebewe | Koncentrat till infusionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.Kommanditgesellschaft | Godkänd |
+| 19475 | Mitoxantron Ebewe | Koncentrat till infusionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.KG | Godkänd |
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

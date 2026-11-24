@@ -91,7 +91,7 @@ Indikationstext finns inte angiven för något av dem. Nedan visas fem av godkä
 | Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
 |------|------|------|------|------|
 | 47081 | Etoposid Fresenius Kabi | Koncentrat till infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
-| 20488 | Etoposid Ebewe | Koncentrat till infusionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.Kommanditgesellschaft | Godkänd |
+| 20488 | Etoposid Ebewe | Koncentrat till infusionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.KG | Godkänd |
 | 11951 | Eposin | Koncentrat till infusionsvätska, lösning | Teva Sweden AB | Godkänd |
 | 63108 | Vepesid | Kapsel, mjuk | Medartuum AB | Godkänd |
 | 55869 | Vepesid | Kapsel, mjuk | Orifarm AB | Godkänd |

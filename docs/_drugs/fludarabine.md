@@ -119,7 +119,7 @@ Därutöver finns en prekliniskt studie om fludarabins aktivitet mot myelom (PMI
 | Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
 |------|------|------|------|------|
 | 64191 | Fludarabin Teva | Koncentrat till injektions-/infusionsvätska, lösning | Teva B.V. | Godkänd |
-| 24838 | Fludarabin Ebewe | Koncentrat till injektions-/infusionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.Kommanditgesellschaft | Godkänd |
+| 24838 | Fludarabin Ebewe | Koncentrat till injektions-/infusionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.KG | Godkänd |
 | 49857 | Fludarabine Accord | Koncentrat till injektions-/infusionsvätska, lösning | Accord Healthcare B.V. | Godkänd |
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).

@@ -99,7 +99,7 @@ Epirubicin är på marknaden i Sverige. Alla tre registrerade godkännanden är 
 |------|------|------|------|------|
 | 25493 | Epirubicin Accord | Injektions-/infusionsvätska, lösning | Accord Healthcare B.V. | Godkänd |
 | 26349 | Epirubicin Teva | Injektions-/infusionsvätska, lösning | Teva Sweden AB | Godkänd |
-| 18343 | Epirubicin Ebewe | Injektionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.Kommanditgesellschaft | Godkänd |
+| 18343 | Epirubicin Ebewe | Injektionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.KG | Godkänd |
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

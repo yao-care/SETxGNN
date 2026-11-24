@@ -108,7 +108,7 @@ Enbart docetaxel verkar ha begränsad effekt, så nyttan är sannolikt beroende 
 |------|------|------|------|------|
 | 44259 | Docetaxel Seacross | Koncentrat till infusionsvätska, lösning | Seacross Pharma (Europe) Limited | Godkänd |
 | 42748 | Docetaxel Actavis | Koncentrat till infusionsvätska, lösning | Actavis Group PTC ehf. | Godkänd |
-| 28094 | Docetaxel Ebewe | Koncentrat till infusionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.Kommanditgesellschaft | Godkänd |
+| 28094 | Docetaxel Ebewe | Koncentrat till infusionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.KG | Godkänd |
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

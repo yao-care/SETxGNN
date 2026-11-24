@@ -102,7 +102,7 @@ Det finns också hinder. Effluxtransportören BCRP/ABCG2 pumpar ut topotecan ur 
 | Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
 |------|------|------|------|------|
 | 45706 | Topotecan Accord | Koncentrat till infusionsvätska, lösning | Accord Healthcare B.V. | Godkänd |
-| 42896 | Topotecan Ebewe | Koncentrat till infusionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.Kommanditgesellschaft | Godkänd |
+| 42896 | Topotecan Ebewe | Koncentrat till infusionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.KG | Godkänd |
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

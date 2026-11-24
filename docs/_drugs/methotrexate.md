@@ -127,7 +127,7 @@ Godkännandetexterna för indikation saknas i registret. De fem första visas ne
 | 60569 | Methotrexate Accord | Injektionsvätska, lösning i förfylld injektor | Accord Healthcare B.V. | Godkänd |
 | 54392 | Injexate | Injektionsvätska, lösning i förfylld injektor | Accord Healthcare B.V. | Godkänd |
 | 54387 | Injexate | Injektionsvätska, lösning i förfylld injektor | Accord Healthcare B.V. | Godkänd |
-| 42850 | Ebetrex | Tablett | EBEWE Pharma Ges.m.b.H.Nfg.Kommanditgesellschaft | Godkänd |
+| 42850 | Ebetrex | Tablett | EBEWE Pharma Ges.m.b.H.Nfg.KG | Godkänd |
 | 51172 | Injexate | Injektionsvätska, lösning i förfylld spruta | Accord Healthcare B.V. | Godkänd |
 
 Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
