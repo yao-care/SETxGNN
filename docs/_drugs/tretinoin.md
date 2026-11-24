@@ -148,8 +148,14 @@ Produktresumé för Sverige har inte kunnat hämtas, så varningar och kontraind
 - Hämta och granska produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer.
 - Komplettera verkningsmekanismen via DrugBank.
 - Genomföra en systematisk litteratursökning om retinoider vid reumatoid nodulos och reumatoida tillstånd.
-- Utreda administreringsväg och beredningsform (det enda tidigare godkända läkemedlet var en topikal gel, vilket kanske inte är lämpligt för reumatologiska tillstånd).
+- Utreda administreringsväg och beredningsform (det enda godkända läkemedlet är en topikal gel, vilket kanske inte är lämpligt för reumatologiska tillstånd).
 - Om man vill prioritera inom listan över förutsägelser: Quinquauds follikulit (folliculitis decalvans) är biologiskt mest rimlig, eftersom tretinoin redan används inom dermatologi, men även där saknas kliniska data.
+
+<!-- review:begin se-lic-20261124b-tretinoin-2 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”(det enda tidigare godkända läkemedlet var en topikal gel,” Texten beskrev godkännandena eller produkterna som tidigare (inte längre gällande), men enligt Läkemedelsverkets uppgifter har de registreringsstatus Godkänd. Endast den felaktiga tidsangivelsen har ändrats; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-tretinoin-2 -->
 
 <!-- review:begin log -->
 
@@ -162,6 +168,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Alla tre godkännanden är indragna, och b” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 3 godkännanden (46193, 67791, 65880) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 | 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena beskrevs som tidigare | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

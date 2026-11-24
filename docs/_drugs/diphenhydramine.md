@@ -126,8 +126,14 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 - Hämta produktresumén från Läkemedelsverket (MPA) för varningar och kontraindikationer, vilket för närvarande blockerar säkerhetsgranskningen.
 - Hämta verkningsmekanismen från DrugBank för att kunna analysera det mekanistiska sambandet.
 - Göra en systematisk litteratur- och prövningssökning på difenhydramin eller andra antihistaminer vid okulär rosacea.
-- Utreda beredningsform och administreringsväg, eftersom endast oral lösning finns och den är indragen.
+- Utreda beredningsform och administreringsväg, eftersom endast oral lösning finns.
 - Överväga alternativ med bättre mekanistisk koppling, till exempel behandling av meibomska körtlar och antiinflammatorisk behandling.
+
+<!-- review:begin se-lic-20261124b-diphenhydramine-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Utreda beredningsform och administreringsväg, eftersom endast oral lösning finns och den är indragen.” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-diphenhydramine-1 -->
 
 <!-- review:begin log -->
 
@@ -140,6 +146,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Det enda godkännandet är indraget, och ingen giltig produkt finns på den svenska marknaden” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 1 godkännande (3866) är godkänd, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 | 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: diphenhydramine hydrochloride prescribing information, Henry Schein, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af972e71-62ab-40c6-925a-cbcb4d6720a4) |
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

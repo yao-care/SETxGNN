@@ -122,7 +122,13 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 **Beslut: Avvakta**
 
 **Motivering:**
-- Hemoglobinopati/sicklecellsjukdom har visst stöd i form av en liten fas 1/2-studie och pilotstudier, men prövningen avslutades i förtid med 13 deltagare och effekt har inte visats. Läkemedlet ges dessutom endast intravenöst och har kort verkningstid, och det saknas för närvarande giltiga godkännanden i Sverige.
+- Hemoglobinopati/sicklecellsjukdom har visst stöd i form av en liten fas 1/2-studie och pilotstudier, men prövningen avslutades i förtid med 13 deltagare och effekt har inte visats. Läkemedlet ges dessutom endast intravenöst och har kort verkningstid.
+
+<!-- review:begin se-lic-20261124b-eptifibatide-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Läkemedlet ges dessutom endast intravenöst och har kort verkningstid, och det saknas för närvarande giltiga godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-eptifibatide-1 -->
 
 **För att gå vidare krävs:**
 - Större randomiserade studier med tillräcklig statistisk styrka som visar effekt på smärtepisoder och som bedömer blödningsrisken.
@@ -146,6 +152,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”eftersom båda godkännandena är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 2 godkännanden (67979, 67978) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

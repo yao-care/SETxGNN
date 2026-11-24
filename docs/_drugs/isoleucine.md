@@ -125,7 +125,13 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Komplettera verkningsmekanismen för isoleucin från DrugBank.
 - Göra en systematisk litteratursökning om isoleucin eller grenade aminosyror vid gastropares.
 - Söka efter registrerade kliniska prövningar, inklusive i ICTRP.
-- Bedöma administreringsväg och beredningsform, eftersom alla tidigare produkter är infusionsvätskor och inget oralt alternativ finns i data.
+- Bedöma administreringsväg och beredningsform, eftersom produkterna i uppgifterna är infusions- eller dialysvätskor och inget oralt alternativ finns i data.
+
+<!-- review:begin se-lic-20261124b-isoleucine-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Bedöma administreringsväg och beredningsform, eftersom alla tidigare produkter är infusionsvätskor och inget oralt alternativ finns i data.” Texten beskrev produkterna som tidigare (inte längre gällande) och som enbart infusionsvätskor; enligt Läkemedelsverkets uppgifter har godkännandena registreringsstatus Godkänd, och bland dem finns även en peritonealdialysvätska. Endast dessa uppgifter har ändrats; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-isoleucine-1 -->
 
 <!-- review:begin log -->
 
@@ -136,6 +142,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: godkännandena beskrevs som tidigare | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

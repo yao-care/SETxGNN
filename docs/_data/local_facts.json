@@ -21,11 +21,11 @@
   "items_current": 2177
  },
  "reviews": {
-  "records": 697,
-  "pages": 320,
-  "public_pages_with_records": 317,
+  "records": 711,
+  "pages": 321,
+  "public_pages_with_records": 318,
   "by_action": {
-   "correct": 638,
+   "correct": 652,
    "mechanism": 59
   }
  },
@@ -148,6 +148,15 @@
    "i": "Papillär konjunktivit"
   },
   {
+   "t": "Diphenhydramine",
+   "u": "/drugs/diphenhydramine/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 1,
+   "r": 4,
+   "i": "rosacea conjunctivitis"
+  },
+  {
    "t": "Dutasteride",
    "u": "/drugs/dutasteride/",
    "l": "L5",
@@ -173,15 +182,6 @@
    "lv": 18,
    "r": 4,
    "i": "pulmonary hypertension owing to lung disease and/or hypoxia"
-  },
-  {
-   "t": "Famciclovir",
-   "u": "/drugs/famciclovir/",
-   "l": "L5",
-   "lt": 3,
-   "lv": 3,
-   "r": 4,
-   "i": "post-infectious neuralgia"
   }
  ],
  "example": {
@@ -221,7 +221,7 @@
   {
    "t": "Tretinoin",
    "u": "/drugs/tretinoin/",
-   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "s": "Rättat: godkännandena beskrevs som tidigare",
    "d": "2026-11-24"
   },
   {
@@ -246,6 +246,12 @@
    "t": "Sulbactam",
    "u": "/drugs/sulbactam/",
    "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Sorbitol",
+   "u": "/drugs/sorbitol/",
+   "s": "Rättat: godkännandena beskrevs som tidigare",
    "d": "2026-11-24"
   },
   {
@@ -331,12 +337,6 @@
    "u": "/drugs/ofloxacin/",
    "s": "Rättat: godkännandena är inte indragna/ogiltiga",
    "d": "2026-11-24"
-  },
-  {
-   "t": "Norgestimate",
-   "u": "/drugs/norgestimate/",
-   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
-   "d": "2026-11-24"
   }
  ],
  "recent_licence_reviews": [
@@ -367,7 +367,7 @@
   {
    "t": "Tretinoin",
    "u": "/drugs/tretinoin/",
-   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "s": "Rättat: godkännandena beskrevs som tidigare",
    "d": "2026-11-24"
   },
   {

@@ -18087,8 +18087,8 @@
    "file": "prilocaine.md",
    "action": "correct",
    "claim": "- En bedömning av beredningsform och administrationsväg, eftersom inga godkända ögonberedningar finns bland de tidigare godkännandena.\n- Om fokus i stället flyttas till neuralgi: kontrollerade studier som isolerar prilokains bidrag, samt en bedömning av regulatoriskt läge eftersom godkännandena är indragna.",
-   "replacement": "- En bedömning av beredningsform och administrationsväg, eftersom inga godkända ögonberedningar finns bland de tidigare godkännandena.",
-   "note": "Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "replacement": "- En bedömning av beredningsform och administrationsväg, eftersom inga godkända ögonberedningar finns bland godkännandena.",
+   "note": "Borttaget: uppgiften att godkännandena är indragna, och ”tidigare” stryks i den kvarvarande punkten; enligt Läkemedelsverkets uppgifter har godkännandena registreringsstatus Godkänd. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -18102,7 +18102,7 @@
      "accessed": "2026-11-06"
     }
    ],
-   "checked": "2026-11-06",
+   "checked": "2026-11-24",
    "summary": "Borttaget: ”Om fokus i stället flyttas till neuralgi: kontrollerade studier som isolerar prilokains bidrag, samt en bedömning av regulatoriskt läge efte”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）",
    "history": [
@@ -18132,6 +18132,33 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明框裡寫死的總數／有效數改成指向概覽表與程式許可證表"
+    },
+    {
+     "id": "se-lic-20261106-prilocaine-3",
+     "drug": "prilocaine",
+     "file": "prilocaine.md",
+     "action": "correct",
+     "claim": "- En bedömning av beredningsform och administrationsväg, eftersom inga godkända ögonberedningar finns bland de tidigare godkännandena.\n- Om fokus i stället flyttas till neuralgi: kontrollerade studier som isolerar prilokains bidrag, samt en bedömning av regulatoriskt läge eftersom godkännandena är indragna.",
+     "replacement": "- En bedömning av beredningsform och administrationsväg, eftersom inga godkända ögonberedningar finns bland de tidigare godkännandena.",
+     "note": "Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "Läkemedelsverket – export av godkända läkemedel",
+       "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+       "accessed": "2026-11-06"
+      },
+      {
+       "title": "Läkemedelsverket",
+       "url": "https://www.lakemedelsverket.se/",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Borttaget: ”Om fokus i stället flyttas till neuralgi: kontrollerade studier som isolerar prilokains bidrag, samt en bedömning av regulatoriskt läge efte”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a7e1e463（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "2026-11-24 第二輪：前版更正文字仍寫「bland de tidigare godkännandena」（把現行許可寫成以前的），證據包 14 張全部 Godkänd"
     }
    ]
   },
@@ -27873,6 +27900,288 @@
    ],
    "checked": "2026-11-24",
    "method": "2026-11-24 第二輪：待查清單與全站寬偵測（正文寫許可已撤回／沒有有效許可，或 partial 頁寫死有效張數）逐句對照證據包與快照事實層（用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "se-lic-20261124b-atropine-1",
+   "drug": "atropine",
+   "file": "atropine.md",
+   "action": "correct",
+   "claim": "Kliniska pilotstudier (fas 2) endast om prekliniska data är stödjande, och med utvärdering av en lämplig beredningsform eftersom inga nu godkända produkter finns på marknaden.",
+   "replacement": "Kliniska pilotstudier (fas 2) endast om prekliniska data är stödjande, och med utvärdering av en lämplig beredningsform.",
+   "summary": "Rättat: förslagets premiss om indragna godkännanden",
+   "note": "Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "證據包本藥 9 張、收到的 9 張中 Godkänd 9 張、Avregistrerad 等 0 張；正文寫許可已撤回或沒有有效許可",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪：待查清單與全站寬偵測與劑型說法掃描（正文寫許可已撤回／沒有有效許可，或 partial 頁寫死有效張數）逐句對照證據包與快照事實層（用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "se-lic-20261124b-diphenhydramine-1",
+   "drug": "diphenhydramine",
+   "file": "diphenhydramine.md",
+   "action": "correct",
+   "claim": "Utreda beredningsform och administreringsväg, eftersom endast oral lösning finns och den är indragen.",
+   "replacement": "Utreda beredningsform och administreringsväg, eftersom endast oral lösning finns.",
+   "summary": "Rättat: förslagets premiss om indragna godkännanden",
+   "note": "Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "證據包本藥 1 張、收到的 1 張中 Godkänd 1 張、Avregistrerad 等 0 張；正文寫許可已撤回或沒有有效許可",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪：待查清單與全站寬偵測與劑型說法掃描（正文寫許可已撤回／沒有有效許可，或 partial 頁寫死有效張數）逐句對照證據包與快照事實層（用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "se-lic-20261124b-docusate-1",
+   "drug": "docusate",
+   "file": "docusate.md",
+   "action": "correct",
+   "claim": "Bedömning av beredningsform och administreringsväg, eftersom de tidigare godkända produkterna är rektallösningar.",
+   "replacement": "Bedömning av beredningsform och administreringsväg, eftersom de godkända produkterna är rektallösningar.",
+   "summary": "Rättat: godkännandena beskrevs som tidigare",
+   "note": "Texten beskrev godkännandena eller produkterna som tidigare (inte längre gällande), men enligt Läkemedelsverkets uppgifter har de registreringsstatus Godkänd. Endast den felaktiga tidsangivelsen har ändrats; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "證據包本藥 2 張、收到的 2 張中 Godkänd 2 張、Avregistrerad 等 0 張；正文把現行許可寫成「以前的」（tidigare）",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪：待查清單與全站寬偵測與劑型說法掃描（正文寫許可已撤回／沒有有效許可，或 partial 頁寫死有效張數）逐句對照證據包與快照事實層（用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "se-lic-20261124b-donepezil-1",
+   "drug": "donepezil",
+   "file": "donepezil.md",
+   "action": "correct",
+   "claim": "Bedöma administreringsvägar och beredningsformer (oral användning är tillgänglig i tidigare godkännanden).",
+   "replacement": "Bedöma administreringsvägar och beredningsformer (oral användning är tillgänglig i godkännandena).",
+   "summary": "Rättat: godkännandena beskrevs som tidigare",
+   "note": "Texten beskrev godkännandena eller produkterna som tidigare (inte längre gällande), men enligt Läkemedelsverkets uppgifter har de registreringsstatus Godkänd. Endast den felaktiga tidsangivelsen har ändrats; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "證據包本藥 15 張、收到的 15 張中 Godkänd 15 張、Avregistrerad 等 0 張；正文把現行許可寫成「以前的」（tidigare）",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪：待查清單與全站寬偵測與劑型說法掃描（正文寫許可已撤回／沒有有效許可，或 partial 頁寫死有效張數）逐句對照證據包與快照事實層（用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "se-lic-20261124b-eptifibatide-1",
+   "drug": "eptifibatide",
+   "file": "eptifibatide.md",
+   "action": "correct",
+   "claim": "Läkemedlet ges dessutom endast intravenöst och har kort verkningstid, och det saknas för närvarande giltiga godkännanden i Sverige.",
+   "replacement": "Läkemedlet ges dessutom endast intravenöst och har kort verkningstid.",
+   "summary": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "note": "Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "證據包本藥 2 張、收到的 2 張中 Godkänd 2 張、Avregistrerad 等 0 張；正文寫許可已撤回或沒有有效許可",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪：待查清單與全站寬偵測與劑型說法掃描（正文寫許可已撤回／沒有有效許可，或 partial 頁寫死有效張數）逐句對照證據包與快照事實層（用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "se-lic-20261124b-estriol-2",
+   "drug": "estriol",
+   "file": "estriol.md",
+   "action": "correct",
+   "claim": "Bedömning av beredningsform och administreringsväg, eftersom tidigare produkter huvudsakligen var vaginala.",
+   "replacement": "Bedömning av beredningsform och administreringsväg, eftersom produkterna huvudsakligen är vaginala.",
+   "summary": "Rättat: godkännandena beskrevs som tidigare",
+   "note": "Texten beskrev godkännandena eller produkterna som tidigare (inte längre gällande), men enligt Läkemedelsverkets uppgifter har de registreringsstatus Godkänd. Endast den felaktiga tidsangivelsen har ändrats; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "證據包本藥 8 張、收到的 8 張中 Godkänd 8 張、Avregistrerad 等 0 張；正文把現行許可寫成「以前的」（tidigare）",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪：待查清單與全站寬偵測與劑型說法掃描（正文寫許可已撤回／沒有有效許可，或 partial 頁寫死有效張數）逐句對照證據包與快照事實層（用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "se-lic-20261124b-felbamate-1",
+   "drug": "felbamate",
+   "file": "felbamate.md",
+   "action": "correct",
+   "claim": "\n- En bedömning av hur ett läkemedel som inte längre är godkänt i Sverige skulle kunna tillgängliggöras.",
+   "replacement": "",
+   "anchor": "- Uppgifter från produktresumén om varningar och kontraindikationer samt verkningsmekanism.",
+   "summary": "Borttaget: punkt om indragna godkännanden",
+   "note": "Borttaget: punkten byggde helt på uppgiften att godkännandena är indragna eller saknar giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "證據包本藥 2 張、收到的 2 張中 Godkänd 2 張、Avregistrerad 等 0 張；正文寫許可已撤回或沒有有效許可",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪：待查清單與全站寬偵測與劑型說法掃描（正文寫許可已撤回／沒有有效許可，或 partial 頁寫死有效張數）逐句對照證據包與快照事實層（用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "se-lic-20261124b-methadone-1",
+   "drug": "methadone",
+   "file": "methadone.md",
+   "action": "correct",
+   "claim": " Dessutom saknas för närvarande giltiga godkännanden i Sverige.",
+   "replacement": "",
+   "anchor": "Den enda kliniska evidensen är en över 30 år gammal rapport, och inga kliniska prövningar finns.",
+   "summary": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "note": "Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "證據包本藥 至少 20（partial） 張、收到的 20 張中 Godkänd 20 張、Avregistrerad 等 0 張；正文寫許可已撤回或沒有有效許可",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪：待查清單與全站寬偵測與劑型說法掃描（正文寫許可已撤回／沒有有效許可，或 partial 頁寫死有效張數）逐句對照證據包與快照事實層（用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "se-lic-20261124b-sorbitol-1",
+   "drug": "sorbitol",
+   "file": "sorbitol.md",
+   "action": "correct",
+   "claim": "Sorbitol är en sockeralkohol som används som osmotiskt verkande medel och laxermedel, och finns i rektallösningar som tidigare var godkända i Sverige.",
+   "replacement": "Sorbitol är en sockeralkohol som används som osmotiskt verkande medel och laxermedel, och finns i rektallösningar som är godkända i Sverige.",
+   "summary": "Rättat: godkännandena beskrevs som tidigare",
+   "note": "Texten beskrev godkännandena eller produkterna som tidigare (inte längre gällande), men enligt Läkemedelsverkets uppgifter har de registreringsstatus Godkänd. Endast den felaktiga tidsangivelsen har ändrats; texten i övrigt är oförändrad. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "證據包本藥 3 張、收到的 3 張中 Godkänd 3 張、Avregistrerad 等 0 張；正文把現行許可寫成「以前的」（tidigare）",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪：待查清單與全站寬偵測與劑型說法掃描（正文寫許可已撤回／沒有有效許可，或 partial 頁寫死有效張數）逐句對照證據包與快照事實層（用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "se-lic-20261124b-glycine-3",
+   "drug": "glycine",
+   "file": "glycine.md",
+   "action": "correct",
+   "claim": "Utreda om en lämplig beredningsform (till exempel nasal) och administreringsväg finns, eftersom alla tidigare produkter är intravenösa eller för peritonealdialys.",
+   "replacement": "Utreda om en lämplig beredningsform (till exempel nasal) och administreringsväg finns, eftersom alla produkter i uppgifterna är intravenösa eller för peritonealdialys.",
+   "summary": "Rättat: godkännandena beskrevs som tidigare",
+   "note": "Texten beskrev godkännandena eller produkterna som tidigare (inte längre gällande), men enligt Läkemedelsverkets uppgifter har de registreringsstatus Godkänd. Endast den felaktiga tidsangivelsen har ändrats; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "證據包本藥 至少 20（partial） 張、收到的 20 張中 Godkänd 17 張、Avregistrerad 等 3 張；正文把現行許可寫成「以前的」（tidigare）",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪：待查清單與全站寬偵測與劑型說法掃描（正文寫許可已撤回／沒有有效許可，或 partial 頁寫死有效張數）逐句對照證據包與快照事實層（用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "se-lic-20261124b-isoleucine-1",
+   "drug": "isoleucine",
+   "file": "isoleucine.md",
+   "action": "correct",
+   "claim": "Bedöma administreringsväg och beredningsform, eftersom alla tidigare produkter är infusionsvätskor och inget oralt alternativ finns i data.",
+   "replacement": "Bedöma administreringsväg och beredningsform, eftersom produkterna i uppgifterna är infusions- eller dialysvätskor och inget oralt alternativ finns i data.",
+   "summary": "Rättat: godkännandena beskrevs som tidigare",
+   "note": "Texten beskrev produkterna som tidigare (inte längre gällande) och som enbart infusionsvätskor; enligt Läkemedelsverkets uppgifter har godkännandena registreringsstatus Godkänd, och bland dem finns även en peritonealdialysvätska. Endast dessa uppgifter har ändrats; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "證據包本藥 至少 20（partial） 張、收到的 20 張中 Godkänd 18 張、Avregistrerad 等 2 張；正文把現行許可寫成「以前的」（tidigare）",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪：待查清單與全站寬偵測與劑型說法掃描（正文寫許可已撤回／沒有有效許可，或 partial 頁寫死有效張數）逐句對照證據包與快照事實層（用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "se-lic-20261124b-isoprenaline-1",
+   "drug": "isoprenaline",
+   "file": "isoprenaline.md",
+   "action": "correct",
+   "claim": "Utvärdera administreringsväg, eftersom de tidigare godkännandena avsåg endast infusion",
+   "replacement": "Utvärdera administreringsväg, eftersom godkännandena avser endast infusion",
+   "summary": "Rättat: godkännandena beskrevs som tidigare",
+   "note": "Texten beskrev godkännandena eller produkterna som tidigare (inte längre gällande), men enligt Läkemedelsverkets uppgifter har de registreringsstatus Godkänd. Endast den felaktiga tidsangivelsen har ändrats; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "證據包本藥 2 張、收到的 2 張中 Godkänd 2 張、Avregistrerad 等 0 張；正文把現行許可寫成「以前的」（tidigare）",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪：待查清單與全站寬偵測與劑型說法掃描（正文寫許可已撤回／沒有有效許可，或 partial 頁寫死有效張數）逐句對照證據包與快照事實層（用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "se-lic-20261124b-ketoprofen-1",
+   "drug": "ketoprofen",
+   "file": "ketoprofen.md",
+   "action": "correct",
+   "claim": "Bedömning av beredningsform och administreringsväg, eftersom enda tidigare produkt var en gel.",
+   "replacement": "Bedömning av beredningsform och administreringsväg, eftersom den enda produkten i uppgifterna är en gel.",
+   "summary": "Rättat: godkännandena beskrevs som tidigare",
+   "note": "Texten beskrev godkännandena eller produkterna som tidigare (inte längre gällande), men enligt Läkemedelsverkets uppgifter har de registreringsstatus Godkänd. Endast den felaktiga tidsangivelsen har ändrats; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "證據包本藥 1 張、收到的 1 張中 Godkänd 1 張、Avregistrerad 等 0 張；正文把現行許可寫成「以前的」（tidigare）",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪：待查清單與全站寬偵測與劑型說法掃描（正文寫許可已撤回／沒有有效許可，或 partial 頁寫死有效張數）逐句對照證據包與快照事實層（用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "se-lic-20261124b-tretinoin-2",
+   "drug": "tretinoin",
+   "file": "tretinoin.md",
+   "action": "correct",
+   "claim": "(det enda tidigare godkända läkemedlet var en topikal gel,",
+   "replacement": "(det enda godkända läkemedlet är en topikal gel,",
+   "summary": "Rättat: godkännandena beskrevs som tidigare",
+   "note": "Texten beskrev godkännandena eller produkterna som tidigare (inte längre gällande), men enligt Läkemedelsverkets uppgifter har de registreringsstatus Godkänd. Endast den felaktiga tidsangivelsen har ändrats; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "證據包本藥 3 張、收到的 3 張中 Godkänd 3 張、Avregistrerad 等 0 張；正文把現行許可寫成「以前的」（tidigare）",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪：待查清單與全站寬偵測與劑型說法掃描（正文寫許可已撤回／沒有有效許可，或 partial 頁寫死有效張數）逐句對照證據包與快照事實層（用戶 2026-11-24 決定）"
   }
  ]
 }

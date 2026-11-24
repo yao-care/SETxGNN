@@ -145,7 +145,13 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 - Verifiera designen och resultaten i den pediatriska studien (PMID 18343255).
 - Genomföra eller identifiera randomiserade, kontrollerade studier vid tics.
 - Göra en noggrann risk–nyttobedömning med hänsyn till risken för läkemedelsutlösta rörelsestörningar.
-- Bedöma administreringsvägar och beredningsformer (oral användning är tillgänglig i tidigare godkännanden).
+- Bedöma administreringsvägar och beredningsformer (oral användning är tillgänglig i godkännandena).
+
+<!-- review:begin se-lic-20261124b-donepezil-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Bedöma administreringsvägar och beredningsformer (oral användning är tillgänglig i tidigare godkännanden).” Texten beskrev godkännandena eller produkterna som tidigare (inte längre gällande), men enligt Läkemedelsverkets uppgifter har de registreringsstatus Godkänd. Endast den felaktiga tidsangivelsen har ändrats; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-donepezil-1 -->
 
 **Övriga förutsägelser (kort):**
 - *Extrapyramidal rörelsestörning* och *lingual-facial-buccal dyskinesi* (tardiv dyskinesi): evidensnivå L3, men Cochrane-översikterna bygger på små och osäkra studier, och risken för försämring är dokumenterad. Dessa bör behandlas som forskningsfrågor.
@@ -161,6 +167,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 15 godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”essutom är alla svenska godkännanden indragna, och d” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Rättat: godkännandena beskrevs som tidigare | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

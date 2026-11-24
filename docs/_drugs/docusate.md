@@ -113,8 +113,14 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 - Detaljerad verkningsmekanism från DrugBank.
 - Produktresumé med varningar och kontraindikationer från Läkemedelsverket.
 - Litteratur- eller prekliniska data som kan motivera en biologisk koppling mellan dokusat och Plummer-Vinsons syndrom.
-- Bedömning av beredningsform och administreringsväg, eftersom de tidigare godkända produkterna är rektallösningar.
+- Bedömning av beredningsform och administreringsväg, eftersom de godkända produkterna är rektallösningar.
 - Överväg att behandla förutsägelsen som en grafartefakt och prioritera andra kandidater.
+
+<!-- review:begin se-lic-20261124b-docusate-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Bedömning av beredningsform och administreringsväg, eftersom de tidigare godkända produkterna är rektallösningar.” Texten beskrev godkännandena eller produkterna som tidigare (inte längre gällande), men enligt Läkemedelsverkets uppgifter har de registreringsstatus Godkänd. Endast den felaktiga tidsangivelsen har ändrats; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-docusate-1 -->
 
 <!-- review:begin log -->
 
@@ -126,6 +132,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”och båda svenska godkännandena är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 2 godkännanden (6514, 65612) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena beskrevs som tidigare | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

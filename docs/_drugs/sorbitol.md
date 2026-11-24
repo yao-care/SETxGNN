@@ -40,7 +40,13 @@ Evidensnivå: **L5** | Förutsagda indikationer: **1** st
 
 ### Sammanfattning
 
-Sorbitol är en sockeralkohol som används som osmotiskt verkande medel och laxermedel, och finns i rektallösningar som tidigare var godkända i Sverige. Någon ursprunglig indikation är inte angiven i godkännandedata. TxGNN-modellen förutsäger att sorbitol kan vara effektivt mot **exercise-induced malignant hyperthermia**, men förutsägelsen är endast beräkningsbaserad: det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder den.
+Sorbitol är en sockeralkohol som används som osmotiskt verkande medel och laxermedel, och finns i rektallösningar som är godkända i Sverige. Någon ursprunglig indikation är inte angiven i godkännandedata. TxGNN-modellen förutsäger att sorbitol kan vara effektivt mot **exercise-induced malignant hyperthermia**, men förutsägelsen är endast beräkningsbaserad: det finns **inga kliniska prövningar** och **ingen publicerad litteratur** som stöder den.
+
+<!-- review:begin se-lic-20261124b-sorbitol-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Sorbitol är en sockeralkohol som används som osmotiskt verkande medel och laxermedel, och finns i rektallösningar som tidigare var godkända i Sverige.” Texten beskrev godkännandena eller produkterna som tidigare (inte längre gällande), men enligt Läkemedelsverkets uppgifter har de registreringsstatus Godkänd. Endast den felaktiga tidsangivelsen har ändrats; texten i övrigt är oförändrad. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-sorbitol-1 -->
 
 ---
 
@@ -126,6 +132,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 3 godkännanden (10793, 65612, 6514) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena beskrevs som tidigare | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

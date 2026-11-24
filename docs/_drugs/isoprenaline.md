@@ -126,8 +126,14 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 - Hämta och analysera produktresumén (varningar och kontraindikationer), vilket för närvarande saknas och blockerar säkerhetsgranskningen
 - Hämta uppgifter om verkningsmekanism från DrugBank
 - Prekliniska eller kliniska data som direkt prövar isoprenalin vid näshåleåkommor
-- Utvärdera administreringsväg, eftersom de tidigare godkännandena avsåg endast infusion
+- Utvärdera administreringsväg, eftersom godkännandena avser endast infusion
 - Notera att bronkial sjukdom (rang 6) är den enda förutsagda indikationen med visst stöd (L4, översiktsartiklar om beta-agonister). Den rör dock en historisk användning som ersatts av selektiva beta-2-agonister, och kan vara värd en separat bedömning
+
+<!-- review:begin se-lic-20261124b-isoprenaline-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Utvärdera administreringsväg, eftersom de tidigare godkännandena avsåg endast infusion” Texten beskrev godkännandena eller produkterna som tidigare (inte längre gällande), men enligt Läkemedelsverkets uppgifter har de registreringsstatus Godkänd. Endast den felaktiga tidsangivelsen har ändrats; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-isoprenaline-1 -->
 
 <!-- review:begin log -->
 
@@ -139,6 +145,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Läkemedlet saknar dessutom giltigt godkännande i Sverige, och d” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 2 godkännanden (65500, 58779) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena beskrevs som tidigare | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

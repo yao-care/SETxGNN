@@ -155,11 +155,11 @@ Se i övrigt produktresumén för fullständig säkerhetsinformation.
 - En systematisk litteratursökning och prekliniska data om prilokains effekt och hornhinnetolerans vid papillär konjunktivit.
 - En bedömning av om det finns ett medicinskt behov som motiverar den risk som lokalbedövning på ögats yta innebär.
 - Fullständig säkerhetsinformation från produktresumén, särskilt om methemoglobinemi och interaktioner.
-- En bedömning av beredningsform och administrationsväg, eftersom inga godkända ögonberedningar finns bland de tidigare godkännandena.
+- En bedömning av beredningsform och administrationsväg, eftersom inga godkända ögonberedningar finns bland godkännandena.
 
 <!-- review:begin se-lic-20261106-prilocaine-3 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”En bedömning av beredningsform och administrationsväg, eftersom inga godkända ögonberedningar finns bland de tidigare godkännandena. / Om fokus i stället flyttas till neuralgi: kontrollerade studier som isolerar prilokains bidrag, samt en bedömning av regulatoriskt läge eftersom godkännandena är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”En bedömning av beredningsform och administrationsväg, eftersom inga godkända ögonberedningar finns bland de tidigare godkännandena. / Om fokus i stället flyttas till neuralgi: kontrollerade studier som isolerar prilokains bidrag, samt en bedömning av regulatoriskt läge eftersom godkännandena är indragna.” Borttaget: uppgiften att godkännandena är indragna, och ”tidigare” stryks i den kvarvarande punkten; enligt Läkemedelsverkets uppgifter har godkännandena registreringsstatus Godkänd. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-prilocaine-3 -->
 
@@ -173,7 +173,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla 14 godkännanden är indragna och inget är giltigt i dagsläget” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Om fokus i stället flyttas till neuralgi: kontrollerade studier som isolerar prilokains bidrag, samt en bedömning av regulatoriskt läge efte” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Borttaget: ”Om fokus i stället flyttas till neuralgi: kontrollerade studier som isolerar prilokains bidrag, samt en bedömning av regulatoriskt läge efte” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

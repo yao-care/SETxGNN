@@ -127,7 +127,13 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **För att gå vidare krävs:**
 - Verkningsmekanismdata för ketoprofen samt säkerhetsinformation från produktresumén.
 - Prekliniska eller kliniska data som visar någon effekt vid den förutsagda sjukdomen.
-- Bedömning av beredningsform och administreringsväg, eftersom enda tidigare produkt var en gel.
+- Bedömning av beredningsform och administreringsväg, eftersom den enda produkten i uppgifterna är en gel.
+
+<!-- review:begin se-lic-20261124b-ketoprofen-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Bedömning av beredningsform och administreringsväg, eftersom enda tidigare produkt var en gel.” Texten beskrev godkännandena eller produkterna som tidigare (inte längre gällande), men enligt Läkemedelsverkets uppgifter har de registreringsstatus Godkänd. Endast den felaktiga tidsangivelsen har ändrats; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-ketoprofen-1 -->
 
 **Anmärkning om övriga förutsägelser:** Bland de tio högst rankade förutsägelserna framstår två som mer rimliga som symtomlindring, med evidensnivå L4 och status "forskningsfråga":
 - **Spondylartropati (mottaglighet)**: NSAID är förstahandsbehandling vid axial spondylartrit, men underlaget är indirekt (klasseffekt). En litteratursökning bör göras först.
@@ -146,6 +152,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Det enda godkännandet i Sverige är indraget, så ingen ketoprofenprodukt är för närvarande marknadsförd enligt dessa data” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Det enda godkännandet i Sverige är dessutom indraget” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 1 godkännande (14912) är godkänd, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena beskrevs som tidigare | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

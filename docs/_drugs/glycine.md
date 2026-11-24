@@ -147,8 +147,14 @@ Se produktresumén för fullständig säkerhetsinformation.
 - Hämta verkningsmekanismen från DrugBank och analysera kopplingen till näsans slemhinneinflammation.
 - Hämta och läsa produktresumé (varningar och kontraindikationer) från Läkemedelsverket, eftersom säkerhetsgranskningen annars inte kan genomföras.
 - Göra en riktad litteratursökning efter prekliniska eller kliniska data om glycin vid rinit eller näshålesjukdom.
-- Utreda om en lämplig beredningsform (till exempel nasal) och administreringsväg finns, eftersom alla tidigare produkter är intravenösa eller för peritonealdialys.
+- Utreda om en lämplig beredningsform (till exempel nasal) och administreringsväg finns, eftersom alla produkter i uppgifterna är intravenösa eller för peritonealdialys.
 - Bedöma om förutsägelsen verkligen är ny jämfört med glycins ursprungliga indikationer.
+
+<!-- review:begin se-lic-20261124b-glycine-3 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Utreda om en lämplig beredningsform (till exempel nasal) och administreringsväg finns, eftersom alla tidigare produkter är intravenösa eller för peritonealdialys.” Texten beskrev godkännandena eller produkterna som tidigare (inte längre gällande), men enligt Läkemedelsverkets uppgifter har de registreringsstatus Godkänd. Endast den felaktiga tidsangivelsen har ändrats; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-glycine-3 -->
 
 <!-- review:begin log -->
 
@@ -160,6 +166,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-24 | Rättat: fast antal giltiga godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 | 2026-11-24 | Rättat: fast antal giltiga godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena beskrevs som tidigare | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

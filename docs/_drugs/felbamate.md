@@ -131,7 +131,12 @@ Uppgifter från svensk produktresumé (varningar och kontraindikationer) har int
 - Preklinisk eller mekanistisk evidens för en antitumöreffekt, om neoplasmindikationen ska utredas vidare.
 - Kontrollerade kliniska data för felbamat vid trigeminusneuralgi, om symtomlindring är målet.
 - Uppgifter från produktresumén om varningar och kontraindikationer samt verkningsmekanism.
-- En bedömning av hur ett läkemedel som inte längre är godkänt i Sverige skulle kunna tillgängliggöras.
+
+<!-- review:begin se-lic-20261124b-felbamate-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”En bedömning av hur ett läkemedel som inte längre är godkänt i Sverige skulle kunna tillgängliggöras.” Borttaget: punkten byggde helt på uppgiften att godkännandena är indragna eller saknar giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-felbamate-1 -->
 
 <!-- review:begin log -->
 
@@ -142,6 +147,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Felbamats allvarliga säkerhetsrisker (aplastisk anemi, leversvikt), många interaktioner och avregistrerade godkännanden i Sverige gör nytta–” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-24 | Borttaget: punkt om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

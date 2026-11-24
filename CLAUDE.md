@@ -75,7 +75,7 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
   「| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |」，欄位照 Läkemedelsverket 原文（Status＝Registreringsstatus 原文：Godkänd、Registrerad、Avregistrerad、Tillfälligt återkallad；核准但未販售仍是 Godkänd）。
   選列照換表當時報告原表依序列出的號碼與列數（`config/license_table_pins.json`，447 頁；正文常寫「De fem första」「Tillverkare: …」「Båda godkännandena …」，換成別的列會對不上；febuxostat 的 n 改 3 列出 Feburo），
   其餘依程式排序（有效在前、單方在前、號碼）；原本沒有表的頁 min(5, 總數) 列。總數多於列數時表下「Tabellen visar N av M godkännanden i uppgifterna.」（partial 頁「… av minst M …; listan kan vara ofullständig.」），再一行來源句；沒有紀錄時一句 NONE_LINE。
-  持有人名稱裡單獨的公司型態「KG」（EBEWE Pharma Ges.m.b.H.Nfg.KG、Heumann … Generica KG）寫成「Kommanditgesellschaft」（checker P5 會把它當成知識圖譜字樣，同 Hk 把重量單位 KG 寫成 kg）。
+  持有人名稱照 Läkemedelsverket 原文（第一輪曾把公司型態「KG」寫成「Kommanditgesellschaft」，第二輪母目錄 checker P5 加公司名 KG 豁免（295dd578）後改回原文，10 頁）。
   快照另存 rows／total／partial_rows；gate 第 18 項（licenses.py → sync_license_tables.block_problems）整塊比對、擋市場段落裡程式區塊以外的表。`config/license_own_extra.json` 的號碼也算進快照 own。
   接上：`scripts/license_adapter.py` 的 `sync_tables`（每週排程，--bundles 全站比對、只寫有變的）與 `PAGE_NOTE`、`apply_drug_reviews.py`（非 --check）結尾、`build_license_snapshot.py` 結尾（不給 --ws 時沿用現有快照的 facts）、`sync_notes_to_docs.py`（carry_block）。
 - B. 正文張數改寫：`scripts/rewrite_license_counts.py`＋`src/setxgnn/regulatory/count_prose.py`（移植 Kr／My／DE，瑞典文句型：「N giltiga godkännanden (av M)」「N av M godkännanden är giltiga」「Av M … är N giltiga och C avregistrerade」
@@ -88,3 +88,15 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
   另寫的寬偵測（同句有許可字樣與數字或全稱／否定狀態字樣、跟事實層不符）全量掃 110 句→57 句，剩下多是「en／ett」冠詞誤中與講表上 5 筆（仍＝程式表列數）；真正跟事實相反的 12 句（famciclovir、gemcitabine、hydroxyzine 的待辦或決策條目寫「全部撤回／沒有有效許可」、sulbactam、partial 頁 8 句）列進待查清單，沒改。
   checker 全量前後都是 0；gate exit 0；改到的 458 頁 last_modified_at 改 2026-11-24。
 - 母目錄 `.claude/license_labels/SETxGNN.json` 目前只有 valid 寫法，程式表會寫的 Avregistrerad、Tillfälligt återkallad（cancelled）、Registrerad（valid）還沒有（要在母目錄加）。
+
+## 許可證狀態錯句逐句更正（2026-11-24 第二輪）
+
+用戶 2026-11-24 第二輪決定：第一輪列進待查的舊錯句逐句寫查核紀錄、劑型說法全站掃。
+- 待查清單 12 句（famciclovir、gemcitabine、hydroxyzine、sulbactam、tacrolimus、xylometazoline 寫許可已撤回或沒有有效許可；glycine、sertraline、budesonide、ebastine、ethanol×2 是 partial 頁寫死「20 張有效」而收到的紀錄有 Avregistrerad）逐句對照證據包後全部更正，待查項目標 resolved（附 record_ids）。
+- 照「找到一個錯就查同類」另寫寬偵測（indragen／indragna／dragits in／återkallad／upphävd／saknas giltig／inga aktiva／inte längre giltig／tidigare godkända…，跟事實層有效張數比）全量掃公開頁，第一輪的寬偵測漏了大量「Dessutom saknas giltiga godkännanden i Sverige」「Klargöra varför godkännandena dragits in」寫法（11 月 AI 重產時照證據包錯誤狀態寫的）：
+  合計 78 句以 `se-lic-20261124b-*` 更正（72 頁：決策理由裡的錯誤子句刪掉、待辦條目只拿掉錯的前提、整條建立在錯誤前提上的 4 條待辦刪除、把現行許可寫成「tidigare」的 9 句拿掉時間詞），更正文字不寫張數；
+  更正文字本身錯的 2 筆同 id 重發（`se-lic-20261106-pioglitazone-1`「目前沒有有效上市產品」、`se-lic-20261106-prilocaine-3`「bland de tidigare godkännandena」，前版存 history）。
+  複掃剩下的都成立（全部有效的「alla N giltiga」、有實際 Avregistrerad 的句子、別國撤市、試驗撤回）；partial 頁收到的 20 張全部有效、正文寫「20 giltiga」的 9 句跟概覽表「minst 20」一致，不改。
+- 劑型說法（「Beredningsformen är …」「Samtliga produkter är …」「endast oral tablett」等 58 句）逐句對照證據包全部品項的劑型（partial 頁另對 data/raw 的 Läkemedelsverket 全量清單）：只有 isoleucine「alla … infusionsvätskor」漏了證據包裡的腹膜透析液，併在上面的紀錄更正；其餘成立、不改。
+- 紀錄說明的張數樣板（site.FIGURES）第一輪已改成不寫數字，確認現行紀錄沒有寫死張數的說明。
+- checker 全量前後都是 0；gate exit 0。

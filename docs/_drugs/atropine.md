@@ -125,7 +125,26 @@ Varningar och kontraindikationer från produktresumén saknas i det data som sam
 **För att gå vidare krävs:**
 - Komplettera produktresumédata (varningar, kontraindikationer, ursprunglig indikation) och verkningsmekanism, vilket är blockerande för säkerhetsbedömningen.
 - Fördjupad prekliniska studier som direkt testar atropin eller selektiva muskarinantagonister i migränmodeller, med särskild uppmärksamhet på riktningen i effekten.
-- Kliniska pilotstudier (fas 2) endast om prekliniska data är stödjande, och med utvärdering av en lämplig beredningsform eftersom inga nu godkända produkter finns på marknaden.
+- Kliniska pilotstudier (fas 2) endast om prekliniska data är stödjande, och med utvärdering av en lämplig beredningsform.
+
+<!-- review:begin se-lic-20261124b-atropine-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Kliniska pilotstudier (fas 2) endast om prekliniska data är stödjande, och med utvärdering av en lämplig beredningsform eftersom inga nu godkända produkter finns på marknaden.” Förslaget utgick från att godkännandena var indragna eller saknade giltig status, vilket inte stämmer med Läkemedelsverkets uppgifter (det finns godkännanden med registreringsstatus Godkänd). Endast den felaktiga premissen har tagits bort; förslaget i övrigt är oförändrat. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-atropine-1 -->
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

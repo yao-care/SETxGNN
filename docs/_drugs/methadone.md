@@ -126,8 +126,14 @@ För fullständig säkerhetsinformation, se produktresumén.
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen för Tourettes syndrom bygger nästan helt på en modellberäkning. Den enda kliniska evidensen är en över 30 år gammal rapport, och inga kliniska prövningar finns. Dessutom saknas för närvarande giltiga godkännanden i Sverige.
+- Förutsägelsen för Tourettes syndrom bygger nästan helt på en modellberäkning. Den enda kliniska evidensen är en över 30 år gammal rapport, och inga kliniska prövningar finns.
 - Säkerhetsprofilen (QT-förlängning, beroende, många allvarliga interaktioner) kräver stor försiktighet, särskilt hos en patientgrupp som ofta är ung.
+
+<!-- review:begin se-lic-20261124b-methadone-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Dessutom saknas för närvarande giltiga godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124b-methadone-1 -->
 
 **För att gå vidare krävs:**
 - Hämta produktresumé från Läkemedelsverket (MPA) för varningar och kontraindikationer, vilket är ett blockerande datagap.
@@ -155,6 +161,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna och ingen produkt är för närvarande godkänd” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Methadose Dispersible (methadone hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=544483e6-6f9d-4371-9e93-313e54e0ea05) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 
