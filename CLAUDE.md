@@ -16,7 +16,7 @@ UsTxGNN 是第一個試做站（做法見 UsTxGNN/CLAUDE.md 同名一節）。�
 | 套用 | `scripts/apply_drug_reviews.py` | 套到 `docs/_drugs/*.md`：查核框 `<!-- review:begin id -->`、每頁在免責聲明前的查核紀錄表；可重複執行；`--check` 只檢查、`--touch` 連 last_modified_at 一起改 |
 | 頁首等級 | `src/setxgnn/regulatory/page_format.py` | 頁首＝快速總覽「Evidensnivå」格的**第一個**等級（主預測）。2026-11-12 實測 442 頁有總覽等級，頁首全部符合（0 頁例外），所以照實寫成程式、不改現有等級；Tw 是整格取最高，本站不同。頁首已是 N/A 的頁（已知用途／沒有保留預測）不依總覽格重算 |
 | 撤回預測 | `src/setxgnn/regulatory/withdrawn.py` | verdict=withdraw 的預測不進證據監測（`scripts/extract_drug_list.py`）、搜尋索引與 FHIR（母目錄 `.claude/rebuild_search_index.py`、`.claude/sync_fhir_levels.py` 會讀本站這支） |
-| 許可證 | `snapshots/se_licenses.json.gz`、`scripts/build_license_snapshot.py`、`src/setxgnn/regulatory/licenses.py` | 快照存本藥許可證號與事實層；gate 依快照驗市場段落表格的許可證號屬於本藥、狀態列與張數列＝事實層寫法、表格列狀態不跟事實相反（本站沒有程式產生的許可證表，不驗表格列內容） |
+| 許可證 | `scripts/sync_license_tables.py`（程式表前後有 `<!-- licenses:begin/end -->`，2026-11-24 起）、`snapshots/se_licenses.json.gz`、`scripts/build_license_snapshot.py`、`src/setxgnn/regulatory/licenses.py` | 快照存本藥許可證號、事實層、程式表列；gate 依快照驗程式區塊、市場段落表格的許可證號屬於本藥、狀態列與張數列＝事實層寫法、表格列狀態不跟事實相反 |
 | 刪改轉紀錄 | `scripts/reviews_from_edits.py` | 依 git 前後版本（或改寫前後目錄）把正文刪改轉成 correct 紀錄 |
 | 待查清單 | `docs/_data/drug_reviews_uncertain.json`、`scripts/check_original_indications.py` | 原適應症交叉驗證與待重審項目；證據包沒有許可證適應症文字時照實回報可比對 0 頁 |
 | gate | `scripts/check_seo_docs.py` 最後 4 項 | 紀錄都已套用、許可證＝快照、頁首＝快速總覽等級、撤回預測沒有對外發布 |
@@ -66,3 +66,25 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 例：abacavir「Ursprunglig indikation: Inte angiven i de lokala uppgifterna」→「I Sverige, godkännanden (Läkemedelsverket): 5 (giltiga: 4)」；2026-11-19 改了 384 頁。
 由母目錄 `.claude/drug_meta_description.py --apply --site SETxGNN` 產生（站上複本 `tools/txgnn/.claude/drug_meta_description.py --apply --root .`），改動記在 `docs/_data/description_local_log.json`（pages＝目前句尾與原字樣、entries＝每次改動前後整行，可還原）。快照數字變了重跑會換新數字；`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾會自動 --apply，`check_seo_docs.py` 跑 --check 擋「還是未記載句尾」或「數字跟快照不符」。只改 front matter，lastmod_fix 不算正文改動、last_modified_at 不動。
 同日修：`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾重算 local_facts 的 atexit 掛鉤在結束時取不到 `__file__`（NameError，之前其實沒跑成），改成先算好路徑。
+
+## 許可證表與正文張數由程式維護（2026-11-24）
+
+用戶 2026-11-24 決定（各站同日；本站做 A＋B）：每週許可證排程只改得到概覽表狀態列／張數列，AI 寫在「Marknadsinformation Sverige」的自由格式許可證表
+（號碼格「(indraget)」、indikation 欄全是「Ingen indikationstext registrerad」；11-12 以 99 筆 `se-row-20261112-*` 人工更正 272 列）與正文張數句會跟著 Läkemedelsverket 資料過期、讓 checker 擋整頁；改成程式產生、每週自動同步。
+- A. 程式許可證表：`scripts/sync_license_tables.py` 依證據包 tfda.records（＋`config/license_own_extra.json` 的人工補收號碼，febuxostat 的 Feburo 55201／55202；該檔另記 form、registreringsstatus、holder）產生
+  「| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |」，欄位照 Läkemedelsverket 原文（Status＝Registreringsstatus 原文：Godkänd、Registrerad、Avregistrerad、Tillfälligt återkallad；核准但未販售仍是 Godkänd）。
+  選列照換表當時報告原表依序列出的號碼與列數（`config/license_table_pins.json`，447 頁；正文常寫「De fem första」「Tillverkare: …」「Båda godkännandena …」，換成別的列會對不上；febuxostat 的 n 改 3 列出 Feburo），
+  其餘依程式排序（有效在前、單方在前、號碼）；原本沒有表的頁 min(5, 總數) 列。總數多於列數時表下「Tabellen visar N av M godkännanden i uppgifterna.」（partial 頁「… av minst M …; listan kan vara ofullständig.」），再一行來源句；沒有紀錄時一句 NONE_LINE。
+  持有人名稱裡單獨的公司型態「KG」（EBEWE Pharma Ges.m.b.H.Nfg.KG、Heumann … Generica KG）寫成「Kommanditgesellschaft」（checker P5 會把它當成知識圖譜字樣，同 Hk 把重量單位 KG 寫成 kg）。
+  快照另存 rows／total／partial_rows；gate 第 18 項（licenses.py → sync_license_tables.block_problems）整塊比對、擋市場段落裡程式區塊以外的表。`config/license_own_extra.json` 的號碼也算進快照 own。
+  接上：`scripts/license_adapter.py` 的 `sync_tables`（每週排程，--bundles 全站比對、只寫有變的）與 `PAGE_NOTE`、`apply_drug_reviews.py`（非 --check）結尾、`build_license_snapshot.py` 結尾（不給 --ws 時沿用現有快照的 facts）、`sync_notes_to_docs.py`（carry_block）。
+- B. 正文張數改寫：`scripts/rewrite_license_counts.py`＋`src/setxgnn/regulatory/count_prose.py`（移植 Kr／My／DE，瑞典文句型：「N giltiga godkännanden (av M)」「N av M godkännanden är giltiga」「Av M … är N giltiga och C avregistrerade」
+  「Totalt finns N godkännanden, varav V är giltiga」「alla N godkännanden」、två～tolv）；有保留、相對數（ytterligare／övriga／fler／till）、劑型或單方／複方子集、廠商、點名許可證號、講表上筆數的句子、partial 頁不動；
+  0／1、båda、en／ett 的改動（單複數與形容詞變化）、「alla／samtliga … giltiga」而事實不符、同句有試驗／交互作用等字樣而數字不符的不改、列待查。不寫查核框；gate 第 22 項擋「再跑一次會變」。
+- 2026-11-24 套用（資料 data-20261123-163507）：程式表 454 頁（447 頁 AI 表換掉、7 頁補在標題下；公開頁有市場段落的全部有程式表，5 個公開頁與 26 個 noindex 頁沒有市場段落、不加）；緊接舊表只講表上筆數的說明句拿掉 12 句（由程式說明句取代）。
+  錨在舊表列上的 99 筆 `se-row-20261112-*` 標 superseded。正文張數程式改寫 0 句（現行正文張數都跟事實層一致）。
+  正文單方說法依證據包成分欄不成立的 8 句以 `se-lic-20261124-*` 更正（articaine、imipenem 全部是複方；bendroflumethiazide、bupivacaine、cyanocobalamin、dexamethasone、dipyridamole、thiamine 有複方），更正文字不寫張數。
+  紀錄說明句裡寫死的「Antal godkännanden enligt uppgifterna: N, varav giltiga: V」（site.FIGURES，365 筆，其中 5 筆已跟現行事實不符）改成指向概覽表與程式表，同 id 重發、前版存 history；site.FIGURES 也改成不寫數字。
+  另寫的寬偵測（同句有許可字樣與數字或全稱／否定狀態字樣、跟事實層不符）全量掃 110 句→57 句，剩下多是「en／ett」冠詞誤中與講表上 5 筆（仍＝程式表列數）；真正跟事實相反的 12 句（famciclovir、gemcitabine、hydroxyzine 的待辦或決策條目寫「全部撤回／沒有有效許可」、sulbactam、partial 頁 8 句）列進待查清單，沒改。
+  checker 全量前後都是 0；gate exit 0；改到的 458 頁 last_modified_at 改 2026-11-24。
+- 母目錄 `.claude/license_labels/SETxGNN.json` 目前只有 valid 寫法，程式表會寫的 Avregistrerad、Tillfälligt återkallad（cancelled）、Registrerad（valid）還沒有（要在母目錄加）。

@@ -1,22 +1,26 @@
 {
- "_doc": "證據包漏收、人工對照主管機關資料確屬本藥的許可證（2026-11-16 起）。{頁: {許可證號: {basis, product, holder, ingredients, kind, status}}}。reviewer/drug_evidence_pack.py 的 _local_regulatory 會併進事實層。資料改版時要再對一次。",
+ "_doc": "證據包漏收、人工對照主管機關資料確屬本藥的許可證（2026-11-16 起）。{頁: {許可證號: {basis, product, holder, ingredients, kind, status}}}。reviewer/drug_evidence_pack.py 的 _local_regulatory 會併進事實層。資料改版時要再對一次。 2026-11-24 起另記 form（Läkemedelsform）、registreringsstatus（原文），holder 補上 Innehavare（同一份 lmv_medicinal_products.csv），scripts/sync_license_tables.py 的程式許可證表照這些欄位列出。",
  "pages": {
   "febuxostat": {
    "55201": {
     "basis": "Läkemedelsverket：data/raw/lmv_registreringsstatus.json（data-20261112 Release，2026-11-12 下載）MT 55201＝Godkänd；產品資料見 lmv_medicinal_products.csv（Feburo，Verksamt ämne febuxostat）。證據包只收到 Febuxostat Accord 56645，漏收（2026-11-16 人工對照）",
     "product": "Feburo",
-    "holder": "",
+    "holder": "G.L. Pharma GmbH",
     "ingredients": "febuxostat",
     "kind": "single",
-    "status": "valid"
+    "status": "valid",
+    "form": "Filmdragerad tablett",
+    "registreringsstatus": "Godkänd"
    },
    "55202": {
     "basis": "Läkemedelsverket：data/raw/lmv_registreringsstatus.json（data-20261112 Release，2026-11-12 下載）MT 55202＝Godkänd；產品資料見 lmv_medicinal_products.csv（Feburo，Verksamt ämne febuxostat）。證據包只收到 Febuxostat Accord 56645，漏收（2026-11-16 人工對照）",
     "product": "Feburo",
-    "holder": "",
+    "holder": "G.L. Pharma GmbH",
     "ingredients": "febuxostat",
     "kind": "single",
-    "status": "valid"
+    "status": "valid",
+    "form": "Filmdragerad tablett",
+    "registreringsstatus": "Godkänd"
    }
   }
  }

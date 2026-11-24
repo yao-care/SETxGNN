@@ -367,6 +367,15 @@ indication_count: {indication_count}
 """
 
         full_content = front_matter + demote_body_h1(content) + disclaimer + "\n---\n\n"
+        # 2026-11-24：舊頁的程式許可證區塊（<!-- licenses:begin/end -->）移植到新頁，notes 裡模型寫的許可證表不得蓋回
+        # （scripts/sync_license_tables.py carry_block；之後 apply_drug_reviews.py 結尾會依快照重排）
+        _page = docs_drugs_dir / f"{drug_name}.md"
+        if _page.exists():
+            import importlib.util as _ilu_s
+            _sp = _ilu_s.spec_from_file_location("sync_license_tables", Path(__file__).resolve().parent / "sync_license_tables.py")
+            _slt = _ilu_s.module_from_spec(_sp)
+            _sp.loader.exec_module(_slt)
+            full_content = _slt.carry_block(_page.read_text(encoding="utf-8"), full_content)
         full_content = finalize_front_matter(docs_drugs_dir / f"{drug_name}.md", full_content, base_dir)
         (docs_drugs_dir / f"{drug_name}.md").write_text(full_content, encoding="utf-8")
         synced += 1

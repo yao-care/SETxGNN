@@ -80,7 +80,9 @@ NOTES = {
     "count": "Borttaget: antalet eller statusen för godkännandena stämde inte med Läkemedelsverkets data ({date}).",
     "generic": "Borttaget: uppgiften stämde inte med Läkemedelsverkets godkännandedata ({date}).",
 }
-FIGURES = " Antal godkännanden enligt uppgifterna: {total}, varav giltiga: {valid}; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige."
+# 2026-11-24（用戶決定）：原本寫死「Antal godkännanden enligt uppgifterna: {total}, varav giltiga: {valid}」，會跟每週資料過期；
+# 改成不寫數字、指向概覽表與程式許可證表（既有紀錄同 id 重發）。{total}／{valid} 照收（reviews_from_edits.py 仍會傳），不用
+FIGURES = " Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige."
 SUMMARY = "Borttaget: ”{text}”"
 STRIP_CHARS = " ,;.\n-"
 REGEN_NOTE = "rapporten genererades om i november 2026 och innehåller inte längre uppgiften"
