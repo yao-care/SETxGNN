@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "calcitriol"
 predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Calcitriol: predikterad ny indikation Föråldrad D-vitaminbrist (obsolete vitamin D deficiency) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
@@ -68,9 +68,15 @@ Det finns dock tydliga förbehåll. Sjukdomstermen är markerad som föråldrad 
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 9496 | Rocaltrol | Kapsel, mjuk | Ingen indikationstext registrerad i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 9496 | Rocaltrol | Kapsel, mjuk | Atnahs Pharma Netherlands B.V. | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

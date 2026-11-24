@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 450
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "vinblastine"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
 description: "Vinblastine: predikterad ny indikation Rabdomyosarkom (rhabdomyosarcoma (disease)) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
@@ -90,15 +90,15 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 7042 | Velbe (STADA Nordic ApS) | Pulver till injektionsvätska, lösning | Indikationstext saknas |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-vinblastine-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 7042 | Velbe | Pulver till injektionsvätska, lösning | STADA Nordic ApS | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”7042 / Velbe (STADA Nordic ApS) / Pulver till injektionsvätska, lösning / Indikationstext saknas (godkännandet är indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 7042 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-vinblastine-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -147,7 +147,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-12 | Tabell: 1 godkännande (7042) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-12 | Tabell: 1 godkännande (7042) är godkänd, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 | 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: vinblastine sulfate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f073b58e-56d6-4c8d-a2ce-b37719402d77) |
 
 <!-- review:end log -->

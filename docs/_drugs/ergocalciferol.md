@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ergocalciferol"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis", "craniofacial conodysplasia", "renal osteodystrophy", "calcium-alkali syndrome"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Ergocalciferol: predikterad ny indikation Akromesomelisk dysplasi, Campailla-Martinelli-typ (acromesomelic dysplasia, Campailla Martinelli type) (evidensnivå L5)."
 ---
 
@@ -80,10 +80,16 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 10240 | Vitalipid Adult | Koncentrat till infusionsvätska, emulsion | Indikationstext saknas |
-| 10241 | Vitalipid Infant | Koncentrat till infusionsvätska, emulsion | Indikationstext saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 10240 | Vitalipid Adult | Koncentrat till infusionsvätska, emulsion | Fresenius Kabi AB | Godkänd |
+| 10241 | Vitalipid Infant | Koncentrat till infusionsvätska, emulsion | Fresenius Kabi AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

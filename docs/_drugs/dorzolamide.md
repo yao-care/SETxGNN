@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 150
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "dorzolamide"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "congestive heart failure", "acute pulmonary heart disease", "respiratory failure"]
 description: "Dorzolamide: predikterad ny indikation Hypotrichosis simplex of the scalp (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -108,13 +108,21 @@ Prövningarna nedan är kopplade till glaukom 1, öppenvinkel och den överlappa
 
 Indikationstext saknas i de registrerade uppgifterna. De fem första visas nedan.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 58262 | Dorzolamid Hexal | Ögondroppar, lösning | Ej angiven |
-| 65350 | Vizidor | Ögondroppar, lösning | Ej angiven |
-| 65069 | Odyral | Ögondroppar, lösning i endosbehållare | Ej angiven |
-| 62170 | Dimaz | Ögondroppar, lösning | Ej angiven |
-| 22553 | Trusopt | Ögondroppar, lösning i endosbehållare | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 58262 | Dorzolamid Hexal | Ögondroppar, lösning | Hexal A/S | Godkänd |
+| 65350 | Vizidor | Ögondroppar, lösning | Bausch Lomb Ireland Limited | Godkänd |
+| 65069 | Odyral | Ögondroppar, lösning i endosbehållare | Orifarm Healthcare A/S | Godkänd |
+| 62170 | Dimaz | Ögondroppar, lösning | Zaklady Farmaceutyczne Polpharma SA | Godkänd |
+| 22553 | Trusopt | Ögondroppar, lösning i endosbehållare | Santen Oy | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

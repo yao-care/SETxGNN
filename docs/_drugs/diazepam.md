@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 138
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DIAZEPAM"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "antidepressant type abuse", "barbiturate abuse", "hallucinogen abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
 description: "Diazepam: predikterad ny indikation Sömnlöshet (insomnia (disease)) (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 12 (giltiga: 12)"
@@ -93,13 +93,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Diazepam är marknadsfört i Sverige. Alla 12 godkännanden är giltiga. Beredningsformerna är tablett och rektallösning.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 57368 | Diazepam Orifarm | Tablett | Ingen indikationstext tillgänglig |
-| 57370 | Diazepam Orifarm | Tablett | Ingen indikationstext tillgänglig |
-| 9291 | Stesolid | Rektallösning | Ingen indikationstext tillgänglig |
-| 8012 | Stesolid | Tablett | Ingen indikationstext tillgänglig |
-| 8013 | Stesolid | Tablett | Ingen indikationstext tillgänglig |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 57368 | Diazepam Orifarm | Tablett | Orifarm Generics A/S | Godkänd |
+| 57370 | Diazepam Orifarm | Tablett | Orifarm Generics A/S | Godkänd |
+| 9291 | Stesolid | Rektallösning | Actavis Group PTC ehf. | Godkänd |
+| 8012 | Stesolid | Tablett | Actavis Group PTC ehf. | Godkänd |
+| 8013 | Stesolid | Tablett | Actavis Group PTC ehf. | Godkänd |
+
+Tabellen visar 5 av 12 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

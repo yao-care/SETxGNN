@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 349
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "phenytoin"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 description: "Phenytoin: predikterad ny indikation Trigeminal nerve neoplasm (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
@@ -85,9 +85,15 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 1982 | Epanutin (Viatris AB) | Kapsel, hård | Ingen indikationstext angiven. Godkännandet är godkänt. |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 1982 | Epanutin | Kapsel, hård | Viatris AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -127,7 +133,7 @@ Ingen varnings- eller kontraindikationstext från produktresumén ingår i under
 
 <!-- review:begin se-lic-20261106-phenytoin-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Fenytoins svenska godkännande är dessutom avregistrerat, och säkerhetsinformationen från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Fenytoins svenska godkännande är dessutom avregistrerat, och säkerhetsinformationen från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-phenytoin-1 -->
 
@@ -146,7 +152,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Fenytoins svenska godkännande är dessutom avregistrerat, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Fenytoins svenska godkännande är dessutom avregistrerat, och s” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

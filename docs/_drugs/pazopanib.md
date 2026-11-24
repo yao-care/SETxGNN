@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 340
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "pazopanib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
 description: "Pazopanib: predikterad ny indikation Liposarkom (liposarcoma) (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 10 (giltiga: 10)"
@@ -102,13 +102,21 @@ Resultaten varierar dock mellan subtyper. Aktivitet har framför allt rapportera
 
 Pazopanib är marknadsfört i Sverige som filmdragerad tablett (oral beredning). Några av de godkända produkterna:
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 61540 | Pazopanib STADA | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 65260 | Pazopanib Glenmark | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 66227 | Pazopanib Newbury | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 65259 | Pazopanib Glenmark | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 61539 | Pazopanib STADA | Filmdragerad tablett | Ingen indikationstext registrerad |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 61540 | Pazopanib STADA | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 65260 | Pazopanib Glenmark | Filmdragerad tablett | Glenmark Arzneimittel GmbH | Godkänd |
+| 66227 | Pazopanib Newbury | Filmdragerad tablett | Newbury Pharmaceuticals AB | Godkänd |
+| 65259 | Pazopanib Glenmark | Filmdragerad tablett | Glenmark Arzneimittel GmbH | Godkänd |
+| 61539 | Pazopanib STADA | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+
+Tabellen visar 5 av 10 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

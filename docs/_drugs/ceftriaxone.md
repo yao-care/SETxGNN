@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ceftriaxone"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "chronic otitis media"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Ceftriaxone: predikterad ny indikation Polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 9 (giltiga: 9)"
 ---
 
@@ -84,13 +84,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Ceftriaxon är marknadsfört i Sverige och samtliga 9 godkännanden är giltiga. Nedan visas fem av dem.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 65940 | Ceftriaxon hameln | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
-| 21798 | Ceftriaxon Navamedic | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
-| 46461 | Ceftriaxon MIP | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
-| 21799 | Ceftriaxon Navamedic | Pulver till infusionsvätska, lösning | Ej angiven i lokala data |
-| 65941 | Ceftriaxon hameln | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 65940 | Ceftriaxon hameln | Pulver till injektions-/infusionsvätska, lösning | Hameln Pharma gmbh | Godkänd |
+| 21798 | Ceftriaxon Navamedic | Pulver till injektions-/infusionsvätska, lösning | Navamedic ASA | Godkänd |
+| 46461 | Ceftriaxon MIP | Pulver till injektions-/infusionsvätska, lösning | MIP Pharma GmbH | Godkänd |
+| 21799 | Ceftriaxon Navamedic | Pulver till infusionsvätska, lösning | Navamedic ASA | Godkänd |
+| 65941 | Ceftriaxon hameln | Pulver till injektions-/infusionsvätska, lösning | Hameln Pharma gmbh | Godkänd |
+
+Tabellen visar 5 av 9 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

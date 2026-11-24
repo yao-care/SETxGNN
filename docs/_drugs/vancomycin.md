@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 447
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "vancomycin"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
 description: "Vancomycin: predikterad ny indikation Diffus skleroderma (diffuse scleroderma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 17 (giltiga: 17)"
@@ -88,17 +88,25 @@ Ingen indikationstext finns registrerad för godkännandena. Nedan visas fem av 
 
 <!-- review:begin se-lic-20261106-vancomycin-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 17 godkännanden är indragna. Ingen indikationstext finns registrerad för godkännandena.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 17, varav giltiga: 17; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 17 godkännanden är indragna. Ingen indikationstext finns registrerad för godkännandena.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-vancomycin-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
-|---------|------|------|-----------|
-| 67731 | Vancomycin Noridem | Pulver till koncentrat till infusionsvätska, lösning | Noridem Enterprises Ltd |
-| 64427 | Vancomycin hameln | Pulver till koncentrat till infusionsvätska, lösning | Hameln Pharma gmbh |
-| 54527 | Vancomycin Strides | Kapsel, hård | Strides Pharma (Cyprus) Limited |
-| 10514 | Vancocin | Kapsel, hård | STADA Nordic ApS |
-| 21112 | Vancomycin MIP | Pulver till infusionsvätska, lösning | MIP Pharma GmbH |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 67731 | Vancomycin Noridem | Pulver till koncentrat till infusionsvätska, lösning | Noridem Enterprises Ltd | Godkänd |
+| 64427 | Vancomycin hameln | Pulver till koncentrat till infusionsvätska, lösning | Hameln Pharma gmbh | Godkänd |
+| 54527 | Vancomycin Strides | Kapsel, hård | Strides Pharma (Cyprus) Limited | Godkänd |
+| 10514 | Vancocin | Kapsel, hård | STADA Nordic ApS | Godkänd |
+| 21112 | Vancomycin MIP | Pulver till infusionsvätska, lösning | MIP Pharma GmbH | Godkänd |
+
+Tabellen visar 5 av 17 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -128,7 +136,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 
 <!-- review:begin se-lic-20261106-vancomycin-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen om diffus skleroderma saknar både mekanistisk koppling och stöd i kliniska prövningar eller relevant litteratur (evidensnivå L5). / Samtliga svenska godkännanden är dessutom indragna, vilket begränsar det praktiska värdet ytterligare.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 17, varav giltiga: 17; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen om diffus skleroderma saknar både mekanistisk koppling och stöd i kliniska prövningar eller relevant litteratur (evidensnivå L5). / Samtliga svenska godkännanden är dessutom indragna, vilket begränsar det praktiska värdet ytterligare.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-vancomycin-2 -->
 
@@ -146,8 +154,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga 17 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är dessutom indragna, vilket begränsar det praktiska värdet ytterligare” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga 17 godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är dessutom indragna, vilket begränsar det praktiska värdet ytterligare” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

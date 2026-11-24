@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "danaparoid"
 predicted_indications: ["Glanzmann thrombasthenia", "primary release disorder of platelets", "pseudo-von Willebrand disease", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "Scott syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Danaparoid: predikterad ny indikation Glanzmanns trombasteni (Glanzmann thrombasthenia) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
@@ -82,9 +82,15 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 11720 | Orgaran | Injektionsvätska, lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 11720 | Orgaran | Injektionsvätska, lösning | Viatris Limited | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

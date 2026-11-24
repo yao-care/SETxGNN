@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 448
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "verapamil"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
 description: "Verapamil: predikterad ny indikation Obsolet grenblock (obsolete bundle branch block) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 13 (giltiga: 13)"
@@ -74,17 +74,25 @@ Ingen indikationstext finns registrerad. De fem första visas nedan.
 
 <!-- review:begin se-lic-20261106-verapamil-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 13 godkännanden är indragna. Ingen indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 13, varav giltiga: 13; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 13 godkännanden är indragna. Ingen indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-verapamil-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 65939 | Isoptin Retard | Depottablett | Ej angiven |
-| 65927 | Isoptin | Filmdragerad tablett | Ej angiven |
-| 10801 | Isoptin Retard | Depottablett | Ej angiven |
-| 65938 | Isoptin Retard | Depottablett | Ej angiven |
-| 7950 | Isoptin | Filmdragerad tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 65939 | Isoptin Retard | Depottablett | Ebb Medical AB | Godkänd |
+| 65927 | Isoptin | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 10801 | Isoptin Retard | Depottablett | Viatris AB | Godkänd |
+| 65938 | Isoptin Retard | Depottablett | Ebb Medical AB | Godkänd |
+| 7950 | Isoptin | Filmdragerad tablett | Viatris AB | Godkänd |
+
+Tabellen visar 5 av 13 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Övriga beredningsformer bland godkännandena är injektions-/infusionsvätska, lösning (Veramacor).
 
@@ -120,7 +128,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Alla 13 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla 13 godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

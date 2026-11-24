@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "chloramphenicol"
 predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Chloramphenicol: predikterad ny indikation Diffus sklerodermi (diffuse scleroderma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 
@@ -87,12 +87,18 @@ Ingen av studierna prövar kloramfenikol som behandling.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 52192 | Kloramfenikol Santen | Ögondroppar, lösning i endosbehållare | Ej angiven i lokala data |
-| 53059 | Kloramfenikol Pharmathen | Ögondroppar, lösning | Ej angiven i lokala data |
-| 52193 | Kloramfenikol Santen | Ögonsalva | Ej angiven i lokala data |
-| 52191 | Kloramfenikol Santen | Ögondroppar, lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 52192 | Kloramfenikol Santen | Ögondroppar, lösning i endosbehållare | Santen Oy | Godkänd |
+| 53059 | Kloramfenikol Pharmathen | Ögondroppar, lösning | Pharmathen S.A. | Godkänd |
+| 52193 | Kloramfenikol Santen | Ögonsalva | Santen Oy | Godkänd |
+| 52191 | Kloramfenikol Santen | Ögondroppar, lösning | Santen Oy | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

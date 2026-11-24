@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 370
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "propranolol"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
 description: "Propranolol: predikterad ny indikation Distal myopathy, Tateyama type (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 9 (giltiga: 9)"
@@ -76,17 +76,25 @@ Indikationstext saknas i data.
 
 <!-- review:begin se-lic-20261106-propranolol-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga nio godkännanden är indragna. Indikationstext saknas i data.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga nio godkännanden är indragna. Indikationstext saknas i data.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-propranolol-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
-|---------|------|------|-----------|
-| 59316 | Propranolol Ebb | Filmdragerad tablett | Ebb Medical AB |
-| 65317 | Inderal | Filmdragerad tablett | Ebb Medical AB |
-| 64788 | Propranolol Medical Valley | Filmdragerad tablett | Medical Valley Invest AB |
-| 7724 | Inderal | Filmdragerad tablett | Atnahs Pharma Netherlands B.V. |
-| 48093 | Propranolol Accord | Filmdragerad tablett | Accord Healthcare B.V. |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 59316 | Propranolol Ebb | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 65317 | Inderal | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 64788 | Propranolol Medical Valley | Filmdragerad tablett | Medical Valley Invest AB | Godkänd |
+| 7724 | Inderal | Filmdragerad tablett | Atnahs Pharma Netherlands B.V. | Godkänd |
+| 48093 | Propranolol Accord | Filmdragerad tablett | Accord Healthcare B.V. | Godkänd |
+
+Tabellen visar 5 av 9 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -108,7 +116,7 @@ Varnings- och kontraindikationstext från produktresumén saknas i underlaget oc
 
 <!-- review:begin se-lic-20261106-propranolol-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom listas myopati och muskelsjukdom som möjliga kontraindikationer i kunskapsgrafen, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom listas myopati och muskelsjukdom som möjliga kontraindikationer i kunskapsgrafen, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-propranolol-2 -->
 
@@ -127,8 +135,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga nio godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga nio godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

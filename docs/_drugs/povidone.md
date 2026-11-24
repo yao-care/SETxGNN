@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 358
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "povidone"
 predicted_indications: ["congenital ichthyosiform erythroderma"]
 description: "Povidone: predikterad ny indikation Congenital ichthyosiform erythroderma (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
@@ -68,7 +68,7 @@ Medfödd ichtyosiform erytrodermi är en genetisk störning i hudens förhornnin
 
 <!-- review:begin se-lic-20261106-povidone-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla fyra godkännanden är indragna, och inget giltigt godkännande för povidon som enda substans finns i Sverige i dag.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla fyra godkännanden är indragna, och inget giltigt godkännande för povidon som enda substans finns i Sverige i dag.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-povidone-1 -->
 
@@ -76,12 +76,18 @@ Medfödd ichtyosiform erytrodermi är en genetisk störning i hudens förhornnin
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 13800 | Oculac | Ögondroppar, lösning i endosbehållare | Uppgift saknas |
-| 13798 | Oculac | Ögondroppar, lösning | Uppgift saknas |
-| 23334 | Nyodex | Koncentrat till gurgelvatten | Uppgift saknas |
-| 61810 | Ophthajod | Ögondroppar, lösning | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 13800 | Oculac | Ögondroppar, lösning i endosbehållare | Laboratoires THEA | Godkänd |
+| 13798 | Oculac | Ögondroppar, lösning | Laboratoires THEA | Godkänd |
+| 23334 | Nyodex | Koncentrat till gurgelvatten | Taw Pharma (Ireland) Ltd | Godkänd |
+| 61810 | Ophthajod | Ögondroppar, lösning | XGX Pharma ApS | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -123,7 +129,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Alla fyra godkännanden är indragna, och inget giltigt godkännande för povidon som enda substans finns i Sverige i dag” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla fyra godkännanden är indragna, och inget giltigt godkännande för povidon som enda substans finns i Sverige i dag” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 183
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Etoricoxib: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad i godkännandedata"
 monitor_inn: "ETORICOXIB"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
@@ -94,13 +94,21 @@ Ingen indikationstext finns registrerad. Fem exempel:
 
 <!-- review:end se-lic-20261106-etoricoxib-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 53357 | Etoricoxib Orion | Filmdragerad tablett | Ej angiven |
-| 55642 | Etoricoxib Brown | Filmdragerad tablett | Ej angiven |
-| 26324 | Arcoxia (Medartuum AB) | Filmdragerad tablett | Ej angiven |
-| 51532 | Etoricoxib Teva | Filmdragerad tablett | Ej angiven |
-| 24178 | Arcoxia (Organon N.V) | Filmdragerad tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 53357 | Etoricoxib Orion | Filmdragerad tablett | Orion Corporation | Godkänd |
+| 55642 | Etoricoxib Brown | Filmdragerad tablett | Brown & Burk IR Limited | Godkänd |
+| 26324 | Arcoxia | Filmdragerad tablett | Medartuum AB | Godkänd |
+| 51532 | Etoricoxib Teva | Filmdragerad tablett | Teva Sweden AB | Godkänd |
+| 24178 | Arcoxia | Filmdragerad tablett | Organon N.V | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

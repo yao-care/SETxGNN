@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 383
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "RIVAROXABAN"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
 description: "Rivaroxaban: predikterad ny indikation Reumatoid artrit (rheumatoid arthritis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -89,13 +89,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Indikationstexter saknas i de sammanställda data. De första fem godkännandena:
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 59431 | Rivaroxaban Avansor | Filmdragerad tablett | Ej angiven |
-| 62033 | Rivaroxaban STADA Arzneimittel AG | Filmdragerad tablett | Ej angiven |
-| 59153 | Rivaroxaban Krka | Filmdragerad tablett | Ej angiven |
-| 62327 | Blomensy | Filmdragerad tablett | Ej angiven |
-| 61502 | Rivaroxaban Hexal | Filmdragerad tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 59431 | Rivaroxaban Avansor | Filmdragerad tablett | Avansor Pharma Oy | Godkänd |
+| 62033 | Rivaroxaban STADA Arzneimittel AG | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 59153 | Rivaroxaban Krka | Filmdragerad tablett | Krka d.d., Novo mesto | Godkänd |
+| 62327 | Blomensy | Filmdragerad tablett | Egis Pharmaceuticals PLC | Godkänd |
+| 61502 | Rivaroxaban Hexal | Filmdragerad tablett | Hexal A/S | Avregistrerad |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

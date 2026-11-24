@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 258
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "LEVETIRACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Levetiracetam: predikterad ny indikation Beta-ketothiolase deficiency (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -103,13 +103,21 @@ Fem av dem visas här. Indikationstext saknas i de svenska godkännandena.
 
 <!-- review:end se-lic-20261106-levetiracetam-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform |
-|---------|------|------|
-| 58326 | Levetiracetam Orifarm | Filmdragerad tablett |
-| 66164 | Levetiracetam Noridem | Koncentrat till infusionsvätska, lösning |
-| 64569 | Levetiracetam 1A Farma | Filmdragerad tablett |
-| 58211 | Levetiracetam 2care4 | Filmdragerad tablett |
-| 56751 | Levetiracetam STADA | Oral lösning |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 58326 | Levetiracetam Orifarm | Filmdragerad tablett | Orifarm AB | Godkänd |
+| 66164 | Levetiracetam Noridem | Koncentrat till infusionsvätska, lösning | Noridem Enterprises Ltd | Godkänd |
+| 64569 | Levetiracetam 1A Farma | Filmdragerad tablett | UAB BIJON medica | Godkänd |
+| 58211 | Levetiracetam 2care4 | Filmdragerad tablett | 2care4 ApS | Godkänd |
+| 56751 | Levetiracetam STADA | Oral lösning | STADA Arzneimittel AG | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

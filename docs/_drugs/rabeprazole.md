@@ -5,7 +5,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 373
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Rabeprazole: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
 ---
@@ -73,10 +73,16 @@ TxGNN-modellens kandidater för Rabeprazole (poäng ≥ 0,99) är alla redan kä
 
 ## Marknadsinformation Sverige
 
-| Godkännande | Produkt | Läkemedelsform | Status |
-|------|------|------|------|
-| 14696 | rabeprazolnatrium (vattenfri) | Enterotablett | Giltigt |
-| 14697 | rabeprazolnatrium (vattenfri) | Enterotablett | Giltigt |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 14696 | Pariet | Enterotablett | Eisai AB | Godkänd |
+| 14697 | Pariet | Enterotablett | Eisai AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ## Säkerhetsaspekter
 

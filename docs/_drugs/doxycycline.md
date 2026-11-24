@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 152
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "doxycycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
 description: "Doxycycline: predikterad ny indikation Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifter…"
@@ -88,17 +88,25 @@ Någon godkänd indikationstext finns inte angiven. Nedan visas fem av dem.
 
 <!-- review:begin se-lic-20261106-doxycycline-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla åtta godkännanden för doxycyklin i datan är indragna och inget är giltigt. Någon godkänd indikationstext finns inte angiven.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla åtta godkännanden för doxycyklin i datan är indragna och inget är giltigt. Någon godkänd indikationstext finns inte angiven.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-doxycycline-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
-|---------|------|------|-----------|
-| 68301 | Doxycyklin Abacus Medicine | Tablett | Abacus Medicine A/S |
-| 46990 | Doxycyklin EQL Pharma | Tablett | EQL Pharma AB |
-| 66536 | Doxycyklin Bijon | Tablett | UAB BIJON medica |
-| 11787 | Doxyferm | Tablett | Nordic Drugs AB |
-| 23571 | Oracea | Kapsel med modifierad frisättning, hård | Galderma Nordic AB |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 68301 | Doxycyklin Abacus Medicine | Tablett | Abacus Medicine A/S | Godkänd |
+| 46990 | Doxycyklin EQL Pharma | Tablett | EQL Pharma AB | Godkänd |
+| 66536 | Doxycyklin Bijon | Tablett | UAB BIJON medica | Godkänd |
+| 11787 | Doxyferm | Tablett | Nordic Drugs AB | Godkänd |
+| 23571 | Oracea | Kapsel med modifierad frisättning, hård | Galderma Nordic AB | Godkänd |
+
+Tabellen visar 5 av 8 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -123,7 +131,7 @@ Någon godkänd indikationstext finns inte angiven. Nedan visas fem av dem.
 
 <!-- review:begin se-lic-20261106-doxycycline-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Fallrapporten visar dessutom keratit som uppstod efter behandling, inte att doxycyklin gav effekt. / Samtliga svenska godkännanden är indragna, vilket också begränsar den praktiska möjligheten att gå vidare.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Fallrapporten visar dessutom keratit som uppstod efter behandling, inte att doxycyklin gav effekt. / Samtliga svenska godkännanden är indragna, vilket också begränsar den praktiska möjligheten att gå vidare.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-doxycycline-2 -->
 
@@ -136,7 +144,7 @@ Någon godkänd indikationstext finns inte angiven. Nedan visas fem av dem.
 
 <!-- review:begin se-lic-20261106-doxycycline-3 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedömning av marknadsläget, eftersom alla godkännanden för närvarande är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedömning av marknadsläget, eftersom alla godkännanden för närvarande är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-doxycycline-3 -->
 
@@ -148,9 +156,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Alla åtta godkännanden för doxycyklin i datan är indragna och inget är giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är indragna, vilket också begränsar den praktiska möjligheten att gå vidare” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”eftersom alla godkännanden för närvarande är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla åtta godkännanden för doxycyklin i datan är indragna och inget är giltigt” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är indragna, vilket också begränsar den praktiska möjligheten att gå vidare” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla godkännanden för närvarande är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

@@ -72,27 +72,33 @@ Alla kandidater som TxGNN-modellen (poäng ≥ 0,99) har tagit fram för Tazobac
 
 ## Marknadsinformation Sverige
 
-| Godkännande | Produkt | Läkemedelsform | Status |
-|------|------|------|------|
-| 24959 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
-| 23955 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
-| 67500 | piperacillinmonohydrat; tazobaktamnatrium | Pulver och vätska till infusionsvätska,  | Giltigt |
-| 61220 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
-| 24774 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
-| 62824 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Avregistrerad |
-| 24775 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
-| 42499 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
-| 26804 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
-| 61221 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
-| 25747 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
-| 62823 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Avregistrerad |
-| 42500 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
-| 25746 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
-| 62145 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
-| 24958 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
-| 23954 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
-| 62144 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
-| 26803 | piperacillinnatrium; tazobaktamnatrium | Pulver till infusionsvätska, lösning | Giltigt |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 24959 | Piperacillin/Tazobactam Stragen | Pulver till infusionsvätska, lösning | Stragen Nordic A/S | Godkänd |
+| 23955 | Piperacillin/Tazobactam Sandoz | Pulver till infusionsvätska, lösning | Sandoz A/S | Godkänd |
+| 67500 | Piperacillin/Tazobactam B. Braun | Pulver och vätska till infusionsvätska, lösning | B. Braun Melsungen AG | Godkänd |
+| 61220 | Piperacillin/Tazobactam STADA | Pulver till infusionsvätska, lösning | STADA Arzneimittel AG | Godkänd |
+| 24774 | Piperacillin/Tazobactam Reig Jofre | Pulver till infusionsvätska, lösning | Laboratorio Reig Jofre S.A. | Godkänd |
+| 62824 | Piperacillin/Tazobactam Antibiotice | Pulver till infusionsvätska, lösning | Antibiotice SA | Avregistrerad |
+| 24775 | Piperacillin/Tazobactam Reig Jofre | Pulver till infusionsvätska, lösning | Laboratorio Reig Jofre S.A. | Godkänd |
+| 42499 | Piperacillin/Tazobactam Noridem | Pulver till infusionsvätska, lösning | Noridem Enterprises Ltd | Godkänd |
+| 26804 | Piperacillin/Tazobaktam Aurobindo | Pulver till infusionsvätska, lösning | Aurobindo Pharma (Malta) Limited | Godkänd |
+| 61221 | Piperacillin/Tazobactam STADA | Pulver till infusionsvätska, lösning | STADA Arzneimittel AG | Godkänd |
+| 25747 | Piperacillin/Tazobactam Fresenius Kabi | Pulver till infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 62823 | Piperacillin/Tazobactam Antibiotice | Pulver till infusionsvätska, lösning | Antibiotice SA | Avregistrerad |
+| 42500 | Piperacillin/Tazobactam Noridem | Pulver till infusionsvätska, lösning | Noridem Enterprises Ltd | Godkänd |
+| 25746 | Piperacillin/Tazobactam Fresenius Kabi | Pulver till infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 62145 | Piperacillin/Tazobactam Qilu | Pulver till infusionsvätska, lösning | QILU PHARMA SPAIN S.L. | Godkänd |
+| 24958 | Piperacillin/Tazobactam Stragen | Pulver till infusionsvätska, lösning | Stragen Nordic A/S | Godkänd |
+| 23954 | Piperacillin/Tazobactam Sandoz | Pulver till infusionsvätska, lösning | Sandoz A/S | Godkänd |
+| 62144 | Piperacillin/Tazobactam Qilu | Pulver till infusionsvätska, lösning | QILU PHARMA SPAIN S.L. | Godkänd |
+| 26803 | Piperacillin/Tazobaktam Aurobindo | Pulver till infusionsvätska, lösning | Aurobindo Pharma (Malta) Limited | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ## Säkerhetsaspekter
 

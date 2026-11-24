@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 380
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "riluzole"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance"]
 description: "Riluzole: predikterad ny indikation Bilateral parasagittal parieto-occipital polymikrogyri (bilateral parasagittal parieto-occipital polymicrogyria) (evidensnivå L5)."
@@ -84,13 +84,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Enligt de lokala licensuppgifterna är alla 7 godkännanden giltiga och läkemedlet är marknadsfört.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
-|---------|------|------|-----------|-----|
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
 | 62570 | Emylif | Munsönderfallande film | Zambon SpA | Godkänd |
 | 60497 | Riluzol Abacus Medicine | Filmdragerad tablett | Abacus Medicine A/S | Godkänd |
 | 43569 | Riluzol Stada | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
 | 44895 | Riluzol PMCS | Filmdragerad tablett | PRO.MED.CS Praha a.s. | Godkänd |
 | 61887 | Teglutik | Oral suspension | Italfarmaco S.A. | Godkänd |
+
+Tabellen visar 5 av 7 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

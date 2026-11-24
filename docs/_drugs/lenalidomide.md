@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 255
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
 description: "Lenalidomide: predikterad ny indikation Myeloid leukemia (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -118,13 +118,21 @@ Ingen indikationstext finns registrerad. De fem första godkännandena:
 
 <!-- review:end se-lic-20261106-lenalidomide-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 59063 | Lenalidomide STADA | Kapsel, hård | Ej angiven |
-| 61570 | Ferulinor | Kapsel, hård | Ej angiven |
-| 60018 | Lenalidomid Avansor | Kapsel, hård | Ej angiven |
-| 59061 | Lenalidomide STADA | Kapsel, hård | Ej angiven |
-| 59059 | Lenalidomide STADA | Kapsel, hård | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 59063 | Lenalidomide STADA | Kapsel, hård | STADA Arzneimittel AG | Godkänd |
+| 61570 | Ferulinor | Kapsel, hård | STADA Nordic ApS | Avregistrerad |
+| 60018 | Lenalidomid Avansor | Kapsel, hård | Avansor Pharma Oy | Godkänd |
+| 59061 | Lenalidomide STADA | Kapsel, hård | STADA Arzneimittel AG | Godkänd |
+| 59059 | Lenalidomide STADA | Kapsel, hård | STADA Arzneimittel AG | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

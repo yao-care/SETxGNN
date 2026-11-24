@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 206
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 monitor_inn: "flutamide"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Flutamide: predikterad ny indikation Fibroma of prostate (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 0)"
@@ -110,15 +110,15 @@ För den högst rankade förutsägelsen finns ingen relaterad litteratur tillgä
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 13685 | Flutamid STADA | Tablett | Ingen indikationstext tillgänglig |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-flutamide-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 13685 | Flutamid STADA | Tablett | STADA Arzneimittel AG | Avregistrerad |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”13685 (indraget) / Flutamid STADA / Tablett / Ingen indikationstext tillgänglig” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 13685 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-flutamide-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -156,7 +156,7 @@ Det underlag som tagits fram för produktresumén (varningar och kontraindikatio
 
 <!-- review:begin se-lic-20261106-flutamide-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är flutamids enda svenska godkännande indraget, det finns en känd risk för levertoxicitet, och nyare antiandrogen (bicalutamid, enzalutamid, apalutamid) har till stor del ersatt det.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är flutamids enda svenska godkännande indraget, det finns en känd risk för levertoxicitet, och nyare antiandrogen (bicalutamid, enzalutamid, apalutamid) har till stor del ersatt det.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-flutamide-1 -->
 
@@ -175,8 +175,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”essutom är flutamids enda svenska godkännande indraget, d” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 1 godkännande (13685) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”essutom är flutamids enda svenska godkännande indraget, d” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 1 godkännande (13685) är godkänd, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

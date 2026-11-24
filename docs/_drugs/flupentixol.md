@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 204
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "flupentixol"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "myopia X-linked", "syndromic myopia", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
 description: "Flupentixol: predikterad ny indikation Retinal dystrofi med eller utan extraokulära avvikelser (retinal dystrophy with or without extraocular anomalies) (evidensnivå L5). Ursprunglig indikation: Inte…"
@@ -70,19 +70,27 @@ Något mekanistiskt samband mellan dopaminreceptorblockad och retinal dystrofi h
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 67948 | Fluanxol (Ebb Medical AB) | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänd) |
-| 45008 | Fluanxol (H. Lundbeck A/S) | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänd) |
-| 45010 | Fluanxol (H. Lundbeck A/S) | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänd) |
-| 59107 | Fluanxol (Ebb Medical AB) | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänd) |
-| 59174 | Fluanxol (2care4 ApS) | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänd) |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 67948 | Fluanxol | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 45008 | Fluanxol | Filmdragerad tablett | H. Lundbeck A/S | Godkänd |
+| 45010 | Fluanxol | Filmdragerad tablett | H. Lundbeck A/S | Godkänd |
+| 59107 | Fluanxol | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 59174 | Fluanxol | Filmdragerad tablett | 2care4 ApS | Godkänd |
+
+Tabellen visar 5 av 7 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Ytterligare två godkännanden (45009 och 59028) finns också.
 
 <!-- review:begin se-lic-20261106-flupentixol-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ytterligare två godkännanden (45009 och 59028) finns också, och samtliga sju är avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ytterligare två godkännanden (45009 och 59028) finns också, och samtliga sju är avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-flupentixol-1 -->
 
@@ -112,7 +120,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 
 <!-- review:begin se-lic-20261106-flupentixol-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedömning av tillämplig beredningsform och administreringsväg, eftersom produkten för närvarande saknar giltigt godkännande i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedömning av tillämplig beredningsform och administreringsväg, eftersom produkten för närvarande saknar giltigt godkännande i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-flupentixol-2 -->
 
@@ -124,8 +132,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”och samtliga sju är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”eftersom produkten för närvarande saknar giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och samtliga sju är avregistrerade” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom produkten för närvarande saknar giltigt godkännande i Sverige” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

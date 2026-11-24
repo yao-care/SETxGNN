@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 365
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Probenecid: predikterad ny indikation Renal hypourikemi (evidensnivå L4). Ursprunglig indikation: Gikt, hyperurikemi"
 monitor_inn: "PROBENECID"
 predicted_indications: ["hypouricemia, renal", "Lesch-Nyhan syndrome", "hypoxanthine guanine phosphoribosyltransferase partial deficiency"]
@@ -95,15 +95,15 @@ Av 20 hittade publikationer är de flesta fallrapporter, översikter eller genet
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 4522 | Probecid (Karo Pharma AB) | Tablett | Ingen indikationstext registrerad |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-probenecid-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 4522 | Probecid | Tablett | Karo Pharma AB | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”4522 / Probecid (Karo Pharma AB) / Tablett / Ingen indikationstext registrerad (godkännandet är indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 4522 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-probenecid-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -140,7 +140,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-12 | Tabell: 1 godkännande (4522) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-12 | Tabell: 1 godkännande (4522) är godkänd, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 | 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: probenecid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65b4888c-d49a-433f-9bfd-17880ae40069) |
 
 <!-- review:end log -->

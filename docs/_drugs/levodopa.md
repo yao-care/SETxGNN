@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 261
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "LEVODOPA"
 predicted_indications: ["Rasmussen subacute encephalitis"]
 description: "Levodopa: predikterad ny indikation Rasmussens subakuta encefalit (Rasmussen subacute encephalitis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -78,13 +78,21 @@ Ingen indikationstext finns registrerad. Nedan visas fem av dem.
 
 <!-- review:end se-lic-20261106-levodopa-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 63480 | Carbidopa/Levodopa Orifarm | Tablett | Ej angiven |
-| 50522 | Madopar Quick | Dispergerbar tablett | Ej angiven |
-| 25622 | Levocar | Depottablett | Ej angiven |
-| 62799 | Carbidopa/Levodopa Orion | Tablett | Ej angiven |
-| 19210 | Duodopa | Intestinal gel | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 63480 | Carbidopa/Levodopa Orifarm | Tablett | Orifarm Healthcare A/S | Godkänd |
+| 50522 | Madopar Quick | Dispergerbar tablett | Orifarm AB | Godkänd |
+| 25622 | Levocar | Depottablett | Sandoz A/S | Godkänd |
+| 62799 | Carbidopa/Levodopa Orion | Tablett | Orion Corporation | Godkänd |
+| 19210 | Duodopa | Intestinal gel | AbbVie AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

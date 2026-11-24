@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 317
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "nitisinone"
 predicted_indications: ["renal tubular acidosis", "galactosemia", "serpinopathy with toxic serpin polymerization", "C1 inhibitor deficiency", "glycogen storage disease", "adult polyglucosan body disease", "glycogen storage disease due to glucose-6-phosphatase deficiency", "Griscelli syndrome", "granulomatous disease, chronic, X-linked", "ermine phenotype"]
 description: "Nitisinone: predikterad ny indikation Renal tubular acidosis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
@@ -82,12 +82,18 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 59101 | Nitisinone Dipharma | Kapsel, hård | Ingen indikationstext angiven (godkänd) |
-| 57911 | Nitisinone Dipharma | Kapsel, hård | Ingen indikationstext angiven (godkänd) |
-| 57912 | Nitisinone Dipharma | Kapsel, hård | Ingen indikationstext angiven (godkänd) |
-| 59100 | Nitisinone Dipharma | Kapsel, hård | Ingen indikationstext angiven (godkänd) |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 59101 | Nitisinone Dipharma | Kapsel, hård | Dipharma Arzneimittel GmbH | Godkänd |
+| 57911 | Nitisinone Dipharma | Kapsel, hård | Dipharma Arzneimittel GmbH | Godkänd |
+| 57912 | Nitisinone Dipharma | Kapsel, hård | Dipharma Arzneimittel GmbH | Godkänd |
+| 59100 | Nitisinone Dipharma | Kapsel, hård | Dipharma Arzneimittel GmbH | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -125,7 +131,7 @@ Uppgifter från produktresumén om varningar och kontraindikationer saknas. Se p
 
 <!-- review:begin se-lic-20261106-nitisinone-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga svenska godkännanden är avregistrerade, och säkerhetsunderlaget från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga svenska godkännanden är avregistrerade, och säkerhetsunderlaget från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-nitisinone-1 -->
 
@@ -143,7 +149,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”amtliga svenska godkännanden är avregistrerade, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”amtliga svenska godkännanden är avregistrerade, och s” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

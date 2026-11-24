@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "DEXIBUPROFEN"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Dexibuprofen: predikterad ny indikation Brakydaktyli-syndaktylisyndrom (brachydactyly-syndactyly syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 5 (giltiga: 5)"
 ---
 
@@ -84,13 +84,19 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Enligt de sammanställda uppgifterna är marknadsstatus i Sverige "Marknadsförd". Totalt finns 5 godkännanden registrerade för enkomponentsprodukter i form av filmdragerade tabletter (oral beredning).
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 58385 | Dexibuprofen Strides | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 58384 | Dexibuprofen Strides | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 16317 | Tradil | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 16318 | Tradil | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 58386 | Dexibuprofen Strides | Filmdragerad tablett | Ingen indikationstext registrerad |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 58385 | Dexibuprofen Strides | Filmdragerad tablett | Strides Pharma (Cyprus) Limited | Godkänd |
+| 58384 | Dexibuprofen Strides | Filmdragerad tablett | Strides Pharma (Cyprus) Limited | Godkänd |
+| 16317 | Tradil | Filmdragerad tablett | Nordic Drugs AB | Godkänd |
+| 16318 | Tradil | Filmdragerad tablett | Nordic Drugs AB | Godkänd |
+| 58386 | Dexibuprofen Strides | Filmdragerad tablett | Strides Pharma (Cyprus) Limited | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

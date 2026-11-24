@@ -104,6 +104,126 @@
     "ChEMBL drug mechanism"
    ],
    "reason": "no single-ingredient US prescription label for 'roxithromycin' with a mechanism or clinical pharmacology section in openFDA; no approved ChEMBL molecule named 'roxithromycin'"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "sulbactam",
+   "file": "sulbactam.md",
+   "status": "open",
+   "claim": "- Det saknas ett giltigt svenskt godkännande, och produktresumé med säkerhetsdata saknas, vilket hindrar en fullständig säkerhetsbedömning.",
+   "reason": "grammar",
+   "added": "2026-11-24",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alla／samtliga／båda … giltiga」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數或 båda／en／ett 要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證狀態／張數跟快照事實層不符、規則不改的句子（2026-11-24 程式許可證表改版時獨立寬偵測找到）",
+   "drug": "famciclovir",
+   "file": "famciclovir.md",
+   "status": "open",
+   "claim": "- Samtidigt har inget av de svenska godkännandena längre giltig status, och säkerhetsdata från produktresumén saknas.",
+   "reason": "下一步／決策條目：寫全部無效，事實層 3 張全部 Godkänd（待辦條目照規則不改）",
+   "added": "2026-11-24",
+   "note": "程式不改（待辦條目、partial 頁或單複數要跟著改）；要改請對照 Läkemedelsverket 資料寫查核紀錄"
+  },
+  {
+   "source": "正文許可證狀態／張數跟快照事實層不符、規則不改的句子（2026-11-24 程式許可證表改版時獨立寬偵測找到）",
+   "drug": "gemcitabine",
+   "file": "gemcitabine.md",
+   "status": "open",
+   "claim": "- Klargöra varför de svenska godkännandena har dragits in och om det finns en giltig produkt för bröstcancerindikationen.",
+   "reason": "待辦條目以「許可已撤回」為前提，事實層 4 張全部 Godkänd",
+   "added": "2026-11-24",
+   "note": "程式不改（待辦條目、partial 頁或單複數要跟著改）；要改請對照 Läkemedelsverket 資料寫查核紀錄"
+  },
+  {
+   "source": "正文許可證狀態／張數跟快照事實層不符、規則不改的句子（2026-11-24 程式許可證表改版時獨立寬偵測找到）",
+   "drug": "hydroxyzine",
+   "file": "hydroxyzine.md",
+   "status": "open",
+   "claim": "- Klargöra varför godkännandena dragits tillbaka och om det finns ett marknadsmässigt eller regulatoriskt underlag för en ny ansökan.",
+   "reason": "待辦條目以「許可已撤回」為前提，事實層 16 張全部 Godkänd",
+   "added": "2026-11-24",
+   "note": "程式不改（待辦條目、partial 頁或單複數要跟著改）；要改請對照 Läkemedelsverket 資料寫查核紀錄"
+  },
+  {
+   "source": "正文許可證狀態／張數跟快照事實層不符、規則不改的句子（2026-11-24 程式許可證表改版時獨立寬偵測找到）",
+   "drug": "tacrolimus",
+   "file": "tacrolimus.md",
+   "status": "open",
+   "claim": "- Utreda marknadssituationen: nuvarande godkännanden är indragna, så en ny ansökan eller ett tillgängligt topikalt preparat behövs för klinisk användning i Sverige.",
+   "reason": "partial 頁（證據包只收 20 筆、total_matches 80）：收到的 20 張全部 Godkänd，待辦條目寫許可已撤回",
+   "added": "2026-11-24",
+   "note": "程式不改（待辦條目、partial 頁或單複數要跟著改）；要改請對照 Läkemedelsverket 資料寫查核紀錄"
+  },
+  {
+   "source": "正文許可證狀態／張數跟快照事實層不符、規則不改的句子（2026-11-24 程式許可證表改版時獨立寬偵測找到）",
+   "drug": "xylometazoline",
+   "file": "xylometazoline.md",
+   "status": "open",
+   "claim": "- Klargöra varför godkännandena avregistrerats och om en ny ansökan är aktuell.",
+   "reason": "partial 頁（收 20 筆、total_matches 24）：收到的 20 張全部 Godkänd，待辦條目以「已註銷」為前提",
+   "added": "2026-11-24",
+   "note": "程式不改（待辦條目、partial 頁或單複數要跟著改）；要改請對照 Läkemedelsverket 資料寫查核紀錄"
+  },
+  {
+   "source": "正文許可證狀態／張數跟快照事實層不符、規則不改的句子（2026-11-24 程式許可證表改版時獨立寬偵測找到）",
+   "drug": "glycine",
+   "file": "glycine.md",
+   "status": "open",
+   "claim": "Alla 20 godkännanden är giltiga och inget har någon registrerad indikationstext.",
+   "reason": "partial 頁：收到的 20 張中 3 張 Avregistrerad，句子寫全部有效",
+   "added": "2026-11-24",
+   "note": "程式不改（待辦條目、partial 頁或單複數要跟著改）；要改請對照 Läkemedelsverket 資料寫查核紀錄"
+  },
+  {
+   "source": "正文許可證狀態／張數跟快照事實層不符、規則不改的句子（2026-11-24 程式許可證表改版時獨立寬偵測找到）",
+   "drug": "sertraline",
+   "file": "sertraline.md",
+   "status": "open",
+   "claim": "Minst 20 godkännanden finns registrerade och samtliga är giltiga.",
+   "reason": "partial 頁：收到的 20 張中 1 張 Avregistrerad，句子寫全部有效",
+   "added": "2026-11-24",
+   "note": "程式不改（待辦條目、partial 頁或單複數要跟著改）；要改請對照 Läkemedelsverket 資料寫查核紀錄"
+  },
+  {
+   "source": "正文許可證狀態／張數跟快照事實層不符、規則不改的句子（2026-11-24 程式許可證表改版時獨立寬偵測找到）",
+   "drug": "budesonide",
+   "file": "budesonide.md",
+   "status": "open",
+   "claim": "I de lokala uppgifterna är 20 godkännanden giltiga.",
+   "reason": "partial 頁：收到的 20 張中有效 19 張；總數未知",
+   "added": "2026-11-24",
+   "note": "程式不改（待辦條目、partial 頁或單複數要跟著改）；要改請對照 Läkemedelsverket 資料寫查核紀錄"
+  },
+  {
+   "source": "正文許可證狀態／張數跟快照事實層不符、規則不改的句子（2026-11-24 程式許可證表改版時獨立寬偵測找到）",
+   "drug": "ebastine",
+   "file": "ebastine.md",
+   "status": "open",
+   "claim": "- Bedöma vägen till marknaden, eftersom det finns 20 giltiga godkännanden på den svenska marknaden och läkemedlet är marknadsfört.",
+   "reason": "partial 頁：收到的 20 張中有效 18 張；總數未知",
+   "added": "2026-11-24",
+   "note": "程式不改（待辦條目、partial 頁或單複數要跟著改）；要改請對照 Läkemedelsverket 資料寫查核紀錄"
+  },
+  {
+   "source": "正文許可證狀態／張數跟快照事實層不符、規則不改的句子（2026-11-24 程式許可證表改版時獨立寬偵測找到）",
+   "drug": "ethanol",
+   "file": "ethanol.md",
+   "status": "open",
+   "claim": "Etanol (varumärket Streplieve m.fl.) har inga angivna godkända indikationer i den svenska licensdatan, och läkemedlet marknadsförs med 20 giltiga godkännanden.",
+   "reason": "partial 頁：收到的 20 張中有效 19 張；總數未知",
+   "added": "2026-11-24",
+   "note": "程式不改（待辦條目、partial 頁或單複數要跟著改）；要改請對照 Läkemedelsverket 資料寫查核紀錄"
+  },
+  {
+   "source": "正文許可證狀態／張數跟快照事實層不符、規則不改的句子（2026-11-24 程式許可證表改版時獨立寬偵測找到）",
+   "drug": "ethanol",
+   "file": "ethanol.md",
+   "status": "open",
+   "claim": "- Läkemedlet marknadsförs i Sverige med 20 giltiga godkännanden, och säkerhetsdata från produktresumén saknas.",
+   "reason": "partial 頁：收到的 20 張中有效 19 張；總數未知",
+   "added": "2026-11-24",
+   "note": "程式不改（待辦條目、partial 頁或單複數要跟著改）；要改請對照 Läkemedelsverket 資料寫查核紀錄"
   }
  ]
 }

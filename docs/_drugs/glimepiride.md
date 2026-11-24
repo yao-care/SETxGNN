@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 215
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "glimepiride"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 description: "Glimepiride: predikterad ny indikation Classic stiff person syndrome (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 11 (giltiga: 11)"
@@ -74,23 +74,25 @@ Fem av dem visas nedan. Indikationstext saknas i dessa godkännanden.
 
 <!-- review:begin se-lic-20261106-glimepiride-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 11 godkännanden är indragna och inget är för närvarande giltigt. Fem av dem visas nedan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 11, varav giltiga: 11; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 11 godkännanden är indragna och inget är för närvarande giltigt. Fem av dem visas nedan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-glimepiride-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
-|---------|------|------|-----------|-----|
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
 | 26270 | Glimepirid Bluefish | Tablett | Bluefish Pharmaceuticals AB | Godkänd |
 | 22683 | Glimepirid STADA | Tablett | STADA Arzneimittel AG | Godkänd |
 | 26271 | Glimepirid Bluefish | Tablett | Bluefish Pharmaceuticals AB | Godkänd |
 | 22681 | Glimepirid Actavis | Tablett | Actavis Group PTC ehf. | Godkänd |
 | 22679 | Glimepirid Actavis | Tablett | Actavis Group PTC ehf. | Godkänd |
 
-<!-- review:begin se-row-20261112-glimepiride-1 -->
+Tabellen visar 5 av 11 godkännanden i uppgifterna.
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”26270 / Glimepirid Bluefish / Tablett / Bluefish Pharmaceuticals AB / Indraget; 22683 / Glimepirid STADA / Tablett / STADA Arzneimittel AG / Indraget; 26271 / Glimepirid Bluefish / Tablett / Bluefish Pharmaceuticals AB / Indraget; 22681 / Glimepirid Actavis / Tablett / Actavis Group PTC ehf. / Indraget; 22679 / Glimepirid Actavis / Tablett / Actavis Group PTC ehf. / Indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 26270, 22683, 26271, 22681, 22679 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-glimepiride-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -121,7 +123,7 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 
 <!-- review:begin se-lic-20261106-glimepiride-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är alla svenska godkännanden indragna, och den troliga förklaringen till den höga poängen är sambandet mellan diabetes och GAD-relaterad autoimmunitet.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 11, varav giltiga: 11; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är alla svenska godkännanden indragna, och den troliga förklaringen till den höga poängen är sambandet mellan diabetes och GAD-relaterad autoimmunitet.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-glimepiride-2 -->
 
@@ -134,7 +136,7 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 
 <!-- review:begin se-lic-20261106-glimepiride-3 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargörande av marknadsstatus, eftersom inget giltigt godkännande för glimepirid finns i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 11, varav giltiga: 11; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargörande av marknadsstatus, eftersom inget giltigt godkännande för glimepirid finns i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-glimepiride-3 -->
 
@@ -146,10 +148,10 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga 11 godkännanden är indragna och inget är för närvarande giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”essutom är alla svenska godkännanden indragna, och d” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”eftersom inget giltigt godkännande för glimepirid finns i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 5 godkännanden (26270, 22683, 26271, 22681, 22679) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Samtliga 11 godkännanden är indragna och inget är för närvarande giltigt” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”essutom är alla svenska godkännanden indragna, och d” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom inget giltigt godkännande för glimepirid finns i Sverige” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (26270, 22683, 26271, 22681, 22679) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

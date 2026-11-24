@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 285
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "methoxsalen"
 predicted_indications: ["localized pagetoid reticulosis", "neoplasm of mature B-cells", "small intestinal Burkitt lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "vulvar inverted follicular keratosis"]
 description: "Methoxsalen: predikterad ny indikation Localized pagetoid reticulosis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
@@ -91,15 +91,15 @@ Denna indikation överlappar kraftigt med den redan godkända användningen och 
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 23246 | Uvadex | Lösning för modifiering av blodfraktion | Indikationstext saknas |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-methoxsalen-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 23246 | Uvadex | Lösning för modifiering av blodfraktion | Therakos Europe Limited | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”23246 (indraget) / Uvadex / Lösning för modifiering av blodfraktion / Indikationstext saknas” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 23246 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-methoxsalen-1 -->
+<!-- licenses:end -->
 
 Tillverkare: Therakos Europe Limited.
 
@@ -145,7 +145,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 <!-- review:begin se-lic-20261106-methoxsalen-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen för lokaliserad pagetoid retikulos har en mycket hög modellpoäng och en rimlig biologisk grund, men saknar helt kliniska prövningar och litteratur. Dessutom är det enda svenska godkännandet indraget, och produktresumétexten saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen för lokaliserad pagetoid retikulos har en mycket hög modellpoäng och en rimlig biologisk grund, men saknar helt kliniska prövningar och litteratur. Dessutom är det enda svenska godkännandet indraget, och produktresumétexten saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-methoxsalen-1 -->
 
@@ -166,8 +166,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Dessutom är det enda svenska godkännandet indraget, och produktresumétexten saknas” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 1 godkännande (23246) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Dessutom är det enda svenska godkännandet indraget, och produktresumétexten saknas” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 1 godkännande (23246) är godkänd, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 | 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa (reviderad 2026-11-20; tidigare version sparad i posten) | [ChEMBL CHEMBL416 (methoxsalen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416) |
 
 <!-- review:end log -->

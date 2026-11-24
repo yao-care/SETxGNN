@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 385
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Rocuronium: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Uppgift saknas i licensdata (neuromuskulär blockad vid anestesi är de…"
 monitor_inn: "rocuronium"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "atrophoderma vermiculata", "ulerythema ophryogenesis", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "sciatic neuropathy", "headache disorder"]
@@ -78,13 +78,21 @@ Något rimligt samband mellan denna mekanism och migrän har inte identifierats.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 66601 | Rocuronium bromide Noridem | Injektions-/infusionsvätska, lösning | Uppgift saknas (godkänd) |
-| 25536 | Rocuronium Fresenius Kabi | Injektions-/infusionsvätska, lösning | Uppgift saknas (godkänd) |
-| 62215 | Rocuronium Accord | Injektionsvätska, lösning i förfylld spruta | Uppgift saknas (godkänd) |
-| 25535 | Rocuronium hameln | Injektions-/infusionsvätska, lösning | Uppgift saknas (godkänd) |
-| 25537 | Rocuronium B. Braun | Injektions-/infusionsvätska, lösning | Uppgift saknas (godkänd) |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 66601 | Rocuronium bromide Noridem | Injektions-/infusionsvätska, lösning | Noridem Enterprises Ltd | Godkänd |
+| 25536 | Rocuronium Fresenius Kabi | Injektions-/infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 62215 | Rocuronium Accord | Injektionsvätska, lösning i förfylld spruta | Accord Healthcare B.V. | Godkänd |
+| 25535 | Rocuronium hameln | Injektions-/infusionsvätska, lösning | Hameln Pharma gmbh | Godkänd |
+| 25537 | Rocuronium B. Braun | Injektions-/infusionsvätska, lösning | B. Braun Melsungen AG | Godkänd |
+
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

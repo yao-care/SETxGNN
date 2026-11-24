@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "cetirizine"
 predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cetirizine: predikterad ny indikation Näshåleesjukdom (nasal cavity disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 13 (giltiga: 13)"
 ---
 
@@ -86,13 +86,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 43145 | Cetirizin Apofri | Filmdragerad tablett | Ej angiven |
-| 16450 | Cetirizin Viatris | Filmdragerad tablett | Ej angiven |
-| 11673 | Zyrlex | Orala droppar, lösning | Ej angiven |
-| 55580 | Cetirizin ABECE | Filmdragerad tablett | Ej angiven |
-| 48138 | Vialerg | Filmdragerad tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 43145 | Cetirizin Apofri | Filmdragerad tablett | Evolan Pharma AB | Godkänd |
+| 16450 | Cetirizin Viatris | Filmdragerad tablett | Viatris Limited | Godkänd |
+| 11673 | Zyrlex | Orala droppar, lösning | MACURE PHARMA ApS | Godkänd |
+| 55580 | Cetirizin ABECE | Filmdragerad tablett | Evolan Pharma AB | Godkänd |
+| 48138 | Vialerg | Filmdragerad tablett | Orifarm Generics A/S | Godkänd |
+
+Tabellen visar 5 av 13 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

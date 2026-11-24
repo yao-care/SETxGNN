@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 316
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "nintedanib"
 predicted_indications: ["dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
 description: "Nintedanib: predikterad ny indikation Dermatofibrosarcoma protuberans (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -92,13 +92,21 @@ De fem första godkännandena visas nedan.
 
 <!-- review:end se-lic-20261106-nintedanib-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 66087 | Nintedanib Reddy | Kapsel, mjuk | Uppgift saknas |
-| 66086 | Nintedanib Reddy | Kapsel, mjuk | Uppgift saknas |
-| 64150 | Nintedanib Zentiva | Kapsel, mjuk | Uppgift saknas |
-| 64550 | Nintedanib Intas | Kapsel, mjuk | Uppgift saknas |
-| 64225 | Nifibro | Kapsel, mjuk | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 66087 | Nintedanib Reddy | Kapsel, mjuk | Reddy Holding GmbH | Godkänd |
+| 66086 | Nintedanib Reddy | Kapsel, mjuk | Reddy Holding GmbH | Godkänd |
+| 64150 | Nintedanib Zentiva | Kapsel, mjuk | Zentiva k.s. | Godkänd |
+| 64550 | Nintedanib Intas | Kapsel, mjuk | Intas Third Party Sales 2005 S.L. | Godkänd |
+| 64225 | Nifibro | Kapsel, mjuk | Lotus Pharma Bulgaria EOOD | Avregistrerad |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

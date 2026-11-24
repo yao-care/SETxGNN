@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 249
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "lactulose"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
 description: "Lactulose: predikterad ny indikation Acute urate nephropathy (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
@@ -84,22 +84,22 @@ Indikationstext saknas för samtliga godkännanden i underlaget.
 
 <!-- review:begin se-lic-20261106-lactulose-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla fyra godkännanden är indragna, och ingen produkt är för närvarande marknadsförd som enskilt godkänt läkemedel. Indikationstext saknas för samtliga godkännanden i underlaget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla fyra godkännanden är indragna, och ingen produkt är för närvarande marknadsförd som enskilt godkänt läkemedel. Indikationstext saknas för samtliga godkännanden i underlaget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-lactulose-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
-|---------|------|------|-----------|------|
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
 | 45433 | Lactulose Fresenius | Oral lösning i dospåse | Fresenius Kabi Austria GmbH | Godkänd |
 | 10293 | Laktulos Cooper | Oral lösning | Cooper Consumer Health B.V. | Godkänd |
 | 44378 | Laktulos Levolac | Oral lösning | Fresenius Kabi Austria GmbH | Godkänd |
 | 10212 | Duphalac | Oral lösning | Cooper Consumer Health B.V. | Godkänd |
 
-<!-- review:begin se-row-20261112-lactulose-1 -->
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”45433 / Lactulose Fresenius / Oral lösning i dospåse / Fresenius Kabi Austria GmbH / Indraget; 10293 / Laktulos Cooper / Oral lösning / Cooper Consumer Health B.V. / Indraget; 44378 / Laktulos Levolac / Oral lösning / Fresenius Kabi Austria GmbH / Indraget; 10212 / Duphalac / Oral lösning / Cooper Consumer Health B.V. / Indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 45433, 10293, 44378, 10212 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
-
-<!-- review:end se-row-20261112-lactulose-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -121,7 +121,7 @@ För varningar och kontraindikationer enligt godkänd produktinformation, se pro
 
 <!-- review:begin se-lic-20261106-lactulose-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det finns inga prövningar, ingen litteratur och ingen känd mekanism som kopplar laktulos till urinsyrahantering eller tumörlysis. / Samtliga svenska godkännanden är indragna och säkerhetsunderlaget är ofullständigt.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det finns inga prövningar, ingen litteratur och ingen känd mekanism som kopplar laktulos till urinsyrahantering eller tumörlysis. / Samtliga svenska godkännanden är indragna och säkerhetsunderlaget är ofullständigt.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-lactulose-2 -->
 
@@ -133,7 +133,7 @@ För varningar och kontraindikationer enligt godkänd produktinformation, se pro
 
 <!-- review:begin se-lic-20261106-lactulose-3 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”En förnyad genomgång av marknadsstatus, eftersom inga produkter för närvarande är godkända i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”En förnyad genomgång av marknadsstatus, eftersom inga produkter för närvarande är godkända i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-lactulose-3 -->
 
@@ -145,10 +145,10 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Alla fyra godkännanden är indragna, och ingen produkt är för närvarande marknadsförd som enskilt godkänt läkemedel” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är indragna och säkerhetsunderlaget är ofullständigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”eftersom inga produkter för närvarande är godkända i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 4 godkännanden (45433, 10293, 44378, 10212) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Alla fyra godkännanden är indragna, och ingen produkt är för närvarande marknadsförd som enskilt godkänt läkemedel” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är indragna och säkerhetsunderlaget är ofullständigt” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom inga produkter för närvarande är godkända i Sverige” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 4 godkännanden (45433, 10293, 44378, 10212) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

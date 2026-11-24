@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "adenosine"
 predicted_indications: ["obsolete bundle branch block"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Adenosine: predikterad ny indikation Obsolet grenblock (obsolete bundle branch block) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
@@ -80,10 +80,16 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 19361 | Adenosin Life Medical | Injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
-| 67173 | Adenosin Macure | Injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 19361 | Adenosin Life Medical | Injektions-/infusionsvätska, lösning | Evolan Pharma AB | Godkänd |
+| 67173 | Adenosin Macure | Injektions-/infusionsvätska, lösning | Macure Healthcare Limited | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Antalet godkännanden i listan kan inte tolkas som ett komplett underlag för indikationer, eftersom ingen indikationstext finns registrerad.
 

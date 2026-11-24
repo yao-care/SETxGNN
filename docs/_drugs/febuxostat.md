@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 189
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 monitor_inn: "FEBUXOSTAT"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
 description: "Febuxostat: predikterad ny indikation Renal hypourikemi (hypouricemia, renal) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 2)"
@@ -89,15 +89,17 @@ Den höga modellpoängen beror sannolikt på att läkemedel och sjukdom ligger n
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 56645 | Febuxostat Accord (Accord Healthcare B.V.) | Filmdragerad tablett | Ingen indikationstext angiven (status: avregistrerad) |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-febuxostat-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 56645 | Febuxostat Accord | Filmdragerad tablett | Accord Healthcare B.V. | Avregistrerad |
+| 55201 | Feburo | Filmdragerad tablett | G.L. Pharma GmbH | Godkänd |
+| 55202 | Feburo | Filmdragerad tablett | G.L. Pharma GmbH | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”56645 / Febuxostat Accord (Accord Healthcare B.V.) / Filmdragerad tablett / Ingen indikationstext angiven (status: godkänd)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 56645 status Avregistrerad; tabellen angav det som godkänt. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-febuxostat-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -140,7 +142,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-12 | Tabell: 56645 är avregistrerat, inte godkänt | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-12 | Tabell: 56645 är avregistrerat, inte godkänt | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 | 2026-11-16 | Nästa steg: två av tre svenska godkännanden är giltiga, inte bara ett avregistrerat | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->

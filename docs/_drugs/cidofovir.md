@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "cidofovir"
 predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Cidofovir: predikterad ny indikation Skleroserande kolangit (sclerosing cholangitis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
@@ -80,9 +80,15 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 59808 | Cidofovir Macure | Koncentrat till infusionsvätska, lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 59808 | Cidofovir Macure | Koncentrat till infusionsvätska, lösning | MACURE PHARMA ApS | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

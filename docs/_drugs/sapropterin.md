@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 392
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "sapropterin"
 predicted_indications: ["disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome"]
 description: "Sapropterin: predikterad ny indikation Rubbning av tyrosinmetabolismen (disorder of tyrosine metabolism) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
@@ -92,10 +92,16 @@ Litteraturen nedan gäller huvudsakligen fenylketonuri och sapropterinbehandling
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 61616 | Sapropterin Teva (TEVA GmbH) | Löslig tablett | Uppgift saknas (godkänt) |
-| 63805 | Sapropterin STADA (STADA Arzneimittel AG) | Löslig tablett | Uppgift saknas (godkänt) |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 61616 | Sapropterin Teva | Löslig tablett | TEVA GmbH | Godkänd |
+| 63805 | Sapropterin STADA | Löslig tablett | STADA Arzneimittel AG | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Båda godkännandena är giltiga.
 

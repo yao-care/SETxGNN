@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 246
 evidence_level: L1
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "ketorolac"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
 description: "Ketorolac: predikterad ny indikation Huvudvärkssjukdom (headache disorder) (evidensnivå L1). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
@@ -110,12 +110,18 @@ Nedan visas de 10 mest relevanta publikationerna (av 18 identifierade). Systemat
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 57843 | Ketorolac S.A.L.F. | Injektionsvätska, lösning | Ingen indikationstext tillgänglig (godkänd) |
-| 59533 | Caloket | Injektions-/infusionsvätska, lösning | Ingen indikationstext tillgänglig (godkänd) |
-| 63519 | Toradol | Injektionsvätska, lösning | Ingen indikationstext tillgänglig (godkänd) |
-| 11215 | Toradol | Injektionsvätska, lösning | Ingen indikationstext tillgänglig (godkänd) |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 57843 | Ketorolac S.A.L.F. | Injektionsvätska, lösning | S.A.L.F. SpA Laboratorio Farmacologico | Godkänd |
+| 59533 | Caloket | Injektions-/infusionsvätska, lösning | EQL Pharma AB | Godkänd |
+| 63519 | Toradol | Injektionsvätska, lösning | Ebb Medical AB | Godkänd |
+| 11215 | Toradol | Injektionsvätska, lösning | Atnahs Pharma Netherlands B.V. | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -141,7 +147,7 @@ Produktresumén bör konsulteras för fullständig information om varningar, eft
 
 <!-- review:begin se-lic-20261106-ketorolac-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Evidensen för ketorolak vid akut migrän och spänningshuvudvärk är omfattande, med flera avslutade prövningar, systematiska översikter och riktlinjer, och mekanismen (COX-hämning) är väletablerad. / Samtliga svenska godkännanden är avregistrerade, kontraindikationslistan är lång och uppgifter från produktresumén om varningar saknas, så en säkerhetsgenomgång krävs innan nästa steg.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Evidensen för ketorolak vid akut migrän och spänningshuvudvärk är omfattande, med flera avslutade prövningar, systematiska översikter och riktlinjer, och mekanismen (COX-hämning) är väletablerad. / Samtliga svenska godkännanden är avregistrerade, kontraindikationslistan är lång och uppgifter från produktresumén om varningar saknas, så en säkerhetsgenomgång krävs innan nästa steg.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-ketorolac-1 -->
 
@@ -160,7 +166,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är avregistrerade, kontraindikationslistan är lång och uppgifter från produktresumén om varningar saknas, så e” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är avregistrerade, kontraindikationslistan är lång och uppgifter från produktresumén om varningar saknas, så e” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 299
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "MISOPROSTOL"
 predicted_indications: ["amenorrhea (disease)", "atypical coarctation of aorta"]
 description: "Misoprostol: predikterad ny indikation Amenorré (amenorrhea (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
@@ -92,11 +92,17 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Ingen indikationstext finns i data.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 46903 | Topogyne (Exelgyn, Paris) | Tablett | Ej angiven |
-| 11033 | Cytotec (Pfizer AB) | Tablett | Ej angiven |
-| 54486 | Angusta (Norgine BV) | Tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 46903 | Topogyne | Tablett | Exelgyn, Paris | Godkänd |
+| 11033 | Cytotec | Tablett | Pfizer AB | Godkänd |
+| 54486 | Angusta | Tablett | Norgine BV | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

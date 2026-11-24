@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "calcipotriol"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "vulvovaginitis", "vulvitis", "vulvar neoplasm", "ulceration of vulva", "vulvar squamous neoplasm", "postmenopausal atrophic vaginitis", "bone Paget disease", "breast fibrocystic disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Calcipotriol: predikterad ny indikation Seborroisk keratos (seborrheic keratosis) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
@@ -82,6 +82,22 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 ---
 
 ## Marknadsinformation Sverige
+
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 25649 | Daivobet | Gel | LEO Pharma A/S | Godkänd |
+| 48254 | Calcipotriol/Betamethasone Teva | Salva | Teva Sweden AB | Godkänd |
+| 52772 | Enstilar | Kutant skum | LEO Pharma A/S | Godkänd |
+| 56537 | Enstilar | Kutant skum | Medartuum AB | Godkänd |
+| 58470 | Enstilar | Kutant skum | Abacus Medicine A/S | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Kalcipotriol finns som läkemedel i Sverige i beredningsformerna salva, kutant skum, gel och kräm. Enligt de lokala uppgifterna är marknadsstatusen "på marknaden". Uppgifterna om godkännanden kan vara ofullständiga, och produkterna i de lokala data är kombinationsprodukter med betametason, så deras godkännanden beskriver inte kalcipotriol som enskild substans. Indikationstext finns inte registrerad i de lokala data.
 

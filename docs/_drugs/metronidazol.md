@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00916
 monitor_inn: "Metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Metronidazol: predikterad ny indikation Pneumocystos (pneumocystosis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 13 (giltiga: 13)"
 ---
 
@@ -94,13 +94,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 63714 | Metronidazole Braun | Infusionsvätska, lösning | Ej angiven i lokala data |
-| 8689 | Metronidazol Actavis | Filmdragerad tablett | Ej angiven i lokala data |
-| 16267 | Zidoval | Vaginalgel | Ej angiven i lokala data |
-| 9539 | Flagyl | Tablett | Ej angiven i lokala data |
-| 13982 | Rozex | Gel | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 63714 | Metronidazole Braun | Infusionsvätska, lösning | Ebb Medical AB | Godkänd |
+| 8689 | Metronidazol Actavis | Filmdragerad tablett | Actavis Group PTC ehf. | Godkänd |
+| 16267 | Zidoval | Vaginalgel | Exeltis Healthcare, S.L. | Godkänd |
+| 9539 | Flagyl | Tablett | Fidia Farmaceutici S.p.A. | Godkänd |
+| 13982 | Rozex | Gel | Galderma Nordic AB | Godkänd |
+
+Tabellen visar 5 av 13 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Fler godkännanden finns i de lokala uppgifterna (totalt 13 giltiga enkomponentsprodukter), men endast de fem första visas här.
 

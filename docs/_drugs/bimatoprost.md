@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BIMATOPROST"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Bimatoprost: predikterad ny indikation Missbildningssyndrom med tand- och/eller tandlossningskomponent (malformation syndrome with odontal and/or periodontal… (evidensnivå L5). Ursprunglig indikation…"
 ---
 
@@ -82,13 +82,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Enligt de lokala uppgifterna finns 15 godkännanden för bimatoprost i Sverige, och marknadsstatus anges som marknadsförd. Indikationstext finns inte registrerad i de lokala licensposterna. Nedan visas fem av godkännandena.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 65434 | Bimaprez | Ögondroppar, lösning | Ej angiven |
-| 50475 | Bimatoprost STADA | Ögondroppar, lösning | Ej angiven |
-| 50476 | Bimatoprost STADA | Ögondroppar, lösning | Ej angiven |
-| 63517 | Bimatoprost STADA | Ögondroppar, lösning | Ej angiven |
-| 62186 | Iricryn | Ögondroppar, lösning | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 65434 | Bimaprez | Ögondroppar, lösning | Blumont Ofta Trading Ltd | Godkänd |
+| 50475 | Bimatoprost STADA | Ögondroppar, lösning | STADA Arzneimittel AG | Godkänd |
+| 50476 | Bimatoprost STADA | Ögondroppar, lösning | STADA Arzneimittel AG | Godkänd |
+| 63517 | Bimatoprost STADA | Ögondroppar, lösning | Ebb Medical AB | Godkänd |
+| 62186 | Iricryn | Ögondroppar, lösning | Zaklady Farmaceutyczne Polpharma SA | Godkänd |
+
+Tabellen visar 5 av 15 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

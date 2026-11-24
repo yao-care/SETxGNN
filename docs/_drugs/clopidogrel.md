@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "clopidogrel"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Clopidogrel: predikterad ny indikation Migrän med hjärnstamsaura (migraine with brainstem aura) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 
@@ -94,6 +94,19 @@ Ingen av publikationerna studerar migrän med hjärnstamsaura specifikt. De gäl
 ---
 
 ### Marknadsinformation Sverige
+
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 27811 | Cloriocard | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 27946 | Clopidogrel Actavis | Filmdragerad tablett | Actavis Group PTC ehf. | Godkänd |
+| 28027 | Clopidogrel Aliud | Filmdragerad tablett | ALIUD PHARMA GmbH | Godkänd |
+| 61695 | Clopidogrel Medical Valley | Filmdragerad tablett | Medical Valley Invest AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Klopidogrel finns i Sverige som filmdragerad tablett för oralt bruk. Enligt de lokala uppgifterna är marknadsstatus marknadsförd.
 

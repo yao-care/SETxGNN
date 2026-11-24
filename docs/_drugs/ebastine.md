@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 157
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "ebastine"
 predicted_indications: ["coronary artery disease", "myocardial ischemia"]
 description: "Ebastine: predikterad ny indikation Kranskärlssjukdom (coronary artery disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -90,13 +90,21 @@ Indikationstext finns inte registrerad för något av dem. Nedan visas fem av go
 
 <!-- review:end se-lic-20261106-ebastine-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 43724 | Ebastine Teva | Munsönderfallande tablett | Godkänt |
-| 56838 | Ebastin Ebb | Filmdragerad tablett | Godkänt |
-| 65892 | Kestine | Filmdragerad tablett | Godkänt |
-| 48993 | Ebastine Viatris | Munsönderfallande tablett | Avregistrerad |
-| 20130 | Kestine | Frystorkad tablett | Godkänt |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 43724 | Ebastine Teva | Munsönderfallande tablett | Teva Sweden AB | Godkänd |
+| 56838 | Ebastin Ebb | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 65892 | Kestine | Filmdragerad tablett | 2care4 ApS | Godkänd |
+| 48993 | Ebastine Viatris | Munsönderfallande tablett | Viatris Limited | Avregistrerad |
+| 20130 | Kestine | Frystorkad tablett | Almirall S.A. | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

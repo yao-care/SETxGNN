@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 338
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Parecoxib: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L3). Ursprunglig indikation: Ej angiven i tillgängliga licensuppgifter"
 monitor_inn: "parecoxib"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension"]
@@ -88,17 +88,17 @@ Observera att de två prekliniska studierna är kopplade till den relaterade pos
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 60191 | Parecoxib Noridem | Pulver till injektionsvätska, lösning | Ej angiven |
-| 60190 | Parecoxib Noridem | Pulver och vätska till injektionsvätska, lösning | Ej angiven |
-| 65728 | Parecoxib Macure | Pulver till injektionsvätska, lösning | Ej angiven |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-parecoxib-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 60191 | Parecoxib Noridem | Pulver till injektionsvätska, lösning | Noridem Enterprises Ltd | Godkänd |
+| 60190 | Parecoxib Noridem | Pulver och vätska till injektionsvätska, lösning | Noridem Enterprises Ltd | Godkänd |
+| 65728 | Parecoxib Macure | Pulver till injektionsvätska, lösning | MACURE PHARMA ApS | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”60191 / Parecoxib Noridem / Pulver till injektionsvätska, lösning / Ej angiven (indraget); 60190 / Parecoxib Noridem / Pulver och vätska till injektionsvätska, lösning / Ej angiven (indraget); 65728 / Parecoxib Macure / Pulver till injektionsvätska, lösning / Ej angiven (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 60191, 60190, 65728 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-parecoxib-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -119,7 +119,7 @@ Ett teoretiskt säkerhetsproblem gäller för de relaterade förutsägelserna: C
 
 <!-- review:begin se-lic-20261106-parecoxib-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den kliniska evidensen består av en enda pilotstudie vars design inte är bekräftad, inga kliniska prövningar är registrerade, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den kliniska evidensen består av en enda pilotstudie vars design inte är bekräftad, inga kliniska prövningar är registrerade, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-parecoxib-1 -->
 
@@ -146,8 +146,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 3 godkännanden (60191, 60190, 65728) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 3 godkännanden (60191, 60190, 65728) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

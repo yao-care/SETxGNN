@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 229
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "IBUPROFEN"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Ibuprofen: predikterad ny indikation Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala up…"
@@ -78,13 +78,21 @@ Ingen indikationstext finns tillgänglig. Nedan visas fem av dem.
 
 <!-- review:end se-lic-20261106-ibuprofen-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 43450 | Ibuprofen ABECE | Oral suspension | – |
-| 9801 | Ibumetin | Tablett | – |
-| 65417 | Ibuprofen Hualan | Filmdragerad tablett | – |
-| 58440 | Ibuprofen Viatris | Oral suspension i dospåse | – |
-| 54209 | Ibuprofen B. Braun | Infusionsvätska, lösning | – |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 43450 | Ibuprofen ABECE | Oral suspension | Evolan Pharma AB | Godkänd |
+| 9801 | Ibumetin | Tablett | Orifarm Healthcare A/S | Godkänd |
+| 65417 | Ibuprofen Hualan | Filmdragerad tablett | Hualan Pharmaceuticals Limited | Godkänd |
+| 58440 | Ibuprofen Viatris | Oral suspension i dospåse | Viatris Limited | Godkänd |
+| 54209 | Ibuprofen B. Braun | Infusionsvätska, lösning | B. Braun Melsungen AG | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

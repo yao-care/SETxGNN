@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 252
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "landiolol"
 predicted_indications: ["lingual-facial-buccal dyskinesia", "chronic tic disorder", "psychogenic movement disorders", "extrapyramidal and movement disease", "benign shuddering attacks", "primary orthostatic tremor"]
 description: "Landiolol: predikterad ny indikation Lingual-facial-buccal dyskinesia (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
@@ -71,7 +71,7 @@ Sambandet mellan den ursprungliga och den nya indikationen är därför svagt oc
 
 <!-- review:begin se-lic-20261106-landiolol-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Båda godkännandena innehas av Amomed Pharma GmbH och är indragna. Det finns därför inget giltigt godkännande i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Båda godkännandena innehas av Amomed Pharma GmbH och är indragna. Det finns därför inget giltigt godkännande i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-landiolol-1 -->
 
@@ -85,16 +85,16 @@ Sambandet mellan den ursprungliga och den nya indikationen är därför svagt oc
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation | Status |
-|---------|------|------|-----------|------|
-| 52381 | Rapibloc | Pulver till infusionsvätska, lösning | Ingen indikationstext registrerad | Godkänd |
-| 52383 | Rapibloc | Koncentrat till injektionsvätska, lösning | Ingen indikationstext registrerad | Godkänd |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-landiolol-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 52381 | Rapibloc | Pulver till infusionsvätska, lösning | Amomed Pharma GmbH | Godkänd |
+| 52383 | Rapibloc | Koncentrat till injektionsvätska, lösning | Amomed Pharma GmbH | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”52381 / Rapibloc / Pulver till infusionsvätska, lösning / Ingen indikationstext registrerad / Indragen; 52383 / Rapibloc / Koncentrat till injektionsvätska, lösning / Ingen indikationstext registrerad / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 52381, 52383 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-landiolol-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -121,7 +121,7 @@ Se produktresumén för varningar, kontraindikationer och övrig säkerhetsinfor
 
 <!-- review:begin se-lic-20261106-landiolol-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Utvärdera om det finns prekliniska data som visar att landiolol har effekt i centrala nervsystemet, samt om administrationsvägen är förenlig med kronisk behandling. / Ta hänsyn till att alla svenska godkännanden är indragna när eventuell fortsatt utvärdering övervägs.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Utvärdera om det finns prekliniska data som visar att landiolol har effekt i centrala nervsystemet, samt om administrationsvägen är förenlig med kronisk behandling. / Ta hänsyn till att alla svenska godkännanden är indragna när eventuell fortsatt utvärdering övervägs.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-landiolol-2 -->
 
@@ -133,9 +133,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Båda godkännandena innehas av Amomed Pharma GmbH och är indragna. Det finns därför inget giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Ta hänsyn till att alla svenska godkännanden är indragna när eventuell fortsatt utvärdering övervägs” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 2 godkännanden (52381, 52383) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Båda godkännandena innehas av Amomed Pharma GmbH och är indragna. Det finns därför inget giltigt godkännande i Sverige” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Ta hänsyn till att alla svenska godkännanden är indragna när eventuell fortsatt utvärdering övervägs” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 2 godkännanden (52381, 52383) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

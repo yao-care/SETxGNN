@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 130
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "deferiprone"
 predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "hepatoportal sclerosis", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary"]
 description: "Deferiprone: predikterad ny indikation Hepatisk porfyri (hepatic porphyria) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 5 (giltiga: 5)"
@@ -68,7 +68,7 @@ Två prekliniska studier stöder resonemanget. En studie från 2020 visade att j
 
 <!-- review:begin se-lic-20261106-deferiprone-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga fem godkännanden är indragna, och inget läkemedel med deferipron har för närvarande giltigt godkännande i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga fem godkännanden är indragna, och inget läkemedel med deferipron har för närvarande giltigt godkännande i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-deferiprone-1 -->
 
@@ -85,19 +85,19 @@ Två prekliniska studier stöder resonemanget. En studie från 2020 visade att j
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 55997 | Deferiprone DOC | Filmdragerad tablett | Ej angiven |
-| 50975 | Deferipron Evolan | Filmdragerad tablett | Ej angiven |
-| 64937 | Deferipron Ebb | Filmdragerad tablett | Ej angiven |
-| 55996 | Deferiprone DOC | Filmdragerad tablett | Ej angiven |
-| 50974 | Deferipron Evolan | Filmdragerad tablett | Ej angiven |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-deferiprone-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 55997 | Deferiprone DOC | Filmdragerad tablett | DOC Generici Srl | Godkänd |
+| 50975 | Deferipron Evolan | Filmdragerad tablett | Evolan Pharma AB | Godkänd |
+| 64937 | Deferipron Ebb | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 55996 | Deferiprone DOC | Filmdragerad tablett | DOC Generici Srl | Godkänd |
+| 50974 | Deferipron Evolan | Filmdragerad tablett | Evolan Pharma AB | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”55997 / Deferiprone DOC / Filmdragerad tablett / Ej angiven (indraget); 50975 / Deferipron Evolan / Filmdragerad tablett / Ej angiven (indraget); 64937 / Deferipron Ebb / Filmdragerad tablett / Ej angiven (indraget); 55996 / Deferiprone DOC / Filmdragerad tablett / Ej angiven (indraget); 50974 / Deferipron Evolan / Filmdragerad tablett / Ej angiven (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 55997, 50975, 64937, 55996, 50974 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-deferiprone-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -123,7 +123,7 @@ Två prekliniska studier stöder resonemanget. En studie från 2020 visade att j
 
 <!-- review:begin se-lic-20261106-deferiprone-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Evidensen för hepatisk porfyri är begränsad till två prekliniska djurstudier utan kliniska prövningar, och läkemedlet saknar för närvarande giltigt godkännande i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Evidensen för hepatisk porfyri är begränsad till två prekliniska djurstudier utan kliniska prövningar, och läkemedlet saknar för närvarande giltigt godkännande i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-deferiprone-2 -->
 
@@ -136,7 +136,7 @@ Två prekliniska studier stöder resonemanget. En studie från 2020 visade att j
 
 <!-- review:begin se-lic-20261106-deferiprone-3 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra läkemedlets regulatoriska status, eftersom alla godkännanden är indragna” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra läkemedlets regulatoriska status, eftersom alla godkännanden är indragna” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-deferiprone-3 -->
 
@@ -148,10 +148,10 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga fem godkännanden är indragna, och inget läkemedel med deferipron har för närvarande giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”och läkemedlet saknar för närvarande giltigt godkännande i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 5 godkännanden (55997, 50975, 64937, 55996, 50974) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Samtliga fem godkännanden är indragna, och inget läkemedel med deferipron har för närvarande giltigt godkännande i Sverige” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och läkemedlet saknar för närvarande giltigt godkännande i Sverige” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (55997, 50975, 64937, 55996, 50974) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 | 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Ferriprox (deferiprone) prescribing information, Chiesi USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=946718ff-df43-1baa-74d1-e5bcfbe8ad86) |
 
 <!-- review:end log -->

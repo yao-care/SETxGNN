@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "cinchocaine"
 predicted_indications: ["bronchitis", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Cinchocaine: predikterad ny indikation Bronkit (bronchitis) (evidensnivå L5). Ursprunglig indikation: Det godkända användningsområdet är inte angivet i de lokala data"
 ---
 
@@ -82,11 +82,17 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 7653 | Scheriproct | Suppositorium | Ej angiven i lokala data |
-| 7652 | Scheriproct | Rektalsalva | Ej angiven i lokala data |
-| 57835 | Mekostest 36 | Plåster för provokationstest | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 7653 | Scheriproct | Suppositorium | Karo Pharma AB | Godkänd |
+| 7652 | Scheriproct | Rektalsalva | Karo Pharma AB | Godkänd |
+| 57835 | Mekostest 36 | Plåster för provokationstest | SmartPractice Denmark ApS | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Tillverkare: Karo Pharma AB (Scheriproct) och SmartPractice Denmark ApS (Mekostest 36).
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "cysteine"
 predicted_indications: ["dry eye syndrome", "closed-angle glaucoma", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis", "exercise-induced malignant hyperthermia", "angle-closure glaucoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Cysteine: predikterad ny indikation Torrt öga-syndrom (dry eye syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 9 (giltiga: 9)"
 ---
 
@@ -95,13 +95,21 @@ Ingen av publikationerna studerar cystein som behandling av torrt öga. Evidense
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Ej angiven i lokala data |
-| 10095 | Vamin 14 g N/l elektrolytfri | Infusionsvätska, lösning | Ej angiven i lokala data |
-| 11469 | Vaminolac | Infusionsvätska, lösning | Ej angiven i lokala data |
-| 65618 | Pedismof Preterm | Infusionsvätska, emulsion | Ej angiven i lokala data |
-| 52833 | Numeta G13E | Infusionsvätska, emulsion | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 10095 | Vamin 14 g N/l elektrolytfri | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 11469 | Vaminolac | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 65618 | Pedismof Preterm | Infusionsvätska, emulsion | Fresenius Kabi AB | Godkänd |
+| 52833 | Numeta G13E | Infusionsvätska, emulsion | Baxter Medical AB | Godkänd |
+
+Tabellen visar 5 av 9 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB01238
 monitor_inn: "Aripiprazole"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Aripiprazol: predikterad ny indikation Familjär horisontell blickpares med progressiv skolios (gaze palsy, familial horizontal, with progressive scoliosis) (evidensnivå L5)."
 ---
 
@@ -83,13 +83,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Aripiprazol är marknadsfört i Sverige. Minst 20 godkännanden för enkomponentsprodukter är giltiga, och listan kan vara ofullständig. Inga godkännanden är avregistrerade eller icke marknadsförda.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 60340 | Aripiprazol Ebb | Tablett | Ej angiven i lokala data |
-| 51316 | Aripiprazol STADA | Munsönderfallande tablett | Ej angiven i lokala data |
-| 51310 | Aripiprazol Krka | Tablett | Ej angiven i lokala data |
-| 51419 | Aripiprazole Medical Valley | Tablett | Ej angiven i lokala data |
-| 68387 | Aripiprazol Abacus Medicine | Oral lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 60340 | Aripiprazol Ebb | Tablett | Ebb Medical AB | Godkänd |
+| 51316 | Aripiprazol STADA | Munsönderfallande tablett | STADA Arzneimittel AG | Godkänd |
+| 51310 | Aripiprazol Krka | Tablett | Krka d.d., Novo mesto | Godkänd |
+| 51419 | Aripiprazole Medical Valley | Tablett | Medical Valley Invest AB | Godkänd |
+| 68387 | Aripiprazol Abacus Medicine | Oral lösning | Abacus Medicine A/S | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

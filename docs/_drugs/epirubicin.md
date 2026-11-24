@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 169
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 monitor_inn: "epirubicin"
 predicted_indications: ["primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "small cell lung carcinoma", "pulmonary blastoma", "lung mixed small cell and squamous cell carcinoma", "myeloid leukemia", "upper aerodigestive tract neoplasm"]
 description: "Epirubicin: predikterad ny indikation Primärt pulmonellt lymfom (primary pulmonary lymphoma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
@@ -93,11 +93,17 @@ Ingen av publikationerna testar epirubicin vid primärt pulmonellt lymfom. De ä
 
 Epirubicin är på marknaden i Sverige. Alla tre registrerade godkännanden är giltiga.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 25493 | Epirubicin Accord | Injektions-/infusionsvätska, lösning | Godkänd |
-| 26349 | Epirubicin Teva | Injektions-/infusionsvätska, lösning | Godkänd |
-| 18343 | Epirubicin Ebewe | Injektionsvätska, lösning | Godkänd |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 25493 | Epirubicin Accord | Injektions-/infusionsvätska, lösning | Accord Healthcare B.V. | Godkänd |
+| 26349 | Epirubicin Teva | Injektions-/infusionsvätska, lösning | Teva Sweden AB | Godkänd |
+| 18343 | Epirubicin Ebewe | Injektionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.Kommanditgesellschaft | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

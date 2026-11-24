@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "alfacalcidol"
 predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Alfacalcidol: predikterad ny indikation Kraniofacial konodysplasi (craniofacial conodysplasia) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 7)"
 ---
 
@@ -82,15 +82,23 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 13971 | Etalpha | Kapsel, mjuk | Indikationstext saknas i lokala data |
-| 9391 | Etalpha | Kapsel, mjuk | Indikationstext saknas i lokala data |
-| 14055 | Etalpha | Orala droppar, lösning | Indikationstext saknas i lokala data |
-| 59110 | Alfacalcidol Strides | Kapsel, mjuk | Indikationstext saknas i lokala data |
-| 11367 | Etalpha | Injektionsvätska, lösning | Indikationstext saknas i lokala data |
+<!-- licenses:begin -->
 
-Alla sju godkännanden är giltiga och avser enkomponentsprodukter. Tabellen visar de fem första.
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 13971 | Etalpha | Kapsel, mjuk | Cheplapharm Arzneimittel GmbH | Godkänd |
+| 9391 | Etalpha | Kapsel, mjuk | Cheplapharm Arzneimittel GmbH | Godkänd |
+| 14055 | Etalpha | Orala droppar, lösning | Cheplapharm Arzneimittel GmbH | Godkänd |
+| 59110 | Alfacalcidol Strides | Kapsel, mjuk | Strides Nordic ApS | Godkänd |
+| 11367 | Etalpha | Injektionsvätska, lösning | Cheplapharm Arzneimittel GmbH | Godkänd |
+
+Tabellen visar 5 av 7 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
+
+Alla sju godkännanden är giltiga och avser enkomponentsprodukter.
 
 ---
 

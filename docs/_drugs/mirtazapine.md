@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 298
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "mirtazapine"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
 description: "Mirtazapine: predikterad ny indikation Ohdo syndrome and variants (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -75,13 +75,21 @@ Ytterligare två förutsägelser pekar åt samma håll och är inte oberoende av
 
 Ingen godkänd indikationstext finns registrerad. De fem första visas nedan.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 62255 | Mirtazapin Abacus Medicine | Filmdragerad tablett | Ej angiven |
-| 67264 | Mirtazapin Newbury | Filmdragerad tablett | Ej angiven |
-| 23928 | Mirtazapin Orion | Munsönderfallande tablett | Ej angiven |
-| 60235 | Mirtazapin 2care4 | Filmdragerad tablett | Ej angiven |
-| 25837 | Mirtin | Munsönderfallande tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 62255 | Mirtazapin Abacus Medicine | Filmdragerad tablett | Abacus Medicine A/S | Godkänd |
+| 67264 | Mirtazapin Newbury | Filmdragerad tablett | Newbury Pharmaceuticals AB | Godkänd |
+| 23928 | Mirtazapin Orion | Munsönderfallande tablett | Orion Corporation | Godkänd |
+| 60235 | Mirtazapin 2care4 | Filmdragerad tablett | 2care4 ApS | Godkänd |
+| 25837 | Mirtin | Munsönderfallande tablett | Krka d.d., Novo mesto | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

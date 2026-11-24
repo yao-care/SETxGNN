@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "temozolomide"
 predicted_indications: ["cauda equina neoplasm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Temozolomide: predikterad ny indikation Tumör i cauda equina (cauda equina neoplasm) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 5 (giltiga: 5)"
 ---
 
@@ -88,13 +88,19 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 42159 | Temozolomid STADA | Kapsel, hård | Ingen indikationstext angiven |
-| 42160 | Temozolomid STADA | Kapsel, hård | Ingen indikationstext angiven |
-| 42161 | Temozolomid STADA | Kapsel, hård | Ingen indikationstext angiven |
-| 42158 | Temozolomid STADA | Kapsel, hård | Ingen indikationstext angiven |
-| 42162 | Temozolomid STADA | Kapsel, hård | Ingen indikationstext angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 42159 | Temozolomid STADA | Kapsel, hård | STADA Arzneimittel AG | Godkänd |
+| 42160 | Temozolomid STADA | Kapsel, hård | STADA Arzneimittel AG | Godkänd |
+| 42161 | Temozolomid STADA | Kapsel, hård | STADA Arzneimittel AG | Godkänd |
+| 42158 | Temozolomid STADA | Kapsel, hård | STADA Arzneimittel AG | Godkänd |
+| 42162 | Temozolomid STADA | Kapsel, hård | STADA Arzneimittel AG | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Alla fem godkännandena avser enkomponentsprodukter från STADA Arzneimittel AG.
 

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 435
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "TRAVOPROST"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
 description: "Travoprost: predikterad ny indikation Visceral calciphylaxis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 10 (giltiga: 10)"
@@ -83,23 +83,25 @@ Indikationstexter saknas i registret.
 
 <!-- review:begin se-lic-20261106-travoprost-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 10 godkännanden är indragna. Indikationstexter saknas i registret.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 10, varav giltiga: 10; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 10 godkännanden är indragna. Indikationstexter saknas i registret.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-travoprost-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 48021 | Travoprost STADA | Ögondroppar, lösning | Godkänd |
-| 64362 | Trevicopto | Ögondroppar, lösning i endosbehållare | Godkänd |
-| 48012 | Travoprost Medical Valley | Ögondroppar, lösning | Godkänd |
-| 48062 | Travoprost Sandoz | Ögondroppar, lösning | Godkänd |
-| 51223 | Bondulc | Ögondroppar, lösning | Godkänd |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-travoprost-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 48021 | Travoprost STADA | Ögondroppar, lösning | STADA Arzneimittel AG | Godkänd |
+| 64362 | Trevicopto | Ögondroppar, lösning i endosbehållare | Uni-Pharma Kleon Tsetis Pharmaceutical Laboratories S.A. | Godkänd |
+| 48012 | Travoprost Medical Valley | Ögondroppar, lösning | Medical Valley Invest AB | Godkänd |
+| 48062 | Travoprost Sandoz | Ögondroppar, lösning | Sandoz A/S | Godkänd |
+| 51223 | Bondulc | Ögondroppar, lösning | Actavis Group PTC ehf. | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”48021 / Travoprost STADA / Ögondroppar, lösning / Indragen; 64362 / Trevicopto / Ögondroppar, lösning i endosbehållare / Indragen; 48012 / Travoprost Medical Valley / Ögondroppar, lösning / Indragen; 48062 / Travoprost Sandoz / Ögondroppar, lösning / Indragen; 51223 / Bondulc / Ögondroppar, lösning / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 48021, 64362, 48012, 48062, 51223 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Tabellen visar 5 av 10 godkännanden i uppgifterna.
 
-<!-- review:end se-row-20261112-travoprost-1 -->
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -122,7 +124,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 
 <!-- review:begin se-lic-20261106-travoprost-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen för visceral kalcifylaxi bygger enbart på modellen, utan studier eller litteratur, och ett rimligt mekanistiskt samband saknas. Dessutom är samtliga svenska godkännanden indragna och ögondroppar ger låg systemisk exponering.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 10, varav giltiga: 10; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen för visceral kalcifylaxi bygger enbart på modellen, utan studier eller litteratur, och ett rimligt mekanistiskt samband saknas. Dessutom är samtliga svenska godkännanden indragna och ögondroppar ger låg systemisk exponering.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-travoprost-2 -->
 
@@ -135,7 +137,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 
 <!-- review:begin se-lic-20261106-travoprost-3 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra läkemedlets nuvarande regulatoriska status i Sverige, eftersom alla godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 10, varav giltiga: 10; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra läkemedlets nuvarande regulatoriska status i Sverige, eftersom alla godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-travoprost-3 -->
 
@@ -147,10 +149,10 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga 10 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna och ögondroppar ger låg systemisk exponering” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 5 godkännanden (48021, 64362, 48012, 48062, 51223) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Samtliga 10 godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna och ögondroppar ger låg systemisk exponering” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (48021, 64362, 48012, 48062, 51223) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

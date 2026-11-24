@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 230
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Ifosfamide: predikterad ny indikation Bröstcancer hos kvinnor (female breast carcinoma) (evidensnivå L5). Ursprunglig indikation: Alkylerande cytostatika vid cancer"
 monitor_inn: "ifosfamide"
 predicted_indications: ["female breast carcinoma", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "rhabdomyosarcoma (disease)", "myelodysplastic syndrome", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
@@ -68,7 +68,7 @@ Ifosfamid är inte ett standardläkemedel vid bröstcancer, och inga fas 3-studi
 
 <!-- review:begin se-lic-20261106-ifosfamide-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga godkännanden innehas av Baxter Medical AB och är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga godkännanden innehas av Baxter Medical AB och är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-ifosfamide-1 -->
 
@@ -106,18 +106,18 @@ Ifosfamid är inte ett standardläkemedel vid bröstcancer, och inga fas 3-studi
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 11097-1 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven |
-| 67829 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven |
-| 67828 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven |
-| 67827 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Ingen indikationstext angiven |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-ifosfamide-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 11097-1 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Baxter Medical AB | Godkänd |
+| 67829 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Baxter Medical AB | Godkänd |
+| 67828 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Baxter Medical AB | Godkänd |
+| 67827 | Holoxan | Pulver till injektions-/infusionsvätska, lösning | Baxter Medical AB | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”11097-1 / Holoxan / Pulver till injektions-/infusionsvätska, lösning / Ingen indikationstext angiven (indraget); 67829 / Holoxan / Pulver till injektions-/infusionsvätska, lösning / Ingen indikationstext angiven (indraget); 67828 / Holoxan / Pulver till injektions-/infusionsvätska, lösning / Ingen indikationstext angiven (indraget); 67827 / Holoxan / Pulver till injektions-/infusionsvätska, lösning / Ingen indikationstext angiven (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 11097-1, 67829, 67828, 67827 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-ifosfamide-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -166,7 +166,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 <!-- review:begin se-lic-20261106-ifosfamide-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla svenska godkännanden är indragna, och läkemedlet har betydande risker (benmärgspåverkan, njur- och nervtoxicitet, sekundär leukemi).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla svenska godkännanden är indragna, och läkemedlet har betydande risker (benmärgspåverkan, njur- och nervtoxicitet, sekundär leukemi).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-ifosfamide-2 -->
 
@@ -177,7 +177,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 <!-- review:begin se-lic-20261106-ifosfamide-3 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Produktresumé med fullständiga varningar, kontraindikationer och dosering, samt klarhet i hur läkemedlet kan tillhandahållas i Sverige nu när godkännandena är indragna. / Bedömning av nytta och risk, särskilt njurfunktion, benmärgsreserv och risken för sekundär malignitet.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Produktresumé med fullständiga varningar, kontraindikationer och dosering, samt klarhet i hur läkemedlet kan tillhandahållas i Sverige nu när godkännandena är indragna. / Bedömning av nytta och risk, särskilt njurfunktion, benmärgsreserv och risken för sekundär malignitet.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-ifosfamide-3 -->
 
@@ -189,10 +189,10 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga godkännanden innehas av Baxter Medical AB och är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, och l” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Produktresumé med fullständiga varningar, kontraindikationer och dosering, samt klarhet i hur läkemedlet kan tillhandahållas i Sverige nu nä” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 4 godkännanden (11097-1, 67829, 67828, 67827) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Samtliga godkännanden innehas av Baxter Medical AB och är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, och l” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Produktresumé med fullständiga varningar, kontraindikationer och dosering, samt klarhet i hur läkemedlet kan tillhandahållas i Sverige nu nä” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 4 godkännanden (11097-1, 67829, 67828, 67827) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

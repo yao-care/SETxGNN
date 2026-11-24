@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 259
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "levobupivacaine"
 predicted_indications: ["gastroduodenitis"]
 description: "Levobupivacaine: predikterad ny indikation Gastroduodenitis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
@@ -70,16 +70,16 @@ Det höga poängvärdet (0,9909) kommer från en prediktion från TxGNN-modellen
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 64618 | Levobupivacaine Molteni | Injektions-/infusionsvätska, lösning | Ej angiven |
-| 64617 | Levobupivacaine Molteni | Injektions-/infusionsvätska, lösning | Ej angiven |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-levobupivacaine-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 64618 | Levobupivacaine Molteni | Injektions-/infusionsvätska, lösning | L Molteni & C Dei F.LLI Alitti Societa di Esercizio SpA | Godkänd |
+| 64617 | Levobupivacaine Molteni | Injektions-/infusionsvätska, lösning | L Molteni & C Dei F.LLI Alitti Societa di Esercizio SpA | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”64618 / Levobupivacaine Molteni / Injektions-/infusionsvätska, lösning / Ej angiven (indragen); 64617 / Levobupivacaine Molteni / Injektions-/infusionsvätska, lösning / Ej angiven (indragen)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 64618, 64617 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-levobupivacaine-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -123,7 +123,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom uppgifter o
 
 <!-- review:begin se-lic-20261106-levobupivacaine-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra läkemedlets regulatoriska status, eftersom alla godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra läkemedlets regulatoriska status, eftersom alla godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-levobupivacaine-1 -->
 
@@ -135,8 +135,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 2 godkännanden (64618, 64617) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”eftersom alla godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 2 godkännanden (64618, 64617) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

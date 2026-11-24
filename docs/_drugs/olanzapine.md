@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 324
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Olanzapine: predikterad ny indikation Benign paroxysmal torticollis of infancy (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -72,13 +72,21 @@ Säkerheten är dessutom en tydlig oro. Antipsykotika till spädbarn är problem
 
 Indikationstext saknas i data för samtliga. Fem av godkännandena visas nedan.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 61905 | Olanzapin 2care4 | Tablett | Uppgift saknas |
-| 26972 | Olanzapin STADA | Munsönderfallande tablett | Uppgift saknas |
-| 26748 | Olanzapin Actavis | Filmdragerad tablett | Uppgift saknas |
-| 27724 | Olanzapine Accord | Filmdragerad tablett | Uppgift saknas |
-| 24651 | Olanzapin Sandoz | Filmdragerad tablett | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 61905 | Olanzapin 2care4 | Tablett | 2care4 ApS | Godkänd |
+| 26972 | Olanzapin STADA | Munsönderfallande tablett | STADA Arzneimittel AG | Godkänd |
+| 26748 | Olanzapin Actavis | Filmdragerad tablett | Actavis Group PTC ehf. | Godkänd |
+| 27724 | Olanzapine Accord | Filmdragerad tablett | Accord Healthcare B.V. | Godkänd |
+| 24651 | Olanzapin Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

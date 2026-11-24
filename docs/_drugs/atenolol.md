@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ATENOLOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Atenolol: predikterad ny indikation Malign hypertensiv njursjukdom (malignant hypertensive renal disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 14 (giltiga: 14)"
 ---
 
@@ -84,13 +84,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Atenolol har 14 giltiga godkännanden för enkomponentsprodukter i Sverige. Indikationstext finns inte registrerad i de lokala uppgifterna. Nedan visas de fem första.
 
-| Godkännandenummer | Produktnamn | Beredningsform |
-|---------|------|------|
-| 10918 | Atenolol Viatris | Tablett |
-| 64404 | Atenolol Medical Valley | Filmdragerad tablett |
-| 43006 | Atenolol Accord | Tablett |
-| 11163 | Atenolol Teva | Filmdragerad tablett |
-| 11162 | Atenolol Teva | Filmdragerad tablett |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 10918 | Atenolol Viatris | Tablett | Viatris Limited | Godkänd |
+| 64404 | Atenolol Medical Valley | Filmdragerad tablett | Medical Valley Invest AB | Godkänd |
+| 43006 | Atenolol Accord | Tablett | Accord Healthcare B.V. | Godkänd |
+| 11163 | Atenolol Teva | Filmdragerad tablett | Teva Sweden AB | Godkänd |
+| 11162 | Atenolol Teva | Filmdragerad tablett | Teva Sweden AB | Godkänd |
+
+Tabellen visar 5 av 14 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

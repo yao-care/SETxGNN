@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 377
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "RIFABUTIN"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "sclerosing cholangitis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "conjunctivitis", "leprosy", "endocarditis", "pneumocystosis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
 description: "Rifabutin: predikterad ny indikation HIV-infektion (HIV infectious disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
@@ -108,9 +108,15 @@ Ingen av publikationerna visar att rifabutin behandlar själva HIV-infektionen. 
 
 Rifabutin är marknadsfört i Sverige. Det finns ett giltigt godkännande.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 11962 | Ansatipin (Pfizer AB) | Kapsel, hård | Ej angiven (status: godkänd) |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 11962 | Ansatipin | Kapsel, hård | Pfizer AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

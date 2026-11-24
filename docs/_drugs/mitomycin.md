@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 300
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "MITOMYCIN"
 predicted_indications: ["osteoclastic giant cell tumor of pancreas", "solid pseudopapillary carcinoma of pancreas", "pancreatic carcinoma with mixed differentiation", "mixed ductal-endocrine carcinoma of pancreas", "undifferentiated pancreatic carcinoma", "pancreatic intraductal papillary-mucinous neoplasm", "pancreatic acinar cell cystadenocarcinoma"]
 description: "Mitomycin: predikterad ny indikation Osteoklastisk jättecellstumör i bukspottkörteln (osteoclastic giant cell tumor of pancreas) (evidensnivå L5)."
@@ -82,17 +82,17 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Marknadsstatus: marknadsförd. Alla tre godkännanden i underlaget är giltiga.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 45894 | Mitomycin Substipharm | Pulver till injektions-/infusionsvätska, lösning | Godkänd |
-| 45895 | Mitomycin Substipharm | Pulver och vätska till intravesikal lösning | Godkänd |
-| 50421 | Mitomycin medac | Pulver och vätska till intravesikal lösning | Godkänd |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-mitomycin-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 45894 | Mitomycin Substipharm | Pulver till injektions-/infusionsvätska, lösning | Substipharm | Godkänd |
+| 45895 | Mitomycin Substipharm | Pulver och vätska till intravesikal lösning | Substipharm | Godkänd |
+| 50421 | Mitomycin medac | Pulver och vätska till intravesikal lösning | medac GmbH | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”45894 / Mitomycin Substipharm / Pulver till injektions-/infusionsvätska, lösning / Indragen; 45895 / Mitomycin Substipharm / Pulver och vätska till intravesikal lösning / Indragen; 50421 / Mitomycin medac / Pulver och vätska till intravesikal lösning / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 45894, 45895, 50421 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-mitomycin-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -145,7 +145,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-12 | Tabell: 3 godkännanden (45894, 45895, 50421) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-12 | Tabell: 3 godkännanden (45894, 45895, 50421) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

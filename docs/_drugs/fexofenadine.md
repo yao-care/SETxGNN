@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 195
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "fexofenadine"
 predicted_indications: ["rosacea conjunctivitis"]
 description: "Fexofenadine: predikterad ny indikation Rosacea conjunctivitis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 18 (giltiga: 16)"
@@ -72,13 +72,21 @@ Kopplingen är dock **indirekt**. Ögonrosacea drivs främst av dysfunktion i me
 
 Godkänd indikationstext saknas för samtliga poster. Nedan visas de fem första godkännandena.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 50412 | Fexofenadin Cipla | Filmdragerad tablett | Godkänd |
-| 67616 | Fexofenadine Amarox | Filmdragerad tablett | Godkänd |
-| 25735 | Nefoxef | Filmdragerad tablett | Godkänd |
-| 60873 | Fexofenadine Amarox | Filmdragerad tablett | Godkänd |
-| 56375 | Fexofenadine Bluefish | Filmdragerad tablett | Avregistrerad |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 50412 | Fexofenadin Cipla | Filmdragerad tablett | Cipla Europe NV | Godkänd |
+| 67616 | Fexofenadine Amarox | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 25735 | Nefoxef | Filmdragerad tablett | Viatris Limited | Godkänd |
+| 60873 | Fexofenadine Amarox | Filmdragerad tablett | Amarox Pharma B.V | Godkänd |
+| 56375 | Fexofenadine Bluefish | Filmdragerad tablett | Bluefish Pharmaceuticals AB | Avregistrerad |
+
+Tabellen visar 5 av 18 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -102,7 +110,7 @@ Godkänd indikationstext saknas för samtliga poster. Nedan visas de fem första
 
 <!-- review:begin se-lic-20261106-fexofenadine-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga svenska godkännanden är avregistrerade, och säkerhetsdata från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 18, varav giltiga: 16; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga svenska godkännanden är avregistrerade, och säkerhetsdata från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-fexofenadine-1 -->
 
@@ -115,7 +123,7 @@ Godkänd indikationstext saknas för samtliga poster. Nedan visas de fem första
 
 <!-- review:begin se-lic-20261106-fexofenadine-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargörande av marknadsstatus, eftersom inget gällande godkännande finns i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 18, varav giltiga: 16; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargörande av marknadsstatus, eftersom inget gällande godkännande finns i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-fexofenadine-2 -->
 
@@ -127,8 +135,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”amtliga svenska godkännanden är avregistrerade, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”eftersom inget gällande godkännande finns i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”amtliga svenska godkännanden är avregistrerade, och s” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom inget gällande godkännande finns i Sverige” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

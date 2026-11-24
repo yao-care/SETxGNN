@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "daunorubicin"
 predicted_indications: ["Hodgkins lymphoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "neuroblastoma", "ALK-positive large B-cell lymphoma", "adenosarcoma", "retroperitoneal neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "pulmonary blastoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Daunorubicin: predikterad ny indikation Hodgkins lymfom (Hodgkins lymphoma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
 ---
 
@@ -96,11 +96,17 @@ Samtliga studier rör antingen andra lymfomtyper (icke-Hodgkin) eller allmän an
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 9244 | Cerubidin | Pulver till infusionsvätska, lösning | Ej angiven i lokala data |
-| 64289 | Daunorubicin Hikma | Infusionsvätska, lösning | Ej angiven i lokala data |
-| 51240 | Cerubidine | Pulver till infusionsvätska, lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 9244 | Cerubidin | Pulver till infusionsvätska, lösning | Sanofi AB | Godkänd |
+| 64289 | Daunorubicin Hikma | Infusionsvätska, lösning | Hikma Farmacêutica (Portugal) S.A. | Godkänd |
+| 51240 | Cerubidine | Pulver till infusionsvätska, lösning | Orifarm AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

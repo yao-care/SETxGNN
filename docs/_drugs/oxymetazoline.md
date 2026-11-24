@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 333
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "oxymetazoline"
 predicted_indications: ["nasal cavity disease", "headache disorder"]
 description: "Oxymetazoline: predikterad ny indikation Sjukdomar i näshålan (nasal cavity disease) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 14 (giltiga: 14)"
@@ -92,17 +92,25 @@ De fem första visas nedan. Indikationstext saknas i registerdata.
 
 <!-- review:begin se-lic-20261106-oxymetazoline-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 14 godkännanden är avregistrerade. De fem första visas nedan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 14, varav giltiga: 14; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 14 godkännanden är avregistrerade. De fem första visas nedan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-oxymetazoline-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 11670 | Nasin | Nässpray, lösning | Ej angiven |
-| 59018 | Nezebi | Nässpray, lösning | Ej angiven |
-| 11669 | Nasin | Nässpray, lösning | Ej angiven |
-| 7380-2 | Nezeril | Nässpray, lösning | Ej angiven |
-| 10470 | Nezeril | Nässpray, lösning | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 11670 | Nasin | Nässpray, lösning | Perrigo Sverige AB | Godkänd |
+| 59018 | Nezebi | Nässpray, lösning | Perrigo Sverige AB | Godkänd |
+| 11669 | Nasin | Nässpray, lösning | Perrigo Sverige AB | Godkänd |
+| 7380-2 | Nezeril | Nässpray, lösning | Perrigo Sverige AB | Godkänd |
+| 10470 | Nezeril | Nässpray, lösning | Perrigo Sverige AB | Godkänd |
+
+Tabellen visar 5 av 14 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Det finns även godkännanden för näsdroppar, lösning i endosbehållare (Nezeril, 8683 och 8684), samt Vicks Sinex (13104).
 
@@ -134,7 +142,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varnings- o
 
 <!-- review:begin se-lic-20261106-oxymetazoline-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Genomföra eller identifiera kontrollerade kliniska studier och klargöra den regulatoriska statusen, eftersom inget godkännande är giltigt.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 14, varav giltiga: 14; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Genomföra eller identifiera kontrollerade kliniska studier och klargöra den regulatoriska statusen, eftersom inget godkännande är giltigt.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-oxymetazoline-2 -->
 
@@ -149,8 +157,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga 14 godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”eftersom inget godkännande är giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga 14 godkännanden är avregistrerade” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom inget godkännande är giltigt” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

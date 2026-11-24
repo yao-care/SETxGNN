@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 286
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "methylphenidate"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
 description: "Methylphenidate: predikterad ny indikation Faciodigitogenitalt syndrom (faciodigitogenital syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -112,19 +112,21 @@ Ingen godkänd indikationstext finns registrerad. Nedan visas fem av dem.
 
 <!-- review:end se-lic-20261106-methylphenidate-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 23837 | Medikinet | Tablett | Godkänd |
-| 23840 | Medikinet | Kapsel med modifierad frisättning, hård | Godkänd |
-| 50408 | Ritalin | Kapsel med modifierad frisättning, hård | Godkänd |
-| 58475 | Methylphenidate STADA | Depottablett | Godkänd |
-| 61711 | Affenid | Kapsel med modifierad frisättning, hård | Godkänd |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-methylphenidate-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 23837 | Medikinet | Tablett | Medice Arzneimittel Ptter GmbH & Co. KG | Godkänd |
+| 23840 | Medikinet | Kapsel med modifierad frisättning, hård | Medice Arzneimittel Ptter GmbH & Co. KG | Godkänd |
+| 50408 | Ritalin | Kapsel med modifierad frisättning, hård | INFECTOPHARM Arzneimittel und Consilium GmbH | Godkänd |
+| 58475 | Methylphenidate STADA | Depottablett | STADA Arzneimittel AG | Godkänd |
+| 61711 | Affenid | Kapsel med modifierad frisättning, hård | Zentiva k.s. | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”23837 / Medikinet / Tablett / Indragen; 23840 / Medikinet / Kapsel med modifierad frisättning, hård / Indragen; 50408 / Ritalin / Kapsel med modifierad frisättning, hård / Indragen; 58475 / Methylphenidate STADA / Depottablett / Indragen; 61711 / Affenid / Kapsel med modifierad frisättning, hård / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 23837, 23840, 50408, 58475, 61711 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
 
-<!-- review:end se-row-20261112-methylphenidate-1 -->
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -170,7 +172,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 5 godkännanden (23837, 23840, 50408, 58475, 61711) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-12 | Tabell: 5 godkännanden (23837, 23840, 50408, 58475, 61711) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

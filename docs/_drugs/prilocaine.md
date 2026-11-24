@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 364
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "prilocaine"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
 description: "Prilocaine: predikterad ny indikation Papillär konjunktivit (papillary conjunctivitis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 14 (giltiga: 14)"
@@ -86,17 +86,25 @@ Godkännandena saknar indikationstext i det underlag som sammanställts. Tabelle
 
 <!-- review:begin se-lic-20261106-prilocaine-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 14 godkännanden är indragna och inget är giltigt i dagsläget. Godkännandena saknar indikationstext i det underlag som sammanställts.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 14, varav giltiga: 14; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 14 godkännanden är indragna och inget är giltigt i dagsläget. Godkännandena saknar indikationstext i det underlag som sammanställts.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-prilocaine-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
-|---------|------|------|-----------|
-| 7047 | Citanest | Injektionsvätska, lösning | Aspen Pharma Trading Limited |
-| 48859 | Takipril | Injektionsvätska, lösning | B. Braun Melsungen AG |
-| 66208 | Takipril | Injektionsvätska, lösning | Ebb Medical AB |
-| 10433 | Citanest Dental Octapressin | Injektionsvätska, lösning | Dentsply DeTrey GmbH |
-| 18344 | Oraqix | Periodontalgel | Dentsply DeTrey GmbH |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 7047 | Citanest | Injektionsvätska, lösning | Aspen Pharma Trading Limited | Godkänd |
+| 48859 | Takipril | Injektionsvätska, lösning | B. Braun Melsungen AG | Godkänd |
+| 66208 | Takipril | Injektionsvätska, lösning | Ebb Medical AB | Godkänd |
+| 10433 | Citanest Dental Octapressin | Injektionsvätska, lösning | Dentsply DeTrey GmbH | Godkänd |
+| 18344 | Oraqix | Periodontalgel | Dentsply DeTrey GmbH | Godkänd |
+
+Tabellen visar 5 av 14 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Övriga godkännanden gäller bland annat lidokain/prilokain-kräm och medicinska plåster (EMLA, Tapin, Lidokain/Prilokain Ebb).
 
@@ -139,7 +147,7 @@ Se i övrigt produktresumén för fullständig säkerhetsinformation.
 
 <!-- review:begin se-lic-20261106-prilocaine-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är samtliga svenska godkännanden indragna. / Bland de tio främsta förutsägelserna har **neuralgi** (rank 5, främst postherpetisk neuralgi) mest stöd.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 14, varav giltiga: 14; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är samtliga svenska godkännanden indragna. / Bland de tio främsta förutsägelserna har **neuralgi** (rank 5, främst postherpetisk neuralgi) mest stöd.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-prilocaine-2 -->
 
@@ -151,7 +159,7 @@ Se i övrigt produktresumén för fullständig säkerhetsinformation.
 
 <!-- review:begin se-lic-20261106-prilocaine-3 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”En bedömning av beredningsform och administrationsväg, eftersom inga godkända ögonberedningar finns bland de tidigare godkännandena. / Om fokus i stället flyttas till neuralgi: kontrollerade studier som isolerar prilokains bidrag, samt en bedömning av regulatoriskt läge eftersom godkännandena är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 14, varav giltiga: 14; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”En bedömning av beredningsform och administrationsväg, eftersom inga godkända ögonberedningar finns bland de tidigare godkännandena. / Om fokus i stället flyttas till neuralgi: kontrollerade studier som isolerar prilokains bidrag, samt en bedömning av regulatoriskt läge eftersom godkännandena är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-prilocaine-3 -->
 
@@ -163,9 +171,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Alla 14 godkännanden är indragna och inget är giltigt i dagsläget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Om fokus i stället flyttas till neuralgi: kontrollerade studier som isolerar prilokains bidrag, samt en bedömning av regulatoriskt läge efte” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla 14 godkännanden är indragna och inget är giltigt i dagsläget” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Om fokus i stället flyttas till neuralgi: kontrollerade studier som isolerar prilokains bidrag, samt en bedömning av regulatoriskt läge efte” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

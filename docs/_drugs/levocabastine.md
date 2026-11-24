@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 260
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "levocabastine"
 predicted_indications: ["allergic urticaria", "rosacea conjunctivitis"]
 description: "Levocabastine: predikterad ny indikation Allergic urticaria (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
@@ -86,17 +86,17 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 11504 | Livostin (McNeil Sweden AB) | Nässpray, suspension | Ingen indikationstext angiven |
-| 61691 | Livostin (Ebb Medical AB) | Nässpray, suspension | Ingen indikationstext angiven |
-| 11328 | Livostin (McNeil Sweden AB) | Ögondroppar, suspension | Ingen indikationstext angiven |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-levocabastine-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 11504 | Livostin | Nässpray, suspension | McNeil Sweden AB | Godkänd |
+| 61691 | Livostin | Nässpray, suspension | Ebb Medical AB | Godkänd |
+| 11328 | Livostin | Ögondroppar, suspension | McNeil Sweden AB | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”11504 / Livostin (McNeil Sweden AB) / Nässpray, suspension / Ingen indikationstext angiven (indraget); 61691 / Livostin (Ebb Medical AB) / Nässpray, suspension / Ingen indikationstext angiven (indraget); 11328 / Livostin (McNeil Sweden AB) / Ögondroppar, suspension / Ingen indikationstext angiven (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 11504, 61691, 11328 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-levocabastine-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -118,7 +118,7 @@ Se i övrigt produktresumén för varningar och kontraindikationer.
 
 <!-- review:begin se-lic-20261106-levocabastine-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är alla svenska godkännanden indragna, och de lokala beredningarna har låg systemisk exponering, vilket gör användning vid urtikaria praktiskt osäker.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är alla svenska godkännanden indragna, och de lokala beredningarna har låg systemisk exponering, vilket gör användning vid urtikaria praktiskt osäker.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-levocabastine-1 -->
 
@@ -140,8 +140,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”essutom är alla svenska godkännanden indragna, och d” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 3 godkännanden (11504, 61691, 11328) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”essutom är alla svenska godkännanden indragna, och d” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 3 godkännanden (11504, 61691, 11328) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 282
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "methadone"
 predicted_indications: ["Tourette syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "headache disorder", "manic bipolar affective disorder", "trigeminal autonomic cephalalgia", "common cold"]
 description: "Methadone: predikterad ny indikation Tourette syndrome (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -93,13 +93,21 @@ Indikationstext saknas i alla godkännanden. Fem av dem visas som exempel:
 
 <!-- review:end se-lic-20261106-methadone-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 42985 | Metadon Nordic Drugs | Oral lösning | Uppgift saknas |
-| 55835 | Metadon Abcur | Tablett | Uppgift saknas |
-| 45796 | Metadon DnE | Oral lösning | Uppgift saknas |
-| 28045 | Methadone Martindale Pharma | Oral lösning | Uppgift saknas |
-| 56732 | Metadon 2care4 | Tablett | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 42985 | Metadon Nordic Drugs | Oral lösning | Nordic Drugs AB | Godkänd |
+| 55835 | Metadon Abcur | Tablett | Abcur AB | Godkänd |
+| 45796 | Metadon DnE | Oral lösning | DNE Pharma AS | Godkänd |
+| 28045 | Methadone Martindale Pharma | Oral lösning | Ethypharm SA | Godkänd |
+| 56732 | Metadon 2care4 | Tablett | 2care4 Generics ApS | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

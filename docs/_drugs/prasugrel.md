@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 359
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PRASUGREL"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
 description: "Prasugrel: predikterad ny indikation Pulmonary hypertension (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 7)"
@@ -85,17 +85,25 @@ De fem första visas nedan.
 
 <!-- review:begin se-lic-20261106-prasugrel-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 7 godkännanden är avregistrerade och inget är giltigt. De fem första visas nedan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 7 godkännanden är avregistrerade och inget är giltigt. De fem första visas nedan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-prasugrel-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 66918 | Prasugrel EQL Pharma | Filmdragerad tablett | Godkänd |
-| 64420 | Prasugrel G.L. Pharma | Filmdragerad tablett | Godkänd |
-| 61204 | Prasugrel Ebb | Filmdragerad tablett | Godkänd |
-| 64419 | Prasugrel G.L. Pharma | Filmdragerad tablett | Godkänd |
-| 66917 | Prasugrel EQL Pharma | Filmdragerad tablett | Godkänd |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 66918 | Prasugrel EQL Pharma | Filmdragerad tablett | EQL Pharma AB | Godkänd |
+| 64420 | Prasugrel G.L. Pharma | Filmdragerad tablett | G.L. Pharma GmbH | Godkänd |
+| 61204 | Prasugrel Ebb | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 64419 | Prasugrel G.L. Pharma | Filmdragerad tablett | G.L. Pharma GmbH | Godkänd |
+| 66917 | Prasugrel EQL Pharma | Filmdragerad tablett | EQL Pharma AB | Godkänd |
+
+Tabellen visar 5 av 7 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -135,7 +143,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga 7 godkännanden är avregistrerade och inget är giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga 7 godkännanden är avregistrerade och inget är giltigt” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Effient (prasugrel hydrochloride) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69ea2d58-5353-4222-b61f-cab976fa7e5e) |
 
 <!-- review:end log -->

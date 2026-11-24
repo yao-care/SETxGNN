@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 179
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "ethosuximide"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Ethosuximide: predikterad ny indikation Nephrogenic syndrome of inappropriate antidiuresis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 8 (giltiga: 8)"
@@ -72,13 +72,21 @@ Den mycket höga poängen (0,9991) är en beräknad förutsägelse och ska inte 
 
 Godkända indikationstexter saknas i datan. Fem av godkännandena visas nedan.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
-|---------|------|------|-----------|
-| 68510 | Etosuximid 2care4 | Oral lösning | 2care4 ApS |
-| 58150 | Ethosuximide Orifarm | Kapsel, mjuk | Orifarm Generics A/S |
-| 61462 | Etosuximid Ebb | Oral lösning | Ebb Medical AB |
-| 6837 | Suxinutin | Oral lösning | Essential Pharma (M) Ltd |
-| 64700 | Ethosuximide Strides | Kapsel, mjuk | Strides Nordic ApS |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 68510 | Etosuximid 2care4 | Oral lösning | 2care4 ApS | Godkänd |
+| 58150 | Ethosuximide Orifarm | Kapsel, mjuk | Orifarm Generics A/S | Godkänd |
+| 61462 | Etosuximid Ebb | Oral lösning | Ebb Medical AB | Godkänd |
+| 6837 | Suxinutin | Oral lösning | Essential Pharma (M) Ltd | Godkänd |
+| 64700 | Ethosuximide Strides | Kapsel, mjuk | Strides Nordic ApS | Godkänd |
+
+Tabellen visar 5 av 8 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

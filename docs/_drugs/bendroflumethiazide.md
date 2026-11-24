@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "bendroflumethiazide"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Bendroflumethiazide: predikterad ny indikation Malign hypertensiv njursjukdom (malignant hypertensive renal disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 10 (giltiga: 10)"
 ---
 
@@ -80,15 +80,29 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Enligt de lokala data finns 10 godkännanden för enkomponentsprodukter i tablettform (tablett och filmdragerad tablett). Ingen indikationstext finns registrerad i de lokala licensposterna.
+Enligt de lokala data finns godkännanden i tablettform: enkomponentsprodukter som tablett och kombinationsprodukter med kaliumklorid (Centyl K, Centyl K mite) som filmdragerad tablett. Ingen indikationstext finns registrerad i de lokala licensposterna.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 49359 | Bendroflumetiazid Alternova | Tablett | Ej angiven |
-| 46484 | Bendroflumetiazid Evolan | Tablett | Ej angiven |
-| 6368 | Salures | Tablett | Ej angiven |
-| 67239 | Bendozid | Tablett | Ej angiven |
-| 41997 | Centyl K | Filmdragerad tablett | Ej angiven |
+<!-- review:begin se-lic-20261124-bendroflumethiazide-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Enligt de lokala data finns 10 godkännanden för enkomponentsprodukter i tablettform (tablett och filmdragerad tablett).” Enligt Läkemedelsverkets uppgifter är Centyl K och Centyl K mite (filmdragerade tabletter) kombinationsprodukter med bendroflumetiazid och kaliumklorid; texten angav alla godkännanden som enkomponentsprodukter. Uppgiften om enkomponents- och kombinationsprodukter följer de verksamma ämnena i Läkemedelsverkets uppgifter; antal godkännanden och status finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (verksamma ämnen, registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124-bendroflumethiazide-1 -->
+
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 49359 | Bendroflumetiazid Alternova | Tablett | Alternova A/S | Godkänd |
+| 46484 | Bendroflumetiazid Evolan | Tablett | Evolan Pharma AB | Godkänd |
+| 6368 | Salures | Tablett | Pfizer AB | Godkänd |
+| 67239 | Bendozid | Tablett | ExtractumPharma Co. Ltd | Godkänd |
+| 41997 | Centyl K | Filmdragerad tablett | Karo Pharma AB | Godkänd |
+
+Tabellen visar 5 av 10 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -112,6 +126,19 @@ Säkerhetsinformation från produktresumén saknas i de sammanställda data. Se 
 - Systematisk litteratursökning och sökning efter kliniska prövningar för malign hypertensiv njursjukdom
 - Genomgång av produktresumén för varningar och kontraindikationer, särskilt vid njursjukdom
 - Bedömning av läkemedlets plats i behandlingen jämfört med etablerade akutbehandlingar
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-24 | Bendroflumetiazid: de filmdragerade tabletterna är kombinationsprodukter med kaliumklorid | Rättad | [Läkemedelsverket – export av godkända läkemedel (verksamma ämnen, registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

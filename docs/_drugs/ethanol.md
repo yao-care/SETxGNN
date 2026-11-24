@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 177
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Ethanol: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i godkännandedatan"
 monitor_inn: "ethanol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
@@ -102,13 +102,21 @@ Indikationstext saknas för alla. De fem första är:
 
 <!-- review:end se-lic-20261106-ethanol-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 63827 | Streplieve | Sirap | Ej angiven |
-| 59205 | Hedexin | Sirap | Ej angiven |
-| 27132 | Curbisal | Kapsel, mjuk | Ej angiven |
-| 63720 | Strepmuco | Sirap | Ej angiven |
-| 54946 | Sefitude | Dragerad tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 63827 | Streplieve | Sirap | Reckitt Benckiser Healthcare (Scandinavia) A/S | Registrerad |
+| 59205 | Hedexin | Sirap | Phytopharm Kleka Spolka Akcyjna | Godkänd |
+| 27132 | Curbisal | Kapsel, mjuk | Orkla Care A/S | Godkänd |
+| 63720 | Strepmuco | Sirap | RB Health Nordic A/S | Godkänd |
+| 54946 | Sefitude | Dragerad tablett | Florealis ehf. | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

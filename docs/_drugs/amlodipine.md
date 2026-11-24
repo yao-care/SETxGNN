@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-24
 description: "Amlodipine: predikterad ny indikation Hjärnstamsinfarkt (brain stem infarction) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
@@ -84,13 +84,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Enligt de lokala regulatoriska data är marknadsstatus "På marknaden". Listan över godkännanden kan vara ofullständig. Indikationstext saknas i de lokala licenserna.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 43520 | Amlodipine Vitabalans | Tablett | Ej angiven i lokala data |
-| 26703 | Amlodipin Accord | Tablett | Ej angiven i lokala data |
-| 23988 | Amlodipin Bluefish | Tablett | Ej angiven i lokala data |
-| 11287 | Norvasc | Tablett | Ej angiven i lokala data |
-| 54850 | Amlodipin Taw Pharma | Oral suspension | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 43520 | Amlodipine Vitabalans | Tablett | Vitabalans Oy | Godkänd |
+| 26703 | Amlodipin Accord | Tablett | Accord Healthcare B.V. | Godkänd |
+| 23988 | Amlodipin Bluefish | Tablett | Bluefish Pharmaceuticals AB | Godkänd |
+| 11287 | Norvasc | Tablett | Viatris Healthcare Limited | Godkänd |
+| 54850 | Amlodipin Taw Pharma | Oral suspension | Taw Pharma (Ireland) Ltd | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

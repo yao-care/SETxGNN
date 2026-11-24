@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 133
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "dexamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
 description: "Dexamethasone: predikterad ny indikation Alopecia mucinosa (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 19 (giltiga: 19)"
@@ -80,15 +80,29 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 19 godkännanden för enkomponentsprodukter med dexametason är giltiga. Beredningsformerna är tabletter, munsönderfallande film och ögondroppar (suspension). Nedan visas fem av godkännandena.
+Godkännandena för dexametason gäller främst enkomponentsprodukter; det finns också kombinationsprodukter med tobramycin (Tobrasone, Toflacort; ögondroppar, suspension). Beredningsformerna är tabletter, munsönderfallande film och ögondroppar (suspension). Nedan visas fem av godkännandena.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 62588 | Dexamethasone Zentiva | Tablett | Ej angiven |
-| 65236 | Waladex | Tablett | Ej angiven |
-| 60377 | Dexamethasone Abacus Medicine | Tablett | Ej angiven |
-| 62587 | Dexamethasone Zentiva | Tablett | Ej angiven |
-| 47474 | Dexametason Abcur | Tablett | Ej angiven |
+<!-- review:begin se-lic-20261124-dexamethasone-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Alla 19 godkännanden för enkomponentsprodukter med dexametason är giltiga.” Enligt Läkemedelsverkets uppgifter innehåller Tobrasone och Toflacort både dexametason och tobramycin; texten angav alla godkännanden som enkomponentsprodukter. Uppgiften om enkomponents- och kombinationsprodukter följer de verksamma ämnena i Läkemedelsverkets uppgifter; antal godkännanden och status finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (verksamma ämnen, registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124-dexamethasone-1 -->
+
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 62588 | Dexamethasone Zentiva | Tablett | Zentiva k.s. | Godkänd |
+| 65236 | Waladex | Tablett | 2care4 Generics ApS | Godkänd |
+| 60377 | Dexamethasone Abacus Medicine | Tablett | Abacus Medicine A/S | Godkänd |
+| 62587 | Dexamethasone Zentiva | Tablett | Zentiva k.s. | Godkänd |
+| 47474 | Dexametason Abcur | Tablett | Abcur AB | Godkänd |
+
+Tabellen visar 5 av 19 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -116,6 +130,18 @@ Se produktresumén för övrig säkerhetsinformation, såsom varningar och kontr
 - Underlag om dexametasons verkningsmekanism, för att kunna bedöma den mekanistiska kopplingen.
 - Granskning av produktresumén för varningar och kontraindikationer innan en säkerhetsbedömning kan göras.
 - Bedömning av lämplig beredningsform och administreringsväg för sjukdomen, eftersom detta ännu inte har utvärderats.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-24 | Dexametason: Tobrasone och Toflacort är kombinationsprodukter med tobramycin | Rättad | [Läkemedelsverket – export av godkända läkemedel (verksamma ämnen, registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

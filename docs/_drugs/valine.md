@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 445
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 description: "Valine: predikterad ny indikation Skleroserande kolangit (evidensnivå L4). Ursprunglig indikation: Ingen indikationstext tillgänglig i de sammanställda data"
 monitor_inn: "valine"
 predicted_indications: ["sclerosing cholangitis", "angle-closure glaucoma", "hyperthyroidism", "aqueous misdirection", "traumatic glaucoma", "neovascular glaucoma", "glaucomatous atrophy of optic disc", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "obsolete bundle branch block", "hyperthyroxinemia"]
@@ -83,13 +83,21 @@ Indikationstext saknas i de sammanställda data. De fem första visas nedan.
 
 <!-- review:end se-lic-20261106-valine-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 12526 | Glavamin | Infusionsvätska, lösning | Uppgift saknas |
-| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Uppgift saknas |
-| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Uppgift saknas |
-| 10095 | Vamin 14 g N/l elektrolytfri | Infusionsvätska, lösning | Uppgift saknas |
-| 12423 | Nutrineal PD4 1,1 % Aminosyror | Peritonealdialysvätska | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 12526 | Glavamin | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Fresenius Kabi AB | Avregistrerad |
+| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 10095 | Vamin 14 g N/l elektrolytfri | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 12423 | Nutrineal PD4 1,1 % Aminosyror | Peritonealdialysvätska | Vantive AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 225
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "hydrocortisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Hydrocortisone: predikterad ny indikation Alopecia areata (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -97,13 +97,21 @@ Det finns dock en viktig begränsning. I den enda fas 3-prövningen var hydrokor
 
 Hydrokortison finns på den svenska marknaden. Av 20 registrerade godkännanden är 16 giltiga och 4 avregistrerade. Listan kan vara ofullständig. Indikationstext är inte registrerad i de lokala uppgifterna.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 10829 | Mildison Lipid | Kräm | Ej angiven |
-| 11278 | Hydrokortison Evolan | Salva | Ej angiven |
-| 65534 | Nordison | Tablett | Ej angiven |
-| 49341 | Hydrokortison Orion | Tablett | Ej angiven |
-| 61650 | Hydrokortison Strides | Tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 10829 | Mildison Lipid | Kräm | Karo Pharma AB | Godkänd |
+| 11278 | Hydrokortison Evolan | Salva | Evolan Pharma AB | Godkänd |
+| 65534 | Nordison | Tablett | Renata Pharmaceuticals (Ireland) Limited | Godkänd |
+| 49341 | Hydrokortison Orion | Tablett | Orion Corporation | Godkänd |
+| 61650 | Hydrokortison Strides | Tablett | Strides Nordic ApS | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Kräm och salva finns alltså redan som beredningsformer, vilket är relevant för lokal behandling av hårbottens håravfall.
 

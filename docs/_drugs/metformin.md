@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 281
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "metformin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
 description: "Metformin: predikterad ny indikation Fokalt stelbenssyndrom (focal stiff limb syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -86,13 +86,21 @@ Inga godkännanden har en angiven indikationstext i de sammanställda data. Neda
 
 <!-- review:end se-lic-20261106-metformin-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 27729 | Metformin Bluefish | Filmdragerad tablett | Ingen indikationstext angiven |
-| 27669 | Metformin Aurobindo | Filmdragerad tablett | Ingen indikationstext angiven |
-| 10799 | Glucophage | Filmdragerad tablett | Ingen indikationstext angiven |
-| 41978 | Metformin Actavis | Filmdragerad tablett | Ingen indikationstext angiven |
-| 53521 | Metformin Sandoz | Filmdragerad tablett | Ingen indikationstext angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 27729 | Metformin Bluefish | Filmdragerad tablett | Bluefish Pharmaceuticals AB | Godkänd |
+| 27669 | Metformin Aurobindo | Filmdragerad tablett | Aurobindo Pharma (Malta) Limited | Godkänd |
+| 10799 | Glucophage | Filmdragerad tablett | Merck Santé s.a.s. | Godkänd |
+| 41978 | Metformin Actavis | Filmdragerad tablett | Actavis Group PTC ehf. | Godkänd |
+| 53521 | Metformin Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

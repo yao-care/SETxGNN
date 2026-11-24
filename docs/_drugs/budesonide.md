@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "budesonide"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-24
 description: "Budesonide: predikterad ny indikation Atopiskt eksem (atopic eczema) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
@@ -93,13 +93,21 @@ Det finns ingen randomiserad prövning av budesonid vid atopiskt eksem hos männ
 
 Marknadsstatus i Sverige är marknadsförd. I de lokala uppgifterna är 20 godkännanden giltiga. Listan nedan visar de fem första och kan vara ofullständig.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 24924 | Desonix | Nässpray, suspension | Inte registrerad i lokala data |
-| 24925 | Desonix | Nässpray, suspension | Inte registrerad i lokala data |
-| 12353 | Pulmicort | Suspension för nebulisator | Inte registrerad i lokala data |
-| 11679 | Entocort | Tablett och vätska till rektal suspension | Inte registrerad i lokala data |
-| 27882 | Budenofalk | Rektalskum | Inte registrerad i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 24924 | Desonix | Nässpray, suspension | Sandoz A/S | Godkänd |
+| 24925 | Desonix | Nässpray, suspension | Sandoz A/S | Godkänd |
+| 12353 | Pulmicort | Suspension för nebulisator | AstraZeneca AB | Godkänd |
+| 11679 | Entocort | Tablett och vätska till rektal suspension | Tillotts Pharma GmbH | Godkänd |
+| 27882 | Budenofalk | Rektalskum | Dr Falk Pharma GmbH | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Inga av de nuvarande beredningsformerna är avsedda för applicering på huden. Att nå atopiskt eksem skulle därför sannolikt kräva en ny topikal beredning.
 

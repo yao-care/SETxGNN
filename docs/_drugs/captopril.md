@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "captopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Captopril: predikterad ny indikation Malign hypertensiv njursjukdom (malignant hypertensive renal disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
@@ -82,10 +82,16 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 12226 | Captopril Viatris | Tablett | Inte angiven i lokala data |
-| 12227 | Captopril Viatris | Tablett | Inte angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 12226 | Captopril Viatris | Tablett | Viatris Limited | Godkänd |
+| 12227 | Captopril Viatris | Tablett | Viatris Limited | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Båda produkterna innehåller enbart captopril och tillverkas av Viatris Limited.
 

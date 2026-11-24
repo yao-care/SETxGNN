@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 241
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "ivabradine"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Ivabradine: predikterad ny indikation Hypertrikos (hypertrichosis (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
@@ -76,19 +76,21 @@ Samtliga övriga förutsägelser har också evidensnivå L5, utan studier eller 
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 62662 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven |
-| 53688 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven |
-| 62663 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven |
-| 53687 | Ivabradin Medical Valley | Filmdragerad tablett | Ej angiven |
-| 53641 | Ivabradin Krka | Filmdragerad tablett | Ej angiven |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-ivabradine-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 62662 | Ivabradin Medical Valley | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 53688 | Ivabradin Medical Valley | Filmdragerad tablett | Medical Valley Invest AB | Godkänd |
+| 62663 | Ivabradin Medical Valley | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 53687 | Ivabradin Medical Valley | Filmdragerad tablett | Medical Valley Invest AB | Godkänd |
+| 53641 | Ivabradin Krka | Filmdragerad tablett | Krka d.d., Novo mesto | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”62662 / Ivabradin Medical Valley / Filmdragerad tablett / Ej angiven (indragen); 53688 / Ivabradin Medical Valley / Filmdragerad tablett / Ej angiven (indragen); 62663 / Ivabradin Medical Valley / Filmdragerad tablett / Ej angiven (indragen); 53687 / Ivabradin Medical Valley / Filmdragerad tablett / Ej angiven (indragen); 53641 / Ivabradin Krka / Filmdragerad tablett / Ej angiven (indragen)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 62662, 53688, 62663, 53687, 53641 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
 
-<!-- review:end se-row-20261112-ivabradine-1 -->
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Ytterligare ett godkännande (53642, Ivabradin Krka) finns, totalt sex. Alla är indragna, och ingen är giltig för närvarande.
 
@@ -136,7 +138,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-12 | Tabell: 5 godkännanden (62662, 53688, 62663, 53687, 53641) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-12 | Tabell: 5 godkännanden (62662, 53688, 62663, 53687, 53641) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

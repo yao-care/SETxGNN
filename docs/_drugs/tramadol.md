@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 433
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "tramadol"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
 description: "Tramadol: predikterad ny indikation Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala upp…"
@@ -78,13 +78,21 @@ De fem första visas nedan. Godkänd indikationstext saknas för samtliga.
 
 <!-- review:end se-lic-20261106-tramadol-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 13068 | Tradolan | Filmdragerad tablett | – |
-| 13067 | Tradolan | Injektionsvätska, lösning | – |
-| 45574 | Dolatramyl | Depottablett | – |
-| 17258 | Tradolan Retard | Depottablett | – |
-| 45575 | Dolatramyl | Depottablett | – |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 13068 | Tradolan | Filmdragerad tablett | G.L. Pharma GmbH | Godkänd |
+| 13067 | Tradolan | Injektionsvätska, lösning | G.L. Pharma GmbH | Godkänd |
+| 45574 | Dolatramyl | Depottablett | Viatris Limited | Godkänd |
+| 17258 | Tradolan Retard | Depottablett | G.L. Pharma GmbH | Godkänd |
+| 45575 | Dolatramyl | Depottablett | Viatris Limited | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

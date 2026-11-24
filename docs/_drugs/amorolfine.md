@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "amorolfine"
 predicted_indications: ["drug-induced osteoporosis", "disease of retroperitoneum", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal ectopic pregnancy", "celiac trunk compression syndrome", "abdominal cystic lymphangioma", "sacrum chordoma", "lymph node palisaded myofibroblastoma", "urethral disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Amorolfine: predikterad ny indikation Läkemedelsinducerad osteoporos (drug-induced osteoporosis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 5 (giltiga: 5)"
 ---
 
@@ -82,13 +82,19 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 11944 | Loceryl (Galderma Nordic AB) | Medicinskt nagellack | Ej angiven i lokala data |
-| 46742 | Amorolfin Apofri (Evolan Pharma AB) | Medicinskt nagellack | Ej angiven i lokala data |
-| 43849 | Finail (Orifarm Generics A/S) | Medicinskt nagellack | Ej angiven i lokala data |
-| 44704 | Amorolfin Viatris (Viatris Limited) | Medicinskt nagellack | Ej angiven i lokala data |
-| 55132 | Amorolfin ABECE (Evolan Pharma AB) | Medicinskt nagellack | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 11944 | Loceryl | Medicinskt nagellack | Galderma Nordic AB | Godkänd |
+| 46742 | Amorolfin Apofri | Medicinskt nagellack | Evolan Pharma AB | Godkänd |
+| 43849 | Finail | Medicinskt nagellack | Orifarm Generics A/S | Godkänd |
+| 44704 | Amorolfin Viatris | Medicinskt nagellack | Viatris Limited | Godkänd |
+| 55132 | Amorolfin ABECE | Medicinskt nagellack | Evolan Pharma AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

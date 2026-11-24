@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "calcifediol"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Calcifediol: predikterad ny indikation Renal tubular acidosis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
@@ -78,10 +78,16 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 59064 | Rayaldee | Depotkapsel, mjuk | Ej angiven i lokala data |
-| 64724 | Defevix | Kapsel, mjuk | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 59064 | Rayaldee | Depotkapsel, mjuk | Vifor Fresenius Medical Care Renal Pharma France | Godkänd |
+| 64724 | Defevix | Kapsel, mjuk | Berlin-Chemie AG | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

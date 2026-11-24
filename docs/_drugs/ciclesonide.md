@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ciclesonide"
 predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "bronchitis", "contact dermatitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ciclesonide: predikterad ny indikation Atopiskt eksem (atopic eczema) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 9 (giltiga: 9)"
 ---
 
@@ -82,15 +82,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 64179 | Ciclesonide Orifarm | Inhalationsspray, lösning | Ej angiven i lokala data |
-| 21424 | Alvesco | Inhalationsspray, lösning | Ej angiven i lokala data |
-| 63699 | Ciclesonide Sandoz | Inhalationsspray, lösning | Ej angiven i lokala data |
-| 63698 | Ciclesonide Sandoz | Inhalationsspray, lösning | Ej angiven i lokala data |
-| 64598 | Ciclesonide Glenmark | Inhalationsspray, lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
 
-Listan visar fem av de registrerade godkännandena.
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 64179 | Ciclesonide Orifarm | Inhalationsspray, lösning | Orifarm Healthcare A/S | Godkänd |
+| 21424 | Alvesco | Inhalationsspray, lösning | Covis Pharma Europe B.V. | Godkänd |
+| 63699 | Ciclesonide Sandoz | Inhalationsspray, lösning | Sandoz A/S | Godkänd |
+| 63698 | Ciclesonide Sandoz | Inhalationsspray, lösning | Sandoz A/S | Godkänd |
+| 64598 | Ciclesonide Glenmark | Inhalationsspray, lösning | Glenmark Arzneimittel GmbH | Godkänd |
+
+Tabellen visar 5 av 9 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

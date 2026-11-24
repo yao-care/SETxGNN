@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00338
 monitor_inn: "Omeprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Omeprazol: predikterad ny indikation Duodenal obstruktion (duodenal obstruction) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
@@ -93,13 +93,21 @@ Sambandet är dock indirekt: omeprazol behandlar den syrarelaterade orsaken, int
 
 Minst 20 godkännanden finns registrerade, och listan kan vara ofullständig. Samtliga 20 listade godkännanden för enkomponentsprodukter är giltiga.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 64112 | Sigrefar | Enterokapsel, hård | Ej angiven i lokala data |
-| 61831 | Omeprazol Ebb | Enterokapsel, hård | Ej angiven i lokala data |
-| 63584 | Appizmit | Oral lösning | Ej angiven i lokala data |
-| 21836 | Omeprazol Actavis | Enterokapsel, hård | Ej angiven i lokala data |
-| 50721 | Omeprazol Amarox | Enterokapsel, hård | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 64112 | Sigrefar | Enterokapsel, hård | Laboratorios Leon Farma S.A. | Godkänd |
+| 61831 | Omeprazol Ebb | Enterokapsel, hård | Ebb Medical AB | Godkänd |
+| 63584 | Appizmit | Oral lösning | Alkaloid - INT d.o.o. | Godkänd |
+| 21836 | Omeprazol Actavis | Enterokapsel, hård | Actavis Group PTC ehf. | Godkänd |
+| 50721 | Omeprazol Amarox | Enterokapsel, hård | Amarox Pharma B.V | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

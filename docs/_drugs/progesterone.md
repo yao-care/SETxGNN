@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 367
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 description: "Progesterone: predikterad ny indikation Fibrocystisk bröstsjukdom (breast fibrocystic disease) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -97,13 +97,21 @@ Tabellen visar ett urval av 10 publikationer. Inga av dem är behandlingsstudier
 
 Läkemedlet har 20 giltiga godkännanden. Listan nedan visar de fem första. Indikationstext finns inte registrerad i de lokala uppgifterna.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 63300 | Prolutex | Injektionsvätska, lösning i förfylld spruta | Ej angiven |
-| 63740 | Utrogestan | Vaginalkapsel, mjuk | Ej angiven |
-| 65171 | Utrogestan | Kapsel, mjuk | Ej angiven |
-| 67116 | Cyclogest | Vagitorium | Ej angiven |
-| 68235 | Amelgen | Vagitorium | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 63300 | Prolutex | Injektionsvätska, lösning i förfylld spruta | IBSA Farmaceutici Italia S.r.l. | Godkänd |
+| 63740 | Utrogestan | Vaginalkapsel, mjuk | Besins Healthcare Ireland Limited | Godkänd |
+| 65171 | Utrogestan | Kapsel, mjuk | Besins Healthcare Ireland Limited | Godkänd |
+| 67116 | Cyclogest | Vagitorium | Orifarm AB | Godkänd |
+| 68235 | Amelgen | Vagitorium | UAB BIJON medica | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

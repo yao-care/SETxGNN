@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 280
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "mesalazine"
 predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
 description: "Mesalazine: predikterad ny indikation Congenital hypotrichosis with juvenile macular dystrophy (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -72,13 +72,21 @@ Förutsägelsen bör tolkas med stor försiktighet.
 
 Indikationstext saknas i data. De fem första godkännandena visas nedan.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
-|---------|------|------|-----------|
-| 63259 | Claversal | Suppositorium | 2care4 ApS |
-| 11580 | Asacol | Enterotablett | Tillotts Pharma AB |
-| 64122 | Pentasa | Suppositorium | Orifarm AB |
-| 47209 | Pentasa | Suppositorium | Orifarm AB |
-| 50853 | Salofalk | Rektalskum | Orifarm AB |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 63259 | Claversal | Suppositorium | 2care4 ApS | Godkänd |
+| 11580 | Asacol | Enterotablett | Tillotts Pharma AB | Godkänd |
+| 64122 | Pentasa | Suppositorium | Orifarm AB | Godkänd |
+| 47209 | Pentasa | Suppositorium | Orifarm AB | Godkänd |
+| 50853 | Salofalk | Rektalskum | Orifarm AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Beredningsformerna omfattar bland annat suppositorier, rektalskum, rektalsuspension, enterotabletter, depottabletter och depotgranulat.
 

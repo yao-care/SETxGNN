@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "cyclopentolate"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Cyclopentolate: predikterad ny indikation Cauda equina-syndrom (cauda equina syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
@@ -82,16 +82,22 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 10008 | Cyclopentolat Bausch & Lomb | Ögondroppar, lösning i endosbehållare | Ingen indikationstext registrerad |
-| 6001 | Cyclogyl | Ögondroppar, lösning | Ingen indikationstext registrerad |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 10008 | Cyclopentolat Bausch & Lomb | Ögondroppar, lösning i endosbehållare | Bausch & Lomb Ireland Limited | Godkänd |
+| 6001 | Cyclogyl | Ögondroppar, lösning | Alcon Nordic A/S | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Enligt de lokala uppgifterna är marknadsstatus "Marknadsförd".
 
 <!-- review:begin se-lic-20261106-cyclopentolate-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Enligt de lokala uppgifterna är marknadsstatus "Marknadsförd". Uppgifterna om giltiga och avregistrerade godkännanden är inte helt konsekventa, så den exakta statusen för enskilda godkännanden bör kontrolleras mot Läkemedelsverkets register.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Enligt de lokala uppgifterna är marknadsstatus "Marknadsförd". Uppgifterna om giltiga och avregistrerade godkännanden är inte helt konsekventa, så den exakta statusen för enskilda godkännanden bör kontrolleras mot Läkemedelsverkets register.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-cyclopentolate-1 -->
 
@@ -125,7 +131,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Uppgifterna om giltiga och avregistrerade godkännanden är inte helt konsekventa, så den exakta statusen för enskilda godkännanden bör kontro” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Uppgifterna om giltiga och avregistrerade godkännanden är inte helt konsekventa, så den exakta statusen för enskilda godkännanden bör kontro” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

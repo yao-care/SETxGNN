@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 460
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "zonisamide"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
 description: "Zonisamide: predikterad ny indikation Tourette syndrome (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
@@ -46,7 +46,7 @@ Zonisamid är ett läkemedel mot epilepsi (antiepileptikum) som i Sverige har ha
 
 <!-- review:begin se-lic-20261106-zonisamide-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det godkännandet är nu avregistrerat. En översiktsartikel pekar snarare på att antiepileptika kan framkalla tics, så en säkerhetssignal är mer sannolik än en nytta.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det godkännandet är nu avregistrerat. En översiktsartikel pekar snarare på att antiepileptika kan framkalla tics, så en säkerhetssignal är mer sannolik än en nytta.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-zonisamide-1 -->
 
@@ -107,9 +107,15 @@ Flera andra förutsägelser har fått mer underlag än Tourettes syndrom.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 52792 | Zonisamide 1A Farma (1A Farma A/S) | Kapsel, hård | Ej angiven (godkänt) |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 52792 | Zonisamide 1A Farma | Kapsel, hård | 1A Farma A/S | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -141,7 +147,7 @@ Produktresumé med varningar och kontraindikationer saknas i underlaget. Se prod
 
 <!-- review:begin se-lic-20261106-zonisamide-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen om Tourettes syndrom bygger enbart på modellen utan stöd från studier eller litteratur, och tillgängligt underlag antyder en möjlig risk för tics. Godkännandet i Sverige är dessutom avregistrerat.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen om Tourettes syndrom bygger enbart på modellen utan stöd från studier eller litteratur, och tillgängligt underlag antyder en möjlig risk för tics. Godkännandet i Sverige är dessutom avregistrerat.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-zonisamide-2 -->
 
@@ -153,7 +159,7 @@ Produktresumé med varningar och kontraindikationer saknas i underlaget. Se prod
 
 <!-- review:begin se-lic-20261106-zonisamide-3 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Om en återanvändning ändå ska utredas, prioritera absensepilepsi (L3) med kontrollerade studier jämfört med etablerad förstahandsbehandling. / Klargöra läkemedelsformens och administreringsvägens förutsättningar, samt om en ny registrering krävs eftersom godkännandet är avregistrerat.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Om en återanvändning ändå ska utredas, prioritera absensepilepsi (L3) med kontrollerade studier jämfört med etablerad förstahandsbehandling. / Klargöra läkemedelsformens och administreringsvägens förutsättningar, samt om en ny registrering krävs eftersom godkännandet är avregistrerat.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-zonisamide-3 -->
 
@@ -165,9 +171,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Det godkännandet är nu avregistrerat” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Godkännandet i Sverige är dessutom avregistrerat” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Klargöra läkemedelsformens och administreringsvägens förutsättningar, samt om en ny registrering krävs eftersom godkännandet är avregistrera” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Det godkännandet är nu avregistrerat” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Godkännandet i Sverige är dessutom avregistrerat” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Klargöra läkemedelsformens och administreringsvägens förutsättningar, samt om en ny registrering krävs eftersom godkännandet är avregistrera” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CELECOXIB"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "WHIM syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Celecoxib: predikterad ny indikation Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala up…"
 ---
 
@@ -82,13 +82,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 57956 | Celecoxib Medical Valley | Kapsel, hård | Ej angiven |
-| 45645 | Celecoxib Upjohn | Kapsel, hård | Ej angiven |
-| 48305 | Celecoxib STADA | Kapsel, hård | Ej angiven |
-| 57955 | Celecoxib Medical Valley | Kapsel, hård | Ej angiven |
-| 60699 | Celecoxib Accord | Kapsel, hård | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 57956 | Celecoxib Medical Valley | Kapsel, hård | Medical Valley Invest AB | Godkänd |
+| 45645 | Celecoxib Upjohn | Kapsel, hård | Upjohn EESV | Godkänd |
+| 48305 | Celecoxib STADA | Kapsel, hård | STADA Arzneimittel AG | Godkänd |
+| 57955 | Celecoxib Medical Valley | Kapsel, hård | Medical Valley Invest AB | Godkänd |
+| 60699 | Celecoxib Accord | Kapsel, hård | Accord Healthcare B.V. | Godkänd |
+
+Tabellen visar 5 av 15 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

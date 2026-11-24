@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "bupivacaine"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Bupivacaine: predikterad ny indikation Acrodermatitis chronica atrophicans (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 15 (giltiga: 15)"
 ---
 
@@ -82,15 +82,29 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Läkemedlet har 15 registrerade godkännanden för enkomponentsberedningar i beredningsformen injektionsvätska, lösning. Ingen indikationstext finns registrerad i de lokala data. De viktigaste produkterna:
+Läkemedlet har registrerade godkännanden i beredningsformen injektionsvätska, lösning: enkomponentsberedningar samt kombinationsberedningar med adrenalin (Marcain adrenalin). Ingen indikationstext finns registrerad i de lokala data. De viktigaste produkterna:
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 60203 | Bupivacaine Noridem | Injektionsvätska, lösning | Ej angiven |
-| 57563 | Pankaine Spinal tung | Injektionsvätska, lösning | Ej angiven |
-| 9999 | Marcain spinal tung | Injektionsvätska, lösning | Ej angiven |
-| 8613 | Marcain | Injektionsvätska, lösning | Ej angiven |
-| 10255 | Marcain spinal | Injektionsvätska, lösning | Ej angiven |
+<!-- review:begin se-lic-20261124-bupivacaine-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Läkemedlet har 15 registrerade godkännanden för enkomponentsberedningar i beredningsformen injektionsvätska, lösning.” Enligt Läkemedelsverkets uppgifter innehåller Marcain adrenalin både bupivakainhydroklorid och adrenalintartrat; texten angav alla godkännanden som enkomponentsberedningar. Uppgiften om enkomponents- och kombinationsprodukter följer de verksamma ämnena i Läkemedelsverkets uppgifter; antal godkännanden och status finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (verksamma ämnen, registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124-bupivacaine-1 -->
+
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 60203 | Bupivacaine Noridem | Injektionsvätska, lösning | Noridem Enterprises Ltd | Godkänd |
+| 57563 | Pankaine Spinal tung | Injektionsvätska, lösning | Panpharma SA | Godkänd |
+| 9999 | Marcain spinal tung | Injektionsvätska, lösning | Aspen Pharma Trading Limited | Godkänd |
+| 8613 | Marcain | Injektionsvätska, lösning | Aspen Pharma Trading Limited | Godkänd |
+| 10255 | Marcain spinal | Injektionsvätska, lösning | Aspen Pharma Trading Limited | Godkänd |
+
+Tabellen visar 5 av 15 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -114,6 +128,19 @@ Se produktresumén för övrig säkerhetsinformation, såsom varningar och kontr
 - Litteraturgenomgång av publicerade fallrapporter eller studier
 - Hämtning och genomgång av produktresumé med varningar och kontraindikationer
 - Komplettering av verkningsmekanismdata
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-24 | Bupivakain: Marcain adrenalin är kombinationsberedningar med adrenalin | Rättad | [Läkemedelsverket – export av godkända läkemedel (verksamma ämnen, registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

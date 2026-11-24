@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 168
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "epinephrine"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
 description: "Epinephrine: predikterad ny indikation Obstructive lung disease (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
@@ -87,7 +87,7 @@ Flera ytterligare prövningar är farmakokinetiska studier på friska frivilliga
 
 <!-- review:begin se-lic-20261106-epinephrine-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ytterligare ett godkännande (Nepipe, nr 48337) är också avregistrerat.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ytterligare ett godkännande (Nepipe, nr 48337) är också avregistrerat.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-epinephrine-1 -->
 
@@ -112,13 +112,21 @@ Flera ytterligare prövningar är farmakokinetiska studier på friska frivilliga
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 48336 | Nepipe Junior | Injektionsvätska, lösning i förfylld injektionspenna | Godkänd |
-| 18679 | Anapen Junior | Injektionsvätska, lösning i förfylld spruta | Godkänd |
-| 18678 | Anapen | Injektionsvätska, lösning i förfylld spruta | Godkänd |
-| 13022 | EpiPen | Injektionsvätska, lösning i förfylld injektionspenna | Godkänd |
-| 13023 | EpiPen jr | Injektionsvätska, lösning i förfylld injektionspenna | Godkänd |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 48336 | Nepipe Junior | Injektionsvätska, lösning i förfylld injektionspenna | Viatris AB | Godkänd |
+| 18679 | Anapen Junior | Injektionsvätska, lösning i förfylld spruta | Bioprojet Pharma | Godkänd |
+| 18678 | Anapen | Injektionsvätska, lösning i förfylld spruta | Bioprojet Pharma | Godkänd |
+| 13022 | EpiPen | Injektionsvätska, lösning i förfylld injektionspenna | Viatris AB | Godkänd |
+| 13023 | EpiPen jr | Injektionsvätska, lösning i förfylld injektionspenna | Viatris AB | Godkänd |
+
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -147,7 +155,7 @@ Produktresumé för varningar och kontraindikationer saknas i de sammanställda 
 
 <!-- review:begin se-lic-20261106-epinephrine-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedöma den regulatoriska vägen för en inhalationsprodukt, eftersom nuvarande svenska godkännanden är injektionsberedningar och alla är avregistrerade” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedöma den regulatoriska vägen för en inhalationsprodukt, eftersom nuvarande svenska godkännanden är injektionsberedningar och alla är avregistrerade” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-epinephrine-2 -->
 
@@ -159,8 +167,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Ytterligare ett godkännande (Nepipe, nr 48337) är också avregistrerat” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”och alla är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Ytterligare ett godkännande (Nepipe, nr 48337) är också avregistrerat” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och alla är avregistrerade” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

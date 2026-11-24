@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "cisatracurium"
 predicted_indications: ["cauda equina syndrome", "preeclampsia", "obsolete neurogenic bladder (disease)", "migraine disorder", "thrombotic disease", "irritable bowel syndrome", "migraine with brainstem aura", "mild pre-eclampsia", "severe pre-eclampsia", "neurocirculatory asthenia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Cisatracurium: predikterad ny indikation Cauda equina-syndrom (cauda equina syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
@@ -80,9 +80,15 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 67811 | Cisatracurium Noridem | Injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 67811 | Cisatracurium Noridem | Injektions-/infusionsvätska, lösning | Noridem Enterprises Ltd | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

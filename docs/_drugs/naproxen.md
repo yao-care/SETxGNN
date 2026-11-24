@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 310
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "NAPROXEN"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
 description: "Naproxen: predikterad ny indikation Brachydactyly-syndactyly syndrome (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 19 (giltiga: 19)"
@@ -75,13 +75,21 @@ Ingen mekanistisk grund för förutsägelsen kan styrkas med tillgängliga data.
 
 Godkänd indikationstext saknas i data. Nedan visas fem av godkännandena.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 56590 | Naproxen 2care4 | Enterotablett | Uppgift saknas |
-| 11956 | Naprosyn Entero | Enterotablett | Uppgift saknas |
-| 54454 | Naproxen Apofri | Tablett | Uppgift saknas |
-| 10644 | Naproxen Viatris | Tablett | Uppgift saknas |
-| 43248 | Vimovo | Tablett med modifierad frisättning | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 56590 | Naproxen 2care4 | Enterotablett | 2care4 ApS | Godkänd |
+| 11956 | Naprosyn Entero | Enterotablett | Atnahs Pharma Netherlands B.V. | Godkänd |
+| 54454 | Naproxen Apofri | Tablett | Evolan Pharma AB | Godkänd |
+| 10644 | Naproxen Viatris | Tablett | Viatris Limited | Godkänd |
+| 43248 | Vimovo | Tablett med modifierad frisättning | Grnenthal GmbH | Godkänd |
+
+Tabellen visar 5 av 19 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -111,7 +119,7 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 
 <!-- review:begin se-lic-20261106-naproxen-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen saknar helt kliniskt och litteraturbaserat stöd (evidensnivå L5), och inget rimligt mekanistiskt samband mellan en COX-hämmare och ett medfött missbildningssyndrom kan fastställas. / Samtliga svenska godkännanden för naproxen är dessutom avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 19, varav giltiga: 19; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen saknar helt kliniskt och litteraturbaserat stöd (evidensnivå L5), och inget rimligt mekanistiskt samband mellan en COX-hämmare och ett medfött missbildningssyndrom kan fastställas. / Samtliga svenska godkännanden för naproxen är dessutom avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-naproxen-1 -->
 
@@ -129,7 +137,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden för naproxen är dessutom avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden för naproxen är dessutom avregistrerade” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

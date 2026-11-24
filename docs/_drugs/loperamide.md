@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 269
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "loperamide"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "chronic follicular conjunctivitis", "conjunctival folliculosis", "serous conjunctivitis except viral", "parasitic conjunctivitis", "Angelucci syndrome"]
 description: "Loperamide: predikterad ny indikation Acute contagious conjunctivitis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 15 (giltiga: 15)"
@@ -92,17 +92,25 @@ De fem första visas nedan. Indikationstext finns inte registrerad.
 
 <!-- review:begin se-lic-20261106-loperamide-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 15 godkännanden är indragna och inget är giltigt. De fem första visas nedan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 15, varav giltiga: 15; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 15 godkännanden är indragna och inget är giltigt. De fem första visas nedan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-loperamide-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 43239 | Lopacut | Filmdragerad tablett | Ej angiven |
-| 62733 | Loperamide Grindeks | Kapsel, hård | Ej angiven |
-| 23069 | Imodium | Munsönderfallande tablett | Ej angiven |
-| 12443 | Dimor | Filmdragerad tablett | Ej angiven |
-| 56394 | Loperamid Brown | Kapsel, hård | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 43239 | Lopacut | Filmdragerad tablett | Vitabalans Oy | Godkänd |
+| 62733 | Loperamide Grindeks | Kapsel, hård | AS GRINDEKS | Godkänd |
+| 23069 | Imodium | Munsönderfallande tablett | McNeil Sweden AB | Godkänd |
+| 12443 | Dimor | Filmdragerad tablett | Nordic Drugs AB | Godkänd |
+| 56394 | Loperamid Brown | Kapsel, hård | Brown & Burk IR Limited | Godkänd |
+
+Tabellen visar 5 av 15 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -133,7 +141,7 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 
 <!-- review:begin se-lic-20261106-loperamide-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra beredningsform och administreringsväg, eftersom de nuvarande godkännandena endast avser orala former. / Notera att samtliga svenska godkännanden är indragna, vilket i sig är ett regulatoriskt hinder.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 15, varav giltiga: 15; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra beredningsform och administreringsväg, eftersom de nuvarande godkännandena endast avser orala former. / Notera att samtliga svenska godkännanden är indragna, vilket i sig är ett regulatoriskt hinder.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-loperamide-2 -->
 
@@ -145,8 +153,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Alla 15 godkännanden är indragna och inget är giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Notera att samtliga svenska godkännanden är indragna, vilket i sig är ett regulatoriskt hinder” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla 15 godkännanden är indragna och inget är giltigt” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Notera att samtliga svenska godkännanden är indragna, vilket i sig är ett regulatoriskt hinder” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

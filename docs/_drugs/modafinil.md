@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 303
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MODAFINIL"
 predicted_indications: ["insomnia (disease)"]
 description: "Modafinil: predikterad ny indikation Insomni (insomnia (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
@@ -91,13 +91,21 @@ Ingen av de identifierade publikationerna studerar modafinil vid insomni direkt.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 52047 | Modafinil Orion | Tablett | Uppgift saknas |
-| 50938 | Modafinil Sandoz | Tablett | Uppgift saknas |
-| 56382 | Myldamo | Tablett | Uppgift saknas |
-| 65999 | Modafinil Forza | Tablett | Uppgift saknas |
-| 52046 | Modafinil Orion | Tablett | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 52047 | Modafinil Orion | Tablett | Orion Corporation | Godkänd |
+| 50938 | Modafinil Sandoz | Tablett | Sandoz A/S | Godkänd |
+| 56382 | Myldamo | Tablett | Viatris Limited | Godkänd |
+| 65999 | Modafinil Forza | Tablett | Forza Advance Ltd. | Godkänd |
+| 52046 | Modafinil Orion | Tablett | Orion Corporation | Godkänd |
+
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Sex godkännanden är giltiga; de fem första visas här.
 

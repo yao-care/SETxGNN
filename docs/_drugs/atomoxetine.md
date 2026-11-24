@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-24
 description: "Atomoxetine: predikterad ny indikation Specifik utvecklingsstörning (specific developmental disorder) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
@@ -88,6 +88,22 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 ---
 
 ## Marknadsinformation Sverige
+
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 52683 | Atomoxetin Actavis | Kapsel, hård | Actavis Group PTC ehf. | Godkänd |
+| 52684 | Atomoxetin Actavis | Kapsel, hård | Actavis Group PTC ehf. | Godkänd |
+| 52687 | Atomoxetin Actavis | Kapsel, hård | Actavis Group PTC ehf. | Godkänd |
+| 52688 | Atomoxetin Actavis | Kapsel, hård | Actavis Group PTC ehf. | Godkänd |
+| 53529 | Atomoxetine Sandoz | Kapsel, hård | Sandoz A/S | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Marknadsstatus för atomoxetin i Sverige är **Marknadsförd**. De lokala uppgifterna innehåller ingen registrerad indikationstext för godkännandena, och listan över godkännanden kan vara ofullständig.
 

@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "bicalutamide"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "leprosy", "multiple endocrine neoplasia", "pulmonary hypertension", "female breast carcinoma", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 description: "Bicalutamide: predikterad ny indikation Hypertrikos (hypertrichosis (disease)) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 16 (giltiga: 16)"
 ---
 
@@ -84,13 +84,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Totalt 16 godkännanden, samtliga giltiga. Nedan visas fem av dem.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 42762 | Bicalutamide Orion | Filmdragerad tablett | Ej angiven i lokala data |
-| 44427 | Bicalustad | Filmdragerad tablett | Ej angiven i lokala data |
-| 24410 | Bicalutamide Teva | Filmdragerad tablett | Ej angiven i lokala data |
-| 67931 | Bicalutamide Teva | Filmdragerad tablett | Ej angiven i lokala data |
-| 42761 | Bicalutamide Orion | Filmdragerad tablett | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 42762 | Bicalutamide Orion | Filmdragerad tablett | Orion Corporation | Godkänd |
+| 44427 | Bicalustad | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 24410 | Bicalutamide Teva | Filmdragerad tablett | Teva Sweden AB | Godkänd |
+| 67931 | Bicalutamide Teva | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 42761 | Bicalutamide Orion | Filmdragerad tablett | Orion Corporation | Godkänd |
+
+Tabellen visar 5 av 16 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

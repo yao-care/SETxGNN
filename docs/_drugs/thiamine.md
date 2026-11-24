@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "thiamine"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "primary hereditary glaucoma", "open-angle glaucoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Thiamine: predikterad ny indikation Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 13 (giltiga: 13)"
 ---
 
@@ -80,15 +80,29 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Totalt 13 giltiga godkännanden för enkomponentsprodukter, inga avregistrerade eller ej marknadsförda. Nedan visas fem av dem.
+Godkännandena gäller främst enkomponentsprodukter men även kombinationsprodukter med andra vitaminer (Zubatmin, Viant); inga är avregistrerade eller ej marknadsförda. Nedan visas fem av dem.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 57646 | Thiamine Sterop (Laboratoires Sterop NV) | Injektionsvätska, lösning | Ingen indikationstext angiven |
-| 65471 | Bevione (Orifarm Healthcare A/S) | Injektionsvätska, lösning | Ingen indikationstext angiven |
-| 64052 | Thiatum (Life Medical ApS) | Injektionsvätska, lösning | Ingen indikationstext angiven |
-| 65508 | Thiamine Kabi (Fresenius Kabi AB) | Injektions-/infusionsvätska, lösning | Ingen indikationstext angiven |
-| 56261 | Viant (B. Braun Melsungen AG) | Pulver till infusionsvätska, lösning | Ingen indikationstext angiven |
+<!-- review:begin se-lic-20261124-thiamine-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Totalt 13 giltiga godkännanden för enkomponentsprodukter, inga avregistrerade eller ej marknadsförda.” Enligt Läkemedelsverkets uppgifter är Zubatmin och Viant kombinationsprodukter där tiaminhydroklorid ingår tillsammans med andra vitaminer; texten angav alla godkännanden som enkomponentsprodukter. Uppgiften om enkomponents- och kombinationsprodukter följer de verksamma ämnena i Läkemedelsverkets uppgifter; antal godkännanden och status finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (verksamma ämnen, registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124-thiamine-1 -->
+
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 57646 | Thiamine Sterop | Injektionsvätska, lösning | Laboratoires Sterop NV | Godkänd |
+| 65471 | Bevione | Injektionsvätska, lösning | Orifarm Healthcare A/S | Godkänd |
+| 64052 | Thiatum | Injektionsvätska, lösning | Life Medical ApS | Godkänd |
+| 65508 | Thiamine Kabi | Injektions-/infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 56261 | Viant | Pulver till infusionsvätska, lösning | B. Braun Melsungen AG | Godkänd |
+
+Tabellen visar 5 av 13 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -111,6 +125,19 @@ Se produktresumén för säkerhetsinformation.
 - Verkningsmekanismen för tiamin från DrugBank, så att den mekanistiska analysen kan fördjupas.
 - Säkerhetsuppgifter (varningar och kontraindikationer) från produktresumén på Läkemedelsverkets webbplats.
 - Kliniska eller prekliniska studier som direkt undersöker tiamin vid den förutsagda sjukdomen innan vidare utvärdering.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-24 | Tiamin: Zubatmin och Viant är kombinationsprodukter med andra vitaminer | Rättad | [Läkemedelsverket – export av godkända läkemedel (verksamma ämnen, registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

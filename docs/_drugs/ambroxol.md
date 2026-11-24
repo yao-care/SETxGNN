@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "ambroxol"
 predicted_indications: ["nasal cavity disease", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Ambroxol: predikterad ny indikation Nasal sjukdom (nasal cavity disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 
@@ -84,12 +84,18 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 46187 | Mucoangin Citron | Sugtablett | Ej angiven i lokala data |
-| 19952 | Mucoangin Mint | Sugtablett | Ej angiven i lokala data |
-| 51721 | Ambroxol Geiser lakrits | Sugtablett | Ej angiven i lokala data |
-| 51720 | Ambroxol Geiser mint | Sugtablett | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 46187 | Mucoangin Citron | Sugtablett | Opella Healthcare France SAS | Godkänd |
+| 19952 | Mucoangin Mint | Sugtablett | Opella Healthcare France SAS | Godkänd |
+| 51721 | Ambroxol Geiser lakrits | Sugtablett | Geiser Pharma, S.L. | Godkänd |
+| 51720 | Ambroxol Geiser mint | Sugtablett | Geiser Pharma, S.L. | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

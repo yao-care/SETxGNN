@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 428
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "TOBRAMYCIN"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
 description: "Tobramycin: predikterad ny indikation Exposure keratitis (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 8 (giltiga: 8)"
@@ -93,19 +93,27 @@ Ingen av publikationerna är en randomiserad studie, och ingen visar att tobramy
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 64097 | Tobi (Abacus Medicine A/S) | Lösning för nebulisator | Godkänd |
-| 60247 | Tobi (Medartuum AB) | Lösning för nebulisator | Godkänd |
-| 61868 | Bramitob (Chiesi Farmaceutici S.p.A.) | Lösning för nebulisator | Godkänd |
-| 16319 | Tobi (Viatris AB) | Lösning för nebulisator | Godkänd |
-| 58194 | Tobi (Orifarm AB) | Lösning för nebulisator | Godkänd |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 64097 | Tobi | Lösning för nebulisator | Abacus Medicine A/S | Godkänd |
+| 60247 | Tobi | Lösning för nebulisator | Medartuum AB | Godkänd |
+| 61868 | Bramitob | Lösning för nebulisator | Chiesi Farmaceutici S.p.A. | Godkänd |
+| 16319 | Tobi | Lösning för nebulisator | Viatris AB | Godkänd |
+| 58194 | Tobi | Lösning för nebulisator | Orifarm AB | Godkänd |
+
+Tabellen visar 5 av 8 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Inga indikationstexter finns angivna i de sammanställda uppgifterna.
 
 <!-- review:begin se-lic-20261106-tobramycin-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ytterligare tre godkännanden är avregistrerade: Tobi (Orifarm AB, 61430), Tobrasone (Novartis Sverige AB, 22413, ögondroppar, suspension) och Toflacort (Blumont Ofta Trading Ltd, 43071, ögondroppar, suspension). Inga indikationstexter finns angivna i de sammanställda uppgifterna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ytterligare tre godkännanden är avregistrerade: Tobi (Orifarm AB, 61430), Tobrasone (Novartis Sverige AB, 22413, ögondroppar, suspension) och Toflacort (Blumont Ofta Trading Ltd, 43071, ögondroppar, suspension). Inga indikationstexter finns angivna i de sammanställda uppgifterna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-tobramycin-1 -->
 
@@ -130,7 +138,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 <!-- review:begin se-lic-20261106-tobramycin-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom finns en toxicitetssignal för hornhinneepitel, och samtliga svenska godkännanden är avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom finns en toxicitetssignal för hornhinneepitel, och samtliga svenska godkännanden är avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-tobramycin-2 -->
 
@@ -143,7 +151,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 <!-- review:begin se-lic-20261106-tobramycin-3 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöring av tillgängliga beredningsformer, eftersom endast ögondroppar är aktuella och dessa är avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöring av tillgängliga beredningsformer, eftersom endast ögondroppar är aktuella och dessa är avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-tobramycin-3 -->
 
@@ -155,9 +163,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Ytterligare tre godkännanden är avregistrerade: Tobi (Orifarm AB, 61430), Tobrasone (Novartis Sverige AB, 22413, ögondroppar, suspension) oc” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”och samtliga svenska godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”eftersom endast ögondroppar är aktuella och dessa är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Ytterligare tre godkännanden är avregistrerade: Tobi (Orifarm AB, 61430), Tobrasone (Novartis Sverige AB, 22413, ögondroppar, suspension) oc” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och samtliga svenska godkännanden är avregistrerade” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom endast ögondroppar är aktuella och dessa är avregistrerade” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

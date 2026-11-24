@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "alanine"
 predicted_indications: ["gastroparesis (disease)"]
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 description: "Alanine: predikterad ny indikation Gastropares (gastroparesis (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
@@ -88,13 +88,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Enligt de lokala uppgifterna finns minst 20 godkännanden där alanin ingår, och listan kan vara ofullständig. Indikationstext är inte registrerad i de lokala uppgifterna.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 12526 | Glavamin | Infusionsvätska, lösning | Ej registrerad |
-| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Ej registrerad |
-| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Ej registrerad |
-| 10095 | Vamin 14 g N/l elektrolytfri | Infusionsvätska, lösning | Ej registrerad |
-| 12423 | Nutrineal PD4 1,1 % Aminosyror | Peritonealdialysvätska | Ej registrerad |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 12526 | Glavamin | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Fresenius Kabi AB | Avregistrerad |
+| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 10095 | Vamin 14 g N/l elektrolytfri | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 12423 | Nutrineal PD4 1,1 % Aminosyror | Peritonealdialysvätska | Vantive AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

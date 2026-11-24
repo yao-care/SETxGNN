@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 251
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "lamotrigine"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 description: "Lamotrigine: predikterad ny indikation Tumör i trigeminusnerven (trigeminal nerve neoplasm) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -93,13 +93,21 @@ Nedan visas fem av dem.
 
 <!-- review:end se-lic-20261106-lamotrigine-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 12790 | Lamictal | Tuggtablett/dispergerbar tablett | Ej angiven |
-| 19479 | Lamotrigin Actavis | Tablett | Ej angiven |
-| 55079 | Lamotrigin 1A Farma | Tablett | Ej angiven |
-| 19666 | Lamotrigin Actavis | Dispergerbar tablett | Ej angiven |
-| 23098 | Lamotrigin Teva | Tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 12790 | Lamictal | Tuggtablett/dispergerbar tablett | GlaxoSmithKline AB | Godkänd |
+| 19479 | Lamotrigin Actavis | Tablett | Actavis Group PTC ehf. | Godkänd |
+| 55079 | Lamotrigin 1A Farma | Tablett | Orifarm AB | Godkänd |
+| 19666 | Lamotrigin Actavis | Dispergerbar tablett | Actavis Group PTC ehf. | Godkänd |
+| 23098 | Lamotrigin Teva | Tablett | Teva Sweden AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

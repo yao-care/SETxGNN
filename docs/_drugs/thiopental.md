@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 423
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "thiopental"
 predicted_indications: ["trichotillomania", "Prinzmetal angina", "migraine disorder", "Tourette syndrome", "migraine with brainstem aura", "obsolete bundle branch block", "substance abuse/dependence", "nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Thiopental: predikterad ny indikation Trichotillomania (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 8 (giltiga: 8)"
@@ -86,23 +86,25 @@ Ingen indikationstext finns registrerad.
 
 <!-- review:begin se-lic-20261106-thiopental-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 8 godkännanden är indragna. Ingen indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 8 godkännanden är indragna. Ingen indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-thiopental-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 65868 | Tiopental Ebb | Pulver till injektionsvätska, lösning | Ej angiven |
-| 66413 | Tiopental Ebb | Pulver till injektionsvätska, lösning | Ej angiven |
-| 62051 | Thiopental Panpharma | Pulver till injektionsvätska, lösning | Ej angiven |
-| 61068 | Pentocur | Pulver till injektionsvätska, lösning | Ej angiven |
-| 65869 | Tiopental Ebb | Pulver till injektionsvätska, lösning | Ej angiven |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-thiopental-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 65868 | Tiopental Ebb | Pulver till injektionsvätska, lösning | Ebb Medical AB | Godkänd |
+| 66413 | Tiopental Ebb | Pulver till injektionsvätska, lösning | Ebb Medical AB | Godkänd |
+| 62051 | Thiopental Panpharma | Pulver till injektionsvätska, lösning | Panpharma | Godkänd |
+| 61068 | Pentocur | Pulver till injektionsvätska, lösning | Abcur AB | Godkänd |
+| 65869 | Tiopental Ebb | Pulver till injektionsvätska, lösning | Ebb Medical AB | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”65868 / Tiopental Ebb / Pulver till injektionsvätska, lösning / Indragen; 66413 / Tiopental Ebb / Pulver till injektionsvätska, lösning / Indragen; 62051 / Thiopental Panpharma / Pulver till injektionsvätska, lösning / Indragen; 61068 / Pentocur / Pulver till injektionsvätska, lösning / Indragen; 65869 / Tiopental Ebb / Pulver till injektionsvätska, lösning / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 65868, 66413, 62051, 61068, 65869 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Tabellen visar 5 av 8 godkännanden i uppgifterna.
 
-<!-- review:end se-row-20261112-thiopental-1 -->
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -136,7 +138,7 @@ Uppgifter från produktresumén saknas. Se produktresumén för varningar och ko
 
 <!-- review:begin se-lic-20261106-thiopental-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen för trikotillomani saknar både kliniskt och litterärt stöd (evidensnivå L5), och ingen plausibel mekanism kan påvisas. Dessutom är samtliga svenska godkännanden indragna och säkerhetsunderlaget är ofullständigt.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen för trikotillomani saknar både kliniskt och litterärt stöd (evidensnivå L5), och ingen plausibel mekanism kan påvisas. Dessutom är samtliga svenska godkännanden indragna och säkerhetsunderlaget är ofullständigt.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-thiopental-2 -->
 
@@ -154,9 +156,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga 8 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna och säkerhetsunderlaget är ofullständigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 5 godkännanden (65868, 66413, 62051, 61068, 65869) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Samtliga 8 godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna och säkerhetsunderlaget är ofullständigt” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (65868, 66413, 62051, 61068, 65869) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

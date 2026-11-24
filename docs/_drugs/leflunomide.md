@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 254
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "leflunomide"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Leflunomide: predikterad ny indikation Brachydactyly-syndactyly syndrome (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
@@ -68,7 +68,7 @@ Sambandet är dock svagt. Brakydaktyli-syndaktyli-syndrom är en medfödd utveck
 
 <!-- review:begin se-lic-20261106-leflunomide-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Båda godkännandena tillhör Bluefish Pharmaceuticals AB och är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Båda godkännandena tillhör Bluefish Pharmaceuticals AB och är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-leflunomide-1 -->
 
@@ -76,16 +76,16 @@ Sambandet är dock svagt. Brakydaktyli-syndaktyli-syndrom är en medfödd utveck
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 54935 | Leflunomid Bluefish | Filmdragerad tablett | Ingen indikationstext tillgänglig |
-| 54934 | Leflunomid Bluefish | Filmdragerad tablett | Ingen indikationstext tillgänglig |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-leflunomide-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 54935 | Leflunomid Bluefish | Filmdragerad tablett | Bluefish Pharmaceuticals AB | Godkänd |
+| 54934 | Leflunomid Bluefish | Filmdragerad tablett | Bluefish Pharmaceuticals AB | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”54935 / Leflunomid Bluefish / Filmdragerad tablett / Ingen indikationstext tillgänglig (indraget); 54934 / Leflunomid Bluefish / Filmdragerad tablett / Ingen indikationstext tillgänglig (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 54935, 54934 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-leflunomide-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -135,8 +135,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Båda godkännandena tillhör Bluefish Pharmaceuticals AB och är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 2 godkännanden (54935, 54934) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Båda godkännandena tillhör Bluefish Pharmaceuticals AB och är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 2 godkännanden (54935, 54934) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

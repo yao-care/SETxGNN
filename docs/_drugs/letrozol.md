@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB01006
 monitor_inn: "Letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Letrozol: predikterad ny indikation Bröstvårtscancer (nipple carcinoma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 10 (giltiga: 10)"
 ---
 
@@ -92,13 +92,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 66219 | Letrozole Hexal | Filmdragerad tablett | Ej angiven i lokala data |
-| 41717 | Letrozole Bluefish | Filmdragerad tablett | Ej angiven i lokala data |
-| 43377 | Letrozol Stada | Filmdragerad tablett | Ej angiven i lokala data |
-| 27640 | Letrozol Teva | Filmdragerad tablett | Ej angiven i lokala data |
-| 43311 | Letrozole Sandoz | Filmdragerad tablett | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 66219 | Letrozole Hexal | Filmdragerad tablett | Hexal A/S | Godkänd |
+| 41717 | Letrozole Bluefish | Filmdragerad tablett | Bluefish Pharmaceuticals AB | Godkänd |
+| 43377 | Letrozol Stada | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 27640 | Letrozol Teva | Filmdragerad tablett | Teva Sweden AB | Godkänd |
+| 43311 | Letrozole Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+
+Tabellen visar 5 av 10 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Fem av totalt tio giltiga godkännanden visas här.
 

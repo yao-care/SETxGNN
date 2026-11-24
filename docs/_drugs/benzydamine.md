@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "benzydamine"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Benzydamine: predikterad ny indikation Benign prostatahyperplasi (benign prostatic hyperplasia (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 8 (giltiga: 8)"
 ---
 
@@ -84,13 +84,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Marknadsstatus enligt lokala data är marknadsförd. Följande godkännanden finns registrerade (de första fem av åtta):
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 53191 | Bertolix | Munhålespray, lösning | Ej angiven |
-| 54499 | Bensydamin Geiser | Munhålespray, lösning | Ej angiven |
-| 43336 | Zyx eukalyptus | Sugtablett | Ej angiven |
-| 54498 | Bensydamin Geiser | Munhålespray, lösning | Ej angiven |
-| 20332 | Zyx citron | Sugtablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 53191 | Bertolix | Munhålespray, lösning | Bausch Health Ireland Ltd | Godkänd |
+| 54499 | Bensydamin Geiser | Munhålespray, lösning | Geiser Pharma, S.L. | Godkänd |
+| 43336 | Zyx eukalyptus | Sugtablett | Cooper Consumer Health B.V. | Godkänd |
+| 54498 | Bensydamin Geiser | Munhålespray, lösning | Geiser Pharma, S.L. | Godkänd |
+| 20332 | Zyx citron | Sugtablett | Cooper Consumer Health B.V. | Godkänd |
+
+Tabellen visar 5 av 8 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

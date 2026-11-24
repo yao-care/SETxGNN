@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 185
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "exemestane"
 predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]
 description: "Exemestane: predikterad ny indikation Antithrombin deficiency type 2 (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 7)"
@@ -96,23 +96,25 @@ Ingen indikationstext finns registrerad.
 
 <!-- review:begin se-lic-20261106-exemestane-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga sju godkännanden är indragna. Ingen indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga sju godkännanden är indragna. Ingen indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-exemestane-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
-|---------|------|------|-----------|-----------|
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
 | 69036 | Exemestan Abacus Medicine | Filmdragerad tablett | Abacus Medicine A/S | Godkänd |
 | 42037 | Exemestan Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
 | 61689 | Exemestan Abacus Medicine | Filmdragerad tablett | Abacus Medicine A/S | Godkänd |
 | 42036 | Exemestane Accord | Filmdragerad tablett | Accord Healthcare B.V. | Godkänd |
 | 42212 | Exemestan Stada | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
 
-<!-- review:begin se-row-20261112-exemestane-1 -->
+Tabellen visar 5 av 7 godkännanden i uppgifterna.
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”69036 / Exemestan Abacus Medicine / Filmdragerad tablett / Abacus Medicine A/S / Indragen; 42037 / Exemestan Sandoz / Filmdragerad tablett / Sandoz A/S / Indragen; 61689 / Exemestan Abacus Medicine / Filmdragerad tablett / Abacus Medicine A/S / Indragen; 42036 / Exemestane Accord / Filmdragerad tablett / Accord Healthcare B.V. / Indragen; 42212 / Exemestan Stada / Filmdragerad tablett / STADA Arzneimittel AG / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 69036, 42037, 61689, 42036, 42212 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-exemestane-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -149,7 +151,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 
 <!-- review:begin se-lic-20261106-exemestane-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den enda litteraturen (amenorré) beskriver en läkemedelseffekt och inte en behandlingsmöjlighet, och mekanismen talar emot nytta. Samtliga godkännanden i Sverige är dessutom indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den enda litteraturen (amenorré) beskriver en läkemedelseffekt och inte en behandlingsmöjlighet, och mekanismen talar emot nytta. Samtliga godkännanden i Sverige är dessutom indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-exemestane-2 -->
 
@@ -169,9 +171,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga sju godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Samtliga godkännanden i Sverige är dessutom indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 5 godkännanden (69036, 42037, 61689, 42036, 42212) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Samtliga sju godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga godkännanden i Sverige är dessutom indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (69036, 42037, 61689, 42036, 42212) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

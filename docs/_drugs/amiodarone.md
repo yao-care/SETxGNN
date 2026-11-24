@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 description: "Amiodarone: predikterad ny indikation Katekolaminerg polymorf ventrikeltakykardi (catecholaminergic polymorphic ventricular tachycardia) (evidensnivå L5)."
 ---
 
@@ -95,13 +95,21 @@ Publikationerna nedan handlar om sjukdomen i sig eller om behandling av kammarar
 
 Läkemedlet är marknadsförd i Sverige. Alla 6 registrerade godkännanden är giltiga. Tabellen visar fem av dem.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 11032 | Cordarone | Tablett | Ej angiven i lokala data |
-| 10656 | Cordarone | Tablett | Ej angiven i lokala data |
-| 61655 | Amiodaron Evolan | Tablett | Ej angiven i lokala data |
-| 10572 | Cordarone | Injektionsvätska, lösning | Ej angiven i lokala data |
-| 61656 | Amiodaron Evolan | Tablett | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 11032 | Cordarone | Tablett | Sanofi AB | Godkänd |
+| 10656 | Cordarone | Tablett | Sanofi AB | Godkänd |
+| 61655 | Amiodaron Evolan | Tablett | Evolan Pharma AB | Godkänd |
+| 10572 | Cordarone | Injektionsvätska, lösning | Sanofi AB | Godkänd |
+| 61656 | Amiodaron Evolan | Tablett | Evolan Pharma AB | Godkänd |
+
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

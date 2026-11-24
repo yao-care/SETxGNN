@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 291
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "mianserin"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "neurotic disorder"]
 description: "Mianserin: predikterad ny indikation Benign paroxysmal torticollis of infancy (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 9 (giltiga: 9)"
@@ -69,7 +69,7 @@ Det finns alltså inget stöd i kliniska prövningar eller litteratur. Den höga
 
 <!-- review:begin se-lic-20261106-mianserin-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den höga poängen är en modellprediktion. Att målgruppen är spädbarn och att läkemedlet saknar giltigt godkännande i Sverige ökar dessutom säkerhetsfrågorna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den höga poängen är en modellprediktion. Att målgruppen är spädbarn och att läkemedlet saknar giltigt godkännande i Sverige ökar dessutom säkerhetsfrågorna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-mianserin-1 -->
 
@@ -77,19 +77,27 @@ Det finns alltså inget stöd i kliniska prövningar eller litteratur. Den höga
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 65740 | Mianserin Ebb | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänt) |
-| 58086 | Mianserin Viatris | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänt) |
-| 12850 | Mianserin Viatris | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänt) |
-| 56510 | Mianserin 2care4 | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänt) |
-| 12014 | Mianserin Viatris | Filmdragerad tablett | Ingen indikationstext tillgänglig (godkänt) |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 65740 | Mianserin Ebb | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 58086 | Mianserin Viatris | Filmdragerad tablett | Orifarm AB | Godkänd |
+| 12850 | Mianserin Viatris | Filmdragerad tablett | Viatris Limited | Godkänd |
+| 56510 | Mianserin 2care4 | Filmdragerad tablett | 2care4 ApS | Godkänd |
+| 12014 | Mianserin Viatris | Filmdragerad tablett | Viatris Limited | Godkänd |
+
+Tabellen visar 5 av 9 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Ytterligare fyra godkännanden (58008, 57435, 65741 och 12015) visas inte här.
 
 <!-- review:begin se-lic-20261106-mianserin-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Totalt finns 9 godkännanden, alla återkallade. Ytterligare fyra godkännanden (58008, 57435, 65741 och 12015) visas inte här.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Totalt finns 9 godkännanden, alla återkallade. Ytterligare fyra godkännanden (58008, 57435, 65741 och 12015) visas inte här.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-mianserin-2 -->
 
@@ -112,7 +120,7 @@ Uppgifter om varningar och kontraindikationer saknas. Se produktresumén för fu
 
 <!-- review:begin se-lic-20261106-mianserin-3 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Läkemedlet saknar dessutom giltigt godkännande i Sverige och den tänkta patientgruppen är spädbarn.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Läkemedlet saknar dessutom giltigt godkännande i Sverige och den tänkta patientgruppen är spädbarn.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-mianserin-3 -->
 
@@ -141,9 +149,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Att målgruppen är spädbarn och att läkemedlet saknar giltigt godkännande i Sverige ökar dessutom säkerhetsfrågorna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Totalt finns 9 godkännanden, alla återkallade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Läkemedlet saknar dessutom giltigt godkännande i Sverige och d” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Att målgruppen är spädbarn och att läkemedlet saknar giltigt godkännande i Sverige ökar dessutom säkerhetsfrågorna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Totalt finns 9 godkännanden, alla återkallade” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Läkemedlet saknar dessutom giltigt godkännande i Sverige och d” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

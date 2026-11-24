@@ -5,7 +5,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 417
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Teriflunomide: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
 ---
@@ -72,21 +72,27 @@ Alla kandidater som TxGNN-modellen (poäng ≥ 0,99) har tagit fram för Teriflu
 
 ## Marknadsinformation Sverige
 
-| Godkännande | Produkt | Läkemedelsform | Status |
-|------|------|------|------|
-| 62490 | teriflunomid | Filmdragerad tablett | Giltigt |
-| 62469 | teriflunomid | Filmdragerad tablett | Giltigt |
-| 63904 | teriflunomid | Filmdragerad tablett | Giltigt |
-| 63903 | teriflunomid | Filmdragerad tablett | Giltigt |
-| 62464 | teriflunomid | Filmdragerad tablett | Giltigt |
-| 62879 | teriflunomid | Filmdragerad tablett | Giltigt |
-| 62701 | teriflunomid | Filmdragerad tablett | Giltigt |
-| 68846 | teriflunomid | Filmdragerad tablett | Giltigt |
-| 62732 | teriflunomid | Filmdragerad tablett | Giltigt |
-| 68847 | teriflunomid | Filmdragerad tablett | Giltigt |
-| 62517 | teriflunomid | Filmdragerad tablett | Giltigt |
-| 65381 | teriflunomid | Filmdragerad tablett | Giltigt |
-| 62465 | teriflunomid | Filmdragerad tablett | Giltigt |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 62490 | Teriflunomide Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 62469 | Teriflunomide Krka | Filmdragerad tablett | Krka d.d., Novo mesto | Godkänd |
+| 63904 | Teriflunomide Genepharm | Filmdragerad tablett | Genepharm S.A. | Godkänd |
+| 63903 | Teriflunomide Genepharm | Filmdragerad tablett | Genepharm S.A. | Godkänd |
+| 62464 | Teriflunomide STADA | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 62879 | Clefirem | Filmdragerad tablett | Bausch Health Ireland Ltd | Godkänd |
+| 62701 | Teriflunomide Orion | Filmdragerad tablett | Orion Corporation | Godkänd |
+| 68846 | Teriflunomid Devatis | Filmdragerad tablett | Devatis GmbH | Godkänd |
+| 62732 | Teriflunomide Vivanta | Filmdragerad tablett | Vivanta Generics s.r.o. | Godkänd |
+| 68847 | Teriflunomid Devatis | Filmdragerad tablett | Devatis GmbH | Godkänd |
+| 62517 | Teriflunomid Zentiva | Filmdragerad tablett | Zentiva k.s. | Godkänd |
+| 65381 | Teriflunomid SUN | Filmdragerad tablett | Sun Pharmaceutical Industries Europe B.V. | Godkänd |
+| 62465 | Teriflunomide Newbury | Filmdragerad tablett | Newbury Pharmaceuticals AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ## Säkerhetsaspekter
 

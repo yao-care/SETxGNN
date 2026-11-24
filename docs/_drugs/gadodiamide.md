@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 211
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "gadodiamide"
 predicted_indications: ["rheumatoid arthritis"]
 description: "Gadodiamide: predikterad ny indikation Reumatoid artrit (rheumatoid arthritis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 0)"
@@ -80,10 +80,16 @@ Någon rimlig terapeutisk mekanism för ett kontrastmedel vid reumatoid artrit f
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 11885 | Omniscan | Injektionsvätska, lösning | Ingen indikationstext registrerad (indraget) |
-| 22540 | Omniscan | Injektionsvätska, lösning i förfylld spruta | Ingen indikationstext registrerad (indraget) |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 11885 | Omniscan | Injektionsvätska, lösning | GE Healthcare AS | Tillfälligt återkallad |
+| 22540 | Omniscan | Injektionsvätska, lösning i förfylld spruta | GE Healthcare AS | Tillfälligt återkallad |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Båda godkännandena tillhör GE Healthcare AS och är indragna. Det finns inga giltiga godkännanden i Sverige.
 

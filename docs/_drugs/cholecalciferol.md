@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "cholecalciferol"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Cholecalciferol: predikterad ny indikation Akromesomelisk dysplasi, Campailla–Martinelli-typ (acromesomelic dysplasia, Campailla Martinelli type) (evidensnivå L5). Ursprunglig indikation: Inte angive…"
 ---
 
@@ -82,13 +82,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Läkemedlet har marknadsstatus **Marknadsförd**. Minst 20 godkännanden finns, och listan kan vara ofullständig. Samtliga 20 listade godkännanden är giltiga. Ett urval av godkännandena:
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 54666 | Fultium | Orala droppar, lösning | Ej angiven |
-| 54662 | Fultium | Kapsel, mjuk | Ej angiven |
-| 60099 | Colecalciferol Strides | Kapsel, mjuk | Ej angiven |
-| 43883 | Detremin | Orala droppar, lösning | Ej angiven |
-| 51902 | Divisun | Tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 54666 | Fultium | Orala droppar, lösning | STADA Arzneimittel AG | Godkänd |
+| 54662 | Fultium | Kapsel, mjuk | STADA Arzneimittel AG | Godkänd |
+| 60099 | Colecalciferol Strides | Kapsel, mjuk | Strides Pharma (Cyprus) Limited | Godkänd |
+| 43883 | Detremin | Orala droppar, lösning | Renapharma AB | Godkänd |
+| 51902 | Divisun | Tablett | Viatris AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

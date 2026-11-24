@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "AXITINIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Axitinib: predikterad ny indikation Liposarkom (liposarcoma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 13 (giltiga: 13)"
 ---
 
@@ -84,15 +84,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 62485 | Axitinib Avansor | Filmdragerad tablett | Ej angiven |
-| 62488 | Axitinib STADA | Filmdragerad tablett | Ej angiven |
-| 62870 | Axitinib Sandoz | Filmdragerad tablett | Ej angiven |
-| 62869 | Axitinib Sandoz | Filmdragerad tablett | Ej angiven |
-| 64901 | Axitinib Teva | Filmdragerad tablett | Ej angiven |
+<!-- licenses:begin -->
 
-Fler godkännanden finns i de lokala data än de som visas här.
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 62485 | Axitinib Avansor | Filmdragerad tablett | Avansor Pharma Oy | Godkänd |
+| 62488 | Axitinib STADA | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 62870 | Axitinib Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 62869 | Axitinib Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 64901 | Axitinib Teva | Filmdragerad tablett | TEVA GmbH | Godkänd |
+
+Tabellen visar 5 av 13 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

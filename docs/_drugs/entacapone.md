@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 163
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 monitor_inn: "entacapone"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "lethal infantile mitochondrial myopathy", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "progressive supranuclear palsy-corticobasal syndrome"]
 description: "Entacapone: predikterad ny indikation PLA2G6-associated neurodegeneration (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -84,13 +84,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Nedan visas de fem första. Någon godkänd indikationstext finns inte i de sammanställda data.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
-|---------|------|------|-----------|
-| 44588 | Entacapone Viatris | Filmdragerad tablett | Viatris Limited |
-| 50289 | Levodopa/Carbidopa/Entacapone Holsten | Filmdragerad tablett | Holsten Pharma GmbH |
-| 50348 | Levodopa/Carbidopa/Entacapone STADA Arzneimittel AG | Filmdragerad tablett | STADA Arzneimittel AG |
-| 50337 | Tapidola | Filmdragerad tablett | STADA Arzneimittel AG |
-| 50302 | Sastravi | Filmdragerad tablett | Actavis Group PTC ehf. |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 44588 | Entacapone Viatris | Filmdragerad tablett | Viatris Limited | Godkänd |
+| 50289 | Levodopa/Carbidopa/Entacapone Holsten | Filmdragerad tablett | Holsten Pharma GmbH | Godkänd |
+| 50348 | Levodopa/Carbidopa/Entacapone STADA Arzneimittel AG | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 50337 | Tapidola | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 50302 | Sastravi | Filmdragerad tablett | Actavis Group PTC ehf. | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

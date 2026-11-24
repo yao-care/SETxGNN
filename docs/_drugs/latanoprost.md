@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 253
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "LATANOPROST"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
 description: "Latanoprost: predikterad ny indikation Visceral calciphylaxis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -90,13 +90,21 @@ Nedan visas fem av dem. Indikationstext saknas i registret för dessa produkter.
 
 <!-- review:end se-lic-20261106-latanoprost-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 51352 | Monoprost (Laboratoires THEA) | Ögondroppar, lösning | Uppgift saknas |
-| 46521 | Monoprost (Laboratoires THEA) | Ögondroppar, lösning i endosbehållare | Uppgift saknas |
-| 12716 | Xalatan (Viatris Healthcare Limited) | Ögondroppar, lösning | Uppgift saknas |
-| 41820 | Latanoprost Sandoz (Sandoz A/S) | Ögondroppar, lösning | Uppgift saknas |
-| 42659 | Latanoprost Actavis (Actavis Group PTC ehf.) | Ögondroppar, lösning | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 51352 | Monoprost | Ögondroppar, lösning | Laboratoires THEA | Godkänd |
+| 46521 | Monoprost | Ögondroppar, lösning i endosbehållare | Laboratoires THEA | Godkänd |
+| 12716 | Xalatan | Ögondroppar, lösning | Viatris Healthcare Limited | Godkänd |
+| 41820 | Latanoprost Sandoz | Ögondroppar, lösning | Sandoz A/S | Godkänd |
+| 42659 | Latanoprost Actavis | Ögondroppar, lösning | Actavis Group PTC ehf. | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

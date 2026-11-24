@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "clonidine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Clonidine: predikterad ny indikation Faciodigitogenitalt syndrom (faciodigitogenital syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 10 (giltiga: 10)"
 ---
 
@@ -81,6 +81,22 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 ---
 
 ## Marknadsinformation Sverige
+
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 8478 | Catapresan | Injektionsvätska, lösning | Glenwood GmbH Pharmazeutische Erzeugnisse | Godkänd |
+| 60987 | Clotaxip | Injektionsvätska, lösning | 2care4 Generics ApS | Godkänd |
+| 61457 | Catapresan | Injektionsvätska, lösning | Orifarm AB | Godkänd |
+| 61544 | Catapresan | Injektionsvätska, lösning | Ebb Medical AB | Godkänd |
+| 61647 | Catapresan | Injektionsvätska, lösning | Orifarm AB | Godkänd |
+
+Tabellen visar 5 av 10 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Läkemedlet är marknadsfört i Sverige enligt de lokala regulatoriska uppgifterna. Alla registrerade produkter är injektionsvätska, lösning. Någon godkänd användning vid det förutsagda tillståndet finns inte.
 

@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 268
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "lomustine"
 predicted_indications: ["lymphosarcoma", "malignant tumor of meninges", "spinal cord cancer"]
 description: "Lomustine: predikterad ny indikation Lymfosarkom (lymphosarcoma) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
@@ -102,15 +102,15 @@ Veterinärdata, bland annat LOPP-regimen vid T-cellslymfom hos hund, stöder ock
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 9312 | Lomustine Medac | Kapsel, hård | Indikationstext saknas |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-lomustine-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 9312 | Lomustine Medac | Kapsel, hård | medac Gesellschaft fr klinische Spezialpräparate mbH | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”9312 (indraget) / Lomustine Medac / Kapsel, hård / Indikationstext saknas” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 9312 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-lomustine-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -159,7 +159,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-12 | Tabell: 1 godkännande (9312) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-12 | Tabell: 1 godkännande (9312) är godkänd, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 | 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Gleostine (lomustine) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3529fe2f-3c23-4862-bb20-b48026957082) |
 
 <!-- review:end log -->

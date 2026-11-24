@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "cytarabine"
 predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 description: "Cytarabine: predikterad ny indikation Småcellig lungcancer (small cell lung carcinoma) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 7)"
 ---
 
@@ -92,13 +92,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Läkemedlet är marknadsfört i Sverige, och alla 7 registrerade godkännanden är giltiga. Nedan visas fem av dem.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 16727 | Cytarabine STADA | Koncentrat till infusionsvätska, lösning | Ej angiven |
-| 16725 | Cytarabine STADA | Injektionsvätska, lösning | Ej angiven |
-| 16726 | Cytarabine STADA | Infusionsvätska, lösning | Ej angiven |
-| 11671 | Cytarabin Hikma | Injektions-/infusionsvätska, lösning | Ej angiven |
-| 45817 | Cytarabin Fresenius Kabi | Injektions-/infusionsvätska, lösning | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 16727 | Cytarabine STADA | Koncentrat till infusionsvätska, lösning | STADA Arzneimittel AG | Godkänd |
+| 16725 | Cytarabine STADA | Injektionsvätska, lösning | STADA Arzneimittel AG | Godkänd |
+| 16726 | Cytarabine STADA | Infusionsvätska, lösning | STADA Arzneimittel AG | Godkänd |
+| 11671 | Cytarabin Hikma | Injektions-/infusionsvätska, lösning | Hikma Farmacêutica (Portugal) S.A. | Godkänd |
+| 45817 | Cytarabin Fresenius Kabi | Injektions-/infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+
+Tabellen visar 5 av 7 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

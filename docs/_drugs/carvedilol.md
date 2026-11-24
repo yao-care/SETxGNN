@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "carvedilol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Carvedilol: predikterad ny indikation Malign hypertensiv njursjukdom (malignant hypertensive renal disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
@@ -81,6 +81,22 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 ---
 
 ### Marknadsinformation Sverige
+
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 18716 | Karvedilol Viatris | Filmdragerad tablett | Viatris Limited | Godkänd |
+| 18717 | Karvedilol Viatris | Filmdragerad tablett | Viatris Limited | Godkänd |
+| 18718 | Karvedilol Viatris | Filmdragerad tablett | Viatris Limited | Godkänd |
+| 19096 | Carvedilol HEXAL | Tablett | Hexal A/S | Godkänd |
+| 19097 | Carvedilol HEXAL | Tablett | Hexal A/S | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Karvedilol är i de lokala uppgifterna registrerat med marknadsstatus **Marknadsförd**. Det finns flera enkomponentsprodukter i beredningsformerna tablett och filmdragerad tablett (oral användning). Listan över godkännanden i underlaget kan vara ofullständig. Någon godkänd indikationstext finns inte registrerad i de lokala uppgifterna.
 

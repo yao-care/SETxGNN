@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "bendamustine"
 predicted_indications: ["mantle cell lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Hodgkins lymphoma", "small intestinal Burkitt lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "MALT lymphoma", "relapsing-remitting multiple sclerosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bendamustine: predikterad ny indikation Mantelcellslymfom (mantle cell lymphoma) (evidensnivå L1). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 
@@ -104,12 +104,18 @@ Ett urval av de mest relevanta prövningarna (upp till 10):
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 53300 | Bendamustine Accord | Pulver till koncentrat till infusionsvätska, lösning | Ej angiven i lokala data |
-| 53297 | Bendamustin Actavis | Pulver till koncentrat till infusionsvätska, lösning | Ej angiven i lokala data |
-| 53296 | Bendamustine medac | Pulver till koncentrat till infusionsvätska, lösning | Ej angiven i lokala data |
-| 55146 | Bendamustine Fresenius Kabi | Pulver till koncentrat till infusionsvätska, lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 53300 | Bendamustine Accord | Pulver till koncentrat till infusionsvätska, lösning | Accord Healthcare B.V. | Godkänd |
+| 53297 | Bendamustin Actavis | Pulver till koncentrat till infusionsvätska, lösning | Actavis Group PTC ehf. | Godkänd |
+| 53296 | Bendamustine medac | Pulver till koncentrat till infusionsvätska, lösning | medac Gesellschaft fr klinische Spezialpräparate mbH | Godkänd |
+| 55146 | Bendamustine Fresenius Kabi | Pulver till koncentrat till infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

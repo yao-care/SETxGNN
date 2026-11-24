@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 15
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Acitretin: predikterad ny indikation Akne (acne (disease)) (evidensnivå L3). Ursprunglig indikation: Ej angiven i de svenska godkännandena"
 monitor_inn: "ACITRETIN"
 predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
@@ -100,19 +100,19 @@ Underlaget består i huvudsak av riktlinjer, översikter och en fallrapport. Ing
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 60846 | Neotigason (Abacus Medicine A/S) | Kapsel, hård | Ej angiven |
-| 53203 | Acitretin Orifarm (Orifarm Generics A/S) | Kapsel, hård | Ej angiven |
-| 12742 | Neotigason (Actavis Group PTC ehf.) | Kapsel, hård | Ej angiven |
-| 12743 | Neotigason (Actavis Group PTC ehf.) | Kapsel, hård | Ej angiven |
-| 53202 | Acitretin Orifarm (Orifarm Generics A/S) | Kapsel, hård | Ej angiven |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-acitretin-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 60846 | Neotigason | Kapsel, hård | Abacus Medicine A/S | Godkänd |
+| 53203 | Acitretin Orifarm | Kapsel, hård | Orifarm Generics A/S | Godkänd |
+| 12742 | Neotigason | Kapsel, hård | Actavis Group PTC ehf. | Godkänd |
+| 12743 | Neotigason | Kapsel, hård | Actavis Group PTC ehf. | Godkänd |
+| 53202 | Acitretin Orifarm | Kapsel, hård | Orifarm Generics A/S | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”60846 / Neotigason (Abacus Medicine A/S) / Kapsel, hård / Ej angiven (indraget); 53203 / Acitretin Orifarm (Orifarm Generics A/S) / Kapsel, hård / Ej angiven (indraget); 12742 / Neotigason (Actavis Group PTC ehf.) / Kapsel, hård / Ej angiven (indraget); 12743 / Neotigason (Actavis Group PTC ehf.) / Kapsel, hård / Ej angiven (indraget); 53202 / Acitretin Orifarm (Orifarm Generics A/S) / Kapsel, hård / Ej angiven (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 60846, 53203, 12742, 12743, 53202 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-acitretin-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -137,7 +137,7 @@ Produktresumé med varningar och kontraindikationer har inte kunnat hämtas. Se 
 
 <!-- review:begin se-lic-20261106-acitretin-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det enda underlaget gäller hidradenitis suppurativa och inte akne vulgaris, och det består av en fas 4-prövning utan känt resultat, riktlinjer, översikter och en fallrapport. Läkemedlets fosterskadande effekt och övriga säkerhetsrisker, samt att alla svenska godkännanden är indragna, talar för försiktighet.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det enda underlaget gäller hidradenitis suppurativa och inte akne vulgaris, och det består av en fas 4-prövning utan känt resultat, riktlinjer, översikter och en fallrapport. Läkemedlets fosterskadande effekt och övriga säkerhetsrisker, samt att alla svenska godkännanden är indragna, talar för försiktighet.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-acitretin-1 -->
 
@@ -157,8 +157,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Läkemedlets fosterskadande effekt och övriga säkerhetsrisker, samt att alla svenska godkännanden är indragna, talar för försiktighet” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 5 godkännanden (60846, 53203, 12742, 12743, 53202) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Läkemedlets fosterskadande effekt och övriga säkerhetsrisker, samt att alla svenska godkännanden är indragna, talar för försiktighet” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (60846, 53203, 12742, 12743, 53202) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

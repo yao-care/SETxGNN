@@ -3,7 +3,7 @@ layout: default
 title: Norethisterone
 parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 319
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "norethisterone"
 description: "Norethisterone: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
@@ -49,9 +49,15 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 8626 | Mini-Pe (Pfizer AB) | Tablett | Ingen indikationstext registrerad. Status: godkänt |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 8626 | Mini-Pe | Tablett | Pfizer AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

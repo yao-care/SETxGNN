@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "clotrimazole"
 predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Clotrimazole: predikterad ny indikation Akne (acne (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 9 (giltiga: 9)"
 ---
 
@@ -84,13 +84,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform |
-|---------|------|------|
-| 9915 | Canesten | Vaginaltablett |
-| 66904 | Canesten | Vaginaltablett |
-| 20549 | Canesten | Vaginaltablett och kräm |
-| 9041 | Canesten | Kräm |
-| 64581 | Clotic | Örondroppar, lösning i endosbehållare |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 9915 | Canesten | Vaginaltablett | Bayer AB | Godkänd |
+| 66904 | Canesten | Vaginaltablett | Ebb Medical AB | Godkänd |
+| 20549 | Canesten | Vaginaltablett och kräm | Bayer AB | Godkänd |
+| 9041 | Canesten | Kräm | Bayer AB | Godkänd |
+| 64581 | Clotic | Örondroppar, lösning i endosbehållare | Laboratorios Salvat S.A. | Godkänd |
+
+Tabellen visar 5 av 9 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Fler godkännanden finns, bland annat Clotic (örondroppar), Canesten vaginalkapsel och Canesten vaginalkräm. Alla registrerade godkännanden är giltiga.
 

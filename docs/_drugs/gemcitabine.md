@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 214
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "endometrial mixed adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
 description: "Gemcitabine: predikterad ny indikation Rectum mucinous adenocarcinoma (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
@@ -93,12 +93,18 @@ Ytterligare prövningar finns i datan, bland annat gemcitabin med genistein (NCT
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 43531 | Gemcitabin Sandoz | Koncentrat till infusionsvätska, lösning | Indikationstext saknas |
-| 52086 | Gemcitabin SUN | Infusionsvätska, lösning | Indikationstext saknas |
-| 49702 | Gemkabi | Koncentrat till infusionsvätska, lösning | Indikationstext saknas |
-| 45507 | Gemcitabine Accord | Koncentrat till infusionsvätska, lösning | Indikationstext saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 43531 | Gemcitabin Sandoz | Koncentrat till infusionsvätska, lösning | Sandoz A/S | Godkänd |
+| 52086 | Gemcitabin SUN | Infusionsvätska, lösning | Sun Pharmaceutical Industries Europe B.V. | Godkänd |
+| 49702 | Gemkabi | Koncentrat till infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 45507 | Gemcitabine Accord | Koncentrat till infusionsvätska, lösning | Accord Healthcare B.V. | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -145,7 +151,7 @@ Uppgifter från produktresumé om varningar och kontraindikationer saknas i den 
 
 <!-- review:begin se-lic-20261106-gemcitabine-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den centrala säkerhetsinformationen från produktresumén saknas, ingen litteratur är kopplad till indikationen, och alla svenska godkännanden är indragna, vilket begränsar bedömningen.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den centrala säkerhetsinformationen från produktresumén saknas, ingen litteratur är kopplad till indikationen, och alla svenska godkännanden är indragna, vilket begränsar bedömningen.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-gemcitabine-1 -->
 
@@ -178,7 +184,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna, vilket begränsar bedömningen” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna, vilket begränsar bedömningen” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

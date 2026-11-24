@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 275
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-24
 monitor_inn: "meloxicam"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Meloxicam: predikterad ny indikation Acromesomelic dysplasia, Hunter-Thompson type (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 2)"
@@ -84,12 +84,18 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Ingen indikationstext finns registrerad.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 48662 | Melox (Medochemie Ltd) | Injektionsvätska, lösning | Ej angiven |
-| 23826 | Meloxicam Bluefish (Bluefish Pharmaceuticals AB) | Tablett | Ej angiven |
-| 59104 | Meloxicam Ebb (Ebb Medical AB) | Tablett | Ej angiven |
-| 23827 | Meloxicam Bluefish (Bluefish Pharmaceuticals AB) | Tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 48662 | Melox | Injektionsvätska, lösning | Medochemie Ltd | Godkänd |
+| 23826 | Meloxicam Bluefish | Tablett | Bluefish Pharmaceuticals AB | Avregistrerad |
+| 59104 | Meloxicam Ebb | Tablett | Ebb Medical AB | Godkänd |
+| 23827 | Meloxicam Bluefish | Tablett | Bluefish Pharmaceuticals AB | Avregistrerad |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 178
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "ethinylestradiol"
 predicted_indications: ["zinc, elevated plasma"]
 description: "Ethinylestradiol: predikterad ny indikation Förhöjt plasmazink (zinc, elevated plasma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -72,13 +72,21 @@ Dessutom är förhöjt plasmazink ett laboratoriefynd snarare än en väldefinie
 
 Läkemedlet är marknadsfört och har 20 giltiga godkännanden. Ingen indikationstext finns registrerad. De fem första godkännandena visas nedan.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 64500 | Aulfin | Depottablett | Uppgift saknas |
-| 18540 | Neovletta 28 | Dragerad tablett | Uppgift saknas |
-| 54511 | Ornibel | Vaginalinlägg | Uppgift saknas |
-| 16328 | Yasmin 28 | Filmdragerad tablett | Uppgift saknas |
-| 44015 | Midiana | Filmdragerad tablett | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 64500 | Aulfin | Depottablett | Exeltis Healthcare, S.L. | Godkänd |
+| 18540 | Neovletta 28 | Dragerad tablett | Bayer AB | Godkänd |
+| 54511 | Ornibel | Vaginalinlägg | Exeltis Healthcare, S.L. | Godkänd |
+| 16328 | Yasmin 28 | Filmdragerad tablett | Bayer AB | Godkänd |
+| 44015 | Midiana | Filmdragerad tablett | Gedeon Richter Plc | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

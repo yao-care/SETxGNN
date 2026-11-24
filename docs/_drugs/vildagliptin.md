@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 449
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "VILDAGLIPTIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 description: "Vildagliptin: predikterad ny indikation Klassiskt stelmanssyndrom (classic stiff person syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 16 (giltiga: 16)"
@@ -82,13 +82,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Nedan visas fem av dem. Ingen indikationstext finns registrerad för dessa produkter.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 55462 | Vildagliptin Krka | Tablett | Godkänd |
-| 58788 | Kwikaton | Tablett | Godkänd |
-| 58787 | Vildagliptin STADA | Tablett | Godkänd |
-| 59045 | Vildagliptin Accord | Tablett | Godkänd |
-| 54670 | Dalmevin | Tablett | Godkänd |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 55462 | Vildagliptin Krka | Tablett | Krka d.d., Novo mesto | Godkänd |
+| 58788 | Kwikaton | Tablett | STADA Arzneimittel AG | Godkänd |
+| 58787 | Vildagliptin STADA | Tablett | STADA Arzneimittel AG | Godkänd |
+| 59045 | Vildagliptin Accord | Tablett | Accord Healthcare B.V. | Godkänd |
+| 54670 | Dalmevin | Tablett | Medochemie Ltd | Godkänd |
+
+Tabellen visar 5 av 16 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

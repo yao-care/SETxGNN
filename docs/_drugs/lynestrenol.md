@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "LYNESTRENOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "leprosy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Lynestrenol: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i godkännandet"
 ---
 
@@ -85,9 +85,15 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 8919 | Exlutena | Tablett | Ingen indikationstext angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 8919 | Exlutena | Tablett | NV Organon | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

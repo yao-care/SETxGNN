@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 174
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "esomeprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Esomeprazole: predikterad ny indikation Duodenal obstruction (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 19 (giltiga: 19)"
@@ -88,17 +88,25 @@ Godkänd indikationstext finns inte i de sammanställda uppgifterna. Nedan visas
 
 <!-- review:begin se-lic-20261106-esomeprazole-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 19 godkännanden är avregistrerade och inget är för närvarande giltigt. Godkänd indikationstext finns inte i de sammanställda uppgifterna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 19, varav giltiga: 19; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 19 godkännanden är avregistrerade och inget är för närvarande giltigt. Godkänd indikationstext finns inte i de sammanställda uppgifterna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-esomeprazole-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform |
-|---------|------|------|
-| 19345 | Esopral | Pulver till injektions-/infusionsvätska, lösning |
-| 47310 | Esomeprazol Jubilant | Enterotablett |
-| 45394 | Esomeprazol Viatris | Enterokapsel, hård |
-| 53628 | Esomeprazol SUN Pharma | Pulver till injektions-/infusionsvätska, lösning |
-| 63673 | Nexizol | Granulat till oral enterosuspension i dospåse |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 19345 | Esopral | Pulver till injektions-/infusionsvätska, lösning | Grnenthal GmbH | Godkänd |
+| 47310 | Esomeprazol Jubilant | Enterotablett | Jubilant Pharmaceuticals nv | Godkänd |
+| 45394 | Esomeprazol Viatris | Enterokapsel, hård | Viatris Limited | Godkänd |
+| 53628 | Esomeprazol SUN Pharma | Pulver till injektions-/infusionsvätska, lösning | Sun Pharmaceutical Industries Europe B.V. | Godkänd |
+| 63673 | Nexizol | Granulat till oral enterosuspension i dospåse | 2care4 Generics ApS | Godkänd |
+
+Tabellen visar 5 av 19 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -127,7 +135,7 @@ Godkänd indikationstext finns inte i de sammanställda uppgifterna. Nedan visas
 
 <!-- review:begin se-lic-20261106-esomeprazole-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargörande av regulatorisk väg, eftersom inget giltigt godkännande finns i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 19, varav giltiga: 19; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargörande av regulatorisk väg, eftersom inget giltigt godkännande finns i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-esomeprazole-2 -->
 
@@ -139,8 +147,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga 19 godkännanden är avregistrerade och inget är för närvarande giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”eftersom inget giltigt godkännande finns i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga 19 godkännanden är avregistrerade och inget är för närvarande giltigt” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom inget giltigt godkännande finns i Sverige” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

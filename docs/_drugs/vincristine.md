@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "vincristine"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Vincristine: predikterad ny indikation Vertebral anomalies and variable endocrine and T-cell dysfunction (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
@@ -80,10 +80,16 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 11028 | Vincristine Pfizer (Pfizer AB) | Injektionsvätska, lösning | Ingen indikationstext angiven i licensdatan |
-| 9926 | Oncovin (STADA Nordic ApS) | Injektionsvätska, lösning | Ingen indikationstext angiven i licensdatan |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 11028 | Vincristine Pfizer | Injektionsvätska, lösning | Pfizer AB | Godkänd |
+| 9926 | Oncovin | Injektionsvätska, lösning | STADA Nordic ApS | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

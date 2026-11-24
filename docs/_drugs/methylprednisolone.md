@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 287
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "methylprednisolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Methylprednisolone: predikterad ny indikation Alopecia mucinosa (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 9 (giltiga: 9)"
@@ -82,13 +82,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Läkemedlet har marknadsstatus "på marknaden" i Sverige. Alla de godkännanden som listas nedan är giltiga. Beredningsformen är tablett (oral användning).
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 58414 | Medrol (Ebb Medical AB) | Tablett | – (godkänt) |
-| 63218 | Medrol (2care4 ApS) | Tablett | – (godkänt) |
-| 49092 | Methylprednisolone Orion | Tablett | – (godkänt) |
-| 49091 | Methylprednisolone Orion | Tablett | – (godkänt) |
-| 64341 | Methylprednisolone Bijon | Tablett | – (godkänt) |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 58414 | Medrol | Tablett | Ebb Medical AB | Godkänd |
+| 63218 | Medrol | Tablett | 2care4 ApS | Godkänd |
+| 49092 | Methylprednisolone Orion | Tablett | Orion Corporation | Godkänd |
+| 49091 | Methylprednisolone Orion | Tablett | Orion Corporation | Godkänd |
+| 64341 | Methylprednisolone Bijon | Tablett | UAB BIJON medica | Godkänd |
+
+Tabellen visar 5 av 9 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

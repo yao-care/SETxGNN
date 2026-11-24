@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB06697
 monitor_inn: "Artemether"
 predicted_indications: ["acquired angioedema", "angioedema", "hereditary angioedema", "nephrogenic syndrome of inappropriate antidiuresis", "acute contagious conjunctivitis", "scleroderma (disease)", "conjunctivitis", "renin-angiotensin-aldosterone system-blocker-induced angioedema"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Artemeter: predikterad ny indikation Förvärvat angioödem (acquired angioedema) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
@@ -71,9 +71,15 @@ Den höga poängen (0,9990) speglar sannolikt närhet mellan angioödemrelaterad
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 16557 | Riamet (Novartis Sverige AB) | Tablett | Ingen indikationstext registrerad i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 16557 | Riamet | Tablett | Novartis Sverige AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

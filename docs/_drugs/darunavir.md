@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "DARUNAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Darunavir: predikterad ny indikation Simianskt immunbristvirus-infektion (simian immunodeficiency virus infection) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 7)"
 ---
 
@@ -87,13 +87,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 58499 | Darunavir Amarox | Filmdragerad tablett | Ej angiven i lokala data |
-| 58498 | Darunavir Amarox | Filmdragerad tablett | Ej angiven i lokala data |
-| 53806 | Darunavir Sandoz | Filmdragerad tablett | Ej angiven i lokala data |
-| 58500 | Darunavir Amarox | Filmdragerad tablett | Ej angiven i lokala data |
-| 53676 | Darunavir STADA | Filmdragerad tablett | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 58499 | Darunavir Amarox | Filmdragerad tablett | Amarox Pharma B.V | Godkänd |
+| 58498 | Darunavir Amarox | Filmdragerad tablett | Amarox Pharma B.V | Godkänd |
+| 53806 | Darunavir Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 58500 | Darunavir Amarox | Filmdragerad tablett | Amarox Pharma B.V | Godkänd |
+| 53676 | Darunavir STADA | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+
+Tabellen visar 5 av 7 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

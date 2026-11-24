@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "articaine"
 predicted_indications: ["gout", "exostosis", "allergic asthma", "intrinsic asthma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Articaine: predikterad ny indikation Gikt (gout) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 
@@ -82,14 +82,26 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Enligt de lokala registren finns fyra godkännanden för enkomponentsprodukter av artikain, alla som injektionsvätska, lösning. Indikationstext finns inte registrerad för någon av dem.
+Enligt de lokala registren gäller samtliga godkännanden för artikain kombinationsprodukter med adrenalin, alla som injektionsvätska, lösning. Indikationstext finns inte registrerad för någon av dem.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
-|---------|------|------|-----------|
-| 14251 | Septocaine forte | Injektionsvätska, lösning | SEPTODONT |
-| 67433 | Nordanest | Injektionsvätska, lösning | Laboratorios Inibsa S.A. |
-| 67432 | Nordanest | Injektionsvätska, lösning | Laboratorios Inibsa S.A. |
-| 14380 | Septocaine | Injektionsvätska, lösning | SEPTODONT |
+<!-- review:begin se-lic-20261124-articaine-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Enligt de lokala registren finns fyra godkännanden för enkomponentsprodukter av artikain, alla som injektionsvätska, lösning.” Enligt Läkemedelsverkets uppgifter innehåller samtliga godkännanden för artikain (Septocaine, Septocaine forte, Nordanest) både artikainhydroklorid och adrenalintartrat; texten angav dem som enkomponentsprodukter. Uppgiften om enkomponents- och kombinationsprodukter följer de verksamma ämnena i Läkemedelsverkets uppgifter; antal godkännanden och status finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (verksamma ämnen, registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124-articaine-1 -->
+
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 14251 | Septocaine forte | Injektionsvätska, lösning | SEPTODONT | Godkänd |
+| 67433 | Nordanest | Injektionsvätska, lösning | Laboratorios Inibsa S.A. | Godkänd |
+| 67432 | Nordanest | Injektionsvätska, lösning | Laboratorios Inibsa S.A. | Godkänd |
+| 14380 | Septocaine | Injektionsvätska, lösning | SEPTODONT | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -113,6 +125,19 @@ Produktresumén bör konsulteras för fullständig information om varningar och 
 - Prekliniska studier som direkt undersöker effekt vid gikt eller urinsyrarelaterad inflammation
 - Genomgång av produktresumén för varningar och kontraindikationer
 - Bedömning av om administreringsväg och beredningsform (injektion) är lämpliga för indikationen
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-24 | Artikain: godkännandena gäller kombinationsprodukter med adrenalin, inte enkomponentsprodukter | Rättad | [Läkemedelsverket – export av godkända läkemedel (verksamma ämnen, registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

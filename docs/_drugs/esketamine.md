@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 173
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "esketamine"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
 description: "Esketamine: predikterad ny indikation Agoraphobia (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 8 (giltiga: 8)"
@@ -72,13 +72,21 @@ Inga studier på agorafobi har kunnat bekräfta det, så den mekanistiska koppli
 
 Ingen godkänd indikationstext finns registrerad.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 56395 | Sinmelan | Injektionsvätska, lösning | Ej angiven |
-| 56396 | Sinmelan | Injektionsvätska, lösning | Ej angiven |
-| 57274 | Esketamine Orifarm | Injektions-/infusionsvätska, lösning | Ej angiven |
-| 57273 | Esketamine Orifarm | Injektions-/infusionsvätska, lösning | Ej angiven |
-| 49021 | Ketanest | Injektions-/infusionsvätska, lösning | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 56395 | Sinmelan | Injektionsvätska, lösning | Eurocept International B.V. | Godkänd |
+| 56396 | Sinmelan | Injektionsvätska, lösning | Eurocept International B.V. | Godkänd |
+| 57274 | Esketamine Orifarm | Injektions-/infusionsvätska, lösning | Orifarm Generics A/S | Godkänd |
+| 57273 | Esketamine Orifarm | Injektions-/infusionsvätska, lösning | Orifarm Generics A/S | Godkänd |
+| 49021 | Ketanest | Injektions-/infusionsvätska, lösning | Pfizer AB | Godkänd |
+
+Tabellen visar 5 av 8 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

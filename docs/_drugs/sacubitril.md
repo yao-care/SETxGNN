@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 390
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "sacubitril"
 predicted_indications: ["brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "rheumatoid arthritis", "hemoglobinopathy"]
 description: "Sacubitril: predikterad ny indikation Brain small vessel disease 1 with or without ocular anomalies (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -86,13 +86,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Nedan visas fem av dem.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 65640 | Sacubitril/Valsartan STADA | Filmdragerad tablett | Indikationstext saknas |
-| 65720 | Sacubitril/Valsartan Teva | Filmdragerad tablett | Indikationstext saknas |
-| 65654 | Sacubitril/Valsartan Accord | Filmdragerad tablett | Indikationstext saknas |
-| 67461 | Sanpla | Filmdragerad tablett | Indikationstext saknas |
-| 65652 | Sakubitril/Valsartan Devatis | Filmdragerad tablett | Indikationstext saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 65640 | Sacubitril/Valsartan STADA | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 65720 | Sacubitril/Valsartan Teva | Filmdragerad tablett | TEVA GmbH | Godkänd |
+| 65654 | Sacubitril/Valsartan Accord | Filmdragerad tablett | Accord Healthcare B.V. | Godkänd |
+| 67461 | Sanpla | Filmdragerad tablett | Bausch Health Ireland Ltd | Godkänd |
+| 65652 | Sakubitril/Valsartan Devatis | Filmdragerad tablett | Devatis GmbH | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

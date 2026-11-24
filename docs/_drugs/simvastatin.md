@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 397
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "SIMVASTATIN"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: predikterad ny indikation Brain stem infarction (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -114,13 +114,21 @@ De fem första visas nedan.
 
 <!-- review:end se-lic-20261106-simvastatin-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 24126 | Simvastatin Brown | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 24123 | Simvastatin Brown | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 17534 | Simvastatin Sandoz | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 17536 | Simvastatin Sandoz | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 12462 | Zocord (NV Organon) | Filmdragerad tablett | Ingen indikationstext registrerad |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 24126 | Simvastatin Brown | Filmdragerad tablett | Brown & Burk IR Limited | Godkänd |
+| 24123 | Simvastatin Brown | Filmdragerad tablett | Brown & Burk IR Limited | Godkänd |
+| 17534 | Simvastatin Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 17536 | Simvastatin Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 12462 | Zocord | Filmdragerad tablett | NV Organon | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

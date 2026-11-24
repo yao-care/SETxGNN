@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "amsacrine"
 drugbank_id: DB00276
 predicted_indications: ["hyperthyroidism", "plasma cell myeloma", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "bronchitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amsacrine: predikterad ny indikation Hypertyreos (hyperthyroidism) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
@@ -81,9 +81,15 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 56309 | Amsalyo | Pulver till koncentrat till infusionsvätska, lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 56309 | Amsalyo | Pulver till koncentrat till infusionsvätska, lösning | Eurocept International B.V. | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

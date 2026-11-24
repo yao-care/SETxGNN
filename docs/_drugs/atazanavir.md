@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "atazanavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atazanavir: predikterad ny indikation Felint immunbristsyndrom hos katt (feline acquired immunodeficiency syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
@@ -82,10 +82,16 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 56659 | Atazanavir STADA | Kapsel, hård | Indikationstext saknas i lokala data |
-| 56658 | Atazanavir STADA | Kapsel, hård | Indikationstext saknas i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 56659 | Atazanavir STADA | Kapsel, hård | STADA Arzneimittel AG | Godkänd |
+| 56658 | Atazanavir STADA | Kapsel, hård | STADA Arzneimittel AG | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Läkemedlet har enligt lokala data marknadsstatusen "Marknadsförd". Båda registrerade godkännandena avser enkelsubstansprodukter från STADA Arzneimittel AG.
 

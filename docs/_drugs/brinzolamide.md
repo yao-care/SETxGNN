@@ -5,7 +5,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 66
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Brinzolamide: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
 ---
@@ -72,24 +72,30 @@ Alla kandidater som TxGNN-modellen (score ≥ 0,99) föreslår för Brinzolamide
 
 ## Marknadsinformation Sverige
 
-| Godkännande | Produkt | Läkemedelsform | Status |
-|------|------|------|------|
-| 66865 | brinzolamid | Ögondroppar, suspension | Giltigt |
-| 48077 | brinzolamid | Ögondroppar, suspension | Giltigt |
-| 59274 | brinzolamid | Ögondroppar, suspension | Giltigt |
-| 49113 | brinzolamid | Ögondroppar, suspension | Giltigt |
-| 66708 | brinzolamid; timololmaleat | Ögondroppar, suspension | Giltigt |
-| 59497 | brinzolamid; timololmaleat | Ögondroppar, suspension | Giltigt |
-| 62342 | brinzolamid; timololmaleat | Ögondroppar, suspension | Giltigt |
-| 62580 | brinzolamid; timololmaleat | Ögondroppar, suspension | Giltigt |
-| 63652 | brimonidintartrat; brinzolamid | Ögondroppar, suspension | Giltigt |
-| 63650 | brimonidintartrat; brinzolamid | Ögondroppar, suspension | Giltigt |
-| 62581 | brinzolamid; timololmaleat | Ögondroppar, suspension | Giltigt |
-| 59495 | brinzolamid; timololmaleat | Ögondroppar, suspension | Giltigt |
-| 65214 | brimonidintartrat; brinzolamid | Ögondroppar, suspension | Giltigt |
-| 57333 | brinzolamid; timololmaleat | Ögondroppar, suspension | Giltigt |
-| 59508 | brinzolamid; timololmaleat | Ögondroppar, suspension | Giltigt |
-| 63651 | brimonidintartrat; brinzolamid | Ögondroppar, suspension | Giltigt |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 66865 | Brinzolamide Hexal | Ögondroppar, suspension | Hexal A/S | Godkänd |
+| 48077 | Brinzolamid Stada | Ögondroppar, suspension | STADA Arzneimittel AG | Godkänd |
+| 59274 | Brinzolamide Accord | Ögondroppar, suspension | Accord Healthcare B.V. | Godkänd |
+| 49113 | Brinzolamide Sandoz | Ögondroppar, suspension | Sandoz A/S | Godkänd |
+| 66708 | Zoltim | Ögondroppar, suspension | Blumont Ofta Trading Ltd | Godkänd |
+| 59497 | Brintidox | Ögondroppar, suspension | DOC Generici Srl | Godkänd |
+| 62342 | Brinzolamide/Timolol Abacus Medicine | Ögondroppar, suspension | Abacus Medicine A/S | Godkänd |
+| 62580 | Brinzolamide/Timolol Zentiva | Ögondroppar, suspension | Zentiva k.s. | Godkänd |
+| 63652 | Brinzolamid/Brimonidin Medical Valley | Ögondroppar, suspension | Medical Valley Invest AB | Godkänd |
+| 63650 | Brinzolamide/Brimonidine STADA | Ögondroppar, suspension | STADA Arzneimittel AG | Godkänd |
+| 62581 | Brinzolamid/Timolol Medical Valley | Ögondroppar, suspension | Medical Valley Invest AB | Godkänd |
+| 59495 | Brinzolamide/Timolol Accord | Ögondroppar, suspension | Accord Healthcare B.V. | Godkänd |
+| 65214 | Zolbrym | Ögondroppar, suspension | Blumont Ofta Trading Ltd | Godkänd |
+| 57333 | Brinzolamide/Timolol STADA | Ögondroppar, suspension | STADA Arzneimittel AG | Godkänd |
+| 59508 | Brinzolamide/Timolol AZAD | Ögondroppar, suspension | AZAD Pharma GmbH | Godkänd |
+| 63651 | Brinzolamid/Brimonidin Zentiva | Ögondroppar, suspension | Zentiva k.s. | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ## Säkerhetsaspekter
 

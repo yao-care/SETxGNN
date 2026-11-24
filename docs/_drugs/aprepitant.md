@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "APREPITANT"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "hypertrichosis (disease)", "pulmonary hypertension", "leprosy", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "kyphoscoliotic heart disease", "syndrome with a Dandy-Walker malformation as major feature", "subarachnoid hemorrhage (disease)", "isolated genetic hair shaft abnormality"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Aprepitant: predikterad ny indikation Nefrogent syndrom med inadekvat antidiures (nephrogenic syndrome of inappropriate antidiuresis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokal…"
 ---
 
@@ -82,13 +82,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Marknadsstatus i Sverige är enligt de lokala uppgifterna **marknadsförd**. Nedan visas de huvudsakliga godkännandena. Indikationstext finns inte registrerad i de lokala uppgifterna.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 56643 | Aprepitant Medical Valley | Kapsel, hård | Ej registrerad |
-| 56649 | Aprepitant STADA | Kapsel, hård | Ej registrerad |
-| 56650 | Aprepitant Medical Valley | Kapsel, hård | Ej registrerad |
-| 56642 | Aprepitant Medical Valley | Kapsel, hård | Ej registrerad |
-| 56638 | Aprepitant STADA | Kapsel, hård | Ej registrerad |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 56643 | Aprepitant Medical Valley | Kapsel, hård | Medical Valley Invest AB | Godkänd |
+| 56649 | Aprepitant STADA | Kapsel, hård | STADA Arzneimittel AG | Godkänd |
+| 56650 | Aprepitant Medical Valley | Kapsel, hård | Medical Valley Invest AB | Godkänd |
+| 56642 | Aprepitant Medical Valley | Kapsel, hård | Medical Valley Invest AB | Godkänd |
+| 56638 | Aprepitant STADA | Kapsel, hård | STADA Arzneimittel AG | Godkänd |
+
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

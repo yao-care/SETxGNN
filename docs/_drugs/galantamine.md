@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 212
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "galantamine"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "acute intermittent porphyria"]
 description: "Galantamine: predikterad ny indikation Psychogenic movement disorders (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -117,13 +117,21 @@ Indikationstext finns inte i de sammanställda uppgifterna. Fem av godkännanden
 
 <!-- review:end se-lic-20261106-galantamine-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform |
-|---------|------|------|
-| 44312 | Galantamin Krka | Depotkapsel, hård |
-| 44400 | Galantamin Actavis | Depotkapsel, hård |
-| 57354 | Galantamine Medical Valley | Depotkapsel, hård |
-| 56890 | Reminyl | Oral lösning |
-| 19349 | Reminyl | Depotkapsel, hård |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 44312 | Galantamin Krka | Depotkapsel, hård | KRKA, tovarna zdravil, d.d., Novo mesto | Godkänd |
+| 44400 | Galantamin Actavis | Depotkapsel, hård | Actavis Group PTC ehf. | Godkänd |
+| 57354 | Galantamine Medical Valley | Depotkapsel, hård | Medical Valley Invest AB | Godkänd |
+| 56890 | Reminyl | Oral lösning | 2care4 ApS | Godkänd |
+| 19349 | Reminyl | Depotkapsel, hård | Essential Pharma Ltd | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

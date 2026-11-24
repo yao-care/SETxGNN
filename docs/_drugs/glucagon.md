@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 216
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "glucagon"
 predicted_indications: ["irritable bowel syndrome"]
 description: "Glucagon: predikterad ny indikation Irritabelt tarmsyndrom (irritable bowel syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
@@ -94,16 +94,16 @@ Litteraturen gäller GLP-1 eller IBS i allmänhet, inte glukagon vid IBS.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 8075-2 | Glucagon Novo Nordisk | Pulver och vätska till injektionsvätska, lösning i förfylld spruta | Ej angiven |
-| 8075-1 | Glucagon Novo Nordisk | Pulver och vätska till injektionsvätska, lösning | Ej angiven |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-glucagon-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 8075-2 | Glucagon Novo Nordisk | Pulver och vätska till injektionsvätska, lösning i förfylld spruta | Novo Nordisk A/S | Godkänd |
+| 8075-1 | Glucagon Novo Nordisk | Pulver och vätska till injektionsvätska, lösning | Novo Nordisk A/S | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”8075-2 (avregistrerad) / Glucagon Novo Nordisk / Pulver och vätska till injektionsvätska, lösning i förfylld spruta / Ej angiven; 8075-1 (avregistrerad) / Glucagon Novo Nordisk / Pulver och vätska till injektionsvätska, lösning / Ej angiven” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 8075-2, 8075-1 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-glucagon-1 -->
+<!-- licenses:end -->
 
 Båda godkännandena är giltiga och innehas av Novo Nordisk A/S.
 
@@ -137,7 +137,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-12 | Tabell: 2 godkännanden (8075-2, 8075-1) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-12 | Tabell: 2 godkännanden (8075-2, 8075-1) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

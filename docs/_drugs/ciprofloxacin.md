@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "CIPROFLOXACIN"
 predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Ciprofloxacin: predikterad ny indikation Diffus sklerodermi (diffuse scleroderma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
 ---
 
@@ -85,13 +85,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 12747 | Ciproxin | Granulat och vätska till oral suspension | Ej angiven |
-| 68759 | Ciproxin | Granulat och vätska till oral suspension | Ej angiven |
-| 12746 | Ciproxin | Granulat och vätska till oral suspension | Ej angiven |
-| 24408 | Ciprofloxacin Navamedic | Infusionsvätska, lösning | Ej angiven |
-| 53658 | Ciproxin | Granulat och vätska till oral suspension | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 12747 | Ciproxin | Granulat och vätska till oral suspension | Bayer AB | Godkänd |
+| 68759 | Ciproxin | Granulat och vätska till oral suspension | 2care4 ApS | Godkänd |
+| 12746 | Ciproxin | Granulat och vätska till oral suspension | Bayer AB | Godkänd |
+| 24408 | Ciprofloxacin Navamedic | Infusionsvätska, lösning | Navamedic ASA | Godkänd |
+| 53658 | Ciproxin | Granulat och vätska till oral suspension | Ebb Medical AB | Godkänd |
+
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Samtliga sex godkännanden i underlaget är giltiga; fem av dem visas ovan.
 

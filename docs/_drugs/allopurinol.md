@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ALLOPURINOL"
 predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Allopurinol: predikterad ny indikation Hepatisk porfyri (hepatic porphyria) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 16 (giltiga: 16)"
 ---
 
@@ -87,13 +87,21 @@ Ingen av publikationerna studerar allopurinol vid hepatisk porfyri.
 
 Allopurinol finns som tabletter (oral beredningsform) från flera tillverkare i Sverige. Marknadsstatus är marknadsförd, och samtliga 16 godkännanden i de lokala data är giltiga. Någon indikationstext finns inte registrerad i de lokala data.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 9845 | Allopurinol Orifarm | Tablett | Ej registrerad |
-| 56976 | Allopurinol Accord | Tablett | Ej registrerad |
-| 11291 | Allopurinol Nordic Drugs | Tablett | Ej registrerad |
-| 53057 | Allopurinol Sandoz | Tablett | Ej registrerad |
-| 41980 | Allopurinol Teva | Tablett | Ej registrerad |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 9845 | Allopurinol Orifarm | Tablett | Orifarm Healthcare A/S | Godkänd |
+| 56976 | Allopurinol Accord | Tablett | Accord Healthcare B.V. | Godkänd |
+| 11291 | Allopurinol Nordic Drugs | Tablett | Nordic Drugs AB | Godkänd |
+| 53057 | Allopurinol Sandoz | Tablett | Sandoz A/S | Godkänd |
+| 41980 | Allopurinol Teva | Tablett | Teva Sweden AB | Godkänd |
+
+Tabellen visar 5 av 16 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 292
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "micafungin"
 predicted_indications: ["urinary tract infection (disease)"]
 description: "Micafungin: predikterad ny indikation Urinvägsinfektion (urinary tract infection (disease)) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): 9 (giltiga: 9)"
@@ -96,17 +96,25 @@ Indikationstext finns inte i de sammanställda data. De fem första visas nedan.
 
 <!-- review:begin se-lic-20261106-micafungin-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla nio godkännanden är indragna. Indikationstext finns inte i de sammanställda data.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla nio godkännanden är indragna. Indikationstext finns inte i de sammanställda data.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-micafungin-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 63299 | Micafungin Accord (Accord Healthcare B.V.) | Pulver till koncentrat till infusionsvätska, lösning | Uppgift saknas |
-| 60626 | Micafungin Bioglan (Bioglan AB) | Pulver till koncentrat till infusionsvätska, lösning | Uppgift saknas |
-| 63298 | Micafungin Accord (Accord Healthcare B.V.) | Pulver till koncentrat till infusionsvätska, lösning | Uppgift saknas |
-| 66430 | Micafungin Hikma (Hikma Farmacêutica) | Pulver till koncentrat till infusionsvätska, lösning | Uppgift saknas |
-| 66429 | Micafungin Hikma (Hikma Farmacêutica) | Pulver till koncentrat till infusionsvätska, lösning | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 63299 | Micafungin Accord | Pulver till koncentrat till infusionsvätska, lösning | Accord Healthcare B.V. | Godkänd |
+| 60626 | Micafungin Bioglan | Pulver till koncentrat till infusionsvätska, lösning | Bioglan AB | Godkänd |
+| 63298 | Micafungin Accord | Pulver till koncentrat till infusionsvätska, lösning | Accord Healthcare B.V. | Godkänd |
+| 66430 | Micafungin Hikma | Pulver till koncentrat till infusionsvätska, lösning | Hikma Farmacêutica (Portugal) S.A. | Godkänd |
+| 66429 | Micafungin Hikma | Pulver till koncentrat till infusionsvätska, lösning | Hikma Farmacêutica (Portugal) S.A. | Godkänd |
+
+Tabellen visar 5 av 9 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -133,7 +141,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 
 <!-- review:begin se-lic-20261106-micafungin-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det saknas registrerade prövningar och randomiserade studier, och läkemedlets urinutsöndring är begränsad. / Alla svenska godkännanden är indragna, så ingen produkt är för närvarande marknadsförd.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det saknas registrerade prövningar och randomiserade studier, och läkemedlets urinutsöndring är begränsad. / Alla svenska godkännanden är indragna, så ingen produkt är för närvarande marknadsförd.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-micafungin-2 -->
 
@@ -147,7 +155,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 
 <!-- review:begin se-lic-20261106-micafungin-3 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Utreda marknadstillgång i Sverige, eftersom samtliga godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Utreda marknadstillgång i Sverige, eftersom samtliga godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-micafungin-3 -->
 
@@ -159,9 +167,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Alla nio godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, så ingen produkt är för närvarande marknadsförd” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”eftersom samtliga godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla nio godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, så ingen produkt är för närvarande marknadsförd” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom samtliga godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

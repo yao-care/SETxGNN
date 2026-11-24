@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "decitabine"
 predicted_indications: ["refractory cytopenia of childhood"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Decitabine: predikterad ny indikation Refraktär cytopeni hos barn (refractory cytopenia of childhood) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
 ---
 
@@ -87,11 +87,17 @@ Anmärkning: Den första studien avser pediatriskt MDS i allmänhet. Fallrapport
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 67186 | Decitabin Teva | Pulver till koncentrat till infusionsvätska, lösning | Ingen indikationstext registrerad |
-| 67129 | Decitabine Accord | Pulver till koncentrat till infusionsvätska, lösning | Ingen indikationstext registrerad |
-| 67130 | Decitabine Accord | Pulver till koncentrat till infusionsvätska, lösning | Ingen indikationstext registrerad |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 67186 | Decitabin Teva | Pulver till koncentrat till infusionsvätska, lösning | Teva B.V. | Godkänd |
+| 67129 | Decitabine Accord | Pulver till koncentrat till infusionsvätska, lösning | Accord Healthcare B.V. | Godkänd |
+| 67130 | Decitabine Accord | Pulver till koncentrat till infusionsvätska, lösning | Accord Healthcare B.V. | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

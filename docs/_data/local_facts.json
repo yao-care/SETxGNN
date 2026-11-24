@@ -21,11 +21,11 @@
   "items_current": 2177
  },
  "reviews": {
-  "records": 625,
-  "pages": 303,
-  "public_pages_with_records": 300,
+  "records": 633,
+  "pages": 311,
+  "public_pages_with_records": 308,
   "by_action": {
-   "correct": 566,
+   "correct": 574,
    "mechanism": 59
   }
  },
@@ -58,7 +58,7 @@
    "l": "L5",
    "lt": 19,
    "lv": 19,
-   "r": 0,
+   "r": 1,
    "i": "alopecia mucinosa"
   },
   {
@@ -195,198 +195,198 @@
  },
  "recent_reviews": [
   {
+   "t": "Thiamine",
+   "u": "/drugs/thiamine/",
+   "s": "Tiamin: Zubatmin och Viant är kombinationsprodukter med andra vitaminer",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Imipenem",
+   "u": "/drugs/imipenem/",
+   "s": "Imipenem: godkännandena gäller kombinationen imipenem/cilastatin, inte enkomponentsprodukter",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Dipyridamole",
+   "u": "/drugs/dipyridamole/",
+   "s": "Dipyridamol: Diprasorin är en kombinationsprodukt med acetylsalicylsyra",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Dexamethasone",
+   "u": "/drugs/dexamethasone/",
+   "s": "Dexametason: Tobrasone och Toflacort är kombinationsprodukter med tobramycin",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Cyanocobalamin",
+   "u": "/drugs/cyanocobalamin/",
+   "s": "Cyanokobalamin: flera godkännanden gäller kombinationsprodukter med andra vitaminer",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Bupivacaine",
+   "u": "/drugs/bupivacaine/",
+   "s": "Bupivakain: Marcain adrenalin är kombinationsberedningar med adrenalin",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Bendroflumethiazide",
+   "u": "/drugs/bendroflumethiazide/",
+   "s": "Bendroflumetiazid: de filmdragerade tabletterna är kombinationsprodukter med kaliumklorid",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Articaine",
+   "u": "/drugs/articaine/",
+   "s": "Artikain: godkännandena gäller kombinationsprodukter med adrenalin, inte enkomponentsprodukter",
+   "d": "2026-11-24"
+  },
+  {
    "t": "Febuxostat",
    "u": "/drugs/febuxostat/",
    "s": "Nästa steg: två av tre svenska godkännanden är giltiga, inte bara ett avregistrerat",
    "d": "2026-11-16"
   },
   {
+   "t": "Zonisamide",
+   "u": "/drugs/zonisamide/",
+   "s": "Borttaget: ”Klargöra läkemedelsformens och administreringsvägens förutsättningar, samt om en ny registrering…",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Zolmitriptan",
+   "u": "/drugs/zolmitriptan/",
+   "s": "Borttaget: ”och alla svenska godkännanden är indragna”",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Ziprasidone",
+   "u": "/drugs/ziprasidone/",
+   "s": "Borttaget: ”Totalt 8 godkännanden, samtliga avregistrerade”",
+   "d": "2026-11-06"
+  },
+  {
    "t": "Zidovudine",
    "u": "/drugs/zidovudine/",
-   "s": "Tabell: 2 godkännanden (11764, 11427) är godkända, inte indragna",
-   "d": "2026-11-12"
+   "s": "Borttaget: ”Båda godkännandena är indragna, så det finns för närvarande ingen aktiv marknadsförd…",
+   "d": "2026-11-06"
   },
   {
    "t": "Zanamivir",
    "u": "/drugs/zanamivir/",
-   "s": "Tabell: 1 godkännande (14997) är godkänd, inte indragna",
-   "d": "2026-11-12"
+   "s": "Borttaget: ”Dessutom är det enda svenska godkännandet indraget”",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Xylometazoline",
+   "u": "/drugs/xylometazoline/",
+   "s": "Borttaget: ”Samtliga 20 godkännanden är avregistrerade”",
+   "d": "2026-11-06"
   },
   {
    "t": "Xylitol",
    "u": "/drugs/xylitol/",
-   "s": "Tabell: 1 godkännande (54736) är godkänd, inte indragna",
-   "d": "2026-11-12"
+   "s": "Borttaget: ”och det enda svenska godkännandet är indraget”",
+   "d": "2026-11-06"
   },
   {
    "t": "Warfarin",
    "u": "/drugs/warfarin/",
-   "s": "Tabell: 2 godkännanden (6897, 42966) är godkända, inte indragna",
-   "d": "2026-11-12"
+   "s": "Borttaget: ”Verifiera marknadsstatus, eftersom båda godkännandena är indragna”",
+   "d": "2026-11-06"
   },
   {
-   "t": "Vinblastine",
-   "u": "/drugs/vinblastine/",
-   "s": "Tabell: 1 godkännande (7042) är godkänd, inte indragna",
-   "d": "2026-11-12"
+   "t": "Vortioxetine",
+   "u": "/drugs/vortioxetine/",
+   "s": "Borttaget: ”Läkemedlet har dessutom inga gällande godkännanden i Sverige”",
+   "d": "2026-11-06"
   },
   {
-   "t": "Trifarotene",
-   "u": "/drugs/trifarotene/",
-   "s": "Tabell: 1 godkännande (58467) är godkänd, inte indragna",
-   "d": "2026-11-12"
+   "t": "Verapamil",
+   "u": "/drugs/verapamil/",
+   "s": "Borttaget: ”Alla 13 godkännanden är indragna”",
+   "d": "2026-11-06"
   },
   {
-   "t": "Tretinoin",
-   "u": "/drugs/tretinoin/",
-   "s": "Tabell: 3 godkännanden (46193, 67791, 65880) är godkända, inte indragna",
-   "d": "2026-11-12"
+   "t": "Vancomycin",
+   "u": "/drugs/vancomycin/",
+   "s": "Borttaget: ”Samtliga svenska godkännanden är dessutom indragna, vilket begränsar det praktiska värdet…",
+   "d": "2026-11-06"
   },
   {
-   "t": "Travoprost",
-   "u": "/drugs/travoprost/",
-   "s": "Tabell: 5 godkännanden (48021, 64362, 48012, 48062, 51223) är godkända, inte indragna",
-   "d": "2026-11-12"
+   "t": "Valine",
+   "u": "/drugs/valine/",
+   "s": "Borttaget: ”Dessutom är samtliga svenska godkännanden indragna, och säkerhetsdata saknas”",
+   "d": "2026-11-06"
   },
   {
-   "t": "Tranylcypromine",
-   "u": "/drugs/tranylcypromine/",
-   "s": "Tabell: 5 godkännanden (66342, 65529, 59077, 64732, 61456) är godkända, inte indragna",
-   "d": "2026-11-12"
+   "t": "Urofollitropin",
+   "u": "/drugs/urofollitropin/",
+   "s": "Borttaget: ”för närvarande är 6 av 6 godkännanden giltiga”",
+   "d": "2026-11-06"
   },
   {
-   "t": "Thiopental",
-   "u": "/drugs/thiopental/",
-   "s": "Tabell: 5 godkännanden (65868, 66413, 62051, 61068, 65869) är godkända, inte indragna",
-   "d": "2026-11-12"
+   "t": "Tyrosine",
+   "u": "/drugs/tyrosine/",
+   "s": "Borttaget: ”och samtliga svenska godkännanden är avregistrerade”",
+   "d": "2026-11-06"
   },
   {
-   "t": "Tetracaine",
-   "u": "/drugs/tetracaine/",
-   "s": "Tabell: 3 godkännanden (10080, 22468, 57835) är godkända, inte indragna",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Tetrabenazine",
-   "u": "/drugs/tetrabenazine/",
-   "s": "Tabell: 2 godkännanden (26919, 19824) är godkända, inte indragna",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Tamsulosin",
-   "u": "/drugs/tamsulosin/",
-   "s": "Tabell: 2 godkännanden (53766, 49635) är godkända, inte indragna",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Tadalafil",
-   "u": "/drugs/tadalafil/",
-   "s": "Tabell: 5 godkännanden (54479, 60561, 66043, 50626, 52516) är godkända, inte indragna",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Sulbactam",
-   "u": "/drugs/sulbactam/",
-   "s": "Tabell: 2 godkännanden (65432, 65431) är godkända, inte indragna",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Sucralfate",
-   "u": "/drugs/sucralfate/",
-   "s": "Tabell: 4 godkännanden (63098, 10007, 19751, 10480) är godkända, inte indragna",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Streptozocin",
-   "u": "/drugs/streptozocin/",
-   "s": "Tabell: 1 godkännande (53703) är godkänd, inte indragna",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Spironolactone",
-   "u": "/drugs/spironolactone/",
-   "s": "Tabell: 5 godkännanden (9578, 53264, 46492, 9766, 10238) är godkända, inte indragna",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Sorbitol",
-   "u": "/drugs/sorbitol/",
-   "s": "Tabell: 3 godkännanden (10793, 65612, 6514) är godkända, inte indragna",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Sevoflurane",
-   "u": "/drugs/sevoflurane/",
-   "s": "Tabell: 5 godkännanden (64635, 60134, 22339, 67689, 12332) är godkända, inte indragna",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Salbutamol",
-   "u": "/drugs/salbutamol/",
-   "s": "Tabell: 5 godkännanden (12803, 44737, 12324, 13120, 11088) är godkända, inte indragna",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Rotigotine",
-   "u": "/drugs/rotigotine/",
-   "s": "Tabell: 5 godkännanden (66352, 66349, 66350, 66348, 66353) är godkända, inte indragna",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Ritonavir",
-   "u": "/drugs/ritonavir/",
-   "s": "Tabell: 1 godkännande (55055) är godkänd, inte indragna",
-   "d": "2026-11-12"
+   "t": "Tryptophan",
+   "u": "/drugs/tryptophan/",
+   "s": "Borttaget: ”Samtliga 20 godkännanden är avregistrerade”",
+   "d": "2026-11-06"
   }
  ],
  "recent_licence_reviews": [
   {
-   "t": "Febuxostat",
-   "u": "/drugs/febuxostat/",
-   "s": "Nästa steg: två av tre svenska godkännanden är giltiga, inte bara ett avregistrerat",
-   "d": "2026-11-16"
+   "t": "Thiamine",
+   "u": "/drugs/thiamine/",
+   "s": "Tiamin: Zubatmin och Viant är kombinationsprodukter med andra vitaminer",
+   "d": "2026-11-24"
   },
   {
-   "t": "Zidovudine",
-   "u": "/drugs/zidovudine/",
-   "s": "Tabell: 2 godkännanden (11764, 11427) är godkända, inte indragna",
-   "d": "2026-11-12"
+   "t": "Imipenem",
+   "u": "/drugs/imipenem/",
+   "s": "Imipenem: godkännandena gäller kombinationen imipenem/cilastatin, inte enkomponentsprodukter",
+   "d": "2026-11-24"
   },
   {
-   "t": "Zanamivir",
-   "u": "/drugs/zanamivir/",
-   "s": "Tabell: 1 godkännande (14997) är godkänd, inte indragna",
-   "d": "2026-11-12"
+   "t": "Dipyridamole",
+   "u": "/drugs/dipyridamole/",
+   "s": "Dipyridamol: Diprasorin är en kombinationsprodukt med acetylsalicylsyra",
+   "d": "2026-11-24"
   },
   {
-   "t": "Xylitol",
-   "u": "/drugs/xylitol/",
-   "s": "Tabell: 1 godkännande (54736) är godkänd, inte indragna",
-   "d": "2026-11-12"
+   "t": "Dexamethasone",
+   "u": "/drugs/dexamethasone/",
+   "s": "Dexametason: Tobrasone och Toflacort är kombinationsprodukter med tobramycin",
+   "d": "2026-11-24"
   },
   {
-   "t": "Warfarin",
-   "u": "/drugs/warfarin/",
-   "s": "Tabell: 2 godkännanden (6897, 42966) är godkända, inte indragna",
-   "d": "2026-11-12"
+   "t": "Cyanocobalamin",
+   "u": "/drugs/cyanocobalamin/",
+   "s": "Cyanokobalamin: flera godkännanden gäller kombinationsprodukter med andra vitaminer",
+   "d": "2026-11-24"
   },
   {
-   "t": "Vinblastine",
-   "u": "/drugs/vinblastine/",
-   "s": "Tabell: 1 godkännande (7042) är godkänd, inte indragna",
-   "d": "2026-11-12"
+   "t": "Bupivacaine",
+   "u": "/drugs/bupivacaine/",
+   "s": "Bupivakain: Marcain adrenalin är kombinationsberedningar med adrenalin",
+   "d": "2026-11-24"
   },
   {
-   "t": "Trifarotene",
-   "u": "/drugs/trifarotene/",
-   "s": "Tabell: 1 godkännande (58467) är godkänd, inte indragna",
-   "d": "2026-11-12"
+   "t": "Bendroflumethiazide",
+   "u": "/drugs/bendroflumethiazide/",
+   "s": "Bendroflumetiazid: de filmdragerade tabletterna är kombinationsprodukter med kaliumklorid",
+   "d": "2026-11-24"
   },
   {
-   "t": "Tretinoin",
-   "u": "/drugs/tretinoin/",
-   "s": "Tabell: 3 godkännanden (46193, 67791, 65880) är godkända, inte indragna",
-   "d": "2026-11-12"
+   "t": "Articaine",
+   "u": "/drugs/articaine/",
+   "s": "Artikain: godkännandena gäller kombinationsprodukter med adrenalin, inte enkomponentsprodukter",
+   "d": "2026-11-24"
   }
  ],
  "files": {

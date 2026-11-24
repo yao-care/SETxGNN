@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "BUSULFAN"
 predicted_indications: ["myelodysplastic syndrome", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "seborrheic keratosis", "simian immunodeficiency virus infection"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Busulfan: predikterad ny indikation Myelodysplastiskt syndrom (myelodysplastic syndrome) (evidensnivå L1). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
@@ -106,10 +106,16 @@ Busulfan ingår oftast i kombinationsregimer, så effekten kan inte tillskrivas 
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 5013 | Myleran | Filmdragerad tablett | Ej angiven i lokala data |
-| 57476 | Busulfan Zentiva | Koncentrat till infusionsvätska, lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 5013 | Myleran | Filmdragerad tablett | Aspen Pharma Trading Limited | Godkänd |
+| 57476 | Busulfan Zentiva | Koncentrat till infusionsvätska, lösning | Zentiva k.s. | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

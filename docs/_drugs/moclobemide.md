@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 302
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "moclobemide"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
 description: "Moclobemide: predikterad ny indikation Agoraphobia (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
@@ -93,17 +93,17 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 59621 | Aurorix (Ebb Medical AB) | Filmdragerad tablett | Indikationstext saknas |
-| 59620 | Aurorix (Ebb Medical AB) | Filmdragerad tablett | Indikationstext saknas |
-| 11031 | Aurorix (Viatris AB) | Filmdragerad tablett | Indikationstext saknas |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-moclobemide-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 59621 | Aurorix | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 59620 | Aurorix | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 11031 | Aurorix | Filmdragerad tablett | Viatris AB | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”59621 / Aurorix (Ebb Medical AB) / Filmdragerad tablett / Indikationstext saknas (indraget); 59620 / Aurorix (Ebb Medical AB) / Filmdragerad tablett / Indikationstext saknas (indraget); 11031 / Aurorix (Viatris AB) / Filmdragerad tablett / Indikationstext saknas (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 59621, 59620, 11031 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-moclobemide-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -124,7 +124,7 @@ Se produktresumén för övrig säkerhetsinformation, inklusive varningar och ko
 
 <!-- review:begin se-lic-20261106-moclobemide-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Två randomiserade studier och flera översikter stöder användning vid panikångest med agorafobi, men det saknas registrerade kliniska prövningar för agorafobi specifikt. Alla svenska godkännanden är dessutom indragna och säkerhetsdata saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Två randomiserade studier och flera översikter stöder användning vid panikångest med agorafobi, men det saknas registrerade kliniska prövningar för agorafobi specifikt. Alla svenska godkännanden är dessutom indragna och säkerhetsdata saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-moclobemide-1 -->
 
@@ -136,7 +136,7 @@ Se produktresumén för övrig säkerhetsinformation, inklusive varningar och ko
 
 <!-- review:begin se-lic-20261106-moclobemide-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedömning av om en ny ansökan om godkännande i Sverige är genomförbar, eftersom produkten inte längre marknadsförs.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedömning av om en ny ansökan om godkännande i Sverige är genomförbar, eftersom produkten inte längre marknadsförs.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-moclobemide-2 -->
 
@@ -148,9 +148,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är dessutom indragna och säkerhetsdata saknas” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”eftersom produkten inte längre marknadsförs” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 3 godkännanden (59621, 59620, 11031) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är dessutom indragna och säkerhetsdata saknas” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom produkten inte längre marknadsförs” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 3 godkännanden (59621, 59620, 11031) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

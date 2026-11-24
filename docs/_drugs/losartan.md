@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 271
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 monitor_inn: "losartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
 description: "Losartan: predikterad ny indikation Malignant hypertensive renal disease (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -87,13 +87,21 @@ Indikationstext saknas i licensdata. De fem första listas nedan.
 
 <!-- review:end se-lic-20261106-losartan-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 23532 | Losartan Medical Valley | Filmdragerad tablett | Ingen indikationstext tillgänglig |
-| 42244 | Losartan Krka | Filmdragerad tablett | Ingen indikationstext tillgänglig |
-| 44670 | Losartan Jubilant | Filmdragerad tablett | Ingen indikationstext tillgänglig |
-| 62466 | Losartan Pharmaclan | Filmdragerad tablett | Ingen indikationstext tillgänglig |
-| 62514 | Losartan STADA | Filmdragerad tablett | Ingen indikationstext tillgänglig |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 23532 | Losartan Medical Valley | Filmdragerad tablett | Medical Valley Invest AB | Godkänd |
+| 42244 | Losartan Krka | Filmdragerad tablett | Krka d.d., Novo mesto | Godkänd |
+| 44670 | Losartan Jubilant | Filmdragerad tablett | Jubilant Pharmaceuticals nv | Godkänd |
+| 62466 | Losartan Pharmaclan | Filmdragerad tablett | Pharmaclan s.r.o. | Avregistrerad |
+| 62514 | Losartan STADA | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

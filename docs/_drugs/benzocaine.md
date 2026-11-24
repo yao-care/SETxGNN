@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "benzocaine"
 predicted_indications: ["papillary conjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Benzocaine: predikterad ny indikation Papillär konjunktivit (papillary conjunctivitis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
@@ -82,9 +82,15 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 57835 | Mekostest 36 | Plåster för provokationstest | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 57835 | Mekostest 36 | Plåster för provokationstest | SmartPractice Denmark ApS | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Tillverkare: SmartPractice Denmark ApS. De lokala uppgifterna är verifierade och listan bedöms vara fullständig.
 

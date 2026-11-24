@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "alfuzosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "allergic urticaria", "persistent fetal circulation syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alfuzosin: predikterad ny indikation Ambras typ av hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de …"
 ---
 
@@ -82,13 +82,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 23226 | Alfuzosin Viatris | Depottablett | Ej angiven i lokala data |
-| 23229 | Alfuzosin Teva | Depottablett | Ej angiven i lokala data |
-| 19366 | Alfuzosin STADA | Depottablett | Ej angiven i lokala data |
-| 19365 | Alfuzosin STADA | Depottablett | Ej angiven i lokala data |
-| 19286 | Alfuzosin Sandoz | Depottablett | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 23226 | Alfuzosin Viatris | Depottablett | Viatris Limited | Godkänd |
+| 23229 | Alfuzosin Teva | Depottablett | Teva Sweden AB | Godkänd |
+| 19366 | Alfuzosin STADA | Depottablett | STADA Arzneimittel AG | Godkänd |
+| 19365 | Alfuzosin STADA | Depottablett | STADA Arzneimittel AG | Godkänd |
+| 19286 | Alfuzosin Sandoz | Depottablett | Sandoz A/S | Godkänd |
+
+Tabellen visar 5 av 9 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

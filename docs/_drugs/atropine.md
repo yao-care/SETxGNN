@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 45
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Atropine: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga godkännandedata"
 monitor_inn: "atropine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
@@ -85,15 +85,23 @@ Flera övriga träffar i sökningen var inte relevanta för atropin (till exempe
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 59083 | Atropine Accord | Injektionsvätska, lösning i förfylld spruta | Godkänd |
-| 53365 | Atropin Aguettant | Injektionsvätska, lösning i förfylld spruta | Godkänd |
-| 66778 | Atropine Noridem | Injektionsvätska, lösning | Godkänd |
-| 9018 | Atropin Viatris | Injektionsvätska, lösning | Godkänd |
-| 9654 | Atropin Bausch & Lomb | Ögondroppar, lösning i endosbehållare | Godkänd |
+<!-- licenses:begin -->
 
-Visar 5 av 9 godkännanden. Indikationstext finns inte angiven i godkännandedata.
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 59083 | Atropine Accord | Injektionsvätska, lösning i förfylld spruta | Accord Healthcare B.V. | Godkänd |
+| 53365 | Atropin Aguettant | Injektionsvätska, lösning i förfylld spruta | Laboratoire Aguettant | Godkänd |
+| 66778 | Atropine Noridem | Injektionsvätska, lösning | Noridem Enterprises Ltd | Godkänd |
+| 9018 | Atropin Viatris | Injektionsvätska, lösning | Viatris Limited | Godkänd |
+| 9654 | Atropin Bausch & Lomb | Ögondroppar, lösning i endosbehållare | Bausch & Lomb Ireland Limited | Godkänd |
+
+Tabellen visar 5 av 9 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
+
+Indikationstext finns inte angiven i godkännandedata.
 
 ---
 

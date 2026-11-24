@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 170
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "eplerenone"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome"]
 description: "Eplerenone: predikterad ny indikation Pulmonary hypertension owing to lung disease and/or hypoxia (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 18 (giltiga: 18)"
@@ -97,23 +97,25 @@ Indikationstext saknas i data. De fem första godkännandena:
 
 <!-- review:begin se-lic-20261106-eplerenone-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 18 godkännanden är indragna, och inget giltigt godkännande finns för närvarande. Indikationstext saknas i data.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 18, varav giltiga: 18; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 18 godkännanden är indragna, och inget giltigt godkännande finns för närvarande. Indikationstext saknas i data.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-eplerenone-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 50995 | Eplerenon STADA | Filmdragerad tablett | Ej angiven |
-| 65877 | Eplerenon Vivanta | Filmdragerad tablett | Ej angiven |
-| 65876 | Eplerenon Vivanta | Filmdragerad tablett | Ej angiven |
-| 51094 | Eplerenon Bluefish | Filmdragerad tablett | Ej angiven |
-| 21031 | Inspra | Filmdragerad tablett | Ej angiven |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-eplerenone-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 50995 | Eplerenon STADA | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 65877 | Eplerenon Vivanta | Filmdragerad tablett | Vivanta Generics s.r.o. | Godkänd |
+| 65876 | Eplerenon Vivanta | Filmdragerad tablett | Vivanta Generics s.r.o. | Godkänd |
+| 51094 | Eplerenon Bluefish | Filmdragerad tablett | Bluefish Pharmaceuticals AB | Godkänd |
+| 21031 | Inspra | Filmdragerad tablett | Viatris Healthcare Limited | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”50995 / Eplerenon STADA / Filmdragerad tablett / Indragen; 65877 / Eplerenon Vivanta / Filmdragerad tablett / Indragen; 65876 / Eplerenon Vivanta / Filmdragerad tablett / Indragen; 51094 / Eplerenon Bluefish / Filmdragerad tablett / Indragen; 21031 / Inspra / Filmdragerad tablett / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 50995, 65877, 65876, 51094, 21031 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Tabellen visar 5 av 18 godkännanden i uppgifterna.
 
-<!-- review:end se-row-20261112-eplerenone-1 -->
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -148,7 +150,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom uppgifter o
 
 <!-- review:begin se-lic-20261106-eplerenone-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedömning av hyperkalemi- och njurrisk i målpopulationen. / Klargöra marknadsstatus, eftersom alla godkännanden i Sverige är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 18, varav giltiga: 18; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedömning av hyperkalemi- och njurrisk i målpopulationen. / Klargöra marknadsstatus, eftersom alla godkännanden i Sverige är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-eplerenone-2 -->
 
@@ -164,9 +166,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga 18 godkännanden är indragna, och inget giltigt godkännande finns för närvarande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Klargöra marknadsstatus, eftersom alla godkännanden i Sverige är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 5 godkännanden (50995, 65877, 65876, 51094, 21031) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Samtliga 18 godkännanden är indragna, och inget giltigt godkännande finns för närvarande” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Klargöra marknadsstatus, eftersom alla godkännanden i Sverige är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (50995, 65877, 65876, 51094, 21031) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

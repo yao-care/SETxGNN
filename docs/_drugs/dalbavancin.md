@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "dalbavancin"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "otitis externa", "ophthalmic herpes zoster", "infectious mononucleosis", "orbital cellulitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Dalbavancin: predikterad ny indikation Postinfektiös vaskulit (postinfectious vasculitis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 5 (giltiga: 5)"
 ---
 
@@ -79,6 +79,20 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 ---
 
 ### Marknadsinformation Sverige
+
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 64524 | Dalbavancin Bioglan | Pulver till koncentrat till infusionsvätska, lösning | Bioglan AB | Godkänd |
+| 64529 | Dalbavancin Accord | Pulver till koncentrat till infusionsvätska, lösning | Accord Healthcare B.V. | Godkänd |
+| 64538 | Dalbavancin Baxter | Pulver till koncentrat till infusionsvätska, lösning | Baxter Holding B.V. | Godkänd |
+| 65152 | Dalbavancin Zentiva | Pulver till koncentrat till infusionsvätska, lösning | Zentiva k.s. | Godkänd |
+| 65262 | Dalbavancin Teva | Pulver till koncentrat till infusionsvätska, lösning | Teva B.V. | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Enligt de lokala regulatoriska uppgifterna är dalbavancin på marknaden i Sverige. Produkterna är pulver till koncentrat till infusionsvätska, lösning (injicerbar beredning), från bland annat Bioglan, Zentiva, Baxter, Teva och Accord. Indikationstext finns inte registrerad i de lokala uppgifterna.
 

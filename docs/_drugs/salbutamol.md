@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 391
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
 description: "Salbutamol: predikterad ny indikation Papillär konjunktivit (papillary conjunctivitis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -90,19 +90,21 @@ Nedan visas fem av dem. Ingen godkänd indikationstext finns tillgänglig för d
 
 <!-- review:end se-lic-20261106-salbutamol-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 12803 | Ventoline Diskus | Inhalationspulver, avdelad dos | Godkänd |
-| 44737 | Salbutamol Sandoz | Inhalationsspray, suspension | Godkänd |
-| 12324 | Airomir | Inhalationsspray, suspension | Godkänd |
-| 13120 | Buventol Easyhaler | Inhalationspulver | Godkänd |
-| 11088 | Ventoline | Lösning för nebulisator | Godkänd |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-salbutamol-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 12803 | Ventoline Diskus | Inhalationspulver, avdelad dos | GlaxoSmithKline AB | Godkänd |
+| 44737 | Salbutamol Sandoz | Inhalationsspray, suspension | Sandoz A/S | Godkänd |
+| 12324 | Airomir | Inhalationsspray, suspension | Teva Sweden AB | Godkänd |
+| 13120 | Buventol Easyhaler | Inhalationspulver | Orion Corporation | Godkänd |
+| 11088 | Ventoline | Lösning för nebulisator | GlaxoSmithKline AB | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”12803 / Ventoline Diskus / Inhalationspulver, avdelad dos / Indragen; 44737 / Salbutamol Sandoz / Inhalationsspray, suspension / Indragen; 12324 / Airomir / Inhalationsspray, suspension / Indragen; 13120 / Buventol Easyhaler / Inhalationspulver / Indragen; 11088 / Ventoline / Lösning för nebulisator / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 12803, 44737, 12324, 13120, 11088 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
 
-<!-- review:end se-row-20261112-salbutamol-1 -->
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 De indragna godkännandena omfattar inhalationsberedningar, lösning för nebulisator och oral lösning. Någon beredningsform för ögonbehandling finns inte bland dem.
 
@@ -158,7 +160,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden för salbutamol är indragna, och inget är för närvarande giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är indragna, och i” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 5 godkännanden (12803, 44737, 12324, 13120, 11088) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-12 | Tabell: 5 godkännanden (12803, 44737, 12324, 13120, 11088) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

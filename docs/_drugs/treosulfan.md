@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 436
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "TREOSULFAN"
 predicted_indications: ["diabetic cataract"]
 description: "Treosulfan: predikterad ny indikation Diabetic cataract (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
@@ -70,9 +70,15 @@ Den höga poängen är därför sannolikt en artefakt av grafmodellen och inte e
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 58317 | Treosulfan Tillomed | Pulver till infusionsvätska, lösning | Ingen indikationstext angiven (godkänt) |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 58317 | Treosulfan Tillomed | Pulver till infusionsvätska, lösning | Tillomed Pharma GmbH | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -105,7 +111,7 @@ Se produktresumén för säkerhetsinformation. Inga varningar, kontraindikatione
 
 <!-- review:begin se-lic-20261106-treosulfan-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen stöds endast av modellpoängen (evidensnivå L5), utan kliniska prövningar, litteratur eller trovärdig mekanism. Läkemedlet är dessutom starkt toxiskt och har bara avregistrerade godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen stöds endast av modellpoängen (evidensnivå L5), utan kliniska prövningar, litteratur eller trovärdig mekanism. Läkemedlet är dessutom starkt toxiskt och har bara avregistrerade godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-treosulfan-1 -->
 
@@ -123,7 +129,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Läkemedlet är dessutom starkt toxiskt och har bara avregistrerade godkännanden i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Läkemedlet är dessutom starkt toxiskt och har bara avregistrerade godkännanden i Sverige” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

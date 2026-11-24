@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 443
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 description: "Tyrosine: predikterad ny indikation Cauda equina-syndrom (evidensnivå L5). Ursprunglig indikation: Ej angiven i tillgängliga data"
 monitor_inn: "tyrosine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "angle-closure glaucoma", "hyperthyroidism", "postural orthostatic tachycardia syndrome", "hyperthyroxinemia", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "traumatic glaucoma", "aqueous misdirection", "neovascular glaucoma"]
@@ -90,13 +90,21 @@ Inget har en angiven indikationstext. De fem första listas nedan.
 
 <!-- review:end se-lic-20261106-tyrosine-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 59088 | Ketosteril | Filmdragerad tablett | Ej angiven |
-| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Ej angiven |
-| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Ej angiven |
-| 10095 | Vamin 14 g N/l elektrolytfri | Infusionsvätska, lösning | Ej angiven |
-| 12423 | Nutrineal PD4 1,1 % Aminosyror | Peritonealdialysvätska | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 59088 | Ketosteril | Filmdragerad tablett | Fresenius Kabi AB | Godkänd |
+| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Fresenius Kabi AB | Avregistrerad |
+| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 10095 | Vamin 14 g N/l elektrolytfri | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 12423 | Nutrineal PD4 1,1 % Aminosyror | Peritonealdialysvätska | Vantive AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

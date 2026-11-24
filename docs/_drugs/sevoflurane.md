@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 396
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "sevoflurane"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "migraine disorder", "inclusion body myositis"]
 description: "Sevoflurane: predikterad ny indikation Prinzmetal angina (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
@@ -72,23 +72,25 @@ Indikationstexten saknas i de data som sammanställts.
 
 <!-- review:begin se-lic-20261106-sevoflurane-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla sex godkännanden är indragna och inget är i dagsläget giltigt. Indikationstexten saknas i de data som sammanställts.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla sex godkännanden är indragna och inget är i dagsläget giltigt. Indikationstexten saknas i de data som sammanställts.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-sevoflurane-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
-|---------|------|------|-----|-----------|
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
 | 64635 | Sevorane | Inhalationsånga, vätska | Orifarm AB | Godkänd |
 | 60134 | Sevorane | Inhalationsånga, vätska | Orifarm AB | Godkänd |
 | 22339 | Sevofluran Baxter | Inhalationsånga, vätska | Baxter Medical AB | Godkänd |
 | 67689 | Sevorane | Inhalationsånga, vätska | Orifarm AB | Godkänd |
 | 12332 | Sevorane | Inhalationsånga, vätska | AbbVie AB | Godkänd |
 
-<!-- review:begin se-row-20261112-sevoflurane-1 -->
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”64635 / Sevorane / Inhalationsånga, vätska / Orifarm AB / Indraget; 60134 / Sevorane / Inhalationsånga, vätska / Orifarm AB / Indraget; 22339 / Sevofluran Baxter / Inhalationsånga, vätska / Baxter Medical AB / Indraget; 67689 / Sevorane / Inhalationsånga, vätska / Orifarm AB / Indraget; 12332 / Sevorane / Inhalationsånga, vätska / AbbVie AB / Indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 64635, 60134, 22339, 67689, 12332 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-sevoflurane-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -115,7 +117,7 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 
 <!-- review:begin se-lic-20261106-sevoflurane-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen för Prinzmetals angina bygger enbart på modellen (evidensnivå L5), utan kliniska prövningar eller litteratur. Dessutom är samtliga svenska godkännanden indragna, och läkemedlets användning som narkosgas passar dåligt för en kronisk kärlsjukdom.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen för Prinzmetals angina bygger enbart på modellen (evidensnivå L5), utan kliniska prövningar eller litteratur. Dessutom är samtliga svenska godkännanden indragna, och läkemedlets användning som narkosgas passar dåligt för en kronisk kärlsjukdom.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-sevoflurane-2 -->
 
@@ -150,9 +152,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Alla sex godkännanden är indragna och inget är i dagsläget giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna, och läkemedlets användning som narkosgas passar dåligt för en kronisk kärlsjukdom” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 5 godkännanden (64635, 60134, 22339, 67689, 12332) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Alla sex godkännanden är indragna och inget är i dagsläget giltigt” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna, och läkemedlets användning som narkosgas passar dåligt för en kronisk kärlsjukdom” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (64635, 60134, 22339, 67689, 12332) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

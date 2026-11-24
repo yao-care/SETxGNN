@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 190
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "felbamate"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 description: "Felbamate: predikterad ny indikation Trigeminal nerve neoplasm (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
@@ -91,10 +91,16 @@ För den näraliggande förutsägelsen **trigeminusneuralgi** (rang 2, poäng 0,
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 12706 | Taloxa (NV Organon) | Oral suspension | Ej angiven (godkänd) |
-| 12705 | Taloxa (NV Organon) | Tablett | Ej angiven (godkänd) |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 12706 | Taloxa | Oral suspension | NV Organon | Godkänd |
+| 12705 | Taloxa | Tablett | NV Organon | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -117,7 +123,7 @@ Uppgifter från svensk produktresumé (varningar och kontraindikationer) har int
 
 <!-- review:begin se-lic-20261106-felbamate-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Felbamats allvarliga säkerhetsrisker (aplastisk anemi, leversvikt), många interaktioner och avregistrerade godkännanden i Sverige gör nytta–riskbalansen ogynnsam. Det gäller även trigeminusneuralgi, där tryggare och väletablerade alternativ finns.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Felbamats allvarliga säkerhetsrisker (aplastisk anemi, leversvikt), många interaktioner och avregistrerade godkännanden i Sverige gör nytta–riskbalansen ogynnsam. Det gäller även trigeminusneuralgi, där tryggare och väletablerade alternativ finns.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-felbamate-1 -->
 
@@ -135,7 +141,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Felbamats allvarliga säkerhetsrisker (aplastisk anemi, leversvikt), många interaktioner och avregistrerade godkännanden i Sverige gör nytta–” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Felbamats allvarliga säkerhetsrisker (aplastisk anemi, leversvikt), många interaktioner och avregistrerade godkännanden i Sverige gör nytta–” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

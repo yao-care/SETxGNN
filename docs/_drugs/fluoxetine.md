@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "fluoxetine"
 predicted_indications: ["schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 description: "Fluoxetine: predikterad ny indikation Schizotyp personlighetsstörning (schizotypal personality disorder) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): 13 (giltiga: 12)"
 ---
 
@@ -89,15 +89,23 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 54918 | Fluoxetine Orion | Kapsel, hård | Ej angiven i underlaget |
-| 17056 | Fluoxetin ratiopharm | Löslig tablett | Ej angiven i underlaget |
-| 16383 | Fluoxetin ratiopharm | Löslig tablett | Ej angiven i underlaget |
-| 19769 | Fluoxetin Orifarm | Dispergerbar tablett | Ej angiven i underlaget |
-| 18088 | Fluoxetin Sandoz | Dispergerbar tablett | Ej angiven i underlaget |
+<!-- licenses:begin -->
 
-Totalt finns 13 godkännanden, varav 12 är giltiga och 1 är avregistrerat. Listan ovan visar de fem första.
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 54918 | Fluoxetine Orion | Kapsel, hård | Orion Corporation | Godkänd |
+| 17056 | Fluoxetin ratiopharm | Löslig tablett | ratiopharm GmbH | Godkänd |
+| 16383 | Fluoxetin ratiopharm | Löslig tablett | ratiopharm GmbH | Godkänd |
+| 19769 | Fluoxetin Orifarm | Dispergerbar tablett | Orifarm Generics A/S | Godkänd |
+| 18088 | Fluoxetin Sandoz | Dispergerbar tablett | Sandoz A/S | Godkänd |
+
+Tabellen visar 5 av 13 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
+
+Totalt finns 13 godkännanden, varav 12 är giltiga och 1 är avregistrerat.
 
 ---
 

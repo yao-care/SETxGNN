@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 314
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "NILOTINIB"
 predicted_indications: ["dermatofibrosarcoma protuberans"]
 description: "Nilotinib: predikterad ny indikation Dermatofibrosarcoma protuberans (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
@@ -84,11 +84,17 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 65027 | Nilotinib Zentiva | Kapsel, hård | Ingen indikationstext tillgänglig (godkänd) |
-| 65028 | Nilotinib Zentiva | Kapsel, hård | Ingen indikationstext tillgänglig (godkänd) |
-| 65029 | Nilotinib Zentiva | Kapsel, hård | Ingen indikationstext tillgänglig (godkänd) |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 65027 | Nilotinib Zentiva | Kapsel, hård | Zentiva k.s. | Godkänd |
+| 65028 | Nilotinib Zentiva | Kapsel, hård | Zentiva k.s. | Godkänd |
+| 65029 | Nilotinib Zentiva | Kapsel, hård | Zentiva k.s. | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

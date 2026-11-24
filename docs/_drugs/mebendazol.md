@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00643
 monitor_inn: "Mebendazole"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Mebendazol: predikterad ny indikation Akne (acne (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 
@@ -85,12 +85,18 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 9789 | Vermox | Tablett | Ej angiven |
-| 62766 | Vermox | Oral suspension | Ej angiven |
-| 61330 | Vermox | Tablett | Ej angiven |
-| 9788 | Vermox | Oral suspension | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 9789 | Vermox | Tablett | McNeil Sweden AB | Godkänd |
+| 62766 | Vermox | Oral suspension | Ebb Medical AB | Godkänd |
+| 61330 | Vermox | Tablett | Ebb Medical AB | Godkänd |
+| 9788 | Vermox | Oral suspension | McNeil Sweden AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

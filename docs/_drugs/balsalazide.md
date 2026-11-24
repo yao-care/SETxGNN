@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "balsalazide"
 predicted_indications: ["gout", "congenital hypotrichosis with juvenile macular dystrophy", "ankylosing spondylitis", "rheumatoid arthritis", "rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "anus disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Balsalazide: predikterad ny indikation Gikt (gout) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
@@ -82,9 +82,15 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 14325 | Colazid | Kapsel, hård | Indikationstext saknas i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 14325 | Colazid | Kapsel, hård | Almirall S.A. | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Det finns 1 registrerat godkännande, och marknadsstatus enligt lokala data är "På marknaden".
 

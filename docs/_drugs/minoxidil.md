@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 297
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 monitor_inn: "MINOXIDIL"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with HIV infection"]
 description: "Minoxidil: predikterad ny indikation Hypotrichosis simplex i hårbotten (hypotrichosis simplex of the scalp) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 14 (giltiga: 14)"
@@ -88,13 +88,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Minoxidil finns som kutan lösning och kutant skum. Fem av godkännandena:
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 46526 | Rogaine | Kutant skum | Ej angiven |
-| 58747 | Minoxidil Apofri Forte | Kutan lösning | Ej angiven |
-| 27886 | Minoxidil Orifarm | Kutan lösning | Ej angiven |
-| 59615 | Minoxidil NET | Kutan lösning | Ej angiven |
-| 15343 | Rogaine forte | Kutan lösning | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 46526 | Rogaine | Kutant skum | McNeil Sweden AB | Godkänd |
+| 58747 | Minoxidil Apofri Forte | Kutan lösning | Evolan Pharma AB | Godkänd |
+| 27886 | Minoxidil Orifarm | Kutan lösning | Orifarm Generics A/S | Godkänd |
+| 59615 | Minoxidil NET | Kutan lösning | Evolan Pharma AB | Godkänd |
+| 15343 | Rogaine forte | Kutan lösning | McNeil Sweden AB | Godkänd |
+
+Tabellen visar 5 av 14 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 318
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "NITROFURANTOIN"
 predicted_indications: ["rheumatoid arthritis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "sclerosing cholangitis", "methemoglobinemia, alpha type", "gout", "methemoglobinemia"]
 description: "Nitrofurantoin: predikterad ny indikation Reumatoid artrit (rheumatoid arthritis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
@@ -66,7 +66,7 @@ Någon terapeutisk mekanism är inte fastställd. Nitrofurantoin har ingen känd
 
 <!-- review:begin se-lic-20261106-nitrofurantoin-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla fyra godkännanden är indragna och indikationstext saknas i de data som sammanställts.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla fyra godkännanden är indragna och indikationstext saknas i de data som sammanställts.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-nitrofurantoin-1 -->
 
@@ -90,18 +90,18 @@ Någon terapeutisk mekanism är inte fastställd. Nitrofurantoin har ingen känd
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 7977 | Furadantin (Viatris AB) | Tablett | Ej angiven |
-| 5614 | Furadantin (Viatris AB) | Tablett | Ej angiven |
-| 51827 | Nitrofurantoin Alternova (Alternova A/S) | Tablett | Ej angiven |
-| 63398 | Foragen (CNX Therapeutics Ireland Ltd) | Kapsel med modifierad frisättning, hård | Ej angiven |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-nitrofurantoin-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 7977 | Furadantin | Tablett | Viatris AB | Godkänd |
+| 5614 | Furadantin | Tablett | Viatris AB | Godkänd |
+| 51827 | Nitrofurantoin Alternova | Tablett | Alternova A/S | Godkänd |
+| 63398 | Foragen | Kapsel med modifierad frisättning, hård | CNX Therapeutics Ireland Ltd | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”7977 / Furadantin (Viatris AB) / Tablett / Indragen; 5614 / Furadantin (Viatris AB) / Tablett / Indragen; 51827 / Nitrofurantoin Alternova (Alternova A/S) / Tablett / Indragen; 63398 / Foragen (CNX Therapeutics Ireland Ltd) / Kapsel med modifierad frisättning, hård / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 7977, 5614, 51827, 63398 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-nitrofurantoin-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -126,7 +126,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom uppgifter o
 
 <!-- review:begin se-lic-20261106-nitrofurantoin-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen saknar stöd i kliniska prövningar och litteratur, och den publicerade evidensen pekar mot skaderisk (särskilt lungtoxicitet i kombination med metotrexat) snarare än nytta vid reumatoid artrit. Läkemedlet saknar dessutom giltiga godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen saknar stöd i kliniska prövningar och litteratur, och den publicerade evidensen pekar mot skaderisk (särskilt lungtoxicitet i kombination med metotrexat) snarare än nytta vid reumatoid artrit. Läkemedlet saknar dessutom giltiga godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-nitrofurantoin-2 -->
 
@@ -137,7 +137,7 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom uppgifter o
 
 <!-- review:begin se-lic-20261106-nitrofurantoin-3 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Säkerhetsdata från produktresumén, eftersom varningar och kontraindikationer saknas i underlaget. / En bedömning av om det över huvud taget finns ett skäl att återinföra ett läkemedel med indragna godkännanden och en känd risk för lung- och leverskada.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Säkerhetsdata från produktresumén, eftersom varningar och kontraindikationer saknas i underlaget. / En bedömning av om det över huvud taget finns ett skäl att återinföra ett läkemedel med indragna godkännanden och en känd risk för lung- och leverskada.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-nitrofurantoin-3 -->
 
@@ -153,10 +153,10 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Alla fyra godkännanden är indragna och indikationstext saknas i de data som sammanställts” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Läkemedlet saknar dessutom giltiga godkännanden i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”En bedömning av om det över huvud taget finns ett skäl att återinföra ett läkemedel med indragna godkännanden och en känd risk för lung- och” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 4 godkännanden (7977, 5614, 51827, 63398) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Alla fyra godkännanden är indragna och indikationstext saknas i de data som sammanställts” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Läkemedlet saknar dessutom giltiga godkännanden i Sverige” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”En bedömning av om det över huvud taget finns ett skäl att återinföra ett läkemedel med indragna godkännanden och en känd risk för lung- och” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 4 godkännanden (7977, 5614, 51827, 63398) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

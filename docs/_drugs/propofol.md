@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 369
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Propofol: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L2). Ursprunglig indikation: Ingen indikationstext registrerad i de svenska godkännandena (propofo…"
 monitor_inn: "PROPOFOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
@@ -101,17 +101,25 @@ Indikationstext saknas i underlaget.
 
 <!-- review:begin se-lic-20261106-propofol-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 11 godkännanden är indragna och inga produkter är för närvarande aktiva. Indikationstext saknas i underlaget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 11, varav giltiga: 11; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 11 godkännanden är indragna och inga produkter är för närvarande aktiva. Indikationstext saknas i underlaget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-propofol-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 46859 | Propolipid (Fresenius Kabi AB) | Injektions-/infusionsvätska, emulsion i förfylld spruta | Ej angiven |
-| 46860 | Propolipid (Fresenius Kabi AB) | Injektions-/infusionsvätska, emulsion i förfylld spruta | Ej angiven |
-| 43111 | Profast (Baxter Holding B.V.) | Injektionsvätska/infusionsvätska, emulsion | Ej angiven |
-| 25669 | Propofol-Lipuro (B. Braun Melsungen AG) | Injektionsvätska/infusionsvätska, emulsion | Ej angiven |
-| 12279 | Diprivan (Aspen Pharma Trading Limited) | Injektionsvätska/infusionsvätska, emulsion | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 46859 | Propolipid | Injektions-/infusionsvätska, emulsion i förfylld spruta | Fresenius Kabi AB | Godkänd |
+| 46860 | Propolipid | Injektions-/infusionsvätska, emulsion i förfylld spruta | Fresenius Kabi AB | Godkänd |
+| 43111 | Profast | Injektionsvätska/infusionsvätska, emulsion | Baxter Holding B.V. | Godkänd |
+| 25669 | Propofol-Lipuro | Injektionsvätska/infusionsvätska, emulsion | B. Braun Melsungen AG | Godkänd |
+| 12279 | Diprivan | Injektionsvätska/infusionsvätska, emulsion | Aspen Pharma Trading Limited | Godkänd |
+
+Tabellen visar 5 av 11 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -153,7 +161,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Alla 11 godkännanden är indragna och inga produkter är för närvarande aktiva” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla 11 godkännanden är indragna och inga produkter är för närvarande aktiva” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Diprivan (propofol) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3105799-a4b6-f3f4-e6e2-b2b29bbdb538) |
 
 <!-- review:end log -->

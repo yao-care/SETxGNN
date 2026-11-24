@@ -97,13 +97,21 @@ Tabellen visar ett urval av de mest relevanta publikationerna. Ingen av dem stud
 
 Den godkända indikationstexten saknas i underlaget.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
-|---------|------|------|-----------|-----------|
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
 | 56991 | Eletriptan Orion | Filmdragerad tablett | Orion Corporation | Godkänd |
 | 56992 | Eletriptan Orion | Filmdragerad tablett | Orion Corporation | Godkänd |
 | 17177 | Relpax | Filmdragerad tablett | Upjohn EESV | Godkänd |
 | 17176 | Relpax | Filmdragerad tablett | Upjohn EESV | Godkänd |
 | 56491 | Relpax | Filmdragerad tablett | 2care4 ApS | Godkänd |
+
+Tabellen visar 5 av 7 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

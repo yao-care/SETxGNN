@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 79
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Candesartan: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L2). Ursprunglig indikation: Ingen indikationstext angiven i godkännandedata"
 monitor_inn: "candesartan"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "Prinzmetal angina", "kyphoscoliotic heart disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "benign prostatic hyperplasia (disease)", "alopecia"]
@@ -106,13 +106,21 @@ Ingen indikationstext finns angiven. Nedan visas de fem första.
 
 <!-- review:end se-lic-20261106-candesartan-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 25499 | Candesartan Sandoz | Tablett | Ej angiven |
-| 67676 | Candesartan Devatis | Tablett | Ej angiven |
-| 63968 | Candesartan Medical Valley | Tablett | Ej angiven |
-| 56312 | Canderion | Tablett | Ej angiven |
-| 13727 | Atacand | Tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 25499 | Candesartan Sandoz | Tablett | Sandoz A/S | Godkänd |
+| 67676 | Candesartan Devatis | Tablett | Devatis GmbH | Godkänd |
+| 63968 | Candesartan Medical Valley | Tablett | Medical Valley Invest AB | Godkänd |
+| 56312 | Canderion | Tablett | Orion Corporation | Godkänd |
+| 13727 | Atacand | Tablett | Cheplapharm Arzneimittel GmbH | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "acetylcysteine"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 description: "Acetylcysteine: predikterad ny indikation Trombotisk sjukdom (thrombotic disease) (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
 ---
 
@@ -98,13 +98,21 @@ Underlaget är starkast för trombotisk mikroangiopati och TTP. För trombotisk 
 
 Läkemedlet är marknadsfört i Sverige, och alla sex registrerade godkännanden är giltiga. Ingen indikationstext är registrerad i de lokala uppgifterna.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 22347 | Acetylcystein 1A Farma | Brustablett | Ej registrerad i lokala data |
-| 11537 | Acetylcystein Viatris | Lösning för nebulisator | Ej registrerad i lokala data |
-| 64838 | Acetylcysteine Macure | Koncentrat till infusionsvätska, lösning | Ej registrerad i lokala data |
-| 23596 | Acetylcystein Viatris | Brustablett | Ej registrerad i lokala data |
-| 21646 | Acetylcystein Alternova | Brustablett | Ej registrerad i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 22347 | Acetylcystein 1A Farma | Brustablett | 1A Farma A/S | Godkänd |
+| 11537 | Acetylcystein Viatris | Lösning för nebulisator | Viatris AB | Godkänd |
+| 64838 | Acetylcysteine Macure | Koncentrat till infusionsvätska, lösning | MACURE PHARMA ApS | Godkänd |
+| 23596 | Acetylcystein Viatris | Brustablett | Viatris Limited | Godkänd |
+| 21646 | Acetylcystein Alternova | Brustablett | Alternova A/S | Godkänd |
+
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

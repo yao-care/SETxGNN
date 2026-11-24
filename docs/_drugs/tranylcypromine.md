@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 434
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "tranylcypromine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "Ohdo syndrome and variants", "agoraphobia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "ligneous conjunctivitis", "Keppen-Lubinsky syndrome"]
 description: "Tranylcypromine: predikterad ny indikation Benign paroxysmal torticollis of infancy (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
@@ -101,25 +101,27 @@ För de närliggande förutsägelserna finns följande urval av relevant littera
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 66342 | Tranylcypromine Glenmark (Orifarm AB) | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 65529 | Tranylcypromine Glenmark (Medartuum AB) | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 59077 | Tranylcypromine Glenmark (Glenmark Arzneimittel GmbH) | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 64732 | Tranylcypromine Glenmark (Ebb Medical AB) | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 61456 | Abbonate (Abboxia AB) | Filmdragerad tablett | Ingen indikationstext registrerad |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-tranylcypromine-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 66342 | Tranylcypromine Glenmark | Filmdragerad tablett | Orifarm AB | Godkänd |
+| 65529 | Tranylcypromine Glenmark | Filmdragerad tablett | Medartuum AB | Godkänd |
+| 59077 | Tranylcypromine Glenmark | Filmdragerad tablett | Glenmark Arzneimittel GmbH | Godkänd |
+| 64732 | Tranylcypromine Glenmark | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 61456 | Abbonate | Filmdragerad tablett | Abboxia AB | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”66342 / Tranylcypromine Glenmark (Orifarm AB) / Filmdragerad tablett / Ingen indikationstext registrerad (indraget); 65529 / Tranylcypromine Glenmark (Medartuum AB) / Filmdragerad tablett / Ingen indikationstext registrerad (indraget); 59077 / Tranylcypromine Glenmark (Glenmark Arzneimittel GmbH) / Filmdragerad tablett / Ingen indikationstext registrerad (indraget); 64732 / Tranylcypromine Glenmark (Ebb Medical AB) / Filmdragerad tablett / Ingen indikationstext registrerad (indraget); 61456 / Abbonate (Abboxia AB) / Filmdragerad tablett / Ingen indikationstext registrerad (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 66342, 65529, 59077, 64732, 61456 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
 
-<!-- review:end se-row-20261112-tranylcypromine-1 -->
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Det sjätte (nr 59076, Tranylcypromine Glenmark, Glenmark Arzneimittel GmbH) visas inte ovan.
 
 <!-- review:begin se-lic-20261106-tranylcypromine-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Totalt finns 6 godkännanden, samtliga indragna. Det sjätte (nr 59076, Tranylcypromine Glenmark, Glenmark Arzneimittel GmbH) visas inte ovan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Totalt finns 6 godkännanden, samtliga indragna. Det sjätte (nr 59076, Tranylcypromine Glenmark, Glenmark Arzneimittel GmbH) visas inte ovan.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-tranylcypromine-1 -->
 
@@ -145,7 +147,7 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 
 <!-- review:begin se-lic-20261106-tranylcypromine-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga svenska godkännanden är dessutom indragna. / Förutsägelserna för melankoli och neurotisk depression (L3) ligger nära befintliga indikationer och motsvarar mest en omformulering av dem, inte verklig återanvändning.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga svenska godkännanden är dessutom indragna. / Förutsägelserna för melankoli och neurotisk depression (L3) ligger nära befintliga indikationer och motsvarar mest en omformulering av dem, inte verklig återanvändning.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-tranylcypromine-2 -->
 
@@ -162,9 +164,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Totalt finns 6 godkännanden, samtliga indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är dessutom indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 5 godkännanden (66342, 65529, 59077, 64732, 61456) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Totalt finns 6 godkännanden, samtliga indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är dessutom indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (66342, 65529, 59077, 64732, 61456) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

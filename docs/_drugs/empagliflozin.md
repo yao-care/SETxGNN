@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 160
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "EMPAGLIFLOZIN"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
 description: "Empagliflozin: predikterad ny indikation Fokalt stelbensyndrom (focal stiff limb syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
@@ -72,25 +72,27 @@ Andra förutsagda indikationer i modellen är klassiskt stelbensyndrom och opsis
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 67533 | Empagliflozin Labiana | Filmdragerad tablett | Indikationstext saknas |
-| 67534 | Empagliflozin Labiana | Filmdragerad tablett | Indikationstext saknas |
-| 66345 | Empagliflozin Devatis | Filmdragerad tablett | Indikationstext saknas |
-| 65282 | Hynica | Filmdragerad tablett | Indikationstext saknas |
-| 66346 | Empagliflozin Devatis | Filmdragerad tablett | Indikationstext saknas |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-empagliflozin-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 67533 | Empagliflozin Labiana | Filmdragerad tablett | Labiana Pharmaceuticals S.L.U. | Godkänd |
+| 67534 | Empagliflozin Labiana | Filmdragerad tablett | Labiana Pharmaceuticals S.L.U. | Godkänd |
+| 66345 | Empagliflozin Devatis | Filmdragerad tablett | Devatis GmbH | Godkänd |
+| 65282 | Hynica | Filmdragerad tablett | Adalvo Limited | Godkänd |
+| 66346 | Empagliflozin Devatis | Filmdragerad tablett | Devatis GmbH | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”67533 / Empagliflozin Labiana / Filmdragerad tablett / Indikationstext saknas (indraget); 67534 / Empagliflozin Labiana / Filmdragerad tablett / Indikationstext saknas (indraget); 66345 / Empagliflozin Devatis / Filmdragerad tablett / Indikationstext saknas (indraget); 65282 / Hynica / Filmdragerad tablett / Indikationstext saknas (indraget); 66346 / Empagliflozin Devatis / Filmdragerad tablett / Indikationstext saknas (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 67533, 67534, 66345, 65282, 66346 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
 
-<!-- review:end se-row-20261112-empagliflozin-1 -->
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Det sjätte (65281, Hynica, Adalvo Limited) visas inte i tabellen eftersom högst 5 listas.
 
 <!-- review:begin se-lic-20261106-empagliflozin-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Totalt finns 6 godkännanden, alla indragna. Det sjätte (65281, Hynica, Adalvo Limited) visas inte i tabellen eftersom högst 5 listas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Totalt finns 6 godkännanden, alla indragna. Det sjätte (65281, Hynica, Adalvo Limited) visas inte i tabellen eftersom högst 5 listas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-empagliflozin-1 -->
 
@@ -116,7 +118,7 @@ Se produktresumén för information om varningar och kontraindikationer.
 
 <!-- review:begin se-lic-20261106-empagliflozin-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det saknas kliniska prövningar och litteratur, och ingen rimlig mekanistisk koppling mellan SGLT2-hämning och fokalt stelbensyndrom har kunnat identifieras. Dessutom är samtliga svenska godkännanden indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det saknas kliniska prövningar och litteratur, och ingen rimlig mekanistisk koppling mellan SGLT2-hämning och fokalt stelbensyndrom har kunnat identifieras. Dessutom är samtliga svenska godkännanden indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-empagliflozin-2 -->
 
@@ -128,7 +130,7 @@ Se produktresumén för information om varningar och kontraindikationer.
 
 <!-- review:begin se-lic-20261106-empagliflozin-3 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Utreda om förutsägelsen speglar ett verkligt samband eller enbart likheter som TxGNN-modellen har lärt sig mellan relaterade sjukdomar. / Klargöra marknadsstatus, eftersom inget godkännande för närvarande är giltigt i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Utreda om förutsägelsen speglar ett verkligt samband eller enbart likheter som TxGNN-modellen har lärt sig mellan relaterade sjukdomar. / Klargöra marknadsstatus, eftersom inget godkännande för närvarande är giltigt i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-empagliflozin-3 -->
 
@@ -140,10 +142,10 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Totalt finns 6 godkännanden, alla indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Klargöra marknadsstatus, eftersom inget godkännande för närvarande är giltigt i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 5 godkännanden (67533, 67534, 66345, 65282, 66346) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Totalt finns 6 godkännanden, alla indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Klargöra marknadsstatus, eftersom inget godkännande för närvarande är giltigt i Sverige” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (67533, 67534, 66345, 65282, 66346) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

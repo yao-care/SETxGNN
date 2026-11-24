@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "BIOTIN"
 predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Biotin: predikterad ny indikation Dyspepsi (dyspepsia) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
 ---
 
@@ -89,11 +89,17 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 10237 | Soluvit | Pulver till infusionsvätska, lösning | Ej registrerad i lokala data |
-| 17364 | Cernevit | Pulver till injektions-/infusionsvätska, lösning | Ej registrerad i lokala data |
-| 56261 | Viant | Pulver till infusionsvätska, lösning | Ej registrerad i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 10237 | Soluvit | Pulver till infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 17364 | Cernevit | Pulver till injektions-/infusionsvätska, lösning | Baxter Medical AB | Godkänd |
+| 56261 | Viant | Pulver till infusionsvätska, lösning | B. Braun Melsungen AG | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

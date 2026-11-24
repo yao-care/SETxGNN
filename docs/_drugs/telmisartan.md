@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 413
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "TELMISARTAN"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
 description: "Telmisartan: predikterad ny indikation Prinzmetal angina (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 12 (giltiga: 12)"
@@ -86,17 +86,25 @@ Indikationstext saknas för samtliga godkännanden. Nedan visas fem av dem.
 
 <!-- review:begin se-lic-20261106-telmisartan-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 12 godkännanden är indragna, och ingen produkt med telmisartan som enda substans är för närvarande giltig. Indikationstext saknas för samtliga godkännanden.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 12, varav giltiga: 12; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 12 godkännanden är indragna, och ingen produkt med telmisartan som enda substans är för närvarande giltig. Indikationstext saknas för samtliga godkännanden.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-telmisartan-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
-|---------|------|------|-----------|
-| 43296 | Telmisartan STADA | Filmdragerad tablett | STADA Arzneimittel AG |
-| 56365 | Telmark | Filmdragerad tablett | Glenmark Arzneimittel GmbH |
-| 48503 | Telmisartan Jubilant | Tablett | Jubilant Pharmaceuticals nv |
-| 61894 | Telmisartan Ebb | Filmdragerad tablett | Ebb Medical AB |
-| 48998 | Lesamor | Tablett | STADA Arzneimittel AG |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 43296 | Telmisartan STADA | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 56365 | Telmark | Filmdragerad tablett | Glenmark Arzneimittel GmbH | Godkänd |
+| 48503 | Telmisartan Jubilant | Tablett | Jubilant Pharmaceuticals nv | Godkänd |
+| 61894 | Telmisartan Ebb | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 48998 | Lesamor | Tablett | STADA Arzneimittel AG | Godkänd |
+
+Tabellen visar 5 av 12 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -133,7 +141,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Alla 12 godkännanden är indragna, och ingen produkt med telmisartan som enda substans är för närvarande giltig” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla 12 godkännanden är indragna, och ingen produkt med telmisartan som enda substans är för närvarande giltig” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

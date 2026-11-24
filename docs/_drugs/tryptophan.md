@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 442
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 monitor_inn: "tryptophan"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
 description: "Tryptophan: predikterad ny indikation Restless legs-syndrom (restless legs syndrome) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -98,13 +98,21 @@ Indikationstext saknas i underlaget. De fem första visas nedan.
 
 <!-- review:end se-lic-20261106-tryptophan-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 57202 | Corhum | Lösning för kardioplegi/organförvaring | Ej angiven |
-| 59088 | Ketosteril | Filmdragerad tablett | Ej angiven |
-| 12526 | Glavamin | Infusionsvätska, lösning | Ej angiven |
-| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Ej angiven |
-| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 57202 | Corhum | Lösning för kardioplegi/organförvaring | S.A.L.F. SpA Laboratorio Farmacologico | Godkänd |
+| 59088 | Ketosteril | Filmdragerad tablett | Fresenius Kabi AB | Godkänd |
+| 12526 | Glavamin | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Fresenius Kabi AB | Avregistrerad |
+| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

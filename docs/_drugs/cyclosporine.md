@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "cyclosporine"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Cyclosporine: predikterad ny indikation Kronisk granulomatös sjukdom, autosomalt recessiv (granulomatous disease, chronic, autosomal recessive) (evidensnivå L5). Ursprunglig indikation: Inte angiven …"
 ---
 
@@ -86,13 +86,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Enligt de lokala uppgifterna finns minst 20 registrerade godkännanden för ciklosporin som enda aktiva substans, och listan kan vara ofullständig. Ingen indikationstext är angiven i de lokala uppgifterna. Ett urval av godkännandena:
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 59848 | Sandimmun Neoral | Kapsel, mjuk | Indikationstext saknas i lokala uppgifter |
-| 12310 | Sandimmun Neoral | Kapsel, mjuk | Indikationstext saknas i lokala uppgifter |
-| 12311 | Sandimmun Neoral | Oral lösning | Indikationstext saknas i lokala uppgifter |
-| 10263 | Sandimmun | Koncentrat till infusionsvätska, lösning | Indikationstext saknas i lokala uppgifter |
-| 47782 | Ciqorin | Kapsel, mjuk | Indikationstext saknas i lokala uppgifter |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 59848 | Sandimmun Neoral | Kapsel, mjuk | Medartuum AB | Godkänd |
+| 12310 | Sandimmun Neoral | Kapsel, mjuk | Novartis Sverige AB | Godkänd |
+| 12311 | Sandimmun Neoral | Oral lösning | Novartis Sverige AB | Godkänd |
+| 10263 | Sandimmun | Koncentrat till infusionsvätska, lösning | Novartis Sverige AB | Godkänd |
+| 47782 | Ciqorin | Kapsel, mjuk | Teva Sweden AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

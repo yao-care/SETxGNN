@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 113
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 monitor_inn: "clozapine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
 description: "Clozapine: predikterad ny indikation Manisk bipolär sjukdom (manic bipolar affective disorder) (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 15 (giltiga: 15)"
@@ -95,13 +95,21 @@ Det finns inga avslutade fas 3-prövningar för denna indikation i underlaget.
 
 Klozapin är registrerat som enkomponentsläkemedel i tablettform. Underlaget saknar indikationstext för licenserna. Läkemedlet är på marknaden och samtliga 15 licenser är giltiga. Nedan visas ett urval av de huvudsakliga godkännandena.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 14392 | Clozapine Actavis | Tablett | Ej angiven |
-| 63734 | Klozapin Ebb | Tablett | Ej angiven |
-| 53298 | Clozapine Holsten | Tablett | Ej angiven |
-| 51787 | Clozapine Accord | Tablett | Ej angiven |
-| 63706 | Clozapine STADA | Tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 14392 | Clozapine Actavis | Tablett | Actavis Group PTC ehf. | Godkänd |
+| 63734 | Klozapin Ebb | Tablett | Ebb Medical AB | Godkänd |
+| 53298 | Clozapine Holsten | Tablett | Holsten Pharma GmbH | Godkänd |
+| 51787 | Clozapine Accord | Tablett | Accord Healthcare B.V. | Godkänd |
+| 63706 | Clozapine STADA | Tablett | STADA Arzneimittel AG | Godkänd |
+
+Tabellen visar 5 av 15 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

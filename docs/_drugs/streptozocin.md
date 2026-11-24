@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 401
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "STREPTOZOCIN"
 predicted_indications: ["relapsing-remitting multiple sclerosis", "small cell lung carcinoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung", "hereditary breast ovarian cancer syndrome", "primary pulmonary lymphoma", "lymphosarcoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma"]
 description: "Streptozocin: predikterad ny indikation Relapsing-remitting multiple sclerosis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
@@ -80,15 +80,15 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 53703 | Zanosar | Pulver till koncentrat till infusionsvätska, lösning | Ej angiven |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-streptozocin-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 53703 | Zanosar | Pulver till koncentrat till infusionsvätska, lösning | Esteve Pharmaceuticals S.A.S | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”53703 (indraget) / Zanosar / Pulver till koncentrat till infusionsvätska, lösning / Ej angiven” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 53703 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-streptozocin-1 -->
+<!-- licenses:end -->
 
 Innehavare: Esteve Pharmaceuticals S.A.S.
 
@@ -149,7 +149,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-12 | Tabell: 1 godkännande (53703) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-12 | Tabell: 1 godkännande (53703) är godkänd, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "cladribine"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "liver sarcoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Cladribine: predikterad ny indikation Parameningeal embryonal rabdomyosarkom (parameningeal embryonal rhabdomyosarcoma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
@@ -82,9 +82,15 @@ Ingen relaterad litteratur tillgänglig för närvarande för parameningeal embr
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 65252 | Leuject | Injektionsvätska, lösning | Indikationstext saknas i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 65252 | Leuject | Injektionsvätska, lösning | Atnahs Pharma Netherlands B.V. | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Marknadsstatus enligt lokala data: marknadsförd. Tillverkare: Atnahs Pharma Netherlands B.V.
 

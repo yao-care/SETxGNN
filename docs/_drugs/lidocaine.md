@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "lidocaine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Lidocaine: predikterad ny indikation Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
@@ -84,13 +84,21 @@ Ingen relaterad litteratur tillgänglig för närvarande för punktformad epitel
 
 Läkemedlet är på marknaden i Sverige. Nedan visas 5 av minst 20 godkännanden; listan kan vara ofullständig. Alla godkännanden avser läkemedel med lidokain som enda aktiva substans, men ingen godkänd indikationstext finns angiven i de data som sammanställts.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 11258 | Xylocain | Kutan spray, lösning | Uppgift saknas |
-| 55095 | Versatis | Medicinskt plåster | Uppgift saknas |
-| 3601 | Xylocain | Salva | Uppgift saknas |
-| 21239 | Lidokain Isdin | Kräm | Uppgift saknas |
-| 63783 | Lidokain GALENpharma | Rektalsalva | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 11258 | Xylocain | Kutan spray, lösning | Aspen Pharma Trading Limited | Godkänd |
+| 55095 | Versatis | Medicinskt plåster | Orifarm AB | Godkänd |
+| 3601 | Xylocain | Salva | Aspen Pharma Trading Limited | Godkänd |
+| 21239 | Lidokain Isdin | Kräm | ISDIN S.A. | Godkänd |
+| 63783 | Lidokain GALENpharma | Rektalsalva | GALENpharma GmbH | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

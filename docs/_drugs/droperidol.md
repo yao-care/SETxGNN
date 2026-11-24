@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 154
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "DROPERIDOL"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "manic bipolar affective disorder", "attention deficit hyperactivity disorder, inattentive type", "nephrogenic syndrome of inappropriate antidiuresis", "attention deficit-hyperactivity disorder", "headache disorder", "common cold", "hypertrichosis (disease)", "specific developmental disorder"]
 description: "Droperidol: predikterad ny indikation Tourette syndrome (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 5 (giltiga: 5)"
@@ -82,14 +82,19 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 47928 | Droperidol Carinopharm | Injektionsvätska, lösning | Ej angiven |
-| 64545 | Droperidol Aguettant | Injektionsvätska, lösning | Ej angiven |
-| 56199 | Dridol | Injektionsvätska, lösning | Ej angiven |
-| 64546 | Droperidol Aguettant | Injektionsvätska, lösning | Ej angiven |
-| 62983 | Droperidol Sintetica | Injektionsvätska, lösning | Ej angiven |
+<!-- licenses:begin -->
 
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 47928 | Droperidol Carinopharm | Injektionsvätska, lösning | Carinopharm GmbH | Godkänd |
+| 64545 | Droperidol Aguettant | Injektionsvätska, lösning | Laboratoire Aguettant | Godkänd |
+| 56199 | Dridol | Injektionsvätska, lösning | Substipharm | Godkänd |
+| 64546 | Droperidol Aguettant | Injektionsvätska, lösning | Laboratoire Aguettant | Godkänd |
+| 62983 | Droperidol Sintetica | Injektionsvätska, lösning | Sintetica GmbH | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

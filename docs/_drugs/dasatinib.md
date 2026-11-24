@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 126
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 monitor_inn: "DASATINIB"
 predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival", "dermatofibrosarcoma protuberans", "ovarian myxoid liposarcoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung"]
 description: "Dasatinib: predikterad ny indikation Ewing sarkom (Ewing sarcoma) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -95,13 +95,21 @@ Det kliniska stödet är dock begränsat. Översikten från 2022 anger att dasat
 
 Dasatinib är marknadsfört i Sverige. Nedan visas de fem första av 20 registrerade godkännanden (listan kan vara ofullständig). Ingen indikationstext finns registrerad i de lokala data.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 61305 | Dasatinib Zentiva | Filmdragerad tablett | Ej angiven |
-| 61106 | Mubucho | Filmdragerad tablett | Ej angiven |
-| 57626 | Dasatinib Sandoz | Filmdragerad tablett | Ej angiven |
-| 61100 | Daruph | Filmdragerad tablett | Ej angiven |
-| 58430 | Dasatinib Avansor | Filmdragerad tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 61305 | Dasatinib Zentiva | Filmdragerad tablett | Zentiva k.s. | Godkänd |
+| 61106 | Mubucho | Filmdragerad tablett | Zentiva k.s. | Godkänd |
+| 57626 | Dasatinib Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 61100 | Daruph | Filmdragerad tablett | Zentiva k.s. | Godkänd |
+| 58430 | Dasatinib Avansor | Filmdragerad tablett | Avansor Pharma Oy | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

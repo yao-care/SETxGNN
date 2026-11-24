@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 320
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "norgestimate"
 predicted_indications: ["zinc, elevated plasma"]
 description: "Norgestimate: predikterad ny indikation Förhöjt zink i plasma (zinc, elevated plasma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
@@ -82,16 +82,16 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 59046 | Amorina (Effik) | Tablett | Ingen indikationstext registrerad |
-| 50862 | Amorest 28 (Campus Pharma AB) | Tablett | Ingen indikationstext registrerad |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-norgestimate-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 59046 | Amorina | Tablett | Effik | Godkänd |
+| 50862 | Amorest 28 | Tablett | Campus Pharma AB | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”59046 / Amorina (Effik) / Tablett / Ingen indikationstext registrerad (indraget); 50862 / Amorest 28 (Campus Pharma AB) / Tablett / Ingen indikationstext registrerad (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 59046, 50862 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-norgestimate-1 -->
+<!-- licenses:end -->
 
 Båda godkännandena är giltiga. Läkemedlet är marknadsfört i Sverige med 2 giltiga godkännanden av 2.
 
@@ -144,7 +144,7 @@ Uppgifter om varningar och kontraindikationer från den officiella produktresum�
 
 <!-- review:begin se-lic-20261106-norgestimate-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedöma om en ny registrering skulle krävas, eftersom alla svenska godkännanden är indragna” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedöma om en ny registrering skulle krävas, eftersom alla svenska godkännanden är indragna” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-norgestimate-1 -->
 
@@ -156,8 +156,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 2 godkännanden (59046, 50862) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 2 godkännanden (59046, 50862) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "fosfomycin"
 predicted_indications: ["uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "epiglottitis", "urogenital tuberculosis", "laryngitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "pyelitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Fosfomycin: predikterad ny indikation Uterine inflammatory disease (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
@@ -87,10 +87,16 @@ Den kopplingen är dock bara hypotetisk. Inflammation i livmodern har andra typi
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 56317 | Monuril | Granulat till oral lösning i dospåse | Ingen indikationstext tillgänglig i licensdata |
-| 55147 | Fosfomycin Infectopharm | Pulver till infusionsvätska, lösning | Ingen indikationstext tillgänglig i licensdata |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 56317 | Monuril | Granulat till oral lösning i dospåse | Zambon SpA | Godkänd |
+| 55147 | Fosfomycin Infectopharm | Pulver till infusionsvätska, lösning | INFECTOPHARM Arzneimittel und Consilium GmbH | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

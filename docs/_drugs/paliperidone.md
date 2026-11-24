@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 335
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "paliperidone"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
 description: "Paliperidone: predikterad ny indikation Retinal dystrofi med eller utan extraokulära avvikelser (retinal dystrophy with or without extraocular anomalies) (evidensnivå L5). Ursprunglig indikation: Int…"
@@ -84,13 +84,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 De fem första visas nedan.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 67075 | Paliperidon Heumann | Injektionsvätska, depotsuspension i förfylld spruta | Ej angiven |
-| 65325 | Paliperidon Bijon | Injektionsvätska, depotsuspension | Ej angiven |
-| 64434 | Paliperidone Sandoz | Injektionsvätska, depotsuspension i förfylld spruta | Ej angiven |
-| 67924 | Paliperidon Teva | Injektionsvätska, depotsuspension | Ej angiven |
-| 64432 | Paliperidone Sandoz | Injektionsvätska, depotsuspension i förfylld spruta | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 67075 | Paliperidon Heumann | Injektionsvätska, depotsuspension i förfylld spruta | Heumann Pharma GmbH & Co. Generica Kommanditgesellschaft | Godkänd |
+| 65325 | Paliperidon Bijon | Injektionsvätska, depotsuspension | UAB BIJON medica | Godkänd |
+| 64434 | Paliperidone Sandoz | Injektionsvätska, depotsuspension i förfylld spruta | Sandoz A/S | Godkänd |
+| 67924 | Paliperidon Teva | Injektionsvätska, depotsuspension | Abacus Medicine A/S | Godkänd |
+| 64432 | Paliperidone Sandoz | Injektionsvätska, depotsuspension i förfylld spruta | Sandoz A/S | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

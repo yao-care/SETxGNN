@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "meningococcemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Amikacin: predikterad ny indikation Paratyfoidfeber (paratyphoid fever) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 5 (giltiga: 5)"
 ---
 
@@ -91,13 +91,19 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 9437 | Biklin | Injektionsvätska, lösning | Ej angiven i lokala data |
-| 66673 | Amikacin Afortas | Injektionsvätska, lösning | Ej angiven i lokala data |
-| 57895 | Amikacin Fresenius Kabi | Infusionsvätska, lösning | Ej angiven i lokala data |
-| 59035 | Amikacin Macure | Injektionsvätska, lösning | Ej angiven i lokala data |
-| 64876 | Amikacin Orifarm | Injektionsvätska, lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 9437 | Biklin | Injektionsvätska, lösning | Vianex S.A. | Godkänd |
+| 66673 | Amikacin Afortas | Injektionsvätska, lösning | 2care4 Generics ApS | Godkänd |
+| 57895 | Amikacin Fresenius Kabi | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 59035 | Amikacin Macure | Injektionsvätska, lösning | MACURE PHARMA ApS | Godkänd |
+| 64876 | Amikacin Orifarm | Injektionsvätska, lösning | Orifarm AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

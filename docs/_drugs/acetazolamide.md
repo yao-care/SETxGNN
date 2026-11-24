@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "acetazolamide"
 predicted_indications: ["exercise-induced malignant hyperthermia", "hypertrophic cardiomyopathy", "congenital myopathy with excess of thin filaments", "hypertrophic cardiomyopathy due to intensive athletic training", "distal myopathy, Tateyama type", "cirrhotic cardiomyopathy", "cardiomyopathy", "intestinal obstruction", "glycogen storage disease due to acid maltase deficiency, late-onset", "unclassified intestinal pseudoobstruction"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Acetazolamide: predikterad ny indikation Arbetsutlöst malign hypertermi (exercise-induced malignant hyperthermia) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 7)"
 ---
 
@@ -80,13 +80,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 58997 | Diamox | Pulver till injektionsvätska, lösning | Ej angiven i lokala data |
-| 64710 | Diamox | Pulver till injektionsvätska, lösning | Ej angiven i lokala data |
-| 4972 | Diamox | Pulver till injektionsvätska, lösning | Ej angiven i lokala data |
-| 52966 | Diamox | Pulver till injektionsvätska, lösning | Ej angiven i lokala data |
-| 64540 | Diamox | Pulver till injektionsvätska, lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 58997 | Diamox | Pulver till injektionsvätska, lösning | Abboxia AB | Godkänd |
+| 64710 | Diamox | Pulver till injektionsvätska, lösning | Orifarm AB | Godkänd |
+| 4972 | Diamox | Pulver till injektionsvätska, lösning | Amdipharm Limited | Godkänd |
+| 52966 | Diamox | Pulver till injektionsvätska, lösning | Orifarm AB | Godkänd |
+| 64540 | Diamox | Pulver till injektionsvätska, lösning | Orifarm AB | Godkänd |
+
+Tabellen visar 5 av 7 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Dessa fem är ett urval av de sju registrerade godkännandena (ytterligare en injektionsberedning och en tablett finns).
 

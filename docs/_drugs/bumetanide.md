@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "bumetanide"
 predicted_indications: ["acute pulmonary heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bumetanide: predikterad ny indikation Akut pulmonell hjärtsjukdom (acute pulmonary heart disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 
@@ -88,12 +88,18 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 65428 | Burinex | Tablett | Ej angiven |
-| 9001 | Burinex | Tablett | Ej angiven |
-| 64781 | Burinex | Tablett | Ej angiven |
-| 10711 | Burinex | Injektionsvätska, lösning | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 65428 | Burinex | Tablett | Ebb Medical AB | Godkänd |
+| 9001 | Burinex | Tablett | Karo Pharma AB | Godkänd |
+| 64781 | Burinex | Tablett | Orifarm AB | Godkänd |
+| 10711 | Burinex | Injektionsvätska, lösning | Karo Pharma AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "chlorprothixene"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "myopia X-linked", "syndromic myopia", "manic bipolar affective disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Chlorprothixene: predikterad ny indikation Retinal dystrofi med eller utan extraokulära avvikelser (retinal dystrophy with or without extraocular anomalies) (evidensnivå L5). Ursprunglig indikation: …"
 ---
 
@@ -78,10 +78,16 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 8384 | Truxal | Filmdragerad tablett | Ej angiven |
-| 6075 | Truxal | Filmdragerad tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 8384 | Truxal | Filmdragerad tablett | H. Lundbeck A/S | Godkänd |
+| 6075 | Truxal | Filmdragerad tablett | H. Lundbeck A/S | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Båda godkännandena gäller enkomponentsprodukter från H. Lundbeck A/S.
 

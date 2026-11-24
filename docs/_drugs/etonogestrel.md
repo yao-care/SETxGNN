@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 181
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "ETONOGESTREL"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "blunt duct adenosis of breast", "apocrine adenosis of breast", "benign mammary dysplasia"]
 description: "Etonogestrel: predikterad ny indikation Amenorré (amenorrhea (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
@@ -78,11 +78,17 @@ Modellen pekar även på godartade bröstförändringar (fibrocystisk bröstsjuk
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 14924 | Nexplanon | Implantat | Ej angiven (godkänd) |
-| 17179 | NuvaRing | Vaginalinlägg | Ej angiven (godkänd) |
-| 54511 | Ornibel | Vaginalinlägg | Ej angiven (godkänd) |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 14924 | Nexplanon | Implantat | NV Organon | Godkänd |
+| 17179 | NuvaRing | Vaginalinlägg | NV Organon | Godkänd |
+| 54511 | Ornibel | Vaginalinlägg | Exeltis Healthcare, S.L. | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 184
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 monitor_inn: "EVEROLIMUS"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
 description: "Everolimus: predikterad ny indikation Liposarkom (liposarcoma) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -95,13 +95,21 @@ Prövningen saknar randomiserad jämförelsearm. Everolimus egen del av effekten
 
 Nedan visas fem av dem. Ingen indikationstext finns registrerad för dessa produkter.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Innehavare |
-|---------|------|------|-----------|
-| 54683 | Everolimus Teva | Tablett | Teva Sweden AB |
-| 18693 | Certican | Tablett | Novartis Sverige AB |
-| 18694 | Certican | Dispergerbar tablett | Novartis Sverige AB |
-| 56230 | Everolimus Ethypharm | Tablett | Ethypharm SA |
-| 57383 | Everolimus Sandoz | Tablett | Sandoz A/S |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 54683 | Everolimus Teva | Tablett | Teva Sweden AB | Godkänd |
+| 18693 | Certican | Tablett | Novartis Sverige AB | Godkänd |
+| 18694 | Certican | Dispergerbar tablett | Novartis Sverige AB | Godkänd |
+| 56230 | Everolimus Ethypharm | Tablett | Ethypharm SA | Godkänd |
+| 57383 | Everolimus Sandoz | Tablett | Sandoz A/S | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

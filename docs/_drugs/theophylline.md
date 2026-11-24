@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "theophylline"
 predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "pharyngitis", "acute laryngopharyngitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Theophylline: predikterad ny indikation Trombotisk sjukdom (evidensnivå L5). Ursprunglig indikation: Astma"
 ---
 
@@ -93,10 +93,16 @@ Ingen av publikationerna nedan studerar theofyllin som behandling av trombotisk 
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 9445 | Theo-Dur | Depottablett | Ingen indikationstext angiven i data |
-| 9446 | Theo-Dur | Depottablett | Ingen indikationstext angiven i data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 9445 | Theo-Dur | Depottablett | Karo Pharma AB | Godkänd |
+| 9446 | Theo-Dur | Depottablett | Karo Pharma AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Båda godkännandena gäller preparat med enbart theofyllin och är giltiga. Innehavare är Karo Pharma AB. Administrering sker via munnen.
 

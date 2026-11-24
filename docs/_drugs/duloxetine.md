@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 155
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
 description: "Duloxetine: predikterad ny indikation Benign paroxysmal torticollis of infancy (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -109,13 +109,21 @@ Indikationstext saknas i de sammanställda uppgifterna. Samtliga är hårda ente
 
 <!-- review:end se-lic-20261106-duloxetine-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 58357 | Duloxetin Teva (Teva B.V.) | Enterokapsel, hård | – |
-| 51691 | Loxentia (Krka) | Enterokapsel, hård | – |
-| 58701 | Duloxetine Accordpharma (Accord Healthcare) | Enterokapsel, hård | – |
-| 51689 | Duloxetine Krka (Krka) | Enterokapsel, hård | – |
-| 62882 | Duloxetine Medical Valley (Medical Valley Invest) | Enterokapsel, hård | – |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 58357 | Duloxetin Teva | Enterokapsel, hård | Teva B.V. | Godkänd |
+| 51691 | Loxentia | Enterokapsel, hård | Krka d.d., Novo mesto | Godkänd |
+| 58701 | Duloxetine Accordpharma | Enterokapsel, hård | Accord Healthcare B.V. | Godkänd |
+| 51689 | Duloxetine Krka | Enterokapsel, hård | Krka d.d., Novo mesto | Godkänd |
+| 62882 | Duloxetine Medical Valley | Enterokapsel, hård | Medical Valley Invest AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

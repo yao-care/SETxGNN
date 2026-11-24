@@ -5,7 +5,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 58
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-24
 description: "Betaxolol: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
 ---
@@ -72,10 +72,16 @@ TxGNN-modellen (djupinlärning, poäng ≥ 0,99) har genererat kandidater för B
 
 ## Marknadsinformation Sverige
 
-| Godkännande | Produkt | Läkemedelsform | Status |
-|------|------|------|------|
-| 11503 | betaxololhydroklorid | Ögondroppar, suspension | Avregistrerad |
-| 10388 | betaxololhydroklorid | Ögondroppar, lösning | Giltigt |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 11503 | Betoptic S | Ögondroppar, suspension | Immedica Pharma AB | Avregistrerad |
+| 10388 | Betoptic | Ögondroppar, lösning | Immedica Pharma AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ## Säkerhetsaspekter
 

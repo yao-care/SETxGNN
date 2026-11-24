@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 323
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "OFLOXACIN"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
 description: "Ofloxacin: predikterad ny indikation Polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
@@ -84,9 +84,15 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 49243 | Ofloxacin mibe | Ögondroppar, lösning | Ej angiven (status: upphävt) |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 49243 | Ofloxacin mibe | Ögondroppar, lösning | mibe GmbH Arzneimittel | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Det enda godkännandet är upphävt, och ofloxacin finns därför för närvarande inte tillgängligt på den svenska marknaden. Beredningsformen är ögondroppar, vilket är en lokal behandling och inte lämpar sig för systemiska tillstånd som hyperviskositet.
 

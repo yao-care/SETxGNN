@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "azithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Azithromycin: predikterad ny indikation Polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 18 (giltiga: 18)"
 ---
 
@@ -70,15 +70,21 @@ Eftersom varken studier eller publikationer har identifierats kan ingen biologis
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 16698 | Azitromax | Pulver till koncentrat till infusionsvätska, lösning | Ej registrerad i lokala data |
-| 42322 | Azithromycin STADA | Filmdragerad tablett | Ej registrerad i lokala data |
-| 23252 | Azithromycin Sandoz | Filmdragerad tablett | Ej registrerad i lokala data |
-| 64094 | Azitromycin Ebb | Pulver till oral suspension | Ej registrerad i lokala data |
-| 49480 | Azithromycin Krka | Filmdragerad tablett | Ej registrerad i lokala data |
+<!-- licenses:begin -->
 
-Fler godkännanden finns i de lokala uppgifterna än de fem som visas här.
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 16698 | Azitromax | Pulver till koncentrat till infusionsvätska, lösning | Pfizer AB | Godkänd |
+| 42322 | Azithromycin STADA | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 23252 | Azithromycin Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 64094 | Azitromycin Ebb | Pulver till oral suspension | Ebb Medical AB | Godkänd |
+| 49480 | Azithromycin Krka | Filmdragerad tablett | Krka d.d., Novo mesto | Godkänd |
+
+Tabellen visar 5 av 18 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

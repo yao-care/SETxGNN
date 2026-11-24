@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "amylmetacresol"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "ciliary body disease", "panuveitis (disease)", "iris disease", "infectious anterior uveitis", "uveitis", "ciliary body cancer", "benign neoplasm of ciliary body"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Amylmetacresol: predikterad ny indikation Cauda equina-syndrom (cauda equina syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 14 (giltiga: 14)"
 ---
 
@@ -80,15 +80,23 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 46868 | Strepsils Citron | Sugtablett | Ej angiven |
-| 19416 | Strepsils Honung & Citron | Sugtablett | Ej angiven |
-| 19508 | Strepsils Jordgubb | Sugtablett | Ej angiven |
-| 43997 | Strepsils Ingefära | Sugtablett | Ej angiven |
-| 63876 | Betolo | Munhålespray, lösning | Ej angiven |
+<!-- licenses:begin -->
 
-Visar fem av totalt 14 godkännanden. Godkänd indikationstext finns inte registrerad i de lokala uppgifterna.
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 46868 | Strepsils Citron | Sugtablett | Reckitt Benckiser Healthcare (Scandinavia) A/S | Godkänd |
+| 19416 | Strepsils Honung & Citron | Sugtablett | Reckitt Benckiser Healthcare (Scandinavia) A/S | Godkänd |
+| 19508 | Strepsils Jordgubb | Sugtablett | Reckitt Benckiser Healthcare (Scandinavia) A/S | Godkänd |
+| 43997 | Strepsils Ingefära | Sugtablett | Reckitt Benckiser Healthcare (Scandinavia) A/S | Godkänd |
+| 63876 | Betolo | Munhålespray, lösning | Geiser Pharma, S.L. | Godkänd |
+
+Tabellen visar 5 av 14 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
+
+Godkänd indikationstext finns inte registrerad i de lokala uppgifterna.
 
 ---
 

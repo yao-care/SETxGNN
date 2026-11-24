@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 394
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 monitor_inn: "serine"
 predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "myopathic intestinal pseudoobstruction", "unclassified intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection"]
 description: "Serine: predikterad ny indikation Familial visceral myopathy (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -92,13 +92,21 @@ Ingen godkänd indikationstext finns registrerad. Fem av de 20 godkännandena vi
 
 <!-- review:end se-lic-20261106-serine-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
-|---------|------|------|-----------|
-| 12526 | Glavamin | Infusionsvätska, lösning | Fresenius Kabi AB |
-| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Fresenius Kabi AB |
-| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Fresenius Kabi AB |
-| 12423 | Nutrineal PD4 1,1 % Aminosyror | Peritonealdialysvätska | Vantive AB |
-| 12812 | Clinimix N9G20E | Infusionsvätska, lösning | Baxter Medical AB |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 12526 | Glavamin | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Fresenius Kabi AB | Avregistrerad |
+| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 12423 | Nutrineal PD4 1,1 % Aminosyror | Peritonealdialysvätska | Vantive AB | Godkänd |
+| 12812 | Clinimix N9G20E | Infusionsvätska, lösning | Baxter Medical AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

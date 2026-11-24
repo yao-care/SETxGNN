@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "azathioprine"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Azathioprine: predikterad ny indikation Kolobomatös mikroftalmi-rhizomelisk dysplasi-syndrom (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (evidensnivå L5). Ursprunglig indikation: Inte…"
 ---
 
@@ -82,15 +82,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 8204 | Imurel | Filmdragerad tablett | Ej angiven i lokala data |
-| 11073 | Azatioprin Viatris | Filmdragerad tablett | Ej angiven i lokala data |
-| 41674 | Azathioprin 1A Farma | Filmdragerad tablett | Ej angiven i lokala data |
-| 22463 | Azathioprin Actavis | Filmdragerad tablett | Ej angiven i lokala data |
-| 41673 | Azathioprin 1A Farma | Filmdragerad tablett | Ej angiven i lokala data |
+<!-- licenses:begin -->
 
-Listan visar de fem första av totalt åtta godkännanden.
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 8204 | Imurel | Filmdragerad tablett | Aspen Pharma Trading Limited | Godkänd |
+| 11073 | Azatioprin Viatris | Filmdragerad tablett | Viatris Limited | Godkänd |
+| 41674 | Azathioprin 1A Farma | Filmdragerad tablett | 1A Farma A/S | Godkänd |
+| 22463 | Azathioprin Actavis | Filmdragerad tablett | Actavis Group PTC ehf. | Godkänd |
+| 41673 | Azathioprin 1A Farma | Filmdragerad tablett | 1A Farma A/S | Godkänd |
+
+Tabellen visar 5 av 8 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

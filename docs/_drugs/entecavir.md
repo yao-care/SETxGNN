@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 164
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "entecavir"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
 description: "Entecavir: predikterad ny indikation Kronisk hepatit C-virusinfektion (chronic hepatitis C virus infection) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 10 (giltiga: 10)"
@@ -94,19 +94,21 @@ Modellens höga poäng ska därför tolkas med stor försiktighet. Den visar lik
 
 Entecavir är marknadsfört i Sverige, och samtliga 10 godkännanden är giltiga. Tabellen visar fem av dem. Godkänd indikationstext finns inte registrerad i de lokala uppgifterna.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 59213 | Entekavir Ebb | Filmdragerad tablett | Godkänd |
-| 57766 | Entecavir Amarox | Filmdragerad tablett | Godkänd |
-| 55066 | Entecavir Sandoz | Filmdragerad tablett | Godkänd |
-| 57818 | Entecavir Medical Valley | Filmdragerad tablett | Godkänd |
-| 55026 | Entecavir STADA | Filmdragerad tablett | Godkänd |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-entecavir-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 59213 | Entekavir Ebb | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 57766 | Entecavir Amarox | Filmdragerad tablett | Amarox Pharma B.V | Godkänd |
+| 55066 | Entecavir Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 57818 | Entecavir Medical Valley | Filmdragerad tablett | Medical Valley Invest AB | Godkänd |
+| 55026 | Entecavir STADA | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”59213 / Entekavir Ebb / Filmdragerad tablett / Indraget; 57766 / Entecavir Amarox / Filmdragerad tablett / Indraget; 55066 / Entecavir Sandoz / Filmdragerad tablett / Indraget; 57818 / Entecavir Medical Valley / Filmdragerad tablett / Indraget; 55026 / Entecavir STADA / Filmdragerad tablett / Indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 59213, 57766, 55066, 57818, 55026 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Tabellen visar 5 av 10 godkännanden i uppgifterna.
 
-<!-- review:end se-row-20261112-entecavir-1 -->
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -144,7 +146,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-12 | Tabell: 5 godkännanden (59213, 57766, 55066, 57818, 55026) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-12 | Tabell: 5 godkännanden (59213, 57766, 55066, 57818, 55026) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

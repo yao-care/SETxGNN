@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 453
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "warfarin"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Warfarin: predikterad ny indikation Heparinkofaktor 2-brist (heparin cofactor 2 deficiency) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
@@ -94,16 +94,16 @@ Litteraturen består av tre små japanska fallrapporter från 1990–2001 utan k
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 6897 | Waran (Orifarm Healthcare A/S) | Tablett | Indikationstext saknas |
-| 42966 | Warfarin Orion (Orion Corporation) | Tablett | Indikationstext saknas |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-warfarin-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 6897 | Waran | Tablett | Orifarm Healthcare A/S | Godkänd |
+| 42966 | Warfarin Orion | Tablett | Orion Corporation | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”6897 / Waran (Orifarm Healthcare A/S) / Tablett / Indikationstext saknas; indraget; 42966 / Warfarin Orion (Orion Corporation) / Tablett / Indikationstext saknas; indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 6897, 42966 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-warfarin-1 -->
+<!-- licenses:end -->
 
 Detta bör verifieras.
 
@@ -134,7 +134,7 @@ Se produktresumén för fullständiga varningar och kontraindikationer, eftersom
 
 <!-- review:begin se-lic-20261106-warfarin-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Verifiera marknadsstatus, eftersom båda godkännandena är indragna. / Sammanställa kontrollerade data eller kohortstudier för warfarin vid ärftlig trombofili, särskilt jämfört med direktverkande orala antikoagulantia (DOAK), som enligt en ISTH-kommunikation från 2024 allt oftare används i stället.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Verifiera marknadsstatus, eftersom båda godkännandena är indragna. / Sammanställa kontrollerade data eller kohortstudier för warfarin vid ärftlig trombofili, särskilt jämfört med direktverkande orala antikoagulantia (DOAK), som enligt en ISTH-kommunikation från 2024 allt oftare används i stället.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-warfarin-1 -->
 
@@ -146,8 +146,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Verifiera marknadsstatus, eftersom båda godkännandena är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 2 godkännanden (6897, 42966) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Verifiera marknadsstatus, eftersom båda godkännandena är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 2 godkännanden (6897, 42966) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

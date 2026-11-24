@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 315
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "nimodipine"
 predicted_indications: ["homozygous familial hypercholesterolemia", "nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Nimodipine: predikterad ny indikation Homozygous familial hypercholesterolemia (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 5 (giltiga: 5)"
@@ -72,7 +72,7 @@ Det orsakas av aktiverande varianter i vasopressin V2-receptorn (AVPR2), som nim
 
 <!-- review:begin se-lic-20261106-nimodipine-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga fem godkännanden är indragna, och inget är för närvarande giltigt.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga fem godkännanden är indragna, och inget är för närvarande giltigt.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-nimodipine-1 -->
 
@@ -80,19 +80,19 @@ Det orsakas av aktiverande varianter i vasopressin V2-receptorn (AVPR2), som nim
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation | Status |
-|---------|------|------|-----------|------|
-| 56963 | Nimotop | Infusionsvätska, lösning | Ej angiven | Godkänd |
-| 56817 | Nimotop | Infusionsvätska, lösning | Ej angiven | Godkänd |
-| 10955 | Nimotop | Filmdragerad tablett | Ej angiven | Godkänd |
-| 66795 | Nimotop | Infusionsvätska, lösning | Ej angiven | Godkänd |
-| 10954 | Nimotop | Infusionsvätska, lösning | Ej angiven | Godkänd |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-nimodipine-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 56963 | Nimotop | Infusionsvätska, lösning | Ebb Medical AB | Godkänd |
+| 56817 | Nimotop | Infusionsvätska, lösning | Orifarm AB | Godkänd |
+| 10955 | Nimotop | Filmdragerad tablett | Laboratoire X.O | Godkänd |
+| 66795 | Nimotop | Infusionsvätska, lösning | Orifarm AB | Godkänd |
+| 10954 | Nimotop | Infusionsvätska, lösning | Laboratoire X.O | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”56963 / Nimotop / Infusionsvätska, lösning / Ej angiven / Indragen; 56817 / Nimotop / Infusionsvätska, lösning / Ej angiven / Indragen; 10955 / Nimotop / Filmdragerad tablett / Ej angiven / Indragen; 66795 / Nimotop / Infusionsvätska, lösning / Ej angiven / Indragen; 10954 / Nimotop / Infusionsvätska, lösning / Ej angiven / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 56963, 56817, 10955, 66795, 10954 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-nimodipine-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -117,7 +117,7 @@ Varnings- och kontraindikationstext från produktresumén saknas. Se produktresu
 
 <!-- review:begin se-lic-20261106-nimodipine-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är alla svenska godkännanden indragna, och viktig säkerhetsinformation saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 5, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom är alla svenska godkännanden indragna, och viktig säkerhetsinformation saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-nimodipine-2 -->
 
@@ -136,9 +136,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga fem godkännanden är indragna, och inget är för närvarande giltigt” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna, och v” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 5 godkännanden (56963, 56817, 10955, 66795, 10954) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Samtliga fem godkännanden är indragna, och inget är för närvarande giltigt” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna, och v” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (56963, 56817, 10955, 66795, 10954) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 | 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Nymalize (nimodipine) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e660fa26-b5c4-4d6d-8887-9e22b6666a10) |
 
 <!-- review:end log -->

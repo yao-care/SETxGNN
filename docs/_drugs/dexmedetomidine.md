@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 136
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "dexmedetomidine"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia"]
 description: "Dexmedetomidine: predikterad ny indikation Nephrogenic syndrome of inappropriate antidiuresis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 9 (giltiga: 9)"
@@ -86,23 +86,25 @@ Indikationstext finns inte registrerad för någon av dem. De fem första visas 
 
 <!-- review:begin se-lic-20261106-dexmedetomidine-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 9 godkännanden är indragna. Indikationstext finns inte registrerad för någon av dem.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 9 godkännanden är indragna. Indikationstext finns inte registrerad för någon av dem.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-dexmedetomidine-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
-|---------|------|------|-----------|-----------|
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
 | 63371 | Dexmedetomidine EQL Pharma | Koncentrat till infusionsvätska, lösning | EQL Pharma AB | Godkänd |
 | 60092 | Dexmedetomidine Baxter | Koncentrat till infusionsvätska, lösning | Baxter Holding B.V. | Godkänd |
 | 59438 | Dexmedetomidine Kalceks | Koncentrat till infusionsvätska, lösning | AS KALCEKS | Godkänd |
 | 54688 | Dexmedetomidine EVER Pharma | Koncentrat till infusionsvätska, lösning | EVER Valinject GmbH | Godkänd |
 | 61293 | Dexmedetomidine Kabi | Koncentrat till infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
 
-<!-- review:begin se-row-20261112-dexmedetomidine-1 -->
+Tabellen visar 5 av 9 godkännanden i uppgifterna.
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”63371 / Dexmedetomidine EQL Pharma / Koncentrat till infusionsvätska, lösning / EQL Pharma AB / Indraget; 60092 / Dexmedetomidine Baxter / Koncentrat till infusionsvätska, lösning / Baxter Holding B.V. / Indraget; 59438 / Dexmedetomidine Kalceks / Koncentrat till infusionsvätska, lösning / AS KALCEKS / Indraget; 54688 / Dexmedetomidine EVER Pharma / Koncentrat till infusionsvätska, lösning / EVER Valinject GmbH / Indraget; 61293 / Dexmedetomidine Kabi / Koncentrat till infusionsvätska, lösning / Fresenius Kabi AB / Indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 63371, 60092, 59438, 54688, 61293 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-dexmedetomidine-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -144,7 +146,7 @@ Dessa kan vara värda att utvärdera separat.
 
 <!-- review:begin se-lic-20261106-dexmedetomidine-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla svenska godkännanden är indragna, och uppgifter om ursprunglig indikation, verkningsmekanism, varningar och kontraindikationer saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla svenska godkännanden är indragna, och uppgifter om ursprunglig indikation, verkningsmekanism, varningar och kontraindikationer saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-dexmedetomidine-2 -->
 
@@ -162,9 +164,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Alla 9 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, och u” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 5 godkännanden (63371, 60092, 59438, 54688, 61293) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Alla 9 godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, och u” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (63371, 60092, 59438, 54688, 61293) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

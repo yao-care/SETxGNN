@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 192
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "FELYPRESSIN"
 drugbank_id: DB00093
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "esotropia", "diabetic retinopathy", "bronchial adenomas/carcinoids childhood", "ductal or ductular proliferation", "chondroid hamartoma", "non-seminomatous lesion", "tumor of testis and paratestis", "pre-malignant neoplasm"]
@@ -78,15 +78,15 @@ Flera av dessa har identiska poäng, vilket tyder på en generell grafeffekt sna
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 10433 | Citanest Dental Octapressin | Injektionsvätska, lösning | Ingen indikationstext tillgänglig (status: godkänd) |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-felypressin-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 10433 | Citanest Dental Octapressin | Injektionsvätska, lösning | Dentsply DeTrey GmbH | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”10433 / Citanest Dental Octapressin / Injektionsvätska, lösning / Ingen indikationstext tillgänglig (status: indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 10433 status Godkänd; tabellen angav det som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-felypressin-1 -->
+<!-- licenses:end -->
 
 Tillverkare: Dentsply DeTrey GmbH.
 
@@ -124,7 +124,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-12 | Tabell: 1 godkännande (10433) är godkänd, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-12 | Tabell: 1 godkännande (10433) är godkänd, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

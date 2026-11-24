@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 424
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 monitor_inn: "threonine"
 predicted_indications: ["gastroparesis (disease)"]
 description: "Threonine: predikterad ny indikation Gastropares (gastroparesis (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -82,13 +82,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Indikationstext saknas för samtliga. Fem av godkännandena:
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 59088 | Ketosteril | Filmdragerad tablett | Ej angiven |
-| 12526 | Glavamin | Infusionsvätska, lösning | Ej angiven |
-| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Ej angiven |
-| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Ej angiven |
-| 12423 | Nutrineal PD4 1,1 % Aminosyror | Peritonealdialysvätska | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 59088 | Ketosteril | Filmdragerad tablett | Fresenius Kabi AB | Godkänd |
+| 12526 | Glavamin | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Fresenius Kabi AB | Avregistrerad |
+| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 12423 | Nutrineal PD4 1,1 % Aminosyror | Peritonealdialysvätska | Vantive AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

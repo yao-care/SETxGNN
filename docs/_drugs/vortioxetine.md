@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 452
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "vortioxetine"
 predicted_indications: ["neurotic disorder", "benign paroxysmal torticollis of infancy"]
 description: "Vortioxetine: predikterad ny indikation Neurotiskt tillstånd (neurotic disorder) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 12 (giltiga: 12)"
@@ -86,13 +86,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Alla 12 godkännanden är giltiga och ingen har någon registrerad indikationstext. De fem första visas nedan.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 67113 | Vortioxetine Krka | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 65703 | Vortioxetine Viatris | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 65569 | Vortioxetin Amarox | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 65566 | Vortioxetin Amarox | Filmdragerad tablett | Ingen indikationstext registrerad |
-| 65568 | Vortioxetin Amarox | Filmdragerad tablett | Ingen indikationstext registrerad |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 67113 | Vortioxetine Krka | Filmdragerad tablett | Krka d.d., Novo mesto | Godkänd |
+| 65703 | Vortioxetine Viatris | Filmdragerad tablett | Viatris Limited | Godkänd |
+| 65569 | Vortioxetin Amarox | Filmdragerad tablett | Amarox Pharma B.V | Godkänd |
+| 65566 | Vortioxetin Amarox | Filmdragerad tablett | Amarox Pharma B.V | Godkänd |
+| 65568 | Vortioxetin Amarox | Filmdragerad tablett | Amarox Pharma B.V | Godkänd |
+
+Tabellen visar 5 av 12 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -121,7 +129,7 @@ Se produktresumén för varningar och kontraindikationer.
 
 <!-- review:begin se-lic-20261106-vortioxetine-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det finns inga kliniska prövningar, och den enda publikationen utvärderar inte vortioxetin. / Läkemedlet har dessutom inga gällande godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 12, varav giltiga: 12; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det finns inga kliniska prövningar, och den enda publikationen utvärderar inte vortioxetin. / Läkemedlet har dessutom inga gällande godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-vortioxetine-1 -->
 
@@ -139,7 +147,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Läkemedlet har dessutom inga gällande godkännanden i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Läkemedlet har dessutom inga gällande godkännanden i Sverige” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

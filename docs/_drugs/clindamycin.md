@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "clindamycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "neurotrophic keratopathy", "epidemic keratoconjunctivitis", "postmenopausal atrophic vaginitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clindamycin: predikterad ny indikation Punktat epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
@@ -84,13 +84,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Läkemedlet har enligt de lokala uppgifterna marknadsstatus "Marknadsförd". Listan nedan kan vara ofullständig och visar upp till 5 av godkännandena.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 55563 | Dalacin | Kapsel, hård | Ej angiven i lokala data |
-| 11773 | Dalacin | Vaginalkräm | Ej angiven i lokala data |
-| 43337 | Clindamycin Orifarm | Kapsel, hård | Ej angiven i lokala data |
-| 11472 | Dalacin | Kutan emulsion | Ej angiven i lokala data |
-| 57877 | Clindamycin Navamedic | Infusionsvätska, lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 55563 | Dalacin | Kapsel, hård | Ebb Medical AB | Godkänd |
+| 11773 | Dalacin | Vaginalkräm | Pfizer AB | Godkänd |
+| 43337 | Clindamycin Orifarm | Kapsel, hård | Orifarm Generics A/S | Godkänd |
+| 11472 | Dalacin | Kutan emulsion | Pfizer AB | Godkänd |
+| 57877 | Clindamycin Navamedic | Infusionsvätska, lösning | Navamedic ASA | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

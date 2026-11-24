@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 347
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "phenylephrine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
 description: "Phenylephrine: predikterad ny indikation Sjukdomar i näshålan (nasal cavity disease) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 12 (giltiga: 12)"
@@ -90,13 +90,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Av 12 godkännanden är 12 giltiga. Ingen indikationstext finns i underlaget. De fem första visas nedan.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 47623 | Fenylefrin Abcur | Injektionsvätska, lösning | – |
-| 10045 | Phenylephrine hydrochloride Bausch & Lomb | Ögondroppar, lösning i endosbehållare | – |
-| 47624 | Fenylefrin Abcur | Injektionsvätska, lösning | – |
-| 58774 | Fenylefrin Aguettant | Injektions-/infusionsvätska, lösning | – |
-| 51344 | Fenylefrin Unimedic | Injektionsvätska, lösning | – |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 47623 | Fenylefrin Abcur | Injektionsvätska, lösning | Abcur AB | Godkänd |
+| 10045 | Phenylephrine hydrochloride Bausch & Lomb | Ögondroppar, lösning i endosbehållare | Bausch & Lomb Ireland Limited | Godkänd |
+| 47624 | Fenylefrin Abcur | Injektionsvätska, lösning | Abcur AB | Godkänd |
+| 58774 | Fenylefrin Aguettant | Injektions-/infusionsvätska, lösning | Laboratoire Aguettant | Godkänd |
+| 51344 | Fenylefrin Unimedic | Injektionsvätska, lösning | Unimedic Pharma AB | Godkänd |
+
+Tabellen visar 5 av 12 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -130,7 +138,7 @@ Information från produktresumén (varningar och kontraindikationer) saknas i un
 
 <!-- review:begin se-lic-20261106-phenylephrine-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Utvärdera beredningsform och administrationsväg (t.ex. nasal beredning), eftersom inga nasala produkter finns bland de avregistrerade godkännandena.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 12, varav giltiga: 12; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Utvärdera beredningsform och administrationsväg (t.ex. nasal beredning), eftersom inga nasala produkter finns bland de avregistrerade godkännandena.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-phenylephrine-1 -->
 
@@ -146,7 +154,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”eftersom inga nasala produkter finns bland de avregistrerade godkännandena” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom inga nasala produkter finns bland de avregistrerade godkännandena” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

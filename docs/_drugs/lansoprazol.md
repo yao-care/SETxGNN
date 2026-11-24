@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00448
 monitor_inn: "Lansoprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Lansoprazol: predikterad ny indikation Duodenal obstruktion (duodenal obstruction) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 14 (giltiga: 14)"
 ---
 
@@ -85,13 +85,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Lansoprazol är marknadsfört i Sverige, och samtliga 14 godkännanden för enkomponentsprodukter är giltiga. Indikationstext finns inte registrerad i de lokala uppgifterna. Nedan visas fem av godkännandena.
 
-| Godkännandenummer | Produktnamn | Beredningsform |
-|---------|------|------|
-| 17060 | Lanzo | Munsönderfallande tablett |
-| 65241 | Lansoprazole SUN Pharma | Munsönderfallande tablett |
-| 50956 | Lansoprazol Medical Valley | Enterokapsel, hård |
-| 22292 | Lansoprazol Krka | Enterokapsel, hård |
-| 46352 | Lansoprazol Viatris | Munsönderfallande tablett |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 17060 | Lanzo | Munsönderfallande tablett | Pfizer AB | Godkänd |
+| 65241 | Lansoprazole SUN Pharma | Munsönderfallande tablett | Sun Pharmaceutical Industries Europe B.V. | Godkänd |
+| 50956 | Lansoprazol Medical Valley | Enterokapsel, hård | Medical Valley Invest AB | Godkänd |
+| 22292 | Lansoprazol Krka | Enterokapsel, hård | Krka d.d., Novo mesto | Godkänd |
+| 46352 | Lansoprazol Viatris | Munsönderfallande tablett | Viatris Limited | Godkänd |
+
+Tabellen visar 5 av 14 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

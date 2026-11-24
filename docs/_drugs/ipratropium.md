@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 233
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "ipratropium"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "respiratory malformation", "papillary conjunctivitis", "Rienhoff syndrome", "tracheal disease", "anaphylaxis", "food-dependent exercise-induced anaphylaxis"]
 description: "Ipratropium: predikterad ny indikation Nasal cavity disease (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -118,13 +118,21 @@ Någon indikationstext finns inte registrerad i de data som sammanställts. De f
 
 <!-- review:end se-lic-20261106-ipratropium-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 13667 | Rinivent | Nässpray, lösning | Uppgift saknas |
-| 48533 | Atrovent | Inhalationsspray, lösning | Uppgift saknas |
-| 14458 | Atrovent | Lösning för nebulisator | Uppgift saknas |
-| 10492 | Atrovent | Lösning för nebulisator | Uppgift saknas |
-| 26148 | Ipraxa | Lösning för nebulisator | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 13667 | Rinivent | Nässpray, lösning | Opella Healthcare France SAS | Godkänd |
+| 48533 | Atrovent | Inhalationsspray, lösning | Orifarm AB | Godkänd |
+| 14458 | Atrovent | Lösning för nebulisator | Boehringer Ingelheim International GmbH | Godkänd |
+| 10492 | Atrovent | Lösning för nebulisator | Boehringer Ingelheim International GmbH | Godkänd |
+| 26148 | Ipraxa | Lösning för nebulisator | Teva Sweden AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

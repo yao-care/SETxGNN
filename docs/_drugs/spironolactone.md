@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 400
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "spironolactone"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
 description: "Spironolactone: predikterad ny indikation Hypotrichosis simplex of the scalp (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 12 (giltiga: 12)"
@@ -88,23 +88,25 @@ Indikationstext saknas i alla poster. Nedan visas fem av dem.
 
 <!-- review:begin se-lic-20261106-spironolactone-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 12 godkännanden för enkomponentsprodukter är indragna, och inget giltigt godkännande finns. Indikationstext saknas i alla poster.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 12, varav giltiga: 12; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 12 godkännanden för enkomponentsprodukter är indragna, och inget giltigt godkännande finns. Indikationstext saknas i alla poster.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-spironolactone-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 9578 | Spironolakton Orifarm | Tablett | Uppgift saknas |
-| 53264 | Spironolactone Accord | Filmdragerad tablett | Uppgift saknas |
-| 46492 | Spironolactone Orion | Tablett | Uppgift saknas |
-| 9766 | Spironolakton Pfizer | Tablett | Uppgift saknas |
-| 10238 | Spironolakton Orifarm | Tablett | Uppgift saknas |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-spironolactone-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 9578 | Spironolakton Orifarm | Tablett | Orifarm Healthcare A/S | Godkänd |
+| 53264 | Spironolactone Accord | Filmdragerad tablett | Accord Healthcare B.V. | Godkänd |
+| 46492 | Spironolactone Orion | Tablett | Orion Corporation | Godkänd |
+| 9766 | Spironolakton Pfizer | Tablett | Pfizer AB | Godkänd |
+| 10238 | Spironolakton Orifarm | Tablett | Orifarm Healthcare A/S | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”9578 / Spironolakton Orifarm / Tablett / Uppgift saknas (indraget); 53264 / Spironolactone Accord / Filmdragerad tablett / Uppgift saknas (indraget); 46492 / Spironolactone Orion / Tablett / Uppgift saknas (indraget); 9766 / Spironolakton Pfizer / Tablett / Uppgift saknas (indraget); 10238 / Spironolakton Orifarm / Tablett / Uppgift saknas (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 9578, 53264, 46492, 9766, 10238 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Tabellen visar 5 av 12 godkännanden i uppgifterna.
 
-<!-- review:end se-row-20261112-spironolactone-1 -->
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -129,7 +131,7 @@ Varningar och kontraindikationer från produktresumén kunde inte hämtas. Se pr
 
 <!-- review:begin se-lic-20261106-spironolactone-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den biologiska kopplingen är dessutom osäker, eftersom sjukdomen är ärftlig och inte primärt androgendriven. Alla svenska godkännanden är dessutom indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 12, varav giltiga: 12; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den biologiska kopplingen är dessutom osäker, eftersom sjukdomen är ärftlig och inte primärt androgendriven. Alla svenska godkännanden är dessutom indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-spironolactone-2 -->
 
@@ -149,9 +151,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga 12 godkännanden för enkomponentsprodukter är indragna, och inget giltigt godkännande finns” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är dessutom indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 5 godkännanden (9578, 53264, 46492, 9766, 10238) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Samtliga 12 godkännanden för enkomponentsprodukter är indragna, och inget giltigt godkännande finns” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är dessutom indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (9578, 53264, 46492, 9766, 10238) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 | 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc) |
 
 <!-- review:end log -->

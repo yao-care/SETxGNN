@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 376
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "RAMIPRIL"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
 description: "Ramipril: predikterad ny indikation Pulmonary hypertension owing to lung disease and/or hypoxia (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -98,19 +98,21 @@ Indikationstext saknas i uppgifterna. De fem första godkännandena:
 
 <!-- review:end se-lic-20261106-ramipril-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 44513 | Ramipril Krka | Tablett | Uppgift saknas |
-| 47626 | Ramipril Teva | Tablett | Uppgift saknas |
-| 63024 | Ramiliv | Tablett | Uppgift saknas |
-| 41645 | Ramipril Aurobindo | Tablett | Uppgift saknas |
-| 19685 | Ramipril HEXAL | Tablett | Uppgift saknas |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-ramipril-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 44513 | Ramipril Krka | Tablett | Krka d.d., Novo mesto | Godkänd |
+| 47626 | Ramipril Teva | Tablett | Teva Sweden AB | Godkänd |
+| 63024 | Ramiliv | Tablett | Antibiotice SA | Godkänd |
+| 41645 | Ramipril Aurobindo | Tablett | Aurobindo Pharma (Malta) Ltd. | Godkänd |
+| 19685 | Ramipril HEXAL | Tablett | Hexal A/S | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”44513 / Ramipril Krka / Tablett / Uppgift saknas (indraget); 47626 / Ramipril Teva / Tablett / Uppgift saknas (indraget); 63024 / Ramiliv / Tablett / Uppgift saknas (indraget); 41645 / Ramipril Aurobindo / Tablett / Uppgift saknas (indraget); 19685 / Ramipril HEXAL / Tablett / Uppgift saknas (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 44513, 47626, 63024, 41645, 19685 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
 
-<!-- review:end se-row-20261112-ramipril-1 -->
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -154,7 +156,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna och ingen produkt är för närvarande marknadsförd som enskild substans” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 5 godkännanden (44513, 47626, 63024, 41645, 19685) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-12 | Tabell: 5 godkännanden (44513, 47626, 63024, 41645, 19685) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

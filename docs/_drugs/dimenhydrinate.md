@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 142
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "dimenhydrinate"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
 description: "Dimenhydrinate: predikterad ny indikation Allergic urticaria (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 5 (giltiga: 5)"
@@ -78,13 +78,19 @@ Där finns dock ingen klinisk eller litterär evidens alls (evidensnivå L5).
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 19880 | Calma | Medicinskt tuggummi | Ingen indikationstext angiven (godkänd) |
-| 62058 | Cinnarizin/Dimenhydrinat Ebb | Tablett | Ingen indikationstext angiven (godkänd) |
-| 54243 | Arlevert | Tablett | Ingen indikationstext angiven (godkänd) |
-| 24919 | Arlevert | Tablett | Ingen indikationstext angiven (godkänd) |
-| 57574 | Azalonum | Tablett | Ingen indikationstext angiven (godkänd) |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 19880 | Calma | Medicinskt tuggummi | Cooper Consumer Health B.V. | Godkänd |
+| 62058 | Cinnarizin/Dimenhydrinat Ebb | Tablett | Ebb Medical AB | Godkänd |
+| 54243 | Arlevert | Tablett | Ebb Medical AB | Godkänd |
+| 24919 | Arlevert | Tablett | Hennig Arzneimittel GmbH & Co. KG | Godkänd |
+| 57574 | Azalonum | Tablett | Medochemie Ltd | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

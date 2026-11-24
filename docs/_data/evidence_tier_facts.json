@@ -52,7 +52,7 @@
     "lt": 3,
     "lv": 3,
     "r": 3,
-    "rs": "Tabell: 3 godkännanden (28126, 14321, 11312) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom alla godkännanden är indragna (ny ansökan eller licensförskrivning)”",
     "x": 0
    },
    {
@@ -151,7 +151,7 @@
     "lt": 3,
     "lv": 3,
     "r": 4,
-    "rs": "Tabell: 3 godkännanden (64191, 24838, 49857) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom samtliga godkännanden är indragna”",
     "x": 0
    },
    {
@@ -217,7 +217,7 @@
     "lt": 3,
     "lv": 3,
     "r": 3,
-    "rs": "Tabell: 3 godkännanden (59621, 59620, 11031) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom produkten inte längre marknadsförs”",
     "x": 0
    },
    {
@@ -228,7 +228,7 @@
     "lt": 1,
     "lv": 1,
     "r": 3,
-    "rs": "Tabell: 1 godkännande (7623) är godkänd, inte indragna",
+    "rs": "Borttaget: ”eftersom det enda svenska godkännandet är indraget”",
     "x": 0
    },
    {
@@ -294,7 +294,7 @@
     "lt": 4,
     "lv": 4,
     "r": 4,
-    "rs": "Tabell: 4 godkännanden (63098, 10007, 19751, 10480) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom inga produkter för närvarande är godkända i Sverige”",
     "x": 0
    },
    {
@@ -338,7 +338,7 @@
     "lt": 5,
     "lv": 5,
     "r": 2,
-    "rs": "Tabell: 5 godkännanden (60846, 53203, 12742, 12743, 53202) är godkända, inte indragna",
+    "rs": "Borttaget: ”Läkemedlets fosterskadande effekt och övriga säkerhetsrisker, samt att alla svenska godkännanden…",
     "x": 0
    },
    {
@@ -470,7 +470,7 @@
     "lt": 1,
     "lv": 1,
     "r": 2,
-    "rs": "Tabell: 1 godkännande (9312) är godkänd, inte indragna",
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -525,7 +525,7 @@
     "lt": 3,
     "lv": 3,
     "r": 2,
-    "rs": "Tabell: 3 godkännanden (60191, 60190, 65728) är godkända, inte indragna",
+    "rs": "Borttaget: ”och alla svenska godkännanden är indragna”",
     "x": 0
    },
    {
@@ -624,7 +624,7 @@
     "lt": 5,
     "lv": 5,
     "r": 5,
-    "rs": "Tabell: 5 godkännanden (55997, 50975, 64937, 55996, 50974) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom alla godkännanden är indragna”",
     "x": 0
    },
    {
@@ -635,7 +635,7 @@
     "lt": 3,
     "lv": 3,
     "r": 2,
-    "rs": "Tabell: 3 godkännanden (57830, 57327, 57395) är godkända, inte indragna",
+    "rs": "Borttaget: ”Dessutom är alla svenska godkännanden indragna, och s”",
     "x": 0
    },
    {
@@ -734,7 +734,7 @@
     "lt": 1,
     "lv": 1,
     "r": 3,
-    "rs": "Tabell: 1 godkännande (6938) är godkänd, inte indragna",
+    "rs": "Borttaget: ”Dessutom är det enda svenska godkännandet återkallat”",
     "x": 0
    },
    {
@@ -767,7 +767,7 @@
     "lt": 6,
     "lv": 6,
     "r": 3,
-    "rs": "Tabell: 5 godkännanden (52912, 52932, 61378, 52849, 52834) är godkända, inte indragna",
+    "rs": "Borttaget: ”Dessutom är alla svenska godkännanden indragna”",
     "x": 0
    },
    {
@@ -833,7 +833,7 @@
     "lt": 1,
     "lv": 1,
     "r": 2,
-    "rs": "Tabell: 1 godkännande (4522) är godkänd, inte indragna",
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -866,7 +866,7 @@
     "lt": 1,
     "lv": 1,
     "r": 3,
-    "rs": "Tabell: 1 godkännande (67482) är godkänd, inte indragna",
+    "rs": "Borttaget: ”Det enda svenska godkännandet är återkallat”",
     "x": 0
    },
    {
@@ -877,7 +877,7 @@
     "lt": 1,
     "lv": 1,
     "r": 2,
-    "rs": "Tabell: 1 godkännande (55055) är godkänd, inte indragna",
+    "rs": "Borttaget: ”Dessutom är det enda svenska godkännandet indraget”",
     "x": 0
    },
    {
@@ -910,7 +910,7 @@
     "lt": 1,
     "lv": 1,
     "r": 2,
-    "rs": "Tabell: 1 godkännande (7042) är godkänd, inte indragna",
+    "rs": "Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation",
     "x": 0
    },
    {
@@ -943,7 +943,7 @@
   "with_current": 366,
   "none_current": 2,
   "without_data": 73,
-  "with_reviews": 237,
+  "with_reviews": 245,
   "rows": [
    {
     "t": "Aripiprazol",
@@ -1283,7 +1283,7 @@
     "lt": 0,
     "lv": 20,
     "r": 3,
-    "rs": "Tabell: 5 godkännanden (23837, 23840, 50408, 58475, 61711) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom alla svenska godkännanden är indragna”",
     "x": 0
    },
    {
@@ -1349,7 +1349,7 @@
     "lt": 0,
     "lv": 20,
     "r": 3,
-    "rs": "Tabell: 5 godkännanden (44513, 47626, 63024, 41645, 19685) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom alla svenska godkännanden är indragna”",
     "x": 0
    },
    {
@@ -1382,7 +1382,7 @@
     "lt": 0,
     "lv": 20,
     "r": 3,
-    "rs": "Tabell: 5 godkännanden (12803, 44737, 12324, 13120, 11088) är godkända, inte indragna",
+    "rs": "Borttaget: ”Samtliga svenska godkännanden är indragna, och i”",
     "x": 0
    },
    {
@@ -1404,7 +1404,7 @@
     "lt": 0,
     "lv": 20,
     "r": 2,
-    "rs": "Tabell: 5 godkännanden (54479, 60561, 66043, 50626, 52516) är godkända, inte indragna",
+    "rs": "Borttaget: ”Dessutom är samtliga svenska godkännanden indragna”",
     "x": 0
    },
    {
@@ -1524,8 +1524,8 @@
     "i": "alopecia mucinosa",
     "lt": 19,
     "lv": 19,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Dexametason: Tobrasone och Toflacort är kombinationsprodukter med tobramycin",
     "x": 0
    },
    {
@@ -1690,7 +1690,7 @@
     "lt": 18,
     "lv": 18,
     "r": 3,
-    "rs": "Tabell: 5 godkännanden (50995, 65877, 65876, 51094, 21031) är godkända, inte indragna",
+    "rs": "Borttaget: ”Klargöra marknadsstatus, eftersom alla godkännanden i Sverige är indragna”",
     "x": 0
    },
    {
@@ -1701,7 +1701,7 @@
     "lt": 0,
     "lv": 18,
     "r": 2,
-    "rs": "Tabell: 4 godkännanden (25590, 23434, 23382, 21289) är godkända, inte indragna",
+    "rs": "Borttaget: ”Alla svenska godkännanden är indragna”",
     "x": 0
    },
    {
@@ -1745,7 +1745,7 @@
     "lt": 0,
     "lv": 18,
     "r": 4,
-    "rs": "Tabell: 5 godkännanden (51464, 57195, 63937, 51454, 68305) är godkända, inte indragna",
+    "rs": "Borttaget: ”Klargörande av varför alla svenska godkännanden är indragna, och om en ny godkännandeprocess…",
     "x": 0
    },
    {
@@ -1964,8 +1964,8 @@
     "i": "acrodermatitis chronica atrophicans",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Bupivakain: Marcain adrenalin är kombinationsberedningar med adrenalin",
     "x": 0
    },
    {
@@ -2020,7 +2020,7 @@
     "lt": 15,
     "lv": 15,
     "r": 4,
-    "rs": "Tabell: 5 godkännanden (63789, 64227, 56761, 65096, 62174) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom alla godkännanden är indragna”",
     "x": 0
    },
    {
@@ -2096,8 +2096,8 @@
     "i": "Biotinmetabol sjukdom",
     "lt": 13,
     "lv": 13,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Cyanokobalamin: flera godkännanden gäller kombinationsprodukter med andra vitaminer",
     "x": 0
    },
    {
@@ -2129,8 +2129,8 @@
     "i": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
     "lt": 13,
     "lv": 13,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Tiamin: Zubatmin och Viant är kombinationsprodukter med andra vitaminer",
     "x": 0
    },
    {
@@ -2207,7 +2207,7 @@
     "lt": 12,
     "lv": 12,
     "r": 4,
-    "rs": "Tabell: 5 godkännanden (9578, 53264, 46492, 9766, 10238) är godkända, inte indragna",
+    "rs": "Borttaget: ”Alla svenska godkännanden är dessutom indragna”",
     "x": 0
    },
    {
@@ -2273,7 +2273,7 @@
     "lt": 11,
     "lv": 11,
     "r": 4,
-    "rs": "Tabell: 5 godkännanden (26270, 22683, 26271, 22681, 22679) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom inget giltigt godkännande för glimepirid finns i Sverige”",
     "x": 0
    },
    {
@@ -2294,8 +2294,8 @@
     "i": "Malign hypertensiv njursjukdom",
     "lt": 10,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Bendroflumetiazid: de filmdragerade tabletterna är kombinationsprodukter med kaliumklorid",
     "x": 0
    },
    {
@@ -2350,7 +2350,7 @@
     "lt": 10,
     "lv": 10,
     "r": 1,
-    "rs": "Tabell: 5 godkännanden (59213, 57766, 55066, 57818, 55026) är godkända, inte indragna",
+    "rs": "",
     "x": 0
    },
    {
@@ -2405,7 +2405,7 @@
     "lt": 10,
     "lv": 10,
     "r": 4,
-    "rs": "Tabell: 5 godkännanden (48021, 64362, 48012, 48062, 51223) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom alla godkännanden är indragna”",
     "x": 0
    },
    {
@@ -2482,7 +2482,7 @@
     "lt": 9,
     "lv": 9,
     "r": 3,
-    "rs": "Tabell: 5 godkännanden (63371, 60092, 59438, 54688, 61293) är godkända, inte indragna",
+    "rs": "Borttaget: ”Alla svenska godkännanden är indragna, och u”",
     "x": 0
    },
    {
@@ -2680,7 +2680,7 @@
     "lt": 8,
     "lv": 8,
     "r": 3,
-    "rs": "Tabell: 5 godkännanden (65868, 66413, 62051, 61068, 65869) är godkända, inte indragna",
+    "rs": "Borttaget: ”Dessutom är samtliga svenska godkännanden indragna och säkerhetsunderlaget är ofullständigt”",
     "x": 0
    },
    {
@@ -2757,7 +2757,7 @@
     "lt": 7,
     "lv": 7,
     "r": 3,
-    "rs": "Tabell: 5 godkännanden (69036, 42037, 61689, 42036, 42212) är godkända, inte indragna",
+    "rs": "Borttaget: ”Samtliga godkännanden i Sverige är dessutom indragna”",
     "x": 0
    },
    {
@@ -2779,7 +2779,7 @@
     "lt": 7,
     "lv": 7,
     "r": 1,
-    "rs": "Tabell: 5 godkännanden (66438, 26284, 45657, 58177, 56192) är godkända, inte indragna",
+    "rs": "",
     "x": 0
    },
    {
@@ -2922,7 +2922,7 @@
     "lt": 6,
     "lv": 6,
     "r": 4,
-    "rs": "Tabell: 5 godkännanden (67533, 67534, 66345, 65282, 66346) är godkända, inte indragna",
+    "rs": "Borttaget: ”Klargöra marknadsstatus, eftersom inget godkännande för närvarande är giltigt i Sverige”",
     "x": 0
    },
    {
@@ -2977,7 +2977,7 @@
     "lt": 6,
     "lv": 6,
     "r": 1,
-    "rs": "Tabell: 5 godkännanden (62662, 53688, 62663, 53687, 53641) är godkända, inte indragna",
+    "rs": "",
     "x": 0
    },
    {
@@ -3010,7 +3010,7 @@
     "lt": 6,
     "lv": 6,
     "r": 3,
-    "rs": "Tabell: 5 godkännanden (65958, 65957, 65955, 65954, 65959) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom alla nuvarande godkännanden för denna produkt är indragna”",
     "x": 0
    },
    {
@@ -3032,7 +3032,7 @@
     "lt": 6,
     "lv": 6,
     "r": 4,
-    "rs": "Tabell: 5 godkännanden (66352, 66349, 66350, 66348, 66353) är godkända, inte indragna",
+    "rs": "Borttaget: ”Dessutom är samtliga svenska godkännanden indragna”",
     "x": 0
    },
    {
@@ -3043,7 +3043,7 @@
     "lt": 6,
     "lv": 6,
     "r": 3,
-    "rs": "Tabell: 5 godkännanden (64635, 60134, 22339, 67689, 12332) är godkända, inte indragna",
+    "rs": "Borttaget: ”Dessutom är samtliga svenska godkännanden indragna, och läkemedlets användning som narkosgas…",
     "x": 0
    },
    {
@@ -3065,7 +3065,7 @@
     "lt": 6,
     "lv": 6,
     "r": 3,
-    "rs": "Tabell: 5 godkännanden (66342, 65529, 59077, 64732, 61456) är godkända, inte indragna",
+    "rs": "Borttaget: ”Samtliga svenska godkännanden är dessutom indragna”",
     "x": 0
    },
    {
@@ -3208,7 +3208,7 @@
     "lt": 5,
     "lv": 5,
     "r": 4,
-    "rs": "Tabell: 5 godkännanden (56963, 56817, 10955, 66795, 10954) är godkända, inte indragna",
+    "rs": "Borttaget: ”Dessutom är alla svenska godkännanden indragna, och v”",
     "x": 0
    },
    {
@@ -3273,8 +3273,8 @@
     "i": "Gikt",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Artikain: godkännandena gäller kombinationsprodukter med adrenalin, inte enkomponentsprodukter",
     "x": 0
    },
    {
@@ -3329,7 +3329,7 @@
     "lt": 4,
     "lv": 4,
     "r": 4,
-    "rs": "Tabell: 4 godkännanden (17872, 52816, 58312, 17871) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom inget giltigt godkännande finns i Sverige”",
     "x": 0
    },
    {
@@ -3373,7 +3373,7 @@
     "lt": 4,
     "lv": 4,
     "r": 4,
-    "rs": "Tabell: 4 godkännanden (11097-1, 67829, 67828, 67827) är godkända, inte indragna",
+    "rs": "Borttaget: ”Produktresumé med fullständiga varningar, kontraindikationer och dosering, samt klarhet i hur…",
     "x": 0
    },
    {
@@ -3383,8 +3383,8 @@
     "i": "Diffus skleroderma",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Imipenem: godkännandena gäller kombinationen imipenem/cilastatin, inte enkomponentsprodukter",
     "x": 0
    },
    {
@@ -3395,7 +3395,7 @@
     "lt": 4,
     "lv": 4,
     "r": 2,
-    "rs": "Tabell: 4 godkännanden (7564, 16688, 16663, 16899) är godkända, inte indragna",
+    "rs": "Borttaget: ”Alla svenska godkännanden är indragna”",
     "x": 0
    },
    {
@@ -3417,7 +3417,7 @@
     "lt": 4,
     "lv": 4,
     "r": 4,
-    "rs": "Tabell: 4 godkännanden (45433, 10293, 44378, 10212) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom inga produkter för närvarande är godkända i Sverige”",
     "x": 0
    },
    {
@@ -3461,7 +3461,7 @@
     "lt": 4,
     "lv": 4,
     "r": 4,
-    "rs": "Tabell: 4 godkännanden (7977, 5614, 51827, 63398) är godkända, inte indragna",
+    "rs": "Borttaget: ”En bedömning av om det över huvud taget finns ett skäl att återinföra ett läkemedel med indragna…",
     "x": 0
    },
    {
@@ -3615,7 +3615,7 @@
     "lt": 3,
     "lv": 3,
     "r": 3,
-    "rs": "Tabell: 3 godkännanden (9004, 9003, 8811) är godkända, inte indragna",
+    "rs": "Borttaget: ”och alla svenska godkännanden är indragna”",
     "x": 0
    },
    {
@@ -3625,8 +3625,8 @@
     "i": "sick sinus syndrome 2, autosomal dominant",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Dipyridamol: Diprasorin är en kombinationsprodukt med acetylsalicylsyra",
     "x": 0
    },
    {
@@ -3670,7 +3670,7 @@
     "lt": 3,
     "lv": 3,
     "r": 3,
-    "rs": "Tabell: 3 godkännanden (14441, 63732, 58390) är godkända, inte indragna",
+    "rs": "Borttaget: ”då inget godkännande är giltigt”",
     "x": 0
    },
    {
@@ -3681,7 +3681,7 @@
     "lt": 3,
     "lv": 3,
     "r": 3,
-    "rs": "Tabell: 3 godkännanden (46501, 8941, 63154) är godkända, inte indragna",
+    "rs": "Borttaget: ”Dessutom är alla svenska godkännanden indragna, och s”",
     "x": 0
    },
    {
@@ -3692,7 +3692,7 @@
     "lt": 3,
     "lv": 3,
     "r": 2,
-    "rs": "Tabell: 3 godkännanden (65495, 65496, 13677) är godkända, inte indragna",
+    "rs": "Borttaget: ”och läkemedlet har inga gällande godkännanden i Sverige”",
     "x": 0
    },
    {
@@ -3703,7 +3703,7 @@
     "lt": 3,
     "lv": 3,
     "r": 2,
-    "rs": "Tabell: 3 godkännanden (11504, 61691, 11328) är godkända, inte indragna",
+    "rs": "Borttaget: ”essutom är alla svenska godkännanden indragna, och d”",
     "x": 0
    },
    {
@@ -3714,7 +3714,7 @@
     "lt": 3,
     "lv": 3,
     "r": 3,
-    "rs": "Tabell: 3 godkännanden (11674, 57727, 7492) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom alla godkännanden är indragna”",
     "x": 0
    },
    {
@@ -3747,7 +3747,7 @@
     "lt": 3,
     "lv": 3,
     "r": 1,
-    "rs": "Tabell: 3 godkännanden (45894, 45895, 50421) är godkända, inte indragna",
+    "rs": "",
     "x": 0
    },
    {
@@ -3802,7 +3802,7 @@
     "lt": 3,
     "lv": 3,
     "r": 2,
-    "rs": "Tabell: 3 godkännanden (66409, 46905, 68417) är godkända, inte indragna",
+    "rs": "Borttaget: ”Alla tre godkännanden är indragna, och i”",
     "x": 0
    },
    {
@@ -3813,7 +3813,7 @@
     "lt": 3,
     "lv": 3,
     "r": 2,
-    "rs": "Tabell: 3 godkännanden (10793, 65612, 6514) är godkända, inte indragna",
+    "rs": "Borttaget: ”Dessutom är samtliga svenska godkännanden indragna”",
     "x": 0
    },
    {
@@ -3846,7 +3846,7 @@
     "lt": 3,
     "lv": 3,
     "r": 2,
-    "rs": "Tabell: 3 godkännanden (10080, 22468, 57835) är godkända, inte indragna",
+    "rs": "Borttaget: ”då nuvarande godkännanden (ögondroppar, plåster) är indragna”",
     "x": 0
    },
    {
@@ -3868,7 +3868,7 @@
     "lt": 3,
     "lv": 3,
     "r": 2,
-    "rs": "Tabell: 3 godkännanden (46193, 67791, 65880) är godkända, inte indragna",
+    "rs": "Borttaget: ”Alla tre godkännanden är indragna, och b”",
     "x": 0
    },
    {
@@ -3978,7 +3978,7 @@
     "lt": 2,
     "lv": 2,
     "r": 3,
-    "rs": "Tabell: 2 godkännanden (26320, 26319) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom båda godkännandena är indragna”",
     "x": 0
    },
    {
@@ -4000,7 +4000,7 @@
     "lt": 2,
     "lv": 2,
     "r": 3,
-    "rs": "Tabell: 2 godkännanden (22330, 65838) är godkända, inte indragna",
+    "rs": "Borttaget: ”Notera att båda godkännandena är avregistrerade, vilket innebär att ingen produkt för närvarande…",
     "x": 0
    },
    {
@@ -4011,7 +4011,7 @@
     "lt": 2,
     "lv": 2,
     "r": 2,
-    "rs": "Tabell: 2 godkännanden (6514, 65612) är godkända, inte indragna",
+    "rs": "Borttaget: ”och båda svenska godkännandena är indragna”",
     "x": 0
    },
    {
@@ -4022,7 +4022,7 @@
     "lt": 2,
     "lv": 2,
     "r": 2,
-    "rs": "Tabell: 2 godkännanden (67979, 67978) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom båda godkännandena är indragna”",
     "x": 0
    },
    {
@@ -4044,7 +4044,7 @@
     "lt": 2,
     "lv": 2,
     "r": 4,
-    "rs": "Tabell: 2 godkännanden (12017, 16331) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom endast indragna godkännanden finns registrerade”",
     "x": 0
    },
    {
@@ -4088,7 +4088,7 @@
     "lt": 2,
     "lv": 2,
     "r": 1,
-    "rs": "Tabell: 2 godkännanden (8075-2, 8075-1) är godkända, inte indragna",
+    "rs": "",
     "x": 0
    },
    {
@@ -4099,7 +4099,7 @@
     "lt": 2,
     "lv": 2,
     "r": 3,
-    "rs": "Tabell: 2 godkännanden (61474, 12337) är godkända, inte indragna",
+    "rs": "Borttaget: ”Isoflurans godkännanden i Sverige är dessutom alla indragna, och d”",
     "x": 0
    },
    {
@@ -4110,7 +4110,7 @@
     "lt": 2,
     "lv": 2,
     "r": 2,
-    "rs": "Tabell: 2 godkännanden (65500, 58779) är godkända, inte indragna",
+    "rs": "Borttaget: ”Läkemedlet saknar dessutom giltigt godkännande i Sverige, och d”",
     "x": 0
    },
    {
@@ -4121,7 +4121,7 @@
     "lt": 2,
     "lv": 2,
     "r": 3,
-    "rs": "Tabell: 2 godkännanden (52381, 52383) är godkända, inte indragna",
+    "rs": "Borttaget: ”Ta hänsyn till att alla svenska godkännanden är indragna när eventuell fortsatt utvärdering…",
     "x": 0
    },
    {
@@ -4132,7 +4132,7 @@
     "lt": 2,
     "lv": 2,
     "r": 2,
-    "rs": "Tabell: 2 godkännanden (54935, 54934) är godkända, inte indragna",
+    "rs": "Borttaget: ”Båda godkännandena tillhör Bluefish Pharmaceuticals AB och är indragna”",
     "x": 0
    },
    {
@@ -4143,7 +4143,7 @@
     "lt": 2,
     "lv": 2,
     "r": 2,
-    "rs": "Tabell: 2 godkännanden (64618, 64617) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom alla godkännanden är indragna”",
     "x": 0
    },
    {
@@ -4176,7 +4176,7 @@
     "lt": 2,
     "lv": 2,
     "r": 4,
-    "rs": "Tabell: 2 godkännanden (54429, 11867) är godkända, inte indragna",
+    "rs": "Borttaget: ”Dessutom saknar läkemedlet för närvarande giltigt godkännande i Sverige”",
     "x": 0
    },
    {
@@ -4187,7 +4187,7 @@
     "lt": 2,
     "lv": 2,
     "r": 2,
-    "rs": "Tabell: 2 godkännanden (59046, 50862) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom alla svenska godkännanden är indragna”",
     "x": 0
    },
    {
@@ -4209,7 +4209,7 @@
     "lt": 2,
     "lv": 2,
     "r": 2,
-    "rs": "Tabell: 2 godkännanden (48482, 12824) är godkända, inte indragna",
+    "rs": "Borttaget: ”Dessutom är båda svenska godkännandena indragna, och k”",
     "x": 0
    },
    {
@@ -4220,7 +4220,7 @@
     "lt": 2,
     "lv": 2,
     "r": 3,
-    "rs": "Tabell: 2 godkännanden (16663, 16899) är godkända, inte indragna",
+    "rs": "Borttaget: ”Aktuell marknadsstatus, eftersom båda svenska godkännandena är indragna”",
     "x": 0
    },
    {
@@ -4264,7 +4264,7 @@
     "lt": 2,
     "lv": 2,
     "r": 3,
-    "rs": "Tabell: 2 godkännanden (65432, 65431) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom båda godkännandena är indragna”",
     "x": 0
    },
    {
@@ -4275,7 +4275,7 @@
     "lt": 2,
     "lv": 2,
     "r": 3,
-    "rs": "Tabell: 2 godkännanden (53766, 49635) är godkända, inte indragna",
+    "rs": "Borttaget: ”Klargöra marknadsstatus, eftersom båda godkännandena är indragna”",
     "x": 0
    },
    {
@@ -4286,7 +4286,7 @@
     "lt": 2,
     "lv": 2,
     "r": 4,
-    "rs": "Tabell: 2 godkännanden (26919, 19824) är godkända, inte indragna",
+    "rs": "Borttaget: ”eftersom alla nuvarande godkännanden är indragna”",
     "x": 0
    },
    {
@@ -4330,7 +4330,7 @@
     "lt": 2,
     "lv": 2,
     "r": 2,
-    "rs": "Tabell: 2 godkännanden (6897, 42966) är godkända, inte indragna",
+    "rs": "Borttaget: ”Verifiera marknadsstatus, eftersom båda godkännandena är indragna”",
     "x": 0
    },
    {
@@ -4341,7 +4341,7 @@
     "lt": 2,
     "lv": 2,
     "r": 2,
-    "rs": "Tabell: 2 godkännanden (11764, 11427) är godkända, inte indragna",
+    "rs": "Borttaget: ”Båda godkännandena är indragna, så det finns för närvarande ingen aktiv marknadsförd…",
     "x": 0
    },
    {
@@ -4539,7 +4539,7 @@
     "lt": 1,
     "lv": 1,
     "r": 3,
-    "rs": "Tabell: 1 godkännande (52445) är godkänd, inte indragna",
+    "rs": "Borttaget: ”eftersom godkännandet är indraget”",
     "x": 0
    },
    {
@@ -4550,7 +4550,7 @@
     "lt": 1,
     "lv": 1,
     "r": 3,
-    "rs": "Tabell: 1 godkännande (3866) är godkänd, inte indragna",
+    "rs": "Borttaget: ”Det enda godkännandet är indraget, och ingen giltig produkt finns på den svenska marknaden”",
     "x": 0
    },
    {
@@ -4572,7 +4572,7 @@
     "lt": 1,
     "lv": 1,
     "r": 2,
-    "rs": "Tabell: 1 godkännande (17247) är godkänd, inte indragna",
+    "rs": "Borttaget: ”Det enda svenska godkännandet är indraget, vilket försvårar en snabb väg framåt”",
     "x": 0
    },
    {
@@ -4605,7 +4605,7 @@
     "lt": 1,
     "lv": 1,
     "r": 1,
-    "rs": "Tabell: 1 godkännande (10433) är godkänd, inte indragna",
+    "rs": "",
     "x": 0
    },
    {
@@ -4616,7 +4616,7 @@
     "lt": 1,
     "lv": 1,
     "r": 2,
-    "rs": "Tabell: 1 godkännande (11325) är godkänd, inte indragna",
+    "rs": "Borttaget: ”Notera att det enda svenska godkännandet är indraget, vilket påverkar tillgängligheten”",
     "x": 0
    },
    {
@@ -4627,7 +4627,7 @@
     "lt": 1,
     "lv": 1,
     "r": 2,
-    "rs": "Tabell: 1 godkännande (9337) är godkänd, inte indragna",
+    "rs": "Borttaget: ”Det enda svenska godkännandet är indraget”",
     "x": 0
    },
    {
@@ -4649,7 +4649,7 @@
     "lt": 1,
     "lv": 1,
     "r": 2,
-    "rs": "Tabell: 1 godkännande (15349) är godkänd, inte indragna",
+    "rs": "Borttaget: ”Klargöra att Normosang för närvarande saknar giltigt godkännande i Sverige”",
     "x": 0
    },
    {
@@ -4682,7 +4682,7 @@
     "lt": 1,
     "lv": 1,
     "r": 3,
-    "rs": "Tabell: 1 godkännande (14912) är godkänd, inte indragna",
+    "rs": "Borttaget: ”Det enda godkännandet i Sverige är dessutom indraget”",
     "x": 0
    },
    {
@@ -4704,7 +4704,7 @@
     "lt": 1,
     "lv": 1,
     "r": 2,
-    "rs": "Tabell: 1 godkännande (5500) är godkänd, inte indragna",
+    "rs": "Borttaget: ”Det enda godkännandet i Sverige är indraget”",
     "x": 0
    },
    {
@@ -4726,7 +4726,7 @@
     "lt": 1,
     "lv": 1,
     "r": 3,
-    "rs": "Tabell: 1 godkännande (23246) är godkänd, inte indragna",
+    "rs": "Borttaget: ”Dessutom är det enda svenska godkännandet indraget, och produktresumétexten saknas”",
     "x": 0
    },
    {
@@ -4737,7 +4737,7 @@
     "lt": 1,
     "lv": 1,
     "r": 4,
-    "rs": "Tabell: 1 godkännande (41983) är godkänd, inte indragna",
+    "rs": "Borttaget: ”eftersom det befintliga godkännandet är indraget”",
     "x": 0
    },
    {
@@ -4748,7 +4748,7 @@
     "lt": 1,
     "lv": 1,
     "r": 2,
-    "rs": "Tabell: 1 godkännande (49271) är godkänd, inte indragna",
+    "rs": "Borttaget: ”Dessutom är det enda svenska godkännandet indraget”",
     "x": 0
    },
    {
@@ -4759,7 +4759,7 @@
     "lt": 1,
     "lv": 1,
     "r": 2,
-    "rs": "Tabell: 1 godkännande (49976) är godkänd, inte indragna",
+    "rs": "Borttaget: ”Det enda svenska godkännandet är indraget, och s”",
     "x": 0
    },
    {
@@ -4781,7 +4781,7 @@
     "lt": 1,
     "lv": 1,
     "r": 2,
-    "rs": "Tabell: 1 godkännande (11808) är godkänd, inte indragna",
+    "rs": "Borttaget: ”Dessutom är det enda svenska godkännandet avregistrerat”",
     "x": 0
    },
    {
@@ -4814,7 +4814,7 @@
     "lt": 1,
     "lv": 1,
     "r": 3,
-    "rs": "Tabell: 1 godkännande (51722) är godkänd, inte indragna",
+    "rs": "Borttaget: ”eftersom det enda godkännandet är indraget”",
     "x": 0
    },
    {
@@ -4825,7 +4825,7 @@
     "lt": 1,
     "lv": 1,
     "r": 3,
-    "rs": "Tabell: 1 godkännande (9250) är godkänd, inte indragna",
+    "rs": "Borttaget: ”Produkten är dessutom indragen, och r”",
     "x": 0
    },
    {
@@ -4847,7 +4847,7 @@
     "lt": 1,
     "lv": 1,
     "r": 2,
-    "rs": "Tabell: 1 godkännande (52640) är godkänd, inte indragna",
+    "rs": "Borttaget: ”Dessutom är det enda svenska godkännandet indraget och säkerhetsunderlaget ofullständigt”",
     "x": 0
    },
    {
@@ -4858,7 +4858,7 @@
     "lt": 1,
     "lv": 1,
     "r": 3,
-    "rs": "Tabell: 1 godkännande (11309) är godkänd, inte indragna",
+    "rs": "Borttaget: ”Det finns inget giltigt godkännande i Sverige för närvarande”",
     "x": 0
    },
    {
@@ -4880,7 +4880,7 @@
     "lt": 1,
     "lv": 1,
     "r": 1,
-    "rs": "Tabell: 1 godkännande (53703) är godkänd, inte indragna",
+    "rs": "",
     "x": 0
    },
    {
@@ -4935,7 +4935,7 @@
     "lt": 1,
     "lv": 1,
     "r": 2,
-    "rs": "Tabell: 1 godkännande (58467) är godkänd, inte indragna",
+    "rs": "Borttaget: ”Dessutom är det enda svenska godkännandet indraget och den lokala administrationen ger låg…",
     "x": 0
    },
    {
@@ -4946,7 +4946,7 @@
     "lt": 1,
     "lv": 1,
     "r": 2,
-    "rs": "Tabell: 1 godkännande (54736) är godkänd, inte indragna",
+    "rs": "Borttaget: ”och det enda svenska godkännandet är indraget”",
     "x": 0
    },
    {
@@ -4957,7 +4957,7 @@
     "lt": 1,
     "lv": 1,
     "r": 2,
-    "rs": "Tabell: 1 godkännande (14997) är godkänd, inte indragna",
+    "rs": "Borttaget: ”Dessutom är det enda svenska godkännandet indraget”",
     "x": 0
    },
    {
@@ -4979,7 +4979,7 @@
     "lt": 1,
     "lv": 0,
     "r": 2,
-    "rs": "Tabell: 1 godkännande (13685) är godkänd, inte indragna",
+    "rs": "Borttaget: ”essutom är flutamids enda svenska godkännande indraget, d”",
     "x": 0
    },
    {

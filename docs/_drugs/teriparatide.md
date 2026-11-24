@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 418
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "teriparatide"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
 description: "Teriparatide: predikterad ny indikation Duodenal ulcer (disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
@@ -84,11 +84,17 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Beredningsformen är i samtliga fall injektionsvätska, lösning i förfylld injektionspenna. Någon godkänd indikationstext finns inte angiven för dessa godkännanden.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Innehavare |
-|---------|------|------|-----------|
-| 59756 | Teriparatide Ambio Pharma | Injektionsvätska, lösning i förfylld injektionspenna | Ambio Pharma Europe |
-| 53004 | Teriparatide Teva | Injektionsvätska, lösning i förfylld injektionspenna | Teva Sweden AB |
-| 64630 | Teriparatide Teva | Injektionsvätska, lösning i förfylld injektionspenna | Orifarm AB |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 59756 | Teriparatide Ambio Pharma | Injektionsvätska, lösning i förfylld injektionspenna | Ambio Pharma Europe | Godkänd |
+| 53004 | Teriparatide Teva | Injektionsvätska, lösning i förfylld injektionspenna | Teva Sweden AB | Godkänd |
+| 64630 | Teriparatide Teva | Injektionsvätska, lösning i förfylld injektionspenna | Orifarm AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -114,7 +120,7 @@ Varnings- och kontraindikationstext från produktresumén ingår inte i underlag
 
 <!-- review:begin se-lic-20261106-teriparatide-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen om duodenalsår saknar både kliniska prövningar och litteratur, och ingen mekanistisk koppling kan styrkas (evidensnivå L5). / Samtliga svenska godkännanden är avregistrerade, vilket också begränsar tillgången.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen om duodenalsår saknar både kliniska prövningar och litteratur, och ingen mekanistisk koppling kan styrkas (evidensnivå L5). / Samtliga svenska godkännanden är avregistrerade, vilket också begränsar tillgången.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-teriparatide-1 -->
 
@@ -134,7 +140,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är avregistrerade, vilket också begränsar tillgången” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga svenska godkännanden är avregistrerade, vilket också begränsar tillgången” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

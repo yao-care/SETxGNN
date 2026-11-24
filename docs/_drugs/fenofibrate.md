@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "fenofibrate"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Fenofibrate: predikterad ny indikation Cholesterol-ester transfer protein deficiency (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 5 (giltiga: 5)"
 ---
 
@@ -86,13 +86,19 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 15661 | Lipanthyl (Viatris AB) | Kapsel, hård | Indikationstext saknas i underlaget |
-| 62472 | Thylip (2care4 Generics ApS) | Kapsel, hård | Indikationstext saknas i underlaget |
-| 68934 | Lipanthyl (Abacus Medicine A/S) | Kapsel, hård | Indikationstext saknas i underlaget |
-| 43044 | Lipanthyl (Orifarm AB) | Kapsel, hård | Indikationstext saknas i underlaget |
-| 63601 | Lipanthyl (Ebb Medical AB) | Kapsel, hård | Indikationstext saknas i underlaget |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 15661 | Lipanthyl | Kapsel, hård | Viatris AB | Godkänd |
+| 62472 | Thylip | Kapsel, hård | 2care4 Generics ApS | Godkänd |
+| 68934 | Lipanthyl | Kapsel, hård | Abacus Medicine A/S | Godkänd |
+| 43044 | Lipanthyl | Kapsel, hård | Orifarm AB | Godkänd |
+| 63601 | Lipanthyl | Kapsel, hård | Ebb Medical AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

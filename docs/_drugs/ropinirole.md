@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 386
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 monitor_inn: "ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
 description: "Ropinirole: predikterad ny indikation ADHD (attention deficit-hyperactivity disorder) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -90,13 +90,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Läkemedlet är marknadsfört, med 20 giltiga godkännanden. Indikationstexter finns inte i underlaget.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 64506 | Ropinirol Krka (Medartuum AB) | Depottablett | Uppgift saknas |
-| 25846 | Requip Depot (GlaxoSmithKline AB) | Depottablett | Uppgift saknas |
-| 58142 | Requip (Ebb Medical AB) | Filmdragerad tablett | Uppgift saknas |
-| 68261 | Ropinirol Abacus Medicine (Abacus Medicine A/S) | Depottablett | Uppgift saknas |
-| 13226 | Requip (GlaxoSmithKline AB) | Filmdragerad tablett | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 64506 | Ropinirol Krka | Depottablett | Medartuum AB | Godkänd |
+| 25846 | Requip Depot | Depottablett | GlaxoSmithKline AB | Godkänd |
+| 58142 | Requip | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 68261 | Ropinirol Abacus Medicine | Depottablett | Abacus Medicine A/S | Godkänd |
+| 13226 | Requip | Filmdragerad tablett | GlaxoSmithKline AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

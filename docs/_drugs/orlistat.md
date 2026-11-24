@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 328
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "ORLISTAT"
 predicted_indications: ["hypervitaminosis"]
 description: "Orlistat: predikterad ny indikation Hypervitaminosis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
@@ -70,13 +70,18 @@ Resonemanget är dock helt teoretiskt. Hypervitaminos som beror på oralt intag 
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 42940 | Orlistat STADA | Kapsel, hård | Ingen indikationstext tillgänglig |
-| 46145 | Beacita | Kapsel, hård | Ingen indikationstext tillgänglig |
-| 63343 | Orlistat Accord | Kapsel, hård | Ingen indikationstext tillgänglig |
-| 46144 | Beacita | Kapsel, hård | Ingen indikationstext tillgänglig |
+<!-- licenses:begin -->
 
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 42940 | Orlistat STADA | Kapsel, hård | STADA Arzneimittel AG | Godkänd |
+| 46145 | Beacita | Kapsel, hård | Teva B.V. | Godkänd |
+| 63343 | Orlistat Accord | Kapsel, hård | Accord Healthcare B.V. | Godkänd |
+| 46144 | Beacita | Kapsel, hård | Teva B.V. | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

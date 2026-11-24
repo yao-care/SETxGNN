@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 304
 evidence_level: L3
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "montelukast"
 predicted_indications: ["bronchitis", "atopic eczema"]
 description: "Montelukast: predikterad ny indikation Bronkit (bronchitis) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -108,13 +108,21 @@ Förutsägelsen är dock heterogen. Under begreppet ingår akut viral bronkiolit
 
 Montelukast är marknadsfört i Sverige. De lokala registren visar giltiga godkännanden för flera produkter; urvalet nedan är begränsat till fem och kan vara ofullständigt. Någon indikationstext finns inte registrerad i de lokala uppgifterna.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 44033 | Montelukast Krka | Tuggtablett | Uppgift saknas |
-| 66534 | Montelukast Sandoz | Tuggtablett | Uppgift saknas |
-| 42537 | Montelukast STADA | Tuggtablett | Uppgift saknas |
-| 13944 | Singulair | Tuggtablett | Uppgift saknas |
-| 42253 | Montelukast Viatris | Filmdragerad tablett | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 44033 | Montelukast Krka | Tuggtablett | Krka d.d., Novo mesto | Godkänd |
+| 66534 | Montelukast Sandoz | Tuggtablett | Ebb Medical AB | Godkänd |
+| 42537 | Montelukast STADA | Tuggtablett | STADA Arzneimittel AG | Godkänd |
+| 13944 | Singulair | Tuggtablett | Organon N.V | Godkänd |
+| 42253 | Montelukast Viatris | Filmdragerad tablett | Viatris Limited | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Beredningsformerna omfattar tuggtabletter, filmdragerade tabletter och granulat.
 

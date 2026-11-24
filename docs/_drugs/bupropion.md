@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "bupropion"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "benign paroxysmal torticollis of infancy", "trigeminal nerve neoplasm", "obsolete hypertelorism (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bupropion: predikterad ny indikation Attention deficit-hyperactivity disorder (ADHD) (attention deficit-hyperactivity disorder) (evidensnivå L2). Ursprunglig indikation: Inte angiven i de lokala uppg…"
 ---
 
@@ -98,13 +98,21 @@ Mekanistiskt kan bupropion därför förbättra uppmärksamhet och minska hypera
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 62534 | Bupropion Zentiva | Tablett med modifierad frisättning | Ej angiven i lokala data |
-| 57774 | Bupropion Teva | Tablett med modifierad frisättning | Ej angiven i lokala data |
-| 61886 | Zyban | Depottablett | Ej angiven i lokala data |
-| 62224 | Bupropion Accord | Tablett med modifierad frisättning | Ej angiven i lokala data |
-| 50897 | Bupropion Orion | Tablett med modifierad frisättning | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 62534 | Bupropion Zentiva | Tablett med modifierad frisättning | Zentiva k.s. | Godkänd |
+| 57774 | Bupropion Teva | Tablett med modifierad frisättning | Teva B.V. | Godkänd |
+| 61886 | Zyban | Depottablett | Medartuum AB | Godkänd |
+| 62224 | Bupropion Accord | Tablett med modifierad frisättning | Accord Healthcare B.V. | Godkänd |
+| 50897 | Bupropion Orion | Tablett med modifierad frisättning | Orion Corporation | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Listan är ett urval och kan vara ofullständig.
 

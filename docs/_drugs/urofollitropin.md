@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 444
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Urofollitropin: predikterad ny indikation Migränsjukdom (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad i godkännandedata (använd produktre…"
 monitor_inn: "UROFOLLITROPIN"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "Raynaud disease"]
@@ -86,17 +86,25 @@ Samtliga tillhör IBSA Farmaceutici Italia S.r.l.
 
 <!-- review:begin se-lic-20261106-urofollitropin-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga sex godkännanden är avregistrerade och ingen produkt är för närvarande marknadsförd med giltigt godkännande. Samtliga tillhör IBSA Farmaceutici Italia S.r.l.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga sex godkännanden är avregistrerade och ingen produkt är för närvarande marknadsförd med giltigt godkännande. Samtliga tillhör IBSA Farmaceutici Italia S.r.l.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-urofollitropin-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 22944 | Fostimon | Pulver och vätska till injektionsvätska, lösning | Godkänd |
-| 46427 | Fostimon Set | Pulver och vätska till injektionsvätska, lösning | Godkänd |
-| 47701 | Fostimon Set | Pulver och vätska till injektionsvätska, lösning | Avregistrerad |
-| 46428 | Fostimon Set | Pulver och vätska till injektionsvätska, lösning | Godkänd |
-| 22943 | Fostimon | Pulver och vätska till injektionsvätska, lösning | Godkänd |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 22944 | Fostimon | Pulver och vätska till injektionsvätska, lösning | IBSA Farmaceutici Italia S.r.l. | Godkänd |
+| 46427 | Fostimon Set | Pulver och vätska till injektionsvätska, lösning | IBSA Farmaceutici Italia S.r.l. | Godkänd |
+| 47701 | Fostimon Set | Pulver och vätska till injektionsvätska, lösning | IBSA Farmaceutici Italia S.r.l. | Avregistrerad |
+| 46428 | Fostimon Set | Pulver och vätska till injektionsvätska, lösning | IBSA Farmaceutici Italia S.r.l. | Godkänd |
+| 22943 | Fostimon | Pulver och vätska till injektionsvätska, lösning | IBSA Farmaceutici Italia S.r.l. | Godkänd |
+
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Ytterligare ett godkännande (47702, Fostimon Set) finns också registrerat och är avregistrerat. Ingen godkänd indikationstext finns tillgänglig i data.
 
@@ -144,7 +152,7 @@ Samtliga övriga förutsägelser bland de tio högst rankade saknar också klini
 
 <!-- review:begin se-lic-20261106-urofollitropin-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedömning av om en ny produkt skulle behöva godkännas på nytt; för närvarande är 6 av 6 godkännanden giltiga.” Borttaget: antalet eller statusen för godkännandena stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 5; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Bedömning av om en ny produkt skulle behöva godkännas på nytt; för närvarande är 6 av 6 godkännanden giltiga.” Borttaget: antalet eller statusen för godkännandena stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-urofollitropin-2 -->
 
@@ -156,8 +164,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga sex godkännanden är avregistrerade och ingen produkt är för närvarande marknadsförd med giltigt godkännande” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”för närvarande är 6 av 6 godkännanden giltiga” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga sex godkännanden är avregistrerade och ingen produkt är för närvarande marknadsförd med giltigt godkännande” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”för närvarande är 6 av 6 godkännanden giltiga” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

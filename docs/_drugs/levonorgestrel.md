@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 262
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 description: "Levonorgestrel: predikterad ny indikation Akne (acne (disease)) (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -90,13 +90,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Levonorgestrel är marknadsfört i Sverige och 20 godkännanden är giltiga. Listan i underlaget kan vara ofullständig. Nedan visas ett urval av godkännanden för preparat med enbart levonorgestrel.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 47987 | Levodonna | Tablett | – |
-| 22194 | Postinor | Tablett | – |
-| 50376 | Frivelle | Tablett | – |
-| 53746 | Kyleena | Intrauterint inlägg | – |
-| 53526 | Levonorgestrel STADA | Tablett | – |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 47987 | Levodonna | Tablett | Sandoz A/S | Godkänd |
+| 22194 | Postinor | Tablett | Gedeon Richter Plc | Godkänd |
+| 50376 | Frivelle | Tablett | Orifarm Generics A/S | Godkänd |
+| 53746 | Kyleena | Intrauterint inlägg | Bayer AB | Godkänd |
+| 53526 | Levonorgestrel STADA | Tablett | STADA Arzneimittel AG | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

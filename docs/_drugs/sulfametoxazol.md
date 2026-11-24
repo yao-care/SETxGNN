@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01015
 monitor_inn: "Sulfamethoxazole"
 predicted_indications: ["acute contagious conjunctivitis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Sulfametoxazol: predikterad ny indikation Akut smittsam konjunktivit (acute contagious conjunctivitis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
 ---
 
@@ -85,13 +85,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 8674 | Bactrim | Oral suspension | Ej angiven i de lokala data |
-| 9062 | Eusaprim | Koncentrat till infusionsvätska, lösning | Ej angiven i de lokala data |
-| 63751 | Zomylac | Koncentrat till infusionsvätska, lösning | Ej angiven i de lokala data |
-| 9263 | Eusaprim forte | Tablett | Ej angiven i de lokala data |
-| 9259 | Bactrim forte | Tablett | Ej angiven i de lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 8674 | Bactrim | Oral suspension | Eumedica Pharmaceuticals GmbH | Godkänd |
+| 9062 | Eusaprim | Koncentrat till infusionsvätska, lösning | Aspen Pharma Trading Limited | Godkänd |
+| 63751 | Zomylac | Koncentrat till infusionsvätska, lösning | Macure Healthcare Limited | Godkänd |
+| 9263 | Eusaprim forte | Tablett | Aspen Pharma Trading Limited | Godkänd |
+| 9259 | Bactrim forte | Tablett | Eumedica Pharmaceuticals GmbH | Godkänd |
+
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

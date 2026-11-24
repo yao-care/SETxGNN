@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 455
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "xylometazoline"
 predicted_indications: ["nasal cavity disease"]
 description: "Xylometazoline: predikterad ny indikation Sjukdomar i näshålan (nasal cavity disease) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -97,13 +97,21 @@ Ingen indikationstext finns registrerad. De fem första visas nedan.
 
 <!-- review:end se-lic-20261106-xylometazoline-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 17406 | Zymelin | Nässpray, lösning | Ej angiven |
-| 20021 | Zymelin Mentol | Nässpray, lösning | Ej angiven |
-| 66206 | Xylometazolin Evolan utan konserveringsmedel | Nässpray, lösning | Ej angiven |
-| 66200 | Xylometazolin Punkt utan konserveringsmedel | Nässpray, lösning | Ej angiven |
-| 6048-2 | Otrivin | Nässpray, lösning | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 17406 | Zymelin | Nässpray, lösning | Orifarm Healthcare A/S | Godkänd |
+| 20021 | Zymelin Mentol | Nässpray, lösning | Orifarm Healthcare A/S | Godkänd |
+| 66206 | Xylometazolin Evolan utan konserveringsmedel | Nässpray, lösning | Evolan Pharma AB | Godkänd |
+| 66200 | Xylometazolin Punkt utan konserveringsmedel | Nässpray, lösning | Evolan Pharma AB | Godkänd |
+| 6048-2 | Otrivin | Nässpray, lösning | Haleon Denmark ApS | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

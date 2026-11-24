@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "aceclofenac"
 predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx", "Kummell disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Aceclofenac: predikterad ny indikation Brakyolmi-amelogenesis imperfekta-syndrom (brachyolmia-amelogenesis imperfecta syndrome) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppg…"
 ---
 
@@ -82,9 +82,15 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 12507 | Barcan | Filmdragerad tablett | Indikationstext ej registrerad |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 12507 | Barcan | Filmdragerad tablett | Almirall S.A. | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Tillverkare: Almirall S.A.
 

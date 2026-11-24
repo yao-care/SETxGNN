@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 162
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "enoxaparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
 description: "Enoxaparin: predikterad ny indikation Trombofili orsakad av protein C-brist, autosomalt recessiv (thrombophilia due to protein C deficiency… (evidensnivå L5). Ursprunglig indikation: Inte angiven i d…"
@@ -78,13 +78,21 @@ Indikationstext saknas i data. Nedan visas fem av godkännandena.
 
 <!-- review:end se-lic-20261106-enoxaparin-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
-|---------|------|------|-----------|
-| 56066 | Enoxaparin Becat | Injektionsvätska, lösning i förfylld spruta | Laboratorios Farmacéuticos ROVI S.A. |
-| 56486 | Klexane | Injektionsvätska, lösning | Sanofi AB |
-| 60123 | Ghemaxan | Injektionsvätska, lösning i förfylld spruta | Chemi S.p.A. |
-| 54214 | Enoxaparin Ledraxen | Injektionsvätska, lösning i förfylld spruta | VENIPHARM |
-| 56489 | Klexane | Injektionsvätska, lösning i förfylld spruta | Sanofi AB |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 56066 | Enoxaparin Becat | Injektionsvätska, lösning i förfylld spruta | Laboratorios Farmacéuticos ROVI S.A. | Godkänd |
+| 56486 | Klexane | Injektionsvätska, lösning | Sanofi AB | Godkänd |
+| 60123 | Ghemaxan | Injektionsvätska, lösning i förfylld spruta | Chemi S.p.A. | Godkänd |
+| 54214 | Enoxaparin Ledraxen | Injektionsvätska, lösning i förfylld spruta | VENIPHARM | Godkänd |
+| 56489 | Klexane | Injektionsvätska, lösning i förfylld spruta | Sanofi AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

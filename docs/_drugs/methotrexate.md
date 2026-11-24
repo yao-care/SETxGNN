@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 284
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Methotrexate: predikterad ny indikation Pulmonary blastoma (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -120,13 +120,21 @@ Godkännandetexterna för indikation saknas i registret. De fem första visas ne
 
 <!-- review:end se-lic-20261106-methotrexate-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 60569 | Methotrexate Accord | Injektionsvätska, lösning i förfylld injektor | Ej angiven |
-| 54392 | Injexate | Injektionsvätska, lösning i förfylld injektor | Ej angiven |
-| 54387 | Injexate | Injektionsvätska, lösning i förfylld injektor | Ej angiven |
-| 42850 | Ebetrex | Tablett | Ej angiven |
-| 51172 | Injexate | Injektionsvätska, lösning i förfylld spruta | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 60569 | Methotrexate Accord | Injektionsvätska, lösning i förfylld injektor | Accord Healthcare B.V. | Godkänd |
+| 54392 | Injexate | Injektionsvätska, lösning i förfylld injektor | Accord Healthcare B.V. | Godkänd |
+| 54387 | Injexate | Injektionsvätska, lösning i förfylld injektor | Accord Healthcare B.V. | Godkänd |
+| 42850 | Ebetrex | Tablett | EBEWE Pharma Ges.m.b.H.Nfg.Kommanditgesellschaft | Godkänd |
+| 51172 | Injexate | Injektionsvätska, lösning i förfylld spruta | Accord Healthcare B.V. | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

@@ -103,13 +103,21 @@ Godkänd indikationstext saknas i licensdata. Nedan visas fem av godkännandena.
 
 <!-- review:end se-lic-20261106-zolmitriptan-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 13413 | Zomig | Filmdragerad tablett | – |
-| 18645 | Zomig Rapimelt | Munsönderfallande tablett | – |
-| 16818 | Zomig Nasal | Nässpray, lösning | – |
-| 42702 | Zolmitriptan STADA | Munsönderfallande tablett | – |
-| 43897 | Zolmitriptan Jubilant | Filmdragerad tablett | – |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 13413 | Zomig | Filmdragerad tablett | Grnenthal GmbH | Godkänd |
+| 18645 | Zomig Rapimelt | Munsönderfallande tablett | Grnenthal GmbH | Godkänd |
+| 16818 | Zomig Nasal | Nässpray, lösning | Grnenthal GmbH | Godkänd |
+| 42702 | Zolmitriptan STADA | Munsönderfallande tablett | STADA Arzneimittel AG | Godkänd |
+| 43897 | Zolmitriptan Jubilant | Filmdragerad tablett | Jubilant Pharmaceuticals nv | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

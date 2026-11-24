@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 232
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
 description: "Imipenem: predikterad ny indikation Diffus skleroderma (diffuse scleroderma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
@@ -80,14 +80,26 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Imipenem är marknadsfört i Sverige och har 4 giltiga godkännanden (enkomponentsprodukter). Samtliga är injektionsberedningar.
+Imipenem är marknadsfört i Sverige; samtliga godkännanden gäller kombinationsprodukten imipenem/cilastatin. Samtliga är injektionsberedningar.
 
-| Godkännandenummer | Produktnamn | Beredningsform |
-|---------|------|------|
-| 65602 | Imipenem/Cilastatin Orifarm | Pulver till infusionsvätska, lösning |
-| 62884 | Imipenem/Cilastatin Steriscience | Pulver till infusionsvätska, lösning |
-| 67596 | Imipenem/Cilastatin Noridem | Pulver till infusionsvätska, lösning |
-| 26382 | Imipenem/Cilastatin Fresenius Kabi | Pulver till infusionsvätska, lösning |
+<!-- review:begin se-lic-20261124-imipenem-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Imipenem är marknadsfört i Sverige och har 4 giltiga godkännanden (enkomponentsprodukter).” Enligt Läkemedelsverkets uppgifter innehåller samtliga godkännanden både imipenemmonohydrat och cilastatinnatrium; texten angav dem som enkomponentsprodukter. Uppgiften om enkomponents- och kombinationsprodukter följer de verksamma ämnena i Läkemedelsverkets uppgifter; antal godkännanden och status finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (verksamma ämnen, registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124-imipenem-1 -->
+
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 65602 | Imipenem/Cilastatin Orifarm | Pulver till infusionsvätska, lösning | Orifarm AB | Godkänd |
+| 62884 | Imipenem/Cilastatin Steriscience | Pulver till infusionsvätska, lösning | Steriscience B.V. | Godkänd |
+| 67596 | Imipenem/Cilastatin Noridem | Pulver till infusionsvätska, lösning | Noridem Enterprises Ltd | Godkänd |
+| 26382 | Imipenem/Cilastatin Fresenius Kabi | Pulver till infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -114,6 +126,18 @@ Varningar och kontraindikationer från produktresumén ingår inte i det underla
 - En biologiskt trovärdig hypotes för hur imipenem skulle kunna påverka immunologiska eller fibrotiska processer vid sjukdomen.
 - Prekliniska data eller kliniska studier som direkt undersöker imipenem vid diffus skleroderma.
 - Komplettering av säkerhetsinformation från produktresumén.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-24 | Imipenem: godkännandena gäller kombinationen imipenem/cilastatin, inte enkomponentsprodukter | Rättad | [Läkemedelsverket – export av godkända läkemedel (verksamma ämnen, registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

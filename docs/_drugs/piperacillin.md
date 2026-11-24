@@ -97,17 +97,25 @@ Godkänd indikationstext saknas i data. Ett urval av de huvudsakliga godkännand
 
 <!-- review:begin se-lic-20261106-piperacillin-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 19 godkännanden är indragna och ingen produkt är för närvarande marknadsförd. Godkänd indikationstext saknas i data.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 19, varav giltiga: 19; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 19 godkännanden är indragna och ingen produkt är för närvarande marknadsförd. Godkänd indikationstext saknas i data.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-piperacillin-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 24959 | Piperacillin/Tazobactam Stragen | Pulver till infusionsvätska, lösning | Ej angiven |
-| 23955 | Piperacillin/Tazobactam Sandoz | Pulver till infusionsvätska, lösning | Ej angiven |
-| 67500 | Piperacillin/Tazobactam B. Braun | Pulver och vätska till infusionsvätska, lösning | Ej angiven |
-| 61220 | Piperacillin/Tazobactam STADA | Pulver till infusionsvätska, lösning | Ej angiven |
-| 25747 | Piperacillin/Tazobactam Fresenius Kabi | Pulver till infusionsvätska, lösning | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 24959 | Piperacillin/Tazobactam Stragen | Pulver till infusionsvätska, lösning | Stragen Nordic A/S | Godkänd |
+| 23955 | Piperacillin/Tazobactam Sandoz | Pulver till infusionsvätska, lösning | Sandoz A/S | Godkänd |
+| 67500 | Piperacillin/Tazobactam B. Braun | Pulver och vätska till infusionsvätska, lösning | B. Braun Melsungen AG | Godkänd |
+| 61220 | Piperacillin/Tazobactam STADA | Pulver till infusionsvätska, lösning | STADA Arzneimittel AG | Godkänd |
+| 25747 | Piperacillin/Tazobactam Fresenius Kabi | Pulver till infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+
+Tabellen visar 5 av 19 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -133,7 +141,7 @@ Se produktresumén för varningar och kontraindikationer, som inte ingår i de d
 
 <!-- review:begin se-lic-20261106-piperacillin-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den höga modellpoängen verkar vara en artefakt, och all litteratur beskriver reumatoid artrit som bakgrundssjukdom vid infektionsbehandling. Dessutom är alla svenska godkännanden indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 19, varav giltiga: 19; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den höga modellpoängen verkar vara en artefakt, och all litteratur beskriver reumatoid artrit som bakgrundssjukdom vid infektionsbehandling. Dessutom är alla svenska godkännanden indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-piperacillin-2 -->
 
@@ -152,8 +160,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Alla 19 godkännanden är indragna och ingen produkt är för närvarande marknadsförd” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla 19 godkännanden är indragna och ingen produkt är för närvarande marknadsförd” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

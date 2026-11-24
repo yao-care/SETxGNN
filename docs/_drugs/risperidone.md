@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 381
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "risperidone"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
 description: "Risperidone: predikterad ny indikation Gaze palsy, familial horizontal, with progressive scoliosis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -90,13 +90,21 @@ Nedan visas fem av dem. Indikationstext saknas för dessa godkännanden.
 
 <!-- review:end se-lic-20261106-risperidone-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 23868 | Risperidon Krka | Filmdragerad tablett | Ej angiven |
-| 69143 | Risperdal Consta | Pulver och vätska till injektionsvätska, depotsuspension | Ej angiven |
-| 24184 | Risperidon Sandoz | Filmdragerad tablett | Ej angiven |
-| 11993 | Risperdal | Filmdragerad tablett | Ej angiven |
-| 60236 | Risperidon Sandoz | Oral lösning | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 23868 | Risperidon Krka | Filmdragerad tablett | Krka d.d., Novo mesto | Godkänd |
+| 69143 | Risperdal Consta | Pulver och vätska till injektionsvätska, depotsuspension | Abacus Medicine A/S | Godkänd |
+| 24184 | Risperidon Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 11993 | Risperdal | Filmdragerad tablett | Janssen-Cilag AB | Godkänd |
+| 60236 | Risperidon Sandoz | Oral lösning | Medartuum AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Beredningsformerna är oral (filmdragerade tabletter, munsönderfallande tabletter, oral lösning) och injektion (depotsuspension).
 

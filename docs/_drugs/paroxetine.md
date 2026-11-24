@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 339
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "paroxetine"
 predicted_indications: ["Ohdo syndrome and variants"]
 description: "Paroxetine: predikterad ny indikation Ohdo syndrome and variants (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 8 (giltiga: 8)"
@@ -70,19 +70,27 @@ Det går inte att verifiera utan ytterligare data, och poängen är en beräknin
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 63804 | Paroxetin Ebb | Filmdragerad tablett | Ingen indikationstext tillgänglig |
-| 23553 | Paroxetin HEXAL | Filmdragerad tablett | Ingen indikationstext tillgänglig |
-| 18069 | Paroxiflex | Filmdragerad tablett | Ingen indikationstext tillgänglig |
-| 18068 | Parocetan | Filmdragerad tablett | Ingen indikationstext tillgänglig |
-| 17065 | Paroxetin HEXAL | Filmdragerad tablett | Ingen indikationstext tillgänglig |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 63804 | Paroxetin Ebb | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 23553 | Paroxetin HEXAL | Filmdragerad tablett | Hexal A/S | Godkänd |
+| 18069 | Paroxiflex | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 18068 | Parocetan | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 17065 | Paroxetin HEXAL | Filmdragerad tablett | Hexal A/S | Godkänd |
+
+Tabellen visar 5 av 8 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 De tre återstående är Paroxetin Teva (63831 och 63830) samt Paroxetin Hexal (Orifarm, 56763).
 
 <!-- review:begin se-lic-20261106-paroxetine-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 8 godkännanden är indragna. De tre återstående är Paroxetin Teva (63831 och 63830) samt Paroxetin Hexal (Orifarm, 56763).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 8 godkännanden är indragna. De tre återstående är Paroxetin Teva (63831 och 63830) samt Paroxetin Hexal (Orifarm, 56763).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-paroxetine-1 -->
 
@@ -115,7 +123,7 @@ Produktresumén med varningar och kontraindikationer har inte kunnat hämtas och
 
 <!-- review:begin se-lic-20261106-paroxetine-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det finns varken kliniska prövningar, litteratur eller något tydligt mekanistiskt samband, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 8; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det finns varken kliniska prövningar, litteratur eller något tydligt mekanistiskt samband, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-paroxetine-2 -->
 
@@ -134,8 +142,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga 8 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga 8 godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

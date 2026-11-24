@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "bleomycin"
 predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Bleomycin: predikterad ny indikation Caudaequinaneoplasm (cauda equina neoplasm) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
@@ -70,10 +70,16 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 9165 | Bleomycin Baxter | Pulver till injektions-/infusionsvätska, lösning | Indikationstext saknas i lokala data |
-| 52941 | Bleomycin Accord | Pulver till injektions-/infusionsvätska, lösning | Indikationstext saknas i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 9165 | Bleomycin Baxter | Pulver till injektions-/infusionsvätska, lösning | Baxter Medical AB | Godkänd |
+| 52941 | Bleomycin Accord | Pulver till injektions-/infusionsvätska, lösning | Accord Healthcare B.V. | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Båda godkännandena är giltiga.
 

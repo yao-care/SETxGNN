@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 217
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 monitor_inn: "glycine"
 predicted_indications: ["nasal cavity disease"]
 description: "Glycine: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -90,13 +90,21 @@ Glycin är en hämmande signalsubstans och beskrivs som en cellskyddande, antiin
 
 Alla 20 godkännanden är giltiga och inget har någon registrerad indikationstext. De fem första visas nedan.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Ingen indikationstext registrerad |
-| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Ingen indikationstext registrerad |
-| 10095 | Vamin 14 g N/l elektrolytfri | Infusionsvätska, lösning | Ingen indikationstext registrerad |
-| 12423 | Nutrineal PD4 1,1 % Aminosyror | Peritonealdialysvätska | Ingen indikationstext registrerad |
-| 11469 | Vaminolac | Infusionsvätska, lösning | Ingen indikationstext registrerad |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Fresenius Kabi AB | Avregistrerad |
+| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 10095 | Vamin 14 g N/l elektrolytfri | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 12423 | Nutrineal PD4 1,1 % Aminosyror | Peritonealdialysvätska | Vantive AB | Godkänd |
+| 11469 | Vaminolac | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Samtliga produkter är intravenösa eller peritonealdialysberedningar. Det finns ingen nasal beredning, vilket är relevant för en eventuell indikation i näshålan.
 

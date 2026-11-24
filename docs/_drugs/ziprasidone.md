@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 458
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ziprasidone"
 predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
 description: "Ziprasidone: predikterad ny indikation Trichotillomania (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 8 (giltiga: 7)"
@@ -103,19 +103,27 @@ Flera atypiska antipsykotika är redan godkända som tillägg till antidepressiv
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 44775 | Ziprasidon Actavis | Kapsel, hård | Ej angiven (godkänd) |
-| 44774 | Ziprasidon Actavis | Kapsel, hård | Ej angiven (godkänd) |
-| 63376 | Ziprasidon Abacus Medicine | Kapsel, hård | Ej angiven (godkänd) |
-| 44777 | Ziprasidon Actavis | Kapsel, hård | Ej angiven (godkänd) |
-| 44776 | Ziprasidon Actavis | Kapsel, hård | Ej angiven (godkänd) |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 44775 | Ziprasidon Actavis | Kapsel, hård | Actavis Group PTC ehf. | Godkänd |
+| 44774 | Ziprasidon Actavis | Kapsel, hård | Actavis Group PTC ehf. | Godkänd |
+| 63376 | Ziprasidon Abacus Medicine | Kapsel, hård | Abacus Medicine A/S | Godkänd |
+| 44777 | Ziprasidon Actavis | Kapsel, hård | Actavis Group PTC ehf. | Godkänd |
+| 44776 | Ziprasidon Actavis | Kapsel, hård | Actavis Group PTC ehf. | Godkänd |
+
+Tabellen visar 5 av 8 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Utöver ovan ingår Ziprasidon Ebb (61783, 61782) och Ziprasidon 2care4 (62120).
 
 <!-- review:begin se-lic-20261106-ziprasidone-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Totalt 8 godkännanden, samtliga avregistrerade. Utöver ovan ingår Ziprasidon Ebb (61783, 61782) och Ziprasidon 2care4 (62120).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 8, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Totalt 8 godkännanden, samtliga avregistrerade. Utöver ovan ingår Ziprasidon Ebb (61783, 61782) och Ziprasidon 2care4 (62120).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-ziprasidone-1 -->
 
@@ -152,7 +160,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Totalt 8 godkännanden, samtliga avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Totalt 8 godkännanden, samtliga avregistrerade” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Ziprasidone Mesylate 20 Mg/Ml (ziprasidone mesylate) prescribing information, Armas Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c5c27f0f-4e45-4bca-bb9a-2d3f1c243348) |
 
 <!-- review:end log -->

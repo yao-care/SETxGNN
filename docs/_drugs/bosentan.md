@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "bosentan"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Bosentan: predikterad ny indikation Reumatoid artrit (rheumatoid arthritis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 9 (giltiga: 9)"
 ---
 
@@ -93,13 +93,21 @@ Ingen av publikationerna studerar bosentan som behandling av reumatoid artrit ho
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 50237 | Bosentan Accord | Filmdragerad tablett | Ej angiven i lokala data |
-| 52624 | Bosentan Sandoz | Filmdragerad tablett | Ej angiven i lokala data |
-| 64925 | Bosentan Zentiva | Filmdragerad tablett | Ej angiven i lokala data |
-| 65797 | Bosentan Accord | Dispergerbar tablett | Ej angiven i lokala data |
-| 61664 | Bosentan Aurobindo | Filmdragerad tablett | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 50237 | Bosentan Accord | Filmdragerad tablett | Accord Healthcare B.V. | Godkänd |
+| 52624 | Bosentan Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 64925 | Bosentan Zentiva | Filmdragerad tablett | Zentiva k.s. | Godkänd |
+| 65797 | Bosentan Accord | Dispergerbar tablett | Accord Healthcare B.V. | Godkänd |
+| 61664 | Bosentan Aurobindo | Filmdragerad tablett | 2care4 ApS | Godkänd |
+
+Tabellen visar 5 av 9 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

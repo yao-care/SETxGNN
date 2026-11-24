@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "methionine"
 predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "tetanic cataract", "immature cataract", "diabetic cataract"]
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 description: "Methionine: predikterad ny indikation Akne (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext angiven i de svenska godkännandena i underlaget"
 ---
 
@@ -87,13 +87,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Produkterna nedan innehåller metionin som en av flera komponenter i aminosyra- eller näringslösningar. De beskriver inte hur metionin som enskild substans är godkänt. Listan visar fem av minst 20 godkännanden och kan vara ofullständig. Indikationstext saknas i det insamlade underlaget.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 12526 | Glavamin | Infusionsvätska, lösning | Ej angiven i underlaget |
-| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Ej angiven i underlaget |
-| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Ej angiven i underlaget |
-| 10095 | Vamin 14 g N/l elektrolytfri | Infusionsvätska, lösning | Ej angiven i underlaget |
-| 12423 | Nutrineal PD4 1,1 % Aminosyror | Peritonealdialysvätska | Ej angiven i underlaget |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 12526 | Glavamin | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Fresenius Kabi AB | Avregistrerad |
+| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 10095 | Vamin 14 g N/l elektrolytfri | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 12423 | Nutrineal PD4 1,1 % Aminosyror | Peritonealdialysvätska | Vantive AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "capecitabine"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Capecitabine: predikterad ny indikation Gastriskt adenokarcinom och proximal polypos i magsäcken (gastric adenocarcinoma and proximal polyposis of the stomach) (evidensnivå L5). Ursprunglig indikatio…"
 ---
 
@@ -84,13 +84,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Kapecitabin är på marknaden i Sverige, och alla 7 godkännanden är giltiga. Samtliga är enkomponentsprodukter i oral beredningsform (filmdragerad tablett). Någon indikationstext finns inte registrerad i de lokala uppgifterna.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
-|---------|------|------|-----------|
-| 57264 | Capecitabine Zentiva | Filmdragerad tablett | Zentiva k.s. |
-| 57265 | Capecitabine Zentiva | Filmdragerad tablett | Zentiva k.s. |
-| 49200 | Capecitabine Orion | Filmdragerad tablett | Orion Corporation |
-| 45915 | Capecitabin STADA | Filmdragerad tablett | STADA Arzneimittel AG |
-| 45916 | Capecitabin STADA | Filmdragerad tablett | STADA Arzneimittel AG |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 57264 | Capecitabine Zentiva | Filmdragerad tablett | Zentiva k.s. | Godkänd |
+| 57265 | Capecitabine Zentiva | Filmdragerad tablett | Zentiva k.s. | Godkänd |
+| 49200 | Capecitabine Orion | Filmdragerad tablett | Orion Corporation | Godkänd |
+| 45915 | Capecitabin STADA | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 45916 | Capecitabin STADA | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+
+Tabellen visar 5 av 7 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

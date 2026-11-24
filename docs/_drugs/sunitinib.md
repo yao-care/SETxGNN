@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 407
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "SUNITINIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
 description: "Sunitinib: predikterad ny indikation Liposarkom (liposarcoma) (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 19 (giltiga: 16)"
@@ -96,13 +96,21 @@ Tre ytterligare publikationer gäller närliggande tumörtyper eller andra läke
 
 De fem första som visas nedan är alla hårda kapslar. Någon godkänd indikationstext finns inte i underlaget.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 57297 | Sunitinib Sandoz | Kapsel, hård | Ej angiven |
-| 60355 | Sunitinib Glenmark | Kapsel, hård | Ej angiven |
-| 55148 | Sunitinib Teva | Kapsel, hård | Ej angiven |
-| 59887 | Sunitinib Zentiva | Kapsel, hård | Ej angiven |
-| 63071 | Sunitinib Bluefish | Kapsel, hård | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 57297 | Sunitinib Sandoz | Kapsel, hård | Sandoz A/S | Godkänd |
+| 60355 | Sunitinib Glenmark | Kapsel, hård | Glenmark Arzneimittel GmbH | Godkänd |
+| 55148 | Sunitinib Teva | Kapsel, hård | Teva B.V. | Godkänd |
+| 59887 | Sunitinib Zentiva | Kapsel, hård | Zentiva k.s. | Avregistrerad |
+| 63071 | Sunitinib Bluefish | Kapsel, hård | Bluefish Pharmaceuticals AB | Godkänd |
+
+Tabellen visar 5 av 19 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

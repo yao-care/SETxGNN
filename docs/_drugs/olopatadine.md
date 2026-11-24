@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 326
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "olopatadine"
 predicted_indications: ["rosacea conjunctivitis"]
 description: "Olopatadine: predikterad ny indikation Rosacea conjunctivitis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 7)"
@@ -70,13 +70,21 @@ Det är viktigt att poängen på 0,9941 är en beräkningsbaserad förutsägelse
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 60998 | Olopatadin Orifarm | Ögondroppar, lösning | Ej angiven |
-| 63344 | Olopatadine Misom | Ögondroppar, lösning | Ej angiven |
-| 58776 | Toredin | Ögondroppar, lösning | Ej angiven |
-| 64821 | Optamont | Ögondroppar, lösning | Ej angiven |
-| 60226 | Ryaltris | Nässpray, suspension | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 60998 | Olopatadin Orifarm | Ögondroppar, lösning | Orifarm Generics A/S | Godkänd |
+| 63344 | Olopatadine Misom | Ögondroppar, lösning | Misom Labs Ltd. | Godkänd |
+| 58776 | Toredin | Ögondroppar, lösning | 2care4 Generics ApS | Godkänd |
+| 64821 | Optamont | Ögondroppar, lösning | Blumont Ofta Trading Ltd | Godkänd |
+| 60226 | Ryaltris | Nässpray, suspension | Glenmark Pharmaceuticals s.r.o. | Godkänd |
+
+Tabellen visar 5 av 7 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Samtliga sju godkännanden är giltiga; två till (65953 och 68475) finns utöver de fem som visas ovan. Läkemedlet är marknadsfört.
 
@@ -100,7 +108,7 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 
 <!-- review:begin se-lic-20261106-olopatadine-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen stöds enbart av en modellberäkning (evidensnivå L5), utan kliniska prövningar eller publikationer. Dessutom är alla svenska godkännanden indragna och säkerhetsunderlaget från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen stöds enbart av en modellberäkning (evidensnivå L5), utan kliniska prövningar eller publikationer. Dessutom är alla svenska godkännanden indragna och säkerhetsunderlaget från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-olopatadine-1 -->
 
@@ -113,7 +121,7 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 
 <!-- review:begin se-lic-20261106-olopatadine-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Utreda om en tillgänglig ögonberedning finns, eftersom alla svenska godkännanden är indragna och administrationsvägens förenlighet inte är bedömd.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Utreda om en tillgänglig ögonberedning finns, eftersom alla svenska godkännanden är indragna och administrationsvägens förenlighet inte är bedömd.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-olopatadine-2 -->
 
@@ -125,8 +133,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna och säkerhetsunderlaget från produktresumén saknas” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna och administrationsvägens förenlighet inte är bedömd” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna och säkerhetsunderlaget från produktresumén saknas” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna och administrationsvägens förenlighet inte är bedömd” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

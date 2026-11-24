@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 182
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "etoposide"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
 description: "Etoposide: predikterad ny indikation Well-differentiated fetal adenocarcinoma of the lung (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 10 (giltiga: 10)"
@@ -86,13 +86,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Indikationstext finns inte angiven för något av dem. Nedan visas fem av godkännandena.
 
-| Godkännandenummer | Produktnamn | Beredningsform |
-|---------|------|------|
-| 47081 | Etoposid Fresenius Kabi | Koncentrat till infusionsvätska, lösning |
-| 20488 | Etoposid Ebewe | Koncentrat till infusionsvätska, lösning |
-| 11951 | Eposin | Koncentrat till infusionsvätska, lösning |
-| 63108 | Vepesid | Kapsel, mjuk |
-| 55869 | Vepesid | Kapsel, mjuk |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 47081 | Etoposid Fresenius Kabi | Koncentrat till infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 20488 | Etoposid Ebewe | Koncentrat till infusionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.Kommanditgesellschaft | Godkänd |
+| 11951 | Eposin | Koncentrat till infusionsvätska, lösning | Teva Sweden AB | Godkänd |
+| 63108 | Vepesid | Kapsel, mjuk | Medartuum AB | Godkänd |
+| 55869 | Vepesid | Kapsel, mjuk | Orifarm AB | Godkänd |
+
+Tabellen visar 5 av 10 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

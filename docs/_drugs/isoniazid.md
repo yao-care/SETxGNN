@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 237
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "ISONIAZID"
 predicted_indications: ["conjunctivitis"]
 description: "Isoniazid: predikterad ny indikation Konjunktivit (conjunctivitis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
@@ -87,18 +87,18 @@ Flera av de hittade artiklarna gäller biverkningar eller BCG-relaterad artrit o
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 7564 | Tibinide (Viatris AB) | Tablett | Indikationstext saknas |
-| 16688 | Rimactazid (Sandoz A/S) | Filmdragerad tablett | Indikationstext saknas |
-| 16663 | Rimcure (Sandoz A/S) | Filmdragerad tablett | Indikationstext saknas |
-| 16899 | Rimstar (Sandoz A/S) | Filmdragerad tablett | Indikationstext saknas |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-isoniazid-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 7564 | Tibinide | Tablett | Viatris AB | Godkänd |
+| 16688 | Rimactazid | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 16663 | Rimcure | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 16899 | Rimstar | Filmdragerad tablett | Sandoz A/S | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”7564 / Tibinide (Viatris AB) / Tablett / Indikationstext saknas (indraget); 16688 / Rimactazid (Sandoz A/S) / Filmdragerad tablett / Indikationstext saknas (indraget); 16663 / Rimcure (Sandoz A/S) / Filmdragerad tablett / Indikationstext saknas (indraget); 16899 / Rimstar (Sandoz A/S) / Filmdragerad tablett / Indikationstext saknas (indraget)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 7564, 16688, 16663, 16899 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-isoniazid-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -128,7 +128,7 @@ Varningar och kontraindikationer från produktresumén saknas i underlaget. Se p
 
 <!-- review:begin se-lic-20261106-isoniazid-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det saknas kliniska prövningar, och litteraturen består av äldre fallrapporter och översikter, främst om tuberkulosrelaterad ögonsjukdom. Alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det saknas kliniska prövningar, och litteraturen består av äldre fallrapporter och översikter, främst om tuberkulosrelaterad ögonsjukdom. Alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-isoniazid-1 -->
 
@@ -146,8 +146,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 4 godkännanden (7564, 16688, 16663, 16899) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 4 godkännanden (7564, 16688, 16663, 16899) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "amantadine"
 predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Amantadine: predikterad ny indikation Rasmussens subakuta encefalit (Rasmussen subacute encephalitis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
@@ -82,10 +82,16 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 59320 | Dinetrel | Kapsel, hård | Ej angiven i lokala data |
-| 66562 | Parkadin | Kapsel, hård | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 59320 | Dinetrel | Kapsel, hård | Aspire Pharma (Malta) Limited | Godkänd |
+| 66562 | Parkadin | Kapsel, hård | Renata Pharmaceuticals (Ireland) Limited | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

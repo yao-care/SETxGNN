@@ -5,7 +5,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 350
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Pilocarpine: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
 ---
@@ -72,14 +72,20 @@ Alla kandidater som TxGNN-modellen (score ≥ 0,99) har tagit fram för Pilocarp
 
 ## Marknadsinformation Sverige
 
-| Godkännande | Produkt | Läkemedelsform | Status |
-|------|------|------|------|
-| 10171 | pilokarpinhydroklorid | Ögondroppar, lösning i endosbehållare | Giltigt |
-| 10170 | pilokarpinhydroklorid | Ögondroppar, lösning i endosbehållare | Giltigt |
-| 13407 | pilokarpinhydroklorid | Filmdragerad tablett | Giltigt |
-| 11964 | pilokarpinhydroklorid; timololmaleat | Ögondroppar, lösning i endosbehållare | Giltigt |
-| 11655 | pilokarpinhydroklorid; timololmaleat | Ögondroppar, lösning | Giltigt |
-| 11763 | pilokarpinhydroklorid; timololmaleat | Ögondroppar, lösning | Giltigt |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 10171 | Pilokarpin Karo Pharma | Ögondroppar, lösning i endosbehållare | Karo Pharma AB | Godkänd |
+| 10170 | Pilokarpin Karo Pharma | Ögondroppar, lösning i endosbehållare | Karo Pharma AB | Godkänd |
+| 13407 | Salagen | Filmdragerad tablett | Merus Labs Luxco II S.à R.L. | Godkänd |
+| 11964 | Fotil forte | Ögondroppar, lösning i endosbehållare | Santen Oy | Godkänd |
+| 11655 | Fotil | Ögondroppar, lösning | Santen Oy | Godkänd |
+| 11763 | Fotil forte | Ögondroppar, lösning | Santen Oy | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ## Ansvarsfriskrivning
 

@@ -80,13 +80,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform |
-|---------|------|------|
-| 23473 | Oralin | Filmdragerad tablett |
-| 21157 | Sertralin Hexal | Filmdragerad tablett |
-| 64809 | Sertraline Medical Valley | Filmdragerad tablett |
-| 15504 | Zoloft | Koncentrat till oral lösning |
-| 21214 | Sertralet | Filmdragerad tablett |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 23473 | Oralin | Filmdragerad tablett | Orion Corporation | Godkänd |
+| 21157 | Sertralin Hexal | Filmdragerad tablett | Hexal A/S | Godkänd |
+| 64809 | Sertraline Medical Valley | Filmdragerad tablett | Medical Valley Invest AB | Godkänd |
+| 15504 | Zoloft | Koncentrat till oral lösning | Upjohn EESV | Godkänd |
+| 21214 | Sertralet | Filmdragerad tablett | Teva B.V. | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Minst 20 godkännanden finns registrerade och samtliga är giltiga. Listan kan vara ofullständig.
 

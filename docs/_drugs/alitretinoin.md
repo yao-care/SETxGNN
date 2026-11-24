@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ALITRETINOIN"
 predicted_indications: ["amenorrhea (disease)", "acne (disease)", "atypical coarctation of aorta", "pregnancy associated osteoporosis", "aortic malformation", "postmenopausal osteoporosis", "autosomal dominant neovascular inflammatory vitreoretinopathy", "breast fibrocystic disease", "benign mammary dysplasia", "Worth syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Alitretinoin: predikterad ny indikation Amenorré (amenorrhea (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 11 (giltiga: 11)"
 ---
 
@@ -80,15 +80,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 68236 | Alitretinoin 2care4 | Kapsel, mjuk | Indikationstext inte registrerad i lokala data |
-| 66626 | Alitretinoin 2care4 | Kapsel, mjuk | Indikationstext inte registrerad i lokala data |
-| 68237 | Alitretinoin 2care4 | Kapsel, mjuk | Indikationstext inte registrerad i lokala data |
-| 68239 | Alitretinoin 2care4 | Kapsel, mjuk | Indikationstext inte registrerad i lokala data |
-| 63548 | Alitretinoin 2care4 | Kapsel, mjuk | Indikationstext inte registrerad i lokala data |
+<!-- licenses:begin -->
 
-Listan visar de fem första av totalt 11 godkännanden.
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 68236 | Alitretinoin 2care4 | Kapsel, mjuk | 2care4 ApS | Godkänd |
+| 66626 | Alitretinoin 2care4 | Kapsel, mjuk | 2care4 ApS | Godkänd |
+| 68237 | Alitretinoin 2care4 | Kapsel, mjuk | 2care4 ApS | Godkänd |
+| 68239 | Alitretinoin 2care4 | Kapsel, mjuk | 2care4 ApS | Godkänd |
+| 63548 | Alitretinoin 2care4 | Kapsel, mjuk | 2care4 ApS | Godkänd |
+
+Tabellen visar 5 av 11 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

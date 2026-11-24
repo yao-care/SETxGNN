@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "dexpanthenol"
 predicted_indications: ["anorectal stricture", "imperforate anus", "anal polyp", "vulvar inverted follicular keratosis", "proctitis", "exanthem (disease)", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Dexpanthenol: predikterad ny indikation Anorektal striktur (anorectal stricture) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
@@ -70,10 +70,16 @@ Förutsägelsen bör därför betraktas som en hypotes. Den ska prövas i prekli
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 17364 | Cernevit | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
-| 56261 | Viant | Pulver till infusionsvätska, lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 17364 | Cernevit | Pulver till injektions-/infusionsvätska, lösning | Baxter Medical AB | Godkänd |
+| 56261 | Viant | Pulver till infusionsvätska, lösning | B. Braun Melsungen AG | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 37
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 monitor_inn: "APIXABAN"
 predicted_indications: ["migraine disorder"]
 description: "Apixaban: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -90,13 +90,21 @@ De tillgängliga fallrapporterna pekar i olika riktningar eller mot förvärring
 
 Apixaban har minst 20 registrerade godkännanden i Sverige (listan kan vara ofullständig), varav 18 giltiga och 2 avregistrerade. Nedan visas ett urval av de huvudsakliga godkännandena. Indikationstext finns inte registrerad i de lokala uppgifterna.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 64399 | Apixaban Cipla | Filmdragerad tablett | Uppgift saknas |
-| 65249 | Apixaban Viatris Pharma | Filmdragerad tablett | Uppgift saknas |
-| 60455 | Apixaban Viatris | Filmdragerad tablett | Uppgift saknas |
-| 63832 | Apixaban Zentiva | Filmdragerad tablett | Uppgift saknas |
-| 63542 | Apixaban Teva GmbH | Filmdragerad tablett | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 64399 | Apixaban Cipla | Filmdragerad tablett | Cipla Europe NV | Godkänd |
+| 65249 | Apixaban Viatris Pharma | Filmdragerad tablett | Viatris Limited | Godkänd |
+| 60455 | Apixaban Viatris | Filmdragerad tablett | Viatris Limited | Godkänd |
+| 63832 | Apixaban Zentiva | Filmdragerad tablett | Zentiva k.s. | Godkänd |
+| 63542 | Apixaban Teva GmbH | Filmdragerad tablett | TEVA GmbH | Avregistrerad |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

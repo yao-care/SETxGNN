@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 343
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "perampanel"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Perampanel: predikterad ny indikation Beta-ketothiolase deficiency (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
@@ -91,25 +91,27 @@ Tabellen visar ett urval av de mest relevanta publikationerna bland de 19 som h�
 
 Indikationstext saknas i godkännandedata.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 65958 | Perampanel Vivanta | Filmdragerad tablett | Godkänd |
-| 65957 | Perampanel Vivanta | Filmdragerad tablett | Godkänd |
-| 65955 | Perampanel Vivanta | Filmdragerad tablett | Godkänd |
-| 65954 | Perampanel Vivanta | Filmdragerad tablett | Godkänd |
-| 65959 | Perampanel Vivanta | Filmdragerad tablett | Godkänd |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-perampanel-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 65958 | Perampanel Vivanta | Filmdragerad tablett | Vivanta Generics s.r.o. | Godkänd |
+| 65957 | Perampanel Vivanta | Filmdragerad tablett | Vivanta Generics s.r.o. | Godkänd |
+| 65955 | Perampanel Vivanta | Filmdragerad tablett | Vivanta Generics s.r.o. | Godkänd |
+| 65954 | Perampanel Vivanta | Filmdragerad tablett | Vivanta Generics s.r.o. | Godkänd |
+| 65959 | Perampanel Vivanta | Filmdragerad tablett | Vivanta Generics s.r.o. | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”65958 / Perampanel Vivanta / Filmdragerad tablett / Indragen; 65957 / Perampanel Vivanta / Filmdragerad tablett / Indragen; 65955 / Perampanel Vivanta / Filmdragerad tablett / Indragen; 65954 / Perampanel Vivanta / Filmdragerad tablett / Indragen; 65959 / Perampanel Vivanta / Filmdragerad tablett / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 65958, 65957, 65955, 65954, 65959 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
 
-<!-- review:end se-row-20261112-perampanel-1 -->
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Tillverkare: Vivanta Generics s.r.o.
 
 <!-- review:begin se-lic-20261106-perampanel-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Tillverkare: Vivanta Generics s.r.o. Ytterligare ett godkännande (65956) är också indraget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Tillverkare: Vivanta Generics s.r.o. Ytterligare ett godkännande (65956) är också indraget.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-perampanel-1 -->
 
@@ -173,7 +175,7 @@ Mekanistiskt är stödet starkast här: vid långvarig status epilepticus tas GA
 
 <!-- review:begin se-lic-20261106-perampanel-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargörande av vilket godkänt perampanelläkemedel som finns tillgängligt i Sverige, eftersom alla nuvarande godkännanden för denna produkt är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargörande av vilket godkänt perampanelläkemedel som finns tillgängligt i Sverige, eftersom alla nuvarande godkännanden för denna produkt är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-perampanel-2 -->
 
@@ -185,9 +187,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Ytterligare ett godkännande (65956) är också indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”eftersom alla nuvarande godkännanden för denna produkt är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 5 godkännanden (65958, 65957, 65955, 65954, 65959) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Ytterligare ett godkännande (65956) är också indraget” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom alla nuvarande godkännanden för denna produkt är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (65958, 65957, 65955, 65954, 65959) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

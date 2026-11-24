@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 194
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "FENTANYL"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
 description: "Fentanyl: predikterad ny indikation Nephrogenic syndrome of inappropriate antidiuresis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -74,19 +74,21 @@ Det finns ett svagt och indirekt rationale, eftersom det endogena opioidsystemet
 
 Samtliga är depotplåster. Indikationstexter saknas i underlaget.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
-|---------|------|------|------|------|
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
 | 25590 | Fentanyl Sandoz | Depotplåster | Sandoz A/S | Godkänd |
 | 23434 | Fentanyl Actavis | Depotplåster | Actavis Group PTC ehf. | Godkänd |
 | 23382 | Quatrofen | Depotplåster | Istituto Gentili S.r.l. | Godkänd |
 | 21289 | Matrifen | Depotplåster | Istituto Gentili S.r.l. | Godkänd |
 | 12484 | Durogesic | Depotplåster | Janssen-Cilag AB | Avregistrerad |
 
-<!-- review:begin se-row-20261112-fentanyl-1 -->
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”25590 / Fentanyl Sandoz / Depotplåster / Sandoz A/S / Indraget; 23434 / Fentanyl Actavis / Depotplåster / Actavis Group PTC ehf. / Indraget; 23382 / Quatrofen / Depotplåster / Istituto Gentili S.r.l. / Indraget; 21289 / Matrifen / Depotplåster / Istituto Gentili S.r.l. / Indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 25590, 23434, 23382, 21289 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-fentanyl-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -134,7 +136,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 4 godkännanden (25590, 23434, 23382, 21289) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-12 | Tabell: 4 godkännanden (25590, 23434, 23382, 21289) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

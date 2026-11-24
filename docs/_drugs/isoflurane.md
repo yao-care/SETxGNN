@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 235
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Isoflurane: predikterad ny indikation Prinzmetal angina (evidensnivå L5). Ursprunglig indikation: Ingen indikationstext registrerad i godkännandedata (isofluran är ett…"
 monitor_inn: "isoflurane"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "manic bipolar affective disorder", "trichotillomania", "dysthymic disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
@@ -82,22 +82,22 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare | Status |
-|---------|------|------|------|------|
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
 | 61474 | Sedaconda | Inhalationsånga, vätska | Sedana Medical AB | Godkänd |
 | 12337 | Isofluran Baxter | Inhalationsånga, vätska | Baxter Medical AB | Godkänd |
 
-<!-- review:begin se-row-20261112-isoflurane-1 -->
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”61474 / Sedaconda / Inhalationsånga, vätska / Sedana Medical AB / Indraget; 12337 / Isofluran Baxter / Inhalationsånga, vätska / Baxter Medical AB / Indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 61474, 12337 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
-
-<!-- review:end se-row-20261112-isoflurane-1 -->
+<!-- licenses:end -->
 
 Ingen godkänd indikationstext finns registrerad.
 
 <!-- review:begin se-lic-20261106-isoflurane-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Inget av godkännandena är för närvarande giltigt, och ingen godkänd indikationstext finns registrerad.” Borttaget: antalet eller statusen för godkännandena stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Inget av godkännandena är för närvarande giltigt, och ingen godkänd indikationstext finns registrerad.” Borttaget: antalet eller statusen för godkännandena stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-isoflurane-1 -->
 
@@ -131,7 +131,7 @@ Ingen godkänd indikationstext finns registrerad.
 
 <!-- review:begin se-lic-20261106-isoflurane-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Isoflurans godkännanden i Sverige är dessutom alla indragna, och de säkerhetsuppgifter som finns tyder på försiktighet vid hjärt-kärlpåverkan (till exempel hypotoni).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 2, varav giltiga: 2; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Isoflurans godkännanden i Sverige är dessutom alla indragna, och de säkerhetsuppgifter som finns tyder på försiktighet vid hjärt-kärlpåverkan (till exempel hypotoni).” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-isoflurane-2 -->
 
@@ -150,9 +150,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”nget av godkännandena är för närvarande giltigt, och i” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Isoflurans godkännanden i Sverige är dessutom alla indragna, och d” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 2 godkännanden (61474, 12337) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”nget av godkännandena är för närvarande giltigt, och i” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Isoflurans godkännanden i Sverige är dessutom alla indragna, och d” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 2 godkännanden (61474, 12337) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

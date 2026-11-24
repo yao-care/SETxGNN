@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 446
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 monitor_inn: "VALSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
 description: "Valsartan: predikterad ny indikation Malign hypertensiv njursjukdom (malignant hypertensive renal disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -86,13 +86,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Enligt de sammanställda uppgifterna är läkemedlet på marknaden i Sverige. Listan nedan kan vara ofullständig.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 42444 | Vivendal | Filmdragerad tablett | – |
-| 20465 | Angiosan | Filmdragerad tablett | – |
-| 17494 | Diovan | Filmdragerad tablett | – |
-| 42445 | Vivendal | Filmdragerad tablett | – |
-| 42438 | Valsartan Sandoz | Filmdragerad tablett | – |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 42444 | Vivendal | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 20465 | Angiosan | Filmdragerad tablett | Novartis Sverige AB | Godkänd |
+| 17494 | Diovan | Filmdragerad tablett | Novartis Sverige AB | Godkänd |
+| 42445 | Vivendal | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 42438 | Valsartan Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

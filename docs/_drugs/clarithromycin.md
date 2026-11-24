@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "clarithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Clarithromycin: predikterad ny indikation Polyklonalt hyperviskositetssyndrom (polyclonal hyperviscosity syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 10 (giltiga: 10)"
 ---
 
@@ -80,13 +80,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 11372 | Klacid | Tablett | Ej angiven i lokala data |
-| 58271 | Klaritromycin Ebb | Filmdragerad tablett | Ej angiven i lokala data |
-| 57671 | Clarithromycin Aurobindo | Filmdragerad tablett | Ej angiven i lokala data |
-| 62615 | Klaritromycin Abacus Medicine | Filmdragerad tablett | Ej angiven i lokala data |
-| 12164 | Klacid | Tablett | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 11372 | Klacid | Tablett | Viatris AB | Godkänd |
+| 58271 | Klaritromycin Ebb | Filmdragerad tablett | Ebb Medical AB | Godkänd |
+| 57671 | Clarithromycin Aurobindo | Filmdragerad tablett | 2care4 ApS | Godkänd |
+| 62615 | Klaritromycin Abacus Medicine | Filmdragerad tablett | Abacus Medicine A/S | Godkänd |
+| 12164 | Klacid | Tablett | Viatris AB | Godkänd |
+
+Tabellen visar 5 av 10 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Fler godkännanden finns i de lokala uppgifterna (totalt 10 enkomponentsprodukter, samtliga orala beredningar).
 

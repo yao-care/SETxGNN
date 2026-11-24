@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 146
 evidence_level: L2
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DOCETAXEL"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
 description: "Docetaxel: predikterad ny indikation Ewing-sarkom (Ewing sarcoma) (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
@@ -102,11 +102,17 @@ Enbart docetaxel verkar ha begränsad effekt, så nyttan är sannolikt beroende 
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 44259 | Docetaxel Seacross | Koncentrat till infusionsvätska, lösning | Uppgift saknas |
-| 42748 | Docetaxel Actavis | Koncentrat till infusionsvätska, lösning | Uppgift saknas |
-| 28094 | Docetaxel Ebewe | Koncentrat till infusionsvätska, lösning | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 44259 | Docetaxel Seacross | Koncentrat till infusionsvätska, lösning | Seacross Pharma (Europe) Limited | Godkänd |
+| 42748 | Docetaxel Actavis | Koncentrat till infusionsvätska, lösning | Actavis Group PTC ehf. | Godkänd |
+| 28094 | Docetaxel Ebewe | Koncentrat till infusionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.Kommanditgesellschaft | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 293
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
 description: "Midazolam: predikterad ny indikation Sömnlöshet (insomnia (disease)) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): 17 (giltiga: 17)"
@@ -44,7 +44,7 @@ TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **sömnlöshe
 
 <!-- review:begin se-lic-20261106-midazolam-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Av dessa är endast ett fåtal direkt relevanta: framför allt äldre studier på oralt midazolam vid sömnstörningar. Samtliga 17 svenska godkännanden är avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 17, varav giltiga: 17; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Av dessa är endast ett fåtal direkt relevanta: framför allt äldre studier på oralt midazolam vid sömnstörningar. Samtliga 17 svenska godkännanden är avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-midazolam-1 -->
 
@@ -102,13 +102,21 @@ Den höga modellpoängen (0,997) är en beräkningsmässig förutsägelse och ut
 
 Indikationstexter saknas. Nedan visas de fem första.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 66748 | Midazolam Orifarm | Munhålelösning | – |
-| 59692 | Midazolam Medical Valley | Munhålelösning | – |
-| 60604 | Midazolam Kalceks | Injektions-/infusionsvätska, lösning | – |
-| 61290 | Midazolam Kalceks | Injektions-/infusionsvätska, lösning | – |
-| 59695 | Midazolam Medical Valley | Munhålelösning | – |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 66748 | Midazolam Orifarm | Munhålelösning | Orifarm AB | Godkänd |
+| 59692 | Midazolam Medical Valley | Munhålelösning | Medical Valley Invest AB | Godkänd |
+| 60604 | Midazolam Kalceks | Injektions-/infusionsvätska, lösning | AS KALCEKS | Godkänd |
+| 61290 | Midazolam Kalceks | Injektions-/infusionsvätska, lösning | AS KALCEKS | Godkänd |
+| 59695 | Midazolam Medical Valley | Munhålelösning | Medical Valley Invest AB | Godkänd |
+
+Tabellen visar 5 av 17 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -155,7 +163,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga 17 svenska godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga 17 svenska godkännanden är avregistrerade” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

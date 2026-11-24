@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 331
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
 description: "Oxcarbazepine: predikterad ny indikation Restless legs syndrome (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 11 (giltiga: 11)"
@@ -97,17 +97,25 @@ Indikationstext saknas i licensdata. Ett urval:
 
 <!-- review:begin se-lic-20261106-oxcarbazepine-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 11 godkännanden är indragna. Indikationstext saknas i licensdata.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 11, varav giltiga: 11; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga 11 godkännanden är indragna. Indikationstext saknas i licensdata.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-oxcarbazepine-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 15781 | Trileptal (Novartis Sverige AB) | Filmdragerad tablett | Ingen text tillgänglig |
-| 15782 | Trileptal (Novartis Sverige AB) | Filmdragerad tablett | Ingen text tillgänglig |
-| 15783 | Trileptal (Novartis Sverige AB) | Filmdragerad tablett | Ingen text tillgänglig |
-| 17348 | Trileptal (Novartis Sverige AB) | Oral suspension | Ingen text tillgänglig |
-| 60348 | Trileptal (2care4 ApS) | Filmdragerad tablett | Ingen text tillgänglig |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 15781 | Trileptal | Filmdragerad tablett | Novartis Sverige AB | Godkänd |
+| 15782 | Trileptal | Filmdragerad tablett | Novartis Sverige AB | Godkänd |
+| 15783 | Trileptal | Filmdragerad tablett | Novartis Sverige AB | Godkänd |
+| 17348 | Trileptal | Oral suspension | Novartis Sverige AB | Godkänd |
+| 60348 | Trileptal | Filmdragerad tablett | 2care4 ApS | Godkänd |
+
+Tabellen visar 5 av 11 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -129,7 +137,7 @@ Indikationstext saknas i licensdata. Ett urval:
 
 <!-- review:begin se-lic-20261106-oxcarbazepine-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom kan natriumkanalblockerare förvärra vissa generaliserade epilepsier. / Alla svenska godkännanden är indragna, vilket försvårar en snabb klinisk användning.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 11, varav giltiga: 11; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Dessutom kan natriumkanalblockerare förvärra vissa generaliserade epilepsier. / Alla svenska godkännanden är indragna, vilket försvårar en snabb klinisk användning.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-oxcarbazepine-2 -->
 
@@ -146,8 +154,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga 11 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, vilket försvårar en snabb klinisk användning” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga 11 godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla svenska godkännanden är indragna, vilket försvårar en snabb klinisk användning” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

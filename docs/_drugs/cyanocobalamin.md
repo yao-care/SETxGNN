@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "cyanocobalamin"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Cyanocobalamin: predikterad ny indikation Biotinmetabol sjukdom (biotin metabolic disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 13 (giltiga: 13)"
 ---
 
@@ -82,15 +82,29 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Enligt de lokala uppgifterna finns 13 godkännanden registrerade för cyanocobalamin som enskild substans. Indikationstext är inte angiven i de lokala uppgifterna. De fem första:
+Enligt de lokala uppgifterna finns godkännanden registrerade för cyanocobalamin både som enskild substans och i kombinationsprodukter med andra vitaminer (bland annat TrioBe, Beviplex Comp, Soluvit, Cernevit och Viant). Indikationstext är inte angiven i de lokala uppgifterna. De fem första:
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 53633 | Novavita | Filmdragerad tablett | Ej angiven |
-| 64641 | Betolvan | Filmdragerad tablett | Ej angiven |
-| 9992 | Betolvex | Filmdragerad tablett | Ej angiven |
-| 14650 | Betolvidon | Tablett | Ej angiven |
-| 67584 | Cyanocobalamin Farmacia | Filmdragerad tablett | Ej angiven |
+<!-- review:begin se-lic-20261124-cyanocobalamin-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Enligt de lokala uppgifterna finns 13 godkännanden registrerade för cyanocobalamin som enskild substans.” Enligt Läkemedelsverkets uppgifter är flera av godkännandena (TrioBe, Bevitrio, Beviplex Comp, Soluvit, Cernevit, Viant) kombinationsprodukter där cyanokobalamin ingår tillsammans med andra vitaminer; texten angav alla som godkännanden för enskild substans. Uppgiften om enkomponents- och kombinationsprodukter följer de verksamma ämnena i Läkemedelsverkets uppgifter; antal godkännanden och status finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (verksamma ämnen, registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124-cyanocobalamin-1 -->
+
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 53633 | Novavita | Filmdragerad tablett | Alternova A/S | Godkänd |
+| 64641 | Betolvan | Filmdragerad tablett | Evolan Pharma AB | Godkänd |
+| 9992 | Betolvex | Filmdragerad tablett | Actavis Group PTC ehf. | Godkänd |
+| 14650 | Betolvidon | Tablett | Circius Pharma AB | Godkänd |
+| 67584 | Cyanocobalamin Farmacia | Filmdragerad tablett | Farmacia Nordic AB | Godkänd |
+
+Tabellen visar 5 av 13 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Beredningsformerna omfattar orala tabletter samt pulver till infusions- eller injektionsvätska.
 
@@ -116,6 +130,19 @@ Se produktresumén för varningar och kontraindikationer, eftersom sådana uppgi
 - Tydligare mekanistisk analys av hur B12 skulle påverka biotinberoende enzymer
 - Hämtning av varningar och kontraindikationer från produktresumén
 - Bedömning av om det finns något kliniskt behov utöver befintlig biotinbehandling
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-24 | Cyanokobalamin: flera godkännanden gäller kombinationsprodukter med andra vitaminer | Rättad | [Läkemedelsverket – export av godkända läkemedel (verksamma ämnen, registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

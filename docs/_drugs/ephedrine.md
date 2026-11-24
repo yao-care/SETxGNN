@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 166
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "ephedrine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
 description: "Ephedrine: predikterad ny indikation Sjukdom i näshålan (nasal cavity disease) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 16 (giltiga: 16)"
@@ -89,17 +89,25 @@ Ingen godkänd indikationstext finns registrerad. De fem första visas nedan.
 
 <!-- review:begin se-lic-20261106-ephedrine-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 16 godkännanden är indragna. Ingen godkänd indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 16, varav giltiga: 16; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 16 godkännanden är indragna. Ingen godkänd indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-ephedrine-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 63945 | Ephedrine Kabi | Injektionsvätska, lösning | Uppgift saknas |
-| 56216 | Efedrin Unimedic | Injektionsvätska, lösning | Uppgift saknas |
-| 63279 | Efedrin Abboxia | Injektionsvätska, lösning | Uppgift saknas |
-| 63278 | Efedrin Abboxia | Injektionsvätska, lösning | Uppgift saknas |
-| 8792 | Efedrin Viatris | Injektionsvätska, lösning | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 63945 | Ephedrine Kabi | Injektionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 56216 | Efedrin Unimedic | Injektionsvätska, lösning | Unimedic Pharma AB | Godkänd |
+| 63279 | Efedrin Abboxia | Injektionsvätska, lösning | Abboxia AB | Godkänd |
+| 63278 | Efedrin Abboxia | Injektionsvätska, lösning | Abboxia AB | Godkänd |
+| 8792 | Efedrin Viatris | Injektionsvätska, lösning | Viatris Limited | Godkänd |
+
+Tabellen visar 5 av 16 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Övriga godkännanden omfattar bland annat oral lösning (Coldypect, Lepheton, Etrilect, Mollipect, Mollisupradin) och tablett (Lergigan comp.).
 
@@ -128,7 +136,7 @@ Ingen godkänd indikationstext finns registrerad. De fem första visas nedan.
 
 <!-- review:begin se-lic-20261106-ephedrine-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga svenska godkännanden är dessutom indragna, och säkerhetsunderlaget från produktresumé saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 16, varav giltiga: 16; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga svenska godkännanden är dessutom indragna, och säkerhetsunderlaget från produktresumé saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-ephedrine-2 -->
 
@@ -154,8 +162,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Alla 16 godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”amtliga svenska godkännanden är dessutom indragna, och s” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla 16 godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”amtliga svenska godkännanden är dessutom indragna, och s” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

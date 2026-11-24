@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 336
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Palonosetron: predikterad ny indikation Migrän (migraine disorder) (evidensnivå L4). Ursprunglig indikation: Ej angiven i tillgängliga data"
 monitor_inn: "palonosetron"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
@@ -82,25 +82,27 @@ En översikt från 2026 om QT-förlängning vid antiemetika ([42748473](https://
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 52912 | Palonosetron Reig Jofre | Injektionsvätska, lösning | Godkänd |
-| 52932 | Palonosetron Fresenius Kabi | Injektionsvätska, lösning | Godkänd |
-| 61378 | Palonosetron Kalceks | Injektionsvätska, lösning | Godkänd |
-| 52849 | FERANT | Injektionsvätska, lösning | Godkänd |
-| 52834 | Palonosetron STADA | Injektionsvätska, lösning | Godkänd |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-palonosetron-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 52912 | Palonosetron Reig Jofre | Injektionsvätska, lösning | Laboratorio Reig Jofre S.A. | Godkänd |
+| 52932 | Palonosetron Fresenius Kabi | Injektionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 61378 | Palonosetron Kalceks | Injektionsvätska, lösning | AS KALCEKS | Godkänd |
+| 52849 | FERANT | Injektionsvätska, lösning | Medochemie Ltd | Godkänd |
+| 52834 | Palonosetron STADA | Injektionsvätska, lösning | STADA Arzneimittel AG | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”52912 / Palonosetron Reig Jofre / Injektionsvätska, lösning / Indragen; 52932 / Palonosetron Fresenius Kabi / Injektionsvätska, lösning / Indragen; 61378 / Palonosetron Kalceks / Injektionsvätska, lösning / Indragen; 52849 / FERANT / Injektionsvätska, lösning / Indragen; 52834 / Palonosetron STADA / Injektionsvätska, lösning / Indragen” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 52912, 52932, 61378, 52849, 52834 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
 
-<!-- review:end se-row-20261112-palonosetron-1 -->
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Inga indikationstexter finns registrerade.
 
 <!-- review:begin se-lic-20261106-palonosetron-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ytterligare ett godkännande (52850, Palonosetron Macure) finns, också indraget. Inga indikationstexter finns registrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ytterligare ett godkännande (52850, Palonosetron Macure) finns, också indraget. Inga indikationstexter finns registrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-palonosetron-1 -->
 
@@ -128,7 +130,7 @@ För varningar och kontraindikationer, se produktresumén.
 
 <!-- review:begin se-lic-20261106-palonosetron-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den höga modellpoängen stöds inte av någon klinisk prövning, och den enda relevanta litteraturen visar att palonosetron kan framkalla migränliknande huvudvärk. Dessutom är alla svenska godkännanden indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Den höga modellpoängen stöds inte av någon klinisk prövning, och den enda relevanta litteraturen visar att palonosetron kan framkalla migränliknande huvudvärk. Dessutom är alla svenska godkännanden indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-palonosetron-2 -->
 
@@ -146,9 +148,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Ytterligare ett godkännande (52850, Palonosetron Macure) finns, också indraget” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 5 godkännanden (52912, 52932, 61378, 52849, 52834) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”Ytterligare ett godkännande (52850, Palonosetron Macure) finns, också indraget” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 5 godkännanden (52912, 52932, 61378, 52849, 52834) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

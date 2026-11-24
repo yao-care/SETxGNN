@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 161
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "emtricitabine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Emtricitabine: predikterad ny indikation Feline acquired immunodeficiency syndrome (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -80,13 +80,21 @@ Det är viktigt att se att detta är en veterinär indikation. Den enda publikat
 
 Indikationstext finns inte registrerad i de sammanställda uppgifterna. Nedan visas de fem första.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 66970 | Emtricitabin/Tenofovirdisoproxil 2care4 | Filmdragerad tablett | Uppgift saknas |
-| 52673 | Emtricitabine/Tenofovir disoproxil Teva | Filmdragerad tablett | Uppgift saknas |
-| 66998 | Emtricitabine/Tenofovir alafenamide Zentiva | Filmdragerad tablett | Uppgift saknas |
-| 58152 | Emtricitabine/Tenofovir disoproxil Tillomed | Filmdragerad tablett | Uppgift saknas |
-| 64731 | Emtricitabine/Tenofovir disoproxil Teva (Medartuum AB) | Filmdragerad tablett | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 66970 | Emtricitabin/Tenofovirdisoproxil 2care4 | Filmdragerad tablett | 2care4 ApS | Godkänd |
+| 52673 | Emtricitabine/Tenofovir disoproxil Teva | Filmdragerad tablett | Teva Sweden AB | Godkänd |
+| 66998 | Emtricitabine/Tenofovir alafenamide Zentiva | Filmdragerad tablett | Zentiva k.s. | Godkänd |
+| 58152 | Emtricitabine/Tenofovir disoproxil Tillomed | Filmdragerad tablett | Tillomed Pharma GmbH | Godkänd |
+| 64731 | Emtricitabine/Tenofovir disoproxil Teva | Filmdragerad tablett | Medartuum AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

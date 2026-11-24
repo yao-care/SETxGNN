@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "cefuroxime"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Cefuroxime: predikterad ny indikation Hyperamylasemi (hyperamylasemia) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 10 (giltiga: 10)"
 ---
 
@@ -80,13 +80,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Enligt de lokala data finns 10 godkännanden för enkomponentsprodukter med cefuroxim. Ingen indikationstext finns registrerad i de lokala data. De fem första visas nedan.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 25237 | Cefuroxim Navamedic | Pulver till injektions-/infusionsvätska, lösning | Ej angiven |
-| 50970 | Zinacef | Pulver till injektions-/infusionsvätska, lösning | Ej angiven |
-| 46356 | Cefuroxim MIP | Pulver till injektionsvätska, lösning | Ej angiven |
-| 46149 | Aprokam | Pulver till injektionsvätska, lösning | Ej angiven |
-| 46357 | Cefuroxim MIP | Pulver till injektions-/infusionsvätska, lösning | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 25237 | Cefuroxim Navamedic | Pulver till injektions-/infusionsvätska, lösning | Navamedic ASA | Godkänd |
+| 50970 | Zinacef | Pulver till injektions-/infusionsvätska, lösning | Sandoz A/S | Godkänd |
+| 46356 | Cefuroxim MIP | Pulver till injektionsvätska, lösning | MIP Pharma GmbH | Godkänd |
+| 46149 | Aprokam | Pulver till injektionsvätska, lösning | Laboratoires THEA | Godkänd |
+| 46357 | Cefuroxim MIP | Pulver till injektions-/infusionsvätska, lösning | MIP Pharma GmbH | Godkänd |
+
+Tabellen visar 5 av 10 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

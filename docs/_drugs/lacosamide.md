@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 248
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "lacosamide"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
 description: "Lacosamide: predikterad ny indikation Manisk bipolär sjukdom (manic bipolar affective disorder) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -98,13 +98,21 @@ Godkänd indikationstext saknas i underlaget. Fem av godkännandena:
 
 <!-- review:end se-lic-20261106-lacosamide-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform |
-|---------|------|------|
-| 55355 | Lacosamide 1A Farma | Filmdragerad tablett |
-| 55387 | Lacosamide G.L. | Filmdragerad tablett |
-| 65790 | Lacosamide Grindeks | Filmdragerad tablett |
-| 55345 | Lacosamide Teva | Filmdragerad tablett |
-| 66756 | Lacosamide Tillomed | Infusionsvätska, lösning |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 55355 | Lacosamide 1A Farma | Filmdragerad tablett | 1A Farma A/S | Godkänd |
+| 55387 | Lacosamide G.L. | Filmdragerad tablett | G.L. Pharma GmbH | Godkänd |
+| 65790 | Lacosamide Grindeks | Filmdragerad tablett | AS GRINDEKS | Godkänd |
+| 55345 | Lacosamide Teva | Filmdragerad tablett | Teva Sweden AB | Godkänd |
+| 66756 | Lacosamide Tillomed | Infusionsvätska, lösning | Tillomed Malta Limited | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Beredningsformerna som förekommer bland godkännandena är tablett, infusionsvätska och sirap.
 

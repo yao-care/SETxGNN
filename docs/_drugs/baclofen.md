@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 51
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Baclofen: predikterad ny indikation Attention deficit-hyperactivity disorder (ADHD) (evidensnivå L5). Ursprunglig indikation: Ej angiven i godkännandedata (litteraturen beskriver användning vid s…"
 monitor_inn: "baclofen"
 predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]
@@ -88,13 +88,21 @@ Den tillgängliga litteraturen stöder den inte direkt. De flesta artiklarna han
 
 Läkemedlet är marknadsfört och 20 godkännanden är giltiga. Indikationstext finns inte angiven i godkännandedata. De fem första godkännandena:
 
-| Godkännandenummer | Produktnamn | Beredningsform |
-|---------|------|------|
-| 63754 | Baclofen Accord | Injektionsvätska, lösning |
-| 50960 | Gablofen | Injektions-/infusionsvätska, lösning |
-| 52718 | Lionova | Injektions-/infusionsvätska, lösning |
-| 56178 | Baclofen Sintetica | Infusionsvätska, lösning |
-| 45044 | Baklofen Alternova | Tablett |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 63754 | Baclofen Accord | Injektionsvätska, lösning | Accord Healthcare B.V. | Godkänd |
+| 50960 | Gablofen | Injektions-/infusionsvätska, lösning | Piramal Critical Care B.V. | Godkänd |
+| 52718 | Lionova | Injektions-/infusionsvätska, lösning | Alternova A/S | Godkänd |
+| 56178 | Baclofen Sintetica | Infusionsvätska, lösning | Sintetica GmbH | Godkänd |
+| 45044 | Baklofen Alternova | Tablett | Alternova A/S | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Övriga godkännanden omfattar bland annat Lioresal, Baklofen Ebb, Baklofen Viatris och Baclofen Medical Valley, både som tabletter och som injektions- eller infusionsvätska.
 

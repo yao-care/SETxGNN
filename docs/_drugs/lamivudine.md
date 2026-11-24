@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 250
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "lamivudine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
 description: "Lamivudine: predikterad ny indikation Simian immunbristvirusinfektion (simian immunodeficiency virus infection) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
@@ -89,13 +89,21 @@ Det är viktigt att se begränsningen: SIV är en djurmodell för en redan godk�
 
 Någon godkänd indikationstext finns inte angiven i de data som sammanställts för rapporten.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 52395 | Abacavir/Lamivudine Sandoz | Filmdragerad tablett | Ej angiven |
-| 57373 | Abacavir/Lamivudine Medical Valley | Filmdragerad tablett | Ej angiven |
-| 53621 | Abacavir/Lamivudine STADA | Filmdragerad tablett | Ej angiven |
-| 52918 | Abacavir/Lamivudine Accord | Filmdragerad tablett | Ej angiven |
-| 54265 | Abakavir/Lamivudin Mylan Pharma | Filmdragerad tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 52395 | Abacavir/Lamivudine Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 57373 | Abacavir/Lamivudine Medical Valley | Filmdragerad tablett | Medical Valley Invest AB | Godkänd |
+| 53621 | Abacavir/Lamivudine STADA | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 52918 | Abacavir/Lamivudine Accord | Filmdragerad tablett | Accord Healthcare B.V. | Godkänd |
+| 54265 | Abakavir/Lamivudin Mylan Pharma | Filmdragerad tablett | Mylan AB | Godkänd |
+
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

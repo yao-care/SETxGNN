@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 411
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Tapentadol: predikterad ny indikation Migränsjukdom (migraine disorder) (evidensnivå L5). Ursprunglig indikation: Ej angiven i de sammanställda data (indikationstexten saknas för alla…"
 monitor_inn: "tapentadol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
@@ -97,13 +97,21 @@ Indikationstext saknas i registret. De fem första visas här:
 
 <!-- review:end se-lic-20261106-tapentadol-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 61813 | Tapentadol Depot STADA | Depottablett | Ej angiven |
-| 61815 | Tapentadol Depot STADA | Depottablett | Ej angiven |
-| 65224 | Tapentadol Depot Zentiva | Depottablett | Ej angiven |
-| 42621 | Palexia | Filmdragerad tablett | Ej angiven |
-| 65225 | Tapentadol Depot Zentiva | Depottablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 61813 | Tapentadol Depot STADA | Depottablett | STADA Arzneimittel AG | Godkänd |
+| 61815 | Tapentadol Depot STADA | Depottablett | STADA Arzneimittel AG | Godkänd |
+| 65224 | Tapentadol Depot Zentiva | Depottablett | Zentiva k.s. | Godkänd |
+| 42621 | Palexia | Filmdragerad tablett | Grnenthal GmbH | Godkänd |
+| 65225 | Tapentadol Depot Zentiva | Depottablett | Zentiva k.s. | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Övriga godkännanden gäller bland annat Tapimio Depot (Neuraxpharm), Palexia Depot (Grünenthal) och Tapentadol Consilient Health.
 

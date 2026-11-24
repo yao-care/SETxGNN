@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 363
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "PREGABALIN"
 predicted_indications: ["tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
 description: "Pregabalin: predikterad ny indikation Tendinitis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -98,19 +98,21 @@ De fem första visas nedan.
 
 <!-- review:end se-lic-20261106-pregabalin-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 51464 | Pregabalin Krka | Kapsel, hård | Ej angiven |
-| 57195 | Pregabalin EQL Pharma | Kapsel, hård | Ej angiven |
-| 63937 | Pregabalin Teva | Kapsel, hård | Ej angiven |
-| 51454 | Pregabalin Teva | Kapsel, hård | Ej angiven |
-| 68305 | Pregabalin CNX Therapeutics | Depottablett | Ej angiven |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-pregabalin-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 51464 | Pregabalin Krka | Kapsel, hård | Krka d.d., Novo mesto | Godkänd |
+| 57195 | Pregabalin EQL Pharma | Kapsel, hård | EQL Pharma AB | Godkänd |
+| 63937 | Pregabalin Teva | Kapsel, hård | Ebb Medical AB | Godkänd |
+| 51454 | Pregabalin Teva | Kapsel, hård | Teva Sweden AB | Godkänd |
+| 68305 | Pregabalin CNX Therapeutics | Depottablett | CNX Therapeutics Ireland Ltd | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”51464 / Pregabalin Krka / Kapsel, hård / Ej angiven (indragen); 57195 / Pregabalin EQL Pharma / Kapsel, hård / Ej angiven (indragen); 63937 / Pregabalin Teva / Kapsel, hård / Ej angiven (indragen); 51454 / Pregabalin Teva / Kapsel, hård / Ej angiven (indragen); 68305 / Pregabalin CNX Therapeutics / Depottablett / Ej angiven (indragen)” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 51464, 57195, 63937, 51454, 68305 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
 
-<!-- review:end se-row-20261112-pregabalin-1 -->
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -165,7 +167,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Samtliga 20 godkännanden är indragna och inga har en registrerad indikationstext” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”Klargörande av varför alla svenska godkännanden är indragna, och om en ny godkännandeprocess skulle krävas” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 5 godkännanden (51464, 57195, 63937, 51454, 68305) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-12 | Tabell: 5 godkännanden (51464, 57195, 63937, 51454, 68305) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

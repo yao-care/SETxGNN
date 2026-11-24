@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 351
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "pimecrolimus"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
 description: "Pimecrolimus: predikterad ny indikation Seborrheic dermatitis (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
@@ -44,7 +44,7 @@ Pimecrolimus (Elidel) är en topikal kalcineurinhämmare som ursprungligen anvä
 
 <!-- review:begin se-lic-20261106-pimecrolimus-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **seborroisk dermatit**, med **1 klinisk prövning (fas 2, slutförd)** och **17 publikationer** som för närvarande stöder denna riktning, bland annat två systematiska översikter av randomiserade studier. Elidel-krämen har dock endast ett annullerat godkännande i Sverige, vilket påverkar tillgängligheten.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”TxGNN-modellen förutsäger att läkemedlet kan vara effektivt mot **seborroisk dermatit**, med **1 klinisk prövning (fas 2, slutförd)** och **17 publikationer** som för närvarande stöder denna riktning, bland annat två systematiska översikter av randomiserade studier. Elidel-krämen har dock endast ett annullerat godkännande i Sverige, vilket påverkar tillgängligheten.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-pimecrolimus-1 -->
 
@@ -101,9 +101,15 @@ Det är en fördel att pimecrolimus inte ger hudatrofi, vilket är ett problem v
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 19087 (annullerat) | Elidel (Viatris AB) | Kräm | Indikationstext saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 19087 | Elidel | Kräm | Viatris AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -125,7 +131,7 @@ Det är en fördel att pimecrolimus inte ger hudatrofi, vilket är ett problem v
 
 <!-- review:begin se-lic-20261106-pimecrolimus-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det finns en slutförd fas 2-studie och två systematiska översikter av randomiserade studier som stöder effekt vid seborroisk dermatit (evidensnivå L2). Den enda svenska licensen är dock annullerad och säkerhetsunderlaget från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det finns en slutförd fas 2-studie och två systematiska översikter av randomiserade studier som stöder effekt vid seborroisk dermatit (evidensnivå L2). Den enda svenska licensen är dock annullerad och säkerhetsunderlaget från produktresumén saknas.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-pimecrolimus-2 -->
 
@@ -144,8 +150,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Elidel-krämen har dock endast ett annullerat godkännande i Sverige, vilket påverkar tillgängligheten” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Den enda svenska licensen är dock annullerad och säkerhetsunderlaget från produktresumén saknas” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Elidel-krämen har dock endast ett annullerat godkännande i Sverige, vilket påverkar tillgängligheten” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Den enda svenska licensen är dock annullerad och säkerhetsunderlaget från produktresumén saknas” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: pimecrolimus prescribing information, Oceanside Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6601e43e-ce7d-446a-8568-8e7b24b86f06) |
 
 <!-- review:end log -->

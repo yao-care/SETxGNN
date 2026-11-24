@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 198
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 monitor_inn: "fluconazole"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 description: "Fluconazole: predikterad ny indikation Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifter…"
@@ -84,13 +84,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Indikationstext saknas för samtliga. Fem av godkännandena visas nedan.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
-|---------|------|------|-----------|
-| 63782 | Fluconazol Actavis | Kapsel, hård | Ebb Medical AB |
-| 45700 | Fluconazole Accord | Kapsel, hård | Accord Healthcare B.V. |
-| 66621 | Diflucan | Pulver till oral suspension | Ebb Medical AB |
-| 25835 | Fluconazole B. Braun | Infusionsvätska, lösning | B. Braun Melsungen AG |
-| 44946 | Fluconazol Actavis | Kapsel, hård | Actavis Group PTC ehf. |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 63782 | Fluconazol Actavis | Kapsel, hård | Ebb Medical AB | Godkänd |
+| 45700 | Fluconazole Accord | Kapsel, hård | Accord Healthcare B.V. | Godkänd |
+| 66621 | Diflucan | Pulver till oral suspension | Ebb Medical AB | Godkänd |
+| 25835 | Fluconazole B. Braun | Infusionsvätska, lösning | B. Braun Melsungen AG | Godkänd |
+| 44946 | Fluconazol Actavis | Kapsel, hård | Actavis Group PTC ehf. | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Beredningsformerna som förekommer är hårda kapslar, pulver till oral suspension och infusionsvätska. Ingen av dem är avsedd för ögonet.
 

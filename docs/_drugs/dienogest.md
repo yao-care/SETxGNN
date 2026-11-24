@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 140
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Dienogest: predikterad ny indikation Amenorré (evidensnivå L5). Ursprunglig indikation: Ej angiven i godkännandedata (i litteraturen: endometrios)"
 monitor_inn: "DIENOGEST"
 predicted_indications: ["amenorrhea (disease)", "primary ovarian failure", "breast fibrocystic disease", "isolated growth hormone deficiency", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "hypogonadotropic hypogonadism with or without anosmia", "partial trisomy/tetrasomy of the short arm of chromosome 5", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18"]
@@ -92,13 +92,21 @@ Ingen indikationstext finns registrerad. Fem av dem redovisas nedan.
 
 <!-- review:end se-lic-20261106-dienogest-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 41818 | Visanne (Bayer AB) | Tablett | Ej angiven |
-| 68654 | Visanne (Ebb Medical AB) | Tablett | Ej angiven |
-| 57388 | Endovelle (Exeltis Healthcare) | Tablett | Ej angiven |
-| 57412 | Sawis (Gedeon Richter) | Tablett | Ej angiven |
-| 65544 | Audera (Aristo Pharma) | Filmdragerad tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 41818 | Visanne | Tablett | Bayer AB | Godkänd |
+| 68654 | Visanne | Tablett | Ebb Medical AB | Godkänd |
+| 57388 | Endovelle | Tablett | Exeltis Healthcare, S.L. | Godkänd |
+| 57412 | Sawis | Tablett | Gedeon Richter Plc | Godkänd |
+| 65544 | Audera | Filmdragerad tablett | Aristo Pharma GmbH | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

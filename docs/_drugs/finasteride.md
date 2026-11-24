@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 197
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "finasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
 description: "Finasteride: predikterad ny indikation Ambras type hypertrichosis universalis congenita (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 16 (giltiga: 16)"
@@ -93,13 +93,21 @@ Samtliga artiklar är allmänna översikter eller metodbeskrivningar. Ingen av d
 
 Indikationstext finns inte angiven i de sammanställda uppgifterna. Fem av godkännandena (samtliga filmdragerade tabletter för oral användning):
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 23052 | Finpros (Krka) | Filmdragerad tablett | Godkänd |
-| 13483 | Propecia (Organon) | Filmdragerad tablett | Godkänd |
-| 21113 | Finasterid STADA | Filmdragerad tablett | Godkänd |
-| 43933 | Finasteride Accord | Filmdragerad tablett | Godkänd |
-| 26771 | Finasteride Teva | Filmdragerad tablett | Godkänd |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 23052 | Finpros | Filmdragerad tablett | Krka d.d., Novo mesto | Godkänd |
+| 13483 | Propecia | Filmdragerad tablett | Organon N.V | Godkänd |
+| 21113 | Finasterid STADA | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 43933 | Finasteride Accord | Filmdragerad tablett | Accord Healthcare B.V. | Godkänd |
+| 26771 | Finasteride Teva | Filmdragerad tablett | Teva Sweden AB | Godkänd |
+
+Tabellen visar 5 av 16 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

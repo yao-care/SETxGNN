@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 429
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TOLVAPTAN"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 description: "Tolvaptan: predikterad ny indikation Renal-hepatic-pancreatic dysplasia (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -95,13 +95,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Indikationstext saknas i data. De fem första godkännandena visas nedan.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 66684 | Tolvaptan Sandoz | Tablett | Godkänd |
-| 63594 | Tolvaptan Teva B.V. | Tablett | Godkänd |
-| 66704 | Tolvaptan Hexal | Tablett | Godkänd |
-| 63595 | Tolvaptan Teva B.V. | Tablett | Godkänd |
-| 66697 | Tolvaptan Zentiva | Tablett | Godkänd |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 66684 | Tolvaptan Sandoz | Tablett | Sandoz A/S | Godkänd |
+| 63594 | Tolvaptan Teva B.V. | Tablett | Teva B.V. | Godkänd |
+| 66704 | Tolvaptan Hexal | Tablett | Hexal A/S | Godkänd |
+| 63595 | Tolvaptan Teva B.V. | Tablett | Teva B.V. | Godkänd |
+| 66697 | Tolvaptan Zentiva | Tablett | Zentiva k.s. | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 80
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -79,7 +79,7 @@ Utan bekräftade verkningsmekanismdata från DrugBank kan det mekanistiska rimli
 
 <!-- review:begin se-lic-20261103-levosimendan-2 -->
 
-> **Granskningsrättelse (2026-11-03)**: Ursprungligen stod det: ”Inga godkännanden är registrerade i Sverige för LEVOSIMENDAN. Det finns ingen godkännandetabell att visa.” Borttaget: uppgiften stämde inte med Läkemedelsverkets godkännandedata (2026-11-03). Antal godkännanden enligt uppgifterna: 10, varav giltiga: 10; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-03)**: Ursprungligen stod det: ”Inga godkännanden är registrerade i Sverige för LEVOSIMENDAN. Det finns ingen godkännandetabell att visa.” Borttaget: uppgiften stämde inte med Läkemedelsverkets godkännandedata (2026-11-03). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261103-levosimendan-2 -->
 
@@ -123,7 +123,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
 | 2026-11-03 | Borttaget: ”från TFDA (eller motsvarande myndighet)” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-03 | Borttaget: ”Inga godkännanden är registrerade i Sverige för LEVOSIMENDAN. Det finns ingen godkännandetabell att visa” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-03 | Borttaget: ”Inga godkännanden är registrerade i Sverige för LEVOSIMENDAN. Det finns ingen godkännandetabell att visa” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-03 | Borttaget: ”TFDA (eller )” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->

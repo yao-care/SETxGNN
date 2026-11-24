@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 139
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "diclofenac"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
 description: "Diclofenac: predikterad ny indikation Hypotrichosis simplex of the scalp (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -90,13 +90,21 @@ Nedan visas fem av dem.
 
 <!-- review:end se-lic-20261106-diclofenac-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 60409 | Voltaren (2care4 ApS) | Suppositorium | Ingen indikationstext angiven |
-| 42952 | Dicuno (Vitabalans Oy) | Filmdragerad tablett | Ingen indikationstext angiven |
-| 44958 | Dicloabak (Laboratoires THEA) | Ögondroppar, lösning | Ingen indikationstext angiven |
-| 9818 | Voltaren (Novartis Sverige AB) | Suppositorium | Ingen indikationstext angiven |
-| 11112 | Diklofenak Viatris (Viatris Limited) | Suppositorium | Ingen indikationstext angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 60409 | Voltaren | Suppositorium | 2care4 ApS | Godkänd |
+| 42952 | Dicuno | Filmdragerad tablett | Vitabalans Oy | Godkänd |
+| 44958 | Dicloabak | Ögondroppar, lösning | Laboratoires THEA | Godkänd |
+| 9818 | Voltaren | Suppositorium | Novartis Sverige AB | Godkänd |
+| 11112 | Diklofenak Viatris | Suppositorium | Viatris Limited | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Övriga beredningsformer bland de indragna godkännandena är enterotablett, dragerad tablett och injektionsvätska.
 

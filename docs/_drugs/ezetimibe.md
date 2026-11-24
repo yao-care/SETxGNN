@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ezetimibe"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Ezetimibe: predikterad ny indikation Cholesterol-ester transfer protein deficiency (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
@@ -89,13 +89,21 @@ Ingen av publikationerna studerar ezetimib vid CETP-brist.
 
 Listan visar fem av minst 20 godkännanden och kan vara ofullständig. Alla poster saknar indikationstext i underlaget. Kombinationsprodukter (t.ex. ezetimib/simvastatin eller ezetimib/atorvastatin) är utelämnade.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 64423 | Ezetimib Vivanta | Tablett | Indikationstext saknas |
-| 54510 | Ezetimib Medical Valley | Tablett | Indikationstext saknas |
-| 49451 | Ezetimib Sandoz | Tablett | Indikationstext saknas |
-| 65878 | Ezetrol | Tablett | Indikationstext saknas |
-| 53802 | Ezetimib Krka | Tablett | Indikationstext saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 64423 | Ezetimib Vivanta | Tablett | Vivanta Generics s.r.o. | Godkänd |
+| 54510 | Ezetimib Medical Valley | Tablett | Medical Valley Invest AB | Godkänd |
+| 49451 | Ezetimib Sandoz | Tablett | Sandoz A/S | Godkänd |
+| 65878 | Ezetrol | Tablett | Medartuum AB | Godkänd |
+| 53802 | Ezetimib Krka | Tablett | Krka d.d., Novo mesto | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

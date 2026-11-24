@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "abacavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Abacavir: predikterad ny indikation Simian immunbristvirusinfektion (simian immunodeficiency virus infection) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 5 (giltiga: 4)"
 ---
 
@@ -84,9 +84,17 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 64835 | Abacavir 2care4 | Filmdragerad tablett | Ingen indikationstext registrerad |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 64835 | Abacavir 2care4 | Filmdragerad tablett | 2care4 ApS | Avregistrerad |
+
+Tabellen visar 1 av 5 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Övriga godkännanden i de lokala uppgifterna gäller kombinationsprodukter och beskrivs inte här.
 

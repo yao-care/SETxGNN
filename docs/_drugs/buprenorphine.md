@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "buprenorphine"
 predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "benign shuddering attacks", "extrapyramidal and movement disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Buprenorphine: predikterad ny indikation Akut intermittent porfyri (acute intermittent porphyria) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
@@ -84,13 +84,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 Enligt de lokala uppgifterna är läkemedlet marknadsfört i Sverige. Listan över godkännanden kan vara ofullständig. Indikationstext finns inte registrerad i de lokala uppgifterna.
 
-| Godkännandenummer | Produktnamn | Beredningsform |
-|---------|------|------|
-| 51208 | Espranor | Frystorkad tablett |
-| 49410 | Norspan | Depotplåster |
-| 42325 | Molterfin | Resoriblett, sublingual |
-| 59799 | Buprefarm | Depotplåster |
-| 42327 | Subuphine | Resoriblett, sublingual |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 51208 | Espranor | Frystorkad tablett | Ethypharm SA | Godkänd |
+| 49410 | Norspan | Depotplåster | Mundipharma AB | Godkänd |
+| 42325 | Molterfin | Resoriblett, sublingual | L Molteni & C Dei F.LLI Alitti Societa di Esercizio SpA | Godkänd |
+| 59799 | Buprefarm | Depotplåster | Orifarm Generics A/S | Godkänd |
+| 42327 | Subuphine | Resoriblett, sublingual | Activase Pharmaceuticals Limited | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

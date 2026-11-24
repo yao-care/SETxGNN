@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "dalteparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets", "pseudo-von Willebrand disease", "atypical hemolytic-uremic syndrome with thrombomodulin anomaly", "neuropathy, painful"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Dalteparin: predikterad ny indikation Trombofili orsakad av protein C-brist, autosomalt recessiv (thrombophilia due to protein C deficiency… (evidensnivå L5). Ursprunglig indikation: Inte angiven i d…"
 ---
 
@@ -82,13 +82,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 12690 | Fragmin (med konserveringsmedel) | Injektionsvätska, lösning | Ej angiven i lokala data |
-| 19745 | Fragmin | Injektionsvätska, lösning i förfylld spruta | Ej angiven i lokala data |
-| 19746 | Fragmin | Injektionsvätska, lösning i förfylld spruta | Ej angiven i lokala data |
-| 10754 | Fragmin | Injektionsvätska, lösning | Ej angiven i lokala data |
-| 19749 | Fragmin | Injektionsvätska, lösning i förfylld spruta | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 12690 | Fragmin (med konserveringsmedel) | Injektionsvätska, lösning | Pfizer AB | Godkänd |
+| 19745 | Fragmin | Injektionsvätska, lösning i förfylld spruta | Pfizer AB | Godkänd |
+| 19746 | Fragmin | Injektionsvätska, lösning i förfylld spruta | Pfizer AB | Godkänd |
+| 10754 | Fragmin | Injektionsvätska, lösning | Pfizer AB | Godkänd |
+| 19749 | Fragmin | Injektionsvätska, lösning i förfylld spruta | Pfizer AB | Godkänd |
+
+Tabellen visar 5 av 10 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "bexarotene"
 predicted_indications: ["primary cutaneous B-cell lymphoma", "lymphosarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bexarotene: predikterad ny indikation Primärt kutant B-cellslymfom (primary cutaneous B-cell lymphoma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
 ---
 
@@ -82,9 +82,15 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 66505 | Bexarotene Amdipharm (Amdipharm Limited) | Kapsel, mjuk | Inte angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 66505 | Bexarotene Amdipharm | Kapsel, mjuk | Amdipharm Limited | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

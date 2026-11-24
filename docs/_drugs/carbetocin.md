@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "carbetocin"
 predicted_indications: ["isotretinoin-like syndrome", "Goodman syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Carbetocin: predikterad ny indikation Isotretinoinliknande syndrom (isotretinoin-like syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
@@ -82,10 +82,16 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 61721 | Carbetocin Aguettant | Injektionsvätska, lösning i förfylld spruta | Ej angiven i lokala data |
-| 24549 | Pabal | Injektionsvätska, lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 61721 | Carbetocin Aguettant | Injektionsvätska, lösning i förfylld spruta | Laboratoire Aguettant | Godkänd |
+| 24549 | Pabal | Injektionsvätska, lösning | Ferring Läkemedel AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

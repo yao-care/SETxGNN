@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ampicillin"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Ampicillin: predikterad ny indikation Laryngit (laryngitis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 12 (giltiga: 12)"
 ---
 
@@ -93,13 +93,21 @@ Ingen av publikationerna studerar laryngit direkt. De mest relevanta, närliggan
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 60767 | Amroliv | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
-| 65716 | Ampicillin Noridem | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
-| 62452 | Ampitar | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
-| 64796 | Ampicillin STADA Nordic | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
-| 7195 | Doktacillin | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 60767 | Amroliv | Pulver till injektions-/infusionsvätska, lösning | Antibiotice SA | Godkänd |
+| 65716 | Ampicillin Noridem | Pulver till injektions-/infusionsvätska, lösning | Noridem Enterprises Ltd | Godkänd |
+| 62452 | Ampitar | Pulver till injektions-/infusionsvätska, lösning | Tarchominskie Zaklady Farmaceutyczne POLFA S.A. | Godkänd |
+| 64796 | Ampicillin STADA Nordic | Pulver till injektions-/infusionsvätska, lösning | STADA Nordic ApS | Godkänd |
+| 7195 | Doktacillin | Pulver till injektions-/infusionsvätska, lösning | Viatris AB | Godkänd |
+
+Tabellen visar 5 av 12 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

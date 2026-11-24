@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 440
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "trimethoprim"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 description: "Trimethoprim: predikterad ny indikation Punktformad epitelial keratokonjunktivit (punctate epithelial keratoconjunctivitis) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifte…"
@@ -80,23 +80,31 @@ Ingen godkänd indikationstext finns registrerad. De fem första godkännandena:
 
 <!-- review:begin se-lic-20261106-trimethoprim-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga godkännanden är avregistrerade. Ingen godkänd indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga godkännanden är avregistrerade. Ingen godkänd indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-trimethoprim-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 9525 | Idotrim | Filmdragerad tablett | Uppgift saknas |
-| 9526 | Idotrim | Filmdragerad tablett | Uppgift saknas |
-| 9919 | Trimetoprim Viatris | Oral suspension | Uppgift saknas |
-| 8675 | Bactrim | Tablett | Uppgift saknas |
-| 9259 | Bactrim forte | Tablett | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 9525 | Idotrim | Filmdragerad tablett | Orion Corporation | Godkänd |
+| 9526 | Idotrim | Filmdragerad tablett | Orion Corporation | Godkänd |
+| 9919 | Trimetoprim Viatris | Oral suspension | Viatris AB | Godkänd |
+| 8675 | Bactrim | Tablett | Eumedica Pharmaceuticals GmbH | Godkänd |
+| 9259 | Bactrim forte | Tablett | Eumedica Pharmaceuticals GmbH | Godkänd |
+
+Tabellen visar 5 av 9 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Tillgängliga beredningsformer har varit orala (tablett, suspension) och injicerbara. Någon ögonberedning finns inte bland de svenska godkännandena.
 
 <!-- review:begin se-lic-20261106-trimethoprim-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Övriga fyra avregistrerade godkännanden: Eusaprim (infusionskoncentrat), Eusaprim forte (tablett), Zomylac (infusionskoncentrat) och Bactrim (oral suspension). Tillgängliga beredningsformer har varit orala (tablett, suspension) och injicerbara.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Övriga fyra avregistrerade godkännanden: Eusaprim (infusionskoncentrat), Eusaprim forte (tablett), Zomylac (infusionskoncentrat) och Bactrim (oral suspension). Tillgängliga beredningsformer har varit orala (tablett, suspension) och injicerbara.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-trimethoprim-2 -->
 
@@ -123,7 +131,7 @@ Uppgifter om varningar och kontraindikationer från produktresumén saknas. Se p
 
 <!-- review:begin se-lic-20261106-trimethoprim-3 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen är enbart modellbaserad (L5) utan stödjande studier, och den antibakteriella mekanismen passar dåligt med en sjukdom som ofta är virusorsakad eller inflammatorisk. Dessutom har alla svenska godkännanden avregistrerats och inga ögonberedningar finns på marknaden.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 9, varav giltiga: 9; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsen är enbart modellbaserad (L5) utan stödjande studier, och den antibakteriella mekanismen passar dåligt med en sjukdom som ofta är virusorsakad eller inflammatorisk. Dessutom har alla svenska godkännanden avregistrerats och inga ögonberedningar finns på marknaden.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-trimethoprim-3 -->
 
@@ -142,9 +150,9 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga godkännanden är avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Övriga fyra avregistrerade godkännanden: Eusaprim (infusionskoncentrat), Eusaprim forte (tablett), Zomylac (infusionskoncentrat) och Bactrim” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Dessutom har alla svenska godkännanden avregistrerats och inga ögonberedningar finns på marknaden” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga godkännanden är avregistrerade” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Övriga fyra avregistrerade godkännanden: Eusaprim (infusionskoncentrat), Eusaprim forte (tablett), Zomylac (infusionskoncentrat) och Bactrim” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom har alla svenska godkännanden avregistrerats och inga ögonberedningar finns på marknaden” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

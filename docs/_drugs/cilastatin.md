@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "cilastatin"
 predicted_indications: ["staphylococcus aureus infection", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "sinusitis", "paranasal sinus neoplasm (disease)", "paratyphoid fever", "bronchitis", "diffuse scleroderma", "salmonellosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Cilastatin: predikterad ny indikation Staphylococcus aureus-infektion (staphylococcus aureus infection) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 
@@ -95,12 +95,18 @@ Mekanistiskt är det alltså inte rimligt att tillskriva en effekt mot S. aureus
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 65602 | Imipenem/Cilastatin Orifarm | Pulver till infusionsvätska, lösning | Indikationstext saknas i lokala data |
-| 62884 | Imipenem/Cilastatin Steriscience | Pulver till infusionsvätska, lösning | Indikationstext saknas i lokala data |
-| 67596 | Imipenem/Cilastatin Noridem | Pulver till infusionsvätska, lösning | Indikationstext saknas i lokala data |
-| 26382 | Imipenem/Cilastatin Fresenius Kabi | Pulver till infusionsvätska, lösning | Indikationstext saknas i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 65602 | Imipenem/Cilastatin Orifarm | Pulver till infusionsvätska, lösning | Orifarm AB | Godkänd |
+| 62884 | Imipenem/Cilastatin Steriscience | Pulver till infusionsvätska, lösning | Steriscience B.V. | Godkänd |
+| 67596 | Imipenem/Cilastatin Noridem | Pulver till infusionsvätska, lösning | Noridem Enterprises Ltd | Godkänd |
+| 26382 | Imipenem/Cilastatin Fresenius Kabi | Pulver till infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Dessa godkännanden gäller kombinationsprodukter av imipenem och cilastatin.
 

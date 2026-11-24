@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 191
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "felodipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
 description: "Felodipine: predikterad ny indikation Pulmonary hypertension with unclear multifactorial mechanism (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -84,13 +84,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Nedan visas de fem första. Alla är depottabletter för oral användning.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 61492 | Felodipin Omet Pharma (Omet Pharma AB) | Depottablett | Ej angiven |
-| 61491 | Felodipin Omet Pharma (Omet Pharma AB) | Depottablett | Ej angiven |
-| 18720 | Felodipin HEXAL (Hexal A/S) | Depottablett | Ej angiven |
-| 10733 | Plendil (Glenwood GmbH) | Depottablett | Ej angiven |
-| 22784 | Felodipin Teva (Teva Sweden AB) | Depottablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 61492 | Felodipin Omet Pharma | Depottablett | Omet Pharma AB | Godkänd |
+| 61491 | Felodipin Omet Pharma | Depottablett | Omet Pharma AB | Godkänd |
+| 18720 | Felodipin HEXAL | Depottablett | Hexal A/S | Godkänd |
+| 10733 | Plendil | Depottablett | Glenwood GmbH Pharmazeutische Erzeugnisse | Godkänd |
+| 22784 | Felodipin Teva | Depottablett | Teva Sweden AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

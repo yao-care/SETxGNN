@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 437
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "TREPROSTINIL"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita"]
 description: "Treprostinil: predikterad ny indikation Pulmonell arteriovenös malformation (pulmonary arteriovenous malformation (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgift…"
@@ -84,17 +84,25 @@ Alla har beredningsformen infusionsvätska, lösning. Fem av dem visas nedan. In
 
 <!-- review:begin se-lic-20261106-treprostinil-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 12 godkännanden för treprostinil i Sverige är avregistrerade, och inget giltigt godkännande finns kvar. Alla har beredningsformen infusionsvätska, lösning.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 12, varav giltiga: 12; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Alla 12 godkännanden för treprostinil i Sverige är avregistrerade, och inget giltigt godkännande finns kvar. Alla har beredningsformen infusionsvätska, lösning.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-treprostinil-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 22464 | Remodulin | Infusionsvätska, lösning | Godkänd |
-| 58612 | Treprostinil Tillomed | Infusionsvätska, lösning | Godkänd |
-| 22466 | Remodulin | Infusionsvätska, lösning | Godkänd |
-| 22467 | Remodulin | Infusionsvätska, lösning | Godkänd |
-| 59913 | Tresuvi | Infusionsvätska, lösning | Godkänd |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 22464 | Remodulin | Infusionsvätska, lösning | Ferrer Internacional, SA. | Godkänd |
+| 58612 | Treprostinil Tillomed | Infusionsvätska, lösning | Tillomed Pharma GmbH | Godkänd |
+| 22466 | Remodulin | Infusionsvätska, lösning | Ferrer Internacional, SA. | Godkänd |
+| 22467 | Remodulin | Infusionsvätska, lösning | Ferrer Internacional, SA. | Godkänd |
+| 59913 | Tresuvi | Infusionsvätska, lösning | Orpha-Devel Handels und Vertriebs GmbH | Godkänd |
+
+Tabellen visar 5 av 12 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -141,7 +149,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Alla 12 godkännanden för treprostinil i Sverige är avregistrerade, och inget giltigt godkännande finns kvar” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Alla 12 godkännanden för treprostinil i Sverige är avregistrerade, och inget giltigt godkännande finns kvar” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

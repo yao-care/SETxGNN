@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "adapalene"
 predicted_indications: ["zinc, elevated plasma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Adapalene: predikterad ny indikation Förhöjt zink i plasma (zinc, elevated plasma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 11 (giltiga: 11)"
 ---
 
@@ -80,15 +80,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 12967 | Differin | Gel | Ej registrerad |
-| 14397 | Differin | Kräm | Ej registrerad |
-| 67815 | Cutimum | Gel | Ej registrerad |
-| 53560 | Epiduo | Gel | Ej registrerad |
-| 66234 | Adapalene/Benzoyl peroxide STADA | Gel | Ej registrerad |
+<!-- licenses:begin -->
 
-Listan visar de fem första av de godkännanden som finns i lokala data.
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 12967 | Differin | Gel | Galderma Nordic AB | Godkänd |
+| 14397 | Differin | Kräm | Galderma Nordic AB | Godkänd |
+| 67815 | Cutimum | Gel | 2care4 Generics ApS | Godkänd |
+| 53560 | Epiduo | Gel | Galderma Nordic AB | Godkänd |
+| 66234 | Adapalene/Benzoyl peroxide STADA | Gel | STADA Arzneimittel AG | Godkänd |
+
+Tabellen visar 5 av 11 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

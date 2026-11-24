@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 408
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus: predikterad ny indikation Seborrheic dermatitis (evidensnivå L1). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -104,13 +104,21 @@ Ingen indikationstext finns registrerad för dem.
 
 <!-- review:end se-lic-20261106-tacrolimus-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 26764 | Adport (Sandoz A/S) | Kapsel, hård | Ingen indikationstext registrerad |
-| 65770 | Takrolimus Abacus Medicine (Abacus Medicine A/S) | Salva | Ingen indikationstext registrerad |
-| 68464 | Takrolimus Orifarm (Orifarm AB) | Salva | Ingen indikationstext registrerad |
-| 58167 | Dailiport (Sandoz A/S) | Depotkapsel, hård | Ingen indikationstext registrerad |
-| 12234 | Prograf (Astellas Pharma A/S) | Kapsel, hård | Ingen indikationstext registrerad |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 26764 | Adport | Kapsel, hård | Sandoz A/S | Godkänd |
+| 65770 | Takrolimus Abacus Medicine | Salva | Abacus Medicine A/S | Godkänd |
+| 68464 | Takrolimus Orifarm | Salva | Orifarm AB | Godkänd |
+| 58167 | Dailiport | Depotkapsel, hård | Sandoz A/S | Godkänd |
+| 12234 | Prograf | Kapsel, hård | Astellas Pharma A/S | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 De två salvorna (65770 och 68464) är de beredningar som är relevanta för den förutsagda hudindikationen.
 

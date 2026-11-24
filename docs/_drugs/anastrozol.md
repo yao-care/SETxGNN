@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB01217
 monitor_inn: "Anastrozole"
 predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Anastrozol: predikterad ny indikation Neuroblastom (neuroblastoma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 8 (giltiga: 8)"
 ---
 
@@ -85,13 +85,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Anastrozol är marknadsfört i Sverige. Alla 8 godkännanden är giltiga och avser enkomponentsprodukter i beredningsformen filmdragerad tablett (oral användning). Tabellen visar de 5 första av de 8 godkännandena.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Innehavare |
-|---------|------|------|-----------|
-| 25389 | Anastelb | Filmdragerad tablett | STADA Arzneimittel AG |
-| 27647 | Anastrozole Bluefish | Filmdragerad tablett | Bluefish Pharmaceuticals AB |
-| 23956 | Anastrozole TEVA | Filmdragerad tablett | Teva Sweden AB |
-| 47479 | Anastrozol Medical Valley | Filmdragerad tablett | Medical Valley Invest AB |
-| 25661 | Anastrozol Sandoz | Filmdragerad tablett | Sandoz A/S |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 25389 | Anastelb | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 27647 | Anastrozole Bluefish | Filmdragerad tablett | Bluefish Pharmaceuticals AB | Godkänd |
+| 23956 | Anastrozole TEVA | Filmdragerad tablett | Teva Sweden AB | Godkänd |
+| 47479 | Anastrozol Medical Valley | Filmdragerad tablett | Medical Valley Invest AB | Godkänd |
+| 25661 | Anastrozol Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+
+Tabellen visar 5 av 8 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 2
 monitor_inn: "ALPRAZOLAM"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 description: "Alprazolam: predikterad ny indikation Insomni (insomnia (disease)) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
@@ -88,13 +88,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Tillverkare |
-|---------|------|------|-----------|
-| 11424 | Xanor | Tablett | Viatris Healthcare Limited |
-| 12757 | Xanor Depot | Depottablett | Viatris Healthcare Limited |
-| 44557 | Alprazolam Orion | Tablett | Orion Corporation |
-| 56346 | Alprazolam Krka d.d. | Tablett | Krka d.d., Novo mesto |
-| 62695 | Alprazolam Grindeks | Tablett | AS GRINDEKS |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 11424 | Xanor | Tablett | Viatris Healthcare Limited | Godkänd |
+| 12757 | Xanor Depot | Depottablett | Viatris Healthcare Limited | Godkänd |
+| 44557 | Alprazolam Orion | Tablett | Orion Corporation | Godkänd |
+| 56346 | Alprazolam Krka d.d. | Tablett | Krka d.d., Novo mesto | Godkänd |
+| 62695 | Alprazolam Grindeks | Tablett | AS GRINDEKS | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Minst 20 godkännanden finns registrerade och alla är giltiga. Listan ovan visar endast ett urval och kan vara ofullständig.
 

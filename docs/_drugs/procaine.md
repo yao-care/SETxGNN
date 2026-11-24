@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 366
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "procaine"
 predicted_indications: ["methemoglobinemia", "methemoglobinemia, alpha type", "Tourette syndrome", "anaphylaxis", "methemoglobin reductase deficiency", "hyperthyroidism", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis"]
 description: "Procaine: predikterad ny indikation Methemoglobinemia (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
@@ -45,7 +45,7 @@ TxGNN-modellen förutsäger att prokain kan vara effektivt mot **metemoglobinemi
 
 <!-- review:begin se-lic-20261031-procaine-1 -->
 
-> **Granskningsrättelse (2026-10-31)**: Ursprungligen stod det: ”I Sverige finns endast ett avregistrerat godkännande, Cardioplexol, en lösning för kardioplegi. Någon godkänd indikationstext finns inte angiven.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-10-31). Antal godkännanden enligt uppgifterna: 1, varav giltiga: 1; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-10-31)**: Ursprungligen stod det: ”I Sverige finns endast ett avregistrerat godkännande, Cardioplexol, en lösning för kardioplegi. Någon godkänd indikationstext finns inte angiven.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-10-31). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261031-procaine-1 -->
 
@@ -87,9 +87,15 @@ Det finns ingen rimlig mekanism som talar för en behandlande effekt vid metemog
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 54736 | Cardioplexol | Lösning för kardioplegi | Ej angiven (godkänd) |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 54736 | Cardioplexol | Lösning för kardioplegi | Taw Pharma (Ireland) Ltd | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -127,7 +133,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-10-31 | Borttaget: ”I Sverige finns endast ett avregistrerat godkännande, Cardioplexol, en lösning för kardioplegi” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-10-31 | Borttaget: ”I Sverige finns endast ett avregistrerat godkännande, Cardioplexol, en lösning för kardioplegi” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

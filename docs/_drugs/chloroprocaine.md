@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "chloroprocaine"
 predicted_indications: ["cauda equina syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chloroprocaine: predikterad ny indikation Cauda equina-syndrom (cauda equina syndrome) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 1)"
 ---
 
@@ -87,10 +87,16 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 58182 | Ampres | Injektionsvätska, lösning | Indikationstext ej registrerad |
-| 58183 | Ampres | Injektionsvätska, lösning | Indikationstext ej registrerad |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 58182 | Ampres | Injektionsvätska, lösning | B. Braun Melsungen AG | Godkänd |
+| 58183 | Ampres | Injektionsvätska, lösning | B. Braun Melsungen AG | Avregistrerad |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

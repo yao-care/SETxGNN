@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "dipyridamole"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Dipyridamole: predikterad ny indikation Sick sinus syndrome 2, autosomal dominant (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
 ---
 
@@ -82,13 +82,25 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Dipyridamol är marknadsfört i Sverige. Alla tre godkännanden är giltiga och avser läkemedel med enbart dipyridamol som substans. Någon indikationstext finns inte registrerad i de lokala uppgifterna.
+Dipyridamol är marknadsfört i Sverige. Godkännandena avser depotkapslar med enbart dipyridamol samt kombinationsprodukten Diprasorin (acetylsalicylsyra och dipyridamol). Någon indikationstext finns inte registrerad i de lokala uppgifterna.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 66506 | Pyranistole | Depotkapsel, hård | Ingen indikationstext angiven i underlaget |
-| 47980 | Dipyridamol Alternova | Depotkapsel, hård | Ingen indikationstext angiven i underlaget |
-| 46282 | Diprasorin | Kapsel med modifierad frisättning, hård | Ingen indikationstext angiven i underlaget |
+<!-- review:begin se-lic-20261124-dipyridamole-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Alla tre godkännanden är giltiga och avser läkemedel med enbart dipyridamol som substans.” Enligt Läkemedelsverkets uppgifter innehåller Diprasorin både acetylsalicylsyra och dipyridamol; texten angav att alla godkännanden avsåg läkemedel med enbart dipyridamol. Uppgiften om enkomponents- och kombinationsprodukter följer de verksamma ämnena i Läkemedelsverkets uppgifter; antal godkännanden och status finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (verksamma ämnen, registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124-dipyridamole-1 -->
+
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 66506 | Pyranistole | Depotkapsel, hård | Renata Pharmaceuticals (Ireland) Limited | Godkänd |
+| 47980 | Dipyridamol Alternova | Depotkapsel, hård | Alternova A/S | Godkänd |
+| 46282 | Diprasorin | Kapsel med modifierad frisättning, hård | Orion Corporation | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -113,6 +125,18 @@ Se produktresumén för fullständiga varningar och kontraindikationer.
 - Prekliniska studier eller en systematisk litteraturgenomgång som direkt undersöker sjukdomen.
 - En säkerhetsbedömning av risken för bradyarytmi och ledningsblock.
 - Produktresumén för varningar och kontraindikationer, som saknas i underlaget.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-24 | Dipyridamol: Diprasorin är en kombinationsprodukt med acetylsalicylsyra | Rättad | [Läkemedelsverket – export av godkända läkemedel (verksamma ämnen, registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

@@ -3,7 +3,7 @@ layout: default
 title: Olodaterol
 parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 325
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "olodaterol"
 description: "Olodaterol: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
@@ -49,11 +49,17 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 48116 | Striverdi Respimat | Inhalationsvätska, lösning | Godkänd |
-| 51248 | Yanimo Respimat | Inhalationsvätska, lösning | Godkänd |
-| 51247 | Spiolto Respimat | Inhalationsvätska, lösning | Godkänd |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 48116 | Striverdi Respimat | Inhalationsvätska, lösning | Boehringer Ingelheim International GmbH | Godkänd |
+| 51248 | Yanimo Respimat | Inhalationsvätska, lösning | Boehringer Ingelheim International GmbH | Godkänd |
+| 51247 | Spiolto Respimat | Inhalationsvätska, lösning | Boehringer Ingelheim International GmbH | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Tillverkare för samtliga: Boehringer Ingelheim International GmbH. Underlaget anger ingen godkänd indikationstext för dessa godkännanden.
 

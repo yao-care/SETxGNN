@@ -108,12 +108,18 @@ Tabellen visar de tio mest relevanta av prövningarna för myeloisk leukemi.
 
 Indikationstext saknas i registret.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 5518 | Puri-nethol | Tablett | Ingen indikationstext tillgänglig |
-| 65830 | Mercaptopurine Accord | Tablett | Ingen indikationstext tillgänglig |
-| 61447 | Mercaptopurine Silver | Tablett | Ingen indikationstext tillgänglig |
-| 55791 | Purimmun | Tablett | Ingen indikationstext tillgänglig |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 5518 | Puri-nethol | Tablett | Aspen Pharma Trading Limited | Godkänd |
+| 65830 | Mercaptopurine Accord | Tablett | Accord Healthcare B.V. | Godkänd |
+| 61447 | Mercaptopurine Silver | Tablett | Silver Pharma S.L. | Avregistrerad |
+| 55791 | Purimmun | Tablett | 2care4 Generics ApS | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -150,7 +156,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 <!-- review:begin se-lic-20261106-mercaptopurine-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsepoängen är mycket hög och flera fas 3-prövningar finns inom myeloisk leukemi och akut promyelocytleukemi, men merkaptopurinet ingår nästan alltid i en kombinationsregim, så dess egen effekt går inte att skilja ut. Dessutom är samtliga svenska godkännanden avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Förutsägelsepoängen är mycket hög och flera fas 3-prövningar finns inom myeloisk leukemi och akut promyelocytleukemi, men merkaptopurinet ingår nästan alltid i en kombinationsregim, så dess egen effekt går inte att skilja ut. Dessutom är samtliga svenska godkännanden avregistrerade.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-mercaptopurine-1 -->
 
@@ -162,7 +168,7 @@ Se produktresumén för fullständig säkerhetsinformation.
 
 <!-- review:begin se-lic-20261106-mercaptopurine-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra varför de svenska godkännandena är avregistrerade och om tillgång till läkemedlet finns på annat sätt, till exempel via licens. / Ta hänsyn till TPMT/NUDT15-testning och noggrann blodövervakning i en eventuell fortsatt utvärdering.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 4, varav giltiga: 4; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Klargöra varför de svenska godkännandena är avregistrerade och om tillgång till läkemedlet finns på annat sätt, till exempel via licens. / Ta hänsyn till TPMT/NUDT15-testning och noggrann blodövervakning i en eventuell fortsatt utvärdering.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-mercaptopurine-2 -->
 
@@ -176,8 +182,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden avregistrerade” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”Klargöra varför de svenska godkännandena är avregistrerade och om tillgång till läkemedlet finns på annat sätt, till exempel via licens” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Dessutom är samtliga svenska godkännanden avregistrerade” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Klargöra varför de svenska godkännandena är avregistrerade och om tillgång till läkemedlet finns på annat sätt, till exempel via licens” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "levothyroxine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Levothyroxine: predikterad ny indikation Renal hypodysplasia/aplasia (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
@@ -86,13 +86,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 Nedan visas ett urval av godkännandena. Listan kan vara ofullständig. Indikationstext finns inte angiven i de underlag som sammanställts för denna rapport.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 60907 | Medithyrox | Tablett | Ej angiven |
-| 62913 | Levothyroxine SERB | Injektions-/infusionsvätska, lösning | Ej angiven |
-| 15953 | Levaxin | Tablett | Ej angiven |
-| 58132 | Tirosintsol | Oral lösning i endosbehållare | Ej angiven |
-| 65520 | Striroxin | Tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 60907 | Medithyrox | Tablett | Uni-Pharma Kleon Tsetis Pharmaceutical Laboratories S.A. | Godkänd |
+| 62913 | Levothyroxine SERB | Injektions-/infusionsvätska, lösning | SERB S.A. | Godkänd |
+| 15953 | Levaxin | Tablett | Orifarm Healthcare A/S | Godkänd |
+| 58132 | Tirosintsol | Oral lösning i endosbehållare | IBSA Farmaceutici Italia S.r.l. | Godkänd |
+| 65520 | Striroxin | Tablett | Strides Nordic ApS | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

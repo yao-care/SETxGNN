@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ALPROSTADIL"
 predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", "congenital valvular dysplasia", "straddling or overriding tricuspid valve", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "heart septal defect", "endemic goiter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alprostadil: predikterad ny indikation Aortamissbildning (aortic malformation) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 8 (giltiga: 8)"
 ---
 
@@ -91,15 +91,23 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 10400 | Prostivas | Koncentrat till infusionsvätska, lösning | Indikationstext saknas i lokala data |
-| 17010 | Caverject Dual | Pulver och vätska till injektionsvätska, lösning | Indikationstext saknas i lokala data |
-| 57868 | Alprostadil Ebb | Koncentrat till infusionsvätska, lösning | Indikationstext saknas i lokala data |
-| 68108 | Neupedix | Koncentrat till infusionsvätska, lösning | Indikationstext saknas i lokala data |
-| 17011 | Caverject Dual | Pulver och vätska till injektionsvätska, lösning | Indikationstext saknas i lokala data |
+<!-- licenses:begin -->
 
-Totalt finns 8 godkännanden, och samtliga är giltiga. Tabellen visar de fem första.
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 10400 | Prostivas | Koncentrat till infusionsvätska, lösning | Pfizer AB | Godkänd |
+| 17010 | Caverject Dual | Pulver och vätska till injektionsvätska, lösning | Pfizer AB | Godkänd |
+| 57868 | Alprostadil Ebb | Koncentrat till infusionsvätska, lösning | Ebb Medical AB | Godkänd |
+| 68108 | Neupedix | Koncentrat till infusionsvätska, lösning | Øresund Pharma ApS | Godkänd |
+| 17011 | Caverject Dual | Pulver och vätska till injektionsvätska, lösning | Pfizer AB | Godkänd |
+
+Tabellen visar 5 av 8 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
+
+Totalt finns 8 godkännanden, och samtliga är giltiga.
 
 ---
 

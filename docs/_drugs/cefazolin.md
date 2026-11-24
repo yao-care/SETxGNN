@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "cefazolin"
 predicted_indications: ["infectious otitis media", "bronchitis", "middle ear disease", "chronic otitis media", "suppurative otitis media", "otosalpingitis", "non-suppurative otitis media", "allergic otitis media"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cefazolin: predikterad ny indikation Infektiös mellanöreinflammation (infectious otitis media) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
 ---
 
@@ -83,11 +83,17 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 47208 | Cefazolin MIP | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
-| 67733 | Cefazolin Noridem | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
-| 67734 | Cefazolin Noridem | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 47208 | Cefazolin MIP | Pulver till injektions-/infusionsvätska, lösning | MIP Pharma GmbH | Godkänd |
+| 67733 | Cefazolin Noridem | Pulver till injektions-/infusionsvätska, lösning | Noridem Enterprises Ltd | Godkänd |
+| 67734 | Cefazolin Noridem | Pulver till injektions-/infusionsvätska, lösning | Noridem Enterprises Ltd | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

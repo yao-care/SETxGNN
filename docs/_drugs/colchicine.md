@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "colchicine"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-24
 description: "Colchicine: predikterad ny indikation Plasmodium falciparum-malaria (Plasmodium falciparum malaria) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 5)"
 ---
 
@@ -83,13 +83,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 61374 | Kolkicin Strides | Tablett | Indikationstext finns inte registrerad |
-| 64577 | Colrefuz | Tablett | Indikationstext finns inte registrerad |
-| 56355 | Kolkicin Tiofarma | Tablett | Indikationstext finns inte registrerad |
-| 56966 | Kolkicin Orifarm | Tablett | Indikationstext finns inte registrerad |
-| 56354 | Kolkicin Tiofarma | Tablett | Indikationstext finns inte registrerad |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 61374 | Kolkicin Strides | Tablett | Strides Pharma (Cyprus) Limited | Godkänd |
+| 64577 | Colrefuz | Tablett | Abacus Medicine A/S | Godkänd |
+| 56355 | Kolkicin Tiofarma | Tablett | Tiofarma B.V. | Godkänd |
+| 56966 | Kolkicin Orifarm | Tablett | Orifarm Generics A/S | Avregistrerad |
+| 56354 | Kolkicin Tiofarma | Tablett | Tiofarma B.V. | Godkänd |
+
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "carbamazepine"
 predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Carbamazepine: predikterad ny indikation Trigeminusnervtumör (trigeminal nerve neoplasm) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 19 (giltiga: 19)"
 ---
 
@@ -97,13 +97,21 @@ Ingen av publikationerna studerar direkt karbamazepin som behandling av trigemin
 
 Lokala data visar 19 godkännanden för enkomponentsprodukter med karbamazepin. Produkterna finns som depottabletter, tabletter, oral suspension och suppositorier. Marknadsstatus enligt lokala data är "Marknadsförd". Indikationstext finns inte registrerad i de lokala uppgifterna.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 12920 | Trimonil retard | Depottablett | Ej registrerad |
-| 10790 | Hermolepsin Retard | Depottablett | Ej registrerad |
-| 10028 | Tegretol | Tablett | Ej registrerad |
-| 11830 | Carbamazepine Essential Pharma | Suppositorium | Ej registrerad |
-| 58461 | Carbamazepine Tillomed | Depottablett | Ej registrerad |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 12920 | Trimonil retard | Depottablett | Desitin Arzneimittel GmbH | Godkänd |
+| 10790 | Hermolepsin Retard | Depottablett | Orion Corporation | Godkänd |
+| 10028 | Tegretol | Tablett | Novartis Sverige AB | Godkänd |
+| 11830 | Carbamazepine Essential Pharma | Suppositorium | Essential Pharma (M) Ltd | Godkänd |
+| 58461 | Carbamazepine Tillomed | Depottablett | Tillomed Pharma GmbH | Godkänd |
+
+Tabellen visar 5 av 19 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

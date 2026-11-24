@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "carboplatin"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "adult germ cell tumor", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Carboplatin: predikterad ny indikation Mucinöst adenokarcinom i rektum (rectum mucinous adenocarcinoma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 
@@ -79,6 +79,19 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 ---
 
 ## Marknadsinformation Sverige
+
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 14126 | Carboplatin Ebewe | Koncentrat till infusionsvätska, lösning | EBEWE Pharma Ges.m.b.H.Nfg.Kommanditgesellschaft | Godkänd |
+| 25512 | Carboplatin Accord | Koncentrat till infusionsvätska, lösning | Accord Healthcare B.V. | Godkänd |
+| 26883 | Carboplatin Actavis | Koncentrat till infusionsvätska, lösning | Actavis Group PTC ehf. | Godkänd |
+| 63353 | Carbomedac | Koncentrat till infusionsvätska, lösning | medac Gesellschaft fr klinische Spezialpräparate mbH | Godkänd |
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Marknadsstatus enligt de lokala regulatoriska uppgifterna är **marknadsförd**. Karboplatin finns i Sverige som koncentrat till infusionsvätska, lösning, från flera tillverkare. Produkter i uppgifterna är bland andra Carboplatin Actavis, Carboplatin Ebewe, Carboplatin Accord och Carbomedac. Godkänd indikationstext finns inte registrerad i de lokala uppgifterna.
 

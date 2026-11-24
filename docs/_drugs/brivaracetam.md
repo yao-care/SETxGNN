@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BRIVARACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-24
 description: "Brivaracetam: predikterad ny indikation Beta-ketotiolasbrist (beta-ketothiolase deficiency) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
@@ -72,13 +72,21 @@ Den höga poängen bedöms sannolikt vara en artefakt i modellens nätverksstruk
 
 De data som sammanställts för denna rapport innehåller 20 godkännanden, och listan kan vara ofullständig. Ingen indikationstext finns registrerad i de lokala data. Nedan visas fem av godkännandena.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 66255 | Abavalex | Filmdragerad tablett | Ej angiven i lokala data |
-| 66672 | Brivaracetam Desitin | Filmdragerad tablett | Ej angiven i lokala data |
-| 66254 | Abavalex | Filmdragerad tablett | Ej angiven i lokala data |
-| 65916 | Brivaracetam Holsten | Filmdragerad tablett | Ej angiven i lokala data |
-| 66061 | Brivaracetam Amarox | Filmdragerad tablett | Ej angiven i lokala data |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 66255 | Abavalex | Filmdragerad tablett | G.L. Pharma GmbH | Godkänd |
+| 66672 | Brivaracetam Desitin | Filmdragerad tablett | Desitin Arzneimittel GmbH | Godkänd |
+| 66254 | Abavalex | Filmdragerad tablett | G.L. Pharma GmbH | Godkänd |
+| 65916 | Brivaracetam Holsten | Filmdragerad tablett | Holsten Pharma GmbH | Godkänd |
+| 66061 | Brivaracetam Amarox | Filmdragerad tablett | Amarox Pharma B.V | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

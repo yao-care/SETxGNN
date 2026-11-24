@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 3
 monitor_inn: "clonazepam"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clonazepam: predikterad ny indikation Restless legs-syndrom (restless legs syndrome) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
 ---
 
@@ -93,13 +93,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 64375 | Clonazepam Holsten | Tablett | Ej angiven |
-| 8987 | Iktorivil | Tablett | Ej angiven |
-| 8988 | Iktorivil | Tablett | Ej angiven |
-| 58017 | Iktorivil | Orala droppar, lösning | Ej angiven |
-| 61494 | Iqtopam | Koncentrat till injektions-/infusionsvätska, lösning | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 64375 | Clonazepam Holsten | Tablett | Holsten Pharma GmbH | Godkänd |
+| 8987 | Iktorivil | Tablett | Cheplapharm Arzneimittel GmbH | Godkänd |
+| 8988 | Iktorivil | Tablett | Cheplapharm Arzneimittel GmbH | Godkänd |
+| 58017 | Iktorivil | Orala droppar, lösning | Abboxia AB | Godkänd |
+| 61494 | Iqtopam | Koncentrat till injektions-/infusionsvätska, lösning | XGX Pharma ApS | Godkänd |
+
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 384
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "rivastigmine"
 predicted_indications: ["glaucoma"]
 description: "Rivastigmine: predikterad ny indikation Glaucoma (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 18 (giltiga: 18)"
@@ -88,13 +88,21 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 De fem första visas nedan. Indikationstext saknas i registret.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 62230 | Rivastigmin Abacus Medicine | Depotplåster | Uppgift saknas |
-| 58673 | Rivastor | Depotplåster | Uppgift saknas |
-| 48948 | Rigmin | Depotplåster | Uppgift saknas |
-| 61635 | Rivastigmin STADA Arzneimittel | Depotplåster | Uppgift saknas |
-| 46274 | Rivastor | Depotplåster | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 62230 | Rivastigmin Abacus Medicine | Depotplåster | Abacus Medicine A/S | Godkänd |
+| 58673 | Rivastor | Depotplåster | Orion Corporation | Godkänd |
+| 48948 | Rigmin | Depotplåster | Sandoz A/S | Godkänd |
+| 61635 | Rivastigmin STADA Arzneimittel | Depotplåster | STADA Arzneimittel AG | Godkänd |
+| 46274 | Rivastor | Depotplåster | Orion Corporation | Godkänd |
+
+Tabellen visar 5 av 18 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

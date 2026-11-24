@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 426
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ticagrelor"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
 description: "Ticagrelor: predikterad ny indikation Intracranial arteriosclerosis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -96,13 +96,21 @@ Nedan visas fem av dem.
 
 <!-- review:end se-lic-20261106-ticagrelor-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 59405 | Ticagrelor Sandoz | Filmdragerad tablett | Ej angiven |
-| 59406 | Ticagrelor Sandoz | Filmdragerad tablett | Ej angiven |
-| 65855 | Ticagrelor Bluefish | Filmdragerad tablett | Ej angiven |
-| 60188 | Ticagrelor Krka | Filmdragerad tablett | Ej angiven |
-| 63135 | Ticagrelor Teva | Filmdragerad tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 59405 | Ticagrelor Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 59406 | Ticagrelor Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 65855 | Ticagrelor Bluefish | Filmdragerad tablett | Bluefish Pharmaceuticals AB | Godkänd |
+| 60188 | Ticagrelor Krka | Filmdragerad tablett | Krka d.d., Novo mesto | Godkänd |
+| 63135 | Ticagrelor Teva | Filmdragerad tablett | Teva B.V. | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

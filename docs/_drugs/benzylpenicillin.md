@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "benzylpenicillin"
 predicted_indications: ["pericoronitis", "gingival recession", "canker sore", "ulcerative stomatitis", "denture stomatitis", "chemotherapy-induced oral mucositis", "leukoplakia of gingiva"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Benzylpenicillin: predikterad ny indikation Perikoronit (pericoronitis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 11 (giltiga: 11)"
 ---
 
@@ -82,15 +82,21 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 63816 | Benzylpenicillin Fresenius Kabi | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
-| 17332 | Benzylpenicillin Panpharma | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
-| 65048 | Bensylpenicillin Noridem | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
-| 63819 | Benzylpenicillin Fresenius Kabi | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
-| 65047 | Bensylpenicillin Noridem | Pulver till injektions-/infusionsvätska, lösning | Ej angiven i lokala data |
+<!-- licenses:begin -->
 
-Fler godkännanden finns i de lokala data; här visas de fem första.
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 63816 | Benzylpenicillin Fresenius Kabi | Pulver till injektions-/infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 17332 | Benzylpenicillin Panpharma | Pulver till injektions-/infusionsvätska, lösning | Panpharma SA | Godkänd |
+| 65048 | Bensylpenicillin Noridem | Pulver till injektions-/infusionsvätska, lösning | Noridem Enterprises Ltd | Godkänd |
+| 63819 | Benzylpenicillin Fresenius Kabi | Pulver till injektions-/infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 65047 | Bensylpenicillin Noridem | Pulver till injektions-/infusionsvätska, lösning | Noridem Enterprises Ltd | Godkänd |
+
+Tabellen visar 5 av 11 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

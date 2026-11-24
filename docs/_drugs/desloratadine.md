@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "desloratadine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-24
 description: "Desloratadine: predikterad ny indikation Nässlemhålesjukdom (nasal cavity disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
@@ -85,13 +85,21 @@ Båda studierna är prekliniska och gäller allergisk rinit eller nästäppa i d
 
 Enligt de lokala uppgifterna finns minst 20 godkännanden, och listan kan vara ofullständig. Nedan visas de fem första.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 65244 | Desloratadin Abacus Medicine | Munsönderfallande tablett | Indikationstext ej registrerad |
-| 66386 | Deslofox | Munsönderfallande tablett | Indikationstext ej registrerad |
-| 52183 | Desloratadin Apofri | Filmdragerad tablett | Indikationstext ej registrerad |
-| 65254 | Desloratadine STADA Arzneimittel | Filmdragerad tablett | Indikationstext ej registrerad |
-| 66385 | Deslofox | Munsönderfallande tablett | Indikationstext ej registrerad |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 65244 | Desloratadin Abacus Medicine | Munsönderfallande tablett | Abacus Medicine A/S | Godkänd |
+| 66386 | Deslofox | Munsönderfallande tablett | Orifarm AB | Godkänd |
+| 52183 | Desloratadin Apofri | Filmdragerad tablett | Evolan Pharma AB | Godkänd |
+| 65254 | Desloratadine STADA Arzneimittel | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
+| 66385 | Deslofox | Munsönderfallande tablett | Orifarm AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

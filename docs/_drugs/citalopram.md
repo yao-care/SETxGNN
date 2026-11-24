@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 5
 monitor_inn: "citalopram"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Citalopram: predikterad ny indikation Tvångssyndrom (obsessive-compulsive disorder) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
@@ -98,13 +98,21 @@ Mekanismen bygger här på allmänt känd SSRI-farmakologi och inte på uppgifte
 
 Enligt de lokala uppgifterna finns minst 20 godkännanden, och listan kan vara ofullständig. Samtliga är filmdragerade tabletter för oral användning. Indikationstext saknas i de lokala uppgifterna.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 49280 | Citalopram Jubilant | Filmdragerad tablett | Ej registrerad |
-| 23001 | Citalopram Teva | Filmdragerad tablett | Ej registrerad |
-| 21046 | Citalopram Sandoz | Filmdragerad tablett | Ej registrerad |
-| 24110 | Citalopram Orion | Filmdragerad tablett | Ej registrerad |
-| 11661 | Cipramil | Filmdragerad tablett | Ej registrerad |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 49280 | Citalopram Jubilant | Filmdragerad tablett | Jubilant Pharmaceuticals nv | Godkänd |
+| 23001 | Citalopram Teva | Filmdragerad tablett | Teva Sweden AB | Godkänd |
+| 21046 | Citalopram Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
+| 24110 | Citalopram Orion | Filmdragerad tablett | Orion Corporation | Godkänd |
+| 11661 | Cipramil | Filmdragerad tablett | H. Lundbeck A/S | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

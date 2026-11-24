@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 257
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 monitor_inn: "lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
 description: "Lenvatinib: predikterad ny indikation Liposarkom (liposarcoma) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): 10 (giltiga: 10)"
@@ -89,13 +89,21 @@ Ytterligare stöd kommer från prekliniska data om eribulinkombinationer och en 
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 66293 | Lenvatinib Accord | Kapsel, hård | Ej angiven |
-| 65695 | Lenvatinib Avansor | Kapsel, hård | Ej angiven |
-| 66318 | Palarccio | Kapsel, hård | Ej angiven |
-| 66290 | Lenvatinib Sandoz | Kapsel, hård | Ej angiven |
-| 67428 | Lenvatinib Teva | Kapsel, hård | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 66293 | Lenvatinib Accord | Kapsel, hård | Accord Healthcare B.V. | Godkänd |
+| 65695 | Lenvatinib Avansor | Kapsel, hård | Avansor Pharma Oy | Godkänd |
+| 66318 | Palarccio | Kapsel, hård | Sandoz A/S | Godkänd |
+| 66290 | Lenvatinib Sandoz | Kapsel, hård | Sandoz A/S | Godkänd |
+| 67428 | Lenvatinib Teva | Kapsel, hård | TEVA GmbH | Godkänd |
+
+Tabellen visar 5 av 10 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Totalt finns 10 godkännanden i Sverige, alla giltiga; här visas de fem första.
 

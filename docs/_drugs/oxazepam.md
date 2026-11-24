@@ -5,7 +5,7 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 330
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "OXAZEPAM"
 predicted_indications: ["insomnia (disease)"]
 description: "Oxazepam: predikterad ny indikation Insomnia (disease) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 7)"
@@ -85,19 +85,27 @@ För närvarande finns ingen detaljerad verkningsmekanismdata tillgänglig i de 
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 10743 | Oxascand | Tablett | Godkänd |
-| 10744 | Oxascand | Tablett | Godkänd |
-| 11082 | Oxascand | Tablett | Godkänd |
-| 11083 | Oxascand | Tablett | Godkänd |
-| 63357 | Delipam | Tablett | Godkänd |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 10743 | Oxascand | Tablett | Teva Sweden AB | Godkänd |
+| 10744 | Oxascand | Tablett | Teva Sweden AB | Godkänd |
+| 11082 | Oxascand | Tablett | Teva Sweden AB | Godkänd |
+| 11083 | Oxascand | Tablett | Teva Sweden AB | Godkänd |
+| 63357 | Delipam | Tablett | 2care4 Generics ApS | Godkänd |
+
+Tabellen visar 5 av 7 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 Ingen indikationstext finns tillgänglig.
 
 <!-- review:begin se-lic-20261106-oxazepam-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ytterligare två avregistrerade godkännanden finns (63356 och 63358, Delipam). Samtliga sju godkännanden är avregistrerade, och ingen indikationstext finns tillgänglig.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 7, varav giltiga: 7; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Ytterligare två avregistrerade godkännanden finns (63356 och 63358, Delipam). Samtliga sju godkännanden är avregistrerade, och ingen indikationstext finns tillgänglig.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-oxazepam-1 -->
 
@@ -143,7 +151,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Ytterligare två avregistrerade godkännanden finns (63356 och 63358, Delipam). Samtliga sju godkännanden är avregistrerade, och i” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Ytterligare två avregistrerade godkännanden finns (63356 och 63358, Delipam). Samtliga sju godkännanden är avregistrerade, och i” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 344
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "phenoxymethylpenicillin"
 predicted_indications: ["epiglottitis", "laryngitis"]
 description: "Phenoxymethylpenicillin: predikterad ny indikation Epiglottitis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -90,13 +90,21 @@ För den näst högst rankade förutsägelsen, laryngit, fanns en publikation:
 
 Ingen indikationstext finns registrerad. De fem första godkännandena:
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 8868 | Kåvepenin | Filmdragerad tablett | Ej angiven |
-| 8515 | Kåvepenin | Granulat till oral suspension i dospåse | Ej angiven |
-| 57416 | Fenoximetylpenicillin Orifarm | Filmdragerad tablett | Ej angiven |
-| 59168 | Phenoxymethylpenicillin EQL | Granulat till oral lösning | Ej angiven |
-| 63262 | Fenoximetylpenicillin EQL | Filmdragerad tablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 8868 | Kåvepenin | Filmdragerad tablett | Viatris AB | Godkänd |
+| 8515 | Kåvepenin | Granulat till oral suspension i dospåse | Viatris AB | Godkänd |
+| 57416 | Fenoximetylpenicillin Orifarm | Filmdragerad tablett | Orifarm Generics A/S | Godkänd |
+| 59168 | Phenoxymethylpenicillin EQL | Granulat till oral lösning | EQL Pharma AB | Godkänd |
+| 63262 | Fenoximetylpenicillin EQL | Filmdragerad tablett | EQL Pharma AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

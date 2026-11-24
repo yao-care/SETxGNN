@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 224
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 monitor_inn: "histidine"
 predicted_indications: ["gastroparesis (disease)", "sclerosing cholangitis"]
 description: "Histidine: predikterad ny indikation Gastropares (gastroparesis (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -92,13 +92,21 @@ Nedan visas fem av dem. Indikationstext saknas i registret.
 
 <!-- review:end se-lic-20261106-histidine-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 57202 | Corhum | Lösning för kardioplegi/organförvaring | Ej angiven |
-| 59088 | Ketosteril | Filmdragerad tablett | Ej angiven |
-| 12526 | Glavamin | Infusionsvätska, lösning | Ej angiven |
-| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Ej angiven |
-| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 57202 | Corhum | Lösning för kardioplegi/organförvaring | S.A.L.F. SpA Laboratorio Farmacologico | Godkänd |
+| 59088 | Ketosteril | Filmdragerad tablett | Fresenius Kabi AB | Godkänd |
+| 12526 | Glavamin | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 18399 | StructoKabiven Elektrolytfri | Infusionsvätska, emulsion | Fresenius Kabi AB | Avregistrerad |
+| 10096 | Vamin 18 g N/l elektrolytfri | Infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

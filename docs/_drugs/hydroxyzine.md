@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 228
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "hydroxyzine"
 predicted_indications: ["rosacea conjunctivitis"]
 description: "Hydroxyzine: predikterad ny indikation Rosacea conjunctivitis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 16 (giltiga: 16)"
@@ -98,13 +98,21 @@ Litteraturen nedan gäller kall urtikaria (rang 3). Övriga förutsägelser sakn
 
 Indikationstext saknas i underlaget. De fem första visas nedan.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 51784 | Hydroxyzine Orifarm | Filmdragerad tablett | Ingen indikationstext angiven |
-| 51783 | Hydroxyzine Orifarm | Filmdragerad tablett | Ingen indikationstext angiven |
-| 61874 | Hydroxizin Omet Pharma | Filmdragerad tablett | Ingen indikationstext angiven |
-| 53582 | Hydroxyzine Orion | Filmdragerad tablett | Ingen indikationstext angiven |
-| 5327 | Atarax | Oral lösning | Ingen indikationstext angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 51784 | Hydroxyzine Orifarm | Filmdragerad tablett | Orifarm Generics A/S | Godkänd |
+| 51783 | Hydroxyzine Orifarm | Filmdragerad tablett | Orifarm Generics A/S | Godkänd |
+| 61874 | Hydroxizin Omet Pharma | Filmdragerad tablett | Omet Pharma AB | Godkänd |
+| 53582 | Hydroxyzine Orion | Filmdragerad tablett | Orion Corporation | Godkänd |
+| 5327 | Atarax | Oral lösning | UCB Nordic A/S | Godkänd |
+
+Tabellen visar 5 av 16 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -129,7 +137,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 
 <!-- review:begin se-lic-20261106-hydroxyzine-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Kall urtikaria har endast L4-evidens (en gammal jämförande studie, översikter och fallrapporter), inga registrerade prövningar, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 16, varav giltiga: 16; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Kall urtikaria har endast L4-evidens (en gammal jämförande studie, översikter och fallrapporter), inga registrerade prövningar, och alla svenska godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-hydroxyzine-1 -->
 
@@ -147,7 +155,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”och alla svenska godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 
 <!-- review:end log -->
 

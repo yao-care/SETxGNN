@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 8
 monitor_inn: "clomipramine"
 predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of infancy", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "agoraphobia", "attention deficit-hyperactivity disorder"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 description: "Clomipramine: predikterad ny indikation Ångestsyndrom (anxiety disorder) (evidensnivå L1). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
 ---
 
@@ -102,13 +102,21 @@ De flesta kliniska prövningarna gäller tvångssyndrom. Direkt evidens för and
 
 Klomipramin är marknadsförd i Sverige. Samtliga 6 godkännanden är giltiga.
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 11339 | Klomipramin Viatris | Tablett | Ej angiven |
-| 8756 | Anafranil | Injektionsvätska, lösning | Ej angiven |
-| 43201 | Anafranil | Injektionsvätska, lösning | Ej angiven |
-| 8966 | Anafranil | Dragerad tablett | Ej angiven |
-| 10568 | Anafranil Retard | Depottablett | Ej angiven |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 11339 | Klomipramin Viatris | Tablett | Viatris Limited | Godkänd |
+| 8756 | Anafranil | Injektionsvätska, lösning | Essential Pharma (M) Ltd | Godkänd |
+| 43201 | Anafranil | Injektionsvätska, lösning | Abboxia AB | Godkänd |
+| 8966 | Anafranil | Dragerad tablett | pharmaand GmbH | Godkänd |
+| 10568 | Anafranil Retard | Depottablett | pharmaand GmbH | Godkänd |
+
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 231
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "iloprost"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
 description: "Iloprost: predikterad ny indikation Hypotrichosis simplex of the scalp (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
@@ -68,17 +68,17 @@ Det enda tänkbara sambandet är att förbättrad blodcirkulation i hårbotten t
 
 ### Marknadsinformation Sverige
 
-| Godkännandenummer | Produktnamn | Beredningsform | Status |
-|---------|------|------|-----------|
-| 65495 | Iloprost Waymade | Koncentrat till infusionsvätska, lösning | Godkänd |
-| 65496 | Iloprost Waymade | Koncentrat till infusionsvätska, lösning | Godkänd |
-| 13677 | Ilomedin (Bayer AB) | Koncentrat till infusionsvätska, lösning | Godkänd |
+<!-- licenses:begin -->
 
-<!-- review:begin se-row-20261112-iloprost-1 -->
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 65495 | Iloprost Waymade | Koncentrat till infusionsvätska, lösning | Waymade BV | Godkänd |
+| 65496 | Iloprost Waymade | Koncentrat till infusionsvätska, lösning | Waymade BV | Godkänd |
+| 13677 | Ilomedin | Koncentrat till infusionsvätska, lösning | Bayer AB | Godkänd |
 
-> **Granskningsrättelse (2026-11-12)**: Ursprungligen stod det: ”65495 / Iloprost Waymade / Koncentrat till infusionsvätska, lösning / Indraget; 65496 / Iloprost Waymade / Koncentrat till infusionsvätska, lösning / Indraget; 13677 / Ilomedin (Bayer AB) / Koncentrat till infusionsvätska, lösning / Indraget” Enligt Läkemedelsverkets registreringsstatus (2026-11-02) har 65495, 65496, 13677 status Godkänd; tabellen angav dem som indraget. Endast statusuppgiften i tabellen har ändrats. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
-<!-- review:end se-row-20261112-iloprost-1 -->
+<!-- licenses:end -->
 
 Inget av godkännandena har någon registrerad indikationstext i de data som sammanställts för rapporten.
 
@@ -109,7 +109,7 @@ Varnings- och kontraindikationstext från produktresumén saknas. Se produktresu
 
 <!-- review:begin se-lic-20261106-iloprost-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det finns inget känt mekanistiskt samband, och läkemedlet har inga gällande godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 3, varav giltiga: 3; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Det finns inget känt mekanistiskt samband, och läkemedlet har inga gällande godkännanden i Sverige.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-iloprost-1 -->
 
@@ -131,8 +131,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”och läkemedlet har inga gällande godkännanden i Sverige” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-12 | Tabell: 3 godkännanden (65495, 65496, 13677) är godkända, inte indragna | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-06 | Borttaget: ”och läkemedlet har inga gällande godkännanden i Sverige” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-12 | Tabell: 3 godkännanden (65495, 65496, 13677) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

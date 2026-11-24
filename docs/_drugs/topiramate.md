@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 430
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "topiramate"
 predicted_indications: ["trigeminal nerve neoplasm"]
 description: "Topiramate: predikterad ny indikation Trigeminusnervtumör (trigeminal nerve neoplasm) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
@@ -84,13 +84,21 @@ Ingen indikationstext finns registrerad. Nedan visas de fem första.
 
 <!-- review:end se-lic-20261106-topiramate-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 42361 | Topiramat Actavis | Filmdragerad tablett | Uppgift saknas |
-| 26074 | Topiramat Orion | Filmdragerad tablett | Uppgift saknas |
-| 12440 | Topimax | Filmdragerad tablett | Uppgift saknas |
-| 42363 | Topiramat Actavis | Filmdragerad tablett | Uppgift saknas |
-| 23825 | Topiramat 1A Farma | Filmdragerad tablett | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 42361 | Topiramat Actavis | Filmdragerad tablett | Actavis Group PTC ehf. | Godkänd |
+| 26074 | Topiramat Orion | Filmdragerad tablett | Orion Corporation | Godkänd |
+| 12440 | Topimax | Filmdragerad tablett | Janssen-Cilag AB | Godkänd |
+| 42363 | Topiramat Actavis | Filmdragerad tablett | Actavis Group PTC ehf. | Godkänd |
+| 23825 | Topiramat 1A Farma | Filmdragerad tablett | 1A Farma A/S | Godkänd |
+
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 

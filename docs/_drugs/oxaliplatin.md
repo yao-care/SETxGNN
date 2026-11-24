@@ -5,7 +5,7 @@ parent: Hög evidens (L1-L2)
 nav_order: 329
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "OXALIPLATIN"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 description: "Oxaliplatin: predikterad ny indikation Malignant pleural mesothelioma (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
@@ -101,17 +101,25 @@ Ingen indikationstext finns registrerad.
 
 <!-- review:begin se-lic-20261106-oxaliplatin-1 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga sex godkännanden är indragna och ingen indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”Samtliga sex godkännanden är indragna och ingen indikationstext finns registrerad.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-oxaliplatin-1 -->
 
-| Godkännandenummer | Produktnamn | Beredningsform | Godkänd indikation |
-|---------|------|------|-----------|
-| 23844 | Oxaliplatin Teva | Koncentrat till infusionsvätska, lösning | Uppgift saknas |
-| 44409 | Oxaliplatin Fresenius Kabi | Koncentrat till infusionsvätska, lösning | Uppgift saknas |
-| 41633 | Oxaliplatin Accord | Koncentrat till infusionsvätska, lösning | Uppgift saknas |
-| 43028 | Oxaliplatin Sandoz | Koncentrat till infusionsvätska, lösning | Uppgift saknas |
-| 23806 | Oxaliplatin Vianex | Pulver till infusionsvätska, lösning | Uppgift saknas |
+<!-- licenses:begin -->
+
+| Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
+|------|------|------|------|------|
+| 23844 | Oxaliplatin Teva | Koncentrat till infusionsvätska, lösning | Teva Sweden AB | Godkänd |
+| 44409 | Oxaliplatin Fresenius Kabi | Koncentrat till infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
+| 41633 | Oxaliplatin Accord | Koncentrat till infusionsvätska, lösning | Accord Healthcare B.V. | Godkänd |
+| 43028 | Oxaliplatin Sandoz | Koncentrat till infusionsvätska, lösning | Sandoz A/S | Godkänd |
+| 23806 | Oxaliplatin Vianex | Pulver till infusionsvätska, lösning | Vianex S.A. | Godkänd |
+
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
+
+Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
+
+<!-- licenses:end -->
 
 ---
 
@@ -163,7 +171,7 @@ Uppgifter från produktresumén om varningar och kontraindikationer saknas i de 
 
 <!-- review:begin se-lic-20261106-oxaliplatin-2 -->
 
-> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”En bedömning av tillgången på oxaliplatin i Sverige, eftersom samtliga godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Antal godkännanden enligt uppgifterna: 6, varav giltiga: 6; aktuella siffror finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
+> **Granskningsrättelse (2026-11-06)**: Ursprungligen stod det: ”En bedömning av tillgången på oxaliplatin i Sverige, eftersom samtliga godkännanden är indragna.” Borttaget: uppgiften att godkännandena är avregistrerade eller att inget giltigt godkännande finns stämde inte med Läkemedelsverkets data (2026-11-06). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/).
 
 <!-- review:end se-lic-20261106-oxaliplatin-2 -->
 
@@ -175,8 +183,8 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 
 | Granskningsdatum | Punkt | Åtgärd | Källa |
 |------|------|------|------|
-| 2026-11-06 | Borttaget: ”Samtliga sex godkännanden är indragna och i” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
-| 2026-11-06 | Borttaget: ”eftersom samtliga godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”Samtliga sex godkännanden är indragna och i” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-06 | Borttaget: ”eftersom samtliga godkännanden är indragna” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5) |
 
 <!-- review:end log -->
