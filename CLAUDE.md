@@ -100,3 +100,4 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 - 劑型說法（「Beredningsformen är …」「Samtliga produkter är …」「endast oral tablett」等 58 句）逐句對照證據包全部品項的劑型（partial 頁另對 data/raw 的 Läkemedelsverket 全量清單）：只有 isoleucine「alla … infusionsvätskor」漏了證據包裡的腹膜透析液，併在上面的紀錄更正；其餘成立、不改。
 - 紀錄說明的張數樣板（site.FIGURES）第一輪已改成不寫數字，確認現行紀錄沒有寫死張數的說明。
 - checker 全量前後都是 0；gate exit 0。
+- 同日母 repo checker 把上面這些 sv 否定／撤回前提句型加進 M3（`sv_neg_x`，另成一組）：用 ebdef401 前的頁面反向驗證，78 句裡抓到 71 句（漏的 7 句是 partial 頁寫死「20 giltiga」等張數句，不屬否定句型；同 id 重發的 prilocaine 也抓得到），另抓到第二輪寬偵測漏掉的 2 句「Dessutom saknas aktiva godkännanden i Sverige」（propofol、ramipril），以 `se-lic-20261124c-*` 更正；改後 checker 全量 0、gate exit 0。

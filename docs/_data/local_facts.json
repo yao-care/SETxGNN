@@ -21,11 +21,11 @@
   "items_current": 2177
  },
  "reviews": {
-  "records": 711,
+  "records": 713,
   "pages": 321,
   "public_pages_with_records": 318,
   "by_action": {
-   "correct": 652,
+   "correct": 654,
    "mechanism": 59
   }
  },
@@ -195,6 +195,18 @@
  },
  "recent_reviews": [
   {
+   "t": "Ramipril",
+   "u": "/drugs/ramipril/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Propofol",
+   "u": "/drugs/propofol/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "d": "2026-11-24"
+  },
+  {
    "t": "Zidovudine",
    "u": "/drugs/zidovudine/",
    "s": "Borttaget: punkt om indragna godkännanden",
@@ -279,12 +291,6 @@
    "d": "2026-11-24"
   },
   {
-   "t": "Propofol",
-   "u": "/drugs/propofol/",
-   "s": "Rättat: förslagets premiss om indragna godkännanden",
-   "d": "2026-11-24"
-  },
-  {
    "t": "Propafenone",
    "u": "/drugs/propafenone/",
    "s": "Rättat: förslagets premiss om indragna godkännanden",
@@ -331,15 +337,21 @@
    "u": "/drugs/olanzapine/",
    "s": "Rättat: godkännandena är inte indragna/ogiltiga",
    "d": "2026-11-24"
-  },
-  {
-   "t": "Ofloxacin",
-   "u": "/drugs/ofloxacin/",
-   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
-   "d": "2026-11-24"
   }
  ],
  "recent_licence_reviews": [
+  {
+   "t": "Ramipril",
+   "u": "/drugs/ramipril/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Propofol",
+   "u": "/drugs/propofol/",
+   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "d": "2026-11-24"
+  },
   {
    "t": "Zidovudine",
    "u": "/drugs/zidovudine/",
@@ -374,18 +386,6 @@
    "t": "Tetracaine",
    "u": "/drugs/tetracaine/",
    "s": "Rättat: godkännandena är inte indragna/ogiltiga",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Telmisartan",
-   "u": "/drugs/telmisartan/",
-   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Tacrolimus",
-   "u": "/drugs/tacrolimus/",
-   "s": "Rättat: förslagets premiss om indragna godkännanden",
    "d": "2026-11-24"
   }
  ],

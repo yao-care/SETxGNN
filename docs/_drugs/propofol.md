@@ -144,7 +144,13 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **Beslut: Fortsätt med försiktighet**
 
 **Motivering:**
-- Det finns flera randomiserade studier och en avslutad fas 2/3-prövning som stöder propofol som räddningsbehandling vid akut migrän, men resultaten är inte bekräftade i underlaget. Dessutom saknas aktiva godkännanden i Sverige och produktresumédata om säkerhet.
+- Det finns flera randomiserade studier och en avslutad fas 2/3-prövning som stöder propofol som räddningsbehandling vid akut migrän, men resultaten är inte bekräftade i underlaget. Dessutom saknas produktresumédata om säkerhet.
+
+<!-- review:begin se-lic-20261124c-propofol-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Dessutom saknas aktiva godkännanden i Sverige och produktresumédata om säkerhet.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124c-propofol-1 -->
 
 **För att gå vidare krävs:**
 - Hämta och analysera produktresumé för varningar och kontraindikationer, eftersom detta för närvarande blockerar säkerhetsbedömningen.
@@ -170,6 +176,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Alla 11 godkännanden är indragna och inga produkter är för närvarande aktiva” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-19 | Meningen ”data om verkningsmekanismen saknas” ersatt med utdrag ur amerikansk produktinformation | Mening om att data om verkningsmekanismen saknades ersatt med ett utdrag med källa | [DailyMed: Diprivan (propofol) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3105799-a4b6-f3f4-e6e2-b2b29bbdb538) |
 | 2026-11-24 | Rättat: förslagets premiss om indragna godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

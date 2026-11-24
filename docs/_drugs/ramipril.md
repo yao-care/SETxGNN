@@ -132,7 +132,13 @@ Se produktresumén för fullständig säkerhetsinformation, eftersom varningar o
 **Beslut: Avvakta**
 
 **Motivering:**
-- Förutsägelsen bygger på en hög modellpoäng men endast på en preklinisk djurstudie, och inga kliniska prövningar finns. Dessutom saknas aktiva godkännanden i Sverige och produktresumédata för säkerhetsbedömning.
+- Förutsägelsen bygger på en hög modellpoäng men endast på en preklinisk djurstudie, och inga kliniska prövningar finns. Dessutom saknas produktresumédata för säkerhetsbedömning.
+
+<!-- review:begin se-lic-20261124c-ramipril-1 -->
+
+> **Granskningsrättelse (2026-11-24)**: Ursprungligen stod det: ”Dessutom saknas aktiva godkännanden i Sverige och produktresumédata för säkerhetsbedömning.” Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261124c-ramipril-1 -->
 
 **För att gå vidare krävs:**
 - Hämta och granska produktresumén för varningar och kontraindikationer, vilket för närvarande blockerar säkerhetsgranskningen.
@@ -157,6 +163,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 | 2026-11-06 | Borttaget: ”Alla 20 godkännanden är indragna och ingen produkt är för närvarande marknadsförd som enskild substans” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna” | Rättad | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-12 | Tabell: 5 godkännanden (44513, 47626, 63024, 41645, 19685) är godkända, inte indragna | Ersatt av den programgenererade licenstabellen (tidigare: Rättad) | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+| 2026-11-24 | Rättat: godkännandena är inte indragna/ogiltiga | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

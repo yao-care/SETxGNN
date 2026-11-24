@@ -28182,6 +28182,46 @@
    ],
    "checked": "2026-11-24",
    "method": "2026-11-24 第二輪：待查清單與全站寬偵測與劑型說法掃描（正文寫許可已撤回／沒有有效許可，或 partial 頁寫死有效張數）逐句對照證據包與快照事實層（用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "se-lic-20261124c-propofol-1",
+   "drug": "propofol",
+   "file": "propofol.md",
+   "action": "correct",
+   "claim": " Dessutom saknas aktiva godkännanden i Sverige och produktresumédata om säkerhet.",
+   "replacement": " Dessutom saknas produktresumédata om säkerhet.",
+   "summary": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "note": "Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "證據包本藥 11 張、收到的 11 張中 Godkänd／Registrerad 11 張、Avregistrerad 等 0 張；正文寫「saknas aktiva godkännanden i Sverige」（沒有有效許可）",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第三輪：母 repo checker 加 sv 否定句型（saknas／inga aktiva godkännanden、godkännandena dragits in 等）後全量重掃找到，對照證據包與快照事實層"
+  },
+  {
+   "id": "se-lic-20261124c-ramipril-1",
+   "drug": "ramipril",
+   "file": "ramipril.md",
+   "action": "correct",
+   "claim": " Dessutom saknas aktiva godkännanden i Sverige och produktresumédata för säkerhetsbedömning.",
+   "replacement": " Dessutom saknas produktresumédata för säkerhetsbedömning.",
+   "summary": "Rättat: godkännandena är inte indragna/ogiltiga",
+   "note": "Borttaget: uppgiften att godkännandena är indragna, avregistrerade eller saknar giltig status stämde inte med Läkemedelsverkets uppgifter, där det finns godkännanden med registreringsstatus Godkänd. Endast den felaktiga uppgiften har ändrats. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "證據包本藥部分紀錄（至少 20 張），收到的 20 張全部 Godkänd／Registrerad；正文寫「saknas aktiva godkännanden i Sverige」（沒有有效許可）",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第三輪：母 repo checker 加 sv 否定句型（saknas／inga aktiva godkännanden、godkännandena dragits in 等）後全量重掃找到，對照證據包與快照事實層"
   }
  ]
 }
