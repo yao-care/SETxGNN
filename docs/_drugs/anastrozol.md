@@ -8,8 +8,8 @@ indication_count: 5
 drugbank_id: DB01217
 monitor_inn: "Anastrozole"
 predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
-last_modified_at: 2026-11-24
-description: "Anastrozol: predikterad ny indikation Neuroblastom (neuroblastoma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 8 (giltiga: 8)"
+last_modified_at: 2026-11-25
+description: "Anastrozol: predikterad ny indikation Neuroblastom (neuroblastoma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 9 (giltiga: 9)"
 ---
 
 # Anastrozol
@@ -53,8 +53,8 @@ Anastrozol är en icke-steroid aromatashämmare som minskar kroppens östrogenbi
 | Förutsagd ny indikation | Neuroblastom (neuroblastoma) |
 | TxGNN-förutsägelsepoäng | 0.9953 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
-| Antal godkännanden | 8 (giltiga: 8) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
+| Antal godkännanden | 9 (giltiga: 9) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -83,7 +83,13 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Anastrozol är marknadsfört i Sverige. Alla 8 godkännanden är giltiga och avser enkomponentsprodukter i beredningsformen filmdragerad tablett (oral användning). Tabellen visar de 5 första av de 8 godkännandena.
+Anastrozol är marknadsfört i Sverige. Alla godkännanden är giltiga och avser enkomponentsprodukter i beredningsformen filmdragerad tablett (oral användning).
+
+<!-- review:begin se-lic-20261125-anastrozol-1 -->
+
+> **Granskningsrättelse (2026-11-25)**: Ursprungligen stod det: ”Alla 8 godkännanden är giltiga och avser enkomponentsprodukter i beredningsformen filmdragerad tablett (oral användning). Tabellen visar de 5 första av de 8 godkännandena.” Antalet godkännanden stämmer inte längre: Läkemedelsverkets aktuella förteckning innehåller ytterligare ett godkännande (Anastrozole Amarox, filmdragerad tablett, Godkänd). Det fasta antalet och meningen om tabellens rader har tagits bort; tabellen anger själv hur många rader som visas. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261125-anastrozol-1 -->
 
 <!-- licenses:begin -->
 
@@ -95,7 +101,7 @@ Anastrozol är marknadsfört i Sverige. Alla 8 godkännanden är giltiga och avs
 | 47479 | Anastrozol Medical Valley | Filmdragerad tablett | Medical Valley Invest AB | Godkänd |
 | 25661 | Anastrozol Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
 
-Tabellen visar 5 av 8 godkännanden i uppgifterna.
+Tabellen visar 5 av 9 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
@@ -121,6 +127,19 @@ Se produktresumén för säkerhetsinformation.
 - Prekliniska studier, till exempel i cellinjer eller djurmodeller för neuroblastom, som undersöker om östrogensignalering eller aromatas har någon roll i sjukdomen.
 - En systematisk litteraturgenomgång som specifikt söker efter data om aromatashämmare vid neuroblastom.
 - Bedömning av patientgruppens lämplighet (huvudsakligen barn) och av beredningsformens tillämpbarhet innan någon klinisk utvärdering övervägs.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-25 | Rättat: antal godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

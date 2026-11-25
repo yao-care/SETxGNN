@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "articaine"
 predicted_indications: ["gout", "exostosis", "allergic asthma", "intrinsic asthma"]
-last_modified_at: 2026-11-24
-description: "Articaine: predikterad ny indikation Gikt (gout) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
+last_modified_at: 2026-11-25
+description: "Articaine: predikterad ny indikation Gikt (gout) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
 ---
 
 # Articaine
@@ -52,8 +52,8 @@ Artikain är ett lokalanestetikum av amidtyp som ges som injektionsvätska, lös
 | Förutsagd ny indikation | Gikt (gout) |
 | TxGNN-förutsägelsepoäng | 0,9958 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
-| Antal godkännanden | 4 (giltiga: 4) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -98,6 +98,8 @@ Enligt de lokala registren gäller samtliga godkännanden för artikain kombinat
 | 67433 | Nordanest | Injektionsvätska, lösning | Laboratorios Inibsa S.A. | Godkänd |
 | 67432 | Nordanest | Injektionsvätska, lösning | Laboratorios Inibsa S.A. | Godkänd |
 | 14380 | Septocaine | Injektionsvätska, lösning | SEPTODONT | Godkänd |
+
+Tabellen visar 4 av 6 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

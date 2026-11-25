@@ -5,10 +5,10 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 452
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "vortioxetine"
 predicted_indications: ["neurotic disorder", "benign paroxysmal torticollis of infancy"]
-description: "Vortioxetine: predikterad ny indikation Neurotiskt tillstånd (neurotic disorder) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 12 (giltiga: 12)"
+description: "Vortioxetine: predikterad ny indikation Neurotiskt tillstånd (neurotic disorder) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 16 (giltiga: 16)"
 ---
 
 # Vortioxetine
@@ -52,8 +52,8 @@ Vortioxetin är ett antidepressivt läkemedel som ursprungligen används vid ege
 | Förutsagd ny indikation | Neurotiskt tillstånd (neurotic disorder) |
 | TxGNN-förutsägelsepoäng | 0.9924 |
 | Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 12 av 12) |
-| Antal godkännanden | 12 (giltiga: 12) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 16 av 16) |
+| Antal godkännanden | 16 (giltiga: 16) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -84,7 +84,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ## Marknadsinformation Sverige
 
-Alla 12 godkännanden är giltiga och ingen har någon registrerad indikationstext. De fem första visas nedan.
+Alla 16 godkännanden är giltiga och ingen har någon registrerad indikationstext. De fem första visas nedan.
 
 <!-- licenses:begin -->
 
@@ -96,7 +96,7 @@ Alla 12 godkännanden är giltiga och ingen har någon registrerad indikationste
 | 65566 | Vortioxetin Amarox | Filmdragerad tablett | Amarox Pharma B.V | Godkänd |
 | 65568 | Vortioxetin Amarox | Filmdragerad tablett | Amarox Pharma B.V | Godkänd |
 
-Tabellen visar 5 av 12 godkännanden i uppgifterna.
+Tabellen visar 5 av 16 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
@@ -137,7 +137,7 @@ Se produktresumén för varningar och kontraindikationer.
 - Att diagnosen "neurotiskt tillstånd" omsätts till moderna diagnoser (t.ex. ihållande depressiv sjukdom eller ångestsyndrom) och bedöms mot de redan etablerade indikationerna.
 - Verkningsmekanismdata och säkerhetsinformation (varningar och kontraindikationer) från produktresumén.
 - Kontrollerade studier med vortioxetin i en tydligt definierad patientgrupp, om en ny indikation ändå ska prövas.
-- Klarhet i läkemedlets regulatoriska status i Sverige, där 12 av 12 godkännanden är giltiga.
+- Klarhet i läkemedlets regulatoriska status i Sverige, där 16 av 16 godkännanden är giltiga.
 
 <!-- review:begin log -->
 

@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 299
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "MISOPROSTOL"
 predicted_indications: ["amenorrhea (disease)", "atypical coarctation of aorta"]
-description: "Misoprostol: predikterad ny indikation Amenorré (amenorrhea (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 3 (giltiga: 3)"
+description: "Misoprostol: predikterad ny indikation Amenorré (amenorrhea (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 
 # Misoprostol
@@ -52,8 +52,8 @@ Misoprostol är en prostaglandin E1-analog. De data som sammanställts för denn
 | Förutsagd ny indikation | Amenorré (amenorrhea (disease)) |
 | TxGNN-förutsägelsepoäng | 0.9964 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
-| Antal godkännanden | 3 (giltiga: 3) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -99,6 +99,8 @@ Ingen indikationstext finns i data.
 | 46903 | Topogyne | Tablett | Exelgyn, Paris | Godkänd |
 | 11033 | Cytotec | Tablett | Pfizer AB | Godkänd |
 | 54486 | Angusta | Tablett | Norgine BV | Godkänd |
+
+Tabellen visar 3 av 4 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 265
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "liothyronine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Carney complex", "peripheral dysostosis", "Potter sequence", "acrodysostosis with or without hormone resistance", "angiomyxoma", "myxoma", "hypotrichosis simplex of the scalp"]
-description: "Liothyronine: predikterad ny indikation Renal hypodysplasia/aplasia (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
+description: "Liothyronine: predikterad ny indikation Renal hypodysplasia/aplasia (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
 # Liothyronine
@@ -50,8 +50,8 @@ Liotyronin är ett syntetiskt sköldkörtelhormon (T3) som ursprungligen använd
 | Förutsagd ny indikation | Renal hypodysplasia/aplasia |
 | TxGNN-förutsägelsepoäng | 0.9995 |
 | Evidensnivå | L5 (endast indirekt litteratur, ingen human evidens) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
-| Antal godkännanden | 1 (giltiga: 1) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -87,6 +87,8 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 | Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
 |------|------|------|------|------|
 | 5500 | Liothyronin | Tablett | Orifarm Healthcare A/S | Godkänd |
+
+Tabellen visar 1 av 2 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

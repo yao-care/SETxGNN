@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 188
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "famotidine"
 predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
-description: "Famotidine: predikterad ny indikation Duodenal obstruction (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
+description: "Famotidine: predikterad ny indikation Duodenal obstruction (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
 ---
 
 # Famotidine
@@ -54,8 +54,8 @@ Famotidin är en histamin H2-receptorblockerare som ursprungligen användes mot 
 | Förutsagd ny indikation | Duodenal obstruction |
 | TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L5 (enligt datasammanställningen; se kommentar nedan) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
-| Antal godkännanden | 2 (giltiga: 2) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
+| Antal godkännanden | 4 (giltiga: 4) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 > **Kommentar om evidensnivån:** Datasammanställningen anger L1, men ingen av de listade prövningarna är en avslutad fas 3-RCT på peptiskt sår med famotidin som testläkemedel. Den enda fas 3-prövningen (NCT00229424) gäller refluxesofagit och prövar lafutidin. De övriga är fas 4 eller ej fasindelade. En försiktig bedömning ligger därför närmare L2–L3.
@@ -118,6 +118,8 @@ Det viktigaste förbehållet är att protonpumpshämmare (PPI) i flera direkta j
 |------|------|------|------|------|
 | 12017 | Pepcid | Tablett | McNeil Sweden AB | Godkänd |
 | 16331 | Pepcid Duo | Tuggtablett | McNeil Sweden AB | Godkänd |
+
+Tabellen visar 2 av 4 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

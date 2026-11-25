@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 311
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "naratriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
-description: "Naratriptan: predikterad ny indikation Atrophoderma vermiculata (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 5 (giltiga: 5)"
+description: "Naratriptan: predikterad ny indikation Atrophoderma vermiculata (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
 ---
 
 # Naratriptan
@@ -52,8 +52,8 @@ Naratriptan är en selektiv serotoninagonist (triptan) som ursprungligen använd
 | Förutsagd ny indikation | Atrophoderma vermiculata |
 | TxGNN-förutsägelsepoäng | 0.9974 |
 | Evidensnivå | L5 (observationsstudier och översikter; inga avslutade fas 3-prövningar för denna undertyp) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
-| Antal godkännanden | 5 (giltiga: 5) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -106,6 +106,8 @@ Godkänd indikationstext saknas i de sammanställda uppgifterna.
 | 63389 | Naramig | Filmdragerad tablett | Abacus Medicine A/S | Godkänd |
 | 56873 | Naramig | Filmdragerad tablett | Ebb Medical AB | Godkänd |
 | 13382 | Naramig | Filmdragerad tablett | GlaxoSmithKline AB | Godkänd |
+
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

@@ -51,6 +51,17 @@ jobs:
       - name: Restore data from Release
         run: bash scripts/restore_data.sh
 
+      # 2026-11-25 第六輪（用戶決定）：證據包只收得到 2026-03 drug_mapping.csv 裡的 MT 號，之後才出現的 Läkemedelsverket 許可永遠收不進來。
+      # 每週先照原收集規則（collectors/sefda.py 的 drug_mapping 對照，每個證據包用它收集時的那份；新品項用 run_kg_prediction 同一支
+      # map_fda_drugs_to_drugbank＋2026-10-12 rescue）補收現行清單有、證據包沒收的本藥許可（scripts/add_current_licences.py，只加不刪、
+      # 全程不用 AI），再跑 license_refresh（重算證據包、概覽列、程式表、正文張數）。下載或補收失敗不擋排程。
+      - name: Add new licences (original collector rule)
+        continue-on-error: true
+        run: |
+          set -euo pipefail
+          out=$("$GITHUB_WORKSPACE/.venv/bin/python" scripts/add_current_licences.py --download)
+          echo "$out"; echo "$out" >> "$GITHUB_STEP_SUMMARY"
+
       - name: Refresh licenses
         id: refresh
         env:

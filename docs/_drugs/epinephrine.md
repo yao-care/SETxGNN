@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 168
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "epinephrine"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
-description: "Epinephrine: predikterad ny indikation Obstructive lung disease (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
+description: "Epinephrine: predikterad ny indikation Obstructive lung disease (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 8 (giltiga: 8)"
 ---
 
 # Epinephrine
@@ -52,8 +52,8 @@ Epinefrin (adrenalin) är ett icke-selektivt adrenergt läkemedel som ursprungli
 | Förutsagd ny indikation | Obstructive lung disease |
 | TxGNN-förutsägelsepoäng | 0.9971 |
 | Evidensnivå | L5 (flera avslutade fas 3-prövningar; se anmärkning under Slutsats) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
-| Antal godkännanden | 6 (giltiga: 6) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
+| Antal godkännanden | 8 (giltiga: 8) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -122,7 +122,7 @@ Flera ytterligare prövningar är farmakokinetiska studier på friska frivilliga
 | 13022 | EpiPen | Injektionsvätska, lösning i förfylld injektionspenna | Viatris AB | Godkänd |
 | 13023 | EpiPen jr | Injektionsvätska, lösning i förfylld injektionspenna | Viatris AB | Godkänd |
 
-Tabellen visar 5 av 6 godkännanden i uppgifterna.
+Tabellen visar 5 av 8 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

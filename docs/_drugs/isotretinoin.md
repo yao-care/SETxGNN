@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 239
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "ISOTRETINOIN"
 predicted_indications: ["malignant hypertensive renal disease"]
-description: "Isotretinoin: predikterad ny indikation Malignant hypertensive renal disease (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 11 (giltiga: 11)"
+description: "Isotretinoin: predikterad ny indikation Malignant hypertensive renal disease (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 12 (giltiga: 12)"
 ---
 
 # Isotretinoin
@@ -52,8 +52,8 @@ Enligt den data som sammanställts för denna rapport är den ursprungliga indik
 | Förutsagd ny indikation | Malignant hypertensive renal disease |
 | TxGNN-förutsägelsepoäng | 0.9901 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 11 av 11) |
-| Antal godkännanden | 11 (giltiga: 11) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 12 av 12) |
+| Antal godkännanden | 12 (giltiga: 12) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -78,7 +78,7 @@ Retinoidsignalering har studerats i prekliniska modeller av renin-angiotensinsys
 | 52178 | Isotretinoin Ebb | Kapsel, mjuk | Ebb Medical AB | Godkänd |
 | 57967 | Isotretinoin Orifarm | Kapsel, mjuk | Orifarm Generics A/S | Godkänd |
 
-Tabellen visar 5 av 11 godkännanden i uppgifterna.
+Tabellen visar 5 av 12 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "dalbavancin"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "otitis externa", "ophthalmic herpes zoster", "infectious mononucleosis", "orbital cellulitis"]
-last_modified_at: 2026-11-24
-description: "Dalbavancin: predikterad ny indikation Postinfektiös vaskulit (postinfectious vasculitis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 5 (giltiga: 5)"
+last_modified_at: 2026-11-25
+description: "Dalbavancin: predikterad ny indikation Postinfektiös vaskulit (postinfectious vasculitis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 9 (giltiga: 9)"
 ---
 
 # Dalbavancin
@@ -52,8 +52,8 @@ Dalbavancin är ett antibiotikum av lipoglykopeptidtyp som verkar mot grampositi
 | Förutsagd ny indikation | Postinfektiös vaskulit (postinfectious vasculitis) |
 | TxGNN-förutsägelsepoäng | 0,9976 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
-| Antal godkännanden | 5 (giltiga: 5) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
+| Antal godkännanden | 9 (giltiga: 9) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -89,6 +89,8 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 | 64538 | Dalbavancin Baxter | Pulver till koncentrat till infusionsvätska, lösning | Baxter Holding B.V. | Godkänd |
 | 65152 | Dalbavancin Zentiva | Pulver till koncentrat till infusionsvätska, lösning | Zentiva k.s. | Godkänd |
 | 65262 | Dalbavancin Teva | Pulver till koncentrat till infusionsvätska, lösning | Teva B.V. | Godkänd |
+
+Tabellen visar 5 av 9 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

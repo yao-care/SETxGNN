@@ -5,7 +5,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 417
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Teriflunomide: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ Alla kandidater som TxGNN-modellen (poäng ≥ 0,99) har tagit fram för Teriflu
 | Nya predicerade indikationer | Inga (alla spårbara modellkandidater är kända användningar) |
 | Kända användningar bland modellens kandidater | 1 |
 | Evidensnivå | Ej tillämpligt |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 13 av 13) |
-| Antal godkännanden | 13 (giltiga: 13) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 15 av 15) |
+| Antal godkännanden | 15 (giltiga: 15) |
 
 ## Kända användningar bland modellens kandidater
 
@@ -89,6 +89,8 @@ Alla kandidater som TxGNN-modellen (poäng ≥ 0,99) har tagit fram för Teriflu
 | 62517 | Teriflunomid Zentiva | Filmdragerad tablett | Zentiva k.s. | Godkänd |
 | 65381 | Teriflunomid SUN | Filmdragerad tablett | Sun Pharmaceutical Industries Europe B.V. | Godkänd |
 | 62465 | Teriflunomide Newbury | Filmdragerad tablett | Newbury Pharmaceuticals AB | Godkänd |
+
+Tabellen visar 13 av 15 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

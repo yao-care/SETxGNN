@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 205
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "FLURBIPROFEN"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
 description: "Flurbiprofen: predikterad ny indikation Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type) (evidensnivå L5)."
@@ -52,8 +52,8 @@ Flurbiprofen är ett antiinflammatoriskt läkemedel (NSAID) som finns på den sv
 | Förutsagd ny indikation | Akromesomelisk dysplasi, Hunter-Thompson-typ (acromesomelic dysplasia, Hunter-Thompson type) |
 | TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
-| Antal godkännanden | 7 (giltiga: 7) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
+| Antal godkännanden | 9 (giltiga: 9) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -82,7 +82,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ## Marknadsinformation Sverige
 
-Flurbiprofen har 7 giltiga godkännanden i Sverige.
+Flurbiprofen har 9 giltiga godkännanden i Sverige.
 
 <!-- licenses:begin -->
 
@@ -94,7 +94,7 @@ Flurbiprofen har 7 giltiga godkännanden i Sverige.
 | 58177 | Strefen Honung & Citron | Munhålespray, lösning | Reckitt Benckiser Healthcare (Scandinavia) A/S | Godkänd |
 | 56192 | Strefen Körsbär & Mint | Munhålespray, lösning | Reckitt Benckiser Healthcare (Scandinavia) A/S | Godkänd |
 
-Tabellen visar 5 av 7 godkännanden i uppgifterna.
+Tabellen visar 5 av 9 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

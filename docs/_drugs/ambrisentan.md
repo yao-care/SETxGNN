@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "AMBRISENTAN"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "malformation syndrome with odontal and/or periodontal component", "hypotrichosis simplex of the scalp", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ambrisentan: predikterad ny indikation Pulmonell arteriovenös malformation (pulmonary arteriovenous malformation (disease)) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de lokala uppgifte…"
 ---
 
@@ -52,8 +52,8 @@ Ambrisentan är en endotelinreceptorantagonist. TxGNN-modellen förutsäger att 
 | Förutsagd ny indikation | Pulmonell arteriovenös malformation (pulmonary arteriovenous malformation (disease)) |
 | TxGNN-förutsägelsepoäng | 0,9941 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
-| Antal godkännanden | 6 (giltiga: 6) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -94,7 +94,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 | 57852 | Ambrisentan Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
 | 60956 | Ambrisentan Bluefish | Filmdragerad tablett | Bluefish Pharmaceuticals AB | Godkänd |
 
-Tabellen visar 5 av 6 godkännanden i uppgifterna.
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

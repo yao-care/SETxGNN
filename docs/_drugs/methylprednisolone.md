@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 287
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "methylprednisolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-description: "Methylprednisolone: predikterad ny indikation Alopecia mucinosa (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 9 (giltiga: 9)"
+description: "Methylprednisolone: predikterad ny indikation Alopecia mucinosa (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 11 (giltiga: 11)"
 ---
 
 # Methylprednisolone
@@ -52,8 +52,8 @@ Metylprednisolon är ett kortikosteroidläkemedel som i Sverige finns som tablet
 | Förutsagd ny indikation | Alopecia mucinosa |
 | TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
-| Antal godkännanden | 9 (giltiga: 9) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 11 av 11) |
+| Antal godkännanden | 11 (giltiga: 11) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -92,7 +92,7 @@ Läkemedlet har marknadsstatus "på marknaden" i Sverige. Alla de godkännanden 
 | 49091 | Methylprednisolone Orion | Tablett | Orion Corporation | Godkänd |
 | 64341 | Methylprednisolone Bijon | Tablett | UAB BIJON medica | Godkänd |
 
-Tabellen visar 5 av 9 godkännanden i uppgifterna.
+Tabellen visar 5 av 11 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

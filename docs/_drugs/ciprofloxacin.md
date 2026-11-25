@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "CIPROFLOXACIN"
 predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-11-24
-description: "Ciprofloxacin: predikterad ny indikation Diffus sklerodermi (diffuse scleroderma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
+last_modified_at: 2026-11-25
+description: "Ciprofloxacin: predikterad ny indikation Diffus sklerodermi (diffuse scleroderma) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 7)"
 ---
 
 # Ciprofloxacin
@@ -52,8 +52,8 @@ Ciprofloxacin är ett antibakteriellt läkemedel i fluorokinolonklassen. TxGNN-m
 | Förutsagd ny indikation | Diffus sklerodermi (diffuse scleroderma) |
 | TxGNN-förutsägelsepoäng | 0.9987 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
-| Antal godkännanden | 6 (giltiga: 6) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
+| Antal godkännanden | 7 (giltiga: 7) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -95,13 +95,19 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 | 24408 | Ciprofloxacin Navamedic | Infusionsvätska, lösning | Navamedic ASA | Godkänd |
 | 53658 | Ciproxin | Granulat och vätska till oral suspension | Ebb Medical AB | Godkänd |
 
-Tabellen visar 5 av 6 godkännanden i uppgifterna.
+Tabellen visar 5 av 7 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
 <!-- licenses:end -->
 
-Samtliga sex godkännanden i underlaget är giltiga; fem av dem visas ovan.
+Samtliga godkännanden i underlaget är giltiga.
+
+<!-- review:begin se-lic-20261125-ciprofloxacin-1 -->
+
+> **Granskningsrättelse (2026-11-25)**: Ursprungligen stod det: ”Samtliga sex godkännanden i underlaget är giltiga; fem av dem visas ovan.” Antalet godkännanden stämmer inte längre: Läkemedelsverkets aktuella förteckning innehåller ytterligare ett godkännande (Ciprofloxacin Noridem, infusionsvätska, Godkänd). Det fasta antalet och uppgiften om hur många som visas har tagits bort. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261125-ciprofloxacin-1 -->
 
 ---
 
@@ -133,6 +139,18 @@ Se produktresumén för fullständig säkerhetsinformation om varningar och kont
 - Större kontrollerade studier som bekräftar en antifibrotisk effekt vid diffus sklerodermi
 - Detaljerad verkningsmekanismdata för ciprofloxacin
 - Säkerhetsbedömning utifrån produktresumén, särskilt avseende senskador, neuropati och QT-förlängning hos patienter med sklerodermi
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-25 | Rättat: antal godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

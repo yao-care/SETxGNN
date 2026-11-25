@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 165
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "enzalutamide"
 predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
-description: "Enzalutamide: predikterad ny indikation Prostate leiomyoma (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 10 (giltiga: 10)"
+description: "Enzalutamide: predikterad ny indikation Prostate leiomyoma (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 18 (giltiga: 18)"
 ---
 
 # Enzalutamide
@@ -52,8 +52,8 @@ Enzalutamid är en androgenreceptorhämmare som ursprungligen används vid **pro
 | Förutsagd ny indikation | Prostate leiomyoma |
 | TxGNN-förutsägelsepoäng | 0.9957 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
-| Antal godkännanden | 10 (giltiga: 10) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 18 av 18) |
+| Antal godkännanden | 18 (giltiga: 18) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -100,7 +100,7 @@ De fem första visas nedan. Alla är filmdragerade tabletter, och indikationstex
 | 68138 | Enzalutamide Zentiva | Filmdragerad tablett | Zentiva k.s. | Godkänd |
 | 64920 | Enzalutamide STADA | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
 
-Tabellen visar 5 av 10 godkännanden i uppgifterna.
+Tabellen visar 5 av 18 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

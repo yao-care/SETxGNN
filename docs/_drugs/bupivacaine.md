@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "bupivacaine"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
-last_modified_at: 2026-11-24
-description: "Bupivacaine: predikterad ny indikation Acrodermatitis chronica atrophicans (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 15 (giltiga: 15)"
+last_modified_at: 2026-11-25
+description: "Bupivacaine: predikterad ny indikation Acrodermatitis chronica atrophicans (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 17 (giltiga: 17)"
 ---
 
 # Bupivacaine
@@ -52,8 +52,8 @@ Bupivakain är ett lokalbedövningsmedel av amidtyp som finns i flera injektions
 | Förutsagd ny indikation | Acrodermatitis chronica atrophicans (acrodermatitis chronica atrophicans) |
 | TxGNN-förutsägelsepoäng | 0,9923 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 15 av 15) |
-| Antal godkännanden | 15 (giltiga: 15) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 17 av 17) |
+| Antal godkännanden | 17 (giltiga: 17) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -100,7 +100,7 @@ Läkemedlet har registrerade godkännanden i beredningsformen injektionsvätska,
 | 8613 | Marcain | Injektionsvätska, lösning | Aspen Pharma Trading Limited | Godkänd |
 | 10255 | Marcain spinal | Injektionsvätska, lösning | Aspen Pharma Trading Limited | Godkänd |
 
-Tabellen visar 5 av 15 godkännanden i uppgifterna.
+Tabellen visar 5 av 17 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

@@ -5,7 +5,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 410
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "tamsulosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine with brainstem aura"]
 description: "Tamsulosin: predikterad ny indikation Ambras typ av hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) (evidensnivå L5). Ursprunglig indikation: Inte angiven i de…"
@@ -52,8 +52,8 @@ Tamsulosin användes ursprungligen för att behandla symtom vid **benign prostat
 | Förutsagd ny indikation | Ambras typ av hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) |
 | TxGNN-förutsägelsepoäng | 1.0000 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
-| Antal godkännanden | 2 (giltiga: 2) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 3 av 3) |
+| Antal godkännanden | 3 (giltiga: 3) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -95,6 +95,8 @@ Bland de lägre rankade förutsägelserna finns viss litteratur för *alopeci* (
 |------|------|------|------|------|
 | 53766 | Tamicten | Kapsel med modifierad frisättning, hård | Avansor Pharma Oy | Godkänd |
 | 49635 | Urizia | Tablett med modifierad frisättning | Astellas Pharma A/S | Godkänd |
+
+Tabellen visar 2 av 3 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

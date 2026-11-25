@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "alfacalcidol"
 predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
-last_modified_at: 2026-11-24
-description: "Alfacalcidol: predikterad ny indikation Kraniofacial konodysplasi (craniofacial conodysplasia) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 7)"
+last_modified_at: 2026-11-25
+description: "Alfacalcidol: predikterad ny indikation Kraniofacial konodysplasi (craniofacial conodysplasia) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 10 (giltiga: 10)"
 ---
 
 # Alfacalcidol
@@ -52,8 +52,8 @@ Alfacalcidol är en aktiv D-vitaminanalog (1-alfa-hydroxikolekalciferol) som anv
 | Förutsagd ny indikation | Kraniofacial konodysplasi (craniofacial conodysplasia) |
 | TxGNN-förutsägelsepoäng | 0,9955 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
-| Antal godkännanden | 7 (giltiga: 7) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
+| Antal godkännanden | 10 (giltiga: 10) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -92,13 +92,19 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 | 59110 | Alfacalcidol Strides | Kapsel, mjuk | Strides Nordic ApS | Godkänd |
 | 11367 | Etalpha | Injektionsvätska, lösning | Cheplapharm Arzneimittel GmbH | Godkänd |
 
-Tabellen visar 5 av 7 godkännanden i uppgifterna.
+Tabellen visar 5 av 10 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
 <!-- licenses:end -->
 
-Alla sju godkännanden är giltiga och avser enkomponentsprodukter.
+Alla godkännanden är giltiga och avser enkomponentsprodukter.
+
+<!-- review:begin se-lic-20261125-alfacalcidol-1 -->
+
+> **Granskningsrättelse (2026-11-25)**: Ursprungligen stod det: ”Alla sju godkännanden är giltiga och avser enkomponentsprodukter.” Antalet godkännanden stämmer inte längre: Läkemedelsverkets aktuella förteckning innehåller fler godkännanden för alfakalcidol (bland annat Alfastrin), alla med registreringsstatus Godkänd. Det fasta antalet har tagits bort; övrig text är oförändrad. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261125-alfacalcidol-1 -->
 
 ---
 
@@ -120,6 +126,19 @@ Se produktresumén för säkerhetsinformation.
 - Komplettering av data om verkningsmekanism
 - Säkerhetsinformation från produktresumén (varningar och kontraindikationer)
 - Fallbeskrivningar eller observationsdata för den förutsagda indikationen innan kliniska studier planeras
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-25 | Rättat: antal godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

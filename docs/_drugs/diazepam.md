@@ -5,10 +5,10 @@ parent: Hög evidens (L1-L2)
 nav_order: 138
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "DIAZEPAM"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "antidepressant type abuse", "barbiturate abuse", "hallucinogen abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
-description: "Diazepam: predikterad ny indikation Sömnlöshet (insomnia (disease)) (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 12 (giltiga: 12)"
+description: "Diazepam: predikterad ny indikation Sömnlöshet (insomnia (disease)) (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 13 (giltiga: 13)"
 ---
 
 # Diazepam
@@ -52,8 +52,8 @@ Diazepam är en bensodiazepin som verkar genom att förstärka GABA-A-receptorns
 | Förutsagd ny indikation | Sömnlöshet (insomnia (disease)) |
 | TxGNN-förutsägelsepoäng | 1.0000 |
 | Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 12 av 12) |
-| Antal godkännanden | 12 (giltiga: 12) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 13 av 13) |
+| Antal godkännanden | 13 (giltiga: 13) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -91,7 +91,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 
 ### Marknadsinformation Sverige
 
-Diazepam är marknadsfört i Sverige. Alla 12 godkännanden är giltiga. Beredningsformerna är tablett och rektallösning.
+Diazepam är marknadsfört i Sverige. Alla 13 godkännanden är giltiga. Beredningsformerna är tablett och rektallösning.
 
 <!-- licenses:begin -->
 
@@ -103,7 +103,7 @@ Diazepam är marknadsfört i Sverige. Alla 12 godkännanden är giltiga. Beredni
 | 8012 | Stesolid | Tablett | Actavis Group PTC ehf. | Godkänd |
 | 8013 | Stesolid | Tablett | Actavis Group PTC ehf. | Godkänd |
 
-Tabellen visar 5 av 12 godkännanden i uppgifterna.
+Tabellen visar 5 av 13 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

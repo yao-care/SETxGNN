@@ -7,7 +7,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 93
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Beslutet **Avvakta** rekommenderas tills luckorna nedan har åtgärdats.
 | Förutsagd ny indikation | Inga TxGNN-förutsägelser returnerades |
 | TxGNN-förutsägelsepoäng | — |
 | Evidensnivå | L5 (endast modellprediktion — inga förutsägelser tillgängliga) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
-| Antal godkännanden | 5 (giltiga: 5) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
+| Antal godkännanden | 9 (giltiga: 9) |
 | Rekommenderat beslut | **Avvakta** |
 
 ---

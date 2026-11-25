@@ -12,20 +12,20 @@
  "public_pages": 459,
  "licence_snapshot": "se_licenses.json.gz",
  "licence": {
-  "drugs_with_data": 366,
-  "drugs_with_current": 364,
+  "drugs_with_data": 362,
+  "drugs_with_current": 360,
   "drugs_none_current": 2,
-  "drugs_without_data": 93,
+  "drugs_without_data": 97,
   "drugs_partial": 0,
-  "items_total": 2205,
-  "items_current": 2177
+  "items_total": 2276,
+  "items_current": 2248
  },
  "reviews": {
-  "records": 713,
-  "pages": 321,
-  "public_pages_with_records": 318,
+  "records": 720,
+  "pages": 327,
+  "public_pages_with_records": 324,
   "by_action": {
-   "correct": 654,
+   "correct": 661,
    "mechanism": 59
   }
  },
@@ -80,13 +80,13 @@
    "i": "brachydactyly-syndactyly syndrome"
   },
   {
-   "t": "Pirfenidone",
-   "u": "/drugs/pirfenidone/",
+   "t": "Vildagliptin",
+   "u": "/drugs/vildagliptin/",
    "l": "L5",
    "lt": 19,
    "lv": 19,
-   "r": 3,
-   "i": "extracutaneous mastocytoma"
+   "r": 1,
+   "i": "Klassiskt stelmanssyndrom"
   },
   {
    "t": "Azithromycin",
@@ -98,13 +98,13 @@
    "i": "Polyklonalt hyperviskositetssyndrom"
   },
   {
-   "t": "Deferasirox",
-   "u": "/drugs/deferasirox/",
-   "l": "L4",
+   "t": "Enzalutamide",
+   "u": "/drugs/enzalutamide/",
+   "l": "L5",
    "lt": 18,
    "lv": 18,
-   "r": 2,
-   "i": "HIV infectious disease"
+   "r": 1,
+   "i": "prostate leiomyoma"
   }
  ],
  "no_current": [
@@ -169,8 +169,8 @@
    "t": "Empagliflozin",
    "u": "/drugs/empagliflozin/",
    "l": "L5",
-   "lt": 6,
-   "lv": 6,
+   "lt": 16,
+   "lv": 16,
    "r": 4,
    "i": "Fokalt stelbensyndrom"
   },
@@ -194,6 +194,48 @@
   "i": "Ångestsyndrom"
  },
  "recent_reviews": [
+  {
+   "t": "Temozolomide",
+   "u": "/drugs/temozolomide/",
+   "s": "Rättat: antal godkännanden och innehavare",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Olopatadine",
+   "u": "/drugs/olopatadine/",
+   "s": "Rättat: antal godkännanden",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Lenvatinib",
+   "u": "/drugs/lenvatinib/",
+   "s": "Rättat: antal godkännanden",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Clonidine",
+   "u": "/drugs/clonidine/",
+   "s": "Rättat: beredningsform",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Ciprofloxacin",
+   "u": "/drugs/ciprofloxacin/",
+   "s": "Rättat: antal godkännanden",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Anastrozol",
+   "u": "/drugs/anastrozol/",
+   "s": "Rättat: antal godkännanden",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Alfacalcidol",
+   "u": "/drugs/alfacalcidol/",
+   "s": "Rättat: antal godkännanden",
+   "d": "2026-11-25"
+  },
   {
    "t": "Ramipril",
    "u": "/drugs/ramipril/",
@@ -295,96 +337,54 @@
    "u": "/drugs/propafenone/",
    "s": "Rättat: förslagets premiss om indragna godkännanden",
    "d": "2026-11-24"
-  },
-  {
-   "t": "Prednicarbate",
-   "u": "/drugs/prednicarbate/",
-   "s": "Rättat: förslagets premiss om indragna godkännanden",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Povidone",
-   "u": "/drugs/povidone/",
-   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Pimecrolimus",
-   "u": "/drugs/pimecrolimus/",
-   "s": "Rättat: förslagets premiss om indragna godkännanden",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Penciclovir",
-   "u": "/drugs/penciclovir/",
-   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Parecoxib",
-   "u": "/drugs/parecoxib/",
-   "s": "Rättat: förslagets premiss om indragna godkännanden",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Oxybutynin",
-   "u": "/drugs/oxybutynin/",
-   "s": "Rättat: förslagets premiss om indragna godkännanden",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Olanzapine",
-   "u": "/drugs/olanzapine/",
-   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
-   "d": "2026-11-24"
   }
  ],
  "recent_licence_reviews": [
   {
+   "t": "Temozolomide",
+   "u": "/drugs/temozolomide/",
+   "s": "Rättat: antal godkännanden och innehavare",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Olopatadine",
+   "u": "/drugs/olopatadine/",
+   "s": "Rättat: antal godkännanden",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Lenvatinib",
+   "u": "/drugs/lenvatinib/",
+   "s": "Rättat: antal godkännanden",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Clonidine",
+   "u": "/drugs/clonidine/",
+   "s": "Rättat: beredningsform",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Ciprofloxacin",
+   "u": "/drugs/ciprofloxacin/",
+   "s": "Rättat: antal godkännanden",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Anastrozol",
+   "u": "/drugs/anastrozol/",
+   "s": "Rättat: antal godkännanden",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Alfacalcidol",
+   "u": "/drugs/alfacalcidol/",
+   "s": "Rättat: antal godkännanden",
+   "d": "2026-11-25"
+  },
+  {
    "t": "Ramipril",
    "u": "/drugs/ramipril/",
-   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Propofol",
-   "u": "/drugs/propofol/",
-   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Zidovudine",
-   "u": "/drugs/zidovudine/",
-   "s": "Borttaget: punkt om indragna godkännanden",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Xylometazoline",
-   "u": "/drugs/xylometazoline/",
-   "s": "Rättat: förslagets premiss om indragna godkännanden",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Vildagliptin",
-   "u": "/drugs/vildagliptin/",
-   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Urofollitropin",
-   "u": "/drugs/urofollitropin/",
-   "s": "Rättat: godkännandena är inte indragna/ogiltiga",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Tretinoin",
-   "u": "/drugs/tretinoin/",
-   "s": "Rättat: godkännandena beskrevs som tidigare",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Tetracaine",
-   "u": "/drugs/tetracaine/",
    "s": "Rättat: godkännandena är inte indragna/ogiltiga",
    "d": "2026-11-24"
   }

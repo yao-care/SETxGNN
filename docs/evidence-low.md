@@ -3,7 +3,7 @@ layout: default
 title: Endast modellprediktion (L5)
 nav_order: 23
 permalink: /evidence-low/
-description: "368 läkemedel på evidensnivå L5 på webbplatsen (Sverige), t.ex. Aripiprazol, Baclofen, Buprenorphine, med viktigaste predikterade indikation, godkännanden från Läkemedelsverket och granskningslogg för vart och ett."
+description: "368 läkemedel på evidensnivå L5 på webbplatsen (Sverige), t.ex. Ambrisentan, Aripiprazol, Baclofen, med viktigaste predikterade indikation, godkännanden från Läkemedelsverket och granskningslogg för vart och ett."
 ---
 
 # Endast modellprediktion (L5)

@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 354
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "pirfenidone"
 predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protuberans", "aggressive systemic mastocytosis", "heart fibrosarcoma", "conventional fibrosarcoma", "autosomal recessive familial Mediterranean fever", "kidney fibrosarcoma", "hepatic infarction", "fibroblastic neoplasm", "low grade fibromyxoid sarcoma"]
-description: "Pirfenidone: predikterad ny indikation Extracutaneous mastocytoma (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 19 (giltiga: 19)"
+description: "Pirfenidone: predikterad ny indikation Extracutaneous mastocytoma (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Pirfenidone
@@ -54,8 +54,8 @@ Den förutsägelse som rankas högst av modellen är extrakutant mastocytom (99,
 | Förutsagd ny indikation | Extracutaneous mastocytoma |
 | TxGNN-förutsägelsepoäng | 0.9971 |
 | Evidensnivå | L5 (fibroblastneoplasm); L5 för övriga förutsagda indikationer |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 19 av 19) |
-| Antal godkännanden | 19 (giltiga: 19) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -109,7 +109,7 @@ Godkänd indikationstext finns inte angiven i de sammanställda uppgifterna. Sam
 | 61840 | Pirfenidon Teva | Filmdragerad tablett | TEVA GmbH | Godkänd |
 | 66722 | Pirfenidon Zentiva | Filmdragerad tablett | Zentiva k.s. | Godkänd |
 
-Tabellen visar 5 av 19 godkännanden i uppgifterna.
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

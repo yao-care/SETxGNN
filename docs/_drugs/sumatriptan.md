@@ -5,7 +5,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 406
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Sumatriptan: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ Alla kandidater som TxGNN-modellen (poäng ≥ 0,99) har tagit fram för Sumatri
 | Nya predikterade indikationer | Inga (alla spårbara modellkandidater är kända användningar) |
 | Kända användningar bland modellens kandidater | 1 |
 | Evidensnivå | Ej tillämplig |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
-| Antal godkännanden | 4 (giltiga: 4) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 
 ## Kända användningar bland modellens kandidater
 
@@ -80,6 +80,8 @@ Alla kandidater som TxGNN-modellen (poäng ≥ 0,99) har tagit fram för Sumatri
 | 58763 | Imigran | Nässpray, lösning | 2care4 ApS | Godkänd |
 | 49348 | Imigran | Nässpray, lösning | 2care4 ApS | Godkänd |
 | 13219 | Imigran | Nässpray, lösning | GlaxoSmithKline AB | Godkänd |
+
+Tabellen visar 4 av 6 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

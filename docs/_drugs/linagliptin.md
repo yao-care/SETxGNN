@@ -7,7 +7,7 @@ parent: Endast modellprediktion (L5)
 nav_order: 81
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-25
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Linagliptin (DB08882) är en väletablerad DPP-4-hämmare som ursprungligen godk
 | Förutsagd ny indikation | Ingen identifierad (predicted_indications: tom) |
 | TxGNN-förutsägelsepoäng | Ej tillämpligt |
 | Evidensnivå | L5 — endast modellprediktion; inget resultat returnerades |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 13 av 13) |
-| Antal godkännanden | 13 (giltiga: 13) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 14 av 14) |
+| Antal godkännanden | 14 (giltiga: 14) |
 | Rekommenderat beslut | **Avvakta** |
 
 ---

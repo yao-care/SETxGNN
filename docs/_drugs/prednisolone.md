@@ -5,10 +5,10 @@ parent: Hög evidens (L1-L2)
 nav_order: 362
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "prednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
-description: "Prednisolone: predikterad ny indikation Alopecia areata (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 11 (giltiga: 11)"
+description: "Prednisolone: predikterad ny indikation Alopecia areata (evidensnivå L2). I Sverige, godkännanden (Läkemedelsverket): 16 (giltiga: 16)"
 ---
 
 # Prednisolone
@@ -52,8 +52,8 @@ Prednisolon är ett glukokortikoid som ursprungligen används vid bland annat au
 | Förutsagd ny indikation | Alopecia areata |
 | TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L2 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 11 av 11) |
-| Antal godkännanden | 11 (giltiga: 11) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 16 av 16) |
+| Antal godkännanden | 16 (giltiga: 16) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -111,7 +111,7 @@ Godkänd indikationstext finns inte i registret.
 | 8822 | Prednisolon Pfizer | Tablett | Pfizer AB | Godkänd |
 | 52713 | Prednisolon Actavis | Tablett | Actavis Group PTC ehf. | Godkänd |
 
-Tabellen visar 5 av 11 godkännanden i uppgifterna.
+Tabellen visar 5 av 16 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

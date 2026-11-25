@@ -5,10 +5,10 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 129
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "DEFERASIROX"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
-description: "Deferasirox: predikterad ny indikation HIV infectious disease (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 18 (giltiga: 18)"
+description: "Deferasirox: predikterad ny indikation HIV infectious disease (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Deferasirox
@@ -52,8 +52,8 @@ Deferasirox är ett järnkelerande läkemedel som i den data som sammanställts 
 | Förutsagd ny indikation | HIV infectious disease |
 | TxGNN-förutsägelsepoäng | 0.9940 |
 | Evidensnivå | L4 (endast preklinisk/mekanistisk evidens) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 18 av 18) |
-| Antal godkännanden | 18 (giltiga: 18) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -103,7 +103,7 @@ Indikationstext saknas i data. Nedan visas fem av dem.
 | 60206 | Deferasirox Sandoz | Filmdragerad tablett | Sandoz A/S | Godkänd |
 | 55330 | Deferasirox Teva | Dispergerbar tablett | Teva Sweden AB | Godkänd |
 
-Tabellen visar 5 av 18 godkännanden i uppgifterna.
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

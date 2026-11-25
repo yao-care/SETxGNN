@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 434
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "tranylcypromine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "Ohdo syndrome and variants", "agoraphobia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "ligneous conjunctivitis", "Keppen-Lubinsky syndrome"]
-description: "Tranylcypromine: predikterad ny indikation Benign paroxysmal torticollis of infancy (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
+description: "Tranylcypromine: predikterad ny indikation Benign paroxysmal torticollis of infancy (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 10 (giltiga: 10)"
 ---
 
 # Tranylcypromine
@@ -54,8 +54,8 @@ Bland de tio högst rankade förutsägelserna har främst **melankoli**, **neuro
 | Förutsagd ny indikation | Benign paroxysmal torticollis of infancy |
 | TxGNN-förutsägelsepoäng | 0.9967 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
-| Antal godkännanden | 6 (giltiga: 6) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
+| Antal godkännanden | 10 (giltiga: 10) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -111,7 +111,7 @@ För de närliggande förutsägelserna finns följande urval av relevant littera
 | 64732 | Tranylcypromine Glenmark | Filmdragerad tablett | Ebb Medical AB | Godkänd |
 | 61456 | Abbonate | Filmdragerad tablett | Abboxia AB | Godkänd |
 
-Tabellen visar 5 av 6 godkännanden i uppgifterna.
+Tabellen visar 5 av 10 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

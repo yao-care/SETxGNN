@@ -21,10 +21,10 @@ Evidensnivåerna går från L1 (starkare klinisk evidens) till L5 (endast modell
 
 - `/` Prediktioner för Läkemedelsrepositionering — Sverige — AI-baserade prediktioner för ny användning av läkemedel i Sverige. Evidensbaserad analys av godkända läkemedel för möjliga nya användningsområden.
 - `/drugs/` Alla läkemedel — Alla valideringsrapporter för läkemedel och statistik över evidensnivåer i SETxGNN.
-- `/evidence-high/` Hög evidens (L1-L2) — Kandidater för läkemedelsrepositionering med L1-L2 i SETxGNN, som stöds av kliniska prövningar eller systematiska översikter.
+- `/evidence-high/` Hög evidens (L1-L2) — 27 läkemedel på evidensnivå L1–L2 på webbplatsen (Sverige), t.ex. Bendamustine, Busulfan, Clomipramine, med viktigaste predikterade indikation, godkännanden från Läkemedelsverket och granskningslogg för vart och ett.
 - `/clinical-trial-evidence/` Läkemedel med prövningsevidens för en ny indikation — Läkemedel i Läkemedelsverkets register vars av TxGNN förutsagda nya indikation har evidens från kliniska prövningar (L1-L2): indikation, nivå, prövningar.
-- `/evidence-medium/` Måttlig evidens (L3-L4) — Kandidater för läkemedelsrepositionering med L3-L4 i SETxGNN, som stöds av observationell eller preklinisk evidens.
-- `/evidence-low/` Endast modellprediktion (L5) — L5-kandidater i SETxGNN: endast modellprediktion, ännu utan klinisk evidens eller litteraturstöd.
+- `/evidence-medium/` Måttlig evidens (L3-L4) — 54 läkemedel på evidensnivå L3–L4 på webbplatsen (Sverige), t.ex. Acitretin, Alprazolam, Calcipotriol, med viktigaste predikterade indikation, godkännanden från Läkemedelsverket och granskningslogg för vart och ett.
+- `/evidence-low/` Endast modellprediktion (L5) — 368 läkemedel på evidensnivå L5 på webbplatsen (Sverige), t.ex. Ambrisentan, Aripiprazol, Baclofen, med viktigaste predikterade indikation, godkännanden från Läkemedelsverket och granskningslogg för vart och ett.
 - `/methodology/` Metodik — Så tar SETxGNN fram och validerar prediktioner: prediktion med TxGNN-modellen (djupinlärning), evidensinsamling, gradering L1-L5 och beslutsrekommendationer.
 - `/guide/` Användarguide — Användarguide för SETxGNN: hur du slår upp läkemedel, läser evidensnivåer och tolkar rekommendationer.
 - `/sources/` Datakällor — Datakällorna bakom SETxGNN: Läkemedelsverkets läkemedelsregister, TxGNN, ClinicalTrials.gov, PubMed och DrugBank.

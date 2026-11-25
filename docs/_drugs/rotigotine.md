@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 388
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "rotigotine"
 predicted_indications: ["attention deficit-hyperactivity disorder", "schizophrenia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "faciodigitogenital syndrome", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "atypical glycine encephalopathy", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited"]
-description: "Rotigotine: predikterad ny indikation Attention deficit-hyperactivity disorder (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
+description: "Rotigotine: predikterad ny indikation Attention deficit-hyperactivity disorder (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 12 (giltiga: 12)"
 ---
 
 # Rotigotine
@@ -52,8 +52,8 @@ Rotigotin är en dopaminagonist i form av depotplåster, som ursprungligen anvä
 | Förutsagd ny indikation | Attention deficit-hyperactivity disorder |
 | TxGNN-förutsägelsepoäng | 1.0000 |
 | Evidensnivå | L5 (endast indirekt litteratur och mekanistiska studier, inga kliniska prövningar) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
-| Antal godkännanden | 6 (giltiga: 6) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 12 av 12) |
+| Antal godkännanden | 12 (giltiga: 12) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -104,7 +104,7 @@ Ingen indikationstext finns registrerad.
 | 66348 | Rotigotine Medical Valley | Depotplåster | Medical Valley Invest AB | Godkänd |
 | 66353 | Rotigotine Medical Valley | Depotplåster | Medical Valley Invest AB | Godkänd |
 
-Tabellen visar 5 av 6 godkännanden i uppgifterna.
+Tabellen visar 5 av 12 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

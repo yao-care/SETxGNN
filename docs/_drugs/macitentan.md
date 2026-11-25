@@ -5,7 +5,7 @@ layout: default
 title: Macitentan
 parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 85
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-25
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,8 +41,8 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 | Post | Innehåll |
 |------|---------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 11 av 11) |
-| Antal godkännanden | 11 (giltiga: 11) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 14 av 14) |
+| Antal godkännanden | 14 (giltiga: 14) |
 
 ---
 

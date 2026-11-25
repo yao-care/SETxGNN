@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 142
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "dimenhydrinate"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
-description: "Dimenhydrinate: predikterad ny indikation Allergic urticaria (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 5 (giltiga: 5)"
+description: "Dimenhydrinate: predikterad ny indikation Allergic urticaria (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
 ---
 
 # Dimenhydrinate
@@ -52,8 +52,8 @@ Dimenhydrinat används ursprungligen mot yrsel av centralnervöst ursprung och �
 | Förutsagd ny indikation | Allergic urticaria |
 | TxGNN-förutsägelsepoäng | 0.9974 |
 | Evidensnivå | L5 (endast prekliniskt/farmakokinetiskt stöd) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
-| Antal godkännanden | 5 (giltiga: 5) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -87,6 +87,8 @@ Där finns dock ingen klinisk eller litterär evidens alls (evidensnivå L5).
 | 54243 | Arlevert | Tablett | Ebb Medical AB | Godkänd |
 | 24919 | Arlevert | Tablett | Hennig Arzneimittel GmbH & Co. KG | Godkänd |
 | 57574 | Azalonum | Tablett | Medochemie Ltd | Godkänd |
+
+Tabellen visar 5 av 6 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

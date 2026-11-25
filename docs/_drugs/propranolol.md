@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 370
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "propranolol"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
-description: "Propranolol: predikterad ny indikation Distal myopathy, Tateyama type (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 9 (giltiga: 9)"
+description: "Propranolol: predikterad ny indikation Distal myopathy, Tateyama type (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 11 (giltiga: 11)"
 ---
 
 # Propranolol
@@ -52,8 +52,8 @@ Propranolol är en icke-selektiv betablockerare som ursprungligen används vid h
 | Förutsagd ny indikation | Distal myopathy, Tateyama type |
 | TxGNN-förutsägelsepoäng | 0.9940 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
-| Antal godkännanden | 9 (giltiga: 9) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 11 av 11) |
+| Antal godkännanden | 11 (giltiga: 11) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -90,7 +90,7 @@ Indikationstext saknas i data.
 | 7724 | Inderal | Filmdragerad tablett | Atnahs Pharma Netherlands B.V. | Godkänd |
 | 48093 | Propranolol Accord | Filmdragerad tablett | Accord Healthcare B.V. | Godkänd |
 
-Tabellen visar 5 av 9 godkännanden i uppgifterna.
+Tabellen visar 5 av 11 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

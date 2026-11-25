@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 295
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "MIGLUSTAT"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
-description: "Miglustat: predikterad ny indikation Autosomal ichthyosis syndrome with fatal disease course (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 1 (giltiga: 1)"
+description: "Miglustat: predikterad ny indikation Autosomal ichthyosis syndrome with fatal disease course (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 2 (giltiga: 2)"
 ---
 
 # Miglustat
@@ -54,8 +54,8 @@ Miglustat är en hämmare av glukosylceramidsyntas som ursprungligen användes v
 | Förutsagd ny indikation | Autosomal ichthyosis syndrome with fatal disease course |
 | TxGNN-förutsägelsepoäng | 0.9983 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 1 av 1) |
-| Antal godkännanden | 1 (giltiga: 1) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 2 av 2) |
+| Antal godkännanden | 2 (giltiga: 2) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -105,6 +105,8 @@ Mekanismen är alltså logisk, och att läkemedlet når hjärnan är en fördel 
 | Godkännandenummer | Produktnamn | Beredningsform | Innehavare | Status |
 |------|------|------|------|------|
 | 49976 | Miglustat Bluefish | Kapsel, hård | Bluefish Pharmaceuticals AB | Godkänd |
+
+Tabellen visar 1 av 2 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

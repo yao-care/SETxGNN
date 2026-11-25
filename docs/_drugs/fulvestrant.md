@@ -5,10 +5,10 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 210
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "FULVESTRANT"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acne (disease)", "brachydactyly-syndactyly syndrome", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-description: "Fulvestrant: predikterad ny indikation HIV infectious disease (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 10 (giltiga: 10)"
+description: "Fulvestrant: predikterad ny indikation HIV infectious disease (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 11 (giltiga: 11)"
 ---
 
 # Fulvestrant
@@ -52,8 +52,8 @@ Fulvestrant är en selektiv östrogenreceptornedbrytare (SERD). Läkemedlets urs
 | Förutsagd ny indikation | HIV infectious disease |
 | TxGNN-förutsägelsepoäng | 0.9991 |
 | Evidensnivå | L4 (prekliniska studier/mekanismstudier) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
-| Antal godkännanden | 10 (giltiga: 10) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 11 av 11) |
+| Antal godkännanden | 11 (giltiga: 11) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -103,7 +103,7 @@ Godkänd indikation saknas i licensdatan.
 | 61183 | Fulvestrant Reddy | Injektionsvätska, lösning i förfylld spruta | Reddy Holding GmbH | Godkänd |
 | 58013 | Fulvestrant Accord | Injektionsvätska, lösning i förfylld spruta | Accord Healthcare B.V. | Godkänd |
 
-Tabellen visar 5 av 10 godkännanden i uppgifterna.
+Tabellen visar 5 av 11 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

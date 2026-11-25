@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 185
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "exemestane"
 predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]
-description: "Exemestane: predikterad ny indikation Antithrombin deficiency type 2 (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 7)"
+description: "Exemestane: predikterad ny indikation Antithrombin deficiency type 2 (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 8 (giltiga: 8)"
 ---
 
 # Exemestane
@@ -56,8 +56,8 @@ TxGNN-modellen förutsäger i första hand **antitrombin-brist typ 2**, men den 
 | Förutsagd ny indikation | Antithrombin deficiency type 2 |
 | TxGNN-förutsägelsepoäng | 0.9983 |
 | Evidensnivå | L5 (amenorré); L5 (antitrombin-brist typ 2) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
-| Antal godkännanden | 7 (giltiga: 7) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
+| Antal godkännanden | 8 (giltiga: 8) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -110,7 +110,7 @@ Ingen indikationstext finns registrerad.
 | 42036 | Exemestane Accord | Filmdragerad tablett | Accord Healthcare B.V. | Godkänd |
 | 42212 | Exemestan Stada | Filmdragerad tablett | STADA Arzneimittel AG | Godkänd |
 
-Tabellen visar 5 av 7 godkännanden i uppgifterna.
+Tabellen visar 5 av 8 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
@@ -158,7 +158,7 @@ Se produktresumén för fullständig information om varningar och kontraindikati
 **För att gå vidare krävs:**
 - Att verkningsmekanismen hämtas från DrugBank för en fullständig mekanistisk analys.
 - Att varningar och kontraindikationer hämtas från produktresumén på MPA:s webbplats, vilket är ett blockerande dataglapp för säkerhetsgranskning.
-- Att ursprunglig godkänd indikation verifieras, eftersom indikationstexten saknas i de sju godkännandena.
+- Att ursprunglig godkänd indikation verifieras, eftersom indikationstexten saknas i de åtta godkännandena.
 - Prekliniska eller kliniska data som visar en faktisk terapeutisk nytta för någon av de förutsagda indikationerna.
 - En separat bedömning av trombosrisk innan någon av de koagulationsrelaterade förutsägelserna (antitrombin-brist, faktor V-överskott, heparinkofaktor 2-brist, trombofili) övervägs.
 - Migrän (rang 6 och 7) är endast hypotesnivå via östrogenfluktuation. Östrogenbortfall är en känd migränutlösare, så effekten kan lika gärna vara försämrande.

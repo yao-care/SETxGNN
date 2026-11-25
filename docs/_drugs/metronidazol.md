@@ -8,8 +8,8 @@ indication_count: 10
 drugbank_id: DB00916
 monitor_inn: "Metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
-last_modified_at: 2026-11-24
-description: "Metronidazol: predikterad ny indikation Pneumocystos (pneumocystosis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 13 (giltiga: 13)"
+last_modified_at: 2026-11-25
+description: "Metronidazol: predikterad ny indikation Pneumocystos (pneumocystosis) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 15 (giltiga: 15)"
 ---
 
 # Metronidazol
@@ -53,8 +53,8 @@ Metronidazol är ett antimikrobiellt läkemedel som används mot anaeroba bakter
 | Förutsagd ny indikation | Pneumocystos (pneumocystosis) |
 | TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 13 av 13) |
-| Antal godkännanden | 13 (giltiga: 13) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 15 av 15) |
+| Antal godkännanden | 15 (giltiga: 15) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -104,7 +104,7 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 | 9539 | Flagyl | Tablett | Fidia Farmaceutici S.p.A. | Godkänd |
 | 13982 | Rozex | Gel | Galderma Nordic AB | Godkänd |
 
-Tabellen visar 5 av 13 godkännanden i uppgifterna.
+Tabellen visar 5 av 15 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

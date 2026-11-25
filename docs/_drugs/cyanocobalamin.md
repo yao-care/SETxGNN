@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "cyanocobalamin"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-11-24
-description: "Cyanocobalamin: predikterad ny indikation Biotinmetabol sjukdom (biotin metabolic disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 13 (giltiga: 13)"
+last_modified_at: 2026-11-25
+description: "Cyanocobalamin: predikterad ny indikation Biotinmetabol sjukdom (biotin metabolic disease) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 14 (giltiga: 14)"
 ---
 
 # Cyanocobalamin
@@ -50,8 +50,8 @@ Cyanocobalamin är en form av vitamin B12 och fungerar som kofaktor för enzymer
 | Förutsagd ny indikation | Biotinmetabol sjukdom (biotin metabolic disease) |
 | TxGNN-förutsägelsepoäng | 0,9960 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 13 av 13) |
-| Antal godkännanden | 13 (giltiga: 13) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 14 av 14) |
+| Antal godkännanden | 14 (giltiga: 14) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -100,7 +100,7 @@ Enligt de lokala uppgifterna finns godkännanden registrerade för cyanocobalami
 | 14650 | Betolvidon | Tablett | Circius Pharma AB | Godkänd |
 | 67584 | Cyanocobalamin Farmacia | Filmdragerad tablett | Farmacia Nordic AB | Godkänd |
 
-Tabellen visar 5 av 13 godkännanden i uppgifterna.
+Tabellen visar 5 av 14 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 326
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "olopatadine"
 predicted_indications: ["rosacea conjunctivitis"]
-description: "Olopatadine: predikterad ny indikation Rosacea conjunctivitis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 7)"
+description: "Olopatadine: predikterad ny indikation Rosacea conjunctivitis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 10 (giltiga: 10)"
 ---
 
 # Olopatadine
@@ -52,8 +52,8 @@ Olopatadin är en antihistamin som ursprungligen används mot allergisk rinit, v
 | Förutsägd ny indikation | Rosacea conjunctivitis |
 | TxGNN-förutsägelsepoäng | 0.9941 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
-| Antal godkännanden | 7 (giltiga: 7) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
+| Antal godkännanden | 10 (giltiga: 10) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -80,13 +80,19 @@ Det är viktigt att poängen på 0,9941 är en beräkningsbaserad förutsägelse
 | 64821 | Optamont | Ögondroppar, lösning | Blumont Ofta Trading Ltd | Godkänd |
 | 60226 | Ryaltris | Nässpray, suspension | Glenmark Pharmaceuticals s.r.o. | Godkänd |
 
-Tabellen visar 5 av 7 godkännanden i uppgifterna.
+Tabellen visar 5 av 10 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
 <!-- licenses:end -->
 
-Samtliga sju godkännanden är giltiga; två till (65953 och 68475) finns utöver de fem som visas ovan. Läkemedlet är marknadsfört.
+Samtliga godkännanden är giltiga. Läkemedlet är marknadsfört.
+
+<!-- review:begin se-lic-20261125-olopatadine-1 -->
+
+> **Granskningsrättelse (2026-11-25)**: Ursprungligen stod det: ”Samtliga sju godkännanden är giltiga; två till (65953 och 68475) finns utöver de fem som visas ovan.” Antalet godkännanden stämmer inte längre: Läkemedelsverkets aktuella förteckning innehåller fler ögondroppar med olopatadin (Olopatadine Sandoz, Olpalan, Olopatadin Evolan), alla med registreringsstatus Godkänd. Det fasta antalet och uppräkningen av godkännanden utanför tabellen har tagits bort. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261125-olopatadine-1 -->
 
 ---
 
@@ -135,6 +141,7 @@ Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats m
 |------|------|------|------|
 | 2026-11-06 | Borttaget: ”Dessutom är alla svenska godkännanden indragna och säkerhetsunderlaget från produktresumén saknas” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
 | 2026-11-06 | Borttaget: ”eftersom alla svenska godkännanden är indragna och administrationsvägens förenlighet inte är bedömd” | Rättad (reviderad 2026-11-24; tidigare version sparad i posten) | [Läkemedelsverket – export av godkända läkemedel](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv); [Läkemedelsverket](https://www.lakemedelsverket.se/) |
+| 2026-11-25 | Rättat: antal godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
 
 <!-- review:end log -->
 

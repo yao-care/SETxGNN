@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 384
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "rivastigmine"
 predicted_indications: ["glaucoma"]
-description: "Rivastigmine: predikterad ny indikation Glaucoma (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 18 (giltiga: 18)"
+description: "Rivastigmine: predikterad ny indikation Glaucoma (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): minst 20"
 ---
 
 # Rivastigmine
@@ -52,8 +52,8 @@ Rivastigmin är en kolinesterashämmare som ursprungligen används vid Alzheimer
 | Förutsagd ny indikation | Glaucoma |
 | TxGNN-förutsägelsepoäng | 0.9927 |
 | Evidensnivå | L5 (endast prekliniska studier och mekanismstudier) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 18 av 18) |
-| Antal godkännanden | 18 (giltiga: 18) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Antal godkännanden | minst 20 |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -98,7 +98,7 @@ De fem första visas nedan. Indikationstext saknas i registret.
 | 61635 | Rivastigmin STADA Arzneimittel | Depotplåster | STADA Arzneimittel AG | Godkänd |
 | 46274 | Rivastor | Depotplåster | Orion Corporation | Godkänd |
 
-Tabellen visar 5 av 18 godkännanden i uppgifterna.
+Tabellen visar 5 av minst 20 godkännanden; uppgifterna innehåller bara en del av godkännandena, så listan kan vara ofullständig.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

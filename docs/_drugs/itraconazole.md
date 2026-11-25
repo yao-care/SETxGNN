@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 240
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "itraconazole"
 predicted_indications: ["pneumocystosis"]
-description: "Itraconazole: predikterad ny indikation Pneumocystosis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
+description: "Itraconazole: predikterad ny indikation Pneumocystosis (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
 ---
 
 # Itraconazole
@@ -52,8 +52,8 @@ Itrakonazol är ett azolbaserat svampmedel som ursprungligen används mot system
 | Förutsagd ny indikation | Pneumocystosis |
 | TxGNN-förutsägelsepoäng | 0.9934 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
-| Antal godkännanden | 4 (giltiga: 4) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -105,6 +105,8 @@ Ingen indikationstext finns registrerad.
 | 22401 | Itrakonazol STADA | Kapsel, hård | STADA Arzneimittel AG | Godkänd |
 | 20352 | Itrakonazol Actavis | Kapsel, hård | Actavis Group PTC ehf. | Godkänd |
 | 58432 | Itrakonazol Ebb | Kapsel, hård | Ebb Medical AB | Godkänd |
+
+Tabellen visar 4 av 6 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

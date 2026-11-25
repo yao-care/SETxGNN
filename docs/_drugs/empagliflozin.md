@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 160
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "EMPAGLIFLOZIN"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
-description: "Empagliflozin: predikterad ny indikation Fokalt stelbensyndrom (focal stiff limb syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
+description: "Empagliflozin: predikterad ny indikation Fokalt stelbensyndrom (focal stiff limb syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 16 (giltiga: 16)"
 ---
 
 # Empagliflozin
@@ -52,8 +52,8 @@ Empagliflozin ursprungligen användes för att behandla **typ 2-diabetes mellitu
 | Förutsagd ny indikation | Fokalt stelbensyndrom (focal stiff limb syndrome) |
 | TxGNN-förutsägelsepoäng | 0.9906 |
 | Evidensnivå | L5 (endast modellförutsägelse) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
-| Antal godkännanden | 6 (giltiga: 6) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 16 av 16) |
+| Antal godkännanden | 16 (giltiga: 16) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -82,7 +82,7 @@ Andra förutsagda indikationer i modellen är klassiskt stelbensyndrom och opsis
 | 65282 | Hynica | Filmdragerad tablett | Adalvo Limited | Godkänd |
 | 66346 | Empagliflozin Devatis | Filmdragerad tablett | Devatis GmbH | Godkänd |
 
-Tabellen visar 5 av 6 godkännanden i uppgifterna.
+Tabellen visar 5 av 16 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

@@ -28222,6 +28222,146 @@
    ],
    "checked": "2026-11-24",
    "method": "2026-11-24 第三輪：母 repo checker 加 sv 否定句型（saknas／inga aktiva godkännanden、godkännandena dragits in 等）後全量重掃找到，對照證據包與快照事實層"
+  },
+  {
+   "id": "se-lic-20261125-alfacalcidol-1",
+   "drug": "alfacalcidol",
+   "file": "alfacalcidol.md",
+   "action": "correct",
+   "claim": "Alla sju godkännanden är giltiga och avser enkomponentsprodukter.",
+   "replacement": "Alla godkännanden är giltiga och avser enkomponentsprodukter.",
+   "summary": "Rättat: antal godkännanden",
+   "note": "Antalet godkännanden stämmer inte längre: Läkemedelsverkets aktuella förteckning innehåller fler godkännanden för alfakalcidol (bland annat Alfastrin), alla med registreringsstatus Godkänd. Det fasta antalet har tagits bort; övrig text är oförändrad. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "補收 Alfastrin 67465–67467 後 10 張、全部 Godkänd、全部單方；正文寫「Alla sju」",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "method": "2026-11-25 第六輪：依原收集規則補收 Läkemedelsverket 現行清單的新 MT 號（scripts/add_current_licences.py）後，改到的頁全量寬偵測、逐句對照證據包全部紀錄（用戶 2026-11-25 決定）"
+  },
+  {
+   "id": "se-lic-20261125-anastrozol-1",
+   "drug": "anastrozol",
+   "file": "anastrozol.md",
+   "action": "correct",
+   "claim": "Alla 8 godkännanden är giltiga och avser enkomponentsprodukter i beredningsformen filmdragerad tablett (oral användning). Tabellen visar de 5 första av de 8 godkännandena.",
+   "replacement": "Alla godkännanden är giltiga och avser enkomponentsprodukter i beredningsformen filmdragerad tablett (oral användning).",
+   "summary": "Rättat: antal godkännanden",
+   "note": "Antalet godkännanden stämmer inte längre: Läkemedelsverkets aktuella förteckning innehåller ytterligare ett godkännande (Anastrozole Amarox, filmdragerad tablett, Godkänd). Det fasta antalet och meningen om tabellens rader har tagits bort; tabellen anger själv hur många rader som visas. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "補收 68419 後 9 張、全部 Godkänd、全部單方膜衣錠；正文寫「Alla 8」「de 5 första av de 8」",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "method": "2026-11-25 第六輪：依原收集規則補收 Läkemedelsverket 現行清單的新 MT 號（scripts/add_current_licences.py）後，改到的頁全量寬偵測、逐句對照證據包全部紀錄（用戶 2026-11-25 決定）"
+  },
+  {
+   "id": "se-lic-20261125-ciprofloxacin-1",
+   "drug": "ciprofloxacin",
+   "file": "ciprofloxacin.md",
+   "action": "correct",
+   "claim": "Samtliga sex godkännanden i underlaget är giltiga; fem av dem visas ovan.",
+   "replacement": "Samtliga godkännanden i underlaget är giltiga.",
+   "summary": "Rättat: antal godkännanden",
+   "note": "Antalet godkännanden stämmer inte längre: Läkemedelsverkets aktuella förteckning innehåller ytterligare ett godkännande (Ciprofloxacin Noridem, infusionsvätska, Godkänd). Det fasta antalet och uppgiften om hur många som visas har tagits bort. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "補收 68104 後 7 張、全部 Godkänd；正文寫「Samtliga sex」「fem av dem visas ovan」",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "method": "2026-11-25 第六輪：依原收集規則補收 Läkemedelsverket 現行清單的新 MT 號（scripts/add_current_licences.py）後，改到的頁全量寬偵測、逐句對照證據包全部紀錄（用戶 2026-11-25 決定）"
+  },
+  {
+   "id": "se-lic-20261125-clonidine-1",
+   "drug": "clonidine",
+   "file": "clonidine.md",
+   "action": "correct",
+   "claim": "Alla registrerade produkter är injektionsvätska, lösning.",
+   "replacement": "Bland de registrerade produkterna finns injektionsvätska, lösning, och tabletter.",
+   "summary": "Rättat: beredningsform",
+   "note": "Uppgiften att alla produkter är injektionsvätska stämmer inte längre: Läkemedelsverkets aktuella förteckning innehåller även klonidin som tablett och filmdragerad tablett (Vempadix, Clopressan). Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "補收 66966 Vempadix（Tablett）、69878 Clopressan（Filmdragerad tablett）後 12 張；正文寫全部是注射液",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "method": "2026-11-25 第六輪：依原收集規則補收 Läkemedelsverket 現行清單的新 MT 號（scripts/add_current_licences.py）後，改到的頁全量寬偵測、逐句對照證據包全部紀錄（用戶 2026-11-25 決定）"
+  },
+  {
+   "id": "se-lic-20261125-lenvatinib-1",
+   "drug": "lenvatinib",
+   "file": "lenvatinib.md",
+   "action": "correct",
+   "claim": "Totalt finns 10 godkännanden i Sverige, alla giltiga; här visas de fem första.",
+   "replacement": "Alla godkännanden i Sverige är giltiga.",
+   "summary": "Rättat: antal godkännanden",
+   "note": "Antalet godkännanden stämmer inte längre: Läkemedelsverkets aktuella förteckning innehåller fler godkännanden för lenvatinib (Lenvatinib Viatris, Lenvatinib Mylan), alla med registreringsstatus Godkänd. Det fasta antalet och uppgiften om hur många som visas har tagits bort. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "補收 69295、69296、69432、69433 後 14 張、全部 Godkänd；正文寫「Totalt finns 10」",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "method": "2026-11-25 第六輪：依原收集規則補收 Läkemedelsverket 現行清單的新 MT 號（scripts/add_current_licences.py）後，改到的頁全量寬偵測、逐句對照證據包全部紀錄（用戶 2026-11-25 決定）"
+  },
+  {
+   "id": "se-lic-20261125-olopatadine-1",
+   "drug": "olopatadine",
+   "file": "olopatadine.md",
+   "action": "correct",
+   "claim": "Samtliga sju godkännanden är giltiga; två till (65953 och 68475) finns utöver de fem som visas ovan.",
+   "replacement": "Samtliga godkännanden är giltiga.",
+   "summary": "Rättat: antal godkännanden",
+   "note": "Antalet godkännanden stämmer inte längre: Läkemedelsverkets aktuella förteckning innehåller fler ögondroppar med olopatadin (Olopatadine Sandoz, Olpalan, Olopatadin Evolan), alla med registreringsstatus Godkänd. Det fasta antalet och uppräkningen av godkännanden utanför tabellen har tagits bort. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "補收 67172、67317、68275 後 10 張、全部 Godkänd；正文寫「Samtliga sju」「två till … utöver de fem」",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "method": "2026-11-25 第六輪：依原收集規則補收 Läkemedelsverket 現行清單的新 MT 號（scripts/add_current_licences.py）後，改到的頁全量寬偵測、逐句對照證據包全部紀錄（用戶 2026-11-25 決定）"
+  },
+  {
+   "id": "se-lic-20261125-temozolomide-1",
+   "drug": "temozolomide",
+   "file": "temozolomide.md",
+   "action": "correct",
+   "claim": "Alla fem godkännandena avser enkomponentsprodukter från STADA Arzneimittel AG.",
+   "replacement": "Alla godkännanden avser enkomponentsprodukter.",
+   "summary": "Rättat: antal godkännanden och innehavare",
+   "note": "Uppgiften stämmer inte längre: Läkemedelsverkets aktuella förteckning innehåller även temozolomid från PGF Pharma International (hårda kapslar, Godkänd). Det fasta antalet och uppgiften att alla godkännanden har samma innehavare har tagits bort. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige.",
+   "finding": "補收 67999–68004 Temozolomide PGF Pharma 後 11 張、全部單方；正文寫「Alla fem … från STADA」",
+   "sources": [
+    {
+     "title": "Läkemedelsverket – export av godkända läkemedel (registreringsstatus)",
+     "url": "https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "method": "2026-11-25 第六輪：依原收集規則補收 Läkemedelsverket 現行清單的新 MT 號（scripts/add_current_licences.py）後，改到的頁全量寬偵測、逐句對照證據包全部紀錄（用戶 2026-11-25 決定）"
   }
  ]
 }

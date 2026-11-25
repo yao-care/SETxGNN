@@ -120,3 +120,20 @@ gate（licenses.py 的 page_problems 第 5 項）擋「公開頁快照有程式�
   完整收錄 65 個、部分收錄 46 個），例 selexipag 32（Selexipag Teva 等 2026-08 起的學名藥）、rivaroxaban 23、metformin 21（含 vildagliptin＋metformin 複方）、ambrisentan＋tadalafil 複方 Attang 15、dapagliflozin 14。
   超過 50 個證據包，照第五輪說明先停下回報，還沒接補收程式、頁面沒改。另：完整收錄的 7 個證據包（ciprofloxacin 33、bosutinib 10、midazolam 8 等）有 2026-03 清單就有、drug_mapping 也對到本藥 ID 卻沒收的號，
   是 drug_mapping 2026-10-12 rescue 之後證據包沒重收的既有差異，不是新許可。量測程式與結果在 scratchpad（se5/tools/measure.py、se5/measure.json），沒進 repo。
+
+## 新 MT 號依原收集規則補收（2026-11-25 第六輪）
+
+用戶 2026-11-25 第六輪決定（第 1 條「新許可補收：全部照原規則補」）：第五輪量測到 Läkemedelsverket 現行清單有、證據包沒收的新 MT 號（111 包／444 筆），照原收集規則補收並接進每週排程。
+- 原收集規則（collectors/sefda.py）：證據包 tfda.drugbank_ids → data/processed/drug_mapping.csv 同一 ID 的 MT 號 → data/raw/se_fda_drugs.json（2026-03 清單）那一列，撤銷狀態（fields.yaml withdrawn_statuses：Indragen、Avregistrerad、Tillfälligt indragen，子字串）不收，最多存 20 筆（單方在前），total_matches＝全部筆數。
+  drug_mapping 有兩版：2026-10-12 rescue_mapping 之前（drug_mapping.csv.bak_20261012）與之後（現行）。對 2026-03 清單重跑 run_kg_prediction.py 的 map_fda_drugs_to_drugbank 跟 bak 逐列相同、再跑 rescue_ingredient 跟現行逐列相同（2026-11-25 驗證），所以新品項照這兩步對照就是原 pipeline。
+- `scripts/add_current_licences.py [--download] [--dry-run] [--report]`：第一次跑時每個證據包照兩份對照重算原收集器，張數等於 total_matches、現有紀錄都在裡面的那份記成 tfda.collection_rule（515 包全部重算得出：現行 362、bak 11、兩份都對 142 用現行；停損 0 包），當時算進總數、因 20 筆上限沒存的號回填 tfda.records_not_stored（100 包）。
+  候選＝現行清單（data/raw/lmv_registreringsstatus.json，adapter 第五輪起存成分）裡不在 drug_mapping、不是撤銷狀態、有成分的品項（792 筆；其中 3 筆是 2026-03 清單有但當時成分欄空白、沒進 drug_mapping 的號），bak 規則用 map_fda_drugs_to_drugbank、現行規則另對失敗成分跑 rescue_ingredient（站上複本 `scripts/rescue_mapping_20261012.py`＝母目錄 .claude/rescue_mapping.py 原樣，排程用）。
+  對到證據包 drugbank_ids、證據包沒有的（records、records_not_stored、config/license_own_extra.json）補一筆（欄位照 sefda._format，加 source＝清單與下載日、規則，added）；records 未滿 20 存進、滿了只記號碼在 records_not_stored，都算進 total_matches。只加不刪、可重複執行。
+  `.github/workflows/license-refresh.yml` 在 license_refresh 前以 `--download` 跑（continue-on-error，下載失敗不擋排程）。
+- 2026-11-25 套用（清單 2026-11-25，30,432 筆、全部 HUM）：117 個證據包補 455 筆（存進 records 171、只算張數 284），全部 Godkänd；公開頁 100 頁、noindex 13 頁、沒有頁 4 包；第二次跑 0 筆。逐包看過補收品項的成分，都是本藥（含本藥的複方，例 ambrisentan＋tadalafil Attang、dapagliflozin／empagliflozin＋metformin、amlodipin＋ramipril＋rosuvastatin），沒有獸用、別的藥或非藥品類別要排除。
+  例：selexipag 32、rivaroxaban 23、metformin 21、tacrolimus 16、tadalafil 15、ambrisentan 15、melatonin 14、dapagliflozin 14。補收後超過 20 筆、原本完整的 5 頁（ambrisentan、dapagliflozin、deferasirox、pirfenidone、rivastigmine）改寫「minst 20」（同 ES 第五輪）。
+  證據包 local_regulatory 重算 64 個；概覽狀態列／張數列 16 頁、程式表 57 頁、正文張數 B 改寫 6 頁、description 51 頁由程式同步；llms-full.txt 列表頁說明照 front matter 同步。正文有變的 65 頁 last_modified_at 改 2026-11-25。
+- 正文跟新事實矛盾、B 管不到的 7 句（文字數詞、全稱、劑型、持有人）以 `se-lic-20261125-*` 更正（更正文字不寫張數）：alfacalcidol「Alla sju」、anastrozol「Alla 8 … de 5 första av de 8」、ciprofloxacin「Samtliga sex … fem av dem visas ovan」、clonidine「Alla registrerade produkter är injektionsvätska」（另有 Vempadix、Clopressan 錠劑）、lenvatinib「Totalt finns 10」、olopatadine「Samtliga sju … två till utöver de fem」、temozolomide「Alla fem … från STADA」（另有 PGF Pharma）。
+  另寫的寬偵測（改到的 117 頁正文：數字或文字數詞＋godkännande／produkt、enda／endast／samtliga／alla／båda＋劑型或許可字樣）95 句逐句讀過，其餘成立（例 amantadine 全為硬膠囊、articaine 全為 adrenalin 複方注射液、enzalutamide 全為膜衣錠、fexofenadine 只有口服錠），或是 partial 頁「minst 20」保留語、藥理句。
+- 沒補（不是新許可）：bak 規則的 11 個證據包用現行對照才會多對到的 2026-03 舊號（rescue 之後沒重收的既有差異）：ciprofloxacin 34、valsartan 21、aripiprazol 12、bosutinib 10、midazolam 8、dasatinib 5、cefadroxil 4、omeprazol 4、tobramycin 4、gadobutrol 2、naproxen 2（第五輪說的「完整收錄 7 包」是其中的完整收錄者）；要補是收集規則換版，待用戶決定。
+- 驗證：checker 全量前後都是 0、row-status 0；gate exit 0；apply --check、rewrite_license_counts --check、sync_license_tables --check 都 0；add_current_licences 第二次跑（含 --download）0 筆。證據包經 data-overlay 推進 Release。

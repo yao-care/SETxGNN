@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BIMATOPROST"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Bimatoprost: predikterad ny indikation Missbildningssyndrom med tand- och/eller tandlossningskomponent (malformation syndrome with odontal and/or periodontal… (evidensnivå L5). Ursprunglig indikation…"
 ---
 
@@ -52,8 +52,8 @@ Bimatoprost är en prostamidanalog som verkar via FP-/prostamidreceptorer och so
 | Förutsagd ny indikation | Missbildningssyndrom med tand- och/eller tandlossningskomponent (malformation syndrome with odontal and/or periodontal component) |
 | TxGNN-förutsägelsepoäng | 1,0000 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 15 av 15) |
-| Antal godkännanden | 15 (giltiga: 15) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 16 av 16) |
+| Antal godkännanden | 16 (giltiga: 16) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -80,7 +80,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 
 ### Marknadsinformation Sverige
 
-Enligt de lokala uppgifterna finns 15 godkännanden för bimatoprost i Sverige, och marknadsstatus anges som marknadsförd. Indikationstext finns inte registrerad i de lokala licensposterna. Nedan visas fem av godkännandena.
+Enligt de lokala uppgifterna finns 16 godkännanden för bimatoprost i Sverige, och marknadsstatus anges som marknadsförd. Indikationstext finns inte registrerad i de lokala licensposterna. Nedan visas fem av godkännandena.
 
 <!-- licenses:begin -->
 
@@ -92,7 +92,7 @@ Enligt de lokala uppgifterna finns 15 godkännanden för bimatoprost i Sverige, 
 | 63517 | Bimatoprost STADA | Ögondroppar, lösning | Ebb Medical AB | Godkänd |
 | 62186 | Iricryn | Ögondroppar, lösning | Zaklady Farmaceutyczne Polpharma SA | Godkänd |
 
-Tabellen visar 5 av 15 godkännanden i uppgifterna.
+Tabellen visar 5 av 16 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

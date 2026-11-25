@@ -7,7 +7,7 @@ title: DISULFIRAM
 drugbank_id: DB00822
 permalink: /drugs/disulfiram/
 search_exclude: true
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-25
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -19,8 +19,8 @@ evidence_level: N/A
 
 | Objekt | Värde |
 |------|-------|
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
-| Antal godkännanden | 8 (giltiga: 8) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
+| Antal godkännanden | 9 (giltiga: 9) |
 | DrugBank ID | [DB00822](https://go.drugbank.com/drugs/DB00822) |
 | Nya förutsagda indikationer | Inga |
 

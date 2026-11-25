@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ALITRETINOIN"
 predicted_indications: ["amenorrhea (disease)", "acne (disease)", "atypical coarctation of aorta", "pregnancy associated osteoporosis", "aortic malformation", "postmenopausal osteoporosis", "autosomal dominant neovascular inflammatory vitreoretinopathy", "breast fibrocystic disease", "benign mammary dysplasia", "Worth syndrome"]
-last_modified_at: 2026-11-24
-description: "Alitretinoin: predikterad ny indikation Amenorré (amenorrhea (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 11 (giltiga: 11)"
+last_modified_at: 2026-11-25
+description: "Alitretinoin: predikterad ny indikation Amenorré (amenorrhea (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 13 (giltiga: 13)"
 ---
 
 # Alitretinoin
@@ -52,8 +52,8 @@ Alitretinoin (9-cis-retinsyra) är en retinoid som verkar på nukleära receptor
 | Förutsagd ny indikation | Amenorré (amenorrhea (disease)) |
 | TxGNN-förutsägelsepoäng | 0,9999 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 11 av 11) |
-| Antal godkännanden | 11 (giltiga: 11) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 13 av 13) |
+| Antal godkännanden | 13 (giltiga: 13) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -90,7 +90,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 | 68239 | Alitretinoin 2care4 | Kapsel, mjuk | 2care4 ApS | Godkänd |
 | 63548 | Alitretinoin 2care4 | Kapsel, mjuk | 2care4 ApS | Godkänd |
 
-Tabellen visar 5 av 11 godkännanden i uppgifterna.
+Tabellen visar 5 av 13 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

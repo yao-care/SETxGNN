@@ -5,10 +5,10 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 257
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
-description: "Lenvatinib: predikterad ny indikation Liposarkom (liposarcoma) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): 10 (giltiga: 10)"
+description: "Lenvatinib: predikterad ny indikation Liposarkom (liposarcoma) (evidensnivå L3). I Sverige, godkännanden (Läkemedelsverket): 14 (giltiga: 14)"
 ---
 
 # Lenvatinib
@@ -52,8 +52,8 @@ Lenvatinib är en multikinashämmare som hämmar tumörens kärlnybildning. TxGN
 | Förutsagd ny indikation | Liposarkom (liposarcoma) |
 | TxGNN-förutsägelsepoäng | 0.9951 |
 | Evidensnivå | L3 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
-| Antal godkännanden | 10 (giltiga: 10) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 14 av 14) |
+| Antal godkännanden | 14 (giltiga: 14) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -99,13 +99,19 @@ Ytterligare stöd kommer från prekliniska data om eribulinkombinationer och en 
 | 66290 | Lenvatinib Sandoz | Kapsel, hård | Sandoz A/S | Godkänd |
 | 67428 | Lenvatinib Teva | Kapsel, hård | TEVA GmbH | Godkänd |
 
-Tabellen visar 5 av 10 godkännanden i uppgifterna.
+Tabellen visar 5 av 14 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
 <!-- licenses:end -->
 
-Totalt finns 10 godkännanden i Sverige, alla giltiga; här visas de fem första.
+Alla godkännanden i Sverige är giltiga.
+
+<!-- review:begin se-lic-20261125-lenvatinib-1 -->
+
+> **Granskningsrättelse (2026-11-25)**: Ursprungligen stod det: ”Totalt finns 10 godkännanden i Sverige, alla giltiga; här visas de fem första.” Antalet godkännanden stämmer inte längre: Läkemedelsverkets aktuella förteckning innehåller fler godkännanden för lenvatinib (Lenvatinib Viatris, Lenvatinib Mylan), alla med registreringsstatus Godkänd. Det fasta antalet och uppgiften om hur många som visas har tagits bort. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261125-lenvatinib-1 -->
 
 ---
 
@@ -141,6 +147,18 @@ Se i övrigt produktresumén för varningar och kontraindikationer.
 - Studier som visar lenvatinibs bidrag jämfört med eribulin ensamt.
 - Genomgång av produktresumén för varningar, kontraindikationer och verkningsmekanism.
 - Granskning av de allvarliga läkemedelsinteraktionerna (dolasetron, cisaprid) vid kliniskt införande.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-25 | Rättat: antal godkännanden | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
 
 ## Ansvarsfriskrivning
 

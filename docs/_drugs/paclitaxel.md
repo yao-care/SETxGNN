@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 334
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-description: "Paclitaxel: predikterad ny indikation Parameningeal embryonal rhabdomyosarcoma (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 7 (giltiga: 7)"
+description: "Paclitaxel: predikterad ny indikation Parameningeal embryonal rhabdomyosarcoma (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 9 (giltiga: 9)"
 ---
 
 # Paclitaxel
@@ -52,8 +52,8 @@ Paklitaxel är ett cytostatikum av taxantyp som ursprungligen användes vid ägg
 | Förutsagd ny indikation | Parameningeal embryonal rhabdomyosarcoma |
 | TxGNN-förutsägelsepoäng | 0.9973 |
 | Evidensnivå | L5 (flera avslutade fas 3-prövningar, bland annat NCT00667251, NCT01822314, NCT00006459, NCT00553358, NCT00075270 och NCT00513292) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 7 av 7) |
-| Antal godkännanden | 7 (giltiga: 7) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
+| Antal godkännanden | 9 (giltiga: 9) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -134,7 +134,7 @@ Indikationstext saknas i de svenska uppgifterna.
 | 26642 | Paclitaxel Fresenius Kabi | Koncentrat till infusionsvätska, lösning | Fresenius Kabi AB | Godkänd |
 | 24299 | Pacligen | Koncentrat till infusionsvätska, lösning | Sandoz A/S | Godkänd |
 
-Tabellen visar 5 av 7 godkännanden i uppgifterna.
+Tabellen visar 5 av 9 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 197
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "finasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
-description: "Finasteride: predikterad ny indikation Ambras type hypertrichosis universalis congenita (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 16 (giltiga: 16)"
+description: "Finasteride: predikterad ny indikation Ambras type hypertrichosis universalis congenita (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 17 (giltiga: 17)"
 ---
 
 # Finasteride
@@ -54,8 +54,8 @@ Finasterid är en 5-alfa-reduktashämmare som ursprungligen användes vid behand
 | Förutsagd ny indikation | Ambras type hypertrichosis universalis congenita |
 | TxGNN-förutsägelsepoäng | 0.9999 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 16 av 16) |
-| Antal godkännanden | 16 (giltiga: 16) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 17 av 17) |
+| Antal godkännanden | 17 (giltiga: 17) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -103,7 +103,7 @@ Indikationstext finns inte angiven i de sammanställda uppgifterna. Fem av godk�
 | 43933 | Finasteride Accord | Filmdragerad tablett | Accord Healthcare B.V. | Godkänd |
 | 26771 | Finasteride Teva | Filmdragerad tablett | Teva Sweden AB | Godkänd |
 
-Tabellen visar 5 av 16 godkännanden i uppgifterna.
+Tabellen visar 5 av 17 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

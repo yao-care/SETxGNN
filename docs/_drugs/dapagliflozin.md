@@ -5,7 +5,7 @@ layout: default
 title: Dapagliflozin
 parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 40
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-25
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,8 +41,8 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 19 av 19) |
-| Antal godkännanden | 19 (giltiga: 19) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: minst 20) |
+| Antal godkännanden | minst 20 |
 
 ## Ansvarsfriskrivning
 

@@ -7,7 +7,7 @@ title: TAFLUPROST
 drugbank_id: DB08819
 permalink: /drugs/tafluprost/
 search_exclude: true
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-25
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -19,8 +19,8 @@ evidence_level: N/A
 
 | Objekt | Värde |
 |------|-------|
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
-| Antal godkännanden | 6 (giltiga: 6) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 8 av 8) |
+| Antal godkännanden | 8 (giltiga: 8) |
 | DrugBank ID | [DB08819](https://go.drugbank.com/drugs/DB08819) |
 | Nya förutsagda indikationer | Inga |
 

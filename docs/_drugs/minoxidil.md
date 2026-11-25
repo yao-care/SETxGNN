@@ -5,10 +5,10 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 297
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "MINOXIDIL"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with HIV infection"]
-description: "Minoxidil: predikterad ny indikation Hypotrichosis simplex i hårbotten (hypotrichosis simplex of the scalp) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 14 (giltiga: 14)"
+description: "Minoxidil: predikterad ny indikation Hypotrichosis simplex i hårbotten (hypotrichosis simplex of the scalp) (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 17 (giltiga: 17)"
 ---
 
 # Minoxidil
@@ -52,8 +52,8 @@ Minoxidil förutsägs av TxGNN-modellen kunna vara effektivt mot **hypotrichosis
 | Förutsagd ny indikation | Hypotrichosis simplex i hårbotten (hypotrichosis simplex of the scalp) |
 | TxGNN-förutsägelsepoäng | 1.0000 |
 | Evidensnivå | L4 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 14 av 14) |
-| Antal godkännanden | 14 (giltiga: 14) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 17 av 17) |
+| Antal godkännanden | 17 (giltiga: 17) |
 | Rekommenderat beslut | Fortsätt med försiktighet |
 
 ---
@@ -98,7 +98,7 @@ Minoxidil finns som kutan lösning och kutant skum. Fem av godkännandena:
 | 59615 | Minoxidil NET | Kutan lösning | Evolan Pharma AB | Godkänd |
 | 15343 | Rogaine forte | Kutan lösning | McNeil Sweden AB | Godkänd |
 
-Tabellen visar 5 av 14 godkännanden i uppgifterna.
+Tabellen visar 5 av 17 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

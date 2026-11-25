@@ -5,10 +5,10 @@ parent: Måttlig evidens (L3-L4)
 nav_order: 331
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
-description: "Oxcarbazepine: predikterad ny indikation Restless legs syndrome (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 11 (giltiga: 11)"
+description: "Oxcarbazepine: predikterad ny indikation Restless legs syndrome (evidensnivå L4). I Sverige, godkännanden (Läkemedelsverket): 14 (giltiga: 14)"
 ---
 
 # Oxcarbazepine
@@ -52,8 +52,8 @@ Oxkarbazepin (Trileptal) är ett antiepileptikum som ursprungligen används för
 | Förutsagd ny indikation | Restless legs syndrome |
 | TxGNN-förutsägelsepoäng | 0.9989 |
 | Evidensnivå | L4 (endast översikter, riktlinjer och mekanismstöd, inga kliniska prövningar) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 11 av 11) |
-| Antal godkännanden | 11 (giltiga: 11) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 14 av 14) |
+| Antal godkännanden | 14 (giltiga: 14) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -111,7 +111,7 @@ Indikationstext saknas i licensdata. Ett urval:
 | 17348 | Trileptal | Oral suspension | Novartis Sverige AB | Godkänd |
 | 60348 | Trileptal | Filmdragerad tablett | 2care4 ApS | Godkänd |
 
-Tabellen visar 5 av 11 godkännanden i uppgifterna.
+Tabellen visar 5 av 14 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

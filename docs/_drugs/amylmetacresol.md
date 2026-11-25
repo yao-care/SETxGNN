@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "amylmetacresol"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "ciliary body disease", "panuveitis (disease)", "iris disease", "infectious anterior uveitis", "uveitis", "ciliary body cancer", "benign neoplasm of ciliary body"]
-last_modified_at: 2026-11-24
-description: "Amylmetacresol: predikterad ny indikation Cauda equina-syndrom (cauda equina syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 14 (giltiga: 14)"
+last_modified_at: 2026-11-25
+description: "Amylmetacresol: predikterad ny indikation Cauda equina-syndrom (cauda equina syndrome) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 17 (giltiga: 17)"
 ---
 
 # Amylmetacresol
@@ -52,8 +52,8 @@ Amylmetakresol är ett lokalt verkande antiseptiskt ämne som används i halstab
 | Förutsagd ny indikation | Cauda equina-syndrom (cauda equina syndrome) |
 | TxGNN-förutsägelsepoäng | 0,9999 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 14 av 14) |
-| Antal godkännanden | 14 (giltiga: 14) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 17 av 17) |
+| Antal godkännanden | 17 (giltiga: 17) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -90,7 +90,7 @@ Ingen relaterad litteratur tillgänglig för närvarande.
 | 43997 | Strepsils Ingefära | Sugtablett | Reckitt Benckiser Healthcare (Scandinavia) A/S | Godkänd |
 | 63876 | Betolo | Munhålespray, lösning | Geiser Pharma, S.L. | Godkänd |
 
-Tabellen visar 5 av 14 godkännanden i uppgifterna.
+Tabellen visar 5 av 17 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

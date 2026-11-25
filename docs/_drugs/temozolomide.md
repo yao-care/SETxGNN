@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "temozolomide"
 predicted_indications: ["cauda equina neoplasm"]
-last_modified_at: 2026-11-24
-description: "Temozolomide: predikterad ny indikation Tumör i cauda equina (cauda equina neoplasm) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 5 (giltiga: 5)"
+last_modified_at: 2026-11-25
+description: "Temozolomide: predikterad ny indikation Tumör i cauda equina (cauda equina neoplasm) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 11 (giltiga: 11)"
 ---
 
 # Temozolomide
@@ -52,8 +52,8 @@ Temozolomid är ett oralt alkylerande cytostatikum som används vid anaplastiskt
 | Förutsagd ny indikation | Tumör i cauda equina (cauda equina neoplasm) |
 | TxGNN-förutsägelsepoäng | 0.9930 |
 | Evidensnivå | L5 (inga kliniska prövningar och ingen studie utöver enskilda fallrapporter; se nedan) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 5 av 5) |
-| Antal godkännanden | 5 (giltiga: 5) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 11 av 11) |
+| Antal godkännanden | 11 (giltiga: 11) |
 | Rekommenderat beslut | Avvakta |
 
 **Om evidensnivån:** Den enda publikation som direkt rör sjukdomen är en enskild fallrapport. Den räcker inte för att motivera en högre nivå än L5 i denna rapport. De övriga två fallrapporterna rör andra tillstånd (nasalt NUT-karcinom respektive kryptokockos hos ett barn med pontint gliom).
@@ -98,11 +98,19 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 | 42158 | Temozolomid STADA | Kapsel, hård | STADA Arzneimittel AG | Godkänd |
 | 42162 | Temozolomid STADA | Kapsel, hård | STADA Arzneimittel AG | Godkänd |
 
+Tabellen visar 5 av 11 godkännanden i uppgifterna.
+
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
 <!-- licenses:end -->
 
-Alla fem godkännandena avser enkomponentsprodukter från STADA Arzneimittel AG.
+Alla godkännanden avser enkomponentsprodukter.
+
+<!-- review:begin se-lic-20261125-temozolomide-1 -->
+
+> **Granskningsrättelse (2026-11-25)**: Ursprungligen stod det: ”Alla fem godkännandena avser enkomponentsprodukter från STADA Arzneimittel AG.” Uppgiften stämmer inte längre: Läkemedelsverkets aktuella förteckning innehåller även temozolomid från PGF Pharma International (hårda kapslar, Godkänd). Det fasta antalet och uppgiften att alla godkännanden har samma innehavare har tagits bort. Aktuella antal och status för godkännandena finns i snabböversikten och tabellen under Marknadsinformation Sverige. Källa: [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv).
+
+<!-- review:end se-lic-20261125-temozolomide-1 -->
 
 ---
 
@@ -140,6 +148,19 @@ Säkerhetsinformation från de svenska godkännandena (varningar och kontraindik
 - Systematisk litteratursökning efter fallserier, retrospektiva studier och studier av temozolomid vid myxopapillärt ependymom och andra tumörer i cauda equina.
 - Undersöka MGMT-status i dessa tumörer.
 - Överväga en registerbaserad eller prospektiv studie innan eventuell klinisk tillämpning.
+
+<!-- review:begin log -->
+
+## Granskningslogg
+
+Nedan finns granskningsloggen för den här sidan: uppgifter som kontrollerats mot Läkemedelsverkets data. Rättelser gäller endast grundläggande faktauppgifter; modellens prediktioner, evidensnivåer och slutsatser har inte skrivits om.
+
+| Granskningsdatum | Punkt | Åtgärd | Källa |
+|------|------|------|------|
+| 2026-11-25 | Rättat: antal godkännanden och innehavare | Rättad | [Läkemedelsverket – export av godkända läkemedel (registreringsstatus)](https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv) |
+
+<!-- review:end log -->
+
 ## Ansvarsfriskrivning
 
 Detta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.

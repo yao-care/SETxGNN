@@ -7,7 +7,7 @@ parent: Endast kända användningar (inga nya prediktioner)
 nav_order: 32
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-25
 description: "Bosutinib: kända användningar och marknadsstatus i Sverige; för närvarande ingen ny kandidatindikation"
 predicted_indications: []
 indication_count: 0
@@ -44,8 +44,8 @@ Evidensnivå: **N/A** | Förutsagda indikationer: **0** st
 | Post | Innehåll |
 |------|------|
 | Ursprunglig indikation | Inte angiven i de lokala uppgifterna |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 9 av 9) |
-| Antal godkännanden | 9 (giltiga: 9) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 10 av 10) |
+| Antal godkännanden | 10 (giltiga: 10) |
 
 ## Ansvarsfriskrivning
 

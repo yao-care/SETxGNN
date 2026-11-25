@@ -5,10 +5,10 @@ parent: Endast modellprediktion (L5)
 nav_order: 343
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "perampanel"
 predicted_indications: ["beta-ketothiolase deficiency"]
-description: "Perampanel: predikterad ny indikation Beta-ketothiolase deficiency (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
+description: "Perampanel: predikterad ny indikation Beta-ketothiolase deficiency (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 12 (giltiga: 12)"
 ---
 
 # Perampanel
@@ -52,8 +52,8 @@ Perampanel är ett antiepileptikum som ursprungligen användes för att behandla
 | Förutsagd ny indikation | Beta-ketothiolase deficiency |
 | TxGNN-förutsägelsepoäng | 0.9979 |
 | Evidensnivå | L5 (endast indirekta och prekliniska data; inga studier för just denna sjukdom) |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
-| Antal godkännanden | 6 (giltiga: 6) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 12 av 12) |
+| Antal godkännanden | 12 (giltiga: 12) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -101,7 +101,7 @@ Indikationstext saknas i godkännandedata.
 | 65954 | Perampanel Vivanta | Filmdragerad tablett | Vivanta Generics s.r.o. | Godkänd |
 | 65959 | Perampanel Vivanta | Filmdragerad tablett | Vivanta Generics s.r.o. | Godkänd |
 
-Tabellen visar 5 av 6 godkännanden i uppgifterna.
+Tabellen visar 5 av 12 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 

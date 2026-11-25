@@ -8,8 +8,8 @@ indication_count: 1
 drugbank_id: DB00643
 monitor_inn: "Mebendazole"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-11-24
-description: "Mebendazol: predikterad ny indikation Akne (acne (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 4 (giltiga: 4)"
+last_modified_at: 2026-11-25
+description: "Mebendazol: predikterad ny indikation Akne (acne (disease)) (evidensnivå L5). I Sverige, godkännanden (Läkemedelsverket): 6 (giltiga: 6)"
 ---
 
 # Mebendazol
@@ -53,8 +53,8 @@ Mebendazol är ett avmaskningsmedel av bensimidazoltyp som marknadsförs i Sveri
 | Förutsagd ny indikation | Akne (acne (disease)) |
 | TxGNN-förutsägelsepoäng | 0.9920 |
 | Evidensnivå | L5 |
-| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 4 av 4) |
-| Antal godkännanden | 4 (giltiga: 4) |
+| Marknadsstatus i Sverige | Marknadsförd (giltiga godkännanden: 6 av 6) |
+| Antal godkännanden | 6 (giltiga: 6) |
 | Rekommenderat beslut | Avvakta |
 
 ---
@@ -93,6 +93,8 @@ Inga relaterade kliniska prövningar registrerade för närvarande.
 | 62766 | Vermox | Oral suspension | Ebb Medical AB | Godkänd |
 | 61330 | Vermox | Tablett | Ebb Medical AB | Godkänd |
 | 9788 | Vermox | Oral suspension | McNeil Sweden AB | Godkänd |
+
+Tabellen visar 4 av 6 godkännanden i uppgifterna.
 
 Källa: Läkemedelsverket (godkännandenummer, läkemedelsnamn, läkemedelsform, innehavare och registreringsstatus enligt Läkemedelsverkets uppgifter).
 
