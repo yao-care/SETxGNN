@@ -137,3 +137,8 @@ gate（licenses.py 的 page_problems 第 5 項）擋「公開頁快照有程式�
   另寫的寬偵測（改到的 117 頁正文：數字或文字數詞＋godkännande／produkt、enda／endast／samtliga／alla／båda＋劑型或許可字樣）95 句逐句讀過，其餘成立（例 amantadine 全為硬膠囊、articaine 全為 adrenalin 複方注射液、enzalutamide 全為膜衣錠、fexofenadine 只有口服錠），或是 partial 頁「minst 20」保留語、藥理句。
 - 沒補（不是新許可）：bak 規則的 11 個證據包用現行對照才會多對到的 2026-03 舊號（rescue 之後沒重收的既有差異）：ciprofloxacin 34、valsartan 21、aripiprazol 12、bosutinib 10、midazolam 8、dasatinib 5、cefadroxil 4、omeprazol 4、tobramycin 4、gadobutrol 2、naproxen 2（第五輪說的「完整收錄 7 包」是其中的完整收錄者）；要補是收集規則換版，待用戶決定。
 - 驗證：checker 全量前後都是 0、row-status 0；gate exit 0；apply --check、rewrite_license_counts --check、sync_license_tables --check 都 0；add_current_licences 第二次跑（含 --download）0 筆。證據包經 data-overlay 推進 Release。
+
+## rescue 規則改讀 tools/txgnn（2026-11-25 第七輪）
+
+用戶 2026-11-25 決定（第七輪第 4 條）：第六輪 `scripts/add_current_licences.py` 現行對照用的 2026-10-12 rescue_ingredient 原本讀站上手抄複本 `scripts/rescue_mapping_20261012.py`；母 repo 把 `.claude/rescue_mapping.py` 納入 sync_site_tools.py 同步清單後，改讀 `tools/txgnn/.claude/rescue_mapping.py`（import 前設 `RESCUE_MAPPING_VOCAB` 指向本站 data/external/drugbank_vocab.csv，載完還原 sys.path），站上複本刪掉；規則要改只改母 repo 再同步。
+驗證（Release data-20261125-015947）：`--dry-run` 改前改後都是 0 個證據包 0 筆、報告逐位元組相同；drug_mapping.csv 與 .bak_20261012 的 2,754 個成分字串逐一比 rescue_ingredient 結果，新舊版 0 個不同（1,448 個補救得到）。

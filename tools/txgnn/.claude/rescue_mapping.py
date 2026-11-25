@@ -1,5 +1,3 @@
-# 站上複本（2026-11-25 第六輪）：母目錄 txgnn/.claude/rescue_mapping.py 原樣複製，給 scripts/add_current_licences.py 在每週排程裡重現 2026-10-12 的現行 drug_mapping 對照規則。
-# 不要改規則；母目錄那份若改了，這裡要照實同步並重新驗證（對 2026-03 清單重跑要跟 drug_mapping.csv 逐列相同）。
 #!/usr/bin/env python3
 """補救 drug_mapping.csv 裡失敗的成分（2026-10-12 盤點 E 項，見 .claude/AUDIT_20261011.md 環節 1）。
 
@@ -17,6 +15,7 @@
 """
 import sys as _sys, pathlib as _pl; _sys.path.insert(0, str(_pl.Path(__file__).resolve().parent)); import site_registry as _site_registry  # noqa: E402  # 30 站名單（不含 CnTxGNN）
 import csv
+import os
 import re
 import shutil
 import sys
@@ -28,8 +27,11 @@ csv.field_size_limit(10**9)
 BASE = Path("/Users/lightman/yao.care/TxGNN")
 TAG = "rescue_20261012"
 
+# 詞表：預設讀 ESTxGNN 的共用 drugbank_vocab.csv（母目錄批次用）；各站 tools/txgnn 複本由站上程式在 import 前設
+# RESCUE_MAPPING_VOCAB 指向本站 data/external/drugbank_vocab.csv（2026-11-25 第七輪，取代 AR、SE 的站上複本）
+VOCAB_FILE = Path(os.environ.get("RESCUE_MAPPING_VOCAB") or BASE / "ESTxGNN/data/external/drugbank_vocab.csv")
 vocab = {}
-for r in csv.DictReader(open(BASE / "ESTxGNN/data/external/drugbank_vocab.csv", encoding="utf-8")):
+for r in csv.DictReader(open(VOCAB_FILE, encoding="utf-8")):
     vocab[r["drug_name_upper"]] = r["drugbank_id"]
 # 常見 INN／BAN 異名 → DrugBank 名稱（目標都已確認在 vocab）
 ALIASES = {"PARACETAMOL": "ACETAMINOPHEN", "ADRENALINE": "EPINEPHRINE", "NORADRENALINE": "NOREPINEPHRINE",

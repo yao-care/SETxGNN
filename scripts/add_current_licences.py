@@ -13,7 +13,7 @@ drug_mapping.csv.bak_20261012，之後收的照現行 drug_mapping.csv。第一�
 
 新許可的對照（照原 pipeline，不放寬）：現行清單（license_adapter.fetch() 存的 data/raw/lmv_registreringsstatus.json）裡不在
 drug_mapping、狀態不是撤銷、有成分（Verksamt ämne）的品項，照 run_kg_prediction.py 同一支 map_fda_drugs_to_drugbank 對 DrugBank ID
-＝bak 規則；現行規則另對失敗的成分跑母目錄 .claude/rescue_mapping.py 的 rescue_ingredient（站上複本 scripts/rescue_mapping_20261012.py；2026-11-25 驗證：這兩步對 2026-03 清單
+＝bak 規則；現行規則另對失敗的成分跑母目錄 .claude/rescue_mapping.py 的 rescue_ingredient（tools/txgnn/.claude/rescue_mapping.py，母 repo 同步來的那份；2026-11-25 第七輪前是站上複本 scripts/rescue_mapping_20261012.py；2026-11-25 驗證：這兩步對 2026-03 清單
 重跑，跟 drug_mapping.csv.bak_20261012、drug_mapping.csv 逐列相同）。對到證據包 drugbank_ids、證據包還沒有的（records、
 records_not_stored、config/license_own_extra.json）就補：records 未滿 20 筆存進 records（單方在前），滿了只記號碼在
 records_not_stored，兩者都算進 total_matches；每筆記 source（清單與下載日、規則）、added（補收日）。只加不刪、可重複執行。
@@ -67,19 +67,28 @@ def load_map(p):
     return {"lic": lic, "ids": ids_all}
 
 
+def load_rescue():
+    """2026-10-12 rescue_mapping 的規則（tools/txgnn/.claude/rescue_mapping.py＝母 repo .claude/rescue_mapping.py，sync_site_tools.py 同步；
+    2026-11-25 第七輪起改讀這份、不再放站上複本）。詞表由 RESCUE_MAPPING_VOCAB 指向本站 data/external/drugbank_vocab.csv。"""
+    import importlib.util
+    import os
+    p = ROOT / "tools/txgnn/.claude/rescue_mapping.py"
+    if not p.exists():
+        raise SystemExit(f"找不到 {p.relative_to(ROOT)}，判斷不了現行對照，不補收")
+    os.environ["RESCUE_MAPPING_VOCAB"] = str(ROOT / "data/external/drugbank_vocab.csv")
+    saved = list(sys.path)  # 它會把 tools/txgnn/.claude 插到 sys.path 最前面，載完還原，免得遮住本站同名模組
+    try:
+        spec = importlib.util.spec_from_file_location("rescue_mapping", p)
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+    finally:
+        sys.path[:] = saved
+    return mod
+
+
 def rescue_ns():
-    """2026-10-12 rescue_mapping 的 rescue_ingredient（站上複本 scripts/rescue_mapping_20261012.py＝母目錄 .claude/rescue_mapping.py）；vocab 改讀本站 data/external"""
-    for p in (ROOT / "scripts/rescue_mapping_20261012.py", ROOT.parent / "txgnn/.claude/rescue_mapping.py"):
-        if p.exists():
-            src = p.read_text(encoding="utf-8")
-            break
-    else:
-        raise SystemExit("找不到 rescue_mapping.py，判斷不了現行對照，不補收")
-    src = re.sub(r"^import sys as _sys, pathlib as _pl;.*$", "", src, count=1, flags=re.M)
-    src = src.replace('BASE / "ESTxGNN/data/external/drugbank_vocab.csv"', f'Path({str(ROOT / "data/external/drugbank_vocab.csv")!r})')
-    ns = {"__name__": "rescue_mapping"}
-    exec(compile(src, "rescue_mapping", "exec"), ns)  # noqa: S102 — 本專案自己的檔
-    return ns
+    """2026-10-12 rescue_mapping 的 rescue_ingredient（tools/txgnn/.claude/rescue_mapping.py＝母目錄 .claude/rescue_mapping.py）；vocab 改讀本站 data/external"""
+    return vars(load_rescue())
 
 
 def new_mapping(cands):
