@@ -108,3 +108,15 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 `scripts/sync_license_tables.py` 的 `add_section` 在安全性段之前（沒有就結論、查核紀錄、免責聲明段之前）補「## Marknadsinformation Sverige」與程式表；noindex 頁、證據包沒有紀錄的頁不補。
 gate（licenses.py 的 page_problems 第 5 項）擋「公開頁快照有程式表列卻沒有市場段落」；PAGE_NOTE 放行新標題行。
 2026-11-24 全量量測 5 頁（alteplase、ambrisentan、cabergoline、isotretinoin、naphazoline；查核紀錄段標題在 review log 區塊裡時，段落放在區塊之前），補上；正文沒有跟新表矛盾的句子，沒有新查核紀錄。checker 前後都是 0、gate exit 0。
+
+## adapter 存成分、量測新許可漏收（2026-11-25 第五輪）
+
+用戶 2026-11-25 決定（第五輪第 3 條）：每週排程的 adapter 只存 MT 號與狀態，第四輪跨站量測因此判斷不了漏收（現行清單比 Release 的 2026-03 清單多 805 個 MT 號、沒有成分）。
+- `scripts/license_adapter.py` 的 fetch() 另存品名、規格、劑型、ATC、Verksamt ämne（成分原文）、Verksamt ämne (förenklat)、持有人、H/V、核准日、平行輸入（Läkemedelsverket exportmedprodcsv 原文，RAW_FILE 每筆多這些欄）；
+  狀態對應、validate 不變。2026-11-25 從雲端下載成功（14 個 ATC 群組、30,432 筆，全是 HUM；Godkänd 11,398、Avregistrerad 18,988、Registrerad 35、Tillfälligt återkallad 11），
+  這份已以 data-overlay 換進 Release 的 data/raw/lmv_registreringsstatus.json；之後每週排程照同樣格式覆寫（排程只在有狀態變動時發 Release）。
+- 量測（原收集規則：collectors/sefda.py＝藥名→drug_mapping.csv 的 DrugBank ID→該 ID 的 MT 號，撤銷狀態不收；2026-03 之後的新 MT 號不在 drug_mapping，
+  照同一份對照把成分逐段（「; 」分隔、大寫）對 normalized_ingredient，只用對到唯一 DrugBank ID 的成分）：現行清單有、非撤銷、對到證據包 drugbank_ids、證據包沒有的新 MT 號 444 筆、111 個證據包（公開頁 95 個；
+  完整收錄 65 個、部分收錄 46 個），例 selexipag 32（Selexipag Teva 等 2026-08 起的學名藥）、rivaroxaban 23、metformin 21（含 vildagliptin＋metformin 複方）、ambrisentan＋tadalafil 複方 Attang 15、dapagliflozin 14。
+  超過 50 個證據包，照第五輪說明先停下回報，還沒接補收程式、頁面沒改。另：完整收錄的 7 個證據包（ciprofloxacin 33、bosutinib 10、midazolam 8 等）有 2026-03 清單就有、drug_mapping 也對到本藥 ID 卻沒收的號，
+  是 drug_mapping 2026-10-12 rescue 之後證據包沒重收的既有差異，不是新許可。量測程式與結果在 scratchpad（se5/tools/measure.py、se5/measure.json），沒進 repo。

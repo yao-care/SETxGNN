@@ -1,7 +1,8 @@
 """SE（Läkemedelsverket）許可證下載與狀態對應，給 license_refresh_20261029.py 用（2026-10-30）。
 
 來源：https://www.lakemedelsverket.se/api/lmfrest/exportmedprodcsv（依 ATC 主群組逐組匯出，; 分隔、UTF-16，免金鑰；
-參數沿用站上 process_fda_data.py）。欄位：MT-nummer（＝證據包 license_id）、Registreringsstatus（Godkänd／Avregistrerad…）。
+參數沿用站上 process_fda_data.py）。欄位：MT-nummer（＝證據包 license_id）、Registreringsstatus（Godkänd／Avregistrerad…）；
+2026-11-25 起另存品名、規格、劑型、ATC、Verksamt ämne（成分原文）、持有人、H/V、核准日、平行輸入（RAW_FILE 每筆的 name…parallel_import）。
 寫回 status＝Registreringsstatus 原文；reviewer 依文字判定（avregistr、återkall 算註銷）。新檔沒有的 MT-nummer 保留原狀態。
 """
 import csv
@@ -48,7 +49,14 @@ def fetch():
         for x in rows:
             k = (x.get("MT-nummer") or "").strip()
             if k:
-                out.append({"mt": k, "status": (x.get("Registreringsstatus") or "").strip(), "atc": atc})
+                g = lambda c: (x.get(c) or "").strip()  # noqa: E731
+                # 2026-11-25（用戶決定「adapter 存成分」）：除了號碼與狀態，另存收集器比對與補收要用的欄位（原文，不改寫），
+                # 讓 Release 帶著現行清單的成分；scripts/add_current_licences.py 依這些欄位補收新許可。
+                out.append({"mt": k, "status": g("Registreringsstatus"), "atc": atc,
+                            "name": g("Namn"), "strength": g("Styrka"), "form": g("Form"), "atc_code": g("ATC-kod"),
+                            "ingredients": g("Verksamt ämne"), "ingredients_simple": g("Verksamt ämne (förenklat)"),
+                            "holder": g("Innehavare"), "hv": g("H/V"), "approval_date": g("Godkännandedatum"),
+                            "parallel_import": g("Parallellimport")})
     return out
 
 
